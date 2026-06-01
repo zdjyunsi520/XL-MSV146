@@ -1,0 +1,5 @@
+<imgdir name="40021023">
+        <string name="name" value="Nine-Tailed Fury" />
+        <string name="desc" value="Haku unleashes a barrage of attacks that hits all nearby enemies." />
+        <string name="h" value="Mana Cost: #epCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, +#indieDamR% Continuous damage for #time sec\nCooldown: #cooltime sec." />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="15120008">
+        <string name="name" value="Thunder God" />
+        <string name="desc" value="Grants absolute control of thunder and storms." />
+        <string name="h" value="Chance to activate Lightning Buff: +#prop%, Max Accumulation: #v. Critical Rate: #cr%, Critical Max Damage: +#criticaldamageMax%" />
+    </imgdir>

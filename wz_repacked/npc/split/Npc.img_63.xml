@@ -1,0 +1,118 @@
+<imgdir name="Npc.img">
+    <imgdir name="3000150">
+		<string name="name" value="Tear"/>
+	</imgdir>
+    <imgdir name="3000151">
+		<string name="name" value="Tear"/>
+	</imgdir>
+    <imgdir name="3000152">
+		<string name="name" value="Kylan"/>
+	</imgdir>
+    <imgdir name="3001000">
+		<string name="name" value="Edea"/>
+		<string name="n0" value="Do not disturb my planning."/>
+		<string name="n1" value="Come back later. I'm busy."/>
+		<string name="d0" value="We can overcome this crisis."/>
+		<string name="d1" value="What brought you here?"/>
+	</imgdir>
+    <imgdir name="3001001">
+		<string name="name" value="Piston"/>
+		<string name="n0" value="Ahem! Hmm, hmm..."/>
+		<string name="n1" value="Please protect the Reclamation HQ!"/>
+		<string name="d0" value="Edea looks after the strategy. I look after the fighting!"/>
+		<string name="d1" value="Think before you let a crisis overtake you."/>
+	</imgdir>
+    <imgdir name="3001002">
+		<string name="name" value="Eurenth"/>
+		<string name="n0" value="Where are all my servants? Oh right, they all died of old-age."/>
+		<string name="n1" value="You, Popo! Go get some wood."/>
+		<string name="d0" value="Get out of here, unless you're bringing me goodies."/>
+		<string name="d1" value="As a former sage, I'm a wiz with magic, but I'm afraid it will kill me."/>
+	</imgdir>
+    <imgdir name="3001003">
+		<string name="name" value="Popo"/>
+		<string name="n0" value="Popo never get food.."/>
+		<string name="n1" value="Popo always hungry."/>
+		<string name="d0" value="Popo hungry..."/>
+		<string name="d1" value="Popo sleepy..."/>
+	</imgdir>
+    <imgdir name="3001004">
+		<string name="name" value="Tonero"/>
+		<string name="n0" value="Everything in this world costs something."/>
+		<string name="n1" value="Our merchant crew is called the Grandis Shadow."/>
+		<string name="d0" value="I will trade anything, anywhere, anytime. For the right pittance."/>
+		<string name="d1" value="I am Tonero, first champion of the Grandis Shadow."/>
+	</imgdir>
+    <imgdir name="3001005">
+		<string name="name" value="Romero"/>
+		<string name="n0" value="Tonero is a liar."/>
+		<string name="n1" value="I am the Trade King."/>
+		<string name="d0" value="Oh, do you have something to trade?"/>
+		<string name="d1" value="Come to me if you want a deal."/>
+	</imgdir>
+    <imgdir name="3001006">
+		<string name="name" value="Gallero"/>
+		<string name="n0" value="I'm Gallero!"/>
+		<string name="n1" value="Don’t listen to those other blowhards. I’m the best."/>
+		<string name="d0" value="What is it...?"/>
+		<string name="d1" value="What is it?"/>
+	</imgdir>
+    <imgdir name="3001007">
+		<string name="name" value="Tiron"/>
+		<string name="n0" value="Captain Tiron! Roger that!"/>
+		<string name="n1" value="All clear!"/>
+		<string name="d0" value="I’m Tiron, the scout specialist."/>
+		<string name="d1" value="Tracking enemy movement!"/>
+	</imgdir>
+    <imgdir name="3001008">
+		<string name="name" value="Harpoon"/>
+		<string name="func" value="Quartermaster"/>
+		<string name="n0" value="I run the supplies!"/>
+		<string name="n1" value="Please don't call me Maroon."/>
+		<string name="d0" value="What is it?"/>
+		<string name="d1" value="What is it?"/>
+	</imgdir>
+    <imgdir name="3001009">
+		<string name="name" value="Maroon"/>
+		<string name="func" value="Quartermaster"/>
+		<string name="n0" value="I also run the supplies!"/>
+		<string name="n1" value="It's okay for you to call me Harpoon!"/>
+		<string name="d0" value="What is it?"/>
+		<string name="d1" value="What is it?"/>
+	</imgdir>
+    <imgdir name="3001010">
+		<string name="name" value="Kaiser"/>
+		<string name="d0" value="?! Who is it!"/>
+	</imgdir>
+    <imgdir name="3001011">
+		<string name="name" value="Kaiser"/>
+	</imgdir>
+    <imgdir name="3001012">
+		<string name="name" value="Blue Dragon Cannon"/>
+		<string name="func" value="Ancient Nova Weapon"/>
+		<string name="d0" value="Calculating coordinate values."/>
+		<string name="d1" value="Equipment resetting."/>
+	</imgdir>
+    <imgdir name="3001013">
+		<string name="name" value="Wounded Piston"/>
+		<string name="n0" value="Good thing chicks dig scars."/>
+		<string name="n1" value="As long as I don’t miss the concert..."/>
+		<string name="d0" value="I won't have to deal with battles for a while, hahaha!"/>
+		<string name="d1" value="Wish I could at least go check on HQ."/>
+	</imgdir>
+    <imgdir name="3001014">
+		<string name="name" value="Piston"/>
+		<string name="n0" value="Anyone who wants to leave, come see me first."/>
+		<string name="n1" value="Do you want out?"/>
+		<string name="d0" value="So, what is it?"/>
+		<string name="d1" value="You got business here?"/>
+	</imgdir>
+    <imgdir name="3001015">
+		<string name="name" value="Edea"/>
+		<string name="d0" value="We can overcome this crisis."/>
+		<string name="d1" value="What brought you here?"/>
+	</imgdir>
+    <imgdir name="3001016">
+		<string name="name" value="Piston"/>
+	</imgdir>
+</imgdir>

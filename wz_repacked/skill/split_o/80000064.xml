@@ -1,0 +1,5 @@
+<imgdir name="80000064">
+        <string name="name" value="Lv. 2 Squirrel Power" />
+        <string name="desc" value="Where did all these squirrels come from?! Increases Weapon Attack and Magic Attack by 6." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT +#madX" />
+    </imgdir>

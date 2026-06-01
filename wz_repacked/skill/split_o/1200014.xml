@@ -1,0 +1,5 @@
+<imgdir name="1200014">
+        <string name="name" value="Elemental Charge" />
+        <string name="desc" value="#cUse Charge skills of different elements# to charge the elemental power and enhance yourself. Your max DEF will increase as well." />
+        <string name="h" value="If you #cuse a different Charge skill# right after using another Charge skill, you will gain 1 Elemental Charge. Up to#z Elemental Charges can be gained. Recovery amount of #x% (excluding the total damage and Potions), Weapon ATT #y, Abnormal Status Resistance +#u%, hit damage -#w%, #cmax DEF can increase up to 20000# for each Elemental Charge" />
+    </imgdir>

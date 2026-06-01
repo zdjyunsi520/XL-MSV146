@@ -1,0 +1,96 @@
+<imgdir name="Consume.img">
+    <imgdir name="2043007">
+		<string name="name" value="暗黑单手剑强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化单手剑的魔法攻击。\n成功率30%，魔法攻击+2，智力+2，魔法防御+1。\n如果失败，装备有50%的概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2043008">
+		<string name="name" value="单手剑强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化单手剑的魔法攻击。\n成功率10%，魔法攻击+2，魔法防御+1，智力+2。该卷轴的成功率可以通过维加的魔法增强。"/>
+	</imgdir>
+    <imgdir name="2043009">
+		<string name="name" value="单手剑强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化单手剑的魔法攻击。\n成功率60%，魔法攻击+1，智力+1。该卷轴的成功率可以通过维加的魔法增强。"/>
+	</imgdir>
+    <imgdir name="2043010">
+		<string name="name" value="单手剑强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化单手剑的魔法攻击。\n成功率100%，魔法攻击+1"/>
+	</imgdir>
+    <imgdir name="2043011">
+		<string name="name" value="单手剑强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043012">
+		<string name="name" value="单手剑强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043013">
+		<string name="name" value="【6周年】单手剑强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化冒险岛周年纪念单手剑的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n力量：+2\r\n武器攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2043015">
+		<string name="name" value="单手剑强化卷轴 命中 100%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2043016">
+		<string name="name" value="单手剑强化卷轴 命中 70%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043017">
+		<string name="name" value="单手剑强化卷轴 命中 60%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043018">
+		<string name="name" value="单手剑强化卷轴 命中 30%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043019">
+		<string name="name" value="单手剑强化卷轴 命中 10%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043021">
+		<string name="name" value="佩佩国王 60% 单手剑强化卷轴"/>
+		<string name="desc" value="强化佩佩国王弯刀的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043022">
+		<string name="name" value="单手剑强化卷轴 攻击 50%"/>
+		<string name="desc" value="强化单手剑的攻击。\n成功率50%，武器攻击+5，力量+3，敏捷+1"/>
+	</imgdir>
+    <imgdir name="2043023">
+		<string name="name" value="单手剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手剑的攻击。\n成功率100%，武器攻击+2，力量+2"/>
+	</imgdir>
+    <imgdir name="2043024">
+		<string name="name" value="单手剑强化卷轴 命中 65%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043025">
+		<string name="name" value="单手剑强化卷轴 命中 15%"/>
+		<string name="desc" value="强化单手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043100">
+		<string name="name" value="单手斧强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手斧的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2043101">
+		<string name="name" value="单手斧强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化单手斧的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043102">
+		<string name="name" value="单手斧强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化单手斧的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+</imgdir>

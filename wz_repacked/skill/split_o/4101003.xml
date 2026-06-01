@@ -1,0 +1,5 @@
+<imgdir name="4101003">
+        <string name="name" value="Claw Booster" />
+        <string name="desc" value="Increase the attack speed of your weapon by 2 levels. Must have a Claw equipped.\nRequired Skill: #cClaw Mastery Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5360009">
+		<string name="name" value="2X Drop Card - Type 1"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360010">
+		<string name="name" value="2X Drop Card - Type 1"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360011">
+		<string name="name" value="2X Drop Card - Type 1"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360012">
+		<string name="name" value="2X Drop Card - Type 1"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Drop (double drop rate)# from monsters. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360013">
+		<string name="name" value="2X Drop Card - Type 1"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Drop (double drop rate)# from monsters. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360014">
+		<string name="name" value="2x Drop 3 Hours Special Card"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Drop (double drop)#. The coupon will be activated immediately after purchase, and the double drop effect will be available for 3 hours upon purchase."/>
+	</imgdir>
+    <imgdir name="5360042">
+		<string name="name" value="4 hour 2 x Drop special coupon"/>
+		<string name="desc" value="This coupon #cdoubles the amount of mesos and doubles the rate of items# dropped from monsters. The coupon will be immediately activated after purchase and the double drop effect will be available for 4 hour upon purchase."/>
+	</imgdir>
+    <imgdir name="5370000">
+		<string name="name" value="Chalkboard"/>
+		<string name="desc" value="Any information entered will be featured on the chalkboard. The item can be used anywhere including #cFree Market Entrance# except for #cFree Market#."/>
+	</imgdir>
+    <imgdir name="5370001">
+		<string name="name" value="Chalkboard"/>
+		<string name="desc" value="Any information entered will be featured on the chalkboard. The item can be used anywhere including #cFree Market Entrance# except for #cFree Market#."/>
+	</imgdir>
+    <imgdir name="5370002">
+		<string name="name" value="Chalkboard: 3 Days"/>
+		<string name="desc" value="Any information entered will be featured on the chalkboard. The item can be used anywhere including #cFree Market Entrance# except for #cFree Market#."/>
+	</imgdir>
+    <imgdir name="5380000">
+		<string name="name" value="The Rock of Evolution"/>
+		<string name="desc" value="A mysterious rock that enables baby Evolving Pets to grow into full-fledged adult Evolving Pets."/>
+	</imgdir>
+    <imgdir name="5390000">
+		<string name="name" value="Diablo Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone's screen! Comes with a burning background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390001">
+		<string name="name" value="Cloud 9 Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone's screen! Comes with a bright background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390002">
+		<string name="name" value="Loveholic Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone's screen! Comes with a heart background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390005">
+		<string name="name" value="Cute Tiger Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone's screen! Comes with a tiger background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390006">
+		<string name="name" value="Roaring Tiger Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone's screen! Comes with a screen shaked."/>
+	</imgdir>
+    <imgdir name="5390007">
+		<string name="name" value="Goal! Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this. Now available with your avatar on the top of everyone's screen! Comes with a burning background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390008">
+		<string name="name" value="Soccer! Messenger"/>
+		<string name="desc" value="Shout to everyone in the world your character is on with this. Now available with your avatar on the top of everyone's screen! Comes with a burning background for your avatar."/>
+	</imgdir>
+    <imgdir name="5390009">
+		<string name="name" value="Bigshot Megaphone"/>
+		<string name="desc" value="I'm the most famous character in Maple World! Use this item to display your character image along with a message to the entire world. "/>
+	</imgdir>
+    <imgdir name="5390010">
+		<string name="name" value="Ghost Megaphone"/>
+		<string name="desc" value="Haunt the channel! Your message is heard by everyone on the channel and a ghost icon is displayed."/>
+	</imgdir>
+</imgdir>

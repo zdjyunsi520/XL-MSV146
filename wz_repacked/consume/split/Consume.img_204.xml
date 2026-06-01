@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290467">
+		<string name="name" value="Wild Hunter's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Wild Hunters when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290468">
+		<string name="name" value="Mechanic's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Mechanics when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290469">
+		<string name="name" value="[Special Mastery Book] Advanced Combo Attack 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAdvanced Combo Attack# to 30.\nJob: Hero\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290470">
+		<string name="name" value="[Special Mastery Book] Enrage 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cEnrage# to 30.\nJob: Hero\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290471">
+		<string name="name" value="[Special Mastery Book] Achilles 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAchilles# to 30.\nJob: Paladin\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290472">
+		<string name="name" value="[Special Mastery Book] Divine Charge 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDivine Charge# to 20.\nJob: Paladin\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290473">
+		<string name="name" value="[Special Mastery Book] Aura of the Beholden 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAura of the Beholden# to 20.\nJob: Dark Knight\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290474">
+		<string name="name" value="[Special Mastery Book] Hex of the Beholden 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHex of the Beholden# to 20.\nJob: Dark Knight\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290476">
+		<string name="name" value="[Special Mastery Book] Meteor Shower 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMeteor Shower# to 30.\nJob: Arch Mage (Fire, Poison)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290477">
+		<string name="name" value="[Special Mastery Book] Blizzard 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBlizzard# to 30.\nJob: Arch Mage (Ice, Lightning)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290478">
+		<string name="name" value="[Special Mastery Book] Genesis 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cGenesis# to 30.\nJob: Bishop\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290479">
+		<string name="name" value="[Special Mastery Book] Bow Expert 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBow Expert# to 30.\nJob: Bow Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290480">
+		<string name="name" value="[Special Mastery Book] Shadow Shifter 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cShadow Shifter# to 30.\nJob: Shadower, Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290481">
+		<string name="name" value="[Special Mastery Book] Sudden Raid 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSudden Raid# to 30.\nJob: All Thief Classes\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290482">
+		<string name="name" value="[Special Mastery Book] Boomerang Stab 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBoomerang Stab# to 30.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290483">
+		<string name="name" value="[Special Mastery Book] Assassinate 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAssassinate# to 30.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290484">
+		<string name="name" value="[Special Mastery Book] Smokescreen 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSmokescreen# to 30.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290485">
+		<string name="name" value="[Special Mastery Book] Dagger Expert 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDagger Expert# to 30.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290486">
+		<string name="name" value="[Special Mastery Book] Shadower Instinct 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cShadower Instinct# to 20.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290487">
+		<string name="name" value="[Special Mastery Book] Taunt 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cTaunt# to 20.\nJob: Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

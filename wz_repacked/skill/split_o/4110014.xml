@@ -1,0 +1,5 @@
+<imgdir name="4110014">
+        <string name="name" value="Alchemic Adrenaline" />
+        <string name="desc" value="Increases the effect of recovery items like potions. Percentage-based recovery items like Elixirs do not count. Also increases Min/Max Critical Damage." />
+        <string name="h" value="Recovery Amount: +#x% Min/Max Critical Damage Amount: +#criticaldamageMin%" />
+    </imgdir>

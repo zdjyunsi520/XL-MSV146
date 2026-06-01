@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000649">
+			<string name="name" value="骑士面具"/>
+			<string name="desc" value="正式骑士A戴的面具"/>
+		</imgdir>
+    <imgdir name="4000650">
+			<string name="name" value="骑士长袍"/>
+			<string name="desc" value="正式骑士B穿的长袍"/>
+		</imgdir>
+    <imgdir name="4000651">
+			<string name="name" value="骑士头巾"/>
+			<string name="desc" value="正式骑士C戴的头巾"/>
+		</imgdir>
+    <imgdir name="4000652">
+			<string name="name" value="骑士手套"/>
+			<string name="desc" value="正式骑士D戴的手套"/>
+		</imgdir>
+    <imgdir name="4000653">
+			<string name="name" value="骑士肩甲"/>
+			<string name="desc" value="正式骑士E戴的肩甲"/>
+		</imgdir>
+    <imgdir name="4000654">
+			<string name="name" value="暗夜吊坠"/>
+			<string name="desc" value="进阶骑士A戴的吊坠。由暗夜石制成"/>
+		</imgdir>
+    <imgdir name="4000655">
+			<string name="name" value="烈焰吊坠"/>
+			<string name="desc" value="进阶骑士B戴的吊坠。由烈焰石制成"/>
+		</imgdir>
+    <imgdir name="4000656">
+			<string name="name" value="雷电吊坠"/>
+			<string name="desc" value="进阶骑士C戴的吊坠。由雷电石制成"/>
+		</imgdir>
+    <imgdir name="4000657">
+			<string name="name" value="疾风吊坠"/>
+			<string name="desc" value="进阶骑士C戴的吊坠。由疾风石制成"/>
+		</imgdir>
+    <imgdir name="4000658">
+			<string name="name" value="曙光吊坠"/>
+			<string name="desc" value="进阶骑士A戴的吊坠。由曙光石制成"/>
+		</imgdir>
+    <imgdir name="4000659">
+			<string name="name" value="天鹅头饰"/>
+			<string name="desc" value="女皇的头饰。装饰有蓝色宝石"/>
+		</imgdir>
+    <imgdir name="4000660">
+			<string name="name" value="曙光石"/>
+			<string name="desc" value="包含曙光力量的石头"/>
+		</imgdir>
+    <imgdir name="4000661">
+			<string name="name" value="烈焰石"/>
+			<string name="desc" value="包含烈焰力量的石头"/>
+		</imgdir>
+    <imgdir name="4000662">
+			<string name="name" value="疾风石"/>
+			<string name="desc" value="包含疾风力量的石头"/>
+		</imgdir>
+    <imgdir name="4000663">
+			<string name="name" value="暗夜石"/>
+			<string name="desc" value="包含暗夜力量的石头"/>
+		</imgdir>
+    <imgdir name="4000664">
+			<string name="name" value="冰霜碎片"/>
+			<string name="desc" value="壁垒的碎片。放在反应堆上激活"/>
+		</imgdir>
+    <imgdir name="4000665">
+			<string name="name" value="海星肉"/>
+			<string name="desc" value="曾经属于海星的一块肉"/>
+		</imgdir>
+    <imgdir name="4000666">
+			<string name="name" value="水母黏液"/>
+			<string name="desc" value="水母的黏液。非常黏"/>
+		</imgdir>
+    <imgdir name="4000667">
+			<string name="name" value="黄色海星腿"/>
+			<string name="desc" value="黄色海星的腿。幸好它有很多条"/>
+		</imgdir>
+    <imgdir name="4000668">
+			<string name="name" value="愤怒海星腿"/>
+			<string name="desc" value="愤怒海星的腿。不知道它为什么生气？"/>
+		</imgdir>
+</imgdir>

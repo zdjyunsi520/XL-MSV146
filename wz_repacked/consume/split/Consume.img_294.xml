@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430815">
+		<string name="name" value="Green General Shoes"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for Green General Shoes."/>
+	</imgdir>
+    <imgdir name="2430816">
+		<string name="name" value="Green General Gloves"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for Green General Gloves."/>
+	</imgdir>
+    <imgdir name="2430817">
+		<string name="name" value="Purple Senior Cap"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for a Purple Senior Cap."/>
+	</imgdir>
+    <imgdir name="2430818">
+		<string name="name" value="Purple Senior Suit"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for a Purple Senior Suit."/>
+	</imgdir>
+    <imgdir name="2430819">
+		<string name="name" value="Purple Senior Shoes"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for Purple Senior Shoes."/>
+	</imgdir>
+    <imgdir name="2430820">
+		<string name="name" value="Purple Senior Gloves"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for Purple Senior Gloves."/>
+	</imgdir>
+    <imgdir name="2430865">
+		<string name="name" value="VIP Secret Box"/>
+		<string name="desc" value="A special gift box given to the Maple BigWig players every month.\nExpiration: TKTKTK"/>
+	</imgdir>
+    <imgdir name="2430866">
+		<string name="name" value="Battle Mode Blessing Potion"/>
+		<string name="desc" value="A blessing potion from Battle Mode. Use it to obtain a chunk of EXP, depending on your level. #cHas no effect on characters under Lv. 10 and max level characters.#"/>
+	</imgdir>
+    <imgdir name="2430867">
+		<string name="name" value="Comfort Fund Coupon"/>
+		<string name="desc" value="A coupon issued from the 'New Character Support Headquarters' to help new characters settle down in Maple World. #cDouble-click# to obtain a coin item that can be exchanged for Mesos at the store. If you're lucky, you might get a huge payday!"/>
+	</imgdir>
+    <imgdir name="2430868">
+		<string name="name" value="Pet Comfort Coupon"/>
+		<string name="desc" value="A pet coupon issued from the 'New Character Support Headquarters' to help new characters settle down in Maple World. #cDouble-click# to receive a pet that can be used for 30 days."/>
+	</imgdir>
+    <imgdir name="2430869">
+		<string name="name" value="Gladiator Pouch"/>
+		<string name="desc" value="A pouch made for a Battle Mode Gladiator. No one knows what's inside."/>
+	</imgdir>
+    <imgdir name="2430871">
+		<string name="name" value="Pink Scooter Mount"/>
+		<string name="desc" value="Double-click to learn the Pink Scooter mount skill for 7 days."/>
+	</imgdir>
+    <imgdir name="2430872">
+		<string name="name" value="Moth-Eaten Scroll"/>
+		<string name="desc" value="Something important seems to be written on this old scroll."/>
+	</imgdir>
+    <imgdir name="2430873">
+		<string name="name" value="Vampiric Lantern"/>
+		<string name="desc" value="Unlike other normal lanterns, this lantern collects light."/>
+	</imgdir>
+    <imgdir name="2430874">
+		<string name="name" value="Aurora Prism"/>
+		<string name="desc" value="A special crystal that possesses the power to warp to Harmony, Aurora's hideout."/>
+	</imgdir>
+    <imgdir name="2430878">
+		<string name="name" value="Orange Mushroom Surprise"/>
+		<string name="desc" value="A surprise gift from an Orange Mushroom."/>
+	</imgdir>
+    <imgdir name="2430883">
+		<string name="name" value="Tempest Teleport Rock"/>
+		<string name="desc" value="A magical stone given to a traveler engulfed by a gigantic storm. Use it to move to a town of your choice regardless of continents.#cAble to use it once every 30 minutes.#"/>
+	</imgdir>
+    <imgdir name="2430884">
+		<string name="name" value="Perzen's Scroll"/>
+		<string name="desc" value="A scroll that sends you off to an area of deep darkness near Ellin Forest."/>
+	</imgdir>
+    <imgdir name="2430885">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2430886">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+</imgdir>

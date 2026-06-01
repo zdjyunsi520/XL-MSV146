@@ -1,0 +1,81 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430577">
+		<string name="name" value="Lucky Legends Box"/>
+		<string name="desc" value="A box for those who will be remembered as legends. \n#cDouble-click to view the contents.#"/>
+	</imgdir>
+    <imgdir name="2430606">
+		<string name="name" value="Andy's Mastery Book"/>
+		<string name="desc" value="A gift from Andy the Neo City Time Traveler. Contains a Mastery Book for your character."/>
+	</imgdir>
+    <imgdir name="2430607">
+		<string name="name" value="Gift Filled Christmas Socks"/>
+		<string name="desc" value="The empty sock that you put in the Item Pot filled up with Christmas gifts! #cDouble-click# to receive a random gift. Careful, this can only be opened until 2012/12/31."/>
+	</imgdir>
+    <imgdir name="2430608">
+		<string name="name" value="Santa's Shining Box"/>
+		<string name="desc" value="A shining gift box prepared by Jingling Santa. #cDouble-click# to obtain an awesome gift. Careful, this can only be opened until 2012/12/31."/>
+	</imgdir>
+    <imgdir name="2430610">
+		<string name="name" value="Santa Sled Mount 7-Day Coupon"/>
+		<string name="desc" value="#cDouble-click# on it to use the #Santa Sled# riding skill for #c7 days#, starting from today."/>
+	</imgdir>
+    <imgdir name="2430611">
+		<string name="name" value="Mystery Special Mastery Book"/>
+		<string name="desc" value="The book is enchanted to become whatever the reader needs most. Double-click to transform it into one Special Mastery Book of choice.\n#cCannot be used by Cygnus Knights, can be used by Mihile#"/>
+	</imgdir>
+    <imgdir name="2430612">
+		<string name="name" value="Rudolph's Shining Box"/>
+		<string name="desc" value="A shining gift box prepared by Rudolph. #cDouble-click# to obtain an awesome gift. Careful, this can only be opened until 2012/12/31."/>
+	</imgdir>
+    <imgdir name="2430622">
+		<string name="name" value="2012 Holiday Gift Box"/>
+		<string name="desc" value="A gift box to celebreate Christmas 2012.\n#cDouble-click on it to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2430623">
+		<string name="name" value="Scented Secret Envelope"/>
+		<string name="desc" value="A faintly nice smelling envelope given to you by Cassandra. The paper looks very lush."/>
+	</imgdir>
+    <imgdir name="2430625">
+		<string name="name" value="Renegades Gift Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430626">
+		<string name="name" value="Renegades Gift Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430627">
+		<string name="name" value="Renegades Gift Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430630">
+		<string name="name" value="Virtue's Blessing"/>
+		<string name="desc" value="With blessings of the Knights of Virtue, you gain more power. Depending on your level, this increases your ATT and Magic ATT, HP and Mana, or Movement Speed. "/>
+	</imgdir>
+    <imgdir name="2430631">
+		<string name="name" value="Year-End Dragon Luck Sack"/>
+		<string name="desc" value="A dragon-made sack full of luck… and items! Double-click to open. Make sure you open it before 12/31/12, when its luck will run out!"/>
+	</imgdir>
+    <imgdir name="2430632">
+		<string name="name" value="Power Growth Potion"/>
+		<string name="desc" value="A legendary elixir of great power that will increase your level. Double-click to use.\n#cMaximum-level characters cannot benefit from this item.#"/>
+	</imgdir>
+    <imgdir name="2430633">
+		<string name="name" value="Yeti 30-Day Coupon"/>
+		<string name="desc" value="A coupon that allows you to use the #c[Yeti]# mount for #c30 days#.\n#cDouble-click# on it to use the mount skill."/>
+	</imgdir>
+    <imgdir name="2430634">
+		<string name="name" value="Pink Scooter 30-Day Coupon"/>
+		<string name="desc" value="A coupon that allows you to use the #c[Pink Scooter]# mount for #c30 days#.\n#cDouble-click# on it to use the mount skill."/>
+	</imgdir>
+    <imgdir name="2430635">
+		<string name="name" value="Santa's Amazing Blessing"/>
+		<string name="desc" value="A small crystal filled with Santa's blessing. Use it to obtain a considerable amount of EXP.\n#cHowever, max level characters will reap no benefits.#"/>
+	</imgdir>
+    <imgdir name="2430636">
+		<string name="name" value="Gold Richie's Treasure Vault Ticket"/>
+		<string name="desc" value="Special tickets that allow you into Gold Richie's Treasure Vault, where the richest man in Maple World stores his stuff!\nDouble-click on the ticket to visit Gold Richie's Treasure Vault. "/>
+	</imgdir>
+    <imgdir name="2430641">
+		<string name="name" value="Gold Richie's Pouch"/>
+	</imgdir>
+</imgdir>

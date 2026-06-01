@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022522">
+		<string name="name" value="Golden Pig's Dazzling Egg"/>
+		<string name="desc" value="An egg from a Golden Pig. You cannot tell what's inside. Double-click to crack it open."/>
+	</imgdir>
+    <imgdir name="2022523">
+		<string name="name" value="Golden Pig's Dazzling Egg"/>
+		<string name="desc" value="An egg from a Golden Pig. You cannot tell what's inside. Double-click to crack it open."/>
+	</imgdir>
+    <imgdir name="2022524">
+		<string name="name" value="Golden Pig's Dazzling Egg"/>
+		<string name="desc" value="An egg from a Golden Pig. You cannot tell what's inside. Double-click to crack it open."/>
+	</imgdir>
+    <imgdir name="2022526">
+		<string name="name" value="Azalea"/>
+		<string name="desc" value="A spring flower that especially enjoys sunlight. Restores approximately 2000 HP."/>
+	</imgdir>
+    <imgdir name="2022527">
+		<string name="name" value="Forsythia"/>
+		<string name="desc" value="The first flower to bloom in the spring. Restores approximately 2000 HP."/>
+	</imgdir>
+    <imgdir name="2022528">
+		<string name="name" value="Clover"/>
+		<string name="desc" value="A spring flower that symbolizes good luck. Restores approximately 2000 HP."/>
+	</imgdir>
+    <imgdir name="2022529">
+		<string name="name" value="Meaning of Azaleas"/>
+		<string name="desc" value="The meaning of Azaleas is love. 2x Meso drops for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022530">
+		<string name="name" value="Meaning of Forsythias"/>
+		<string name="desc" value="The meaning of Forsythias is hope. 2X item drops for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022531">
+		<string name="name" value="Meaning of Clovers"/>
+		<string name="desc" value="The meaning of Clovers in luck.  2X item drops for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022536">
+		<string name="name" value="Underground Temple's Seal"/>
+		<string name="desc" value="The Seal's energy has been placed on the Underground Temple in order to trap the Balrog inside. It restricts the abilities of all living things."/>
+	</imgdir>
+    <imgdir name="2022537">
+		<string name="name" value="Gladius's Strength"/>
+		<string name="desc" value="The abilities of the person wieldng the Hero's Gladius is amplified under the protection of Tristan. Weapon ATT +30 and Magic Attack +30."/>
+	</imgdir>
+    <imgdir name="2022538">
+		<string name="name" value="Red Easter Egg"/>
+		<string name="desc" value="A freshly boiled egg colored in red. Recovers 400 HP and MP."/>
+	</imgdir>
+    <imgdir name="2022539">
+		<string name="name" value="Cry of a Little Lamb"/>
+		<string name="desc" value="Wolves slow down when they hear a lamb cry."/>
+	</imgdir>
+    <imgdir name="2022541">
+		<string name="name" value="Self Protection"/>
+		<string name="desc" value="Protects from a Wolf's attack 1 time."/>
+	</imgdir>
+    <imgdir name="2022542">
+		<string name="name" value="Little Lamb's Surprise Attack"/>
+		<string name="desc" value="Attacks a Wolf's back, temporarily immobolizing it."/>
+	</imgdir>
+    <imgdir name="2022543">
+		<string name="name" value="Great Confusion"/>
+		<string name="desc" value="Causes the sheep to become confused and lose direction."/>
+	</imgdir>
+    <imgdir name="2022544">
+		<string name="name" value="White Elixir"/>
+		<string name="desc" value="A legendary potion. \nRecovers 50% HP and MP and cancels abnormal statuses. It can recover all abnormal statuses."/>
+	</imgdir>
+    <imgdir name="2022545">
+		<string name="name" value="Dynamite Drink EX"/>
+		<string name="desc" value="A drink with &quot;Energy Boost&quot; written on the label. Consuming this drink will grant ATT +25, MP +30, DEF +30, and Jump +10 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022546">
+		<string name="name" value="Energy Drink"/>
+		<string name="desc" value="Consuming this drink will increase MAX HP for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2022547">
+		<string name="name" value="Sound of the Sheep's Bells"/>
+		<string name="desc" value="Slows wolves' movement speed."/>
+	</imgdir>
+</imgdir>

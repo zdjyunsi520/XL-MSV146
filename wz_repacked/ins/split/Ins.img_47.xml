@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700053">
+		<string name="name" value="Totally Yutnique"/>
+		<string name="desc" value="Title for hitting each unique roll once in the Game of Yut.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700054">
+		<string name="name" value="Speed Yutter"/>
+		<string name="desc" value="Title for blasting through the game of Yut more quickly than others.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700055">
+		<string name="name" value="Double Double"/>
+		<string name="desc" value="Title given to the lucky few who received 2x bonus effects in the Game of Yut.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700056">
+		<string name="name" value="Scratch"/>
+		<string name="desc" value="Title given to those unlucky few who got a #cScratch# during the Game of Yut.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700057">
+		<string name="name" value="Pigging Out"/>
+		<string name="desc" value="Oink Oink Oink! Title given to the those who have the luck of a pig in the Game of Yut.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700058">
+		<string name="name" value="A Little More Yut"/>
+		<string name="desc" value="Title given to those who finished the 2013 Springtime Game of Yut #c10 times# .\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700059">
+		<string name="name" value="Passion Yut Gamer"/>
+		<string name="desc" value="Title given to those who finished the 2013 Springtime Game of Yut #c50 times# .\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700060">
+		<string name="name" value="Ultimate Stick Person"/>
+		<string name="desc" value="Title given to the Yut Master who has completed the Yut Challenger in 7 games.\r\n#cClick to turn On/Off.#"/>
+	</imgdir>
+    <imgdir name="3700061">
+		<string name="name" value="Mu Lung Bears"/>
+		<string name="desc" value="Title for supporters of the Mu Lung Bears.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700062">
+		<string name="name" value="Leafre Wyverns"/>
+		<string name="desc" value="Title for supporters of the Leafre Wyverns.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700063">
+		<string name="name" value="Von Leon Lions"/>
+		<string name="desc" value="Title for supporters of the Von Leon Lions.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700064">
+		<string name="name" value="Chryse Giants"/>
+		<string name="desc" value="Title for supporters of the Chryse Giants.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700065">
+		<string name="name" value="Pantheon Heroes"/>
+		<string name="desc" value="Title for supporters of the Pantheon Heroes.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700066">
+		<string name="name" value="Black Mountain Tigers"/>
+		<string name="desc" value="Title for supporters of the Black Mountain Tigers.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700067">
+		<string name="name" value="Orchid Twins"/>
+		<string name="desc" value="Title for supporters of the Orchid Twins.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700068">
+		<string name="name" value="Henesys Eagles"/>
+		<string name="desc" value="Title for supporters of the Henesys Eagles.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700073">
+		<string name="name" value="Wind Walker"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +1#"/>
+	</imgdir>
+    <imgdir name="3700074">
+		<string name="name" value="Bear Heart"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +1#"/>
+	</imgdir>
+    <imgdir name="3700075">
+		<string name="name" value="Polite Greeting"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +2#"/>
+	</imgdir>
+    <imgdir name="3700076">
+		<string name="name" value="Crybaby Raccoon"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +2#"/>
+	</imgdir>
+</imgdir>

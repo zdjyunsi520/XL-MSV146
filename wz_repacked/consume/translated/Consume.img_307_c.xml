@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2450036">
+		<string name="name" value="哈库纳马塔塔周日祝福"/>
+		<string name="desc" value="通过将你的经验增加1.5倍1小时来消除你的烦恼和问题的祝福。#c只能在周日使用。#"/>
+	</imgdir>
+    <imgdir name="2450037">
+		<string name="name" value="寒意刺激"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#buff持续#c1小时#。像冬雪一样凉爽。"/>
+	</imgdir>
+    <imgdir name="2450038">
+		<string name="name" value="传说永不放弃！"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450039">
+		<string name="name" value="1.5倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450040">
+		<string name="name" value="传说1.3倍经验券"/>
+		<string name="desc" value="可以从传说商店购买的1.3倍经验券。\n#c双击#获得#c1.3倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450041">
+		<string name="name" value="1.5倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450042">
+		<string name="name" value="2倍经验券"/>
+		<string name="desc" value="#c双击#获得#c2倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450043">
+		<string name="name" value="2倍经验券"/>
+		<string name="desc" value="#c双击#获得#c2倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450044">
+		<string name="name" value="巧克力棒之爱"/>
+		<string name="desc" value="通过分享巧克力棒来分享你的爱一周！#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450045">
+		<string name="name" value="万圣节1.5倍经验券"/>
+		<string name="desc" value="万圣节大树送给你的1.5倍经验券。#c双击#获得#c1.5倍经验#持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450046">
+		<string name="name" value="万圣节1.5倍经验券"/>
+		<string name="desc" value="万圣节魔女猫掉落的1.5倍经验券。#c双击#获得#c1.5倍经验#持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450047">
+		<string name="name" value="传说奖励！"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450048">
+		<string name="name" value="情人节ATT+30 Buff"/>
+		<string name="desc" value="#c双击#获得情人节特殊buff。武器/魔法ATT+30持续2小时。"/>
+	</imgdir>
+    <imgdir name="2450049">
+		<string name="name" value="年终1.5倍经验券"/>
+		<string name="desc" value="庆祝又一个美好年份结束的1.5倍经验券。#c双击#获得#c1.5倍经验#持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450050">
+		<string name="name" value="有效休息（15分钟）"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c15分钟#。"/>
+	</imgdir>
+    <imgdir name="2450051">
+		<string name="name" value="有效休息（30分钟）"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2450052">
+		<string name="name" value="有效休息（45分钟）"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c45分钟#。"/>
+	</imgdir>
+    <imgdir name="2450053">
+		<string name="name" value="有效休息（60分钟）"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c60分钟#。"/>
+	</imgdir>
+    <imgdir name="2450054">
+		<string name="name" value="新年3倍经验券"/>
+		<string name="desc" value="新年快乐！#c双击#获得#c3倍经验#buff持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2450055">
+		<string name="name" value="1.5倍经验券"/>
+		<string name="desc" value="黄金寺庙开放赠送的礼物。#c双击#获得#c1.5倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+</imgdir>

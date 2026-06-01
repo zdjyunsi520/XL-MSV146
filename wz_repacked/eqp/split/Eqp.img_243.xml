@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1042258"><string name="name" value="Eagle Eye Wanderer Coat"/></imgdir>
+    <imgdir name="1042259"><string name="name" value="Lemon Freshness"/></imgdir>
+    <imgdir name="1042260"><string name="name" value="Loose Fit Sweater"/></imgdir>
+    <imgdir name="1042261"><string name="name" value="Black Viva Baseball"/></imgdir>
+    <imgdir name="1042262"><string name="name" value="Colorful T-Shirt"/></imgdir>
+    <imgdir name="1042264"><string name="name" value="Colored Golf Shirt"/></imgdir>
+    <imgdir name="1042265"><string name="name" value="Strawberry Shirt"/></imgdir>
+    <imgdir name="1042267"><string name="name" value="Exciting Hoodie"/></imgdir>
+    <imgdir name="1042268"><string name="name" value="Cutie Raincoat"/></imgdir>
+    <imgdir name="1042269"><string name="name" value="Ribbon Days"/></imgdir>
+    <imgdir name="1042270"><string name="name" value="Pink Bunny Sweater"/></imgdir>
+    <imgdir name="1042271"><string name="name" value="Meow T-shirt"/></imgdir>
+    <imgdir name="1042272"><string name="name" value="Slick Agent Top"/></imgdir>
+    <imgdir name="1042275"><string name="name" value="Frog Raindrop"/></imgdir>
+    <imgdir name="1042293"><string name="name" value="Guardian Clothing"/></imgdir>
+    <imgdir name="1048000"><string name="name" value="Couple Shirt"/><string name="desc" value="Can be purchased and given to another user as a gift. If two characters wearing this item are standing within a given range, the Couple effect is generated."/></imgdir>
+    <imgdir name="1048001"><string name="name" value="Bunny Love T-Shirt"/><string name="desc" value="Can be purchased and given to another user as a gift. If two characters wearing this item are standing within a given range, the Couple effect is generated."/></imgdir>
+    <imgdir name="1049000"><string name="name" value="Friendship Shirt"/><string name="desc" value="Can be purchased and given to another user as a gift. If two characters wearing this item are standing within a given range, the Friendship effect is generated."/></imgdir>
+    <imgdir name="Dragon"><imgdir name="1942000"><string name="name" value="Silver Mask"/></imgdir>
+    <imgdir name="1942001"><string name="name" value="Gold Mask"/></imgdir>
+</imgdir>

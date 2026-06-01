@@ -1,0 +1,138 @@
+<imgdir name="Npc.img">
+    <imgdir name="1500001">
+		<string name="name" value="艾薇娜校长"/>
+		<string name="n0" value="我的学生是我的首要任务。"/>
+		<string name="n1" value="这里的学生将成为我们人民未来的领袖。"/>
+		<string name="d0" value="埃琳奈尔精灵学院致力于以传统方式教育精灵。"/>
+		<string name="d1" value="埃琳奈尔精灵学院致力于以传统方式教育精灵。"/>
+	</imgdir>
+    <imgdir name="1500002">
+		<string name="name" value="卡莱扬教务长"/>
+		<string name="n0" value="外人永远不可信。"/>
+		<string name="n1" value="只要学生们安全就好。"/>
+		<string name="d0" value="是的，我是卡莱扬教务长"/>
+		<string name="d1" value="是的，我是卡莱扬教务长"/>
+	</imgdir>
+    <imgdir name="1500003">
+		<string name="name" value="精灵乌尼"/>
+		<string name="n0" value="埃琳奈尔是我的第二个家..."/>
+		<string name="n1" value="我们去玩吧！"/>
+		<string name="d0" value="我是乌尼。"/>
+		<string name="d1" value="我是乌尼。"/>
+	</imgdir>
+    <imgdir name="1500004">
+		<string name="name" value="精灵托什"/>
+		<string name="n0" value="你知道英雄的故事吗？"/>
+		<string name="n1" value="谢谢你救了我！"/>
+		<string name="d0" value="托什是我的名字！"/>
+		<string name="d1" value="托什是我的名字！"/>
+	</imgdir>
+    <imgdir name="1500005">
+		<string name="name" value="精灵特蕾西"/>
+		<string name="n0" value="我太受欢迎了，这对我自己来说不是好事！"/>
+		<string name="n1" value="太酷了！"/>
+		<string name="d0" value="我的名字是特蕾西。"/>
+		<string name="d1" value="我的名字是特蕾西。"/>
+	</imgdir>
+    <imgdir name="1500006">
+		<string name="name" value="精灵埃菲妮"/>
+		<string name="n0" value="表演必须继续！"/>
+		<string name="n1" value="副校长的讲座太无聊了。"/>
+		<string name="d0" value="我的名字是埃菲妮。"/>
+		<string name="d1" value="我的名字是埃菲妮。"/>
+	</imgdir>
+    <imgdir name="1500007">
+		<string name="name" value="精灵菲尼"/>
+		<string name="n0" value="我学到了冒险应该适度进行。"/>
+		<string name="n1" value="谢谢你救了我。"/>
+		<string name="d0" value="我是菲尼！"/>
+		<string name="d1" value="我是菲尼！"/>
+	</imgdir>
+    <imgdir name="1500008">
+		<string name="name" value="精灵阿尔文"/>
+		<string name="n0" value="回到这里，远离人类，勾起了我的回忆。"/>
+		<string name="n1" value="埃琳奈尔是我们精灵最接近家的地方。"/>
+	</imgdir>
+    <imgdir name="1500009">
+		<string name="name" value="精灵罗恩"/>
+		<string name="n0" value="我也是精灵学院的毕业生。"/>
+		<string name="n1" value="我不敢相信所有老师都一模一样！"/>
+	</imgdir>
+    <imgdir name="1500010">
+		<string name="name" value="范济"/>
+		<string name="n0" value="喵"/>
+		<string name="n1" value="喵~~~"/>
+		<string name="d0" value="喵~~~"/>
+		<string name="d1" value="喵~~~"/>
+	</imgdir>
+    <imgdir name="1500011">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="某处一定有线索，朋友！"/>
+		<string name="n1" value="我要成为精灵英雄！"/>
+		<string name="d0" value="那些珍贵的精灵正处于危险之中！"/>
+		<string name="d1" value="那些珍贵的精灵正处于危险之中！"/>
+	</imgdir>
+    <imgdir name="1500012">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="某处一定有线索，朋友！"/>
+		<string name="n1" value="我要成为精灵英雄！"/>
+		<string name="d0" value="那些珍贵的精灵正处于危险之中！"/>
+		<string name="d1" value="那些珍贵的精灵正处于危险之中！"/>
+	</imgdir>
+    <imgdir name="1500013">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="呃...你只管负责所有战斗..."/>
+		<string name="n1" value="凭借我们的合力，那些孩子肯定能得救！"/>
+		<string name="d0" value="那些珍贵的精灵正处于危险之中！"/>
+		<string name="d1" value="那些珍贵的精灵正处于危险之中！"/>
+	</imgdir>
+    <imgdir name="1500014">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="呃...你只管负责所有战斗..."/>
+		<string name="n1" value="凭借我们的合力，那些孩子肯定能得救！"/>
+		<string name="d0" value="那些珍贵的精灵正处于危险之中！"/>
+		<string name="d1" value="那些珍贵的精灵正处于危险之中！"/>
+	</imgdir>
+    <imgdir name="1500015">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="呃...你只管负责所有战斗..."/>
+		<string name="n1" value="凭借我们的合力，那些孩子肯定能得救！"/>
+		<string name="d0" value="我想差不多完成了。"/>
+		<string name="d1" value="我想差不多完成了。"/>
+	</imgdir>
+    <imgdir name="1500016">
+		<string name="name" value="精灵乌尼"/>
+		<string name="n0" value="我好害怕！"/>
+		<string name="n1" value="我想回家..."/>
+		<string name="d0" value="我是乌尼。"/>
+		<string name="d1" value="我是乌尼。"/>
+	</imgdir>
+    <imgdir name="1500017">
+		<string name="name" value="精灵托什"/>
+		<string name="n0" value="呜...呜..."/>
+		<string name="n1" value="救我..呜..."/>
+		<string name="d0" value="托什是我的名字！"/>
+		<string name="d1" value="托什是我的名字！"/>
+	</imgdir>
+    <imgdir name="1500018">
+		<string name="name" value="精灵特蕾西"/>
+		<string name="n0" value="呜...不...够了..."/>
+		<string name="n1" value="对不起...我不会..."/>
+		<string name="d0" value="我的名字是特蕾西。"/>
+		<string name="d1" value="我的名字是特蕾西。"/>
+	</imgdir>
+    <imgdir name="1500019">
+		<string name="name" value="精灵埃菲妮"/>
+		<string name="n0" value="我不会害怕...我不会害怕..."/>
+		<string name="n1" value="啊！"/>
+		<string name="d0" value="我的名字是埃菲妮。"/>
+		<string name="d1" value="我的名字是埃菲妮。"/>
+	</imgdir>
+    <imgdir name="1500020">
+		<string name="name" value="精灵菲尼"/>
+		<string name="n0" value="我就知道我应该待在屋里！"/>
+		<string name="n1" value="我害怕！"/>
+		<string name="d0" value="我是菲尼！"/>
+		<string name="d1" value="我是菲尼！"/>
+	</imgdir>
+</imgdir>

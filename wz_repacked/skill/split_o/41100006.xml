@@ -1,0 +1,5 @@
+<imgdir name="41100006">
+        <string name="name" value="Unfaltering Blade" />
+        <string name="desc" value="Your blade has been tempered and maintained with the utmost care." />
+        <string name="h" value="Minimum Critical Damage: +#criticaldamageMin%, Maximum Critical Damage: +#criticaldamageMax%, Accuracy: +#accX%" />
+    </imgdir>

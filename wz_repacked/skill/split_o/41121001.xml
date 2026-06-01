@@ -1,0 +1,5 @@
+<imgdir name="41121001">
+        <string name="name" value="Shinsoku" />
+        <string name="desc" value="Focuses your fury and skill to attack a single enemy." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount." />
+    </imgdir>

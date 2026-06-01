@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="308">
+			<string name="title" value="8. Mercedes, the Bowmen Hero" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="You were assigned to seek out Mercedes, so you visited the frozen, beautiful elven town of Elluel." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="While you waited for the queen to return, you entertained a child named Moonie. You were playing him a special song from a Music Box to help him get over his traumatic past when Mercedes appeared." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="She revealed the Maple Island didn't even exist when the Seal Stones were created hundreds of years ago. As you left for Maple Island, she advised you not to lose hope." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="When the others reconvened, you put together this knowledge:" />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="#eMaple Island had no Seal Stone.#n" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

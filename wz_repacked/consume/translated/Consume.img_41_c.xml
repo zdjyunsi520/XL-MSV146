@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022324">
+		<string name="name" value="大肚子鱼"/>
+		<string name="desc" value="一条明显吞了什么东西的鱼。让我们双击这条鱼查看里面的东西。"/>
+	</imgdir>
+    <imgdir name="2022326">
+		<string name="name" value="森林的祝福"/>
+		<string name="desc" value="随着净化后的森林降下金色雨，所有受影响的人将获得速度和跳跃的暂时提升。"/>
+	</imgdir>
+    <imgdir name="2022332">
+		<string name="name" value="特工O的鼓励"/>
+		<string name="desc" value="来自特工O的鼓励信息。跳跃率+20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022333">
+		<string name="name" value="特工O的鼓励"/>
+		<string name="desc" value="来自特工O的鼓励信息。速度+40，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022335">
+		<string name="name" value="小鸡饼干"/>
+		<string name="desc" value="这是一个小鸡形状的饼干。恢复1000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022336">
+		<string name="name" value="秘密盒子"/>
+		<string name="desc" value="秘密盒子"/>
+	</imgdir>
+    <imgdir name="2022337">
+		<string name="name" value="术士药水"/>
+		<string name="desc" value="这是可以从术士那里购买的药水。它很有效，但副作用也一样强。而且非常昂贵，所以要小心使用。"/>
+	</imgdir>
+    <imgdir name="2022338">
+		<string name="name" value="VitroJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。看起来像能量饮料，请谨慎饮用！[物理攻击+14，持续15分钟]"/>
+	</imgdir>
+    <imgdir name="2022339">
+		<string name="name" value="NitroJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。看起来像能量饮料，请谨慎饮用！[物理攻击+22，持续10分钟]"/>
+	</imgdir>
+    <imgdir name="2022340">
+		<string name="name" value="BlastroJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。看起来像能量饮料，请谨慎饮用！[物理攻击+90，持续1分钟]"/>
+	</imgdir>
+    <imgdir name="2022341">
+		<string name="name" value="ElectroJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。看起来像能量饮料，但请谨慎饮用！[魔法攻击+50，持续10分钟。]"/>
+	</imgdir>
+    <imgdir name="2022342">
+		<string name="name" value="MegaJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。看起来像能量饮料，但请谨慎饮用！[魔法攻击+200，持续30秒。]"/>
+	</imgdir>
+    <imgdir name="2022343">
+		<string name="name" value="GigaJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。美味且足够强大，能从机械上溶解锈迹！请谨慎饮用！[魔法攻击+700，持续10秒。]"/>
+	</imgdir>
+    <imgdir name="2022344">
+		<string name="name" value="JigaJuice"/>
+		<string name="desc" value="T-1337合成的充满液体燃料的未来动力包。请谨慎饮用！给用户突然的能量冲击，所以用或失去！[魔法攻击+1000，持续5秒。]"/>
+	</imgdir>
+    <imgdir name="2022345">
+		<string name="name" value="劲量饮料"/>
+		<string name="desc" value="一种充满电解质的能量饮料。在30分钟内，获得以下提升：攻击+25、魔法攻击+30、防御+30"/>
+	</imgdir>
+    <imgdir name="2022352">
+		<string name="name" value="火烤串"/>
+		<string name="desc" value="由牛肉、蘑菇、桔梗和辣酱串成的美味烤肉串。"/>
+	</imgdir>
+    <imgdir name="2022354">
+		<string name="name" value="Tick-Tock的蛋"/>
+		<string name="desc" value="这是Tick-Tock的蛋。里面一定有东西。"/>
+	</imgdir>
+    <imgdir name="2022355">
+		<string name="name" value="Cronos的蛋"/>
+		<string name="desc" value="这是Cronos的蛋。里面一定有东西。"/>
+	</imgdir>
+    <imgdir name="2022356">
+		<string name="name" value="甜年糕"/>
+		<string name="desc" value="一种甜甜的美味年糕。恢复1500 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022357">
+		<string name="name" value="甜年糕"/>
+		<string name="desc" value="一种甜甜的美味年糕。攻击+8、MP+8，持续15分钟。"/>
+	</imgdir>
+</imgdir>

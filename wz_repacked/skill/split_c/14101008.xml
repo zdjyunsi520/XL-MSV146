@@ -1,0 +1,7 @@
+<imgdir name="14101008">
+        <string name="name" value="手里剑爆炸" />
+        <string name="desc" value="投掷爆炸手里剑，对目标和附近敌人造成伤害。" />
+        <string name="h" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，最大攻击敌人数：#mobCount" />
+        <string name="pdesc" value="投掷爆炸手里剑，对目标和附近敌人造成伤害。" />
+        <string name="ph" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，最大攻击敌人数：#mobCount" />
+    </imgdir>

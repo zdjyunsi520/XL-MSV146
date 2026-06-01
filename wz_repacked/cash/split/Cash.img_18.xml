@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5150081">
+		<string name="name" value="Premium PC Cafe Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150082">
+		<string name="name" value="Dewdrop Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# Dewdrop Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150083">
+		<string name="name" value="White-Hot Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# White-Hot Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150088">
+		<string name="name" value="All-Star Royal Hair Coupon"/>
+		<string name="desc" value="They have returned! #cBig Headward of Henesys Hair Salon# will give you a #crandom# All-Star Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150087">
+		<string name="desc" value="Take this to #cBig Headward of Henesys Hair Salon# to change your hair style into a #crandom# intriguing and fun hairstyle. Double-click it in the Cash Shop for a #cpreview#!"/>
+		<string name="name" value="Crazy Hair Coupon"/>
+	</imgdir>
+    <imgdir name="5150089">
+		<string name="name" value="Hair Style Coupon (VIP)"/>
+		<string name="desc" value="Use it at a Hair Salon to receive 1 hairstyle #cof your choice#.\nIt can be used in any town."/>
+	</imgdir>
+    <imgdir name="5151000">
+		<string name="name" value="Henesys Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cHenesys Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151001">
+		<string name="name" value="Henesys Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it on #cHenesys Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151002">
+		<string name="name" value="Kerning City Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cKerning City Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151003">
+		<string name="name" value="Kerning City Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it at #cKerning City Hair Salon# to change your hair color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151004">
+		<string name="name" value="Orbis Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cOrbis Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151005">
+		<string name="name" value="Orbis Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it on #cOrbis Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151006">
+		<string name="name" value="Ludibrium Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cLudbrium Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151007">
+		<string name="name" value="Ludibrium Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it on #cLudibrium Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151008">
+		<string name="name" value="Showa Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cShowa Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151009">
+		<string name="name" value="Showa Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it at #cShowa Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151014">
+		<string name="name" value="Night Market Hair Color Coupon (REG)"/>
+		<string name="desc" value="Use it at #cNight Market Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151015">
+		<string name="name" value="Night Market Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it on #cNight Market Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151016">
+		<string name="name" value="Amoria Hair Color Coupon (REG) "/>
+		<string name="desc" value="Use it at #cAmoria Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+	</imgdir>
+    <imgdir name="5151017">
+		<string name="name" value="Amoria Hair Color Coupon (VIP)"/>
+		<string name="desc" value="Use it on #cAmoria Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+	</imgdir>
+</imgdir>

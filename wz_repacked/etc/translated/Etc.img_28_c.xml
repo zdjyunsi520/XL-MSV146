@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000606">
+			<string name="name" value="巨石碎片"/>
+			<string name="desc" value="从小巨石吞噬者获得的巨石碎片。似乎难以使用"/>
+		</imgdir>
+    <imgdir name="4000607">
+			<string name="name" value="矿石碎片"/>
+			<string name="desc" value="从大巨石吞噬者获得的矿石碎片。似乎难以使用"/>
+		</imgdir>
+    <imgdir name="4000608">
+			<string name="name" value="守卫机器人警棍"/>
+			<string name="desc" value="守卫机器人携带的警棍。被击中肯定很痛"/>
+		</imgdir>
+    <imgdir name="4000609">
+			<string name="name" value="拉科科的铲子"/>
+			<string name="desc" value="拉科科携带的铲子"/>
+		</imgdir>
+    <imgdir name="4000610">
+			<string name="name" value="大蜘蛛触手"/>
+			<string name="desc" value="大蜘蛛的触手"/>
+		</imgdir>
+    <imgdir name="4000611">
+			<string name="name" value="推车熊的推车"/>
+			<string name="desc" value="推车熊骑的推车"/>
+		</imgdir>
+    <imgdir name="4000612">
+			<string name="name" value="拉卡罗尼尾巴"/>
+			<string name="desc" value="拉卡罗尼的尾巴"/>
+		</imgdir>
+    <imgdir name="4000613">
+			<string name="name" value="守卫机器人L的电击拍"/>
+			<string name="desc" value="守卫机器人L携带的电击拍"/>
+		</imgdir>
+    <imgdir name="4000614">
+			<string name="name" value="拉科的安全帽"/>
+			<string name="desc" value="拉科戴的安全帽"/>
+		</imgdir>
+    <imgdir name="4000615">
+			<string name="name" value="外部手柄"/>
+			<string name="desc" value="连接在安全系统外部的手柄"/>
+		</imgdir>
+    <imgdir name="4000616">
+			<string name="name" value="通风管"/>
+			<string name="desc" value="连接在增强安全系统上的通风管"/>
+		</imgdir>
+    <imgdir name="4000617">
+			<string name="name" value="机器人灯泡"/>
+			<string name="desc" value="机器人大头上的灯泡"/>
+		</imgdir>
+    <imgdir name="4000618">
+			<string name="name" value="破损零件"/>
+			<string name="desc" value="从损坏的机器人身上掉落的破损零件"/>
+		</imgdir>
+    <imgdir name="4000619">
+			<string name="name" value="芸香矿石"/>
+			<string name="desc" value="从矿石吞噬者获得的芸香矿石"/>
+		</imgdir>
+    <imgdir name="4000620">
+			<string name="name" value="皇家精灵翅膀"/>
+			<string name="desc" value="从皇家精灵获得的翅膀"/>
+		</imgdir>
+    <imgdir name="4000621">
+			<string name="name" value="外科医生之眼尾巴"/>
+			<string name="desc" value="从外科医生之眼身上砍下的尾巴"/>
+		</imgdir>
+    <imgdir name="4000622">
+			<string name="name" value="猪的蓝丝带"/>
+			<string name="desc" value="系在蓝丝带猪身上的蓝丝带"/>
+		</imgdir>
+    <imgdir name="4000623">
+			<string name="name" value="泥团"/>
+			<string name="desc" value="混有少量草的软泥"/>
+		</imgdir>
+    <imgdir name="4000625">
+			<string name="name" value="克罗基的头盔"/>
+			<string name="desc" value="克罗基戴的头盔"/>
+		</imgdir>
+    <imgdir name="4000626">
+			<string name="name" value="驯鹿之矛"/>
+			<string name="desc" value="驯鹿的锋利长矛"/>
+		</imgdir>
+</imgdir>

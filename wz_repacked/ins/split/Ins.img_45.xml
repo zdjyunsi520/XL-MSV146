@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700009">
+		<string name="name" value="Chilled Out"/>
+		<string name="desc" value="A title obtained by participating in the First, Second, and Coldest Day of Winter Events. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700010">
+		<string name="name" value="Hero of Legends"/>
+		<string name="desc" value="A title you obtained by completing the Making Memories events during the winter of Legends! Click to turn ON/OFF."/>
+	</imgdir>
+    <imgdir name="3700011">
+		<string name="name" value="Guardian of Memories"/>
+		<string name="desc" value="A title obtained by completing all of the Legendary Memories quests. Consider this one step higher than Legendary.\r\n#cClick to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700012">
+		<string name="name" value="The Brave"/>
+		<string name="desc" value="A title for newbies. Newbies need titles, too!"/>
+	</imgdir>
+    <imgdir name="3700013">
+		<string name="name" value="The Coolest"/>
+		<string name="desc" value="A title for Maplers who advance by leaps and bounds."/>
+	</imgdir>
+    <imgdir name="3700014">
+		<string name="name" value="Moon Watcher"/>
+		<string name="desc" value="A title obtained by logging in during the Moon Festival event. Nothing like the pale full moon on a clear night!\r\n#cClick to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700015">
+		<string name="name" value="Moonlighter"/>
+		<string name="desc" value="A title obtained by logging in on three days during the Moon Festival event. May you enjoy happiness and properity under the full moon! \n#cClick to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700016">
+		<string name="name" value="Lunatic"/>
+		<string name="desc" value="A title obtained by logging in on seven days during the Moon Festival event. Wish upon the full moon, and you might just get your wish!\r\n#cClick to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700017">
+		<string name="name" value="Love-Struck"/>
+		<string name="desc" value="A title obtained on the first day of helping Cassandra looking for her first love. This title might help you find love of your own...\r\n#cClick to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700018">
+		<string name="name" value="Moonheart"/>
+		<string name="desc" value="A title given to the rescuers of the little, lost Miwok Boys. This symbolizes the eternal gratitude of the tribe. \r\n#cClick to turn ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700019">
+		<string name="name" value="Windswept Coyote "/>
+		<string name="desc" value="A title given to the rescuers of the little, lost Miwok Boys. This symbolizes the undying respect of the tribe's warriors. \r\n#cClick to turn ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700020">
+		<string name="name" value="Calmwater Vessel "/>
+		<string name="desc" value="A title given to the rescuers of the little, lost Miwok Boys. This the tribe's endless friendship. \r\n#cClick to turn ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700021">
+		<string name="name" value="Party Hunter"/>
+		<string name="desc" value="A title obtained when you first received the Party Hunter\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700022">
+		<string name="name" value="Quest Master "/>
+		<string name="desc" value="A title obtained when you first received the Quest Master \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700023">
+		<string name="name" value="Answer Master "/>
+		<string name="desc" value="A title obtained when you first received the Answer Master  \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700024">
+		<string name="name" value="Friend Seeker "/>
+		<string name="desc" value="A title obtained when you first received the Friend Seeker   \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700025">
+		<string name="name" value="This Isn't A Trick"/>
+		<string name="desc" value="Happy Halloween! Enjoy the celebrations.\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700026">
+		<string name="name" value="Is the Masked Gentleman Looking?"/>
+		<string name="desc" value="A title obtained by uncovering the Masked Gentleman's conspiracy. Try walking around the Haunted Mansion with this title!\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700027">
+		<string name="name" value="High Level Sidekick"/>
+		<string name="desc" value="\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700028">
+		<string name="name" value="Low Level Sidekick"/>
+		<string name="desc" value="\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="2211012">
+        <string name="name" value="元素适应(冰、雷)" />
+        <string name="desc" value="形成冰雷之屏障。如果受到致命异常状态攻击，屏障立即激活并在短时间内抵御所有异常状态。永久提升所有属性和异常状态抗性~" />
+        <string name="h" value="MP消耗: #mpCon，抵御致命异常状态攻击后，持续#time秒激活屏障抵御所有异常状态效果，并产生#cooltime秒冷却。\n[被动效果: 提升所有属性抗性和异常状态抗性#asrR%]" />
+    </imgdir>

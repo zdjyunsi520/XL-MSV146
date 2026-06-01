@@ -1,0 +1,5 @@
+<imgdir name="60001217">
+        <string name="name" value="重构：攻击模式" />
+        <string name="desc" value="从防御模式切换为攻击模式。更高的转职阶段会增强被动效果。技能增强效果可以叠加。" />
+        <string name="h" value="Attack: + #padX, Crit Chance: +#cr%, Damage Against Bosses: +#bdR%" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="31101003">
+        <string name="name" value="复仇" />
+        <string name="desc" value="将受到的伤害反弹给攻击者，并有概率使其眩晕。反弹伤害不能超过敌人HP的一半。" />
+        <string name="h" value="HP消耗：#hpCon，持续#time秒反弹#y%受到的伤害给敌人，麻痹概率：#prop%，麻痹持续时间：#subTime秒" />
+        <string name="pdesc" value="将受到的伤害反弹给攻击者，并有概率使其眩晕。反弹伤害不能超过敌人HP的一半。" />
+        <string name="ph" value="HP消耗：#hpCon，持续#time秒反弹#y%受到的伤害给敌人，麻痹概率：#prop%，麻痹持续时间：#subTime秒" />
+        <string name="hch" value="HP消耗：#hpCon，反弹伤害#y%，持续时间：#time秒，麻痹概率：#hcProp%，麻痹持续时间：#hcSubTime秒\n冷却时间：#hcCooltime秒" />
+    </imgdir>

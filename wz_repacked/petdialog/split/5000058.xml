@@ -1,0 +1,285 @@
+<imgdir name="5000058">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Quack!"/>
+		<string name="c1_s2" value="Quack Quack Quack!"/>
+		<string name="c1_f1" value="...?"/>
+		<string name="c1_f2" value="..."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="My legs ARE getting tired"/>
+		<string name="c2_s2" value="You're the boss..."/>
+		<string name="c2_s3" value="Quack! Is this the right place?"/>
+		<string name="c2_s4" value="Okay, okay, I'm sitting!"/>
+		<string name="c2_f1" value="Quack! Who do you think you are?"/>
+		<string name="c2_f2" value="Are you TRYING to make me fat and lazy?"/>
+		<string name="c2_f3" value="Why don't you sit? Quack!"/>
+		<string name="c2_f4" value="No way, White Ducks get dirty too easily!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Quack! I love to relax!"/>
+		<string name="c3_s2" value="Watch me, it's easy."/>
+		<string name="c3_s3" value="I'm waiting for a challenge."/>
+		<string name="c3_s4" value="Quack quack! You got it Boss!"/>
+		<string name="c3_f1" value="Who do you think you are?"/>
+		<string name="c3_f2" value="Now is not a good time..."/>
+		<string name="c3_f3" value="It's too dirty to sit around here..."/>
+		<string name="c3_f4" value="Just because you're lazy doesn't mean I am."/>
+		<string name="c4" value="bad|no|badgirl|badboy"/>
+		<string name="c4_s1" value="Is it because I'm ugly?"/>
+		<string name="c4_s2" value="Quack! Don't be angry!"/>
+		<string name="c4_s3" value="Quaaaack I'm sorry!"/>
+		<string name="c4_s4" value="So sorry boss!"/>
+		<string name="c4_f1" value="Don't take your anger out on me!"/>
+		<string name="c4_f2" value="I didn't do anything!"/>
+		<string name="c4_f3" value="Quack quack! Dummy!"/>
+		<string name="c4_f4" value="Stupid, quack."/>
+		<string name="c5" value="bad|no|badgirl|badboy"/>
+		<string name="c5_s1" value="Quack! I feel really bad."/>
+		<string name="c5_s2" value="You really scare me..."/>
+		<string name="c5_s3" value="Quack! I'm trying really hard!"/>
+		<string name="c5_s4" value="Don't make that face!"/>
+		<string name="c5_f1" value="Quack, that's a bad look for you."/>
+		<string name="c5_f2" value="I didn't do anything wrong!"/>
+		<string name="c5_f3" value="You get what you deserve!"/>
+		<string name="c5_f4" value="I was just sitting there, quack quack!"/>
+		<string name="c6" value="bad|no|badgirl|badboy"/>
+		<string name="c6_s1" value="Wow boss, I really didn't mean it!"/>
+		<string name="c6_s2" value="Quack, I'm really scared right now!"/>
+		<string name="c6_s3" value="That was mean."/>
+		<string name="c6_s4" value="Whoa, you look scary..."/>
+		<string name="c6_f1" value="You should try anger management."/>
+		<string name="c6_f2" value="You can't boss me around!"/>
+		<string name="c6_f3" value="I'm innocent!"/>
+		<string name="c6_f4" value="You must be REALLY bored..."/>
+		<string name="c7" value="up|stand"/>
+		<string name="c7_s1" value="Sure thing!"/>
+		<string name="c7_s2" value="Quack! No Problem!"/>
+		<string name="c7_s3" value="Man I'm good."/>
+		<string name="c7_s4" value="I wanted to stretch my legs anyway!"/>
+		<string name="c7_f1" value="Quack quack, I don't think so."/>
+		<string name="c7_f2" value="I'm pretty happy sitting."/>
+		<string name="c7_f3" value="So annoying...quack quack!"/>
+		<string name="c7_f4" value="QUACK! I don't feel like it."/>
+		<string name="c8" value="up|stand"/>
+		<string name="c8_s1" value="You're lucky to have such a smart duck."/>
+		<string name="c8_s2" value="Such a simple request!"/>
+		<string name="c8_s3" value="Whatever you want boss!"/>
+		<string name="c8_s4" value="Hey, I'm much taller now! Quack Quack."/>
+		<string name="c8_f1" value="Quack! Sounds boring."/>
+		<string name="c8_f2" value="I'm too tired!"/>
+		<string name="c8_f3" value="Not now boss."/>
+		<string name="c8_f4" value="Let's just stay here!"/>
+		<string name="c9" value="up|stand"/>
+		<string name="c9_s1" value="I must be REALLY good, right?"/>
+		<string name="c9_s2" value="You won't find a Rudolph that can stand like I do"/>
+		<string name="c9_s3" value="Now that I'm up like this, I can see things from afar"/>
+		<string name="c9_s4" value="Standing up is sooo easy now."/>
+		<string name="c9_f1" value="Man, so annoying"/>
+		<string name="c9_f2" value="I'd rather sleep for now."/>
+		<string name="c9_f3" value="Why do you keep asking me to do the same thing?"/>
+		<string name="c9_f4" value="I can't hear you. I can't hear you"/>
+		<string name="c10" value="poop"/>
+		<string name="c10_s1" value="So embarassing, quack!"/>
+		<string name="c10_s2" value="Hahhh..."/>
+		<string name="c10_s3" value="Don't look!"/>
+		<string name="c10_s4" value="Quack! It's smelly!!"/>
+		<string name="c10_f1" value="No, I don't feel like it."/>
+		<string name="c10_f2" value="I'm too shy!"/>
+		<string name="c10_f3" value="Quack! It's rude to poop in public!"/>
+		<string name="c10_f4" value="I poop when I want to."/>
+		<string name="c11" value="poop"/>
+		<string name="c11_s1" value="Ahhhhhh"/>
+		<string name="c11_s2" value="That was incredible!"/>
+		<string name="c11_s3" value="That's the last time I eat at the pet park!"/>
+		<string name="c11_s4" value="Quack!Thanks boss, I needed that!"/>
+		<string name="c11_f1" value="It's just not coming out!"/>
+		<string name="c11_f2" value="I don't really need to."/>
+		<string name="c11_f3" value="I'd poop if you fed me."/>
+		<string name="c11_f4" value="Quack Quack I don't tell you when to poop!"/>
+		<string name="c12" value="poop"/>
+		<string name="c12_s1" value="Ahhhhhh, please don't look. It's embarassing"/>
+		<string name="c12_s2" value="Ahh...the poop looks really good today"/>
+		<string name="c12_s3" value="Careful, you might step in it!"/>
+		<string name="c12_s4" value="That's a big smell for a small duck!"/>
+		<string name="c12_f1" value="Why don't you poop?"/>
+		<string name="c12_f2" value="I'd rather have some lunch."/>
+		<string name="c12_f3" value="I have a lot on my mind right now, sorry."/>
+		<string name="c12_f4" value="My poop is none of your business!!"/>
+		<string name="c13" value="talk|chat|say"/>
+		<string name="c13_s1" value="I'm behind you 100%!"/>
+		<string name="c13_s2" value="Don't forget to feed me!"/>
+		<string name="c13_s3" value="I like getting closer to you."/>
+		<string name="c13_s4" value="I love hearing I LOVE YOU!!"/>
+		<string name="c13_f1" value="No. I spit when I talk."/>
+		<string name="c13_f2" value="You don't understand me."/>
+		<string name="c13_f3" value="Get some friends!"/>
+		<string name="c13_f4" value="I don't want to talk to you!"/>
+		<string name="c14" value="talk|chat|say"/>
+		<string name="c14_s1" value="I'd like some adventure please!"/>
+		<string name="c14_s2" value="It's fun being a travelling duck!"/>
+		<string name="c14_s3" value="Quack! How about this weather?"/>
+		<string name="c14_s4" value="I'd like to hear a joke!"/>
+		<string name="c14_f1" value="Just being near you makes me bored."/>
+		<string name="c14_f2" value="I can't talk to someone uglier than I am."/>
+		<string name="c14_f3" value="I think I have a sore throat!"/>
+		<string name="c14_f4" value="Quack! I'm a duck, not a professional film and television actor!"/>
+		<string name="c15" value="talk|chat|say"/>
+		<string name="c15_s1" value="Have you thought about getting a haircut?"/>
+		<string name="c15_s2" value="Somebody needs to go on a diet!"/>
+		<string name="c15_s3" value="An apple a day keeps the doctor away!"/>
+		<string name="c15_s4" value="Let's go do something fun!"/>
+		<string name="c15_f1" value="Don't you have anyone to talk to?"/>
+		<string name="c15_f2" value="You must be pretty unpopular..."/>
+		<string name="c15_f3" value="Maybe another time."/>
+		<string name="c15_f4" value="It's not me, it's you."/>
+		<string name="c16" value="hug"/>
+		<string name="c16_s1" value="Quack!"/>
+		<string name="c16_s2" value="I love hugs! Quack quack!"/>
+		<string name="c16_s3" value="Yay! Hug me!"/>
+		<string name="c16_s4" value="Nothing like a duck hug! Quack quack!"/>
+		<string name="c16_f1" value="Somebody smells...and it's not me."/>
+		<string name="c16_f2" value="Quack! You stink!"/>
+		<string name="c16_f3" value="It's too hot in here!"/>
+		<string name="c16_f4" value="I don't hug ugly people."/>
+		<string name="c17" value="hug"/>
+		<string name="c17_s1" value="Big hugs for my favorite boss!"/>
+		<string name="c17_s2" value="Let's hug it out!"/>
+		<string name="c17_s3" value="I feel so close to you! Quack!"/>
+		<string name="c17_s4" value="Quack! You're so cuddly!"/>
+		<string name="c17_f1" value="Do I look like I want to hug you? QUACK!"/>
+		<string name="c17_f2" value="Go jump in a lake! Seriously...you smell."/>
+		<string name="c17_f3" value="Boss, don't you have any perfume?"/>
+		<string name="c17_f4" value="I have a headache."/>
+		<string name="c18" value="hug"/>
+		<string name="c18_s1" value="Yay! I want a hug!"/>
+		<string name="c18_s2" value="Quack Quack! Duck hugs are the best!"/>
+		<string name="c18_s3" value="I'd take a duck hug over a bear hug any day!"/>
+		<string name="c18_s4" value="I thought you'd never ask!"/>
+		<string name="c18_f1" value="Uhh...ew."/>
+		<string name="c18_f2" value="I don't hug people I don't like."/>
+		<string name="c18_f3" value="I'm hungry."/>
+		<string name="c18_f4" value="Maybe if you were level 200."/>
+		<string name="c19" value="loveyou"/>
+		<string name="c19_s1" value="Quack! I love you too!"/>
+		<string name="c19_s2" value="Quack! You're not so bad yourself!"/>
+		<string name="c19_s3" value="Thanks! Quack quack."/>
+		<string name="c19_s4" value="Hooray!"/>
+		<string name="c19_f1" value="Do we need to have a talk?"/>
+		<string name="c19_f2" value="You must be joking."/>
+		<string name="c19_f3" value="Well I don't love you!"/>
+		<string name="c19_f4" value="QUACK!  Love someone else!"/>
+		<string name="c20" value="loveyou"/>
+		<string name="c20_s1" value="You're great, boss!"/>
+		<string name="c20_s2" value="I'm a lucky duck!"/>
+		<string name="c20_s3" value="Quack quack, I love you too!"/>
+		<string name="c20_s4" value="Quack! I love feeling loved!"/>
+		<string name="c20_f1" value="I only love those who shower."/>
+		<string name="c20_f2" value="I like long walks, especially when they are taken by people who annoy me."/>
+		<string name="c20_f3" value="I don't like liars."/>
+		<string name="c20_f4" value="Well I love...food."/>
+		<string name="c21" value="loveyou"/>
+		<string name="c21_s1" value="Right back at you!"/>
+		<string name="c21_s2" value="You're the best!"/>
+		<string name="c21_s3" value="I love hearing that!"/>
+		<string name="c21_s4" value="You're so good to me!"/>
+		<string name="c21_f1" value="I don't really care."/>
+		<string name="c21_f2" value="You need to decide if you love me or hate me."/>
+		<string name="c21_f3" value="Prove it."/>
+		<string name="c21_f4" value="I don't believe you!"/>
+		<string name="c22" value="cutie"/>
+		<string name="c22_s1" value="It's my feathery charm."/>
+		<string name="c22_s2" value="Yup, I'm adorable!"/>
+		<string name="c22_s3" value="How can you resist this face? Quack!"/>
+		<string name="c22_s4" value="I got it from my mom!"/>
+		<string name="c22_f1" value="I'm having a horrible hair day."/>
+		<string name="c22_f2" value="I'm not a performing monkey!"/>
+		<string name="c22_f3" value="Quack! Get away."/>
+		<string name="c22_f4" value="Maybe if you feed me!"/>
+		<string name="c23" value="cutie"/>
+		<string name="c23_s1" value="I'm getting a big head!"/>
+		<string name="c23_s2" value="Say it again! You know you love me!"/>
+		<string name="c23_s3" value="I do it for you boss!"/>
+		<string name="c23_s4" value="Quack! I'm so cute it should be illegal!"/>
+		<string name="c23_f1" value="Quack! You can't make me be cute."/>
+		<string name="c23_f2" value="It's a blessing and a curse."/>
+		<string name="c23_f3" value="I just want to be left alone."/>
+		<string name="c23_f4" value="Quack quack, why don't you be cute?"/>
+		<string name="c24" value="cutie"/>
+		<string name="c24_s1" value="Is this what you want?"/>
+		<string name="c24_s2" value="It's one of my best qualities!"/>
+		<string name="c24_s3" value="Anything you want boss! You got it!"/>
+		<string name="c24_s4" value="Man, I'm a handsome duck!"/>
+		<string name="c24_f1" value="I'm don't do stupid tricks for stupid people."/>
+		<string name="c24_f2" value="Being cute doesn't just happen! It takes time and effort."/>
+		<string name="c24_f3" value="That is SO last year."/>
+		<string name="c24_f4" value="You're not the boss of me! Well...technically you are."/>
+		<string name="c25" value="swan"/>
+		<string name="c25_s1" value="Glad you see my true potential!"/>
+		<string name="c25_s2" value="I'm the best looking swan in the country!"/>
+		<string name="c25_s3" value="I should be a model."/>
+		<string name="c25_s4" value="Beauty is on the outside!"/>
+		<string name="c25_f1" value="I'm just an ugly duckling."/>
+		<string name="c25_f2" value="Being beautiful doesn't just happen! It takes time and effort."/>
+		<string name="c25_f3" value="Why are you so demanding?"/>
+		<string name="c25_f4" value="Make me."/>
+		<string name="c26" value="sleep"/>
+		<string name="c26_s1" value="Quack! I'm tired! You know me so well."/>
+		<string name="c26_s2" value="I don't take cat naps, I take duck naps!"/>
+		<string name="c26_s3" value="So..quack...sleeeeeeepy..."/>
+		<string name="c26_s4" value="Zzzz..."/>
+		<string name="c26_f1" value="No. You're not my mom."/>
+		<string name="c26_f2" value="I don't want to sleep right now!"/>
+		<string name="c26_f3" value="Quack!! I'm not tired!"/>
+		<string name="c26_f4" value="No! I'd rather eat."/>
+		<string name="c27" value="sleep"/>
+		<string name="c27_s1" value="Boss, I'm exhausted!"/>
+		<string name="c27_s2" value="You know best!"/>
+		<string name="c27_s3" value="Sigh...I guess I can do that."/>
+		<string name="c27_s4" value="Is this what you mean?"/>
+		<string name="c27_f1" value="Are you tired or something?"/>
+		<string name="c27_f2" value="No, not right now."/>
+		<string name="c27_f3" value="Are you trying to get rid of me?"/>
+		<string name="c27_f4" value="You can't tell me what to do!"/>
+		<string name="c28" value="sleep"/>
+		<string name="c28_s1" value="Yay! I love a good nap!"/>
+		<string name="c28_s2" value="Okay, but can we get some lunch when I wake up?"/>
+		<string name="c28_s3" value="I'd enjoy catching some Z's! Zzzz..."/>
+		<string name="c28_s4" value="I don't take cat naps, I take duck naps!"/>
+		<string name="c28_f1" value="Leave me alone!"/>
+		<string name="c28_f2" value="No. You're not my mom."/>
+		<string name="c28_f3" value="I want to go swimming!"/>
+		<string name="c28_f4" value="I can't sleep if I'm not tired!"/>
+		<string name="c29" value="dance"/>
+		<string name="c29_s1" value="I could dance all night!"/>
+		<string name="c29_s2" value="Oh yea!  Shake your tailfeather!"/>
+		<string name="c29_s3" value="How many times will you ask me to dance?"/>
+		<string name="c29_s4" value="It's time to party!"/>
+		<string name="c29_f1" value="Leave me alone!"/>
+		<string name="c29_f2" value="Don't be jealous of me! Let's see you dance!"/>
+		<string name="c29_f3" value="I only dance with people I love."/>
+		<string name="c29_f4" value="I'm too tired. Feed me."/>
+		<string name="c30" value="smarty"/>
+		<string name="c30_s1" value="To be or not to be...dinner...that is the question."/>
+		<string name="c30_s2" value="The simplest solution is always the best!"/>
+		<string name="c30_s3" value="Never assume malice when stupidity will explain everything."/>
+		<string name="c30_s4" value="I think, therefore I am...a duck?"/>
+		<string name="c30_f1" value="You should try reading a book."/>
+		<string name="c30_f2" value="No, not right now."/>
+		<string name="c30_f3" value="Why are you so demanding?"/>
+		<string name="c30_f4" value="You can't tell me what to do!"/>
+		<string name="c31" value="smarty"/>
+		<string name="c31_s1" value="Why did Sally sell seashells by the seashore?"/>
+		<string name="c31_s2" value="The measure of a Mapler is determined by his friends."/>
+		<string name="c31_s3" value="Live as if you were to die tomorrow. Learn as if you were to live forever."/>
+		<string name="c31_s4" value="Imagination is more important than knowledge."/>
+		<string name="c31_f1" value="Leave me alone!"/>
+		<string name="c31_f2" value="No...stupid..."/>
+		<string name="c31_f3" value="I want to go swimming!"/>
+		<string name="c31_f4" value="Do it yourself! Quack!"/>
+		<string name="f1_s" value="quack quack! Quaaaaaaaaaaack!!"/>
+		<string name="f1_f" value="..."/>
+		<string name="f2_s" value="Oh yum! Quack!"/>
+		<string name="f2_f" value="No...I'm too full!"/>
+		<string name="f3_s" value="Boss, you make amazing food!"/>
+		<string name="f3_f" value="No thanks! If I eat another bite I'll explode."/>
+		<string name="f4_s" value="Quack! This is delicious!"/>
+		<string name="f4_f" value="I don't have room for anymore food."/>
+	</imgdir>

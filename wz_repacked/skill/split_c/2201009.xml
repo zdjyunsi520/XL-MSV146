@@ -1,0 +1,5 @@
+<imgdir name="2201009">
+        <string name="name" value="冰冻步" />
+        <string name="desc" value="使用瞬间移动技能时，#c你的路径会立即冻结，对经过的敌人造成伤害并将其冻结#。可通过技能键切换#c开/关#。" />
+        <string name="h" value="使用瞬间移动技能时，以#prop%几率#c冻结地面，对冻结地面上的敌人造成#damage%伤害并叠加冻结层数#。持续#time秒" />
+    </imgdir>

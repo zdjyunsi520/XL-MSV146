@@ -1,0 +1,7 @@
+<imgdir name="4341004">
+        <string name="name" value="刀锋之怒" />
+        <string name="desc" value="疯狂旋转伤害附近敌人！无视部分敌人防御。\n#c需要技能手册才能解锁11级#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Enemy DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="疯狂旋转伤害附近敌人！\n#c11级以上需要技能手册#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

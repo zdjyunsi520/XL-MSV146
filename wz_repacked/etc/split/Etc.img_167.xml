@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033373">
+			<string name="name" value="D-03 Transmitter"/>
+			<string name="desc" value="A limited edition walkie-talkie to communicate with the Merchant Crew."/>
+		</imgdir>
+    <imgdir name="4033374">
+			<string name="name" value="D-02 Transmitter"/>
+			<string name="desc" value="An old transmitter from before the D-03 model."/>
+		</imgdir>
+    <imgdir name="4033375">
+			<string name="name" value="Blue Dragon Cannon Crate"/>
+			<string name="desc" value="A crate for transporting the Blue Dragon Cannon."/>
+		</imgdir>
+    <imgdir name="4033377">
+			<string name="name" value="Evil Essence"/>
+			<string name="desc" value="Evil essence from the monsters in the Cursed Temple."/>
+		</imgdir>
+    <imgdir name="4033378">
+			<string name="name" value="Triple Tail"/>
+			<string name="desc" value="A weird tail from the Three-Tailed Fox in Korean Folk Town."/>
+		</imgdir>
+    <imgdir name="4033379">
+			<string name="name" value="Alien Ray Gun"/>
+			<string name="desc" value="A strange object. It could be worth analyzing."/>
+		</imgdir>
+    <imgdir name="4033380">
+			<string name="name" value="Desert Scarf"/>
+			<string name="desc" value="Useful for covering your face against the hot desert sun."/>
+		</imgdir>
+    <imgdir name="4033381">
+			<string name="name" value="Oceanic Organism Sample"/>
+			<string name="desc" value="You might learn a thing or two about the ocean from this."/>
+		</imgdir>
+    <imgdir name="4033382">
+			<string name="name" value="Tainted Spirit Stone"/>
+			<string name="desc" value="A corrupted Spirit Stone obtained from the Oda. Take it to Tsuchimikado Haruaki."/>
+		</imgdir>
+    <imgdir name="4033383">
+			<string name="name" value="Tainted Spirit Stone"/>
+			<string name="desc" value="A corrupted Spirit Stone obtained from Tsuchimikado Haruaki. Ask the head of each clan to purify it."/>
+		</imgdir>
+    <imgdir name="4033384">
+			<string name="name" value="Purified Spirit Stone"/>
+			<string name="desc" value="A Spirit Stone purified by Tsuchimikado Haruaki. Take it to him."/>
+		</imgdir>
+    <imgdir name="4033385">
+			<string name="name" value="Chemical Seal Breaker"/>
+			<string name="desc" value="A reagent that can break the chemical seal on Treglow's door. Smells fruity, but you probably shouldn't drink it."/>
+		</imgdir>
+    <imgdir name="4033386">
+			<string name="name" value="Specter Commander Badge"/>
+			<string name="desc" value="A badge carried by High-Ranked Specters."/>
+		</imgdir>
+    <imgdir name="4033387">
+			<string name="name" value="Coated Hyssop Flower"/>
+			<string name="desc" value="A specially resin-coated Hyssop Flower that increases resistance against Treglow's chemical products.  Gather and take it to Tonero."/>
+		</imgdir>
+    <imgdir name="4033388">
+			<string name="name" value="Blue Dragon Cannon Crate"/>
+			<string name="desc" value="A crate for transporting the Blue Dragon Cannon. Safely deliver it to the Reclamation HQ for Kaiser."/>
+		</imgdir>
+    <imgdir name="4033389">
+			<string name="name" value="Merchant Crew Gold Pouch"/>
+			<string name="desc" value="Grandis Shadow purse. Nice and full."/>
+		</imgdir>
+    <imgdir name="4033390">
+			<string name="name" value="Gallero's Gold Pouch"/>
+			<string name="desc" value="Gallero gave you this to purchase Romero's stock. It's half full."/>
+		</imgdir>
+    <imgdir name="4033391">
+			<string name="name" value="Illusory Gold Pouch"/>
+			<string name="desc" value="An illusory gold pouch created by Eurenth. The spell expires in 20 minutes, so make your purchase before then."/>
+		</imgdir>
+    <imgdir name="4033392">
+			<string name="name" value="Romero's Malicious Stock"/>
+			<string name="desc" value="A box full of unknown objects that rattles when you shake it. Probably better not to open it."/>
+		</imgdir>
+    <imgdir name="4033393">
+			<string name="name" value="Maroon's Healthiest Meal"/>
+			<string name="desc" value="Maroon made this for Tiro, but you do NOT want to know what is in it."/>
+		</imgdir>
+</imgdir>

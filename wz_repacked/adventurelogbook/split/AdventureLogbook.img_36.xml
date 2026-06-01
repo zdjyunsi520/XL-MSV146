@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="406">
+			<string name="title" value="6. The Broken Seal" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="You checked on various towns to make sure Maple World was prepared for the Black Mage's potential return, and in the process, discovered that the Gate of the Present was open." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="You ventured through the gate, and at the end of a long corridor... you encountered the Black Mage himself. Upon further investigation, you discovered that one of his seals had broken." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="Using the Seal Stone Athena Pierce had in her possession to replace the broken seal might stop the Black Mage from breaking free, or so you hoped." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="But as you were installing the Seal Stone, an unfamiliar voice spoke, sending chills tingling down your spine." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="#e'Do not be a fool. Give in to the darkness.'#n" />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="You continued your mission, despite your fears, but just as you were screwing in the final bolt, the seal broke. A dark voice reverberated, then grew faint." />
+				</imgdir>
+				<imgdir name="6">
+					<string name="text" value="#e'You will pay for your foolishness...'#n" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

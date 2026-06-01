@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4005004">
+			<string name="name" value="暗黑水晶"/>
+			<string name="desc" value="蕴含巨大黑暗的神秘水晶。用于9级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4006000">
+			<string name="name" value="魔法石"/>
+			<string name="desc" value="蕴含魔法力量的神话之石。配合高级技能使用"/>
+		</imgdir>
+    <imgdir name="4006001">
+			<string name="name" value="召唤石"/>
+			<string name="desc" value="蕴含召唤力量的神话之石。配合高级技能使用"/>
+		</imgdir>
+    <imgdir name="4007000">
+			<string name="name" value="魔法粉（棕色）"/>
+			<string name="desc" value="用于4级制作的棕色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007001">
+			<string name="name" value="魔法粉（白色）"/>
+			<string name="desc" value="用于7级制作的白色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007002">
+			<string name="name" value="魔法粉（蓝色）"/>
+			<string name="desc" value="用于3级制作的蓝色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007003">
+			<string name="name" value="魔法粉（绿色）"/>
+			<string name="desc" value="用于5级制作的绿色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007004">
+			<string name="name" value="魔法粉（黄色）"/>
+			<string name="desc" value="用于6级制作的黄色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007005">
+			<string name="name" value="魔法粉（紫色）"/>
+			<string name="desc" value="用于10级制作的紫色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007006">
+			<string name="name" value="魔法粉（红色）"/>
+			<string name="desc" value="用于8级制作的红色魔法粉"/>
+		</imgdir>
+    <imgdir name="4007007">
+			<string name="name" value="魔法粉（黑色）"/>
+			<string name="desc" value="用于9级制作的黑色魔法粉"/>
+		</imgdir>
+    <imgdir name="4008000">
+			<string name="name" value="强力宝石粉"/>
+			<string name="desc" value="注入力量的宝石粉。收集多个可以兑换魔法宝石盒"/>
+		</imgdir>
+    <imgdir name="4008001">
+			<string name="name" value="幸运宝石粉"/>
+			<string name="desc" value="注入幸运的宝石粉。收集多个可以兑换魔法宝石盒"/>
+		</imgdir>
+    <imgdir name="4008002">
+			<string name="name" value="智慧宝石粉"/>
+			<string name="desc" value="注入智慧的宝石粉。收集多个可以兑换魔法宝石盒"/>
+		</imgdir>
+    <imgdir name="4008003">
+			<string name="name" value="敏捷宝石粉"/>
+			<string name="desc" value="注入敏捷的宝石粉。收集多个可以兑换魔法宝石盒"/>
+		</imgdir>
+    <imgdir name="4009053">
+			<string name="name" value="未来零件1"/>
+			<string name="desc" value="制作未来机器人所需的零件之一。将7个零件各1个连同现金商店的电子心脏带给加加"/>
+		</imgdir>
+    <imgdir name="4009054">
+			<string name="name" value="未来零件2"/>
+			<string name="desc" value="制作未来机器人所需的零件之一。将7个零件各1个连同现金商店的电子心脏带给加加"/>
+		</imgdir>
+    <imgdir name="4009055">
+			<string name="name" value="未来零件3"/>
+			<string name="desc" value="制作未来机器人所需的零件之一。将7个零件各1个连同现金商店的电子心脏带给加加"/>
+		</imgdir>
+    <imgdir name="4009056">
+			<string name="name" value="未来零件4"/>
+			<string name="desc" value="制作未来机器人所需的零件之一。将7个零件各1个连同现金商店的电子心脏带给加加"/>
+		</imgdir>
+    <imgdir name="4009057">
+			<string name="name" value="未来零件5"/>
+			<string name="desc" value="制作未来机器人所需的零件之一。将7个零件各1个连同现金商店的电子心脏带给加加"/>
+		</imgdir>
+</imgdir>

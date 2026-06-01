@@ -1,0 +1,7 @@
+<imgdir name="11101003">
+        <string name="name" value="愤怒" />
+        <string name="desc" value="在短时间内提升队员的武器攻击力。可以与其他增益叠加。" />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Duration: #time sec" />
+        <string name="pdesc" value="暂时提升战斗模式攻击力。" />
+        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, Duration: #time sec" />
+    </imgdir>

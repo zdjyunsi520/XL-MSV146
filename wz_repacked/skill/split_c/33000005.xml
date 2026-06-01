@@ -1,0 +1,5 @@
+<imgdir name="33000005">
+        <string name="name" value="抵抗自动弩机" />
+        <string name="desc" value="用抵抗组织的技术改良你的弩，让射击变得更轻松！" />
+        <string name="h" value="武器攻击力 +#padX, 命中值 +#accX 和命中率 +#accR%, 射程 +#range" />
+    </imgdir>

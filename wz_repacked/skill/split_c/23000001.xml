@@ -1,0 +1,7 @@
+<imgdir name="23000001">
+        <string name="name" value="潜力之力" />
+        <string name="desc" value="激发体内隐藏的力量。提升移动速度和最大移动速度。有一定概率回避敌人攻击。" />
+        <string name="h" value="移动速度：+#psdSpeed，最大移动速度上限：+#u，敌人攻击回避率：#er%" />
+        <string name="pdesc" value="激发体内隐藏的力量。提升移动速度和最大移动速度。有一定概率回避敌人攻击。" />
+        <string name="ph" value="移动速度：+#psdSpeed，最大移动速度上限：+#u，敌人攻击回避率：#er%" />
+    </imgdir>

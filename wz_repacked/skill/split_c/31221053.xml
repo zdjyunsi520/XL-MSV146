@@ -1,0 +1,5 @@
+<imgdir name="31221053">
+        <string name="name" value="为了自由" />
+        <string name="desc" value="实体化反抗军的意志，提升攻击力！" />
+        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to Resistance classes within the party" />
+    </imgdir>

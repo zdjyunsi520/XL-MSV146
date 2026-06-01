@@ -1,0 +1,5 @@
+<imgdir name="100000277">
+        <string name="name" value="双倍时间战斗" />
+        <string name="desc" value="每层叠加获得1%伤害。" />
+        <string name="h" value="攻击时伤害+#x%，持续#time秒。最多叠加: #maxLevel层" />
+    </imgdir>

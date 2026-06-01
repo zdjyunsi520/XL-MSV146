@@ -1,0 +1,151 @@
+<imgdir name="Npc.img">
+    <imgdir name="1094000">
+		<string name="name" value="Bart"/>
+		<string name="d0" value="我必须继续监视敌人。不过也不算太糟，因为我的海鸥朋友们会帮我。"/>
+		<string name="d1" value="如果我看到什么奇怪的，我会告诉你的，伙伴。"/>
+		<string name="n0" value="嘿！海鸥！看到什么奇怪的吗？"/>
+		<string name="n1" value="如果我不从瞭望塔上密切注意，敌人可能会狠狠打击我们。我告诉你我的工作很重要！"/>
+	</imgdir>
+    <imgdir name="1094001">
+		<string name="name" value="Abel"/>
+		<string name="d0" value="没了眼镜我什么都看不见。我听说胡萝卜对眼睛好，但我不确定..."/>
+		<string name="d1" value="只要有眼镜，我就什么都不怕！"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="天气不错，但有点潮湿，你不觉得吗？"/>
+	</imgdir>
+    <imgdir name="1101004">
+		<string name="name" value="Oz"/>
+		<string name="func" value="火焰骑士团长"/>
+		<string name="n0" value="我希望世界能找到和平。"/>
+		<string name="d0" value="你有兴趣成为火焰骑士、烈焰巫师吗？"/>
+		<string name="d1" value="在女皇的指引下，我只想保护这片宁静的土地。"/>
+		<string name="n1" value="我需要更多同伴..."/>
+	</imgdir>
+    <imgdir name="1101005">
+		<string name="name" value="Irena"/>
+		<string name="func" value="疾风骑士团长"/>
+		<string name="d0" value="你有兴趣成为神箭手、疾风骑士吗？"/>
+		<string name="n0" value="变革之风...它来了。"/>
+		<string name="n1" value="愿你成为驱散一切邪恶的绿色幸运之风。"/>
+		<string name="d1" value="我感觉到你身上散发着吉祥的气息。"/>
+	</imgdir>
+    <imgdir name="1101006">
+		<string name="name" value="Eckhart"/>
+		<string name="func" value="暗夜骑士团长"/>
+		<string name="d0" value="你有兴趣成为夜行者、暗夜骑士吗？"/>
+		<string name="d1" value="*叹气。*黑魔法师..."/>
+		<string name="n0" value="这里太吵了。隐蔽是关键。"/>
+		<string name="n1" value="这是你的工作...你自己处理。"/>
+	</imgdir>
+    <imgdir name="1101007">
+		<string name="name" value="Hawkeye"/>
+		<string name="func" value="闪电骑士团长"/>
+		<string name="d0" value="你有兴趣成为雷击者、闪电骑士吗？"/>
+		<string name="d1" value="啊哈...我迫不及待想面对黑魔法师并取得胜利了！"/>
+		<string name="n0" value="嘿，这很有趣！"/>
+		<string name="n1" value="放马过来！"/>
+	</imgdir>
+    <imgdir name="1102000">
+		<string name="name" value="Kiku"/>
+		<string name="func" value="训练导师"/>
+		<string name="d0" value="所有骑士都可以在训练森林里训练。"/>
+		<string name="n0" value="哈！准备好变得更强了吗？"/>
+		<string name="n1" value="所有骑士团长都是从你现在的水平开始的。只要坚持不懈。"/>
+		<string name="d1" value="别急。每一场马拉松都始于第一步。只要一步一步来。"/>
+	</imgdir>
+    <imgdir name="1102002">
+		<string name="name" value="Kiridu"/>
+		<string name="func" value="坐骑训练师"/>
+		<string name="n0" value="希望这些食物够这些小家伙吃的。"/>
+		<string name="n1" value="教每个骑士如何使用怪物坐骑让我精疲力竭..."/>
+		<string name="d0" value="你不要把坐骑仅仅看作一种交通工具。一匹好的坐骑是你的朋友、同伴和旅行伴侣...集于一身。"/>
+		<string name="d1" value="你不要把坐骑仅仅看作一种交通工具。一匹好的坐骑是你的朋友、同伴和旅行伴侣...集于一身。"/>
+	</imgdir>
+    <imgdir name="1102003">
+		<string name="name" value="Kidan"/>
+		<string name="func" value="骑士训练师"/>
+		<string name="n1" value="如果你想成为女皇的剑与盾..."/>
+		<string name="n0" value="所有骑士都努力追求这份荣誉。"/>
+		<string name="d0" value="欢迎来到骑士殿堂。"/>
+		<string name="d1" value="欢迎来到骑士殿堂，这里是不朽的最杰出骑士的殿堂。"/>
+	</imgdir>
+    <imgdir name="1104100">
+		<string name="name" value="Mihile"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104101">
+		<string name="name" value="Oz"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104102">
+		<string name="name" value="Irena"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104103">
+		<string name="name" value="Eckhart"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104104">
+		<string name="name" value="Hawkeye"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104200">
+		<string name="name" value="堕落的骑士"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="啊哈..."/>
+		<string name="d0" value="（骑士似乎失去了意识。仔细看的话，这个骑士非常像Dunamis。）"/>
+		<string name="d1" value="（骑士似乎失去了意识。仔细看的话，这个骑士非常像Dunamis。）"/>
+	</imgdir>
+    <imgdir name="12101">
+		<string name="name" value="雨"/>
+		<string name="s1" value="嘿嘿..."/>
+		<string name="n0" value="外面不错吧？"/>
+		<string name="n1" value="要跳跃，按Alt键。"/>
+		<string name="n2" value="用方向键移动。"/>
+		<string name="s0" value="哈！"/>
+		<string name="s2" value="进展怎么样？"/>
+		<string name="b0" value="哇哦...你看起来有点格格不入..."/>
+		<string name="c0" value="我已经开始长皱纹了吗？"/>
+		<string name="d0" value="想参加我的测验吗？"/>
+		<string name="d1" value="对！你就是完成我测验的那个人。你好吗？"/>
+	</imgdir>
+    <imgdir name="2000">
+		<string name="name" value="Roger"/>
+		<string name="n0" value="你的物品栏由装备、使用、设置、其他和现金标签页组成。"/>
+		<string name="n1" value="你捡起的物品会自动存储在物品栏的相应标签页中。"/>
+		<string name="n2" value="双击物品栏中的物品来使用它。"/>
+		<string name="f0" value="要丢弃物品，把它拖出物品栏。"/>
+		<string name="f1" value="一旦你的背包满了，你就不能再获得更多物品了。丢弃或卖掉你不需要的东西。"/>
+		<string name="f2" value="使用标签页中的物品可以设置到快捷键上。"/>
+		<string name="w0" value="如果你的HP降到0，你就完了。在这之前吃食物或喝药水！"/>
+		<string name="w1" value="想要更多提示吗？那就听我的建议吧。"/>
+		<string name="w2" value="想和某人交谈吗？点击他们！"/>
+		<string name="d0" value="嘿！今天天气不错，嗯？"/>
+		<string name="d1" value="我的提示对你有帮助吗？我敢打赌肯定有！"/>
+	</imgdir>
+    <imgdir name="20000">
+		<string name="name" value="John"/>
+		<string name="n0" value="买一条这些鱼怎么样？"/>
+		<string name="n1" value="我以前也是个冒险家。但现在我不介意过正常的生活。"/>
+		<string name="n2" value="你不需要害怕正常生活。它实际上相当不错。"/>
+		<string name="d0" value="有人能帮帮我吗？我自己倒是想去，但我如你所见，有很多事要做..."/>
+		<string name="d1" value="你就是把花带给我的人。再次非常感谢。"/>
+	</imgdir>
+    <imgdir name="2001">
+		<string name="name" value="Sen"/>
+		<string name="n0" value="我饿死了！"/>
+		<string name="n1" value="我在想。书...能吃吗？"/>
+		<string name="d0" value="这里没什么吃的。我可怜的肚子..."/>
+		<string name="d1" value="我姐姐说什么了？哦，我好饿..."/>
+	</imgdir>
+    <imgdir name="2012000">
+		<string name="name" value="Agatha"/>
+		<string name="n0" value="你想去另一个大陆旅行吗？你来对地方了。"/>
+		<string name="n1" value="如果你需要任何旅行信息，让我帮助你。"/>
+	</imgdir>
+</imgdir>

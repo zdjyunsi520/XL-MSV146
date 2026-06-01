@@ -1,0 +1,5 @@
+<imgdir name="101120204">
+        <string name="name" value="Advanced Storm Break" />
+        <string name="desc" value="An even more powerful Storm Break. Increases damage and grants a chance for instant KOs. Also creates a moving Vortex with a Shock Field, continually inflicting damage on enemies nearby. \n[Skill Requirements]: #cStorm Break Lv. 20#" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount, Instant KO Chance: #prop%\n#c[Vortex]#: Max Enemies Hit: #x, Damage: #y% per 0.5 sec, Number of Attacks: #z, Duration of Vortex: #t sec.\n#c[Shock Field]#: Max Enemies Hit: #u Duration: #v Damage: #s% per #w sec" />
+    </imgdir>

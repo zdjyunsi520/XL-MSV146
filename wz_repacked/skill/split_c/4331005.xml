@@ -1,0 +1,7 @@
+<imgdir name="4331005">
+        <string name="name" value="飞行突击" />
+        <string name="desc" value="从空中斜向飞下，斩击范围内敌人，有几率使其眩晕！跳跃力至少#c120%#才能使用。\n需要技能：#c自身神速 Lv. 20#\n10级效果：20级龙卷风可与10级血腥风暴联动\n#c6级以上需要技能手册#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x2, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="从空中斜向飞下，斩击范围内敌人，有几率使其眩晕！跳跃力至少#c120#才能使用。\n需要技能：#c自身神速 Lv. 20#\n10级效果：20级龙卷风可与10级血腥风暴联动\n#c6级以上需要技能手册#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% x2, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

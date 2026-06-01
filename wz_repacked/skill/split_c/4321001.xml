@@ -1,0 +1,6 @@
+<imgdir name="4321001">
+        <string name="name" value="龙卷风（攻击）" />
+        <string name="desc" value="快速向前冲刺旋转攻击多个敌人！\n[冲刺激活：方向键#c←←#或#c→→#，旋转攻击：#c冲刺时按攻击键#]\n20级效果：连接到飞行突击Lv. 10\n需要：#c6级：技能手册#" />
+        <string name="h" value="MP Cost: #mpCon, Dash Speed: #d#, Spin Attack Damage: #damage%, Max Monsters Hit: #mobCount, MP Cost per Monster #z
+" />
+    </imgdir>

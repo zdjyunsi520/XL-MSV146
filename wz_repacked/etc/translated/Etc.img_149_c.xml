@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032974">
+			<string name="name" value="魔法追踪罗盘"/>
+			<string name="desc" value="追踪魔法的罗盘。输入特定的魔法，它将显示该魔法的来源。它受范围和过期限制"/>
+		</imgdir>
+    <imgdir name="4032975">
+			<string name="name" value="禁忌炼金术书"/>
+			<string name="desc" value="包含马加提亚炼金术士传下来的禁忌炼金术秘密的书"/>
+		</imgdir>
+    <imgdir name="4032976">
+			<string name="name" value="黑暗徽章"/>
+			<string name="desc" value="散发着黑暗能量的徽章"/>
+		</imgdir>
+    <imgdir name="4032977">
+			<string name="name" value="独角兽特制餐"/>
+			<string name="desc" value="精灵为独角兽制作的特制餐"/>
+		</imgdir>
+    <imgdir name="4032978">
+			<string name="name" value="幸福碎片"/>
+			<string name="desc" value="收集起来据说会变得幸福的碎片。收集更多或许会更加幸福"/>
+		</imgdir>
+    <imgdir name="4032979">
+			<string name="name" value="卡特的出租车优惠券"/>
+			<string name="desc" value="卡特给你的出租车优惠券。从鹦鹉螺乘坐出租车，你将被免费送到赫尼西亚一次"/>
+		</imgdir>
+    <imgdir name="4032980">
+			<string name="name" value="引火物"/>
+			<string name="desc" value="来自破碎桶的一块木头。适合生火"/>
+		</imgdir>
+    <imgdir name="4032981">
+			<string name="name" value="火药成分"/>
+			<string name="desc" value="用于制作火药"/>
+		</imgdir>
+    <imgdir name="4032982">
+			<string name="name" value="强壮野猪牙齿"/>
+			<string name="desc" value="从野猪取的更强壮的犬齿"/>
+		</imgdir>
+    <imgdir name="4032983">
+			<string name="name" value="强壮盔甲碎片"/>
+			<string name="desc" value="从野猪或钢铁野猪取的更强壮的盔甲碎片"/>
+		</imgdir>
+    <imgdir name="4032984">
+			<string name="name" value="不灭之火"/>
+			<string name="desc" value="从火野猪获得的不灭之火"/>
+		</imgdir>
+    <imgdir name="4032985">
+			<string name="name" value="点火装置"/>
+			<string name="desc" value="发射大炮所需的装置"/>
+		</imgdir>
+    <imgdir name="4032986">
+			<string name="name" value="损坏的古代文件"/>
+			<string name="desc" value="损坏到无法辨认的古代文件"/>
+		</imgdir>
+    <imgdir name="4032987">
+			<string name="name" value="被盗的食物袋"/>
+			<string name="desc" value="不良怪物偷走的食物袋"/>
+		</imgdir>
+    <imgdir name="4032988">
+			<string name="name" value="神秘的遗骸"/>
+			<string name="desc" value="从深海取的遗骸。它太老了，很难猜测它的原始形状"/>
+		</imgdir>
+    <imgdir name="4032989">
+			<string name="name" value="小沙丁鱼 3cm"/>
+			<string name="desc" value="3cm的小沙丁鱼。只有秋天吃才能真正感受到它的味道"/>
+		</imgdir>
+    <imgdir name="4032990">
+			<string name="name" value="小沙丁鱼 3.6cm"/>
+			<string name="desc" value="3.6cm的小沙丁鱼。只有秋天吃才能真正感受到它的味道"/>
+		</imgdir>
+    <imgdir name="4032991">
+			<string name="name" value="小沙丁鱼 5cm"/>
+			<string name="desc" value="5cm的小沙丁鱼。只有秋天吃才能真正感受到它的味道"/>
+		</imgdir>
+    <imgdir name="4032992">
+			<string name="name" value="小沙丁鱼 6.5cm"/>
+			<string name="desc" value="6.5cm的小沙丁鱼。只有秋天吃才能真正感受到它的味道"/>
+		</imgdir>
+    <imgdir name="4032993">
+			<string name="name" value="小沙丁鱼 10cm"/>
+			<string name="desc" value="10cm的小沙丁鱼。只有秋天吃才能真正感受到它的味道"/>
+		</imgdir>
+</imgdir>

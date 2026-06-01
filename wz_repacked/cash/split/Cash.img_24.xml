@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5160012">
+		<string name="name" value="Drool"/>
+		<string name="desc" value="On the KeyConfig, configure this expression on a button of your choice. Press the button and watch your character act like falling asleep."/>
+	</imgdir>
+    <imgdir name="5160013">
+		<string name="name" value="Dragon Breath"/>
+		<string name="desc" value="On the KeyConfig, configure this expression on a button of your choice. Press the button and watch your character act very surprised."/>
+	</imgdir>
+    <imgdir name="5160014">
+		<string name="name" value="Bleh"/>
+		<string name="desc" value="On the KeyConfig, configure this expression on a button of your choice. Press the button and watch your character act very surprised."/>
+	</imgdir>
+    <imgdir name="5160019">
+		<string name="name" value="Queasy"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character start throwing up. Gross!"/>
+	</imgdir>
+    <imgdir name="5160020">
+		<string name="name" value="Panicky"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character panic. Eeek!"/>
+	</imgdir>
+    <imgdir name="5160021">
+		<string name="name" value="Sweetness"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character get happy. Hooray!"/>
+	</imgdir>
+    <imgdir name="5160022">
+		<string name="name" value="Smoochies"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character make a kissy face. Smooch!"/>
+	</imgdir>
+    <imgdir name="5160023">
+		<string name="name" value="Wink"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character wink. How coy!"/>
+	</imgdir>
+    <imgdir name="5160024">
+		<string name="name" value="Ouch"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character make a pained face. Owie!"/>
+	</imgdir>
+    <imgdir name="5160025">
+		<string name="name" value="Sparkling Eyes"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character's eyes sparkle. Adorable!"/>
+	</imgdir>
+    <imgdir name="5160026">
+		<string name="name" value="Flaming"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character become enraged. Arrrgh!"/>
+	</imgdir>
+    <imgdir name="5160027">
+		<string name="name" value="Ray"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character's eyes beam. Shiny!"/>
+	</imgdir>
+    <imgdir name="5160028">
+		<string name="name" value="Goo Goo"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character look awesome!"/>
+	</imgdir>
+    <imgdir name="5160029">
+		<string name="name" value="Whoa Whoa"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character get flustered. Whoa!"/>
+	</imgdir>
+    <imgdir name="5160030">
+		<string name="name" value="Constant Sigh"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character think hard. Hmmm..."/>
+	</imgdir>
+    <imgdir name="5160031">
+		<string name="name" value="Drool"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character start to fall asleep. Zzzzz..."/>
+	</imgdir>
+    <imgdir name="5160032">
+		<string name="name" value="Dragon Breath"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character act very surprised. Yikes!"/>
+	</imgdir>
+    <imgdir name="5160033">
+		<string name="name" value="Bleh"/>
+		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character act very surprised. Bleh..."/>
+	</imgdir>
+    <imgdir name="5170000">
+		<string name="name" value="Pet Name Tag"/>
+		<string name="desc" value="Use this item to name your pet. Call its name before making an order, and the pet responds much better to your command. \n ex. Lucky, sit!"/>
+	</imgdir>
+    <imgdir name="5180000">
+		<string name="name" value="Water of Life"/>
+		<string name="desc" value="Mysterious water collected from a deep place in Ellinia. Double-click the item and you can revive a pet that turned into a doll. You cannot use it on a #cMiracle Pet# without magic duration time."/>
+	</imgdir>
+</imgdir>

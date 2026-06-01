@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8220015">
+		<string name="name" value="Nibelung"/>
+	</imgdir>
+    <imgdir name="9300385">
+		<string name="name" value="Treacherous Fox"/>
+	</imgdir>
+    <imgdir name="9300386">
+		<string name="name" value="Trainee Spore"/>
+	</imgdir>
+    <imgdir name="9300387">
+		<string name="name" value="Enraged Golem"/>
+	</imgdir>
+    <imgdir name="9300388">
+		<string name="name" value="Free Spirit  "/>
+	</imgdir>
+    <imgdir name="9300389">
+		<string name="name" value="Safe Guard"/>
+	</imgdir>
+    <imgdir name="9300390">
+		<string name="name" value="Door Block"/>
+	</imgdir>
+    <imgdir name="9300391">
+		<string name="name" value="Ice Wall"/>
+	</imgdir>
+    <imgdir name="9300392">
+		<string name="name" value="Black Wing Henchman"/>
+	</imgdir>
+    <imgdir name="9300393">
+		<string name="name" value="Gentleman"/>
+	</imgdir>
+    <imgdir name="9700030">
+		<string name="name" value="Seaman Recruit Ghost"/>
+	</imgdir>
+    <imgdir name="9700031">
+		<string name="name" value="Seaman Apprentice Ghost"/>
+	</imgdir>
+    <imgdir name="9700032">
+		<string name="name" value="Lieutenant Ghost"/>
+	</imgdir>
+    <imgdir name="9700033">
+		<string name="name" value="1st Lieutenant Ghost"/>
+	</imgdir>
+    <imgdir name="9700034">
+		<string name="name" value="Lieutenant Commander Ghost"/>
+	</imgdir>
+    <imgdir name="9700035">
+		<string name="name" value="First Officer"/>
+	</imgdir>
+    <imgdir name="9700036">
+		<string name="name" value="Wooden Box"/>
+	</imgdir>
+    <imgdir name="9700037">
+		<string name="name" value="Ghost Ship Captain"/>
+	</imgdir>
+    <imgdir name="9700038">
+		<string name="name" value="Ghost Ship Captain Spirit"/>
+	</imgdir>
+    <imgdir name="9800000">
+		<string name="name" value="Stone Golem"/>
+	</imgdir>
+</imgdir>

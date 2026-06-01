@@ -1,0 +1,5 @@
+<imgdir name="61111008">
+        <string name="name" value="最终形态" />
+        <string name="desc" value="#c消耗全部变形量表#变身为更强大的凯撒战士。无视敌人的忽略攻击或反射攻击增益。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time, Attack Power: +#indieDamR%, Critical Rate: +#cr%, Speed: +#speed, Attack Speed: +2. Ignores enemy&apos;s ignore attack or reflect buffs.\r\n#c四转后#\r\nDuration: #u, Attack Power: +#w%, Critical Rate: +#v%" />
+    </imgdir>

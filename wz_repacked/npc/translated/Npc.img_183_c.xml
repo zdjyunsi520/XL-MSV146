@@ -1,0 +1,122 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000205">
+		<string name="name" value="冯邦"/>
+		<string name="func" value="三伏天暴怒"/>
+	</imgdir>
+    <imgdir name="9030200">
+		<string name="name" value="沃雷娜"/>
+		<string name="n0" value="想把你的金币换成枫叶点数吗？"/>
+		<string name="n1" value="如果你想交易金币或枫叶点数，就跟我说！"/>
+		<string name="func" value="里程信息"/>
+	</imgdir>
+    <imgdir name="9030300">
+		<string name="name" value="埃格里奇"/>
+		<string name="n0" value="猜猜看！我是拍卖师！"/>
+		<string name="n1" value="在这里，除了不在这里的东西，你能找到一切。这不是最好的吗？"/>
+		<string name="func" value="拍卖NPC"/>
+	</imgdir>
+    <imgdir name="9031006">
+		<string name="name" value="拉姆齐"/>
+		<string name="func" value="票券NPC"/>
+		<string name="n0" value="秘密矿场！秘密农场！来这里就能到那里！但别告诉别人...这是个秘密！"/>
+	</imgdir>
+    <imgdir name="9062000">
+		<string name="name" value="冒险岛管理员"/>
+		<string name="func" value="教程信息"/>
+		<string name="n0" value="你在冒险岛世界玩得开心吗？"/>
+		<string name="n1" value="任何时候需要我的帮助，随时跟我说。"/>
+		<string name="d0" value="你好！欢迎来到冒险岛世界！"/>
+		<string name="d1" value="你好。别忘了访问官方冒险岛网站查看活动日程。"/>
+	</imgdir>
+    <imgdir name="9062001">
+		<string name="name" value="斯皮格尔莱特"/>
+		<string name="func" value="教程信息"/>
+		<string name="n0" value="欢迎来到冒险岛世界！"/>
+		<string name="n1" value="我很高兴我长得一点都不像我那满嘴芥末味的笨蛋哥哥。"/>
+		<string name="d0" value="我哥哥像骡子一样固执。"/>
+		<string name="d1" value="我很高兴我长得一点都不像我那满嘴芥末味的笨蛋哥哥。"/>
+	</imgdir>
+    <imgdir name="9062002">
+		<string name="name" value="斯皮格尔曼"/>
+		<string name="func" value="教程信息"/>
+		<string name="n0" value="来吧！加快速度！"/>
+		<string name="n1" value="说到猎杀怪物，我是最棒的。"/>
+		<string name="d0" value="欢迎回来！多久没见了？"/>
+		<string name="d1" value="欢迎回来！多久没见了？"/>
+	</imgdir>
+    <imgdir name="9062003">
+		<string name="name" value="斯皮格尔莱特"/>
+		<string name="func" value="教程信息"/>
+		<string name="n0" value="欢迎来到冒险岛世界！"/>
+		<string name="n1" value="我很高兴我长得一点都不像我那满嘴芥末味的笨蛋哥哥。"/>
+		<string name="d0" value="我哥哥像骡子一样固执。"/>
+		<string name="d1" value="我很高兴我长得一点都不像我那满嘴芥末味的笨蛋哥哥。"/>
+	</imgdir>
+    <imgdir name="9062004">
+		<string name="name" value="冒险岛管理员"/>
+		<string name="func" value="教程信息"/>
+	</imgdir>
+    <imgdir name="9062005">
+		<string name="name" value="斯皮格尔曼"/>
+		<string name="func" value="教程信息"/>
+	</imgdir>
+    <imgdir name="9062006">
+		<string name="name" value="斯皮格尔莱特"/>
+		<string name="func" value="教程信息"/>
+	</imgdir>
+    <imgdir name="9062007">
+		<string name="name" value="皮埃塔"/>
+		<string name="func" value="Zero救援队"/>
+	</imgdir>
+    <imgdir name="2400000">
+		<string name="name" value="皮埃塔"/>
+		<string name="func" value="记录员"/>
+		<string name="n0" value="我记录Zero的活动。"/>
+		<string name="n1" value="我知道Zero的每一个小细节！"/>
+		<string name="d0" value="嘿嘿嘿嘿嘿嘿嘿...你有什么要对我说的吗？我随时准备倾听。"/>
+		<string name="d1" value="嘿嘿嘿嘿嘿嘿嘿...你有什么要对我说的吗？我随时准备倾听。"/>
+	</imgdir>
+    <imgdir name="2400001">
+		<string name="name" value="德洛"/>
+		<string name="func" value="训练"/>
+		<string name="n0" value="健康的心灵带来健康的身体！"/>
+		<string name="n1" value="我会尽力教你的。"/>
+		<string name="d0" value="我会把我知道的一切都告诉你。"/>
+		<string name="d1" value="我会把我知道的一切都告诉你。"/>
+	</imgdir>
+    <imgdir name="2400002">
+		<string name="name" value="科拉斯"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="节俭是生存的唯一途径。"/>
+		<string name="n1" value="寺庙的财务总是很紧张。"/>
+	</imgdir>
+    <imgdir name="2400003">
+		<string name="name" value="塞洛"/>
+		<string name="func" value="军需官"/>
+		<string name="n0" value="你需要什么？"/>
+		<string name="n1" value="我现在不能动，你能帮我看着这个物品吗？"/>
+	</imgdir>
+    <imgdir name="2400004">
+		<string name="name" value="拉贡"/>
+		<string name="func" value="美容师"/>
+		<string name="n0" value="你不想变得更迷人吗？"/>
+		<string name="n1" value="成为造型师？小菜一碟！"/>
+	</imgdir>
+    <imgdir name="2400005">
+		<string name="name" value="阿尔法"/>
+	</imgdir>
+    <imgdir name="2400006">
+		<string name="name" value="贝塔"/>
+	</imgdir>
+    <imgdir name="2400007">
+		<string name="name" value="本尼迪克特"/>
+		<string name="n0" value="寺庙很小，但很温馨。"/>
+		<string name="n1" value="啊，阿尔法！贝塔！你们必须一起工作！"/>
+		<string name="d0" value="我迫不及待想看看自从我们变成石头以来，冒险岛世界发生了多大变化。"/>
+		<string name="d1" value="我迫不及待想看看自从我们变成石头以来，冒险岛世界发生了多大变化。"/>
+		<imgdir name="dialogue">
+			<string name="40504" value="我不明白卡修斯怎么能那样做...他只是想看到新的超越者成功。"/>
+			<string name="40505" value="我应该更好地照顾我的弟弟..."/>
+			<string name="40506" value="我希望我的弟弟能被原谅。我会加倍努力来弥补他..."/>
+		</imgdir>
+</imgdir>

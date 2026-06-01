@@ -1,0 +1,5 @@
+<imgdir name="35101005">
+        <string name="name" value="传送门：GX-9" />
+        <string name="desc" value="安装传送门&lt;GX-9&gt;。最多可同时开启两个传送门，队伍成员可以在它们之间自由移动。如果两个传送门距离太远将无法使用。" />
+        <string name="h" value="MP消耗：#mpCon，传送门持续时间：#time秒" />
+    </imgdir>

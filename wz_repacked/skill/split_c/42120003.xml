@@ -1,0 +1,5 @@
+<imgdir name="42120003">
+        <string name="name" value="猴神之灵" />
+        <string name="desc" value="攻击时，猴子可能从天而降向敌人投掷巨大的酒壶。被召唤的猴子还会给你额外经验。" />
+        <string name="h" value="攻击时猴子召唤概率：#u%，最大攻击敌人数：#mobCount，伤害：#damage，攻击次数：#attackCount。额外经验概率：#prop%，经验：+#expR%，有概率掉落未鉴定物品" />
+    </imgdir>

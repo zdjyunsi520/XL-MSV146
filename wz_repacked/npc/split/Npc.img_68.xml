@@ -1,0 +1,121 @@
+<imgdir name="Npc.img">
+    <imgdir name="1033101">
+		<string name="name" value="Danika"/>
+		<string name="func" value="Elder of War"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="Dual Bowguns are rare, even among Elves. It takes a specially gifted Elf like Mercedes to master such weapons."/>
+	</imgdir>
+    <imgdir name="1033102">
+		<string name="name" value="Astilda"/>
+		<string name="func" value="Elder of Life"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="We Elves tend to keep to ourselves in our small villages, hidden away from the rest of the world."/>
+	</imgdir>
+    <imgdir name="1033103">
+		<string name="name" value="Klas"/>
+		<string name="func" value="School Teacher"/>
+		<string name="d0" value="(This person is frozen in ice and cannot speak.)"/>
+		<string name="d1" value="(This person is frozen in ice and cannot speak.)"/>
+	</imgdir>
+    <imgdir name="1033104">
+		<string name="name" value="Deet"/>
+		<string name="d0" value="(This person is frozen in ice and cannot speak.)"/>
+		<string name="d1" value="(This person is frozen in ice and cannot speak.)"/>
+	</imgdir>
+    <imgdir name="1033105">
+		<string name="name" value="Roa"/>
+		<string name="d0" value="(This person is frozen in ice and cannot speak.)"/>
+		<string name="d1" value="(This person is frozen in ice and cannot speak.)"/>
+	</imgdir>
+    <imgdir name="1033106">
+		<string name="name" value="Moonie"/>
+		<string name="d0" value="Hmm... Hmm..."/>
+		<string name="d1" value="Hmm... Hmm..."/>
+	</imgdir>
+    <imgdir name="1033107">
+		<string name="name" value="Lalich"/>
+		<string name="func" value="Dispatch Representative"/>
+		<string name="n0" value="I'm Lalich of the Cygnus Knights."/>
+		<string name="n1" value="If you have any troubles, please let me know."/>
+		<string name="d0" value="Empress Cygnus sends her regards. Don't worry, we Cygnus Knights will keep this village safe to the last man."/>
+		<string name="d1" value="Empress Cygnus sends her regards. Don't worry, we Cygnus Knights will keep this village safe to the last man."/>
+	</imgdir>
+    <imgdir name="1033108">
+		<string name="name" value="Crusoe"/>
+		<string name="func" value="Dispatched Knight"/>
+		<string name="n0" value="I'm one of the Cygnus Knights."/>
+		<string name="n1" value="You could try not disturbing the citizens with silly questions. Just a thought."/>
+		<string name="d0" value="Never thought I'd come to the legendary home of the Elves... I should take some pictures!"/>
+		<string name="d1" value="I could be a Chief Knight someday. That could be neat."/>
+	</imgdir>
+    <imgdir name="1033109">
+		<string name="name" value="Vel"/>
+		<string name="func" value="Dispatched Knight"/>
+		<string name="n0" value="I am a member of the Cygnus Knights."/>
+		<string name="n1" value="This place...is almost as beautiful as Ereve. Almost."/>
+		<string name="d0" value="Getting along with everyone is one of the duties of Cygnus Knights. It's tough, sometimes..."/>
+		<string name="d1" value="This place is amazing! Everyone is so...pretty!"/>
+	</imgdir>
+    <imgdir name="1033110">
+		<string name="name" value="Music Box"/>
+		<string name="d0" value="This is a music box that plays a popular children's song. Or it did, before it broke."/>
+		<string name="d1" value="The kids love this song. I...like it, too..."/>
+	</imgdir>
+    <imgdir name="1033111">
+		<string name="name" value="Corridor of Knowledge"/>
+	</imgdir>
+    <imgdir name="1033112">
+		<string name="name" value="Mysterious Portal"/>
+	</imgdir>
+    <imgdir name="1033200">
+		<string name="name" value="Freud"/>
+	</imgdir>
+    <imgdir name="1033201">
+		<string name="name" value="Afrien"/>
+		<string name="d0" value="Yes, I can talk, but don't waste my time."/>
+		<string name="d1" value="Yes, I can talk, but don't waste my time."/>
+	</imgdir>
+    <imgdir name="1033202">
+		<string name="name" value="Philius"/>
+		<string name="func" value="Elder of Magic"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="To think such a curse could strike Elluel... We will overcome it!"/>
+		<string name="d1" value="(Philius is encased in the ice. He probably can't hear anything anymore...)"/>
+	</imgdir>
+    <imgdir name="1033203">
+		<string name="name" value="Danika"/>
+		<string name="func" value="Elder of War"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="No one blames you for this! You're here to save Maple World! We're all proud of you!"/>
+		<string name="d1" value="(Danika is encased in the ice. She probably can't hear anything anymore...)"/>
+	</imgdir>
+    <imgdir name="1033204">
+		<string name="name" value="Astilda"/>
+		<string name="func" value="Elder of Life"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="Welcome back, Your Majesty. Thank you for all you've done."/>
+		<string name="d1" value="(Astilda is encased in the ice. She probably can't hear anything anymore...)"/>
+	</imgdir>
+    <imgdir name="1033205">
+		<string name="name" value="Entrance to Elluel"/>
+		<string name="d0" value="The entrance to Elluel, built in the elegant, curved style of the Elves. Engravings of magic words sparkle on its surface."/>
+		<string name="d1" value="The entrance to Elluel, built in the elegant, curved style of the Elves. Engravings of magic words sparkle on its surface."/>
+	</imgdir>
+    <imgdir name="1033206">
+		<string name="name" value="Music Box"/>
+		<string name="d0" value="This is a music box that plays a popular children's song. Or it did, before it broke."/>
+		<string name="d1" value="It's playing a song that kids just love."/>
+	</imgdir>
+    <imgdir name="1033210">
+		<string name="name" value="Great Spirit"/>
+		<string name="d0" value="(The Great Spirit, which only the Ruler of the Elves can summon. Her aura shows that she is not an ordinary being.)"/>
+		<string name="d1" value="(The Great Spirit, which only the Ruler of the Elves can summon. Her aura shows that she is not an ordinary being.)"/>
+	</imgdir>
+</imgdir>

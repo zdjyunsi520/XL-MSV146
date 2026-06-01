@@ -1,0 +1,7 @@
+<imgdir name="12101001">
+        <string name="name" value="减速" />
+        <string name="desc" value="暂时降低最多6个怪物的移动速度。不能对同一怪物连续使用超过2次。\n需要技能：\n#c传送 Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Speed: -#x, Duration: #time sec" />
+        <string name="pdesc" value="暂时降低最多6个怪物的移动速度。不能对同一怪物连续使用超过2次。\n需要技能：\n#c传送 Lv. 5#" />
+        <string name="ph" value="MP Cost: #mpCon, Speed: -#x, Duration: #time sec" />
+    </imgdir>

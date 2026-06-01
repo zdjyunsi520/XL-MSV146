@@ -1,0 +1,7 @@
+<imgdir name="51101006">
+        <string name="name" value="Radiant Driver" />
+        <string name="desc" value="Drives back multiple enemies with a brilliant sword of light." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Pushed: #mobCount" />
+        <string name="pdesc" value="Drives back multiple enemies with a brilliant sword of light. Temporarily Slows enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Speed: -#x\nCooldown: #cooltime sec" />
+    </imgdir>

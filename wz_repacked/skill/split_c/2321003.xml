@@ -1,0 +1,7 @@
+<imgdir name="2321003">
+        <string name="name" value="巴哈姆特" />
+        <string name="desc" value="暂时召唤巴哈姆特造成神圣伤害。巴哈姆特可同时攻击多个敌人~" />
+        <string name="h" value="MP消耗: #mpCon，巴哈姆特召唤时间: #time秒，伤害: #damage%，同时攻击最大敌人数: #mobCount" />
+        <string name="pdesc" value="暂时召唤巴哈姆特造成神圣伤害。巴哈姆特可同时攻击多个敌人~" />
+        <string name="ph" value="MP消耗: #mpCon，巴哈姆特召唤时间: #time秒，伤害: #damage%，同时攻击最大敌人数: #mobCount" />
+    </imgdir>

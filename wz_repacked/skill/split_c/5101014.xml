@@ -1,0 +1,5 @@
+<imgdir name="5101014">
+        <string name="name" value="能量漩涡" />
+        <string name="desc" value="制造狂野的能量漩涡攻击敌人~" />
+        <string name="h" value="能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+    </imgdir>

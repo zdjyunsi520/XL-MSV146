@@ -1,0 +1,49 @@
+<imgdir name="Cash.img">
+    <imgdir name="5010119">
+		<string name="name" value="Beast Tamer Tail 1"/>
+	</imgdir>
+    <imgdir name="5010120">
+		<string name="name" value="Beast Tamer Tail 2"/>
+	</imgdir>
+    <imgdir name="5010121">
+		<string name="name" value="Beast Tamer Tail 3"/>
+	</imgdir>
+    <imgdir name="5155001">
+		<string name="name" value="Beast Tamer Transparent Ears"/>
+	</imgdir>
+    <imgdir name="5155002">
+		<string name="name" value="Beast Tamer Transparent Tail"/>
+	</imgdir>
+    <imgdir name="5050015">
+		<string name="desc" value="Only the #cBeast Tamer# can use this scroll.  Allows you to reset the SP for one animal."/>
+		<string name="name" value="Beast Tamer Animal SP Reset Scroll"/>
+	</imgdir>
+    <imgdir name="5012000">
+		<string name="name" value="Beast Tamer Transparent Ears"/>
+		<string name="desc" value="Transparent ears for the #cBeast Tamer#. Double-click to toggle visibility. "/>
+	</imgdir>
+    <imgdir name="5012001">
+		<string name="name" value="Beast Tamer Transparent Tail"/>
+		<string name="desc" value="Transparent tail for the #cBeast Tamer#. Double-click to toggle visibility. "/>
+	</imgdir>
+    <imgdir name="5240104">
+		<string name="name" value="Li'l Lai's Tasty Meat"/>
+		<string name="desc" value="A delicious treat for #cLi'l Lai#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240105">
+		<string name="name" value="Li'l Fort's Fresh Fish"/>
+		<string name="desc" value="Fresh fish that can only be consumed by #cLi'l Fort#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240106">
+		<string name="name" value="Li'l Arby's Crunchy Fish Pastry"/>
+		<string name="desc" value="This crunchy fish pastry can only be consumed by #cLi'l Arby#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5222108">
+		<string name="name" value="Valentine Surprise Style Box"/>
+		<string name="desc" value="The box will give you one random Equip item. The items from the box contains only permanent items and can be traded to other players."/>
+	</imgdir>
+    <imgdir name="5222109">
+		<string name="name" value="St.Patrick's Day Surprise Style Box"/>
+		<string name="desc" value="The box will give you one random equip item. The items from the box contains only permanent items and can be traded to other players."/>
+	</imgdir>
+</imgdir>

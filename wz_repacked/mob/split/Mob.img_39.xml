@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8810003">
+		<string name="name" value="Horntail's Head B"/>
+	</imgdir>
+    <imgdir name="8810004">
+		<string name="name" value="Horntail's Head C"/>
+	</imgdir>
+    <imgdir name="8810005">
+		<string name="name" value="Horntail's Left Hand"/>
+	</imgdir>
+    <imgdir name="8810006">
+		<string name="name" value="Horntail's Right Hand"/>
+	</imgdir>
+    <imgdir name="8810007">
+		<string name="name" value="Horntail's Wings"/>
+	</imgdir>
+    <imgdir name="8810008">
+		<string name="name" value="Horntail's Legs"/>
+	</imgdir>
+    <imgdir name="8810009">
+		<string name="name" value="Horntail's Tails"/>
+	</imgdir>
+    <imgdir name="8810010">
+		<string name="name" value="Dead Horntail's Head A"/>
+	</imgdir>
+    <imgdir name="8810011">
+		<string name="name" value="Dead Horntail's Head B"/>
+	</imgdir>
+    <imgdir name="8810012">
+		<string name="name" value="Dead Horntail's Head C"/>
+	</imgdir>
+    <imgdir name="8810013">
+		<string name="name" value="Dead Horntail's Left Hand"/>
+	</imgdir>
+    <imgdir name="8810014">
+		<string name="name" value="Dead Horntail's Right Hand"/>
+	</imgdir>
+    <imgdir name="8810015">
+		<string name="name" value="Dead Horntail's Wings"/>
+	</imgdir>
+    <imgdir name="8810016">
+		<string name="name" value="Dead Horntail's Legs"/>
+	</imgdir>
+    <imgdir name="8810017">
+		<string name="name" value="Dead Horntail's Tails"/>
+	</imgdir>
+    <imgdir name="8810018">
+		<string name="name" value="Horntail"/>
+	</imgdir>
+    <imgdir name="8810019">
+		<string name="name" value="Red Wyvern"/>
+	</imgdir>
+    <imgdir name="8810020">
+		<string name="name" value="Blue Wyvern"/>
+	</imgdir>
+    <imgdir name="8810021">
+		<string name="name" value="Dark Wyvern"/>
+	</imgdir>
+    <imgdir name="8810022">
+		<string name="name" value="Green Cornian"/>
+	</imgdir>
+</imgdir>

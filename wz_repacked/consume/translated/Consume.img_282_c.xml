@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430369">
+		<string name="name" value="梦魇坐骑10日券"/>
+		<string name="desc" value="10天梦魇坐骑券。\n#c双击使用梦魇骑乘技能10天。#"/>
+	</imgdir>
+    <imgdir name="2430370">
+		<string name="name" value="神秘配方"/>
+		<string name="desc" value="一张可能是你学过的任何专业的神秘古老配方。记住，好奇心让猫咪获得了一套很棒的猫鞋！\n#c如果你还没有学习专业，会出现一个随机配方。#"/>
+	</imgdir>
+    <imgdir name="2430371">
+		<string name="name" value="美德骑士传送石"/>
+		<string name="desc" value="传送到50-70级狩猎场的传送石，可以在那里填充美德石计量表。只能由50-70级的玩家使用。#c最多可以使用10次。#"/>
+	</imgdir>
+    <imgdir name="2430373">
+		<string name="name" value="新手海盗印记"/>
+		<string name="desc" value="标志着主人在海盗中属于低等级的印记。"/>
+	</imgdir>
+    <imgdir name="2430374">
+		<string name="name" value="进阶海盗印记"/>
+		<string name="desc" value="标志着主人在海盗中属于中等级的印记。"/>
+	</imgdir>
+    <imgdir name="2430375">
+		<string name="name" value="老练海盗印记"/>
+		<string name="desc" value="标志着主人在海盗中属于高等级的印记。"/>
+	</imgdir>
+    <imgdir name="2430376">
+		<string name="name" value="龙骑士的战士盒子"/>
+		<string name="desc" value="龙骑士掉落的盒子。装有战士武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430377">
+		<string name="name" value="龙骑士的魔法师盒子"/>
+		<string name="desc" value="龙骑士掉落的盒子。装有魔法师武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430378">
+		<string name="name" value="龙骑士的飞贼盒子"/>
+		<string name="desc" value="龙骑士掉落的盒子。装有飞贼武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430379">
+		<string name="name" value="龙骑士的弓手盒子"/>
+		<string name="desc" value="龙骑士掉落的盒子。装有弓手武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430380">
+		<string name="name" value="龙骑士的海盗盒子"/>
+		<string name="desc" value="龙骑士掉落的盒子。装有海盗武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430381">
+		<string name="name" value="Gaga的第一个美味西瓜"/>
+		<string name="desc" value="从美味西瓜盆中获得的美味西瓜。趁新鲜吃！\n#c双击获得\n一个闹钟（右边）和以下增益之一：\n-30级或以下-\nATT/M.ATT+20\n武器/魔法DEF+200\nHP+500\n-31-70级-\nATT/M.ATT+30\n武器/魔法DEF+300\nHP+1000\n-71级或以上-\nATT/M.ATT+40\n武器/魔法DEF+400\nHP+1500\n增益可以与其他增益叠加，但西瓜增益除外。#"/>
+	</imgdir>
+    <imgdir name="2430382">
+		<string name="name" value="美味西瓜项链盒子"/>
+		<string name="desc" value="勤奋填写美味西瓜种植日志后获得的芳香盒子。装有美味西瓜项链。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430383">
+		<string name="name" value="第三个小碎片"/>
+		<string name="desc" value="组成女神像第三块的小碎片之一。"/>
+	</imgdir>
+    <imgdir name="2430385">
+		<string name="name" value="特制水果圣代"/>
+		<string name="desc" value="一款让你在夏日保持凉爽的水果圣代。食用后会根据角色等级增加经验值获取量。#c此道具可以在同一账户的角色之间转移。#"/>
+	</imgdir>
+    <imgdir name="2430386">
+		<string name="name" value="飞贼之星10级装备盒子"/>
+		<string name="desc" value="当飞贼之星在天空中闪耀时，选择飞贼之路的人可获得的装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430387">
+		<string name="name" value="飞贼之星20级装备盒子"/>
+		<string name="desc" value="当飞贼之星在天空中闪耀时，选择飞贼之路的人可获得的高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430388">
+		<string name="name" value="飞贼之星25级装备盒子"/>
+		<string name="desc" value="当飞贼之星在天空中闪耀时，选择飞贼之路的人可获得的更高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430389">
+		<string name="name" value="海盗之星10级装备盒子"/>
+		<string name="desc" value="当海盗之星在天空中闪耀时，选择海盗之路的人可获得的装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430390">
+		<string name="name" value="海盗之星20级装备盒子"/>
+		<string name="desc" value="当海盗之星在天空中闪耀时，选择海盗之路的人可获得的高级装备盒子。"/>
+	</imgdir>
+</imgdir>

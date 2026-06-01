@@ -1,0 +1,94 @@
+<imgdir name="Npc.img">
+    <imgdir name="1033211">
+		<string name="name" value="精灵竖琴"/>
+	</imgdir>
+    <imgdir name="1033220">
+		<string name="name" value="源头之柱"/>
+		<string name="d0" value="（由白色大理石制成的源头之柱。它不断净化水源。）"/>
+		<string name="d1" value="（由白色大理石制成的源头之柱。它不断净化水源。）"/>
+	</imgdir>
+    <imgdir name="1033221">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="d0" value="（童年时期的雅典娜·皮尔斯。她翠绿色的头发和善良的眼睛与现在一样。唯一的区别是她当时非常害羞。）"/>
+		<string name="d1" value="（童年时期的雅典娜·皮尔斯。她翠绿色的头发和善良的眼睛与现在一样。唯一的区别是她当时非常害羞。）"/>
+	</imgdir>
+    <imgdir name="1033222">
+		<string name="name" value="雅典娜·皮尔斯"/>
+	</imgdir>
+    <imgdir name="1033223">
+		<string name="name" value="弗朗西斯"/>
+	</imgdir>
+    <imgdir name="1033224">
+		<string name="name" value="暗影骑士的信"/>
+	</imgdir>
+    <imgdir name="1033225">
+		<string name="name" value="暗影骑士"/>
+	</imgdir>
+    <imgdir name="1033226">
+		<string name="name" value="雅典娜的信"/>
+	</imgdir>
+    <imgdir name="1033227">
+		<string name="name" value="奥迪什"/>
+		<string name="d0" value="（此人穿着长袍。他下巴上的胡子表明他是个男人。）"/>
+		<string name="d1" value="（此人穿着长袍。他下巴上的胡子表明他是个男人。）"/>
+	</imgdir>
+    <imgdir name="1033228">
+		<string name="name" value="达戈斯"/>
+	</imgdir>
+    <imgdir name="1033229">
+		<string name="name" value="恐吓信"/>
+	</imgdir>
+    <imgdir name="1033230">
+		<string name="name" value="奥琪"/>
+		<string name="d0" value="哼..."/>
+		<string name="d1" value="哼..."/>
+	</imgdir>
+    <imgdir name="1033231">
+		<string name="name" value="穆尼"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="1033232">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="n0" value="埃卢埃尔...好久不见了。"/>
+		<string name="n1" value="还有更多人没有觉醒..."/>
+		<string name="d0" value="哈，幸好我们把他们都打败了。也没有人受伤。而且我又能见到大家了！太棒了！"/>
+		<string name="d1" value="哈，幸好我们把他们都打败了。也没有人受伤。而且我又能见到大家了！太棒了！"/>
+	</imgdir>
+    <imgdir name="1033233">
+		<string name="name" value="可爱"/>
+	</imgdir>
+    <imgdir name="1033240">
+		<string name="name" value="西尔维迪亚"/>
+		<string name="d0" value="精灵之地，埃卢埃尔...已经很久了。"/>
+		<string name="d1" value="我们欢迎精灵的回归。"/>
+	</imgdir>
+    <imgdir name="1052113">
+		<string name="name" value="鲍尔·B·福尔"/>
+		<string name="func" value="盗贼训练导师"/>
+		<string name="s0" value="我自己曾经也是个冒险家。"/>
+		<string name="s1" value="要是我年轻10岁就好了！"/>
+		<string name="d0" value="嘿！这个训练中心是专门为初学者设计的。你达到20级后将被移出该区域，明白了吗？"/>
+		<string name="d1" value="嘿！这个训练中心是专门为初学者设计的。你达到20级后将被移出该区域，明白了吗？"/>
+	</imgdir>
+    <imgdir name="1052114">
+		<string name="name" value="鲍尔·B·福尔"/>
+		<string name="func" value="盗贼训练中心入口"/>
+	</imgdir>
+    <imgdir name="1052115">
+		<string name="name" value="林先生"/>
+		<string name="func" value="地铁工作人员"/>
+		<string name="n0" value="此路线尚未开放。"/>
+		<string name="n1" value="请使用其他车站。"/>
+		<string name="d0" value="啊，等一下！此区域尚未对公众开放。如果您想乘坐地铁，请尝试附近的其他车站。离这里最近的车站在废弃都市。"/>
+		<string name="d1" value="啊，等一下！此区域尚未对公众开放。如果您想乘坐地铁，请尝试附近的其他车站。离这里最近的车站在废弃都市。"/>
+	</imgdir>
+    <imgdir name="1095001">
+		<string name="name" value="鲍尔·B·福尔"/>
+		<string name="func" value="海盗训练导师"/>
+		<string name="s0" value="我自己曾经也是个冒险家。"/>
+		<string name="s1" value="要是我年轻10岁就好了！"/>
+		<string name="d0" value="嘿！这个训练中心是专门为初学者设计的。你达到20级后将被移出该区域，明白了吗？"/>
+		<string name="d1" value="嘿！这个训练中心是专门为初学者设计的。你达到20级后将被移出该区域，明白了吗？"/>
+	</imgdir>
+</imgdir>

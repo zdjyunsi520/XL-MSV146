@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010578">
+		<string name="name" value="Teatime With Madeleine"/>
+		<string name="desc" value="Have some sweet teatime with Madeleine the maid. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010579">
+		<string name="name" value="Teatime With Sharyl"/>
+		<string name="desc" value="Have some sweet teatime with Princess Sharyl. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010580">
+		<string name="name" value="Bunny Chair"/>
+		<string name="desc" value="Recovers 100 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010581">
+		<string name="name" value="Horntail Chair"/>
+		<string name="desc" value="A majestic Horntail Chair. Recovers 100 HP and 40 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010582">
+		<string name="name" value="Polar Bear Chair"/>
+		<string name="desc" value="Snuggle up in this cozy polar bear chair to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010584">
+		<string name="name" value="Christmas Phantom"/>
+		<string name="desc" value="Spend a quiet Christmas with the Christmas Phantom. Recovers 60 HP and MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010585">
+		<string name="name" value="Xenon Chair"/>
+		<string name="desc" value="A chair made just for Xenon. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010587">
+		<string name="name" value="Temporal Pod"/>
+		<string name="desc" value="Reverts time to greatly decrease skill cooldown."/>
+	</imgdir>
+    <imgdir name="3010589">
+		<string name="name" value="Robo Rabbit Recharger"/>
+		<string name="desc" value="Roo-D may never forgive you for making her work so hard, but you can feel yourself getting charged up! Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010590">
+		<string name="name" value="Sweet Sugar Chair"/>
+		<string name="desc" value="Sit on this chair to receive about a hundred cavities. Recovers 100 HP and MP every 10 seconds.\n#cThis chair moves with the sitter due to its bottom-hugging construction.#"/>
+	</imgdir>
+    <imgdir name="3010593">
+		<string name="name" value="New Year's with Mercedes! "/>
+		<string name="desc" value="Celebrate your New Year's with Mercedes and feisty Slimes! Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010596">
+		<string name="name" value="Kite-Flying Cushion"/>
+		<string name="desc" value="Let's see how well Lady Moon Bunny flies her kite. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010597">
+		<string name="name" value="Yut Bunny Cushion"/>
+		<string name="desc" value="Poor Moon Bunnies have such short arms, they have trouble throwing Yut Sticks. It's going to take a while, so use this cushion to watch while you wait. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010598">
+		<string name="name" value="Fortune Chair"/>
+		<string name="desc" value="A chair made from the Fortune Sack a Moon Bunny used to ride on. Sitting in this chair will bring good fortune in the New Year. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010600">
+		<string name="name" value="Lucky Moon Bunny Chair"/>
+		<string name="desc" value="Moon Bunnies will bow and bring luck to you when you sit in this chair. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010418">
+		<string name="name" value="Haruaki's Fox Chair"/>
+		<string name="desc" value="A tiny chair for Haruaki's fox. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+    <imgdir name="3010419">
+		<string name="name" value="Sengoku Command Post"/>
+		<string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+    <imgdir name="3010496">
+		<string name="name" value="Mouri Command Post"/>
+		<string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+    <imgdir name="3010497">
+		<string name="name" value="Takeda Command Post"/>
+		<string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+    <imgdir name="3010498">
+		<string name="name" value="Uesugi Command Post"/>
+		<string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+</imgdir>

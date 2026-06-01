@@ -1,0 +1,7 @@
+<imgdir name="3001004">
+        <string name="name" value="Arrow Blow" />
+        <string name="desc" value="Shoots arrows at multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Shoots arrows at multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

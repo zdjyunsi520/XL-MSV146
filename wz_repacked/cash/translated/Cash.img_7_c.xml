@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5030027">
+		<string name="name" value="【3天】奶奶的小吃摊"/>
+		<string name="desc" value="在自由市场设置这个商店，奶奶会为你销售物品，即使你离线。如果你列出#c希望购买的物品#，其他玩家可以在这个商店出售这些物品。#c当物品售出时，你将通过聊天窗口收到通知。#\n#c无法购买的物品#：装备和有过期时间的现金物品。"/>
+	</imgdir>
+    <imgdir name="5030029">
+		<string name="name" value="黑色星期五商店"/>
+		<string name="desc" value="在自由市场设置这个商店，这个黑色星期五商店将为你销售物品，即使你离线。如果你列出#c希望购买的物品#，其他玩家可以在这个商店出售这些物品。#c当物品售出时，你将通过聊天窗口收到通知。#\n#c无法购买的物品#：装备物品和有过期时间的现金物品。"/>
+	</imgdir>
+    <imgdir name="5040001">
+		<string name="name" value="传送可乐"/>
+		<string name="desc" value="通过喝甜美清爽的#c可口可乐#，使你能够#c传送到记忆中的地图之一#。你还可以在同一频道内#c传送到特定角色所在的地图#。无法传送到限制传送的地图。"/>
+	</imgdir>
+    <imgdir name="5040004">
+		<string name="name" value="超级传送石"/>
+		<string name="desc" value="允许你通过世界地图[W]#c传送到大多数其他地点#。\n还允许你#c移动到指定角色所在的地图#，如果他们在同一世界和频道。可以排除无法传送进入的地图，最多可注册#c13#个地图。\n#c&lt;可以传送到的城镇&gt;#\n#c射手村、魔法森林、佩里昂、克拉苏城、诺特勒斯号、神秘岛、鲁彼尔努姆、水族馆、瑞恩、 武陵、阿里安特、埃德尔斯坦#。"/>
+	</imgdir>
+    <imgdir name="5040009">
+		<string name="name" value="超级传送石"/>
+		<string name="desc" value="允许你通过世界地图[W]#c传送到大多数其他地点#。\n还允许你#c移动到指定角色所在的地图#，如果他们在同一世界和频道。可以排除无法传送进入的地图，最多可注册#c13#个地图。\n#c&lt;可以传送到的城镇&gt;#\n#c射手村、魔法森林、佩里昂、克拉苏城、诺特勒斯号、神秘岛、鲁彼尔努姆、水族馆、瑞恩、武陵、阿里安特、埃德尔斯坦#。"/>
+	</imgdir>
+    <imgdir name="5040014">
+		<string name="name" value="传送石"/>
+		<string name="desc" value="记忆5个你选择的地图。这块石头将使你能够#c传送到你记忆的地图#。它甚至可以让你#c移动到某个角色所在的地图#，前提是该人在同一频道的同一世界。此物品无法在大陆之间传送。注意：此物品使用后会消失。"/>
+	</imgdir>
+    <imgdir name="5050000">
+		<string name="name" value="AP重置"/>
+		<string name="desc" value="此#c卷轴允许你将1点AP从一个属性移动到另一个#。属性可达到的最低AP等级是4。"/>
+	</imgdir>
+    <imgdir name="5050005">
+		<string name="name" value="Evan SP重置（1/2技能）"/>
+		<string name="desc" value="仅限Evan。此卷轴允许你#c重置1 SP从1转或2转技能#。"/>
+	</imgdir>
+    <imgdir name="5050006">
+		<string name="name" value="Evan SP重置（3/4技能）"/>
+		<string name="desc" value="仅限Evan。此卷轴允许你#c重置1 SP从3转或4转技能#。"/>
+	</imgdir>
+    <imgdir name="5050007">
+		<string name="name" value="Evan SP重置（5/6技能）"/>
+		<string name="desc" value="仅限Evan。此卷轴允许你#c重置1 SP从5转或6转技能#。"/>
+	</imgdir>
+    <imgdir name="5050008">
+		<string name="name" value="Evan SP重置（7/8技能）"/>
+		<string name="desc" value="仅限Evan。此卷轴允许你#c重置1 SP从7转或8转技能#。"/>
+	</imgdir>
+    <imgdir name="5050009">
+		<string name="name" value="Evan SP重置（9/10技能）"/>
+		<string name="desc" value="仅限Evan。此卷轴允许你#c重置1 SP从9转或10转技能#。"/>
+	</imgdir>
+    <imgdir name="5050100">
+		<string name="name" value="AP重置卷轴"/>
+		<string name="desc" value="#c重置所有属性#，不包括#c投入HP/MP的AP#。"/>
+	</imgdir>
+    <imgdir name="5051000">
+		<string name="name" value=" "/>
+		<string name="desc" value=" "/>
+	</imgdir>
+    <imgdir name="5051001">
+		<string name="name" value="SP重置卷轴"/>
+		<string name="desc" value="使用时，#c所有技能（新手技能除外）将被重置#。"/>
+	</imgdir>
+    <imgdir name="5060000">
+		<string name="name" value="物品标签"/>
+		<string name="desc" value="在装备上刻上主人的名字。#c将物品图标拖到选择的装备上#来雕刻你角色的名字。\n无法用于已雕刻的装备。\n如果用于带有制作者名字的物品，#c制作者的名字将被最新名字覆盖#。\n无法用于Zero武器。"/>
+	</imgdir>
+    <imgdir name="5060001">
+		<string name="name" value="物品保护"/>
+		<string name="desc" value="双击锁并将要保护的物品拖入槽中，以防止非任务物品被#cNPC交易、交换、丢弃、卷轴使用或某些现金物品使用#。"/>
+	</imgdir>
+    <imgdir name="5060002">
+		<string name="name" value="孵化器"/>
+		<string name="desc" value="打开#c猪人蛋#所需的装备。猪人蛋可以通过双击孵化器来孵化。"/>
+	</imgdir>
+    <imgdir name="5060003">
+		<string name="name" value="花生机器"/>
+		<string name="desc" value="一个看起来奇怪的装置，可以打开#c花生#。双击花生机器来使用它。"/>
+	</imgdir>
+    <imgdir name="5060004">
+		<string name="name" value="微波炉"/>
+		<string name="desc" value="用于融化#c冰块#的装置。双击微波炉来使用它。"/>
+	</imgdir>
+</imgdir>

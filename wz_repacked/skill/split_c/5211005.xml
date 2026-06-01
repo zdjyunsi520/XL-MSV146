@@ -1,0 +1,7 @@
+<imgdir name="5211005">
+        <string name="name" value="冰冻分裂" />
+        <string name="desc" value="用冰属性攻击最近的怪物！被击中的怪物会被冰冻一段时间。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Duration: #time sec" />
+        <string name="pdesc" value="用冰属性攻击最近的怪物！被击中的怪物会被冰冻一段时间。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount at #damage%, Freeze Duration: #time sec" />
+    </imgdir>

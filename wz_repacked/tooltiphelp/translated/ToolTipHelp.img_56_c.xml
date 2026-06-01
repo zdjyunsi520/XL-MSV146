@@ -1,0 +1,76 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="270010200">
+			<imgdir name="0">
+				<string name="Title" value="记忆的休息处"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="记忆小巷3"/>
+			</imgdir>
+    <imgdir name="270010210">
+			<imgdir name="0">
+				<string name="Title" value="记忆小巷3"/>
+			</imgdir>
+    <imgdir name="270010310">
+			<imgdir name="0">
+				<string name="Title" value="记忆小巷4"/>
+			</imgdir>
+    <imgdir name="270010500">
+			<imgdir name="0">
+				<string name="Title" value="冰冻的过去"/>
+			</imgdir>
+    <imgdir name="270020000">
+			<imgdir name="0">
+				<string name="Title" value="记忆小巷方向"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗憾之门"/>
+			</imgdir>
+    <imgdir name="270020100">
+			<imgdir name="0">
+				<string name="Title" value="冰冻的过去"/>
+			</imgdir>
+    <imgdir name="270020110">
+			<imgdir name="0">
+				<string name="Title" value="遗憾之路1"/>
+			</imgdir>
+    <imgdir name="270020210">
+			<imgdir name="0">
+				<string name="Title" value="巫师房间"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗憾之路2"/>
+			</imgdir>
+    <imgdir name="270020400">
+			<imgdir name="0">
+				<string name="Title" value="遗憾之路5"/>
+			</imgdir>
+    <imgdir name="270030000">
+			<imgdir name="0">
+				<string name="Title" value="通往遗忘的路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗憾之路5"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="遗忘之门"/>
+			</imgdir>
+    <imgdir name="270030210">
+			<imgdir name="0">
+				<string name="Title" value="通往遗忘之路2"/>
+			</imgdir>
+    <imgdir name="270030300">
+			<imgdir name="0">
+				<string name="Title" value="通往遗忘之路4"/>
+			</imgdir>
+    <imgdir name="270030400">
+			<imgdir name="0">
+				<string name="Title" value="通往遗忘之路3"/>
+			</imgdir>
+    <imgdir name="270030410">
+			<imgdir name="0">
+				<string name="Title" value="通往遗忘之路4"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="通往遗忘之路5"/>
+			</imgdir>
+</imgdir>

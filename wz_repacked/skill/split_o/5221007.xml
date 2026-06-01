@@ -1,0 +1,7 @@
+<imgdir name="5221007">
+        <string name="name" value="Battleship Cannon" />
+        <string name="desc" value="Rapidly fires a number of cannonballs. Only available when aboard the Battleship. Grants additional Critical Rate.\nRequired Skill: #cBattleship Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
+        <string name="pdesc" value="Rapidly fires a number of cannonballs. Only available when aboard the Battleship. Grants additional Critical Rate.\nRequired Skill: #cBattleship Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210085">
+		<string name="name" value="奇异灵魂书"/>
+		<string name="desc" value="变成织田士兵，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2210086">
+		<string name="name" value="奇异灵魂书"/>
+		<string name="desc" value="变成织田侦察兵，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2290725">
+		<string name="name" value="[技能手册]神速20"/>
+		<string name="desc" value="70%概率将#c神速#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290726">
+		<string name="name" value="[技能手册]神速30"/>
+		<string name="desc" value="50%概率将#c神速#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级15+"/>
+	</imgdir>
+    <imgdir name="2290727">
+		<string name="name" value="[技能手册]斩击20"/>
+		<string name="desc" value="70%概率将#c斩击#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290728">
+		<string name="name" value="[技能手册]斩击30"/>
+		<string name="desc" value="50%概率将#c斩击#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级15+"/>
+	</imgdir>
+    <imgdir name="2290729">
+		<string name="name" value="[技能手册]铁壁20"/>
+		<string name="desc" value="70%概率将#c铁壁#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290730">
+		<string name="name" value="[技能手册]神速20"/>
+		<string name="desc" value="70%概率将#c神速#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290731">
+		<string name="name" value="[技能手册]神速30"/>
+		<string name="desc" value="50%概率将#c神速#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级15+"/>
+	</imgdir>
+    <imgdir name="2290732">
+		<string name="name" value="[技能手册]断刃20"/>
+		<string name="desc" value="70%概率将#c断刃#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290733">
+		<string name="name" value="[技能手册]断刃30"/>
+		<string name="desc" value="50%概率将#c断刃#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级15+"/>
+	</imgdir>
+    <imgdir name="2290734">
+		<string name="name" value="[技能手册]隼击20"/>
+		<string name="desc" value="70%概率将#c隼击#的最高等级提升至20。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290735">
+		<string name="name" value="[特殊技能手册]神速30"/>
+		<string name="desc" value="100%概率将#c神速#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290736">
+		<string name="name" value="[特殊技能手册]斩击30"/>
+		<string name="desc" value="100%概率将#c斩击#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290737">
+		<string name="name" value="[特殊技能手册]神速30"/>
+		<string name="desc" value="100%概率将#c神速#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290738">
+		<string name="name" value="[特殊技能手册]断刃30"/>
+		<string name="desc" value="100%概率将#c断刃#的最高等级提升至30。\n职业：剑豪(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290787">
+		<string name="name" value="[技能手册]征服者之魅20"/>
+		<string name="desc" value="70%概率将#c征服者之魅#的最高等级提升至20。\n职业：阴阳师(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290788">
+		<string name="name" value="[技能手册]征服者之魅30"/>
+		<string name="desc" value="50%概率将#c征服者之魅#的最高等级提升至30。\n职业：阴阳师(四转)\n条件：技能等级15+"/>
+	</imgdir>
+    <imgdir name="2290789">
+		<string name="name" value="[技能手册]八岐大蛇20"/>
+		<string name="desc" value="70%概率将#c八岐大蛇#的最高等级提升至20。\n职业：阴阳师(四转)\n条件：技能等级5+"/>
+	</imgdir>
+    <imgdir name="2290790">
+		<string name="name" value="[技能手册]八岐大蛇30"/>
+		<string name="desc" value="50%概率将#c八岐大蛇#的最高等级提升至30。\n职业：阴阳师(四转)\n条件：技能等级15+"/>
+	</imgdir>
+</imgdir>

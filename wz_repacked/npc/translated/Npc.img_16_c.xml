@@ -1,0 +1,113 @@
+<imgdir name="Npc.img">
+    <imgdir name="2040013">
+		<string name="name" value="不倒翁10号"/>
+		<string name="n0" value="我工作努力吗？你看不出来吗？"/>
+		<string name="n1" value="我想完成这个然后回家...！"/>
+		<string name="d0" value="我以前在玩具城钟楼里的玩具工厂工作，但被派到这里来修复EOS塔被破坏的部分。然而，怪物的数量稳步增加，这使得我和其他不倒翁的工作非常困难。"/>
+		<string name="d1" value="你就是前几天给我拍照的人。你见过我们所有10个不倒翁吗？你把那些照片给了#b#p2040015##k，对吗？也许我们的经理看到这些照片后会放心地专注于他的工作。"/>
+	</imgdir>
+    <imgdir name="2040014">
+		<string name="name" value="奇科"/>
+		<string name="func" value="小游戏大师"/>
+		<string name="n0" value="如果你想知道任何关于小游戏的事情，跟我说话。"/>
+		<string name="n1" value="你可能会努力，但你永远，永远不会打败我。"/>
+	</imgdir>
+    <imgdir name="2040015">
+		<string name="name" value="卡尔经理"/>
+		<string name="n0" value="那些工人...我不在的时候他们也在努力工作吗？"/>
+		<string name="n1" value="哦不，我今天忘了带午餐盒来上班..."/>
+		<string name="n2" value="我是#p2040015#。周围有很多危险的机器，所以请小心。"/>
+		<string name="d0" value="你好！我是#b#p2040015##k，负责玩具工厂的人。今天又是忙碌的一天..."/>
+		<string name="d1" value="哦！你就是帮我在EOS塔见到我们不倒翁的人！我能帮你什么吗？嗯？哈哈，当然，我没有忘记我女儿给我做的午餐盒。我只是在等午餐时间才能吃！回头见！"/>
+	</imgdir>
+    <imgdir name="2040016">
+		<string name="name" value="皮"/>
+		<string name="func" value="精炼专家"/>
+		<string name="n0" value="你不想做点什么吗？对我来说小菜一碟！"/>
+		<string name="n1" value="嗯...你可以在玩具城收集一些非常好的材料。"/>
+	</imgdir>
+    <imgdir name="2040017">
+		<string name="name" value="绿色梅索兰杰"/>
+		<string name="n0" value="只要我们在这里，一切都会好的！"/>
+		<string name="n1" value="我们错过起飞时间了吗...？"/>
+		<string name="d0" value="我在这里执行欧米茄部门交给我的一项非常重要的任务。这里很危险，所以我建议你现在就跑。"/>
+		<string name="d1" value="罗斯韦尔场容易出现外星人，所以这个地方一直在监视之下。攻击还在继续，所以我建议你和其他人不要在这里太舒服。我得回部门做更多工作，所以回头见！"/>
+	</imgdir>
+    <imgdir name="2040018">
+		<string name="name" value="黑色梅索兰杰"/>
+		<string name="n0" value="粉色梅索兰杰总是迟到...除非我们5个人都在这里，否则我们无法发挥100%的力量。"/>
+		<string name="n1" value="当我们5个人在一起时，没有什么能吓到我们！"/>
+		<string name="d0" value="你好！我是#b#p2040018##k，负责防止外星人入侵这个地方的任务。他们最近似乎表现得更活跃了。这里很危险，所以我建议你跑回欧米茄部门安全的地方。"/>
+		<string name="d1" value="你就是帮我在库兰场除掉#b#o4230116##k的人。在一个危险外星人司空见惯的地方找到像你这样的人感觉真好。我仍在调查这些外星人背后的主谋。我又要对抗另一个外星人，所以这并不容易..."/>
+	</imgdir>
+    <imgdir name="2040019">
+		<string name="name" value="埃弗顿"/>
+		<string name="func" value="医生助理"/>
+		<string name="n0" value="欢迎来到我们医院！你的脸看起来很糟糕。需要我的帮助吗？"/>
+		<string name="n1" value="偶尔会有一个人脸有点难以触摸。你碰巧就是那个人...哈哈！你想要什么？"/>
+	</imgdir>
+    <imgdir name="2040020">
+		<string name="name" value="莎拉"/>
+		<string name="func" value="手套制作师"/>
+		<string name="n1" value="我有一只特别的手套给你...你想看看吗？"/>
+		<string name="n0" value="制作手套很容易！"/>
+	</imgdir>
+    <imgdir name="2040021">
+		<string name="name" value="塔拉"/>
+		<string name="func" value="鞋匠"/>
+		<string name="n0" value="我的鞋子最近很抢手。"/>
+		<string name="n1" value="你听说过刺激器吗？是的..."/>
+	</imgdir>
+    <imgdir name="2040022">
+		<string name="name" value="里多尔"/>
+		<string name="func" value="武器创造者"/>
+		<string name="n0" value="你想制作武器吗？这里是完美的地方。"/>
+		<string name="n1" value="你需要手册来制作武器"/>
+	</imgdir>
+    <imgdir name="2040023">
+		<string name="name" value="迷路的士兵"/>
+		<string name="n0" value="有人能帮我吗？"/>
+		<string name="n1" value="我在哪里...？"/>
+		<string name="d0" value="EOS塔非常巨大...大到我们偶尔会在这里迷路。"/>
+		<string name="d1" value="嗯...我在哪里？我负责EOS塔第59层的安全，但我现在完全不知道我在哪里。嗯..."/>
+	</imgdir>
+    <imgdir name="2040024">
+		<string name="name" value="EOS魔法石"/>
+		<string name="func" value="传送先生"/>
+	</imgdir>
+    <imgdir name="2040025">
+		<string name="name" value="第二EOS石"/>
+	</imgdir>
+    <imgdir name="2040026">
+		<string name="name" value="第三EOS石"/>
+	</imgdir>
+    <imgdir name="2040027">
+		<string name="name" value="第四EOS石"/>
+	</imgdir>
+    <imgdir name="2040028">
+		<string name="name" value="玩具士兵马克"/>
+		<string name="n0" value="请找到与其他不同的玩偶屋。"/>
+		<string name="n1" value="如果你想离开这个地方，跟我说话。"/>
+	</imgdir>
+    <imgdir name="2040029">
+		<string name="name" value="时钟爷爷"/>
+		<string name="n0" value="今天我能为你做什么？这里很危险，所以我建议你搬到附近的安全地方。"/>
+		<string name="n1" value="我在这里努力工作。"/>
+		<string name="d0" value="我是#b#p2040029##k。我被派到这里看看玩具城钟楼出了什么问题，但我似乎找不到任何错误。"/>
+		<string name="d1" value="你一定告诉#b#p2040002##k钟楼已经修好了。希望士兵们现在可以信任时间了。非常感谢你的辛勤工作。我现在得回去工作了。请回到玩具城，因为这里太危险了，不适合闲逛。"/>
+	</imgdir>
+    <imgdir name="2040030">
+		<string name="name" value="精灵"/>
+		<string name="n0" value="关于宠物有任何问题吗？"/>
+		<string name="n1" value="如果你想让你的宠物复活，跟我说话。"/>
+	</imgdir>
+    <imgdir name="2040031">
+		<string name="name" value="文件卷轴"/>
+	</imgdir>
+    <imgdir name="2040032">
+		<string name="name" value="韦弗"/>
+		<string name="func" value="宠物训练师"/>
+		<string name="n0" value="你想训练你的宠物吗？那你来对地方了。"/>
+		<string name="n1" value="养宠物有时可能是一项艰巨的任务。"/>
+	</imgdir>
+</imgdir>

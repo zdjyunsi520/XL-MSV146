@@ -1,0 +1,219 @@
+<imgdir name="5000139">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value=" Poof~ "/>
+		<string name="c1_s2" value=" Poofff!~ "/>
+		<string name="c1_f1" value=" Poof? Pooofffff! "/>
+		<string name="c1_f2" value=" Pooof! "/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value=" Butterflies don't sit! We only fly around! Hehe! "/>
+		<string name="c2_s2" value=" I'm gonna try sitting! This is something new! "/>
+		<string name="c2_s3" value=" I didn't know sitting down was that easy! "/>
+		<string name="c2_s4" value=" Like this? pooof! "/>
+		<string name="c2_f1" value=" I wanna do something fun, poof!"/>
+		<string name="c2_f2" value=" I wanna do something else, poof!"/>
+		<string name="c2_f3" value=" It's too nasty for me to sit, poof!"/>
+		<string name="c2_f4" value=" I can't sit here, someone peed on the ground! Pooof! "/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value=" Yes, POOF!"/>
+		<string name="c3_s2" value=" Like this? POOF!"/>
+		<string name="c3_s3" value=" I did well, right? POOF!"/>
+		<string name="c3_s4" value=" Sitting was easy POOF!"/>
+		<string name="c3_f1" value="Can I fly around instead? POOF!"/>
+		<string name="c3_f2" value="Let me take you for a ride! Poof!"/>
+		<string name="c3_f3" value="How are butteflies gonna sit?! Huh?!"/>
+		<string name="c3_f4" value="Butterflies don't sit! "/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value=" Just say it."/>
+		<string name="c4_s2" value=" It's not easy being a butterfly... "/>
+		<string name="c4_s3" value=" That was a piece of cake... "/>
+		<string name="c4_s4" value="Whaddaya think? I'm good right? "/>
+		<string name="c4_f1" value=" Why don't YOU sit instead? hehe! "/>
+		<string name="c4_f2" value=" I have difficulties sitting down... let's try something else shall we? "/>
+		<string name="c4_f3" value=" Ahh..I'm sleepy...what's up? What did you say? I didn't hear you!"/>
+		<string name="c4_f4" value=" Hehe! My mind was blank! I didn't catch what you were talking about..."/>
+		<string name="c5" value=" bad|no|badgirl|badboy "/>
+		<string name="c5_s1" value="Clickkk- clickkk-"/>
+		<string name="c5_s2" value=" Pooooooffff! "/>
+		<string name="c5_f1" value="Weeeeeiiooo! "/>
+		<string name="c5_f2" value="Awwwwww! "/>
+		<string name="c6" value=" bad|no|badgirl|badboy "/>
+		<string name="c6_s1" value=" I got a fright, that was scary! "/>
+		<string name="c6_s2" value=" It's not cool at all, clickkkk! "/>
+		<string name="c6_s3" value=" Please don't give me a scary face! I am a timid butterfly! "/>
+		<string name="c6_s4" value="That was surprising, clickkkk! "/>
+		<string name="c6_f1" value=" Tell me what went wrong! Clickkkk!"/>
+		<string name="c6_f2" value=" You are ranting at me! Clickkkkk!"/>
+		<string name="c6_f3" value=" I didn't do anything to deserve this! Clickkkk!"/>
+		<string name="c6_f4" value=" I know you don't mean it right? You were just bored aren't you? Clickkkkk! "/>
+		<string name="c7" value=" bad|no|badgirl|badboy "/>
+		<string name="c7_s1" value=" I am sorry, so sorry! Clicck clickkk! "/>
+		<string name="c7_s2" value=" I'm sorry.... clickkk! "/>
+		<string name="c7_s3" value="Are you really mad at me? Clickkk clickkk! "/>
+		<string name="c7_s4" value="I promise I won't do that again... clickk clickk! "/>
+		<string name="c7_f1" value=" What did I do anyway?! Clickkk! "/>
+		<string name="c7_f2" value="That wasn't cool at all! Pooof!"/>
+		<string name="c7_f3" value=" Where else will you find an obedient pet like me? POOFFF! "/>
+		<string name="c7_f4" value="If you keep doing that, I may one day get out of here! Clickk Clickkk! "/>
+		<string name="c8" value=" bad|no|badgirl|badboy "/>
+		<string name="c8_s1" value=" ...I'll be careful now... "/>
+		<string name="c8_s2" value=" Ah... you're really scaring me... "/>
+		<string name="c8_s3" value=" ...I'll be good now... "/>
+		<string name="c8_s4" value=" ...Please give me that scary face... "/>
+		<string name="c8_f1" value=" Man...I haven't done anything wrong, and still... "/>
+		<string name="c8_f2" value=" ...Things happen in life for a reason... "/>
+		<string name="c8_f3" value=" Man... you are going off on me again for no reason... "/>
+		<string name="c8_f4" value="You must be bored...treating me like this... "/>
+		<string name="c9" value=" stupid|ihateyou|dummy "/>
+		<string name="c9_s1" value="Clickkk- clickkk-"/>
+		<string name="c9_s2" value=" Pooooooffff! "/>
+		<string name="c9_f1" value="Weeeeeiiooo! "/>
+		<string name="c9_f2" value="Awwwwww! "/>
+		<string name="c10" value=" stupid|ihateyou|dummy "/>
+		<string name="c10_s1" value=" I.. I don't mean that.. pooof! "/>
+		<string name="c10_s2" value=" Please don't leave me, poooff... "/>
+		<string name="c10_s3" value=" I don't like hearing that, poooff... "/>
+		<string name="c10_s4" value=" That was harsh, pooofff... "/>
+		<string name="c10_f1" value=" Take back what you just said, pooof! "/>
+		<string name="c10_f2" value=" I'm not that, POOOFFF!! "/>
+		<string name="c10_f3" value=" I'm pissed, POOOFFF!! "/>
+		<string name="c10_f4" value=" What are you saying, poof??? "/>
+		<string name="c11" value=" stupid|ihateyou|dummy "/>
+		<string name="c11_s1" value="...I can't believe you said that...CLICKKK CLICKKK! "/>
+		<string name="c11_s2" value="I get hurt when I hear those...CLICKKK! "/>
+		<string name="c11_s3" value=" That was a joke...right? Right? CLICKKK! "/>
+		<string name="c11_s4" value=" You...didn't mean that, right? right? CLICKKK! "/>
+		<string name="c11_f1" value=" You're stupid! CLICKKKK! "/>
+		<string name="c11_f2" value=" Take back what you said! CLICKKK!!!!! "/>
+		<string name="c11_f3" value=" That hurts,! CLICKKK!! "/>
+		<string name="c11_f4" value=" You suck! CLICKKK! "/>
+		<string name="c12" value=" stupid|ihateyou|dummy "/>
+		<string name="c12_s1" value=" ...This is not the first time I've heard this, but it still hurts... "/>
+		<string name="c12_s2" value=" You aren't gonna leave me out hanging like this, right? "/>
+		<string name="c12_s3" value=" I still like you though... "/>
+		<string name="c12_s4" value=" Do you really not like me?? "/>
+		<string name="c12_f1" value=" Wah? What? I can't hear you~ "/>
+		<string name="c12_f2" value=" You didn't mean what you said, right? "/>
+		<string name="c12_f3" value=" I'm sick of hearing that everyday...hehe "/>
+		<string name="c12_f4" value=" If you keep saying that, I'm gonna get grumpy!"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value=" Poooooooffffff! "/>
+		<string name="c13_s2" value=" Pooooooooof! "/>
+		<string name="c13_f1" value=" Pooof? Pooooof! "/>
+		<string name="c13_f2" value=" Pooooooofff!"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value=" Oh, that was good, pooof! "/>
+		<string name="c14_s2" value=" pheeww phheeww! "/>
+		<string name="c14_s3" value=" It...it's not coming out well, clickkk! "/>
+		<string name="c14_s4" value=" Oh...it smells, pooof! "/>
+		<string name="c14_f1" value=" It's not pooping time yet, pooooof... "/>
+		<string name="c14_f2" value=" How can I poop if I don't feel like it, poooff! "/>
+		<string name="c14_f3" value=" Pooping is only for bathroom, clickkkk! "/>
+		<string name="c14_f4" value=" How am I supposed to poop when you're looking at me? Clickkkk! "/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value=" Phew~ POOOF! "/>
+		<string name="c15_s2" value=" Oh my...it smells...clickkkk clickkkk! "/>
+		<string name="c15_s3" value=" EEhhh...I may be constipating... Help!"/>
+		<string name="c15_s4" value=" EEhhh... it's not coming out... "/>
+		<string name="c15_f1" value="It hasn't been long since I last pooped... clickkk clickkkk! "/>
+		<string name="c15_f2" value=" It's not time to poop yet... pooof!! "/>
+		<string name="c15_f3" value=" ...I don't feel like pooping yet...clickkk clickkk! "/>
+		<string name="c15_f4" value=" Don't YOU poop? Clickk clickkk! "/>
+		<string name="c16" value=" poop "/>
+		<string name="c16_s1" value=" Ahhh...that was good...but it's still embarassing...hehe "/>
+		<string name="c16_s2" value=" Ahh...whoa, my lunch just came out like that...hehe "/>
+		<string name="c16_s3" value=" Phew! Doesn't my poop look as adorable as me? "/>
+		<string name="c16_s4" value=" Phew! Haven't taken a crap in three days and look at this!! HUATZA!! "/>
+		<string name="c16_f1" value=" I haven't had anything to poop out in the first place... "/>
+		<string name="c16_f2" value=" ...Can I do it later in the dark? I don't wanna do it in public... "/>
+		<string name="c16_f3" value="YOU POOP INSTEAD! "/>
+		<string name="c16_f4" value=" ...How am I gonna take a dump on purpose?? "/>
+		<string name="c17" value=" talk|chat|say "/>
+		<string name="c17_s1" value=" I'm hungry, hungry, poooff! "/>
+		<string name="c17_s2" value=" The harder you hunt, the better the items you'll find, pooof! "/>
+		<string name="c17_s3" value=" Isn't it nice out here today? We should go far and have fun wherever on a day like this, clickk clickkk! "/>
+		<string name="c17_s4" value=" I need a nap on top of a comfortable blanket, like now? "/>
+		<string name="c17_f1" value=" How do butterflies talk? They click! "/>
+		<string name="c17_f2" value=" I'm too depressed to talk right now, clickk clickkk!"/>
+		<string name="c17_f3" value=" I have nothing to say to you... pooof!! "/>
+		<string name="c17_f4" value=" Butteflies don't talk! "/>
+		<string name="c18" value=" talk|chat|say "/>
+		<string name="c18_s1" value=" It's awesome day to fly around today! poooofff! "/>
+		<string name="c18_s2" value=" I am on Cloud Nine and more good things are coming our way! Pooooof! "/>
+		<string name="c18_s3" value=" Let's get something nice to eat today shall we? Clickkk clickkk! "/>
+		<string name="c18_s4" value=" Let's go to the garden today for some fun! Poooofff! "/>
+		<string name="c18_f1" value=" There's nothing for me to say now,! clickkk clickkkk! "/>
+		<string name="c18_f2" value=" I wanna rest now! "/>
+		<string name="c18_f3" value=" I have so little to say! "/>
+		<string name="c18_f4" value=" Hold me in your hand! "/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Are you dating someone? I'm not... "/>
+		<string name="c19_s2" value=" Hey, can you beat Pink Bean? "/>
+		<string name="c19_s3" value=" You better play some Gachapon today, cause I'm feeling lucky! "/>
+		<string name="c19_s4" value="I heard there's something scary in a cave in Leafre! "/>
+		<string name="c19_f1" value=" Let's put the talk aside, it's time to get some food to eat! POOOF! "/>
+		<string name="c19_f2" value=" You must be really bored aren't you? Pooooofff! "/>
+		<string name="c19_f3" value=" Arrgh...didn't hear a thing...didn't hear a thing... "/>
+		<string name="c19_f4" value=" Sometime butterflies do have our OFF day! "/>
+		<string name="c20" value=" iloveyou "/>
+		<string name="c20_s1" value=" Poooooof!"/>
+		<string name="c20_s2" value=" Poof, poooof!"/>
+		<string name="c20_f1" value=" eh? "/>
+		<string name="c20_f2" value="Clickk clickkk? "/>
+		<string name="c21" value=" iloveyou "/>
+		<string name="c21_s1" value=" I love you too, pooof! "/>
+		<string name="c21_s2" value=" Hehe...I'm blushing, poooof! "/>
+		<string name="c21_s3" value=" Really? Love you too! Poooff! "/>
+		<string name="c21_s4" value=" Me too! Pooof! "/>
+		<string name="c21_f1" value=" You sure you are not lying? "/>
+		<string name="c21_f2" value=" What did you say, poooof? "/>
+		<string name="c21_f3" value=" What's up, poof? "/>
+		<string name="c21_f4" value=" Since when, pooof? "/>
+		<string name="c22" value=" iloveyou "/>
+		<string name="c22_s1" value=" That's so sweet! I LOVE YOU TOO! Pooooooof! "/>
+		<string name="c22_s2" value=" Thanks thanks! I love you too! Poooooof! "/>
+		<string name="c22_s3" value=" I guess I am starting to fall in love with you too! Pooooof! "/>
+		<string name="c22_s4" value=" I like you very very much! Poooof! "/>
+		<string name="c22_f1" value="Give me some food...pooooof... "/>
+		<string name="c22_f2" value="Eh? Clickkk clickkk!? "/>
+		<string name="c22_f3" value=" That came as a surprise! I am experiencing butterflies in my stomach now! "/>
+		<string name="c22_f4" value=" I know you're lying...poooof! "/>
+		<string name="c23" value=" iloveyou "/>
+		<string name="c23_s1" value="Catch this cupid's arrow from me to you! Pooooof! "/>
+		<string name="c23_s2" value=" My heart will go on and on for you, pooooof! "/>
+		<string name="c23_s3" value=" ORLY? I LOVE YOU TOO! Pooooof! "/>
+		<string name="c23_s4" value=" You don't really see a butterfly blush don't you? I am blushing now! "/>
+		<string name="c23_f1" value=" Quit playing games with my heart! Poooof! "/>
+		<string name="c23_f2" value="You gotta lay off those gummi bears!"/>
+		<string name="c23_f3" value=" Don't say you love me, you don't even know me! clickkk clickkk! "/>
+		<string name="c23_f4" value=" Time to grab some bites! Poooof! "/>
+		<string name="c24" value=" sleep|sleepy|gotobed "/>
+		<string name="c24_s1" value=" Time to sleep in my cosy leaf bed! Will you hug me to sleep tonight? "/>
+		<string name="c24_s2" value="Snooozeeee..."/>
+		<string name="c24_s3" value=" Hold me tight in your arms! Clickkk Clickkk! "/>
+		<string name="c24_s4" value=" Don't let the bed bugs bite! Hehe! "/>
+		<string name="c24_f1" value=" Let's go for some late night! I am not sleepy! "/>
+		<string name="c24_f2" value=" Sing me a lullaby and I will go to my wonderland! "/>
+		<string name="c24_f3" value=" Let me dance with the moon and stars tonight! "/>
+		<string name="c24_f4" value=" I can't sleep cause I am dreaming of something... "/>
+		<string name="c25" value=" disguise|change|transform "/>
+		<string name="c25_s1" value=" Let the power of the butterflies transform! "/>
+		<string name="c25_s2" value=" Time to transform into a Monster Moth! "/>
+		<string name="c25_s3" value=" Transformation completed! "/>
+		<string name="c25_s4" value=" Hold on tight! Pphheewww! "/>
+		<string name="c25_f1" value=" Can't just do it all the time, you know. "/>
+		<string name="c25_f2" value=" I can't just do it anywhere. "/>
+		<string name="c25_f3" value=" Too much only spoils the fun. "/>
+		<string name="c25_f4" value=" Let's just sit and relax, shall we? "/>
+		<string name="f1_s" value=" Poooof! pppppPoooooofff! Pooooffffff! "/>
+		<string name="f1_f" value=" Clickkkk....kkkkkkk!! "/>
+		<string name="f2_s" value=" foooood! "/>
+		<string name="f2_f" value=" I have to stop eating now! Arghhh! "/>
+		<string name="f3_s" value="You're really good at it aren't you? "/>
+		<string name="f3_f" value="I'm too full to eat anymore! "/>
+		<string name="f4_s" value="Let's have something special today? "/>
+		<string name="f4_f" value="I am really full! "/>
+		<string name="s1" value=" Poooooffff? "/>
+		<string name="s2" value=" Why are you aking me to say that kind of words? Clickkk clickkkkk~ "/>
+		<string name="s3" value=" I am a good Butterfly! "/>
+		<string name="s4" value=" I hate bad words! "/>
+	</imgdir>

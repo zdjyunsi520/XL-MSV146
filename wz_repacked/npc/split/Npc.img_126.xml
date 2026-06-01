@@ -1,0 +1,115 @@
+<imgdir name="Npc.img">
+    <imgdir name="1203000">
+		<string name="name" value="Sir Blacksmith"/>
+		<string name="func" value="Old Blacksmith"/>
+		<string name="n0" value="Hahaha..."/>
+		<string name="n1" value="A fine weapon always recognizes a fine owner..."/>
+		<string name="d0" value="Haha, when will I ever get to find the rightful owner of Maha?"/>
+		<string name="d1" value="Please take care of Maha for me."/>
+	</imgdir>
+    <imgdir name="1203001">
+		<string name="name" value="Tititi"/>
+		<string name="func" value="Master Jewelist Yeti"/>
+		<string name="n0" value="Yeti love jewelry."/>
+		<string name="n1" value="Yeti... Yeti.. Wait, what was Yeti going to say?"/>
+		<string name="d0" value="Yeti sad. Yeti hate thieves."/>
+		<string name="d1" value="Yeti thanks you."/>
+	</imgdir>
+    <imgdir name="1204001">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Puppeteer"/>
+		<string name="n0" value="Hmmm..."/>
+		<string name="n1" value="When I collect it all..."/>
+	</imgdir>
+    <imgdir name="1204002">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Puppeteer"/>
+		<string name="n0" value="Hmmm..."/>
+		<string name="n1" value="How dare you are!"/>
+	</imgdir>
+    <imgdir name="1204003">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Puppeteer"/>
+		<string name="n0" value="Hmmm..."/>
+		<string name="n1" value="Oh..."/>
+	</imgdir>
+    <imgdir name="1204006">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Puppeteer"/>
+		<string name="n0" value="Hmmm..."/>
+		<string name="n1" value="Never forgive you!"/>
+	</imgdir>
+    <imgdir name="1204032">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1209006">
+		<string name="name" value="Lost Kid"/>
+		<string name="d0" value="*Sniff sniff.* I'm lost."/>
+	</imgdir>
+    <imgdir name="1300000">
+		<string name="name" value="Mushking"/>
+		<string name="s0" value="Violetta, Violetta!"/>
+		<string name="s1" value="King Pepe, I won't let you get away with this!"/>
+		<string name="d0" value="*Cough, cough.*"/>
+		<string name="d1" value="*Cough!*"/>
+	</imgdir>
+    <imgdir name="1300001">
+		<string name="name" value="King Pepe"/>
+		<string name="s0" value="The Mushking Empire will one day be mine!"/>
+		<string name="s1" value="This is not over yet."/>
+		<string name="d0" value="Obey my commands!"/>
+		<string name="d1" value="I'm the new king in town!"/>
+	</imgdir>
+    <imgdir name="1300002">
+		<string name="name" value="Violetta"/>
+		<string name="func" value="Princess"/>
+		<string name="d0" value="*Sniff sniff.*"/>
+		<string name="d1" value="Oh, Father! *sniff sniff.*"/>
+	</imgdir>
+    <imgdir name="1300006">
+		<string name="name" value="Prince Giuseppe"/>
+		<string name="d0" value="Heheheh, what's this?"/>
+		<string name="d1" value="Dad, what do I do now?"/>
+	</imgdir>
+    <imgdir name="2103013">
+		<string name="name" value="Duarte"/>
+		<string name="func" value="Pyramid Keeper"/>
+		<string name="n0" value="Intruders! Stop in your tracks!"/>
+		<string name="n1" value="I mean it. Leave!"/>
+		<string name="d0" value="Turn around, intruder! Do not draw the fury of the god of chaos, Nett!"/>
+		<string name="d1" value="Turn around, intruder! Do not draw the fury of the god of chaos, Nett!"/>
+	</imgdir>
+    <imgdir name="9000022">
+		<string name="name" value="John"/>
+		<string name="n0" value="I proposed to my wife by buying her a viola..."/>
+	</imgdir>
+    <imgdir name="9000023">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="Such a beautiful wedding!"/>
+	</imgdir>
+    <imgdir name="9000024">
+		<string name="name" value="Dances with Balrog"/>
+		<string name="n0" value="Til death do you part."/>
+	</imgdir>
+    <imgdir name="9000026">
+		<string name="name" value="Dark Lord"/>
+		<string name="n0" value="Congratulations..."/>
+	</imgdir>
+    <imgdir name="9000028">
+		<string name="name" value="Tae Gong"/>
+		<string name="n0" value="I remember the day I married my lady.."/>
+	</imgdir>
+    <imgdir name="9000029">
+		<string name="name" value="Winky the Fairy"/>
+		<string name="n0" value="So what kind of food is being served here? I prefer steak!"/>
+	</imgdir>
+    <imgdir name="9310058">
+		<string name="name" value="Santa "/>
+		<string name="n0" value="Merry Christmas! Merry Christmas!"/>
+		<string name="n1" value="Ah! Christmas has come. Have you been waiting for me?"/>
+		<string name="d0" value="I hear you can go to Happyville if you find Rooney."/>
+		<string name="d1" value="Rooney can be found in Ellinia, El Nath, and Ludibrium."/>
+	</imgdir>
+</imgdir>

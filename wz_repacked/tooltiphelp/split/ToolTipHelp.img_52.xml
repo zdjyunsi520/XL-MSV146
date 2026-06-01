@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land II"/>
+			</imgdir>
+    <imgdir name="106000110">
+			<imgdir name="0">
+				<string name="Title" value="The Burnt Land I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land III"/>
+			</imgdir>
+    <imgdir name="106000120">
+			<imgdir name="0">
+				<string name="Title" value="The Burnt Land II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land IV"/>
+			</imgdir>
+    <imgdir name="106000130">
+			<imgdir name="0">
+				<string name="Title" value="The Burnt Land III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land V"/>
+			</imgdir>
+    <imgdir name="106000200">
+			<imgdir name="0">
+				<string name="Title" value="Deep Valley II (Towards Perion)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Path to Perion Dungeon (Towards Sleepywood)"/>
+			</imgdir>
+    <imgdir name="106000300">
+			<imgdir name="0">
+				<string name="Title" value="Deep Forest (Towards Sleepywood)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Deep Valley III (Towards Perion)"/>
+			</imgdir>
+    <imgdir name="106010000">
+			<imgdir name="0">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Entrance to Henesys Dungeon (Towards Sleepywood)"/>
+			</imgdir>
+    <imgdir name="106010100">
+			<imgdir name="0">
+				<string name="Title" value="Path to the Dungeon (Towards Henesys)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Hunting Ground in the Deep Forest II (Towards Sleepywood)"/>
+			</imgdir>
+    <imgdir name="106010101">
+			<imgdir name="0">
+				<string name="Title" value="The Entrance of Golem's Temple"/>
+			</imgdir>
+    <imgdir name="106010102">
+			<imgdir name="0">
+				<string name="Title" value="The Breathing Rock"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Golem's Temple I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Golem's Temple II"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Golem's Temple III"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5152037">
+		<string name="name" value="CBD整容券（普通）"/>
+		<string name="desc" value="在#cCBD整形医院#使用，可以#c随机#改变你的脸型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152038">
+		<string name="name" value="CBD整容券（VIP）"/>
+		<string name="desc" value="在#cCBD整形医院#使用，可以#c自由选择#你想要的脸型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152039">
+		<string name="name" value="CBD美瞳券（普通）"/>
+		<string name="desc" value="在#cCBD整形医院#使用，可以#c随机#改变你的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152040">
+		<string name="name" value="CBD美瞳券（VIP）"/>
+		<string name="desc" value="在#cCBD整形医院#使用，可以#c自由选择#你想要的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152041">
+		<string name="name" value="武陵美瞳券（VIP）"/>
+		<string name="desc" value="在#c武陵整形医院#使用，可以#c自由选择#你想要的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152042">
+		<string name="name" value="武陵美瞳券（普通）"/>
+		<string name="desc" value="在#c武陵整形医院#使用，可以#c随机#改变你的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152045">
+		<string name="name" value="昭和村美瞳券（VIP）"/>
+		<string name="desc" value="在#c昭和村整形医院#使用，可以#c自由选择#你想要的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152046">
+		<string name="name" value="昭和村美瞳券（普通）"/>
+		<string name="desc" value="在#c昭和村整形医院#使用，可以#c随机#改变你的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152047">
+		<string name="name" value="阿里安特美瞳券（VIP）"/>
+		<string name="desc" value="在#c阿里安特整形医院#使用，可以#c自由选择#你想要的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152048">
+		<string name="name" value="阿里安特美瞳券（普通）"/>
+		<string name="desc" value="在#c阿里安特整形医院#使用，可以#c随机#改变你的瞳色。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5152053">
+		<string name="name" value="皇家整容券"/>
+		<string name="desc" value="使用此券可以在#c射手村整形医院的巡游整形师#那里接受#c皇家整容手术#。"/>
+	</imgdir>
+    <imgdir name="5152056">
+		<string name="name" value="整容券（普通）"/>
+		<string name="desc" value="在整形医院使用，可获得一个随机脸型。\n可在以下城镇使用：#c结婚村#、#c阿里安特#、#cCBD#、#c埃德尔斯坦#、#c射手村#、#c玩具城#、#c武陵#、#c新叶城#、#c天空之城#和#c昭和村#。"/>
+	</imgdir>
+    <imgdir name="5152057">
+		<string name="name" value="整容券（VIP）"/>
+		<string name="desc" value="在整形医院使用，可自由选择你想要的脸型。\n可在以下城镇使用：#c结婚村#、#c阿里安特#、#cCBD#、#c埃德尔斯坦#、#c射手村#、#c玩具城#、#c武陵#、#c新叶城#、#c天空之城#和#c昭和村#。"/>
+	</imgdir>
+    <imgdir name="5152058">
+		<string name="name" value="皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+    <imgdir name="5152059">
+		<string name="name" value="新手整容券"/>
+		<string name="desc" value="在整形医院使用，可获得一个临时脸型。\n可在任意城镇使用。"/>
+	</imgdir>
+    <imgdir name="5152064">
+		<string name="name" value="传奇皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+    <imgdir name="5152065">
+		<string name="name" value="秋冬皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+    <imgdir name="5152066">
+		<string name="name" value="冬季皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+    <imgdir name="5152068">
+		<string name="name" value="造型皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+    <imgdir name="5152069">
+		<string name="name" value="2012皇家整容券"/>
+		<string name="desc" value="拿着这张券去找#c天空之城整形医院的整形罗伊#，他会给你#c随机#的脸型变化。在商城双击可以#c预览#哦！"/>
+	</imgdir>
+</imgdir>

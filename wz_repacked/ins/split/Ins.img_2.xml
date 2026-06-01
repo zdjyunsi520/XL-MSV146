@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010024">
+		<string name="name" value="Pink Teddy Chair"/>
+		<string name="desc" value="When you sit in this chair, Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010025">
+		<string name="name" value="Under the Maple Tree..."/>
+		<string name="desc" value="A white chair commemorating the 4th anniversary of MapleStory. Sit on it to recover HP 35 and MP 10 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010035">
+		<string name="name" value="Beach Chair(Blue)"/>
+		<string name="desc" value="When you sit in Beach Chair, 20 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010036">
+		<string name="name" value="Maple Tree Chair"/>
+		<string name="desc" value="A maple tree with a hanging swing. You can recover 50 HP  every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010038">
+		<string name="name" value="Clear Chair"/>
+		<string name="desc" value="When you sit in this chair, 50 HP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010039">
+		<string name="name" value="Black Seal Cushion"/>
+		<string name="desc" value="An adorable black cushion that resembles a seal.  Recovers HP 50 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010040">
+		<string name="name" value="The Stirge Seat"/>
+		<string name="desc" value="A chair hand-crafted by Stirgeman for aspiring superheroes! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010041">
+		<string name="name" value="Skull Throne"/>
+		<string name="desc" value="A chair crafted within the Phantom Forest, complete with...ornaments...from unlucky travelers. Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010043">
+		<string name="name" value="Halloween Broomstick Chair"/>
+		<string name="desc" value="When you sit on the Halloween Broomstick Chair, 50 MP is restored every 10 seconds"/>
+	</imgdir>
+    <imgdir name="3010044">
+		<string name="name" value="Winter Red Chair "/>
+		<string name="desc" value="A chair with a big umbrella. Recovers 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010045">
+		<string name="name" value="Ice Chair"/>
+		<string name="desc" value="A chair made out of Ice Queen's ice pieces. Sit on it to recover HP 40 and MP 30 per 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010046">
+		<string name="name" value="Dragon Chair(Inferno)"/>
+		<string name="desc" value="Inferno will comfort your body. Recovers 60 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010047">
+		<string name="name" value="Dragon Chair(Abyss)"/>
+		<string name="desc" value="Abyss will comfort your mind. Recovers 60 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010049">
+		<string name="name" value="Igloo"/>
+		<string name="desc" value="Stay in this igloo made out of ice and snow to recover 40 HP and 30 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010052">
+		<string name="name" value="Sand Bunny"/>
+		<string name="desc" value="40 HP is restored every 10 seconds if you lean back on this cute Sand Bunny Cushion."/>
+	</imgdir>
+    <imgdir name="3010053">
+		<string name="name" value="Rabbit Sofa"/>
+		<string name="desc" value="When you sit on the Rabbit Sofa, 50 HP and 50 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010054">
+		<string name="name" value="Teddy Bear Bed"/>
+		<string name="desc" value="Relax in this cozy teddy bear bed to recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010055">
+		<string name="name" value="Mochi Ice Cream Chair"/>
+		<string name="desc" value="Relax in this mochi ice cream chair to recover 30 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010057">
+		<string name="name" value="Bloody Rose"/>
+		<string name="desc" value="You will recover 50 HP every 10 seconds. You will experience the might of a conqueror after recovery."/>
+	</imgdir>
+    <imgdir name="3010058">
+		<string name="name" value="World's End"/>
+		<string name="desc" value="You will recover 50 HP every 10 seconds. Perhaps, as you recline, you will find the answer to many of life's questions."/>
+	</imgdir>
+</imgdir>

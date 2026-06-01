@@ -1,0 +1,7 @@
+<imgdir name="5821007">
+        <string name="name" value="弹幕" />
+        <string name="desc" value="对附近的怪物快速攻击6次。目标怪物在攻击完成前会一直处于眩晕状态。" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+        <string name="pdesc" value="快速攻击敌人。目标敌人在攻击完成前会被减速，但技能不能立即再次使用。" />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+    </imgdir>

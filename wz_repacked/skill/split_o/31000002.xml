@@ -1,0 +1,5 @@
+<imgdir name="31000002">
+        <string name="name" value="Shadow Swiftness" />
+        <string name="desc" value="Permanently increases Accuracy, Speed, and Jump.\nRequired Skill: #cDemon Lash Lv.1#" />
+        <string name="h" value="Accuracy +#accX, Speed +#psdSpeed, Jump +#psdJump" />
+    </imgdir>

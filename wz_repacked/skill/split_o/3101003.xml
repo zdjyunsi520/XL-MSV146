@@ -1,0 +1,7 @@
+<imgdir name="3101003">
+        <string name="name" value="Double Jump" />
+        <string name="desc" value="Jump a second time while in the air." />
+        <string name="h" value="MP Cost: #mpCon, jumps a certain distance" />
+        <string name="pdesc" value="Deals damage to nearby enemies and knocks them back." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Knock-back Chance: #prop%, Max Enemies Hit: #mobCount, Distance: #x.\nCooldown: #cooltime sec" />
+    </imgdir>

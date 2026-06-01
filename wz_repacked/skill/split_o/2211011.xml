@@ -1,0 +1,5 @@
+<imgdir name="2211011">
+        <string name="name" value="Thunderstorm" />
+        <string name="desc" value="Summons a thunderstorm. Lightning deals more damage to fewer numbers of enemies. The thunderstorm follows you slowly, but it loses power and vanishes if it falls too far behind." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage%, each one fewer enemy increases Damage by +#y%. Up to #w% damage on a single target.\nCooldown: #cooltime sec" />
+    </imgdir>

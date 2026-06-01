@@ -1,0 +1,5 @@
+<imgdir name="11101220">
+        <string name="name" value="Bluster" />
+        <string name="desc" value="Knocks back enemies with a forward dash.\nRequired Skill: #cRising Sung Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount" />
+    </imgdir>

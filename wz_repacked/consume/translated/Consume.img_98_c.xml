@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041104">
+		<string name="name" value="戒指强化卷轴 智力 60%"/>
+		<string name="desc" value="强化戒指的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041105">
+		<string name="name" value="戒指强化卷轴 智力 10%"/>
+		<string name="desc" value="强化戒指的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041106">
+		<string name="name" value="戒指强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化戒指的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041107">
+		<string name="name" value="戒指强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化戒指的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041108">
+		<string name="name" value="戒指强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化戒指的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041109">
+		<string name="name" value="戒指强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化戒指的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041110">
+		<string name="name" value="戒指强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化戒指的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041111">
+		<string name="name" value="戒指强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化戒指的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041112">
+		<string name="name" value="暗黑戒指强化卷轴 力量 70%"/>
+		<string name="desc" value="强化戒指的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041113">
+		<string name="name" value="暗黑戒指强化卷轴 力量 30%"/>
+		<string name="desc" value="强化戒指的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041114">
+		<string name="name" value="暗黑戒指强化卷轴 智力 70%"/>
+		<string name="desc" value="强化戒指的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041115">
+		<string name="name" value="暗黑戒指强化卷轴 智力 30%"/>
+		<string name="desc" value="强化戒指的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041116">
+		<string name="name" value="戒指强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化戒指的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041117">
+		<string name="name" value="戒指强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化戒指的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041118">
+		<string name="name" value="暗黑戒指强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化戒指的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041119">
+		<string name="name" value="暗黑戒指强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化戒指的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041134">
+		<string name="name" value="8周年戒指强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫宝石戒指和大冒险岛紫宝石戒指。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：50%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041135">
+		<string name="name" value="8周年戒指强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫宝石戒指和大冒险岛紫宝石戒指的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：50%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041200">
+		<string name="name" value="龙之石"/>
+		<string name="desc" value="蕴含龙之力量的石头。只能用于龙项链和混沌龙项链 #c未升级过# 的装备。"/>
+		<string name="autodesc" value="\r\n#c条件：至少保留3个升级槽\r\n成功率：100%\r\n力量：+15\r\n智力：+15\r\n敏捷：+15\r\n幸运：+15\r\n物理防御：+350\r\n魔法防御：+350\r\n回避率：+150\r\n#"/>
+	</imgdir>
+    <imgdir name="2041211">
+		<string name="name" value="斯皮尔格曼大理石"/>
+		<string name="desc" value="只能用于斯皮尔格曼项链。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+150\r\n最大MP：+150\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382008">
+		<string name="name" value="Sand Dwarf Card"/>
+		<string name="desc" value="A card that features Sand Dwarf.\n#cIf hunting at the DesertnThe drop rate for ores are increased#"/>
+	</imgdir>
+    <imgdir name="2382009">
+		<string name="name" value="Cube Slime Card"/>
+		<string name="desc" value="A card that features Cube Slime.\n#cIf hunting at the Zenumist InstitutenJump +1#"/>
+	</imgdir>
+    <imgdir name="2382010">
+		<string name="name" value="Red Sand Dwarf Card"/>
+		<string name="desc" value="A card that features Red Sand Dwarf.\n#cIf hunting at the DesertnThe drop rate for jewels are increased#"/>
+	</imgdir>
+    <imgdir name="2382011">
+		<string name="name" value="Jr. Cellion Card"/>
+		<string name="desc" value="A card that features Jr. Cellion.\n#cIf hunting at the Orbis GardennDefense against fire-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382012">
+		<string name="name" value="Jr. Lioner Card"/>
+		<string name="desc" value="A card that features Jr. Lioner.\n#cIf hunting at the Orbis GardennDefense against electric-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382013">
+		<string name="name" value="Jr. Grupin Card"/>
+		<string name="desc" value="A card that features Jr. Grupin.\n#cIf hunting at the Orbis GardennDefense against ice-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382014">
+		<string name="name" value="Dark Leatty Card"/>
+		<string name="desc" value="A card that features Dark Leatty.\n#cIf hunting at Orbis TowernAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382015">
+		<string name="name" value="Roloduck Card"/>
+		<string name="desc" value="A card that features Roloduck.\n#cWhen party huntingnAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382016">
+		<string name="name" value="Black Ratz Card"/>
+		<string name="desc" value="A card that features Black Ratz.\n#cIf hunting at Eos TowernMeso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2382017">
+		<string name="name" value="Tick Card"/>
+		<string name="desc" value="A card that features Tickn#cIf hunting at the upper floors of the ClocktowernAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382018">
+		<string name="name" value="Curse Eye Card"/>
+		<string name="desc" value="A card that features Curse Eye.\n#cIf hunting at Victoria IslandnDefense against poison-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382019">
+		<string name="name" value="Jr. Wraith Card"/>
+		<string name="desc" value="A card that features Jr. Wraith.\n#cIf hunting at the SubwaynSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382020">
+		<string name="name" value="Star Pixie Card"/>
+		<string name="desc" value="A card that features Star Pixie.\n#cIf hunting at the Cloud ParknSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382021">
+		<string name="name" value="Jr. Boogie Card"/>
+		<string name="desc" value="A card that features Jr. Boogie.\n#cDefense against curse +5%#"/>
+	</imgdir>
+    <imgdir name="2382022">
+		<string name="name" value="Bloctopus Card"/>
+		<string name="desc" value="A card that features Bloctopus.\n#cIf hunting at Eos TowernJump +1#"/>
+	</imgdir>
+    <imgdir name="2382023">
+		<string name="name" value="Jr. Pepe Card"/>
+		<string name="desc" value="A card that features Jr. Pepe.\n#cIf hunting at Orbis TowernSpeed + 1#"/>
+	</imgdir>
+    <imgdir name="2382024">
+		<string name="name" value="Rumo Card"/>
+		<string name="desc" value="A card that features Rumo.\n#cIf hunting at the Zenumist InstitutenDefense against poison-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382025">
+		<string name="name" value="Panda Teddy Card"/>
+		<string name="desc" value="A card that features Panda Teddy.\n#cIf attacking a weapon-carrying monsternAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382026">
+		<string name="name" value="Helly Card"/>
+		<string name="desc" value="A card that features Helly.\n#cIf hunting at Eos TowernAvoidability +1#"/>
+	</imgdir>
+    <imgdir name="2382027">
+		<string name="name" value="Scuba Pepe Card"/>
+		<string name="desc" value="A card that features Scuba Pepe.\n#cCancels out drowning damage underwater#"/>
+	</imgdir>
+</imgdir>

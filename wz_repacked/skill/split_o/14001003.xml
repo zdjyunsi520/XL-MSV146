@@ -1,0 +1,7 @@
+<imgdir name="14001003">
+        <string name="name" value="Dark Sight" />
+        <string name="desc" value="Hides in the shadows. With Dark Sight active, you can neither attack nor be attacked." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Movement Speed: -#speed" />
+        <string name="pdesc" value="Hides in the shadows. With Dark Sight active, you can neither attack nor be attacked." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Speed: -#speed\nCooldown: #cooltime sec" />
+    </imgdir>

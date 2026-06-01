@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4022021">
+			<string name="name" value="Hyssop Flower"/>
+			<string name="desc" value="A very rare hyssop flower. It can be refined to obtain rare magic powder (purple)."/>
+		</imgdir>
+    <imgdir name="4022022">
+			<string name="name" value="Clary Sage"/>
+			<string name="desc" value="A sprig of clary sage."/>
+		</imgdir>
+    <imgdir name="4022023">
+			<string name="name" value="Herb Root"/>
+			<string name="desc" value="The root of an herb."/>
+		</imgdir>
+    <imgdir name="4023000">
+			<string name="name" value="Marjoram Seed Oil"/>
+			<string name="desc" value="Majoram seed oil. Used in Lv. 1 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023001">
+			<string name="name" value="Marjoram Flower Oil"/>
+			<string name="desc" value="Majoram flower oil. Used in Lv. 1 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023002">
+			<string name="name" value="Lavender Seed Oil"/>
+			<string name="desc" value="Lavender seed oil. Used in Lv. 2 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023003">
+			<string name="name" value="Lavender Flower Oil"/>
+			<string name="desc" value="Lavender flower oil. Used in Lv. 2 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023004">
+			<string name="name" value="Rosemary Seed Oil"/>
+			<string name="desc" value="Rosemary seed oil. Used in Lv. 3 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023005">
+			<string name="name" value="Rosemary Flower Oil"/>
+			<string name="desc" value="Rosemary flower oil. Used in Lv. 3 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023006">
+			<string name="name" value="Mandarin Seed Oil"/>
+			<string name="desc" value="Mandarin seed oil. Used in Lv. 4 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023007">
+			<string name="name" value="Mandarin Flower Oil"/>
+			<string name="desc" value="Mandarin flower oil. Used in Lv. 4 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023008">
+			<string name="name" value="Lemon Balm Seed Oil"/>
+			<string name="desc" value="Lemon balm seed oil. Used in Lv. 5 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023009">
+			<string name="name" value="Lemon Balm Flower Oil"/>
+			<string name="desc" value="Lemon balm flower oil. Used in Lv. 5 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023010">
+			<string name="name" value="Peppermint Flower Oil"/>
+			<string name="desc" value="Very rare peppermint flower oil. Used in Lv. 5 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023011">
+			<string name="name" value="Jasmine Seed Oil"/>
+			<string name="desc" value="Jasmine seed oil. Used in Lv. 6 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023012">
+			<string name="name" value="Jasmine Flower Oil"/>
+			<string name="desc" value="Jasmine flower oil. Used in Lv. 6 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023013">
+			<string name="name" value="Tea Tree Seed Oil"/>
+			<string name="desc" value="Tea tree seed oil. Used in Lv. 7 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023014">
+			<string name="name" value="Tea Tree Flower Oil"/>
+			<string name="desc" value="Tea tree flower oil. Used in Lv. 7 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023015">
+			<string name="name" value="Chamomile Seed Oil"/>
+			<string name="desc" value="Chamomile seed oil. Used in Lv. 8 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023016">
+			<string name="name" value="Chamomile Flower Oil"/>
+			<string name="desc" value="Chamomile flower oil. Used in Lv. 8 Alchemy."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="4341002">
+        <string name="name" value="Final Cut" />
+        <string name="desc" value="Sacrifices a significant amount of HP to deal powerful damage to multiple enemies. Has a small chance of causing instant death, and some skills will gain a damage bonus for a while." />
+        <string name="h" value="MP Cost: #mpCon, HP Cost, #x%, Damage: #damage%, Max Enemies Hit: #mobCount, Instant Death Chance: #z%, Damage: +#w%, Duration: #time sec, 1 sec invincibility after usage, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Sacrifices a significant amount of HP to deal powerful damage to multiple enemies. Some skills will gain a damage bonus for a while." />
+        <string name="ph" value="MP Cost: #mpCon, HP Cost, #x%, Damage: #damage%, Max Enemies Hit: #mobCount, Instant Death Chance: #z%, Damage: +#w%, Duration: #time sec, 1 sec invincibility after usage, Cooldown: #cooltime sec" />
+    </imgdir>

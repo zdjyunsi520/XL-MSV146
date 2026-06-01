@@ -1,0 +1,8 @@
+<imgdir name="22171002">
+        <string name="name" value="幻影" />
+        <string name="desc" value="龙的分身对怪物进行连续攻击。无视一部分敌人防御力。" />
+        <string name="h" value="MP消耗：#mpCon，攻击次数：#attackCount，伤害：#damage%，无视敌人防御力：#ignoreMobpdpR%，眩晕概率：#prop%" />
+        <string name="pdesc" value="龙的分身对怪物进行连续攻击。" />
+        <string name="ph" value="MP消耗：#mpCon，攻击次数：#attackCount，伤害：#damage%" />
+        <string name="hch" value="MP消耗：#mpCon，攻击次数：#attackCount，伤害：#damage%，无视敌人防御力：#ignoreMobpdpR%，眩晕概率：#hcProp%" />
+    </imgdir>

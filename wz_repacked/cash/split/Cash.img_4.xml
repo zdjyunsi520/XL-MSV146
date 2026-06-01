@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5010070">
+		<string name="name" value="Sprite Wings"/>
+		<string name="desc" value="A pair of wings that resembles the wings of a forest fairy."/>
+	</imgdir>
+    <imgdir name="5010073">
+		<string name="name" value="Miss Popular"/>
+		<string name="desc" value="Well, lookie here. Someone's certainly become popular with the guys. Turn this effect on and off by assigning it to a shortcut key from the keyboard settings menu.\r\n"/>
+	</imgdir>
+    <imgdir name="5010074">
+		<string name="name" value="Mr. Popular"/>
+		<string name="desc" value="Well, lookie here. Someone's certainly become popular with the girls. Turn this effect on and off by assigning it to a shortcut key from the keyboard settings menu.\r\n"/>
+	</imgdir>
+    <imgdir name="5010078">
+		<string name="name" value="Owl Effect"/>
+		<string name="desc" value="An Owl, friend of Dual Blades. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
+	</imgdir>
+    <imgdir name="5010079">
+		<string name="name" value="Cygnus Effect"/>
+		<string name="desc" value="An effect that calls upon a Cygnus Knight's cute friend. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
+	</imgdir>
+    <imgdir name="5010080">
+		<string name="name" value="Spring Rain"/>
+		<string name="desc" value="A gentle spring rain that glitters. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
+	</imgdir>
+    <imgdir name="5010081">
+		<string name="name" value="Peacock Effect"/>
+		<string name="desc" value="A fancy effect that reminds you of an elegant peacock. Don't you want to show off your shimmering feathers? Toggle the effect by double clicking on the icon or using the hotkey assigned in KeyConfig. "/>
+	</imgdir>
+    <imgdir name="5010082">
+		<string name="name" value="Shining Star"/>
+		<string name="desc" value="A star that shines with the colors of the rainbow. You're the star of the dance floor! Toggle the effect by double clicking on the icon or using the hotkey assigned in KeyConfig. "/>
+	</imgdir>
+    <imgdir name="5010083">
+		<string name="name" value="Winter Wonderland"/>
+		<string name="desc" value="A slowly flashing snow crystal. Toggle the effect by double clicking on the icon or using the hotkey assigned in KeyConfig. "/>
+	</imgdir>
+    <imgdir name="5010095">
+		<string name="name" value="[Sale] Winter Wonderland"/>
+		<string name="desc" value="A slowly flashing snow crystal. Toggle the effect by double clicking on the icon or using the hotkey assigned in Key Config. "/>
+	</imgdir>
+    <imgdir name="5010096">
+		<string name="name" value="[Sale] Shining Star"/>
+		<string name="desc" value="A star that shines with the colors of the rainbow. You're the star of the dance floor! Toggle the effect by double clicking on the icon or using the hotkey assigned in KeyConfig. "/>
+	</imgdir>
+    <imgdir name="5010097">
+		<string name="name" value="[Sale] Echo Wings"/>
+		<string name="desc" value="Wings that make you look like a Forest Fairy. Toggle the effect by double clicking on the icon or using the hotkey assigned in Key Config. "/>
+	</imgdir>
+    <imgdir name="5010098">
+		<string name="name" value="[Sale]  Long Lost Angel Wing"/>
+		<string name="desc" value="Spread these wings to experience the sensation of flying! Toggle the effect by double clicking on the icon or using the hotkey assigned in Key Config. "/>
+	</imgdir>
+    <imgdir name="5010099">
+		<string name="name" value="[Special] Shadow Style"/>
+		<string name="desc" value="Shows the afterimage of your character whenever you move. Toggle the effect by double clicking on the icon or using the hotkey assigned in Key Config. "/>
+	</imgdir>
+    <imgdir name="5010100">
+		<string name="name" value="Maple Style Effect"/>
+		<string name="desc" value="You bested the fame coordinator!  Show off your unique style with these flashy effects!"/>
+	</imgdir>
+    <imgdir name="5010101">
+		<string name="name" value="Rainbow Wings"/>
+		<string name="desc" value="These rainbow colored wings will make you more appealing! Double-click to toggle the effect, or setup a hotkey in your Key Config. "/>
+	</imgdir>
+    <imgdir name="5010999">
+		<string name="name" value="Changing to a Monster"/>
+		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
+	</imgdir>
+    <imgdir name="5010115">
+		<string name="name" value="We're All 4 One"/>
+		<string name="desc" value="We're All 4 One. Turn this effect on and off by assigning it to a shortcut key from the keyboard settings menu.\r\n"/>
+	</imgdir>
+    <imgdir name="5021000">
+		<string name="name" value="Water Balloon"/>
+		<string name="desc" value="A cool blue water balloon. Thrown with a #cthrowing star# to have the water balloon effect. Item cannot be removed."/>
+	</imgdir>
+    <imgdir name="5021001">
+		<string name="name" value="Paper Plane"/>
+		<string name="desc" value="A nicely-folded paper plane. Thrown with a #cthrowing star# to have the paper plane effect. Item cannot be removed."/>
+	</imgdir>
+</imgdir>

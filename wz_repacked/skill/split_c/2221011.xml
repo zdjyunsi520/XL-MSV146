@@ -1,0 +1,5 @@
+<imgdir name="2221011">
+        <string name="name" value="冰冻之息" />
+        <string name="desc" value="用强大的寒气冻结自己和敌人#c使其眩晕并持续降低防御#~" />
+        <string name="h" value="MP消耗: #mpCon，你变为无敌状态。#c最多眩晕#mobCount个敌人并降低魔法防御#y%，物理防御#x%#。按住按键最多持续#time秒。冷却时间: #cooltime秒" />
+    </imgdir>

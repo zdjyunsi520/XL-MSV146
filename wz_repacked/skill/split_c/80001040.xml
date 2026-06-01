@@ -1,0 +1,5 @@
+<imgdir name="80001040">
+        <string name="name" value="精灵祝福" />
+        <string name="desc" value="[链接技能] 利用精灵传说的力量，将你传送回埃卢埃尔，并祝福你获得额外经验。" />
+        <string name="h" value="返回埃卢埃尔（冷却时间：#cooltime秒）\n额外效果：永久获得#expR%额外经验" />
+    </imgdir>

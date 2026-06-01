@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="220050300">
+			<imgdir name="0">
+				<string name="Title" value="Warped Path of Time"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Forgotten Path of Time"/>
+			</imgdir>
+    <imgdir name="221050300">
+			<imgdir name="0">
+				<string name="Title" value="Warped Path of Time"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Forgotten Path of Time"/>
+			</imgdir>
+    <imgdir name="221000000">
+			<imgdir name="0">
+				<string name="Title" value="Free Market"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Headquarter"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Safety Zone"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Off-Limits"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="221000200">
+			<imgdir name="0">
+				<string name="Title" value="Medical Office"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Weapon Provider"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Armor Provider"/>
+			</imgdir>
+    <imgdir name="221000400">
+			<imgdir name="0">
+				<string name="Title" value="Eos Tower"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Eos Tower"/>
+			</imgdir>
+    <imgdir name="221022100">
+			<imgdir name="0">
+				<string name="Title" value="Mini Dungeon: Drumming Bunny's Hideout"/>
+			</imgdir>
+    <imgdir name="221022200">
+			<imgdir name="0">
+				<string name="Title" value="Mini Dungeon: Drumming Bunny's Hideout"/>
+			</imgdir>
+    <imgdir name="221030000">
+			<imgdir name="0">
+				<string name="Title" value="Boswell Field I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Omega Sector"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Kulan  Field I"/>
+			</imgdir>
+    <imgdir name="222010000">
+			<imgdir name="0">
+				<string name="Title" value="Black Mountain &lt;Corner&gt;"/>
+			</imgdir>
+</imgdir>

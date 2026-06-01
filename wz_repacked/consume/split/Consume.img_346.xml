@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2511147">
+		<string name="name" value="Dexterity Ring II Recipe"/>
+		<string name="desc" value="A recipe for a Dexterity Ring II."/>
+	</imgdir>
+    <imgdir name="2511148">
+		<string name="name" value="Luck Ring II Recipe"/>
+		<string name="desc" value="A recipe for a Luck Ring II."/>
+	</imgdir>
+    <imgdir name="2511149">
+		<string name="name" value="Strength Ring III Recipe"/>
+		<string name="desc" value="A recipe for a Strength Ring III."/>
+	</imgdir>
+    <imgdir name="2511150">
+		<string name="name" value="Intelligence Ring III Recipe"/>
+		<string name="desc" value="A recipe for a Intelligence Ring III."/>
+	</imgdir>
+    <imgdir name="2511151">
+		<string name="name" value="Dexterity Ring III Recipe"/>
+		<string name="desc" value="A recipe for a Dexterity Ring III."/>
+	</imgdir>
+    <imgdir name="2511152">
+		<string name="name" value="Luck Ring III Recipe"/>
+		<string name="desc" value="A recipe for a Luck Ring III."/>
+	</imgdir>
+    <imgdir name="2511153">
+		<string name="name" value="Imperial Shoulder Recipe"/>
+		<string name="desc" value="A recipe for an Imperial Shoulder."/>
+	</imgdir>
+    <imgdir name="2511154">
+		<string name="name" value="Imperial Belt Recipe"/>
+		<string name="desc" value="A recipe for an Imperial Belt."/>
+	</imgdir>
+    <imgdir name="2511155">
+		<string name="name" value="Imperial Ring Recipe"/>
+		<string name="desc" value="A recipe for an Imperial Ring."/>
+	</imgdir>
+    <imgdir name="2511156">
+		<string name="name" value="Conqueror's Shoulder Recipe"/>
+		<string name="desc" value="A recipe for a Conqueror's Shoulder."/>
+	</imgdir>
+    <imgdir name="2511157">
+		<string name="name" value="Conqueror's Belt Recipe"/>
+		<string name="desc" value="A recipe for a Conqueror's Belt."/>
+	</imgdir>
+    <imgdir name="2511158">
+		<string name="name" value="Conqueror's Ring Recipe"/>
+		<string name="desc" value="A recipe for a Conqueror's Ring."/>
+	</imgdir>
+    <imgdir name="2512000">
+		<string name="name" value="Strength Potion III Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion III."/>
+	</imgdir>
+    <imgdir name="2512001">
+		<string name="name" value="Strength Potion IV Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion IV."/>
+	</imgdir>
+    <imgdir name="2512002">
+		<string name="name" value="Strength Potion V Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion V."/>
+	</imgdir>
+    <imgdir name="2512003">
+		<string name="name" value="Strength Potion VI Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion VI."/>
+	</imgdir>
+    <imgdir name="2512004">
+		<string name="name" value="Strength Potion VII Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion VII."/>
+	</imgdir>
+    <imgdir name="2512005">
+		<string name="name" value="Strength Potion VIII Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion VIII."/>
+	</imgdir>
+    <imgdir name="2512006">
+		<string name="name" value="Strength Potion IX Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion IX."/>
+	</imgdir>
+    <imgdir name="2512007">
+		<string name="name" value="Strength Potion X Recipe"/>
+		<string name="desc" value="A recipe for a Strength Potion X."/>
+	</imgdir>
+</imgdir>

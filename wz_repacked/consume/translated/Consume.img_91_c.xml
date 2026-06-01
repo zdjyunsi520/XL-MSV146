@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040838">
+		<string name="name" value="【5周年】冒险岛仪器暗黑强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化冒险岛仪器的幸运。\n成功率：70%，命中+2，幸运+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040839">
+		<string name="name" value="【5周年】冒险岛仪器暗黑强化卷轴 智力 70%"/>
+		<string name="desc" value="强化冒险岛仪器的智力。\n成功率：70%，命中+2，智力+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040840">
+		<string name="name" value="【5周年】冒险岛仪器暗黑强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化冒险岛仪器的敏捷。\n成功率：70%，命中+2，敏捷+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040845">
+		<string name="name" value="手套强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化手套的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040846">
+		<string name="name" value="3x3手套强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化3x3手套的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040847">
+		<string name="name" value="3x3手套强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化3x3手套的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040848">
+		<string name="name" value="3x3手套强化卷轴 力量 70%"/>
+		<string name="desc" value="强化3x3手套的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n力量：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040849">
+		<string name="name" value="3x3手套强化卷轴 智力 70%"/>
+		<string name="desc" value="强化3x3手套的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n智力：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040850">
+		<string name="name" value="3x3手套强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化3x3手套的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n敏捷：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040851">
+		<string name="name" value="3x3手套强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化3x3手套的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n幸运：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040900">
+		<string name="name" value="盾牌强化卷轴 防御 100%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040901">
+		<string name="name" value="盾牌强化卷轴 防御 60%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040902">
+		<string name="name" value="盾牌强化卷轴 防御 10%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040903">
+		<string name="name" value="盾牌强化卷轴 防御 100%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+50\r\n物理防御：+30\r\n魔法防御：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2040904">
+		<string name="name" value="暗黑盾牌强化卷轴 防御 70%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040905">
+		<string name="name" value="暗黑盾牌强化卷轴 防御 30%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040906">
+		<string name="name" value="暗黑盾牌强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化盾牌的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040907">
+		<string name="name" value="暗黑盾牌强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化盾牌的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040908">
+		<string name="name" value="暗黑盾牌强化卷轴 HP 70%"/>
+		<string name="desc" value="强化盾牌的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040909">
+		<string name="name" value="暗黑盾牌强化卷轴 HP 30%"/>
+		<string name="desc" value="强化盾牌的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP +120\r\n#"/>
+	</imgdir>
+</imgdir>

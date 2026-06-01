@@ -1,0 +1,7 @@
+<imgdir name="14101006">
+        <string name="name" value="Vampire" />
+        <string name="desc" value="Attacks multiple enemies 4 times then absorbs some of the damage dished out to the enemy as HP. The most you can absorb at once is half of your Max HP or the monster&apos;s total Max HP." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Hits: #attackCount, Max Monsters Hit: #mobCount, absorbs #x% of the damage as HP" />
+        <string name="pdesc" value="Attacks multiple enemies 4 times and absorbs some of the damage dished out to the enemy as HP. The most you can absorb at once is half of your Max HP or the monster&apos;s total Max HP." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, absorbs #x% of the damage as HP" />
+    </imgdir>

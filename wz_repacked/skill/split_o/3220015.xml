@@ -1,0 +1,5 @@
+<imgdir name="3220015">
+        <string name="name" value="Bolt Surplus" />
+        <string name="desc" value="Increases number of attacks for all multi-hit skills. Also increases Rangefinder&apos;s Critical Rate and maximum damage increase." />
+        <string name="h" value="Increases number of attacks by #x for all multi-hit skills. Critical Rate Cap of Rangefinder increases by #cr%. Total Damage Boost increases by #damR%" />
+    </imgdir>

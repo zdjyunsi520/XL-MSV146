@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000606">
+			<string name="name" value="Boulder Fragment"/>
+			<string name="desc" value="A boulder fragment obtained from a Baby Boulder Muncher. It seems difficult to use."/>
+		</imgdir>
+    <imgdir name="4000607">
+			<string name="name" value="Fragmented ore"/>
+			<string name="desc" value="An ore fragment obtained from a Big Boulder Muncher. It seems difficult to use."/>
+		</imgdir>
+    <imgdir name="4000608">
+			<string name="name" value="Guard Robot Baton"/>
+			<string name="desc" value="A baton carried by the Guard Robot. It would definitely hurt to get hit by one."/>
+		</imgdir>
+    <imgdir name="4000609">
+			<string name="name" value="Racoco's Shovel"/>
+			<string name="desc" value="A shovel carried by Racoco."/>
+		</imgdir>
+    <imgdir name="4000610">
+			<string name="name" value="Big Spider Tentacle"/>
+			<string name="desc" value="The tentacle on Big Spider."/>
+		</imgdir>
+    <imgdir name="4000611">
+			<string name="name" value="Cart Bear's Cart"/>
+			<string name="desc" value="A cart that Cart Bear was riding."/>
+		</imgdir>
+    <imgdir name="4000612">
+			<string name="name" value="Racaroni Tail"/>
+			<string name="desc" value="A tail from Racaroni."/>
+		</imgdir>
+    <imgdir name="4000613">
+			<string name="name" value="Guard Robot L's Electric Racket"/>
+			<string name="desc" value="An electric racket carried by Guard Robot L."/>
+		</imgdir>
+    <imgdir name="4000614">
+			<string name="name" value="Raco's Safety Hat"/>
+			<string name="desc" value="A safety hat worn by Raco."/>
+		</imgdir>
+    <imgdir name="4000615">
+			<string name="name" value="Outer Handle"/>
+			<string name="desc" value="A handle that was attached to the outside of the Security System."/>
+		</imgdir>
+    <imgdir name="4000616">
+			<string name="name" value="Vent Pipe"/>
+			<string name="desc" value="A vent pipe that was attached to an enhanced Security System."/>
+		</imgdir>
+    <imgdir name="4000617">
+			<string name="name" value="Android Bulb"/>
+			<string name="desc" value="A bulb from the head of an Android."/>
+		</imgdir>
+    <imgdir name="4000618">
+			<string name="name" value="Broken Parts"/>
+			<string name="desc" value="Broken parts from a wrecked Android."/>
+		</imgdir>
+    <imgdir name="4000619">
+			<string name="name" value="Rue Ore"/>
+			<string name="desc" value="A rue ore obtained from an Ore Muncher."/>
+		</imgdir>
+    <imgdir name="4000620">
+			<string name="name" value="Royal Fairy Wing"/>
+			<string name="desc" value="A wing obtained from a Royal Fairy."/>
+		</imgdir>
+    <imgdir name="4000621">
+			<string name="name" value="Surgeon Eye Tail"/>
+			<string name="desc" value="A tail cut off of Surgeon Eye."/>
+		</imgdir>
+    <imgdir name="4000622">
+			<string name="name" value="Pig's Blue Ribbon"/>
+			<string name="desc" value="A blue ribbon that was tied to the Blue Ribbon Pig."/>
+		</imgdir>
+    <imgdir name="4000623">
+			<string name="name" value="Mud Clump"/>
+			<string name="desc" value="Soft mud mixed with a little grass."/>
+		</imgdir>
+    <imgdir name="4000625">
+			<string name="name" value="Crocky's Helmet"/>
+			<string name="desc" value="Helmet worn by Crocky."/>
+		</imgdir>
+    <imgdir name="4000626">
+			<string name="name" value="Reindeer's Spear"/>
+			<string name="desc" value="Reindeer's sharp spear."/>
+		</imgdir>
+</imgdir>

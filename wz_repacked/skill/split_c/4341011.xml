@@ -1,0 +1,7 @@
+<imgdir name="4341011">
+        <string name="name" value="突袭" />
+        <string name="desc" value="召唤一群同伴放火烧场！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% to up 15 enemies, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="召唤一群同伴放火烧场！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% to up 15 enemies, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Cooldown: #cooltime sec" />
+    </imgdir>

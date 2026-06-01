@@ -1,0 +1,8 @@
+<imgdir name="5321003">
+        <string name="name" value="锚定轰炸" />
+        <string name="desc" value="放置一个产生强磁场的锚！磁场会将敌人拉向锚点。锚消失时会爆炸，对附近所有敌人造成暴击伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec. Pulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage" />
+        <string name="pdesc" value="放置一个产生强磁场的锚！磁场会将敌人拉向锚点。锚消失时会爆炸，对附近所有敌人造成暴击伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Summon Duration: #time sec. Pulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage\n#cCooldown: #cooltime sec#" />
+        <string name="hch" value="MP Cost: #mpCon, Summon Duration: #time sec. Stun Chance: #hcProp%, Stun Duration: #hcSubTime.\nPulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage\n#cCooldown: #hcCooltime sec#" />
+    </imgdir>

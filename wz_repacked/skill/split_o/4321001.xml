@@ -1,0 +1,6 @@
+<imgdir name="4321001">
+        <string name="name" value="Tornado Spin (Attack)" />
+        <string name="desc" value="Quickly dashes forward with a spinning attack to deal damage to multiple enemies.\n[Dash Activation: Arrow keys #cLeft and Left# or #cRight and Right#, Spin Attack: #cHit attack key while dashing#]\nLevel 20 effects: Links to Flying Assaulter Lv. 10\nRequired: #cthe Level 6: Mastery Book" />
+        <string name="h" value="MP Cost: #mpCon, Dash Speed: #d#, Spin Attack Damage: #damage%, Max Monsters Hit: #mobCount, MP Cost per Monster #z
+" />
+    </imgdir>

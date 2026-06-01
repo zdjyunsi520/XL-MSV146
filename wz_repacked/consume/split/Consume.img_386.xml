@@ -1,0 +1,62 @@
+<imgdir name="Consume.img">
+    <imgdir name="2870001">
+		<string name="name" value="Blue Snail Familiar"/>
+	</imgdir>
+    <imgdir name="2870002">
+		<string name="name" value="Shroom Familiar"/>
+	</imgdir>
+    <imgdir name="2870003">
+		<string name="name" value="Stump Familiar"/>
+	</imgdir>
+    <imgdir name="2870004">
+		<string name="name" value="Red Snail Familiar"/>
+	</imgdir>
+    <imgdir name="2870005">
+		<string name="name" value="Potted Sprout Familiar"/>
+	</imgdir>
+    <imgdir name="2870006">
+		<string name="name" value="Potted Morning Glory Familiar"/>
+	</imgdir>
+    <imgdir name="2870007">
+		<string name="name" value="Grape Juice Bottle Familiar"/>
+	</imgdir>
+    <imgdir name="2870008">
+		<string name="name" value="Slime Familiar"/>
+	</imgdir>
+    <imgdir name="2870009">
+		<string name="name" value="Green Mushroom Familiar"/>
+	</imgdir>
+    <imgdir name="2870010">
+		<string name="name" value="Dark Stump Familiar"/>
+	</imgdir>
+    <imgdir name="2870011">
+		<string name="name" value="Dejected Green Mushroom Familiar"/>
+	</imgdir>
+    <imgdir name="2870012">
+		<string name="name" value="Octopus Familiar"/>
+	</imgdir>
+    <imgdir name="2870013">
+		<string name="name" value="Axe Stump Familiar"/>
+	</imgdir>
+    <imgdir name="2870014">
+		<string name="name" value="Ghost Stump Familiar"/>
+	</imgdir>
+    <imgdir name="2870015">
+		<string name="name" value="Smirking Ghost Stump Familiar"/>
+	</imgdir>
+    <imgdir name="2870016">
+		<string name="name" value="Patrol Robot Familiar"/>
+	</imgdir>
+    <imgdir name="2870017">
+		<string name="name" value="Strange Sign Familiar"/>
+	</imgdir>
+    <imgdir name="2870018">
+		<string name="name" value="Serpent Familiar"/>
+	</imgdir>
+    <imgdir name="2870019">
+		<string name="name" value="Pig Familiar"/>
+	</imgdir>
+    <imgdir name="2870020">
+		<string name="name" value="Ribbon Pig Familiar"/>
+	</imgdir>
+</imgdir>

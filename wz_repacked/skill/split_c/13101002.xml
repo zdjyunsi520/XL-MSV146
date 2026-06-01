@@ -1,0 +1,5 @@
+<imgdir name="13101002">
+        <string name="name" value="最终攻击" />
+        <string name="desc" value="攻击后有几率造成额外伤害！必须装备弓。\n需要技能：#c弓精通 Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Proc Rate: #prop%, Duration: #time sec" />
+    </imgdir>

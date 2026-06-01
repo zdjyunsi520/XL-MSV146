@@ -1,0 +1,5 @@
+<imgdir name="1320019">
+        <string name="name" value="Final Pact" />
+        <string name="desc" value="#cWhen HP reaches 0,# your dark contract keeps you alive for a short time and #callows you to use Gungnir&apos;s Descent without any cooldown while invincible#. However, you must eliminate the required number of monsters before time runs out, or you will be dragged into the Shadow Abyss. The hourglass will be displayed during the reactivation cooldown.\n[Passive Effect: When HP is higher than the limit, Damage, Movement Speed, Critical Rate, and minimum Critical Damage will be increased]" />
+        <string name="h" value="#cWhen HP reaches 0,# fully restores HP and MP, Invincibility Duration: #time sec, Ignores enemy&apos;s attack reflection, #cIgnores Gungnir&apos;s Descent cooldown#. If #z enemies are defeated within Invincibility duration, you revive after the duration ends. Cooldown: #cooltime sec\n[Passive Effect: When HP is #x% or above, Damage: +#damage%, Movement Speed: +#psdSpeed, Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%]" />
+    </imgdir>

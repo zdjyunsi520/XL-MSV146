@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3062342">
+		<string name="name" value="[B] 星云石 (伤害防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的防具。\n* 被攻击时有30%几率无视19点伤害。#"/>
+	</imgdir>
+    <imgdir name="3062343">
+		<string name="name" value="[B] 星云石 (伤害防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的防具。\n* 被攻击时有30%几率无视19点伤害。#"/>
+	</imgdir>
+    <imgdir name="3062344">
+		<string name="name" value="[B] 星云石 (伤害防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的防具。\n* 被攻击时有30%几率无视31点伤害。#"/>
+	</imgdir>
+    <imgdir name="3062345">
+		<string name="name" value="[B] 星云石 (伤害防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的防具。\n* 被攻击时有30%几率无视31点伤害。#"/>
+	</imgdir>
+    <imgdir name="3062350">
+		<string name="name" value="[B] 星云石 (无敌)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的上衣和全身装。\n* 被攻击后无敌时间增加1秒。#"/>
+	</imgdir>
+    <imgdir name="3062360">
+		<string name="name" value="[B] 星云石 (异常状态时间)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的上衣和全身装。\n* 异常状态持续时间：-2秒。#"/>
+	</imgdir>
+    <imgdir name="3062370">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复40 HP。#"/>
+	</imgdir>
+    <imgdir name="3062371">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复40 HP。#"/>
+	</imgdir>
+    <imgdir name="3062372">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复50 HP。#"/>
+	</imgdir>
+    <imgdir name="3062373">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复50 HP。#"/>
+	</imgdir>
+    <imgdir name="3062374">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复60 HP。#"/>
+	</imgdir>
+    <imgdir name="3062375">
+		<string name="name" value="[B] 星云石 (恢复HP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复60 HP。#"/>
+	</imgdir>
+    <imgdir name="3062380">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复40 MP。#"/>
+	</imgdir>
+    <imgdir name="3062381">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复40 MP。#"/>
+	</imgdir>
+    <imgdir name="3062382">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复50 MP。#"/>
+	</imgdir>
+    <imgdir name="3062383">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复50 MP。#"/>
+	</imgdir>
+    <imgdir name="3062384">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复60 MP。#"/>
+	</imgdir>
+    <imgdir name="3062385">
+		<string name="name" value="[B] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 击败敌人后有15%几率恢复60 MP。#"/>
+	</imgdir>
+    <imgdir name="3063000">
+		<string name="name" value="[A] 星云石 (力量)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 力量 : +7#"/>
+	</imgdir>
+    <imgdir name="3063001">
+		<string name="name" value="[A] 星云石 (力量)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 力量 : +8#"/>
+	</imgdir>
+</imgdir>

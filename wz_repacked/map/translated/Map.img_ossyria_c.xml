@@ -1,0 +1,700 @@
+<imgdir name="Map.img">
+    <imgdir name="ossyria">
+		<imgdir name="200000000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之城"/>
+			<string name="help0" value="#e[参加活动]#n\n\n  如果看到#b#e蓝色#n#k的活动公告，点击#e[马丁]#n并选择#e[好的，出发吧！]#n即可参加。\n  如果在活动开始前已经点击了[马丁]，只需点击[好的，出发吧！]即可参加。\n\n  请在参加前仔细阅读活动公告。\n  活动开始后，将按#e先到先得#n的方式接收参加者，直到满员为止。\n\n#e24小时内不能重复参加同一活动。#n\n\n  如果你的其他背包中没有空位来领取'活动奖杯'，将无法参加活动，请确保留有空位。\n 如果你已经拥有#b秘密卷轴#k，请在参加活动前丢弃它。\n\n#r  如果在活动中更换频道或进入#b商城#k，将自动被取消资格。"/>
+			<string name="help1" value="#e[怪物攻城]#n\n\n#e#r巨型怪物警报！！！#k#n\n\n 被封印已久的邪恶力量最近被释放出来，吸收了这股力量的邪恶怪物正在计划攻击它们选择的任意城镇！这就是我们需要团结一致，击败那些可能危及该地区许多人生命的怪物的时候。\n这些怪物受到邪恶力量的控制，非常强大。\n\n击败所有攻击村庄的怪物后获得的#e#b邪恶力量#k#n应交给#e#b冒险岛管理员#k#n。\n通过咒语封印怪物力量后，#e#b邪恶力量#k#n可以交给#e#bNPC记忆者#k#n。\n好了，现在请前往被怪物攻击的城镇，拯救城镇免受这些邪恶怪物的彻底摧毁！"/>
+			<string name="mapDesc" value="位于冰封雪域云层之上的妖精之城。有飞往奥斯里亚各地飞船。\n\n#c相连区域\n - 维多利亚岛\n - 圣地\n - 玩具城\n - 神木村\n - 武陵\n - 阿里安特\n - 埃德尔斯坦"/>
+			<string name="help2" value="#e[怪物入侵警报]#n\n\n为了征服冒险岛世界，从地球防御本部逃脱的#b格雷军团#k正在试图#r入侵#k各个城镇。请帮助美索郎杰阻止入侵者！入侵者非常危险，请特别小心。\n\n请将从怪物身上掉落的#b入侵证据#k报告给潜水世界中的#b记忆者#k。"/>
+		</imgdir>
+		<imgdir name="200000001">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之城武器店"/>
+		</imgdir>
+		<imgdir name="200000002">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之城杂货店"/>
+		</imgdir>
+		<imgdir name="200000100">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之城售票口"/>
+		</imgdir>
+		<imgdir name="200000110">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台通道 &lt;开往维多利亚岛&gt;"/>
+		</imgdir>
+		<imgdir name="200000111">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台 &lt;开往维多利亚岛&gt;"/>
+		</imgdir>
+		<imgdir name="200000112">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="出发等候室 &lt;开往维多利亚岛&gt;"/>
+		</imgdir>
+		<imgdir name="200000120">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台通道&lt;玩具城方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000121">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台&lt;玩具城方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000122">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="出发等候室 &lt;玩具城方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000130">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="飞龙之路 &lt;神木村方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000131">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="飞龙船舱 &lt;神木村方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000132">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="飞龙船舱 &lt;神木村方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000140">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="仙鹤之路 &lt;武陵方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000141">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="仙鹤船舱 &lt;武陵方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000150">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台隧道 &lt;阿里安特方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000151">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台 &lt;阿里安特方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000152">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="站台 &lt;阿里安特方向&gt;"/>
+		</imgdir>
+		<imgdir name="200000200">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之城公园"/>
+		</imgdir>
+		<imgdir name="200000201">
+			<string name="streetName" value="天空之城公园"/>
+			<string name="mapName" value="天空之城整容院"/>
+		</imgdir>
+		<imgdir name="200000202">
+			<string name="streetName" value="天空之城公园"/>
+			<string name="mapName" value="天空之城美发店"/>
+		</imgdir>
+		<imgdir name="200000203">
+			<string name="streetName" value="天空之城公园"/>
+			<string name="mapName" value="天空之城皮肤护理"/>
+		</imgdir>
+		<imgdir name="200000300">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="小山丘"/>
+		</imgdir>
+		<imgdir name="200000301">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="公会总部 &lt;名人堂&gt;"/>
+		</imgdir>
+		<imgdir name="200010000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园I"/>
+		</imgdir>
+		<imgdir name="200010100">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="通往三色花园的路"/>
+		</imgdir>
+		<imgdir name="200010110">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="红色花园I"/>
+		</imgdir>
+		<imgdir name="200010111">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="红色花园II"/>
+		</imgdir>
+		<imgdir name="200010120">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="黄色花园I"/>
+		</imgdir>
+		<imgdir name="200010121">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="黄色花园II"/>
+		</imgdir>
+		<imgdir name="200010130">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="绿色花园I"/>
+		</imgdir>
+		<imgdir name="200010131">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="绿色花园II"/>
+		</imgdir>
+		<imgdir name="200010200">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="通天楼梯I"/>
+		</imgdir>
+		<imgdir name="200010300">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="通天楼梯II"/>
+		</imgdir>
+		<imgdir name="200010301">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="黑暗花园I"/>
+		</imgdir>
+		<imgdir name="200010302">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="黑暗花园II"/>
+		</imgdir>
+		<imgdir name="200020000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园II"/>
+		</imgdir>
+		<imgdir name="200020001">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="小型公园"/>
+		</imgdir>
+		<imgdir name="200030000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="散步小径"/>
+		</imgdir>
+		<imgdir name="200040000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园III"/>
+		</imgdir>
+		<imgdir name="200040001">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="废弃花园"/>
+		</imgdir>
+		<imgdir name="200050000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园IV"/>
+		</imgdir>
+		<imgdir name="200050001">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="老人的家"/>
+		</imgdir>
+		<imgdir name="200060000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="散步小径II"/>
+		</imgdir>
+		<imgdir name="200070000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园V"/>
+		</imgdir>
+		<imgdir name="200080000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="云彩公园VI"/>
+		</imgdir>
+		<imgdir name="200080100">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔入口"/>
+		</imgdir>
+		<imgdir name="200080101">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="未知之塔 &lt;出口地图&gt;"/>
+		</imgdir>
+		<imgdir name="200080200">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;20层&gt;"/>
+		</imgdir>
+		<imgdir name="200080300">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;19层&gt;"/>
+		</imgdir>
+		<imgdir name="200080400">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;18层&gt;"/>
+		</imgdir>
+		<imgdir name="200080500">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;17层&gt;"/>
+		</imgdir>
+		<imgdir name="200080600">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;16层&gt;"/>
+		</imgdir>
+		<imgdir name="200080700">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;15层&gt;"/>
+		</imgdir>
+		<imgdir name="200080800">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;14层&gt;"/>
+		</imgdir>
+		<imgdir name="200080900">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;13层&gt;"/>
+		</imgdir>
+		<imgdir name="200081000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;12层&gt;"/>
+		</imgdir>
+		<imgdir name="200081100">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;11层&gt;"/>
+		</imgdir>
+		<imgdir name="200081200">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;10层&gt;"/>
+		</imgdir>
+		<imgdir name="200081201">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;隐藏房间&gt;"/>
+		</imgdir>
+		<imgdir name="200081300">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;9层&gt;"/>
+		</imgdir>
+		<imgdir name="200081400">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;8层&gt;"/>
+		</imgdir>
+		<imgdir name="200081500">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;7层&gt;"/>
+		</imgdir>
+		<imgdir name="200081600">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;6层&gt;"/>
+		</imgdir>
+		<imgdir name="200081700">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;5层&gt;"/>
+		</imgdir>
+		<imgdir name="200081800">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;4层&gt;"/>
+		</imgdir>
+		<imgdir name="200081900">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;3层&gt;"/>
+		</imgdir>
+		<imgdir name="200082000">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;2层&gt;"/>
+		</imgdir>
+		<imgdir name="200082100">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔 &lt;1层&gt;"/>
+		</imgdir>
+		<imgdir name="200082200">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔&lt;地下1层&gt;"/>
+		</imgdir>
+		<imgdir name="200082300">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔&lt;地下2层&gt;"/>
+		</imgdir>
+		<imgdir name="200082301">
+			<string name="streetName" value="天空之城"/>
+			<string name="mapName" value="天空之塔&lt;休斯实验室&gt;"/>
+		</imgdir>
+		<imgdir name="200090000">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往维多利亚岛"/>
+		</imgdir>
+		<imgdir name="200090001">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="船舱 &lt;开往维多利亚岛&gt;"/>
+		</imgdir>
+		<imgdir name="200090010">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往天空之城"/>
+		</imgdir>
+		<imgdir name="200090011">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="船舱 &lt;开往天空之城&gt;"/>
+		</imgdir>
+		<imgdir name="200090100">
+			<string name="streetName" value="航行中"/>
+			<string name="mapName" value="玩具城"/>
+		</imgdir>
+		<imgdir name="200090110">
+			<string name="streetName" value="航行中"/>
+			<string name="mapName" value="天空之城"/>
+		</imgdir>
+		<imgdir name="200090200">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往神木村"/>
+		</imgdir>
+		<imgdir name="200090210">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往天空之城"/>
+		</imgdir>
+		<imgdir name="200090300">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往武陵"/>
+		</imgdir>
+		<imgdir name="200090310">
+			<string name="streetName" value="乘船中"/>
+			<string name="mapName" value="开往天空之城"/>
+		</imgdir>
+		<imgdir name="200090400">
+			<string name="streetName" value="航行中"/>
+			<string name="mapName" value="开往阿里安特"/>
+		</imgdir>
+		<imgdir name="200090410">
+			<string name="streetName" value="航行中"/>
+			<string name="mapName" value="开往天空之城"/>
+		</imgdir>
+		<imgdir name="209000000">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="幸福村"/>
+		</imgdir>
+		<imgdir name="209000001">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000002">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000003">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000004">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000005">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000006">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000007">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000008">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000009">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000010">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000011">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000012">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000013">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000014">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209000015">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="圣诞山丘"/>
+		</imgdir>
+		<imgdir name="209080000">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="极寒雪域"/>
+		</imgdir>
+		<imgdir name="211000000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域"/>
+			<string name="mapDesc" value="建立在冰封雪域永冻雪原上的城镇。可以通过天空之塔前往天空之城或水下世界。\n\n#c相连区域\n - 天空之城\n - 水下世界\n - 死亡矿坑"/>
+		</imgdir>
+		<imgdir name="211000001">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="长老官邸"/>
+		</imgdir>
+		<imgdir name="211000002">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="沙莫斯的独居小屋 &lt;出口地图&gt;"/>
+		</imgdir>
+		<imgdir name="211000100">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域市场"/>
+		</imgdir>
+		<imgdir name="211000101">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域武器店"/>
+		</imgdir>
+		<imgdir name="211000102">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域杂货店"/>
+		</imgdir>
+		<imgdir name="211000110">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场入口"/>
+		</imgdir>
+		<imgdir name="211000111">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场 &lt;1&gt;"/>
+		</imgdir>
+		<imgdir name="211000112">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场 &lt;2&gt;"/>
+		</imgdir>
+		<imgdir name="211000113">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场 &lt;3&gt;"/>
+		</imgdir>
+		<imgdir name="211000114">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场 &lt;4&gt;"/>
+		</imgdir>
+		<imgdir name="211000115">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰封雪域自由市场 &lt;5&gt;"/>
+		</imgdir>
+		<imgdir name="211000200">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="积雪小丘"/>
+		</imgdir>
+		<imgdir name="211010000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="注意结冰路I"/>
+		</imgdir>
+		<imgdir name="211020000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="注意结冰路II"/>
+		</imgdir>
+		<imgdir name="211030000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="寒冷旷野I"/>
+		</imgdir>
+		<imgdir name="211040000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="寒冷旷野II"/>
+		</imgdir>
+		<imgdir name="211040001">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="王冠飞翔者"/>
+		</imgdir>
+		<imgdir name="211040100">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰谷I"/>
+		</imgdir>
+		<imgdir name="211040101">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="雪人谷"/>
+		</imgdir>
+		<imgdir name="211040200">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰谷II"/>
+		</imgdir>
+		<imgdir name="211040300">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="陡峭悬崖I"/>
+		</imgdir>
+		<imgdir name="211040400">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="陡峭悬崖II"/>
+		</imgdir>
+		<imgdir name="211040401">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="雪原圣地"/>
+		</imgdir>
+		<imgdir name="211040500">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="陡峭悬崖3"/>
+		</imgdir>
+		<imgdir name="211040600">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="陡峭悬崖4"/>
+			<string name="mapDesc" value="通往狮子王城堡中黑魔法师部下的道路。"/>
+		</imgdir>
+		<imgdir name="211040700">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="危险悬崖"/>
+		</imgdir>
+		<imgdir name="211040800">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="狼之领地1"/>
+		</imgdir>
+		<imgdir name="211040900">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="狼之领地2"/>
+		</imgdir>
+		<imgdir name="211041000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="狼之领地3"/>
+		</imgdir>
+		<imgdir name="211041100">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死树之林I"/>
+		</imgdir>
+		<imgdir name="211041200">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死树之林II"/>
+		</imgdir>
+		<imgdir name="211041300">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死树之林III"/>
+		</imgdir>
+		<imgdir name="211041400">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死树之林IV"/>
+		</imgdir>
+		<imgdir name="211041500">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死亡矿坑I"/>
+		</imgdir>
+		<imgdir name="211041600">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死亡矿坑II"/>
+		</imgdir>
+		<imgdir name="211041700">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死亡矿坑III"/>
+		</imgdir>
+		<imgdir name="211041800">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="死亡矿坑IV"/>
+		</imgdir>
+		<imgdir name="211041900">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="通道"/>
+		</imgdir>
+		<imgdir name="211042000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="试炼洞穴I"/>
+		</imgdir>
+		<imgdir name="211042100">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="试炼洞穴II"/>
+		</imgdir>
+		<imgdir name="211042101">
+			<string name="streetName" value="隐藏地图"/>
+			<string name="mapName" value="洞穴中的洞穴"/>
+		</imgdir>
+		<imgdir name="211042200">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="试炼洞穴III"/>
+		</imgdir>
+		<imgdir name="211042300">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="扎昆之门"/>
+		</imgdir>
+		<imgdir name="211042400">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="扎昆祭坛入口"/>
+		</imgdir>
+		<imgdir name="211050000">
+			<string name="streetName" value="冰封雪域"/>
+			<string name="mapName" value="冰寒旷野"/>
+		</imgdir>
+		<imgdir name="211060000">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="荒凉荒野"/>
+		</imgdir>
+		<imgdir name="211060010">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城堡入口"/>
+		</imgdir>
+		<imgdir name="211060100">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城墙下方1"/>
+		</imgdir>
+		<imgdir name="211060200">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第一塔楼"/>
+		</imgdir>
+		<imgdir name="211060201">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第一塔楼屋顶"/>
+		</imgdir>
+		<imgdir name="211060300">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城墙下方2"/>
+		</imgdir>
+		<imgdir name="211060400">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第二塔楼"/>
+		</imgdir>
+		<imgdir name="211060401">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第二塔楼屋顶"/>
+		</imgdir>
+		<imgdir name="211060410">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="矮城墙1"/>
+		</imgdir>
+		<imgdir name="211060500">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城墙下方3"/>
+		</imgdir>
+		<imgdir name="211060600">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第三塔楼"/>
+		</imgdir>
+		<imgdir name="211060601">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第三塔楼屋顶"/>
+		</imgdir>
+		<imgdir name="211060610">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="矮城墙2"/>
+		</imgdir>
+		<imgdir name="211060620">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="高城墙1"/>
+		</imgdir>
+		<imgdir name="211060700">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城墙下方4"/>
+		</imgdir>
+		<imgdir name="211060800">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第四塔楼"/>
+		</imgdir>
+		<imgdir name="211060801">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第四塔楼屋顶"/>
+		</imgdir>
+		<imgdir name="211060810">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="矮城墙3"/>
+		</imgdir>
+		<imgdir name="211060820">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="高城墙2"/>
+		</imgdir>
+		<imgdir name="211060830">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="超高城墙"/>
+		</imgdir>
+		<imgdir name="211060900">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="城墙下方5"/>
+		</imgdir>
+		<imgdir name="211061000">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第五塔楼"/>
+		</imgdir>
+		<imgdir name="211061001">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="第五塔楼屋顶"/>
+		</imgdir>
+		<imgdir name="211061100">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="阿尼的牢房"/>
+		</imgdir>
+		<imgdir name="211070000">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="觐见室走廊"/>
+		</imgdir>
+		<imgdir name="211070100">
+			<string name="streetName" value="狮子王城堡"/>
+			<string name="mapName" value="觐见室"/>
+		</imgdir>

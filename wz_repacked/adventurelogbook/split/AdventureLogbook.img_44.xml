@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="504">
+			<string name="title" value="4. Thieving, Scheming Black Wings" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="A summons brought you to the Bowman Instructional School, where your 'old friend' Tess revealed that the Black Wings were behind the robbery." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="You traveled to Edelstein, the Black Wings stronghold, to investigate, but quickly realized you needed to Black Wing Hat to infiltrate further." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="A boy passing by gave you a hat, but said it was pointless. Even if you got into their base, the Black Wing leaders wouldn't be around." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="As you pondered how a young boy could know so much, he reappeared and handed you a file loaded with information about the Black Wing leaders. He left, claiming to be part of a 'Resistance.'" />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="The file revealed information about a Master of Disguise... So, the Black Wings were the ones responsible for the theft, not Olive?" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="40011078">
+        <string name="name" value="埃克哈特的吸血鬼" />
+        <string name="desc" value="召唤埃克哈特，对多个敌人发动四次吸血攻击并吸收部分HP。最多只能吸收最大HP的一半，或怪物最大HP的总量。技能等级可以根据自身等级提升。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击怪物数：#mobCount，将#x%的伤害吸收为HP" />
+        <string name="pdesc" value="对多个敌人进行4次攻击，并吸收部分伤害来恢复HP；最多恢复最大HP的一半或怪物的最大HP总量。 " />
+        <string name="ph" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，伤害：#damage%，攻击次数：#attackCount，将#x%的伤害吸收为HP。" />
+    </imgdir>

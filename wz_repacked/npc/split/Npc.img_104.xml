@@ -1,0 +1,131 @@
+<imgdir name="Npc.img">
+    <imgdir name="2071003">
+		<string name="name" value="Chil Nam"/>
+		<string name="n0" value="I am very much worried about my brother. He worries about me so much that I'm afraid he might not be taking care of himself..."/>
+		<string name="n1" value="Being my brother is a tall order, what with taking care of my parents and all..."/>
+		<string name="d0" value="Hello there! I'm Chil Nam."/>
+		<string name="d1" value="I wonder how my brother's doing these days... I hope he isn't sick."/>
+	</imgdir>
+    <imgdir name="2071004">
+		<string name="name" value="Kong Ji"/>
+		<string name="n0" value="Oh no, I need to finish this before my stepmother gets here..."/>
+		<string name="n1" value="My goodness, this is never-ending. I hope someone can help me out..."/>
+		<string name="d0" value="Did you see my stepmother on your way here, by any chance? Oh no... I haven't finished my work, yet..."/>
+		<string name="d1" value="Hey there, thanks for your help last time!"/>
+	</imgdir>
+    <imgdir name="2071005">
+		<string name="name" value="Chil Sung"/>
+		<string name="n0" value="I wonder how my brother Chil Nam is doing. I'm worried."/>
+		<string name="n1" value="My brother only moved away a couple of months ago, and I'm not sure if he's having fun there..."/>
+		<string name="d0" value="Oh, you must be from abroad... Nice to meet you!"/>
+		<string name="d1" value="I hope my brother Chil Nam is staying strong."/>
+	</imgdir>
+    <imgdir name="2071006">
+		<string name="name" value="Swallow"/>
+		<string name="n0" value="I need to head back South before the cold winter arrives, but my wings... My wings..."/>
+		<string name="n1" value="Ummm... Do my wings look all right? Do you think I can fly with these?"/>
+		<string name="d0" value="I should have been more careful. Look at my wing. Do you think these will heal up in time for the winter?"/>
+		<string name="d1" value="I need my wings to heal up so I can fly down South in time to avoid the cold weather."/>
+	</imgdir>
+    <imgdir name="2071007">
+		<string name="name" value="Grandma Yeon"/>
+		<string name="n0" value="I've put together this pot to keep my food from spoiling."/>
+		<string name="n1" value="My husband is always outside meditating while he fishes."/>
+		<string name="d0" value="My husband went down to the coast to go fishing... I hope he's doing all right!"/>
+		<string name="d1" value="If you are looking for a good pot, I'll be right here!"/>
+	</imgdir>
+    <imgdir name="2071009">
+		<string name="name" value="Mr. Shim"/>
+		<string name="n0" value="No matter what, my daughter Shim Chung is the most beautiful girl in town."/>
+		<string name="n1" value="Has anyone seen Shim Chung, though...?"/>
+		<string name="d0" value="My eyes have been failing me these days..."/>
+		<string name="d1" value="I can see much better with my glasses on."/>
+	</imgdir>
+    <imgdir name="2071010">
+		<string name="name" value="God of Mountains"/>
+		<string name="n0" value="Is this gold axe yours? Or is it this silver axe?"/>
+		<string name="n1" value="I'm the god of this region. I'm also the god of this Black Mountain."/>
+		<string name="d0" value="I can't believe someone would actually turn down a gold axe AND a silver axe..."/>
+		<string name="d1" value="Have you returned the steel axe to the tree cutter?"/>
+	</imgdir>
+    <imgdir name="2071011">
+		<string name="name" value="Tree Cutter"/>
+		<string name="n0" value="Please find my steel axe..."/>
+		<string name="n1" value="I need my axe in order to go chop some wood..."/>
+		<string name="d0" value="Did you bring back the steel axe that has my name on it?"/>
+		<string name="d1" value="Thank you so much for finding my steel axe!"/>
+	</imgdir>
+    <imgdir name="2071012">
+		<string name="name" value="A Familiar Lady"/>
+		<string name="n0" value="*Sniff sniff.*"/>
+		<string name="n1" value="Please help me... *Sniff.*"/>
+		<string name="d0" value="What should I do?"/>
+		<string name="d1" value="Thank you for coming... Really."/>
+	</imgdir>
+    <imgdir name="2071013">
+		<string name="name" value="Yellow King Goblin"/>
+		<string name="n0" value="The Black Mountain is so dangerous these days that I can't even walk there at night."/>
+		<string name="n1" value="What if the Nine-Tailed Fox comes here?"/>
+		<string name="d0" value="Hmmm... I'm hungry... Should I just eat a human tonight?"/>
+		<string name="d1" value="Hmmm... Pork... Goood..."/>
+	</imgdir>
+    <imgdir name="2071014">
+		<string name="name" value="Blue King Goblin"/>
+		<string name="n0" value="I can't sleep because of those darn foxes!"/>
+		<string name="n1" value="Even the god of Black Mountain was attacked or something..."/>
+		<string name="d0" value="Hmm hmmm! I think there are way too many reckless humans out there today!"/>
+		<string name="d1" value="Should I drink some tea?"/>
+	</imgdir>
+    <imgdir name="2071015">
+		<string name="name" value="Green King Goblin"/>
+		<string name="n0" value="Black Mountain isn't what it used to be..."/>
+		<string name="n1" value="I want something delicious..."/>
+		<string name="d0" value="Should I go to Tiger Ridge, or Moon Ridge? Is there anyone that's good at wrestling?"/>
+		<string name="d1" value="I should have asked for more Buckwheat Paste..."/>
+	</imgdir>
+    <imgdir name="2072000">
+		<string name="name" value="Chil Sung's Rice Stacks"/>
+		<string name="d0" value="(These are Chil Sung's Rice Stacks.)"/>
+		<string name="d1" value="(These are Chil Sung's Rice Stacks.)"/>
+	</imgdir>
+    <imgdir name="2072001">
+		<string name="name" value="Chil Nam's Rice Stacks"/>
+		<string name="d0" value="(These are Chil Nam's Rice Stacks.)"/>
+		<string name="d1" value="(These are Chil Nam's Rice Stacks.)"/>
+	</imgdir>
+    <imgdir name="2073000">
+		<string name="name" value="Park Chum Ji"/>
+		<string name="n0" value="Hogul protects the delicious Watermelon"/>
+		<string name="n1" value="Be careful not to be caught by Hogul. If you are caught by Hogul, you will be expelled!"/>
+	</imgdir>
+    <imgdir name="2080001">
+		<string name="name" value="Sly"/>
+		<string name="func" value="Merchant"/>
+		<string name="s0" value="If you're looking for something important, I have it here!"/>
+		<string name="s1" value="Potions are of necessity to travelers venturing through dangerous areas."/>
+	</imgdir>
+    <imgdir name="2080002">
+		<string name="name" value="Max"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="s0" value="No weapon can beat truly great armor when it comes to protecting the peace of this great land."/>
+		<string name="s1" value="These armors are here to protect you from harm."/>
+	</imgdir>
+    <imgdir name="2080003">
+		<string name="name" value="Norman"/>
+		<string name="func" value="Scroll Seller"/>
+		<string name="s0" value="Scrolls are important if you want an extra boost for your equipment."/>
+		<string name="s1" value="It won't cost you a dime to look at them; just be careful with them!"/>
+	</imgdir>
+    <imgdir name="2080004">
+		<string name="name" value="Moodie"/>
+		<string name="func" value="Pet Food Merchant"/>
+		<string name="s0" value="Ah... So, your pet is hungry? Then look no further."/>
+		<string name="s1" value="I have everything here that your pet will need. Take a look."/>
+	</imgdir>
+    <imgdir name="2080005">
+		<string name="name" value="Koscu"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="s0" value="Ha ha... Koscu will take care your items and mesos."/>
+		<string name="s1" value="Trust Koscu, ha ha. There's nothing to worry about."/>
+	</imgdir>
+</imgdir>

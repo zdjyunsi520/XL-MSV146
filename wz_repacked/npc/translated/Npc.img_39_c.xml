@@ -1,0 +1,137 @@
+<imgdir name="Npc.img">
+    <imgdir name="2191003">
+		<string name="name" value="托尼"/>
+		<string name="n0" value="我哥哥去哪里了？"/>
+		<string name="n1" value="人们会永远记住我的名字！"/>
+		<string name="d0" value="这太棒了！"/>
+		<string name="d1" value="是时候留下我的遗产了..."/>
+	</imgdir>
+    <imgdir name="2191004">
+		<string name="name" value="埃莱克斯"/>
+		<string name="func" value="幼儿园老师"/>
+		<string name="n0" value="为什么那些小怪物不喜欢我？"/>
+		<string name="n1" value="我得说，我穿围裙看起来挺不错的。"/>
+		<string name="d0" value="我是埃德尔斯坦幼儿园唯一的老师...这也是件好事，因为那些小捣蛋鬼会吃掉任何人。"/>
+		<string name="d1" value="我是埃德尔斯坦幼儿园唯一的老师...这也是件好事，因为那些小捣蛋鬼会吃掉任何人。"/>
+	</imgdir>
+    <imgdir name="2191005">
+		<string name="name" value="切奇"/>
+		<string name="func" value="城镇吉祥物"/>
+		<string name="d0" value="嘿！你不能插队，小子。我不管你的头有多大。"/>
+		<string name="d1" value="这些天我真的得找份更好的工作..."/>
+		<string name="n0" value="欢迎来到幻想主题世界！"/>
+		<string name="n1" value="我正在分发幻想主题世界地图。"/>
+	</imgdir>
+    <imgdir name="2191006">
+		<string name="name" value="聪明仔"/>
+		<string name="n0" value="幻想主题世界是冒险岛世界最欢乐的地方！"/>
+		<string name="n1" value="这里很适合捉迷藏！"/>
+		<string name="d0" value="幻想主题世界是冒险岛世界最欢乐的地方！"/>
+		<string name="d1" value="幻想主题世界是冒险岛世界最欢乐的地方！"/>
+	</imgdir>
+    <imgdir name="2191007">
+		<string name="name" value="可爱仔"/>
+		<string name="d0" value="我喜欢在公园里闲逛！"/>
+		<string name="d1" value="我希望能和切奇一起出去玩。他太忙了..."/>
+		<string name="n0" value="我喜欢在公园里闲逛！"/>
+		<string name="n1" value="我希望能和切奇一起出去玩。他太忙了..."/>
+	</imgdir>
+    <imgdir name="2191008">
+		<string name="name" value="胖仔"/>
+		<string name="d0" value="咕咚！咕咚！"/>
+		<string name="d1" value="咔嚓！咔嚓！"/>
+		<string name="n0" value="咕咚！咕咚！"/>
+		<string name="n1" value="咔嚓！咔嚓！"/>
+	</imgdir>
+    <imgdir name="2191009">
+		<string name="name" value="乌尔里卡"/>
+		<string name="d0" value="我大老远来到这里不是为了过得不愉快！"/>
+		<string name="d1" value="我大老远来到这里不是为了过得不愉快！"/>
+	</imgdir>
+    <imgdir name="2191010">
+		<string name="name" value="聪明仔"/>
+		<string name="n0" value="*叹气*我想回家..."/>
+		<string name="n1" value="它在哪里？"/>
+		<string name="d0" value="我不知道其他孩子躲在哪里。"/>
+		<string name="d1" value="我不知道其他孩子躲在哪里。"/>
+	</imgdir>
+    <imgdir name="2191011">
+		<string name="name" value="可爱仔"/>
+		<string name="n0" value="这是最好的！呵呵呵！"/>
+		<string name="n1" value="这就像一场大冒险！"/>
+		<string name="d0" value="我想要一些棉花糖！"/>
+		<string name="d1" value="我喜欢在公园里闲逛！"/>
+	</imgdir>
+    <imgdir name="2191012">
+		<string name="name" value="胖仔"/>
+		<string name="d0" value="咕咚！咕咚！"/>
+		<string name="d1" value="咔嚓！咔嚓！"/>
+		<string name="n0" value="咕咚！咕咚！"/>
+		<string name="n1" value="咔嚓！咔嚓！"/>
+	</imgdir>
+    <imgdir name="2191013">
+		<string name="name" value="乌尔里卡"/>
+		<string name="d0" value="我大老远来到这里不是为了过得不愉快！"/>
+		<string name="d1" value="我大老远来到这里不是为了过得不愉快！"/>
+		<string name="n0" value="没人会在这里找到我。"/>
+		<string name="n1" value="捉迷藏是最好的！"/>
+	</imgdir>
+    <imgdir name="2191014">
+		<string name="name" value="奥利弗"/>
+		<string name="n0" value="你好！你玩得开心吗？"/>
+		<string name="n1" value="欢迎来到幻想主题世界！"/>
+		<string name="func" value="公园员工"/>
+		<string name="d0" value="如果需要任何帮助，请告诉我！"/>
+		<string name="d1" value="希望你永远在这里享受乐趣。"/>
+	</imgdir>
+    <imgdir name="2191015">
+		<string name="name" value="奥利弗"/>
+		<string name="n0" value="你好！你玩得开心吗？"/>
+		<string name="n1" value="欢迎来到幻想主题世界！"/>
+		<string name="func" value="公园员工"/>
+		<string name="d0" value="如果需要任何帮助，请告诉我！"/>
+		<string name="d1" value="希望你永远在这里享受乐趣。"/>
+	</imgdir>
+    <imgdir name="2191016">
+		<string name="name" value="奥利弗"/>
+		<string name="n0" value="你好！你玩得开心吗？"/>
+		<string name="n1" value="欢迎来到幻想主题世界！"/>
+		<string name="func" value="公园员工"/>
+		<string name="d0" value="如果需要任何帮助，请告诉我！"/>
+		<string name="d1" value="希望你永远在这里享受乐趣。"/>
+	</imgdir>
+    <imgdir name="2191017">
+		<string name="name" value="奥利弗"/>
+		<string name="n0" value="你好！你玩得开心吗？"/>
+		<string name="n1" value="欢迎来到幻想主题世界！"/>
+		<string name="func" value="公园员工"/>
+		<string name="d0" value="如果需要任何帮助，请告诉我！"/>
+		<string name="d1" value="希望你永远在这里享受乐趣。"/>
+	</imgdir>
+    <imgdir name="2191018">
+		<string name="name" value="神奇维京人"/>
+		<string name="d0" value="(墙上到处都是涂鸦。)"/>
+		<string name="d1" value="(尽管擦洗过，但仍然有一些涂鸦。)"/>
+	</imgdir>
+    <imgdir name="2191019">
+		<string name="name" value="旋转降落"/>
+	</imgdir>
+    <imgdir name="2191020">
+		<string name="name" value="阿尔·斯卡蓬"/>
+		<string name="n0" value="你好！你玩得开心吗？"/>
+		<string name="n1" value="欢迎来到幻想主题世界！"/>
+		<string name="func" value="公园员工"/>
+		<string name="d0" value="涂鸦是不对的！乱搞别人的东西有什么意义？！"/>
+		<string name="d1" value="希望你永远在这里享受乐趣。"/>
+	</imgdir>
+    <imgdir name="2191021">
+		<string name="name" value="不明飞行物"/>
+	</imgdir>
+    <imgdir name="2192000">
+		<string name="name" value="斯皮格尔曼"/>
+		<string name="n0" value="嗯..."/>
+		<string name="n1" value="这里很拥挤..."/>
+		<string name="d0" value="这里充满了我可以...玩得开心的东西。"/>
+		<string name="d1" value="不要让其他人知道我在这里。"/>
+	</imgdir>
+</imgdir>

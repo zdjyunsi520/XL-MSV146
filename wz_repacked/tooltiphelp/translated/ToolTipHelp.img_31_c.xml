@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="7">
+				<string name="Title" value="犹他的猪场"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="艾利纳南部森林(往艾利纳方向)"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="前往港口的路上(往鹦鹉螺号方向) "/>
+			</imgdir>
+    <imgdir name="10">
+				<string name="Title" value="赫内西东侧雨林(往赫内西方向) "/>
+			</imgdir>
+    <imgdir name="101040001">
+			<imgdir name="0">
+				<string name="Title" value="布格石板"/>
+				<string name="Desc" value="你需要在击败布格之前先摧毁资源。"/>
+			</imgdir>
+    <imgdir name="101050000">
+			<imgdir name="0">
+				<string name="Title" value="圣树"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="武器/防具店"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="杂货店"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="仓库"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="知识回廊"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="王者之座"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="精灵学校"/>
+			</imgdir>
+    <imgdir name="101050030">
+			<imgdir name="0">
+				<string name="Title" value="精灵小学"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="精灵中学"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="精灵高中"/>
+			</imgdir>
+    <imgdir name="101050300">
+			<imgdir name="0">
+				<string name="Title" value="外围艾利乌尔"/>
+			</imgdir>
+    <imgdir name="101050400">
+			<imgdir name="0">
+				<string name="Title" value="艾利乌尔-精灵之城"/>
+			</imgdir>
+    <imgdir name="104030000">
+			<imgdir name="0">
+				<string name="Title" value="赫内西狩猎场1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="赫内西西部森林"/>
+			</imgdir>
+    <imgdir name="200000150">
+			<imgdir name="0">
+				<string name="Title" value="神Station车站候车室"/>
+			</imgdir>
+</imgdir>

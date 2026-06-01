@@ -1,0 +1,237 @@
+import os
+import re
+import glob
+
+def translate_value(text):
+    translations = {
+        "Manji": "万吉",
+        "Mr. Thunder": "雷霆先生",
+        "Mr. Smith": "史密斯先生",
+        "Winston": "温斯顿",
+        "Ayan": "阿扬",
+        "Sophia": "索菲亚",
+        "Rooney": "鲁尼",
+        "Flora the Fairy": "妖精弗洛拉",
+        "Len the Fairy": "妖精伦恩",
+        "Grendel the Really Old": "真正古老的格伦德尔",
+        "Francois": "弗朗索瓦",
+        "Shane": "沙恩",
+        "Joel": "乔尔",
+        "Cherry": "切丽",
+        "Arwen the Fairy": "妖精阿尔温",
+        "Rowen the Fairy": "妖精罗恩",
+        "Mar the Fairy": "妖精玛尔",
+        "Wing the Fairy": "妖精温格",
+        "Nella": "内拉",
+        "Icarus": "伊卡洛斯",
+        "Silver": "西尔弗",
+        "Natasha": "娜塔莎",
+        "Mina": "米娜",
+        "Phil": "菲尔",
+        "Teo": "特奥",
+        "Pason": "帕森",
+        "Mr. Goldstein": "戈尔茨坦先生",
+        "VIP Cab": "VIP出租车",
+        "Mr. Kim": "金先生",
+        "Chef": "厨师",
+        "Jane": "简",
+        "Captain Al": "阿尔船长",
+        "Rina": "丽娜",
+        "Karl": "卡尔",
+        "Sam": "山姆",
+        "Regular Cab in Victoria": "维多利亚普通出租车",
+        "Dr. Squint": "斜视医生",
+        "Vicious": "维舍斯",
+        "Chief Stan": "斯坦酋长",
+        "Doofus": "笨蛋",
+        "Camila": "卡米拉",
+        "Gustav": "古斯塔夫",
+        "Alex": "亚历克斯",
+        "Evan": "埃文",
+        
+        "Repair Durability": "修复耐久度",
+        "Blacksmith": "铁匠",
+        "Station Clerk": "车站职员",
+        "Cabin Crew": "乘务员",
+        "Magician Instructor": "魔法师导师",
+        "Weapon Seller": "武器商人",
+        "Merchant": "商人",
+        "Item Creator": "物品创造者",
+        "Pet Master": "宠物大师",
+        "Armor Seller": "防具商人",
+        "Tour Guide": "导游",
+        "Buddy List Admin": "好友列表管理员",
+        "Storage Keeper": "仓库管理员",
+        "Family Guide": "家族向导",
+        "Doctor w/o License": "无证医生",
+        "Item Maker": "物品制作师",
+        "Pet Food Merchant": "宠物食品商人",
+        
+        "Don't talk to me": "别跟我说话",
+        "Leave now... Or you'll get hurt": "现在离开...否则你会受伤",
+        "Anyone who dares to stand in my path will be punished...": "任何胆敢挡我路的人都会受到惩罚...",
+        "Hah... I was wondering who was bothering me, and it's you. All right, I won't call you a nobody anymore...": "哈...我在想是谁在烦我，原来是你。好吧，我不会再叫你无名小卒了...",
+        "You got to take care of your equipment. You need your Durability taken care of, come see me.": "你得好好照顾你的装备。你需要处理你的耐久度，来找我吧。",
+        "Need some equipment repaired? Bring it on over!": "需要修理装备吗？拿过来吧！",
+        "I'm Mr. Thunder's best student. I can make ANYTHING.": "我是雷霆先生最好的学生。我什么都能做。",
+        "Mr. Thunder does the repairs. I make all the new weapons.": "雷霆先生负责修理。我负责制作所有新武器。",
+        "I'm so busy these days! What to make next?": "我这些天太忙了！接下来做什么呢？",
+        "If you need something made, just come see me.": "如果你需要做什么东西，尽管来找我。",
+        "Fossils contain important information about the past.": "化石包含有关过去的重要信息。",
+        "Do you think I can recover all the data I've lost?": "你认为我能找回所有丢失的数据吗？",
+        "Look around the cliff and you may be able to find the fossils.": "在悬崖周围找找，你可能会发现化石。",
+        "I'm Winston the archeologist.": "我是考古学家温斯顿。",
+        "You're the one that helped me out the other day. Unfortunately I'm really busy right this minute. I'll talk to you later.": "你是前几天帮我的那个人。不幸的是我现在真的很忙。我稍后再跟你谈。",
+        "My name is Ayan. Nice to meet you!": "我的名字是阿扬。很高兴认识你！",
+        "I have been living in this town ever since I was rescued by the people here.": "自从被这里的人救了以后，我就一直住在这个镇上。",
+        "Hi!": "嗨！",
+        "You are the one who helped me the other day. Thank you!": "你是前几天帮我的那个人。谢谢！",
+        "Okay... I'm ready to do business...": "好的...我准备好做生意了...",
+        "It's so boring around here...": "这里好无聊...",
+        "Is Maya getting better from her sickness?": "玛雅的病好些了吗？",
+        "Not a bad day at work today!": "今天工作不错！",
+        "Please don't bargain with me too much!": "请不要跟我讨价还价太多！",
+        "Doesn't it look good today? I put great effort into today's stock.": "今天看起来不错吧？我为今天的库存付出了很大努力。",
+        "Hey, you're back!": "嘿，你回来了！",
+        "Isn't it just gorgeous out here today?": "今天这里的景色不是很美吗？",
+        "Man, I want to travel around and stuff. I don't want to be stuck here working. This stinks! I'm stuck here making potions everyday thanks to my mom opening up a store. This is definitely NOT fun.": "天啊，我想去旅行什么的。我不想被困在这里工作。这太糟糕了！因为我妈妈开了一家店，我每天都被困在这里做药水。这绝对不好玩。",
+        "What did you do with #b#t4031004##k? That's a coveted rock and all, but it requires so many items to make that you're the first one to actually gather them all up! Anyway, hope this is put to good use.": "你用#b#t4031004##k做了什么？那是一块令人垂涎的石头，但制作它需要这么多物品，你是第一个真正把它们都收集起来的人！无论如何，希望它能得到很好的利用。",
+        "Did you hear about a town near Ellinia that's covered in snow?": "你听说过艾琳尼亚附近有一个被雪覆盖的城镇吗？",
+        "Don't you wanna check out the town that's covered in snow?": "你不想去看看那个被雪覆盖的城镇吗？",
+        "Hello there. I'm Rooney.": "你好。我是鲁尼。",
+        "Something urgent must be happening at Happyville.": "快乐镇一定发生了紧急事情。",
+        "Welcome to Ellinia!": "欢迎来到艾琳尼亚！",
+        "We have lots of Magician weapons! Take a look!": "我们有很多魔法师武器！来看看！",
+        "Do you need potions by any chance? I have plenty in stock...": "你碰巧需要药水吗？我库存很多...",
+        "If you want to return to Ellinia at will, then try buying the return scroll to this place.": "如果你想随意返回艾琳尼亚，那就试试买一张返回这里的卷轴。",
+        "To all who seek to become magicians... Speak to me...": "所有想成为魔法师的人...跟我说话...",
+        "Heh heh heh...": "嘿嘿嘿...",
+        "My dear Pygmy, here's a tasty treat.": "我亲爱的矮人，这是一份美味的点心。",
+        "Grendel the Really Old can scold me all he wants, but he can't stop my brilliant research!": "真正古老的格伦德尔可以随便骂我，但他阻止不了我出色的研究！",
+        "Are you here at the request of Sabitrama?": "你是应萨比特拉玛的要求来的吗？",
+        "I heard there's an incredible herb that can be found in here... But I can't just let you by so easily...": "我听说这里有一种不可思议的草药...但我不能就这么轻易让你通过...",
+        "Do you want to enter this place? I'm sure you've heard of the rare herbs in here, but I can't let some stranger like you enter my property. I'm sorry, but you'll have to leave.": "你想进入这个地方吗？我相信你听说过这里的稀有草药，但我不能让像你这样的陌生人进入我的领地。对不起，你必须离开。",
+        "Not just anyone can enter this place!": "不是任何人都能进入这个地方！",
+        "You can board the ship headed for Orbis Station.": "你可以登上前往奥比斯站的船。",
+        "Talk to Cherry if you want to get on board!": "如果你想上船，就跟切丽谈谈！",
+        "If you want to get on board the ship headed for Orbis Station, please give me the ticket.": "如果你想登上前往奥比斯站的船，请把票给我。",
+        "This ship has a limited capacity, so please get on right now... It'll be leaving shortly.": "这艘船容量有限，所以请现在上船...它很快就要离开了。",
+        "The ship is about to embark. Please wait a moment.": "船即将出发。请稍等片刻。",
+        "So many humans in the village these days...": "这些天村里有这么多人...",
+        "Grendel the Really Old is not a bad person, but his students...": "真正古老的格伦德尔不是坏人，但他的学生们...",
+        "It's such a burden being friends with humans. They're so rude! So violent!": "和人类做朋友真是一种负担。他们太粗鲁了！太暴力了！",
+        "There are SOME good humans out there. But how does one pick them out of the crowd?": "外面确实有一些好人。但怎么从人群中分辨出来呢？",
+        "Welcome to Ellinia, the village of the Fairies.": "欢迎来到妖精村艾琳尼亚。",
+        "It's time we Fairies opened ourselves up to the world.": "是我们妖精向世界开放的时候了。",
+        "My friend Arwen is still pretty uncomfortable around humans.": "我的朋友阿尔温在人类周围仍然很不自在。",
+        "Welcome to Ellinia, village of the Fairies. Ever since Grendel the Really Old moved here, the village has been filled with his pupils. It might as well be a human village these days.": "欢迎来到妖精村艾琳尼亚。自从真正古老的格伦德尔搬到这里后，村子里就挤满了他的学生。现在这里几乎可以算是一个人类村庄了。",
+        "You seem like a good human. We could use more of your kind here in Ellinia.": "你看起来是个好人。艾琳尼亚这里可以多一些像你这样的人。",
+        "Please love and take care of your pets. They are our valued friends.": "请爱护并照顾你的宠物。它们是我们宝贵的朋友。",
+        "Has your pet turned back into a doll by any chance?": "你的宠物碰巧变回玩偶了吗？",
+        "If you have an unmoving pet with you, please take it to me.": "如果你有一只不动的宠物，请把它带给我。",
+        "So much homework... And so much studying to do... Man, I'm swamped...": "这么多作业...还有这么多学习要做...天啊，我忙死了...",
+        "I'm busy, so bug off!": "我很忙，走开！",
+        "Why do all these humans want to be my friend?": "为什么这些人类都想和我做朋友？",
+        "Man, I'm sooo busy! Anyone around here willing to help?": "天啊，我太忙了！这附近有人愿意帮忙吗？",
+        "Lots of strangers passing by today.": "今天有很多陌生人经过。",
+        "I got so many requests from the townspeople today! I need help here...": "今天我收到了很多村民的请求！我需要帮助...",
+        "Didn't you help me take care of #b#p1051000##k's request? He should be at home fixing himself a hearty dinner right about now. Unfortunately, I haven't gotten any new requests today. Come talk to me some other time, all right?": "你不是帮我处理了#b#p1051000##k的请求吗？他现在应该在家给自己做一顿丰盛的晚餐。不幸的是，我今天没有收到任何新请求。改天再来跟我谈，好吗？",
+        "Look... The sky...": "看...天空...",
+        "Someday... Someday... I will fly...": "总有一天...总有一天...我会飞...",
+        
+        "Ellinia": "艾琳尼亚",
+        "Orbis Station": "奥比斯站",
+        "Happyville": "快乐镇",
+        "Fairies": "妖精",
+        "Pygmy": "矮人",
+        "herbs": "草药",
+        "fossils": "化石",
+        "potions": "药水",
+        "equipment": "装备",
+        "weapons": "武器",
+        "scroll": "卷轴",
+        "ticket": "票",
+        "ship": "船",
+        "village": "村庄",
+        "town": "城镇",
+        "cliff": "悬崖",
+        "property": "领地",
+        "research": "研究",
+        "homework": "作业",
+        "capacity": "容量",
+        "burden": "负担",
+        "request": "请求",
+        "stock": "库存",
+        "business": "生意",
+        "student": "学生",
+        "friend": "朋友",
+        "human": "人类",
+        "pupil": "学生",
+        "stranger": "陌生人",
+        "repairs": "修理",
+        "treat": "点心",
+        "data": "数据",
+        "brilliant": "出色的",
+        "incredible": "不可思议的",
+        "rare": "稀有的",
+        "urgent": "紧急的",
+        "coveted": "令人垂涎的",
+        "gorgeous": "美丽的",
+        "violent": "暴力的",
+        "rude": "粗鲁的",
+        "hearty": "丰盛的",
+        "limited": "有限的",
+        "shortly": "很快",
+        "embark": "出发",
+        "swamped": "忙死了",
+        "bug off": "走开",
+        "uncomfortable": "不自在的",
+        "valuable": "宝贵的",
+        "unmoving": "不动的",
+        "rescued": "被救的",
+        "covered": "覆盖的",
+        "snow": "雪",
+        "sickness": "病",
+        "tasty": "美味的",
+        "scold": "责骂",
+        
+        "Please don't try to bargain with me too much!": "请不要跟我讨价还价太多！",
+        "Sabitrama": "萨比特拉玛",
+        "Maya": "玛雅",
+        "Magician": "魔法师",
+    }
+    
+    if text in translations:
+        return translations[text]
+    return text
+
+def translate_xml_files(input_dir, output_dir):
+    os.makedirs(output_dir, exist_ok=True)
+    
+    xml_files = sorted(glob.glob(os.path.join(input_dir, "*.xml")))
+    
+    for xml_file in xml_files:
+        with open(xml_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        def replace_value(match):
+            key = match.group(1)
+            translated = translate_value(key)
+            return f'value="{translated}"'
+        
+        translated_content = re.sub(r'value="([^"]+)"', replace_value, content)
+        
+        base_name = os.path.basename(xml_file)
+        name_without_ext = os.path.splitext(base_name)[0]
+        output_file = os.path.join(output_dir, f"{name_without_ext}_c.xml")
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(translated_content)
+        
+        print(f"Translated: {xml_file} -> {output_file}")
+
+if __name__ == "__main__":
+    input_dir = r"wz\String.wz\npc\split"
+    output_dir = r"wz\String.wz\npc\translated"
+    
+    translate_xml_files(input_dir, output_dir)

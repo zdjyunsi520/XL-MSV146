@@ -1,0 +1,5 @@
+<imgdir name="2321054">
+        <string name="name" value="义愤填膺" />
+        <string name="desc" value="以复仇天使的愤怒燃烧你的身体~" />
+        <string name="h" value="#c关闭时#，伤害 +#z%\n#c开启时#: MP消耗: #mpCon，魔法攻击力: #indieMad，无视敌人防御: #ignoreMobpdpR%，天使射线攻击次数: #y，最大伤害: #indieMaxDamageOver，攻击速度提升1阶段，回复: #hp%。目标数减少至#mobCount。\n#c只能使用瞬间移动、增益技能和天使射线#。" />
+    </imgdir>

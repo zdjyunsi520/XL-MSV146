@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9700028">
+		<string name="name" value="阿努比斯"/>
+	</imgdir>
+    <imgdir name="9700029">
+		<string name="name" value="法老小雪人"/>
+	</imgdir>
+    <imgdir name="8220008">
+		<string name="name" value="未知小吃店"/>
+	</imgdir>
+    <imgdir name="9001012">
+		<string name="name" value="伤痕熊"/>
+	</imgdir>
+    <imgdir name="9101003">
+		<string name="name" value="巴洛格领主"/>
+	</imgdir>
+    <imgdir name="1210111">
+		<string name="name" value="奇怪的猪"/>
+	</imgdir>
+    <imgdir name="2220110">
+		<string name="name" value="哭泣蓝蘑菇"/>
+	</imgdir>
+    <imgdir name="2230112">
+		<string name="name" value="恐惧野猪"/>
+	</imgdir>
+    <imgdir name="2230113">
+		<string name="name" value="外科医生之眼"/>
+	</imgdir>
+    <imgdir name="2230114">
+		<string name="name" value="泥泞沼泽怪物"/>
+	</imgdir>
+    <imgdir name="2230115">
+		<string name="name" value="泥泞幼苗怪物"/>
+	</imgdir>
+    <imgdir name="3400000">
+		<string name="name" value="樱桃珍珠奶茶"/>
+	</imgdir>
+    <imgdir name="3400001">
+		<string name="name" value="芒果珍珠奶茶"/>
+	</imgdir>
+    <imgdir name="3400002">
+		<string name="name" value="甜瓜珍珠奶茶"/>
+	</imgdir>
+    <imgdir name="3400003">
+		<string name="name" value="雪人娃娃抓娃娃机"/>
+	</imgdir>
+    <imgdir name="3400004">
+		<string name="name" value="雪人娃娃"/>
+	</imgdir>
+    <imgdir name="3400005">
+		<string name="name" value="小佩佩娃娃抓娃娃机"/>
+	</imgdir>
+    <imgdir name="3400006">
+		<string name="name" value="小佩佩娃娃"/>
+	</imgdir>
+    <imgdir name="3400007">
+		<string name="name" value="变形娃娃抓娃娃机"/>
+	</imgdir>
+    <imgdir name="3400008">
+		<string name="name" value="变形娃娃抓娃娃机"/>
+	</imgdir>
+</imgdir>

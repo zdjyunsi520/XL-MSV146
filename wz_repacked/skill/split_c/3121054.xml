@@ -1,0 +1,5 @@
+<imgdir name="3121054">
+        <string name="name" value="集中精神" />
+        <string name="desc" value="凝神备战，提升伤害。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，额外物理攻击力：#indiePad，额外站立概率：#x%，额外Boss伤害：#y%\n冷却时间：#cooltime秒。" />
+    </imgdir>

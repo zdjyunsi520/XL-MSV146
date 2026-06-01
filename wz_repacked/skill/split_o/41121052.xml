@@ -1,0 +1,5 @@
+<imgdir name="41121052">
+        <string name="name" value="Falcon&apos;s Honor" />
+        <string name="desc" value="Call upon the powers of Hayato&apos;s ancestors to unleash a furious barrage of attacks." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

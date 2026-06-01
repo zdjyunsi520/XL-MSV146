@@ -1,0 +1,7 @@
+<imgdir name="2111002">
+        <string name="name" value="Explosion" />
+        <string name="desc" value="Creates a Fire explosion near you that hits nearby enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Creates a Fire explosion near you that hits nearby enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

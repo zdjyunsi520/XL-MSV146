@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591015">
+		<string name="name" value="充沛岩石精灵之魂"/>
+		<string name="desc" value="岩石精灵的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c岩石精灵技能和额外潜能#。\r\n#c额外潜能：最大MP+150\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591016">
+		<string name="name" value="华丽岩石精灵之魂"/>
+		<string name="desc" value="岩石精灵的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c岩石精灵技能和额外潜能#。\r\n#c额外潜能：全属性+2\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591017">
+		<string name="name" value="强健监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：力量+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591018">
+		<string name="name" value="敏捷监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：敏捷+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591019">
+		<string name="name" value="聪慧监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：智力+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591020">
+		<string name="name" value="幸运监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：运气+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591021">
+		<string name="name" value="活力监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：最大HP+150\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591022">
+		<string name="name" value="充沛监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：最大MP+150\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591023">
+		<string name="name" value="华丽监狱守卫阿尼之魂"/>
+		<string name="desc" value="监狱守卫阿尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尼技能和额外潜能#。\r\n#c额外潜能：全属性+2\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591024">
+		<string name="name" value="强健龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：力量+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591025">
+		<string name="name" value="敏捷龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：敏捷+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591026">
+		<string name="name" value="聪慧龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：智力+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591027">
+		<string name="name" value="幸运龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：运气+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591028">
+		<string name="name" value="活力龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：最大HP+200\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591029">
+		<string name="name" value="充沛龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：最大MP+200\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591030">
+		<string name="name" value="华丽龙骑士之魂"/>
+		<string name="desc" value="龙骑士的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c龙骑士技能和额外潜能#。\r\n#c额外潜能：全属性+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591031">
+		<string name="name" value="强健霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：力量+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591032">
+		<string name="name" value="敏捷霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：敏捷+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591033">
+		<string name="name" value="聪慧霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：智力+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591034">
+		<string name="name" value="幸运霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：运气+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="1121006">
+        <string name="name" value="冲锋" />
+        <string name="desc" value="向前冲刺并推开多个怪物。需要技能手册才能精通到30级。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Pushed: #mobCount" />
+        <string name="pdesc" value="向前冲刺并推开多个怪物。在一定时间内减速敌人。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Speed: #x\nCooldown: #cooltime sec" />
+    </imgdir>

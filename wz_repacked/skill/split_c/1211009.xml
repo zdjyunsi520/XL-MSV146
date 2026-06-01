@@ -1,0 +1,8 @@
+<imgdir name="1211009">
+        <string name="name" value="魔法粉碎" />
+        <string name="desc" value="有几率取消所有敌人增益并阻止它们使用新增益。[冷却时间：1分钟] 需要技能：#c冲击爆破 Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
+        <string name="pdesc" value="有几率取消所有敌人增益并阻止它们使用新增益。\n需要技能：#c冲击爆破 Lv. 3#" />
+        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Chance to Remove All Buffs: #hcProp%, Buff Block Duration: #hcTime sec" />
+    </imgdir>

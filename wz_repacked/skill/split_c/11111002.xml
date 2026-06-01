@@ -1,0 +1,7 @@
+<imgdir name="11111002">
+        <string name="name" value="恐慌" />
+        <string name="desc" value="对多个敌人造成伤害并降低其攻击力，有几率使其致盲！需要连击数达到2以上才能使用。恐慌的致盲效果适用于所有怪物，但对BOSS的持续时间减半。\n需要技能：#c连击攻击 Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, #y combo orbs are used to deal #damage% damage on #mobCount enemies, Enemy Attack: -#z%, Blind Chance: #prop%, Enemy Accuracy (when Blind): -#x%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="对多个敌人造成伤害并降低其攻击力，有几率使其致盲！需要连击数达到2以上才能使用。\n需要技能：#c连击攻击 Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, #y combo orbs are used to deal #damage% damage on #mobCount enemies, Enemy Attack: -#z%, Blind Chance: #prop%, Enemy Accuracy (when Blind): -#x%\nCooldown: #cooltime sec" />
+    </imgdir>

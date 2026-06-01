@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="108">
+			<string name="title" value="8. Aran, the Warrior Hero" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="You were assigned to speak to Aran, so you visited Rien Island, where Lilin peppered you with questions, testing your intentions." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="In the midst of Lilin's quizzes, Aran appeared. But he had amnesia and could remember nothing of use." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="He showed you a Seal Stone, and together, you pieced together that each continent had its own stone, specific to it. Unfortunately, many of those stones were in the hands of the Black Wings." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="Aran promised he'd be around if you ever needed him, and you returned to Maple Island." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="When the others reconvened, you put together this knowledge:" />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="#eMaple Island had no Seal Stone.#n" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

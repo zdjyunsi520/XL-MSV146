@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9390201">
+		<string name="name" value="Battle Monster Stump"/>
+	</imgdir>
+    <imgdir name="9390202">
+		<string name="name" value="Battle Monster Slime"/>
+	</imgdir>
+    <imgdir name="9390203">
+		<string name="name" value="Battle Monster Patrol Robot"/>
+	</imgdir>
+    <imgdir name="9390204">
+		<string name="name" value="Battle Monster Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="9390205">
+		<string name="name" value="Battle Monster Sleepy Grobbler"/>
+	</imgdir>
+    <imgdir name="9390206">
+		<string name="name" value="Battle Monster Octopus"/>
+	</imgdir>
+    <imgdir name="9390207">
+		<string name="name" value="Battle Monster Mixed Golem"/>
+	</imgdir>
+    <imgdir name="9390500">
+		<string name="name" value="Leonardo the Lion"/>
+	</imgdir>
+    <imgdir name="9390501">
+		<string name="name" value="Raphael"/>
+	</imgdir>
+    <imgdir name="3501000">
+		<string name="name" value="Firefly Slime"/>
+	</imgdir>
+    <imgdir name="3501001">
+		<string name="name" value="Fairy Slime"/>
+	</imgdir>
+    <imgdir name="3501002">
+		<string name="name" value="Water Sprite"/>
+	</imgdir>
+    <imgdir name="3501003">
+		<string name="name" value="Forest Sprite"/>
+	</imgdir>
+    <imgdir name="3501004">
+		<string name="name" value="Grumpy Tome"/>
+	</imgdir>
+    <imgdir name="3501005">
+		<string name="name" value="Raging Tome"/>
+	</imgdir>
+    <imgdir name="3501006">
+		<string name="name" value="Oniony"/>
+	</imgdir>
+    <imgdir name="3501007">
+		<string name="name" value="Turnipy"/>
+	</imgdir>
+    <imgdir name="3501008">
+		<string name="name" value="Mole King"/>
+	</imgdir>
+    <imgdir name="3501009">
+		<string name="name" value="Mystic Wisp"/>
+	</imgdir>
+    <imgdir name="8148000">
+		<string name="name" value="Typhon"/>
+	</imgdir>
+</imgdir>

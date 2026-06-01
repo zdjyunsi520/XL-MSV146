@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1902016"><string name="name" value="狼人"/></imgdir>
+    <imgdir name="1902017"><string name="name" value="狼人"/></imgdir>
+    <imgdir name="1902018"><string name="name" value="莱科"/></imgdir>
+    <imgdir name="1902020"><string name="name" value="热气球"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902021"><string name="name" value="机器人"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902036"><string name="name" value="枫叶赛车"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902038"><string name="name" value="粉色踏板车"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902039"><string name="name" value="黑色踏板车"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902040"><string name="name" value="1阶龙"/></imgdir>
+    <imgdir name="1902041"><string name="name" value="2阶龙"/></imgdir>
+    <imgdir name="1902042"><string name="name" value="3阶龙"/></imgdir>
+    <imgdir name="1902047"><string name="name" value="直升机"/><string name="desc" value="需要等级70以上，且拥有游戏内坐骑才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902048"><string name="name" value="雷克斯的鬣狗"/></imgdir>
+    <imgdir name="1902049"><string name="name" value="拿破仑坐骑"/></imgdir>
+    <imgdir name="1902050"><string name="name" value="低骑手 "/></imgdir>
+    <imgdir name="1902061"><string name="name" value="兔子坐骑"/></imgdir>
+    <imgdir name="1902063"><string name="name" value="断头卡车"/></imgdir>
+    <imgdir name="1912000"><string name="name" value="马鞍"/></imgdir>
+    <imgdir name="1912003"><string name="name" value="青蛙外罩"/><string name="desc" value="需要拥有游戏内坐骑#c青蛙#才能使用，#c反抗军#无法使用。"/></imgdir>
+    <imgdir name="1912004"><string name="name" value="鸵鸟外罩"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5110008">
+        <string name="name" value="Brawling Mastery" />
+        <string name="desc" value="Increases the damage of Backspin Blow, Double Uppercut, and Corkscrew Blow." />
+        <string name="h" value="Backspin Blow Damage: +#x%, Double Uppercut Damage (per hit): +#y%, Corkscrew Blow Damage: +#z%" />
+    </imgdir>

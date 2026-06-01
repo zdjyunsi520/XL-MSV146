@@ -1,0 +1,5 @@
+<imgdir name="5101014">
+        <string name="name" value="Energy Vortex" />
+        <string name="desc" value="Create a wild energy vortex to attack enemies." />
+        <string name="h" value="Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

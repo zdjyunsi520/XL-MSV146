@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20001157"><string name="name" value="直升机"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。\n如果你掌握了#翱翔#技能，按上方向键和跳跃键即可升空。\n激活时消耗5 MP。\n最长飞行时间：#0秒#"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001158"><string name="name" value="巡逻警车"/><string name="desc" value="[最高等级：1]\n骑乘巡逻警车。\n右键点击可让其他玩家搭便车。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001162"><string name="name" value="巴洛古的狱炎"/><string name="desc" value="召唤巴洛古的灵魂，用猛烈的地狱之火灼烧全屏所有敌人。"/><string name="h1" value="对15个敌人造成2000%伤害。暴击概率 +20%，冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001163"><string name="desc" value="召唤暗黑龙王的灵魂，用烈焰沐浴你周围的敌人。被命中的敌人将持续受到火焰伤害。"/><string name="h1" value="对15个敌人造成3000%伤害。暴击概率 +20%，每秒持续伤害持续10秒，冷却时间10分钟。"/><string name="name" value="暗黑龙王的烈焰吐息"/></imgdir>
+    <imgdir name="20001164"><string name="name" value="雷克斯的冲锋"/><string name="desc" value="召唤雷克斯的灵魂，瞬间歼灭前方的敌人。对BOSS怪物造成正常伤害。"/><string name="h1" value="对普通怪物一击必杀，对BOSS怪物造成900%伤害。冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001165"><string name="name" value="阿尼的审判"/><string name="desc" value="召唤阿尼的灵魂，用忽视防御的强力巨锤碾压敌人。"/><string name="h1" value="对1个敌人造成4000%伤害。暴击概率 +40%，无视敌人防御，冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001171"><string name="name" value="龙骑手的能量吐息"/><string name="desc" value="召唤龙骑手的灵魂，用强力的能量爆破攻击前方敌人。被命中的敌人将持续受到伤害。"/><string name="h1" value="对15个敌人造成2000%伤害。暴击概率 +40%，10秒内持续造成300%伤害，冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001172"><string name="name" value="凡雷恩的狮斩"/><string name="desc" value="召唤凡雷恩的灵魂，对敌人发动毁灭性的一击。"/><string name="h1" value="对1个敌人造成5000%伤害。暴击概率 +30%，无视敌人防御，冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001173"><string name="name" value="扎昆的冲天烈焰"/><string name="desc" value="召唤扎昆的灵魂，用冲天火焰灼烧周围的敌人。被命中的敌人将持续受到火焰伤害。"/><string name="h1" value="对15个敌人造成3000%伤害。暴击概率 +20%，每秒持续伤害持续10秒，冷却时间10分钟。"/></imgdir>
+    <imgdir name="20001174"><string name="name" value="摇滚之魂的毁灭打击"/><string name="desc" value="召唤摇滚之魂持续2分钟，眩晕附近的敌人。"/><string name="h1" value="对15个敌人造成500%伤害并眩晕。持续2分钟，冷却时间15分钟。"/></imgdir>
+    <imgdir name="20001175"><string name="name" value="武公的绝对毁灭"/><string name="desc" value="汲取武公灵魂的力量，30秒内对敌人造成双倍伤害。"/><string name="h1" value="伤害x2，持续30秒，冷却时间15分钟。"/></imgdir>
+    <imgdir name="20001176"><string name="name" value="品克缤的超级痛痛区域"/><string name="desc" value="召唤品克缤的灵魂持续2分钟，对附近敌人造成巨大伤害。"/><string name="h1" value="对15个敌人造成1500%伤害。持续2分钟，冷却时间15分钟。"/></imgdir>
+    <imgdir name="20001179"><string name="name" value="纯白天使"/><string name="desc" value="[最高等级：1]\n召唤封印在纯白天使祝福中的纯白天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20008000"><string name="name" value="高级轻功"/><string name="desc" value="[隐藏装备技能]\n一定时间内提升你的移动速度和跳跃力。"/><string name="h1" value="MP -50，速度 +20，跳跃力 +10，持续时间：200秒。"/></imgdir>
+    <imgdir name="20008001"><string name="name" value="高级神秘之门"/><string name="desc" value="[隐藏装备技能]\n生成一个通往最近城镇的传送门。在门消失之前可以自由进出。站在传送门上按上方向键即可使用。"/><string name="h1" value="MP -120，需要：魔法石x2，传送门持续时间：120秒。"/></imgdir>
+    <imgdir name="20008002"><string name="name" value="高级锐利之眼"/><string name="desc" value="[隐藏装备技能]\n发现敌人的弱点，赋予致命一击的能力。"/><string name="h1" value="MP消耗：80，暴击率：+10%，最大暴击伤害：+15%，持续时间：240秒"/></imgdir>
+    <imgdir name="20008003"><string name="name" value="高级极限体力"/><string name="desc" value="[隐藏装备技能]\n提升最大HP和最大MP。"/><string name="h1" value="MP -80，最大HP和最大MP +40%，持续240秒。"/></imgdir>
+    <imgdir name="20008004"><string name="name" value="高级战斗命令"/><string name="desc" value="[潜能技能] 暂时提升所有技能的等级。#c已达最高等级的技能不会提升。#\n例外：新手技能和战斗命令无法提升。"/><string name="h1" value="MP消耗：64，240秒内所有技能等级提升1级。"/></imgdir>
+    <imgdir name="20008005"><string name="name" value="高级祝福"/><string name="desc" value="[潜能技能]\n大幅提升攻击力、魔法攻击力、防御力、命中率、回避率、最大HP和最大MP。减少使用技能时的MP消耗。可与其他增益技能叠加（高级祝福除外）。"/><string name="h1" value="MP消耗：120。240秒内 - 武器攻击力：+20，魔法攻击力：+20，武器防御力 +425，魔法防御力 +425，命中率 +260，回避率 +260，最大HP +475，最大MP +475，MP消耗：-12%"/></imgdir>
+    <imgdir name="20008006"><string name="name" value="高级极速领域"/><string name="desc" value="[潜能技能]\n消耗HP和MP，一定时间内提升攻击速度1级。可与其他增益效果叠加（极速领域除外）。"/><string name="h1" value="HP消耗：120，MP消耗：120，240秒内攻击速度提升。"/></imgdir>
+</imgdir>

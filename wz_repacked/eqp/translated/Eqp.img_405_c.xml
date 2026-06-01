@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1052890"><string name="name" value="绝对实验室海盗套装"/></imgdir>
+    <imgdir name="1053067"><string name="name" value="神秘暗影海盗套装"/></imgdir>
+    <imgdir name="1053063"><string name="name" value="神秘暗影骑士套装"/></imgdir>
+    <imgdir name="1053064"><string name="name" value="神秘暗影法师套装"/></imgdir>
+    <imgdir name="1053065"><string name="name" value="神秘暗影弓手套装"/></imgdir>
+    <imgdir name="1053066"><string name="name" value="神秘暗影飞侠套装"/></imgdir>
+    <imgdir name="Mechanic"><imgdir name="1612000"><string name="name" value="铜制引擎"/></imgdir>
+    <imgdir name="1612001"><string name="name" value="青铜引擎"/></imgdir>
+    <imgdir name="1612002"><string name="name" value="铁制引擎"/></imgdir>
+    <imgdir name="1612003"><string name="name" value="黄金引擎"/></imgdir>
+    <imgdir name="1612004"><string name="name" value="纯金引擎"/></imgdir>
+    <imgdir name="1622000"><string name="name" value="铜制机械臂"/></imgdir>
+    <imgdir name="1622001"><string name="name" value="青铜机械臂"/></imgdir>
+    <imgdir name="1622002"><string name="name" value="铁制机械臂"/></imgdir>
+    <imgdir name="1622003"><string name="name" value="黄金机械臂"/></imgdir>
+    <imgdir name="1622004"><string name="name" value="纯金机械臂"/></imgdir>
+    <imgdir name="1632000"><string name="name" value="青铜机械腿"/></imgdir>
+    <imgdir name="1632001"><string name="name" value="铁制机械腿"/></imgdir>
+    <imgdir name="1632002"><string name="name" value="黄金机械腿"/></imgdir>
+    <imgdir name="1632003"><string name="name" value="纯金机械腿"/></imgdir>
+</imgdir>

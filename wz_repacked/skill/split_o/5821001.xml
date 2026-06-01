@@ -1,0 +1,7 @@
+<imgdir name="5821001">
+        <string name="name" value="Dragon Strike" />
+        <string name="desc" value="Summons a sleeping dragon from the depths of Maple World to damage multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Summons a sleeping dragon from the depths of Maple World to damage multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

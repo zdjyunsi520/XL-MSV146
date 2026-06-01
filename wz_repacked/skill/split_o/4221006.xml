@@ -1,0 +1,7 @@
+<imgdir name="4221006">
+        <string name="name" value="Smokescreen" />
+        <string name="desc" value="Drops a Smokescreen near you. All party members within Smokescreen range will not take damage for the duration. For attacks that are based on max HP ratios, the damage will be reduced. In addition, enemies inside the Smokescreen will take more critical damage." />
+        <string name="h" value="MP Cost: #mpCon, Critical Damage within the Smokescreen: +#x%, Damage Taken in Proportion to HP: -#y%, Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Drops a Smokescreen near you. All party members within Smokescreen range will not take damage for the duration. For attacks that are based on max HP ratios, the damage will be reduced. In addition, enemies inside the Smokescreen will take more critical damage." />
+        <string name="ph" value="MP Cost: #mpCon, Critical Damage within the Smokescreen: +#x%, Damage Taken in Proportion to HP: -#y%, Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

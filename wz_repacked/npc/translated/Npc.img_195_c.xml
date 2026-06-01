@@ -1,0 +1,114 @@
+<imgdir name="Npc.img">
+    <imgdir name="2460021">
+		<string name="name" value="切洛"/>
+		<string name="func" value="军需官"/>
+	</imgdir>
+    <imgdir name="2460022">
+		<string name="name" value="拉贡"/>
+		<string name="func" value="美容师"/>
+	</imgdir>
+    <imgdir name="2460023">
+		<string name="name" value="本尼迪克特"/>
+	</imgdir>
+    <imgdir name="2460024">
+		<string name="name" value="卡修斯"/>
+		<string name="d0" value="我只想要一件事..."/>
+		<string name="d1" value="我只想要一件事..."/>
+	</imgdir>
+    <imgdir name="2460025">
+		<string name="name" value="卡修斯的物品"/>
+		<string name="d0" value="（只剩下一小堆衣服和物品。）"/>
+		<string name="d1" value="（只剩下一小堆衣服和物品。）"/>
+	</imgdir>
+    <imgdir name="2460026">
+		<string name="name" value="朱丽叶"/>
+		<string name="d0" value="（朱丽叶躺在地上不省人事。）"/>
+		<string name="d1" value="（朱丽叶躺在地上不省人事。）"/>
+	</imgdir>
+    <imgdir name="2460027">
+		<string name="name" value="人形A"/>
+		<string name="d0" value="（人形已经停止工作。）"/>
+		<string name="d1" value="（人形A已经停止工作。）"/>
+	</imgdir>
+    <imgdir name="2470000">
+		<string name="name" value="赫拉"/>
+		<string name="d0" value="玩具城，一个时间停滞的村庄。它的过去已经停止。"/>
+		<string name="d1" value="玩具城，一个时间停滞的村庄。它的过去已经停止。"/>
+		<string name="n0" value="过去已经停止。"/>
+		<string name="n1" value="女神想要什么？"/>
+	</imgdir>
+    <imgdir name="2470001">
+		<string name="name" value="梅拉"/>
+		<string name="d0" value="玩具城，一个时间停滞的村庄。它在等待一个永远不会到来的未来。"/>
+		<string name="d1" value="玩具城，一个时间停滞的村庄。它在等待一个永远不会到来的未来。"/>
+		<string name="n0" value="时间像河流一样流淌。"/>
+		<string name="n1" value="无尽的等待..."/>
+	</imgdir>
+    <imgdir name="2470002">
+		<string name="name" value="顾问提贡"/>
+		<string name="d0" value="欢迎来到玩具城，孩子们的梦想成真之地！"/>
+		<string name="d1" value="欢迎来到玩具城，孩子们的梦想成真之地！"/>
+	</imgdir>
+    <imgdir name="2470003">
+		<string name="name" value="帕特里夏"/>
+		<string name="n0" value="我想被爱！"/>
+		<string name="n1" value="我看起来不够可爱。我需要在肚子里多塞点填充物。"/>
+		<string name="d0" value="看看我空空的肚子。我看起来像个骷髅！"/>
+		<string name="d1" value="我还是不觉得饱，但至少现在我看起来不像骷髅了！"/>
+	</imgdir>
+    <imgdir name="2470004">
+		<string name="name" value="卡尔经理"/>
+		<string name="d0" value="很高兴见到你。我是卡尔，这家玩具工厂的经理。我像往常一样忙碌。"/>
+		<string name="d1" value="很高兴见到你。我是卡尔，这家玩具工厂的经理。我像往常一样忙碌。"/>
+		<string name="n0" value="我是卡尔，这家玩具工厂的经理。"/>
+		<string name="n1" value="我们在这里制作实现孩子们希望和梦想的玩具。"/>
+	</imgdir>
+    <imgdir name="2470005">
+		<string name="name" value="罗伯特·霍利"/>
+		<string name="d0" value="我的职责是监督玩具生产。由于市场需求迅速增长，我从未如此忙碌过。"/>
+		<string name="d1" value="我的职责是监督玩具生产。由于市场需求迅速增长，我从未如此忙碌过。"/>
+		<string name="n0" value="工厂一天24小时不间断运转。"/>
+		<string name="n1" value="自从工厂开业以来，我们的机器就没有停止过运转。"/>
+	</imgdir>
+    <imgdir name="2470006">
+		<string name="name" value="时钟爷爷"/>
+		<string name="d0" value="我...不能...再...移动...了..."/>
+		<string name="d1" value="时钟滴答滴答，日夜不停。"/>
+		<string name="n0" value="我是时钟爷爷，玩具城最老的居民之一。"/>
+		<string name="n1" value="也许我应该显示温度而不是时间。"/>
+		<imgdir name="dialogue">
+			<string name="41305" value="时钟滴答滴答，日夜不停。"/>
+		</imgdir>
+    <imgdir name="2470007">
+		<string name="name" value="科林"/>
+		<string name="d0" value="我想让玩具城的时间再次流动。"/>
+		<string name="d1" value="我已经放弃了让玩具城时间流动的想法。是时候我该告别童年了。"/>
+		<string name="n0" value="我想长大。"/>
+		<string name="n1" value="无论如何，我再也不能是个孩子了。"/>
+	</imgdir>
+    <imgdir name="2470008">
+		<string name="name" value="内米"/>
+		<string name="d0" value="呃，我的零花钱已经花光了。"/>
+		<string name="d1" value="草莓糖果尝起来像真正的草莓。"/>
+		<string name="n0" value="草莓糖果，草莓糖果！"/>
+		<string name="n1" value="甜甜的糖果，美味的糖果！"/>
+	</imgdir>
+    <imgdir name="2470009">
+		<string name="name" value="口香糖机"/>
+	</imgdir>
+    <imgdir name="2470010">
+		<string name="name" value="皮埃尔先生"/>
+		<string name="d0" value="我的脑子里充满了娱乐观众的想法。"/>
+		<string name="d1" value="总有一天，我要展示世界上最伟大的魔术。"/>
+		<string name="n0" value="你想看魔术吗？"/>
+		<string name="n1" value="好的，看好我！"/>
+	</imgdir>
+    <imgdir name="2470011">
+		<string name="name" value="不倒翁1"/>
+		<string name="d0" value="我们不能再这样工作了。我们不是血汗工厂工人！"/>
+		<string name="d1" value="我们的示威按计划进行。我们将展示我们团结的力量！"/>
+	</imgdir>
+    <imgdir name="2470012">
+		<string name="name" value="不倒翁2"/>
+	</imgdir>
+</imgdir>

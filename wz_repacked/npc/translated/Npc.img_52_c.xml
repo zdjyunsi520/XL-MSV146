@@ -1,0 +1,127 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201006">
+		<string name="name" value="黛比助手"/>
+		<string name="func" value="大教堂摄影专家"/>
+		<string name="n0" value="你的相机准备好了吗？"/>
+		<string name="n1" value="你需要坐下吗？告诉我就行！"/>
+	</imgdir>
+    <imgdir name="9201007">
+		<string name="name" value="南希助手"/>
+		<string name="func" value="大教堂助手"/>
+		<string name="n0" value="婚礼太令人兴奋了！"/>
+		<string name="n1" value="准备好开始仪式时，来找我！"/>
+	</imgdir>
+    <imgdir name="9201009">
+		<string name="name" value="杰基助手"/>
+		<string name="func" value="教堂工作人员"/>
+		<string name="n0" value="婚礼太令人兴奋了！"/>
+		<string name="n1" value="准备好开始仪式时，来找我！"/>
+	</imgdir>
+    <imgdir name="9201010">
+		<string name="name" value="特拉维斯助手"/>
+		<string name="func" value="教堂摄影专家"/>
+		<string name="n0" value="你的相机准备好了吗？"/>
+		<string name="n1" value="你需要坐下吗？告诉我就行！"/>
+	</imgdir>
+    <imgdir name="9201012">
+		<string name="name" value="韦恩"/>
+		<string name="func" value="教堂婚礼协调员"/>
+		<string name="n0" value="你好。无论何时你准备好结婚，我都可以帮忙！"/>
+		<string name="n1" value="没什么比看到一对相爱的情侣更美好的了！"/>
+	</imgdir>
+    <imgdir name="9201014">
+		<string name="name" value="皮拉礼物"/>
+		<string name="func" value="婚礼策划师"/>
+		<string name="n0" value="送礼物还是收礼物？"/>
+		<string name="n1" value="你可以交给我！"/>
+	</imgdir>
+    <imgdir name="9201018">
+		<string name="name" value="90212博士"/>
+		<string name="func" value="改头换面魔术师"/>
+		<string name="n0" value="准备好改头换面了吗？我有完美的工具！"/>
+		<string name="n1" value="我是艺术家，会把你的脸打造成一件令人惊叹的美丽作品。"/>
+	</imgdir>
+    <imgdir name="9201032">
+		<string name="name" value="奇巧先生"/>
+		<string name="func" value="汽水服务员"/>
+		<string name="n0" value="该死的怪物！它们一直在吃我房子用的格雷厄姆饼干！"/>
+		<string name="n1" value="要是有人能帮我收集它们..."/>
+		<string name="d0" value="该死的怪物！它们一直在吃我房子用的格雷厄姆饼干！"/>
+		<string name="d1" value="谢谢你的帮助！"/>
+	</imgdir>
+    <imgdir name="9201036">
+		<string name="name" value="安吉丽克"/>
+		<string name="n0" value="有人能给我丈夫带点东西吗？"/>
+		<string name="n1" value="有人吗？"/>
+		<string name="d0" value="有人能给我丈夫带点东西吗？"/>
+		<string name="d1" value="非常感谢你的帮助。祝你旅途平安。祝你好运！"/>
+		<string name="func" value="婚礼礼物保管人"/>
+	</imgdir>
+    <imgdir name="9201038">
+		<string name="name" value="水手理查德"/>
+		<string name="n0" value="我想念我的妻子，但我不能停止工作。"/>
+		<string name="n1" value="也许她很快会送一个礼品篮..."/>
+		<string name="d0" value="我想念我的妻子，但我不能停止工作。也许她很快会送一个礼品篮..."/>
+		<string name="d1" value="非常感谢你的帮助。祝你旅途平安。祝你好运！"/>
+	</imgdir>
+    <imgdir name="9201039">
+		<string name="name" value="克劳迪娅"/>
+		<string name="n0" value="姑娘们小伙子们围过来，最好的发型师来镇上了！"/>
+		<string name="n1" value="我还需要新发型凝胶的材料！"/>
+		<string name="d0" value="姑娘们小伙子们围过来，最好的发型师来镇上了！"/>
+		<string name="d1" value="谢谢你的帮助！"/>
+	</imgdir>
+    <imgdir name="9201043">
+		<string name="name" value="强者阿莫斯"/>
+		<string name="n0" value="我是强者阿莫斯；阿莫里亚挑战是我的游戏！"/>
+		<string name="n1" value="开始吧！"/>
+		<string name="d0" value="我是强者阿莫斯；阿莫里亚挑战是我的游戏！"/>
+		<string name="d1" value="开始吧！"/>
+	</imgdir>
+    <imgdir name="9201044">
+		<string name="name" value="强者阿莫斯"/>
+		<string name="e0" value="哈哈哈！"/>
+		<string name="n0" value="我，强者阿莫斯，建造这个地方是为了测试你对配偶的爱。"/>
+		<string name="n1" value="杀不死你的会让你更强。"/>
+	</imgdir>
+    <imgdir name="9201045">
+		<string name="name" value="强者阿莫斯"/>
+		<string name="n0" value="现在轮到你把它打倒了。"/>
+		<string name="n1" value="坚强点！这是最后一个挑战！"/>
+	</imgdir>
+    <imgdir name="9201046">
+		<string name="name" value="强者阿莫斯"/>
+		<string name="n1" value="时间不多了！趁还来得及赶紧拿！"/>
+		<string name="n0" value="是时候庆祝了！击打那些箱子并领取你的奖励！"/>
+	</imgdir>
+    <imgdir name="9201047">
+		<string name="name" value="闪光人"/>
+		<string name="n0" value="你见过强者阿莫斯吗？他是我的朋友。"/>
+		<string name="n1" value="帮我打碎那面镜子！它只会给我们带来更多问题！"/>
+	</imgdir>
+    <imgdir name="9201048">
+		<string name="name" value="强者阿莫斯"/>
+		<string name="n0" value="我是强者阿莫斯；阿莫里亚挑战是我的游戏！"/>
+		<string name="n1" value="开始吧！"/>
+	</imgdir>
+    <imgdir name="9201049">
+		<string name="name" value="智者埃姆斯"/>
+		<string name="func" value="阿莫里亚的指路明灯"/>
+		<string name="n0" value="婚礼是我的专长。有问题吗？我也许能帮忙！"/>
+		<string name="n1" value="我可以提供一些你可能觉得有用的信息。随时来找我！"/>
+	</imgdir>
+    <imgdir name="9201050">
+		<string name="name" value="冰鸟·斯利姆"/>
+		<string name="func" value="新叶城市长"/>
+		<string name="n0" value="听到召唤，从大到小！新叶城欢迎所有人！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+		<string name="d0" value="听到召唤，从大到小！新叶城欢迎所有人！"/>
+		<string name="d1" value="做得好！你已经解答了我关于新叶城的所有问题。祝你旅途愉快！"/>
+	</imgdir>
+    <imgdir name="9201051">
+		<string name="name" value="约翰·巴里卡德"/>
+		<string name="n0" value="想冒险吗？"/>
+		<string name="d0" value="我还在努力让这些该死的超级符文工作！你和新叶城的其他人谈过了吗？没有？那就快去！我们不能让杰克失望。福克斯威特教授、斯利姆市长或莉塔可能都知道一些关于这个的事情。谁知道呢，也许连闪光人或埃尔帕姆以前也见过这种文字！全面覆盖，孩子！"/>
+		<string name="n1" value="别害怕！臭名昭著的寻宝猎人约翰·巴里卡德来了！"/>
+	</imgdir>
+</imgdir>

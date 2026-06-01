@@ -1,0 +1,7 @@
+<imgdir name="4001334">
+        <string name="name" value="双重刺击" />
+        <string name="desc" value="快速刺击敌人两次！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="快速刺击敌人两次！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 2" />
+    </imgdir>

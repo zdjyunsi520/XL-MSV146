@@ -1,0 +1,232 @@
+<imgdir name="5000041">
+		<string name="c1" value="stupid|ihateyou|dummy"/>
+		<string name="c1_s1" value="Ahhh.."/>
+		<string name="c1_s2" value="Hey, let's not get mean here!"/>
+		<string name="c1_f1" value="What?"/>
+		<string name="c1_f2" value="Duh..."/>
+		<string name="c2" value="stupid|ihateyou|dummy"/>
+		<string name="c2_s1" value="So mean...*sniff*"/>
+		<string name="c2_s2" value="How can you say such a thing!"/>
+		<string name="c2_s3" value="I'm hurt..."/>
+		<string name="c2_s4" value="I feel like crying..."/>
+		<string name="c2_f1" value="No, YOU'RE stupid."/>
+		<string name="c2_f2" value="I don't like you either."/>
+		<string name="c2_f3" value="Whatever... you don't mean it."/>
+		<string name="c2_f4" value="No, that's not me!"/>
+		<string name="c3" value="stupid|ihateyou|dummy"/>
+		<string name="c3_s1" value="...my love for you melts with each tear..."/>
+		<string name="c3_s2" value="Joke? You didn't mean it... right?"/>
+		<string name="c3_s3" value="I am so hurt right now..."/>
+		<string name="c3_s4" value="Do you really not like me?"/>
+		<string name="c3_f1" value="Watch that mouth--unless you want a snowball in it."/>
+		<string name="c3_f2" value="Hey, I didn't do anything!"/>
+		<string name="c3_f3" value="You need a new haircut, but I'm not saying anything."/>
+		<string name="c3_f4" value="Take that back right now!"/>
+		<string name="c4" value="stupid|ihateyou|dummy"/>
+		<string name="c4_s1" value="I feel like melting away..."/>
+		<string name="c4_s2" value="Please don't hate me!"/>
+		<string name="c4_s3" value="That wasn't for me, right?"/>
+		<string name="c4_s4" value="Do you really not like me? That was mean..."/>
+		<string name="c4_f1" value="Think snowballs don't hurt? Say that again and find out."/>
+		<string name="c4_f2" value="I hear Maple Claws is bringing you coal this year..."/>
+		<string name="c4_f3" value="I'm so hot right now, I feel like melting!"/>
+		<string name="c4_f4" value="You just told me you loved me!"/>
+		<string name="c5" value="loveyou|mylove|ilikeyou"/>
+		<string name="c5_s1" value="Me too~"/>
+		<string name="c5_s2" value="Yea~ "/>
+		<string name="c5_f1" value="Huh?"/>
+		<string name="c5_f2" value="What?"/>
+		<string name="c6" value="loveyou|mylove|ilikeyou"/>
+		<string name="c6_s1" value="What?"/>
+		<string name="c6_s2" value="That makes me feel good!"/>
+		<string name="c6_s3" value="I love you too! "/>
+		<string name="c6_s4" value="Me too!!"/>
+		<string name="c6_f1" value="Louder!"/>
+		<string name="c6_f2" value="I'm hungry..."/>
+		<string name="c6_f3" value="Nice try...not really."/>
+		<string name="c6_f4" value="I don't know what love is."/>
+		<string name="c7" value="loveyou|mylove|ilikeyou"/>
+		<string name="c7_s1" value="Now that just made my day~"/>
+		<string name="c7_s2" value="Ahhhh... nothing feels quite like being loved~"/>
+		<string name="c7_s3" value="Thank you... for loving me so much!"/>
+		<string name="c7_s4" value="I love you too!  It's the holiday spirit!"/>
+		<string name="c7_f1" value="You should only say that to someone you really love."/>
+		<string name="c7_f2" value="What? I can't hear you."/>
+		<string name="c7_f3" value="You love a snowman? Disturbing..."/>
+		<string name="c7_f4" value="You just told me you didn't like me!"/>
+		<string name="c8" value="loveyou|mylove|ilikeyou"/>
+		<string name="c8_s1" value="I know you love me. I can feel it~"/>
+		<string name="c8_s2" value="Love me more~ more~"/>
+		<string name="c8_s3" value="That just made me feel awesome... I feel like flying~~"/>
+		<string name="c8_s4" value="I love you too~ Tis the season of love!"/>
+		<string name="c8_f1" value="You just love me for my snow."/>
+		<string name="c8_f2" value="Um...I actually like someone else..."/>
+		<string name="c8_f3" value="I'm too cold to appreciate that."/>
+		<string name="c8_f4" value="Sorry, the snowman you're trying to reach isn't here. Leave a message after the beep... BEEP."/>
+		<string name="c9" value="merrychristmas"/>
+		<string name="c9_s1" value="Merry Christmas."/>
+		<string name="c9_s2" value="Wow, I loooove Christmas!"/>
+		<string name="c9_f1" value="I'm bored."/>
+		<string name="c9_f2" value="What's so &quot;Merry&quot; about it?"/>
+		<string name="c10" value="merrychristmas"/>
+		<string name="c10_s1" value="Merry Christmas!"/>
+		<string name="c10_s2" value="I've been waiting for this! Merry Christmas!"/>
+		<string name="c10_s3" value="Did you get some nice Christmas presents?"/>
+		<string name="c10_s4" value="I've been good this year. I hope Maple Claws will give me some presents this year!"/>
+		<string name="c10_f1" value="What? Is it Christmas already?"/>
+		<string name="c10_f2" value="I don't like Christmas."/>
+		<string name="c10_f3" value="Presents?"/>
+		<string name="c10_f4" value="Where is my gift? Hmph!"/>
+		<string name="c11" value="merrychristmas"/>
+		<string name="c11_s1" value="Merry Christmas!"/>
+		<string name="c11_s2" value="I absolutely love Christmas!"/>
+		<string name="c11_s3" value="Hope you get some awesome Christmas presents this year!"/>
+		<string name="c11_s4" value="Christmas is upon is, and I hope you find your true love this year!"/>
+		<string name="c11_f1" value="When's Christmas anyway?"/>
+		<string name="c11_f2" value="Is it over yet?"/>
+		<string name="c11_f3" value="No presents? Then feed me--we'll call it even."/>
+		<string name="c11_f4" value="What?"/>
+		<string name="c12" value="merrychristmas"/>
+		<string name="c12_s1" value="Merry Christmas to your friends and family!"/>
+		<string name="c12_s2" value="Did you get a lot of presents?"/>
+		<string name="c12_s3" value="Christmas always excites me!"/>
+		<string name="c12_s4" value="Hope you enjoy a very Merry Christmas!"/>
+		<string name="c12_f1" value="You can celebrate later.  Let's do something else now."/>
+		<string name="c12_f2" value="And you didn't get me anything.  Sometimes I wonder where you are in this relationship."/>
+		<string name="c12_f3" value="No presents? Are you kidding me?"/>
+		<string name="c12_f4" value="Advice: Snowman + Christmas + No Presents = Failure."/>
+		<string name="c13" value="cutie|adorable|cute|pretty"/>
+		<string name="c13_s1" value="Like this? "/>
+		<string name="c13_s2" value="Cute, right?"/>
+		<string name="c13_f1" value="...?"/>
+		<string name="c13_f2" value="...what?"/>
+		<string name="c14" value="cutie|adorable|cute|pretty"/>
+		<string name="c14_s1" value="Presents please~"/>
+		<string name="c14_s2" value="Don't I look cute?"/>
+		<string name="c14_s3" value="What do you think of my eyes? Aren't they just adorable?"/>
+		<string name="c14_s4" value="I'll do some cutesy stuff, as long as you give me some presents~"/>
+		<string name="c14_f1" value="Get me the latest copy of Snowman Styles, and I'll do it."/>
+		<string name="c14_f2" value="Um...just because you said so?  Please."/>
+		<string name="c14_f3" value="You're embarrassing me."/>
+		<string name="c14_f4" value="What do you want me to do?"/>
+		<string name="c15" value="cutie|adorable|cute|pretty"/>
+		<string name="c15_s1" value="What do you think?"/>
+		<string name="c15_s2" value="The best I got right now..."/>
+		<string name="c15_s3" value="Not bad, eh?"/>
+		<string name="c15_s4" value="You like? I think I'm pretty cute..."/>
+		<string name="c15_f1" value="I'm tired. I need some rest."/>
+		<string name="c15_f2" value="Not today."/>
+		<string name="c15_f3" value="I'll do it tomorrow."/>
+		<string name="c15_f4" value="You didn't even feed me!"/>
+		<string name="c16" value="cutie|adorable|cute|pretty"/>
+		<string name="c16_s1" value="I'm cute everywhere!"/>
+		<string name="c16_s2" value="You know you like me~ I like you too!"/>
+		<string name="c16_s3" value="I get that a lot! "/>
+		<string name="c16_s4" value="You're making me melt!"/>
+		<string name="c16_f1" value="You know what's cute?  Balrogs.  Let's go hunt some!"/>
+		<string name="c16_f2" value="It's too hot in here..."/>
+		<string name="c16_f3" value="Yeah, whatever.  You just want something from me..."/>
+		<string name="c16_f4" value="I just want to rest.  Maybe later."/>
+		<string name="c17" value="bad|no|badgirl|badboy"/>
+		<string name="c17_s1" value="*Sniff..."/>
+		<string name="c17_s2" value="*Sniff sniff..."/>
+		<string name="c17_f1" value="Are you kidding me?"/>
+		<string name="c17_f2" value="What did you just say?"/>
+		<string name="c18" value="bad|no|badgirl|badboy"/>
+		<string name="c18_s1" value="*Sniff sniff..."/>
+		<string name="c18_s2" value="I am really sorry..."/>
+		<string name="c18_s3" value="I won't do it again..."/>
+		<string name="c18_s4" value="Please don't do that!"/>
+		<string name="c18_f1" value="What did I do?"/>
+		<string name="c18_f2" value="What are you doing? I did nothing wrong."/>
+		<string name="c18_f3" value="Say it again! SAY. IT. AGAIN."/>
+		<string name="c18_f4" value="Coming from you? Pfft..."/>
+		<string name="c19" value="bad|no|badgirl|badboy"/>
+		<string name="c19_s1" value="I'm so sorry..."/>
+		<string name="c19_s2" value="I won't ever do it again..."/>
+		<string name="c19_s3" value="Please forgive me..."/>
+		<string name="c19_s4" value="I'll be better..."/>
+		<string name="c19_f1" value="Do you want me to hit you with a snowball?"/>
+		<string name="c19_f2" value="That's it.  Let's take this outside."/>
+		<string name="c19_f3" value="I won't ever do it aga--hahahaha!  Sorry, couldn't hold it in."/>
+		<string name="c19_f4" value="I dare you to say that again!"/>
+		<string name="c20" value="bad|no|badgirl|badboy"/>
+		<string name="c20_s1" value="Please forgive me. It's really my fault."/>
+		<string name="c20_s2" value="I still like you, though."/>
+		<string name="c20_s3" value="I'll be good. I'm a good snowman."/>
+		<string name="c20_s4" value="I won't go against you. I'll behave."/>
+		<string name="c20_f1" value="I am not in a good mood. Don't push me."/>
+		<string name="c20_f2" value="Wanna fight?"/>
+		<string name="c20_f3" value="If you keep doing that, I'll throw some snowballs at you."/>
+		<string name="c20_f4" value="I double dare you to say that again!"/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="Did you get a lot of Christmas presents?"/>
+		<string name="c21_s2" value="Merry Christmas"/>
+		<string name="c21_s3" value="I loooove Christmas. Don't you?"/>
+		<string name="c21_s4" value="Winter's the best time of the year.  I hate summer..."/>
+		<string name="c21_f1" value="Don't talk to me. "/>
+		<string name="c21_f2" value="I don't talk just because you tell me to."/>
+		<string name="c21_f3" value="You don't have friends, right? Why do you keep bothering me?"/>
+		<string name="c21_f4" value="*hands you a mint*"/>
+		<string name="c22" value="talk|chat|say"/>
+		<string name="c22_s1" value="I'm right at home in El Nath!"/>
+		<string name="c22_s2" value="Cool as a fan!"/>
+		<string name="c22_s3" value="You're such an awesome friend. Let's go hunting!"/>
+		<string name="c22_s4" value="I'm freezing...ok, not really."/>
+		<string name="c22_f1" value="Am I the only friend you have?"/>
+		<string name="c22_f2" value="Don't make me do things."/>
+		<string name="c22_f3" value="Hah... no, I won't say anything."/>
+		<string name="c22_f4" value="I don't feel like talking. Let's go hunting."/>
+		<string name="c23" value="talk|chat|say"/>
+		<string name="c23_s1" value="I'm so cool...sorry, I had to!"/>
+		<string name="c23_s2" value="Ice, Ice..."/>
+		<string name="c23_s3" value="Loved by many, appreciated by few. That's the life of a snowman for you."/>
+		<string name="c23_s4" value="Isn't Christmas awesome? What do you feel like getting?"/>
+		<string name="c23_f1" value="Are you bored? Well, I'm not."/>
+		<string name="c23_f2" value="If you hang out with me more, then I'll talk."/>
+		<string name="c23_f3" value="How many Caramel Onions did you eat? I can smell your breath from here!"/>
+		<string name="c23_f4" value="You told me to talk, and here you are, not listening. I'm hurt."/>
+		<string name="c24" value="sleep|sleepy|gotobed"/>
+		<string name="c24_s1" value="I'm tired... I need some sleep."/>
+		<string name="c24_s2" value="We did hunt a lot today... let's get some sleep."/>
+		<string name="c24_s3" value="Zzzzz..."/>
+		<string name="c24_f1" value="...?"/>
+		<string name="c24_f2" value="Now? I'm not tired, though."/>
+		<string name="c24_f3" value="Why? I'm wide awake."/>
+		<string name="c25" value="sleep|sleepy|gotobed"/>
+		<string name="c25_s1" value="Off to dreamland~"/>
+		<string name="c25_s2" value="How did you know I was tired?"/>
+		<string name="c25_s3" value="Zzzzz..."/>
+		<string name="c25_f1" value="Hey, I was dozing off until now! I wanna play!"/>
+		<string name="c25_f2" value="Snowmen don't need rest!"/>
+		<string name="c25_f3" value="Too many people around."/>
+		<string name="c26" value="sleep|sleepy|gotobed"/>
+		<string name="c26_s1" value="I'll see you in dreamland!!"/>
+		<string name="c26_s2" value="I am soooo tired right now... zzzzz"/>
+		<string name="c26_s3" value="zzzzz..."/>
+		<string name="c26_f1" value="I can't sleep. Let's go somewhere!"/>
+		<string name="c26_f2" value="No pillow, no sleep. "/>
+		<string name="c26_f3" value="I can't sleep! I am too excited about those presents!"/>
+		<string name="c27" value="change"/>
+		<string name="c27_s1" value="Tada! Cool, huh?"/>
+		<string name="c27_s2" value="Did you see it? Or was it too fast for you?"/>
+		<string name="c27_s3" value="What do you think? Don't I look awesome?"/>
+		<string name="c27_f1" value="I'm tired."/>
+		<string name="c27_f2" value="You can't make me!"/>
+		<string name="c27_f3" value="I refuse to change on an empty stomach."/>
+		<string name="c28" value="change"/>
+		<string name="c28_s1" value="I can do that! Look at me!!!"/>
+		<string name="c28_s2" value="Pay attention, because you might miss it!"/>
+		<string name="c28_s3" value="Nice, huh? There's nothing quite like it!"/>
+		<string name="c28_f1" value="Why? Because you said so? Pfft..."/>
+		<string name="c28_f2" value="Why don't you do it for once? There's a change for you!"/>
+		<string name="c28_f3" value="Think it's that easy? I'd like to see you try!"/>
+		<string name="f1_s" value="Wow, it's delicious!"/>
+		<string name="f1_f" value="..."/>
+		<string name="f2_s" value="Awesome! There's nothing quite like icicles!"/>
+		<string name="f2_f" value="Make me a milkshake."/>
+		<string name="f3_s" value="Oh yeah! I love people that feed me!"/>
+		<string name="f3_f" value="This is nasty. Do I look like a Turkey to you?"/>
+		<string name="f4_s" value="I love ice cold food!"/>
+		<string name="f4_f" value="Is that shaved ice? Yuck!"/>
+	</imgdir>

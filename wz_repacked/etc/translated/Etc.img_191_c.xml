@@ -1,0 +1,85 @@
+<imgdir name="Etc.img">
+    <imgdir name="4162008">
+			<string name="name" value="怪物清除日志"/>
+			<string name="desc" value="来自管理员的怪物清除日志。每天击败200个怪物即可获得盖章。
+#c双击查看你的怪物清除记录和奖励#"/>
+		</imgdir>
+    <imgdir name="4162009">
+			<string name="name" value="记忆日志"/>
+			<string name="desc" value="记录你的传说记忆，让它们永远留存！通过每天接收并完成一个记忆制作活动，你的记忆将被自动记录。双击检查"/>
+		</imgdir>
+    <imgdir name="4162010">
+			<string name="name" value="迷你枫树培育日志"/>
+			<string name="desc" value="用于记录你培育迷你枫树进度的日志。
+#c双击查看你的进度#"/>
+		</imgdir>
+    <imgdir name="4162011">
+			<string name="name" value="圣诞树日志"/>
+			<string name="desc" value="用于记录你种植自己圣诞树进度的日志。点击打开"/>
+		</imgdir>
+    <imgdir name="4162012">
+			<string name="name" value="传说奖项申请"/>
+			<string name="desc" value="你从嘎嘎那里收到的申请。打开它可以查看你可以参与的活动和奖励列表。
+"/>
+		</imgdir>
+    <imgdir name="4162013">
+			<string name="name" value="石头剪刀布积分卡"/>
+			<string name="desc" value="用于记录你与嘎嘎玩石头剪刀布输赢的积分卡"/>
+		</imgdir>
+    <imgdir name="4162014">
+			<string name="name" value="训练日志"/>
+			<string name="desc" value="最多记录10天的训练日志"/>
+		</imgdir>
+    <imgdir name="4170000">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="射手村的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170001">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="魔法森林的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170002">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="废弃城市的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170003">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="佩恩的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170004">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="伊尔的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170005">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="路德贝里姆的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170006">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="奥西的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170007">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="水族馆的小猪下的蛋。蛋非常坚硬，除非使用特殊工具，否则不会破裂"/>
+		</imgdir>
+    <imgdir name="4170009">
+			<string name="name" value="小猪蛋"/>
+			<string name="desc" value="诺提勒斯的小猪下的蛋。蛋坚硬如铁，除非使用特殊装置，否则不会破裂。#c双击放入孵化器#"/>
+		</imgdir>
+    <imgdir name="4170012">
+			<string name="name" value="DS蛋"/>
+			<string name="desc" value="从DS蛋篮中取出的小蛋。蛋坚硬如钢，没有特殊装置无法打开。#c双击将放入孵化器#"/>
+		</imgdir>
+    <imgdir name="4170023">
+			<string name="name" value="花生"/>
+			<string name="desc" value="怪物掉落的小脆零食。它有坚硬的外壳，需要花生机器才能打开"/>
+		</imgdir>
+    <imgdir name="4170024">
+			<string name="name" value="冰块"/>
+			<string name="desc" value="怪物掉落的坚硬冰块。使用微波炉解冻"/>
+		</imgdir>
+    <imgdir name="4170025">
+			<string name="name" value="英雄钥匙"/>
+			<string name="desc" value="可以从怪物身上获得或从杂货店购买的小钥匙。在#c魔法音乐盒#上使用它，可以看到英雄们一直在收集的秘密物品"/>
+		</imgdir>
+</imgdir>

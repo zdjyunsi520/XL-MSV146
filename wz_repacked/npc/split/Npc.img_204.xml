@@ -1,0 +1,97 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390342">
+		<string name="name" value="Lai"/>
+		<string name="d0" value="What do you need, kid?"/>
+		<string name="d1" value="What do you need, kid?"/>
+	</imgdir>
+    <imgdir name="9390343">
+		<string name="name" value="Eka"/>
+		<string name="d0" value="I'm trying to preen myself here!"/>
+		<string name="d1" value="I'm trying to preen myself here!"/>
+	</imgdir>
+    <imgdir name="9390344">
+		<string name="name" value="Utah"/>
+		<string name="n0" value="When's Evan coming?"/>
+		<string name="n1" value="Do buildings always take this long to build?"/>
+		<string name="d0" value="Help! Save my life!"/>
+		<string name="d1" value="I appreciate the help earlier. See ya around!"/>
+	</imgdir>
+    <imgdir name="9390346">
+		<string name="name" value="Vicky"/>
+		<string name="d0" value="I-I need to buy... EVERYTHING."/>
+		<string name="d1" value="I-I need to buy... EVERYTHING."/>
+	</imgdir>
+    <imgdir name="9390347">
+		<string name="name" value="Vincent"/>
+		<string name="d0" value="You see the way Vicky looks at me? Totally in love."/>
+		<string name="d1" value="You see the way Vicky looks at me? Totally in love."/>
+	</imgdir>
+    <imgdir name="9390348">
+		<string name="name" value="Victor "/>
+		<string name="d0" value="Get outta here before Vicky sees you."/>
+		<string name="d1" value="Get outta here before Vicky sees you."/>
+	</imgdir>
+    <imgdir name="9390349">
+		<string name="name" value="Vicky"/>
+	</imgdir>
+    <imgdir name="9390350">
+		<string name="name" value="Vincent"/>
+		<string name="d0" value="You see the way Vicky looks at me? Totally in love."/>
+		<string name="d1" value="You see the way Vicky looks at me? Totally in love."/>
+	</imgdir>
+    <imgdir name="9390253">
+		<string name="name" value="Maestra Fiametta"/>
+		<string name="n0" value="Do you want to be rich? Because I do."/>
+		<string name="n1" value="Voyages aren't always smooth."/>
+		<string name="d0" value="Can I help you?"/>
+	</imgdir>
+    <imgdir name="9390351">
+		<string name="name" value="Victor"/>
+	</imgdir>
+    <imgdir name="9390352">
+		<string name="name" value="Dug"/>
+		<string name="d0" value="You gotta know the past if you want to have a future."/>
+		<string name="d1" value="You gotta know the past if you want to have a future."/>
+	</imgdir>
+    <imgdir name="9390353">
+		<string name="name" value="Canary"/>
+		<string name="d0" value="Artifacts are like time machines! They let you get a glimpse into the past."/>
+		<string name="d1" value="Artifacts are like time machines! They let you get a glimpse into the past."/>
+	</imgdir>
+    <imgdir name="9390354">
+		<string name="name" value="Minah"/>
+		<string name="d0" value="Where? Where? Wait... Wait isn't this?"/>
+		<string name="d1" value="Where? Where? Wait... Wait isn't this?"/>
+	</imgdir>
+    <imgdir name="9390355">
+		<string name="name" value="Nonvon Leon"/>
+		<string name="d0" value="I am the king of all beggars. Won't you please agree? "/>
+		<string name="d1" value="I am the king of all beggars. Won't you please agree? "/>
+	</imgdir>
+    <imgdir name="9390356">
+		<string name="name" value="Alfonse White"/>
+		<string name="d0" value="Orbis's clouds are fluffy and white, just like me!"/>
+		<string name="d1" value="Orbis's clouds are fluffy and white, just like me!"/>
+	</imgdir>
+    <imgdir name="9390357">
+		<string name="name" value="Alfonse Red"/>
+		<string name="d0" value="Orbis's flowers are delicate and pink, just like me!"/>
+		<string name="d1" value="Orbis's flowers are delicate and pink, just like me!"/>
+	</imgdir>
+    <imgdir name="9390358">
+		<string name="name" value="Alfonse Blue"/>
+		<string name="d0" value="Orbis's sky is clear and blue, just like me!"/>
+		<string name="d1" value="Orbis's sky is clear and blue, just like me!"/>
+	</imgdir>
+    <imgdir name="9390359">
+		<string name="name" value="Odinsson"/>
+	</imgdir>
+    <imgdir name="9390360">
+		<string name="name" value="Nonvon Leon"/>
+	</imgdir>
+    <imgdir name="9390361">
+		<string name="name" value="Mudry"/>
+		<string name="d0" value="It gets rough sometimes, being alone."/>
+		<string name="d1" value="It gets rough sometimes, being alone."/>
+	</imgdir>
+</imgdir>

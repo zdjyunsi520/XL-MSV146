@@ -1,0 +1,98 @@
+<imgdir name="Consume.img">
+    <imgdir name="2047814">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +9 to +11\r\nAll Stats: +3\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="Magical Scroll for Two-Handed Weapon for ATT"/>
+	</imgdir>
+    <imgdir name="2047946">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon Attack: +1 to +2"/>
+		<string name="desc" value="Improves Weapon Attack on armor."/>
+		<string name="name" value="Scroll for Armor for ATT 70%"/>
+	</imgdir>
+    <imgdir name="2047947">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMagic ATT: +1 to +2"/>
+		<string name="desc" value="Improves Magic Attack on armor."/>
+		<string name="name" value="Scroll for Armor for Magic ATT 70%"/>
+	</imgdir>
+    <imgdir name="2048211">
+		<string name="autodesc" value="\r\n#cSuccess: 10%\r\nItem not destroyed on failure.\r\n#"/>
+		<string name="desc" value="#cDouble-click# to add another Bonus Potential line to a piece of equipment with 3 or less existing Bonus Potentials."/>
+		<string name="name" value="January Potential Slot Carver"/>
+	</imgdir>
+    <imgdir name="2048212">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\n#"/>
+		<string name="desc" value="#cDouble-click# to add another Bonus Potential line to a piece of equipment with 3 or less existing Bonus Potentials."/>
+		<string name="name" value="Perfect Potential Slot Carver"/>
+	</imgdir>
+    <imgdir name="2048313">
+		<string name="autodesc" value="\r\nSuccess Rate: 80%\r\n"/>
+		<string name="desc" value="Adds Bonus Potential to a #cHeart Necklace# that does not have Bonus Potentials. Does not deduct from available upgrades. \n#cCan only be used on Heart Necklaces that cannot have Bonus Potentials.#"/>
+		<string name="name" value="Heart Necklace Bonus Potential Scroll"/>
+	</imgdir>
+    <imgdir name="2048804">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +4 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Pet equipment."/>
+		<string name="name" value="Premium Scroll for Pet Equip for Weapon ATT 100%"/>
+	</imgdir>
+    <imgdir name="2048805">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic ATT: +4 to +5\r\n#"/>
+		<string name="desc" value="Improves Magic ATT on Pet equipment."/>
+		<string name="name" value="Premium Scroll for Pet Equip for Magic ATT 100%"/>
+	</imgdir>
+    <imgdir name="2049156">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Reconfigures equipment stats. Overall power will not decrease. Cannot be used on cash items."/>
+		<string name="name" value="Incredible Chaos Scroll of Goodness 20%"/>
+	</imgdir>
+    <imgdir name="2049157">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Reconfigures equipment stats. Overall power will not decrease. Cannot be used on cash items."/>
+		<string name="name" value="Chaos Scroll of Goodness 30%"/>
+	</imgdir>
+    <imgdir name="2049158">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Alters equipment for better or worse. Some stats are not affected. Cannot be used on Cash items."/>
+		<string name="name" value="Chaos Scroll 60%"/>
+	</imgdir>
+    <imgdir name="2049159">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Alters equipment for better (or worse) stats than the Chaos Scroll. Some stats are not affected."/>
+		<string name="name" value="Miraculous Chaos Scroll 50%"/>
+	</imgdir>
+    <imgdir name="2049160">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Reconfigures equipment stats. Overall power will not decrease. Cannot be used on cash items."/>
+		<string name="name" value="Chaos Scroll of Goodness 50%"/>
+	</imgdir>
+    <imgdir name="2049327">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nEnhances equipment with no remaining upgrades by 2 additional ranks.\r\n#"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better stats."/>
+		<string name="name" value="2 Star Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2049328">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nEnhances equipment with no remaining upgrades by 3 additional ranks.\r\n#"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better stats."/>
+		<string name="name" value="3 Star Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2049510">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\n#"/>
+		<string name="desc" value="#cDouble-click# and select a piece of equipment with 2 or fewer Potentials to add 1 additional line of Potential."/>
+		<string name="name" value="Silver Awakening Stamp"/>
+	</imgdir>
+    <imgdir name="2103002">
+		<string name="desc" value="A detector for finding monsters in love. #cDouble-click# to summon a monster couple.\nCannot be used near towns or portals.\n"/>
+		<string name="name" value="Monster Love Detector"/>
+	</imgdir>
+    <imgdir name="2100320">
+		<string name="desc" value="Magnus Summoning Simulator"/>
+		<string name="name" value="Magnus Summoning Simulator"/>
+	</imgdir>
+    <imgdir name="2050007">
+		<string name="desc" value="Recovers all Abnormal Status effects. Only usable when fighting Crumbling Zakum (Easy Mode)."/>
+		<string name="name" value="Zakum All Cure Potion"/>
+	</imgdir>
+    <imgdir name="2030048">
+		<string name="name" value="Demon Refuge Teleport Scroll"/>
+		<string name="desc" value="A Scroll that will instantly teleport you to the Demon Refuge."/>
+	</imgdir>
+</imgdir>

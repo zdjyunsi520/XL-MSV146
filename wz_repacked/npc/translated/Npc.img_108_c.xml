@@ -1,0 +1,99 @@
+<imgdir name="Npc.img">
+    <imgdir name="2101009">
+		<string name="name" value="Abdullah VIII"/>
+		<string name="n0" value="真烦人。女王...你能代替国王行事吗...?做你想做的任何事..."/>
+		<string name="n1" value="嗯...嗯..."/>
+		<string name="d0" value="总是这么累真奇怪。睁开眼睛都烦人...我什么时候变成这样的？"/>
+		<string name="d1" value="广阔的沙漠...贫瘠但富饶的沙漠...没有他们的国王，他们也会过得很好。"/>
+	</imgdir>
+    <imgdir name="2101010">
+		<string name="name" value="Jano"/>
+		<string name="n0" value="嗯...你在这里有什么事吗？"/>
+		<string name="n1" value="你最好小心你说的话...这里很危险..."/>
+		<string name="d0" value="不是任何人都能加入沙盗的。我们不喜欢鲁莽的新手。"/>
+		<string name="d1" value="在阿里安特获得自由之前，我们不能休息。"/>
+	</imgdir>
+    <imgdir name="2101011">
+		<string name="name" value="Sejan"/>
+		<string name="n0" value="哼！女王被贪婪蒙蔽了双眼...说这样的话可能很危险。"/>
+		<string name="n1" value="如果你不支持我们，就离开！这里对你来说太危险了。"/>
+		<string name="d0" value="嘘！安静！如果守护者注意到你怎么办？"/>
+		<string name="d1" value="虽然在沙漠里，但阿里安特曾经因为Lidium而富有...这都是女王的错。"/>
+	</imgdir>
+    <imgdir name="2101012">
+		<string name="name" value="奇怪的家伙"/>
+		<string name="n0" value="阿里安特真是个好地方...呵呵呵！"/>
+		<string name="n1" value="我需要召集更多同志。"/>
+		<string name="d0" value="我怎么才能偷到女王的财宝..."/>
+		<string name="d1" value="任何打扰女王的人都和我们站在一起。"/>
+	</imgdir>
+    <imgdir name="2101013">
+		<string name="name" value="Karcasa"/>
+		<string name="n0" value="很难弄到艾琳尼亚的直接进口订单..."/>
+		<string name="n1" value="我可以得到你想要的任何东西，即使你在阿里安特买不到。"/>
+		<string name="d0" value="我经常来阿里安特贸易。我也是为了贸易而来的。不管怎样，是时候去见女王的守护者了。"/>
+		<string name="d1" value="和女王做生意很好。无论多贵，她总是买珠宝。她越来越多地寻找稀有珠宝。"/>
+	</imgdir>
+    <imgdir name="2101014">
+		<string name="name" value="Cesar"/>
+		<string name="func" value="阿里安特竞技场"/>
+		<string name="n0" value="想开始阿里安特竞技场挑战吗？准备好了告诉我。"/>
+		<string name="n1" value="你看起来比这里的其他人更快更强！"/>
+		<string name="d0" value="阿里安特竞技场挑战！加入这场速度、力量和决策的伟大竞赛！赢得这场比赛是任何战士的终极荣誉！"/>
+		<string name="d1" value="阿里安特竞技场挑战！加入这场速度、力量和决策的伟大竞赛！赢得这场比赛是任何战士的终极荣誉！"/>
+	</imgdir>
+    <imgdir name="2101016">
+		<string name="name" value="Areda"/>
+		<string name="n0" value="给我...那个...珠宝！"/>
+		<string name="n1" value="哇...这个珠宝是从零开始制作的？马加提亚的人实际上比我想象的有点用处！"/>
+	</imgdir>
+    <imgdir name="2103002">
+		<string name="name" value="女王的内阁"/>
+	</imgdir>
+    <imgdir name="2103003">
+		<string name="name" value="阿里安特私人住宅1"/>
+	</imgdir>
+    <imgdir name="2103004">
+		<string name="name" value="阿里安特私人住宅2"/>
+	</imgdir>
+    <imgdir name="2103005">
+		<string name="name" value="阿里安特私人住宅4"/>
+	</imgdir>
+    <imgdir name="2103006">
+		<string name="name" value="阿里安特私人住宅6"/>
+	</imgdir>
+    <imgdir name="2103007">
+		<string name="name" value="宝箱"/>
+	</imgdir>
+    <imgdir name="2103008">
+		<string name="name" value="神秘的声音"/>
+	</imgdir>
+    <imgdir name="2103009">
+		<string name="name" value="阿里安特私人住宅1橱柜"/>
+	</imgdir>
+    <imgdir name="2103010">
+		<string name="name" value="阿里安特私人住宅2橱柜"/>
+	</imgdir>
+    <imgdir name="2103011">
+		<string name="name" value="阿里安特私人住宅4橱柜"/>
+	</imgdir>
+    <imgdir name="2103012">
+		<string name="name" value="阿里安特私人住宅6橱柜"/>
+	</imgdir>
+    <imgdir name="2110003">
+		<string name="name" value="Ramain"/>
+		<string name="func" value="物品制作师"/>
+		<string name="s0" value="嗯...我的眼睛变坏了。钳子在哪里？"/>
+		<string name="s1" value="这个珠宝不值钱。看看那个划痕。"/>
+		<string name="d0" value="嗯...让我看看..."/>
+		<string name="d1" value="哦哦哦，小心点！呼...那可能很糟糕。真的很糟糕。"/>
+	</imgdir>
+    <imgdir name="2110004">
+		<string name="name" value="Moren"/>
+		<string name="func" value="物品制作师"/>
+		<string name="s0" value="不要认为锤子是制作物品的唯一方法！炼金术同样有效！"/>
+		<string name="s1" value="利用炼金术的力量，你的物品会变得更好！"/>
+		<string name="d0" value="欢迎来到我的实验室！只要确保不要掉任何东西。"/>
+		<string name="d1" value="你可以随时四处看看，只要你能保持安静。"/>
+	</imgdir>
+</imgdir>

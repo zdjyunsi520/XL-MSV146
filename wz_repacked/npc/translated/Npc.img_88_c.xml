@@ -1,0 +1,125 @@
+<imgdir name="Npc.img">
+    <imgdir name="1052130">
+		<string name="name" value="药房抽屉2"/>
+		<string name="d0" value="未经许可请勿打开。"/>
+		<string name="d1" value="里面装满了药。"/>
+	</imgdir>
+    <imgdir name="1052131">
+		<string name="name" value="药房抽屉3"/>
+		<string name="d0" value="未经许可请勿打开。"/>
+		<string name="d1" value="里面装满了药。"/>
+	</imgdir>
+    <imgdir name="1052132">
+		<string name="name" value="药房抽屉4"/>
+		<string name="d0" value="未经许可请勿打开。"/>
+		<string name="d1" value="里面装满了药。"/>
+	</imgdir>
+    <imgdir name="1052133">
+		<string name="name" value="无名女子"/>
+		<string name="s0" value="我无法集中精神。打败附近的怪物吧。"/>
+		<string name="s1" value="真的会有和我一样的人吗？"/>
+		<string name="d0" value="太...太冷了这里..."/>
+		<string name="d1" value="我现在该去哪里...?我该怎么办？"/>
+	</imgdir>
+    <imgdir name="1052134">
+		<string name="name" value="Enin"/>
+		<string name="s0" value="呜呼！Blake要来克里林广场了！"/>
+		<string name="s1" value="我亲爱的宝贝Blake！"/>
+		<string name="d0" value="那个声音！那双眼睛！Blake太酷了！"/>
+		<string name="d1" value="那个声音！那双眼睛！Blake太酷了！"/>
+	</imgdir>
+    <imgdir name="1052135">
+		<string name="name" value="Blake"/>
+		<string name="s0" value="我实在是太酷了，酷到我自己都受不了。"/>
+		<string name="s1" value="很抱歉，不签名。"/>
+		<string name="d0" value="这地方比我记忆中的还要破旧..."/>
+		<string name="d1" value="这地方比我记忆中的还要破旧..."/>
+	</imgdir>
+    <imgdir name="1052136">
+		<string name="name" value="电梯"/>
+	</imgdir>
+    <imgdir name="1052137">
+		<string name="name" value="Blake的吉他"/>
+	</imgdir>
+    <imgdir name="1055000">
+		<string name="name" value="Lumi"/>
+		<string name="func" value="武器/防具商"/>
+		<string name="n0" value="刚到了一批新货。"/>
+		<string name="n1" value="这是最新款的。"/>
+		<string name="d0" value="过来看看我的货吧。"/>
+		<string name="d1" value="你不能空着手去战斗吧？"/>
+	</imgdir>
+    <imgdir name="1055001">
+		<string name="name" value="Dewey"/>
+		<string name="func" value="保管箱管理员"/>
+		<string name="n0" value="保管箱"/>
+		<string name="n1" value="保管箱"/>
+		<string name="d0" value="保管箱"/>
+		<string name="d1" value="保管箱"/>
+	</imgdir>
+    <imgdir name="1055002">
+		<string name="name" value="Taeha"/>
+		<string name="func" value="商人"/>
+		<string name="n1" value="买一个你就会发现它有多神奇！"/>
+		<string name="n0" value="你见过这么闪亮的药水吗？"/>
+	</imgdir>
+    <imgdir name="1056000">
+		<string name="name" value="Syl女士"/>
+		<string name="func" value="职业导师"/>
+		<string name="n0" value="安静...今天我想清静一下。"/>
+		<string name="n1" value="我们最终必须回到我们所属的地方..."/>
+		<string name="d0" value="等你整理好思绪再来和我谈。现在，你来找我有什么事？"/>
+		<string name="d1" value="我讨厌他，但我不怪他。总有一天，我们会回到我们所属的地方..."/>
+	</imgdir>
+    <imgdir name="1102010">
+		<string name="name" value="Kien"/>
+		<string name="n0" value="欢迎来到Ereve！"/>
+		<string name="n1" value="不知道谁是Ereve最漂亮的女孩和最帅的男孩..."/>
+		<string name="d0" value="Ereve可能是个小岛，但这里有很多帅哥美女。我们可能是不同的种族，但我们绝对能看出谁有漂亮的脸蛋。"/>
+		<string name="d1" value="Ereve可能是个小岛，但这里有很多帅哥美女。我们可能是不同的种族，但我们绝对能看出谁有漂亮的脸蛋。"/>
+	</imgdir>
+    <imgdir name="1202011">
+		<string name="name" value="Purin"/>
+		<string name="func" value="施工管理员"/>
+		<string name="n0" value="Rien总是在施工。一直都这么吵。"/>
+		<string name="n1" value="那次巨大的战戟挖掘真是太热闹了。"/>
+		<string name="d0" value="Rien被雪覆盖着。你永远不会知道有什么宝藏藏在雪下。叮铃铃铃！"/>
+		<string name="d1" value="Rien被雪覆盖着。你永远不会知道有什么宝藏藏在雪下。叮铃铃铃！"/>
+	</imgdir>
+    <imgdir name="2012035">
+		<string name="name" value="管家日志"/>
+		<string name="d0" value="（一份管家Elma做的维护日志。圈出的日期表示Elma打扫的时间。有些日期没有被圈出。）"/>
+		<string name="d1" value="（一份管家Elma做的维护日志。圈出的日期表示Elma打扫的时间。有些日期没有被圈出。）"/>
+	</imgdir>
+    <imgdir name="2012036">
+		<string name="name" value="整形Roy"/>
+		<string name="n0" value="整形手术是一门艺术。"/>
+		<string name="n1" value="渴望美丽是人的天性。"/>
+		<string name="d0" value="整形手术是一门艺术。"/>
+		<string name="d1" value="你的美丽让我目眩...但是，如果你想变得更完美，我很乐意帮你改造。"/>
+	</imgdir>
+    <imgdir name="2041030">
+		<string name="name" value="Mick"/>
+		<string name="n0" value="末日即将来临！"/>
+		<string name="n1" value="你也可以被选中！"/>
+		<string name="d0" value="让我们耐心等待他，暗夜教父，复活吧。"/>
+		<string name="d1" value="作为暗夜教父的仆人，我可以帮助你们所有人！"/>
+	</imgdir>
+    <imgdir name="2041031">
+		<string name="name" value="死亡泰迪"/>
+		<string name="d0" value="有人打破了时间控制器上的安全装置！多亏了他们，通往过去的传送门现在将一直开放。如果我走那个传送门，我会去哪里呢..."/>
+		<string name="d1" value="自由穿越时空...女神永远不会原谅你的。"/>
+	</imgdir>
+    <imgdir name="2041032">
+		<string name="name" value="Ducky"/>
+		<string name="n0" value="一、二、三、四...等一下！那个不是我的！"/>
+		<string name="n1" value="唉...养儿育女真难..."/>
+		<string name="d0" value="我所有的孩子都让我开心...但我从来没有自己的时间。我总是忙着数我的宝贝们。"/>
+		<string name="d1" value="我所有的孩子都让我开心...但我从来没有自己的时间。我总是忙着数我的宝贝们。"/>
+	</imgdir>
+    <imgdir name="2041033">
+		<string name="name" value="Ducky五号"/>
+		<string name="d0" value="跑步比走路有趣！我想跑！更快！"/>
+		<string name="d1" value="不要跑了。现在我想飞！我怎样才能飞？"/>
+	</imgdir>
+</imgdir>

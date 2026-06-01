@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388030">
+		<string name="name" value="塞鲁夫卡"/>
+		<string name="desc" value="以塞鲁夫为主题的卡片。\n#c在浅海狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388031">
+		<string name="name" value="泽诺卡"/>
+		<string name="desc" value="以泽诺为主题的卡片。\n#c在欧米茄区域附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388032">
+		<string name="name" value="奇美拉卡"/>
+		<string name="desc" value="以奇美拉为主题的卡片。\n#c在实验室区域附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388033">
+		<string name="name" value="利维亚坦卡"/>
+		<string name="desc" value="以利维亚坦为主题的卡片。\n#c在龙森林附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388034">
+		<string name="name" value="蓝蘑菇王卡"/>
+		<string name="desc" value="以蓝蘑菇王为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388035">
+		<string name="name" value="黑乌鸦卡"/>
+		<string name="desc" value="以黑乌鸦为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388036">
+		<string name="name" value="女性Boss卡"/>
+		<string name="desc" value="以女性Boss为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388037">
+		<string name="name" value="Boss卡"/>
+		<string name="desc" value="以Boss为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388038">
+		<string name="name" value="大白鲨卡"/>
+		<string name="desc" value="以大白鲨为主题的卡片。\n#c在樱花城狩猎时金币掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388039">
+		<string name="name" value="毒魔像卡"/>
+		<string name="desc" value="以毒魔像为主题的卡片。\n#c在艾琳森林狩猎时道具和金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388040">
+		<string name="name" value="渡渡鸟卡"/>
+		<string name="desc" value="以渡渡鸟为主题的卡片。\n#c在记忆之街狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388041">
+		<string name="name" value="莉莉诺卡"/>
+		<string name="desc" value="以莉莉诺为主题的卡片。\n#c在悔恨之路上狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388042">
+		<string name="name" value="Lyka卡"/>
+		<string name="desc" value="以Lyka为主题的卡片。\n#c在通往遗忘之路上狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388043">
+		<string name="name" value="品克特"/>
+		<string name="desc" value="以品克特为主题的卡片。\n#c在时间神殿狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388046">
+		<string name="name" value="无宫卡"/>
+		<string name="desc" value="以无宫为主题的卡片。\n#c在武陵狩猎时道具/金币掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388052">
+		<string name="name" value="巨型蜈蚣卡"/>
+		<string name="desc" value="以巨型蜈蚣为主题的卡片。\n#c在药草城道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388053">
+		<string name="name" value="蓝蘑菇王卡"/>
+		<string name="desc" value="以蓝蘑菇王为主题的卡片。\n#c#c在韩林村落道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388054">
+		<string name="name" value="小食店卡"/>
+		<string name="desc" value="以小食店为主题的卡片。\n#c在德雷克地区道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388055">
+		<string name="name" value="贝罗斯卡"/>
+		<string name="desc" value="以贝罗斯为主题的卡片。\n#c在维多利亚城中心地下城道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388056">
+		<string name="name" value="男性Boss B卡"/>
+		<string name="desc" value="以男性Boss B为主题的卡片。"/>
+	</imgdir>
+</imgdir>

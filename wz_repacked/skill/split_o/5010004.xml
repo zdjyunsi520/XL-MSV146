@@ -1,0 +1,5 @@
+<imgdir name="5010004">
+        <string name="name" value="Fortune&apos;s Favor" />
+        <string name="pdesc" value="Gain a chance to deal critical damage on attack." />
+        <string name="ph" value="Chance: #prop%, Damage: +#damage%" />
+    </imgdir>

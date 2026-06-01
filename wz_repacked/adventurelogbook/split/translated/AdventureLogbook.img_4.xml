@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="104">
+				<string name="title" value="4. 真正的罪魁祸首" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="你前往埃雷夫寻找Olive和封印石。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="当你质问她时，Olive坚决否认与封印石有任何关系。她把责任推给了一个叫「伪装大师」的人。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="你觉得她也许在说真话，但还没来得及判断，盗贼公会的人就来把Olive带走了。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="在被拖走时，Olive恳求你去埃雷夫找内哈尔特寻找她清白的证据。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="内哈尔特证实「伪装大师」确实存在，而且他的伪装天衣无缝。" />
+					</imgdir>
+					<imgdir name="5">
+						<string name="text" value="但现在你想知道，冒险岛世界中这个所谓的伪装大师到底是谁？" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

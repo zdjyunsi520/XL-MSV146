@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382068">
+		<string name="name" value="月兔卡"/>
+		<string name="desc" value="以月兔为主题的卡片。\n#c在黑山狩猎时跳跃力+1#"/>
+	</imgdir>
+    <imgdir name="2382069">
+		<string name="name" value="铁野猪卡"/>
+		<string name="desc" value="以铁野猪为主题的卡片。\n#c在维多利亚岛狩猎时命中率+1#"/>
+	</imgdir>
+    <imgdir name="2382070">
+		<string name="name" value="蓝花蛇卡"/>
+		<string name="desc" value="以蓝花蛇为主题的卡片。\n#c在穆尤尔狩猎时回避率+1#"/>
+	</imgdir>
+    <imgdir name="2382071">
+		<string name="name" value="红花蛇卡"/>
+		<string name="desc" value="以红花蛇为主题的卡片。\n#c在穆尤尔狩猎时回避率+1#"/>
+	</imgdir>
+    <imgdir name="2382072">
+		<string name="name" value="强化铁穆塔伊"/>
+		<string name="desc" value="以强化铁穆塔伊为主题的卡片。\n#c在阿尔卡德诺研究基地狩猎时命中率+1#"/>
+	</imgdir>
+    <imgdir name="2382073">
+		<string name="name" value="大云狐卡"/>
+		<string name="desc" value="以大云狐为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2382074">
+		<string name="name" value="纸灯笼鬼卡"/>
+		<string name="desc" value="以纸灯笼鬼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2382075">
+		<string name="name" value="Extra A卡"/>
+		<string name="desc" value="以Extra A为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2382076">
+		<string name="name" value="青苔蜗牛卡"/>
+		<string name="desc" value="这张卡片上有青苔蜗牛的图片。\n#c在艾琳森林狩猎时命中率+1"/>
+	</imgdir>
+    <imgdir name="2382092">
+		<string name="name" value="叛逆孢子卡"/>
+		<string name="desc" value="以叛逆孢子为主题的卡片\n#c在蘑菇城堡狩猎时：\n跳跃力+1"/>
+	</imgdir>
+    <imgdir name="2382093">
+		<string name="name" value="毒蘑菇卡"/>
+		<string name="desc" value="以毒蘑菇为主题的卡片\n#c在蘑菇城堡狩猎时：\n命中率+1"/>
+	</imgdir>
+    <imgdir name="2382094">
+		<string name="name" value="醉猪卡"/>
+		<string name="desc" value="以醉猪为主题的卡片\n#c在蘑菇城堡狩猎时：\n移动速度+1"/>
+	</imgdir>
+    <imgdir name="2382095">
+		<string name="name" value="头盔Pepe卡"/>
+		<string name="desc" value="以头盔Pepe为主题的卡片\n#c在蘑菇城堡狩猎时：\n跳跃力+1"/>
+	</imgdir>
+    <imgdir name="2382096">
+		<string name="name" value="皇家守卫Pepe卡"/>
+		<string name="desc" value="以皇家守卫Pepe为主题的卡片\n#c在蘑菇城堡狩猎时：\n移动速度+1"/>
+	</imgdir>
+    <imgdir name="2382097">
+		<string name="name" value="樱桃奶茶卡"/>
+		<string name="desc" value="以樱桃奶茶为主题的卡片。\n#c在克里提乌斯广场狩猎时STR+1"/>
+	</imgdir>
+    <imgdir name="2382098">
+		<string name="name" value="西瓜奶茶卡"/>
+		<string name="desc" value="以西瓜奶茶为主题的卡片。\n#c在克里提乌斯广场狩猎时LUK+1"/>
+	</imgdir>
+    <imgdir name="2382099">
+		<string name="name" value="芒果奶茶卡"/>
+		<string name="desc" value="以芒果奶茶为主题的卡片。\n#c在克里提乌斯广场狩猎时INT+1"/>
+	</imgdir>
+    <imgdir name="2382100">
+		<string name="name" value="雪人玩偶嘉年华卡"/>
+		<string name="desc" value="以雪人玩偶嘉年华为主题的卡片。\n#c在克里提乌斯广场狩猎时DEX+1"/>
+	</imgdir>
+    <imgdir name="2382101">
+		<string name="name" value="Pepe玩偶嘉年华卡"/>
+		<string name="desc" value="以Jr. Pepe玩偶嘉年华为主题的卡片。\n#c在克里提乌斯广场狩猎时移动速度+1"/>
+	</imgdir>
+    <imgdir name="2382102">
+		<string name="name" value="变形玩偶嘉年华卡"/>
+		<string name="desc" value="以变形玩偶嘉年华为主题的卡片。\n#c在克里提乌斯广场狩猎时跳跃力+1"/>
+	</imgdir>
+</imgdir>

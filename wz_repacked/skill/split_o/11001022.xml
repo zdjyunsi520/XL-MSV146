@@ -1,0 +1,5 @@
+<imgdir name="11001022">
+        <string name="name" value="Soul Element" />
+        <string name="desc" value="Summons a wind element to gain its powers." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time Immobility Debuff Chance: #prop% Debuff Duration: #subTime \nPassive Effect: Monster DEF: - #ignoreMobpdpR%" />
+    </imgdir>

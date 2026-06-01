@@ -1,0 +1,248 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000294"/>
+			<int name="1" value="4004004"/>
+			<int name="2" value="4020005"/>
+			<int name="3" value="4006000"/>
+			<int name="4" value="2022057"/>
+			<int name="5" value="4007002"/>
+			<int name="6" value="4007006"/>
+			<int name="7" value="4001431"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="2290192"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2061000"/>
+			<int name="12" value="1060100"/>
+			<int name="13" value="2048003"/>
+			<int name="14" value="2290090"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="1442020"/>
+		</imgdir>
+    <imgdir name="5120503">
+		<imgdir name="map">
+			<int name="0" value="250020000"/>
+			<int name="1" value="250020100"/>
+			<int name="2" value="250020200"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000286"/>
+			<int name="1" value="4004002"/>
+			<int name="2" value="4020005"/>
+			<int name="3" value="2044602"/>
+			<int name="4" value="2022057"/>
+			<int name="5" value="2040026"/>
+			<int name="6" value="4007000"/>
+			<int name="7" value="4007004"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2061000"/>
+			<int name="11" value="1072192"/>
+			<int name="12" value="2040801"/>
+			<int name="13" value="2049301"/>
+			<int name="14" value="2070010"/>
+		</imgdir>
+    <imgdir name="5120504">
+		<imgdir name="map">
+			<int name="0" value="250020100"/>
+			<int name="1" value="250020200"/>
+			<int name="2" value="250020300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000287"/>
+			<int name="1" value="4020002"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4004000"/>
+			<int name="4" value="4006001"/>
+			<int name="5" value="2022057"/>
+			<int name="6" value="2040619"/>
+			<int name="7" value="2040825"/>
+			<int name="8" value="4007004"/>
+			<int name="9" value="4007006"/>
+			<int name="10" value="4001431"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2001002"/>
+			<int name="14" value="1060100"/>
+			<int name="15" value="2043301"/>
+			<int name="16" value="2049401"/>
+			<int name="17" value="1452014"/>
+		</imgdir>
+    <imgdir name="5120505">
+		<imgdir name="map">
+			<int name="0" value="250010500"/>
+			<int name="1" value="250010501"/>
+			<int name="2" value="250010600"/>
+			<int name="3" value="250010700"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000021"/>
+			<int name="1" value="4003005"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4000288"/>
+			<int name="4" value="2022057"/>
+			<int name="5" value="2049000"/>
+			<int name="6" value="4007005"/>
+			<int name="7" value="4007007"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2022000"/>
+			<int name="11" value="1002276"/>
+			<int name="12" value="2043017"/>
+			<int name="13" value="2049301"/>
+			<int name="14" value="1462012"/>
+		</imgdir>
+    <imgdir name="5120506">
+		<string name="episode" value="等级 :  55\\n形态 : 精灵\\n\\n一本由古代苦行僧撰写的珍贵文献，揭示了自然和宇宙的原理。书本幽灵是由源自深奥真理的神秘力量和书中蕴含的苦行僧魔法赋予生命的。有人说精通这本书可以赋予人力量和能力，但书本幽灵会攻击任何不合格的人。"/>
+		<imgdir name="map">
+			<int name="0" value="250010501"/>
+			<int name="1" value="250010502"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000298"/>
+			<int name="1" value="4000299"/>
+			<int name="2" value="4020008"/>
+			<int name="3" value="4010006"/>
+			<int name="4" value="2022057"/>
+			<int name="5" value="2040825"/>
+			<int name="6" value="4007002"/>
+			<int name="7" value="4007007"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2000006"/>
+			<int name="11" value="1051095"/>
+			<int name="12" value="2040601"/>
+			<int name="13" value="2049301"/>
+			<int name="14" value="2070003"/>
+		</imgdir>
+    <imgdir name="5130100">
+		<string name="episode" value="等级 :  50\\n形态 : 爬行动物\\n\\n一种极其可怕的猎龙恐龙。然而，它的缺点是智商较低，不太值得被称为真正的龙。尽管它看起来有点笨头笨脑，但它的同伴往往会成群结队地活动，被一群恐龙包围是非常危险的情况。普通的冒险者如果不极度小心，就会发现自己会为自己竖起墓碑！"/>
+		<imgdir name="map">
+			<int name="0" value="105020000"/>
+			<int name="1" value="105020100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000014"/>
+			<int name="1" value="2012000"/>
+			<int name="2" value="2012003"/>
+			<int name="3" value="4010006"/>
+			<int name="4" value="4020007"/>
+			<int name="5" value="4000030"/>
+			<int name="6" value="4001077"/>
+			<int name="7" value="4001105"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="4007000"/>
+			<int name="10" value="4007002"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2022000"/>
+			<int name="14" value="1061093"/>
+			<int name="15" value="2041007"/>
+			<int name="16" value="2049401"/>
+			<int name="17" value="1342003"/>
+		</imgdir>
+    <imgdir name="5130101">
+		<string name="episode" value="等级 :  55\\n形态 : 附魔\\n\\n一个被森林精灵附魔的石头怪物。它是它诞生的森林的保护者，在没有被激怒的情况下永远不会攻击冒险者。但是如果你未经许可擅自进入森林，你可能会受到石魔像拳头的摆布，所以要小心。"/>
+		<imgdir name="map">
+			<int name="0" value="100040000"/>
+			<int name="1" value="100040100"/>
+			<int name="2" value="100040200"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000022"/>
+			<int name="1" value="4020008"/>
+			<int name="2" value="2022057"/>
+			<int name="3" value="4007001"/>
+			<int name="4" value="4007006"/>
+			<int name="5" value="4280004"/>
+			<int name="6" value="4001473"/>
+			<int name="7" value="2061000"/>
+			<int name="8" value="1032003"/>
+			<int name="9" value="2040900"/>
+			<int name="10" value="1372002"/>
+		</imgdir>
+    <imgdir name="5130102">
+		<string name="episode" value="等级 :  58\\n形态 : 附魔\\n特殊特性 : 受到神圣属性攻击时伤害增加。\\n\\n一种被渗透到森林深处的邪恶气息感染的石头魔像怪物，导致森林被毁，保护石魔像神殿的石魔像也被消灭。无意中对神殿造成损害的暗黑石魔像决定通过进入睡眠森林来继续履行它们的职责。但是据说一些暗黑石魔像经常出现在魔像神殿中。"/>
+		<imgdir name="map">
+			<int name="0" value="100040100"/>
+			<int name="1" value="100040200"/>
+			<int name="2" value="100040300"/>
+			<int name="3" value="800020100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000025"/>
+			<int name="1" value="4004004"/>
+			<int name="2" value="4020008"/>
+			<int name="3" value="4001005"/>
+			<int name="4" value="1032021"/>
+			<int name="5" value="1102018"/>
+			<int name="6" value="1442016"/>
+			<int name="7" value="2043105"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="2044802"/>
+			<int name="10" value="4007001"/>
+			<int name="11" value="4007002"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2000001"/>
+			<int name="15" value="1060038"/>
+			<int name="16" value="2044310"/>
+			<int name="17" value="2049401"/>
+			<int name="18" value="1432002"/>
+		</imgdir>
+    <imgdir name="5130103">
+		<string name="episode" value="等级 :  52\\n形态 : 爬行动物\\n\\n一种生活在沼泽地区的鳄鱼怪物。虽然它比利加特要小，但克罗科的的攻击率和速度更高。它在追求其坚固珍贵毛皮的猎人中很受欢迎。"/>
+		<imgdir name="map">
+			<int name="0" value="103030200"/>
+			<int name="1" value="103030300"/>
+			<int name="2" value="500020400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000033"/>
+			<int name="1" value="4010000"/>
+			<int name="2" value="4020004"/>
+			<int name="3" value="4020007"/>
+			<int name="4" value="1372008"/>
+			<int name="5" value="2022057"/>
+			<int name="6" value="2040027"/>
+			<int name="7" value="4007001"/>
+			<int name="8" value="4007006"/>
+			<int name="9" value="4001431"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2060000"/>
+			<int name="13" value="1050025"/>
+			<int name="14" value="2040900"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="1452003"/>
+		</imgdir>
+    <imgdir name="5130104">
+		<string name="episode" value="等级 :  55\\n形态 : 哺乳动物\\n\\n一种以狼的形态出现在埃尔纳斯附近的怪物。它是猎人追求厚皮毛的热门目标，这有利于赫克托在埃尔纳斯的寒冷天气中生存。当受到攻击时，赫克托会使用多重魔法进行攻击，所以强烈建议您在遇到这种怪物的危险时迅速后退。"/>
+		<imgdir name="map">
+			<int name="0" value="211040100"/>
+			<int name="1" value="211050000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000051"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="4000021"/>
+			<int name="3" value="4020001"/>
+			<int name="4" value="4010001"/>
+			<int name="5" value="4004003"/>
+			<int name="6" value="1102000"/>
+			<int name="7" value="2022057"/>
+			<int name="8" value="4007003"/>
+			<int name="9" value="4007007"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000004"/>
+			<int name="13" value="1082081"/>
+			<int name="14" value="2041013"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="2330002"/>
+		</imgdir>
+    <imgdir name="5130105">
+		<string name="episode" value="等级 :  56\\n形态 : 哺乳动物\\n特殊特性 : 受到神圣属性攻击时伤害增加。\\n\\n一种经常在远离埃尔纳斯的峡谷中被发现的小雪人。他们说暗黑小雪人是小雪人的邪恶形态。它比小雪人快得多，在攻击力、防御力等方面也更高级。它还具有完全不同的属性，这使得它特别容易受到神圣力量的伤害。"/>
+		<imgdir name="map">
+			<int name="0" value="211020000"/>
+		</imgdir>
+</imgdir>

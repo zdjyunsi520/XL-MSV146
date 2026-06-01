@@ -1,0 +1,126 @@
+<imgdir name="Npc.img">
+    <imgdir name="2041000">
+		<string name="name" value="田"/>
+		<string name="func" value="乘务员"/>
+		<string name="n2" value="请注意，如果您在船上进入商城，您将被送回玩具城。"/>
+		<string name="n0" value="如果您想登上前往奥比斯的船，请把票交给我。"/>
+		<string name="n1" value="我们的空间有限，请上船！我们即将起飞！"/>
+	</imgdir>
+    <imgdir name="2041001">
+		<string name="name" value="罗西"/>
+		<string name="func" value="船员"/>
+		<string name="n2" value="请注意，如果您在船上进入商城，您将被送回您之前所在的地方。"/>
+		<string name="n0" value="我能帮你什么吗？祝你旅途愉快！"/>
+		<string name="n1" value="任何想离开船回到起点的人，跟我说话。"/>
+	</imgdir>
+    <imgdir name="2041002">
+		<string name="name" value="希德"/>
+		<string name="func" value="武器商人"/>
+		<string name="n0" value="玩具城有些地方怪物会突然出现。"/>
+		<string name="n1" value="我们有一款专门为你准备的武器！"/>
+	</imgdir>
+    <imgdir name="2041003">
+		<string name="name" value="米鲁"/>
+		<string name="func" value="防具商人"/>
+		<string name="n0" value="欢迎！随便看看，看看你喜欢什么。"/>
+		<string name="n1" value="坚固的防具是必要的，因为怪物可能在城堡内任何地方出现。"/>
+	</imgdir>
+    <imgdir name="2041004">
+		<string name="name" value="马塞尔"/>
+		<string name="n0" value="确保你不会在城堡里迷路。"/>
+		<string name="n1" value="欢迎来到玩具城！"/>
+		<string name="d0" value="你好！我是#b#p2041004##k，负责玩具城的安全。最近有一些肮脏的生物弄脏了EOS塔，我一点也不喜欢。"/>
+		<string name="d1" value="嘿！你就是帮我清理EOS塔的人！你过得怎么样？我很高兴怪物的数量减少了，它们也不像以前那么疯狂了。非常感谢你的辛勤工作。好了，希望你在玩具城过得愉快！"/>
+	</imgdir>
+    <imgdir name="2041005">
+		<string name="name" value="内米"/>
+		<string name="n0" value="嘿，你好！最近怎么样？"/>
+		<string name="n1" value="今天不是很美吗？我只想去某个地方..."/>
+		<string name="d0" value="哦，嗨！我想我以前没见过你...你一直在旅行吗？我是#b#p2041005##k，是玩具城的居民，我父亲是玩具工厂的经理。如果你有时间，应该去看看那个地方。"/>
+		<string name="d1" value="你好！多亏了你，我爸爸恢复了食欲。他真的很喜欢。今天我能帮你什么吗？哦不！你不应该穿着鞋子进入这个地方！我刚刚打扫完这个地方，你知道的！如果你没什么别的事做，那就改天再来吧！"/>
+	</imgdir>
+    <imgdir name="2041006">
+		<string name="name" value="米斯基"/>
+		<string name="func" value="药剂师"/>
+		<string name="n0" value="我们卖你在其他地方找不到的东西！"/>
+		<string name="n1" value="需要药水或一些食物？你来对地方了。"/>
+		<string name="a0" value="你！你不是在这里偷东西吧？"/>
+		<string name="a1" value="碰这里的任何东西，我会非常非常生气的！"/>
+		<string name="g0" value="制作新药比你想象的要难"/>
+		<string name="g1" value="哈！只是在这里制作新药..."/>
+	</imgdir>
+    <imgdir name="2041007">
+		<string name="name" value="美优"/>
+		<string name="func" value="店主"/>
+		<string name="n1" value="如果你想尝试不同的发型，跟我说话！"/>
+		<string name="n0" value="哦天哪，你还留着那个发型？那是昨天的款式..."/>
+	</imgdir>
+    <imgdir name="2041008">
+		<string name="name" value="塞皮"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="正在找地方存放你的金币或物品？别再找了！"/>
+		<string name="n1" value="我们的仓库安全得像锁一样，所以放心把你的东西留在这里吧！"/>
+	</imgdir>
+    <imgdir name="2041009">
+		<string name="name" value="米妮"/>
+		<string name="func" value="助理"/>
+		<string name="n1" value="当发型师真不容易..."/>
+		<string name="n0" value="欢迎来到我们的美发沙龙！我可能还在培训中，但让我给你做头发怎么样？"/>
+		<string name="d0" value="欢迎来到我们的美发沙龙！我还在学习，但你愿意让我给你做头发吗？"/>
+		<string name="d1" value="强壮的探险家很棒！但好看的探险家更棒！"/>
+	</imgdir>
+    <imgdir name="2041010">
+		<string name="name" value="埃莉"/>
+		<string name="func" value="整形医生"/>
+		<string name="n0" value="想把你的脸变成...更漂亮的样子吗？"/>
+		<string name="n1" value="你现在看起来不错，但在这里那里稍微修饰一下，你会看起来非常棒！"/>
+	</imgdir>
+    <imgdir name="2041011">
+		<string name="name" value="黄色梅索兰杰"/>
+		<string name="n0" value="担心怪物？让我们来处理它们！"/>
+		<string name="n1" value="保护这里的每个人是我们的工作！"/>
+		<string name="d0" value="嗨。我是#b#p2041011##k，在这里领导一项特殊任务。你在这里看到任何外星人吗？显然他们会用甜言蜜语欺骗无辜的陌生人，所以请保持警惕。"/>
+		<string name="d1" value="嗨。我是#b#p2041011##k，在这里领导一项特殊任务。你在这里看到任何外星人吗？显然他们会用甜言蜜语欺骗无辜的陌生人，所以请保持警惕。"/>
+	</imgdir>
+    <imgdir name="2041012">
+		<string name="name" value="粉色梅索兰杰"/>
+		<string name="n0" value="每天早起真的很难。我应该不要再迟到了..."/>
+		<string name="n1" value="我非常乐意保护大家，除了我睡得太多..."/>
+		<string name="d0" value="你好。我是欧米茄部门的#b#p2041012##k，目前正在执行阻止外星人入侵这里的秘密任务。这些天我一直很忙，处理重要任务。这个地方非常危险，所以我建议你离开这里去一个更安全的地方。"/>
+		<string name="d1" value="你回来了！这些天我一直按时起床，任务从不迟到。我也很高兴楼上的人注意到了。这都要感谢你。现在，我有重要的事情要做，所以请原谅我！"/>
+	</imgdir>
+    <imgdir name="2041013">
+		<string name="name" value="吉娜"/>
+		<string name="func" value="皮肤科医生"/>
+		<string name="n0" value="你想拥有像我一样苗条的身材吗？我会让你的皮肤变漂亮！"/>
+		<string name="n1" value="哇...你一定到处旅行。你的皮肤真的受损了。"/>
+	</imgdir>
+    <imgdir name="2041014">
+		<string name="name" value="帕特里夏"/>
+		<string name="func" value="宠物食品商人"/>
+		<string name="n0" value="你在找宠物食品吗？"/>
+		<string name="n1" value="你的宠物不饿吗？我有一些食物给它们！"/>
+	</imgdir>
+    <imgdir name="2041024">
+		<string name="name" value="墓碑"/>
+	</imgdir>
+    <imgdir name="2041025">
+		<string name="name" value="机器装置"/>
+	</imgdir>
+    <imgdir name="2042003">
+		<string name="name" value="红队助理"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="你们所有人只要跟我说话就会离开这个地方。"/>
+	</imgdir>
+    <imgdir name="2042004">
+		<string name="name" value="蓝队助理"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="你们所有人只要跟我说话就会离开这个地方。"/>
+	</imgdir>
+    <imgdir name="2042005">
+		<string name="name" value="施皮格尔曼"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n1" value="你不好奇看看你朋友中谁是最强的冒险家吗？"/>
+		<string name="n0" value="如果你是一个寻找挑战的冒险家，参加怪物嘉年华吧！"/>
+	</imgdir>
+</imgdir>

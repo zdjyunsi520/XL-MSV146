@@ -1,0 +1,8 @@
+<imgdir name="24121003">
+        <string name="name" value="半影突袭" />
+        <string name="desc" value="向后跳跃并投掷强力卡牌攻击。\n与巧剑连击连携使用可减少攻击后延迟。永久提升巧剑连击的伤害。" />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Rapier Wit Damage: +#damR%" />
+        <string name="pdesc" value="向后跳跃并投掷强力卡牌攻击。\n与巧剑连击连携使用可减少攻击后延迟。永久提升巧剑连击的伤害。" />
+        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Rapier Wit Damage: +#damR%" />
+        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Phantom Charge Damage: +#damR%\nCooldown: #hcCooltime sec" />
+    </imgdir>

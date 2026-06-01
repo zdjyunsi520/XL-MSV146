@@ -1,0 +1,5 @@
+<imgdir name="10000104">
+        <string name="name" value="冰冻诅咒" />
+        <string name="pdesc" value="诅咒对手，将它们变成冰蜗牛！冰冻槽充能到#c160以上#时可使用。\n[指令：#c下+上方向键+攻击键#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon. Snail Chance: #prop%, Snail Duration: #time" />
+    </imgdir>

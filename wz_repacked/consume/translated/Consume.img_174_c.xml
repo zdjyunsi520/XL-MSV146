@@ -1,0 +1,76 @@
+<imgdir name="Consume.img">
+    <imgdir name="2109006">
+		<string name="name" value="法老雪人召唤袋"/>
+		<string name="desc" value="召唤法老雪人。"/>
+	</imgdir>
+    <imgdir name="2109007">
+		<string name="name" value="法老雪人召唤袋"/>
+		<string name="desc" value="在90秒内召唤法老雪人。"/>
+	</imgdir>
+    <imgdir name="2109008">
+		<string name="name" value="泡泡史莱姆召唤袋"/>
+		<string name="desc" value="用于地铁站限制的奖励地图区域。"/>
+	</imgdir>
+    <imgdir name="2109009">
+		<string name="name" value="小雪人法老召唤袋"/>
+		<string name="desc" value="为尼特的金字塔奖励阶段召唤小雪人法老（简单、普通、困难）"/>
+	</imgdir>
+    <imgdir name="2109010">
+		<string name="name" value="小雪人法老召唤袋"/>
+		<string name="desc" value="为尼特的金字塔奖励阶段召唤小雪人法老（地狱模式）"/>
+	</imgdir>
+    <imgdir name="2109013">
+		<string name="name" value="召唤万圣节幽灵"/>
+	</imgdir>
+    <imgdir name="2109014">
+		<string name="name" value="冯莱昂召唤袋"/>
+	</imgdir>
+    <imgdir name="2109016">
+		<string name="name" value="月亮兔子男孩召唤袋"/>
+	</imgdir>
+    <imgdir name="2109017">
+		<string name="name" value="月亮兔子女孩召唤袋"/>
+	</imgdir>
+    <imgdir name="2109019">
+		<string name="name" value="召唤紫phantom"/>
+	</imgdir>
+    <imgdir name="2109020">
+		<string name="name" value="红叶高地幽灵袋"/>
+	</imgdir>
+    <imgdir name="2120000">
+		<string name="name" value="宠物食品"/>
+		<string name="desc" value="小宠物喜欢它们。恢复30饱腹度。不是给人用的！"/>
+	</imgdir>
+    <imgdir name="2120008">
+		<string name="name" value="干粮"/>
+		<string name="desc" value="猪猡们喜欢的高级干粮。宠物也喜欢。"/>
+	</imgdir>
+    <imgdir name="2160101">
+		<string name="name" value="新年贺卡"/>
+		<string name="desc" value="双击该物品可以向您选择的角色发送新年贺卡。"/>
+	</imgdir>
+    <imgdir name="2190000">
+		<string name="name" value="测谎仪测试"/>
+		<string name="desc" value="可用于疑似机器人玩家。只有在嫌疑人正在狩猎时才能使用。"/>
+	</imgdir>
+    <imgdir name="2210000">
+		<string name="name" value="橙蘑菇碎片"/>
+		<string name="desc" value="一颗类似橙蘑菇的水晶碎片。使用后水晶会融入身体，其神话力量会将使用者变成橙蘑菇。这种神话力量将持续一小时。"/>
+	</imgdir>
+    <imgdir name="2210001">
+		<string name="name" value="缎带猪碎片"/>
+		<string name="desc" value="一颗类似缎带猪的水晶碎片。使用后水晶会融入身体，其神话力量会将使用者变成缎带猪。这种神话力量将持续一小时。"/>
+	</imgdir>
+    <imgdir name="2210002">
+		<string name="name" value="灰碎片"/>
+		<string name="desc" value="一颗类似灰的水晶碎片。使用后水晶会融入身体，其神话力量会将使用者变成灰。这种神话力量将持续一小时。"/>
+	</imgdir>
+    <imgdir name="2210003">
+		<string name="name" value="龙之精华"/>
+		<string name="desc" value="莫伊拉送给你的药水，会将你变形为龙一段时间。"/>
+	</imgdir>
+    <imgdir name="2210004">
+		<string name="name" value="蓝缎带猪碎片"/>
+		<string name="desc" value="一颗类似蓝缎带猪的水晶碎片。使用后水晶会融入身体，其神话力量会将使用者变成蓝缎带猪。这种神话力量将持续一小时。"/>
+	</imgdir>
+</imgdir>

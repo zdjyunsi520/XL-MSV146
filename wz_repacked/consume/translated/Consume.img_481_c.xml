@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431578">
+		<string name="name" value="黑心日投递箱"/>
+		<string name="desc" value="单身军成员必备配件。"/>
+	</imgdir>
+    <imgdir name="2431581">
+		<string name="name" value="神秘鱼"/>
+		<string name="desc" value="你需要仔细看看才能识别这条小鱼。"/>
+	</imgdir>
+    <imgdir name="2431582">
+		<string name="name" value="神秘武器"/>
+		<string name="desc" value="你需要仔细看看才能识别这个刺人的东西。"/>
+	</imgdir>
+    <imgdir name="2431583">
+		<string name="name" value="神秘甜点"/>
+		<string name="desc" value="你需要仔细看看才能识别这个美味的食物。"/>
+	</imgdir>
+    <imgdir name="2431584">
+		<string name="name" value="鱼蛋"/>
+		<string name="desc" value="收集10个这些蛋，可以在博物馆兑换1条鱼。"/>
+	</imgdir>
+    <imgdir name="2431585">
+		<string name="name" value="武器碎片"/>
+		<string name="desc" value="收集10个这些碎片，可以在博物馆兑换1件武器。"/>
+	</imgdir>
+    <imgdir name="2431586">
+		<string name="name" value="饼干屑"/>
+		<string name="desc" value="收集10个这些碎屑，可以在博物馆兑换1份甜点。"/>
+	</imgdir>
+    <imgdir name="2431587">
+		<string name="name" value="收藏品箱子"/>
+		<string name="desc" value="传奇收藏家Collectron用很棒的东西装满了这个遗物。应该足够装满整个博物馆了！（双击完全填充正在进行的博物馆。）"/>
+	</imgdir>
+    <imgdir name="2431588">
+		<string name="name" value="博物馆游客盒"/>
+		<string name="desc" value="一天内完成所有3个博物馆获得的博物馆礼品盒。继续填满博物馆以获得博物馆大师盒。"/>
+	</imgdir>
+    <imgdir name="2431589">
+		<string name="name" value="博物馆经理盒"/>
+		<string name="desc" value="一天内完成所有3个博物馆两次获得的博物馆礼品盒。继续填满博物馆以获得博物馆大师盒。"/>
+	</imgdir>
+    <imgdir name="2431590">
+		<string name="name" value="博物馆大师盒"/>
+		<string name="desc" value="送给一天内完成所有3个博物馆三次的人的大师级盒子。"/>
+	</imgdir>
+    <imgdir name="2431592">
+		<string name="name" value="快乐机器人优惠券"/>
+		<string name="desc" value="#c双击#此优惠券获得快乐机器人和快乐之心。"/>
+	</imgdir>
+    <imgdir name="2431601">
+		<string name="name" value="情侣戒指"/>
+		<string name="desc" value="恶心！这些戒指是用来表达爱意和爱情的：单身军的敌人。"/>
+	</imgdir>
+    <imgdir name="2431602">
+		<string name="name" value="心碎项链"/>
+		<string name="desc" value="这颗破碎的心证明爱情并不总是有幸福的结局。"/>
+	</imgdir>
+    <imgdir name="2431603">
+		<string name="name" value="密封情书"/>
+		<string name="desc" value="这是爱的告白，还是残酷的玩笑？#c双击#找出答案。"/>
+	</imgdir>
+    <imgdir name="2431604">
+		<string name="name" value="黑心日面条"/>
+		<string name="desc" value="这些面条是用来加深你黑暗灵魂深处的黑暗的。吃完整碗将获得100单身积分"/>
+	</imgdir>
+    <imgdir name="2431605">
+		<string name="name" value="恋爱史莱姆王盒"/>
+		<string name="desc" value="这个可爱的小盒子包含一张高级装备强化卷轴。每天最多可以打开三个！"/>
+	</imgdir>
+    <imgdir name="2431641">
+		<string name="desc" value="双击获得适合你职业的星辰武器。只能在第二次转职后使用。"/>
+		<string name="name" value="星辰武器礼盒"/>
+	</imgdir>
+    <imgdir name="2431642">
+		<string name="name" value="特惠礼包礼盒"/>
+		<string name="desc" value="包含壮观的贵重物品。"/>
+	</imgdir>
+    <imgdir name="2431643">
+		<string name="name" value="特惠礼包"/>
+		<string name="desc" value="让你享受两周的超级明星生活（在TKTKTK QRQRQR过期。）\n\n#c-福利-\n经验值加成\n1-29级：50%\n30-200级：20%\n\n2周世界地图传送\n2周特惠礼包商店访问\n每日特惠礼包礼盒#"/>
+	</imgdir>
+</imgdir>

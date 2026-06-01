@@ -1,0 +1,5 @@
+<imgdir name="60001216">
+        <string name="name" value="重构：防御模式" />
+        <string name="desc" value="从攻击模式切换为防御模式。更高的转职阶段会增强被动效果。技能增强效果可以叠加。" />
+        <string name="h" value="Weapon Defense: +#pddX, Magic Defense: +#mddX, Accuracy: +#accX, Max HP: +#mhpR%" />
+    </imgdir>

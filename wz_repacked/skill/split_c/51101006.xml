@@ -1,0 +1,7 @@
+<imgdir name="51101006">
+        <string name="name" value="光辉冲刺" />
+        <string name="desc" value="用灿烂的光之剑击退多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Pushed: #mobCount" />
+        <string name="pdesc" value="用灿烂的光之剑击退多个敌人。暂时减速敌人。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Speed: -#x\nCooldown: #cooltime sec" />
+    </imgdir>

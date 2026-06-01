@@ -1,0 +1,191 @@
+<imgdir name="5000322">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Here?"/>
+		<string name="c1_s2" value="Eh?"/>
+		<string name="c1_f1" value="Bwah?"/>
+		<string name="c1_f2" value="Hmph"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="I'm not sitting because I want to."/>
+		<string name="c2_s2" value="This is the last time!"/>
+		<string name="c2_s3" value="I will do as you say."/>
+		<string name="c2_s4" value="Got it."/>
+		<string name="c2_f1" value="Don't tell me what to do."/>
+		<string name="c2_f2" value="I don't want to do it."/>
+		<string name="c2_f3" value="I'm my own pet!"/>
+		<string name="c2_f4" value="I don't want to sit!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="I actually look better when I'm sitting."/>
+		<string name="c3_s2" value="Rest."/>
+		<string name="c3_s3" value="My legs were tired anyway."/>
+		<string name="c3_s4" value="Rak, you demand much."/>
+		<string name="c3_f1" value="Nah, don't feel like it."/>
+		<string name="c3_f2" value="What?!"/>
+		<string name="c3_f3" value="Nope."/>
+		<string name="c3_f4" value="Don't order me around."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="The ground feels cold."/>
+		<string name="c4_s2" value="Okay, fine. Bleh."/>
+		<string name="c4_s3" value="I will sit for you! You are scary and powerful!"/>
+		<string name="c4_s4" value="Good view."/>
+		<string name="c4_f1" value="Don't tell me what to do!"/>
+		<string name="c4_f2" value="That's your command? I refuse."/>
+		<string name="c4_f3" value="I can neither hear nor see you right now."/>
+		<string name="c4_f4" value="I don't feel good. Don't touch me!"/>
+		<string name="c5" value="slap | no | bad | don't"/>
+		<string name="c5_s1" value="Who do you think you are?"/>
+		<string name="c5_s2" value="Whoa."/>
+		<string name="c5_f1" value="You're the one that should be punished!"/>
+		<string name="c5_f2" value="Mind your own business."/>
+		<string name="c6" value="slap | no | bad | don't"/>
+		<string name="c6_s1" value="I'll apologize, just this time."/>
+		<string name="c6_s2" value="Me am kr'ishmor, Mr'aku!"/>
+		<string name="c6_s3" value="I was wrong..."/>
+		<string name="c6_s4" value="My bad!"/>
+		<string name="c6_f1" value="You're not scary!"/>
+		<string name="c6_f2" value="What, you're not my master!"/>
+		<string name="c6_f3" value="Are you resisting me?"/>
+		<string name="c6_f4" value="Rak unar! I eat your wallet tonight!"/>
+		<string name="c7" value="slap | no | bad | don't"/>
+		<string name="c7_s1" value="Get mad!"/>
+		<string name="c7_s2" value="Fine! Just don't expect an apology."/>
+		<string name="c7_s3" value="More! More!"/>
+		<string name="c7_s4" value="My old boss was scary too. He eat my brother! So fun!"/>
+		<string name="c7_f1" value="I do not fear you!"/>
+		<string name="c7_f2" value="How dare you get angry at me?!"/>
+		<string name="c7_f3" value="It's you who needs to be punished!"/>
+		<string name="c7_f4" value="Why am I getting punished?"/>
+		<string name="c8" value="slap | no | bad | don't"/>
+		<string name="c8_s1" value="Okay, I'm sorry."/>
+		<string name="c8_s2" value="Fine, I won't do it."/>
+		<string name="c8_s3" value="I admit that I'm wrong, just this time."/>
+		<string name="c8_s4" value="Get angrier."/>
+		<string name="c8_f1" value="Is there a reason for this or do you just like yelling?"/>
+		<string name="c8_f2" value="You always say the same insults. Think up something new!"/>
+		<string name="c8_f3" value="Is that the best you can do?"/>
+		<string name="c8_f4" value="Watch your mouth..."/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Oki."/>
+		<string name="c9_s2" value="Whoa."/>
+		<string name="c9_f1" value="Sure, sure!"/>
+		<string name="c9_f2" value="I see."/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="Nope."/>
+		<string name="c10_s2" value="Don't do it."/>
+		<string name="c10_s3" value="No."/>
+		<string name="c10_s4" value="So many fans, so little time to crush all their hearts."/>
+		<string name="c10_f1" value="Since when? Squerch?"/>
+		<string name="c10_f2" value="Get away."/>
+		<string name="c10_f3" value="I may be quiet, but I haven't forgiven you."/>
+		<string name="c10_f4" value="How DARE you."/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="Don't do it."/>
+		<string name="c11_s2" value="Okay, okay."/>
+		<string name="c11_s3" value="If you really mean it, give me something to eat."/>
+		<string name="c11_s4" value="Well, thank you."/>
+		<string name="c11_f1" value="Don't speak. Just don't."/>
+		<string name="c11_f2" value="Why do you make me suffer?"/>
+		<string name="c11_f3" value="Have you been eating strange mushrooms?"/>
+		<string name="c11_f4" value="Ookyu! You surprised me!"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="Stick around. I might have some use for you."/>
+		<string name="c12_s2" value="Sorry."/>
+		<string name="c12_s3" value="That is the rudest thing you can say!"/>
+		<string name="c12_s4" value="So many fans, so little time to crush all their hearts."/>
+		<string name="c12_f1" value="I don't like niceties."/>
+		<string name="c12_f2" value="You'll be fooled."/>
+		<string name="c12_f3" value="It's not me."/>
+		<string name="c12_f4" value="You'll be used."/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Why say word &quot;poop&quot; all time?"/>
+		<string name="c13_s2" value="Ha! Pthbbbtt!"/>
+		<string name="c13_s3" value="Never mind the noise."/>
+		<string name="c13_s4" value="Woo!"/>
+		<string name="c13_f1" value="Oh..."/>
+		<string name="c13_f2" value="I'm not going to throw that away."/>
+		<string name="c13_f3" value="Stop talking rubbish."/>
+		<string name="c13_f4" value="It's not pooping time yet. Squerch."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Don't talk to me right now."/>
+		<string name="c14_s2" value="I expect you to clean after me?"/>
+		<string name="c14_s3" value="Throw it up."/>
+		<string name="c14_s4" value="Well then, excuse me."/>
+		<string name="c14_f1" value="You poop first!"/>
+		<string name="c14_f2" value="Just who do you think you're bossing around?"/>
+		<string name="c14_f3" value="I'll get to work on making some."/>
+		<string name="c14_f4" value="No, I'm keeping it."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="I'm a clean pet."/>
+		<string name="c15_s2" value="My eyes are closed. I am one with my bowels."/>
+		<string name="c15_s3" value="Throw it up."/>
+		<string name="c15_s4" value="You should empty it, too."/>
+		<string name="c15_f1" value="Read my lips: NO."/>
+		<string name="c15_f2" value="I've got nothing to get rid of."/>
+		<string name="c15_f3" value="I don't understand you."/>
+		<string name="c15_f4" value="I'm going home."/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="See you tomorrow!"/>
+		<string name="c16_s2" value="Don't touch me."/>
+		<string name="c16_s3" value="I'll close my eyes."/>
+		<string name="c16_s4" value="I'm not sleepy."/>
+		<string name="c16_f1" value="I'm totally fine!"/>
+		<string name="c16_f2" value="I'm keeping my eyes open."/>
+		<string name="c16_f3" value="Not sleepy."/>
+		<string name="c16_f4" value="I want to play more..."/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Good night."/>
+		<string name="c17_s2" value="I'm tired."/>
+		<string name="c17_s3" value="ZZZzzzzZZZ"/>
+		<string name="c17_s4" value="I was going to."/>
+		<string name="c17_f1" value="Let's play a little longer... Please?"/>
+		<string name="c17_f2" value="It's much too early for that!"/>
+		<string name="c17_f3" value="Huh?"/>
+		<string name="c17_f4" value="Maybe if you weren't so NOISY."/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="I won't wake up ever again."/>
+		<string name="c18_s2" value="Don't ditch me while I'm sleeping."/>
+		<string name="c18_s3" value="I sleep whenever I want. It has nothing to do with you."/>
+		<string name="c18_s4" value="Sweet dreams."/>
+		<string name="c18_f1" value="I can't hear what you're saying."/>
+		<string name="c18_f2" value="I'm not sleepy right now."/>
+		<string name="c18_f3" value="Now is not the time to sleep."/>
+		<string name="c18_f4" value="I'm not that lazy."/>
+		<string name="c19" value="talk | chat | say"/>
+		<string name="c19_s1" value="Who do you think you are, kid?"/>
+		<string name="c19_s2" value="Don't make me!"/>
+		<string name="c19_s3" value="You want me to talk? There, I talked."/>
+		<string name="c19_s4" value="Save your breath."/>
+		<string name="c19_f1" value="We should refrain from talking loudly in public places."/>
+		<string name="c19_f2" value="I can't tell you!"/>
+		<string name="c19_f3" value="What did you just say?"/>
+		<string name="c19_f4" value="What do you want me to say?"/>
+		<string name="c20" value="talk | chat | say"/>
+		<string name="c20_s1" value="Okay!"/>
+		<string name="c20_s2" value="I guess having a big head doesn't mean that person's smart..."/>
+		<string name="c20_s3" value="You'd better feed me on time. Or I'll run away!"/>
+		<string name="c20_s4" value="Can you defeat Zakum? I don't think you can..."/>
+		<string name="c20_f1" value="What did you just say?"/>
+		<string name="c20_f2" value="Stop acting so erratic."/>
+		<string name="c20_f3" value="Why don't you just keep...doing what you do?"/>
+		<string name="c20_f4" value="I don't wanna talk right now! I'm in a bad mood!"/>
+		<string name="c21" value="talk | chat | say"/>
+		<string name="c21_s1" value="You're way too ugly."/>
+		<string name="c21_s2" value="Your head is too big."/>
+		<string name="c21_s3" value="Let's fight."/>
+		<string name="c21_s4" value="Do you want to fight me?"/>
+		<string name="c21_f1" value="I refuse."/>
+		<string name="c21_f2" value="Too tired..."/>
+		<string name="c21_f3" value="Stop bossing me around!"/>
+		<string name="c21_f4" value="Let's relax, okay?"/>
+		<string name="f1_s" value="What a pleasant scent."/>
+		<string name="f1_f" value="Hrk!"/>
+		<string name="f2_s" value="I don't want to eat alone."/>
+		<string name="f2_f" value="Stop it."/>
+		<string name="f3_s" value="Hmm, that's not bad."/>
+		<string name="f3_f" value="Bunny bagoom!"/>
+		<string name="f4_s" value="It tastes okay..."/>
+		<string name="f4_f" value="You speak like a coward."/>
+		<string name="s1" value="Watch your manners."/>
+		<string name="s2" value="Careful what you say!"/>
+		<string name="s3" value="I don't know such words."/>
+		<string name="s4" value="I'm warning you."/>
+	</imgdir>

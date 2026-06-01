@@ -1,0 +1,5 @@
+<imgdir name="30021000">
+        <string name="name" value="水晶投掷" />
+        <string name="desc" value="向敌人投掷一块路比碎片。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #fixdamage " />
+    </imgdir>

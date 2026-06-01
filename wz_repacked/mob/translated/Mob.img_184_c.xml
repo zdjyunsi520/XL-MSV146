@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8880000">
+		<string name="name" value="麦格纳斯"/>
+	</imgdir>
+    <imgdir name="8880001">
+		<string name="name" value="麦格纳斯的灵魂"/>
+	</imgdir>
+    <imgdir name="8880002">
+		<string name="name" value="麦格纳斯"/>
+	</imgdir>
+    <imgdir name="8880003">
+		<string name="name" value="麦格纳斯的灵魂"/>
+	</imgdir>
+    <imgdir name="8880004">
+		<string name="name" value="维尔德罗"/>
+	</imgdir>
+    <imgdir name="8880005">
+		<string name="name" value="维尔德罗的灵魂"/>
+	</imgdir>
+    <imgdir name="8880006">
+		<string name="name" value="维克托"/>
+	</imgdir>
+    <imgdir name="8880007">
+		<string name="name" value="维克托的灵魂"/>
+	</imgdir>
+    <imgdir name="8880008">
+		<string name="name" value="特雷格洛"/>
+	</imgdir>
+    <imgdir name="8880009">
+		<string name="name" value="特雷格洛的灵魂"/>
+	</imgdir>
+    <imgdir name="9410199">
+		<string name="name" value="金"/>
+	</imgdir>
+    <imgdir name="9410200">
+		<string name="name" value="杰克"/>
+	</imgdir>
+    <imgdir name="9410201">
+		<string name="name" value="米哈尔"/>
+	</imgdir>
+    <imgdir name="9410202">
+		<string name="name" value="奥兹"/>
+	</imgdir>
+    <imgdir name="9410203">
+		<string name="name" value="伊莲娜"/>
+	</imgdir>
+    <imgdir name="9410204">
+		<string name="name" value="埃克哈特"/>
+	</imgdir>
+    <imgdir name="9410205">
+		<string name="name" value="鹰眼"/>
+	</imgdir>
+    <imgdir name="9410206">
+		<string name="name" value="拉娜"/>
+	</imgdir>
+    <imgdir name="9410207">
+		<string name="name" value="杰娜"/>
+	</imgdir>
+    <imgdir name="9410208">
+		<string name="name" value="亚马逊女战士"/>
+	</imgdir>
+</imgdir>

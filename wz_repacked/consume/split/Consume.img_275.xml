@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430206">
+		<string name="name" value="Race Kart 7-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Race Kart riding skill for 7 days."/>
+	</imgdir>
+    <imgdir name="2430211">
+		<string name="name" value="Race Kart 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Race Kart riding skill for 30 days."/>
+	</imgdir>
+    <imgdir name="2430212">
+		<string name="name" value="Energy Drink - Red Moo"/>
+		<string name="desc" value="Are you tired? Try the new fresh, minty energy drink, Red Moo! Restores 5 Fatigue. You can drink 3 energy drinks per day."/>
+	</imgdir>
+    <imgdir name="2430213">
+		<string name="name" value="Energy Drink - Vita-C"/>
+		<string name="desc" value="Are you tired? Feel better with a refreshing orange Vita-C! Restores 10 Fatigue. You can drink 3 energy drinks per day."/>
+	</imgdir>
+    <imgdir name="2430214">
+		<string name="name" value="Energy Drink - Mobstar"/>
+		<string name="desc" value="Are you tired? Shrug it off with hyper-caffeinated Mobstar energy drink! #cRestores 30 Fatigue#. Warning: May cause insomnia.\n#c no daily limit.#"/>
+	</imgdir>
+    <imgdir name="2430215">
+		<string name="name" value="Snowdrop Android Box"/>
+		<string name="desc" value="Box containing a snowdrop gift. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="2430216">
+		<string name="name" value="Snowdrop Giant Box"/>
+		<string name="desc" value="Box containing a snowdrop gift. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="2430217">
+		<string name="name" value="Snowdrop Spirit Box"/>
+		<string name="desc" value="Box containing a snowdrop gift. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="2430218">
+		<string name="name" value="Storm Growth Potion"/>
+		<string name="desc" value="A legendary elixir of power. Take a sip to gain a level.\n#cMaximum-level characters cannot benefit from this item.#"/>
+	</imgdir>
+    <imgdir name="2430221">
+		<string name="name" value="Battle Pouch"/>
+		<string name="desc" value="Pouch available for purchase with a Gallant Emblem. No one knows what's inside."/>
+	</imgdir>
+    <imgdir name="2430223">
+		<string name="name" value="Balrog 15 Day Use Coupon "/>
+		<string name="desc" value="Double-click to use the mount [Balrog] for 15 day starting today."/>
+	</imgdir>
+    <imgdir name="2430225">
+		<string name="name" value="Balrog Riding Coupon"/>
+		<string name="desc" value="Double-click on it to use the Balrog riding skill for 10 days."/>
+	</imgdir>
+    <imgdir name="2430226">
+		<string name="name" value="Limited! Battle Commemorative Box"/>
+		<string name="desc" value="A gift to commemorate the introduction of Battle Mode. What could be inside?"/>
+	</imgdir>
+    <imgdir name="2430230">
+		<string name="name" value="Storm Growth Potion"/>
+		<string name="desc" value="A legendary elixir of power. Take a sip to gain a level.\n#cMaximum-level characters cannot benefit from this item.#"/>
+	</imgdir>
+    <imgdir name="2430231">
+		<string name="name" value="Energy Drink - Carrot Water"/>
+		<string name="desc" value="Mineral Water laced with sweet carrot syrup. Restores 40 Fatigue. You can drink 3 energy drinks per day."/>
+	</imgdir>
+    <imgdir name="2430232">
+		<string name="name" value="Fortune 10-Day Coupon"/>
+		<string name="desc" value="A coupon that allows you to use the Fortune riding skill for 10 days. Only obtainable during New Year's."/>
+	</imgdir>
+    <imgdir name="2430238">
+		<string name="name" value="Continental Return Scroll"/>
+		<string name="desc" value="A scroll that lets you return to your town, no matter how far you roam."/>
+	</imgdir>
+    <imgdir name="2430239">
+		<string name="name" value="Rogue Rabbit 15 Day Use Coupon"/>
+		<string name="desc" value="Double-click to use the mount [Rogue Rabbit] for 15 day starting today."/>
+	</imgdir>
+    <imgdir name="2430240">
+		<string name="name" value="Rogue Rabbit 1 Year Use Coupon"/>
+		<string name="desc" value="Double-click to use the mount [Rogue Rabbit] for 1 year starting today."/>
+	</imgdir>
+    <imgdir name="2430241">
+		<string name="name" value="Cute Newbie Gift Set"/>
+		<string name="desc" value="A 2011 Summer event item. A gift set given to users who created a new character."/>
+	</imgdir>
+</imgdir>

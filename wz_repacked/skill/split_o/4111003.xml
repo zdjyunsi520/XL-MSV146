@@ -1,0 +1,8 @@
+<imgdir name="4111003">
+        <string name="name" value="Shadow Web" />
+        <string name="desc" value="Creates a web of shadow around you that can tangle up to 6 monsters. Once tangled, the monsters will be unable to move and take continuous damage." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time, Bind Chance: #prop%, Damage: #damage%, Damage Over Time: #dot% per second" />
+        <string name="pdesc" value="Creates a web of shadow that can tangle multiple monsters. Once tangled, the monsters will be unable to move and take continuous damage." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time, Bind Chance: #prop%, Damage: #damage%, Damage Over Time: #dot% per sec\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Damage Over Time: #prop% chance to deal #dot% every second for #time sec, Bind Chance: #hcProp%, Bind Duration: #hcTime\nCooldown: #hcCooltime sec" />
+    </imgdir>

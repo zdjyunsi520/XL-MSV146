@@ -1,0 +1,87 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390113">
+		<string name="name" value="Chermini"/>
+		<string name="n0" value="We can't lose focus!"/>
+		<string name="n1" value="I'm in charge of finding out what's going on around here."/>
+		<string name="d0" value="Tynerum is worth a good look around."/>
+		<string name="d1" value="Tynerum is worth a good look around."/>
+	</imgdir>
+    <imgdir name="9000197">
+		<string name="name" value="Spiegameman"/>
+		<string name="n0" value="Come one, come all to the Survivalism Challenge! Hosted by yours truly, Speigameman, master of games!"/>
+		<string name="n1" value="I had my name legally changed as a promotional stunt! I regret nothing!"/>
+	</imgdir>
+    <imgdir name="9000198">
+		<string name="name" value="Spiegameman"/>
+		<string name="n0" value="Come one, come all to the Survivalism Challenge! Hosted by yours truly, Speigameman, master of games!"/>
+		<string name="n1" value="I had my name legally changed as a promotional stunt! I regret nothing!"/>
+	</imgdir>
+    <imgdir name="9000177">
+		<string name="name" value="Gingerbread Man"/>
+	</imgdir>
+    <imgdir name="9390114">
+		<string name="name" value="Jay-Jay"/>
+		<string name="n0" value="I gotta find some answers."/>
+		<string name="d0" value="I'm curious as a three-eyed garden hog..."/>
+		<string name="d1" value="I'm curious as a three-eyed garden hog..."/>
+	</imgdir>
+    <imgdir name="9000160">
+		<string name="name" value="Clara"/>
+	</imgdir>
+    <imgdir name="9000161">
+		<string name="name" value="Irena"/>
+	</imgdir>
+    <imgdir name="9000162">
+		<string name="name" value="Lilin"/>
+	</imgdir>
+    <imgdir name="9000163">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+    <imgdir name="9000164">
+		<string name="name" value="Jules"/>
+	</imgdir>
+    <imgdir name="9000165">
+		<string name="name" value="Paolo"/>
+	</imgdir>
+    <imgdir name="9000167">
+		<string name="name" value="Wee Moon Bunny"/>
+		<string name="n0" value="Playing Yut is soooo fun!"/>
+		<string name="n1" value="I'm going to stuff my face with rice cake soup this holiday season!"/>
+	</imgdir>
+    <imgdir name="9000168">
+		<string name="name" value="Chumji"/>
+		<string name="n0" value="You want to ride my kite?"/>
+		<string name="n1" value="I'd ride my own kite for days if I were younger."/>
+		<string name="d0" value="I'm actually the master of kites."/>
+		<string name="d1" value="Only I can make a kite you can ride."/>
+	</imgdir>
+    <imgdir name="9000169">
+		<string name="name" value="Chumji"/>
+		<string name="n0" value="I love watching people ride. "/>
+		<string name="n1" value="How was the flight?"/>
+		<string name="d0" value="These kites are my greatest accomplishments."/>
+		<string name="d1" value="I want to ride that kite too!"/>
+	</imgdir>
+    <imgdir name="9000170">
+		<string name="name" value="Chumji"/>
+		<string name="n0" value="You're better than I thought!"/>
+		<string name="n1" value="Eat as much as you can!"/>
+		<string name="d0" value="Did you like my masterpiece?"/>
+		<string name="d1" value="I want to ride that kite too!"/>
+	</imgdir>
+    <imgdir name="9390120">
+		<string name="name" value="Heart Tree Guardian"/>
+	</imgdir>
+    <imgdir name="9390121">
+		<string name="name" value="Gollux"/>
+	</imgdir>
+    <imgdir name="9390116">
+		<string name="name" value="Mostly Mysterious Merchant"/>
+	</imgdir>
+    <imgdir name="9390117">
+		<string name="name" value="Mostly Mysterious Merchant"/>
+	</imgdir>
+    <imgdir name="9390118">
+		<string name="name" value="Mostly Mysterious Merchant"/>
+	</imgdir>
+</imgdir>

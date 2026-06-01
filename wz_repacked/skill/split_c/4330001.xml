@@ -1,0 +1,7 @@
+<imgdir name="4330001">
+        <string name="name" value="高级隐身术" />
+        <string name="desc" value="学习潜行可以在隐身术中攻击，有几率不结束隐身术。攻击时有几率自动触发隐身术，在隐身术中攻击会增加伤害。\n需要技能：#c隐身术 Lv. 10#" />
+        <string name="h" value="Maintain Dark Sight Chance: #prop%. Dark Sight Trigger Chance: #x%, Dark Sight Damage Bonus: #y%" />
+        <string name="pdesc" value="学习潜行可以在隐身术中攻击，有几率不结束隐身术。攻击时有几率自动触发隐身术，在隐身术中攻击会增加伤害。\n需要技能：#c隐身术 Lv. 10#" />
+        <string name="ph" value="Maintain Dark Sight Chance: #prop%. Dark Sight Trigger Chance: #x%, Dark Sight Damage Bonus: #y%" />
+    </imgdir>

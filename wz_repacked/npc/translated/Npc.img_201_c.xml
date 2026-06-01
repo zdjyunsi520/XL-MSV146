@@ -1,0 +1,96 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390217">
+		<string name="name" value="泰佩斯"/>
+		<string name="func" value="丹尼尔商盟船员"/>
+		<string name="n0" value="我是丹尼尔贸易船的舵手。"/>
+		<string name="n1" value="我也负责这附近的贸易事务。"/>
+		<string name="d0" value="什么事？"/>
+		<string name="d1" value="什么事？"/>
+	</imgdir>
+    <imgdir name="9390218">
+		<string name="name" value="伊尔·卡波"/>
+	</imgdir>
+    <imgdir name="9390219">
+		<string name="name" value="皮特雷诺"/>
+		<string name="func" value="物品升级"/>
+		<string name="d0" value="你想把属性从一个物品转移到另一个吗？"/>
+		<string name="d1" value="你想把属性从一个物品转移到另一个吗？"/>
+		<string name="n0" value="强化装备应该无忧无虑！"/>
+		<string name="n1" value="只要跟我说，我会让升级变得非常简单！"/>
+	</imgdir>
+    <imgdir name="9390220">
+		<string name="name" value="大师菲娅梅塔"/>
+		<string name="n0" value="你想变得富有吗？因为我想。"/>
+		<string name="n1" value="航行并不总是一帆风顺。"/>
+		<string name="d0" value="我能帮你吗？"/>
+	</imgdir>
+    <imgdir name="9390221">
+		<string name="name" value="贾维尔"/>
+		<string name="n0" value="你确定吗？这些物品你在其他地方看不到的"/>
+		<string name="n1" value="我只接受商贸之都金币。我不喜欢这些奇怪的硬币！"/>
+	</imgdir>
+    <imgdir name="9390222">
+		<string name="name" value="泰纳鲁姆的终结"/>
+	</imgdir>
+    <imgdir name="9390223">
+		<string name="name" value="船员冒名顶替者"/>
+	</imgdir>
+    <imgdir name="9390224">
+		<string name="name" value="虚拟NPC"/>
+	</imgdir>
+    <imgdir name="9390225">
+		<string name="name" value="泰佩斯"/>
+		<string name="n0" value="我是丹尼尔贸易船的舵手。"/>
+		<string name="n1" value="我也负责这附近的贸易事务。"/>
+		<string name="d0" value="什么事？"/>
+		<string name="d1" value="什么事？"/>
+	</imgdir>
+    <imgdir name="9390226">
+		<string name="name" value="帕贝尔之门"/>
+	</imgdir>
+    <imgdir name="9390227">
+		<string name="name" value="公会刺客"/>
+	</imgdir>
+    <imgdir name="9390228">
+		<string name="name" value="公会刺客"/>
+	</imgdir>
+    <imgdir name="9390229">
+		<string name="name" value="公会刺客"/>
+	</imgdir>
+    <imgdir name="9390230">
+		<string name="name" value="卡尼斯"/>
+		<string name="d0" value="......"/>
+		<string name="d1" value="......"/>
+		<string name="func" value="伊尔·卡波"/>
+	</imgdir>
+    <imgdir name="9390231">
+		<string name="name" value="泰佩斯"/>
+	</imgdir>
+    <imgdir name="9390232">
+		<string name="name" value="德尔菲诺雇佣兵"/>
+	</imgdir>
+    <imgdir name="9390233">
+		<string name="name" value="德尔菲诺雇佣兵"/>
+	</imgdir>
+    <imgdir name="9390234">
+		<string name="name" value="莱昂·丹尼尔"/>
+		<string name="n0" value="我将使丹尼尔商盟成为黎明之岛最好最大的商盟。"/>
+		<string name="n1" value="我准备好恋爱了..."/>
+		<string name="d0" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+		<string name="d1" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+	</imgdir>
+    <imgdir name="9390235">
+		<string name="name" value="莱昂·丹尼尔"/>
+		<string name="n0" value="我将使丹尼尔商盟成为黎明之岛最好最大的商盟。"/>
+		<string name="n1" value="我准备好恋爱了..."/>
+		<string name="d0" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+		<string name="d1" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+	</imgdir>
+    <imgdir name="9390236">
+		<string name="name" value="莱昂·丹尼尔"/>
+		<string name="n0" value="我将使丹尼尔商盟成为黎明之岛最好最大的商盟。"/>
+		<string name="n1" value="我准备好恋爱了..."/>
+		<string name="d0" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+		<string name="d1" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+	</imgdir>
+</imgdir>

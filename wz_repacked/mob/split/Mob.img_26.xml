@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="5130101">
+		<string name="name" value="Stone Golem"/>
+	</imgdir>
+    <imgdir name="5130102">
+		<string name="name" value="Dark Stone Golem"/>
+	</imgdir>
+    <imgdir name="5130103">
+		<string name="name" value="Croco"/>
+	</imgdir>
+    <imgdir name="5130104">
+		<string name="name" value="Hector"/>
+	</imgdir>
+    <imgdir name="5130105">
+		<string name="name" value="Dark Jr. Yeti"/>
+	</imgdir>
+    <imgdir name="5130106">
+		<string name="name" value="Transforming Dark Jr. Yeti"/>
+	</imgdir>
+    <imgdir name="5130107">
+		<string name="name" value="Coolie Zombie"/>
+	</imgdir>
+    <imgdir name="5130108">
+		<string name="name" value="Miner Zombie"/>
+	</imgdir>
+    <imgdir name="5140000">
+		<string name="name" value="White Fang"/>
+	</imgdir>
+    <imgdir name="5150000">
+		<string name="name" value="Mixed Golem"/>
+	</imgdir>
+    <imgdir name="5150001">
+		<string name="name" value="Skeleton Soldier"/>
+	</imgdir>
+    <imgdir name="5150002">
+		<string name="name" value="Icy Mixed Golem"/>
+	</imgdir>
+    <imgdir name="5150003">
+		<string name="name" value="Flaming Mixed Golem"/>
+	</imgdir>
+    <imgdir name="5160000">
+		<string name="name" value="Rabbit"/>
+	</imgdir>
+    <imgdir name="5160001">
+		<string name="name" value="Golden Rabbit"/>
+	</imgdir>
+    <imgdir name="5160002">
+		<string name="name" value="Scorpie"/>
+	</imgdir>
+    <imgdir name="5160003">
+		<string name="name" value="Golden Scorpie"/>
+	</imgdir>
+    <imgdir name="5160004">
+		<string name="name" value="Ferret"/>
+	</imgdir>
+    <imgdir name="5160005">
+		<string name="name" value="Tragos"/>
+	</imgdir>
+    <imgdir name="5160006">
+		<string name="name" value="Kephivara"/>
+	</imgdir>
+</imgdir>

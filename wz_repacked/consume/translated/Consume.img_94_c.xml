@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041009">
+		<string name="name" value="披风强化卷轴 MP 100%"/>
+		<string name="desc" value="强化披风的最大MP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大MP：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2041010">
+		<string name="name" value="披风强化卷轴 MP 60%"/>
+		<string name="desc" value="强化披风的最大MP。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大MP：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2041011">
+		<string name="name" value="披风强化卷轴 MP 10%"/>
+		<string name="desc" value="强化披风的最大MP。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大MP：+80\r\n#"/>
+	</imgdir>
+    <imgdir name="2041012">
+		<string name="name" value="披风强化卷轴 力量 100%"/>
+		<string name="desc" value="强化披风的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041013">
+		<string name="name" value="披风强化卷轴 力量 60%"/>
+		<string name="desc" value="强化披风的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041014">
+		<string name="name" value="披风强化卷轴 力量 10%"/>
+		<string name="desc" value="强化披风的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041015">
+		<string name="name" value="披风强化卷轴 智力 100%"/>
+		<string name="desc" value="强化披风的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041016">
+		<string name="name" value="披风强化卷轴 智力 60%"/>
+		<string name="desc" value="强化披风的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041017">
+		<string name="name" value="披风强化卷轴 智力 10%"/>
+		<string name="desc" value="强化披风的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041018">
+		<string name="name" value="披风强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化披风的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041019">
+		<string name="name" value="披风强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化披风的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041020">
+		<string name="name" value="披风强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化披风的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041021">
+		<string name="name" value="披风强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化披风的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041022">
+		<string name="name" value="披风强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化披风的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041023">
+		<string name="name" value="披风强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化披风的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041024">
+		<string name="name" value="披风强化卷轴 魔法防御 100%"/>
+		<string name="desc" value="强化披风的魔法防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大MP：+50\r\n物理防御：+15\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2041025">
+		<string name="name" value="披风强化卷轴 物理防御 100%"/>
+		<string name="desc" value="强化披风的物理防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+50\r\n物理防御：+30\r\n魔法防御：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2041026">
+		<string name="name" value="披风强化卷轴 魔法防御 70%"/>
+		<string name="desc" value="强化披风的魔法防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+10\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2041027">
+		<string name="name" value="披风强化卷轴 魔法防御 30%"/>
+		<string name="desc" value="强化披风的魔法防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大MP：+50\r\n物理防御：+30\r\n魔法防御：+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2041028">
+		<string name="name" value="披风强化卷轴 物理防御 70%"/>
+		<string name="desc" value="强化披风的物理防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+30\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+</imgdir>

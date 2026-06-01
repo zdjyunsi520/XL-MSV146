@@ -1,0 +1,7 @@
+<imgdir name="20001001">
+        <string name="name" value="恢复" />
+        <string name="desc" value="[最高等级：3]\n30秒内持续恢复HP。\n#c技能间隔：2分钟#" />
+        <string name="h1" value="MP -5；30秒内恢复HP +24" />
+        <string name="h2" value="MP -10；30秒内恢复HP +48" />
+        <string name="h3" value="MP -15；30秒内恢复HP +72" />
+    </imgdir>

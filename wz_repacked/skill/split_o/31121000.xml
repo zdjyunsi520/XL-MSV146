@@ -1,0 +1,8 @@
+<imgdir name="31121000">
+        <string name="name" value="Infernal Concussion" />
+        <string name="desc" value="Calls an eruption from below to blast nearby enemies into the air. Enemies in air receive 100% critical damage from the explosion." />
+        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, Damage: #damage%, Max Monsters Hit: #mobCount. Lifts enemies into the air and deals #w critical attacks that deal #v% damage." />
+        <string name="pdesc" value="Calls an eruption from below to blast nearby enemies into the air. Enemies in air receive 100% critical damage from the explosion." />
+        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Has a #prop% chance to launch enemies into the air to perform #w critical attacks that deal #v% damage.\nCooldown: #cooltime sec" />
+        <string name="hch" value="HP Cost: #hpCon, Fury Cost: #forceCon, Damage: #damage%, Max Monsters Hit: #mobCount. Lifts enemies into the air to deal #w critical attacks that deal #v% damage.\nCooldown: #hcCooltime sec" />
+    </imgdir>

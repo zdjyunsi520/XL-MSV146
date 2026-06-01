@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="0001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="10001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20011224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="30001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20021224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="30011224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20031224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20041224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="32001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="33001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="35001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="36001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="50001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="60001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="60011224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="100001224"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="80011024"><string name="name" value="Helicopter"/><string name="desc" value="[Master Level: 1]\nAllows you to travel by riding a mount. \nIf you have the #Soaring# skill, press the Up Arrow and the Jump keys to ascend. \nConsumes 5 MP when activated. \nMax Flight Time: #0 seconds#"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 170%, Jump: 120%"/></imgdir>
+    <imgdir name="71000821"><string name="name" value="Song of Spirits"/><string name="desc" value="Ignore some monster Defense."/><string name="h" value="Monster Defense Ignored: +#ignoreMobpdpR%"/></imgdir>
+    <imgdir name="80010006"><string name="name" value="Focus Spirit"/><string name="desc" value="Embedded with mystical animal spirit power."/><string name="h" value="Boss Damage: +#bdR%.\nCritical Rate: +#cr%.\nMax HP +#mhpR%.\nMax MP: +#mmpR%."/></imgdir>
+</imgdir>

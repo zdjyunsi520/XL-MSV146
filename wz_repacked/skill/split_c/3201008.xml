@@ -1,0 +1,5 @@
+<imgdir name="3201008">
+        <string name="name" value="捕网投掷" />
+        <string name="desc" value="向敌人投掷捕网，限制其行动并造成伤害~" />
+        <string name="h" value="MP消耗: #mpCon, 以#damage%伤害攻击最多#mobCount个敌人#attackCount次。#prop%几率使敌人无法移动#time秒。对BOSS持续时间减半，移动速度降低50%" />
+    </imgdir>

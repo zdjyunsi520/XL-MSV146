@@ -1,0 +1,5 @@
+<imgdir name="101120106">
+        <string name="name" value="超级碎裂电场" />
+        <string name="desc" value="超级碎裂命中处短时间存留。持续伤害触碰电场的敌人~" />
+        <string name="h" value="每#x秒对最多#mobCount个敌人造成#damage%持续伤害，持续#time秒。" />
+    </imgdir>

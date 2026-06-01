@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000141">
+			<string name="name" value="Big Boss Flashlight"/>
+			<string name="desc" value="Maybe the Big Boss uses it as a secret weapon..."/>
+		</imgdir>
+    <imgdir name="4000142">
+			<string name="name" value="Jr. Sentinel Shellpiece"/>
+			<string name="desc" value="A hard piece of rock that forms the body of Jr. Sentinel."/>
+		</imgdir>
+    <imgdir name="4000143">
+			<string name="name" value="Zombie Teddy Bear"/>
+			<string name="desc" value="A Teddy plushy that's been controlled by Soul Teddy. The soul is long gone, and what's left is a torn-up toy."/>
+		</imgdir>
+    <imgdir name="4000144">
+			<string name="name" value="Free Spirit"/>
+			<string name="desc" value="A soul that used to be stuck on the back of Master Soul Teddy. The soul is now set free, and it's smiling."/>
+		</imgdir>
+    <imgdir name="4000145">
+			<string name="name" value="Sealed-up Grandpa Clock"/>
+			<string name="desc" value="Sealed up the center of the clock with a charm ."/>
+		</imgdir>
+    <imgdir name="4000146">
+			<string name="name" value="Evil Spirit"/>
+			<string name="desc" value="The heart of the Dark Clock is broken, and the charm is stuck on it, but it's still not fully sealed up. As a result, it gives off black aura all around it."/>
+		</imgdir>
+    <imgdir name="4000147">
+			<string name="name" value="Sealed Teddy Bear"/>
+			<string name="desc" value="A sealed-up Teddy bear that's been controlled by Death Teddy."/>
+		</imgdir>
+    <imgdir name="4000148">
+			<string name="name" value="Binding Bridle"/>
+			<string name="desc" value="The bridle that bound Master Death Teddy's hand and the Teddys."/>
+		</imgdir>
+    <imgdir name="4000149">
+			<string name="name" value="Sealed Bottle"/>
+			<string name="desc" value="A pot that is a source of power that sealed up the phantom watch."/>
+		</imgdir>
+    <imgdir name="4000150">
+			<string name="name" value="Ice Piece"/>
+			<string name="desc" value="An ice piece formed after the death of Grim Phantom Watch."/>
+		</imgdir>
+    <imgdir name="4000151">
+			<string name="name" value="Gatekeeper Armband"/>
+			<string name="desc" value="The Gatekeeper's armband."/>
+		</imgdir>
+    <imgdir name="4000152">
+			<string name="name" value="Tanathos Strap"/>
+			<string name="desc" value="A strap from Tanathos"/>
+		</imgdir>
+    <imgdir name="4000153">
+			<string name="name" value="Snorkle"/>
+			<string name="desc" value="Used by Scuba Pepe to breathe while swimming."/>
+		</imgdir>
+    <imgdir name="4000154">
+			<string name="name" value="Toy Baby Seal"/>
+			<string name="desc" value="A toy figure that's modeled after Jr. Seal."/>
+		</imgdir>
+    <imgdir name="4000155">
+			<string name="name" value="Seal Skin"/>
+			<string name="desc" value="A seal skin made with processed Freezer skins."/>
+		</imgdir>
+    <imgdir name="4000156">
+			<string name="name" value="Seal Tooth"/>
+			<string name="desc" value="A long tooth removed from Sparker; looks very strong and powerful."/>
+		</imgdir>
+    <imgdir name="4000157">
+			<string name="name" value="Seal Meat"/>
+			<string name="desc" value="Seal meat is as nutritious a food as it gets."/>
+		</imgdir>
+    <imgdir name="4000158">
+			<string name="name" value="Poopa Egg"/>
+			<string name="desc" value="A small egg laid by a Poopa."/>
+		</imgdir>
+    <imgdir name="4000159">
+			<string name="name" value="Poison Poopa's Poisonous Spikes"/>
+			<string name="desc" value="A poisoned set of spikes from Poison Poopa."/>
+		</imgdir>
+    <imgdir name="4000160">
+			<string name="name" value="Needle"/>
+			<string name="desc" value="A long, sharp needle from Pinboom's body."/>
+		</imgdir>
+</imgdir>

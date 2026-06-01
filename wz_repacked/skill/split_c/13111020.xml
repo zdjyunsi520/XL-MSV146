@@ -1,0 +1,5 @@
+<imgdir name="13111020">
+        <string name="name" value="灵识之箭" />
+        <string name="desc" value="射出冰冷的箭矢自动追踪攻击。#c按住技能键并使用方向键#可以操控方向。" />
+        <string name="h" value="MP消耗：#mpCon。以 #damage% 伤害攻击 #mobCount 个敌人。#c按住技能键并用←、→方向键操控。#最大范围：#y。不触发微风之风和风暴使者。" />
+    </imgdir>

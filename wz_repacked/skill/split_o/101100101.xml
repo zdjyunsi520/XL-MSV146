@@ -1,0 +1,5 @@
+<imgdir name="101100101">
+        <string name="name" value="Advanced Throwing Weapon" />
+        <string name="desc" value="An even more powerful Throwing Weapon attack. Increases damage and adds a knockback effect.. \n[Skill Requirements]: #cThrowing Weapon Lv. 10#" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage% every 0.3 sec, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Duration: #time" />
+    </imgdir>

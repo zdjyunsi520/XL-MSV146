@@ -1,0 +1,5 @@
+<imgdir name="4121017">
+        <string name="name" value="Showdown" />
+        <string name="desc" value="Attacks up to 6 enemies and provokes them, making them #cuntouchable#. Provoked enemies grant more EXP and items. Bosses suffer half of the effect.\nRequired Skill: #cShadow Shifter Lv. 10 or above#" />
+        <string name="h" value="MP #mpCon, Consumed Star: #bulletConsume, Provoke up to #mobCount enemies with #damage% by attacking #attackCount times. Provoked enemy #cbecomes untouchable#. For #time sec, acquiring EXP and Item Drop Rate increases by #x%. Half of the effect for bosses." />
+    </imgdir>

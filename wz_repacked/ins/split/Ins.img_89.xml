@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010595">
+		<string name="name" value="Know-How Chair"/>
+		<string name="desc" value="Tot knows how to teach, and this chair keeps it going forever and ever and ever.\nIf you sit in Know-How Chair, 50 HP and 50 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010606">
+		<string name="name" value="Unpainted Masterpiece Chair"/>
+		<string name="desc" value="What is a blank canvas, but an invitation to dazzle?\nIf you sit in Unpainted Masterpiece Chair, 10 HP and 10 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010607">
+		<string name="name" value="Sort of a Painting Chair"/>
+		<string name="desc" value="This painting could have gotten a little more love.\nIf you sit in Sort of a Painting Chair, 30 HP and 30 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010608">
+		<string name="name" value="Ultimate Masterpiece Chair"/>
+		<string name="desc" value="Holy moly look at this work! The line weight, the brush work, the chiaroscuro lighting!\nIf you sit in Ultimate Masterpiece Chair, 50 HP and 50 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010602">
+		<string name="name" value="Heart Cloud Chair"/>
+		<string name="desc" value="Is this what it's like to sit in a cloud? Probably not, clouds are just frozen gatherings of gaseous moisture! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010651">
+		<string name="name" value="Red Mesodizer"/>
+		<string name="desc" value="The red Mesodizer acts as the head of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010652">
+		<string name="name" value="Black Mesodizer"/>
+		<string name="desc" value="The black Mesodizer acts as the body of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010653">
+		<string name="name" value="Blue Mesodizer"/>
+		<string name="desc" value="The blue Mesodizer acts as the left arm of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010654">
+		<string name="name" value="Pink Mesodizer"/>
+		<string name="desc" value="The pink Mesodizer acts as the right arm of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010655">
+		<string name="name" value="Yellow Mesodizer"/>
+		<string name="desc" value="The yellow Mesodizer acts as the left leg of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010656">
+		<string name="name" value="Green Mesodizer"/>
+		<string name="desc" value="The green Mesodizer acts as the right leg of the mighty giant super robot, Mesotron V! Combine all six Mesodizers #cin the proper configuration# to summon the mighty super mech!"/>
+	</imgdir>
+    <imgdir name="3010670">
+		<string name="name" value="Absolute Ring Chair"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3994727">
+		<string name="name" value="Dark Feather"/>
+		<string name="desc" value="A black feather from a bird that has not been identified. Keep an eye on it for 30 minutes and it will transform into a Bright Feather.\n#cIt will disappear once you log out.#"/>
+	</imgdir>
+    <imgdir name="3994728">
+		<string name="name" value="Bright Feather"/>
+		<string name="desc" value="A bright feather from a bird that has not been identified. Take it over to the Maple Admin."/>
+	</imgdir>
+    <imgdir name="3010592">
+		<string name="name" value="Black Bean Chair"/>
+		<string name="desc" value="A cuddly Black Bean to sit on. It's totally safe, except for the radioactive, lead-based polyester filling. That stuff will kill you. Recovers 60 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3994712">
+		<string name="name" value="Snail Figurine"/>
+		<string name="desc" value="A snail statue for collectors. Drag into Cassandra's Collection."/>
+	</imgdir>
+    <imgdir name="3994713">
+		<string name="name" value="Slime Figurine"/>
+		<string name="desc" value="A slime statue for collectors. Drag into Cassandra's Collection."/>
+	</imgdir>
+    <imgdir name="3994714">
+		<string name="name" value="Pig Figurine"/>
+		<string name="desc" value="A pig statue for collectors. Drag into Cassandra's Collection."/>
+	</imgdir>
+    <imgdir name="3994715">
+		<string name="name" value="Jr. Pepe Figurine"/>
+		<string name="desc" value="A Jr. Pepe statue for collectors. Drag into Cassandra's Collection."/>
+	</imgdir>
+    <imgdir name="3994716">
+		<string name="name" value="Desert Rabbit Figurine"/>
+		<string name="desc" value="A desert rabbit statue for collectors. Drag into Cassandra's Collection."/>
+	</imgdir>
+</imgdir>

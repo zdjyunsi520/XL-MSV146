@@ -1,0 +1,7 @@
+<imgdir name="4201011">
+        <string name="name" value="Mesoguard" />
+        <string name="desc" value="Uses Mesos to absorb up to 50% of the damage taken. Amount of Mesos consumed is based on Skill Level and damage reduction rate." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, defend #x% of Guarded Damage using up to #y Meso" />
+        <string name="pdesc" value="Blocks 50% of all damage for a short time. You can guard without spending Mesos in Battle Mode." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, defend #x% of Guarded Damage using up to #y Meso" />
+    </imgdir>

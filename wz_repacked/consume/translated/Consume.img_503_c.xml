@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431871">
+		<string name="desc" value="帮助你在寒冷冬天保持体力的烤鳗鱼。\r\n#c30分钟内增加武器/魔法攻击力15。可与其他增益叠加使用。"/>
+		<string name="name" value="活力增益Lv.3"/>
+	</imgdir>
+    <imgdir name="2431872">
+		<string name="desc" value="里程代币。"/>
+		<string name="name" value="里程"/>
+	</imgdir>
+    <imgdir name="2431873">
+		<string name="desc" value="庆祝RED到来的特殊增益。可在开放日使用至午夜。#c\n武器/魔法攻击力+10\n速度和跳跃加成\n持续时间：30分钟\n冷却时间：30分钟"/>
+		<string name="name" value="红潮增益"/>
+	</imgdir>
+    <imgdir name="2431874">
+		<string name="desc" value="使你等级提升1级的特殊药水。#c\n此物品效果仅对60至80级角色有效。81级及以上角色改为获得少量经验值。"/>
+		<string name="name" value="RED成长药水阶段1"/>
+	</imgdir>
+    <imgdir name="2431875">
+		<string name="desc" value="使你等级提升1级的特殊药水。#c\n此物品效果仅对80至100级角色有效。101级及以上角色改为获得少量经验值。"/>
+		<string name="name" value="RED成长药水阶段2"/>
+	</imgdir>
+    <imgdir name="2431876">
+		<string name="desc" value="给20级用户的装备盒子。"/>
+		<string name="name" value="20级装备盒子"/>
+	</imgdir>
+    <imgdir name="2431877">
+		<string name="desc" value="给40级用户的装备盒子。"/>
+		<string name="name" value="40级装备盒子"/>
+	</imgdir>
+    <imgdir name="2431878">
+		<string name="desc" value="装满各种物品的金币游侠盒子。"/>
+		<string name="name" value="金币游侠盒子"/>
+	</imgdir>
+    <imgdir name="2431879">
+		<string name="desc" value="双击物品获得#c[30天]粉丝带标签戒指#和#c[30天]蓝丝带标签戒指礼品券#。与你心爱的人分享戒指，公开展示你们的爱。"/>
+		<string name="name" value="情侣标签盒子"/>
+	</imgdir>
+    <imgdir name="2431884">
+		<string name="name" value="冰冻R"/>
+		<string name="desc" value="一块冰冷透明的冰块，里面冻结着一封神秘的信件。#c双击#获得随机物品。此物品只能在2013年12月23日晚上11:59前打开。\n\r\r\n#c&lt;可获得物品&gt;\n- RED硬币\n- 混沌卷轴60%\n- 草莓冰棍\n- 巧克力冰棍\n- 西瓜冰棍\n- 蜜瓜冰棍\n- 未识别的情书\n- 特性物品\n- 驯鹿奶\n- 日出露"/>
+	</imgdir>
+    <imgdir name="2431885">
+		<string name="name" value="冰冻E"/>
+		<string name="desc" value="一块冰冷透明的冰块，里面冻结着一封神秘的信件。#c双击#获得随机物品。此物品只能在2014年1月7日晚上11:59前打开。\n\r\r\n#c&lt;可获得物品&gt;\n- RED硬币\n- 装备强化卷轴\n- 粉色呼啦圈\n- 夏日游泳镜\n- 未识别的情书\n- 特性物品\n- 驯鹿奶\n- 日出露"/>
+	</imgdir>
+    <imgdir name="2431886">
+		<string name="name" value="冰冻D"/>
+		<string name="desc" value="一块冰冷透明的冰块，里面冻结着一封神秘的信件。#c双击#获得随机物品。此物品只能在2014年1月21日晚上11:59前打开。\n\r\r\n#c&lt;可获得物品&gt;\n- RED硬币\n- 进化冰晶\n- 粉色呼啦圈\n- 未识别的情书\n- 特性物品\n- 驯鹿奶\n- 日出露"/>
+	</imgdir>
+    <imgdir name="2431887">
+		<string name="name" value="冰冻RED"/>
+		<string name="desc" value="一块冰冷透明的冰块，里面冻结着一封神秘的信件。#c双击#获得随机物品。此物品只能在2014年2月11日晚上11:59前打开。\n\r\r\n#c&lt;可获得物品&gt;\n- RED硬币\n-快乐硬币盒子\n- 真果草莓冰棍\n- 混沌卷轴60%\n- 粉色呼啦圈\n- 未识别的情书\n- 特性物品\n- 驯鹿奶\n- 日出露"/>
+	</imgdir>
+    <imgdir name="2431892">
+		<string name="desc" value="神秘的技能手册。双击提升所需技能的最高等级。"/>
+		<string name="name" value="技能手册20"/>
+	</imgdir>
+    <imgdir name="2431893">
+		<string name="desc" value="从红色魔方上碎裂的碎片。你还记得吗？双击兑换有用的物品。"/>
+		<string name="name" value="红色魔方碎片"/>
+	</imgdir>
+    <imgdir name="2431894">
+		<string name="desc" value="从黑色魔方上碎裂的碎片。你还记得吗？双击兑换有用的物品。"/>
+		<string name="name" value="黑色魔方碎片"/>
+	</imgdir>
+    <imgdir name="2431895">
+		<string name="desc" value="含有皮亚努斯部分灵魂的碎片。收集#c10个#兑换皮亚努斯之魂。"/>
+		<string name="name" value="皮亚努斯灵魂碎片"/>
+	</imgdir>
+    <imgdir name="2431896">
+		<string name="desc" value="含有希拉部分灵魂的碎片。收集#c10个#兑换希拉之魂。"/>
+		<string name="name" value="希拉灵魂碎片"/>
+	</imgdir>
+    <imgdir name="2431897">
+		<string name="desc" value="在RED活动期间达到100级获得的装备盒子。"/>
+		<string name="name" value="先驱者装备盒子"/>
+	</imgdir>
+    <imgdir name="2431898">
+		<string name="desc" value="双击获得永久[弹跳汽车坐骑]骑乘技能。"/>
+		<string name="name" value="弹跳汽车坐骑永久优惠券"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2048086">
+		<string name="name" value="宠物装备强化卷轴 敏捷 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的敏捷。"/>
+	</imgdir>
+    <imgdir name="2048087">
+		<string name="name" value="宠物装备强化卷轴 幸运 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的幸运。"/>
+	</imgdir>
+    <imgdir name="2048088">
+		<string name="name" value="宠物装备强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048089">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048094">
+		<string name="name" value="高级宠物装备强化卷轴 武器攻击 100%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+4至+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2048095">
+		<string name="name" value="高级宠物装备强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+4至+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2048096">
+		<string name="name" value="宠物装备强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048097">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048100">
+		<string name="name" value="战斗模式强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化装备的战斗模式武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n战斗模式额外攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2048200">
+		<string name="name" value="初级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048201">
+		<string name="name" value="中级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048202">
+		<string name="name" value="高级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：100%\r\n#"/>
+	</imgdir>
+    <imgdir name="2048203">
+		<string name="name" value="特殊潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n#"/>
+	</imgdir>
+    <imgdir name="2048204">
+		<string name="name" value="上级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048207">
+		<string name="name" value="高级觉醒印章"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048208">
+		<string name="name" value="上级觉醒印章"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048209">
+		<string name="name" value="惊人觉醒印章"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048210">
+		<string name="name" value="高级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：100%\r\n#"/>
+	</imgdir>
+    <imgdir name="2048205">
+		<string name="name" value="高级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+    <imgdir name="2048206">
+		<string name="name" value="上级潜能槽雕刻器"/>
+		<string name="desc" value="#c双击#为已有1条或2条附加潜能的装备添加一条附加潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败后物品不破坏。\r\n#"/>
+	</imgdir>
+</imgdir>

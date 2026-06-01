@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="72000019"><string name="name" value="Undead Power"/><string name="desc" value="EXP loss at death: -%"/></imgdir>
+    <imgdir name="72000020"><string name="name" value="Ghost Power"/><string name="desc" value="Final blow has 10% chance of recovering MP"/></imgdir>
+    <imgdir name="72000021"><string name="name" value="Spirit Power"/><string name="desc" value="Magic DEF Increase"/></imgdir>
+    <imgdir name="72000022"><string name="name" value="Desert Bunny Power"/><string name="desc" value="JUMP Increase"/></imgdir>
+    <imgdir name="72000023"><string name="name" value="Batty Pumpkin Power"/><string name="desc" value="Max Movement Speed increased"/></imgdir>
+    <imgdir name="72000024"><string name="name" value="Batty Candy Power"/><string name="desc" value="Warus acquired at Farm level-up"/></imgdir>
+    <imgdir name="72000025"><string name="name" value="Desert Rabbit Power"/><string name="desc" value="Increases movement speed"/></imgdir>
+    <imgdir name="72000026"><string name="name" value="Seal Power"/><string name="desc" value="Accuracy Increase"/></imgdir>
+    <imgdir name="72000027"><string name="name" value="Book Ghost Power"/><string name="desc" value="Accuracy, Avoidability increased"/></imgdir>
+    <imgdir name="72000028"><string name="name" value="Moon Bunny Power"/><string name="desc" value="Farm monster EXP gain increase"/></imgdir>
+    <imgdir name="72000029"><string name="name" value="Seruf Power"/><string name="desc" value="Item Drop Rate increased"/></imgdir>
+    <imgdir name="72000030"><string name="name" value="Snow Witch Power"/><string name="desc" value="Max MP Increase"/></imgdir>
+    <imgdir name="72000031"><string name="name" value="King Clang Power"/><string name="desc" value="Weapon DEF Increased"/></imgdir>
+    <imgdir name="72000032"><string name="name" value="Dodo Power"/><string name="desc" value="Max HP Increased"/></imgdir>
+    <imgdir name="72000033"><string name="name" value="Iruvata Power"/><string name="desc" value="Avoidability Increase"/></imgdir>
+    <imgdir name="72000034"><string name="name" value="Pharaoh Yeti Power"/><string name="desc" value="Farm EXP gain increased"/></imgdir>
+    <imgdir name="72000035"><string name="name" value="Moon Bunny Twin Power"/><string name="desc" value="Farm monster EXP gain increase"/></imgdir>
+    <imgdir name="72000036"><string name="name" value="Lilynouch Power"/><string name="desc" value="Dexterity Increased"/></imgdir>
+    <imgdir name="72000037"><string name="name" value="Frankenroid Power"/><string name="desc" value="Strength Increased"/></imgdir>
+    <imgdir name="72000038"><string name="name" value="Dunas Power"/><string name="desc" value="Luck Increased"/></imgdir>
+</imgdir>

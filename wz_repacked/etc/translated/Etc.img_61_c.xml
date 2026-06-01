@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001684">
+			<string name="name" value="太阳光焰"/>
+			<string name="desc" value="阻挡黄金神殿中拉瓦纳黄金祭坛喷出的邪恶能量"/>
+		</imgdir>
+    <imgdir name="4001685">
+			<string name="name" value="精心保管的遗物"/>
+			<string name="desc" value="黄金神殿失踪的僧侣掉落的。他的主人一定非常珍惜它，因为它光亮如新"/>
+		</imgdir>
+    <imgdir name="4001686">
+			<string name="name" value="普通遗物"/>
+			<string name="desc" value="黄金神殿失踪的僧侣掉落的。他的主人一定是个不重视物质的人，因为它已经破旧不堪"/>
+		</imgdir>
+    <imgdir name="4001687">
+			<string name="name" value="发人深省的遗物"/>
+			<string name="desc" value="黄金神殿失踪的僧侣掉落的。它的主人一定非常睿智，因为它写满了文字"/>
+		</imgdir>
+    <imgdir name="4001689">
+			<string name="name" value="复活节彩蛋"/>
+			<string name="desc" value="装饰华丽的彩色蛋。\r\n看着它让你充满希望。它非常易碎，请小心处理！\r\n\r\n收集30个复活节彩蛋，\r\n可以换取复活节兔子发带"/>
+		</imgdir>
+    <imgdir name="4001690">
+			<string name="name" value="画作碎片"/>
+			<string name="desc" value="在奇怪画廊发现的画作撕下的碎片。收集4个也许能拼出谜题"/>
+		</imgdir>
+    <imgdir name="4001695">
+			<string name="name" value="8周年枫叶"/>
+			<string name="desc" value="美丽的红色枫叶。#c仅在8周年活动期间可用#"/>
+		</imgdir>
+    <imgdir name="4001713">
+			<string name="name" value="10万金币安家费"/>
+			<string name="desc" value="帮助角色安顿下来的纪念硬币。可在商店卖10万金币"/>
+		</imgdir>
+    <imgdir name="4001714">
+			<string name="name" value="100万金币安家费"/>
+			<string name="desc" value="帮助角色安顿下来的纪念硬币。可在商店卖100万金币"/>
+		</imgdir>
+    <imgdir name="4001715">
+			<string name="name" value="1亿金币安家费"/>
+			<string name="desc" value="帮助角色安顿下来的纪念硬币。可在商店卖1亿金币"/>
+		</imgdir>
+    <imgdir name="4001716">
+			<string name="name" value="10亿金币安家费"/>
+			<string name="desc" value="帮助角色安顿下来的纪念硬币。可在商店卖10亿金币"/>
+		</imgdir>
+    <imgdir name="4001720">
+			<string name="name" value="红色墨水"/>
+			<string name="desc" value="用于制作共和党宣传材料的墨水"/>
+		</imgdir>
+    <imgdir name="4001721">
+			<string name="name" value="蓝色墨水"/>
+			<string name="desc" value="用于制作民主党宣传材料的墨水"/>
+		</imgdir>
+    <imgdir name="4001722">
+			<string name="name" value="打印纸"/>
+			<string name="desc" value="用于打印宣传材料的纸张"/>
+		</imgdir>
+    <imgdir name="4001723">
+			<string name="name" value="空白T恤"/>
+			<string name="desc" value="用于印制宣传T恤的T恤"/>
+		</imgdir>
+    <imgdir name="4001724">
+			<string name="name" value="豪华轿车钥匙"/>
+			<string name="desc" value="护送嘉宾参加庆典的豪华轿车钥匙"/>
+		</imgdir>
+    <imgdir name="4001735">
+			<string name="name" value="基础价值包50万金币硬币"/>
+			<string name="desc" value="赠送给枫叶基础价值包购买者的稀有硬币。可在商店卖50万金币"/>
+		</imgdir>
+    <imgdir name="4001736">
+			<string name="name" value="特别价值包100万金币硬币"/>
+			<string name="desc" value="赠送给枫叶特别价值包购买者的稀有硬币。可在商店卖100万金币"/>
+		</imgdir>
+    <imgdir name="4001737">
+			<string name="name" value="僵尸细胞样本"/>
+			<string name="desc" value="僵尸...物质的样本"/>
+		</imgdir>
+    <imgdir name="4001738">
+			<string name="name" value="亡灵疫苗"/>
+			<string name="desc" value="巨型万圣节僵尸接种的疫苗。趁还来得及把它带给女仆"/>
+		</imgdir>
+</imgdir>

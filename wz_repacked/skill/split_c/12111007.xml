@@ -1,0 +1,7 @@
+<imgdir name="12111007">
+        <string name="name" value="传送精通" />
+        <string name="desc" value="激活后，传送目的地的敌人将受到伤害并被眩晕！同时永久提升传送距离。\n此技能可以通过技能键切换开关。\n需要技能：#c传送 Lv. 20#" />
+        <string name="h" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
+        <string name="pdesc" value="使用结合火属性和毒属性的魔法攻击一个敌人。有几率使其中毒，对弱属性敌人特别有效。" />
+        <string name="ph" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
+    </imgdir>

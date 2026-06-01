@@ -1,0 +1,91 @@
+<imgdir name="Npc.img">
+    <imgdir name="2050021">
+		<string name="name" value="Jaime"/>
+		<string name="d0" value="Hello there! How goes your training?"/>
+		<string name="d1" value="Talking nonstop is plain annoying."/>
+	</imgdir>
+    <imgdir name="2060011">
+		<string name="name" value="Dura"/>
+		<string name="n0" value="Honking and honking..."/>
+		<string name="n1" value="Blech! I'm full. It's the perfect weather for a nap..."/>
+		<string name="d0" value="Ha, humans! They're just servants who bring me food."/>
+		<string name="d1" value="Ha, humans! They're just servants who bring me food."/>
+	</imgdir>
+    <imgdir name="2060105">
+		<string name="name" value="Man Who Lost His Memory"/>
+		<string name="n0" value="The soul sunk to the bottom of the endless ocean..."/>
+		<string name="n1" value="The sad voice lingered in the depths of the ocean..."/>
+		<string name="d0" value="I was so mesmerized by her beautiful azure lips that even her cold words melted my heart..."/>
+		<string name="d1" value="I was so mesmerized by her beautiful azure lips that even her cold words melted my heart..."/>
+	</imgdir>
+    <imgdir name="9000085">
+		<string name="name" value="Gold Richie's Secret Weapon"/>
+		<string name="f0" value="Error! Error! Circuit will shut off."/>
+		<string name="d0" value="User not recognized by system."/>
+		<string name="d1" value="User not recognized by system."/>
+	</imgdir>
+    <imgdir name="9000086">
+		<string name="name" value="Maple Admin "/>
+	</imgdir>
+    <imgdir name="9000087">
+		<string name="name" value="Maple Admin "/>
+	</imgdir>
+    <imgdir name="9000088">
+		<string name="name" value="Maple Admin "/>
+	</imgdir>
+    <imgdir name="9000089">
+		<string name="name" value="Taxi"/>
+	</imgdir>
+    <imgdir name="9000099">
+		<string name="name" value="Toniza"/>
+		<string name="func" value="General Store"/>
+		<string name="d0" value="I used to be big-time! I was gonna be in pictures, kung-fuing all over the big screen. Now I'm stuck here..."/>
+		<string name="d1" value="I used to be big-time! I was gonna be in pictures, kung-fuing all over the big screen. Now I'm stuck here..."/>
+		<string name="n0" value="Coming all the way here... you are pretty impressive."/>
+		<string name="n1" value="Why am I here? *Chuckles* Don't worry about it."/>
+	</imgdir>
+    <imgdir name="9000100">
+		<string name="name" value="The Three-Toed Jellyjammers"/>
+		<string name="func" value="8th Anniversary Celebration Squad"/>
+		<string name="n0" value="What song do you wanna hear? We're jamming to celebrate the eight awesome years!"/>
+		<string name="n1" value="What song do you wanna hear? We're jamming to celebrate the eight awesome years!"/>
+	</imgdir>
+    <imgdir name="9000090">
+		<string name="name" value="Camel Cab"/>
+	</imgdir>
+    <imgdir name="9000091">
+		<string name="name" value="Tiggy"/>
+	</imgdir>
+    <imgdir name="9000092">
+		<string name="name" value="Buhbear"/>
+	</imgdir>
+    <imgdir name="9000093">
+		<string name="name" value="Headmaster Ferdi"/>
+		<string name="n0" value="Are you enjoying Homecoming? Let me know if you need anything."/>
+		<string name="n1" value="Are you enjoying Homecoming? Let me know if you need anything."/>
+	</imgdir>
+    <imgdir name="9000094">
+		<string name="name" value="Headmaster Ferdi"/>
+	</imgdir>
+    <imgdir name="9000095">
+		<string name="name" value="Witchy Woman"/>
+		<string name="n0" value="Are you having a good time this Halloween? I've got a spell that will make it absolutely ghoulish!"/>
+		<string name="n1" value="You'd better be having fun this Halloween, or I'll have to fill you up with happy potion!"/>
+	</imgdir>
+    <imgdir name="9000096">
+		<string name="name" value="Blackbull"/>
+		<string name="n0" value="Hurry and rescue our little Miwok Boys. I'm counting on you!"/>
+		<string name="n1" value="Hurry and rescue our little Miwok Boys. I'm counting on you!"/>
+	</imgdir>
+    <imgdir name="9000097">
+		<string name="name" value="Blackbull"/>
+		<string name="n0" value="Hurry and rescue our little Miwok Boys. I'm counting on you!"/>
+		<string name="n1" value="Hurry and rescue our little Miwok Boys. I'm counting on you!"/>
+	</imgdir>
+    <imgdir name="9000098">
+		<string name="name" value="Gate of Trials"/>
+	</imgdir>
+    <imgdir name="9000101">
+		<string name="name" value="Little Draco"/>
+	</imgdir>
+</imgdir>

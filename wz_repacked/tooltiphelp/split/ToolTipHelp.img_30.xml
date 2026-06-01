@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Excavation Site"/>
+			</imgdir>
+    <imgdir name="101030104">
+			<imgdir name="0">
+				<string name="Title" value="RemainsI"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Remains3"/>
+			</imgdir>
+    <imgdir name="540000000">
+			<imgdir name="0">
+				<string name="Title" value="Changi Airport"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Central Way 1"/>
+			</imgdir>
+    <imgdir name="540000100">
+			<imgdir name="0">
+				<string name="Title" value="Central Way 2"/>
+			</imgdir>
+    <imgdir name="540000200">
+			<imgdir name="0">
+				<string name="Title" value="Central Way 3"/>
+			</imgdir>
+    <imgdir name="540000300">
+			<imgdir name="0">
+				<string name="Title" value="Central Way 2"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Surburban Area 1"/>
+			</imgdir>
+    <imgdir name="540020000">
+			<imgdir name="0">
+				<string name="Title" value="Surburban Area 2"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Boat Quay Town"/>
+			</imgdir>
+    <imgdir name="540020100">
+			<imgdir name="0">
+				<string name="Title" value="Surburban Area 1"/>
+			</imgdir>
+    <imgdir name="541000300">
+			<imgdir name="0">
+				<string name="Title" value="Ghost Ship 1"/>
+			</imgdir>
+    <imgdir name="100030000">
+			<imgdir name="0">
+				<string name="Title" value="Utah's Pig Farm"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Forest South of Ellinia (Towards Ellinia)"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="On the Way to the Harbor (Towards the Nautilus)  "/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Utah's Pig Farm"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="The Forest South of Ellinia (Towards Ellinia)"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="The Rain-Forest East of Henesys (Towards Henesys) "/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="On the Way to the Harbor (Towards the Nautilus) "/>
+			</imgdir>
+</imgdir>

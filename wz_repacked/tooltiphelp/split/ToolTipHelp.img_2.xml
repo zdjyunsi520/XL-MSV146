@@ -1,0 +1,82 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="PvPBtRookie">
+				<string name="Title" value="Rookie Channel"/>
+				<string name="Desc" value="You must be between Lv. 30 and Lv. 69 to participate in this channel. You can use up to your 2nd job skills (5th for Evan and 3rd for Dual Blade). Item potential is not used."/>
+			</imgdir>
+    <imgdir name="PvPBtSuperRookie">
+				<string name="Title" value="Gladiator Channel"/>
+				<string name="Desc" value="You must be Lv. 70+ to participate in this channel. You can use up to your 3rd job skills (8th for Evan and 3rd + for Dual Blade). Item potential is not used."/>
+			</imgdir>
+    <imgdir name="PvPBtMajor">
+				<string name="Title" value="Veteran Channel"/>
+				<string name="Desc" value="You must be Lv. 120+ to participate in this channel. Item potential is not used."/>
+			</imgdir>
+    <imgdir name="PvPBtLegend">
+				<string name="Title" value="Legend Channel"/>
+				<string name="Desc" value="You must be Lv. 180+ to participate in this channel. Item potential can be used, but special Battle Mode items will not spawn."/>
+			</imgdir>
+    <imgdir name="PvPRoomOut">
+				<string name="Title" value="Leave Room"/>
+				<string name="Desc" value="I will leave this place."/>
+			</imgdir>
+    <imgdir name="btAswanOccupation">
+				<string name="Title" value="Occupy Mode"/>
+				<string name="Desc" value="In this mode, you must secure territories taken over by Hilla. Victory is obtained when you destroy the enemy's Guardian Tower."/>
+			</imgdir>
+    <imgdir name="btAswanAttack">
+				<string name="Title" value="Attack Mode"/>
+				<string name="Desc" value="In this mode, you must attack other lands and steal their territory. Destroy the enemy's Guardian Tower to claim your victory."/>
+			</imgdir>
+    <imgdir name="btAswanDefence">
+				<string name="Title" value="Defend Mode"/>
+				<string name="Desc" value="In this mode, you must defend your territory against attacks. Protect your Cygnus Faith Stone until the timer runs out or destroy the enemy's Mega Ballistas to claim victory."/>
+			</imgdir>
+    <imgdir name="btAswanSuppot">
+				<string name="Title" value="Supply Mode"/>
+				<string name="Desc" value="In this mode, complete quests by hunting monsters on a normal map. You can turn the tide by using the Supply Points you accumulate."/>
+			</imgdir>
+    <imgdir name="btAswanEasy">
+				<string name="Title" value="EASY: Easy Mode"/>
+				<string name="Desc" value="Easy enough for anyone to play, but the rewards are less than stellar."/>
+			</imgdir>
+    <imgdir name="btAswanNormal">
+				<string name="Title" value="NORMAL: Normal Mode"/>
+				<string name="Desc" value="Difficulty that requires a decent grasp on the rules of Azwan Liberation. You can receive above average rewards."/>
+			</imgdir>
+    <imgdir name="btAswanHard">
+				<string name="Title" value="HARD: Hard Mode"/>
+				<string name="Desc" value="For players who have fully mastered the mechanics of Azwan Liberation. The rewards are great."/>
+			</imgdir>
+    <imgdir name="btAswanHell">
+				<string name="Title" value="HELL: Hell Mode"/>
+				<string name="Desc" value="For masters of Azwan Liberation. What magnificent rewards await?"/>
+			</imgdir>
+    <imgdir name="btAswanSolo">
+				<string name="Title" value="SOLO: Solo Play"/>
+				<string name="Desc" value="Allows you to play alone."/>
+			</imgdir>
+    <imgdir name="btAswanParty">
+				<string name="Title" value="PARTY: Party Play"/>
+				<string name="Desc" value="If you are currently in a party, your party will enter the game. If you are alone, a party will be found for you.\n\nSupply Mode excluded"/>
+			</imgdir>
+    <imgdir name="btAswanHelp">
+				<string name="Title" value="Help: Azwan Liberation"/>
+				<string name="Desc" value="Click here for a detailed explanation on how to play Azwan Liberation."/>
+			</imgdir>
+    <imgdir name="btAlbaRelax">
+				<string name="Title" value="Part-Time Job: Rest"/>
+				<string name="Desc" value="Allows your character to rest.\n\rYou receive various buffs that will aid you in battle. You can obtain #cadditional EXP# benefit as the special reward."/>
+			</imgdir>
+    <imgdir name="btAlbaGatherHerb">
+				<string name="Title" value="Part-Time Job: Herbalism"/>
+				<string name="Desc" value="You can obtain various herbs.\n\rYou can receive #crare Alchemy recipes# as the special reward.\n\rIf your character has the Herbalism Profession, you will get better rewards."/>
+			</imgdir>
+    <imgdir name="btAlbaGatherMine">
+				<string name="Title" value="Part-Time Job: Mining"/>
+				<string name="Desc" value="You can obtain various ores needed for forging equipment and accessory items.\n\rYou can receive #crare equipment and accessory recipes# as the special reward.\n\rIf your character has the Mining Profession, you will get better rewards."/>
+			</imgdir>
+    <imgdir name="btAlbaConsumeShop">
+				<string name="Title" value="Part-Time Job: General Store"/>
+				<string name="Desc" value="You can obtain useful potions from the General Store Part-Time Job.\n\rYou can obtain #cvarious scrolls# as a special reward."/>
+			</imgdir>
+</imgdir>

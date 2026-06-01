@@ -1,0 +1,5 @@
+<imgdir name="31121053">
+        <string name="name" value="For Liberty" />
+        <string name="desc" value="Materializes the will of the Resistance to increase attack power." />
+        <string name="h" value="Fury Cost: #forceCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Resistance characters within the party" />
+    </imgdir>

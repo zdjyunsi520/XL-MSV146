@@ -1,0 +1,81 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009213">
+			<string name="name" value="蓝海盗帽"/>
+			<string name="desc" value="唐维尔海盗佩戴的蓝色帽子。"/>
+		</imgdir>
+    <imgdir name="4009215">
+			<string name="name" value="夜之鞭"/>
+			<string name="desc" value="公会刺客使用的鞭子。"/>
+		</imgdir>
+    <imgdir name="4009216">
+			<string name="name" value="夜之切割者"/>
+			<string name="desc" value="公会刺客使用的一把剑。"/>
+		</imgdir>
+    <imgdir name="4009217">
+			<string name="name" value="夜之袍"/>
+			<string name="desc" value="公会刺客穿的一件长袍。"/>
+		</imgdir>
+    <imgdir name="4009218">
+			<string name="name" value="红围巾碎片"/>
+			<string name="desc" value="来自伊尔卡波戴的围巾的一块碎片。"/>
+		</imgdir>
+    <imgdir name="4033991">
+			<string name="name" value="未知方块碎片"/>
+			<string name="desc" value="来自运输方块的船只残骸的一块碎片。"/>
+		</imgdir>
+    <imgdir name="4033997">
+			<string name="name" value="公会刺客的信封"/>
+			<string name="desc" value="包含一份加密文件的信封。"/>
+		</imgdir>
+    <imgdir name="4034000">
+			<string name="name" value="剑哥布林的剑"/>
+			<string name="desc" value="几乎任何人都可以使用的来自剑哥布林的剑。"/>
+		</imgdir>
+    <imgdir name="4034001">
+			<string name="name" value="矛哥布林爪"/>
+			<string name="desc" value="只在哥布林身上发现的矛哥布林的爪子。"/>
+		</imgdir>
+    <imgdir name="4034002">
+			<string name="name" value="哥布林的帽子"/>
+		</imgdir>
+    <imgdir name="4034003">
+			<string name="name" value="红袋子"/>
+			<string name="desc" value="来自弓哥布林的红袋子。"/>
+		</imgdir>
+    <imgdir name="4034004">
+			<string name="name" value="蓝袋子"/>
+			<string name="desc" value="来自法师哥布林的蓝袋子。"/>
+		</imgdir>
+    <imgdir name="4034007">
+			<string name="name" value="星精灵的云碎片"/>
+			<string name="desc" value="星精灵藏的云碎片。"/>
+		</imgdir>
+    <imgdir name="4034008">
+			<string name="name" value="月精灵的云碎片"/>
+			<string name="desc" value="月精灵藏的云碎片。"/>
+		</imgdir>
+    <imgdir name="4034009">
+			<string name="name" value="光精灵的云碎片"/>
+			<string name="desc" value="光精灵藏的云碎片。"/>
+		</imgdir>
+    <imgdir name="4034013">
+			<string name="name" value="维基的鬼鬼祟祟的礼物"/>
+			<string name="desc" value="等等，这不是礼物！它似乎是维基摧毁岩石之灵的邪恶计划的一部分..."/>
+		</imgdir>
+    <imgdir name="4034014">
+			<string name="name" value="短发金色假发"/>
+			<string name="desc" value="文森特的假发工艺非凡。"/>
+		</imgdir>
+    <imgdir name="4034015">
+			<string name="name" value="布莱克的记忆"/>
+			<string name="desc" value="这个容纳了布莱克成为著名歌手的希望和梦想。"/>
+		</imgdir>
+    <imgdir name="4034016">
+			<string name="name" value="特里斯坦的剑鞘"/>
+			<string name="desc" value="当福特试图把剑拔出来时破了。只剩下剑鞘了...希望奈因哈特不会生气。"/>
+		</imgdir>
+    <imgdir name="4034017">
+			<string name="name" value="第一把挖掘工具"/>
+			<string name="desc" value="这个工具被龙偷走了。杜格想要它们。"/>
+		</imgdir>
+</imgdir>

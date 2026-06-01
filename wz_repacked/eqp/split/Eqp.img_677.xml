@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1492192"><string name="name" value="Pioneer Pistol"/></imgdir>
+    <imgdir name="1492193"><string name="name" value="Triumphant Wings"/></imgdir>
+    <imgdir name="1492194"><string name="name" value="Red Gun"/></imgdir>
+    <imgdir name="1492195"><string name="name" value="Pinky Hula Hoop"/></imgdir>
+    <imgdir name="1492196"><string name="name" value="Special Cold Mind"/></imgdir>
+    <imgdir name="1492197"><string name="name" value="Special Burning Hell"/></imgdir>
+    <imgdir name="1492198"><string name="name" value="Special Peacemaker"/></imgdir>
+    <imgdir name="1492199"><string name="name" value="Sweetwater Shooter"/></imgdir>
+    <imgdir name="1492200"><string name="name" value="Commerci Shooter"/></imgdir>
+    <imgdir name="1502000"><string name="name" value="Shovel"/><string name="desc" value="A shovel used to harvest herbs."/></imgdir>
+    <imgdir name="1502001"><string name="name" value="Rake"/><string name="desc" value="A rake used to harvest herbs."/></imgdir>
+    <imgdir name="1502002"><string name="name" value="Golden Shovel"/><string name="desc" value="A golden shovel used to harvest herbs."/></imgdir>
+    <imgdir name="1502003"><string name="name" value="Saffron&apos;s Golden Shovel"/><string name="desc" value="A golden shovel used for harvesting herbs. Much stronger than normal golden shovels."/></imgdir>
+    <imgdir name="1502004"><string name="name" value="Light Rake"/><string name="desc" value="A rake used for harvesting herbs. Its lightweight design allows it to harvest more quickly and in greater amounts."/></imgdir>
+    <imgdir name="1502005"><string name="name" value="Swift Rake"/><string name="desc" value="A rake used for harvesting herbs. It is more efficient than other rakes."/></imgdir>
+    <imgdir name="1502006"><string name="name" value="Premium Golden Shovel"/><string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/></imgdir>
+    <imgdir name="1502007"><string name="name" value="Saffron&apos;s Golden Shovel"/><string name="desc" value="A golden shovel used for harvesting herbs. Much stronger than normal golden shovels."/></imgdir>
+    <imgdir name="1512000"><string name="name" value="Pickaxe"/><string name="desc" value="A pickaxe used for harvesting minerals."/></imgdir>
+    <imgdir name="1512001"><string name="name" value="Wrench"/><string name="desc" value="A wrench used for harvesting minerals."/></imgdir>
+    <imgdir name="1512002"><string name="name" value="Golden Pickaxe"/><string name="desc" value="A golden pickaxe used for harvesting minerals."/></imgdir>
+</imgdir>

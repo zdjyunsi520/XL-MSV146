@@ -1,0 +1,5 @@
+<imgdir name="1121015">
+        <string name="name" value="穿刺" />
+        <string name="desc" value="在敌人身上留下伤口，短时间内造成持续伤害。持续伤害期间，敌人将#c受到更多暴击伤害#~\n前置技能: #c高级连击攻击 Lv. 20#" />
+        <string name="h" value="消耗: #mpCon MP和#y个连击球。敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。持续#dotTime秒，被攻击的敌人每#dotInterval秒以#prop%几率受到#dot%伤害。#c敌人受到#x%额外暴击伤害#。队员攻击时增加#u%" />
+    </imgdir>

@@ -1,0 +1,67 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="4">
+				<string name="Title" value="石巨人神殿IV"/>
+			</imgdir>
+    <imgdir name="107000500">
+			<imgdir name="0">
+				<string name="Title" value="危险鳄鱼II(往凯恩城方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深林(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="120010000">
+			<imgdir name="0">
+				<string name="Title" value="通往海滩的路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="鹦鹉螺号港口"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="通往海滩的路"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="鹦鹉螺号港口"/>
+			</imgdir>
+    <imgdir name="120010100">
+			<imgdir name="0">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="猪牧场"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="猪牧场"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="犹他猪农场"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="犹他猪农场"/>
+			</imgdir>
+    <imgdir name="120020000">
+			<imgdir name="0">
+				<string name="Title" value="鹦鹉螺号港口"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="波浪海滩"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="鹦鹉螺号港口"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="波浪海滩"/>
+			</imgdir>
+    <imgdir name="120020100">
+			<imgdir name="0">
+				<string name="Title" value="海岸森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="蓝色丝带海滩"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="海岸森林"/>
+			</imgdir>
+</imgdir>

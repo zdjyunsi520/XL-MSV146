@@ -1,0 +1,7 @@
+<imgdir name="5110011">
+        <string name="name" value="精准打击" />
+        <string name="desc" value "提升暴击率和暴击伤害。对BOSS获得额外暴击率。" />
+        <string name="h" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%" />
+        <string name="pdesc" value="提升暴击伤害。" />
+        <string name="ph" value="Critical rate: +#cr%, Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

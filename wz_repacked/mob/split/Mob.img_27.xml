@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="5200000">
+		<string name="name" value="Jr. Sentinel"/>
+	</imgdir>
+    <imgdir name="5200001">
+		<string name="name" value="Ice Sentinel"/>
+	</imgdir>
+    <imgdir name="5200002">
+		<string name="name" value="Fire Sentinel"/>
+	</imgdir>
+    <imgdir name="5220000">
+		<string name="name" value="King Clang"/>
+	</imgdir>
+    <imgdir name="5220001">
+		<string name="name" value="King Clang"/>
+	</imgdir>
+    <imgdir name="5220002">
+		<string name="name" value="Faust"/>
+	</imgdir>
+    <imgdir name="5220003">
+		<string name="name" value="Timer"/>
+	</imgdir>
+    <imgdir name="5220004">
+		<string name="name" value="Giant Centipede"/>
+	</imgdir>
+    <imgdir name="5250000">
+		<string name="name" value="Mossy Mushroom"/>
+	</imgdir>
+    <imgdir name="5250001">
+		<string name="name" value="Stone Bug"/>
+	</imgdir>
+    <imgdir name="5250002">
+		<string name="name" value="Primitive Boar"/>
+	</imgdir>
+    <imgdir name="5250003">
+		<string name="name" value="Violent Primitive Boar"/>
+	</imgdir>
+    <imgdir name="5250004">
+		<string name="name" value="Chao"/>
+	</imgdir>
+    <imgdir name="5250005">
+		<string name="name" value="Ancient Fairy"/>
+	</imgdir>
+    <imgdir name="5250006">
+		<string name="name" value="Shining Fairy"/>
+	</imgdir>
+    <imgdir name="5250007">
+		<string name="name" value="Ephenia"/>
+	</imgdir>
+    <imgdir name="5300000">
+		<string name="name" value="Leatty"/>
+	</imgdir>
+    <imgdir name="5300001">
+		<string name="name" value="Dark Leatty"/>
+	</imgdir>
+    <imgdir name="5300100">
+		<string name="name" value="Malady"/>
+	</imgdir>
+    <imgdir name="5400000">
+		<string name="name" value="Jr. Pepe"/>
+	</imgdir>
+</imgdir>

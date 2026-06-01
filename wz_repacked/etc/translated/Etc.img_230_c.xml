@@ -1,0 +1,83 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033941">
+			<string name="name" value="花瓶"/>
+			<string name="desc" value="一个装了半瓶水的花瓶。或者它是半空的？"/>
+		</imgdir>
+    <imgdir name="4033942">
+			<string name="name" value="黑色魔法书"/>
+			<string name="desc" value="腐败的魔法师正在携带的一本魔法书。有人对它施了咒语让它不可读。不酷。"/>
+		</imgdir>
+    <imgdir name="4033943">
+			<string name="name" value="魔法球"/>
+			<string name="desc" value="克里蒂亚斯魔法师随身携带的一个魔法球。所有克里蒂亚斯魔法师都携带一个，否则他们会被嘲笑。"/>
+		</imgdir>
+    <imgdir name="4033944">
+			<string name="name" value="塔碎片"/>
+			<string name="desc" value="克里蒂亚斯塔碎片。只剩下它魔法的痕迹。"/>
+		</imgdir>
+    <imgdir name="4033945">
+			<string name="name" value="马格纳斯的第一份命令"/>
+			<string name="desc" value="马格纳斯书面命令的第一页。"/>
+		</imgdir>
+    <imgdir name="4033946">
+			<string name="name" value="马格纳斯的第二份命令"/>
+			<string name="desc" value="马格纳斯书面命令的第二页。"/>
+		</imgdir>
+    <imgdir name="4033947">
+			<string name="name" value="马格纳斯的第三份命令"/>
+			<string name="desc" value="马格纳斯书面命令的第三页。"/>
+		</imgdir>
+    <imgdir name="4033948">
+			<string name="name" value="马格纳斯的手写信"/>
+			<string name="desc" value="这绝对是马格纳斯的笔迹。就看看它有多邪恶！"/>
+		</imgdir>
+    <imgdir name="4033949">
+			<string name="name" value="熏制迪诺戈斯前腿"/>
+			<string name="desc" value="嗯嗯嗯，迪诺戈斯！"/>
+		</imgdir>
+    <imgdir name="4033950">
+			<string name="name" value="希拉的军团补给箱"/>
+			<string name="desc" value="包含希拉士兵战斗补给的补给箱。"/>
+		</imgdir>
+    <imgdir name="4033951">
+			<string name="name" value="骷髅的纪念宝石"/>
+			<string name="desc" value="来自骷髅士兵的这颗宝石有复活死者的能力。"/>
+		</imgdir>
+    <imgdir name="4033952">
+			<string name="name" value="怨恨灰尘"/>
+			<string name="desc" value="注入了幽灵怨恨的灰尘。用它给幽灵一个了结。"/>
+		</imgdir>
+    <imgdir name="4033953">
+			<string name="name" value="希拉军团士兵肋骨"/>
+			<string name="desc" value="来自希拉军团一个士兵的肋骨。"/>
+		</imgdir>
+    <imgdir name="4033954">
+			<string name="name" value="希拉军团士兵骨盆骨"/>
+			<string name="desc" value="来自希拉军团一个士兵的骨盆骨。"/>
+		</imgdir>
+    <imgdir name="4033955">
+			<string name="name" value="士兵矛"/>
+			<string name="desc" value="血腥驯鹿士兵使用的矛。"/>
+		</imgdir>
+    <imgdir name="4033956">
+			<string name="name" value="特别工作组晨星"/>
+			<string name="desc" value="熊狼特别工作组成员使用的晨星。"/>
+		</imgdir>
+    <imgdir name="4033957">
+			<string name="name" value="装甲砖"/>
+			<string name="desc" value="来自迷你城堡魔像装甲士兵的砖。"/>
+		</imgdir>
+    <imgdir name="4033958">
+			<string name="name" value="肮脏骑士的魔法卷轴"/>
+			<string name="desc" value="授予你与狮子王见面的机会。或者更确切地说，它会，如果它不是那么脏的话。"/>
+		</imgdir>
+    <imgdir name="4033959">
+			<string name="name" value="阿尔卡留姆军团沙漏"/>
+			<string name="desc" value="这个沙漏是阿尔卡留姆力量的来源。"/>
+		</imgdir>
+    <imgdir name="4160107">
+			<string name="name" value="宠物命令指南：迪洛"/>
+			<string name="desc" value="包含迪洛所有命令的指南。
+#c双击物品打开指南。#"/>
+		</imgdir>
+</imgdir>

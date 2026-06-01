@@ -1,0 +1,23 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1680086"><string name="name" value="挑战-Bit D"/></imgdir>
+    <imgdir name="1680087"><string name="name" value="挑战-Bit E"/></imgdir>
+    <imgdir name="1680088"><string name="name" value="挑战-Bit F"/></imgdir>
+    <imgdir name="1680089"><string name="name" value="挑战：特殊Bit A"/></imgdir>
+    <imgdir name="1680090"><string name="name" value="挑战：特殊Bit B"/></imgdir>
+    <imgdir name="1680091"><string name="name" value="挑战：特殊Bit C"/></imgdir>
+    <imgdir name="1680092"><string name="name" value="挑战：特殊Bit D"/></imgdir>
+    <imgdir name="1680093"><string name="name" value="挑战：特殊Bit E"/></imgdir>
+    <imgdir name="1680094"><string name="name" value="挑战：特殊Bit F"/></imgdir>
+    <imgdir name="Android"><imgdir name="1662000"><string name="name" value="机器人（男）"/><string name="desc" value="基础男性机器人。必须装备#c串珠之心、银之心、铁之心、亚当antine之心、金之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662001"><string name="name" value="机器人（女）"/><string name="desc" value="基础女性机器人。必须装备#c银之心、铁之心、亚当antine之心、金之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662002"><string name="name" value="豪华机器人（男）"/><string name="desc" value="豪华男性机器人。必须装备#c银之心、铁之心、亚当antine之心、金之心、石榴之心、水晶之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662003"><string name="name" value="豪华机器人（女）"/><string name="desc" value="豪华女性机器人。必须装备#c银之心、铁之心、亚当antine之心、金之心、石榴之心、水晶之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662004"><string name="name" value="雪花机器人（男）"/><string name="desc" value="雪花活动期间发放的男性机器人。必须装备#c雪花之心#才能运作。"/></imgdir>
+    <imgdir name="1662005"><string name="name" value="雪花机器人（女）"/><string name="desc" value="雪花活动期间发放的女性机器人。必须装备#c雪花之心#才能运作。"/></imgdir>
+    <imgdir name="1662006"><string name="name" value="公主机器人"/><string name="desc" value="精致的女性机器人。必须装备#c串珠之心、银之心、铁之心、亚当antine之心、金之心、石榴之心、水晶之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662007"><string name="name" value="机器人（男）"/><string name="desc" value="基础男性机器人。必须装备#c串珠之心、银之心、铁之心、亚当antine之心、金之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662008"><string name="name" value="机器人（女）"/><string name="desc" value="基础女性机器人。必须装备#c串珠之心、银之心、铁之心、亚当antine之心、金之心或新金之心#才能运作。"/></imgdir>
+    <imgdir name="1662009"><string name="name" value="情人节机器人（男）"/><string name="desc" value="为情人节制作的男性机器人。必须装备#c情人节之心#才能运作。"/></imgdir>
+    <imgdir name="1662010"><string name="name" value="情人节机器人（女）"/><string name="desc" value="为情人节制作的女性机器人。必须装备#c情人节之心#才能运作。"/></imgdir>
+</imgdir>
+</imgdir>

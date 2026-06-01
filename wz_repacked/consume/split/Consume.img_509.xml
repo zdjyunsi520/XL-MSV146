@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2432015">
+		<string name="desc" value="Use this coupon to gain a permanent Red Sand Cloud mount skill that enables you to Glide.\n#cDouble-click# on it to learn the mount skill."/>
+		<string name="name" value="Red Sand Cloud Mount Coupon"/>
+		<string name="autodesc" value="\r#cWeapon DEF +10\r\nMagic DEF +10\r\n"/>
+	</imgdir>
+    <imgdir name="2432016">
+		<string name="desc" value="A gift box that contains scrolls.\r\n#c Double-click it to receive Clean Slate Scroll 20% and RED Armor Enchant Scroll 50%."/>
+		<string name="name" value="RED Scroll Gift Set"/>
+	</imgdir>
+    <imgdir name="2432017">
+		<string name="name" value="Revolution Pendant Gift Set"/>
+		<string name="desc" value="Double-click this gift set to receive Revolution Pendant along with an exclusive scroll for the item."/>
+	</imgdir>
+    <imgdir name="2432018">
+		<string name="name" value="Fusion Anvil Coupon"/>
+		<string name="desc" value="Double-click the coupon to exchange it for a Fusion Anvil."/>
+	</imgdir>
+    <imgdir name="2432019">
+		<string name="name" value="Revolution Belt Gift Set"/>
+		<string name="desc" value="Double-click this gift set to receive a Revolution Belt and an exclusive scroll for the item."/>
+	</imgdir>
+    <imgdir name="2432020">
+		<string name="name" value="Explorer Random Hair Coupon"/>
+		<string name="desc" value="Double-click this coupon to change your hair to an Explorer hairstyle."/>
+	</imgdir>
+    <imgdir name="2432021">
+		<string name="name" value="Explorer Random Face Coupon"/>
+		<string name="desc" value="Double-click this coupon to change your face to an Explorer shape."/>
+	</imgdir>
+    <imgdir name="2432022">
+		<string name="name" value="Auction Premium Pass "/>
+		<string name="desc" value="Double-click this coupon to receive Maple Auction Silver Ticket."/>
+	</imgdir>
+    <imgdir name="2432023">
+		<string name="desc" value="Double-click this coupon to receive [30 Days] Hoyangi Label Ring."/>
+		<string name="name" value="[30 Days] Hoyangi Label Ring Coupon"/>
+	</imgdir>
+    <imgdir name="2432024">
+		<string name="desc" value="Double-click this coupon to receive [30 Days] Hoyangi Chat Ring."/>
+		<string name="name" value="[30 Days] Hoyangi Chat Ring Coupon"/>
+	</imgdir>
+    <imgdir name="2432025">
+		<string name="desc" value="The Operator has prepared this gift for Demon Slayers at Level 100 or above who do not have a Demon Aegis. #cDouble-click# the gift to receive the 4th job Demon Aegis."/>
+		<string name="name" value="Operator's Demon Slayer Gift"/>
+	</imgdir>
+    <imgdir name="2432026">
+		<string name="name" value="Specter Corps Letter"/>
+		<string name="desc" value="A letter from the Specter Corps. You must check if it's written by Magnus himself. #cDouble-click# it to check the handwriting."/>
+	</imgdir>
+    <imgdir name="2432027">
+		<string name="desc" value="A bone dropped from a soldier in Hilla's corps. You must check the type of the bone. #cDouble-click# the bone to check."/>
+		<string name="name" value="Hilla Corps Soldier's Bone"/>
+	</imgdir>
+    <imgdir name="2432028">
+		<string name="desc" value="A bone dropped from a soldier in Hilla's corps. You must check the type of the bone. #cDouble-click# the bone to check."/>
+		<string name="name" value="Hilla Corps Soldier's Bone"/>
+	</imgdir>
+    <imgdir name="2432029">
+		<string name="desc" value="Double-click to use the [Battleship Mount] mount skill for 90 days."/>
+		<string name="name" value="Battleship Mount 90-day Coupon"/>
+	</imgdir>
+    <imgdir name="2432030">
+		<string name="desc" value="Double-click to gain a permanent [Gargoyle Mount] mount skill."/>
+		<string name="name" value="Gargoyle Mount Permanent Coupon"/>
+	</imgdir>
+    <imgdir name="2432031">
+		<string name="desc" value="Double-click to gain a permanent [Friend Mount] mount skill."/>
+		<string name="name" value="Friend Mount Permanent Coupon"/>
+	</imgdir>
+    <imgdir name="2432032">
+		<string name="desc" value="A rare coupon good for a Zero Android and a Gold Heart."/>
+		<string name="name" value="Zero Android Coupon"/>
+	</imgdir>
+    <imgdir name="2432033">
+		<string name="desc" value="This box is issued to compensate the reward distribution error in the [Andersen's Box] event. Double-click it to claim your overdue rewards."/>
+		<string name="name" value="Von Bon's Reward"/>
+	</imgdir>
+    <imgdir name="2450079">
+		<string name="name" value="Monster Capture Booster Coupon"/>
+		<string name="desc" value="A coupon that temporarily increases the chances of capturing monsters."/>
+	</imgdir>
+</imgdir>

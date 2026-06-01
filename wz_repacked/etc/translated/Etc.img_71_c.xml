@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4023017">
+			<string name="name" value="广藿香种子油"/>
+			<string name="desc" value="广藿香种子油。用于9级炼金"/>
+		</imgdir>
+    <imgdir name="4023018">
+			<string name="name" value="广藿香花油"/>
+			<string name="desc" value="广藿香花油。用于9级炼金"/>
+		</imgdir>
+    <imgdir name="4023019">
+			<string name="name" value="杜松子种子油"/>
+			<string name="desc" value="杜松子种子油。用于10级炼金"/>
+		</imgdir>
+    <imgdir name="4023020">
+			<string name="name" value="杜松子花油"/>
+			<string name="desc" value="杜松子花油。用于10级炼金"/>
+		</imgdir>
+    <imgdir name="4023021">
+			<string name="name" value="海索花油"/>
+			<string name="desc" value="非常稀有的海索花花油。用于10级炼金"/>
+		</imgdir>
+    <imgdir name="4023022">
+			<string name="name" value="鼠尾草油"/>
+			<string name="desc" value="鼠尾草油"/>
+		</imgdir>
+    <imgdir name="4024000">
+			<string name="name" value="基础草药油瓶"/>
+			<string name="desc" value="基础草药油瓶。\n可用草药：甘牛至、薰衣草、迷迭香"/>
+		</imgdir>
+    <imgdir name="4024001">
+			<string name="name" value="中级草药油瓶"/>
+			<string name="desc" value="中级草药油瓶。\n可用草药：橘子、香蜂草、薄荷、茉莉"/>
+		</imgdir>
+    <imgdir name="4024002">
+			<string name="name" value="高级草药油瓶"/>
+			<string name="desc" value="高级草药油瓶。\n可用草药：茶树、洋甘菊、广藿香"/>
+		</imgdir>
+    <imgdir name="4024003">
+			<string name="name" value="上级草药油瓶"/>
+			<string name="desc" value="上级草药油瓶。\n可用草药：杜松子、海索"/>
+		</imgdir>
+    <imgdir name="4024004">
+			<string name="name" value="基础模具"/>
+			<string name="desc" value="基础模具。\n可用矿物：蛋白石、银、奥里哈鲁康、紫水晶、钢、蓝宝石"/>
+		</imgdir>
+    <imgdir name="4024005">
+			<string name="name" value="中级模具"/>
+			<string name="desc" value="中级模具。\n可用矿物：精金、青铜、秘银、敏捷水晶、祖母绿、金、黄玉"/>
+		</imgdir>
+    <imgdir name="4024006">
+			<string name="name" value="高级模具"/>
+			<string name="desc" value="高级模具。可用矿物：钻石、海蓝宝石、石榴石、力量水晶、暗黑水晶、黑水晶"/>
+		</imgdir>
+    <imgdir name="4024007">
+			<string name="name" value="上级模具"/>
+			<string name="desc" value="上级模具。\n可用矿物：利迪姆、智慧水晶、幸运水晶"/>
+		</imgdir>
+    <imgdir name="4025004">
+			<string name="name" value="基础空瓶"/>
+			<string name="desc" value="炼金药水瓶。用于制作40到60级之间的药水。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+    <imgdir name="4025005">
+			<string name="name" value="中级空瓶"/>
+			<string name="desc" value="炼金药水瓶。用于制作70到90级之间的药水。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+    <imgdir name="4025006">
+			<string name="name" value="高级空瓶"/>
+			<string name="desc" value="炼金药水瓶。用于制作100到120级之间的药水。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+    <imgdir name="4025007">
+			<string name="name" value="上级空瓶"/>
+			<string name="desc" value="炼金药水瓶。用于制作130级及以上的药水。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+    <imgdir name="4025008">
+			<string name="name" value="基础药水凝固剂"/>
+			<string name="desc" value="用于凝固药水的粉末。用于制作40到60级之间的药丸。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+    <imgdir name="4025009">
+			<string name="name" value="中级药水凝固剂"/>
+			<string name="desc" value="用于凝固药水的粉末。用于制作70到90级之间的药丸。\n在阿尔蒂米尔的纳克处购买"/>
+		</imgdir>
+</imgdir>

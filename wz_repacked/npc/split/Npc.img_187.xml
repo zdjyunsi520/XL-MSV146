@@ -1,0 +1,130 @@
+<imgdir name="Npc.img">
+    <imgdir name="2411023">
+		<string name="name" value="Lapis"/>
+	</imgdir>
+    <imgdir name="2411024">
+		<string name="name" value="Lazuli"/>
+	</imgdir>
+    <imgdir name="2411025">
+		<string name="name" value="Alpha"/>
+	</imgdir>
+    <imgdir name="2411026">
+		<string name="name" value="Beta"/>
+	</imgdir>
+    <imgdir name="2411027">
+		<string name="name" value="White Tiger"/>
+		<string name="n0" value="Rawr! Rawr!!"/>
+	</imgdir>
+    <imgdir name="2420000">
+		<string name="name" value="Shah Mar"/>
+		<string name="func" value="Prime Minister"/>
+		<string name="d0" value="I've been waiting for so long, I've gotten used to the sweltering heat of the desert."/>
+		<string name="d1" value="I've been waiting for so long, I've gotten used to the sweltering heat of the desert."/>
+		<string name="n0" value="Welcome to Ariant, the desert kingdom."/>
+		<string name="n1" value="How long..."/>
+	</imgdir>
+    <imgdir name="2420001">
+		<string name="name" value="Areda"/>
+		<string name="func" value="Queen"/>
+		<string name="d0" value="The dwellers of this desert are so crude."/>
+		<string name="d1" value="More beautiful! More special! More precious! All for me!"/>
+		<string name="n0" value="Don't you have any more beautiful jewels?"/>
+		<string name="n1" value="Only shining things can satisfy me."/>
+	</imgdir>
+    <imgdir name="2420002">
+		<string name="name" value="Abdullah VIII"/>
+		<string name="func" value="Former King"/>
+		<string name="d0" value="The vast desert looks barren, but much can grow here. I have faith in the Prime Minister."/>
+		<string name="d1" value="Insurgence? That's inconceivable."/>
+		<string name="n0" value="I'm too tired. Do what you wish, my queen."/>
+		<string name="n1" value="Yawn... "/>
+	</imgdir>
+    <imgdir name="2420003">
+		<string name="name" value="Schegerazade"/>
+		<string name="func" value="Storyteller"/>
+		<string name="d0" value="Heroes in old stories are courageous. I can see that same courage in you."/>
+		<string name="d1" value="Reality is more dramatic than any fiction."/>
+		<string name="n0" value="Once upon a time..."/>
+		<string name="n1" value="Aladdin rubbed the magic lamp..."/>
+	</imgdir>
+    <imgdir name="2420004">
+		<string name="name" value="Tigun"/>
+		<string name="func" value="Guard Captain"/>
+		<string name="d0" value="The mustache is a symbol of masculinity, and I have the greatest mustache in the entire kingdom."/>
+		<string name="d1" value="I'm the captain of the royal guards. Do you know how powerful I am?"/>
+		<string name="n0" value="I am Captain Tigun!"/>
+		<string name="n1" value="Ahem! Ahem!"/>
+	</imgdir>
+    <imgdir name="2420005">
+		<string name="name" value="Sirin"/>
+		<string name="func" value="Dancer"/>
+		<string name="d0" value="Visitors are pouring in to Ariant. My business has never been better. "/>
+		<string name="d1" value="Visitors are pouring in to Ariant. My business has never been better. "/>
+		<string name="n0" value="I'm making a killing on all these people."/>
+		<string name="n1" value="Do you want to see me dance? It'll cost you."/>
+	</imgdir>
+    <imgdir name="2420006">
+		<string name="name" value="Jiyur"/>
+		<string name="d0" value="Can I be honest? The Queen... Her face... Ah, forget it."/>
+		<string name="d1" value="Can I be honest? The Queen... Her face... Ah, forget it."/>
+		<string name="n0" value="*Sob...*"/>
+		<string name="n1" value="Have you heard about the Sand Bandits?"/>
+	</imgdir>
+    <imgdir name="2420007">
+		<string name="name" value="Ardin"/>
+		<string name="d0" value="The Queen's power is out of control! If it weren't for the Prime Minister..."/>
+		<string name="d1" value="The Queen's power is out of control! If it weren't for the Prime Minister..."/>
+		<string name="n0" value="If the wind doesn't blow, neither does the sand."/>
+		<string name="n1" value="We have only one purpose."/>
+	</imgdir>
+    <imgdir name="2420008">
+		<string name="name" value="Eleska"/>
+		<string name="d0" value="Don't butt in on our business, if you value your life."/>
+		<string name="d1" value="Don't butt in on our business, if you value your life."/>
+		<string name="n0" value="Don't talk to me."/>
+		<string name="n1" value="Why do you keep glancing at me?"/>
+	</imgdir>
+    <imgdir name="2420009">
+		<string name="name" value="Sejan"/>
+		<string name="d0" value="There's no end to the Queen's greed. No matter how hard the Prime Minister tries, he'll never be able to satisfy her."/>
+		<string name="d1" value="There's no end to the Queen's greed. No matter how hard the Prime Minister tries, he'll never be able to satisfy her."/>
+		<string name="n0" value="Shh, be quiet!"/>
+		<string name="n1" value="The Queen's guards might see us!"/>
+	</imgdir>
+    <imgdir name="2420010">
+		<string name="name" value="Jano"/>
+		<string name="d0" value="Not everyone can join us Sand Bandits. And we can't afford any distractions."/>
+		<string name="d1" value="Not everyone can join us Sand Bandits. And we can't afford any distractions."/>
+		<string name="n0" value="Keep your mouth shut, all right?"/>
+		<string name="n1" value="Soon it'll be our time to make a move."/>
+	</imgdir>
+    <imgdir name="2420011">
+		<string name="name" value="Gold Richie"/>
+		<string name="func" value="Fortune 500"/>
+		<string name="d0" value="My name doth be Gold Richie, businessman most able!"/>
+		<string name="d1" value="My name doth be Gold Richie, businessman most able!"/>
+		<string name="n0" value="Ha ha, what an interesting village!"/>
+		<string name="n1" value="This sand holds riches beyond imagining."/>
+	</imgdir>
+    <imgdir name="2420012">
+		<string name="name" value="Madeleine"/>
+		<string name="d0" value="My name is Madeleine. My sisters and I are working to save up enough to go back to traveling."/>
+		<string name="d1" value="My name is Madeleine. My sisters and I are working to save up enough to go back to traveling."/>
+		<string name="n0" value="Welcome."/>
+		<string name="n1" value="Would you like some whipped cream on your tea?"/>
+	</imgdir>
+    <imgdir name="2420013">
+		<string name="name" value="Marianne"/>
+		<string name="d0" value="Ah, I want to read something, but I'll have to wait until my shift is over."/>
+		<string name="d1" value="Ah, I want to read something, but I'll have to wait until my shift is over."/>
+		<string name="n0" value="Here, take a seat."/>
+		<string name="n1" value="Come get yourself something sweet to drink!"/>
+	</imgdir>
+    <imgdir name="2420014">
+		<string name="name" value="Marguerite"/>
+		<string name="d0" value="I'm just doing this until I get enough money to leave Ariant. I'm single and free!"/>
+		<string name="d1" value="I'm just doing this until I get enough money to leave Ariant. I'm single and free!"/>
+		<string name="n0" value="Thank you. Come again!"/>
+		<string name="n1" value="Do you need any cream or sugar?"/>
+	</imgdir>
+</imgdir>

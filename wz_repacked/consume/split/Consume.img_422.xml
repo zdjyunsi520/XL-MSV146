@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2900010">
+		<string name="name" value="Clear Status"/>
+		<string name="desc" value="Clears all abnormal status effects."/>
+	</imgdir>
+    <imgdir name="2900011">
+		<string name="name" value="Clear Team Status"/>
+		<string name="desc" value="Clears all abnormal status effects."/>
+	</imgdir>
+    <imgdir name="2900012">
+		<string name="name" value="HP Decrease"/>
+		<string name="desc" value="Decreases HP."/>
+	</imgdir>
+    <imgdir name="2900013">
+		<string name="name" value="MP Decrease"/>
+		<string name="desc" value="Decreases MP."/>
+	</imgdir>
+    <imgdir name="2900014">
+		<string name="name" value="Monster Transform"/>
+		<string name="desc" value="Transform into a Smiling Ghost Stump for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900015">
+		<string name="name" value="Increase Score"/>
+		<string name="desc" value="Increases score by 10."/>
+	</imgdir>
+    <imgdir name="2900016">
+		<string name="name" value="Score Up"/>
+		<string name="desc" value="Doubles score increases for next minute."/>
+	</imgdir>
+    <imgdir name="2900017">
+		<string name="name" value="Invincibility"/>
+		<string name="desc" value="Becomes invincible for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900018">
+		<string name="name" value="Random"/>
+		<string name="desc" value="Receive a random effect."/>
+	</imgdir>
+    <imgdir name="2900019">
+		<string name="name" value="Random"/>
+		<string name="desc" value="Receive a random effect."/>
+	</imgdir>
+    <imgdir name="2900020">
+		<string name="name" value="Seal"/>
+		<string name="desc" value="Become sealed for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900021">
+		<string name="name" value="Darkness"/>
+		<string name="desc" value="Become blinded for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900022">
+		<string name="name" value="Fragile"/>
+		<string name="desc" value="Become fragile for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900023">
+		<string name="name" value="Slow"/>
+		<string name="desc" value="Decreases Movement Speed for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900024">
+		<string name="name" value="Nullify Buff"/>
+		<string name="desc" value="Nullifies an active buff."/>
+	</imgdir>
+    <imgdir name="2900025">
+		<string name="name" value="Blind"/>
+		<string name="desc" value="Limits sight for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900026">
+		<string name="name" value="Reverse"/>
+		<string name="desc" value="Reverses controls for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900027">
+		<string name="name" value="Monster Transform"/>
+		<string name="desc" value="Transform into a Stirge for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900028">
+		<string name="name" value="Monster Transform"/>
+		<string name="desc" value="Transform into a Serpent for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900029">
+		<string name="name" value="Blind"/>
+		<string name="desc" value="Limits sight for a set amount of time."/>
+	</imgdir>
+</imgdir>

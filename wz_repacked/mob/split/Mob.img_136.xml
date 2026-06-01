@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9990003">
+		<string name="name" value="Fish"/>
+	</imgdir>
+    <imgdir name="9990004">
+		<string name="name" value="Reptile"/>
+	</imgdir>
+    <imgdir name="9990005">
+		<string name="name" value="Spirit"/>
+	</imgdir>
+    <imgdir name="9990006">
+		<string name="name" value="Devil"/>
+	</imgdir>
+    <imgdir name="9990007">
+		<string name="name" value="Immortal"/>
+	</imgdir>
+    <imgdir name="9990008">
+		<string name="name" value="Enchanted"/>
+	</imgdir>
+    <imgdir name="9990009">
+		<string name="name" value="Boss"/>
+	</imgdir>
+    <imgdir name="9990010">
+		<string name="name" value="Fireball"/>
+	</imgdir>
+    <imgdir name="9990011">
+		<string name="name" value="Blizzard"/>
+	</imgdir>
+    <imgdir name="9990012">
+		<string name="name" value="Lightning"/>
+	</imgdir>
+    <imgdir name="9990013">
+		<string name="name" value="Poison"/>
+	</imgdir>
+    <imgdir name="9990014">
+		<string name="name" value="Holy"/>
+	</imgdir>
+    <imgdir name="9990015">
+		<string name="name" value="Darkness"/>
+	</imgdir>
+    <imgdir name="9990016">
+		<string name="name" value="Tower Type"/>
+	</imgdir>
+    <imgdir name="9990017">
+		<string name="name" value="Monster Guardian"/>
+	</imgdir>
+    <imgdir name="9990018">
+		<string name="name" value="Aswan Liberation Normal Monster"/>
+	</imgdir>
+    <imgdir name="9990019">
+		<string name="name" value="Hilla - Safe Zone"/>
+	</imgdir>
+    <imgdir name="9990020">
+		<string name="name" value="Hilla - Vampiric"/>
+	</imgdir>
+    <imgdir name="9990021">
+		<string name="name" value="Hilla - Stigma"/>
+	</imgdir>
+    <imgdir name="9990022">
+		<string name="name" value="Hilla - Heal"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101121200">
+        <string name="name" value="Wind Cutter" />
+        <string name="desc" value="Attacks enemies in front of you, and creates a vortex at the target location that causes additional damage." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Vortex]#: Max Enemies Hit: #x, Damage: #y% per 0.5 sec, Number of Attacks: #z, Duration: #s sec.\n#cCooldown: #cooltime sec#" />
+    </imgdir>

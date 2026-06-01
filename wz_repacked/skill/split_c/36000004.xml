@@ -1,0 +1,5 @@
+<imgdir name="36000004">
+        <string name="name" value="多重属性II" />
+        <string name="desc" value="当属性达到一定阈值时，获得特殊加成。" />
+        <string name="h" value="力量达#x时: 站率#y%\n敏捷达#x时: 所有属性和异常状态抗性#z%\n运气达#x时: 回避率#u%\n力量、敏捷和运气达#x时: 总伤害+#w%, 最大HP/MP: +#s%" />
+    </imgdir>

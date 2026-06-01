@@ -1,0 +1,5 @@
+<imgdir name="31221012">
+        <string name="name" value="超越：处刑" />
+        <string name="desc" value="运用恶魔的真正力量进行强力斩击，无视部分敌人防御！\r\n#c超越#：攻击速度逐渐提升，HP消耗也随之增加。最终阶段会多斩一次。" />
+        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

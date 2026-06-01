@@ -1,0 +1,5 @@
+<imgdir name="101110101">
+        <string name="name" value="暴风轮" />
+        <string name="desc" value="短时间内像旋风一样旋转攻击附近敌人。\n旋转时可用左右方向键移动。\n[前置技能]: #c旋转突击 Lv. 1#\n[指令]: 旋转突击激活时再次使用#c旋转突击#" />
+        <string name="h" value="时间之力消耗: 每秒#forceCon, 每0.1秒伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount, 持续时间: #time秒" />
+    </imgdir>

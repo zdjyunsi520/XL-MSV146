@@ -1,0 +1,5 @@
+<imgdir name="31211003">
+        <string name="name" value="Ward Evil" />
+        <string name="desc" value="Blocks evil energy. All Elemental Resistance and Abnormal Status resistance increase, and the damage received is reduced." />
+        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, Elemental Resistance: +#y%, Status Ailment Resistance: +#z%, Damage Intake: -#x%" />
+    </imgdir>

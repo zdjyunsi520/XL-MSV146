@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3994134">
+		<string name="name" value="战神记忆碎片"/>
+		<string name="desc" value="战神正在复活。"/>
+	</imgdir>
+    <imgdir name="3994135">
+		<string name="name" value="战神记忆碎片"/>
+		<string name="desc" value="战神正在复活。"/>
+	</imgdir>
+    <imgdir name="3994136">
+		<string name="name" value="战神记忆碎片"/>
+		<string name="desc" value="战神正在复活。"/>
+	</imgdir>
+    <imgdir name="3994137">
+		<string name="name" value="战神记忆碎片"/>
+		<string name="desc" value="战神正在复活。"/>
+	</imgdir>
+    <imgdir name="3994138">
+		<string name="name" value="冰晶"/>
+		<string name="desc" value="包含玛哈护符的坚固冰晶。持有1小时后冰晶融化，可获得护符。"/>
+	</imgdir>
+    <imgdir name="3994139">
+		<string name="name" value="玛哈护符"/>
+		<string name="desc" value="包含长矛之灵玛哈保护的护符。交给卡珊德拉有机会回答问题并获得奖励。"/>
+	</imgdir>
+    <imgdir name="3994141">
+		<string name="name" value="卡珊德拉蜡烛"/>
+		<string name="desc" value="卡珊德拉给的小蜡烛。游戏结束时蜡烛会自动熄灭。"/>
+	</imgdir>
+    <imgdir name="3994179">
+		<string name="name" value="卡珊德拉星星箱子"/>
+		<string name="desc" value="装有卡珊德拉网吧巨型星星的箱子。在线持有90分钟可转变为卡珊德拉网吧巨型星星。退出游戏时消失。"/>
+	</imgdir>
+    <imgdir name="3994180">
+		<string name="name" value="卡珊德拉网吧巨型星星"/>
+		<string name="desc" value="卡珊德拉寻找的网吧巨型星星。退出游戏时消失。"/>
+	</imgdir>
+    <imgdir name="3994184">
+		<string name="name" value="卡珊德拉奇怪药水"/>
+		<string name="desc" value="持有30分钟，寒冷天气会将其变成泥浆。非常脆弱，退出游戏会消失。"/>
+	</imgdir>
+    <imgdir name="3994185">
+		<string name="name" value="卡珊德拉奇怪泥浆"/>
+		<string name="desc" value="在消失前交给卡珊德拉！"/>
+	</imgdir>
+    <imgdir name="3994186">
+		<string name="name" value="迷你龙蛋"/>
+		<string name="desc" value="卡珊德拉托付给你的迷你龙蛋。必须靠近并保暖1小时才能孵化。退出游戏会导致其毁灭。"/>
+	</imgdir>
+    <imgdir name="3994187">
+		<string name="name" value="迷你龙"/>
+		<string name="desc" value="从卡珊德拉托付的蛋中孵化的迷你龙。还给卡珊德拉可获得奖励！"/>
+	</imgdir>
+    <imgdir name="3994188">
+		<string name="name" value="空指南针"/>
+		<string name="desc" value="最终用于制作黄金指南针的空指南针。"/>
+	</imgdir>
+    <imgdir name="3994192">
+		<string name="name" value="黑暗羽毛"/>
+		<string name="desc" value="未识别鸟类的黑色羽毛。观察15分钟会变成明亮羽毛。\n#c退出游戏时消失。#"/>
+	</imgdir>
+    <imgdir name="3994193">
+		<string name="name" value="明亮羽毛"/>
+		<string name="desc" value="未识别鸟类的明亮羽毛。交给枫之谷管理员。"/>
+	</imgdir>
+    <imgdir name="3994195">
+		<string name="name" value="六周年星星"/>
+		<string name="desc" value="为纪念枫之谷6周年特别制作的大星星。携带45分钟可获得星星印章。"/>
+	</imgdir>
+    <imgdir name="3994196">
+		<string name="name" value="鹰眼贴纸"/>
+		<string name="desc" value="鹰眼贴纸。收集全部5个皇家骑士贴纸可获得限量奖励。"/>
+	</imgdir>
+    <imgdir name="3994197">
+		<string name="name" value="卡塔沙漏"/>
+		<string name="desc" value="卡塔沙漏中的沙子需要2小时才能流到底部。"/>
+	</imgdir>
+    <imgdir name="3994198">
+		<string name="name" value="卡塔沙漏"/>
+		<string name="desc" value="卡塔沙漏中的沙子已流到底部。"/>
+	</imgdir>
+</imgdir>

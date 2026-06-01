@@ -1,0 +1,5 @@
+<imgdir name="32111005">
+        <string name="name" value="Body Boost" />
+        <string name="desc" value="Consumes MP to rapidly increase the effects of your active aura for a short time. You must cancel this skill to switch auras. Also, enemy attacks will not cancel the buff.\nRequired Skill: Dark Aura Lv. 10 and above, Yellow Aura Lv.10 and above, Blue Aura Lv. 10 and above." />
+        <string name="h" value="Mana Cost: MP #mpCon, Duration: #time sec.  Activated auras effects will have the multiplier #x applied to following parts: \nDark Aura: Damage\nYellow Aura: Attack Speed, Speed, Avoidability\nBlue Aura: Distributed Damage Absorption, DEF\nCooldown: #cooltime Sec." />
+    </imgdir>

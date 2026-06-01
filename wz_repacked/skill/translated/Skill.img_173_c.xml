@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1220040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="1220041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="1220042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="1220043"><string name="name" value="威胁-持久"/><string name="desc" value="延长威胁的持续时间。"/><string name="h" value="持续时间：+#time秒"/></imgdir>
+    <imgdir name="1220044"><string name="name" value="威胁-机率"/><string name="desc" value="提升威胁成功的概率。"/><string name="h" value="成功概率：+#prop%"/></imgdir>
+    <imgdir name="1220045"><string name="name" value="威胁-强化"/><string name="desc" value="增强威胁降低敌人攻击力、防御力和命中值的效果。"/><string name="h" value="敌人物理/魔法攻击力：#x%，命中值：-#y%，持续时间：8秒"/></imgdir>
+    <imgdir name="1220046"><string name="name" value="神圣冲击-强化"/><string name="desc" value="提升神圣冲击的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="1220047"><string name="name" value="神圣冲击-暴击"/><string name="desc" value="提升神圣冲击的暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="1220048"><string name="name" value="神圣冲击-额外攻击"/><string name="desc" value="增加神圣冲击的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="1220049"><string name="name" value="天堂之锤-强化"/><string name="desc" value="提升天堂之锤的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="1220050"><string name="name" value="天堂之锤-额外攻击"/><string name="desc" value="增加天堂之锤的攻击次数。"/><string name="h" value="对Boss怪物的攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="1220051"><string name="name" value="天堂之锤-冷却缩减"/><string name="desc" value="缩短天堂之锤的冷却时间。"/><string name="h" value="冷却时间：-#coolTimeR%"/></imgdir>
+    <imgdir name="1221052"><string name="name" value="制裁之盾"/><string name="desc" value="召唤注入了不朽之力的盾牌，击倒附近的敌人。被击中的敌人将暂时失去所有增益效果。"/><string name="h" value="消耗MP：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，眩晕持续时间：#time秒。\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="1221053"><string name="name" value="史诗冒险"/><string name="desc" value="唤起内心深处的勇气，提升伤害和最大伤害值。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。适用于队伍中的所有冒险家职业"/></imgdir>
+    <imgdir name="1221054"><string name="name" value="神圣无敌"/><string name="desc" value="召唤上天之力，在短时间内保护你免受一切攻击。"/><string name="h" value="消耗MP：#mpCon，无敌持续时间：#time秒\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="1320030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="力量+#strX"/></imgdir>
+    <imgdir name="1320031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="敏捷+#dexX"/></imgdir>
+    <imgdir name="1320032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="智力+#intX"/></imgdir>
+    <imgdir name="1320033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="1320034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+</imgdir>

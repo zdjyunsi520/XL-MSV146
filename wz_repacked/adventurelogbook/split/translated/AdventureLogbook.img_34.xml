@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="404">
+				<string name="title" value="4. 挖掘真相" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="黑暗领主怀疑封印石是被伪装大师偷走的，他是黑翼的成员。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="但所有职业教官都不理解黑翼为什么要偷封印石。他们需要更多信息。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="他们派你去埃雷夫从冒险骑士团收集情报，又去埃德尔斯坦找抵抗者了解情况。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="无论是骑士团冷酷的军师内哈尔特，还是以口风严密著称的抵抗者领导人克劳迪恩，都向你提供了他们所知道的一切。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="你逐渐拼凑出黑翼想在探险家内部制造纷争。但为什么呢？" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101120200">
+        <string name="name" value="风之切割(龙卷风)" />
+        <string name="desc" value="在目标位置持续一定时间的龙卷风，伤害周围敌人~" />
+        <string name="h" value="每0.5秒伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount，\n持续时间: #time秒" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101001100">
+        <string name="name" value="Rising Slash" />
+        <string name="desc" value="Launches enemies in front of you into the air." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

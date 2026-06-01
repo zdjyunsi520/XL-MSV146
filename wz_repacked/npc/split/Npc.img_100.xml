@@ -1,0 +1,152 @@
+<imgdir name="Npc.img">
+    <imgdir name="2012001">
+		<string name="name" value="Rini"/>
+		<string name="func" value="Cabin Crew"/>
+		<string name="n0" value="If you want to ride to Victoria, please give me your ticket."/>
+		<string name="n1" value="This ship has a limited capacity, so please get on right now. It'll be leaving shortly."/>
+		<string name="n2" value="The ship is about to leave. Please wait one moment."/>
+	</imgdir>
+    <imgdir name="2012002">
+		<string name="name" value="Erin"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n0" value="Anything I can do to help? Hope you enjoy your trip."/>
+		<string name="n1" value="If you want to leave the ship and return to where we came from, please come talk to me."/>
+		<string name="n2" value="The ship is about to leave. Please wait one moment."/>
+	</imgdir>
+    <imgdir name="2012003">
+		<string name="name" value="Neri the Fairy"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="You'll need a great weapon or two to survive here in Ossyria..."/>
+		<string name="n1" value="You can't fool these fairy eyes, so I suggest you don't think of stealing anything here."/>
+		<string name="c0" value="To make great weapons, I need great materials to start with..."/>
+		<string name="c1" value="It's been 150 years since I last saw Rowen from Ellinia... I wonder how he's doing..."/>
+	</imgdir>
+    <imgdir name="2012004">
+		<string name="name" value="Nuri the Fairy"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="You may want to grab some armor before heading out of town..."/>
+		<string name="n1" value="I have many goods that are perfect for humans, so come check them out."/>
+		<string name="c0" value="Monsters seem to be more ferocious these days... Armor is definitely a must for each and every one of you travelers."/>
+		<string name="c1" value="How's Victoria Island these days?"/>
+	</imgdir>
+    <imgdir name="2012005">
+		<string name="name" value="Edel the Fairy"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="There's no telling when and where you may face a powerful monster! Potions are definitely a must for every traveler!"/>
+		<string name="n1" value="I also have various tasty dishes made by us fairies."/>
+		<string name="c0" value="To make a good potion like this, I need to go from place to place every day looking for the finest ingredients available."/>
+		<string name="c1" value="I'm sure the fairies in Ellinia are doing well... Right?"/>
+	</imgdir>
+    <imgdir name="2012006">
+		<string name="name" value="Isa the Station Guide"/>
+		<string name="func" value="Platform Usher"/>
+		<string name="n0" value="Orbis Station is huge. Talk to me if you want to go to the station platform."/>
+		<string name="n1" value="The platform you want depends on your destination. Ask me to guide you to the right platform!"/>
+	</imgdir>
+    <imgdir name="2012007">
+		<string name="name" value="Rinz the Assistant"/>
+		<string name="func" value="Assistant Hair Stylist"/>
+		<string name="n0" value="Hello! Thanks for visiting our hair salon!"/>
+		<string name="n1" value="I may not be as good as the owner, but... How about letting me take care of your hair?"/>
+		<string name="s0" value="Do you want to know about the latest trends in hair? I'll take care of you!"/>
+		<string name="s1" value="Fairies love beautiful things, so I'm thinking it may help you on your journey down the road to have beautiful-looking hair."/>
+		<string name="c0" value="Wow, the owner is still the best of the best at this!"/>
+		<string name="c1" value="Please don't just leave... Check out the hairstyles available for a change..."/>
+		<string name="d0" value="Hello! Thank you for choosing our Hair Salon!"/>
+		<string name="d1" value="Yay! The Scissorhands you gave me really help!"/>
+	</imgdir>
+    <imgdir name="2012008">
+		<string name="name" value="Romi"/>
+		<string name="func" value="Dermatologist"/>
+		<string name="n0" value="Welcome to Orbis Skin Care!"/>
+		<string name="n1" value="So you want the most latest popular skin color, right?"/>
+		<string name="s0" value="What skins are popular in Victoria Island?"/>
+		<string name="s1" value="Nicely-tanned skin gives you a healthy look."/>
+	</imgdir>
+    <imgdir name="2012009">
+		<string name="name" value="Riza the Assistant"/>
+		<string name="func" value="Doctor Assistant"/>
+		<string name="n0" value="You look like someone that may need plastic surgery."/>
+		<string name="n1" value="How about completely redoing your face? You could try on the latest popular look."/>
+	</imgdir>
+    <imgdir name="2012010">
+		<string name="name" value="Elma the Housekeeper"/>
+		<string name="n0" value="Where did my master go? *Sigh...*"/>
+		<string name="n1" value="What's going to happen to my next paycheck if the master doesn't come back?"/>
+		<string name="d0" value="It's been months since she left out of the blue. I haven't had much work lately, so that's good, but I also haven't been paid in months because she's not here. I'm worried someone else may take over the house and I may never get paid..."/>
+		<string name="d1" value="It looks like you've been looking for her too. Do you have any idea how this all happened? I wonder where she is."/>
+	</imgdir>
+    <imgdir name="2012011">
+		<string name="name" value="Kriel the Fairy"/>
+		<string name="n0" value="Humans really are shameless. They expect miracles to rain from the heavens!"/>
+		<string name="n1" value="We don't have enough workers, but I'm still strong enough to pull my weight."/>
+		<string name="d0" value="Humans these days expect their wishes to be granted without question. If you think the fairies will fulfill your desires at a whim, you are gravely mistaken. What do you want?"/>
+		<string name="d1" value="Spiruna young friend... is she doing well? Tell her I said hello!"/>
+	</imgdir>
+    <imgdir name="2012012">
+		<string name="name" value="Lisa"/>
+		<string name="n0" value="Where did Hella go...?"/>
+		<string name="n1" value="I'm worried that monsters these days are much more ferocious..."/>
+		<string name="d0" value="Hi there. I'm Lisa."/>
+		<string name="d1" value="Lately I've been concerned about this group of aggressive monsters..."/>
+	</imgdir>
+    <imgdir name="2012018">
+		<string name="name" value="Ericsson"/>
+		<string name="e0" value="I love kitties..."/>
+		<string name="m0" value="Hmm! I can't remember."/>
+		<string name="d0" value="Look at my kitty! Isn't she cute?"/>
+		<string name="d1" value="Look at my kitty! Isn't she cute?"/>
+	</imgdir>
+    <imgdir name="2012019">
+		<string name="name" value="Moppie"/>
+		<string name="t0" value="Bark! Bark!"/>
+		<string name="d0" value="*Whine*"/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2013000">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="Remnant of the Goddess"/>
+		<string name="s0" value="Hey hey!"/>
+		<string name="s1" value="I'm hungry hungry hungry! Anything to eat?"/>
+		<string name="d0" value="Haha, anything more to eat?"/>
+		<string name="d1" value="Oooh... Okay, enough!"/>
+	</imgdir>
+    <imgdir name="2013001">
+		<string name="name" value="Chamberlain Eak"/>
+		<string name="e0" value="Hey there! Eek!"/>
+		<string name="m0" value="I'm Eak. Eh!"/>
+		<string name="d0" value="Please help the goddess! Eek!"/>
+		<string name="d1" value="I'm counting on you! Eek!"/>
+	</imgdir>
+    <imgdir name="2013002">
+		<string name="name" value="Minerva the Goddess"/>
+		<string name="n0" value="Thank you so much, everyone."/>
+		<string name="n1" value="How shall I repay you..."/>
+		<string name="d0" value="I'm Minerva, the goddess of beauty and intelligence..."/>
+		<string name="d1" value="May your future hold nothing but greatness!"/>
+		<string name="s0" value="I'm Minerva, the goddess of beauty and intelligence..."/>
+		<string name="s1" value="May your future hold nothing but greatness!"/>
+	</imgdir>
+    <imgdir name="2020000">
+		<string name="name" value="Vogen"/>
+		<string name="func" value="Refining Expert"/>
+		<string name="n0" value="If you have any raw ore or jewels, you can leave the rest to me..."/>
+		<string name="n1" value="I've been handling various ores for decades now... So long that I can refine them with my eyes closed..."/>
+		<string name="d0" value="El Nath mine was once bustling..."/>
+		<string name="d1" value="Those were good times. But even now, it's not so bad."/>
+	</imgdir>
+    <imgdir name="2020001">
+		<string name="name" value="Scott"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="You won't find these weapons anywhere else. Haha!"/>
+		<string name="n1" value="Our weapon store only deals in the finest weapons around."/>
+	</imgdir>
+    <imgdir name="2020002">
+		<string name="name" value="Gordon"/>
+		<string name="func" value="Shoemaker"/>
+		<string name="n0" value="Hey, there! Your shoes look worn out. How about trying on a pair of MY shoes?"/>
+		<string name="n1" value="I have been making shoes in this town for over 50 years now... Hahaha!"/>
+		<string name="d0" value="What can I do for you?"/>
+		<string name="d1" value="Have you been using the item I made for you?"/>
+	</imgdir>
+</imgdir>

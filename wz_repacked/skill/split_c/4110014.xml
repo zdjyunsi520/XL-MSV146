@@ -1,0 +1,5 @@
+<imgdir name="4110014">
+        <string name="name" value="炼金肾上腺素" />
+        <string name="desc" value="提升药水等恢复道具的效果。百分比回复道具如万灵药不计入。同时提升最低/最高暴击伤害~" />
+        <string name="h" value="回复量: +#x% 最低/最高暴击伤害: +#criticaldamageMin%" />
+    </imgdir>

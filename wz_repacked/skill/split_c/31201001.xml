@@ -1,0 +1,5 @@
+<imgdir name="31201001">
+        <string name="name" value="蝙蝠群" />
+        <string name="desc" value="召唤一群地狱蝙蝠跟随你并攻击敌人。再次按技能键可以改变蝙蝠的飞行方向哦～" />
+        <string name="h" value="HP Cost: #hpCon, Damage: #damage%, Number of Attacks: #attackCount.\n#cThe cloud expires once you finish attacking, move a certain distance, or their timer runs out. Press the skill key again to switch direction.#" />
+    </imgdir>

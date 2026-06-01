@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1051008"><string name="name" value="Blue Avenger"/></imgdir>
+    <imgdir name="1051009"><string name="name" value="Purple Avenger"/></imgdir>
+    <imgdir name="1051010"><string name="name" value="Dark Engrit"/></imgdir>
+    <imgdir name="1051011"><string name="name" value="Red Engrit"/></imgdir>
+    <imgdir name="1051012"><string name="name" value="Blue Engrit"/></imgdir>
+    <imgdir name="1051013"><string name="name" value="Yellow Engrit"/></imgdir>
+    <imgdir name="1051014"><string name="name" value="Sapphire Fitted Mail"/></imgdir>
+    <imgdir name="1051015"><string name="name" value="Blood Fitted Mail"/></imgdir>
+    <imgdir name="1051016"><string name="name" value="Silver Fitted Mail"/></imgdir>
+    <imgdir name="1051017"><string name="name" value="Red Sauna Robe"/><string name="desc" value="If worn inside the hotel sauna, the recovery rate for HP and MP will increase 1.5x."/></imgdir>
+    <imgdir name="1051018"><string name="name" value="Purple Skull Overall"/></imgdir>
+    <imgdir name="1051019"><string name="name" value="Orange Skull Overall"/></imgdir>
+    <imgdir name="1051020"><string name="name" value="Green Skull Overall"/></imgdir>
+    <imgdir name="1051021"><string name="name" value="Blue Skull Overall"/></imgdir>
+    <imgdir name="1051022"><string name="name" value="Grey Skull Overall"/></imgdir>
+    <imgdir name="1051023"><string name="name" value="Purple Moonlight"/></imgdir>
+    <imgdir name="1051024"><string name="name" value="Red Moonlight"/></imgdir>
+    <imgdir name="1051025"><string name="name" value="Blue Moonlight"/></imgdir>
+    <imgdir name="1051026"><string name="name" value="Dark Moonlight"/></imgdir>
+    <imgdir name="1051027"><string name="name" value="Brown Moonlight"/></imgdir>
+</imgdir>

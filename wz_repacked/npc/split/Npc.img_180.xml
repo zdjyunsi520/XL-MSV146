@@ -1,0 +1,158 @@
+<imgdir name="Npc.img">
+    <imgdir name="2231101">
+		<string name="name" value="Nita"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="Weapons? Armors? Take a look at what I've got!"/>
+		<string name="n1" value="Pop's risking his life. I can help too!"/>
+		<string name="d0" value="This is pop's shop. I'm just keeping an eye on things."/>
+		<string name="d1" value="Weapons? Armors? Take a look at what I've got!"/>
+	</imgdir>
+    <imgdir name="2231200">
+		<string name="name" value="Soldier"/>
+		<string name="n0" value="All clear!"/>
+		<string name="n1" value="All clear!"/>
+		<string name="d0" value="All clear!"/>
+		<string name="d1" value="All clear!"/>
+	</imgdir>
+    <imgdir name="2231201">
+		<string name="name" value="Soldier"/>
+		<string name="n0" value="Kritias forever!"/>
+		<string name="n1" value="This kingdom is under my protection."/>
+		<string name="d0" value="Kritias forever!"/>
+		<string name="d1" value="This kingdom is under my protection."/>
+	</imgdir>
+    <imgdir name="2232000">
+		<string name="func" value="Commander"/>
+		<string name="name" value="Isaac"/>
+		<string name="n0" value="Whew!"/>
+		<string name="n1" value="For the glory o' Kritias!"/>
+		<string name="d0" value="You cause trouble here, you gotta answer to me."/>
+		<string name="d1" value="I won't tolerate no scoundrels, that's for dang sure."/>
+	</imgdir>
+    <imgdir name="2232001">
+		<string name="func" value="Volunteer Captain"/>
+		<string name="name" value="Dostov"/>
+		<string name="n0" value="We've much in common, you and I. We command respect, even if we aren't enlisted soldiers."/>
+		<string name="n1" value="Fire forges iron and steel, but it's battle that forges a hero."/>
+		<string name="d0" value="The good people here need me. Who would protect them if I left?"/>
+		<string name="d1" value="Impressive weapon you've got there. And I know a thing or two about weapons."/>
+	</imgdir>
+    <imgdir name="2232002">
+		<string name="func" value="General"/>
+		<string name="name" value="Blundell"/>
+		<string name="n0" value="Boy, do I miss my buddy the king."/>
+		<string name="n1" value="I'm General Blundell, but you can call me Ol' Blundy."/>
+		<string name="d0" value="I'm General Blundell, but you can call me Ol' Blundy."/>
+		<string name="d1" value="Hello, stranger. Where are you from?"/>
+	</imgdir>
+    <imgdir name="2232003">
+		<string name="func" value="Town Hall Clerk"/>
+		<string name="name" value="Hirrel"/>
+		<string name="n0" value="I was born here, and I'll die here. It's only proper."/>
+		<string name="n1" value="How did the castle become so badly misfiled?"/>
+		<string name="d0" value="I'm Hirrel. And you are...?"/>
+		<string name="d1" value="With the library closed, there's nothing to do but count the seconds."/>
+	</imgdir>
+    <imgdir name="2232004">
+		<string name="func" value="Academy Student"/>
+		<string name="name" value="Chen"/>
+		<string name="n0" value="I'm sorry. I didn't mean it, honest!"/>
+		<string name="n1" value="I wish everything'd just go back to normal."/>
+		<string name="d0" value="The academy's one thing, but did they have to close the cafeteria, too?"/>
+		<string name="d1" value="I think Bianca likes this. She's scary!"/>
+	</imgdir>
+    <imgdir name="2232005">
+		<string name="func" value="Academy Student"/>
+		<string name="name" value="Bianca"/>
+		<string name="n0" value="Try to start anything and I'll light your nose on fire."/>
+		<string name="n1" value="You wanna fight? Hm?"/>
+		<string name="d0" value="A spell's good, but so's a fist to the nose."/>
+		<string name="d1" value="I run this school and don't you forget it."/>
+	</imgdir>
+    <imgdir name="2232006">
+		<string name="func" value="Academy Professor"/>
+		<string name="name" value="Beatrice"/>
+		<string name="n0" value="What brings you to Ranheim Academy?"/>
+		<string name="n1" value="The library is closed until further notice. Can't have invaders ransacking the books, can we?"/>
+		<string name="d0" value="It's hard to run an academy when you're the only teacher left."/>
+		<string name="d1" value="That castle is impressive! How did they counter the ambiometric spellonomic forces to make it float like that?"/>
+	</imgdir>
+    <imgdir name="2232007">
+		<string name="func" value="Fancy Lady"/>
+		<string name="name" value="Miriam"/>
+		<string name="n0" value="Sigh..."/>
+		<string name="n1" value="This thing frickin' itches--Er, I mean, tee-hee!"/>
+		<string name="d0" value="Y-yes, I am thine princess...eth."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2232008">
+		<string name="func" value="Head Maid"/>
+		<string name="name" value="Parma"/>
+		<string name="n0" value="Her Highness is exhausted."/>
+		<string name="n1" value="I'm much too busy to deal with you."/>
+		<string name="d0" value="Her Highness is much, MUCH too exhausted to see any visitors."/>
+		<string name="d1" value="This invasion has been hardest on the nobility most of all. This inn doesn't even serve caviar-stuffed lobster!"/>
+	</imgdir>
+    <imgdir name="2232009">
+		<string name="func" value="Masked Figure"/>
+		<string name="name" value="Cantor"/>
+		<string name="n0" value="Fala lalala..."/>
+		<string name="n1" value="Heh heh!"/>
+		<string name="d0" value="A kingdom shrouded in darkness... A castle in the sky... This will make a killer song!"/>
+		<string name="d1" value="Heh heh!"/>
+	</imgdir>
+    <imgdir name="2232010">
+		<string name="func" value="Court Chef"/>
+		<string name="name" value="Michelin"/>
+		<string name="n0" value="'Eggs?' 'Lettuce?' What are these, and where are the real ingredients?!"/>
+		<string name="n1" value="The frying pan is my instrument, the kitchen is my canvas!"/>
+		<string name="d0" value="I'm the kingdom's--no, the world's fanciest chef!"/>
+		<string name="d1" value="That outfit... Does everyone in your country dress like a clown?"/>
+	</imgdir>
+    <imgdir name="2232011">
+		<string name="func" value="Suspicious Person"/>
+		<string name="name" value="Bernhardt"/>
+		<string name="n0" value="Want to borrow a cup of sugar? No? How about some other normal thing?"/>
+		<string name="n1" value="Gotta keep an eye on her... No one. Gotta keep an eye on no one!"/>
+		<string name="d0" value="I'm on a mission. Er, a walk. I'm on a walk."/>
+		<string name="d1" value="I'm just an ordinary, everyday kinda fella. No reason to suspect me, nosiree."/>
+	</imgdir>
+    <imgdir name="2232012">
+		<string name="func" value="Serving Boy"/>
+		<string name="name" value="Ian"/>
+		<string name="n0" value="The only thing I love more than serving is being a boy."/>
+		<string name="n1" value="My name is Ian."/>
+		<string name="d0" value="I am a serving boy."/>
+		<string name="d1" value="Gee, do I love serving."/>
+	</imgdir>
+    <imgdir name="2232013">
+		<string name="func" value="Real Princess"/>
+		<string name="name" value="Ione"/>
+		<string name="n0" value="Ione de Kritias is my name."/>
+		<string name="n1" value="I trust you'll keep my secret."/>
+		<string name="d0" value="My responsibility is to my people."/>
+		<string name="d1" value="Father... What has become of you?"/>
+	</imgdir>
+    <imgdir name="2232014">
+		<string name="func" value="Head Maid"/>
+		<string name="name" value="Parma"/>
+		<string name="n0" value="I'll keep Her Highness safe, don't you worry."/>
+		<string name="d0" value="We lost His Majesty. We won't lose his daughter, too."/>
+		<string name="d1" value="This invasion has been hardest on the nobility most of all. This inn doesn't even serve caviar-stuffed lobster!"/>
+	</imgdir>
+    <imgdir name="2232015">
+		<string name="func" value="Masked Figure"/>
+		<string name="name" value="Cantor"/>
+		<string name="n0" value="Fala lalala..."/>
+		<string name="n1" value="Interesting."/>
+		<string name="d0" value="That was most amusing. Good show!"/>
+		<string name="d1" value="Heh heh!"/>
+	</imgdir>
+    <imgdir name="2232016">
+		<string name="func" value="Court Chef"/>
+		<string name="name" value="Michelin"/>
+		<string name="n0" value="Wh-what's going on?!"/>
+		<string name="d0" value="For a second, I thought the Black Mage himself was here!"/>
+		<string name="d1" value="Is Her Highness safe?"/>
+	</imgdir>
+</imgdir>

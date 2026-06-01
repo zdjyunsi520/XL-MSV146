@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022660">
+		<string name="name" value="Dragon Rider Buff Zone Recovery Item "/>
+		<string name="desc" value="Recovers 400 HP and 200 MP."/>
+	</imgdir>
+    <imgdir name="2022661">
+		<string name="name" value="Dragon Rider Buff Zone Recovery Item"/>
+		<string name="desc" value="HP -550"/>
+	</imgdir>
+    <imgdir name="2022662">
+		<string name="name" value="Evan's Paper Box "/>
+		<string name="desc" value="A paper box containing a gift celebrating Evan's launch. You can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022663">
+		<string name="name" value="Warm Winter Box"/>
+		<string name="desc" value="A box full of surprises that will help you get through the cold winter. Double-click to find out what's inside."/>
+	</imgdir>
+    <imgdir name="2022669">
+		<string name="name" value="Return of the Explorers"/>
+		<string name="desc" value="WEAPON ATT +10 and MAGIC ATT +15 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022671">
+		<string name="name" value="Inkwell's Pick Box"/>
+		<string name="desc" value="Inkwell's pick box that sometimes contains random items such as chairs, waist wraps, and necklaces.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022680">
+		<string name="name" value="Premium PC Cafe Privilege"/>
+		<string name="desc" value="Drop rate increases by 2x for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022694">
+		<string name="name" value="Dual Blade: 2x Drop Rate!"/>
+		<string name="desc" value="Receive 2x drop rate for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022695">
+		<string name="name" value="Onyx Dragon Treasure Chest"/>
+		<string name="desc" value="A chest with a guardian dragon carved on it. According to legend, this belonged to an ancient dragon master.\nDouble-click to acquire the dragon master's treasures."/>
+	</imgdir>
+    <imgdir name="2022696">
+		<string name="name" value="Painful Truth"/>
+		<string name="desc" value="It's the absolute truth, but it really hurts. It might be better to not know the truth, for what you don't know can't hurt you. Provides WEAPON ATT +10 and MAGIC ATT +8 in your enraged state, but you suffer -50 MP for mental trauma."/>
+	</imgdir>
+    <imgdir name="2022697">
+		<string name="name" value="White Lie"/>
+		<string name="desc" value="What you don't know can't hurt you. If the truth is too much to handle, avoiding it may be wise. It provides Critical +10 in your consideration for others, but you suffer -80 HP because of the anxiety that comes after telling a lie."/>
+	</imgdir>
+    <imgdir name="2022698">
+		<string name="name" value="Ancient Glacial Water"/>
+		<string name="desc" value="Ancient glacial water collected from the Ice Cliff in El Nath. It never freezes no matter how cold it gets and has the ability to restore the health of Hoblins.\nRestores Shammos's health."/>
+	</imgdir>
+    <imgdir name="2022701">
+		<string name="name" value="Speed Up"/>
+		<string name="desc" value="#cUsed in Ad Balloon Hunts.#\n\nIncreases Attack Speed and Movement Speed for you and your party for 10 sec."/>
+	</imgdir>
+    <imgdir name="2022702">
+		<string name="name" value="Speed Down"/>
+		<string name="desc" value="#cUsed in Ad Balloon Hunts.#\n\nDecreases Attack Speed and Movement Speed for the opposing party for 10 sec."/>
+	</imgdir>
+    <imgdir name="2022703">
+		<string name="name" value="Bomb Attack"/>
+		<string name="desc" value="#cUsed in Ad Balloon Hunts.#\n\nSets a time bomb on the hunting field. Affected opponents will be stunned for 3 sec."/>
+	</imgdir>
+    <imgdir name="2022704">
+		<string name="name" value="Blessing of the Dragon Lord"/>
+		<string name="desc" value="Increase Weapon ATT +20 and Magic ATT +30 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022706">
+		<string name="name" value="2010 Cheer for Victory"/>
+		<string name="desc" value="Every character in the map receives Weapon Defense +250 and Magic Defense +250 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022708">
+		<string name="name" value="Lucky Gift: Legendary Buff"/>
+		<string name="desc" value="ATT +15, M. ATT +15, Movement Speed +15, Jump +15 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022709">
+		<string name="name" value="Lucky Gift: Drop Rate Increase Coupon"/>
+		<string name="desc" value="Lucky Gift given by the Administrator. Increases Drop Rate 2X for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022710">
+		<string name="name" value="Vita's Medicine"/>
+		<string name="desc" value="Medicine made by Vita. Weapon Attack +3, Magic Attack +5, and Speed +10 for 10 min."/>
+	</imgdir>
+</imgdir>

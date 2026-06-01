@@ -1,0 +1,86 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159019">
+		<string name="name" value="Iceman"/>
+		<string name="n0" value="It's so cold...someone please lift this curse on me..."/>
+	</imgdir>
+    <imgdir name="2159020">
+		<string name="name" value="Ice Knight"/>
+	</imgdir>
+    <imgdir name="2159021">
+		<string name="name" value="Iceman"/>
+	</imgdir>
+    <imgdir name="2159100">
+		<string name="name" value="Schiller"/>
+	</imgdir>
+    <imgdir name="2159110">
+		<string name="name" value="Brighton"/>
+		<string name="d0" value="Ugh... I can't believe I was defeated by Gelimer..."/>
+		<string name="d1" value="I can't stop here!"/>
+	</imgdir>
+    <imgdir name="2159111">
+		<string name="name" value="Belle"/>
+		<string name="d0" value="Ugh... Gelimer outsmarted me."/>
+		<string name="d1" value="I can't stop here!"/>
+	</imgdir>
+    <imgdir name="2159112">
+		<string name="name" value="Checky"/>
+		<string name="d0" value="Ugh... I should have been more cautious..."/>
+		<string name="d1" value="I can't stop here!"/>
+	</imgdir>
+    <imgdir name="2159200">
+		<string name="name" value="J"/>
+		<string name="d0" value="I hear a new member of the Resistance is coming..."/>
+		<string name="d1" value="Oh, I didn't know you were the new member. I'm surprised!"/>
+	</imgdir>
+    <imgdir name="2159201">
+		<string name="name" value="Surl"/>
+		<string name="d0" value="Hmph... Those Black Wings..."/>
+		<string name="d1" value="Hmph... Those Black Wings..."/>
+	</imgdir>
+    <imgdir name="2159202">
+		<string name="name" value="Ace"/>
+	</imgdir>
+    <imgdir name="2159300">
+		<string name="name" value="Fabio"/>
+	</imgdir>
+    <imgdir name="2159301">
+		<string name="name" value="Gabrielle's Suitcase"/>
+	</imgdir>
+    <imgdir name="2159302">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159303">
+		<string name="name" value="Buck Teeth"/>
+		<string name="n0" value="Intruders will be punished!"/>
+		<string name="n1" value="Gabrielle will never escape!"/>
+	</imgdir>
+    <imgdir name="2159304">
+		<string name="name" value="Suspicious Entrance"/>
+	</imgdir>
+    <imgdir name="2159305">
+		<string name="name" value="Wonny"/>
+	</imgdir>
+    <imgdir name="2159306">
+		<string name="name" value="Cory's Reagent Bottle"/>
+	</imgdir>
+    <imgdir name="2159307">
+		<string name="name" value="Mastema"/>
+		<string name="func" value="Henchman"/>
+		<string name="d0" value="Commander! Good to see you up and awake!"/>
+		<string name="d1" value="Commander! Good to see you up and awake!"/>
+	</imgdir>
+    <imgdir name="2159308">
+		<string name="name" value="Arkarium"/>
+		<string name="func" value="Commander"/>
+		<string name="d0" value="Do you need me for something?"/>
+		<string name="d1" value="Do you need me for something?"/>
+	</imgdir>
+    <imgdir name="2159309">
+		<string name="name" value="Arkarium"/>
+		<string name="func" value="Commander"/>
+		<string name="d0" value="Everything should be as the great one wishes..."/>
+		<string name="d1" value="Everything should be as the great one wishes..."/>
+	</imgdir>
+</imgdir>

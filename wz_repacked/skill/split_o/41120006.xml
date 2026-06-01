@@ -1,0 +1,5 @@
+<imgdir name="41120006">
+        <string name="name" value="Jinsoku" />
+        <string name="desc" value="Hayato&apos;s secret technique. After successfully avoiding an attack, grants a chance to reduce incoming damage for a time." />
+        <string name="h" value="Trigger Chance: #t% after avoiding an attack, Damage Reduction: #y%, Duration: #time sec. Permanently increases Avoidability by #prop%" />
+    </imgdir>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="306">
+				<string name="title" value="6. 破碎的封印" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="你检查了各个城镇，以确保冒险岛世界为黑魔法师的潜在回归做好准备，在这个过程中，你发现现在之门已经打开。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="你冒险穿过那扇门，在长长的走廊尽头……你遇到了黑魔法师本人。经过进一步调查，你发现他的一道封印已经破碎。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="用雅典娜·皮尔斯手中的封印石来替换破碎的封印，也许能阻止黑魔法师挣脱束缚——至少你是这么希望的。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="但就在你安装封印石时，一个陌生的声音响起，令你脊背发凉。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="#e「别做蠢事。屈服于黑暗吧。」#n" />
+					</imgdir>
+					<imgdir name="5">
+						<string name="text" value="尽管心中恐惧，你继续执行任务，但就在你拧紧最后一颗螺丝时，封印破碎了。一个阴暗的声音回荡着，然后渐渐消散。" />
+					</imgdir>
+					<imgdir name="6">
+						<string name="text" value="#e「你将为你的愚蠢付出代价……」#n" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

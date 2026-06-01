@@ -1,0 +1,5 @@
+<imgdir name="22170001">
+        <string name="name" value="魔法大师" />
+        <string name="desc" value="提升魔法熟练度、魔法攻击力和最小暴击伤害。\n前置技能：#c魔法精通 Lv. 10#" />
+        <string name="h" value="魔法熟练度：+#mastery%。魔法攻击力：+#x，最小暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

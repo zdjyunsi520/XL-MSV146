@@ -1,0 +1,5 @@
+<imgdir name="27121053">
+        <string name="name" value="英雄的记忆" />
+        <string name="desc" value="回忆起枫叶英雄的誓言，提升伤害和最大伤害上限。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to hero classes within the party" />
+    </imgdir>

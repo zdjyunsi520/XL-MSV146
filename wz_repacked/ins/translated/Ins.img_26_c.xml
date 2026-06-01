@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3061052">
+		<string name="name" value="[C] 星云石 (最大MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 最大MP : +60#"/>
+	</imgdir>
+    <imgdir name="3061060">
+		<string name="name" value="[C] 星云石 (命中)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 命中 : +10#"/>
+	</imgdir>
+    <imgdir name="3061061">
+		<string name="name" value="[C] 星云石 (命中)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 命中 : +12#"/>
+	</imgdir>
+    <imgdir name="3061070">
+		<string name="name" value="[C] 星云石 (回避)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 回避 : +10#"/>
+	</imgdir>
+    <imgdir name="3061071">
+		<string name="name" value="[C] 星云石 (回避)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 回避 : +12#"/>
+	</imgdir>
+    <imgdir name="3061080">
+		<string name="name" value="[C] 星云石 (速度)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的鞋子。\n* 移动速度 : +3#"/>
+	</imgdir>
+    <imgdir name="3061081">
+		<string name="name" value="[C] 星云石 (速度)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的鞋子。\n* 移动速度 : +4#"/>
+	</imgdir>
+    <imgdir name="3061090">
+		<string name="name" value="[C] 星云石 (跳跃)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的鞋子。\n* 跳跃 : +3#"/>
+	</imgdir>
+    <imgdir name="3061091">
+		<string name="name" value="[C] 星云石 (跳跃)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的鞋子。\n* 跳跃 : +4#"/>
+	</imgdir>
+    <imgdir name="3061100">
+		<string name="name" value="[C] 星云石 (武器攻击)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击 : +2#"/>
+	</imgdir>
+    <imgdir name="3061110">
+		<string name="name" value="[C] 星云石 (魔法攻击)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 魔法攻击 : +2#"/>
+	</imgdir>
+    <imgdir name="3061120">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +40#"/>
+	</imgdir>
+    <imgdir name="3061121">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +50#"/>
+	</imgdir>
+    <imgdir name="3061122">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +60#"/>
+	</imgdir>
+    <imgdir name="3061123">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +70#"/>
+	</imgdir>
+    <imgdir name="3061124">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +80#"/>
+	</imgdir>
+    <imgdir name="3061125">
+		<string name="name" value="[C] 星云石 (武器防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +90#"/>
+	</imgdir>
+    <imgdir name="3061130">
+		<string name="name" value="[C] 星云石 (魔法防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 魔法防御 : +40#"/>
+	</imgdir>
+    <imgdir name="3061131">
+		<string name="name" value="[C] 星云石 (魔法防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 魔法防御 : +50#"/>
+	</imgdir>
+    <imgdir name="3061132">
+		<string name="name" value="[C] 星云石 (魔法防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 魔法防御 : +60#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="1300000">
+        <string name="name" value="Weapon Mastery" />
+        <string name="desc" value="Increases the weapon mastery and accuracy of spears and polearms. " />
+        <string name="h" value="Spear and Polearm Mastery: #mastery%, Accuracy: +#x" />
+    </imgdir>

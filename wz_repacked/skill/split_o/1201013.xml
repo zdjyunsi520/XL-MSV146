@@ -1,0 +1,5 @@
+<imgdir name="1201013">
+        <string name="name" value="Close Combat" />
+        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount). A #prop% chance to stun enemies for #time sec after drawing them toward you." />
+        <string name="desc" value="Pulls in enemies to either side of you while dealing damage." />
+    </imgdir>

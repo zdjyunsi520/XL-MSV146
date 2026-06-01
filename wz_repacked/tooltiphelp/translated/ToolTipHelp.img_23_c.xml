@@ -1,0 +1,68 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="240010000">
+			<imgdir name="0">
+				<string name="Title" value="里费斯特"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="米纳尔森林:西部边界"/>
+			</imgdir>
+    <imgdir name="240010100">
+			<imgdir name="0">
+				<string name="Title" value="里费斯特西部森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="固执森林"/>
+			</imgdir>
+    <imgdir name="240010200">
+			<imgdir name="0">
+				<string name="Title" value="陡峭山坡"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="陡峭山坡"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="米纳尔森林:西部边界"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="红色肯陶洛斯区域"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="米纳尔森林:西部边界"/>
+			</imgdir>
+    <imgdir name="240010300">
+			<imgdir name="0">
+				<string name="Title" value="森林:岔路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="固执森林"/>
+			</imgdir>
+    <imgdir name="240010400">
+			<imgdir name="0">
+				<string name="Title" value="龙森林入口"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="陡峭山坡"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="羚羊谷"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="陡峭山坡"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="羚羊谷"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="龙森林入口"/>
+			</imgdir>
+    <imgdir name="240010800">
+			<imgdir name="0">
+				<string name="Title" value="米纳尔森林:东部边界"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="天空巢穴I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="水与黑暗战场"/>
+			</imgdir>
+</imgdir>

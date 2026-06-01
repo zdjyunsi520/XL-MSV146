@@ -1,0 +1,7 @@
+<imgdir name="15111002">
+        <string name="name" value="Transformation" />
+        <string name="desc" value="Transforms you for 180 seconds. Some skills cannot be used when you are transformed. \n[Available Skills: Shockwave, Kunckle Booster, Energy Blast, Energy Drain, Speed Infusion]" />
+        <string name="h" value="MP Cost: #mpCon, Transform Duration: #time sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Transforms you for 180 seconds. Some skills cannot be used when you are transformed. \n[Skill Exceptions: Double Shot, Oak Barrel, Demolition, Snatch]" />
+        <string name="ph" value="MP Cost: #mpCon, Transform Duration: #time sec, Battle Mode ATT: +#PVPdamage, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
+    </imgdir>

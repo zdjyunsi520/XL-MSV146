@@ -1,0 +1,7 @@
+<imgdir name="14111006">
+        <string name="name" value="Poison Bomb" />
+        <string name="desc" value="Throws a bomb that generates a poisonous cloud. Monsters within the range of the poisonous cloud will continuously take damage." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Throws a bomb that generates a poisonous cloud. Monsters within range of the cloud will take continuous damage." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="31111005">
+        <string name="name" value="Carrion Breath" />
+        <string name="desc" value="Summons the power of the Poison Demon&apos;s horrible breath to attack multiple enemies at once. Targets receive continual damage over a short amount of time and are unable to eat lunch for a week afterwards." />
+        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon. When skill key is pressed - Damage: #damage%, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount. Poison Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec." />
+        <string name="pdesc" value="Summons the power of the Poison Demon&apos;s horrible breath to attack multiple enemies at once. Targets receive continual damage over a short amount of time and are unable to eat lunch for a week afterwards." />
+        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon. When skill key is pressed - Damage: #damage%, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount. Poison Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec." />
+    </imgdir>

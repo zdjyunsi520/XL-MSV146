@@ -1,0 +1,319 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000073"/>
+			<int name="1" value="4000021"/>
+			<int name="2" value="4003004"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="4010001"/>
+			<int name="5" value="4004003"/>
+			<int name="6" value="4006000"/>
+			<int name="7" value="1302017"/>
+			<int name="8" value="1032011"/>
+			<int name="9" value="2022053"/>
+			<int name="10" value="2022054"/>
+			<int name="11" value="2022055"/>
+			<int name="12" value="4007003"/>
+			<int name="13" value="4007004"/>
+			<int name="14" value="4280004"/>
+			<int name="15" value="4001473"/>
+			<int name="16" value="2000001"/>
+			<int name="17" value="1072121"/>
+			<int name="18" value="2044501"/>
+			<int name="19" value="2049401"/>
+			<int name="20" value="1332014"/>
+		</imgdir>
+    <imgdir name="3210203">
+		<string name="episode" value="等级 :  36\n形态 : 魔法系\n\n一只在玩具工厂生产的熊猫泰迪熊。背上有发条弹簧，但被一种来自空间裂缝的未知力量控制着。曾经是一种可爱的毛绒动物，这只熊猫泰迪经历了巨大的变化，变成了一个危险的怪物。"/>
+		<imgdir name="map">
+			<int name="0" value="220010100"/>
+			<int name="1" value="220010900"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000108"/>
+			<int name="1" value="4131009"/>
+			<int name="2" value="2002008"/>
+			<int name="3" value="4130003"/>
+			<int name="4" value="4010002"/>
+			<int name="5" value="4004003"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4007002"/>
+			<int name="10" value="4007003"/>
+			<int name="11" value="4001431"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2000006"/>
+			<int name="15" value="1041077"/>
+			<int name="16" value="2044101"/>
+			<int name="17" value="2049401"/>
+			<int name="18" value="1412007"/>
+		</imgdir>
+    <imgdir name="3210204">
+		<string name="episode" value="等级 :  34\n形态 : 魔法系\n\n玩具工厂生产的鸭子一家。这些玩具鸭子，由一只鸭妈妈和跟在后面的小鸭子组成，被一种来自空间裂缝的未知力量控制着。"/>
+		<imgdir name="map">
+			<int name="0" value="220010200"/>
+			<int name="1" value="220010800"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000109"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="4003005"/>
+			<int name="3" value="4130000"/>
+			<int name="4" value="4010004"/>
+			<int name="5" value="4020006"/>
+			<int name="6" value="4004002"/>
+			<int name="7" value="2043202"/>
+			<int name="8" value="2022053"/>
+			<int name="9" value="2022054"/>
+			<int name="10" value="2022055"/>
+			<int name="11" value="4007004"/>
+			<int name="12" value="4007005"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2000006"/>
+			<int name="16" value="1041092"/>
+			<int name="17" value="2040931"/>
+			<int name="18" value="2049301"/>
+			<int name="19" value="1492007"/>
+		</imgdir>
+    <imgdir name="3210205">
+		<string name="episode" value="等级 :  34\n形态 : 魔法系\n\n一只背上带有发条弹簧的黑色玩具老鼠。虽然它最初是为了捕捉其他老鼠而制造的，但由于时间裂缝的影响，它已经变成了一个怪物。"/>
+		<imgdir name="map">
+			<int name="0" value="221022700"/>
+			<int name="1" value="221022800"/>
+			<int name="2" value="221022900"/>
+			<int name="3" value="221023000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000096"/>
+			<int name="1" value="4000021"/>
+			<int name="2" value="2002010"/>
+			<int name="3" value="4130007"/>
+			<int name="4" value="4020005"/>
+			<int name="5" value="4004002"/>
+			<int name="6" value="2050001"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4007005"/>
+			<int name="11" value="4007007"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2022000"/>
+			<int name="15" value="1002093"/>
+			<int name="16" value="2040317"/>
+			<int name="17" value="2049301"/>
+			<int name="18" value="1402003"/>
+		</imgdir>
+    <imgdir name="3210206">
+		<string name="episode" value="等级 :  36\n形态 : 魔法系\n\n一只出现在鲁德比尼翁埃奥斯塔塔顶的黄色玩具直升机。它使用螺旋桨来移动，虽然它通常会被狂风吹来吹去。"/>
+		<imgdir name="map">
+			<int name="0" value="221021500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000103"/>
+			<int name="1" value="4131006"/>
+			<int name="2" value="4010003"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="4004000"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4007002"/>
+			<int name="9" value="4007003"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2060000"/>
+			<int name="13" value="1082059"/>
+			<int name="14" value="2041023"/>
+			<int name="15" value="2049401"/>
+			<int name="16" value="1332003"/>
+		</imgdir>
+    <imgdir name="3210207">
+		<imgdir name="map">
+			<int name="0" value="220040200"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000113"/>
+			<int name="1" value="4131011"/>
+			<int name="2" value="4020000"/>
+			<int name="3" value="4020002"/>
+			<int name="4" value="4004000"/>
+			<int name="5" value="2043102"/>
+			<int name="6" value="4020007"/>
+			<int name="7" value="2043214"/>
+			<int name="8" value="2049000"/>
+			<int name="9" value="4130022"/>
+			<int name="10" value="4007003"/>
+			<int name="11" value="4007004"/>
+			<int name="12" value="4130007"/>
+			<int name="13" value="4130008"/>
+			<int name="14" value="4130018"/>
+			<int name="15" value="2022354"/>
+			<int name="16" value="4000114"/>
+			<int name="17" value="4010003"/>
+			<int name="18" value="4004003"/>
+			<int name="19" value="1032018"/>
+			<int name="20" value="4007006"/>
+			<int name="21" value="4130013"/>
+			<int name="22" value="4130017"/>
+			<int name="23" value="4001473"/>
+			<int name="24" value="2001001"/>
+			<int name="25" value="1061102"/>
+			<int name="26" value="2043017"/>
+			<int name="27" value="2049301"/>
+			<int name="28" value="1332017"/>
+		</imgdir>
+    <imgdir name="3210208">
+		<imgdir name="map">
+			<int name="0" value="222020100"/>
+			<int name="1" value="222020200"/>
+			<int name="2" value="222020300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000168"/>
+			<int name="1" value="4131009"/>
+			<int name="2" value="4130003"/>
+			<int name="3" value="4010002"/>
+			<int name="4" value="4004003"/>
+			<int name="5" value="1032008"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4007002"/>
+			<int name="10" value="4007004"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2060000"/>
+			<int name="14" value="1051025"/>
+			<int name="15" value="2041018"/>
+			<int name="16" value="2049401"/>
+			<int name="17" value="1312008"/>
+		</imgdir>
+    <imgdir name="3210450">
+		<imgdir name="map">
+			<int name="0" value="200082300"/>
+			<int name="1" value="230010000"/>
+			<int name="2" value="230010001"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000153"/>
+			<int name="1" value="4131008"/>
+			<int name="2" value="4020000"/>
+			<int name="3" value="4020001"/>
+			<int name="4" value="2022040"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4007003"/>
+			<int name="9" value="4007004"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000004"/>
+			<int name="13" value="1050067"/>
+			<int name="14" value="2048001"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="1432006"/>
+		</imgdir>
+    <imgdir name="3210800">
+		<string name="episode" value="等级 :  37\n形态 : 哺乳类\n\n一种喜欢香蕉和玩具的可爱猴子怪物。它显然受到了埃琳娜魔法力量的影响，这会导致卢平时不时无意中施放魔法攻击。据说这是一种非常固执的怪物，一旦被激怒，就会扔出香蕉并追着冒险者不放。如果你有很高的魔法防御，那么你就能够保护自己免受卢平可能扔向你的香蕉的伤害。"/>
+		<imgdir name="map">
+			<int name="0" value="101040000"/>
+			<int name="1" value="101040100"/>
+			<int name="2" value="120030100"/>
+			<int name="3" value="120030200"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000026"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="4000021"/>
+			<int name="3" value="4020003"/>
+			<int name="4" value="4010004"/>
+			<int name="5" value="4000029"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="2044414"/>
+			<int name="10" value="4007002"/>
+			<int name="11" value="4007006"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2000003"/>
+			<int name="15" value="1002096"/>
+			<int name="16" value="2044500"/>
+			<int name="17" value="2049401"/>
+			<int name="18" value="1382017"/>
+		</imgdir>
+    <imgdir name="3220000">
+		<string name="episode" value="等级 :  35\n形态 : 植物\n\n根据温斯顿——一生致力于研究佩里昂高原的人——的说法，古代的佩里昂并不是一片干燥贫瘠的土地。相反，他认为那里曾经是一片森林繁茂、可与当今埃琳娜相媲美的地方。佩里昂的土壤过去充满水分和养分，为像树桩这样的大型植物提供了必要的生长条件。然而，它已经变成了一片旱地，而树桩——可以被视为古代佩里昂的遗产——现在就靠这片贫瘠土地上仅存的那点东西生存。"/>
+		<imgdir name="map">
+			<int name="0" value="102020500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000003"/>
+			<int name="1" value="4000005"/>
+			<int name="2" value="4000018"/>
+			<int name="3" value="4000195"/>
+			<int name="4" value="4010000"/>
+			<int name="5" value="4020001"/>
+			<int name="6" value="2000001"/>
+			<int name="7" value="2000003"/>
+			<int name="8" value="2012002"/>
+			<int name="9" value="2040701"/>
+			<int name="10" value="2040801"/>
+			<int name="11" value="2040901"/>
+			<int name="12" value="2041001"/>
+			<int name="13" value="2043001"/>
+			<int name="14" value="2043101"/>
+			<int name="15" value="2041010"/>
+			<int name="16" value="2043201"/>
+			<int name="17" value="2041004"/>
+			<int name="18" value="2060000"/>
+			<int name="19" value="2061000"/>
+			<int name="20" value="2041017"/>
+			<int name="21" value="2040402"/>
+			<int name="22" value="2044002"/>
+			<int name="23" value="2040502"/>
+			<int name="24" value="2040602"/>
+			<int name="25" value="2041016"/>
+			<int name="26" value="2070009"/>
+			<int name="27" value="1002098"/>
+			<int name="28" value="1002154"/>
+			<int name="29" value="1002170"/>
+			<int name="30" value="1002185"/>
+			<int name="31" value="1040085"/>
+			<int name="32" value="1041086"/>
+			<int name="33" value="1050039"/>
+			<int name="34" value="1051026"/>
+			<int name="35" value="1040080"/>
+			<int name="36" value="1041083"/>
+			<int name="37" value="1040084"/>
+			<int name="38" value="1041076"/>
+			<int name="39" value="1082025"/>
+			<int name="40" value="1082064"/>
+			<int name="41" value="1082073"/>
+			<int name="42" value="1082074"/>
+			<int name="43" value="1072126"/>
+			<int name="44" value="1072117"/>
+			<int name="45" value="1072118"/>
+			<int name="46" value="1072107"/>
+			<int name="47" value="2022053"/>
+			<int name="48" value="2022054"/>
+			<int name="49" value="2022055"/>
+			<int name="50" value="2044412"/>
+			<int name="51" value="2044112"/>
+			<int name="52" value="1002628"/>
+			<int name="53" value="1052113"/>
+			<int name="54" value="1082195"/>
+			<int name="55" value="1072300"/>
+			<int name="56" value="2049301"/>
+			<int name="57" value="2049401"/>
+			<int name="58" value="4001473"/>
+		</imgdir>
+    <imgdir name="3220001">
+		<string name="episode" value="等级 :  38\n形态 : 植物\n\n一棵年龄不详的古老仙人掌。它的表面看起来干枯而死，但当它看到有水的人时会变成一种积极的怪物，尽管它们通常最终会从这个植物怪物身上吸收更多的水。它伴随着沙漠沙尘暴。"/>
+		<imgdir name="map">
+			<int name="0" value="260010500"/>
+		</imgdir>
+</imgdir>

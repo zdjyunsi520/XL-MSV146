@@ -1,0 +1,75 @@
+<imgdir name="Npc.img">
+    <imgdir name="2082016">
+		<string name="name" value="Isabella"/>
+		<string name="n0" value="Aaah..."/>
+		<string name="n1" value="He-Help."/>
+		<string name="d0" value="He-Help."/>
+		<string name="d1" value="Aaah..."/>
+	</imgdir>
+    <imgdir name="2082017">
+		<string name="name" value="Ken"/>
+		<string name="n0" value="It's dangerous here."/>
+		<string name="n1" value="Please go someplace safe!"/>
+		<string name="d0" value="Please go someplace safe!"/>
+		<string name="d1" value="It's dangerous here."/>
+	</imgdir>
+    <imgdir name="2083006">
+		<string name="name" value="Time Gate"/>
+	</imgdir>
+    <imgdir name="2083007">
+		<string name="name" value="Time Gate"/>
+	</imgdir>
+    <imgdir name="2092100">
+		<string name="name" value="Potter"/>
+		<string name="n0" value="Argh..."/>
+		<string name="n1" value="My hands aren't what they used to be. I really need to get me an apprentice."/>
+		<string name="d0" value="To make quality pottery, one must be in peaceful and relaxing surroundings. Those pirates just don't understand that."/>
+		<string name="d1" value="To make quality pottery, one must be in peaceful and relaxing surroundings. Those pirates just don't understand that."/>
+	</imgdir>
+    <imgdir name="9010022">
+		<string name="name" value="Dimensional Mirror"/>
+		<string name="func" value="Multi-Functional Portal"/>
+	</imgdir>
+    <imgdir name="9010021">
+		<string name="name" value="Wolf Spirit Ryko"/>
+	</imgdir>
+    <imgdir name="9901700">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901701">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901702">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901703">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901704">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901705">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901706">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901707">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901708">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901709">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901710">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901711">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+    <imgdir name="9901712">
+		<string name="n0" value="I am /name, who has reached Lv. 200."/>
+	</imgdir>
+</imgdir>

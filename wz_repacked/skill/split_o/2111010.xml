@@ -1,0 +1,5 @@
+<imgdir name="2111010">
+        <string name="name" value="Viral Slime" />
+        <string name="desc" value="Summons a slime that sprays lethal poison. The slime will stick to an enemy to deal continuous damage. #cIt splits into 2 when the target is eliminated#." />
+        <string name="h" value="MP Cost: #mpCon, #dot% continuous damage to the target for #dotTime sec. Slime will last up to #time sec and it will split up to #x slimes\n[Cooldown: #cooltime sec]" />
+    </imgdir>

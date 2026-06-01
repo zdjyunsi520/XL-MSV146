@@ -1,0 +1,8 @@
+<imgdir name="22131000">
+        <string name="name" value="魔法闪耀" />
+        <string name="desc" value="从五芒星射出光柱，攻击周围敌人使其麻痹一段时间。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#prop%，持续时间：#time 秒" />
+        <string name="pdesc" value="用五芒星生成的光柱包围一个敌人造成伤害并使其麻痹一段时间。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，麻痹持续时间：#time 秒，麻痹概率：#prop%" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#hcProp%，持续时间：#hcTime 秒" />
+    </imgdir>

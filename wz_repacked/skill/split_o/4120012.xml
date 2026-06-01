@@ -1,0 +1,7 @@
+<imgdir name="4120012">
+        <string name="name" value="Claw Expert" />
+        <string name="desc" value="Increases Claw Mastery, Weapon Attack, and Max Critical Damage.\nRequired Skill: #cClaw Mastery Lv. 10#" />
+        <string name="h" value="Claw Mastery: +#mastery%, Weapon ATT: +#x, Max Critical Damage: +#criticaldamageMax%" />
+        <string name="pdesc" value="Increases Claw Mastery, Weapon Attack, and Max Critical Damage.\nRequired Skill: #cClaw Mastery Lv. 10#" />
+        <string name="ph" value="Claw Mastery: +#mastery%, Weapon ATT: +#x, Max Critical Damage: +#criticaldamageMax%" />
+    </imgdir>

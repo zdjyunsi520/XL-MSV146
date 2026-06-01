@@ -1,0 +1,245 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000004"/>
+			<int name="1" value="4000010"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="1072023"/>
+			<int name="5" value="1442012"/>
+			<int name="6" value="2010009"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000003"/>
+			<int name="13" value="1041061"/>
+			<int name="14" value="1472000"/>
+		</imgdir>
+    <imgdir name="1110100">
+		<string name="episode" value="等级 :  15\n形态 : 植物\n特殊特征 : 对毒属性攻击免疫。\n\n一种戴着暗淡帽子的大型绿色蘑菇怪物。是小型毒蘑菇的变种，因此对毒免疫。这些蘑菇经常出现在建筑工地或地下城入口附近。这些蘑菇很可能有毒，所以无论你有多饿都不要吃它们！"/>
+		<imgdir name="map">
+			<int name="0" value="100020000"/>
+			<int name="1" value="100020100"/>
+			<int name="2" value="100020101"/>
+			<int name="3" value="800010000"/>
+			<int name="4" value="910100002"/>
+			<int name="5" value="910340600"/>
+			<int name="6" value="912030000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000012"/>
+			<int name="1" value="2043102"/>
+			<int name="2" value="4020003"/>
+			<int name="3" value="1322000"/>
+			<int name="4" value="4010004"/>
+			<int name="5" value="1061012"/>
+			<int name="6" value="4020002"/>
+			<int name="7" value="1432013"/>
+			<int name="8" value="1322022"/>
+			<int name="9" value="2022053"/>
+			<int name="10" value="2022054"/>
+			<int name="11" value="2022055"/>
+			<int name="12" value="1072285"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2060000"/>
+			<int name="16" value="1060004"/>
+			<int name="17" value="1472002"/>
+		</imgdir>
+    <imgdir name="1110101">
+		<string name="episode" value="等级 :  10\n形态 : 植物\n特殊特征 : 弱点为火属性攻击。\n\n树桩怪物的深色版本。这些怪物经常出现在山地高原地区。虽然它们的外观与枯萎的树桩非常相似，但这些黑暗树桩体内仍有一些水分，在体内某处仍在生长着叶子。与普通树桩相比，黑暗树桩有更强的攻击力和防御力，所以不要混淆两者，尤其是你是新手的话！"/>
+		<imgdir name="map">
+			<int name="0" value="102020100"/>
+			<int name="1" value="102020200"/>
+			<int name="2" value="910120000"/>
+			<int name="3" value="910220000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000005"/>
+			<int name="1" value="2040802"/>
+			<int name="2" value="1061013"/>
+			<int name="3" value="4010001"/>
+			<int name="4" value="4020000"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2000000"/>
+			<int name="11" value="1040038"/>
+			<int name="12" value="1462001"/>
+		</imgdir>
+    <imgdir name="1120100">
+		<string name="episode" value="等级 :  12\n形态 : 哺乳类\n特殊特征 : 弱点为电属性攻击。\n\n与其说是章鱼，不如说这是一种变异的章鱼状怪物，是一种在经过外星星球研究实验室无情测试后勉强逃出的奇特生物。据说有些人喜欢用这些章鱼的腿来做炸肉丸。章鱼经常出现在沼泽和建筑工地附近，据报道在高原地区发现它们的频率更高，这似乎支持了它们外星起源的整个理论。"/>
+		<imgdir name="map">
+			<int name="0" value="103010000"/>
+			<int name="1" value="103010100"/>
+			<int name="2" value="910310000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000006"/>
+			<int name="1" value="2043002"/>
+			<int name="2" value="4010003"/>
+			<int name="3" value="4020002"/>
+			<int name="4" value="1061022"/>
+			<int name="5" value="2022014"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000001"/>
+			<int name="12" value="1041064"/>
+			<int name="13" value="1472001"/>
+		</imgdir>
+    <imgdir name="1130100">
+		<string name="episode" value="等级 :  17\n形态 : 植物\n\n一个关于伐木工人把斧头忘在树桩里的令人难以置信的传奇故事中的怪物。据说这个树桩怪物是因为它前世作为被斧头刺入的树桩而未能解开心结才转世成怪物的。无论如何，这个斧头树桩看起来非常适合当柴火。与所有树桩类怪物一样，它非常强大。"/>
+		<imgdir name="map">
+			<int name="0" value="102020200"/>
+			<int name="1" value="102020300"/>
+			<int name="2" value="102020400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000018"/>
+			<int name="1" value="2043202"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="4020004"/>
+			<int name="4" value="1402009"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4001431"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000003"/>
+			<int name="12" value="1040019"/>
+			<int name="13" value="2044000"/>
+			<int name="14" value="1482003"/>
+		</imgdir>
+    <imgdir name="1140100">
+		<string name="episode" value="等级 :  19\n形态 : 植物\n\n一种只出现在挖掘现场周围的奇怪树桩。据一些考古学家说，这个非常独特的树桩可能是用从挖掘现场不断散发出来的古代气息的力量来生长叶子的。不过，这个幽灵树桩是否真的会长出更多叶子还是个疑问。"/>
+		<imgdir name="map">
+			<int name="0" value="102020500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000195"/>
+			<int name="1" value="4010000"/>
+			<int name="2" value="4020007"/>
+			<int name="3" value="4010004"/>
+			<int name="4" value="2022053"/>
+			<int name="5" value="2022054"/>
+			<int name="6" value="2022055"/>
+			<int name="7" value="2044802"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2060000"/>
+			<int name="11" value="1002007"/>
+			<int name="12" value="2040823"/>
+			<int name="13" value="1322002"/>
+		</imgdir>
+    <imgdir name="1140130">
+		<string name="episode" value="等级 : Lv.19\n类型 : 植物\n\n一种只出现在遗迹周围的稀有树桩。即使在幽灵树桩中也有独特的脸。它那永恒的微笑让人想知道它今天是否过得好。一些学者称它为让人想揍它脸的笑容。"/>
+		<imgdir name="map">
+			<int name="0" value="102020500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000195"/>
+			<int name="1" value="4010000"/>
+			<int name="2" value="4020007"/>
+			<int name="3" value="4010004"/>
+			<int name="4" value="2044802"/>
+			<int name="5" value="4001473"/>
+			<int name="6" value="2000000"/>
+			<int name="7" value="1082021"/>
+			<int name="8" value="2044200"/>
+			<int name="9" value="1422002"/>
+		</imgdir>
+    <imgdir name="1210100">
+		<string name="episode" value="等级 :  7\n形态 : 哺乳类\n\n一种以巨大身体进行攻击的速度型怪物。你需要尽一切努力逃离这家伙，否则它会以巨大的力量攻击你。不过，还是有可能抓住其中一只猪的，据说猪头是枫叶世界中相当不错的美味。"/>
+		<imgdir name="map">
+			<int name="0" value="120010000"/>
+			<int name="1" value="120010100"/>
+			<int name="2" value="120020000"/>
+			<int name="3" value="120020100"/>
+			<int name="4" value="912000000"/>
+			<int name="5" value="912030000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000017"/>
+			<int name="1" value="4010006"/>
+			<int name="2" value="4020006"/>
+			<int name="3" value="4000021"/>
+			<int name="4" value="2010009"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2060000"/>
+			<int name="11" value="1040004"/>
+			<int name="12" value="1442006"/>
+		</imgdir>
+    <imgdir name="1210101">
+		<string name="episode" value="等级 :  10\n形态 : 哺乳类\n\n即使在猪的世界里也有秩序感。它们中最强大的戴着明亮的红色丝带，象征着它们压倒性的力量，并被视为皇室。你不相信吗？那就去试着猎杀一只缎带猪吧。你会发现缎带猪比普通猪要强大得多。"/>
+		<imgdir name="map">
+			<int name="0" value="120020100"/>
+			<int name="1" value="120020200"/>
+			<int name="2" value="910060000"/>
+			<int name="3" value="910060101"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000002"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="4010002"/>
+			<int name="3" value="4020001"/>
+			<int name="4" value="4000021"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="1072285"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000003"/>
+			<int name="12" value="1002125"/>
+			<int name="13" value="1472003"/>
+		</imgdir>
+    <imgdir name="1210102">
+		<string name="episode" value="等级 :  8\n形态 : 植物\n\n一种在枫叶岛和维多利亚岛随处可见的蘑菇怪物。喜欢藏在人们的家中吃光所有的食物，这会把它们变成强大的蘑菇妈妈。"/>
+		<imgdir name="map">
+			<int name="0" value="100010000"/>
+			<int name="1" value="100020000"/>
+			<int name="2" value="101010000"/>
+			<int name="3" value="101010100"/>
+			<int name="4" value="102010100"/>
+			<int name="5" value="103010000"/>
+			<int name="6" value="103010100"/>
+			<int name="7" value="120010000"/>
+			<int name="8" value="120010100"/>
+			<int name="9" value="800010000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000001"/>
+			<int name="1" value="2040705"/>
+			<int name="2" value="1432015"/>
+			<int name="3" value="4010000"/>
+			<int name="4" value="4020007"/>
+			<int name="5" value="1072015"/>
+			<int name="6" value="1072031"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000001"/>
+			<int name="13" value="1061023"/>
+			<int name="14" value="1432000"/>
+		</imgdir>
+    <imgdir name="1210103">
+		<string name="episode" value="等级 :  15\n形态 : 精灵\n\n史莱姆怪物家族的一员，气泡史莱姆生活在黑暗的地下区域。通常比普通史莱姆快得多，而且有更高的闪避率，这使得它成为新手更难猎杀的目标。"/>
+		<imgdir name="map">
+			<int name="0" value="101020100"/>
+			<int name="1" value="101020200"/>
+			<int name="2" value="910360002"/>
+		</imgdir>
+</imgdir>

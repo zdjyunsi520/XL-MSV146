@@ -1,0 +1,97 @@
+<imgdir name="Npc.img">
+    <imgdir name="2154016">
+		<string name="name" value="Von"/>
+		<string name="d0" value="Shhh! Quiet... We might get caught."/>
+		<string name="d1" value="Shhh! Quiet... We might get caught."/>
+	</imgdir>
+    <imgdir name="2159000">
+		<string name="name" value="Jun"/>
+		<string name="d0" value="I'm gonna get in trouble, aren't I?"/>
+		<string name="d1" value="I'm gonna get in trouble, aren't I?"/>
+	</imgdir>
+    <imgdir name="2159001">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="Since I came all the way out here, I'm determined to have a great time!"/>
+		<string name="d1" value="Since I came all the way out here, I'm determined to have a great time!"/>
+	</imgdir>
+    <imgdir name="2159002">
+		<string name="name" value="Von"/>
+		<string name="d0" value="Psh... Childish."/>
+		<string name="d1" value="I'm a grown up."/>
+	</imgdir>
+    <imgdir name="2159003">
+		<string name="name" value="Jun"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159004">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159005">
+		<string name="name" value="Von"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159006">
+		<string name="name" value="Vita"/>
+		<string name="d0" value="(Someone is captured inside the test tube. Is she alive?)"/>
+		<string name="d1" value="(Someone is captured inside the test tube. Is she alive?)"/>
+	</imgdir>
+    <imgdir name="2159007">
+		<string name="name" value="Vita"/>
+		<string name="d0" value="Is it okay? Can I really run away?"/>
+		<string name="d1" value="Is it okay? Can I really run away?"/>
+	</imgdir>
+    <imgdir name="2159008">
+		<string name="name" value="Schiller"/>
+		<string name="d0" value="I'm too lazy to do anything... I only do it, because of Dr. Gelimer's orders."/>
+		<string name="d1" value="I'm too lazy to do anything... I only do it, because of Dr. Gelimer's orders."/>
+	</imgdir>
+    <imgdir name="2159009">
+		<string name="name" value="J"/>
+		<string name="d0" value="Run away from the Black Wings!"/>
+		<string name="d1" value="Run away from the Black Wings!"/>
+	</imgdir>
+    <imgdir name="2159010">
+		<string name="name" value="J"/>
+		<string name="d0" value="Phew... I think we gave them the slip."/>
+		<string name="d1" value="Phew... I think we gave them the slip."/>
+	</imgdir>
+    <imgdir name="2159011">
+		<string name="name" value="Suspicious Hollow"/>
+		<string name="d0" value="(A suspicious hole.)"/>
+		<string name="d1" value="(A suspicious hole.)"/>
+	</imgdir>
+    <imgdir name="2159012">
+		<string name="name" value="Gelimer"/>
+		<string name="d0" value="It seems like the experiment is going smoothly..."/>
+		<string name="d1" value="It seems like the experiment is going smoothly..."/>
+	</imgdir>
+    <imgdir name="2159013">
+		<string name="name" value="Cutie"/>
+		<string name="n1" value="I'm so excited! It's like I'm on an adventure."/>
+		<string name="n0" value="Heheheh."/>
+	</imgdir>
+    <imgdir name="2159014">
+		<string name="name" value="Fattie"/>
+	</imgdir>
+    <imgdir name="2159015">
+		<string name="name" value="Cutie"/>
+	</imgdir>
+    <imgdir name="2159016">
+		<string name="name" value="Fattie"/>
+	</imgdir>
+    <imgdir name="2159017">
+		<string name="name" value="Jun"/>
+		<string name="n0" value="Now I can go play hide and seek with Von again."/>
+		<string name="n1" value="Thanks to you, my curse has been lifted."/>
+	</imgdir>
+    <imgdir name="2159018">
+		<string name="name" value="Von"/>
+		<string name="func" value="The Ice Knight's Curse"/>
+		<string name="n0" value="Please help my friend! They were cursed by the Ice Knight!"/>
+		<string name="n1" value="I want to play hide and seek with Jun again."/>
+	</imgdir>
+</imgdir>

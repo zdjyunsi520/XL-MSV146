@@ -1,0 +1,7 @@
+<imgdir name="21111001">
+        <string name="name" value="Might" />
+        <string name="desc" value="Temporarily increases ATT and DEF and allows you to knock-back enemies even when only a small amount of damage is dealt." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Knock-back Damage Requirement: -#x%" />
+        <string name="pdesc" value="Temporarily increases Battle mode ATT and DEF and allows you to knock-back enemies even when only a small amount of damage is dealt." />
+        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, Duration: #time sec, Weapon DEF: +#epdd, Magic DEF: +#emdd, Knock-back Damage Requirement: -#x%" />
+    </imgdir>

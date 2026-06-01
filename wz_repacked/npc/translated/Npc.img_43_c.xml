@@ -1,0 +1,87 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390113">
+		<string name="name" value="切尔米尼"/>
+		<string name="n0" value="我们不能失去焦点！"/>
+		<string name="n1" value="我负责查明这里发生了什么。"/>
+		<string name="d0" value="泰尼鲁姆值得好好看看。"/>
+		<string name="d1" value="泰尼鲁姆值得好好看看。"/>
+	</imgdir>
+    <imgdir name="9000197">
+		<string name="name" value="斯皮格曼"/>
+		<string name="n0" value="来吧，所有人都来参加生存挑战！由本人，游戏大师斯皮格曼主持！"/>
+		<string name="n1" value="我合法改了名字作为促销噱头！我毫不后悔！"/>
+	</imgdir>
+    <imgdir name="9000198">
+		<string name="name" value="斯皮格曼"/>
+		<string name="n0" value="来吧，所有人都来参加生存挑战！由本人，游戏大师斯皮格曼主持！"/>
+		<string name="n1" value="我合法改了名字作为促销噱头！我毫不后悔！"/>
+	</imgdir>
+    <imgdir name="9000177">
+		<string name="name" value="姜饼人"/>
+	</imgdir>
+    <imgdir name="9390114">
+		<string name="name" value="杰杰"/>
+		<string name="n0" value="我必须找到一些答案。"/>
+		<string name="d0" value="我好奇得像一只三眼花园猪..."/>
+		<string name="d1" value="我好奇得像一只三眼花园猪..."/>
+	</imgdir>
+    <imgdir name="9000160">
+		<string name="name" value="克拉拉"/>
+	</imgdir>
+    <imgdir name="9000161">
+		<string name="name" value="伊雷娜"/>
+	</imgdir>
+    <imgdir name="9000162">
+		<string name="name" value="莉琳"/>
+	</imgdir>
+    <imgdir name="9000163">
+		<string name="name" value="内因哈特"/>
+	</imgdir>
+    <imgdir name="9000164">
+		<string name="name" value="朱尔斯"/>
+	</imgdir>
+    <imgdir name="9000165">
+		<string name="name" value="保罗"/>
+	</imgdir>
+    <imgdir name="9000167">
+		<string name="name" value="小月兔"/>
+		<string name="n0" value="玩尤茨游戏太有趣了！"/>
+		<string name="n1" value="这个假期我要吃很多年糕汤！"/>
+	</imgdir>
+    <imgdir name="9000168">
+		<string name="name" value="春子"/>
+		<string name="n0" value="你想坐我的风筝吗？"/>
+		<string name="n1" value="如果我年轻几岁，我可以整天坐自己的风筝。"/>
+		<string name="d0" value="其实我是风筝大师。"/>
+		<string name="d1" value="只有我能做出能载人的风筝。"/>
+	</imgdir>
+    <imgdir name="9000169">
+		<string name="name" value="春子"/>
+		<string name="n0" value="我喜欢看人们放风筝。"/>
+		<string name="n1" value="飞得怎么样？"/>
+		<string name="d0" value="这些风筝是我最伟大的成就。"/>
+		<string name="d1" value="我也想坐那只风筝！"/>
+	</imgdir>
+    <imgdir name="9000170">
+		<string name="name" value="春子"/>
+		<string name="n0" value="你比我想象的更好！"/>
+		<string name="n1" value="尽情享用吧！"/>
+		<string name="d0" value="你喜欢我的杰作吗？"/>
+		<string name="d1" value="我也想坐那只风筝！"/>
+	</imgdir>
+    <imgdir name="9390120">
+		<string name="name" value="心树守护者"/>
+	</imgdir>
+    <imgdir name="9390121">
+		<string name="name" value="戈勒克斯"/>
+	</imgdir>
+    <imgdir name="9390116">
+		<string name="name" value="神秘商人"/>
+	</imgdir>
+    <imgdir name="9390117">
+		<string name="name" value="神秘商人"/>
+	</imgdir>
+    <imgdir name="9390118">
+		<string name="name" value="神秘商人"/>
+	</imgdir>
+</imgdir>

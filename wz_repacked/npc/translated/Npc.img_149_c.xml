@@ -1,0 +1,136 @@
+<imgdir name="Npc.img">
+    <imgdir name="9120211">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="尼哈沙漠"/>
+		<string name="n0" value="太热了！太热了！"/>
+		<string name="n1" value="怎么会有人住在这种地方？"/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120212">
+		<string name="name" value="Wence"/>
+		<string name="func" value="尼哈沙漠"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="为你的力量和工作感到自豪。"/>
+		<string name="d0" value="我有给尼哈沙漠特工的特殊任务。"/>
+		<string name="d1" value="你完成了尼哈沙漠的特殊任务。"/>
+	</imgdir>
+    <imgdir name="9120213">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="武陵"/>
+		<string name="n0" value="武陵！从没想过我会来这里！"/>
+		<string name="n1" value="天哪，我讨厌蜈蚣。"/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120214">
+		<string name="name" value="Wence"/>
+		<string name="func" value="武陵"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="记住，如果敌人太强，找些朋友帮忙。"/>
+		<string name="d0" value="我有给武陵特工的特殊任务。"/>
+		<string name="d1" value="你完成了武陵的特殊任务。"/>
+	</imgdir>
+    <imgdir name="9120215">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="米纳尔森林"/>
+		<string name="n0" value="我有任务，所以让我们完成它！"/>
+		<string name="n1" value="这地方让我紧张..."/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120216">
+		<string name="name" value="Wence"/>
+		<string name="func" value="米纳尔森林"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="米纳尔森林不适合胆小的人。做好准备。"/>
+		<string name="d0" value="我有给米纳尔森林特工的特殊任务。"/>
+		<string name="d1" value="你完成了米纳尔森林的特殊任务。"/>
+	</imgdir>
+    <imgdir name="9120217">
+		<string name="name" value="Crow"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="什么？你想要什么？"/>
+		<string name="n1" value="没有我，沉默十字军什么都不是！"/>
+		<string name="d0" value="哦...是你。"/>
+		<string name="d1" value="我不需要任何帮助。管好你自己的事。"/>
+	</imgdir>
+    <imgdir name="9120218">
+		<string name="name" value="Starling"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="别把我当小女孩对待。"/>
+		<string name="n1" value="做你想做的！我不在乎！"/>
+		<string name="d0" value="别废话了。说重点。"/>
+		<string name="d1" value="我？担心你？哈！"/>
+	</imgdir>
+    <imgdir name="9120219">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="沉默十字军赞助者"/>
+		<string name="n0" value="我永远在这里支持你。"/>
+		<string name="n1" value="很高兴看到沉默十字军扩大规模。"/>
+		<string name="d0" value="如果你需要什么，告诉我。"/>
+		<string name="d1" value="你觉得十字军怎么样？"/>
+	</imgdir>
+    <imgdir name="9120220">
+		<string name="name" value="Crow"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="什么？你想要什么？"/>
+		<string name="n1" value="没有我，沉默十字军什么都不是！"/>
+		<string name="d0" value="哦...是你。"/>
+		<string name="d1" value="我不需要任何帮助。管好你自己的事。"/>
+	</imgdir>
+    <imgdir name="9120221">
+		<string name="name" value="Starling"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="别把我当小女孩对待。"/>
+		<string name="n1" value="做你想做的！我不在乎！"/>
+		<string name="d0" value="别废话了。说重点。"/>
+		<string name="d1" value="我？担心你？哈！"/>
+	</imgdir>
+    <imgdir name="9120222">
+		<string name="name" value="Crow"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="我不需要你的帮助！"/>
+		<string name="n1" value="只是...走。离开。我说离开！"/>
+		<string name="d0" value="我不需要你的帮助！"/>
+		<string name="d1" value="同志？同志..."/>
+	</imgdir>
+    <imgdir name="9120223">
+		<string name="name" value="Starling"/>
+		<string name="func" value="沉默十字军成员"/>
+		<string name="n0" value="我不需要你的帮助！"/>
+		<string name="n1" value="只是...走。离开。我说离开！"/>
+		<string name="d0" value="我不需要你的帮助！"/>
+		<string name="d1" value="同志？同志..."/>
+	</imgdir>
+    <imgdir name="9120224">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="沉默十字军赞助者"/>
+		<string name="n0" value="哇哈哈哈哈。"/>
+		<string name="n1" value="哈！终于！"/>
+		<string name="d0" value="我会回答你的问题。反正你也逃不掉！"/>
+		<string name="d1" value="什-什么？"/>
+	</imgdir>
+    <imgdir name="9120225">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="沉默十字军赞助者"/>
+		<string name="n0" value="在事情变得更糟之前，我要除掉你们两个！"/>
+		<string name="n1" value="我先从你开始！"/>
+	</imgdir>
+    <imgdir name="9120226">
+		<string name="name" value="Crow"/>
+	</imgdir>
+    <imgdir name="9120227">
+		<string name="name" value="Starling"/>
+	</imgdir>
+    <imgdir name="9120228">
+		<string name="name" value="怪物传送门大师"/>
+	</imgdir>
+    <imgdir name="9120229">
+		<string name="name" value="沉默十字军补给箱"/>
+	</imgdir>
+    <imgdir name="9201157">
+		<string name="name" value="Dingshroder"/>
+		<string name="func" value="女巫的使魔"/>
+	</imgdir>
+</imgdir>

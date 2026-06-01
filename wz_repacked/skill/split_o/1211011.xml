@@ -1,0 +1,6 @@
+<imgdir name="1211011">
+        <string name="name" value="Combat Orders" />
+        <string name="desc" value="Permanently increases damage for Blizzard Charge and Flame Charge. Temporarily grants bonus skill level to the skills of all party members, including yourself. #cSkills that have already reached the master level can be raised further.# \nExceptions: Beginner skills and Combat Orders cannot be increased. \nRequired Skill: #cHP Recovery Lv. 5#" />
+        <string name="pdesc" value="Permanently increases damage for Blizzard Charge and Flame Charge. Temporarily grants bonus skill level to the skills of all party members, including yourself. #cSkills that have already reached the master level can be raised further.# \nExceptions: Beginner skills and Combat Orders cannot be increased. \nRequired Skill: #cHP Recovery Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, All Skill Levels +#x, Duration: #time \n[Passive Effect : Blizzard Charge and Flame Charge Damage +#damR%]" />
+    </imgdir>

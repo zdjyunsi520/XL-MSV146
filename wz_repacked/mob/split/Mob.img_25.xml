@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="5100002">
+		<string name="name" value="Firebomb"/>
+	</imgdir>
+    <imgdir name="5100003">
+		<string name="name" value="Hodori"/>
+	</imgdir>
+    <imgdir name="5100004">
+		<string name="name" value="Samiho"/>
+	</imgdir>
+    <imgdir name="5100005">
+		<string name="name" value="Hogul"/>
+	</imgdir>
+    <imgdir name="5110300">
+		<string name="name" value="Reinforced Mithril Mutae"/>
+	</imgdir>
+    <imgdir name="5110301">
+		<string name="name" value="Roid "/>
+	</imgdir>
+    <imgdir name="5110302">
+		<string name="name" value="Neo Huroid"/>
+	</imgdir>
+    <imgdir name="5120000">
+		<string name="name" value="Luster Pixie"/>
+	</imgdir>
+    <imgdir name="5120001">
+		<string name="name" value="Cellion"/>
+	</imgdir>
+    <imgdir name="5120002">
+		<string name="name" value="Lioner"/>
+	</imgdir>
+    <imgdir name="5120003">
+		<string name="name" value="Grupin"/>
+	</imgdir>
+    <imgdir name="5120100">
+		<string name="name" value="MT-09"/>
+	</imgdir>
+    <imgdir name="5120500">
+		<string name="name" value="Grizzly"/>
+	</imgdir>
+    <imgdir name="5120501">
+		<string name="name" value="Bellflower Root"/>
+	</imgdir>
+    <imgdir name="5120502">
+		<string name="name" value="Sr. Bellflower Root"/>
+	</imgdir>
+    <imgdir name="5120503">
+		<string name="name" value="Straw Target Dummy"/>
+	</imgdir>
+    <imgdir name="5120504">
+		<string name="name" value="Wooden Target Dummy"/>
+	</imgdir>
+    <imgdir name="5120505">
+		<string name="name" value="Reindeer"/>
+	</imgdir>
+    <imgdir name="5120506">
+		<string name="name" value="The Book Ghost"/>
+	</imgdir>
+    <imgdir name="5130100">
+		<string name="name" value="Drake"/>
+	</imgdir>
+</imgdir>

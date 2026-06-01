@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001258">
+			<string name="name" value="Ancestral Bow"/>
+			<string name="desc" value="A symbolic weapon of Bowman mastery.  Although it can't be equipped, its power is palpable.  This item must be placed in the Altar of Mastery to activate it."/>
+		</imgdir>
+    <imgdir name="4001259">
+			<string name="name" value="Master Sword"/>
+			<string name="desc" value="A symbolic weapon of Warrior mastery.  Although it can't be equipped, its power is palpable.  This item must be placed in the Altar of Mastery to activate it."/>
+		</imgdir>
+    <imgdir name="4001260">
+			<string name="name" value="Forbidden Gun"/>
+			<string name="desc" value="A symbolic weapon of Pirate mastery.  Although it can't be equipped, its power is palpable.  This item must be placed in the Altar of Mastery to activate it."/>
+		</imgdir>
+    <imgdir name="4001261">
+			<string name="name" value="Piece of Balrog Leather "/>
+			<string name="desc" value="A piece of leather from a Balrog's rough hide.  "/>
+		</imgdir>
+    <imgdir name="4001263">
+			<string name="name" value="Fine Wool "/>
+			<string name="desc" value="This wool is fine.  "/>
+		</imgdir>
+    <imgdir name="4001264">
+			<string name="name" value="Shepherd Boy's Lunch. "/>
+			<string name="desc" value="This is a Shepherd Boy's Lunch. Collect and deliver them to the Lamb. You can get a reward when you win. "/>
+		</imgdir>
+    <imgdir name="4001268">
+			<string name="name" value="Brown Krypto Crystal  "/>
+			<string name="desc" value="A Brown Krypto Crystal containing the mysterious energies of space.  "/>
+		</imgdir>
+    <imgdir name="4001269">
+			<string name="name" value="Emerald Krypto Crystal  "/>
+			<string name="desc" value="An Emerald Krypto Crystal containing the mysterious energies of space.  "/>
+		</imgdir>
+    <imgdir name="4001270">
+			<string name="name" value="Warm-hearted Child's Note "/>
+			<string name="desc" value="An item that is falsely rumored to be only visible to warm-hearted children. Take it to Cassandra.  "/>
+		</imgdir>
+    <imgdir name="4001271">
+			<string name="name" value="Lost Child "/>
+			<string name="desc" value="A child that is lost."/>
+		</imgdir>
+    <imgdir name="4001272">
+			<string name="name" value="Giant Nependeath Seed  "/>
+			<string name="desc" value="A seed from a Giant Nependeath. It's very big.  "/>
+		</imgdir>
+    <imgdir name="4001300">
+			<string name="name" value="Granada  "/>
+			<string name="desc" value="A captivating single rose loved by the Witch.  "/>
+		</imgdir>
+    <imgdir name="4001301">
+			<string name="name" value="Gaga's Excavation Permit"/>
+			<string name="desc" value="A permit that allows one to dig up relics. Talk to Gaga to receive another permit."/>
+		</imgdir>
+    <imgdir name="4001302">
+			<string name="name" value="Valuable Artifact"/>
+			<string name="desc" value="A relic that looks very rare."/>
+		</imgdir>
+    <imgdir name="4001303">
+			<string name="name" value="Petrified Mouse"/>
+			<string name="desc" value="The first of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+    <imgdir name="4001304">
+			<string name="name" value="Gaga's Glasses"/>
+			<string name="desc" value="The second of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+    <imgdir name="4001305">
+			<string name="name" value="Cassandra's Crystal Ball"/>
+			<string name="desc" value="The third of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+    <imgdir name="4001306">
+			<string name="name" value="The Shiny Watch"/>
+			<string name="desc" value="The fourth of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+    <imgdir name="4001307">
+			<string name="name" value="A Soccer Cleat"/>
+			<string name="desc" value="The fifth of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+    <imgdir name="4001308">
+			<string name="name" value="The Quest Completion Book"/>
+			<string name="desc" value="The sixth of 8 treasures mentioned by Shuang."/>
+		</imgdir>
+</imgdir>

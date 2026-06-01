@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000290">
+		<string name="name" value="Honey Angel"/>
+		<string name="desc" value="A soft and sweet Honey Angel. \nEquip to obtain the #cAngelic Choir Skill#, which grows stronger as you equip more Angel pets (Max 3).\nThis Angel will become bigger as you fight monsters around your level. Eventually, it will reach Giant status and cast a particularly awesome buff on you every 5 minutes."/>
+		<string name="descD" value="Your perfect little Angel has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000291">
+		<string name="name" value="Lime Angel"/>
+		<string name="desc" value="A tart little Lime Angel.\nEquip to obtain the #cAngelic Choir Skill#, which grows stronger as you equip more Angel pets (Max 3).\nThis Angel will become bigger as you fight monsters around your level. Eventually, it will reach Giant status and cast a particularly awesome buff on you every 5 minutes."/>
+		<string name="descD" value="Your perfect little Angel has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000292">
+		<string name="name" value="Peach Angel"/>
+		<string name="desc" value="A completely approachable Peach Angel. \nEquip to obtain the #cAngelic Choir Skill#, which grows stronger as you equip more Angel pets (Max 3).\nThis Angel will become bigger as you fight monsters around your level. Eventually, it will reach Giant status and cast a particularly awesome buff on you every 5 minutes."/>
+		<string name="descD" value="Your perfect little Angel has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000296">
+		<string name="name" value="Toasty Devil"/>
+		<string name="desc" value="A hot-headed Toasty Devil. \nEquip to obtain the #cWicked Awesome skill#, which grows stronger as you equip more Devil pets (Max 3)."/>
+		<string name="descD" value="Your mischievous Devil has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000297">
+		<string name="name" value="Icy Devil"/>
+		<string name="desc" value="A hot-headed Toasty Devil. \nEquip to obtain the #cWicked Awesome skill#, which grows stronger as you equip more Devil pets (Max 3)."/>
+		<string name="descD" value="Your mischievous Devil has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000298">
+		<string name="name" value="Miasma Devil"/>
+		<string name="desc" value="Contains a poison-tongued Miasma Devil. \nEquip to obtain the #cWicked Awesome skill#, which grows stronger as you equip more Devil pets (Max 3)."/>
+		<string name="descD" value="Your mischievous Devil has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000309">
+		<string name="name" value="Mini Queen"/>
+		<string name="desc" value="Is this the REAL Mini Queen? Hide your blood! \nEquip to obtain the #cRoot Awakening skill#, which grows stronger as you equip more Root Abyss pets (Max 3)."/>
+		<string name="descD" value="Your mini Root Abyss pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000310">
+		<string name="name" value="Von Bon"/>
+		<string name="desc" value="Is this the REAL Von Bon? Hide your watch!\nEquip to obtain the #cRoot Awakening skill#, which grows stronger as you equip more Root Abyss pets (Max 3)."/>
+		<string name="descD" value="Your mini Root Abyss pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000311">
+		<string name="name" value="Pierre"/>
+		<string name="desc" value="Is this the REAL Pierre? Hide your tiny cars! \nEquip to obtain the #cRoot Awakening skill#, which grows stronger as you equip more Root Abyss pets (Max 3)."/>
+		<string name="descD" value="Your mini Root Abyss pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000316">
+		<string name="name" value="Slippery Snake"/>
+		<string name="desc" value="Look at his fat little face! You can't be scared of this little snake.\n"/>
+		<string name="descD" value="Your cute little Slippery Snake friend has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000172">
+		<string name="name" value="Mini Yeti"/>
+		<string name="desc" value="A trustworthy pet that quietly watches everyone's back. Quiet, but smart and gets a lot of things done."/>
+		<string name="descD" value="It was a cute little Mini Yeti, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+	</imgdir>
+    <imgdir name="5000345">
+		<string name="name" value="Tiny Gollux"/>
+		<string name="desc" value="Your very own tiny Gollux, cleansed and ready for friendship."/>
+		<string name="descD" value="Your tiny, yet tough Gollux has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000330">
+		<string name="name" value="Jr. Von Leon"/>
+		<string name="desc" value="This Jr. Von Leon wants to be super tough. \nEquip to obtain the #cPipsqueak Commander Skill#, which grows stronger as you equip more Jr. Commander pets (Max 3). \n"/>
+		<string name="descD" value="Your tough friend Jr. Von Leon has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000331">
+		<string name="name" value="Jr. Orchid"/>
+		<string name="desc" value="This Jr. Orchid is just plain crazy. \nEquip to obtain the #cPipsqueak Commander Skill#, which grows stronger as you equip more Jr. Commander pets (Max 3). \n"/>
+		<string name="descD" value="Your wacky little friend Jr. Orchid has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000332">
+		<string name="name" value="Jr. Hilla"/>
+		<string name="desc" value="This Jr. Hilla is obsessed with being adorable. \nEquip to obtain the #cPipsqueak Commander Skill#, which grows stronger as you equip more Jr. Commander pets (Max 3). \n"/>
+		<string name="descD" value="Your adorable friend Jr. Hilla has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000135">
+		<string name="name" value="GingerBready"/>
+		<string name="desc" value="Shape of a stylized human Cookie."/>
+		<string name="descD" value="GingerBready has turned into a doll. You can revive it with Water of life."/>
+	</imgdir>
+    <imgdir name="5000136">
+		<string name="name" value="Ice Knight"/>
+		<string name="desc" value="A human being been transformed to a Ice Knight by the Black Mage."/>
+		<string name="descD" value="Your Ice Knight has turned into a doll. You can revive it with Water of Life."/>
+	</imgdir>
+    <imgdir name="5000064">
+		<string name="name" value="Golden Pig"/>
+		<string name="desc" value="It is a cute Golden Pig that brings luck to you."/>
+		<string name="descD" value="Your lucky Golden Pig has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000065">
+		<string name="name" value="White Duck"/>
+		<string name="desc" value="This White Duck is a natural-born swimmer."/>
+		<string name="descD" value="Your playful friend White Duck has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000068">
+		<string name="name" value="Baby Tiger"/>
+		<string name="desc" value="This adorable Baby Tiger will never grow up!"/>
+		<string name="descD" value="Your cuddly baby tiger has turned into a doll. You can revive it with Water of Life."/>
+	</imgdir>
+</imgdir>

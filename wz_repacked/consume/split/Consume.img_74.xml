@@ -1,0 +1,95 @@
+<imgdir name="Consume.img">
+    <imgdir name="2031004">
+		<string name="name" value="Invitation to Ereve"/>
+		<string name="desc" value="An invitation to Ereve from Neinheart. This invitation will allow you to instantly move to Ereve."/>
+	</imgdir>
+    <imgdir name="2031006">
+		<string name="name" value="Family Studio Photo Coupon"/>
+		<string name="desc" value="A coupon that allows you to attend the 5th Anniversary Family Photo Shoot Event."/>
+	</imgdir>
+    <imgdir name="2031008">
+		<string name="name" value="Rien Teleport Ticket"/>
+		<string name="desc" value="A teleport ticket given by the Maple Admin. It will immediately teleport you to Rien."/>
+	</imgdir>
+    <imgdir name="2031010">
+		<string name="name" value="Special Training Invitation"/>
+		<string name="desc" value="A Special Training Invitation that Ferdi, the Edelstein School Headmaster, gave you. Double-click on it to go to the classroom where the Special Training will be held."/>
+	</imgdir>
+    <imgdir name="2031011">
+		<string name="name" value="Return Scroll to El Nath"/>
+		<string name="desc" value="A scroll that can teleport to El Nath. Once used, you will directly teleport to El Nath."/>
+	</imgdir>
+    <imgdir name="2031012">
+		<string name="name" value="Mystical Book"/>
+		<string name="desc" value="A book Tae Gong found in the sea. It is written in a bizarre language you can't read. \n#cDouble-click# to go into the book."/>
+	</imgdir>
+    <imgdir name="2032000">
+		<string name="name" value="Richie Gold's Strange Lamp"/>
+		<string name="desc" value="An unbelievable lamp made by Richie Gold. Use this, and you'll be led somewhere in in the maze. No one knows exactly where you'll be sent, though."/>
+	</imgdir>
+    <imgdir name="2040000">
+		<string name="name" value="Scroll for Helmet for DEF 100%"/>
+		<string name="desc" value="Improves Weapon Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040001">
+		<string name="name" value="Scroll for Helmet for DEF 60%"/>
+		<string name="desc" value="Improves Weapon Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Defense: +15\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040002">
+		<string name="name" value="Scroll for Helmet for DEF 10%"/>
+		<string name="desc" value="Improves Weapon Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nWeapon Defense: +30\r\nMagic Defense: +20\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040003">
+		<string name="name" value="Scroll for Helmet for HP 100%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040004">
+		<string name="name" value="Scroll for Helmet for HP 60%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040005">
+		<string name="name" value="Scroll for Helmet for HP 10%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMax HP: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040006">
+		<string name="name" value="Scroll for Helmet for DEF 100%"/>
+		<string name="desc" value="Improves Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Defense: +30\r\nMagic Defense: +20\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040007">
+		<string name="name" value="Scroll for Helmet for HP 100%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040008">
+		<string name="name" value="Scroll for Helmet for DEF 70%"/>
+		<string name="desc" value="Improves Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Defense: +15\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040009">
+		<string name="name" value="Dark Scroll for Helmet for DEF 30%"/>
+		<string name="desc" value="Improves Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nWeapon Defense: +30\r\nMagic Defense: +15\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040010">
+		<string name="name" value="Scroll for Helmet for HP 70%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nMax HP +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040011">
+		<string name="name" value="Dark Scroll for Helmet for HP 30%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMax HP +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040012">
+		<string name="name" value="Dark Scroll for Helmet for INT 70%"/>
+		<string name="desc" value="Improves Intelligence on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +2\r\n#"/>
+	</imgdir>
+</imgdir>

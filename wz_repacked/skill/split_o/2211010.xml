@@ -1,0 +1,5 @@
+<imgdir name="2211010">
+        <string name="name" value="Glacier Chain" />
+        <string name="desc" value="Sends forth a frozen chain, pulling in enemies and freezing them." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Freeze Duration: #time sec" />
+    </imgdir>

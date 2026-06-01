@@ -1,0 +1,5 @@
+<imgdir name="112000012">
+        <string name="name" value="无视防御" />
+        <string name="desc" value="在熊之模式下无视部分敌人防御并提升攻击速度。" />
+        <string name="h" value="被动效果: 无视敌人防御: #ignoreMobpdpR%, 攻击速度: +#q" />
+    </imgdir>

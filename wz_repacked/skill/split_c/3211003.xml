@@ -1,0 +1,8 @@
+<imgdir name="3211003">
+        <string name="name" value="急冻射击" />
+        <string name="desc" value="发射冰箭伤害多个敌人。被瞄准的敌人会被冻结！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: 6, Freeze Duration: #time sec" />
+        <string name="pdesc" value="发射冰箭伤害多个敌人，有几率冻结目标。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #prop%, Freeze Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec" />
+    </imgdir>

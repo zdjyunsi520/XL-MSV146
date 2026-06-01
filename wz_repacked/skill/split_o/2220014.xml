@@ -1,0 +1,8 @@
+<imgdir name="2220014">
+        <string name="name" value="Blizzard" />
+        <string name="desc" value="Summons spears of ice from the sky, showering multiple enemies with a nasty blizzard. Enemies will continue to take damage over time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount enemies, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons spears of ice from the sky, showering multiple enemies with a nasty blizzard. Enemies will continue to take damage over time." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount enemies, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #prop%, Freeze Duration: %time sec\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
+    </imgdir>

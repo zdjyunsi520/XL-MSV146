@@ -1,0 +1,122 @@
+<imgdir name="Npc.img">
+    <imgdir name="9330019">
+		<string name="name" value="朱迪"/>
+		<string name="n0" value="我想成为台湾最好的发型师。"/>
+		<string name="n1" value="我男朋友是...嘿嘿，那是秘密。啊，我好想他。"/>
+		<string name="d0" value="你好，我是朱迪。"/>
+		<string name="d1" value="谢谢你那天帮了我。"/>
+	</imgdir>
+    <imgdir name="9330020">
+		<string name="name" value="克里斯汀"/>
+		<string name="n0" value="请看看我们漂亮的饰品吧。"/>
+		<string name="n1" value="我们有很多在台湾非常流行的商品。"/>
+		<string name="d0" value="你好，我是克里斯汀。"/>
+		<string name="d1" value="希望我的朋友一切安好。"/>
+	</imgdir>
+    <imgdir name="9330021">
+		<string name="name" value="Niki"/>
+		<string name="func" value="美发店老板"/>
+		<string name="n0" value="你想拥有台湾最流行的发型吗？"/>
+		<string name="n1" value="只要告诉我你想要什么样的发型。"/>
+	</imgdir>
+    <imgdir name="9330022">
+		<string name="name" value="朱莉"/>
+		<string name="func" value="美发店助理"/>
+		<string name="n0" value="我是朱莉，Niki最宠爱的徒弟。"/>
+		<string name="n1" value="如果你厌倦了旧发型，试试换个新发型吧。"/>
+	</imgdir>
+    <imgdir name="9330023">
+		<string name="name" value="你好医生"/>
+		<string name="func" value="整形外科医生"/>
+		<string name="n0" value="你想变得更有魅力吗？"/>
+		<string name="n1" value="我可以给你一个美丽的新形象！"/>
+	</imgdir>
+    <imgdir name="9330024">
+		<string name="name" value="护士玲玲"/>
+		<string name="func" value="整形护士"/>
+		<string name="n1" value="想做整形？你来对地方了！"/>
+		<string name="n0" value="我可能不如医生厉害，但我仍然可以让你变得很美。"/>
+	</imgdir>
+    <imgdir name="9330025">
+		<string name="name" value="Wink Lee医生"/>
+		<string name="func" value="皮肤科医生"/>
+		<string name="n0" value="如果你想要健康的肤色，我推荐古铜色的皮肤。"/>
+		<string name="n1" value="哦，你想拥有白皙的肤色？交给我吧！"/>
+	</imgdir>
+    <imgdir name="9330026">
+		<string name="name" value="Roan Li"/>
+		<string name="n0" value="夜市是台湾的象征！"/>
+		<string name="n1" value="*叹气* 我感到好空虚。也许我生命中需要一个特别的人。"/>
+	</imgdir>
+    <imgdir name="9330027">
+		<string name="name" value="Ivanna Mann"/>
+		<string name="n0" value="夜市的食物太好吃了。这对我的减肥大计可没帮助！"/>
+		<string name="n1" value="有时候我真想逃离去一个遥远的地方！我该去哪里呢？"/>
+	</imgdir>
+    <imgdir name="9330028">
+		<string name="name" value="水果摊老爷爷"/>
+		<string name="d0" value="我是夜市水果摊的老板。"/>
+		<string name="n0" value="当季的水果最好吃了。哈哈哈..."/>
+		<string name="n1" value="唷...我做这行年纪已经太大了。"/>
+		<string name="d1" value="里面一切都还好吗？"/>
+	</imgdir>
+    <imgdir name="9330029">
+		<string name="name" value="Yoo Yoo"/>
+		<string name="func" value="杂货商"/>
+		<string name="n0" value="你需要的我这里都有！来看看吧！"/>
+		<string name="n1" value="去夜市以外的地方冒险很危险。药水是去危险地方的必需品。"/>
+	</imgdir>
+    <imgdir name="9330030">
+		<string name="name" value="青少年流氓"/>
+		<string name="n0" value="你看什么看？赶紧走你的路！"/>
+		<string name="n1" value="我不必遵守规则。再说了，关你什么事！"/>
+	</imgdir>
+    <imgdir name="9330031">
+		<string name="name" value="果汁摊老奶奶"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330032">
+		<string name="name" value="水果摊老爷爷"/>
+		<string name="n0" value="当季的水果最好吃了。哈哈哈..."/>
+		<string name="n1" value="唷...我做这行年纪已经太大了。"/>
+	</imgdir>
+    <imgdir name="1013002">
+		<string name="name" value="龙穴"/>
+	</imgdir>
+    <imgdir name="1013100">
+		<string name="name" value="安娜"/>
+		<string name="n0" value="天气真好！"/>
+		<string name="n1" value="不知道我丈夫现在在做什么。"/>
+		<string name="d0" value="真惊喜！Utah今天这么早就起来了。"/>
+		<string name="d1" value="我今天晚点应该打扫房子。Utah可以擦窗户。"/>
+	</imgdir>
+    <imgdir name="1013101">
+		<string name="name" value="Utah"/>
+		<string name="n1" value="喝牛奶真的能让我长高吗？"/>
+		<string name="d0" value="我今天晚点才需要去猪场。不过下午我应该去帮忙。"/>
+		<string name="d1" value="我今天晚点才需要去猪场。不过下午我应该去帮忙。"/>
+		<string name="n0" value="*打哈欠* 我还困着呢。"/>
+	</imgdir>
+    <imgdir name="1013102">
+		<string name="name" value="牛头犬"/>
+		<string name="d0" value="汪汪！汪汪！"/>
+		<string name="n0" value="汪！汪！"/>
+		<string name="n1" value="*低吼...*"/>
+		<string name="d1" value="呜呜。"/>
+	</imgdir>
+    <imgdir name="1013103">
+		<string name="name" value="Gustav"/>
+		<string name="n0" value="不知道Utah什么时候会到..."/>
+		<string name="n1" value="今天天气真好。"/>
+		<string name="d0" value="我得修篱笆还要找到逃跑的小猪。好忙啊。"/>
+		<string name="d1" value="最近怎么有这么多奇怪的猪？它们都吃了什么奇怪的东西吗？"/>
+	</imgdir>
+    <imgdir name="1013104">
+		<string name="name" value="母鸡"/>
+		<string name="n0" value="咯咯咯。"/>
+		<string name="n1" value="咯？"/>
+		<string name="d0" value="咯咯咯咯。"/>
+		<string name="d1" value="咯咯咯咯。"/>
+	</imgdir>
+</imgdir>

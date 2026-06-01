@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031157">
+			<string name="name" value="冒险岛历史书I"/>
+			<string name="desc" value="包含冒险岛历史一切内容的重要历史书"/>
+		</imgdir>
+    <imgdir name="4031158">
+			<string name="name" value="冒险岛历史书II"/>
+			<string name="desc" value="冒险岛历史三部曲的第二部分主要讲述冒险岛的发展。这本书也是冒险岛未来的重要参考"/>
+		</imgdir>
+    <imgdir name="4031159">
+			<string name="name" value="冒险岛历史书III"/>
+			<string name="desc" value="冒险岛历史三部曲的第三部分包含冒险岛邪恶怪物出现背后的历史"/>
+		</imgdir>
+    <imgdir name="4031160">
+			<string name="name" value="荣誉勋章"/>
+			<string name="desc" value="获得所有3本冒险岛历史书并交给蒂贡。据他说，这是鲁迪布里姆国王亲自颁发的勋章"/>
+		</imgdir>
+    <imgdir name="4031161">
+			<string name="name" value="生锈的螺丝"/>
+			<string name="desc" value="从已拆解的旧的无用盒子上取下的生锈螺丝。这个可以回收吗？"/>
+		</imgdir>
+    <imgdir name="4031162">
+			<string name="name" value="旧木板"/>
+			<string name="desc" value="从已拆解的旧的无用盒子上取下的旧木板。这个可以回收吗？"/>
+		</imgdir>
+    <imgdir name="4031163">
+			<string name="name" value="飞行药"/>
+			<string name="desc" value="用各种难以找到的成分制成的仙女药。传说服用此药的人可以飞翔，但它代代相传被安全保管"/>
+		</imgdir>
+    <imgdir name="4031164">
+			<string name="name" value="鳄鱼皮袋"/>
+			<string name="desc" value="用鳄鱼皮制成的袋子。看起来足够坚固，可以装大多数东西"/>
+		</imgdir>
+    <imgdir name="4031165">
+			<string name="name" value="女巫草叶"/>
+			<string name="desc" value="生长在沼泽中的女巫草的叶子。蕴含不可思议的魔力，用作草药的主要来源"/>
+		</imgdir>
+    <imgdir name="4031166">
+			<string name="name" value="奥拉夫的推荐信"/>
+			<string name="desc" value="职业代理奥拉夫写的推荐信"/>
+		</imgdir>
+    <imgdir name="4031167">
+			<string name="name" value="蓝色训练礼盒"/>
+			<string name="desc" value="GM在'面对热度'活动中挂在怪物身上的蓝色礼盒"/>
+		</imgdir>
+    <imgdir name="4031168">
+			<string name="name" value="黄色训练礼盒"/>
+			<string name="desc" value="GM在'面对热度'活动中挂在怪物身上的黄色礼盒"/>
+		</imgdir>
+    <imgdir name="4031169">
+			<string name="name" value="绿色训练礼盒"/>
+			<string name="desc" value="GM在'面对热度'活动中挂在怪物身上的绿色礼盒"/>
+		</imgdir>
+    <imgdir name="4031170">
+			<string name="name" value="快子"/>
+			<string name="desc" value="时间球力量来源的粒子；用于触发与时间相关的力量"/>
+		</imgdir>
+    <imgdir name="4031171">
+			<string name="name" value="神秘粉末"/>
+			<string name="desc" value="发出金色光芒的神秘粉末"/>
+		</imgdir>
+    <imgdir name="4031172">
+			<string name="name" value="鲁迪布里姆勋章"/>
+			<string name="desc" value="从守门人那里获得的勋章，显然是进入某扇门所需的。这枚金质勋章的中心刻有鲁迪布里姆字样"/>
+		</imgdir>
+    <imgdir name="4031173">
+			<string name="name" value="阿扬的信"/>
+			<string name="desc" value="阿扬的信。必须交给赫尼西亚的布鲁斯"/>
+		</imgdir>
+    <imgdir name="4031174">
+			<string name="name" value="阿扬的玩具剑"/>
+			<string name="desc" value="阿扬小时候玩的玩具剑"/>
+		</imgdir>
+    <imgdir name="4031175">
+			<string name="name" value="快子"/>
+			<string name="desc" value="时间球力量来源的粒子；通过这个可以形成新的能量束"/>
+		</imgdir>
+    <imgdir name="4031176">
+			<string name="name" value="破碎维度碎片A"/>
+			<string name="desc" value="这一定是弗洛提到的'破碎维度的碎片'"/>
+		</imgdir>
+</imgdir>

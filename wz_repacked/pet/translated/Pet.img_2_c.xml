@@ -1,0 +1,101 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000023">
+		<string name="name" value="企鹅"/>
+		<string name="desc" value="企鹅总是精力充沛、精神抖擞。给企鹅装备金币磁铁和道具收纳袋，就能自动拾取地上的金币和道具哦~"/>
+		<string name="descD" value="本来是一只超可爱的小企鹅，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000024">
+		<string name="name" value="小巴洛格"/>
+		<string name="desc" value="值得信赖的宠物，头脑也很灵活。虽然外表看起来很霸气，其实内心容易害羞不自信呢~"/>
+		<string name="descD" value="本来是一只超可爱的小巴洛格，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000025">
+		<string name="name" value="金猪"/>
+		<string name="desc" value="这只精心设计的金猪一定会给你带来好运哦！装备金币磁铁和道具收纳袋就能自动拾取地上的金币和道具~"/>
+		<string name="descD" value="本来是一只超可爱的小金猪，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000026">
+		<string name="name" value="孙悟空"/>
+		<string name="desc" value="孙悟空把唐三藏给弄丢了。他又懒又爱闹脾气，但用爱心就能感化他哦~"/>
+		<string name="descD" value="孙悟空本来超可爱的，但生命之水干涸后变回了玩偶。用特殊的魔法可以让他重新活过来哦。"/>
+	</imgdir>
+    <imgdir name="5000028">
+		<string name="name" value="龙蛋"/>
+		<string name="desc" value="一颗特殊的蛋，孵化后会成为传说中的小龙宝宝~"/>
+	</imgdir>
+    <imgdir name="5000029">
+		<string name="name" value="龙宝宝"/>
+		<string name="desc" value="从特殊的龙蛋中孵化出来的小龙宝宝。15级时，找NPC加诺克斯使用进化之石，就能进化为成年龙哦~"/>
+		<string name="descD" value="本来是一只超可爱的小龙宝宝，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000030">
+		<string name="name" value="绿龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了绿龙！"/>
+		<string name="descD" value="本来是一只酷酷的绿龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000031">
+		<string name="name" value="红龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了红龙！"/>
+		<string name="descD" value="本来是一只酷酷的红龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000032">
+		<string name="name" value="蓝龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了蓝龙！"/>
+		<string name="descD" value="本来是一只酷酷的蓝龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000033">
+		<string name="name" value="黑龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了稀有而威严的黑龙！"/>
+		<string name="descD" value="本来是一只威风凛凛的黑龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000034">
+		<string name="name" value="黑兔子"/>
+		<string name="desc" value="乖巧又安静，不用喂太多食物。聪明又听话，但偶尔也会耍点小脾气呢~"/>
+		<string name="descD" value="本来是一只超可爱的小兔兔，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000036">
+		<string name="name" value="小死神"/>
+		<string name="desc" value="迷你版死神化身。是个忠诚但有点调皮的小跟班，还喜欢顶嘴呢~"/>
+		<string name="descD" value="本来是一只超可爱的小死神，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000037">
+		<string name="name" value="哈士奇"/>
+		<string name="desc" value="活泼好动，但有时也挺沉得住气。食量适中。总的来说是个聪明的小伙伴~"/>
+		<string name="descD" value="本来是一只超可爱的小哈士奇，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000038">
+		<string name="name" value="白猴"/>
+		<string name="desc" value="永远可爱的小白猴最爱吃西瓜了。不过有时候它会暴走变成愤怒的猴妈妈~"/>
+		<string name="descD" value="本来是一只超可爱的白猴，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000039">
+		<string name="name" value="豪猪"/>
+		<string name="desc" value="一只毛茸茸的小家伙，身上的刺超级超级尖。但还是很讨人喜欢的宠物哦~"/>
+		<string name="descD" value="本来是一只超可爱的小豪猪，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000040">
+		<string name="name" value="小死神"/>
+		<string name="desc" value="这个有点吓人的小灵魂收割者很开心能跟你一起冒险哦！"/>
+		<string name="descD" value="你那有点吓人的小死神朋友已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000041">
+		<string name="name" value="雪人"/>
+		<string name="desc" value="一个超可爱又很活泼的雪人。有时候看起来有点粗鲁，但你越爱它，它就越亲近你哦~"/>
+		<string name="descD" value="本来是一只超可爱的小雪人，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000042">
+		<string name="name" value="奇诺"/>
+		<string name="desc" value="一只乐天派的橙色蘑菇，超爱亮闪闪的石头~"/>
+		<string name="descD" value="这只曾经超可爱的橙色蘑菇因为生命之水严重脱水变成了没有生命的玩偶。用一种特殊的魔法可以给它注入新的生命哦！"/>
+	</imgdir>
+    <imgdir name="5000043">
+		<string name="name" value="刺猬"/>
+		<string name="desc" value="这只小刺猬很有主见，但非常忠诚哦~"/>
+		<string name="descD" value="你那扎人的小刺猬朋友已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000044">
+		<string name="name" value="橙虎"/>
+		<string name="desc" value="性格温柔又听话，很容易和主人亲近，升级速度也会快很多哦~"/>
+		<string name="descD" value="本来是一只超可爱的小老虎，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+</imgdir>

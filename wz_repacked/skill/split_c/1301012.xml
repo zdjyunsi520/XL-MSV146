@@ -1,0 +1,7 @@
+<imgdir name="1301012">
+        <string name="name" value="横扫千军" />
+        <string name="pdesc" value="大范围挥动武器拉拢敌人，并有几率使其眩晕~" />
+        <string name="desc" value="大范围挥动武器拉拢敌人，使其短暂眩晕~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount，将敌人拉向你并使其眩晕" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount，将敌人拉向你并使其眩晕" />
+    </imgdir>

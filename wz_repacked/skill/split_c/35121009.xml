@@ -1,0 +1,7 @@
+<imgdir name="35121009">
+        <string name="name" value="机器人大军" />
+        <string name="desc" value="安装一个机器人工厂来召唤玩具机器人。召唤的机器人检测到附近敌人会触发自爆功能。工厂本身在一段时间后也会自爆。" />
+        <string name="h" value="MP消耗：#mpCon，机器人工厂持续时间：#time秒，最大玩具机器人数：#y个，玩具机器人伤害：#u%，召唤间隔：每#x秒，自爆伤害：#selfDestruction%，冷却时间：#cooltime秒" />
+        <string name="pdesc" value="安装一个机器人工厂来召唤玩具机器人。召唤的机器人检测到附近敌人会触发自爆功能。工厂本身在一段时间后也会自爆。" />
+        <string name="ph" value="MP消耗：#mpCon，机器人工厂持续时间：#time秒，最大玩具机器人数：#y个，玩具机器人伤害：#u%，召唤间隔：每#x秒，自爆伤害：#selfDestruction%\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

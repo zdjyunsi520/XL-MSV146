@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4030018">
+			<string name="name" value="风暴印记"/>
+			<string name="desc" value="官方认可精英风暴破坏者的徽章"/>
+		</imgdir>
+    <imgdir name="4030019">
+			<string name="name" value="魔法印记"/>
+			<string name="desc" value="官方认可精英烈焰使者的徽章"/>
+		</imgdir>
+    <imgdir name="4030020">
+			<string name="name" value="风之印记"/>
+			<string name="desc" value="官方认可精英风之掠夺者的徽章"/>
+		</imgdir>
+    <imgdir name="4031000">
+			<string name="name" value="玛丽的信"/>
+			<string name="desc" value="玛丽写的信。需要送给阿姆赫斯特的卢卡斯"/>
+		</imgdir>
+    <imgdir name="4031001">
+			<string name="name" value="卢卡斯的信"/>
+			<string name="desc" value="卢卡斯写的信。需要送给蘑菇镇的玛丽"/>
+		</imgdir>
+    <imgdir name="4031002">
+			<string name="name" value="卢卡斯的金表"/>
+			<string name="desc" value="卢卡斯用纯金制成的金表"/>
+		</imgdir>
+    <imgdir name="4031003">
+			<string name="name" value="塞拉的镜子"/>
+			<string name="desc" value="塞拉的镜子。上面有很多装饰"/>
+		</imgdir>
+    <imgdir name="4031004">
+			<string name="name" value="闪亮的石头"/>
+			<string name="desc" value="自己发光的闪亮石头"/>
+		</imgdir>
+    <imgdir name="4031005">
+			<string name="name" value="阿尔肯的血"/>
+			<string name="desc" value="装满阿尔肯血液的瓶子"/>
+		</imgdir>
+    <imgdir name="4031006">
+			<string name="name" value="奇怪的药水"/>
+			<string name="desc" value="这种神秘奇怪药水的功效无法得知"/>
+		</imgdir>
+    <imgdir name="4031007">
+			<string name="name" value="旧金表"/>
+			<string name="desc" value="旧金表。亚历克斯已故母亲留下的遗物"/>
+		</imgdir>
+    <imgdir name="4031008">
+			<string name="name" value="与炎魔共舞的信"/>
+			<string name="desc" value="佩翁的'与炎魔共舞'写的信。需要出示给高原附近的'战士职业导师'"/>
+		</imgdir>
+    <imgdir name="4031009">
+			<string name="name" value="非常老的格伦德尔的信"/>
+			<string name="desc" value="艾琳尼亚的'非常老的格伦德尔'写的信。需要出示给森林附近的'魔法师测试导师'"/>
+		</imgdir>
+    <imgdir name="4031010">
+			<string name="name" value="雅典娜皮尔斯的信"/>
+			<string name="desc" value="赫尼西亚的'雅典娜皮尔斯'写的信。需要出示给地下城附近的'弓箭手测试导师'"/>
+		</imgdir>
+    <imgdir name="4031011">
+			<string name="name" value="黑暗领主的信"/>
+			<string name="desc" value="克里林城的'黑暗领主'写的信。需要出示给城市附近的'飞侠测试导师'"/>
+		</imgdir>
+    <imgdir name="4031012">
+			<string name="name" value="英雄的证明"/>
+			<string name="desc" value="导师出具的证明你已经通过二转考试的凭证。持有此物，你将被认可为英雄"/>
+		</imgdir>
+    <imgdir name="4031013">
+			<string name="name" value="暗黑大理石"/>
+			<string name="desc" value="拥有怪物黑暗丑陋本性的神秘大理石"/>
+		</imgdir>
+    <imgdir name="4031014">
+			<string name="name" value="丽娜的鳗鱼特餐"/>
+			<string name="desc" value="由诅咒眼...和猪头的尾巴组成的特殊鳗鱼。需要送给罗尼"/>
+		</imgdir>
+    <imgdir name="4031015">
+			<string name="name" value="新鲜牛奶"/>
+			<string name="desc" value="罗尼最喜欢的新鲜牛奶"/>
+		</imgdir>
+    <imgdir name="4031016">
+			<string name="name" value="秘密书籍"/>
+			<string name="desc" value="没有人知道这本书里写的是什么"/>
+		</imgdir>
+</imgdir>

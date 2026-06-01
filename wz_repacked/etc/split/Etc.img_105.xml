@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031734">
+			<string name="name" value="Ticket to Orbis (From CBD)"/>
+			<string name="desc" value="A regular ticket needed to get on the plane that heads from Changi airport to Orbis."/>
+		</imgdir>
+    <imgdir name="4031737">
+			<string name="name" value="Homunculus's Blood"/>
+			<string name="desc" value="Blood that is made by Homunculus's magic.  It has the power to reveal truth."/>
+		</imgdir>
+    <imgdir name="4031738">
+			<string name="name" value="Dran's Medicine"/>
+			<string name="desc" value="Medicine that Dran made for his daughter Kini.  It seems rather ordinary but it is actually very difficult to make."/>
+		</imgdir>
+    <imgdir name="4031739">
+			<string name="name" value="Magic Stone of Humility"/>
+			<string name="desc" value="An orange magic stone that signifies humility. What kind of powers does this item have?"/>
+		</imgdir>
+    <imgdir name="4031740">
+			<string name="name" value="Magic Stone of Honesty"/>
+			<string name="desc" value="A green magic stone that signifies honesty. What kind of powers does this item have?"/>
+		</imgdir>
+    <imgdir name="4031741">
+			<string name="name" value="Magic Stone of Trust"/>
+			<string name="desc" value="A blue magic stone that signifies trust. What kind of powers does this item have?"/>
+		</imgdir>
+    <imgdir name="4031743">
+			<string name="name" value="Unknown Medicine"/>
+			<string name="desc" value="A medicine carried by Humanoid A. There's no way to tell what kind of effect it has when consumed."/>
+		</imgdir>
+    <imgdir name="4031744">
+			<string name="name" value="Silver Pendant"/>
+			<string name="desc" value="A pendant with a rose engraving. It is not yet attached to a chain."/>
+		</imgdir>
+    <imgdir name="4031745">
+			<string name="name" value="Parwen's Entry Pass"/>
+			<string name="desc" value="Entry pass that was used by Parwen.  It looks like any other entry passes but has a different number on it."/>
+		</imgdir>
+    <imgdir name="4031750">
+			<string name="name" value="Dark Matter"/>
+			<string name="desc" value="Strange matter from the depths of space.  When used in the construction of items, who knows what effect it'll have!"/>
+		</imgdir>
+    <imgdir name="4031751">
+			<string name="name" value="Vorticular Gyro"/>
+			<string name="desc" value="A futuristic machine part that perpetually makes whirling noises.  Once a part of a bigger machine, it can be used to create something new."/>
+		</imgdir>
+    <imgdir name="4031752">
+			<string name="name" value="Blinking Dingbat"/>
+			<string name="desc" value="A futuristic machine part that blinks steadily and mysteriously.  It's original use is unknown but it can be broken down to create something else."/>
+		</imgdir>
+    <imgdir name="4031753">
+			<string name="name" value="Zeta Residue"/>
+			<string name="desc" value="Residual matter from the explosion of a distant dying star that's taken eons to reach here. "/>
+		</imgdir>
+    <imgdir name="4031754">
+			<string name="name" value="Black Versal Materia"/>
+			<string name="desc" value="A form of concentrated energy, harvested from the alternate dimension of Versal. The dark energy denotes a chaotic element."/>
+		</imgdir>
+    <imgdir name="4031755">
+			<string name="name" value="Taru Totem"/>
+			<string name="desc" value="An ancient totem that pulses with mystic energy."/>
+		</imgdir>
+    <imgdir name="4031756">
+			<string name="name" value="Mystic Astrolabe"/>
+			<string name="desc" value="A golden instrument used for navigation.  Said to have magical effects when combined with other items. "/>
+		</imgdir>
+    <imgdir name="4031757">
+			<string name="name" value="Antellion Relic"/>
+			<string name="desc" value="An old world tablet with strange markings. These are said to combine with other objects."/>
+		</imgdir>
+    <imgdir name="4031758">
+			<string name="name" value="Naricain Jewel"/>
+			<string name="desc" value="A lost jewel created by Naricain, the demon sorceror. Said to add tremendous dark power to crafted items."/>
+		</imgdir>
+    <imgdir name="4031759">
+			<string name="name" value="Subani Ankh"/>
+			<string name="desc" value="One of Subani's Ankhs. Said to have protective powers and ward off darkness."/>
+		</imgdir>
+    <imgdir name="4031760">
+			<string name="name" value="White Versal Materia"/>
+			<string name="desc" value="A form of concentrated energy, harvested from the alternate dimension of Versal. The blinding white energy indicates it is still unstable."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="4311003">
+        <string name="name" value="Slash Storm" />
+        <string name="desc" value="Moves you forward while attacking multiple enemies. \n#cMastery Book required to unlock Lv. 6.\nUnlocks Bloody Storm for Job III at Level 20.#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Moves you forward while attacking multiple enemies. \n#cMastery Book required to unlock Lv. 6.\nUnlocks Bloody Storm for Job III at Level 20.#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

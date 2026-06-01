@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="211"><string name="bookName" value="Adv. Fire &amp; Poison"/></imgdir>
+    <imgdir name="212"><string name="bookName" value="Highest class of Magic (F,P)"/></imgdir>
+    <imgdir name="220"><string name="bookName" value="Ice &amp; Lightning Basics"/></imgdir>
+    <imgdir name="221"><string name="bookName" value="Adv. Ice &amp; Lightning"/></imgdir>
+    <imgdir name="222"><string name="bookName" value="Highest class of Magic (I,L)"/></imgdir>
+    <imgdir name="230"><string name="bookName" value="Basic Holy"/></imgdir>
+    <imgdir name="231"><string name="bookName" value="Greater Holy"/></imgdir>
+    <imgdir name="232"><string name="bookName" value="Ultra Holy"/></imgdir>
+    <imgdir name="300"><string name="bookName" value="Bowman Basics"/></imgdir>
+    <imgdir name="310"><string name="bookName" value="Hunter&apos;s Guide"/></imgdir>
+    <imgdir name="311"><string name="bookName" value="Path of the Ranger"/></imgdir>
+    <imgdir name="312"><string name="bookName" value="Bow master"/></imgdir>
+    <imgdir name="320"><string name="bookName" value="Crossbowman Guide"/></imgdir>
+    <imgdir name="321"><string name="bookName" value="Sniper&apos;s Scope"/></imgdir>
+    <imgdir name="322"><string name="bookName" value="Marksman"/></imgdir>
+    <imgdir name="400"><string name="bookName" value="Thief Skills"/></imgdir>
+    <imgdir name="410"><string name="bookName" value="Assassin Skills"/></imgdir>
+    <imgdir name="411"><string name="bookName" value="The Way of Hermit"/></imgdir>
+    <imgdir name="412"><string name="bookName" value="Night Lord Secrets"/></imgdir>
+    <imgdir name="420"><string name="bookName" value="Bandit&apos;s Tricks"/></imgdir>
+</imgdir>

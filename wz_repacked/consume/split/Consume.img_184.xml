@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2280032">
+		<string name="name" value="[Skill Book] Maple Warrior"/>
+		<string name="desc" value="A Skill Book about #cMaple Warrior#.\nJob: Job before 4th \nRequirement: #cMaple Warrior# not acquired."/>
+	</imgdir>
+    <imgdir name="2280033">
+		<string name="name" value="[Skill Book] Infinity"/>
+		<string name="desc" value="A Skill Book about #cInfinity#.\nJob: 4th Magician\nRequirement: #cInfinity# not acquired."/>
+	</imgdir>
+    <imgdir name="2280034">
+		<string name="name" value="[Skill Book] Dragon's Breath"/>
+		<string name="desc" value="A Skill Book about #cDragon Breath#.\nJob: 4th Bowman\nRequirement: #cDragon Breath# not acquired."/>
+	</imgdir>
+    <imgdir name="2280035">
+		<string name="name" value="[Skill Book] Taunt"/>
+		<string name="desc" value="A Skill Book about #cTaunt#.\nJob: 4th Thief\nRequirement: #cTaunt# not acquired."/>
+	</imgdir>
+    <imgdir name="2280036">
+		<string name="name" value="[Skill Book] Advanced Combo Attack"/>
+		<string name="desc" value="A Skill Book about #cAdvanced Combo Attack#.\nJob: Hero\nRequirement: #cAdvanced Combo Attack# not acquired."/>
+	</imgdir>
+    <imgdir name="2280037">
+		<string name="name" value="[Skill Book] Advanced Charge"/>
+		<string name="desc" value="A Skill Book about #cAdvanced Charge#.\nJob: Paladin\nRequirement: #cAdvanced Charge# not acquired."/>
+	</imgdir>
+    <imgdir name="2280038">
+		<string name="name" value="[Skill Book] Angel Ray"/>
+		<string name="desc" value="A Skill Book about #cAngel Ray#.\nJob: Bishop\nRequirement: #cAngel Ray# not acquired."/>
+	</imgdir>
+    <imgdir name="2280039">
+		<string name="name" value="[Skill Book] Triple Throw"/>
+		<string name="desc" value="A Skill Book about #cTriple Throw#.\nJob: Night Lord\nRequirement: #cTriple Throw# not acquired."/>
+	</imgdir>
+    <imgdir name="2280040">
+		<string name="name" value="[Skill Book] Final Cut"/>
+		<string name="desc" value="A Skill Book about #cFinal Cut#.\nJob: Blade Master\nRequirement: #cFinal Cut# not acquired."/>
+	</imgdir>
+    <imgdir name="2280041">
+		<string name="name" value="[Skill Book] Phantom Blow"/>
+		<string name="desc" value="A Skill Book about #cPhantom Blow#.\nJob: Dual Blade\nCondition: #cPhantom Blow# not acquired."/>
+	</imgdir>
+    <imgdir name="2280042">
+		<string name="name" value="[Amazing Skill Book] Advanced Combo Attack"/>
+		<string name="desc" value="A Skill Book about #cAdvanced Combo Attack#.\nJob: Hero\nRequirement: #cAdvanced Combo Attack# not acquired."/>
+	</imgdir>
+    <imgdir name="2280043">
+		<string name="name" value="[Amazing Skill Book] Advanced Charge"/>
+		<string name="desc" value="A Skill Book about #cAdvanced Charge#.\nJob: Paladin\nRequirement: #cAdvanced Charge# not acquired."/>
+	</imgdir>
+    <imgdir name="2280044">
+		<string name="name" value="[Skill Book] Rush"/>
+		<string name="desc" value="A Skill Book about #cRush#.\nJob: 4th Warrior\nRequirement: #cRush# not acquired."/>
+	</imgdir>
+    <imgdir name="2280045">
+		<string name="name" value="[Skill Book] Infinity"/>
+		<string name="desc" value="A Skill Book about #cInfinity#.\nJob: 4th Magician\nRequirement: #cInfinity# not acquired."/>
+	</imgdir>
+    <imgdir name="2280046">
+		<string name="name" value="[Amazing Skill Book] Angel Ray"/>
+		<string name="desc" value="A Skill Book about #cAngel Ray#.\nJob: Bishop\nRequirement: #cAngel Ray# not acquired."/>
+	</imgdir>
+    <imgdir name="2280047">
+		<string name="name" value="[Skill Book] Taunt"/>
+		<string name="desc" value="A Skill Book about #cTaunt#.\nJob: 4th Thief\nRequirement: #cTaunt# not acquired."/>
+	</imgdir>
+    <imgdir name="2290000">
+		<string name="name" value="[Mastery Book] Monster Magnet"/>
+		<string name="desc" value="70% chance of increasing the max level of #cMonster Magnet# to 20.\nJob: All Warriors\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290001">
+		<string name="name" value="[Mastery Book] Monster Magnet"/>
+		<string name="desc" value="50% chance of increasing the max level of #cMonster Magnet# to 30.\nJob: All Warriors\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290002">
+		<string name="name" value="[Mastery Book] Achilles"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAchilles# to 20.\nJob: Paladin\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290003">
+		<string name="name" value="[Mastery Book] Achilles"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAchilles# to 30.\nJob: Bishop\nCondition: Skill Level 15+"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4450003">
+			<string name="name" value="Cash Shop 13% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450004">
+			<string name="name" value="Cash Shop 15% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450005">
+			<string name="name" value="Cash Shop 17% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450006">
+			<string name="name" value="Cash Shop 20% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450007">
+			<string name="name" value="Cash Shop 25% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450008">
+			<string name="name" value="Cash Shop 30% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4033989">
+			<string name="name" value="RED Key"/>
+			<string name="desc" value="A mysterious red key that looks like it works with RED Gachapon Boxes."/>
+		</imgdir>
+    <imgdir name="4003988">
+			<string name="name" value="RED Ticket"/>
+			<string name="desc" value="If you look REALLY CLOSE, it says, &quot;3 will get you 25 coins, 5 will get you 50, 8 will get you 75, 10 will get you 100.&quot;"/>
+		</imgdir>
+    <imgdir name="4160113">
+			<string name="name" value="Pet Command Guide: Gollux"/>
+			<string name="desc" value="A guide that has all the commands for Gollux.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4033988">
+			<string name="name" value="RED Ticket"/>
+			<string name="desc" value="If you look at the ticket REAL CLOSE, there is a message that says, &quot; 3 will get you 30, 4 to 6 will get you 50, 7 to 9 will get you 80, 10 will get you a 100.&quot;"/>
+		</imgdir>
+    <imgdir name="4160109">
+			<string name="name" value="Pet Command Guide: Jr. Commander"/>
+			<string name="desc" value="A guide that has all the commands for Jr. Commanders.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4160080">
+			<string name="name" value="Pet Command Guide: Gingerbready"/>
+			<string name="desc" value="A guide that has all the commands for the Gingerbready.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4160081">
+			<string name="name" value="Pet Command Guide: Icy Knight"/>
+			<string name="desc" value="A guide that has all the commands for the Icy Knight.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4000906">
+			<string name="name" value="Beetle Horn"/>
+			<string name="desc" value="A pointy horn ripped off a Beetle."/>
+		</imgdir>
+    <imgdir name="4000907">
+			<string name="name" value="Shiny Beetle Horn"/>
+			<string name="desc" value="This beetle horn is as shiny as it is sharp."/>
+		</imgdir>
+    <imgdir name="4000908">
+			<string name="name" value="Hankie's Pan Pipe"/>
+			<string name="desc" value="Hankie's favorite instrument. "/>
+		</imgdir>
+    <imgdir name="4000909">
+			<string name="name" value="Rash's Fuzzball"/>
+			<string name="desc" value="A very fuzzy ball of Rash's fur. "/>
+		</imgdir>
+    <imgdir name="4000910">
+			<string name="name" value="Dark Rash's Fuzzball"/>
+			<string name="desc" value="A very fuzzy ball of Dark Rash's fur. "/>
+		</imgdir>
+    <imgdir name="4000911">
+			<string name="name" value="Hobi Rags"/>
+			<string name="desc" value="Dirty smelly rags that fell off a Hobi. "/>
+		</imgdir>
+    <imgdir name="4000912">
+			<string name="name" value="Green Hobi Outfit"/>
+			<string name="desc" value="The skull really rounds out this Green Hobi's outfit."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="42001000">
+        <string name="name" value="Shikigami Haunting" />
+        <string name="desc" value="Calls forth a terrifying ghost to attack enemies in front of you. Does not consume Mana." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount " />
+    </imgdir>

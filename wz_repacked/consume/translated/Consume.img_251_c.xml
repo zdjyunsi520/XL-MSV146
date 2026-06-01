@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384098">
+		<string name="name" value="排长Chronos卡"/>
+		<string name="desc" value="以排长Chronos为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384099">
+		<string name="name" value="矿车熊卡"/>
+		<string name="desc" value="以矿车熊为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384100">
+		<string name="name" value="时钟大师卡"/>
+		<string name="desc" value="以时钟大师为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384101">
+		<string name="name" value="首领Gray卡"/>
+		<string name="desc" value="以首领Gray为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2385000">
+		<string name="name" value="黑暗Klock卡"/>
+		<string name="desc" value="以黑暗Klock为主题的卡片。\n#c在钟楼的下层狩猎时回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385001">
+		<string name="name" value="双甲虫卡"/>
+		<string name="desc" value="以双甲虫为主题的卡片。\n#c在利捕森林狩猎时回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385002">
+		<string name="name" value="绿色Hobi卡"/>
+		<string name="desc" value="以绿色Hobi为主题的卡片。\n#c在米纳尔森林狩猎时命中率+4/回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385003">
+		<string name="name" value="深渊小丑卡"/>
+		<string name="desc" value="以深渊小丑为主题的卡片。\n#c在钟楼的下层狩猎时移动速度+4#"/>
+	</imgdir>
+    <imgdir name="2385004">
+		<string name="name" value="雪人和Pepe卡"/>
+		<string name="desc" value="以雪人和Pepe为主题的卡片。\n#c在雪原狩猎时回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385005">
+		<string name="name" value="手帕卡"/>
+		<string name="desc" value="以手帕为主题的卡片。\n#c在利捕森林狩猎时跳跃力+4#"/>
+	</imgdir>
+    <imgdir name="2385006">
+		<string name="name" value="狼人卡"/>
+		<string name="desc" value="以狼人为主题的卡片。\n#c在雪原狩猎时命中率+4#"/>
+	</imgdir>
+    <imgdir name="2385007">
+		<string name="name" value="竖琴卡"/>
+		<string name="desc" value="以竖琴为主题的卡片。\n#c在米纳尔森林狩猎时回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385008">
+		<string name="name" value="霍姆凯尔卡"/>
+		<string name="desc" value="以霍姆凯尔为主题的卡片。\n#c在神商人研究基地狩猎时跳跃力+4#"/>
+	</imgdir>
+    <imgdir name="2385009">
+		<string name="name" value="黑暗雪人和Pepe卡"/>
+		<string name="desc" value="以黑暗雪人和Pepe为主题的卡片。\n#c在雪原狩猎时回避率+4#"/>
+	</imgdir>
+    <imgdir name="2385010">
+		<string name="name" value="海盗卡"/>
+		<string name="desc" value="以海盗为主题的卡片。\n#c在钟楼的下层狩猎时命中率+4#"/>
+	</imgdir>
+    <imgdir name="2385011">
+		<string name="name" value="血色竖琴卡"/>
+		<string name="desc" value="以血色竖琴为主题的卡片。\n#c在米纳尔森林狩猎时命中率+4#"/>
+	</imgdir>
+    <imgdir name="2385012">
+		<string name="name" value="死亡泰迪卡"/>
+		<string name="desc" value="以死亡泰迪为主题的卡片。\n#c在钟楼的下层狩猎时命中率+4#"/>
+	</imgdir>
+    <imgdir name="2385013">
+		<string name="name" value="Goby卡"/>
+		<string name="desc" value="以Goby为主题的卡片。\n#c在海底狩猎时15%概率突破怪物的魔法防御#"/>
+	</imgdir>
+    <imgdir name="2385014">
+		<string name="name" value="Birk卡"/>
+		<string name="desc" value="以Birk为主题的卡片。\n#c在利捕森林狩猎时移动速度+4#"/>
+	</imgdir>
+    <imgdir name="2385015">
+		<string name="name" value="双枪海盗卡"/>
+		<string name="desc" value="以双枪海盗为主题的卡片。\n#c在钟楼的下层狩猎时命中率+4#"/>
+	</imgdir>
+</imgdir>

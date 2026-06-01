@@ -1,0 +1,7 @@
+<imgdir name="1211002">
+        <string name="name" value="Charged Blow" />
+        <string name="desc" value="Attacks multiple enemies with the element attribute applied to a weapon. Can only be used when Charged. Has a chance to inflict an abnormal status depending on the Charge element used. Using Charged Blow does not deactivate the skill." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Inflicts abnormal status depending on the Charge element." />
+        <string name="pdesc" value="Attacks multiple enemies with the element attribute applied to a weapon. Can only be used when Charged. Has a chance to inflict an abnormal status depending on the Charge element used. Using Charged Blow does not deactivate the skill." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Inflicts abnormal status depending on the Charge element." />
+    </imgdir>

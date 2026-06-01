@@ -1,0 +1,5 @@
+<imgdir name="3100000">
+        <string name="name" value="Bow Mastery" />
+        <string name="desc" value="Increases the weapon mastery and accuracy of bows. " />
+        <string name="h" value="Bow Mastery: + #mastery%, Accuracy: +#x" />
+    </imgdir>

@@ -1,0 +1,245 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000004"/>
+			<int name="1" value="4000010"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="1072023"/>
+			<int name="5" value="1442012"/>
+			<int name="6" value="2010009"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000003"/>
+			<int name="13" value="1041061"/>
+			<int name="14" value="1472000"/>
+		</imgdir>
+    <imgdir name="1110100">
+		<string name="episode" value=" Lv. :  15\nForm : Plant\nSpecial Trait : Resistant to Poison Attribute Attacks.\n\nA Green Mushroom monster with a dull looking cap. Is a transformed version of the small poisonous mushrooms and is therefore immune to poison. These mushrooms are often spotted around construction sites or nearby dungeon entrances. These mushrooms are most likely poisonous so beware not to eat them no matter how hungry you are!"/>
+		<imgdir name="map">
+			<int name="0" value="100020000"/>
+			<int name="1" value="100020100"/>
+			<int name="2" value="100020101"/>
+			<int name="3" value="800010000"/>
+			<int name="4" value="910100002"/>
+			<int name="5" value="910340600"/>
+			<int name="6" value="912030000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000012"/>
+			<int name="1" value="2043102"/>
+			<int name="2" value="4020003"/>
+			<int name="3" value="1322000"/>
+			<int name="4" value="4010004"/>
+			<int name="5" value="1061012"/>
+			<int name="6" value="4020002"/>
+			<int name="7" value="1432013"/>
+			<int name="8" value="1322022"/>
+			<int name="9" value="2022053"/>
+			<int name="10" value="2022054"/>
+			<int name="11" value="2022055"/>
+			<int name="12" value="1072285"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2060000"/>
+			<int name="16" value="1060004"/>
+			<int name="17" value="1472002"/>
+		</imgdir>
+    <imgdir name="1110101">
+		<string name="episode" value=" Lv. :  10\nForm : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nA slightly darker version of Stump, the tree stump monster. These monsters are often spotted around mountain highlands. While they are very similar to the Stump in their dried-up appearance, but these Dark Stumps have some moisture left in their bodies, still growing leaves somewhere inside their body. The Dark Stump has a lot stronger attacks and defenses as compared to Stump, so be careful not to confuse the two, especially if you're a beginner!"/>
+		<imgdir name="map">
+			<int name="0" value="102020100"/>
+			<int name="1" value="102020200"/>
+			<int name="2" value="910120000"/>
+			<int name="3" value="910220000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000005"/>
+			<int name="1" value="2040802"/>
+			<int name="2" value="1061013"/>
+			<int name="3" value="4010001"/>
+			<int name="4" value="4020000"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2000000"/>
+			<int name="11" value="1040038"/>
+			<int name="12" value="1462001"/>
+		</imgdir>
+    <imgdir name="1120100">
+		<string name="episode" value="Lv. :  12\nForm : Mammal\nSpecial Trait : Vulnerable to Electricity Attribute Attacks.\n\nHardly an octopus, this mutated octopus-like monster is a strange-looking creature that barely escaped the research lab of some outer space planet after being relentlessly tested on. There's apparently some people who like to cook friend meatballs with these octopus' legs. Often found around swamps and construction sites, Octopuses have been reportedly spotted more frequently around high altitude areas which seems to support the whole alien theory of their origins.   "/>
+		<imgdir name="map">
+			<int name="0" value="103010000"/>
+			<int name="1" value="103010100"/>
+			<int name="2" value="910310000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000006"/>
+			<int name="1" value="2043002"/>
+			<int name="2" value="4010003"/>
+			<int name="3" value="4020002"/>
+			<int name="4" value="1061022"/>
+			<int name="5" value="2022014"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000001"/>
+			<int name="12" value="1041064"/>
+			<int name="13" value="1472001"/>
+		</imgdir>
+    <imgdir name="1130100">
+		<string name="episode" value=" Lv. :  17\nForm : Plant\n\nA monster from an unbelievable legendary story about a lumberjack who'd left his axe in a tree stump. The tree stump apparently was reborn into this monster as a result of its unresolved past life as a tree stump with an axe stuck into it. In any case, this Axe Stump seems perfect to use as firewood. Is extremely strong, just like all the Stump family of monsters. "/>
+		<imgdir name="map">
+			<int name="0" value="102020200"/>
+			<int name="1" value="102020300"/>
+			<int name="2" value="102020400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000018"/>
+			<int name="1" value="2043202"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="4020004"/>
+			<int name="4" value="1402009"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4001431"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000003"/>
+			<int name="12" value="1040019"/>
+			<int name="13" value="2044000"/>
+			<int name="14" value="1482003"/>
+		</imgdir>
+    <imgdir name="1140100">
+		<string name="episode" value=" Lv. :  19\nForm : Plant\n\nA strange tree stump that's only found around Excavation Sites. According to some archaeologists, this very unique stump may be growing its leaf with the power of the ancient aura that is constantly emanating out of the Excavation Sites. It is questionable, though, as to whether any more leaves will actually grow out of this Ghost Stump."/>
+		<imgdir name="map">
+			<int name="0" value="102020500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000195"/>
+			<int name="1" value="4010000"/>
+			<int name="2" value="4020007"/>
+			<int name="3" value="4010004"/>
+			<int name="4" value="2022053"/>
+			<int name="5" value="2022054"/>
+			<int name="6" value="2022055"/>
+			<int name="7" value="2044802"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2060000"/>
+			<int name="11" value="1002007"/>
+			<int name="12" value="2040823"/>
+			<int name="13" value="1322002"/>
+		</imgdir>
+    <imgdir name="1140130">
+		<string name="episode" value="Level : Lv.19\nType : Plant\n\nA rare Stump that can only be found around relics. Features a unique face even for a Ghost Stump. Its ever-present smile makes one wonder whether it has a good day or not. Some scholars call it the smile that makes one punch its face. (String) (String)"/>
+		<imgdir name="map">
+			<int name="0" value="102020500"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000195"/>
+			<int name="1" value="4010000"/>
+			<int name="2" value="4020007"/>
+			<int name="3" value="4010004"/>
+			<int name="4" value="2044802"/>
+			<int name="5" value="4001473"/>
+			<int name="6" value="2000000"/>
+			<int name="7" value="1082021"/>
+			<int name="8" value="2044200"/>
+			<int name="9" value="1422002"/>
+		</imgdir>
+    <imgdir name="1210100">
+		<string name="episode" value="Lv. :  7\nForm : Mammal\n\nA very speedy monster that attacks with its massive body. You'll need to do everything you can to get away from this guy, or else it'll come attacking you with massive strength. It is possible to catch one of these Pigs, though, and the Pig's head is apparently quite a delicacy in Maple World."/>
+		<imgdir name="map">
+			<int name="0" value="120010000"/>
+			<int name="1" value="120010100"/>
+			<int name="2" value="120020000"/>
+			<int name="3" value="120020100"/>
+			<int name="4" value="912000000"/>
+			<int name="5" value="912030000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000017"/>
+			<int name="1" value="4010006"/>
+			<int name="2" value="4020006"/>
+			<int name="3" value="4000021"/>
+			<int name="4" value="2010009"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2060000"/>
+			<int name="11" value="1040004"/>
+			<int name="12" value="1442006"/>
+		</imgdir>
+    <imgdir name="1210101">
+		<string name="episode" value=" Lv. :  10\nForm : Mammal\n\nThere's always a sense of order, even in the world of Pigs. The most powerful of them wear a bright red ribbon which symbolizes their overpowering strength over others, and are treated as royalty. You don't believe it? Just go and try to hunt one of these Ribbon Pigs. You'll see that Ribbon Pigs are much more powerful than ordinary Pigs."/>
+		<imgdir name="map">
+			<int name="0" value="120020100"/>
+			<int name="1" value="120020200"/>
+			<int name="2" value="910060000"/>
+			<int name="3" value="910060101"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000002"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="4010002"/>
+			<int name="3" value="4020001"/>
+			<int name="4" value="4000021"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="1072285"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000003"/>
+			<int name="12" value="1002125"/>
+			<int name="13" value="1472003"/>
+		</imgdir>
+    <imgdir name="1210102">
+		<string name="episode" value=" Lv. :  8\nForm : Plant\n\nA mushroom monster spotted everywhere in Maple Island and Victoria Island. Tends to like to hide out in peoples' homes and eat up all their food, which will turn them into the powerful Mushmoms."/>
+		<imgdir name="map">
+			<int name="0" value="100010000"/>
+			<int name="1" value="100020000"/>
+			<int name="2" value="101010000"/>
+			<int name="3" value="101010100"/>
+			<int name="4" value="102010100"/>
+			<int name="5" value="103010000"/>
+			<int name="6" value="103010100"/>
+			<int name="7" value="120010000"/>
+			<int name="8" value="120010100"/>
+			<int name="9" value="800010000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000001"/>
+			<int name="1" value="2040705"/>
+			<int name="2" value="1432015"/>
+			<int name="3" value="4010000"/>
+			<int name="4" value="4020007"/>
+			<int name="5" value="1072015"/>
+			<int name="6" value="1072031"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000001"/>
+			<int name="13" value="1061023"/>
+			<int name="14" value="1432000"/>
+		</imgdir>
+    <imgdir name="1210103">
+		<string name="episode" value=" Lv. :  15\nForm : Spirit\n\nPart of the Slime family of monsters, the Bubbling lives in dark, underground regions. Is normally much faster than the regular Slime and has a much higher Avoidability which makes it a much more difficult target to hunt for beginners."/>
+		<imgdir name="map">
+			<int name="0" value="101020100"/>
+			<int name="1" value="101020200"/>
+			<int name="2" value="910360002"/>
+		</imgdir>
+</imgdir>

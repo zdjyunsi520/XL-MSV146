@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009027">
+			<string name="name" value="Patrol Robot Memory Card"/>
+			<string name="desc" value="A Patrol Robot's memory card. It's used to control the Robot."/>
+		</imgdir>
+    <imgdir name="4009028">
+			<string name="name" value="Clean Water Bottle"/>
+			<string name="desc" value="A water bottle stolen by the Water Thief."/>
+		</imgdir>
+    <imgdir name="4009029">
+			<string name="name" value="Trash Bag"/>
+			<string name="desc" value="A black trash bag that came out of a Dust Box."/>
+		</imgdir>
+    <imgdir name="4009030">
+			<string name="name" value="Streetlight Structure"/>
+			<string name="desc" value="A tentacle from the side of a Streetlight."/>
+		</imgdir>
+    <imgdir name="4009031">
+			<string name="name" value="Patrol Robot S Memory Card"/>
+			<string name="desc" value="A Patrol Robot S's memory card. It's used to control the Robot."/>
+		</imgdir>
+    <imgdir name="4009032">
+			<string name="name" value="Guard Robot E's Memory Chip"/>
+			<string name="desc" value="Guard Robot E's memory chip. It's used to control the Robot."/>
+		</imgdir>
+    <imgdir name="4009033">
+			<string name="name" value="Trashy Thing"/>
+			<string name="desc" value="A piece of trash from the Trash Can."/>
+		</imgdir>
+    <imgdir name="4009034">
+			<string name="name" value="Wooden Plank"/>
+			<string name="desc" value="A wooden board from the Strange Sign."/>
+		</imgdir>
+    <imgdir name="4009035">
+			<string name="name" value="Chubby Serpent Tail"/>
+			<string name="desc" value="A serpent's chubby tail."/>
+		</imgdir>
+    <imgdir name="4009036">
+			<string name="name" value="Safety First Board"/>
+			<string name="desc" value="A sign carried by Safety First."/>
+		</imgdir>
+    <imgdir name="4009037">
+			<string name="name" value="Rock Fragment"/>
+			<string name="desc" value="A rock fragment obtained from Baby Boulder Muncher."/>
+		</imgdir>
+    <imgdir name="4009038">
+			<string name="name" value="Ore Fragment"/>
+			<string name="desc" value="A rock fragment obtained from Big Boulder Muncher. Looks like this can be carved into a jewel..."/>
+		</imgdir>
+    <imgdir name="4009039">
+			<string name="name" value="Boulder Shield"/>
+			<string name="desc" value="A strong shield made from rocks."/>
+		</imgdir>
+    <imgdir name="4009040">
+			<string name="name" value="Shovel"/>
+			<string name="desc" value="A work shovel carried by Racoco."/>
+		</imgdir>
+    <imgdir name="4009041">
+			<string name="name" value="Big Spider Antenna"/>
+			<string name="desc" value="The antenna of a Big Spider."/>
+		</imgdir>
+    <imgdir name="4009042">
+			<string name="name" value="Cart"/>
+			<string name="desc" value="A cart pushed around by Cart Bears."/>
+		</imgdir>
+    <imgdir name="4009043">
+			<string name="name" value="Raccoon Tail"/>
+			<string name="desc" value="A Racaroni's fluffy tail."/>
+		</imgdir>
+    <imgdir name="4009044">
+			<string name="name" value="Safety Hat"/>
+			<string name="desc" value="A safety hat worn by Raco."/>
+		</imgdir>
+    <imgdir name="4009045">
+			<string name="name" value="Ore Muncher Sample"/>
+			<string name="desc" value="A sample taken from an Ore Muncher."/>
+		</imgdir>
+    <imgdir name="4009046">
+			<string name="name" value="Flaming Rue"/>
+			<string name="desc" value="Rare Rue ore imbued with the heat and pressure of the underground."/>
+		</imgdir>
+</imgdir>

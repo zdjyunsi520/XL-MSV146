@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530543">
+			<string name="name" value="金色锤子100%兑换券"/>
+			<string name="desc" value="#c双击#可获得金色锤子100%。"/>
+		</imgdir>
+    <imgdir name="5533000">
+			<string name="name" value="7周年庆典帽子礼盒"/>
+			<string name="desc" value="内含庆祝冒险岛8周年的八分音符发夹。共有八种颜色，随机获得其中一种！"/>
+		</imgdir>
+    <imgdir name="5533001">
+			<string name="name" value="天使光束武器礼盒"/>
+			<string name="desc" value="内含光辉炽天使武器和军刀，可装备在#c所有武器#上。\n随机获得六种武器中的一种。"/>
+		</imgdir>
+    <imgdir name="5533002">
+			<string name="name" value="骑士团团长武器礼盒"/>
+			<string name="desc" value="内含可爱的女皇骑士团团长傀儡武器，可装备在#c所有武器#上。\n随机获得五种武器中的一种。"/>
+		</imgdir>
+    <imgdir name="5533003">
+			<string name="name" value="彩虹遮阳帽礼盒"/>
+			<string name="desc" value="内含漂亮的遮阳帽。晴天防晒必备佳品！\n随机获得七种遮阳帽中的一种。"/>
+		</imgdir>
+    <imgdir name="5533004">
+			<string name="name" value="烈焰光束武器礼盒"/>
+			<string name="desc" value="内含纯净光芒的圣物武器，可装备在#c所有武器#上。\n随机获得六种武器中的一种。"/>
+		</imgdir>
+    <imgdir name="5533006">
+			<string name="name" value="圣诞帽礼盒"/>
+			<string name="desc" value="内含5种圣诞帽子中的1种。"/>
+		</imgdir>
+    <imgdir name="5533007">
+			<string name="name" value="动物园帽子礼盒"/>
+			<string name="desc" value="内含5种惊喜动物帽子中的1种。"/>
+		</imgdir>
+    <imgdir name="5533008">
+			<string name="name" value="荧光蝴蝶翅膀宝箱"/>
+			<string name="desc" value="内含三种梦幻荧光蝴蝶翅膀中的一种。"/>
+		</imgdir>
+    <imgdir name="5533009">
+			<string name="name" value="寿司家族帽子宝箱"/>
+			<string name="desc" value="内含五种精美诱人的寿司家族帽子中的一种。"/>
+		</imgdir>
+    <imgdir name="5533011">
+			<string name="name" value="暗黑女皇骑士团帽子宝箱"/>
+			<string name="desc" value="内含六种神秘暗黑女皇骑士团帽子中的一种。"/>
+		</imgdir>
+    <imgdir name="5533012">
+			<string name="name" value="天堂之翼宝箱"/>
+			<string name="desc" value="内含四种天使般的大天使翅膀中的一种。"/>
+		</imgdir>
+    <imgdir name="5533013">
+			<string name="name" value="超级8周年纪念礼盒"/>
+			<string name="desc" value="装满8周年纪念蛋糕帽和传说椅子的礼盒！随机获得九种庆典好物中的一种！"/>
+		</imgdir>
+    <imgdir name="5533014">
+			<string name="name" value="安可！8周年庆典帽子礼盒"/>
+			<string name="desc" value="内含庆祝冒险岛8周年的八分音符发夹。共有八种颜色，随机获得其中一种！"/>
+		</imgdir>
+    <imgdir name="5533017">
+			<string name="name" value="幻影武器礼盒"/>
+			<string name="desc" value="内含幻影武器，可装备在#c所有武器#上。\n随机获得六种武器中的一种。"/>
+		</imgdir>
+    <imgdir name="5533018">
+			<string name="name" value="商城惊喜礼盒"/>
+			<string name="desc" value="这个特别的商城惊喜礼盒会随机送你一件有效期为90天的装饰道具。每个账号限购一次。"/>
+		</imgdir>
+    <imgdir name="5533021">
+			<string name="name" value="骑士团团长武器礼盒"/>
+			<string name="desc" value="内含可爱的女皇骑士团团长傀儡武器，可装备在#c所有武器#上。\n随机获得五种武器中的一种。"/>
+		</imgdir>
+    <imgdir name="5533022">
+			<string name="name" value="光环翅膀礼盒"/>
+			<string name="desc" value="内含三种炫目闪耀的翅膀中的一种！"/>
+		</imgdir>
+    <imgdir name="5533035">
+			<string name="name" value="野兽驯兽师造型礼盒（耳朵/尾巴）"/>
+			<string name="desc" value="打开礼盒会随机获得一件装备道具。礼盒内的道具均为永久道具，在未装备前可以交易给其他玩家。"/>
+		</imgdir>
+    <imgdir name="5534000">
+			<string name="name" value="提姆的秘密实验室"/>
+			<string name="desc" value="为普通装备赋予潜能，且不减少可升级次数。只能用于没有潜能的道具。"/>
+		</imgdir>
+	</imgdir>

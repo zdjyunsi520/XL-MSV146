@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2600016">
+		<string name="name" value="Blue Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="2600017">
+		<string name="name" value="Red Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="2600018">
+		<string name="name" value="Rexton"/>
+	</imgdir>
+    <imgdir name="2600019">
+		<string name="name" value="Brexton"/>
+	</imgdir>
+    <imgdir name="2600020">
+		<string name="name" value="Jr. Newtie"/>
+	</imgdir>
+    <imgdir name="2600021">
+		<string name="name" value="Nest Golem"/>
+	</imgdir>
+    <imgdir name="2600022">
+		<string name="name" value="Manon"/>
+	</imgdir>
+    <imgdir name="2600023">
+		<string name="name" value="Red Wyvern"/>
+	</imgdir>
+    <imgdir name="2600024">
+		<string name="name" value="Blue Wyvern"/>
+	</imgdir>
+    <imgdir name="2600025">
+		<string name="name" value="Dark Wyvern"/>
+	</imgdir>
+    <imgdir name="2600026">
+		<string name="name" value="Green Cornian"/>
+	</imgdir>
+    <imgdir name="2600027">
+		<string name="name" value="Dark Cornian"/>
+	</imgdir>
+    <imgdir name="2600028">
+		<string name="name" value="Skelegon"/>
+	</imgdir>
+    <imgdir name="2600029">
+		<string name="name" value="Skelosaurus"/>
+	</imgdir>
+    <imgdir name="2600030">
+		<string name="name" value="Leviathan"/>
+	</imgdir>
+    <imgdir name="2600100">
+		<string name="name" value="White Desert Rabbit"/>
+	</imgdir>
+    <imgdir name="2600101">
+		<string name="name" value="Brown Desert Rabbit"/>
+	</imgdir>
+    <imgdir name="2600102">
+		<string name="name" value="Jr. Cactus"/>
+	</imgdir>
+    <imgdir name="2600103">
+		<string name="name" value="Cactus"/>
+	</imgdir>
+    <imgdir name="2600104">
+		<string name="name" value="Royal Cactus"/>
+	</imgdir>
+</imgdir>

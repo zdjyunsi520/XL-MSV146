@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591197">
+		<string name="name" value="惊喜阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：运气+18\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591198">
+		<string name="name" value="华丽阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：全属性+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591199">
+		<string name="name" value="强力阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591200">
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：魔法攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="name" value="光辉阿尔卡之魂"/>
+	</imgdir>
+    <imgdir name="2591201">
+		<string name="name" value="坚韧阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：最大HP+700\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591202">
+		<string name="name" value="华丽阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c更强大的阿尔卡技能和额外潜能#。\n#c成功率：100%#\n可用于100级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591203">
+		<string name="name" value="活力艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：力量+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591204">
+		<string name="name" value="敏捷艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：敏捷+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591205">
+		<string name="name" value="聪慧艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：智力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591206">
+		<string name="name" value="惊喜艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：运气+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591207">
+		<string name="name" value="坚韧艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：最大HP+180\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591208">
+		<string name="name" value="充沛艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：最大MP+180\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591209">
+		<string name="name" value="华丽艾芬尼之魂"/>
+		<string name="desc" value="艾芬尼的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c艾芬尼技能和额外潜能#。\r\n#c额外潜能：全属性+2\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591210">
+		<string name="name" value="活力阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：力量+18\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591211">
+		<string name="name" value="敏捷阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：敏捷+18\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591212">
+		<string name="name" value="聪慧阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：智力+18\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591213">
+		<string name="name" value="惊喜阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：运气+18\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591214">
+		<string name="name" value="华丽阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：全属性+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591215">
+		<string name="name" value="强力阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591216">
+		<string name="name" value="光辉阿尔卡之魂"/>
+		<string name="desc" value="阿尔卡的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c阿尔卡技能和额外潜能#。\r\n#c额外潜能：魔法攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+</imgdir>

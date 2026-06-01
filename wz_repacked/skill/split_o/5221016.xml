@@ -1,0 +1,7 @@
+<imgdir name="5221016">
+        <string name="name" value="Brain Scrambler" />
+        <string name="desc" value="Shoots a monster in the head to eliminate it in one shot. Deals powerful damage to monsters who cannot be instantly KO&apos;d." />
+        <string name="h" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Shoots a monster in the head to eliminate it in one shot. Deals powerful damage to monsters who cannot be instantly KO&apos;d." />
+        <string name="ph" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
+    </imgdir>

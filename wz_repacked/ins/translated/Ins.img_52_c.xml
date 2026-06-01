@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3800283">
+		<string name="name" value="强力成长消耗品"/>
+		<string name="desc" value="从斯佩尔曼的遗迹狩猎中获得6种强力成长消耗品之一。"/>
+	</imgdir>
+    <imgdir name="3800284">
+		<string name="name" value="枫之谷8周年快乐！"/>
+		<string name="desc" value="获得以下增益之一：武器/魔法攻击+20、30或40。与其他增益叠加。"/>
+	</imgdir>
+    <imgdir name="3800324">
+		<string name="name" value="第15次活动印章奖励"/>
+		<string name="desc" value="这是什么？！"/>
+	</imgdir>
+    <imgdir name="3800342">
+		<string name="name" value="回家传送图标"/>
+		<string name="desc" value="天使破坏者教程图像"/>
+	</imgdir>
+    <imgdir name="3800343">
+		<string name="name" value="坐标图标"/>
+		<string name="desc" value="天使破坏者教程图像"/>
+	</imgdir>
+    <imgdir name="3800344">
+		<string name="name" value="变身图标"/>
+		<string name="desc" value="天使破坏者教程图像"/>
+	</imgdir>
+    <imgdir name="3800347">
+		<string name="name" value="基础价值包：经验提升"/>
+		<string name="desc" value="枫之谷基础价值包购买者的经验增益。经验提升在价值包激活期间有效，仅限100级以下。\n#c1-29级：经验+50%\n30-100级：经验+20%#"/>
+	</imgdir>
+    <imgdir name="3800348">
+		<string name="name" value="特殊价值包：经验提升"/>
+		<string name="desc" value="枫之谷特殊价值包购买者的经验增益。经验提升在价值包激活期间有效。\n#c1-29级：经验+50%\n30-200级：经验+20%#"/>
+	</imgdir>
+    <imgdir name="3800349">
+		<string name="name" value="价值包武器箱子"/>
+		<string name="desc" value="枫之谷价值包购买者的特殊武器箱子。包含一把35、65或95级混沌武器，根据你的等级而定。"/>
+	</imgdir>
+    <imgdir name="3800350">
+		<string name="name" value="升级价值包：经验提升"/>
+		<string name="desc" value="升级价值包购买者的经验增益。经验提升在价值包激活期间有效。\n#c1-29级：经验+50%\n30-200级：经验+20%#"/>
+	</imgdir>
+    <imgdir name="3800351">
+		<string name="name" value="棒球服 - 熊队"/>
+		<string name="desc" value="为熊队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800352">
+		<string name="name" value="棒球服 - 飞龙队"/>
+		<string name="desc" value="为飞龙队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800353">
+		<string name="name" value="棒球服 - 狮子队"/>
+		<string name="desc" value="为狮子队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800354">
+		<string name="name" value="棒球服 - 巨人队"/>
+		<string name="desc" value="为巨人队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800355">
+		<string name="name" value="棒球服 - 英雄队"/>
+		<string name="desc" value="为英雄队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800356">
+		<string name="name" value="棒球服 - 虎队"/>
+		<string name="desc" value="为虎队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800357">
+		<string name="name" value="棒球服 - 双子队"/>
+		<string name="desc" value="为双子队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800358">
+		<string name="name" value="棒球服 - 鹰队"/>
+		<string name="desc" value="为鹰队加油的服装。"/>
+	</imgdir>
+    <imgdir name="3800359">
+		<string name="name" value="棒球帽 - 熊队"/>
+		<string name="desc" value="为熊队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800360">
+		<string name="name" value="棒球帽 - 飞龙队"/>
+		<string name="desc" value="为飞龙队加油的帽子。"/>
+	</imgdir>
+</imgdir>

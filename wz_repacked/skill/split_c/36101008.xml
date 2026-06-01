@@ -1,0 +1,5 @@
+<imgdir name="36101008">
+        <string name="name" value="流银：集中" />
+        <string name="desc" value="用鞭刃穿透敌人造成暴击！此攻击比普通攻击有更高的命中率和暴击率。通过模式切换改变模式。" />
+        <string name="h" value="MP Cost: #mpCon, Max Monsters Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Accuracy: #y, Critical Hit Rate: #x%" />
+    </imgdir>

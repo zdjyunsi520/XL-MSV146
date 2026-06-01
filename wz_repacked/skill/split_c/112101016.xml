@@ -1,0 +1,5 @@
+<imgdir name="112101016">
+        <string name="name" value="兄弟攻击" />
+        <string name="desc" value="攻击时有几率召唤小雪豹造成额外伤害。BOSS和部分怪物免疫。" />
+        <string name="h" value="MP消耗: #mpCon, 召唤几率: #prop%, 增益持续时间: #time秒。\r\n- 小雪豹伤害: #damage%\r\n- 小雪豹持续时间: #x秒。\r\n冷却时间: #cooltime秒" />
+    </imgdir>

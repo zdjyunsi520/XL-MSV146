@@ -1,0 +1,5 @@
+<imgdir name="80001340">
+        <string name="name" value="麦格努斯突击" />
+        <string name="desc" value="强大的麦格努斯向敌人推进，用他的剑威胁他们的生命。被黎明武器召唤后，麦格努斯会用重剑突刺攻击前方的敌人~" />
+        <string name="h" value="最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount\n冷却时间: #cooltime秒" />
+    </imgdir>

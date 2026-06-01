@@ -1,0 +1,5 @@
+<imgdir name="61001101">
+        <string name="name" value="Flame Surge" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="desc" value="Blast forward with warrior spirit." />
+    </imgdir>

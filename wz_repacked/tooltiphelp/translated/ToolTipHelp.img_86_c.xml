@@ -1,0 +1,87 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="103000000">
+			<string name="dual00" value="凯恩城后巷"/>
+		</imgdir>
+    <imgdir name="103010100">
+			<imgdir name="subway00">
+				<string name="Title" value="废弃地铁站"/>
+				<imgdir name="Npc">
+					<string name="0" value="Mr. Lim"/>
+				</imgdir>
+    <imgdir name="103020020">
+			<string name="out00" value="前往凯恩城"/>
+		</imgdir>
+    <imgdir name="103040400">
+			<string name="topFloor" value="VIP区域"/>
+			<imgdir name="goDown">
+				<string name="Title" value="5楼6楼A区"/>
+				<imgdir name="Mob">
+					<string name="0" value="9410032"/>
+				</imgdir>
+    <imgdir name="103050100">
+			<imgdir name="quest00">
+				<string name="Title" value="大理石房间"/>
+			</imgdir>
+    <imgdir name="103050300">
+			<imgdir name="in00">
+				<string name="Title" value="训练中心1"/>
+			</imgdir>
+    <imgdir name="in01">
+				<string name="Title" value="训练中心2"/>
+			</imgdir>
+    <imgdir name="in02">
+				<string name="Title" value="训练中心3"/>
+			</imgdir>
+    <imgdir name="240020500">
+			<string name="MD00" value="迷你副本:肯塔乌斯圆桌"/>
+		</imgdir>
+    <imgdir name="240040511">
+			<string name="MD00" value="迷你副本:恢复记忆"/>
+		</imgdir>
+    <imgdir name="240040520">
+			<string name="MD00" value="迷你副本:蝾螈保护区"/>
+		</imgdir>
+    <imgdir name="260020600">
+			<string name="MD00" value="迷你副本:沙尘暴山丘"/>
+		</imgdir>
+    <imgdir name="261000021">
+			<imgdir name="out00">
+				<string name="Title" value="阿尔卡德诺协会"/>
+				<imgdir name="Npc">
+					<string name="0" value="Maed"/>
+				</imgdir>
+    <imgdir name="261020300">
+			<string name="MD00" value="迷你副本:严重错误"/>
+		</imgdir>
+    <imgdir name="130000200">
+			<imgdir name="west00">
+				<string name="Title" value="训练森林I"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kiku"/>
+				</imgdir>
+    <imgdir name="Mob">
+					<string name="0" value="0100122"/>
+				</imgdir>
+    <imgdir name="east00">
+				<string name="Title" value="骑士的房间"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kidan"/>
+				</imgdir>
+    <imgdir name="130010000">
+			<imgdir name="in00">
+				<string name="Title" value="蒂诺的森林"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100120"/>
+				</imgdir>
+    <imgdir name="in01">
+				<string name="Title" value="蒂夫的森林"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100121"/>
+				</imgdir>
+    <imgdir name="130010100">
+			<imgdir name="in00">
+				<string name="Title" value="蒂姆的森林"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100122"/>
+				</imgdir>
+</imgdir>

@@ -1,0 +1,80 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159390">
+		<string name="name" value="克劳丁"/>
+	</imgdir>
+    <imgdir name="2159391">
+		<string name="name" value="贝丽尔"/>
+		<string name="d0" value="..."/>
+	</imgdir>
+    <imgdir name="2159392">
+		<string name="name" value="贝丽尔"/>
+		<string name="d0" value="...呃"/>
+	</imgdir>
+    <imgdir name="2159393">
+		<string name="name" value="贝丽尔"/>
+		<string name="d0" value="...呃"/>
+		<string name="n0" value="...呃"/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="2159394">
+		<string name="name" value="弗朗西斯"/>
+		<string name="d0" value="啊...又倒了...呃..."/>
+	</imgdir>
+    <imgdir name="2159395">
+		<string name="name" value="达戈斯"/>
+	</imgdir>
+    <imgdir name="2159396">
+		<string name="name" value="鲁-D"/>
+		<string name="n0" value="嘟-嘀-嘟"/>
+		<string name="n1" value="如果格里梅尔出现怎么办？"/>
+		<string name="d0" value="我讨厌战斗。"/>
+	</imgdir>
+    <imgdir name="2159397">
+		<string name="name" value="黑翼喽啰"/>
+	</imgdir>
+    <imgdir name="2159398">
+		<string name="name" value="书桌"/>
+		<string name="d0" value="(这张书桌堆满了书和文件。)"/>
+	</imgdir>
+    <imgdir name="2159399">
+		<string name="name" value="鲁-D"/>
+		<string name="d0" value="小心！"/>
+	</imgdir>
+    <imgdir name="2159400">
+		<string name="name" value="鲁-D"/>
+		<string name="d0" value="为什么格里梅尔把我的腿做得这么短？！"/>
+		<string name="n0" value="让我们把普罗梅萨拿回来，和穆恩教授一起喝热巧克力！"/>
+		<string name="n1" value="让我们把普罗梅萨拿回来，和普罗马瑟斯玩骑大马！"/>
+		<string name="n2" value="让我们把普罗梅萨拿回来，和纳塔尼亚下棋！"/>
+		<string name="n3" value="让我们把普罗梅萨拿回来，看看埃德温在做什么！"/>
+	</imgdir>
+    <imgdir name="2159401">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159402">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159403">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159404">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159405">
+		<string name="name" value="鲁-D"/>
+		<string name="d0" value="嘿，你还好吗？"/>
+		<string name="d1" value="我讨厌战斗。"/>
+	</imgdir>
+    <imgdir name="2159406">
+		<string name="name" value="一封奇怪的信"/>
+	</imgdir>
+    <imgdir name="2159407">
+		<string name="name" value="伊莱扎"/>
+	</imgdir>
+    <imgdir name="2159408">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159409">
+		<string name="name" value="???"/>
+	</imgdir>
+</imgdir>

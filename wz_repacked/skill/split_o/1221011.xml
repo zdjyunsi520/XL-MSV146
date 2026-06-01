@@ -1,0 +1,7 @@
+<imgdir name="1221011">
+        <string name="name" value="Heaven&apos;s Hammer" />
+        <string name="desc" value="Strikes the ground with a huge hammer to attack up to 15 enemies. Leaves the affected enemies with only 1 HP. Inflicts critical damage on boss monsters." />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, When attacking Boss monsters, Damage: #damage% and Number of Attacks: #attackCount, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Strikes the ground with a huge hammer to attack up to 15 enemies. Leaves the affected enemies with only 1 HP. Inflicts critical damage on boss monsters." />
+        <string name="ph" value="MP Cost: #mpCon, Enemies Hit: #mobCount, When attacking Boss monsters, Damage: #damage% and Number of Attacks: #attackCount, Cooldown: #cooltime sec" />
+    </imgdir>

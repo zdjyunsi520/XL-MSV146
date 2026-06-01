@@ -1,0 +1,7 @@
+<imgdir name="31001000">
+        <string name="name" value="Grim Scythe" />
+        <string name="desc" value="Summons a demonic scythe that tears through multiple enemies in front of you.\nRequired Skill: #cDemon Lash Lv.1#" />
+        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, When skill key is held - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
+        <string name="pdesc" value="Summons a demonic scythe that tears through multiple enemies in front of you.\nRequired Skill: #cDemon Lash Lv.1#" />
+        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, When skill key is held - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
+    </imgdir>

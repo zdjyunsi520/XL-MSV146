@@ -1,0 +1,5 @@
+<imgdir name="13110003">
+        <string name="name" value="弓专家" />
+        <string name="desc" value="提升弓精通度、武器攻击力和最低暴击伤害。\n需要技能：#c弓精通 Lv. 20#" />
+        <string name="h" value="Bow Mastery: +#mastery%. Weapon ATT: +#x, Minimum Crit Damage: +#criticaldamageMin%" />
+    </imgdir>

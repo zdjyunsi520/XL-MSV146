@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="30001150"><string name="name" value="筋斗云"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#60秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001151"><string name="name" value="骑士战车"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#45秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001152"><string name="name" value="梦魇"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#45秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001153"><string name="name" value="巴洛古"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#60秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001154"><string name="name" value="隐形巴洛古"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#60秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001155"><string name="name" value="龙（3级）"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#15秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：180%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001156"><string name="name" value="猫头鹰"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#180秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001157"><string name="name" value="直升机"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#0秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001158"><string name="name" value="高速公路巡逻车"/><string name="desc" value="[最高等级：1]\n可以骑乘高速公路巡逻车。\n右键点击可让其他玩家搭便车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001162"><string name="name" value="巴洛古的狱火"/><string name="desc" value="召唤巴洛古的灵魂，用猛烈的狱火灼烧屏幕上的所有敌人。"/><string name="h1" value="对15个敌人造成2000%伤害。暴击概率+20%，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001163"><string name="name" value="暗黑龙的火焰吐息"/><string name="desc" value="召唤暗黑龙的灵魂，用火焰沐浴你周围的敌人。被命中的敌人将受到持续的火焰伤害。"/><string name="h1" value="对15个敌人造成3000%伤害。暴击概率+20%，每秒持续伤害持续10秒，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001164"><string name="name" value="雷克斯的冲锋"/><string name="desc" value="召唤雷克斯的灵魂，瞬间歼灭前方的敌人。对Boss怪物造成普通伤害。"/><string name="h1" value="瞬间消灭普通怪物，对Boss怪物造成900%伤害。10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001165"><string name="name" value="阿尼的审判"/><string name="desc" value="召唤阿尼的灵魂，用无视防御的强力锤子碾压敌人。"/><string name="h1" value="对1个敌人造成4000%伤害。暴击概率+40%，无视敌人防御，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001171"><string name="name" value="龙骑士的能量吐息"/><string name="desc" value="召唤龙骑士的灵魂，用强力的能量冲锋轰炸前方的敌人。被命中的敌人将受到持续伤害。"/><string name="h1" value="对15个敌人造成2000%伤害。暴击概率+40%，300%持续伤害持续10秒，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001172"><string name="name" value="凡雷恩的狮斩"/><string name="desc" value="召唤凡雷恩的灵魂，对敌人发动毁灭性的一击。"/><string name="h1" value="对1个敌人造成5000%伤害。暴击概率+30%，无视敌人防御，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001173"><string name="name" value="扎昆的炼狱火海"/><string name="desc" value="召唤扎昆的灵魂，用冲天的烈焰焚烧你周围的敌人。被命中的敌人将受到持续的火焰伤害。"/><string name="h1" value="对15个敌人造成3000%伤害。暴击概率+20%，每秒持续伤害持续10秒，10分钟冷却时间。"/></imgdir>
+    <imgdir name="30001174"><string name="name" value="摇滚之灵的毁灭之击"/><string name="desc" value="召唤摇滚之灵的灵魂持续2分钟，眩晕附近的敌人。"/><string name="h1" value="对15个敌人造成500%伤害的眩晕攻击。持续2分钟，15分钟冷却时间。"/></imgdir>
+    <imgdir name="30001175"><string name="name" value="武公的绝对毁灭"/><string name="desc" value="从武公的灵魂中汲取力量，在30秒内使攻击伤害翻倍。"/><string name="h1" value="伤害x2，持续30秒，15分钟冷却时间。"/></imgdir>
+    <imgdir name="30001176"><string name="name" value="品克缤的超级痛苦区域"/><string name="desc" value="召唤品克缤的灵魂持续2分钟，对附近的敌人造成巨大伤害。"/><string name="h1" value="对15个敌人造成1500%伤害。持续2分钟，15分钟冷却时间。"/></imgdir>
+    <imgdir name="30001179"><string name="name" value="纯白天使"/><string name="desc" value="[最高等级：1]\n召唤封印在纯白天使祝福中的纯白天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+</imgdir>

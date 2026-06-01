@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="2041017">
+		<string name="name" value="红桃A"/>
+		<string name="func" value="糕点师"/>
+		<string name="n0" value="甜蜜的巧克力能大大帮助你向所爱的人传达'我爱你！'"/>
+		<string name="n1" value="我，红桃A，将向你透露甜蜜的巧克力爱情秘方！"/>
+		<string name="d0" value="我在这里烤可爱的小点心！这里不是很香吗？嗯哼！"/>
+		<string name="d1" value="我一个人只能做这么多。包涵一下。我每小时只能做一个。"/>
+	</imgdir>
+    <imgdir name="2041018">
+		<string name="name" value="装配工Hans"/>
+		<string name="n0" value="今天我应该做什么？"/>
+		<string name="f0" value="我是玩具工厂这里最擅长装配玩具的人。"/>
+		<string name="f1" value="收集我要求的材料，我会为你做些好东西作为回报！"/>
+		<string name="d0" value="我只需要几样东西来做个好玩的玩具，但我不知道我是否被允许做这个。"/>
+		<string name="d1" value="嘿，发生什么了？你试过用我前几天给你的东西吗？那件物品有一些实验性元素，因此有点危险，但制作我一直想做的东西很有趣。我得回去工作了！"/>
+	</imgdir>
+    <imgdir name="2041019">
+		<string name="name" value="修理工Rocky"/>
+		<string name="n0" value="为什么这老是要坏？"/>
+		<string name="d0" value="又坏了...我不久前才修好的！谁干的？！如果我能找到肇事者的话...啊啊啊！"/>
+		<string name="d1" value="哦不，一定又是怪物干的。我一修好这个，它们就冲回来又把它弄坏了。嘿，你在那里多久了？多亏了你给我找的零件，我一直在修理这里的机器，但它们似乎每隔一天就坏一次，所以我根本没时间休息。我得走了！再见！"/>
+	</imgdir>
+    <imgdir name="2041020">
+		<string name="name" value="机械师Mac"/>
+		<string name="n0" value="这些机器需要日常维护..."/>
+		<string name="d0" value="今天天气很好。我是#b#p2041020##k，在玩具工厂工作。我负责制作这里机器的蓝图，必要时也修理它们。"/>
+		<string name="d1" value="你回来了。多亏了你给我找的文件，我一直在忙着工作。哦，这次我把它藏在安全的地方了以防万一。我得回去工作了。后会有期！"/>
+	</imgdir>
+    <imgdir name="2041021">
+		<string name="name" value="Bouffon先生"/>
+		<string name="n0" value="我们需要在Ludibrium中心找到时间球的力量来源。"/>
+		<string name="n1" value="我们需要时间球的能量替代品。请收集Tachions。"/>
+		<string name="s0" value="我们必须封印维度裂缝。"/>
+		<string name="s1" value="如果你打破了时间球，你将面对面看到所有邪恶的源头！"/>
+		<string name="d0" value="我是Bouffon先生，负责保护时间之路。"/>
+		<string name="d1" value="多亏了你，Ludibrium的所有邪恶根源已被永远消灭了！只有和平的日子在前方。"/>
+	</imgdir>
+    <imgdir name="2041022">
+		<string name="name" value="顾问Tigun"/>
+		<string name="s0" value="你是来送历史书的吗？让我看看..."/>
+		<string name="d0" value="我，顾问Tigun，负责帮助Ludibrium的国王尽可能顺利地管理这个地方。嗯..."/>
+		<string name="d1" value="你不就是那位尊敬的旅行者吗？你见过#t1012109#吗？你让我想起了自己旅行的日子...那时候我是个无所畏惧的孩子..."/>
+	</imgdir>
+    <imgdir name="2041023">
+		<string name="name" value="Flo"/>
+		<string name="s0" value="是时候表演魔术了！"/>
+		<string name="s1" value="看看这令人惊叹的魔术！"/>
+		<string name="m0" value="砰！"/>
+		<string name="d0" value="我是Flo，负责保护时间之路。你想看我表演魔术吗？"/>
+		<string name="d1" value="表演时间！我厉害吧？"/>
+	</imgdir>
+    <imgdir name="2041026">
+		<string name="name" value="猎鬼者Bob"/>
+		<string name="s0" value="上次我好好吃一顿是什么时候？呃..."/>
+		<string name="s1" value="它们好难对付！"/>
+		<string name="t0" value="嘿，你以为你是谁，这么轻易地在这个地方荡来荡去？"/>
+		<string name="d0" value="嗯...得集中精神！"/>
+		<string name="d1" value="我感觉到这里有负面气息..."/>
+	</imgdir>
+    <imgdir name="2041027">
+		<string name="name" value="收藏家Mason"/>
+		<string name="m0" value="看，但别碰！这些物品很珍贵！"/>
+		<string name="m1" value="我需要收集，收集，再收集..."/>
+		<string name="d0" value="我想要这个，这个，这个，还有那个..."/>
+		<string name="d1" value="还有什么东西要收集吗？！"/>
+	</imgdir>
+    <imgdir name="2041028">
+		<string name="name" value="神秘小偷"/>
+		<string name="n0" value="如果你想要什么东西，你需要付出代价。"/>
+		<string name="n1" value="你想从我这里得到什么吗？"/>
+		<string name="d0" value="真不敢相信我在这里做这种杂活。我理解这是命令，但这并不会让事情变得更容易。"/>
+		<string name="d1" value="Hellen关照你这样的人...这确实令人惊讶。嗯，我确信被关注不是什么有趣的事。至少可以说，他相当无情。"/>
+	</imgdir>
+    <imgdir name="2041029">
+		<string name="name" value="Karen"/>
+		<string name="n0" value="这是Ludibrium的时间控制室。只有授权人员才能进入。"/>
+		<string name="n1" value="真不敢相信时间控制员的安全装置坏了。我该怎么办...?"/>
+		<string name="d0" value="哦不，有人破坏了时间控制员的安全装置！"/>
+		<string name="d1" value="啊哈...真不敢相信你竟然这样跳过了时间。女神不会原谅你的。"/>
+	</imgdir>
+    <imgdir name="2042000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="如果你是一个寻找挑战的冒险家，参加怪物嘉年华吧！"/>
+		<string name="n1" value="你不好奇谁是你朋友中最强的冒险家吗？"/>
+	</imgdir>
+    <imgdir name="2042001">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="如果你是一个寻找挑战的冒险家，参加怪物嘉年华吧！"/>
+		<string name="n1" value="你不好奇谁是你朋友中最强的冒险家吗？"/>
+	</imgdir>
+    <imgdir name="2042002">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="如果你是一个寻找挑战的冒险家，参加怪物嘉年华吧！"/>
+		<string name="n1" value="你不好奇谁是你朋友中最强的冒险家吗？"/>
+	</imgdir>
+    <imgdir name="2050004">
+		<string name="name" value="仓库管理员Kubo"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="你在找仓库吗？"/>
+		<string name="n1" value="我的仓库绝对安全！我保证..."/>
+	</imgdir>
+    <imgdir name="2050005">
+		<string name="name" value="Chury"/>
+		<string name="n0" value="啧，啧...如果我不走就要迟到了！"/>
+		<string name="n1" value="只要我在这里，这个地方就是安全的！"/>
+		<string name="d0" value="这是我好久以来的第一次休息。我前几天一直在执行任务。外星人总是在天黑后发出噪音...总之，我得尽可能享受这一刻。但话说回来，我还是应该保持警惕..."/>
+		<string name="d1" value="你就是把#b#p2050001#的#k #b#t4031100##k带来给我看的人。我非常感谢你。机器人进展怎么样了？我等不及想要那个机器人了。现在，我需要完成训练，所以请见谅。"/>
+	</imgdir>
+    <imgdir name="2050006">
+		<string name="name" value="Hoony"/>
+		<string name="n0" value="Mirol在哪里...?"/>
+		<string name="n1" value="我厌倦了每天执行任务。"/>
+		<string name="d0" value="我是Omega Sector的#b#p2050006##k，目前正在执行一项秘密任务。你看起来像个旅行者，虽然你似乎站在我们这边，但我不能透露任何关于我任务的信息。"/>
+		<string name="d1" value="你就是把#b#p2050001#的#k #b#t4031100##k带来给我看的人。我非常感谢你。机器人进展怎么样了？我等不及想要那个机器人了。现在我得回去工作了..."/>
+	</imgdir>
+    <imgdir name="2050007">
+		<string name="name" value="Gunny"/>
+		<string name="n0" value="Hoon总是在抱怨。"/>
+		<string name="n1" value="我们需要一些女性飞行员。"/>
+		<string name="d0" value="我是Omega Sector的#b#p2050007##k，目前正在执行一项秘密任务。你看起来像个旅行者，虽然你似乎站在我们这边，但我不能透露任何关于这次任务的信息。"/>
+		<string name="d1" value="你就是把#b#p2050001#的#k #b#t4031100##k带来给我看的人。我非常感谢你。机器人进展怎么样了？我等不及想要那个机器人了。现在我得回去工作了..."/>
+	</imgdir>
+    <imgdir name="2050008">
+		<string name="name" value="Maestro将军"/>
+		<string name="n0" value="我的军队在这里保护这个地方，昨天、今天和明天。"/>
+		<string name="n1" value="我没时间交谈，因为我正在执行一项重要行动。"/>
+		<string name="d0" value="感谢来到Omega Sector。请保持警惕，因为外星人可能随时进攻。哦，对了，Sector里有人需要你的帮助。如果你有兴趣，去找那个人。"/>
+		<string name="d1" value="外面的天气刚刚好。这个地方对外星人是安全和受保护的。这几天安静得异常，这让我很困扰，但我不能松懈。哦，对了，你前几天为我做的工作，现在进展得很顺利。"/>
+	</imgdir>
+    <imgdir name="2050009">
+		<string name="name" value="Medin中尉"/>
+		<string name="n0" value="我负责保护将军并指挥军队。"/>
+		<string name="n1" value="我不会容忍任何人偷懒！"/>
+		<string name="d0" value="立正！你能帮我个忙吗？"/>
+		<string name="d1" value="干得好。我会更加努力地协助Maestro将军。"/>
+	</imgdir>
+</imgdir>

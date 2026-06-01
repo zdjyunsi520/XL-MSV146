@@ -1,0 +1,7 @@
+<imgdir name="33110000">
+        <string name="name" value="美洲豹加速" />
+        <string name="desc" value="进一步增强美洲豹骑手技能。" />
+        <string name="h" value="骑乘时 - 移动速度：+#x，美洲豹骑手技能伤害：+#damage%，抗击退概率（被攻击时）：#y%" />
+        <string name="pdesc" value="进一步增强美洲豹骑手技能。" />
+        <string name="ph" value="骑乘时 - 移动速度：+#x，抗击退概率（被攻击时）：#y%" />
+    </imgdir>

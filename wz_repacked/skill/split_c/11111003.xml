@@ -1,0 +1,7 @@
+<imgdir name="11111003">
+        <string name="name" value="昏迷" />
+        <string name="desc" value="对多个敌人同时造成伤害并有几率使其眩晕！需要连击数达到1以上才能使用。\n需要技能：#c连击攻击 Lv. 1#" />
+        <string name="h" value="#mpCon MP and #y combo orbs are used to deal #damage% on #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="对多个敌人同时造成伤害并有几率使其眩晕！需要连击数达到1以上才能使用。\n需要技能：#c连击攻击 Lv. 1#" />
+        <string name="ph" value="#mpCon MP and #y combo orbs are used to deal #damage% damage to #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time\nCooldown: #cooltime sec" />
+    </imgdir>

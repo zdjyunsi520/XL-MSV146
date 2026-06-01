@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="6300001">
+		<string name="name" value="变形雪人"/>
+	</imgdir>
+    <imgdir name="6300002">
+		<string name="name" value="分离的雪人"/>
+	</imgdir>
+    <imgdir name="6300003">
+		<string name="name" value="蓬科"/>
+	</imgdir>
+    <imgdir name="6300004">
+		<string name="name" value="帕丘"/>
+	</imgdir>
+    <imgdir name="6300005">
+		<string name="name" value="僵尸蘑菇妈妈"/>
+	</imgdir>
+    <imgdir name="6300100">
+		<string name="name" value="小丑"/>
+	</imgdir>
+    <imgdir name="6400000">
+		<string name="name" value="暗黑雪人"/>
+	</imgdir>
+    <imgdir name="6400001">
+		<string name="name" value="变形暗黑雪人"/>
+	</imgdir>
+    <imgdir name="6400002">
+		<string name="name" value="分离的暗黑雪人"/>
+	</imgdir>
+    <imgdir name="6400003">
+		<string name="name" value="库斯科"/>
+	</imgdir>
+    <imgdir name="6400004">
+		<string name="name" value="奥帕丘"/>
+	</imgdir>
+    <imgdir name="6400005">
+		<string name="name" value="小巴洛格"/>
+	</imgdir>
+    <imgdir name="6400100">
+		<string name="name" value="深层小丑"/>
+	</imgdir>
+    <imgdir name="7090000">
+		<string name="name" value="监控摄像头"/>
+	</imgdir>
+    <imgdir name="7110300">
+		<string name="name" value="D.罗伊"/>
+	</imgdir>
+    <imgdir name="7110301">
+		<string name="name" value="人造人"/>
+	</imgdir>
+    <imgdir name="7130000">
+		<string name="name" value="露西达"/>
+	</imgdir>
+    <imgdir name="7130001">
+		<string name="name" value="刻耳柏洛斯"/>
+	</imgdir>
+    <imgdir name="7130002">
+		<string name="name" value="甲虫"/>
+	</imgdir>
+    <imgdir name="7130003">
+		<string name="name" value="双重甲虫"/>
+	</imgdir>
+</imgdir>

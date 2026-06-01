@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9501035">
+		<string name="name" value="永不停止（135）"/>
+	</imgdir>
+    <imgdir name="9501036">
+		<string name="name" value="失明（136）"/>
+	</imgdir>
+    <imgdir name="9501037">
+		<string name="name" value="冰冻（137）"/>
+	</imgdir>
+    <imgdir name="9501038">
+		<string name="name" value="隐藏潜能无效化（138）"/>
+	</imgdir>
+    <imgdir name="9501039">
+		<string name="name" value="硬皮（142）"/>
+	</imgdir>
+    <imgdir name="9501040">
+		<string name="name" value="免疫武器反击（143）"/>
+	</imgdir>
+    <imgdir name="9501041">
+		<string name="name" value="免疫魔法反击（144）"/>
+	</imgdir>
+    <imgdir name="9501042">
+		<string name="name" value="免疫武器和魔法反击（145）"/>
+	</imgdir>
+    <imgdir name="9501043">
+		<string name="name" value="改变物理攻击力（150）"/>
+	</imgdir>
+    <imgdir name="9501044">
+		<string name="name" value="改变魔法攻击力（151）"/>
+	</imgdir>
+    <imgdir name="9501045">
+		<string name="name" value="改变物理防御力（152）"/>
+	</imgdir>
+    <imgdir name="9501046">
+		<string name="name" value="改变魔法防御力（153）"/>
+	</imgdir>
+    <imgdir name="9501047">
+		<string name="name" value="改变命中（154）"/>
+	</imgdir>
+    <imgdir name="9501048">
+		<string name="name" value="改变回避（155）"/>
+	</imgdir>
+    <imgdir name="9501049">
+		<string name="name" value="改变速度（156）"/>
+	</imgdir>
+    <imgdir name="9501050">
+		<string name="name" value="传送（170）"/>
+	</imgdir>
+    <imgdir name="9501051">
+		<string name="name" value="召唤（200）"/>
+	</imgdir>
+    <imgdir name="9300383">
+		<string name="name" value="教程穆鲁"/>
+	</imgdir>
+    <imgdir name="2100103">
+		<string name="name" value="仙人掌"/>
+	</imgdir>
+    <imgdir name="2100104">
+		<string name="name" value="皇家仙人掌"/>
+	</imgdir>
+</imgdir>

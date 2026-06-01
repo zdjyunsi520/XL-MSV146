@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1211"><string name="bookName" value="Adv. Flame Magic"/></imgdir>
+    <imgdir name="1212"><string name="bookName" value="Premium Flame Magic"/></imgdir>
+    <imgdir name="1300"><string name="bookName" value="Intro of the Wind Archer"/></imgdir>
+    <imgdir name="1310"><string name="bookName" value="Skill of the Wind Archer"/></imgdir>
+    <imgdir name="1311"><string name="bookName" value="Path of the Wind Archer"/></imgdir>
+    <imgdir name="1312"><string name="bookName" value="Completion of the Wind Archer"/></imgdir>
+    <imgdir name="1400"><string name="bookName" value="The Night Walker Guide"/></imgdir>
+    <imgdir name="1410"><string name="bookName" value="Night Walker Guide"/></imgdir>
+    <imgdir name="1411"><string name="bookName" value="Night Walker&apos;s Path"/></imgdir>
+    <imgdir name="1412"><string name="bookName" value="Night Walker Secrets"/></imgdir>
+    <imgdir name="1500"><string name="bookName" value="Intro to the Thunder Breaker"/></imgdir>
+    <imgdir name="1510"><string name="bookName" value="Thunder Breaker guide"/></imgdir>
+    <imgdir name="1511"><string name="bookName" value="Path of the Thunder Breaker"/></imgdir>
+    <imgdir name="1512"><string name="bookName" value="Completion of Thunder Breaker"/></imgdir>
+    <imgdir name="2000"><string name="bookName" value="Legendary Skill"/></imgdir>
+    <imgdir name="2001"><string name="bookName" value="Beginner Master"/></imgdir>
+    <imgdir name="2002"><string name="bookName" value="Elf Basics"/></imgdir>
+    <imgdir name="2100"><string name="bookName" value="Aran"/></imgdir>
+    <imgdir name="2110"><string name="bookName" value="Aran"/></imgdir>
+    <imgdir name="2111"><string name="bookName" value="Aran"/></imgdir>
+</imgdir>

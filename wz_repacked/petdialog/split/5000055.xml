@@ -1,0 +1,280 @@
+<imgdir name="5000055">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Ahhhh!"/>
+		<string name="c1_s2" value="My legs were hurting..."/>
+		<string name="c1_s3" value="How did you know my legs hurt?"/>
+		<string name="c1_s4" value="I need some rest..."/>
+		<string name="c1_f1" value="Let me know the last time you've seen a reindeer sit. "/>
+		<string name="c1_f2" value="Me? Sit here? I'm going to get dirty, then."/>
+		<string name="c1_f3" value="No, YOU sit!"/>
+		<string name="c1_f4" value="I can only sit on top of a clean field of snow, you know."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Oh, this is a perfect place to sit!"/>
+		<string name="c2_s2" value="I'm going to sit back, relax and enjoy the show. "/>
+		<string name="c2_s3" value="So then, you were all like &quot;Sit&quot; and I did it. w00t!"/>
+		<string name="c2_s4" value="I'm really tired. I think it's a perfect time to sit."/>
+		<string name="c2_f1" value="Did you just order me to do something?"/>
+		<string name="c2_f2" value="I am a revered pet. Don't like it? Get a dog."/>
+		<string name="c2_f3" value="I am not like other pets. I sit when I want to!"/>
+		<string name="c2_f4" value="No chair, no deal!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="I'm hungry, too..."/>
+		<string name="c3_s2" value="Ahhh... YES."/>
+		<string name="c3_s3" value="My knees are creaking from all that walking.  A non-running reindeer is toast!"/>
+		<string name="c3_s4" value="Good, I felt like sitting down."/>
+		<string name="c3_f1" value="No way! Not on the bare ground!"/>
+		<string name="c3_f2" value="Hey, I'm the most revered pet in Happyville. Treat me with respect!"/>
+		<string name="c3_f3" value="And... what were you saying?"/>
+		<string name="c3_f4" value="How dare you give me commands."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Thanks. Finally time for some rest."/>
+		<string name="c4_s2" value="I'm soooo tired, I feel like falling asleep."/>
+		<string name="c4_s3" value="Ahhhh, it's been a loooong day."/>
+		<string name="c4_s4" value="Okay, now that I'm sitting down, you got something to tell me?"/>
+		<string name="c4_f1" value="I don't speak your language!"/>
+		<string name="c4_f2" value="What are you saying...?"/>
+		<string name="c4_f3" value="I don't understand why you'd want me to sit all of a sudden..."/>
+		<string name="c4_f4" value="I am not tired, thank you very much."/>
+		<string name="c5" value="no|badgirl|badboy|bad"/>
+		<string name="c5_s1" value="Sniff sniff.."/>
+		<string name="c5_s2" value="Why me..."/>
+		<string name="c5_s3" value="Seriously... why me..."/>
+		<string name="c5_s4" value="What did I do wrong? Why are you so mad at me..."/>
+		<string name="c5_f1" value="Whatever, foolish one."/>
+		<string name="c5_f2" value="I'm the most revered pet in Happyville. Don't yell at me!"/>
+		<string name="c5_f3" value="I didn't do anything wrong."/>
+		<string name="c5_f4" value="Take a look at yourself in the mirror first."/>
+		<string name="c6" value="no|badgirl|badboy|bad"/>
+		<string name="c6_s1" value="Ahhhh... sniff sniff..."/>
+		<string name="c6_s2" value="Why do you keep picking on me...?"/>
+		<string name="c6_s3" value="I didn't do anything wrong... sniff sniff..."/>
+		<string name="c6_s4" value="I'm going to tell Santa what you're doing to me..."/>
+		<string name="c6_f1" value="Why not?"/>
+		<string name="c6_f2" value="Why are you yelling at me? I don't understand what I did wrong."/>
+		<string name="c6_f3" value="This is how you treat me all the time. I don't buy it."/>
+		<string name="c6_f4" value="I don't have a problem. I think it's you with a problem."/>
+		<string name="c7" value="no|badgirl|badboy|bad"/>
+		<string name="c7_s1" value="What did I do wrong? Tell me... sniff sniff..."/>
+		<string name="c7_s2" value="You don't need to raise your voice to get your message across... sniff sniff.."/>
+		<string name="c7_s3" value="Don't yell at me... you're scaring me..."/>
+		<string name="c7_s4" value="Sniff sniff..."/>
+		<string name="c7_f1" value="I didn't do anything wrong. I swear."/>
+		<string name="c7_f2" value="What? Huh?"/>
+		<string name="c7_f3" value="What do you think you're doing yelling at me?"/>
+		<string name="c7_f4" value="Whatever. Psssh."/>
+		<string name="c8" value="no|badgirl|badboy|bad"/>
+		<string name="c8_s1" value="Noo... no...."/>
+		<string name="c8_s2" value="I'm going back to Santa's house... sniff sniff..."/>
+		<string name="c8_s3" value="Why do you keep picking on me... sniff sniff..."/>
+		<string name="c8_s4" value="I'm the most revered pet in Happyville... why..."/>
+		<string name="c8_f1" value="Excuse-moi?"/>
+		<string name="c8_f2" value="Huh?"/>
+		<string name="c8_f3" value="Stop talking to me in gibberish!"/>
+		<string name="c8_f4" value="What in the world are you saying...?"/>
+		<string name="c9" value="bleh|joke"/>
+		<string name="c9_s1" value="Blehhh!"/>
+		<string name="c9_s2" value="So, wanna hear about the time I gave Santa a noogie?"/>
+		<string name="c9_s3" value="Mweeehhh!!"/>
+		<string name="c9_s4" value="Lalala!! Lalala!!!"/>
+		<string name="c9_f1" value="Um... what are you doing?"/>
+		<string name="c9_f2" value="I don't know what you're trying to do..."/>
+		<string name="c9_f3" value="Since when did I do stuff like that?"/>
+		<string name="c9_f4" value="Whatever..."/>
+		<string name="c10" value="bleh|joke"/>
+		<string name="c10_s1" value="Blehhh!"/>
+		<string name="c10_s2" value="So...yea..."/>
+		<string name="c10_s3" value="So, wanna hear about the time I gave Santa a hug?"/>
+		<string name="c10_s4" value="What are you going to do? You can't stop me!"/>
+		<string name="c10_f1" value="...Uh... what?"/>
+		<string name="c10_f2" value="Whatever...whatever..."/>
+		<string name="c10_f3" value="Don't do anything stupid here. You're embarassing me."/>
+		<string name="c10_f4" value="I can't bleh."/>
+		<string name="c11" value="bleh|joke"/>
+		<string name="c11_s1" value="Blehhh!"/>
+		<string name="c11_s2" value="I joke, I joke!"/>
+		<string name="c11_s3" value="I kid, I kid!"/>
+		<string name="c11_s4" value="So, wanna hear about the time I left Santa a present?"/>
+		<string name="c11_f1" value="I don't feel like doing that."/>
+		<string name="c11_f2" value="You must be reaaaaally bored."/>
+		<string name="c11_f3" value="No, it adds wrinkles to my face."/>
+		<string name="c11_f4" value="No!!"/>
+		<string name="c12" value="bleh|joke"/>
+		<string name="c12_s1" value="Blehhh!"/>
+		<string name="c12_s2" value="This one time, at reindeer camp, I ate a cookie. "/>
+		<string name="c12_s3" value="Meh. That guy needs a new haircut."/>
+		<string name="c12_s4" value="Ugh. Tell her to get her hair done!"/>
+		<string name="c12_f1" value="Excuse-moi?"/>
+		<string name="c12_f2" value="Since when did I do juvenile things like this?"/>
+		<string name="c12_f3" value=" YES! (No)"/>
+		<string name="c12_f4" value="Your desperate attempts for my attention is not working."/>
+		<string name="c13" value="disguise|transform"/>
+		<string name="c13_s1" value="You'll see the REAL me now... ahhh!"/>
+		<string name="c13_s2" value="Stand back!"/>
+		<string name="c13_s3" value="Watch me transform!"/>
+		<string name="c13_s4" value="Allow me..."/>
+		<string name="c13_f1" value="I don't feel like doing anything right now."/>
+		<string name="c13_f2" value="Um.. I don't know how to do that."/>
+		<string name="c13_f3" value="Never order me like that."/>
+		<string name="c13_f4" value="I'm too tired to do this right now."/>
+		<string name="c14" value="disguise|transform"/>
+		<string name="c14_s1" value="Ahahaha .. Gorgeous, right?"/>
+		<string name="c14_s2" value="Yes yes, I am good at this."/>
+		<string name="c14_s3" value="Look closely. This is a momentous occasion, you know."/>
+		<string name="c14_s4" value="Look at my antlers! Perfect!"/>
+		<string name="c14_f1" value="How about...NO!"/>
+		<string name="c14_f2" value="What do you want me to do??"/>
+		<string name="c14_f3" value="I'm not a Brawler!"/>
+		<string name="c14_f4" value="You must be tripping."/>
+		<string name="c15" value="disguise|transform"/>
+		<string name="c15_s1" value="Haaahhh!"/>
+		<string name="c15_s2" value="More than meets the--Oops.  Can't say that!"/>
+		<string name="c15_s3" value="I feel something holy going around here."/>
+		<string name="c15_s4" value="Allow me to show you who I really am. Tada!"/>
+		<string name="c15_f1" value="I'm too young to do that just yet."/>
+		<string name="c15_f2" value="I'm too tired to do it. Seriously."/>
+		<string name="c15_f3" value="I don't feel like doing anything right now. I'll do it later."/>
+		<string name="c15_f4" value="I look awesome right now. I don't need to do that."/>
+		<string name="c16" value="disguise|transform"/>
+		<string name="c16_s1" value="Time for me to dust off my go-to move."/>
+		<string name="c16_s2" value="Don't you wish you could do this?"/>
+		<string name="c16_s3" value="Allow me to show you why I'm the most revered pet in Happyville."/>
+		<string name="c16_s4" value="I shimmer like a diamond!"/>
+		<string name="c16_f1" value="I have no idea what you want me to do."/>
+		<string name="c16_f2" value="Eh?"/>
+		<string name="c16_f3" value="I am a revered pet from Happyville. I do not take any orders from anyone."/>
+		<string name="c16_f4" value="Um... excuse me? What did you just say?"/>
+		<string name="c17" value="awesome|feelgood|lalala"/>
+		<string name="c17_s1" value="Wow, I feel good!"/>
+		<string name="c17_s2" value="This is a great day!"/>
+		<string name="c17_s3" value="I am too hot. Seriously, way too hot."/>
+		<string name="c17_s4" value="I feel maarrrvelous!"/>
+		<string name="c17_f1" value="Pssh, whatever."/>
+		<string name="c17_f2" value="Don't touch me. I'm not in a mood."/>
+		<string name="c17_f3" value="I feel like bleh."/>
+		<string name="c17_f4" value="Talk to my hand."/>
+		<string name="c18" value="awesome|feelgood|lalala"/>
+		<string name="c18_s1" value="Awesome!"/>
+		<string name="c18_s2" value="Now that makes me feel great today!"/>
+		<string name="c18_s3" value="La la la what a wonderful day!"/>
+		<string name="c18_s4" value="Isn't it beautiful outside?"/>
+		<string name="c18_f1" value="I feel tired. Not today."/>
+		<string name="c18_f2" value="I think you're the only one feeling good today."/>
+		<string name="c18_f3" value="What makes you feel so good there?"/>
+		<string name="c18_f4" value="Nah. Not feeling it."/>
+		<string name="c19" value="awesome|feelgood|lalala"/>
+		<string name="c19_s1" value="Just thinking about that makes my day."/>
+		<string name="c19_s2" value="Hehehehe."/>
+		<string name="c19_s3" value="I feel like flying!!"/>
+		<string name="c19_s4" value="I hope you have a great day today!"/>
+		<string name="c19_f1" value="Why are you smiling?"/>
+		<string name="c19_f2" value="Kick tail!"/>
+		<string name="c19_f3" value="Did you win a lottery?"/>
+		<string name="c19_f4" value="Are you going out with someone?"/>
+		<string name="c20" value="awesome|feelgood|lalala"/>
+		<string name="c20_s1" value="Awesome!!"/>
+		<string name="c20_s2" value="I had a sweet dream, you know?"/>
+		<string name="c20_s3" value="Of course I'm happy. I'm with you!"/>
+		<string name="c20_s4" value="I feel so blessed right now."/>
+		<string name="c20_f1" value="Did something happen to you?"/>
+		<string name="c20_f2" value="Did you do well on the exam? No way."/>
+		<string name="c20_f3" value="With me, you'll never get bored!"/>
+		<string name="c20_f4" value="Eh?"/>
+		<string name="c21" value="loveyou|heybabe"/>
+		<string name="c21_s1" value="I love you too."/>
+		<string name="c21_s2" value="I am so happy to hear that!"/>
+		<string name="c21_s3" value="Hey babe!"/>
+		<string name="c21_s4" value="I like you!"/>
+		<string name="c21_f1" value="Don't just say it. Show me!"/>
+		<string name="c21_f2" value="Duuuuuude... no."/>
+		<string name="c21_f3" value="So many fans..."/>
+		<string name="c21_f4" value="I don't just love anybody, you know."/>
+		<string name="c22" value="loveyou|heybabe"/>
+		<string name="c22_s1" value="I L.O.V.E. Y.O.U.!"/>
+		<string name="c22_s2" value="I think we're a match made in heaven."/>
+		<string name="c22_s3" value="Just look at me. Nobody else, okay?"/>
+		<string name="c22_s4" value="Keep saying that. I like hearing that."/>
+		<string name="c22_f1" value="You can't just say that. You'll have to show me you love me."/>
+		<string name="c22_f2" value="I'm sorry, but I have someone else in mind."/>
+		<string name="c22_f3" value="I understand that you love me, but I don't think it's time."/>
+		<string name="c22_f4" value="Hey, you are already seeing someone anyway!"/>
+		<string name="c23" value="loveyou|heybabe"/>
+		<string name="c23_s1" value="I love you too!"/>
+		<string name="c23_s2" value="I will love you til the end of the road."/>
+		<string name="c23_s3" value="I love you!!"/>
+		<string name="c23_s4" value="Please don't leave me..."/>
+		<string name="c23_f1" value="What? Since when?"/>
+		<string name="c23_f2" value="I am way too popular for my own good."/>
+		<string name="c23_f3" value="The feeling is not mutual."/>
+		<string name="c23_f4" value="I have someone else..."/>
+		<string name="c24" value="loveyou|heybabe"/>
+		<string name="c24_s1" value="I love you soo much!"/>
+		<string name="c24_s2" value="I love you!!"/>
+		<string name="c24_s3" value="Please don't leave me!"/>
+		<string name="c24_s4" value="You are all I've got!"/>
+		<string name="c24_f1" value="What makes you think you're worthy of my love?"/>
+		<string name="c24_f2" value="Hey, don't lie to me."/>
+		<string name="c24_f3" value="What did you just say? Whoa..."/>
+		<string name="c24_f4" value="Are you trying to tell me you love me??"/>
+		<string name="c25" value="talk|say|chat"/>
+		<string name="c25_s1" value="Do you want to hear a story about the Snow Queen? Once upon a time..."/>
+		<string name="c25_s2" value="Do you want to hear more? Okay here we go..."/>
+		<string name="c25_s3" value="You like my stories? I ever tell you about the Snow Queen?"/>
+		<string name="c25_s4" value="For some strange reason, I feel at home in El Nath..."/>
+		<string name="c25_f1" value="You need a mint!"/>
+		<string name="c25_f2" value="What exactly do you want me to say?"/>
+		<string name="c25_f3" value="I'm too thirsty to say anything right now."/>
+		<string name="c25_f4" value="I don't want to talk to humans."/>
+		<string name="c26" value="talk|say|chat"/>
+		<string name="c26_s1" value="Once upon a time, in a snow castle far, far away..."/>
+		<string name="c26_s2" value="Okay so do you want to know where I came from? I'm from the west."/>
+		<string name="c26_s3" value="Passion, vigor, and pride!  That's the reindeer way!"/>
+		<string name="c26_s4" value="This year, Santa said I could take the holidays off, so here I am!"/>
+		<string name="c26_f1" value="Today's not the best day to chat."/>
+		<string name="c26_f2" value="I am hungry, and I am tired. Let's talk next time."/>
+		<string name="c26_f3" value="I don't feel like saying anything."/>
+		<string name="c26_f4" value="I have nothing to say."/>
+		<string name="c27" value="talk|say|chat"/>
+		<string name="c27_s1" value="My crystal form is a lot like the Glimmer Man's. "/>
+		<string name="c27_s2" value="Are you ready for an all-night chat fest?"/>
+		<string name="c27_s3" value="You know, I have some funny stories you'll love to hear."/>
+		<string name="c27_s4" value="Okay, then here's a story about the snow castle I used to live in. Way back in the day..."/>
+		<string name="c27_f1" value="I am the most revered pet in Happyville. I only talk when I feel like talking."/>
+		<string name="c27_f2" value="What do you want me to say?"/>
+		<string name="c27_f3" value="Uh.... What? I don't understand your moonspeak."/>
+		<string name="c27_f4" value="Que?"/>
+		<string name="c28" value="sleep|sleepy|nap|gotobed"/>
+		<string name="c28_s1" value="Ahh... time to go to bed."/>
+		<string name="c28_s2" value="Z...Z.."/>
+		<string name="c28_s3" value="Sweet dreams..."/>
+		<string name="c28_s4" value="I'm sleeeepy..."/>
+		<string name="c28_f1" value="Why do you keep asking me to fall asleep...?"/>
+		<string name="c28_f2" value="I don't feel like sleeping yet."/>
+		<string name="c28_f3" value="Why don't you sleep first?"/>
+		<string name="c28_f4" value="No, I do not feel like it."/>
+		<string name="c29" value="sleep|sleepy|nap|gotobed"/>
+		<string name="c29_s1" value="Zzzzzzzzz...zzzzzzz"/>
+		<string name="c29_s2" value="Sweet dreams, master."/>
+		<string name="c29_s3" value="This is very comfy..."/>
+		<string name="c29_s4" value="I've been sleepy all day..."/>
+		<string name="c29_f1" value="No, I feel like playing some more."/>
+		<string name="c29_f2" value="I'm so hungry, I can't sleep yet."/>
+		<string name="c29_f3" value="I don't feel like sleeping right now."/>
+		<string name="c29_f4" value="No, no, no."/>
+		<string name="c30" value="sleep|sleepy|nap|gotobed"/>
+		<string name="c30_s1" value="Hmmm... this pillow is so comfortable."/>
+		<string name="c30_s2" value="I ... am ... so ... tired ... I ... must ... sleep ..."/>
+		<string name="c30_s3" value="Thanks. Time for me to go to bed."/>
+		<string name="c30_s4" value="Sweet dreams!!"/>
+		<string name="c30_f1" value="Hey, it's not bed time yet!!"/>
+		<string name="c30_f2" value="Sleep is for the weak."/>
+		<string name="c30_f3" value="A revered pet like me shouldn't waste time sleeping."/>
+		<string name="c30_f4" value="It's beautiful outside. Why should I sleep right now?"/>
+		<string name="f1_s" value="Yum!"/>
+		<string name="f1_f" value="This is really gross. Don't you have any Snowflakes? Or pie?"/>
+		<string name="f2_s" value="Oh... this is really good."/>
+		<string name="f2_f" value="Why do you keep giving me stuff like this?"/>
+		<string name="f3_s" value="This is better than anything I've had in a while."/>
+		<string name="f3_f" value="I am really, really hungry.  This doesn't cut it."/>
+		<string name="f4_s" value="Oh yeah!  Awesome."/>
+		<string name="f4_f" value="Bleh. Are you trying to kill me?"/>
+	</imgdir>

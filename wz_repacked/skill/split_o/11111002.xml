@@ -1,0 +1,7 @@
+<imgdir name="11111002">
+        <string name="name" value="Panic" />
+        <string name="desc" value="Deals damage to multiple enemies and decreases their attack power, with a chance to inflict blindness. Only possible with a combo count of 2 or more. Panic&apos;s blindness effect is applicable to all monsters, but its duration is cut in half against bosses.\nRequired Skill: #cCombo Attack Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, #y combo orbs are used to deal #damage% damage on #mobCount enemies, Enemy Attack: -#z%, Blind Chance: #prop%, Enemy Accuracy (when Blind): -#x%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Deals damage to multiple enemies and decreases their attack power, with a chance to inflict blindness. Only possible with a combo count of 2 or more. \nRequired Skill: #cCombo Attack Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, #y combo orbs are used to deal #damage% damage on #mobCount enemies, Enemy Attack: -#z%, Blind Chance: #prop%, Enemy Accuracy (when Blind): -#x%\nCooldown: #cooltime sec" />
+    </imgdir>

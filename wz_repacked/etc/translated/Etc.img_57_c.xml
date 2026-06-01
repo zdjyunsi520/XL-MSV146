@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001454">
+			<string name="name" value="平台人偶"/>
+			<string name="desc" value="为人们踩平台的人偶。对组队任务应该有用"/>
+		</imgdir>
+    <imgdir name="4001455">
+			<string name="name" value="海盗船长帽子碎片"/>
+			<string name="desc" value="海盗船长破帽子的碎片"/>
+		</imgdir>
+    <imgdir name="4001458">
+			<string name="name" value="柯里斯塔诺碎片"/>
+			<string name="desc" value="未来使用的能源。操作冰机器-阿尔法所需的物品"/>
+		</imgdir>
+    <imgdir name="4001459">
+			<string name="name" value="能量块"/>
+			<string name="desc" value="使用能源转换装置产生能量"/>
+		</imgdir>
+    <imgdir name="4001460">
+			<string name="name" value="惊喜风格印章"/>
+			<string name="desc" value="兑换惊喜风格盒子物品时获得的印章。收集足够的印章可以兑换神秘惊喜风格盒子"/>
+		</imgdir>
+    <imgdir name="4001473">
+			<string name="name" value="圣诞树装饰品"/>
+			<string name="desc" value="通过把它交给白色圣诞节的黑色鼻子毛皮来装饰一棵树"/>
+		</imgdir>
+    <imgdir name="4001480">
+			<string name="name" value="新手秘密矿洞入场券"/>
+			<string name="desc" value="#c制作大开幕#\n柯尔送给1-2级矿工的特别礼物。允许你通过#c阿尔蒂米尔#下层的传送门进入秘密矿洞。矿洞有#c10分钟的时间限制#。\n每天可以进入3次"/>
+		</imgdir>
+    <imgdir name="4001481">
+			<string name="name" value="中级秘密矿洞入场券"/>
+			<string name="desc" value="#c制作大开幕#\n柯尔送给3-4级矿工的特别礼物。允许你通过#c阿尔蒂米尔#下层的传送门进入秘密矿洞。矿洞有#c10分钟的时间限制#。\n每天可以进入3次"/>
+		</imgdir>
+    <imgdir name="4001482">
+			<string name="name" value="新手秘密草药田入场券"/>
+			<string name="desc" value="#c制作大开幕#\n藏红花送给1-2级草药师的特别礼物。允许你通过#c阿尔蒂米尔#下层的传送门进入秘密草药田。草药田有#c10分钟的时间限制#。\n每天可以进入3次"/>
+		</imgdir>
+    <imgdir name="4001483">
+			<string name="name" value="中级秘密草药田入场券"/>
+			<string name="desc" value="#c制作大开幕#\n藏红花送给3-4级草药师的特别礼物。允许你通过#c阿尔蒂米尔#下层的传送门进入秘密草药田。草药田有#c10分钟的时间限制#。\n每天可以进入3次"/>
+		</imgdir>
+    <imgdir name="4001512">
+			<string name="name" value="古代文物竞赛双倍积分券"/>
+			<string name="desc" value="此优惠券允许你在古代文物竞赛中获得双倍积分"/>
+		</imgdir>
+    <imgdir name="4001513">
+			<string name="name" value="斑马条纹入场券碎片"/>
+			<string name="desc" value="进入怪物公园所需的门票的一部分。收集10个可以兑换1张斑马条纹入场券"/>
+		</imgdir>
+    <imgdir name="4001514">
+			<string name="name" value="斑马条纹入场券"/>
+			<string name="desc" value="允许进入斯皮格尔曼怪物公园的入场券。仅限进入60-95级的地下城"/>
+		</imgdir>
+    <imgdir name="4001515">
+			<string name="name" value="豹纹入场券碎片"/>
+			<string name="desc" value="进入怪物公园所需的门票的一部分。收集10个可以兑换1张豹纹入场券"/>
+		</imgdir>
+    <imgdir name="4001516">
+			<string name="name" value="豹纹入场券"/>
+			<string name="desc" value="允许进入斯皮格尔曼怪物公园的入场券。仅限进入135-165级的地下城"/>
+		</imgdir>
+    <imgdir name="4001517">
+			<string name="name" value="樱花花瓣"/>
+			<string name="desc" value="赫尼西亚的樱花花瓣。收集20个带给花之精灵可以收到礼物"/>
+		</imgdir>
+    <imgdir name="4001518">
+			<string name="name" value="海豚食物"/>
+			<string name="desc" value="海豚喜爱的食物。当粉色海豚出现时，你可以和它说话并给它食物"/>
+		</imgdir>
+    <imgdir name="4001519">
+			<string name="name" value="寻宝'你输了'纸条"/>
+			<string name="desc" value="画有炸弹图案的寻宝纸条。这可能意味着你输了。\n#c你可以收集这些'你输了'纸条，向胡珀兑换美味的东西"/>
+		</imgdir>
+    <imgdir name="4001521">
+			<string name="name" value="虎纹入场券碎片"/>
+			<string name="desc" value="进入怪物公园所需的门票的一部分。收集10个可以兑换1张虎纹入场券"/>
+		</imgdir>
+    <imgdir name="4001522">
+			<string name="name" value="虎纹入场券"/>
+			<string name="desc" value="允许进入斯皮格尔曼怪物公园的入场券。仅限进入160级以上的地下城"/>
+		</imgdir>
+</imgdir>

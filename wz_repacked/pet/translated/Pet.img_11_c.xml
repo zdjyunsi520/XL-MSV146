@@ -1,0 +1,77 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000072">
+		<string name="name" value="臭鼬"/>
+		<string name="desc" value="明明这么可爱，为什么味道这么臭呢？"/>
+		<string name="descD" value="你那可爱的臭鼬已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000314">
+		<string name="name" value="孙悟空"/>
+		<string name="desc" value="孙悟空从花蛇那里跑掉了，现在跑来跟你混了！"/>
+		<string name="descD" value="你那厉害的孙悟空朋友已经变成了玩偶。"/>
+	</imgdir>
+    <imgdir name="5000315">
+		<string name="name" value="哈士奇"/>
+		<string name="desc" value="这只哈士奇很聪明、很活泼又很忠诚。你只需要好好喂它就行~"/>
+		<string name="descD" value="你的小哈士奇朋友已经变成了玩偶。"/>
+	</imgdir>
+    <imgdir name="5000317">
+		<string name="name" value="冰骑士"/>
+		<string name="desc" value="冰骑士来啦，你冰冷冷的小伙伴！\n#c技能：自动增益、金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那冷酷的冰骑士已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000320">
+		<string name="name" value="粉色犰狳"/>
+		<string name="desc" value="一只意志坚定的小犰狳伙伴。\n装备可获得#c犰狳护甲技能#，装备的犰狳宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="你的小犰狳伙伴已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000321">
+		<string name="name" value="黄色犰狳"/>
+		<string name="desc" value="一只意志坚定的小犰狳伙伴。\n装备可获得#c犰狳护甲技能#，装备的犰狳宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="你的小犰狳伙伴已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000322">
+		<string name="name" value="绿色犰狳"/>
+		<string name="desc" value="一只意志坚定的小犰狳伙伴。\n装备可获得#c犰狳护甲技能#，装备的犰狳宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="你的小犰狳伙伴已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000328">
+		<string name="name" value="冯汤"/>
+		<string name="desc" value="就算是邪恶的大魔王偶尔也需要泡个热水澡，尤其是这只小鸟~"/>
+		<string name="descD" value="你的迷你根源深渊宠物已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000362">
+		<string name="name" value="RED鲁道夫"/>
+		<string name="desc" value="RED鲁道夫来啦！它突破了冰封雪域的狼群，就为了赶到RED更新现场！"/>
+		<string name="descD" value="你的RED鲁道夫已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000363">
+		<string name="name" value="RED雪人"/>
+		<string name="desc" value="RED雪人来啦！它住在扎昆附近的洞穴里，就为了赶到RED更新现场！"/>
+		<string name="descD" value="你的RED迷你雪人已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000364">
+		<string name="name" value="RED企鹅"/>
+		<string name="desc" value="RED企鹅来啦！它从里埃纳海峡最深处游过来，就为了参加RED更新！"/>
+		<string name="descD" value="你的RED企鹅已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000176">
+		<string name="name" value="袋鼠"/>
+		<string name="desc" value="一只蹦蹦跳跳的小袋鼠，自以为是内陆这边最强壮的家伙~"/>
+		<string name="descD" value="你的袋鼠已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000369">
+		<string name="name" value="小莱"/>
+		<string name="desc" value="这只超可爱的小莱宠物只想交个朋友！\n装备可获得#c猛兽之力技能#，装备的小兽宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="小莱已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000371">
+		<string name="name" value="小阿比"/>
+		<string name="desc" value="一只可爱的小阿比。\n装备可获得#c猛兽之力技能#，装备的小兽宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="小阿比已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000370">
+		<string name="name" value="小福"/>
+		<string name="desc" value="小福是一只超可爱的宠物，最爱抱抱和美食。\n装备可获得#c猛兽之力技能#，装备的小兽宠物越多技能越强（最多3只）。"/>
+		<string name="descD" value="小福已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+</imgdir>

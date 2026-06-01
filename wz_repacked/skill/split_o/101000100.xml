@@ -1,0 +1,5 @@
+<imgdir name="101000100">
+        <string name="name" value="Air Raid" />
+        <string name="desc" value="Attacks enemies in front of you, stomping on them in midair.\n[Skill Requirement]: #cRising Slash Lv. 1# \n[Command]: Use #cRising Slash# twice in a row." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="3101005">
+        <string name="name" value="爆裂箭" />
+        <string name="desc" value="发射附有炸弹的箭矢，暂时眩晕目标及目标附近的敌人~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #x%, 最大怪物数: 6, 眩晕时间: #time秒, 眩晕几率: #prop%" />
+        <string name="pdesc" value="发射附有炸弹的箭矢，暂时眩晕目标及目标附近的敌人~" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #x%, 最大敌人数: #mobCount, 眩晕时间: #time秒, 眩晕几率: #prop%" />
+        <string name="hch" value="MP消耗: #mpCon, 伤害: #x%, 最大敌人数: 6, 眩晕时间: #hcTime秒, 眩晕几率: #hcProp%" />
+    </imgdir>

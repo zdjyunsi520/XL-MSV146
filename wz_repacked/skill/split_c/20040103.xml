@@ -1,0 +1,5 @@
+<imgdir name="20040103">
+        <string name="name" value="冰裂斩" />
+        <string name="pdesc" value="猛击敌人，有概率使其眩晕！冰量表达到#c5以上#时可以使用。\n[指令：#c↓+攻击键#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+    </imgdir>

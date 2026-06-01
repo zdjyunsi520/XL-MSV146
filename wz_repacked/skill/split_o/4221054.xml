@@ -1,0 +1,5 @@
+<imgdir name="4221054">
+        <string name="name" value="Flip of the Coin" />
+        <string name="desc" value="Flips a lucky coin to conjure up a blessing of awesomeness." />
+        <string name="h" value="Can only use when you land a critical attack. MP Cost: #mpCon, Duration: #time sec, Damage: #indieDamR%, Critical Chance: #x%, Max Damage: #indieMaxDamageOver, Max Stacks: #y" />
+    </imgdir>

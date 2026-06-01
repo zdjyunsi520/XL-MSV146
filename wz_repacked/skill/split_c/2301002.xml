@@ -1,0 +1,8 @@
+<imgdir name="2301002">
+        <string name="name" value="治愈" />
+        <string name="desc" value="恢复周围所有队员的HP。技能范围内的怪物会短时间内受到的伤害增加。不死系怪物会受到额外伤害~" />
+        <string name="h" value="MP消耗: #mpCon, 回复量: #hp%, 最多#u个周围怪物受到#x%额外伤害。对最多#u个不死系怪物造成#damage%伤害" />
+        <string name="pdesc" value="恢复周围所有队员的HP。技能范围内的怪物会短时间内受到的伤害增加。不死系怪物会受到额外伤害~" />
+        <string name="ph" value="MP消耗: #mpCon, 回复量: #hp%, 最多#u个周围怪物受到#x%额外伤害。对最多#u个不死系怪物造成#damage%伤害" />
+        <string name="hch" value="MP消耗: #mpCon, 回复量: #hp%, 最多#u个周围怪物受到#x%额外伤害。对最多#u个不死系怪物造成#damage%伤害" />
+    </imgdir>

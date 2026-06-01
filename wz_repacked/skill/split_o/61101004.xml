@@ -1,0 +1,5 @@
+<imgdir name="61101004">
+        <string name="name" value="Blaze On" />
+        <string name="desc" value="Draw out inner strength to temporarily increase Attack Power and Speed." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Attack Power: +#indiePad, Attack Speed: +2" />
+    </imgdir>

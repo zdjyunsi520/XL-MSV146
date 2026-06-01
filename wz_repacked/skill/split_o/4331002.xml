@@ -1,0 +1,7 @@
+<imgdir name="4331002">
+        <string name="name" value="Mirror Image" />
+        <string name="desc" value="Summons a doppelganger that looks just like you to assist in attacks for a certain amount of time. Your doppelganger cannot use certain skills.\n#cLv.11 or above: Master Book required##" />
+        <string name="h" value="MP Cost: #mpCon, Doppleganger ATT: #x%, Duration: #time sec" />
+        <string name="pdesc" value="Summons a doppelganger that looks just like you to assist in attacks for a certain amount of time. Your doppelganger cannot use certain skills.\n#cLv.11 or above: Master Book required##" />
+        <string name="ph" value="MP Cost: #mpCon, Doppleganger ATT: #x%, Duration: #time sec" />
+    </imgdir>

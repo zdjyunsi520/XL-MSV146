@@ -1,0 +1,7 @@
+<imgdir name="1310016">
+        <string name="name" value="Hex of the Evil Eye" />
+        <string name="desc" value="Evil Eye uses a buff regularly when not in Free Attack mode." />
+        <string name="h" value="Frequency: every #x sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Critical Rate: #indieCr%, Magic DEF: +#emdd, Accuracy: +#acc, Avoidability: +#eva. Buff Duration: #time sec" />
+        <string name="pdesc" value="Evil Eye uses a buff regularly when not in Free Attack mode." />
+        <string name="ph" value="Frequency: every #x sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Critical Rate: #indieCr%, Magic DEF: +#emdd, Accuracy: +#acc, Avoidability: +#eva. Buff Duration: #time sec" />
+    </imgdir>

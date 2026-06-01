@@ -1,0 +1,7 @@
+<imgdir name="13101005">
+        <string name="name" value="风暴之刺" />
+        <string name="desc" value="借助风力射出可以攻击多个敌人的箭矢！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Penetrated: #mobCount" />
+        <string name="pdesc" value="借助风力射出可以攻击多个敌人的箭矢！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Penetrated: #mobCount" />
+    </imgdir>

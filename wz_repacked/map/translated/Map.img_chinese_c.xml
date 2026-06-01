@@ -1,0 +1,68 @@
+<imgdir name="Map.img">
+    <imgdir name="chinese">
+			<imgdir name="744000000">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="班主任教室"/>
+			</imgdir>
+			<imgdir name="744000001">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="学校天台"/>
+			</imgdir>
+			<imgdir name="744000002">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="保洁工具间"/>
+			</imgdir>
+			<imgdir name="744000003">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="校长室"/>
+			</imgdir>
+			<imgdir name="744000004">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="美术社团教室"/>
+			</imgdir>
+			<imgdir name="744000005">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="学校医务室"/>
+			</imgdir>
+			<imgdir name="744000006">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="废弃教室"/>
+			</imgdir>
+			<imgdir name="744000007">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="职业规划室"/>
+			</imgdir>
+			<imgdir name="744000008">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="突击测验小黑屋"/>
+			</imgdir>
+			<imgdir name="744000009">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="家政课教室"/>
+			</imgdir>
+			<imgdir name="744000010">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="体育馆"/>
+			</imgdir>
+			<imgdir name="744000011">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="理科实验室"/>
+			</imgdir>
+			<imgdir name="744000012">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="图书馆"/>
+			</imgdir>
+			<imgdir name="744000013">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="空教室"/>
+			</imgdir>
+			<imgdir name="744000014">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="柔道道场"/>
+			</imgdir>
+			<imgdir name="744000015">
+				<string name="streetName" value="红叶高中"/>
+				<string name="mapName" value="管乐排练厅"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

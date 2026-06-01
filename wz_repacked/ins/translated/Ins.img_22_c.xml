@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3603510">
+		<string name="name" value="矿石掉落 - 海蓝宝石矿石"/>
+		<string name="desc" value="添加随机的海蓝宝石矿石。"/>
+	</imgdir>
+    <imgdir name="3603511">
+		<string name="name" value="矿石掉落 - 翡翠矿石"/>
+		<string name="desc" value="添加随机的翡翠矿石。"/>
+	</imgdir>
+    <imgdir name="3603512">
+		<string name="name" value="矿石掉落 - 蛋白石矿石"/>
+		<string name="desc" value="添加随机的蛋白石矿石。"/>
+	</imgdir>
+    <imgdir name="3603513">
+		<string name="name" value="矿石掉落 - 蓝宝石矿石"/>
+		<string name="desc" value="添加随机的蓝宝石矿石。"/>
+	</imgdir>
+    <imgdir name="3603514">
+		<string name="name" value="矿石掉落 - 黄玉矿石"/>
+		<string name="desc" value="添加随机的黄玉矿石。"/>
+	</imgdir>
+    <imgdir name="3603515">
+		<string name="name" value="矿石掉落 - 钻石矿石"/>
+		<string name="desc" value="添加随机的钻石矿石。"/>
+	</imgdir>
+    <imgdir name="3603516">
+		<string name="name" value="矿石掉落 - 黑水晶矿石"/>
+		<string name="desc" value="添加随机的黑水晶矿石。"/>
+	</imgdir>
+    <imgdir name="3603600">
+		<string name="name" value="防具掉落 - 100级战士"/>
+		<string name="desc" value="添加随机的100级战士防具。"/>
+	</imgdir>
+    <imgdir name="3603601">
+		<string name="name" value="防具掉落 - 110级战士"/>
+		<string name="desc" value="添加随机的110级战士防具。"/>
+	</imgdir>
+    <imgdir name="3603602">
+		<string name="name" value="防具掉落 - 100级魔法师"/>
+		<string name="desc" value="添加随机的100级魔法师防具。"/>
+	</imgdir>
+    <imgdir name="3603603">
+		<string name="name" value="防具掉落 - 110级魔法师"/>
+		<string name="desc" value="添加随机的110级魔法师防具。"/>
+	</imgdir>
+    <imgdir name="3603604">
+		<string name="name" value="防具掉落 - 100级弓箭手"/>
+		<string name="desc" value="添加随机的100级弓箭手防具。"/>
+	</imgdir>
+    <imgdir name="3603605">
+		<string name="name" value="防具掉落 - 110级弓箭手"/>
+		<string name="desc" value="添加随机的110级弓箭手防具。"/>
+	</imgdir>
+    <imgdir name="3603606">
+		<string name="name" value="防具掉落 - 100级飞侠"/>
+		<string name="desc" value="添加随机的100级飞侠防具。"/>
+	</imgdir>
+    <imgdir name="3603607">
+		<string name="name" value="防具掉落 - 110级飞侠"/>
+		<string name="desc" value="添加随机的110级飞侠防具。"/>
+	</imgdir>
+    <imgdir name="3603608">
+		<string name="name" value="防具掉落 - 100级海盗"/>
+		<string name="desc" value="添加随机的100级海盗防具。"/>
+	</imgdir>
+    <imgdir name="3603609">
+		<string name="name" value="防具掉落 - 110级海盗"/>
+		<string name="desc" value="添加随机的110级海盗防具。"/>
+	</imgdir>
+    <imgdir name="3603610">
+		<string name="name" value="武器掉落 - 100级武器"/>
+		<string name="desc" value="添加随机的100级武器。"/>
+	</imgdir>
+    <imgdir name="3603611">
+		<string name="name" value="武器掉落 - 105级武器"/>
+		<string name="desc" value="添加随机的105级武器。"/>
+	</imgdir>
+    <imgdir name="3603612">
+		<string name="name" value="武器掉落 - 110级武器"/>
+		<string name="desc" value="添加随机的110级武器。"/>
+	</imgdir>
+</imgdir>

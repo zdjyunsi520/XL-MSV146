@@ -1,0 +1,1004 @@
+<imgdir name="Map.img">
+    <imgdir name="grandis">
+		<imgdir name="400000000">
+			<string name="streetName" value="Nova's Sanctum"/>
+			<string name="mapName" value="Pantheon"/>
+		</imgdir>
+		<imgdir name="400000001">
+			<string name="streetName" value="Pantheon"/>
+			<string name="mapName" value="Great Temple Interior"/>
+		</imgdir>
+		<imgdir name="400000002">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Lovely Buster Suite"/>
+		</imgdir>
+		<imgdir name="400010000">
+			<string name="streetName" value="Pantheon Sanctum"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="400010100">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Plains"/>
+		</imgdir>
+		<imgdir name="400010200">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400010300">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Forest"/>
+		</imgdir>
+		<imgdir name="400010400">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Enchanted Forest"/>
+		</imgdir>
+		<imgdir name="400010500">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Suspicious Base Entrance"/>
+		</imgdir>
+		<imgdir name="400010501">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Suspicious Hideout Interior 1"/>
+		</imgdir>
+		<imgdir name="400010502">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Suspicious Hideout Interior 2"/>
+		</imgdir>
+		<imgdir name="400010503">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Suspicious Hideout Interior 3"/>
+		</imgdir>
+		<imgdir name="400010510">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="Official's Space"/>
+		</imgdir>
+		<imgdir name="400020000">
+			<string name="streetName" value="Pantheon Sanctum"/>
+			<string name="mapName" value="West Sanctum"/>
+		</imgdir>
+		<imgdir name="400020100">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="West Pantheon Plains"/>
+		</imgdir>
+		<imgdir name="400020200">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400020300">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="Heliseum Hideout"/>
+		</imgdir>
+		<imgdir name="400030000">
+			<string name="streetName" value="Pantheon Sanctum"/>
+			<string name="mapName" value="South Sanctum"/>
+		</imgdir>
+		<imgdir name="400030100">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="South Pantheon Plains"/>
+		</imgdir>
+		<imgdir name="400030200">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400030300">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Orange Forest"/>
+		</imgdir>
+		<imgdir name="400030400">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Anti-Magic Forest"/>
+		</imgdir>
+		<imgdir name="400030500">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Radiant Rock Forest"/>
+		</imgdir>
+		<imgdir name="400030600">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Heretic Temple Entrance"/>
+		</imgdir>
+		<imgdir name="400030601">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Heretic Temple 1"/>
+		</imgdir>
+		<imgdir name="400030602">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Heretic Temple 2"/>
+		</imgdir>
+		<imgdir name="400030603">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Heretic Temple 3"/>
+		</imgdir>
+		<imgdir name="400030610">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="Heretical Cleric Chambers"/>
+		</imgdir>
+		<imgdir name="400040000">
+			<string name="streetName" value="Pantheon Sanctum"/>
+			<string name="mapName" value="North Sanctum"/>
+		</imgdir>
+		<imgdir name="400040100">
+			<string name="streetName" value="North Pantheon"/>
+			<string name="mapName" value="North Pantheon Plains"/>
+		</imgdir>
+		<imgdir name="400040200">
+			<string name="streetName" value="North Pantheon"/>
+			<string name="mapName" value="North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400040300">
+			<string name="streetName" value="North Pantheon"/>
+			<string name="mapName" value="Grumpy Grobbler Habitat"/>
+		</imgdir>
+		<imgdir name="400050000">
+			<string name="streetName" value="East Border Battleground 1"/>
+			<string name="mapName" value="Occupied East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050100">
+			<string name="streetName" value="East Border Battleground 2"/>
+			<string name="mapName" value="Occupied East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050200">
+			<string name="streetName" value="East Border Battleground 2"/>
+			<string name="mapName" value="Occupied East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050300">
+			<string name="streetName" value="East Border Battleground 2"/>
+			<string name="mapName" value="Occupied East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050400">
+			<string name="streetName" value="North Border Battleground 1"/>
+			<string name="mapName" value="Occupied North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050500">
+			<string name="streetName" value="North Border Battleground 1"/>
+			<string name="mapName" value="Occupied North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050600">
+			<string name="streetName" value="West Border Battleground 1"/>
+			<string name="mapName" value="Invaded West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050700">
+			<string name="streetName" value="West Border Battleground 1"/>
+			<string name="mapName" value="Invaded West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050800">
+			<string name="streetName" value="South Border Battleground 1"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400050900">
+			<string name="streetName" value="South Border Battleground 1"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051000">
+			<string name="streetName" value="South Border Battleground 1"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051100">
+			<string name="streetName" value="South Border Battleground 1"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051200">
+			<string name="streetName" value="South Border Battleground 2"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051300">
+			<string name="streetName" value="South Border Battleground 2"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051400">
+			<string name="streetName" value="South Border Battleground 2"/>
+			<string name="mapName" value="Occupied South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051500">
+			<string name="streetName" value="North Border Battleground 2"/>
+			<string name="mapName" value="Occupied North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051600">
+			<string name="streetName" value="North Border Battleground 2"/>
+			<string name="mapName" value="Occupied North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051700">
+			<string name="streetName" value="North Border Battleground 2"/>
+			<string name="mapName" value="Occupied North Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051800">
+			<string name="streetName" value="Eastern Border Warzone 3"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400051900">
+			<string name="streetName" value="Eastern Border Warzone 3"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400052000">
+			<string name="streetName" value="Eastern Border Warzone 3"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400052100">
+			<string name="streetName" value="Western Border Warzone 2"/>
+			<string name="mapName" value="West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400052200">
+			<string name="streetName" value="Western Border Warzone 2"/>
+			<string name="mapName" value="West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940000000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pantheon Vacant Lot"/>
+		</imgdir>
+		<imgdir name="940000020">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pantheon Vacant Lot"/>
+		</imgdir>
+		<imgdir name="940000030">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Somewhere Near Pantheon"/>
+		</imgdir>
+		<imgdir name="940000040">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Near South Sanctum"/>
+		</imgdir>
+		<imgdir name="940000060">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="Heliseum Hideout"/>
+		</imgdir>
+		<imgdir name="940000070">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="Near West Sanctum"/>
+		</imgdir>
+		<imgdir name="940000090">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="Near West Sanctum"/>
+		</imgdir>
+		<imgdir name="940000100">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="West Sanctum"/>
+		</imgdir>
+		<imgdir name="940000110">
+			<string name="streetName" value="West Pantheon"/>
+			<string name="mapName" value="West Sanctum"/>
+		</imgdir>
+		<imgdir name="940000120">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Executive's Room"/>
+		</imgdir>
+		<imgdir name="940000140">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940000150">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940000160">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940000170">
+			<string name="streetName" value="South Pantheon"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940000180">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940001100">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Heliseum Outskirts"/>
+		</imgdir>
+		<imgdir name="940001110">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Heliseum Outskirts"/>
+		</imgdir>
+		<imgdir name="940001120">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Heliseum Outskirts"/>
+		</imgdir>
+		<imgdir name="940002000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Power of Magnus"/>
+		</imgdir>
+		<imgdir name="940002010">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Magnus's Ambush"/>
+		</imgdir>
+		<imgdir name="940002020">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Kaiser's Awakening"/>
+		</imgdir>
+		<imgdir name="940002040">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Decades Later"/>
+		</imgdir>
+		<imgdir name="940001200">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="Near East Sanctum"/>
+		</imgdir>
+		<imgdir name="940001210">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940001220">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940001230">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940001240">
+			<string name="streetName" value="Pantheon"/>
+			<string name="mapName" value="Pantheon Clinic"/>
+		</imgdir>
+		<imgdir name="940010000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pantheon Vacant Lot"/>
+		</imgdir>
+		<imgdir name="940010020">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Near South Sanctum"/>
+		</imgdir>
+		<imgdir name="940010040">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Near West Sanctum"/>
+		</imgdir>
+		<imgdir name="940010050">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="West Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940010060">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940010070">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940010080">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940010090">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="South Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940010100">
+			<string name="streetName" value="East Pantheon"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="940011000">
+			<string name="streetName" value="Nova's Sanctum"/>
+			<string name="mapName" value="Pantheon"/>
+		</imgdir>
+		<imgdir name="940011010">
+			<string name="streetName" value="Western Region of Pantheon"/>
+			<string name="mapName" value="Heliseum Hideout"/>
+		</imgdir>
+		<imgdir name="940011020">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="Near East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011030">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011040">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011050">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011060">
+			<string name="streetName" value="Pantheon"/>
+			<string name="mapName" value="Pantheon Clinic"/>
+		</imgdir>
+		<imgdir name="940011070">
+			<string name="streetName" value="Pantheon"/>
+			<string name="mapName" value="Great Temple Interior"/>
+		</imgdir>
+		<imgdir name="940011080">
+			<string name="streetName" value="Western Region of Pantheon"/>
+			<string name="mapName" value="Heliseum Hideout"/>
+		</imgdir>
+		<imgdir name="940011090">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="Near East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011100">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011110">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940011150">
+			<string name="streetName" value="Eastern Region of Pantheon"/>
+			<string name="mapName" value="East Sanctum"/>
+		</imgdir>
+		<imgdir name="940012000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="First Transformation"/>
+		</imgdir>
+		<imgdir name="940012010">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Decades Later"/>
+		</imgdir>
+		<imgdir name="940012020">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Dress-Up"/>
+		</imgdir>
+		<imgdir name="940012030">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Dress-Up"/>
+		</imgdir>
+		<imgdir name="940020000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Stormfront"/>
+		</imgdir>
+		<imgdir name="940021000">
+			<string name="streetName" value="Battleground"/>
+			<string name="mapName" value="Interdimensional Battlefield"/>
+		</imgdir>
+		<imgdir name="940022000">
+			<string name="streetName" value="Hidden Stage: Hilla"/>
+			<string name="mapName" value="Interdimensional Battlefield"/>
+		</imgdir>
+		<imgdir name="940023000">
+			<string name="streetName" value="Hidden Stage: Hilla VS Magnus"/>
+			<string name="mapName" value="Interdimensional Battlefield"/>
+		</imgdir>
+		<imgdir name="940024000">
+			<string name="streetName" value="Hidden Stage: Magnus"/>
+			<string name="mapName" value="Interdimensional Battlefield"/>
+		</imgdir>
+		<imgdir name="940029000">
+			<string name="streetName" value="Hidden Stage"/>
+			<string name="mapName" value="Stormfront"/>
+		</imgdir>
+		<imgdir name="401000000">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Heliseum Reclamation HQ"/>
+		</imgdir>
+		<imgdir name="401000001">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Commander Barracks"/>
+		</imgdir>
+		<imgdir name="401000002">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Transitional Dimensional Door"/>
+		</imgdir>
+		<imgdir name="401010000">
+			<string name="streetName" value="Twisted Forest"/>
+			<string name="mapName" value="Savage Dog Forest"/>
+		</imgdir>
+		<imgdir name="401010010">
+			<string name="streetName" value="Twisted Forest"/>
+			<string name="mapName" value="Forest of Choices"/>
+		</imgdir>
+		<imgdir name="401010100">
+			<string name="streetName" value="Twisted Forest"/>
+			<string name="mapName" value="Blue Speeyor's Pasture"/>
+		</imgdir>
+		<imgdir name="401010200">
+			<string name="streetName" value="Twisted Forest"/>
+			<string name="mapName" value="Red Speeyor's Pasture"/>
+		</imgdir>
+		<imgdir name="401020000">
+			<string name="streetName" value="Forbidden Forest"/>
+			<string name="mapName" value="Twisted Forest Border"/>
+		</imgdir>
+		<imgdir name="401020100">
+			<string name="streetName" value="Forbidden Forest"/>
+			<string name="mapName" value="Eurenth's Hut"/>
+		</imgdir>
+		<imgdir name="401020200">
+			<string name="streetName" value="Forbidden Forest"/>
+			<string name="mapName" value="Yellow Speeyor's Pasture"/>
+		</imgdir>
+		<imgdir name="401020300">
+			<string name="streetName" value="Forbidden Forest"/>
+			<string name="mapName" value="Secret Merchant Meet-Up"/>
+		</imgdir>
+		<imgdir name="401020400">
+			<string name="streetName" value="Forbidden Forest"/>
+			<string name="mapName" value="Forest of Coexistence"/>
+		</imgdir>
+		<imgdir name="401030000">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Path to the Hill"/>
+		</imgdir>
+		<imgdir name="401030100">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Full Moon Hill"/>
+		</imgdir>
+		<imgdir name="401030200">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Predatory Forest"/>
+		</imgdir>
+		<imgdir name="401030300">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Specter Mine Zone"/>
+		</imgdir>
+		<imgdir name="401030400">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Breeding Forest"/>
+		</imgdir>
+		<imgdir name="401030500">
+			<string name="streetName" value="Nameless Forest"/>
+			<string name="mapName" value="Specter Forward Base"/>
+		</imgdir>
+		<imgdir name="401030600">
+			<string name="streetName" value="Forested Border Path"/>
+			<string name="mapName" value="Path to Downtown"/>
+		</imgdir>
+		<imgdir name="401040000">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Downtown Black Market"/>
+		</imgdir>
+		<imgdir name="401040001">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Downtown Entrance"/>
+		</imgdir>
+		<imgdir name="401040010">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Downtown Entrance"/>
+		</imgdir>
+		<imgdir name="401040100">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Downtown of Valor"/>
+		</imgdir>
+		<imgdir name="401040200">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Downtown of Willpower"/>
+		</imgdir>
+		<imgdir name="401040300">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Heliseum Downtown Center"/>
+		</imgdir>
+		<imgdir name="401040400">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="West Downtown Border"/>
+		</imgdir>
+		<imgdir name="401040500">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="West Downtown Walkway"/>
+		</imgdir>
+		<imgdir name="401040600">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="East Downtown Border"/>
+		</imgdir>
+		<imgdir name="401040700">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="East Downtown Walkway"/>
+		</imgdir>
+		<imgdir name="401040800">
+			<string name="streetName" value="Heliseum Downtown"/>
+			<string name="mapName" value="Road to the Tyrant's Castle"/>
+		</imgdir>
+		<imgdir name="401050000">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle Entryway"/>
+		</imgdir>
+		<imgdir name="401050001">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle Foyer"/>
+		</imgdir>
+		<imgdir name="401050002">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 2nd Floor Stairs"/>
+		</imgdir>
+		<imgdir name="401050100">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 2nd Floor Mezzanine"/>
+		</imgdir>
+		<imgdir name="401050101">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 3rd Floor Stairs"/>
+		</imgdir>
+		<imgdir name="401050200">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle Foyer"/>
+		</imgdir>
+		<imgdir name="401050201">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 1st Floor Hall"/>
+		</imgdir>
+		<imgdir name="401051000">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 1st Floor Area 1"/>
+		</imgdir>
+		<imgdir name="401051001">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 1st Floor Area 2"/>
+		</imgdir>
+		<imgdir name="401051002">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 1st Floor Area 3"/>
+		</imgdir>
+		<imgdir name="401051003">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Darkheart Workshop 2nd Floor Stairs"/>
+		</imgdir>
+		<imgdir name="401051004">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Darkheart Workshop B2 Stairs"/>
+		</imgdir>
+		<imgdir name="401051100">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 2nd Floor Area 1"/>
+		</imgdir>
+		<imgdir name="401051101">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 2nd Floor Area 2"/>
+		</imgdir>
+		<imgdir name="401051102">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Workshop 2nd Floor Area 3"/>
+		</imgdir>
+		<imgdir name="401051103">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Darkheart Workshop Entry Stairs"/>
+		</imgdir>
+		<imgdir name="401051104">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Darkheart Workshop Entrance"/>
+		</imgdir>
+		<imgdir name="401051200">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051201">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051202">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051203">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051204">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051205">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051206">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051207">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051208">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401051209">
+			<string name="streetName" value="Victor's Workshop"/>
+			<string name="mapName" value="Victor's Workshop"/>
+		</imgdir>
+		<imgdir name="401052000">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B1 Area 3"/>
+		</imgdir>
+		<imgdir name="401052001">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B1 Area 2"/>
+		</imgdir>
+		<imgdir name="401052002">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B1 Area 1"/>
+		</imgdir>
+		<imgdir name="401052003">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Madheart Laboratory B2 Stairs"/>
+		</imgdir>
+		<imgdir name="401052100">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B2 Area 1"/>
+		</imgdir>
+		<imgdir name="401052101">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B2 Area 2"/>
+		</imgdir>
+		<imgdir name="401052102">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory B2 Area 3"/>
+		</imgdir>
+		<imgdir name="401052103">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory Entry Stairs"/>
+		</imgdir>
+		<imgdir name="401052104">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Laboratory Entrance"/>
+		</imgdir>
+		<imgdir name="401052200">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052201">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052202">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052203">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052204">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052205">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052206">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052207">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052208">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401052209">
+			<string name="streetName" value="Treglow's Laboratory"/>
+			<string name="mapName" value="Treglow's Laboratory"/>
+		</imgdir>
+		<imgdir name="401053000">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 3rd Floor Mezzanine"/>
+		</imgdir>
+		<imgdir name="401053001">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle 3rd Floor Hallway"/>
+		</imgdir>
+		<imgdir name="401053002">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Castle Sitting Room Entry"/>
+		</imgdir>
+		<imgdir name="401053100">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053101">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053102">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053103">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053104">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053105">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053106">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053107">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053108">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401053109">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Velderoth's Sitting Room"/>
+		</imgdir>
+		<imgdir name="401060000">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Heliseum Heights Entry"/>
+		</imgdir>
+		<imgdir name="401060200">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Throne"/>
+		</imgdir>
+		<imgdir name="401070000">
+			<string name="streetName" value="Reclamation HQ Battleground"/>
+			<string name="mapName" value="Occupied Reclamation HQ"/>
+		</imgdir>
+		<imgdir name="401070100">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401070200">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401070300">
+			<string name="streetName" value="Nameless Forest Battleground"/>
+			<string name="mapName" value="Occupied Nameless Forest"/>
+		</imgdir>
+		<imgdir name="401070400">
+			<string name="streetName" value="Nameless Forest Battleground"/>
+			<string name="mapName" value="Occupied Nameless Forest"/>
+		</imgdir>
+		<imgdir name="401070500">
+			<string name="streetName" value="Nameless Forest Battleground"/>
+			<string name="mapName" value="Occupied Nameless Forest"/>
+		</imgdir>
+		<imgdir name="401070600">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401070700">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401070800">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401070900">
+			<string name="streetName" value="Foggy Valley Battleground"/>
+			<string name="mapName" value="Occupied Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401071000">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071100">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071200">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071300">
+			<string name="streetName" value="Foggy Valley Battleground"/>
+			<string name="mapName" value="Occupied Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401071400">
+			<string name="streetName" value="Foggy Valley Battleground"/>
+			<string name="mapName" value="Occupied Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401071500">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071600">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071700">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071800">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401071900">
+			<string name="streetName" value="Tyrant's Castle Battleground"/>
+			<string name="mapName" value="Tyrant's Castle"/>
+		</imgdir>
+		<imgdir name="401072000">
+			<string name="streetName" value="Tyrant's Castle Battleground"/>
+			<string name="mapName" value="Tyrant's Castle"/>
+		</imgdir>
+		<imgdir name="401072100">
+			<string name="streetName" value="Tyrant's Castle Battleground"/>
+			<string name="mapName" value="Tyrant's Castle"/>
+		</imgdir>
+		<imgdir name="401072200">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072300">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072400">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072500">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072600">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072700">
+			<string name="streetName" value="Twisted Forest Battleground"/>
+			<string name="mapName" value="Occupied Twisted Forest"/>
+		</imgdir>
+		<imgdir name="401072800">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401072900">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401073000">
+			<string name="streetName" value="Heliseum Downtown Battleground"/>
+			<string name="mapName" value="Occupied Heliseum Downtown"/>
+		</imgdir>
+		<imgdir name="401073100">
+			<string name="streetName" value="Foggy Valley Battleground"/>
+			<string name="mapName" value="Occupied Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401100000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Path to the Reclamation HQ"/>
+		</imgdir>
+		<imgdir name="401100010">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Path to the Reclamation HQ"/>
+		</imgdir>
+		<imgdir name="401100100">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401100200">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401100300">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401100400">
+			<string name="streetName" value="Heliseum"/>
+			<string name="mapName" value="Occupied Reclamation HQ"/>
+		</imgdir>
+		<imgdir name="401100500">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Foggy Valley"/>
+		</imgdir>
+		<imgdir name="401060100">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Throne"/>
+		</imgdir>
+		<imgdir name="400052300">
+			<string name="streetName" value="East Border Battleground 4"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400052400">
+			<string name="streetName" value="East Border Battleground 4"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="400052500">
+			<string name="streetName" value="East Border Battleground 4"/>
+			<string name="mapName" value="East Pantheon Border"/>
+		</imgdir>
+		<imgdir name="401060300">
+			<string name="streetName" value="Tyrant's Castle"/>
+			<string name="mapName" value="Tyrant's Throne"/>
+		</imgdir>
+		<imgdir name="401060399">
+			<string name="streetName" value="Tyrant Simulation Fight"/>
+			<string name="mapName" value="Heliseum Heights Entry"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

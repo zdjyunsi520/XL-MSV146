@@ -1,0 +1,5 @@
+<imgdir name="112110005">
+        <string name="name" value="Defensive Formation" />
+        <string name="desc" value="Eka&apos;s friends come to your aid while you&apos;re flying, attacking enemies in range.\r\nCan only trigger while #cairborne#.\r\n#cDefensive Formation# can&apos;t penetrate boss armor." />
+        <string name="h" value="Damage (Eka&apos;s friends): #damage%, Max Hits: #attackCount" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2512248">
+		<string name="name" value="Advanced Attack Pill V Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Attack Pill V."/>
+	</imgdir>
+    <imgdir name="2512249">
+		<string name="name" value="Magic Attack Pill I Recipe"/>
+		<string name="desc" value="A recipe for a Magic Attack Pill I."/>
+	</imgdir>
+    <imgdir name="2512250">
+		<string name="name" value="Magic Attack Pill II Recipe"/>
+		<string name="desc" value="A recipe for a Magic Attack Pill II."/>
+	</imgdir>
+    <imgdir name="2512251">
+		<string name="name" value="Magic Attack Pill III Recipe"/>
+		<string name="desc" value="A recipe for a Magic Attack Pill III."/>
+	</imgdir>
+    <imgdir name="2512252">
+		<string name="name" value="Magic Attack Pill IV Recipe"/>
+		<string name="desc" value="A recipe for a Magic Attack Pill IV."/>
+	</imgdir>
+    <imgdir name="2512253">
+		<string name="name" value="Magic Attack Pill V Recipe"/>
+		<string name="desc" value="A recipe for a Magic Attack Pill V."/>
+	</imgdir>
+    <imgdir name="2512254">
+		<string name="name" value="Advanced Magic Attack Pill I Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Magic Attack Pill I."/>
+	</imgdir>
+    <imgdir name="2512255">
+		<string name="name" value="Advanced Magic Attack Pill II Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Magic Attack Pill II."/>
+	</imgdir>
+    <imgdir name="2512256">
+		<string name="name" value="Advanced Magic Attack Pill III Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Magic Attack Pill III."/>
+	</imgdir>
+    <imgdir name="2512257">
+		<string name="name" value="Advanced Magic Attack Pill IV Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Magic Attack Pill IV."/>
+	</imgdir>
+    <imgdir name="2512258">
+		<string name="name" value="Advanced Magic Attack Pill V Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Magic Attack Pill V."/>
+	</imgdir>
+    <imgdir name="2512259">
+		<string name="name" value="Snowdrop Potion I Recipe"/>
+		<string name="desc" value="Health Boost Potion recipe that uses the power of snowdrop magic. Usable for #c10 days#."/>
+	</imgdir>
+    <imgdir name="2512260">
+		<string name="name" value="Giant Potion Recipe"/>
+		<string name="desc" value="A recipe for a Giant Potion."/>
+	</imgdir>
+    <imgdir name="2512261">
+		<string name="name" value="Advanced Giant Potion Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Giant Potion."/>
+	</imgdir>
+    <imgdir name="2512262">
+		<string name="name" value="Intermediate Extractor Recipe"/>
+		<string name="desc" value="A recipe for an Intermediate Extractor."/>
+	</imgdir>
+    <imgdir name="2512263">
+		<string name="name" value="Advanced Extractor Recipe"/>
+		<string name="desc" value="A recipe for an Advanced Extractor."/>
+	</imgdir>
+    <imgdir name="2512264">
+		<string name="name" value="Special Von Leon Transform Potion Recipe"/>
+		<string name="desc" value="A recipe for a Special Von Leon Transform Potion."/>
+	</imgdir>
+    <imgdir name="2512265">
+		<string name="name" value="Special Papulatus Transform Potion Recipe"/>
+		<string name="desc" value="A recipe for a Special Papulatus Transform Potion."/>
+	</imgdir>
+    <imgdir name="2512266">
+		<string name="name" value="Superior Hero Potion Recipe"/>
+		<string name="desc" value="A recipe for a Superior Hero Potion."/>
+	</imgdir>
+    <imgdir name="2512267">
+		<string name="name" value="Exceptional Hero Potion Recipe"/>
+		<string name="desc" value="A recipe for an Exceptional Hero Potion."/>
+	</imgdir>
+</imgdir>

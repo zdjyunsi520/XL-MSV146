@@ -1,0 +1,105 @@
+<imgdir name="Npc.img">
+    <imgdir name="9110105">
+		<string name="name" value="Naosuke"/>
+		<string name="n0" value="必须做点什么！我担心最坏的情况。"/>
+		<string name="n1" value="这片土地何时才能恢复和平？"/>
+	</imgdir>
+    <imgdir name="9110112">
+		<string name="name" value="Hamadaya"/>
+		<string name="n0" value="这里没有计划。我不知道你在说什么。"/>
+		<string name="n1" value="我最好去报告，免得他起疑心..."/>
+		<string name="d0" value="啧啧。我是服装店老板Hamadaya。你在找什么？"/>
+		<string name="d1" value="谢谢你帮助我。毕竟我只是个普通的老人。"/>
+	</imgdir>
+    <imgdir name="9110113">
+		<string name="name" value="Hoshi"/>
+		<string name="n0" value="看它旋转！让它催眠你！"/>
+		<string name="n1" value="你真的认为有人能在这个上打败我吗？"/>
+		<string name="d0" value="看看我精英的陀螺技巧！"/>
+		<string name="d1" value="我的新陀螺会超酷的。"/>
+	</imgdir>
+    <imgdir name="9110114">
+		<string name="name" value="Nobuo"/>
+		<string name="n0" value="有时我会有点害怕，然后我想起熊猫有多可爱！"/>
+		<string name="n1" value="这真是个好地方。但我对大多数地方都这么说！"/>
+		<string name="d0" value="我不知道你是否应该进入城堡！这里有很多可怕的东西！"/>
+		<string name="d1" value="我不知道你是否应该进入城堡！这里有很多可怕的东西！"/>
+	</imgdir>
+    <imgdir name="9110109">
+		<string name="name" value="Sai"/>
+		<string name="n0" value="敌人看起来精力充沛。"/>
+		<string name="n1" value="如果我现在不报告，那就会有麻烦！"/>
+		<string name="d0" value="到底是谁发现了我？"/>
+		<string name="d1" value="到底是谁发现了我？"/>
+	</imgdir>
+    <imgdir name="9201151">
+		<string name="name" value="Donald"/>
+		<string name="func" value="包裹递送员"/>
+		<string name="n0" value="比周围任何人都更快的包裹递送。保证！"/>
+		<string name="n1" value="Maple包裹服务！满足您所有包裹需求的一站式商店。"/>
+	</imgdir>
+    <imgdir name="9201152">
+		<string name="name" value="Mrs. Bo"/>
+	</imgdir>
+    <imgdir name="1002008">
+		<string name="name" value="Pason"/>
+		<string name="func" value="导游"/>
+	</imgdir>
+    <imgdir name="1002009">
+		<string name="name" value="海豚"/>
+	</imgdir>
+    <imgdir name="1002010">
+		<string name="name" value="海豚"/>
+	</imgdir>
+    <imgdir name="1012121">
+		<string name="name" value="服装收集者"/>
+	</imgdir>
+    <imgdir name="1012122">
+		<string name="name" value="Nave"/>
+		<string name="n0" value="哈哈哈...你不会想错过这个的！"/>
+		<string name="n1" value="嘿，你！你确定你够大了可以来这里吗？"/>
+	</imgdir>
+    <imgdir name="1012123">
+		<string name="name" value="Lauren"/>
+		<string name="func" value="机器人美容师"/>
+		<string name="n0" value="机器人改造？交给我吧！"/>
+		<string name="n1" value="你的机器人会看起来超级可爱！"/>
+		<string name="d0" value="你是来装饰你的机器人的吗？"/>
+		<string name="d1" value="你是来装饰你的机器人的吗？"/>
+	</imgdir>
+    <imgdir name="1012124">
+		<string name="name" value="Lulu"/>
+		<string name="func" value="花仙子"/>
+		<string name="n0" value="给我一些樱花叶，我会给你一份礼物！"/>
+	</imgdir>
+    <imgdir name="1012125">
+		<string name="name" value="通缉：橙色蘑菇"/>
+		<string name="d0" value="橙色蘑菇的通缉令。"/>
+		<string name="d1" value="橙色蘑菇的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012126">
+		<string name="name" value="通缉：绿色蘑菇"/>
+		<string name="d0" value="绿色蘑菇的通缉令。"/>
+		<string name="d1" value="绿色蘑菇的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012127">
+		<string name="name" value="通缉：独角蘑菇"/>
+		<string name="d0" value="独角蘑菇的通缉令。"/>
+		<string name="d1" value="独角蘑菇的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012128">
+		<string name="name" value="通缉：蓝色蘑菇"/>
+		<string name="d0" value="蓝色蘑菇的通缉令。"/>
+		<string name="d1" value="蓝色蘑菇的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012129">
+		<string name="name" value="通缉：僵尸蘑菇"/>
+		<string name="d0" value="僵尸蘑菇的通缉令。"/>
+		<string name="d1" value="僵尸蘑菇的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012130">
+		<string name="name" value="通缉：蘑菇妈妈"/>
+		<string name="d0" value="蘑菇妈妈的通缉令。"/>
+		<string name="d1" value="蘑菇妈妈的通缉令。"/>
+	</imgdir>
+</imgdir>

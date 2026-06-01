@@ -1,0 +1,209 @@
+<imgdir name="5000089">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="La ti da!"/>
+		<string name="c1_s2" value="Aw!"/>
+		<string name="c1_f1" value="...?"/>
+		<string name="c1_f2" value="Hmmpf..."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Lala... Resting is nice."/>
+		<string name="c2_s2" value="I shall rest now."/>
+		<string name="c2_s3" value="Lala...such a cool wind in my mane."/>
+		<string name="c2_s4" value="Lala!"/>
+		<string name="c2_f1" value="Wehee...I don't desire to do so!"/>
+		<string name="c2_f2" value="I am fine right now!"/>
+		<string name="c2_f3" value="Lala...I don't hear you..."/>
+		<string name="c2_f4" value="I don't want to!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Lala...I feel like singing!"/>
+		<string name="c3_s2" value="Ah...I miss the chairs in the castle..."/>
+		<string name="c3_s3" value="My legs were hurting!"/>
+		<string name="c3_s4" value="Thank you for your kind consideration."/>
+		<string name="c3_f1" value="You need some exercise."/>
+		<string name="c3_f2" value="La ti...ugh! It's a caterpillar!"/>
+		<string name="c3_f3" value="I do not enjoy mud!"/>
+		<string name="c3_f4" value="How dare you! Do you realize who you are speaking to?!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="A nice wind is blowing!"/>
+		<string name="c4_s2" value="Aah, since you are asking, I shall."/>
+		<string name="c4_s3" value="Whew...no bugs on the ground."/>
+		<string name="c4_s4" value="If that is what you wish! Wehee!"/>
+		<string name="c4_f1" value="Owie! I've been pricked by a thorn!"/>
+		<string name="c4_f2" value="I'd rather not, I'm a bit sore."/>
+		<string name="c4_f3" value="Wehee! How dare you try to command me?"/>
+		<string name="c4_f4" value="Okay, hut! Ahh! My legs won't bend!"/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="Hmmpf..."/>
+		<string name="c5_s2" value="Wehee..."/>
+		<string name="c5_f1" value="...hmmpf?"/>
+		<string name="c5_f2" value="...La ti da?"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="I am sorry."/>
+		<string name="c6_s2" value="Wehee..."/>
+		<string name="c6_s3" value="Okay, okay, forgive me..."/>
+		<string name="c6_s4" value="I am truly sorry!"/>
+		<string name="c6_f1" value="W-what? You called for me?"/>
+		<string name="c6_f2" value="Calm down!"/>
+		<string name="c6_f3" value="What's wrong with you?"/>
+		<string name="c6_f4" value="La ti da...I can't hear you..."/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="These aren't tears...I'm just sweating..."/>
+		<string name="c7_s2" value="Calm yourself!"/>
+		<string name="c7_s3" value="I truly apologize!"/>
+		<string name="c7_s4" value="Lala, I am singing a song of repentance!"/>
+		<string name="c7_f1" value="I am of a noble personage."/>
+		<string name="c7_f2" value="I can get angry as well! You...cough cough...my throat..."/>
+		<string name="c7_f3" value="I am innocent!"/>
+		<string name="c7_f4" value="You judge me so harshly?"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="My tears flow freely...wehee..."/>
+		<string name="c8_s2" value="You must not like me anymore."/>
+		<string name="c8_s3" value="I acknowledge my mistake. I am sorry!"/>
+		<string name="c8_s4" value="Please accept the apology of a unicorn prince."/>
+		<string name="c8_f1" value="Do you realize that you are speaking to one of nobility?!"/>
+		<string name="c8_f2" value="Lala...you are so uncivil!"/>
+		<string name="c8_f3" value="I am quite disappointed in you!"/>
+		<string name="c8_f4" value="Sigh...It is only natural for a horse to move forward!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="&lt;3"/>
+		<string name="c9_s2" value="Lala."/>
+		<string name="c9_f1" value="...?"/>
+		<string name="c9_f2" value="Neigh..."/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="I'm embarrassed... Hee hee."/>
+		<string name="c10_s2" value="I'm so touched!"/>
+		<string name="c10_s3" value="Woohoo! So happy!"/>
+		<string name="c10_s4" value="La ti da ti daaah!"/>
+		<string name="c10_f1" value="I am truly sorry, but I cannot return the sentiment."/>
+		<string name="c10_f2" value="I am not the right one for you."/>
+		<string name="c10_f3" value="Are...you sick or something?"/>
+		<string name="c10_f4" value="You are grossing me out!"/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="You are beautiful as well."/>
+		<string name="c11_s2" value="Lala, I'm so happy..."/>
+		<string name="c11_s3" value="I am so happy!"/>
+		<string name="c11_s4" value="My heart is on fire!"/>
+		<string name="c11_f1" value="Sorry, I am engaged."/>
+		<string name="c11_f2" value="You shouldn't lie."/>
+		<string name="c11_f3" value="I refuse!"/>
+		<string name="c11_f4" value="Are you teasing me?"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="Lala... My heart is yours as well!"/>
+		<string name="c12_s2" value="I hope that your heart shall never change."/>
+		<string name="c12_s3" value="I will stand by you always!"/>
+		<string name="c12_s4" value="I will overcome our differences, to stand by you!"/>
+		<string name="c12_f1" value="I shall be returning to my kingdom soon."/>
+		<string name="c12_f2" value="Calm yourself! I...am a unicorn."/>
+		<string name="c12_f3" value="We are of different classes. I am sorry."/>
+		<string name="c12_f4" value="Did you at least bring me some sugar cubes?"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Wehee!"/>
+		<string name="c13_s2" value="That feels nice!"/>
+		<string name="c13_s3" value="Lalalala!"/>
+		<string name="c13_s4" value="If that is what you desire..."/>
+		<string name="c13_f1" value="Hmmpf?"/>
+		<string name="c13_f2" value="Here?"/>
+		<string name="c13_f3" value="What? No!"/>
+		<string name="c13_f4" value="I am not that primitive!"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Now I need some paper..."/>
+		<string name="c14_s2" value="Hrrgh... Aaah! Success!"/>
+		<string name="c14_s3" value="I am a prince, but I can be down to earth! Hrrgh!"/>
+		<string name="c14_s4" value="Such a natural feeling. Hrrgh!"/>
+		<string name="c14_f1" value="No, this is not right! Not right at all!"/>
+		<string name="c14_f2" value="You're making me nauseous..."/>
+		<string name="c14_f3" value="What? No!"/>
+		<string name="c14_f4" value="I hope that you will learn to be a bit more elegant."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Please stand guard!"/>
+		<string name="c15_s2" value="Okay, here I go! Wehee!"/>
+		<string name="c15_s3" value="Watch and learn!"/>
+		<string name="c15_s4" value="Aaah...such a sweet scent!"/>
+		<string name="c15_f1" value="Phhhhhhrt... You didn't hear that! It wasn't me!"/>
+		<string name="c15_f2" value="Unicorns are too dignified for pooping."/>
+		<string name="c15_f3" value="I am no commoner. How can I go in such a place as this?"/>
+		<string name="c15_f4" value="My leavings are not for all to see!"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="Okay, maybe just a little...zzz...."/>
+		<string name="c16_s2" value="Nod...nod..."/>
+		<string name="c16_s3" value="Zzzz...wehee..."/>
+		<string name="c16_s4" value="You should get some rest too."/>
+		<string name="c16_f1" value="It's quite bright out!"/>
+		<string name="c16_f2" value="I am find just as I am!"/>
+		<string name="c16_f3" value="Why don't you sleep first?"/>
+		<string name="c16_f4" value="You need to move around more. Look at your love handles!"/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Zzz...wehee...neigh...proompfh..."/>
+		<string name="c17_s2" value="Posture is important, even when sleeping...zzz..."/>
+		<string name="c17_s3" value="I shall rest now. Zzz..."/>
+		<string name="c17_s4" value="So, this is how the homeless sleep..."/>
+		<string name="c17_f1" value="Can you even think of sleeping at your level?"/>
+		<string name="c17_f2" value="Why don't you prepare a nice bed for me first?"/>
+		<string name="c17_f3" value="Aah...I miss my golden bed back in the castle."/>
+		<string name="c17_f4" value="I am not used to taking orders!"/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="I wish for my kingdom to appear in my dreams."/>
+		<string name="c18_s2" value="Sweet dreams, friend."/>
+		<string name="c18_s3" value="Lala. La ti da hewee..."/>
+		<string name="c18_s4" value="Zzz...Hmm...bad posture again..."/>
+		<string name="c18_f1" value="Training must come before sleeping!"/>
+		<string name="c18_f2" value="We have much to do. There is no time for sleeping!"/>
+		<string name="c18_f3" value="How dare you try to command me!"/>
+		<string name="c18_f4" value="Bring me some sugar cubes! I am hungry!"/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Lala...I am the first prince of the Unicorn Kingdom!"/>
+		<string name="c19_s2" value="I have come here just to meet you."/>
+		<string name="c19_s3" value="Dignity and elegance are my pride and calling."/>
+		<string name="c19_s4" value="I shall invite you to my kingdom someday."/>
+		<string name="c19_f1" value="I'd rather not."/>
+		<string name="c19_f2" value="I don't enjoy talking."/>
+		<string name="c19_f3" value="..."/>
+		<string name="c19_f4" value="Lala... Let us sing a song!"/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="My sister is a beautiful unicorn with a light blue mane."/>
+		<string name="c20_s2" value="Esel and I are good friends."/>
+		<string name="c20_s3" value="I hope that my sister will be able to visit Maple World."/>
+		<string name="c20_s4" value="Esel and I still feel quite...lonely."/>
+		<string name="c20_f1" value="Please go play elsewhere."/>
+		<string name="c20_f2" value="Kek...my throat is killing me."/>
+		<string name="c20_f3" value="Lala...what did you say?"/>
+		<string name="c20_f4" value="Lala...I am an independent unicorn."/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="Members of the royal family like myself must be careful in all that we say and do!"/>
+		<string name="c21_s2" value="It wasn't a mistake that brought me to Maple World."/>
+		<string name="c21_s3" value="My kingdom is inhabited by only unicorns."/>
+		<string name="c21_s4" value="Do you wish to learn some manners from me?"/>
+		<string name="c21_f1" value="Elegant unicorns such as myself enjoy silence."/>
+		<string name="c21_f2" value="What? You surprised me. I wasn't expecting you to talk to me."/>
+		<string name="c21_f3" value="I'm in no mood to talk."/>
+		<string name="c21_f4" value="There are days when i just feel like being alone. Alone!"/>
+		<string name="c22" value="showoff|trick|perform"/>
+		<string name="c22_s1" value="Lala! La ti da! Boom!"/>
+		<string name="c22_s2" value="Unicorn Prince's Secret Move! Ta-daah!"/>
+		<string name="c22_s3" value="It is not for anyone to see."/>
+		<string name="c22_s4" value="If I don't move for 10 minutes, call a doctor."/>
+		<string name="c22_f1" value="How dare you command a member of the royal family!"/>
+		<string name="c22_f2" value="I refuse! How can an unicorn of my stature stoop so low?"/>
+		<string name="c22_f3" value="Wehee! How dare you try to command me?"/>
+		<string name="c22_f4" value="I am too tired for a trick!"/>
+		<string name="c23" value="showoff|trick|perform"/>
+		<string name="c23_s1" value="I shall show you something that Esel can't even attempt!"/>
+		<string name="c23_s2" value="This is a secret move, passed down through the royal family."/>
+		<string name="c23_s3" value="Aah...I don't think I can perform that today!"/>
+		<string name="c23_s4" value="Elegantly...boom!"/>
+		<string name="c23_f1" value="How can you ask me to do such a thing? I cannot!"/>
+		<string name="c23_f2" value="You go first! Wehee!"/>
+		<string name="c23_f3" value="I am too tired. Please bring me a sugar cube."/>
+		<string name="c23_f4" value="Wehee. It's not something you can see anytime you want to!"/>
+		<string name="f1_s" value="Lala."/>
+		<string name="f1_f" value="...!"/>
+		<string name="f2_s" value="Oh! Very tasty!"/>
+		<string name="f2_f" value="I am quite full! Please, no more!"/>
+		<string name="f3_s" value="Oh? This is...? T-thank you!"/>
+		<string name="f3_f" value="Aah...I miss the meals back in my kingdom.."/>
+		<string name="f4_s" value="Yeah! Meal time!"/>
+		<string name="f4_f" value="Hmm...this tastes funny... It's spoiled!"/>
+		<string name="s1" value="Wehee?!"/>
+		<string name="s2" value="I am quite...disappointed in you!"/>
+		<string name="s3" value="A beautiful word for a beautiful person..."/>
+		<string name="s4" value="This is quite uncivilized."/>
+	</imgdir>

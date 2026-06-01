@@ -1,0 +1,122 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159310">
+		<string name="name" value="冯·莱昂"/>
+		<string name="func" value="指挥官"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value=""/>
+	</imgdir>
+    <imgdir name="2159311">
+		<string name="name" value="费迪"/>
+		<string name="func" value="校长"/>
+		<string name="d0" value="今天天气很好。"/>
+		<string name="d1" value="今天天气很好。"/>
+	</imgdir>
+    <imgdir name="2159312">
+		<string name="name" value="埃莱克斯"/>
+		<string name="func" value="基础训练导师"/>
+		<string name="d0" value="你有事找我吗？"/>
+		<string name="d1" value="你有事找我吗？"/>
+	</imgdir>
+    <imgdir name="2159313">
+		<string name="name" value="布莱顿"/>
+		<string name="func" value="战斗法师导师"/>
+		<string name="d0" value="对战斗法师感兴趣？我打赌你肯定感兴趣！"/>
+		<string name="d1" value="对战斗法师感兴趣？我打赌你肯定感兴趣！"/>
+	</imgdir>
+    <imgdir name="2159314">
+		<string name="name" value="贝尔"/>
+		<string name="func" value="豹弩游侠导师"/>
+		<string name="d0" value="豹弩游侠骑美洲豹！听起来就很酷！"/>
+		<string name="d1" value="豹弩游侠骑美洲豹！听起来就很酷！"/>
+	</imgdir>
+    <imgdir name="2159315">
+		<string name="name" value="克劳丁"/>
+		<string name="func" value="反抗军导师"/>
+		<string name="d0" value="反抗军正在打一场艰苦的战斗。"/>
+		<string name="d1" value="反抗军正在打一场艰苦的战斗。"/>
+	</imgdir>
+    <imgdir name="2159316">
+		<string name="name" value="切奇"/>
+		<string name="func" value="机械师导师"/>
+		<string name="d0" value="离远点，如果你不想受伤的话。"/>
+		<string name="d1" value="离远点，如果你不想受伤的话。"/>
+	</imgdir>
+    <imgdir name="2159317">
+		<string name="name" value="斯玛蒂"/>
+		<string name="n0" value="Bah...我想回家...呜呜..."/>
+		<string name="n1" value="呜呜...呜呜..."/>
+		<string name="d0" value="谁在那里？呜呜...呜呜..."/>
+		<string name="d1" value="谁在那里？呜呜...呜呜..."/>
+	</imgdir>
+    <imgdir name="2159318">
+		<string name="name" value="神秘"/>
+		<string name="n0" value="呜呜...呜呜...请谁来帮帮我..."/>
+		<string name="n1" value="哇...哇！"/>
+		<string name="d0" value="我想回家！哇！"/>
+		<string name="d1" value="我想回家！哇！"/>
+	</imgdir>
+    <imgdir name="2159319">
+		<string name="name" value="卡森"/>
+		<string name="func" value="赞米斯特会长"/>
+		<string name="n0" value="如果禁忌的炼金术之书被用于邪恶..."/>
+		<string name="n1" value="早知道会发生这种事，我们早就把它销毁了..."/>
+		<string name="d0" value="我们珍贵的遗产..."/>
+		<string name="d1" value="我们珍贵的遗产..."/>
+	</imgdir>
+    <imgdir name="2159320">
+		<string name="name" value="梅德"/>
+		<string name="func" value="阿尔卡德诺会长"/>
+		<string name="n0" value="我会做所有要求的事情..."/>
+		<string name="d0" value="乱七八糟"/>
+		<string name="d1" value="乱七八糟"/>
+	</imgdir>
+    <imgdir name="2159321">
+		<string name="name" value="梅德"/>
+		<string name="func" value="阿尔卡德诺会长"/>
+		<string name="n0" value="啊...我作为会长确实是个失败者。"/>
+		<string name="n1" value="必须找回禁忌的炼金术之书。"/>
+		<string name="d0" value="必须尽快找回炼金术之书。"/>
+		<string name="d1" value="必须尽快找回炼金术之书。"/>
+	</imgdir>
+    <imgdir name="2159322">
+		<string name="name" value="梅赛德斯"/>
+		<string name="d0" value="黑暗力量..."/>
+		<string name="d1" value="黑暗力量..."/>
+	</imgdir>
+    <imgdir name="2159323">
+		<string name="name" value="兰花"/>
+		<string name="d0" value="现在我只需要莲花。"/>
+		<string name="d1" value="现在我只需要莲花。"/>
+	</imgdir>
+    <imgdir name="2159324">
+		<string name="name" value="可疑的魔法师"/>
+		<string name="d0" value="我也想变得重要。"/>
+		<string name="d1" value="我也想变得重要。"/>
+	</imgdir>
+    <imgdir name="2159325">
+		<string name="name" value="可疑的魔法师"/>
+		<string name="d0" value="我也想变得重要。"/>
+		<string name="d1" value="我也想变得重要。"/>
+	</imgdir>
+    <imgdir name="2159326">
+		<string name="name" value="可疑的魔法师"/>
+		<string name="func" value="首领"/>
+		<string name="d0" value="我会让阿卡利姆看看！我会获得荣誉！哈哈！"/>
+		<string name="d1" value="我会让阿卡利姆看看！我会获得荣誉！哈哈！"/>
+	</imgdir>
+    <imgdir name="2159327">
+		<string name="name" value="弗朗西斯的日记"/>
+		<string name="d0" value="封面上写着'弗朗西斯的日记'。"/>
+		<string name="d1" value="封面上写着'弗朗西斯的日记'。"/>
+	</imgdir>
+    <imgdir name="2159328">
+		<string name="name" value="烧焦的残骸1"/>
+		<string name="d0" value="只剩下灰烬了。"/>
+		<string name="d1" value="只剩下灰烬了。"/>
+	</imgdir>
+    <imgdir name="2159329">
+		<string name="name" value="烧焦的残骸2"/>
+		<string name="d0" value="只剩下灰烬了。"/>
+		<string name="d1" value="只剩下灰烬了。"/>
+	</imgdir>
+</imgdir>

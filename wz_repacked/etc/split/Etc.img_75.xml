@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031037">
+			<string name="name" value="Ticket to Construction Site B2"/>
+			<string name="desc" value="The ticket that allows you to enter Construction Site B2 of Kerning City Subway."/>
+		</imgdir>
+    <imgdir name="4031038">
+			<string name="name" value="Ticket to Construction Site B3"/>
+			<string name="desc" value="The ticket that allows you to enter Construction Site B3 of Kerning City Subway."/>
+		</imgdir>
+    <imgdir name="4031039">
+			<string name="name" value="Shumi's Coin"/>
+			<string name="desc" value="The coin that Shumi lost."/>
+		</imgdir>
+    <imgdir name="4031040">
+			<string name="name" value="Shumi's Roll of Cash"/>
+			<string name="desc" value="The roll of cash that Shumi lost."/>
+		</imgdir>
+    <imgdir name="4031041">
+			<string name="name" value="Shumi's Sack of Cash"/>
+			<string name="desc" value="The sack of money that Shumi lost."/>
+		</imgdir>
+    <imgdir name="4031042">
+			<string name="name" value="Black Feather"/>
+			<string name="desc" value="A feather burning in black. So light, it feels like it's going to fly away."/>
+		</imgdir>
+    <imgdir name="4031043">
+			<string name="name" value="Red Cape"/>
+			<string name="desc" value="A red cape for women-only. Looks like it's going to be very warm."/>
+		</imgdir>
+    <imgdir name="4031044">
+			<string name="name" value="Ticket to Orbis (Basic)"/>
+			<string name="desc" value="A basic ticket needed to get on the ship that heads to Orbis Station of Ossyria Continent."/>
+		</imgdir>
+    <imgdir name="4031045">
+			<string name="name" value="Ticket to Orbis (Regular)"/>
+			<string name="desc" value="A regular ticket needed to get on the ship that heads to Orbis Station of Ossyria Continent."/>
+		</imgdir>
+    <imgdir name="4031046">
+			<string name="name" value="Ticket to Ellinia (Basic)"/>
+			<string name="desc" value="A basic ticket needed to get on the ship that heads to Ellinia of Victoria Island."/>
+		</imgdir>
+    <imgdir name="4031047">
+			<string name="name" value="Ticket to Ellinia (Regular)"/>
+			<string name="desc" value="A regular ticket needed to get on the ship that heads to Ellinia of Victoria Island."/>
+		</imgdir>
+    <imgdir name="4031048">
+			<string name="name" value="Blank Scroll"/>
+			<string name="desc" value="A scroll written in unrecognizable letters. Get this to Chef of Lith Harbor to trade with a prize. "/>
+		</imgdir>
+    <imgdir name="4031049">
+			<string name="name" value="A Piece of an Ancient Scroll"/>
+			<string name="desc" value="An old piece of paper that seems to be part of an ancient document."/>
+		</imgdir>
+    <imgdir name="4031050">
+			<string name="name" value="Cracked Black Crystal"/>
+			<string name="desc" value="A black crystal that seems like the one Spiruna lost. It's broken, probably by the monsters stepping on it."/>
+		</imgdir>
+    <imgdir name="4031051">
+			<string name="name" value="Fairy Dust"/>
+			<string name="desc" value="A collection of dust from the fairies flapping their wings. It has a mysterious light to it."/>
+		</imgdir>
+    <imgdir name="4031052">
+			<string name="name" value="Hella's Pendant"/>
+			<string name="desc" value="A pendant Hella has been keeping since childhood. Needs to deliver this to Jade."/>
+		</imgdir>
+    <imgdir name="4031053">
+			<string name="name" value="Old Ring"/>
+			<string name="desc" value="An old ring found from a tomb in the deep valley of snowfield. Maybe Alcaster may have seen this before..."/>
+		</imgdir>
+    <imgdir name="4031054">
+			<string name="name" value="Old Piece of Map"/>
+			<string name="desc" value="An old piece of paper that seems to be a part of an ancient map. "/>
+		</imgdir>
+    <imgdir name="4031055">
+			<string name="name" value="Memory Powder"/>
+			<string name="desc" value="A very fine powder that's hard to feel. Has the power to return the memory of a person."/>
+		</imgdir>
+    <imgdir name="4031056">
+			<string name="name" value="The Book of Ancient"/>
+			<string name="desc" value="A book that contains incredible spells that are banned. A regular person can't even open the book; it's that powerful..."/>
+		</imgdir>
+</imgdir>

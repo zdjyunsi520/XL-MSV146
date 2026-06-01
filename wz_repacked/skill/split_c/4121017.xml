@@ -1,0 +1,5 @@
+<imgdir name="4121017">
+        <string name="name" value="对决" />
+        <string name="desc" value="攻击最多6个敌人并挑衅它们，使其变为#c无法触碰#状态。被挑衅的敌人提供更多经验和物品。BOSS只受一半效果~\n前置技能: #c影遁 Lv. 10以上#" />
+        <string name="h" value="MP #mpCon，消耗飞星: #bulletConsume，以#damage%伤害攻击挑衅最多#mobCount个敌人#attackCount次。被挑衅的敌人#c变为无法触碰#。持续#time秒，获得经验和物品掉落率增加#x%。BOSS只受一半效果。" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="11001003">
+        <string name="name" value="群体攻击" />
+        <string name="desc" value="消耗MP同时攻击最多6个附近的敌人！\n需要技能：#c强力攻击 Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="消耗MP同时攻击最多6个附近的敌人！\n需要技能：#c强力攻击 Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

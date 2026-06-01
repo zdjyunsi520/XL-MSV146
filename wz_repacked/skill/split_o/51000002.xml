@@ -1,0 +1,5 @@
+<imgdir name="51000002">
+        <string name="name" value="Soul Devotion" />
+        <string name="desc" value="Permanently increases Accuracy, Movement Speed, and Jump.\nRequired Skill: #cSoul Shield Lv.1#" />
+        <string name="h" value="Accuracy +#accX, Speed +#psdSpeed, Jump +#psdJump" />
+    </imgdir>

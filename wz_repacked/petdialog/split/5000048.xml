@@ -1,0 +1,279 @@
+<imgdir name="5000048">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Robo!"/>
+		<string name="c1_s2" value="Tada!"/>
+		<string name="c1_f1" value="Ehh?"/>
+		<string name="c1_f2" value="...?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Okay!"/>
+		<string name="c2_s2" value="No problem."/>
+		<string name="c2_s3" value="Robo!"/>
+		<string name="c2_s4" value="I do this for you, you do something else for me. Deal?"/>
+		<string name="c2_f1" value="Why should I?"/>
+		<string name="c2_f2" value="I can't hear you. Speak up!"/>
+		<string name="c2_f3" value="I don't understand what you're saying..."/>
+		<string name="c2_f4" value="I am not tired..."/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="This is an easy, easy command. Pssh."/>
+		<string name="c3_s2" value="I was just about to sit, but not because you ordered me to."/>
+		<string name="c3_s3" value="This is why I carry around a chair at all times."/>
+		<string name="c3_s4" value="Is gravity pulling me down?"/>
+		<string name="c3_f1" value="I am not used to sitting around a place like this..."/>
+		<string name="c3_f2" value="Do you think I only do things at your command?"/>
+		<string name="c3_f3" value="Have you seen my chair? You know I can't sit without one."/>
+		<string name="c3_f4" value="Does not compute."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Okay I'm sitting. Anything else?"/>
+		<string name="c4_s2" value="You know you want to sit, too. Too bad this chair has a weight limit!"/>
+		<string name="c4_s3" value="Hey, I looked up advanced robots online and saw an awesome movie. Did you see it?"/>
+		<string name="c4_s4" value="I'm not trying as tall as you. I'm just...used to sitting here."/>
+		<string name="c4_f1" value="That was the one command I didn't want to hear today."/>
+		<string name="c4_f2" value="You first. Then I'll think about it."/>
+		<string name="c4_f3" value="Why don't you go dance with hectors first?"/>
+		<string name="c4_f4" value="Don't tell me to do things I don't want to do!"/>
+		<string name="c5" value="sleep|sleepy|gotobed"/>
+		<string name="c5_s1" value="Z~Z~Z~"/>
+		<string name="c5_s2" value="Grrrr...grrrr..."/>
+		<string name="c5_f1" value="I don't want to."/>
+		<string name="c5_f2" value="I'm not sleepy. I want to do something else."/>
+		<string name="c6" value="sleep|sleepy|gotobed"/>
+		<string name="c6_s1" value="I'm so tired."/>
+		<string name="c6_s2" value="I'm going to sleep now. See you tomorrow."/>
+		<string name="c6_s3" value="System shutdown in 3..2..1..."/>
+		<string name="c6_s4" value="My eyes...are getting heavy..."/>
+		<string name="c6_f1" value="Let's plaaaaaaaayyyyyyyyy!!!"/>
+		<string name="c6_f2" value="I don't want to sleep!"/>
+		<string name="c6_f3" value="I slept more than enough!!!"/>
+		<string name="c6_f4" value="I'm bored! Play with me!!"/>
+		<string name="c7" value="sleep|sleepy|gotobed"/>
+		<string name="c7_s1" value="I'll sleep for 3 seconds."/>
+		<string name="c7_s2" value="There's nothing like sleeping at home..."/>
+		<string name="c7_s3" value="Did you secretly upload a sleeping program to my system? Why do I feel so sleepy?"/>
+		<string name="c7_s4" value="I'll need to sleep now. My skin needs it."/>
+		<string name="c7_f1" value="I don't like sleeping. I like playing with you."/>
+		<string name="c7_f2" value="It's still bright outside. Why do you want me to sleep?"/>
+		<string name="c7_f3" value="Can we do something other than sleep?"/>
+		<string name="c7_f4" value="I don't want to sleep. I want to play around with you."/>
+		<string name="c8" value="sleep|sleepy|gotobed"/>
+		<string name="c8_s1" value="I'm going to dream about flying tonight! Zzzzzzz"/>
+		<string name="c8_s2" value="1 mississippi...2 mississippi...3 mississippi... 4 mississippi..."/>
+		<string name="c8_s3" value="Ah, it's time to go to bed already. Good night!"/>
+		<string name="c8_s4" value="I wanted to hang out with you more...but I'm so sleepy..."/>
+		<string name="c8_f1" value="It's not time, Robo."/>
+		<string name="c8_f2" value="Tell me something funny."/>
+		<string name="c8_f3" value="Shhh, I think there's a monster around the area."/>
+		<string name="c8_f4" value="I need a lullaby to fall asleep..."/>
+		<string name="c9" value="bad|no|badgirl|badboy"/>
+		<string name="c9_s1" value="Ahhh!"/>
+		<string name="c9_s2" value="Sniff sniff..."/>
+		<string name="c9_f1" value="Eh?"/>
+		<string name="c9_f2" value="........."/>
+		<string name="c10" value="bad|no|badgirl|badboy"/>
+		<string name="c10_s1" value="What made you so mad at me?"/>
+		<string name="c10_s2" value="Ahhh!!! I'm hurt!"/>
+		<string name="c10_s3" value="I'm sorry..."/>
+		<string name="c10_s4" value="Don't talk like that. I'm scared."/>
+		<string name="c10_f1" value="I hate being yelled at."/>
+		<string name="c10_f2" value="Don't yell at me."/>
+		<string name="c10_f3" value="I didn't do anything wrong..."/>
+		<string name="c10_f4" value="Stop it! Don't do it!"/>
+		<string name="c11" value="bad|no|badgirl|badboy"/>
+		<string name="c11_s1" value="Do you really want to yell at me like that?"/>
+		<string name="c11_s2" value="I'll do better..."/>
+		<string name="c11_s3" value="You were going to hit me. Ahhh!!"/>
+		<string name="c11_s4" value="Why do you make me cry?"/>
+		<string name="c11_f1" value="I hate being scolded."/>
+		<string name="c11_f2" value="Why? What did I do?"/>
+		<string name="c11_f3" value="What did you just say?"/>
+		<string name="c11_f4" value="I didn't do anything wrong!"/>
+		<string name="c12" value="bad|no|badgirl|badboy"/>
+		<string name="c12_s1" value="You need to tell me what I did wrong..."/>
+		<string name="c12_s2" value="You're the only one I've got...I feel like crying now."/>
+		<string name="c12_s3" value="I'll do better next time...but what exactly do I have to do better?"/>
+		<string name="c12_s4" value="Do you have to talk to me like that?"/>
+		<string name="c12_f1" value="Don't let your frustrations out on me. Do it on the monsters!"/>
+		<string name="c12_f2" value="What exactly did I do wrong?"/>
+		<string name="c12_f3" value="You must be bored, aren't you?"/>
+		<string name="c12_f4" value="Hey, I'm the most obedient robot you'll ever find."/>
+		<string name="c13" value="iloveyou|mylove|likeyou"/>
+		<string name="c13_s1" value="Robo?"/>
+		<string name="c13_s2" value="Robo? Robo?"/>
+		<string name="c13_f1" value="Eh..."/>
+		<string name="c13_f2" value="Pzzzzz"/>
+		<string name="c14" value="iloveyou|mylove|likeyou"/>
+		<string name="c14_s1" value="Really? Thanks!"/>
+		<string name="c14_s2" value="Are you asking me out?"/>
+		<string name="c14_s3" value="I think you're cute, too."/>
+		<string name="c14_s4" value="Awwww..."/>
+		<string name="c14_f1" value="What are you trying to say?"/>
+		<string name="c14_f2" value="Do you mean that?"/>
+		<string name="c14_f3" value="Eh????"/>
+		<string name="c14_f4" value="Okay, this conversation never happened."/>
+		<string name="c15" value="iloveyou|mylove|likeyou"/>
+		<string name="c15_s1" value="I love you like a computer loves it's monitor."/>
+		<string name="c15_s2" value="Ahhh... that just made my day."/>
+		<string name="c15_s3" value="Good, if you want to be in my good graces, this is the way to do it."/>
+		<string name="c15_s4" value="Wait, can you say that one more time?"/>
+		<string name="c15_f1" value="Liar, liar! Pants on fire!"/>
+		<string name="c15_f2" value="You're all I've got...NOT"/>
+		<string name="c15_f3" value="Hey, a joke is a joke. Make it sound like one."/>
+		<string name="c15_f4" value="Are you talking jibberish again?"/>
+		<string name="c16" value="iloveyou|mylove|likeyou"/>
+		<string name="c16_s1" value="Really? Even more than mesos?"/>
+		<string name="c16_s2" value="You are NOT the first person to say that... but thanks anyways."/>
+		<string name="c16_s3" value="It's so hard to be loved by people...I must have a talent for that."/>
+		<string name="c16_s4" value="You don't need to say that out loud. I know you do."/>
+		<string name="c16_f1" value="I'm sick of hearing that now. So many people keep telling me they love me."/>
+		<string name="c16_f2" value="I want to hear that from a hot robot!"/>
+		<string name="c16_f3" value="That's the 234234th time I heard that. Sigh."/>
+		<string name="c16_f4" value="That's what Bloctopus told me last night."/>
+		<string name="c17" value="stupid|ihateyou|dummy"/>
+		<string name="c17_s1" value="Robo!!!!"/>
+		<string name="c17_s2" value="No way!!!"/>
+		<string name="c17_f1" value="!!!!!"/>
+		<string name="c17_f2" value="What!!!"/>
+		<string name="c18" value="stupid|ihateyou|dummy"/>
+		<string name="c18_s1" value="You didn't just say what I think you did..."/>
+		<string name="c18_s2" value="Can't you just love me?"/>
+		<string name="c18_s3" value="What have I done to deserve this?"/>
+		<string name="c18_s4" value="Hey, that's not cool!"/>
+		<string name="c18_f1" value="You seem more stupid than I am..."/>
+		<string name="c18_f2" value="Don't say that!"/>
+		<string name="c18_f3" value="I am not stupid! I am smart!"/>
+		<string name="c18_f4" value="What makes you think you can say that?"/>
+		<string name="c19" value="stupid|ihateyou|dummy"/>
+		<string name="c19_s1" value="Yea, that was pretty dumb."/>
+		<string name="c19_s2" value="Keep telling me that, and one day I'll run away!"/>
+		<string name="c19_s3" value="I just saved that in my memory bank. I'll keep that in mind."/>
+		<string name="c19_s4" value="Can't we just all get along?"/>
+		<string name="c19_f1" value="Look, if I had a single digit IQ, I'd be mad too. It's ok. "/>
+		<string name="c19_f2" value="Ok, genius. What's the last digit of Pi? Thought so..."/>
+		<string name="c19_f3" value="I am much smarter than you."/>
+		<string name="c19_f4" value="Even robots have feelings, too."/>
+		<string name="c20" value="stupid|ihateyou|dummy"/>
+		<string name="c20_s1" value="Are you having fun tormenting me?"/>
+		<string name="c20_s2" value="Really? Is it really that fun to make fun of me?"/>
+		<string name="c20_s3" value="Why are you doing this to me? I'm nice and good looking."/>
+		<string name="c20_s4" value="Even a heart of steel like mine will crack if you keep saying that."/>
+		<string name="c20_f1" value="I'll hate you for that. Seriously."/>
+		<string name="c20_f2" value="I'll be better. Don't hate me."/>
+		<string name="c20_f3" value="I'll tell Jr. Balrog!!"/>
+		<string name="c20_f4" value="So feisty...why the hate?"/>
+		<string name="c21" value="fire|attack"/>
+		<string name="c21_s1" value="Ready set fire!"/>
+		<string name="c21_s2" value="Drrrrrrr!!"/>
+		<string name="c21_s3" value="Blow! Blow!"/>
+		<string name="c21_s4" value="Bring it on!"/>
+		<string name="c21_f1" value="I don't feel like doing that."/>
+		<string name="c21_f2" value="Robo robo?"/>
+		<string name="c21_f3" value="Ehh?"/>
+		<string name="c21_f4" value="?????"/>
+		<string name="c22" value="fire|attack"/>
+		<string name="c22_s1" value="Bring it on! Bring it on!!!"/>
+		<string name="c22_s2" value="Everyone down! Blow!!!"/>
+		<string name="c22_s3" value="I'm ready to fire away! Muahahah!!!"/>
+		<string name="c22_s4" value="Don't I look awesome?"/>
+		<string name="c22_f1" value="Hello"/>
+		<string name="c22_f2" value="Isn't it beautiful outside? Let's walk around."/>
+		<string name="c22_f3" value="What are you looking at?"/>
+		<string name="c22_f4" value="I believe in peace, not war."/>
+		<string name="c23" value="fire|attack"/>
+		<string name="c23_s1" value="I'm a real action star!"/>
+		<string name="c23_s2" value="I'll attack. You go pick up the items."/>
+		<string name="c23_s3" value="Show me if you can find someone who can shoot better than me!"/>
+		<string name="c23_s4" value="I don't need to aim. I'll just fire away!!!"/>
+		<string name="c23_f1" value="Hmmm...my tail seems to be working well."/>
+		<string name="c23_f2" value="Lalala! What did you just say?"/>
+		<string name="c23_f3" value="It's so nice outside. Let's go camping!"/>
+		<string name="c23_f4" value="I am out of ammo..."/>
+		<string name="c24" value="talk|chat|say"/>
+		<string name="c24_s1" value="Press 1 to speak to a talking robot, press 0 to repeat the message."/>
+		<string name="c24_s2" value="Do you think I can meet up with other robots like me at Ludibrium?"/>
+		<string name="c24_s3" value="What's the tallest tower in the world? Eos Tower, of course!"/>
+		<string name="c24_s4" value="I think I am by far the best looking robot here..."/>
+		<string name="c24_f1" value="Do you need someone to talk to?"/>
+		<string name="c24_f2" value="I don't think I can talk to you..."/>
+		<string name="c24_f3" value="I no speak Engrish..."/>
+		<string name="c24_f4" value="Let's end it right here."/>
+		<string name="c25" value="talk|chat|say"/>
+		<string name="c25_s1" value="Do you want to know how smart I am? Much smarter than you!!"/>
+		<string name="c25_s2" value="Any hot robots around here? I can't find any..."/>
+		<string name="c25_s3" value="I am so lonely. Introduce me to other robots!!!"/>
+		<string name="c25_s4" value="Dragon Roar!!!! Wait, why can't I do this?"/>
+		<string name="c25_f1" value="Did someone just pass gass?"/>
+		<string name="c25_f2" value="I'm sorry I only have one mouth to speak."/>
+		<string name="c25_f3" value="I can't express myself with words..."/>
+		<string name="c25_f4" value="I got dumped today..."/>
+		<string name="c26" value="talk|chat|say"/>
+		<string name="c26_s1" value="Promise me to show me if you ever run across an amazing part for robots!"/>
+		<string name="c26_s2" value="A few days ago, I saw this incredible thing that's covered in gold light. He seemed quite familiar..."/>
+		<string name="c26_s3" value="I talked to Jr. Balrog yesterday, and he wanted to have a word with you...alone."/>
+		<string name="c26_s4" value="Arwen, Rowen, and Mar are in a love triangle. Why? Because of me!!!"/>
+		<string name="c26_f1" value="Did I sleep too late last night? I'm tired."/>
+		<string name="c26_f2" value="Arwen said she likes quiet men."/>
+		<string name="c26_f3" value="Did I talk too much today? I feel like my wires have burnt out for the day."/>
+		<string name="c26_f4" value="Let's stop talking and start hunting."/>
+		<string name="c27" value="change|go"/>
+		<string name="c27_s1" value="Just tell me where the monsters are."/>
+		<string name="c27_s2" value="The Hands of Steel!!!"/>
+		<string name="c27_s3" value="This is easy!"/>
+		<string name="c27_s4" value="How about transforming in the morning, afternoon, and nighttime?"/>
+		<string name="c27_f1" value="Seriously, stop."/>
+		<string name="c27_f2" value="I don't feel like doing that."/>
+		<string name="c27_f3" value="This isn't fun. I don't want to do it."/>
+		<string name="c27_f4" value="I can't hear you."/>
+		<string name="c28" value="change|go"/>
+		<string name="c28_s1" value="Now transforming to the hottest robot in this world."/>
+		<string name="c28_s2" value="I deal with the monsters. You deal with the items."/>
+		<string name="c28_s3" value="Size has nothing to do with power."/>
+		<string name="c28_s4" value="Transforming? That's easy!"/>
+		<string name="c28_f1" value="Feed me with gasoline first."/>
+		<string name="c28_f2" value="You know, I can't do EVERYTHING for you."/>
+		<string name="c28_f3" value="I don't care if you call me a bad robot."/>
+		<string name="c28_f4" value="I say no to anyone that orders me to do something."/>
+		<string name="c29" value="change|go"/>
+		<string name="c29_s1" value="Now transforming to the most powerful, spectacular, amazing, sexiest robot ever!"/>
+		<string name="c29_s2" value="I bet you no one else can do this!"/>
+		<string name="c29_s3" value="Now transforming to...Meso Rangers!!! Wait, that's not it."/>
+		<string name="c29_s4" value="More than meets the--wait...I can't say that!"/>
+		<string name="c29_f1" value="I don't think you realize just how hard it is to transform."/>
+		<string name="c29_f2" value="Stop asking me to transform!"/>
+		<string name="c29_f3" value="Dude...do you want eat some of this iron fists?"/>
+		<string name="c29_f4" value="Do you realize how stupid I feel firing away at nothing?"/>
+		<string name="f1_s" value="Yummmm..."/>
+		<string name="f1_f" value="What are you trying to do?"/>
+		<string name="f2_s" value="Now charging batteries...charging complete."/>
+		<string name="f2_f" value="My batteries have been charged already."/>
+		<string name="f3_s" value="I am at my happiest eating."/>
+		<string name="f3_f" value="It's not time to charge batteries yet!"/>
+		<string name="f4_s" value="How did you know I was so hungry?"/>
+		<string name="f4_f" value="I know I can eat a lot, but not THAT much."/>
+		<string name="s1" value="KROWL~ KROWL~Meoooow!"/>
+		<string name="s2" value="I hate bad words~"/>
+		<string name="s3" value="KROWL~ KROWL~ No bad words!"/>
+		<string name="s4" value="If you say bad words, I am gonna ban you!"/>
+		<string name="e_levelup" value="Congratulations! You're still a long way from my level, though!"/>
+		<string name="e_rest" value="Are you bored? What are you doing?"/>
+		<string name="e_HPAlert" value="I think I saw something blink...hey, are you alright?"/>
+		<string name="e_prelevelup" value="A little more, and you'll level up! Keep going!"/>
+		<string name="e_NOHPPotion" value="I don't have any HP potions to give you. Check your inventory."/>
+		<string name="e_NOMPPotion" value="I don't have any MP potions to give you. Check your inventory."/>
+		<imgdir name="autoSpeaking">
+			<string name="0" value="You don't look too good... maybe you should change your skin color."/>
+			<string name="1" value="It's time for a phone call from my lover #23."/>
+			<string name="2" value="It's time for a phone call from my lover #234."/>
+			<string name="3" value="It's time for a phone call from my lover #2567."/>
+			<string name="4" value="My goal is to make 10,000 lovers. You?"/>
+			<string name="5" value="Would it look weird if I wear an earring?"/>
+			<string name="6" value="Hey what's the most popular style in Henesys these days? Don't tell me it's what you're wearing..."/>
+			<string name="7" value="Do you understand how many dates I have to decline in order to be with you?"/>
+			<string name="8" value="I only talk to you so you won't get too bored. "/>
+			<string name="9" value="Hey, whatever I told you right now is a secret, okay?"/>
+			<string name="10" value="I like hanging out with you!"/>
+			<string name="11" value="Why do women love small, shiny objects?"/>
+			<string name="12" value="It smells here...did you...?"/>
+			<string name="13" value="Don't you remember struggling against snails?"/>
+			<string name="14" value="We've been walking too much. Let's go to Aqua Road and rest."/>
+			<string name="15" value="If you know any nice restaurants, take me there!"/>
+		</imgdir>
+	</imgdir>

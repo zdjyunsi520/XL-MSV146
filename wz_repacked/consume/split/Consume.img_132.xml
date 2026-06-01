@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046335">
+		<string name="name" value="Gallant Scroll for Accessory LUK 50%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nLUK: +3\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046336">
+		<string name="name" value="Gallant Scroll for Accessory HP 65%"/>
+		<string name="desc" value="Improves Max HP on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2046337">
+		<string name="name" value="Gallant Scroll for Accessory HP 15%"/>
+		<string name="desc" value="Improves Max HP on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046338">
+		<string name="name" value="Gallant Scroll for Accessory MP 65%"/>
+		<string name="desc" value="Improves Max MP on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax MP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2046339">
+		<string name="name" value="Gallant Scroll for Accessory MP 15%"/>
+		<string name="desc" value="Improves Max MP on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax MP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046340">
+		<string name="name" value="Joyous 7th Dark Scroll for Accessory for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046341">
+		<string name="name" value="Joyous 7th Dark Scroll for Accessory for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046342">
+		<string name="name" value="Legends Scroll for Accessory STR 20%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046343">
+		<string name="name" value="Legends Scroll for Accessory INT 20%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046344">
+		<string name="name" value="Legends Scroll for Accessory DEX 20%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046345">
+		<string name="name" value="Legends Scroll for Accessory LUK 20%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046346">
+		<string name="name" value="Legends Dark Scroll for Accessory STR 40%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046347">
+		<string name="name" value="Legends Dark Scroll for Accessory INT 40%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046348">
+		<string name="name" value="Legends Scroll for Accessory DEX 40%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046349">
+		<string name="name" value="Legends Dark Scroll for Accessory LUK 40%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046350">
+		<string name="name" value="Legends Scroll for Accessory STR 70%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nMax HP: +10\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046351">
+		<string name="name" value="Legends Scroll for Accessory INT 70%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nMax HP: +5\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046352">
+		<string name="name" value="Legends Scroll for Accessory DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046353">
+		<string name="name" value="Legends Scroll for Accessory LUK 70%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046354">
+		<string name="name" value="Legends Scroll for Accessory STR 20%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+</imgdir>

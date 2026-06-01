@@ -1,0 +1,5 @@
+<imgdir name="61111002">
+        <string name="name" value="石龙召唤" />
+        <string name="desc" value="召唤石龙像拉扯敌人并攻击，有概率使其减速！" />
+        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec, Enemies Hit: #mobCount, Damage: #damage%, Slow Chance: #prop%, Slow Duration: #subTime sec" />
+    </imgdir>

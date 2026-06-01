@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="0000111"><string name="name" value="整理达人"/><string name="desc" value="扩大装备、消耗、设置和其它背包的容量。"/><string name="h" value="永久扩大装备、消耗、设置和其它背包各 #x 格。"/></imgdir>
+    <imgdir name="111"><string name="bookName" value="十字军指南"/></imgdir>
+    <imgdir name="0000112"><string name="name" value="整理达人"/><string name="desc" value="扩大装备、消耗、设置和其它背包的容量。"/><string name="h" value="永久扩大装备、消耗、设置和其它背包各 #x 格。"/></imgdir>
+    <imgdir name="112"><string name="bookName" value="终极英雄"/></imgdir>
+    <imgdir name="120"><string name="bookName" value="准骑士之路"/></imgdir>
+    <imgdir name="121"><string name="bookName" value="骑士准则"/></imgdir>
+    <imgdir name="122"><string name="bookName" value="圣光骑士"/></imgdir>
+    <imgdir name="130"><string name="bookName" value="枪战士技巧"/></imgdir>
+    <imgdir name="132"><string name="bookName" value="暗黑龙骑士"/></imgdir>
+    <imgdir name="0000180"><string name="name" value="白天使祝福"/><string name="desc" value="[大师等级：1] 接受白天使的祝福～"/><string name="h1" value="ATT: +12, Magic +ATT: 12, Duration: 10 min"/></imgdir>
+    <imgdir name="0000190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大的力量！"/><string name="h" value="Permanently increases STR: #strX, DEX: #dexX, INT: #intX, LUK: #lukX, ATT: #padX, Magic ATT: #madX"/></imgdir>
+    <imgdir name="0001196"><string name="name" value="米哈尔之魂"/><string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/><string name="pdesc" value="召唤精灵攻击附近的敌人。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/></imgdir>
+    <imgdir name="0001197"><string name="name" value="奥兹之焰"/><string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/><string name="pdesc" value="召唤精灵攻击附近的怪物。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/></imgdir>
+    <imgdir name="0001198"><string name="name" value="伊雷娜之风"/><string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/><string name="pdesc" value="召唤精灵攻击附近的敌人。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/></imgdir>
+    <imgdir name="0001199"><string name="name" value="埃克哈特之暗"/><string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/><string name="pdesc" value="召唤精灵攻击附近的敌人。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/></imgdir>
+    <imgdir name="0001200"><string name="name" value="鹰眼之雷"/><string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/><string name="pdesc" value="召唤精灵攻击附近的敌人。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec"/></imgdir>
+    <imgdir name="0001203"><string name="name" value="超级变身"/><string name="desc" value="[大师等级：1]\n变身为超级人类，速度闪电般飞快！"/><string name="h1" value="MP Cost: 10, Movement Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="0001204"><string name="name" value="战舰"/><string name="desc" value="[大师等级：1]\n驾驶战舰在战场上横冲直撞！"/><string name="h1" value="MP Cost: 10, Movement Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="200"><string name="bookName" value="魔法入门"/></imgdir>
+    <imgdir name="210"><string name="bookName" value="火毒基础"/></imgdir>
+</imgdir>

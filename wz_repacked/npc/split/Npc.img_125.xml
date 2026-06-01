@@ -1,0 +1,135 @@
+<imgdir name="Npc.img">
+    <imgdir name="9901002">
+		<string name="d0" value="Hello! I finally reached level 200 after many trials and challenges. If you work hard, you can reach it, too. Good luck!"/>
+		<string name="n1" value="You should speak with Dances with Balrog to become a Warrior."/>
+		<string name="n0" value="My name is /name and I've reached level 200."/>
+	</imgdir>
+    <imgdir name="9901003">
+		<string name="n1" value="You should speak with Dances with Balrog to become a Warrior."/>
+		<string name="d0" value="Hello! I finally reached level 200 after many trials and challenges. If you work hard, you can reach it, too. Good luck!"/>
+		<string name="n0" value="My name is /name and I've reached level 200."/>
+	</imgdir>
+    <imgdir name="1200001">
+		<string name="name" value="Puno"/>
+		<string name="func" value="Weapon Merchant"/>
+		<string name="n0" value="Haha.. Any items you have in mind? I have plenty of polearms."/>
+		<string name="n1" value="Are you asking me if I can see in front of me? Of course I can!"/>
+	</imgdir>
+    <imgdir name="1200002">
+		<string name="name" value="Puri Puri"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="Potions that look good taste good as well."/>
+		<string name="n1" value="I have EVERYTHING you need here. Just take a look around, and you'll see what I mean!"/>
+	</imgdir>
+    <imgdir name="1200003">
+		<string name="name" value="Puro"/>
+		<string name="func" value="To Victoria Island"/>
+		<string name="n0" value="If you are heading towards Victoria Island, let me know."/>
+		<string name="n1" value="Aaah... I'm so tired."/>
+	</imgdir>
+    <imgdir name="1200004">
+		<string name="name" value="Puro"/>
+		<string name="func" value="To Rien"/>
+		<string name="n0" value="If you are headed towards Rien, then let me know."/>
+		<string name="n1" value="Nothing to do... La la la."/>
+	</imgdir>
+    <imgdir name="1200005">
+		<string name="name" value="Puro"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n0" value="I hate cruising past glaciers."/>
+		<string name="n1" value="No skills allowed on board!"/>
+		<string name="d0" value="Just take a seat and enjoy the ride. I can't let anyone use skills here. You just might destroy the ship."/>
+		<string name="d1" value="Just take a seat and enjoy the ride. I can't let anyone use skills here. You just might destroy the ship."/>
+	</imgdir>
+    <imgdir name="1200006">
+		<string name="name" value="Puro"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n0" value="Rien should come into view soon..."/>
+		<string name="n1" value="Please make sure not to destroy the ship."/>
+		<string name="d0" value="If you horse around and wind up falling off the ship, you'll be sent back to where you started. You wouldn't want that to happen."/>
+		<string name="d1" value="If you move around recklessly and wind up dropping from the ship, you'll be sent back to the place of origin. You wouldn't want that to happen."/>
+	</imgdir>
+    <imgdir name="1201000">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="Now that the hero's back, there's nothing to worry about."/>
+		<string name="n1" value="I'm never alone..."/>
+		<string name="d0" value="Now that the hero's back, there's nothing to worry about."/>
+		<string name="d1" value="Now that the hero's back, there's nothing to worry about."/>
+	</imgdir>
+    <imgdir name="1201001">
+		<string name="name" value="Giant Polearm"/>
+		<string name="d0" value="(It's a giant polearm. Hard to imagine someone can actually hold it up.)"/>
+		<string name="d1" value="(It's a giant polearm. Hard to imagine someone can actually hold it up.)"/>
+	</imgdir>
+    <imgdir name="1201002">
+		<string name="name" value="Maha"/>
+		<string name="func" value="Spirit of Polearm"/>
+		<string name="d0" value="What kind of owner are you..."/>
+		<string name="d1" value="What kind of owner are you..."/>
+	</imgdir>
+    <imgdir name="1202001">
+		<string name="name" value="Puka"/>
+		<string name="n0" value="Good thing I brought my potions with me."/>
+		<string name="n1" value="Lilin going out of town? Since when did that happen?"/>
+		<string name="d0" value="Rien is hardly ever visited by humans. Lilin is the only resident on the island."/>
+		<string name="d1" value="You are back, which means Lilin's wishes are coming true!"/>
+	</imgdir>
+    <imgdir name="1202002">
+		<string name="name" value="Puen"/>
+		<string name="n0" value="Aaah, such a cool breeze."/>
+		<string name="n1" value="I wonder what Puir is doing."/>
+		<string name="d0" value="It's a beautiful island for us, but it's a terrible place for humans to live."/>
+		<string name="d1" value="Thanks to you, this island will finally have signs of life!"/>
+	</imgdir>
+    <imgdir name="1202003">
+		<string name="name" value="Puir"/>
+		<string name="n0" value="The hero is back..."/>
+		<string name="n1" value="Good thing I have the weapon with me."/>
+		<string name="d0" value="I've always wanted to meet you."/>
+		<string name="d1" value="Hopefully the weapon will provide you with some power."/>
+	</imgdir>
+    <imgdir name="1202005">
+		<string name="name" value="Putzki"/>
+		<string name="n0" value="Hmmm... What should I make? I have a lot to work with..."/>
+		<string name="n1" value="Penguins do not need chairs. Our whole body is feathery soft."/>
+		<string name="d0" value="I want to make something useful for you."/>
+		<string name="d1" value="Please think of me whenever you take a seat on that chair."/>
+	</imgdir>
+    <imgdir name="1202006">
+		<string name="name" value="Puo"/>
+		<string name="func" value="Instructor Penguin"/>
+		<string name="n0" value="Blizzards are not a valid reason to skip training."/>
+		<string name="n1" value="Your skills are so complex, it'll take forever for me to understand them!"/>
+		<string name="d0" value="Oooh, hello there. I've been waiting for you!"/>
+		<string name="d1" value="Oooh, hello there. I've been waiting for you!"/>
+	</imgdir>
+    <imgdir name="1202007">
+		<string name="name" value="Pucci"/>
+		<string name="n0" value="I love raising eggs. It's fun!"/>
+		<string name="n1" value="...Eh? Is it just me, or are there more eggs here than before?"/>
+		<string name="d0" value="Aaah, what should I do? I've been raising something that wasn't an egg!"/>
+		<string name="d1" value="Hah... How can I raise this wolf? No, no, I shouldn't be worried about this."/>
+	</imgdir>
+    <imgdir name="1202008">
+		<string name="name" value="Head Wolf"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="Wolves only speak when it's absolutely necessary."/>
+		<string name="d1" value="Wolves only speak when it's absolutely necessary."/>
+	</imgdir>
+    <imgdir name="1202009">
+		<string name="name" value="Wolf Guard"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="My boss tells me that wolves never speak carelessly."/>
+		<string name="d1" value="My boss tells me that wolves never speak carelessly."/>
+	</imgdir>
+    <imgdir name="1202010">
+		<string name="name" value="Pudin"/>
+		<string name="func" value="Palace Guard"/>
+		<string name="n0" value="Are you a true hero?"/>
+		<string name="n1" value="The Hall of Heroes is a holy place."/>
+		<string name="d0" value="I've been awaiting the arrival of the ultimate hero!"/>
+		<string name="d1" value="I've been awaiting the arrival of the ultimate hero!"/>
+	</imgdir>
+</imgdir>

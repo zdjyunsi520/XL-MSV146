@@ -1,0 +1,5 @@
+<imgdir name="4211003">
+        <string name="name" value="Pickpocket" />
+        <string name="desc" value="Temporarily increases the Mesos dropped by monsters.  Meso drops increase in proportion to skill level.\nThis skill can be toggled on and off with the skill key." />
+        <string name="h" value="Meso Drop Chance: #prop%" />
+    </imgdir>

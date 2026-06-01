@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2432367">
+		<string name="name" value="双猫头鹰坐骑永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双猫头鹰坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432368">
+		<string name="name" value="双熊热气坐骑永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双熊热气坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432369">
+		<string name="name" value="双马克西姆斯坐骑永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双马克西姆斯坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432370">
+		<string name="name" value="双红卡车坐骑永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双红卡车坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432371">
+		<string name="name" value="双动力套装坐骑永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双动力套装坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432373">
+		<string name="name" value="双粉色独角兽永久优惠券"/>
+		<string name="desc" value="双击从今天起永久使用[双粉色独角兽坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432374">
+		<string name="name" value="永久双青蛙优惠券"/>
+		<string name="desc" value="双击获得永久[双青蛙坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432375">
+		<string name="name" value="双阿里亚助手坐骑永久优惠券"/>
+		<string name="desc" value="双击获得永久[双阿里亚助手坐骑]。"/>
+	</imgdir>
+    <imgdir name="2432376">
+		<string name="name" value="黑龙坐骑永久优惠券"/>
+		<string name="desc" value="双击获得永久[黑龙坐骑]。\n即使你没有该技能，也可以在此坐骑上使用滑翔。"/>
+	</imgdir>
+    <imgdir name="2432377">
+		<string name="name" value="黑曜石美洲豹坐骑永久优惠券"/>
+		<string name="desc" value="双击获得永久[黑曜石美洲豹坐骑]。\n即使你没有该技能，也可以在此坐骑上使用美洲豹跳跃。"/>
+	</imgdir>
+    <imgdir name="2432378">
+		<string name="name" value="愉悦雪球坐骑优惠券"/>
+		<string name="desc" value="#c双击#获得#c愉悦雪球#坐骑，永久有效。可以滑翔！"/>
+	</imgdir>
+    <imgdir name="2432379">
+		<string name="name" value="神秘蝴蝶永久优惠券"/>
+		<string name="desc" value="#c双击#永久获得#c神秘蝴蝶#坐骑。可以滑翔！"/>
+	</imgdir>
+    <imgdir name="2432380">
+		<string name="name" value="黑飞龙永久坐骑优惠券"/>
+		<string name="desc" value="双击使用[黑飞龙坐骑]坐骑技能。\n[黑飞龙]可以自由飞翔。"/>
+	</imgdir>
+    <imgdir name="2432381">
+		<string name="desc" value="#c双击#获得永久#c粉色泡芙球坐骑#，可以在城镇中使用高空飞行技能。"/>
+		<string name="name" value="永久粉色泡芙球坐骑优惠券"/>
+	</imgdir>
+    <imgdir name="2432382">
+		<string name="desc" value="#c双击#获得永久#c黑色泡芙球坐骑#，可以在城镇中使用高空飞行技能。"/>
+		<string name="name" value="永久黑色泡芙球坐骑优惠券"/>
+	</imgdir>
+    <imgdir name="2432363">
+		<string name="desc" value="#c双击#获得其中一个永久坐骑优惠券。"/>
+		<string name="name" value="永久坐骑随机盒子\r\n"/>
+	</imgdir>
+    <imgdir name="2432409">
+		<string name="name" value="魔法屏障技能手册优惠券"/>
+		<string name="desc" value="可用于兑换一个伊文魔法屏障技能手册的优惠券。"/>
+	</imgdir>
+    <imgdir name="2432410">
+		<string name="name" value="魔法 booster 技能手册优惠券"/>
+		<string name="desc" value="可用于兑换一个伊文魔法 booster 技能手册的优惠券。"/>
+	</imgdir>
+    <imgdir name="2432413">
+		<string name="name" value="愉悦雪球坐骑优惠券"/>
+		<string name="desc" value="#c双击#获得#c愉悦雪球#坐骑，永久有效。可以滑翔！"/>
+	</imgdir>
+    <imgdir name="2432414">
+		<string name="name" value="雪花王座坐骑优惠券"/>
+		<string name="desc" value="#c双击#获得临时#c雪花王座#，可以在城镇中使用高空飞行技能。"/>
+	</imgdir>
+</imgdir>

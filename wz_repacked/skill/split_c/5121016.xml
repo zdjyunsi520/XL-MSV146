@@ -1,0 +1,7 @@
+<imgdir name="5121016">
+        <string name="name" value="海盗爆破" />
+        <string name="desc" value="集中能量发射强力弹射攻击敌人。#c充满能量时#，双重爆破伤害更高射程更远~" />
+        <string name="h" value="MP消耗: #mpCon，敌人数: #mobCount，伤害: #damage%，攻击次数: #attackCount，能量充满时双重爆破伤害增加#damR%" />
+        <string name="pdesc" value="集中能量发射强力弹射攻击敌人。#c充满能量时#，双重爆破伤害更高射程更远~" />
+        <string name="ph" value="MP消耗: #mpCon，敌人数: #mobCount，伤害: #damage%，攻击次数: #attackCount，能量充满时双重爆破伤害增加#damR%" />
+    </imgdir>

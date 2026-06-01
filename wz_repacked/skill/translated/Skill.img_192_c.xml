@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="35120046"><string name="name" value="增幅机器人AF-11-强化"/><string name="desc" value="提升增幅机器人AF-11的自爆伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="35120047"><string name="name" value="增幅机器人AF-11-队伍强化"/><string name="desc" value="提升增幅机器人AF-11的队伍增益伤害。"/><string name="h" value="队友伤害：+#x%"/></imgdir>
+    <imgdir name="35120048"><string name="name" value="增幅机器人AF-11-持久"/><string name="desc" value="延长增幅机器人AF-11的持续时间。"/><string name="h" value="持续时间：+#time秒"/></imgdir>
+    <imgdir name="35120049"><string name="name" value="激光爆破-强化"/><string name="desc" value="提升激光爆破的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="35120050"><string name="name" value="激光爆破-扩散"/><string name="desc" value="增加激光爆破可攻击的怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+    <imgdir name="35120051"><string name="name" value="激光爆破-额外攻击"/><string name="desc" value="增加激光爆破的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="35121052"><string name="name" value="扭曲炸弹"/><string name="desc" value="引爆特殊反抗军炸弹制造扭曲力场。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="35121053"><string name="name" value="为了自由"/><string name="desc" value="凝聚反抗军的意志，提升攻击力。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。仅适用于队伍中的反抗军职业"/></imgdir>
+    <imgdir name="35121054"><string name="name" value="反应装甲"/><string name="desc" value="安装特殊反应装甲，强化机械师防御。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，最大HP：+#indieMhpR%，异常状态抗性：+#x%，受到伤害减少：+#y%"/></imgdir>
+    <imgdir name="80001198"><string name="name" value="龙骑坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘龙骑坐骑。可使用滑翔。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001199"><string name="name" value="双人绿蛙坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘绿蛙坐骑。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001205"><string name="name" value="基础礼包增益"/><string name="desc" value="基础礼包购买者专属增益。30分钟内提升物理攻击力和魔法攻击力。可与其他增益叠加。"/><string name="h1" value="增益效果随每10级递增，最高到100级。"/></imgdir>
+    <imgdir name="80001206"><string name="name" value="特殊礼包增益"/><string name="desc" value="特殊礼包购买者专属增益。30分钟内提升物理攻击力和魔法攻击力。可与其他增益叠加。"/><string name="h1" value="增益效果随每10级递增。"/></imgdir>
+    <imgdir name="80001207"><string name="name" value="枫叶升级礼包增益"/><string name="desc" value="升级礼包购买者专属增益。30分钟内提升物理攻击力和魔法攻击力。可与其他增益叠加。"/><string name="h1" value="增益效果随每10级递增。"/></imgdir>
+    <imgdir name="80001220"><string name="name" value="双人幻影粉丝坐骑"/><string name="desc" value="[最高等级：1]\n骑上幻影的摩托兜风。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001221"><string name="name" value="双人阿里亚助手坐骑"/><string name="desc" value="[最高等级：1]\n和阿里亚一起骑摩托。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001222"><string name="name" value="龙骑坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘龙骑坐骑。可使用滑翔。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001223"><string name="name" value="双人幻影粉丝坐骑"/><string name="desc" value="[最高等级：1]\n骑上幻影的摩托兜风。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001224"><string name="name" value="双人阿里亚助手坐骑"/><string name="desc" value="[最高等级：1]\n和阿里亚一起骑摩托。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="80001228"><string name="name" value="黑曜美洲豹坐骑"/><string name="desc" value="[最高等级：1]\n骑上黑曜美洲豹冲入战场。可使用美洲豹跳。"/><string name="h1" value="消耗MP：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="60018006"><string name="name" value="优秀的极速"/><string name="desc" value="[潜能技能]\n消耗HP和MP，在一段时间内将攻击速度提升1级。可与其他增益技能叠加，但与极速不能叠加。"/><string name="h1" value="HP Cost: 120, Attack Speed increased for 240 seconds."/></imgdir>
+    <imgdir name="60011216"><string name="name" value="灵魂射手"/><string name="desc" value="继承埃斯卡尔德的力量，同时掌控灵魂射手和灵魂戒指。"/><string name="h" value="Hold down attack key to attack continuously. Works while moving. Deal #damage% damage to #mobCount enemies. #onActive% recharge success chance."/></imgdir>
+    <imgdir name="60010217"><string name="name" value="真心继承"/><string name="desc" value="引出埃斯卡尔德的真正力量，强化灵魂射手的隐藏力量！"/><string name="h" value="+10% Additional Soul Shooter Mastery"/></imgdir>
+    <imgdir name="60011218"><string name="name" value="抓钩之心"/><string name="desc" value="向上方抛出魔法绳索，攀爬到更高的平台上～"/><string name="h" value="Use to move to nearest the platform above you. Press jump while moving to cancel."/></imgdir>
+    <imgdir name="60011219"><string name="name" value="契约条款"/><string name="desc" value="利用你对契约的精通，让埃斯卡尔德在短时间内大幅提升攻击力！"/><string name="h" value="+#indieDamR% skill damage for #time sec when active\nCooldown: #cooltime sec. Skill effects reduced to half when used with link skill."/></imgdir>
+    <imgdir name="60011220"><string name="name" value="白日梦想家"/><string name="desc" value="移动到天使破坏者的房间——可爱破坏者套房。出口通往帕伦提亚。"/><string name="h" value="Return to Angelic Buster&apos;s room when used.\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="60011221"><string name="name" value="超级换装"/><string name="desc" value="自定义变身后的外观。#c变身后只能在换装界面中更改外观哦。#"/><string name="h" value="A window that allows you to customize your Angelic Buster outfit will open when you use this skill."/></imgdir>
+    <imgdir name="60011222"><string name="name" value="变身"/><string name="desc" value="召唤埃斯卡尔德的力量，变身为天使破坏者！"/><string name="h" value="Use this skill to alter pre-transformation and post-transformation appearances."/></imgdir>
+    <imgdir name="6500"><string name="bookName" value="天使破坏者一转"/></imgdir>
+    <imgdir name="65001100"><string name="name" value="星辰泡泡"/><string name="desc" value="发射压缩的未精炼能量流。弹丸命中时造成范围伤害。"/><string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Soul Battery Skill. Recharge Chance: #onActive%"/></imgdir>
+    <imgdir name="65001001"><string name="name" value="羽翼跳跃"/><string name="desc" value="跳跃时配合方向键进行翻滚。再次按跳跃键可以连续跳跃～"/><string name="h" value="Jump distance will increase with level. Press Jump + directional key in air to jump again."/></imgdir>
+    <imgdir name="65001002"><string name="name" value="旋律十字"/><string name="desc" value="运用埃斯卡尔德的力量，看穿敌人的行动！		"/><string name="h" value="Accuracy: +#indieAcc, Duration: #time sec	"/></imgdir>
+    <imgdir name="65000003"><string name="name" value="亲和之心I"/><string name="desc" value="与埃斯卡尔德更加亲密，引出力量，让身体变得更轻盈～"/><string name="h" value="Recharge Rate: +#x%, Speed: +#psdSpeed, Jump: +#psdJump, Speed Limit: +#speedMax"/></imgdir>
+    <imgdir name="6510"><string name="bookName" value="天使破坏者二转"/></imgdir>
+    <imgdir name="65101100"><string name="name" value="可爱之刺"/><string name="desc" value="用美丽的力量光束穿透敌人并施加减益效果。再次使用技能可以引爆减益效果！"/><string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. You can detonate the debuff on enemies afterwards. Soul Battery skill. Recharge Chance: #onActive%"/></imgdir>
+    <imgdir name="65101001"><string name="name" value="粉色猛击"/><string name="desc" value="冲向敌人并造成击退！有几率触发充能。"/><string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Recharge Chance: #onActive%"/></imgdir>
+    <imgdir name="65101002"><string name="name" value="力量转移"/><string name="desc" value="生成一个护盾，吸收敌人造成的部分伤害。"/><string name="h" value="Duration: #time sec, Damage Absorbed: #y%, Damage Reduced with Shield: #x%"/></imgdir>
+    <imgdir name="65100003"><string name="name" value="灵魂射手精通"/><string name="desc" value="提升灵魂射手精通度、命中率和武器攻击力。"/><string name="h" value="Soul Shooter Mastery: +#mastery%, Accuracy: +#x, Weapon Attack: +#padX"/></imgdir>
+    <imgdir name="65100004"><string name="name" value="美丽灵魂"/><string name="desc" value="永久提升DEX。"/><string name="h" value="Permanent +#dexX DEX"/></imgdir>
+    <imgdir name="65101106"><string name="name" value="可爱之刺"/><string name="desc" value="用美丽的力量光束穿透敌人并施加减益效果。再次使用技能可以引爆减益效果！"/><string name="h" value="Mobs with Debuff Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Soul Battery Skill."/></imgdir>
+</imgdir>

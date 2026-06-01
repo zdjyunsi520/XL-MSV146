@@ -1,0 +1,319 @@
+<imgdir name="5000023">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="WEK WEK~~ !"/>
+		<string name="c1_s2" value="WEK~"/>
+		<string name="c1_f1" value="WEK?"/>
+		<string name="c1_f2" value="..."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Sit? Like this? WEK WEK. "/>
+		<string name="c2_s2" value="I can do it! WEK!"/>
+		<string name="c2_s3" value="WEK~~ this is the way to do it, right?"/>
+		<string name="c2_s4" value="Sit? Okay! I stll feel great though ~~~ WEK~ WEK~"/>
+		<string name="c2_f1" value="You show me how to do it first...WEK"/>
+		<string name="c2_f2" value="I can't do it!! WEK!!"/>
+		<string name="c2_f3" value="I never learned how to sit... weK!"/>
+		<string name="c2_f4" value="... WEEEKKKKK ..."/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Keep letting me do this ~~ WEK~"/>
+		<string name="c3_s2" value="Too easy ~~ WEK WEK! "/>
+		<string name="c3_s3" value="Do I sit like this? WEK!"/>
+		<string name="c3_s4" value="Fun!! WEK!"/>
+		<string name="c3_f1" value="You must be kidding me... WEK"/>
+		<string name="c3_f2" value="I'll do that later... WEK..."/>
+		<string name="c3_f3" value="Don't let me do stupid things like this... WEK.."/>
+		<string name="c3_f4" value="It's not like I'll be getting a prize for doing this... WEK"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="I mastered the art of sitting."/>
+		<string name="c4_s2" value="I can sit! I really can sit!!"/>
+		<string name="c4_s3" value="This is good..."/>
+		<string name="c4_s4" value="Give me something harder to do."/>
+		<string name="c4_f1" value="Wait til I turn back into a doll... then I'll sit."/>
+		<string name="c4_f2" value="Look, I'm fat, and it's hard for me to sit."/>
+		<string name="c4_f3" value="Don't bother me"/>
+		<string name="c4_f4" value="Hooo...  hooo...  what?"/>
+		<string name="c5" value="bad|no|badgirl|badboy"/>
+		<string name="c5_s1" value="WEK WEK ~~ "/>
+		<string name="c5_s2" value="...WEK..."/>
+		<string name="c5_f1" value="WEK???"/>
+		<string name="c5_f2" value="WEK!!! WEK!!!"/>
+		<string name="c6" value="bad|no|badgirl|badboy"/>
+		<string name="c6_s1" value="WEK~! I'll be good."/>
+		<string name="c6_s2" value="WEK WEK~ don't scold me."/>
+		<string name="c6_s3" value="WEK~~ I'm so sorry."/>
+		<string name="c6_s4" value="WEK WEK... sniff sniff"/>
+		<string name="c6_f1" value="Arrrghh... WEK"/>
+		<string name="c6_f2" value="And what are you trying to say? WEK!"/>
+		<string name="c6_f3" value="Umm... you're no different than me. WEK!"/>
+		<string name="c6_f4" value="Don't tell me what to do! WEK!"/>
+		<string name="c7" value="bad|no|badgirl|badboy"/>
+		<string name="c7_s1" value="I'm sad... WEK WEK."/>
+		<string name="c7_s2" value="I won't do that again... WEK... WEK...."/>
+		<string name="c7_s3" value="Okay now ... calm down ... WEK WEK.."/>
+		<string name="c7_s4" value="I get it. I'll be a good penguin now."/>
+		<string name="c7_f1" value="What do you want me to do? WEK!"/>
+		<string name="c7_f2" value="Did I do anything wrong? WEK?"/>
+		<string name="c7_f3" value="Whatever. WEK"/>
+		<string name="c7_f4" value="I feel hurt... WEK"/>
+		<string name="c8" value="bad|no|badgirl|badboy"/>
+		<string name="c8_s1" value="Please forgive me..."/>
+		<string name="c8_s2" value="You scare me..."/>
+		<string name="c8_s3" value="My heart's been torn to pieces... sigh..."/>
+		<string name="c8_s4" value="What can I do to make you feel better?"/>
+		<string name="c8_f1" value="Hey, you're the one that started!"/>
+		<string name="c8_f2" value="Seriously, I didn't do anything wrong."/>
+		<string name="c8_f3" value="Um, WHAT? WHAT??"/>
+		<string name="c8_f4" value="Who's talking junk here?"/>
+		<string name="c9" value="poop"/>
+		<string name="c9_s1" value="WEK WEK~~ !"/>
+		<string name="c9_s2" value="WEK~"/>
+		<string name="c9_f1" value="WEK?"/>
+		<string name="c9_f2" value="..."/>
+		<string name="c10" value="poop"/>
+		<string name="c10_s1" value="I almost constipated... WEK"/>
+		<string name="c10_s2" value="That feels good. WEK WEK."/>
+		<string name="c10_s3" value="Don't look! This is embarassing. WEK"/>
+		<string name="c10_s4" value="Ahhhhhh... that's it. WEK"/>
+		<string name="c10_f1" value="Hmph... WEK"/>
+		<string name="c10_f2" value="Long way to go before I poop. WEK"/>
+		<string name="c10_f3" value="I don't feel like pooping. WEK."/>
+		<string name="c10_f4" value="I just pooped. WEK."/>
+		<string name="c11" value="poop"/>
+		<string name="c11_s1" value="That's quite a relief. WEK"/>
+		<string name="c11_s2" value="Hah, I ate a lil too much last night. WEK"/>
+		<string name="c11_s3" value="Sorry. It's going to reak here. WEK."/>
+		<string name="c11_s4" value="Ou... WEK WEK"/>
+		<string name="c11_f1" value="I don't want anyone seeing this. WEK"/>
+		<string name="c11_f2" value="I haven't felt it, yet. WEK."/>
+		<string name="c11_f3" value="I'm constipating these days. WEK."/>
+		<string name="c11_f4" value="Here? NO. WEK."/>
+		<string name="c12" value="poop"/>
+		<string name="c12_s1" value="Hey, don't look. It's not a pretty sight."/>
+		<string name="c12_s2" value="Dang, this smells pretty bad."/>
+		<string name="c12_s3" value="Master, don't step on this."/>
+		<string name="c12_s4" value="Ahhh, this is quite a relief. "/>
+		<string name="c12_f1" value="You must really like the smell of poop."/>
+		<string name="c12_f2" value="I can't poop now. I held on to it for too long."/>
+		<string name="c12_f3" value="I can't poop what I never ate."/>
+		<string name="c12_f4" value="Can you force yourself to poop?"/>
+		<string name="c13" value="up|stand|rise"/>
+		<string name="c13_s1" value="WEK WEK ~~ "/>
+		<string name="c13_s2" value="...WEK..."/>
+		<string name="c13_f1" value="WEK???"/>
+		<string name="c13_f2" value="WEK!!! WEK!!!"/>
+		<string name="c14" value="up|stand|rise"/>
+		<string name="c14_s1" value="WEK~ WEK~~~!"/>
+		<string name="c14_s2" value="Brilliant~ WEK! "/>
+		<string name="c14_s3" value="Of course, the penguins must stand tall... WEK."/>
+		<string name="c14_s4" value="Ah, this is fun. WEK!"/>
+		<string name="c14_f1" value="So I stand and sit, then stant and sit. WEK!"/>
+		<string name="c14_f2" value="No way. WEK!"/>
+		<string name="c14_f3" value="Don't bother me, WEK!"/>
+		<string name="c14_f4" value="I don't want to do it, WEK!"/>
+		<string name="c15" value="up|stand|rise"/>
+		<string name="c15_s1" value="Standing's my forte, WEK!"/>
+		<string name="c15_s2" value="This is a piece of cake, WEK."/>
+		<string name="c15_s3" value="At your command, WEK!"/>
+		<string name="c15_s4" value="I'm good, right? Give me something harder to do, WEK."/>
+		<string name="c15_f1" value="Can I do something else? I'm tired, WEK."/>
+		<string name="c15_f2" value="I'm sleepy, WEK."/>
+		<string name="c15_f3" value="NO! WEK!"/>
+		<string name="c15_f4" value="Don't tell me what to do, okay? WEK!"/>
+		<string name="c16" value="up|stand|rise"/>
+		<string name="c16_s1" value="I can do it. I'm the bomb, right?"/>
+		<string name="c16_s2" value="What other penguin can stand so beautifully like this? "/>
+		<string name="c16_s3" value="If I keep practicing, I may be able to run one of these days. "/>
+		<string name="c16_s4" value="Hah. Eaaaaasy."/>
+		<string name="c16_f1" value="Hoo..."/>
+		<string name="c16_f2" value="I need some sleep."/>
+		<string name="c16_f3" value="Don't repeat the same thing over and over again."/>
+		<string name="c16_f4" value="(Totally ignoring the master)"/>
+		<string name="c17" value="talk|chat|say"/>
+		<string name="c17_s1" value="The weather's beautiful today, perfect for a chit chat, WEK."/>
+		<string name="c17_s2" value="If you find somethng delicious, give me some, WEK."/>
+		<string name="c17_s3" value="Do you want to kiss me on the cheek? WEK!"/>
+		<string name="c17_s4" value="I can help you out, WEK!"/>
+		<string name="c17_f1" value="What? Who said I was fat? WEK!!"/>
+		<string name="c17_f2" value="Have you ever seen a talking penguin? WEK."/>
+		<string name="c17_f3" value="Talk to someone else, WEK."/>
+		<string name="c17_f4" value="You must be lonley, WEK."/>
+		<string name="c18" value="talk|chat|say"/>
+		<string name="c18_s1" value="Any good movie to watch, WEK?"/>
+		<string name="c18_s2" value="Tell me you love me the most, WEK."/>
+		<string name="c18_s3" value="Treat others just the way you want to be treated, WEK."/>
+		<string name="c18_s4" value="Take me to a seafood store, WEK."/>
+		<string name="c18_f1" value="No comment, WEK."/>
+		<string name="c18_f2" value="Don't feel like talking right now, WEK."/>
+		<string name="c18_f3" value="What? WEK?"/>
+		<string name="c18_f4" value="Hoo...WEK."/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="If I ever turn back into a doll, please get me a water of life so I can keep hanging out with you."/>
+		<string name="c19_s2" value="I'll help you gather up some items on the ground."/>
+		<string name="c19_s3" value="I see a lot of elves these days. I heard they were very hard-working."/>
+		<string name="c19_s4" value="Don't tell others your ID and password."/>
+		<string name="c19_f1" value="And what exactly do you want from me?"/>
+		<string name="c19_f2" value="YOU talk, and I listen."/>
+		<string name="c19_f3" value="I don't feel good."/>
+		<string name="c19_f4" value="Don't bother me. I'm just chillin here."/>
+		<string name="c20" value="hug|hugme"/>
+		<string name="c20_s1" value="WEK WEK so warm~! "/>
+		<string name="c20_s2" value="Now you gotta kiss me! WEK"/>
+		<string name="c20_s3" value="Hug me hug me! WEK"/>
+		<string name="c20_s4" value="Hehe, give me a warm hug. WEK"/>
+		<string name="c20_f1" value="You smell, WEK."/>
+		<string name="c20_f2" value="I feel like hurling... WEK."/>
+		<string name="c20_f3" value="I'm too heavy for you to hug, WEK."/>
+		<string name="c20_f4" value="Too hot here! WEK!"/>
+		<string name="c21" value="hug|hugme"/>
+		<string name="c21_s1" value="I've been in need of some love these days... WEK."/>
+		<string name="c21_s2" value="Okay, come here. WEK!"/>
+		<string name="c21_s3" value="Hug meeeee WEK!"/>
+		<string name="c21_s4" value="You can hug me as long as you want, WEK!"/>
+		<string name="c21_f1" value="Don't come near me! WEK!"/>
+		<string name="c21_f2" value="NO! You haven't showered in days! WEK!"/>
+		<string name="c21_f3" value="My goodness, you smell. WEK."/>
+		<string name="c21_f4" value="I got no time for you, WEK!"/>
+		<string name="c22" value="hug|hugme"/>
+		<string name="c22_s1" value="Hug me tiiiight. "/>
+		<string name="c22_s2" value="Don't hug me too hard. I can't breathe."/>
+		<string name="c22_s3" value="Now that felt good. "/>
+		<string name="c22_s4" value="Awwww, it's embarassing though. Hug me when no one's looking."/>
+		<string name="c22_f1" value="Nooooo!"/>
+		<string name="c22_f2" value="Can we do something else?"/>
+		<string name="c22_f3" value="You don't even love me. "/>
+		<string name="c22_f4" value="Not you!"/>
+		<string name="c23" value="sleep"/>
+		<string name="c23_s1" value="Zzzzz...WEK."/>
+		<string name="c23_s2" value="Hah... wEK."/>
+		<string name="c23_s3" value="My eyes are heavy... WEK."/>
+		<string name="c23_s4" value="I feel sooo tired... WEK."/>
+		<string name="c23_f1" value="I just woke up, WEK!"/>
+		<string name="c23_f2" value="No, I wanna do something fun! WEK!"/>
+		<string name="c23_f3" value="Look, it's well into the morning right now, WEK."/>
+		<string name="c23_f4" value="I don't feel like sleeping here, WEK."/>
+		<string name="c24" value="sleep"/>
+		<string name="c24_s1" value="Master, you sleep here with me. WEK."/>
+		<string name="c24_s2" value="Zzzzz... Zzzzz."/>
+		<string name="c24_s3" value="I was about to sleep anyway. "/>
+		<string name="c24_s4" value="You need to wake me up later."/>
+		<string name="c24_f1" value="Don't tell me what to do."/>
+		<string name="c24_f2" value="It's not time to sleep yet."/>
+		<string name="c24_f3" value="I feel fine, I don't feel like sleeping."/>
+		<string name="c24_f4" value="I'm too hungry..."/>
+		<string name="c25" value="iloveyou"/>
+		<string name="c25_s1" value="WEK WEK ~~ "/>
+		<string name="c25_s2" value="WEK!!"/>
+		<string name="c25_f1" value="WEK???"/>
+		<string name="c25_f2" value="...WEK..."/>
+		<string name="c26" value="iloveyou"/>
+		<string name="c26_s1" value="I love you too, WEK!"/>
+		<string name="c26_s2" value="Is that for real? WEK!"/>
+		<string name="c26_s3" value="And I believe you, WEK!"/>
+		<string name="c26_s4" value="This makes me feel good, WEK!"/>
+		<string name="c26_f1" value="This makes me feel good, WEK!"/>
+		<string name="c26_f2" value="What? No, WEK."/>
+		<string name="c26_f3" value="Liar. I don't like you, WEK."/>
+		<string name="c26_f4" value="Really? I don't think you do, though. WEK."/>
+		<string name="c27" value="iloveyou"/>
+		<string name="c27_s1" value="Do you really mean that, WEK?"/>
+		<string name="c27_s2" value="You know how I feel about this, right? WEK~"/>
+		<string name="c27_s3" value="I love you too, master! WEK!"/>
+		<string name="c27_s4" value="Yay, I'm being loved by my master~ WEK!"/>
+		<string name="c27_f1" value="And what do you want from me? WEK."/>
+		<string name="c27_f2" value="What? I didn't hear you. WEK."/>
+		<string name="c27_f3" value="Um, you're funny. WEK."/>
+		<string name="c27_f4" value="I know you say that to others, too. WEK."/>
+		<string name="c28" value="iloveyou"/>
+		<string name="c28_s1" value="Me, me me me!!! "/>
+		<string name="c28_s2" value="I'll always love you, master."/>
+		<string name="c28_s3" value="No way. Really? Really? Awww..."/>
+		<string name="c28_s4" value="I love you too, master! Yay!!"/>
+		<string name="c28_f1" value="L.I.A.R."/>
+		<string name="c28_f2" value="We penguins don't take that phrase &quot;I love you&quot; lightly."/>
+		<string name="c28_f3" value="If you don't mean that, that I don't think you should say it."/>
+		<string name="c28_f4" value="What a full-fledged lie."/>
+		<string name="c29" value="wing|hand"/>
+		<string name="c29_s1" value="Here, WEK!"/>
+		<string name="c29_s2" value="I'm good, right? WEK WEK!"/>
+		<string name="c29_s3" value="So I should just stick it out like this? WEK.."/>
+		<string name="c29_f1" value="No, WEK!"/>
+		<string name="c29_f2" value="I'm too tired... WEK."/>
+		<string name="c29_f3" value="What? WEK."/>
+		<string name="c30" value="wing|hand"/>
+		<string name="c30_s1" value="Like this, right? WEK."/>
+		<string name="c30_s2" value="You know I'm the bomb, WEK."/>
+		<string name="c30_s3" value="Haha, this is fun. WEK."/>
+		<string name="c30_f1" value="No way, I'm too tired. WEK."/>
+		<string name="c30_f2" value="I'm too lazy to do this. WEK."/>
+		<string name="c30_f3" value="What are you saying, WEK."/>
+		<string name="c31" value="wing|hand"/>
+		<string name="c31_s1" value="Here's my hand, err, wing."/>
+		<string name="c31_s2" value="Heavy, isn't it? I can't fly with these, though."/>
+		<string name="c31_s3" value="Is it fluffy? It feels good, right? This is fuuuun!"/>
+		<string name="c31_f1" value="Ugh, this is quite a chore."/>
+		<string name="c31_f2" value="Nah, maybe next time."/>
+		<string name="c31_f3" value="What am I, a dog? I'm a penguin, you know!"/>
+		<string name="c32" value="kiss|smooch|muah"/>
+		<string name="c32_s1" value="Ahhh, here's a smooch."/>
+		<string name="c32_s2" value="I'm blushing..."/>
+		<string name="c32_s3" value="Make sure not to leave a hole on my cheek!"/>
+		<string name="c32_f1" value="Um... do you know exactly where we are right now?"/>
+		<string name="c32_f2" value="Go brush your teeth first."/>
+		<string name="c32_f3" value="No way, I don't wanna do it."/>
+		<string name="c33" value="kiss|smooch|muah"/>
+		<string name="c33_s1" value="I like smooches, too."/>
+		<string name="c33_s2" value="I've been dreaming of these~! "/>
+		<string name="c33_s3" value="Don't do it for too long, though. Yay!"/>
+		<string name="c33_s4" value="Kiss me again!"/>
+		<string name="c33_f1" value="Who in the right mind would wanna kiss you?"/>
+		<string name="c33_f2" value="Not me...no way."/>
+		<string name="c33_f3" value="You ain't doing this for free."/>
+		<string name="c33_f4" value="Tell me that was a joke."/>
+		<string name="c34" value="fly"/>
+		<string name="c34_s1" value="Yoo hoo! I'm flyinnnng!"/>
+		<string name="c34_s2" value="Look! I can fly!"/>
+		<string name="c34_s3" value="I deserve a trophy for this performance!"/>
+		<string name="c34_s4" value="I believe I can fly!!! WEK WEK!"/>
+		<string name="c34_f1" value="Um...don't I look a litttttle hefty for that?"/>
+		<string name="c34_f2" value="Hey, have you ever seen a flying penguin?"/>
+		<string name="c34_f3" value="You must have lost your mind."/>
+		<string name="c34_f4" value="What are you saying...?"/>
+		<string name="c35" value="fly"/>
+		<string name="c35_s1" value="Isn't this cool??"/>
+		<string name="c35_s2" value="Show me another penguin that can fly like me."/>
+		<string name="c35_s3" value="Don't I look MAGNIFICENT?"/>
+		<string name="c35_s4" value="No need to waste time. Here we go!"/>
+		<string name="c35_f1" value="Yo, I'm afraid of height."/>
+		<string name="c35_f2" value="You fly first!"/>
+		<string name="c35_f3" value="I suggest you study a little on penguin's anatomy."/>
+		<string name="c35_f4" value="Um, have you heard of Law of Gravity? Hello!!"/>
+		<string name="c36" value="cute|adorable"/>
+		<string name="c36_s1" value="I'm at a loss for words...WEK!"/>
+		<string name="c36_s2" value="It's hard to find a penguin as cute-looking as me! WEK!"/>
+		<string name="c36_s3" value="Hey, I've been cute for quite some time, you know! WEK!"/>
+		<string name="c36_s4" value="Really? You're not kidding, right? WEK!"/>
+		<string name="c36_f1" value="I can't trust you, WEK."/>
+		<string name="c36_f2" value="I'm not CUTE. I'm DASHING. WEK!!!"/>
+		<string name="c36_f3" value="I NEED SOME TRUTH AROUND HERE! WEK!"/>
+		<string name="c36_f4" value="What do you want me to say in return, WEK?"/>
+		<string name="c37" value="cute|adorable"/>
+		<string name="c37_s1" value="Of course, master!"/>
+		<string name="c37_s2" value="You won't find a penguin quite like me. Enjoy it!"/>
+		<string name="c37_s3" value="I can never get enough of your compliments!"/>
+		<string name="c37_s4" value="Thanks for your kind words! I really appreciate that!"/>
+		<string name="c37_f1" value="Since when did we compliment each other anyway..."/>
+		<string name="c37_f2" value="Um, how about a NO."/>
+		<string name="c37_f3" value="Let me just sleep, okay?"/>
+		<string name="c37_f4" value="Feed me instead of waxing stupid poetics like that."/>
+		<string name="f1_s" value="WEK~WEK~"/>
+		<string name="f1_f" value="..."/>
+		<string name="f2_s" value="FOOD!!! WEK!"/>
+		<string name="f2_f" value="I can't eat no more. WEK."/>
+		<string name="f3_s" value="Now this tastes good... WEK~~"/>
+		<string name="f3_f" value="Ugh, I feel like throwing up. WEK."/>
+		<string name="f4_s" value="FISH! Woo hoo!"/>
+		<string name="f4_f" value="I need to be on a diet."/>
+		<string name="s1" value="Wek~"/>
+		<string name="s2" value="Wek... Wek..."/>
+		<string name="s3" value="Master, Please.... Wek...Wek..."/>
+		<string name="s4" value="Master~ Behave yourself~ Wek..."/>
+	</imgdir>

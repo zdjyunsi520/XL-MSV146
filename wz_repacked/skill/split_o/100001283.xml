@@ -1,0 +1,9 @@
+<imgdir name="100001283">
+        <string name="name" value="Shadow Rain" />
+        <string name="desc" value="Alpha and Beta’s combination attack. Beta crashes down on the enemy with her Great Sword, stopping them in their tracks&gt; Then Alpha follows up from the shadows, dealing critical damage to all targets." />
+        <string name="h" value="Time Force Cost: #forceCon, \n#c[Beta]#: Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: 7 \n#c[Alpha]#: Damage: #y%, Max Enemies Hit: #x, Max Hits: 7\n#cCooldown: #cooltime sec#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="This skill is unlocked at Lv. 170." />
+        </imgdir>
+    </imgdir>

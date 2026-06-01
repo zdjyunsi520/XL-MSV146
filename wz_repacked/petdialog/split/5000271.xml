@@ -1,0 +1,191 @@
+<imgdir name="5000271">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Ooof!"/>
+		<string name="c1_s2" value="*plop*"/>
+		<string name="c1_f1" value="Huh?"/>
+		<string name="c1_f2" value="Mm?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Voila!"/>
+		<string name="c2_s2" value="Since you asked."/>
+		<string name="c2_s3" value="This is my one favor for the day,"/>
+		<string name="c2_s4" value="Look at what I can do!"/>
+		<string name="c2_f1" value="Too much work."/>
+		<string name="c2_f2" value="Maybe later."/>
+		<string name="c2_f3" value="I'll think about it."/>
+		<string name="c2_f4" value="Be nice to me!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="I suppose I could make the effort."/>
+		<string name="c3_s2" value="Sure, why not? "/>
+		<string name="c3_s3" value="Whatever you say."/>
+		<string name="c3_s4" value="Sitting!"/>
+		<string name="c3_f1" value="Nah."/>
+		<string name="c3_f2" value="I'm getting annoyed... almost."/>
+		<string name="c3_f3" value="I can't hear you."/>
+		<string name="c3_f4" value="What?"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="As you wish."/>
+		<string name="c4_s2" value="Just for you!"/>
+		<string name="c4_s3" value="Sitting my koala behind dowwwn on the grouund."/>
+		<string name="c4_s4" value="You got it."/>
+		<string name="c4_f1" value="Don't really want to."/>
+		<string name="c4_f2" value="But why?"/>
+		<string name="c4_f3" value="Too... lazy..."/>
+		<string name="c4_f4" value="Sounds boring."/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="I'm sorry."/>
+		<string name="c5_s2" value="Awww."/>
+		<string name="c5_f1" value="Can't hear you!"/>
+		<string name="c5_f2" value="Shhhh!"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="I didn't mean to make you mad!"/>
+		<string name="c6_s2" value="Waaah!"/>
+		<string name="c6_s3" value="I'm sorry!!"/>
+		<string name="c6_s4" value="I won't do it again!"/>
+		<string name="c6_f1" value="You're upsetting me! "/>
+		<string name="c6_f2" value="Just stop it!"/>
+		<string name="c6_f3" value="You're supposed to love me no matter what!"/>
+		<string name="c6_f4" value="I don't like that!"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="*sniff, sniff!*"/>
+		<string name="c7_s2" value="I'm super duper sorry!"/>
+		<string name="c7_s3" value="I was wrong!"/>
+		<string name="c7_s4" value="I'll behave, I promise!"/>
+		<string name="c7_f1" value="Be nice!"/>
+		<string name="c7_f2" value="To think I trusted you!"/>
+		<string name="c7_f3" value="How can you do this to me?"/>
+		<string name="c7_f4" value="You're MEAN."/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="Ooops."/>
+		<string name="c8_s2" value="I'm sure I deserve it."/>
+		<string name="c8_s3" value="I'm so, so sorry!"/>
+		<string name="c8_s4" value="*Sniff* Sorry..."/>
+		<string name="c8_f1" value="Why? WHY?!"/>
+		<string name="c8_f2" value="Just because I'm smaller that you."/>
+		<string name="c8_f3" value="I'm going to call those crazy animal people on you."/>
+		<string name="c8_f4" value="You're a bully!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Yippee!"/>
+		<string name="c9_s2" value="You've made my day!"/>
+		<string name="c9_f1" value="Huh?"/>
+		<string name="c9_f2" value="Sure, sure. Whatever."/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="Goodie!"/>
+		<string name="c10_s2" value="Yippee!"/>
+		<string name="c10_s3" value="Whee!"/>
+		<string name="c10_s4" value="Me, too!"/>
+		<string name="c10_f1" value="Meh."/>
+		<string name="c10_f2" value="Ew."/>
+		<string name="c10_f3" value="Oh, bother."/>
+		<string name="c10_f4" value="So bored."/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="Guess you're all right."/>
+		<string name="c11_s2" value="Whatever you say."/>
+		<string name="c11_s3" value="*blush*"/>
+		<string name="c11_s4" value="Aw, shucks."/>
+		<string name="c11_f1" value="Whatever."/>
+		<string name="c11_f2" value="Just let me nap."/>
+		<string name="c11_f3" value="Shhh."/>
+		<string name="c11_f4" value="Huh?"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="Mmkay."/>
+		<string name="c12_s2" value="You aren't half bad, yourself."/>
+		<string name="c12_s3" value="You and me, both."/>
+		<string name="c12_s4" value="I can dig it."/>
+		<string name="c12_f1" value="Did you say something?"/>
+		<string name="c12_f2" value="Don't care."/>
+		<string name="c12_f3" value="You're ruining the moment."/>
+		<string name="c12_f4" value="*hides behind a eucalyptus leaf*"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Alrighty."/>
+		<string name="c13_s2" value="If you say so."/>
+		<string name="c13_s3" value="As you wish."/>
+		<string name="c13_s4" value="Sure, why not?"/>
+		<string name="c13_f1" value="Too tired."/>
+		<string name="c13_f2" value="No thanks. "/>
+		<string name="c13_f3" value="But why?"/>
+		<string name="c13_f4" value="You talk too much."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Okie dokie."/>
+		<string name="c14_s2" value="Sure, sure."/>
+		<string name="c14_s3" value="Here I go..."/>
+		<string name="c14_s4" value="Yikes, almost wouldn't come out."/>
+		<string name="c14_f1" value="It's hard, okay?"/>
+		<string name="c14_f2" value="Too lazy."/>
+		<string name="c14_f3" value="Just let me nap, okay?"/>
+		<string name="c14_f4" value="Maybe later."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Might as well."/>
+		<string name="c15_s2" value="Look, little pellets."/>
+		<string name="c15_s3" value="That makes me hungry."/>
+		<string name="c15_s4" value="I suppose I could."/>
+		<string name="c15_f1" value="*yaaaawn*"/>
+		<string name="c15_f2" value="I can't be bothered."/>
+		<string name="c15_f3" value="Not right now."/>
+		<string name="c15_f4" value="You're too noisy."/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="Zzzzzz."/>
+		<string name="c16_s2" value="*snort, snort, snore*"/>
+		<string name="c16_s3" value="Sooo sleeeepy."/>
+		<string name="c16_s4" value="I love sleeping!"/>
+		<string name="c16_f1" value="No thanks."/>
+		<string name="c16_f2" value="I'm bored, not sleepy."/>
+		<string name="c16_f3" value="Just let me stare into space, okay?"/>
+		<string name="c16_f4" value="I'm fine, thanks."/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Where's my snuggle blankie?"/>
+		<string name="c17_s2" value="Will you tuck me in?"/>
+		<string name="c17_s3" value="Nite nite!"/>
+		<string name="c17_s4" value="Sure thing!"/>
+		<string name="c17_f1" value="Too bored to sleep."/>
+		<string name="c17_f2" value="But dreaming scares me."/>
+		<string name="c17_f3" value="What's the point?"/>
+		<string name="c17_f4" value="Pass."/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Yay, my favorite time!"/>
+		<string name="c18_s2" value="See you later, koala-gator."/>
+		<string name="c18_s3" value="You got it!"/>
+		<string name="c18_s4" value="*yaaaawn*"/>
+		<string name="c18_f1" value="Hm?"/>
+		<string name="c18_f2" value="Did you say something?"/>
+		<string name="c18_f3" value="Not right now, okay?"/>
+		<string name="c18_f4" value="I'd rather loaf around."/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="I have a busy schedule of doing nothing all day."/>
+		<string name="c19_s2" value="I come from a land far, far away."/>
+		<string name="c19_s3" value="I hate cold weather!"/>
+		<string name="c19_s4" value="The koala bear loves to go to sleep, go to sleep, go to sleep."/>
+		<string name="c19_f1" value="Not right now."/>
+		<string name="c19_f2" value="Pass."/>
+		<string name="c19_f3" value="Just let me relax."/>
+		<string name="c19_f4" value="Hm?"/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="Koala wala, bo bala. Fee fie foe fala. KOALA!"/>
+		<string name="c20_s2" value="Hey, look! I got arms!"/>
+		<string name="c20_s3" value="Hug a tree. I do."/>
+		<string name="c20_s4" value="My favorite trees are eucalyptus trees."/>
+		<string name="c20_f1" value="Huh?"/>
+		<string name="c20_f2" value="So bossy."/>
+		<string name="c20_f3" value="I'm busy."/>
+		<string name="c20_f4" value="Not right now."/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="My schedule of doing nothing keeps me busy all day."/>
+		<string name="c21_s2" value="Hug me! Hug me! Hug me! Let me sleep on you!"/>
+		<string name="c21_s3" value="My favorite part of a conversation is the pauses between words."/>
+		<string name="c21_s4" value="I think I'm just about the cutest thing ever."/>
+		<string name="c21_f1" value="*silence*"/>
+		<string name="c21_f2" value="*no reply*"/>
+		<string name="c21_f3" value="*stares into space*"/>
+		<string name="c21_f4" value="*looks the other way*"/>
+		<string name="f1_s" value="Yay!"/>
+		<string name="f1_f" value="Eh..."/>
+		<string name="f2_s" value="Hooray!"/>
+		<string name="f2_f" value="Hm..."/>
+		<string name="f3_s" value="Thank you!"/>
+		<string name="f3_f" value="I'm too full."/>
+		<string name="f4_s" value="Don't mind if I do."/>
+		<string name="f4_f" value="I can't eat another bite!"/>
+		<string name="s1" value="What?!"/>
+		<string name="s2" value="Hey!"/>
+		<string name="s3" value="Stop it this instant!"/>
+		<string name="s4" value="I'm so disappointed in you."/>
+	</imgdir>

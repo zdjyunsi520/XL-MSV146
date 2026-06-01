@@ -1,0 +1,8 @@
+<imgdir name="31101000">
+        <string name="name" value="灵魂吞噬" />
+        <string name="desc" value="牵引多个敌人到你身边，让他们承受你的全力一击。" />
+        <string name="h" value="HP消耗：#hpCon，怒气消耗：#forceCon，按住技能键时 - 伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount" />
+        <string name="pdesc" value="牵引多个敌人到你身边，让他们承受你的全力一击。" />
+        <string name="ph" value="HP消耗：#hpCon，怒气消耗：#forceCon，按住技能键时 - 伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，牵引敌人概率：#prop%" />
+        <string name="hch" value="HP消耗：#hpCon，怒气消耗：#forceCon，按住技能键时 - 伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，牵引敌人概率：#hcProp%" />
+    </imgdir>

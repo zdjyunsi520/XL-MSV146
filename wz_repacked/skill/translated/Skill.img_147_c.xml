@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="35121013"><string name="name" value="机甲：攻城模式"/><string name="desc" value="机甲切换为&lt;攻城&gt;模式以优化火力。攻城模式下只能使用基本攻击。提升所有攻击的暴击率。被攻击时获得站姿效果。\n[攻击方式：#c攻击键#]"/><string name="h" value="MP消耗：#mpCon，攻城模式持续时间：#time秒，伤害：#damage%\n#c冷却时间：#cooltime秒"/><string name="pdesc" value="机甲切换为攻城模式以优化火力。攻城模式下只能使用基本攻击。提升所有攻击的暴击率。\n[攻击方式：#c攻击键#]"/><string name="ph" value="MP消耗：#mpCon，攻城模式持续时间：#time秒，伤害：#damage%\n#c冷却时间：#cooltime秒#"/></imgdir>
+    <imgdir name="35120014"><string name="name" value="双倍骰子"/><string name="desc" value="试试你的运气吧！掷两个骰子，如果两个数字相同，你将获得非常强大的增益：\n前置技能：#c幸运骰子 Lv. 20#"/><string name="h" value="MP消耗：#mpCon，#prop%概率掷出双倍，增益持续时间：#time秒\n#c冷却时间：#cooltime秒#"/><string name="pdesc" value="试试你的运气吧！掷两个骰子，如果两个数字相同，你将获得非常强大的增益：\n前置技能：#c幸运骰子 Lv. 20#"/><string name="ph" value="MP消耗：#mpCon，#prop%概率掷出双倍，增益持续时间：#time秒\n#c冷却时间：#cooltime秒#"/></imgdir>
+    <imgdir name="80000000"><string name="name" value="海盗祝福"/><string name="desc" value="[链接技能] 强化炮击手的姿态，永久提升各种属性。"/><string name="h" value="永久提升力量#strX，敏捷#dexX，智力#intX，运气#lukX，最大HP#mhpR%，最大MP#mmpR%"/></imgdir>
+    <imgdir name="80000001"><string name="name" value="怒气释放"/><string name="desc" value="[链接技能] 引导内心的怒火，对Boss怪物造成更大伤害。"/><string name="h" value="攻击Boss怪物时伤害增加#bdR%。"/></imgdir>
+    <imgdir name="80001000"><string name="name" value="骑兽"/><string name="desc" value="[最高等级：1]\n可以骑乘驯服的怪物。"/></imgdir>
+    <imgdir name="80001001"><string name="name" value="雪人坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘雪人。\n#c到期时间：2009年9月7日午夜#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001002"><string name="name" value="魔女扫帚"/><string name="desc" value="[最高等级：1]\n可以骑乘扫帚。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001003"><string name="name" value="冲锋！玩具木马"/><string name="desc" value="[最高等级：1]\n可以骑乘木马。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001004"><string name="name" value="鳄鱼"/><string name="desc" value="[最高等级：1]\n可以骑乘鳄鱼。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001005"><string name="name" value="黑色滑板车"/><string name="desc" value="[最高等级：1]\n可以骑乘黑色滑板车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001006"><string name="name" value="粉色滑板车"/><string name="desc" value="[最高等级：1]\n可以骑乘粉色滑板车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001007"><string name="name" value="筋斗云"/><string name="desc" value="[最高等级：1]\n可以骑乘筋斗云。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140，跳跃力：120%"/></imgdir>
+    <imgdir name="80001008"><string name="name" value="巴洛古"/><string name="desc" value="[最高等级：1]\n可以骑乘巴洛古。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140，跳跃力：120%"/></imgdir>
+    <imgdir name="80001009"><string name="name" value="赛车"/><string name="desc" value="[最高等级：1]\n可以骑乘赛车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001010"><string name="name" value="ZD猛虎"/><string name="desc" value="[最高等级：1]\n可以骑乘ZD猛虎。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001011"><string name="name" value="迷雾巴洛古"/><string name="desc" value="[最高等级：1]\n可以骑乘迷雾巴洛古。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001012"><string name="name" value="神兽"/><string name="desc" value="[最高等级：1]\n可以骑乘神兽。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001013"><string name="name" value="橙色蘑菇"/><string name="desc" value="[最高等级：1]\n可以骑乘橙色蘑菇。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001014"><string name="name" value="梦魇"/><string name="desc" value="[最高等级：1]\n可以骑乘梦魇。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001015"><string name="name" value="鸵鸟"/><string name="desc" value="[最高等级：1]\n可以骑乘陆地上跑得最快的鸟——鸵鸟。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+</imgdir>

@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="220050300">
+			<imgdir name="0">
+				<string name="Title" value="扭曲的时间之路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗忘的时间之路"/>
+			</imgdir>
+    <imgdir name="221050300">
+			<imgdir name="0">
+				<string name="Title" value="扭曲的时间之路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗忘的时间之路"/>
+			</imgdir>
+    <imgdir name="221000000">
+			<imgdir name="0">
+				<string name="Title" value="自由市场"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="总部"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="安全区域"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="禁止进入"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="工艺小镇"/>
+			</imgdir>
+    <imgdir name="221000200">
+			<imgdir name="0">
+				<string name="Title" value="医务室"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="武器提供商"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="防具提供商"/>
+			</imgdir>
+    <imgdir name="221000400">
+			<imgdir name="0">
+				<string name="Title" value="埃奥斯塔"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="埃奥斯塔"/>
+			</imgdir>
+    <imgdir name="221022100">
+			<imgdir name="0">
+				<string name="Title" value="迷你副本:打鼓兔子的藏身处"/>
+			</imgdir>
+    <imgdir name="221022200">
+			<imgdir name="0">
+				<string name="Title" value="迷你副本:打鼓兔子的藏身处"/>
+			</imgdir>
+    <imgdir name="221030000">
+			<imgdir name="0">
+				<string name="Title" value="波斯威尔平原I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="欧米茄区域"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="库兰平原I"/>
+			</imgdir>
+    <imgdir name="222010000">
+			<imgdir name="0">
+				<string name="Title" value="黑山&lt;角落&gt;"/>
+			</imgdir>
+</imgdir>

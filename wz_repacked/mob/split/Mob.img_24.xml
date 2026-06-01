@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="4230126">
+		<string name="name" value="Mummydog"/>
+	</imgdir>
+    <imgdir name="4230200">
+		<string name="name" value="Poopa"/>
+	</imgdir>
+    <imgdir name="4230201">
+		<string name="name" value="Poison Poopa"/>
+	</imgdir>
+    <imgdir name="4230300">
+		<string name="name" value="Moon Bunny"/>
+	</imgdir>
+    <imgdir name="4230400">
+		<string name="name" value="Iron Boar"/>
+	</imgdir>
+    <imgdir name="4230500">
+		<string name="name" value="Chipmunk"/>
+	</imgdir>
+    <imgdir name="4230501">
+		<string name="name" value="Red Porky"/>
+	</imgdir>
+    <imgdir name="4230502">
+		<string name="name" value="Black Porky"/>
+	</imgdir>
+    <imgdir name="4230503">
+		<string name="name" value="Blue Flower Serpent"/>
+	</imgdir>
+    <imgdir name="4230504">
+		<string name="name" value="Red Flower Serpent"/>
+	</imgdir>
+    <imgdir name="4230505">
+		<string name="name" value="Jar"/>
+	</imgdir>
+    <imgdir name="4230506">
+		<string name="name" value="Ginseng Jar"/>
+	</imgdir>
+    <imgdir name="4230600">
+		<string name="name" value="Desert Giant "/>
+	</imgdir>
+    <imgdir name="4240000">
+		<string name="name" value="Chief Gray"/>
+	</imgdir>
+    <imgdir name="4250000">
+		<string name="name" value="Mossy Snail"/>
+	</imgdir>
+    <imgdir name="4250001">
+		<string name="name" value="Tree Rod"/>
+	</imgdir>
+    <imgdir name="5090000">
+		<string name="name" value="Shade"/>
+	</imgdir>
+    <imgdir name="5090001">
+		<string name="name" value="Master Dummy"/>
+	</imgdir>
+    <imgdir name="5100000">
+		<string name="name" value="Jr. Yeti"/>
+	</imgdir>
+    <imgdir name="5100001">
+		<string name="name" value="Transforming Jr. Yeti"/>
+	</imgdir>
+</imgdir>

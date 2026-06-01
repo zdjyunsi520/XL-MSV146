@@ -1,0 +1,8 @@
+<imgdir name="3211004">
+        <string name="name" value="Arrow Eruption" />
+        <string name="desc" value="Arrows burst from the ground, dealing damage to multiple enemies with a chance to Seal. \nRequired Skill: #cMortal Blow Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Seal Chance: #prop%, Seal Duration: #time sec" />
+        <string name="pdesc" value="Arrows burst from the ground, dealing damage to multiple enemies with a chance to Seal. \nRequired Skill: #cMortal Blow Lv. 5#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Seal Chance: #prop%, Seal Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Seal Chance: #hcProp%, Seal Duration: #hcTime sec" />
+    </imgdir>

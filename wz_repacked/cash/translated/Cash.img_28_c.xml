@@ -1,0 +1,81 @@
+<imgdir name="Cash.img">
+    <imgdir name="5211039">
+		<string name="name" value="双倍经验卡6型 - 每天"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间凌晨12点至4点的#c每天#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211040">
+		<string name="name" value="双倍经验卡7型 - 工作日"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间凌晨3点至7点的#c工作日#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211041">
+		<string name="name" value="双倍经验卡7型 - 周末"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间凌晨3点至7点的#c周末#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211042">
+		<string name="name" value="双倍经验卡7型 - 每天"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间凌晨3点至7点的#c每天#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211043">
+		<string name="name" value="双倍经验卡8型 - 工作日"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间上午6点至10点的#c工作日#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211044">
+		<string name="name" value="双倍经验卡8型 - 周末"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间上午6点至10点的#c周末#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211045">
+		<string name="name" value="双倍经验卡8型 - 每天"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，双倍经验效果在太平洋时间上午6点至10点的#c每天#有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211046">
+		<string name="name" value="1天双倍经验特殊券"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，购买后24小时内双倍经验效果持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211047">
+		<string name="name" value="双倍经验3小时特殊券"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，购买后3小时内双倍经验效果持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211048">
+		<string name="name" value="双倍经验4小时特殊券"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。购买后立即激活，购买后4小时内双倍经验效果持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211049">
+		<string name="name" value="7-11双倍经验卡 - 90分钟"/>
+		<string name="desc" value="使用此券可获得#c双倍经验#。领取后立即激活，双倍经验效果持续90分钟。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211052">
+		<string name="name" value="三倍经验"/>
+		<string name="desc" value="测试用"/>
+	</imgdir>
+    <imgdir name="5211060">
+		<string name="name" value="三倍经验2小时特殊券"/>
+		<string name="desc" value="使用此券可获得#c三倍经验#。购买后立即激活，购买后2小时内三倍经验效果持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211067">
+		<string name="name" value="蓝宝石经验券"/>
+		<string name="desc" value="使用此券可获得#c130%经验#。购买后立即激活，增加经验效果在购买后#c持续1小时#。不能与双倍经验活动或红宝石经验券叠加。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211068">
+		<string name="name" value="红宝石经验券"/>
+		<string name="desc" value="使用此券可获得#c150%经验#。购买后立即激活，增加经验效果在购买后#c持续1小时#。不能与双倍经验活动或蓝宝石经验券叠加。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211110">
+		<string name="name" value="经验券"/>
+		<string name="desc" value="使用此券可获得#c1.2倍经验#。购买后立即激活，1.2倍经验效果在购买后30天内持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5211111">
+		<string name="name" value="1.5倍经验4小时特殊券"/>
+		<string name="desc" value="使用此券可获得#c1.5倍经验#。购买后立即激活，1.5倍经验效果在购买后4小时内持续有效。#c此道具仅限200级以下购买。#"/>
+	</imgdir>
+    <imgdir name="5220000">
+		<string name="name" value="转蛋券"/>
+		<string name="desc" value="使用此券可以转动转蛋机，获得各种道具。"/>
+	</imgdir>
+    <imgdir name="5220001">
+		<string name="name" value="活动入场券"/>
+		<string name="desc" value="进入活动地图所需的入场券。"/>
+	</imgdir>
+    <imgdir name="5220010">
+		<string name="name" value="老虎机转蛋券"/>
+	</imgdir>
+</imgdir>

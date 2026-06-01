@@ -1,0 +1,138 @@
+<imgdir name="Npc.img">
+    <imgdir name="2080006">
+		<string name="name" value="Dolphin"/>
+		<string name="n0" value="I'm the fastest and safest way to reach Aquarium."/>
+	</imgdir>
+    <imgdir name="2081000">
+		<string name="name" value="Chief Tatamo"/>
+		<string name="s0" value="We Halflingers prefer peace and love. Haha..."/>
+		<string name="s1" value="My beard isn't for you to play with... Haha..."/>
+		<string name="d0" value="Are you still curious about something? Haha..."/>
+		<string name="d1" value="Haha... I will be forever grateful for what you've done."/>
+	</imgdir>
+    <imgdir name="2081001">
+		<string name="name" value="Kumo"/>
+		<string name="s0" value="The egg may hatch any minute now."/>
+		<string name="s1" value="Kumo's job is to protect the egg."/>
+		<string name="d0" value="Please get me the materials before the egg hatches."/>
+		<string name="d1" value="Once this baby dragon sees the light, I'll make sure it hears about you. Thanks!"/>
+	</imgdir>
+    <imgdir name="2081002">
+		<string name="name" value="Ito"/>
+		<string name="s0" value="Keep the egg warm, and the baby dragon will hatch soon."/>
+		<string name="s1" value="Aren't you curious to see what the baby dragon will look like?"/>
+		<string name="d0" value="If only I were bigger, then I would have kept this egg warm myself."/>
+		<string name="d1" value="Thanks to you, the egg will stay warm. Please drop by soon to check on the baby dragon."/>
+	</imgdir>
+    <imgdir name="2081003">
+		<string name="name" value="Yaku"/>
+		<string name="s0" value="..."/>
+		<string name="s1" value="..."/>
+		<string name="d0" value="Hurry, hurry! The egg may hatch any minute!"/>
+		<string name="d1" value="The baby dragon will love it, all thanks to you!"/>
+	</imgdir>
+    <imgdir name="2081004">
+		<string name="name" value="Pam"/>
+		<string name="s0" value="Lalala... Lalala... Lalala..."/>
+		<string name="s1" value="What would be the perfect lullaby for this baby dragon? Do you want to check it out?"/>
+		<string name="d0" value="Lalala... Oh, hello there. Don't tell me you have been listening to me sing all this time. Oh, I'm so embarrassed."/>
+		<string name="d1" value="I'll sing a lullaby dedicated about you to this dragon."/>
+	</imgdir>
+    <imgdir name="2081006">
+		<string name="name" value="Moira"/>
+		<string name="s0" value="I wonder how the others are doing..."/>
+		<string name="s1" value="If only I could break out of these shackles."/>
+		<string name="d0" value="Shhh... Be quiet."/>
+		<string name="d1" value="It's dangerous here. Horntail's appointed knight Keroben is here, protecting this area."/>
+	</imgdir>
+    <imgdir name="2081007">
+		<string name="name" value="Raul the Knight"/>
+		<string name="func" value="Dragon Squad Leader"/>
+		<string name="n0" value="Dang, are we still short?"/>
+		<string name="n1" value="We need to rescue him... *Cough cough.*"/>
+		<string name="d0" value="We need someone who can hold this squad together."/>
+		<string name="d1" value="How did you find me here...?"/>
+	</imgdir>
+    <imgdir name="2081008">
+		<string name="name" value="Nine Spirit's Baby Dragon"/>
+		<string name="d0" value="Kyuuu!"/>
+		<string name="d1" value="Kyuuu..."/>
+	</imgdir>
+    <imgdir name="2081009">
+		<string name="name" value="Moose"/>
+		<string name="d0" value="Any questions on shields?"/>
+		<string name="d1" value="Remember, shields are the best form of protection."/>
+		<string name="s0" value="Shields are what you'd call the essence of armor."/>
+		<string name="s1" value="There's nothing quite as protective as that of a well-made shield."/>
+	</imgdir>
+    <imgdir name="2081010">
+		<string name="name" value="Moose"/>
+		<string name="s0" value="Shields are what you'd call the essence of armor."/>
+		<string name="s1" value="There's nothing quite as protective as that of a well-made shield."/>
+	</imgdir>
+    <imgdir name="2081012">
+		<string name="name" value="Nix"/>
+		<string name="n0" value="Okay, so if you look at dragons from a biological standpoint, then..."/>
+		<string name="n1" value="I need more books..."/>
+		<string name="d0" value="What is it? What made you barge into someone else's private forest like this?"/>
+		<string name="d1" value="Halflingers can't even come close to here. That's just the way it is. They're cowards, that's why."/>
+	</imgdir>
+    <imgdir name="2081013">
+		<string name="name" value="Frightening Marble"/>
+		<string name="d0" value="(A marble with a frightening aura about it.)"/>
+		<string name="d1" value="(A marble with a frightening aura about it.)"/>
+	</imgdir>
+    <imgdir name="2081100">
+		<string name="name" value="Harmonia"/>
+		<string name="func" value="4th Job - Warrior Instructor"/>
+		<string name="s0" value="Would you be interested in becoming more powerful than you ever dreamed of?"/>
+		<string name="s1" value="I can feel something special emanating from you."/>
+		<string name="d0" value="Are you prepared to take steps towards becoming an even more powerful figure?"/>
+		<string name="d1" value="You're already plenty powerful."/>
+	</imgdir>
+    <imgdir name="2081200">
+		<string name="name" value="Gritto"/>
+		<string name="func" value="4th Job - Magician Instructor"/>
+		<string name="s0" value="Becoming wise requires much training."/>
+		<string name="s1" value="It may be difficult, but the end results are worth it."/>
+		<string name="d0" value="Have you completed your training?"/>
+		<string name="d1" value="Here's hoping your vast wisdom may be utilized in a positive way."/>
+	</imgdir>
+    <imgdir name="2081300">
+		<string name="name" value="Legor"/>
+		<string name="func" value="4th Job - Bowman Instructor"/>
+		<string name="s0" value="Are you interested in becoming a free person?"/>
+		<string name="s1" value="Hey you! You seem...different."/>
+		<string name="d0" value="Not everyone can become free!"/>
+		<string name="d1" value="A free spirit... That's who you are now."/>
+	</imgdir>
+    <imgdir name="2081400">
+		<string name="name" value="Hellin"/>
+		<string name="func" value="4th Job - Thief Instructor"/>
+		<string name="s0" value="The one who lives and breathes in shadow. You seem like someone who wants a piece of it."/>
+		<string name="s1" value="I can feel your darkness just by standing near. Would you like to try this?"/>
+		<string name="d0" value="Have you really thought about it deeply?"/>
+		<string name="d1" value="True darkness coexists with light. Please remember that."/>
+	</imgdir>
+    <imgdir name="2081500">
+		<string name="name" value="Samuel"/>
+		<string name="func" value="4th Job - Pirate Instructor"/>
+		<string name="n0" value="Do you want the freedom and might of the seas?"/>
+		<string name="n1" value="I can feel that you're holding back both your freedom and strength. Why not unleash your potential?"/>
+		<string name="d0" value="Have you come to find true power?"/>
+		<string name="d1" value="You have earned true power."/>
+	</imgdir>
+    <imgdir name="2082000">
+		<string name="name" value="Mue"/>
+		<string name="func" value="Ticket Usher"/>
+		<string name="s0" value="Do you want to go to Orbis?"/>
+		<string name="s1" value="No matter if you're an adult or a kid, the price is all the same."/>
+	</imgdir>
+    <imgdir name="2084002">
+		<string name="name" value="Gold Richie"/>
+		<string name="d0" value="Hello, my name is Gold Richie and I am an internationally-renowned businessman."/>
+		<string name="d1" value="Hello there. The wind is heading north, which means it's a great time to get on the boat and do some business."/>
+		<string name="n0" value="Scrooges will never become rich."/>
+		<string name="n1" value="It's all about reading the market."/>
+	</imgdir>
+</imgdir>

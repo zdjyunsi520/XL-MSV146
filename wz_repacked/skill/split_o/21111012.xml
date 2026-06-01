@@ -1,0 +1,5 @@
+<imgdir name="21111012">
+        <string name="name" value="Maha Blessing" />
+        <string name="desc" value="Increases party members&apos; Attack with the blessings of Maha, the spirit of the polearm." />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#pad, Magic ATT: +#mad, Duration: #time sec" />
+    </imgdir>

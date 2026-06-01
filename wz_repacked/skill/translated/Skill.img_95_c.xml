@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="10001090"><string name="name" value="大天使"/><string name="desc" value="[最高等级：1]\n召唤封印在天使祝福中的大天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="10001096"><string name="name" value="巨兔"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001098"><string name="name" value="冰冻二段跳"/><string name="pdesc" value="在空中再次跳跃！"/><string name="ph" value="MP Cost: 0, Additional Jump distance\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="10001101"><string name="name" value="小兔子"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001102"><string name="name" value="兔子人力车"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001105"><string name="name" value="冰骑士"/><string name="pdesc" value="你已变身为冰骑士！击败挑战者并存活到时间结束。"/><string name="ph" value="You have been transformed into an Ice Knight. Defeat the challengers and survive until the time limit runs out."/></imgdir>
+    <imgdir name="10001106"><string name="name" value="幸运号"/><string name="desc" value="[最高等级：1]\n骑上幸运号！"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 120%, Jump: 120%"/></imgdir>
+    <imgdir name="10001113"><string name="name" value="六周年今晚派对"/><string name="desc" value="[最高等级：1]\n允许使用六周年套装效果技能。"/></imgdir>
+    <imgdir name="10001114"><string name="name" value="六周年今晚派对"/><string name="desc" value="[最高等级：1]\n允许使用六周年套装效果技能。"/></imgdir>
+    <imgdir name="10001115"><string name="name" value="执法官"/><string name="desc" value="[最高等级：1]\n允许使用执法官技能。"/></imgdir>
+    <imgdir name="10001118"><string name="name" value="妮娜的宝珠"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001121"><string name="name" value="青蛙"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001122"><string name="name" value="乌龟"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001123"><string name="name" value="水牛"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001124"><string name="name" value="迷你坦克"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001129"><string name="name" value="灵魂维京"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001130"><string name="name" value="柏青哥机器人"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="10001136"><string name="name" value="雷克斯的鬣狗"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 190%, Jump: 120%"/></imgdir>
+    <imgdir name="10001138"><string name="name" value="低底盘车"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 170%, Jump: 120%"/></imgdir>
+    <imgdir name="10001139"><string name="name" value="拿破仑坐骑"/><string name="desc" value="[最高等级：1]\n骑上坐骑四处移动！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 170%, Jump: 120%"/></imgdir>
+</imgdir>

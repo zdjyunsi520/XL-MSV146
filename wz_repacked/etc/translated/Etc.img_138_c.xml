@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032696">
+			<string name="name" value="利娅的请愿书"/>
+			<string name="desc" value="利娅为赫拉克勒写的请愿书。它包含她关于繁重工作量的投诉"/>
+		</imgdir>
+    <imgdir name="4032697">
+			<string name="name" value="选票"/>
+			<string name="desc" value="将在埃雷夫先生的选举中使用的选票。把它交给埃雷夫"/>
+		</imgdir>
+    <imgdir name="4032698">
+			<string name="name" value="胜利证明（赫尼西亚）"/>
+			<string name="desc" value="这证明你赢得了蛋糕vs派战斗。把这个物品留在你的物品栏里，在某些商店获得20%折扣，在附近地图获得50%经验值加成。当你的团队不再控制城镇时，这个物品消失"/>
+		</imgdir>
+    <imgdir name="4032699">
+			<string name="name" value="胜利证明（奥比斯）"/>
+			<string name="desc" value="这证明你赢得了蛋糕vs派战斗。把这个物品留在你的物品栏里，在某些商店获得20%折扣，在附近地图获得50%经验值加成。当你的团队不再控制城镇时，这个物品消失"/>
+		</imgdir>
+    <imgdir name="4032700">
+			<string name="name" value="胜利证明（神木村）"/>
+			<string name="desc" value="这证明你赢得了蛋糕vs派战斗。把这个物品留在你的物品栏里，在某些商店获得20%折扣，在附近地图获得50%经验值加成。当你的团队不再控制城镇时，这个物品消失"/>
+		</imgdir>
+    <imgdir name="4032701">
+			<string name="name" value="胜利证明（马加提亚）"/>
+			<string name="desc" value="这证明你赢得了蛋糕vs派战斗。把这个物品留在你的物品栏里，在某些商店获得20%折扣，在附近地图获得50%经验值加成。当你的团队不再控制城镇时，这个物品消失"/>
+		</imgdir>
+    <imgdir name="4032702">
+			<string name="name" value="冰接收器"/>
+			<string name="desc" value="允许你直接和冰医生对话的装置"/>
+		</imgdir>
+    <imgdir name="4032703">
+			<string name="name" value="植物油"/>
+			<string name="desc" value="从植物怪物掉落的油"/>
+		</imgdir>
+    <imgdir name="4032704">
+			<string name="name" value="动物气体"/>
+			<string name="desc" value="从动物怪物掉落的物质。它是听起来那样的东西吗？"/>
+		</imgdir>
+    <imgdir name="4032705">
+			<string name="name" value="联络硬币"/>
+			<string name="desc" value="你必须交给联络人的硬币，以找出冰医生的位置"/>
+		</imgdir>
+    <imgdir name="4032706">
+			<string name="name" value="OSSS身份证"/>
+			<string name="desc" value="允许你访问OSSS的身份证"/>
+		</imgdir>
+    <imgdir name="4032707">
+			<string name="name" value="冰医生的荣誉徽章"/>
+			<string name="desc" value="证明你帮助了冰医生的徽章。收集七个来换一架OS4穿梭机"/>
+		</imgdir>
+    <imgdir name="4032708">
+			<string name="name" value="主板"/>
+			<string name="desc" value="可以在深海坠机现场附近找到的外星飞船部件"/>
+		</imgdir>
+    <imgdir name="4032709">
+			<string name="name" value="化石矿物"/>
+			<string name="desc" value="捕获了过去的矿物"/>
+		</imgdir>
+    <imgdir name="4032710">
+			<string name="name" value="覆盖插座的泥土块"/>
+			<string name="desc" value="覆盖传送装置插座部分的泥土块。它似乎阻止了传送装置工作"/>
+		</imgdir>
+    <imgdir name="4032711">
+			<string name="name" value="外星间谍相机"/>
+			<string name="desc" value="外星人在怪物中植入的间谍相机。尽可能多地找回它们"/>
+		</imgdir>
+    <imgdir name="4032712">
+			<string name="name" value="外星芯片"/>
+			<string name="desc" value="外星人在怪物中植入的间谍芯片。尽可能多地找回它们"/>
+		</imgdir>
+    <imgdir name="4032713">
+			<string name="name" value="外星照片"/>
+			<string name="desc" value="外星人的照片。拍尽可能多的照片"/>
+		</imgdir>
+    <imgdir name="4032714">
+			<string name="name" value="OSSS任务1：命令"/>
+			<string name="desc" value="完成OSSS任务1所需的命令"/>
+		</imgdir>
+    <imgdir name="4032715">
+			<string name="name" value="OSSS任务2：命令"/>
+			<string name="desc" value="完成OSSS任务2所需的命令"/>
+		</imgdir>
+</imgdir>

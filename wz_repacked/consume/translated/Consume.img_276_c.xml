@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430242">
+		<string name="name" value="摩托车券"/>
+		<string name="desc" value="双击使用摩托车骑乘技能10天。"/>
+	</imgdir>
+    <imgdir name="2430243">
+		<string name="name" value="动力套装券"/>
+		<string name="desc" value="双击使用动力套装骑乘技能10天。"/>
+	</imgdir>
+    <imgdir name="2430244">
+		<string name="name" value="青蛙石"/>
+		<string name="desc" value="这块石头看起来是青蛙的完美藏身之处。太重了，最多拿10个。\n#c双击检查是否有青蛙。"/>
+	</imgdir>
+    <imgdir name="2430245">
+		<string name="name" value="远古神器大赛2倍积分(3小时)"/>
+		<string name="desc" value="#c远古神器大赛#的2倍积分券。双击可以获得一张#c3小时#内积分翻倍的票。"/>
+	</imgdir>
+    <imgdir name="2430246">
+		<string name="name" value="远古神器大赛2倍积分(1天)"/>
+		<string name="desc" value="#c远古神器大赛#的2倍积分券。双击可以获得一张#c一天#内积分翻倍的票。"/>
+	</imgdir>
+    <imgdir name="2430247">
+		<string name="name" value="远古神器大赛2倍积分(7天)"/>
+		<string name="desc" value="#c远古神器大赛#的2倍积分券。双击可以获得一张#c7天#内积分翻倍的票。"/>
+	</imgdir>
+    <imgdir name="2430249">
+		<string name="name" value="木飞机3日券"/>
+		<string name="desc" value="双击学习木飞机骑乘技能。"/>
+	</imgdir>
+    <imgdir name="2430250">
+		<string name="name" value="旅行袋"/>
+		<string name="desc" value="旅行时用来装东西的小袋子。#c双击查看内容。#"/>
+	</imgdir>
+    <imgdir name="2430251">
+		<string name="name" value="寻宝笔记"/>
+		<string name="desc" value="一张神秘的笔记，包含一些信息碎片。\n\n#c双击阅读。#"/>
+	</imgdir>
+    <imgdir name="2430253">
+		<string name="name" value="撕裂的卷轴碎片"/>
+		<string name="desc" value="被撕成10片的卷轴碎片。收集全部10片并双击可以恢复卷轴。"/>
+	</imgdir>
+    <imgdir name="2430254">
+		<string name="name" value="战士之星10级装备盒子"/>
+		<string name="desc" value="当战士之星在天空中闪耀时，选择战士之路的人可获得的装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430255">
+		<string name="name" value="战士之星20级装备盒子"/>
+		<string name="desc" value="当战士之星在天空中闪耀时，选择战士之路的人可获得的高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430256">
+		<string name="name" value="战士之星25级装备盒子"/>
+		<string name="desc" value="当战士之星在天空中闪耀时，选择战士之路的人可获得的更高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430257">
+		<string name="name" value="粉色滑板车7日券"/>
+		<string name="desc" value="双击学习粉色滑板车骑乘技能7天。"/>
+	</imgdir>
+    <imgdir name="2430258">
+		<string name="name" value="警官1年使用券"/>
+		<string name="desc" value="双击使用骑宠[警官]1年，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430259">
+		<string name="name" value="贝罗斯坐骑券"/>
+		<string name="desc" value="3天贝罗斯坐骑券。\n#c双击使用贝罗斯骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430260">
+		<string name="name" value="橙汁蘑菇坐骑券"/>
+		<string name="desc" value="3天橙汁蘑菇坐骑券。\n#c双击使用橙汁蘑菇骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430261">
+		<string name="name" value="动力套装坐骑券"/>
+		<string name="desc" value="3天动力套装坐骑券。\n#c双击使用动力套装骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430262">
+		<string name="name" value="莱昂纳多坐骑券"/>
+		<string name="desc" value="3天莱昂纳多坐骑券。\n#c双击使用莱昂纳多骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430263">
+		<string name="name" value="雪人坐骑券"/>
+		<string name="desc" value="3天雪人坐骑券。\n#c双击使用雪人骑乘技能3天。#"/>
+	</imgdir>
+</imgdir>

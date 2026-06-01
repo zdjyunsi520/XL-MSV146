@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="61120219"><string name="name" value="龙之斩击（变身状态）"/><string name="desc" value="连按攻击键持续攻击前方的敌人，最多3次。"/><string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount"/></imgdir>
+    <imgdir name="61120030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="STR +#strX"/></imgdir>
+    <imgdir name="61120031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="DEX +#dexX"/></imgdir>
+    <imgdir name="61120032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="INT +#intX"/></imgdir>
+    <imgdir name="61120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="LUK +#lukX"/></imgdir>
+    <imgdir name="61120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="61120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中率。"/><string name="h" value="Accuracy +#ar%"/></imgdir>
+    <imgdir name="61120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="61120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="61120038"><string name="name" value="超级愤怒"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="Max DF +50"/></imgdir>
+    <imgdir name="61120039"><string name="name" value="超级物理防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="61120040"><string name="name" value="超级魔法防御"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="61120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="61120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="61120043"><string name="name" value="吉加斯波动-强化"/><string name="desc" value="提升吉加斯波动的伤害。"/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="61120044"><string name="name" value="吉加斯波动-负担"/><string name="desc" value="提升吉加斯波动的减速持续时间。"/><string name="h" value="Duration +#time sec"/></imgdir>
+    <imgdir name="61120045"><string name="name" value="吉加斯波动-额外攻击"/><string name="desc" value="提升吉加斯波动的攻击次数。"/><string name="h" value="Number of Hits +#attackCount"/></imgdir>
+    <imgdir name="61120046"><string name="name" value="地狱之息-强化"/><string name="desc" value="提升地狱之息的伤害。"/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="61120047"><string name="name" value="地狱之息-燃烧"/><string name="desc" value="提升地狱之息火焰的持续时间。"/><string name="h" value="Flame duration +#time sec"/></imgdir>
+    <imgdir name="61120048"><string name="name" value="地狱之息-烈焰"/><string name="desc" value="提升地狱之息火焰的伤害。"/><string name="h" value="Flame Damage +#damR%"/></imgdir>
+</imgdir>

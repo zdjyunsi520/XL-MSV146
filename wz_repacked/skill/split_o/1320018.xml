@@ -1,0 +1,5 @@
+<imgdir name="1320018">
+        <string name="name" value="Barricade Mastery" />
+        <string name="desc" value="Improves Spear and Polearm proficiencies to human limits. Increases minimum Critical Damage and Weapon Attack Power.\nRequired Skill: #cWeapon Mastery Lv. 10 or above#" />
+        <string name="h" value="Increases Spear and Polearm type weapon mastery to #mastery%. Weapon ATT: #padX, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="41111001">
+        <string name="name" value="Sweeping Sword" />
+        <string name="desc" value="The fourth Battoujutsu secret technique. Appear behind the enemies and sweep through them, drawing them back to your starting position." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount" />
+    </imgdir>

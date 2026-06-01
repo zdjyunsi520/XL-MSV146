@@ -1,0 +1,7 @@
+<imgdir name="5720008">
+        <string name="name" value="Collateral Damage" />
+        <string name="desc" value="Increases critical rate and critical damage. Grants additional critical rate and damage against bosses." />
+        <string name="h" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%, Damage on Bosses: +#bdR%" />
+        <string name="pdesc" value="Increases critical rate and critical damage. Grants additional critical rate and damage against bosses." />
+        <string name="ph" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%, Damage on Bosses: +#bdR%" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="32121004">
+        <string name="name" value="Dark Genesis" />
+        <string name="desc" value="Uses the power of darkness to attack and possibly stun up to 15 enemies at once. If you&apos;ve learned Dark Shock, that skill&apos;s damage will also permanently increase." />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec.\nPassive Effects: Damage of Dark Shock: +#damR%" />
+        <string name="pdesc" value="Uses the power of darkness to attack and possibly stun up to 15 enemies at once. If you&apos;ve learned Dark Shock, that skill&apos;s damage will also permanently increase." />
+        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec\nPassive Effects - Dark Shock Damage: +#damR%" />
+        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Cooldown: #cooltime sec\nPassive Effects - Dark Shock Damage: +#damR%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="21100010">
+        <string name="name" value="Final Attack" />
+        <string name="desc" value="Grants a chance to deal additional damage after an attack. Must have a polearm equipped.\nRequired Skill: #cPolearm Mastery Lv. 3#" />
+        <string name="h" value="Proc Rate: #prop%, Damage: #damage%" />
+    </imgdir>

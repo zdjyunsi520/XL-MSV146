@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3063270">
+		<string name="name" value="[A] 星云石 (所有伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 总伤害 : +5%#"/>
+	</imgdir>
+    <imgdir name="3063271">
+		<string name="name" value="[A] 星云石 (所有伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 总伤害 : +6%#"/>
+	</imgdir>
+    <imgdir name="3063280">
+		<string name="name" value="[A] 星云石 (全属性 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +3%#"/>
+	</imgdir>
+    <imgdir name="3063281">
+		<string name="name" value="[A] 星云石 (全属性 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +4%#"/>
+	</imgdir>
+    <imgdir name="3063290">
+		<string name="name" value="[A] 星云石 (全技能等级)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的头盔。\n* 全技能 : +1级#"/>
+	</imgdir>
+    <imgdir name="3063300">
+		<string name="name" value="[A] 星云石 (无视怪物防御)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时无视敌人21%的防御。#"/>
+	</imgdir>
+    <imgdir name="3063310">
+		<string name="name" value="[A] 星云石 (伤害防御 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的防具。\n* 被攻击时有5%几率无视20%伤害。#"/>
+	</imgdir>
+    <imgdir name="3063320">
+		<string name="name" value="[A] 星云石 (无敌)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的上衣和全身装。\n* 被攻击后无敌时间增加2秒。#"/>
+	</imgdir>
+    <imgdir name="3063330">
+		<string name="name" value="[A] 星云石 (无敌)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的上衣和全身装。\n* 被攻击时有2%几率进入5秒无敌状态。#"/>
+	</imgdir>
+    <imgdir name="3063340">
+		<string name="name" value="[A] 星云石 (恢复率)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* HP恢复道具和技能 : +10%#"/>
+	</imgdir>
+    <imgdir name="3063341">
+		<string name="name" value="[A] 星云石 (恢复率)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* HP恢复道具和技能 : +20%#"/>
+	</imgdir>
+    <imgdir name="3063350">
+		<string name="name" value="[A] 星云石 (BOSS伤害)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 对BOSS伤害 : +20%#"/>
+	</imgdir>
+    <imgdir name="3063351">
+		<string name="name" value="[A] 星云石 (BOSS伤害)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 对BOSS伤害 : +25%#"/>
+	</imgdir>
+    <imgdir name="3063360">
+		<string name="name" value="[A] 星云石 (自动偷窃)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 有1%几率触发自动偷窃。#"/>
+	</imgdir>
+    <imgdir name="3063361">
+		<string name="name" value="[A] 星云石 (自动偷窃)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 有2%几率触发自动偷窃。#"/>
+	</imgdir>
+    <imgdir name="3063370">
+		<string name="name" value="[A] 星云石 (技能)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的鞋子。\n* 可以使用&lt;高级极速&gt;技能#"/>
+	</imgdir>
+    <imgdir name="3063380">
+		<string name="name" value="[A] 星云石 (技能)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的头盔。\n* 可以使用&lt;高级神秘门&gt;技能#"/>
+	</imgdir>
+    <imgdir name="3063390">
+		<string name="name" value="[A] 星云石 (技能)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 可以使用&lt;高级锐利之眼&gt;技能#"/>
+	</imgdir>
+    <imgdir name="3063400">
+		<string name="name" value="[A] 星云石 (技能)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的下衣和全身装。\n* 可以使用&lt;高级终极攻击&gt;技能#"/>
+	</imgdir>
+    <imgdir name="3064000">
+		<string name="name" value="[S] 星云石 (力量)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 力量 : +9#"/>
+	</imgdir>
+</imgdir>

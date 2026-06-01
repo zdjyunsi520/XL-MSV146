@@ -1,0 +1,5 @@
+<imgdir name="4121052">
+        <string name="name" value="死亡之星" />
+        <string name="desc" value="召唤4枚手里剑合体成一把巨大的手里剑。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount\n冷却时间：#cooltime秒" />
+    </imgdir>

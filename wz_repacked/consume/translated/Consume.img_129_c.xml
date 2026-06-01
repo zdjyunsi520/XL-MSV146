@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046266">
+		<string name="name" value="传说防具强化卷轴 智力 20%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n智力：+4\r\n物理防御：+10\r\n魔法防御：+20\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046267">
+		<string name="name" value="传说防具强化卷轴 敏捷 20%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n敏捷：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046268">
+		<string name="name" value="传说防具强化卷轴 幸运 20%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n幸运：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046269">
+		<string name="name" value="传说暗黑防具强化卷轴 力量 40%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+4\r\n物理防御：+20\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046270">
+		<string name="name" value="传说暗黑防具强化卷轴 智力 40%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n智力：+4\r\n物理防御：+10\r\n魔法防御：+20\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046271">
+		<string name="name" value="传说防具强化卷轴 敏捷 40%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n敏捷：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046272">
+		<string name="name" value="传说暗黑防具强化卷轴 幸运 40%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n幸运：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046273">
+		<string name="name" value="传说防具强化卷轴 力量 70%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n物理防御：+10\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046274">
+		<string name="name" value="传说防具强化卷轴 智力 70%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n物理防御：+5\r\n魔法防御：+10\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046275">
+		<string name="name" value="传说防具强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n物理防御：+5\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046276">
+		<string name="name" value="传说防具强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n物理防御：+5\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046277">
+		<string name="name" value="传说枫叶防具强化卷轴 力量 25%"/>
+		<string name="desc" value="强化传说枫叶防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n力量：+5\r\n物理防御：+20\r\n魔法防御：+20\r\n回避：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046278">
+		<string name="name" value="传说枫叶防具强化卷轴 智力 25%"/>
+		<string name="desc" value="强化传说枫叶防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n智力：+5\r\n物理防御：+20\r\n魔法防御：+20\r\n回避：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046279">
+		<string name="name" value="传说枫叶防具强化卷轴 敏捷 25%"/>
+		<string name="desc" value="强化传说枫叶防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n敏捷：+5\r\n物理防御：+20\r\n魔法防御：+20\r\n回避：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046280">
+		<string name="name" value="传说枫叶防具强化卷轴 幸运 25%"/>
+		<string name="desc" value="强化传说枫叶防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n幸运：+5\r\n物理防御：+20\r\n魔法防御：+20\r\n回避：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046281">
+		<string name="name" value="传说枫叶防具强化卷轴 力量 70%"/>
+		<string name="desc" value="强化传说枫叶防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：25%\r\n力量：+3\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046282">
+		<string name="name" value="传说枫叶防具强化卷轴 智力 70%"/>
+		<string name="desc" value="强化传说枫叶防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：25%\r\n智力：+3\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046283">
+		<string name="name" value="传说枫叶防具强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化传说枫叶防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：25%\r\n敏捷：+3\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046284">
+		<string name="name" value="传说枫叶防具强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化传说枫叶防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：25%\r\n幸运：+3\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046285">
+		<string name="name" value="凯旋防具强化卷轴 攻击 25%"/>
+		<string name="desc" value="强化凯旋胜利防具的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n#"/>
+	</imgdir>
+</imgdir>

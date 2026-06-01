@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3061323">
+		<string name="name" value="[C] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有3%几率恢复15 MP。#"/>
+	</imgdir>
+    <imgdir name="3061324">
+		<string name="name" value="[C] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有3%几率恢复20 MP。#"/>
+	</imgdir>
+    <imgdir name="3061325">
+		<string name="name" value="[C] 星云石 (恢复MP)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有3%几率恢复20 MP。#"/>
+	</imgdir>
+    <imgdir name="3061330">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加1级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061331">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加2级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061332">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加3级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061333">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加4级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061334">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加5级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061335">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加6级中毒。#"/>
+	</imgdir>
+    <imgdir name="3061340">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加1级眩晕。#"/>
+	</imgdir>
+    <imgdir name="3061341">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加2级眩晕。#"/>
+	</imgdir>
+    <imgdir name="3061350">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加1级减速。#"/>
+	</imgdir>
+    <imgdir name="3061351">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加2级减速。#"/>
+	</imgdir>
+    <imgdir name="3061360">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加1级失明。#"/>
+	</imgdir>
+    <imgdir name="3061361">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加2级失明。#"/>
+	</imgdir>
+    <imgdir name="3061362">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有10%几率附加3级失明。#"/>
+	</imgdir>
+    <imgdir name="3061370">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加1级冻结。#"/>
+	</imgdir>
+    <imgdir name="3061371">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加2级冻结。#"/>
+	</imgdir>
+    <imgdir name="3061380">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加1级封印。#"/>
+	</imgdir>
+    <imgdir name="3061381">
+		<string name="name" value="[C] 星云石 (异常状态)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 攻击时有5%几率附加2级封印。#"/>
+	</imgdir>
+</imgdir>

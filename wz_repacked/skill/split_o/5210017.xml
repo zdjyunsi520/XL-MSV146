@@ -1,0 +1,5 @@
+<imgdir name="5210017">
+        <string name="name" value="All Aboard" />
+        <string name="desc" value="Summons two random crew members to assist you in battle. If you are targeted by a fatal status effect, a crew member will block it." />
+        <string name="h" value="Consumes #mpCon MP, summons two brave crew members to assist you in battle. Crew members summon time #time sec, cooldown #cooltime sec. If you are targeted by an abnormal status effect attack, a crew member will take the hit for you and then disappear." />
+    </imgdir>

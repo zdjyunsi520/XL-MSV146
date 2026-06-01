@@ -1,0 +1,112 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390119">
+		<string name="name" value="派琳"/>
+	</imgdir>
+    <imgdir name="9390122">
+		<string name="name" value="兰道夫"/>
+		<string name="func" value="泰尼鲁姆杂货店"/>
+		<string name="n0" value="他们叫我兰道夫，传奇商人。"/>
+		<string name="d0" value="怎么样？选择你想要的。"/>
+		<string name="d1" value="他们叫我兰道夫，传奇商人。"/>
+	</imgdir>
+    <imgdir name="9390123">
+		<string name="name" value="露西亚"/>
+		<string name="func" value="泰尼鲁姆杂货店"/>
+		<string name="n0" value="我是露西亚！我比兰道夫更传奇。"/>
+		<string name="d0" value="你给我带来更多硬币吗？我想要所有的硬币！"/>
+		<string name="d1" value="我是露西亚！我比兰道夫更传奇。"/>
+	</imgdir>
+    <imgdir name="9390124">
+		<string name="name" value="心树守护者"/>
+	</imgdir>
+    <imgdir name="9390125">
+		<string name="name" value="堕落的戈勒克斯"/>
+	</imgdir>
+    <imgdir name="9390126">
+		<string name="name" value="戈勒克斯：心脏"/>
+	</imgdir>
+    <imgdir name="2300000">
+		<string name="name" value="鲁-D"/>
+		<string name="func" value="实验室吉祥物"/>
+		<string name="n0" value="斯奎尔克！"/>
+		<string name="n1" value="布鲁姆-布鲁姆！"/>
+		<string name="n2" value="嘣-嘣！"/>
+		<string name="d0" value="你来这里有什么事？"/>
+		<string name="d1" value="嘿！"/>
+	</imgdir>
+    <imgdir name="2300001">
+		<string name="name" value="梦幻教授"/>
+		<string name="func" value="物理学家"/>
+		<string name="n0" value="一切都有科学原理，甚至像数学这样难的东西。"/>
+		<string name="n1" value="我目前正在研究冒险岛世界的异常现象。"/>
+		<string name="d0" value="我目前正在研究冒险岛世界的异常现象。"/>
+		<string name="d1" value="我对理论物理学充满热情。"/>
+	</imgdir>
+    <imgdir name="2300002">
+		<string name="name" value="普罗马瑟斯"/>
+		<string name="func" value="生物学家"/>
+		<string name="n0" value="科学是这个世界的指路明灯。"/>
+		<string name="n1" value="科学家的责任感才是最重要的。"/>
+		<string name="d0" value="科学家的责任感才是最重要的。"/>
+		<string name="d1" value="我专攻生物技术。"/>
+	</imgdir>
+    <imgdir name="2300003">
+		<string name="name" value="埃德温"/>
+		<string name="n0" value="知识和经验都很酷，但激情才是关键。"/>
+		<string name="n1" value="我为新发明而生！"/>
+		<string name="d0" value="知识和经验都很酷，但激情才是关键。"/>
+		<string name="func" value="工程师"/>
+	</imgdir>
+    <imgdir name="2300004">
+		<string name="name" value="纳塔尼亚"/>
+		<string name="n0" value="别打扰我。我的工作需要专注和时机。"/>
+		<string name="n1" value="好奇心是一切的开始。"/>
+		<string name="func" value="炼金术士"/>
+		<string name="d0" value="别打扰我。我的工作需要专注和时机。"/>
+	</imgdir>
+    <imgdir name="2300005">
+		<string name="name" value="普罗梅萨"/>
+		<string name="func" value="次元传送"/>
+	</imgdir>
+    <imgdir name="2300006">
+		<string name="name" value="真理号"/>
+		<string name="func" value="研究指挥"/>
+	</imgdir>
+    <imgdir name="2300007">
+		<string name="name" value="纳塔尼亚"/>
+		<string name="d0" value="好奇心是一切的开始。"/>
+	</imgdir>
+    <imgdir name="2300008">
+		<string name="name" value="埃德温"/>
+		<string name="d0" value="你可以看，但你得付钱！"/>
+	</imgdir>
+    <imgdir name="2301000">
+		<string name="name" value="埃德温"/>
+		<string name="func" value="武器商人/工程师"/>
+		<string name="n0" value="知识和经验都很酷，但激情才是关键。"/>
+		<string name="n1" value="我为新发明而生！"/>
+		<string name="d0" value="你可以看，但你得付钱！"/>
+	</imgdir>
+    <imgdir name="2301001">
+		<string name="name" value="纳塔尼亚"/>
+		<string name="func" value="商人/炼金术士"/>
+		<string name="n0" value="别打扰我。我的工作需要专注和时机。"/>
+		<string name="n1" value="好奇心是一切的开始。"/>
+	</imgdir>
+    <imgdir name="9000000">
+		<string name="name" value="保罗"/>
+		<string name="func" value="活动助手"/>
+		<string name="n0" value="我弟弟在哪里...？"/>
+		<string name="n1" value="我需要到达活动举办地..."/>
+	</imgdir>
+    <imgdir name="9000001">
+		<string name="name" value="让"/>
+		<string name="func" value="活动助手"/>
+		<string name="n0" value="我弟弟在哪里？"/>
+		<string name="n1" value="我需要到达活动地点。"/>
+	</imgdir>
+    <imgdir name="9000002">
+		<string name="name" value="彼得罗"/>
+		<string name="n0" value="如果你是获奖者之一，来和我谈谈。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="1311011">
+        <string name="name" value="风车矛" />
+        <string name="desc" value="像风车一样挥舞长矛，伤害并穿透附近的敌人~" />
+        <string name="pdesc" value="像风车一样挥舞长矛，伤害并穿透附近的敌人~" />
+        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。持续按住按键最多持续#time秒。松开按键时以#y%伤害攻击" />
+        <string name="ph" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。持续按住按键最多持续#time秒。松开按键时以#y%伤害攻击" />
+    </imgdir>

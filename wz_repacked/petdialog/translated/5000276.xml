@@ -1,0 +1,191 @@
+<imgdir name="5000276">
+			<string name="c1" value="sit"/>
+			<string name="c1_s1" value="好的呀！"/>
+			<string name="c1_s2" value="我来坐！"/>
+			<string name="c1_f1" value="^^？"/>
+			<string name="c1_f2" value="...？"/>
+			<string name="c2" value="sit"/>
+			<string name="c2_s1" value="你是担心我脚累了吗？谢谢你呀！"/>
+			<string name="c2_s2" value="主人你在关心我吗？谢谢你呀！"/>
+			<string name="c2_s3" value="我坐下来呢。"/>
+			<string name="c2_s4" value="好舒服呀！"/>
+			<string name="c2_f1" value="我想站着呢。"/>
+			<string name="c2_f2" value="主人你也坐下来呀！"/>
+			<string name="c2_f3" value="听不见呢！"/>
+			<string name="c2_f4" value="主人你就待在原地别动呀。"/>
+			<string name="c3" value="sit"/>
+			<string name="c3_s1" value="好开心！好——开心呀！"/>
+			<string name="c3_s2" value="主人，我们一起坐嘛呀？"/>
+			<string name="c3_s3" value="好久没休息过了呢。"/>
+			<string name="c3_s4" value="坐下的时候腿好舒服呀。"/>
+			<string name="c3_f1" value="我现在腿抽筋了呢。"/>
+			<string name="c3_f2" value="我觉得身上有脏东西呀！"/>
+			<string name="c3_f3" value="坐着的话就没法玩了呀。去玩吧！"/>
+			<string name="c3_f4" value="我不喜欢那个命令呀！"/>
+			<string name="c4" value="sit"/>
+			<string name="c4_s1" value="你觉得我什么都能做到对吧呀？"/>
+			<string name="c4_s2" value="主人说什么我都听呢。"/>
+			<string name="c4_s3" value="主人开心我就开心呀！"/>
+			<string name="c4_s4" value="主人！主人！看着我呀！"/>
+			<string name="c4_f1" value="我还想多玩一会儿呢..."/>
+			<string name="c4_f2" value="你刚才说什么呀？我没听见。"/>
+			<string name="c4_f3" value="现在站着更舒服呢！"/>
+			<string name="c4_f4" value="主人，我可以躺下来吗呀？"/>
+			<string name="c5" value="slap|no|bad|don't"/>
+			<string name="c5_s1" value="好痛呀！"/>
+			<string name="c5_s2" value="呜哇！！"/>
+			<string name="c5_f1" value="你应该给我做个好榜样呀。"/>
+			<string name="c5_f2" value="为什么呀？"/>
+			<string name="c6" value="slap|no|bad|don't"/>
+			<string name="c6_s1" value="都是我的错呀！"/>
+			<string name="c6_s2" value="*呜呜。呜呜*"/>
+			<string name="c6_s3" value="我再也不会犯错了呢。"/>
+			<string name="c6_s4" value="别生气嘛。我会做得更好的呀。"/>
+			<string name="c6_f1" value="你为什么心情这么差呀？"/>
+			<string name="c6_f2" value="你好奇怪呀！"/>
+			<string name="c6_f3" value="主人我不喜欢你了呢！"/>
+			<string name="c6_f4" value="我这么好... 你伤害了我呀。"/>
+			<string name="c7" value="slap|no|bad|don't"/>
+			<string name="c7_s1" value="别生气嘛。我不会再犯了呀..."/>
+			<string name="c7_s2" value="主人，在我心中你还是最好的呢..."/>
+			<string name="c7_s3" value="请不要讨厌我呀..."/>
+			<string name="c7_s4" value="我只是想引起你的注意呢。"/>
+			<string name="c7_f1" value="我没做错什么呀。"/>
+			<string name="c7_f2" value="谁都会犯错的嘛。"/>
+			<string name="c7_f3" value="我不会再犯了呀！"/>
+			<string name="c7_f4" value="我乖又忠诚呢。你为什么老找我的碴呀？"/>
+			<string name="c8" value="slap|no|bad|don't"/>
+			<string name="c8_s1" value="如果你不生气了，我就亲你100下呀！"/>
+			<string name="c8_s2" value="主人，我发誓这种事不会再发生了呢。"/>
+			<string name="c8_s3" value="这次就饶了我嘛。"/>
+			<string name="c8_s4" value="我为做过的事后悔了呀。"/>
+			<string name="c8_f1" value="好无聊呀。主人，我们玩别的吧！"/>
+			<string name="c8_f2" value="请别生气了呀..."/>
+			<string name="c8_f3" value="主人，你会后悔的呢！"/>
+			<string name="c8_f4" value="你怎么忍心对这么好的宠物生气呀？"/>
+			<string name="c9" value="iloveyou"/>
+			<string name="c9_s1" value="你是我的唯一呀！"/>
+			<string name="c9_s2" value="好哒！"/>
+			<string name="c9_f1" value="哼！"/>
+			<string name="c9_f2" value="你的眼神在说不要呢。"/>
+			<string name="c10" value="iloveyou"/>
+			<string name="c10_s1" value="感觉好——好呀！"/>
+			<string name="c10_s2" value="好好呀！"/>
+			<string name="c10_s3" value="你最好了呀！"/>
+			<string name="c10_s4" value="我也很喜欢你呢！"/>
+			<string name="c10_f1" value="你一定是在开玩笑吧... 对吗呀？"/>
+			<string name="c10_f2" value="汪！有吃的吗？"/>
+			<string name="c10_f3" value="骗子呀！汪！"/>
+			<string name="c10_f4" value="主人？哦... 算了呢。"/>
+			<string name="c11" value="iloveyou"/>
+			<string name="c11_s1" value="你说话总是那么甜呢。"/>
+			<string name="c11_s2" value="啊啊啊... 主人谢谢你呀！"/>
+			<string name="c11_s3" value="我的心永远向着你的呀！"/>
+			<string name="c11_s4" value="主人，你总是让我感动呢。"/>
+			<string name="c11_f1" value="好了... 好了... 我知道了呀！"/>
+			<string name="c11_f2" value="主人，你的另一半怎么办呀？"/>
+			<string name="c11_f3" value="我知道你在骗人呢。"/>
+			<string name="c11_f4" value="别小看我呀..."/>
+			<string name="c12" value="iloveyou"/>
+			<string name="c12_s1" value="你是我的唯一呢。"/>
+			<string name="c12_s2" value="我... 嗯，我也爱你呀。"/>
+			<string name="c12_s3" value="继续夸我呀！"/>
+			<string name="c12_s4" value="好吧，那就试试看呢。"/>
+			<string name="c12_f1" value="主人... 那挺好的... 但你有股怪味呀。"/>
+			<string name="c12_f2" value="别开玩笑了呀。"/>
+			<string name="c12_f3" value="烂笑话呢！汪！"/>
+			<string name="c12_f4" value="我本来想叫你主人的，但是... 算了呀。"/>
+			<string name="c13" value="poop"/>
+			<string name="c13_s1" value="这次我要全力释放呀！"/>
+			<string name="c13_s2" value="啊啊啊... 好舒服呢。"/>
+			<string name="c13_s3" value="不许看呀！"/>
+			<string name="c13_s4" value="你说了算呢。"/>
+			<string name="c13_f1" value="想清楚了再指挥我呀！"/>
+			<string name="c13_f2" value="什么都要分时间和场合呢！"/>
+			<string name="c13_f3" value="你有没有听说过基本礼貌呀？！"/>
+			<string name="c13_f4" value="这里不是厕所呀！"/>
+			<string name="c14" value="poop"/>
+			<string name="c14_s1" value="我每天就上一次呀。"/>
+			<string name="c14_s2" value="成功了呀！"/>
+			<string name="c14_s3" value="主人，你好臭呢！"/>
+			<string name="c14_s4" value="我-我好像它动了呀！"/>
+			<string name="c14_f1" value="我不用上你非要让我去呀？"/>
+			<string name="c14_f2" value="你连袋子都没带呢！"/>
+			<string name="c14_f3" value="便便是脏的呀。"/>
+			<string name="c14_f4" value="我现在不想上呢。"/>
+			<string name="c15" value="poop"/>
+			<string name="c15_s1" value="这个长得好像我呀！"/>
+			<string name="c15_s2" value="拉出来的感觉真好呢。"/>
+			<string name="c15_s3" value="能帮我挡一下吗？我需要去呀。"/>
+			<string name="c15_s4" value="闻闻看呀！一点都不臭呢！"/>
+			<string name="c15_f1" value="我刚拉过了呀。你忘了吗？"/>
+			<string name="c15_f2" value="你不能强迫我去的呀。"/>
+			<string name="c15_f3" value="我想去邻居家玩呢。"/>
+			<string name="c15_f4" value="我想尿尿呢。可以尿吗？"/>
+			<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c16_s1" value="你还不睡觉吗呀？"/>
+			<string name="c16_s2" value="我已经睡着了... 呼呼..."/>
+			<string name="c16_s3" value="晚安呢，主人！"/>
+			<string name="c16_s4" value="晚安呀，主人... 呼..."/>
+			<string name="c16_f1" value="这么吵的地方我睡不着呀！"/>
+			<string name="c16_f2" value="哎呀，是人类困困了吗呀？"/>
+			<string name="c16_f3" value="好主意！该睡觉了呢！"/>
+			<string name="c16_f4" value="还不到睡觉时间呀！"/>
+			<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c17_s1" value="晚安呀，主人... 呼..."/>
+			<string name="c17_s2" value="我想梦到自己呢..."/>
+			<string name="c17_s3" value="好累呀！晚安呢，主人！"/>
+			<string name="c17_s4" value="进入梦乡咯！"/>
+			<string name="c17_f1" value="睡觉？这么快呀？"/>
+			<string name="c17_f2" value="主人先睡呀！"/>
+			<string name="c17_f3" value="天天睡觉我会变胖的呢！"/>
+			<string name="c17_f4" value="在你身边我睡得更香呀。"/>
+			<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c18_s1" value="你的声音就像摇篮曲呢。"/>
+			<string name="c18_s2" value="主人，祝你做个好梦呀！"/>
+			<string name="c18_s3" value="我困了呀。"/>
+			<string name="c18_s4" value="在你身边我睡得更香呢。"/>
+			<string name="c18_f1" value="不要。我还要再玩一会儿呀！"/>
+			<string name="c18_f2" value="主人，你为什么老是想睡觉呀？"/>
+			<string name="c18_f3" value="我就坐着休息一会儿呢..."/>
+			<string name="c18_f4" value="别再命令我了呀！"/>
+			<string name="c19" value="talk|chat|say"/>
+			<string name="c19_s1" value="弓箭手村的草地真好呢。"/>
+			<string name="c19_s2" value="主人你今天好帅呀！我想我爱上你了呢！"/>
+			<string name="c19_s3" value="如果你累了，我会陪在你身边呀。"/>
+			<string name="c19_s4" value="如果我们遇到什么可怕的东西，你要保护我呀。"/>
+			<string name="c19_f1" value="你是不是喜欢我说话的样子呀？那为什么老跟我说话呢？"/>
+			<string name="c19_f2" value="我要告诉你的是一个完全的秘密呀..."/>
+			<string name="c19_f3" value="我今天不想说话呢。"/>
+			<string name="c19_f4" value="我不说话呀。这就是我的风格。"/>
+			<string name="c20" value="talk|chat|say"/>
+			<string name="c20_s1" value="我最近没什么胃口呢，但主人给的东西都是好的呀！"/>
+			<string name="c20_s2" value="夜市的尼基好肉麻呀。"/>
+			<string name="c20_s3" value="玩具城的卡尔管理员人真好呢。"/>
+			<string name="c20_s4" value="我在想佩佩是不是跟企鹅有亲戚关系呀。"/>
+			<string name="c20_f1" value="我们来玩个游戏吧... 比比谁先说话呢。"/>
+			<string name="c20_f2" value="你的美貌令人窒息呀。"/>
+			<string name="c20_f3" value="我需要说什么呀？"/>
+			<string name="c20_f4" value="我胃口不大呢，但主人给的东西都是好的呀！"/>
+			<string name="c21" value="talk|chat|say"/>
+			<string name="c21_s1" value="有些精灵会做好事呢！"/>
+			<string name="c21_s2" value="我觉得你是世界上最厉害的呀！"/>
+			<string name="c21_s3" value="嘿主人... 你单身吗？要不要我帮你介绍呀？"/>
+			<string name="c21_s4" value="我的愿望就是你能变得幸福呢。"/>
+			<string name="c21_f1" value="我听不见呀！什么都听不见！"/>
+			<string name="c21_f2" value="我不知道说什么呢！"/>
+			<string name="c21_f3" value="我想一个人待着呀。"/>
+			<string name="c21_f4" value="别烦我呀！"/>
+			<string name="f1_s" value="哇... 这是我最喜欢的食物呀！"/>
+			<string name="f1_f" value="我讨厌吃到肚子疼呢..."/>
+			<string name="f2_s" value="你是最好的主人呀！"/>
+			<string name="f2_f" value="够了呀！"/>
+			<string name="f3_s" value="我快晕了呀，吃得太多了。"/>
+			<string name="f3_f" value="我不想再吃了呢。"/>
+			<string name="f4_s" value="啊，好吃呀！谢谢呢！"/>
+			<string name="f4_f" value="呃... 我太饱了呀。再也吃不下了..."/>
+			<string name="s1" value="别说坏话呀！"/>
+			<string name="s2" value="主人... 只说好听的话嘛。"/>
+			<string name="s3" value="我是不说那种话的宠物呀。"/>
+			<string name="s4" value="善有善报恶有恶报呢，你知道吧？"/>
+	</imgdir>

@@ -1,0 +1,80 @@
+<imgdir name="Map.img">
+    <imgdir name="aquaroad">
+		<imgdir name="860000001">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="West Shallow Sea"/>
+		</imgdir>
+		<imgdir name="860000002">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="West Shallow Sea 2"/>
+		</imgdir>
+		<imgdir name="860000003">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="West Shallow Sea 3"/>
+		</imgdir>
+		<imgdir name="860000004">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="East Shallow Sea"/>
+		</imgdir>
+		<imgdir name="860000005">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="East Shallow Sea 2"/>
+		</imgdir>
+		<imgdir name="860000020">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Deep Gorge"/>
+		</imgdir>
+		<imgdir name="860000021">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Deep Gorge 2"/>
+		</imgdir>
+		<imgdir name="860000022">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Deep Gorge 3"/>
+		</imgdir>
+		<imgdir name="860000030">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Dangerous Deep Sea"/>
+		</imgdir>
+		<imgdir name="860000031">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Dangerous Deep Sea 2"/>
+		</imgdir>
+		<imgdir name="860000032">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Dangerous Deep Sea 3"/>
+		</imgdir>
+		<imgdir name="860000040">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Antoinette's Reception Hall"/>
+		</imgdir>
+		<imgdir name="860000041">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Antoinette's Chambers"/>
+		</imgdir>
+		<imgdir name="860000010">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="West Bright Sea"/>
+		</imgdir>
+		<imgdir name="860000011">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="West Bright Sea 2"/>
+		</imgdir>
+		<imgdir name="860000012">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="East Bright Sea"/>
+		</imgdir>
+		<imgdir name="860000013">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="East Bright Sea 2"/>
+		</imgdir>
+		<imgdir name="860000014">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="East Bright Sea 3"/>
+		</imgdir>
+		<imgdir name="860000000">
+			<string name="streetName" value="Aqua Road"/>
+			<string name="mapName" value="Twisted Aquarium"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

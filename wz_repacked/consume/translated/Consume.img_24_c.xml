@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004200">
+		<string name="name" value="防御药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+50和魔法防御+50，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004201">
+		<string name="name" value="防御药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+70和魔法防御+70，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004202">
+		<string name="name" value="防御药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+90和魔法防御+90，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004203">
+		<string name="name" value="防御药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+110和魔法防御+110，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004204">
+		<string name="name" value="防御药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+130和魔法防御+130，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004205">
+		<string name="name" value="防御药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+150和魔法防御+150，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004206">
+		<string name="name" value="防御药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+170和魔法防御+170，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004207">
+		<string name="name" value="防御药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+190和魔法防御+190，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004208">
+		<string name="name" value="防御药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+210和魔法防御+210，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004209">
+		<string name="name" value="防御药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+230和魔法防御+230，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004210">
+		<string name="name" value="高级防御药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+50和魔法防御+50，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004211">
+		<string name="name" value="高级防御药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+70和魔法防御+70，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004212">
+		<string name="name" value="高级防御药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+90和魔法防御+90，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004213">
+		<string name="name" value="高级防御药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+110和魔法防御+110，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004214">
+		<string name="name" value="高级防御药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+130和魔法防御+130，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004215">
+		<string name="name" value="高级防御药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+150和魔法防御+150，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004216">
+		<string name="name" value="高级防御药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+170和魔法防御+170，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004217">
+		<string name="name" value="高级防御药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+190和魔法防御+190，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004218">
+		<string name="name" value="高级防御药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+210和魔法防御+210，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004219">
+		<string name="name" value="高级防御药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n武器防御+230和魔法防御+230，持续30分钟。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2003516">
+		<string name="name" value="Giant Potion"/>
+		<string name="desc" value="A mysterious potion that contains the power of Chronos, a god of the ancient Giants. What mysterious powers does it hold? \n#c* Caution: Using it might cause buffs to disappear.#"/>
+	</imgdir>
+    <imgdir name="2003517">
+		<string name="name" value="Advanced Giant Potion"/>
+		<string name="desc" value="A mysterious potion that contains the power of Gaia, a god of the ancient Giants. What mysterious powers does it hold? \n#c* Caution: Using it might cause buffs to disappear.#"/>
+	</imgdir>
+    <imgdir name="2003518">
+		<string name="name" value="Triple Snowdrop Giant Potion"/>
+		<string name="desc" value="A mysterious potion that contains the power of Chronos, a god of the ancient Giants. What mysterious powers does it hold? \n#c* Caution: Using it might cause buffs to disappear.#"/>
+	</imgdir>
+    <imgdir name="2003519">
+		<string name="name" value="Quintuple Snowdrop Giant Potion"/>
+		<string name="desc" value="A mysterious potion that contains the power of Chronos, a god of the ancient Giants. What mysterious powers does it hold? \n#c* Caution: Using it might cause buffs to disappear.#"/>
+	</imgdir>
+    <imgdir name="2003520">
+		<string name="name" value="Guidebook Giant Potion"/>
+		<string name="desc" value="A mysterious potion that contains the power of Chronos, a god of the ancient Giants. What mysterious powers does it hold? \n#c* Caution: Using it might cause buffs to disappear.#"/>
+	</imgdir>
+    <imgdir name="2003521">
+		<string name="name" value="Excavated Health Boost Potion"/>
+		<string name="desc" value="A potion found inside a Mysterious Artifact fragment. Its age is unknown, but it's surely safe to drink. Increases HP by 1000 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2003522">
+		<string name="name" value="Excavated Mana Boost Potion"/>
+		<string name="desc" value="A potion found inside a Mysterious Artifact fragment. Its age is unknown, but it's surely safe to drink. Increases MP by 1000 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2003523">
+		<string name="name" value="Excavated Blessing Potion"/>
+		<string name="desc" value="A potion found inside a Mysterious Artifact fragment. Its age is unknown, but it's surely safe to drink. Increases all stats, Speed and Jump by 10 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2003524">
+		<string name="name" value="Superior Hero Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases ATT and M. ATT by 18 for 2 hours and can be used with other ATT potions. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003525">
+		<string name="name" value="Exceptional Hero Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases ATT and M. ATT by 24 for 2 hours and can be used with other ATT potions. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003526">
+		<string name="name" value="Legends Hero Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases ATT and M. ATT by 30 for 2 hours and can be used with other ATT potions. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003527">
+		<string name="name" value="Superior Blessing Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. For 2 hours, increases STR, DEX, INT, and LUK by 40, and both Speed and Jump are increased to maximum values. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003528">
+		<string name="name" value="Exceptional Blessing Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. For 2 hours, increases STR, DEX, INT, and LUK by 50, and both Speed and Jump are increased to maximum values. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003529">
+		<string name="name" value="Legends Blessing Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. For 2 hours, increases STR, DEX, INT, and LUK by 60, and both Speed and Jump are increased to maximum values. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003530">
+		<string name="name" value="Intermediate Concentration Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases critical and avoidability chance by 3% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003531">
+		<string name="name" value="Superior Concentration Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases critical and avoidance chance by 5% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003532">
+		<string name="name" value="Exceptional Concentration Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases critical and avoidance chance by 10% for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003533">
+		<string name="name" value="Superior Fortitude Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases Max HP by 5000 for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003534">
+		<string name="name" value="Exceptional Fortitude Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases Max HP by 6000 for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+    <imgdir name="2003535">
+		<string name="name" value="Legendary Fortitude Potion"/>
+		<string name="desc" value="A mysterious potion created through Alchemy. Increases Max HP by 7000 for 2 hours. However, you can only use 1 potion at a time, but alchemists may use up to 2 at once."/>
+	</imgdir>
+</imgdir>

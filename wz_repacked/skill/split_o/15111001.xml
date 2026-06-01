@@ -1,0 +1,7 @@
+<imgdir name="15111001">
+        <string name="name" value="Energy Drain" />
+        <string name="desc" value="Absorbs a portion of the monster&apos;s HP to restore your own HP. It can only be used when your #cenergy is fully charged#.\\nRequired Skill: #cEnergy Charge Lv. 1#" />
+        <string name="h" value="Damage: #damage%, Amount Absorbed: #x%" />
+        <string name="pdesc" value="Absorbs a portion of the monster&apos;s HP to restore your own HP. It can only be used when your #cenergy is fully charged#.\\nRequired Skill: #cEnergy Charge Lv. 1#" />
+        <string name="ph" value="Damage: #damage%, Absorbs #x% of the damage as HP\nCooldown: #cooltime sec" />
+    </imgdir>

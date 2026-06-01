@@ -1,0 +1,5 @@
+<imgdir name="21120004">
+        <string name="name" value="High Defense" />
+        <string name="desc" value="A new defense technique that permanently decreases damage received from enemies and increases HP." />
+        <string name="h" value="Damage Taken: -#t%, Max HP: +#mhpR%" />
+    </imgdir>

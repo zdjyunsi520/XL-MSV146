@@ -1,0 +1,5 @@
+<imgdir name="1201012">
+        <string name="name" value="Blizzard Charge" />
+        <string name="desc" value="Instantly grants ice attribute to your weapon to deal ice damage to enemies and slow them. #cWhen you attack an enemy that is taking continuous damage from Flame Charge, more damage# can be dealt." />
+        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. At #prop% chance, reduce enemy&apos;s movement speed for #time sec. #cWhen attacking a burning enemy, #z% additional damage#" />
+    </imgdir>

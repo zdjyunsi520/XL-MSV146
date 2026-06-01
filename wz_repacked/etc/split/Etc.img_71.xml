@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4023017">
+			<string name="name" value="Patchouli Seed Oil"/>
+			<string name="desc" value="Patchouli seed oil. Used in Lv. 9 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023018">
+			<string name="name" value="Patchouli Flower Oil"/>
+			<string name="desc" value="Patchouli flower oil. Used in Lv. 9 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023019">
+			<string name="name" value="Juniper Berry Seed Oil"/>
+			<string name="desc" value="Juniper berry seed oil. Used in Lv. 10 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023020">
+			<string name="name" value="Juniper Berry Flower Oil"/>
+			<string name="desc" value="Juniper berry flower oil. Used in Lv. 10 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023021">
+			<string name="name" value="Hyssop Flower Oil"/>
+			<string name="desc" value="Very rare oil made of hyssop flower. Used in Lv. 10 Alchemy."/>
+		</imgdir>
+    <imgdir name="4023022">
+			<string name="name" value="Clary Sage Oil"/>
+			<string name="desc" value="Clary sage oil."/>
+		</imgdir>
+    <imgdir name="4024000">
+			<string name="name" value="Basic Herb Oil Bottle"/>
+			<string name="desc" value="A basic herb oil bottle. \nAvailable Herbs: Marjoram, Lavender, Rosemary"/>
+		</imgdir>
+    <imgdir name="4024001">
+			<string name="name" value="Intermediate Herb Oil Bottle"/>
+			<string name="desc" value="An intermediate herb oil bottle.\nAvailable Herbs: Mandarin, Lemon Balm, Peppermint, Jasmine "/>
+		</imgdir>
+    <imgdir name="4024002">
+			<string name="name" value="Advanced Herb Oil Bottle"/>
+			<string name="desc" value="An advanced herb oil bottle.\nAvailable Herbs: Tea Tree, Chamomile, Patchouli"/>
+		</imgdir>
+    <imgdir name="4024003">
+			<string name="name" value="Superior Herb Oil Bottle"/>
+			<string name="desc" value="A superior herb oil bottle. \nAvailable Herbs: Juniper Berry, Hyssop"/>
+		</imgdir>
+    <imgdir name="4024004">
+			<string name="name" value="Basic Mold"/>
+			<string name="desc" value="A basic mold. \nAvailable Minerals: Opal, Silver, Orihalcon, Amethyst, Steel, Sapphire"/>
+		</imgdir>
+    <imgdir name="4024005">
+			<string name="name" value="Intermediate Mold"/>
+			<string name="desc" value="An intermediate mold. \nAvailable Minerals: Adamantium, Bronze, Mithril, DEX Crystal, Emerald, Gold, Topaz"/>
+		</imgdir>
+    <imgdir name="4024006">
+			<string name="name" value="Advanced Mold"/>
+			<string name="desc" value="An advanced mold. Available Minerals: Diamond, Aquamarine, Garnet, Power Crystal, Dark Crystal, Black Crystal."/>
+		</imgdir>
+    <imgdir name="4024007">
+			<string name="name" value="Superior Mold"/>
+			<string name="desc" value="A superior mold. \nAvailable Minerals: Lidium, Wisdom Crystal, LUK Crystal"/>
+		</imgdir>
+    <imgdir name="4025004">
+			<string name="name" value="Basic Empty Bottle"/>
+			<string name="desc" value="A bottle for alchemical potions. Used to make potions between level 40 and 60. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025005">
+			<string name="name" value="Intermediate Empty Bottle"/>
+			<string name="desc" value="A bottle for alchemical potions. Used to make potions between level 70 and 90. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025006">
+			<string name="name" value="Advanced Empty Bottle"/>
+			<string name="desc" value="A bottle for alchemical potions. Used to make potions between level 100 and 120. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025007">
+			<string name="name" value="Superior Empty Bottle"/>
+			<string name="desc" value="A bottle for alchemical potions. Used to make potions level 130 and higher. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025008">
+			<string name="name" value="Basic Potion Coagulant"/>
+			<string name="desc" value="Powder used to solidify potions. Used to make pills between level 40 and 60. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025009">
+			<string name="name" value="Intermediate Potion Coagulant"/>
+			<string name="desc" value="Powder used to solidify potions. Used to make pills between level 70 and 90. \nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+</imgdir>

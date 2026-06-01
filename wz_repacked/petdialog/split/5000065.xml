@@ -1,0 +1,205 @@
+<imgdir name="5000065">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Quack!"/>
+		<string name="c1_s2" value="Quack!"/>
+		<string name="c1_f1" value="Quaack?"/>
+		<string name="c1_f2" value="...Quack??"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Like this?"/>
+		<string name="c2_s2" value="Mmm so comfy!"/>
+		<string name="c2_s3" value="I'll sit here."/>
+		<string name="c2_s4" value="Okey ducky!"/>
+		<string name="c2_f1" value="I don't want to sit."/>
+		<string name="c2_f2" value="But why?"/>
+		<string name="c2_f3" value="What?? I can't hear you!"/>
+		<string name="c2_f4" value="No! I won't do it!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Well then, shall I sit?"/>
+		<string name="c3_s2" value="Why don't we sit together master?"/>
+		<string name="c3_s3" value="Let's take a break here."/>
+		<string name="c3_s4" value="I'm so nice, listening to your every need."/>
+		<string name="c3_f1" value="I don't just sit on the street."/>
+		<string name="c3_f2" value="What's that? Is that something I can eat?"/>
+		<string name="c3_f3" value="You sit."/>
+		<string name="c3_f4" value="Leave me alone."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Anything for you, Ducky!"/>
+		<string name="c4_s2" value="Anytime for my master, Ducky!"/>
+		<string name="c4_s3" value="How does Ducky look right now?"/>
+		<string name="c4_s4" value="Ducky's so happy right now."/>
+		<string name="c4_f1" value="Hey, don't you order me around."/>
+		<string name="c4_f2" value="I'm a rebellious duck."/>
+		<string name="c4_f3" value="Uh, where's my cushion? I won't sit without it!"/>
+		<string name="c4_f4" value="Ducky don't want to do it right now."/>
+		<string name="c5" value="slap | no | bad | don't"/>
+		<string name="c5_s1" value="…"/>
+		<string name="c5_s2" value="Quack!"/>
+		<string name="c5_f1" value="Quaack?"/>
+		<string name="c5_f2" value="Quack??"/>
+		<string name="c6" value="slap | no | bad | don't"/>
+		<string name="c6_s1" value="Ducky is very sorry."/>
+		<string name="c6_s2" value="Please forgive Ducky."/>
+		<string name="c6_s3" value="Don't hate Ducky."/>
+		<string name="c6_s4" value="Ducky is very scared of you now."/>
+		<string name="c6_f1" value="Huh? What?"/>
+		<string name="c6_f2" value="Ducky did nothing wrong."/>
+		<string name="c6_f3" value="Is Ducky being yelled at right now?"/>
+		<string name="c6_f4" value="Ducky don't understand why you're mad."/>
+		<string name="c7" value="slap | no | bad | don't"/>
+		<string name="c7_s1" value="Ducky's scared when you get mad."/>
+		<string name="c7_s2" value="It hurt Ducky's feelings when you're being mean."/>
+		<string name="c7_s3" value="Ducky won't do that EVER again."/>
+		<string name="c7_s4" value="Ducky's really, really scared now..."/>
+		<string name="c7_f1" value="Why always ME???"/>
+		<string name="c7_f2" value="Ducky don't fear you!"/>
+		<string name="c7_f3" value="NO! Ducky says NO!"/>
+		<string name="c7_f4" value="You don't trust Ducky?"/>
+		<string name="c8" value="slap | no | bad | don't"/>
+		<string name="c8_s1" value="Dunno... Ducky scared..."/>
+		<string name="c8_s2" value="Ducky won't do it again. Give me a chance."/>
+		<string name="c8_s3" value="Can't you see my tears? Please, have a heart... Ducky..."/>
+		<string name="c8_s4" value="Enough, enough! Ducky so sorry!"/>
+		<string name="c8_f1" value="If you keep punishing Ducky, Ducky will turn BAD!"/>
+		<string name="c8_f2" value="You strange. You keep punishing Ducky without feeding Ducky!"/>
+		<string name="c8_f3" value="Ducky will call police if you keep harassing Ducky! QUACK!"/>
+		<string name="c8_f4" value="You do that one more time, you see Ducky no more!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Quack!"/>
+		<string name="c9_s2" value="Quack!"/>
+		<string name="c9_f1" value="…?"/>
+		<string name="c9_f2" value="Quack??"/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="I'm so happy. Say it again, please?"/>
+		<string name="c10_s2" value="Really? You're the best!"/>
+		<string name="c10_s3" value="Love me forever! QUACK!"/>
+		<string name="c10_s4" value="R-really?"/>
+		<string name="c10_f1" value="Love? I need FOOD!"/>
+		<string name="c10_f2" value="Quack... Put more emotion into it next time."/>
+		<string name="c10_f3" value="Sorry but I'm taken. Find another duck."/>
+		<string name="c10_f4" value="Master, I'm serious. Snap out of it."/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="This duck...l-loves you, too."/>
+		<string name="c11_s2" value="Love... Is this feeling love? I think I'm falling for you, master."/>
+		<string name="c11_s3" value="This little duck loves you too!"/>
+		<string name="c11_s4" value="Tell me again privately, quack."/>
+		<string name="c11_f1" value="Nope, not happening."/>
+		<string name="c11_f2" value="Quack!! Your words are not very convincing."/>
+		<string name="c11_f3" value="Say that to someone else."/>
+		<string name="c11_f4" value="Stop! Just feed me."/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="I'm so happy you're my master, quack!"/>
+		<string name="c12_s2" value="You're so kind, master!"/>
+		<string name="c12_s3" value="Tell me that ten times every day!"/>
+		<string name="c12_s4" value="I hope you never, ever change!"/>
+		<string name="c12_f1" value="It's not you, it's me... I'm a duck, quack. Give up."/>
+		<string name="c12_f2" value="Do you even know what love means?"/>
+		<string name="c12_f3" value="Meh... I'm not feeling it... Quack..."/>
+		<string name="c12_f4" value="I love you like a family, too!"/>
+		<string name="c13" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c13_s1" value="Zzz.."/>
+		<string name="c13_s2" value="Quack!"/>
+		<string name="c13_f1" value="Quaack?"/>
+		<string name="c13_f2" value="Quack??"/>
+		<string name="c14" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c14_s1" value="Off to dreamland!"/>
+		<string name="c14_s2" value="I think I'm going to have a wonderful dream tonight, quack!"/>
+		<string name="c14_s3" value="You can sleep right next to me, quack!"/>
+		<string name="c14_s4" value="How did you know ducky was sleepy?"/>
+		<string name="c14_f1" value="It's much too early for that! Quack!"/>
+		<string name="c14_f2" value="This ducky is not tired."/>
+		<string name="c14_f3" value="You want me to sleep all day long? Quack!"/>
+		<string name="c14_f4" value="Ducky not sleepy. You sleep."/>
+		<string name="c15" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c15_s1" value="I'm already falling into sleep. Quack..."/>
+		<string name="c15_s2" value="You sleep well, too."/>
+		<string name="c15_s3" value="I'm going to take a short nap."/>
+		<string name="c15_s4" value="Sleeping makes me happy!"/>
+		<string name="c15_f1" value="I said, ducky not sleepy!"/>
+		<string name="c15_f2" value="You are telling me to sleep at a place like this. Master, you are mean!"/>
+		<string name="c15_f3" value="Are you planning a party for after I fall asleep?"/>
+		<string name="c15_f4" value="It's no time for sleeping, you must level up!"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="My snuggly pillow is making me...fall..asleep..."/>
+		<string name="c16_s2" value="Stand by me while I sleep, please?"/>
+		<string name="c16_s3" value="Lately, the more I sleep, the sleepier I get..."/>
+		<string name="c16_s4" value="I just wanna sleep all day long!"/>
+		<string name="c16_f1" value="Why are you forcing me to sleep? You're suspicious...."/>
+		<string name="c16_f2" value="Are you plotting to abandon me when I fall asleep?! I won't fall for that!"/>
+		<string name="c16_f3" value="I will sleep when I sleep. Bug off!"/>
+		<string name="c16_f4" value="No, no... I won't let you get something yummy while I fall asleep! Never!"/>
+		<string name="c17" value="talk | chat | say"/>
+		<string name="c17_s1" value="Nuh-uh."/>
+		<string name="c17_s2" value="I am talented at talking, I know."/>
+		<string name="c17_s3" value="Wanna hear a story?"/>
+		<string name="c17_s4" value="Nice weather out. How about taking me for a stroll in the Strolling Path?"/>
+		<string name="c17_f1" value="Not right now, quack."/>
+		<string name="c17_f2" value="Shh! I'm meditating."/>
+		<string name="c17_f3" value="Have you not seen a talking duck before?"/>
+		<string name="c17_f4" value="I don't want to talk right now."/>
+		<string name="c18" value="talk | chat | say"/>
+		<string name="c18_s1" value="What do you think about this red muffler? I'm a fashionista!"/>
+		<string name="c18_s2" value="I just wanna talk with you all day long!"/>
+		<string name="c18_s3" value="Anything you wanna hear from me?"/>
+		<string name="c18_s4" value="Have you seen Horntail before?"/>
+		<string name="c18_f1" value="Don't wanna talk. Why don't you talk?"/>
+		<string name="c18_f2" value="You don't have any friends, do you?"/>
+		<string name="c18_f3" value="Just leave me alone, quack..."/>
+		<string name="c18_f4" value="I am enjoying the solitude right now."/>
+		<string name="c19" value="talk | chat | say"/>
+		<string name="c19_s1" value="Scuba Pepe and I are nothing. It's not what you think. Quack!"/>
+		<string name="c19_s2" value="This is a secret, but I can transform..."/>
+		<string name="c19_s3" value="I love spending time with you, master."/>
+		<string name="c19_s4" value="Once upon a time there was a duck named Ducky..."/>
+		<string name="c19_f1" value="Nope!"/>
+		<string name="c19_f2" value="I talked too much today. Let's talk again tomorrow."/>
+		<string name="c19_f3" value="Are ya bored, master? Go hunt more!"/>
+		<string name="c19_f4" value="What's the magic word, quack?"/>
+		<string name="c20" value="dance"/>
+		<string name="c20_s1" value="This is the dance that'll make you move!"/>
+		<string name="c20_s2" value="Everybody! Dance, with, me. Oh yeah."/>
+		<string name="c20_s3" value="Shake it, shake, shake it. Boom boom boom."/>
+		<string name="c20_s4" value="After me! Boom boom!"/>
+		<string name="c20_f1" value="Dance? I need some music, please!"/>
+		<string name="c20_f2" value="Why don't you give it a try first? Quack!"/>
+		<string name="c20_f3" value="Not here, master."/>
+		<string name="c20_f4" value="If you sing, Ducky'll dance!"/>
+		<string name="c21" value="dance"/>
+		<string name="c21_s1" value="Par-tay, with da duckay!"/>
+		<string name="c21_s2" value="I dance til the end of night! Quack, quack, quack!"/>
+		<string name="c21_s3" value="Compliment me, and I shall dance more!"/>
+		<string name="c21_s4" value="Look at this crazy steps I'm doing!"/>
+		<string name="c21_f1" value="My dancing is so good you might fall in love with me!"/>
+		<string name="c21_f2" value="You're gonna make fun of me, aren't you?!"/>
+		<string name="c21_f3" value="Why don't you dance? Huh?"/>
+		<string name="c21_f4" value="Dancing is not my thing. Nope. Nada."/>
+		<string name="c22" value="transform"/>
+		<string name="c22_s1" value="Look at me closely!"/>
+		<string name="c22_s2" value="Watch closely! Quack!"/>
+		<string name="c22_s3" value="Duck feather magic! Transform!"/>
+		<string name="c22_s4" value="Transform? Like this?"/>
+		<string name="c22_f1" value="That doesn't just happen out of nowhere!"/>
+		<string name="c22_f2" value="What are you going to do for me?"/>
+		<string name="c22_f3" value="I can only do it when no one's around..."/>
+		<string name="c22_f4" value="I'm too sleepy to do that... Quack."/>
+		<string name="c23" value="transform"/>
+		<string name="c23_s1" value="Only because you asked...!"/>
+		<string name="c23_s2" value="This is a once in a lifetime event!"/>
+		<string name="c23_s3" value="I practiced every day for this moment!"/>
+		<string name="c23_s4" value="You might just fall in love with my transformed self!"/>
+		<string name="c23_f1" value="Can YOU do it?"/>
+		<string name="c23_f2" value="I don't feel like it. Quack..."/>
+		<string name="c23_f3" value="Quack, quack. You're not even looking at me. I'm pooped..."/>
+		<string name="c23_f4" value="Not right now, quack."/>
+		<string name="f1_s" value="Quack!"/>
+		<string name="f1_f" value="Quaaaack!"/>
+		<string name="f2_s" value="Ducky! Ducky!"/>
+		<string name="f2_f" value="Ptooey!"/>
+		<string name="f3_s" value="Yummy? Yes! Yummy!"/>
+		<string name="f3_f" value="Ducky, full!"/>
+		<string name="f4_s" value="You give best food, master! Quack!"/>
+		<string name="f4_f" value="Eek! Ducky ate too much!"/>
+		<string name="s1" value="Quack! Quaaaaack!"/>
+		<string name="s2" value="Quack! How could you say that?"/>
+		<string name="s3" value="Pretty words only, Ducky!"/>
+		<string name="s4" value="Yes, pretty words only, Ducky!"/>
+	</imgdir>

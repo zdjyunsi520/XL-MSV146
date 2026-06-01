@@ -1,0 +1,151 @@
+<imgdir name="Npc.img">
+    <imgdir name="1022002">
+		<string name="name" value="Manji"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="别跟我说话"/>
+		<string name="n2" value="现在离开...否则你会受伤"/>
+		<string name="d0" value="任何敢挡在我路上的人都会受到惩罚..."/>
+		<string name="d1" value="哈...我在想是谁在打扰我，原来是你。好吧，我不会再叫你无名小卒了..."/>
+	</imgdir>
+    <imgdir name="1022003">
+		<string name="name" value="Thunder先生"/>
+		<string name="func" value="修理耐久度"/>
+		<string name="n0" value="你得好好保养装备。如果你需要修耐久度，来找我。"/>
+		<string name="n1" value="需要修理装备吗？拿来吧！"/>
+	</imgdir>
+    <imgdir name="1022004">
+		<string name="name" value="Smith先生"/>
+		<string name="func" value="铁匠"/>
+		<string name="n0" value="我是Thunder先生最优秀的学生。我什么都能做。"/>
+		<string name="n1" value="Thunder先生做修理。我做所有新武器。"/>
+		<string name="d0" value="我最近好忙！下一个做什么呢？"/>
+		<string name="d1" value="如果你需要做什么，就来找我。"/>
+	</imgdir>
+    <imgdir name="1022006">
+		<string name="name" value="Winston"/>
+		<string name="s0" value="化石包含着关于过去的重要信息。"/>
+		<string name="s1" value="你觉得我能恢复我丢失的所有数据吗？"/>
+		<string name="n0" value="在悬崖周围找找，你或许能找到化石。"/>
+		<string name="d0" value="我是考古学家Winston。"/>
+		<string name="d1" value="你就是那天帮助我的人。不巧我现在真的很忙。回头再和你聊。"/>
+	</imgdir>
+    <imgdir name="1022007">
+		<string name="name" value="Ayan"/>
+		<string name="s0" value="我叫Ayan。很高兴认识你！"/>
+		<string name="s1" value="自从被这里的人救了一命后，我就一直住在这个村子里。"/>
+		<string name="d0" value="嗨！"/>
+		<string name="d1" value="你就是那天帮助我的人。谢谢！"/>
+	</imgdir>
+    <imgdir name="1022100">
+		<string name="name" value="Sophia"/>
+		<string name="n0" value="好的...我准备好做生意了..."/>
+		<string name="n1" value="这里好无聊..."/>
+		<string name="n2" value="Maya的病好点了吗？"/>
+		<string name="s0" value="今天工作不错！"/>
+		<string name="s1" value="请别跟我讨价还价！"/>
+		<string name="s2" value="今天看起来不错吧？我今天的货可下了不少功夫。"/>
+		<string name="h0" value="嘿，你回来了！"/>
+		<string name="h1" value="请别跟我太多讨价还价！"/>
+		<string name="h2" value="今天天气不是很宜人吗？"/>
+		<string name="d0" value="伙计，我想到处旅行什么的。我不想被困在这里工作。太糟糕了！我被困在这里天天做药水，全因为我妈妈开了这家店。这绝对不好玩。"/>
+		<string name="d1" value="你用#b#t4031004##k做了什么？那是块令人垂涎的石头，但制作它需要很多材料，你还是第一个真正收集齐所有材料的人！总之，希望这东西能被好好利用。"/>
+	</imgdir>
+    <imgdir name="1022101">
+		<string name="name" value="Rooney"/>
+		<string name="n0" value="你听说过一个靠近林中之城、被雪覆盖的小镇吗？"/>
+		<string name="n1" value="你不想去看看那个被雪覆盖的小镇吗？"/>
+		<string name="d0" value="你好。我是Rooney。"/>
+		<string name="d1" value="快乐村一定发生了什么紧急的事。"/>
+	</imgdir>
+    <imgdir name="1031000">
+		<string name="name" value="精灵Flora"/>
+		<string name="func" value="武器商"/>
+		<string name="n0" value="欢迎来到林中城！"/>
+		<string name="n1" value="我们有很多魔法师武器！来看看吧！"/>
+	</imgdir>
+    <imgdir name="1031100">
+		<string name="name" value="精灵Len"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="你需要药水吗？我有很多存货..."/>
+		<string name="n1" value="如果你想自由返回林中城，那就买一个回到这里的回城卷轴吧。"/>
+	</imgdir>
+    <imgdir name="1032001">
+		<string name="name" value="老骨灰级Grendel"/>
+		<string name="func" value="魔法师导师"/>
+		<string name="n0" value="所有想成为魔法师的人...来找我..."/>
+		<string name="d0" value="所有想成为魔法师的人...来找我..."/>
+		<string name="d1" value="所有想成为魔法师的人...来找我..."/>
+	</imgdir>
+    <imgdir name="1032002">
+		<string name="name" value="Francois"/>
+		<string name="func" value="物品制造师"/>
+		<string name="n0" value="嘿嘿嘿..."/>
+		<string name="n1" value="我亲爱的Pygmy，这是美味的款待。"/>
+		<string name="d0" value="老骨灰级Grendel可以随便骂我，但阻止不了我杰出的研究！"/>
+		<string name="d1" value="老骨灰级Grendel可以随便骂我，但阻止不了我杰出的研究！"/>
+	</imgdir>
+    <imgdir name="1032003">
+		<string name="name" value="Shane"/>
+		<string name="n0" value="你是受Sabitrama的委托来的吗？"/>
+		<string name="n1" value="我听说这里有令人难以置信的草药...但我不能让你轻易过去..."/>
+		<string name="d0" value="你想进入这里吗？我肯定你听说过这里有稀有草药，但我不能让像你这样的陌生人进入我的地盘。对不起，你得离开。"/>
+		<string name="d1" value="你想进入这里吗？我肯定你听说过这里有稀有草药，但我不能让像你这样的陌生人进入我的地盘。对不起，你得离开。"/>
+		<string name="n2" value="不是谁都能进入这里的！"/>
+	</imgdir>
+    <imgdir name="1032007">
+		<string name="name" value="Joel"/>
+		<string name="func" value="车站职员"/>
+		<string name="n0" value="你可以乘坐前往 orbis 站 的船。"/>
+		<string name="n1" value="想上船的话去找Cherry！"/>
+	</imgdir>
+    <imgdir name="1032008">
+		<string name="name" value="Cherry"/>
+		<string name="func" value="乘务员"/>
+		<string name="n0" value="如果你想登上前往 orbis 站 的船，请给我船票。"/>
+		<string name="n1" value="这艘船容量有限，所以请立刻上船...船马上就要开了。"/>
+		<string name="n2" value="船要启航了。请稍等片刻。"/>
+	</imgdir>
+    <imgdir name="1032100">
+		<string name="name" value="精灵Arwen"/>
+		<string name="n0" value="最近村里人类好多..."/>
+		<string name="n1" value="老骨灰级Grendel人不错，但他的学生..."/>
+		<string name="d0" value="和人类交朋友真是负担。他们好粗鲁！好暴力！"/>
+		<string name="d1" value="还是有些好人类的。但怎么从人群中把他们挑出来呢？"/>
+	</imgdir>
+    <imgdir name="1032101">
+		<string name="name" value="精灵Rowen"/>
+		<string name="n0" value="欢迎来到林中城，精灵的村落。"/>
+		<string name="n1" value="是我们精灵向世界敞开大门的时候了。"/>
+		<string name="n2" value="我的朋友Arwen对人类还是很不自在。"/>
+		<string name="d0" value="欢迎来到精灵村落林中城。自从老骨灰级Grendel搬来后，村里就充满了他的学生。这些日子它简直像个人类的村落了。"/>
+		<string name="d1" value="你看起来像是个好人类。我们林中城需要更多像你这样的人。"/>
+	</imgdir>
+    <imgdir name="1032102">
+		<string name="name" value="精灵Mar"/>
+		<string name="func" value="宠物大师"/>
+		<string name="d0" value="请爱护照顾你的宠物。它们是我们珍贵的朋友。"/>
+		<string name="d1" value="请爱护照顾你的宠物。它们是我们珍贵的朋友。"/>
+		<string name="n0" value="你的宠物有没有变回玩偶？"/>
+		<string name="n1" value="如果你有不动了的宠物，请带到我这里来。"/>
+	</imgdir>
+    <imgdir name="1032106">
+		<string name="name" value="精灵Wing"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="这么多作业...还有这么多要学的...天啊，我忙死了..."/>
+		<string name="d0" value="我忙着呢，滚开！"/>
+		<string name="d1" value="为什么所有这些人类都想和我交朋友？"/>
+	</imgdir>
+    <imgdir name="1052103">
+		<string name="name" value="Nella"/>
+		<string name="n0" value="天啊，我好忙！这里有人愿意帮忙吗？"/>
+		<string name="n1" value="今天有很多陌生人路过。"/>
+		<string name="d0" value="我今天收到了好多市民的请求！我需要帮助..."/>
+		<string name="d1" value="你帮我处理#b#p1051000##k的请求了吗？他现在应该在家为自己准备丰盛的晚餐。不巧的是，我今天没有收到新的请求。改天再来找我，好吗？"/>
+	</imgdir>
+    <imgdir name="1052106">
+		<string name="name" value="Icarus"/>
+		<string name="n0" value="..."/>
+		<string name="d0" value="看...天空..."/>
+		<string name="d1" value="总有一天...总有一天...我会飞起来..."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="22131001">
+        <string name="name" value="魔法护盾" />
+        <string name="desc" value="生成保护盾，在一定时间内吸收队员受到的一定伤害。" />
+        <string name="h" value="主动效果 - MP消耗：#mpCon，伤害吸收：#x%，防御力：+#pdd，持续时间：#time 秒\n冷却时间：#cooltime 秒\n被动效果 - 最大HP：+#mhpR%" />
+        <string name="pdesc" value="生成保护盾，在一定时间内吸收队员受到的一定伤害。[冷却时间：90秒]" />
+        <string name="ph" value="MP消耗：#mpCon，伤害吸收：#x%，持续时间：#time 秒\n冷却时间：#cooltime 秒" />
+    </imgdir>

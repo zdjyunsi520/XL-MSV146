@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010512">
+		<string name="name" value="冯邦的冯椅子"/>
+		<string name="desc" value="给你冯邦保护的椅子。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010513">
+		<string name="name" value="快乐皮埃尔椅子"/>
+		<string name="desc" value="快乐皮埃尔的快乐椅子。很快乐！每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010514">
+		<string name="name" value="红女王宝座"/>
+		<string name="desc" value="红女王的宝座。非常不舒服。也许这就是她脾气暴躁的原因！每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010515">
+		<string name="name" value="贝伦岩石椅子"/>
+		<string name="desc" value="感觉像被困在贝伦洞穴里！每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010519">
+		<string name="name" value="忠诚皇家雪人椅子"/>
+		<string name="desc" value难怪佩佩王总是看起来得意洋洋。这东西能撞倒房子！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010520">
+		<string name="name" value="佩佩王椅子"/>
+		<string name="desc" value="很难说佩佩王为什么允许自己成为椅子，但舒适不容置疑。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010521">
+		<string name="name" value="水晶椅子"/>
+		<string name="desc" value="像大多数昂贵的东西，这椅子全是硬角和背痛，但朋友会完全嫉妒。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010522">
+		<string name="name" value="兔子龙卷风椅子"/>
+		<string name="desc" value="名字可爱，但认真说，找个床垫躲起来等它过去。那些牙齿真的很锋利。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010523">
+		<string name="name" value="云漫步椅子"/>
+		<string name="desc" value="记住云是由冷冻水组成的，当你试图解释屁股上的大水坑时。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010524">
+		<string name="name" value="威尔士柯基椅子"/>
+		<string name="desc" value="真的，这一定是天堂。臭、咬人、流口水的天堂。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010525">
+		<string name="name" value="猫头鹰椅子"/>
+		<string name="desc" value="不建议啮齿动物或啮齿动物爱好者购买。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010526">
+		<string name="name" value="鹳飞行员椅子"/>
+		<string name="desc" value="原来椅子是这么来的。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010530">
+		<string name="name" value="埃鲁埃尔协奏曲"/>
+		<string name="desc" value="享受独一无二的梅赛德斯特别表演！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010531">
+		<string name="name" value="企鹅合唱团"/>
+		<string name="desc" value="这些可爱的企鹅为你唱圣诞颂歌！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010532">
+		<string name="name" value="天蓝木椅"/>
+		<string name="desc" value="这把天蓝木椅只在里兹港特别出售。每10秒恢复35 HP。"/>
+	</imgdir>
+    <imgdir name="3010533">
+		<string name="name" value="棕榈树沙滩椅"/>
+		<string name="desc" value="放在阿里安特棕榈树凉爽阴影下的沙滩椅。每10秒恢复40 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010534">
+		<string name="name" value="雄沙漠兔垫"/>
+		<string name="desc" value="坐在可爱的沙漠兔上每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010535">
+		<string name="name" value="海军蓝天鹅绒沙发"/>
+		<string name="desc" value="很有派头的天鹅绒沙发。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010536">
+		<string name="name" value="红色设计师椅子"/>
+		<string name="desc" value="设计精美的红色椅子。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010537">
+		<string name="name" value="灵魂泰迪椅子"/>
+		<string name="desc" value="灵魂泰迪椅子。每10秒恢复60 HP。"/>
+	</imgdir>
+</imgdir>

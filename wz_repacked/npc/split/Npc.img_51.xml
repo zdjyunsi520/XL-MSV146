@@ -1,0 +1,93 @@
+<imgdir name="Npc.img">
+    <imgdir name="9110001">
+		<string name="name" value="Raimu the Warrior"/>
+		<string name="func" value="Local Product Merchant"/>
+		<string name="n2" value="I may be a wanderer, but I am a man of integrity, so trust me."/>
+		<string name="n0" value="This is the Mushroom Shrine."/>
+		<string name="n1" value="Yeeup."/>
+	</imgdir>
+    <imgdir name="9110002">
+		<string name="name" value="Kino Konoko"/>
+		<string name="n0" value="Cleaning isn't fun..."/>
+		<string name="n1" value="The Mushroom Shrine is always in spring..."/>
+		<string name="d0" value="Mushrooom Shrine!"/>
+		<string name="d1" value="It is a beautiful day, isn't it?  I really want to go on a picnic!"/>
+		<string name="n2" value="Mushrooom Shrine!"/>
+	</imgdir>
+    <imgdir name="9110004">
+		<string name="name" value="Taru"/>
+		<string name="func" value="Dango Chef"/>
+		<string name="n0" value="Got Dango?"/>
+		<string name="n1" value="If I don't create a new menu..."/>
+		<string name="n2" value="Hold on one sec. I'm making Dango..."/>
+	</imgdir>
+    <imgdir name="9110005">
+		<string name="name" value="Bronze"/>
+		<string name="func" value="Takoyaki Chef"/>
+		<string name="n2" value="If you don't rest up well, your skin may go bad..."/>
+		<string name="n0" value="Hold on, hold on! Takoyaki isn't made in an instant!"/>
+		<string name="n1" value="Huh? I have something stuck in my teeth?"/>
+	</imgdir>
+    <imgdir name="9110009">
+		<string name="name" value="Gachapon Charity Box"/>
+	</imgdir>
+    <imgdir name="9110010">
+		<string name="name" value="Gachapon Statue"/>
+	</imgdir>
+    <imgdir name="9110011">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9110012">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9110013">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9110014">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9110015">
+		<string name="name" value="Mushroom Statue"/>
+	</imgdir>
+    <imgdir name="9110016">
+		<string name="name" value="No String."/>
+	</imgdir>
+    <imgdir name="9110100">
+		<string name="name" value="Tatsu"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="High quality weapons! Get them here!"/>
+		<string name="n1" value="How are you liking your weapons?"/>
+	</imgdir>
+    <imgdir name="9120020">
+		<string name="name" value="Minstein"/>
+		<string name="n0" value="If you want to return, then talk to me!"/>
+	</imgdir>
+    <imgdir name="9120021">
+		<string name="name" value="Clamshell"/>
+	</imgdir>
+    <imgdir name="9120022">
+		<string name="name" value="Manstein"/>
+	</imgdir>
+    <imgdir name="9120102">
+		<string name="name" value="Hikekuro"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n0" value="Don't you want to keep your face up to date with the latest trends?"/>
+		<string name="n1" value="Your face looks fine now, but with a little tinkering, it'll look perfect!"/>
+	</imgdir>
+    <imgdir name="9120103">
+		<string name="name" value="Saeko"/>
+		<string name="func" value="Assistant"/>
+		<string name="n0" value="Have a seat. You're here for plastic surgery?"/>
+		<string name="n1" value="This may not be an easy surgery, but I'll try."/>
+	</imgdir>
+    <imgdir name="9120104">
+		<string name="name" value="Naoko"/>
+		<string name="n0" value="We're still under construction."/>
+	</imgdir>
+    <imgdir name="9200102">
+		<string name="name" value="Dr. Bosch"/>
+		<string name="func" value="Lens Master"/>
+		<string name="n0" value="So you want to be in the movies? I do all the stars."/>
+		<string name="n1" value="Try these lenses and I guarantee you will be getting callbacks in no time!"/>
+	</imgdir>
+</imgdir>

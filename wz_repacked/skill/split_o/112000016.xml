@@ -1,0 +1,5 @@
+<imgdir name="112000016">
+        <string name="name" value="Bear Reborn" />
+        <string name="desc" value="Allows you to resurrect while in Bear Mode. You gain invincibility as your HP recover.\nResurrection is available when the skill icon is active in the upper right." />
+        <string name="h" value="Resurrection Cooldown: #z sec, Resurrection Invincibility: #x sec" />
+    </imgdir>

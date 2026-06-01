@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8920105">
+		<string name="name" value="Alluring Mirror"/>
+	</imgdir>
+    <imgdir name="8930100">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+    <imgdir name="9421500">
+		<string name="name" value="Takeda Soldier"/>
+	</imgdir>
+    <imgdir name="9421501">
+		<string name="name" value="Takeda Soldier"/>
+	</imgdir>
+    <imgdir name="9421502">
+		<string name="name" value="Uesugi Soldier"/>
+	</imgdir>
+    <imgdir name="9421503">
+		<string name="name" value="Uesugi Soldier"/>
+	</imgdir>
+    <imgdir name="9421504">
+		<string name="name" value="Oda Soldier"/>
+	</imgdir>
+    <imgdir name="9421505">
+		<string name="name" value="Oda Soldier"/>
+	</imgdir>
+    <imgdir name="9421506">
+		<string name="name" value="Akechi Soldier"/>
+	</imgdir>
+    <imgdir name="9421507">
+		<string name="name" value="Akechi Soldier"/>
+	</imgdir>
+    <imgdir name="9421508">
+		<string name="name" value="Floateye"/>
+	</imgdir>
+    <imgdir name="9421509">
+		<string name="name" value="Onieye"/>
+	</imgdir>
+    <imgdir name="9421510">
+		<string name="name" value="Conjureye"/>
+	</imgdir>
+    <imgdir name="9421511">
+		<string name="name" value="Oda Scout"/>
+	</imgdir>
+    <imgdir name="9421512">
+		<string name="name" value="Oda Advanced Scout"/>
+	</imgdir>
+    <imgdir name="9421513">
+		<string name="name" value="Oda Guardsman"/>
+	</imgdir>
+    <imgdir name="9421514">
+		<string name="name" value="Oda Warrior"/>
+	</imgdir>
+    <imgdir name="9421515">
+		<string name="name" value="Elite Oda Warrior"/>
+	</imgdir>
+    <imgdir name="9421516">
+		<string name="name" value="Elite Oda Scout"/>
+	</imgdir>
+    <imgdir name="9421517">
+		<string name="name" value="Elite Oda Warrior"/>
+	</imgdir>
+</imgdir>

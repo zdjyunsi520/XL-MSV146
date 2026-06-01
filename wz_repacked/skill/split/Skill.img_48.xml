@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="61120219"><string name="name" value="Dragon Slash (Transfiguration)"/><string name="desc" value="Mash the attack key to keep attacking enemies in front up to 3 times."/><string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount"/></imgdir>
+    <imgdir name="61120030"><string name="name" value="Hyper Strength"/><string name="desc" value="Permanently increases STR."/><string name="h" value="STR +#strX"/></imgdir>
+    <imgdir name="61120031"><string name="name" value="Hyper Dexterity"/><string name="desc" value="Permanently increases DEX."/><string name="h" value="DEX +#dexX"/></imgdir>
+    <imgdir name="61120032"><string name="name" value="Hyper Intelligence"/><string name="desc" value="Permanently increases INT."/><string name="h" value="INT +#intX"/></imgdir>
+    <imgdir name="61120033"><string name="name" value="Hyper Luck"/><string name="desc" value="Permanently increases LUK."/><string name="h" value="LUK +#lukX"/></imgdir>
+    <imgdir name="61120034"><string name="name" value="Hyper Critical"/><string name="desc" value="Permanently increases Critical Rate."/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="61120035"><string name="name" value="Hyper Accuracy"/><string name="desc" value="Permanently increases Accuracy."/><string name="h" value="Accuracy +#ar%"/></imgdir>
+    <imgdir name="61120036"><string name="name" value="Hyper Health"/><string name="desc" value="Permanently increases Max HP."/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="61120037"><string name="name" value="Hyper Mana"/><string name="desc" value="Permanently increases Max MP."/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="61120038"><string name="name" value="Hyper Fury"/><string name="desc" value="Permanently increases Max DF."/><string name="h" value="Max DF +50"/></imgdir>
+    <imgdir name="61120039"><string name="name" value="Hyper Weapon Defense"/><string name="desc" value="Permanently increases Weapon DEF."/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="61120040"><string name="name" value="Hyper Magic Defense"/><string name="desc" value="Permanently increases Magic DEF."/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="61120041"><string name="name" value="Hyper Speed"/><string name="desc" value="Permanently increases Movement Speed."/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="61120042"><string name="name" value="Hyper Jump"/><string name="desc" value="Permanently increases Jump."/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="61120043"><string name="name" value="Gigas Wave - Reinforce"/><string name="desc" value="Increases Gigas Wave&apos;s damage."/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="61120044"><string name="name" value="Gigas Wave - Burden"/><string name="desc" value="Increases Gigas Wave&apos;s Slow duration."/><string name="h" value="Duration +#time sec"/></imgdir>
+    <imgdir name="61120045"><string name="name" value="Gigas Wave - Bonus Attack"/><string name="desc" value="Increases Gigas Wave&apos;s attack count."/><string name="h" value="Number of Hits +#attackCount"/></imgdir>
+    <imgdir name="61120046"><string name="name" value="Inferno Breath - Reinforce"/><string name="desc" value="Increases Inferno Breath&apos;s damage."/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="61120047"><string name="name" value="Inferno Breath - Burn"/><string name="desc" value="Increases the duration of Inferno Breath&apos;s flames."/><string name="h" value="Flame duration +#time sec"/></imgdir>
+    <imgdir name="61120048"><string name="name" value="Inferno Breath - Blaze"/><string name="desc" value="Increases the damage of Inferno Breath&apos;s flames."/><string name="h" value="Flame Damage +#damR%"/></imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="10001001">
+        <string name="name" value="Recovery" />
+        <string name="desc" value="[Master Level : 3]\nEnables the user to recover HP constantly for 30 sec. \n#cTerms between skills : 10 min.#" />
+        <string name="h1" value="MP -5; Recover HP 24 in 30 sec." />
+        <string name="h2" value="MP -10; Recover HP 48 in 30 sec." />
+        <string name="h3" value="MP -15; Recover HP 72 in 30 sec." />
+    </imgdir>

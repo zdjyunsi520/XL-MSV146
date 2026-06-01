@@ -1,0 +1,5 @@
+<imgdir name="112100006">
+        <string name="name" value="猛男化身" />
+        <string name="desc" value="在#c猛男猛击#后莱展现真身，震惊并眩晕附近所有敌人。同时提升#c猛男之舞和猛男猛击#的最大敌人数。" />
+        <string name="h" value="伤害: #damage%, 最大敌人数: #mobCount, 持续时间: #time秒，攻击次数: #attackCount，眩晕几率: #prop%。 \r\n#c猛男之舞、猛男猛击#命中敌人数: +#targetPlus，伤害: +#damR%" />
+    </imgdir>

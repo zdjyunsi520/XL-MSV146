@@ -1,0 +1,5 @@
+<imgdir name="31110010">
+        <string name="name" value="Demon Lash Arch" />
+        <string name="desc" value="Uses teeth-gritting anger to grant an additional increase to damage done by Demon Lash." />
+        <string name="h" value="Demon Lash&apos;s damage increases by an additional #damR%.\n(Final Damage Increase Amount: #x%)" />
+    </imgdir>

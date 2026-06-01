@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022732">
+		<string name="name" value="自由之魂"/>
+		<string name="desc" value="移动速度增加1小时。"/>
+	</imgdir>
+    <imgdir name="2022739">
+		<string name="name" value="联盟之心"/>
+		<string name="desc" value="为了联盟！\n#c持续时间：30分钟#\n#c武器攻击+10#\n#c魔法攻击+10#"/>
+	</imgdir>
+    <imgdir name="2022740">
+		<string name="name" value="发蜡"/>
+		<string name="desc" value="所有酷小孩都用发蜡。你...想变酷，不是吗？"/>
+	</imgdir>
+    <imgdir name="2022741">
+		<string name="name" value="胡萝卜汁"/>
+		<string name="desc" value="胡萝卜汁对眼睛有好处。而且，很好喝。"/>
+	</imgdir>
+    <imgdir name="2022742">
+		<string name="name" value="蛇汤"/>
+		<string name="desc" value="这汤会让你像蛇一样强壮。一条强壮的蛇。"/>
+	</imgdir>
+    <imgdir name="2022743">
+		<string name="name" value="洗手液"/>
+		<string name="desc" value="这洗手液可以清洁你的手。你知道他们说的关于干净的手的话。"/>
+	</imgdir>
+    <imgdir name="2022744">
+		<string name="name" value="一杯咖啡"/>
+		<string name="desc" value="没有什么能比得上一杯咖啡让你回归... "/>
+	</imgdir>
+    <imgdir name="2022745">
+		<string name="name" value="古龙水"/>
+		<string name="desc" value="古龙水让你更有吸引力。越多越好。"/>
+	</imgdir>
+    <imgdir name="2022746">
+		<string name="name" value="天使祝福"/>
+		<string name="desc" value="大天使的祝福赐予你武器/魔法攻击+5。其他武器/魔法buff可以与此叠加。"/>
+	</imgdir>
+    <imgdir name="2022747">
+		<string name="name" value="黑暗天使祝福"/>
+		<string name="desc" value="黑暗天使的祝福赐予你武器/魔法攻击+10。其他武器/魔法buff可以与此叠加。"/>
+	</imgdir>
+    <imgdir name="2022748">
+		<string name="name" value="冒险岛偶像参赛者盒子"/>
+		<string name="desc" value="冒险岛偶像参赛奖品。里面有好东西！"/>
+	</imgdir>
+    <imgdir name="2022749">
+		<string name="name" value="发蜡"/>
+		<string name="desc" value="所有酷小孩都用发蜡。你...想变酷，不是吗？"/>
+	</imgdir>
+    <imgdir name="2022750">
+		<string name="name" value="胡萝卜汁"/>
+		<string name="desc" value="胡萝卜汁对眼睛有好处。而且，很好喝。"/>
+	</imgdir>
+    <imgdir name="2022751">
+		<string name="name" value="蛇汤"/>
+		<string name="desc" value="这汤会让你像蛇一样强壮。一条强壮的蛇。"/>
+	</imgdir>
+    <imgdir name="2022752">
+		<string name="name" value="洗手液"/>
+		<string name="desc" value="这洗手液可以清洁你的手。你知道他们说的关于干净的手的话。"/>
+	</imgdir>
+    <imgdir name="2022753">
+		<string name="name" value="一杯咖啡"/>
+		<string name="desc" value="没有什么能比得上一杯咖啡让你回归... "/>
+	</imgdir>
+    <imgdir name="2022754">
+		<string name="name" value="古龙水"/>
+		<string name="desc" value="古龙水让你更有吸引力。越多越好。"/>
+	</imgdir>
+    <imgdir name="2022757">
+		<string name="name" value="月亮兔子爷爷的建议"/>
+		<string name="desc" value="来自老月亮兔子的明智话语。它们让你充满自信。武器攻击+10、魔法攻击+10，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022764">
+		<string name="name" value="天使祝福"/>
+		<string name="desc" value="大天使的祝福赐予你武器/魔法攻击+5。其他武器/魔法buff可以与此叠加。"/>
+	</imgdir>
+    <imgdir name="2022765">
+		<string name="name" value="冠军"/>
+		<string name="desc" value="你获得了冠军奖励。1分钟内避免被淘汰以获得额外经验。"/>
+	</imgdir>
+</imgdir>

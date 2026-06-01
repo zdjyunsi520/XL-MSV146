@@ -1,0 +1,7 @@
+<imgdir name="1211004">
+        <string name="name" value="Flame Charge" />
+        <string name="desc" value="Temporarily charges your weapon with the Fire Attribute, increasing its attack. When Charge Blow is used, you have a chance to inflict continuous fire damage." />
+        <string name="h" value="MP Cost: #mpCon, Fire Attribute Duration: #time sec, Damage: #damage%, When Charge Blow is used, inflicts continuous #dot% fire damage for #dotTime sec with #prop% chance." />
+        <string name="pdesc" value="Temporarily charges your weapon with the Fire Attribute, increasing its attack. When Charge Blow is used, you have a chance to inflict continuous fire damage." />
+        <string name="ph" value="MP Cost: #mpCon, Fire Attribute Duration: #time sec, Damage: +#damage%" />
+    </imgdir>

@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210092">
+		<string name="name" value="The Decapatruck"/>
+		<string name="desc" value="You've boarded the Decapatruck."/>
+	</imgdir>
+    <imgdir name="2431120">
+		<string name="name" value="The Decapatruck (7-Day)"/>
+		<string name="desc" value="Double-click to use the [The Decapatruck] mount skill for 7 days."/>
+	</imgdir>
+    <imgdir name="2431121">
+		<string name="name" value="The Decapatruck (30-Day)"/>
+		<string name="desc" value="Double-click to use the [The Decapatruck] mount skill for 30 days."/>
+	</imgdir>
+    <imgdir name="2431122">
+		<string name="name" value="The Decapatruck (1-year)"/>
+		<string name="desc" value="Double-click to use the [The Decapatruck] mount skill for a year."/>
+	</imgdir>
+    <imgdir name="2431123">
+		<string name="name" value="The Decapatruck"/>
+		<string name="desc" value="Double-click to use the [The Decapatruck] mount skill permanently."/>
+	</imgdir>
+    <imgdir name="2022244">
+		<string name="name" value="Smore"/>
+		<string name="desc" value="A tasty, hot smore. Perfect for a toasty Halloween night!\r\nRestores 25% HP/MP, Accuracy/Avoidability +10, and Movement Speed/Jump +10 for 10 minutes."/>
+		<null name="[Restores 25% HP/MP and gives a boost of +10 to Avoidability, Jump and Speed for 10 minutes.]"/>
+	</imgdir>
+    <imgdir name="2028157">
+		<string name="name" value="Magic Die"/>
+		<string name="desc" value="Double-click to roll the die and magically receive a random reward!"/>
+	</imgdir>
+    <imgdir name="2023117">
+		<string name="name" value="Powerful Winter Energy"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 20 for 1 hour. Movement is possible only within the account."/>
+	</imgdir>
+    <imgdir name="2023118">
+		<string name="name" value="Cold Winter Energy"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 20 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023119">
+		<string name="name" value="Winter Rage"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 10 and Accuracy and Avoidability by 5 for 1 hour. Movement is possible only within the account."/>
+	</imgdir>
+    <imgdir name="2023120">
+		<string name="name" value="Winter Freeze"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 10 and Accuracy and Avoidability by 5 for 30 minutes. Movement is possible only within the account."/>
+	</imgdir>
+    <imgdir name="2023121">
+		<string name="name" value="Happy Winter"/>
+		<string name="desc" value="Increases EXP gained from hunting monsters for 1 hour. Movement is possible only within the account."/>
+	</imgdir>
+    <imgdir name="2023122">
+		<string name="name" value="Enjoyable Winter"/>
+		<string name="desc" value="Greatly increases EXP gained from hunting monsters  for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023123">
+		<string name="name" value="Bountiful Winter"/>
+		<string name="desc" value="Increases item drops for 1 hour. Movement is possible only within the account."/>
+	</imgdir>
+    <imgdir name="2023124">
+		<string name="name" value="Lucky Winter"/>
+		<string name="desc" value="Greatly increases item drops for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2431207">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431208">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431209">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431210">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431211">
+		<string name="name" value="Tempest Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to commemorate the coming of Tempest.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+</imgdir>

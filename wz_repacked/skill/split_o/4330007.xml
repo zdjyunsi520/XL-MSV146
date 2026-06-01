@@ -1,0 +1,7 @@
+<imgdir name="4330007">
+        <string name="name" value="Life Drain" />
+        <string name="desc" value="Chance to recover HP when attacking. You cannot recover more than 20% of your Max HP." />
+        <string name="h" value="Proc Chance: #prop%, Restores #x% of the damage as HP" />
+        <string name="pdesc" value="Chance to recover HP when attacking. You cannot recover more than 20% of your Max HP." />
+        <string name="ph" value="Proc Chance: #prop%, Restores #x% of the damage as HP" />
+    </imgdir>

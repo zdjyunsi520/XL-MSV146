@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1113078"><string name="name" value="Sweetwater Ring"/></imgdir>
+    <imgdir name="1113093"><string name="name" value="Beast Tamer Critical Ring"/></imgdir>
+    <imgdir name="1113094"><string name="name" value="Beast Tamer&apos;s Dark Critical Ring"/><string name="desc" value="It can be moved once within an account through storage, after which it cannot be traded again."/></imgdir>
+    <imgdir name="1114000"><string name="name" value="Kinship Ring"/><string name="desc" value="Equipping this ring lets you earn #c10% bonus EXP#. #cWhen you&apos;re in a party, you and all your party members will get an extra 5% bonus EXP#. If multiple people wear a Kinship Ring, the party will get the bonus multiple times. Each person can only wear one Kinship Ring at a time.\r\n#c(You can get up to a 20% Kin Ring bonus. The wearer&apos;s 10% bonus EXP is in addition to the party Kinship Ring EXP bonus.)# "/></imgdir>
+    <imgdir name="1122262"><string name="name" value="Revolution Pendant"/></imgdir>
+    <imgdir name="1113020"><string name="desc" value="The #cLightning God# will be summoned when this ring is equipped."/><string name="name" value="Lightning God Ring"/></imgdir>
+    <imgdir name="1113021"><string name="name" value="Magnificent Magnus Soul"/><string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Soul Weapon with a monster soul.\r\n#"/><string name="desc" value="Magnus&apos;s Soul Crystal. \r\nGrants the #cMore powerful Magnus skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\n#cSuccess: 100%#\nCan be used on Lv 150+ equipment"/></imgdir>
+    <imgdir name="Shield"><imgdir name="1092000"><string name="name" value="Steel Shield"/></imgdir>
+    <imgdir name="1092001"><string name="name" value="Red Triangular Shield"/></imgdir>
+    <imgdir name="1092002"><string name="name" value="Red Cross Shield"/></imgdir>
+    <imgdir name="1092003"><string name="name" value="Stolen Fence"/></imgdir>
+    <imgdir name="1092004"><string name="name" value="Skull Shield"/></imgdir>
+    <imgdir name="1092005"><string name="name" value="Wooden Buckler"/></imgdir>
+    <imgdir name="1092006"><string name="name" value="Mithril Buckler"/></imgdir>
+    <imgdir name="1092007"><string name="name" value="Battle Shield"/></imgdir>
+    <imgdir name="1092008"><string name="name" value="Pan Lid"/></imgdir>
+    <imgdir name="1092009"><string name="name" value="Wooden Legend Shield"/></imgdir>
+    <imgdir name="1092010"><string name="name" value="Silver Legend Shield"/></imgdir>
+    <imgdir name="1092011"><string name="name" value="Adamantium Legend Shield"/></imgdir>
+    <imgdir name="1092012"><string name="name" value="Steel Tower Shield"/></imgdir>
+</imgdir>

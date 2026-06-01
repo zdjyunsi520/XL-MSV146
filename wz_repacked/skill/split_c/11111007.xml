@@ -1,0 +1,7 @@
+<imgdir name="11111007">
+        <string name="name" value="光辉充能" />
+        <string name="desc" value="暂时提升伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec" />
+        <string name="pdesc" value="暂时提升伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec" />
+    </imgdir>

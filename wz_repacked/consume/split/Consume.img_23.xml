@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004180">
+		<string name="name" value="Luck Pill I"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +3 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004181">
+		<string name="name" value="Luck Pill II"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +6 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004182">
+		<string name="name" value="Luck Pill III"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +9 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004183">
+		<string name="name" value="Luck Pill IV"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +12 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004184">
+		<string name="name" value="Luck Pill V"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +15 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004185">
+		<string name="name" value="Luck Pill VI"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +18 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004186">
+		<string name="name" value="Luck Pill VII"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +21 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004187">
+		<string name="name" value="Luck Pill VIII"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +24 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004188">
+		<string name="name" value="Luck Pill IX"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +27 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004189">
+		<string name="name" value="Luck Pill X"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +30 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004190">
+		<string name="name" value="Advanced Luck Pill I"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +3 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004191">
+		<string name="name" value="Advanced Luck Pill II"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +6 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004192">
+		<string name="name" value="Advanced Luck Pill III"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +9 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004193">
+		<string name="name" value="Advanced Luck Pill IV"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +12 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004194">
+		<string name="name" value="Advanced Luck Pill V"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +15 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004195">
+		<string name="name" value="Advanced Luck Pill VI"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +18 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004196">
+		<string name="name" value="Advanced Luck Pill VII"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +21 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004197">
+		<string name="name" value="Advanced Luck Pill VIII"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +24 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004198">
+		<string name="name" value="Advanced Luck Pill IX"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +27 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004199">
+		<string name="name" value="Advanced Luck Pill X"/>
+		<string name="desc" value="A pill made through Alchemy.\nLUK +30 for 30 min."/>
+	</imgdir>
+</imgdir>

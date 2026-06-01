@@ -1,0 +1,7 @@
+<imgdir name="5221018">
+        <string name="name" value="骷髅旗" />
+        <string name="desc" value="海盗之魂觉醒！提升攻击力、异常状态抗性和属性抗性，但降低回避率。还有几率触发站立效果。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Attack: +#damR%, Abnormal Status/Elemental Resistance: +#x%, Stance Chance: #z%, Avoidability -#eva" />
+        <string name="pdesc" value="海盗之魂觉醒！提升攻击力、异常状态抗性和属性抗性，但降低回避率。还有几率触发站立效果。" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Attack: +#damR%, Abnormal Status/Elemental Resistance: +#x%, Stance Chance: #z%, Avoidability -#eva" />
+    </imgdir>

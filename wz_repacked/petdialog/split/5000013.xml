@@ -1,0 +1,278 @@
+<imgdir name="5000013">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Pran Pran~"/>
+		<string name="c1_s2" value="Praaaaahhhhh~"/>
+		<string name="c1_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c1_f2" value="...?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="I'll try...  Pran Pran~"/>
+		<string name="c2_s2" value="Anything for you, master... Pran Pran~"/>
+		<string name="c2_s3" value="Is this correct, master? Praaaaaahhh~"/>
+		<string name="c2_s4" value="Look at me! Praaahhhhh~"/>
+		<string name="c2_f1" value="I don't understand...  Pruuuut~"/>
+		<string name="c2_f2" value="I don't like to sit... Pruuuut~"/>
+		<string name="c2_f3" value="It is very dirty... Pruuut~"/>
+		<string name="c2_f4" value="A little bit boring... Pruuut~"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="It is getting too easy, master... Pran Pran~"/>
+		<string name="c3_s2" value="Shall I dance as well? Praaaaahhh~"/>
+		<string name="c3_s3" value="I love to sit! Pran Pran~"/>
+		<string name="c3_s4" value="Great idea! Praaaaahhh~"/>
+		<string name="c3_f1" value="Can I do something else instead? Pruuuut~"/>
+		<string name="c3_f2" value="I rather sleep... Pruuut~"/>
+		<string name="c3_f3" value="I need food... Pruuut~"/>
+		<string name="c3_f4" value="Not interesting... Pruuut~"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="As easy as A-B-C, master! Pran Pran~"/>
+		<string name="c4_s2" value="Hee Hee! Pran Pran!"/>
+		<string name="c4_s3" value="I can do this all day... Praaaahhhh~"/>
+		<string name="c4_s4" value="Not a problem! Praaaaahhh~"/>
+		<string name="c4_f1" value="Can I have a chair instead? Pruuut~"/>
+		<string name="c4_f2" value="Why do you keep repeating yourself? Pruuut~"/>
+		<string name="c4_f3" value="No way! Pruuut~"/>
+		<string name="c4_f4" value="I will not doing anything silly... Pruuut~"/>
+		<string name="c5" value="rest"/>
+		<string name="c5_s1" value="Pran Pran~"/>
+		<string name="c5_s2" value="Praaaaahhhhh~"/>
+		<string name="c5_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c5_f2" value="...?"/>
+		<string name="c6" value="rest"/>
+		<string name="c6_s1" value="I'll try...Pran Pran~"/>
+		<string name="c6_s2" value="Anything for you, master... Pran Pran~"/>
+		<string name="c6_s3" value="Is this correct, master? Praaaaaahhh~"/>
+		<string name="c6_s4" value="Look at me! Praaahhhhh~"/>
+		<string name="c6_f1" value="I don't understand...Pruuuut~"/>
+		<string name="c6_f2" value="I don't like to rest...Pruuuut~"/>
+		<string name="c6_f3" value="It is very dirty... Pruuut~"/>
+		<string name="c6_f4" value="A little bit boring...Pruuut~"/>
+		<string name="c7" value="rest"/>
+		<string name="c7_s1" value="Okie dokie, master... Prah Prah~"/>
+		<string name="c7_s2" value="As you wish, master... Prah Prah~"/>
+		<string name="c7_s3" value="Let me recover... Praaahhh~"/>
+		<string name="c7_s4" value="Rest is good... Praaahhh~"/>
+		<string name="c7_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c7_f2" value="...?"/>
+		<string name="c7_f3" value="Why should I listen to you? Pruuut~"/>
+		<string name="c7_f4" value="No way! Pruuut~"/>
+		<string name="c8" value="rest"/>
+		<string name="c8_s1" value="Doing that right now, master...Pran Pran~"/>
+		<string name="c8_s2" value="Master cares for me... Pran Pran~"/>
+		<string name="c8_s3" value="Can you feed me too?...Praaaahhh~"/>
+		<string name="c8_s4" value="Master knows best... Praaahhh~"/>
+		<string name="c8_f1" value="Do it yourself... Pruuut~"/>
+		<string name="c8_f2" value="Can we do something else instead? Pruuut~"/>
+		<string name="c8_f3" value="Hmph! Pruuut~"/>
+		<string name="c8_f4" value="No, no, no! No way! Pruuut~"/>
+		<string name="c9" value="bad|no|badboy|badgirl"/>
+		<string name="c9_s1" value="Pran Pran~"/>
+		<string name="c9_s2" value="Praaaaahhhhh~"/>
+		<string name="c9_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c9_f2" value="...?"/>
+		<string name="c10" value="bad|no|badboy|badgirl"/>
+		<string name="c10_s1" value="Sorry, master... Pran Pran~"/>
+		<string name="c10_s2" value="You're scary, master... Pran Pran~"/>
+		<string name="c10_s3" value="I'll behave... Praaaaahhh~"/>
+		<string name="c10_s4" value="Don't hurt me.. Praaaahhh~"/>
+		<string name="c10_f1" value="I don't care! Pruuut~"/>
+		<string name="c10_f2" value="What did I do?! Pruuut~"/>
+		<string name="c10_f3" value="Bah! Pruuut~"/>
+		<string name="c10_f4" value="Hmph! Pruuut~"/>
+		<string name="c11" value="bad|no|badboy|badgirl"/>
+		<string name="c11_s1" value="I'm really sorry, master... Pran Pran~"/>
+		<string name="c11_s2" value="You're really very scary, master... Pran Pran~"/>
+		<string name="c11_s3" value="Don't leave me! I'll be more behaved! Praaaaah~"/>
+		<string name="c11_s4" value="I know I'm in the wrong, master... Praaaah~"/>
+		<string name="c11_f1" value="You are bad too! Pruuut~"/>
+		<string name="c11_f2" value="I never do anything wrong! Pruuut~"/>
+		<string name="c11_f3" value="I'm ignoring you...Pruuut~"/>
+		<string name="c11_f4" value="Don't care! Pruuut~"/>
+		<string name="c12" value="bad|no|badboy|badgirl"/>
+		<string name="c12_s1" value="I'll observe my manners, master... Praaahhh~"/>
+		<string name="c12_s2" value="I'll not do wrong again... Praaahhh~"/>
+		<string name="c12_s3" value="Sorry, sorry, sorry... Pran Pran~"/>
+		<string name="c12_s4" value="Please don't hit me... Pran Pran~"/>
+		<string name="c12_f1" value="I'm always in the right... Pruuut~"/>
+		<string name="c12_f2" value="Why are you mad at me? Pruuut~"/>
+		<string name="c12_f3" value="Go bother somebody else... Pruuut~"/>
+		<string name="c12_f4" value="Stop annoying me! Pruuut~"/>
+		<string name="c13" value="pee"/>
+		<string name="c13_s1" value="Pran Pran~"/>
+		<string name="c13_s2" value="Praaaaahhhhh~"/>
+		<string name="c13_f1" value="...?"/>
+		<string name="c13_f2" value="Huh? Pruuuuuut~"/>
+		<string name="c14" value="pee"/>
+		<string name="c14_s1" value="Hahhhh...Pran Pran~"/>
+		<string name="c14_s2" value="Don't peep at me... Pran Pran~"/>
+		<string name="c14_s3" value="*embarassed* Praaaahhh~"/>
+		<string name="c14_s4" value="Relief... Praaahhh~"/>
+		<string name="c14_f1" value="No! Pruuut~"/>
+		<string name="c14_f2" value="Too many people...Pruuut~"/>
+		<string name="c14_f3" value="Huh? Pruuuuuut~"/>
+		<string name="c14_f4" value="...?"/>
+		<string name="c15" value="pee"/>
+		<string name="c15_s1" value="That felt great... Pran Pran~"/>
+		<string name="c15_s2" value="Hmmm, that stinks... Pran Pran~"/>
+		<string name="c15_s3" value="Drank too much water... Praaahhh~"/>
+		<string name="c15_s4" value="Hehe... Praaahhh~"/>
+		<string name="c15_f1" value="I need a toilet instead... Pruuut~"/>
+		<string name="c15_f2" value="I don't feel like it... Pruuut~"/>
+		<string name="c15_f3" value="Why don't you do it yourself? Pruuut~"/>
+		<string name="c15_f4" value="No way! Pruuut~"/>
+		<string name="c16" value="pee"/>
+		<string name="c16_s1" value="Please don't peep, I'm really shy... Pran Pran~"/>
+		<string name="c16_s2" value="I feel much better now... Pran Pran~"/>
+		<string name="c16_s3" value="Ssssshhhhhh... Praaahhhh~"/>
+		<string name="c16_s4" value="Be careful not to step on it, master! Praaahhh~"/>
+		<string name="c16_f1" value="I rather eat first... Pruuut~"/>
+		<string name="c16_f2" value="Not good to do it in the public... Pruuut~"/>
+		<string name="c16_f3" value="Stop forcing me! Pruuut~"/>
+		<string name="c16_f4" value="I'm not listening to you... Pruuut~"/>
+		<string name="c17" value="iloveyou"/>
+		<string name="c17_s1" value="Pran Pran~"/>
+		<string name="c17_s2" value="Praaaaahhhhh~"/>
+		<string name="c17_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c17_f2" value="...?"/>
+		<string name="c18" value="iloveyou"/>
+		<string name="c18_s1" value="Me too, master! Pran Pran~"/>
+		<string name="c18_s2" value="Yippie! Pran Pran~"/>
+		<string name="c18_s3" value="Hurray! Praaahhh~"/>
+		<string name="c18_s4" value="Really? Yeah! Praaahhh~"/>
+		<string name="c18_f1" value="Don't bluff! Pruuut~"/>
+		<string name="c18_f2" value="Don't lie to me, master... Pruuut~"/>
+		<string name="c18_f3" value="Are you sure, master? Pruuut~"/>
+		<string name="c18_f4" value="Did you type correctly, master? Pruuut~"/>
+		<string name="c19" value="iloveyou"/>
+		<string name="c19_s1" value="Goodness gracious! Pran Pran~"/>
+		<string name="c19_s2" value="I'm so happy, master! Pran Pran~"/>
+		<string name="c19_s3" value="I like you too, master! Praaaahhhh~"/>
+		<string name="c19_s4" value="I'm going to tell everyone about this! Praaahhh~"/>
+		<string name="c19_f1" value="Please don't lie and hurt my feelings, master...Pruuut~"/>
+		<string name="c19_f2" value="Go away... Pruuut~"/>
+		<string name="c19_f3" value="Yeah, whatever... Pruuut~"/>
+		<string name="c19_f4" value="Ah huh...  and anything else..? Pruuut~"/>
+		<string name="c20" value="iloveyou"/>
+		<string name="c20_s1" value="Wow, I'm speechless... Pran Pran~"/>
+		<string name="c20_s2" value="So nice to hear that from you, master! Praaaaahhhh~"/>
+		<string name="c20_s3" value="That's so sweet... Pran Pran~"/>
+		<string name="c20_s4" value="I want  you to say that to me again, master! Praaahhh~"/>
+		<string name="c20_f1" value="Hmph! Pruuut~"/>
+		<string name="c20_f2" value="Show your sincerity to me instead... Pruuut~"/>
+		<string name="c20_f3" value="Feed me if you love me... Pruuut~"/>
+		<string name="c20_f4" value="You think I'll fall for it again? Pruuut~"/>
+		<string name="c21" value="up|stand|rise"/>
+		<string name="c21_s1" value="Pran Pran~"/>
+		<string name="c21_s2" value="Praaaaahhhhh~"/>
+		<string name="c21_f1" value="Huh? Pruuuuuut~"/>
+		<string name="c21_f2" value="...?"/>
+		<string name="c22" value="up|stand|rise"/>
+		<string name="c22_s1" value="Like this, master? Pran Pran~"/>
+		<string name="c22_s2" value="Yipee~! Pran Pran~"/>
+		<string name="c22_s3" value="Hurray! Praaahhh~"/>
+		<string name="c22_s4" value="Anything for you, master... Pran Pran~"/>
+		<string name="c22_f1" value="I don't like it... Pruuut~"/>
+		<string name="c22_f2" value="Huh? Pruuuuuut~"/>
+		<string name="c22_f3" value="Feed me! Pruuut~"/>
+		<string name="c22_f4" value="It's dirty... Pruuut~"/>
+		<string name="c23" value="up|stand|rise"/>
+		<string name="c23_s1" value="Too easy! Pran Pran~"/>
+		<string name="c23_s2" value="Should I stand on one leg instead? Pran Pran~"/>
+		<string name="c23_s3" value="Anything for you, master... Pran Pran~"/>
+		<string name="c23_s4" value="Standing tall... Praaahhh~"/>
+		<string name="c23_f1" value="This is boring... Pruuut~"/>
+		<string name="c23_f2" value="Don't you have something better to do? Pruuut~"/>
+		<string name="c23_f3" value="I'm tired... Pruuut~"/>
+		<string name="c23_f4" value="Do it yourself... Pruuut~"/>
+		<string name="c24" value="up|stand|rise"/>
+		<string name="c24_s1" value="In the blink of an eye, I shall stand... Pran Pran~"/>
+		<string name="c24_s2" value="No elephant is as clever as I'm! Pran Pran~"/>
+		<string name="c24_s3" value="Let me do some acrobats as well... Praaahhh~"/>
+		<string name="c24_s4" value="I can walk like you now, master... Praaaahhh~"/>
+		<string name="c24_f1" value="Stop annoying me! Pruuut~"/>
+		<string name="c24_f2" value="Be creative! Pruuut~"/>
+		<string name="c24_f3" value="I refuse to do so... Pruuut~"/>
+		<string name="c24_f4" value="I rather eat first... Pruuut~"/>
+		<string name="c25" value="talk|say|chat"/>
+		<string name="c25_s1" value="Why do you look so sad? Let me cheer you up, master! Pran Pran~"/>
+		<string name="c25_s2" value="Be sure to know who you are buying items from, master... Pran Pran~"/>
+		<string name="c25_s3" value="Remember to feed me with lots of love and care... Praaaahhh~"/>
+		<string name="c25_s4" value="I'm always here for  you, master... Praaaahhh~"/>
+		<string name="c25_f1" value="Elephants don't talk...  Pruuut~"/>
+		<string name="c25_f2" value="Talk to yourself instead... Pruuut~"/>
+		<string name="c25_f3" value="I don't know what to say... Pruuut~"/>
+		<string name="c25_f4" value="I'm tired, let me rest... Pruuut~"/>
+		<string name="c26" value="talk|say|chat"/>
+		<string name="c26_s1" value="Let's go and explore other places and have fun! Pran Pran~"/>
+		<string name="c26_s2" value="Shall we invite people to our party, master? Praaaahhh~"/>
+		<string name="c26_s3" value="Be nice to me, and other people around you too... Pran Pran~"/>
+		<string name="c26_s4" value="Have you heard of the aliens? Praaaahhhh~"/>
+		<string name="c26_f1" value="This is boring... Pruuut~"/>
+		<string name="c26_f2" value="Leave me alone... Pruuut~"/>
+		<string name="c26_f3" value="Don't you have friends? Pruuut~"/>
+		<string name="c26_f4" value="Feed me first! Pruuut~"/>
+		<string name="c27" value="talk|say|chat"/>
+		<string name="c27_s1" value="I live to serve you only, master... Pran Pran~"/>
+		<string name="c27_s2" value="You are the best in the world, master! Pran Pran~"/>
+		<string name="c27_s3" value="Remember to heal yourself when fighting... Praaahhh~"/>
+		<string name="c27_s4" value="Go do some quests and something good may happen~"/>
+		<string name="c27_f1" value="There's not much to say but...feed me! Pruuut~"/>
+		<string name="c27_f2" value="This is too simple for me, go do it yourself... hmph! Pruuut~"/>
+		<string name="c27_f3" value="I rather sleep... Pruuut~"/>
+		<string name="c27_f4" value="Can you be more creative? Pruuut~"/>
+		<string name="c28" value="play"/>
+		<string name="c28_s1" value="I like to play! Pran Pran~"/>
+		<string name="c28_s2" value="Play with me, master! Pran Pran"/>
+		<string name="c28_s3" value="This is fun! Praaahhh~"/>
+		<string name="c28_s4" value="I can do this all day... Praaaahhhh~"/>
+		<string name="c28_f1" value="This is boring... Pruuut~"/>
+		<string name="c28_f2" value="I refuse to do so... Pruuut~"/>
+		<string name="c28_f3" value="I rather sleep... Pruuut~"/>
+		<string name="c28_f4" value="I'm tired... Pruuut~"/>
+		<string name="c29" value="play"/>
+		<string name="c29_s1" value="Master really pampers me a lot! Pran Pran~"/>
+		<string name="c29_s2" value="Thank you, master! Pran Pran~"/>
+		<string name="c29_s3" value="Let's play with others too! Pran Pran~"/>
+		<string name="c29_s4" value="Hip Hip Hurray! Praaahhh Praaahhh~"/>
+		<string name="c29_f1" value="I'm running out of ideas to play with... Pruuut~"/>
+		<string name="c29_f2" value="Need more toys... Pruuut~"/>
+		<string name="c29_f3" value="I'm lazy... Pruuut~"/>
+		<string name="c29_f4" value="Stop annoying me! Pruuut~"/>
+		<string name="c30" value="play"/>
+		<string name="c30_s1" value="The fun never ends when I'm playing... Pran Pran~"/>
+		<string name="c30_s2" value="Join in the fun with me, master! Pran Pran~"/>
+		<string name="c30_s3" value="Playing is what I do best, master! Praaahhh~"/>
+		<string name="c30_s4" value="Time really flies when you are enjoying... Praaahhh~"/>
+		<string name="c30_f1" value="Any more ideas? Pruuut~"/>
+		<string name="c30_f2" value="Let's try something else, master... Pruuut~"/>
+		<string name="c30_f3" value="Feed me first! Pruuut~"/>
+		<string name="c30_f4" value="Let's do something else instead... Pruuut~"/>
+		<string name="c31" value="sleep|sleepy|gotobed"/>
+		<string name="c31_s1" value="Sleep... prah~"/>
+		<string name="c31_s2" value="Tired... prah~"/>
+		<string name="c31_s3" value="...Zzz"/>
+		<string name="c31_s4" value="You sleep too, master...prah~"/>
+		<string name="c31_f1" value="Don't disturb me! Pruuut~"/>
+		<string name="c31_f2" value="Sleep is bad! Pruuut~"/>
+		<string name="c31_f3" value="No, I don't want to sleep... Pruuut~"/>
+		<string name="c31_f4" value="Don't disturb me! Pruuut~"/>
+		<string name="c32" value="sleep|sleepy|gotobed"/>
+		<string name="c32_s1" value="Tuck me in, master... prah~"/>
+		<string name="c32_s2" value="Sweet dreams, master... prah~"/>
+		<string name="c32_s3" value="So tired....prah~"/>
+		<string name="c32_s4" value="I like to sleep... pran pran~"/>
+		<string name="c32_f1" value="I know you're gonna leave me while I fall asleep... Pruuut~"/>
+		<string name="c32_f2" value="I still want to have fun fun! Pruuut~"/>
+		<string name="c32_f3" value="I rather stay awake than to sleep... Pruuut~"/>
+		<string name="c32_f4" value="Feed me first! Pruuut~"/>
+		<string name="f1_s" value="Praaahhh~"/>
+		<string name="f1_f" value="Yucks~"/>
+		<string name="f2_s" value="That was yummy! Pran Pran~"/>
+		<string name="f2_f" value="Disgusting~"/>
+		<string name="f3_s" value="Yummy dooey! Praaahhh~"/>
+		<string name="f3_f" value="This is inedible... Yucks~"/>
+		<string name="f4_s" value="Bon Appetit~ Praaahhh~"/>
+		<string name="f4_f" value="Absolutely horrible..~"/>
+		<string name="s1" value="Prahhh~"/>
+		<string name="s2" value="Prah~~ what do you want me to say?"/>
+		<string name="s3" value="Told you not to say those words~"/>
+		<string name="s4" value="Master, please don't."/>
+	</imgdir>

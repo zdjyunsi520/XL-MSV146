@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3064231">
+		<string name="name" value="[S] 星云石 (魔法攻击 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 魔法攻击 : +6%#"/>
+	</imgdir>
+    <imgdir name="3064240">
+		<string name="name" value="[S] 星云石 (武器防御 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +5%#"/>
+	</imgdir>
+    <imgdir name="3064241">
+		<string name="name" value="[S] 星云石 (武器防御 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 武器防御 : +6%#"/>
+	</imgdir>
+    <imgdir name="3064250">
+		<string name="name" value="[S] 星云石 (魔法防御 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 魔法防御 : +5%#"/>
+	</imgdir>
+    <imgdir name="3064251">
+		<string name="name" value="[S] 星云石 (魔法防御 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备，但不包括武器。\n* 魔法防御 : +6%#"/>
+	</imgdir>
+    <imgdir name="3064260">
+		<string name="name" value="[S] 星云石 (暴击率 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 暴击率 : +9%#"/>
+	</imgdir>
+    <imgdir name="3064261">
+		<string name="name" value="[S] 星云石 (暴击率 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 暴击率 : +10%#"/>
+	</imgdir>
+    <imgdir name="3064270">
+		<string name="name" value="[S] 星云石 (最小暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最小暴击伤害 : +2%#"/>
+	</imgdir>
+    <imgdir name="3064271">
+		<string name="name" value="[S] 星云石 (最小暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最小暴击伤害 : +4%#"/>
+	</imgdir>
+    <imgdir name="3064272">
+		<string name="name" value="[S] 星云石 (最小暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最小暴击伤害 : +6%#"/>
+	</imgdir>
+    <imgdir name="3064280">
+		<string name="name" value="[S] 星云石 (最大暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最大暴击伤害 : +2%#"/>
+	</imgdir>
+    <imgdir name="3064281">
+		<string name="name" value="[S] 星云石 (最大暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最大暴击伤害 : +4%#"/>
+	</imgdir>
+    <imgdir name="3064282">
+		<string name="name" value="[S] 星云石 (最大暴击伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的手套。\n* 最大暴击伤害 : +6%#"/>
+	</imgdir>
+    <imgdir name="3064290">
+		<string name="name" value="[S] 星云石 (所有伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 总伤害 : +7%#"/>
+	</imgdir>
+    <imgdir name="3064291">
+		<string name="name" value="[S] 星云石 (所有伤害 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 仅适合有空插槽的武器。\n* 总伤害 : +8%#"/>
+	</imgdir>
+    <imgdir name="3064300">
+		<string name="name" value="[S] 星云石 (全属性)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +5#"/>
+	</imgdir>
+    <imgdir name="3064301">
+		<string name="name" value="[S] 星云石 (全属性)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +6#"/>
+	</imgdir>
+    <imgdir name="3064302">
+		<string name="name" value="[S] 星云石 (全属性)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +7#"/>
+	</imgdir>
+    <imgdir name="3064310">
+		<string name="name" value="[S] 星云石 (全属性 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +5%#"/>
+	</imgdir>
+    <imgdir name="3064311">
+		<string name="name" value="[S] 星云石 (全属性 %)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 全属性 : +6%#"/>
+	</imgdir>
+</imgdir>

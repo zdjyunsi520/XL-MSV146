@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300051">
+		<string name="name" value="女神之塔中的小塞里昂"/>
+	</imgdir>
+    <imgdir name="9300052">
+		<string name="name" value="女神之塔中的小莱昂"/>
+	</imgdir>
+    <imgdir name="9300053">
+		<string name="name" value="女神之塔中的小格鲁宾"/>
+	</imgdir>
+    <imgdir name="9300054">
+		<string name="name" value="女神之塔中的月光小精灵(召唤Boss)"/>
+	</imgdir>
+    <imgdir name="9300055">
+		<string name="name" value="女神之塔中的星星小精灵(召唤Boss)"/>
+	</imgdir>
+    <imgdir name="9300056">
+		<string name="name" value="女神之塔中的光辉小精灵(召唤Boss)"/>
+	</imgdir>
+    <imgdir name="9300057">
+		<string name="name" value="女神之塔中的塞里昂"/>
+	</imgdir>
+    <imgdir name="9300058">
+		<string name="name" value="猪"/>
+	</imgdir>
+    <imgdir name="9300059">
+		<string name="name" value="丝带猪"/>
+	</imgdir>
+    <imgdir name="9300060">
+		<string name="name" value="铁猪"/>
+	</imgdir>
+    <imgdir name="9300061">
+		<string name="name" value="月兔"/>
+	</imgdir>
+    <imgdir name="9300062">
+		<string name="name" value="飞眼"/>
+	</imgdir>
+    <imgdir name="9300063">
+		<string name="name" value="吸血蝙蝠"/>
+	</imgdir>
+    <imgdir name="9300064">
+		<string name="name" value="火焰哥布林"/>
+	</imgdir>
+    <imgdir name="9300065">
+		<string name="name" value="洞穴中的绿色科尼安1"/>
+	</imgdir>
+    <imgdir name="9300066">
+		<string name="name" value="洞穴中的绿色科尼安2"/>
+	</imgdir>
+    <imgdir name="9300067">
+		<string name="name" value="洞穴中的暗黑科尼安1"/>
+	</imgdir>
+    <imgdir name="9300068">
+		<string name="name" value="洞穴中的暗黑科尼安2"/>
+	</imgdir>
+    <imgdir name="9300069">
+		<string name="name" value="洞穴中的红飞龙1"/>
+	</imgdir>
+    <imgdir name="9300070">
+		<string name="name" value="洞穴中的红飞龙2"/>
+	</imgdir>
+</imgdir>

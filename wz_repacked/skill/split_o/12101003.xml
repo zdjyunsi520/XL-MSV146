@@ -1,0 +1,5 @@
+<imgdir name="12101003">
+        <string name="name" value="Teleport" />
+        <string name="desc" value="Allows you to teleport a set distance to other locations on the same map using the arrow keys." />
+        <string name="h" value="MP Cost: #mpCon, Range: #range" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="3111008">
+        <string name="name" value="Drain Arrow" />
+        <string name="desc" value="Absorb some of the damage dished out to the enemy as HP. You cannot absorb more than half of your Max HP or more than the enemy&apos;s Max HP." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Absorbs #x% of the damage" />
+        <string name="pdesc" value="Absorb some of the damage dished out to the enemy as HP. You cannot absorb more than half of your Max HP or more than the enemy&apos;s Max HP." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Absorbs #x% of the damage as HP\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Damaged Absorbed as HP: #x%\nCooldown: #hcCooltime sec" />
+    </imgdir>

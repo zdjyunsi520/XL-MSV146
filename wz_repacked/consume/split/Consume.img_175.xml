@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210005">
+		<string name="name" value="Tigun Transformation Bundle."/>
+		<string name="desc" value="A potion that can transform you into Tigun the guard."/>
+	</imgdir>
+    <imgdir name="2210006">
+		<string name="name" value="Rainbow-colored Snail Shell"/>
+		<string name="desc" value="A special shell only found through Mano. Apparently it's powerful enough to grant a wish..."/>
+	</imgdir>
+    <imgdir name="2210007">
+		<string name="name" value="Change to Ghost"/>
+		<string name="desc" value="First the body feels light, then all of a sudden, you're floating. Oh no, you're a ghost!"/>
+	</imgdir>
+    <imgdir name="2210008">
+		<string name="name" value="Ghost Candy"/>
+		<string name="desc" value="A ghost-shaped candy with a mysterious set of ingredients. Apparently it has some special powers."/>
+	</imgdir>
+    <imgdir name="2210009">
+		<string name="name" value="Sophillia's Abandoned Doll"/>
+		<string name="desc" value="An abandoned doll that Sophillia threw away a long time ago, but revived by the Masked Man. Pet its hair, and you'll turn into Sophillia for 3 minutes."/>
+	</imgdir>
+    <imgdir name="2210010">
+		<string name="name" value="Potion of Transformation"/>
+		<string name="desc" value="The moment this potion is taken, you'll become a powerful, otherworldly being."/>
+	</imgdir>
+    <imgdir name="2210011">
+		<string name="name" value="Potion of Transformation"/>
+		<string name="desc" value="The moment this potion is taken, you'll become a powerful, otherworldly being."/>
+	</imgdir>
+    <imgdir name="2210012">
+		<string name="name" value="Change to Mouse"/>
+		<string name="desc" value="Transforms you into a small, cute mouse."/>
+	</imgdir>
+    <imgdir name="2210016">
+		<string name="name" value="Mini Draco Transformation"/>
+		<string name="desc" value="The mysterious skills of an old halfling has transformed you into a form of a dragon. You can now fly."/>
+	</imgdir>
+    <imgdir name="2210017">
+		<string name="name" value="Moon Photo"/>
+		<string name="desc" value="The more you look at it, the more you feel lightheaded… and you feel closer to the moon."/>
+	</imgdir>
+    <imgdir name="2210018">
+		<string name="name" value="Sweet Rice Cake"/>
+		<string name="desc" value="A sweet, delicious rice cake. Sometimes creates an interesting set of powers."/>
+	</imgdir>
+    <imgdir name="2210021">
+		<string name="name" value="Gaga Transformation Potion"/>
+		<string name="desc" value="The moment you drink this potion, you'll become the biggest star in the world of Maple, Gaga."/>
+	</imgdir>
+    <imgdir name="2210022">
+		<string name="name" value="Peto Transformation Potion"/>
+		<string name="desc" value="A transformation potion from the masked gentleman that allows you to transform into Peto for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2210023">
+		<string name="name" value="Cliff's Special Potion"/>
+		<string name="desc" value="No one knows what you'll transform into when you drink this, but something WILL happen for one hour.  It's all about the risk..."/>
+	</imgdir>
+    <imgdir name="2210024">
+		<string name="name" value="Maplemas Party Potion"/>
+		<string name="desc" value="Double-click on this to transform a character of your choice. Which one? Try it and find out!"/>
+	</imgdir>
+    <imgdir name="2210030">
+		<string name="name" value="Geppetto Transformation"/>
+		<string name="desc" value="You've entered a fable and transformed into Geppetto. You're feel a bit sluggish, but do your best to leave the dungeon with your party members."/>
+	</imgdir>
+    <imgdir name="2210032">
+		<string name="name" value="Cody's Picture"/>
+		<string name="desc" value="A picture given by Cody of himself.  I get a feeling something fun will happen when I use it."/>
+	</imgdir>
+    <imgdir name="2210033">
+		<string name="name" value="Cake Picture"/>
+		<string name="desc" value="A picture of a delicious cake that Cody gave as a gift.  I get a feeling something funny with happen when I use it."/>
+	</imgdir>
+    <imgdir name="2210034">
+		<string name="name" value="Alien Gray Transformation"/>
+		<string name="desc" value="The mysterious force emanating from the crystal statue shall be absorbed into your body, and you will no longer find yourself as you are."/>
+	</imgdir>
+    <imgdir name="2210035">
+		<string name="name" value="Penguin Transformation 1"/>
+		<string name="desc" value="Will transform you into a penguin."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="42111003">
+        <string name="name" value="Kishin Shoukan" />
+        <string name="desc" value="Summons the demons Hana and Yuki, who attack any enemies trapped between them. The demons strengthen the dark energy on the map and decreases monster respawn time." />
+        <string name="h" value="Mana Cost: #epCon, Summon Duration: #time sec\nDamage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

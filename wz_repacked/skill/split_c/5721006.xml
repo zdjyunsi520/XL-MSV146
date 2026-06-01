@@ -1,0 +1,7 @@
+<imgdir name="5721006">
+        <string name="name" value="脑震荡" />
+        <string name="desc" value="射击怪物的头部一击必杀！对无法一击必杀的怪物造成强力伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
+        <string name="pdesc" value="射击怪物的头部一击必杀！对无法一击必杀的怪物造成强力伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
+    </imgdir>

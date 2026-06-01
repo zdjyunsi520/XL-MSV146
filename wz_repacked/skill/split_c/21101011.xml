@@ -1,0 +1,8 @@
+<imgdir name="21101011">
+        <string name="name" value="终极冲锋" />
+        <string name="desc" value="向前冲锋，将路上的敌人推开。有概率造成眩晕。通过龙之链接使用时不消耗连击数，但伤害会降低。\r\n[指令：#c左右方向键+攻击键#]" />
+        <string name="h" value="MP消耗：#mpCon，连击数消耗：#comboConAran，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，持续时间：#time秒" />
+        <string name="pdesc" value="向前冲锋，将路上的敌人推开。只能在使用三重摆击后发动。\n[指令：三重摆击+#c右方向键+攻击键#]\n前置技能：#c三重摆击Lv. 20#" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大推敌数：#mobCount" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#hcProp%，持续时间：#hcTime秒" />
+    </imgdir>

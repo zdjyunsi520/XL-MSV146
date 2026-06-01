@@ -1,0 +1,5 @@
+<imgdir name="14001007">
+        <string name="name" value="Haste" />
+        <string name="desc" value="Temporarily increases Movement Speed and Jump for all party members. Increases maximum Movement Speed permanently." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Speed: +#speed, Jump: +#jump\nPassive Effects - Max Movement Speed: +#speedMax" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="80011002">
+        <string name="name" value="激励号角" />
+        <string name="desc" value="远处的号角咆哮，提升攻击力。" />
+        <string name="h" value="角色攻击力提升#epad，持续#time秒\n冷却时间: #cooltime秒" />
+    </imgdir>

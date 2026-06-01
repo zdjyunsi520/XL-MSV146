@@ -1,0 +1,5 @@
+<imgdir name="100000103">
+        <string name="name" value="冰冻斩击" />
+        <string name="pdesc" value="猛击敌人有几率眩晕。冰冻量表充能至#c5以上#时可使用。\n[指令: #c↓ + 攻击键#]" />
+        <string name="ph" value="冰冻量表消耗: #iceGageCon, 伤害: #damage%, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕持续时间: #time秒" />
+    </imgdir>

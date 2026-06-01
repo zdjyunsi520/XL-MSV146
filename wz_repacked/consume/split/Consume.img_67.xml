@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023043">
+		<string name="name" value="Hugin Boss"/>
+		<string name="desc" value="INT +3 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023044">
+		<string name="name" value="Hugin Boss"/>
+		<string name="desc" value="INT +6 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023045">
+		<string name="name" value="Hugin Boss"/>
+		<string name="desc" value="INT +10 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023046">
+		<string name="name" value="Gagagucci"/>
+		<string name="desc" value="DEX +3 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023047">
+		<string name="name" value="Gagagucci"/>
+		<string name="desc" value="DEX +6 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023048">
+		<string name="name" value="Gagagucci"/>
+		<string name="desc" value="DEX +10 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023049">
+		<string name="name" value="Knight Light"/>
+		<string name="desc" value="LUK +3 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023050">
+		<string name="name" value="Knight Light"/>
+		<string name="desc" value="LUK +6 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023051">
+		<string name="name" value="Knight Light"/>
+		<string name="desc" value="LUK +10 for 2 hours. This buff depends on the number of pets summoned when the perfume is first used. This buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="2023058">
+		<string name="name" value="Clean Water Give Buff Lv.1"/>
+		<string name="desc" value="HP +500 and Weapon/Magic DEF +100 for 30 minutes. "/>
+	</imgdir>
+    <imgdir name="2023059">
+		<string name="name" value="Clean Water Give Buff Lv.2"/>
+		<string name="desc" value=" HP +1000 and Weapon/Magic DEF +200 for 30 minutes. "/>
+	</imgdir>
+    <imgdir name="2023060">
+		<string name="name" value="Clean Water Give Buff Lv.3"/>
+		<string name="desc" value="HP +1500 and Weapon/Magic DEF +300 for 30 minutes. "/>
+	</imgdir>
+    <imgdir name="2028000">
+		<string name="name" value="6 Year Anniversary Weapon Box"/>
+		<string name="desc" value="Double-click to receive a Lv. 35 Maple Anniversary weapon."/>
+	</imgdir>
+    <imgdir name="2028001">
+		<string name="name" value="6 Year Anniversary Weapon Box"/>
+		<string name="desc" value="Double-click to receive a Lv. 43 Maple Anniversary weapon."/>
+	</imgdir>
+    <imgdir name="2028002">
+		<string name="name" value="6 Year Anniversary Weapon Box"/>
+		<string name="desc" value="Double-click to receive a Lv. 64 Maple Anniversary weapon."/>
+	</imgdir>
+    <imgdir name="2028003">
+		<string name="name" value="6 Year Anniversary Weapon Box"/>
+		<string name="desc" value="Double-click to receive a Lv. 77 Maple Anniversary weapon."/>
+	</imgdir>
+    <imgdir name="2028004">
+		<string name="name" value="6 Year Anniversary Gift Box"/>
+		<string name="desc" value="Double-click to receive a 6 Year Maple Anniversary gift."/>
+	</imgdir>
+    <imgdir name="2028008">
+		<string name="name" value="Purple Masquerade Mask Coupon"/>
+		<string name="desc" value="A coupon you can double-click to trade for a #c30 day Purple Masquerade Mask#."/>
+	</imgdir>
+    <imgdir name="2028009">
+		<string name="name" value="3 Advanced Equip Enhancement Scrolls Coupon"/>
+		<string name="desc" value="A Coupon you can double-click to trade for 3 Advanced Equip Enhancement Scrolls."/>
+	</imgdir>
+    <imgdir name="2028010">
+		<string name="name" value="2 Advanced Equip Enhancement Scrolls Coupon"/>
+		<string name="desc" value="A Coupon you can double-click to trade for 2 Advanced Equip Enhancement Scrolls."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022766">
+		<string name="name" value="愤怒"/>
+		<string name="desc" value="你进入愤怒状态！攻击和防御增加2分钟。"/>
+	</imgdir>
+    <imgdir name="2022771">
+		<string name="name" value="葡萄光环"/>
+		<string name="desc" value="送给新学期活动全勤者的光环。无法用鼠标右键取消。武器/魔法攻击+20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022772">
+		<string name="name" value="爱之雨"/>
+		<string name="desc" value="向敌人降下危险的婚姻幸福之雨。武器/魔法攻击+20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022776">
+		<string name="name" value="辣年糕杯"/>
+		<string name="desc" value="一杯充满辣但美味的年糕。攻击+8，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022777">
+		<string name="name" value="冒险岛汽水炸鸡"/>
+		<string name="desc" value="一种尝起来像汽水和鸡块组合的美味小吃。魔法攻击+8，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022778">
+		<string name="name" value="10寸冰淇淋"/>
+		<string name="desc" value="整整10寸美味的冷冻甜点。速度+15，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022779">
+		<string name="name" value="黄油烤鱿鱼"/>
+		<string name="desc" value="涂有黄油并在明火上烤制的美味鱿鱼。回避率+400，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022780">
+		<string name="name" value="棒棒糖棉花糖"/>
+		<string name="desc" value="看起来像天空中的云一样柔软的甜蜜棉花糖。命中+400，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022781">
+		<string name="name" value="米果"/>
+		<string name="desc" value="用米制成的膨化小吃。酥脆可口！物理防御+400，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022782">
+		<string name="name" value="氦气球"/>
+		<string name="desc" value="充满氦气的气球。拿着它会让你感觉轻得多，好像可以飘走...跳跃+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022783">
+		<string name="name" value="野餐午餐盒"/>
+		<string name="desc" value="装满各种美味食物的盒子。攻击+10、魔法攻击+10、速度+15、跳跃+10，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022789">
+		<string name="name" value="Gaga的西瓜之力"/>
+		<string name="desc" value="Gaga的西瓜充满力量！攻击/魔法攻击+20、武器/魔法防御+200、HP+500，持续1小时。可以与其他buff叠加，但西瓜buff除外。"/>
+	</imgdir>
+    <imgdir name="2022790">
+		<string name="name" value="Gaga的超级西瓜之力"/>
+		<string name="desc" value="Gaga的西瓜充满力量！攻击/魔法攻击+30、武器/魔法防御+300、HP+1000，持续1小时。可以与其他buff叠加，但西瓜buff除外。"/>
+	</imgdir>
+    <imgdir name="2022791">
+		<string name="name" value="Gaga的终极西瓜之力"/>
+		<string name="desc" value="Gaga的西瓜蕴含难以想象的力量！攻击/魔法攻击+40、武器/魔法防御+400、HP+1500，持续1小时。可以与其他buff叠加，但西瓜buff除外。"/>
+	</imgdir>
+    <imgdir name="2022792">
+		<string name="name" value="肯塔的午餐"/>
+		<string name="desc" value="肯塔想帮忙，所以他要和你分享他的午餐！攻击+30、武器/魔法防御+500、速度+10、跳跃+10，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2022793">
+		<string name="name" value="特级水果圣代"/>
+		<string name="desc" value="一种在夏日保持凉爽的水果圣代。\n恢复1500 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022794">
+		<string name="name" value="特级发蜡"/>
+		<string name="desc" value="忘掉普通发蜡吧。所有酷小孩现在都用特级发蜡。"/>
+	</imgdir>
+    <imgdir name="2022795">
+		<string name="name" value="特级胡萝卜汁"/>
+		<string name="desc" value="特级眼睛，特级胡萝卜汁所在。味道当然也是特级的。"/>
+	</imgdir>
+    <imgdir name="2022796">
+		<string name="name" value="蛇骨汤"/>
+		<string name="desc" value="用蛇骨连续熬制2天的汤，会赐予你惊人的蛇一般的力量。至少，他们是这么说的。"/>
+	</imgdir>
+    <imgdir name="2022797">
+		<string name="name" value="特强洗手液"/>
+		<string name="desc" value="你的手特别脏吗？当然是的。这就是为什么洗手液现在有特强版。因为你。"/>
+	</imgdir>
+</imgdir>

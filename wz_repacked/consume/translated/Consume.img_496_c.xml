@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049412">
+		<string name="name" value="高级潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：90%。失败时物品被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049414">
+		<string name="name" value="紫魂戒指潜能卷轴"/>
+		<string name="desc" value="为紫魂戒指物品提供潜能，不扣除可用升级次数。\n#c只能用于紫魂戒指物品。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049415">
+		<string name="name" value="蓝魂戒指潜能卷轴"/>
+		<string name="desc" value="为蓝魂戒指物品提供潜能，不扣除可用升级次数。\n#c只能用于蓝魂戒指物品。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049416">
+		<string name="name" value="潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：70%。失败时物品不被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049417">
+		<string name="name" value="特殊潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049419">
+		<string name="name" value="特殊潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。始终提供3条附加潜能。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049421">
+		<string name="name" value="心形项链潜能卷轴"/>
+		<string name="desc" value="为#心形项链#提供潜能，不扣除可用升级次数。\n#c只能用于心形项链。#\n成功率：80%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049511">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n#"/>
+		<string name="desc" value="#c双击#并选择一个具有2条或更少潜能的装备，添加1条额外的潜能。"/>
+		<string name="name" value="银色觉醒图章"/>
+	</imgdir>
+    <imgdir name="2049512">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n#"/>
+		<string name="desc" value="#c双击#并选择一个具有2条或更少潜能的装备，添加1条额外的潜能。"/>
+		<string name="name" value="完美觉醒图章"/>
+	</imgdir>
+    <imgdir name="2049600">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时摧毁物品几率：30%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴70%"/>
+	</imgdir>
+    <imgdir name="2049601">
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴20%"/>
+	</imgdir>
+    <imgdir name="2049602">
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴20%"/>
+	</imgdir>
+    <imgdir name="2049603">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴50%"/>
+	</imgdir>
+    <imgdir name="2049604">
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时摧毁物品几率：20%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴60%"/>
+	</imgdir>
+    <imgdir name="2049605">
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴40%"/>
+	</imgdir>
+    <imgdir name="2049606">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴50%"/>
+	</imgdir>
+    <imgdir name="2049607">
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴20%"/>
+	</imgdir>
+    <imgdir name="2049610">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴100%"/>
+	</imgdir>
+    <imgdir name="2049611">
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n将所有属性重置为非潜能、非附加属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会重置到成长前的状态。不应用附加属性。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。"/>
+		<string name="name" value="纯洁卷轴60%"/>
+	</imgdir>
+    <imgdir name="2049612">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重置所有非潜能属性\r\n#"/>
+		<string name="desc" value="重置物品上的所有属性，但不包括潜在潜能。只能用于装备。如果用于可成长的物品，该物品可能会恢复到成长前的状态。\n无法用于已应用#c宿命剪刀、共享标签、物品保护#的物品。额外属性不会被重置。"/>
+		<string name="name" value="纯洁卷轴50%"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1004106"><string name="name" value="Guardian Head Band"/></imgdir>
+    <imgdir name="1022121"><string name="name" value="X-Ray Glasses"/><string name="desc" value="Don&apos;t use them to look into the lady&apos;s locker room."/></imgdir>
+    <imgdir name="1004422"><string name="name" value="AbsoLab Knight Helm"/></imgdir>
+    <imgdir name="1004423"><string name="name" value="AbsoLab Mage Crown"/></imgdir>
+    <imgdir name="1004424"><string name="name" value="AbsoLab Archer Hood"/></imgdir>
+    <imgdir name="1004425"><string name="name" value="AbsoLab Bandit Cap"/></imgdir>
+    <imgdir name="1004426"><string name="name" value="AbsoLab Pirate Fedora"/></imgdir>
+    <imgdir name="1004808"><string name="name" value="Arcane Umbra Knight Hat"/></imgdir>
+    <imgdir name="1004809"><string name="name" value="Arcane Umbra Mage Hat"/></imgdir>
+    <imgdir name="1004810"><string name="name" value="Arcane Umbra Archer Hat"/></imgdir>
+    <imgdir name="1004811"><string name="name" value="Arcane Umbra Thief Hat"/></imgdir>
+    <imgdir name="1004812"><string name="name" value="Arcane Umbra Pirate Hat"/></imgdir>
+    <imgdir name="Cape"><imgdir name="1100000"><string name="name" value="Napoleon Cape"/></imgdir>
+    <imgdir name="1100001"><string name="name" value="Napoleon Cape"/></imgdir>
+    <imgdir name="1102000"><string name="name" value="Green Adventurer Cape"/></imgdir>
+    <imgdir name="1102001"><string name="name" value="Blue Adventurer Cape"/></imgdir>
+    <imgdir name="1102002"><string name="name" value="Red Adventurer Cape"/></imgdir>
+    <imgdir name="1102003"><string name="name" value="White Adventurer Cape"/></imgdir>
+    <imgdir name="1102004"><string name="name" value="Black Adventurer Cape"/></imgdir>
+    <imgdir name="1102005"><string name="name" value="Baby Angel Wings"/></imgdir>
+</imgdir>

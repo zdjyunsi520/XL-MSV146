@@ -1,0 +1,96 @@
+<imgdir name="Cash.img">
+    <imgdir name="5120017">
+		<string name="name" value="初次相遇任务专用"/>
+		<string name="desc" value="拉克丽丝"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120018">
+		<string name="name" value="次元裂缝任务专用"/>
+		<string name="desc" value="红色标志"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120019">
+		<string name="name" value="女神之塔任务专用"/>
+		<string name="desc" value="艾克"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120020">
+		<string name="name" value="海盗大王任务专用"/>
+		<string name="desc" value="权叔"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120021">
+		<string name="name" value="布雷迪任务专用"/>
+		<string name="desc" value="布雷迪"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120022">
+		<string name="name" value="布里塔妮任务专用"/>
+		<string name="desc" value="布里塔妮"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120023">
+		<string name="name" value="艾琳森林任务专用"/>
+		<string name="desc" value="妖精"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120024">
+		<string name="name" value="武陵道场任务专用"/>
+		<string name="desc" value="宋江"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120025">
+		<string name="name" value="管理员专用"/>
+		<string name="desc" value="抓捕宏脚本。"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120026">
+		<string name="name" value="黄金里奇的迷宫专用"/>
+		<string name="desc" value="黄金里奇"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120027">
+		<string name="name" value="飞船"/>
+		<string name="desc" value="用来拯救嘎嘎的飞船。"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120028">
+		<string name="name" value="猫狗大作战"/>
+		<string name="desc" value="天上掉猫猫和狗狗啦！！！输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5120030">
+		<string name="name" value="魔女之塔"/>
+		<string name="desc" value="魔女之塔散发着危险的气息。"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120034">
+		<string name="name" value="云朵肉丸"/>
+		<string name="msg" value="%s的肉丸: %s"/>
+		<string name="desc" value="美食将从天而降，洒在角色所在地图，持续30秒。"/>
+	</imgdir>
+    <imgdir name="5120036">
+		<string name="name" value="五周年彩纸"/>
+		<string name="desc" value="在角色所在地图燃放五周年纪念烟花，持续30秒。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5120043">
+		<string name="name" value="女皇想法气泡"/>
+		<string name="desc" value=""/>
+		<string name="msg" value=""/>
+	</imgdir>
+    <imgdir name="5120049">
+		<string name="name" value="订婚典礼"/>
+		<string name="desc" value=""/>
+		<string name="msg" value=""/>
+	</imgdir>
+    <imgdir name="5120063">
+		<string name="name" value="给乔乔的留言"/>
+	</imgdir>
+    <imgdir name="5120064">
+		<string name="name" value="给荷蒙妮妮的留言"/>
+	</imgdir>
+    <imgdir name="5120065">
+		<string name="name" value="给小龙的留言"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="80000082">
+        <string name="name" value="Lv.2机器袋鼠蹦跳" />
+        <string name="desc" value="你的机器袋鼠在旁边加油打气，提升物理攻击力和魔法攻击力5点。" />
+        <string name="h" value="#物理攻击力：+#padX，魔法攻击力+#madX" />
+    </imgdir>

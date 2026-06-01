@@ -1,0 +1,5 @@
+<imgdir name="51121053">
+        <string name="name" value="明日女王" />
+        <string name="desc" value="提升女皇的祝福的伤害和最大伤害加成。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：#indieMaxDamageOver。\n冷却时间：#cooltime秒" />
+    </imgdir>

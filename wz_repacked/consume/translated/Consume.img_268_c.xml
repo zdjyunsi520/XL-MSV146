@@ -1,0 +1,75 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388148">
+		<string name="name" value="Oz卡"/>
+	</imgdir>
+    <imgdir name="2388149">
+		<string name="name" value="艾琳娜卡"/>
+	</imgdir>
+    <imgdir name="2388150">
+		<string name="name" value="艾克哈特卡"/>
+	</imgdir>
+    <imgdir name="2388151">
+		<string name="name" value="霍克海姆卡"/>
+	</imgdir>
+    <imgdir name="2388152">
+		<string name="name" value="西格努斯卡"/>
+	</imgdir>
+    <imgdir name="2388153">
+		<string name="name" value="保镖A卡"/>
+	</imgdir>
+    <imgdir name="2388154">
+		<string name="name" value="保镖B卡"/>
+	</imgdir>
+    <imgdir name="2390000">
+		<string name="name" value="雅典娜彼亚斯的弹珠"/>
+		<string name="desc" value="雅典娜彼亚斯给的弹珠。使用它可以随时和她交流。此道具只能使用一次..."/>
+	</imgdir>
+    <imgdir name="2390001">
+		<string name="name" value="旅行Tommy的票"/>
+		<string name="desc" value="召唤旅行商人Tommy。双击#c#可以与Tommy交易。"/>
+	</imgdir>
+    <imgdir name="2430000">
+		<string name="name" value="破损的西格努斯之书 第1卷"/>
+		<string name="desc" value="一次使用一个，特殊的力量会覆盖我的身体并祝福我。我想如果收集20本，我就能够阅读里面的内容。"/>
+	</imgdir>
+    <imgdir name="2430001">
+		<string name="name" value="破损的西格努斯之书 第2卷"/>
+		<string name="desc" value="一次使用一个，特殊的力量会覆盖我的身体并祝福我。我想如果收集20本，我就能够阅读里面的内容。"/>
+	</imgdir>
+    <imgdir name="2430002">
+		<string name="name" value="破损的西格努斯之书 第3卷"/>
+		<string name="desc" value="一次使用一个，特殊的力量会覆盖我的身体并祝福我。我想如果收集20本，我就能够阅读里面的内容。"/>
+	</imgdir>
+    <imgdir name="2430003">
+		<string name="name" value="西格努斯问答"/>
+		<string name="desc" value="回答关于西格努斯骑士团的问题可以获得奖励。应该点击试试。"/>
+	</imgdir>
+    <imgdir name="2430004">
+		<string name="name" value="Richie Gold的随机钥匙罐"/>
+		<string name="desc" value="重置Richie Gold迷宫中的金钥匙房间。"/>
+	</imgdir>
+    <imgdir name="2430005">
+		<string name="name" value="纪念地图"/>
+		<string name="desc" value="允许你查看当前位置和金钥匙房间的位置。"/>
+	</imgdir>
+    <imgdir name="2430006">
+		<string name="name" value="神秘的纸片"/>
+		<string name="desc" value="上面写满了神秘的涂鸦。\n#c双击会开始一个任务。#"/>
+	</imgdir>
+    <imgdir name="2430007">
+		<string name="name" value="空罗盘"/>
+		<string name="desc" value="一个没有标记的罗盘。不过，如果你有字母#cN,E,W,S#就可以变成一个可用的罗盘。"/>
+	</imgdir>
+    <imgdir name="2430008">
+		<string name="name" value="黄金罗盘"/>
+		<string name="desc" value="一个揭示Gold Richie宝藏岛位置的黄金罗盘。\n#c双击#可以移动到该岛。"/>
+	</imgdir>
+    <imgdir name="2430009">
+		<string name="name" value="纯净香水"/>
+		<string name="desc" value="含有无经验冒险者气息的香水。\n#c双击#会释放这种气息来迷惑怪物。"/>
+	</imgdir>
+    <imgdir name="2430010">
+		<string name="name" value="神秘神器"/>
+		<string name="desc" value="一个来历不明的神器。\n#c双击#可以查看其来历。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="80001016"><string name="name" value="粉色熊热气球"/><string name="desc" value="[最高等级：1]\n可以骑乘粉色熊热气球。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001017"><string name="name" value="变形金刚"/><string name="desc" value="[最高等级：1]\n可以骑乘变形金刚。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001018"><string name="name" value="摩托车"/><string name="desc" value="[最高等级：1]\n可以骑乘摩托车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001019"><string name="name" value="动力装甲"/><string name="desc" value="[最高等级：1]\n可以装备动力装甲。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001020"><string name="name" value="狮子莱昂纳多"/><string name="desc" value="[最高等级：1]\n可以骑乘狮子莱昂纳多。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001021"><string name="name" value="蓝色滑板车"/><string name="desc" value="[最高等级：1]\n可以骑乘蓝色滑板车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001022"><string name="name" value="圣诞雪橇"/><string name="desc" value="[最高等级：1]\n可以骑乘圣诞雪橇。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001023"><string name="name" value="福缘"/><string name="desc" value="[最高等级：1]\n可以骑乘福缘。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140，跳跃力：120"/></imgdir>
+    <imgdir name="80001024"><string name="name" value="雪人坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘雪人。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001025"><string name="name" value="雪人"/><string name="desc" value="[最高等级：1]\n可以骑乘雪人。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001026"><string name="name" value="魔女扫帚"/><string name="desc" value="[最高等级：1]\n可以骑乘扫帚。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001027"><string name="name" value="木制飞机"/><string name="desc" value="[最高等级：1]\n可以骑乘木制飞机。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，可跨大陆移动"/></imgdir>
+    <imgdir name="80001028"><string name="name" value="红色飞机"/><string name="desc" value="[最高等级：1]\n可以骑乘红色飞机。可跨大陆移动。跨大陆移动时间缩短2分钟。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，可跨大陆移动"/></imgdir>
+    <imgdir name="80001029"><string name="name" value="Cygnus骑士战车"/><string name="desc" value="[最高等级：1]\n可以骑乘Cygnus骑士战车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001030"><string name="name" value="小鸡"/><string name="desc" value="[最高等级：1]\n可以骑乘小鸡。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001031"><string name="name" value="猫头鹰"/><string name="desc" value="[最高等级：1]\n可以骑乘猫头鹰。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001032"><string name="name" value="低底盘机车"/><string name="desc" value="[最高等级：1]\n可以骑乘低底盘机车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001033"><string name="name" value="斯皮尔曼的热气球"/><string name="desc" value="[最高等级：1]\n可以骑乘斯皮尔曼的热气球。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：110%，可跨大陆移动"/></imgdir>
+    <imgdir name="80001034"><string name="name" value="美德祝福"/><string name="desc" value="使用美德之石中的力量，提升攻击力/魔法攻击力20点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升20。移动速度和跳跃力提升至最大值。"/></imgdir>
+    <imgdir name="80001035"><string name="name" value="美德祝福"/><string name="desc" value="使用美德之石中的力量，提升攻击力/魔法攻击力30点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升30。移动速度和跳跃力提升至最大值。"/></imgdir>
+</imgdir>

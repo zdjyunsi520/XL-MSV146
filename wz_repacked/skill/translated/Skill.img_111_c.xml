@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20009000"><string name="name" value="猪猪弱点"/><string name="desc" value="[最高等级：1]\n对猪猪造成150%伤害。"/></imgdir>
+    <imgdir name="20009001"><string name="name" value="树桩弱点"/><string name="desc" value="[最高等级：1]\n对树桩造成150%伤害。"/></imgdir>
+    <imgdir name="20009002"><string name="name" value="史莱姆弱点"/><string name="desc" value="[最高等级：1]\n对史莱姆造成150%伤害。"/></imgdir>
+    <imgdir name="20010012"><string name="name" value="精灵的祝福"/><string name="desc" value="你最高等级角色每10级赋予1个技能等级。精灵的祝福和女皇的祝福取较高值生效。"/><string name="h" value="武器攻击力：+#x，魔法攻击力：+#y，命中率、回避率：+#z"/></imgdir>
+    <imgdir name="20010022"><string name="name" value="龙之飞翔"/><string name="desc" value="与你的龙一起远距离飞行。"/><string name="h" value="按住跳跃键可飞行很长距离。只有在已获得骑兽技能且未骑乘状态下才能使用。"/></imgdir>
+    <imgdir name="20010073"><string name="name" value="女皇的祝福"/><string name="desc" value="你最高等级的冒险骑士团或米哈逸角色每5级赋予1个技能点。精灵的祝福和女皇的祝福不叠加，只取较高值生效。\r\n根据你的冒险骑士团或米哈逸角色的贵族之心技能，此技能最高可达30级。"/><string name="h" value="武器攻击力：+#x，魔法攻击力：+#y，命中率、回避率：+#z"/></imgdir>
+    <imgdir name="20010086"><string name="name" value="大天使的祝福"/><string name="desc" value="[最高等级：1] 接受大天使的祝福。"/><string name="h1" value="攻击力：+5，魔法攻击力：+5，持续时间：10分钟"/></imgdir>
+    <imgdir name="20010088"><string name="name" value="暗黑天使的祝福"/><string name="desc" value="[最高等级：1] 接受暗黑天使的祝福。"/><string name="h1" value="攻击力：+10，魔法攻击力：+10，持续时间：10分钟"/></imgdir>
+    <imgdir name="20010091"><string name="name" value="大天使的祝福"/><string name="desc" value="[最高等级：1] 接受大天使的祝福。"/><string name="h1" value="攻击力：+5，魔法攻击力：+5，持续时间：10分钟"/></imgdir>
+    <imgdir name="20010093"><string name="name" value="隐藏潜力（英雄）"/><string name="pdesc" value="在危急时刻释放你的隐藏潜力。"/><string name="ph" value="HP低于#z%时所有攻击变为暴击，MP消耗：#y%"/></imgdir>
+    <imgdir name="20010097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令：#c攻击键#]"/><string name="ph" value="伤害：#damage%，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="20010099"><string name="name" value="冰霜粉碎"/><string name="pdesc" value="将斧头变为巨剑冰冻多个敌人。冰量表达到#c20以上#时可用。\n[指令：#c上和上方向键 + 攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击敌人数：#mobCount，冰冻概率：#prob%，冰冻持续时间：#time秒"/></imgdir>
+    <imgdir name="20010100"><string name="name" value="冰霜风暴"/><string name="pdesc" value="用冰之力量持续伤害敌人。冰量表达到#c40以上#时可用。\n[指令：#c下和右方向键 + 攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，每#dotInterval秒造成#damage%伤害，持续#dotTime秒（最多#attackCount次），最大攻击敌人数：#mobCount，"/></imgdir>
+    <imgdir name="20010103"><string name="name" value="冰霜劈砍"/><string name="pdesc" value="猛击敌人并有几率使其眩晕。冰量表达到#c5以上#时可用。\n[指令：#c下方向键 + 攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒"/></imgdir>
+    <imgdir name="20010104"><string name="name" value="冰霜诅咒"/><string name="pdesc" value="诅咒你的对手，将其变成冰蜗牛。冰量表达到#c160以上#时可用。\n[指令：#c下和上方向键 + 攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon。变成蜗牛概率：#prop%，蜗牛持续时间：#time"/></imgdir>
+    <imgdir name="20010180"><string name="name" value="纯白天使的祝福"/><string name="desc" value="[最高等级：1] 接受纯白天使的祝福。"/><string name="h1" value="攻击力：+12，魔法攻击力：+12，持续时间：10分钟"/></imgdir>
+    <imgdir name="20010190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大的力量"/><string name="h" value="永久提升STR：#strX，DEX：#dexX，INT：#intX，LUK：#lukX，攻击力：#padX，魔法攻击力：#madX"/></imgdir>
+    <imgdir name="20010194"><string name="name" value="继承的意志"/><string name="desc" value="通过接受玛瑙龙之王阿弗里恩的意志，掌握了龙之主人的真正力量"/><string name="h" value="永久提升魔法攻击力#madX，魔法防御力#mddX，HP#mhpR%，全属性#strX，攻击BOSS怪物时伤害：+#bdR%"/></imgdir>
+    <imgdir name="20011000"><string name="name" value="蜗牛投掷"/><string name="desc" value="[最高等级：3]\n投掷蜗牛壳远距离攻击怪物。"/><string name="h1" value="MP -3，伤害 10"/><string name="h2" value="MP -5，伤害 25"/><string name="h3" value="MP -7，伤害 40"/></imgdir>
+    <imgdir name="20011001"><string name="name" value="恢复"/><string name="desc" value="[最高等级：3]\n30秒内持续恢复一定量的HP。\n#c冷却时间：10分钟#"/><string name="h1" value="MP -5，30秒内恢复24 HP"/><string name="h2" value="MP -10，30秒内恢复48 HP"/><string name="h3" value="MP -15，30秒内恢复72 HP。"/></imgdir>
+</imgdir>

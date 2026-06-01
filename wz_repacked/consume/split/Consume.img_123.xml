@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046113">
+		<string name="name" value="Scroll for Two-Handed Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046114">
+		<string name="name" value="Gallant Scroll for Two-Handed Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046115">
+		<string name="name" value="Gallant Scroll for Two-Handed Weapon ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046116">
+		<string name="name" value="Gallant Scroll for Two-Handed Weapon ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046117">
+		<string name="name" value="Gallant Scroll for Two-Handed Weapon ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\nWeapon Attack +3\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046118">
+		<string name="name" value="Warrior Scroll for Two-Handed Weapon for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +3\r\nDEX: +1\r\nWeapon Weapon: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046119">
+		<string name="name" value="Joyous 7th Dark Scroll for Two-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7 to 8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046120">
+		<string name="name" value="Joyous 7th Dark Scroll for Two-Handed Weapon for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7 to 8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046121">
+		<string name="name" value="Bowman Scroll for Two-Handed Weapon for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nDEX: +3\r\nWeapon Weapon: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046122">
+		<string name="name" value="Legends Scroll for Two-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046123">
+		<string name="name" value="Legends Dark Scroll for Two-Handed Weapon ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046124">
+		<string name="name" value="Legends Scroll for Two-Handed Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046125">
+		<string name="name" value="Legends Scroll for Two-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046126">
+		<string name="name" value="Legends Dark Scroll for Two-Handed Weapon ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046127">
+		<string name="name" value="Legends Scroll for Two-Handed Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046128">
+		<string name="name" value="Legend Maple Two-hand Weapon ATT scroll 25%"/>
+		<string name="desc" value="Improves Attack on Legends Maple Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +6\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046129">
+		<string name="name" value="Homecoming Scroll for Two-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\nWeapon Attack +4\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046130">
+		<string name="name" value="Homecoming Scroll for Two-Handed Weapon for ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046131">
+		<string name="name" value="Lion King's Two-Handed Weapon ATT Scroll"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046138">
+		<string name="name" value="Renegades Scroll for Two-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+</imgdir>

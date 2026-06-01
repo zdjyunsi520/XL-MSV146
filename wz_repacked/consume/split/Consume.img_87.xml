@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040702">
+		<string name="name" value="Scroll for Shoes for Avoidability 10%"/>
+		<string name="desc" value="Improves Avoidability on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nAccuracy: +60\r\nAvoidability: +100\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040703">
+		<string name="name" value="Scroll for Shoes for Jump 100%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nJump: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040704">
+		<string name="name" value="Scroll for Shoes for Jump 60%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +1\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040705">
+		<string name="name" value="Scroll for Shoes for Jump 10%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\nSpeed: +1\r\nJump: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2040706">
+		<string name="name" value="Scroll for Shoes for Speed 100%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040707">
+		<string name="name" value="Scroll for Shoes for Speed 60%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSpeed: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040708">
+		<string name="name" value="Scroll for Shoes for Speed 10%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSpeed: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040709">
+		<string name="name" value="Scroll for Shoes for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAccuracy: +45\r\nAvoidability: +80\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040710">
+		<string name="name" value="Scroll for Shoes for Jump 100%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +3\r\nSpeed: +1\r\nJump: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2040711">
+		<string name="name" value="Scroll for Shoes for Speed 100%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSpeed: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040712">
+		<string name="name" value="Scroll for Shoes for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nAccuracy: +20\r\nAvoidability: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040713">
+		<string name="name" value="Scroll for Shoes for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nAccuracy: +60\r\nAvoidability: +100\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040714">
+		<string name="name" value="Dark scroll for Shoes for Jump 70%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040715">
+		<string name="name" value="Dark scroll for Shoes for Jump 30%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\nSpeed: +1\r\nJump: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2040716">
+		<string name="name" value="Dark scroll for Shoes for Speed 70%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSpeed: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040717">
+		<string name="name" value="Dark scroll for Shoes for Speed 30%"/>
+		<string name="desc" value="Improves Speed on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSpeed: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040718">
+		<string name="name" value="Scroll for Shoes for DEX 65%"/>
+		<string name="desc" value="Improves Dexterity on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nAccuracy: +20\r\nAvoidability: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040719">
+		<string name="name" value="Scroll for Shoes for DEX 15%"/>
+		<string name="desc" value="Improves Dexterity on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nAccuracy: +60\r\nAvoidability: +100\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040720">
+		<string name="name" value="Scroll for Shoes for Jump and DEX 65%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +1\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040721">
+		<string name="name" value="Scroll for Shoes for Jump and DEX 15%"/>
+		<string name="desc" value="Improves Jump on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\nSpeed: +1\r\nJump: +5\r\n#"/>
+	</imgdir>
+</imgdir>

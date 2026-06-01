@@ -1,0 +1,5 @@
+<imgdir name="13101002">
+        <string name="name" value="Final Attack" />
+        <string name="desc" value="Grants a chance to deal additional damage after an attack. Must have a bow equipped.\nRequired Skill: #cBow Mastery Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Proc Rate: #prop%, Duration: #time sec" />
+    </imgdir>

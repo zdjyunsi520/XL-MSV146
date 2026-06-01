@@ -1,0 +1,8 @@
+<imgdir name="21101006">
+        <string name="name" value="冰雪充能" />
+        <string name="desc" value="永久提升伤害，并在一定时间内为战矛注入冰属性。" />
+        <string name="h" value="永久伤害提升：+#damR%。MP消耗：#mpCon，冰属性持续时间：#time 秒，敌人速度：#x，持续#y 秒" />
+        <string name="pdesc" value="永久提升伤害并为战矛注入冰属性。" />
+        <string name="ph" value="永久伤害提升：+#damR%。MP消耗：#mpCon，冰属性持续时间：#time 秒，敌人速度：#x，持续#y 秒" />
+        <string name="hch" value="永久伤害提升：+#damR%。MP消耗：#mpCon，冰属性持续时间：#time 秒，#hcProp%概率使敌人速度：#x，持续#hcSubTime 秒" />
+    </imgdir>

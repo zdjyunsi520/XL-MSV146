@@ -1,0 +1,7 @@
+<imgdir name="23121000">
+        <string name="name" value="伊什塔之环" />
+        <string name="desc" value="借助传说武器伊什塔的力量，向前方的敌人快速射出箭矢。按住技能键可持续射击。此外，永久提升眩晕射击的伤害。\n前置技能：#c眩晕射击 Lv. 20#" />
+        <string name="h" value="主动效果：MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount\n被动效果：眩晕射击伤害：+#damR%" />
+        <string name="pdesc" value="借助传说武器伊什塔的力量，向前方的敌人快速射出箭矢。按住技能键可持续射击。此外，永久提升眩晕射击的伤害。\n前置技能：#c眩晕射击 Lv. 20#" />
+        <string name="ph" value="主动效果：MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount\n被动效果：眩晕射击伤害：+#damR%" />
+    </imgdir>

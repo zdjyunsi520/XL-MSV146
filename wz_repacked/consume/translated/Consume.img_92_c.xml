@@ -1,0 +1,93 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040910">
+		<string name="name" value="盾牌强化卷轴 防御 65%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040911">
+		<string name="name" value="盾牌强化卷轴 防御 15%"/>
+		<string name="desc" value="强化盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040912">
+		<string name="name" value="【5周年】盾牌强化卷轴 防御 40%"/>
+		<string name="desc" value="强化冒险岛魔法师、冒险岛战士和冒险岛猎人盾牌防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n物理防御：+30\r\n魔法防御：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040914">
+		<string name="name" value="盾牌强化卷轴 武器攻击 60%"/>
+		<string name="desc" value="强化盾牌武器攻击。\n成功率60%，武器攻击+2，力量+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040915">
+		<string name="name" value="盾牌强化卷轴 武器攻击 10%"/>
+		<string name="desc" value="强化盾牌武器攻击。\n成功率10%，武器攻击+3，力量+2。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040916">
+		<string name="name" value="暗黑盾牌强化卷轴 武器攻击 70%"/>
+		<string name="desc" value="强化盾牌武器攻击。\n成功率70%，武器攻击+2，力量+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040917">
+		<string name="name" value="暗黑盾牌强化卷轴 武器攻击 30%"/>
+		<string name="desc" value="强化盾牌武器攻击。\n成功率30%，武器攻击+3，力量+2\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040918">
+		<string name="name" value="盾牌强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化盾牌魔法攻击。\n成功率100%，魔法攻击+1"/>
+	</imgdir>
+    <imgdir name="2040919">
+		<string name="name" value="盾牌强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化盾牌魔法攻击。\n成功率60%，魔法攻击+2，智力+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040920">
+		<string name="name" value="盾牌强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化盾牌魔法攻击。\n成功率10%，魔法攻击+3，智力+2。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040921">
+		<string name="name" value="暗黑盾牌强化卷轴 魔法攻击 70%"/>
+		<string name="desc" value="强化盾牌魔法攻击。\n成功率70%，魔法攻击+2，智力+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040922">
+		<string name="name" value="暗黑盾牌强化卷轴 魔法攻击 50%"/>
+		<string name="desc" value="强化盾牌魔法攻击。\n成功率50%，魔法攻击+3，智力+2\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040923">
+		<string name="name" value="盾牌强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化盾牌的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040924">
+		<string name="name" value="盾牌强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化盾牌的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040925">
+		<string name="name" value="盾牌强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化盾牌的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040926">
+		<string name="name" value="盾牌强化卷轴 HP 100%"/>
+		<string name="desc" value="强化盾牌的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040927">
+		<string name="name" value="盾牌强化卷轴 HP 60%"/>
+		<string name="desc" value="强化盾牌的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040928">
+		<string name="name" value="盾牌强化卷轴 HP 10%"/>
+		<string name="desc" value="强化盾牌的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040929">
+		<string name="name" value="盾牌强化卷轴 力量 100%"/>
+		<string name="desc" value="强化盾牌的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040930">
+		<string name="name" value="盾牌强化卷轴 力量 70%"/>
+		<string name="desc" value="强化盾牌的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+2\r\n#"/>
+	</imgdir>
+</imgdir>

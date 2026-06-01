@@ -1,0 +1,7 @@
+<imgdir name="1001005">
+        <string name="name" value="Slash Blast" />
+        <string name="desc" value="Consumes MP to attack nearby enemies all at once." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Consumes MP to attack nearby enemies all at once." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

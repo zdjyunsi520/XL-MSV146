@@ -1,0 +1,112 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000122">
+		<string name="name" value="Tae Sang's Box"/>
+	</imgdir>
+    <imgdir name="9000123">
+		<string name="name" value="Big Headward"/>
+		<string name="func" value="Rinz the Assistant"/>
+		<string name="n0" value="I'm actually...the prince of Big Head Kingdom."/>
+		<string name="n1" value="There's no additional fee even if your head is big!"/>
+		<string name="d0" value="Big Head Kingdom? It's a wonderful place where the biggest head is the prettiest one."/>
+		<string name="d1" value="You would get along well in Big Head Kingdom."/>
+	</imgdir>
+    <imgdir name="9000124">
+		<string name="name" value="Plastic Roy"/>
+		<string name="n0" value="Plastic surgery is an art."/>
+		<string name="n1" value="It's human nature to desire beauty."/>
+		<string name="d0" value="Plastic surgery is an art."/>
+		<string name="d1" value="Your beauty blinds me... However, if you want to be even better, I'll be glad to change you."/>
+	</imgdir>
+    <imgdir name="9000125">
+		<string name="name" value="School Bus"/>
+	</imgdir>
+    <imgdir name="9000126">
+		<string name="name" value="Easel"/>
+		<string name="d0" value="A Rainbow Drawing rests on the easel."/>
+		<string name="d1" value="A Rainbow Drawing rests on the easel."/>
+	</imgdir>
+    <imgdir name="9000127">
+		<string name="name" value="Coma"/>
+		<string name="func" value="Homeroom Teacher"/>
+		<string name="d0" value="Never miss a chance to learn. It won't come again."/>
+		<string name="d1" value="As a teacher, I always have your best interests in mind."/>
+		<string name="n0" value="I am the teacher and you are the student!"/>
+		<string name="n1" value="When this teacher gets angry, you're gonna get it until the sun don't shine!"/>
+	</imgdir>
+    <imgdir name="9000128">
+		<string name="name" value="So Ha"/>
+	</imgdir>
+    <imgdir name="9000129">
+		<string name="name" value="Cassandra"/>
+	</imgdir>
+    <imgdir name="9000130">
+		<string name="name" value="Classroom Door"/>
+	</imgdir>
+    <imgdir name="9000131">
+		<string name="name" value="Magical Mortar Bunny"/>
+		<string name="func" value="Jewel Craft"/>
+	</imgdir>
+    <imgdir name="9000132">
+		<string name="name" value="Wee Moon Bunny"/>
+	</imgdir>
+    <imgdir name="9000133">
+		<string name="name" value="Homecoming Wonky"/>
+		<string name="func" value="Homecoming Bazaar"/>
+	</imgdir>
+    <imgdir name="9000134">
+		<string name="name" value="Angelic Buster"/>
+		<string name="n0" value="The anticipation killing you? Get into the Hero's Gauntlet!"/>
+		<string name="n1" value="What? You Don't know me? You lie!"/>
+		<string name="d0" value="Well? Are you ready? "/>
+		<string name="d1" value="Well? Are you ready? "/>
+	</imgdir>
+    <imgdir name="9000135">
+		<string name="name" value="Angelic Buster"/>
+		<string name="n0" value="The anticipation killing you? Get into the Hero's Gauntlet!"/>
+		<string name="n1" value="What? You Don't know me? You lie!"/>
+		<string name="d0" value="Well? Are you ready? "/>
+		<string name="d1" value="Well? Are you ready? "/>
+	</imgdir>
+    <imgdir name="9000136">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="This is a great castle... A party here sounds great!"/>
+		<string name="n1" value="It's quite dusty. Can you lend a hand?"/>
+		<string name="d0" value="I have waaay too much to do..."/>
+		<string name="d1" value="I have waaay too much to do..."/>
+	</imgdir>
+    <imgdir name="9000137">
+		<string name="name" value="Neinheart"/>
+		<string name="n0" value="I doubt the effectiveness of this clothing."/>
+		<string name="n1" value="This castle holds secrets."/>
+		<string name="d0" value="Woo. So Scary."/>
+		<string name="d1" value="Woo. So Scary."/>
+	</imgdir>
+    <imgdir name="9000138">
+		<string name="name" value="Vampire Phantom"/>
+		<string name="n0" value="This place is very... quaint."/>
+		<string name="n1" value="Beautiful things for beautiful people. "/>
+		<string name="d0" value="Wait! Don't run away! I have something to say!"/>
+		<string name="d1" value="Wait! Don't run away! I have something to say!"/>
+	</imgdir>
+    <imgdir name="9000139">
+		<string name="name" value="Lania"/>
+		<string name="n0" value="There sure are a lot of ingredients around here."/>
+		<string name="n1" value="Which one of these is salt and which one is arsenic?"/>
+		<string name="d0" value="Cooking is hard when you don't know how to do it."/>
+		<string name="d1" value="Cooking is hard when you don't know how to do it."/>
+	</imgdir>
+    <imgdir name="9000140">
+		<string name="name" value="Angelic Buster"/>
+		<string name="n0" value="The anticipation killing you? Get into the Hero's Gauntlet!"/>
+		<string name="n1" value="What? You Don't know me? You lie!"/>
+		<string name="d0" value="Well? Are you ready? "/>
+		<string name="d1" value="Well? Are you ready? "/>
+	</imgdir>
+    <imgdir name="9000141">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="This is a great castle... A party here sounds great!"/>
+		<string name="n1" value="It's quite dusty. Can you lend a hand?"/>
+		<string name="d0" value="I have waaay too much to do..."/>
+		<string name="d1" value="I have waaay too much to do..."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="22140000">
+        <string name="name" value="Critical Magic " />
+        <string name="desc" value="Increases your Critical Hit Rate and minimum Critical Damage.\nSkill book is required to unlock the next level of this skill." />
+        <string name="h" value="Crit Rate: +#prop%, Minimum Crit Damage: +#criticaldamageMin%" />
+    </imgdir>

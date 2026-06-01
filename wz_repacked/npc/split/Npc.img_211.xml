@@ -1,0 +1,93 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390433">
+		<string name="name" value="Kobold"/>
+	</imgdir>
+    <imgdir name="9390434">
+		<string name="name" value="Kobold"/>
+	</imgdir>
+    <imgdir name="9390435">
+		<string name="name" value="Kobold"/>
+	</imgdir>
+    <imgdir name="9390436">
+		<string name="name" value="Advanced Kobold"/>
+	</imgdir>
+    <imgdir name="9390437">
+		<string name="name" value="Advanced Kobold"/>
+	</imgdir>
+    <imgdir name="9390438">
+		<string name="name" value="Advanced Kobold"/>
+	</imgdir>
+    <imgdir name="9390439">
+		<string name="name" value="Advanced Kobold"/>
+	</imgdir>
+    <imgdir name="9390440">
+		<string name="name" value="Advanced Kobold"/>
+	</imgdir>
+    <imgdir name="9390441">
+		<string name="name" value="Flying Eka"/>
+		<string name="d0" value="I'm trying to preen myself here!"/>
+		<string name="d1" value="I'm trying to preen myself here!"/>
+	</imgdir>
+    <imgdir name="9390442">
+		<string name="name" value="Kobold"/>
+	</imgdir>
+    <imgdir name="9390443">
+		<string name="name" value="Kobold Overseer"/>
+	</imgdir>
+    <imgdir name="9390317">
+		<string name="name" value="Bernie"/>
+		<string name="d0" value="We'd better get this done before it gets any colder."/>
+		<string name="d1" value="We'd better get this done before it gets any colder."/>
+		<string name="n0" value="I wish there were something FUN to do around here."/>
+		<string name="n1" value="I wish there were something FUN to do around here."/>
+	</imgdir>
+    <imgdir name="9390318">
+		<string name="name" value="Papa Tom"/>
+		<string name="d0" value="Hmm? Do you have something to say to me?"/>
+		<string name="d1" value="Hmm? Do you have something to say to me?"/>
+		<string name="n0" value="Don't mess around so much."/>
+		<string name="n1" value="Don't mess around so much."/>
+	</imgdir>
+    <imgdir name="9390319">
+		<string name="name" value="Jenny's Dad"/>
+		<string name="n0" value="ZzZzzZzz"/>
+		<string name="n1" value="ZzZzzZzz"/>
+		<string name="d0" value="Whoa, I dozed off."/>
+		<string name="d1" value="Whoa, I dozed off."/>
+	</imgdir>
+    <imgdir name="9390324">
+		<string name="name" value="Grandpa Tom"/>
+		<string name="d0" value="The winds are cool, the sun is warm, and I need a nap!"/>
+		<string name="d1" value="The winds are cool, the sun is warm, and I need a nap!"/>
+		<string name="n0" value="The winds are cool, the sun is warm, and I need a nap!"/>
+		<string name="n1" value="The winds are cool, the sun is warm, and I need a nap!"/>
+	</imgdir>
+    <imgdir name="9390466">
+		<string name="name" value="Kyrin"/>
+		<string name="n0" value="Welcome aboard the Nautilus."/>
+		<string name="n1" value="How are you feeling?"/>
+		<string name="d0" value="How are you feeling?"/>
+		<string name="d1" value="How are you feeling?"/>
+	</imgdir>
+    <imgdir name="9390473">
+		<string name="name" value="Vicky"/>
+	</imgdir>
+    <imgdir name="9390474">
+		<string name="name" value="Stalinko"/>
+	</imgdir>
+    <imgdir name="9201257">
+		<string name="name" value="Maple Administrator"/>
+		<string name="d0" value="Hello! Welcome to Maple World!"/>
+		<string name="n0" value="Are you enjoying the sights of Maple World?"/>
+		<string name="n1" value="Feel free to talk to me anytime if you need my help."/>
+		<string name="d1" value="Hello there! Hope you're have a great time playing MapleStory! I'll see you at the next great event!"/>
+	</imgdir>
+    <imgdir name="9201256">
+		<string name="name" value="Cassandra"/>
+		<string name="n0" value="I know a fun activity or two. Interested?"/>
+		<string name="n1" value="You must be bored. I have something that should pique your interest. Wanna check it out?"/>
+		<string name="n2" value="Of course! You're looking for something to do! I know everything, you know."/>
+		<string name="d1" value="Did you like the story I told you the other day?"/>
+		<string name="d0" value="You want me to tell you what I saw in my crystal ball?"/>
+	</imgdir>
+</imgdir>

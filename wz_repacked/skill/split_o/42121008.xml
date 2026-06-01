@@ -1,0 +1,5 @@
+<imgdir name="42121008">
+        <string name="name" value="Mighty Shikigami Haunting" />
+        <string name="desc" value="Channels the power of Take-mikazuchi, god of lightning, into Shikigami Haunting, adding extra damage and knock-back." />
+        <string name="h" value="Active Effect: Mana Cost: #epCon, Duration: #time, Shikigami Haunting Damage: +#x%, adds knock-back to Shikigami Haunting \nPassive Effect: Shikigami Haunting Damage: +#damR% (Total Damage: +#z%)" />
+    </imgdir>

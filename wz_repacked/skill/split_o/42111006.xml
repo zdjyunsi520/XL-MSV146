@@ -1,0 +1,5 @@
+<imgdir name="42111006">
+        <string name="name" value="Frozen Shikigami Haunting" />
+        <string name="desc" value="Channels Take-minakata, god of water, to imbue freezing energy into Shikigami Haunting." />
+        <string name="h" value="Active Effect: Mana Cost: #epCon, Duration: #time sec, Shikigami Haunting Freeze Chance: #prop%, Freeze Duration: #subTime sec. The freeze breaks if the target takes damage #x times and receives #y% damage.\nPassive Effect: Shikigami Hauntind Damage: #damR% (Total Damage: +#z%)" />
+    </imgdir>

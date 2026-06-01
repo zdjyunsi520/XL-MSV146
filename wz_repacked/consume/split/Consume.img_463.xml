@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023177">
+		<string name="desc" value="This Incubator will add one of the best monsters to your farm in Monster Life.\n#cMonsters acquired from the Incubator can have Potentials or be combined.#"/>
+		<string name="name" value="Superior Monster Incubator"/>
+	</imgdir>
+    <imgdir name="2023178">
+		<string name="desc" value="Grants 2 Gems for Monster Life.\r\n#cAdds Gems to your Farm inventory immediately upon use.# "/>
+		<string name="name" value="Monster Life Gem X2 Coupon"/>
+	</imgdir>
+    <imgdir name="2023179">
+		<string name="desc" value="Grants 15 Gems for Monster Life.\r\n#cAdds Gems to your Farm inventory immediately upon use.# "/>
+		<string name="name" value="Monster Life Gem X15 Coupon"/>
+	</imgdir>
+    <imgdir name="2431487">
+		<string name="desc" value="A gift for challengers of the blacksmith god Hephaestus in reaching 13 star enhancements. Double-click to receive a Lv. 150 Tyrant equipment item."/>
+		<string name="name" value="Hephaestus Gift Box"/>
+	</imgdir>
+    <imgdir name="2431489">
+		<string name="desc" value="Contains a medal for the challengers of Hephaestus. Double-click to receive an epic 13-Star medal."/>
+		<string name="name" value="13-Star Medal Box"/>
+	</imgdir>
+    <imgdir name="2431490">
+		<string name="name" value="Double Green Frog Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to get a #c30 day# [Double Frog Mount].\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2431491">
+		<string name="name" value="Blue Scooter Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Blue Scooter] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431492">
+		<string name="name" value="Pink Scooter Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Pink Scooter] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431493">
+		<string name="name" value="Orange Mushroom 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Orange Mushroom] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431494">
+		<string name="name" value="Ostrich Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Ostrich] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431495">
+		<string name="name" value="Yeti Rider 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Yeti Rider] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431496">
+		<string name="name" value="Witch's Broomstick Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Witch's Broomstick] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431497">
+		<string name="name" value="Croko Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Croko] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431498">
+		<string name="name" value="Nimbus Cloud Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Nimbus Cloud] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431499">
+		<string name="name" value="Race Kart Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Race Kart] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431500">
+		<string name="name" value="Motorcycle Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Motorcycle] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431501">
+		<string name="name" value="Charge! Toy Trojan Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Charge! Toy Trojan] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431502">
+		<string name="name" value="Black Scooter Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Black Scooter] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431503">
+		<string name="name" value="Rooster Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Rooster] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431504">
+		<string name="name" value="Owl Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Owl] mount skill for #c30 days#."/>
+	</imgdir>
+</imgdir>

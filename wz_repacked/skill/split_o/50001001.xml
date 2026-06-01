@@ -1,0 +1,7 @@
+<imgdir name="50001001">
+        <string name="name" value="Recovery" />
+        <string name="desc" value="[Master Level: 3]\nEnables the user to recover HP constantly for 30 sec. \n#cCooldown: 2 min#" />
+        <string name="h1" value="MP Cost: 5, Recover 24 HP over 30 sec" />
+        <string name="h2" value="MP Cost: 10, Recover 48 HP over 30 sec" />
+        <string name="h3" value="MP Cost: 15, Recover 72 HP over 30 sec" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="22181002">
+        <string name="name" value="黑暗迷雾" />
+        <string name="desc" value="生成黑暗寒雾攻击多个敌人。提升暴击率。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，暴击率：+#cr%，冷却时间：#cooltime 秒" />
+        <string name="pdesc" value="生成黑暗寒雾攻击多个敌人。提升暴击率。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，暴击率：+#cr%，冷却时间：#cooltime 秒" />
+    </imgdir>

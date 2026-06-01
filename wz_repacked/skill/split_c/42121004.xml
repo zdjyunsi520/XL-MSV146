@@ -1,0 +1,5 @@
+<imgdir name="42121004">
+        <string name="name" value="束缚暴风" />
+        <string name="desc" value="暂时将敌人化为石头，使其冻结在原地。" />
+        <string name="h" value="精气消耗：#epCon，最大攻击敌人数：#mobCount，攻击次数：#attackCount，伤害：#damage%，石化概率：#prop%，石化持续时间：#time秒\n冷却时间：#cooltime秒" />
+    </imgdir>

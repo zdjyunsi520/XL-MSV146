@@ -1,0 +1,6 @@
+<imgdir name="110000513">
+        <string name="name" value="成长冲刺" />
+        <string name="desc" value="驯兽师的能力随等级提升而增强。\r\n在60级时可获得。" />
+        <string name="pdesc" value="驯兽师每次升级时成长冲刺增加200%，持续30分钟。\r\n同样，成长冲刺每次升级时经验获取翻倍。\r\n这两个效果可以叠加。" />
+        <string name="h" value="#c智力:# +#intX，#c运气:# +#lukX，#c暴击率:# +#cr%，#c最大HP:# +#mhpR%，#c最大MP# +#mmpR%，#cBOSS攻击力# +#bdR%，#c魔法攻击力:# +#madR%，#c物理防御力:# +#pddX，#c魔法防御力:# +#mddX，#c所有异常状态和属性抗性:# +#asrR%" />
+    </imgdir>

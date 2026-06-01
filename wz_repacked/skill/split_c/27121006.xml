@@ -1,0 +1,5 @@
+<imgdir name="27121006">
+        <string name="name" value="秘法投掷" />
+        <string name="desc" value="短时间内无视敌人的防御和抗性！" />
+        <string name="h" value="MP Cost: #mpCon , Ignores monster DEF #x% for #time sec, Ignores monster resistances by #y%" />
+    </imgdir>

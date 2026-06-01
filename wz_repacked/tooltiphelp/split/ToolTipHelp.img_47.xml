@@ -1,0 +1,67 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Wild Boar Land"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Armor Pig Land"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Wild Boar Land"/>
+			</imgdir>
+    <imgdir name="102030200">
+			<imgdir name="0">
+				<string name="Title" value="Burning Heat"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Wild Pig Land"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Burning Heat"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Wild Pig Land"/>
+			</imgdir>
+    <imgdir name="102030300">
+			<imgdir name="0">
+				<string name="Title" value="Ash-Covered Land"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Armor Pig Land"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Ash-Covered Land"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Armor Pig Land"/>
+			</imgdir>
+    <imgdir name="102030400">
+			<imgdir name="0">
+				<string name="Title" value="Burning Heat"/>
+			</imgdir>
+    <imgdir name="102040000">
+			<imgdir name="0">
+				<string name="Title" value="Perion"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Excavation Completion Area"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Perion"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Excavation Completion Area"/>
+			</imgdir>
+    <imgdir name="102040100">
+			<imgdir name="0">
+				<string name="Title" value="Initial Excavation Area"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Relic Excavation Camp"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Initial Excavation Area"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Relic Excavation Camp"/>
+			</imgdir>
+</imgdir>

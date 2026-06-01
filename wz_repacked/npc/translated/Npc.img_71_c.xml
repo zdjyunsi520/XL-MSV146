@@ -1,0 +1,90 @@
+<imgdir name="Npc.img">
+    <imgdir name="1202004">
+		<string name="name" value="普伦"/>
+		<string name="n0" value="谁说企鹅不聪明的？"/>
+		<string name="n1" value="我一直在进行关于失忆症的研究。"/>
+		<string name="d0" value="我的知识水平会帮助你的旅程。"/>
+		<string name="d1" value="我真诚地希望你能恢复记忆。"/>
+	</imgdir>
+    <imgdir name="1204000">
+		<string name="name" value="暗影"/>
+	</imgdir>
+    <imgdir name="1204004">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="1204005">
+		<string name="name" value="特鲁"/>
+		<string name="func" value="情报商人"/>
+		<string name="n0" value="呜呜！"/>
+		<string name="n1" value="哇普哇普！呜呜！"/>
+	</imgdir>
+    <imgdir name="1204007">
+		<string name="name" value="特鲁"/>
+	</imgdir>
+    <imgdir name="1204010">
+		<string name="name" value="达戈斯"/>
+		<string name="func" value="巨人"/>
+	</imgdir>
+    <imgdir name="1204020">
+		<string name="name" value="无名"/>
+		<string name="func" value="暗影战士"/>
+	</imgdir>
+    <imgdir name="1204030">
+		<string name="name" value="存储书架"/>
+	</imgdir>
+    <imgdir name="1204031">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="1209000">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="d0" value="我们必须在黑魔法师来之前离开！"/>
+		<string name="d1" value="我们必须在黑魔法师来之前离开！"/>
+	</imgdir>
+    <imgdir name="1209001">
+		<string name="name" value="难民"/>
+	</imgdir>
+    <imgdir name="1209002">
+		<string name="name" value="难民"/>
+	</imgdir>
+    <imgdir name="1209003">
+		<string name="name" value="3名难民"/>
+	</imgdir>
+    <imgdir name="1209004">
+		<string name="name" value="难民"/>
+	</imgdir>
+    <imgdir name="1209005">
+		<string name="name" value="难民"/>
+	</imgdir>
+    <imgdir name="1209007">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="d0" value="我们现在必须离开！快点！"/>
+		<string name="d1" value="我们现在必须离开！快点！"/>
+	</imgdir>
+    <imgdir name="1300003">
+		<string name="name" value="内政大臣"/>
+		<string name="s0" value="我们必须立即夺回宫殿。"/>
+		<string name="s1" value="那个应该帮助我们的英雄在哪里？"/>
+		<string name="d0" value="我们必须立即夺回宫殿。"/>
+		<string name="d1" value="那个应该帮助我们的英雄在哪里？"/>
+	</imgdir>
+    <imgdir name="1300004">
+		<string name="name" value="魔法大臣"/>
+		<string name="d0" value="我们必须立即夺回宫殿。"/>
+		<string name="d1" value="我们能做什么？"/>
+	</imgdir>
+    <imgdir name="1300005">
+		<string name="name" value="首席保安官"/>
+		<string name="s0" value="佩佩国王，我绝对不会让你逍遥法外！"/>
+		<string name="s1" value="我必须保护蘑菇王。"/>
+		<string name="d0" value="佩佩国王，我绝对不会让你逍遥法外！"/>
+		<string name="d1" value="我必须保护殿下，蘑菇王。"/>
+	</imgdir>
+    <imgdir name="1300007">
+		<string name="name" value="斯卡尔"/>
+		<string name="func" value="皇家蘑菇学者"/>
+		<string name="s0" value="没有什么比研究蘑菇更让我兴奋的了。"/>
+		<string name="s1" value="我是蘑菇帝国的皇家蘑菇学者。"/>
+		<string name="d0" value="没有什么比研究蘑菇更让我兴奋的了。"/>
+		<string name="d1" value="我是蘑菇帝国的皇家蘑菇学者。"/>
+	</imgdir>
+</imgdir>

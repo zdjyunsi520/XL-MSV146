@@ -1,0 +1,73 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Large Forge"/>
+				<string name="Desc" value="Equipment can be crafted near a Forge."/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Mineral Separator"/>
+				<string name="Desc" value="You can refine minerals near a Mineral Separator."/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Herb Boiling Pot"/>
+				<string name="Desc" value="You can make herb oil near the Boiling Pot."/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Jewel Crafting Machine"/>
+				<string name="Desc" value="You can craft accessories near a Jewel Crafting Machine."/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Exit"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Path to the Free Market"/>
+			</imgdir>
+    <imgdir name="690000040">
+			<imgdir name="0">
+				<string name="Title" value="Character Jump(Alt)"/>
+				<string name="Desc" value="Press Alt on keyboard to jump"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Move Character(Arrow Keys)"/>
+				<string name="Desc" value="Move around, climb up the ladder, and use portals using the arrow keys."/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Use Portal(Up)"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="To New Places..."/>
+				<string name="Desc" value="Move to the right to explore new grounds."/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Starting Point"/>
+			</imgdir>
+    <imgdir name="690000000">
+			<imgdir name="0">
+				<string name="Title" value="Use Portal (Up)"/>
+			</imgdir>
+    <imgdir name="690000001">
+			<imgdir name="0">
+				<string name="Title" value="Mushroom Town"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Nina &amp; Sen's House"/>
+			</imgdir>
+    <imgdir name="690000003">
+			<imgdir name="0">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+</imgdir>

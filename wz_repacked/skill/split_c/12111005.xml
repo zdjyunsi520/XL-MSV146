@@ -1,0 +1,7 @@
+<imgdir name="12111005">
+        <string name="name" value="火焰之壁" />
+        <string name="desc" value="暂时创建一道火焰墙壁！墙壁内的怪物将持续受到伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="创建一道暂时的火焰墙壁！墙壁内的怪物将持续受到伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="2321052">
+        <string name="name" value="Heaven&apos;s Door" />
+        <string name="desc" value="Knocks on the door to the heavens to punish enemies and bless your allies at the same time." />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Protects allies from one KO.\nCooldown: #cooltime sec" />
+    </imgdir>

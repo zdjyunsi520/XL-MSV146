@@ -1,0 +1,82 @@
+<imgdir name="Familiar.img">
+    <imgdir name="852">
+			<string name="name" value="Parental Guidance"/>
+			<string name="desc" value="Attack 2 times with 100% chance of piercing 4 enemies."/>
+		</imgdir>
+    <imgdir name="855">
+			<string name="name" value="Poison Clam"/>
+			<string name="desc" value="Attack with 80% chance of poisoning 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="872">
+			<string name="name" value="Old Fox's Tail"/>
+			<string name="desc" value="Attack 3 times with 100% chance to pierce 3 enemies."/>
+		</imgdir>
+    <imgdir name="851">
+			<string name="name" value="Hypno Haze"/>
+			<string name="desc" value="Attack with 80% chance of slowing 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="853">
+			<string name="name" value="Amata Wave"/>
+			<string name="desc" value="Attack 2 times with 80 % chance to knockback 4 enemies ."/>
+		</imgdir>
+    <imgdir name="854">
+			<string name="name" value="Twin Curse"/>
+			<string name="desc" value="Area of effect attack that slows up to 6 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="856">
+			<string name="name" value="Melody of Horror"/>
+			<string name="desc" value="Attack with 100% chance of knocking down 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="857">
+			<string name="name" value="Seasickness"/>
+			<string name="desc" value="Attack 2 times with 100% chance to stun 4 enemies."/>
+		</imgdir>
+    <imgdir name="858">
+			<string name="name" value="Silent Song"/>
+			<string name="desc" value="Attack with 80% chance of slowing 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="859">
+			<string name="name" value="Red Spark's Trap"/>
+			<string name="desc" value="Attack 2 times with 80% chance of piercing 4 enemies."/>
+		</imgdir>
+    <imgdir name="860">
+			<string name="name" value="Sheryl's Provocation"/>
+			<string name="desc" value="Attack with AOE 4 consecutive times to pierce maximum of 4 enemies."/>
+		</imgdir>
+    <imgdir name="861">
+			<string name="name" value="Crow's Rage"/>
+			<string name="desc" value="Area of effect attack that hits 4 consecutive times to knockback up to 4 enemies."/>
+		</imgdir>
+    <imgdir name="862">
+			<string name="name" value="Night Rush"/>
+			<string name="desc" value="Attack 2 times with 100% chance to stun 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="863">
+			<string name="name" value="Sudden Counterattack"/>
+			<string name="desc" value="Attack with 100% chance of knocking down 3 enemies for 10 seconds."/>
+		</imgdir>
+    <imgdir name="864">
+			<string name="name" value="Explosive Ambush"/>
+			<string name="desc" value="Area of effect attack that hits 2 times to significantly slow up to 4 enemies for 10 seconds."/>
+		</imgdir>
+    <imgdir name="865">
+			<string name="name" value="Power Gunner"/>
+			<string name="desc" value="Attack 3 times with 80% chance to knockback 3 enemies."/>
+		</imgdir>
+    <imgdir name="866">
+			<string name="name" value="Dawn's Cry"/>
+			<string name="desc" value="Attack 2 times with 80% chance to stun 3 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="867">
+			<string name="name" value="Kung Fu Critter"/>
+			<string name="desc" value="Attack 2 times with 100 % chance to knockback 4 enemies ."/>
+		</imgdir>
+    <imgdir name="868">
+			<string name="name" value="Rotten Jack-o'-lantern"/>
+			<string name="desc" value="Area of effect attack that hits 2 times to poison up to 6 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="869">
+			<string name="name" value="Heartwarmer"/>
+			<string name="desc" value="Attack 2 times with 80% chance of piercing 4 enemies."/>
+		</imgdir>
+</imgdir>

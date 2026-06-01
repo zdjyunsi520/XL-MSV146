@@ -1,0 +1,7 @@
+<imgdir name="1110013">
+        <string name="name" value="连击协同" />
+        <string name="desc" value="每个连击球增加总攻击力，并提升获得连击球的几率~" />
+        <string name="pdesc" value="每个连击球增加总攻击力，并提升获得连击球的几率~" />
+        <string name="h" value="每次攻击有#prop%几率获得连击球。每个连击球增加总攻击力#damR%。受击时有#subProp几率充能连击球" />
+        <string name="ph" value="每次攻击有#prop%几率获得连击球。每个连击球增加总攻击力#damR%。受击时有#subProp几率充能连击球" />
+    </imgdir>

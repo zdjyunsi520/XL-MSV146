@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2280006">
+		<string name="name" value="[技能书] 挑衅"/>
+		<string name="desc" value="你可以用这本书学习#c挑衅#。\r\n职业：4转飞侠\r\n条件：未获得#c挑衅#"/>
+	</imgdir>
+    <imgdir name="2280007">
+		<string name="name" value="[技能书] 进阶连击攻击"/>
+		<string name="desc" value="你可以用这本书学习#c进阶连击攻击#。\r\n职业：英雄\r\n条件：未获得#c进阶连击#"/>
+	</imgdir>
+    <imgdir name="2280008">
+		<string name="name" value="[技能书] 进阶蓄力"/>
+		<string name="desc" value="你可以用这本书学习#c进阶蓄力#。\r\n职业：圣骑士\r\n条件：未获得#c进阶蓄力#"/>
+	</imgdir>
+    <imgdir name="2280009">
+		<string name="name" value="[技能书] 天使射线"/>
+		<string name="desc" value="你可以用这本书学习#c天使射线#。\r\n职业：主教\r\n条件：未获得#c天使射线#"/>
+	</imgdir>
+    <imgdir name="2280010">
+		<string name="name" value="[技能书] 三飞"/>
+		<string name="desc" value="你可以用这本书学习#c三飞#。\r\n职业：隐士\r\n条件：未获得#c三飞#"/>
+	</imgdir>
+    <imgdir name="2280011">
+		<string name="name" value="古代冰粉"/>
+		<string name="desc" value="这是一包装满古代冰粉的东西。如果你吃这个，你会感到寒冷并且可以学习冰霜恶魔。"/>
+	</imgdir>
+    <imgdir name="2280012">
+		<string name="name" value="[技能书] 突进"/>
+		<string name="desc" value="你可以用这本书学习#c突进#。\r\n职业：4转战士\r\n条件：未获得#c突进#"/>
+	</imgdir>
+    <imgdir name="2280013">
+		<string name="name" value="[技能书] 终极打击"/>
+		<string name="desc" value="可以学习#c终极打击#技能的技能书。\n职业：4转阿岚\n条件：#c终极打击#不可用"/>
+	</imgdir>
+    <imgdir name="2280014">
+		<string name="name" value="[技能书] 高级防御"/>
+		<string name="desc" value="可以学习#c高级防御#技能的技能书。\n职业：4转阿岚\n条件：#c高级防御#不可用"/>
+	</imgdir>
+    <imgdir name="2280015">
+		<string name="name" value="[技能书] 连击风暴"/>
+		<string name="desc" value="可以学习#c连击风暴#技能的技能书。\n职业：4转阿岚\n条件：#c连击风暴#不可用"/>
+	</imgdir>
+    <imgdir name="2280016">
+		<string name="name" value="[技能书] 连击屏障"/>
+		<string name="desc" value="可以学习#c连击屏障#技能的技能书。\n职业：4转阿岚\n条件：#c连击屏障#不可用"/>
+	</imgdir>
+    <imgdir name="2280017">
+		<string name="name" value="[技能书] 猪的弱点"/>
+		<string name="desc" value="可以学习#c猪的弱点#技能的技能书。\n条件：#c猪的弱点#不可用"/>
+	</imgdir>
+    <imgdir name="2280018">
+		<string name="name" value="[技能书] 树桩的弱点"/>
+		<string name="desc" value="可以学习#c树桩的弱点#技能的技能书。\n条件：#c树桩的弱点#不可用"/>
+	</imgdir>
+    <imgdir name="2280019">
+		<string name="name" value="[技能书] 史莱姆的弱点"/>
+		<string name="desc" value="可以学习#c史莱姆的弱点#技能的技能书。\n条件：#c史莱姆的弱点#不可用"/>
+	</imgdir>
+    <imgdir name="2280026">
+		<string name="name" value="[技能书] 火焰轮"/>
+		<string name="desc" value="可以学习#c火焰轮#技能的技能书。\n职业：埃文\n条件：#c火焰轮#不可用"/>
+	</imgdir>
+    <imgdir name="2280027">
+		<string name="name" value="[技能书] 魔法精通"/>
+		<string name="desc" value="可以学习#c魔法精通#技能的技能书。\n职业：埃文\n条件：#c魔法精通#不可用"/>
+	</imgdir>
+    <imgdir name="2280028">
+		<string name="name" value="[技能书] 黑暗迷雾"/>
+		<string name="desc" value="可以学习#c黑暗迷雾#技能的技能书。\n职业：埃文\n条件：#c黑暗迷雾#不可用"/>
+	</imgdir>
+    <imgdir name="2280029">
+		<string name="name" value="[技能书] 灵魂石"/>
+		<string name="desc" value="可以学习#c灵魂石#技能的技能书。\n职业：埃文\n条件：#c灵魂石#不可用"/>
+	</imgdir>
+    <imgdir name="2280030">
+		<string name="name" value="[技能书] 终极斩击"/>
+		<string name="desc" value="可以用来学习#c终极斩击#的技能书。\n职业：刀神\n要求：在获得#c终极斩击#之前。"/>
+	</imgdir>
+    <imgdir name="2280031">
+		<string name="name" value="[技能书] 幻影打击"/>
+		<string name="desc" value="你可以用这本书学习#c幻影打击#。\n职业：双弩\n条件：未获得#c幻影打击#。"/>
+	</imgdir>
+</imgdir>

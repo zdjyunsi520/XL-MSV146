@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032811">
+			<string name="name" value="Monster Purple Crystal"/>
+			<string name="desc" value="A purple crystal from a monster. It is used as one of Gaga's research materials."/>
+		</imgdir>
+    <imgdir name="4032812">
+			<string name="name" value="Gold Richie's Ignition Key"/>
+			<string name="desc" value="An ignition key that will test Gold Richie's special weapon. It is painted in gold, and Gold Richie's diamond emblem is engraved on it."/>
+		</imgdir>
+    <imgdir name="4032813">
+			<string name="name" value="Ratz-in-a-Mouse-Trap"/>
+			<string name="desc" value="Ratz caught in a mouse trap."/>
+		</imgdir>
+    <imgdir name="4032821">
+			<string name="name" value="Mugwort Extract"/>
+			<string name="desc" value="Extract from 100%-Korean-soil Mugwort."/>
+		</imgdir>
+    <imgdir name="4032822">
+			<string name="name" value="Red Mango Syrup"/>
+			<string name="desc" value="Syrup made from the sweet-and-sour red mango. It's clear and shines brightly with red."/>
+		</imgdir>
+    <imgdir name="4032823">
+			<string name="name" value="Gardenia Extract"/>
+			<string name="desc" value="Extract from a yellow gardenia fruit. It's perfect for food coloring."/>
+		</imgdir>
+    <imgdir name="4032824">
+			<string name="name" value="Pine Needle"/>
+			<string name="desc" value="A needle from a pine tree. Adds extra flavor to Song Pyun treats."/>
+		</imgdir>
+    <imgdir name="4032825">
+			<string name="name" value="Sesame Oil"/>
+			<string name="desc" value="An oil made from crushed sesame seeds. Adding it to Song Pyun treats gives them an added sheen."/>
+		</imgdir>
+    <imgdir name="4032826">
+			<string name="name" value="Rice Flour"/>
+			<string name="desc" value="Glutinous Rice Flour made from rice. Great for rice cakes."/>
+		</imgdir>
+    <imgdir name="4032827">
+			<string name="name" value="Moonlight Sonata Sheet Music"/>
+			<string name="desc" value="Sheet music to the legendary piece, Moonlight Sonata. Due to its rarity, it's traded at a high price among hard-core collectors."/>
+		</imgdir>
+    <imgdir name="4032828">
+			<string name="name" value="Music Box Cylinder"/>
+			<string name="desc" value="A metal cylinder used to make a music box."/>
+		</imgdir>
+    <imgdir name="4032829">
+			<string name="name" value="Moonlight Sonata Music Box"/>
+			<string name="desc" value="A music box that plays Moonlight Sonata when wound up. It was specially created by Gold Richie."/>
+		</imgdir>
+    <imgdir name="4032831">
+			<string name="name" value="Jenn's Brother"/>
+			<string name="desc" value="Jenn's brother who was trapped in the Lion King's Castle. Better bring him to Jenn."/>
+		</imgdir>
+    <imgdir name="4032832">
+			<string name="name" value="Key to the First Tower"/>
+			<string name="desc" value="A key that can open the Roof of the First Tower at the Lion King's Castle."/>
+		</imgdir>
+    <imgdir name="4032833">
+			<string name="name" value="Key to the Second Tower"/>
+			<string name="desc" value="A key that can open the Roof of the Second Tower at the Lion King's Castle."/>
+		</imgdir>
+    <imgdir name="4032834">
+			<string name="name" value="Key to the Third Tower"/>
+			<string name="desc" value="A key that can open the Roof of the Third Tower at the Lion King's Castle."/>
+		</imgdir>
+    <imgdir name="4032835">
+			<string name="name" value="Dirty Magic Scroll of the Knight"/>
+			<string name="desc" value="A magic scroll that the Lion King gave to his knights. It's dirty and doesn't work anymore."/>
+		</imgdir>
+    <imgdir name="4032836">
+			<string name="name" value="Key to the Rose Garden"/>
+			<string name="desc" value="A key to the Rose Garden that the Lion King made for his queen, Ifia."/>
+		</imgdir>
+    <imgdir name="4032837">
+			<string name="name" value="Flower Book"/>
+			<string name="desc" value="A flower book that the Lion King and Queen Ifia made together."/>
+		</imgdir>
+    <imgdir name="4032838">
+			<string name="name" value="Alliance Badge"/>
+			<string name="desc" value="Proof of Alliance service carried by the soldiers who attacked the Lion King's Castle."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2044603">
+		<string name="name" value="Scroll for Crossbow for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044604">
+		<string name="name" value="Dark scroll for Crossbow for ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044605">
+		<string name="name" value="Dark scroll for Crossbow for ATT 30%"/>
+		<string name="desc" value="Improves Weapon Attack on crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044606">
+		<string name="name" value="Scroll for Crossbow for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044607">
+		<string name="name" value="Scroll for Crossbow for ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044608">
+		<string name="name" value="[6th Anniversary] Scroll for Crossbow for ATT 40%"/>
+		<string name="desc" value="Improves Attack on Maple Anniversary Crossbows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nWeapon Attack: +3\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044611">
+		<string name="name" value="King Pepe's 60% Scroll for Crossbow Attacks"/>
+		<string name="desc" value="Improves Attack on King Pepe Eagle Crows."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044612">
+		<string name="name" value="Scroll for Crossbow for ATT 100%"/>
+		<string name="desc" value="Improves attack on crossbow.\nSuccess rate:100%, weapon attack+2, accuracy+3"/>
+	</imgdir>
+    <imgdir name="2044613">
+		<string name="name" value="Scroll for Crossbow for ATT 50%"/>
+		<string name="desc" value="Improves attack on crossbow.\nSuccess rate:50%, weapon attack+5, DEX+1, STR+1"/>
+	</imgdir>
+    <imgdir name="2044700">
+		<string name="name" value="Scroll for Claw for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2044701">
+		<string name="name" value="Scroll for Claw for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044702">
+		<string name="name" value="Scroll for Claw for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044703">
+		<string name="name" value="Scroll for Claw for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nLUK: +1\r\nWeapon Attack: +5\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044704">
+		<string name="name" value="Dark Scroll for Claw for ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044705">
+		<string name="name" value="Dark scroll for Claw for ATT 30%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044706">
+		<string name="name" value="Scroll for Claw for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044707">
+		<string name="name" value="Scroll for Claw for ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nLUK: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044708">
+		<string name="name" value="[6th Anniversary] Scroll for Claw for ATT 40%"/>
+		<string name="desc" value="Improves Attack on Maple Anniversary Claws."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nWeapon Attack: +3\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044711">
+		<string name="name" value="King Pepe's 60% Scroll for Claw Attacks"/>
+		<string name="desc" value="Improves Attack on King Pepe Dark Guardians."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044712">
+		<string name="name" value="Scroll for Claw for ATT 100%"/>
+		<string name="desc" value="Improves attack on claw.\nSuccess rate:100%, weapon attack+2, accuracy+3"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="4120019">
+        <string name="name" value="夜行者印记" />
+        <string name="desc" value="进一步强化暗杀印记，提升几率、伤害和射出的飞星数量~" />
+        <string name="h" value="攻击时以#prop%几率留下印记。再次攻击将产生#bulletCount个飞星，造成#damage% + 玩家等级的#x%伤害。" />
+    </imgdir>

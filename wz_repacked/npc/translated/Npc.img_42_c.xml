@@ -1,0 +1,87 @@
+<imgdir name="Npc.img">
+    <imgdir name="2220003">
+		<string name="name" value="幻影"/>
+	</imgdir>
+    <imgdir name="2220004">
+		<string name="name" value="夜光"/>
+	</imgdir>
+    <imgdir name="2220005">
+		<string name="name" value="埃文"/>
+	</imgdir>
+    <imgdir name="2220006">
+		<string name="name" value="木武"/>
+	</imgdir>
+    <imgdir name="2220007">
+		<string name="name" value="劳雷尔"/>
+	</imgdir>
+    <imgdir name="22001">
+		<string name="name" value="瓦西里"/>
+		<string name="n0" value="广阔的世界在等待！"/>
+		<string name="n1" value="一切成功的关键，尤其是航海，就是做好准备。"/>
+		<string name="d0" value="广阔的世界在等待！"/>
+		<string name="d1" value="一切成功的关键，尤其是航海，就是做好准备。"/>
+	</imgdir>
+    <imgdir name="9390100">
+		<string name="name" value="希拉"/>
+	</imgdir>
+    <imgdir name="9390101">
+		<string name="name" value="??????"/>
+	</imgdir>
+    <imgdir name="2144021">
+		<string name="name" value="阿卡利姆"/>
+	</imgdir>
+    <imgdir name="9390102">
+		<string name="name" value="未知装置"/>
+	</imgdir>
+    <imgdir name="9390103">
+		<string name="name" value="星木"/>
+		<string name="n0" value="这里应该很安全。"/>
+		<string name="n1" value="我想念你贝拉...我可爱的贝拉..."/>
+	</imgdir>
+    <imgdir name="9390104">
+		<string name="name" value="迪迪"/>
+		<string name="n0" value="我想休息一下。"/>
+		<string name="n1" value="别打扰我！"/>
+	</imgdir>
+    <imgdir name="9390105">
+		<string name="name" value="德雷宾"/>
+		<string name="func" value="交易碎片"/>
+	</imgdir>
+    <imgdir name="9390106">
+		<string name="name" value="云来"/>
+		<string name="n0" value="我会结婚吗？"/>
+		<string name="n1" value="嘿...我饿了..."/>
+	</imgdir>
+    <imgdir name="9390107">
+		<string name="name" value="拜金"/>
+		<string name="n0" value="我想念红心城堡..."/>
+		<string name="n1" value="为什么我们被关起来？"/>
+	</imgdir>
+    <imgdir name="9390108">
+		<string name="name" value="约翰"/>
+		<string name="n0" value="...."/>
+	</imgdir>
+    <imgdir name="9390109">
+		<string name="name" value="格尼"/>
+		<string name="n0" value="我为什么在这里？"/>
+		<string name="n1" value="我为什么会成为这群乌合之众的一员？"/>
+	</imgdir>
+    <imgdir name="9390110">
+		<string name="name" value="贾哈拉"/>
+		<string name="n0" value="帮帮我们。"/>
+		<string name="n1" value="我能做什么..."/>
+	</imgdir>
+    <imgdir name="9390111">
+		<string name="name" value="杰杰"/>
+		<string name="n0" value="我必须找到一些答案。"/>
+		<string name="d0" value="我好奇得像一只三眼花园猪..."/>
+		<string name="d1" value="我好奇得像一只三眼花园猪..."/>
+	</imgdir>
+    <imgdir name="9390112">
+		<string name="name" value="佩珀"/>
+		<string name="n0" value="嘿，别失去希望。我们恶魔是最坚强的！"/>
+		<string name="n1" value="我们能度过难关。"/>
+		<string name="d0" value="恶魔可以再次伟大...我知道的。"/>
+		<string name="d1" value="恶魔可以再次伟大...我知道的。"/>
+	</imgdir>
+</imgdir>

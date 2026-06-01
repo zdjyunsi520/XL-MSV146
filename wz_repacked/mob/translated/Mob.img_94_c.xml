@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9501004">
+		<string name="name" value="诅咒"/>
+	</imgdir>
+    <imgdir name="9501005">
+		<string name="name" value="中毒"/>
+	</imgdir>
+    <imgdir name="9501006">
+		<string name="name" value="减速"/>
+	</imgdir>
+    <imgdir name="9501007">
+		<string name="name" value="禁用增益"/>
+	</imgdir>
+    <imgdir name="9501008">
+		<string name="name" value="诱惑"/>
+	</imgdir>
+    <imgdir name="9501009">
+		<string name="name" value="免疫武器"/>
+	</imgdir>
+    <imgdir name="9501010">
+		<string name="name" value="免疫魔法"/>
+	</imgdir>
+    <imgdir name="9501011">
+		<string name="name" value="取消元素"/>
+	</imgdir>
+    <imgdir name="9501012">
+		<string name="name" value="减少元素"/>
+	</imgdir>
+    <imgdir name="9501013">
+		<string name="name" value="扩展元素"/>
+	</imgdir>
+    <imgdir name="9501014">
+		<string name="name" value="不死"/>
+	</imgdir>
+    <imgdir name="9501015">
+		<string name="name" value="Boss"/>
+	</imgdir>
+    <imgdir name="9501016">
+		<string name="name" value="怪物图鉴测试"/>
+	</imgdir>
+    <imgdir name="9501017">
+		<string name="name" value="骷髅"/>
+	</imgdir>
+    <imgdir name="9600001">
+		<string name="name" value="公鸡"/>
+	</imgdir>
+    <imgdir name="9600002">
+		<string name="name" value="鸭子"/>
+	</imgdir>
+    <imgdir name="9600003">
+		<string name="name" value="绵羊"/>
+	</imgdir>
+    <imgdir name="9600004">
+		<string name="name" value="山羊"/>
+	</imgdir>
+    <imgdir name="9600005">
+		<string name="name" value="黑山羊"/>
+	</imgdir>
+    <imgdir name="9600006">
+		<string name="name" value="奶牛"/>
+	</imgdir>
+</imgdir>

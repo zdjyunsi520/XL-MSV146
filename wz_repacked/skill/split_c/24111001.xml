@@ -1,0 +1,7 @@
+<imgdir name="24111001">
+        <string name="name" value="完美记忆III" />
+        <string name="desc" value="可以使用从冒险家那里偷来的三转技能。\n被动效果不会生效。\n使用#c技能管理#装备偷来的技能。" />
+        <string name="h" value="MP Cost: MP to use the equipped skill.\nSkill Level of the stolen skill cannot be over #x" />
+        <string name="pdesc" value="可以使用从冒险家那里偷来的三转技能。\n被动效果不会生效。\n使用#c技能管理#装备偷来的技能。" />
+        <string name="ph" value="MP Cost: MP to use the equipped skill.\nSkill Level of the stolen skill cannot be over #x" />
+    </imgdir>

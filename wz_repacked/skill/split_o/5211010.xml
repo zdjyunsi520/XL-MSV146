@@ -1,0 +1,8 @@
+<imgdir name="5211010">
+        <string name="name" value="Blackboot Bill" />
+        <string name="desc" value="Summons the mighty Blackboot Bill to blast through enemies and knock them back." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: 6, Damage: #damage%, Knockback Range: #x" />
+        <string name="pdesc" value="Summons the mighty Blackboot Bill to blast through enemies and knock them back." />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: 6, Damage: #damage%, Knockback Range: #x" />
+        <string name="hch" value="MP Cost: #mpCon, Max Enemies Hit: 6, Damage: #damage%, Knockback Chance: #hcProp%, Knockback Range: #x" />
+    </imgdir>

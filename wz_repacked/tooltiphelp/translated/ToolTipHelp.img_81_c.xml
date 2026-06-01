@@ -1,0 +1,77 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="866101000">
+			<imgdir name="0">
+				<string name="Title" value="东郊"/>
+			</imgdir>
+    <imgdir name="866103000">
+			<imgdir name="0">
+				<string name="Title" value="警告：小心狼！"/>
+			</imgdir>
+    <imgdir name="866105000">
+			<imgdir name="0">
+				<string name="Title" value="警告：小心狼！"/>
+			</imgdir>
+    <imgdir name="866102000">
+			<imgdir name="0">
+				<string name="Title" value="狼树林"/>
+			</imgdir>
+    <imgdir name="866107000">
+			<imgdir name="0">
+				<string name="Title" value="警告：小心狼！"/>
+			</imgdir>
+    <imgdir name="866108000">
+			<imgdir name="0">
+				<string name="Title" value="狼树林"/>
+			</imgdir>
+    <imgdir name="866190000">
+			<imgdir name="0">
+				<string name="Title" value="东郊"/>
+			</imgdir>
+    <imgdir name="866191000">
+			<imgdir name="0">
+				<string name="Title" value="狼树林"/>
+			</imgdir>
+    <imgdir name="866192000">
+			<imgdir name="0">
+				<string name="Title" value="警告：小心狼！"/>
+			</imgdir>
+    <imgdir name="PortalTooltip">
+		<imgdir name="100000000">
+			<imgdir name="Achter00">
+				<string name="Title" value="弓箭手训练学校"/>
+				<imgdir name="Npc">
+					<string name="0" value="Athena Pierce"/>
+				</imgdir>
+    <imgdir name="mistic00">
+				<string name="Title" value="赫内西神秘领域"/>
+				<imgdir name="Npc">
+					<string name="0" value="Doctor Moon"/>
+				</imgdir>
+    <imgdir name="100030000">
+			<string name="quest00" value="犹他的养猪场"/>
+		</imgdir>
+    <imgdir name="211042300">
+			<string name="ps00" value="扎昆祭坛"/>
+		</imgdir>
+    <imgdir name="211042301">
+			<string name="ps00" value="扎昆的祭坛"/>
+		</imgdir>
+    <imgdir name="230040410">
+			<string name="boss00" value="皮亚努斯洞穴"/>
+		</imgdir>
+    <imgdir name="231010000">
+			<string name="out00" value="出口"/>
+		</imgdir>
+    <imgdir name="231000000">
+			<string name="in00" value="樱花城堡花园1"/>
+		</imgdir>
+    <imgdir name="231040400">
+			<string name="SC_boss_enter" value="大名的房间(樱花城堡)"/>
+		</imgdir>
+    <imgdir name="231050000">
+			<string name="SC_boss_out00" value="月之塔5楼"/>
+		</imgdir>
+    <imgdir name="231050001">
+			<string name="SC_boss_out00" value="月之塔5楼"/>
+		</imgdir>
+</imgdir>

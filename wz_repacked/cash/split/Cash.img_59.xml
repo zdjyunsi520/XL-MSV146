@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5550000">
+		<string name="name" value="Additional Pendant Slot"/>
+		<string name="desc" value="Available for 30 days.\r\nWhen you purchase this item, you will be able to equip an additional pendant slot item. #cHowever, characters will not be able to equip more than 1 Special Equipment Item#"/>
+	</imgdir>
+    <imgdir name="5550001">
+		<string name="name" value="Add Pendant Slots: 7 Days"/>
+		<string name="desc" value="Allows you to equip 1 additional pendant for 7 days. #cHowever, you may still only equip 1 of any unique-equip item.#"/>
+	</imgdir>
+    <imgdir name="5550002">
+		<string name="name" value="Additional Pendant Slot"/>
+		<string name="desc" value="When you purchase this item, you will be able to equip an additional pendant slot item. #cHowever, characters will not be able to equip more than 1 Special Equipment Item#"/>
+	</imgdir>
+    <imgdir name="5570000">
+		<string name="name" value="Vicious' Hammer"/>
+		<string name="desc" value="Temper the equipped item with Vicious' Hammer to increase available upgrade by 1. It can be used maximum 2 times per item. Warning: You cannot use it on the Horntail Necklace."/>
+	</imgdir>
+    <imgdir name="5590000">
+		<string name="name" value="High-Five Stamp"/>
+		<string name="desc" value="Can equip items that are 5 levels above your current level."/>
+	</imgdir>
+    <imgdir name="5610000">
+		<string name="name" value="Vega's Spell (10%)"/>
+		<string name="desc" value="This winning spell from Vega enables a 30% success rate on a 10% scroll. Please check the scroll description to confirm that Vega's Spell is available for the scroll you choose."/>
+	</imgdir>
+    <imgdir name="5610001">
+		<string name="name" value="Vega's Spell (60%)"/>
+		<string name="desc" value="This winning spell from Vega enables a 90% success rate on a 60% scroll. Please check the scroll description to confirm that Vega's Spell is available for the scroll you choose."/>
+	</imgdir>
+    <imgdir name="5620000">
+		<string name="name" value="Slash Storm 20 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the master level of #cSlash Storm# to 20 and grants 1 skill level when used.\nJob: Blade Acolyte \nRequirement: Skill Lv. 5 or above \n#cCan only be used once per character."/>
+	</imgdir>
+    <imgdir name="5620001">
+		<string name="name" value="Flying Assaulter 20 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the max level of #cFlying Assaulter# to 20 and grants 1 skill level when used.\nJob: Blade Specialist \nRequirement: Skill Lv. 5 or above\n#cCan only be used once per character."/>
+	</imgdir>
+    <imgdir name="5620002">
+		<string name="name" value="Mirror Image 20 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the max level of #cMirror Image# to 20 and grants 1 skill level when used.\nJob: Blade Lord \nRequirement: Skill Lv. 10 or above\n#cCan only be used once per character."/>
+	</imgdir>
+    <imgdir name="5620003">
+		<string name="name" value="Shadow Meld 20 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the max level of #cShadow Meld# to 20 and grants 1 skill level when used.\nJob: Blade Lord \nRequirement: Skill Lv. 10 or above\n#cCan only be used once per character. "/>
+	</imgdir>
+    <imgdir name="5620004">
+		<string name="name" value="Blade Fury 30 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the master level of #cBlade Fury# to 30 and grants 1 skill level when used.\nJob: Dual Blade \nRequirement: Skill Lv. 10 or above\n#cCan only be used once per character."/>
+	</imgdir>
+    <imgdir name="5620005">
+		<string name="name" value="Thorns 30 Mastery"/>
+		<string name="desc" value="Has a 100% chance to increase the master level of #cThorns# to 30 and grants 1 skill level when used.\nJob: Blade Master \nRequirement: Skill Lv. 10 or above \n#cCan only be used once per character."/>
+	</imgdir>
+    <imgdir name="5620006">
+		<string name="name" value="Magic Guard Mastery Book"/>
+		<string name="desc" value="Has a 100% chance of raising the Master Level of the #cMagic Guard# skill to 20.\nJob: Evan\nCondition: Skill must be at least level 5\n#cOnly usable once per character"/>
+	</imgdir>
+    <imgdir name="5620007">
+		<string name="name" value="Magic Booster Mastery Book"/>
+		<string name="desc" value="Has a 100% chance of raising the Master Level of the #cMagic Booster# skill to 20.\nJob: Evan\nCondition: Skill must be at least level 5\n#cOnly usable once per character"/>
+	</imgdir>
+    <imgdir name="5620008">
+		<string name="name" value="Critical Magic Mastery Book"/>
+		<string name="desc" value="Has a 100% chance of raising the Master Level of the #cCritical Magic# skill to 15.\nJob: Evan\nCondition: Skill must be at least level 5\n#cOnly usable once per character"/>
+	</imgdir>
+    <imgdir name="5640000">
+		<string name="name" value="Pam's Song"/>
+		<string name="desc" value="If your scroll fails, you can use this item to prevent an upgrade slot from being used."/>
+	</imgdir>
+    <imgdir name="5660000">
+		<string name="name" value="Quest Deliverer Thomas"/>
+		<string name="desc" value="Thomas delivers available quests to you, no matter how far you are from the quest giver! (Not available for certain quests.)"/>
+	</imgdir>
+    <imgdir name="5660001">
+		<string name="name" value="Quest Completer Alice"/>
+		<string name="desc" value="Alice lets you turn in quests you've completed, even when you're nowhere near the NPC you're supposed to turn it in to! (Not available for certain quests.)"/>
+	</imgdir>
+    <imgdir name="5660002">
+		<string name="name" value="Quest Deliverer Thomas"/>
+		<string name="desc" value="Thomas delivers available quests to you, no matter how far you are from the quest giver! (Not available for certain quests.)"/>
+	</imgdir>
+</imgdir>

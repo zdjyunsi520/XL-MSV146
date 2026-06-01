@@ -1,0 +1,5 @@
+<imgdir name="3120018">
+        <string name="name" value="装甲突破" />
+        <string name="desc" value="攻击时有几率#c少量无视敌人防御#，并#c按敌人防御率比例造成额外伤害#。每次效果未触发时，#c触发几率会增加#~" />
+        <string name="h" value="攻击时以#prop%几率无视敌人防御#z%，并造成敌人防御率#x%的额外伤害。效果未触发时触发几率最多叠加#w次" />
+    </imgdir>

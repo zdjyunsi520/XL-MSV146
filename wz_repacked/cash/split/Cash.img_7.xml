@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5030027">
+		<string name="name" value="[3-Day] Granny's Food Stand"/>
+		<string name="desc" value="Set up this store on the Free Market, and this Granny will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items at this shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5030029">
+		<string name="name" value="Black Friday Shop"/>
+		<string name="desc" value="Set up this store on the Free Market, and this Black Friday Shop will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items at this shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5040001">
+		<string name="name" value="Teleport Coke"/>
+		<string name="desc" value="By drinking sweet refreshing #cCoca-Cola#, it ables you to #cteleport to one of the remembered maps#. You can also #cteleport to the map where specific character is located# in the same channel.  Unable the teleport to the maps where teleport is limited."/>
+	</imgdir>
+    <imgdir name="5040004">
+		<string name="name" value="Hyper Teleport Rock"/>
+		<string name="desc" value="Allows you to #cteleport to most other locations through the World Map [W]#. \nAlso allows you to #cmove to a map where a specified character is# if they are in the same world and channel. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#."/>
+	</imgdir>
+    <imgdir name="5040009">
+		<string name="name" value="Hyper Teleport Rock"/>
+		<string name="desc" value="Allows you to #cteleport to most other locations through the World Map [W]#. \nAlso allows you to #cmove to a map where a specified character is# if they are in the same world and channel. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#."/>
+	</imgdir>
+    <imgdir name="5040014">
+		<string name="name" value="The Teleport Rock"/>
+		<string name="desc" value="Remembers 5 maps of your choice. This rock will enable you to #cteleport to the map you remembered#. It can even allow you to #cmove to the map where a certain character is#, provided that the person is in the same channel at the same world. This item cannot be used to teleport in between continents. Note: This item will disappear after one use."/>
+	</imgdir>
+    <imgdir name="5050000">
+		<string name="name" value="AP Reset"/>
+		<string name="desc" value="This #cscroll allows you to move 1 AP from one stat to another#. The lowest AP level that a stat can have is 4"/>
+	</imgdir>
+    <imgdir name="5050005">
+		<string name="name" value="Evan SP Reset (1st/2nd Skill) "/>
+		<string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 1st or 2nd Job Skill.#"/>
+	</imgdir>
+    <imgdir name="5050006">
+		<string name="name" value="Evan SP Reset (3rd/4th Skill) "/>
+		<string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 3rd or 4th Job Skill.#"/>
+	</imgdir>
+    <imgdir name="5050007">
+		<string name="name" value="Evan SP Reset (5th/6th Skill) "/>
+		<string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 5th or 6th Job Skill.#"/>
+	</imgdir>
+    <imgdir name="5050008">
+		<string name="name" value="Evan SP Reset (7th/8th Skill) "/>
+		<string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 7th or 8th Job Skill.#"/>
+	</imgdir>
+    <imgdir name="5050009">
+		<string name="name" value="Evan SP Reset (9th/10th Skill) "/>
+		<string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 9th or 10th Job Skill.#"/>
+	</imgdir>
+    <imgdir name="5050100">
+		<string name="name" value="AP Reset Scroll"/>
+		<string name="desc" value="#cResets all stats#, excluding the #cAP invested in HP/MP#."/>
+	</imgdir>
+    <imgdir name="5051000">
+		<string name="name" value=" "/>
+		<string name="desc" value=" "/>
+	</imgdir>
+    <imgdir name="5051001">
+		<string name="name" value="SP Reset Scroll"/>
+		<string name="desc" value="When used, #call skills, excluding beginner skills, will be reset#."/>
+	</imgdir>
+    <imgdir name="5060000">
+		<string name="name" value="Item Tag"/>
+		<string name="desc" value="Engraves the owner's name on a piece of equipment. #cDrag the item icon on to the equipment piece of your choice# to engrave your character's name on it. \nCannot be used on previously engraved equipment.\nIf used on an item with a crafter's name attached, #cthe crafter's name will be overwritten with the newest name#. \nCannot be used on Zero weapons. "/>
+	</imgdir>
+    <imgdir name="5060001">
+		<string name="name" value="Item Guard"/>
+		<string name="desc" value="Double-click the lock and drag an item into the slot to prevent non-quest items from being #cvendor traded, exchanged, dropped, scrolled, or used by some cash items#."/>
+	</imgdir>
+    <imgdir name="5060002">
+		<string name="name" value="Incubator"/>
+		<string name="desc" value="An equipment needed to open the #ceggs from pigme#.  Pigme eggs canve incubated by double clicking the incubator."/>
+	</imgdir>
+    <imgdir name="5060003">
+		<string name="name" value="Peanut Machine"/>
+		<string name="desc" value="An odd-looking contraption that cracks #cPeanuts#. Double-click the Peanut Machine to use it.\r\n"/>
+	</imgdir>
+    <imgdir name="5060004">
+		<string name="name" value="Microwave"/>
+		<string name="desc" value="A device used to melt #cIce Cubes#. Double-click the microwave to use it."/>
+	</imgdir>
+</imgdir>

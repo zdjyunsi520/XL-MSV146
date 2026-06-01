@@ -1,0 +1,5 @@
+<imgdir name="101120109">
+        <string name="name" value="免疫屏障" />
+        <string name="desc" value="生成保护之盾，短时间内有几率吸收伤害。#c护盾创建瞬间你将处于无敌状态。" />
+        <string name="h" value="以#prop%几率响应敌人攻击创建屏障，抵挡最多#x%最大HP持续#time秒。" />
+    </imgdir>

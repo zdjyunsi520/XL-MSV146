@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046246">
+		<string name="name" value="Gallant Scroll for Armor HP 15%"/>
+		<string name="desc" value="Improves Max HP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046247">
+		<string name="name" value="Gallant Scroll for Armor MP 65%"/>
+		<string name="desc" value="Improves Max MP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax MP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2046248">
+		<string name="name" value="Gallant Scroll for Armor MP 15%"/>
+		<string name="desc" value="Improves Max MP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax MP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046249">
+		<string name="name" value="Gallant Scroll for Armor Speed 65%"/>
+		<string name="desc" value="Improves Speed and Jump on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSpeed: +2\r\nJump: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046250">
+		<string name="name" value="Gallant Scroll for Armor Speed 15%"/>
+		<string name="desc" value="Improves Speed and Jump on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSpeed: +4\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046251">
+		<string name="name" value="Joyous 7th Armor Enhancement Dark Scroll 20%"/>
+		<string name="desc" value="Improves Strength, Intelligence, Dexterity, and Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046252">
+		<string name="name" value="Armor Enhancement Scroll 50%"/>
+		<string name="desc" value="Improves Max HP &amp; MP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMax HP: +50\r\nMax MP: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2046253">
+		<string name="name" value="Legends Scroll for Armor STR 20%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046254">
+		<string name="name" value="Legends Scroll for Armor INT 20%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046255">
+		<string name="name" value="Legends Scroll for Armor for DEX 20%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046256">
+		<string name="name" value="Legends Scroll for Armor LUK 20%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046257">
+		<string name="name" value="Legends Dark Scroll for Armor STR 40%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046258">
+		<string name="name" value="Legends Dark Scroll for Armor INT 40%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046259">
+		<string name="name" value="Legends Scroll for Armor for DEX 40%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046260">
+		<string name="name" value="Legends Dark Scroll for Armor LUK 40%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046261">
+		<string name="name" value="Legends Scroll for Armor STR 70%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nWeapon Defense: +10\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046262">
+		<string name="name" value="Legends Scroll for Armor INT 70%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nWeapon Defense: +5\r\nMagic Defense: +10\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046263">
+		<string name="name" value="Legends Scroll for Armor for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046264">
+		<string name="name" value="Legends Scroll for Armor LUK 70%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046265">
+		<string name="name" value="Legends Scroll for Armor STR 20%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+</imgdir>

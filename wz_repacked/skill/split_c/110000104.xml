@@ -1,0 +1,5 @@
+<imgdir name="110000104">
+        <string name="name" value="冰冻诅咒" />
+        <string name="pdesc" value="诅咒对手将其变成冰蜗牛。冰冻量表充能至#c160以上#时可使用。\n[指令: #c↓↑ + 攻击键#]" />
+        <string name="ph" value="冰冻量表消耗: #iceGageCon。变成蜗牛几率: #prop%，蜗牛持续时间: #time秒" />
+    </imgdir>

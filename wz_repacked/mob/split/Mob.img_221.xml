@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2600400">
+		<string name="name" value="Patrol Robot"/>
+	</imgdir>
+    <imgdir name="2600401">
+		<string name="name" value="Water Thief Monster"/>
+	</imgdir>
+    <imgdir name="2600402">
+		<string name="name" value="Dust Box"/>
+	</imgdir>
+    <imgdir name="2600403">
+		<string name="name" value="Streetlight"/>
+	</imgdir>
+    <imgdir name="2600404">
+		<string name="name" value="Patrol Robot S"/>
+	</imgdir>
+    <imgdir name="2600405">
+		<string name="name" value="Guard Robot E"/>
+	</imgdir>
+    <imgdir name="2600406">
+		<string name="name" value="Trash Can"/>
+	</imgdir>
+    <imgdir name="2600407">
+		<string name="name" value="Strange Sign"/>
+	</imgdir>
+    <imgdir name="2600408">
+		<string name="name" value="Serpent"/>
+	</imgdir>
+    <imgdir name="2600409">
+		<string name="name" value="Safety First"/>
+	</imgdir>
+    <imgdir name="2600410">
+		<string name="name" value="Baby Boulder Muncher"/>
+	</imgdir>
+    <imgdir name="2600411">
+		<string name="name" value="Big Boulder Muncher"/>
+	</imgdir>
+    <imgdir name="2600412">
+		<string name="name" value="Big Rock Face"/>
+	</imgdir>
+    <imgdir name="2600413">
+		<string name="name" value="Racoco"/>
+	</imgdir>
+    <imgdir name="2600414">
+		<string name="name" value="Big Spider"/>
+	</imgdir>
+    <imgdir name="2600415">
+		<string name="name" value="Cart Bear"/>
+	</imgdir>
+    <imgdir name="2600416">
+		<string name="name" value="Racaroni"/>
+	</imgdir>
+    <imgdir name="2600417">
+		<string name="name" value="Raco"/>
+	</imgdir>
+    <imgdir name="2600418">
+		<string name="name" value="Ore Muncher"/>
+	</imgdir>
+    <imgdir name="2600419">
+		<string name="name" value="Gigantic Rue Monster"/>
+	</imgdir>
+</imgdir>

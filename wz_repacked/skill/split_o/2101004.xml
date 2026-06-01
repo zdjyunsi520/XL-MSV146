@@ -1,0 +1,7 @@
+<imgdir name="2101004">
+        <string name="name" value="Flame Orb" />
+        <string name="desc" value="Creates and throws a burning orb at multiple enemies. Very effective against Ice Attribute monsters." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Creates and throws a burning orb at multiple enemies. Very effective against Ice Attribute monsters." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

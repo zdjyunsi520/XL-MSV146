@@ -1,0 +1,5 @@
+<imgdir name="80001273">
+        <string name="name" value="咩咩攻击" />
+        <string name="desc" value="以&apos;咩咩咩咩&apos;之力！被灵魂武器召唤时，薛西塞派出他的精英山羊卫队攻击前方怪物~" />
+        <string name="h" value="最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount\n冷却时间: #cooltime秒" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022945">
+		<string name="name" value="超级活力（50分钟）"/>
+		<string name="desc" value="#c双击#获得#c50分钟#的#c武器/魔法攻击+4、移动速度+4、跳跃+4#buff。"/>
+	</imgdir>
+    <imgdir name="2022946">
+		<string name="name" value="超级活力（60分钟）"/>
+		<string name="desc" value="#c双击#获得#c60分钟#的#c武器/魔法攻击+5、移动速度+5、跳跃+5#buff。"/>
+	</imgdir>
+    <imgdir name="2022947">
+		<string name="name" value="战利品喷泉（20分钟）"/>
+		<string name="desc" value="#c双击#使物品掉落率增加30%，持续#c20分钟#。"/>
+	</imgdir>
+    <imgdir name="2022948">
+		<string name="name" value="战利品喷泉（30分钟）"/>
+		<string name="desc" value="#c双击#使物品掉落率增加30%，持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2022949">
+		<string name="name" value="战利品喷泉（40分钟）"/>
+		<string name="desc" value="#c双击#使物品掉落率增加30%，持续#c40分钟#。"/>
+	</imgdir>
+    <imgdir name="2022950">
+		<string name="name" value="战利品喷泉（50分钟）"/>
+		<string name="desc" value="#c双击#使物品掉落率增加30%，持续#c50分钟#。"/>
+	</imgdir>
+    <imgdir name="2022951">
+		<string name="name" value="战利品喷泉（60分钟）"/>
+		<string name="desc" value="#c双击#使物品掉落率增加30%，持续#c60分钟#。"/>
+	</imgdir>
+    <imgdir name="2022952">
+		<string name="name" value="新年年糕汤！"/>
+		<string name="desc" value="新年年糕汤最棒了！HP和MP+500、攻击和魔法攻击+20，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022953">
+		<string name="name" value="新年年糕汤！"/>
+		<string name="desc" value="新年年糕汤最棒了！HP和MP+1000、攻击和魔法攻击+20，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022954">
+		<string name="name" value="新年年糕汤！"/>
+		<string name="desc" value="新年年糕汤最棒了！HP和MP+1500、攻击和魔法攻击+20，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022955">
+		<string name="name" value="新年庆典"/>
+		<string name="desc" value="武器/魔法攻击+40，持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2022956">
+		<string name="name" value="小玫瑰"/>
+		<string name="desc" value="武器/魔法攻击+80，持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2022957">
+		<string name="name" value="武公的神秘药水"/>
+		<string name="desc" value="武公的秘方暂时增强身体，允许更快更强的攻击。\n攻击/魔法攻击+30、速度+10"/>
+	</imgdir>
+    <imgdir name="2022958">
+		<string name="name" value="苏公的欢呼"/>
+		<string name="desc" value="苏公的欢呼，为无极限道馆的挑战者准备。增加获得幸运奖励分数的机会。"/>
+	</imgdir>
+    <imgdir name="2022959">
+		<string name="name" value="甜蜜V巧克力 Lv. 1"/>
+		<string name="desc" value="这些东西充满情人节的爱。攻击/魔法攻击+20、速度+40，持续30分钟。可与除其他甜蜜V巧克力外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022960">
+		<string name="name" value="甜蜜V巧克力 Lv. 2"/>
+		<string name="desc" value="这些东西充满情人节的爱。攻击/魔法攻击+30、速度+40，持续30分钟。可与除其他甜蜜V巧克力外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022961">
+		<string name="name" value="甜蜜V巧克力 Lv. 3"/>
+		<string name="desc" value="这些东西充满情人节的爱。攻击/魔法攻击+40、速度+40，持续30分钟。可与除其他甜蜜V巧克力外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022962">
+		<string name="name" value="额外加速器"/>
+		<string name="desc" value="暂时增加奖励阶段的速度。"/>
+	</imgdir>
+    <imgdir name="2022963">
+		<string name="name" value="莱登的毒药"/>
+		<string name="desc" value="莱登的毒药会让你感觉很糟糕。只有希尔夫人有解药。"/>
+	</imgdir>
+    <imgdir name="2022964">
+		<string name="name" value="超级巧克力"/>
+		<string name="desc" value="恩爱情侣的主食。攻击/魔法攻击+13，持续30分钟。"/>
+	</imgdir>
+</imgdir>

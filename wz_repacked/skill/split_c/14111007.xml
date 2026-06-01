@@ -1,0 +1,5 @@
+<imgdir name="14111007">
+        <string name="name" value="影子飞镖" />
+        <string name="desc" value="释放飞镖之灵，短时间内你可以无限投掷飞镖而不消耗背包中的飞镖。" />
+        <string name="h" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，持续时间：#time秒" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2028140">
+		<string name="name" value="原始化石篮"/>
+		<string name="desc" value="装着化石博物馆用的原始化石的篮子。双击查看内容。"/>
+	</imgdir>
+    <imgdir name="2028147">
+		<string name="name" value="升级值包"/>
+		<string name="desc" value="与基本值包一起使用时，升级武器攻击/魔法攻击buff效果和经验值奖励。持续时间可以1天为单位购买。\n#c购买后立即生效。仅影响经验值奖励和武器攻击/魔法攻击buff。#"/>
+	</imgdir>
+    <imgdir name="2028151">
+		<string name="name" value="臭气弹"/>
+		<string name="desc" value="空气中弥漫着神秘的气味。闻到的人最大HP+10%，持续15分钟。释放的人会假装获得了buff，然后拿自己的狗开玩笑。"/>
+	</imgdir>
+    <imgdir name="2028152">
+		<string name="name" value="花香"/>
+		<string name="desc" value="令人愉悦的清新。闻到花香的人最大MP+10%，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2028153">
+		<string name="name" value="极度时尚"/>
+		<string name="desc" value="对精致服装的执着赐予武器攻击和魔法攻击+30，持续2小时。"/>
+	</imgdir>
+    <imgdir name="2028158">
+		<string name="name" value="幽灵卷轴书：武器"/>
+		<string name="desc" value="这本书通向一个完全由卷轴组成的维度。比由毒拖鞋组成的维度好多了。使用获得1个随机武器卷轴。"/>
+	</imgdir>
+    <imgdir name="2028159">
+		<string name="name" value="幽灵卷轴书：防具"/>
+		<string name="desc" value="这本书通向一个完全由卷轴组成的维度。比由毒拖鞋组成的维度好多了。使用获得1个随机防具卷轴。"/>
+	</imgdir>
+    <imgdir name="2028160">
+		<string name="name" value="幽灵卷轴书：饰品"/>
+		<string name="desc" value="这本书通向一个完全由卷轴组成的维度。比由毒拖鞋组成的维度好多了。使用获得1个随机饰品卷轴。"/>
+	</imgdir>
+    <imgdir name="2030000">
+		<string name="name" value="回城卷轴 - 最近城镇"/>
+		<string name="desc" value="返回最近的城镇。"/>
+	</imgdir>
+    <imgdir name="2030001">
+		<string name="name" value="回城卷轴 - 射手村"/>
+		<string name="desc" value="返回射手村。"/>
+	</imgdir>
+    <imgdir name="2030002">
+		<string name="name" value="回城卷轴 - 魔法密林"/>
+		<string name="desc" value="返回魔法密林。"/>
+	</imgdir>
+    <imgdir name="2030003">
+		<string name="name" value="回城卷轴 - 明珠港"/>
+		<string name="desc" value="返回明珠港。"/>
+	</imgdir>
+    <imgdir name="2030004">
+		<string name="name" value="回城卷轴 - 赫丽希娜"/>
+		<string name="desc" value="返回赫丽希娜。"/>
+	</imgdir>
+    <imgdir name="2030005">
+		<string name="name" value="回城卷轴 - 克里蒂亚斯"/>
+		<string name="desc" value="返回黑暗的克里蒂亚斯。"/>
+	</imgdir>
+    <imgdir name="2030006">
+		<string name="name" value="回城卷轴 - 沉睡森林"/>
+		<string name="desc" value="返回沉睡森林，一个安静黑暗的森林小镇。"/>
+	</imgdir>
+    <imgdir name="2030007">
+		<string name="name" value="回城卷轴 - 死亡矿井"/>
+		<string name="desc" value="返回埃尔德纳特高地的死亡矿井。\n只能在奥里西斯和埃尔德纳特使用。"/>
+	</imgdir>
+    <imgdir name="2030008">
+		<string name="name" value="咖啡牛奶"/>
+		<string name="desc" value="返回最近的城镇。"/>
+	</imgdir>
+    <imgdir name="2030009">
+		<string name="name" value="草莓牛奶"/>
+		<string name="desc" value="返回蘑菇神社。"/>
+	</imgdir>
+    <imgdir name="2030010">
+		<string name="name" value="水果牛奶"/>
+		<string name="desc" value="返回昭和小镇。"/>
+	</imgdir>
+    <imgdir name="2030011">
+		<string name="name" value="指挥中心传送胶囊"/>
+		<string name="desc" value="允许你返回欧米茄 sector指挥中心的传送胶囊。只能在路德里姆区域使用。"/>
+	</imgdir>
+</imgdir>

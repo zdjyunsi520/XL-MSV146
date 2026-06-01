@@ -1,0 +1,271 @@
+<imgdir name="5000150">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value=" Grrr..."/>
+		<string name="c1_s2" value=" ...."/>
+		<string name="c1_f1" value=" ...?"/>
+		<string name="c1_f2" value=" ???"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value=" Grrr~ Yeti will sit~"/>
+		<string name="c2_s2" value=" Yeti follows instructions~ GrrGrr~"/>
+		<string name="c2_s3" value=" Sitting down makes Yeti want to see Pepe~ Grr~"/>
+		<string name="c2_s4" value=" Yeti's feeling good~ Yeti's feeling really good~~ Grr"/>
+		<string name="c2_f1" value=" Yeti doesn't want to sit~ Grr~"/>
+		<string name="c2_f2" value=" Yeti wants to do something different~ Grrr~"/>
+		<string name="c2_f3" value=" Yeti is too shy... to sit... GrrGrr~"/>
+		<string name="c2_f4" value=" Grrr~ Yeti today doesn't want to listen~"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value=" Yeti likes to sit, too~ Yeti's legs are feeling better now~"/>
+		<string name="c3_s2" value=" Yeti sits, and so does the master~ Grrr~"/>
+		<string name="c3_s3" value=" Grr~ Yeti sits, and Yeti sleeps~ Zzzz"/>
+		<string name="c3_s4" value=" Grrr~ Yeti feels good~ Yeti likes sitting down~"/>
+		<string name="c3_f1" value=" Yeti does not understand what the master is saying~ Grr~"/>
+		<string name="c3_f2" value=" Grr~!! Yeti feels like rebelling right now~ Grr~!!"/>
+		<string name="c3_f3" value=" Yeti's really hungry...Grr...."/>
+		<string name="c3_f4" value=" Yeti misses El Nath~ Grrr..."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value=" Grr~ Yeti is good at following the master's orders~"/>
+		<string name="c4_s2" value=" Yeti is good at doing this and others~ Grrr~"/>
+		<string name="c4_s3" value=" Yeti is sitting down very comfortably right now. GrrGrr~"/>
+		<string name="c4_s4" value=" Did Yeti do alright? Grr~ Yeti loves to be commended~ Grr~"/>
+		<string name="c4_f1" value=" .....Yeti didn't hear squat~"/>
+		<string name="c4_f2" value=" Yeti needs to go hunting with the master~ Grr~"/>
+		<string name="c4_f3" value=" Yeti doesn't feel like doing it right now. Yeti will do it later~ Grr~"/>
+		<string name="c4_f4" value=" Yeti does not feel like sitting~ Grr~"/>
+		<string name="c5" value="no|bad|badgirl|badboy"/>
+		<string name="c5_s1" value=" Grrr..."/>
+		<string name="c5_s2" value=" Grr~"/>
+		<string name="c5_f1" value=" Grr?"/>
+		<string name="c5_f2" value=" Grr...Gr..."/>
+		<string name="c6" value="no|bad|badgirl|badboy"/>
+		<string name="c6_s1" value=" Yeti is scared~ Yeti will be good now~ Grrr"/>
+		<string name="c6_s2" value=" Grrr~ Yeti does not act angry~ Grr~"/>
+		<string name="c6_s3" value=" Grr... Yeti is a good Yeti...Grr..."/>
+		<string name="c6_s4" value=" Yeti is sorry~ Yeti won't do it again~ Grr~"/>
+		<string name="c6_f1" value=" Grr!! Yeti is good~!!"/>
+		<string name="c6_f2" value=" Yeti doesn't want to be scolded~ Grrr~!!"/>
+		<string name="c6_f3" value=" If the master keeps scolding Yeti, Yeti will run away~ Grrr!!"/>
+		<string name="c6_f4" value=" Yeti is good, but... Yeti feels hurt...Grr~"/>
+		<string name="c7" value="no|bad|badgirl|badboy"/>
+		<string name="c7_s1" value=" Yeti is sorry... Yeti feels bad now...Grr.."/>
+		<string name="c7_s2" value=" Grr... Yeti wants to apologize..."/>
+		<string name="c7_s3" value=" Grr~ If Yeti keeps being scolded, Yeti will feel very lonely~ Grrr..."/>
+		<string name="c7_s4" value=" Yeti will not be bad from here on out~ Grr"/>
+		<string name="c7_f1" value=" Yeti will leave~ off to El Nath!!! Grrr~"/>
+		<string name="c7_f2" value=" Yeti gets angry if scolded~ Yeti likes compliments~ Grrr!!"/>
+		<string name="c7_f3" value=" Yeti doesn't like being here. Yeti wants to leave!!! Yeti~ Grr!!"/>
+		<string name="c7_f4" value=" Yeti didn't do anything... Yeti is very angry right now~ Grrr!!"/>
+		<string name="c8" value="no|bad|badgirl|badboy"/>
+		<string name="c8_s1" value=" Master, forgive Yeti~ Yeti has been very bad~ Grr~"/>
+		<string name="c8_s2" value=" Grr~ Yeti doesn't go against master~ Grr~"/>
+		<string name="c8_s3" value=" Grr~ Yeti may be scolded, but Yeti still likes the master~"/>
+		<string name="c8_s4" value=" Yeti is really feeling awful, and wants to make up for it~ Yeti is really good now!"/>
+		<string name="c8_f1" value=" Master gets angry at Yeti sometimes! Master is very bad!!Grrr!!"/>
+		<string name="c8_f2" value=" Yeti makes mistakes at times, and so does the master~!! Grr!!"/>
+		<string name="c8_f3" value=" Grr~!! If master keeps getting angry at Yeti, Yeti  gets angry at master~"/>
+		<string name="c8_f4" value=" Yeti doesn't need to feel sorry. Yeti will now become Yeti the rebel! Grr!!"/>
+		<string name="c9" value="dance|boogie|shakeit"/>
+		<string name="c9_s1" value=" Grrr.."/>
+		<string name="c9_s2" value=" Grr..."/>
+		<string name="c9_f1" value="Grrrr?"/>
+		<string name="c9_f2" value="Grrr? Grrr??"/>
+		<string name="c10" value="dance|boogie|shakeit"/>
+		<string name="c10_s1" value=" Yeti is a great dancer~"/>
+		<string name="c10_s2" value=" Yeti is bouncing! Yeti feels good~"/>
+		<string name="c10_s3" value=" Grr~ Yeti loves to dance~"/>
+		<string name="c10_s4" value=" Grr~ Yeti is a great dancer~ Yeti's great at everything!"/>
+		<string name="c10_f1" value=" Yeti's legs hurt~ Yeti needs a lot of rest~ Grrr.."/>
+		<string name="c10_f2" value=" Yeti does not dance in public. Grr~"/>
+		<string name="c10_f3" value=" Yeti is still a little bit shy~ Grr..."/>
+		<string name="c10_f4" value=" Grr~ Yeti is too depressed to dance today~"/>
+		<string name="c11" value="dance|boogie|shakeit"/>
+		<string name="c11_s1" value=" Yeti feels awesome right now, and the moves are coming out~ Grr!"/>
+		<string name="c11_s2" value=" Yeti dances like no one else in this world~ Grrr~"/>
+		<string name="c11_s3" value=" Grr~ Yeti used to be the number 1 dancer in El Nath~ Grr~"/>
+		<string name="c11_s4" value=" Yeti will show the master how to dance~ This is exactly how you dance~ Grrr~"/>
+		<string name="c11_f1" value=" Yeti will not dance now ... Yeti doesn't want to dance..."/>
+		<string name="c11_f2" value=" Yeti's legs are hurting. Grrrr.."/>
+		<string name="c11_f3" value=" Yeti is feeling really tired... Yeti is feeling weak.. Grr..."/>
+		<string name="c11_f4" value=" Grrr~ sleepy~ Yeti feels sleepy~"/>
+		<string name="c12" value="dance|boogie|shakeit"/>
+		<string name="c12_s1" value=" Yeti will bounce bounce bounce~ Yeti will shake shake shake~ and master will bounce and shake~"/>
+		<string name="c12_s2" value=" Master, dance with Yeti! Yeti likes dancing with master~ Grr~"/>
+		<string name="c12_s3" value=" Pepe once said Yeti looks the best when putting the moves on~ Grr~"/>
+		<string name="c12_s4" value=" Grr~ Yeti loves to dance, and Yeti loves master, too~!"/>
+		<string name="c12_f1" value=" Yeti fought with Pepe today...Grr.. Yeti feels crappy right now.."/>
+		<string name="c12_f2" value=" Yeti is hungry~ Yeti is feeling tired~ Grr~"/>
+		<string name="c12_f3" value=" Master should not dance~ Only Yeti dances, and right now, Yeti doesn't want to dance~"/>
+		<string name="c12_f4" value=" Yeti will not dance~ Yeti will quit dancing now~ Grr~"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value=" ...(Grr...)"/>
+		<string name="c13_s2" value=" ...(Grrrrrr...)"/>
+		<string name="c13_f1" value="Grr?"/>
+		<string name="c13_f2" value="Grrr? Grrr??"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value=" Yeti is feeling the pressure~ Grr~"/>
+		<string name="c14_s2" value=" Yeti is trying hard now~ grrr... Yeti is exhausted now~"/>
+		<string name="c14_s3" value=" Grr~ Yeti is pooping now~"/>
+		<string name="c14_s4" value=" Yeti had been holding back, until now~ Grr~"/>
+		<string name="c14_f1" value=" Yeti just pooped~ Yeti does not feel like pooping now~ Grr~"/>
+		<string name="c14_f2" value=" Yeti feels embarassed~ Yeti prefers private pooping~ Grr~"/>
+		<string name="c14_f3" value=" Grrr~ Yeti's do not poop often~ Grrr~"/>
+		<string name="c14_f4" value=" Yeti wants to dance~ Yeti doesn't want to poop~ Grr~"/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value=" Yeti's poop is smeared all over Yeti's butt~ Grr~"/>
+		<string name="c15_s2" value=" Yeti's poop is the size of Pepe~ Grrr~"/>
+		<string name="c15_s3" value=" Grr~ Yeti pooped big time, and now Yeti is very hunry~ Grrr~"/>
+		<string name="c15_s4" value=" Yeti will poop, then master play with Yeti~ Grr~"/>
+		<string name="c15_f1" value=" Yeti doesn't have anything coming out~ Yeti's stomach is hurting now~ Grrr~"/>
+		<string name="c15_f2" value=" Yeti only poops at home~ Yeti cannot poop outside~ Grr~"/>
+		<string name="c15_f3" value=" Grr~ Yeti doesn't like pooping~ Yeti will poop tomorrow~ Grr~"/>
+		<string name="c15_f4" value=" Yeti will not poop~ Yeti will hang out and have some fun~ Grrr~"/>
+		<string name="c16" value="poop"/>
+		<string name="c16_s1" value=" Yeti feels good~ Yeti likes the feeling right after pooping~ Grrr~"/>
+		<string name="c16_s2" value=" Grr~ Yeti is applying the pressure now~ Yeti is feeling tired..."/>
+		<string name="c16_s3" value=" Master just stepped on Yeti's big old poop~ Grr~"/>
+		<string name="c16_s4" value=" This poop is Yeti's, and Yeti's only~ and that massive poop is master's? Grr?"/>
+		<string name="c16_f1" value=" Yeti only poops a little once a day~ Grr~"/>
+		<string name="c16_f2" value=" Grr~ Yeti does not feel like pooping~"/>
+		<string name="c16_f3" value=" Grr? Poop? Yeti does not know what pooping is."/>
+		<string name="c16_f4" value=" Master, poop in public! Yeti will not be the only one pooping in front of everyone~ Grrr~"/>
+		<string name="c17" value="talk|say|chat"/>
+		<string name="c17_s1" value=" Yeti loves El Nath~ El Nath is Yeti's hometown~ Grrr"/>
+		<string name="c17_s2" value=" Yeti likes snow and ice in El Nath~ Grrr~"/>
+		<string name="c17_s3" value=" Pepe and Yeti are friends~ Yeti likes Pepe very much~ Grrr~"/>
+		<string name="c17_s4" value=" El Nath is freezing cold and snowy, and Yeti wants to go back to El Nath~ Grrr"/>
+		<string name="c17_f1" value=" Yeti does not speak well~ Grr.."/>
+		<string name="c17_f2" value=" Yeti is too shy to talk~ Grr..."/>
+		<string name="c17_f3" value=" Yeti is sleepy... Yeti will sleep now... Grr"/>
+		<string name="c17_f4" value=" Yeti wants to talk to Pepe~ Grrr~"/>
+		<string name="c18" value="talk|say|chat"/>
+		<string name="c18_s1" value=" Yeti likes El Nath, but Yeti wants to go to other places, too~ Grr~"/>
+		<string name="c18_s2" value=" Yeti used to live in El Nath, and there is a frightening monster somewhere in there~ Grr~"/>
+		<string name="c18_s3" value=" Yeti likes fishing with Pepe~ Grr~"/>
+		<string name="c18_s4" value=" Grr~ Yeti can do everything well~ Grr~"/>
+		<string name="c18_f1" value=" Yeti does not have anything to say... Grr..."/>
+		<string name="c18_f2" value=" Grr... Yeti will talk when Yeti feels like talking... Grr..."/>
+		<string name="c18_f3" value=" Yeti does not like being told what to do~ Grrr~"/>
+		<string name="c18_f4" value=" Grr~ Yeti will not talk~ No, Yeti CANNOT talk~ Grrr~"/>
+		<string name="c19" value="talk|say|chat"/>
+		<string name="c19_s1" value=" Grr... Yeti would one day like to revisit El Nath someday~ Grrr~"/>
+		<string name="c19_s2" value=" Yeti likes to dance~ Yeti used to be the star of El Nath~ Grr~"/>
+		<string name="c19_s3" value=" Pepe likes Yeti~ Yeti protects Pepe~ Grrr~"/>
+		<string name="c19_s4" value=" Grrr~ Yeti prefers cold places~ Grr~"/>
+		<string name="c19_f1" value=" If the master is bored, master shouldn't be hanging out with Yet; master should be out hunting~ Grr~"/>
+		<string name="c19_f2" value=" Yeti does not feel like talking today~ Grr~"/>
+		<string name="c19_f3" value=" Grrr~ Yeti is quiet~"/>
+		<string name="c19_f4" value=" Grr~ Grr~ Yeti is... GrrGrr~"/>
+		<string name="c20" value="talk|say|chat"/>
+		<string name="c20_s1" value="Go past El Nath and you'll run into the Dead Mine~ Grrr~"/>
+		<string name="c20_s2" value=" Yeti heard that there's ice in Leafre, too~ Yeti wants to go there~ Grr~"/>
+		<string name="c20_s3" value=" Yeti looks a lot like the master~ Yeti looks like the master~ Grrr~"/>
+		<string name="c20_s4" value=" Yeti knows a lot about the history of El Nath~ Yeti will talk about its history soon~ Grr~"/>
+		<string name="c20_f1" value=" Is master bored? Yeti's busy~ Grrr~"/>
+		<string name="c20_f2" value=" Talk to Yeti right now, and Yeti will be very angry~ Grrr!!"/>
+		<string name="c20_f3" value=" Hang out with Yeti and then Yeti will talk~ Right now, Yeti will not talk~ Grrr~"/>
+		<string name="c20_f4" value=" Yeti won't talk, and won't listen to the master~ Grr~"/>
+		<string name="c21" value="cute|cutie|pretty|adorable"/>
+		<string name="c21_s1" value=" Grr~"/>
+		<string name="c21_s2" value=" Grr~"/>
+		<string name="c21_s3" value=" GrrGrr~"/>
+		<string name="c21_s4" value=" Grr~"/>
+		<string name="c21_f1" value=" Grr...?"/>
+		<string name="c21_f2" value=" ...Grrr...??"/>
+		<string name="c21_f3" value=" ??"/>
+		<string name="c21_f4" value=" Grrr?"/>
+		<string name="c22" value="cute|cutie|pretty|adorable"/>
+		<string name="c22_s1" value=" Yeti likes being told that Yeti is cute~Grrr~"/>
+		<string name="c22_s2" value=" Yeti is blushing~ Yeti is red now Grrr~"/>
+		<string name="c22_s3" value=" Pepe says the same to Yeti a lot~ Grrr~♡"/>
+		<string name="c22_s4" value=" Yeti is very happy right now~ Yeti likes compliments~ Grrr~"/>
+		<string name="c22_f1" value=" Yeti is not cute~ Yeti is NOT cute Grrr~"/>
+		<string name="c22_f2" value=" Yeti is sad. Yeti is feeling too hot to feel happy. Grr"/>
+		<string name="c22_f3" value=" Grr~ Yeti won't do it~ Yeti feels lazy~ Grrr~"/>
+		<string name="c22_f4" value=" Keep doing that, and Yeti will be very mad~ Grr!!"/>
+		<string name="c23" value="cute|cutie|pretty|adorable"/>
+		<string name="c23_s1" value=" Yeti has always been cute~ Grr~"/>
+		<string name="c23_s2" value=" Grrr~ Yeti always hears that~ Grr~"/>
+		<string name="c23_s3" value=" Yeti and Pepe are both adorable~ Grrr~ Yeti and Pepe were the stars of El Nath~ Grr~"/>
+		<string name="c23_s4" value=" Yeti is a little bit embarassed by the compliments~ Grrr~"/>
+		<string name="c23_f1" value=" Yeti did not hear that~ Yeti only hears Pepe~ Grr~"/>
+		<string name="c23_f2" value=" Yeti is angry because Yeti is hungry~!! Grrr!!"/>
+		<string name="c23_f3" value=" Grr~ Yeti cannot not do that~!!"/>
+		<string name="c23_f4" value=" Grrr~ Yeti will not show the exact reason why Yeti is loved by everyone~ Grr~"/>
+		<string name="c24" value="cute|cutie|pretty|adorable"/>
+		<string name="c24_s1" value=" Yeti is ALWAYS cute~ Yeti likes hearing that very much~ Grrr~"/>
+		<string name="c24_s2" value=" Yeti likes the master complimenting Yeti~ Grr~"/>
+		<string name="c24_s3" value=" Master is cute too~ Grrr~♡"/>
+		<string name="c24_s4" value=" Yeti loves hearing compliments~ Yeti has always been cute~ Grrr~"/>
+		<string name="c24_f1" value=" Yeti is too hungry to do anything~ Grrr..."/>
+		<string name="c24_f2" value=" Grr.. Yeti is NOT cute! Pepe is cuter~!!"/>
+		<string name="c24_f3" value=" Master lies too much~ Yeti does not lie, though...Grr."/>
+		<string name="c24_f4" value=" Yeti wants to hear something else at times~!! Grrr!!"/>
+		<string name="c25" value="iloveyou|mylove|likeyou"/>
+		<string name="c25_s1" value=" Grrr~♡"/>
+		<string name="c25_s2" value=" Grr~ Grrr~♡"/>
+		<string name="c25_s3" value=" Grrr~~♥"/>
+		<string name="c25_s4" value=" Grr♡"/>
+		<string name="c25_f1" value=" ??"/>
+		<string name="c25_f2" value=" Grr?"/>
+		<string name="c25_f3" value=" Grr???"/>
+		<string name="c25_f4" value=" Grr Grr?"/>
+		<string name="c26" value="iloveyou|mylove|likeyou"/>
+		<string name="c26_s1" value=" Yeti is very much blushing right now~ Grrr♡"/>
+		<string name="c26_s2" value=" Yeti feels great today~ Grrr~"/>
+		<string name="c26_s3" value=" Grr~ Yeti loves master, too~ Grrr♡"/>
+		<string name="c26_s4" value=" Yeti feels the same way~ Grrr~"/>
+		<string name="c26_f1" value=" Yeti loves Pepe~ Grrr~"/>
+		<string name="c26_f2" value=" Grr~? Yeti did not hear the master~ Grrr~"/>
+		<string name="c26_f3" value=" Yeti has a hard time with human language~ Grrr..."/>
+		<string name="c26_f4" value=" Yeti is starving... Grr.."/>
+		<string name="c27" value="iloveyou|mylove|likeyou"/>
+		<string name="c27_s1" value=" Yeti does not know how to react~ Grr~"/>
+		<string name="c27_s2" value=" Yeti has always bee popular~ Grrr~"/>
+		<string name="c27_s3" value=" Grr~ Yeti feels ecstatic~ Grrr~"/>
+		<string name="c27_s4" value=" Grr~ Yeti is in love~♡"/>
+		<string name="c27_f1" value=" Yeti feels that the phrase should not be easily uttered~ Grr~"/>
+		<string name="c27_f2" value=" Yeti does not like jokes~ Grr~"/>
+		<string name="c27_f3" value=" Master should not make fun of Yeti!! Grrr!!"/>
+		<string name="c27_f4" value=" Yeti is sick of hearing that~ GrrGrr~"/>
+		<string name="c28" value="iloveyou|mylove|likeyou"/>
+		<string name="c28_s1" value=" Yeti loves the master, too~ Grrr♡"/>
+		<string name="c28_s2" value=" Yeti is blushing, and wants to hide immediately.~ Grr♡"/>
+		<string name="c28_s3" value=" Grr~♡ Master is the best~♡"/>
+		<string name="c28_s4" value=" Yeti is so happy that Yeti will tell Pepe this~♡"/>
+		<string name="c28_f1" value=" Master always lies to Yeti~! Grrr!"/>
+		<string name="c28_f2" value=" Yeti does not like the master~ Grr~"/>
+		<string name="c28_f3" value=" Grr~ Yeti did not hear that from the master~ Grr~"/>
+		<string name="c28_f4" value=" Yeti does not fall for a foolish lie like that~ Grrr~"/>
+		<string name="c29" value="sleep|nap|sleepy|gotobed"/>
+		<string name="c29_s1" value=" Grr~!"/>
+		<string name="c29_s2" value=" Grr~Grrr!!"/>
+		<string name="c29_s3" value=" Grrr"/>
+		<string name="c29_f1" value=" ...?"/>
+		<string name="c29_f2" value=" Grr...?"/>
+		<string name="c29_f3" value=" ...???"/>
+		<string name="c30" value="sleep|nap|sleepy|gotobed"/>
+		<string name="c30_s1" value=" Yeti is on its way to dream street~ Grrr~"/>
+		<string name="c30_s2" value=" Yeti will dance in its dream...Grr...."/>
+		<string name="c30_s3" value=" Zzzzz...Grr ... Yeti is... Zzzzz..."/>
+		<string name="c30_f1" value=" Yeti was just falling asleep... UNTIL NOW~ Grr~"/>
+		<string name="c30_f2" value=" Yeti is too hungry to sleep~ Yeti wants a snack~ Grr~"/>
+		<string name="c30_f3" value=" Grrr~ Yeti thinks this place is too noisy~ Yeti cannot sleep~ Grr~"/>
+		<string name="c31" value="sleep|nap|sleepy|gotobed"/>
+		<string name="c31_s1" value=" Grr~ Yeti will dream something with the master~ Grr~"/>
+		<string name="c31_s2" value=" Yeti will sleep with the master.... zzzzz...."/>
+		<string name="c31_s3" value=" Grrr.....Zzzzz...."/>
+		<string name="c31_f1" value=" Yeti cannot go to bed~ Yeti wants to chill~ Grrr~"/>
+		<string name="c31_f2" value=" Yeti wants to have fun with the master~ Grr~"/>
+		<string name="c31_f3" value=" Yeti cannot sleep because Yeti misses Pepe very much~ Grrr"/>
+		<string name="f1_s" value=" Grr~♡ Master is the bomb~♡"/>
+		<string name="f1_f" value=" Grrr!!"/>
+		<string name="f2_s" value=" Yeti likes food~"/>
+		<string name="f2_f" value=" Yeti cannot eat anymore~Grr~"/>
+		<string name="f3_s" value=" Grr.... Just looking at something delicious makes Yeti's day~"/>
+		<string name="f3_f" value=" Yeti should stop eating wheh Yeti's full~ Grr~"/>
+		<string name="f4_s" value=" Master, eat with Yeti~ Yeti loves this rice~ Grr~"/>
+		<string name="f4_f" value=" Master is a bad person... And Yeti is very full.. Grr..."/>
+		<string name="s1" value=" Grr?"/>
+		<string name="s2" value=" Grrr...Yeti doesn not know that word."/>
+		<string name="s3" value=" Yeti wants the master not to say that. Grr~"/>
+		<string name="s4" value=" Master never orders me to do that.Grr..."/>
+	</imgdir>

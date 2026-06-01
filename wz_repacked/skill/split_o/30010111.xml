@@ -1,0 +1,5 @@
+<imgdir name="30010111">
+        <string name="name" value="Curse of Fury" />
+        <string name="desc" value="When attacking, has a chance to trigger Endless Fury. When activated, your HP regenerates, and eliminated enemies return a fixed amount of Fury." />
+        <string name="h" value="Endless Fury Chance: #prop%. Recovers #x% HP when Endless Fury is activated. Absorbs Fury from eliminated enemies." />
+    </imgdir>

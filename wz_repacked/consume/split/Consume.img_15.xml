@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004020">
+		<string name="name" value="Dexterity Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +3 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004021">
+		<string name="name" value="Dexterity Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +6 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004022">
+		<string name="name" value="Dexterity Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +9 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004023">
+		<string name="name" value="Dexterity Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +12 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004024">
+		<string name="name" value="Dexterity Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +15 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004025">
+		<string name="name" value="Dexterity Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +18 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004026">
+		<string name="name" value="Dexterity Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +21 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004027">
+		<string name="name" value="Dexterity Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +24 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004028">
+		<string name="name" value="Dexterity Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +27 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004029">
+		<string name="name" value="Dexterity Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +30 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004030">
+		<string name="name" value="Advanced Dexterity Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +3 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004031">
+		<string name="name" value="Advanced Dexterity Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +6 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004032">
+		<string name="name" value="Advanced Dexterity Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +9 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004033">
+		<string name="name" value="Advanced Dexterity Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +12 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004034">
+		<string name="name" value="Advanced Dexterity Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +15 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004035">
+		<string name="name" value="Advanced Dexterity Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +18 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004036">
+		<string name="name" value="Advanced Dexterity Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +21 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004037">
+		<string name="name" value="Advanced Dexterity Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +24 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004038">
+		<string name="name" value="Advanced Dexterity Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +27 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004039">
+		<string name="name" value="Advanced Dexterity Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nDEX +30 for 30 min."/>
+	</imgdir>
+</imgdir>

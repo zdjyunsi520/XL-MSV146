@@ -1,0 +1,5 @@
+<imgdir name="40028004">
+        <string name="name" value="高级战斗命令" />
+        <string name="desc" value="[潜能技能] 暂时提升你所有技能的等级。#c已经达到最高等级的技能不会提升。# \n例外：新手技能和战斗命令不能提升。" />
+        <string name="h1" value="MP消耗：64，所有技能等级提升1级，持续240秒。" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9305520">
+		<string name="name" value="木乃伊顾问"/>
+	</imgdir>
+    <imgdir name="9305521">
+		<string name="name" value="法老蛇"/>
+	</imgdir>
+    <imgdir name="9305522">
+		<string name="name" value="法老木乃伊"/>
+	</imgdir>
+    <imgdir name="9306000">
+		<string name="name" value="系统怪物N1"/>
+	</imgdir>
+    <imgdir name="9306001">
+		<string name="name" value="系统怪物N2"/>
+	</imgdir>
+    <imgdir name="9306002">
+		<string name="name" value="系统怪物N3"/>
+	</imgdir>
+    <imgdir name="9306003">
+		<string name="name" value="系统怪物N4"/>
+	</imgdir>
+    <imgdir name="9306004">
+		<string name="name" value="系统怪物N5"/>
+	</imgdir>
+    <imgdir name="9306005">
+		<string name="name" value="系统怪物N5-1"/>
+	</imgdir>
+    <imgdir name="9306006">
+		<string name="name" value="无限"/>
+	</imgdir>
+    <imgdir name="9306007">
+		<string name="name" value="系统怪物F1"/>
+	</imgdir>
+    <imgdir name="9306008">
+		<string name="name" value="系统怪物N4"/>
+	</imgdir>
+    <imgdir name="9306100">
+		<string name="name" value="系统怪物E10"/>
+	</imgdir>
+    <imgdir name="9306101">
+		<string name="name" value="系统怪物G6"/>
+	</imgdir>
+    <imgdir name="9306102">
+		<string name="name" value="人造马努"/>
+	</imgdir>
+    <imgdir name="9306103">
+		<string name="name" value="人造皮亚努斯"/>
+	</imgdir>
+    <imgdir name="9306104">
+		<string name="name" value="人造格里菲"/>
+	</imgdir>
+    <imgdir name="9306105">
+		<string name="name" value="暗影希纳斯"/>
+	</imgdir>
+    <imgdir name="9306106">
+		<string name="name" value="暗影神之子"/>
+	</imgdir>
+    <imgdir name="9306107">
+		<string name="name" value="人造米哈尔"/>
+	</imgdir>
+</imgdir>

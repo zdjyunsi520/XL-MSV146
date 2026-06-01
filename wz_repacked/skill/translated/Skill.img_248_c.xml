@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="110001506"><string name="name" value="守护飞跃"/><string name="desc" value="借助动物伙伴的敏捷性进行二段跳。"/><string name="h" value="MP消耗: #mpCon, 跳得更远"/></imgdir>
+    <imgdir name="110001510"><string name="desc" value="可以切换不同的动物能力。"/><string name="h" value="使用方向键选择动物模式。"/><string name="name" value="伙伴选择"/></imgdir>
+    <imgdir name="110001511"><string name="name" value="枫叶守护"/><string name="desc" value="暂时提升所有队员的属性。"/><string name="h" value="MP消耗: #mpCon, 全属性: +#x%, 持续时间: #time秒"/></imgdir>
+    <imgdir name="110001512"><string name="name" value="野性意志"/><string name="desc" value="集中精神，可以无视部分异常状态效果。但这不会对所有异常状态生效。"/><string name="h" value="MP消耗: #mpCon, 冷却时间: #cooltime秒"/></imgdir>
+    <imgdir name="110001514"><string name="name" value="回归之路"/><string name="desc" value="返回阿波伦。"/><string name="h" value="使用后返回阿波伦渡口。\n冷却时间: #cooltime秒"/></imgdir>
+    <imgdir name="110001024"><string name="name" value="宠物引领"/><string name="desc" value="允许同时带领最多3只宠物。（被动技能）"/></imgdir>
+    <imgdir name="110008000"><string name="name" value="高级快速移动"/><string name="desc" value="[潜能技能]\n暂时提升移动速度和跳跃力。"/><string name="h1" value="MP消耗: 5, 移动速度: +20, 跳跃力: +10, 持续时间: 200秒"/></imgdir>
+    <imgdir name="110008001"><string name="name" value="高级神秘之门"/><string name="desc" value="[潜能技能]\n创建通往最近城镇的传送门。只有你可以使用，在消失前可多次使用。按↑键使用。"/><string name="h1" value="MP消耗: 5, 消耗2个魔法石，传送门持续时间: 120秒"/></imgdir>
+    <imgdir name="110008002"><string name="name" value="高级锐利之眼"/><string name="desc" value="[潜能技能]\n让你找到敌人的弱点，造成致命伤害。"/><string name="h1" value="MP消耗: 5, 暴击率: +10%, 最高暴击伤害: +15%, 持续时间: 240秒"/></imgdir>
+    <imgdir name="110008003"><string name="name" value="高级极限体力"/><string name="desc" value="[潜能技能]\n提升最大HP。"/><string name="h1" value="MP消耗: 5MP, 最大MP: +40%, 持续时间: 240秒"/></imgdir>
+    <imgdir name="110008004"><string name="name" value="高级战斗指令"/><string name="h1" value="MP消耗: 5, 所有技能等级提升1级，持续240秒。"/><string name="desc" value="[道具潜能技能]\n暂时提升你所有技能的等级。所有驯兽师技能将提升到最大大师等级。"/></imgdir>
+    <imgdir name="110008005"><string name="name" value="高级祝福"/><string name="desc" value="[潜能技能]\n大幅提升攻击力、魔法攻击力、防御力、命中值、回避率和最大HP。可与其他增益技能叠加，但祝福和高级祝福除外。"/><string name="h1" value="MP消耗: 5, 武器攻击力: +20, 魔法攻击力: +20, 物理防御力: +425, 魔法防御力: +425, 命中值: +260, 回避值: +260, 最大HP: +475, 持续时间: 240秒"/></imgdir>
+    <imgdir name="110008006"><string name="name" value="高级速度激发"/><string name="desc" value="[潜能技能]\n消耗HP在固定时间内提升1级攻击速度。可与速度激发以外的增益叠加。"/><string name="h1" value="HP消耗: 120, 攻击速度提升持续240秒。"/></imgdir>
+    <imgdir name="110009000"><string name="name" value="猪的弱点"/><string name="desc" value="[大师等级: 1]\n对猪造成150%伤害。"/></imgdir>
+    <imgdir name="110009001"><string name="name" value="树桩的弱点"/><string name="desc" value="[大师等级: 1]\n对树桩造成150%伤害。"/></imgdir>
+    <imgdir name="110009002"><string name="name" value="史莱姆的弱点"/><string name="desc" value="[大师等级: 1]\n对史莱姆造成150%伤害。"/></imgdir>
+    <imgdir name="112000000"><string name="name" value="掌击"/><string name="desc" value="攻击多个敌人3次。\n[指令]: 连续按#c攻击键#多次"/><string name="h" value="前3次攻击: 伤害: #damage%, 最大敌人数: #mobCount, 最大攻击次数: #attackCount \n 第2、3次: MP消耗: #y"/></imgdir>
+    <imgdir name="112000001"><string name="name" value="掌击2"/></imgdir>
+    <imgdir name="112000002"><string name="name" value="掌击3"/></imgdir>
+    <imgdir name="112000003"><string name="name" value="猛烈连击"/><string name="desc" value="连续使用4次#掌击#将激活特殊技能，可进行多次追加攻击。\n[指令]: #c掌击#第3次攻击后继续攻击。"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount\r\n#额外掌击伤害#: +#damR% "/></imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="2201009">
+        <string name="name" value="Chilling Step" />
+        <string name="desc" value="When you use the Teleport skill, #cyour path will freeze immediately and deal damage to enemies that pass over it, freezing them as well#. \nCan be toggled #cOn/Off# with the skill key." />
+        <string name="h" value="Upon using the Teleport skill, freezes the ground at #c#prop% chance, dealing #damage% to enemies on the frozen ground with freeze stacks#. Lasts #time sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="3121013">
+        <string name="name" value="箭矢炮台" />
+        <string name="desc" value="以高角度射击箭矢。按住技能键可连续发射。发射期间#c使用上下方向键#控制射击力度。技能施放中按空格键在你所在位置设置箭矢炮台自动发射箭矢。同时提升暴风箭雨的威力~" />
+        <string name="h" value="MP消耗: #mpCon，以#damage%伤害攻击最多#mobCount个敌人。施放中使用空格键设置箭矢炮台，发射#v%伤害的箭矢持续#u秒。使用暴风箭雨时造成#s%伤害。其他属性不变。" />
+    </imgdir>

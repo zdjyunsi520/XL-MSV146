@@ -1,0 +1,62 @@
+<imgdir name="Npc.img">
+    <imgdir name="9100003">
+		<string name="name" value="Perion Manekineko"/>
+	</imgdir>
+    <imgdir name="9100004">
+		<string name="name" value="Sleepywood Manekineko"/>
+	</imgdir>
+    <imgdir name="9100100">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100101">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100102">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100103">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100104">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100105">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100106">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100107">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100108">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100109">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100110">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100111">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100112">
+		<string name="name" value="EXP Gachapon"/>
+	</imgdir>
+    <imgdir name="9100117">
+		<string name="name" value="Gachapon"/>
+	</imgdir>
+    <imgdir name="9100200">
+		<string name="name" value="Pachinko 1"/>
+	</imgdir>
+    <imgdir name="9100201">
+		<string name="name" value="Pachinko 2"/>
+	</imgdir>
+    <imgdir name="9100202">
+		<string name="name" value="Pachinko 3"/>
+	</imgdir>
+    <imgdir name="9100203">
+		<string name="name" value="Pachinko 4"/>
+	</imgdir>
+</imgdir>

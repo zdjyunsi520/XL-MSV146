@@ -1,0 +1,5 @@
+<imgdir name="5321054">
+        <string name="name" value="散弹" />
+        <string name="desc" value="对炮手技能使用散弹。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，所有技能攻击次数：x#x，伤害降低：#y%" />
+    </imgdir>

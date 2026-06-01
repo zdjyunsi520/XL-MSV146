@@ -1,0 +1,279 @@
+<imgdir name="5000048">
+			<string name="c1" value="sit"/>
+			<string name="c1_s1" value="机器哒！"/>
+			<string name="c1_s2" value="铛铛！"/>
+			<string name="c1_f1" value="诶？"/>
+			<string name="c1_f2" value="...？"/>
+			<string name="c2" value="sit"/>
+			<string name="c2_s1" value="好哒！"/>
+			<string name="c2_s2" value="没问题呢。"/>
+			<string name="c2_s3" value="机器哒！"/>
+			<string name="c2_s4" value="偶帮你做这个，你也帮偶做点什么吧。成交？"/>
+			<string name="c2_f1" value="偶为什么要呢？"/>
+			<string name="c2_f2" value="偶听不到。大声点！"/>
+			<string name="c2_f3" value="偶听不懂你在说什么呢..."/>
+			<string name="c2_f4" value="偶还不累呢..."/>
+			<string name="c3" value="sit"/>
+			<string name="c3_s1" value="这是简单的、简单的指令呢。切。"/>
+			<string name="c3_s2" value="偶正想坐下来呢，不过不是因为你的命令。"/>
+			<string name="c3_s3" value="这就是为什么偶一直随身带着椅子的原因呢。"/>
+			<string name="c3_s4" value "是重力在拉偶下去吗？"/>
+			<string name="c3_f1" value="偶不习惯在这种地方坐呢..."/>
+			<string name="c3_f2" value="你以为偶只听你的命令做事吗？"/>
+			<string name="c3_f3" value "你看到偶的椅子了吗？你知道偶没椅子坐不了的呀。"/>
+			<string name="c3_f4" value "无法计算呢。"/>
+			<string name="c4" value="sit"/>
+			<string name="c4_s1" value="好哒偶坐下了。还有别的吗？"/>
+			<string name="c4_s2" value="你也想坐吧。可惜这椅子有承重限制呢！"/>
+			<string name="c4_s3" value "嘿，偶在网上看了高级机器人的电影，超棒的。你看了吗？"/>
+			<string name="c4_s4" value "偶不是故意跟你一样高的。偶只是...习惯了坐这里呢。"/>
+			<string name="c4_f1" value "那是偶今天最不想听到的指令呢。"/>
+			<string name="c4_f2" value="你先来。然后偶再考虑。"/>
+			<string name="c4_f3" value "你怎么不先去跟野狼跳个舞呢？"/>
+			<string name="c4_f4" value "别叫偶做偶不想做的事！"/>
+			<string name="c5" value="sleep|sleepy|gotobed"/>
+			<string name="c5_s1" value="Z~Z~Z~"/>
+			<string name="c5_s2" value="嘎嘎嘎...嘎嘎嘎..."/>
+			<string name="c5_f1" value="偶不想呢。"/>
+			<string name="c5_f2" value="偶不困呢。偶想做别的事情呀。"/>
+			<string name="c6" value="sleep|sleepy|gotobed"/>
+			<string name="c6_s1" value="偶好累呀。"/>
+			<string name="c6_s2" value="偶要睡觉了。明天见呢。"/>
+			<string name="c6_s3" value="系统关闭中..3..2..1..."/>
+			<string name="c6_s4" value="偶的眼睛...越来越重了..."/>
+			<string name="c6_f1" value "偶们去玩嘛啊啊啊啊！！！"/>
+			<string name="c6_f2" value="偶不想睡觉！"/>
+			<string name="c6_f3" value "偶已经睡够了！！！"/>
+			<string name="c6_f4" value "好无聊呀！陪偶玩！！"/>
+			<string name="c7" value="sleep|sleepy|gotobed"/>
+			<string name="c7_s1" value="偶睡3秒钟就好了。"/>
+			<string name="c7_s2" value "没什么比在家睡觉更舒服的呢..."/>
+			<string name="c7_s3" value "你是不是偷偷上传了睡眠程序到偶的系统里？偶怎么这么困呀？"/>
+			<string name="c7_s4" value "偶该睡了呢。偶的皮肤需要休息。"/>
+			<string name="c7_f1" value "偶不喜欢睡觉呢。偶喜欢跟你玩呀。"/>
+			<string name="c7_f2" value "外面还很亮呢。为什么要偶睡觉？"/>
+			<string name="c7_f3" value "能不能做睡觉以外的事情呢？"/>
+			<string name="c7_f4" value "偶不想睡觉呢。偶想跟你一起玩呀。"/>
+			<string name="c8" value="sleep|sleepy|gotobed"/>
+			<string name="c8_s1" value "今晚偶要梦见自己在飞！呼呼呼呼"/>
+			<string name="c8_s2" value="1只小羊...2只小羊...3只小羊...4只小羊..."/>
+			<string name="c8_s3" value "啊，已经到睡觉时间了呢。晚安！"/>
+			<string name="c8_s4" value "偶还想多陪你一会儿...但偶太困了..."/>
+			<string name="c8_f1" value "还没到时候呢，机器哒。"/>
+			<string name="c8_f2" value "给偶讲个笑话嘛。"/>
+			<string name="c8_f3" value "嘘，偶觉得附近有怪物呢。"/>
+			<string name="c8_f4" value "偶需要一首摇篮曲才能睡着呢..."/>
+			<string name="c9" value="bad|no|badgirl|badboy"/>
+			<string name="c9_s1" value="啊啊啊！"/>
+			<string name="c9_s2" value="抽泣抽泣..."/>
+			<string name="c9_f1" value "诶？"/>
+			<string name="c9_f2" value "........."/>
+			<string name="c10" value="bad|no|badgirl|badboy"/>
+			<string name="c10_s1" value "你为什么对偶发那么大脾气呀？"/>
+			<string name="c10_s2" value="啊啊啊！好伤心！"/>
+			<string name="c10_s3" value "对不起呢..."/>
+			<string name="c10_s4" value "别那样说话嘛。偶好怕呀。"/>
+			<string name="c10_f1" value "偶讨厌被骂呢。"/>
+			<string name="c10_f2" value "别对偶大喊大叫嘛。"/>
+			<string name="c10_f3" value "偶什么都没做错呢..."/>
+			<string name="c10_f4" value "停下！别这样！"/>
+			<string name="c11" value="bad|no|badgirl|badboy"/>
+			<string name="c11_s1" value="你真的要那样对偶大吼大叫吗？"/>
+			<string name="c11_s2" value="偶会做得更好的..."/>
+			<string name="c11_s3" value "你刚才要打偶呢。啊啊啊！！"/>
+			<string name="c11_s4" value "你为什么要让偶哭呀？"/>
+			<string name="c11_f1" value "偶讨厌被骂呢。"/>
+			<string name="c11_f2" value "为什么呀？偶做错了什么？"/>
+			<string name="c11_f3" value "你刚才说什么呀？"/>
+			<string name="c11_f4" value "偶什么都没做错呢！"/>
+			<string name="c12" value="bad|no|badgirl|badboy"/>
+			<string name="c12_s1" value="你得告诉偶偶做错了什么呀..."/>
+			<string name="c12_s2" value "你是偶唯一拥有的...偶现在好想哭呀。"/>
+			<string name="c12_s3" value="下次偶会做得更好的...但偶到底要怎么做才好呢？"/>
+			<string name="c12_s4" value "你有必要那样跟偶说话吗？"/>
+			<string name="c12_f1" value "别把你的怒气撒在偶身上。去发泄在怪物身上呀！"/>
+			<string name="c12_f2" value "偶到底做错了什么呀？"/>
+			<string name="c12_f3" value "你一定很无聊吧？"/>
+			<string name="c12_f4" value "嘿，偶是你见过的最听话的机器人呢。"/>
+			<string name="c13" value="iloveyou|mylove|likeyou"/>
+			<string name="c13_s1" value="机器哒？"/>
+			<string name="c13_s2" value="机器哒？机器哒？"/>
+			<string name="c13_f1" value "诶..."/>
+			<string name="c13_f2" value "滋滋滋"/>
+			<string name="c14" value="iloveyou|mylove|likeyou"/>
+			<string name="c14_s1" value "真的吗？谢谢！"/>
+			<string name="c14_s2" value "你在约偶出去吗？"/>
+			<string name="c14_s3" value "偶觉得你也很可爱呢。"/>
+			<string name="c14_s4" value "哇哇哇..."/>
+			<string name="c14_f1" value "你想说什么呀？"/>
+			<string name="c14_f2" value "你是认真的吗？"/>
+			<string name="c14_f3" value "诶？？？"/>
+			<string name="c14_f4" value "好哒，这段对话没发生过呢。"/>
+			<string name="c15" value="iloveyou|mylove|likeyou"/>
+			<string name="c15_s1" value "偶爱你，就像电脑爱它的显示器一样呢。"/>
+			<string name="c15_s2" value "啊哈...这让偶今天好开心呀。"/>
+			<string name="c15_s3" value "很好，如果你想讨偶欢心，这就是正确的做法呢。"/>
+			<string name="c15_s4" value "等等，你能再说一遍吗？"/>
+			<string name="c15_f1" value "骗子，骗子！裤子着火了！"/>
+			<string name="c15_f2" value="你是偶唯一拥有的...才怪"/>
+			<string name="c15_f3" value "嘿，玩笑归玩笑。但也太不像玩笑了呢。"/>
+			<string name="c15_f4" value "你又在说胡话了吗？"/>
+			<string name="c16" value="iloveyou|mylove|likeyou"/>
+			<string name="c16_s1" value "真的吗？比金币还重要？"/>
+			<string name="c16_s2" value="你不是第一个这么说的人呢...但还是要谢谢啦。"/>
+			<string name="c16_s3" value="被人爱着真不容易呢...偶一定有这方面的天赋呀。"/>
+			<string name="c16_s4" value "你不用说出来呢。偶知道你爱偶。"/>
+			<string name="c16_f1" value "偶已经听烦了呢。那么多人一直告诉偶他们爱偶。"/>
+			<string name="c16_f2" value "偶想从帅气的机器人那里听到呢！"/>
+			<string name="c16_f3" value "这是偶第234234次听到这个了。唉。"/>
+			<string name="c16_f4" value "章鱼弟昨晚也是这么跟偶说的呢。"/>
+			<string name="c17" value="stupid|ihateyou|dummy"/>
+			<string name="c17_s1" value "机器哒！！！！"/>
+			<string name="c17_s2" value "不可能！！！"/>
+			<string name="c17_f1" value "!!!!!"/>
+			<string name="c17_f2" value "什么！！！"/>
+			<string name="c18" value="stupid|ihateyou|dummy"/>
+			<string name="c18_s1" value "你刚才不是在说偶想的那样吧..."/>
+			<string name="c18_s2" value "你就不能爱偶吗？"/>
+			<string name="c18_s3" value "偶做了什么要被这样对待呀？"/>
+			<string name="c18_s4" value "嘿，那样太过分了！"/>
+			<string name="c18_f1" value "你看起来比偶还笨呢..."/>
+			<string name="c18_f2" value "别那样说！"/>
+			<string name="c18_f3" value "偶才不笨呢！偶很聪明！"/>
+			<string name="c18_f4" value "你凭什么这么说呀？"/>
+			<string name="c19" value="stupid|ihateyou|dummy"/>
+			<string name="c19_s1" value="是啊，确实挺笨的呢。"/>
+			<string name="c19_s2" value "你继续这样说，总有一天偶会离家出走！"/>
+			<string name="c19_s3" value "偶已经把这个存入记忆库了。偶会记住的呢。"/>
+			<string name="c19_s4" value "偶们就不能好好相处吗？"/>
+			<string name="c19_f1" value "看吧，如果偶只有个位数智商，偶也会生气的。没关系呢。"/>
+			<string name="c19_f2" value "好吧，天才。圆周率的最后一位是多少？想不出来吧..."/>
+			<string name="c19_f3" value "偶比你聪明多了呢。"/>
+			<string name="c19_f4" value "机器人也是有感情的呀。"/>
+			<string name="c20" value="stupid|ihateyou|dummy"/>
+			<string name="c20_s1" value="你以折磨偶为乐吗？"/>
+			<string name="c20_s2" value="真的吗？嘲笑偶真的那么好玩吗？"/>
+			<string name="c20_s3" value "你为什么要这样对偶呀？偶又漂亮又善良呢。"/>
+			<string name="c20_s4" value "就算偶有钢铁般的心，被你这么说也会裂开的呢。"/>
+			<string name="c20_f1" value "偶会恨你的。认真的呢。"/>
+			<string name="c20_f2" value "偶会变好的。别讨厌偶嘛。"/>
+			<string name="c20_f3" value "偶要告诉小巴洛格！！"/>
+			<string name="c20_f4" value "这么凶...为什么这么讨厌偶呢？"/>
+			<string name="c21" value="fire|attack"/>
+			<string name="c21_s1" value="预备开火！"/>
+			<string name="c21_s2" value="嗡嗡嗡嗡！！"/>
+			<string name="c21_s3" value="吹吧！吹吧！"/>
+			<string name="c21_s4" value="放马过来吧！"/>
+			<string name="c21_f1" value "偶不想做那个呢。"/>
+			<string name="c21_f2" value "机器哒 机器哒？"/>
+			<string name="c21_f3" value "诶？"/>
+			<string name="c21_f4" value="?????"/>
+			<string name="c22" value="fire|attack"/>
+			<string name="c22_s1" value "放马过来吧！放马过来吧！！！"/>
+			<string name="c22_s2" value "所有人趴下！吹！！！"/>
+			<string name="c22_s3" value "偶准备好开火了！哈哈哈！！！"/>
+			<string name="c22_s4" value="偶看起来不是很帅吗？"/>
+			<string name="c22_f1" value="你好呀"/>
+			<string name="c22_f2" value "外面不是很美吗？偶们去散步吧。"/>
+			<string name="c22_f3" value "你在看什么呀？"/>
+			<string name="c22_f4" value "偶信仰和平，不是战争呢。"/>
+			<string name="c23" value="fire|attack"/>
+			<string name="c23_s1" value "偶是真正的动作巨星！"/>
+			<string name="c23_s2" value "偶来攻击，你去捡东西呢。"/>
+			<string name="c23_s3" value="给我看看谁能比偶射得更准呢！"/>
+			<string name="c23_s4" value "偶不需要瞄准。偶直接乱射！！！"/>
+			<string name="c23_f1" value "嗯嗯...偶的尾巴似乎运转良好呢。"/>
+			<string name="c23_f2" value "啦啦啦！你刚才说什么？"/>
+			<string name="c23_f3" value "外面天气真好呢。偶们去露营吧！"/>
+			<string name="c23_f4" value "偶没弹药了..."/>
+			<string name="c24" value="talk|chat|say"/>
+			<string name="c24_s1" value="按1跟会说话的机器人对话，按0重播此消息呢。"/>
+			<string name="c24_s2" value="你觉得偶能在玩具城遇到跟偶一样的机器人吗？"/>
+			<string name="c24_s3" value="世界上最高的塔是什么？当然是EOS塔呢！"/>
+			<string name="c24_s4" value "偶觉得偶是这里最好看的机器人呢..."/>
+			<string name="c24_f1" value "你需要人陪你说话吗？"/>
+			<string name="c24_f2" value "偶觉得偶没法跟你说话呢..."/>
+			<string name="c24_f3" value="偶不会说英语呢..."/>
+			<string name="c24_f4" value "就在这里结束吧。"/>
+			<string name="c25" value="talk|chat|say"/>
+			<string name="c25_s1" value="你想知道偶有多聪明吗？比你聪明多了呢！！"/>
+			<string name="c25_s2" value="附近有帅气的机器人吗？偶找不到呢..."/>
+			<string name="c25_s3" value "偶好孤单呀。给偶介绍其他机器人嘛！！！"/>
+			<string name="c25_s4" value "龙吼！！！！等等，偶怎么做不到呢？"/>
+			<string name="c25_f1" value "刚才谁放屁了呀？"/>
+			<string name="c25_f2" value "对不起偶只有一张嘴可以说话呢。"/>
+			<string name="c25_f3" value "偶无法用言语表达自己呢..."/>
+			<string name="c25_f4" value "偶今天被甩了..."/>
+			<string name="c26" value="talk|chat|say"/>
+			<string name="c26_s1" value "答应偶如果你看到好的机器人零件一定要给偶看呀！"/>
+			<string name="c26_s2" value="几天前，偶看到了一个被金光覆盖的不可思议的东西呢。看起来好熟悉..."/>
+			<string name="c26_s3" value "偶昨天跟小巴洛格聊天了，他想单独跟你谈谈呢..."/>
+			<string name="c26_s4" value "艾温、罗温和玛尔陷入了三角恋呢。为什么？因为偶！！！"/>
+			<string name="c26_f1" value "是不是偶昨晚睡太晚了？好累呀。"/>
+			<string name="c26_f2" value "艾温说她喜欢安静的男人呢。"/>
+			<string name="c26_f3" value="偶今天是不是说了太多了？感觉线路都烧坏了呢。"/>
+			<string name="c26_f4" value "别说话了，开始打怪吧。"/>
+			<string name="c27" value="change|go"/>
+			<string name="c27_s1" value="告诉偶怪物在哪里就好呢。"/>
+			<string name="c27_s2" value="钢铁之手！！！"/>
+			<string name="c27_s3" value="这很简单呢！"/>
+			<string name="c27_s4" value="早上变身、下午变身、晚上变身怎么样呀？"/>
+			<string name="c27_f1" value "说真的，停下来呢。"/>
+			<string name="c27_f2" value "偶不想做那个呀。"/>
+			<string name="c27_f3" value "这不好玩呢。偶不想做了。"/>
+			<string name="c27_f4" value "偶听不到呢。"/>
+			<string name="c28" value="change|go"/>
+			<string name="c28_s1" value "现在变身成世界上最帅的机器人呢。"/>
+			<string name="c28_s2" value "偶对付怪物，你捡东西呢。"/>
+			<string name="c28_s3" value "体型跟力量没关系呢。"/>
+			<string name="c28_s4" value="变身？那很简单呀！"/>
+			<string name="c28_f1" value "先给偶加油吧。"/>
+			<string name="c28_f2" value "你知道，偶不能为你做所有事情呢。"/>
+			<string name="c28_f3" value "偶不在乎你叫偶坏机器人呢。"/>
+			<string name="c28_f4" value "偶拒绝任何命令偶做事的人呢。"/>
+			<string name="c29" value="change|go"/>
+			<string name="c29_s1" value "现在变身成最强、最壮观、最惊人、最性感的机器人呢！"/>
+			<string name="c29_s2" value "偶敢打赌没人能做得到呢！"/>
+			<string name="c29_s3" value="现在变身成...金币战队！！！等等，不是那个呢。"/>
+			<string name="c29_s4" value "超越所见——等等...偶不能这么说！"/>
+			<string name="c29_f1" value "偶觉得你不知道变身有多难呢。"/>
+			<string name="c29_f2" value "别再叫偶变身了！"/>
+			<string name="c29_f3" value "老兄...你想尝尝偶的铁拳吗？"/>
+			<string name="c29_f4" value "你知道偶对着空气乱射有多傻吗？"/>
+			<string name="f1_s" value="好香呀..."/>
+			<string name="f1_f" value="你想干什么呀？"/>
+			<string name="f2_s" value="正在充电...充电完成呢。"/>
+			<string name="f2_f" value "偶的电池已经充满了呀。"/>
+			<string name="f3_s" value="吃东西的时候偶最开心了呢。"/>
+			<string name="f3_f" value="还没到充电的时候呢！"/>
+			<string name="f4_s" value "你怎么知道偶那么饿呀？"/>
+			<string name="f4_f" value "偶知道偶能吃很多，但也不是那么多呢。"/>
+			<string name="s1" value="吼呜~吼呜~喵嗷嗷！"/>
+			<string name="s2" value="偶讨厌脏话呀~"/>
+			<string name="s3" value="吼呜~吼呜~不许说脏话！"/>
+			<string name="s4" value="你要是说脏话，偶就要封禁你啦！"/>
+			<string name="e_levelup" value="恭喜！不过你离偶的等级还远着呢！"/>
+			<string name="e_rest" value="你无聊了吗？你在干什么呀？"/>
+			<string name="e_HPAlert" value="偶好像看到什么在闪...嘿，你还好吗？"/>
+			<string name="e_prelevelup" value "差一点点，你就升级了！继续加油呀！"/>
+			<string name="e_NOHPPotion" value="偶没有HP药水给你了呀。检查一下你的背包呢。"/>
+			<string name="e_NOMPPotion" value="偶没有MP药水给你了呀。检查一下你的背包呢。"/>
+			<imgdir name="autoSpeaking">
+				<string name="0" value="你看起来不太好呢...也许你应该换个肤色。"/>
+				<string name="1" value="偶的23号恋人来电话了呢。"/>
+				<string name="2" value="偶的234号恋人来电话了呢。"/>
+				<string name="3" value="偶的2567号恋人来电话了呢。"/>
+				<string name="4" value="偶的目标是有10000个恋人呢。你呢？"/>
+				<string name="5" value="偶戴耳环会奇怪吗？"/>
+				<string name="6" value="嘿，射手村最近最流行的风格是什么？别告诉偶就是你穿的那样呢..."/>
+				<string name="7" value="你知道偶为了跟你在一起要推掉多少约会吗？"/>
+				<string name="8" value="偶只是跟你说话，这样你就不会太无聊了呢。"/>
+				<string name="9" value="嘿，偶刚才告诉你的都是秘密，知道了吗？"/>
+				<string name="10" value="偶喜欢跟你一起玩呢！"/>
+				<string name="11" value="为什么女人喜欢小而闪亮的东西呢？"/>
+				<string name="12" value="这里有味道呢...是你...？"/>
+				<string name="13" value="你不记得你以前被蜗牛欺负的时候了吗？"/>
+				<string name="14" value="偶们走了太多了啦。偶们去水下世界休息吧。"/>
+				<string name="15" value="如果你知道好的餐厅，带偶去嘛！"/>
+			</imgdir>
+	</imgdir>

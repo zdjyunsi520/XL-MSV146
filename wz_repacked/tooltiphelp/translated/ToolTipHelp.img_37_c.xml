@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="埃德尔斯坦市立学校"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="埃德尔斯坦市政厅"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="自由市场"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="议会议长官邸"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="埃德尔斯坦临时机场"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="发廊"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="武器/防具店"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="杂货店"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="埃德尔斯坦医疗中心"/>
+			</imgdir>
+    <imgdir name="10">
+				<string name="Title" value="工艺小镇"/>
+			</imgdir>
+    <imgdir name="310010010">
+			<imgdir name="0">
+				<string name="Title" value="训练室"/>
+			</imgdir>
+    <imgdir name="310020000">
+			<imgdir name="0">
+				<string name="Title" value="埃德尔斯坦"/>
+			</imgdir>
+    <imgdir name="310030100">
+			<imgdir name="0">
+				<string name="Title" value="蛇之路"/>
+			</imgdir>
+    <imgdir name="310030200">
+			<imgdir name="0">
+				<string name="Title" value="可疑机器"/>
+			</imgdir>
+    <imgdir name="310030300">
+			<imgdir name="0">
+				<string name="Title" value="矿山入口"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="前往矿山的缆车"/>
+			</imgdir>
+    <imgdir name="310040110">
+			<imgdir name="0">
+				<string name="Title" value="黑色传送门"/>
+			</imgdir>
+    <imgdir name="310040200">
+			<imgdir name="0">
+				<string name="Title" value="矿山入口"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="弗恩矿山"/>
+			</imgdir>
+    <imgdir name="310040210">
+			<imgdir name="0">
+				<string name="Title" value=" restricted area: 向左移动返回城镇。"/>
+			</imgdir>
+</imgdir>

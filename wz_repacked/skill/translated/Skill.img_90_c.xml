@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="8001000"><string name="name" value="宏检测"/><string name="desc" value="[最高等级：1]\n对使用宏的角色执行测谎仪检测。"/><string name="h1" value="I got you!"/></imgdir>
+    <imgdir name="8001001"><string name="name" value="传送"/><string name="desc" value="[最高等级：1]\n使用所有方向键，传送到同一地图内的其他位置。"/><string name="h1" value="Teleport, Distance: 150"/></imgdir>
+    <imgdir name="9001000"><string name="name" value="快速移动（普通）"/><string name="desc" value="[最高等级：1]\n快速移动"/><string name="h1" value="Moving Speed + 40, Jump + 20 for 30 Minutes (Only for self)"/></imgdir>
+    <imgdir name="9001001"><string name="name" value="超级龙咆哮"/><string name="desc" value="[最高等级：1]\n超级龙咆哮"/><string name="h1" value="Damage 1000%, Full Screen Attack"/></imgdir>
+    <imgdir name="9001002"><string name="name" value="传送"/><string name="desc" value="[最高等级：1]\n传送"/><string name="h1" value="Teleport "/></imgdir>
+    <imgdir name="9001003"><string name="name" value="祝福"/><string name="desc" value="[最高等级：1]\n在15分钟内提升周围所有人的所有能力。"/><string name="h1" value="Attack and Magic Ability +20, and other abilities +100 for 30 minutes."/></imgdir>
+    <imgdir name="9001004"><string name="name" value="隐身"/><string name="desc" value="[最高等级：1]\n隐身"/><string name="h1" value="Hide"/></imgdir>
+    <imgdir name="9001005"><string name="name" value="复活"/><string name="desc" value="[最高等级：1]\n复活"/><string name="h1" value="Ressurect"/></imgdir>
+    <imgdir name="9001006"><string name="name" value="超级龙咆哮"/><string name="desc" value="[最高等级：1]\n超级龙咆哮"/><string name="h1" value="Damage 1000%, Full Screen Attack"/></imgdir>
+    <imgdir name="9001007"><string name="name" value="传送"/><string name="desc" value="[最高等级：1]\n传送"/><string name="h1" value="Teleport "/></imgdir>
+    <imgdir name="9001008"><string name="name" value="极限体力"/><string name="desc" value="[最高等级：1]\n在15分钟内提升最大HP和最大MP。"/><string name="h1" value="Max HP, Max MP 60% increase."/></imgdir>
+    <imgdir name="9001009"><string name="name" value="管理员_反宏"/><string name="desc" value="[最高等级：1]\n对可疑的宏使用者启动测谎仪。"/><string name="h1" value="Got cha!"/></imgdir>
+    <imgdir name="9001010"><string name="name" value="超级魔法突击"/><string name="desc" value="以9999%的几率攻击6个敌人8次。"/><string name="h" value="Attack in Range"/></imgdir>
+    <imgdir name="9101000"><string name="name" value="治愈+净化"/><string name="desc" value="[最高等级：1]\n治愈+净化"/><string name="h1" value="Heal + Dispel"/></imgdir>
+    <imgdir name="9101001"><string name="name" value="快速移动（超级）"/><string name="desc" value="[最高等级：1]\n快速移动"/><string name="h1" value="Moving Speed + 40, Jump + 20 for 30 Minutes"/></imgdir>
+    <imgdir name="9101002"><string name="name" value="神圣之火"/><string name="desc" value="[最高等级：1]\n神圣之火"/><string name="h1" value="EXP 150% for 30 Minutes"/></imgdir>
+    <imgdir name="9101003"><string name="name" value="祝福"/><string name="desc" value="[最高等级：1]\n祝福"/><string name="h1" value="Attack &amp; Magic Attack + 20, Others + 100 for 30 Minutes"/></imgdir>
+    <imgdir name="9101004"><string name="name" value="隐身"/><string name="desc" value="[最高等级：1]\n隐身"/><string name="h1" value="Hide"/></imgdir>
+    <imgdir name="9101005"><string name="name" value="复活"/><string name="desc" value="[最高等级：1]\n复活"/><string name="h1" value="Ressurect"/></imgdir>
+    <imgdir name="9101006"><string name="name" value="超级龙咆哮"/><string name="desc" value="[最高等级：1]\n超级龙咆哮"/><string name="h1" value="Damage 1000%, Full Screen Attack"/></imgdir>
+</imgdir>

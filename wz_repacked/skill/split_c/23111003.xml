@@ -1,0 +1,7 @@
+<imgdir name="23111003">
+        <string name="name" value="疾风俯冲" />
+        <string name="desc" value="借助风力俯冲攻击多个敌人。需要跳跃力达到120以上。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount" />
+        <string name="pdesc" value="借助风力俯冲攻击多个敌人。被削弱的敌人受到额外伤害。需要跳跃力达到120以上。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount\n冷却时间：#cooltime 秒" />
+    </imgdir>

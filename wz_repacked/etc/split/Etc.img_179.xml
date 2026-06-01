@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033767">
+			<string name="name" value="Cursed Horn Energy"/>
+			<string name="desc" value="Energy obtained from the horn dropped by Magnus. Collect 150 to lift the curse from Kaiserium."/>
+		</imgdir>
+    <imgdir name="4033780">
+			<string name="name" value="Damp Seed"/>
+			<string name="desc" value="A moist seed."/>
+		</imgdir>
+    <imgdir name="4033781">
+			<string name="name" value="Oily Seed"/>
+			<string name="desc" value="A seed covered in oils."/>
+		</imgdir>
+    <imgdir name="4033782">
+			<string name="name" value="Hornet Honey"/>
+			<string name="desc" value="This honey was stolen from a beehive by Hornets."/>
+		</imgdir>
+    <imgdir name="4033783">
+			<string name="name" value="Large Poison Gland"/>
+			<string name="desc" value="A large poison gland from the Poison Hornet."/>
+		</imgdir>
+    <imgdir name="4033784">
+			<string name="name" value="Royal Jelly"/>
+			<string name="desc" value="Really delicious high-grade honey."/>
+		</imgdir>
+    <imgdir name="4033785">
+			<string name="name" value="Demonic Rune"/>
+			<string name="desc" value="A rock with strange symbols."/>
+		</imgdir>
+    <imgdir name="4033824">
+			<string name="name" value="Sparitum Leaf"/>
+			<string name="desc" value="The leaf from a Sparitum tree."/>
+		</imgdir>
+    <imgdir name="4033825">
+			<string name="name" value="Starlight Crystal"/>
+			<string name="desc" value="A small crystal with a bright yellow shimmer."/>
+		</imgdir>
+    <imgdir name="4033826">
+			<string name="name" value="Cootie's Plant Encyclopedia"/>
+			<string name="desc" value="A thick book with some majorly detailed plant analyses."/>
+		</imgdir>
+    <imgdir name="4033827">
+			<string name="name" value="Cootie's Report Page"/>
+			<string name="desc" value="Sheets from Cootie's extensive research on fairy culture."/>
+		</imgdir>
+    <imgdir name="4033828">
+			<string name="name" value="Fairy Stageplay"/>
+			<string name="desc" value="A fairly well-written script about the fight against the Black Mage."/>
+		</imgdir>
+    <imgdir name="4033829">
+			<string name="name" value="Fairy Stage Costumes"/>
+			<string name="desc" value="Fairy hero costumes. They're way more tough-looking than you thought they'd be."/>
+		</imgdir>
+    <imgdir name="4033830">
+			<string name="name" value="Directional Sonar"/>
+			<string name="desc" value="Portable equipment used to detect sounds from specific directions."/>
+		</imgdir>
+    <imgdir name="4033979">
+			<string name="name" value="Memory Imprint"/>
+			<string name="desc" value="A piece of the Heart Tree's memories, giving a glimpse into how the guardian of the Shadow Veil Forest became what it is today."/>
+		</imgdir>
+    <imgdir name="4033980">
+			<string name="name" value="Corrupted Heart Seed"/>
+			<string name="desc" value="Evidence of the Heart Tree's corruption."/>
+		</imgdir>
+    <imgdir name="4033981">
+			<string name="name" value="Fragile Heart Tree Key"/>
+			<string name="desc" value="A key cobbled together from the memories of the Heart Tree. It should give you access to Gollux, but will break due to its poor construction. You can get 3 of these each day."/>
+		</imgdir>
+    <imgdir name="4033982">
+			<string name="name" value="Fallen Heart Tree Key"/>
+			<string name="desc" value="Made from various dead roots and stems found near the Heart Tree. It should give you access to Gollux. "/>
+		</imgdir>
+    <imgdir name="4033983">
+			<string name="name" value="Masterful Heart Tree Key"/>
+			<string name="desc" value="An extremely well-made Heart Tree key."/>
+		</imgdir>
+    <imgdir name="4055000">
+			<string name="name" value="Cassandra's Divine Coupon"/>
+			<string name="desc" value="Use this at #cHenesys Plastic Surgery# to #ctemporarily# change face once"/>
+		</imgdir>
+</imgdir>

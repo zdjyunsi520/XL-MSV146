@@ -1,0 +1,7 @@
+<imgdir name="15001002">
+        <string name="name" value="回旋踢" />
+        <string name="desc" value="一个猛烈的后空翻踢击，攻击周围所有敌人。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount" />
+        <string name="pdesc" value="一个猛烈的后空翻踢击，攻击周围所有敌人。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount" />
+    </imgdir>

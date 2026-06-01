@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2030012">
+		<string name="name" value="Ludibrium Warp Capsule"/>
+		<string name="desc" value="A warp capsule that allows you to return to Ludibrium. Can only be used in the Ludibrium area."/>
+	</imgdir>
+    <imgdir name="2030016">
+		<string name="name" value="Phyllia's Warp Powder"/>
+		<string name="desc" value="Warp powder made by fairy Phyllia.  Teleports you to Magatia when used inside the Nihal desert region."/>
+	</imgdir>
+    <imgdir name="2030019">
+		<string name="name" value="Nautilus Return Scroll"/>
+		<string name="desc" value="This scroll enables you to return to the Pirate village, Nautilus. This is a one use item and will disappear after use."/>
+	</imgdir>
+    <imgdir name="2030020">
+		<string name="name" value="Return to New Leaf City Scroll"/>
+		<string name="desc" value="Use this scroll to venture back to New Leaf City whenever you want!"/>
+	</imgdir>
+    <imgdir name="2030021">
+		<string name="name" value="The Knight's Magic Scroll"/>
+		<string name="desc" value="A scroll that the Red Lion King gave to his knights. When used, you will move to the Audience Room of the Red Lion King."/>
+	</imgdir>
+    <imgdir name="2030022">
+		<string name="name" value="Command Center Warp Capsule"/>
+		<string name="desc" value="A warp capsule that allows the owner of the capsule to warp to the Command Center of Omega Sector."/>
+	</imgdir>
+    <imgdir name="2030023">
+		<string name="name" value="Heart Return Stone"/>
+		<string name="desc" value="Allows you to move to your spouse's current map. #cDouble click# to use.\nIf your spouse is in a restricted area or you can't teleport from your current location, this stone is unusable."/>
+	</imgdir>
+    <imgdir name="2030024">
+		<string name="name" value="White Wave Harbor Return Scroll"/>
+		<string name="desc" value="A scroll that teleports you to White Wave Harbor. It will disappear once used."/>
+	</imgdir>
+    <imgdir name="2030025">
+		<string name="name" value="Elluel Return Scroll"/>
+		<string name="desc" value="A scroll that returns you to Elluel. It will disappear once used."/>
+	</imgdir>
+    <imgdir name="2030026">
+		<string name="name" value="Silent Crusade TransTicket"/>
+		<string name="desc" value="An enchanted ticket that transports you to the Silent Crusade's Hideout. Crumbles to dust after one use."/>
+	</imgdir>
+    <imgdir name="2030027">
+		<string name="name" value="Dangerous Cave TransTicket"/>
+		<string name="desc" value="A ticket that takes you to the Dangerous Cave. Disappears when used."/>
+	</imgdir>
+    <imgdir name="2030028">
+		<string name="name" value="Subway Ticketing Booth TransTicket"/>
+		<string name="desc" value="A ticket that takes you to the Subway Ticketing Booth. Disappears when used."/>
+	</imgdir>
+    <imgdir name="2030029">
+		<string name="name" value="Relic Excavation Camp TransTicket"/>
+		<string name="desc" value="A ticket that takes you to the Relic Excavation Camp. Disappears when used."/>
+	</imgdir>
+    <imgdir name="2030033">
+		<string name="name" value="Return Scroll - Zakum's Altar"/>
+		<string name="desc" value="Given upon using a Zakum Dungeon Additional Entry Ticket. Disappears once used. Only use this scroll in channels where Zakum can be summoned."/>
+	</imgdir>
+    <imgdir name="2030034">
+		<string name="name" value="Return Scroll - Horntail's Cave"/>
+		<string name="desc" value="Given upon using a Horntail Dungeon Additional Entry Ticket. Disappears once used. Only use this scroll in channels where Horntail can be summoned."/>
+	</imgdir>
+    <imgdir name="2030046">
+		<string name="name" value="Gold Beach Entry Pass"/>
+		<string name="desc" value="Takes you directly to the Gold Beach Resort. Disappears after one use."/>
+	</imgdir>
+    <imgdir name="2031000">
+		<string name="name" value="Masked Man's Invitation"/>
+		<string name="desc" value="An invitation from the Masked Man to the Halloween Party at the Haunted Mansion. Double-click to move straight to the mansion."/>
+	</imgdir>
+    <imgdir name="2031001">
+		<string name="name" value="Studio Invitation"/>
+		<string name="desc" value="An invitation to the studio for the event 'For Guild Only.'"/>
+	</imgdir>
+    <imgdir name="2031002">
+		<string name="name" value="Invitation to the Moon"/>
+		<string name="desc" value="An invitation to the moon, sent by the Moon Bunnies. Using this will send you directly to Moon Bunny's ????."/>
+	</imgdir>
+    <imgdir name="2031003">
+		<string name="name" value="Invitation to the Nest"/>
+		<string name="desc" value="An invitation to the baby bird's nest sent by Gaga. Use it to be sent directly to the nest."/>
+	</imgdir>
+</imgdir>

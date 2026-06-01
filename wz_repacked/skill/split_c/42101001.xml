@@ -1,0 +1,5 @@
+<imgdir name="42101001">
+        <string name="name" value="式神符咒" />
+        <string name="desc" value="从敌人身旁掠过，留下一张符咒。符咒会吸引附近的敌人，使其减速并降低命中率。符咒在5秒后或使用式神缠身时爆炸。" />
+        <string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount。召唤持续时间：#time秒，敌人速度：#x，敌人命中率：-#y，爆炸伤害：#selfDestruction% \n冷却时间#cooltime秒" />
+    </imgdir>

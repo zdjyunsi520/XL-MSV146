@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20021049"><string name="name" value="梦魇"/><string name="desc" value="[最高等级：1]\n可以骑乘梦魇。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="20021050"><string name="name" value="雪人"/><string name="desc" value="[最高等级：1]\n可以骑乘雪人。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="20021051"><string name="name" value="鸵鸟"/><string name="desc" value="[最高等级：1]\n骑上陆地上最快的鸟——鸵鸟吧～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="20021052"><string name="name" value="粉色熊热气球"/><string name="desc" value="[最高等级：1]\n坐上粉色熊热气球升空吧～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="20021053"><string name="name" value="变形机器人"/><string name="desc" value="[最高等级：1]\n可以骑乘变形机器人。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：170，跳跃力：120"/></imgdir>
+    <imgdir name="20021061"><string name="name" value="捕获"/><string name="desc" value="[最高等级：1]\n当怪物HP低于50%时可以捕获它。\n在美洲豹栖息地捕获的怪物可以用作坐骑。\n#c冷却时间：10秒#"/><string name="h1" value="MP消耗：10，最多可捕获5种怪物"/></imgdir>
+    <imgdir name="20021062"><string name="name" value="猎人的呼唤"/><string name="desc" value="[最高等级：1]\n随机召唤你捕获的一种怪物来帮忙。\n（不包括美洲豹。）\n前置技能：捕获 Lv. 1\n#c冷却时间：10秒#"/><string name="h1" value="MP消耗：10，召唤持续时间：20秒"/></imgdir>
+    <imgdir name="20021063"><string name="name" value="摩托车"/><string name="desc" value="[最高等级：1]\n可以骑乘摩托车。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140，跳跃力：120"/></imgdir>
+    <imgdir name="20021064"><string name="name" value="动力战甲"/><string name="desc" value="[最高等级：1]\n可以装备动力战甲。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140，跳跃力：120"/></imgdir>
+    <imgdir name="20021068"><string name="name" value="机械冲刺"/><string name="desc" value="连按左右方向键高速移动一小段距离。\n[指令：#c右方向键+右方向键#]"/><string name="h" value="MP消耗：#mpCon，移动一小段距离"/></imgdir>
+    <imgdir name="20021072"><string name="name" value="莱昂纳多狮子"/><string name="desc" value="[最高等级：1]\n可以骑乘莱昂纳多狮子。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140，跳跃力：120"/></imgdir>
+    <imgdir name="20021081"><string name="name" value="魔女扫帚"/><string name="desc" value="[最高等级：1]\n可以骑乘扫帚。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：120，跳跃力：120"/></imgdir>
+    <imgdir name="20021084"><string name="name" value="蓝色滑板车"/><string name="desc" value="[最高等级：1]\n可以骑乘蓝色滑板车。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：120，跳跃力：120"/></imgdir>
+    <imgdir name="20021085"><string name="name" value="大天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20021087"><string name="name" value="暗黑天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在暗黑天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20021089"><string name="name" value="圣诞雪橇"/><string name="desc" value="[最高等级：1]\n可以骑乘圣诞雪橇。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140，跳跃力：120"/></imgdir>
+    <imgdir name="20021090"><string name="name" value="大天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20021098"><string name="name" value="冰之二段跳"/><string name="pdesc" value="在空中进行第二次跳跃。"/><string name="ph" value="MP消耗：0，额外跳跃距离\n冷却时间：#cooltime 秒"/></imgdir>
+    <imgdir name="20021105"><string name="name" value="冰骑士"/><string name="pdesc" value="你已变身为冰骑士。击败挑战者们，坚持到时间结束吧！"/><string name="ph" value="你已变身为冰骑士。击败挑战者们，坚持到时间结束吧！"/></imgdir>
+    <imgdir name="20021106"><string name="name" value="福运"/><string name="desc" value="[最高等级：1]\n可以骑乘福运。"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：120，跳跃力：120"/></imgdir>
+</imgdir>

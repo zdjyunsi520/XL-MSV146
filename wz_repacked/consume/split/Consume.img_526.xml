@@ -1,0 +1,85 @@
+<imgdir name="Consume.img">
+    <imgdir name="2711004">
+		<string name="name" value="Meister's Cube"/>
+		<string name="desc" value="A miraculous cube that resets the potential of a piece of equipment. Has a greater chance of raising equipment rank higher than the Master Craftsman's Cube. \n#cOnly usable on items from Rare to Legendary.# \n#cMax Result: Legendary #"/>
+		<string name="autodesc" value="\r\n#cResets existing potentials.\r\n#"/>
+	</imgdir>
+    <imgdir name="2720001">
+		<string name="desc" value="Sever the bond between an item and the original owner to allow for trade. This item can only be used on certain items and cannot be used on sealed items."/>
+		<string name="name" value="Silver Scissors of Karma"/>
+	</imgdir>
+    <imgdir name="2432283">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432284">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432285">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432286">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432287">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432288">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432289">
+		<string name="name" value="Play Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432278">
+		<string name="name" value="Trade Coin Coupon"/>
+		<string name="desc" value="#cDouble-click# to get 1 Trade Coin."/>
+	</imgdir>
+    <imgdir name="2432279">
+		<string name="name" value="Commerci 2x EXP Coupon"/>
+		<string name="desc" value="This 2x EXP Coupon can only be used in Commerci. You'll get 2x EXP in all locations, but you must be in #cCommerci# to use the coupon."/>
+	</imgdir>
+    <imgdir name="2432280">
+		<string name="name" value="5 Trade Coins Coupon"/>
+		<string name="desc" value="#cDouble-click# to get 5 Trade Coins."/>
+	</imgdir>
+    <imgdir name="2450082">
+		<string name="name" value="Commerci 2x EXP"/>
+		<string name="desc" value="This 2x EXP Coupon can only be used in Commerci. You'll get 2x EXP in all locations, but you must be in #cCommerci# to use the coupon."/>
+	</imgdir>
+    <imgdir name="2610000">
+		<string name="name" value="Upgrade Anvil"/>
+		<string name="desc" value="A mystical Anvil that can transfer the stats of Lv. 140 and Lv. 150 items to Lv. 160 Sweetwater items."/>
+	</imgdir>
+    <imgdir name="2615004">
+		<string name="name" value="Scroll for Sweetwater Accessory"/>
+		<string name="desc" value="A scroll for Sweetwater Accessories. \r\n#c\r\nAll Stat +5 \r\nSuccess Chance: 70%\r\nIf it fails, there's a 30% chance of the item being completely destroyed\r\n#"/>
+	</imgdir>
+    <imgdir name="2616206">
+		<string name="name" value="Scroll for Sweetwater Armor"/>
+		<string name="desc" value="A scroll for Sweetwater Armor. \r\n#c\r\nAll Stat +7, MHP +100, MMP +100\r\nSuccess Chance: 70%\r\nIf it fails, there's a 30% chance of the item being completely destroyed\r\n#"/>
+	</imgdir>
+    <imgdir name="2613007">
+		<string name="name" value="Scroll for Sweetwater One-Handed Weapon"/>
+		<string name="desc" value="A scroll for Sweetwater One-Handed Weapons. \r\n#c\r\nPAD +7, MAD +7 \r\nSuccess Chance: 70%\r\nIf it fails, there's a 30% chance of the weapon being completely destroyed\r\n#"/>
+	</imgdir>
+    <imgdir name="2612015">
+		<string name="name" value="Scroll for Sweetwater Two-Handed Weapon"/>
+		<string name="desc" value="A scroll for Sweetwater Two-Handed Weapons. \r\n#c\r\nPAD +7, MAD +7 \r\nSuccess Chance: 70%\r\nIf it fails, there's a 30% chance of the weapon being completely destroyed\r\n#"/>
+	</imgdir>
+    <imgdir name="2710002">
+		<string name="name" value="Master Craftsman's Cube"/>
+		<string name="desc" value="A mysterious cube, said to bring out the hidden potential of equipment. This item is time limited. \n#cOnly usable on items graded Rare to Unique# \n#cMax Result: Unique#"/>
+		<string name="autodesc" value="\r\n#cResets existing potentials.\r\n#"/>
+	</imgdir>
+    <imgdir name="2710003">
+		<string name="name" value="Meister's Cube"/>
+		<string name="desc" value="A miraculous cube that resets the potential of a piece of equipment. Has a greater chance of raising equipment rank than the Master Craftsman's Cube. This item is time limited.  \n#cOnly usable on items graded Rare to Legendary.# \n#cMax Result: Legendary #"/>
+		<string name="autodesc" value="\r\n#cResets existing potentials.\r\n#"/>
+	</imgdir>
+</imgdir>

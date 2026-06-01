@@ -1,0 +1,7 @@
+<imgdir name="40021075">
+        <string name="name" value="Mihile&apos;s Soul Driver" />
+        <string name="desc" value="Summons Mihile to strike down multiple enemies with four powerful blows. Skill level can be increased depending on your level." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="Smashes the ground to attack several enemies 4 consecutive times. " />
+        <string name="ph" value="MP Cost: #mpCon, Max Monsters Hit#mobCount, Damage: #damage%, Number of Attacks: 4\nCooldown: #cooltime Sec" />
+    </imgdir>

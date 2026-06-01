@@ -1,0 +1,5 @@
+<imgdir name="11120010">
+        <string name="name" value="Master of the Sword (Rising Sun)" />
+        <string name="desc" value="You become a master of the sword, mastering both types of powers.\nRequired Skill: #cFalling Moon Lv. 20 and Rising Sun Lv. 20#" />
+        <string name="h" value="[Falling Moon] Critical Rate: +#indieCr%, Attack Count on All Skills: x#x, Damage Reduction: #y%\n[Rising Sun] Damage: #v% Attack Speed: +2" />
+    </imgdir>

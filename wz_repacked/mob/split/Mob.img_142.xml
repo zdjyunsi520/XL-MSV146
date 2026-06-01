@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8890000">
+		<string name="name" value="Black Mage's Henchman A"/>
+	</imgdir>
+    <imgdir name="8890001">
+		<string name="name" value="Black Mage's Henchman A"/>
+	</imgdir>
+    <imgdir name="8890002">
+		<string name="name" value="Black Mage's Henchman B"/>
+	</imgdir>
+    <imgdir name="9001015">
+		<string name="name" value="Shadow Dual Blade"/>
+	</imgdir>
+    <imgdir name="9001016">
+		<string name="name" value="Giant Shadow Blade"/>
+	</imgdir>
+    <imgdir name="9001017">
+		<string name="name" value="Shadow Blade Lord"/>
+	</imgdir>
+    <imgdir name="9001018">
+		<string name="name" value="Giant Blade Master"/>
+	</imgdir>
+    <imgdir name="9001019">
+		<string name="name" value="Secret Room Guardian Doll"/>
+	</imgdir>
+    <imgdir name="9001020">
+		<string name="name" value="Straw Training Doll"/>
+	</imgdir>
+    <imgdir name="9001021">
+		<string name="name" value="Wooden Training Doll"/>
+	</imgdir>
+    <imgdir name="9001022">
+		<string name="name" value="Training Jar"/>
+	</imgdir>
+    <imgdir name="9001023">
+		<string name="name" value="Training Bellflower"/>
+	</imgdir>
+    <imgdir name="9001024">
+		<string name="name" value="Primitive Thief Boar"/>
+	</imgdir>
+    <imgdir name="9001025">
+		<string name="name" value="Kenta's Freezer"/>
+	</imgdir>
+    <imgdir name="9001026">
+		<string name="name" value="Kenta's Seruf"/>
+	</imgdir>
+    <imgdir name="9001027">
+		<string name="name" value="Decaying Coolie Zombie"/>
+	</imgdir>
+    <imgdir name="9001028">
+		<string name="name" value="Secret Master Soul Teddy"/>
+	</imgdir>
+    <imgdir name="9001029">
+		<string name="name" value="Ship Captain"/>
+	</imgdir>
+    <imgdir name="9001030">
+		<string name="name" value="Ship Kru"/>
+	</imgdir>
+    <imgdir name="9001031">
+		<string name="name" value="Schiller"/>
+	</imgdir>
+</imgdir>

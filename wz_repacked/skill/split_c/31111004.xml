@@ -1,0 +1,5 @@
+<imgdir name="31111004">
+        <string name="name" value="黑心之力" />
+        <string name="desc" value="你冷酷无情的心使你抵御攻击，暂时提升防御力、异常状态抗性和所有属性抗性。" />
+        <string name="h" value="HP消耗：#hpCon，防御力+#x%，异常状态抗性+#y%，所有属性抗性：+#z%，持续时间：#time。" />
+    </imgdir>

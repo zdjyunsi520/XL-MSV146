@@ -1,0 +1,5 @@
+<imgdir name="1201011">
+        <string name="name" value="Flame Charge" />
+        <string name="desc" value="Instantaneously grants fire attribute to your weapon to deal fire damage to enemies and inflict burns on them." />
+        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. At #prop% chance, deals #dot% Fire Damage for #dotTime sec" />
+    </imgdir>

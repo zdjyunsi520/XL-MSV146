@@ -1,0 +1,8 @@
+<imgdir name="4111003">
+        <string name="name" value="影网" />
+        <string name="desc" value="在你周围编织暗影之网，可以缠住最多6个怪物。被缠住的怪物无法移动并持续受到伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time, Bind Chance: #prop%, Damage: #damage%, Damage Over Time: #dot% per second" />
+        <string name="pdesc" value="编织暗影之网可以缠住多个怪物。被缠住的怪物无法移动并持续受到伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time, Bind Chance: #prop%, Damage: #damage%, Damage Over Time: #dot% per sec\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Damage Over Time: #prop% chance to deal #dot% every second for #time sec, Bind Chance: #hcProp%, Bind Duration: #hcTime\nCooldown: #hcCooltime sec" />
+    </imgdir>

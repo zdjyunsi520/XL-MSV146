@@ -1,0 +1,5 @@
+<imgdir name="36121052">
+        <string name="name" value="Orbital Cataclysm" />
+        <string name="desc" value="A powerful laser blasts down from space to scorch the earth." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, DEF: - #x% for  #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="32121004">
+        <string name="name" value="暗黑创世" />
+        <string name="desc" value="使用暗黑力量攻击最多15个敌人并可能使其眩晕。如果你已学会暗黑震荡，那该技能的伤害也将永久提升。" />
+        <string name="h" value="主动效果 - MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，概率：#prop%，眩晕持续时间：#time秒，冷却时间：#cooltime秒。\n被动效果：暗黑震荡伤害：+#damR%" />
+        <string name="pdesc" value="使用暗黑力量攻击最多15个敌人并可能使其眩晕。如果你已学会暗黑震荡，那该技能的伤害也将永久提升。" />
+        <string name="ph" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒，冷却时间：#cooltime秒\n被动效果 - 暗黑震荡伤害：+#damR%" />
+        <string name="hch" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime秒，冷却时间：#cooltime秒\n被动效果 - 暗黑震荡伤害：+#damR%" />
+    </imgdir>

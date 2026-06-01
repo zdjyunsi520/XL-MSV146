@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="30001114"><string name="name" value="六周年庆典之夜"/><string name="desc" value="[最高等级：1]\n可以使用六周年套装效果技能。"/></imgdir>
+    <imgdir name="30001115"><string name="name" value="执法官"/><string name="desc" value="[最高等级：1]\n可以使用执法官技能。"/></imgdir>
+    <imgdir name="30001118"><string name="name" value="妮娜的结界"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001121"><string name="name" value="青蛙"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001122"><string name="name" value="乌龟"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001123"><string name="name" value="水牛"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001124"><string name="name" value="小坦克"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001129"><string name="name" value="精灵维京"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001130"><string name="name" value="弹珠机器人"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001136"><string name="name" value="雷克斯的鬣狗"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：190%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001138"><string name="name" value="低底盘机车"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001139"><string name="name" value="拿破仑坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001142"><string name="name" value="飞翔（坐骑）"/><string name="desc" value="可以骑着能飞行的坐骑在空中翱翔。骑乘可飞行的坐骑时，按上方向键和跳跃键即可飞翔。\n激活消耗5MP。"/><string name="h1" value="MP消耗：10"/></imgdir>
+    <imgdir name="30001143"><string name="name" value="红色飞龙"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#0秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：180%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001144"><string name="name" value="神兽"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#15秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：180%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001145"><string name="name" value="热气球"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#300秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001146"><string name="name" value="抚子飞天"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#120秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：180%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001147"><string name="name" value="天马"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#45秒#"/></imgdir>
+    <imgdir name="30001148"><string name="name" value="龙"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#120秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：190%，跳跃力：120%"/></imgdir>
+    <imgdir name="30001149"><string name="name" value="魔法扫帚"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。\n如果拥有#飞翔#技能，按下上方向键和跳跃键即可升空。\n激活时消耗5MP。\n最长飞行时间：#30秒#"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+</imgdir>

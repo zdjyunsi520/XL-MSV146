@@ -1,0 +1,142 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000075">
+		<string name="name" value="Chan"/>
+		<string name="func" value="Golden Temple Guard"/>
+		<string name="d0" value="SnowFro the Fruitnificent appears quite often here. Please be careful."/>
+		<string name="d1" value="SnowFro the Fruitnificent appears quite often here. Please be careful."/>
+		<string name="n0" value="This is dangerous place."/>
+		<string name="n1" value="Please return to the temple, where it's safe."/>
+	</imgdir>
+    <imgdir name="9000076">
+		<string name="name" value="Tthaya"/>
+		<string name="func" value="The Praying Girl"/>
+		<string name="d0" value="*Mumbles* I must do my best."/>
+		<string name="d1" value="*Mumbles* I must do my best."/>
+		<string name="n0" value="Awimoweh... Awimoweh..."/>
+		<string name="n1" value="The legendary SnowFro has appeared..."/>
+	</imgdir>
+    <imgdir name="9000077">
+		<string name="name" value="Toniza"/>
+		<string name="func" value="General Store"/>
+		<string name="d0" value="I used to be big-time! I was gonna be in pictures, kung-fuing all over the big screen. Now I'm stuck here..."/>
+		<string name="d1" value="I used to be big-time! I was gonna be in pictures, kung-fuing all over the big screen. Now I'm stuck here..."/>
+		<string name="n0" value="Coming all the way here... you are pretty impressive."/>
+		<string name="n1" value="Why am I here? *Chuckles* Don't worry about it."/>
+	</imgdir>
+    <imgdir name="9000078">
+		<string name="name" value="Mr. Yoo"/>
+		<string name="func" value="Golden Temple Tour Guide"/>
+		<string name="d0" value="This is now a dangerous place for traveling. It would be best if you went back."/>
+		<string name="d1" value="This is now a dangerous place for traveling. It would be best if you went back."/>
+		<string name="n0" value="Be careful, this is a dangerous place for traveling."/>
+		<string name="n1" value="Please hurry and prepare to leave."/>
+	</imgdir>
+    <imgdir name="9000081">
+		<string name="name" value="Ms. Tang"/>
+		<string name="n0" value="*Sigh.* It's not a good day for business."/>
+		<string name="n1" value="Ask me anything you'd like!"/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="9000082">
+		<string name="name" value="Pong"/>
+		<string name="n0" value="Would you like to leave this place?"/>
+		<string name="n1" value="If you would like to leave this place, talk to me."/>
+		<string name="func" value="Golden Temple Guard"/>
+	</imgdir>
+    <imgdir name="9201149">
+		<string name="name" value="T-1227"/>
+		<string name="n0" value="*Spark!* I am cybernetic automaton model T-1337. BZZ!"/>
+		<string name="n1" value="I have been sent to... CRITICAL SYSTEM ERROR! *Blue Screen.*"/>
+		<string name="d0" value="*Spark!* I am cybernetic automaton model T-1337. BZZ!"/>
+		<string name="d1" value="I have been sent to... CRITICAL SYSTEM ERROR! *Blue Screen.*"/>
+	</imgdir>
+    <imgdir name="1057000">
+		<string name="name" value="Shiba"/>
+		<string name="n0" value="Zzz... Zzz..."/>
+		<string name="n1" value="Can I help you?"/>
+		<string name="d0" value="I have pride and respect. That is especially important for people like us."/>
+		<string name="d1" value="I have pride and respect. That is especially important for people like us."/>
+	</imgdir>
+    <imgdir name="1057001">
+		<string name="name" value="Ryden"/>
+		<string name="n0" value="Mwahaha!"/>
+		<string name="n1" value="What do you think is hiding under the shadows?"/>
+		<string name="d0" value="What brings you here?"/>
+		<string name="d1" value="Long time no see, rookie."/>
+	</imgdir>
+    <imgdir name="1057002">
+		<string name="name" value="Yun"/>
+		<string name="n0" value="I'm worried about Syl... I mean, Lady Syl."/>
+		<string name="n1" value="Hiya! I'm in the middle of training right now..."/>
+		<string name="d0" value="Focus! Hah!"/>
+		<string name="d1" value="Syl... I mean, Lady Syl hasn't been sleeping much. I'm worried about her."/>
+	</imgdir>
+    <imgdir name="1057003">
+		<string name="name" value="Suri"/>
+		<string name="n0" value="Coo?!"/>
+		<string name="n1" value="Coo coo coo coo!"/>
+		<string name="d0" value="Coo!"/>
+		<string name="d1" value="Coo?! Coo!"/>
+	</imgdir>
+    <imgdir name="1057004">
+		<string name="name" value="Former Dark Lord"/>
+		<string name="n0" value="I've only got myself to blame..."/>
+		<string name="n1" value="My child... I wish she'd find her smile again..."/>
+		<string name="d0" value="Are you here to seek the truth?"/>
+		<string name="d1" value="Please, help my child...and him."/>
+	</imgdir>
+    <imgdir name="1057006">
+		<string name="name" value="Anonymous Sender"/>
+		<string name="n0" value="Mwahaha!"/>
+		<string name="n1" value="What do you think is hiding under the shadows?"/>
+		<string name="d0" value="What brings you here?"/>
+		<string name="d1" value="Long time no see, rookie."/>
+	</imgdir>
+    <imgdir name="1058000">
+		<string name="name" value="Suri"/>
+		<string name="n0" value="Coo coo?!"/>
+		<string name="n1" value="Coo coo coo coo coo coo coo COO!!!!"/>
+		<string name="d0" value="Coo coo!!"/>
+		<string name="d1" value="Coo coo?! COO!!"/>
+	</imgdir>
+    <imgdir name="1058001">
+		<string name="name" value="Huey"/>
+		<string name="func" value="Part-Timer"/>
+		<string name="d0" value="Arggh!! I'm sooo busy! And why do I get piled with even more stuff when I'm so busy?!"/>
+		<string name="d1" value="Resolved somehow... I guess?"/>
+	</imgdir>
+    <imgdir name="1058002">
+		<string name="name" value="The Dark Lord's Diary"/>
+		<string name="d0" value="(This diary is rather mysterious... who drew all these unicorns in here?)"/>
+		<string name="d1" value="(This diary is rather mysterious... who drew all these unicorns in here?)"/>
+	</imgdir>
+    <imgdir name="1058003">
+		<string name="name" value="Mu Young's Storage"/>
+		<string name="d0" value="(Barrels full of stuff... Looks like Mu Young is one unorganized fellow.)"/>
+		<string name="d1" value="(Barrels full of stuff... Looks like Mu Young is one unorganized fellow.)"/>
+	</imgdir>
+    <imgdir name="2081015">
+		<string name="name" value="Orphe"/>
+		<string name="func" value="Bard"/>
+		<string name="n0" value="Lalalala lalala lalala!"/>
+		<string name="n1" value="It's coming... it's coming... I got it! The beautiful melody..."/>
+		<string name="d0" value="I'm a bard of Leafre. I play beautiful music."/>
+		<string name="d1" value="Music is played with your heart... Not with your looks!"/>
+	</imgdir>
+    <imgdir name="2081016">
+		<string name="name" value="Blueon"/>
+		<string name="func" value="Blue Trooper Captain"/>
+		<string name="n0" value="Grrr... Those Red Dragon Turtles..."/>
+		<string name="n1" value="We shall fight until we win!"/>
+		<string name="d0" value="Grrr... When did this battle begin...?"/>
+		<string name="d1" value="The battle will not end... Not until we wipe out every single Red Dragon Turtle. Grrr!"/>
+	</imgdir>
+    <imgdir name="2081017">
+		<string name="name" value="Redring"/>
+		<string name="func" value="Red Trooper Captain"/>
+		<string name="n0" value="Fight! It's a war!"/>
+		<string name="n1" value="Destroy the Blue Dragon Turtles! Eradicate them!"/>
+		<string name="d0" value="Battle after battle! Fighting will continue until the last Blue Dragon Turtle falls dead! Grrr!"/>
+		<string name="d1" value="Battle after battle! Fighting will continue until the last Blue Dragon Turtle falls dead! Grrr!"/>
+	</imgdir>
+</imgdir>

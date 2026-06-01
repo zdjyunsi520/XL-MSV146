@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2050099">
+		<string name="name" value="燃烧羽毛"/>
+		<string name="desc" value="燃烧羽毛"/>
+	</imgdir>
+    <imgdir name="2060000">
+		<string name="name" value="弓用箭矢"/>
+		<string name="desc" value="满桶箭矢。仅限弓使用。"/>
+	</imgdir>
+    <imgdir name="2060001">
+		<string name="name" value="弓用青铜箭矢"/>
+		<string name="desc" value="满桶青铜箭矢。仅限弓使用。\n攻击+1"/>
+	</imgdir>
+    <imgdir name="2060002">
+		<string name="name" value="弓用钢铁箭矢"/>
+		<string name="desc" value="满桶钢铁箭矢。仅限弓使用。\n力量+1，攻击+1"/>
+	</imgdir>
+    <imgdir name="2060003">
+		<string name="name" value="弓用红色箭矢"/>
+		<string name="desc" value="满箱箭矢。仅限弓使用。\n攻击+4。"/>
+	</imgdir>
+    <imgdir name="2060004">
+		<string name="name" value="弓用钻石箭矢"/>
+		<string name="desc" value="满箱箭矢。仅限弓使用。\n攻击+4。"/>
+	</imgdir>
+    <imgdir name="2060005">
+		<string name="name" value="雪球"/>
+		<string name="desc" value="一团压缩的雪。可以投掷造成伤害。"/>
+	</imgdir>
+    <imgdir name="2060006">
+		<string name="name" value="大雪球"/>
+		<string name="desc" value="一个更大、更具威慑力的压缩雪球。可以投掷造成伤害。"/>
+	</imgdir>
+    <imgdir name="2060008">
+		<string name="name" value="弓用优质箭矢"/>
+		<string name="desc" value="装有优质箭矢的箭袋。仅限弓使用。\n攻击+3"/>
+	</imgdir>
+    <imgdir name="2060009">
+		<string name="name" value="弓用强化箭矢"/>
+		<string name="desc" value="装有铁制强化箭矢的箭袋。仅限弓使用。\n攻击+5"/>
+	</imgdir>
+    <imgdir name="2060010">
+		<string name="name" value="弓用锋利箭矢"/>
+		<string name="desc" value="装有锋利箭矢的箭袋。仅限弓使用。\n攻击+7"/>
+	</imgdir>
+    <imgdir name="2060011">
+		<string name="name" value="弓用钛合金箭矢"/>
+		<string name="desc" value="装有钛合金箭矢的箭袋。仅限弓使用。\n攻击+9"/>
+	</imgdir>
+    <imgdir name="2060013">
+		<string name="name" value="白金中箭头"/>
+		<string name="desc" value="装有白金中箭头的箭袋。仅限弓使用。\n武器：攻击+6"/>
+	</imgdir>
+    <imgdir name="2061000">
+		<string name="name" value="弩用箭矢"/>
+		<string name="desc" value="满桶箭矢。仅限弩使用。"/>
+	</imgdir>
+    <imgdir name="2061001">
+		<string name="name" value="弩用青铜箭矢"/>
+		<string name="desc" value="满桶青铜箭矢。仅限弩使用。\n攻击+1"/>
+	</imgdir>
+    <imgdir name="2061002">
+		<string name="name" value="弩用钢铁箭矢"/>
+		<string name="desc" value="满桶钢铁箭矢。仅限弩使用。\n攻击+2"/>
+	</imgdir>
+    <imgdir name="2061003">
+		<string name="name" value="弩用蓝色箭矢"/>
+		<string name="desc" value="满箱箭矢。仅限弩使用。\n攻击+4。"/>
+	</imgdir>
+    <imgdir name="2061004">
+		<string name="name" value="弩用钻石箭矢"/>
+		<string name="desc" value="满箱箭矢。仅限弩使用。\n攻击+4。"/>
+	</imgdir>
+    <imgdir name="2061006">
+		<string name="name" value="弩用优质箭矢"/>
+		<string name="desc" value="装有优质箭矢的箭袋。仅限弩使用。\n攻击+3"/>
+	</imgdir>
+    <imgdir name="2061007">
+		<string name="name" value="弩用强化箭矢"/>
+		<string name="desc" value="装有铁制强化箭矢的箭袋。仅限弩使用。\n攻击+5"/>
+	</imgdir>
+</imgdir>

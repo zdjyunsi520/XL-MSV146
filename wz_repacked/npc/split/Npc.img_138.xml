@@ -1,0 +1,96 @@
+<imgdir name="Npc.img">
+    <imgdir name="2142105">
+		<string name="name" value="Wrestles the Wolves"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2142106">
+		<string name="name" value="Elex"/>
+		<string name="func" value="Resistance"/>
+		<string name="n0" value="You! Stop slacking off and get back to work!"/>
+		<string name="n1" value="This will turn into THE tourist hotspot once the construction is done."/>
+		<string name="d0" value="Less slacking, more working!"/>
+		<string name="d1" value="We're behind schedule. We must hurry."/>
+	</imgdir>
+    <imgdir name="2142107">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="Resistance"/>
+		<string name="n0" value="The Resistance is poised to make something entirely new of this place..."/>
+		<string name="n1" value="Let's get to work, everyone. Happiness is right around the corner!"/>
+		<string name="d0" value="If we endure a little hardship now, we will surely reap the benefits later."/>
+		<string name="d1" value="With the Black Mage out of the picture, this city will become the new top tourist destination!"/>
+	</imgdir>
+    <imgdir name="2142108">
+		<string name="name" value="Blackbull"/>
+		<string name="n0" value="I haven't seen you before. You'd best watch yourself."/>
+		<string name="n1" value="Relax, we're not cannibals... *Drool*"/>
+		<string name="d0" value="Sigh, I don't have enough ingredients."/>
+		<string name="d1" value="Oh hey, it's you! Thanks a lot for your help last time."/>
+	</imgdir>
+    <imgdir name="2142109">
+		<string name="name" value="Ayan"/>
+		<string name="s0" value="I am Ayan."/>
+		<string name="s1" value="I was rescued by the people here, so I stuck around to help out."/>
+		<string name="d0" value="Perion, the city of warriors... When will we find peace here again?"/>
+		<string name="d1" value="Thank you so much for helping us last time."/>
+	</imgdir>
+    <imgdir name="2142110">
+		<string name="name" value="Hard as Stone"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2142111">
+		<string name="name" value="Manji"/>
+		<string name="n0" value="Just go before you get hurt."/>
+		<string name="n1" value="Don't talk to me."/>
+		<string name="d0" value="I won't forgive anyone who stands in my way."/>
+		<string name="d1" value="I was wondering who was causing such a scene... You, huh? Maybe I should stop calling you a kid now, heh."/>
+	</imgdir>
+    <imgdir name="2142112">
+		<string name="name" value="Cobie"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="Woof woof"/>
+		<string name="n1" value="Woof, woof!"/>
+	</imgdir>
+    <imgdir name="2142900">
+		<string name="name" value="Chief Stan"/>
+	</imgdir>
+    <imgdir name="2142901">
+		<string name="name" value="Mrs. Ming Ming"/>
+	</imgdir>
+    <imgdir name="2142902">
+		<string name="name" value="Bruce"/>
+	</imgdir>
+    <imgdir name="2142903">
+		<string name="name" value="Camila"/>
+	</imgdir>
+    <imgdir name="2142904">
+		<string name="name" value="Pia"/>
+	</imgdir>
+    <imgdir name="2142910">
+		<string name="name" value="Kirium"/>
+		<string name="func" value="Storage Keeper"/>
+	</imgdir>
+    <imgdir name="2142911">
+		<string name="name" value="Kiriwing"/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="2142912">
+		<string name="name" value="Kiryu"/>
+		<string name="func" value="Weapon / Armor Seller"/>
+	</imgdir>
+    <imgdir name="2142920">
+		<string name="name" value="Blackbull"/>
+	</imgdir>
+    <imgdir name="2142921">
+		<string name="name" value="Dances with Balrog"/>
+	</imgdir>
+    <imgdir name="2142922">
+		<string name="name" value="Stands with Bulls"/>
+	</imgdir>
+    <imgdir name="2142923">
+		<string name="name" value="Ayan"/>
+	</imgdir>
+</imgdir>

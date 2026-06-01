@@ -1,0 +1,5 @@
+<imgdir name="80011001">
+        <string name="name" value="Fire Cannon" />
+        <string name="desc" value="Use this to fire cannons installed on the vessel. " />
+        <string name="h" value="Attacks up to #mobCount enemies. \nCooldown: #cooltime sec" />
+    </imgdir>

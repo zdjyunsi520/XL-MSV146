@@ -1,0 +1,6 @@
+<imgdir name="5821010">
+        <string name="name" value="时间飞跃" />
+        <string name="desc" value="重置你和队员技能的冷却时间。不会重置时间飞跃本身的冷却时间。" />
+        <string name="h" value="MP Cost: #mpCon, Cooldown: #x min" />
+        <string name="pdesc" value="重置队伍技能的冷却时间。不会重置时间飞跃本身的冷却时间。" />
+    </imgdir>

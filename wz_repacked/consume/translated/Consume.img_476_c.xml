@@ -1,0 +1,98 @@
+<imgdir name="Consume.img">
+    <imgdir name="2047814">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击力：+9至+11\r\n所有属性：+3\r\n#"/>
+		<string name="desc" value="提升双手武器的武器攻击力。"/>
+		<string name="name" value="魔法双手武器攻击卷轴"/>
+	</imgdir>
+    <imgdir name="2047946">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n武器攻击力：+1至+2"/>
+		<string name="desc" value="提升防具的武器攻击力。"/>
+		<string name="name" value="防具攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2047947">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n魔法攻击力：+1至+2"/>
+		<string name="desc" value="提升防具的魔法攻击力。"/>
+		<string name="name" value="防具魔法攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2048211">
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时不摧毁物品。\r\n#"/>
+		<string name="desc" value="#c双击#为已有3条或更少附加潜能的装备添加一条额外的附加潜能。"/>
+		<string name="name" value="一月潜能槽雕刻刀"/>
+	</imgdir>
+    <imgdir name="2048212">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n#"/>
+		<string name="desc" value="#c双击#为已有3条或更少附加潜能的装备添加一条额外的附加潜能。"/>
+		<string name="name" value="完美潜能槽雕刻刀"/>
+	</imgdir>
+    <imgdir name="2048313">
+		<string name="autodesc" value="\r\n成功率：80%\r\n"/>
+		<string name="desc" value="为没有附加潜能的#c心形项链#添加附加潜能。不扣除可用升级次数。\n#c只能用于无法拥有附加潜能的心形项链。#"/>
+		<string name="name" value="心形项链附加潜能卷轴"/>
+	</imgdir>
+    <imgdir name="2048804">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击力：+4至+5\r\n#"/>
+		<string name="desc" value="提升宠物装备的武器攻击力。"/>
+		<string name="name" value="高级宠物装备武器攻击卷轴100%"/>
+	</imgdir>
+    <imgdir name="2048805">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击力：+4至+5\r\n#"/>
+		<string name="desc" value="提升宠物装备的魔法攻击力。"/>
+		<string name="name" value="高级宠物装备魔法攻击卷轴100%"/>
+	</imgdir>
+    <imgdir name="2049156">
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重新配置装备属性\r\n#"/>
+		<string name="desc" value="重新配置装备属性。整体威力不会降低。无法用于现金道具。"/>
+		<string name="name" value="不可思议的善良混沌卷轴20%"/>
+	</imgdir>
+    <imgdir name="2049157">
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n重新配置装备属性\r\n#"/>
+		<string name="desc" value="重新配置装备属性。整体威力不会降低。无法用于现金道具。"/>
+		<string name="name" value="善良混沌卷轴30%"/>
+	</imgdir>
+    <imgdir name="2049158">
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n重新配置装备属性\r\n#"/>
+		<string name="desc" value="改变装备属性（可能变好也可能变坏）。某些属性不受影响。无法用于现金道具。"/>
+		<string name="name" value="混沌卷轴60%"/>
+	</imgdir>
+    <imgdir name="2049159">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重新配置装备属性\r\n#"/>
+		<string name="desc" value="改变装备属性（比混沌卷轴更好或更差）。某些属性不受影响。"/>
+		<string name="name" value="奇迹混沌卷轴50%"/>
+	</imgdir>
+    <imgdir name="2049160">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重新配置装备属性\r\n#"/>
+		<string name="desc" value="重新配置装备属性。整体威力不会降低。无法用于现金道具。"/>
+		<string name="name" value="善良混沌卷轴50%"/>
+	</imgdir>
+    <imgdir name="2049327">
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n为没有剩余升级次数的装备额外提升2级强化等级。\r\n#"/>
+		<string name="desc" value="强化#c已完全升级的装备#。强化次数越高，应用更好属性的几率越大。"/>
+		<string name="name" value="2星强化卷轴"/>
+	</imgdir>
+    <imgdir name="2049328">
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n为没有剩余升级次数的装备额外提升3级强化等级。\r\n#"/>
+		<string name="desc" value="强化#c已完全升级的装备#。强化次数越高，应用更好属性的几率越大。"/>
+		<string name="name" value="3星强化卷轴"/>
+	</imgdir>
+    <imgdir name="2049510">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n#"/>
+		<string name="desc" value="#c双击#并选择一件有2条或更少潜能的装备，添加1条额外的潜能。"/>
+		<string name="name" value="银色觉醒印章"/>
+	</imgdir>
+    <imgdir name="2103002">
+		<string name="desc" value="用于寻找恋爱中怪物的探测器。#c双击#召唤一对怪物情侣。\n无法在城镇或传送门附近使用。\n"/>
+		<string name="name" value="怪物恋爱探测器"/>
+	</imgdir>
+    <imgdir name="2100320">
+		<string name="desc" value="麦格纳斯召唤模拟器"/>
+		<string name="name" value="麦格纳斯召唤模拟器"/>
+	</imgdir>
+    <imgdir name="2050007">
+		<string name="desc" value="恢复所有异常状态。仅在挑战崩塌的扎昆（简单模式）时可用。"/>
+		<string name="name" value="扎昆全愈药水"/>
+	</imgdir>
+    <imgdir name="2030048">
+		<string name="name" value="恶魔避难所传送卷轴"/>
+		<string name="desc" value="可立即传送到恶魔避难所的卷轴。"/>
+	</imgdir>
+</imgdir>

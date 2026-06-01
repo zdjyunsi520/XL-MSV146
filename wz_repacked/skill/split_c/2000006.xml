@@ -1,0 +1,5 @@
+<imgdir name="2000006">
+        <string name="name" value="MP提升" />
+        <string name="desc" value="永久提升最大MP。还会根据等级按比例提升MP~" />
+        <string name="h" value="最大MP: +#mmpR%, 每级MP增加 #lv2mmp" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5201000">
+		<string name="name" value="Box of Metal Balls"/>
+		<string name="desc" value="200 balls in the box."/>
+	</imgdir>
+    <imgdir name="5201001">
+		<string name="name" value="Box of Metal Balls"/>
+		<string name="desc" value="500 balls in the box."/>
+	</imgdir>
+    <imgdir name="5202000">
+		<string name="name" value="Rare Meso Sack"/>
+		<string name="desc" value="Open this sack to receive some mesos. As many as 54 Million mesos could be in this Rare Meso Sack!"/>
+	</imgdir>
+    <imgdir name="5202001">
+		<string name="name" value="Unique Meso Sack"/>
+		<string name="desc" value="Open this sack to receive some mesos. As many as 750 Million mesos could be in this Unique Meso Sack!"/>
+	</imgdir>
+    <imgdir name="5202002">
+		<string name="name" value="Epic Meso Sack"/>
+		<string name="desc" value="Open this sack to receive some mesos. As many as 208 Million mesos could be in this Epic Meso Sack!"/>
+	</imgdir>
+    <imgdir name="5204000">
+		<string name="name" value="Teatime With Sharyl"/>
+		<string name="desc" value="Have some sweet teatime with Princess Sharyl. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="5204001">
+		<string name="name" value="Teatime With Madeleine"/>
+		<string name="desc" value="Have some sweet teatime with Madeleine the maid. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="5204002">
+		<string name="name" value="Demonic Birthday"/>
+		<string name="desc" value="How does a Demon Slayer celebrate a birthday? Do they even have them? 100 HP and 50 MP restored every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="5204003">
+		<string name="name" value="Elluel Concerto"/>
+		<string name="desc" value="Enjoy a special performance by the one and only Mercedes! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="5204004">
+		<string name="name" value="Hilla's Style Maker"/>
+		<string name="desc" value="Sit on this chair to become more beautiful with Hilla! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="5205000">
+		<string name="name" value="Maple Points Coupon"/>
+		<string name="desc" value="Double click on this to obtain Maple Points."/>
+	</imgdir>
+    <imgdir name="5205001">
+		<string name="name" value="Maple Points Coupon"/>
+		<string name="desc" value="Double click on this to obtain Maple Points."/>
+	</imgdir>
+    <imgdir name="5205002">
+		<string name="name" value="Maple Points Coupon"/>
+		<string name="desc" value="Double click on this to obtain Maple Points."/>
+	</imgdir>
+    <imgdir name="5210000">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession, temporarily doubles the EXP gained."/>
+	</imgdir>
+    <imgdir name="5210001">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+	</imgdir>
+    <imgdir name="5210002">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+	</imgdir>
+    <imgdir name="5210003">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+	</imgdir>
+    <imgdir name="5210004">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+	</imgdir>
+    <imgdir name="5210005">
+		<string name="name" value="Pro-Adult Ticket"/>
+		<string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+	</imgdir>
+    <imgdir name="5211000">
+		<string name="name" value="2x EXP Card"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 6pm ~ 8pm (Pacific time) for #c7 days#. #cThis item is only available for purchase if you are level 200 or below.#\r\n"/>
+	</imgdir>
+</imgdir>

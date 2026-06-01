@@ -1,0 +1,8 @@
+<imgdir name="2221006">
+        <string name="name" value="Chain Lightning" />
+        <string name="desc" value="Attacks target with high-voltage lightning attack, stunning the enemy. Additional critical rate is applied, and Chain Lightning can chain attack targets near the target." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
+        <string name="pdesc" value="Attacks target with high-voltage lightning attack, stunning the enemy. Additional critical rate is applied, and Chain Lightning can chain attack targets near the target." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Critical Rate: #cr%" />
+    </imgdir>

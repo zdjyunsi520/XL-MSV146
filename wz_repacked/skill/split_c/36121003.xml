@@ -1,0 +1,5 @@
+<imgdir name="36121003">
+        <string name="name" value="超古代代码" />
+        <string name="desc" value="短时间内覆盖安全协议，提升总伤害和BOSS攻击伤害。" />
+        <string name="h" value="#c[供给]#\n能量消耗: #powerCon, 持续时间: #time, 总伤害: #indieDamR%, BOSS攻击伤害: +#x%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="4221003">
+        <string name="name" value="Taunt" />
+        <string name="desc" value="Provokes up to 6 enemies, increasing their DEF but also increasing the amount of EXP and items you earn for defeating them.\nRequired Skill: #cShadow Shifter Lv. 10#" />
+        <string name="h" value="MP Cost: #mpCon, Increases Enemy DEF, EXP Earned, and Item Drop Rate by #x%" />
+    </imgdir>

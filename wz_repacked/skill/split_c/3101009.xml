@@ -1,0 +1,5 @@
+<imgdir name="3101009">
+        <string name="name" value="箭矢弹匣" />
+        <string name="desc" value="可以使用3种不同的特殊箭头。用完3种后箭袋会自动补充。#c按技能键切换当前箭头#。用完当前箭头后会#c自动切换#到下一个~\n血之箭: 吸收部分伤害转化为HP\n毒之箭: 造成持续毒伤害，最多叠加3次\n魔之箭: 攻击时额外发射一根魔法箭" />
+        <string name="h" value="可使用#y种特殊箭头。自动补充。\n血之箭: #w%几率，吸收造成伤害的#x%为HP\n毒之箭: #dot%伤害，造成持续伤害#dotTime秒。最多叠加#dotSuperpos次\n魔之箭: #u%几率发射魔法箭，造成#damage%伤害" />
+    </imgdir>

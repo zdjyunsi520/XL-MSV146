@@ -1,0 +1,5 @@
+<imgdir name="32120009">
+        <string name="name" value="充能" />
+        <string name="desc" value="你已充满能量，永久提升最大HP/MP和防御力！" />
+        <string name="h" value="最大HP：+#mhpR%，最大MP：+#mmpR%，武器防御力：+#pddR%，魔法防御力：+#mddR%" />
+    </imgdir>

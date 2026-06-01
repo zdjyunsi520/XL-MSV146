@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2070018">
+		<string name="name" value="平衡之怒"/>
+		<string name="desc" value="由黑水晶制成的古代暗影骑士飞镖。这些飞镖用完後可以充值。\n攻击+30"/>
+	</imgdir>
+    <imgdir name="2070023">
+		<string name="name" value="火焰飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击29"/>
+	</imgdir>
+    <imgdir name="2070024">
+		<string name="name" value="无限飞刀"/>
+		<string name="desc" value="特殊钢铁飞刀。从工匠那里学习秘诀，可以充值更多。\n攻击+27"/>
+	</imgdir>
+    <imgdir name="2070026">
+		<string name="name" value="白金飞镖"/>
+		<string name="desc" value="白金制成的飞镖。用完後需要充值。\n\n武器攻击：+28"/>
+	</imgdir>
+    <imgdir name="2083000">
+		<string name="name" value="爱心喇叭"/>
+		<string name="desc" value="使用此喇叭向所在世界的所有人喊话。（爱心特效）"/>
+	</imgdir>
+    <imgdir name="2084000">
+		<string name="name" value="骷髅喇叭"/>
+		<string name="desc" value="使用此喇叭向所在世界的所有人喊话。（骷髅特效）"/>
+	</imgdir>
+    <imgdir name="2100000">
+		<string name="name" value="黑色袋子"/>
+		<string name="desc" value="如果你觉得等级太低，就别费心打开了。"/>
+	</imgdir>
+    <imgdir name="2100001">
+		<string name="name" value="怪物袋 1"/>
+		<string name="desc" value="召唤10级及以下的弱怪物"/>
+	</imgdir>
+    <imgdir name="2100002">
+		<string name="name" value="怪物袋 2"/>
+		<string name="desc" value="召唤10至20级的弱怪物"/>
+	</imgdir>
+    <imgdir name="2100003">
+		<string name="name" value="怪物袋 3"/>
+		<string name="desc" value="召唤20至30级的中下级怪物"/>
+	</imgdir>
+    <imgdir name="2100004">
+		<string name="name" value="怪物袋 4"/>
+		<string name="desc" value="召唤30至40级的中级怪物"/>
+	</imgdir>
+    <imgdir name="2100005">
+		<string name="name"="怪物袋 5"/>
+		<string name="desc" value="召唤40至50级的中级怪物"/>
+	</imgdir>
+    <imgdir name="2100006">
+		<string name="name" value="怪物袋 6"/>
+		<string name="desc" value="召唤50至60级的高级怪物"/>
+	</imgdir>
+    <imgdir name="2100007">
+		<string name="name" value="怪物袋 7"/>
+		<string name="desc" value="召唤60至70级的高级怪物"/>
+	</imgdir>
+    <imgdir name="2100008">
+		<string name="name" value="召唤BOSS"/>
+		<string name="desc" value="老人、孕妇和低等级玩家：请勿尝试..."/>
+	</imgdir>
+    <imgdir name="2100009">
+		<string name="name" value="召唤新型血蝴蝶"/>
+		<string name="desc" value="在你召唤它的那一刻...你已经死了"/>
+	</imgdir>
+    <imgdir name="2100010">
+		<string name="name" value="召唤&quot;与血蝴蝶共舞&quot;"/>
+		<string name="desc" value="召唤与血蝴蝶共舞的克隆体"/>
+	</imgdir>
+    <imgdir name="2100011">
+		<string name="name" value="召唤老埃德蒙的克隆体"/>
+		<string name="desc" value="召唤老埃德蒙的克隆体"/>
+	</imgdir>
+    <imgdir name="2100012">
+		<string name="name" value="召唤雅典娜皮尔斯的克隆体"/>
+		<string name="desc" value="召唤雅典娜皮尔斯的克隆体"/>
+	</imgdir>
+    <imgdir name="2100013">
+		<string name="name" value="召唤暗黑帝王的克隆体"/>
+		<string name="desc" value="召唤暗黑帝王的克隆体"/>
+	</imgdir>
+</imgdir>

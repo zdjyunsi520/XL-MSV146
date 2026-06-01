@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290330">
+		<string name="name" value="[Mastery Book] Mega Monkey Magic 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMega Monkey Magic# to 30.\nJob: Cannon Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290331">
+		<string name="name" value="[Mastery Book] Cannon Barrage 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cCannon Barrage# to 20.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290332">
+		<string name="name" value="[Mastery Book] Cannon Barrage 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cCannon Barrage# to 30.\nJob: Cannon Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290333">
+		<string name="name" value="[Mastery Book] Cannon Overload 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cCannon Overload# to 20.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290334">
+		<string name="name" value="[Mastery Book] Cannon Overload 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cCannon Overload# to 30.\nJob: Cannon Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290335">
+		<string name="name" value="[Special Mastery Book] Cannon Bazooka 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCannon Bazooka# to 30.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290336">
+		<string name="name" value="[Special Mastery Book] Nautilus Strike 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBattleship Nautilus# to 30.\nJob: Cannon Master, Buccaneer, Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290337">
+		<string name="name" value="[Special Mastery Book] Pirate's Spirit 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cPirate's Spirit# to 30.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290338">
+		<string name="name" value="[Special Mastery Book] Cannon Overload 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCannon Overload# to 30.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290339">
+		<string name="name" value="[Special Mastery Book] Cannon Barrage 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCannon Barrage# to 30.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290340">
+		<string name="name" value="[Mastery Book] Ishtar's Ring 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cIshtar's Ring# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290341">
+		<string name="name" value="[Mastery Book] Ishtar's Ring 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cIshtar's Ring# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290342">
+		<string name="name" value="[Mastery Book] Spikes Royale 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSpikes Royale# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290343">
+		<string name="name" value="[Mastery Book] Lightning Edge 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cLightning Edge# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290344">
+		<string name="name" value="[Mastery Book] Lightning Edge 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cLightning Edge# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290345">
+		<string name="name" value="[Mastery Book] Ancient Warding 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAncient Warding# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290346">
+		<string name="name" value="[Mastery Book] Ancient Warding 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAncient Warding# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290347">
+		<string name="name" value="[Mastery Book] Dual Bowguns Expert 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDual Bowguns Expert# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290348">
+		<string name="name" value="[Mastery Book] Dual Bowguns Expert 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDual Bowguns Expert# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290349">
+		<string name="name" value="[Mastery Book] Defense Break 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDefense Break# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

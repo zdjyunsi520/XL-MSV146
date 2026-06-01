@@ -1,0 +1,5 @@
+<imgdir name="50001214">
+        <string name="name" value="Knight&apos;s Watch" />
+        <string name="desc" value="Receives protection from the light which keeps you from being pushed back by enemy&apos;s attacks for a set time." />
+        <string name="h" value="Duration: #time sec, Knock-back Resistance Rate: 100% (Cooldown: #cooltime sec)" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046616">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nLUK: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046617">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nLUK: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046618">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nLUK: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046619">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nLUK: +11\r\n#"/>
+	</imgdir>
+    <imgdir name="2046620">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nLUK: +12\r\n#"/>
+	</imgdir>
+    <imgdir name="2046621">
+		<string name="name" value="Scroll for Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046622">
+		<string name="name" value="Scroll for Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046623">
+		<string name="name" value="Scroll for Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046624">
+		<string name="name" value="Scroll for Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046625">
+		<string name="name" value="Scroll for Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046626">
+		<string name="name" value="Scroll for Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046627">
+		<string name="name" value="Scroll for Armor for LUK"/>
+		<string name="desc" value="Improves Luck on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046628">
+		<string name="name" value="Scroll for Armor for LUK"/>
+		<string name="desc" value="Improves Luck on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046633">
+		<string name="name" value="Scroll for Legendary Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046634">
+		<string name="name" value="Scroll for Legendary Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nSTR: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046635">
+		<string name="name" value="Scroll for Legendary Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nSTR: +13\r\n#"/>
+	</imgdir>
+    <imgdir name="2046636">
+		<string name="name" value="Scroll for Legendary Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nSTR: +14\r\n#"/>
+	</imgdir>
+    <imgdir name="2046637">
+		<string name="name" value="Scroll for Legendary Armors for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046638">
+		<string name="name" value="Scroll for Legendary Armors for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nDEX: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046639">
+		<string name="name" value="Scroll for Legendary Armors for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nDEX: +13\r\n#"/>
+	</imgdir>
+</imgdir>

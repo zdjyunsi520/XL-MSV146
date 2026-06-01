@@ -1,0 +1,69 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="240050105">
+			<string name="in00" value="Room of Maze"/>
+		</imgdir>
+    <imgdir name="240050400">
+			<string name="temp00" value="Entrance to the Cave of Life"/>
+		</imgdir>
+    <imgdir name="240070202">
+			<string name="right00" value="&lt;Year 2099&gt; Midnight Harbor Pier"/>
+		</imgdir>
+    <imgdir name="240070302">
+			<string name="right00" value="&lt;Year 2215&gt; Bombed City Center Retail District"/>
+		</imgdir>
+    <imgdir name="240070402">
+			<string name="right00" value="&lt;Year 2216&gt; Ruined City Land Mark"/>
+		</imgdir>
+    <imgdir name="240070502">
+			<string name="top00" value="&lt;Year 2230&gt; Dangerous Tower Penthouse"/>
+			<string name="right00" value="&lt;Year 2230&gt; Dangerous Tower Penthouse"/>
+		</imgdir>
+    <imgdir name="240070602">
+			<string name="right00" value="&lt;Year 2503&gt; Air Battleship Stern"/>
+		</imgdir>
+    <imgdir name="260000300">
+			<string name="in00" value="Castle Garden"/>
+		</imgdir>
+    <imgdir name="260010100">
+			<string name="MD00" value="Mini Dungeon: Burning Hills"/>
+		</imgdir>
+    <imgdir name="260020100">
+			<string name="in00" value="Azwan Obelisk"/>
+		</imgdir>
+    <imgdir name="260020500">
+			<string name="piramid00" value="Nett's Pyramid"/>
+		</imgdir>
+    <imgdir name="280010000">
+			<string name="ps01" value="The Room of Tragedy"/>
+		</imgdir>
+    <imgdir name="925100000">
+			<string name="next00" value="Through the Head of the Ship!"/>
+		</imgdir>
+    <imgdir name="925100100">
+			<string name="next00" value="Through the Deck I"/>
+		</imgdir>
+    <imgdir name="925100200">
+			<string name="next00" value="Through the Deck II"/>
+		</imgdir>
+    <imgdir name="925100300">
+			<string name="next00" value="Eliminate Pirates!"/>
+		</imgdir>
+    <imgdir name="925100400">
+			<string name="next00" value="The Captain's Dignity"/>
+		</imgdir>
+    <imgdir name="957000000">
+			<string name="out00" value="Exit"/>
+		</imgdir>
+    <imgdir name="957010000">
+			<string name="link1_2" value="Link 2"/>
+			<string name="link1_3" value="Link 3"/>
+			<string name="link1_4" value="Link 4"/>
+			<string name="link1_5" value="Link 5"/>
+		</imgdir>
+    <imgdir name="957011000">
+			<string name="link2_1" value="Link 1"/>
+			<string name="link2_3" value="Link 3"/>
+			<string name="link2_5" value="Link 5"/>
+			<string name="link2_6" value="Link 6"/>
+		</imgdir>
+</imgdir>

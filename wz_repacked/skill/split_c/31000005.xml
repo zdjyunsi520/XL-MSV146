@@ -1,0 +1,5 @@
+<imgdir name="31000005">
+        <string name="name" value="守护装甲" />
+        <string name="pdesc" value="根据防御力提升对战模式攻击力。" />
+        <string name="ph" value="对战模式攻击力：每#x防御力+1" />
+    </imgdir>

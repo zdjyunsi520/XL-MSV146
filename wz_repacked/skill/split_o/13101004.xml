@@ -1,0 +1,5 @@
+<imgdir name="13101004">
+        <string name="name" value="Double Jump" />
+        <string name="desc" value="Jump a second time while in the air." />
+        <string name="h" value="MP Cost: #mpCon, jumps a certain distance" />
+    </imgdir>

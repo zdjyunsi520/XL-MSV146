@@ -1,0 +1,5 @@
+<imgdir name="61120012">
+        <string name="name" value="专家剑术" />
+        <string name="desc" value="最大化双手剑的熟练度，同时提升最低暴击伤害和物理攻击力。\n前置技能：#c剑精通 Lv.10#" />
+        <string name="h" value="Two-Handed Sword Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

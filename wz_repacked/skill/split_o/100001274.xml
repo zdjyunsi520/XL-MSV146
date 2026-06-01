@@ -1,0 +1,9 @@
+<imgdir name="100001274">
+        <string name="name" value="Time Holding" />
+        <string name="desc" value="Unleash a temportal torrent that resets your skill cooldowns, makes you invincible, and gives you unlimited HP and Time Force." />
+        <string name="h" value="Time Force Cost: #forceCon, Invincible for #time sec, reset cooldown for all Zero&apos;s skills \n#cCooldown: #cooltime sec#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="This skill is unlocked at Lv. 120." />
+        </imgdir>
+    </imgdir>

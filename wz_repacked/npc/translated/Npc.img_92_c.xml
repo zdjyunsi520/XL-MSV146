@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000142">
+		<string name="name" value="Lania"/>
+		<string name="n0" value="这里确实有很多配料。"/>
+		<string name="n1" value="这些哪个是盐哪个是砒霜？"/>
+		<string name="d0" value="不会做饭的话烹饪真是太难了。"/>
+		<string name="d1" value="不会做饭的话烹饪真是太难了。"/>
+	</imgdir>
+    <imgdir name="9000143">
+		<string name="name" value="Dehos"/>
+		<string name="d0" value="我也想打出一个全垒打..."/>
+		<string name="d1" value="我也想偷一个垒..."/>
+	</imgdir>
+    <imgdir name="9000144">
+		<string name="name" value="枫叶城堡幽灵"/>
+	</imgdir>
+    <imgdir name="9000145">
+		<string name="name" value="Dehos"/>
+		<string name="d0" value="我也想打出一个全垒打..."/>
+		<string name="d1" value="我也想偷一个垒..."/>
+	</imgdir>
+    <imgdir name="9000146">
+		<string name="name" value="Lux"/>
+		<string name="n0" value="我这里有所有能让你眼前一亮的热门商品！"/>
+		<string name="n1" value="一直来直到你找到你想要的为止！"/>
+	</imgdir>
+    <imgdir name="9000147">
+		<string name="name" value="胆怯月亮兔子"/>
+		<string name="n0" value="所有珍贵的珠宝都被偷了。"/>
+		<string name="n1" value="那些邪恶的偷窃月亮兔子！"/>
+	</imgdir>
+    <imgdir name="9000148">
+		<string name="name" value="Lux"/>
+		<string name="n0" value="我这里有所有能让你眼前一亮的热门商品！"/>
+		<string name="n1" value="一直来直到你找到你想要的为止！"/>
+	</imgdir>
+    <imgdir name="9000149">
+		<string name="name" value="鹰牙"/>
+		<string name="n0" value="你想离开吗？"/>
+		<string name="n1" value="任何想离开的人，来找我。"/>
+	</imgdir>
+    <imgdir name="9000150">
+		<string name="name" value="礼貌问候"/>
+		<string name="n0" value="你好！你觉得老奶奶Ribbon Pig现在会在哪里？"/>
+		<string name="n1" value="你看起来很好！我们部落的宝藏现在在我这里。"/>
+		<string name="d0" value="你好！是在丛林中帮助过我们的好人。"/>
+		<string name="d1" value="天气不错吧？丛林野兽好可怕。"/>
+	</imgdir>
+    <imgdir name="9000151">
+		<string name="name" value="鹰牙"/>
+	</imgdir>
+    <imgdir name="9000152">
+		<string name="name" value="Gale"/>
+		<string name="func" value="释放商店"/>
+		<string name="n0" value="仅限夏季营业！来看看我有什么！"/>
+		<string name="n1" value="商品购买限制将在2013/07/03重置。"/>
+	</imgdir>
+    <imgdir name="9000153">
+		<string name="name" value="Spark"/>
+		<string name="func" value="释放商店"/>
+		<string name="n0" value="你不会相信我库存里有什么！别错过买到夏季特价商品的机会！"/>
+		<string name="n1" value="看看这些限时好东西！趁现在赶紧买！"/>
+	</imgdir>
+    <imgdir name="9000154">
+		<string name="name" value="圣诞树"/>
+	</imgdir>
+    <imgdir name="9000155">
+		<string name="name" value="Dizzy"/>
+		<string name="d0" value="试试万花筒旋转器吧。它会让你眼前一亮！"/>
+		<string name="d1" value="只需要一张万花筒旋转器券！"/>
+	</imgdir>
+    <imgdir name="9000156">
+		<string name="name" value="幸运故事"/>
+		<string name="d0" value="改变你的人生！试试幸运故事！"/>
+		<string name="d1" value="这周属于你！"/>
+	</imgdir>
+    <imgdir name="9000157">
+		<string name="name" value="Rebecca"/>
+	</imgdir>
+    <imgdir name="9000158">
+		<string name="name" value="Rebecca"/>
+		<string name="n0" value="你正在从高级网吧连接！为什么不挑战怪物竞技场呢？"/>
+		<string name="n1" value="你正在从高级网吧连接！为什么不挑战怪物竞技场呢？"/>
+		<string name="func" value="网吧怪物竞技场"/>
+	</imgdir>
+    <imgdir name="9000159">
+		<string name="name" value="枫叶管理员"/>
+		<string name="n0" value="用枫叶导师系统把你所知的一切教给你的朋友！"/>
+		<string name="n1" value="一起玩让冒险岛更有趣！"/>
+	</imgdir>
+    <imgdir name="9250122">
+		<string name="name" value="研究员H"/>
+		<string name="n0" value="地下通道非常危险。"/>
+		<string name="n1" value="请小心外星人。"/>
+		<string name="d0" value="嘘！小声点！"/>
+		<string name="d1" value="谢谢你的帮助。"/>
+		<imgdir name="quest">
+			<string name="51179" value="你必须使用地下通道才能到达秘密基地。"/>
+		</imgdir>
+    <imgdir name="9250134">
+		<string name="name" value="首席研究员Bass"/>
+		<string name="n0" value="如果你穿着Bing博士的衣服，应该是安全的。"/>
+		<string name="d0" value="如果你穿着Bing博士的衣服，应该是安全的。"/>
+		<string name="n1" value="外星人到底想要什么...?"/>
+		<string name="d1" value="这些外星人从哪里来的...?"/>
+	</imgdir>
+</imgdir>

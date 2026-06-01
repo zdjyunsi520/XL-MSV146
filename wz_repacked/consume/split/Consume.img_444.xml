@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046672">
+		<string name="name" value="Scroll for Sengoku Armor for LUK"/>
+		<string name="desc" value="Improves Luck on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046779">
+		<string name="name" value="Scroll for Sengoku Accessory for STR"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046780">
+		<string name="name" value="Scroll for Sengoku Accessory for INT"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046781">
+		<string name="name" value="Scroll for Sengoku Accessory for DEX"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046782">
+		<string name="name" value="Scroll for Sengoku Accessory for LUK"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046783">
+		<string name="name" value="Scroll for Sengoku Accessory for STR"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046784">
+		<string name="name" value="Scroll for Sengoku Accessory for INT"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046785">
+		<string name="name" value="Scroll for Sengoku Accessory for DEX"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046786">
+		<string name="name" value="Scroll for Sengoku Accessory for LUK"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046787">
+		<string name="name" value="Scroll for Sengoku Accessory for STR"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nMax HP: +10\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046788">
+		<string name="name" value="Scroll for Sengoku Accessory for INT"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nMax HP: +5\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046789">
+		<string name="name" value="Scroll for Sengoku Accessory for DEX"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046790">
+		<string name="name" value="Scroll for Sengoku Accessory for LUK"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046915">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046916">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046917">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +3\r\nMagic Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046918">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +4\r\nMagic Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046919">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +5\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046920">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +6\r\nMagic Attack: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046921">
+		<string name="name" value="Scroll for Legendary One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on one-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7\r\nMagic Attack: +7\r\n#"/>
+	</imgdir>
+</imgdir>

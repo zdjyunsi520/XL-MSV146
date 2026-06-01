@@ -1,0 +1,7 @@
+<imgdir name="22151002">
+        <string name="name" value="Killer Wings " />
+        <string name="desc" value="Brands an enemy with a Dragon seal. Your following attacks focus on that enemy, and the enemy takes damage over time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Brands an enemy with a Dragon seal. Your following attacks focus on that enemy, and the enemy takes damage over time." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

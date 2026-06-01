@@ -1,0 +1,7 @@
+<imgdir name="1301011">
+        <string name="name" value="Piercing Drive" />
+        <string name="desc" value="Deals a powerful strike to enemies. #cIf the enemies are close, also increases your Critical Rate#. #cIf they&apos;re far away, also increases your total damage#." />
+        <string name="pdesc" value="Deals a powerful strike to enemies. #cIf the enemies are close, also increases your Critical Rate#. #cIf they&apos;re far away, also increases your total damage#." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies HIt: #mobCount, Number of Hits: #attackCount. Critical Rate within #cSpear Shaft range: +#cr%#, Damage within Spear Blade range: +#damR%" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies HIt: #mobCount, Number of Hits: #attackCount. Critical Rate within #cSpear Shaft range: +#cr%#, Damage within Spear Blade range: +#damR%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="61121104">
+        <string name="name" value="Blade Burst" />
+        <string name="h" value="MP Cost: #mpCon, Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Explosion damage hits #y enemies for #w% damage #x times." />
+        <string name="desc" value="Summon multiple swords to strike the ground and explode, dealing bonus damage.\n#cDragon Link Skill: During Attack + ↓ Dragon Link" />
+    </imgdir>

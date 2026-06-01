@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430642">
+		<string name="name" value="Zakum Dungeon Additional Entry Ticket"/>
+		<string name="desc" value="Ticket that grants you one additional entry to the Zakum Dungeon. You will also receive a scroll to move to the Entrance to Zakum's Altar. You can enter the dungeon up to 5 additional times each day."/>
+	</imgdir>
+    <imgdir name="2430643">
+		<string name="name" value="Lion King Dungeon Additional Entry Ticket"/>
+		<string name="desc" value="Ticket that grants you one additional entry to the Lion King Dungeon. You can enter the dungeon up to 5 additional times each day. "/>
+	</imgdir>
+    <imgdir name="2430644">
+		<string name="name" value="Horntail Dungeon Additional Entry Ticket"/>
+		<string name="desc" value="Ticket that grants you one additional entry to the Horntail Dungeon. You will also receive a scroll to move to the Entrance to Horntail's Cave. You can enter the dungeon up to 5 additional times each day."/>
+	</imgdir>
+    <imgdir name="2430645">
+		<string name="name" value="Pink Bean Dungeon Additional Entry Ticket"/>
+		<string name="desc" value="Ticket that grants you one additional entry to the Pink Bean Dungeon. You can enter the dungeon up to 5 additional times each day. "/>
+	</imgdir>
+    <imgdir name="2430646">
+		<string name="name" value="Cygnus Dungeon Additional Entry Ticket"/>
+		<string name="desc" value="Ticket that grants you one additional entry to the Cygnus Dungeon. You can enter the dungeon up to 5 additional times each day. "/>
+	</imgdir>
+    <imgdir name="2430647">
+		<string name="name" value="Renegades Lucky Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430648">
+		<string name="name" value="Renegades Lucky Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430649">
+		<string name="name" value="Renegades Lucky Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430657">
+		<string name="name" value="New Year's Rice Cake Soup"/>
+		<string name="desc" value="Delicious new year's rice cake soup. ATT, M. ATT, HP &amp; MP increased based on your level for 30 minutes. However, this will go bad after a day of obtaining it, so be careful!"/>
+	</imgdir>
+    <imgdir name="2430658">
+		<string name="name" value="New Year's Gift Box 1"/>
+		<string name="desc" value="A colorful year year's gift box. Double-click on it to see what's inside. Careful, this can only be opened until TKTKTK when event ends. "/>
+	</imgdir>
+    <imgdir name="2430659">
+		<string name="name" value="New Year's Game of Yut"/>
+		<string name="desc" value="Yut used for New Year's game of Yut."/>
+	</imgdir>
+    <imgdir name="2430661">
+		<string name="name" value="Renegades Gift Box"/>
+		<string name="desc" value="A box for people who make their own justice.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430662">
+		<string name="name" value="New Year's Gift Box 2"/>
+		<string name="desc" value="A box full of New Year's cheer! Double-click to see what's inside!"/>
+	</imgdir>
+    <imgdir name="2430665">
+		<string name="name" value="New Year's Amazing Blessing"/>
+		<string name="desc" value="A small crystal created to celebrate New Year's. Use it to obtain a considerable amount of EXP.\n#cHowever, max level characters will reap no benefits.#"/>
+	</imgdir>
+    <imgdir name="2430666">
+		<string name="name" value="Cretaceous Mount 1-year Coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Cretaceous Mount] for 1 year."/>
+	</imgdir>
+    <imgdir name="2430667">
+		<string name="name" value="Cretaceous Mount 15-day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Cretaceous Mount] for 15 days."/>
+	</imgdir>
+    <imgdir name="2430668">
+		<string name="name" value="Silent Crusade Mastery Book"/>
+		<string name="desc" value="Secret book for true Silent Crusaders. Double-click to obtain a Mastery Book for your character."/>
+	</imgdir>
+    <imgdir name="2430669">
+		<string name="name" value="Silent Crusade Weapon Scroll"/>
+		<string name="desc" value="Secret Scroll for true Silent Crusaders. Double-click to obtain a Weapon Scroll for your character."/>
+	</imgdir>
+    <imgdir name="2430670">
+		<string name="name" value="Mu Lung Lucky Shot"/>
+		<string name="desc" value="A lucky bonus item that gets you additional points in the Mu Lung Dojo Hard Mode."/>
+	</imgdir>
+    <imgdir name="2430671">
+		<string name="name" value="Sweet V Chocolate"/>
+		<string name="desc" value="Chocolate with a message of love engraved on the surface.  Depending on your level, ATT, M. ATT, and Speed will increase when consumed. Unfortunately, it melts after one day."/>
+	</imgdir>
+</imgdir>

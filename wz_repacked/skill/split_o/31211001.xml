@@ -1,0 +1,5 @@
+<imgdir name="31211001">
+        <string name="name" value="Vitality Veil" />
+        <string name="desc" value="Hit enemies with the skill key pressed and your Desperado will absorb HP. Release the key to dish out an additional explosive attack." />
+        <string name="h" value="HP Cost: #hpCon, Enemies Hit with Key Pressed: #mobCount, Damage: #damage%, HP Restored: #y%.\r\nExplosion Damage: #x%\nCooldown: #cooltime sec" />
+    </imgdir>

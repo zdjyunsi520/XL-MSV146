@@ -1,0 +1,5 @@
+<imgdir name="61121054">
+        <string name="name" value="凯撒之威" />
+        <string name="desc" value="获得前任凯撒的勇气与意志，重置技能冷却时间，提升攻击速度和攻击力，并无视敌人的防御增益！" />
+        <string name="h" value="MP Cost: #mpCon, Cooldowns Reset, Duration: #time sec, ATT +#indiePad, Attack Speed +1. Ignores enemy&apos;s attack ignore buff and attack reflection buff\n#cCooldown: #cooltime sec. Hyper Skill cooldowns not reset." />
+    </imgdir>

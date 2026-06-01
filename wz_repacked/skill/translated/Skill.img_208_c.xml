@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="15120046"><string name="name" value="雷霆万钧 - 强化"/><string name="desc" value="提升雷霆万钧的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="15120047"><string name="name" value="雷霆万钧 - 扩散"/><string name="desc" value="增加雷霆万钧的攻击怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+    <imgdir name="15120048"><string name="name" value="雷霆万钧 - 额外打击"/><string name="desc" value="增加雷霆万钧的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="15120049"><string name="name" value="歼灭 - 强化"/><string name="desc" value="提升歼灭的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="15120050"><string name="name" value="歼灭 - 破防"/><string name="desc" value="增加歼灭的无视防御力。"/><string name="h" value="无视怪物防御力增加 #ignoreMobpdpR%"/></imgdir>
+    <imgdir name="15120051"><string name="name" value="歼灭 - BOSS冲锋"/><string name="desc" value="提升歼灭的BOSS攻击力。"/><string name="h" value="对BOSS造成额外伤害 #bdR%"/></imgdir>
+    <imgdir name="15121052"><string name="name" value="深海崛起"/><string name="desc" value="召唤伟大的海神，对陆上的敌人造成伤害！"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount \n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="15121053"><string name="name" value="守护者的荣耀"/><string name="desc" value="女皇骑士团的庄严仪式，以证明对女皇的忠诚。"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，伤害上限：+#indieMaxDamageOver\n冷却时间：#cooltime秒。对队伍中所有女皇职业生效"/></imgdir>
+    <imgdir name="15121054"><string name="name" value="原始雷电"/><string name="desc" value="劈开天地的创世雷电降临于你，赐予原始之力！"/><string name="h" value="MP消耗：#mpCon，#time秒内，狂风的冷却时间和雷电增益需求取消，变更为每1次雷电增益无视怪物防御力 #x%，伤害：+#indieDamR%。"/></imgdir>
+    <imgdir name="20001251"><string name="name" value="链接管理"/><string name="desc" value="管理你的链接技能，可以与账号内的其他角色共享，或选择在该角色上使用的技能。"/><string name="h" value="管理你的链接技能"/></imgdir>
+    <imgdir name="20011251"><string name="name" value="链接管理"/><string name="desc" value="管理你的链接技能，可以与账号内的其他角色共享，或选择在该角色上使用的技能。"/><string name="h" value="管理你的链接技能"/></imgdir>
+    <imgdir name="30001251"><string name="name" value="链接管理"/><string name="desc" value="管理你的链接技能，可以与账号内的其他角色共享，或选择在该角色上使用的技能。"/><string name="h" value="管理你的链接技能"/></imgdir>
+    <imgdir name="80000055"><string name="name" value="女皇的祝福"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="80000066"><string name="name" value="女皇的祝福（战士）"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="80000067"><string name="name" value="女皇的祝福（魔法师）"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="80000068"><string name="name" value="女皇的祝福（弓箭手）"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="80000069"><string name="name" value="女皇的祝福（飞侠）"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="80000070"><string name="name" value="女皇的祝福（海盗）"/><string name="desc" value="觉醒女皇的祝福赋予身体从危险中逃脱的力量。"/><string name="h" value="额外 #asrR% 异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="20021251"><string name="name" value="链接管理"/><string name="desc" value="管理你的链接技能，可以与账号内的其他角色共享，或选择在该角色上使用的技能。"/><string name="h" value="管理你的链接技能"/></imgdir>
+    <imgdir name="20041251"><string name="name" value="链接管理"/><string name="desc" value="管理你的链接技能，可以与账号内的其他角色共享，或选择在该角色上使用的技能。"/><string name="h" value="管理你的链接技能"/></imgdir>
+</imgdir>

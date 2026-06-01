@@ -1,0 +1,7 @@
+<imgdir name="1310009">
+        <string name="name" value="暗黑之主" />
+        <string name="desc" value="提升暴击率和最低暴击伤害。有几率将部分伤害转化为HP，最多转化至#c最大HP的一半#~" />
+        <string name="h" value="暴击率: +#cr%, 最低暴击伤害: +#criticaldamageMin%，#prop%几率将#x%伤害转化为HP" />
+        <string name="pdesc" value="提升暴击率和最低暴击伤害。有几率将部分伤害转化为HP，最多转化至#c最大HP的一半#~" />
+        <string name="ph" value="暴击率: +#cr%, 最低暴击伤害: +#criticaldamageMin%，#prop%几率将#x%伤害转化为HP" />
+    </imgdir>

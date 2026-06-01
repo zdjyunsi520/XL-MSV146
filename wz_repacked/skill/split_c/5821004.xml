@@ -1,0 +1,7 @@
+<imgdir name="5821004">
+        <string name="name" value="毁灭" />
+        <string name="desc" value="发动无视部分敌人防御的速射攻击。只有在#c超级变身#状态下才能使用。\n需要技能：#c超级变身 Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="发动降低敌人速度的速射攻击。只有在#c超级变身#状态下才能使用。\n需要技能：#c超级变身 Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage, Number of Attacks: #attackCount, Movement Speed: #x\nCooldown: #cooltime sec" />
+    </imgdir>

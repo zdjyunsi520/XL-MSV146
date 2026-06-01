@@ -1,0 +1,79 @@
+<imgdir name="Cash.img">
+    <imgdir name="5010044">
+		<string name="name" value="Shadow Style"/>
+		<string name="desc" value="Traces of the character remains while the character moves, creating multiple images of the character in the process. Double-click on the icon, or designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010045">
+		<string name="name" value="Struck by Lightning"/>
+		<string name="desc" value="A special effect that displays the lightning striking on the character's head.  Double-click on the icon or designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010046">
+		<string name="name" value="Maple Champion"/>
+		<string name="desc" value="A special effect that puts a poster in front of your face as if you're being Maple Champion around the world.  Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010048">
+		<string name="name" value="Maple Champion"/>
+		<string name="desc" value="A special effect that puts a poster in front of your face as if you're being Maple Champion around the world.  Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010049">
+		<string name="name" value="Maple Champion"/>
+		<string name="desc" value="A special effect that puts a poster in front of your face as if you're being Maple Champion around the world.  Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010051">
+		<string name="name" value="O Maplemas Tree"/>
+		<string name="desc" value="Celebrate your holiday cheer with this effect! Designate a HotKey to turn the effect ON/OFF."/>
+	</imgdir>
+    <imgdir name="5010052">
+		<string name="name" value="Santa Sled"/>
+		<string name="desc" value="Give Santa a lift with this hilarious effect! Designate a HotKey to turn the effect ON/OFF."/>
+	</imgdir>
+    <imgdir name="5010053">
+		<string name="name" value="Mistletoe"/>
+		<string name="desc" value="Create the perfect excuse for a holiday kiss! Designate a HotKey to turn the effect ON/OFF."/>
+	</imgdir>
+    <imgdir name="5010054">
+		<string name="name" value="Jingling Santa"/>
+		<string name="desc" value="A special effect that displays Santa and his two trusty reindeers breaking down to the beat, hovering around the owner's head. Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010055">
+		<string name="name" value="UFO"/>
+		<string name="desc" value="A special effect that features a UFO and a number of colorful aliens accompanying the owner of the item. Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010056">
+		<string name="name" value="Garden Trail"/>
+		<string name="desc" value="A special effect that features a trail of flowers and grass left behind by the owner of the item. Designate a HotKey to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010057">
+		<string name="name" value="Flower Fairy"/>
+		<string name="desc" value="A special effect that shows a cute fairy sprinkling flowers. On the Key Config, configure this on a button of your choice to turn the effect on/off."/>
+	</imgdir>
+    <imgdir name="5010059">
+		<string name="name" value="Trail of Darkness Effect"/>
+		<string name="desc" value="Blaze a trail of dark energy--no one can escape your wrath with this effect!"/>
+	</imgdir>
+    <imgdir name="5010060">
+		<string name="name" value="Caroler Effect"/>
+		<string name="desc" value="Tis' the season to be jolly fa la la la la la la la! Sing to everyone in Maple with the carolers!"/>
+	</imgdir>
+    <imgdir name="5010061">
+		<string name="name" value="Ace of Hearts"/>
+		<string name="desc" value="Show your Valentine's Day spirit with the Ace of Hearts!"/>
+	</imgdir>
+    <imgdir name="5010064">
+		<string name="name" value="Rock Band Effect"/>
+	</imgdir>
+    <imgdir name="5010065">
+		<string name="name" value="Scoreboard Effect"/>
+	</imgdir>
+    <imgdir name="5010066">
+		<string name="name" value="Disco Effect"/>
+	</imgdir>
+    <imgdir name="5010068">
+		<string name="name" value="Return of Angel Wing"/>
+		<string name="desc" value="Who knows? Perhaps you'll flutter away with these wings on your back!"/>
+	</imgdir>
+    <imgdir name="5010069">
+		<string name="name" value="Seraphim's Dark Wings"/>
+		<string name="desc" value="Who knows? Perhaps you'll flutter away with these wings on your back!"/>
+	</imgdir>
+</imgdir>

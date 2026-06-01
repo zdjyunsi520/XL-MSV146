@@ -1,0 +1,246 @@
+<imgdir name="5000345">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Mm!"/>
+		<string name="c1_s2" value="Mmhmm!"/>
+		<string name="c1_f1" value="...Huh?"/>
+		<string name="c1_f2" value="Hmm?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="I will sit."/>
+		<string name="c2_s2" value="Sitting makes me feel like a tree again."/>
+		<string name="c2_s3" value="Feels good!"/>
+		<string name="c2_s4" value="I feel free again, thanks to you!"/>
+		<string name="c2_f1" value="Shhhh!"/>
+		<string name="c2_f2" value="Silence!"/>
+		<string name="c2_f3" value="What?"/>
+		<string name="c2_f4" value="What are you saying?!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Please compliment my posture."/>
+		<string name="c3_s2" value="This feels familiar."/>
+		<string name="c3_s3" value="I will bow before your power."/>
+		<string name="c3_s4" value="Do your kind take pictures?"/>
+		<string name="c3_f1" value="How dare you speak to me that way?!"/>
+		<string name="c3_f2" value="Nope."/>
+		<string name="c3_f3" value="Why must I listen to you?"/>
+		<string name="c3_f4" value="Speak louder!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="I will comply. You have proven yourself to me."/>
+		<string name="c4_s2" value="Feels good."/>
+		<string name="c4_s3" value="How is it? My attempt to be closer to you?"/>
+		<string name="c4_s4" value="Accept my effort!"/>
+		<string name="c4_f1" value="Why don't you sit?"/>
+		<string name="c4_f2" value="I don't like this."/>
+		<string name="c4_f3" value="Why?"/>
+		<string name="c4_f4" value="Not feeling great!"/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value=" Grr..."/>
+		<string name="c5_s2" value="Hmm..."/>
+		<string name="c5_f1" value="I have no reason to put up with this!"/>
+		<string name="c5_f2" value="Rawr!"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Your face is scarier than mine..."/>
+		<string name="c6_s2" value="Please do not get out the chisel."/>
+		<string name="c6_s3" value="I feel...bad."/>
+		<string name="c6_s4" value="I'm sad..."/>
+		<string name="c6_f1" value="?"/>
+		<string name="c6_f2" value="Shall I return to Shadow Veil Forest?"/>
+		<string name="c6_f3" value="I do not fear you!"/>
+		<string name="c6_f4" value="Who are you to tell me what to do?"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="I'm sorry..."/>
+		<string name="c7_s2" value="How many apology sculptures must I make?"/>
+		<string name="c7_s3" value="My heart aches..."/>
+		<string name="c7_s4" value="I cannot live if I do not have your favor."/>
+		<string name="c7_f1" value="My ears are made of stone. I hear nothing."/>
+		<string name="c7_f2" value="I WILL smash you."/>
+		<string name="c7_f3" value="I thought you were finished hitting me."/>
+		<string name="c7_f4" value="Is that what you think of me?"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="Yes, it was all my fault. "/>
+		<string name="c8_s2" value="Befriending humans can be difficult, please understand."/>
+		<string name="c8_s3" value="But I thought it would please you..."/>
+		<string name="c8_s4" value="If you forgive me, I'll blow you 100 kisses! Mmhmm!"/>
+		<string name="c8_f1" value="You are always right."/>
+		<string name="c8_f2" value="You purified my heart, please purify yours."/>
+		<string name="c8_f3" value="I'm just gonna head to bed."/>
+		<string name="c8_f4" value="Fine, I'll just smash you in your sleep..."/>
+		<string name="c9" value="stupid|idiot|hate|mutt"/>
+		<string name="c9_s1" value="Ah..."/>
+		<string name="c9_s2" value="What..."/>
+		<string name="c9_f1" value="Hey..."/>
+		<string name="c9_f2" value="..."/>
+		<string name="c10" value="stupid|idiot|hate|mutt"/>
+		<string name="c10_s1" value="My heart aches to hear you say that..."/>
+		<string name="c10_s2" value="Really? Is that how you feel?"/>
+		<string name="c10_s3" value="I don't like what you're saying..."/>
+		<string name="c10_s4" value="I have more wisdom than you in my knee pebbles."/>
+		<string name="c10_f1" value="Perhaps we should part ways."/>
+		<string name="c10_f2" value="You're using such harsh words!"/>
+		<string name="c10_f3" value="I'm so mad, I'm going to crumble."/>
+		<string name="c10_f4" value="Speak clearly!"/>
+		<string name="c11" value="stupid|idiot|hate|mutt"/>
+		<string name="c11_s1" value="How mean..."/>
+		<string name="c11_s2" value="I hope you forgive me."/>
+		<string name="c11_s3" value="You must be joking."/>
+		<string name="c11_s4" value="Is this human humor?"/>
+		<string name="c11_f1" value="Know thyself!"/>
+		<string name="c11_f2" value="Take those words back, or else..."/>
+		<string name="c11_f3" value="I'm not in the mood for jokes!"/>
+		<string name="c11_f4" value="I will grind you into rubble!"/>
+		<string name="c12" value="stupid|idiot|hate|mutt"/>
+		<string name="c12_s1" value="Your words are full of pain."/>
+		<string name="c12_s2" value="What can I do to purify your heart?"/>
+		<string name="c12_s3" value="There is no reason to hate me."/>
+		<string name="c12_s4" value="I will be your friend, no matter what."/>
+		<string name="c12_f1" value="You are the one who is that word you said."/>
+		<string name="c12_f2" value="Clearly I'm smart! You are wrong."/>
+		<string name="c12_f3" value="I don't like your arrogant attitude."/>
+		<string name="c12_f4" value="I don't want to be friends with you anymore!"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Hm..."/>
+		<string name="c13_s2" value="Hm..."/>
+		<string name="c13_f1" value="Hm..."/>
+		<string name="c13_f2" value="Hm..."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Feels good!"/>
+		<string name="c14_s2" value="It has been done, though a little privacy would be nice next time."/>
+		<string name="c14_s3" value="I'm clean!"/>
+		<string name="c14_s4" value="Don't look!"/>
+		<string name="c14_f1" value="You poop first!"/>
+		<string name="c14_f2" value="Not now. It is all dust and chaff down there."/>
+		<string name="c14_f3" value="Where I come from, we are particular about where we go."/>
+		<string name="c14_f4" value="The bowels of stone do not move so readily."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Look at it! I sculpted it to look like you."/>
+		<string name="c15_s2" value="Look at it! I sculpted it to look like you."/>
+		<string name="c15_s3" value="Look at it! I sculpted it to look like you."/>
+		<string name="c15_s4" value="An excellent suggestion. My cavern is full."/>
+		<string name="c15_f1" value="My roots must feed first."/>
+		<string name="c15_f2" value="I do not understand your poop obsession."/>
+		<string name="c15_f3" value="You cannot force the mountain to move."/>
+		<string name="c15_f4" value="You told me only to do that on your neighbor's yard."/>
+		<string name="c16" value="poop"/>
+		<string name="c16_s1" value="Please turn your head, and plug your nose."/>
+		<string name="c16_s2" value="This will do."/>
+		<string name="c16_s3" value="This may be my finest sculpture yet."/>
+		<string name="c16_s4" value="Let's go give this to the neighbor's puppy."/>
+		<string name="c16_f1" value="I must be fed to create waste."/>
+		<string name="c16_f2" value="Do not project your own needs on me."/>
+		<string name="c16_f3" value="I am not sure why you believe I should do that."/>
+		<string name="c16_f4" value="Only if I can go on your head."/>
+		<string name="c17" value="talk|chat|say"/>
+		<string name="c17_s1" value="You are quite the talker today."/>
+		<string name="c17_s2" value="The world revolves, and I am part of the world."/>
+		<string name="c17_s3" value="I hear a scary dragon lives nearby... Shall I pay it a visit?"/>
+		<string name="c17_s4" value="Good soil and good food! "/>
+		<string name="c17_f1" value="Why is the sky so blue? It makes me homesick."/>
+		<string name="c17_f2" value="The falling leaves remind me how lonely I am."/>
+		<string name="c17_f3" value="I was not created to talk..."/>
+		<string name="c17_f4" value="I was not created to talk..."/>
+		<string name="c18" value="talk|chat|say"/>
+		<string name="c18_s1" value="You are quite the talker today."/>
+		<string name="c18_s2" value="The world revolves, and I am part of the world."/>
+		<string name="c18_s3" value="I hear a scary dragon lives nearby... Shall I pay it a visit?"/>
+		<string name="c18_s4" value="Good soil and good food! "/>
+		<string name="c18_f1" value="Why is the sky so blue? It makes me homesick."/>
+		<string name="c18_f2" value="The falling leaves remind me how lonely I am."/>
+		<string name="c18_f3" value="I have little to say...MEOW..."/>
+		<string name="c18_f4" value="Feel me first...MEOW!"/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="You are quite the talker today."/>
+		<string name="c19_s2" value="The world revolves, and I am part of the world."/>
+		<string name="c19_s3" value="I hear a scary dragon lives nearby... Shall I pay it a visit?"/>
+		<string name="c19_s4" value="Good soil and good food! "/>
+		<string name="c19_f1" value="Why is the sky so blue? It makes me homesick."/>
+		<string name="c19_f2" value="The falling leaves remind me how lonely I am."/>
+		<string name="c19_f3" value="I was not created to talk..."/>
+		<string name="c19_f4" value="I was not created to talk..."/>
+		<string name="c20" value="aww|cute"/>
+		<string name="c20_s1" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c20_s2" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c20_s3" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c20_s4" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c20_f1" value="Why are you not trembling before me?"/>
+		<string name="c20_f2" value="Why are you not trembling before me?"/>
+		<string name="c20_f3" value="Why are you not trembling before me?"/>
+		<string name="c20_f4" value="Why are you not trembling before me?"/>
+		<string name="c21" value="aww|cute"/>
+		<string name="c21_s1" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c21_s2" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c21_s3" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c21_s4" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c21_f1" value="Why are you not trembling before me?"/>
+		<string name="c21_f2" value="Why are you not trembling before me?"/>
+		<string name="c21_f3" value="Why are you not trembling before me?"/>
+		<string name="c21_f4" value="Why are you not trembling before me?"/>
+		<string name="c22" value="aww|cute"/>
+		<string name="c22_s1" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c22_s2" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c22_s3" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c22_s4" value="Shall I attempt to smile for you? I will try."/>
+		<string name="c22_f1" value="Why are you not trembling before me?"/>
+		<string name="c22_f2" value="Why are you not trembling before me?"/>
+		<string name="c22_f3" value="Why are you not trembling before me?"/>
+		<string name="c22_f4" value="Why are you not trembling before me?"/>
+		<string name="c23" value="rise|up|stand"/>
+		<string name="c23_s1" value="I will bow before your power."/>
+		<string name="c23_s2" value="I will feel the power in my legs once more."/>
+		<string name="c23_s3" value="See the strength inside me!"/>
+		<string name="c23_s4" value="I will require more coaxing."/>
+		<string name="c23_f1" value="Nope."/>
+		<string name="c23_f2" value="No. The earth does not move at your whim."/>
+		<string name="c23_f3" value="I just can't do it!"/>
+		<string name="c23_f4" value="I refuse!"/>
+		<string name="c24" value="rise|up|stand"/>
+		<string name="c24_s1" value="I will bow before your power."/>
+		<string name="c24_s2" value="I will feel the power in my legs once more."/>
+		<string name="c24_s3" value="See the strength inside me!"/>
+		<string name="c24_s4" value="I will require more coaxing."/>
+		<string name="c24_f1" value="Nope."/>
+		<string name="c24_f2" value="No. The earth does not move at your whim."/>
+		<string name="c24_f3" value="I just can't do it!"/>
+		<string name="c24_f4" value="I refuse!"/>
+		<string name="c25" value="iloveyou"/>
+		<string name="c25_s1" value="Me too."/>
+		<string name="c25_s2" value="Me too."/>
+		<string name="c25_f1" value="...?"/>
+		<string name="c25_f2" value="Umm?"/>
+		<string name="c26" value="iloveyou"/>
+		<string name="c26_s1" value="I will admit to some feelings of adoration."/>
+		<string name="c26_s2" value="Stone does not blush."/>
+		<string name="c26_s3" value="Stone does not blush."/>
+		<string name="c26_s4" value="I will comply. You have proven yourself to me."/>
+		<string name="c26_f1" value="Lies..."/>
+		<string name="c26_f2" value="Zzz...Zzz..."/>
+		<string name="c26_f3" value="Things move slower where I come from."/>
+		<string name="c26_f4" value="You and I are not meant to be!"/>
+		<string name="c27" value="iloveyou"/>
+		<string name="c27_s1" value="I will admit to some feelings of adoration."/>
+		<string name="c27_s2" value="Stone does not blush."/>
+		<string name="c27_s3" value="Stone does not blush."/>
+		<string name="c27_s4" value="I will comply. You have proven yourself to me."/>
+		<string name="c27_f1" value="Lies..."/>
+		<string name="c27_f2" value="Zzz...Zzz..."/>
+		<string name="c27_f3" value="Things move slower where I come from."/>
+		<string name="c27_f4" value="You and I are not meant to be!"/>
+		<string name="c28" value="iloveyou"/>
+		<string name="c28_s1" value="I will admit to some feelings of adoration."/>
+		<string name="c28_s2" value="Stone does not blush."/>
+		<string name="c28_s3" value="Stone does not blush."/>
+		<string name="c28_s4" value="I will comply. You have proven yourself to me."/>
+		<string name="c28_f1" value="Lies..."/>
+		<string name="c28_f2" value="Zzz...Zzz..."/>
+		<string name="c28_f3" value="Things move slower where I come from."/>
+		<string name="c28_f4" value="You and I are not meant to be!"/>
+		<string name="f1_s" value="Feels good."/>
+		<string name="f1_f" value="Mmmm!"/>
+		<string name="f2_s" value="Give me more. I HUNGER!"/>
+		<string name="f2_f" value="My stores are full."/>
+		<string name="f3_s" value="Is this going to give me saddlebags?"/>
+		<string name="f3_f" value="I'm going on a diet..."/>
+		<string name="f4_s" value="Your knack for finding me food is amazing."/>
+		<string name="f4_f" value="My caverns ache."/>
+		<string name="s1" value="Umm?"/>
+		<string name="s2" value="Why must I say such ridiculous things?"/>
+		<string name="s3" value="I do not say words such as that."/>
+		<string name="s4" value="Your words are foul!"/>
+	</imgdir>

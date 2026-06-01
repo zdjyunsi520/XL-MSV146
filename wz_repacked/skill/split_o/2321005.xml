@@ -1,0 +1,5 @@
+<imgdir name="2321005">
+        <string name="name" value="Advanced Blessing" />
+        <string name="desc" value="Greatly increases nearby party member ATT, Magic ATT, DEF, Accuracy, Avoidability, Max HP, and Max MP. Reduces MP consumption upon using the skill. Can be stacked with other buff skills, excluding Bless.\nRequired Skill : #cBless Lv. 10 or above#" />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#x, Magic ATT: +#y, Weapon DEF: +#z, Magic DEF: +#u, Accuracy: +#v, Avoidability +#w, Max HP: +#indieMhp, Max MP: +#indieMmp, MP Consumption: -#mpConReduce%, Duration: #time sec" />
+    </imgdir>

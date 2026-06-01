@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="7150001">
+		<string name="name" value="大蜘蛛"/>
+	</imgdir>
+    <imgdir name="7150002">
+		<string name="name" value="推车熊"/>
+	</imgdir>
+    <imgdir name="7150003">
+		<string name="name" value="拉卡罗尼"/>
+	</imgdir>
+    <imgdir name="7150004">
+		<string name="name" value="守卫机器人L"/>
+	</imgdir>
+    <imgdir name="7160000">
+		<string name="name" value="双重幽灵海盗"/>
+	</imgdir>
+    <imgdir name="7220000">
+		<string name="name" value="泰伦"/>
+	</imgdir>
+    <imgdir name="7220001">
+		<string name="name" value="九尾狐"/>
+	</imgdir>
+    <imgdir name="7220002">
+		<string name="name" value="贤猫王"/>
+	</imgdir>
+    <imgdir name="8090000">
+		<string name="name" value="迪特与罗伊"/>
+	</imgdir>
+    <imgdir name="8105000">
+		<string name="name" value="拉科"/>
+	</imgdir>
+    <imgdir name="8105001">
+		<string name="name" value="安全系统"/>
+	</imgdir>
+    <imgdir name="8105002">
+		<string name="name" value="增强安全系统"/>
+	</imgdir>
+    <imgdir name="8105003">
+		<string name="name" value="AF机器人"/>
+	</imgdir>
+    <imgdir name="8105004">
+		<string name="name" value="损坏的DF机器人"/>
+	</imgdir>
+    <imgdir name="8105005">
+		<string name="name" value="矿石吞噬者"/>
+	</imgdir>
+    <imgdir name="8110300">
+		<string name="name" value="霍蒙斯库洛"/>
+	</imgdir>
+    <imgdir name="8130100">
+		<string name="name" value="小巴洛格"/>
+	</imgdir>
+    <imgdir name="8140000">
+		<string name="name" value="狼人"/>
+	</imgdir>
+    <imgdir name="8140001">
+		<string name="name" value="竖琴"/>
+	</imgdir>
+    <imgdir name="8140002">
+		<string name="name" value="血竖琴"/>
+	</imgdir>
+</imgdir>

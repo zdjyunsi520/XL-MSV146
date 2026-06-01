@@ -1,0 +1,134 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201017">
+		<string name="name" value="Dr.Roberts"/>
+		<string name="func" value="镜片专家"/>
+		<string name="n0" value="嘿！来一副漂亮的眼睛搭配你的风格怎么样？"/>
+		<string name="n1" value="别担心，这些是临床验证的镜片！"/>
+	</imgdir>
+    <imgdir name="9201019">
+		<string name="name" value="实习生Shakihands"/>
+		<string name="func" value="面容护士"/>
+		<string name="n0" value="我还在学习，但我会尽最大努力给你一个好看的造型..."/>
+		<string name="n1" value="准备好改造了吗？我有点新手，但我会尽力的！"/>
+	</imgdir>
+    <imgdir name="9201020">
+		<string name="name" value="Vivian精品店"/>
+		<string name="func" value="婚礼服装商"/>
+		<string name="n0" value="新娘和新郎的婚礼用品现在正在打折！"/>
+		<string name="n1" value="做个好朋友，为这对新人挑选一份礼物吧！"/>
+	</imgdir>
+    <imgdir name="9201021">
+		<string name="name" value="Robin The Huntress"/>
+		<string name="func" value="优雅箭术"/>
+		<string name="n0" value="我准备好参加派对了。你呢？把钥匙给我，我会送你去一个特别的地方！"/>
+		<string name="n1" value="让我们派对吧！如果你有钥匙，我知道一扇你可以打开的特殊门。"/>
+	</imgdir>
+    <imgdir name="9201022">
+		<string name="name" value="Thomas Swift"/>
+		<string name="func" value="Amoria大使"/>
+		<string name="n0" value="找到真爱了？准备好结婚了吗？"/>
+		<string name="n1" value="如果你想去，我知道去Amoria的路。"/>
+	</imgdir>
+    <imgdir name="9201023">
+		<string name="name" value="Nana"/>
+		<string name="func" value="爱之精灵"/>
+		<string name="n0" value="我在等你证明你对爱人的忠诚！"/>
+		<string name="n1" value="爱的证明非常重要！"/>
+	</imgdir>
+    <imgdir name="9201024">
+		<string name="name" value="Nana(E)"/>
+		<string name="func" value="爱之精灵"/>
+		<string name="n0" value="我在等你证明你对爱人的忠诚！"/>
+		<string name="n1" value="爱的证明非常重要！"/>
+	</imgdir>
+    <imgdir name="9201025">
+		<string name="name" value="Nana(O)"/>
+		<string name="func" value="爱之精灵"/>
+		<string name="n0" value="我在等你证明你对爱人的忠诚！"/>
+		<string name="n1" value="爱的证明非常重要！"/>
+	</imgdir>
+    <imgdir name="9201026">
+		<string name="name" value="Nana(L)"/>
+		<string name="func" value="爱之精灵"/>
+		<string name="n0" value="我在等你证明你对爱人的忠诚！"/>
+		<string name="n1" value="爱的证明非常重要！"/>
+	</imgdir>
+    <imgdir name="9201027">
+		<string name="name" value="Nana(P)"/>
+		<string name="func" value="爱之精灵"/>
+		<string name="n0" value="我在等你证明你对爱人的忠诚！"/>
+		<string name="n1" value="爱的证明非常重要！"/>
+	</imgdir>
+    <imgdir name="9201028">
+		<string name="name" value="Malady"/>
+		<string name="func" value="万圣节女巫"/>
+		<string name="n0" value="不给糖就捣蛋！"/>
+		<string name="n1" value="万圣节快乐！"/>
+	</imgdir>
+    <imgdir name="9201029">
+		<string name="name" value="Benson奶奶"/>
+		<string name="func" value="感恩节派倡导者"/>
+		<string name="n0" value="我喜欢做饭，但我需要食材！"/>
+		<string name="n1" value="如果你帮助我，你会得到美味的东西！"/>
+		<string name="d0" value="我喜欢做饭，但我需要食材！如果你帮助我，你会得到美味的东西！"/>
+		<string name="d1" value="谢谢你的帮助！"/>
+	</imgdir>
+    <imgdir name="9201030">
+		<string name="name" value="Maple Claws"/>
+		<string name="func" value="冒险岛圣诞节疯狂圣诞老人"/>
+		<string name="n0" value="嗨！我是Maple Claws，我需要你的帮助！"/>
+		<string name="n1" value="我可能有礼物给你。"/>
+		<string name="d0" value="冒险岛圣诞快乐！"/>
+		<string name="d1" value="你好！感谢你传播冒险岛圣诞精神！"/>
+		<string name="s0" value="我的朋友不可爱吗？看看我的头顶！"/>
+		<string name="s1" value="圣诞快乐！这将是一个非常快乐的圣诞节！"/>
+	</imgdir>
+    <imgdir name="9201031">
+		<string name="name" value="Hannah"/>
+		<string name="func" value="光明节女祭司"/>
+		<string name="n0" value="我必须为光明节做好准备！我只是需要一些帮助来准备！"/>
+		<string name="n1" value="你好！我已经开始建造祭坛了。如果你愿意帮助我完成仪式的最后准备，请告诉我。"/>
+		<string name="d0" value="我必须为光明节做好准备！我只是需要一些帮助来准备！"/>
+		<string name="d1" value="谢谢你的帮助！"/>
+	</imgdir>
+    <imgdir name="9201033">
+		<string name="name" value="Simon"/>
+		<string name="func" value="光明节神庙向导"/>
+		<string name="n0" value="你想去光明节区域吗？"/>
+		<string name="n1" value="光明节是一个非常迷人的节日，你知道吗？"/>
+	</imgdir>
+    <imgdir name="9201034">
+		<string name="name" value="Ben"/>
+		<string name="n0" value="我该怎么办？"/>
+		<string name="n1" value="我想为我的妻子做这朵花..."/>
+		<string name="d0" value="我该怎么办？"/>
+		<string name="d1" value="再次感谢你的帮助。红色大丽花做得很棒！"/>
+	</imgdir>
+    <imgdir name="9201035">
+		<string name="name" value="Jacob"/>
+		<string name="n0" value="樱花花园现在接受所有旅行者的帮助！包括你！是的，就是你！"/>
+		<string name="n1" value="可爱的樱花花园几乎开放了！成为帮助启动它的好人之一！在这里咨询！"/>
+		<string name="d0" value="樱花花园现在接受所有旅行者的帮助！包括你！是的，就是你！"/>
+		<string name="d1" value="你的帮助被证明是无价的，我的朋友。再次感谢！"/>
+		<string name="func" value="结婚戒指操作员"/>
+	</imgdir>
+    <imgdir name="9201037">
+		<string name="name" value="Gary and Shatima"/>
+		<string name="n0" value="我不知道我们现在怎么结婚..."/>
+		<string name="n1" value="Gary...有人随时会来帮助我们...我能感觉到。"/>
+		<string name="d0" value="我不知道我们现在怎么结婚..."/>
+		<string name="d1" value="我和我的未婚妻都感谢你。你的善良触动了我们俩的心。"/>
+	</imgdir>
+    <imgdir name="9201040">
+		<string name="name" value="Spot先生"/>
+		<string name="n0" value="帮爸爸妈妈做完家务，然后来找我！"/>
+		<string name="n1" value="我有一个惊喜给你。期待更多！"/>
+		<string name="d0" value="帮爸爸妈妈做完家务，然后来找我！"/>
+		<string name="d1" value="谢谢你的帮助！"/>
+	</imgdir>
+    <imgdir name="9201041">
+		<string name="name" value="Bullseye"/>
+		<string name="n0" value="汪汪！我可以告诉你关于Nexon预付卡的事。"/>
+		<string name="n1" value="什么？你以前没听过狗叫吗？别大惊小怪！"/>
+	</imgdir>
+</imgdir>

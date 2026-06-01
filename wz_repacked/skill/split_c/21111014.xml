@@ -1,0 +1,8 @@
+<imgdir name="21111014">
+        <string name="name" value="旋转突袭" />
+        <string name="desc" value="跳起来旋转攻击周围的敌人，有几率使其眩晕！通过龙之连接发动时不消耗连击数，但伤害会降低哦~\r\n[指令: #c上和上方向键 + 攻击#]" />
+        <string name="h" value="连击消耗: #comboConAran, MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
+        <string name="pdesc" value="原地跳跃攻击周围的敌人，有几率使目标眩晕~\n[指令: #c上和上方向键 + 攻击键#]" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
+        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 眩晕几率: #hcProp%, 眩晕时间: #hcTime秒" />
+    </imgdir>

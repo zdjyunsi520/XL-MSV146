@@ -1,0 +1,8 @@
+<imgdir name="5311004">
+        <string name="name" value="橡木桶轮盘" />
+        <string name="desc" value="炸开橡木桶获得随机增益。增益期间攻击敌人有固定概率使敌人陷入异常状态。" />
+        <string name="h" value="消耗MP：#mpCon，增益持续时间：#time秒，攻击时#w%概率使敌人陷入黑暗、眩晕、冰冻或减速#v秒。\n被动效果：伤害：+#damR%\n#c冷却时间：#cooltime秒#" />
+        <string name="pdesc" value="炸开橡木桶获得随机增益。增益期间攻击敌人有固定概率使敌人陷入异常状态。" />
+        <string name="ph" value="消耗MP：#mpCon，增益持续时间：#time秒，攻击时#w%概率使敌人陷入黑暗、眩晕、冰冻或减速#v秒。\n被动效果：伤害：+#damR%\n#c冷却时间：#cooltime秒#" />
+        <string name="hch" value="消耗MP：#mpCon，增益持续时间：#time秒，攻击时#hcProp%概率使敌人陷入黑暗、眩晕、冰冻或减速#hcSubTime秒。\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

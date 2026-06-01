@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="80000046"><string name="name" value="斗兽英雄"/><string name="desc" value="斗兽英雄护手的力量溢出，强化你的力量。"/><string name="h" value="#物理攻击力：+#padX，魔法攻击力：+#madX，所有属性：+#dexX"/></imgdir>
+    <imgdir name="80000047"><string name="name" value="混血逻辑"/><string name="desc" value="激活混血逻辑程序，永久提升所有属性。"/><string name="h" value="所有属性：+#strR%"/></imgdir>
+    <imgdir name="80000048"><string name="name" value="师徒额外经验"/><string name="desc" value="师徒系统激活时，如果师父和徒弟在同一地图上，你将获得额外20%经验值。"/><string name="h" value="师徒在同一地图时经验加成：+20%"/></imgdir>
+    <imgdir name="80000049"><string name="name" value="师徒额外增益"/><string name="desc" value="师徒系统激活时，如果师父和徒弟在同一地图上，你将获得额外30点物理攻击力和魔法攻击力。"/><string name="h" value="师徒在同一地图时物理和魔法攻击力加成：+30"/></imgdir>
+    <imgdir name="80000050"><string name="name" value="狂野之怒"/><string name="desc" value="你的怒火提升伤害输出。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="80000051"><string name="name" value="2013夏日热浪"/><string name="desc" value="夏日热浪的力量提升物理攻击力和魔法攻击力。"/><string name="h" value="#物理攻击力：+#padX，魔法攻击力：+#madX，所有属性：+#dexX"/></imgdir>
+    <imgdir name="40011002"><string name="name" value="夏日骤雨"/><string name="desc" value="究极的拔刀术奥义。刀刃如骤雨般从天而降，裹挟着夏日骄阳的灼热。"/><string name="h" value="消耗MP：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，+#indieDamR%持续伤害，持续#time秒。冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="80001155"><string name="name" value="条款与条件"/><string name="desc" value="运用契约法的精湛技艺，让埃斯卡莱德在短时间内提升你的攻击力。"/><string name="h" value="持续时间：10秒，技能伤害：+#indieDamR%\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="24121052"><string name="name" value="玫瑰卡终幕"/><string name="desc" value="将一束卡牌抛向空中，卡牌落下后持续伤害敌人。"/><string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，对卡牌附近的6名敌人造成100%伤害2次。\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="41121009"><string name="name" value="猎鹰俯冲"/><string name="desc" value="虽非拳击但胜似拳击。高高跃起后以刀为首俯冲而下。\n前置技能：#c旋风斩20级以上#"/><string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，眩晕概率：#subProp%，眩晕持续时间：#time秒，眩晕敌人受到的伤害：+#x%。\n被动效果：升龙斩、断空斩、旋风斩伤害+#damR%"/></imgdir>
+    <imgdir name="42101002"><string name="name" value="白狐化身"/><string name="desc" value="白狐化为人形，与阴阳师并肩作战。"/><string name="h" value="玛娜消耗：#epCon，化身持续时间：#time秒。\n无形之息：白狐赋予#prop%概率抵抗击退并无视#a%敌人防御。\n白狐之礼：白狐为你恢复最多#u%的HP。\n狐火：白狐召唤多个狐火持续60秒。有#z%概率抵消魔法攻击。反弹#x%伤害。每次防御消耗1个狐火。\n白狐祝福：白狐施法#v秒，提升魔法防御力#indieMdd和魔法攻击力为装备扇子攻击力的#indieMad%。"/></imgdir>
+    <imgdir name="80001179"><string name="name" value="圣马鬼影"/><string name="desc" value="[最高等级：1]\n可以骑乘圣马鬼影"/><string name="h1" value="消耗MP：10，物理/魔法防御力+10，移动速度170，跳跃力120"/></imgdir>
+    <imgdir name="80001262"><string name="name" value="雷神祝福"/><string name="desc" value="[最高等级：1]\n召唤雷神。"/></imgdir>
+    <imgdir name="80000086"><string name="name" value="雷神祝福"/><string name="desc" value="[最高等级：1]\n赐予雷神的祝福。"/><string name="h1" value="物理攻击力：16，魔法攻击力：16，持续时间：10分钟。"/></imgdir>
+    <imgdir name="80001182"><string name="name" value="星月影"/><string name="desc" value="[最高等级：1]\n可以骑乘星月影。"/><string name="h1" value="玛娜消耗：10，物理/魔法防御力+10，移动速度170，跳跃力120"/></imgdir>
+    <imgdir name="72000058"><string name="name" value="米尔的试炼"/><string name="desc" value="物理攻击力+5，魔法攻击力+5"/></imgdir>
+    <imgdir name="72000059"><string name="name" value="强大的米尔之力"/><string name="desc" value="所有属性+20"/></imgdir>
+    <imgdir name="72000060"><string name="name" value="小不点夜光(光)之力"/><string name="desc" value="范围技能目标+1"/></imgdir>
+    <imgdir name="72000061"><string name="name" value="小不点夜光(暗)之力"/><string name="desc" value="物理攻击力+5，魔法攻击力+5"/></imgdir>
+    <imgdir name="72000062"><string name="name" value="小不点夜光(均衡)之力"/><string name="desc" value="每20级物理和魔法攻击力+1"/></imgdir>
+</imgdir>

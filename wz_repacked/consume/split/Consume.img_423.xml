@@ -1,0 +1,81 @@
+<imgdir name="Consume.img">
+    <imgdir name="2900030">
+		<string name="name" value="Seal"/>
+		<string name="desc" value="Become sealed for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900031">
+		<string name="name" value="Darkness"/>
+		<string name="desc" value="Become blinded for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900032">
+		<string name="name" value="Fragile"/>
+		<string name="desc" value="Become fragile for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900033">
+		<string name="name" value="Slow"/>
+		<string name="desc" value="Decreases Movement Speed for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900034">
+		<string name="name" value="Nullify Buff"/>
+		<string name="desc" value="Nullifies an active buff."/>
+	</imgdir>
+    <imgdir name="2900035">
+		<string name="name" value="Blind"/>
+		<string name="desc" value="Limits sight for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900036">
+		<string name="name" value="Reverse"/>
+		<string name="desc" value="Reverses controls for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900037">
+		<string name="name" value="Nullify Buff"/>
+		<string name="desc" value="Nullifies an active buff."/>
+	</imgdir>
+    <imgdir name="2900038">
+		<string name="name" value="Zombified"/>
+		<string name="desc" value="Character becomes Zombified. Damage received when healed."/>
+	</imgdir>
+    <imgdir name="2900039">
+		<string name="name" value="Blind"/>
+		<string name="desc" value="Limits sight for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900040">
+		<string name="name" value="Movement Speed Up"/>
+		<string name="desc" value="Increases Movement Speed for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900041">
+		<string name="name" value="Monster Transform"/>
+		<string name="desc" value="Transform into a Ribbon Pig for a set amount of time."/>
+	</imgdir>
+    <imgdir name="2900042">
+		<string name="name" value="Increase Score"/>
+		<string name="desc" value="Increases score by 20."/>
+	</imgdir>
+    <imgdir name="2900043">
+		<string name="name" value="Increase Score"/>
+		<string name="desc" value="Increases score by 30."/>
+	</imgdir>
+    <imgdir name="2900045">
+		<string name="name" value="50% HP Restore"/>
+		<string name="desc" value="Recovers 50% HP, with a limit of 49,999 HP if your Max HP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2900046">
+		<string name="name" value="20% Team HP Restore"/>
+		<string name="desc" value="Recovers 20% HP, with a limit of 20,000 HP if your Max HP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2900047">
+		<string name="name" value="50% MP Restore"/>
+		<string name="desc" value="Recovers 50% MP, with a limit of 49,999 MP if your Max MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2900048">
+		<string name="name" value="20% Team MP Restore"/>
+		<string name="desc" value="Recovers 20% MP, with a limit of 20,000 MP if your Max MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2900049">
+		<string name="name" value="Fake Flag"/>
+	</imgdir>
+    <imgdir name="2900050">
+		<string name="name" value="Gallant Potion"/>
+		<string name="desc" value="+10 PvP Weapon Attack for 10 minutes."/>
+	</imgdir>
+</imgdir>

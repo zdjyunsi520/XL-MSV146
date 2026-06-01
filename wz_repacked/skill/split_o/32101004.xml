@@ -1,0 +1,8 @@
+<imgdir name="32101004">
+        <string name="name" value="Blood Drain" />
+        <string name="desc" value="Casts a buff that allows you to recover HP equivalent to a portion of the damage you inflict on enemies. Only up to 10% of your Max HP can be recovered with each attack." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, recovers HP equivalent to #x% of the damage you do" />
+        <string name="pdesc" value="Casts a buff that allows you to recover HP equivalent to a portion of the damage you inflict on enemies. Only up to 10% of your Max HP can be recovered with each attack." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Proc Chance:  #prop%, Restores #x% of damage" />
+        <string name="hch" value="MP Cost: #mpCon, Duration: #time sec, Proc Chance:  #hcProp%, Restores #x% of damage" />
+    </imgdir>

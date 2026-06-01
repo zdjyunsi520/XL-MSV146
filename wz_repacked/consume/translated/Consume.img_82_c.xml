@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040415">
+		<string name="name" value="上衣强化卷轴 防御 65%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040416">
+		<string name="name" value="上衣强化卷轴 防御 15%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040417">
+		<string name="name" value="上衣强化卷轴 力量 100%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040418">
+		<string name="name" value="上衣强化卷轴 力量 60%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040419">
+		<string name="name" value="上衣强化卷轴 力量 10%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040420">
+		<string name="name" value="上衣强化卷轴 HP 100%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040421">
+		<string name="name" value="上衣强化卷轴 HP 60%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040422">
+		<string name="name" value="上衣强化卷轴 HP 10%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040423">
+		<string name="name" value="上衣强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040424">
+		<string name="name" value="上衣强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040425">
+		<string name="name" value="上衣强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040426">
+		<string name="name" value="上衣强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040427">
+		<string name="name" value="上衣强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040429">
+		<string name="name" value="上衣强化卷轴 防御 50%"/>
+		<string name="desc" value="强化上衣物理防御。\n成功率：50%，物理防御+5，魔法防御+4"/>
+	</imgdir>
+    <imgdir name="2040430">
+		<string name="name" value="上衣强化卷轴 防御 100%"/>
+		<string name="desc" value="强化上衣物理防御。\n成功率：100%，物理防御+2，魔法防御+3"/>
+	</imgdir>
+    <imgdir name="2040431">
+		<string name="name" value="上衣强化卷轴 力量 65%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040432">
+		<string name="name" value="上衣强化卷轴 力量 15%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040433">
+		<string name="name" value="上衣强化卷轴 HP 65%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n最大HP：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040434">
+		<string name="name" value="上衣强化卷轴 HP 15%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大HP：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040435">
+		<string name="name" value="上衣强化卷轴 幸运 65%"/>
+		<string name="desc" value="强化上装幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+</imgdir>

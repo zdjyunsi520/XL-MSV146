@@ -1,0 +1,133 @@
+<imgdir name="Npc.img">
+    <imgdir name="2450004">
+		<string name="name" value="切奇"/>
+	</imgdir>
+    <imgdir name="2450005">
+		<string name="name" value="艾伯特"/>
+		<string name="func" value="市政厅"/>
+		<string name="d0" value="对不起，我让你失望了...但是...但是..."/>
+		<string name="d1" value="对不起，我让你失望了...但是...但是..."/>
+	</imgdir>
+    <imgdir name="2450006">
+		<string name="name" value="瑟尔"/>
+		<string name="d0" value="这个村子一团糟，我不喜欢。"/>
+		<string name="d1" value="这个村子一团糟，我不喜欢。"/>
+	</imgdir>
+    <imgdir name="2450007">
+		<string name="name" value="艾伦"/>
+		<string name="func" value="机器人专家"/>
+		<string name="d0" value="制造机器人很有趣，但收入比你想象的要少得多。"/>
+		<string name="d1" value="坏掉的机器人可以修复如新。"/>
+		<string name="n0" value="你在村子里看到的每个机器人都是我的杰作。"/>
+		<string name="n1" value="机器人就像我的孩子。"/>
+	</imgdir>
+    <imgdir name="2450008">
+		<string name="name" value="斯玛蒂"/>
+		<string name="d0" value="我每次都能抓到他们！"/>
+		<string name="n0" value="我现在想回家了。"/>
+		<string name="n1" value="奥利奥利牛自由！"/>
+	</imgdir>
+    <imgdir name="2450009">
+		<string name="name" value="库蒂"/>
+		<string name="n0" value="希望没人找到我。"/>
+		<string name="n1" value="斯玛蒂玩捉人游戏真的很烂。"/>
+		<imgdir name="bubble">
+			<imgdir name="41201">
+				<imgdir name="2">
+					<string name="0" value="既然我们玩了捉迷藏，不如我们玩捉人游戏？"/>
+					<string name="1" value="斯玛蒂又要当鬼了。嘿嘿嘿！"/>
+				</imgdir>
+    <imgdir name="2450010">
+		<string name="name" value="米斯特里"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="明智的男人关心他们的背影。"/>
+	</imgdir>
+    <imgdir name="2450011">
+		<string name="name" value="乌尔丽卡"/>
+		<string name="d0" value="是时候让斯玛蒂喊“奥利奥利牛自由”了。"/>
+		<string name="d1" value="我想整天和玛斯特玛玩，但我有很多作业要做。"/>
+		<string name="n0" value="嘿嘿，没人会在这里找到我。"/>
+		<string name="n1" value="捉迷藏最好玩！"/>
+		<imgdir name="bubble">
+			<imgdir name="41209">
+				<imgdir name="2">
+					<string name="0" value="玛斯特玛比我大。"/>
+					<string name="1" value="玛斯特玛这么老真奇怪。"/>
+				</imgdir>
+    <imgdir name="41201">
+				<imgdir name="2">
+					<string name="0" value="你见过这么大的紫色猫吗？"/>
+					<string name="1" value="玛斯特玛！那只猫在哪里？"/>
+				</imgdir>
+    <imgdir name="2450012">
+		<string name="name" value="法蒂"/>
+		<string name="n0" value="咕噜！咕噜！"/>
+		<string name="n1" value="咀嚼！咀嚼！"/>
+	</imgdir>
+    <imgdir name="2450013">
+		<string name="name" value="冯"/>
+		<string name="d0" value="我-我不是冯。"/>
+		<string name="d1" value="哎呀，你怎么知道我是冯？我确信我的伪装很完美。"/>
+	</imgdir>
+    <imgdir name="2450014">
+		<string name="name" value="布莱顿"/>
+		<string name="func" value="清洁工"/>
+		<string name="d0" value="打扫让我很开心！我为我的工作感到非常自豪，尤其是看到干净的街道时。"/>
+		<string name="d1" value="打扫让我很开心！我为我的工作感到非常自豪，尤其是看到干净的街道时。"/>
+		<string name="n0" value="哈哈，祝你有美好的一天！"/>
+		<string name="n1" value="走在干净的街道上感觉很棒，不是吗？"/>
+	</imgdir>
+    <imgdir name="2450015">
+		<string name="name" value="勒蒂埃"/>
+		<string name="func" value="副总统秘书"/>
+		<string name="d0" value="我是勒蒂埃，安东尼副总统的秘书。"/>
+		<string name="d1" value="我是勒蒂埃，安东尼副总统的秘书。"/>
+		<string name="n0" value="你相信爱情吗？"/>
+		<string name="n1" value="我太累了。"/>
+		<imgdir name="bubble">
+			<imgdir name="41205">
+				<imgdir name="2">
+					<string name="0" value="艾伦穿得漂亮的时候看起来不错。"/>
+					<string name="1" value="如果你仔细看他，他相当帅。"/>
+				</imgdir>
+    <imgdir name="2450016">
+		<string name="name" value="J"/>
+		<string name="n0" value="美丽的勒蒂埃，我的心属于你！"/>
+		<string name="n1" value="勒蒂埃，我有这个戒指给你。"/>
+	</imgdir>
+    <imgdir name="2450017">
+		<string name="name" value="玛斯特玛"/>
+	</imgdir>
+    <imgdir name="2450018">
+		<string name="name" value="玛斯特玛"/>
+	</imgdir>
+    <imgdir name="2450019">
+		<string name="name" value="玛斯特玛"/>
+	</imgdir>
+    <imgdir name="2450020">
+		<string name="name" value="安东尼"/>
+		<string name="func" value="副总统秘书"/>
+		<string name="d0" value="我是安东尼，这个村子的副总统。很快，我将成为总统。"/>
+		<string name="d1" value="我是安东尼，这个村子的副总统。很快，我将成为总统。"/>
+		<string name="n0" value="你！我在等你带着尊重和钦佩来迎接我！"/>
+		<string name="n1" value="你会后悔对我不好的。"/>
+		<imgdir name="bubble">
+			<imgdir name="41208">
+				<imgdir name="2">
+					<string name="0" value="没用的。没用的！"/>
+					<string name="1" value="一切都没用！"/>
+				</imgdir>
+    <imgdir name="2450021">
+		<string name="name" value="克劳丁"/>
+		<string name="func" value="医生"/>
+		<string name="d0" value="我正在研究芸香对人体的影响。"/>
+		<string name="d1" value="我正在研究芸香对人体的影响。"/>
+		<string name="n0" value="不知道芸香有什么秘密。"/>
+		<string name="n1" value="他们的突变一定与芸香矿石有关。"/>
+	</imgdir>
+    <imgdir name="2450022">
+		<string name="name" value="自动出租车"/>
+		<string name="d0" value="（这是无人驾驶出租车，埃德尔斯坦的特色。）"/>
+		<string name="d1" value="（这是无人驾驶出租车，埃德尔斯坦的特色。）"/>
+	</imgdir>
+</imgdir>

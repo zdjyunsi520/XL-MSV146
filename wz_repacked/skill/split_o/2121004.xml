@@ -1,0 +1,8 @@
+<imgdir name="2121004">
+        <string name="name" value="Infinity" />
+        <string name="desc" value="Lets you use skills without spending MP and has a chance to trigger Power Stance on hit. Also, continually recovers HP and MP, and increases the damage of all attack magic. Enemy attacks will not remove this effect." />
+        <string name="h" value="MP Cost: #mpCon, Recovers HP and MP by #y% every 4 secs, Increases damage by Magic ATT by #damage% every 4 sec, Chance of Activating Power Stance Effect: #prop%, Duration: #time sec, Cooldown: 3 min" />
+        <string name="pdesc" value="Enables one to use skills without spending mana, and stance effect will trigger on hit with a set probability. Continues to recover HP and MP and increases the damage of all attack magic. [Cooldown: 3 min]" />
+        <string name="ph" value="MP Cost: #mpCon, Recovers HP and MP by #y% every 4 secs, Increases damage by Magic ATT by #damage% every 4 sec, Chance of Activating Stance Effect: #prop%, Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Recovers #hcHp% of HP and #y% of MP every 4 secs, Magic Damage: +#damage% every 4 sec, Chance of Activating Power Stance Effect: #prop%, Duration: #time sec" />
+    </imgdir>

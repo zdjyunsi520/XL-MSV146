@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="2491003">
+		<string name="name" value="希拉"/>
+		<string name="d0" value="（这位美丽的女士甩动着长长的红发，带着傲慢的微笑。）"/>
+		<string name="d1" value="（这位美丽的女士甩动着长长的红发，带着傲慢的微笑。）"/>
+	</imgdir>
+    <imgdir name="2491004">
+		<string name="name" value="戴米安"/>
+		<string name="d0" value="（这个年轻人的肤色很奇特。他看起来很无聊。）"/>
+		<string name="d1" value="（这个年轻人的肤色很奇特。他看起来很无聊。）"/>
+	</imgdir>
+    <imgdir name="2491005">
+		<string name="name" value="格里梅尔"/>
+		<string name="d0" value="（这位科学家看起来格格不入。他的镜片太厚了，眼睛看起来很模糊。）"/>
+		<string name="d1" value="（这位科学家看起来格格不入。他的镜片太厚了，眼睛看起来很模糊。）"/>
+	</imgdir>
+    <imgdir name="2491006">
+		<string name="name" value="洛特斯"/>
+		<string name="d0" value="（这个小男孩看起来不死不活。他散发出不祥的能量。）"/>
+		<string name="d1" value="（这个小男孩看起来不死不活。他散发出不祥的能量。）"/>
+	</imgdir>
+    <imgdir name="2491007">
+		<string name="name" value="卡尔塔里昂"/>
+	</imgdir>
+    <imgdir name="2491008">
+		<string name="name" value="芬奈尔"/>
+	</imgdir>
+    <imgdir name="2491009">
+		<string name="name" value="贝尔达"/>
+	</imgdir>
+    <imgdir name="2491010">
+		<string name="name" value="卡修斯"/>
+		<string name="d0" value="（卡修斯穿着黑色衣服。他曾经蓝色的眼睛现在变成了可怕的红色。）"/>
+		<string name="d1" value="（卡修斯穿着黑色衣服。他曾经蓝色的眼睛现在变成了可怕的红色。）"/>
+	</imgdir>
+    <imgdir name="2400024">
+		<string name="name" value="本尼迪克特"/>
+		<string name="n0" value="现在，尝试使用你的技能。"/>
+		<string name="d0" value="如果你不知道使用哪些技能，选择图标上带有丝带的技能。你可以将它们注册到快捷栏。"/>
+		<string name="d1" value="如果你将带有丝带标记的技能组合在一起，你可以进行更强大的攻击！"/>
+		<imgdir name="dialogue">
+			<string name="40504" value="我不明白卡修斯怎么能那样做...他只想看到新的超越者成功。"/>
+			<string name="40505" value="我应该更好地照顾我的兄弟..."/>
+			<string name="40506" value="我希望我的兄弟能被原谅。我会加倍努力来弥补他..."/>
+		</imgdir>
+    <imgdir name="40504">
+				<imgdir name="2">
+					<string name="0" value="他怎么能那样做？"/>
+					<string name="1" value="我-我不明白。"/>
+				</imgdir>
+    <imgdir name="40505">
+				<imgdir name="2">
+					<string name="0" value="卡修斯..."/>
+					<string name="1" value="对不起。"/>
+				</imgdir>
+    <imgdir name="40506">
+				<imgdir name="2">
+					<string name="0" value="我会为他弥补的。我保证。"/>
+					<string name="1" value="神殿似乎一天比一天大。"/>
+				</imgdir>
+    <imgdir name="2400025">
+		<string name="name" value="冒险岛传送门"/>
+	</imgdir>
+    <imgdir name="9900005">
+		<string name="name" value="测试女性1"/>
+	</imgdir>
+    <imgdir name="9900006">
+		<string name="name" value="测试女性2"/>
+	</imgdir>
+    <imgdir name="9900007">
+		<string name="name" value="测试女性3"/>
+	</imgdir>
+    <imgdir name="9390012">
+		<string name="name" value="加斯特罗"/>
+		<string name="n0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="n1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+		<string name="d0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="d1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+	</imgdir>
+    <imgdir name="9390013">
+		<string name="name" value="加斯特罗"/>
+		<string name="n0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="n1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+		<string name="d0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="d1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+	</imgdir>
+    <imgdir name="9390014">
+		<string name="name" value="加斯特罗"/>
+		<string name="n0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="n1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+		<string name="d0" value="嘿！你想谈谈战斗怪物，还是我们必须战斗？"/>
+		<string name="d1" value="你想了解初级战斗怪物吗？！我会展示给你看。我会展示得非常好！"/>
+	</imgdir>
+    <imgdir name="9390246">
+		<string name="name" value="布拉德船长"/>
+		<string name="func" value="黎明之岛海盗王"/>
+		<string name="d0" value="害怕吧，我是布拉德船长，黎明之岛卑鄙的海盗王！"/>
+		<string name="d1" value="害怕吧，我是布拉德船长，黎明之岛卑鄙的海盗王！"/>
+	</imgdir>
+</imgdir>

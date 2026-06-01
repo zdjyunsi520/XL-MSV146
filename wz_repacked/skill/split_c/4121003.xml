@@ -1,0 +1,5 @@
+<imgdir name="4121003">
+        <string name="name" value="挑衅" />
+        <string name="desc" value="挑衅最多6个敌人，提升经验值和道具掉落率。\n需要技能：#c暗影闪避 Lv. 10#" />
+        <string name="h" value="MP Cost: #mpCon, EXP Earned/Item Drop Rate: +#x%" />
+    </imgdir>

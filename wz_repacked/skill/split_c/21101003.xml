@@ -1,0 +1,8 @@
+<imgdir name="21101003">
+        <string name="name" value="身体冲击" />
+        <string name="desc" value="暂时开启身体攻击。被碰到的敌人有概率眩晕5秒。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，持续时间：#time 秒，眩晕概率：#prop%" />
+        <string name="pdesc" value="在一定时间内开启身体攻击。" />
+        <string name="ph" value="MP消耗：#mpCon，身体攻击伤害：#damage%，持续时间：#time 秒" />
+        <string name="hch" value="MP消耗：#mpCon，身体攻击伤害：#damage%，持续时间：#time 秒" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046162">
+		<string name="name" value="8周年双手武器强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n武器攻击：+7至9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046163">
+		<string name="name" value="8周年双手武器强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化双手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+7至9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046164">
+		<string name="name" value="解放者双手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n敏捷：+1\r\n武器攻击：+2\r\n命中：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046165">
+		<string name="name" value="第一名单手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n武器攻击：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046166">
+		<string name="name" value="8周年高级双手武器强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n武器攻击：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046167">
+		<string name="name" value="伟大双手武器强化卷轴 攻击 80%"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n武器攻击：+2\r\n#"/>
+		<string name="desc" value="强化伟大双手武器的武器攻击。"/>
+	</imgdir>
+    <imgdir name="2046168">
+		<string name="name" value="伟大双手武器强化卷轴 攻击 40%"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n武器攻击：+4\r\n#"/>
+		<string name="desc" value="强化伟大双手武器的武器攻击。"/>
+	</imgdir>
+    <imgdir name="2046169">
+		<string name="name" value="粉色花朵双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046184">
+		<string name="name" value="抵抗军双手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n敏捷：+1\r\n武器攻击+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046185">
+		<string name="name" value="双手武器强化卷轴 攻击 20%"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+		<string name="desc" value="强化双手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046186">
+		<string name="name" value="双手武器强化卷轴 攻击 40%"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+5\r\n命中：+15\r\n#"/>
+		<string name="desc" value="强化双手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046187">
+		<string name="name" value="双手武器强化卷轴 攻击 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n命中：+5\r\n#"/>
+		<string name="desc" value="强化双手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046191">
+		<string name="name" value="8周年高级双手武器强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n武器攻击：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046193">
+		<string name="name" value="双手武器强化卷轴 攻击 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n命中：+5\r\n#"/>
+		<string name="desc" value="强化双手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046192">
+		<string name="name" value="双手武器强化卷轴 攻击 20%"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+		<string name="desc" value="强化双手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046194">
+		<string name="name" value="高级双手武器强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n武器攻击：+7至+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046197">
+		<string name="name" value="高级双手武器强化卷轴 攻击 25%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：100%\r\n武器攻击：+7至+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046198">
+		<string name="name" value="ES双手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c可用于100-120级装备\r\n成功率：60%\r\n武器攻击+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046200">
+		<string name="name" value="防具强化卷轴 力量 100%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046201">
+		<string name="name" value="防具强化卷轴 智力 100%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+2\r\n#"/>
+	</imgdir>
+</imgdir>

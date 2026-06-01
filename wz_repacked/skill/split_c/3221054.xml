@@ -1,0 +1,5 @@
+<imgdir name="3221054">
+        <string name="name" value="靶心射击" />
+        <string name="desc" value="锁定敌人的弱点进行毁灭性射击。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，额外暴击率：#x%，额外最大暴击伤害：#y%，额外无视怪物防御：#ignoreMobpdpR%\n冷却时间：#cooltime秒" />
+    </imgdir>

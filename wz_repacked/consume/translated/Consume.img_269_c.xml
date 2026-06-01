@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430011">
+		<string name="name" value="特工召唤"/>
+		<string name="desc" value="召唤特工。（用于GM活动）"/>
+	</imgdir>
+    <imgdir name="2430012">
+		<string name="name" value="特工移除"/>
+		<string name="desc" value="移除特工。（用于GM活动）"/>
+	</imgdir>
+    <imgdir name="2430013">
+		<string name="name" value="砰砰冰棍"/>
+		<string name="desc" value="一种将你变成砰砰的冰棍。变成哪种砰砰是不确定的。"/>
+	</imgdir>
+    <imgdir name="2430014">
+		<string name="name" value="杀手蘑菇孢子"/>
+		<string name="desc" value="从毒蘑菇中提取的强力化学物质。帮助你去除森林中蔓延的荆棘魔法屏障。"/>
+	</imgdir>
+    <imgdir name="2430015">
+		<string name="name" value="荆棘清除剂"/>
+		<string name="desc" value="一种消除蔓延藤蔓上荆棘的魔法粉。"/>
+	</imgdir>
+    <imgdir name="2430016">
+		<string name="name" value="水晶箱子"/>
+		<string name="desc" value="一个装满能让你在夏天保持凉爽的物品的冰盒。如果在活动期间不打开，内容物会融化。"/>
+	</imgdir>
+    <imgdir name="2430026">
+		<string name="name" value="神秘盒子"/>
+		<string name="desc" value="内容物不明的盒子，不过里面可能藏着黄蝴蝶。"/>
+	</imgdir>
+    <imgdir name="2430027">
+		<string name="name" value="神秘盒子"/>
+		<string name="desc" value="内容物不明的盒子，不过里面可能藏着黄蝴蝶。71级以上的角色打开会是空的。"/>
+	</imgdir>
+    <imgdir name="2430028">
+		<string name="name" value="神秘盒子"/>
+		<string name="desc" value="内容物不明的盒子，不过里面可能藏着黄蝴蝶。101级以上的角色打开会是空的。"/>
+	</imgdir>
+    <imgdir name="2430029">
+		<string name="name" value="神秘盒子"/>
+		<string name="desc" value="内容物不明的盒子，不过里面可能藏着黄蝴蝶。"/>
+	</imgdir>
+    <imgdir name="2430030">
+		<string name="name" value="黄金罗盘"/>
+		<string name="desc" value="一个能引导你去Gold Richie宝藏岛的黄金罗盘。\n#c双击#可以传送到宝藏岛。"/>
+	</imgdir>
+    <imgdir name="2430031">
+		<string name="name" value="即时相机"/>
+		<string name="desc" value="一个可以用来拍摄月亮照片的即时相机。要拍摄月亮，双击从城镇能看到月亮。如果拍摄失败，回到玉兔那里拿另一个即时相机。"/>
+	</imgdir>
+    <imgdir name="2430032">
+		<string name="name" value="黑色袋子"/>
+		<string name="desc" value="从黑翼成员Hiver那里收到的黑色袋子。把它放在安全前面..."/>
+	</imgdir>
+    <imgdir name="2430033">
+		<string name="name" value="圣诞礼物盒"/>
+		<string name="desc" value="Cliff为枫叶世界的孩子们准备的礼物盒。双击看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430034">
+		<string name="name" value="G星重置道具"/>
+		<string name="desc" value="紧急情况下可以使用的重置道具。"/>
+	</imgdir>
+    <imgdir name="2430035">
+		<string name="name" value="卡桑德拉的神秘冰沙"/>
+		<string name="desc" value="如果你真的好奇它的味道，鼓起勇气尝一口吧。"/>
+	</imgdir>
+    <imgdir name="2430036">
+		<string name="name" value="鳄鱼1日使用券"/>
+		<string name="desc" value="双击使用骑宠[鳄鱼]1天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430037">
+		<string name="name" value="黑色滑板车1日使用券"/>
+		<string name="desc" value="双击使用骑宠[黑色滑板车]1天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430038">
+		<string name="name" value="粉色滑板车1日使用券"/>
+		<string name="desc" value="双击使用骑宠[粉色滑板车]1天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430039">
+		<string name="name" value="积云1日使用券"/>
+		<string name="desc" value="双击使用骑宠[积云]1天，从今天开始。"/>
+	</imgdir>
+</imgdir>

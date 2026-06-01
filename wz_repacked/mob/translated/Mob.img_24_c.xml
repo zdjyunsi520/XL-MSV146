@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="4230126">
+		<string name="name" value="木乃伊狗"/>
+	</imgdir>
+    <imgdir name="4230200">
+		<string name="name" value="便便"/>
+	</imgdir>
+    <imgdir name="4230201">
+		<string name="name" value="毒便便"/>
+	</imgdir>
+    <imgdir name="4230300">
+		<string name="name" value="月兔"/>
+	</imgdir>
+    <imgdir name="4230400">
+		<string name="name" value="铁野猪"/>
+	</imgdir>
+    <imgdir name="4230500">
+		<string name="name" value="花栗鼠"/>
+	</imgdir>
+    <imgdir name="4230501">
+		<string name="name" value="红胖胖猪"/>
+	</imgdir>
+    <imgdir name="4230502">
+		<string name="name" value="黑胖胖猪"/>
+	</imgdir>
+    <imgdir name="4230503">
+		<string name="name" value="蓝花蛇"/>
+	</imgdir>
+    <imgdir name="4230504">
+		<string name="name" value="红花蛇"/>
+	</imgdir>
+    <imgdir name="4230505">
+		<string name="name" value="罐子"/>
+	</imgdir>
+    <imgdir name="4230506">
+		<string name="name" value="人参罐"/>
+	</imgdir>
+    <imgdir name="4230600">
+		<string name="name" value="沙漠巨人"/>
+	</imgdir>
+    <imgdir name="4240000">
+		<string name="name" value="格雷首领"/>
+	</imgdir>
+    <imgdir name="4250000">
+		<string name="name" value="苔藓蜗牛"/>
+	</imgdir>
+    <imgdir name="4250001">
+		<string name="name" value="树枝"/>
+	</imgdir>
+    <imgdir name="5090000">
+		<string name="name" value="暗影"/>
+	</imgdir>
+    <imgdir name="5090001">
+		<string name="name" value="大师假人"/>
+	</imgdir>
+    <imgdir name="5100000">
+		<string name="name" value="小雪人"/>
+	</imgdir>
+    <imgdir name="5100001">
+		<string name="name" value="变形小雪人"/>
+	</imgdir>
+</imgdir>

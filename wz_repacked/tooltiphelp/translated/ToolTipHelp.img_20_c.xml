@@ -1,0 +1,68 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="韩林村落"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="小池塘"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="小池塘"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="韩林村落"/>
+			</imgdir>
+    <imgdir name="222010100">
+			<imgdir name="0">
+				<string name="Title" value="老虎森林I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="黑山入口"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="老虎山脊"/>
+			</imgdir>
+    <imgdir name="222010200">
+			<imgdir name="0">
+				<string name="Title" value="黑山山谷"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="小池塘"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="狐狸山脊"/>
+			</imgdir>
+    <imgdir name="230000000">
+			<imgdir name="0">
+				<string name="Title" value="水族馆杂货店"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="水族馆动物园"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="水族馆市场"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="水族馆"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="工艺小镇"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="水下星光信息板"/>
+				<string name="Desc" value="第一轮(周末):下午2:30\r\n第二轮:下午5点\r\n第三轮:晚上9点\r\n旅游代表-缪斯"/>
+			</imgdir>
+    <imgdir name="230000001">
+			<imgdir name="0">
+				<string name="Title" value="水族馆动物园"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="水族馆杂货店"/>
+			</imgdir>
+    <imgdir name="230000002">
+			<imgdir name="0">
+				<string name="Title" value="杂货店"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="防具店"/>
+			</imgdir>
+</imgdir>

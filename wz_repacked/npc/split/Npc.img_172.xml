@@ -1,0 +1,119 @@
+<imgdir name="Npc.img">
+    <imgdir name="1102112">
+		<string name="name" value="Hawkeye"/>
+		<string name="func" value="Chief Knight of Lightning"/>
+		<string name="n0" value="Good show, good show!"/>
+		<string name="n1" value="Come at me!"/>
+		<string name="d0" value="D'you feel the thunder in yer guts, matey? Ya might just be a Thunder Breaker!"/>
+		<string name="d1" value="We'll fight the Black Mage and sing a song a' victory!"/>
+	</imgdir>
+    <imgdir name="1102200">
+		<string name="name" value="10 Boogies"/>
+		<string name="n0" value="Wait... where's the rest of my report?"/>
+		<string name="n1" value="Somebody needs to help me out right this second."/>
+		<string name="d0" value="Yeesh, how's a girl supposed to have fun with all this work?!"/>
+		<string name="d1" value="I know tons about Perion now. Super tons."/>
+	</imgdir>
+    <imgdir name="1102202">
+		<string name="name" value="10 Boogies"/>
+		<string name="n0" value="Wait... where's the rest of my report?"/>
+		<string name="n1" value="Somebody needs to help me out right this second."/>
+		<string name="d0" value="Yeesh, how's a girl supposed to have fun with all this work?!"/>
+		<string name="d1" value="I know tons about Perion now. Super tons."/>
+	</imgdir>
+    <imgdir name="1102103">
+		<string name="name" value="Kinu"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="n0" value="How can that be?"/>
+		<string name="n1" value="There must be more books about the history of Maple World."/>
+		<string name="d0" value="You gotta work hard to get tough! "/>
+		<string name="d1" value="How are the other instructors?"/>
+	</imgdir>
+    <imgdir name="1102105">
+		<string name="name" value="Kisha"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="n0" value="I'm sure the Empress is waiting..."/>
+		<string name="n1" value="I have the list of future knights right here."/>
+		<string name="d0" value="The Cygnus Knights all began as Noblesses and grew to protect Maple World."/>
+		<string name="d1" value="The Cygnus Knights all began as Noblesses and grew to protect Maple World."/>
+	</imgdir>
+    <imgdir name="1102108">
+		<string name="name" value="Mihile"/>
+		<string name="func" value="Chief Knight of Light"/>
+		<string name="n0" value="May the Empress prosper, always."/>
+		<string name="n1" value="Concentrate on the target in front of you."/>
+		<string name="d0" value="Do you walk in the light? That is the path of the Dawn Warrior."/>
+		<string name="d1" value="My loyalty to the Empress will never waver."/>
+	</imgdir>
+    <imgdir name="1102109">
+		<string name="name" value="Oz"/>
+		<string name="func" value="Chief Knight of Fire"/>
+		<string name="n0" value="I've got a passion for peace."/>
+		<string name="n1" value="We need some good recruits."/>
+		<string name="d0" value="If you like to set stuff on fire, being a Blaze Wizard's where it's at!"/>
+		<string name="d1" value="I'll light up any creeps who get in the Empress's way. Count on it!"/>
+	</imgdir>
+    <imgdir name="1102115">
+		<string name="name" value="Kidan"/>
+		<string name="func" value="Knight Trainer"/>
+		<string name="n0" value="Many others want the same thing you do. Do you have what it takes?"/>
+		<string name="n1" value="It takes devotion to become the sword and shield that protects the Empress."/>
+	</imgdir>
+    <imgdir name="9000185">
+		<string name="name" value="Eileen"/>
+		<string name="func" value="Maple Chat Helper"/>
+		<string name="n0" value="Eileen here! I'd love to tell you all about Maple Chat!"/>
+		<string name="n1" value="Eileen here! Make new friends, talk to people. Maple Chat!"/>
+		<string name="s0" value="Eileen here! How about a chat?"/>
+		<string name="s1" value="Eileen here! Maple World is way better when you're chatting it up!"/>
+		<string name="s2" value="Eileen here! I used to be lonely, then I found Maple Chat!"/>
+		<string name="d0" value="Eileen here! I know all there is to know about Maple Chat!"/>
+		<string name="d1" value="Eileen here! Get your Maple Chat on every day!"/>
+	</imgdir>
+    <imgdir name="9000188">
+		<string name="name" value="Valerio"/>
+		<string name="func" value="Scroll Master"/>
+		<string name="d0" value="I am Valerio, master of scrolls!"/>
+		<string name="n0" value="Tell me your troubles and I will tell you how to use scrolls. It's a good deal!"/>
+		<string name="n1" value="Yes. I AM that Valerio."/>
+		<string name="n2" value="I will help with you use any scroll."/>
+	</imgdir>
+    <imgdir name="9133080">
+		<string name="name" value="Nao"/>
+	</imgdir>
+    <imgdir name="9133081">
+		<string name="name" value="White Chicken"/>
+	</imgdir>
+    <imgdir name="9133082">
+		<string name="name" value="Grumpy Chicken"/>
+	</imgdir>
+    <imgdir name="9133083">
+		<string name="name" value="Confident Chicken"/>
+	</imgdir>
+    <imgdir name="9133084">
+		<string name="name" value="CHICKEN4"/>
+	</imgdir>
+    <imgdir name="9133085">
+		<string name="name" value="CHICKEN5"/>
+	</imgdir>
+    <imgdir name="9133086">
+		<string name="name" value="Black Sheep"/>
+	</imgdir>
+    <imgdir name="9133087">
+		<string name="name" value="White Sheep"/>
+	</imgdir>
+    <imgdir name="9330277">
+		<string name="name" value="Oda Nobunaga"/>
+		<string name="d0" value="Don't expect mercy from me."/>
+		<string name="d1" value="You ready for your training?"/>
+		<string name="n0" value="Come back alive."/>
+		<string name="n1" value="What doesn't kill you makes you stronger."/>
+		<string name="func" value="Headmaster"/>
+	</imgdir>
+    <imgdir name="9330278">
+		<string name="name" value="Sagacious Goemon"/>
+		<string name="func" value="Totem Merchant"/>
+		<string name="n0" value="Listen to the tales of the Sengoku warriors."/>
+		<string name="n1" value="Here is the Sengoku warrior totem."/>
+	</imgdir>
+</imgdir>

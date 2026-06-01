@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5130000">
+		<string name="name" value="护身符"/>
+		<string name="desc" value="随身携带就不会在死亡时丢失经验值。复活时恢复30%的HP和MP。"/>
+	</imgdir>
+    <imgdir name="5130003">
+		<string name="name" value="新手守护符"/>
+		<string name="desc" value="紧紧握住这个符咒，就不会在死亡时丢失经验值。复活时恢复30%的HP和MP。"/>
+	</imgdir>
+    <imgdir name="5130004">
+		<string name="name" value="护身符"/>
+		<string name="desc" value="随身携带就不会在死亡时丢失经验值。复活时恢复30%的HP和MP。"/>
+	</imgdir>
+    <imgdir name="5133000">
+		<string name="name" value="增益冰冻器"/>
+		<string name="desc" value="死亡后使用此道具，可将之前的#增益效果##c保留下来#。\n#c部分#增益效果（包括家族技能）无法保留。复活前会自动询问你是否使用此道具。"/>
+	</imgdir>
+    <imgdir name="5140000">
+		<string name="name" value="普通商店许可证"/>
+		<string name="desc" value="开设一间普通商店。可以在自由市场任意位置开店，最多可同时出售16件物品。"/>
+	</imgdir>
+    <imgdir name="5140001">
+		<string name="name" value="夏日商店许可证（限定版）"/>
+		<string name="desc" value="限定版优惠券，可开设天蓝色树木商店。可以在自由市场任意位置开店，最多可同时出售24件物品。限时供应哦~"/>
+	</imgdir>
+    <imgdir name="5140002">
+		<string name="name" value="粉色VIP商店许可证"/>
+		<string name="desc" value="开设一间粉色树木商店。可以在自由市场任意位置开店，最多可同时出售24件物品。"/>
+	</imgdir>
+    <imgdir name="5140003">
+		<string name="name" value="秋季商店许可证（限定版）"/>
+		<string name="desc" value="限定版优惠券，可开设橙色树木商店。可以在自由市场任意位置开店，最多可同时出售24件物品。限时供应哦~"/>
+	</imgdir>
+    <imgdir name="5140004">
+		<string name="name" value="春季商店许可证（限定版）"/>
+		<string name="desc" value="限定版优惠券，可开设绿色树木商店。可以在自由市场任意位置开店，最多可同时出售24件物品。限时供应哦~"/>
+	</imgdir>
+    <imgdir name="5140006">
+		<string name="name" value="节日商店许可证"/>
+		<string name="desc" value="限定版许可证，可开设圣诞主题商店。可以在自由市场任意位置开店，最多可同时出售24件物品。限时供应哦~"/>
+	</imgdir>
+    <imgdir name="5150000">
+		<string name="name" value="射手村发型券（普通）"/>
+		<string name="desc" value="在#c射手村美发店#使用，可以#c随机#改变你的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150001">
+		<string name="name" value="射手村发型券（VIP）"/>
+		<string name="desc" value="在#c射手村美发店#使用，可以#c自由选择#你想要的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150002">
+		<string name="name" value="废弃都市发型券（普通）"/>
+		<string name="desc" value="在#c废弃都市美发店#使用，可以#c随机#改变你的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150003">
+		<string name="name" value="废弃都市发型券（VIP）"/>
+		<string name="desc" value="在#c废弃都市美发店#使用，可以#c自由选择#你想要的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150004">
+		<string name="name" value="天空之城发型券（普通）"/>
+		<string name="desc" value="在#c天空之城美发店#使用，可以#c随机#改变你的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150005">
+		<string name="name" value="天空之城发型券（VIP）"/>
+		<string name="desc" value="在#c天空之城美发店#使用，可以#c自由选择#你想要的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150006">
+		<string name="name" value="玩具城发型券（普通）"/>
+		<string name="desc" value="在#c玩具城美发店#使用，可以#c随机#改变你的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150007">
+		<string name="name" value="玩具城发型券（VIP）"/>
+		<string name="desc" value="在#c玩具城美发店#使用，可以#c自由选择#你想要的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150008">
+		<string name="name" value="昭和村发型券（普通）"/>
+		<string name="desc" value="在#c昭和村美发店#使用，可以#c随机#改变你的发型。（一次性使用）"/>
+	</imgdir>
+    <imgdir name="5150009">
+		<string name="name" value="昭和村发型券（VIP）"/>
+		<string name="desc" value="在#c昭和村美发店#使用，可以#c自由选择#你想要的发型。（一次性使用）"/>
+	</imgdir>
+</imgdir>

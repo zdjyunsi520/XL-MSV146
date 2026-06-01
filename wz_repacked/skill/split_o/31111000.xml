@@ -1,0 +1,7 @@
+<imgdir name="31111000">
+        <string name="name" value="Judgment" />
+        <string name="desc" value="Judge your enemies...harshly. This attack hits multiple nearby enemies, dealing critical damage with a chance for additional critical hits." />
+        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount, Damage: #damage%, Critical Hit Rate: +#cr%" />
+        <string name="pdesc" value="Judge your enemies...harshly. This attack hits multiple nearby enemies, dealing critical damage with a chance for additional critical hits." />
+        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount, Damage: #damage%, Critical Hit Rate: +#cr%" />
+    </imgdir>

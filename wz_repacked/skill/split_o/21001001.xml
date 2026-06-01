@@ -1,0 +1,5 @@
+<imgdir name="21001001">
+        <string name="name" value="Combat Step" />
+        <string name="desc" value="Press a direction key twice to quickly move a short distance. Additionally has a passive effect which permanently increases the movment speed and the supremum of maximum movement speed.\n[Command: #cRight and Right Arrow key#]\nRequired Skill: #cDouble Swing Lv.1#" />
+        <string name="h" value="MP Cost: #mpCon, travel a short distance\nMovement Speed +#psdSpeed, Max Movement Speed +#speedMax" />
+    </imgdir>

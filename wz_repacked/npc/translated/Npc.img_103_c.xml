@@ -1,0 +1,137 @@
+<imgdir name="Npc.img">
+    <imgdir name="2050010">
+		<string name="name" value="医疗兵Rice"/>
+		<string name="n0" value="我学了很多，但我还没有实际工作经验。"/>
+		<string name="n1" value="红色药水应该能处理大多数伤势。"/>
+		<string name="d0" value="请在Omega Sector这里小心你的一举一动。我能帮你什么？ 我叫#b#p2050010##k，如你所见，我在这里照顾伤员。我时刻保持警惕，以防外星人进攻。"/>
+		<string name="d1" value="请在Omega Sector这里小心你的一举一动。我能帮你什么？ 我叫#b#p2050010##k，如你所见，我在这里照顾伤员。我时刻保持警惕，以防外星人进攻。"/>
+	</imgdir>
+    <imgdir name="2050011">
+		<string name="name" value="士兵Kevin"/>
+		<string name="n0" value="我听说外面到处都有外星人...我也想去打它们。"/>
+		<string name="n1" value="Medin中尉以严格著称。"/>
+		<string name="d0" value="*叹气。*我希望我能出去亲自打败外星人，但我被困在总部做工作。我有信心我能做得很好。我什么时候能出去打它们...?"/>
+		<string name="d1" value="*叹气。*我希望我能出去亲自打败外星人，但我被困在总部做工作。我有信心我能做得很好。我什么时候能出去打它们...?"/>
+	</imgdir>
+    <imgdir name="2050012">
+		<string name="name" value="特工M"/>
+		<string name="n0" value="嘿...你见过外星人吗？"/>
+		<string name="n1" value="请别告诉任何人你见过我。"/>
+		<string name="d0" value="嘘...！你最好表现得你不认识我。虽然我们的总部是最安全的地方，但同时也是最受威胁的地方。如果你没有特别的事要见我，请走开。再见..."/>
+		<string name="d1" value="嗯...#b#p2041015##k似乎已经恢复了失去的记忆。告诉她小心不要再被外星人绑架。如果没别的事，你现在可以离开了。 "/>
+	</imgdir>
+    <imgdir name="2050013">
+		<string name="name" value="Porter"/>
+		<string name="n0" value="我是Porter，Omega Sector的研究员。"/>
+		<string name="n1" value="我要研究的东西太多了，我甚至没时间睡觉。"/>
+		<string name="d0" value="你好。我叫#b#p2050013##k，我在这里的总部工作，帮助#b#p2050001##k开发新机器人。*抽鼻子。*新机器人进展顺利，但我感冒了一阵子了。*抽鼻子。*现在，请原谅，我得回去工作了。我不能被抓到偷懒，你知道的..."/>
+		<string name="d1" value="你好。我叫#b#p2050013##k，我在这里的总部工作，帮助#b#p2050001##k开发新机器人。*抽鼻子。*新机器人进展顺利，但我感冒了一阵子了。*抽鼻子。*现在，请原谅，我得回去工作了。我不能被抓到偷懒，你知道的..."/>
+	</imgdir>
+    <imgdir name="2060000">
+		<string name="name" value="Nanuke"/>
+		<string name="m0" value="只要和朋友们在一起，我就感到安全。"/>
+		<string name="m1" value="哈士奇是值得信赖的朋友。"/>
+		<string name="d0" value="嗨！这些哈士奇不可爱吗？"/>
+		<string name="d1" value="好久不见！你是来看哈士奇的吗？那你来对地方了！"/>
+	</imgdir>
+    <imgdir name="2060001">
+		<string name="name" value="Robinson"/>
+		<string name="s0" value="我只想回到我以前在的地方...我到底在哪里？"/>
+		<string name="s1" value="你怎么到这里来的？海洋安全吗？真难以置信..."/>
+		<string name="d0" value="我在这岛上多久了？我现在连日期都不知道了。"/>
+		<string name="d1" value="我最好离开这个岛回到总部去。"/>
+	</imgdir>
+    <imgdir name="2060002">
+		<string name="name" value="Tae Gong"/>
+		<string name="s0" value="哈哈哈...我怎么能说我只是在这里钓鱼...?"/>
+		<string name="s1" value="钓鱼给我的生活带来了宁静..."/>
+		<string name="d0" value="当我出去钓鱼时，我唯一注意到的就是海洋和流逝的时间。"/>
+		<string name="d1" value="我今天就是钓不上来。事实上，我什么都没钓到。我妻子可能会非常失望..."/>
+	</imgdir>
+    <imgdir name="2060003">
+		<string name="name" value="Melias"/>
+		<string name="func" value="防具商"/>
+		<string name="s0" value="我觉得你需要一些防具来保护自己免受可能的危险..."/>
+		<string name="s1" value="看看我在卖的东西！"/>
+	</imgdir>
+    <imgdir name="2060004">
+		<string name="name" value="Oannes"/>
+		<string name="func" value="商人"/>
+		<string name="s0" value="你找不到比我这里做的更有效的药水了！"/>
+		<string name="s1" value="我只用你在Aquaroad能找到的最好的珊瑚和海藻制作它们！"/>
+	</imgdir>
+    <imgdir name="2060005">
+		<string name="name" value="Kenta"/>
+		<string name="func" value="动物园训练师"/>
+		<string name="s0" value="它们不可爱吗？"/>
+		<string name="s1" value="你只能在陆地上看到这些动物。请别让它们激动起来！"/>
+		<string name="d0" value="欢迎来到水族馆动物园。我叫Kenta，是动物园训练师。请不要喂动物。"/>
+		<string name="d1" value="你必须用爱心接近所有动物。动物很敏感，能本能地判断一个人是好意还是恶意。"/>
+	</imgdir>
+    <imgdir name="2060006">
+		<string name="name" value="Muse"/>
+		<string name="s0" value="请不要喂动物园的动物！"/>
+		<string name="s1" value="在水族馆动物园玩得开心！"/>
+		<string name="d0" value="欢迎来到水族馆动物园！我是Muse，你的向导！"/>
+		<string name="d1" value="有时候我真的很想念我的男朋友...不知道他最近怎么样了..."/>
+	</imgdir>
+    <imgdir name="2060100">
+		<string name="name" value="Carta"/>
+		<string name="s0" value="你想知道你的未来是什么吗？"/>
+		<string name="s1" value="这肯定不是免费的..."/>
+		<string name="d0" value="你真是个傻瓜，竟然大老远跑到这里来...你想从我这里得到什么？"/>
+		<string name="d1" value="任何人想要窥视未来都是愚蠢的..."/>
+	</imgdir>
+    <imgdir name="2060101">
+		<string name="name" value="探索者Taeng"/>
+		<string name="s0" value="最近这里发生了一些奇怪的事。"/>
+		<string name="s1" value="希望所有去海底的人都能安全返回。"/>
+		<string name="d0" value="我需要调查深海里发生的任何事情。"/>
+		<string name="d1" value="请小心，因为你在外面会遇到很多鲨鱼。你需要时刻保持警惕。"/>
+	</imgdir>
+    <imgdir name="2070000">
+		<string name="name" value="Noh先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="别担心你的东西放在这里。我把一切都记录在案了。"/>
+		<string name="s1" value="嗯...我刚才在写什么来着？"/>
+	</imgdir>
+    <imgdir name="2070001">
+		<string name="name" value="Bung的妈妈"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="你需要什么吗？我有一些你可能会感兴趣的货物！"/>
+		<string name="n1" value="我们有药水和其它货物，过来看看吧！"/>
+	</imgdir>
+    <imgdir name="2070002">
+		<string name="name" value="Moki"/>
+		<string name="func" value="武器商"/>
+		<string name="n0" value="呵呵呵...我保证这些物品像发怒的地精一样坚固！"/>
+		<string name="n1" value="呵呵呵，晚餐现在应该准备好了..."/>
+	</imgdir>
+    <imgdir name="2070003">
+		<string name="name" value="Dori"/>
+		<string name="func" value="防具商"/>
+		<string name="n0" value="过来看看这些！这些防具是通过代代相传的100多年知识制作的！"/>
+		<string name="n1" value="嘿，嘿，看但别碰！你碰它们会贬低这些物品的价值！"/>
+	</imgdir>
+    <imgdir name="2071000">
+		<string name="name" value="Chumji"/>
+		<string name="n0" value="呵呵呵，地精在这附近很容易被发现..."/>
+		<string name="n1" value="嗯，那些地精让我很担心。它们肯定是恶作剧者，但它们从未对这些 人造成任何伤害。直到现在..."/>
+		<string name="d0" value="呵呵呵，欢迎！欢迎来到这个伟大的小镇！"/>
+		<string name="d1" value="你认识和这里的人了吗？想在这里待一会儿就待吧！"/>
+	</imgdir>
+    <imgdir name="2071001">
+		<string name="name" value="Hongbu"/>
+		<string name="n0" value="嘿...有意思，我总是饿..."/>
+		<string name="n1" value="我哥哥是不是有点可怕？不过没关系，因为他仍然是家人！"/>
+		<string name="d0" value="嘿。我饿死了...我得想办法弄点吃的..."/>
+		<string name="d1" value="我需要提醒自己要保持节俭，尽一切可能省钱。"/>
+	</imgdir>
+    <imgdir name="2071002">
+		<string name="name" value="Nolbu"/>
+		<string name="n0" value="嗯，你想要我什么？"/>
+		<string name="n1" value="Hongbu一直来找我借东西...天啊，我压力好大。Hongbu没派你来吧？"/>
+		<string name="d0" value="如果你来是求人帮忙的，那就别浪费时间了。"/>
+		<string name="d1" value="嗯，我不想和你说话！"/>
+	</imgdir>
+</imgdir>

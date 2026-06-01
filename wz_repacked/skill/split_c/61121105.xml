@@ -1,0 +1,5 @@
+<imgdir name="61121105">
+        <string name="name" value="地狱之息" />
+        <string name="desc" value="召唤古代龙喷火，留下火焰路径对上面的敌人造成持续伤害！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Continuous Damage Dealt Afterwards\nCooldown: #cooltime sec" />
+    </imgdir>

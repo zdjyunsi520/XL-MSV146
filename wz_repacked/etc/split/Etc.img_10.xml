@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000181">
+			<string name="name" value="Frozen Shark's Fin"/>
+			<string name="desc" value="A frozen, cooked shark's fin from the Cold Shark."/>
+		</imgdir>
+    <imgdir name="4000182">
+			<string name="name" value="Lime Powder Bottle"/>
+			<string name="desc" value="A bottle of lime powder from the bones of Bone Fish."/>
+		</imgdir>
+    <imgdir name="4000183">
+			<string name="name" value="Ink Bottle"/>
+			<string name="desc" value="A bottle of Squid ink."/>
+		</imgdir>
+    <imgdir name="4000184">
+			<string name="name" value="Butter-Toasted Squid"/>
+			<string name="desc" value="Risell Squid, buttered up and toasted."/>
+		</imgdir>
+    <imgdir name="4000185">
+			<string name="name" value="Ice Backbone"/>
+			<string name="desc" value="A backbone from Ice Drake."/>
+		</imgdir>
+    <imgdir name="4000186">
+			<string name="name" value="Dark Drake's Horn"/>
+			<string name="desc" value="A horn from Dark Drake's head."/>
+		</imgdir>
+    <imgdir name="4000187">
+			<string name="name" value="Chicken Feet"/>
+			<string name="desc" value="A chicken's foot"/>
+		</imgdir>
+    <imgdir name="4000188">
+			<string name="name" value="Duck Egg"/>
+			<string name="desc" value="A round, white egg laid by a duck."/>
+		</imgdir>
+    <imgdir name="4000189">
+			<string name="name" value="Sheep Skin"/>
+			<string name="desc" value="A white fluffy wool from white sheep."/>
+		</imgdir>
+    <imgdir name="4000190">
+			<string name="name" value="White Horn"/>
+			<string name="desc" value="A white horn from a goat."/>
+		</imgdir>
+    <imgdir name="4000191">
+			<string name="name" value="Black Horn"/>
+			<string name="desc" value="A black horn shed from the black goat."/>
+		</imgdir>
+    <imgdir name="4000192">
+			<string name="name" value="Nose Ring"/>
+			<string name="desc" value="A nose ring stuck on the nose of cows."/>
+		</imgdir>
+    <imgdir name="4000193">
+			<string name="name" value="Plow"/>
+			<string name="desc" value="A plow that's on the back of the oxen to plow the field."/>
+		</imgdir>
+    <imgdir name="4000194">
+			<string name="name" value="Black Fur"/>
+			<string name="desc" value="A fluffy black wool from the black sheep."/>
+		</imgdir>
+    <imgdir name="4000195">
+			<string name="name" value="Seedling"/>
+			<string name="desc" value="A branch from Ghost Stump."/>
+		</imgdir>
+    <imgdir name="4000196">
+			<string name="name" value="Wooden Board"/>
+			<string name="desc" value="A wooden board that Wooden Mask wears."/>
+		</imgdir>
+    <imgdir name="4000197">
+			<string name="name" value="Slate"/>
+			<string name="desc" value="A slate that Stone Mask wears."/>
+		</imgdir>
+    <imgdir name="4000198">
+			<string name="name" value="Wild Dog Tail"/>
+			<string name="desc" value="A short and stiff tail of Wild Dog"/>
+		</imgdir>
+    <imgdir name="4000199">
+			<string name="name" value="Wild Dog Shades"/>
+			<string name="desc" value="A pair of cool-looking sunglasses adorned by stylish Wild Dog."/>
+		</imgdir>
+    <imgdir name="4000200">
+			<string name="name" value="Wild Dog Denture"/>
+			<string name="desc" value="A denture worn by the intimidating Wild Dog."/>
+		</imgdir>
+</imgdir>

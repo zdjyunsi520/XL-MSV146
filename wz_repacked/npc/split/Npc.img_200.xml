@@ -1,0 +1,138 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390249">
+		<string name="name" value="Robed Lady"/>
+		<string name="n0" value="I have to collect more..."/>
+		<string name="n1" value="Leave me be, will you?"/>
+		<string name="d0" value="Hmph, those low-lives."/>
+		<string name="d1" value="Hmph, those low-lives."/>
+	</imgdir>
+    <imgdir name="9390250">
+		<string name="name" value="Leon Daniella"/>
+		<string name="n0" value="I will make the Daniella Merchant Union the best and the biggest in Dawnveil."/>
+		<string name="n1" value="I'm ready for love..."/>
+		<string name="d0" value="I am Leon Daniella, head of the Daniella Merchant Union."/>
+		<string name="d1" value="I am Leon Daniella, head of the Daniella Merchant Union."/>
+	</imgdir>
+    <imgdir name="9390251">
+		<string name="name" value="Robed Lady"/>
+		<string name="n0" value="I have to collect more..."/>
+		<string name="n1" value="Leave me be, will you?"/>
+		<string name="d0" value="Hmph, those low-lives."/>
+		<string name="d1" value="Hmph, those low-lives."/>
+	</imgdir>
+    <imgdir name="9390200">
+		<string name="name" value="Parbell"/>
+		<string name="n0" value="Everything is going wrong."/>
+		<string name="n1" value="Where did all my things go? Did they grow feet?"/>
+		<string name="d0" value="Who do you think you are? Go away."/>
+		<string name="d1" value="Who do you think you are? Go away."/>
+	</imgdir>
+    <imgdir name="9390201">
+		<string name="name" value="Mayor Berry"/>
+		<string name="n0" value="Welcome to Berry, the happiest place in Commerci."/>
+		<string name="n1" value="I'm worried about all the Coastal Cats around here."/>
+		<string name="d0" value="Welcome. Our town is a small but happy place."/>
+		<string name="d1" value="Welcome. Our town is a small but happy place."/>
+	</imgdir>
+    <imgdir name="9390202">
+		<string name="name" value="Leon Daniella"/>
+		<string name="n0" value="I will make the Daniella Merchant Union the best and the biggest in Dawnveil."/>
+		<string name="n1" value="I'm ready for love..."/>
+		<string name="d0" value="I am Leon Daniella, head of the Daniella Merchant Union."/>
+		<string name="d1" value="I am Leon Daniella, head of the Daniella Merchant Union."/>
+	</imgdir>
+    <imgdir name="9390203">
+		<string name="name" value="Gilberto Daniella"/>
+		<string name="func" value="Commerci Prime Minister"/>
+		<string name="n0" value="Welcome to Berry, the happiest place in Commerci."/>
+		<string name="n1" value="I'm worried about all the Coastal Cats around here."/>
+		<string name="d0" value="I am Gilberto Daniella, the Prime Minister of Commerci."/>
+		<string name="d1" value="I am Gilberto Daniella, the Prime Minister of Commerci."/>
+	</imgdir>
+    <imgdir name="9390204">
+		<string name="name" value="Robed Lady"/>
+		<string name="n0" value="I have to collect more..."/>
+		<string name="n1" value="Leave me be, will you?"/>
+		<string name="d0" value="Hmph, those low-lives."/>
+		<string name="d1" value="Hmph, those low-lives."/>
+	</imgdir>
+    <imgdir name="9390205">
+		<string name="name" value="Claire Tremier"/>
+		<string name="n0" value="I want to be the best Magician in the world."/>
+		<string name="n1" value="If I get the chance to spread my wings..."/>
+		<string name="d0" value="My name is Claire Tremier."/>
+		<string name="d1" value="My name is Claire Tremier."/>
+	</imgdir>
+    <imgdir name="9390206">
+		<string name="name" value="Vaughn Tremier"/>
+		<string name="n0" value="My merchant union will rule Commerci one day."/>
+		<string name="n1" value="I wonder how my daughter Claire is doing."/>
+		<string name="d0" value="Time is money, and you're not worth a pence."/>
+		<string name="d1" value="Time is money, and you're not worth a pence."/>
+	</imgdir>
+    <imgdir name="9390207">
+		<string name="name" value="Zion"/>
+		<string name="func" value="Heaven Empire Envoy"/>
+		<string name="d0" value="I am Zion, an envoy of peace from the Heaven Empire."/>
+		<string name="d1" value="I am Zion, an envoy of peace from the Heaven Empire."/>
+	</imgdir>
+    <imgdir name="9390208">
+		<string name="name" value="Riverson"/>
+		<string name="d0" value="Destroy humans."/>
+		<string name="d1" value="Destroy humans."/>
+	</imgdir>
+    <imgdir name="9390209">
+		<string name="name" value="Captain Blood"/>
+		<string name="func" value="Dawnveil Pirate King"/>
+		<string name="d0" value="Fear ye, I be Cap'n Blood, the scurvy pirate king o' Dawnveil!"/>
+		<string name="d1" value="Fear ye, I be Cap'n Blood, the scurvy pirate king o' Dawnveil!"/>
+	</imgdir>
+    <imgdir name="9390210">
+		<string name="func" value="Weapon Merchant"/>
+		<string name="name" value="Silbaron"/>
+		<string name="n0" value="You need a good blade and a better boat to traverse these seas."/>
+		<string name="n1" value="The weapons I make are tried and tested."/>
+		<string name="n2" value="I'd like to see Balika's armor stand up to my blades. Ha!"/>
+	</imgdir>
+    <imgdir name="9390211">
+		<string name="func" value="General Store"/>
+		<string name="name" value="Kentucky"/>
+		<string name="n0" value="I have everything you need."/>
+		<string name="n1" value="No need to buy... just look through my stuff all day..."/>
+		<string name="n2" value="You look, you buy, I win. The end!"/>
+	</imgdir>
+    <imgdir name="9390212">
+		<string name="func" value="Armor Seller"/>
+		<string name="name" value="Balika"/>
+		<string name="n0" value="Blind attacks lead to blinded warriors."/>
+		<string name="n1" value="Come spend a little money on keeping yourself alive."/>
+		<string name="n2" value="Silbaron's dull blades don't even scratch my armor."/>
+	</imgdir>
+    <imgdir name="9390213">
+		<string name="name" value="Funky Jack"/>
+		<string name="func" value="Hair Salon"/>
+		<string name="n0" value="It's time to get FUNKY!"/>
+		<string name="n1" value="You need a the kind of hair that will take your look to the next level."/>
+		<string name="n2" value="All you need is a new hairdo and a little swagger."/>
+	</imgdir>
+    <imgdir name="9390214">
+		<string name="name" value="Madame Song"/>
+		<string name="func" value="Plastic Surgery"/>
+		<string name="n0" value="Why don't you let me give you a new lease on life?"/>
+		<string name="n1" value="Set yourself free from your own insecurity and find the new you!"/>
+		<string name="n2" value="Invest in yourself, it's the only thing that matters."/>
+	</imgdir>
+    <imgdir name="9390215">
+		<string name="name" value="Silky Bernard"/>
+		<string name="func" value="Skin Care"/>
+		<string name="n0" value="I will make your skin as white as the snow."/>
+		<string name="n1" value="I will bronze your skin to the shine of copper."/>
+		<string name="n2" value="I will bring your skin to a rosy pink."/>
+	</imgdir>
+    <imgdir name="9390216">
+		<string name="name" value="Zion"/>
+		<string name="func" value="Heaven Empire Envoy"/>
+		<string name="d0" value="......"/>
+		<string name="d1" value="......"/>
+	</imgdir>
+</imgdir>

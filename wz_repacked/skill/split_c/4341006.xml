@@ -1,0 +1,8 @@
+<imgdir name="4341006">
+        <string name="name" value="镜像替身" />
+        <string name="desc" value="永久提升防御力和回避率。同时将你的分身变为诱饵吸引敌人攻击并吸收伤害。只能在分身激活时使用~\n前置技能: #c分身 Lv. 20#\n#c需要技能手册解锁11级#" />
+        <string name="h" value="主动效果: MP消耗: #mpCon，持续时间: #time秒，召唤诱饵HP: #x，召唤诱饵吸收#y%伤害\n[被动效果: #er%几率回避敌人攻击，物理防御力: +#pddR%，魔法防御力: +#mddR%]" />
+        <string name="pdesc" value="永久提升防御力和回避率。同时将你的分身变为诱饵吸引敌人攻击并吸收伤害。只能在分身激活时使用~\n前置技能: #c分身 Lv. 20#\n#c需要技能手册解锁11级#" />
+        <string name="ph" value="主动效果: MP消耗: #mpCon，持续时间: #time秒，召唤诱饵HP: #x，召唤诱饵吸收#y%伤害\n[被动效果: #er%几率回避敌人攻击，物理防御力: +#pddR%，魔法防御力: +#mddR%]" />
+        <string name="hch" value="主动效果: MP消耗: #mpCon，持续时间: #time秒，召唤诱饵HP: #hcSummonHp，召唤诱饵吸收#y%伤害\n[被动效果: #er%几率回避敌人攻击，物理防御力: +#pddR%，魔法防御力: +#mddR%]" />
+    </imgdir>

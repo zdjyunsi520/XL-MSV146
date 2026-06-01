@@ -1,0 +1,7 @@
+<imgdir name="21120002">
+        <string name="name" value="Over Swing" />
+        <string name="desc" value="Maxes out the damage of Double Swing, Triple Swing and Combo Fenrir. \nRequired Skill: #cFull Swing Lv. 10#" />
+        <string name="h" value="Double Swing MP Cost: #v,Damage: #w% x2, Triple Swing MP Cost: #x, Damage: #y% x2\nCombo Fenrir Damage: #z%" />
+        <string name="pdesc" value="Maxes out the damage of Double Swing, Triple Swing and Combo Fenrir. \nRequired Skill: #cFull Swing Lv. 10#" />
+        <string name="ph" value="Double Swing MP Cost: #v,Damage: #w% x2, Triple Swing MP Cost: #x, Damage: #y% x2\nCombo Fenrir Damage: #z%" />
+    </imgdir>

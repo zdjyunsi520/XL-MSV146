@@ -1,0 +1,5 @@
+<imgdir name="3110012">
+        <string name="name" value="集中之怒" />
+        <string name="desc" value="持续攻击集中注意力，提升异常状态抗性。此增益效果生效时抵抗异常状态将触发技能冷却。同时永久提升异常状态抗性和所有属性抗性~" />
+        <string name="h" value="攻击时异常状态抗性定期增加#x%持续#time秒。抵抗异常状态时，冷却时间: #cooltime秒。\n[被动效果: 异常状态抗性和所有属性抗性增加#asrR%]" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="23120010">
+        <string name="name" value="防御突破" />
+        <string name="desc" value="无视敌人防御和属性抗性，提升攻击的最高暴击伤害。对BOSS怪物同样有效。" />
+        <string name="h" value="无视敌人防御: #ignoreMobpdpR%, 无视属性抗性: #x%, 暴击伤害: +#criticaldamageMax%, BOSS攻击力: +#bdR%" />
+        <string name="pdesc" value="无视敌人防御和属性抗性，提升攻击的最高暴击伤害。对BOSS怪物同样有效。" />
+        <string name="ph" value="无视敌人防御: #ignoreMobpdpR%, 无视属性抗性: #x%, 暴击伤害: +#criticaldamageMax%, BOSS攻击力: +#bdR%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860231">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Weapon DEF of party members by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860232">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Weapon DEF of party members while summoned."/>
+	</imgdir>
+    <imgdir name="2860233">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Weapon DEF of party members by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860234">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Magic DEF of party members by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860235">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Magic DEF of party members while summoned."/>
+	</imgdir>
+    <imgdir name="2860236">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Magic DEF of party members by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860237">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP of those nearby continuously by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860238">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP of those nearby continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860239">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP of those nearby continuously by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860240">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the MP of those nearby continuously by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860241">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the MP of those nearby continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860242">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the MP of those nearby continuously by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860243">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP and MP of those nearby continuously by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860244">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP and MP of those nearby continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860245">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers the HP and MP of those nearby continuously by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860246">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Speed of those nearby by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860247">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Speed of those nearby while summoned."/>
+	</imgdir>
+    <imgdir name="2860248">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Speed of those nearby by a large amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860249">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Jump of those nearby by a small amount while summoned."/>
+	</imgdir>
+    <imgdir name="2860250">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases the Jump of those nearby while summoned."/>
+	</imgdir>
+</imgdir>

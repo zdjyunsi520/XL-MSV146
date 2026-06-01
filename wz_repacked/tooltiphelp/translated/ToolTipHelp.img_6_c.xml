@@ -1,0 +1,101 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
+					<string name="Title" value="最小暴击"/>
+					<string name="Desc" value="暴击攻击的最小伤害加成。你可通过使用技能或道具提升这个数值。此数值不影响普通伤害。"/>
+				</imgdir>
+    <imgdir name="3">
+					<vector name="lt" x="107" y="76"/>
+					<vector name="rb" x="165" y="92"/>
+					<string name="Title" value="最大暴击"/>
+					<string name="Desc" value="暴击攻击的最大伤害加成。你可通过使用技能或道具提升这个数值。此数值不影响普通伤害。"/>
+				</imgdir>
+    <imgdir name="4">
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
+					<string name="Title" value="BOSS攻击力"/>
+					<string name="Desc" value="BOSS攻击力越高，对BOSS怪物的伤害越大。此数值不影响普通伤害。它由你的技能和装备道具的总BOSS攻击力决定。"/>
+				</imgdir>
+    <imgdir name="5">
+					<vector name="lt" x="107" y="95"/>
+					<vector name="rb" x="165" y="110"/>
+					<string name="Title" value="无视防御"/>
+					<string name="Desc" value="防御力无视值越高，敌人防御力减少你攻击伤害的程度越低。它由你的技能和装备道具的总防御力无视值决定。"/>
+				</imgdir>
+    <imgdir name="6">
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
+					<string name="Title" value="状态抗性"/>
+					<string name="Desc" value="抵抗异常状态效果的。你越高，受到有害效果影响的可能性越低。你可通过使用技能或道具提升这个数值。\n最高100%"/>
+				</imgdir>
+    <imgdir name="7">
+					<vector name="lt" x="107" y="113"/>
+					<vector name="rb" x="165" y="128"/>
+					<string name="Title" value="强力姿态"/>
+					<string name="Desc" value="被怪物攻击时后退的概率。你可通过使用技能提升这个数值。\n最高100%"/>
+				</imgdir>
+    <imgdir name="8">
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
+					<string name="Title" value="物理防御力"/>
+					<string name="Desc" value="物理防御力越高，受到的物理伤害越少。它由你的属性和装备道具的物理防御相加决定。"/>
+				</imgdir>
+    <imgdir name="9">
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="163"/>
+					<string name="Title" value="魔法防御力"/>
+					<string name="Desc" value="魔法防御力越高，受到的魔法伤害越少。它由你的魔法防御属性和所有装备的防具道具的魔法防御相加决定。"/>
+				</imgdir>
+    <imgdir name="10">
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="181"/>
+					<string name="Title" value="物理命中率"/>
+					<string name="Desc" value="决定物理攻击命中率的属性。数值越高，物理攻击的命中概率越高。由你的属性和装备道具的附加属性相加决定。"/>
+				</imgdir>
+    <imgdir name="11">
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="魔法命中率"/>
+					<string name="Desc" value="决定魔法攻击命中率的属性。数值越高，魔法攻击的命中概率越高。由你的属性和装备道具的附加属性相加决定。"/>
+				</imgdir>
+    <imgdir name="12">
+					<vector name="lt" x="12" y="202"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="物理闪避率"/>
+					<string name="Desc" value="决定躲避物理攻击概率的属性。数值越高，躲避物理攻击的概率越高。由你的属性和装备道具的附加属性相加决定。"/>
+				</imgdir>
+    <imgdir name="13">
+					<vector name="lt" x="11" y="220"/>
+					<vector name="rb" x="69" y="235"/>
+					<string name="Title" value="魔法闪避率"/>
+					<string name="Desc" value="决定躲避魔法攻击概率的属性。数值越高，躲避魔法攻击的概率越高。由你的属性和装备道具的附加属性相加决定。"/>
+				</imgdir>
+    <imgdir name="14">
+					<vector name="lt" x="11" y="238"/>
+					<vector name="rb" x="69" y="254"/>
+					<string name="Title" value="移动速度"/>
+					<string name="Desc" value="你的移动速度最高只能到140%。技能和装备可用来增加或减少速度。骑乘坐骑时速度可提升至190%。"/>
+				</imgdir>
+    <imgdir name="15">
+					<vector name="lt" x="107" y="238"/>
+					<vector name="rb" x="165" y="253"/>
+					<string name="Title" value="跳跃力"/>
+					<string name="Desc" value="你能跳多高。最高只能到123%。技能和装备可用来增加或减少跳跃力。"/>
+				</imgdir>
+    <imgdir name="16">
+					<vector name="lt" x="11" y="293"/>
+					<vector name="rb" x="69" y="308"/>
+					<string name="Title" value="荣誉等级"/>
+					<string name="Desc" value="积累荣誉经验值提升角色荣誉等级。升级时你将获得循环器，最多到31级，届时将通过获得一定量荣誉经验值来获得循环器。"/>
+				</imgdir>
+    <imgdir name="17">
+					<vector name="lt" x="11" y="311"/>
+					<vector name="rb" x="69" y="326"/>
+					<string name="Title" value="荣誉经验值"/>
+					<string name="Desc" value="荣誉经验值达到100%时你将获得新的荣誉等级。阿兹旺之战中的荣誉勋章可获得荣誉经验值。"/>
+				</imgdir>
+    <imgdir name="18">
+					<vector name="lt" x="12" y="339"/>
+					<vector name="rb" x="200" y="363"/>
+</imgdir>

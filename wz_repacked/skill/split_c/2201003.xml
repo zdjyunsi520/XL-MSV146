@@ -1,0 +1,8 @@
+<imgdir name="2201003">
+        <string name="name" value="减速术" />
+        <string name="desc" value="暂时降低最多6个怪物的移动速度。不能对同一怪物连续使用两次以上。\n需要技能：\n#c瞬间移动 Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Speed: -#x, Duration: #time sec" />
+        <string name="pdesc" value="暂时降低最多3个敌人的移动速度。效果不能叠加。\n需要技能：\n#c瞬间移动 Lv. 3#" />
+        <string name="ph" value="MP Cost: #mpCon, Enemy Speed: -#x, Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Enemy Speed: -#x, Duration: #hcTime sec, Cooldown: #hcCooltime sec" />
+    </imgdir>

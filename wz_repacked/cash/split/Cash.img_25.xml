@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5190000">
+		<string name="name" value="Item Pick-up Skill"/>
+		<string name="desc" value="Adds the item pick-up skill to a pet. \n#cAvailable to pets that can only pick up Mesos.#"/>
+	</imgdir>
+    <imgdir name="5190001">
+		<string name="name" value="HP Charge Skill"/>
+		<string name="desc" value="Adds to automatic potion-feeding skill to the pet. \n#cAvailable to all pets that do not have this option.#"/>
+	</imgdir>
+    <imgdir name="5190002">
+		<string name="name" value="Expand Range Skill"/>
+		<string name="desc" value="Use this scroll to expand the pet's moving range by 3 times. \n#cOnly available to pets that have automatic pick-up skills, cannot be used on top of each other.#"/>
+	</imgdir>
+    <imgdir name="5190003">
+		<string name="name" value="Automatic Pick-Up Skill"/>
+		<string name="desc" value="A skill that enables pets to pick up items and mesos within the area without the character having to move. \n#cAvailable to pets with Mesos pick-up, item pick-up skills.#"/>
+	</imgdir>
+    <imgdir name="5190004">
+		<string name="name" value="(+) Pick up Leftover Item &amp; Meso Skills"/>
+		<string name="desc" value="Adds the skill that enables pets to pick up mesos and items that have been dropped for more than 30 seconds, thus rendering it as leftovers.\n#cAvailable to pets that have Meso pick-up skills as well as item pick-up skills.#"/>
+	</imgdir>
+    <imgdir name="5190005">
+		<string name="name" value="Unpickable item skill"/>
+		<string name="desc" value="The skill that makes pet not picking up any selected item. \n#s only pet mounted meso or item collecting function can use the skill.#"/>
+	</imgdir>
+    <imgdir name="5190006">
+		<string name="name" value="MP potion recharge skill"/>
+		<string name="desc" value="The skill that automatically recharges one's MP provided you have set the option up in the system option. \n#c The skill applies to all pet that does not have the skillt#.  "/>
+	</imgdir>
+    <imgdir name="5190010">
+		<string name="name" value="Pet Buff Auto Skill"/>
+		<string name="desc" value="Choose the buff skill you want from the Skill window and drag it to the bottom of the Pet Equip tab. Once it's saved, the pet will use the chosen skill automatically. Cannot be used on certain skills."/>
+	</imgdir>
+    <imgdir name="5190011">
+		<string name="name" value="Pet Training Skill"/>
+		<string name="desc" value="Train your pet to make it smart! Allows your pet better movement across multi-level maps when using the Meso Magnet or Item Pouch. Your pet will also learn Auto Feed, allowing it to automatically eat any regular Pet Food you purchase from the Pet Food Merchant.\n#cCan be used on all pets.#"/>
+	</imgdir>
+    <imgdir name="5190012">
+		<string name="name" value="Fatten Up Skill"/>
+		<string name="desc" value="Your pet will grow when you hunt monsters close to your level. Once it grows large enough, it will cast a mysterious buff every 5 minutes."/>
+	</imgdir>
+    <imgdir name="5191000">
+		<string name="name" value="(-) Delete Item Pick-Up"/>
+		<string name="desc" value="Use this scroll to disable the pet from picking up items."/>
+	</imgdir>
+    <imgdir name="5191001">
+		<string name="name" value="(-) Delete HP Charge"/>
+		<string name="desc" value="Use this scroll to disable the pet from automatically feeding the character when the HP reaches critical stage."/>
+	</imgdir>
+    <imgdir name="5191002">
+		<string name="name" value="(-)Delete Expand Range"/>
+		<string name="desc" value="Use this scroll to return the range of pet's movement back to normal."/>
+	</imgdir>
+    <imgdir name="5191003">
+		<string name="name" value="(-) Delete Automatic Pick-Up"/>
+		<string name="desc" value="Use this scroll to disable the pet from picking up items and mesos."/>
+	</imgdir>
+    <imgdir name="5191004">
+		<string name="name" value="(-) Delete Pick up Leftover Item &amp; Meso"/>
+		<string name="desc" value="Use this scroll to disable pets from picking up leftover items and mesos, the ones that have been dropped for more than 30 seconds."/>
+	</imgdir>
+    <imgdir name="5200000">
+		<string name="name" value="Bronze Sack of Mesos"/>
+		<string name="desc" value="Contains quite a bit of mesos. User must be above level 15 to purchase sacks."/>
+	</imgdir>
+    <imgdir name="5200001">
+		<string name="name" value="Silver Sack of Mesos"/>
+		<string name="desc" value="Contains a lot of mesos. User must be above level 15 to purchase sacks."/>
+	</imgdir>
+    <imgdir name="5200002">
+		<string name="name" value="Gold Sack of Mesos"/>
+		<string name="desc" value="Contains lots and lots of mesos. User must be above level 15 to purchase sacks."/>
+	</imgdir>
+    <imgdir name="5200009">
+		<string name="name" value="1 Million Maple Points Chip"/>
+		<string name="desc" value="Double-click on this item to receive 1 Million Maple Points."/>
+	</imgdir>
+    <imgdir name="5200010">
+		<string name="name" value="10,000 Maple Points Chip"/>
+		<string name="desc" value="Double-click on this item to receive 10,000 Maple Points."/>
+	</imgdir>
+</imgdir>

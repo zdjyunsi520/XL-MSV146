@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5290001">
+		<string name="name" value="公会论坛表情 - 微笑"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290002">
+		<string name="name" value="公会论坛表情 - 沉默"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290003">
+		<string name="name" value="公会论坛表情 - 大笑"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290004">
+		<string name="name" value="公会论坛表情 - 惊讶"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290005">
+		<string name="name" value="公会论坛表情 - 哭泣"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290006">
+		<string name="name" value="公会论坛表情 - 暴怒"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5290007">
+		<string name="name" value="公会论坛表情 - 眼晕"/>
+		<string name="desc" value="可以在公会论坛中输入的表情。"/>
+	</imgdir>
+    <imgdir name="5300000">
+		<string name="name" value="蘑菇变身卷轴"/>
+		<string name="desc" value="终于可以实现你变成蘑菇的梦想了！变身10分钟，给朋友们一个大惊喜吧！"/>
+	</imgdir>
+    <imgdir name="5300001">
+		<string name="name" value="猪猪乐"/>
+		<string name="desc" value="穿上胖胖的猪猪服装，享受10分钟的贪吃乐趣，快乐就是这么简单！"/>
+	</imgdir>
+    <imgdir name="5300002">
+		<string name="name" value="外星噩梦"/>
+		<string name="desc" value="穿上这个服装变成恐怖的太空怪物。吓你的朋友们10分钟，让他们魂飞魄散！"/>
+	</imgdir>
+    <imgdir name="5330000">
+		<string name="name" value="快递券"/>
+		<string name="desc" value="使用此券可以#c立即#发送包裹和留言。#c双击#或访问#c包裹NPC#即可使用。"/>
+	</imgdir>
+    <imgdir name="5360000">
+		<string name="name" value="1天双倍掉落特殊券"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，购买后24小时内双倍掉落效果持续有效。"/>
+	</imgdir>
+    <imgdir name="5360001">
+		<string name="name" value="双倍掉落卡1型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间上午7点至11点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360002">
+		<string name="name" value="双倍掉落卡2型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间上午10点至下午2点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360003">
+		<string name="name" value="双倍掉落卡3型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间下午1点至5点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360004">
+		<string name="name" value="双倍掉落卡4型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间下午4点至8点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360005">
+		<string name="name" value="双倍掉落卡5型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间下午7点至11点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360006">
+		<string name="name" value="双倍掉落卡6型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间凌晨12点至4点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360007">
+		<string name="name" value="双倍掉落卡7型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间凌晨3点至7点的#c每天#有效。"/>
+	</imgdir>
+    <imgdir name="5360008">
+		<string name="name" value="双倍掉落卡8型 - 每天"/>
+		<string name="desc" value="使用此券可#c使金币掉落数量翻倍，道具掉落率翻倍#。双倍掉落卡购买后立即激活，太平洋时间上午6点至10点的#c每天#有效。"/>
+	</imgdir>
+</imgdir>

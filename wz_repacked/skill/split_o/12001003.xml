@@ -1,0 +1,7 @@
+<imgdir name="12001003">
+        <string name="name" value="Magic Claw" />
+        <string name="desc" value="Continuously attacks enemies in front of you while consuming MP." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Continuously attacks enemies in front of you while consuming MP." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

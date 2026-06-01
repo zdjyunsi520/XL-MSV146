@@ -1,0 +1,102 @@
+<imgdir name="Npc.img">
+    <imgdir name="2111000">
+		<string name="name" value="Carson"/>
+		<string name="func" value="Zenumist President"/>
+		<string name="n0" value="True Alchemy is associated with magical power."/>
+		<string name="n1" value="This place is Zenumist, for alchemists seeking pure alchemy."/>
+		<string name="d0" value="Tradition yields great power.  Since the Black Magician Age, only Zenumist have kept developing alchemy."/>
+		<string name="d1" value="Alchemy and alchemist... Both are important. But more important than that is Magatia's tolerance of us. I must protect the honor of Magatia."/>
+	</imgdir>
+    <imgdir name="2111001">
+		<string name="name" value="Maed"/>
+		<string name="func" value="Alcadno President"/>
+		<string name="n0" value="It is foolish to judge them by their looks."/>
+		<string name="n1" value="Pure alchemy has its limits. If you want to exceed your limits, join Alcadno."/>
+		<string name="d0" value="Zenumist... I know what they say. They don't like merging life energy with machines. They're simply afraid! Seeking pure alchemy won't lead to the future."/>
+		<string name="d1" value="Nobody knows what's more important yet. Who knows which of us is right? Who knows how to choose between a correct lie and a foolish truth...?"/>
+	</imgdir>
+    <imgdir name="2111002">
+		<string name="name" value="Dr. De Lang"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="Isn't it wrong...?"/>
+		<string name="d1" value="This experiment might be wrong... But I can't give up. For her and Keeny."/>
+	</imgdir>
+    <imgdir name="2111003">
+		<string name="name" value="Humanoid A"/>
+		<string name="n0" value="I wish to smell a flower at least once..."/>
+		<string name="n1" value="Where are you from? Not from a beaker, are you...?"/>
+		<string name="d0" value="Are my emotions real? Or just an illusion caused by mechanical error?"/>
+		<string name="d1" value="I want to be human... With a warm heart...  Then... I can hold her hands."/>
+	</imgdir>
+    <imgdir name="2111004">
+		<string name="name" value="Phyllia"/>
+		<string name="n0" value="Isn't it so beautiful? Even though it's animated by alchemy."/>
+		<string name="n1" value="It is lucky for use to have Keeny. How bad it would be without Keeny..."/>
+		<string name="d0" value="Even though alchemists and fairies have antipathy for each other, I can remain in this town because the Zenumist president has been protecting us."/>
+		<string name="d1" value="I used to live in Orbis. It was pleasant to walk in cloud park with my brother."/>
+	</imgdir>
+    <imgdir name="2111005">
+		<string name="name" value="Keeny"/>
+		<string name="n0" value="Keeny loves learning Alchemy!"/>
+		<string name="n1" value="*Cough!* Ah... I can't stop coughing..."/>
+		<string name="d0" value="Almost all Magatians are alchemists. Everyone concentrates on alchemy. So... Magatia is always quiet."/>
+		<string name="d1" value="Keeny like Humanoid!  I can feel warmth from  Humanoid A's eyes."/>
+	</imgdir>
+    <imgdir name="2111006">
+		<string name="name" value="Parwen"/>
+		<string name="d0" value="*Gulp* Why are there only Ghosts around here...?"/>
+		<string name="d1" value="Because I've been in the laboratory for a long time, I got to know many people. But they don't know me."/>
+	</imgdir>
+    <imgdir name="2111007">
+		<string name="name" value="Han the Broker"/>
+		<string name="n0" value="Deal secretly and clearly."/>
+		<string name="n1" value="For the right price, I'll get you whatever you want."/>
+		<string name="d0" value="Hm... Don't doubt me just because I'm a back street broker. I deal in trust... And I keep up my credit."/>
+		<string name="d1" value="I've been in Magatia for a while... I know everything that has happened in Magatia except for that case."/>
+	</imgdir>
+    <imgdir name="2111008">
+		<string name="name" value="Bedin"/>
+		<string name="n0" value="The magical formula to make the core is so difficult."/>
+		<string name="n1" value="Why does Alcadno stick to machines like that?"/>
+		<string name="d0" value="Make your position clear! Are you Zenumist or Alcadno?"/>
+		<string name="d1" value="Not everything can be justified. Machines can never be human."/>
+	</imgdir>
+    <imgdir name="2111009">
+		<string name="name" value="Russellon"/>
+		<string name="n0" value="Did you know that elixir's main ingredient is the eye of a Curse Eye?"/>
+		<string name="n1" value="Only the Zenumists are real alchemists, but... They are too conservative and boring."/>
+		<string name="d0" value="Alcadno certainly don't count... Heheheh... Fools cannot see the important things..."/>
+		<string name="d1" value="The Zenumists' studies are respectable... But it is too difficult to be used by everyone... Compared with Zenumist, Alcadno is more useful... Why doesn't Zenumist want to admit this?"/>
+	</imgdir>
+    <imgdir name="2111010">
+		<string name="name" value="Alcadno's Cabinet"/>
+	</imgdir>
+    <imgdir name="2111013">
+		<string name="name" value="Picture Frame"/>
+	</imgdir>
+    <imgdir name="2111016">
+		<string name="name" value="Dr. De Lang's Secret Book"/>
+	</imgdir>
+    <imgdir name="2111017">
+		<string name="name" value="1st Pipe Handle"/>
+	</imgdir>
+    <imgdir name="2111018">
+		<string name="name" value="2nd Pipe Handle"/>
+	</imgdir>
+    <imgdir name="2111019">
+		<string name="name" value="3rd Pipe Handle"/>
+	</imgdir>
+    <imgdir name="2111020">
+		<string name="name" value="1st Magic Pentagram"/>
+	</imgdir>
+    <imgdir name="2111021">
+		<string name="name" value="2nd Magic Pentagram"/>
+	</imgdir>
+    <imgdir name="2111022">
+		<string name="name" value="3rd Magic Pentagram"/>
+	</imgdir>
+    <imgdir name="2111023">
+		<string name="name" value="Center of the Magic Pentagram"/>
+	</imgdir>
+</imgdir>

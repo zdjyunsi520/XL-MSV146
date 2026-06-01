@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290467">
+		<string name="name" value="猎人神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本猎人职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290468">
+		<string name="name" value="机械师神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本机械师职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290469">
+		<string name="name" value="[特殊能手册]高级连击攻击 30"/>
+		<string name="desc" value="100%概率将#c高级连击攻击#的最高等级提升到30级。\n职业：英雄\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290470">
+		<string name="name" value="[特殊能手册]狂暴 30"/>
+		<string name="desc" value="100%概率将#c狂暴#的最高等级提升到30级。\n职业：英雄\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290471">
+		<string name="name" value="[特殊能手册]阿喀琉斯 30"/>
+		<string name="desc" value="100%概率将#c阿喀琉斯#的最高等级提升到30级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290472">
+		<string name="name" value="[特殊能手册]神圣冲击 20"/>
+		<string name="desc" value="100%概率将#c神圣冲击#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290473">
+		<string name="name" value="[特殊能手册]被守护者光环 20"/>
+		<string name="desc" value="100%概率将#c被守护者光环#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290474">
+		<string name="name" value="[特殊能手册]被守护者诅咒 20"/>
+		<string name="desc" value="100%概率将#c被守护者诅咒#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290476">
+		<string name="name" value="[特殊能手册]流星雨 30"/>
+		<string name="desc" value="100%概率将#c流星雨#的最高等级提升到30级。\n职业：魔导师（火、毒）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290477">
+		<string name="name" value="[特殊能手册]暴风雪 30"/>
+		<string name="desc" value="100%概率将#c暴风雪#的最高等级提升到30级。\n职业：魔导师（冰、雷）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290478">
+		<string name="name" value="[特殊能手册]创世纪 30"/>
+		<string name="desc" value="100%概率将#c创世纪#的最高等级提升到30级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290479">
+		<string name="name" value="[特殊能手册]弓专家 30"/>
+		<string name="desc" value="100%概率将#c弓专家#的最高等级提升到30级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290480">
+		<string name="name" value="[特殊能手册]暗影位移 30"/>
+		<string name="desc" value="100%概率将#c暗影位移#的最高等级提升到30级。\n职业：暗影双刀、夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290481">
+		<string name="name" value="[特殊能手册]突然袭击 30"/>
+		<string name="desc" value="100%概率将#c突然袭击#的最高等级提升到30级。\n职业：所有飞侠职业\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290482">
+		<string name="name" value="[特殊能手册]回旋刺 30"/>
+		<string name="desc" value="100%概率将#c回旋刺#的最高等级提升到30级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290483">
+		<string name="name" value="[特殊能手册]暗杀 30"/>
+		<string name="desc" value="100%概率将#c暗杀#的最高等级提升到30级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290484">
+		<string name="name" value="[特殊能手册]烟雾弹 30"/>
+		<string name="desc" value="100%概率将#c烟雾弹#的最高等级提升到30级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290485">
+		<string name="name" value="[特殊能手册]短剑专家 30"/>
+		<string name="desc" value="100%概率将#c短剑专家#的最高等级提升到30级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290486">
+		<string name="name" value="[特殊能手册]暗影本能 20"/>
+		<string name="desc" value="100%概率将#c暗影本能#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290487">
+		<string name="name" value="[特殊能手册]挑衅 20"/>
+		<string name="desc" value="100%概率将#c挑衅#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

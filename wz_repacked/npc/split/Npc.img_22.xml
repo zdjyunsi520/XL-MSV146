@@ -1,0 +1,109 @@
+<imgdir name="Npc.img">
+    <imgdir name="21000">
+		<string name="name" value="Pan"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="I'm ready to make some money!"/>
+		<string name="n1" value="Get your goods here! They are good goods. The goodest!"/>
+		<string name="n2" value="Anyone who steals will not go unpunished!"/>
+	</imgdir>
+    <imgdir name="2100000">
+		<string name="name" value="Ahmad"/>
+		<string name="func" value="Warehouse Keeper"/>
+		<string name="s1" value="There is no place safer than mine."/>
+		<string name="s0" value="Pay your fees, and I will keep your items safe."/>
+	</imgdir>
+    <imgdir name="2101015">
+		<string name="name" value="Abdullah VIII"/>
+		<string name="n0" value="Yes, yes."/>
+		<string name="n1" value="Do what you wish, my queen."/>
+	</imgdir>
+    <imgdir name="2101017">
+		<string name="name" value="Cesar"/>
+		<string name="func" value="Royal Guard Captain"/>
+		<string name="n0" value="Use the Element Rock once the monsters are weakened."/>
+		<string name="n1" value="It's always a good idea to disrupt your competitors."/>
+	</imgdir>
+    <imgdir name="2101018">
+		<string name="name" value="Cesar"/>
+		<string name="func" value="Royal Guard Captain"/>
+		<string name="n0" value="Show me what you got at the Hunting Competition."/>
+		<string name="d0" value="The Ariant Coliseum Challenge!  How about joining this great competition of speed, power, and decision-making skills? Winning this is an ultimate honor for all warriors!"/>
+		<string name="d1" value="The Ariant Coliseum Challenge!  How about joining this great competition of speed, power, and decision-making skills? Winning this is an ultimate honor for all warriors!"/>
+		<string name="n1" value="The Ariant Coliseum Challenge! Is the festival that celebrates the prowess of all Maple warriors."/>
+	</imgdir>
+    <imgdir name="2102">
+		<string name="name" value="Nina"/>
+		<string name="n0" value="What should I make for dinner?"/>
+		<string name="d0" value="I wonder what #b#p2001##k is up to..."/>
+		<string name="d1" value="I will make mushroom soup for #p2001#. Where can I get fresh mushrooms?"/>
+		<string name="s0" value="Like my outfit? Heehee."/>
+	</imgdir>
+    <imgdir name="2102000">
+		<string name="name" value="Asesson"/>
+		<string name="func" value="Crew"/>
+		<string name="n0" value="Passengers going to Orbis! Line up please."/>
+		<string name="n1" value="Double-check to make sure you have your ticket."/>
+	</imgdir>
+    <imgdir name="2102001">
+		<string name="name" value="Slyn"/>
+		<string name="func" value="Crew"/>
+		<string name="n0" value="We are leaving soon. Wait a moment please."/>
+		<string name="n1" value="Please pay attention to safety onboard."/>
+	</imgdir>
+    <imgdir name="2102002">
+		<string name="name" value="Syras"/>
+		<string name="func" value="Ticket Box Desk"/>
+		<string name="t0" value="Is the ticket too expensive? Then don't buy it!"/>
+		<string name="t1" value="Only I sell aircraft tickets."/>
+	</imgdir>
+    <imgdir name="2103">
+		<string name="name" value="Maria"/>
+		<string name="a0" value="Why isn't anyone passing by?!"/>
+		<string name="l0" value="Whoa, is that really the time? I hope I'm not too late..."/>
+		<string name="h0" value="Oh no. What should I do?"/>
+		<string name="d0" value="I ought to deliver this to the #m1010000#. But... Oh, what should I do?"/>
+		<string name="d1" value="Now I can deliver important news to the town. Thanks. Are you using the hat I gave you?"/>
+		<string name="n0" value="Ah! I have to get this letter delivered!"/>
+	</imgdir>
+    <imgdir name="2103000">
+		<string name="name" value="Palace Oasis"/>
+	</imgdir>
+    <imgdir name="2103001">
+		<string name="name" value="Secret Wall"/>
+	</imgdir>
+    <imgdir name="2110000">
+		<string name="name" value="Rosen"/>
+		<string name="func" value="Warehouse keeper"/>
+		<string name="s0" value="You can protect your items and meso by paying a fee."/>
+		<string name="s1" value="If you have anything precious, keep it in here."/>
+	</imgdir>
+    <imgdir name="2110001">
+		<string name="name" value="Jerry"/>
+		<string name="func" value="General Dealer"/>
+		<string name="s0" value="Special potion for sale! Made by the alchemist of Magatia."/>
+		<string name="s1" value="Oh, a potion might be not enough?"/>
+	</imgdir>
+    <imgdir name="2110002">
+		<string name="name" value="Keol"/>
+		<string name="func" value="Item Maker"/>
+		<string name="s0" value="Do you have any minerals you'd like to refine?"/>
+		<string name="d0" value="I can't stand people that do anything halfway."/>
+		<string name="d1" value="You have something to tell me? I want you to know I don't have time to give you any advice."/>
+		<string name="s1" value="Hmm... You've still a long way to go. Don't ever underestimate the amount of work that goes into making items."/>
+	</imgdir>
+    <imgdir name="2110005">
+		<string name="name" value="Camel Cab"/>
+	</imgdir>
+    <imgdir name="2111011">
+		<string name="name" value="Wall"/>
+	</imgdir>
+    <imgdir name="2111012">
+		<string name="name" value="Cabinet"/>
+	</imgdir>
+    <imgdir name="2111014">
+		<string name="name" value="Desk"/>
+	</imgdir>
+    <imgdir name="2111015">
+		<string name="name" value="Russellon's Desk"/>
+	</imgdir>
+</imgdir>

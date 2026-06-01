@@ -1,0 +1,5 @@
+<imgdir name="101110205">
+        <string name="name" value="Time Generator" />
+        <string name="desc" value="Increases Alpha&apos;s Time Force Recovery speed. Also grants a chance to recover Time Force when Alpha attacks an enemy." />
+        <string name="h" value="Permanent Increases to Alpha&apos;s Time Force Recovery Rate: + #x%, #y% Chance of recovering #z Time Force when attacking." />
+    </imgdir>

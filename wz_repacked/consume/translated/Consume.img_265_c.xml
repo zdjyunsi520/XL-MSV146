@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388060">
+		<string name="name" value="克雷克塞尔卡"/>
+		<string name="desc" value="以克雷克塞尔为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388067">
+		<string name="name" value="灰色雪人和King Pepe卡"/>
+		<string name="desc" value="以灰色雪人和King Pepe为主题的卡片。\n#c在蘑菇城内部使用时道具掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388068">
+		<string name="name" value="金色雪人和King Pepe卡"/>
+		<string name="desc" value="以金色雪人和King Pepe为主题的卡片。\n#c在蘑菇城内部使用时道具掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388069">
+		<string name="name" value="白色雪人和King Pepe卡"/>
+		<string name="desc" value="以白色雪人和King Pepe为主题的卡片。\n#c在蘑菇城内部使用时道具掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388070">
+		<string name="name" value="蘑菇大臣卡"/>
+		<string name="desc" value="以蘑菇大臣为主题的卡片。\n#c在蘑菇城内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388075">
+		<string name="name" value="岩石精灵卡"/>
+		<string name="desc" value="以岩石精灵为主题的卡片。\n#c在克里提乌斯广场内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388076">
+		<string name="name" value="贝雅莫卡"/>
+		<string name="desc" value="以贝雅莫为主题的卡片。\n#c在新广州市内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388077">
+		<string name="name" value="杜纳斯卡"/>
+		<string name="desc" value="以杜纳斯为主题的卡片。\n#c在新广州市内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388078">
+		<string name="name" value="Aufheben卡"/>
+		<string name="desc" value="以Aufheben为主题的卡片。\n#c在新广州市内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388079">
+		<string name="name" value="奥伯龙卡"/>
+		<string name="desc" value="以奥伯龙为主题的卡片。\n#c在新广州市内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388080">
+		<string name="name" value="尼伯龙根卡"/>
+		<string name="desc" value="以尼伯龙根为主题的卡片。\n#c在新广州市内部使用时道具/金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388081">
+		<string name="name" value="龙焰卡"/>
+		<string name="desc" value="以龙焰为主题的卡片。\n#c在龙森林内部使用时金币掉率增加"/>
+	</imgdir>
+    <imgdir name="2388082">
+		<string name="name" value="龙骑士卡"/>
+		<string name="desc" value="以龙骑士为主题的卡片。\n#c在龙森林狩猎时武器攻击力+1和魔法攻击力+1"/>
+	</imgdir>
+    <imgdir name="2388083">
+		<string name="name" value="拉瓦纳卡"/>
+		<string name="desc" value="以黄金寺地下室负责人怪物拉瓦纳为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388084">
+		<string name="name" value="Rex召唤袋"/>
+		<string name="desc" value="以Rex为主题的卡片。\n#c在雪原使用时金币掉率增加。#"/>
+	</imgdir>
+    <imgdir name="2388085">
+		<string name="name" value="玛诺卡"/>
+		<string name="desc" value="以玛诺为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388086">
+		<string name="name" value="蘑菇王卡"/>
+		<string name="desc" value="以蘑菇王为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388087">
+		<string name="name" value="影子卡"/>
+		<string name="desc" value="以影子为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388088">
+		<string name="name" value="树桩卡"/>
+		<string name="desc" value="以树桩为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388089">
+		<string name="name" value="僵尸蘑菇王卡"/>
+		<string name="desc" value="以僵尸蘑菇王为主题的卡片。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,135 @@
+<imgdir name="Npc.img">
+    <imgdir name="9901002">
+		<string name="d0" value="你好！经过多次考验和挑战，我终于达到了200级。如果你努力，你也可以达到。祝你好运！"/>
+		<string name="n1" value="你应该和与巴洛格共舞交谈成为战士。"/>
+		<string name="n0" value="我的名字是/name，我已经达到了200级。"/>
+	</imgdir>
+    <imgdir name="9901003">
+		<string name="n1" value="你应该和与巴洛格共舞交谈成为战士。"/>
+		<string name="d0" value="你好！经过多次考验和挑战，我终于达到了200级。如果你努力，你也可以达到。祝你好运！"/>
+		<string name="n0" value="我的名字是/name，我已经达到了200级。"/>
+	</imgdir>
+    <imgdir name="1200001">
+		<string name="name" value="Puno"/>
+		<string name="func" value="武器商人"/>
+		<string name="n0" value="哈哈...你有什么想要的物品吗？我有很多长柄武器。"/>
+		<string name="n1" value="你是在问我能不能看到前面吗？我当然可以！"/>
+	</imgdir>
+    <imgdir name="1200002">
+		<string name="name" value="Puri Puri"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="看起来好的药水味道也很好。"/>
+		<string name="n1" value="我这里有你需要的一切。到处看看，你就会明白我的意思！"/>
+	</imgdir>
+    <imgdir name="1200003">
+		<string name="name" value="Puro"/>
+		<string name="func" value="去维多利亚岛"/>
+		<string name="n0" value="如果你要去维多利亚岛，告诉我。"/>
+		<string name="n1" value="啊...我好累。"/>
+	</imgdir>
+    <imgdir name="1200004">
+		<string name="name" value="Puro"/>
+		<string name="func" value="去里恩"/>
+		<string name="n0" value="如果你要去里恩，那就告诉我。"/>
+		<string name="n1" value="无事可做...啦啦啦。"/>
+	</imgdir>
+    <imgdir name="1200005">
+		<string name="name" value="Puro"/>
+		<string name="func" value="船员"/>
+		<string name="n0" value="我讨厌在冰川附近巡航。"/>
+		<string name="n1" value="船上禁止使用技能！"/>
+		<string name="d0" value="坐下享受旅程吧。我不能让任何人在这里使用技能。你可能会毁掉这艘船。"/>
+		<string name="d1" value="坐下享受旅程吧。我不能让任何人在这里使用技能。你可能会毁掉这艘船。"/>
+	</imgdir>
+    <imgdir name="1200006">
+		<string name="name" value="Puro"/>
+		<string name="func" value="船员"/>
+		<string name="n0" value="里恩应该很快就会进入视野..."/>
+		<string name="n1" value="请确保不要破坏这艘船。"/>
+		<string name="d0" value="如果你胡闹从船上掉下来，你会被送回你开始的地方。你不会想那样的。"/>
+		<string name="d1" value="如果你鲁莽行动从船上掉下来，你会被送回起点。你不会想那样的。"/>
+	</imgdir>
+    <imgdir name="1201000">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="英雄回来了，没什么好担心的了。"/>
+		<string name="n1" value="我永远不会孤单..."/>
+		<string name="d0" value="英雄回来了，没什么好担心的了。"/>
+		<string name="d1" value="英雄回来了，没什么好担心的了。"/>
+	</imgdir>
+    <imgdir name="1201001">
+		<string name="name" value="巨型长柄武器"/>
+		<string name="d0" value="(这是一把巨型长柄武器。很难想象有人能真正举起它。)"/>
+		<string name="d1" value="(这是一把巨型长柄武器。很难想象有人能真正举起它。)"/>
+	</imgdir>
+    <imgdir name="1201002">
+		<string name="name" value="Maha"/>
+		<string name="func" value="长柄武器之灵"/>
+		<string name="d0" value="你是什么样的主人..."/>
+		<string name="d1" value="你是什么样的主人..."/>
+	</imgdir>
+    <imgdir name="1202001">
+		<string name="name" value="Puka"/>
+		<string name="n0" value="幸好我带了药水。"/>
+		<string name="n1" value="Lilin出城了？什么时候的事？"/>
+		<string name="d0" value="里恩几乎没有人类来访。Lilin是岛上唯一的居民。"/>
+		<string name="d1" value="你回来了，这意味着Lilin的愿望正在实现！"/>
+	</imgdir>
+    <imgdir name="1202002">
+		<string name="name" value="Puen"/>
+		<string name="n0" value="啊，多么凉爽的微风。"/>
+		<string name="n1" value="不知道Puir在做什么。"/>
+		<string name="d0" value="对我们来说这是一个美丽的岛屿，但对人类来说是一个可怕的居住地。"/>
+		<string name="d1" value="多亏了你，这个岛终于会有生命的迹象了！"/>
+	</imgdir>
+    <imgdir name="1202003">
+		<string name="name" value="Puir"/>
+		<string name="n0" value="英雄回来了..."/>
+		<string name="n1" value="幸好我带着武器。"/>
+		<string name="d0" value="我一直想见你。"/>
+		<string name="d1" value="希望这把武器能给你一些力量。"/>
+	</imgdir>
+    <imgdir name="1202005">
+		<string name="name" value="Putzki"/>
+		<string name="n0" value="嗯...我该做什么？我有很多东西可以做..."/>
+		<string name="n1" value="企鹅不需要椅子。我们全身都是羽毛般柔软。"/>
+		<string name="d0" value="我想为你做些有用的东西。"/>
+		<string name="d1" value="每当你坐在那把椅子上时，请想起我。"/>
+	</imgdir>
+    <imgdir name="1202006">
+		<string name="name" value="Puo"/>
+		<string name="func" value="教练企鹅"/>
+		<string name="n0" value="暴风雪不是跳过训练的正当理由。"/>
+		<string name="n1" value="你的技能太复杂了，我需要很长时间才能理解它们！"/>
+		<string name="d0" value="哦，你好。我一直在等你！"/>
+		<string name="d1" value="哦，你好。我一直在等你！"/>
+	</imgdir>
+    <imgdir name="1202007">
+		<string name="name" value="Pucci"/>
+		<string name="n0" value="我喜欢孵蛋。很有趣！"/>
+		<string name="n1" value="...嗯？是我错觉吗，还是这里的蛋比以前多了？"/>
+		<string name="d0" value="啊，我该怎么办？我一直在养一个不是蛋的东西！"/>
+		<string name="d1" value="哈...我怎么养这只狼？不，不，我不应该担心这个。"/>
+	</imgdir>
+    <imgdir name="1202008">
+		<string name="name" value="头狼"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="狼只在绝对必要时才说话。"/>
+		<string name="d1" value="狼只在绝对必要时才说话。"/>
+	</imgdir>
+    <imgdir name="1202009">
+		<string name="name" value="狼守卫"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="我的老板告诉我狼从不会随意说话。"/>
+		<string name="d1" value="我的老板告诉我狼从不会随意说话。"/>
+	</imgdir>
+    <imgdir name="1202010">
+		<string name="name" value="Pudin"/>
+		<string name="func" value="宫殿守卫"/>
+		<string name="n0" value="你是真正的英雄吗？"/>
+		<string name="n1" value="英雄大厅是圣地。"/>
+		<string name="d0" value="我一直在等待终极英雄的到来！"/>
+		<string name="d1" value="我一直在等待终极英雄的到来！"/>
+	</imgdir>
+</imgdir>

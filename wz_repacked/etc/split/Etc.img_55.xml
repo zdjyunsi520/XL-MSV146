@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001357">
+			<string name="name" value="Pork"/>
+			<string name="desc" value="Goes great with wine."/>
+		</imgdir>
+    <imgdir name="4001358">
+			<string name="name" value="Long Strong Stick"/>
+			<string name="desc" value="A long stick made of wood."/>
+		</imgdir>
+    <imgdir name="4001359">
+			<string name="name" value="Small Snail Shell"/>
+			<string name="desc" value="A curious shell that amplifies sound and reverberates when you scream."/>
+		</imgdir>
+    <imgdir name="4001360">
+			<string name="name" value="Piece of White Pants"/>
+			<string name="desc" value="A partial sheet of fabric taken from someone's pants."/>
+		</imgdir>
+    <imgdir name="4001361">
+			<string name="name" value="Ink"/>
+			<string name="desc" value="Black ink from an Octopus."/>
+		</imgdir>
+    <imgdir name="4001362">
+			<string name="name" value="Old Worn-out Paper"/>
+			<string name="desc" value="This is the treasure that was so hard to get?! But it does have some strange markings on it."/>
+		</imgdir>
+    <imgdir name="4001363">
+			<string name="name" value="Old Key"/>
+			<string name="desc" value="Is this the key to the Treasure Box? Not sure where this is supposed to be used."/>
+		</imgdir>
+    <imgdir name="4001364">
+			<string name="name" value="Orange Mushroom Sample"/>
+			<string name="desc" value="An extracted portion of the Orange Mushroom."/>
+		</imgdir>
+    <imgdir name="4001365">
+			<string name="name" value="Octopus Sample"/>
+			<string name="desc" value="An extracted portion of the Octopus."/>
+		</imgdir>
+    <imgdir name="4001366">
+			<string name="name" value="Paper with Strange Markings"/>
+			<string name="desc" value="There appears to be strange markings drawn on it."/>
+		</imgdir>
+    <imgdir name="4001367">
+			<string name="name" value="Ripped Paper 1"/>
+			<string name="desc" value="Clue found near the Demon's Doorway where Andras is located."/>
+		</imgdir>
+    <imgdir name="4001368">
+			<string name="name" value="Ripped Paper 2"/>
+			<string name="desc" value="Clue found near the Demon's Doorway where Valefor is located."/>
+		</imgdir>
+    <imgdir name="4001369">
+			<string name="name" value="Ripped Paper 3"/>
+			<string name="desc" value="Clue found near the Demon's Doorway where Amdusias is located."/>
+		</imgdir>
+    <imgdir name="4001370">
+			<string name="name" value="Ripped Paper 4"/>
+			<string name="desc" value="Clue found near the Demon's Doorway where Crocell is located."/>
+		</imgdir>
+    <imgdir name="4001371">
+			<string name="name" value="Ripped Paper 5"/>
+			<string name="desc" value="Clue found near the Demon's Doorway where Marbas is located."/>
+		</imgdir>
+    <imgdir name="4001372">
+			<string name="name" value="Wild Boar Leather"/>
+			<string name="desc" value="Smelly leather from a Wild Boar. It's very pungent."/>
+		</imgdir>
+    <imgdir name="4001373">
+			<string name="name" value="Evil Eye Eyeball"/>
+			<string name="desc" value="Eek, so disgusting...could you really see with that thing?"/>
+		</imgdir>
+    <imgdir name="4001393">
+			<string name="name" value="Time Traveler's Pocket Watch"/>
+			<string name="desc" value="An object that signifies authorized use of the Time Gate in Tera Forest. It looks like an average pocket watch but has something engraved on the back. It reads, 'Time is Golden.'"/>
+		</imgdir>
+    <imgdir name="4001394">
+			<string name="name" value="Time Traveler's Free Pass"/>
+			<string name="desc" value="An object that signifies authorized use of the Time Gate in Tera Forest for a limited time."/>
+		</imgdir>
+    <imgdir name="4001395">
+			<string name="name" value="Stuffed Christmas Stocking"/>
+			<string name="desc" value="Someone's been good this year!"/>
+		</imgdir>
+</imgdir>

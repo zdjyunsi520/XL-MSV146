@@ -1,0 +1,124 @@
+<imgdir name="Npc.img">
+    <imgdir name="2430013">
+		<string name="name" value="犹他"/>
+		<string name="d0" value="魔法密林太安静太无聊了。"/>
+		<string name="d1" value="卡米拉真烦人。她哭个不停！"/>
+		<string name="n0" value="今天要玩什么恶作剧呢？"/>
+		<string name="n1" value="我想吓唬人！"/>
+	</imgdir>
+    <imgdir name="2430014">
+		<string name="name" value="阿拉米亚"/>
+		<string name="n0" value="我的机器人收藏？我有所有系列的所有型号。"/>
+		<string name="n1" value="机器人是最好的。"/>
+	</imgdir>
+    <imgdir name="2430015">
+		<string name="name" value="安娜"/>
+		<string name="d0" value="我听说玛雅病了。"/>
+		<string name="d1" value="她一咬我的煎蛋就会好起来。"/>
+		<string name="n0" value="啊，今天天气真好。"/>
+		<string name="n1" value="不知道他现在在做什么..."/>
+	</imgdir>
+    <imgdir name="2430016">
+		<string name="name" value="奶牛"/>
+		<string name="d0" value="哦，哦！"/>
+		<string name="d1" value="哦，哦！"/>
+	</imgdir>
+    <imgdir name="2430017">
+		<string name="name" value="干草堆"/>
+	</imgdir>
+    <imgdir name="2430018">
+		<string name="name" value="娜塔莉"/>
+		<string name="d0" value="只要能变漂亮，我什么都能做！"/>
+		<string name="d1" value="我真的能变漂亮吗？"/>
+		<string name="n0" value="我想变漂亮。"/>
+		<string name="n1" value="我年轻的时候可漂亮了。我是认真的！"/>
+	</imgdir>
+    <imgdir name="2430019">
+		<string name="name" value="拉雷尔的日记"/>
+		<string name="d0" value="（这是一堆布满灰尘的书。最上面那本一定是日记。）"/>
+		<string name="d1" value="（这是一堆布满灰尘的书。最上面那本一定是日记。）"/>
+	</imgdir>
+    <imgdir name="2430020">
+		<string name="name" value="埃文"/>
+		<string name="d0" value="大人们不让我做任何我想做的事。"/>
+		<string name="d1" value="大人们不让我做任何我想做的事。"/>
+		<string name="n0" value="所有大人都一样。"/>
+		<string name="n1" value="为什么他们要隐瞒一切？"/>
+	</imgdir>
+    <imgdir name="2430021">
+		<string name="name" value="马克"/>
+		<string name="d0" value="我看起来可能在打瞌睡，但那只是因为我的头盔。我从不闭上眼睛梦想一张棉花糖做的床..."/>
+		<string name="d1" value="我看起来可能在打瞌睡，但那只是因为我的头盔。我从不闭上眼睛梦想一张棉花糖做的床..."/>
+	</imgdir>
+    <imgdir name="2430022">
+		<string name="name" value="贝塔"/>
+		<string name="d0" value="（贝蒂噘着嘴站着。很难看出她在想什么。）"/>
+		<string name="d1" value="（贝蒂噘着嘴站着。很难看出她在想什么。）"/>
+	</imgdir>
+    <imgdir name="2430023">
+		<string name="name" value="斯坦酋长"/>
+	</imgdir>
+    <imgdir name="2430024">
+		<string name="name" value="莉娜"/>
+	</imgdir>
+    <imgdir name="2430025">
+		<string name="name" value="珍珠贝"/>
+	</imgdir>
+    <imgdir name="2440000">
+		<string name="name" value="武功"/>
+		<string name="d0" value="我不是天生就是大师。我只是在这里待了很长时间...这都是松功的错。"/>
+		<string name="d1" value="我不是天生就是大师。我只是在这里待了很长时间...这都是松功的错。"/>
+		<string name="n0" value="啊，我什么都不想做。"/>
+		<string name="n1" value="也许我应该睡个午觉..."/>
+	</imgdir>
+    <imgdir name="2440001">
+		<string name="name" value="松功"/>
+		<string name="func" value="向导"/>
+		<string name="d0" value="来吧！加入我们，挑战自我成为伟大的大师！"/>
+		<string name="d1" value="来吧，加入我们，挑战自我成为伟大的大师！"/>
+		<string name="n0" value="你是来成为大师的吗？"/>
+		<string name="n1" value="欢迎来到武陵！"/>
+	</imgdir>
+    <imgdir name="2440002">
+		<string name="name" value="泰洙"/>
+		<string name="d0" value="这里长的桃子好吃极了。我要给武功留一个。"/>
+		<string name="d1" value="武陵长的桃子好吃极了。我想给武功留一个桃子。"/>
+		<string name="n0" value="嗯，嗯！好香的桃子味！"/>
+		<string name="n1" value="桃子味道好极了。"/>
+	</imgdir>
+    <imgdir name="2440003">
+		<string name="name" value="米洛"/>
+		<string name="func" value="骑士"/>
+		<string name="d0" value="（是米洛！暗影骑士！）"/>
+		<string name="d1" value="（是米洛！暗影骑士！）"/>
+		<string name="n0" value="我似乎无法改变他的想法..."/>
+		<string name="n1" value="唉..."/>
+	</imgdir>
+    <imgdir name="2440004">
+		<string name="name" value="杜先生"/>
+		<string name="func" value="药剂师"/>
+		<string name="d0" value="我想我创造了一些了不起的东西。"/>
+		<string name="d1" value="如果没有你，我不可能得到这个结果。谢谢。"/>
+		<string name="n0" value="我是杜，快乐谷的天才药剂师。"/>
+		<string name="n1" value="我的药水可以治愈所有疾病。"/>
+	</imgdir>
+    <imgdir name="2440005">
+		<string name="name" value="李丽舒"/>
+		<string name="d0" value="如果天气再热下去，会影响我父亲的健康。"/>
+		<string name="d1" value="如果我父亲不那么生病，我将是世界上最幸福的人。"/>
+		<string name="n0" value="最近，我父亲看起来比实际年龄老。"/>
+		<string name="n1" value="我希望我父亲能健康地活尽可能长的时间。"/>
+	</imgdir>
+    <imgdir name="2440006">
+		<string name="name" value="达尔苏克"/>
+		<string name="d0" value="如果我能减掉几磅，我会比纳兰漂亮。"/>
+		<string name="d1" value="我已经吃了好几天的橡子了。现在我看到饺子了。"/>
+		<string name="n0" value="我想我长胖了..."/>
+		<string name="n1" value="这些衣服尺寸不对。"/>
+		<imgdir name="bubble">
+			<imgdir name="41157">
+				<imgdir name="2">
+					<string name="0" value="肉饺子，肉饺子，肉饺子..."/>
+					<string name="1" value="泡菜饺子，泡菜饺子，泡菜饺子..."/>
+				</imgdir>
+</imgdir>

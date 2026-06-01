@@ -1,0 +1,5 @@
+<imgdir name="11101120">
+        <string name="name" value="闪烁" />
+        <string name="desc" value="在敌人之间闪烁穿梭同时进行斩击。\n前置技能：#c落月 Lv.1#" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，移动中最大攻击目标数：#mobCount。" />
+    </imgdir>

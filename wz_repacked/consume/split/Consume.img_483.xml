@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431664">
+		<string name="name" value="The Boy Who Cried Box"/>
+		<string name="desc" value="A relic left behind by the legendary liar, the boy who cried wolf. #bDouble-click# to get a random item."/>
+	</imgdir>
+    <imgdir name="2431665">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="A buff for dealing with greedy wolves. The legend says that the buff will increase #cATT and M ATT for 30 minutes#, but this could also be one of his legendary lies."/>
+	</imgdir>
+    <imgdir name="2431666">
+		<string name="name" value="Boy Who Cried Transform Potion"/>
+		<string name="desc" value="A potion developed by the Boy Who Cried Wolf to hide from the wolf. #cDouble-click# to transform into a random monster."/>
+	</imgdir>
+    <imgdir name="2431667">
+		<string name="name" value="The Boy Who Cried Chain Letter"/>
+		<string name="desc" value="A letter detailing the Boy Who Cried Wolf's get-rich-quick scheme. All you have to do is send it to all your friends!"/>
+	</imgdir>
+    <imgdir name="2431668">
+		<string name="name" value="1st Day Gingerbread Box"/>
+		<string name="desc" value="The box smells of freshly baked sweet gingerbread. First-day fresh!"/>
+	</imgdir>
+    <imgdir name="2431669">
+		<string name="name" value="5th Day Gingerbread Box"/>
+		<string name="desc" value="The box smells of sweet gingerbread. Fifth-day fresh!"/>
+	</imgdir>
+    <imgdir name="2431670">
+		<string name="name" value="7th Day Gingerbread Box"/>
+		<string name="desc" value="The box smells of stale gingerbread. Seventh-day fresh!"/>
+	</imgdir>
+    <imgdir name="2431671">
+		<string name="name" value="10th Day Gingerbread Box"/>
+		<string name="desc" value="The box smells of pretty old gingerbread. Seriously, don't eat this."/>
+	</imgdir>
+    <imgdir name="2431674">
+		<string name="name" value="Succubus Android Coupon"/>
+		<string name="desc" value="A rare coupon good for one Succubus Android and one Beaded Heart."/>
+	</imgdir>
+    <imgdir name="2431675">
+		<string name="name" value="Vampiroid Outfit Box"/>
+		<string name="desc" value="Contains an outfit for Vampiroids, including a hat, gloves, and wings."/>
+	</imgdir>
+    <imgdir name="2431676">
+		<string name="name" value="Mapler Box"/>
+		<string name="desc" value="A box that contains special items for Maplers."/>
+	</imgdir>
+    <imgdir name="2431677">
+		<string name="name" value="Special Value Pack"/>
+		<string name="desc" value="This Maple Special Value Pack will give you benefits for 2 weeks!\n\n#c-Benefits-\nEXP Bonus\nLv 1 - 29: 50%\nLv 30 - 200: 20%\n\n2 week World Map Teleport\n2 week Value Pack shop access\nDaily Special Value Pack Gift Boxes#"/>
+	</imgdir>
+    <imgdir name="2431693">
+		<string name="name" value="Developer's Letter"/>
+		<string name="desc" value="A secret letter from the Maple developers to all of Maple World.\n#cExpires on TKTKTK."/>
+	</imgdir>
+    <imgdir name="2431694">
+		<string name="name" value="9th Anniversary Gift Box"/>
+		<string name="desc" value="A special gift box made just for 9th anniversary. #cDouble-Click# to open.\r\n#cExpires on TKTKTK."/>
+	</imgdir>
+    <imgdir name="2431695">
+		<string name="name" value="[1 day] Kin Symbol"/>
+		<string name="desc" value=" Symbol with the Kin Protector's flame seal. Double-click to give #c[1 day] Kin Ring# to someone else."/>
+	</imgdir>
+    <imgdir name="2431696">
+		<string name="name" value="[7 day] Kin Symbol"/>
+		<string name="desc" value=" Symbol with the Kin Protector's flame seal. Double-click to give #c[7 day] Kin Ring# to someone else."/>
+	</imgdir>
+    <imgdir name="2431709">
+		<string name="name" value="Xerxes's Soul Shard"/>
+		<string name="desc" value="A fragment that contains some of Xerxes's Soul. Collect #c10# to trade for a Xerxes's Soul."/>
+	</imgdir>
+    <imgdir name="2431710">
+		<string name="name" value="Zakum's Soul Shard"/>
+		<string name="desc" value="A fragment that contains some of Zakum's Soul. Collect #c10# to trade for a Zakum's Soul."/>
+	</imgdir>
+    <imgdir name="2431711">
+		<string name="name" value="Cygnus's Soul Shard"/>
+		<string name="desc" value="A fragment that contains some of Cygnus's Soul. Collect #c10# to trade for a Cygnus's Soul."/>
+	</imgdir>
+    <imgdir name="2431714">
+		<string name="desc" value="Ninth anniversary fireworks. Use it at the 9th anniversary par-tay!"/>
+		<string name="name" value="Fireworks Pack"/>
+	</imgdir>
+</imgdir>

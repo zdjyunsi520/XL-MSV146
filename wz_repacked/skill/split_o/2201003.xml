@@ -1,0 +1,8 @@
+<imgdir name="2201003">
+        <string name="name" value="Slow" />
+        <string name="desc" value="Temporarily slows the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row.\nRequired Skill: \n#cTeleport: Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Speed: -#x, Duration: #time sec" />
+        <string name="pdesc" value="Temporarily slows the movement of up to 3 enemies. Effect cannot be stacked.\nRequired Skill: \n#cTeleport: Lv. 3#" />
+        <string name="ph" value="MP Cost: #mpCon, Enemy Speed: -#x, Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Enemy Speed: -#x, Duration: #hcTime sec, Cooldown: #hcCooltime sec" />
+    </imgdir>

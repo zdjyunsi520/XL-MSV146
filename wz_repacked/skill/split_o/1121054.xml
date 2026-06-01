@@ -1,0 +1,5 @@
+<imgdir name="1121054">
+        <string name="name" value="Cry Valhalla" />
+        <string name="desc" value="Call upon the power of the ancients to defend you." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: +#indiePad, Increases Elemental and Abnormal Status defense by #x, Cooldown: #cooltime sec" />
+    </imgdir>

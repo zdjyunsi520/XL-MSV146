@@ -1,0 +1,5 @@
+<imgdir name="42120011">
+        <string name="name" value="白狐大成" />
+        <string name="desc" value="提升白狐的人形技能。\n前置技能：#c白狐重生 Lv. 10及以上#" />
+        <string name="h" value="无形之息：白狐赋予#prop%概率抵抗击退并无视#a%敌人防御。\n白狐之赠：白狐治疗你至#u%。\n狐火：白狐召唤#y个狐火，持续#w秒。有#z%概率无效化魔法。反弹#x%伤害。每防御2次攻击消耗1个火焰。\n白狐祝福：白狐施法提升魔法防御力#indieMdd，魔法攻击力为装备扇攻击力的#indieMad%，持续#v秒。" />
+    </imgdir>

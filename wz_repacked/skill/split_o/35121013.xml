@@ -1,0 +1,7 @@
+<imgdir name="35121013">
+        <string name="name" value="Mech: Siege Mode" />
+        <string name="desc" value="Your Mech switches to &lt;Siege&gt; mode to optimize firepower. Only basic attacks can be used during Siege mode. Increase the Critical Hit Rate of all attack. When attacked, you will gain a Stance effect.\n[To Attack: #cAttack key#]" />
+        <string name="h" value="MP Cost: #mpCon, Siege Mode Duration: #time seconds, Damage: #damage%\n#cCooldown: #cooltime sec" />
+        <string name="pdesc" value="Your Mech switches to Siege mode to optimize firepower. Only basic attacks can be used during Siege mode. Increase the Critical Hit Rate of all attacks.\n[To Attack: #cAttack key#]" />
+        <string name="ph" value="MP Cost: #mpCon, Siege Mode Duration: #time seconds, Damage: #damage%\n#cCooldown: #cooltime seconds# sec" />
+    </imgdir>

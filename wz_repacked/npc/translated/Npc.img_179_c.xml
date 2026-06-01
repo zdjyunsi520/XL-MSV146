@@ -1,0 +1,143 @@
+<imgdir name="Npc.img">
+    <imgdir name="2230208">
+		<string name="name" value="布伦德尔"/>
+		<string name="func" value="退出"/>
+	</imgdir>
+    <imgdir name="2230209">
+		<string name="name" value="布伦德尔"/>
+		<string name="func" value="加入"/>
+	</imgdir>
+    <imgdir name="2230210">
+		<string name="name" value="布伦德尔"/>
+		<string name="func" value="撤退"/>
+	</imgdir>
+    <imgdir name="2230211">
+		<string name="name" value="凯尔巴伦"/>
+		<string name="n0" value="克里蒂亚斯金币？兰海姆金币？我都经营。"/>
+		<string name="n1" value="请慢慢看。"/>
+		<string name="d0" value="克里蒂亚斯金币？兰海姆金币？我都经营。"/>
+		<string name="d1" value="请慢慢看。"/>
+	</imgdir>
+    <imgdir name="2230212">
+		<string name="name" value="克尔卡波塔"/>
+		<string name="func" value="次元传送门"/>
+	</imgdir>
+    <imgdir name="2231000">
+		<string name="func" value="指挥官"/>
+		<string name="name" value="艾萨克"/>
+		<string name="n0" value="呼！"/>
+		<string name="n1" value="为了克里蒂亚斯的荣耀！"/>
+		<string name="d0" value="你在这里惹麻烦，就得对我负责。"/>
+		<string name="d1" value="我绝不容忍任何无赖，这是肯定的。"/>
+	</imgdir>
+    <imgdir name="2231001">
+		<string name="func" value="志愿队长"/>
+		<string name="name" value="多斯托夫"/>
+		<string name="n0" value="我们有很多共同点，你和我。即使我们不是入伍士兵，我们也能赢得尊重。"/>
+		<string name="n1" value="火锻造钢铁，但战斗锻造英雄。"/>
+		<string name="d0" value="这里善良的人们需要我。如果我离开了，谁来保护他们？"/>
+		<string name="d1" value="你的武器令人印象深刻。我对武器略知一二。"/>
+	</imgdir>
+    <imgdir name="2231002">
+		<string name="func" value="防御任务"/>
+		<string name="name" value="布伦德尔"/>
+		<string name="n0" value="天啊，我想念我的国王朋友。"/>
+		<string name="n1" value="我是布伦德尔将军，但你可以叫我老布伦迪。"/>
+		<string name="d0" value="我是布伦德尔将军，但你可以叫我老布伦迪。"/>
+		<string name="d1" value="想帮忙对抗入侵者吗？告诉我。"/>
+	</imgdir>
+    <imgdir name="2231003">
+		<string name="func" value="市政厅职员"/>
+		<string name="name" value="希雷尔"/>
+		<string name="n0" value="我出生在这里，也将死在这里。这是理所当然的。"/>
+		<string name="n1" value="城堡怎么会变得如此混乱？"/>
+		<string name="d0" value="我是希雷尔。你是...？"/>
+		<string name="d1" value="图书馆关闭了，除了数秒别无他事。"/>
+	</imgdir>
+    <imgdir name="2231004">
+		<string name="func" value="学院学生"/>
+		<string name="name" value="陈"/>
+		<string name="n0" value="对不起。我不是故意的，真的！"/>
+		<string name="n1" value="我希望一切都能恢复正常。"/>
+		<string name="d0" value="学院是一回事，但他们也得关闭食堂吗？"/>
+		<string name="d1" value="我觉得比安卡喜欢这样。她很可怕！"/>
+	</imgdir>
+    <imgdir name="2231005">
+		<string name="func" value="学院学生"/>
+		<string name="name" value="比安卡"/>
+		<string name="n0" value="敢惹事我就烧了你的鼻子。"/>
+		<string name="n1" value="你想打架？嗯？"/>
+		<string name="d0" value="咒语很好，但一拳打到鼻子也不错。"/>
+		<string name="d1" value="这所学校我说了算，别忘了。"/>
+	</imgdir>
+    <imgdir name="2231006">
+		<string name="func" value="学院教授"/>
+		<string name="name" value="比阿特丽斯"/>
+		<string name="n0" value="什么风把你吹到兰海姆学院来了？"/>
+		<string name="n1" value="图书馆在另行通知前关闭。不能让入侵者洗劫书籍，对吧？"/>
+		<string name="d0" value="当只剩下你一个老师时，管理学院很难。"/>
+		<string name="d1" value="那座城堡令人印象深刻！他们是如何对抗生物计量咒语力量使其漂浮的？"/>
+	</imgdir>
+    <imgdir name="2231007">
+		<string name="func" value="贵妇人"/>
+		<string name="name" value="米里亚姆"/>
+		<string name="n0" value=" sigh..."/>
+		<string name="n1" value="这东西痒死了——呃，我是说，嘻嘻！"/>
+		<string name="d0" value="是-是的，我是你的公主...嗯。"/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2231008">
+		<string name="func" value="首席女仆"/>
+		<string name="name" value="帕尔马"/>
+		<string name="n0" value="公主殿下很累。"/>
+		<string name="n1" value="我太忙了，没时间理你。"/>
+		<string name="d0" value="公主殿下非常、非常累，不能见任何访客。"/>
+		<string name="d1" value="这次入侵对贵族来说是最艰难的。这家客栈甚至不供应鱼子酱龙虾！"/>
+	</imgdir>
+    <imgdir name="2231009">
+		<string name="func" value="蒙面人"/>
+		<string name="name" value="康托尔"/>
+		<string name="n0" value="法拉啦啦啦..."/>
+		<string name="n1" value="嘿嘿！"/>
+		<string name="d0" value="一个笼罩在黑暗中的王国...一座空中城堡...这将成为一首绝妙的歌曲！"/>
+		<string name="d1" value="嘿嘿！"/>
+	</imgdir>
+    <imgdir name="2231010">
+		<string name="func" value="宫廷厨师"/>
+		<string name="name" value="米其林"/>
+		<string name="n0" value="'鸡蛋？''生菜？'这些是什么，真正的食材在哪里？！"/>
+		<string name="n1" value="煎锅是我的乐器，厨房是我的画布！"/>
+		<string name="d0" value="我是王国的——不，是世界上最棒的厨师！"/>
+		<string name="d1" value="那套衣服...你们国家的人都穿得像小丑吗？"/>
+	</imgdir>
+    <imgdir name="2231011">
+		<string name="func" value="可疑人物"/>
+		<string name="name" value="伯恩哈特"/>
+		<string name="n0" value="想借一杯糖吗？不？来点其他普通的东西怎么样？"/>
+		<string name="n1" value="得盯着她...没人。得盯着没人！"/>
+		<string name="d0" value="我在执行任务。呃，散步。我在散步。"/>
+		<string name="d1" value="我只是个普通的家伙。没理由怀疑我，真的。"/>
+	</imgdir>
+    <imgdir name="2231012">
+		<string name="func" value="服务生"/>
+		<string name="name" value="伊恩"/>
+		<string name="n0" value="我唯一比服务更喜欢的就是当男孩。"/>
+		<string name="n1" value="我的名字是伊恩。"/>
+		<string name="d0" value="我是一名服务生。"/>
+		<string name="d1" value="天啊，我真的很喜欢服务。"/>
+	</imgdir>
+    <imgdir name="2231013">
+		<string name="func" value="真正的公主"/>
+		<string name="name" value="艾奥妮"/>
+		<string name="n0" value="我的名字是克里蒂亚斯的艾奥妮。"/>
+		<string name="n1" value="我相信你会保守我的秘密。"/>
+		<string name="d0" value="我的责任是我的人民。"/>
+		<string name="d1" value="父亲...你变成了什么样子？"/>
+	</imgdir>
+    <imgdir name="2231100">
+		<string name="name" value="克利夫"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="跑-跑不掉了！妮塔在看着！"/>
+		<string name="n1" value="好-幸好我储备了物资！"/>
+	</imgdir>
+</imgdir>

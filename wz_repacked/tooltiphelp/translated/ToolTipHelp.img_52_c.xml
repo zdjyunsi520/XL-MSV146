@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+    <imgdir name="106000110">
+			<imgdir name="0">
+				<string name="Title" value="烧毁之地I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地III"/>
+			</imgdir>
+    <imgdir name="106000120">
+			<imgdir name="0">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地IV"/>
+			</imgdir>
+    <imgdir name="106000130">
+			<imgdir name="0">
+				<string name="Title" value="烧毁之地III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地V"/>
+			</imgdir>
+    <imgdir name="106000200">
+			<imgdir name="0">
+				<string name="Title" value="深谷II(往佩里昂方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="通往佩里昂副本的路(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="106000300">
+			<imgdir name="0">
+				<string name="Title" value="深林(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深谷III(往佩里昂方向)"/>
+			</imgdir>
+    <imgdir name="106010000">
+			<imgdir name="0">
+				<string name="Title" value="赫内西"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="赫内西副本入口(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="106010100">
+			<imgdir name="0">
+				<string name="Title" value="通往副本的路(往赫内西方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深林狩猎场II(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="106010101">
+			<imgdir name="0">
+				<string name="Title" value="石巨人神殿入口"/>
+			</imgdir>
+    <imgdir name="106010102">
+			<imgdir name="0">
+				<string name="Title" value="呼吸之石"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="石巨人神殿I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="石巨人神殿II"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="石巨人神殿III"/>
+			</imgdir>
+</imgdir>

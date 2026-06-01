@@ -1,0 +1,8 @@
+<imgdir name="1201007">
+        <string name="name" value="Power Guard" />
+        <string name="desc" value="For a fixed period of time, absorbs some of the damage received, amplifies the damage, and reflects it back at the enemy. Cannot reflect more than half of the enemy&apos;s Max HP at once. \nRequired Skill: #cIntimidate: Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, for #time seconds, #x% of received damage is absorbed and amplifed by #y% before being returned to the enemy." />
+        <string name="pdesc" value="For a fixed period of time, absorbs some of the damage received, amplifies the damage, and reflects it back at the enemy. Cannot reflect more than half of the enemy&apos;s Max HP at once. \nRequired Skill: #cIntimidate: Lv. 3#" />
+        <string name="ph" value="MP Cost: #mpCon, for #time seconds, #x% of received damage is absorbed and amplifed by #y% before being returned to the enemy." />
+        <string name="hch" value="MP Cost: #mpCon, Portion of Damage Absorbed: #x%, Duration: #hcTime sec, Chance to Reflect #hcReflect% Damage: #hcProp%.\nCooldown: #hcCooltime sec" />
+    </imgdir>

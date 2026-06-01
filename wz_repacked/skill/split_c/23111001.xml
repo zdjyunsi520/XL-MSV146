@@ -1,0 +1,7 @@
+<imgdir name="23111001">
+        <string name="name" value="跳跃旋风" />
+        <string name="desc" value="在空中旋转并向四周射出箭雨。此技能只能在空中使用，需要跳跃力达到120以上。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount" />
+        <string name="pdesc" value="在空中旋转并向四周射出箭雨。此技能只能在空中使用，需要跳跃力达到120以上。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount" />
+    </imgdir>

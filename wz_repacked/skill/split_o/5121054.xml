@@ -1,0 +1,5 @@
+<imgdir name="5121054">
+        <string name="name" value="Stimulating Conversation" />
+        <string name="desc" value="Releases the inner power to charge energy faster and increase total damage for a short time. Also increases Boss Attack damage permanently." />
+        <string name="h" value="Upon activation, MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, at certain interval, charge #x energy by itself\nCooldown: #cooltime sec\n[Passive Effect: Boss ATT: +#bdR%]" />
+    </imgdir>

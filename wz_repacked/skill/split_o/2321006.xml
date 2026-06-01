@@ -1,0 +1,5 @@
+<imgdir name="2321006">
+        <string name="name" value="Resurrection" />
+        <string name="desc" value="Resurrects a party member using a ray of holy light." />
+        <string name="h" value="MP Cost: #mpCon. Revives all KO&apos;d party members within range. Cooldown: #cooltime sec" />
+    </imgdir>

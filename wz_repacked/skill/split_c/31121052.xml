@@ -1,0 +1,5 @@
+<imgdir name="31121052">
+        <string name="name" value="地狱犬噬咬" />
+        <string name="desc" value="利用冥界之力伤害敌人并掠夺其灵魂。" />
+        <string name="h" value="消耗HP：#hpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，Boss伤害：+#bdR%，无视怪物防御：#ignoreMobpdpR%。额外恶魔之力吸收：#x。\n冷却时间：#cooltime秒。" />
+    </imgdir>

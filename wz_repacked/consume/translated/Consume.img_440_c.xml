@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046182">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+9\r\n魔法攻击：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046183">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+10\r\n魔法攻击：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046188">
+		<string name="name" value="战国双手武器攻击卷轴"/>
+		<string name="desc" value="提升双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n武器攻击+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046189">
+		<string name="name" value="战国双手武器攻击卷轴"/>
+		<string name="desc" value="提升双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n武器攻击：+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046190">
+		<string name="name" value="战国双手武器攻击卷轴"/>
+		<string name="desc" value="提升双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n武器攻击+2\r\n命中率：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046581">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046582">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046583">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046584">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n力量：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046585">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n力量：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046586">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n力量：+7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046587">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n力量：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046588">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n力量：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046589">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n力量：+11\r\n#"/>
+	</imgdir>
+    <imgdir name="2046590">
+		<string name="name" value="传说防具力量卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n力量：+12\r\n#"/>
+	</imgdir>
+    <imgdir name="2046591">
+		<string name="name" value="传说防具敏捷卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046592">
+		<string name="name" value="传说防具敏捷卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046593">
+		<string name="name" value="传说防具敏捷卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046594">
+		<string name="name" value="传说防具敏捷卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n敏捷：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046595">
+		<string name="name" value="传说防具敏捷卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n敏捷：+6\r\n#"/>
+	</imgdir>
+</imgdir>

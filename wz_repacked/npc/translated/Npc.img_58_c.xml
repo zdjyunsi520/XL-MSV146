@@ -1,0 +1,98 @@
+<imgdir name="Npc.img">
+    <imgdir name="9270063">
+		<string name="name" value="穆图"/>
+		<string name="n0" value="嘿！你在看什么？"/>
+		<string name="n1" value="我戴兔耳朵好看吗？"/>
+	</imgdir>
+    <imgdir name="9270064">
+		<string name="name" value="主题公园老板"/>
+		<string name="n0" value="欢迎来到主题公园！"/>
+		<string name="n1" value="随便玩吧。"/>
+	</imgdir>
+    <imgdir name="9270066">
+		<string name="name" value="MY枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9300000">
+		<string name="name" value="唐三藏"/>
+		<string name="n0" value="对话1"/>
+		<string name="n1" value="对话2"/>
+	</imgdir>
+    <imgdir name="9300001">
+		<string name="name" value="法海"/>
+		<string name="n0" value="对话1"/>
+		<string name="n1" value="对话2"/>
+	</imgdir>
+    <imgdir name="9300002">
+		<string name="name" value="地藏王"/>
+		<string name="n0" value="对话1"/>
+		<string name="n1" value="对话2"/>
+	</imgdir>
+    <imgdir name="9300003">
+		<string name="name" value="月老"/>
+		<string name="n0" value="对话1"/>
+		<string name="n1" value="对话2"/>
+		<string name="func" value="婚礼策划师"/>
+	</imgdir>
+    <imgdir name="9300004">
+		<string name="name" value="吴源"/>
+	</imgdir>
+    <imgdir name="9300005">
+		<string name="name" value="红娘"/>
+	</imgdir>
+    <imgdir name="9300006">
+		<string name="name" value="宴会大师"/>
+	</imgdir>
+    <imgdir name="9300007">
+		<string name="name" value="天兵"/>
+	</imgdir>
+    <imgdir name="9300008">
+		<string name="name" value="天煞孤星"/>
+	</imgdir>
+    <imgdir name="9300009">
+		<string name="name" value="弥勒"/>
+	</imgdir>
+    <imgdir name="9310000">
+		<string name="name" value="洪飞行员"/>
+		<string name="n0" value="天空...我生命的道路..."/>
+		<string name="n1" value="想成为飞行员吗？"/>
+	</imgdir>
+    <imgdir name="9310001">
+		<string name="name" value="李夫人"/>
+		<string name="n0" value="如果你没有足够的钱在这里买武器，那就走开！"/>
+		<string name="n1" value="这本来就很便宜。别想和我讨价还价！"/>
+		<string name="func" value="武器商"/>
+	</imgdir>
+    <imgdir name="9310004">
+		<string name="name" value="林警官"/>
+		<string name="n0" value="先生，先生！你不能那样扔垃圾，否则我要罚你款！"/>
+		<string name="n1" value="法律是用来遵守的。"/>
+		<string name="d0" value="你好？我是林警官。"/>
+		<string name="d1" value="有什么我能帮你的吗？"/>
+	</imgdir>
+    <imgdir name="9310005">
+		<string name="name" value="钟警官"/>
+		<string name="n0" value="这里面禁止入内。请转身离开。"/>
+		<string name="n1" value="我正在值班。请不要考验我。"/>
+		<string name="d0" value="（敬礼）我必须在这里拦住你。我是钟警官，负责这片区域的安全。"/>
+		<string name="d1" value="请离开。如果你不配合，我将不得不强制让你离开这里。"/>
+	</imgdir>
+    <imgdir name="9310006">
+		<string name="name" value="许警官"/>
+		<string name="n0" value="如果你需要任何帮助，随时联系我们！"/>
+		<string name="n1" value="我们在这里为你服务！"/>
+		<string name="d0" value="你好？我是许警官。"/>
+		<string name="d1" value="我能帮你什么？"/>
+	</imgdir>
+    <imgdir name="9310014">
+		<string name="name" value="TMS"/>
+		<string name="func" value="整形外科医生"/>
+		<string name="n1" value="对话2"/>
+		<string name="n0" value="对话1"/>
+	</imgdir>
+    <imgdir name="9310015">
+		<string name="name" value="TMS"/>
+		<string name="func" value="医师助理"/>
+		<string name="n1" value="对话2"/>
+		<string name="n0" value="对话1"/>
+	</imgdir>
+</imgdir>

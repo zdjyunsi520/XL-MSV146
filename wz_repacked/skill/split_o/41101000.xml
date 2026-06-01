@@ -1,0 +1,5 @@
+<imgdir name="41101000">
+        <string name="name" value="Jin Sanrenzan" />
+        <string name="desc" value="A more challenging triple slash hits up to 5 enemies. Press the skill key to strike continuously." />
+        <string name="h" value="MP Cost: #mpCon\n1st Hit - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: 2\n2nd Hit - Damage: #x%, Max Enemies Hit: 5, Number of Attacks: 2\n3rd Hit - Damage: #y%, Max Enemies Hit: 5" />
+    </imgdir>

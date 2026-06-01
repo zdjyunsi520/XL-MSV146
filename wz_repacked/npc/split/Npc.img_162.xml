@@ -1,0 +1,103 @@
+<imgdir name="Npc.img">
+    <imgdir name="9130012">
+		<string name="name" value="Takeda Supplier"/>
+		<string name="d0" value="....."/>
+		<string name="d1" value="......"/>
+		<string name="n0" value="Honorable heroes of the Takeda Clan, claim your rewards!"/>
+	</imgdir>
+    <imgdir name="9130013">
+		<string name="name" value="Uesugi Supplier"/>
+		<string name="d0" value="......."/>
+		<string name="d1" value="........"/>
+		<string name="n0" value="I've got items for friends of the Uesugi Clan!"/>
+	</imgdir>
+    <imgdir name="9130014">
+		<string name="name" value="Oda Ninja Recon Log"/>
+	</imgdir>
+    <imgdir name="9130015">
+		<string name="name" value="Taro"/>
+	</imgdir>
+    <imgdir name="9130016">
+		<string name="name" value="Ringo"/>
+	</imgdir>
+    <imgdir name="9130017">
+		<string name="name" value="Saburo"/>
+	</imgdir>
+    <imgdir name="9130018">
+		<string name="name" value="Phantom Haku"/>
+	</imgdir>
+    <imgdir name="9130019">
+		<string name="name" value="Hayato"/>
+	</imgdir>
+    <imgdir name="9130020">
+		<string name="name" value="Kanna"/>
+	</imgdir>
+    <imgdir name="9130021">
+		<string name="name" value="Princess Sakuno"/>
+		<string name="d0" value="Yes? You have something to tell me?"/>
+		<string name="d1" value="Come, have a seat. Refreshments would be nice."/>
+		<string name="n0" value="Yes? You have something to tell me?"/>
+		<string name="n1" value="Come, have a seat. Refreshments would be nice."/>
+	</imgdir>
+    <imgdir name="9130022">
+		<string name="name" value="Naoe Kanetsugu"/>
+		<string name="d0" value="Love! Love makes the world go 'round!"/>
+		<string name="d1" value="Kenshin!"/>
+		<string name="n0" value="Love! Love makes the world go 'round!"/>
+		<string name="n1" value="Kenshin!"/>
+	</imgdir>
+    <imgdir name="9130023">
+		<string name="name" value="Sanada Yukimura"/>
+		<string name="d0" value="Oda's got a million soldiers, and not a single MAN."/>
+		<string name="d1" value="I am the spear that pierces the darkness!"/>
+		<string name="n0" value="Oda's got a million soldiers, and not a single MAN."/>
+		<string name="n1" value="I am the spear that pierces the darkness!"/>
+	</imgdir>
+    <imgdir name="9130024">
+		<string name="name" value="Yamanaka Yukimori"/>
+		<string name="d0" value="Give me courage."/>
+		<string name="d1" value="It will take time to rebuild."/>
+		<string name="n0" value="Give me courage."/>
+		<string name="n1" value="It will take time to rebuild."/>
+	</imgdir>
+    <imgdir name="9130025">
+		<string name="name" value="Hashiba Hideyoshi"/>
+		<string name="d0" value="Nobunaga is a brave man. But diplomatic? Not quite."/>
+		<string name="d1" value="A wise general wins without fighting."/>
+		<string name="n0" value="Nobunaga is a brave man. But diplomatic? Not quite."/>
+		<string name="n1" value="A wise general wins without fighting."/>
+	</imgdir>
+    <imgdir name="9130026">
+		<string name="name" value="Tokugawa Ieyasu"/>
+		<string name="d0" value="Patience. Patience is where victory is found!"/>
+		<string name="d1" value="No one man can claim the whole world."/>
+		<string name="n0" value="Patience. Patience is where victory is found!"/>
+		<string name="n1" value="No one man can claim the whole world."/>
+	</imgdir>
+    <imgdir name="9130027">
+		<string name="name" value="Honda Tadakatsu"/>
+		<string name="d0" value="Loyalty beats at the heart of every samurai."/>
+		<string name="d1" value="By my honor..."/>
+		<string name="n0" value="Loyalty beats at the heart of every samurai."/>
+		<string name="n1" value="By my honor..."/>
+	</imgdir>
+    <imgdir name="9130028">
+		<string name="name" value="Mouri Takamoto"/>
+		<string name="func" value="Storage Keeper"/>
+	</imgdir>
+    <imgdir name="9130029">
+		<string name="name" value="Kikkawa Motoharu"/>
+		<string name="func" value="Equipment Merchant"/>
+	</imgdir>
+    <imgdir name="9130030">
+		<string name="name" value="Kobayakawa Takakage"/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="9130031">
+		<string name="name" value="Yamanaka Yukimori"/>
+		<string name="d0" value="Give me courage."/>
+		<string name="d1" value="It will take time to rebuild."/>
+		<string name="n0" value="Give me courage."/>
+		<string name="n1" value="It will take time to rebuild."/>
+	</imgdir>
+</imgdir>

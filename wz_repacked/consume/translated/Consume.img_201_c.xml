@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290407">
+		<string name="name" value="[特殊能手册]烈焰 30"/>
+		<string name="desc" value="100%概率将#c烈焰#的最高等级提升到30级。\n职业：埃文（10转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290408">
+		<string name="name" value="[特殊能手册]黑暗迷雾 30"/>
+		<string name="desc" value="100%概率将#c黑暗迷雾#的最高等级提升到30级。\n职业：埃文（10转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290409">
+		<string name="name" value="[特殊能手册]灵魂之石 20"/>
+		<string name="desc" value="100%概率将#c灵魂之石#的最高等级提升到20级。\n职业：埃文（10转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290410">
+		<string name="name" value="[特殊能手册]玛瑙祝福 25"/>
+		<string name="desc" value="100%概率将#c玛瑙祝福#的最高等级提升到25级。\n职业：埃文（10转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290411">
+		<string name="name" value="[能手册]高级终极攻击 30"/>
+		<string name="desc" value="50%概率将#c高级终极攻击#的最高等级提升到30级。\n职业：猎人（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290412">
+		<string name="name" value="[能手册]飞镖专家 20"/>
+		<string name="desc" value="70%概率将#c飞镖专家#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290413">
+		<string name="name" value="[能手册]飞镖专家 30"/>
+		<string name="desc" value="50%概率将#c飞镖专家#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290414">
+		<string name="name" value="[能手册]突然袭击 20"/>
+		<string name="desc" value="70%概率将#c突然袭击#的最高等级提升到20级。\n职业：夜行者、暗影双刀、队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290415">
+		<string name="name" value="[能手册]突然袭击 30"/>
+		<string name="desc" value="50%概率将#c突然袭击#的最高等级提升到30级。\n职业：夜行者、暗影双刀、队长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290416">
+		<string name="name" value="[能手册]四连星 20"/>
+		<string name="desc" value="70%概率将#c四连投#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290417">
+		<string name="name" value="[能手册]四连星 30"/>
+		<string name="desc" value="50%概率将#c四连投#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290418">
+		<string name="name" value="[能手册]黑暗和谐 20"/>
+		<string name="desc" value="70%概率将#c黑暗宁静#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290419">
+		<string name="name" value="[能手册]黑暗和谐 30"/>
+		<string name="desc" value="50%概率将#c黑暗宁静#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290420">
+		<string name="name" value="[能手册]虚弱诅咒 20"/>
+		<string name="desc" value="70%概率将#c虚弱诅咒#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290421">
+		<string name="name" value="[能手册]虚弱诅咒 30"/>
+		<string name="desc" value="50%概率将#c虚弱诅咒#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290422">
+		<string name="name" value="[能手册]突然袭击 20"/>
+		<string name="desc" value="70%概率将#c突然袭击#的最高等级提升到20级。\n职业：夜行者、暗影双刀、队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290423">
+		<string name="name" value="[能手册]突然袭击 30"/>
+		<string name="desc" value="50%概率将#c突然袭击#的最高等级提升到30级。\n职业：夜行者、暗影双刀、队长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290424">
+		<string name="name" value="[能手册]短剑专家 20"/>
+		<string name="desc" value="70%概率将#c短剑专家#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290425">
+		<string name="name" value="[能手册]短剑专家 30"/>
+		<string name="desc" value="50%概率将#c短剑专家#的最高等级提升到30级。\n职业：暗影双刀\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290426">
+		<string name="name" value="[能手册]暗影本能 20"/>
+		<string name="desc" value="70%概率将#c暗影本能#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

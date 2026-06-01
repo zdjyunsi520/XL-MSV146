@@ -1,0 +1,103 @@
+<imgdir name="Npc.img">
+    <imgdir name="1052004">
+		<string name="name" value="Denma the Owner"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n0" value="Do you want to have plastic surgery? Let me take care of you, then..."/>
+		<string name="n1" value="It's not a bad idea to change your face up every once in a while."/>
+	</imgdir>
+    <imgdir name="1052005">
+		<string name="name" value="Dr. Feeble"/>
+		<string name="func" value="Doctor w/o License"/>
+		<string name="n0" value="I've been wearing these for so long, I can barely see what's in front of me now..."/>
+		<string name="n1" value="Ah... Want some plastic surgery? *Cough cough.*"/>
+		<string name="n2" value="Plastic surgery...? Allow me... Haha... By the way, where is your face...?"/>
+	</imgdir>
+    <imgdir name="1052006">
+		<string name="name" value="Jake"/>
+		<string name="func" value="Subway Worker"/>
+		<string name="n0" value="Do you want in? Then please purchase a ticket here."/>
+		<string name="n1" value="No one is allowed in without a ticket."/>
+		<string name="d0" value="Monster who like darkness often find their ways into the Subway, so be careful!"/>
+		<string name="d1" value="Monster who like darkness often find their ways into the Subway, so be careful!"/>
+	</imgdir>
+    <imgdir name="1052007">
+		<string name="name" value="The Ticket Gate"/>
+	</imgdir>
+    <imgdir name="1052008">
+		<string name="name" value="Treasure Chest"/>
+	</imgdir>
+    <imgdir name="1052009">
+		<string name="name" value="Treasure Chest"/>
+	</imgdir>
+    <imgdir name="1052010">
+		<string name="name" value="Treasure Chest"/>
+	</imgdir>
+    <imgdir name="1052011">
+		<string name="name" value="Exit"/>
+	</imgdir>
+    <imgdir name="1052012">
+		<string name="name" value="Mong from Kong"/>
+		<string name="func" value="Internet Cafe Worker"/>
+		<string name="n0" value="Hey... Are you logging in from an internet cafe? Come on in..."/>
+		<string name="n1" value="There's an Internet Cafe here, but not everyone can go in..."/>
+	</imgdir>
+    <imgdir name="1052013">
+		<string name="name" value="Computer"/>
+	</imgdir>
+    <imgdir name="1052014">
+		<string name="name" value="Vending Machine"/>
+	</imgdir>
+    <imgdir name="1052015">
+		<string name="name" value="Billy"/>
+		<string name="func" value="Internet Cafe Owner"/>
+		<string name="n0" value="Is the game not working? Ahhh... Try restarting the computer."/>
+		<string name="n1" value="Do you keep seeing a blue screen? Ahhh... Try restarting the computer."/>
+	</imgdir>
+    <imgdir name="1052016">
+		<string name="name" value="Regular Cab"/>
+	</imgdir>
+    <imgdir name="1052017">
+		<string name="name" value="Mr. Hong"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? Here it is!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+    <imgdir name="1052100">
+		<string name="name" value="Don Giovanni"/>
+		<string name="func" value="Hair Salon Owner"/>
+		<string name="n1" value="Hahahah! Welcome to my hair salon! Have a seat!"/>
+		<string name="d0" value="Don't you feel super powerful when you have POWERFUL-looking hair?"/>
+		<string name="d1" value="Don't you feel super powerful when you have POWERFUL-looking hair?"/>
+		<string name="n0" value="Hey, you! You seem to be having a bad-hair day... How about letting me take care of it?"/>
+	</imgdir>
+    <imgdir name="1052101">
+		<string name="name" value="Andre"/>
+		<string name="func" value="Hair Salon Assistant"/>
+		<string name="n0" value="Oh no no no no no! YOU need a haircut!"/>
+		<string name="n1" value="I may not be as good as the Don, but I'm close enough!"/>
+	</imgdir>
+    <imgdir name="1052102">
+		<string name="name" value="Shumi"/>
+		<string name="n0" value="Oh no... Where could it be...?"/>
+		<string name="n1" value="Crap! I lost my money!"/>
+		<string name="n2" value="I hope someone can help me out..."/>
+		<string name="d0" value="Oh my gosh... I lost the coin that my friend lent me... I can't find it!"/>
+		<string name="d1" value="You helped me out before! I can't thank you enough for getting me out of trouble. I mean, you helped me out three times! I've been much more careful these days. Is that an improvement or what?"/>
+	</imgdir>
+    <imgdir name="1052104">
+		<string name="name" value="Tulcus"/>
+		<string name="func" value="Scroll Seller"/>
+		<string name="n0" value="If you need any scrolls, come talk to me."/>
+		<string name="n1" value="It's a piece of cake for me to make scrolls, you know."/>
+	</imgdir>
+    <imgdir name="1052105">
+		<string name="name" value="Jane Doe"/>
+		<string name="s0" value="I need to get these bandages off, but where's Dr. Naora?"/>
+		<string name="s1" value="Something's not right. Hey you... You know anything?"/>
+		<string name="d0" value="It's... So... Cold"/>
+		<string name="d1" value="Well... Where should I go now...? What do I do?"/>
+	</imgdir>
+    <imgdir name="1052107">
+		<string name="name" value="Small Street Light"/>
+	</imgdir>
+</imgdir>

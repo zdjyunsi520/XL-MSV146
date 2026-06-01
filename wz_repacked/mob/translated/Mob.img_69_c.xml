@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400312">
+		<string name="name" value="Toe(简单)"/>
+	</imgdir>
+    <imgdir name="9400313">
+		<string name="name" value="Tic(普通)"/>
+	</imgdir>
+    <imgdir name="9400314">
+		<string name="name" value="Tac(普通)"/>
+	</imgdir>
+    <imgdir name="9400315">
+		<string name="name" value="Toe(普通)"/>
+	</imgdir>
+    <imgdir name="9400316">
+		<string name="name" value="Tic(困难)"/>
+	</imgdir>
+    <imgdir name="9400317">
+		<string name="name" value="Tac(困难)"/>
+	</imgdir>
+    <imgdir name="9400318">
+		<string name="name" value="Toe(困难)"/>
+	</imgdir>
+    <imgdir name="9400319">
+		<string name="name" value="十字(简单)"/>
+	</imgdir>
+    <imgdir name="9400320">
+		<string name="name" value="十字(普通)"/>
+	</imgdir>
+    <imgdir name="9400321">
+		<string name="name" value="十字(困难)"/>
+	</imgdir>
+    <imgdir name="9400322">
+		<string name="name" value="巨型雪人(1级)-简单"/>
+	</imgdir>
+    <imgdir name="9400323">
+		<string name="name" value="巨型雪人(2级)-简单"/>
+	</imgdir>
+    <imgdir name="9400324">
+		<string name="name" value="巨型雪人(3级)-简单"/>
+	</imgdir>
+    <imgdir name="9400325">
+		<string name="name" value="巨型雪人(4级)-简单"/>
+	</imgdir>
+    <imgdir name="9400326">
+		<string name="name" value="巨型雪人(5级)-简单"/>
+	</imgdir>
+    <imgdir name="9400327">
+		<string name="name" value="巨型雪人(1级)-普通"/>
+	</imgdir>
+    <imgdir name="9400328">
+		<string name="name" value="巨型雪人(2级)-普通"/>
+	</imgdir>
+    <imgdir name="9400329">
+		<string name="name" value="巨型雪人(3级)-普通"/>
+	</imgdir>
+    <imgdir name="9400330">
+		<string name="name" value="巨型雪人(4级)-普通"/>
+	</imgdir>
+    <imgdir name="9400331">
+		<string name="name" value="巨型雪人(5级)-普通"/>
+	</imgdir>
+</imgdir>

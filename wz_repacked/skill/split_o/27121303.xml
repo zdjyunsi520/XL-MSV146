@@ -1,0 +1,5 @@
+<imgdir name="27121303">
+        <string name="name" value="Ender" />
+        <string name="desc" value="[Equilibrium]\nAttacks enemies with a giant blade that instantly eliminates them. Deals great damage to monsters that do not fall instantly." />
+        <string name="h" value="MP Cost: #mpCon, Max Instant KOs: #mobCount. For enemies that cannot be Instant KO&apos;d, Damage: #damage%, Number of Attacks: #attackCount. Every attack will be critical.\n[Cooldown: #cooltime sec]" />
+    </imgdir>

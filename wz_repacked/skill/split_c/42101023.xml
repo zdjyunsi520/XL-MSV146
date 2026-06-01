@@ -1,0 +1,5 @@
+<imgdir name="42101023">
+        <string name="name" value="无形之息" />
+        <string name="desc" value="只有狐灵才知道的秘传之力。可以无效化敌人的击退攻击，并无视部分敌人防御。" />
+        <string name="h" value="持续时间：#time，无视敌人防御：#x%，击退抵抗几率：#prop%" />
+    </imgdir>

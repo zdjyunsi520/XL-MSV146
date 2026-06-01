@@ -1,0 +1,68 @@
+<imgdir name="Map.img">
+    <imgdir name="SG">
+			<imgdir name="552000071">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="大师锻造所"/>
+			</imgdir>
+			<imgdir name="552000072">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="绿色矿石洞穴"/>
+			</imgdir>
+			<imgdir name="552000073">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="高炉"/>
+			</imgdir>
+			<imgdir name="552000010">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="太空站公顷区1"/>
+			</imgdir>
+			<imgdir name="552000020">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="太空站公顷区2"/>
+			</imgdir>
+			<imgdir name="552000021">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="钥匙守护者之屋"/>
+			</imgdir>
+			<imgdir name="552000022">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="太空站公顷区2"/>
+			</imgdir>
+			<imgdir name="552000030">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="残破飞空艇1"/>
+			</imgdir>
+			<imgdir name="552000040">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="残破飞空艇2"/>
+			</imgdir>
+			<imgdir name="552000050">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="鹦鹉螺号船舱"/>
+			</imgdir>
+			<imgdir name="552000060">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="场景切换1"/>
+			</imgdir>
+			<imgdir name="552000061">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="场景切换2"/>
+			</imgdir>
+			<imgdir name="552000062">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="场景切换3"/>
+			</imgdir>
+			<imgdir name="552000070">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="黑色结界洞穴"/>
+			</imgdir>
+			<imgdir name="552000074">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="黑色结界洞穴"/>
+			</imgdir>
+			<imgdir name="555000000">
+				<string name="streetName" value="幸福村"/>
+				<string name="mapName" value="白色圣诞山丘"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

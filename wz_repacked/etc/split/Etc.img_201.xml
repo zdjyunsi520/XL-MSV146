@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4251101">
+			<string name="name" value="Intermediate DEX Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nDEX+3"/>
+		</imgdir>
+    <imgdir name="4251102">
+			<string name="name" value="Advanced DEX Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nDEX+5"/>
+		</imgdir>
+    <imgdir name="4251200">
+			<string name="name" value="Basic Secret Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nRequired Level -1"/>
+		</imgdir>
+    <imgdir name="4251201">
+			<string name="name" value="Intermediate Secret Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nRequired Level -2"/>
+		</imgdir>
+    <imgdir name="4251202">
+			<string name="name" value="Advanced Secret Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nRequired Level -3"/>
+		</imgdir>
+    <imgdir name="4251300">
+			<string name="name" value="Basic Black Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4251301">
+			<string name="name" value="Intermediate Black Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4251302">
+			<string name="name" value="Advanced Black Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4251400">
+			<string name="name" value="Basic Dark Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4251401">
+			<string name="name" value="Intermediate Dark Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4251402">
+			<string name="name" value="Advanced Dark Crystal"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nThere's no way to tell how the item will turn out with this."/>
+		</imgdir>
+    <imgdir name="4260000">
+			<string name="name" value="Basic Monster Crystal 1"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 31 ~ 50."/>
+		</imgdir>
+    <imgdir name="4260001">
+			<string name="name" value="Basic Monster Crystal 2"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 51 ~ 60."/>
+		</imgdir>
+    <imgdir name="4260002">
+			<string name="name" value="Basic Monster Crystal 3"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 61 ~ 70."/>
+		</imgdir>
+    <imgdir name="4260003">
+			<string name="name" value="Intermediate Monster Crystal 1"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 71 ~ 80."/>
+		</imgdir>
+    <imgdir name="4260004">
+			<string name="name" value="Intermediate Monster Crystal 2"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 81 ~ 90."/>
+		</imgdir>
+    <imgdir name="4260005">
+			<string name="name" value="Intermediate Monster Crystal 3"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 91 ~ 100."/>
+		</imgdir>
+    <imgdir name="4260006">
+			<string name="name" value="Advanced Monster Crystal 1"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 101 ~ 110."/>
+		</imgdir>
+    <imgdir name="4260007">
+			<string name="name" value="Advanced Monster Crystal 2"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 111 ~ 120."/>
+		</imgdir>
+    <imgdir name="4260008">
+			<string name="name" value="Advanced Monster Crystal 3"/>
+			<string name="desc" value="A Monster Crystal that was formed by combining the droppings of monsters on level 121 ~ 130."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,81 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032367">
+			<string name="name" value="Dim Aran Memory"/>
+			<string name="desc" value="A dim memory of the Aran."/>
+		</imgdir>
+    <imgdir name="4032368">
+			<string name="name" value="Faint Aran Memory"/>
+			<string name="desc" value="A faint memory of the Aran."/>
+		</imgdir>
+    <imgdir name="4032369">
+			<string name="name" value="Cloudy Aran Memory"/>
+			<string name="desc" value="A cloudy memory of the Aran."/>
+		</imgdir>
+    <imgdir name="4032370">
+			<string name="name" value="Lingering Aran Memory"/>
+			<string name="desc" value="A lingering memory of the Aran."/>
+		</imgdir>
+    <imgdir name="4032371">
+			<string name="name" value="Flickering Aran Memory"/>
+			<string name="desc" value="A flickering memory of the Aran."/>
+		</imgdir>
+    <imgdir name="4032372">
+			<string name="name" value="Giant Polearm Image"/>
+		</imgdir>
+    <imgdir name="4032373">
+			<string name="name" value="Tutorial Muru's Furball"/>
+			<string name="desc" value="A white, cold furball from Tutorial Muru."/>
+		</imgdir>
+    <imgdir name="4032374">
+			<string name="name" value="Letter of Commendation - Warrior Adventurer"/>
+			<string name="desc" value="The letter of commendation Power B. Fore lost."/>
+		</imgdir>
+    <imgdir name="4032375">
+			<string name="name" value="Recommendation Letter - Job Instructor"/>
+			<string name="desc" value="A recommendation letter from the job instructor. Take this and show it to the Head Security Officer at the Mushking Empire."/>
+		</imgdir>
+    <imgdir name="4032376">
+			<string name="name" value="Letter of Commendation - Magician Adventurer"/>
+			<string name="desc" value="The letter of commendation Power B. Fore lost."/>
+		</imgdir>
+    <imgdir name="4032377">
+			<string name="name" value="Letter of Commendation - Bowman Adventurer"/>
+			<string name="desc" value="The letter of commendation Power B. Fore lost."/>
+		</imgdir>
+    <imgdir name="4032378">
+			<string name="name" value="Letter of Commendation - Thief Adventurer"/>
+			<string name="desc" value="The letter of commendation Power B. Fore lost."/>
+		</imgdir>
+    <imgdir name="4032379">
+			<string name="name" value="Letter of Commendation - Pirate Adventurer"/>
+			<string name="desc" value="The letter of commendation Power B. Fore lost."/>
+		</imgdir>
+    <imgdir name="4032386">
+			<string name="name" value="King Pepe's Crown"/>
+			<string name="desc" value="A crown that King Pepe sported."/>
+		</imgdir>
+    <imgdir name="4032387">
+			<string name="name" value="Prime Minister Emblem"/>
+			<string name="desc" value="An emblem worn by the Prime Minister of the Mushking Empire."/>
+		</imgdir>
+    <imgdir name="4032388">
+			<string name="name" value="Wedding Hall Key"/>
+			<string name="desc" value="The key that opens the wedding hall, where Princess Violetta will be married."/>
+		</imgdir>
+    <imgdir name="4032389">
+			<string name="name" value="Killer Mushroom Spore Sample"/>
+			<string name="desc" value="A completed sample of Killer Mushroom Spores."/>
+		</imgdir>
+    <imgdir name="4032390">
+			<string name="name" value="Tainted Horny Mushroom Cap"/>
+			<string name="desc" value="A tainted Horny Mushroom cap that was discovered by The Rememberer."/>
+		</imgdir>
+    <imgdir name="4032399">
+			<string name="name" value="Recording Charm"/>
+			<string name="desc" value="A charm that stores the final scream of Zombie Mushroom before its death."/>
+		</imgdir>
+    <imgdir name="4032400">
+			<string name="name" value="Recommendation Letter - The Rememberer"/>
+			<string name="desc" value="Hand this letter to Karacas at Nihal Desert."/>
+		</imgdir>
+</imgdir>

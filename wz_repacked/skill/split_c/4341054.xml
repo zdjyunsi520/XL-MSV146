@@ -1,0 +1,5 @@
+<imgdir name="4341054">
+        <string name="name" value="影分身" />
+        <string name="desc" value="召唤隐秘之剑，使每次攻击都造成额外伤害。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，额外攻击概率：#prop%，额外攻击伤害：#damage%，总伤害提升：10%。\n冷却时间：#cooltime秒" />
+    </imgdir>

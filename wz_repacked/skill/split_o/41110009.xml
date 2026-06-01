@@ -1,0 +1,5 @@
+<imgdir name="41110009">
+        <string name="name" value="Warrior&apos;s Heart" />
+        <string name="desc" value="This Battoujutsu technique was once believed to be lost. After dealing a critical hit, get a chance to recover some HP." />
+        <string name="h" value="Chance: #prop%, HP Recovered: #x%" />
+    </imgdir>

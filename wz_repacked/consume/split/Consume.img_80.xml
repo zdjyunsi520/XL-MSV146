@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040321">
+		<string name="name" value="Scroll for Earring for LUK 60%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040322">
+		<string name="name" value="Scroll for Earring for LUK 30%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040323">
+		<string name="name" value="Scroll for Earring for LUK 10%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040324">
+		<string name="name" value="Scroll for Earring for HP 100%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040325">
+		<string name="name" value="Scroll for Earring for HP 70%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nMax HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040326">
+		<string name="name" value="Scroll for Earring for HP 60%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040327">
+		<string name="name" value="Scroll for Earring for HP 30%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMax HP +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040328">
+		<string name="name" value="Scroll for Earring for HP 10%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040329">
+		<string name="name" value="Scroll for Earring for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040330">
+		<string name="name" value="Scroll for Earring for INT 10%"/>
+		<string name="desc" value="Improves Intelligence on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nINT: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040331">
+		<string name="name" value="Scroll for Earring for LUK 10%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040333">
+		<string name="name" value="Scroll for Earring for INT 50%"/>
+		<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:50%, magic attack +5, INT+3, magic def. +2"/>
+	</imgdir>
+    <imgdir name="2040334">
+		<string name="name" value="Scroll for Earring for INT 100%"/>
+		<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:100%, magic attack +2, INT+2"/>
+	</imgdir>
+    <imgdir name="2040335">
+		<string name="name" value="Scroll for Earring for DEX 65%"/>
+		<string name="desc" value="Improves Dexterity on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040336">
+		<string name="name" value="Scroll for Earring for DEX 15%"/>
+		<string name="desc" value="Improves Dexterity on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040337">
+		<string name="name" value="Scroll for Earring for LUK 65%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040338">
+		<string name="name" value="Scroll for Earring for LUK 15%"/>
+		<string name="desc" value="Improves Luck on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040339">
+		<string name="name" value="Scroll for Earring for HP 65%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040340">
+		<string name="name" value="Scroll for Earring for HP 15%"/>
+		<string name="desc" value="Improves Max HP on earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040343">
+		<string name="name" value="Scroll for Black Dragon Earrings for STR 70%"/>
+		<string name="desc" value="Improves Strength on Black Dragon Earrings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to be destroyed on failure: 70%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+</imgdir>

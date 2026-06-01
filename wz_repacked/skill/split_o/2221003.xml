@@ -1,0 +1,8 @@
+<imgdir name="2221003">
+        <string name="name" value="Glacier Chain" />
+        <string name="desc" value="Shoots a frigid chain forward, pulling enemies to front of you and inflicting fatal damage. Glacial Chain ignores some of the monster&apos;s DEF, freezes target, and applies damage over time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Shoots a frigid chain forward, pulling enemies to front of you and inflicting fatal damage. Glacier Chain freezes target, and applies damage over time for a set period." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+    </imgdir>

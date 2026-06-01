@@ -1,0 +1,5 @@
+<imgdir name="20030099">
+        <string name="name" value="Ice Smash" />
+        <string name="pdesc" value="Transform your axe into a giant sword to freeze multiple enemies. Usable when Ice Gauge is charged to #c20 or higher#.\n[Command: #cUp arrow and Up arrow kes + Attack Key#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Chance: #prob%, Freeze Duration: #time sec" />
+    </imgdir>

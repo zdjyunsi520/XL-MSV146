@@ -1,0 +1,7 @@
+<imgdir name="5711000">
+        <string name="name" value="Solar Array" />
+        <string name="desc" value="Fires a scatter shot that damages multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Damage: #damage%" />
+        <string name="pdesc" value="Fires a scatter shot that damages multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Damage: #damage%" />
+    </imgdir>

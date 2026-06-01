@@ -1,0 +1,5 @@
+<imgdir name="27111101">
+        <string name="name" value="Ray of Redemption" />
+        <string name="desc" value="[Light Magic]\nHeal your party members and deal damage to enemies with the power of light." />
+        <string name="h" value="MP Cost: #mpCon, #mobCount enemies within the range: #damage% damage, Recovery #hp%" />
+    </imgdir>

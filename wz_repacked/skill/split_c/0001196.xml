@@ -1,0 +1,7 @@
+<imgdir name="0001196">
+        <string name="name" value="米哈尔之魂" />
+        <string name="desc" value="召唤一只精灵，自动对你身边的敌人发动范围攻击。每15级技能等级提升1级。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+        <string name="pdesc" value="召唤精灵攻击附近的敌人。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+    </imgdir>

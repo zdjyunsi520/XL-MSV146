@@ -1,0 +1,8 @@
+<imgdir name="1211010">
+        <string name="name" value="HP Recovery" />
+        <string name="desc" value="Instantly restores your health. Higher skill levels will restore more health. #cRestores less health when used repeatedly#." />
+        <string name="pdesc" value="Instantly restores your health. Higher skill levels will restore more health. #cRestores less health when used repeatedly#." />
+        <string name="h" value="MP Cost: #mpCon, Restores #x% of Max HP, When #cused consecutively within #time sec, recovery amount -#y%#" />
+        <string name="ph" value="MP Cost: #mpCon, Restores #x% of Max HP, When #cused consecutively within #time sec, recovery amount -#y%#" />
+        <string name="hch" value="MP Cost: #mpCon, Restores #x% of Max HP, When #cused consecutively within #time sec, recovery amount -#y%#" />
+    </imgdir>

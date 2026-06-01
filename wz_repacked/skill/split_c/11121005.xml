@@ -1,0 +1,5 @@
+<imgdir name="11121005">
+        <string name="name" value="日月轮转" />
+        <string name="desc" value="重新调整日月循环之力。\n前置技能：#c落月Lv. 20与升日Lv. 20#" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒。期间每次使用技能时，姿态会切换并同时发动落月和升日效果。" />
+    </imgdir>

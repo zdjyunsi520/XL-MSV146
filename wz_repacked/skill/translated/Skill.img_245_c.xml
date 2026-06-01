@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="0001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="10001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="20001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="20011224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="30001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="20021224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="30011224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="20031224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="20041224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="32001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="33001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="35001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="36001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="50001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="60001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="60011224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="100001224"><string name="name" value="女神守护"/><string name="desc" value="佩戴戒指时，胜利女神将出现守护你"/></imgdir>
+    <imgdir name="80011024"><string name="name" value="直升机"/><string name="desc" value="[大师等级: 1]\n可以乘坐坐骑移动。\n如果拥有#c翱翔#技能，按上方向键和跳跃键可上升。\n激活时消耗5MP。\n最大飞行时间: #0秒#"/><string name="h1" value="MP消耗: 10, 物理和魔法防御力: +10, 移动速度: 170%, 跳跃力: 120%"/></imgdir>
+    <imgdir name="71000821"><string name="name" value="灵之旋律"/><string name="desc" value="无视部分怪物防御。"/><string name="h" value="无视怪物防御: +#ignoreMobpdpR%"/></imgdir>
+    <imgdir name="80010006"><string name="name" value="集中之灵"/><string name="desc" value="嵌入神秘动物灵力。"/><string name="h" value="BOSS伤害: +#bdR%。\n暴击率: +#cr%。\n最大HP +#mhpR%。\n最大MP: +#mmpR%。"/></imgdir>
+</imgdir>

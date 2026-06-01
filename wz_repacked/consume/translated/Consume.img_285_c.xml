@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430480">
+		<string name="name" value="橙色蘑菇30日券"/>
+		<string name="desc" value="30天橙色蘑菇坐骑券。#c双击使用橙色蘑菇骑乘技能30天。#"/>
+	</imgdir>
+    <imgdir name="2430481">
+		<string name="name" value="超级奇迹立方体碎片"/>
+		<string name="desc" value="从超级奇迹立方体上掉落的碎片。如果你双击使用它，你将能够用它换取有用的道具。"/>
+	</imgdir>
+    <imgdir name="2430482">
+		<string name="name" value="传奇枫叶武器盒子"/>
+		<string name="desc" value="打开后可以获得传奇枫叶武器的盒子。使用期限至2012/03/03。\n#c双击打开盒子。#"/>
+	</imgdir>
+    <imgdir name="2430483">
+		<string name="name" value="金猪的梦之盒子"/>
+		<string name="desc" value="金梦猪掉落的盒子。可能含有你一直梦想的东西！\n#c双击#看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430484">
+		<string name="name" value="传奇枫树"/>
+		<string name="desc" value="蕴含传奇枫树能量的物品。"/>
+	</imgdir>
+    <imgdir name="2430487">
+		<string name="name" value="传奇米米尔之井水"/>
+		<string name="desc" value="适用于所有职业的特殊米米尔之井水。你只能在2012/03/03之前的活动期间饮用。引用此水后，50级及以下获得10%经验值，50-99级获得5%经验值，100-149级获得2%经验值，150级或以上获得1%经验值。"/>
+	</imgdir>
+    <imgdir name="2430488">
+		<string name="name" value="记忆盒子"/>
+		<string name="desc" value="装有激动人心的传奇记忆和一份礼物的盒子。你可以打开这个盒子直到2012/03/07午夜。"/>
+	</imgdir>
+    <imgdir name="2430489">
+		<string name="name" value="传奇金枫果"/>
+		<string name="desc" value="从传奇枫叶硬币树种植和收获获得的果实。你只能在2012/03/03之前使用。双击看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430490">
+		<string name="name" value=""/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2430491">
+		<string name="name" value="经验礼物盒子"/>
+		<string name="desc" value="双击激活150%经验加成4小时。"/>
+	</imgdir>
+    <imgdir name="2430492">
+		<string name="name" value="怪物弹珠"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2430495">
+		<string name="name" value="月饼礼物盒子"/>
+		<string name="desc" value="击败月饼兔后获得的月饼礼物盒子。你只能在月饼节期间打开这个盒子。\n#c双击#看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430496">
+		<string name="name" value="易变传奇伙伴印章"/>
+		<string name="desc" value="收集20个印章可以兑换一张易变传奇伙伴票，这是一张可以召唤传奇伙伴之一的魔法票。"/>
+	</imgdir>
+    <imgdir name="2430497">
+		<string name="name" value="可爱新手礼包1"/>
+		<string name="desc" value="送给新用户的礼物套装。很可爱！"/>
+	</imgdir>
+    <imgdir name="2430498">
+		<string name="name" value="华丽冒险家礼包"/>
+		<string name="desc" value="送给使用新建角色达到50级的华丽冒险家的礼物套装。"/>
+	</imgdir>
+    <imgdir name="2430499">
+		<string name="name" value="彩虹盒子"/>
+		<string name="desc" value="装有礼物的明亮多彩盒子。#c双击#看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430500">
+		<string name="name" value="彩虹财富月饼兔"/>
+		<string name="desc" value="成长后的财富月饼兔。#c双击#财富月饼兔完成任务。"/>
+	</imgdir>
+    <imgdir name="2430501">
+		<string name="name" value="进化腰带升级道具"/>
+		<string name="desc" value="双击此道具升级你的进化腰带。"/>
+	</imgdir>
+    <imgdir name="2430502">
+		<string name="name" value="进化腰带特殊升级道具"/>
+		<string name="desc" value="双击此道具解锁进化腰带的隐藏潜能。"/>
+	</imgdir>
+    <imgdir name="2430503">
+		<string name="name" value="牛仔新手礼包2"/>
+		<string name="desc" value="送给新用户的礼物套装。很可爱！"/>
+	</imgdir>
+</imgdir>

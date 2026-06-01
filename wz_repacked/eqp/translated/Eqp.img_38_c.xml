@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1122099"><string name="name" value="紫色狼吊坠"/></imgdir>
+    <imgdir name="1122100"><string name="name" value="绿色孔雀吊坠"/></imgdir>
+    <imgdir name="1122101"><string name="name" value="红色孔雀吊坠"/></imgdir>
+    <imgdir name="1122102"><string name="name" value="粉色孔雀吊坠"/></imgdir>
+    <imgdir name="1122103"><string name="name" value="紫色孔雀吊坠"/></imgdir>
+    <imgdir name="1122104"><string name="name" value="旭日吊坠"/></imgdir>
+    <imgdir name="1122105"><string name="name" value="拉尔森的挑战者吊坠"/></imgdir>
+    <imgdir name="1122107"><string name="name" value="拉尔森的活动挑战者吊坠"/></imgdir>
+    <imgdir name="1122108"><string name="name" value="精神吊坠"/><string name="desc" value="装备后增加获得的经验。效果随时间增加。\n#c1小时: 额外5%经验\n2小时: 额外10%经验\n2小时以上: 额外15%经验#"/></imgdir>
+    <imgdir name="1122109"><string name="name" value="葡萄吊坠"/></imgdir>
+    <imgdir name="1122110"><string name="name" value="超级枫叶吊坠"/></imgdir>
+    <imgdir name="1122114"><string name="name" value="十字军的狂热项链"/></imgdir>
+    <imgdir name="1122115"><string name="name" value="枫叶团团结吊坠"/></imgdir>
+    <imgdir name="1122116"><string name="name" value="罗密欧的吊坠"/></imgdir>
+    <imgdir name="1122117"><string name="name" value="朱丽叶的吊坠"/></imgdir>
+    <imgdir name="1122118"><string name="name" value="永恒之爱的象征"/></imgdir>
+    <imgdir name="1122119"><string name="name" value="西瓜项链"/></imgdir>
+    <imgdir name="1122121"><string name="name" value="光环吊坠"/><string name="desc" value="佩戴此吊坠行走时，光环宝石的力量被触发，#c每项属性+3#"/></imgdir>
+    <imgdir name="1122148"><string name="name" value="无畏吊坠"/></imgdir>
+    <imgdir name="1122149"><string name="name" value="烈日吊坠"/></imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="112101000">
+        <string name="name" value="豹之爪" />
+        <string name="desc" value="攻击远处敌人并将其拉向你。多次攻击会推动你和敌人前进。\r\n[指令]: 2次攻击后与#c豹之突袭#连招\r\n[追加指令]: 与#c豹之咆哮#连招" />
+        <string name="h" value="第1、2次攻击 - 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount" />
+    </imgdir>

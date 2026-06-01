@@ -1,0 +1,5 @@
+<imgdir name="2221052">
+        <string name="name" value="闪电球" />
+        <string name="desc" value="制造一个不稳定的大电球持续电击敌人。" />
+        <string name="h" value="按住技能键。消耗MP：#mpCon，攻击敌人数：#mobCount，每次伤害：#damage%，最长持续：8秒，根据持续时间最终伤害：#x%。\n冷却时间：#cooltime秒" />
+    </imgdir>

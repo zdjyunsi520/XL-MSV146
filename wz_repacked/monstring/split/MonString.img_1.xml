@@ -1,0 +1,62 @@
+<imgdir name="MonString.img">
+    <imgdir name="001">
+		<string name="name" value="Mushrooms"/>
+	</imgdir>
+    <imgdir name="002">
+		<string name="name" value="Pigs"/>
+	</imgdir>
+    <imgdir name="003">
+		<string name="name" value="Yeti and Pepe"/>
+	</imgdir>
+    <imgdir name="004">
+		<string name="name" value="Oddities"/>
+	</imgdir>
+    <imgdir name="005">
+		<string name="name" value="Slime and Snail"/>
+	</imgdir>
+    <imgdir name="006">
+		<string name="name" value="Plants"/>
+	</imgdir>
+    <imgdir name="007">
+		<string name="name" value="Golems"/>
+	</imgdir>
+    <imgdir name="008">
+		<string name="name" value="Dragons"/>
+	</imgdir>
+    <imgdir name="009">
+		<string name="name" value="Cats &amp; Catlike"/>
+	</imgdir>
+    <imgdir name="010">
+		<string name="name" value="Canids, Raccoons, &amp; Ferrets"/>
+	</imgdir>
+    <imgdir name="011">
+		<string name="name" value="Birds"/>
+	</imgdir>
+    <imgdir name="012">
+		<string name="name" value="Bovines"/>
+	</imgdir>
+    <imgdir name="013">
+		<string name="name" value="Reptiles"/>
+	</imgdir>
+    <imgdir name="014">
+		<string name="name" value="Monkey and Bear"/>
+	</imgdir>
+    <imgdir name="015">
+		<string name="name" value="Fairies &amp; Sprites"/>
+	</imgdir>
+    <imgdir name="016">
+		<string name="name" value="Devilish"/>
+	</imgdir>
+    <imgdir name="017">
+		<string name="name" value="Soldiers &amp; Sailors"/>
+	</imgdir>
+    <imgdir name="018">
+		<string name="name" value="Toy"/>
+	</imgdir>
+    <imgdir name="019">
+		<string name="name" value="Aliens &amp; Humanoids"/>
+	</imgdir>
+    <imgdir name="020">
+		<string name="name" value="Undead"/>
+	</imgdir>
+</imgdir>

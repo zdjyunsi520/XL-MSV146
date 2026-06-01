@@ -1,0 +1,127 @@
+<imgdir name="Npc.img">
+    <imgdir name="9100204">
+		<string name="name" value="Pachinko 5"/>
+	</imgdir>
+    <imgdir name="9100205">
+		<string name="name" value="Pachinko 6"/>
+	</imgdir>
+    <imgdir name="9101000">
+		<string name="name" value="No String"/>
+	</imgdir>
+    <imgdir name="9101001">
+		<string name="name" value="Peter"/>
+		<string name="n0" value="You need determination to succeed on your journey!"/>
+		<string name="n1" value="Excellent work getting this far!"/>
+		<string name="n2" value="Take the portal to my right to continue."/>
+		<string name="f0" value="Never give up!"/>
+		<string name="f1" value="Once you take that portal, you'll encounter real monsters."/>
+		<string name="w0" value="Ready for adventure?"/>
+		<string name="w1" value="It's up to you to train yourself. Good luck!"/>
+		<string name="h0" value="Hey, how's it going?"/>
+		<string name="d0" value="You need determination to succeed on your journey!"/>
+		<string name="d1" value="Excellent work getting this far!"/>
+	</imgdir>
+    <imgdir name="9101002">
+		<string name="name" value="Todd"/>
+		<string name="d1" value="So... did you see Robin?"/>
+		<string name="n0" value="Watch out for the monsters!"/>
+		<string name="n3" value="If monsters ever start to overwhelm you, try forming a party with other players."/>
+		<string name="f0" value="Timing is important when you attack!"/>
+		<string name="f1" value="You started in Mushroom Town. Amherst and Southperry are still ahead of you."/>
+		<string name="f2" value="Go on, head east!"/>
+		<string name="w0" value="You might meet Robin soon..."/>
+		<string name="w1" value="Good luck!"/>
+		<string name="h0" value="Heh..."/>
+		<string name="d0" value="If you don't know where to go, I can help!"/>
+		<string name="n1" value="Press 'Ctrl' to attack."/>
+		<string name="n2" value="Press 'Z' to pick up items."/>
+	</imgdir>
+    <imgdir name="9101003">
+		<string name="name" value="Peter"/>
+		<string name="n0" value="You need determination to succeed on your journey!"/>
+		<string name="n1" value="Excellent work getting this far!"/>
+		<string name="n2" value="Take the portal to my right to continue."/>
+		<string name="f0" value="Never give up!"/>
+		<string name="f1" value="Once you take that portal, you'll encounter real monsters."/>
+		<string name="w0" value="Ready for adventure?"/>
+		<string name="w1" value="It's up to you to train yourself. Good luck!"/>
+		<string name="w2" value="Yup, we're related! Roger's my older brother. Robin's my younger brother. We like to be near each other, okay?"/>
+		<string name="h0" value="Hey, how's it going?"/>
+		<string name="h1" value="Yes, yes, Roger is indeed my older brother. He looks older, doesn't he?"/>
+		<string name="d0" value="You need determination to succeed on your journey!"/>
+		<string name="d1" value="Excellent work getting this far!"/>
+	</imgdir>
+    <imgdir name="9102000">
+		<string name="name" value="Scon"/>
+	</imgdir>
+    <imgdir name="9102001">
+		<string name="name" value="Garnox"/>
+		<string name="n0" value="Hi, I'm Garnox the Pet Scientist."/>
+		<string name="n1" value="Have you heard of the evolution of special pets?"/>
+		<string name="d0" value="Hi, I'm Garnox the Pet Scientist. Have you heard of the evolution of special pets?"/>
+		<string name="func" value="Pet Scientist"/>
+		<string name="d1" value="Where is this wind coming from? Hey! Hope you can find me when you wish to evolve your pet into another dragon again..."/>
+	</imgdir>
+    <imgdir name="9102002">
+		<string name="name" value="Oster"/>
+		<string name="func" value="Mount Distributor"/>
+		<string name="n0" value="Got any Mount Gachapon Tickets? Give 'em here!"/>
+		<string name="n1" value="If you're looking for mounts, you've come to the right guy."/>
+	</imgdir>
+    <imgdir name="9102100">
+		<string name="name" value="?"/>
+	</imgdir>
+    <imgdir name="9102101">
+		<string name="name" value="?"/>
+	</imgdir>
+    <imgdir name="9103000">
+		<string name="name" value="Pietri"/>
+		<string name="n0" value="Hey... I am Pietri."/>
+		<string name="n1" value="Have you heard about Ludibrium Maze?"/>
+	</imgdir>
+    <imgdir name="9103001">
+		<string name="name" value="Rolly"/>
+		<string name="n0" value="Hey... I am Rolly."/>
+		<string name="n1" value="Have you heard about Ludibrium Maze?"/>
+	</imgdir>
+    <imgdir name="9103002">
+		<string name="name" value="Rolly"/>
+		<string name="n0" value="Hey... I am Rolly."/>
+		<string name="n1" value="Have you heard about Ludibrium Maze?"/>
+	</imgdir>
+    <imgdir name="9103003">
+		<string name="name" value="Rolly"/>
+		<string name="n0" value="Hey... I am Rolly."/>
+		<string name="n1" value="Have you heard about Ludibrium Maze?"/>
+	</imgdir>
+    <imgdir name="9105002">
+		<string name="name" value="Naomi"/>
+		<string name="n0" value="Hey there!"/>
+		<string name="n1" value="We have a special event for you that I planned! Join us!"/>
+		<string name="d0" value="I have a special event for you! "/>
+	</imgdir>
+    <imgdir name="9105003">
+		<string name="name" value="Snow Spirit"/>
+		<string name="n0" value="Happy Holidays! Did you hear what happened to Happyville?"/>
+		<string name="n1" value="Can you believe that someone is trying to ruin it for everyone here at Happyville?"/>
+		<string name="func" value="Christmas Party Quest NPC"/>
+	</imgdir>
+    <imgdir name="9105004">
+		<string name="name" value="Snow Spirit"/>
+		<string name="n0" value="Please protect the Giant Snowman in Happyville!"/>
+		<string name="n1" value="The good people of Happyville need all your help!"/>
+		<string name="func" value="Holiday PQ NPC"/>
+	</imgdir>
+    <imgdir name="9105005">
+		<string name="name" value="Snowman"/>
+		<string name="n1" value="This is where the Giant Snowman can be found!"/>
+		<string name="n0" value="Happy Holidays everyone!"/>
+	</imgdir>
+    <imgdir name="9110000">
+		<string name="name" value="Perry"/>
+		<string name="func" value="Warp Helper"/>
+		<string name="n0" value="No, I won't eat you! This is how you travel!"/>
+		<string name="n1" value="Let me take care of it! I can make you fly!"/>
+		<string name="n2" value="I may look like this, but I'm a peaceful person, believe me!"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,86 @@
+<imgdir name="Etc.img">
+    <imgdir name="4021041">
+			<string name="name" value="方块剑刃"/>
+			<string name="desc" value="不断变化自己的剑刃。偶尔在神秘矿脉发现，用于制作工匠方块。"/>
+		</imgdir>
+    <imgdir name="4021042">
+			<string name="name" value="方块混沌剑刃"/>
+			<string name="desc" value="更强大的方块剑刃。偶尔在神秘传说矿脉发现，用于制作著名工匠方块。"/>
+		</imgdir>
+    <imgdir name="4023023">
+			<string name="name" value="黄昏精华"/>
+			<string name="desc" value="黄昏本身的魔法精华，偶尔从心石、金花、神秘矿脉和神秘草药发现。用于各种制作。"/>
+		</imgdir>
+    <imgdir name="4023024">
+			<string name="name" value="闪耀黄昏精华"/>
+			<string name="desc" value="黄昏精华的净化形式，偶尔从神秘传说矿脉和神秘草药发现。用于各种制作。"/>
+		</imgdir>
+    <imgdir name="4023025">
+			<string name="name" value="不屈火焰"/>
+			<string name="desc" value="偶尔在神秘草药发现的强火焰，用于制作强力重生火焰。"/>
+		</imgdir>
+    <imgdir name="4023026">
+			<string name="name" value="永恒不屈火焰"/>
+			<string name="desc" value="偶尔在神秘传说草药发现的永恒火焰，用于制作永恒重生火焰。"/>
+		</imgdir>
+    <imgdir name="4025000">
+			<string name="name" value="初级研磨剂"/>
+			<string name="desc" value="用于制作珠宝和矿物的化学品。用于制作40-60级物品。
+从阿登特米尔的拉姆齐购买。"/>
+		</imgdir>
+    <imgdir name="4025001">
+			<string name="name" value="中级研磨剂"/>
+			<string name="desc" value="用于制作珠宝和矿物的化学品。用于制作70-90级物品。
+从阿登特米尔的拉姆齐购买。"/>
+		</imgdir>
+    <imgdir name="4025002">
+			<string name="name" value="高级研磨剂"/>
+			<string name="desc" value="用于制作珠宝和矿物的化学品。用于制作100-120级物品。
+从阿登特米尔的拉姆齐购买。"/>
+		</imgdir>
+    <imgdir name="4025003">
+			<string name="name" value="顶级研磨剂"/>
+			<string name="desc" value="用于制作珠宝和矿物的化学品。用于制作130级及以上物品。
+从阿登特米尔的拉姆齐购买。"/>
+		</imgdir>
+    <imgdir name="4030021">
+			<string name="name" value="夜之印记"/>
+			<string name="desc" value="正式认可一个人为精英夜影者的徽章。"/>
+		</imgdir>
+    <imgdir name="4030022">
+			<string name="name" value="好木材"/>
+			<string name="desc" value="有点湿，但应该没问题。"/>
+		</imgdir>
+    <imgdir name="4030023">
+			<string name="name" value="风向变化报告"/>
+			<string name="desc" value="一份关于风向的相当长的报告。可能是你能读到的最无聊的东西。"/>
+		</imgdir>
+    <imgdir name="4030024">
+			<string name="name" value="追踪报告"/>
+			<string name="desc" value="一份关于脚印追踪的相当长的报告。而你还以为风向报告很糟糕..."/>
+		</imgdir>
+    <imgdir name="4030025">
+			<string name="name" value="乱码命令"/>
+			<string name="desc" value="这里肯定有字，但不可能知道它们是什么意思。"/>
+		</imgdir>
+    <imgdir name="4030026">
+			<string name="name" value="乱码命令书"/>
+			<string name="desc" value="一堆乱码命令。"/>
+		</imgdir>
+    <imgdir name="4030027">
+			<string name="name" value="里纳小鱼"/>
+			<string name="desc" value="里纳地区的小鱼。也许你可以把它腌了。"/>
+		</imgdir>
+    <imgdir name="4030028">
+			<string name="name" value="里纳大鱼"/>
+			<string name="desc" value="里纳地区的大鱼。它的肚子尝起来像天堂。"/>
+		</imgdir>
+    <imgdir name="4030029">
+			<string name="name" value="芭芭拉的钓鱼工具"/>
+			<string name="desc" value="好到可以钓到大鱼。"/>
+		</imgdir>
+    <imgdir name="4030030">
+			<string name="name" value="冰川核心碎片"/>
+			<string name="desc" value="凝聚的冰川力量的碎片。"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="70000039">
+        <string name="name" value="Additional Damage on Targets with Abnormal Status" />
+        <string name="desc" value="Increases damage when target is inflicted with abnormal status." />
+        <string name="h" value="+#abnormalDamR% damage when attacking targets inflicted with Stun, Blindness, or Freeze status" />
+    </imgdir>

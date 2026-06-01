@@ -1,0 +1,104 @@
+<imgdir name="Npc.img">
+    <imgdir name="1095002">
+		<string name="name" value="Power B. Fore"/>
+		<string name="func" value="Entrance to Pirate Training Center"/>
+	</imgdir>
+    <imgdir name="1095003">
+		<string name="name" value="Valerie"/>
+		<string name="n0" value="The cap'n is back!"/>
+		<string name="n1" value="Pirates are the best! You want a piece of me?"/>
+		<string name="d0" value="The greatest pirates are the pretty ones! Do you know how hard it is to loot, pillage, AND exfoliate? That's why Kyrin is the best!"/>
+		<string name="d1" value="The most powerful pirates are the pretty ones. It takes a lot of effort to loot, pillage, and stay clean! That's why Kyrin is unstoppable!"/>
+	</imgdir>
+    <imgdir name="1096000">
+		<string name="name" value="Skipper"/>
+		<string name="n0" value="If you are headed to Maple Island, please board now."/>
+		<string name="n1" value="We'll be departing soon."/>
+		<string name="d0" value="We've got a good headwind. Perfect weather for sailing."/>
+		<string name="d1" value="We've got a good headwind. Perfect weather for sailing."/>
+	</imgdir>
+    <imgdir name="1096001">
+		<string name="name" value="Reiting"/>
+		<string name="n0" value="Whew..."/>
+		<string name="n1" value="When will I be able to finish cleaning?"/>
+		<string name="d0" value="I have to finish cleaning."/>
+		<string name="d1" value="I have to finish cleaning."/>
+	</imgdir>
+    <imgdir name="1096002">
+		<string name="name" value="Skipper and Reiting"/>
+	</imgdir>
+    <imgdir name="1096003">
+		<string name="name" value="Monkey"/>
+		<string name="n0" value="Ooook!"/>
+		<string name="n1" value="Oo... Ook!"/>
+		<string name="d0" value="Ook! Ook!!"/>
+		<string name="d1" value="Ook! Ook!!"/>
+	</imgdir>
+    <imgdir name="1096004">
+		<string name="name" value="Monkey"/>
+		<string name="n0" value="Ooook!"/>
+		<string name="n1" value="Oo... Ook!"/>
+		<string name="d0" value="Ook! Ook!!"/>
+		<string name="d1" value="Ook! Ook!!"/>
+	</imgdir>
+    <imgdir name="1096005">
+		<string name="name" value="Cutter"/>
+		<string name="d0" value="Been too long since I blew something up..."/>
+		<string name="d1" value="Been too long since I blew something up..."/>
+	</imgdir>
+    <imgdir name="1096006">
+		<string name="name" value="Cutter"/>
+		<string name="func" value="Engineer"/>
+		<string name="n0" value="Careful! Careful now! "/>
+		<string name="n1" value="This is the age of pirates! I'll see to that! Ha!"/>
+		<string name="d0" value="I'm Cutter, the man behind the weapons of the pirates. If they get stronger, you got me to thank for it!"/>
+		<string name="d1" value="I'm Cutter, the man behind the weapons of the pirates. If they get stronger, you got me to thank for it!"/>
+	</imgdir>
+    <imgdir name="1096007">
+		<string name="name" value="Kyrin"/>
+		<string name="n0" value="Teacher, teacher, where are you?"/>
+		<string name="n1" value="I really need teacher to complete this new weapon..."/>
+		<string name="d0" value="The Nautilus is being upgraded! Soon, our main gun will be fully operational. A powerful ship, and a beautiful captain... What more could anyone ask for?"/>
+	</imgdir>
+    <imgdir name="1096008">
+		<string name="name" value="Jr. Balrog"/>
+		<string name="n0" value="Zzz... Zzzz..."/>
+		<string name="n1" value="I will destroy everything!"/>
+	</imgdir>
+    <imgdir name="1096009">
+		<string name="name" value="Cannon Remnants"/>
+	</imgdir>
+    <imgdir name="1096010">
+		<string name="name" value="Ignition Device"/>
+	</imgdir>
+    <imgdir name="1096011">
+		<string name="name" value="Balrog Summon Effect"/>
+	</imgdir>
+    <imgdir name="1096012">
+		<string name="name" value="After the Cannon Ball Fires"/>
+	</imgdir>
+    <imgdir name="1096013">
+		<string name="name" value="Before the Cannon Ball Fires"/>
+	</imgdir>
+    <imgdir name="1097000">
+		<string name="name" value="Tangyoon"/>
+		<string name="d0" value="These pirates would probably start eating the ship if I missed a single meal."/>
+		<string name="d1" value="These pirates would probably start eating the ship if I missed a single meal."/>
+	</imgdir>
+    <imgdir name="1097001">
+		<string name="name" value="Tangyoon"/>
+	</imgdir>
+    <imgdir name="1200000">
+		<string name="name" value="Pusla"/>
+		<string name="func" value="Storage Owner"/>
+		<string name="n0" value="No one can penetrate my safe storage!"/>
+		<string name="n1" value="Are you in need of a place to store your items?"/>
+	</imgdir>
+    <imgdir name="1202000">
+		<string name="name" value="Lilin"/>
+		<string name="d0" value="Do you have any questions? Then please ask!"/>
+		<string name="d1" value="Do you have any questions? Then please ask!"/>
+		<string name="n0" value="Don't worry. I'm gonna help you out.."/>
+		<string name="n1" value="Don't worry. I'm gonna help you out.."/>
+	</imgdir>
+</imgdir>

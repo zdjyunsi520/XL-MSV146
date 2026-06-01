@@ -1,0 +1,5 @@
+<imgdir name="80000049">
+        <string name="name" value="师徒额外增益" />
+        <string name="desc" value="师徒系统激活时，如果师父和徒弟在同一地图上，你将获得额外30点物理攻击力和魔法攻击力。" />
+        <string name="h" value="师徒在同一地图时物理和魔法攻击力加成：+30" />
+    </imgdir>

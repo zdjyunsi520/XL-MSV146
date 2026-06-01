@@ -1,0 +1,7 @@
+<imgdir name="3221006">
+        <string name="name" value="幻影步" />
+        <string name="desc" value="短时间内大幅提升敏捷和回避率。同时永久减少受到的伤害~" />
+        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒, 敏捷: +#dex, 回避率: +#x%\n被动效果 - 受到伤害: -#ignoreMobDamR%" />
+        <string name="pdesc" value="短时间内大幅提升敏捷和回避率~" />
+        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒, 敏捷: +#dex, 回避率: +#x%" />
+    </imgdir>

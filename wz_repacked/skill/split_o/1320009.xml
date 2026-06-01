@@ -1,0 +1,5 @@
+<imgdir name="1320009">
+        <string name="name" value="Hex of the Beholden" />
+        <string name="desc" value="The black spirit periodically buffs the you.\nRequired Skill: #cBeholden Lv. 1#" />
+        <string name="h" value="Frequency: every #x sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Accuracy: +#acc, Avoidability: +#eva. Buff Duration: #time sec" />
+    </imgdir>

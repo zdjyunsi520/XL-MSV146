@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046640">
+		<string name="name" value="Scroll for Legendary Armors for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nDEX: +14\r\n#"/>
+	</imgdir>
+    <imgdir name="2046641">
+		<string name="name" value="Scroll for Legendary Armors for INT"/>
+		<string name="desc" value="Improves Intelligence on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046642">
+		<string name="name" value="Scroll for Legendary Armors for INT"/>
+		<string name="desc" value="Improves Intelligence on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nINT: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046643">
+		<string name="name" value="Scroll for Legendary Armors for INT"/>
+		<string name="desc" value="Improves Intelligence on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nINT: +13\r\n#"/>
+	</imgdir>
+    <imgdir name="2046644">
+		<string name="name" value="Scroll for Legendary Armors for INT"/>
+		<string name="desc" value="Improves Intelligence on armor from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nINT: +14\r\n#"/>
+	</imgdir>
+    <imgdir name="2046645">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046646">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nLUK: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046647">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nLUK: +13\r\n#"/>
+	</imgdir>
+    <imgdir name="2046648">
+		<string name="name" value="Scroll for Legendary Armors for LUK"/>
+		<string name="desc" value="Improves Luck on armor from the  #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nLUK: +14\r\n#"/>
+	</imgdir>
+    <imgdir name="2046661">
+		<string name="name" value="Scroll for Sengoku Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046662">
+		<string name="name" value="Scroll for Sengoku Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046663">
+		<string name="name" value="Scroll for Sengoku Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046664">
+		<string name="name" value="Scroll for Sengoku Armor for LUK"/>
+		<string name="desc" value="Improves Luck on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046665">
+		<string name="name" value="Scroll for Sengoku Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046666">
+		<string name="name" value="Scroll for Sengoku Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046667">
+		<string name="name" value="Scroll for Sengoku Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046668">
+		<string name="name" value="Scroll for Sengoku Armor for LUK"/>
+		<string name="desc" value="Improves Luck on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046669">
+		<string name="name" value="Scroll for Sengoku Armor for STR"/>
+		<string name="desc" value="Improves Strength on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nWeapon Defense: +10\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046670">
+		<string name="name" value="Scroll for Sengoku Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nWeapon Defense: +5\r\nMagic Defense: +10\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046671">
+		<string name="name" value="Scroll for Sengoku Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+</imgdir>

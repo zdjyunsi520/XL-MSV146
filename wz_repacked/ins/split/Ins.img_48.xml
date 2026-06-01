@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700077">
+		<string name="name" value="Finds the Light"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3700079">
+		<string name="name" value="Pretty Heroic"/>
+		<string name="desc" value="Title for winning the Hero's Gauntlet 3 times.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +1#"/>
+	</imgdir>
+    <imgdir name="3700080">
+		<string name="name" value="Heroic Measures"/>
+		<string name="desc" value="Title for winning the Hero's Gauntlet 20 times.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5#"/>
+	</imgdir>
+    <imgdir name="3700081">
+		<string name="name" value="Accepting All Challenges"/>
+		<string name="desc" value="Title for winning the Hero's Gauntlet 50 times.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +7#"/>
+	</imgdir>
+    <imgdir name="3700082">
+		<string name="name" value="No Giving Up"/>
+		<string name="desc" value="Title for losing the Hero's Gauntlet 50 times..\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +7\nAll Stats +7#"/>
+	</imgdir>
+    <imgdir name="3700083">
+		<string name="name" value="Kaleido-Conqueror"/>
+		<string name="desc" value="Title for spinning the Kaleido-Spinner 10 times.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700084">
+		<string name="name" value="Present!"/>
+		<string name="desc" value="Title for being a regular attendee.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700085">
+		<string name="name" value="Monstorosity"/>
+		<string name="desc" value="Title for completing Monstory Collector.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700086">
+		<string name="name" value="Gold Noser"/>
+		<string name="desc" value="Title for obtaining the Golden Nose Bandage.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700087">
+		<string name="name" value="Christmas Stockinged Out"/>
+		<string name="desc" value="Title for using 10 Christmas Stockings.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700088">
+		<string name="name" value="Twinkling Tree"/>
+		<string name="desc" value="Title for completing 5 Christmas Trees.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700090">
+		<string name="name" value="Almighty Archdemon"/>
+		<string name="desc" value="Title for hitting Lv. 200 with the Demon Avenger.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +7#"/>
+	</imgdir>
+    <imgdir name="3700091">
+		<string name="name" value="Archdemon"/>
+		<string name="desc" value="Title for hitting Lv. 200 with the Demon Avenger.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5#"/>
+	</imgdir>
+    <imgdir name="3700092">
+		<string name="name" value="Merciless Demon"/>
+		<string name="desc" value="Title for hitting Lv. 200 with the Demon Avenger. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700093">
+		<string name="name" value="Xenon Mark Omega"/>
+		<string name="desc" value="Title for hitting Lv. 200 with Xenon.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +7#"/>
+	</imgdir>
+    <imgdir name="3700094">
+		<string name="name" value="Xenon Mark Alpha"/>
+		<string name="desc" value="Title for hitting Lv. 200 with Xenon.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5#"/>
+	</imgdir>
+    <imgdir name="3700095">
+		<string name="name" value="Xenon Mark II"/>
+		<string name="desc" value="Title for hitting Lv. 200 with Xenon. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700096">
+		<string name="name" value="Winter Survivor"/>
+		<string name="desc" value="All Winter Season 2 Achievements completed!\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +7#"/>
+	</imgdir>
+    <imgdir name="3700098">
+		<string name="name" value="Valentine Casanova"/>
+		<string name="desc" value="Title for those that received 3 Confession Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700099">
+		<string name="name" value="Charming"/>
+		<string name="desc" value="Title for those that received 2 Confession Cards and 1 Friendship Card during the Valentine Day event"/>
+	</imgdir>
+</imgdir>

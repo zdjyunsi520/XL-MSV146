@@ -1,0 +1,7 @@
+<imgdir name="1310016">
+        <string name="name" value="邪眼诅咒" />
+        <string name="desc" value="邪眼不在自由攻击模式时会定期使用增益~" />
+        <string name="h" value="频率: 每#x秒，武器攻击力: +#epad，物理防御力: +#epdd，暴击率: #indieCr%，魔法防御力: +#emdd，命中值: +#acc，回避值: +#eva。增益持续时间: #time秒" />
+        <string name="pdesc" value="邪眼不在自由攻击模式时会定期使用增益~" />
+        <string name="ph" value="频率: 每#x秒，武器攻击力: +#epad，物理防御力: +#epdd，暴击率: #indieCr%，魔法防御力: +#emdd，命中值: +#acc，回避值: +#eva。增益持续时间: #time秒" />
+    </imgdir>

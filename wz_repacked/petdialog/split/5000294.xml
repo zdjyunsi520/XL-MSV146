@@ -1,0 +1,191 @@
+<imgdir name="5000294">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="^.^"/>
+		<string name="c1_s2" value="O-okay..."/>
+		<string name="c1_f1" value="?"/>
+		<string name="c1_f2" value="…?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Okay, but you have to keep me safe."/>
+		<string name="c2_s2" value="Be on lookout behind me, just in case."/>
+		<string name="c2_s3" value="I guess I could take a break."/>
+		<string name="c2_s4" value="Do you have anything to eat while I sit here?"/>
+		<string name="c2_f1" value="I'd rather stand, so I can run if a monster appears."/>
+		<string name="c2_f2" value="What if the ground hurts me?"/>
+		<string name="c2_f3" value="I... I'm too scared."/>
+		<string name="c2_f4" value="N-no!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Hehehehe, like this?"/>
+		<string name="c3_s2" value="We should get a TV."/>
+		<string name="c3_s3" value="I'm counting on you to keep the ground from attacking me!"/>
+		<string name="c3_s4" value="My tail keeps me warm and cozy."/>
+		<string name="c3_f1" value="I need to lie down, not sit."/>
+		<string name="c3_f2" value="You just want to hurt me!"/>
+		<string name="c3_f3" value="Why?! What're you going to do to me?"/>
+		<string name="c3_f4" value="I... I... I'm too scared!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="I guess I'm pretty tired."/>
+		<string name="c4_s2" value="Will you be nice to me if I sit?"/>
+		<string name="c4_s3" value="I'll sit next to you!"/>
+		<string name="c4_s4" value="I'm awfully tired from being on high alert all the time."/>
+		<string name="c4_f1" value="But I'm hungry..."/>
+		<string name="c4_f2" value="Are you trying to hurt me?"/>
+		<string name="c4_f3" value="It's too cold!"/>
+		<string name="c4_f4" value="I don't want to sit."/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="I'm sorry! I'm so sorry!"/>
+		<string name="c5_s2" value="It was my fault! Please stop hitting me!"/>
+		<string name="c5_f1" value="Eeeek! Be nice to me!"/>
+		<string name="c5_f2" value="Why? WHY?!"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Sorry! *cry*"/>
+		<string name="c6_s2" value="Don't be mad! Please!"/>
+		<string name="c6_s3" value="You're scary when you're mad!"/>
+		<string name="c6_s4" value="I'll be better! Don't hurt me!"/>
+		<string name="c6_f1" value="Why??"/>
+		<string name="c6_f2" value="But I didn't do anything!"/>
+		<string name="c6_f3" value="You're just like Gelimer!"/>
+		<string name="c6_f4" value="Why are you treating me this way?"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="You're making me cry!"/>
+		<string name="c7_s2" value="I thought you cared about me!"/>
+		<string name="c7_s3" value="I'm going to run away!"/>
+		<string name="c7_s4" value="You're really, really scaring me!"/>
+		<string name="c7_f1" value="You're not being fair!"/>
+		<string name="c7_f2" value="Why do you hate me?"/>
+		<string name="c7_f3" value="I'm going to tell on you!"/>
+		<string name="c7_f4" value="You're a bully!"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="I thought we were friends..."/>
+		<string name="c8_s2" value="Sorry... *sniffle*"/>
+		<string name="c8_s3" value="Waaah! I'm so scared..."/>
+		<string name="c8_s4" value="*pitiful sob*"/>
+		<string name="c8_f1" value="You're so mean! I miss Gelimer!"/>
+		<string name="c8_f2" value="Don't starve me!!"/>
+		<string name="c8_f3" value="I'm not s-s-scared of y-you!"/>
+		<string name="c8_f4" value="There's got to be someone I can call!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="You d-do?"/>
+		<string name="c9_s2" value="R-really?"/>
+		<string name="c9_f1" value="You scare me!!"/>
+		<string name="c9_f2" value="Go away! Waaah!"/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="You do? Really?"/>
+		<string name="c10_s2" value="I think... I think that makes me happy!"/>
+		<string name="c10_s3" value="Sooo happy!"/>
+		<string name="c10_s4" value="Hehehehe. *blush*"/>
+		<string name="c10_f1" value="W-what?!"/>
+		<string name="c10_f2" value="You scare me!"/>
+		<string name="c10_f3" value="T-too loud!"/>
+		<string name="c10_f4" value="Please leave me alone!"/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="R-really?"/>
+		<string name="c11_s2" value="I love you, too!"/>
+		<string name="c11_s3" value="I'm so happy!"/>
+		<string name="c11_s4" value="That makes me feel safe!"/>
+		<string name="c11_f1" value="I'll b-b-bite you!"/>
+		<string name="c11_f2" value="Liar!"/>
+		<string name="c11_f3" value="T-tell the truth!"/>
+		<string name="c11_f4" value="I know you d-don't mean it."/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="I'm so glad I met you!"/>
+		<string name="c12_s2" value="I love you so, so, so much!"/>
+		<string name="c12_s3" value="I'd follow you anywhere!"/>
+		<string name="c12_s4" value="Promise you'll never leave me!"/>
+		<string name="c12_f1" value="That scares m-me!"/>
+		<string name="c12_f2" value="You're lying, aren't y-you?"/>
+		<string name="c12_f3" value="Let's talk about this later."/>
+		<string name="c12_f4" value="Shhh! I want to hide..."/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="I'll try to be brave."/>
+		<string name="c13_s2" value="I'll do it for you."/>
+		<string name="c13_s3" value="Now I can relax."/>
+		<string name="c13_s4" value="I could do this all day."/>
+		<string name="c13_f1" value="I'm too scared!"/>
+		<string name="c13_f2" value="That's scary!"/>
+		<string name="c13_f3" value="*whimper*"/>
+		<string name="c13_f4" value="My tummy hurts."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="I've been holding that in for a long time."/>
+		<string name="c14_s2" value="Promise that it won't hurt me!"/>
+		<string name="c14_s3" value="Will you wipe me? Hehe."/>
+		<string name="c14_s4" value="Hold my hand, p-please!"/>
+		<string name="c14_f1" value="Pooping scares me!"/>
+		<string name="c14_f2" value="What if it bites me on the way out?!"/>
+		<string name="c14_f3" value="I don't feel like it."/>
+		<string name="c14_f4" value="I only do that once a day..."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="It slipped out! Eeek!"/>
+		<string name="c15_s2" value="Just a little pellet!"/>
+		<string name="c15_s3" value="No one's watching, right?"/>
+		<string name="c15_s4" value="Better out than in!"/>
+		<string name="c15_f1" value="I don't need to go!"/>
+		<string name="c15_f2" value="I'd rather play!"/>
+		<string name="c15_f3" value="I hate the poop monster!"/>
+		<string name="c15_f4" value="Do I have to?"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="You have to guard me."/>
+		<string name="c16_s2" value="Keep me safe while I rest."/>
+		<string name="c16_s3" value="Protect me..."/>
+		<string name="c16_s4" value="*snore*"/>
+		<string name="c16_f1" value="What if I have bad dreams?"/>
+		<string name="c16_f2" value="I'm scared to sleep!"/>
+		<string name="c16_f3" value="Sleep monsters'll get me!"/>
+		<string name="c16_f4" value="Noooo! Eeeeek!"/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="My tail will keep me safe. Right?"/>
+		<string name="c17_s2" value="Don't leave me alone while I sleep, okay?"/>
+		<string name="c17_s3" value="You'll stay with me?"/>
+		<string name="c17_s4" value="Put your hand on my back while I sleep so I know you're near."/>
+		<string name="c17_f1" value="I'm too scared..."/>
+		<string name="c17_f2" value="You go first. I'll do it after..."/>
+		<string name="c17_f3" value="What if something sneaks up on me?"/>
+		<string name="c17_f4" value="No! Don't ask me to do that!"/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Stay with me while I sleep, okay?"/>
+		<string name="c18_s2" value="One Red Snail... two Red Snails..."/>
+		<string name="c18_s3" value="*snore*"/>
+		<string name="c18_s4" value="Can you make me a comfy quilt next time?"/>
+		<string name="c18_f1" value="Let's play!"/>
+		<string name="c18_f2" value="There are monsters in the closet!"/>
+		<string name="c18_f3" value="N-no!"/>
+		<string name="c18_f4" value="But I'm not sleepy! I'm not!"/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="That mean scientist performed all sorts of experiments on me. *cry*"/>
+		<string name="c19_s2" value="I hate thinking about the past. I hate it!"/>
+		<string name="c19_s3" value="The outside world is scary, but the lab was even worse."/>
+		<string name="c19_s4" value="I hate science! I hate it so much!"/>
+		<string name="c19_f1" value="I don't trust you!"/>
+		<string name="c19_f2" value="You won't get anything out of me!"/>
+		<string name="c19_f3" value="I won't tell you! I won't!"/>
+		<string name="c19_f4" value="D-don't hurt me!"/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="I think I was brave before Gelimer came along."/>
+		<string name="c20_s2" value="I wish I weren't so timid, but everything scares me. Except you."/>
+		<string name="c20_s3" value="I'm so worried that one day I'll turn into a doll."/>
+		<string name="c20_s4" value="Sometimes I wish I could fly, but it's too scary."/>
+		<string name="c20_f1" value="Are you going to hurt me?"/>
+		<string name="c20_f2" value="I don't like to talk about my past."/>
+		<string name="c20_f3" value="You're being too intense!"/>
+		<string name="c20_f4" value="Did Gelimer send you!?"/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="I've always wanted to taste the Water of Life, but I'm too scared."/>
+		<string name="c21_s2" value="Sometimes I think I should wear a disguise so no one can find me."/>
+		<string name="c21_s3" value="It's not safe to have friends. You're the only one I trust."/>
+		<string name="c21_s4" value="If it weren't for you, master, I think I'd be completely alone."/>
+		<string name="c21_f1" value="Are you going to hurt me?"/>
+		<string name="c21_f2" value="Please just leave me alone!"/>
+		<string name="c21_f3" value="Go away! I don't want to talk!"/>
+		<string name="c21_f4" value="Aah! I thought I heard Gelimer's voice!"/>
+		<string name="f1_s" value="Yummy!"/>
+		<string name="f1_f" value="I'm too scared to eat!"/>
+		<string name="f2_s" value="Scrumptious!"/>
+		<string name="f2_f" value="Food is scary!"/>
+		<string name="f3_s" value="I love to eat!"/>
+		<string name="f3_f" value="I'm scared!"/>
+		<string name="f4_s" value="Mm, yum!"/>
+		<string name="f4_f" value="Is that poisoned?"/>
+		<string name="s1" value="I refuse to say that!"/>
+		<string name="s2" value="Those words are scary!"/>
+		<string name="s3" value="I won't say anything bad, I won't!"/>
+		<string name="s4" value="You're scaring m-me!"/>
+	</imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8210004">
+		<string name="name" value="灰秃鹫"/>
+	</imgdir>
+    <imgdir name="8210005">
+		<string name="name" value="城堡傀儡"/>
+	</imgdir>
+    <imgdir name="8210006">
+		<string name="name" value="监狱守卫野猪"/>
+	</imgdir>
+    <imgdir name="8210007">
+		<string name="name" value="监狱守卫犀牛"/>
+	</imgdir>
+    <imgdir name="8210010">
+		<string name="name" value="第一塔阿尼"/>
+	</imgdir>
+    <imgdir name="8210011">
+		<string name="name" value="第二塔阿尼"/>
+	</imgdir>
+    <imgdir name="8210012">
+		<string name="name" value="第三塔阿尼"/>
+	</imgdir>
+    <imgdir name="8210013">
+		<string name="name" value="监狱守卫阿尼"/>
+	</imgdir>
+    <imgdir name="8210014">
+		<string name="name" value="监狱守卫阿尼的幽灵"/>
+	</imgdir>
+    <imgdir name="8220000">
+		<string name="name" value="伊莉莎"/>
+	</imgdir>
+    <imgdir name="8220001">
+		<string name="name" value="雪人"/>
+	</imgdir>
+    <imgdir name="8220002">
+		<string name="name" value="奇美拉"/>
+	</imgdir>
+    <imgdir name="8220003">
+		<string name="name" value="利维坦"/>
+	</imgdir>
+    <imgdir name="8220004">
+		<string name="name" value="渡渡鸟"/>
+	</imgdir>
+    <imgdir name="8220005">
+		<string name="name" value="莉莉努什"/>
+	</imgdir>
+    <imgdir name="8220006">
+		<string name="name" value="莱卡"/>
+	</imgdir>
+    <imgdir name="8220007">
+		<string name="name" value="蓝蘑菇妈妈"/>
+	</imgdir>
+    <imgdir name="8220009">
+		<string name="name" value="小吃吧"/>
+	</imgdir>
+    <imgdir name="8500000">
+		<string name="name" value="时间球"/>
+	</imgdir>
+    <imgdir name="8500001">
+		<string name="name" value="帕普拉图斯时钟"/>
+	</imgdir>
+</imgdir>

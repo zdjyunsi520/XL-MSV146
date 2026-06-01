@@ -1,0 +1,7 @@
+<imgdir name="13110008">
+        <string name="name" value="闪避强化" />
+        <string name="desc" value="赋予你闪避敌人攻击的能力。闪避成功后，接下来1秒内的攻击将全部变为暴击哦！" />
+        <string name="h" value="闪避率：#er%，闪避成功后#time秒内所有攻击都将暴击。" />
+        <string name="pdesc" value="赋予你闪避敌人攻击的能力。闪避成功后，接下来1秒内的攻击将全部变为暴击哦！" />
+        <string name="ph" value="闪避率：#er%，闪避成功后#time秒内所有攻击都将暴击。" />
+    </imgdir>

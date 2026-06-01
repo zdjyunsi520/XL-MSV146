@@ -1,0 +1,5 @@
+<imgdir name="2111010">
+        <string name="name" value="病毒史莱姆" />
+        <string name="desc" value="召唤喷射致命毒液的史莱姆。史莱姆会粘在敌人身上造成持续伤害。#c消灭目标时会分裂为2只#~" />
+        <string name="h" value="MP消耗: #mpCon, 对目标造成#dot%持续伤害持续#dotTime秒。史莱姆最多存在#time秒，最多分裂为#x只\n[冷却时间: #cooltime秒]" />
+    </imgdir>

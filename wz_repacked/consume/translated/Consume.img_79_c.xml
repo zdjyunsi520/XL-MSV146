@@ -1,0 +1,97 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040301">
+		<string name="name" value="耳环强化卷轴 智力 60%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040302">
+		<string name="name" value="耳环强化卷轴 智力 10%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040303">
+		<string name="name" value="耳环强化卷轴 智力 30%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040304">
+		<string name="name" value="暗黑耳环强化卷轴 智力 70%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040305">
+		<string name="name" value="暗黑耳环强化卷轴 智力 30%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040306">
+		<string name="name" value="暗黑耳环强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040307">
+		<string name="name" value="暗黑耳环强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040308">
+		<string name="name" value="暗黑耳环强化卷轴 防御 70%"/>
+		<string name="desc" value="强化耳环的防御\n成功率70%，物理防御+1，魔法防御+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040309">
+		<string name="name" value="暗黑耳环强化卷轴 防御 30%"/>
+		<string name="desc" value="强化耳环的防御\n成功率30%，物理防御+3，魔法防御+3，命中+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040310">
+		<string name="name" value="耳环强化卷轴 防御 10%"/>
+		<string name="desc" value="强化耳环的防御。\n成功率10%，物理防御+3，魔法防御+3，命中+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040311">
+		<string name="name" value="耳环强化卷轴 防御 60%"/>
+		<string name="desc" value="强化耳环的防御。\n成功率60%，物理防御+1，魔法防御+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040312">
+		<string name="name" value="耳环强化卷轴 防御 100%"/>
+		<string name="desc" value="强化耳环的防御。\n成功率100%，物理防御+1"/>
+	</imgdir>
+    <imgdir name="2040313">
+		<string name="name" value="耳环强化卷轴 智力 65%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040314">
+		<string name="name" value="耳环强化卷轴 智力 15%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040315">
+		<string name="name" value="【5周年】耳环强化卷轴 智力 40%"/>
+		<string name="desc" value="强化冒险岛耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n智力：+2\r\n魔法攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040316">
+		<string name="name" value="耳环强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040317">
+		<string name="name" value="耳环强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040318">
+		<string name="name" value="耳环强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040319">
+		<string name="name" value="耳环强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化耳环的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040320">
+		<string name="name" value="耳环强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化耳环的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+</imgdir>

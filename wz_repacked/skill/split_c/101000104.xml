@@ -1,0 +1,5 @@
+<imgdir name="101000104">
+        <string name="name" value="高级大地震踏" />
+        <string name="desc" value="被高级大地震踏击中的敌人有几率眩晕~" />
+        <string name="h" value="几率: #prop%, 眩晕时间: #time秒。" />
+    </imgdir>

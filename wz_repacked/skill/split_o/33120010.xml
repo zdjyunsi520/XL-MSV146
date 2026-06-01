@@ -1,0 +1,5 @@
+<imgdir name="33120010">
+        <string name="name" value="Wild Instinct" />
+        <string name="desc" value="Your attacks ignore a portion of enemy Weapon DEF, and you have a chance to dodge incoming blows. Permanently increases resistance to all elemental effects." />
+        <string name="h" value="Monster Weapon DEF Ignored: #ignoreMobpdpR%, Dodge Chance: #er%. Resistance to all elemental effects permanently increased by #terR%." />
+    </imgdir>

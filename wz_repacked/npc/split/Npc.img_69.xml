@@ -1,0 +1,94 @@
+<imgdir name="Npc.img">
+    <imgdir name="1033211">
+		<string name="name" value="Elf's Harp"/>
+	</imgdir>
+    <imgdir name="1033220">
+		<string name="name" value="Fountainhead Pillar"/>
+		<string name="d0" value="(A Fountainhead Pillar made of white marble. It constantly purifies water.)"/>
+		<string name="d1" value="(A Fountainhead Pillar made of white marble. It constantly purifies water.)"/>
+	</imgdir>
+    <imgdir name="1033221">
+		<string name="name" value="Athena Pierce"/>
+		<string name="d0" value="(Athena Pierce in her childhood. Her emerald-green hair and kind eyes are the same as now. The only difference is that she was very shy back then.)"/>
+		<string name="d1" value="(Athena Pierce in her childhood. Her emerald-green hair and kind eyes are the same as now. The only difference is that she was very shy back then.)"/>
+	</imgdir>
+    <imgdir name="1033222">
+		<string name="name" value="Athena Pierce"/>
+	</imgdir>
+    <imgdir name="1033223">
+		<string name="name" value="Francis"/>
+	</imgdir>
+    <imgdir name="1033224">
+		<string name="name" value="The Shadow Knight's Letter"/>
+	</imgdir>
+    <imgdir name="1033225">
+		<string name="name" value="Shadow Knight"/>
+	</imgdir>
+    <imgdir name="1033226">
+		<string name="name" value="Athena's Letter"/>
+	</imgdir>
+    <imgdir name="1033227">
+		<string name="name" value="Audish"/>
+		<string name="d0" value="(This person is wearing a robe. The beard on his chin hints that he is a man.)"/>
+		<string name="d1" value="(This person is wearing a robe. The beard on his chin hints that he is a man.)"/>
+	</imgdir>
+    <imgdir name="1033228">
+		<string name="name" value="Dargoth"/>
+	</imgdir>
+    <imgdir name="1033229">
+		<string name="name" value="Threat Letter"/>
+	</imgdir>
+    <imgdir name="1033230">
+		<string name="name" value="Orchid"/>
+		<string name="d0" value="Hmph..."/>
+		<string name="d1" value="Hmph..."/>
+	</imgdir>
+    <imgdir name="1033231">
+		<string name="name" value="Moonie"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="1033232">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="Elluel...it's been quite a while."/>
+		<string name="n1" value="There are more that haven't awakened..."/>
+		<string name="d0" value="Hah, good thing we defeated them all. No one was injured, either. And I got to see everyone again! This has been great!"/>
+		<string name="d1" value="Hah, good thing we defeated them all. No one was injured, either. And I got to see everyone again! This has been great!"/>
+	</imgdir>
+    <imgdir name="1033233">
+		<string name="name" value="Cutie"/>
+	</imgdir>
+    <imgdir name="1033240">
+		<string name="name" value="Sylvidia"/>
+		<string name="d0" value="The land of Elves, Elluel...it has been so long."/>
+		<string name="d1" value="We welcome the return of Elves."/>
+	</imgdir>
+    <imgdir name="1052113">
+		<string name="name" value="Power B. Fore"/>
+		<string name="func" value="Thief Training Instructor"/>
+		<string name="s0" value="I used to be quite the adventurer myself."/>
+		<string name="s1" value="If only I were 10 years younger!"/>
+		<string name="d0" value="Hey there! This training center is specifically designed for beginners. You'll be removed from the area once you reach Level 20, got it?"/>
+		<string name="d1" value="Hey there! This training center is specifically designed for beginners. You'll be removed from the area once you reach Level 20, got it?"/>
+	</imgdir>
+    <imgdir name="1052114">
+		<string name="name" value="Power B. Fore"/>
+		<string name="func" value="Entrance to Thief Training Center"/>
+	</imgdir>
+    <imgdir name="1052115">
+		<string name="name" value="Mr. Lim"/>
+		<string name="func" value="Subway Personnel"/>
+		<string name="n0" value="This route is not yet available."/>
+		<string name="n1" value="Please use another station."/>
+		<string name="d0" value="Ah, hold on! This area is not yet open to the public. If you wish to use the subway, please try another station nearby. The nearest one from here is at Kerning City."/>
+		<string name="d1" value="Ah, hold on! This area is not yet open to the public. If you wish to use the subway, please try another station nearby. The nearest one from here is at Kerning City."/>
+	</imgdir>
+    <imgdir name="1095001">
+		<string name="name" value="Power B. Fore"/>
+		<string name="func" value="Pirate Training Instructor"/>
+		<string name="s0" value="I used to be quite the adventurer myself."/>
+		<string name="s1" value="If only I were 10 years younger!"/>
+		<string name="d0" value="Hey there! This training center is specifically designed for beginners. You'll be removed from the area once you reach Level 20, got it?"/>
+		<string name="d1" value="Hey there! This training center is specifically designed for beginners. You'll be removed from the area once you reach Level 20, got it?"/>
+	</imgdir>
+</imgdir>

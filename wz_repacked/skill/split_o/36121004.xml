@@ -1,0 +1,5 @@
+<imgdir name="36121004">
+        <string name="name" value="Offensive Matrix" />
+        <string name="desc" value="Activates Offensive Matrix to ignore enemy defenses and knock-backs for a short time." />
+        <string name="h" value="MP Cost: #mpCon, Duration #time, Power Stance: #x%, Enemy Defenses: #y% ignored" />
+    </imgdir>

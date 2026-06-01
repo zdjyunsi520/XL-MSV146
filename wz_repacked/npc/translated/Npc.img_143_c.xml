@@ -1,0 +1,123 @@
+<imgdir name="Npc.img">
+    <imgdir name="9070007">
+		<string name="name" value="Rebecca"/>
+		<string name="func" value="咖啡厅武器租赁"/>
+		<string name="n0" value="嘿你！问我关于武器租赁的事。我敢说。"/>
+		<string name="n1" value="是的，我有一个特别优惠给你。"/>
+	</imgdir>
+    <imgdir name="9070008">
+		<string name="name" value="Gaga"/>
+		<string name="n0" value="我会根据你在战斗模式中累积的分数给你8周年枫叶。"/>
+		<string name="s0" value="我会根据你在战斗模式中累积的分数给你8周年枫叶。"/>
+		<string name="s1" value="我会根据你在战斗模式中累积的分数给你8周年枫叶。"/>
+		<string name="d0" value="我会根据你在战斗模式中累积的分数给你8周年枫叶。"/>
+		<string name="d1" value="我会根据你在战斗模式中累积的分数给你8周年枫叶。"/>
+	</imgdir>
+    <imgdir name="9070009">
+		<string name="name" value="Haktorius"/>
+		<string name="func" value="训练教官"/>
+		<string name="n0" value="战斗吧！模式吧！战斗模式！"/>
+		<string name="n1" value="只有强者才能维持和平。"/>
+		<string name="d0" value="变强或者离开或者给我拿个三明治！"/>
+		<string name="d1" value="联合力量是唯一重要的力量...除非你独自一人。"/>
+	</imgdir>
+    <imgdir name="9070010">
+		<string name="name" value="神秘之门"/>
+		<string name="d0" value="一股奇怪的能量从这个东西上涌出..."/>
+	</imgdir>
+    <imgdir name="9070011">
+		<string name="name" value="神秘之门"/>
+		<string name="d0" value="一股奇怪的能量从这个东西上涌出..."/>
+	</imgdir>
+    <imgdir name="9071000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="欢迎来到怪物公园！你会在这里玩得很开心。"/>
+		<string name="n1" value="你不好奇在这里会有什么样的经历吗？"/>
+		<string name="d0" value="欢迎来到怪物公园，一个充满快乐和怪物的地方！"/>
+		<string name="d1" value="你不好奇在这里会有什么样的经历吗？"/>
+	</imgdir>
+    <imgdir name="9071001">
+		<string name="name" value="Laku"/>
+		<string name="s0" value="如果你想要什么物品，告诉我就行。"/>
+		<string name="func" value="商人"/>
+	</imgdir>
+    <imgdir name="9071002">
+		<string name="name" value="Mary"/>
+		<string name="s0" value="进入怪物公园需要入场券。"/>
+		<string name="func" value="票务兑换员"/>
+	</imgdir>
+    <imgdir name="9071003">
+		<string name="name" value="怪物公园穿梭机"/>
+	</imgdir>
+    <imgdir name="9071004">
+		<string name="name" value="门"/>
+	</imgdir>
+    <imgdir name="9071005">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="如果你想离开，告诉我就行。"/>
+		<string name="n1" value="你不好奇在这里会有什么样的经历吗？"/>
+	</imgdir>
+    <imgdir name="9071006">
+		<string name="name" value="Spiegelette"/>
+		<string name="n0" value="欢迎来到我的怪物公园。我的员工身上不会有一点肉汁污渍！"/>
+		<string name="n1" value="我很高兴我看起来一点都不像我称之为兄弟的那个满嘴芥末味的笨蛋。"/>
+		<string name="d0" value="尽管我哥哥有明显的问题，但他做得相当不错。"/>
+		<string name="d1" value="我很高兴我看起来一点都不像我称之为兄弟的那个满嘴芥末味的笨蛋。"/>
+	</imgdir>
+    <imgdir name="9071007">
+		<string name="name" value="Spiegelette"/>
+		<string name="n0" value="你想看boss吗？我有个boss给你看！"/>
+		<string name="n1" value="尽管我哥哥有明显的问题，但他做得相当不错。"/>
+	</imgdir>
+    <imgdir name="9072000">
+		<string name="name" value="Irvin教官"/>
+		<string name="n0" value="我会便宜租给你一架好飞机。怎么样？"/>
+		<string name="n1" value="这架飞机和我一起经历了很多。我不能把这个给你。"/>
+		<string name="func" value="飞机租赁"/>
+		<string name="d0" value="你能想象在自己的飞机上翱翔天空的感觉吗？"/>
+		<string name="d1" value="驾驶飞机时必须始终保持谨慎。"/>
+	</imgdir>
+    <imgdir name="9072100">
+		<string name="name" value="Neville"/>
+		<string name="func" value="副武器商人"/>
+		<string name="s0" value="我不能告诉你我从哪里得到这些东西...否则。"/>
+		<string name="s1" value="这是谁的命令？嗯...这是个秘密。"/>
+		<string name="s2" value="让我看看...我的库存很充足。"/>
+		<string name="s3" value="如果你不知道如何使用，你的武器再好也没用。"/>
+	</imgdir>
+    <imgdir name="9072101">
+		<string name="name" value="Neville"/>
+		<string name="func" value="副武器商人"/>
+		<string name="s0" value="我不能告诉你我从哪里得到这些东西...否则。"/>
+		<string name="s1" value="这是谁的命令？嗯...这是个秘密。"/>
+		<string name="s2" value="让我看看...我的库存很充足。"/>
+		<string name="s3" value="如果你不知道如何使用，你的武器再好也没用。"/>
+	</imgdir>
+    <imgdir name="9073000">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="救命！我的腿受伤了..."/>
+		<string name="d1" value="我们有一段有趣的关系。我相信我们会再见面的。"/>
+		<string name="n0" value="嗯...最近可疑人员有所增加。"/>
+		<string name="n1" value="一片巨大的黑暗似乎正在逼近。如果我们聚集力量，和平将永远持续，不是吗？"/>
+	</imgdir>
+    <imgdir name="9073001">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="这些发出蓝光的柱子是什么？"/>
+		<string name="d1" value="你非常熟练。总有一天我们会需要你的力量。"/>
+		<string name="n0" value="奇怪的事情不断发生。这里到底发生了什么？"/>
+	</imgdir>
+    <imgdir name="9073002">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="你是谁？我很忙，别打扰我。"/>
+		<string name="d1" value="你不认为至少应该能够保护自己吗？你需要更努力地训练。"/>
+		<string name="n0" value="什么...这是什么..."/>
+		<string name="n1" value="你必须找出神秘之门真正是什么。有些事情很可疑。"/>
+	</imgdir>
+    <imgdir name="9073003">
+		<string name="name" value="Bastille"/>
+		<string name="n0" value="天气真好，不是吗？这是和我的宠物Muffins一起散步的好日子。"/>
+		<string name="n1" value="不要害怕Muffins。他很可爱温顺。"/>
+		<string name="d0" value="你是什么样的人？我喜欢正直和负责任的人。哈哈哈。"/>
+		<string name="d1" value="不要轻易暴露你的身份。你可能有危险。"/>
+	</imgdir>
+</imgdir>

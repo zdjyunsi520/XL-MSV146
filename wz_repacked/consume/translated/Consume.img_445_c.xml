@@ -1,0 +1,81 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046922">
+		<string name="name" value="传说单手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+8\r\n魔法攻击：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046923">
+		<string name="name" value="传说单手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+9\r\n魔法攻击：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046924">
+		<string name="name" value="传说单手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+10\r\n魔法攻击：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046933">
+		<string name="name" value="战国单手武器攻击卷轴"/>
+		<string name="desc" value="提升单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n武器攻击+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046934">
+		<string name="name" value="战国单手武器魔法攻击卷轴"/>
+		<string name="desc" value="提升单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046935">
+		<string name="name" value="战国单手武器攻击卷轴"/>
+		<string name="desc" value="提升单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n武器攻击：+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046936">
+		<string name="name" value="战国单手武器魔法攻击卷轴"/>
+		<string name="desc" value="提升单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击：+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046937">
+		<string name="name" value="战国单手武器攻击卷轴"/>
+		<string name="desc" value="提升单手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n武器攻击+2\r\n命中率：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046938">
+		<string name="name" value="战国单手武器魔法攻击卷轴"/>
+		<string name="desc" value="提升单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n魔法攻击+2\r\n命中率：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2100286">
+		<string name="name" value="森兰丸召唤袋"/>
+	</imgdir>
+    <imgdir name="2100287">
+		<string name="name" value="森兰丸召唤袋"/>
+	</imgdir>
+    <imgdir name="2100288">
+		<string name="name" value="束缚阴阳师召唤袋"/>
+	</imgdir>
+    <imgdir name="2100289">
+		<string name="name" value="治愈阴阳师召唤袋"/>
+	</imgdir>
+    <imgdir name="2100294">
+		<string name="name" value="森兰丸召唤袋"/>
+	</imgdir>
+    <imgdir name="2100295">
+		<string name="name" value="森兰丸召唤袋"/>
+	</imgdir>
+    <imgdir name="2100296">
+		<string name="name" value="束缚阴阳师召唤袋"/>
+	</imgdir>
+    <imgdir name="2100297">
+		<string name="name" value="治愈阴阳师召唤袋"/>
+	</imgdir>
+    <imgdir name="2100298">
+		<string name="name" value="地狱阴阳师召唤袋"/>
+	</imgdir>
+    <imgdir name="2100299">
+		<string name="name" value="烈焰召唤袋"/>
+	</imgdir>
+    <imgdir name="2210084">
+		<string name="name" value="变身药水"/>
+		<string name="desc" value="将你变成高级织田侦察兵，持续15秒。"/>
+	</imgdir>
+</imgdir>

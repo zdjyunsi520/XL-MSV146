@@ -1,0 +1,5 @@
+<imgdir name="5221052">
+        <string name="name" value="丑八怪炸弹" />
+        <string name="desc" value="发射一个超级奇怪的炸弹...你这是在哪买的啊？" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount\n冷却时间：#cooltime秒" />
+    </imgdir>

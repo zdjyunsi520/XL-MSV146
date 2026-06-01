@@ -1,0 +1,5 @@
+<imgdir name="31121053">
+        <string name="name" value="为了自由" />
+        <string name="desc" value="凝聚反抗军的意志，提升攻击力。" />
+        <string name="h" value="恶魔之力消耗：#forceCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。适用于队伍中所有反抗军职业" />
+    </imgdir>

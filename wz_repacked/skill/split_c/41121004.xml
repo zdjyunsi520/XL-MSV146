@@ -1,0 +1,5 @@
+<imgdir name="41121004">
+        <string name="name" value="晓之花" />
+        <string name="desc" value="治愈所有异常状态。冷却时间随技能等级提升而缩短。" />
+        <string name="h" value="消耗MP：#mpCon，冷却时间：#cooltime秒" />
+    </imgdir>

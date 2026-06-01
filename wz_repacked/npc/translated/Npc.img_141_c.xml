@@ -1,0 +1,113 @@
+<imgdir name="Npc.img">
+    <imgdir name="2161013">
+		<string name="name" value="Glibber"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="成功来到这座古城，干得好。"/>
+		<string name="n1" value="我有一些相当不错的东西要卖。"/>
+		<string name="n2" value="虽然比不上城里的商店，但你也不在城里，对吧？"/>
+	</imgdir>
+    <imgdir name="2161014">
+		<string name="name" value="Von Leon"/>
+		<string name="func" value="狮子王"/>
+		<string name="n0" value="...我们必须交谈吗？剩下的只有战斗..."/>
+		<string name="n1" value="攻击我！把你的言语和逻辑抛在脑后！"/>
+		<string name="d0" value="言语毫无意义。只有行动才重要...这是岁月教会我的。"/>
+		<string name="d1" value="言语毫无意义。只有行动才重要...这是岁月教会我的。"/>
+	</imgdir>
+    <imgdir name="9001109">
+		<string name="name" value="聪明月兔"/>
+		<string name="n0" value="是的，我要通过吃人类的烧烤来研究人类..."/>
+		<string name="n1" value="研究报告...相似之处...人类和月兔..."/>
+		<string name="d0" value="月亮属于月兔，Maple世界属于人类。人类在他们的星球上扩散，就像我们兔子一样。我正在研究人类历史..."/>
+		<string name="d1" value="美味的烧烤！年糕属于月兔，烧烤属于人类。我一直在更多地了解人类！"/>
+	</imgdir>
+    <imgdir name="9001110">
+		<string name="name" value="研磨精灵兔"/>
+	</imgdir>
+    <imgdir name="9001111">
+		<string name="name" value="聪明月兔"/>
+		<string name="n0" value="是的，我要通过吃掉他们...吃掉他们所有的烧烤来研究人类。"/>
+		<string name="n1" value="研究报告...相似之处...人类和月兔..."/>
+		<string name="d0" value="月亮属于月兔，就像Maple世界属于人类一样。"/>
+		<string name="d1" value="我非常喜欢你的人类烧烤！等等，我是这么说的吗？"/>
+	</imgdir>
+    <imgdir name="9001112">
+		<string name="name" value="月兔女士"/>
+		<string name="n0" value="欢迎来到月球。"/>
+		<string name="n1" value="尝尝美味的甜年糕。"/>
+		<string name="d0" value="16年来我只做年糕。我是大师！"/>
+		<string name="d1" value="16年来我只做年糕。我是大师！"/>
+	</imgdir>
+    <imgdir name="9001113">
+		<string name="name" value="小月兔"/>
+		<string name="n0" value="欢迎来到月球。"/>
+		<string name="n1" value="尝尝美味的甜年糕。"/>
+		<string name="d0" value="16年来我只做年糕。我是大师！"/>
+		<string name="d1" value="16年来我只做年糕。我是大师！"/>
+	</imgdir>
+    <imgdir name="9010024">
+		<string name="name" value="Cassandra评委"/>
+	</imgdir>
+    <imgdir name="9010025">
+		<string name="name" value="Admin评委"/>
+	</imgdir>
+    <imgdir name="9010026">
+		<string name="name" value="Gaga评委"/>
+	</imgdir>
+    <imgdir name="9010027">
+		<string name="name" value="评委们"/>
+		<string name="func" value="Maple偶像"/>
+		<string name="n0" value="欢迎来到全国问答节目海选！在Maple偶像上测试你的问答才能！"/>
+		<string name="n1" value="喜欢问答？来参加Maple偶像比赛！"/>
+		<string name="d0" value="您可以在2010年12月18日至2011年1月8日期间，每周六下午2:30至午夜参加Maple偶像。"/>
+		<string name="d1" value="您可以在2010年12月18日至2011年1月8日期间，每周六下午2:30至午夜参加Maple偶像。"/>
+	</imgdir>
+    <imgdir name="9010028">
+		<string name="name" value="承诺"/>
+	</imgdir>
+    <imgdir name="9010029">
+		<string name="name" value="旅游信息板"/>
+	</imgdir>
+    <imgdir name="9010030">
+		<string name="name" value="Hooper"/>
+		<string name="n0" value="如果你有任何寻宝'你输了'纸条，把它们带给我。"/>
+		<string name="n1" value="我会用寻宝'你输了'纸条换一些好吃的东西。"/>
+		<string name="func" value="增益物品商人"/>
+	</imgdir>
+    <imgdir name="9010031">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="我是Cygnus，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="我来为所有为Maple世界战斗的勇敢骑士加油。\r\n"/>
+		<string name="d0" value="我是Cygnus，我将成为下一个Maple新星。感谢你的支持！\r\n"/>
+	</imgdir>
+    <imgdir name="9010032">
+		<string name="name" value="Valerie"/>
+		<string name="n0" value="我叫Valerie，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="我来代表所有海盗。\r\n"/>
+		<string name="d0" value="嘿，我叫Valerie，我正在参加成为Maple新星的挑战。我只想对所有崇拜我的粉丝说声谢谢！"/>
+	</imgdir>
+    <imgdir name="9010033">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="我是Lilin，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="我永远不会放弃！\r\n"/>
+		<string name="d0" value="你好，我叫Lilin，我正在参加成为Maple新星的挑战。我会尽我最大的努力来感谢你们的支持！"/>
+	</imgdir>
+    <imgdir name="9010034">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="我是Cygnus，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="准备好迎接一场精彩的表演！\r\n"/>
+		<string name="d0" value="你好，我叫Cygnus，我正在参加成为Maple新星的挑战。我承诺会全力以赴。"/>
+	</imgdir>
+    <imgdir name="9010035">
+		<string name="name" value="Valerie"/>
+		<string name="n0" value="我叫Valerie，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="我会展示海盗的实力！\r\n"/>
+		<string name="d0" value="嘿，我叫Valerie，我正在参加成为Maple新星的挑战。你准备好帮我了吗？"/>
+	</imgdir>
+    <imgdir name="9010036">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="我是Lilin，我将成为下一个Maple新星！\r\n"/>
+		<string name="n1" value="你对我的信任是值得的。我保证！\r\n"/>
+		<string name="d0" value="你好，我叫Lilin，我正在参加成为Maple新星的挑战。我承诺会全力以赴！"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="209">
+			<string name="title" value="9. The Darkness Returns" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="Even without a Seal Stone, you knew you couldn't give up on Maple Island." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="As you and the others rebuilt Maple Island, brick by  brick, a darkness crept back toward the island." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="It was as dark as night, but you recognized it... the Black Mage's Shadow." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="His shadow held but a fraction of the Black Mage's true powers..." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="...yet not even your most powerful strikes could maim it." />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="The others grew weary, as you fought futilely. The end was nigh." />
+				</imgdir>
+				<imgdir name="6">
+					<string name="text" value="Your friends poured the last of their strength into you. You knew it wouldn't be enough, but you were determined to try. Suddenly, a mystic glow poured out of you and a Maple Leaf floated before your eyes." />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

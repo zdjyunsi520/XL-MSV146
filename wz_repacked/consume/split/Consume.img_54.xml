@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022711">
+		<string name="name" value="Carbonated Drink"/>
+		<string name="desc" value="A carbonated drink made by Surl. Perfect for a hot day! Recovers 1000 HP and 1000 MP."/>
+	</imgdir>
+    <imgdir name="2022712">
+		<string name="name" value="Acorn"/>
+		<string name="desc" value="An acorn that can be obtained from the Fruit Trees in Edelstein. Recovers 70 HP and 70 MP."/>
+	</imgdir>
+    <imgdir name="2022714">
+		<string name="name" value="White Song Pyun"/>
+		<string name="desc" value="This Song Pyun is made with rice flour and it is a perfect for a Korean New Years Snack. \n#cRecovers 400 Hp/Mp#"/>
+	</imgdir>
+    <imgdir name="2022715">
+		<string name="name" value="Mugwort Song Pyun"/>
+		<string name="desc" value="This Song Pyun is made with rice flour and Mugworts. It is a perfect for a Korean New Years Snack. \n#cRecovers 800 Hp/Mp#"/>
+	</imgdir>
+    <imgdir name="2022716">
+		<string name="name" value="Pink Song Pyun"/>
+		<string name="desc" value="This Song Pyun is made with rice flour and Red Mango Syrup. It is a perfect for a Korean New Years Snack. \n#cRecovers 1200 Hp/Mp#"/>
+	</imgdir>
+    <imgdir name="2022717">
+		<string name="name" value="Golden Song Pyun"/>
+		<string name="desc" value="This Song Pyun is made with rice flour and Gardenia Extract. It is a perfect for a Korean New Years Snack. \n#cRecovers 1600 Hp/Mp#"/>
+	</imgdir>
+    <imgdir name="2022718">
+		<string name="name" value="Ani's Power Buff"/>
+		<string name="desc" value="Uses the power of the Buff Zone to increase Weapon ATT +30 and Magic ATT +30 for 30 sec."/>
+	</imgdir>
+    <imgdir name="2022719">
+		<string name="name" value="Ani's Box"/>
+		<string name="desc" value="A box given to the ones who have defeated Ani as a reward. If you open the box, you could obtain rare treasures."/>
+	</imgdir>
+    <imgdir name="2022720">
+		<string name="name" value="Power Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2022721">
+		<string name="name" value="Baked Rice Cake Stick"/>
+		<string name="desc" value="A long, thin, baked rice cake. Tasty!\n#cDuration: 30 min#\n#cWeapon ATT +10#\n#cMagic ATT +10#"/>
+	</imgdir>
+    <imgdir name="2022722">
+		<string name="name" value="Dr. Kim's Expectations"/>
+		<string name="desc" value="You can feel the high expectations that Dr. Kim has for those who have great potential.\n#cDuration : 10 minutes#\n#cWeapon Attack +30#\n#cMagic Attack +30#"/>
+	</imgdir>
+    <imgdir name="2022723">
+		<string name="name" value="Chryse Salvation Box"/>
+		<string name="desc" value="A box that is given to those who have saved Chryse from disaster.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022724">
+		<string name="name" value="Powerful Winter Energy"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 20 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022725">
+		<string name="name" value="Cold Winter Energy"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 20 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022726">
+		<string name="name" value="Winter Rage"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 10 and Accuracy and Avoidability by 5 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022727">
+		<string name="name" value="Winter Freeze"/>
+		<string name="desc" value="Increases Weapon Attack and Magic Attack by 10 and Accuracy and Avoidability by 5 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022728">
+		<string name="name" value="Happy Winter"/>
+		<string name="desc" value="Increases EXP gained from hunting monsters for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022729">
+		<string name="name" value="Enjoyable Winter"/>
+		<string name="desc" value="Greatly increases EXP gained from hunting monsters  for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022730">
+		<string name="name" value="Bountiful Winter"/>
+		<string name="desc" value="Increases item drops for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022731">
+		<string name="name" value="Lucky Winter"/>
+		<string name="desc" value="Greatly increases item drops for 30 minutes."/>
+	</imgdir>
+</imgdir>

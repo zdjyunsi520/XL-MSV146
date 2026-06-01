@@ -1,0 +1,7 @@
+<imgdir name="31111005">
+        <string name="name" value="腐尸之息" />
+        <string name="desc" value="召唤毒之恶魔的恐怖气息来同时攻击多个敌人。目标在短时间内持续受到伤害，之后一周都吃不下饭。" />
+        <string name="h" value="HP消耗：#hpCon，怒气消耗：#forceCon。按住技能键时 - 伤害：#damage%，最大攻击怪物数：#mobCount，攻击次数：#attackCount。中毒持续伤害：每#dotInterval秒造成#dot%伤害，持续#dotTime秒。" />
+        <string name="pdesc" value="召唤毒之恶魔的恐怖气息来同时攻击多个敌人。目标在短时间内持续受到伤害，之后一周都吃不下饭。" />
+        <string name="ph" value="HP消耗：#hpCon，怒气消耗：#forceCon。按住技能键时 - 伤害：#damage%，最大攻击怪物数：#mobCount，攻击次数：#attackCount。中毒持续伤害：每#dotInterval秒造成#dot%伤害，持续#dotTime秒。" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="31011001">
+        <string name="name" value="Overload Release" />
+        <string name="desc" value="Cancels Exceed’s Overload debuf, increases max HP, and restores HP.\r\n#cCan only be used when Overload is maxed out.#" />
+        <string name="h" value="Resets Overload to 0. Duration: #time sec, Max HP: +#indieMhpR%, HP Restored: #x%" />
+    </imgdir>

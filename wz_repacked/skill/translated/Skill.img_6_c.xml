@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="0001025"><string name="name" value="魔法木马"/><string name="desc" value="[大师等级：1]\n骑上木马坐骑出发吧！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001026"><string name="name" value="翱翔"/><string name="desc" value="[大师等级：1]\n借助龙族神秘力量在天空中自由翱翔！小心坠落会受到巨大伤害哦～\n启动消耗90 MP，激活期间每秒消耗1 MP。"/><string name="h1" value="MP Cost (to activate): 90 MP, MP Cost (while active): 1 MP/sec"/></imgdir>
+    <imgdir name="0001027"><string name="name" value="鳄鱼坐骑"/><string name="desc" value="[大师等级：1]\n骑上鳄鱼坐骑出发吧！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001028"><string name="name" value="复古小摩托"/><string name="desc" value="[大师等级：1]\n骑上复古小摩托兜风去～"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001029"><string name="name" value="可爱小摩托"/><string name="desc" value="[大师等级：1]\n骑上可爱小摩托兜风去～"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001030"><string name="name" value="筋斗云"/><string name="desc" value="[大师等级：1]\n腾云驾雾，踏上筋斗云！"/><string name="h1" value="MP -10, Weapon and Magic Attack +10, Speed +140, Jump +120"/></imgdir>
+    <imgdir name="0001031"><string name="name" value="巴洛古坐骑"/><string name="desc" value="[大师等级：1]\n骑上威风凛凛的巴洛古！"/><string name="h1" value="MP -10, Weapon and Magic Attack +10, Speed +140, Jump +120"/></imgdir>
+    <imgdir name="0001033"><string name="name" value="F1赛车"/><string name="desc" value="[大师等级：1]\n骑上超级赛车出发吧！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001034"><string name="name" value="猛虎坐骑"/><string name="desc" value="[大师等级：1]\n骑上猛虎驰骋大地！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001035"><string name="name" value="雾之巴洛古"/><string name="desc" value="[大师等级：1]\n骑上神秘的雾之巴洛古！"/><string name="h1" value="MP -10, Weapon and Magic DEF +10, Speed +140, Jump +120"/></imgdir>
+    <imgdir name="0001036"><string name="name" value="雄狮坐骑"/><string name="desc" value="[大师等级：1]\n骑上雄狮威风出行！"/><string name="h1" value="Consumes 10 MP, WEAPON and MAGIC DEF +10, SPEED 140, JUMP 120"/></imgdir>
+    <imgdir name="0001037"><string name="name" value="独角兽坐骑"/><string name="desc" value="[大师等级：1]\n骑上梦幻的独角兽奔驰！"/><string name="h1" value="Consumes 10 MP, WEAPON and MAGIC DEF +10, SPEED 170, JUMP 120"/></imgdir>
+    <imgdir name="0001038"><string name="name" value="低底盘机车"/><string name="desc" value="[大师等级：1]\n骑上低底盘机车酷炫出行！"/><string name="h1" value="Consumes 10 MP, WEAPON and MAGIC DEF +10, SPEED 140, JUMP 120"/></imgdir>
+    <imgdir name="0001039"><string name="name" value="红色卡车"/><string name="desc" value="[大师等级：1]\n驾驶红色大卡车到处跑！"/><string name="h1" value="Consumes 10 MP, WEAPON and MAGIC DEF +10, SPEED 140, JUMP 120"/></imgdir>
+    <imgdir name="0001040"><string name="name" value="石像鬼坐骑"/><string name="desc" value="[大师等级：1]\n骑上石像鬼翱翔天空！"/><string name="h1" value="Consumes 10 MP, WEAPON and MAGIC DEF +10, SPEED 140, JUMP 120"/></imgdir>
+    <imgdir name="0001042"><string name="name" value="神兽坐骑"/><string name="desc" value="[大师等级：1]\n骑上神兽威风出行！"/><string name="h1" value="MP -10, Weapon and Magic DEF +10, Speed +140, Jump +120"/></imgdir>
+    <imgdir name="0001044"><string name="name" value="橙色蘑菇坐骑"/><string name="desc" value="[大师等级：1]\n骑上可爱的橙色蘑菇蹦蹦跳跳！"/><string name="h1" value="MP -10, Weapon and Magic DEF +10, Speed 140, Jump +120"/></imgdir>
+    <imgdir name="0001045"><string name="name" value="直升机"/><string name="desc" value="[大师等级：1]\n驾驶直升机在空中自由翱翔！"/><string name="h1" value="MP -10, DEF and M. DEF +10, Speed +140, Jump +120"/></imgdir>
+    <imgdir name="0001046"><string name="name" value="宇宙飞船"/><string name="desc" value="[大师等级：2]\n乘坐宇宙飞船！连续按两次左右方向键可以提升移动和跳跃能力。#c有效期至：2010年6月15日午夜#"/><string name="h1" value="Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"/><string name="h2" value="Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"/></imgdir>
+    <imgdir name="0001047"><string name="name" value="太空冲刺"/><string name="desc" value="[大师等级：1]\n连续按两次左右方向键提升移动和跳跃能力。#c有效期至2010年6月15日午夜# "/></imgdir>
+</imgdir>

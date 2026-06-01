@@ -1,0 +1,5 @@
+<imgdir name="1221015">
+        <string name="name" value="虚空元素" />
+        <string name="desc" value="短时间内大幅提升伤害。#c所有冲锋技能和圣光强击无视敌人属性#。永久提升除神圣冲锋外所有冲锋技能的伤害。不受战斗命令影响~" />
+        <string name="h" value="MP消耗: #mpCon，总伤害: +#indieDamR%，持续时间: #time秒。#c所有冲锋技能和圣光强击无视敌人属性的#x%#\n[被动效果: 提升火焰冲锋、圣光强击、闪电冲锋技能伤害#damR%]" />
+    </imgdir>

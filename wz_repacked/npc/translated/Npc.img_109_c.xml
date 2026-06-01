@@ -1,0 +1,102 @@
+<imgdir name="Npc.img">
+    <imgdir name="2111000">
+		<string name="name" value="Carson"/>
+		<string name="func" value="Zenumist会长"/>
+		<string name="n0" value="真正的炼金术与魔力有关。"/>
+		<string name="n1" value="这里是Zenumist，为寻求纯净炼金术的炼金术士们。"/>
+		<string name="d0" value="传统产生巨大的力量。自从黑魔法师时代以来，只有Zenumist一直在发展炼金术。"/>
+		<string name="d1" value="炼金术和炼金术士...两者都很重要。但比这更重要的是马加提亚对我们的宽容。我必须保护马加提亚的荣誉。"/>
+	</imgdir>
+    <imgdir name="2111001">
+		<string name="name" value="Maed"/>
+		<string name="func" value="Alcadno会长"/>
+		<string name="n0" value="以貌取人是愚蠢的。"/>
+		<string name="n1" value="纯净炼金术有其局限性。如果你想超越你的极限，加入Alcadno。"/>
+		<string name="d0" value="Zenumist...我知道他们说什么。他们不喜欢将生命能量与机器融合。他们只是害怕！追求纯净炼金术不会通向未来。"/>
+		<string name="d1" value="还没有人知道什么更重要。谁知道我们谁是对的？谁知道如何在正确的谎言和愚蠢的真相之间做出选择...?"/>
+	</imgdir>
+    <imgdir name="2111002">
+		<string name="name" value="De Lang博士"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="这不是错的吗...?"/>
+		<string name="d1" value="这个实验可能是错的...但我不能放弃。为了她和Keeny。"/>
+	</imgdir>
+    <imgdir name="2111003">
+		<string name="name" value="人形A"/>
+		<string name="n0" value="我希望至少能闻一次花香..."/>
+		<string name="n1" value="你从哪里来？不是从烧杯里来的吧...?"/>
+		<string name="d0" value="我的情感是真实的吗？还是只是机械错误造成的幻觉？"/>
+		<string name="d1" value="我想成为人类...拥有一颗温暖的心...然后...我可以握住她的手。"/>
+	</imgdir>
+    <imgdir name="2111004">
+		<string name="name" value="Phyllia"/>
+		<string name="n0" value="这不是很美吗？即使它是由炼金术驱动的。"/>
+		<string name="n1" value="我们有Keeny真是幸运。没有Keeny会有多糟糕..."/>
+		<string name="d0" value="尽管炼金术士和精灵彼此反感，但我可以留在这个城镇，因为Zenumist会长一直在保护我们。"/>
+		<string name="d1" value="我以前住在天空之城。和我哥哥在云公园散步很愉快。"/>
+	</imgdir>
+    <imgdir name="2111005">
+		<string name="name" value="Keeny"/>
+		<string name="n0" value="Keeny喜欢学习炼金术！"/>
+		<string name="n1" value="*咳嗽！*啊...我止不住咳嗽..."/>
+		<string name="d0" value="几乎所有马加提亚人都是炼金术士。每个人都专注于炼金术。所以...马加提亚总是很安静。"/>
+		<string name="d1" value="Keeny喜欢人形！我能从人形A的眼睛里感受到温暖。"/>
+	</imgdir>
+    <imgdir name="2111006">
+		<string name="name" value="Parwen"/>
+		<string name="d0" value="*咕嘟*为什么这里只有幽灵...?"/>
+		<string name="d1" value="因为我在实验室待了很长时间，我认识了很多人。但他们不认识我。"/>
+	</imgdir>
+    <imgdir name="2111007">
+		<string name="name" value="Han the Broker"/>
+		<string name="n0" value="秘密而清楚地交易。"/>
+		<string name="n1" value="只要价格合适，我会为你弄到任何你想要的东西。"/>
+		<string name="d0" value="嗯...不要因为我是黑市经纪人就怀疑我。我靠信任做生意...而且我信誉良好。"/>
+		<string name="d1" value="我在马加提亚待了一段时间...除了那个案件，我知道马加提亚发生的一切。"/>
+	</imgdir>
+    <imgdir name="2111008">
+		<string name="name" value="Bedin"/>
+		<string name="n0" value="制作核心的魔法公式太难了。"/>
+		<string name="n1" value="为什么Alcadno要那样坚持机器？"/>
+		<string name="d0" value="明确你的立场！你是Zenumist还是Alcadno？"/>
+		<string name="d1" value="不是所有事情都能被证明是正当的。机器永远不能成为人类。"/>
+	</imgdir>
+    <imgdir name="2111009">
+		<string name="name" value="Russellon"/>
+		<string name="n0" value="你知道长生不老药的主要成分是诅咒之眼的眼睛吗？"/>
+		<string name="n1" value="只有Zenumist是真正的炼金术士，但是...他们太保守和无聊了。"/>
+		<string name="d0" value="Alcadno当然不算...嘿嘿嘿...傻瓜看不到重要的东西..."/>
+		<string name="d1" value="Zenumist的研究值得尊敬...但它太难了，无法被所有人使用...与Zenumist相比，Alcadno更有用...为什么Zenumist不愿意承认这一点？"/>
+	</imgdir>
+    <imgdir name="2111010">
+		<string name="name" value="Alcadno的内阁"/>
+	</imgdir>
+    <imgdir name="2111013">
+		<string name="name" value="画框"/>
+	</imgdir>
+    <imgdir name="2111016">
+		<string name="name" value="De Lang博士的秘密书"/>
+	</imgdir>
+    <imgdir name="2111017">
+		<string name="name" value="第一管道手柄"/>
+	</imgdir>
+    <imgdir name="2111018">
+		<string name="name" value="第二管道手柄"/>
+	</imgdir>
+    <imgdir name="2111019">
+		<string name="name" value="第三管道手柄"/>
+	</imgdir>
+    <imgdir name="2111020">
+		<string name="name" value="第一魔法五角星"/>
+	</imgdir>
+    <imgdir name="2111021">
+		<string name="name" value="第二魔法五角星"/>
+	</imgdir>
+    <imgdir name="2111022">
+		<string name="name" value="第三魔法五角星"/>
+	</imgdir>
+    <imgdir name="2111023">
+		<string name="name" value="魔法五角星中心"/>
+	</imgdir>
+</imgdir>

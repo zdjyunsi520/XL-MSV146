@@ -1,0 +1,5 @@
+<imgdir name="30020234">
+        <string name="name" value="多边I" />
+        <string name="desc" value="当属性达到一定阈值时，给予特殊加成。" />
+        <string name="h" value="With #x STR: #y% for Power Stance\nWith #x DEX: #z% resistance to all elements and status ailments\nWith #x LUK: #u% Avoidability\nWith #x STR, DEX, and LUK: +#w% total damage" />
+    </imgdir>

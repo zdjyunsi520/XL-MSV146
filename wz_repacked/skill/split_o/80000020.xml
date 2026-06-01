@@ -1,0 +1,5 @@
+<imgdir name="80000020">
+        <string name="name" value="Lv. 1 Dragon Blessing" />
+        <string name="desc" value="Increases both Weapon and Magic Attack by 3 with dragon energy." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT: +#madX" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2047966">
+		<string name="name" value="Evolution Armor Enchantment Scroll"/>
+		<string name="desc" value="Enchant Armor."/>
+		<string name="autodesc" value="\r\n#c\r\nSuccess Rate: 50%\r\nMax HP +75\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047967">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR+2\r\nWeapon DEF +10\r\n#"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="name" value="Scroll for Armor for STR 60%"/>
+	</imgdir>
+    <imgdir name="2047968">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nSTR+2\r\n#"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="name" value="Scroll for Armor for STR 80%"/>
+	</imgdir>
+    <imgdir name="2047969">
+		<string name="name" value="Evolution Armor Intensification Scroll"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="autodesc" value="\r\n#c\r\nSuccess Rate: 50%\r\nSTR +3\r\nDEX+3\r\nINT +3\r\nLUK +3\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047970">
+		<string name="name" value="Evolution Armor Enchantment Scroll"/>
+		<string name="desc" value="Enchant Armor."/>
+		<string name="autodesc" value="\r\n#c\r\nSuccess Rate: 50%\r\nMax HP +75\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047971">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n"/>
+		<string name="desc" value="Improves Weapon/Magic ATT on armor."/>
+		<string name="name" value="RED Armor Enhancement Scroll 50%"/>
+	</imgdir>
+    <imgdir name="2048214">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\n#"/>
+		<string name="desc" value="#cDouble-click# to add another Bonus Potential line to a piece of equipment with 3 or less existing Bonus Potentials."/>
+		<string name="name" value="Superior Potential Slot Carver"/>
+	</imgdir>
+    <imgdir name="2048315">
+		<string name="autodesc" value="\r\nSuccess Rate: 100%\r\n"/>
+		<string name="desc" value="Adds Bonus Potential to equipment that does not have Bonus Potentials. Does not deduct from available upgrades. \n#cCan only be used on items that cannot have Bonus Potentials.#"/>
+		<string name="name" value="Special Bonus Potential Scroll"/>
+	</imgdir>
+    <imgdir name="2048700">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.110\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 110"/>
+	</imgdir>
+    <imgdir name="2048701">
+		<string name="autodesc" value="\r\n#cAdds random stats to equipment below Lv.120\r\nSuccess Rate: 100%#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 120"/>
+	</imgdir>
+    <imgdir name="2048702">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.130\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 130"/>
+	</imgdir>
+    <imgdir name="2048703">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.140\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 140"/>
+	</imgdir>
+    <imgdir name="2048704">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.150\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 150"/>
+	</imgdir>
+    <imgdir name="2048705">
+		<string name="autodesc" value="\r\n#cAdds random stats to equipment below Lv.120\r\nSuccess Rate: 100%#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 120"/>
+	</imgdir>
+    <imgdir name="2048706">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.130\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 130"/>
+	</imgdir>
+    <imgdir name="2048707">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.140\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 140"/>
+	</imgdir>
+    <imgdir name="2048708">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.150\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 150"/>
+	</imgdir>
+    <imgdir name="2048709">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.110\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 110"/>
+	</imgdir>
+    <imgdir name="2048710">
+		<string name="autodesc" value="\r\n#cBranding Edge only\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a Branding Edge item to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Branding Edge Rebirth Flame"/>
+	</imgdir>
+    <imgdir name="2048711">
+		<string name="autodesc" value="\r\n#cDisaster Diode only\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a Disaster Diode item to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Disaster Diode Rebirth Flame"/>
+	</imgdir>
+</imgdir>

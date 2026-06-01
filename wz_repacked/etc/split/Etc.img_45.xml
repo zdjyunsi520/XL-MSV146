@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001092">
+			<string name="name" value="Red Key"/>
+			<string name="desc" value="A special key that saps the strength of Horntail, the monster protecting the cave door."/>
+		</imgdir>
+    <imgdir name="4001093">
+			<string name="name" value="Blue Key"/>
+			<string name="desc" value="A special key that saps the strength of Horntail, the monster protecting the cave door."/>
+		</imgdir>
+    <imgdir name="4001094">
+			<string name="name" value="Nine Spirit's Egg"/>
+			<string name="desc" value="The egg of Nine Spirit that Horntail stole. Need to return the egg to its original nest."/>
+		</imgdir>
+    <imgdir name="4001095">
+			<string name="name" value="Green Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001096">
+			<string name="name" value="Purple Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001097">
+			<string name="name" value="Pink Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001098">
+			<string name="name" value="Brown Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001099">
+			<string name="name" value="Yellow Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001100">
+			<string name="name" value="Blue Primrose Seed"/>
+			<string name="desc" value="A seed that'll eventually grow into a primrose."/>
+		</imgdir>
+    <imgdir name="4001101">
+			<string name="name" value="Moon Bunny's Rice Cake"/>
+			<string name="desc" value="A chewy rice cake made by Moon Bunny."/>
+		</imgdir>
+    <imgdir name="4001102">
+			<string name="name" value="Treasure Chest"/>
+			<string name="desc" value="A chest full of rare, valuable jewelries."/>
+		</imgdir>
+    <imgdir name="4001103">
+			<string name="name" value="Cornian's Marrow"/>
+			<string name="desc" value="A solvent that contained the force of Cornian. Emits a mysterious color."/>
+		</imgdir>
+    <imgdir name="4001104">
+			<string name="name" value="Manon's Cry"/>
+			<string name="desc" value="A horn that contains the cry of Manon."/>
+		</imgdir>
+    <imgdir name="4001105">
+			<string name="name" value="Tough Dragon Skin"/>
+			<string name="desc" value="A dragon skin that is many times tougher than a regular dragon skin."/>
+		</imgdir>
+    <imgdir name="4001106">
+			<string name="name" value="Entrance Ticket to the Ludibrium Maze"/>
+			<string name="desc" value="This ticket is used to enter the Ludibrium Maze."/>
+		</imgdir>
+    <imgdir name="4001107">
+			<string name="name" value="[Storybook]Black book"/>
+			<string name="desc" value="A book with a black cover.  I got a eery and evil energy from it and could not open it. I should take it to Bishop Gritto.\nOnly for : #cBishop#"/>
+		</imgdir>
+    <imgdir name="4001108">
+			<string name="name" value="Cold Flame"/>
+			<string name="desc" value="A small flame that'll slowly build up to be a cold fire."/>
+		</imgdir>
+    <imgdir name="4001109">
+			<string name="name" value="Hardened Glass Bottle"/>
+			<string name="desc" value="A glass bottle that can hold the lava's marrow. One of the materials used while making the bottle was a diamond; thus, the bottle is multiple times more powerful than a regular glass bottle."/>
+		</imgdir>
+    <imgdir name="4001110">
+			<string name="name" value="[Storybook] Unknown Letter"/>
+			<string name="desc" value="It's an anonymous letter.  It just said #c 'I have what you want.  Meet me at the Cloud Balcony'#.\nOnly for : #cNight Lord#"/>
+		</imgdir>
+    <imgdir name="4001111">
+			<string name="name" value="[Storybook] Crimson Balrog's Proposal"/>
+			<string name="desc" value="It's half of the note about the plan to kidnap Tylus that Crimson Balrog had.\nOnly for : #c4th job Warrior#"/>
+		</imgdir>
+</imgdir>

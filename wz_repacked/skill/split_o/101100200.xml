@@ -1,0 +1,5 @@
+<imgdir name="101100200">
+        <string name="name" value="Spin Cutter" />
+        <string name="desc" value="Attacks enemies with spinning strikes. \n[Skill Requirement]: #cFlash Assaulter Lv. 1# \n[Command]: While Flash Assault is active use #cFlash Assault# again" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

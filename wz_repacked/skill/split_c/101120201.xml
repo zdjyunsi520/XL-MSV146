@@ -1,0 +1,5 @@
+<imgdir name="101120201">
+        <string name="name" value="风之突袭" />
+        <string name="desc" value="攻击前方敌人并释放旋涡~[前置技能]: #c风之切割 Lv.1#[指令]: 风之切割激活时再次使用#c风之切割#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

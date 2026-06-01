@@ -1,0 +1,8 @@
+<imgdir name="2221004">
+        <string name="name" value="无尽魔力" />
+        <string name="desc" value="允许不消耗MP使用技能，被击中时有几率发动站立效果。同时持续恢复HP和MP，提升所有攻击魔法的伤害。敌人攻击不会取消此效果。[冷却时间: 3分钟]" />
+        <string name="h" value="MP消耗: #mpCon，每4秒恢复#y% HP和MP，每4秒提升魔法攻击力伤害#damage%，站立效果发动几率: #prop%，持续时间: #time秒" />
+        <string name="pdesc" value="允许不消耗魔力使用技能，被击中时有几率发动站立效果。持续恢复HP和MP，提升所有攻击魔法的伤害。[冷却时间: 3分钟]" />
+        <string name="ph" value="MP消耗: #mpCon，每4秒恢复#y% HP和MP，每4秒提升魔法攻击力伤害#damage%，站立效果发动几率: #prop%，持续时间: #time秒" />
+        <string name="hch" value="MP消耗: #mpCon，每4秒恢复#hcHp% HP和#y% MP，魔法伤害: +#damage%每4秒，站立效果发动几率: #prop%，持续时间: #time秒" />
+    </imgdir>

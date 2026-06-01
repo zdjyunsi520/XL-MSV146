@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041302">
+		<string name="name" value="腰带强化卷轴 力量 10%"/>
+		<string name="desc" value="强化腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041303">
+		<string name="name" value="腰带强化卷轴 智力 100%"/>
+		<string name="desc" value="强化腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041304">
+		<string name="name" value="腰带强化卷轴 智力 60%"/>
+		<string name="desc" value="强化腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041305">
+		<string name="name" value="腰带强化卷轴 智力 10%"/>
+		<string name="desc" value="强化腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041306">
+		<string name="name" value="腰带强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041307">
+		<string name="name" value="腰带强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041308">
+		<string name="name" value="腰带强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041309">
+		<string name="name" value="腰带强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041310">
+		<string name="name" value="腰带强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041311">
+		<string name="name" value="腰带强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041312">
+		<string name="name" value="暗黑腰带强化卷轴 力量 70%"/>
+		<string name="desc" value="强化腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041313">
+		<string name="name" value="暗黑腰带强化卷轴 力量 30%"/>
+		<string name="desc" value="强化腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041314">
+		<string name="name" value="暗黑腰带强化卷轴 智力 70%"/>
+		<string name="desc" value="强化腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041315">
+		<string name="name" value="暗黑腰带强化卷轴 智力 30%"/>
+		<string name="desc" value="强化腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041316">
+		<string name="name" value="腰带强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041317">
+		<string name="name" value="腰带强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041318">
+		<string name="name" value="暗黑腰带强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041319">
+		<string name="name" value="暗黑腰带强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041320">
+		<string name="name" value="沉默十字腰带强化卷轴"/>
+		<string name="desc" value="赋予沉默十字腰带经验值增强效果。\n成功率：50%，全属性+2，武器/魔法防御+20，HP/MP+20。\n如果失败，装备有50%的概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2041321">
+		<string name="name" value="老兵十字腰带强化卷轴 20%"/>
+		<string name="desc" value="强化老兵十字腰带的属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：80%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+2\r\n魔法攻击：+2\r\n物理防御：+80\r\n魔法防御：+80\r\n#"/>
+	</imgdir>
+</imgdir>

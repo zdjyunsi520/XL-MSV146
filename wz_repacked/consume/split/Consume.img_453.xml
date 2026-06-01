@@ -1,0 +1,90 @@
+<imgdir name="Consume.img">
+    <imgdir name="2511159">
+		<string name="name" value="Amaterasu's Belt Recipe"/>
+		<string name="desc" value="The deciphered plans for Amaterasu's Belt. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511160">
+		<string name="name" value="Amaterasu's Epaulet Recipe"/>
+		<string name="desc" value="The deciphered plans for Amaterasu's Epaulet. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511161">
+		<string name="name" value="Oyamatsumi's Belt Recipe"/>
+		<string name="desc" value="The deciphered plans for Oyamatsumi's Belt. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511162">
+		<string name="name" value="Oyamatsumi's Epaulet Recipe"/>
+		<string name="desc" value="The deciphered plans for Oyamatsumi's Epaulet. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511163">
+		<string name="name" value="Ame-no-Uzume's Belt Recipe"/>
+		<string name="desc" value="The deciphered plans for Ame-no-Uzume's Belt. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511164">
+		<string name="name" value="Ame-no-Uzume's Epaulet Recipe"/>
+		<string name="desc" value="The deciphered plans for Ame-no-Uzume's Epaulet. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511165">
+		<string name="name" value="Tsukuyomi's Belt Recipe"/>
+		<string name="desc" value="The deciphered plans for Tsukuyomi's Belt. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511166">
+		<string name="name" value="Tsukuyomi's Epaulet Recipe"/>
+		<string name="desc" value="The deciphered plans for Tsukuyomi's Epaulet. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511167">
+		<string name="name" value="Susano-o's Belt Recipe"/>
+		<string name="desc" value="The deciphered plans for Susano-o's Belt. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2511168">
+		<string name="name" value="Susano-o's Epaulet Recipe"/>
+		<string name="desc" value="The deciphered plans for Susano-o's Epaulet. Use this to learn the crafting recipe."/>
+	</imgdir>
+    <imgdir name="2291018">
+		<string name="name" value="[Special Mastery Book] Mighty Meteor 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMighty Meteor# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291019">
+		<string name="name" value="[Special Mastery Book] Relentless 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cRelentless # to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2046966">
+		<string name="name" value="One-Handed Weapon Enchant Scroll 50%"/>
+		<string name="desc" value="Enchant One-Handed Weapon."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate 50%\r\nChance to destroy item on failure: 100%\r\nHP +50\r\nMP +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2046967">
+		<string name="name" value="Pinnacle Scroll for One-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon ATT and adds all stats on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046969">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +2#"/>
+	</imgdir>
+    <imgdir name="2046970">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 70%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic ATT: +2#"/>
+	</imgdir>
+    <imgdir name="2046971">
+		<string name="name" value="Pinnacle Scroll for One-Handed Weapon for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic ATT and adds all stats on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046978">
+		<string name="name" value="Unleashed Scroll for One-Handed Weapon for ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +5\r\nINT: +5\r\nDEX: +5\r\nLUK: +5\r\nWeapon Attack +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046979">
+		<string name="name" value="Unleashed Scroll for One-Handed Weapon for Magic ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +5\r\nINT: +5\r\nDEX: +5\r\nLUK: +5\r\nMagic Attack +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046987">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +3\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="name" value="Vision Scroll for One-Handed Weapon for ATT 50%"/>
+	</imgdir>
+</imgdir>

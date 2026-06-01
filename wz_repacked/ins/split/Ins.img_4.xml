@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010096">
+		<string name="name" value="Dragon Skull Chair"/>
+		<string name="desc" value="Take a break by leaning on the Dragon Skull Chair to recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010097">
+		<string name="name" value="Strong Wooden Chair"/>
+		<string name="desc" value="A strong wooden chair personally crafted by Gustav. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010098">
+		<string name="name" value="TV Recliner"/>
+		<string name="desc" value="A new chair to recline and relax in throughout the Thanksgiving holiday.\nRecovers 60 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010099">
+		<string name="name" value="Cuddly Polar Bear"/>
+		<string name="desc" value="Cuddling with the Polar Bear for some cozy, comfy rest will recover 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010101">
+		<string name="name" value="Christmas Gift Box"/>
+		<string name="desc" value="A huge X-mas Gift Box big enough to fit a grownup. It has a message that reads, &quot;I am here for you.&quot; Sitting in it will recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010106">
+		<string name="name" value="Ryko Chair"/>
+		<string name="desc" value="Snuggle up with Aran's loyal mount, Ryko, to recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010107">
+		<string name="name" value="Dragon Egg"/>
+		<string name="desc" value="Sit on this cracked dragon egg shell and relax to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010108">
+		<string name="name" value="Baby Swing "/>
+		<string name="desc" value="Sit on this baby dragon swing to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010109">
+		<string name="name" value="Furnace Chair"/>
+		<string name="desc" value="Sit on this chair to feel the warmth from the furnace. You can recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010110">
+		<string name="name" value="Polar Bear Chair"/>
+		<string name="desc" value="Snuggle up in this cozy polar bear chair to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010111">
+		<string name="name" value="Tiger Skin Chair"/>
+		<string name="desc" value="Lean back on this imposing Tiger Skin Chair to restore 50 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010112">
+		<string name="name" value="Locker Chair"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010113">
+		<string name="name" value="Soul Teddy Chair"/>
+		<string name="desc" value="Sit on this Soul Teddy chair to recover 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010114">
+		<string name="name" value="Lord Pirate Chair"/>
+		<string name="desc" value="Sit on this Lord Pirate chair to recover 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010115">
+		<string name="name" value="Teddy Bear Bed"/>
+		<string name="desc" value="Relax in this cozy teddy bear bed to recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010116">
+		<string name="name" value="The Spirit of Rock Chair"/>
+		<string name="desc" value="A new chair that makes you feel like a Rock Star.\nRecovers 60 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010117">
+		<string name="name" value="Magic Book Chair"/>
+		<string name="desc" value="Take a break by sitting on this floating chair to recover 50 HP and 30 MP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010118">
+		<string name="name" value="Musical Note Chair"/>
+		<string name="desc" value="A chair shaped like a musical note. Recovers 100 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010119">
+		<string name="name" value="Sheep Chair"/>
+		<string name="desc" value="A special chair shaped like Sheep. Recovers 50 HP and MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010120">
+		<string name="name" value="Easter Egg Basket"/>
+		<string name="desc" value="Sit on this Easter Egg Basket for a sweet thrill of happiness.\nRecovers 40 HP and 30 MP every 10 seconds while resting."/>
+	</imgdir>
+</imgdir>

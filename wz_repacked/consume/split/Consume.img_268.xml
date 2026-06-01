@@ -1,0 +1,75 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388148">
+		<string name="name" value="Oz Card "/>
+	</imgdir>
+    <imgdir name="2388149">
+		<string name="name" value="Irena Card "/>
+	</imgdir>
+    <imgdir name="2388150">
+		<string name="name" value="Eckhart Card  "/>
+	</imgdir>
+    <imgdir name="2388151">
+		<string name="name" value="Hawkeye Card "/>
+	</imgdir>
+    <imgdir name="2388152">
+		<string name="name" value="Cygnus Card "/>
+	</imgdir>
+    <imgdir name="2388153">
+		<string name="name" value="Bodyguard A Card "/>
+	</imgdir>
+    <imgdir name="2388154">
+		<string name="name" value="Bodyguard B Card "/>
+	</imgdir>
+    <imgdir name="2390000">
+		<string name="name" value="Athena Pierce's Marble"/>
+		<string name="desc" value="A marble given by Athena Pierce. Use this to communicate with her regardless of the place. This item is good for one-time use only..."/>
+	</imgdir>
+    <imgdir name="2390001">
+		<string name="name" value="Traveling Tommy's Ticket"/>
+		<string name="desc" value="Summons Tommy the traveling merchant. #cDouble-click# to trade with Tommy."/>
+	</imgdir>
+    <imgdir name="2430000">
+		<string name="name" value="Torn Cygnus' Book Volume 1"/>
+		<string name="desc" value="When used one at a time, a special power covers my body and blesses me.  I think if I collect 20, I'll be able to read what's written inside."/>
+	</imgdir>
+    <imgdir name="2430001">
+		<string name="name" value="Torn Cygnus' Book Volume 2"/>
+		<string name="desc" value="When used one at a time, a special power covers my body and blesses me.  I think if I collect 20, I'll be able to read what's written inside."/>
+	</imgdir>
+    <imgdir name="2430002">
+		<string name="name" value="Torn Cygnus' Book Volume 3"/>
+		<string name="desc" value="When used one at a time, a special power covers my body and blesses me.  I think if I collect 20, I'll be able to read what's written inside."/>
+	</imgdir>
+    <imgdir name="2430003">
+		<string name="name" value="Cygnus Quiz"/>
+		<string name="desc" value="I can receive a reward by answering questions regarding the Cygnus Knights.  I should click on it and try."/>
+	</imgdir>
+    <imgdir name="2430004">
+		<string name="name" value="Richie Gold's Random Key Pot"/>
+		<string name="desc" value="Resets the Gold Key Room in Richie Gold's Maze."/>
+	</imgdir>
+    <imgdir name="2430005">
+		<string name="name" value="Memorial Map"/>
+		<string name="desc" value="Allows you to check your current position, along with the spot of the Gold Key Room."/>
+	</imgdir>
+    <imgdir name="2430006">
+		<string name="name" value="Mysterious Piece of Paper"/>
+		<string name="desc" value="It's full of mysterious scribbles. \n#cA quest will begin when you double-click it.#"/>
+	</imgdir>
+    <imgdir name="2430007">
+		<string name="name" value="Empty Compass"/>
+		<string name="desc" value="A compass with no markings.  However, it can be turned into a working compass if you have the letters #cN,E, W,S#."/>
+	</imgdir>
+    <imgdir name="2430008">
+		<string name="name" value="Golden Compass"/>
+		<string name="desc" value="A golden compass that reveals the location of Gold Richie's Treasure Island. \n#cBy double-clicking it# you can move to the island."/>
+	</imgdir>
+    <imgdir name="2430009">
+		<string name="name" value="Pure Perfume"/>
+		<string name="desc" value="A perfume that contains the scent of an inexperienced adventurer. \n#cBy double-clicking on it#, that scent is released to confuse monsters."/>
+	</imgdir>
+    <imgdir name="2430010">
+		<string name="name" value="Mysterious Artifact"/>
+		<string name="desc" value="An artifact with an unknown date of origin.\n#cDouble-click# on it to find out its date of origin."/>
+	</imgdir>
+</imgdir>

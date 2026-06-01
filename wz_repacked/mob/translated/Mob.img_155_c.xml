@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400760">
+		<string name="name" value="路障"/>
+	</imgdir>
+    <imgdir name="9400761">
+		<string name="name" value="路障"/>
+	</imgdir>
+    <imgdir name="9420525">
+		<string name="name" value="气罐"/>
+	</imgdir>
+    <imgdir name="9420526">
+		<string name="name" value="断电线"/>
+	</imgdir>
+    <imgdir name="9400765">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400766">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400767">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400768">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400769">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400770">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400771">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400772">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400773">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400774">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400775">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400776">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+    <imgdir name="9400777">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400778">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400779">
+		<string name="name" value="蛋糕怪物"/>
+	</imgdir>
+    <imgdir name="9400780">
+		<string name="name" value="派怪物"/>
+	</imgdir>
+</imgdir>

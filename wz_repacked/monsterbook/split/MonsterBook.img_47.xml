@@ -1,0 +1,63 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8840000">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850005">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850006">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850007">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850008">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850009">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="8850011">
+		<imgdir name="map">
+			<int name="0" value="271040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="9400112">
+		<imgdir name="map">
+			<int name="0" value="801040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="9400113">
+		<imgdir name="map">
+			<int name="0" value="801040100"/>
+		</imgdir>
+    <imgdir name="reward">
+		</imgdir>
+    <imgdir name="6500002">
+		<imgdir name="map">
+			<int name="0" value="231030000"/>
+			<int name="1" value="231030100"/>
+		</imgdir>
+</imgdir>

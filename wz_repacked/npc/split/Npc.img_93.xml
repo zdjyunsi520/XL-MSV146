@@ -1,0 +1,114 @@
+<imgdir name="Npc.img">
+    <imgdir name="9250124">
+		<string name="name" value="Future Doctor Bing"/>
+		<string name="n0" value="The past must be fixed!"/>
+		<string name="n1" value="This is all my fault."/>
+		<string name="d0" value="Do you still think I look like an alien now that you know who I am?"/>
+		<string name="d1" value="If I only I could re-live the past..."/>
+	</imgdir>
+    <imgdir name="9250136">
+		<string name="name" value="Bing Force"/>
+		<string name="n0" value="I am Bing Force, Doctor Bing's second in command!"/>
+		<string name="n1" value="This is a restricted area."/>
+	</imgdir>
+    <imgdir name="9250127">
+		<string name="name" value="OS4 Shuttle"/>
+		<string name="n0" value="Ready for departure."/>
+		<string name="n1" value="Will depart when ready."/>
+	</imgdir>
+    <imgdir name="9250128">
+		<string name="name" value="OS4 Shuttle"/>
+		<string name="n0" value="Ready for return."/>
+		<string name="n1" value="Will return when mission is complete."/>
+	</imgdir>
+    <imgdir name="9250138">
+		<string name="name" value="Black Hole Activator"/>
+		<string name="n0" value="Activating black hole!"/>
+		<string name="n1" value="Black hole activated!"/>
+	</imgdir>
+    <imgdir name="9250123">
+		<string name="name" value="???"/>
+		<string name="n0" value="Please don't follow me."/>
+		<string name="n1" value="Are you going to the Underground Passage?"/>
+	</imgdir>
+    <imgdir name="9250129">
+		<string name="name" value="Researcher S"/>
+		<string name="n0" value="Are you leaving the Secret Base?"/>
+		<string name="n1" value="I will lead you."/>
+		<string name="d0" value="Do you want to leave?"/>
+		<string name="d1" value="I am not Researcher H, okay?"/>
+	</imgdir>
+    <imgdir name="9250137">
+		<string name="name" value="Bing Force"/>
+		<string name="n0" value="Bing FORCE! Bing FORCE!"/>
+		<string name="n1" value="You leaving?"/>
+	</imgdir>
+    <imgdir name="9250143">
+		<string name="name" value="Doctor Bing at the Scene"/>
+		<string name="n0" value="Do you want to enter the mothership?"/>
+		<string name="n1" value="Don't get lost inside!"/>
+	</imgdir>
+    <imgdir name="9250200">
+		<string name="name" value="In charge of distributing quest items for tests"/>
+		<string name="n0" value="Test"/>
+		<string name="n1" value="Test"/>
+	</imgdir>
+    <imgdir name="9250146">
+		<string name="name" value="Wynn at the Scene"/>
+		<string name="n0" value="Hmm, this is very interesting..."/>
+		<string name="n1" value="Don't pass that line!"/>
+		<string name="d0" value="We are currently in the middle of our analysis."/>
+		<string name="d1" value="Please don't disturb me unless it's very important."/>
+	</imgdir>
+    <imgdir name="9250145">
+		<string name="name" value="Worm Hole to the Present"/>
+	</imgdir>
+    <imgdir name="9250147">
+		<string name="name" value="Bing"/>
+		<string name="n1" value="Hi! I am D.O.C.T.O.R. Bing!"/>
+		<string name="n0" value="We must prepare for the future!"/>
+		<string name="d0" value="I've seen you before..."/>
+		<string name="d1" value="Have we ever met?"/>
+	</imgdir>
+    <imgdir name="9250148">
+		<string name="name" value="Wynn"/>
+		<string name="d1" value="Watch out!"/>
+		<string name="n0" value="We haven't figured everything out yet..."/>
+		<string name="n1" value="What is it like inside?"/>
+		<string name="d0" value="Are you going to search the Cube?"/>
+	</imgdir>
+    <imgdir name="9250149">
+		<string name="name" value="Future Doctor Bing"/>
+	</imgdir>
+    <imgdir name="9250150">
+		<string name="name" value="Delivery Route Randall"/>
+		<string name="n0" value="Delivery successful!"/>
+		<string name="n1" value="Time to return to the base!"/>
+		<string name="d0" value="That was great!"/>
+		<string name="d1" value="Time to return now."/>
+	</imgdir>
+    <imgdir name="9250151">
+		<string name="name" value="Defense Line Randall"/>
+		<string name="n0" value="Defense successful!"/>
+		<string name="n1" value="Time to return to the base!"/>
+		<string name="d0" value="The aliens are not so powerful after all!"/>
+		<string name="d1" value="Time to return now."/>
+	</imgdir>
+    <imgdir name="9250153">
+		<string name="name" value="Public Phone"/>
+	</imgdir>
+    <imgdir name="9250154">
+		<string name="name" value="OSSS Head Researcher Wynn"/>
+		<string name="d0" value="This place is not safe."/>
+		<string name="d1" value="Be careful."/>
+		<string name="n0" value="We need to launch a more detailed investigation."/>
+		<string name="n1" value="This spaceship... I feel as I've seen it before."/>
+	</imgdir>
+    <imgdir name="9250155">
+		<string name="name" value="OSSS Researcher"/>
+		<string name="n0" value="Are you returning to town now?"/>
+		<string name="n1" value="Please talk to me if you'd like to return to town."/>
+		<string name="d0" value="Are you returning to town?"/>
+		<string name="d1" value="Please talk to me if you'd like to return to town."/>
+	</imgdir>
+</imgdir>

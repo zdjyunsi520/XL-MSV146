@@ -1,0 +1,7 @@
+<imgdir name="1221016">
+        <string name="name" value="守护者" />
+        <string name="desc" value="复活#c离你最近的1名队友#，使队友和你自己短时间内#c无敌#~" />
+        <string name="h" value="消耗MP #mpCon，#c最近的队友复活后无敌#time秒#。 [冷却时间: #cooltime秒]" />
+        <string name="pdesc" value="复活#c离你最近的1名队友#，使队友和你自己短时间内#c无敌#~" />
+        <string name="ph" value="消耗MP #mpCon，#c最近的队友复活后无敌#time秒#。 [冷却时间: #cooltime秒]" />
+    </imgdir>

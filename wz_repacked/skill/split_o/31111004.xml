@@ -1,0 +1,5 @@
+<imgdir name="31111004">
+        <string name="name" value="Black-Hearted Strength" />
+        <string name="desc" value="Your cold, uncaring heart steels you against attacks, providing a temporary increases to DEF, Abnormal Status Resistance, and all Elemental Resistance." />
+        <string name="h" value="HP Cost: #hpCon, DEF +#x%, Abnormal Status Resistance +#y%, All Elemental Resistance: +#z%, Duration: #time." />
+    </imgdir>

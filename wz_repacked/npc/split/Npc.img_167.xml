@@ -1,0 +1,109 @@
+<imgdir name="Npc.img">
+    <imgdir name="9131087">
+		<string name="name" value="Tokugawa Ieyasu"/>
+	</imgdir>
+    <imgdir name="9131088">
+		<string name="name" value="Tokugawa Ieyasu"/>
+	</imgdir>
+    <imgdir name="9131089">
+		<string name="name" value="Tokugawa Ieyasu"/>
+	</imgdir>
+    <imgdir name="9131090">
+		<string name="name" value="Mori Ranmaru"/>
+	</imgdir>
+    <imgdir name="9131091">
+		<string name="name" value="Mori Ranmaru"/>
+	</imgdir>
+    <imgdir name="9201253">
+		<string name="name" value="GuideNPC"/>
+		<string name="n0" value="If you don't like what you see in the mirror, I can pretty you up."/>
+		<string name="n1" value="With just a little nip here and a little tuck there, I can make you quite attractive."/>
+	</imgdir>
+    <imgdir name="9330072">
+		<string name="name" value="Yulia"/>
+		<string name="n0" value="I'm looking for a brave hero, who's gotta be larger than life. Are you the one I'm looking for?"/>
+		<string name="n1" value="Ahh~~~ There's this terrifying monster!! I get so scared just thinking about it!"/>
+		<string name="n2" value="You look strong and fast. Can you defeat it for me?"/>
+		<string name="d0" value="How's it going with my request?"/>
+		<string name="d1" value="Are you interested in what we talked about earlier?"/>
+	</imgdir>
+    <imgdir name="9072200">
+		<string name="name" value="Clara"/>
+		<string name="func" value="Monster Life Coin Exchange"/>
+		<string name="s0" value="I'm still working on some things."/>
+		<string name="s1" value="You can trade in Monster Life Coins for Warus."/>
+		<string name="s2" value="Warus are the lifeblood of Monster Life, along with my good looks."/>
+		<string name="d0" value="I'm still working on some things."/>
+		<string name="d1" value="Warus are the lifeblood of Monster Life, along with my good looks."/>
+	</imgdir>
+    <imgdir name="9020016">
+		<string name="name" value="Chief Tatamo"/>
+		<string name="func" value="Dragon Rider"/>
+		<string name="s0" value="Will you help an old timer out?"/>
+	</imgdir>
+    <imgdir name="9000171">
+		<string name="name" value="Wealthy Merchant Moon Bunny"/>
+		<string name="func" value="2014 New Year Coin Shop"/>
+		<string name="n0" value="Jingle jangle! You got some coin? Choose what you like."/>
+		<string name="n1" value="Some of my items are limited time only! Look now!"/>
+	</imgdir>
+    <imgdir name="1102114">
+		<string name="name" value="Kimu"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="n0" value="I like it up here. It's peaceful."/>
+		<string name="n1" value="Cygnus and Shinsoo are both doing well."/>
+		<string name="d0" value="Welcome to the safest place in Maple World!"/>
+		<string name="d1" value="Welcome to the safest place in Maple World!"/>
+	</imgdir>
+    <imgdir name="1102107">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="Tactician"/>
+		<string name="n0" value="We need to keep tabs on their movement."/>
+		<string name="n1" value="The equipment budget for this quarter is astronomical..."/>
+		<string name="d0" value="Can you do what the Empress requires of you?"/>
+		<string name="d1" value="If you are a true Cygnus Knight, you have duties you must perform."/>
+	</imgdir>
+    <imgdir name="1102104">
+		<string name="name" value="Kia"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="n0" value="Makin' stuff is the best. And I am the best at it."/>
+		<string name="n1" value="What kinda chair should I make now?"/>
+		<string name="d0" value="Monster loot is the most fundamental source of acquiring items."/>
+		<string name="d1" value="You may find containers on the field that have items as well."/>
+	</imgdir>
+    <imgdir name="9072201">
+		<string name="name" value="Jimmy-Jack"/>
+		<string name="func" value="Monster Life Coin Shop"/>
+		<string name="s0" value="I've got all the good stuff right here!"/>
+		<string name="s1" value="I only take Monster Life Coins here."/>
+		<string name="s2" value="If you want Warus, go talk to Clara. I'm all about the items."/>
+	</imgdir>
+    <imgdir name="9390008">
+		<string name="name" value="Dr. Bing"/>
+		<string name="n0" value="I can't believe it! Aliens are real!"/>
+		<string name="n1" value="Why are they here?"/>
+	</imgdir>
+    <imgdir name="9390009">
+		<string name="name" value="Dr. Bing"/>
+		<string name="n0" value="I can't believe it! Aliens are real!"/>
+		<string name="n1" value="Why are they here?"/>
+	</imgdir>
+    <imgdir name="9390010">
+		<string name="name" value="Researcher Zet"/>
+		<string name="n0" value="What is that distorted area near the spaceship?"/>
+		<string name="n1" value="I think you can help us. Oh yes, I think you can be a big help."/>
+	</imgdir>
+    <imgdir name="9390011">
+		<string name="name" value=""/>
+	</imgdir>
+    <imgdir name="9390020">
+		<string name="name" value="Winston"/>
+	</imgdir>
+    <imgdir name="1500000">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="The fairy culture is so much more advanced than ours..."/>
+		<string name="n1" value="Where are all my research notes? And my fairy comics?!"/>
+		<string name="d0" value="I am Cootie, and I am just the right size."/>
+		<string name="d1" value="I am Cootie, and I am just the right size."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="12110000">
+        <string name="name" value="Magic Critical" />
+        <string name="desc" value="Permanently increases attack critical rate and minimum critical damage." />
+        <string name="h" value="Critical rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+        <string name="pdesc" value="Increases your resistance to Elemental Attacks, reducing damage dealt to you." />
+        <string name="ph" value="Elemental Resistance: +#x%" />
+    </imgdir>

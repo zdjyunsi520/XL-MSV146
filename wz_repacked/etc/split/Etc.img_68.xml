@@ -1,0 +1,80 @@
+<imgdir name="Etc.img">
+    <imgdir name="4021008">
+			<string name="name" value="Black Crystal"/>
+			<string name="desc" value="A dark power sleeps within this rare crystal. Used for level 9 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021009">
+			<string name="name" value="Star Rock"/>
+			<string name="desc" value="A glittering jewel that possesses a mysterious power of a star."/>
+		</imgdir>
+    <imgdir name="4021010">
+			<string name="name" value="Rock of Time"/>
+			<string name="desc" value="A fascinating gem that contains the power of time."/>
+		</imgdir>
+    <imgdir name="4021013">
+			<string name="name" value="Basic Item Crystal"/>
+			<string name="desc" value="A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 40- 60 items."/>
+		</imgdir>
+    <imgdir name="4021014">
+			<string name="name" value="Intermediate Item Crystal"/>
+			<string name="desc" value="A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 70- 90 items."/>
+		</imgdir>
+    <imgdir name="4021015">
+			<string name="name" value="Advanced Item Crystal"/>
+			<string name="desc" value="A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 100- 120 items."/>
+		</imgdir>
+    <imgdir name="4021016">
+			<string name="name" value="Superior Item Crystal"/>
+			<string name="desc" value="A crystal that can be extracted from equipment. Contains the elemental attributes of that item. Mainly used to craft level 130+ items."/>
+		</imgdir>
+    <imgdir name="4021017">
+			<string name="name" value="Alchemist Stone"/>
+			<string name="desc" value="A stone containing the concentrated power of the Alchemist. Used in equipment fusion.\nPurchase it from Nack in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4021018">
+		</imgdir>
+    <imgdir name="4021019">
+			<string name="name" value="Dream Stone"/>
+			<string name="desc" value="A stone that contains the condensed dreams of the Black Mage."/>
+		</imgdir>
+    <imgdir name="4021020">
+			<string name="name" value="Confusion Fragment"/>
+			<string name="desc" value="A fragment containing pure confusion. Don't ask how that works. There's a small chance of obtaining it by hunting Lv. 180 or higher monsters."/>
+		</imgdir>
+    <imgdir name="4021023">
+			<string name="name" value="Legendary Weapon Shard (Mouri Clan)"/>
+			<string name="desc" value="A fragment of the Mouri Clan's legendary weapon. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021024">
+			<string name="name" value="Legendary Armor Shard (Mouri Clan)"/>
+			<string name="desc" value="A piece of the Mouri Clan's legendary armor. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021025">
+			<string name="name" value="Legendary Weapon Shard (Takeda Clan)"/>
+			<string name="desc" value="A fragment of the Takeda Clan's legendary weapon. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021026">
+			<string name="name" value="Legendary Armor Shard (Takeda Clan)"/>
+			<string name="desc" value="A piece of the Takeda Clan's legendary armor. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021027">
+			<string name="name" value="Legendary Weapon Shard (Uesugi Clan)"/>
+			<string name="desc" value="A fragment of the Uesugi Clan's legendary weapon. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021028">
+			<string name="name" value="Legendary Armor Shard (Uesugi Clan)"/>
+			<string name="desc" value="A piece of the Uesugi Clan's legendary armor. Even this small piece contains untold power."/>
+		</imgdir>
+    <imgdir name="4021029">
+			<string name="name" value="Condensed Spirit"/>
+			<string name="desc" value="Contains the condensed essence of spiritual powers."/>
+		</imgdir>
+    <imgdir name="4021030">
+			<string name="name" value="Spirit Stone of the Sixth Sky"/>
+			<string name="desc" value="A stone trembling with the power of six skies. Not one or two like your normal Spirit Stone. Six!"/>
+		</imgdir>
+    <imgdir name="4022000">
+			<string name="name" value="Marjoram Seed"/>
+			<string name="desc" value="A marjoram seed."/>
+		</imgdir>
+</imgdir>

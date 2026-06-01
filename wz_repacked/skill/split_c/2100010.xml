@@ -1,0 +1,5 @@
+<imgdir name="2100010">
+        <string name="name" value="点燃" />
+        <string name="desc" value="使用火系魔法时有几率#c在目标位置生成火墙#~" />
+        <string name="h" value="施展火系魔法时，#c生成火墙#的几率: #prop%, 火墙最大怪物数: #mobCount, 伤害: #damage%, 持续时间: #time秒" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431871">
+		<string name="desc" value="A cooked eel that helps you keep your strength up during the cold winter.\r\n#c Increases Weapon/Magic ATT by 15 for 30 minutes. Can be used in conjunction with other buffs."/>
+		<string name="name" value="Invigorating Buff Lv. 3"/>
+	</imgdir>
+    <imgdir name="2431872">
+		<string name="desc" value="A mileage token."/>
+		<string name="name" value="Mileage"/>
+	</imgdir>
+    <imgdir name="2431873">
+		<string name="desc" value="A special buff to celebrate the coming of RED. Can be used on the opening day until midnight.#c\nWeapon/Magic ATT +10\nSpeed and Jump bonuses\nDuration: 30 minutes\nCooldown: 30 minutes"/>
+		<string name="name" value="Red Tide Buff"/>
+	</imgdir>
+    <imgdir name="2431874">
+		<string name="desc" value="A special potion that increases your level by 1.#c\nThis item's effect only works on characters between Levels 60 and 80. Characters at level 81 and above receive a small amount of EXP instead. "/>
+		<string name="name" value="RED Growth Potion Stage 1\t"/>
+	</imgdir>
+    <imgdir name="2431875">
+		<string name="desc" value="A special potion that increases your level by 1.#c\nThis item's effect only works on characters between Levels 80 and 100. Characters at level 101 and above receive a small amount of EXP instead. "/>
+		<string name="name" value="RED Growth Potion Stage 2"/>
+	</imgdir>
+    <imgdir name="2431876">
+		<string name="desc" value="An Equipment Box given to Lv. 20 users."/>
+		<string name="name" value="Lv. 20 Equipment Box"/>
+	</imgdir>
+    <imgdir name="2431877">
+		<string name="desc" value="An Equipment Box given to Lv. 40 users."/>
+		<string name="name" value="Lv. 40 Equipment Box"/>
+	</imgdir>
+    <imgdir name="2431878">
+		<string name="desc" value="A Mesoranger box that is filled with various items."/>
+		<string name="name" value="Mesoranger Box"/>
+	</imgdir>
+    <imgdir name="2431879">
+		<string name="desc" value="Double-click the item to receive #c[30 Days] Pink-Ribboned Label Ring# and #c[30 Days] Blue-Ribboned Label Ring Gift Certificate#. Share the rings with your beloved one for a public display of your love."/>
+		<string name="name" value="Couple Label Box"/>
+	</imgdir>
+    <imgdir name="2431884">
+		<string name="name" value="Frozen R"/>
+		<string name="desc" value="A cold, transparent cube of ice with a mysterious-looking letter frozen within. #cDouble-click# it to receive a random item. This can only be opened until 11:59 p.m. on December 23, 2013\n\r\r\n#c&lt;Available Items&gt;\n- RED Coin\n- Chaos Scroll 60%\n- Strawberry Popsicle\n- Chocolate Popsicle\n- Watermelon Popsicle\n- Melon Popsicle\n- Unidentified Love Letter\n- Trait items\n- Reindeer Milk\n- Sunrise Dew"/>
+	</imgdir>
+    <imgdir name="2431885">
+		<string name="name" value="Frozen E"/>
+		<string name="desc" value="A cold, transparent cube of ice with a mysterious-looking letter frozen within. #cDouble-click# it to receive a random item. This can only be opened until 11:59 p.m. on January 7, 2014\n\r\r\n#c&lt;Available Items&gt;\n- RED Coin\n- Equip Enhancement Scroll\n- Pinky hula hoop \n- Summer Swimming Goggles \n- Unidentified Love Letter\n- Trait items\n- Reindeer Milk\n- Sunrise Dew"/>
+	</imgdir>
+    <imgdir name="2431886">
+		<string name="name" value="Frozen D"/>
+		<string name="desc" value="A cold, transparent cube of ice with a mysterious-looking letter frozen within. #cDouble-click# it to receive a random item. This can only be opened until 11:59 p.m. on January 21, 2014\n\r\r\n#c&lt;Available Items&gt;\n- RED Coin\n- Evolution Ice Crystal\n- Pinky hula hoop\n- Unidentified Love Letter\n- Trait items\n- Reindeer Milk\n- Sunrise Dew"/>
+	</imgdir>
+    <imgdir name="2431887">
+		<string name="name" value="Frozen RED"/>
+		<string name="desc" value="A cold, transparent cube of ice with a mysterious-looking letter frozen within. #cDouble-click# it to receive a random item. This can only be opened until 11:59 p.m. on 2/11/2014\n\r\r\n#c&lt;Available Items&gt;\n- RED Coin\n-Happy Coin Box\n- Real Fruit Strawberry Popsicle\n- Chaos Scroll 60%\n- Pinky hula hoop \n- Unidentified Love Letter\n- Trait items\n- Reindeer Milk\n- Sunrise Dew"/>
+	</imgdir>
+    <imgdir name="2431892">
+		<string name="desc" value="A mysterious Mastery Book. Double-click it to raise the mastery level of a desired skill."/>
+		<string name="name" value="Mastery Book 20"/>
+	</imgdir>
+    <imgdir name="2431893">
+		<string name="desc" value="This fragment broke from the Red Cube. Do you remember? Double-click to trade for useful items."/>
+		<string name="name" value="Red Cube Fragment"/>
+	</imgdir>
+    <imgdir name="2431894">
+		<string name="desc" value="This fragment broke from the Black Cube. Do you remember? Double-click to trade for useful items."/>
+		<string name="name" value="Black Cube Fragment"/>
+	</imgdir>
+    <imgdir name="2431895">
+		<string name="desc" value="A fragment that contains some of Pianus's soul. Collect #c10# to trade for a Pianus's Soul."/>
+		<string name="name" value="Pianus's Soul Shard"/>
+	</imgdir>
+    <imgdir name="2431896">
+		<string name="desc" value="A fragment that contains some of Hilla's soul. Collect #c10# to trade for a Hilla's Soul."/>
+		<string name="name" value="Hilla's Soul Shard"/>
+	</imgdir>
+    <imgdir name="2431897">
+		<string name="desc" value="An equipment box awarded for reaching Level 100 during RED."/>
+		<string name="name" value="Pioneer's Equipment Box"/>
+	</imgdir>
+    <imgdir name="2431898">
+		<string name="desc" value="Double-click to gain a permanent [Bouncing Car Mount] mount skill."/>
+		<string name="name" value="Bouncing Car Mount Mount Permanent Coupon"/>
+	</imgdir>
+</imgdir>

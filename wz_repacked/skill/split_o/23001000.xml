@@ -1,0 +1,7 @@
+<imgdir name="23001000">
+        <string name="name" value="Swift Dual Shot" />
+        <string name="desc" value="Fire arrows at multiple enemies in front of you." />
+        <string name="h" value="MP Cost: #mpCon, Arrows Fired: #bulletCount, Damage: #damage%, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="Fire arrows at multiple enemies in front of you." />
+        <string name="ph" value="MP Cost: #mpCon, Arrows Fired: #bulletCount, Damage: #damage%, Max Monsters Hit: #mobCount" />
+    </imgdir>

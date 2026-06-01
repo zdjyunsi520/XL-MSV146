@@ -1,0 +1,5 @@
+<imgdir name="65121003">
+        <string name="name" value="灵魂共鸣" />
+        <string name="desc" value="与埃斯卡尔德的灵魂共鸣，赋予他生命！" />
+        <string name="h" value="Key-down Skill. Mobs Hit: #mobCount, Damage Dealt Per Attack: #damage%, Duration: 8 sec, Max Finishing Blow Based on Remaining Duration: #x%, Damage Against Bosses: +#bdR%\nCooldown: #cooltime sec. #cMax Damage: #MDamageOver#" />
+    </imgdir>

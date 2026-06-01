@@ -1,0 +1,113 @@
+<imgdir name="Npc.img">
+    <imgdir name="2134008">
+		<string name="name" value="杰伊杰伊"/>
+		<string name="n0" value="嘿！送我回家！"/>
+		<string name="n1" value="我想见她。"/>
+	</imgdir>
+    <imgdir name="2134009">
+		<string name="name" value="佩珀"/>
+		<string name="n0" value="嘿别失去希望。我们毕竟是恶魔！"/>
+		<string name="n1" value="如果有机会，我们必须让年轻人先逃。"/>
+		<string name="d0" value="我从没想过会被困在这样的地方..."/>
+		<string name="d1" value="我从没想过会被困在这样的地方..."/>
+	</imgdir>
+    <imgdir name="2134010">
+		<string name="name" value="贾哈拉"/>
+		<string name="n0" value="救我们！"/>
+		<string name="n1" value="我太慢了，逃不掉。"/>
+	</imgdir>
+    <imgdir name="2134011">
+		<string name="name" value="切尔米尼"/>
+		<string name="n0" value="我们不能失去焦点！"/>
+		<string name="n1" value="别急于行事，否则会让我们所有人陷入困境！"/>
+	</imgdir>
+    <imgdir name="2134012">
+		<string name="name" value="里德利"/>
+		<string name="n0" value="我真希望我没有被冻在这个姿势里..."/>
+		<string name="n1" value="嘘！听好了！"/>
+		<string name="d0" value="泰纳鲁姆正在走向灭亡。"/>
+		<string name="d1" value="泰纳鲁姆正在走向灭亡。"/>
+	</imgdir>
+    <imgdir name="1104302">
+		<string name="name" value="旧书"/>
+		<string name="d0" value="字迹难以辨认。"/>
+		<string name="d1" value="字迹难以辨认。"/>
+	</imgdir>
+    <imgdir name="1104311">
+		<string name="name" value="菊"/>
+		<string name="func" value="训练导师"/>
+	</imgdir>
+    <imgdir name="1104305">
+		<string name="name" value="奈尔哈特"/>
+		<string name="func" value="战术家"/>
+		<string name="d0" value="这个联盟不能承受任何失误。"/>
+		<string name="d1" value="这个联盟不能承受任何失误。"/>
+	</imgdir>
+    <imgdir name="1102113">
+		<string name="name" value="小鸟"/>
+		<string name="n0" value="啾啾...啾...啾啾！"/>
+		<string name="d0" value="啾啾...啾...啾啾！"/>
+		<string name="d1" value="啾啾...啾...啾啾！"/>
+	</imgdir>
+    <imgdir name="1104301">
+		<string name="name" value="噩梦"/>
+		<string name="d0" value="不惜一切代价复活他..."/>
+		<string name="d1" value="不惜一切代价复活他..."/>
+	</imgdir>
+    <imgdir name="1102204">
+		<string name="name" value="基穆"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="必须找到入侵者！"/>
+		<string name="n1" value="训练要勤奋。"/>
+		<string name="d0" value="必须找到入侵者！他们不会走远的。"/>
+		<string name="d1" value="要变强就得努力！"/>
+	</imgdir>
+    <imgdir name="1102205">
+		<string name="name" value="吉赞"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="什么？你不想变得更强吗？"/>
+		<string name="n1" value="骑士很酷！"/>
+		<string name="d0" value="我希望看到你训练，从现在直到永远。"/>
+		<string name="d1" value="我希望看到你训练，从现在直到永远。"/>
+	</imgdir>
+    <imgdir name="1102206">
+		<string name="name" value="基努"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="怎么可能？"/>
+		<string name="n1" value="一定有更多关于冒险岛世界历史的书籍。"/>
+		<string name="d0" value="要变强就得努力！"/>
+		<string name="d1" value="其他导师怎么样？"/>
+	</imgdir>
+    <imgdir name="1104314">
+		<string name="name" value="弗朗西斯"/>
+		<string name="func" value="傀儡萨满"/>
+		<string name="n0" value="谁毁了我所有的傀儡？！"/>
+		<string name="n1" value="谁毁了我所有的傀儡？！"/>
+		<string name="d0" value="谁毁了我所有的傀儡？！"/>
+		<string name="d1" value="谁毁了我所有的傀儡？！"/>
+	</imgdir>
+    <imgdir name="1104315">
+		<string name="name" value="天鹅女皇"/>
+		<string name="func" value="女皇"/>
+	</imgdir>
+    <imgdir name="1104304">
+		<string name="name" value="天鹅女皇"/>
+		<string name="func" value="女皇"/>
+	</imgdir>
+    <imgdir name="1104306">
+		<string name="name" value="米哈尔"/>
+		<string name="func" value="光之骑士团长"/>
+	</imgdir>
+    <imgdir name="1104307">
+		<string name="name" value="奥兹"/>
+		<string name="func" value="火之骑士团长"/>
+	</imgdir>
+    <imgdir name="1104308">
+		<string name="name" value="伊莲娜"/>
+		<string name="func" value="风之骑士团长"/>
+	</imgdir>
+    <imgdir name="1104309">
+		<string name="name" value="埃克哈特"/>
+		<string name="func" value="暗之骑士团长"/>
+	</imgdir>
+</imgdir>

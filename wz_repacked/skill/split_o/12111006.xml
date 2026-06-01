@@ -1,0 +1,7 @@
+<imgdir name="12111006">
+        <string name="name" value="Fire Strike" />
+        <string name="desc" value="Throw a huge fireball at multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Throw a huge fireball at multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

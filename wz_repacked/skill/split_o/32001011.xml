@@ -1,0 +1,7 @@
+<imgdir name="32001011">
+        <string name="name" value="The Finisher" />
+        <string name="desc" value="Launches a luminous blade of light into the enemies in front of you. Can only be used after a Blow-type skill. Deals more damage and ignores more defense when used alongside higher level Blow-type skills." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Enemy DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="Launches a luminous blade of light into the enemies in front of you. Can only be used after a Blow-type skill. Deals more damage when used alongside higher level Blow-type skills." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Enemy DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

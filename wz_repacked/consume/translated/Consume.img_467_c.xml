@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431471">
+		<string name="desc" value="可免费获得一个怪物生活建筑盒！#c双击使用#。"/>
+		<string name="name" value="[怪物生活]建筑券"/>
+	</imgdir>
+    <imgdir name="2431472">
+		<string name="desc" value="可免费获得一个怪物生活装饰盒！#c双击使用#。"/>
+		<string name="name" value="[怪物生活]装饰券"/>
+	</imgdir>
+    <imgdir name="2431475">
+		<string name="desc" value="可免费获得一个怪物生活宝石盒！#c双击使用#。"/>
+		<string name="name" value="[怪物生活]宝石券"/>
+	</imgdir>
+    <imgdir name="2431483">
+		<string name="desc" value="可免费获得一个怪物生活礼品券！#c双击使用#。"/>
+		<string name="name" value="[怪物生活]农场改名券"/>
+	</imgdir>
+    <imgdir name="2431480">
+		<string name="desc" value="卡珊德拉准备的充满惊喜的盒子。\n#c双击打开。#"/>
+		<string name="name" value="热门时间礼盒"/>
+	</imgdir>
+    <imgdir name="2612004">
+		<string name="name" value="双手武器魔法攻击卷轴60%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2612005">
+		<string name="name" value="8周年双手武器魔法攻击卷轴20%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击力+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2612006">
+		<string name="name" value="8周年双手武器魔法攻击卷轴40%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击力：+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2612007">
+		<string name="name" value="8周年双手武器魔法攻击卷轴70%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n魔法攻击力+2\r\n命中率：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2612008">
+		<string name="name" value="8周年双手武器魔法攻击卷轴10%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n魔法攻击力：+7至+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2431726">
+		<string name="name" value="英雄帽子盒"/>
+		<string name="desc" value="包含英雄帽子。\n#c此盒子只能在13年6月19日前打开！#"/>
+	</imgdir>
+    <imgdir name="2612009">
+		<string name="name" value="8周年高级双手武器魔法攻击卷轴10%"/>
+		<string name="desc" value="提升枫叶紫水晶和大枫叶紫水晶双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n魔法攻击力：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2430660">
+		<string name="name" value="幸运坐骑30天券"/>
+		<string name="desc" value="一张允许你使用幸运坐骑技能30天的优惠券。只能在春季活动期间获得。"/>
+	</imgdir>
+    <imgdir name="2430535">
+		<string name="name" value="企鹅坐骑券"/>
+		<string name="desc" value="双击使用企鹅坐骑技能，有效期90天。"/>
+	</imgdir>
+    <imgdir name="2430534">
+		<string name="name" value="企鹅坐骑券"/>
+		<string name="desc" value="双击永久使用企鹅坐骑技能。"/>
+	</imgdir>
+    <imgdir name="2431749">
+		<string name="name" value="稀有栖息地传送石"/>
+		<string name="desc" value="只有被选中的战士才能使用的传送石。#c双击#传送到稀有怪物栖息地。"/>
+	</imgdir>
+    <imgdir name="2431750">
+		<string name="name" value="稀有栖息地传送卷轴"/>
+		<string name="desc" value="限时使用的传送石。#c双击#传送到稀有怪物栖息地。"/>
+	</imgdir>
+    <imgdir name="2450076">
+		<string name="name" value="怪物捕获增益券"/>
+		<string name="desc" value="暂时增加捕获怪物几率的优惠券。"/>
+	</imgdir>
+    <imgdir name="2003589">
+		<string name="name" value="战斗怪物捕获20倍药水（测试用）"/>
+		<string name="desc" value="暂时增加捕获怪物几率的药水。"/>
+	</imgdir>
+    <imgdir name="2047954">
+		<string name="name" value="艾琳翅膀卷轴"/>
+		<string name="desc" value="艾琳翅膀所有属性+1。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,6 @@
+<imgdir name="3000001">
+        <string name="name" value="暴击射击" />
+        <string name="desc" value="提升暴击率。" />
+        <string name="h" value="Critical Hit Rate: +#prop%" />
+        <string name="h20" value="40% success rate, critical damage 200%" />
+    </imgdir>

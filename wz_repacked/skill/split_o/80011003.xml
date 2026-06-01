@@ -1,0 +1,5 @@
+<imgdir name="80011003">
+        <string name="name" value="Magic Arrow Shower" />
+        <string name="desc" value="Magic arrows shower down from the sky like rain. " />
+        <string name="h" value="Attacks #mobCount enemies for #damage damage. \nCooldown: #cooltime sec" />
+    </imgdir>

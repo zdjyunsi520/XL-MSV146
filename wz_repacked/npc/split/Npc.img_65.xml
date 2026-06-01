@@ -1,0 +1,98 @@
+<imgdir name="Npc.img">
+    <imgdir name="3001105">
+		<string name="name" value="Romero"/>
+		<string name="n0" value="Tonero is a liar."/>
+		<string name="n1" value="I am the Trade King."/>
+		<string name="d0" value="Oh, do you have something to trade?"/>
+		<string name="d1" value="Come to me if you want a deal."/>
+	</imgdir>
+    <imgdir name="3001106">
+		<string name="name" value="Gallero"/>
+		<string name="n0" value="I'm Gallero!"/>
+		<string name="n1" value="Don’t listen to those other blowhards. I’m the best."/>
+		<string name="d0" value="What is it...?"/>
+		<string name="d1" value="What is it?"/>
+	</imgdir>
+    <imgdir name="3001107">
+		<string name="name" value="Tiron"/>
+		<string name="n0" value="Captain Tiron! Roger that!"/>
+		<string name="n1" value="All clear!"/>
+		<string name="d0" value="I’m Tiron, the scout specialist."/>
+		<string name="d1" value="Tracking enemy movement!"/>
+	</imgdir>
+    <imgdir name="3001108">
+		<string name="name" value="Mayala"/>
+		<string name="func" value="Shadow Shop"/>
+		<string name="n0" value="Weapons! Armor! I even have a Coin Shop!"/>
+		<string name="n1" value="My merchant crew bros are driving me crazy!"/>
+		<string name="d0" value="Anything you want to buy?"/>
+		<string name="d1" value="You seem to be browsing a lot."/>
+	</imgdir>
+    <imgdir name="9075111">
+		<string name="name" value="Doctor Moon"/>
+		<string name="n0" value="The Evolution System is a fascinating discovery."/>
+		<string name="n1" value="I hope the entry limit to the Evolution System has not been too troublesome."/>
+		<string name="d0" value="Maple World is being overrun by monsters from Mystic Fields!"/>
+		<string name="d1" value="Maple World is being overrun by monsters from Mystic Fields!"/>
+	</imgdir>
+    <imgdir name="9270086">
+		<string name="name" value="Black Bark"/>
+		<string name="n0" value="Whew... How am I going to clean all this up?"/>
+	</imgdir>
+    <imgdir name="9270087">
+		<string name="name" value="Burnt Remains"/>
+		<string name="d0" value="There's nothing but ashes left."/>
+		<string name="d1" value="There's nothing but ashes left."/>
+	</imgdir>
+    <imgdir name="9270082">
+		<string name="name" value="Broken Wooden Box"/>
+		<string name="d0" value="It's a box. It's made of wood. It's broken. That's about it."/>
+		<string name="d1" value="It's a box. It's made of wood. It's broken. That's about it."/>
+	</imgdir>
+    <imgdir name="9270083">
+		<string name="name" value="Burke"/>
+	</imgdir>
+    <imgdir name="9270084">
+		<string name="name" value="Burke"/>
+	</imgdir>
+    <imgdir name="9270085">
+		<string name="name" value="Master Key Container"/>
+	</imgdir>
+    <imgdir name="9270088">
+		<string name="name" value="Black Bark"/>
+	</imgdir>
+    <imgdir name="9270089">
+		<string name="name" value="Kyrin"/>
+	</imgdir>
+    <imgdir name="9270090">
+		<string name="name" value="Baroq"/>
+	</imgdir>
+    <imgdir name="9270091">
+		<string name="name" value="Thunderhammer"/>
+		<string name="func" value="The Great Blacksmith"/>
+		<string name="d0" value="My hammer echoes all over Maple World! There's nothing I can't fix!"/>
+		<string name="d1" value="A true master must have the right mindset. The harder a task is, the more I want to complete it!"/>
+	</imgdir>
+    <imgdir name="9270092">
+		<string name="name" value="Burke"/>
+	</imgdir>
+    <imgdir name="9201138">
+		<string name="name" value="Jonas"/>
+		<string name="d0" value="What is it? I have no time to waste. I need to perfect this gadget!"/>
+		<string name="n0" value="Wait 'til they see my latest invention yet!"/>
+	</imgdir>
+    <imgdir name="9201144">
+		<string name="name" value="Shadow Knight Rene"/>
+		<string name="n1" value="You must get the egg before the mother dragon returns."/>
+		<string name="d0" value="I'm going to get ridiculously rich from stealing dragon eggs!"/>
+		<string name="n0" value="The dragons were strong, but not as strong as me. Haha!"/>
+	</imgdir>
+    <imgdir name="2007">
+		<string name="name" value="Maple Administrator"/>
+	</imgdir>
+    <imgdir name="10200">
+		<string name="name" value="Athena Pierce"/>
+		<string name="func" value="Bowman Job Instructor"/>
+		<string name="s0" value="Do you wish to learn the way of the Bowman?"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5001002">
+        <string name="name" value="后空翻踢" />
+        <string name="desc" value="伴随着后空翻的毁灭性踢击！攻击周围所有敌人。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="伴随着后空翻的毁灭性踢击！攻击周围所有敌人。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="1200002">
+        <string name="name" value="Final Attack" />
+        <string name="h" value="Proc Rate: #prop%, Damage: #damage%" />
+        <string name="desc" value="Grants a chance to deal additional damage after an attack skill. Must have a sword or a blunt weapon equipped. \nRequired Skill: #cWeapon Mastery Lv. 3#" />
+    </imgdir>

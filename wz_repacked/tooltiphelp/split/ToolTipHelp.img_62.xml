@@ -1,0 +1,79 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="106020400">
+			<imgdir name="0">
+				<string name="Title" value="Mushking Castle"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Cliff Shadows"/>
+			</imgdir>
+    <imgdir name="106020401">
+			<imgdir name="0">
+				<string name="Title" value="Cliff Shadows"/>
+			</imgdir>
+    <imgdir name="106020402">
+			<imgdir name="0">
+				<string name="Title" value="Cliff Shadows"/>
+			</imgdir>
+    <imgdir name="106020403">
+			<imgdir name="0">
+				<string name="Title" value="Mushking Castle (Beware of Cliff)"/>
+			</imgdir>
+    <imgdir name="106020500">
+			<imgdir name="0">
+				<string name="Title" value="Outside the Wall of Mushroom Castle"/>
+				<string name="Desc" value="Double-click on the Thorn Remover to remove the thorns from the vine, then climb on it."/>
+			</imgdir>
+    <imgdir name="106020501">
+			<imgdir name="0">
+				<string name="Title" value="Entering Mushking Castle"/>
+				<string name="Desc" value="You can only enter the castle by stepping on the vine with thorns removed."/>
+			</imgdir>
+    <imgdir name="106020600">
+			<imgdir name="0">
+				<string name="Title" value="West Castle Tower"/>
+			</imgdir>
+    <imgdir name="106021800">
+			<imgdir name="0">
+				<string name="Title" value="Mushroom Castle Exit"/>
+			</imgdir>
+    <imgdir name="106021300">
+			<imgdir name="0">
+				<string name="Title" value="East Castle Tower"/>
+			</imgdir>
+    <imgdir name="106021200">
+			<imgdir name="0">
+				<string name="Title" value="Central Castle Tower"/>
+			</imgdir>
+    <imgdir name="106021100">
+			<imgdir name="0">
+				<string name="Title" value="Central Castle Tower"/>
+			</imgdir>
+    <imgdir name="106021000">
+			<imgdir name="0">
+				<string name="Title" value="Central Castle Tower"/>
+			</imgdir>
+    <imgdir name="106020800">
+			<imgdir name="0">
+				<string name="Title" value="West Castle Tower"/>
+			</imgdir>
+    <imgdir name="106020700">
+			<imgdir name="0">
+				<string name="Title" value="West Castle Tower"/>
+			</imgdir>
+    <imgdir name="140000000">
+			<imgdir name="0">
+				<string name="Title" value="Towards Center of the Island"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="To Harbor"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Rien Library"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Weapon/Armor Store"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+</imgdir>

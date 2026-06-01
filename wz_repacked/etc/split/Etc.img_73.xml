@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4030018">
+			<string name="name" value="Storm Mark"/>
+			<string name="desc" value="A badge that officially recognizes one as an Elite Stormbreaker."/>
+		</imgdir>
+    <imgdir name="4030019">
+			<string name="name" value="Magic Mark"/>
+			<string name="desc" value="A badge that officially recognizes one as an Elite Firebrand."/>
+		</imgdir>
+    <imgdir name="4030020">
+			<string name="name" value="Wind Mark"/>
+			<string name="desc" value="A badge that officially recognizes one as a Elite Windraider."/>
+		</imgdir>
+    <imgdir name="4031000">
+			<string name="name" value="Maria's Letter"/>
+			<string name="desc" value="A letter by Maria. Needs to be delivered to Lucas of Amherst."/>
+		</imgdir>
+    <imgdir name="4031001">
+			<string name="name" value="Lucas's Letter"/>
+			<string name="desc" value="A letter by Lucas. Needs to be sent to Mushroom Town's Maria."/>
+		</imgdir>
+    <imgdir name="4031002">
+			<string name="name" value="Lucas's Gold Watch"/>
+			<string name="desc" value="Lucas's gold watch made out of pure gold."/>
+		</imgdir>
+    <imgdir name="4031003">
+			<string name="name" value="Sera's Mirror"/>
+			<string name="desc" value="Sera's mirror. Has lots of decorations on it."/>
+		</imgdir>
+    <imgdir name="4031004">
+			<string name="name" value="Sparkling Rock"/>
+			<string name="desc" value="A sparking rock that shines by itself."/>
+		</imgdir>
+    <imgdir name="4031005">
+			<string name="name" value="Arcon's Blood"/>
+			<string name="desc" value="A bottle full of Arcon's blood"/>
+		</imgdir>
+    <imgdir name="4031006">
+			<string name="name" value="Weird Medicine"/>
+			<string name="desc" value="No telling the power of this mysterious, weird medicine"/>
+		</imgdir>
+    <imgdir name="4031007">
+			<string name="name" value="Old Gold Watch"/>
+			<string name="desc" value="An old gold watch. An article left by Alex's late mother. "/>
+		</imgdir>
+    <imgdir name="4031008">
+			<string name="name" value="Dances with Balrog's Letter"/>
+			<string name="desc" value="A letter from 'Dances with Balrog' of Perion. Needs to be shown to the 'Warrior Job Instructor' at somewhere around the highland. "/>
+		</imgdir>
+    <imgdir name="4031009">
+			<string name="name" value="Grendel the Really Old's Letter"/>
+			<string name="desc" value="A letter from Grendel the Really Old of Ellinia. Needs to be shown to the &quot;Test Instructor For Magicians&quot; at somewhere around the forrest."/>
+		</imgdir>
+    <imgdir name="4031010">
+			<string name="name" value="Athena Pierce's Letter"/>
+			<string name="desc" value="A letter from Athena Pierce of Henesys. Needs to be shown to the &quot;Test Instructor For Bowmen&quot; at somewhere around the Dungeon."/>
+		</imgdir>
+    <imgdir name="4031011">
+			<string name="name" value="Dark Lord's Letter"/>
+			<string name="desc" value="A letter from &quot;Dark Lord&quot; of Kerning City. Needs to be shown to the &quot;Test Instructor For Thieves&quot; at somewhere around the city. "/>
+		</imgdir>
+    <imgdir name="4031012">
+			<string name="name" value="The Proof of a Hero"/>
+			<string name="desc" value="A proof from the instructor that you have passed the test for the 2nd job advancement. Once possessed, you'll be recognized as a hero."/>
+		</imgdir>
+    <imgdir name="4031013">
+			<string name="name" value="Dark Marble"/>
+			<string name="desc" value="A mysterious marble that possesses the dark, ugly nature of the monster."/>
+		</imgdir>
+    <imgdir name="4031014">
+			<string name="name" value="Rina's Unagi Special"/>
+			<string name="desc" value="A special Unagi consisting of the tails of Curse Eye...and pig's head. Needs to be delivered to Ronnie."/>
+		</imgdir>
+    <imgdir name="4031015">
+			<string name="name" value="Fresh Milk"/>
+			<string name="desc" value="Ronnie's favorite Fresh Milk."/>
+		</imgdir>
+    <imgdir name="4031016">
+			<string name="name" value="Secret Book"/>
+			<string name="desc" value="No one knows what's in this book."/>
+		</imgdir>
+</imgdir>

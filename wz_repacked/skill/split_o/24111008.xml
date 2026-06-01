@@ -1,0 +1,7 @@
+<imgdir name="24111008">
+        <string name="name" value="Rapier Wit" />
+        <string name="desc" value="Rapier Wit&apos;s additional attack" />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+        <string name="pdesc" value="Rapier Wit&apos;s additional attack" />
+        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+    </imgdir>

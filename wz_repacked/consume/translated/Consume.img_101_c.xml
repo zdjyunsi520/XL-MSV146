@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041322">
+		<string name="name" value="老兵十字腰带强化卷轴 60%"/>
+		<string name="desc" value="强化老兵十字腰带的属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：40%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+1\r\n魔法攻击：+1\r\n物理防御：+30\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2041323">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 攻击 25%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041324">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 魔法攻击 25%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041325">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：50%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041326">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：50%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041327">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 力量 30%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：25%\r\n力量：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041328">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 智力 30%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：25%\r\n智力：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041329">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：25%\r\n敏捷：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041330">
+		<string name="name" value="黄金猪猪梦腰带强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化黄金猪猪梦腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：25%\r\n幸运：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041331">
+		<string name="name" value="斯皮尔格曼腰带混沌卷轴 30%"/>
+		<string name="desc" value="可能强化或弱化斯皮尔格曼腰带。部分属性不会受到影响。\n如果失败，装备有70%的概率被完全破坏。"/>
+	</imgdir>
+    <imgdir name="2041332">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 力量 30%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：70%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041333">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 智力 30%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：70%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041334">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：70%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041335">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：70%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041336">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 武器攻击 20%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041337">
+		<string name="name" value="斯皮尔格曼腰带强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化斯皮尔格曼腰带的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041508">
+		<string name="name" value="光辉沉默十字肩饰强化卷轴"/>
+		<string name="desc" value="赋予光辉沉默十字肩饰经验值增强效果。\n成功率：50%，全属性+2，武器/魔法攻击+2，武器/魔法防御+10。\n如果失败，装备有50%的概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2041509">
+		<string name="name" value="老兵十字肩饰强化卷轴 20%"/>
+		<string name="desc" value="强化老兵十字肩饰的属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：80%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+2\r\n魔法攻击：+2\r\n命中：+50\r\n回避：+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2041510">
+		<string name="name" value="老兵十字肩饰强化卷轴 60%"/>
+		<string name="desc" value="强化老兵十字肩饰的属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：40%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+1\r\n魔法攻击：+1\r\n命中：+20\r\n回避：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2041511">
+		<string name="name" value="8周年肩饰强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫宝石肩饰和大冒险岛紫宝石肩饰。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：50%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+</imgdir>

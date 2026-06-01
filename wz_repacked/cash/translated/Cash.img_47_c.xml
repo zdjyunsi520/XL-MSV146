@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530241">
+			<string name="name" value="装备栏8格扩展券"/>
+			<string name="desc" value="双击可获得1张装备栏8格扩展券。"/>
+		</imgdir>
+    <imgdir name="5530242">
+			<string name="name" value="消耗栏8格扩展券"/>
+			<string name="desc" value="双击可获得1张消耗栏8格扩展券。"/>
+		</imgdir>
+    <imgdir name="5530243">
+			<string name="name" value="设置栏8格扩展券"/>
+			<string name="desc" value="双击可获得1张设置栏8格扩展券。"/>
+		</imgdir>
+    <imgdir name="5530244">
+			<string name="name" value="其他栏8格扩展券"/>
+			<string name="desc" value="双击可获得1张其他栏8格扩展券。"/>
+		</imgdir>
+    <imgdir name="5530245">
+			<string name="name" value="单张特殊潜能卷轴兑换券"/>
+			<string name="desc" value="双击可获得1张特殊潜能卷轴。"/>
+		</imgdir>
+    <imgdir name="5530246">
+			<string name="name" value="单张高级装备强化卷轴兑换券"/>
+			<string name="desc" value="双击可获得1张高级装备强化卷轴。"/>
+		</imgdir>
+    <imgdir name="5530247">
+			<string name="name" value="单张战斗模式攻击卷轴70%兑换券"/>
+			<string name="desc" value="双击后有70%的概率获得一张#c战斗模式额外攻击力+3#的卷轴。"/>
+		</imgdir>
+    <imgdir name="5530253">
+			<string name="name" value="大佬神秘礼盒"/>
+			<string name="desc" value="双击可获得一个大佬神秘礼盒。双击后请在消耗栏中查看哦。"/>
+		</imgdir>
+    <imgdir name="5530257">
+			<string name="name" value="宠物守护卷轴兑换券"/>
+			<string name="desc" value="双击可兑换一张宠物装备守护卷轴。在#c宠物装备#上使用后，下次使用卷轴失败时可#c保留卷轴效果1次#。成功使用卷轴后保护效果也会消失。\n可与#c安全卷轴#同时使用。"/>
+		</imgdir>
+    <imgdir name="5530258">
+			<string name="name" value="宠物安全卷轴兑换券"/>
+			<string name="desc" value="双击可兑换一张宠物装备安全卷轴。在#c宠物装备#上使用后，卷轴失败时#c不会减少可升级次数#，保护1次。成功使用卷轴后保护效果也会消失。\n可与#c守护卷轴#同时使用。"/>
+		</imgdir>
+    <imgdir name="5530259">
+			<string name="name" value="宠物幸运日卷轴兑换券"/>
+			<string name="desc" value="双击可兑换一张宠物装备幸运日卷轴。使用后下次使用卷轴的成功率提高10%。\n仅限#c宠物装备#使用。"/>
+		</imgdir>
+    <imgdir name="5530267">
+			<string name="name" value="战国骑宠券"/>
+			<string name="desc" value="战国骑宠优惠券。可获得星月影骑宠，有效期90天。"/>
+		</imgdir>
+    <imgdir name="5530268">
+			<string name="name" value="银色潜能槽位雕刻券"/>
+			<string name="desc" value="可兑换1个银色潜能槽位雕刻刀的优惠券，#c双击#后有几率解锁1个附加潜能槽位。"/>
+		</imgdir>
+    <imgdir name="5530269">
+			<string name="name" value="金色潜能槽位雕刻券"/>
+			<string name="desc" value="可兑换1个金色潜能槽位雕刻刀的优惠券，#c双击#后有几率解锁1个附加潜能槽位。"/>
+		</imgdir>
+    <imgdir name="5530270">
+			<string name="name" value="奇迹混沌卷轴60%兑换券"/>
+			<string name="desc" value="可兑换1张奇迹混沌卷轴60%的优惠券，#c双击#后可调整当前装备的属性值。"/>
+		</imgdir>
+    <imgdir name="5530271">
+			<string name="name" value="2星强化卷轴兑换券"/>
+			<string name="desc" value="可兑换1张2星强化卷轴的优惠券，#c双击#后可将已强化的装备提升至2星状态。"/>
+		</imgdir>
+    <imgdir name="5530272">
+			<string name="name" value="金色锤子50%兑换券"/>
+			<string name="desc" value="#c双击#此优惠券可获得1张金色锤子50%。使用后有50%的概率为装备增加1次额外的卷轴使用机会。每件装备只能使用1次，失败时会消耗1个升级次数。"/>
+		</imgdir>
+    <imgdir name="5530275">
+			<string name="name" value="欢乐时光绿色礼盒"/>
+			<string name="desc" value="参加每日欢乐时光的特别礼物！#c双击#礼盒即可领取礼物。\n#c- 冒险岛管理员"/>
+		</imgdir>
+    <imgdir name="5530276">
+			<string name="name" value="欢乐时光蓝色礼盒"/>
+			<string name="desc" value="参加每日欢乐时光的特别礼物！#c双击#礼盒即可领取礼物。\n#c- 冒险岛管理员"/>
+		</imgdir>
+    <imgdir name="5530277">
+			<string name="name" value="欢乐时光红色礼盒"/>
+			<string name="desc" value="参加每日欢乐时光的特别礼物！#c双击#礼盒即可领取礼物。\n#c- 冒险岛管理员"/>
+		</imgdir>
+	</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431060">
+		<string name="name" value="博物馆之王黄金"/>
+		<string name="desc" value="通过将海洋、水果和化石博物馆全部填满#c三次#获得的礼物。双击检查内容。"/>
+	</imgdir>
+    <imgdir name="2431073">
+		<string name="name" value="永久双倍青蛙券"/>
+		<string name="desc" value="双击获得永久[双倍青蛙坐骑]。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2431083">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+    <imgdir name="2431084">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+    <imgdir name="2431085">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+    <imgdir name="2431086">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+    <imgdir name="2431087">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+    <imgdir name="2431088">
+		<string name="name" value="炎热一天礼物盒子4/6"/>
+		<string name="desc" value="卡桑德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431089">
+		<string name="name" value="炎热一天礼物盒子4/7"/>
+		<string name="desc" value="卡桑德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431090">
+		<string name="name" value="新手礼包35级武器盒子"/>
+		<string name="desc" value="送给枫叶新手礼包购买者的特殊武器盒子。打开它为你的职业获得35级混沌武器。"/>
+	</imgdir>
+    <imgdir name="2431091">
+		<string name="name" value="基础礼包礼物盒子"/>
+		<string name="desc" value="送给枫叶基础礼包购买者的特殊礼物盒子。打开它获得超棒的礼物。"/>
+	</imgdir>
+    <imgdir name="2431092">
+		<string name="name" value="特殊礼包礼物盒子"/>
+		<string name="desc" value="送给枫叶特殊礼包购买者的特殊礼物盒子。打开它获得超棒的礼物。"/>
+	</imgdir>
+    <imgdir name="2431093">
+		<string name="name" value="基础礼包buff"/>
+		<string name="desc" value="给枫叶基础礼包购买者的特殊buff。30分钟内增加武器ATT和魔法ATT。你的等级每升10级，buff效果增强，最高到100级。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2431094">
+		<string name="name" value="特殊礼包buff"/>
+		<string name="desc" value="给特殊礼包购买者的特殊buff。30分钟内增加武器ATT和魔法ATT。你的等级每升10级，buff效果增强。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2431097">
+		<string name="name" value="异国礼物盒子"/>
+		<string name="desc" value="装有展示你时尚感的道具。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2431098">
+		<string name="name" value="实用礼物盒子"/>
+		<string name="desc" value="装有你日常生活中会有用的道具。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2431100">
+		<string name="name" value="新手礼包65级武器盒子"/>
+		<string name="desc" value="给枫叶新手礼包购买者的特殊武器盒子。打开它为你的职业获得65级混沌武器。"/>
+	</imgdir>
+    <imgdir name="2431101">
+		<string name="name" value="新手礼包95级武器盒子"/>
+		<string name="desc" value="给枫叶新手礼包购买者的特殊武器盒子。打开它为你的职业获得95级混沌武器。"/>
+	</imgdir>
+    <imgdir name="2431104">
+		<string name="name" value="升级礼包buff"/>
+		<string name="desc" value="给升级礼包购买者的特殊buff。30分钟内增加武器ATT和魔法ATT。你的等级每升10级，buff效果增强。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2431105">
+		<string name="name" value="快乐时光礼物盒子"/>
+		<string name="desc" value="双击收到一份#c惊喜礼物#！"/>
+	</imgdir>
+</imgdir>

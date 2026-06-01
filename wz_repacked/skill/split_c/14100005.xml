@@ -1,0 +1,5 @@
+<imgdir name="14100005">
+        <string name="name" value="消失术" />
+        <string name="desc" value="在隐身术激活状态下使用时，对怪物造成额外伤害。技能发动后隐身术立即解除。\n需要技能：#c隐身术 Lv. 10#" />
+        <string name="h" value="伤害：#damage%" />
+    </imgdir>

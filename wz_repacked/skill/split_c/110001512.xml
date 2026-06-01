@@ -1,0 +1,5 @@
+<imgdir name="110001512">
+        <string name="name" value="野性意志" />
+        <string name="desc" value="集中精神，可以无视部分异常状态效果。但这不会对所有异常状态生效。" />
+        <string name="h" value="MP消耗: #mpCon, 冷却时间: #cooltime秒" />
+    </imgdir>

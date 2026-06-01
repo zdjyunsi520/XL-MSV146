@@ -1,0 +1,5 @@
+<imgdir name="15111022">
+        <string name="name" value="狂风" />
+        <string name="desc" value="将连接技能蓄积的力量一次释放！可以与除雷电和自身技能以外的所有技能连接。" />
+        <string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。需要蓄积 #x 次雷电增益后才可使用。每次蓄积雷电增益增加伤害：#y%，持续时间：#time秒。此技能不触发雷电增益。\n冷却时间：#cooltime秒。" />
+    </imgdir>

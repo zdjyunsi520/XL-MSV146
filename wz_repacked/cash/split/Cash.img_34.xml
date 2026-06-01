@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5240074">
+		<string name="name" value="Hot Pumpkin Porridge"/>
+		<string name="desc" value="A #cpumkin# lover's favorite. This Hot Pumpkin Porridge will warm even the coldest pet. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240075">
+		<string name="name" value="Salad"/>
+		<string name="desc" value="A lovely selection of vegetables that can only be eaten by the #cKangaroo#. Complete recovers Fullness and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240077">
+		<string name="name" value="Eucalyptus Leaves"/>
+		<string name="desc" value="These leaves are the only thing #cKoalas# eat, besides pet food. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240078">
+		<string name="name" value="Acorn"/>
+		<string name="desc" value="Plump acorn eaten exclusively by the #cChipmunk#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240079">
+		<string name="name" value="Puffram's Cloud Candy"/>
+		<string name="desc" value="A sweet cloud candy that can only be eaten by #cPuffram#. Complete recovers Fullness and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5251000">
+		<string name="name" value="Wedding Ticket (Cathedral)"/>
+		<string name="desc" value="Ticket to have a wedding at the Cathedral w/ invitations"/>
+	</imgdir>
+    <imgdir name="5251001">
+		<string name="name" value="Wedding Ticket (Chapel)"/>
+		<string name="desc" value="Ticket to have a wedding at the Vegas Chapel w/ invitations"/>
+	</imgdir>
+    <imgdir name="5251002">
+		<string name="name" value="Premium Wedding Ticket (Chapel)"/>
+		<string name="desc" value="Chapel wedding ticket that includes invitations and a special wedding event."/>
+	</imgdir>
+    <imgdir name="5251003">
+		<string name="name" value="Premium Wedding Ticket (Cathedral)"/>
+		<string name="desc" value="Cathedral wedding ticket that includes invitations and a special wedding event. "/>
+	</imgdir>
+    <imgdir name="5251016">
+		<string name="name" value="Commitment Ceremony Ticket"/>
+		<string name="desc" value="A ticket necessary to celebrate 30 days and 100 days commitment ceremony."/>
+	</imgdir>
+    <imgdir name="5251100">
+		<string name="name" value="Wedding Invitation Ticket"/>
+		<string name="desc" value="Ticket that lets you make additional invitation cards.(one-time use)"/>
+	</imgdir>
+    <imgdir name="5252000">
+		<string name="name" value="Event Ticket (NX)"/>
+		<string name="desc" value="A ticket that's required to enter the Mini Dungeon during the event period. Without this, you won't be able to fully participate in the event."/>
+	</imgdir>
+    <imgdir name="5252001">
+		<string name="name" value="Ticket to Treasure Dungeon"/>
+		<string name="desc" value="This ticket allows you to enter the Treasure Dungeon."/>
+	</imgdir>
+    <imgdir name="5252009">
+		<string name="name" value="VIP Tourist Ticket"/>
+		<string name="desc" value="A ticket for special tourists. You can get 2 Commemorative Coins after finishing your tour.\r\n#cIn addition, it will increase your chance of receiving a Commemorative Coin from Dolphin or Lulu.#"/>
+	</imgdir>
+    <imgdir name="5252017">
+		<string name="name" value="Red Leaf High Entry Key"/>
+		<string name="desc" value="Opens up the Eastern gate lock. Now you can take a tour of Red Leaf High School!"/>
+	</imgdir>
+    <imgdir name="5281000">
+		<string name="name" value="Passed Gas"/>
+		<string name="desc" value="A special effect that shows Passed Gas. Double-click to use this effect one time only!"/>
+	</imgdir>
+    <imgdir name="5281001">
+		<string name="name" value="Floral Scent"/>
+		<string name="desc" value="A special effect that shows Floral Scent. "/>
+	</imgdir>
+    <imgdir name="5281003">
+		<string name="name" value="Stinkbomb"/>
+		<string name="desc" value="A rank scent creeps into the air and changes the expression of anyone unfortunate enough to be nearby. But there's always a silver lining! Anyone within range will also experience a 10% Maximum HP increase for 15 minutes."/>
+	</imgdir>
+    <imgdir name="5281004">
+		<string name="name" value="Floral Scent"/>
+		<string name="desc" value="This tantalizing scent can change the expression of anyone nearby. Anyone within range will also experience a 10% Maximum Mana increase for 15 minutes."/>
+	</imgdir>
+    <imgdir name="5290000">
+		<string name="name" value="Guild Forum Emoticon - Angry"/>
+		<string name="desc" value="An emoticon that can be entered in Guild Forum."/>
+	</imgdir>
+</imgdir>

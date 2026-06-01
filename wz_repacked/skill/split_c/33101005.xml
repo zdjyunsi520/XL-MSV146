@@ -1,0 +1,5 @@
+<imgdir name="33101005">
+        <string name="name" value="野性呼唤" />
+        <string name="desc" value="你的美洲豹发出咆哮，短时间内提升队伍攻击力。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：-#x%，额外回避概率：#x%，最大MP：+#x%，暴击率：+#y%。队伍攻击力：+#z%" />
+    </imgdir>

@@ -1,0 +1,290 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000015"/>
+			<int name="1" value="2044102"/>
+			<int name="2" value="4010000"/>
+			<int name="3" value="4020006"/>
+			<int name="4" value="2022053"/>
+			<int name="5" value="2022054"/>
+			<int name="6" value="2022055"/>
+			<int name="7" value="2043214"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2000001"/>
+			<int name="11" value="1060009"/>
+			<int name="12" value="2040929"/>
+			<int name="13" value="1332006"/>
+		</imgdir>
+    <imgdir name="2110300">
+		<string name="episode" value=" Lv. :  24\nForm : Mammal\n\nA type of Talpidae that lives only in the desert. It hunts for food under the sand. It has a good rapport with the Sand Dwarves, so it is frequently seen carrying a small Sand Dwarf on its head."/>
+		<imgdir name="map">
+			<int name="0" value="260020600"/>
+			<int name="1" value="260020610"/>
+			<int name="2" value="260020630"/>
+			<int name="3" value="260020700"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4020007"/>
+			<int name="1" value="4020000"/>
+			<int name="2" value="4010007"/>
+			<int name="3" value="4000350"/>
+			<int name="4" value="2022053"/>
+			<int name="5" value="2022054"/>
+			<int name="6" value="2022055"/>
+			<int name="7" value="2043214"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2000004"/>
+			<int name="11" value="1002030"/>
+			<int name="12" value="2040924"/>
+			<int name="13" value="2049401"/>
+			<int name="14" value="2070003"/>
+		</imgdir>
+    <imgdir name="2110301">
+		<string name="episode" value=" Lv. :  29\nForm : Mammal\n\nA type of scorpion that lives only in the desert. Although it has a poisonous sting on its tail, the sting is rarely used to attack; only a very few number of people have been attacked by its sting.  In that sense, Russellon, who lost an eye to the Scorpion, is a very rare case."/>
+		<imgdir name="map">
+			<int name="0" value="260020500"/>
+			<int name="1" value="260020600"/>
+			<int name="2" value="260020620"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4010002"/>
+			<int name="1" value="4010001"/>
+			<int name="2" value="4004002"/>
+			<int name="3" value="2043002"/>
+			<int name="4" value="4010007"/>
+			<int name="5" value="4000351"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="2043114"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2060000"/>
+			<int name="13" value="1002643"/>
+			<int name="14" value="2048004"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="1472031"/>
+		</imgdir>
+    <imgdir name="2130100">
+		<string name="episode" value=" Lv. :  22\nForm : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nA monster with an incredible legend behind it. This Dark Axe Stump is apparently the deeply agitated form of the Axe Stump who'd had an unresolved past life as a tree stump with an axe left in it by some lumberjack. The Dark Axe Stump, just like all the other members of the Stump family of monsters, is extremely strong and is capable of extreme attacks, so all beginners should be very very careful."/>
+		<imgdir name="map">
+			<int name="0" value="102020400"/>
+			<int name="1" value="222010002"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000018"/>
+			<int name="1" value="2012002"/>
+			<int name="2" value="2044202"/>
+			<int name="3" value="4010001"/>
+			<int name="4" value="4020007"/>
+			<int name="5" value="4006001"/>
+			<int name="6" value="4000215"/>
+			<int name="7" value="1302019"/>
+			<int name="8" value="2022053"/>
+			<int name="9" value="2022054"/>
+			<int name="10" value="2022055"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2000000"/>
+			<int name="14" value="1082031"/>
+			<int name="15" value="2040420"/>
+			<int name="16" value="1482001"/>
+		</imgdir>
+    <imgdir name="2130103">
+		<string name="episode" value=" Lv. :  21\nForm : Reptile\nSpecial Trait : -50% Poison Attribute Damage.\n\nA small snake-like monster that is most often found in underground swamps that are damp and wet. Tends to move extremely fast and has a high level of Avoidability as well as Accuracy, which makes it a difficult target. If you're not confident about your Accuracy of attack, stay away from Jr. Necki. It's advised that you ignore Luke, the guard's request at the dungeon entrance until you've leveled-up high enough to handle this monster.   "/>
+		<imgdir name="map">
+			<int name="0" value="103030000"/>
+			<int name="1" value="500020101"/>
+			<int name="2" value="701010000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000034"/>
+			<int name="1" value="4010002"/>
+			<int name="2" value="4020006"/>
+			<int name="3" value="2010003"/>
+			<int name="4" value="2022053"/>
+			<int name="5" value="2022054"/>
+			<int name="6" value="2022055"/>
+			<int name="7" value="4001431"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2061000"/>
+			<int name="11" value="1002055"/>
+			<int name="12" value="2040000"/>
+			<int name="13" value="1382003"/>
+		</imgdir>
+    <imgdir name="2220000">
+		<string name="episode" value=" Lv. :  20\nForm : Mammal\n\nThe oldest snail in Maple World. It has a huge body that has developed over the years and white mustache that suits his old age. He enjoys the morning dew, so one may frequently spot him wandering around to consume the dew on green leaves every morning. If fortunate enough, one can acquire a Rainbow-colored Snail Shell which is said to grant its owner a wish."/>
+		<imgdir name="map">
+			<int name="0" value="180000002"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000000"/>
+			<int name="1" value="4000016"/>
+			<int name="2" value="4000019"/>
+			<int name="3" value="4010000"/>
+			<int name="4" value="4020000"/>
+			<int name="5" value="2000000"/>
+			<int name="6" value="2010009"/>
+			<int name="7" value="2040001"/>
+			<int name="8" value="2040301"/>
+			<int name="9" value="2040401"/>
+			<int name="10" value="2043201"/>
+			<int name="11" value="2043701"/>
+			<int name="12" value="2041016"/>
+			<int name="13" value="2043801"/>
+			<int name="14" value="2044001"/>
+			<int name="15" value="2040501"/>
+			<int name="16" value="2040601"/>
+			<int name="17" value="2060000"/>
+			<int name="18" value="2061000"/>
+			<int name="19" value="2070000"/>
+			<int name="20" value="1002049"/>
+			<int name="21" value="1002073"/>
+			<int name="22" value="1002159"/>
+			<int name="23" value="1002150"/>
+			<int name="24" value="1040041"/>
+			<int name="25" value="1041024"/>
+			<int name="26" value="1050025"/>
+			<int name="27" value="1051005"/>
+			<int name="28" value="1040023"/>
+			<int name="29" value="1041033"/>
+			<int name="30" value="1040050"/>
+			<int name="31" value="1041060"/>
+			<int name="32" value="1082001"/>
+			<int name="33" value="1082028"/>
+			<int name="34" value="1082018"/>
+			<int name="35" value="1082039"/>
+			<int name="36" value="1072052"/>
+			<int name="37" value="1072074"/>
+			<int name="38" value="1072069"/>
+			<int name="39" value="1072087"/>
+			<int name="40" value="2040002"/>
+			<int name="41" value="2040302"/>
+			<int name="42" value="2040402"/>
+			<int name="43" value="2043302"/>
+			<int name="44" value="2043702"/>
+			<int name="45" value="2022053"/>
+			<int name="46" value="2022054"/>
+			<int name="47" value="2022055"/>
+			<int name="48" value="2043114"/>
+			<int name="49" value="2044414"/>
+			<int name="50" value="2040418"/>
+			<int name="51" value="2040928"/>
+			<int name="52" value="1002619"/>
+			<int name="53" value="1052104"/>
+			<int name="54" value="1082186"/>
+			<int name="55" value="1072291"/>
+			<int name="56" value="2330000"/>
+			<int name="57" value="2044801"/>
+			<int name="58" value="2044902"/>
+			<int name="59" value="2049301"/>
+			<int name="60" value="2049401"/>
+			<int name="61" value="4001473"/>
+		</imgdir>
+    <imgdir name="2220100">
+		<string name="episode" value=" Lv. :  20\nForm : Plant\n\nA mushroom monster with a blue cap. Is the fattest looking mushroom of all the mushrooms in that family of monsters. For a mushroom, which are just about everywhere throughout Maple World, it is one of the rarer breeds. But go nearby Henesys and you'll find yourself entering into the Blue Mushroom Forest! These mushrooms will give up some gold at times, enriching the lives of many happy adventurers. "/>
+		<imgdir name="map">
+			<int name="0" value="100020300"/>
+			<int name="1" value="100020301"/>
+			<int name="2" value="800010000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000009"/>
+			<int name="1" value="2044002"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="2022016"/>
+			<int name="5" value="1302021"/>
+			<int name="6" value="4020006"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2061000"/>
+			<int name="12" value="1041016"/>
+			<int name="13" value="1472003"/>
+		</imgdir>
+    <imgdir name="2220110">
+		<string name="episode" value="Level: 20\nForm: Plant\n\nThese Blue Mushrooms look as if somone has just hit them over the head. But no one has touched them! It's unclear why these strange Blue Mushrooms, who seem to always be crying, have appeared around Henesys."/>
+		<imgdir name="map">
+			<int name="0" value="100020300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000009"/>
+			<int name="1" value="2044002"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4020005"/>
+			<int name="4" value="4000047"/>
+			<int name="5" value="1432001"/>
+			<int name="6" value="4020006"/>
+			<int name="7" value="2000002"/>
+			<int name="8" value="1072011"/>
+			<int name="9" value="1332001"/>
+			<int name="10" value="1382002"/>
+			<int name="11" value="1002178"/>
+			<int name="12" value="2022053"/>
+			<int name="13" value="2022054"/>
+			<int name="14" value="2022055"/>
+			<int name="15" value="4001473"/>
+			<int name="16" value="2060000"/>
+			<int name="17" value="1041020"/>
+			<int name="18" value="2040400"/>
+			<int name="19" value="2070008"/>
+		</imgdir>
+    <imgdir name="2230100">
+		<string name="episode" value=" Lv. :  27\nForm : Reptile\n\nA lizard monster that is spotted around the depths of dungeons in large herds. Is as evil and ill-tempered as it looks, directing all sorts of aggression toward adventurers. Go into Sleepywood and you'll see the area that's been dominated by Evil Eyes. If you find yourself accidentally fallen in the Cave of Evil Eye, just stay calm and slowly extricate yourself from the situation! "/>
+		<imgdir name="map">
+			<int name="0" value="101030000"/>
+			<int name="1" value="101030100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000007"/>
+			<int name="1" value="2044402"/>
+			<int name="2" value="1032008"/>
+			<int name="3" value="4010004"/>
+			<int name="4" value="4020005"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="4001431"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000001"/>
+			<int name="12" value="1041063"/>
+			<int name="13" value="2048000"/>
+			<int name="14" value="1492001"/>
+		</imgdir>
+    <imgdir name="2230101">
+		<string name="episode" value=" Lv. :  24\nForm : Immortal\nSpecial Trait : Vulnerable to Sanctity Attribute Attack.\n\nA mushroom monster that was reincarnated from previously dead mushrooms that were destroyed by adventurers by attaching a charmed amulet on its head. Who knows why anyone would do such a thing? In any case, these mushrooms have strong attacks, defenses as well as speed, but are extremely vulnerable to light. "/>
+		<imgdir name="map">
+			<int name="0" value="100020400"/>
+			<int name="1" value="100020401"/>
+			<int name="2" value="100020500"/>
+			<int name="3" value="800020100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000008"/>
+			<int name="1" value="2044302"/>
+			<int name="2" value="4010002"/>
+			<int name="3" value="4020003"/>
+			<int name="4" value="1382015"/>
+			<int name="5" value="1442014"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000003"/>
+			<int name="12" value="1051003"/>
+			<int name="13" value="2044210"/>
+			<int name="14" value="1472001"/>
+		</imgdir>
+    <imgdir name="2230102">
+		<string name="episode" value=" Lv. :  25\nForm : Mammal\n\nPig monsters who'd started to question the class distinctions between regular Pigs and the Ribbon Pigs and decided to retreat into the highlands. These Pigs had to train themselves to adapt to the rough terrains of the highlands and have as a result turned into crazy powerful Wild Boars with incredible body strength and enormously scary teeth. "/>
+		<imgdir name="map">
+			<int name="0" value="102030000"/>
+			<int name="1" value="102030100"/>
+		</imgdir>
+</imgdir>

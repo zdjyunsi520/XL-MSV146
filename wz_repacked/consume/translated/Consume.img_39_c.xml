@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022253">
+		<string name="name" value="蘑菇糖果"/>
+		<string name="desc" value="来自Sen的美味蘑菇糖果。这个糖果能让任何人都自我感觉良好。好到能让跳跃+3，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2022255">
+		<string name="name" value="南瓜块"/>
+		<string name="desc" value="制作万圣节南瓜灯剩下的南瓜块。南瓜完全成熟，香气比以往更甜。每块恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="2022256">
+		<string name="name" value="万圣节糖果"/>
+		<string name="desc" value="条纹包装的糖果。孩子们喜欢它。恢复20 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022257">
+		<string name="name" value="发光岩石的力量"/>
+		<string name="desc" value="从发光岩石获得的神秘力量。短时间内提升武器攻击和魔法攻击，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022258">
+		<string name="name" value="椰子汁"/>
+		<string name="desc" value="椰子顶部有一个小孔，吸管从这里插进去。用吸管喝汁以获得最大清爽。恢复100 HP。"/>
+	</imgdir>
+    <imgdir name="2022259">
+		<string name="name" value="攻击水晶"/>
+		<string name="desc" value="充满神秘力量的红色水晶。攻击+5，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022260">
+		<string name="name" value="命中水晶"/>
+		<string name="desc" value="充满神秘力量的蓝色水晶碎片。命中+100，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022261">
+		<string name="name" value=" stuffing舀"/>
+		<string name="desc" value="美味的一舀 stuffing。这种美味偶尔才会出现，所以在它变凉之前吃掉吧。\n[恢复600 HP和MP]"/>
+	</imgdir>
+    <imgdir name="2022262">
+		<string name="name" value="蔓越莓酱"/>
+		<string name="desc" value="这种美味的蔓越莓酱几乎配任何餐点！\n[魔法攻击+30，持续3分钟]"/>
+	</imgdir>
+    <imgdir name="2022263">
+		<string name="name" value="土豆泥"/>
+		<string name="desc" value="看起来像有人掉了这个土豆。\n[恢复800 HP]"/>
+	</imgdir>
+    <imgdir name="2022264">
+		<string name="name" value="肉汁"/>
+		<string name="desc" value="除了肉汁船之外，还有肉汁火车更好。\n[恢复800 MP]"/>
+	</imgdir>
+    <imgdir name="2022265">
+		<string name="name" value="下雪鱼面包"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022266">
+		<string name="name" value="力量之拳"/>
+		<string name="desc" value="狩猎比赛中使用的拳头。提升武器和魔法攻击。"/>
+	</imgdir>
+    <imgdir name="2022267">
+		<string name="name" value="风之翼"/>
+		<string name="desc" value="狩猎比赛中使用的一对翅膀。提升速度和跳跃。"/>
+	</imgdir>
+    <imgdir name="2022268">
+		<string name="name" value="疯狂骷髅"/>
+		<string name="desc" value="狩猎比赛中使用的令人眼花的骷髅。反转方向。"/>
+	</imgdir>
+    <imgdir name="2022271">
+		<string name="name" value="冒险岛火腿"/>
+		<string name="desc" value="上面插着槲寄生枝的美味圣诞火腿。\n恢复3000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022272">
+		<string name="name" value="烟熏三文鱼"/>
+		<string name="desc" value="传统的Versalmas晚餐。闻起来...像鱼。\n恢复2385 HP和3791 MP。"/>
+	</imgdir>
+    <imgdir name="2022273">
+		<string name="name" value="Ssiws芝士"/>
+		<string name="desc" value="来自Versal不同维度的芝士。看起来有趣但闻起来很香。\n魔法攻击+220，持续2分钟。"/>
+	</imgdir>
+    <imgdir name="2022274">
+		<string name="name" value="糖衣橄榄"/>
+		<string name="desc" value="裹着粉色糖霜的橄榄——深受Versal孩子们喜爱的特殊美味！\n速度和跳跃+40，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022275">
+		<string name="name" value="焦糖洋葱"/>
+		<string name="desc" value="O-Pongo的最爱！奶油焦糖配酥脆洋葱！\n恢复800 HP和MP。"/>
+	</imgdir>
+</imgdir>

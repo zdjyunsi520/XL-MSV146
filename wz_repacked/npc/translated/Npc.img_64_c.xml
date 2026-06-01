@@ -1,0 +1,95 @@
+<imgdir name="Npc.img">
+    <imgdir name="3001017">
+		<string name="name" value="维尔德罗斯"/>
+	</imgdir>
+    <imgdir name="3001018">
+		<string name="name" value="艾蒂亚"/>
+	</imgdir>
+    <imgdir name="3001019">
+		<string name="name" value="卡琳"/>
+		<string name="func" value="未来的商人"/>
+		<string name="n0" value="当哈普和马隆忙的时候，我来经营商店。"/>
+		<string name="n1" value="我想卖最多！"/>
+		<string name="d0" value="你需要什么吗？"/>
+		<string name="d1" value="我们的大部分货物都是在这里制造的。"/>
+	</imgdir>
+    <imgdir name="3001020">
+		<string name="name" value="暴君王座入口"/>
+	</imgdir>
+    <imgdir name="3001021">
+		<string name="name" value="暴君王座出口"/>
+	</imgdir>
+    <imgdir name="3001022">
+		<string name="name" value="暴君王座出口"/>
+	</imgdir>
+    <imgdir name="3001023">
+		<string name="name" value="维尔德罗斯休息室入口"/>
+	</imgdir>
+    <imgdir name="3001024">
+		<string name="name" value="维尔德罗斯休息室出口"/>
+	</imgdir>
+    <imgdir name="3001025">
+		<string name="name" value="维克多工作室入口"/>
+	</imgdir>
+    <imgdir name="3001026">
+		<string name="name" value="维克多工作室出口"/>
+	</imgdir>
+    <imgdir name="3001027">
+		<string name="name" value="特雷格洛实验室入口"/>
+	</imgdir>
+    <imgdir name="3001028">
+		<string name="name" value="特雷格洛实验室出口"/>
+	</imgdir>
+    <imgdir name="3001029">
+		<string name="name" value="莫罗树"/>
+	</imgdir>
+    <imgdir name="3001030">
+		<string name="name" value="托内罗"/>
+		<string name="n0" value="这个世界上的一切都需要付出代价。"/>
+		<string name="n1" value="我们的商队被称为格兰蒂斯暗影。"/>
+		<string name="d0" value="我会在任何地方、任何时间交易任何东西。只要价格合适。"/>
+		<string name="d1" value="我是托内罗，格兰蒂斯暗影的第一冠军。"/>
+	</imgdir>
+    <imgdir name="3001031">
+		<string name="name" value="罗梅罗"/>
+		<string name="n0" value="托内罗是个骗子。"/>
+		<string name="n1" value="我是贸易之王。"/>
+		<string name="d0" value="哦，你有什么要交易的吗？"/>
+		<string name="d1" value="如果你想做交易，来找我。"/>
+	</imgdir>
+    <imgdir name="3001100">
+		<string name="name" value="艾蒂亚"/>
+		<string name="n0" value="不要打扰我的计划。"/>
+		<string name="n1" value="马格纳斯就在我们眼前。小心！"/>
+		<string name="d0" value="我正在制定收复市中心的策略。"/>
+		<string name="d1" value="如果不是急事，请离开。"/>
+	</imgdir>
+    <imgdir name="3001101">
+		<string name="name" value="皮斯顿"/>
+		<string name="n0" value="啊！嗯，嗯..."/>
+		<string name="n1" value="请保护收复总部！"/>
+		<string name="d0" value="艾蒂亚负责策略。我负责战斗！"/>
+		<string name="d1" value="在危机来临前要三思。"/>
+	</imgdir>
+    <imgdir name="3001102">
+		<string name="name" value="卡尔塔里昂"/>
+		<string name="n0" value="必须夺回赫利塞姆..."/>
+		<string name="n1" value="新星永远不会动摇。"/>
+		<string name="d0" value="我会守护市中心前哨直到安全。"/>
+		<string name="d1" value="什么事？"/>
+	</imgdir>
+    <imgdir name="3001103">
+		<string name="name" value="波波"/>
+		<string name="n0" value="波波从来没有食物.."/>
+		<string name="n1" value="波波总是饿。"/>
+		<string name="d0" value="波波饿..."/>
+		<string name="d1" value="波波困..."/>
+	</imgdir>
+    <imgdir name="3001104">
+		<string name="name" value="托内罗"/>
+		<string name="n0" value="这个世界上的一切都需要付出代价。"/>
+		<string name="n1" value="我们的商队被称为格兰蒂斯暗影。"/>
+		<string name="d0" value="我会在任何地方、任何时间交易任何东西。只要价格合适。"/>
+		<string name="d1" value="我是托内罗，格兰蒂斯暗影的第一冠军。"/>
+	</imgdir>
+</imgdir>

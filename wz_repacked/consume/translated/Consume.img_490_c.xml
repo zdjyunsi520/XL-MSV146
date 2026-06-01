@@ -1,0 +1,84 @@
+<imgdir name="Consume.img">
+    <imgdir name="2028215">
+		<string name="desc" value="此盒子包含一个10周年黑色防具。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年黑色防具盒"/>
+	</imgdir>
+    <imgdir name="2028216">
+		<string name="desc" value="此盒子包含10周年Prime Bits。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年Prime Bits盒"/>
+	</imgdir>
+    <imgdir name="2028222">
+		<string name="name" value="藏红花的珍贵草药袋"/>
+		<string name="desc" value="藏红花装着珍贵草药的袋子。打开看看里面有什么。\n#c2013年12月31日前可用#"/>
+	</imgdir>
+    <imgdir name="2028237">
+		<string name="name" value="科尔的珍贵矿石袋"/>
+		<string name="desc" value="科尔装着珍贵矿石的袋子。打开看看里面有什么。\n#c2013年12月31日前可用#"/>
+	</imgdir>
+    <imgdir name="2028238">
+		<string name="name" value="反抗特殊Bits盒"/>
+		<string name="desc" value="包含6个反抗特殊Bits之一的盒子。双击打开。\n#c2014年2月1日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028239">
+		<string name="name" value="喜悦特殊Bits盒"/>
+		<string name="desc" value="包含6个喜悦特殊Bits之一的盒子。双击打开。\n#cTKTKTK前可用。#"/>
+	</imgdir>
+    <imgdir name="2028240">
+		<string name="name" value="第1章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第1章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028241">
+		<string name="name" value="第2章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第2章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028242">
+		<string name="name" value="第3章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第3章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028243">
+		<string name="name" value="第4章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第4章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028244">
+		<string name="name" value="第5章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第5章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028245">
+		<string name="name" value="第6章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第6章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028246">
+		<string name="name" value="第7章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第7章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028247">
+		<string name="name" value="第8章RED硬币盒"/>
+		<string name="desc" value="完成Zero-第8章获得的盒装RED硬币。双击打开。\n#c2014年1月18日前可用。#"/>
+	</imgdir>
+    <imgdir name="2028248">
+		<string name="desc" value="包含RED重生火焰的礼盒。\r\n#c双击获得3个RED重生火焰。"/>
+		<string name="name" value="RED重生火焰礼盒"/>
+	</imgdir>
+    <imgdir name="2030049">
+		<string name="desc" value="一个施有传送回克里蒂亚斯咒语的魔法球。使用后消失。"/>
+		<string name="name" value="克里蒂亚斯返回魔法球"/>
+	</imgdir>
+    <imgdir name="2030050">
+		<string name="desc" value="一个施有传送回艾琳咒语的魔法球。使用后消失。"/>
+		<string name="name" value="艾琳返回魔法球"/>
+	</imgdir>
+    <imgdir name="2030051">
+		<string name="desc" value="一个施有传送回艾琳咒语的魔法球。使用后消失。"/>
+		<string name="name" value="艾琳返回魔法球"/>
+	</imgdir>
+    <imgdir name="2040359">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时摧毁物品几率：70%\r\n力量：+3\r\n#"/>
+		<string name="desc" value="提升彩虹耳环的力量属性。"/>
+		<string name="name" value="彩虹耳环力量卷轴70%"/>
+	</imgdir>
+    <imgdir name="2040360">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时摧毁物品几率：70%\r\n敏捷：+3\r\n#"/>
+		<string name="desc" value="提升彩虹耳环的敏捷属性。"/>
+		<string name="name" value="彩虹耳环敏捷卷轴70%"/>
+	</imgdir>
+</imgdir>

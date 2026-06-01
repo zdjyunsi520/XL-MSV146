@@ -1,0 +1,5 @@
+<imgdir name="2311002">
+        <string name="name" value="神秘之门" />
+        <string name="desc" value="创建通往最近城镇的传送门。所有队员可在传送门消失前多次使用。#c按上方向键#移动。\n前置技能: #c净化 Lv. 3#" />
+        <string name="h" value="MP #mpCon，传送门持续时间: #time秒" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9200014">
+		<string name="name" value="野生卡戈"/>
+	</imgdir>
+    <imgdir name="9200015">
+		<string name="name" value="棕色坦尼"/>
+	</imgdir>
+    <imgdir name="9200016">
+		<string name="name" value="击鼓兔子"/>
+	</imgdir>
+    <imgdir name="9200017">
+		<string name="name" value="粉色坦尼"/>
+	</imgdir>
+    <imgdir name="9200018">
+		<string name="name" value="小雪人"/>
+	</imgdir>
+    <imgdir name="9200019">
+		<string name="name" value="白牙"/>
+	</imgdir>
+    <imgdir name="9200020">
+		<string name="name" value="雪人&amp;佩佩"/>
+	</imgdir>
+    <imgdir name="9200021">
+		<string name="name" value="分离的雪人"/>
+	</imgdir>
+    <imgdir name="9200022">
+		<string name="name" value="分离的佩佩"/>
+	</imgdir>
+    <imgdir name="9300000">
+		<string name="name" value="小企鹅"/>
+	</imgdir>
+    <imgdir name="9300001">
+		<string name="name" value="鳄鱼"/>
+	</imgdir>
+    <imgdir name="9300002">
+		<string name="name" value="诅咒之眼"/>
+	</imgdir>
+    <imgdir name="9300003">
+		<string name="name" value="史莱姆王"/>
+	</imgdir>
+    <imgdir name="9300004">
+		<string name="name" value="模仿者"/>
+	</imgdir>
+    <imgdir name="9300005">
+		<string name="name" value="来自另一个维度的老鼠"/>
+	</imgdir>
+    <imgdir name="9300006">
+		<string name="name" value="来自另一个维度的黑老鼠"/>
+	</imgdir>
+    <imgdir name="9300007">
+		<string name="name" value="来自另一个维度的章鱼"/>
+	</imgdir>
+    <imgdir name="9300008">
+		<string name="name" value="来自另一个维度的暗影眼"/>
+	</imgdir>
+    <imgdir name="9300009">
+		<string name="name" value="来自另一个维度的方块傀儡"/>
+	</imgdir>
+    <imgdir name="9300010">
+		<string name="name" value="来自另一个维度的隆巴德"/>
+	</imgdir>
+</imgdir>

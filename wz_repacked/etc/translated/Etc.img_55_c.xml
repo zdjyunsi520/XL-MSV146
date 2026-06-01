@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001357">
+			<string name="name" value="猪肉"/>
+			<string name="desc" value="配酒绝佳"/>
+		</imgdir>
+    <imgdir name="4001358">
+			<string name="name" value="长木棍"/>
+			<string name="desc" value="用木头做的长棍子"/>
+		</imgdir>
+    <imgdir name="4001359">
+			<string name="name" value="小蜗牛壳"/>
+			<string name="desc" value="一种能放大声音的奇特贝壳，当你尖叫时会产生回音"/>
+		</imgdir>
+    <imgdir name="4001360">
+			<string name="name" value="白色裤子碎片"/>
+			<string name="desc" value="从某人的裤子上取下的一部分布料"/>
+		</imgdir>
+    <imgdir name="4001361">
+			<string name="name" value="墨水"/>
+			<string name="desc" value="来自章鱼的黑色墨水"/>
+		</imgdir>
+    <imgdir name="4001362">
+			<string name="name" value="破旧的旧纸张"/>
+			<string name="desc" value="这就是那个那么难得到的宝藏？！但上面确实有一些奇怪的标记"/>
+		</imgdir>
+    <imgdir name="4001363">
+			<string name="name" value="旧钥匙"/>
+			<string name="desc" value="这是宝箱的钥匙吗？不确定这应该用在哪里"/>
+		</imgdir>
+    <imgdir name="4001364">
+			<string name="name" value="橙色蘑菇样本"/>
+			<string name="desc" value="橙色蘑菇的提取部分"/>
+		</imgdir>
+    <imgdir name="4001365">
+			<string name="name" value="章鱼样本"/>
+			<string name="desc" value="章鱼的提取部分"/>
+		</imgdir>
+    <imgdir name="4001366">
+			<string name="name" value="带有奇怪标记的纸"/>
+			<string name="desc" value="上面似乎画着奇怪的标记"/>
+		</imgdir>
+    <imgdir name="4001367">
+			<string name="name" value="撕碎的纸1"/>
+			<string name="desc" value="在安德拉斯所在的恶魔入口附近发现的线索"/>
+		</imgdir>
+    <imgdir name="4001368">
+			<string name="name" value="撕碎的纸2"/>
+			<string name="desc" value="在瓦莱福所在的恶魔入口附近发现的线索"/>
+		</imgdir>
+    <imgdir name="4001369">
+			<string name="name" value="撕碎的纸3"/>
+			<string name="desc" value="在阿姆杜西亚斯所在的恶魔入口附近发现的线索"/>
+		</imgdir>
+    <imgdir name="4001370">
+			<string name="name" value="撕碎的纸4"/>
+			<string name="desc" value="在克罗塞尔所在的恶魔入口附近发现的线索"/>
+		</imgdir>
+    <imgdir name="4001371">
+			<string name="name" value="撕碎的纸5"/>
+			<string name="desc" value="在马巴斯所在的恶魔入口附近发现的线索"/>
+		</imgdir>
+    <imgdir name="4001372">
+			<string name="name" value="野猪皮革"/>
+			<string name="desc" value="来自野猪的臭皮革。味道很刺鼻"/>
+		</imgdir>
+    <imgdir name="4001373">
+			<string name="name" value="邪眼眼球"/>
+			<string name="desc" value="呃，太恶心了...你真的能用那东西看东西吗？"/>
+		</imgdir>
+    <imgdir name="4001393">
+			<string name="name" value="时间旅者的怀表"/>
+			<string name="desc" value="象征授权使用泰拉森林时间门的物品。看起来像普通的怀表，但背面刻有东西。上面写着：'时间是金色的'"/>
+		</imgdir>
+    <imgdir name="4001394">
+			<string name="name" value="时间旅者的免费通行证"/>
+			<string name="desc" value="象征授权在限定时间内使用泰拉森林时间门的物品"/>
+		</imgdir>
+    <imgdir name="4001395">
+			<string name="name" value="塞满东西的圣诞袜"/>
+			<string name="desc" value="某人今年表现很好！"/>
+		</imgdir>
+</imgdir>

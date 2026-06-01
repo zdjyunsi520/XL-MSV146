@@ -1,0 +1,137 @@
+<imgdir name="Npc.img">
+    <imgdir name="2094005">
+		<string name="name" value="For Checking"/>
+	</imgdir>
+    <imgdir name="2100001">
+		<string name="name" value="Muhamad"/>
+		<string name="func" value="Item Market"/>
+		<string name="n0" value="You need to be careful in treating Lidium."/>
+		<string name="n1" value="Lidium is strong, but it's a beautiful mineral. Can you see this luster?"/>
+		<string name="d0" value="To treat Lidium is difficult. Even in Ariant, there aren't many skilled craftsmen..."/>
+		<string name="d1" value="Even though Sirin is careless, she's clever and kind. Sometimes people misunderstand her feelings for Vivid, but she does what she has to."/>
+	</imgdir>
+    <imgdir name="2100002">
+		<string name="name" value="Zaid"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="Do you want to be stronger? Why don't you get a new weapon?"/>
+		<string name="n1" value="Do you want to buy a new weapon? Please look around."/>
+	</imgdir>
+    <imgdir name="2100003">
+		<string name="name" value="Jasmin"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="If you want clothes made from soft silk, look around here!"/>
+		<string name="n1" value="If you like it, try it out. I'll give you a discount."/>
+	</imgdir>
+    <imgdir name="2100004">
+		<string name="name" value="SagaT"/>
+		<string name="n0" value="Don't bother me. Just buy what you want and go."/>
+		<string name="n1" value="Aren't you tired? How about drinking a glass of cool potion?"/>
+		<string name="func" value="General Goods Dealer"/>
+	</imgdir>
+    <imgdir name="2100005">
+		<string name="name" value="Shati"/>
+		<string name="s0" value="I am working part-time here to help my family."/>
+		<string name="s1" value="I'm only part-time, but I do good work! Trust me!"/>
+		<string name="func" value="Hair Salon Assistant"/>
+	</imgdir>
+    <imgdir name="2100006">
+		<string name="name" value="Mazra"/>
+		<string name="func" value="Hair Salon Director"/>
+		<string name="s0" value="It's important to keep the hottest hairstyles here in the desert!"/>
+		<string name="s1" value="Hm... If you want a new hair style, consult me about it."/>
+	</imgdir>
+    <imgdir name="2100007">
+		<string name="name" value="Lila"/>
+		<string name="s0" value="The place is known for its sun tanning."/>
+		<string name="s1" value="The queen visits me very often, too."/>
+		<string name="func" value="Skin Care Expert"/>
+	</imgdir>
+    <imgdir name="2100008">
+		<string name="name" value="Vard"/>
+		<string name="s0" value="Anyone who's rich can be a model here."/>
+		<string name="s1" value="I've trimmed many a famous face in this city."/>
+		<string name="func" value="Plastic Surgery Director"/>
+	</imgdir>
+    <imgdir name="2100009">
+		<string name="name" value="Aldin"/>
+		<string name="s0" value="Want to give it a shot? Plastic surgery, I mean."/>
+		<string name="s1" value="I don't have experience, but just trust me. "/>
+		<string name="func" value="Plastic Surgery Doctor"/>
+	</imgdir>
+    <imgdir name="2101">
+		<string name="name" value="Heena"/>
+		<string name="s0" value="Ha!"/>
+		<string name="s1" value="Heehee..."/>
+		<string name="n0" value="What a gorgeous day!"/>
+		<string name="n1" value="Press the Alt key to jump."/>
+		<string name="n2" value="Press the arrow keys to move."/>
+		<string name="s2" value="How's is going?"/>
+		<string name="b0" value="Whoa. You look kind of lost."/>
+		<string name="c0" value="Argh, my beautiful skin..."/>
+		<string name="d0" value="You must be new! Allow me to help. To move, use the #bleft and right arrows#k. To jump, press the #bAlt#k key.  To speak to NPCs, simply click on them. Easy, right? Oh, sometimes you'll have to climb ladders or ropes. To do so, simply use the #bup arrow#k next to the object you want to climb!"/>
+		<string name="d1" value="Now I can check my skin. Whew! It looks just fine."/>
+	</imgdir>
+    <imgdir name="2101000">
+		<string name="name" value="Sirin"/>
+		<string name="n0" value="I'll show you a great dance."/>
+		<string name="n1" value="Do you want to know about the 'Sand Bandits?' Look into it for yourself."/>
+		<string name="d0" value="Just dancing well is not enough for me. I want to do a marvelous, brilliant dance!"/>
+		<string name="d1" value="The queen only cares about jewelry. She knows nothing about dance even though everyone in Ariant thinks dancing is important."/>
+	</imgdir>
+    <imgdir name="2101001">
+		<string name="name" value="Jiyur"/>
+		<string name="n0" value="I want to see my sister."/>
+		<string name="n1" value="I am afraid of the queen's face."/>
+		<string name="d0" value="I really miss my sister. Why did the queen take her? She's innocent..."/>
+		<string name="d1" value="Unless the queen releases my sister... I'll join the Sand Bandits and rescue her."/>
+	</imgdir>
+    <imgdir name="2101002">
+		<string name="name" value="Eleska"/>
+		<string name="n0" value="Don't speak to me."/>
+		<string name="n1" value="Why do you keep staring at me?"/>
+		<string name="d0" value="Stay away from me, or risk the consequences."/>
+		<string name="d1" value="Is it faster to assassinate the queen than to steal her treasure? If my leader lets me, I will assassinate her..."/>
+	</imgdir>
+    <imgdir name="2101003">
+		<string name="name" value="Ardin"/>
+		<string name="n0" value="...What are you staring at?"/>
+		<string name="n1" value="Sand can't be scattered without wind."/>
+		<string name="d0" value="I don't have the time to talk to you... In fact, I am not as free as you think."/>
+		<string name="d1" value="The 'Sand Bandits' are still weak. What else do we need to be stronger...?"/>
+	</imgdir>
+    <imgdir name="2101004">
+		<string name="name" value="Tigun"/>
+		<string name="n0" value="It is my honor to protect the palace."/>
+		<string name="n1" value="Hm... Do you have a Lidium gemstone?"/>
+		<string name="d0" value="A beard is a symbol of masculinity! There isn't another beard as nice as mine!"/>
+		<string name="d1" value="Don't underestimate us guardians! It's a great honor to protect entrance of the palace! I'd bet my beard on it!"/>
+	</imgdir>
+    <imgdir name="2101005">
+		<string name="name" value="Byron"/>
+		<string name="n0" value="Desert people are too careful."/>
+		<string name="n1" value="I want to study every culture in the world!"/>
+		<string name="d0" value="Isn't this turban cool? It seems to make me understand Ariant culture well."/>
+		<string name="d1" value="Ariant is the most interesting place I have been ever. I guess I can write interesting stories about this territory."/>
+	</imgdir>
+    <imgdir name="2101006">
+		<string name="name" value="Le Petit Prince"/>
+		<string name="n0" value="I cannot see the stars."/>
+		<string name="n1" value="I want to make friends."/>
+		<string name="d0" value="I don't know what to do when Rose is upset."/>
+		<string name="d1" value="I'm really glad to have a friend. The barren desert looks beautiful because of you."/>
+	</imgdir>
+    <imgdir name="2101007">
+		<string name="name" value="Areda"/>
+		<string name="n0" value="Are there no more beautiful jewels?"/>
+		<string name="n1" value="Only dazzling beauty satisfies me. "/>
+		<string name="d0" value="Those desert people are filthy. The only good thing about them is their ability to work Lidium."/>
+		<string name="d1" value="I need more beautiful, more precious, more special jewelry filled with magical power!"/>
+	</imgdir>
+    <imgdir name="2101008">
+		<string name="name" value="Schegerazade"/>
+		<string name="n0" value="Once upon a time..."/>
+		<string name="n1" value="And Aladdin rubbed the magic lamp..."/>
+		<string name="d0" value="I wonder how Jiyur has been... What if Jiyur is hurt? Even though the Sand Bandits protect him."/>
+		<string name="d1" value="The heroes of old were brave. I see that same brilliant bravery in you."/>
+	</imgdir>
+</imgdir>

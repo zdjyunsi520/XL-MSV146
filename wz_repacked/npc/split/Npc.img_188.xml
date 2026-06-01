@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="2420015">
+		<string name="name" value="Master Thief Phantom"/>
+		<string name="d0" value="(Judging by the ornate hat and even more ornate outfit, this is the Master Thief... Phantom.)"/>
+		<string name="d1" value="(Judging by the ornate hat and even more ornate outfit, this is the Master Thief... Phantom.)"/>
+	</imgdir>
+    <imgdir name="2420016">
+		<string name="name" value="Jasmin"/>
+		<string name="d0" value="This is all because I'm poor."/>
+		<string name="d1" value="All I want is for my son to be well off."/>
+		<string name="n0" value="They say schmoozing the Queen will get you a position in the castle..."/>
+		<string name="n1" value="Poor Aldin, my son!"/>
+	</imgdir>
+    <imgdir name="2420017">
+		<string name="name" value="Aldin"/>
+		<string name="d0" value="What if I end up freezing when I look at her in her eyes?"/>
+		<string name="d1" value="I will work up my courage to confess my love!"/>
+		<string name="n0" value="There's no cure for love fever."/>
+		<string name="n1" value="Oh, beautiful Sirin!"/>
+	</imgdir>
+    <imgdir name="2420018">
+		<string name="name" value="SagaT"/>
+		<string name="d0" value="Ariant wasn't always like this."/>
+		<string name="d1" value="Maybe Ariant will go back to its original form some day..."/>
+		<string name="n0" value="With aging comes knowledge."/>
+		<string name="n1" value="What you see and hear will become knowledge."/>
+	</imgdir>
+    <imgdir name="2420019">
+		<string name="name" value="Shati"/>
+		<string name="d0" value="Father's greed is just never-ending!"/>
+		<string name="d1" value="I'm going to give away my father's fortune to the poor. "/>
+		<string name="n0" value="Father really needs to stop being greedy..."/>
+		<string name="n1" value="I can hear the complaints of people here."/>
+	</imgdir>
+    <imgdir name="2420020">
+		<string name="name" value="Slyn"/>
+		<string name="d0" value="It's not easy doing business out here in the desert."/>
+		<string name="d1" value="If you want your share of the pyramid scheme, come back in ten years. "/>
+		<string name="n0" value="I'm going to be the richest in the world!"/>
+		<string name="n1" value="I'm going to collect riches to surpass the Gold Beach."/>
+	</imgdir>
+    <imgdir name="2420021">
+		<string name="name" value="Sand Bandits's Letter"/>
+	</imgdir>
+    <imgdir name="2420022">
+		<string name="name" value="Tigun's Treasure Box"/>
+	</imgdir>
+    <imgdir name="2420023">
+		<string name="name" value="Pot"/>
+	</imgdir>
+    <imgdir name="2420024">
+		<string name="name" value="Phantom's Letter"/>
+	</imgdir>
+    <imgdir name="2420025">
+		<string name="name" value="Castle Script Portal"/>
+	</imgdir>
+    <imgdir name="2420026">
+		<string name="name" value="Adequate Wall"/>
+	</imgdir>
+    <imgdir name="2420027">
+		<string name="name" value="Ardin"/>
+		<string name="d0" value="Ugh... I can't believe Les Trois Filles tricked me! "/>
+		<string name="d1" value="Ugh... I can't believe Les Trois Filles tricked me! "/>
+	</imgdir>
+    <imgdir name="2420028">
+		<string name="name" value="Karcasa"/>
+		<string name="func" value="Shady Hawker"/>
+		<string name="d0" value="Welcome to Karcasa's! I can get you anything you're looking for!"/>
+		<string name="d1" value="You won't find any merchant in Ariant more capable than I."/>
+		<string name="n0" value="I love doing business with the Queen. I can sell her any jewel at any price, and she'll pay!"/>
+		<string name="n1" value="I love doing business with the Queen. I can sell her any jewel at any price, and she'll pay!"/>
+	</imgdir>
+    <imgdir name="2420029">
+		<string name="name" value="Karcasa"/>
+		<string name="d0" value="Why aren't more people visiting my shop? I have to make a living, you know?"/>
+		<string name="d1" value="Why aren't more people visiting my shop? I have to make a living, you know?"/>
+		<string name="n0" value="Use a rope from your inventory to catch scorpions."/>
+		<string name="n1" value="Don't even bother trying to catch a scorpion with full health."/>
+	</imgdir>
+    <imgdir name="2420030">
+		<string name="name" value="Shah Mar"/>
+		<string name="func" value="Prime Minister"/>
+		<string name="d0" value="(Shah Mar is standing in the middle of the audience room engulfed in flames. He looks as if he's waiting for something.)"/>
+		<string name="d1" value="(Shah Mar is standing in the middle of the audience room engulfed in flames. He looks as if he's waiting for something.)"/>
+	</imgdir>
+    <imgdir name="2420031">
+		<string name="name" value="Tigun"/>
+		<string name="func" value="Guard Captain"/>
+	</imgdir>
+    <imgdir name="2420032">
+		<string name="name" value="Sirin"/>
+		<string name="func" value="Dancer"/>
+	</imgdir>
+    <imgdir name="2420033">
+		<string name="name" value="Jiyur"/>
+	</imgdir>
+    <imgdir name="2420034">
+		<string name="name" value="Jasmin"/>
+	</imgdir>
+</imgdir>

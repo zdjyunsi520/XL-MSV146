@@ -1,0 +1,7 @@
+<imgdir name="4341002">
+        <string name="name" value="最终切割" />
+        <string name="desc" value="牺牲大量HP对多个敌人造成强力伤害！有小几率一击必杀，一段时间内某些技能会获得伤害加成。" />
+        <string name="h" value="MP Cost: #mpCon, HP Cost, #x%, Damage: #damage%, Max Enemies Hit: #mobCount, Instant Death Chance: #z%, Damage: +#w%, Duration: #time sec, 1 sec invincibility after usage, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="牺牲大量HP对多个敌人造成强力伤害！一段时间内某些技能会获得伤害加成。" />
+        <string name="ph" value="MP Cost: #mpCon, HP Cost, #x%, Damage: #damage%, Max Enemies Hit: #mobCount, Instant Death Chance: #z%, Damage: +#w%, Duration: #time sec, 1 sec invincibility after usage, Cooldown: #cooltime sec" />
+    </imgdir>

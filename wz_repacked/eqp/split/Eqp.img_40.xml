@@ -1,0 +1,32 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1122199"><string name="name" value="Picnic Pendant"/></imgdir>
+    <imgdir name="1122200"><string name="name" value="Tempest Pendant"/></imgdir>
+    <imgdir name="1122201"><string name="name" value="Maple Scarf"/></imgdir>
+    <imgdir name="1122202"><string name="name" value="Maple Scarf"/></imgdir>
+    <imgdir name="1122203"><string name="name" value="Maple Scarf"/></imgdir>
+    <imgdir name="1122204"><string name="name" value="Sengoku Pendant"/></imgdir>
+    <imgdir name="1122205"><string name="name" value="Grape Pendant"/></imgdir>
+    <imgdir name="1122206"><string name="name" value="Watermelon Necklace"/></imgdir>
+    <imgdir name="1122207"><string name="name" value="Special Pendant of the Spirit"/><string name="desc" value="Boosts EXP when equipped. The longer you wear it, the greater the effect becomes. However, the Pendant of the Spirit cannot be stacked.\n #c1 hr: +10% EXP\n 2 hr: +20% EXP\n 2 hr+: +30% EXP#"/></imgdir>
+    <imgdir name="1122208"><string name="name" value="Mystic Pendant"/></imgdir>
+    <imgdir name="1122215"><string name="name" value="Pendant of the Spirit"/><string name="desc" value="Boosts EXP when equipped. The longer you wear it, the greater the effect becomes.\n #c1 hr: 10% additional EXP\n 2 hr: 20% additional EXP\n 2 hr+: 30% additional EXP#"/></imgdir>
+    <imgdir name="1122216"><string name="name" value="Kaiser Mystic Pendant"/></imgdir>
+    <imgdir name="1122217"><string name="name" value="Luminous Mystic Pendant"/></imgdir>
+    <imgdir name="1122218"><string name="name" value="Angelic Buster Mystic Pendant"/></imgdir>
+    <imgdir name="1122219"><string name="name" value="Greed Pendant"/><string name="desc" value="Increases drop rate by 20% when equipped. It can be #cmoved to a different character on the same account one time# via Cash storage, after which it cannot be traded again."/></imgdir>
+    <imgdir name="1122220"><string name="name" value="Pinnacle Pendant"/><null name="desc"/></imgdir>
+    <imgdir name="1122221"><string name="name" value="Cassandra&apos;s Collection Pendant"/><null name="desc"/></imgdir>
+    <imgdir name="1122222"><string name="name" value="Curbrock&apos;s Pendant"/><string name="desc" value="A prize for eliminating the hideous Curbrock."/></imgdir>
+    <imgdir name="1122224"><string name="name" value="Inert Heart Necklace"/><string name="desc" value="A powerful necklace that holds the courage of Maple Warriors. It still needs power to evolve, so #cit will disappear after a time.#\n\nThe Heart Necklace will evolve through the following stages if you use a class-specific #cMaple Warrior&apos;s Heart# to evolve through #Stage 2 and 3#, and then use an #cAdvanced Maple Warrior&apos;s Heart# to evolve through #cStage 4 and 5#.\n
+Stage 1: Inert Heart Necklace\n
+Stage 2: Evolved Heart Necklace\n
+Stage 3: Completed Heart Necklace\n
+Stage 4: Awakened Heart Necklace\n
+Stage 5: Transcendent Heart Necklace"/></imgdir>
+    <imgdir name="1122225"><string name="name" value="Inert Heart Necklace"/><string name="desc" value="A powerful necklace that holds the courage of Maple Warriors. It still needs power to evolve, so #cit will disappear after a time.#\n\nThe Heart Necklace will evolve through the following stages if you use a class-specific #cMaple Warrior&apos;s Heart# to evolve through #Stage 2 and 3#, and then use an #cAdvanced Maple Warrior&apos;s Heart# to evolve through #cStage 4 and 5#.\n
+Stage 1: Inert Heart Necklace\n
+Stage 2: Evolved Heart Necklace\n
+Stage 3: Completed Heart Necklace\n
+Stage 4: Awakened Heart Necklace\n
+Stage 5: Transcendent Heart Necklace"/></imgdir>
+</imgdir>

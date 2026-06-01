@@ -1,0 +1,295 @@
+<imgdir name="5000210">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Peng? Peng?"/>
+		<string name="c1_s2" value="Peng! Peeng!"/>
+		<string name="c1_f1" value="Peng?"/>
+		<string name="c1_f2" value="Peeeenng..."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="So I sit like this? Peng?"/>
+		<string name="c2_s2" value="Peeng? I sat like you told me to!"/>
+		<string name="c2_s3" value="Are you worried that my feet are tired?"/>
+		<string name="c2_s4" value="Sitting sure is comfortable, peng!"/>
+		<string name="c2_f1" value="Peng? How do I sit?"/>
+		<string name="c2_f2" value="?? I don't speak human yet!"/>
+		<string name="c2_f3" value="Show me how to do it! Peeng!"/>
+		<string name="c2_f4" value="I have to sit on this bare ground? Peng?"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="You sit down too, master! You look tired! Peng!"/>
+		<string name="c3_s2" value="It's a good thing my butt is so fluffy! Peng peng!"/>
+		<string name="c3_s3" value="Peng, thank you master! I was actually kinda tired."/>
+		<string name="c3_s4" value="Ah, it feels like I came to a picnic! Peng peng!"/>
+		<string name="c3_f1" value="I'm gonna look like a cushion if I sit... peng peng..."/>
+		<string name="c3_f2" value="My legs aren't even hurting... do I really have to sit? Peng?"/>
+		<string name="c3_f3" value="I don't want to sit unless it's on your lap... Peeng..."/>
+		<string name="c3_f4" value="My legs are too short... Peng..."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Now that I sat down, I feel sleepy... peng..."/>
+		<string name="c4_s2" value="I'll do whatever you tell me to!"/>
+		<string name="c4_s3" value="I was actually feeling a bit tired! Peng!"/>
+		<string name="c4_s4" value="Peng peng! You sit down and rest too!"/>
+		<string name="c4_f1" value="Sitting makes my belly look fat."/>
+		<string name="c4_f2" value="Right now, I feel more comfortable standing! Peng!"/>
+		<string name="c4_f3" value="Once I sit, it will be hard to get up, peng..."/>
+		<string name="c4_f4" value="Peng? What did you say?"/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="Peeeng... Peng..."/>
+		<string name="c5_s2" value="Peeng..."/>
+		<string name="c5_f1" value="Peng! Pe-pe-pe-pe-peng!"/>
+		<string name="c5_f2" value="Peng? Peng peng!!"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Hearing that from you hurts my feelings. Peng."/>
+		<string name="c6_s2" value="Peeng... I didn't do it on purpose..."/>
+		<string name="c6_s3" value="I'm sorry! Peng peng!"/>
+		<string name="c6_s4" value="I didn't think it will make you angry. Peeng..."/>
+		<string name="c6_f1" value="Peeng? I don't get what I did wrong?"/>
+		<string name="c6_f2" value="Peeng! But I told you that I didn't mean to!"/>
+		<string name="c6_f3" value="Are you just taking your anger out on me? Peng peng!"/>
+		<string name="c6_f4" value="You're scolding me for eating too much, aren't you? Peng peng!"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="Don't get angry. I won't do it again... peng peng..."/>
+		<string name="c7_s2" value="I just did that to get your attention!"/>
+		<string name="c7_s3" value="Peeng... I'll be careful from now on..."/>
+		<string name="c7_s4" value="Peeng! Sorry! Don't hate me!"/>
+		<string name="c7_f1" value="Peng peng! I didn't do anything wrong."/>
+		<string name="c7_f2" value="Peeng! You started it."/>
+		<string name="c7_f3" value="It's hard to understand your words! Peng peng!"/>
+		<string name="c7_f4" value="Peng! You're a real jerk sometimes!"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="A-are you gonna throw me away? Peng..."/>
+		<string name="c8_s2" value="Peeng. Hearing that makes me so sad."/>
+		<string name="c8_s3" value="I bet you're saying that for my own good."/>
+		<string name="c8_s4" value="I deserved that. Peng."/>
+		<string name="c8_f1" value="I learned it from watching you!"/>
+		<string name="c8_f2" value="Peeng! I hate it when you get mad for no reason."/>
+		<string name="c8_f3" value="Peeng! Sometimes I just want to fly away!"/>
+		<string name="c8_f4" value="I'm gonna tell Chloe!"/>
+		<string name="c9" value="Smooch"/>
+		<string name="c9_s1" value="Peeng!"/>
+		<string name="c9_s2" value="Peng pe-pe-pe-peng!"/>
+		<string name="c9_f1" value="Peng...?"/>
+		<string name="c9_f2" value="......"/>
+		<string name="c10" value="Smooch"/>
+		<string name="c10_s1" value="Peng peng! Anything for you!"/>
+		<string name="c10_s2" value="Peng! A smooch for you!"/>
+		<string name="c10_s3" value="Peng! When I met you, it was love at first sight!"/>
+		<string name="c10_s4" value="Peng... you're embarassing me!"/>
+		<string name="c10_f1" value="What did you say, master?"/>
+		<string name="c10_f2" value="That was a really bad joke, peng peng."/>
+		<string name="c10_f3" value="I'll pretend I didn't hear that, master... peeng..."/>
+		<string name="c10_f4" value="I know what you feel, but that's just... peng..."/>
+		<string name="c11" value="Smooch"/>
+		<string name="c11_s1" value="I was waiting for those words! Peng peng!"/>
+		<string name="c11_s2" value="A smooch on your cheek! *Mwah*"/>
+		<string name="c11_s3" value="I'll give you a smooch anytime! Peng peng peng!"/>
+		<string name="c11_s4" value="Peng... this is a little weird, but I like it."/>
+		<string name="c11_f1" value="Are you serious? Peng peng?"/>
+		<string name="c11_f2" value="We are in public!"/>
+		<string name="c11_f3" value="You caught me off guard..."/>
+		<string name="c11_f4" value="Peng? What did you just say?"/>
+		<string name="c12" value="Smooch"/>
+		<string name="c12_s1" value="You really like smoochies!"/>
+		<string name="c12_s2" value="Peng peng! I love giving smooches!"/>
+		<string name="c12_s3" value="Give me a smooch too, master!"/>
+		<string name="c12_s4" value="Love you!"/>
+		<string name="c12_f1" value="I thought I heard something weird..."/>
+		<string name="c12_f2" value="Master, are you that lonely?"/>
+		<string name="c12_f3" value="It's like the violent winds of El nath..."/>
+		<string name="c12_f4" value="I'm more into other penguins..."/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Peeng..."/>
+		<string name="c13_s2" value="Peeeenng..."/>
+		<string name="c13_f1" value="Peeng?"/>
+		<string name="c13_f2" value="Peng peng peng peng!"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Peeng! Excuse me for a second then!"/>
+		<string name="c14_s2" value="Peeeng! I'll be careful then!"/>
+		<string name="c14_s3" value="Penguins only poop a little!"/>
+		<string name="c14_s4" value="Peeng! There's my poo!"/>
+		<string name="c14_f1" value="Peng... I'm embarrassed."/>
+		<string name="c14_f2" value="Peeng... we are in public!"/>
+		<string name="c14_f3" value="Peeng peeng... I didn't even eat that much..."/>
+		<string name="c14_f4" value="Peeng... I don't feel like pooping."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Peeng! Can you block for me?"/>
+		<string name="c15_s2" value="Peeng... so embarrassing..."/>
+		<string name="c15_s3" value="Peeng! I feel weird!"/>
+		<string name="c15_s4" value="Peeng! So refreshing!"/>
+		<string name="c15_f1" value="Take me to a restroom! Peeng?"/>
+		<string name="c15_f2" value="Peeng peeng... do I really have to?"/>
+		<string name="c15_f3" value="I think I need a laxative... Peeng..."/>
+		<string name="c15_f4" value="Peng... pooping is so embarrassing!"/>
+		<string name="c16" value="poop"/>
+		<string name="c16_s1" value="Gently like a Penguin! Peeng!"/>
+		<string name="c16_s2" value="Don't forget to clean up after I'm done! Peeng!"/>
+		<string name="c16_s3" value="Cover me up!"/>
+		<string name="c16_s4" value="Whew, that was smelly."/>
+		<string name="c16_f1" value="That's so embarrassing! I can't... I can't! Peng!"/>
+		<string name="c16_f2" value="Everyone's looking, master! Peng peng!"/>
+		<string name="c16_f3" value="I think that's against the law..."/>
+		<string name="c16_f4" value="I'm too cute to poop! No way! Peng peng!"/>
+		<string name="c17" value="aww|cute|pretty|adorable|goodboy|cutey|cuteypie|cutie|cutiepie"/>
+		<string name="c17_s1" value="Peeng!"/>
+		<string name="c17_s2" value="Peng peng peng peng peng!"/>
+		<string name="c17_f1" value="Peeng?"/>
+		<string name="c17_f2" value="Peeeenng..."/>
+		<string name="c18" value="aww|cute|pretty|adorable|goodboy|cutey|cuteypie|cutie|cutiepie"/>
+		<string name="c18_s1" value="Peng? Really? You really think so?"/>
+		<string name="c18_s2" value="Peng peng peng! I'm embarrassed!"/>
+		<string name="c18_s3" value="Thank you for the compliment! Peng peng!"/>
+		<string name="c18_s4" value="Gotta make a cute face..."/>
+		<string name="c18_f1" value="You're trying to butter me up!"/>
+		<string name="c18_f2" value="I like it better when you're honest..."/>
+		<string name="c18_f3" value="I've heard that a million times!"/>
+		<string name="c18_f4" value="Peng? Did you say something?"/>
+		<string name="c19" value="aww|cute|pretty|adorable|goodboy|cutey|cuteypie|cutie|cutiepie"/>
+		<string name="c19_s1" value="I have an awesome owner! Peng peng!"/>
+		<string name="c19_s2" value="Peng peng! I know, everybody tells me that."/>
+		<string name="c19_s3" value="You're embarrassing me master! Peng!"/>
+		<string name="c19_s4" value="You know how to make a penguin happy! Peng!"/>
+		<string name="c19_f1" value="I think you're lying. Peng..."/>
+		<string name="c19_f2" value="Can't you say something more original? Peeng?"/>
+		<string name="c19_f3" value="So embarrassing! Peng peng!"/>
+		<string name="c19_f4" value="Peng... what did you say?"/>
+		<string name="c20" value="aww|cute|pretty|adorable|goodboy|cutey|cuteypie|cutie|cutiepie"/>
+		<string name="c20_s1" value="You sure know how to look at a penguin! Peng peng!"/>
+		<string name="c20_s2" value="I feel like I'm falling for you all over again! Peng peng!"/>
+		<string name="c20_s3" value="Peng peng! I'm not as awesome as you, though!"/>
+		<string name="c20_s4" value="I feel like I can fly when you say that! Peng peng!"/>
+		<string name="c20_f1" value="I want to hear 'cool' more than 'pretty'! Peng!"/>
+		<string name="c20_f2" value="Sounds like you're just trying to flatter me. Peng?"/>
+		<string name="c20_f3" value="Peng? I didn't hear you. Can you say that again?"/>
+		<string name="c20_f4" value="Are you sure I don't look fat?"/>
+		<string name="c21" value="iloveyou|mylove|ilikeyou|likeyou"/>
+		<string name="c21_s1" value="Peeng!"/>
+		<string name="c21_s2" value="Peng peng! Peng peng peng!"/>
+		<string name="c21_f1" value="...Peng peng peng peng."/>
+		<string name="c21_f2" value="Peng peng? Peng peng peng."/>
+		<string name="c22" value="iloveyou|mylove|ilikeyou|likeyou"/>
+		<string name="c22_s1" value="Peng... I can feel your love!"/>
+		<string name="c22_s2" value="That's embarrassing! Peeng!"/>
+		<string name="c22_s3" value="You really mean it... Peeng!"/>
+		<string name="c22_s4" value="(*Thump thump*)"/>
+		<string name="c22_f1" value="Don't say tricky things to me! Peng peng..."/>
+		<string name="c22_f2" value="I'm sorry, but you aren't my type. Peng peng."/>
+		<string name="c22_f3" value="...Peng? What did you say?"/>
+		<string name="c22_f4" value="Peng... love? Human language is difficult!"/>
+		<string name="c23" value="iloveyou|mylove|ilikeyou|likeyou"/>
+		<string name="c23_s1" value="I love you too! Peeng!"/>
+		<string name="c23_s2" value="My love for you grows and grows!"/>
+		<string name="c23_s3" value="What do I do? My heart won't stop beating! Peeng!"/>
+		<string name="c23_s4" value="Peng peng! I just want to brag about this to everyone!"/>
+		<string name="c23_f1" value="What is love?"/>
+		<string name="c23_f2" value="Why are you trying to flatter me like that?"/>
+		<string name="c23_f3" value="Peng peng? Are you trying to eat me?"/>
+		<string name="c23_f4" value="Peeng... I only like other penguins. Maybe a parrot..."/>
+		<string name="c24" value="iloveyou|mylove|ilikeyou|likeyou"/>
+		<string name="c24_s1" value="Do you see my love overflowing?"/>
+		<string name="c24_s2" value="Peeng! I feel like singing a song!"/>
+		<string name="c24_s3" value="Peeng! My heart feels warm!"/>
+		<string name="c24_s4" value="Love sure is a wonderful word. Peeng!"/>
+		<string name="c24_f1" value="Penguins and humans can never be!"/>
+		<string name="c24_f2" value="You should bring me a nice fish if you mean it."/>
+		<string name="c24_f3" value="That's great, where's dinner?"/>
+		<string name="c24_f4" value="I thought you were seeing someone already!"/>
+		<string name="c25" value="talk|chat|say"/>
+		<string name="c25_s1" value="Peeng? What should I say?"/>
+		<string name="c25_s2" value="Peng peng! Human language is hard!"/>
+		<string name="c25_s3" value="You may not think we get cold, but El Nath is super frosty!"/>
+		<string name="c25_s4" value="I'm feeling a little chubby. Need more fish!"/>
+		<string name="c25_f1" value="So what do you want me to say? Peeng?"/>
+		<string name="c25_f2" value="When was the last time you saw a talking penguin?"/>
+		<string name="c25_f3" value="Huh?"/>
+		<string name="c25_f4" value="Nah, it's too much work!"/>
+		<string name="c26" value="talk|chat|say"/>
+		<string name="c26_s1" value="Are you wondering if real penguins make the peng noise?"/>
+		<string name="c26_s2" value="I want some mackerel ice cream. Peng!"/>
+		<string name="c26_s3" value="The Pepes in El Nath are my mean cousins!"/>
+		<string name="c26_s4" value="I can't fly, but I'm still a bird!"/>
+		<string name="c26_f1" value="Human language is too hard!"/>
+		<string name="c26_f2" value="I want to hear you talk first. Peng..."/>
+		<string name="c26_f3" value="... I really don't have much to say. Peng?"/>
+		<string name="c26_f4" value="Peeng... is there something you want to hear?"/>
+		<string name="c27" value="talk|chat|say"/>
+		<string name="c27_s1" value="Pepes and yetis are friends, but penguins hate yetis! Peeng."/>
+		<string name="c27_s2" value="Chloe is really good at knitting! You didn't know that, did you?"/>
+		<string name="c27_s3" value="Someone even asked me whether I really have legs. Peeng..."/>
+		<string name="c27_s4" value="Peng peng... Sometimes I want to fly in the sky."/>
+		<string name="c27_f1" value="Talking to your pets makes you look like a crazy person!"/>
+		<string name="c27_f2" value="I don't really have anything to talk about..."/>
+		<string name="c27_f3" value="I'm a penguin!"/>
+		<string name="c27_f4" value="There are too many people here."/>
+		<string name="c28" value="hugme|hug"/>
+		<string name="c28_s1" value="Hug me! Peng peng!"/>
+		<string name="c28_s2" value="I love hugs, peng peng!"/>
+		<string name="c28_s3" value="Peng peng! I totally feel the love!"/>
+		<string name="c28_s4" value="Hugs make me warm! Peng peng!"/>
+		<string name="c28_f1" value="Peng. Whoa, calm down, buddy."/>
+		<string name="c28_f2" value="Uh, how about a flippershake?"/>
+		<string name="c28_f3" value="I thought you wanted my hand?"/>
+		<string name="c28_f4" value="...Peng? Are you serious?"/>
+		<string name="c29" value="hugme|hug"/>
+		<string name="c29_s1" value="Hugs and snugs! Peng!"/>
+		<string name="c29_s2" value="Hug me tight, master! Peng peng!"/>
+		<string name="c29_s3" value="I love being hugged by you, master!"/>
+		<string name="c29_s4" value="I can't reach you, master! Pick me up! Peng peng!"/>
+		<string name="c29_f1" value="Don't whine, master. Peeng."/>
+		<string name="c29_f2" value="Eh, give me a flipper instead!"/>
+		<string name="c29_f3" value="There are too many people watching!"/>
+		<string name="c29_f4" value="I'll pretend I didn't hear that!"/>
+		<string name="c30" value="hugme|hug"/>
+		<string name="c30_s1" value="I love my hug-loving master! Peng!"/>
+		<string name="c30_s" value="Hugs make my heart warm!"/>
+		<string name="c30_s3" value="Hug me! Hug me! Hug me master!"/>
+		<string name="c30_s4" value="Everybody's gonna be sooo jealous!"/>
+		<string name="c30_f1" value="You are not a child!"/>
+		<string name="c30_f2" value="Should I shake your hand instead? Peng."/>
+		<string name="c30_f3" value="We need to talk about personal boundaries..."/>
+		<string name="c30_f4" value="I don't want to do that in public!"/>
+		<string name="c31" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c31_s1" value="Good night, master! Peng!"/>
+		<string name="c31_s2" value="I'm already asleep now... Zzzz..."/>
+		<string name="c31_s3" value="I'm sleepy... Peeng..."/>
+		<string name="c31_f1" value="Sleep on the ground? Where's the ice?"/>
+		<string name="c31_f2" value="I can't sleep when I'm not sleepy. Peng!"/>
+		<string name="c32" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c31_f3" value="Penguins sleep on full bellies. Peng peng!"/>
+		<string name="c32_s1" value="Good thinking! Pengzzzz"/>
+		<string name="c32_s2" value="Good night! Peeng! Sweet dreams..."/>
+		<string name="c32_s3" value="I hope I see a Pepe in my dreams... Peeng..."/>
+		<string name="c32_f1" value="There's not even a bed! Why do you hate me?"/>
+		<string name="c32_f2" value="You're going to run away as soon as I close my eyes!"/>
+		<string name="c32_f3" value="What, do you think I'm lazy?"/>
+		<string name="c33" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c33_s1" value="You sleep well too. Peng peng!"/>
+		<string name="c33_s2" value="I want to sleep on your lap... Peeng..."/>
+		<string name="c33_s3" value="I love napping when you're around... Peeng..."/>
+		<string name="c33_f1" value="If I sleep too much, I'll get fatter... then I won't be as cute!"/>
+		<string name="c33_f2" value="What about my food?!"/>
+		<string name="c33_f3" value="I'll sleep when you sleep."/>
+		<string name="c34" value="fly|upyougo|flyaway"/>
+		<string name="c34_s1" value="Aww, it's not working!"/>
+		<string name="c34_s2" value="I'll be able to fly one day, right?"/>
+		<string name="c34_s3" value="One day, penguins will fly like eagles!"/>
+		<string name="c34_f1" value="You have to teach me how to fly first... Peeng..."/>
+		<string name="c34_f2" value="What will you give me if I fly? Peng?"/>
+		<string name="c34_f3" value="Peeng? Have you ever seen a penguin fly?"/>
+		<string name="c35" value="fly|upyougo|flyaway"/>
+		<string name="c35_s1" value="I'll show you that penguins can fly too! Peeng!"/>
+		<string name="c35_s2" value="I flew! I flew! Sort of..."/>
+		<string name="c35_s3" value="I'll fly us away to the moon one day!"/>
+		<string name="c35_f1" value="Oh, no, my belly's too heavy."/>
+		<string name="c35_f2" value="You really think it's possible to fly with these wings? Peng?"/>
+		<string name="c35_f3" value="Peng peng? I can't fly away and leave you here all alone!"/>
+		<string name="f1_s" value="Peng! Peng peng!!"/>
+		<string name="f1_f" value="Peng... peeeng..."/>
+		<string name="f2_s" value="Thank you for the food! Peng peng!"/>
+		<string name="f2_f" value="Arg... I'm too full. It's impossible to eat anymore... Peng..."/>
+		<string name="f3_s" value="Peeng! Maybe I'll get taller if I keep eating!!"/>
+		<string name="f3_f" value="My stomach is going to pop... peng..."/>
+		<string name="f4_s" value="Wow! It must be delicious! Thank you! Peng!"/>
+		<string name="f4_f" value="Peeng... Do you have a grudge against me?"/>
+		<string name="s1" value="Peeng?"/>
+		<string name="s2" value="What are you saying? Peeng?"/>
+		<string name="s3" value="Aren't you supposed to talk nicely? Peeng?"/>
+		<string name="s4" value="Peeng? I'll get upset if you keep saying weird things!"/>
+	</imgdir>

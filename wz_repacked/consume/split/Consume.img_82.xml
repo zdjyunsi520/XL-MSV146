@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040415">
+		<string name="name" value="Scroll for Topwear for DEF 65%"/>
+		<string name="desc" value="Improves Defense on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040416">
+		<string name="name" value="Scroll for Topwear for DEF 15%"/>
+		<string name="desc" value="Improves Defense on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +50\r\nWeapon Defense: +50\r\nMagic Defense: +30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040417">
+		<string name="name" value="Scroll for Topwear for STR 100%"/>
+		<string name="desc" value="Improves Strength on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSTR: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040418">
+		<string name="name" value="Scroll for Topwear for STR 60%"/>
+		<string name="desc" value="Improves Strength on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040419">
+		<string name="name" value="Scroll for Topwear for STR 10%"/>
+		<string name="desc" value="Improves Strength on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040420">
+		<string name="name" value="Scroll for Topwear for HP 100%"/>
+		<string name="desc" value="Improves Max HP on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040421">
+		<string name="name" value="Scroll for Topwear for HP 60%"/>
+		<string name="desc" value="Improves Max HP on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040422">
+		<string name="name" value="Scroll for Topwear for HP 10%"/>
+		<string name="desc" value="Improves Max HP on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040423">
+		<string name="name" value="Scroll for Topwear for LUK 100%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nLUK: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040424">
+		<string name="name" value="Scroll for Topwear for LUK 70%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040425">
+		<string name="name" value="Scroll for Topwear for LUK 60%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040426">
+		<string name="name" value="Scroll for Topwear for LUK 30%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040427">
+		<string name="name" value="Scroll for Topwear for LUK 10%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040429">
+		<string name="name" value="Scroll for Topwear for DEF 50%"/>
+		<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:50%, weapon def. +5, magic def. +4"/>
+	</imgdir>
+    <imgdir name="2040430">
+		<string name="name" value="Scroll for Topwear for DEF 100%"/>
+		<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:100%, weapon def.+2, magic def.+3"/>
+	</imgdir>
+    <imgdir name="2040431">
+		<string name="name" value="Scroll for Topwear for STR 65%"/>
+		<string name="desc" value="Improves Strength on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040432">
+		<string name="name" value="Scroll for Topwear for STR 15%"/>
+		<string name="desc" value="Improves Strength on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040433">
+		<string name="name" value="Scroll for Topwear for HP 65%"/>
+		<string name="desc" value="Improves Max HP on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040434">
+		<string name="name" value="Scroll for Topwear for HP 15%"/>
+		<string name="desc" value="Improves Max HP on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040435">
+		<string name="name" value="Scroll for Topwear for LUK 65%"/>
+		<string name="desc" value="Improves Luck on upper armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,108 @@
+<imgdir name="Npc.img">
+    <imgdir name="2040033">
+		<string name="name" value="Neru"/>
+		<string name="func" value="Pet Trainer"/>
+		<string name="n0" value="My brother and I majored in pet training."/>
+		<string name="n1" value="The more you train your pet, the closer you two will become."/>
+	</imgdir>
+    <imgdir name="2040034">
+		<string name="name" value="Red Sign"/>
+		<string name="func" value="Dimensional Crack"/>
+		<string name="n0" value="You may not go higher than where you are right now."/>
+		<string name="n1" value="What are you doing here?"/>
+	</imgdir>
+    <imgdir name="2040035">
+		<string name="name" value="Arturo"/>
+		<string name="n0" value="For the glory of one..."/>
+		<string name="f0" value="Your accomplishments will be remembered forever."/>
+		<string name="f1" value="I had no doubt in my mind that you'd succeed."/>
+		<string name="f2" value="It must have been a dangerous... How did you manage to beat it?"/>
+	</imgdir>
+    <imgdir name="2040036">
+		<string name="name" value="Red Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040037">
+		<string name="name" value="Orange Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040038">
+		<string name="name" value="Yellow Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040039">
+		<string name="name" value="Lime Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040040">
+		<string name="name" value="Green Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040041">
+		<string name="name" value="Aqua Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040042">
+		<string name="name" value="Sky-Blue Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040043">
+		<string name="name" value="Blue Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040044">
+		<string name="name" value="Violet Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040045">
+		<string name="name" value="Pink Balloon"/>
+		<string name="n0" value="I can help you out on many levels."/>
+	</imgdir>
+    <imgdir name="2040046">
+		<string name="name" value="Robert Holly"/>
+		<string name="func" value="Buddy List Admin"/>
+		<string name="n0" value="Hey, you there! You look like you have a lot of friends. Do you need help?"/>
+		<string name="n1" value="If your buddy list is full, then come see me."/>
+	</imgdir>
+    <imgdir name="2040047">
+		<string name="name" value="Sgt. Anderson"/>
+		<string name="n2" value="Please don't tell me you're giving up already."/>
+		<string name="n0" value="Please take care of Alishar, the gatekeeper of this world."/>
+		<string name="n1" value="I'll show you to the path that leads to the 101st floor of Eos Tower."/>
+	</imgdir>
+    <imgdir name="2040048">
+		<string name="name" value="Nara"/>
+		<string name="func" value="Tour Guide"/>
+		<string name="n0" value="How about taking a ride to the most exotic island in MapleStory, Florina Beach?"/>
+		<string name="n1" value="Do you have a power ticket by any chance? You should get on the ride and enjoy the fun."/>
+		<string name="d0" value="Don't you want to head off to Florina Beach?"/>
+		<string name="d1" value="You look exhausted. How about spending some time relaxing at Florina Beach?"/>
+	</imgdir>
+    <imgdir name="2040049">
+		<string name="name" value="Gumball Machine"/>
+		<string name="func" value="General Goods"/>
+	</imgdir>
+    <imgdir name="2040050">
+		<string name="name" value="Eurek the Alchemist"/>
+		<string name="m0" value="Hmm..."/>
+		<string name="s0" value="With a few materials, you can make summoning rocks and magic rocks."/>
+		<string name="d0" value="Hello there. I'm Eurek the Alchemist. I'm wandering throughout the world of MapleStory. I'm just stopping here for a bit."/>
+	</imgdir>
+    <imgdir name="2040051">
+		<string name="name" value="Toly"/>
+		<string name="s2" value="I sell potions! Good potions!"/>
+		<string name="a0" value="What do you think?"/>
+		<string name="func" value="Merchant"/>
+		<string name="s0" value="This is the best medicine ever made!"/>
+		<string name="s1" value="You can take something to recover, or something to boost your speed so you can avoid getting hurt."/>
+		<string name="a1" value="Check this place out. Isn't it cool?"/>
+		<string name="s3" value="I made this myself, so there aren't many left. You should buy them now before it's too late."/>
+	</imgdir>
+    <imgdir name="2040052">
+		<string name="name" value="Wiz the Librarian"/>
+		<string name="n0" value="This library isn't full of old, boring books. We also have great, animated books... Or we used to..."/>
+		<string name="n1" value="I'd love to find the lost books soon."/>
+		<string name="d0" value="Oh no, the books are all mixed up."/>
+		<string name="d1" value="This library is finally beginning to resemble a normal library."/>
+	</imgdir>
+</imgdir>

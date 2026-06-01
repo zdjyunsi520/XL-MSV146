@@ -1,0 +1,6 @@
+<imgdir name="2210000">
+        <string name="name" value="Storm Magic" />
+        <string name="desc" value="Has a chance to instantly kills monsters with low HP. Damage will increase when you attack enemies under damage over time, stun, freeze, or darkness effects. " />
+        <string name="h" value="Instantly KO monsters under #x% HP with #y% probability. Damage increased by #z% when attacking monsters under damage over time, stun, freeze, darkness, or paralysis effects." />
+        <string name="hch" value="Deals #z% extra damage against enemies with the following effects: Damage Over Time, Freeze, Stun, Darkness, or Paralysis." />
+    </imgdir>

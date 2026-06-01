@@ -1,0 +1,88 @@
+<imgdir name="Etc.img">
+    <imgdir name="4440200">
+			<string name="name" value="强力宝石B"/>
+			<string name="desc" value="赋予宝石工艺装备基于力量的还不错的能力"/>
+		</imgdir>
+    <imgdir name="4440300">
+			<string name="name" value="强力宝石C"/>
+			<string name="desc" value="赋予宝石工艺装备基于力量的基础能力"/>
+		</imgdir>
+    <imgdir name="4441000">
+			<string name="name" value="幸运宝石S"/>
+			<string name="desc" value="赋予宝石工艺装备基于幸运的上等能力"/>
+		</imgdir>
+    <imgdir name="4441100">
+			<string name="name" value="幸运宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于幸运的强大能力"/>
+		</imgdir>
+    <imgdir name="4441101">
+			<string name="name" value="幸运宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于幸运的强大能力"/>
+		</imgdir>
+    <imgdir name="4441200">
+			<string name="name" value="幸运宝石B"/>
+			<string name="desc" value="赋予宝石工艺装备基于幸运的还不错的能力"/>
+		</imgdir>
+    <imgdir name="4441300">
+			<string name="name" value="幸运宝石C"/>
+			<string name="desc" value="赋予宝石工艺装备基于幸运的基础能力"/>
+		</imgdir>
+    <imgdir name="4442000">
+			<string name="name" value="智慧宝石S"/>
+			<string name="desc" value="赋予宝石工艺装备基于智力的上等能力"/>
+		</imgdir>
+    <imgdir name="4442100">
+			<string name="name" value="智慧宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于智力的强大能力"/>
+		</imgdir>
+    <imgdir name="4442101">
+			<string name="name" value="智慧宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于智力的强大能力"/>
+		</imgdir>
+    <imgdir name="4442200">
+			<string name="name" value="智慧宝石B"/>
+			<string name="desc" value="赋予宝石工艺装备基于智力的还不错的能力"/>
+		</imgdir>
+    <imgdir name="4442300">
+			<string name="name" value="智慧宝石C"/>
+			<string name="desc" value="赋予宝石工艺装备基于智力的基础能力"/>
+		</imgdir>
+    <imgdir name="4443000">
+			<string name="name" value="敏捷宝石S"/>
+			<string name="desc" value="赋予宝石工艺装备基于敏捷的上等能力"/>
+		</imgdir>
+    <imgdir name="4443100">
+			<string name="name" value="敏捷宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于敏捷的强大能力"/>
+		</imgdir>
+    <imgdir name="4443101">
+			<string name="name" value="敏捷宝石A"/>
+			<string name="desc" value="赋予宝石工艺装备基于敏捷的强大能力"/>
+		</imgdir>
+    <imgdir name="4443200">
+			<string name="name" value="敏捷宝石B"/>
+			<string name="desc" value="赋予宝石工艺装备基于敏捷的更好能力"/>
+		</imgdir>
+    <imgdir name="4443300">
+			<string name="name" value="敏捷宝石C"/>
+			<string name="desc" value="赋予宝石工艺装备基于敏捷的基础能力"/>
+		</imgdir>
+    <imgdir name="4450000">
+			<string name="name" value="商城9.5折优惠券"/>
+			<string name="desc" value="此优惠券可用于通过点击商城中的使用优惠券按钮以折扣价获得现金物品。
+#c不能用于已折扣的物品。
+不能用于500NX以下的物品。"/>
+		</imgdir>
+    <imgdir name="4450001">
+			<string name="name" value="商城9.3折优惠券"/>
+			<string name="desc" value="此优惠券可用于通过点击商城中的使用优惠券按钮以折扣价获得现金物品。
+#c不能用于已折扣的物品。
+不能用于500NX以下的物品。"/>
+		</imgdir>
+    <imgdir name="4450002">
+			<string name="name" value="商城9折优惠券"/>
+			<string name="desc" value="此优惠券可用于通过点击商城中的使用优惠券按钮以折扣价获得现金物品。
+#c不能用于已折扣的物品。
+不能用于500NX以下的物品。"/>
+		</imgdir>
+</imgdir>

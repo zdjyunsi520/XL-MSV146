@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001743">
+			<string name="name" value="Red Ink"/>
+			<string name="desc" value=" Ink used to make promotional materials for the Republican Party."/>
+		</imgdir>
+    <imgdir name="4001744">
+			<string name="name" value="Blue Ink"/>
+			<string name="desc" value=" Ink used to make promotional materials for the Democratic Party."/>
+		</imgdir>
+    <imgdir name="4001745">
+			<string name="name" value="Printer Paper"/>
+			<string name="desc" value="Paper used to print promotional materials."/>
+		</imgdir>
+    <imgdir name="4001746">
+			<string name="name" value="Blank T-Shirt"/>
+			<string name="desc" value="T-shirt used to print promotional T-shirts."/>
+		</imgdir>
+    <imgdir name="4001747">
+			<string name="name" value="Limousine Key"/>
+			<string name="desc" value="The key for the limousine used to escort guests to the Gala. "/>
+		</imgdir>
+    <imgdir name="4001749">
+			<string name="name" value="Pumpkin Pieces"/>
+			<string name="desc" value="Pieces of pumpkin from halloween pumpkin."/>
+		</imgdir>
+    <imgdir name="4001753">
+			<string name="name" value="Maple Post Season Entry Ticket"/>
+			<string name="desc" value="Entry ticket for the Maple Post Season Real Life Prize Drawing Event."/>
+		</imgdir>
+    <imgdir name="4001754">
+			<string name="name" value="Cheery Tube"/>
+			<string name="desc" value="Cheer along for your favorite team! Collect balloons and take them to #cDehos# in town to trade for various items."/>
+		</imgdir>
+    <imgdir name="4001755">
+			<string name="name" value="Burning Tail"/>
+			<string name="desc" value="A Blazing Imp's nasty old tail. Definitely still on fire, so watch your fingers!"/>
+		</imgdir>
+    <imgdir name="4001756">
+			<string name="name" value="Sharp Tail"/>
+			<string name="desc" value="A Pointy Imp's spiky little tail. Sharp as a knife, so watch your hands! "/>
+		</imgdir>
+    <imgdir name="4001759">
+			<string name="name" value="Million Mesos Comfort Coin"/>
+			<string name="desc" value="Sell it to the shop for 1 Million Mesos, then make it rain on one of your friends."/>
+		</imgdir>
+    <imgdir name="4001760">
+			<string name="name" value="Monster Park Extreme Ticket"/>
+			<string name="desc" value="Golden entry ticket for Monster Park Extreme."/>
+		</imgdir>
+    <imgdir name="4001761">
+			<string name="name" value="Roo-D Bag"/>
+			<string name="desc" value="A nice storage bag to make sure to keep Roo-D from getting scratched up. VERY heavy."/>
+		</imgdir>
+    <imgdir name="4001779">
+			<string name="name" value="Christmas Decoration"/>
+			<string name="desc" value="A cute Christmas Tree decoration for decorating the town #cChristmas Tree#."/>
+		</imgdir>
+    <imgdir name="4001780">
+			<string name="name" value="Kaleido-Spinner Coupon"/>
+			<string name="desc" value="Use this in the town Kaleido-Spinner."/>
+		</imgdir>
+    <imgdir name="4001781">
+			<string name="name" value="Fancy Kaleido-Spinner Coupon"/>
+			<string name="desc" value="Use this in the town Kaleido-Spinner. Increases your chance of getting better Kaleido-Spinner boxes."/>
+		</imgdir>
+    <imgdir name="4001782">
+			<string name="name" value="Artisan Kaleido-Spinner Coupon"/>
+			<string name="desc" value="Use this in the town Kaleido-Spinner. Increases your chance of getting way better  Kaleido-Spinner boxes."/>
+		</imgdir>
+    <imgdir name="4001783">
+			<string name="name" value="Supreme Kaleido-Spinner Coupon"/>
+			<string name="desc" value="Use this in the town Kaleido-Spinner. Increases your chance to get the Supreme Kaleido-Spinner Box."/>
+		</imgdir>
+    <imgdir name="4001784">
+			<string name="name" value="500,000 Mesos Comfort Fund"/>
+			<string name="desc" value="A commemorative coin to help characters get settled in. You can sell it to the shop for 500,000 mesos."/>
+		</imgdir>
+    <imgdir name="4001785">
+			<string name="name" value="5 Million Mesos Comfort Coin"/>
+			<string name="desc" value="A commemorative coin to help characters get settled in. You can sell it to the shop for 5 million mesos."/>
+		</imgdir>
+</imgdir>

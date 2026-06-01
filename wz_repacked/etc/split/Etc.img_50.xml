@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001199">
+			<string name="name" value="Straw"/>
+			<string name="desc" value="A warm set of straws used to make a bird's nest. Gather them all up, and bring them together and show them to Gaga."/>
+		</imgdir>
+    <imgdir name="4001201">
+			<string name="name" value="Funny Travel Stories"/>
+			<string name="desc" value="A tape that contained all the fun adventure stories recorded while on the road."/>
+		</imgdir>
+    <imgdir name="4001202">
+			<string name="name" value="Top 10 Pop Star Hits"/>
+			<string name="desc" value="A tape that only contained the lastest from radio and tv."/>
+		</imgdir>
+    <imgdir name="4001203">
+			<string name="name" value="Manji's Ragged Diary"/>
+			<string name="desc" value="An old, ragged diary that includes the war stories of Manji in Perion. Let's return it to the Maple Admin."/>
+		</imgdir>
+    <imgdir name="4001204">
+			<string name="name" value="Gwin's Travel Stories"/>
+			<string name="desc" value="A collection of travel storries that Gwin wrote. Need to hand it back to the Maple Admin."/>
+		</imgdir>
+    <imgdir name="4001205">
+			<string name="name" value="Ericsson's Travel Stories"/>
+			<string name="desc" value="A handwritten, gripping account of Ericsson's days as an explorer. "/>
+		</imgdir>
+    <imgdir name="4001207">
+			<string name="name" value="Black Scale"/>
+			<string name="desc" value="A scale that's slightly dyed in black. Something doesn't seem right with this."/>
+		</imgdir>
+    <imgdir name="4001208">
+			<string name="name" value="Manji Coin"/>
+			<string name="desc" value="A commemorative coin with Manji engraved on it. Take it over to the merchants in town and trade it in for a good price. "/>
+		</imgdir>
+    <imgdir name="4001209">
+			<string name="name" value="Wonky Coin"/>
+			<string name="desc" value="A commemorative coin with Wonky engraved on it. Take it over to the merchants in town and trade it in for a good price."/>
+		</imgdir>
+    <imgdir name="4001210">
+			<string name="name" value="Cassandra Coin"/>
+			<string name="desc" value="A commemorative coin with Cassandra engraved on it. Take it over to the merchants in town and trade it in for a good price."/>
+		</imgdir>
+    <imgdir name="4001211">
+			<string name="name" value="Gaga Coin"/>
+			<string name="desc" value="A commemorative coin with Gaga engraved on it. Take it over to the merchants in town and trade it in for a good price."/>
+		</imgdir>
+    <imgdir name="4001212">
+			<string name="name" value="Inkwell Coin"/>
+			<string name="desc" value="A commemorative coin with Inkwell engraved on it. Take it over to the merchants in town and trade it in for a good price."/>
+		</imgdir>
+    <imgdir name="4001213">
+			<string name="name" value="Moonlight Pouch"/>
+			<string name="desc" value="A small pouch containing mysterious moonlight. Deliver it to #cGaga#, since he was looking for it."/>
+		</imgdir>
+    <imgdir name="4001214">
+			<string name="name" value="Moonlight Thief Entry Pass"/>
+			<string name="desc" value="An Entry Pass that allows the user to go to the place where Moonlight Thief appears. When in yoru possession, an invitation to #cMoonlight Village# is sent #cfrom 10:15 AM to 9:45 PM at 30-minute interval#."/>
+		</imgdir>
+    <imgdir name="4001215">
+			<string name="name" value="Whatever Charm"/>
+			<string name="desc" value="A charm that lets one skip a mission."/>
+		</imgdir>
+    <imgdir name="4001216">
+			<string name="name" value="Diamond Mark"/>
+			<string name="desc" value="It's a diamond mark."/>
+		</imgdir>
+    <imgdir name="4001217">
+			<string name="name" value="Heart Mark"/>
+			<string name="desc" value="It's a heart mark."/>
+		</imgdir>
+    <imgdir name="4001218">
+			<string name="name" value="Spade Mark"/>
+			<string name="desc" value="It's a spade mark."/>
+		</imgdir>
+    <imgdir name="4001219">
+			<string name="name" value="Clover Mark"/>
+			<string name="desc" value="It's a clover mark."/>
+		</imgdir>
+    <imgdir name="4001231">
+			<string name="name" value="Candy Cane"/>
+			<string name="desc" value="A Chrismas Candy Cane for Jump Event"/>
+		</imgdir>
+</imgdir>

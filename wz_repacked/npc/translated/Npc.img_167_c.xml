@@ -1,0 +1,109 @@
+<imgdir name="Npc.img">
+    <imgdir name="9131087">
+		<string name="name" value="德川家康"/>
+	</imgdir>
+    <imgdir name="9131088">
+		<string name="name" value="德川家康"/>
+	</imgdir>
+    <imgdir name="9131089">
+		<string name="name" value="德川家康"/>
+	</imgdir>
+    <imgdir name="9131090">
+		<string name="name" value="森兰丸"/>
+	</imgdir>
+    <imgdir name="9131091">
+		<string name="name" value="森兰丸"/>
+	</imgdir>
+    <imgdir name="9201253">
+		<string name="name" value="向导NPC"/>
+		<string name="n0" value="如果你不喜欢镜子里的自己，我可以把你变漂亮。"/>
+		<string name="n1" value="只要在这里稍微剪一点，那里稍微修一点，我就能让你变得很迷人。"/>
+	</imgdir>
+    <imgdir name="9330072">
+		<string name="name" value="尤莉娅"/>
+		<string name="n0" value="我正在寻找一位勇敢的英雄，他必须是非凡的。你就是我要找的人吗？"/>
+		<string name="n1" value="啊~~~有一只可怕的怪物！一想到它我就害怕！"/>
+		<string name="n2" value="你看起来强壮又敏捷。能帮我打败它吗？"/>
+		<string name="d0" value="我的请求进展如何？"/>
+		<string name="d1" value="你对我们之前谈论的事情感兴趣吗？"/>
+	</imgdir>
+    <imgdir name="9072200">
+		<string name="name" value="克拉拉"/>
+		<string name="func" value="怪物生命币兑换"/>
+		<string name="s0" value="我还在处理一些事情。"/>
+		<string name="s1" value="你可以用怪物生命币兑换瓦鲁斯。"/>
+		<string name="s2" value="瓦鲁斯是怪物生命的命脉，还有我的美貌。"/>
+		<string name="d0" value="我还在处理一些事情。"/>
+		<string name="d1" value="瓦鲁斯是怪物生命的命脉，还有我的美貌。"/>
+	</imgdir>
+    <imgdir name="9020016">
+		<string name="name" value="塔塔莫酋长"/>
+		<string name="func" value="龙骑士"/>
+		<string name="s0" value="你能帮一个老人家一把吗？"/>
+	</imgdir>
+    <imgdir name="9000171">
+		<string name="name" value="富商月兔"/>
+		<string name="func" value="2014新年金币商店"/>
+		<string name="n0" value="叮叮当！你有金币吗？选你喜欢的吧。"/>
+		<string name="n1" value="我的一些物品是限时的！现在就看！"/>
+	</imgdir>
+    <imgdir name="1102114">
+		<string name="name" value="基穆"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="我喜欢这里。很安静。"/>
+		<string name="n1" value="天鹅女皇和神兽都很好。"/>
+		<string name="d0" value="欢迎来到冒险岛世界最安全的地方！"/>
+		<string name="d1" value="欢迎来到冒险岛世界最安全的地方！"/>
+	</imgdir>
+    <imgdir name="1102107">
+		<string name="name" value="奈尔哈特"/>
+		<string name="func" value="战术家"/>
+		<string name="n0" value="我们需要密切关注他们的动向。"/>
+		<string name="n1" value="本季度的装备预算真是天文数字..."/>
+		<string name="d0" value="你能完成女皇要求的任务吗？"/>
+		<string name="d1" value="如果你是真正的天鹅骑士，你必须履行你的职责。"/>
+	</imgdir>
+    <imgdir name="1102104">
+		<string name="name" value="起亚"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="制作东西是最棒的。而我是最棒的。"/>
+		<string name="n1" value="我现在应该做什么样的椅子？"/>
+		<string name="d0" value="怪物掉落是获取物品最基本的来源。"/>
+		<string name="d1" value="你也可能在野外找到装有物品的容器。"/>
+	</imgdir>
+    <imgdir name="9072201">
+		<string name="name" value="吉米-杰克"/>
+		<string name="func" value="怪物生命币商店"/>
+		<string name="s0" value="好东西都在我这儿！"/>
+		<string name="s1" value="我这里只收怪物生命币。"/>
+		<string name="s2" value="想要瓦鲁斯就去找克拉拉。我只管物品。"/>
+	</imgdir>
+    <imgdir name="9390008">
+		<string name="name" value="宾博士"/>
+		<string name="n0" value="我不敢相信！外星人真的存在！"/>
+		<string name="n1" value="他们为什么在这里？"/>
+	</imgdir>
+    <imgdir name="9390009">
+		<string name="name" value="宾博士"/>
+		<string name="n0" value="我不敢相信！外星人真的存在！"/>
+		<string name="n1" value="他们为什么在这里？"/>
+	</imgdir>
+    <imgdir name="9390010">
+		<string name="name" value="研究员泽特"/>
+		<string name="n0" value="飞船附近那个扭曲的区域是什么？"/>
+		<string name="n1" value="我认为你可以帮助我们。是的，我认为你可以帮上大忙。"/>
+	</imgdir>
+    <imgdir name="9390011">
+		<string name="name" value=""/>
+	</imgdir>
+    <imgdir name="9390020">
+		<string name="name" value="温斯顿"/>
+	</imgdir>
+    <imgdir name="1500000">
+		<string name="name" value="小小库蒂"/>
+		<string name="n0" value="精灵文化比我们先进得多..."/>
+		<string name="n1" value="我的研究笔记都去哪里了？还有我的精灵漫画？！"/>
+		<string name="d0" value="我是库蒂，我的大小刚刚好。"/>
+		<string name="d1" value="我是库蒂，我的大小刚刚好。"/>
+	</imgdir>
+</imgdir>

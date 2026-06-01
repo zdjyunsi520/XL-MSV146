@@ -1,0 +1,5 @@
+<imgdir name="41121052">
+        <string name="name" value="猎鹰之誉" />
+        <string name="desc" value="召唤剑豪祖先的力量，释放狂风暴雨般的攻击！" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount \n冷却时间: #cooltime秒" />
+    </imgdir>

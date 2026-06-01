@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1912005"><string name="name" value="马鞍"/></imgdir>
+    <imgdir name="1912006"><string name="name" value="青蛙外罩"/><string name="desc" value="需要拥有游戏内坐骑#c青蛙#才能使用，#c反抗军#无法使用。"/></imgdir>
+    <imgdir name="1912007"><string name="name" value="乌龟坐骑"/><string name="desc" value="需要拥有游戏内坐骑#c乌龟#才能使用，#c反抗军#无法使用。"/></imgdir>
+    <imgdir name="1912008"><string name="name" value="雪人外罩"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1912011"><string name="name" value="狼鞍"/></imgdir>
+    <imgdir name="1912013"><string name="name" value="热气球外罩"/><string name="desc" value="此道具需配合#c热气球#使用。"/></imgdir>
+    <imgdir name="1912014"><string name="name" value="机器人外罩"/><string name="desc" value="需要等级70以上，且拥有游戏内坐骑(野猪、银色野猪、红色飞龙)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1912029"><string name="name" value="枫叶赛车外罩"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1912031"><string name="name" value="粉色踏板车钥匙"/><string name="desc" value="此道具需配合#c粉色踏板车#使用。"/></imgdir>
+    <imgdir name="1912032"><string name="name" value="黑色踏板车钥匙"/><string name="desc" value="此道具需配合#c黑色踏板车#使用。"/></imgdir>
+    <imgdir name="1912033"><string name="name" value="1阶龙鞍"/></imgdir>
+    <imgdir name="1912034"><string name="name" value="2阶龙鞍"/></imgdir>
+    <imgdir name="1912035"><string name="name" value="3阶龙鞍"/></imgdir>
+    <imgdir name="1912040"><string name="name" value="直升机鞍"/><string name="desc" value="需装备#c直升机#才能骑乘。"/></imgdir>
+    <imgdir name="1912041"><string name="name" value="雷克斯的鬣狗鞍"/></imgdir>
+    <imgdir name="1912042"><string name="name" value="拿破仑坐骑外罩"/><string name="desc" value="此道具需配合#c拿破仑坐骑#使用。"/></imgdir>
+    <imgdir name="1912043"><string name="desc" value="此道具需配合#c低骑手#使用。"/><string name="name" value="蓝色踏板车"/></imgdir>
+    <imgdir name="1912054"><string name="name" value="兔子坐骑外罩"/><string name="desc" value="此道具需配合#c兔子坐骑#使用。"/></imgdir>
+    <imgdir name="1932006"><string name="name" value="木马"/></imgdir>
+    <imgdir name="1932007"><string name="name" value="克罗金"/></imgdir>
+</imgdir>

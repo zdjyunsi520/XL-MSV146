@@ -1,0 +1,62 @@
+<imgdir name="Consume.img">
+    <imgdir name="2870201">
+		<string name="name" value="Reindeer Familiar"/>
+	</imgdir>
+    <imgdir name="2870202">
+		<string name="name" value="The Book Ghost Familiar"/>
+	</imgdir>
+    <imgdir name="2870203">
+		<string name="name" value="Drake Familiar"/>
+	</imgdir>
+    <imgdir name="2870204">
+		<string name="name" value="Stone Golem Familiar"/>
+	</imgdir>
+    <imgdir name="2870205">
+		<string name="name" value="Dark Stone Golem Familiar"/>
+	</imgdir>
+    <imgdir name="2870206">
+		<string name="name" value="Croco Familiar"/>
+	</imgdir>
+    <imgdir name="2870207">
+		<string name="name" value="Hector Familiar"/>
+	</imgdir>
+    <imgdir name="2870208">
+		<string name="name" value="Dark Jr. Yeti Familiar"/>
+	</imgdir>
+    <imgdir name="2870209">
+		<string name="name" value="Coolie Zombie Familiar"/>
+	</imgdir>
+    <imgdir name="2870210">
+		<string name="name" value="Miner Zombie Familiar"/>
+	</imgdir>
+    <imgdir name="2870211">
+		<string name="name" value="White Fang Familiar"/>
+	</imgdir>
+    <imgdir name="2870212">
+		<string name="name" value="Mixed Golem Familiar"/>
+	</imgdir>
+    <imgdir name="2870213">
+		<string name="name" value="Skeleton Soldier Familiar"/>
+	</imgdir>
+    <imgdir name="2870214">
+		<string name="name" value="Jr. Sentinel Familiar"/>
+	</imgdir>
+    <imgdir name="2870215">
+		<string name="name" value="Ice Sentinel Familiar"/>
+	</imgdir>
+    <imgdir name="2870216">
+		<string name="name" value="Fire Sentinel Familiar"/>
+	</imgdir>
+    <imgdir name="2870217">
+		<string name="name" value="King Clang Familiar"/>
+	</imgdir>
+    <imgdir name="2870218">
+		<string name="name" value="Faust Familiar"/>
+	</imgdir>
+    <imgdir name="2870219">
+		<string name="name" value="Timer Familiar"/>
+	</imgdir>
+    <imgdir name="2870220">
+		<string name="name" value="Orange Mushroom Familiar"/>
+	</imgdir>
+</imgdir>

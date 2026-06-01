@@ -1,0 +1,7 @@
+<imgdir name="21110002">
+        <string name="name" value="Full Swing" />
+        <string name="desc" value="Increases the damage of Double Swing, Triple Swing, and Combo Smash.\nRequired Skill: #cTriple Swing Lv. 20#" />
+        <string name="h" value="Double Swing MP Cost: #v,Damage: #w%, Triple Swing MP Cost: #x, Damage: #y%\nCombo Smash Damage: #z%" />
+        <string name="pdesc" value="Increases the damage of Double Swing, Triple Swing, and Combo Smash.\nRequired Skill: #cTriple Swing Lv. 20#" />
+        <string name="ph" value="Double Swing MP Cost: #v,Damage: #w%, Triple Swing MP Cost: #x, Damage: #y%\nCombo Smash Damage: #z%" />
+    </imgdir>

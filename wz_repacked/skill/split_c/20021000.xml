@@ -1,0 +1,5 @@
+<imgdir name="20021000">
+        <string name="name" value="水晶投掷" />
+        <string name="desc" value="向敌人投掷鲁恩碎片。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#fixdamage" />
+    </imgdir>

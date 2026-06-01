@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046768">
+		<string name="name" value="Scroll for Accessory for INT 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+	</imgdir>
+    <imgdir name="2046769">
+		<string name="name" value="Scroll for Accessory for DEX 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+	</imgdir>
+    <imgdir name="2046770">
+		<string name="name" value="Scroll for Accessory for LUK 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+	</imgdir>
+    <imgdir name="2046771">
+		<string name="name" value="Scroll for Accessory for STR 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+	</imgdir>
+    <imgdir name="2046772">
+		<string name="name" value="Scroll for Accessory for INT 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+	</imgdir>
+    <imgdir name="2046773">
+		<string name="name" value="Scroll for Accessory for DEX 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+	</imgdir>
+    <imgdir name="2046774">
+		<string name="name" value="Scroll for Accessory for LUK 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+	</imgdir>
+    <imgdir name="2046775">
+		<string name="name" value="Scroll for Accessory for STR 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nMax HP: +10\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+	</imgdir>
+    <imgdir name="2046776">
+		<string name="name" value="Scroll for Accessory for INT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nMax HP: +5\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+	</imgdir>
+    <imgdir name="2046777">
+		<string name="name" value="Scroll for Accessory for DEX 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+	</imgdir>
+    <imgdir name="2046778">
+		<string name="name" value="Scroll for Accessory for LUK 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+	</imgdir>
+    <imgdir name="2046791">
+		<string name="name" value="Scroll for Accessory for STR 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+	</imgdir>
+    <imgdir name="2046792">
+		<string name="name" value="Scroll for Accessory for INT 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+	</imgdir>
+    <imgdir name="2046793">
+		<string name="name" value="Scroll for Accessory for DEX 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+	</imgdir>
+    <imgdir name="2046794">
+		<string name="name" value="Scroll for Accessory for LUK 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+	</imgdir>
+    <imgdir name="2046795">
+		<string name="name" value="Scroll for Accessory for STR 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nMax HP: +10\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+	</imgdir>
+    <imgdir name="2046796">
+		<string name="name" value="Scroll for Accessory for INT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nMax HP: +5\r\nMax MP: +10\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+	</imgdir>
+    <imgdir name="2046797">
+		<string name="name" value="Scroll for Accessory for DEX 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+	</imgdir>
+    <imgdir name="2046798">
+		<string name="name" value="Scroll for Accessory for LUK 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+	</imgdir>
+    <imgdir name="2046799">
+		<string name="name" value="8th Anniversary Premium Scroll for Accessory for STR 10%"/>
+		<string name="desc" value="Improves Strength on Maple Amethysian and Grand Maple Amethysian accessories. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +9\r\n#"/>
+	</imgdir>
+</imgdir>

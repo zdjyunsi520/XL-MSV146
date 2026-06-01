@@ -1,0 +1,7 @@
+<imgdir name="35120014">
+        <string name="name" value="双倍骰子" />
+        <string name="desc" value="试试你的运气吧！掷两个骰子，如果两个数字相同，你将获得非常强大的增益：\n前置技能：#c幸运骰子 Lv. 20#" />
+        <string name="h" value="MP消耗：#mpCon，#prop%概率掷出双倍，增益持续时间：#time秒\n#c冷却时间：#cooltime秒#" />
+        <string name="pdesc" value="试试你的运气吧！掷两个骰子，如果两个数字相同，你将获得非常强大的增益：\n前置技能：#c幸运骰子 Lv. 20#" />
+        <string name="ph" value="MP消耗：#mpCon，#prop%概率掷出双倍，增益持续时间：#time秒\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

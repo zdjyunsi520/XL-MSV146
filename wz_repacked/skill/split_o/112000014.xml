@@ -1,0 +1,5 @@
+<imgdir name="112000014">
+        <string name="name" value="Bear Strength" />
+        <string name="desc" value="Permanently increases Critical Rate, Minimum Damage, Maximum Damage, and Magic ATT while in Bear Mode." />
+        <string name="h" value="Passive Effect: Critical Rate: +#cr%, Critical Minimum Damge: +#criticaldamageMin%, Critical Maximum Damage: +#criticaldamageMax%, Magic ATT: +#madX" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023052">
+		<string name="name" value="冒险岛强力玩家"/>
+		<string name="desc" value="通过参与冒险岛棋盘游戏获得的buff。增加攻击和魔法攻击。\n#c持续时间：60分钟\n攻击+20#\n#魔法攻击+20#"/>
+	</imgdir>
+    <imgdir name="2023053">
+		<string name="name" value="超级强力玩家"/>
+		<string name="desc" value="通过参与冒险岛棋盘游戏获得的buff。增加攻击和魔法攻击。\n#c持续时间：60分钟\n攻击+30#\n#魔法攻击+30#"/>
+	</imgdir>
+    <imgdir name="2023054">
+		<string name="name" value="终极强力玩家"/>
+		<string name="desc" value="通过参与冒险岛棋盘游戏获得的buff。增加攻击和魔法攻击。\n#c持续时间：60分钟\n攻击+40#\n#魔法攻击+40#"/>
+	</imgdir>
+    <imgdir name="2023055">
+		<string name="name" value="双奇迹时刻祝福"/>
+		<string name="desc" value="你拥有双奇迹时刻的祝福！地图内所有人获得武器攻击+30和魔法攻击+30，持续#c15分钟。#"/>
+	</imgdir>
+    <imgdir name="2023056">
+		<string name="name" value="冒险岛博物馆馆长"/>
+		<string name="desc" value="通过参与冒险岛博物馆馆长活动获得的buff。增加攻击和魔法攻击。\n#c持续时间：30分钟\n攻击+10#\n#魔法攻击+10#"/>
+	</imgdir>
+    <imgdir name="2023057">
+		<string name="name" value="冒险岛博物馆之王"/>
+		<string name="desc" value="通过参与冒险岛博物馆馆长活动获得的buff。增加攻击和魔法攻击。\n#c持续时间：30分钟\n攻击+20#\n#魔法攻击+20#"/>
+	</imgdir>
+    <imgdir name="2023063">
+		<string name="name" value="颤抖的宇宙"/>
+		<string name="desc" value="这朵花散发出宇宙的甜蜜香气。武器/魔法攻击+10，持续30分钟。可与除颤抖的宇宙外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023065">
+		<string name="name" value="星星盒子"/>
+		<string name="desc" value="在星星活动期间用星星邮票购买。包含一个特殊物品。"/>
+	</imgdir>
+    <imgdir name="2023066">
+		<string name="name" value="满月之梦"/>
+		<string name="desc" value="兔子的祝福。增加武器攻击和魔法攻击。效果随着时间推移而减弱。\n#c持续时间：30分钟\n初始武器攻击+50#\n#初始魔法攻击+50#"/>
+	</imgdir>
+    <imgdir name="2023067">
+		<string name="name" value="掷柶大师 Lv. 1"/>
+		<string name="desc" value="掷柶狂热！增加武器攻击和魔法攻击。\n#c持续时间：30分钟\n武器攻击+10#\n#魔法攻击+10#"/>
+	</imgdir>
+    <imgdir name="2023068">
+		<string name="name" value="掷柶大师 Lv. 2"/>
+		<string name="desc" value="每天每刻掷柶！增加武器攻击和魔法攻击。\n#c持续时间：30分钟\n武器攻击+15#\n#魔法攻击+15#"/>
+	</imgdir>
+    <imgdir name="2023069">
+		<string name="name" value="24K黄金松糕"/>
+		<string name="desc" value="真正的、纯金的。小心牙印。HP+3000。"/>
+	</imgdir>
+    <imgdir name="2023070">
+		<string name="name" value="翡翠松糕"/>
+		<string name="desc" value="它看起来像艾草，但实际上是翡翠...这些东西对牙齿不好。MP+3000。"/>
+	</imgdir>
+    <imgdir name="2023072">
+		<string name="name" value="2倍掉落券"/>
+		<string name="desc" value="掉落率2倍，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023079">
+		<string name="name" value="Lv.1 糖果天使"/>
+		<string name="desc" value="为你的甜食爱好者充电。武器攻击和魔法攻击+7，持续30分钟。可与除Lv.1糖果天使外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023080">
+		<string name="name" value="Lv.2 糖果天使"/>
+		<string name="desc" value="为你的甜食爱好者充电。武器攻击和魔法攻击+10，持续30分钟。可与除Lv.2糖果天使外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023081">
+		<string name="name" value="黑猫祝福"/>
+		<string name="desc" value="幽灵般的怪物！武器攻击和魔法攻击+10，持续30分钟。可与除黑猫祝福外的所有buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023082">
+		<string name="name" value="巨型宠物礼物"/>
+		<string name="desc" value="令人惊叹的超棒祝福之类的东西！\n#c持续时间：10分钟\nHP药水恢复：+15%#"/>
+	</imgdir>
+    <imgdir name="2023083">
+		<string name="name" value="巨型宠物礼物"/>
+		<string name="desc" value="令人惊叹的超棒祝福之类的东西！\n#c持续时间：10分钟\nMP药水恢复：+15%#"/>
+	</imgdir>
+    <imgdir name="2023084">
+		<string name="name" value="巨型宠物礼物"/>
+		<string name="desc" value="令人惊叹的超棒祝福之类的东西！\n#c持续时间：10分钟\n命中：+150#"/>
+	</imgdir>
+</imgdir>

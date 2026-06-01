@@ -1,0 +1,7 @@
+<imgdir name="5920002">
+        <string name="name" value="章鱼之怒" />
+        <string name="desc" value="额外召唤一只章鱼，提升射击速度和伤害。\n需要技能：#c章鱼 Lv. 30#" />
+        <string name="h" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="额外召唤一只章鱼，提升射击速度和伤害。\n需要技能：#c章鱼 Lv. 30#" />
+        <string name="ph" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

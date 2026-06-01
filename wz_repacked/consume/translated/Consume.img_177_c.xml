@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210070">
+		<string name="name" value="迷你德拉克龙变身药水"/>
+		<string name="desc" value="通过使用半精灵塔米尔的秘密技能，你能够在短时间内变身为一条强大的飞龙。"/>
+	</imgdir>
+    <imgdir name="2210071">
+		<string name="name" value="小血蝴蝶卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的小血蝴蝶。"/>
+	</imgdir>
+    <imgdir name="2210072">
+		<string name="name" value="变异缎带猪卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的变异缎带猪。"/>
+	</imgdir>
+    <imgdir name="2210073">
+		<string name="name" value="死亡稻草人卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的死亡稻草人。"/>
+	</imgdir>
+    <imgdir name="2210074">
+		<string name="name" value="贪吃食尸鬼卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的贪吃食尸鬼。"/>
+	</imgdir>
+    <imgdir name="2210075">
+		<string name="name" value="扭曲小丑卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的扭曲小丑。"/>
+	</imgdir>
+    <imgdir name="2210076">
+		<string name="name" value="黑骑士卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的黑骑士。"/>
+	</imgdir>
+    <imgdir name="2210077">
+		<string name="name" value="腐烂骷髅卷轴"/>
+		<string name="desc" value="将玩家变身为可怕的腐烂骷髅。"/>
+	</imgdir>
+    <imgdir name="2210078">
+		<string name="name" value="奥利维亚卷轴"/>
+		<string name="desc" value="将玩家变身为诡异的奥利维亚。"/>
+	</imgdir>
+    <imgdir name="2210079">
+		<string name="name" value="死亡泰迪"/>
+		<string name="desc" value="将玩家变身为可怕的死亡泰迪。"/>
+	</imgdir>
+    <imgdir name="2210080">
+		<string name="name" value="南瓜灯笼"/>
+		<string name="desc" value="将玩家变身为可怕的南瓜灯笼。"/>
+	</imgdir>
+    <imgdir name="2210082">
+		<string name="name" value="黑龙变身药水"/>
+		<string name="desc" value="为庆祝黑龙年而制作的神秘药水。使用后变身为黑龙30分钟。"/>
+	</imgdir>
+    <imgdir name="2210091">
+		<string name="name" value="魔像变身药水"/>
+		<string name="desc" value="短时间变身为魔像。"/>
+	</imgdir>
+    <imgdir name="2210093">
+		<string name="name" value="橙蘑菇变身"/>
+		<string name="desc" value="变身为赫奈斯的橙蘑菇。"/>
+	</imgdir>
+    <imgdir name="2210094">
+		<string name="name" value="猪变身"/>
+		<string name="desc" value="变身为赫奈斯的猪。"/>
+	</imgdir>
+    <imgdir name="2210095">
+		<string name="name" value="外星人灰变身"/>
+		<string name="desc" value="当水晶雕像的神秘力量被吸收时变身为外星人灰。"/>
+	</imgdir>
+    <imgdir name="2210083">
+		<string name="name" value="迷你德拉克龙变身药水"/>
+		<string name="desc" value="通过使用半精灵塔米尔的秘密技能，你能够在短时间内变身为一条强大的飞龙。"/>
+	</imgdir>
+    <imgdir name="2211000">
+		<string name="name" value="克里夫的特制药水"/>
+		<string name="desc" value="没人知道喝下这个会变成什么，但肯定会发生什么，持续一小时。一切都是关于风险的..."/>
+	</imgdir>
+    <imgdir name="2212000">
+		<string name="name" value="冒险岛派对药水"/>
+		<string name="desc" value="双击这个可以将你选择的角色变形。会是哪一个？试试看！"/>
+	</imgdir>
+    <imgdir name="2213000">
+		<string name="name" value="绿蜗牛变身药水"/>
+		<string name="desc" value="一种可以将你变身为绿蜗牛的长生药。持续10分钟。\n#c*警告：变形期间无法使用梯子或绳子。#"/>
+	</imgdir>
+</imgdir>

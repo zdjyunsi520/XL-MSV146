@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5400000">
+		<string name="name" value="Character Name Change"/>
+		<string name="desc" value="This scroll will enable you to change your character name to something totally new! Please be aware that the character must be at level 10 or higher to be eligible for the name change and the new name should be an acceptable new name that has passed the name check. The name-change will occur during the following server check, and you will then be restricted from changing names for one month."/>
+	</imgdir>
+    <imgdir name="5401000">
+		<string name="name" value="Character Transfer"/>
+		<string name="desc" value="This item is used to transfer your character from one game world to another. Your character must be at least Level 50, and only up to 100,000,000 mesos will be transferred with the character."/>
+	</imgdir>
+    <imgdir name="5420000">
+		<string name="name" value="Amoria Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cAmoria Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420001">
+		<string name="name" value="NLC Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cNLC Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420002">
+		<string name="name" value="Henesys Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cHenesys Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420003">
+		<string name="name" value="Kerning City Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cKerning City Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420004">
+		<string name="name" value="Orbis Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cOrbis Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420005">
+		<string name="name" value="Ludibrium Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cLudibrium Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5420006">
+		<string name="name" value="Mu Lung Hair Membership Coupon"/>
+		<string name="desc" value="Use it at #cMu Lung Hair Salon# to change your hair to a style of #cyour choice#. "/>
+	</imgdir>
+    <imgdir name="5430000">
+		<string name="name" value="Extra Character Slot Coupon"/>
+		<string name="desc" value="Increases the character creation slot by 1. Each account may hold a maximum of 24 character slots per server world."/>
+	</imgdir>
+    <imgdir name="5431000">
+		<string name="name" value="Maple Life (A-Type)"/>
+		<string name="desc" value="#c*Warning: If you do not have an empty Character slot, it cannot be used.#\r\n\r\nIf you are over #cLevel 30#, a new Level 30 character can be created in your world.You can choose one of the following classes #c(Warrior, Magician, Thief, Bowman and Pirate)# at #c1st Job status#.\r\n\r\nOnly the amount of AP needed for each respective 1st jobs have been allocated and the rest of AP and SP can be distributed to your liking.#cBasic equips and items# needed for travel are also provided."/>
+	</imgdir>
+    <imgdir name="5431001">
+		<string name="name" value="Parallel Coupon"/>
+		<string name="desc" value="Allows you to create a Lv. 10 character in the same world.\n#cEquipment items (Equip item, Use item, and Mesos) will be copied over.#\n#cCannot be purchased without an empty character slot.#\n#cCannot be purchased by a character below Level 13.#"/>
+	</imgdir>
+    <imgdir name="5431003">
+		<string name="name" value="Character Card (Lv. 50)"/>
+		<string name="desc" value="Allows you to create a character of any currently available class, with the exception of Cygnus Knights.\r\nAllows you to create a character with an item that will level the character up to Lv. 50 (Cygnus Knights excluded)\nCan only be purchased using a character that's Lv. 50 or higher, and there must be a free character slot. After purchase, a character with an item that can level it up to Lv. 50 is created in the world where the purchase was made.\nOn the character screen, you will see a transparent character with the &quot;Click&quot; sign.\n#cBe careful when using the level-up item, as SP (Skill Point) cannot be obtained if you do not do the job advancements.#"/>
+	</imgdir>
+    <imgdir name="5431004">
+		<string name="name" value="Character Card (Lv. 100)"/>
+		<string name="desc" value="Allows you to create a character of any currently available class, with the exception of Cygnus Knights.\r\nAllows you to create a character with an item that will level the character up to Lv. 100 (Cygnus Knights excluded)\nCan only be purchased using a character that's Lv. 100 or higher, and there must be a free character slot. After purchase, a character with an item that can level it up to Lv. 100 is created in the world where the purchase was made.\nOn the character screen, you will see a transparent character with the &quot;Click&quot; sign.\n#cBe careful when using the level-up item, as SP (Skill Point) cannot be obtained if you do not do the job advancements.#"/>
+	</imgdir>
+    <imgdir name="5432000">
+		<string name="name" value="Maple Life (B-Type)"/>
+		<string name="desc" value="#c*Warning : If all 12 character slots are full, it cannot be used.#\r\n\r\nThis package has the #cMaple Life item plus an Extra Character Slot coupon.#Using this item will automiatically create a new slot.\r\n\r\nIf you are over #cLevel 30#, a new Level 30 character can be created in your world. You can choose one of the following classes #c(Warrior, Magician, Thief, Bowman and Pirate)# at #c1st Job status.#\r\n\r\nOnly the amount of AP needed for each respective 1st jobs have been allocated and the rest of AP and SP can be distributed to your liking.#cBasic equips and items# needed for travel are also provided."/>
+	</imgdir>
+    <imgdir name="5433000">
+		<string name="name" value="Jump Start Character Coupon"/>
+		<string name="desc" value="Double click on this to create a new character with a big jump start."/>
+	</imgdir>
+    <imgdir name="5450000">
+		<string name="name" value="Miu Miu the Traveling Merchant"/>
+		<string name="desc" value="Use this to experience the same effect as entering a general store. Can purchase potions to recover HP &amp; MP, throwing stars, and recharge bullets. Some maps restrict the use of this item, though."/>
+	</imgdir>
+    <imgdir name="5450003">
+		<string name="name" value="Miu Miu the Rookie Traveling Merchant"/>
+		<string name="desc" value="Use this to access a general store from anywhere. You can purchase potions to recover HP &amp; MP, throwing stars, and recharge bullets. Some maps restrict the use of this item, though."/>
+	</imgdir>
+    <imgdir name="5450004">
+		<string name="name" value="[30 Day] Miu Miu the Merchant"/>
+		<string name="desc" value="Use this to access a #cGeneral Store# from anywhere. You can purchase potions to recover HP &amp; MP, recharge throwing stars and bullets, and more.\n#cUnlimited use# for 30 days."/>
+	</imgdir>
+    <imgdir name="5450005">
+		<string name="name" value="[30 Day]  Mr. Wang's Portable Storage"/>
+		<string name="desc" value="Use this to access the #Storage Keeper# from almost anywhere. You can then move most items into or out of storage.\nCan be used #cwithout restriction# for 30 days."/>
+	</imgdir>
+</imgdir>

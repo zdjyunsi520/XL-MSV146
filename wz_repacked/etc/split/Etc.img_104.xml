@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031697">
+			<string name="name" value="Silver Pendant"/>
+			<string name="desc" value="A pendant with a rose engraving.  It is not yet attached to a chain."/>
+		</imgdir>
+    <imgdir name="4031698">
+			<string name="name" value="Magic Device"/>
+			<string name="desc" value="A device that has a gem that controls magic.  Only the alchemists know how it works."/>
+		</imgdir>
+    <imgdir name="4031699">
+			<string name="name" value="Drop of Sun"/>
+			<string name="desc" value="A cure for fairies made by fairies.  It's been made by sunlight."/>
+		</imgdir>
+    <imgdir name="4031700">
+			<string name="name" value="Drop of Moon"/>
+			<string name="desc" value="A cure for fairies made by fairies.  It's been made by moonlight."/>
+		</imgdir>
+    <imgdir name="4031701">
+			<string name="name" value="Chumji's Watermelon"/>
+			<string name="desc" value="Sweet watermelon that is grown from Chumji's field."/>
+		</imgdir>
+    <imgdir name="4031702">
+			<string name="name" value="Transparent Item"/>
+			<string name="desc" value="A transparent item that is used to fight off the watermelon keeper."/>
+		</imgdir>
+    <imgdir name="4031703">
+			<string name="name" value="Regular Tree Branch"/>
+			<string name="desc" value="A regular looking tree branch.  It doesn't seem to have any special powers."/>
+		</imgdir>
+    <imgdir name="4031704">
+			<string name="name" value="Anonymous Research Report"/>
+			<string name="desc" value="A research report that an unknown person compiled.  The research seems to be about using metal to strengthen your body."/>
+		</imgdir>
+    <imgdir name="4031705">
+			<string name="name" value="Strange Bottle of Water"/>
+			<string name="desc" value="A water bottle containing transparent water.  It is tightly locked."/>
+		</imgdir>
+    <imgdir name="4031706">
+			<string name="name" value="Phyllia's Letter"/>
+			<string name="desc" value="A letter Phyllia wrote to Erikson.  It seems to be about Kini's condition."/>
+		</imgdir>
+    <imgdir name="4031707">
+			<string name="name" value="Ericsson's Letter"/>
+			<string name="desc" value="A letter Ericsson wrote to Phyllia. It seems to be about the medicine for Keeny."/>
+		</imgdir>
+    <imgdir name="4031708">
+			<string name="name" value="Secret Document"/>
+			<string name="desc" value="A secretive document written with codes.  The bottom part is badly damaged and not readable."/>
+		</imgdir>
+    <imgdir name="4031709">
+			<string name="name" value="Lightless Magic Device"/>
+			<string name="desc" value="A magic device that has been completely used up.  There is no more use for it."/>
+		</imgdir>
+    <imgdir name="4031710">
+			<string name="name" value="Subway Ticket to NLC (Basic)"/>
+			<string name="desc" value="A basic ticket needed to get on the subway that goes from Kerning City to New Leaf City of Masteria Continent."/>
+		</imgdir>
+    <imgdir name="4031711">
+			<string name="name" value="Subway Ticket to NLC (Regular)"/>
+			<string name="desc" value="A Regular ticket needed to get on the subway that goes from Kerning City to New Leaf City of Masteria Continent."/>
+		</imgdir>
+    <imgdir name="4031712">
+			<string name="name" value="Subway Ticket to Kerning City (Basic)"/>
+			<string name="desc" value="A basic ticket needed to get on the subway that goes from New Leaf City to Kerning City of Victoria Island."/>
+		</imgdir>
+    <imgdir name="4031713">
+			<string name="name" value="Subway Ticket to Kerning City (Regular)"/>
+			<string name="desc" value="A Regular ticket needed to get on the subway that goes from New Leaf City to Kerning City of Victoria Island."/>
+		</imgdir>
+    <imgdir name="4031731">
+			<string name="name" value="Ticket to Singapore(From Victoria Tree)"/>
+			<string name="desc" value="A regular ticket needed to get on the plane that heads from Victoria Tree to Changi Airport."/>
+		</imgdir>
+    <imgdir name="4031732">
+			<string name="name" value="Ticket to Kerning City (From CBD)"/>
+			<string name="desc" value="A regular ticket needed to get on the plane that heads from Changi airport to Kerning City."/>
+		</imgdir>
+    <imgdir name="4031733">
+			<string name="name" value="Ticket to Singapore (From Orbis)"/>
+			<string name="desc" value="A regular ticket needed to get on the plane that heads from Oribs to Changi airport."/>
+		</imgdir>
+</imgdir>

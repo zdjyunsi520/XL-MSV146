@@ -1,0 +1,65 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Humming Forest Trail"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Bowman Training Center"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Humming Forest Trail"/>
+			</imgdir>
+    <imgdir name="100020100">
+			<imgdir name="0">
+				<string name="Title" value="Spore Hill"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Windflower Forest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Spore Hill"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Windflower Forest"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Mushmom Forest Trail"/>
+			</imgdir>
+    <imgdir name="100020200">
+			<imgdir name="0">
+				<string name="Title" value="Humming Forest Trail"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Blue Mushroom Forest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Golem's Temple Entrance/Humming Forest Trail"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Blue Mushroom Forest"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Golem's Temple Entrance"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Humming Forest Trail"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Golem's Temple Entrance"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Blue Mushroom Forest"/>
+			</imgdir>
+    <imgdir name="100020300">
+			<imgdir name="0">
+				<string name="Title" value="Windflower Forest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Ghost Mushroom Path"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Windflower Forest"/>
+			</imgdir>
+</imgdir>

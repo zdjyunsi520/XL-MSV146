@@ -1,0 +1,5 @@
+<imgdir name="65121101">
+        <string name="name" value="三位一体" />
+        <string name="desc" value="凝聚埃斯卡尔德的力量持续攻击一个敌人。此外，伤害和无视防御比率也会提升！" />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Can deal up to 3 hits with additional input afterwards. +#x% Trinity damage on hit and DEF ignore buff stacked up to #y times. Soul Battery skill. Recharge Chance: #onActive%.\n[Passive Effect: Damage: +#damR%, Ignore DEF Ratio: +#ignoreMobpdpR%]" />
+    </imgdir>

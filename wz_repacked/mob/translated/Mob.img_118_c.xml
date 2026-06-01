@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="3300000">
+		<string name="name" value="叛变孢子"/>
+	</imgdir>
+    <imgdir name="3300001">
+		<string name="name" value="毒蘑菇"/>
+	</imgdir>
+    <imgdir name="3300002">
+		<string name="name" value="醉酒猪"/>
+	</imgdir>
+    <imgdir name="3300003">
+		<string name="name" value="头盔佩佩"/>
+	</imgdir>
+    <imgdir name="3300004">
+		<string name="name" value="皇家守卫佩佩"/>
+	</imgdir>
+    <imgdir name="3300005">
+		<string name="name" value="灰雪人佩佩王"/>
+	</imgdir>
+    <imgdir name="3300006">
+		<string name="name" value="金雪人佩佩王"/>
+	</imgdir>
+    <imgdir name="3300007">
+		<string name="name" value="白雪人佩佩王"/>
+	</imgdir>
+    <imgdir name="3300008">
+		<string name="name" value="首相"/>
+	</imgdir>
+    <imgdir name="9101000">
+		<string name="name" value="绿蘑菇"/>
+	</imgdir>
+    <imgdir name="9101001">
+		<string name="name" value="僵尸蘑菇"/>
+	</imgdir>
+    <imgdir name="9101002">
+		<string name="name" value="幽灵树桩"/>
+	</imgdir>
+    <imgdir name="9700000">
+		<string name="name" value="地铁史莱姆"/>
+	</imgdir>
+    <imgdir name="9700001">
+		<string name="name" value="地铁橙色蘑菇"/>
+	</imgdir>
+    <imgdir name="9700002">
+		<string name="name" value="地铁丝带猪"/>
+	</imgdir>
+    <imgdir name="9700003">
+		<string name="name" value="地铁角蘑菇"/>
+	</imgdir>
+    <imgdir name="9700004">
+		<string name="name" value="金字塔木乃伊狗"/>
+	</imgdir>
+    <imgdir name="9700005">
+		<string name="name" value="金字塔骷髅"/>
+	</imgdir>
+    <imgdir name="9700006">
+		<string name="name" value="木乃伊"/>
+	</imgdir>
+    <imgdir name="9700007">
+		<string name="name" value="法老蛇"/>
+	</imgdir>
+</imgdir>

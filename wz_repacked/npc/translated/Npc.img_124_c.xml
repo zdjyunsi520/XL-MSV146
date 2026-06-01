@@ -1,0 +1,125 @@
+<imgdir name="Npc.img">
+    <imgdir name="9300010">
+		<string name="name" value="钱袋子先生"/>
+		<string name="n0" value="嘿！新年快乐！"/>
+		<string name="n1" value="不知道谁能给我带些红包来..."/>
+	</imgdir>
+    <imgdir name="9300011">
+		<string name="name" value="财神"/>
+		<string name="n0" value="来试试扭蛋机碰碰运气！"/>
+		<string name="n1" value="谁知道呢？你可能会得到一个不错的物品！"/>
+		<string name="d1" value="我每12小时只能随机制作这些饺子和长寿面汤。所以如果你想要更多，请在收到这些菜后12小时再来找我。"/>
+	</imgdir>
+    <imgdir name="9300012">
+		<string name="name" value="管仲"/>
+		<string name="n0" value="我是管仲，齐国的丞相。你听说过'管鲍之交'吗？那就是我的故事。哈哈。"/>
+		<string name="n1" value="你想解开封印？我就是你要找的人！"/>
+		<string name="n2" value="你想获得解开封印的钥匙？我可以帮你！"/>
+		<string name="d1" value="分享...一个温暖我心的词。我希望你明白我的意思..."/>
+	</imgdir>
+    <imgdir name="9300013">
+		<string name="name" value="司马迁"/>
+		<string name="n0" value="你看到我的历史书了吗？我是历史学家司马迁。"/>
+		<string name="n1" value="请好好保管你的账号！"/>
+		<string name="d1" value="我每12小时只能随机制作这些蒸鱼和烤鸡。所以如果你想要更多，请在收到这些菜后12小时再来找我。"/>
+	</imgdir>
+    <imgdir name="9300014">
+		<string name="name" value="张良"/>
+		<string name="n0" value="我是张良。我也被称为张子房。"/>
+		<string name="n1" value="格外小心防止你的账号被盗！"/>
+		<string name="n2" value="封印物品不能掉落、交易或出售。"/>
+		<string name="d1" value="一切都是关于友谊。看看你周围！与朋友分享让世界变得更美好！"/>
+	</imgdir>
+    <imgdir name="9310002">
+		<string name="name" value="张老板"/>
+		<string name="n0" value="嘿嘿。我最好快点卖掉这些，这样我就能去喝酒了...嘿嘿。"/>
+		<string name="n1" value="嘿嘿。我在这里卖护甲已经10年了。"/>
+		<string name="func" value="护甲商人"/>
+	</imgdir>
+    <imgdir name="9310003">
+		<string name="name" value="金女士"/>
+		<string name="n0" value="欢迎，欢迎！你在找什么吗？"/>
+		<string name="n1" value="我不能给你折扣。我只是在这里兼职。"/>
+		<string name="func" value="商人"/>
+	</imgdir>
+    <imgdir name="9310007">
+		<string name="name" value="康警官"/>
+		<string name="n0" value="别把我当成名人！我是警察！"/>
+		<string name="n1" value="啊，人气。我厌倦了！女士们！不要为了看我而报假警！"/>
+		<string name="d0" value="你好？我是康警官。"/>
+		<string name="d1" value="有什么我可以帮你的吗？"/>
+	</imgdir>
+    <imgdir name="9310008">
+		<string name="name" value="朱警长"/>
+		<string name="n0" value="我是上海的警长！"/>
+		<string name="n1" value="你对我们警察有什么问题吗？"/>
+		<string name="d0" value="你好。我是朱警长，负责上海的安全。"/>
+		<string name="d1" value="我负责保护上海市。"/>
+	</imgdir>
+    <imgdir name="9310009">
+		<string name="name" value="赵女士"/>
+		<string name="n0" value="这么热的天在农场工作真是太累了！"/>
+		<string name="n1" value="我知道我的口音很重。"/>
+		<string name="d0" value="我能帮你什么吗？"/>
+		<string name="d1" value="务农很困难，但非常有回报！"/>
+	</imgdir>
+    <imgdir name="9310010">
+		<string name="name" value="杨先生"/>
+		<string name="n0" value="哇，那是什么？"/>
+		<string name="n1" value="务农非常非常困难。别以为这是轻松的事情！"/>
+		<string name="d0" value="哎哟，我的背。务农真的对我的身体造成了很大伤害。"/>
+		<string name="d1" value="务农很困难，但确实很有回报！"/>
+	</imgdir>
+    <imgdir name="9310011">
+		<string name="name" value="柳老板"/>
+		<string name="n0" value="嘿，我的食物真的真的很好吃！"/>
+		<string name="n1" value="我可能在街上卖这些，但确实很美味！"/>
+		<string name="d0" value="在上海他们叫我柳大厨！"/>
+		<string name="d1" value="谢谢你上次的帮助。这对我真的帮助很大！"/>
+	</imgdir>
+    <imgdir name="9310012">
+		<string name="name" value="赵摄影师"/>
+		<string name="n0" value="大家，说茄子！"/>
+		<string name="n1" value="我会尽力用这台相机捕捉你的美丽。"/>
+		<string name="d0" value="嘿！我是赵摄影师。"/>
+		<string name="d1" value="这些天我忙着到处拍照。"/>
+	</imgdir>
+    <imgdir name="9310013">
+		<string name="name" value="杨飞行员"/>
+		<string name="n0" value="不是每个人都有像我这样的工作——可以随意在空中飞翔！"/>
+		<string name="n1" value="当你在很高的地方往下看地面时，确实很吓人。"/>
+	</imgdir>
+    <imgdir name="9330045">
+		<string name="name" value="Kedrick"/>
+		<string name="func" value="渔夫"/>
+		<string name="n0" value="来试试，你会有意想不到的收获！"/>
+		<string name="n1" value="钓鱼就是耐心和努力...一门艺术..."/>
+		<string name="n2" value="上钩那一刻手上的感觉...难以置信...！"/>
+	</imgdir>
+    <imgdir name="9330046">
+		<string name="name" value="Madrick"/>
+		<string name="func" value="钓鱼管理员"/>
+		<string name="n0" value="祝大家好运！"/>
+		<string name="n1" value="钓鱼最重要的是鱼饵的选择。"/>
+		<string name="n2" value="要有耐心！岛民们！"/>
+	</imgdir>
+    <imgdir name="9900000">
+		<string name="name" value="KIN"/>
+		<string name="n0" value="如果你想晋升为GM，请来找我。"/>
+	</imgdir>
+    <imgdir name="9900001">
+		<string name="name" value="NimaKIN"/>
+		<string name="n0" value="如果你和GM一起在这里，你就能升级。"/>
+	</imgdir>
+    <imgdir name="9901000">
+		<string name="name" value="FangBlade"/>
+		<string name="n1" value="你应该和与巴洛格共舞交谈成为战士。"/>
+		<string name="d0" value="你好！经过多次考验和挑战，我终于达到了200级。如果你努力，你也可以达到。祝你好运！"/>
+		<string name="n0" value="我的名字是/name，我已经达到了200级。"/>
+	</imgdir>
+    <imgdir name="9901001">
+		<string name="n1" value="你应该和与巴洛格共舞交谈成为战士。"/>
+		<string name="d0" value="你好！经过多次考验和挑战，我终于达到了200级。如果你努力，你也可以达到。祝你好运！"/>
+		<string name="n0" value="我的名字是/name，我已经达到了200级。"/>
+	</imgdir>
+</imgdir>

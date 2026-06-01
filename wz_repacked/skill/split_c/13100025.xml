@@ -1,0 +1,5 @@
+<imgdir name="13100025">
+        <string name="name" value="弓熟练度" />
+        <string name="desc" value="提升弓的武器熟练度和命中率。" />
+        <string name="h" value="弓熟练度：#mastery%，命中率：+#x" />
+    </imgdir>

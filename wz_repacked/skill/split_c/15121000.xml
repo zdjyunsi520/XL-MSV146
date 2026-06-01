@@ -1,0 +1,5 @@
+<imgdir name="15121000">
+        <string name="name" value="女皇的召唤" />
+        <string name="desc" value="接受女皇觉醒的祝福，临时提升你和队友的所有属性。" />
+        <string name="h" value="MP消耗：#mpCon，全属性：+#x%，持续时间：#time秒" />
+    </imgdir>

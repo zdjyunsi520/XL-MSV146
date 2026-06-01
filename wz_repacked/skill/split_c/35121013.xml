@@ -1,0 +1,7 @@
+<imgdir name="35121013">
+        <string name="name" value="机甲：攻城模式" />
+        <string name="desc" value="机甲切换为&lt;攻城&gt;模式以优化火力。攻城模式下只能使用基本攻击。提升所有攻击的暴击率。被攻击时获得站姿效果。\n[攻击方式：#c攻击键#]" />
+        <string name="h" value="MP消耗：#mpCon，攻城模式持续时间：#time秒，伤害：#damage%\n#c冷却时间：#cooltime秒" />
+        <string name="pdesc" value="机甲切换为攻城模式以优化火力。攻城模式下只能使用基本攻击。提升所有攻击的暴击率。\n[攻击方式：#c攻击键#]" />
+        <string name="ph" value="MP消耗：#mpCon，攻城模式持续时间：#time秒，伤害：#damage%\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

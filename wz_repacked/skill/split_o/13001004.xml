@@ -1,0 +1,7 @@
+<imgdir name="13001004">
+        <string name="name" value="Storm" />
+        <string name="desc" value="Summons a spirit that attacks the enemies you attacked." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+        <string name="pdesc" value="Summons a spirit that attacks the enemies you attacked." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+    </imgdir>

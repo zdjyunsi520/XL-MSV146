@@ -1,0 +1,5 @@
+<imgdir name="21111005">
+        <string name="name" value="冰雪充能" />
+        <string name="desc" value="为战矛注入冰属性。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time 秒，伤害：#damage%，敌人速度：-#x，持续#y 秒" />
+    </imgdir>

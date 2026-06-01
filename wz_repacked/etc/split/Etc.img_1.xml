@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000001">
+			<string name="name" value="Orange Mushroom Cap"/>
+			<string name="desc" value="A cap removed from a mushroom"/>
+		</imgdir>
+    <imgdir name="4000002">
+			<string name="name" value="Pig's Ribbon"/>
+			<string name="desc" value="Taken off from the pig with a ribbon"/>
+		</imgdir>
+    <imgdir name="4000003">
+			<string name="name" value="Tree Branch"/>
+			<string name="desc" value="The branch bent away from a tree"/>
+		</imgdir>
+    <imgdir name="4000004">
+			<string name="name" value="Squishy Liquid"/>
+			<string name="desc" value="Very thick and sticky liquid"/>
+		</imgdir>
+    <imgdir name="4000005">
+			<string name="name" value="Leaf"/>
+			<string name="desc" value="The leaf that's taken out of a tree"/>
+		</imgdir>
+    <imgdir name="4000006">
+			<string name="name" value="Octopus Leg"/>
+			<string name="desc" value="The leg removed from an octopus"/>
+		</imgdir>
+    <imgdir name="4000007">
+			<string name="name" value="Evil Eye Tail"/>
+			<string name="desc" value="A tail removed from a lizard"/>
+		</imgdir>
+    <imgdir name="4000008">
+			<string name="name" value="Charm of the Undead"/>
+			<string name="desc" value="A charm taken out of an undead monster."/>
+		</imgdir>
+    <imgdir name="4000009">
+			<string name="name" value="Blue Mushroom Cap"/>
+			<string name="desc" value="A cap removed from a mushroom"/>
+		</imgdir>
+    <imgdir name="4000010">
+			<string name="name" value="Slime Bubble"/>
+			<string name="desc" value="A bubble removed from the slime"/>
+		</imgdir>
+    <imgdir name="4000011">
+			<string name="name" value="Mushroom Spore"/>
+			<string name="desc" value="A spore of a mushroom"/>
+		</imgdir>
+    <imgdir name="4000012">
+			<string name="name" value="Green Mushroom Cap"/>
+			<string name="desc" value="A cap removed from a mushroom"/>
+		</imgdir>
+    <imgdir name="4000013">
+			<string name="name" value="Curse Eye Tail"/>
+			<string name="desc" value="A tail removed from a lizard"/>
+		</imgdir>
+    <imgdir name="4000014">
+			<string name="name" value="Drake Skull"/>
+			<string name="desc" value="It's a skull of Drake"/>
+		</imgdir>
+    <imgdir name="4000015">
+			<string name="name" value="Horny Mushroom Cap"/>
+			<string name="desc" value="A cap removed from a mushroom"/>
+		</imgdir>
+    <imgdir name="4000016">
+			<string name="name" value="Red Snail Shell"/>
+			<string name="desc" value="A shell removed from a snail."/>
+		</imgdir>
+    <imgdir name="4000017">
+			<string name="name" value="Pig's Head"/>
+			<string name="desc" value="Head of a pig"/>
+		</imgdir>
+    <imgdir name="4000018">
+			<string name="name" value="Firewood"/>
+			<string name="desc" value="A high-quality firewood from an Axe-Stump."/>
+		</imgdir>
+    <imgdir name="4000019">
+			<string name="name" value="Snail Shell"/>
+			<string name="desc" value="Shell removed from a snail"/>
+		</imgdir>
+    <imgdir name="4000020">
+			<string name="name" value="Wild Boar Tooth"/>
+			<string name="desc" value="The canine tooth taken off from the Wild Boar"/>
+		</imgdir>
+</imgdir>

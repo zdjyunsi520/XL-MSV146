@@ -1,0 +1,140 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201196">
+		<string name="name" value="Sam"/>
+		<string name="n0" value="You can be even stronger, if you get a lesson from Mai"/>
+		<string name="n1" value="Go to the right and then you can meet bunch of other people"/>
+		<string name="n2" value="Press &quot;w&quot; to see the current position."/>
+		<string name="n3" value="How about partying with other players?"/>
+		<string name="f0" value="You should attack the monsters with the right timing"/>
+		<string name="f1" value="You would see lot of new things if you go to Amherst"/>
+		<string name="f2" value="Go to North-East~"/>
+		<string name="w0" value="Even if you don't know the way, just go~"/>
+		<string name="w1" value="Good Luck"/>
+		<string name="h0" value="Hewh~"/>
+		<string name="d0" value="huh? My name is Sam..."/>
+		<string name="d1" value="So you did see Mia huh?"/>
+	</imgdir>
+    <imgdir name="9090006">
+		<string name="name" value="Metus"/>
+		<string name="n0" value="Hows you like ours blessings?"/>
+		<string name="n1" value="Hows you like ours blessings?"/>
+	</imgdir>
+    <imgdir name="9090007">
+		<string name="name" value="Victoria"/>
+		<string name="func" value="Wedding Hall Guide"/>
+		<string name="n0" value="I can answer your questions on the wedding hall."/>
+		<string name="n1" value="What a lovely couple!"/>
+		<string name="d0" value="What do you need to know?"/>
+		<string name="d1" value="It may be a small wedding hall, but it's overflowing with love!"/>
+	</imgdir>
+    <imgdir name="9090008">
+		<string name="name" value="Nana(K)"/>
+		<string name="func" value="Wedding NPC"/>
+		<string name="n0" value="I can answer your questions on the wedding hall."/>
+		<string name="n1" value="What a lovely couple!"/>
+		<string name="d0" value="What do you need to know?"/>
+		<string name="d1" value="It may be a small wedding hall, but it's overflowing with love!"/>
+	</imgdir>
+    <imgdir name="9090100">
+		<string name="name" value="Nero"/>
+	</imgdir>
+    <imgdir name="9090101">
+		<string name="name" value="Yeah Yeah"/>
+		<string name="func" value="Value Pack Merchant"/>
+	</imgdir>
+    <imgdir name="9330149">
+		<string name="name" value="驅魔道長"/>
+	</imgdir>
+    <imgdir name="9330165">
+		<string name="name" value="Boss Kumi"/>
+		<string name="func" value="Homeroom Teacher"/>
+		<string name="n0" value="I've been hearing some really nasty rumors about you lately...."/>
+		<string name="n1" value="You've never studied a day in your life...."/>
+		<string name="d0" value="I've been hearing some really nasty rumors about you lately...."/>
+		<string name="d1" value="You've never studied a day in your life...."/>
+	</imgdir>
+    <imgdir name="9330166">
+		<string name="name" value="Shoon"/>
+		<string name="n0" value="Don't talk to me."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="I don't care how tough you think you are."/>
+		<string name="d1" value="I don't care how tough you think you are."/>
+	</imgdir>
+    <imgdir name="9330167">
+		<string name="name" value="JM"/>
+		<string name="n0" value="Pfft, kids."/>
+		<string name="n1" value="You're all too young to understand a dude like me."/>
+		<string name="d0" value="I ain't gonna tell you my real age..."/>
+		<string name="d1" value="I ain't gonna tell you my real age..."/>
+	</imgdir>
+    <imgdir name="9330168">
+		<string name="name" value="Shumi"/>
+		<string name="n0" value="I'm bored..."/>
+		<string name="n1" value="Let's hang out!"/>
+		<string name="d0" value="Aren't there any decent MEN around here?!"/>
+		<string name="d1" value="Aren't there any decent MEN around here?!"/>
+	</imgdir>
+    <imgdir name="9330169">
+		<string name="name" value="Alex"/>
+		<string name="n0" value="Keep your trap shut... for your own sake."/>
+		<string name="n1" value="You sure wanna be in the spotlight, don't you?"/>
+		<string name="d0" value="I don't want any trouble..."/>
+		<string name="d1" value="I don't want any trouble..."/>
+	</imgdir>
+    <imgdir name="9330170">
+		<string name="name" value="Mumzy"/>
+		<string name="n0" value="Y'all look like a bunch of bumpkins."/>
+		<string name="n1" value="I gotta get out of this rat-trap."/>
+		<string name="d0" value="PERSONAL SPACE. Ever heard of it?"/>
+		<string name="d1" value="PERSONAL SPACE. Ever heard of it?"/>
+	</imgdir>
+    <imgdir name="9330171">
+		<string name="name" value="Rowen"/>
+		<string name="n0" value="Hush hush."/>
+		<string name="n1" value="You should all pay attention!"/>
+		<string name="d0" value="Our class is so noisy."/>
+		<string name="d1" value="Our class is so noisy."/>
+	</imgdir>
+    <imgdir name="9330172">
+		<string name="name" value="Mar"/>
+		<string name="n0" value="Dooby dooby dooo..."/>
+		<string name="n1" value="Heya!"/>
+		<string name="d0" value="It'd be cool to raise pets in schools!"/>
+		<string name="d1" value="It'd be cool to raise pets in schools!"/>
+	</imgdir>
+    <imgdir name="9330173">
+		<string name="name" value="Wing"/>
+		<string name="n0" value="Monsters are SO stupid."/>
+		<string name="n1" value="Pfft, useless humans."/>
+		<string name="d0" value="Why isn't there a separate school for fairies?"/>
+		<string name="d1" value="Why isn't there a separate school for fairies?"/>
+	</imgdir>
+    <imgdir name="9330174">
+		<string name="name" value="So Roon"/>
+		<string name="n0" value="Tae Roon..."/>
+		<string name="n1" value="I WILL have my revenge."/>
+		<string name="d0" value="I WILL have my revenge on Tae Roon."/>
+		<string name="d1" value="I WILL have my revenge on Tae Roon."/>
+	</imgdir>
+    <imgdir name="9330175">
+		<string name="name" value="So Gong"/>
+		<string name="n0" value="The awesomest guy you will ever meet is here!"/>
+		<string name="n1" value="Ha!"/>
+		<string name="d0" value="I'm the only true apprentice Mu Gong ever had."/>
+		<string name="d1" value="I'm the only true apprentice Mu Gong ever had."/>
+	</imgdir>
+    <imgdir name="9330176">
+		<string name="name" value="Laya"/>
+		<string name="n1" value="Don't forget to keep training!"/>
+		<string name="n0" value="You guys are so lame."/>
+		<string name="d0" value="A health body leads to a healthy mind!"/>
+		<string name="d1" value="A health body leads to a healthy mind!"/>
+	</imgdir>
+    <imgdir name="9330177">
+		<string name="name" value="Bellflower Dude"/>
+		<string name="n0" value="Hiya! Yahhh!"/>
+		<string name="n1" value="Bellflower...train..."/>
+		<string name="d0" value="Bellflower...talking..."/>
+		<string name="d1" value="Bellflower...talking..."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="20021110">
+        <string name="name" value="精灵祝福" />
+        <string name="desc" value="[职业特色技能] 可以返回埃欧雷，同时通过古代精灵的祝福永久获得额外经验值。" />
+        <string name="h" value="返回埃欧雷（冷却时间：#cooltime 秒）\n附加效果：永久获得#expR%额外经验值" />
+    </imgdir>

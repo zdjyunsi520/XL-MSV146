@@ -1,0 +1,7 @@
+<imgdir name="2111006">
+        <string name="name" value="Fire Demon" />
+        <string name="desc" value="Attacks multiple enemies at once using fire balls from the Fire Demon. Monsters struck by the Fire Demon continue to take damage for a set duration." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Attacks multiple enemies at once using fire balls from the Fire Demon. Monsters struck by the Fire Demon continue to take damage for a set duration." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

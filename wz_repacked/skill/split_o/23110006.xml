@@ -1,0 +1,8 @@
+<imgdir name="23110006">
+        <string name="name" value="Aerial Barrage" />
+        <string name="desc" value="A combo skill used after lifting enemies into the air with Rising Rush. Fly towards airborne enemies, peppering them with swift attacks. In addition, permanently increases the damage caused by Rising Rush." />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Instant Death Chance: #prop%\nPassive Effects - Rising Rush Damage: +#damR%" />
+        <string name="pdesc" value="A combo skill used after lifting enemies into the air with Rising Rush. Fly towards airborne enemies, peppering them with swift attacks. In addition, permanently increases the damage caused by Rising Rush." />
+        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Instant Death Chance: #prop%\nPassive Effects - Rising Rush Damage: +#damR%" />
+        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount\nPassive Effects - Rising Rush Damage: +#damR%" />
+    </imgdir>

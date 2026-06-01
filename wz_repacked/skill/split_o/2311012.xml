@@ -1,0 +1,5 @@
+<imgdir name="2311012">
+        <string name="name" value="Divine Protection" />
+        <string name="desc" value="Permanently increases Abnormal Status and all Elemental Resistances. When used, you use holy power to create a holy barrier that blocks critical Abnormal Status. Upon casting Dispel, the cooldown is reduced according to the number of recovered party members." />
+        <string name="h" value="MP Cost: #mpCon, resist critical Abnormal Status once. Cooldown: #cooltime sec\n[Passive Effect: Increases Abnormal Status and all Elemental Resistances by #asrR%]" />
+    </imgdir>

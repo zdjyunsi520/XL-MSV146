@@ -1,0 +1,8 @@
+<imgdir name="2311001">
+        <string name="name" value="Dispel" />
+        <string name="desc" value="Nullifies all enemy magic effects within the targeted area while removing all abnormal conditions suffered by nearby allies. Decreases Divine Protection&apos;s cooldown based on the number of treated party members. The Dispel skill can remove critical abnormal conditions, including Knocked Out, Seduction, Confusion, and Zombified." />
+        <string name="h" value="MP Cost: #mpCon, after nullifying magic and curing Abnormal Status at #prop% chance, the Divine Protection cooldown will be reduced according the number of cures by #time sec" />
+        <string name="pdesc" value="Nullifies all enemy magic effects within the targeted area while removing all abnormal conditions suffered by nearby allies. Decreases Divine Protection&apos;s cooldown based on the number of treated party members. The Dispel skill can remove critical abnormal conditions, including Knocked Out, Seduction, Confusion, and Zombified." />
+        <string name="ph" value="MP Cost: #mpCon, after nullifying magic and curing Abnormal Status at #prop% chance, the Divine Protection cooldown will be reduced according the number of cures by #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, after nullifying magic and curing Abnormal Status at #prop% chance, the Divine Protection cooldown will be reduced according the number of cures by #time sec" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300272">
+		<string name="name" value="Target Orange Mushroom"/>
+	</imgdir>
+    <imgdir name="9300273">
+		<string name="name" value="Target Pig"/>
+	</imgdir>
+    <imgdir name="9300274">
+		<string name="name" value="Cynical Orange Mushroom"/>
+	</imgdir>
+    <imgdir name="9300275">
+		<string name="name" value="Shammos"/>
+	</imgdir>
+    <imgdir name="9300276">
+		<string name="name" value="Hoblin Hector"/>
+	</imgdir>
+    <imgdir name="9300277">
+		<string name="name" value="Elite Hoblin"/>
+	</imgdir>
+    <imgdir name="9300278">
+		<string name="name" value="Elite Green Hoblin"/>
+	</imgdir>
+    <imgdir name="9300279">
+		<string name="name" value="Combat Hoblin"/>
+	</imgdir>
+    <imgdir name="9300280">
+		<string name="name" value="Ferocious Hoblin"/>
+	</imgdir>
+    <imgdir name="9300281">
+		<string name="name" value="Rex"/>
+	</imgdir>
+    <imgdir name="9300282">
+		<string name="name" value="Shammos"/>
+	</imgdir>
+    <imgdir name="9300283">
+		<string name="name" value="Rex Summoned Invisible Mob"/>
+	</imgdir>
+    <imgdir name="9300284">
+		<string name="name" value="Shammos"/>
+	</imgdir>
+    <imgdir name="9300285">
+		<string name="name" value="Puppeteer"/>
+	</imgdir>
+    <imgdir name="9300286">
+		<string name="name" value="Dangerous Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="9300287">
+		<string name="name" value="Snowman of Competence"/>
+	</imgdir>
+    <imgdir name="9300288">
+		<string name="name" value="Crimson Balrog of Competence "/>
+	</imgdir>
+    <imgdir name="9300289">
+		<string name="name" value="Snipe of Competence "/>
+	</imgdir>
+    <imgdir name="9300290">
+		<string name="name" value="Lilynouch of Competence"/>
+	</imgdir>
+    <imgdir name="9300291">
+		<string name="name" value="Advanced Manon"/>
+	</imgdir>
+</imgdir>

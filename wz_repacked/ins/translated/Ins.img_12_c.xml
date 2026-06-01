@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010371">
+		<string name="name" value="枫树下"/>
+		<string name="desc" value="为庆祝八周年制作的白色椅子。每10秒恢复40 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010373">
+		<string name="name" value="瓷器王座"/>
+		<string name="desc" value="奢华的马桶椅子。配有你需要的一切！每10秒恢复100 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010374">
+		<string name="name" value="星空夜晚椅子"/>
+		<string name="desc" value="坐在上面享受寂静星空的宁静吧！每10秒恢复100 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010375">
+		<string name="name" value="神秘强力精华椅子"/>
+		<string name="desc" value="发出神秘光芒的强力精华椅子。让你比其他药水椅子恢复HP &amp; MP稍快一些。每10秒恢复110 HP和60 MP。"/>
+	</imgdir>
+    <imgdir name="3010376">
+		<string name="name" value="热情红色药水椅子"/>
+		<string name="desc" value="让你感觉比坐其他椅子恢复HP稍快一些的红色药水椅子。每10秒恢复110 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010377">
+		<string name="name" value="清爽蓝色药水椅子"/>
+		<string name="desc" value="让你感觉比坐其他椅子恢复MP稍快一些的蓝色药水椅子。每10秒恢复100 HP和60 MP。"/>
+	</imgdir>
+    <imgdir name="3010372">
+		<string name="name" value="杰特的椅子"/>
+		<string name="desc" value="赠予有杰特式冒险精神的人的椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010378">
+		<string name="name" value="枫叶管家椅子(1-3年)_梅塞德斯"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010379">
+		<string name="name" value="枫叶管家椅子(1-3年)_恶魔"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010380">
+		<string name="name" value="枫叶管家椅子(1-3年)_抵抗"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010381">
+		<string name="name" value="枫叶管家椅子(1-3年)_亚莲"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010382">
+		<string name="name" value="枫叶管家椅子(1-3年)_埃文"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010383">
+		<string name="name" value="冒险家旗帜椅子"/>
+		<string name="desc" value="象征冒险家的旗帜和椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010384">
+		<string name="name" value="枫叶管家椅子(1-3年)_西格纳斯"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010385">
+		<string name="name" value="枫叶管家椅子(3-5年)_梅塞德斯"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复80 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010386">
+		<string name="name" value="枫叶管家椅子(3-5年)_恶魔"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复80 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010387">
+		<string name="name" value="枫叶管家椅子(3-5年)_抵抗"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复80 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010388">
+		<string name="name" value="枫叶管家椅子(3-5年)_亚莲"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复80 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010389">
+		<string name="name" value="枫叶管家椅子(3-5年)_埃文"/>
+		<string name="desc" value="带有旗帜的椅子，表彰长期服务的冒险岛战士。非常有爱国心。每10秒恢复80 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010390">
+		<string name="name" value="高级冒险家旗帜椅子"/>
+		<string name="desc" value="象征冒险家的旗帜和椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+</imgdir>

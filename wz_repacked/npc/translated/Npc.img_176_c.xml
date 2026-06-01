@@ -1,0 +1,117 @@
+<imgdir name="Npc.img">
+    <imgdir name="1520041">
+		<string name="name" value="埃文"/>
+		<string name="d0" value="他们称我为英雄，但几个世纪前封印黑魔法师时我并不在场。"/>
+		<string name="d1" value="我的名字是埃文。这是米尔，我的龙。"/>
+		<string name="n0" value="米尔很棒！除了她不棒的时候。别告诉她我这么说！"/>
+		<string name="n1" value="我的名字是埃文。这是米尔，我的龙。"/>
+		<imgdir name="dialogue">
+			<string name="32329" value="农场有好多差事要跑！"/>
+		</imgdir>
+    <imgdir name="1520042">
+		<string name="name" value="米尔"/>
+		<string name="d0" value="我爱埃文！他是最棒的！"/>
+		<string name="d1" value="你想要我的签名，对吧？呵呵！"/>
+		<string name="n0" value="我是周围唯一的玛瑙龙！"/>
+		<string name="n1" value="我是米尔，埃文的龙。"/>
+	</imgdir>
+    <imgdir name="1520043">
+		<string name="name" value="小猪"/>
+	</imgdir>
+    <imgdir name="1520044">
+		<string name="name" value="梅赛德斯"/>
+		<string name="d0" value="欢迎来到埃卢埃尔。我本想邀请你留下来，只是...嗯，看看周围。"/>
+		<string name="d1" value="无论时间流逝多久，人们都不会改变。我们都努力保护我们所爱的人。"/>
+		<string name="n0" value="我是梅赛德斯，埃卢埃尔的女王。"/>
+		<string name="n1" value="欢迎来到埃卢埃尔。"/>
+	</imgdir>
+    <imgdir name="1520045">
+		<string name="name" value="小桥"/>
+	</imgdir>
+    <imgdir name="1520046">
+		<string name="name" value="幻影"/>
+		<string name="d0" value="我知道每个人都想念我，但你的招牌太糟糕了。"/>
+		<string name="n0" value="我就放你一马，仅此一次。"/>
+		<string name="n1" value="如果你有想保护的东西，自己去保护。不要依赖别人。"/>
+		<imgdir name="dialogue">
+			<string name="32341" value="几个世纪过去了，黑魔法师还是老样子。"/>
+		</imgdir>
+    <imgdir name="1520047">
+		<string name="name" value="森特罗波"/>
+		<string name="n0" value="哔哔...嗝！"/>
+		<string name="n1" value="入侵者警报！初始化消除模式...嗝！"/>
+	</imgdir>
+    <imgdir name="1520048">
+		<string name="name" value="夜光"/>
+		<string name="n0" value="已经很久了，世界仍然遭受着同样的困扰..."/>
+		<string name="n1" value="重建森特罗波需要一段时间..."/>
+		<string name="d0" value="我的名字是夜光。我掌控光明与黑暗。"/>
+		<imgdir name="dialogue">
+			<string name="32346" value="黑魔法师摧毁了冒险岛..."/>
+		</imgdir>
+    <imgdir name="1520049">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="怎么，你觉得我太优秀了以至于不用打扫吗？！"/>
+		<string name="d1" value="苔丝和奥利夫在阿默斯特。"/>
+		<string name="n0" value="你盯着看什么？我打扫的时候看起来很棒。"/>
+		<string name="n1" value="你让我心烦。别烦我，去阿默斯特吧。"/>
+	</imgdir>
+    <imgdir name="1520050">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="锤，锤，锤！"/>
+		<string name="d1" value="这木头闻起来很熟悉。是艾琳森林的吗？"/>
+		<string name="n0" value="阿嚏！阿嚏！阿嚏！"/>
+		<string name="n1" value="钉子、木头和锤子。都准备好了。"/>
+	</imgdir>
+    <imgdir name="1520051">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="苔丝和我正在修复被摧毁的建筑。我们会让它们再次闪亮！"/>
+		<string name="d1" value="感谢所有的物资。"/>
+		<string name="n0" value="锤东西是最棒的事情！"/>
+		<string name="n1" value="舒格一定在枫树山。你为什么不去看看她？"/>
+	</imgdir>
+    <imgdir name="1520052">
+		<string name="name" value="舒格"/>
+		<string name="d0" value="我非常感谢大家的帮助..."/>
+		<string name="d1" value="这不是黑魔法师的最终计划。我必须保持警惕，看看他下一步会做什么！"/>
+		<string name="n0" value="我现在该怎么办？"/>
+		<string name="n1" value="冒险岛世界的未来悬而未决..."/>
+	</imgdir>
+    <imgdir name="1520053">
+		<string name="name" value="黑魔法师的影子"/>
+	</imgdir>
+    <imgdir name="1520054">
+		<string name="name" value="舒格"/>
+	</imgdir>
+    <imgdir name="1520055">
+		<string name="name" value="苔丝"/>
+	</imgdir>
+    <imgdir name="1520056">
+		<string name="name" value="奥利夫"/>
+	</imgdir>
+    <imgdir name="1520057">
+		<string name="name" value="朗多"/>
+	</imgdir>
+    <imgdir name="1520058">
+		<string name="name" value="冒险岛世界之灵"/>
+		<string name="d0" value="这只是开始。我们必须阻止笼罩在冒险岛世界上的毁灭。"/>
+		<string name="d1" value="舒格，我的另一个自我...我一直通过你的眼睛观察着。"/>
+		<string name="n0" value="感谢你拯救了冒险岛。"/>
+		<string name="n1" value="这只是开始。我们必须阻止笼罩在冒险岛世界上的毁灭。"/>
+	</imgdir>
+    <imgdir name="1520059">
+		<string name="name" value="舒格"/>
+		<string name="d0" value="抱歉我之前不能告诉你...嘻嘻。"/>
+		<string name="d1" value="我打算留在这里再观察一会儿。"/>
+		<string name="n0" value="感谢你拯救了冒险岛。"/>
+		<string name="n1" value="我打算留在这里再观察一会儿。"/>
+	</imgdir>
+    <imgdir name="1520060">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="我尽我所能提供了帮助。你不知道这对我的背造成了多大的损失！"/>
+		<string name="d1" value="既然我已经把那个东西交给雅典娜·皮尔斯了，现在是时候回去了。"/>
+		<string name="d2" value="我只是来给雅典娜·皮尔斯送东西的，但看看它把我带到了哪里！我回家后要好好泡个澡。"/>
+		<string name="n0" value="嘿，高——我是说，你！"/>
+		<string name="n1" value="是啊，我在想，回家后泡个澡，点些蜡烛，再加点泡泡..."/>
+	</imgdir>
+</imgdir>

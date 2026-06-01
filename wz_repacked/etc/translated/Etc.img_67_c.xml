@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4011010">
+			<string name="name" value="矿石碎片"/>
+			<string name="desc" value="矿石的碎片"/>
+		</imgdir>
+    <imgdir name="4020000">
+			<string name="name" value="石榴石矿石"/>
+			<string name="desc" value="红色宝石矿石。可以提炼获得稀有魔法粉（红色）"/>
+		</imgdir>
+    <imgdir name="4020001">
+			<string name="name" value="紫水晶矿石"/>
+			<string name="desc" value="紫色宝石的矿石"/>
+		</imgdir>
+    <imgdir name="4020002">
+			<string name="name" value="海蓝宝石矿石"/>
+			<string name="desc" value="蓝色宝石矿石。可以提炼获得稀有魔法粉（白色）"/>
+		</imgdir>
+    <imgdir name="4020003">
+			<string name="name" value="祖母绿矿石"/>
+			<string name="desc" value="绿色宝石矿石。可以提炼获得稀有魔法粉（绿色）"/>
+		</imgdir>
+    <imgdir name="4020004">
+			<string name="name" value="蛋白石矿石"/>
+			<string name="desc" value="多彩宝石的矿石"/>
+		</imgdir>
+    <imgdir name="4020005">
+			<string name="name" value="蓝宝石矿石"/>
+			<string name="desc" value="蓝色透明宝石矿石。可以提炼获得稀有魔法粉（蓝色）"/>
+		</imgdir>
+    <imgdir name="4020006">
+			<string name="name" value="黄玉矿石"/>
+			<string name="desc" value="黄色宝石矿石。可以提炼获得稀有魔法粉（黄色）"/>
+		</imgdir>
+    <imgdir name="4020007">
+			<string name="name" value="钻石矿石"/>
+			<string name="desc" value="透明宝石矿石。可以提炼获得稀有魔法粉（白色）"/>
+		</imgdir>
+    <imgdir name="4020008">
+			<string name="name" value="黑水晶矿石"/>
+			<string name="desc" value="蕴含黑暗力量的水晶矿石。可以提炼获得稀有魔法粉（黑色）"/>
+		</imgdir>
+    <imgdir name="4020009">
+			<string name="name" value="时间碎片"/>
+			<string name="desc" value="蕴含时间力量的宝石原矿"/>
+		</imgdir>
+    <imgdir name="4020013">
+			<string name="name" value="梦之碎片"/>
+			<string name="desc" value="充满梦想的碎片"/>
+		</imgdir>
+    <imgdir name="4021000">
+			<string name="name" value="石榴石"/>
+			<string name="desc" value="红色宝石。用于8级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021001">
+			<string name="name" value="紫水晶"/>
+			<string name="desc" value="紫色宝石。用于2级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021002">
+			<string name="name" value="海蓝宝石"/>
+			<string name="desc" value="蓝色宝石。用于7级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021003">
+			<string name="name" value="祖母绿"/>
+			<string name="desc" value="绿色宝石。用于5级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021004">
+			<string name="name" value="蛋白石"/>
+			<string name="desc" value="多彩宝石。用于1级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021005">
+			<string name="name" value="蓝宝石"/>
+			<string name="desc" value="蓝色透明宝石。用于3级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021006">
+			<string name="name" value="黄玉"/>
+			<string name="desc" value="黄色宝石。用于6级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4021007">
+			<string name="name" value="钻石"/>
+			<string name="desc" value="透明宝石。用于7级装备、饰品和炼金制作"/>
+		</imgdir>
+</imgdir>

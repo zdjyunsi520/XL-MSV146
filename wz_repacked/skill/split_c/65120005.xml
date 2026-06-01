@@ -1,0 +1,5 @@
+<imgdir name="65120005">
+        <string name="name" value="灵魂射手专家" />
+        <string name="desc" value="提升灵魂射手精通度和武器攻击力。\n需要技能：#c灵魂射手精通 Lv. 10#" />
+        <string name="h" value="Mastery: +#mastery%, Damage: +#padX, Critical Rate: +#cr%, Min Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

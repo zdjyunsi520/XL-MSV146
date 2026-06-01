@@ -1,0 +1,123 @@
+<imgdir name="Npc.img">
+    <imgdir name="1300008">
+		<string name="name" value="James"/>
+		<string name="d0" value="Hurry!"/>
+		<string name="d1" value="Hurry!"/>
+	</imgdir>
+    <imgdir name="1300009">
+		<string name="name" value="Mushroom Soldier"/>
+	</imgdir>
+    <imgdir name="1300010">
+		<string name="name" value="Killer Spore Potion"/>
+	</imgdir>
+    <imgdir name="1300011">
+		<string name="name" value="Thorn Remover"/>
+	</imgdir>
+    <imgdir name="1300012">
+		<string name="name" value="Door to East Castle Tower"/>
+	</imgdir>
+    <imgdir name="1300013">
+		<string name="name" value="Blocked Entrance"/>
+	</imgdir>
+    <imgdir name="1300014">
+		<string name="name" value="SELF"/>
+	</imgdir>
+    <imgdir name="1301000">
+		<string name="name" value="Thorr"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="I want to go home."/>
+		<string name="n1" value="See if you need any recovery items."/>
+	</imgdir>
+    <imgdir name="1400000">
+		<string name="name" value="Cristophe"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="s0" value="Storage within storage, I say!"/>
+		<string name="s1" value="Store your important items here and take them out from any other Storage vendor!"/>
+		<string name="s2" value="Good salary! Beautiful women! What a perfect job!"/>
+		<string name="s3" value="How much is this ship anyway? Looks pretty pricey!"/>
+	</imgdir>
+    <imgdir name="1400001">
+		<string name="name" value="Serge"/>
+		<string name="func" value="Weapon / Armor Seller"/>
+		<string name="s0" value="A ship this great has to have the best weapons on the planet."/>
+		<string name="s1" value="I'll make sure you never regret a purchase."/>
+		<string name="s2" value="Look at this blinding luster!"/>
+		<string name="s3" value="Good weapons are a lot better than jewels."/>
+	</imgdir>
+    <imgdir name="1400002">
+		<string name="name" value="Mathias"/>
+		<string name="func" value="General Store"/>
+		<string name="s0" value="I'm a man of my honor. I will always return a favor."/>
+		<string name="s1" value="In return for your help, have at my wares."/>
+	</imgdir>
+    <imgdir name="1400003">
+		<string name="name" value="Renault"/>
+		<string name="func" value="Captain"/>
+		<string name="n0" value="The wind is still. This is the perfect weather for a day in the skies!"/>
+		<string name="n1" value="I love the sound of that engine!"/>
+		<string name="d0" value="You wish to chart a new course? Just point toward the horizon!"/>
+		<string name="d1" value="You wish to chart a new course? Just point toward the horizon!"/>
+	</imgdir>
+    <imgdir name="1401000">
+		<string name="name" value="Gaston"/>
+		<string name="func" value="Manservant"/>
+		<string name="n0" value="You will never find a speck of dust upon the Lumiere, thanks to our wonderful maids."/>
+		<string name="n1" value="Shall I bring you some tea, master?"/>
+		<string name="d0" value="A true butler knows his master's needs before he does."/>
+		<string name="d1" value="A true butler knows his master's needs before he does."/>
+	</imgdir>
+    <imgdir name="1401001">
+		<string name="name" value="Christiane"/>
+		<string name="func" value="Intelligence Analyst"/>
+		<string name="n0" value="There are experts in every field and I am an expert in analyzing information."/>
+		<string name="n1" value="Upon further analyzation..."/>
+		<string name="d0" value="Information must be cataloged, analyzed, and processed before it becomes useful."/>
+		<string name="d1" value="Information must be cataloged, analyzed, and processed before it becomes useful."/>
+	</imgdir>
+    <imgdir name="1401002">
+		<string name="name" value="Colette"/>
+		<string name="func" value="Intelligence Collector"/>
+		<string name="n0" value="I smell some good information!"/>
+		<string name="n1" value="Nothing gets me more excited than a juicy new piece of intel!"/>
+		<string name="d0" value="Brokering intelligence between nobles was such a bore. Working here is much better!"/>
+		<string name="d1" value="Brokering intelligence between nobles was such a bore. Working here is much better!"/>
+	</imgdir>
+    <imgdir name="1401003">
+		<string name="name" value="Marguerite"/>
+		<string name="func" value="Maidservant"/>
+		<string name="n0" value="Welcome, master!"/>
+		<string name="n1" value="I never thought I'd have so much fun cleaning."/>
+		<string name="d0" value="I can't even remember why I was so hesitant to leave home and find a job. I love it here!"/>
+		<string name="d1" value="I can't even remember why I was so hesitant to leave home and find a job. I love it here!"/>
+	</imgdir>
+    <imgdir name="1401004">
+		<string name="name" value="Madeleine"/>
+		<string name="func" value="Maidservant"/>
+		<string name="n0" value="Welcome, master!"/>
+		<string name="n1" value="A clean training center means better training sessions."/>
+		<string name="d0" value="I'm so glad I can be with my younger sisters. Thank you for taking care of us all!"/>
+		<string name="d1" value="I'm so glad I can be with my younger sisters. Thank you for taking care of us all!"/>
+	</imgdir>
+    <imgdir name="1401005">
+		<string name="name" value="Marianne"/>
+		<string name="func" value="Maidservant"/>
+		<string name="n0" value="Welcome, master!"/>
+		<string name="n1" value="Can I get you something to drink? A sandwich?"/>
+		<string name="d0" value="After I'm done with work, I can read my books with a nice glass of tea. This job is the best!"/>
+		<string name="d1" value="After I'm done with work, I can read my books with a nice glass of tea. This job is the best!"/>
+	</imgdir>
+    <imgdir name="1402000">
+		<string name="name" value="Gaston"/>
+		<string name="func" value="Manservant"/>
+		<string name="n0" value="The time is almost here."/>
+		<string name="n1" value="All preparations complete."/>
+		<string name="d0" value="All preparations complete. The only thing left is to carry out your plan. I bid you good luck, master."/>
+		<string name="d1" value="All preparations complete. The only thing left is to carry out your plan. I bid you good luck, master."/>
+	</imgdir>
+    <imgdir name="1402001">
+		<string name="name" value="Kidan"/>
+		<string name="func" value="Chief Knight"/>
+		<string name="n0" value="What's going on?"/>
+		<string name="n1" value="Is the Empress okay?"/>
+	</imgdir>
+</imgdir>

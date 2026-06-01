@@ -1,0 +1,77 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700100">
+		<string name="name" value="Infamous"/>
+		<string name="desc" value="Title for those that received 2 Confession Cards and 1 Farewell Card during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700101">
+		<string name="name" value="Social"/>
+		<string name="desc" value="Title for those that received 1 Confession Card and 2 Friendship Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700102">
+		<string name="name" value="Valentiner"/>
+		<string name="desc" value="Title for those that received 1 Confession Card, 1 Friendship Card, and 1 Farewell Card during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700103">
+		<string name="name" value="For Only One"/>
+		<string name="desc" value="Title for those that received 1 Confession Card and 2 Farewell Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700104">
+		<string name="name" value="Loyal Valentiner"/>
+		<string name="desc" value="Title for those that received 3 Friendship Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700105">
+		<string name="name" value="Cold Valentine"/>
+		<string name="desc" value="Title for those that received 2 Friendship Cards and 1 Farewell Card during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700106">
+		<string name="name" value="Forever Alone"/>
+		<string name="desc" value="Title for those that received 1 Friendship Card and 2 Farewell Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700107">
+		<string name="name" value="Worst Valentine Ever"/>
+		<string name="desc" value="Title for those that received 3 Farewell Cards during the Valentine Day event"/>
+	</imgdir>
+    <imgdir name="3700108">
+		<string name="name" value="Sorry, Glowing Ghost"/>
+		<string name="desc" value="Sorry for the Glowing Ghost, but hey, everybody needs a little extra money here and there, right?\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700109">
+		<string name="name" value="2014 New Year Master"/>
+		<string name="desc" value="You've collect all the New Year Bits!\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700110">
+		<string name="name" value="Pretty Good at Yut"/>
+		<string name="desc" value="You finally figured out the game of Yut.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700111">
+		<string name="name" value="Kite Fighter"/>
+		<string name="desc" value="You aren't scared of a little game of Kite Rider, are you?\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +3#"/>
+	</imgdir>
+    <imgdir name="3700112">
+		<string name="name" value="Traditional Champion"/>
+		<string name="desc" value="Nobody can beat you in the Game of Yut or Kite Rider anymore! You're just that good.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5#"/>
+	</imgdir>
+    <imgdir name="3700117">
+		<string name="name" value="Accessorized Valentine"/>
+		<string name="desc" value="A special title for buyers of the Sweet Glasses + Earrings from the Valentine's Day event. \r\n#cClick to turn ON/OFF.# \r\n#c&lt;Effect&gt;\n ATT/Magic ATT +3\r\nAll Stat + 5#"/>
+	</imgdir>
+    <imgdir name="3700078">
+		<string name="name" value="Walks with Moon"/>
+		<string name="desc" value="Title for rescuing the Miwok Boys.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +5\nAll Stats +5#"/>
+	</imgdir>
+    <imgdir name="3800010">
+		<string name="name" value="L Forest I"/>
+	</imgdir>
+    <imgdir name="3800011">
+		<string name="name" value="Kerning City"/>
+	</imgdir>
+    <imgdir name="3800012">
+		<string name="name" value="Construction Site North of Kerning City"/>
+	</imgdir>
+    <imgdir name="3800013">
+		<string name="name" value="West Domain of Perion"/>
+	</imgdir>
+    <imgdir name="3800014">
+		<string name="name" value="Thieves' Hideout"/>
+	</imgdir>
+</imgdir>

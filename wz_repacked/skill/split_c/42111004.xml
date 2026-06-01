@@ -1,0 +1,5 @@
+<imgdir name="42111004">
+        <string name="name" value="樱花结界" />
+        <string name="desc" value="召唤强大的樱花结界来保护你和你的队伍成员。" />
+        <string name="h" value="精气消耗：#epCon，持续时间：#time秒，伤害减免：#x%，状态/属性抗性：+#y%。\n冷却时间：#cooltime秒" />
+    </imgdir>

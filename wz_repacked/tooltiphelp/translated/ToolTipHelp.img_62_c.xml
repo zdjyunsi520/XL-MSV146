@@ -1,0 +1,79 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="106020400">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇之王城堡"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="悬崖阴影"/>
+			</imgdir>
+    <imgdir name="106020401">
+			<imgdir name="0">
+				<string name="Title" value="悬崖阴影"/>
+			</imgdir>
+    <imgdir name="106020402">
+			<imgdir name="0">
+				<string name="Title" value="悬崖阴影"/>
+			</imgdir>
+    <imgdir name="106020403">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇之王城堡(小心悬崖)"/>
+			</imgdir>
+    <imgdir name="106020500">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇城堡墙壁外"/>
+				<string name="Desc" value="双击荆棘去除剂去除藤蔓上的荆棘，然后爬上去。"/>
+			</imgdir>
+    <imgdir name="106020501">
+			<imgdir name="0">
+				<string name="Title" value="进入蘑菇之王城堡"/>
+				<string name="Desc" value="只有踩在去除荆棘的藤蔓上才能进入城堡。"/>
+			</imgdir>
+    <imgdir name="106020600">
+			<imgdir name="0">
+				<string name="Title" value="西部城堡塔"/>
+			</imgdir>
+    <imgdir name="106021800">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇城堡出口"/>
+			</imgdir>
+    <imgdir name="106021300">
+			<imgdir name="0">
+				<string name="Title" value="东部城堡塔"/>
+			</imgdir>
+    <imgdir name="106021200">
+			<imgdir name="0">
+				<string name="Title" value="中央城堡塔"/>
+			</imgdir>
+    <imgdir name="106021100">
+			<imgdir name="0">
+				<string name="Title" value="中央城堡塔"/>
+			</imgdir>
+    <imgdir name="106021000">
+			<imgdir name="0">
+				<string name="Title" value="中央城堡塔"/>
+			</imgdir>
+    <imgdir name="106020800">
+			<imgdir name="0">
+				<string name="Title" value="西部城堡塔"/>
+			</imgdir>
+    <imgdir name="106020700">
+			<imgdir name="0">
+				<string name="Title" value="西部城堡塔"/>
+			</imgdir>
+    <imgdir name="140000000">
+			<imgdir name="0">
+				<string name="Title" value="往岛屿中心"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="前往港口"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="rien图书馆"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="武器/防具店"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="杂货店"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290004">
+		<string name="name" value="[能手册] 突进"/>
+		<string name="desc" value="70%概率将#c突进#的最高等级提升到20级。\r\n职业：4转战士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290005">
+		<string name="name" value="[能手册] 突进"/>
+		<string name="desc" value="50%概率将#c突进#的最高等级提升到30级。\r\n职业：4转战士\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290006">
+		<string name="name" value="[能手册] 稳如泰山"/>
+		<string name="desc" value="70%概率将#c稳如泰山#的最高等级提升到20级。\n职业：战士（4转）、米哈尔\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290007">
+		<string name="name" value="[能手册] 稳如泰山"/>
+		<string name="desc" value="50%概率将#c稳如泰山#的最高等级提升到30级\n职业：战士（4转）、米哈尔\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290008">
+		<string name="name" value="[能手册] 进阶连击攻击"/>
+		<string name="desc" value="70%概率将#c进阶连击攻击#的最高等级提升到20级。\r\n职业：英雄\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290009">
+		<string name="name" value="[能手册] 进阶连击攻击"/>
+		<string name="desc" value="50%概率将#c进阶连击攻击#的最高等级提升到30级。\r\n职业：英雄\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290010">
+		<string name="name" value="[能手册] 勇猛劈砍"/>
+		<string name="desc" value="70%概率将#c勇猛劈砍#的最高等级提升到20级。\r\n职业：英雄\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290011">
+		<string name="name" value="[能手册] 勇猛劈砍"/>
+		<string name="desc" value="50%概率将#c勇猛劈砍#的最高等级提升到30级。\r\n职业：英雄\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290012">
+		<string name="name" value="[能手册] 爆破"/>
+		<string name="desc" value="70%概率将#c爆破#的最高等级提升到20级。\r\n职业：圣骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290013">
+		<string name="name" value="[能手册] 爆破"/>
+		<string name="desc" value="50%概率将#c爆破#的最高等级提升到30级。\r\n职业：圣骑士\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290014">
+		<string name="name" value="[能手册] 守护"/>
+		<string name="desc" value="70%概率将#c守护#的最高等级提升到20级。\r\n职业：英雄、圣骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290015">
+		<string name="name" value="[能手册] 守护"/>
+		<string name="desc" value="50%概率将#c守护#的最高等级提升到30级。\r\n职业：英雄、圣骑士\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290016">
+		<string name="name" value="[能手册] 愤怒"/>
+		<string name="desc" value="70%概率将#c愤怒#的最高等级提升到20级。\r\n职业：英雄\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290017">
+		<string name="name" value="[能手册] 愤怒"/>
+		<string name="desc" value="50%概率将#c愤怒#的最高等级提升到30级。\r\n职业：英雄\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290018">
+		<string name="name" value="[能手册] 圣属性攻击"/>
+		<string name="desc" value="70%概率将#c圣属性攻击#的最高等级提升到20级。\r\n职业：圣骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290019">
+		<string name="name" value="[能手册] 神圣攻击"/>
+		<string name="desc" value="70%概率将#c神圣攻击#的最高等级提升到20级。\r\n职业：圣骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290020">
+		<string name="name" value="[能手册] 天堂之锤"/>
+		<string name="desc" value="70%概率将#c天堂之锤#的最高等级提升到20级。\r\n职业：圣骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290021">
+		<string name="name" value="[能手册] 天堂之锤"/>
+		<string name="desc" value="50%概率将#c天堂之锤#的最高等级提升到30级。\r\n职业：圣骑士\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290022">
+		<string name="name" value="[能手册] 狂暴"/>
+		<string name="desc" value="70%概率将#c狂暴#的最高等级提升到20级。\r\n职业：黑骑士\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290023">
+		<string name="name" value="[能手册] 狂暴"/>
+		<string name="desc" value="50%概率将#c狂暴#的最高等级提升到30级。\r\n职业：黑骑士\r\n条件：技能等级15级以上"/>
+	</imgdir>
+</imgdir>

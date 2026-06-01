@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022192">
+		<string name="name" value="Waffle"/>
+		<string name="desc" value="A hot, buttery waffle that's ready to eat. Recovers 300 HP and MP"/>
+	</imgdir>
+    <imgdir name="2022193">
+		<string name="name" value="Merlin Orb"/>
+		<string name="desc" value="A majestic orb said to have been the property of a powerful mage. Gives a boost of +40 M. Att for 15 mins."/>
+	</imgdir>
+    <imgdir name="2022194">
+		<string name="name" value="Leaf Crystal"/>
+		<string name="desc" value="An uncommon crystal formed by the leaves of an Ellinian vine. Provides a boost of +12 W. Att, +20 M. Att, +20 DEF/M. DEF, +8 Avoidability/Accuracy for 20 minutes. May only be used 5 times before it vanishes."/>
+	</imgdir>
+    <imgdir name="2022195">
+		<string name="name" value="Mapleade"/>
+		<string name="desc" value="Refreshing drink for thirsty travelers! Recovers 80% HP, 90% MP and gives a boost of +2 Att for 30 mins."/>
+	</imgdir>
+    <imgdir name="2022196">
+		<string name="name" value="Wedding Bouquet"/>
+		<string name="desc" value="A special wedding bouquet.  Gives +5 Weapon Attack and +3 Magic Attack for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022197">
+		<string name="name" value="Wedding Bouquet"/>
+		<string name="desc" value="A special wedding bouquet.  Gives +8 Weapon Attack and +5 Magic Attack for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022198">
+		<string name="name" value="Russellon's Pills"/>
+		<string name="desc" value="A pill made by Russellon from Magatia.  The actual effects of this pill remain a mystery..."/>
+	</imgdir>
+    <imgdir name="2022199">
+		<string name="name" value="Russellon's Potion"/>
+		<string name="desc" value="A potion made by Russellon from Magatia. The actual effects of this potion remain a mystery..."/>
+	</imgdir>
+    <imgdir name="2022200">
+		<string name="name" value="Wedding Bouquet"/>
+		<string name="desc" value="A special wedding bouquet.  Gives +10 Weapon Attack and +8 Magic Attack for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022203">
+		<string name="name" value="Laksa"/>
+		<string name="desc" value="Singapore local speciality spicy noodle. It triggers one to sweat after consumpsion.\nRecovers 800 HP."/>
+	</imgdir>
+    <imgdir name="2022204">
+		<string name="name" value="Hokkien Mee"/>
+		<string name="desc" value="Singapore's local speciality prawn noodles. It is normally served with prawns, chili &amp; lime. \nRecovers 1200 HP."/>
+	</imgdir>
+    <imgdir name="2022205">
+		<string name="name" value="Carrot Cake"/>
+		<string name="desc" value="A delicious local traditional food. It is made up of carrot extracts &amp; secret recipes. \nRecovers 1800 HP."/>
+	</imgdir>
+    <imgdir name="2022206">
+		<string name="name" value="Chicken Rice"/>
+		<string name="desc" value="A delicious Singapore local traditional food. The rice is covered with the fragrant secret recipes of chicken extracts.\nRecovers 2200 HP."/>
+	</imgdir>
+    <imgdir name="2022207">
+		<string name="name" value="Satay"/>
+		<string name="desc" value="A delicious Singapore local traditional BBQ food. It is normally served with curry sauces. Its fragrance can be sensed a distance away.\nRecovers 2600 HP."/>
+	</imgdir>
+    <imgdir name="2022208">
+		<string name="name" value="Guava"/>
+		<string name="desc" value="A fruit that is hard &amp; sour. Its nutritional value improves our digestive system.\nRecovers 500 MP."/>
+	</imgdir>
+    <imgdir name="2022209">
+		<string name="name" value="Rambutan"/>
+		<string name="desc" value="A fruit that is delicious &amp; juicy. It is so sweet that it attracts ants if they are not well attended to. \nRecovers 800 MP"/>
+	</imgdir>
+    <imgdir name="2022210">
+		<string name="name" value="Dragon Fruit"/>
+		<string name="desc" value="Another fruit that is delicious &amp; juicy, similar to Rambutan, it will attract unwanted pests if they are not attended. \nRecovers 1600 MP."/>
+	</imgdir>
+    <imgdir name="2022211">
+		<string name="name" value="Durian"/>
+		<string name="desc" value="The fruit is nominated as the King of Fruits around the region. Despite having a hard &amp; thorny shell, the fruit that lies within is extremely fragrant, and it tastes great! \nRecovers 3200 MP."/>
+	</imgdir>
+    <imgdir name="2022212">
+		<string name="name" value="Nasi Lemak"/>
+		<string name="desc" value="A popular Malay traditional dish mainly made up of rice, egg &amp; cucumber, soaked with fragrant pandan.\nImproves Magic Attack +8 for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022213">
+		<string name="name" value="Roti Prata"/>
+		<string name="desc" value="A popular Indian traditional dish made up of flour. It is normally served with sugar &amp; curry sauces.\nImproves Magic Attack +8 for 10 Minutes."/>
+	</imgdir>
+</imgdir>

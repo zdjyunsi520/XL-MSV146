@@ -1,0 +1,7 @@
+<imgdir name="23111005">
+        <string name="name" value="Water Shield" />
+        <string name="desc" value="Borrows the power of the spirits to raise a water barrier around you for a fixed period of time. The barrier absorbs a portion of the damage you receive, and increases resistance against abnormal status and all elemental attacks." />
+        <string name="h" value="MP Cost: #mpCon, Absorbs #x% damage for #time sec and increases resistance to abnormal status and all elemental attacks by #terR%." />
+        <string name="pdesc" value="Borrows the power of the spirits to raise a water barrier around you for a fixed period of time. The barrier absorbs a portion of the damage you receive, and increases resistance against abnormal status and all elemental attacks." />
+        <string name="ph" value="MP Cost: #mpCon, Absorbs #x% damage for #time sec and increases resistance to abnormal status and all elemental attacks by #terR%." />
+    </imgdir>

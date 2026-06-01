@@ -1,0 +1,5 @@
+<imgdir name="2111008">
+        <string name="name" value="属性减弱" />
+        <string name="desc" value="暂时降低你所有攻击的魔法属性。" />
+        <string name="h" value="MP Cost: #mpCon, Elemental Attributes: -#x%, Duration: #time sec" />
+    </imgdir>

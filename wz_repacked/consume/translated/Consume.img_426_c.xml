@@ -1,0 +1,91 @@
+<imgdir name="Consume.img">
+    <imgdir name="2930000">
+		<string name="name" value="外星插槽创造者"/>
+		<string name="desc" value="用于给物品添加插槽，以便添加外星星云石。"/>
+	</imgdir>
+    <imgdir name="2940000">
+		<string name="name" value="星尘"/>
+		<string name="desc" value="将这种尘埃撒在杰特的核心上，随机重新配置其属性。如果杰特至少120级且核心已完成，这种尘埃还有机会随机增加或减少属性等级。"/>
+	</imgdir>
+    <imgdir name="2940001">
+		<string name="name" value="浓缩星尘"/>
+		<string name="desc" value="将这种尘埃撒在杰特的核心上，随机重新配置其属性。比普通星尘有更高几率获得更好的属性。如果杰特至少120级且核心已完成，这种尘埃还有机会随机增加或减少属性等级。"/>
+	</imgdir>
+    <imgdir name="2940002">
+		<string name="name" value="女娲的黄土抽出物"/>
+		<string name="desc" value="混有女娲的黄土的抽出物。往宝盒上洒的话，在宝盒洒上女娲的白土会设定为最高等级的能力值。比起女娲的黄土副产物有较高的机率调整到好的能力值。侠客的等级达120且宝盒的八卦是阳卦的话，等级会随机上升或下降。"/>
+	</imgdir>
+    <imgdir name="2943000">
+		<string name="name" value="宇宙尘埃固化剂"/>
+		<string name="desc" value="通过锁定核心当前属性7天来固化星尘或超新星尘埃的效果。宇宙尘埃固化剂只能使用一次来锁定当前配置。
+
+#c警告：如果你使用物品重新配置核心属性，属性锁定将被覆盖。#"/>
+	</imgdir>
+    <imgdir name="2945000">
+		<string name="name" value="女娲的血轮眼"/>
+		<string name="desc" value="含有女娲能量的碎片。宝盒的能力值会往顺时针方向轮转一格。"/>
+	</imgdir>
+    <imgdir name="2430154">
+		<string name="name" value="教程跳过卷轴"/>
+		<string name="desc" value="使用此卷轴跳过教程，直接进入职业城镇。注意：使用此卷轴后，该角色将永远无法再做教程。
+"/>
+	</imgdir>
+    <imgdir name="2430234">
+		<string name="name" value="冒险岛生活50级礼盒"/>
+		<string name="desc" value="专为冒险岛生活券角色准备的50级装备礼盒。"/>
+	</imgdir>
+    <imgdir name="2430235">
+		<string name="name" value="升级手册(50)"/>
+		<string name="desc" value="蕴含足够知识让你升一级。50级后无效。"/>
+	</imgdir>
+    <imgdir name="2430236">
+		<string name="name" value="冒险岛生活100级礼盒"/>
+		<string name="desc" value="专为冒险岛生活券角色准备的100级装备礼盒。"/>
+	</imgdir>
+    <imgdir name="2430237">
+		<string name="name" value="升级手册(100)"/>
+		<string name="desc" value="蕴含足够知识让你升一级。100级后无效。"/>
+	</imgdir>
+    <imgdir name="2023073">
+		<string name="name" value="蜘蛛网纸杯蛋糕"/>
+		<string name="desc" value="用老宅蜘蛛网制作的纸杯蛋糕。奇怪地让人上瘾...
+力量+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023074">
+		<string name="name" value="僵尸内脏杂烩"/>
+		<string name="desc" value="用僵尸内脏做的汤。至少看起来还不错...？
+敏捷+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023075">
+		<string name="name" value="墓碑饼干"/>
+		<string name="desc" value="诡异的饼干。别太用力咬，否则可能会崩掉牙齿！
+智力+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023076">
+		<string name="name" value="蝙蝠糖果"/>
+		<string name="desc" value="蝙蝠形状的糖果。有人说这是用蝙蝠粪便做的？
+运气+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023077">
+		<string name="name" value="鬼屋蛋糕"/>
+		<string name="desc" value="看起来像鬼屋的蛋糕。用最恶心的食材制作。可怕的形状和味道激发内在力量！！
+全属性+15，物理攻击+10，魔法攻击+10，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023078">
+		<string name="name" value="不安分肢体药水"/>
+		<string name="desc" value="赋予你不安分僵尸力量的药水。
+攻击力+30，跳跃力+30，移动速度+30，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2028149">
+		<string name="name" value="蒙面绅士的礼物盒"/>
+		<string name="desc" value="蒙面绅士送给万圣节假面舞会客人的礼物。里面会是什么呢？"/>
+	</imgdir>
+    <imgdir name="2028141">
+		<string name="name" value="选举惊喜盒"/>
+		<string name="desc" value="科尔给的盒子。没人知道里面是什么。"/>
+	</imgdir>
+    <imgdir name="2028150">
+		<string name="name" value="选举惊喜盒"/>
+		<string name="desc" value="斯图给的盒子。没人知道里面是什么。"/>
+	</imgdir>
+</imgdir>

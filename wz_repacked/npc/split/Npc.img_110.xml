@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="2111024">
+		<string name="name" value="Secret Passage"/>
+	</imgdir>
+    <imgdir name="2111025">
+		<string name="name" value="Control Device"/>
+	</imgdir>
+    <imgdir name="2111026">
+		<string name="name" value="Incomplete Magic Square"/>
+	</imgdir>
+    <imgdir name="2112000">
+		<string name="name" value="Yulete"/>
+		<string name="s0" value="Neither Zenumist nor Alcadno will accept me, so..."/>
+		<string name="s1" value="Heheheh... Heh."/>
+	</imgdir>
+    <imgdir name="2112001">
+		<string name="name" value="Yulete"/>
+	</imgdir>
+    <imgdir name="2112002">
+		<string name="name" value="Yulete"/>
+		<string name="n0" value="Where did this problem begin?"/>
+		<string name="n1" value="Is it possible to fix it now?"/>
+	</imgdir>
+    <imgdir name="2112003">
+		<string name="name" value="Juliet"/>
+		<string name="func" value="Romeo and Juliet"/>
+		<string name="s0" value="Romeo... God, keep him safe!"/>
+		<string name="s1" value="Why...? Why does nobody understand me?"/>
+		<string name="d0" value="If loving Romeo is a sin... Then a sinner I shall gladly be!"/>
+		<string name="d1" value="Romeo... For him..."/>
+	</imgdir>
+    <imgdir name="2112004">
+		<string name="name" value="Romeo"/>
+		<string name="s0" value="Juliet... God, keep her safe!"/>
+		<string name="s1" value="Alcadno and Zenumist... I never realized how great the gap that separate us was..."/>
+		<string name="d0" value="The more our love is forbidden, the more my love for Juliet grows! Why must it be so...?"/>
+		<string name="d1" value="Juliet... For her..."/>
+	</imgdir>
+    <imgdir name="2112005">
+		<string name="name" value="Juliet"/>
+		<string name="s0" value="I need your help... Heartily..."/>
+		<string name="s1" value="Romeo... For him..."/>
+	</imgdir>
+    <imgdir name="2112006">
+		<string name="name" value="Romeo"/>
+		<string name="s0" value="I need your help... Heartily..."/>
+		<string name="s1" value="Juliet... For her."/>
+	</imgdir>
+    <imgdir name="2112007">
+		<string name="name" value="Investigation Result"/>
+	</imgdir>
+    <imgdir name="2112010">
+		<string name="name" value="Yulete"/>
+		<string name="s0" value="Anyway, I will not be admitted by both Zenumist and Alcadno...then..."/>
+		<string name="s1" value="Heheheh..."/>
+	</imgdir>
+    <imgdir name="2112012">
+		<string name="name" value="Yulete"/>
+		<string name="n0" value="Where did this problem begin?"/>
+		<string name="n1" value="Is it possible to fix it now?"/>
+	</imgdir>
+    <imgdir name="2112013">
+		<string name="name" value="Investigation Result"/>
+	</imgdir>
+    <imgdir name="2112014">
+		<string name="name" value="Yulete"/>
+		<string name="n0" value="I can concentrate on my research now that my mind is at peace."/>
+		<string name="n1" value="This quiet, sequestered lab is the most perfect place to research in Magatia."/>
+		<string name="d0" value="I once sought recognition for my studies of alchemy, but not anymore.  I now see that getting recognition is not the sole purpose of my research."/>
+		<string name="d1" value="It's so tranquil here..."/>
+	</imgdir>
+    <imgdir name="2120000">
+		<string name="name" value="Masked Gentleman"/>
+		<string name="n0" value="Hope you have a wonderful Halloween night."/>
+		<string name="n1" value="Haha! So you're curious about the face behind this mask?"/>
+		<string name="d0" value="The sullen moon and the thick fog, the glimmering lights of Jack-o'-Lanterns in the dark... These are the elements that make the eerie yet wonderful night of Halloween."/>
+		<string name="d1" value="Are you enjoying yourself this Halloween?"/>
+	</imgdir>
+    <imgdir name="2120002">
+		<string name="name" value="Steward"/>
+		<string name="n0" value="I can't stand party crashers."/>
+		<string name="n1" value="Master loves partying too much."/>
+		<string name="d0" value="For those ghosts to crash the party like this... We better do something before they ruin the party for everyone!"/>
+		<string name="d1" value="For those ghosts to crash the party like this... We better do something before they ruin the party for everyone!"/>
+	</imgdir>
+    <imgdir name="2120003">
+		<string name="name" value="Maid"/>
+		<string name="n0" value="Please let me know if there is anything you need."/>
+		<string name="n1" value="I can't stand party crashers..."/>
+		<string name="d0" value="Hello and welcome, dear guest. The Master has prepared some wonderful games for you to enjoy tonight."/>
+		<string name="d1" value="The Master loves partying too much..."/>
+	</imgdir>
+    <imgdir name="2120004">
+		<string name="name" value="Jonas"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="The doll..."/>
+		<string name="d0" value="Please do not disturb me. Making a doll is not as easy as you may think."/>
+		<string name="d1" value="The perfect doll... Is it even possible for a human to make a perfect doll?"/>
+	</imgdir>
+    <imgdir name="2120005">
+		<string name="name" value="Sophelia"/>
+		<string name="n0" value="*Sob!*"/>
+		<string name="n1" value="*Sob!* Why isn't anybody coming?"/>
+		<string name="d0" value="N-nobody's coming for me. Where has everyone gone without me?"/>
+		<string name="d1" value="Have you ever thought that maybe no one remembers who you are?"/>
+	</imgdir>
+</imgdir>

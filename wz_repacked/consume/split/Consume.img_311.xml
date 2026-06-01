@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2510025">
+		<string name="name" value="Green Bazura Recipe"/>
+		<string name="desc" value="A recipe for a Green Bazura."/>
+	</imgdir>
+    <imgdir name="2510026">
+		<string name="name" value="Dark Katinas Recipe"/>
+		<string name="desc" value="A recipe for a Dark Katinas."/>
+	</imgdir>
+    <imgdir name="2510027">
+		<string name="name" value="Red Arzuna Recipe"/>
+		<string name="desc" value="A recipe for a Red Arzuna."/>
+	</imgdir>
+    <imgdir name="2510028">
+		<string name="name" value="Dark Katte Recipe"/>
+		<string name="desc" value="A recipe for a Dark Katte."/>
+	</imgdir>
+    <imgdir name="2510029">
+		<string name="name" value="Red Armis Recipe"/>
+		<string name="desc" value="A recipe for a Red Armis."/>
+	</imgdir>
+    <imgdir name="2510030">
+		<string name="name" value="Red Belly Duke Recipe"/>
+		<string name="desc" value="A recipe for a Red Belly Duke."/>
+	</imgdir>
+    <imgdir name="2510031">
+		<string name="name" value="Blue Czar Recipe"/>
+		<string name="desc" value="A recipe for a Blue Czar."/>
+	</imgdir>
+    <imgdir name="2510032">
+		<string name="name" value="Red Mantle Recipe"/>
+		<string name="desc" value="A recipe for a Red Mantle."/>
+	</imgdir>
+    <imgdir name="2510033">
+		<string name="name" value="Black Garina Recipe"/>
+		<string name="desc" value="A recipe for a Black Garina."/>
+	</imgdir>
+    <imgdir name="2510034">
+		<string name="name" value="Blue Dragon Armor Recipe"/>
+		<string name="desc" value="A recipe for a Blue Dragon Armor."/>
+	</imgdir>
+    <imgdir name="2510035">
+		<string name="name" value="Canopus Suit Recipe"/>
+		<string name="desc" value="A recipe for a Canopus Suit."/>
+	</imgdir>
+    <imgdir name="2510036">
+		<string name="name" value="Reverse Myst Blue Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Myst Blue."/>
+	</imgdir>
+    <imgdir name="2510037">
+		<string name="name" value="Reverse Taragon Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Taragon."/>
+	</imgdir>
+    <imgdir name="2510038">
+		<string name="name" value="Reverse Evernew Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Evernew."/>
+	</imgdir>
+    <imgdir name="2510039">
+		<string name="name" value="Reverse Prinsid Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Prinsid."/>
+	</imgdir>
+    <imgdir name="2510040">
+		<string name="name" value="Reverse Burgunt Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Burgunt."/>
+	</imgdir>
+    <imgdir name="2510041">
+		<string name="name" value="Agares Bloody Mail Recipe"/>
+		<string name="desc" value="A recipe for a Agares Bloody Mail."/>
+	</imgdir>
+    <imgdir name="2510042">
+		<string name="name" value="Eligos Bloody Mail Recipe"/>
+		<string name="desc" value="A recipe for a Eligos Bloody Mail."/>
+	</imgdir>
+    <imgdir name="2510043">
+		<string name="name" value="Ipos Bloody Mail Recipe"/>
+		<string name="desc" value="A recipe for a Ipos Bloody Mail."/>
+	</imgdir>
+    <imgdir name="2510044">
+		<string name="name" value="Halphas Bloody Mail Recipe"/>
+		<string name="desc" value="A recipe for a Halphas Bloody Mail."/>
+	</imgdir>
+</imgdir>

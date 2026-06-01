@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300071">
+		<string name="name" value="Blue Wyvern 1 in Cave"/>
+	</imgdir>
+    <imgdir name="9300072">
+		<string name="name" value="Blue Wyvern 2 in Cave"/>
+	</imgdir>
+    <imgdir name="9300073">
+		<string name="name" value="Dark Wyvern 1 in Cave"/>
+	</imgdir>
+    <imgdir name="9300074">
+		<string name="name" value="Dark Wyvern 2 in Cave"/>
+	</imgdir>
+    <imgdir name="9300075">
+		<string name="name" value="Skelegon 1 in Cave"/>
+	</imgdir>
+    <imgdir name="9300076">
+		<string name="name" value="Skelegon 2 in Cave"/>
+	</imgdir>
+    <imgdir name="9300077">
+		<string name="name" value="T-Skelegon in Cave"/>
+	</imgdir>
+    <imgdir name="9300078">
+		<string name="name" value="Jr. Newtie in Cave"/>
+	</imgdir>
+    <imgdir name="9300079">
+		<string name="name" value="Nest Golem in Cave"/>
+	</imgdir>
+    <imgdir name="9300080">
+		<string name="name" value="Kru"/>
+	</imgdir>
+    <imgdir name="9300081">
+		<string name="name" value="Flyeye"/>
+	</imgdir>
+    <imgdir name="9300082">
+		<string name="name" value="Stirge"/>
+	</imgdir>
+    <imgdir name="9300083">
+		<string name="name" value="Goblin Fire"/>
+	</imgdir>
+    <imgdir name="9300084">
+		<string name="name" value="Deathly Fear"/>
+	</imgdir>
+    <imgdir name="9300085">
+		<string name="name" value="Jr. Balrog in Another World"/>
+	</imgdir>
+    <imgdir name="9300086">
+		<string name="name" value="The Elemental Thanatos"/>
+	</imgdir>
+    <imgdir name="9300087">
+		<string name="name" value="The Charging Taurospear"/>
+	</imgdir>
+    <imgdir name="9300088">
+		<string name="name" value="Dark Lord's Disciple"/>
+	</imgdir>
+    <imgdir name="9300089">
+		<string name="name" value="Phoenix"/>
+	</imgdir>
+    <imgdir name="9300090">
+		<string name="name" value="Freezer"/>
+	</imgdir>
+</imgdir>

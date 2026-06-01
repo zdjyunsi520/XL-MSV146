@@ -1,0 +1,5 @@
+<imgdir name="101120205">
+        <string name="name" value="高级暴风斩(龙卷风)" />
+        <string name="desc" value="比暴风斩的龙卷风更强大的旋涡。龙卷风移动时在路径上创建电场，对敌人造成伤害。" />
+        <string name="h" value="每0.5秒伤害: #damage%, 最大敌人数: #mobCount, 最大攻击次数: #attackCount\n持续时间: #time秒\n对龙卷风路径上最多8个敌人造成每#z秒#w%伤害。攻击每#v秒发生一次。持续时间: #y秒。" />
+    </imgdir>

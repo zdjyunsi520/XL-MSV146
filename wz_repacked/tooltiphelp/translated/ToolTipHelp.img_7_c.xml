@@ -1,0 +1,72 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="Mapobject">
+		<imgdir name="0">
+			<imgdir name="0">
+				<string name="Title" value="角色跳跃(Alt)"/>
+				<string name="Desc" value="按键盘Alt键跳跃"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="移动角色(方向键)"/>
+				<string name="Desc" value="使用方向键四处移动、爬上梯子和使用传送门。"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="使用传送门(上)"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="前往新地点..."/>
+				<string name="Desc" value="向右移动探索新区域。"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="起始点"/>
+			</imgdir>
+    <imgdir name="10000">
+			<imgdir name="0">
+				<string name="Title" value="使用传送门(上)"/>
+			</imgdir>
+    <imgdir name="20000">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇小镇"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="尼娜和森的家"/>
+			</imgdir>
+    <imgdir name="30000">
+			<imgdir name="0">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="40000">
+			<imgdir name="0">
+				<string name="Title" value="安赫尔斯特"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="南佩里"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="安赫尔斯特"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="南佩里"/>
+			</imgdir>
+    <imgdir name="40001">
+			<imgdir name="0">
+				<string name="Title" value="安赫尔斯特"/>
+			</imgdir>
+</imgdir>

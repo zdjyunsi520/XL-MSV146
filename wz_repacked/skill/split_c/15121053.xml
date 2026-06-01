@@ -1,0 +1,5 @@
+<imgdir name="15121053">
+        <string name="name" value="守护者的荣耀" />
+        <string name="desc" value="女皇骑士团的庄严仪式，以证明对女皇的忠诚。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，伤害上限：+#indieMaxDamageOver\n冷却时间：#cooltime秒。对队伍中所有女皇职业生效" />
+    </imgdir>

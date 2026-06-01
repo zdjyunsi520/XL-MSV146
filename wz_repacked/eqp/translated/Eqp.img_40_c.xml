@@ -1,0 +1,32 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1122199"><string name="name" value="野餐吊坠"/></imgdir>
+    <imgdir name="1122200"><string name="name" value="暴风雨吊坠"/></imgdir>
+    <imgdir name="1122201"><string name="name" value="枫叶围巾"/></imgdir>
+    <imgdir name="1122202"><string name="name" value="枫叶围巾"/></imgdir>
+    <imgdir name="1122203"><string name="name" value="枫叶围巾"/></imgdir>
+    <imgdir name="1122204"><string name="name" value="战国吊坠"/></imgdir>
+    <imgdir name="1122205"><string name="name" value="葡萄吊坠"/></imgdir>
+    <imgdir name="1122206"><string name="name" value="西瓜项链"/></imgdir>
+    <imgdir name="1122207"><string name="name" value="特别精神吊坠"/><string name="desc" value="装备后增加获得的经验。佩戴时间越长效果越好。精神吊坠效果不可叠加。\n#c1小时: 额外10%经验\n2小时: 额外20%经验\n2小时以上: 额外30%经验#"/></imgdir>
+    <imgdir name="1122208"><string name="name" value="神秘吊坠"/></imgdir>
+    <imgdir name="1122215"><string name="name" value="精神吊坠"/><string name="desc" value="装备后增加获得的经验。佩戴时间越长效果越好。\n#c1小时: 额外10%经验\n2小时: 额外20%经验\n2小时以上: 额外30%经验#"/></imgdir>
+    <imgdir name="1122216"><string name="name" value="凯撒神秘吊坠"/></imgdir>
+    <imgdir name="1122217"><string name="name" value="夜光神秘吊坠"/></imgdir>
+    <imgdir name="1122218"><string name="name" value="天使破坏者神秘吊坠"/></imgdir>
+    <imgdir name="1122219"><string name="name" value="贪婪吊坠"/><string name="desc" value="装备后掉落率增加20%。可以#c通过现金仓库在同一账号内转移一次#，之后无法再交易。"/></imgdir>
+    <imgdir name="1122220"><string name="name" value="巅峰吊坠"/><null name="desc"/></imgdir>
+    <imgdir name="1122221"><string name="name" value="卡桑德拉的收藏吊坠"/><null name="desc"/></imgdir>
+    <imgdir name="1122222"><string name="name" value="克布洛克的吊坠"/><string name="desc" value="消灭丑陋的克布洛克后获得的奖品。"/></imgdir>
+    <imgdir name="1122224"><string name="name" value="沉睡之心项链"/><string name="desc" value="蕴含冒险战士勇气的强力项链。它仍需要能量来进化，因此#c一段时间后会消失。#\n\n心之项链将经历以下阶段：使用职业专用#c冒险战士之心#进化至#第2和第3阶段#，然后使用#c高级冒险战士之心#进化至#c第4和第5阶段#。\n
+第1阶段: 沉睡之心项链\n
+第2阶段: 进化之心项链\n
+第3阶段: 完成之心项链\n
+第4阶段: 觉醒之心项链\n
+第5阶段: 超越之心项链"/></imgdir>
+    <imgdir name="1122225"><string name="name" value="沉睡之心项链"/><string name="desc" value="蕴含冒险战士勇气的强力项链。它仍需要能量来进化，因此#c一段时间后会消失。#\n\n心之项链将经历以下阶段：使用职业专用#c冒险战士之心#进化至#第2和第3阶段#，然后使用#c高级冒险战士之心#进化至#c第4和第5阶段#。\n
+第1阶段: 沉睡之心项链\n
+第2阶段: 进化之心项链\n
+第3阶段: 完成之心项链\n
+第4阶段: 觉醒之心项链\n
+第5阶段: 超越之心项链"/></imgdir>
+</imgdir>

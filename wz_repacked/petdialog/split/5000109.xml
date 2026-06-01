@@ -1,0 +1,189 @@
+<imgdir name="5000109">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Okie-dokie!"/>
+		<string name="c1_s2" value="Sure!"/>
+		<string name="c1_f1" value="Durp?"/>
+		<string name="c1_f2" value="But...why?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Time to relax."/>
+		<string name="c2_s2" value="Yay! Lazy time!"/>
+		<string name="c2_s3" value="Not leaving? Okay!"/>
+		<string name="c2_f1" value="Pie no understand."/>
+		<string name="c2_f2" value="Why pie do that?"/>
+		<string name="c2_f3" value="Pie think that boring."/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Ahhh...relax."/>
+		<string name="c3_s2" value="Pie do nothing but sit. Hee hee."/>
+		<string name="c3_s3" value="Gonna sit right here! Yep!"/>
+		<string name="c3_f1" value="Pie wanna play! No sit!"/>
+		<string name="c3_f2" value="Pie don't wanna!"/>
+		<string name="c3_f3" value="Floor dirty. Pie have 3 second rule."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Pie fall down. Pie meant to do that."/>
+		<string name="c4_f1" value="Pie think you lazy. Lazy!"/>
+		<string name="c5" value="sleep"/>
+		<string name="c5_s1" value="Wha? Zzzzzzz"/>
+		<string name="c5_s2" value="Nighty-night."/>
+		<string name="c5_f1" value="How pie do that?"/>
+		<string name="c5_f2" value="Pie dunno."/>
+		<string name="c6" value="sleep"/>
+		<string name="c6_s1" value="Pie need sleep."/>
+		<string name="c6_s2" value="Pie so tired."/>
+		<string name="c6_s3" value="Nappy time..."/>
+		<string name="c6_f1" value="Pie not tired."/>
+		<string name="c6_f2" value="Pie confused."/>
+		<string name="c6_f3" value="Why pie want do that?"/>
+		<string name="c7" value="sleep"/>
+		<string name="c7_s1" value="Pie want sleep!"/>
+		<string name="c7_s2" value="It past pie bedtime."/>
+		<string name="c7_s3" value="Pie count sheep. 1, 2, 5, Q, Zzzzzzz"/>
+		<string name="c7_f1" value="Pie no sleep. Pie snore."/>
+		<string name="c7_f2" value="Need pan. Miss comfy pan."/>
+		<string name="c7_f3" value="Pie think that just silly."/>
+		<string name="c8" value="sleep"/>
+		<string name="c8_s1" value="Rock-a-bye pie-e, in the hot oven... Zzz"/>
+		<string name="c8_f1" value="Pie get it. Pie sleep, wake up on plate! No way!"/>
+		<string name="c9" value="bad|no"/>
+		<string name="c9_s1" value="Pie so sorry!"/>
+		<string name="c9_s2" value="Please, no!"/>
+		<string name="c9_f1" value="Nyeh nyeh nyeh!"/>
+		<string name="c9_f2" value="Thbbbbtttt!"/>
+		<string name="c10" value="bad|no"/>
+		<string name="c10_s1" value="Pie be good!"/>
+		<string name="c10_s2" value="You're the boss!"/>
+		<string name="c10_s3" value="Pie was wrong!"/>
+		<string name="c10_f1" value="Pie don't care!"/>
+		<string name="c10_f2" value="What that sound? Someone talk?"/>
+		<string name="c10_f3" value="Pie hear something dumb. Pie no listen."/>
+		<string name="c11" value="bad|no"/>
+		<string name="c11_s1" value="Pie understand completely."/>
+		<string name="c11_s2" value="Pie no understand, but pie obey."/>
+		<string name="c11_s3" value="No be mad! Scary!"/>
+		<string name="c11_f1" value="Pie not listening!"/>
+		<string name="c11_f2" value="Pie disagree."/>
+		<string name="c11_f3" value="Pie very disappointed in you."/>
+		<string name="c12" value="bad|no"/>
+		<string name="c12_s1" value="Pie repent pie evil ways!"/>
+		<string name="c12_f1" value="Pie did it, pie do it again! Nyah!"/>
+		<string name="c13" value="loveyou"/>
+		<string name="c13_s1" value="Aww. Hee hee hee."/>
+		<string name="c13_s2" value="Pie blushing..."/>
+		<string name="c13_f1" value="Duh?"/>
+		<string name="c13_f2" value="What you say?"/>
+		<string name="c14" value="loveyou"/>
+		<string name="c14_s1" value="Pie like you, too."/>
+		<string name="c14_s2" value="Pie think you nice."/>
+		<string name="c14_s3" value="Very happy now!"/>
+		<string name="c14_f1" value="That just...weird."/>
+		<string name="c14_f2" value="Pie think you need help."/>
+		<string name="c14_f3" value="That nice...pie leaving now."/>
+		<string name="c15" value="loveyou"/>
+		<string name="c15_s1" value="Pie filled with love! Or cherries. Pie no remember."/>
+		<string name="c15_s2" value="Pie feel so loved! Ahhh."/>
+		<string name="c15_s3" value="You the topping on pie's...pie."/>
+		<string name="c15_f1" value="Stop it! Pie embarrassed."/>
+		<string name="c15_f2" value="Pie just confused now."/>
+		<string name="c15_f3" value="Pie want see other pastries."/>
+		<string name="c16" value="loveyou"/>
+		<string name="c16_s1" value="PIE LOVE YOU!!"/>
+		<string name="c16_f1" value="Pie not ready for relationship. Pie want be friends."/>
+		<string name="c17" value="talk|chat|say"/>
+		<string name="c17_s1" value="Pie ready for adventure!"/>
+		<string name="c17_s2" value="Pie exercise, build fuller crust!"/>
+		<string name="c17_f1" value="Pie have no idea."/>
+		<string name="c17_f2" value="Buh?"/>
+		<string name="c18" value="talk|chat|say"/>
+		<string name="c18_s1" value="Pie hate clowns. Take pie, throw, go splat."/>
+		<string name="c18_s2" value="Why pie missing piece? You take?"/>
+		<string name="c18_s3" value="Pie ready for bigger things! Pie ready for ice cream!"/>
+		<string name="c18_f1" value="Do wha now?"/>
+		<string name="c18_f2" value="Pie don't get it."/>
+		<string name="c18_f3" value="No talky time now."/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Pie am well-rounded friend. Hee hee!"/>
+		<string name="c19_s2" value="Pie lucky number is 3.14...pie forget rest."/>
+		<string name="c19_s3" value="Pie want meet nice tart, settle down. You help pie?"/>
+		<string name="c19_f1" value="Do who with the what now?"/>
+		<string name="c19_f2" value="Pie am clueless."/>
+		<string name="c19_f3" value="Too much talky! No likey!"/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="Easy as pie...sounds like insult."/>
+		<string name="c20_f1" value="Shut your pie-hole!"/>
+		<string name="c21" value="eat"/>
+		<string name="c21_s1" value="Hungry. Feed pie!"/>
+		<string name="c21_s2" value="Time for eat?"/>
+		<string name="c21_f1" value="Guh?"/>
+		<string name="c21_f2" value="How pie eat? Pie food!"/>
+		<string name="c22" value="eat"/>
+		<string name="c22_s1" value="Feed pie! Feed!"/>
+		<string name="c22_s2" value="Pie want nummies."/>
+		<string name="c22_s3" value="Snacktime? Please?"/>
+		<string name="c22_f1" value="Pie no get it."/>
+		<string name="c22_f2" value="Pie not hungry now."/>
+		<string name="c22_f3" value="Pie just ate? Pie no remember."/>
+		<string name="c23" value="eat"/>
+		<string name="c23_s1" value="Pie want food!"/>
+		<string name="c23_s2" value="Pie so hungry!"/>
+		<string name="c23_s3" value="Where good food? Pie is gourmet."/>
+		<string name="c23_f1" value="Pie no eat this slop."/>
+		<string name="c23_f2" value="Pie have standards."/>
+		<string name="c23_f3" value="No eat! Wanna play!"/>
+		<string name="c24" value="eat"/>
+		<string name="c24_s1" value="Pie love this food!!"/>
+		<string name="c24_f1" value="Flour again? Booooooo."/>
+		<string name="c25" value="big"/>
+		<string name="c25_s1" value="Glad you see my true potential!"/>
+		<string name="c25_s2" value="I'm the best looking Pie in the country!"/>
+		<string name="c25_s3" value="I should be a model."/>
+		<string name="c25_f1" value="I'm just an ugly pie."/>
+		<string name="c25_f2" value="Why are you so demanding?"/>
+		<string name="c25_f3" value="Make me."/>
+		<string name="c26" value="dance"/>
+		<string name="c26_s1" value="Pie rock out!"/>
+		<string name="c26_s2" value="Pie shake pie berries!"/>
+		<string name="c26_s3" value="Pie boogie! Sound gross, is fun!"/>
+		<string name="c26_f1" value="Pie need right partner. Not you."/>
+		<string name="c26_f2" value="No dance! Spill filling! Disaster!"/>
+		<string name="c26_f3" value="Pie have headache."/>
+		<string name="c27" value="dance"/>
+		<string name="c27_s1" value="Pie on the right track, baby! Pie was baked this way!"/>
+		<string name="c27_f1" value="Pie not feelin' the vibe here."/>
+		<string name="c28" value="dance"/>
+		<string name="c28_s1" value="Pie get down!"/>
+		<string name="c28_s2" value="Pie got the moves!"/>
+		<string name="c28_s3" value="Pie feel the music!"/>
+		<string name="c28_f1" value="Pie tired..."/>
+		<string name="c28_f2" value="Pie don't dance. Am pie!"/>
+		<string name="c28_f3" value="Pie don't feel like it."/>
+		<string name="c29" value="poop"/>
+		<string name="c29_s1" value="Pie poo now."/>
+		<string name="c29_s2" value="Pie go poopie!"/>
+		<string name="c29_s3" value="Pie feel much lighter."/>
+		<string name="c29_f1" value="No way! Yucky!"/>
+		<string name="c29_f2" value="Pie don't need to."/>
+		<string name="c29_f3" value="Pie poo here? Nuh-uh!"/>
+		<string name="c30" value="poop"/>
+		<string name="c30_s1" value="Pie poo berry much. Hee hee!"/>
+		<string name="c30_f1" value="Pie think you nasty."/>
+		<string name="c31" value="smarty"/>
+		<string name="c31_s1" value="Why did Sally sell seashells by the seashore?"/>
+		<string name="c31_s2" value="The measure of a Mapler is determined by his friends."/>
+		<string name="c31_s3" value="Live as if you were to die tomorrow. Learn as if you were to live forever."/>
+		<string name="c31_s4" value="Imagination is more important than knowledge."/>
+		<string name="c31_f1" value="Leave me alone!"/>
+		<string name="c31_f2" value="No...stupid..."/>
+		<string name="c31_f3" value="Uh-uhhhhh."/>
+		<string name="c31_f4" value="Do it yourself!"/>
+		<string name="f1_s" value="Munch, munch, munch."/>
+		<string name="f1_f" value="Ugh... Hurrkk..."/>
+		<string name="f2_s" value="Yum yum, so good!"/>
+		<string name="f2_f" value="Pie gonna be sick..."/>
+		<string name="f3_s" value="Gobble munch snap snarf chew!"/>
+		<string name="f3_f" value="Pie can't eat no more."/>
+		<string name="f4_s" value="UMM NUM NUM NUM"/>
+		<string name="f4_f" value="Pie gonna EXPLODE!!"/>
+		<string name="s1" value="Ooh, bad word! Bad word!"/>
+		<string name="s2" value="You said a naughty word!"/>
+		<string name="s3" value="Don't say dirty words!"/>
+		<string name="s4" value="Hey!! Shut your pie-hole!"/>
+	</imgdir>

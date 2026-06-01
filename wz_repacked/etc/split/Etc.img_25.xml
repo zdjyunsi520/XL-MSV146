@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000546">
+			<string name="name" value="Silver Squishy Liquid"/>
+			<string name="desc" value="Jelly from a Silver Slime. It looks pretty heavy."/>
+		</imgdir>
+    <imgdir name="4000547">
+			<string name="name" value="Gold Squishy Liquid"/>
+			<string name="desc" value="Jelly from a Gold Slime. It looks expensive."/>
+		</imgdir>
+    <imgdir name="4000548">
+			<string name="name" value="Overlord A Radar Device"/>
+			<string name="desc" value="A radar that detects anything within a 10m radius."/>
+		</imgdir>
+    <imgdir name="4000549">
+			<string name="name" value="Overlord B Radar Device"/>
+			<string name="desc" value="A radar that detects anything within a 30m radius."/>
+		</imgdir>
+    <imgdir name="4000550">
+			<string name="name" value="Robby's Electronic Induction Device"/>
+			<string name="desc" value="A device that communicates using the nearest inductive material."/>
+		</imgdir>
+    <imgdir name="4000551">
+			<string name="name" value="Iruvata Laser Sword"/>
+			<string name="desc" value="Iruvata's laser sword, which can be used as a weapon."/>
+		</imgdir>
+    <imgdir name="4000552">
+			<string name="name" value="Afterlord Chained Tire"/>
+			<string name="desc" value="Appears durable enough to maneuver through the wilderness."/>
+		</imgdir>
+    <imgdir name="4000553">
+			<string name="name" value="Prototype Lord Propulsion System"/>
+			<string name="desc" value="This propulsion system uses nitrogen energy as its propellant."/>
+		</imgdir>
+    <imgdir name="4000554">
+			<string name="name" value="Maverick Type A Component"/>
+			<string name="desc" value="A component of Maverick Type A that is abrasion-resistant due to its ergonomic design."/>
+		</imgdir>
+    <imgdir name="4000555">
+			<string name="name" value="Maverick Type S Laser Gun"/>
+			<string name="desc" value="A high-tech laser gun that consumes minimal energy yet ejects maximum power."/>
+		</imgdir>
+    <imgdir name="4000556">
+			<string name="name" value="Maverick Type D Booster"/>
+			<string name="desc" value="A booster that provides a temporary increase in thrust for flight."/>
+		</imgdir>
+    <imgdir name="4000557">
+			<string name="name" value="Imperial Guard Vacuum Tube"/>
+			<string name="desc" value="A vacuum tube that uses air pressure to maintain an output of at least 5 tons."/>
+		</imgdir>
+    <imgdir name="4000558">
+			<string name="name" value="Royal Guard Armor"/>
+			<string name="desc" value="Special armor that features a special alloy for maximum durability."/>
+		</imgdir>
+    <imgdir name="4000559">
+			<string name="name" value="White Baby Monkey Tail"/>
+			<string name="desc" value="Tail of a White Baby Monkey."/>
+		</imgdir>
+    <imgdir name="4000560">
+			<string name="name" value="White Mama Monkey Fur"/>
+			<string name="desc" value="Fur of a White Mama Monkey."/>
+		</imgdir>
+    <imgdir name="4000561">
+			<string name="name" value="Banana Peel"/>
+			<string name="desc" value="A slippery banana peel."/>
+		</imgdir>
+    <imgdir name="4000562">
+			<string name="name" value="Baby Monkey's Bottle"/>
+			<string name="desc" value="Bottle that a Mama Monkey always carries around for her Baby Monkey."/>
+		</imgdir>
+    <imgdir name="4000563">
+			<string name="name" value="Red Goblin Axe"/>
+			<string name="desc" value="Red Goblins carry this axe around to look tough."/>
+		</imgdir>
+    <imgdir name="4000564">
+			<string name="name" value="Blue Goblin Crown"/>
+			<string name="desc" value="Blue Goblins wear this crown to look regal."/>
+		</imgdir>
+    <imgdir name="4000565">
+			<string name="name" value="Stone Goblin's Red Underwear"/>
+			<string name="desc" value="A pair of red underwear that the Stone Goblin was wearing."/>
+		</imgdir>
+</imgdir>

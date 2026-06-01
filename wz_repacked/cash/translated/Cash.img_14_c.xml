@@ -1,0 +1,102 @@
+<imgdir name="Cash.img">
+    <imgdir name="5121008">
+		<string name="name" value="生日快乐"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的祝福 : %s"/>
+	</imgdir>
+    <imgdir name="5121009">
+		<string name="name" value="小玫瑰"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5121010">
+		<string name="name" value="花之庆典"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5121014">
+		<string name="name" value="鱼形面包纷飞"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5121015">
+		<string name="name" value="雪人飘飘"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5121016">
+		<string name="name" value="心形巧克力礼盒"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的祝福 : %s"/>
+	</imgdir>
+    <imgdir name="5121017">
+		<string name="name" value="水花四溅"/>
+		<string name="desc" value="输入你想要说的话吧~"/>
+		<string name="msg" value="%s的水花 : %s"/>
+	</imgdir>
+    <imgdir name="5121019">
+		<string name="name" value="冬日编织节"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的留言 : %s"/>
+	</imgdir>
+    <imgdir name="5121020">
+		<string name="name" value="新年快乐"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的新年祝福: %s"/>
+	</imgdir>
+    <imgdir name="5121025">
+		<string name="name" value="2010必胜助威"/>
+		<string name="desc" value="给地图上所有人增加物理防御+50和魔法防御+50，持续10分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的呐喊: %s"/>
+	</imgdir>
+    <imgdir name="5121026">
+		<string name="name" value="新手花之庆典"/>
+		<string name="desc" value="在当前地图释放花束，并展示你选择的留言，持续30秒。"/>
+		<string name="msg" value="%s的花之庆典: %s"/>
+	</imgdir>
+    <imgdir name="5121028">
+		<string name="name" value="爱的雨"/>
+		<string name="desc" value="召唤一场充满爱的暴风雨~"/>
+		<string name="msg" value="%s的爱之雨: %s"/>
+	</imgdir>
+    <imgdir name="5121030">
+		<string name="name" value="快乐万圣节！"/>
+		<string name="desc" value="用南瓜盛宴来庆祝万圣节吧！物理攻击和魔法攻击+30，持续30分钟。可与其他增益效果叠加。"/>
+		<string name="msg" value="快乐万圣节！"/>
+	</imgdir>
+    <imgdir name="5121031">
+		<string name="name" value="新年庆典"/>
+		<string name="desc" value="给地图上所有人增加物理攻击和魔法攻击+40，持续#c30分钟#。你还可以输入留言发送给大家哦~"/>
+		<string name="msg" value="%s的新年庆典: %s"/>
+	</imgdir>
+    <imgdir name="5121032">
+		<string name="name" value="小玫瑰"/>
+		<string name="desc" value="给地图上所有人增加物理攻击和魔法攻击+80，持续30分钟。你还可以输入留言发送给大家哦~"/>
+		<string name="msg" value="%s的小玫瑰: %s"/>
+	</imgdir>
+    <imgdir name="5121033">
+		<string name="name" value="流星糖果"/>
+		<string name="desc" value="给地图上所有人增加物理攻击和魔法攻击+40，持续#c30分钟#。你还可以输入留言发送给大家哦~"/>
+		<string name="msg" value="%s的流星糖果: %s"/>
+	</imgdir>
+    <imgdir name="5121035">
+		<string name="name" value="双倍奇迹时间祝福"/>
+		<string name="desc" value="接受双倍奇迹时间的祝福吧！给地图上所有人增加物理攻击+30、魔法攻击+30，持续#c15分钟#。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的双倍奇迹祝福: %s"/>
+	</imgdir>
+    <imgdir name="5121036">
+		<string name="name" value="北极邻居"/>
+		<string name="desc" value="给地图上所有人增加物理攻击和魔法攻击+80，持续30分钟。你还可以输入留言发送给大家哦~"/>
+		<string name="msg" value="%s的北极邻居: %s"/>
+	</imgdir>
+    <imgdir name="5121037">
+		<string name="name" value="赫菲斯托斯13"/>
+		<string name="desc" value="恭喜你挑战赫菲斯托斯并达到13级，获得祝福！给地图上所有人增加物理攻击+30、魔法攻击+20，持续#c30分钟#。"/>
+		<string name="msg" value="%s的赫菲斯托斯祝福: %s"/>
+	</imgdir>
+    <imgdir name="5122000">
+		<string name="name" value="热情派对熊"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。你可以输入留言，使用期间还会播放特别的背景音乐哦~"/>
+		<string name="msg" value="%s的派对熊 : %s"/>
+	</imgdir>
+</imgdir>

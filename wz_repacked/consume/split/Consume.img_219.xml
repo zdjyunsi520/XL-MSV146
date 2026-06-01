@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290874">
+		<string name="name" value="Bow Master's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Bow Masters when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290875">
+		<string name="name" value="Marksman's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Marksmen when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290876">
+		<string name="name" value="Shadower's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Shadowers when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290877">
+		<string name="name" value="Night Lord's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Night Lords when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290878">
+		<string name="name" value="Blade Master's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Blade Masters when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290879">
+		<string name="name" value="Buccaneer's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Buccaneers when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290880">
+		<string name="name" value="Corsair's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Corsairs when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290881">
+		<string name="name" value="Cannoneer's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Cannoneers when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290882">
+		<string name="name" value="Aran's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Aran when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290883">
+		<string name="name" value="Evan's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Evan when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290884">
+		<string name="name" value="Mercedes's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Mercedes when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290885">
+		<string name="name" value="Demon Slayer's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for the Demon Slayer when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290886">
+		<string name="name" value="Battle Mage's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Battle Mages when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290887">
+		<string name="name" value="Wild Hunter's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Wild Hunters when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290888">
+		<string name="name" value="Mechanic's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Mechanics when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290889">
+		<string name="name" value="Phantom's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Phantom when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290890">
+		<string name="name" value="Luminous's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Luminous when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290891">
+		<string name="name" value="Kaiser's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Kaiser when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290892">
+		<string name="name" value="Angelic Buster's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Angelic Buster when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290893">
+		<string name="name" value="[Mastery Book] Mystery Mastery Book"/>
+		<string name="desc" value="Transforms into a random Skill Mastery Book upon use."/>
+	</imgdir>
+</imgdir>

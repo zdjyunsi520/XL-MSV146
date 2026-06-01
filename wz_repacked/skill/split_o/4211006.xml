@@ -1,0 +1,7 @@
+<imgdir name="4211006">
+        <string name="name" value="Meso Explosion" />
+        <string name="desc" value="Sends nearby Mesos flying to damage enemies. Mesos that belong to others cannot be moved.\nRequired Skill: #cPick Pocket Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% per Meso, Max Enemies Hit: #mobCount, Number of projectiles: #bulletCount" />
+        <string name="pdesc" value="Sends nearby Mesos flying to damage enemies. Mesos that belong to others cannot be moved.\nRequired Skill: #cPick Pocket Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% per Meso, Max Enemies Hit: #mobCount, Number of projectiles: #bulletCount" />
+    </imgdir>

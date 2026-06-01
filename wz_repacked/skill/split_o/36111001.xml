@@ -1,0 +1,5 @@
+<imgdir name="36111001">
+        <string name="name" value="Diagonal Chase" />
+        <string name="desc" value="Activates full air boosters to shoot up with explosive power while pushing back enemies. Can be used during Gravity Pillar." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies hit: #mobCount, Damage: #damage%, Knock Back" />
+    </imgdir>

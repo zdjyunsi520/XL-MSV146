@@ -1,0 +1,5 @@
+<imgdir name="42121022">
+        <string name="name" value="白狐祝福" />
+        <string name="desc" value="白狐祈请狐族古老的祝福，提升魔法攻击力和防御力。" />
+        <string name="h" value="持续时间：#time秒，魔法防御力：+#indieMdd，武器防御力：+#indiePdd，魔法攻击力：+#x%。" />
+    </imgdir>

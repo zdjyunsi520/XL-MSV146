@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9810102">
+		<string name="name" value="Water Thief Monster"/>
+	</imgdir>
+    <imgdir name="9810103">
+		<string name="name" value="Cart Bear"/>
+	</imgdir>
+    <imgdir name="9810200">
+		<string name="name" value="White Desert Rabbit"/>
+	</imgdir>
+    <imgdir name="9810201">
+		<string name="name" value="Sand Dwarf"/>
+	</imgdir>
+    <imgdir name="9810202">
+		<string name="name" value="Desert Giant"/>
+	</imgdir>
+    <imgdir name="9810300">
+		<string name="name" value="Harp"/>
+	</imgdir>
+    <imgdir name="9810301">
+		<string name="name" value="Hobi"/>
+	</imgdir>
+    <imgdir name="9810302">
+		<string name="name" value="Rash"/>
+	</imgdir>
+    <imgdir name="9810303">
+		<string name="name" value="Giant Nependeath"/>
+	</imgdir>
+    <imgdir name="9810304">
+		<string name="name" value="Thorny Vine"/>
+	</imgdir>
+    <imgdir name="9810305">
+		<string name="name" value="Red Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="9810400">
+		<string name="name" value="Thick Branch"/>
+	</imgdir>
+    <imgdir name="9810401">
+		<string name="name" value="Thick Branch"/>
+	</imgdir>
+    <imgdir name="9810402">
+		<string name="name" value="Jr. Yeti"/>
+	</imgdir>
+    <imgdir name="9810403">
+		<string name="name" value="Werewolf"/>
+	</imgdir>
+    <imgdir name="2100108">
+		<string name="name" value="Meerkat"/>
+	</imgdir>
+    <imgdir name="8300000">
+		<string name="name" value="Soaring Hawk "/>
+	</imgdir>
+    <imgdir name="8300001">
+		<string name="name" value="Soaring Eagle"/>
+	</imgdir>
+    <imgdir name="8300002">
+		<string name="name" value="Soaring Red Wyvern "/>
+	</imgdir>
+    <imgdir name="8300003">
+		<string name="name" value="Soaring Blue Wyvern "/>
+	</imgdir>
+</imgdir>

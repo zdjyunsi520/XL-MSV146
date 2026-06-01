@@ -1,0 +1,5 @@
+<imgdir name="101120110">
+        <string name="name" value="Critical Bind" />
+        <string name="desc" value="Grants a chance to bind enemies in place when Beta attacks. Affected enemies will bleed and be more vulnerable to Alpha’s attacks." />
+        <string name="h" value="Beta&apos;s Attack Bind Chance: #prop%, Duration: #time\nTargets have #x% additional Critical Rate when Alpha attacks.\nThe Bind effect will expire after inflicting damage proportional to the remaining effect duration\n#cTargets of this skill&apos;s effect will be immune to Critical Bind for 15 sec#" />
+    </imgdir>

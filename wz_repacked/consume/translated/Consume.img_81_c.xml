@@ -1,0 +1,97 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040344">
+		<string name="name" value="黑龙耳环强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化黑龙耳环的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040345">
+		<string name="name" value="黑龙耳环强化卷轴 智力 70%"/>
+		<string name="desc" value="强化黑龙耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040346">
+		<string name="name" value="黑龙耳环强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化黑龙耳环的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：70%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040347">
+		<string name="name" value="黑龙耳环强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化黑龙耳环的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040348">
+		<string name="name" value="黑龙耳环强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化黑龙耳环的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040400">
+		<string name="name" value="上衣强化卷轴 防御"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040401">
+		<string name="name" value="上衣强化卷轴 防御 60%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040402">
+		<string name="name" value="上衣强化卷轴 防御 10%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040403">
+		<string name="name" value="上衣强化卷轴 防御 100%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+50\r\n物理防御：+30\r\n魔法防御：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2040404">
+		<string name="name" value="暗黑上衣强化卷轴 防御 70%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040405">
+		<string name="name" value="暗黑上衣强化卷轴 防御 30%"/>
+		<string name="desc" value="强化上装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040406">
+		<string name="name" value="暗黑上衣强化卷轴 力量 70%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040407">
+		<string name="name" value="暗黑上衣强化卷轴 力量 30%"/>
+		<string name="desc" value="强化上装力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040408">
+		<string name="name" value="暗黑上衣强化卷轴 HP 70%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040409">
+		<string name="name" value="暗黑上衣强化卷轴 HP 30%"/>
+		<string name="desc" value="强化上装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040410">
+		<string name="name" value="暗黑上衣强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化上衣的幸运。\n成功率70%，幸运+2，回避率+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040411">
+		<string name="name" value="暗黑上衣强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化上衣的幸运。\n成功率30%，幸运+3，回避率+3\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040412">
+		<string name="name" value="上衣强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化上衣的幸运。\n成功率10%，幸运+3，回避率+3。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040413">
+		<string name="name" value="上衣强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化上衣的幸运。\n成功率60%，幸运+2，回避率+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040414">
+		<string name="name" value="上衣强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化上衣的幸运。\n成功率100%，幸运+1"/>
+	</imgdir>
+</imgdir>

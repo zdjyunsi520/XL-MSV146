@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430480">
+		<string name="name" value="Orange Mushroom 30-Day Coupon"/>
+		<string name="desc" value="A 30-day Orange Mushroom mount coupon.#cDouble-click on it to use the Orange Mushroom riding skill for 30 days.#"/>
+	</imgdir>
+    <imgdir name="2430481">
+		<string name="name" value="Super Miracle Cube Fragment"/>
+		<string name="desc" value="This fragment broke off the Super Miracle Cube. If you use it by double-clicking on it, you will be able to trade it for useful items."/>
+	</imgdir>
+    <imgdir name="2430482">
+		<string name="name" value="Legends Maple Weapon Box"/>
+		<string name="desc" value="A box you can open to get a Legends Maple Weapon. This can be used until 2012/03/03.\n#cDouble click to open the box.#"/>
+	</imgdir>
+    <imgdir name="2430483">
+		<string name="name" value="Golden Pig's Dream Box"/>
+		<string name="desc" value="A box dropped by the Golden Dream Pig. It might contain something you've been dreaming of!\n#cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="2430484">
+		<string name="name" value="Legendary Maple Tree"/>
+		<string name="desc" value="Infused with the energy of the Legendary Maple Tree."/>
+	</imgdir>
+    <imgdir name="2430487">
+		<string name="name" value="Legendary Mimir's Well Water"/>
+		<string name="desc" value="Special Mimir's Well Water for all classes. You can drink it only until 2012/03/03. during the event period. Drinking this water will give you 10% EXP if you're Lv. 50 and below, 5% EXP if you're Lv. 50 - Lv. 99, 2% if you're Lv. 100 - Lv. 149, and 1% if you are Lv. 150 or higher."/>
+	</imgdir>
+    <imgdir name="2430488">
+		<string name="name" value="Memory Box"/>
+		<string name="desc" value="A box that contains exciting Legends memories, as well as one gift. You can open this box until midnight 2012/03/07."/>
+	</imgdir>
+    <imgdir name="2430489">
+		<string name="name" value="Legends Golden Maple Fruit"/>
+		<string name="desc" value="Fruit obtained from growing and harvesting from the Legends Maple Coin Tree. You can use the fruit only until 2012/03/03. Double-click to see what's inside."/>
+	</imgdir>
+    <imgdir name="2430490">
+		<string name="name" value=""/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2430491">
+		<string name="name" value="EXP Present Box"/>
+		<string name="desc" value="Double click to activate 150% EXP boost for 4 hours."/>
+	</imgdir>
+    <imgdir name="2430492">
+		<string name="name" value="Monster Marble"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2430495">
+		<string name="name" value="Moon Festival Gift Box"/>
+		<string name="desc" value="A Moon Festival Gift Box from defeating Moon Bunny. You can only open this box during the Moon Festival.\n#cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="2430496">
+		<string name="name" value="Volatile Legend Familiar Stamp"/>
+		<string name="desc" value="Collect 20 stamps to trade for a Volatile Legend Familiar Ticket, a magic ticket that can call forth one of the Legend Familiars."/>
+	</imgdir>
+    <imgdir name="2430497">
+		<string name="name" value="Cute Newbie Gift Set 1"/>
+		<string name="desc" value="A gift set given to new users. It's cute!"/>
+	</imgdir>
+    <imgdir name="2430498">
+		<string name="name" value="Magnificent Mapler Gift Set"/>
+		<string name="desc" value="A gift set given to magnificent users who reach Lv. 50 with a newly-made character."/>
+	</imgdir>
+    <imgdir name="2430499">
+		<string name="name" value="Rainbow Box"/>
+		<string name="desc" value="A bright, multicolored box that contains a gift. #cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="2430500">
+		<string name="name" value="Rainbow Fortune Moon Bunny"/>
+		<string name="desc" value="Fortune Moon Bunny, all grown up. #cDouble-click# on Fortune Moon Bunny to complete weekly missions."/>
+	</imgdir>
+    <imgdir name="2430501">
+		<string name="name" value="Evolving Belt Upgrade Item"/>
+		<string name="desc" value="Double-click this item to upgrade your evolving belt."/>
+	</imgdir>
+    <imgdir name="2430502">
+		<string name="name" value="Evolving Belt Special Upgrade Item"/>
+		<string name="desc" value="Double-click this item to unlock the Hidden Potential of your evolving belt."/>
+	</imgdir>
+    <imgdir name="2430503">
+		<string name="name" value="Cowboy Newbie Gift Set 2"/>
+		<string name="desc" value="A gift set given to new users. It's cute!"/>
+	</imgdir>
+</imgdir>

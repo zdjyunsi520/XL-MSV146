@@ -1,0 +1,7 @@
+<imgdir name="33110008">
+        <string name="name" value="疾风" />
+        <string name="desc" value="有概率闪避敌人攻击。闪避成功后，接下来1秒内的所有攻击将变为暴击。" />
+        <string name="h" value="敏捷：+#dexX，闪避概率：#er%，闪避成功后#time秒内所有攻击变为暴击。" />
+        <string name="pdesc" value="有概率闪避敌人攻击。闪避成功后，接下来1秒内的所有攻击将变为暴击。" />
+        <string name="ph" value="敏捷：+#dexX，闪避概率：#er%，闪避成功后#time秒内所有攻击变为暴击。" />
+    </imgdir>

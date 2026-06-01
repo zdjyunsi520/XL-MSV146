@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="103">
+				<string name="title" value="3. 被偷走的宝石" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="当你听到新闻快讯时，你正在适应新生活：一颗属于冒险家公会的重要宝石被一个戴面具的小偷偷走了！" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="雅典娜·皮尔斯请求你帮忙找回宝石，于是你在射手村郊区上上下下追赶小偷。当你终于拦住小偷拿到宝石时，一个名叫Olive的探险家出现了。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="Olive说她才是原本应该把宝石送到雅典娜·皮尔斯那里的人，她想完成她的交付任务。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="当你把宝石交给Olive时，她笑了起来，这让你有种不祥的预感。所以当雅典娜·皮尔斯告诉你Olive从未出现时，你并不惊讶。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="雅典娜·皮尔斯还透露这颗宝石实际上是一块封印石，一件拥有巨大但神秘力量的神器。谁偷走了封印石？他们在冒险岛世界策划着什么邪恶计划？而这些都不是你的错，对吗？" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

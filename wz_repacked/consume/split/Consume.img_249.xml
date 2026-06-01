@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384043">
+		<string name="name" value="Leader B Card"/>
+		<string name="desc" value="A card that features Leader B."/>
+	</imgdir>
+    <imgdir name="2384058">
+		<string name="name" value="Red Slime Card"/>
+		<string name="desc" value="A card featuring Red Slime.\n\cLUK +3 when hunting in Year 2030 Neo City#"/>
+	</imgdir>
+    <imgdir name="2384059">
+		<string name="name" value="Silver Slime Card"/>
+		<string name="desc" value="A card featuring Silver Slime.\n\cWeapon DEF +3 when hunting in Year 2030 Neo City#"/>
+	</imgdir>
+    <imgdir name="2384060">
+		<string name="name" value="Gold Slime Card"/>
+		<string name="desc" value="A card featuring Gold Slime.\n\cINT +3 when hunting in Year 2030 Neo City#"/>
+	</imgdir>
+    <imgdir name="2384061">
+		<string name="name" value="Overlord A Card"/>
+		<string name="desc" value="A card featuring Overlord A.\n\cDEX +3 when hunting in Year 2099 Neo City#"/>
+	</imgdir>
+    <imgdir name="2384062">
+		<string name="name" value="Overlord B Card"/>
+		<string name="desc" value="A card featuring Overlord B.\n\cSTR +3 when hunting in Year 2099 Neo City#"/>
+	</imgdir>
+    <imgdir name="2384063">
+		<string name="name" value="Flower Fish Card"/>
+		<string name="desc" value="A card that features Flower Fish."/>
+	</imgdir>
+    <imgdir name="2384064">
+		<string name="name" value="Tweeter Card"/>
+		<string name="desc" value="A card that features Tweeter."/>
+	</imgdir>
+    <imgdir name="2384065">
+		<string name="name" value="Robo Card"/>
+		<string name="desc" value="A card that features Robo."/>
+	</imgdir>
+    <imgdir name="2384066">
+		<string name="name" value="Krip Card"/>
+		<string name="desc" value="A card that features Krip."/>
+	</imgdir>
+    <imgdir name="2384067">
+		<string name="name" value="Samiho Card"/>
+		<string name="desc" value="A card that features Samiho."/>
+	</imgdir>
+    <imgdir name="2384068">
+		<string name="name" value="Block Golem Card"/>
+		<string name="desc" value="A card that features Block Golem."/>
+	</imgdir>
+    <imgdir name="2384069">
+		<string name="name" value="Master Robo Card"/>
+		<string name="desc" value="A card that features Master Robo."/>
+	</imgdir>
+    <imgdir name="2384070">
+		<string name="name" value="Mask Fish Card"/>
+		<string name="desc" value="A card that features Mask Fish."/>
+	</imgdir>
+    <imgdir name="2384071">
+		<string name="name" value="Morphed Blin Card"/>
+		<string name="desc" value="A card that features Morphed Blin."/>
+	</imgdir>
+    <imgdir name="2384072">
+		<string name="name" value="King Block Golem Card"/>
+		<string name="desc" value="A card that features King Block Golem."/>
+	</imgdir>
+    <imgdir name="2384073">
+		<string name="name" value="Barnard Gray Card"/>
+		<string name="desc" value="A card that features Barnard Gray."/>
+	</imgdir>
+    <imgdir name="2384074">
+		<string name="name" value="Scuba Pepe Card"/>
+		<string name="desc" value="A card that features Scuba Pepe."/>
+	</imgdir>
+    <imgdir name="2384075">
+		<string name="name" value="Mateon Card"/>
+		<string name="desc" value="A card that features Mateon."/>
+	</imgdir>
+    <imgdir name="2384076">
+		<string name="name" value="Desert Rabbit (F) Card"/>
+		<string name="desc" value="A card that features Desert Rabbit (F)."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5720012">
+        <string name="name" value="Counterattack" />
+        <string name="desc" value="Temporarily increases damage upon being hit. Duration increases as skill level increases. Counterattack effect can only take place once every 50 seconds." />
+        <string name="h" value="Upon being hit, damage +#indieDamR% at #prop% chance, Duration: #time sec." />
+        <string name="pdesc" value="Temporarily increases damage upon being hit. Duration increases as skill level increases. Counterattack effect can only take place once every 20 seconds." />
+        <string name="ph" value="Upon being hit, damage #indieDamR% at # prop% chance, Duration: #time sec" />
+    </imgdir>

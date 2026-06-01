@@ -1,0 +1,6 @@
+<imgdir name="0001076">
+        <string name="name" value="Oz&apos;s Flame Gear" />
+        <string name="desc" value="Summons Oz to create a wall of fire. Monsters inside the wall take continuous damage. Skill level can be increased depending on your level." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec\nCooldown: #hcCooltime sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="3211011">
+        <string name="name" value="止痛药" />
+        <string name="desc" value="消耗准备的草药立即解除异常状态。同时永久提升所有属性抗性和异常状态抗性~" />
+        <string name="h" value="MP消耗: #mpCon，清除状态并免疫#time秒。冷却时间: #cooltime秒。\n[被动效果: 提升异常状态抗性和所有属性抗性#asrR%]" />
+    </imgdir>

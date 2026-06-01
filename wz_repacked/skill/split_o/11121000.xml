@@ -1,0 +1,5 @@
+<imgdir name="11121000">
+        <string name="name" value="Call of Cygnus" />
+        <string name="desc" value="Receive the blessings of Cygnus&apos;s awakening to temporarily increase all stats for you and your party members." />
+        <string name="h" value="MP Cost: #mpCon, All Stats: +#x%, Duration: #time sec" />
+    </imgdir>

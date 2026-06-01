@@ -1,0 +1,5 @@
+<imgdir name="31001001">
+        <string name="name" value="战斗契约" />
+        <string name="desc" value="将生命力注入武器，暂时将单手钝器或斧头的攻击速度提升2级。\n前置技能：#c恶魔鞭笞 Lv.5#" />
+        <string name="h" value="HP消耗：#hpCon，攻击速度提升持续#time秒" />
+    </imgdir>

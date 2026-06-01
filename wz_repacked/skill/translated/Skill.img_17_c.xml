@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20031026"><string name="name" value="翱翔"/><string name="desc" value="[大师等级：1]\n借助龙族神秘力量在天空中自由翱翔！小心坠落会受到巨大伤害哦～\n启动消耗90 MP，激活期间每秒消耗1 MP。"/><string name="h1" value="MP Cost (to activate): 90 MP, MP Cost (while active): 1 MP/sec"/></imgdir>
+    <imgdir name="20031027"><string name="name" value="鳄鱼坐骑"/><string name="desc" value="[大师等级：1]\n骑上鳄鱼坐骑出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031028"><string name="name" value="黑色小摩托"/><string name="desc" value="[大师等级：1]\n骑上黑色小摩托酷炫出行！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031029"><string name="name" value="粉色小摩托"/><string name="desc" value="[大师等级：1]\n骑上粉色小摩托可爱出行！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031030"><string name="name" value="筋斗云"/><string name="desc" value="[大师等级：1]\n踏上筋斗云腾云驾雾！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031031"><string name="name" value="巴洛古坐骑"/><string name="desc" value="[大师等级：1]\n骑上威风凛凛的巴洛古！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031033"><string name="name" value="赛车"/><string name="desc" value="[大师等级：1]\n驾驶赛车飞驰！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031034"><string name="name" value="猛虎坐骑"/><string name="desc" value="[大师等级：1]\n骑上猛虎驰骋！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031035"><string name="name" value="雾之巴洛古"/><string name="desc" value="[大师等级：1]\n骑上神秘的雾之巴洛古！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031042"><string name="name" value="神兽坐骑"/><string name="desc" value="[大师等级：1]\n骑上神兽威风出行！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031044"><string name="name" value="橙色蘑菇坐骑"/><string name="desc" value="[大师等级：1]\n骑上可爱的橙色蘑菇蹦蹦跳跳！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031049"><string name="name" value="梦魇坐骑"/><string name="desc" value="[大师等级：1]\n骑上恐怖的梦魇！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="20031050"><string name="name" value="雪人坐骑"/><string name="desc" value="[大师等级：1]\n骑上大雪人到处跑！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="20031051"><string name="name" value="鸵鸟坐骑"/><string name="desc" value="[大师等级：1]\n骑上陆地最快的鸟——鸵鸟飞奔吧！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="20031052"><string name="name" value="粉色小熊热气球"/><string name="desc" value="[大师等级：1]\n乘上可爱的粉色小熊热气球！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="20031053"><string name="name" value="变形机器人"/><string name="desc" value="[大师等级：1]\n驾驶变形机器人出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+    <imgdir name="20031061"><string name="name" value="捕获"/><string name="desc" value="[大师等级：1]\n怪物HP降至50%以下时可以捕获它。\n在美洲豹栖息地捕获的怪物可以作为坐骑使用。\n#c冷却时间：10秒#"/><string name="h1" value="MP Cost: 10, can capture up to 5 types of monsters"/></imgdir>
+    <imgdir name="20031062"><string name="name" value="猎人召唤"/><string name="desc" value="[大师等级：1]\n随机召唤一只你捕获的怪物来帮助你。\n（不包括美洲豹。）\n前置技能：捕获 Lv.1\n#c冷却时间：10秒#"/><string name="h1" value="MP Cost: 10, Summon Duration: 20 sec"/></imgdir>
+    <imgdir name="20031063"><string name="name" value="摩托车"/><string name="desc" value="[大师等级：1]\n骑上摩托车出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="20031064"><string name="name" value="动力装甲"/><string name="desc" value="[大师等级：1]\n穿上动力装甲出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+</imgdir>

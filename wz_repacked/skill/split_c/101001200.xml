@@ -1,0 +1,5 @@
+<imgdir name="101001200">
+        <string name="name" value="月光斩" />
+        <string name="desc" value="用猛烈的攻击将敌人拉近。" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

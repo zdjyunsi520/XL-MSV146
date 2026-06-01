@@ -1,0 +1,5 @@
+<imgdir name="27100003">
+        <string name="name" value="Black Blessing" />
+        <string name="desc" value="A dark orb forms when you evade attacks for a short time in battle. Accumulating orbs will also increase Magic ATT. If you take any damage, one orb will be destroyed and absorb some of the damage." />
+        <string name="h" value="Creates a dark orb to protect you from all attacks for #time sec. If you take damage, one orb of darkness will break and absorb #x% of damage.\n[Boost to Magic Attack when orbs are accumulated]\n1 orb: +#u Magic Attack\n2 orbs: +#v Magic Attack\n3 orbs: +#y Magic Attack" />
+    </imgdir>

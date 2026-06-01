@@ -1,0 +1,8 @@
+<imgdir name="5311002">
+        <string name="name" value="猴子波动" />
+        <string name="desc" value="发出巨大的噪音伤害附近敌人。蓄力时间越长噪音越大。暴击时可以立即以满蓄力使用。" />
+        <string name="h" value="消耗MP：#mpCon，最大伤害：#damage%，眩晕概率：#prop%，暴击后：#w%概率满蓄力。\n被动效果：暴击率：+#cr%" />
+        <string name="pdesc" value="发出巨大的噪音伤害附近敌人。蓄力时间越长噪音越大。暴击时可以立即以满蓄力使用。" />
+        <string name="ph" value="消耗MP：#mpCon，最大伤害：#damage%，眩晕概率：#prop%，暴击后：#w%概率满蓄力。\n被动效果：暴击率：+#cr%" />
+        <string name="hch" value="消耗MP：#mpCon，最大伤害：#damage%，眩晕概率：#hcprop%，暴击后：#w%概率满蓄力。\n被动效果：暴击率：+#cr%" />
+    </imgdir>

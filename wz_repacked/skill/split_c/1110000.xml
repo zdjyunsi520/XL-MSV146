@@ -1,0 +1,6 @@
+<imgdir name="1110000">
+        <string name="name" value="自我回复" />
+        <string name="h" value="每4秒回复#hp HP和#mp MP。" />
+        <string name="hch" value="每4秒回复#hcHp HP和#mp MP。" />
+        <string name="desc" value="每4秒回复一定量的HP和MP，战斗中也会持续回复~" />
+    </imgdir>

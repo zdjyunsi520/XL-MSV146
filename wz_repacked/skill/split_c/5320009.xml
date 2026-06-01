@@ -1,0 +1,5 @@
+<imgdir name="5320009">
+        <string name="name" value="大炮过载" />
+        <string name="desc" value="将大炮推到极限。提升大炮熟练度并忽略部分敌人防御。\n前置技能：#c大炮熟练度10级#" />
+        <string name="h" value="永久伤害提升：#damR%，熟练度提升至#mastery%。忽略敌人防御#ignoreMobpdpR%。" />
+    </imgdir>

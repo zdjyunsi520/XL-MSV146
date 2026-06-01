@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5781006">
+		<string name="name" value="Dillo Dye Coupon"/>
+		<string name="desc" value="Paint your #cPinkadillo, Yellowdillo, and Greenadillo# a different color! Use the sliders on the window that pops up to select a new color.\nThis will also change the color of your Dillo's #cpet equipment#.\nIf your computer does not meet the minimum specs listed on the official homepage, some colors may not display properly."/>
+	</imgdir>
+    <imgdir name="5830000">
+		<string name="name" value="Maple Auction Silver Ticket"/>
+		<string name="desc" value="The Maple Auction Silver Ticket offers the following benefits for #c1 day#.\n-#cService fee discount#: 8% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced search available#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+	</imgdir>
+    <imgdir name="5830001">
+		<string name="name" value="Maple Auction Gold Ticket"/>
+		<string name="desc" value="The Maple Auction Gold Ticket offers the following benefits for #c7 days#.\n-#cService fee discount#: 8% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced search available#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+	</imgdir>
+    <imgdir name="5830002">
+		<string name="name" value="Maple Auction Red Ticket"/>
+		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days#.\n-#cService fee discount#: 8% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced search available#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+	</imgdir>
+    <imgdir name="5010110">
+		<string name="name" value="Rhinne's Protection"/>
+		<string name="desc" value="Feel the warmth of Rhinne's kind blessing.\nDouble-click the item to use."/>
+	</imgdir>
+    <imgdir name="5040000">
+		<string name="name" value="Teleport Rock"/>
+		<string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time.  It can be used to #cmove to the map where a particular character is# as long as they're in your world and channel. This item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5040003">
+		<string name="name" value="Rookie Teleport Rock"/>
+		<string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time.  It can be used to #cmove to the map where a particular character is# as long as they're in your world and channel. This item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5040006">
+		<string name="name" value="[1-Day] Teleport Rock"/>
+		<string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they're in your world and channel. It, however, cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes  "/>
+	</imgdir>
+    <imgdir name="5040007">
+		<string name="name" value="[3-Day] Teleport Rock"/>
+		<string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they're in your world and channel. It, however, cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes  "/>
+	</imgdir>
+    <imgdir name="5040008">
+		<string name="name" value="[7-Day] Teleport Rock"/>
+		<string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they're in your world and channel. It, however, cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes  "/>
+	</imgdir>
+    <imgdir name="5041000">
+		<string name="name" value="VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered. This item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5041001">
+		<string name="name" value="Premium VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#.\r\nThis item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5041002">
+		<string name="name" value="[1-Day] VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered. This item cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes"/>
+	</imgdir>
+    <imgdir name="5041003">
+		<string name="name" value="[3-Day] VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered. This item cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes  "/>
+	</imgdir>
+    <imgdir name="5041004">
+		<string name="name" value="[7-Day] VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered. This item cannot be used for moving to #cMirror World#. \nCooldown: 30 minutes  "/>
+	</imgdir>
+    <imgdir name="5041005">
+		<string name="name" value="[1-Day] Premium VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#.\n Cooldown: 30 min\r\nThis item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5041006">
+		<string name="name" value="[3-Day] Premium VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#.\n Cooldown: 30 min\r\nThis item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5041007">
+		<string name="name" value="[7-Day] Premium VIP Teleport Rock"/>
+		<string name="desc" value="#cA rock which allows you to teleport between continents#. It can be used to #cmove to the map where a particular character is# as long as they're in your channel. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#.\n Cooldown: 30 min\r\nThis item cannot be used for moving to #cMirror World#."/>
+	</imgdir>
+    <imgdir name="5044000">
+		<string name="name" value="[1-Day] World Map Warp Drive"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas. \nCooldown: 30 minutes "/>
+	</imgdir>
+    <imgdir name="5044001">
+		<string name="name" value="[3-Day] World Map Warp Drive"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas. \nCooldown: 30 minutes "/>
+	</imgdir>
+</imgdir>

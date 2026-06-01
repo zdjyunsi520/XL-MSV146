@@ -1,0 +1,7 @@
+<imgdir name="35121009">
+        <string name="name" value="Bots &apos;n Tots" />
+        <string name="desc" value="Installs a robot factory that summons toy robots. Summoned robots detect nearby enemies and triggers a self-destruct function. The factory itself also self-destructs after a certain period of time." />
+        <string name="h" value="MP Cost: #mpCon, Robot Factory Duration: #time sec, Max Toy Robots Summoned: #y toy robots, Toy Robot Damage: #u%, Summon Interval: every #x sec, Self-Destruct Damage: #selfDestruction%, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Installs a robot factory that summons toy robots. Summoned robots detect nearby enemies and triggers a self-destruct function. The factory itself also self-destructs after a certain period of time." />
+        <string name="ph" value="MP Cost: #mpCon, Robot Factory Duration: #time sec, Max Toy Robots Summoned: #y toy robots, Toy Robot Damage: #u%, Summon Interval: every #x sec, Self-Destruct Damage: #selfDestruction%\n#cCooldown: #cooltime seconds.#" />
+    </imgdir>

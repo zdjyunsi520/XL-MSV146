@@ -1,0 +1,80 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201217">
+		<string name="name" value="传送门"/>
+	</imgdir>
+    <imgdir name="9201218">
+		<string name="name" value="传送门"/>
+	</imgdir>
+    <imgdir name="9201219">
+		<string name="name" value="传送门"/>
+	</imgdir>
+    <imgdir name="9201220">
+		<string name="name" value="传送门"/>
+	</imgdir>
+    <imgdir name="9201221">
+		<string name="name" value="传送门"/>
+	</imgdir>
+    <imgdir name="9201222">
+		<string name="name" value="出口"/>
+	</imgdir>
+    <imgdir name="9201223">
+		<string name="name" value="宝箱"/>
+	</imgdir>
+    <imgdir name="9201224">
+		<string name="name" value="宝箱"/>
+	</imgdir>
+    <imgdir name="9201225">
+		<string name="name" value="宝箱"/>
+	</imgdir>
+    <imgdir name="9201226">
+		<string name="name" value="检票口"/>
+	</imgdir>
+    <imgdir name="9201227">
+		<string name="name" value="Shane"/>
+		<string name="n0" value="你是应Sabitrama的请求来的吗？"/>
+		<string name="n1" value="我听说这里有令人难以置信的草药...但我不能轻易让你过去..."/>
+		<string name="d0" value="你想进入这个地方吗？我相信你听说过这里的稀有草药，但我不能让像你这样的陌生人进入我的地盘。对不起，你必须离开。"/>
+		<string name="d1" value="你想进入这个地方吗？我相信你听说过这里的稀有草药，但我不能让像你这样的陌生人进入我的地盘。对不起，你必须离开。"/>
+		<string name="n2" value="不是任何人都能进入这个地方！"/>
+	</imgdir>
+    <imgdir name="9201228">
+		<string name="name" value="Louis"/>
+		<string name="n0" value="如果你想离开这个地方，来跟我说话。"/>
+	</imgdir>
+    <imgdir name="9201229">
+		<string name="name" value="一堆花"/>
+		<string name="n0" value="如果你想离开这个地方，来跟我说话。"/>
+		<string name="d0" value="(你能在花丛中感受到一种奇怪的气息。你觉得不能把它们带走。)"/>
+		<string name="d1" value="(你能在花丛中感受到一种奇怪的气息。你觉得不能把它们带走。)"/>
+	</imgdir>
+    <imgdir name="9201230">
+		<string name="name" value="一堆草药"/>
+	</imgdir>
+    <imgdir name="9201232">
+		<string name="name" value="墨水池"/>
+	</imgdir>
+    <imgdir name="9201233">
+		<string name="name" value="通缉令"/>
+		<string name="d0" value="<PS>处理完通缉犯后向#b#p9010010##k报告。"/>
+	</imgdir>
+    <imgdir name="9201234">
+		<string name="name" value="Athena Pierce"/>
+		<string name="func" value="弓箭手职业导师"/>
+		<string name="s0" value="你想学弓箭手之道吗？"/>
+	</imgdir>
+    <imgdir name="9201235">
+		<string name="name" value="超老的Grendel"/>
+		<string name="func" value="魔法师职业导师"/>
+		<string name="s0" value="想成为魔法师的人，跟我来。"/>
+	</imgdir>
+    <imgdir name="9201236">
+		<string name="name" value="与Balrog共舞"/>
+		<string name="func" value="战士职业导师"/>
+		<string name="s0" value="你想了解更多关于战士的信息吗？"/>
+	</imgdir>
+    <imgdir name="9201237">
+		<string name="name" value="Dark Lord"/>
+		<string name="func" value="飞侠职业导师"/>
+		<string name="s0" value="嘿你！你想成为飞侠吗？"/>
+	</imgdir>
+</imgdir>

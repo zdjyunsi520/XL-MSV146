@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000201">
+			<string name="name" value="Monkey Bike"/>
+			<string name="desc" value="A unicycle ridden by Circus Monkey."/>
+		</imgdir>
+    <imgdir name="4000202">
+			<string name="name" value="Motorcycle Helmet"/>
+			<string name="desc" value="A helmet adorned by Biker Monkey"/>
+		</imgdir>
+    <imgdir name="4000204">
+			<string name="name" value="Skeledog's Bone"/>
+			<string name="desc" value="A bone that fell out of Skeledog."/>
+		</imgdir>
+    <imgdir name="4000205">
+			<string name="name" value="Dirty Bandage"/>
+			<string name="desc" value="A string of dirty bandage that was wrapped around Mummydog."/>
+		</imgdir>
+    <imgdir name="4000206">
+			<string name="name" value="Rib"/>
+			<string name="desc" value="A rib from Skeleton Soldier."/>
+		</imgdir>
+    <imgdir name="4000207">
+			<string name="name" value="Pelvic Bone"/>
+			<string name="desc" value="A pelvic bone from Skeleton Officer."/>
+		</imgdir>
+    <imgdir name="4000208">
+			<string name="name" value="Horse Skull"/>
+			<string name="desc" value="A horse skull from the horse of Skeleton Commander."/>
+		</imgdir>
+    <imgdir name="4000209">
+			<string name="name" value="Co-ke Slime's Bell"/>
+			<string name="desc" value="The bell of Co-ke Slime that has been taken off."/>
+		</imgdir>
+    <imgdir name="4000210">
+			<string name="name" value="Co-ke Pig's Ribbon"/>
+			<string name="desc" value="A piece of Co-ke Pig's ribbon."/>
+		</imgdir>
+    <imgdir name="4000211">
+			<string name="name" value="Coca-Cola Cube"/>
+			<string name="desc" value="A cube with a drawing of a Coca-Cola bottle on it."/>
+		</imgdir>
+    <imgdir name="4000212">
+			<string name="name" value="CokePLAY Cube"/>
+			<string name="desc" value="A cube with the CokePLAY symbol."/>
+		</imgdir>
+    <imgdir name="4000213">
+			<string name="name" value="Coca-Cola Card"/>
+			<string name="desc" value="A card with a drawing of Coca-Cola."/>
+		</imgdir>
+    <imgdir name="4000214">
+			<string name="name" value="Coca-Cola Gem"/>
+			<string name="desc" value="A red gem with a Coca-Cola logo engraved on it."/>
+		</imgdir>
+    <imgdir name="4000215">
+			<string name="name" value="Axe"/>
+			<string name="desc" value="An axe stuck in a trunk."/>
+		</imgdir>
+    <imgdir name="4000216">
+			<string name="name" value="Coca-Cola Can"/>
+			<string name="desc" value="An empty can that had been filled with the sweet and tangy Coca-Cola."/>
+		</imgdir>
+    <imgdir name="4000217">
+			<string name="name" value="Coca-Cola Light Can"/>
+			<string name="desc" value="An empty can that had been filled with Coke Light, a drink with zero calories."/>
+		</imgdir>
+    <imgdir name="4000218">
+			<string name="name" value="Ice Shell"/>
+			<string name="desc" value="A turtle shell shaped like an igloo that is made of ice."/>
+		</imgdir>
+    <imgdir name="4000219">
+			<string name="name" value="Coke Ice Block"/>
+			<string name="desc" value="A block that had been part of the hard body of a Coke Golem. It looks like frozen Cola."/>
+		</imgdir>
+    <imgdir name="4000220">
+			<string name="name" value="Ice Block"/>
+			<string name="desc" value="A block that had been part of the hard body of an Ice Golem."/>
+		</imgdir>
+    <imgdir name="4000221">
+			<string name="name" value="Coke Bottle Lid"/>
+			<string name="desc" value="A bottle lid that a Coke Mushroom used to wear on its head."/>
+		</imgdir>
+</imgdir>

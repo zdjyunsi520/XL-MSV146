@@ -1,0 +1,5 @@
+<imgdir name="5220043">
+        <string name="name" value="掷骰 - 仁慈" />
+        <string name="desc" value="当掷骰未激活时，有几率不适用冷却时间。此后可激活至少4个掷骰~" />
+        <string name="h" value="掷骰未激活时，#prop%几率不适用冷却时间。此后的下次施放将激活至少4次掷骰。" />
+    </imgdir>

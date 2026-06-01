@@ -1,0 +1,7 @@
+<imgdir name="1110013">
+        <string name="name" value="Combo Synergy" />
+        <string name="desc" value="Total Attack Power increases for each combo orb and increases the chance to gain combo orbs." />
+        <string name="pdesc" value="Total Attack Power increases for each combo orb and increases the chance to gain combo orbs." />
+        <string name="h" value="Has a #prop% chance to gain a combo orb with every attack. Total Attack Power increases by #damR% for each combo orb. Upon taking a hit, has a #subProp chance to charge a combo orb" />
+        <string name="ph" value="Has a #prop% chance to gain a combo orb with every attack. Total Attack Power increases by #damR% for each combo orb. Upon taking a hit, has a #subProp chance to charge a combo orb" />
+    </imgdir>

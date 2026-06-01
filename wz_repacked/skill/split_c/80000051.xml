@@ -1,0 +1,5 @@
+<imgdir name="80000051">
+        <string name="name" value="2013夏日热浪" />
+        <string name="desc" value="夏日热浪的力量提升物理攻击力和魔法攻击力。" />
+        <string name="h" value="#物理攻击力：+#padX，魔法攻击力：+#madX，所有属性：+#dexX" />
+    </imgdir>

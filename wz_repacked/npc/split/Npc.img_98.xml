@@ -1,0 +1,148 @@
+<imgdir name="Npc.img">
+    <imgdir name="1082203">
+		<string name="name" value="Tofu"/>
+		<string name="n0" value="Gold Beach is the land of my people. "/>
+		<string name="n1" value="I really enjoy the... I mean, my tribe love nature."/>
+		<string name="d0" value="(How much longer can I keep up this charade?)"/>
+		<string name="d1" value="I welcome you, strange stranger."/>
+	</imgdir>
+    <imgdir name="1082204">
+		<string name="name" value="Swanson"/>
+		<string name="n0" value="Thank you for visiting Gold Beach Resort at the worst possible time."/>
+		<string name="n1" value="Please let me know if I can be of assistance, so that I can say no."/>
+		<string name="func" value="Resort Manager"/>
+		<string name="d0" value="Welcome to Gold Beach. Please go away."/>
+		<string name="d1" value="Have you seen that idiot, Ralphio? Maybe at the #m120041200#?"/>
+	</imgdir>
+    <imgdir name="1082205">
+		<string name="name" value="Ralphio"/>
+		<string name="n0" value="How am I gonna get that ring back?"/>
+		<string name="n1" value="I'm sick of always being the hottest thing on this beach!"/>
+		<string name="d0" value="You know you like it when I stand here all holding these papers."/>
+		<string name="d1" value="My boo's gonna be so mad!"/>
+	</imgdir>
+    <imgdir name="1082206">
+		<string name="name" value="Swanson"/>
+		<string name="n0" value="Thank you for visiting Gold Beach Resort at the worst possible time."/>
+		<string name="n1" value="Please let me know if I can be of assistance, so that I can say no."/>
+		<string name="func" value="Resort Manager"/>
+		<string name="d0" value="Welcome to Gold Beach. Please go away."/>
+		<string name="d1" value="This resort will never open, and that's okay."/>
+	</imgdir>
+    <imgdir name="1082207">
+		<string name="name" value="Little Richie"/>
+		<string name="n0" value="How long must my prized puppies stand in uncleaned sand?"/>
+		<string name="n1" value="Son of the world's luckiest lotto winner, that's me!"/>
+		<string name="d0" value="When will this noisy construction be done?"/>
+		<string name="d1" value="I am busy. Talk to the Resort Manager, Swanson."/>
+	</imgdir>
+    <imgdir name="1082208">
+		<string name="name" value="Little Richie"/>
+		<string name="n0" value="How long must my prized puppies stand in uncleaned sand?"/>
+		<string name="n1" value="Son of the world's luckiest lotto winner, that's me!"/>
+		<string name="d0" value="When will this noisy construction be done?"/>
+		<string name="d1" value="I am busy. Talk to the Resort Manager, Swanson."/>
+	</imgdir>
+    <imgdir name="1082209">
+		<string name="name" value="Swanson"/>
+		<string name="n0" value="Thank you for visiting Gold Beach Resort at the worst possible time."/>
+		<string name="n1" value="Please let me know if I can be of assistance, so that I can say no."/>
+		<string name="func" value="Resort Manager"/>
+		<string name="d0" value="Welcome to Gold Beach. Please go away."/>
+		<string name="d1" value="This resort will never open, and that's okay."/>
+	</imgdir>
+    <imgdir name="1082210">
+		<string name="name" value="Tofu"/>
+		<string name="n0" value="I welcome you, strange stranger. "/>
+		<string name="n1" value="I really enjoy the... I mean, my tribe love nature."/>
+		<string name="d0" value="(How much longer can I keep up this charade?)"/>
+		<string name="d1" value="A #bGold Beach Entry Pass#k will let you into resort right away. Talk to Swanson."/>
+	</imgdir>
+    <imgdir name="1090000">
+		<string name="name" value="Kyrin"/>
+		<string name="func" value="Pirate Instructor"/>
+		<string name="n0" value="Ahoy mates! Welcome to the Nautilus!"/>
+		<string name="n1" value="Are you ready to make your job advancement as a Pirate?"/>
+		<string name="d0" value="All those who want to become Pirates, come to me..."/>
+		<string name="d1" value="All those who want to become Pirates, come to me..."/>
+	</imgdir>
+    <imgdir name="1092000">
+		<string name="name" value="Tangyoon"/>
+		<string name="d0" value="I guess you came all the way here to try the world's best cooking? Well, my friend, you've come to the right place."/>
+		<string name="d1" value="I work very hard to make sure that the Pirates of The Nautilus are offered the best possible food."/>
+		<string name="n0" value="Best grub in the sea!  Maple World will look like a different place once you try some of my cooking!"/>
+		<string name="n1" value="Fresh ingredients, fresh spices, fresh taste! But hunger is the best sauce!"/>
+	</imgdir>
+    <imgdir name="1092001">
+		<string name="name" value="Bonnie"/>
+		<string name="d0" value="Please help!"/>
+		<string name="d1" value="I think the ship needs some repairs."/>
+		<string name="n0" value="Can somebody help?"/>
+		<string name="n1" value="Ahhh... I can't take it anymore!  Where's a monkey when you need one?"/>
+	</imgdir>
+    <imgdir name="1092002">
+		<string name="name" value="Baine"/>
+		<string name="d0" value="Shhh! I need to listen to the ship. Please be quiet."/>
+		<string name="d1" value="I think The Nautilus is in tip top shape."/>
+		<string name="n0" value="Shh! I'm listening to the ship, so can it!"/>
+		<string name="n1" value="The best way to know how the ship is doing is to listen to what it is saying."/>
+	</imgdir>
+    <imgdir name="1092003">
+		<string name="name" value="Sharyl"/>
+		<string name="d0" value="Losing...strength..."/>
+		<string name="d1" value="I want to do something for Captain Kyrin. To strengthen the alliance between whales and pirates, of course!"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="Swimming through this strange ocean weakens me..."/>
+		<string name="q0" value="I'm Sharyl, the Prince of Whales. Thank you for your help."/>
+	</imgdir>
+    <imgdir name="1092004">
+		<string name="name" value="Calico"/>
+		<string name="d0" value="Zzzz..."/>
+		<string name="d1" value="Zzzz..."/>
+		<string name="q0" value="What?! No, I wasn't falling asleep!"/>
+		<string name="n0" value="Zzzz..."/>
+		<string name="n1" value="So... Sleepy..."/>
+	</imgdir>
+    <imgdir name="1092006">
+		<string name="name" value="Black Bark"/>
+		<string name="d0" value="What does a man consider romantic? The sea! And what does a woman consider love? The sea!"/>
+		<string name="d1" value="I can just imagine Kyrin in a dress. Haha!"/>
+		<string name="n0" value="Travelling the seas is romantic, for both men and women!"/>
+		<string name="n1" value="If you want to know the seas, you must study maps first! Do you understand, lad?"/>
+	</imgdir>
+    <imgdir name="1092007">
+		<string name="name" value="Muirhat"/>
+		<string name="d0" value="Why do you need to see Kyrin?"/>
+		<string name="d1" value="You saved me from grave danger. Thank you for that. "/>
+		<string name="n0" value="If you want to meet Kyrin, you're going to need my permission first. "/>
+		<string name="n1" value="We're going to have to gather all of our strength to fight against the Black Magician."/>
+	</imgdir>
+    <imgdir name="1092008">
+		<string name="name" value="Shulynch"/>
+		<string name="d0" value="Anyone can work out in the training room. If you're a true Pirate, you should work out here at least once a day. "/>
+		<string name="d1" value="Yo ho ho! The Pirate's life for me!"/>
+		<string name="n0" value="Hey you, you have some business with me? What are you looking at?"/>
+		<string name="n1" value="A gun can be quite a tolerant weapon when it comes to a woman who opens her heart."/>
+	</imgdir>
+    <imgdir name="1092010">
+		<string name="name" value="Jack"/>
+		<string name="d0" value="*Scratch scratch...*"/>
+		<string name="d1" value="What is this white stuff that keeps coming out of my hair?"/>
+		<string name="n0" value="Hey, what's this white powder falling from my head?"/>
+		<string name="n1" value="Hmmm... And why is it that Mrs. Reade is always following me around cleaning up after me?"/>
+	</imgdir>
+    <imgdir name="1092012">
+		<string name="name" value="Rolonay"/>
+		<string name="d0" value="The road of the scholar is never-ending."/>
+		<string name="d1" value="Thank you so much for the other day. I was in such a rush, and thankfully, I got through it."/>
+		<string name="n0" value="*Mumble mumble...* What is the central aspect of this study... Uh, this?"/>
+		<string name="n1" value="Why are you just looking at me like that? You--do you think I look funny?"/>
+	</imgdir>
+    <imgdir name="1092019">
+		<string name="name" value="Lord Jonathan"/>
+		<string name="d0" value="Ahem! What is it?"/>
+		<string name="d1" value="You're a friend of ours. I'll always be there for you to help."/>
+		<string name="n0" value="There's some history between Pirates and seagulls indeed."/>
+		<string name="n1" value="If you can pass my test, something good will come your way."/>
+	</imgdir>
+</imgdir>

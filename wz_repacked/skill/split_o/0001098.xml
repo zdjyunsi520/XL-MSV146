@@ -1,0 +1,5 @@
+<imgdir name="0001098">
+        <string name="name" value="Ice Double Jump" />
+        <string name="pdesc" value="Jump a second time while in the air." />
+        <string name="ph" value="MP Cost: 0, Additional Jump distance\nCooldown: #cooltime sec" />
+    </imgdir>

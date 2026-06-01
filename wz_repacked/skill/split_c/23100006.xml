@@ -1,0 +1,7 @@
+<imgdir name="23100006">
+        <string name="name" value="最终攻击：双弩枪" />
+        <string name="desc" value="攻击后有概率造成额外伤害。需要装备双弩枪。\n前置技能：#c双弩枪精通 Lv. 3#" />
+        <string name="h" value="最终攻击概率：#prop%，最终攻击伤害：#damage%，攻击次数：#attackCount" />
+        <string name="pdesc" value="攻击后有概率造成额外伤害。需要装备双弩枪。\n前置技能：#c双弩枪精通 Lv. 3#" />
+        <string name="ph" value="最终攻击概率：#prop%，最终攻击伤害：#damage%，攻击次数：#attackCount" />
+    </imgdir>

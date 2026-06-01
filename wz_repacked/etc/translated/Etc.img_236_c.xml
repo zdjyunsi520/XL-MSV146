@@ -1,0 +1,37 @@
+<imgdir name="Etc.img">
+    <imgdir name="4034058">
+			<string name="name" value="超·格雷的信息核心"/>
+			<string name="desc" value="包含外星人信息的DNA核心。"/>
+		</imgdir>
+    <imgdir name="4034059">
+			<string name="name" value="格雷长官的DNA核心"/>
+			<string name="desc" value="包含外星人信息的DNA核心。"/>
+		</imgdir>
+    <imgdir name="4160121">
+			<string name="name" value="宠物命令指南：小莱"/>
+			<string name="desc" value="包含小莱所有命令的指南。
+#c双击物品打开指南。#"/>
+		</imgdir>
+    <imgdir name="4160122">
+			<string name="name" value="宠物命令指南：小福特"/>
+			<string name="desc" value="包含小福特所有命令的指南。
+#c双击物品打开指南。#"/>
+		</imgdir>
+    <imgdir name="4160123">
+			<string name="name" value="宠物命令指南：小阿尔比"/>
+			<string name="desc" value="包含小阿尔比所有命令的指南。
+#c双击物品打开指南。#"/>
+		</imgdir>
+    <imgdir name="4034010">
+			<string name="name" value="试镜刮刮卡"/>
+			<string name="desc" value="刮卡以获得参加在克宁广场举行的试镜的机会。"/>
+		</imgdir>
+    <imgdir name="4034011">
+			<string name="name" value="更好的试镜刮刮卡"/>
+			<string name="desc" value="刮卡以获得参加在克宁广场举行的试镜的机会。这张票有更好的中奖机会。"/>
+		</imgdir>
+    <imgdir name="4034012">
+			<string name="name" value="VIP试镜刮刮卡"/>
+			<string name="desc" value="刮卡以获得参加在克宁广场举行的试镜的机会。这张票说它有最好的中奖机会，但很难说。"/>
+		</imgdir>
+</imgdir>

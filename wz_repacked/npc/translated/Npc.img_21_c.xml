@@ -1,0 +1,129 @@
+<imgdir name="Npc.img">
+    <imgdir name="2090000">
+		<string name="name" value="潘先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n1" value="我的仓库安全可靠！不用担心！"/>
+		<string name="n0" value="你需要一个地方存放你的金币和物品吗？别再找了！"/>
+	</imgdir>
+    <imgdir name="2090001">
+		<string name="name" value="公公"/>
+		<string name="func" value="武器商人"/>
+		<string name="s1" value="这里可能有你喜欢的武器。"/>
+		<string name="s0" value="强大的武器造就强大的战士。"/>
+	</imgdir>
+    <imgdir name="2090002">
+		<string name="name" value="比迪翁"/>
+		<string name="func" value="防具商人"/>
+		<string name="s0" value="好的、坚固的防具将在保护你方面大有帮助。"/>
+		<string name="s1" value="我相信你听说过我的防具是世界上最好的。"/>
+	</imgdir>
+    <imgdir name="2090003">
+		<string name="name" value="达尔苏克"/>
+		<string name="s0" value="我有一切，你准备狩猎场可能需要的一切。"/>
+		<string name="s1" value="这些药水是用附近百草堂的草药制成的，所以你知道这些很好！"/>
+		<string name="func" value="商人"/>
+	</imgdir>
+    <imgdir name="2090005">
+		<string name="name" value="鹤"/>
+		<string name="func" value="公共交通工具"/>
+		<string name="n0" value="只要你有钱，我会带你从奥比斯到武陵再回来。"/>
+		<string name="n1" value="看，我可以保证我的方式比走路快得多。"/>
+	</imgdir>
+    <imgdir name="2090006">
+		<string name="name" value="拉娅"/>
+		<string name="func" value="宠物商人"/>
+		<string name="n0" value="你想了解更多关于宠物的信息吗？"/>
+		<string name="n1" value="我建议你更好地照顾你的宠物。"/>
+	</imgdir>
+    <imgdir name="2090100">
+		<string name="name" value="罗爷爷"/>
+		<string name="func" value="首席发型师"/>
+		<string name="s0" value="哈哈，我仍然是武陵最好的发型师！"/>
+		<string name="s1" value="你不想换个发型吗？"/>
+	</imgdir>
+    <imgdir name="2090101">
+		<string name="name" value="李丽姝"/>
+		<string name="func" value="助理发型师"/>
+		<string name="s0" value="今天让我来打理你的头发。"/>
+		<string name="s1" value="我感觉今天之后你的头发会看起来很棒。"/>
+	</imgdir>
+    <imgdir name="2090102">
+		<string name="name" value="纳兰"/>
+		<string name="func" value="皮肤科医生"/>
+		<string name="s0" value="有人告诉过你你的皮肤很好吗？"/>
+		<string name="s1" value="我会确保你的肤色看起来像你想要的那样。"/>
+	</imgdir>
+    <imgdir name="2090103">
+		<string name="name" value="帕塔"/>
+		<string name="func" value="整形医生"/>
+		<string name="n0" value="帕塔可以让你的生活更加满意！"/>
+		<string name="n1" value="哈，你不能相信我吗？我是伟大的帕塔！你没听说过我吗？"/>
+	</imgdir>
+    <imgdir name="2090104">
+		<string name="name" value="诺玛"/>
+		<string name="func" value="助理整形医生"/>
+		<string name="h0" value="嗯，我真的说不出这里有什么问题。"/>
+		<string name="n0" value="所以你想要你的眼睛这样做？还是这样？"/>
+		<string name="s0" value="有时候我和帕塔一样好。"/>
+		<string name="s1" value="当然，我的整形手术技巧曾受到称赞。每...一次...偶尔。"/>
+	</imgdir>
+    <imgdir name="2091000">
+		<string name="name" value="诺公"/>
+		<string name="n0" value="让阴阳流经你的身体，你将达到完美和谐。"/>
+		<string name="n1" value="嗯...你准备好训练自己达到完美和谐了吗？"/>
+		<string name="d0" value="没有什么比带着哪怕一点点恐惧训练更糟糕的了。"/>
+		<string name="d1" value="你做得不错。还有很长的路要走，但这是一个开始。"/>
+	</imgdir>
+    <imgdir name="2091001">
+		<string name="name" value="道公"/>
+		<string name="d1" value="你需要真正努力才能看到进步。"/>
+		<string name="n0" value="让你的内在力量扩展，成为你的一部分。"/>
+		<string name="n1" value="时间流逝，世界已改变。"/>
+		<string name="d0" value="我确实教那些来到这里的人，但很难达到完美和谐。"/>
+	</imgdir>
+    <imgdir name="2091006">
+		<string name="name" value="武陵道场公告板"/>
+		<string name="d0" value="以下是通知。"/>
+		<string name="d1" value="以下是通知。"/>
+	</imgdir>
+    <imgdir name="2093000">
+		<string name="name" value="穆谭"/>
+		<string name="func" value="武器商人"/>
+		<string name="s1" value="如果你不确定自己是否能面对它们，那就相信这些武器，因为它们会为你完成工作。"/>
+		<string name="s2" value="如果你有任何问题，随时问！"/>
+		<string name="s0" value="很明显，你需要一把强大的武器来面对那些不守规矩的海盗。"/>
+	</imgdir>
+    <imgdir name="2093003">
+		<string name="name" value="龚先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="你需要一个地方存放你的物品和金币吗？这里正是适合你的地方！"/>
+		<string name="n1" value="我的仓库安全可靠，所以不用担心！"/>
+	</imgdir>
+    <imgdir name="2093004">
+		<string name="name" value="海豚"/>
+		<string name="n0" value="欢迎来到百草堂！"/>
+	</imgdir>
+    <imgdir name="2095000">
+		<string name="name" value="德利"/>
+		<string name="n0" value="怪物和人类可以成为朋友。真的。"/>
+		<string name="n1" value="怪物和人类可以成为朋友。真的。"/>
+		<string name="d0" value="你必须先去帮助德利！"/>
+	</imgdir>
+    <imgdir name="2096000">
+		<string name="name" value="练习图表"/>
+	</imgdir>
+    <imgdir name="2100">
+		<string name="name" value="塞拉"/>
+		<string name="n0" value="洗衣永远没完没了。"/>
+		<string name="n1" value="你见过我妹妹希娜吗？她就在那边。"/>
+		<string name="n2" value="按向上箭头爬上来和我说话。"/>
+		<string name="n3" value="点击像我这样的NPC开始对话！"/>
+		<string name="a0" value="为什么希娜不帮我晾衣服？"/>
+		<string name="s0" value="你是新来的，对吧？"/>
+		<string name="i0" value="晚饭我该做什么？"/>
+		<string name="l0" value="哦天哪！我还有这么多衣服要洗！"/>
+		<string name="h0" value="我好几天没洗头了...哦天哪。"/>
+		<string name="d0" value="今天洗衣服真是个好天气。你不同意吗？"/>
+		<string name="d1" value="你把我的镜子给了#g#p2101##k吗？她什么时候会帮我洗衣服..."/>
+	</imgdir>
+</imgdir>

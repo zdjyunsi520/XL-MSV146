@@ -1,0 +1,73 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Southperry"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Southperry"/>
+			</imgdir>
+    <imgdir name="40002">
+			<imgdir name="0">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southperry"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Southperry"/>
+			</imgdir>
+    <imgdir name="50000">
+			<imgdir name="0">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Snail Hunting Ground"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Southperry"/>
+			</imgdir>
+    <imgdir name="60000">
+			<imgdir name="0">
+				<string name="Title" value="Armor Shop"/>
+				<string name="Desc" value="This is the place to purchase armors."/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southperry --&gt; Lith Harbor (Victoria Island)"/>
+				<string name="Desc" value="Fee : 150 Mesos\n\nGet on the ship that heads to Lith Harbor through Shanks. Once out of Maple Island, you will not be able to return here ever again."/>
+			</imgdir>
+    <imgdir name="1000000">
+			<imgdir name="0">
+				<string name="Title" value="Weapon Store"/>
+				<string name="Desc" value="This is the place to purchase weapons."/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="General Store"/>
+				<string name="Desc" value="This is the place to purchase potions, scrolls, and other goods."/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Entrance to Adventurer Training Center"/>
+				<string name="Desc" value="Southperry Area"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="1010000">
+			<imgdir name="0">
+				<string name="Title" value="Split Road of Destiny"/>
+				<string name="Desc" value="Southperry Area"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Adventurer Training Center"/>
+			</imgdir>
+</imgdir>

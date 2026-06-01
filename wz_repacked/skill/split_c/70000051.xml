@@ -1,0 +1,5 @@
+<imgdir name="70000051">
+        <string name="name" value="力量和敏捷提升" />
+        <string name="desc" value="提升力量和敏捷。" />
+        <string name="h" value="STR +#strFX, DEX +#dexFX" />
+    </imgdir>

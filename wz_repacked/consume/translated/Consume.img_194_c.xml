@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290243">
+		<string name="name" value="[能手册]音速咆哮 30"/>
+		<string name="desc" value="50%概率将#c音速咆哮#的最高等级提升到30级。\n职业：猎人\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290244">
+		<string name="name" value="[能手册]臭气弹射击 20"/>
+		<string name="desc" value="70%概率将#c臭气弹射击#的最高等级提升到20级。\n职业：猎人\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290245">
+		<string name="name" value="Xenon的神秘能手册"/>
+		<string name="desc" value="双击时会随机产生一本Xenon专用的能手册。"/>
+	</imgdir>
+    <imgdir name="2290246">
+		<string name="name" value="[能手册]猫之狂暴 20"/>
+		<string name="desc" value="70%概率将#c猫之狂暴#的最高等级提升到20级。\n职业：猎人\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290247">
+		<string name="name" value="[能手册]猫之狂暴 30"/>
+		<string name="desc" value="50%概率将#c猫之狂暴#的最高等级提升到30级。\n职业：猎人\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290275">
+		<string name="name" value="[能手册]巨型机器人SG-88 20"/>
+		<string name="desc" value="70%概率将#c巨型机器人SG-88#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290276">
+		<string name="name" value="[能手册]巨型机器人SG-88 30"/>
+		<string name="desc" value="50%概率将#c巨型机器人SG-88#的最高等级提升到30级。\n职业：机械师\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290277">
+		<string name="name" value="[能手册]金属装甲：导弹坦克 20"/>
+		<string name="desc" value="70%概率将#c金属装甲：导弹坦克#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290278">
+		<string name="name" value="[能手册]金属装甲：导弹坦克 30"/>
+		<string name="desc" value="50%概率将#c金属装甲：导弹坦克#的最高等级提升到30级。\n职业：机械师\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290279">
+		<string name="name" value="[能手册] Bots 'n Tots 20"/>
+		<string name="desc" value="70%概率将#cBots 'n Tots#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290280">
+		<string name="name" value="[能手册] Bots 'n Tots 30"/>
+		<string name="desc" value="50%概率将#cBots 'n Tots#的最高等级提升到30级。\n职业：机械师\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290281">
+		<string name="name" value="[能手册]增幅器：AF-11 20"/>
+		<string name="desc" value="70%概率将#c增幅器：AF-11#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290282">
+		<string name="name" value="[能手册]激光爆破 20"/>
+		<string name="desc" value="70%概率将#c激光爆破#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290283">
+		<string name="name" value="[能手册]激光爆破 30"/>
+		<string name="desc" value="50%概率将#c激光爆破#的最高等级提升到30级。\n职业：机械师\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290284">
+		<string name="name" value="[能手册]卫星安全 20"/>
+		<string name="desc" value="70%概率将#c卫星安全#的最高等级提升到20级。\n职业：机械师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290285">
+		<string name="name" value="[能手册]神秘能手册"/>
+		<string name="desc" value="使用后会随机变成一本技能能手册。"/>
+	</imgdir>
+    <imgdir name="2290286">
+		<string name="name" value="[活动能手册]斩击风暴 20"/>
+		<string name="desc" value="100%概率将#c斩击风暴#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290287">
+		<string name="name" value="[活动能手册]飞行突击 20"/>
+		<string name="desc" value="100%概率将#c飞行突击#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290288">
+		<string name="name" value="[活动能手册]镜像分身 20"/>
+		<string name="desc" value="100%概率将#c镜像分身#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级10级以上"/>
+	</imgdir>
+    <imgdir name="2290289">
+		<string name="name" value="[活动能手册]暗影融合 20"/>
+		<string name="desc" value="100%概率将#c暗影融合#的最高等级提升到20级。\n职业：暗影双刀\n条件：技能等级10级以上"/>
+	</imgdir>
+</imgdir>

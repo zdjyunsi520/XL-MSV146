@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382048">
+		<string name="name" value="Robo Card"/>
+		<string name="desc" value="A card that features Robo.\n#cIf hunting at the upper floors of the ClocktowernDefense against electric-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382049">
+		<string name="name" value="Platoon Chronos Card"/>
+		<string name="desc" value="A card that features Platoon Chronos.\n#cIf hunting at the upper floors of the ClocktowernSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382050">
+		<string name="name" value="Mateon Card"/>
+		<string name="desc" value="A card that features Mateon.\n#cIf hunting at Boswell FieldnThe drop rates for droppings are increased#"/>
+	</imgdir>
+    <imgdir name="2382051">
+		<string name="name" value="Red Porky Card"/>
+		<string name="desc" value="A card that features Red Porky.\n#cIf hunting at Mu LungnAvoidability +1#"/>
+	</imgdir>
+    <imgdir name="2382052">
+		<string name="name" value="Nependeath Card"/>
+		<string name="desc" value="A card that features Nependeath.\n#cIncreases drop rate of Nependeath Honey#"/>
+	</imgdir>
+    <imgdir name="2382053">
+		<string name="name" value="Iron Hog Card"/>
+		<string name="desc" value="A card that features Iron Hog.\n#cIf hunting at Victoria IslandnJump +1#"/>
+	</imgdir>
+    <imgdir name="2382054">
+		<string name="name" value="Block Golem"/>
+		<string name="desc" value="A card that features Block Golem.\n#cIf hunting at Eos TowernAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382055">
+		<string name="name" value="Zeta Grey Card"/>
+		<string name="desc" value="A card that features Zeta Grey.\n#cIf hunting at Kulan FieldnSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382056">
+		<string name="name" value="Freezer Card"/>
+		<string name="desc" value="A card that features Freezer.\n#cIf hunting at Aqua RoadnDefense against ice-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382057">
+		<string name="name" value="Iron Mutae"/>
+		<string name="desc" value="A card that features Iron Mutae.\n#cIf hunting at the Alcadno InstitutenSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382058">
+		<string name="name" value="Jr. Cerebes Card"/>
+		<string name="desc" value="A card that features Jr. Cerebes.\n#cIf hunting at Dead MinenJump +1#"/>
+	</imgdir>
+    <imgdir name="2382059">
+		<string name="name" value="Sparker Card"/>
+		<string name="desc" value="A card that features Sparker.\n#cIf hunting at Aqua RoadnDefense against electric-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382060">
+		<string name="name" value="Black Porky Card"/>
+		<string name="desc" value="A card that features Black Porky.\n#cIf hunting at Mu LungnAvoidability +1#"/>
+	</imgdir>
+    <imgdir name="2382061">
+		<string name="name" value="Plateon Card"/>
+		<string name="desc" value="A card that features Plateon.\n#cIf hunting at Boswell FieldnSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382062">
+		<string name="name" value="Master Robo Card"/>
+		<string name="desc" value="A card that features Master Robo.\n#cIf hunting at the upper floors of the ClocktowernDefense against electric-based attacks +3%#"/>
+	</imgdir>
+    <imgdir name="2382063">
+		<string name="name" value="Skeledog Card"/>
+		<string name="desc" value="A card that features Skeledog.\n#cIf hunting at PerionnSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382064">
+		<string name="name" value="Lunar Pixie Card"/>
+		<string name="desc" value="A card that features Lunar Pixie.\n#cIf hunting at the Cloud ParknJump +1#"/>
+	</imgdir>
+    <imgdir name="2382065">
+		<string name="name" value="Copper Drake Card"/>
+		<string name="desc" value="A card that features Copper Drake.\n#cIf hunting at Victoria IslandnSpeed +1#"/>
+	</imgdir>
+    <imgdir name="2382066">
+		<string name="name" value="King Block Golem Card"/>
+		<string name="desc" value="A card that features King Block Golem.\n#cIf hunting at Eos TowernAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382067">
+		<string name="name" value="Ultra Grey Card"/>
+		<string name="desc" value="A card that features Ultra Grey.\n#cIf hunting at Kulan FieldnAvoidability +1#"/>
+	</imgdir>
+</imgdir>

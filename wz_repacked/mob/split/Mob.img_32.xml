@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="7150001">
+		<string name="name" value="Big Spider"/>
+	</imgdir>
+    <imgdir name="7150002">
+		<string name="name" value="Cart Bear"/>
+	</imgdir>
+    <imgdir name="7150003">
+		<string name="name" value="Racaroni"/>
+	</imgdir>
+    <imgdir name="7150004">
+		<string name="name" value="Guard Robot L"/>
+	</imgdir>
+    <imgdir name="7160000">
+		<string name="name" value="Dual Ghost Pirate"/>
+	</imgdir>
+    <imgdir name="7220000">
+		<string name="name" value="Tae Roon"/>
+	</imgdir>
+    <imgdir name="7220001">
+		<string name="name" value="Nine-Tailed Fox"/>
+	</imgdir>
+    <imgdir name="7220002">
+		<string name="name" value="King Sage Cat"/>
+	</imgdir>
+    <imgdir name="8090000">
+		<string name="name" value="Deet and Roi"/>
+	</imgdir>
+    <imgdir name="8105000">
+		<string name="name" value="Raco"/>
+	</imgdir>
+    <imgdir name="8105001">
+		<string name="name" value="Security System"/>
+	</imgdir>
+    <imgdir name="8105002">
+		<string name="name" value="Enhanced Security System"/>
+	</imgdir>
+    <imgdir name="8105003">
+		<string name="name" value="AF Android"/>
+	</imgdir>
+    <imgdir name="8105004">
+		<string name="name" value="Broken DF Android"/>
+	</imgdir>
+    <imgdir name="8105005">
+		<string name="name" value="Ore Muncher"/>
+	</imgdir>
+    <imgdir name="8110300">
+		<string name="name" value="Homunscullo"/>
+	</imgdir>
+    <imgdir name="8130100">
+		<string name="name" value="Jr. Balrog"/>
+	</imgdir>
+    <imgdir name="8140000">
+		<string name="name" value="Lycanthrope"/>
+	</imgdir>
+    <imgdir name="8140001">
+		<string name="name" value="Harp"/>
+	</imgdir>
+    <imgdir name="8140002">
+		<string name="name" value="Blood Harp"/>
+	</imgdir>
+</imgdir>

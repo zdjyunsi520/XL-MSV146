@@ -1,0 +1,139 @@
+<imgdir name="Npc.img">
+    <imgdir name="2150007">
+		<string name="name" value="Taxi"/>
+		<string name="func" value="Affiliated with Black Wings"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="I charge a higher rate at the moment. Please make sure you have enough Mesos before you get in."/>
+		<string name="d1" value="I charge a higher rate at the moment. Please make sure you have enough Mesos before you get in."/>
+	</imgdir>
+    <imgdir name="2150008">
+		<string name="name" value="Ace"/>
+		<string name="func" value="Pilot"/>
+		<string name="n0" value="Tell me if you want to leave this place and go to another continent."/>
+		<string name="n1" value="Ah... Freedom... My favorite word."/>
+		<string name="d0" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+		<string name="d1" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+	</imgdir>
+    <imgdir name="2150009">
+		<string name="name" value="Ace"/>
+		<string name="func" value="Pilot"/>
+		<string name="n0" value="Tell me if you want to leave this place and go to another continent."/>
+		<string name="n1" value="Ah... Freedom... My favorite word."/>
+		<string name="d0" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+		<string name="d1" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+	</imgdir>
+    <imgdir name="2150010">
+		<string name="name" value="Ace"/>
+		<string name="func" value="Pilot"/>
+		<string name="n0" value="Tell me if you want to leave this place and go to another continent."/>
+		<string name="n1" value="Ah... Freedom... My favorite word."/>
+		<string name="d0" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+		<string name="d1" value="I fly in search of freedom, but my feet are tied... *Sigh.*"/>
+	</imgdir>
+    <imgdir name="2151000">
+		<string name="name" value="Elex"/>
+		<string name="func" value="Basic Training Instructor"/>
+		<string name="n0" value="Ki-ya!"/>
+		<string name="n1" value="Hi-ya!"/>
+		<string name="d0" value="You must have a strong physical and mental foundation before you can truly serve in the Resistance."/>
+		<string name="d1" value="How is training going?"/>
+	</imgdir>
+    <imgdir name="2151003">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="Resistance Instructor"/>
+		<string name="n0" value="We may be in darkness, but it is our destiny to fight..."/>
+		<string name="n1" value="We can't back away from fear!"/>
+		<string name="d0" value="Walking the path of the Resistance won't be easy... But with an iron will, you'll overcome any obstacle."/>
+		<string name="d1" value="You're not alone. We can all work together to defeat the Black Wings."/>
+	</imgdir>
+    <imgdir name="2151004">
+		<string name="name" value="Checky"/>
+		<string name="func" value="Mechanic Instructor"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="Hmph..."/>
+		<string name="d0" value="Are you interested in Mechanics, the masters of technology?"/>
+		<string name="d1" value="It doesn't matter how we win. We just need to win! You agree, right? Victory is what we need."/>
+	</imgdir>
+    <imgdir name="2152006">
+		<string name="name" value="Albert"/>
+		<string name="func" value="Former Council President"/>
+		<string name="n0" value="It's my fault for being so powerless..."/>
+		<string name="n1" value="Oh, my Gabrielle... *Sniffle sniff.*"/>
+		<string name="d0" value="I'm sorry to have failed you... But... But... "/>
+		<string name="d1" value="I'm sorry to have failed you... But... But... "/>
+	</imgdir>
+    <imgdir name="2152007">
+		<string name="name" value="Anthony"/>
+		<string name="func" value="Current Council President"/>
+		<string name="n0" value="You there! I'm waiting for you to greet me with respect and admiration!"/>
+		<string name="n1" value="I'm the Council President, I tell ya. I'm not kidding."/>
+		<string name="d0" value="Hmm... We don't really have any problems, so I don't plan to hold any council meetings anytime soon..."/>
+		<string name="d1" value="Hmm... We don't really have any problems, so I don't plan to hold any council meetings anytime soon..."/>
+	</imgdir>
+    <imgdir name="2152009">
+		<string name="name" value="Ulrika"/>
+		<string name="n0" value="*Sigh.* Where's Von?"/>
+		<string name="n1" value="That little Jun... I hope he fed the puppy."/>
+		<string name="d0" value="Any commotion puts us in danger. Careful. Don't tell anyone I told you that."/>
+		<string name="d1" value="Any commotion puts us in danger. Careful. Don't tell anyone I told you that."/>
+		<imgdir name="dialogue">
+			<string name="23001" value="How long are you and Von planning on playing hide-and-seek? I was waiting and waiting until I finally gave up. We got in trouble, too! Von never came back, though. Have you seen him?"/>
+		</imgdir>
+    <imgdir name="9000005">
+		<string name="name" value="Vikone"/>
+		<string name="n0" value="We're descendants of the Vikings, the kings of the sea."/>
+	</imgdir>
+    <imgdir name="9000006">
+		<string name="name" value="Vikoon"/>
+		<string name="n0" value="We're descendants of the Vikings, the kings of the sea."/>
+	</imgdir>
+    <imgdir name="9000007">
+		<string name="name" value="Chun Ji"/>
+		<string name="n0" value="Don't talk to me."/>
+		<string name="n1" value="Leave now, before you get hurt"/>
+		<string name="d0" value="Manji will never be as good as I."/>
+		<string name="d1" value="Some say that I am jealous of Manji! Who dares to speak such blasphemy?"/>
+		<string name="n2" value="Are you telling me I'm worse than Man Ji?!"/>
+	</imgdir>
+    <imgdir name="9000011">
+		<string name="name" value="Martin"/>
+		<string name="func" value="Event Assistant"/>
+		<string name="n0" value="The event is starting any minute now..."/>
+		<string name="n1" value="The brothers aren't coming..."/>
+	</imgdir>
+    <imgdir name="9000012">
+		<string name="name" value="Harry"/>
+		<string name="func" value="Event Assistant"/>
+		<string name="n0" value="There are coconuts that drop, and coconuts that don't."/>
+		<string name="n1" value="Please make sure you don't use up all your stamina."/>
+		<string name="n2" value="Wanna know how to play this?"/>
+		<string name="n3" value="Need weapons? I'm offering a beginner's bat for 1 meso."/>
+	</imgdir>
+    <imgdir name="9000013">
+		<string name="name" value="Tony"/>
+		<string name="func" value="Event Assistant"/>
+		<string name="n0" value="Where are my bros?"/>
+		<string name="n1" value="I should get to where the event is..."/>
+	</imgdir>
+    <imgdir name="9000014">
+		<string name="name" value="Geanie"/>
+		<string name="n0" value="If you have the Scroll of Secrets, give it to me!"/>
+		<string name="d0" value="If you have the Scroll of Secrets, give it to me!"/>
+	</imgdir>
+    <imgdir name="9000015">
+		<string name="name" value="Tamis"/>
+		<string name="n0" value="To break the treasure box, you need short-range weapon. So! You need one?"/>
+	</imgdir>
+    <imgdir name="9000017">
+		<string name="name" value="Coco"/>
+		<string name="func" value="Chocolate Ingredient Seller"/>
+		<string name="n0" value="Do you need something to wrap your chocolate with?"/>
+	</imgdir>
+    <imgdir name="9000018">
+		<string name="name" value="Matilda"/>
+		<string name="func" value="Weapon Rental for Everybody In"/>
+		<string name="n0" value="If you have any weapons you wish to rent, let me know!"/>
+		<string name="n1" value="Please handle these weapons with care!"/>
+	</imgdir>
+</imgdir>

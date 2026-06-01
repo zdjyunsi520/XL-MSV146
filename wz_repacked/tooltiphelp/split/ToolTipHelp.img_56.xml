@@ -1,0 +1,76 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="270010200">
+			<imgdir name="0">
+				<string name="Title" value="Resting Spot of Memory"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Memory Lane 3"/>
+			</imgdir>
+    <imgdir name="270010210">
+			<imgdir name="0">
+				<string name="Title" value="Memory Lane 3"/>
+			</imgdir>
+    <imgdir name="270010310">
+			<imgdir name="0">
+				<string name="Title" value="Memory Lane 4"/>
+			</imgdir>
+    <imgdir name="270010500">
+			<imgdir name="0">
+				<string name="Title" value="Frozen Past"/>
+			</imgdir>
+    <imgdir name="270020000">
+			<imgdir name="0">
+				<string name="Title" value="Memory Lane Direction"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Door of Regrets"/>
+			</imgdir>
+    <imgdir name="270020100">
+			<imgdir name="0">
+				<string name="Title" value="Frozen Past"/>
+			</imgdir>
+    <imgdir name="270020110">
+			<imgdir name="0">
+				<string name="Title" value="Road of Regrets 1"/>
+			</imgdir>
+    <imgdir name="270020210">
+			<imgdir name="0">
+				<string name="Title" value="Sorcerer's Room"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Road of Regrets 2"/>
+			</imgdir>
+    <imgdir name="270020400">
+			<imgdir name="0">
+				<string name="Title" value="Road of Regrets 5"/>
+			</imgdir>
+    <imgdir name="270030000">
+			<imgdir name="0">
+				<string name="Title" value="Road to Oblivion"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Road of Regrets 5"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Door of Oblivion"/>
+			</imgdir>
+    <imgdir name="270030210">
+			<imgdir name="0">
+				<string name="Title" value="Road to Oblivion 2"/>
+			</imgdir>
+    <imgdir name="270030300">
+			<imgdir name="0">
+				<string name="Title" value="Road to Oblivion 4"/>
+			</imgdir>
+    <imgdir name="270030400">
+			<imgdir name="0">
+				<string name="Title" value="Road to Oblivion 3"/>
+			</imgdir>
+    <imgdir name="270030410">
+			<imgdir name="0">
+				<string name="Title" value="Road to Oblivion 4"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Road to Oblivion 5"/>
+			</imgdir>
+</imgdir>

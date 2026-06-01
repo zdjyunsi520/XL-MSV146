@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2044713">
+		<string name="name" value="Scroll for Claw for ATT 50%"/>
+		<string name="desc" value="Improves attack on claw.\nSuccess rate:50%, weapon attack+5, LUK+1, DEX+1"/>
+	</imgdir>
+    <imgdir name="2044800">
+		<string name="name" value="Scroll for Knuckle for Attack 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2044801">
+		<string name="name" value="Scroll for Knuckle for Attack 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044802">
+		<string name="name" value="Scroll for Knuckle for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044803">
+		<string name="name" value="Scroll for Knuckle for Attack 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044804">
+		<string name="name" value="Scroll for Knuckle for Attack 30%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044805">
+		<string name="name" value="Scroll for Knuckle for Accuracy 100%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044806">
+		<string name="name" value="Scroll for Knuckle for Accuracy 70%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044807">
+		<string name="name" value="Scroll for Knuckle for Accuracy 60%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044808">
+		<string name="name" value="Scroll for Knuckle for Accuracy 30%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2044809">
+		<string name="name" value="Scroll for Knuckle for Accuracy 10%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2044810">
+		<string name="name" value="[6th Anniversary] Scroll for Knuckle for ATT 40%"/>
+		<string name="desc" value="Improves Attack on Maple Anniversary Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nSTR: +2\r\nWeapon Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2044811">
+		<string name="name" value="Scroll for Knuckles for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044812">
+		<string name="name" value="Scroll for Knuckles for ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044813">
+		<string name="name" value="Scroll for Knuckles for Accuracy 65%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044814">
+		<string name="name" value="Scroll for Knuckles for Accuracy 15%"/>
+		<string name="desc" value="Improves Accuracy on Knuckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2044815">
+		<string name="name" value="Scroll for Knuckler for Attack 100%"/>
+		<string name="desc" value="Improves attack on Knucklers.\nSuccess rate: 100%. Weapon Attack +2, STR +1"/>
+	</imgdir>
+    <imgdir name="2044816">
+		<string name="name" value="King Pepe's 60% Scroll for Knuckle Attacks"/>
+		<string name="desc" value="Improves Attack on King Pepe Silver Maidens."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044817">
+		<string name="name" value="Scroll for Knuckler for Attack 50%"/>
+		<string name="desc" value="Improves attack on Knucklers.\nSuccess rate: 50%. Weapon Attack +5, STR +3,  DEX +1"/>
+	</imgdir>
+    <imgdir name="2044900">
+		<string name="name" value="Scroll for Gun for Attack 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+</imgdir>

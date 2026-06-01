@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4170027">
+			<string name="name" value="Hero's Key"/>
+			<string name="desc" value="A small key that can be obtained from monsters or purchased from the General Store. Use it on the #cMagic Music Box# to see the secret items that the heroes have been collecting."/>
+		</imgdir>
+    <imgdir name="4170028">
+			<string name="name" value="Renegades Gem"/>
+			<string name="desc" value="A gem that can be obtained from monsters. Use it on the #cCrystal Scale# to see the secret items within. "/>
+		</imgdir>
+    <imgdir name="4170029">
+			<string name="name" value="Enchanted Teabag"/>
+			<string name="desc" value="A bag of scented herbs that can be obtained from monsters or purchased from the General Store. Drop it in the #cMagical Teapot# to reveal secret items. "/>
+		</imgdir>
+    <imgdir name="4170031">
+			<string name="name" value="Clear Mirror Glass"/>
+			<string name="desc" value="A clear mirror glass that can be obtained from monsters. Use it on the #cMermaid Mirror# to see the secret items within."/>
+		</imgdir>
+    <imgdir name="4170032">
+			<string name="name" value="Emerald Mirror Glass"/>
+			<string name="desc" value="An emerald mirror glass that can be obtained from monsters. Use it on the #cEmerald Mirror# to see the secret items within."/>
+		</imgdir>
+    <imgdir name="4170033">
+			<string name="name" value="Spinel's Mirror Glass"/>
+			<string name="desc" value="A pink mirror glass that can be obtained from monsters or purchased from the General Store. Use it on #cSpinel's Mirror# to see the secret items within."/>
+		</imgdir>
+    <imgdir name="4170035">
+			<string name="name" value="Magiquill Pen"/>
+			<string name="desc" value="Place this Magiquill Pen on the #Magical Book# to unlock the enchantment and acquire a mysterious item."/>
+		</imgdir>
+    <imgdir name="4170036">
+			<string name="name" value="Philosoquill Pen"/>
+			<string name="desc" value="Place this Philosoquill Pen on the #Philosopher's Book# to unlock the enchantment and acquire a mysterious item."/>
+		</imgdir>
+    <imgdir name="4170037">
+			<string name="name" value="Clear Mirror Glass"/>
+			<string name="desc" value="A clear mirror glass that can be obtained from monsters or purchased from the General Store. Use it on the #cMermaid Mirror# to see the secret items within."/>
+		</imgdir>
+    <imgdir name="4170038">
+			<string name="name" value="Infiniquill Pen"/>
+			<string name="desc" value="Place this Infiniquill Pen on the #Infinity Book# to unlock the enchantment and acquire a mysterious item."/>
+		</imgdir>
+    <imgdir name="4170039">
+			<string name="name" value="Magi-Stone Box"/>
+			<string name="desc" value="A box made of enchanted stone. Use a #cStone Seal Breaker# to unseal this box and obtain magical items."/>
+		</imgdir>
+    <imgdir name="4170040">
+			<string name="name" value="Fairy Tears"/>
+			<string name="desc" value="Fill up a #cFairy Vial# with Fairy Tears to unseal the rare items within."/>
+		</imgdir>
+    <imgdir name="4170041">
+			<string name="name" value="Chaos Box"/>
+			<string name="desc" value="This Chaos Box contains various items. Use #cChaos Purification Stone# to unlock it."/>
+		</imgdir>
+    <imgdir name="4170042">
+			<string name="name" value="Cryptic Chest"/>
+			<string name="desc" value="Insert a Cryptic Stone in this Cryptic Chest to obtain #can amazing item#."/>
+		</imgdir>
+    <imgdir name="4170043">
+			<string name="name" value="Magic Note"/>
+			<string name="desc" value="Place this Magic Note in a #Magic Harp# to get a rare item! You can get Magic Notes from hunting monsters or from General Stores in towns. You can get a Magic Harp from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4170044">
+			<string name="name" value="Ancient Chest"/>
+			<string name="desc" value="Contains a number of different items, including some from the General Store. Use a #cMiracle Stone# to unseal this box and get the items within."/>
+		</imgdir>
+    <imgdir name="4170045">
+			<string name="name" value="Enchanting Melody"/>
+			<string name="desc" value="Place this Enchanting Melody on an #Emerald Harp# to get a rare item! You can get Enchanting Melodies from hunting monsters or from General Stores in towns. You can get an Emerald Harp from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4170049">
+			<string name="name" value="Tommelise's Key"/>
+			<string name="desc" value="Place Tommelise's Key on #cTommelise's Box# to acquire the magical items within."/>
+		</imgdir>
+    <imgdir name="4170050">
+			<string name="name" value="Andersen's Key"/>
+			<string name="desc" value="Place Andersen's Key on #cAndersen's Box# to acquire the magical items within."/>
+		</imgdir>
+    <imgdir name="4210000">
+			<string name="name" value="Moon stone ring"/>
+			<string name="desc" value="This is a seal of love that you promised to marry someone you love. If you discard it, you break off the engagement."/>
+		</imgdir>
+</imgdir>

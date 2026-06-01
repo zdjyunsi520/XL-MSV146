@@ -1,0 +1,127 @@
+<imgdir name="Npc.img">
+    <imgdir name="9120101">
+		<string name="name" value="Midori"/>
+		<string name="func" value="Assistant Hair Stylist"/>
+		<string name="n0" value="I'm Midori, the assistant, and I'm in charge of dying your hair."/>
+		<string name="n1" value="That's my dad, Tepei. He's the owner of the Hair Salon."/>
+	</imgdir>
+    <imgdir name="9120200">
+		<string name="name" value="Konpei"/>
+		<string name="n0" value="If you have reservations, now is the time to back out. It's ridiculous to walk into a fight knowing you may die right there."/>
+		<string name="n1" value="Can you keep fighting? If so, let's go into the hideout!"/>
+	</imgdir>
+    <imgdir name="9120201">
+		<string name="name" value="Konpei"/>
+		<string name="n0" value="So you're here. The one upstairs is just as feisty as you."/>
+		<string name="n1" value="Shhh, be quiet. I'm not here just standing around. I'm actually looking out as we speak."/>
+	</imgdir>
+    <imgdir name="9120202">
+		<string name="name" value="Konpei"/>
+		<string name="n0" value="We'll cut off the guys from the bottom. You take care of the one on top. "/>
+		<string name="n1" value="If you can't handle him, now is the time to back out. Don't risk your life meaninglessly!"/>
+	</imgdir>
+    <imgdir name="9120203">
+		<string name="name" value="Konpei"/>
+		<string name="n0" value="You did it! You are the savior of this town!"/>
+		<string name="n1" value="He won't be able to move for a while. Thanks a bunch!"/>
+	</imgdir>
+    <imgdir name="9200000">
+		<string name="name" value="Cody"/>
+		<string name="func" value="Wizet Wizard"/>
+		<string name="n0" value="Hey, care to help me out?"/>
+		<string name="n1" value="I'm telling you, I really AM from WIZET!"/>
+		<string name="d0" value="What's going on? I'm Cody, the head programmer of MapleStory!"/>
+		<string name="d1" value="Thanks to you, the party was bananas! Boy was it fun. Anyway, hope you liked the stuff I gave you. See you around!"/>
+	</imgdir>
+    <imgdir name="9200001">
+		<string name="name" value="Mad Bunny"/>
+		<string name="func" value="Easter Event"/>
+		<string name="n0" value="I've got a new plan for Easter this year. Talk to me..."/>
+		<string name="n1" value="Find a Golden Egg? Let's talk..."/>
+		<string name="d0" value="Sup. I'm Roy, but my boys call me The Mad Bunny. I hate Easter and I'm going to bring it down this year. There are two ways to help my gang: give us either an Easter Egg or a Golden Egg. Which one of them can you give us?"/>
+		<string name="d1" value="Hey, people are getting suspicious. There are eyes everywhere. Let's do this again next year when things cool off."/>
+	</imgdir>
+    <imgdir name="9200100">
+		<string name="name" value="Dr. Lenu"/>
+		<string name="func" value="Lens Specialist"/>
+		<string name="n0" value="Hey there! How about a beautiful pair of eyes to match your style? "/>
+		<string name="n1" value="Don't worry, these are clinically proven lenses! "/>
+	</imgdir>
+    <imgdir name="9200101">
+		<string name="name" value="Dr. Rhomes"/>
+		<string name="func" value="Lens Wizard"/>
+		<string name="n0" value="Beautiful eyes can change the way you see the world... And the way the world sees you! "/>
+		<string name="n1" value="It's a small price to pay for a life-changing look! "/>
+	</imgdir>
+    <imgdir name="9201000">
+		<string name="name" value="Moony"/>
+		<string name="func" value="Wedding Jeweler"/>
+		<string name="n0" value="Have you found true love?"/>
+		<string name="n1" value="If so, I can make you a ring worthy of your devotion..."/>
+		<string name="d0" value="Have you found true love?"/>
+		<string name="d1" value="Hand me a Golden Heart Ring and I'll mend it back perfectly."/>
+	</imgdir>
+    <imgdir name="9201001">
+		<string name="name" value="Nana(H)"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201002">
+		<string name="name" value="High Priest John"/>
+		<string name="func" value="Cathedral Wedding Officiator"/>
+	</imgdir>
+    <imgdir name="9201003">
+		<string name="name" value="Mom and Dad"/>
+		<string name="func" value="Lovable Parents"/>
+		<string name="n0" value="If you want our blessing, you'll have to show us you're serious..."/>
+		<string name="n1" value="We love you no matter what!"/>
+	</imgdir>
+    <imgdir name="9201004">
+		<string name="name" value="Ames the Wise"/>
+		<string name="func" value="Amoria's Guiding Light"/>
+		<string name="n0" value="Weddings are my game. Any questions? I may be able to help!"/>
+		<string name="n1" value="I can provide some information you might find helpful. See me anytime!"/>
+		<string name="d0" value="Weddings are my game. Any questions? I may be able to help!"/>
+		<string name="d1" value="I can provide some information you might find helpful. See me anytime!"/>
+	</imgdir>
+    <imgdir name="9201005">
+		<string name="name" value="Assistant Nicole"/>
+		<string name="func" value="Cathedral Assistant"/>
+		<string name="n0" value="Ready to enter the cathedral? "/>
+		<string name="n1" value="Just let me know and I'll help you!"/>
+	</imgdir>
+    <imgdir name="9201008">
+		<string name="name" value="Assistant Bonnie"/>
+		<string name="func" value="Chapel Staff"/>
+		<string name="n0" value="Ready to enter the chapel? "/>
+		<string name="n1" value="Just let me know and I can help you!"/>
+	</imgdir>
+    <imgdir name="9201011">
+		<string name="name" value="Pelvis Bebop"/>
+		<string name="func" value="Chapel Marriage Maestro"/>
+		<string name="n0" value="Have you got your camera ready? "/>
+		<string name="n1" value="Do you need to be seated? Just ask me!"/>
+		<string name="wedding0" value="We are gathered here today to celebrate the union of these two love birds. I've never seen a better-looking couple in all my years of running this chapel. So, do you want to travel the world and spend the rest of your life with your chosen spouse? "/>
+		<string name="wedding1" value="Very well! I pronounce you husband and wife. You may kiss the bride! "/>
+		<string name="wedding2" value="You two truly are a sight to behold. You may leave the chapel now, and may the blessing of the Maple Tree be with you. "/>
+	</imgdir>
+    <imgdir name="9201013">
+		<string name="name" value="Victoria"/>
+		<string name="func" value="Cathedral Wedding Coordinator"/>
+		<string name="n0" value="Hi! I can arrange all of your wedding needs for the cathedral whenever you're ready!"/>
+		<string name="n1" value="I love weddings!"/>
+	</imgdir>
+    <imgdir name="9201015">
+		<string name="name" value="Julius Styleman"/>
+		<string name="func" value="Heavenly Hair-Bringer"/>
+		<string name="n0" value="I am the master of a thousand hairstyles. An overlord of the comb. The best!"/>
+		<string name="n1" value="You've got the hair, I've got the do. Let's make magic!"/>
+	</imgdir>
+    <imgdir name="9201016">
+		<string name="name" value="Salon Seamus"/>
+		<string name="func" value="Streaky Stylist"/>
+		<string name="n0" value="I have some trendy new hairdos that you might like. Try me out."/>
+		<string name="n1" value="I've just started, but try me out. I have unique styles for unique people."/>
+	</imgdir>
+</imgdir>

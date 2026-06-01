@@ -1,0 +1,5 @@
+<imgdir name="1121052">
+        <string name="name" value="升龙怒" />
+        <string name="desc" value="将内心的怒火压缩成一颗强大的能量球。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount\n冷却时间：#cooltime秒 " />
+    </imgdir>

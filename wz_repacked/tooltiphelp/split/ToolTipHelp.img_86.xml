@@ -1,0 +1,87 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="103000000">
+			<string name="dual00" value="Kerning City Back Alley"/>
+		</imgdir>
+    <imgdir name="103010100">
+			<imgdir name="subway00">
+				<string name="Title" value="Abandoned Subway Station"/>
+				<imgdir name="Npc">
+					<string name="0" value="Mr. Lim"/>
+				</imgdir>
+    <imgdir name="103020020">
+			<string name="out00" value="Kerning City Bound"/>
+		</imgdir>
+    <imgdir name="103040400">
+			<string name="topFloor" value="VIP Zone"/>
+			<imgdir name="goDown">
+				<string name="Title" value="5th Floor 6th Floor Area A"/>
+				<imgdir name="Mob">
+					<string name="0" value="9410032"/>
+				</imgdir>
+    <imgdir name="103050100">
+			<imgdir name="quest00">
+				<string name="Title" value="Marble Room"/>
+			</imgdir>
+    <imgdir name="103050300">
+			<imgdir name="in00">
+				<string name="Title" value="Training Center 1"/>
+			</imgdir>
+    <imgdir name="in01">
+				<string name="Title" value="Training Center 2"/>
+			</imgdir>
+    <imgdir name="in02">
+				<string name="Title" value="Training Center 3"/>
+			</imgdir>
+    <imgdir name="240020500">
+			<string name="MD00" value="Mini Dungeon: The Round Table of Kentaurus"/>
+		</imgdir>
+    <imgdir name="240040511">
+			<string name="MD00" value="Mini Dungeon: The Restoring Memory"/>
+		</imgdir>
+    <imgdir name="240040520">
+			<string name="MD00" value="Mini Dungeon: Newt Secured Zone"/>
+		</imgdir>
+    <imgdir name="260020600">
+			<string name="MD00" value="Mini Dungeon: Hill of Sandstorms"/>
+		</imgdir>
+    <imgdir name="261000021">
+			<imgdir name="out00">
+				<string name="Title" value="Alcadno Society"/>
+				<imgdir name="Npc">
+					<string name="0" value="Maed"/>
+				</imgdir>
+    <imgdir name="261020300">
+			<string name="MD00" value="Mini Dungeon: Critical Error"/>
+		</imgdir>
+    <imgdir name="130000200">
+			<imgdir name="west00">
+				<string name="Title" value="Training Forest I"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kiku"/>
+				</imgdir>
+    <imgdir name="Mob">
+					<string name="0" value="0100122"/>
+				</imgdir>
+    <imgdir name="east00">
+				<string name="Title" value="Knights' Chamber"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kidan"/>
+				</imgdir>
+    <imgdir name="130010000">
+			<imgdir name="in00">
+				<string name="Title" value="Tino's Forest"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100120"/>
+				</imgdir>
+    <imgdir name="in01">
+				<string name="Title" value="Tiv's Forest"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100121"/>
+				</imgdir>
+    <imgdir name="130010100">
+			<imgdir name="in00">
+				<string name="Title" value="Timu's Forest"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100122"/>
+				</imgdir>
+</imgdir>

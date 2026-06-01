@@ -1,0 +1,79 @@
+<imgdir name="Cash.img">
+    <imgdir name="5010044">
+		<string name="name" value="影子风格"/>
+		<string name="desc" value="角色移动时留下残影，创造出角色的多个影像。双击图标或设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010045">
+		<string name="name" value="被雷劈"/>
+		<string name="desc" value="一个显示闪电劈在角色头上的特殊效果。双击图标或设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010046">
+		<string name="name" value="冒险岛冠军"/>
+		<string name="desc" value="一个在你面前放一张海报的特殊效果，就像你是全球冒险岛冠军一样。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010048">
+		<string name="name" value="冒险岛冠军"/>
+		<string name="desc" value="一个在你面前放一张海报的特殊效果，就像你是全球冒险岛冠军一样。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010049">
+		<string name="name" value="冒险岛冠军"/>
+		<string name="desc" value="一个在你面前放一张海报的特殊效果，就像你是全球冒险岛冠军一样。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010051">
+		<string name="name" value="圣诞树"/>
+		<string name="desc" value="用这个效果庆祝你的节日欢乐！设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010052">
+		<string name="name" value="圣诞老人雪橇"/>
+		<string name="desc" value="用这个有趣的效果给圣诞老人搭个便车！设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010053">
+		<string name="name" value="槲寄生"/>
+		<string name="desc" value="为节日之吻创造完美的借口！设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010054">
+		<string name="name" value="叮当圣诞老人"/>
+		<string name="desc" value="一个显示圣诞老人和他的两只可信驯鹿在主人头顶随着节拍起舞的特殊效果。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010055">
+		<string name="name" value="UFO"/>
+		<string name="desc" value="一个以UFO和众多彩色外星人陪伴物品主人的特殊效果。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010056">
+		<string name="name" value="花园小径"/>
+		<string name="desc" value="一个以物品主人身后留下的花朵和草地痕迹为特色的特殊效果。设置热键来开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010057">
+		<string name="name" value="花仙子"/>
+		<string name="desc" value="一个显示可爱仙女洒花特效。在Key Config中，将此效果配置在你选择的按键上以开启/关闭效果。"/>
+	</imgdir>
+    <imgdir name="5010059">
+		<string name="name" value="黑暗轨迹效果"/>
+		<string name="desc" value="留下一条黑暗能量的痕迹——没有人能逃脱你的愤怒！"/>
+	</imgdir>
+    <imgdir name="5010060">
+		<string name="name" value="颂歌效果"/>
+		<string name="desc" value="这是快乐的季节，啦啦啦！用颂歌者为冒险岛里的每个人唱歌！"/>
+	</imgdir>
+    <imgdir name="5010061">
+		<string name="name" value="红桃A"/>
+		<string name="desc" value="用红桃A展示你的情人节精神！"/>
+	</imgdir>
+    <imgdir name="5010064">
+		<string name="name" value="摇滚乐队效果"/>
+	</imgdir>
+    <imgdir name="5010065">
+		<string name="name" value="记分牌效果"/>
+	</imgdir>
+    <imgdir name="5010066">
+		<string name="name" value="迪斯科效果"/>
+	</imgdir>
+    <imgdir name="5010068">
+		<string name="name" value="天使之翼回归"/>
+		<string name="desc" value="谁知道呢？也许你会背着这些翅膀飞走！"/>
+	</imgdir>
+    <imgdir name="5010069">
+		<string name="name" value="Seraphim的暗黑翅膀"/>
+		<string name="desc" value="谁知道呢？也许你会背着这些翅膀飞走！"/>
+	</imgdir>
+</imgdir>

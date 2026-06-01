@@ -1,0 +1,5 @@
+<imgdir name="65101100">
+        <string name="name" value="Lovely Sting" />
+        <string name="desc" value="Pierce enemies with a beam of pretty power and inflict a debuff. Use the skill again to detonate the debuff." />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. You can detonate the debuff on enemies afterwards. Soul Battery skill. Recharge Chance: #onActive%" />
+    </imgdir>

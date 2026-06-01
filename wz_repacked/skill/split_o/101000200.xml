@@ -1,0 +1,5 @@
+<imgdir name="101000200">
+        <string name="name" value="Piercing Thrust" />
+        <string name="desc" value="Thrusts your Long Sword foward to knock back enemies with the tip. \n[Skill Requirements]: #cMoon Strike Lv. 1# \n[Command]: While Moon Strike is active activate #cMoon Strike# again" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

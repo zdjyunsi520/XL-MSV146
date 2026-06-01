@@ -1,0 +1,196 @@
+<imgdir name="5000238">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Growl!"/>
+		<string name="c1_s2" value="Growl..."/>
+		<string name="c1_f1" value="Grr?"/>
+		<string name="c1_f2" value="Grr? Grr??"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Oh, how comfortable! Growl!"/>
+		<string name="c2_s2" value="Like this? Growl!"/>
+		<string name="c2_s3" value="Yo-ho! Did Growlie do great?"/>
+		<string name="c2_s4" value="Like this? Growl?"/>
+		<string name="c2_f1" value="Growl, it's tiresome..."/>
+		<string name="c2_f2" value="Cute Growlie won't sit anywhere."/>
+		<string name="c2_f3" value="Master, I will take a seat if you give me a chair!"/>
+		<string name="c2_f4" value="Oh, no... Do I have to sit?"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Yo-ho! Like this?"/>
+		<string name="c3_s2" value="Growl! It feels so comfortable to sit down."/>
+		<string name="c3_s3" value="Growl, I like it so much."/>
+		<string name="c3_s4" value="Why don't you take a seat, master?"/>
+		<string name="c3_f1" value="I want to go for a walk, growl!"/>
+		<string name="c3_f2" value="Growl! Give me something to eat!"/>
+		<string name="c3_f3" value="Growl! May I lie down?"/>
+		<string name="c3_f4" value="Growl! I don't want to do it!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Growl! Aren't I so tiny and adorable, master?"/>
+		<string name="c4_s2" value="Like this? Aren't I so cute, master?"/>
+		<string name="c4_s3" value="Ow, I will listen to you from now on! Growl!"/>
+		<string name="c4_s4" value="Master! I will do anything you want!"/>
+		<string name="c4_f1" value="Grawr! I don't want to do it!"/>
+		<string name="c4_f2" value="Master, may I lie down?"/>
+		<string name="c4_f3" value="Grr, I think I have reached puberty."/>
+		<string name="c4_f4" value="Grr! If you want a seat, just take one for yourself."/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="Growl!"/>
+		<string name="c5_s2" value="Growl..."/>
+		<string name="c5_f1" value="Grrrr!"/>
+		<string name="c5_f2" value="Grr?"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Rawr! I hate you, master."/>
+		<string name="c6_s2" value="Don't be angry. You are scaring me, master."/>
+		<string name="c6_s3" value="Rawr, I'm sorry!"/>
+		<string name="c6_s4" value="Oh, no! Don't be mad!"/>
+		<string name="c6_f1" value="Rawr? What did I do wrong?"/>
+		<string name="c6_f2" value="Grrr! Why are you doing this to me?"/>
+		<string name="c6_f3" value="Grr! Grrr! Don't do that."/>
+		<string name="c6_f4" value="Grr! I hate you, master!"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="Grr, I'm sorry,"/>
+		<string name="c7_s2" value="Grr... Don't be angry, master."/>
+		<string name="c7_s3" value="Master, why are doing this to your tiny, cute tiger?"/>
+		<string name="c7_s4" value="I will be an obedient baby tiger."/>
+		<string name="c7_f1" value="I will be a good tiger."/>
+		<string name="c7_f2" value="Grr, grr! No, I hate it!"/>
+		<string name="c7_f3" value="Grawr? Is that edible?"/>
+		<string name="c7_f4" value="Hehe, I will become an erratic tiger!"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="Rawr... I regret what I have done."/>
+		<string name="c8_s2" value="Don't be angry, master! Rawr!"/>
+		<string name="c8_s3" value="Oh, please go easy on me this time."/>
+		<string name="c8_s4" value="Grawr! Don't get mad. Please just listen to what I have to say! Growl..."/>
+		<string name="c8_f1" value="If you give me a piece of rice cake, I won't eat you up!"/>
+		<string name="c8_f2" value="This is boring. Let's play something else, master!"/>
+		<string name="c8_f3" value="Growl! I'm not scared at all!"/>
+		<string name="c8_f4" value="Grrr! Why are you treating me like this?"/>
+		<string name="c9" value="poop"/>
+		<string name="c9_s1" value="...Hggg..."/>
+		<string name="c9_s2" value="...Grrr..."/>
+		<string name="c9_f1" value="Grrrr?"/>
+		<string name="c9_f2" value="Grr?"/>
+		<string name="c10" value="poop"/>
+		<string name="c10_s1" value="Growl, it feels so good!"/>
+		<string name="c10_s2" value="Growl, I pooped!"/>
+		<string name="c10_s3" value="Grr? It feels so good!"/>
+		<string name="c10_s4" value="Grr? You smell nasty, master!"/>
+		<string name="c10_f1" value="Grr... It's not coming out!"/>
+		<string name="c10_f2" value="How can I do that here? That would be embarrassing! Growl..."/>
+		<string name="c10_f3" value="I don't want to go to a bathroom now, growl."/>
+		<string name="c10_f4" value="Not here! This would be embarrassing, growl."/>
+		<string name="c11" value="poop"/>
+		<string name="c11_s1" value="Ugh, a baby tiger's poop is used as a medicine whether you believe it or not!"/>
+		<string name="c11_s2" value="Oh, I feel so much better! Are you going to poop, too?"/>
+		<string name="c11_s3" value="Grr, I feel so much better!"/>
+		<string name="c11_s4" value="Grr, it feels so good! Master, please clean this up!"/>
+		<string name="c11_f1" value="This place is so dirty! Grr!"/>
+		<string name="c11_f2" value="Feel free to take a dump and enjoy yourself, master!"/>
+		<string name="c11_f3" value="Growl, I've been having constipation lately..."/>
+		<string name="c11_f4" value="I don't want to go to stool now. Phew..."/>
+		<string name="c12" value="poop"/>
+		<string name="c12_s1" value="I feel so much better now, growl!"/>
+		<string name="c12_s2" value="Grr! Master! Look how big my poop is!"/>
+		<string name="c12_s3" value="I feel good now, grr."/>
+		<string name="c12_s4" value="Master, I'm done now! Would you please wipe my butt?"/>
+		<string name="c12_f1" value="Forget about poo-poo. Let's go for a walk."/>
+		<string name="c12_f2" value="I can't do it, because you keep looking at me! Grr."/>
+		<string name="c12_f3" value="Grr, grr! No, I hate it!"/>
+		<string name="c12_f4" value="Grr, it's not coming out."/>
+		<string name="c13" value="talk|chat|say"/>
+		<string name="c13_s1" value="Master, master! Aren't I so cute and tiny? Growl?"/>
+		<string name="c13_s2" value="I'm happen to be an excellent speaker for a tiger! I also speak a foreign language! Woof, woof!"/>
+		<string name="c13_s3" value="My cute tail wags gently. Isn't this adorable?"/>
+		<string name="c13_s4" value="What do you like about me the most, master? Tell me!"/>
+		<string name="c13_f1" value="Grr! I want to be alone now."/>
+		<string name="c13_f2" value="*growl*"/>
+		<string name="c13_f3" value="Forget it! Why don't we just go and hunt?"/>
+		<string name="c13_f4" value="I want to take a dump... Grr..."/>
+		<string name="c14" value="talk|chat|say"/>
+		<string name="c14_s1" value="In fact, I'm not a baby tiger but a kitty! Meow!"/>
+		<string name="c14_s2" value="If you give me a piece of rice cake, I won't eat you up!"/>
+		<string name="c14_s3" value="Your head is so huge, master!"/>
+		<string name="c14_s4" value="Growl! You can hunt more easily if you entrust your potions to me."/>
+		<string name="c14_f1" value="You must be quiet in places like this. Grr!"/>
+		<string name="c14_f2" value="Master, let's chat later, okay?"/>
+		<string name="c14_f3" value="Grr! I'm sleepy, master!"/>
+		<string name="c14_f4" value="Why are you always ordering me around? You play all the time, master? Grr!"/>
+		<string name="c15" value="talk|chat|say"/>
+		<string name="c15_s1" value="Shall we play a word chain? I will go first! Growl! Calcium!"/>
+		<string name="c15_s2" value="Master, were you born with legs that short?"/>
+		<string name="c15_s3" value="Tell me something hilarious! You know, a story from a long, long time ago."/>
+		<string name="c15_s4" value="Isn't Gaga's face way too long? Growl."/>
+		<string name="c15_f1" value="I want to be alone once in a while. Would you please be quiet?"/>
+		<string name="c15_f2" value="I don't want to do it once you order me, grr!"/>
+		<string name="c15_f3" value="Why don't we just go to sleep? Zzz..."/>
+		<string name="c15_f4" value="Should I go to Henesys Pig Farm? Growl!"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="Growl, I feel sleepy. Zzz..."/>
+		<string name="c16_s2" value="Growlie will go to bed now, master."/>
+		<string name="c16_s3" value="Growlie will go off to dreamland."/>
+		<string name="c16_s4" value="Good night, master... *yawn*"/>
+		<string name="c16_f1" value="Grr! It's not time to sleep yet!"/>
+		<string name="c16_f2" value="I'm too hungry to fall asleep... Give me some meat, master!"/>
+		<string name="c16_f3" value="Growlie won't sleep in somewhere as noisy as this place!"/>
+		<string name="c16_f4" value="I don't want to go to bed now, growl!"/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Growl, I feel really sleepy, master!"/>
+		<string name="c17_s2" value="I was actually feeling sleepy... You are the best, master!"/>
+		<string name="c17_s3" value="Master, would you tuck Growlie up in the bed? Growl!"/>
+		<string name="c17_s4" value="Growlie wants to sleep next to you. Zzz..."/>
+		<string name="c17_f1" value="You have to at least sing a lullaby to put me to sleep! Grr!"/>
+		<string name="c17_f2" value="Master, this is not time for you to sleep! Growl!"/>
+		<string name="c17_f3" value="I just woke up! Why do you want me to fall asleep again? Grr!"/>
+		<string name="c17_f4" value="I want to go and have fun in Korean Folk Town with you, master!"/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Have a wonderful dream, master! Dream of having billions of Mesos, growl!"/>
+		<string name="c18_s2" value="I will go to bed if you want me to, grr!"/>
+		<string name="c18_s3" value="I will sleep on my pillow, growl."/>
+		<string name="c18_s4" value="Master, don't wake Growlie up from now!"/>
+		<string name="c18_f1" value="I'm dying to eat some meat right now. I can't even fall asleep!"/>
+		<string name="c18_f2" value="I can't sleep... I miss my mom so much, growl..."/>
+		<string name="c18_f3" value="You must make a bed for me to sleep! Grr!"/>
+		<string name="c18_f4" value="Growlie wantsto chat and play with you now, master."/>
+		<string name="c19" value="iloveyou"/>
+		<string name="c19_s1" value="Growl? I'm embarrassed."/>
+		<string name="c19_s2" value="Me too, master."/>
+		<string name="c19_f1" value="Grr!"/>
+		<string name="c19_f2" value="Grrrr!"/>
+		<string name="c20" value="iloveyou"/>
+		<string name="c20_s1" value="I like you, too, master."/>
+		<string name="c20_s2" value="Oh, my! I feel so good!"/>
+		<string name="c20_s3" value="I really, really like you as well, master!"/>
+		<string name="c20_s4" value="Me too, master!"/>
+		<string name="c20_f1" value="Grr! I feel sick"/>
+		<string name="c20_f2" value="You have a good eye for tigers, grr!"/>
+		<string name="c20_f3" value="Not anyone can earn my fondness!"/>
+		<string name="c20_f4" value="Why don't you give me plenty of food before you say that?"/>
+		<string name="c21" value="iloveyou"/>
+		<string name="c21_s1" value="Oh, I don't know what to say!"/>
+		<string name="c21_s2" value="I have been in love with you as well, master!"/>
+		<string name="c21_s3" value="Master, you are the best!"/>
+		<string name="c21_s4" value="Growl, I'm happy."/>
+		<string name="c21_f1" value="Do you say those things to any person, master?"/>
+		<string name="c21_f2" value="Grr! That's not what I wanted to hear from you!"/>
+		<string name="c21_f3" value="Give me a piece of meat rather than a piece of your mind!"/>
+		<string name="c21_f4" value="Master, what about your significant other?"/>
+		<string name="c22" value="iloveyou"/>
+		<string name="c22_s1" value="I will love only you!"/>
+		<string name="c22_s2" value="This is Growlie who loves you and only you, master!"/>
+		<string name="c22_s3" value="Can you see hearts coming out from my eyes? Growl."/>
+		<string name="c22_s4" value="Growlie feels so great! I feel like I can fly across the sky!"/>
+		<string name="c22_f1" value="Should I just fly off? Growl!"/>
+		<string name="c22_f2" value="If you keep saying that, I will just run away! Grrr!"/>
+		<string name="c22_f3" value="Never mind! Why don't we go and grab something to eat?"/>
+		<string name="c22_f4" value="I also want to eat meat. I feel dizzy."/>
+		<string name="f1_s" value="Growl..."/>
+		<string name="f1_f" value="Grr!"/>
+		<string name="f2_s" value="Growl, delicious!"/>
+		<string name="f2_f" value="Grr! I'm full!"/>
+		<string name="f3_s" value="This is so delicious, master."/>
+		<string name="f3_f" value="*spit* This tastes awful!"/>
+		<string name="f4_s" value="Master! Please give me a meat everyday!"/>
+		<string name="f4_f" value="Give me a tasty side dish, grr!"/>
+		<string name="s1" value="Grr! Grrr!"/>
+		<string name="s2" value="Grr! What did you just say?"/>
+		<string name="s3" value="Master! You must not say something like that! Grr!"/>
+		<string name="s4" value="Grr! You should use only fair words!"/>
+	</imgdir>

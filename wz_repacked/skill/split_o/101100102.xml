@@ -1,0 +1,5 @@
+<imgdir name="101100102">
+        <string name="name" value="Solid Body" />
+        <string name="desc" value="Strengthens Beta&apos;s Body, improving Weapon Defense, Magic Defense, Abnormal Status Resistance, all Elemental Resistance, and Stance Rate." />
+        <string name="h" value="Permanently Increases Beta&apos;s Stats. Weapon Defense: +#pddX, Magic Defense: +#mddX, Abnormal Status Resistance: +#asrR%, All Elemental Resistance: +#terR%, Stance Rate: +#stanceProp%" />
+    </imgdir>

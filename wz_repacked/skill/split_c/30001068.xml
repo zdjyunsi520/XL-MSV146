@@ -1,0 +1,5 @@
+<imgdir name="30001068">
+        <string name="name" value="机械冲刺" />
+        <string name="desc" value="连续按两次左/右方向键可以高速移动一小段距离。\n[指令：#c→→#]" />
+        <string name="h" value="MP消耗：#mpCon，移动一小段距离" />
+    </imgdir>

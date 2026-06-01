@@ -1,0 +1,5 @@
+<imgdir name="11001020">
+        <string name="name" value="三重斩击" />
+        <string name="desc" value="纵向迅速斩击远处的敌人。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+    </imgdir>

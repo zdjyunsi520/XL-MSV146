@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5222008">
+		<string name="name" value="Reward Box"/>
+		<string name="desc" value="A gift for Cash Shop users. This box will give you one random item. Possible items include 6 never before released weapon covers! Double click to see what's inside!"/>
+	</imgdir>
+    <imgdir name="5222015">
+		<string name="name" value="Small B-Day Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5222016">
+		<string name="name" value="Medium B-Day Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5222017">
+		<string name="name" value="Large B-Day Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5222020">
+		<string name="name" value="Functional Pet Equip Box"/>
+		<string name="desc" value="A perky pet equip box that gives a random funcitonal pet equip."/>
+	</imgdir>
+    <imgdir name="5222027">
+		<string name="name" value="Halloween Surprise"/>
+		<string name="desc" value="New Cash Shop Surprise type with a Halloween theme."/>
+	</imgdir>
+    <imgdir name="5222057">
+		<string name="name" value="Hayato Surprise Box"/>
+		<string name="desc" value="Contains one of 10 random 90-day items for #cHayato# or with a Sengoku theme. Unwated items that you haven't equipped and have more than 10 days until their expiration can be exchanged with the Maple Administrator for Surprise Style Stamps, or they can be traded to other player. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="5222058">
+		<string name="name" value="Kanna Surprise Box"/>
+		<string name="desc" value="Contains one of 10 random 90-day items for #cKanna# or with a Sengoku theme. Unwated items that you haven't equipped and have more than 10 days until their expiration can be exchanged with the Maple Administrator for Surprise Style Stamps, or they can be traded to other player. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="5222059">
+		<string name="name" value="Pet Perfume Pack"/>
+		<string name="desc" value="A package containing one random Pet Perfume. Makes even the smelliest of pets a little more palatable."/>
+	</imgdir>
+    <imgdir name="5222060">
+		<string name="name" value="Premium Surprise Style Box"/>
+		<string name="desc" value="The box will give you one random Equip item. The items from the box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+	</imgdir>
+    <imgdir name="5222063">
+		<string name="name" value="Mark of Honor Hat Box"/>
+		<string name="desc" value="Grants one random helm from the commanders of the Japanese armies. Double-click to open it in your Cash tab after purchase."/>
+	</imgdir>
+    <imgdir name="5222064">
+		<string name="name" value="Halloween Costume Box"/>
+		<string name="desc" value="This box will give you one random equip with a Halloween Theme. You can trade the item to someone else if you haven't equipped it and there are more than 10 days until it expires."/>
+	</imgdir>
+    <imgdir name="5222074">
+		<string name="name" value="New Year Lucky Box"/>
+		<string name="desc" value="This box has been blessed with the luck of the new year! Open it to get up to six items at once. You could get two cubes, one pet, one time saver coupon, one equippable item, or a random reward. The rewards have a chance to be super rare, so get yours today!"/>
+	</imgdir>
+    <imgdir name="5230000">
+		<string name="name" value="The Owl of Minerva"/>
+		<string name="desc" value="The #cOwl of Minerva# represents wisdom, and can be used to search for specific items being bought or sold at the Free Market. #cDisappears after showing the search results. Shows up to 200 results#."/>
+	</imgdir>
+    <imgdir name="5230001">
+		<string name="name" value="Rookie Owl of Minerva"/>
+		<string name="desc" value="The #cOwl of Minerva# represents wisdom, and can be used to search for specific items being bought or sold at the Free Market. #cDisappears after showing the search results. Shows up to 200 results#."/>
+	</imgdir>
+    <imgdir name="5240000">
+		<string name="name" value="Monkey Banana"/>
+		<string name="desc" value="Tasty-looking monkey banana. Only edible for the pet Monkey. \nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+	</imgdir>
+    <imgdir name="5240001">
+		<string name="name" value="Micro-Chips"/>
+		<string name="desc" value="A fresh set of batteries. Only usable with the pet Robot.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+	</imgdir>
+    <imgdir name="5240002">
+		<string name="name" value="Dog Bone"/>
+		<string name="desc" value="A neatly-packaged dog bone. Only edible for the pet Puppy, Husky and Silver Husky.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+	</imgdir>
+    <imgdir name="5240003">
+		<string name="name" value="Bamboo"/>
+		<string name="desc" value="Bamboo harvested from Ellinia forests. Only edible for the pet Panda.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+	</imgdir>
+    <imgdir name="5240004">
+		<string name="name" value="Porgy"/>
+		<string name="desc" value="Just caught at Lith Harbor. Only edible for the pet Kitty, Black Pig and Penguin.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+	</imgdir>
+</imgdir>

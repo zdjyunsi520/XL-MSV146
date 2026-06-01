@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="33120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="33120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="33120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="33120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="33120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="33120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="33120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="33120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="33120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="33120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="33120043"><string name="name" value="狂豹之怒-强化"/><string name="desc" value="提升狂豹之怒的攻击力加成。"/><string name="h" value="攻击力+#z%"/></imgdir>
+    <imgdir name="33120044"><string name="name" value="狂豹之怒-活力"/><string name="desc" value="提升狂豹之怒的最大HP加成。"/><string name="h" value="+#x%最大HP"/></imgdir>
+    <imgdir name="33120045"><string name="name" value="狂豹之怒-速攻"/><string name="desc" value="提升狂豹之怒的攻击速度加成。"/><string name="h" value="+#w攻击速度"/></imgdir>
+    <imgdir name="33120046"><string name="name" value="音速咆哮-强化"/><string name="desc" value="提升音速咆哮的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="33120047"><string name="name" value="音速咆哮-扩散"/><string name="desc" value="增加音速咆哮可攻击的怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+    <imgdir name="33120048"><string name="name" value="音速咆哮-额外攻击"/><string name="desc" value="增加音速咆哮的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="33120049"><string name="name" value="狂野箭矢-强化"/><string name="desc" value="提升狂野箭矢的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="33120050"><string name="name" value="狂野箭矢-破甲"/><string name="desc" value="为狂野箭矢增加无视防御效果"/><string name="h" value="#ignoreMobpdpR%无视防御"/></imgdir>
+    <imgdir name="33120051"><string name="name" value="狂野箭矢-Boss冲刺"/><string name="desc" value="提升狂野箭矢的Boss伤害。"/><string name="h" value="#bdR%额外Boss伤害"/></imgdir>
+    <imgdir name="33121052"><string name="name" value="狂豹暴走"/><string name="desc" value="与美洲豹合为一体释放巨大怒火。"/><string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount\n冷却时间：#cooltime秒"/></imgdir>
+</imgdir>

@@ -1,0 +1,96 @@
+<imgdir name="Consume.img">
+    <imgdir name="2028196">
+		<string name="desc" value="A box containing 1 of 15 2014 Mega Luck Bits (including 3 special Bits). #cDouble-click# to open."/>
+		<string name="name" value="2014 Mega Luck Special Bit-Box"/>
+	</imgdir>
+    <imgdir name="2028197">
+		<string name="desc" value="A box given to successful challengers. What's inside?"/>
+		<string name="name" value="New Year's Challenge Box"/>
+	</imgdir>
+    <imgdir name="2028202">
+		<string name="desc" value="Contains a potion that will transform you into a Pipsqueak monster."/>
+		<string name="name" value="Pipsqueak Monster Metamorph Box"/>
+	</imgdir>
+    <imgdir name="2028203">
+		<string name="desc" value="Contains a potion that will transform you into a Pipsqueak Hero."/>
+		<string name="name" value="Pipsqueak Hero Metamorph Box"/>
+	</imgdir>
+    <imgdir name="2028204">
+		<string name="desc" value="Contains an item with stats, or an item from the Monster Life Coin Shop. May also contain a a Pipsqueak Hero Potion Box."/>
+		<string name="name" value="Monster Life Box"/>
+	</imgdir>
+    <imgdir name="2028206">
+		<string name="name" value="Unidentified Bubble Gum"/>
+		<string name="desc" value="#cDouble-click# this unidentified Bubble Gum to find out what it is.\n#cExpires TKTKTK.#"/>
+	</imgdir>
+    <imgdir name="2041236">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nWeapon/Magic ATT: +3 to +7, All Stats: +5\r\n#"/>
+		<string name="desc" value="Improves Heart Necklace stats."/>
+		<string name="name" value="Heart Necklace Boost Scroll 20%"/>
+	</imgdir>
+    <imgdir name="2041237">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon/Magic ATT: +1 to +3, All Stats: +3\r\n#"/>
+		<string name="desc" value="Improves Heart Necklace stats."/>
+		<string name="name" value="Heart Necklace Boost Scroll 50%"/>
+	</imgdir>
+    <imgdir name="2041238">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon/Magic ATT: +1, All Stats: +3\r\n#"/>
+		<string name="desc" value="Improves Heart Necklace stats."/>
+		<string name="name" value="Heart Necklace Boost Scroll 70%"/>
+	</imgdir>
+    <imgdir name="2043034">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="name" value="Miracle Scroll for One-Handed Sword for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043129">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Axes."/>
+		<string name="name" value="Miracle Scroll for One-Handed Axe for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043229">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Blunt weapons."/>
+		<string name="name" value="Miracle Scroll for One-Handed Blunt Weapon for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043321">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Daggers."/>
+		<string name="name" value="Miracle Scroll for Dagger for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043412">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Kataras."/>
+		<string name="name" value="Miracle Scroll for Katara for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043614">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Canes."/>
+		<string name="name" value="Miracle Scroll for Cane for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043721">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nMagic Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on Wands."/>
+		<string name="name" value="Miracle Scroll for Wand for M ATT 50%"/>
+	</imgdir>
+    <imgdir name="2043821">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nMagic Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on Staves."/>
+		<string name="name" value="Miracle Scroll for Staff for M ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044037">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed Swords."/>
+		<string name="name" value="Miracle Scroll for Two-Handed Sword for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044129">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed Axes."/>
+		<string name="name" value="Miracle Scroll for Two-Handed Axe for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044229">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed Blunt weapons."/>
+		<string name="name" value="Miracle Scroll for Two-Handed Blunt Weapon for ATT 50%"/>
+	</imgdir>
+</imgdir>

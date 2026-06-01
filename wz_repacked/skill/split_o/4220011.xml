@@ -1,0 +1,7 @@
+<imgdir name="4220011">
+        <string name="name" value="Toxic Venom" />
+        <string name="desc" value="Increases Venom&apos;s poison chance and permanently increases poison damage.\nRequired Skill: #cVenom Lv. 10#" />
+        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec, Can be stacked #dotSuperpos times" />
+        <string name="pdesc" value="Increases Venom&apos;s poison chance and permanently increases poison damage.\nRequired Skill: #cVenom Lv. 10#" />
+        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec, Can be stacked #dotSuperpos times" />
+    </imgdir>

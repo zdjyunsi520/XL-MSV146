@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="30028005"><string name="name" value="优秀的高级祝福"/><string name="desc" value="[潜能技能]\n大幅提升攻击力、魔力、防御力、命中率、回避率、最大HP和最大MP。减少使用技能时的MP消耗量。可与其他增益技能叠加，但与高级祝福不能叠加。"/><string name="h1" value="MP Cost: 120. For 240 seconds - Weapon ATT: +20, Magic ATT: +20, Weapon DEF +425, Magic DEF +425, Accuracy +260, Avoidability +260, Max HP +475, Max MP +475, MP Consumption: -12%"/></imgdir>
+    <imgdir name="30028006"><string name="name" value="优秀的极速"/><string name="desc" value="[潜能技能]\n消耗HP在一段时间内将攻击速度提升1级。可与其他增益技能叠加，但与极速不能叠加。"/><string name="h1" value="MP Cost: 120, Attack Speed increased for 240 seconds."/></imgdir>
+    <imgdir name="3600"><string name="bookName" value="杰诺一转"/></imgdir>
+    <imgdir name="36001000"><string name="name" value="光束曲线"/><string name="desc" value="挥舞鞭刃两次，伤害多个敌人！"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="36001001"><string name="name" value="推进爆发"/><string name="desc" value="瞬间加速推进器向前飞跃！"/><string name="h" value="MP Cost: #mpCon. Adds an extra jump when used in midair. Can be used 2 times back to back."/></imgdir>
+    <imgdir name="36000003"><string name="name" value="放射神经"/><string name="desc" value="强化腰椎的赛博神经集群，增强所有移动能力！"/><string name="h" value="Acccuracy: #accR%, Speed: #psdSpeed, Max speed: #speedMax, Jump: +#psdJump"/></imgdir>
+    <imgdir name="36001005"><string name="name" value="精确弹幕"/><string name="desc" value="发射多枚导弹轰炸范围内的敌人！消耗额外能量单位，飞行中也可使用。"/><string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Damage to enemies in range: #damage%, Number of Missiles: #bulletCount."/></imgdir>
+    <imgdir name="3610"><string name="bookName" value="杰诺二转"/></imgdir>
+    <imgdir name="36101000"><string name="name" value="流银：闪光"/><string name="desc" value="用鞭刃斩击远处的多个敌人。通过模式切换改变模式。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="36101001"><string name="name" value="离子推进"/><string name="desc" value="使用盈余能量召唤离子推进器，对敌人造成伤害并击退。按住技能键可以持续压制敌人。"/><string name="h" value="#c[Supply ]#\nEnergy Cost: #powerCon, MP Cost: #mpCon, Max Enemies: #mobCount Damage: #damage%, Knocks back enemies. Duration: #time. Energy is consumed only when the Ion Thrust is summoned."/></imgdir>
+    <imgdir name="36101003"><string name="name" value="效率流线"/><string name="desc" value="最大化能量消耗效率，提升最大HP和MP。还提供HP和MP的被动加成。"/><string name="h" value="MP Cost: #mpCon, HP and MP: +#indieMhpR% for #time sec \n[Passive Effect] : HP and MP: +#mhpX"/></imgdir>
+    <imgdir name="36101004"><string name="name" value="杰诺加速器"/><string name="desc" value="在短时间内提升武器的攻击速度。\n[需要技能]：#c杰诺精通 Lv. 5#"/><string name="h" value="MP Cost: #mpCon, Duration: #time sec"/></imgdir>
+    <imgdir name="36100005"><string name="name" value="结构完整"/><string name="desc" value="永久提升所有属性"/><string name="h" value="All Stats: +#strX"/></imgdir>
+    <imgdir name="36100006"><string name="name" value="杰诺精通"/><string name="desc" value="提升精通度和武器攻击力。"/><string name="h" value="Mastery: +#mastery%, Weapon ATT +#padX"/></imgdir>
+    <imgdir name="36101008"><string name="name" value="流银：集中"/><string name="desc" value="用鞭刃穿透敌人造成暴击！此攻击比普通攻击有更高的命中率和暴击率。通过模式切换改变模式。"/><string name="h" value="MP Cost: #mpCon, Max Monsters Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Accuracy: #y, Critical Hit Rate: #x%"/></imgdir>
+    <imgdir name="36101009"><string name="name" value="流银：起飞"/><string name="desc" value="快速挥舞鞭刃，瞬间激活推进器跳跃！通过模式切换改变模式。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="36100010"><string name="name" value="精确弹幕改造A"/><string name="desc" value="强化精确弹幕的伤害。\n[需要技能]：#c精确弹幕 Lv. 4#"/><string name="h" value="Pinpoint Salvo Damage: +#damR%"/></imgdir>
+    <imgdir name="3611"><string name="bookName" value="杰诺三转"/></imgdir>
+    <imgdir name="36111000"><string name="name" value="战斗切换：爆炸"/><string name="desc" value="展开鞭刃并引爆其能量，伤害多个敌人！通过模式切换改变模式。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="36111001"><string name="name" value="对角追击"/><string name="desc" value="激活全身推进器，以爆发力冲上天空并击退敌人！可在重力柱期间使用。"/><string name="h" value="MP Cost: #mpCon, Max Enemies hit: #mobCount, Damage: #damage%, Knock Back"/></imgdir>
+</imgdir>

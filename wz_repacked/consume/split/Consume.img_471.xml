@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023181">
+		<string name="desc" value="Rice cake soup's the best for new year! 600 HP &amp; Mana for 30 minutes. Can be stacked with other buffs."/>
+		<string name="name" value="Ancestorial Powers"/>
+	</imgdir>
+    <imgdir name="2023182">
+		<string name="desc" value="Rice cake soup's the best for new year! 1000 HP &amp; Mana for 30 minutes. Can be stacked with other buffs."/>
+		<string name="name" value="Ancestorial Powers"/>
+	</imgdir>
+    <imgdir name="2023185">
+		<string name="desc" value="A fishy buff for those who complete the Marine Museum! \n#cDuration 30 minutes\nWeapon ATT +10\nMagic ATT +10#"/>
+		<string name="name" value="Marine Museum Master Buff"/>
+	</imgdir>
+    <imgdir name="2023186">
+		<string name="desc" value="A pointy-ended buff for those who complete the Weapon Museum! \n#cDuration 1 hour\nDrop Rate x2!!"/>
+		<string name="name" value="Weapon Museum Master Buff"/>
+	</imgdir>
+    <imgdir name="2023187">
+		<string name="desc" value="A tasty buff for those who complete the Dessert Museum! \n#cDuration 30 minutes\nWeapon ATT +20\nMagic ATT +20#"/>
+		<string name="name" value="Dessert Museum Master Buff"/>
+	</imgdir>
+    <imgdir name="2431759">
+		<string name="desc" value="Contains many useful Jewel Crafting items. Double-click to open."/>
+		<string name="name" value="Jeweled Pouch"/>
+	</imgdir>
+    <imgdir name="2023188">
+		<string name="name" value="Cassandra's Spring Breeze"/>
+		<string name="desc" value="Spring breeze given to you by Cassandra for getting her a pinwheel offers Weapon ATT +20, Magic ATT +20 for 30 min. Can be stacked with other buffs."/>
+	</imgdir>
+    <imgdir name="2023191">
+		<string name="desc" value="Nothing like a little whiff of springtime to #cincrease all stats +10, Jump +10, Speed +10 for 20 minutes#. Can be stacked with buffs of different types."/>
+		<string name="name" value="Pinwheel Buff"/>
+	</imgdir>
+    <imgdir name="2023193">
+		<string name="name" value="Singles Army Blackheart Noodles Buff"/>
+		<string name="desc" value="Blackheart Day Buff for those who don't want to be single no more!\n#cDuration: 1 hr\nWeapon/Magic ATT +15\n#"/>
+	</imgdir>
+    <imgdir name="2023194">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="Th Boy Who Cried Buff. But will this buff really increase the Weapon/Magic ATT? \n#cDuration: 30 min\nAll stats +10"/>
+	</imgdir>
+    <imgdir name="2023195">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="Th Boy Who Cried Buff. But will this buff really increase the Weapon/Magic ATT? \n#cDuration: 30 min\nWeapon/Magic ATT +10"/>
+	</imgdir>
+    <imgdir name="2023196">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="Th Boy Who Cried Buff. But will this buff really increase the Weapon/Magic ATT? \n#cDuration: 30 min\nSpeed +15"/>
+	</imgdir>
+    <imgdir name="2023197">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="Th Boy Who Cried Buff. But will this buff really increase the Weapon/Magic ATT? \n#cDuration: 30 min\nJump +15"/>
+	</imgdir>
+    <imgdir name="2023198">
+		<string name="name" value="The Boy Who Cried Buff"/>
+		<string name="desc" value="Th Boy Who Cried Buff. But will this buff really increase the Weapon/Magic ATT? \n#cDuration: 30 min\nWeapon/Magic DEF +150"/>
+	</imgdir>
+    <imgdir name="2023199">
+		<string name="name" value="Gingerbuff"/>
+		<string name="desc" value="By the power of a freshly-baked Gingerbread Cookie, your ATT and Magic ATT will increase by 15 for 30 minutes!"/>
+	</imgdir>
+    <imgdir name="2023200">
+		<string name="name" value="Maple Tree buff"/>
+		<string name="desc" value="Maple 10th Anniversary Maple Tree Buff\n#cDuration: 1 hr.\nWeapon/ Magic ATT +10\n#"/>
+	</imgdir>
+    <imgdir name="2028192">
+		<string name="desc" value="A box containing 1 2013 Mega Luck Bits (A, B, C, or D). #cDouble-click#k to open."/>
+		<string name="name" value="2013 Mega Luck Bit-Box &lt;Red&gt;"/>
+	</imgdir>
+    <imgdir name="2028193">
+		<string name="desc" value="A box containing 1 2013 Mega Luck Bits (E, F, G, or H). #cDouble-click#k to open."/>
+		<string name="name" value="2013 Mega Luck Bit-Box &lt;Blue&gt;"/>
+	</imgdir>
+    <imgdir name="2028194">
+		<string name="desc" value="A box containing 1 2014 Mega Luck Bits (I, J, K, or L). #cDouble-click#k to open."/>
+		<string name="name" value="2014 Mega Luck Bit-Box &lt;Green&gt;"/>
+	</imgdir>
+    <imgdir name="2028195">
+		<string name="desc" value="A box containing one 2014 Mega Luck Bit piece. #cDouble-click# to open."/>
+		<string name="name" value="2014 Mega Luck Bit-Box"/>
+	</imgdir>
+</imgdir>

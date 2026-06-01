@@ -1,0 +1,5 @@
+<imgdir name="42121002">
+        <string name="name" value="落樱" />
+        <string name="desc" value="召唤一棵樱花树，伤害附近敌人并治疗队伍成员。" />
+        <string name="h" value="精气消耗：#epCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，队伍成员HP：#x%的HP\n冷却时间：#cooltime秒" />
+    </imgdir>

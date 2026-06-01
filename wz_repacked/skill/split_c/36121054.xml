@@ -1,0 +1,5 @@
+<imgdir name="36121054">
+        <string name="name" value="紫红发电机" />
+        <string name="desc" value="激活紫红发电机，短时间内为你提供无限能量！" />
+        <string name="h" value="MP Cost: #mpCon, Gauge Charge: Max, Charge duration: #time sec\n\nCooldown: #cooltime sec" />
+    </imgdir>

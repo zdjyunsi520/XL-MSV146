@@ -1,0 +1,5 @@
+<imgdir name="4201012">
+        <string name="name" value="Savage Blow" />
+        <string name="desc" value="Deals very quick consecutive attacks to a monster." />
+        <string name="h" value="MP Cost: #mpCon, attack #mobCount enemies with #damage% damage #attackCount times." />
+    </imgdir>

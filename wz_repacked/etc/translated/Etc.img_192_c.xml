@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4170027">
+			<string name="name" value="英雄钥匙"/>
+			<string name="desc" value="可以从怪物身上获得或从杂货店购买的小钥匙。在#c魔法音乐盒#上使用它，可以看到英雄们一直在收集的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170028">
+			<string name="name" value="叛逆者宝石"/>
+			<string name="desc" value="可以从怪物身上获得的宝石。在#c水晶天平#上使用它，可以看到里面的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170029">
+			<string name="name" value="魔法茶包"/>
+			<string name="desc" value="一袋可以从怪物身上获得或从杂货店购买的香草。把它放入#c魔法茶壶#揭示秘密物品"/>
+		</imgdir>
+    <imgdir name="4170031">
+			<string name="name" value="透明镜面"/>
+			<string name="desc" value="可以从怪物身上获得的透明镜面。在#c美人鱼镜子#上使用它，可以看到里面的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170032">
+			<string name="name" value="翡翠镜面"/>
+			<string name="desc" value="可以从怪物身上获得的翡翠镜面。在#c翡翠镜子#上使用它，可以看到里面的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170033">
+			<string name="name" value="尖晶石镜面"/>
+			<string name="desc" value="可以从怪物身上获得或从杂货店购买的粉色镜面。在#c尖晶石镜子#上使用它，可以看到里面的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170035">
+			<string name="name" value="魔法羽毛笔"/>
+			<string name="desc" value="把这支魔法羽毛笔放在#魔法书#上，解锁魔法并获得神秘物品"/>
+		</imgdir>
+    <imgdir name="4170036">
+			<string name="name" value="哲人羽毛笔"/>
+			<string name="desc" value="把这支哲人羽毛笔放在#哲学家之书#上，解锁魔法并获得神秘物品"/>
+		</imgdir>
+    <imgdir name="4170037">
+			<string name="name" value="透明镜面"/>
+			<string name="desc" value="可以从怪物身上获得或从杂货店购买的透明镜面。在#c美人鱼镜子#上使用它，可以看到里面的秘密物品"/>
+		</imgdir>
+    <imgdir name="4170038">
+			<string name="name" value="无限羽毛笔"/>
+			<string name="desc" value="把这支无限羽毛笔放在#无限之书#上，解锁魔法并获得神秘物品"/>
+		</imgdir>
+    <imgdir name="4170039">
+			<string name="name" value="魔法石箱"/>
+			<string name="desc" value="用魔法石制成的箱子。使用#c破石封印#打开这个箱子，获得魔法物品"/>
+		</imgdir>
+    <imgdir name="4170040">
+			<string name="name" value="仙女之泪"/>
+			<string name="desc" value="用仙女之泪装满#c仙女瓶#，打开里面的稀有物品"/>
+		</imgdir>
+    <imgdir name="4170041">
+			<string name="name" value="混乱盒子"/>
+			<string name="desc" value="这个混乱盒子包含各种物品。使用#c混沌净化石#打开它"/>
+		</imgdir>
+    <imgdir name="4170042">
+			<string name="name" value="神秘箱子"/>
+			<string name="desc" value="在这个神秘箱子里放入神秘石，获得#c惊人的物品#"/>
+		</imgdir>
+    <imgdir name="4170043">
+			<string name="name" value="魔法音符"/>
+			<string name="desc" value="把这个魔法音符放在#魔法竖琴#里，获得稀有物品！你可以从狩猎怪物或城镇杂货店获得魔法音符。你可以从现金商店获得魔法竖琴"/>
+		</imgdir>
+    <imgdir name="4170044">
+			<string name="name" value="古代箱子"/>
+			<string name="desc" value="包含许多不同物品的箱子，包括一些来自杂货店的。使用#c奇迹石#打开这个箱子，获得里面的物品"/>
+		</imgdir>
+    <imgdir name="4170045">
+			<string name="name" value="迷人旋律"/>
+			<string name="desc" value="把这个迷人旋律放在#翡翠竖琴#上，获得稀有物品！你可以从狩猎怪物或城镇杂货店获得迷人旋律。你可以从现金商店获得翡翠竖琴"/>
+		</imgdir>
+    <imgdir name="4170049">
+			<string name="name" value="拇指姑娘的钥匙"/>
+			<string name="desc" value="把拇指姑娘的钥匙放在#c拇指姑娘的箱子#上，获得里面的魔法物品"/>
+		</imgdir>
+    <imgdir name="4170050">
+			<string name="name" value="安徒生的钥匙"/>
+			<string name="desc" value="把安徒生的钥匙放在#c安徒生的箱子#上，获得里面的魔法物品"/>
+		</imgdir>
+    <imgdir name="4210000">
+			<string name="name" value="月光石戒指"/>
+			<string name="desc" value="这是你承诺与你爱的人结婚的爱的印记。如果你丢弃它，就解除了婚约"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5221022">
+        <string name="name" value="Broadside" />
+        <string name="desc" value="Hold down the skill key to continuously fire shells. These shells will explode when hitting enemies or after a short time. #cYou can move left and right while firing#. SP is not required for this skill, and can be used if you learn the #cRapid Fire skill#. The 5th shot will be an extra powerful shell." />
+        <string name="h" value="MP #mpCon consumed, fired shells explode on enemy impact or after 0.9 seconds dealing #damage% damage against up to #mobCount enemies #attackCount times. Every 5th bomb shot will either instantly KO enemies or deal #w% damage for bosses with #u attacks, an additional #100% Critical Rate, and #ignoreMobpdpR% mob DEF ignored" />
+    </imgdir>

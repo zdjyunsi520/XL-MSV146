@@ -1,0 +1,64 @@
+<imgdir name="Npc.img">
+    <imgdir name="9040010">
+		<string name="name" value="Tiger Statue"/>
+	</imgdir>
+    <imgdir name="9040011">
+		<string name="name" value="Bulletin Board"/>
+	</imgdir>
+    <imgdir name="9040012">
+		<string name="name" value="Knight Armor"/>
+	</imgdir>
+    <imgdir name="9050000">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050001">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050002">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050003">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050004">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050005">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050006">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050007">
+		<string name="name" value="Pigmi the Summoner"/>
+	</imgdir>
+    <imgdir name="9050008">
+		<string name="name" value="Pigmi and Etran"/>
+	</imgdir>
+    <imgdir name="9050009">
+		<string name="name" value="Etran's Information Board"/>
+	</imgdir>
+    <imgdir name="9050010">
+		<string name="name" value="Pet Pygmy"/>
+	</imgdir>
+    <imgdir name="9060000">
+		<string name="name" value="Kenta"/>
+		<string name="s0" value="Please protect the hog from the aliens!"/>
+	</imgdir>
+    <imgdir name="9060001">
+		<string name="name" value="Kenta"/>
+		<string name="s0" value="Please try again."/>
+	</imgdir>
+    <imgdir name="9090000">
+		<string name="name" value="Mu Mu"/>
+	</imgdir>
+    <imgdir name="9100000">
+		<string name="name" value="Kerning City Manekineko"/>
+	</imgdir>
+    <imgdir name="9100001">
+		<string name="name" value="Henesys Manekineko"/>
+	</imgdir>
+    <imgdir name="9100002">
+		<string name="name" value="Ellinia Manekineko"/>
+	</imgdir>
+</imgdir>

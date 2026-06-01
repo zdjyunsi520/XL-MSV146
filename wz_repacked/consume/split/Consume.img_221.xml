@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290914">
+		<string name="name" value="Demon Avenger Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Demon Avenger when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290915">
+		<string name="name" value="Demon Avenger Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Demon Avenger when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290916">
+		<string name="name" value="[Mastery Book] Beam Dance 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBeam Dance# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290917">
+		<string name="name" value="[Mastery Book] Beam Dance 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBeam Dance# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290918">
+		<string name="name" value="[Mastery Book] Mecha Purge 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMecha Purge# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290919">
+		<string name="name" value="[Mastery Book] Mecha Purge 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMecha Purge# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290920">
+		<string name="name" value="[Mastery Book] Hypogram Field 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cHypogram Field# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290921">
+		<string name="name" value="[Mastery Book] Hypogram Field 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cHypogram Field# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290922">
+		<string name="name" value="[Mastery Book] OOPArts Code 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cOOPArts Code# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290923">
+		<string name="name" value="[Mastery Book] OOPArts Code 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cOOPArts Code# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290924">
+		<string name="name" value="[Mastery Book] Offensive Matrix 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cOffensive Matrix# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290925">
+		<string name="name" value="[Mastery Book] Offensive Matrix 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cOffensive Matrix# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290926">
+		<string name="name" value="[Mastery Book] Instant Shock 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cInstant Shock# to 20.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290927">
+		<string name="name" value="[Mastery Book] Instant Shock 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cInstant Shock# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290928">
+		<string name="name" value="[Mastery Book] Xenon Expert 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cXenon Expert# to 20.\nJob: Xenon(4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290929">
+		<string name="name" value="[Mastery Book] Xenon Expert 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cXenon Expert# to 30.\nJob: Xenon(4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290930">
+		<string name="name" value="[Special Mastery Book] Bloody Prison 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBlood Prison# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290931">
+		<string name="name" value="[Special Mastery Book] Infernal Exceed 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cInfernal Exceed# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290932">
+		<string name="name" value="[Special Mastery Book] Beam Dance 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBeam Dance# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290933">
+		<string name="name" value="[Special Mastery Book] Mecha Purge 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMecha Purge# to 30.\nJob: Xenon (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

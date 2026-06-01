@@ -1,0 +1,7 @@
+<imgdir name="11001003">
+        <string name="name" value="Slash Blast" />
+        <string name="desc" value="Consumes MP to attack up to 6 nearby enemies simultaneously.\nRequired Skill: #cPower Strike Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Consumes MP to attack up to 6 nearby enemies simultaneously.\nRequired Skill: #cPower Strike Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

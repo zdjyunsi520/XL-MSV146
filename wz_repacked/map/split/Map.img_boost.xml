@@ -1,0 +1,160 @@
+<imgdir name="Map.img">
+    <imgdir name="boost">
+		<imgdir name="746000000">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Recovery Room"/>
+		</imgdir>
+		<imgdir name="746000001">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Lady Syl's Room"/>
+		</imgdir>
+		<imgdir name="746000002">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Coco Island Shuttle"/>
+		</imgdir>
+		<imgdir name="746000003">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Limbert's General Store"/>
+		</imgdir>
+		<imgdir name="746000004">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Knights' Secret Hall"/>
+		</imgdir>
+		<imgdir name="746000005">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Shinsoo's Nest"/>
+		</imgdir>
+		<imgdir name="746000006">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Ereve Bridge"/>
+		</imgdir>
+		<imgdir name="746000007">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Ereve Hatchery"/>
+		</imgdir>
+		<imgdir name="746000008">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Rien Excavation Site"/>
+		</imgdir>
+		<imgdir name="746000009">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Dragon Nest"/>
+		</imgdir>
+		<imgdir name="746000010">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Royal Chamber"/>
+		</imgdir>
+		<imgdir name="746000011">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Lumiere Waist Deck"/>
+		</imgdir>
+		<imgdir name="746000012">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Pantheon Great Temple"/>
+		</imgdir>
+		<imgdir name="746000013">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Lania's Home"/>
+		</imgdir>
+		<imgdir name="746000014">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="The Lovely Buster Suite"/>
+		</imgdir>
+		<imgdir name="746000015">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Ruined House"/>
+		</imgdir>
+		<imgdir name="746000016">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Mansion"/>
+		</imgdir>
+		<imgdir name="746000017">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Suspicious Laboratory"/>
+		</imgdir>
+		<imgdir name="746000018">
+			<string name="streetName" value="Battle Location"/>
+			<string name="mapName" value="Rue Power Plant"/>
+		</imgdir>
+		<imgdir name="690010000">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010001">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010009">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010008">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010007">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010006">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010005">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010004">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010003">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010002">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010010">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010011">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010012">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010013">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010014">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010015">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010016">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010017">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010018">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+		<imgdir name="690010019">
+			<string name="streetName" value="Twinkling Treasure Star"/>
+			<string name="mapName" value="Treasure Island Interior"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

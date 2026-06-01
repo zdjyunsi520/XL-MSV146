@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4220182">
+			<string name="name" value="Powerful Warrior Marble"/>
+			<string name="desc" value="Infused with a warrior's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4220183">
+			<string name="name" value="Invincible Warrior Marble"/>
+			<string name="desc" value="Infused with a warrior's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4220184">
+			<string name="name" value="Wise Magician Marble"/>
+			<string name="desc" value="Infused with a magician's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4220185">
+			<string name="name" value="Awakened Magician Marble"/>
+			<string name="desc" value="Infused with a magician's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4220186">
+			<string name="name" value="Liberated Bowman Marble"/>
+			<string name="desc" value="Infused with a bowman's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4220187">
+			<string name="name" value="Soaring Bowman Marble"/>
+			<string name="desc" value="Infused with a bowman's energy. Fills itself every time you hunt monsters within your level range. Hunt 3000 monsters to charge it completely."/>
+		</imgdir>
+    <imgdir name="4250000">
+			<string name="name" value="Basic Diamond"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nWeapon ATT+1"/>
+		</imgdir>
+    <imgdir name="4250001">
+			<string name="name" value="Intermediate Diamond"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nWeapon ATT+2"/>
+		</imgdir>
+    <imgdir name="4250002">
+			<string name="name" value="Advanced Diamond"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nWeapon ATT+3"/>
+		</imgdir>
+    <imgdir name="4250100">
+			<string name="name" value="Basic Sapphire"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nMagic ATT+1"/>
+		</imgdir>
+    <imgdir name="4250101">
+			<string name="name" value="Intermediate Sapphire"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nMagic ATT+2"/>
+		</imgdir>
+    <imgdir name="4250102">
+			<string name="name" value="Advanced Sapphire"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nMagic ATT+3"/>
+		</imgdir>
+    <imgdir name="4250200">
+			<string name="name" value="Basic Garnet"/>
+			<string name="desc" value="A jewel used to create equipment.\nAccuracy : +2"/>
+		</imgdir>
+    <imgdir name="4250201">
+			<string name="name" value="Intermediate Garnet"/>
+			<string name="desc" value="A jewel used to create equipment.\nAccuracy : +3"/>
+		</imgdir>
+    <imgdir name="4250202">
+			<string name="name" value="Advanced Garnet"/>
+			<string name="desc" value="A jewel used to create equipment.\nAccuracy : +5"/>
+		</imgdir>
+    <imgdir name="4250300">
+			<string name="name" value="Basic Opal"/>
+			<string name="desc" value="A jewel used to create equipment.\nAvoidability : +2"/>
+		</imgdir>
+    <imgdir name="4250301">
+			<string name="name" value="Intermediate Opal"/>
+			<string name="desc" value="A jewel used to create equipment.\nAvoidability : +3"/>
+		</imgdir>
+    <imgdir name="4250302">
+			<string name="name" value="Advanced Opal"/>
+			<string name="desc" value="A jewel used to create equipment.\nAvoidability : +5"/>
+		</imgdir>
+    <imgdir name="4250400">
+			<string name="name" value="Basic Amethyst"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nSpeed+2"/>
+		</imgdir>
+    <imgdir name="4250401">
+			<string name="name" value="Intermediate Amethyst"/>
+			<string name="desc" value="A jewel used primarily for item-production.\nSpeed+3"/>
+		</imgdir>
+</imgdir>

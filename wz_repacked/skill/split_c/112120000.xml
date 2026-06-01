@@ -1,0 +1,5 @@
+<imgdir name="112120000">
+        <string name="name" value="伙伴发射" />
+        <string name="desc" value="将伙伴发射向远处的敌人，最多可追加按4次[攻击键]。" />
+        <string name="h" value="伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: 1" />
+    </imgdir>

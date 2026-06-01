@@ -1,0 +1,5 @@
+<imgdir name="65121002">
+        <string name="name" value="Finale Ribbon" />
+        <string name="desc" value="Swings your ribbon with the power of love and justice to attack all nearby enemies." />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Debuff lasts #time sec, -#x% Attack Power, -#y% Party Attack Power, and Max Damage set to #u.\nCooldown: #cooltime sec, Recharge Chance: #onActive%. #cMax Damage: #MDamageOver#" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="41111000">
+        <string name="name" value="风三连斩" />
+        <string name="desc" value="释放三段精准的斩击，最多可斩击4名敌人。" />
+        <string name="h" value="消耗MP：#mpCon\n第1击-伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：2\n第2击-伤害：#x%，最大攻击敌人数：6，攻击次数：2\n第3击-伤害：#y%，最大攻击敌人数：6，攻击次数：3" />
+    </imgdir>

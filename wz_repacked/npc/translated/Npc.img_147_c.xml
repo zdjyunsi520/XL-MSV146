@@ -1,0 +1,93 @@
+<imgdir name="Npc.img">
+    <imgdir name="9075108">
+		<string name="name" value="Link 6控制装置"/>
+	</imgdir>
+    <imgdir name="9075109">
+		<string name="name" value="Link 6控制装置"/>
+	</imgdir>
+    <imgdir name="9075110">
+		<string name="name" value="Vendor-C2"/>
+		<string name="func" value="金币商店"/>
+	</imgdir>
+    <imgdir name="9075200">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075201">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075202">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075203">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075204">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075205">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075206">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075207">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9075208">
+		<string name="name" value="ESS"/>
+		<string name="d0" value="欢迎来到进化系统。"/>
+		<string name="d1" value="身心增强系统已上线。"/>
+	</imgdir>
+    <imgdir name="9090002">
+		<string name="name" value="Tommy"/>
+	</imgdir>
+    <imgdir name="9090003">
+		<string name="name" value="Bjorn"/>
+	</imgdir>
+    <imgdir name="9090004">
+		<string name="name" value="电视显示器"/>
+	</imgdir>
+    <imgdir name="9090005">
+		<string name="name" value="Pegasus"/>
+	</imgdir>
+    <imgdir name="9031000">
+		<string name="name" value="Grant"/>
+		<string name="func" value="长老"/>
+		<string name="d0" value="您好！我是Ardentmill的Grant长老。"/>
+		<string name="d1" value="您好！我是Ardentmill的Grant长老。"/>
+	</imgdir>
+    <imgdir name="9031001">
+		<string name="name" value="Saffron"/>
+		<string name="func" value="采药大师"/>
+		<string name="d0" value="想学采药吗？你来对地方了！"/>
+		<string name="d1" value="采药需要技巧。还有爱心！"/>
+	</imgdir>
+    <imgdir name="9031002">
+		<string name="name" value="Cole"/>
+		<string name="func" value="采矿大师"/>
+		<string name="d0" value="不要随便用你的镐子敲石头。宝石和矿物分布在许多不同的矿脉中。"/>
+		<string name="d1" value="我叫Cole，采矿大师。"/>
+	</imgdir>
+    <imgdir name="9031003">
+		<string name="name" value="Gere"/>
+		<string name="func" value="锻造大师"/>
+		<string name="d0" value="从被击败的怪物身上捡装备？学会自己锻造，你就再也不用那样做了。"/>
+		<string name="d1" value="多锻造装备才能变得更熟练。等等，这是不是太明显了？"/>
+	</imgdir>
+</imgdir>

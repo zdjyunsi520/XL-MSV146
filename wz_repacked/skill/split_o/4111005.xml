@@ -1,0 +1,7 @@
+<imgdir name="4111005">
+        <string name="name" value="Avenger" />
+        <string name="desc" value="Throws a throwing star. The throwing star will go through an enemy and attack the ones behind it, too." />
+        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Throws a throwing star. The throwing star will go through an enemy and attack the ones behind it, too." />
+        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

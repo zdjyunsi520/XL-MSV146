@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2512048">
+		<string name="name" value="特殊格里菲变形药水配方"/>
+		<string name="desc" value="特殊格里菲变形药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512049">
+		<string name="name" value="高级生命药水配方"/>
+		<string name="desc" value="高级生命药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512050">
+		<string name="name" value="高级生命药丸配方"/>
+		<string name="desc" value="高级生命药丸的配方。"/>
+	</imgdir>
+    <imgdir name="2512051">
+		<string name="name" value="高级魔力药水配方"/>
+		<string name="desc" value="高级魔力药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512052">
+		<string name="name" value="高级魔力药丸配方"/>
+		<string name="desc" value="高级魔力药丸的配方。"/>
+	</imgdir>
+    <imgdir name="2512053">
+		<string name="name" value="生命强化药水配方"/>
+		<string name="desc" value="生命强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512054">
+		<string name="name" value="魔力强化药水配方"/>
+		<string name="desc" value="魔力强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512055">
+		<string name="name" value="祝福药水配方"/>
+		<string name="desc" value="祝福药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512056">
+		<string name="name" value="力量强化药水配方"/>
+		<string name="desc" value="力量强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512057">
+		<string name="name" value="敏捷强化药水配方"/>
+		<string name="desc" value="敏捷强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512058">
+		<string name="name" value="智力强化药水配方"/>
+		<string name="desc" value="智力强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512059">
+		<string name="name" value="幸运强化药水配方"/>
+		<string name="desc" value="幸运强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512060">
+		<string name="name" value="高级生命强化药水配方"/>
+		<string name="desc" value="高级生命强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512061">
+		<string name="name" value="高级魔力强化药水配方"/>
+		<string name="desc" value="高级魔力强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512062">
+		<string name="name" value="高级祝福药水配方"/>
+		<string name="desc" value="高级祝福药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512063">
+		<string name="name" value="高级力量强化药水配方"/>
+		<string name="desc" value="高级力量强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512064">
+		<string name="name" value="高级敏捷强化药水配方"/>
+		<string name="desc" value="高级敏捷强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512065">
+		<string name="name" value="高级智力强化药水配方"/>
+		<string name="desc" value="高级智力强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512066">
+		<string name="name" value="高级幸运强化药水配方"/>
+		<string name="desc" value="高级幸运强化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512067">
+		<string name="name" value="基础英雄药水配方"/>
+		<string name="desc" value="基础英雄药水的配方。"/>
+	</imgdir>
+</imgdir>

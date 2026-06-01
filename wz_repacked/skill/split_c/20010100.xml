@@ -1,0 +1,5 @@
+<imgdir name="20010100">
+        <string name="name" value="冰霜风暴" />
+        <string name="pdesc" value="用冰之力量持续伤害敌人。冰量表达到#c40以上#时可用。\n[指令：#c下和右方向键 + 攻击键#]" />
+        <string name="ph" value="冰量表消耗：#iceGageCon，每#dotInterval秒造成#damage%伤害，持续#dotTime秒（最多#attackCount次），最大攻击敌人数：#mobCount，" />
+    </imgdir>

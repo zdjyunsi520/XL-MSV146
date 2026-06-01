@@ -1,0 +1,5 @@
+<imgdir name="15111024">
+        <string name="name" value="Ironclad" />
+        <string name="desc" value="Summons resilient armor that attacks and defends." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec., Damage: +#indieDamR%, Damage Absorption: -#y%" />
+    </imgdir>

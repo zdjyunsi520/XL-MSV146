@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049019">
+		<string name="autodesc" value="\r\n#c成功率：5%\r\n恢复1个先前丢失的升级槽\r\n#"/>
+		<string name="desc" value="恢复先前丢失的升级槽。无法用于现金道具。"/>
+		<string name="name" value="洗点卷轴5%"/>
+	</imgdir>
+    <imgdir name="2049024">
+		<string name="autodesc" value="#c成功率：20%\r\n恢复1个先前丢失的升级槽\r\n"/>
+		<string name="desc" value="恢复先前丢失的升级槽。无法用于现金道具。"/>
+		<string name="name" value="洗点卷轴20%"/>
+	</imgdir>
+    <imgdir name="2049215">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+3至+5\r\n#"/>
+		<string name="desc" value="提升饰品（吊坠、腰带、戒指）的力量属性。"/>
+		<string name="name" value="饰品力量卷轴70%"/>
+	</imgdir>
+    <imgdir name="2049216">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+3至+5\r\n#"/>
+		<string name="desc" value="提升饰品（吊坠、腰带、戒指）的敏捷属性。"/>
+		<string name="name" value="饰品敏捷卷轴70%"/>
+	</imgdir>
+    <imgdir name="2049217">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+3至+5\r\n#"/>
+		<string name="desc" value="提升饰品（吊坠、腰带、戒指）的智力属性。"/>
+		<string name="name" value="饰品智力卷轴70%"/>
+	</imgdir>
+    <imgdir name="2049218">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n运气：+3至+5\r\n#"/>
+		<string name="desc" value="提升饰品（吊坠、腰带、戒指）的运气属性。"/>
+		<string name="name" value="饰品运气卷轴70%"/>
+	</imgdir>
+    <imgdir name="2049300">
+		<string name="name" value="高级装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：100%\n2次成功：90%\n3次成功：80%\n4次成功：70%\n5次成功：60%\n6次成功：50%\n7次成功：40%\n8次成功：30%\n9次成功：20%\n10次成功：10%\n11次以上成功：5%或更低"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049301">
+		<string name="name" value="装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：80%\n2次成功：70%\n3次成功：60%\n4次成功：50%\n5次成功：40%\n6次成功：30%\n7次成功：20%\n8次成功：10%\n9次以上成功：5%或更低"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049303">
+		<string name="name" value="高级装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：100%\n2次成功：90%\n3次成功：80%\n4次成功：70%\n5次成功：60%\n6次成功：50%\n7次成功：40%\n8次成功：30%\n9次成功：20%\n10次以上成功：10%"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049306">
+		<string name="name" value="高级装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：100%\n2次成功：90%\n3次成功：80%\n4次成功：70%\n5次成功：60%\n6次成功：50%\n7次成功：40%\n8次成功：30%\n9次成功：20%\n10次以上成功：10%"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049307">
+		<string name="name" value="装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：80%\n2次成功：70%\n3次成功：60%\n4次成功：50%\n5次成功：40%\n6次成功：30%\n7次成功：20%\n8次成功：10%\n9次以上成功：5%或更低"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049323">
+		<string name="name" value="高级装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n后续成功会增加获得良好强化的几率。\n失败时物品不会被摧毁。\n\n#c[强化成功率]#\n1次成功：100%\n2次成功：90%\n3次成功：80%\n4次成功：70%\n5次成功：60%\n6次成功：50%\n7次成功：40%\n8次成功：30%\n9次成功：20%\n10次成功：10%\n11次以上成功：5%或更低"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049325">
+		<string name="name" value="高级装备强化卷轴"/>
+		<string name="desc" value="强化#c已升级的装备#。\n成功次数越多，获得良好强化的几率越高。\n失败时物品会被摧毁。\n\n#c[强化成功率]#\n1次成功：100%\n2次成功：90%\n3次成功：80%\n4次成功：70%\n5次成功：60%\n6次成功：50%\n7次成功：40%\n8次成功：30%\n9次成功：20%\n10次成功：10%\n11次以上成功：5%或更低"/>
+		<string name="autodesc" value="\r\n#c强化无剩余升级次数的装备。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049330">
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n失败时摧毁物品几率：100%\r\n将无剩余升级次数的装备额外强化2级。\r\n#"/>
+		<string name="desc" value="强化#c已完全升级的装备#。强化次数越高，应用更好属性的几率越高。"/>
+		<string name="name" value="2星强化卷轴"/>
+	</imgdir>
+    <imgdir name="2049400">
+		<string name="name" value="高级潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：90%。失败时物品被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049401">
+		<string name="name" value="潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：70%。失败时物品被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049402">
+		<string name="name" value="特殊潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049406">
+		<string name="name" value="特殊潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：100%。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049407">
+		<string name="name" value="高级潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：90%。失败时物品被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049408">
+		<string name="name" value="潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不扣除可用升级次数。\n#c只能用于普通物品。#\n成功率：70%。失败时物品被摧毁。"/>
+		<string name="autodesc" value="\r\n#c为普通装备赋予潜能。\r\n#"/>
+	</imgdir>
+</imgdir>

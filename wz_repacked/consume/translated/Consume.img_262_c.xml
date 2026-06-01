@@ -1,0 +1,71 @@
+<imgdir name="Consume.img">
+    <imgdir name="2387099">
+		<string name="name" value="雷电卡"/>
+	</imgdir>
+    <imgdir name="2387100">
+		<string name="name" value="官方骑士A卡"/>
+	</imgdir>
+    <imgdir name="2387101">
+		<string name="name" value="官方骑士B卡"/>
+	</imgdir>
+    <imgdir name="2387102">
+		<string name="name" value="官方骑士C卡"/>
+	</imgdir>
+    <imgdir name="2387103">
+		<string name="name" value="官方骑士C卡"/>
+	</imgdir>
+    <imgdir name="2387104">
+		<string name="name" value="官方骑士E卡"/>
+	</imgdir>
+    <imgdir name="2387105">
+		<string name="name" value="高级骑士A卡"/>
+	</imgdir>
+    <imgdir name="2387106">
+		<string name="name" value="高级骑士B卡"/>
+	</imgdir>
+    <imgdir name="2387107">
+		<string name="name" value="高级骑士C卡"/>
+	</imgdir>
+    <imgdir name="2387108">
+		<string name="name" value="高级骑士D卡"/>
+	</imgdir>
+    <imgdir name="2387109">
+		<string name="name" value="高级骑士E卡"/>
+	</imgdir>
+    <imgdir name="2388000">
+		<string name="name" value="玛诺卡"/>
+		<string name="desc" value="以玛诺为主题的卡片。\n#c在利捕海港附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388001">
+		<string name="name" value="国王史莱姆卡"/>
+		<string name="desc" value="以国王史莱姆为主题的卡片。\n#c在克里提乌斯城附近狩猎时移动速度+1/跳跃力+1"/>
+	</imgdir>
+    <imgdir name="2388002">
+		<string name="name" value="浮士德卡"/>
+		<string name="desc" value="以浮士德为主题的卡片。\n#c在艾琳附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388003">
+		<string name="name" value="Clang国王卡"/>
+		<string name="desc" value="以Clang国王为主题的卡片。\n#c在弗洛丽娜海滩附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388004">
+		<string name="name" value="阿里沙尔卡"/>
+		<string name="desc" value="以阿里沙尔为主题的卡片。\n#c在伊空塔附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388005">
+		<string name="name" value="计时器卡"/>
+		<string name="desc" value="以计时器为主题的卡片。\n#c在钟楼的上层狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388006">
+		<string name="name" value="蘑菇王卡"/>
+		<string name="desc" value="以蘑菇王为主题的卡片。\n#c在射手村附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388007">
+		<string name="name" value="戴勒卡"/>
+		<string name="desc" value="以戴勒为主题的卡片。\n#c在克里提乌斯城附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388008">
+		<string name="name" value="僵尸蘑菇王"/>
+		<string name="desc" value="以僵尸蘑菇王为主题的卡片。\n#c在蚂蚁洞附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+</imgdir>

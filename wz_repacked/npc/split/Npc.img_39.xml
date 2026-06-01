@@ -1,0 +1,137 @@
+<imgdir name="Npc.img">
+    <imgdir name="2191003">
+		<string name="name" value="Tony"/>
+		<string name="n0" value="Where'd my brother go?"/>
+		<string name="n1" value="People will remember my name forever!"/>
+		<string name="d0" value="This is awesome!"/>
+		<string name="d1" value="Time to leave my legacy behind..."/>
+	</imgdir>
+    <imgdir name="2191004">
+		<string name="name" value="Elex"/>
+		<string name="func" value="Kindergarten Teacher"/>
+		<string name="n0" value="Why don't those little monsters like me?"/>
+		<string name="n1" value="I gotta say, I look pretty good in an apron."/>
+		<string name="d0" value="I'm the only teacher at Edelstein's kindergarten... It's a good thing too, because those little brats would devour anybody else."/>
+		<string name="d1" value="I'm the only teacher at Edelstein's kindergarten... It's a good thing too, because those little brats would devour anybody else."/>
+	</imgdir>
+    <imgdir name="2191005">
+		<string name="name" value="Checky"/>
+		<string name="func" value="Town Mascot"/>
+		<string name="d0" value="Hey! You can't just cut in line, kid. I don't care how big your head is."/>
+		<string name="d1" value="I really gotta find a better job one of these days..."/>
+		<string name="n0" value="Welcome to Fantasy Theme World!"/>
+		<string name="n1" value="I'm handing out Fantasy Theme World maps."/>
+	</imgdir>
+    <imgdir name="2191006">
+		<string name="name" value="Smartie"/>
+		<string name="n0" value="Fantasy Theme World is the cheeriest place in Maple World!"/>
+		<string name="n1" value="This place is perfect for hide-and-seek!"/>
+		<string name="d0" value="Fantasy Theme World is the cheeriest place in Maple World!"/>
+		<string name="d1" value="Fantasy Theme World is the cheeriest place in Maple World!"/>
+	</imgdir>
+    <imgdir name="2191007">
+		<string name="name" value="Cutie"/>
+		<string name="d0" value="I like hanging around the park!"/>
+		<string name="d1" value="I wish I could hang out with Checky. He's so busy..."/>
+		<string name="n0" value="I like hanging around the park!"/>
+		<string name="n1" value="I wish I could hang out with Checky. He's so busy..."/>
+	</imgdir>
+    <imgdir name="2191008">
+		<string name="name" value="Fattie"/>
+		<string name="d0" value="Gulp! Gulp!"/>
+		<string name="d1" value="Munch! Munch!"/>
+		<string name="n0" value="Gulp! Gulp!"/>
+		<string name="n1" value="Munch! Munch!"/>
+	</imgdir>
+    <imgdir name="2191009">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="I didn't come all the way out here to have a bad time!"/>
+		<string name="d1" value="I didn't come all the way out here to have a bad time!"/>
+	</imgdir>
+    <imgdir name="2191010">
+		<string name="name" value="Smartie"/>
+		<string name="n0" value="*Sigh* I want to go home..."/>
+		<string name="n1" value="Where is it?"/>
+		<string name="d0" value="I wonder where the other kids are hiding."/>
+		<string name="d1" value="I wonder where the other kids are hiding."/>
+	</imgdir>
+    <imgdir name="2191011">
+		<string name="name" value="Cutie"/>
+		<string name="n0" value="This is the best! Hehehe!"/>
+		<string name="n1" value="This is like a big adventure!"/>
+		<string name="d0" value="I want some cotton candy!"/>
+		<string name="d1" value="I like hanging around the park!"/>
+	</imgdir>
+    <imgdir name="2191012">
+		<string name="name" value="Fattie"/>
+		<string name="d0" value="Gulp! Gulp!"/>
+		<string name="d1" value="Munch! Munch!"/>
+		<string name="n0" value="Gulp! Gulp!"/>
+		<string name="n1" value="Munch! Munch!"/>
+	</imgdir>
+    <imgdir name="2191013">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="I didn't come all the way out here to have a bad time!"/>
+		<string name="d1" value="I didn't come all the way out here to have a bad time!"/>
+		<string name="n0" value="No one's gonna find me here."/>
+		<string name="n1" value="Hide and seek is the best!"/>
+	</imgdir>
+    <imgdir name="2191014">
+		<string name="name" value="Oliver"/>
+		<string name="n0" value="Howdy! Are you having a fantastic time?"/>
+		<string name="n1" value="Welcome to Fantasy Theme World!"/>
+		<string name="func" value="Park Employee"/>
+		<string name="d0" value="Let me know if you need anything!"/>
+		<string name="d1" value="I hope you never stop having fun here."/>
+	</imgdir>
+    <imgdir name="2191015">
+		<string name="name" value="Oliver"/>
+		<string name="n0" value="Howdy! Are you having a fantastic time?"/>
+		<string name="n1" value="Welcome to Fantasy Theme World!"/>
+		<string name="func" value="Park Employee"/>
+		<string name="d0" value="Let me know if you need anything!"/>
+		<string name="d1" value="I hope you never stop having fun here."/>
+	</imgdir>
+    <imgdir name="2191016">
+		<string name="name" value="Oliver"/>
+		<string name="n0" value="Howdy! Are you having a fantastic time?"/>
+		<string name="n1" value="Welcome to Fantasy Theme World!"/>
+		<string name="func" value="Park Employee"/>
+		<string name="d0" value="Let me know if you need anything!"/>
+		<string name="d1" value="I hope you never stop having fun here."/>
+	</imgdir>
+    <imgdir name="2191017">
+		<string name="name" value="Oliver"/>
+		<string name="n0" value="Howdy! Are you having a fantastic time?"/>
+		<string name="n1" value="Welcome to Fantasy Theme World!"/>
+		<string name="func" value="Park Employee"/>
+		<string name="d0" value="Let me know if you need anything!"/>
+		<string name="d1" value="I hope you never stop having fun here."/>
+	</imgdir>
+    <imgdir name="2191018">
+		<string name="name" value="Fantastic Viking"/>
+		<string name="d0" value="(There's graffiti all over the wall.)"/>
+		<string name="d1" value="(There's still some graffiti, despite the scrubbing.)"/>
+	</imgdir>
+    <imgdir name="2191019">
+		<string name="name" value="Gyro Drop"/>
+	</imgdir>
+    <imgdir name="2191020">
+		<string name="name" value="Al Scapone"/>
+		<string name="n0" value="Howdy! Are you having a fantastic time?"/>
+		<string name="n1" value="Welcome to Fantasy Theme World!"/>
+		<string name="func" value="Park Employee"/>
+		<string name="d0" value="Graffiti is just wrong! What's the point of messing up somebody else's stuff?!"/>
+		<string name="d1" value="I hope you never stop having fun here."/>
+	</imgdir>
+    <imgdir name="2191021">
+		<string name="name" value="UFO"/>
+	</imgdir>
+    <imgdir name="2192000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="Hm..."/>
+		<string name="n1" value="This place is crowded..."/>
+		<string name="d0" value="This place is full of things I can... have fun with."/>
+		<string name="d1" value="Don't let anyone else know I'm here."/>
+	</imgdir>
+</imgdir>

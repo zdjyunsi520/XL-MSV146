@@ -1,0 +1,7 @@
+<imgdir name="4201009">
+        <string name="name" value="Channel Karma" />
+        <string name="desc" value="Maximizes Weapon Attack power." />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Duration: #time sec" />
+        <string name="pdesc" value="Maximizes Weapon Attack power." />
+        <string name="ph" value="MP Cost: #mpCon, Weapon ATT: +#PVPdamage, Duration: #time sec" />
+    </imgdir>

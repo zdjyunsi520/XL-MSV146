@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9001052">
+		<string name="name" value="Ensorcelled Knight"/>
+	</imgdir>
+    <imgdir name="9001053">
+		<string name="name" value="Deceptive Cygnus"/>
+	</imgdir>
+    <imgdir name="9001054">
+		<string name="name" value="Prickleface"/>
+	</imgdir>
+    <imgdir name="9001055">
+		<string name="name" value="Trained Attack Stirge"/>
+	</imgdir>
+    <imgdir name="9001056">
+		<string name="name" value="Unidentified Assailant"/>
+	</imgdir>
+    <imgdir name="9001057">
+		<string name="name" value="Exam Instructor Tae Roon"/>
+	</imgdir>
+    <imgdir name="9001058">
+		<string name="name" value="Inner Rage"/>
+	</imgdir>
+    <imgdir name="9300408">
+		<string name="name" value="Gold Captain"/>
+	</imgdir>
+    <imgdir name="9300409">
+		<string name="name" value="Training Robot A"/>
+	</imgdir>
+    <imgdir name="9300410">
+		<string name="name" value="Training Robot B"/>
+	</imgdir>
+    <imgdir name="9300411">
+		<string name="name" value="Training Robot C"/>
+	</imgdir>
+    <imgdir name="9300412">
+		<string name="name" value="Training Robot O"/>
+	</imgdir>
+    <imgdir name="9300413">
+		<string name="name" value="Training Robot Force"/>
+	</imgdir>
+    <imgdir name="9300414">
+		<string name="name" value="Suspicious Thief"/>
+	</imgdir>
+    <imgdir name="9300415">
+		<string name="name" value="Surl"/>
+	</imgdir>
+    <imgdir name="9300416">
+		<string name="name" value="Rowdy Puppet"/>
+	</imgdir>
+    <imgdir name="9300417">
+		<string name="name" value="Eleanor's Cockatrice"/>
+	</imgdir>
+    <imgdir name="9300418">
+		<string name="name" value="Fabio's Firebomb"/>
+	</imgdir>
+    <imgdir name="9300419">
+		<string name="name" value="Mansion Guard Robot"/>
+	</imgdir>
+    <imgdir name="9300420">
+		<string name="name" value="Emergency Guard Robot L"/>
+	</imgdir>
+</imgdir>

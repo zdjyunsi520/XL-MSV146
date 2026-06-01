@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040201">
+		<string name="name" value="眼部饰品强化卷轴 命中 60%"/>
+		<string name="desc" value="强化眼部饰品的命中。\n成功率：60%，命中+2。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040202">
+		<string name="name" value="眼部饰品强化卷轴 命中 100%"/>
+		<string name="desc" value="强化眼部饰品的命中。\n成功率：100%，命中+1"/>
+	</imgdir>
+    <imgdir name="2040203">
+		<string name="name" value="暗黑眼部饰品强化卷轴 命中 30%"/>
+		<string name="desc" value="强化眼部饰品的命中。\n成功率：30%，命中+3，敏捷+1。如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040204">
+		<string name="name" value="暗黑眼部饰品强化卷轴 命中 70%"/>
+		<string name="desc" value="强化眼部饰品的命中。\n成功率：70%，命中+2。如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040205">
+		<string name="name" value="眼部饰品强化卷轴 智力 10%"/>
+		<string name="desc" value="强化眼部饰品的智力。\n成功率：10%，智力+3，魔法防御+2。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040206">
+		<string name="name" value="眼部饰品强化卷轴 智力 60%"/>
+		<string name="desc" value="强化眼部饰品的智力。\n成功率：60%，智力+1，魔法防御+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040207">
+		<string name="name" value="眼部饰品强化卷轴 智力 100%"/>
+		<string name="desc" value="强化眼部饰品的智力。\n成功率：100%，智力+1"/>
+	</imgdir>
+    <imgdir name="2040208">
+		<string name="name" value="暗黑眼部饰品强化卷轴 智力 30%"/>
+		<string name="desc" value="强化眼部饰品的智力。\n成功率：30%，智力+3，魔法防御+2。如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040209">
+		<string name="name" value="暗黑眼部饰品强化卷轴 智力 70%"/>
+		<string name="desc" value="强化眼部饰品的智力。\n成功率：70%，智力+1，魔法防御+1。如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040211">
+		<string name="name" value="龙眼镜卷轴 100%"/>
+		<string name="desc" value="强化龙眼镜。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040212">
+		<string name="name" value="龙眼镜特殊卷轴 100%"/>
+		<string name="desc" value="强化龙眼镜。"/>
+		<string name="autodesc" value="\r\n#c需求：强化至少2次\r\n成功率：100%\r\n武器攻击：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040227">
+		<string name="name" value="龙眼镜卷轴 60%"/>
+		<string name="desc" value="强化龙眼镜的力量、敏捷、智力和幸运。\n成功率：60%，力量+1，敏捷+1，智力+1，幸运+1"/>
+	</imgdir>
+    <imgdir name="2040228">
+		<string name="name" value="龙眼镜卷轴 80%"/>
+		<string name="desc" value="强化龙眼镜的力量、敏捷、智力和幸运。\n成功率：80%，力量+1，敏捷+1，智力+1，幸运+1"/>
+	</imgdir>
+    <imgdir name="2040229">
+		<string name="name" value="龙眼镜特殊卷轴 30%"/>
+		<string name="desc" value="强化龙眼镜的攻击和魔法攻击。\n成功率：30%，攻击+1，魔法攻击+2。"/>
+	</imgdir>
+    <imgdir name="2040230">
+		<string name="name" value="龙眼镜特殊卷轴 50%"/>
+		<string name="desc" value="强化龙眼镜的攻击和魔法攻击。\n成功率：50%，攻击+1，魔法攻击+2。"/>
+	</imgdir>
+    <imgdir name="2040233">
+		<string name="name" value="眼部饰品强化卷轴 力量 60%"/>
+		<string name="desc" value="强化眼部饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040234">
+		<string name="name" value="眼部饰品强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化眼部饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040235">
+		<string name="name" value="眼部饰品强化卷轴 智力 60%"/>
+		<string name="desc" value="强化眼部饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040236">
+		<string name="name" value="眼部饰品强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化眼部饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040300">
+		<string name="name" value="耳环强化卷轴 智力 100%"/>
+		<string name="desc" value="强化耳环的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+</imgdir>

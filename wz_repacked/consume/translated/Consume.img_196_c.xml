@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290310">
+		<string name="name" value="[特殊能手册]冰川链 30"/>
+		<string name="desc" value="100%概率将#c冰川链#的最高等级提升到30级。\n职业：魔导师（冰、雷）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290311">
+		<string name="name" value="[特殊能手册]埃尔奎尼斯 30"/>
+		<string name="desc" value="100%概率将#c埃尔奎尼斯#的最高等级提升到30级。\n职业：魔导师（冰、雷）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290312">
+		<string name="name" value="[特殊能手册]天使射线 30"/>
+		<string name="desc" value="100%概率将#c天使射线#的最高等级提升到30级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290313">
+		<string name="name" value="[特殊能手册]高级祝福 30"/>
+		<string name="desc" value="100%概率将#c高级祝福#的最高等级提升到30级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290314">
+		<string name="name" value="[特殊能手册]巴哈姆特 30"/>
+		<string name="desc" value="100%概率将#c巴哈姆特#的最高等级提升到30级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290315">
+		<string name="name" value="[特殊能手册]火眼晶晶 30"/>
+		<string name="desc" value="100%概率将#c火眼晶晶#的最高等级提升到30级。\n职业：弓箭手4转、猎人\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290316">
+		<string name="name" value="[特殊能手册]暴风箭雨 30"/>
+		<string name="desc" value="100%概率将#c暴风箭雨#的最高等级提升到30级。\n职业：神射手\n条件：技能等级：5级以上"/>
+	</imgdir>
+    <imgdir name="2290317">
+		<string name="name" value="[特殊能手册]凤凰灵链 30"/>
+		<string name="desc" value="100%概率将#c凤凰灵链#的最高等级提升到30级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290318">
+		<string name="name" value="[特殊能手册]冰霜雄鹰灵链 30"/>
+		<string name="desc" value="100%概率将#c冰霜雄鹰灵链#的最高等级提升到30级。\n职业：箭神\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290319">
+		<string name="name" value="[特殊能手册]幻影步 30"/>
+		<string name="desc" value="100%概率将#c幻影步#的最高等级提升到30级。\n职业：弓箭手4转\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290320">
+		<string name="name" value="[特殊能手册]穿透箭 30"/>
+		<string name="desc" value="100%概率将#c穿透箭#的最高等级提升到30级。\n职业：箭神\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290321">
+		<string name="name" value="[特殊能手册]一击要害 30"/>
+		<string name="desc" value="100%概率将#c一击要害#的最高等级提升到30级。\n职业：箭神\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290322">
+		<string name="name" value="[能手册]火炮火箭炮 20"/>
+		<string name="desc" value="70%概率将#c火炮火箭炮#的最高等级提升到20级。\n职业：火炮手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290323">
+		<string name="name" value="[能手册]火炮火箭炮 30"/>
+		<string name="desc" value="50%概率将#c火炮火箭炮#的最高等级提升到30级。\n职业：火炮手\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290324">
+		<string name="name" value="[能手册]鹦鹉螺号攻击 20"/>
+		<string name="desc" value="70%概率将#c鹦鹉螺号战舰#的最高等级提升到20级。\n职业：火炮手、冲锋队长、船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290325">
+		<string name="name" value="[能手册]鹦鹉螺号攻击 30"/>
+		<string name="desc" value="50%概率将#c鹦鹉螺号战舰#的最高等级提升到30级。\n职业：火炮手、冲锋队长、船长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290326">
+		<string name="name" value="[能手册]海盗精神 20"/>
+		<string name="desc" value="70%概率将#c海盗精神#的最高等级提升到20级。\n职业：火炮手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290327">
+		<string name="name" value="[能手册]海盗精神 30"/>
+		<string name="desc" value="50%概率将#c海盗精神#的最高等级提升到30级。\n职业：火炮手\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290328">
+		<string name="name" value="[能手册]高级蓝色光环 20"/>
+		<string name="desc" value="70%概率将#c高级蓝色光环#的最高等级提升到20级。\n职业：战斗法师（4转）\n条件：技能等级10级以上"/>
+	</imgdir>
+    <imgdir name="2290329">
+		<string name="name" value="[能手册]超级猴子魔法 20"/>
+		<string name="desc" value="70%概率将#c超级猴子魔法#的最高等级提升到20级。\n职业：火炮手\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

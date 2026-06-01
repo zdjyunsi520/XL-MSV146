@@ -1,0 +1,5 @@
+<imgdir name="112110005">
+        <string name="name" value="防御编队" />
+        <string name="desc" value="飞行时艾卡的朋友前来支援，攻击范围内敌人。\r\n只能在#c空中#触发。\r\n#c防御编队#无法穿透BOSS装甲。" />
+        <string name="h" value="伤害（艾卡的朋友）: #damage%, 最大攻击次数: #attackCount" />
+    </imgdir>

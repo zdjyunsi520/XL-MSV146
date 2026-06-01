@@ -1,0 +1,5 @@
+<imgdir name="61121054">
+        <string name="name" value="Kaiser&apos;s Majesty" />
+        <string name="desc" value="Grants you the courage and will of the former Kaiser, resetting your Cooldown, increasing Attack Speed and ATT, and allowing you to ingore enemy defense buffs." />
+        <string name="h" value="MP Cost: #mpCon, Cooldowns Reset, Duration: #time sec, ATT +#indiePad, Attack Speed +1. Ignores enemy&apos;s attack ignore buff and attack reflection buff\n#cCooldown: #cooltime sec. Hyper Skill cooldowns not reset." />
+    </imgdir>

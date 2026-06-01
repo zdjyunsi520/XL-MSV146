@@ -1,0 +1,7 @@
+<imgdir name="22160000">
+        <string name="name" value="Dragon Fury" />
+        <string name="desc" value="When your MP is within a certain range, the focus of the Dragon strengthens and your Magic Attack increases. This effect disappears once your MP is out of that range." />
+        <string name="h" value="Magic ATT: +#damage%, MP Range: #x% to #y%" />
+        <string name="pdesc" value="When your MP is within a certain range, the focus of the Dragon strengthens and your Magic Attack increases. This effect disappears once your MP is out of that range." />
+        <string name="ph" value="Magic ATT: +#damage%, MP Range: #x% to #y%" />
+    </imgdir>

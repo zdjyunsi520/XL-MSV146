@@ -1,0 +1,5 @@
+<imgdir name="80000082">
+        <string name="name" value="Lv.2 Roo-bot Shuffle" />
+        <string name="desc" value="Your Roo-bot&apos;s encouraging presence increases your Weapon ATT and Magic ATT by 5." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT +#madX" />
+    </imgdir>

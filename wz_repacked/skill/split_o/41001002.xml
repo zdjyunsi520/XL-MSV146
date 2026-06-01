@@ -1,0 +1,5 @@
+<imgdir name="41001002">
+        <string name="name" value="Surging Blade" />
+        <string name="desc" value="One of the basic techniques of Battoujutsu. Dashes through enemies with an upward swing of the blade. Can be used four times in a row with no delay." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Dashes forward." />
+    </imgdir>

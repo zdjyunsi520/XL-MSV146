@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033941">
+			<string name="name" value="Flower Vase"/>
+			<string name="desc" value="A flower vase half-full of water. Or is it half-empty?"/>
+		</imgdir>
+    <imgdir name="4033942">
+			<string name="name" value="Black Spellbook"/>
+			<string name="desc" value="A spellbook that the corrupted magicians were carrying. Someone hexed it to make it unreadable. Not cool."/>
+		</imgdir>
+    <imgdir name="4033943">
+			<string name="name" value="Magic Orb"/>
+			<string name="desc" value="A Magic Orb that the Kritias magicians carry around. All Kritias magicians carry one, or they get laughed at."/>
+		</imgdir>
+    <imgdir name="4033944">
+			<string name="name" value="Tower Fragment"/>
+			<string name="desc" value="Kritias tower fragment. Only traces of its magic remain."/>
+		</imgdir>
+    <imgdir name="4033945">
+			<string name="name" value="Magnus's First Order"/>
+			<string name="desc" value="The first page of Magnus's written orders."/>
+		</imgdir>
+    <imgdir name="4033946">
+			<string name="name" value="Magnus's Second Order"/>
+			<string name="desc" value="The second page of Magnus's written orders."/>
+		</imgdir>
+    <imgdir name="4033947">
+			<string name="name" value="Magnus's Third Order"/>
+			<string name="desc" value="The third page of Magnus's written orders."/>
+		</imgdir>
+    <imgdir name="4033948">
+			<string name="name" value="Magnus's Handwritten Letter"/>
+			<string name="desc" value="This is definitely Magnus's handwriting. Just look how evil it is!"/>
+		</imgdir>
+    <imgdir name="4033949">
+			<string name="name" value="Smoked Dinogoth Foreleg"/>
+			<string name="desc" value="Mm mm, Dinogoth!"/>
+		</imgdir>
+    <imgdir name="4033950">
+			<string name="name" value="Hilla's Corps Supply Chest"/>
+			<string name="desc" value="A supply chest that contains combat supplies for Hilla's soldiers."/>
+		</imgdir>
+    <imgdir name="4033951">
+			<string name="name" value="Skeleton's Keepsake Gemstone"/>
+			<string name="desc" value="This gemstone from a Skeleton Soldier has the ability to reanimate the dead."/>
+		</imgdir>
+    <imgdir name="4033952">
+			<string name="name" value="Grudge Dust"/>
+			<string name="desc" value="Dust imbued with the grudge of a ghost. Use it to give the ghost closure."/>
+		</imgdir>
+    <imgdir name="4033953">
+			<string name="name" value="Hilla Corps Soldier Rib"/>
+			<string name="desc" value="A rib from a soldier in Hilla's corps."/>
+		</imgdir>
+    <imgdir name="4033954">
+			<string name="name" value="Hilla Corps Soldier Pelvic Bone"/>
+			<string name="desc" value="A pelvic bone from a soldier in Hilla's corps."/>
+		</imgdir>
+    <imgdir name="4033955">
+			<string name="name" value="Trooper Spear"/>
+			<string name="desc" value="A spear used by Bloody Reindeer troopers."/>
+		</imgdir>
+    <imgdir name="4033956">
+			<string name="name" value="Special Task Force Morning Star"/>
+			<string name="desc" value="A morning star used by the Bearwolf special task force members."/>
+		</imgdir>
+    <imgdir name="4033957">
+			<string name="name" value="Panzer Brick"/>
+			<string name="desc" value="A brick from Mini Castle Golem panzer soldiers."/>
+		</imgdir>
+    <imgdir name="4033958">
+			<string name="name" value="Dirty Knight's Magic Scroll"/>
+			<string name="desc" value="Grants you an audience with the Lion King. Or rather it would, if it weren't so filthy."/>
+		</imgdir>
+    <imgdir name="4033959">
+			<string name="name" value="Arkarium Corps Hourglass"/>
+			<string name="desc" value="This hourglass is the source of Arkarium's power."/>
+		</imgdir>
+    <imgdir name="4160107">
+			<string name="name" value="Pet Command Guide: Dilo"/>
+			<string name="desc" value="A guide that has all the commands for Dilo. \n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+</imgdir>

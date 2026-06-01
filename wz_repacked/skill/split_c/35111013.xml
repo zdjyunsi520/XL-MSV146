@@ -1,0 +1,7 @@
+<imgdir name="35111013">
+        <string name="name" value="掷骰子" />
+        <string name="desc" value="试试你的运气吧！掷骰子获得随机增益。掷到1就什么都没有。" />
+        <string name="h" value="MP消耗：#mpCon，增益持续时间：#time秒，冷却时间：#cooltime秒" />
+        <string name="pdesc" value="试试你的运气吧！掷骰子获得随机增益。掷到1就什么都没有。" />
+        <string name="ph" value="MP消耗：#mpCon，增益持续时间：#time秒\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101121201">
+        <string name="name" value="Shadow Rain" />
+        <string name="desc" value="Zero&apos;s combined attack. Beta calls forth shower of swords to immobilize enemies. The swords then turn into Alpha&apos;s shadows to attack the enemies." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: 7, Max Enemies Hit: #mobCount.\nAlpha Shadow attack: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: ." />
+    </imgdir>

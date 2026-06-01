@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2270011">
+		<string name="name" value="蓝缎带猪"/>
+		<string name="desc" value="帮助捕捉迷宫猪的蓝缎带。"/>
+	</imgdir>
+    <imgdir name="2270012">
+		<string name="name" value="紫缎带猪"/>
+		<string name="desc" value="帮助捕捉迷宫猪的紫缎带。"/>
+	</imgdir>
+    <imgdir name="2270013">
+		<string name="name" value="即影即有相机"/>
+		<string name="desc" value="可以拍摄火多利照片的即影即有相机。"/>
+	</imgdir>
+    <imgdir name="2270014">
+		<string name="name" value="即影即有相机"/>
+		<string name="desc" value="可以拍摄浩谷照片的即影即有相机。"/>
+	</imgdir>
+    <imgdir name="2270015">
+		<string name="name" value="即影即有相机"/>
+		<string name="desc" value="可以拍摄格罗里照片的即影即有相机。"/>
+	</imgdir>
+    <imgdir name="2270016">
+		<string name="name" value="即影即有相机"/>
+		<string name="desc" value="可以拍摄老虎照片的即影即有相机。"/>
+	</imgdir>
+    <imgdir name="2270017">
+		<string name="name" value="网"/>
+		<string name="desc" value="鲁滨逊给你的网。你可以在水之通路使用它捕鱼。"/>
+	</imgdir>
+    <imgdir name="2270019">
+		<string name="name" value="网"/>
+		<string name="desc" value="用于捕捉已削弱的蛇的网。双击它来捕捉虚弱的蛇。"/>
+	</imgdir>
+    <imgdir name="2270020">
+		<string name="name" value="金属笼子"/>
+		<string name="desc" value="由金属制成的坚固笼子。双击它在埃莉诺的宠物虚弱后捕捉它。"/>
+	</imgdir>
+    <imgdir name="2270021">
+		<string name="name" value="绳子"/>
+		<string name="desc" value="用于捕捉虚弱的缎带猪的绳子。双击它来捕捉猪。"/>
+	</imgdir>
+    <imgdir name="2270022">
+		<string name="name" value="利加特捕获袋"/>
+		<string name="desc" value="用于捕获虚弱的利加特的袋子。双击使用。"/>
+	</imgdir>
+    <imgdir name="2270023">
+		<string name="name" value="捕光器"/>
+		<string name="desc" value="一个可以容纳纯净光的精华的附魔瓶。双击它来捕获虚弱的光之精灵。"/>
+	</imgdir>
+    <imgdir name="2270024">
+		<string name="name" value="空袋子"/>
+		<string name="desc" value="一个可以容纳巨型尼佩德斯的附魔袋。双击它来捕获虚弱的巨型尼佩德斯。"/>
+	</imgdir>
+    <imgdir name="2270025">
+		<string name="name" value="向导的哨子"/>
+		<string name="desc" value="音乐室出现的幽灵使用的乐谱。总共13页。"/>
+	</imgdir>
+    <imgdir name="2280000">
+		<string name="name" value="熔岩瓶"/>
+		<string name="desc" value="一个装有实际熔岩的玻璃瓶，正等待溢出。喝下这熔岩，熔岩将用火吞噬身体，使饮用者能够掌握火焰恶魔。"/>
+	</imgdir>
+    <imgdir name="2280001">
+		<string name="name" value="黑云机器"/>
+		<string name="desc" value="一种产生黑云的机械装置。使用云让角色获得烟幕技能。"/>
+	</imgdir>
+    <imgdir name="2280002">
+		<string name="name" value="坚定之手"/>
+		<string name="desc" value="一种装在类似握紧拳头的瓶子里的兴奋剂。喝下兴奋剂将让角色获得英雄意志。"/>
+	</imgdir>
+    <imgdir name="2280003">
+		<string name="name" value="[技能书] 冒险岛勇士"/>
+		<string name="desc" value="你可以用这本书学习#c冒险岛勇士#。\r\n职业：所有4转职业\r\n条件：未获得#c冒险岛勇士#。"/>
+	</imgdir>
+    <imgdir name="2280004">
+		<string name="name" value="[技能书] 无限"/>
+		<string name="desc" value="你可以用这本书学习#c无限#。\r\n职业：4转法师\r\n条件：未获得#c无限#"/>
+	</imgdir>
+    <imgdir name="2280005">
+		<string name="name" value="[技能书] 龙息"/>
+		<string name="desc" value="你可以用这本书学习#c龙息#。\r\n职业：4转弓箭手\r\n条件：未获得#c龙息#"/>
+	</imgdir>
+</imgdir>

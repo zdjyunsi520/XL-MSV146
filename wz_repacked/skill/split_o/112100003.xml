@@ -1,0 +1,5 @@
+<imgdir name="112100003">
+        <string name="name" value="Leopard&apos;s Roar" />
+        <string name="desc" value="Roar to inflict additional damage after #cLeopard&apos;s Pounce#. Also enhances the Damage and Number of Enemies Hit with #cLeopard&apos;s Paw# and #cLeopard&apos;s Pounce#.\r\n[Command] Press the #c[attack key]# after using #cLeopard&apos;s Pounce#" />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\r\n#cLeopard&apos;s Paw# and #cLeopard&apos;s Pounce# Damage: +#damR%, Max Enemies Hit: +#targetPlus" />
+    </imgdir>

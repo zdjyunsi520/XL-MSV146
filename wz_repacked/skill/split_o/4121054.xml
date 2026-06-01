@@ -1,0 +1,5 @@
+<imgdir name="4121054">
+        <string name="name" value="Bleed Dart" />
+        <string name="desc" value="Coats your stars with a deadly poison that causes bleeding, increasing Weapon Attack and inflicting continuous damage on enemies." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: +#indiePad, at #prop% chance, the bleeding effect that deals #dot% damage every second will be applied for #dotTime sec.\nCooldown: #cooltime sec" />
+    </imgdir>

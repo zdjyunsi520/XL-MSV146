@@ -1,0 +1,7 @@
+<imgdir name="2000007">
+        <string name="name" value="属性弱点" />
+        <string name="pdesc" value="有几率让敌人对魔法变得脆弱。" />
+        <string name="ph" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
+        <string name="desc" value="你的攻击使敌人对魔法攻击变得脆弱，在减益期间增加所有魔法伤害。" />
+        <string name="h" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
+    </imgdir>

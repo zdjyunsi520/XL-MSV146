@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000282">
+			<string name="name" value="Peach Seed"/>
+			<string name="desc" value="A peach seed spat out by the Peach Monkey."/>
+		</imgdir>
+    <imgdir name="4000283">
+			<string name="name" value="Bear Foot"/>
+			<string name="desc" value="A huge, thick bear foot."/>
+		</imgdir>
+    <imgdir name="4000284">
+			<string name="name" value="Yellow Belt"/>
+			<string name="desc" value="A long yellow belt that the Grizzly wears around its waist."/>
+		</imgdir>
+    <imgdir name="4000285">
+			<string name="name" value="Red Belt"/>
+			<string name="desc" value="A long red belt that the Panda wears around its waist."/>
+		</imgdir>
+    <imgdir name="4000286">
+			<string name="name" value="Straw Doll"/>
+			<string name="desc" value="A yellow doll stuffed with straw."/>
+		</imgdir>
+    <imgdir name="4000287">
+			<string name="name" value="Wooden Doll"/>
+			<string name="desc" value="A wooden doll sculpted from head to toe."/>
+		</imgdir>
+    <imgdir name="4000288">
+			<string name="name" value="Broken Deer Horn"/>
+			<string name="desc" value="A white deer horn with the bottom snapped off."/>
+		</imgdir>
+    <imgdir name="4000289">
+			<string name="name" value="Cat Doll"/>
+			<string name="desc" value="A slouched grey cat doll."/>
+		</imgdir>
+    <imgdir name="4000290">
+			<string name="name" value="Porcupine Spine"/>
+			<string name="desc" value="A sharp porcupine spine that's dropped by Red or Black Porky."/>
+		</imgdir>
+    <imgdir name="4000291">
+			<string name="name" value="Broken Piece of Pot"/>
+			<string name="desc" value="A piece that fell out of a broken pot."/>
+		</imgdir>
+    <imgdir name="4000292">
+			<string name="name" value="Ginseng-Boiled Water"/>
+			<string name="desc" value="A hot pot that contains water that's been boiling with ginseng for a long time."/>
+		</imgdir>
+    <imgdir name="4000293">
+			<string name="name" value="Bellflower"/>
+			<string name="desc" value="A commonly-found root of a bellflower."/>
+		</imgdir>
+    <imgdir name="4000294">
+			<string name="name" value="100-Year-Old Bellflower"/>
+			<string name="desc" value="The root of a 100-year-old bellflower."/>
+		</imgdir>
+    <imgdir name="4000295">
+			<string name="name" value="Mr. Alli's Leather"/>
+			<string name="desc" value="A freshly torn piece of Mr. Alli's leather."/>
+		</imgdir>
+    <imgdir name="4000296">
+			<string name="name" value="Mark of the Pirate"/>
+			<string name="desc" value="A unique piece of cloth used for identification among pirates."/>
+		</imgdir>
+    <imgdir name="4000297">
+			<string name="name" value="Captain's Hat"/>
+			<string name="desc" value="A pirate captain's hat."/>
+		</imgdir>
+    <imgdir name="4000298">
+			<string name="name" value="Old Paper"/>
+			<string name="desc" value="An old, blank piece of paper. Due to age, the color has tinted a faint yellow."/>
+		</imgdir>
+    <imgdir name="4000299">
+			<string name="name" value="The Book Ghost's Sheet of Paper"/>
+			<string name="desc" value="A sheet from the book that contains a writing of divination of the Mountain God. Contains unrecognizable writings."/>
+		</imgdir>
+    <imgdir name="4000300">
+			<string name="name" value="Letty's Hairball"/>
+			<string name="desc" value="A hairball from Leatty. So small and soft, it could easily fly away."/>
+		</imgdir>
+    <imgdir name="4000301">
+			<string name="name" value="Toy Drum"/>
+			<string name="desc" value="A toy drum from the drumming rabbit."/>
+		</imgdir>
+</imgdir>

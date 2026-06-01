@@ -1,0 +1,5 @@
+<imgdir name="70000036">
+        <string name="name" value="普通怪物伤害提升" />
+        <string name="desc" value="攻击普通怪物时按百分比提升伤害。" />
+        <string name="h" value="+#nbdR% damage to normal monsters" />
+    </imgdir>

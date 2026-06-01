@@ -1,0 +1,7 @@
+<imgdir name="22181000">
+        <string name="name" value="玛瑙祝福" />
+        <string name="desc" value="提升物理防御力、魔法防御力和魔法攻击力。" />
+        <string name="h" value="MP消耗：#mpCon，物理防御力：+#epdd，魔法防御力：+#emdd，魔法攻击力：+#emad，持续时间：#time 秒" />
+        <string name="pdesc" value="提升物理防御力、魔法防御力和战斗模式攻击力。" />
+        <string name="ph" value="MP消耗：#mpCon，物理防御力：+#epdd，魔法防御力：+#emdd，战斗模式攻击力：+#emad，持续时间：#time 秒" />
+    </imgdir>

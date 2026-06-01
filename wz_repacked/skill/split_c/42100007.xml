@@ -1,0 +1,5 @@
+<imgdir name="42100007">
+        <string name="name" value="灵魂炸弹" />
+        <string name="desc" value="当目标死亡时，其灵魂爆炸并对附近的敌人造成伤害。" />
+        <string name="h" value="最大攻击数：#mobCount，伤害：#damage%" />
+    </imgdir>

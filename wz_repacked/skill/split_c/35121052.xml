@@ -1,0 +1,5 @@
+<imgdir name="35121052">
+        <string name="name" value="扭曲炸弹" />
+        <string name="desc" value="引爆特殊反抗军炸弹制造扭曲力场。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount\n冷却时间：#cooltime秒" />
+    </imgdir>

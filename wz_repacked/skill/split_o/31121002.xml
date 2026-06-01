@@ -1,0 +1,7 @@
+<imgdir name="31121002">
+        <string name="name" value="Leech Aura" />
+        <string name="desc" value="Utilize your connection with the crawling slimy things of the world to sap enemy HP with every blow. You and your party members will receive life for every blow you inflict for a short time, up to 3% at a time." />
+        <string name="h" value="Fury Cost: #forceCon, #x% of damage returned to party members as HP for #time sec, Cannot recover more than 50% of Max HP. Requires 15 second cooldown." />
+        <string name="pdesc" value="Utilize your connection with the crawling slimy things of the world to sap enemy HP with every blow. You and your party members will receive life for every blow you inflict for a short time, up to 3% at a time." />
+        <string name="ph" value="Fury Cost: #forceCon, #x% of damage returned to party members as HP for #time sec." />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="36001005">
+        <string name="name" value="Pinpoint Salvo" />
+        <string name="desc" value="Fires several missiles to bombard enemies in range. Uses an extra power unit and can be used during flight." />
+        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Damage to enemies in range: #damage%, Number of Missiles: #bulletCount." />
+    </imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="50001089"><string name="name" value="圣诞雪橇"/><string name="desc" value="[大师等级：1]\n乘坐圣诞老人的雪橇出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="50001090"><string name="name" value="大天使"/><string name="desc" value="[大师等级：1]\n召唤封印在天使祝福中的大天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="50000091"><string name="name" value="大天使祝福"/><string name="desc" value="[大师等级：1] 接受大天使的祝福～"/><string name="h1" value="ATT: +5, Magic ATT: +5, Duration: 10 min"/></imgdir>
+    <imgdir name="50000093"><string name="name" value="隐藏潜力（骑士团）"/><string name="pdesc" value="在危急时刻释放你隐藏的潜力！"/><string name="ph" value="Deal #damage% damage to nearby enemies while HP is below #z%. Avoidability: +#y%."/></imgdir>
+    <imgdir name="50000097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令：#c攻击键#]"/><string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="50001098"><string name="name" value="冰之二段跳"/><string name="pdesc" value="在空中进行二段跳。"/><string name="ph" value="MP Cost: 0, Additional Jump distance\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="50000099"><string name="name" value="冰霜粉碎"/><string name="pdesc" value="将斧头化为巨剑，冰冻周围的敌人！冰量表达到#c20以上#时可以使用。\n[指令：#c上方向键+上方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Chance: #prob%, Freeze Duration: #time sec"/></imgdir>
+    <imgdir name="50000100"><string name="name" value="冰暴风暴"/><string name="pdesc" value="释放冰之力量持续伤害敌人。冰量表达到#c40以上#时可以使用。\n[指令：#c下方向键+右方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage% every #dotInterval sec for #dotTime sec (Up to #attackCount times), Max Monsters Hit: #mobCount,"/></imgdir>
+    <imgdir name="50000103"><string name="name" value="冰裂斩"/><string name="pdesc" value="猛击敌人，有概率使其眩晕！冰量表达到#c5以上#时可以使用。\n[指令：#c下方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec"/></imgdir>
+    <imgdir name="50000104"><string name="name" value="冰之诅咒"/><string name="pdesc" value="诅咒对手，把他们变成冰蜗牛！冰量表达到#c160以上#时可以使用。\n[指令：#c下方向键+上方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon. Snail Chance: #prop%, Snail Duration: #time"/></imgdir>
+    <imgdir name="50001105"><string name="name" value="冰骑士"/><string name="pdesc" value="你已变身为冰骑士！击败挑战者们，活到时间结束吧！"/><string name="ph" value="你已变身为冰骑士！击败挑战者们，活到时间结束吧！"/></imgdir>
+    <imgdir name="50001106"><string name="name" value="命运坐骑"/><string name="desc" value="[大师等级：1]\n骑上命运坐骑出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="50001179"><string name="name" value="白天使"/><string name="desc" value="[大师等级：1]\n召唤封印在白天使祝福中的白天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="50000180"><string name="name" value="白天使祝福"/><string name="desc" value="[大师等级：1] 接受白天使的祝福～"/><string name="h1" value="ATT: 12, Magic ATT: 12, Duration: 10 min"/></imgdir>
+    <imgdir name="50000190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大的力量！"/><string name="h" value="Permanently increases STR: #strX, DEX: #dexX, INT: #intX, LUK: #lukX, ATT: #padX, Magic ATT: #madX"/></imgdir>
+    <imgdir name="50000201"><string name="name" value="妖精的祈福"/><string name="desc" value="女皇的祝福增强你的战斗意志。骑士团角色达到30级、50级、70级、100级和120级时技能点增加1。"/><string name="h" value="Spirit&apos;s summon time: +#time sec, Attack: +#damage%"/></imgdir>
+    <imgdir name="50000202"><string name="name" value="贵族之心"/><string name="desc" value="增强女皇的祝福效果。"/><string name="h" value="Increase Empress&apos;s Blessing max level by #x"/></imgdir>
+    <imgdir name="50001214"><string name="name" value="骑士之守望"/><string name="desc" value="接受光之守护，在一定时间内不会被敌人的攻击击退。"/><string name="h" value="Duration: #time sec, Knock-back Resistance Rate: 100% (Cooldown: #cooltime sec)"/></imgdir>
+    <imgdir name="50001215"><string name="name" value="英雄之回声"/><string name="desc" value="[大师等级：1]\n提升附近所有玩家的物理攻击力和魔法攻击力。\n#c冷却时间：2小时#"/><string name="h1" value="MP Cost: 30, Weapon ATT and Magic ATT: + 4%, Duration: 40 min"/></imgdir>
+    <imgdir name="50008000"><string name="name" value="高级敏捷"/><string name="desc" value="[潜能技能]\n暂时提升移动速度和跳跃力。"/><string name="h1" value="MP Cost: 50, Movement Speed: +20, Jump: +10, Duration: 200 sec"/></imgdir>
+</imgdir>

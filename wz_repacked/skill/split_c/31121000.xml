@@ -1,0 +1,8 @@
+<imgdir name="31121000">
+        <string name="name" value="地狱火震荡" />
+        <string name="desc" value="从地面召唤喷发，将附近敌人炸飞到空中。空中的敌人受到100%暴击伤害的爆炸攻击。" />
+        <string name="h" value="HP消耗：#hpCon，怒气消耗：#forceCon，伤害：#damage%，最大攻击怪物数：#mobCount。将敌人击飞到空中并造成#w次暴击攻击，每次造成#v%伤害。" />
+        <string name="pdesc" value="从地面召唤喷发，将附近敌人炸飞到空中。空中的敌人受到100%暴击伤害的爆炸攻击。" />
+        <string name="ph" value="HP消耗：#hpCon，怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，#prop%概率将敌人击飞到空中造成#w次暴击攻击，每次造成#v%伤害。\n冷却时间：#cooltime秒" />
+        <string name="hch" value="HP消耗：#hpCon，怒气消耗：#forceCon，伤害：#damage%，最大攻击怪物数：#mobCount。将敌人击飞到空中造成#w次暴击攻击，每次造成#v%伤害。\n冷却时间：#hcCooltime秒" />
+    </imgdir>

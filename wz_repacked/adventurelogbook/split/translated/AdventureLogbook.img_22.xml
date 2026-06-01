@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="302">
+				<string name="title" value="2. 奇怪的探险家Tess" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="你在维多利亚岛的停留始于雅典娜·皮尔斯的召唤，她想让你去见见海盗教练Kyrin。Kyrin问你是否认识一个叫Tess的人，但你不认识这个名字。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="但命运站在你这边，你离开Kyrin才一会儿，就在六岔路口碰到了他。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="Tess一直叫你「Kao」，还想让你帮他打一只兔子。你答应了，但他得承诺事后回答你一些问题。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="即使有你的帮助，兔子还是跑了。Tess也试图溜走，但被你及时拦住了。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="他透露自己是Kyrin的哥哥，正在调查一个邪恶组织。他暗示冒险岛世界即将发生可怕的事情。" />
+					</imgdir>
+					<imgdir name="5">
+						<string name="text" value="他临别时恳求你保守他的身份秘密，直到他有机会亲自告诉Kyrin。" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046089">
+		<string name="name" value="8th Anniversary Scroll for One-Handed Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046090">
+		<string name="name" value="8th Anniversary Scroll for One-Handed Weapon Magic ATT 70%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046091">
+		<string name="name" value="Hero's Scroll for One-Handed Weapon for Magic ATT 70%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +1\r\nLUK: +1\r\nMagic Attack: +2\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046092">
+		<string name="name" value="Scroll for One-Handed Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046093">
+		<string name="name" value="Scroll for One-Handed Weapon Magic ATT 100%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046094">
+		<string name="name" value="8th Anniversary Scroll for One-Handed Weapon ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7 to 9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046095">
+		<string name="name" value="8th Anniversary Scroll for One-Handed Weapon Magic ATT 10%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7 to 9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046096">
+		<string name="name" value="Wise Scroll for One-Handed Weapon for Magic ATT 70%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +1\r\nLUK: +1\r\nMagic Attack: +2\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046097">
+		<string name="name" value="First Rank Scroll for One-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nWeapon Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046098">
+		<string name="name" value="First Rank Scroll for One-Handed Weapon for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nMagic Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046099">
+		<string name="name" value="8th Anniversary Premium Scroll for One-Handed Weapon for ATT 10%"/>
+		<string name="desc" value="Improves Attack on Maple Amethysian and Grand Maple Amethysian One-Handed weapons. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046100">
+		<string name="name" value="Scroll for Two-Handed Weapon for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046101">
+		<string name="name" value="Scroll for Two-Handed Weapon for MAGIC ATT 100%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046102">
+		<string name="name" value="Scroll for Two-Handed Weapon ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046103">
+		<string name="name" value="Scroll for Two-Handed Weapon for MAGIC ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046104">
+		<string name="name" value="Dark Scroll for Two-Handed Weapon for ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nWeapon Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046105">
+		<string name="name" value="Dark Scroll for Two-Handed Weapon for Magic ATT 40%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nMagic Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046106">
+		<string name="name" value="[6th Anniversary] Scroll for Two-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046107">
+		<string name="name" value="[6th Anniversary] Scroll for Two-Handed Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046112">
+		<string name="name" value="Scroll for Two-Handed Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+</imgdir>

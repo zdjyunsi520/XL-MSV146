@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8800104">
+		<string name="name" value="混沌扎昆手臂2"/>
+	</imgdir>
+    <imgdir name="8800105">
+		<string name="name" value="混沌扎昆手臂3"/>
+	</imgdir>
+    <imgdir name="8800106">
+		<string name="name" value="混沌扎昆手臂4"/>
+	</imgdir>
+    <imgdir name="8800107">
+		<string name="name" value="混沌扎昆手臂5"/>
+	</imgdir>
+    <imgdir name="8800108">
+		<string name="name" value="混沌扎昆手臂6"/>
+	</imgdir>
+    <imgdir name="8800109">
+		<string name="name" value="混沌扎昆手臂7"/>
+	</imgdir>
+    <imgdir name="8800110">
+		<string name="name" value="混沌扎昆手臂8"/>
+	</imgdir>
+    <imgdir name="8800111">
+		<string name="name" value="混沌布吉"/>
+	</imgdir>
+    <imgdir name="8800112">
+		<string name="name" value="混沌普库"/>
+	</imgdir>
+    <imgdir name="8800113">
+		<string name="name" value="混沌蓬库"/>
+	</imgdir>
+    <imgdir name="8800114">
+		<string name="name" value="混沌库斯科"/>
+	</imgdir>
+    <imgdir name="8800115">
+		<string name="name" value="混沌欧帕兹"/>
+	</imgdir>
+    <imgdir name="8800116">
+		<string name="name" value="混沌帕兹"/>
+	</imgdir>
+    <imgdir name="8800200">
+		<string name="name" value="拉瓦那"/>
+	</imgdir>
+    <imgdir name="8800201">
+		<string name="name" value="蓝哥布林"/>
+	</imgdir>
+    <imgdir name="8800202">
+		<string name="name" value="红哥布林"/>
+	</imgdir>
+    <imgdir name="8800203">
+		<string name="name" value="石头哥布林"/>
+	</imgdir>
+    <imgdir name="8810100">
+		<string name="name" value="混沌黑龙左头"/>
+	</imgdir>
+    <imgdir name="8810101">
+		<string name="name" value="混沌黑龙右头"/>
+	</imgdir>
+    <imgdir name="8810102">
+		<string name="name" value="混沌黑龙头部A"/>
+	</imgdir>
+</imgdir>

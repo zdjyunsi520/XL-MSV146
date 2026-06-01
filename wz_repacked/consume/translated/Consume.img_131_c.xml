@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046315">
+		<string name="name" value="饰品强化卷轴 智力 60%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046316">
+		<string name="name" value="饰品强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046317">
+		<string name="name" value="饰品强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046318">
+		<string name="name" value="饰品强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046319">
+		<string name="name" value="饰品强化卷轴 魔法攻击 15%"/>
+		<string name="desc" value="强化饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046320">
+		<string name="name" value="饰品强化卷轴 力量 60%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046321">
+		<string name="name" value="饰品强化卷轴 智力 60%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046322">
+		<string name="name" value="饰品强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046323">
+		<string name="name" value="饰品强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046324">
+		<string name="name" value="高贵饰品强化卷轴 力量 65%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046325">
+		<string name="name" value="高贵饰品强化卷轴 智力 65%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046326">
+		<string name="name" value="高贵饰品强化卷轴 敏捷 65%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046327">
+		<string name="name" value="高贵饰品强化卷轴 幸运 65%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046328">
+		<string name="name" value="高贵饰品强化卷轴 力量 15%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+4\r\n最大生命值：+20\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046329">
+		<string name="name" value="高贵饰品强化卷轴 智力 15%"/>
+		<string name="desc" value="强化饰品的智力10点和魔法值20点。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n智力：+4\r\n最大生命值：+10\r\n最大魔法值：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046330">
+		<string name="name" value="高贵饰品强化卷轴 敏捷 15%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046331">
+		<string name="name" value="高贵饰品强化卷轴 幸运 15%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n幸运：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046332">
+		<string name="name" value="高贵饰品强化卷轴 力量 50%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+3\r\n最大生命值：+10\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046333">
+		<string name="name" value="高贵饰品强化卷轴 智力 50%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n智力：+3\r\n最大生命值：+5\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046334">
+		<string name="name" value="高贵饰品强化卷轴 敏捷 50%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n敏捷：+3\r\n最大生命值：+5\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+</imgdir>

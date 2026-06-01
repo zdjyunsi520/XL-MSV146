@@ -1,0 +1,7 @@
+<imgdir name="12101002">
+        <string name="name" value="Fire Arrow" />
+        <string name="desc" value="Creates and shoots a Fire Arrow at an enemy. Especially effective against Ice Attribute monsters." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="Creates and shoots a Fire Arrow at an enemy." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
+    </imgdir>

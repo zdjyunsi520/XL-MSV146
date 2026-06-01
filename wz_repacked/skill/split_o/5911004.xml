@@ -1,0 +1,7 @@
+<imgdir name="5911004">
+        <string name="name" value="Flamethrower" />
+        <string name="desc" value="Attacks a nearby monster with scorching flames. The affected monster will continue to take damage over time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Attacks a nearby monster with scorching flames. The affected monster will continue to take damage over time." />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%" />
+    </imgdir>

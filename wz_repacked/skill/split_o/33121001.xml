@@ -1,0 +1,8 @@
+<imgdir name="33121001">
+        <string name="name" value="Exploding Arrows" />
+        <string name="desc" value="Summons a giant, jagged wheel that attacks multiple enemies. Has a chance to stun." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Max Attacks: #y, Explosion Damage: #x%, Stun Chance: #prop%, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons a giant, jagged wheel that attacks multiple enemies. Has a chance to stun." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Max Attacks: #y, Explosion Damage: #x%, Stun Chance: #prop%, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Max Attacks: #y, Explosion Damage: #x%, Stun Chance: #hcProp, Cooldown: #cooltime sec" />
+    </imgdir>

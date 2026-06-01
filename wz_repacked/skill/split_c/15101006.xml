@@ -1,0 +1,7 @@
+<imgdir name="15101006">
+        <string name="name" value="闪电充能" />
+        <string name="desc" value="暂时为指关节武器附加闪电属性，提升攻击力。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，持续时间：#time秒，附加闪电属性" />
+        <string name="pdesc" value="暂时为指关节武器附加闪电属性，提升攻击力。" />
+        <string name="ph" value="伤害：+#damage%，持续时间：#time秒，附加闪电属性" />
+    </imgdir>

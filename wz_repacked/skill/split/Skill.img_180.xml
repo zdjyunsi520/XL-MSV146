@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="3220049"><string name="name" value="Snipe - Reinforce"/><string name="desc" value="Boosts Snipe damage."/><string name="h" value="Damage: +#damR%"/></imgdir>
+    <imgdir name="3220051"><string name="name" value="Snipe - Cooldown Cutter"/><string name="desc" value="Reduces Snipe Cooldown."/><string name="h" value="Cooldown -#coolTimeR%"/></imgdir>
+    <imgdir name="3221052"><string name="name" value="High Speed Shot"/><string name="desc" value="Fires off a focused shot that pierces all enemies within range."/><string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="3221053"><string name="name" value="Epic Adventure"/><string name="desc" value="Call upon the bravery deep within to increase damage output and max damage."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Explorer class within the party"/></imgdir>
+    <imgdir name="3221054"><string name="name" value="Bullseye Shot"/><string name="desc" value="Hone in on the enemy&apos;s weak spot for a devastating shot."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Bonus Critical Rate: #x%, Bonus Max Critical Damage: #y%, Bonus Monster DEF Ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="4120030"><string name="name" value="Hyper Strength"/><string name="desc" value="Permanently increases STR."/><string name="h" value="STR +#strX"/></imgdir>
+    <imgdir name="4120031"><string name="name" value="Hyper Dexterity"/><string name="desc" value="Permanently increases DEX."/><string name="h" value="DEX +#dexX"/></imgdir>
+    <imgdir name="4120032"><string name="name" value="Hyper Intelligence"/><string name="desc" value="Permanently increases INT."/><string name="h" value="INT +#intX"/></imgdir>
+    <imgdir name="4120033"><string name="name" value="Hyper Luck"/><string name="desc" value="Permanently increases LUK."/><string name="h" value="LUK +#lukX"/></imgdir>
+    <imgdir name="4120034"><string name="name" value="Hyper Critical"/><string name="desc" value="Permanently increases Critical Rate."/><string name="h" value="Critical Rate: +#cr%"/></imgdir>
+    <imgdir name="4120035"><string name="name" value="Hyper Accuracy"/><string name="desc" value="Permanently increases Accuracy."/><string name="h" value="Accuracy +#ar%"/></imgdir>
+    <imgdir name="4120036"><string name="name" value="Hyper Health"/><string name="desc" value="Permanently increases Max HP."/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="4120037"><string name="name" value="Hyper Mana"/><string name="desc" value="Permanently increases Max MP."/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="4120038"><string name="name" value="Hyper Fury"/><string name="desc" value="Permanently increases Max DF."/><string name="h" value="Max DF +50"/></imgdir>
+    <imgdir name="4120039"><string name="name" value="Hyper Defense"/><string name="desc" value="Permanently increases Weapon DEF."/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="4120040"><string name="name" value="Hyper Magic Defense"/><string name="desc" value="Permanently increases Magic DEF."/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="4120041"><string name="name" value="Hyper Speed"/><string name="desc" value="Permanently increases Movement Speed."/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="4120042"><string name="name" value="Hyper Jump"/><string name="desc" value="Permanently increases Jump."/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="4120046"><string name="name" value="Frailty Curse - Enhance"/><string name="desc" value="Increases the ATT &amp; DEF penalty from Frailty Curse."/><string name="h" value="Additional #v% ATT and DEF reduction"/></imgdir>
+    <imgdir name="4120047"><string name="name" value="Frailty Curse - Slow"/><string name="desc" value="Increases the Speed penalty from Frailty Curse."/><string name="h" value="Additional #s Speed reduced"/></imgdir>
+</imgdir>

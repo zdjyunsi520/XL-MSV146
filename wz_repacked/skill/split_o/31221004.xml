@@ -1,0 +1,5 @@
+<imgdir name="31221004">
+        <string name="name" value="Overwhelming Power" />
+        <string name="desc" value="Greatly increases attack power and attack speed for a short time." />
+        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, ATT: +#indieDamR%, Attack Speed: +1" />
+    </imgdir>

@@ -1,0 +1,84 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022214">
+		<string name="name" value="胡椒蟹"/>
+		<string name="desc" value="由新鲜蒸蟹、胡椒、鸡蛋和秘方制成的流行中餐传统菜肴。\n物理攻击+8，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022215">
+		<string name="name" value="辣椒蟹"/>
+		<string name="desc" value="由新鲜蒸蟹、辣椒粉、鸡蛋和秘方制成的流行中餐传统菜肴。\n物理攻击+8，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022224">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022225">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022226">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022227">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022228">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022238">
+		<string name="name" value="金币齿轮戒指"/>
+		<string name="desc" value="具有奇妙力量的古老戒指。侧面似乎有模糊的铭文...\"Subani\"。物理攻击+8、魔法攻击+15、物理防御/魔法防御+12，持续8分钟。"/>
+	</imgdir>
+    <imgdir name="2022239">
+		<string name="name" value="卡桑德拉的魔法"/>
+		<string name="desc" value="卡桑德拉的祝福。武器/魔法攻击+10、武器/魔法防御+150、命中/回避率+100、移动速度+7、跳跃+5，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022240">
+		<string name="name" value="卡桑德拉的魔法"/>
+		<string name="desc" value="卡桑德拉的祝福。武器/魔法攻击+10、武器/魔法防御+150、命中/回避率+100、移动速度+7、跳跃+5，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022242">
+		<string name="name" value="埃德蒙的特殊酿造"/>
+		<string name="desc" value="用埃德蒙秘方制作的治愈补品。当你感觉不舒服时正合适！[恢复HP和MP各50%，物理攻击+14、魔法攻击+30，持续10分钟。]"/>
+	</imgdir>
+    <imgdir name="2022243">
+		<string name="name" value="索菲莉亚的项链"/>
+		<string name="desc" value="普伦德加斯特为女儿制作的珠宝，作为她16岁生日的保护礼物。"/>
+		<null name="[恢复所有HP和MP，物理防御+50、魔法防御+50，持续10分钟。可使用5次。]"/>
+	</imgdir>
+    <imgdir name="2022245">
+		<string name="desc" value="虎膏。用老虎做的。武器/魔法攻击+20、武器/魔法防御+400、命中/回避率+200、移动速度/跳跃+10，持续1小时。"/>
+		<null name="[物理攻击+60、速度+60、回避率+60，持续1分钟]"/>
+		<string name="name" value="虎膏"/>
+	</imgdir>
+    <imgdir name="2022246">
+		<string name="desc" value="虎药丸。用老虎做的。武器/魔法攻击+10、武器/魔法防御+150、命中/回避率+100、移动速度/跳跃+3，持续20分钟。"/>
+		<string name="name" value="虎药丸"/>
+	</imgdir>
+    <imgdir name="2022247">
+		<string name="name" value="红色橡皮糖史莱姆"/>
+		<string name="desc" value="超级耐嚼的橡皮糖史莱姆。这个是樱桃味的。如果真正的史莱姆也这么好吃就好了。[恢复1200HP、1200MP]"/>
+	</imgdir>
+    <imgdir name="2022248">
+		<string name="name" value="绿色橡皮糖史莱姆"/>
+		<string name="desc" value="超级耐嚼的橡皮糖史莱姆。这个是酸橙味的。如果真正的史莱姆也这么好吃就好了。[恢复600 HP]"/>
+	</imgdir>
+    <imgdir name="2022249">
+		<string name="name" value="紫色橡皮糖史莱姆"/>
+		<string name="desc" value="超级耐嚼的橡皮糖史莱姆。这个是葡萄味的。如果真正的史莱姆也这么好吃就好了。[恢复600 MP]"/>
+	</imgdir>
+    <imgdir name="2022250">
+		<string name="name" value="橙色橡皮糖史莱姆"/>
+		<string name="desc" value="超级耐嚼的橡皮糖史莱姆。这个是橙子味的。如果真正的史莱姆也这么好吃就好了。[恢复600HP、600MP]"/>
+	</imgdir>
+    <imgdir name="2022251">
+		<string name="name" value="冒险岛汽水"/>
+		<string name="desc" value="让人垂涎的美味甜食！[命中+100，持续1分钟]"/>
+	</imgdir>
+    <imgdir name="2022252">
+		<string name="name" value="太荣的纸条"/>
+		<string name="desc" value="太荣写的小纸条。这个纸条有魔法，所以能让武器攻击和魔法攻击+3，持续1分钟。"/>
+	</imgdir>
+</imgdir>

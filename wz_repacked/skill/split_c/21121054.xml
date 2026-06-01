@@ -1,0 +1,5 @@
+<imgdir name="21121054">
+        <string name="name" value="无限连击" />
+        <string name="desc" value="暂时使技能不消耗连击数。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time 秒。所有连击消耗设为0。\n冷却时间：#cooltime 秒。" />
+    </imgdir>

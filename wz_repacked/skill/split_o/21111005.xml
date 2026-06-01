@@ -1,0 +1,5 @@
+<imgdir name="21111005">
+        <string name="name" value="Snow Charge" />
+        <string name="desc" value="Infuses your polearm with Ice Attribute. " />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage%, Enemy Speed: -#x for #y sec" />
+    </imgdir>

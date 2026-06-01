@@ -1,0 +1,40 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="TakeoffAvatar">
+				<string name="Title" value="全部卸下"/>
+				<string name="Desc" value="卸下角色穿戴的所有物品。"/>
+			</imgdir>
+    <imgdir name="GiftToken">
+				<string name="Title" value="礼品券"/>
+				<string name="Desc" value="点击查看&quot;如何赠送&quot;详情"/>
+			</imgdir>
+    <imgdir name="Refund">
+				<string name="Title" value="退款"/>
+				<string name="Desc" value="除非有单独通知表明物品不可提取、购买已超过7天、部分包裹物品已使用或物品已移至游戏背包，否则可以通过点击退款来接收用NX购买的物品的退款。"/>
+			</imgdir>
+    <imgdir name="Wish">
+				<string name="Title" value="查看购物车"/>
+				<string name="Desc" value="查看我的购物车中的物品。"/>
+			</imgdir>
+    <imgdir name="Storage">
+				<string name="Title" value="保存到我的套装"/>
+				<string name="Desc" value="将此预览保存到我的套装。"/>
+			</imgdir>
+    <imgdir name="Inventory">
+				<string name="Title" value="现金背包"/>
+				<string name="Desc" value="查看现金背包和背包。"/>
+			</imgdir>
+    <imgdir name="Coordination">
+				<string name="Title" value="查看我的套装"/>
+				<string name="Desc" value="查看我保存的套装。"/>
+			</imgdir>
+    <imgdir name="Mileage">
+				<string name="Title" value="里程"/>
+				<string name="Desc" value="可以使用里程点数与Nexon Cash一起购买物品。"/>
+			</imgdir>
+    <imgdir name="MTS">
+		<imgdir name="Button">
+			<imgdir name="Check">
+				<string name="Title" value="查看点数"/>
+				<string name="Desc" value="查看剩余点数。"/>
+			</imgdir>
+</imgdir>

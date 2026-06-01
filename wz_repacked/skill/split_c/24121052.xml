@@ -1,0 +1,5 @@
+<imgdir name="24121052">
+        <string name="name" value="玫瑰卡终幕" />
+        <string name="desc" value="将一束卡牌抛向空中，卡牌落下后持续伤害敌人。" />
+        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，对卡牌附近的6名敌人造成100%伤害2次。\n冷却时间：#cooltime秒" />
+    </imgdir>

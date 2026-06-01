@@ -1,0 +1,5 @@
+<imgdir name="31220007">
+        <string name="name" value="地狱超越" />
+        <string name="desc" value="永久获得超越攻击后追加额外攻击的几率！" />
+        <string name="h" value="Chance for extra attack after Exceed: #prop%, Damage: #damage%, Bonus Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

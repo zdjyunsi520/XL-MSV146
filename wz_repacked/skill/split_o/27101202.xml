@@ -1,0 +1,5 @@
+<imgdir name="27101202">
+        <string name="name" value="Pressure Void" />
+        <string name="desc" value="[Dark Magic]\nDirect an orb of darkness to batter enemies. You can move the orb by #cholding the skill key and steering with the directional keys#." />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%. #cSteer by holding the skill key and using Left Arrow Key,Right Arrow Key.# Maximum range of #y to the left and right." />
+    </imgdir>

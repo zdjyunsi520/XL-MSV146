@@ -1,0 +1,90 @@
+<imgdir name="Npc.img">
+    <imgdir name="2470033">
+		<string name="name" value="孔吉"/>
+	</imgdir>
+    <imgdir name="2470034">
+		<string name="name" value="七星"/>
+	</imgdir>
+    <imgdir name="2470035">
+		<string name="name" value="燕子"/>
+	</imgdir>
+    <imgdir name="2470036">
+		<string name="name" value="妍奶奶"/>
+	</imgdir>
+    <imgdir name="2470037">
+		<string name="name" value="海尼姆"/>
+	</imgdir>
+    <imgdir name="2470038">
+		<string name="name" value="沈先生"/>
+	</imgdir>
+    <imgdir name="2470039">
+		<string name="name" value="沙漏"/>
+	</imgdir>
+    <imgdir name="2470040">
+		<string name="name" value="大师将军"/>
+	</imgdir>
+    <imgdir name="2470041">
+		<string name="name" value="初级军官梅丁"/>
+	</imgdir>
+    <imgdir name="2470042">
+		<string name="name" value="莱斯医生"/>
+	</imgdir>
+    <imgdir name="2470043">
+		<string name="name" value="士兵凯文"/>
+	</imgdir>
+    <imgdir name="2470044">
+		<string name="name" value="M特工"/>
+	</imgdir>
+    <imgdir name="2470045">
+		<string name="name" value="记录员"/>
+	</imgdir>
+    <imgdir name="2470046">
+		<string name="name" value="琳恩"/>
+	</imgdir>
+    <imgdir name="2480000">
+		<string name="name" value="神殿守护者"/>
+		<string name="n0" value="请不要打扰她的睡眠。"/>
+		<string name="n1" value="看看这个月时间失踪儿童名单上有谁..."/>
+		<string name="n2" value="我们不接受普通信徒。"/>
+		<string name="d0" value="你认为女神在梦想什么？"/>
+		<string name="d1" value="你认为女神在梦想什么？"/>
+	</imgdir>
+    <imgdir name="2480001">
+		<string name="name" value="记忆守护者"/>
+		<string name="n0" value="谁在照镜子？是我，还是女神？"/>
+		<string name="n1" value="...不要相信眼睛。"/>
+		<string name="d0" value="女神眼中倒映的是什么？"/>
+		<string name="d1" value="女神眼中倒映的是什么？"/>
+	</imgdir>
+    <imgdir name="2480002">
+		<string name="name" value="巫师"/>
+		<string name="n0" value="嗯，提炼的本质是视角的完美。"/>
+		<string name="n1" value="女神之泪是最稀有的宝石。"/>
+		<string name="d0" value="永远不要被精炼矿石愚弄——它们只是廉价的普通石头。如果你想要真正珍贵的东西，来时光神殿吧。"/>
+		<string name="d1" value="谁说月岩和星岩中有光？谁说钻石能承诺永恒？"/>
+	</imgdir>
+    <imgdir name="2480003">
+		<string name="name" value="记录员"/>
+		<string name="n0" value="无数的文字聚集在一起，共同创造历史。"/>
+		<string name="n1" value="记忆像沙粒一样散落，形成遗忘之河。"/>
+		<string name="d0" value="你记录事物是为了不忘记它们？还是为了记录而记住它们？"/>
+		<string name="d1" value="你记录事物是为了不忘记它们？还是为了记录而记住它们？"/>
+	</imgdir>
+    <imgdir name="2480004">
+		<string name="name" value="失忆的神殿守护者"/>
+		<string name="d0" value="这是哪里？我是谁？"/>
+		<string name="d1" value="这是哪里？我是谁？"/>
+		<string name="n0" value="我什么都记不起来了..."/>
+		<string name="n1" value="也许我的记忆正流淌在遗忘之河中？"/>
+		<imgdir name="bubble">
+			<imgdir name="41367">
+				<imgdir name="2">
+					<string name="0" value="我什么都记不起来了..."/>
+					<string name="1" value="也许我的记忆正流淌在遗忘之河中？"/>
+				</imgdir>
+    <imgdir name="41361">
+				<imgdir name="2">
+					<string name="0" value="你为什么把我的记忆带回来？"/>
+					<string name="1" value="请抹去所有这些可怕的记忆。"/>
+				</imgdir>
+</imgdir>

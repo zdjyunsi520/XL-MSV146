@@ -1,0 +1,5 @@
+<imgdir name="32120009">
+        <string name="name" value="Energize" />
+        <string name="desc" value="You&apos;ve become energized, permanently increasing your Max HP/MP and DEF!" />
+        <string name="h" value="Max HP: +#mhpR%, Max MP: +#mmpR%, Weapon DEF: +#pddR%, Magic DEF: +#mddR%" />
+    </imgdir>

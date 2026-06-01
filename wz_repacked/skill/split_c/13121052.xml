@@ -1,0 +1,5 @@
+<imgdir name="13121052">
+        <string name="name" value="季风" />
+        <string name="desc" value="召唤季节风暴，席卷整个世界！" />
+        <string name="h" value="MP消耗：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，持续伤害：#dot%。\n冷却时间：#cooltime秒" />
+    </imgdir>

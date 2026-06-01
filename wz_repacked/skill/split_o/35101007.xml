@@ -1,0 +1,8 @@
+<imgdir name="35101007">
+        <string name="name" value="Perfect Armor" />
+        <string name="desc" value="Your Mech has been upgraded with two new abilities. \nThey can be #ctoggled on/off# by using the skill key.\nRequired Skill: #cMech: Protoype Lv. 10#" />
+        <string name="h" value="Ability One - While mounting your mech, it has a #prop% chance to guard against attacks (permanent)\nAbility Two - Reflects #x% damage back to enemies (when skill is active)" />
+        <string name="pdesc" value="Your Mech has been upgraded with two new abilities. \nThey can be #ctoggled on/off# by using the skill key.\nRequired Skill: #cMech: Protoype Lv. 10#" />
+        <string name="ph" value="Ability One - While mounting your mech, it has a #prop% chance to guard against attacks (permanent)\nAbility Two - Reflects #x% damage back to enemies (when skill is active)" />
+        <string name="hch" value="Ability One - While mounting your mech, it has a #prop% chance to guard against attacks (permanent)\nAbility Two - Reflects #hcReflect% damage back to enemies (when skill is active)" />
+    </imgdir>

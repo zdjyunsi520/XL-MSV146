@@ -1,0 +1,5 @@
+<imgdir name="42111007">
+        <string name="name" value="Demon&apos;s Fury" />
+        <string name="desc" value="Allow the spirits of the land to fill you, unleashing their fury on nearby enemies. While possessed, only basic attacks can be used. \n[Spirit&apos;s Attack: #cAttack Key#]" />
+        <string name="h" value="Mana Cost: #epCon, Duration: #time sec, Max Enemies Hit: #mobCount, Damage per Attack: #damage% \nCooldown: #cooltime sec" />
+    </imgdir>

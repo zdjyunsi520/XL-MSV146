@@ -1,0 +1,5 @@
+<imgdir name="101001100">
+        <string name="name" value="升空斩" />
+        <string name="desc" value="将前方敌人击飞到空中。" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

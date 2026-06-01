@@ -1,0 +1,96 @@
+<imgdir name="Cash.img">
+    <imgdir name="5120017">
+		<string name="name" value="For First Time Together Quest"/>
+		<string name="desc" value="Lakelis"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120018">
+		<string name="name" value="For Dimensional Schism Quest"/>
+		<string name="desc" value="Red Sign"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120019">
+		<string name="name" value="For Tower of Goddess Quest"/>
+		<string name="desc" value="Eak"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120020">
+		<string name="name" value="For Lord Pirate Quest"/>
+		<string name="desc" value="Guon"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120021">
+		<string name="name" value="For Brady Quest "/>
+		<string name="desc" value="Brady"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120022">
+		<string name="name" value="For Brittany Quest "/>
+		<string name="desc" value="Brittany"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120023">
+		<string name="name" value="For Ellin Forest Quest"/>
+		<string name="desc" value="Fairy"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120024">
+		<string name="name" value="For Mu Lung Dojo Quest"/>
+		<string name="desc" value="So Gong"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120025">
+		<string name="name" value="For Manager"/>
+		<string name="desc" value="Catch the Macros."/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120026">
+		<string name="name" value="For Gold Richie's Maze "/>
+		<string name="desc" value="Gold Richie"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120027">
+		<string name="name" value="Spaceship"/>
+		<string name="desc" value="Spaceship that is used when rescuing Gaga."/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120028">
+		<string name="name" value="Raining Cats &amp; Dogs"/>
+		<string name="desc" value="It's raining cats and dogs!!! Enter a message of your choice."/>
+		<string name="msg" value="%s 's message : %s"/>
+	</imgdir>
+    <imgdir name="5120030">
+		<string name="name" value="Witch Tower"/>
+		<string name="desc" value="The Witch Tower hints of danger."/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120034">
+		<string name="name" value="Cloudy Meatballs"/>
+		<string name="msg" value="%s's Meatballs: %s"/>
+		<string name="desc" value="Food will drop from the sky in the map your character is in for 30 seconds."/>
+	</imgdir>
+    <imgdir name="5120036">
+		<string name="name" value="5th Anniversary Confetti"/>
+		<string name="desc" value="Ignite fireworks for 5th Anniversary on the map where your character is for 30 sec. Enter a message of your choice."/>
+		<string name="msg" value="%s 's message : %s"/>
+	</imgdir>
+    <imgdir name="5120043">
+		<string name="name" value="Empress Thought Bubble"/>
+		<string name="desc" value=""/>
+		<string name="msg" value=""/>
+	</imgdir>
+    <imgdir name="5120049">
+		<string name="name" value="Commitment Ceremony"/>
+		<string name="desc" value=""/>
+		<string name="msg" value=""/>
+	</imgdir>
+    <imgdir name="5120063">
+		<string name="name" value="Message to Joe Joe"/>
+	</imgdir>
+    <imgdir name="5120064">
+		<string name="name" value="Message to Hermonniny"/>
+	</imgdir>
+    <imgdir name="5120065">
+		<string name="name" value="Message to Little Dragon"/>
+	</imgdir>
+</imgdir>

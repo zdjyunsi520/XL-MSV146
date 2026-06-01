@@ -1,0 +1,9 @@
+<imgdir name="100000267">
+        <string name="name" value="双倍时间" />
+        <string name="desc" value="用技能攻击敌人时，调整持续时间并减少冷却时间。根据攻击者不同赋予特殊增益效果。" />
+        <string name="h" value="减少零的攻击技能冷却时间4秒。\n#c[侦查]#: 阿尔法攻击时，暴击率增加3%，持续20秒。最多叠加10次。\n#c[力量]#: 贝塔攻击时，伤害增加1%，持续20秒。最多叠加10次。\n#c[侦查]和[力量]的效果在切换后仍然保留#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="此技能在Lv.100时解锁。" />
+        </imgdir>
+    </imgdir>

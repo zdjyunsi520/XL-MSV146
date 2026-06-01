@@ -1,0 +1,5 @@
+<imgdir name="3220009">
+        <string name="name" value="Marksmanship" />
+        <string name="desc" value="When attacking, ignores a portion of enemy Defense. Permanently increases your Accuracy." />
+        <string name="h" value="DEF Ignored: #ignoreMobpdpR%, Accuracy: +#ar%" />
+    </imgdir>

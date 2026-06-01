@@ -1,0 +1,9 @@
+<imgdir name="100001005">
+        <string name="name" value="Focused Time" />
+        <string name="desc" value="Increases the Weapon ATT and Magic ATT of all nearby players using the power of the Transcendents." />
+        <string name="h1" value="Consumes 10 Time Forces, increases Weapon ATT and Magic ATT by 4%  for 40 minutes. \n#cCooldown: 2 hours#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="This skill is unlocked at Lv. 200." />
+        </imgdir>
+    </imgdir>

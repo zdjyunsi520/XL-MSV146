@@ -1,0 +1,5 @@
+<imgdir name="41001002">
+        <string name="name" value="激流斩" />
+        <string name="desc" value="拔刀术的基础技法之一。用上挑刀势突进穿过敌人。可连续使用4次且无延迟。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，向前突进。" />
+    </imgdir>

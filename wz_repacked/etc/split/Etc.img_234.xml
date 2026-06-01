@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4034018">
+			<string name="name" value="Second Excavation Tool"/>
+			<string name="desc" value="This tool was stolen by the Drakes. Canary wants them."/>
+		</imgdir>
+    <imgdir name="4034019">
+			<string name="name" value="Third Excavation Tool"/>
+			<string name="desc" value="This tool was stolen by the Drakes. Audrey wants them."/>
+		</imgdir>
+    <imgdir name="4034020">
+			<string name="name" value="Tristan's First Key"/>
+			<string name="desc" value="One of Tristan's door keys. Take this to Canary."/>
+		</imgdir>
+    <imgdir name="4034021">
+			<string name="name" value="Tristan's Second Key"/>
+			<string name="desc" value="One of Tristan's door keys. Take this to Audrey."/>
+		</imgdir>
+    <imgdir name="4034022">
+			<string name="name" value="Tristan's Third Key"/>
+			<string name="desc" value="One of Tristan's door keys. Take this to Mudry."/>
+		</imgdir>
+    <imgdir name="4034023">
+			<string name="name" value="Wolf Fang"/>
+			<string name="desc" value="Nonvon Leon wants this sharp fang."/>
+		</imgdir>
+    <imgdir name="4034024">
+			<string name="name" value="Heroic Trophy"/>
+			<string name="desc" value="Sparkly trophy stolen by Xerxes."/>
+		</imgdir>
+    <imgdir name="4034025">
+			<string name="name" value="Vicky's Fifth Parchment"/>
+			<string name="desc" value="A message from Vicky. It reads, #Path of Time#."/>
+		</imgdir>
+    <imgdir name="4034026">
+			<string name="name" value="Vicky's Fourth Parchment"/>
+			<string name="desc" value="A message from Vicky. It reads, #Path of Time 1#."/>
+		</imgdir>
+    <imgdir name="4034027">
+			<string name="name" value="Vicky's Third Parchment"/>
+			<string name="desc" value="A message from Vicky. It reads, #Crossroad of Time#."/>
+		</imgdir>
+    <imgdir name="4034028">
+			<string name="name" value="Vicky's Second Parchment"/>
+			<string name="desc" value="A message from Vicky. It reads, #Toy Factory Process 2 Zone 5#."/>
+		</imgdir>
+    <imgdir name="4034029">
+			<string name="name" value="Vicky's First Parchment"/>
+			<string name="desc" value="A message from Vicky. It reads, #Toy Factory Apparatus Room#."/>
+		</imgdir>
+    <imgdir name="4034030">
+			<string name="name" value="Secret Note"/>
+			<string name="desc" value="A note from an information broker.\r\nIt says to find 0, fifth from the right in town."/>
+		</imgdir>
+    <imgdir name="4034031">
+			<string name="name" value="Old Card Key"/>
+			<string name="desc" value="A worn-out old keycard. What could it open?"/>
+		</imgdir>
+    <imgdir name="4034032">
+			<string name="name" value="Shiny Card Key"/>
+			<string name="desc" value="A brand spanking new card key. What could it open?"/>
+		</imgdir>
+    <imgdir name="4034033">
+			<string name="name" value="Faded Card Key"/>
+			<string name="desc" value="A washed out card key. What could it open?"/>
+		</imgdir>
+    <imgdir name="4034034">
+			<string name="name" value="Mithril Card Key"/>
+			<string name="desc" value="A sturdy card key made of mithril. What could it open?"/>
+		</imgdir>
+    <imgdir name="4034035">
+			<string name="name" value="Fifth Prescription"/>
+			<string name="desc" value="A prescription scroll written by Tae Sang, listing mysterious ingredients..."/>
+		</imgdir>
+    <imgdir name="4034036">
+			<string name="name" value="King Sage Cat's Gallbladder"/>
+			<string name="desc" value="Gross, why do you have this? It smells terrible."/>
+		</imgdir>
+    <imgdir name="4034037">
+			<string name="name" value="Muscle Brigade"/>
+			<string name="desc" value="One of Tae Sang's medicines. Will make you as powerful as a one-man army!"/>
+		</imgdir>
+</imgdir>

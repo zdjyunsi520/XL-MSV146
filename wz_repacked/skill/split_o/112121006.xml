@@ -1,0 +1,5 @@
+<imgdir name="112121006">
+        <string name="name" value="Meow Card" />
+        <string name="desc" value="Draws a random card that buffs your party." />
+        <string name="h" value="MP Cost: #mpCon, \n#Red Card# - Damage: +#indieDamR%\n#Blue Card# - DEF: +#pdd\n#Yellow Card# - Attack Speed: +#indieBooster, Speed: +#indieSpeed\nDuration: #time Sec, Cooldown: #cooltime Sec" />
+    </imgdir>

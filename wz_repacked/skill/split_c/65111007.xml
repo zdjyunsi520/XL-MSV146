@@ -1,0 +1,5 @@
+<imgdir name="65111007">
+        <string name="name" value="灵魂追踪" />
+        <string name="desc" value="提取埃斯卡尔德力量的精华，向敌人发射！持续造成伤害直到消失。" />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Respawn Essence That Attacks Same Target: #prop% " />
+    </imgdir>

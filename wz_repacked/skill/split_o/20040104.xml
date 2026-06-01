@@ -1,0 +1,5 @@
+<imgdir name="20040104">
+        <string name="name" value="Ice Curse" />
+        <string name="pdesc" value="Curse your opponents by turning them into Ice Snails. Usable when Ice Gauge is charged to #c160 or higher#.\n[Command: #c↓↑ + Attack Key#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon. Snail Chance: #prop%, Snail Duration: #time" />
+    </imgdir>

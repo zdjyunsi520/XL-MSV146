@@ -1,0 +1,7 @@
+<imgdir name="51121006">
+        <string name="name" value="翻涌之魂" />
+        <string name="desc" value="集中短暂爆发的攻击力，对单个敌人造成显著更高的伤害！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, Max Enemies Targeted: #mobCount\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="集中短暂爆发的攻击力，对单个敌人造成显著更高的伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, Max Enemies Targeted: #mobCount\nCooldown: #cooltime sec" />
+    </imgdir>

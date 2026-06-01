@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="5720033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气 +#lukX"/></imgdir>
+    <imgdir name="5720034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率: +#cr%"/></imgdir>
+    <imgdir name="5720035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值 +#ar%"/></imgdir>
+    <imgdir name="5720036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP: +#mhpR%"/></imgdir>
+    <imgdir name="5720037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP +#mmpR%"/></imgdir>
+    <imgdir name="5720038"><string name="name" value="超级恶魔之力"/><string name="desc" value="永久提升最大恶魔之力。"/><string name="h" value="最大恶魔之力 +50"/></imgdir>
+    <imgdir name="5720039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力 +#pddX"/></imgdir>
+    <imgdir name="5720040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力 +#mddX"/></imgdir>
+    <imgdir name="5720041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度 +#psdSpeed"/></imgdir>
+    <imgdir name="5720042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力 +#psdJump"/></imgdir>
+    <imgdir name="5720043"><string name="name" value="无人机爆破 - 强化"/><string name="desc" value="提升无人机爆破的伤害。"/><string name="h" value="伤害: +#damR%"/></imgdir>
+    <imgdir name="5720044"><string name="name" value="无人机爆破 - BOSS冲刺"/><string name="desc" value="提升无人机爆破的BOSS攻击力。"/><string name="h" value="对BOSS造成额外#bdR%伤害"/></imgdir>
+    <imgdir name="5720045"><string name="name" value="无人机爆破 - 额外攻击"/><string name="desc" value="提升无人机爆破的攻击次数。"/><string name="h" value="攻击次数: +#attackCount"/></imgdir>
+    <imgdir name="5720046"><string name="name" value="轨道轰炸 - 强化"/><string name="desc" value="提升轨道轰炸的伤害。"/><string name="h" value="伤害: +#damR%"/></imgdir>
+    <imgdir name="5720047"><string name="name" value="轨道轰炸 - 扩散"/><string name="desc" value="提升轨道轰炸命中的怪物数量。"/><string name="h" value="命中怪物数: +#targetPlus"/></imgdir>
+    <imgdir name="5720048"><string name="name" value="轨道轰炸 - 额外攻击"/><string name="desc" value="提升轨道轰炸的攻击次数。"/><string name="h" value="攻击次数: +#attackCount"/></imgdir>
+    <imgdir name="5720049"><string name="name" value="速射 - 强化"/><string name="desc" value="提升速射的伤害。"/><string name="h" value="伤害: +#damR%"/></imgdir>
+    <imgdir name="5720050"><string name="name" value="速射 - 射程"/><string name="desc" value="提升速射的射程。"/><string name="h" value="射程提升至#range"/></imgdir>
+    <imgdir name="5720051"><string name="name" value="速射 - BOSS冲刺"/><string name="desc" value="提升速射的BOSS攻击力。"/><string name="h" value="对BOSS造成额外#bdR%伤害"/></imgdir>
+    <imgdir name="5721052"><string name="name" value="机体信标"/><string name="desc" value="召唤飞机投掷炸弹。"/><string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。使用后增益效果: 最大伤害: +#x，持续时间: #time秒。最多叠加3次。\n冷却时间: #cooltime秒"/></imgdir>
+</imgdir>

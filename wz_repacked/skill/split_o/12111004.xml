@@ -1,0 +1,7 @@
+<imgdir name="12111004">
+        <string name="name" value="Ifrit" />
+        <string name="desc" value="Summons a Fire Ifrit for a set amount of time. Ifrit can attack multiple enemies at once and upon learning the Ifrit skill, all of your elemental resistances will permanently increase." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage% to up to 3 enemies.\nPermanent Elemental Resistance: +#terR%" />
+        <string name="pdesc" value="Temporarily summons Ifrit to deal Fire damage. If you&apos;ve learned the Ifrit skill, all of your elemental resistances will permanently increase." />
+        <string name="ph" value="MP Cost: #mpCon, Ifrit Summoned for: #time sec, Damage: #damage% \nPermanent Elemental Resistance: +#terR%" />
+    </imgdir>

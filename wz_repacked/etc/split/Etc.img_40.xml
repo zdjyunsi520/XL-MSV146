@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000991">
+			<string name="name" value="Sparkling Wing"/>
+			<string name="desc" value="The little shine that flows from this wing makes everything more beautiful. "/>
+		</imgdir>
+    <imgdir name="4000992">
+			<string name="name" value="Lake Ellinel Muck"/>
+			<string name="desc" value="Even the dirt around Lake Ellinel is magical..."/>
+		</imgdir>
+    <imgdir name="4000993">
+			<string name="name" value="Wisp's Desire"/>
+			<string name="desc" value="The heart of the wisp is a constant desire to emit more powerful magic."/>
+		</imgdir>
+    <imgdir name="4000994">
+			<string name="name" value="Fairy Dust"/>
+			<string name="desc" value="There's some magical residue from other fairies who studied these books."/>
+		</imgdir>
+    <imgdir name="4000995">
+			<string name="name" value="Fairy Bookmark"/>
+			<string name="desc" value="Even fairies need to mark the pages in their books."/>
+		</imgdir>
+    <imgdir name="4000996">
+			<string name="name" value="Fresh Onion"/>
+			<string name="desc" value="Super fresh onions. You'll be weeping all the way to the skillet."/>
+		</imgdir>
+    <imgdir name="4000997">
+			<string name="name" value="Turnip Sprout"/>
+			<string name="desc" value="Ultra fresh turnips. With enough of these, you can finally pay off that mean raccoon."/>
+		</imgdir>
+    <imgdir name="4000998">
+			<string name="name" value="Mole King's Claw"/>
+			<string name="desc" value="This thing would be perfect for making tunnels. "/>
+		</imgdir>
+    <imgdir name="4001000">
+			<string name="name" value="Arwen's Glass Shoes"/>
+			<string name="desc" value="A shiny glass shoes for women-only."/>
+		</imgdir>
+    <imgdir name="4001001">
+			<string name="name" value="VIP Mirror"/>
+			<string name="desc" value="A fancily decorated mirror."/>
+		</imgdir>
+    <imgdir name="4001002">
+			<string name="name" value="The Girl Next Door"/>
+			<string name="desc" value="A book with a dangerous content."/>
+		</imgdir>
+    <imgdir name="4001003">
+			<string name="name" value="Old Gold Watch"/>
+			<string name="desc" value="An old gold watch. An article left by Alex's late mother."/>
+		</imgdir>
+    <imgdir name="4001004">
+			<string name="name" value="&quot;Blackbull's&quot; deed to the land"/>
+			<string name="desc" value="A lost deed to the land for &quot;Blackbull&quot; of Perion."/>
+		</imgdir>
+    <imgdir name="4001005">
+			<string name="name" value="Ancient Scroll"/>
+			<string name="desc" value="A scroll from long ago that contains powerful, mysterious magic from then."/>
+		</imgdir>
+    <imgdir name="4001006">
+			<string name="name" value="Flaming Feather"/>
+			<string name="desc" value="A flame with the look of a feather. It never stops burning."/>
+		</imgdir>
+    <imgdir name="4001007">
+			<string name="name" value="Coupon"/>
+			<string name="desc" value="A coupon obtained by defeating a monster. "/>
+		</imgdir>
+    <imgdir name="4001008">
+			<string name="name" value="Pass"/>
+			<string name="desc" value="A pass earned by trading with a coupon. Can only advance to the next stage with a pass."/>
+		</imgdir>
+    <imgdir name="4001009">
+			<string name="name" value="Stump Eraser"/>
+			<string name="desc" value="An eraser shaped as a stump."/>
+		</imgdir>
+    <imgdir name="4001010">
+			<string name="name" value="Mushmom Eraser"/>
+			<string name="desc" value="An eraser shaped as the Mushmom."/>
+		</imgdir>
+    <imgdir name="4001011">
+			<string name="name" value="Lupin Eraser"/>
+			<string name="desc" value="An eraser shaped as the Lupin."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="70000043">
+        <string name="name" value="Damage Ignored When Hit" />
+        <string name="desc" value="When hit with a magical attack, damage is reduced in proportion to Weapon DEF." />
+        <string name="h" value="When hit with a magical attack, damage equal to #pdd2mdx% of Weapon DEF is ignored" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2280032">
+		<string name="name" value="[技能书] 冒险岛勇士"/>
+		<string name="desc" value="一本关于#c冒险岛勇士#的技能书。\n职业：4转前职业\n要求：未获得#c冒险岛勇士#。"/>
+	</imgdir>
+    <imgdir name="2280033">
+		<string name="name" value="[技能书] 无限"/>
+		<string name="desc" value="一本关于#c无限#的技能书。\n职业：4转法师\n要求：未获得#c无限#。"/>
+	</imgdir>
+    <imgdir name="2280034">
+		<string name="name" value="[技能书] 龙息"/>
+		<string name="desc" value="一本关于#c龙息#的技能书。\n职业：4转弓箭手\n要求：未获得#c龙息#。"/>
+	</imgdir>
+    <imgdir name="2280035">
+		<string name="name" value="[技能书] 挑衅"/>
+		<string name="desc" value="一本关于#c挑衅#的技能书。\n职业：4转飞侠\n要求：未获得#c挑衅#。"/>
+	</imgdir>
+    <imgdir name="2280036">
+		<string name="name" value="[技能书] 进阶连击攻击"/>
+		<string name="desc" value="一本关于#c进阶连击攻击#的技能书。\n职业：英雄\n要求：未获得#c进阶连击攻击#。"/>
+	</imgdir>
+    <imgdir name="2280037">
+		<string name="name" value="[技能书] 进阶蓄力"/>
+		<string name="desc" value="一本关于#c进阶蓄力#的技能书。\n职业：圣骑士\n要求：未获得#c进阶蓄力#。"/>
+	</imgdir>
+    <imgdir name="2280038">
+		<string name="name" value="[技能书] 天使射线"/>
+		<string name="desc" value="一本关于#c天使射线#的技能书。\n职业：主教\n要求：未获得#c天使射线#。"/>
+	</imgdir>
+    <imgdir name="2280039">
+		<string name="name" value="[技能书] 三飞"/>
+		<string name="desc" value="一本关于#c三飞#的技能书。\n职业：隐士\n要求：未获得#c三飞#。"/>
+	</imgdir>
+    <imgdir name="2280040">
+		<string name="name" value="[技能书] 终极斩击"/>
+		<string name="desc" value="一本关于#c终极斩击#的技能书。\n职业：刀神\n要求：未获得#c终极斩击#。"/>
+	</imgdir>
+    <imgdir name="2280041">
+		<string name="name" value="[技能书] 幻影打击"/>
+		<string name="desc" value="一本关于#c幻影打击#的技能书。\n职业：双弩\n条件：未获得#c幻影打击#。"/>
+	</imgdir>
+    <imgdir name="2280042">
+		<string name="name" value="[神奇技能书] 进阶连击攻击"/>
+		<string name="desc" value="一本关于#c进阶连击攻击#的技能书。\n职业：英雄\n要求：未获得#c进阶连击攻击#。"/>
+	</imgdir>
+    <imgdir name="2280043">
+		<string name="name" value="[神奇技能书] 进阶蓄力"/>
+		<string name="desc" value="一本关于#c进阶蓄力#的技能书。\n职业：圣骑士\n要求：未获得#c进阶蓄力#。"/>
+	</imgdir>
+    <imgdir name="2280044">
+		<string name="name" value="[技能书] 突进"/>
+		<string name="desc" value="一本关于#c突进#的技能书。\n职业：4转战士\n要求：未获得#c突进#。"/>
+	</imgdir>
+    <imgdir name="2280045">
+		<string name="name" value="[技能书] 无限"/>
+		<string name="desc" value="一本关于#c无限#的技能书。\n职业：4转法师\n要求：未获得#c无限#。"/>
+	</imgdir>
+    <imgdir name="2280046">
+		<string name="name" value="[神奇技能书] 天使射线"/>
+		<string name="desc" value="一本关于#c天使射线#的技能书。\n职业：主教\n要求：未获得#c天使射线#。"/>
+	</imgdir>
+    <imgdir name="2280047">
+		<string name="name" value="[技能书] 挑衅"/>
+		<string name="desc" value="一本关于#c挑衅#的技能书。\n职业：4转飞侠\n要求：未获得#c挑衅#。"/>
+	</imgdir>
+    <imgdir name="2290000">
+		<string name="name" value="[能手册] 怪物磁铁"/>
+		<string name="desc" value="70%概率将#c怪物磁铁#的最高等级提升到20级。\n职业：所有战士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290001">
+		<string name="name" value="[能手册] 怪物磁铁"/>
+		<string name="desc" value="50%概率将#c怪物磁铁#的最高等级提升到30级。\n职业：所有战士\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290002">
+		<string name="name" value="[能手册] 阿基里斯"/>
+		<string name="desc" value="70%概率将#c阿基里斯#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290003">
+		<string name="name" value="[能手册] 阿基里斯"/>
+		<string name="desc" value="50%概率将#c阿基里斯#的最高等级提升到30级。\n职业：主教\n条件：技能等级15级以上"/>
+	</imgdir>
+</imgdir>

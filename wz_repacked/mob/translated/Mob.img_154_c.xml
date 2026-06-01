@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400404">
+		<string name="name" value="枫木足轻"/>
+	</imgdir>
+    <imgdir name="9400405">
+		<string name="name" value="铁甲武者"/>
+	</imgdir>
+    <imgdir name="9400406">
+		<string name="name" value="枫木女忍"/>
+	</imgdir>
+    <imgdir name="9400407">
+		<string name="name" value="枫木蟾蜍"/>
+	</imgdir>
+    <imgdir name="9400408">
+		<string name="name" value="假大名"/>
+	</imgdir>
+    <imgdir name="9400409">
+		<string name="name" value="蟾蜍皇帝"/>
+	</imgdir>
+    <imgdir name="9400410">
+		<string name="name" value="岩石"/>
+	</imgdir>
+    <imgdir name="9420514">
+		<string name="name" value="狂暴战士"/>
+	</imgdir>
+    <imgdir name="9420515">
+		<string name="name" value="维特隆"/>
+	</imgdir>
+    <imgdir name="9420516">
+		<string name="name" value="斯莱吉"/>
+	</imgdir>
+    <imgdir name="9420517">
+		<string name="name" value="石化战士"/>
+	</imgdir>
+    <imgdir name="9420518">
+		<string name="name" value="蒙特雷瑟"/>
+	</imgdir>
+    <imgdir name="9420519">
+		<string name="name" value="杜库"/>
+	</imgdir>
+    <imgdir name="9420520">
+		<string name="name" value="克雷塞尔"/>
+	</imgdir>
+    <imgdir name="9420521">
+		<string name="name" value="克雷塞尔"/>
+	</imgdir>
+    <imgdir name="9420522">
+		<string name="name" value="克雷塞尔"/>
+	</imgdir>
+    <imgdir name="9420523">
+		<string name="name" value="巴卡尔"/>
+	</imgdir>
+    <imgdir name="9420524">
+		<string name="name" value="巴卡尔"/>
+	</imgdir>
+    <imgdir name="9400758">
+		<string name="name" value="路障"/>
+	</imgdir>
+    <imgdir name="9400759">
+		<string name="name" value="路障"/>
+	</imgdir>
+</imgdir>

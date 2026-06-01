@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430161">
+		<string name="name" value="巧克力冰淇淋15日券"/>
+		<string name="desc" value="双击使用巧克力冰淇淋15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430162">
+		<string name="name" value="哈密瓜冰淇淋15日券"/>
+		<string name="desc" value="双击使用哈密瓜冰淇淋15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430163">
+		<string name="name" value="西瓜冰淇淋15日券"/>
+		<string name="desc" value="双击使用西瓜冰淇淋15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430164">
+		<string name="name" value="万圣节南瓜帽15日券"/>
+		<string name="desc" value="双击使用万圣节南瓜帽15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430165">
+		<string name="name" value="温暖围巾15日券"/>
+		<string name="desc" value="双击使用温暖围巾15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430166">
+		<string name="name" value="冒险家残忍戒指7日券"/>
+		<string name="desc" value="双击使用冒险家残忍戒指7天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430167">
+		<string name="name" value="冒险家暴击戒指7日券"/>
+		<string name="desc" value="双击使用冒险家暴击戒指7天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430168">
+		<string name="name" value="冒险家魔法戒指7日券"/>
+		<string name="desc" value="双击使用冒险家魔法戒指7天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430178">
+		<string name="name" value="万圣节南瓜篮"/>
+		<string name="desc" value="用南瓜做的篮子。#c双击查看内容。#"/>
+	</imgdir>
+    <imgdir name="2430179">
+		<string name="name" value="15天女巫扫帚券"/>
+		<string name="desc" value="一张诡异的券。#c双击#使用#女巫扫帚#骑乘技能#c15天#，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430180">
+		<string name="name" value="屏障图腾"/>
+		<string name="desc" value="阻挡Riche魔法的图腾。当你身处Riche附近时，#c双击#放置它。"/>
+	</imgdir>
+    <imgdir name="2430182">
+		<string name="name" value="特惠美容券"/>
+		<string name="desc" value="一款多功能永久整形券！据说可以随机改变任何打开它的人的脸型、发型和肤色。使用后果自负！"/>
+	</imgdir>
+    <imgdir name="2430190">
+		<string name="name" value="60天蓝色滑板车券"/>
+		<string name="desc" value="一张看起来很帅的券。双击使用蓝色滑板车骑乘技能60天。"/>
+	</imgdir>
+    <imgdir name="2430191">
+		<string name="name" value="可爱新手礼包"/>
+		<string name="desc" value="2011年夏季活动道具。是送给创建新角色的用户的礼包。"/>
+	</imgdir>
+    <imgdir name="2430192">
+		<string name="name" value="成长礼包"/>
+		<string name="desc" value="2011年夏季活动道具。是送给新角色达到30级的玩家的礼包。"/>
+	</imgdir>
+    <imgdir name="2430193">
+		<string name="name" value="精英玩家礼包"/>
+		<string name="desc" value="2011年夏季活动道具。是送给新角色达到50级的用户的礼包。"/>
+	</imgdir>
+    <imgdir name="2430199">
+		<string name="name" value="圣诞老人雪橇12小时券"/>
+		<string name="desc" value="双击使用圣诞老人雪橇骑乘技能12小时。"/>
+	</imgdir>
+    <imgdir name="2430200">
+		<string name="name" value="雷之石"/>
+		<string name="desc" value="蕴含雷电之力的石头。双击可以将黎明石、烈焰石、风之石和夜晚石组合成梦想钥匙。"/>
+	</imgdir>
+    <imgdir name="2430204">
+		<string name="name" value="可爱兔子礼包"/>
+		<string name="desc" value="2010年冬季活动道具。是送给创建新角色的用户的礼包。"/>
+	</imgdir>
+    <imgdir name="2430205">
+		<string name="name" value="特殊混沌礼物"/>
+		<string name="desc" value="里面有特殊混沌礼物的盒子。#c双击#看看里面有什么！"/>
+	</imgdir>
+</imgdir>

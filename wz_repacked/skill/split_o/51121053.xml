@@ -1,0 +1,5 @@
+<imgdir name="51121053">
+        <string name="name" value="Queen of Tomorrow" />
+        <string name="desc" value="Increases Empress&apos;s Blessing damage and maximum damage boosts." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%,Max Damage: #indieMaxDamageOver.\nCooldown: #cooltime sec" />
+    </imgdir>

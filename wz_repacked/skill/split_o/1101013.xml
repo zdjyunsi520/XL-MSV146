@@ -1,0 +1,7 @@
+<imgdir name="1101013">
+        <string name="name" value="Combo Attack" />
+        <string name="desc" value="When activated, there is a chance to add each attack to the Combo Count, up to 5." />
+        <string name="pdesc" value="When activated, there is a chance to add each attack to the Combo Count, up to 5." />
+        <string name="h" value="When activated, #prop% chance of having the attack added to the Combo Count. Max Combo Count: #x" />
+        <string name="ph" value="When activated, #prop% chance of having the attack added to the Combo Count. Max Combo Count: #x" />
+    </imgdir>

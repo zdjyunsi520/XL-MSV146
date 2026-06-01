@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="241020120">
+			<imgdir name="0">
+				<string name="Title" value="Southern Road"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Northwestern Road"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Southwestern Barracks"/>
+			</imgdir>
+    <imgdir name="241020130">
+			<imgdir name="0">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="241020140">
+			<imgdir name="0">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241020150">
+			<imgdir name="0">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241020200">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Sorrows 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 5"/>
+			</imgdir>
+    <imgdir name="241020203">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Laments 4"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Scorching Forest 1"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 2"/>
+			</imgdir>
+    <imgdir name="241020204">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Laments 3"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Corrupted Magic Forest 2"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 1"/>
+			</imgdir>
+    <imgdir name="241020210">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Pain 5"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700053">
+		<string name="name" value="完全尤独特"/>
+		<string name="desc" value="在尤游戏中每种独特掷法各掷一次获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700054">
+		<string name="name" value="速度尤玩家"/>
+		<string name="desc" value="比其他人更快完成尤游戏的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700055">
+		<string name="name" value="双倍双倍"/>
+		<string name="desc" value="在尤游戏中获得2倍奖励效果的幸运少数获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700056">
+		<string name="name" value="擦地"/>
+		<string name="desc" value="在尤游戏中不幸获得#c擦地#的少数获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700057">
+		<string name="name" value="猪吃"/>
+		<string name="desc" value="哼哼哼！在尤游戏中拥有猪运气的玩家称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700058">
+		<string name="name" value="再多一点尤"/>
+		<string name="desc" value="完成2013春季尤游戏#c10次#获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700059">
+		<string name="name" value="热情尤玩家"/>
+		<string name="desc" value="完成2013春季尤游戏#c50次#获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700060">
+		<string name="name" value="终极掷棍人"/>
+		<string name="desc" value="在7局游戏中完成尤挑战者的大师称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700061">
+		<string name="name" value="武陵熊队"/>
+		<string name="desc" value="武陵熊队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700062">
+		<string name="name" value="龙林飞龙队"/>
+		<string name="desc" value="龙林飞龙队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700063">
+		<string name="name" value="凡雷狮子队"/>
+		<string name="desc" value="凡雷狮子队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700064">
+		<string name="name" value="克里塞巨人队"/>
+		<string name="desc" value="克里塞巨人队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700065">
+		<string name="name" value="万神殿英雄队"/>
+		<string name="desc" value="万神殿英雄队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700066">
+		<string name="name" value="黑山虎队"/>
+		<string name="desc" value="黑山虎队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700067">
+		<string name="name" value="兰花双子队"/>
+		<string name="desc" value="兰花双子队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700068">
+		<string name="name" value="射手村鹰队"/>
+		<string name="desc" value="射手村鹰队支持者称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+5\n全属性+5#"/>
+	</imgdir>
+    <imgdir name="3700073">
+		<string name="name" value="风行者"/>
+		<string name="desc" value="拯救米沃克男孩获得的称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+1#"/>
+	</imgdir>
+    <imgdir name="3700074">
+		<string name="name" value="熊之心"/>
+		<string name="desc" value="拯救米沃克男孩获得的称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+1#"/>
+	</imgdir>
+    <imgdir name="3700075">
+		<string name="name" value="礼貌问候"/>
+		<string name="desc" value="拯救米沃克男孩获得的称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+2#"/>
+	</imgdir>
+    <imgdir name="3700076">
+		<string name="name" value="爱哭浣熊"/>
+		<string name="desc" value="拯救米沃克男孩获得的称号。\r\n#c点击可开启/关闭。#\r\n#c&lt;效果&gt;\n 武器攻击/魔法攻击+2#"/>
+	</imgdir>
+</imgdir>

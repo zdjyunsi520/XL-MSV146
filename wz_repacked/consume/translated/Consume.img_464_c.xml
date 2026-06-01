@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431505">
+		<string name="name" value="低座骑坐骑30天券"/>
+		<string name="desc" value="双击使用[低座骑]坐骑技能，有效期#c30天#。"/>
+	</imgdir>
+    <imgdir name="2431506">
+		<string name="name" value="狮子莱昂纳多30天券"/>
+		<string name="desc" value="双击使用[莱昂纳多]坐骑技能，有效期#c30天#。"/>
+	</imgdir>
+    <imgdir name="2431507">
+		<string name="name" value="神秘混沌盒子礼包"/>
+		<string name="desc" value="包含神秘数量的混沌盒子！#c双击#获得3到10个混沌盒子。"/>
+	</imgdir>
+    <imgdir name="2431525">
+		<string name="name" value="赫菲斯托斯礼盒"/>
+		<string name="desc" value="为挑战铁匠神赫菲斯托斯并达到13星强化的挑战者准备的礼物。双击获得一件150级暴君装备。"/>
+	</imgdir>
+    <imgdir name="2431526">
+		<string name="name" value="赫菲斯托斯礼盒"/>
+		<string name="desc" value="为挑战铁匠神赫菲斯托斯并达到13星强化的挑战者准备的礼物。双击获得一件150级暴君装备。"/>
+	</imgdir>
+    <imgdir name="2431554">
+		<string name="desc" value="通过融合沉睡碎片制成的记忆碎片。"/>
+		<string name="name" value="记忆碎片"/>
+	</imgdir>
+    <imgdir name="2001552">
+		<string name="desc" value="一个烤得很好的派，金黄色的外皮里装满了美味的熟苹果。恢复10,000生命值。"/>
+		<string name="name" value="苹果派"/>
+	</imgdir>
+    <imgdir name="2001553">
+		<string name="desc" value="让仙女伤心很容易，收集她们的小眼泪才是困难的部分。恢复10,000魔法值。"/>
+		<string name="name" value="仙女之泪"/>
+	</imgdir>
+    <imgdir name="2001554">
+		<string name="desc" value="一瓶不知何故在傍晚前没有干涸的露水。恢复5000魔法值。"/>
+		<string name="name" value="日落露水"/>
+	</imgdir>
+    <imgdir name="2028182">
+		<string name="desc" value="包含一把80级战士武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活80级战士武器盒"/>
+	</imgdir>
+    <imgdir name="2028183">
+		<string name="desc" value="包含一把80级魔法师武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活80级魔法师武器盒"/>
+	</imgdir>
+    <imgdir name="2028184">
+		<string name="desc" value="包含一把80级弓箭手武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活80级弓箭手武器盒"/>
+	</imgdir>
+    <imgdir name="2028185">
+		<string name="desc" value="包含一把80级飞侠武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活80级飞侠武器盒"/>
+	</imgdir>
+    <imgdir name="2028186">
+		<string name="desc" value="包含一把80级海盗武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活80级海盗武器盒"/>
+	</imgdir>
+    <imgdir name="2028187">
+		<string name="desc" value="包含一把100级战士武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活100级战士武器盒"/>
+	</imgdir>
+    <imgdir name="2028188">
+		<string name="desc" value="包含一把100级魔法师武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活100级魔法师武器盒"/>
+	</imgdir>
+    <imgdir name="2028189">
+		<string name="desc" value="包含一把100级弓箭手武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活100级弓箭手武器盒"/>
+	</imgdir>
+    <imgdir name="2028190">
+		<string name="desc" value="包含一把100级飞侠武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活100级飞侠武器盒"/>
+	</imgdir>
+    <imgdir name="2028191">
+		<string name="desc" value="包含一把100级海盗武器。\r\n#c双击打开。#"/>
+		<string name="name" value="怪物生活100级海盗武器盒"/>
+	</imgdir>
+    <imgdir name="2028179">
+		<string name="desc" value="包含珠宝工艺物品。#c双击#查看里面有什么。"/>
+		<string name="name" value="珠宝工艺套件"/>
+	</imgdir>
+</imgdir>

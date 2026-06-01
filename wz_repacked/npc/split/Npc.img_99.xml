@@ -1,0 +1,151 @@
+<imgdir name="Npc.img">
+    <imgdir name="1094000">
+		<string name="name" value="Bart"/>
+		<string name="d0" value="I need to keep on the look out for the enemy. It's not so bad, though, since my seagull friends help me out."/>
+		<string name="d1" value="If I see anything strange, I'll let you know, buddy."/>
+		<string name="n0" value="Hey! Seagulls! See anything strange?"/>
+		<string name="n1" value="If I don't pay close attention from the watchtower, the enemies might hit us hard. I'm telling you my job is important!"/>
+	</imgdir>
+    <imgdir name="1094001">
+		<string name="name" value="Abel"/>
+		<string name="d0" value="I can't see a thing without my glasses. I heard carrots are good for your eyes, but I don't know..."/>
+		<string name="d1" value="As long as I have my glasses, I have nothing to fear!"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="The weather's nice, but it's a little humid, don't you think?"/>
+	</imgdir>
+    <imgdir name="1101004">
+		<string name="name" value="Oz"/>
+		<string name="func" value="The Chief Knight of Fire"/>
+		<string name="n0" value="I hope the world finds peace."/>
+		<string name="d0" value="Are you interested in becoming a Blaze Wizard, a Knight of Fire?"/>
+		<string name="d1" value="I would like nothing more than to protect this peaceful land under the guidance of the Empress."/>
+		<string name="n1" value="I need more comrades..."/>
+	</imgdir>
+    <imgdir name="1101005">
+		<string name="name" value="Irena"/>
+		<string name="func" value="The Chief Knight of Wind"/>
+		<string name="d0" value="Are you interested in becoming a Wind Archer, a Knight of Wind?"/>
+		<string name="n0" value="The wind of change... It comes."/>
+		<string name="n1" value="May you become the green wind of luck that blows away all evil."/>
+		<string name="d1" value="I feel an auspicious breeze emanating from you."/>
+	</imgdir>
+    <imgdir name="1101006">
+		<string name="name" value="Eckhart"/>
+		<string name="func" value="Chief Knight of Darkness"/>
+		<string name="d0" value="Are you interested in becoming a Night Walker, a Knight of Darkness?"/>
+		<string name="d1" value="*Sigh.* The Black Mage..."/>
+		<string name="n0" value="It's too noisy here. Stealth is key."/>
+		<string name="n1" value="It's your job... You take care of it."/>
+	</imgdir>
+    <imgdir name="1101007">
+		<string name="name" value="Hawkeye"/>
+		<string name="func" value="Chief Knight of Lightning"/>
+		<string name="d0" value="Are you interested in becoming a Thunder Breaker, a Knight of Lightning?"/>
+		<string name="d1" value="Ahhh... I can't wait to face the Black Mage and emerge victorious!"/>
+		<string name="n0" value="Hey, this is fun!"/>
+		<string name="n1" value="Bring it on!"/>
+	</imgdir>
+    <imgdir name="1102000">
+		<string name="name" value="Kiku"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="d0" value="All knights can train in the Training Forest."/>
+		<string name="n0" value="Ha! Ready to become more powerful?"/>
+		<string name="n1" value="All the Chief Knights started off where you are now. Just keep persevering."/>
+		<string name="d1" value="Do not rush. Every marathon starts with a first step. Just put one foot in front of the other."/>
+	</imgdir>
+    <imgdir name="1102002">
+		<string name="name" value="Kiridu"/>
+		<string name="func" value="Mount Trainer"/>
+		<string name="n0" value="Hopefully this is enough food for these babies."/>
+		<string name="n1" value="It takes a lot out of me to teach every single Knight how to use a Monster Mount..."/>
+		<string name="d0" value="You can't think of Mounts as just a form of transportation. A good Mount is your friend, comrade, and traveling companion... All rolled into one."/>
+		<string name="d1" value="You can't think of Mounts as just a form of transportation. A good Mount is your friend, comrade, and traveling companion... All rolled into one."/>
+	</imgdir>
+    <imgdir name="1102003">
+		<string name="name" value="Kidan"/>
+		<string name="func" value="Knight Trainer"/>
+		<string name="n1" value="If you want to become the sword and the shield of the Empress..."/>
+		<string name="n0" value="All Knights strive to reach this honor."/>
+		<string name="d0" value="Welcome to the Knights Chamber."/>
+		<string name="d1" value="Welcome to the Knights Chamber, where the most celebrated Knights are immortalized."/>
+	</imgdir>
+    <imgdir name="1104100">
+		<string name="name" value="Mihile"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104101">
+		<string name="name" value="Oz"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104102">
+		<string name="name" value="Irena"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104103">
+		<string name="name" value="Eckhart"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104104">
+		<string name="name" value="Hawkeye"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1104200">
+		<string name="name" value="Fallen Knight"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="Ahhh..."/>
+		<string name="d0" value="(The Knight seemed to have lost consciousness. Looking at him more closely, the Knight highly resembles Dunamis.)"/>
+		<string name="d1" value="(The Knight seemed to have lost consciousness. Looking at him more closely, the Knight highly resembles Dunamis.)"/>
+	</imgdir>
+    <imgdir name="12101">
+		<string name="name" value="Rain"/>
+		<string name="s1" value="Heheh..."/>
+		<string name="n0" value="Isn't it nice out?"/>
+		<string name="n1" value="To jump, press the Alt key."/>
+		<string name="n2" value="Use the arrow keys to move around."/>
+		<string name="s0" value="Ha!"/>
+		<string name="s2" value="How's it going?"/>
+		<string name="b0" value="Whoa... You look a little out of place..."/>
+		<string name="c0" value="Am I getting wrinkles already?"/>
+		<string name="d0" value="Want to take my quiz?"/>
+		<string name="d1" value="Right! You're the one who finished my quiz. How are you?"/>
+	</imgdir>
+    <imgdir name="2000">
+		<string name="name" value="Roger"/>
+		<string name="n0" value="Your Item Inventory consists of the Equip, Use, Set-up, Etc, and Cash tabs."/>
+		<string name="n1" value="Items you pick up are automatically stored in the appropriate tab of your Item Inventory."/>
+		<string name="n2" value="Double-click an item in your Item Inventory to use it."/>
+		<string name="f0" value="To discard an item, drag it out of your Item Inventory."/>
+		<string name="f1" value="Once your inventory is full, you can't get any more items. Discard or sell what you don't need."/>
+		<string name="f2" value="Items in the Use tab can be assigned to a hotkey."/>
+		<string name="w0" value="If your HP reaches 0, you're a goner. Eat food or drink a potion before that happens!"/>
+		<string name="w1" value="Want some more tips? Then listen to my advice."/>
+		<string name="w2" value="Want to talk to someone? Click on them!"/>
+		<string name="d0" value="Hey! Nice weather today, huh?"/>
+		<string name="d1" value="Did my tip help you? I'll bet it did!"/>
+	</imgdir>
+    <imgdir name="20000">
+		<string name="name" value="John"/>
+		<string name="n0" value="How about buying one of these fish?"/>
+		<string name="n1" value="I used to be an adventurer myself. But now I don't mind living a normal life."/>
+		<string name="n2" value="You don't need to be scared of a normal life. It's actually quite nice."/>
+		<string name="d0" value="Is there anyone who can help me? I'd go myself, but as you can see, I have lots to do..."/>
+		<string name="d1" value="You're the one who brought the flower to me. Again, thanks a lot."/>
+	</imgdir>
+    <imgdir name="2001">
+		<string name="name" value="Sen"/>
+		<string name="n0" value="I'm sooo hungry!"/>
+		<string name="n1" value="I wonder. Are books...edible?"/>
+		<string name="d0" value="There is nothing to eat in here. My poor tummy..."/>
+		<string name="d1" value="What did my sister say? Oh, I am so hungry..."/>
+	</imgdir>
+    <imgdir name="2012000">
+		<string name="name" value="Agatha"/>
+		<string name="n0" value="Do you want to travel to another continent? You have come to the right place."/>
+		<string name="n1" value="If you need any travel information, let me help you."/>
+	</imgdir>
+</imgdir>

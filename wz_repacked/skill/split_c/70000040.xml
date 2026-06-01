@@ -1,0 +1,5 @@
+<imgdir name="70000040">
+        <string name="name" value="命中转伤害" />
+        <string name="desc" value="按命中率的比例提升最终伤害。" />
+        <string name="h" value="#acc2dam% of Weapon Accuracy or Magic Accuracy (whichever&apos;s higher) added to additional damage" />
+    </imgdir>

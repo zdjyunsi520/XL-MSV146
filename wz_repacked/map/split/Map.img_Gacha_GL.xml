@@ -1,0 +1,8 @@
+<imgdir name="Map.img">
+    <imgdir name="Gacha_GL">
+		<imgdir name="687000000">
+			<string name="streetName" value="Gacha"/>
+			<string name="mapName" value="Gachapon"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

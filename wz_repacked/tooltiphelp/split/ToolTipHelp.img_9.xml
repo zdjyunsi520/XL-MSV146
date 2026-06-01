@@ -1,0 +1,65 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="100000000">
+			<imgdir name="0">
+				<string name="Title" value="The Hill North of Henesys"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Spore Hill"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Regular Cab in Victoria"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Rina's House"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Henesys Market"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Henesys Park"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Chief Stan's House"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Maya's House"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Spore Hill"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="The Hill North of Henesys"/>
+			</imgdir>
+    <imgdir name="10">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="100000100">
+			<imgdir name="1">
+				<string name="Title" value="Free Market"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Weapon / Armor Store"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Pet Food Store"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Henesys Skin Care"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Henesys Hair Salon"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Henesys Hair Salon"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Henesys Plastic Surgery"/>
+			</imgdir>
+    <imgdir name="100000200">
+			<imgdir name="0">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+</imgdir>

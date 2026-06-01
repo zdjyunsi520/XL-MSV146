@@ -1,0 +1,9 @@
+<imgdir name="100001272">
+        <string name="name" value="Rewind" />
+        <string name="desc" value="Capture this moment in your Hourglass. If you get knocked out, time will rewind to the captured moment instead." />
+        <string name="h" value="Time Force Cost: #forceCon, when you get knocked out, you use up the buff instead, restoring all HP \n#cCooldown: #cooltime sec#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="This skill is unlocked at Lv. 140." />
+        </imgdir>
+    </imgdir>

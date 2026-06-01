@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="150002">
+		<string name="name" value="葡萄汁瓶"/>
+	</imgdir>
+    <imgdir name="2100100">
+		<string name="name" value="沙漠兔（雌性）"/>
+	</imgdir>
+    <imgdir name="2100101">
+		<string name="name" value="沙漠兔（雄性）"/>
+	</imgdir>
+    <imgdir name="2100102">
+		<string name="name" value="仙人掌宝宝"/>
+	</imgdir>
+    <imgdir name="9501018">
+		<string name="name" value="属性变更测试"/>
+	</imgdir>
+    <imgdir name="9501019">
+		<string name="name" value="武器攻击力增强（100）"/>
+	</imgdir>
+    <imgdir name="9501020">
+		<string name="name" value="魔法攻击力增强（101）"/>
+	</imgdir>
+    <imgdir name="9501021">
+		<string name="name" value="武器防御力增强（102）"/>
+	</imgdir>
+    <imgdir name="9501022">
+		<string name="name" value="魔法防御力增强（103）"/>
+	</imgdir>
+    <imgdir name="9501024">
+		<string name="name" value="消耗（105）"/>
+	</imgdir>
+    <imgdir name="9501025">
+		<string name="name" value="区域武器攻击力增强（110）"/>
+	</imgdir>
+    <imgdir name="9501026">
+		<string name="name" value="区域魔法攻击力增强（111）"/>
+	</imgdir>
+    <imgdir name="9501027">
+		<string name="name" value="区域武器防御（112）"/>
+	</imgdir>
+    <imgdir name="9501028">
+		<string name="name" value="区域魔法防御（113）"/>
+	</imgdir>
+    <imgdir name="9501029">
+		<string name="name" value="恢复HP（114）"/>
+	</imgdir>
+    <imgdir name="9501030">
+		<string name="name" value="改变自身及附近速度（115）"/>
+	</imgdir>
+    <imgdir name="9501031">
+		<string name="name" value="踢（129）"/>
+	</imgdir>
+    <imgdir name="9501032">
+		<string name="name" value="区域中毒（131）"/>
+	</imgdir>
+    <imgdir name="9501033">
+		<string name="name" value="超度亡灵（133）"/>
+	</imgdir>
+    <imgdir name="9501034">
+		<string name="name" value="药水停止（134）"/>
+	</imgdir>
+</imgdir>

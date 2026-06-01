@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049202">
+		<string name="name" value="暗之饰品强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2049203">
+		<string name="name" value="暗之饰品强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2049204">
+		<string name="name" value="暗之饰品强化卷轴 智力 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2049205">
+		<string name="name" value="暗之饰品强化卷轴 智力 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2049206">
+		<string name="name" value="暗之饰品强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2049207">
+		<string name="name" value="暗之饰品强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2049208">
+		<string name="name" value="暗之饰品强化卷轴 生命值 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大生命值+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049209">
+		<string name="name" value="暗之饰品强化卷轴 生命值 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大生命值+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2049210">
+		<string name="name" value="暗之饰品强化卷轴 魔法值 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大魔法值+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049211">
+		<string name="name" value="暗之饰品强化卷轴 魔法值 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大魔法值+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2049304">
+		<string name="name" value="3星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n失败时破坏物品概率：50%\r\n为没有剩余升级次数的装备额外增加3级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049305">
+		<string name="name" value="4星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：50%\r\n为没有剩余升级次数的装备额外增加4级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049308">
+		<string name="name" value="5星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n失败时破坏物品概率：50%\r\n为没有剩余升级次数的装备额外增加5级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049309">
+		<string name="name" value="2星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n失败时破坏物品概率：50%\r\n为没有剩余升级次数的装备额外增加2级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049311">
+		<string name="name" value="3星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n为没有剩余升级次数的装备额外增加3级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049312">
+		<string name="name" value="4星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n为没有剩余升级次数的装备额外增加4级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049313">
+		<string name="name" value="5星强化卷轴"/>
+		<string name="desc" value="强化#已完成升级的装备#。强化等级越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n为没有剩余升级次数的装备额外增加5级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049319">
+		<string name="name" value="3星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。已有强化次数越多的物品，获得更好属性的概率越高。失败时物品100%被破坏。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n为没有剩余升级次数的装备额外增加3级强化。\r\n失败时物品100%被破坏。#"/>
+	</imgdir>
+    <imgdir name="2049320">
+		<string name="name" value="2星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。强化次数越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：90% \r\n为没有剩余升级次数的装备额外增加2级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049321">
+		<string name="name" value="3星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。强化次数越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n为没有剩余升级次数的装备额外增加3级强化。\r\n#"/>
+	</imgdir>
+</imgdir>

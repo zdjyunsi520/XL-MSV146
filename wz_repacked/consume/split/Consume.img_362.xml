@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2542000">
+		<string name="name" value="Pretty Girl Hair Coupon (F)"/>
+		<string name="desc" value="Change your hairstyle to #cPretty Girl Hair# by #cdouble-clicking# this item."/>
+	</imgdir>
+    <imgdir name="2542001">
+		<string name="name" value="Bed Head Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to change your hairstyle to #c[Bed Head Hair]#."/>
+	</imgdir>
+    <imgdir name="2542002">
+		<string name="name" value="Lively Waved Hair Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to change your hairstyle to #c[Lively Waved Hair]#."/>
+	</imgdir>
+    <imgdir name="2542003">
+		<string name="name" value="Evan Hair Coupon (M)"/>
+		<string name="desc" value="Change your hairstyle to #cEvan Hair# by #cdouble-clicking# this item."/>
+	</imgdir>
+    <imgdir name="2542004">
+		<string name="name" value="Pretty Girl Hair Coupon (F)"/>
+		<string name="desc" value="Change your hairstyle to #cPretty Girl Hair# by #cdouble-clicking# this item."/>
+	</imgdir>
+    <imgdir name="2542005">
+		<string name="name" value="Bed Head Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to change your hairstyle to #c[Bed Head Hair]#."/>
+	</imgdir>
+    <imgdir name="2542006">
+		<string name="name" value="Vivacious Wavy Hair Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to change your hairstyle to #c[Vivacious Wavy Hair]#."/>
+	</imgdir>
+    <imgdir name="2550000">
+		<string name="name" value="Spiegelmann's Badge Chest"/>
+		<string name="desc" value="Contains an unknown badge.\n#cDouble-click on it to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2550001">
+		<string name="name" value="Halloween Badge Box"/>
+		<string name="desc" value="The contents could be spooky, ghoulish, scary, or hair-raising, but you'll have to be brave to find out. \n#cDouble-click to open during the Halloween Event#"/>
+	</imgdir>
+    <imgdir name="2550002">
+		<string name="name" value="Black Dragon Badge Box"/>
+		<string name="desc" value="A black dragon badge box. Its contents are unknown. \n#cDouble-click on it to check what's inside. However, it can only be opened until 2012/12/31."/>
+	</imgdir>
+    <imgdir name="2550003">
+		<string name="name" value="Spiegelmann's Jewelry Box"/>
+		<string name="desc" value="Spiegelmann's jewelry box containing a random Jewel-Studded Epaulette.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2550006">
+		<string name="name" value="Mini-Sun Badge Box"/>
+		<string name="desc" value="A Mini-Sun Badge box. It's contents are unknown. \n#cDouble-click to see what's inside. However, it can only be opened during the new years Event period.#"/>
+	</imgdir>
+    <imgdir name="2560001">
+		<string name="name" value="[Crusader Codex] Tame Creatures"/>
+		<string name="desc" value="ダブルクリックして使用すれば #c 動物-下級# セットをモンスターブックに追加することができる。"/>
+	</imgdir>
+    <imgdir name="2560002">
+		<string name="name" value="[Crusader Codex] Wild Animals"/>
+		<string name="desc" value="ダブルクリックして使用すれば #c 動物-中級# セットをモンスターブックに追加することができる。"/>
+	</imgdir>
+    <imgdir name="2560003">
+		<string name="name" value="[Crusader Codex] Vicious Beasts"/>
+		<string name="desc" value="ダブルクリックして使用すれば #c 動物-上級# セットをモンスターブックに追加することができる。"/>
+	</imgdir>
+    <imgdir name="2560004">
+		<string name="name" value="[Crusader Codex] Terrifying Monsters"/>
+		<string name="desc" value="ダブルクリックして使用すれば #c 動物-最上級# セットをモンスターブックに追加することができる。"/>
+	</imgdir>
+    <imgdir name="2560005">
+		<string name="name" value="[Crusader Codex] How to Be Awesome"/>
+		<string name="desc" value="ダブルクリックして使用すれば #c イブニング娘# セットをモンスターブックに追加することができる。"/>
+	</imgdir>
+    <imgdir name="2570000">
+		<string name="name" value="Glittering Joy Bird Feather"/>
+		<string name="desc" value="A feather that can upgrade Maple Beryl Equipment to Crimson Maple Equipment with additional potential. You must have 1 empty slot in your Equip Inventory.\r\n#cShoulders cannot gain potential, and previous potential on the Beryl equipment will disappear.#"/>
+	</imgdir>
+    <imgdir name="2570001">
+		<string name="name" value="Joy Bird Feather"/>
+		<string name="desc" value="A feather that has 40% chance of upgrading Maple Beryl Equipment to Crimson Maple Equipment with additional potential. You must have 1 empty slot in your Equip Inventory.\r\n#cShoulders cannot gain potential, and previous potential on the Beryl equipment will disappear if successful.#"/>
+	</imgdir>
+    <imgdir name="2570002">
+		<string name="name" value="Amethysian Polishing Feather"/>
+		<string name="desc" value="This feather has an 80% chance of upgrading Maple Amethysian Equipment to Grand Maple Amethysian Equipment with additional potentials. You must have 1 empty slot in your Equip Tab.\r\n#cCurrent potential and upgrades will disappear upon successful enhancement.#"/>
+	</imgdir>
+</imgdir>

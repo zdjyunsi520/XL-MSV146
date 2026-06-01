@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20031106"><string name="name" value="命运坐骑"/><string name="desc" value="[大师等级：1]\n骑上命运坐骑出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="20031160"><string name="name" value="劳斯"/><string name="desc" value="[大师等级：1]\n驾驶幻影最爱的座驾——劳斯！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 150, Jump: 120"/></imgdir>
+    <imgdir name="20031161"><string name="name" value="莱斯"/><string name="desc" value="[大师等级：1]\n驾驶幻影最快的座驾——莱斯！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 190, Jump: 120"/></imgdir>
+    <imgdir name="20031179"><string name="name" value="白天使"/><string name="desc" value="[大师等级：1]\n召唤封印在白天使祝福中的白天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="20030180"><string name="name" value="白天使祝福"/><string name="desc" value="[大师等级：1] 接受白天使的祝福～"/><string name="h1" value="ATT: 12, Magic ATT: 12, Duration: 10 min"/></imgdir>
+    <imgdir name="20030190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大的力量！"/><string name="h" value="Permanently increases STR: #strX, DEX: #dexX, INT: #intX, LUK: #lukX, ATT: #padX, Magic ATT: #madX"/></imgdir>
+    <imgdir name="20031203"><string name="name" value="升空"/><string name="desc" value="返回幻影的飞艇——光明号。"/><string name="h" value="MP Cost: #mpCon, Returns you to Lumiere"/></imgdir>
+    <imgdir name="20030204"><string name="name" value="幻影本能"/><string name="desc" value="凭借超凡的洞察力发现敌人的致命弱点！"/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="20031205"><string name="name" value="卡牌遁走"/><string name="desc" value="用卡牌之幕包裹身体，瞬间移动到远处！"/><string name="h" value="MP Cost: #mpCon, Use directional keys to teleport\n(Arrows shown only for the directions you can go to)\nNumber of directional keys you can enter: #z"/></imgdir>
+    <imgdir name="20030206"><string name="name" value="灵巧修炼"/><string name="desc" value="幻影拥有超凡的洞察力和灵巧性，可以驾驭各种武器。"/><string name="h" value="DEX +#dexX, Base Avoidability: +#er%, Diligence  Lv. 20, Insight Lv. 20"/></imgdir>
+    <imgdir name="20031207"><string name="name" value="技能窃取"/><string name="desc" value="偷取附近冒险家的技能！部分技能无法偷取哦～"/><string name="h" value="MP Cost: #mpCon, Shifts to steal mode upon use\nMove the mouse cursor to select the nearby Explorer character"/></imgdir>
+    <imgdir name="20031208"><string name="name" value="技能管理"/><string name="desc" value="管理从其他冒险家那里偷来的技能。使用此技能可以丢弃偷来的技能，或通过完美记忆调用它们。配置后不能直接使用技能。"/><string name="h" value="Manage stolen skills. 30 second cooldown added."/></imgdir>
+    <imgdir name="20031211"><string name="name" value="幽灵漫步"/><string name="desc" value="幻影教程专用技能。\n使用此技能可以躲避警卫的侦测。#c如果与警卫碰撞就会被发现哦#"/><string name="h" value="Goes into hide mode"/></imgdir>
+    <imgdir name="20031212"><string name="name" value="小钱打发"/><string name="desc" value="幻影教程专用技能。\n用一点小钱分散警卫的注意力！"/><string name="h" value="Tosses Mesos to distract a guard"/></imgdir>
+    <imgdir name="20038000"><string name="name" value="高级敏捷"/><string name="desc" value="[潜能技能]\n暂时提升移动速度和跳跃力。"/><string name="h1" value="MP Cost: 50, Movement Speed: +20, Jump: +10, Duration: 200 sec"/></imgdir>
+    <imgdir name="20038001"><string name="name" value="高级时空门"/><string name="desc" value="[潜能技能]\n生成通往最近城镇的传送门。在消失前你可以自由使用。站在传送门上按上方向键即可使用。"/><string name="h1" value="MP Cost: 120, Uses 2 Magic Rocks, Portal Duration: 120 sec"/></imgdir>
+    <imgdir name="20038002"><string name="name" value="高级锐利之眼"/><string name="desc" value="[潜能技能]\n发现敌人的弱点，造成致命伤害！"/><string name="h1" value="MP Cost: 80, Crit Rate: +10%, Max Crit Damage: +15%, Duration: 240 sec"/></imgdir>
+    <imgdir name="20038003"><string name="name" value="高级极限体力"/><string name="desc" value="[潜能技能]\n提升最大HP和最大MP。"/><string name="h1" value="MP Cost: 80, Max HP and Max MP: +40%, Duration: 240 sec"/></imgdir>
+    <imgdir name="20038004"><string name="name" value="高级战斗命令"/><string name="desc" value="[潜能技能] 暂时提升你所有技能的等级。#c已经达到大师等级的技能不会被提升。#\n例外：新手技能和战斗命令不能被提升。"/><string name="h1" value="MP Cost: 64, All skill levels increased by 1 level for 240 seconds."/></imgdir>
+    <imgdir name="20038005"><string name="name" value="高级进阶祝福"/><string name="desc" value="[潜能技能]\n大幅提升物理攻击、魔法攻击、防御、命中率、回避率、最大HP和最大MP。减少使用技能时的MP消耗量。可以与其他增益技能叠加，但不能与进阶祝福叠加。"/><string name="h1" value="MP Cost: 120. For 240 seconds - Weapon ATT: +20, Magic ATT: +20, Weapon DEF +425, Magic DEF +425, Accuracy +260, Avoidability +260, Max HP +475, Max MP +475, MP Consumption: -12%"/></imgdir>
+</imgdir>

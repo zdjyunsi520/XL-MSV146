@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046838">
+		<string name="name" value="丽贝卡的饰品魔法攻击卷轴40%"/>
+		<string name="desc" value="只能用于丽贝卡特殊饰品的卷轴。提升魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时100%摧毁物品\r\n魔法攻击：+2至7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046839">
+		<string name="name" value="饰品武器攻击卷轴30%"/>
+		<string name="desc" value="提升饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时50%摧毁物品\r\n武器攻击：+2至4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046840">
+		<string name="name" value="饰品魔法攻击卷轴30%"/>
+		<string name="desc" value="提升饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时50%摧毁物品\r\n魔法攻击：+2至4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046841">
+		<string name="name" value="巅峰饰品武器攻击卷轴20%"/>
+		<string name="desc" value="提升饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时100%摧毁物品\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046842">
+		<string name="name" value="巅峰饰品魔法攻击卷轴20%"/>
+		<string name="desc" value="提升饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时100%摧毁物品\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046843">
+		<string name="name" value="饰品附魔卷轴50%"/>
+		<string name="desc" value="为饰品附魔。"/>
+		<string name="autodesc" value="\r\n#c成功率50%\r\n失败时100%摧毁物品\r\n生命值+50\r\n魔法值+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2046856">
+		<string name="name" value="高级饰品武器攻击卷轴100%"/>
+		<string name="desc" value="提升饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+4至+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046857">
+		<string name="name" value="高级饰品魔法攻击卷轴100%"/>
+		<string name="desc" value="提升饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+4至+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047906">
+		<string name="name" value="防具武器攻击秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n武器攻击+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047907">
+		<string name="name" value="防具魔法攻击秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n魔法攻击+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047908">
+		<string name="name" value="防具力量秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n力量+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047909">
+		<string name="name" value="防具智力秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n智力+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047910">
+		<string name="name" value="防具敏捷秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n敏捷+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047911">
+		<string name="name" value="防具运气秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升防具的运气。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n运气+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047912">
+		<string name="name" value="防具武器攻击卷轴40%"/>
+		<string name="desc" value="提升防具的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047913">
+		<string name="name" value="防具魔法攻击卷轴40%"/>
+		<string name="desc" value="提升防具的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047914">
+		<string name="name" value="觉醒防具强化卷轴50%"/>
+		<string name="desc" value="提升防具属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047915">
+		<string name="name" value="觉醒防具增强卷轴50%"/>
+		<string name="desc" value="提升防具属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n最大生命值：+100\r\n最大魔法值：+100\r\n回避率：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2023132">
+		<string name="name" value="3倍掉率券"/>
+		<string name="desc" value="使用后一小时内物品掉率变为三倍。"/>
+	</imgdir>
+    <imgdir name="2023133">
+		<string name="name" value="黄金海岸厨师特制"/>
+		<string name="desc" value="黄金海岸餐厅的招牌菜不仅美味，还对你有好处！增加野心、共情、洞察、意志、勤奋和魅力。
+#c双击使用。#"/>
+	</imgdir>
+</imgdir>

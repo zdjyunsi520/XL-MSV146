@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Familiar.img">
+	<imgdir name="skill">
+			<imgdir name="801">
+				<string name="name" value="突进"/>
+				<string name="desc" value="攻击时以60%的概率击退2名敌人。"/>
+			</imgdir>
+			<imgdir name="802">
+				<string name="name" value="诱惑"/>
+				<string name="desc" value="攻击时有60%几率拉近2个敌人。"/>
+			</imgdir>
+			<imgdir name="803">
+				<string name="name" value="树皮"/>
+				<string name="desc" value="攻击时有60%几率眩晕2个敌人2秒。"/>
+			</imgdir>
+			<imgdir name="804">
+				<string name="name" value="观察"/>
+				<string name="desc" value="攻击时有60%几率使2个敌人减速3秒。"/>
+			</imgdir>
+			<imgdir name="805">
+				<string name="name" value="中毒"/>
+				<string name="desc" value="攻击时有60%几率使2个敌人中毒3秒。"/>
+			</imgdir>
+			<imgdir name="806">
+				<string name="name" value="冲锋"/>
+				<string name="desc" value="攻击时有80%几率击退3个敌人。"/>
+			</imgdir>
+			<imgdir name="807">
+				<string name="name" value="挑衅"/>
+				<string name="desc" value="攻击时有80%几率拉近3个敌人。"/>
+			</imgdir>
+			<imgdir name="808">
+				<string name="name" value="咆哮"/>
+				<string name="desc" value="攻击时有80%几率眩晕3个敌人4秒。"/>
+			</imgdir>
+			<imgdir name="809">
+				<string name="name" value="审视"/>
+				<string name="desc" value="攻击时有80%几率使3个敌人减速6秒。"/>
+			</imgdir>
+			<imgdir name="810">
+				<string name="name" value="剧毒"/>
+				<string name="desc" value="攻击时有80%几率使3个敌人中毒6秒。"/>
+			</imgdir>
+			<imgdir name="811">
+				<string name="name" value="猴王诅咒"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人中毒6秒。"/>
+			</imgdir>
+			<imgdir name="812">
+				<string name="name" value="毒蛇毒液"/>
+				<string name="desc" value="攻击时有80%几率使3个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="813">
+				<string name="name" value="蜗牛摇篮曲"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速6秒。"/>
+			</imgdir>
+			<imgdir name="814">
+				<string name="name" value="穿透凝视"/>
+				<string name="desc" value="攻击时有80%几率使3个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="815">
+				<string name="name" value="苹果果冻气味"/>
+				<string name="desc" value="攻击2次，有80%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="816">
+				<string name="name" value="海洋漩涡"/>
+				<string name="desc" value="攻击3次，有80%几率击退3个敌人。"/>
+			</imgdir>
+			<imgdir name="817">
+				<string name="name" value="鬼叫"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="818">
+				<string name="name" value="黄金雪人咆哮"/>
+				<string name="desc" value="攻击2次，有80%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="819">
+				<string name="name" value="巨型鳄鱼咆哮"/>
+				<string name="desc" value="攻击2次，有80%几率眩晕4个敌人4秒。"/>
+			</imgdir>
+			<imgdir name="820">
+				<string name="name" value="独眼凝视"/>
+				<string name="desc" value="攻击时有100%几率使3个敌人减速10秒。"/>
+			</imgdir>
+			<imgdir name="821">
+				<string name="name" value="致命毒液"/>
+				<string name="desc" value="攻击时有100%几率使3个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="822">
+				<string name="name" value="首领支援"/>
+				<string name="desc" value="攻击时有80%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="823">
+				<string name="name" value="高音"/>
+				<string name="desc" value="攻击2次，有80%几率眩晕4个敌人4秒。"/>
+			</imgdir>
+			<imgdir name="824">
+				<string name="name" value="女王之泪"/>
+				<string name="desc" value="攻击时有80%几率眩晕3个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="825">
+				<string name="name" value="巨型蜈蚣毒液"/>
+				<string name="desc" value="攻击时有100%几率使3个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="826">
+				<string name="name" value="冰风"/>
+				<string name="desc" value="攻击3次，有80%几率击退3个敌人。"/>
+			</imgdir>
+			<imgdir name="827">
+				<string name="name" value="哥布林哨子"/>
+				<string name="desc" value="攻击时有80%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="828">
+				<string name="name" value="螺丝刀"/>
+				<string name="desc" value="攻击2次，有80%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="829">
+				<string name="name" value="牧羊"/>
+				<string name="desc" value="攻击时有100%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="830">
+				<string name="name" value="娃娃的怨恨"/>
+				<string name="desc" value="攻击2次，有80%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="831">
+				<string name="name" value="狼人咆哮"/>
+				<string name="desc" value="攻击2次，有100%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="832">
+				<string name="name" value="黑暗骑士之怒"/>
+				<string name="desc" value="攻击时有80%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="833">
+				<string name="name" value="骑士威压"/>
+				<string name="desc" value="攻击2次，有100%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="834">
+				<string name="name" value="时间调节"/>
+				<string name="desc" value="攻击时有80%几率使3个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="835">
+				<string name="name" value="巨鱼吐息"/>
+				<string name="desc" value="攻击2次，有100%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="836">
+				<string name="name" value="龙之火焰路"/>
+				<string name="desc" value="范围攻击，有几率眩晕最多6个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="837">
+				<string name="name" value="时间后撤"/>
+				<string name="desc" value="攻击2次，有100%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="838">
+				<string name="name" value="粉红bean的诱惑"/>
+				<string name="desc" value="范围攻击，有几率拉近最多6个敌人。"/>
+			</imgdir>
+			<imgdir name="839">
+				<string name="name" value="伟大战士之力"/>
+				<string name="desc" value="范围攻击，有几率眩晕最多5个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="840">
+				<string name="name" value="伟大魔法师之魔法"/>
+				<string name="desc" value="范围攻击，有几率使最多5个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="841">
+				<string name="name" value="伟大弓箭手之射击"/>
+				<string name="desc" value="范围攻击，有几率击退最多5个敌人。"/>
+			</imgdir>
+			<imgdir name="842">
+				<string name="name" value="伟大盗贼之毒"/>
+				<string name="desc" value="范围攻击，有几率使最多5个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="843">
+				<string name="name" value="伟大海盗之魅惑"/>
+				<string name="desc" value="范围攻击，有几率拉近最多5个敌人。"/>
+			</imgdir>
+			<imgdir name="844">
+				<string name="name" value="多重反转攻击"/>
+				<string name="desc" value="范围攻击，最多击中4个敌人。"/>
+			</imgdir>
+			<imgdir name="845">
+				<string name="name" value="心脏病发作"/>
+				<string name="desc" value="范围攻击，有几率使最多4个敌人减速6秒。"/>
+			</imgdir>
+			<imgdir name="846">
+				<string name="name" value="内心愤怒"/>
+				<string name="desc" value="攻击时有80%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="847">
+				<string name="name" value="背叛之毒"/>
+				<string name="desc" value="范围攻击，有几率使最多5个敌人中毒10秒。"/>
+			</imgdir>
+			<imgdir name="848">
+				<string name="name" value="战斗热潮"/>
+				<string name="desc" value="范围攻击，有几率拉近最多6个敌人。"/>
+			</imgdir>
+			<imgdir name="849">
+				<string name="name" value="孤独呐喊"/>
+				<string name="desc" value="攻击时有80%几率眩晕3个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="850">
+				<string name="name" value="坚不可摧防御"/>
+				<string name="desc" value="攻击2次，有100%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="873">
+				<string name="name" value="橙色毒孢子"/>
+				<string name="desc" value="攻击2次，有100%几率使4个敌人中毒6秒。"/>
+			</imgdir>
+			<imgdir name="874">
+				<string name="name" value="催眠"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="875">
+				<string name="name" value="火焰感应"/>
+				<string name="desc" value="攻击2次，有80%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="876">
+				<string name="name" value="突破"/>
+				<string name="desc" value="攻击2次，有80%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="877">
+				<string name="name" value="剧毒"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="878">
+				<string name="name" value="冲击波"/>
+				<string name="desc" value="攻击时有80%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="879">
+				<string name="name" value="红色蜗牛图案"/>
+				<string name="desc" value="攻击2次，有100%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="880">
+				<string name="name" value="史莱姆的粘鸟剂"/>
+				<string name="desc" value="攻击4次，有100%几率拉近4个敌人。"/>
+			</imgdir>
+			<imgdir name="881">
+				<string name="name" value="缎带猪连击"/>
+				<string name="desc" value="攻击4次，有100%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="882">
+				<string name="name" value="僵尸蘑菇诅咒"/>
+				<string name="desc" value="攻击2次，有100%几率使4个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="883">
+				<string name="name" value="小精灵小夜曲"/>
+				<string name="desc" value="攻击2次，有100%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="884">
+				<string name="name" value="海盗空中冲击"/>
+				<string name="desc" value="范围攻击，有几率击退最多5个敌人。"/>
+			</imgdir>
+			<imgdir name="885">
+				<string name="name" value="巧克力旋律"/>
+				<string name="desc" value="范围攻击，有几率眩晕最多5个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="886">
+				<string name="name" value="红色战士挑衅"/>
+				<string name="desc" value="范围攻击，有几率拉近最多5个敌人。"/>
+			</imgdir>
+			<imgdir name="887">
+				<string name="name" value="红色盗贼致命毒"/>
+				<string name="desc" value="范围攻击，有几率使最多5个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="888">
+				<string name="name" value="忍者红焰"/>
+				<string name="desc" value="范围攻击，有几率拉近最多6个敌人。"/>
+			</imgdir>
+			<imgdir name="889">
+				<string name="name" value="忍者寒风"/>
+				<string name="desc" value="范围攻击，有几率击退最多6个敌人。"/>
+			</imgdir>
+			<imgdir name="890">
+				<string name="name" value="时间控制"/>
+				<string name="desc" value="范围攻击，有几率使最多6个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="891">
+				<string name="name" value="武术终结技"/>
+				<string name="desc" value="范围攻击，最多击中8个敌人4次。"/>
+			</imgdir>
+			<imgdir name="892">
+				<string name="name" value="集中射击"/>
+				<string name="desc" value="范围攻击，最多击中12个敌人。"/>
+			</imgdir>
+			<imgdir name="893">
+				<string name="name" value="集中炮击"/>
+				<string name="desc" value="范围攻击，最多击中10个敌人2次。"/>
+			</imgdir>
+			<imgdir name="894">
+				<string name="name" value="力量之手"/>
+				<string name="desc" value="范围攻击，有几率使最多5个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="895">
+				<string name="name" value="城堡墙壁撞击"/>
+				<string name="desc" value="范围攻击，有几率眩晕最多6个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="896">
+				<string name="name" value="监狱守卫引导"/>
+				<string name="desc" value="范围攻击，有几率拉近最多8个敌人。"/>
+			</imgdir>
+			<imgdir name="897">
+				<string name="name" value="黎明战士威压"/>
+				<string name="desc" value="攻击时有80%几率眩晕5个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="898">
+				<string name="name" value="火焰巫师嘲讽"/>
+				<string name="desc" value="攻击2次，有80%几率拉近5个敌人。"/>
+			</imgdir>
+			<imgdir name="899">
+				<string name="name" value="风之射手阵风"/>
+				<string name="desc" value="攻击2次，有80%几率击退5个敌人。"/>
+			</imgdir>
+			<imgdir name="900">
+				<string name="name" value="夜行者致命毒"/>
+				<string name="desc" value="攻击时有80%几率使5个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="901">
+				<string name="name" value="雷霆霸者审视"/>
+				<string name="desc" value="攻击时有80%几率使5个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="902">
+				<string name="name" value="神算之翼冲击"/>
+				<string name="desc" value="范围攻击，有几率击退最多10个敌人。"/>
+			</imgdir>
+			<imgdir name="903">
+				<string name="name" value="女帝诅咒"/>
+				<string name="desc" value="范围攻击，有几率使最多12个敌人中毒10秒。"/>
+			</imgdir>
+			<imgdir name="852">
+				<string name="name" value="父母引导"/>
+				<string name="desc" value="攻击2次，有100%几率穿透4个敌人。"/>
+			</imgdir>
+			<imgdir name="855">
+				<string name="name" value="毒蛤"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人中毒8秒。"/>
+			</imgdir>
+			<imgdir name="872">
+				<string name="name" value="老狐狸尾巴"/>
+				<string name="desc" value="攻击3次，有100%几率穿透3个敌人。"/>
+			</imgdir>
+			<imgdir name="851">
+				<string name="name" value="催眠烟雾"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="853">
+				<string name="name" value="Amata波"/>
+				<string name="desc" value="攻击2次，有80%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="854">
+				<string name="name" value="双胞胎诅咒"/>
+				<string name="desc" value="范围攻击，使最多6个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="856">
+				<string name="name" value="恐怖旋律"/>
+				<string name="desc" value="攻击时有100%几率击倒4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="857">
+				<string name="name" value="晕船"/>
+				<string name="desc" value="攻击2次，有100%几率眩晕4个敌人。"/>
+			</imgdir>
+			<imgdir name="858">
+				<string name="name" value="沉默之歌"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速8秒。"/>
+			</imgdir>
+			<imgdir name="859">
+				<string name="name" value="红色火花陷阱"/>
+				<string name="desc" value="攻击2次，有80%几率穿透4个敌人。"/>
+			</imgdir>
+			<imgdir name="860">
+				<string name="name" value="Sheryl挑衅"/>
+				<string name="desc" value="范围攻击，4次连续攻击，最多穿透4个敌人。"/>
+			</imgdir>
+			<imgdir name="861">
+				<string name="name" value="乌鸦之怒"/>
+				<string name="desc" value="范围攻击，4次连续攻击，击退最多4个敌人。"/>
+			</imgdir>
+			<imgdir name="862">
+				<string name="name" value="夜间冲刺"/>
+				<string name="desc" value="攻击2次，有100%几率眩晕4个敌人6秒。"/>
+			</imgdir>
+			<imgdir name="863">
+				<string name="name" value="突然反击"/>
+				<string name="desc" value="攻击时有100%几率击倒3个敌人10秒。"/>
+			</imgdir>
+			<imgdir name="864">
+				<string name="name" value="爆炸伏击"/>
+				<string name="desc" value="范围攻击，2次攻击，使最多4个敌人减速10秒。"/>
+			</imgdir>
+			<imgdir name="865">
+				<string name="name" value="强力枪手"/>
+				<string name="desc" value="攻击3次，有80%几率击退3个敌人。"/>
+			</imgdir>
+			<imgdir name="866">
+				<string name="name" value="黎明之泪"/>
+				<string name="desc" value="攻击2次，有80%几率眩晕3个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="867">
+				<string name="name" value="功夫生物"/>
+				<string name="desc" value="攻击2次，有100%几率击退4个敌人。"/>
+			</imgdir>
+			<imgdir name="868">
+				<string name="name" value="腐烂南瓜灯"/>
+				<string name="desc" value="范围攻击，2次攻击，使最多6个敌人中毒6秒。"/>
+			</imgdir>
+			<imgdir name="869">
+				<string name="name" value="暖心者"/>
+				<string name="desc" value="攻击2次，有80%几率穿透4个敌人。"/>
+			</imgdir>
+			<imgdir name="870">
+				<string name="name" value="雪人打嗝"/>
+				<string name="desc" value="攻击时有100%几率击倒4个敌人8秒。"/>
+			</imgdir>
+			<imgdir name="871">
+				<string name="name" value="不可侵犯防御"/>
+				<string name="desc" value="攻击时有80%几率使4个敌人减速4秒。"/>
+			</imgdir>
+	</imgdir>
+</imgdir>

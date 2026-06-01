@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1562004"><string name="name" value="Lapis Type 4"/></imgdir>
+    <imgdir name="1562005"><string name="name" value="Lapis Type 5"/></imgdir>
+    <imgdir name="1562006"><string name="name" value="Lapis Type 6"/></imgdir>
+    <imgdir name="1562007"><string name="name" value="Lapis Type 7"/></imgdir>
+    <imgdir name="1572000"><string name="name" value="Sharp Shadow"/></imgdir>
+    <imgdir name="1572001"><string name="name" value="Lazuli Type 1"/></imgdir>
+    <imgdir name="1572002"><string name="name" value="Lazuli Type 2"/></imgdir>
+    <imgdir name="1572003"><string name="name" value="Lazuli Type 3"/></imgdir>
+    <imgdir name="1572004"><string name="name" value="Lazuli Type 4"/></imgdir>
+    <imgdir name="1572005"><string name="name" value="Lazuli Type 5"/></imgdir>
+    <imgdir name="1572006"><string name="name" value="Lazuli Type 6"/></imgdir>
+    <imgdir name="1572007"><string name="name" value="Lazuli Type 7"/></imgdir>
+    <imgdir name="1602000"><string name="name" value="Basic Skill Effect (Warrior)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st job skills. (Warriors only)"/></imgdir>
+    <imgdir name="1602001"><string name="name" value="Basic Skill Effect (Magian)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st job skills. (Magicians only)"/></imgdir>
+    <imgdir name="1602002"><string name="name" value="Basic Skill Effect (Bowman)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st job skills. (Bowmen only)"/></imgdir>
+    <imgdir name="1602003"><string name="name" value="Basic Skill Effect (Thief)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st job skills. (Thieves only)"/></imgdir>
+    <imgdir name="1602004"><string name="name" value="Combo Skill Effect (Warrior)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st &amp; 2nd job skills. (Warriors only)"/></imgdir>
+    <imgdir name="1602005"><string name="name" value="Combo Skill Effect (Magician)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st &amp; 2nd job skills. (Magicians only)"/></imgdir>
+    <imgdir name="1602006"><string name="name" value="Combo Skill Effect (Bowmen)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st &amp; 2nd job skills. (Bowmen only)"/></imgdir>
+    <imgdir name="1602007"><string name="name" value="Combo Skill Effect (Thief)"/><string name="desc" value="Attach to your weapon for an added effect to your 1st &amp; 2nd job skills. (Thieves only)"/></imgdir>
+</imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="1321012">
+        <string name="name" value="Dark Impale" />
+        <string name="desc" value="Quickly attacks multiple enemies 5 times in a row with a chance to instant KO the targets." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Instant KO Chance: #z%" />
+        <string name="pdesc" value="Quickly attacks multiple enemies 5 times in a row with a chance to instant KO the targets." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Instant KO Chance: #z%" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Instant KO Chance: #z%" />
+    </imgdir>

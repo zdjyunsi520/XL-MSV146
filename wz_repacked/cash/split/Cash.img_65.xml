@@ -1,0 +1,80 @@
+<imgdir name="Cash.img">
+    <imgdir name="5680129">
+		<string name="name" value="Blast 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Blast 20#."/>
+	</imgdir>
+    <imgdir name="5680130">
+		<string name="name" value="Guardian 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Guardian 20#."/>
+	</imgdir>
+    <imgdir name="5680131">
+		<string name="name" value="Divine Charge 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Divine Charge 20#."/>
+	</imgdir>
+    <imgdir name="5680132">
+		<string name="name" value="Heaven's Hammer 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Heaven's Hammer 20#."/>
+	</imgdir>
+    <imgdir name="5680133">
+		<string name="name" value="Advanced Combo Attack 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Advanced Combo Attack 20#."/>
+	</imgdir>
+    <imgdir name="5680134">
+		<string name="name" value="Enrage 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Enrage 20#."/>
+	</imgdir>
+    <imgdir name="5680135">
+		<string name="name" value="Raging Blow 20 Mastery Book Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a #c[Mastery Book] Raging Blow 20#."/>
+	</imgdir>
+    <imgdir name="5680138">
+		<string name="name" value="Korean Thanksgiving Reward 1"/>
+	</imgdir>
+    <imgdir name="5680139">
+		<string name="name" value="Korean Thanksgiving Reward 2"/>
+	</imgdir>
+    <imgdir name="5680140">
+		<string name="name" value="Nobler Mapler Box"/>
+		<string name="desc" value="#cDouble-click# to receive a #cgift well-suited for more dignified Maplers#."/>
+	</imgdir>
+    <imgdir name="5680145">
+		<string name="name" value="Summer's Comin' Event Gift"/>
+		<string name="desc" value="A reward box for the Summer's Comin' event! #cDouble-click# to receive a prize from the list below.  \n\n- Horntail Chair"/>
+	</imgdir>
+    <imgdir name="5680146">
+		<string name="name" value="Summer's Comin' Event Gift"/>
+		<string name="desc" value="A reward box for the Summer's Comin' event! #cDouble-click# to receive a prize from the list below.  \n\n- Philosopher's Book"/>
+	</imgdir>
+    <imgdir name="5680147">
+		<string name="name" value="Summer's Comin' Event Gift"/>
+		<string name="desc" value="A reward box for the Summer's Comin' event! #cDouble-click# to receive a prize from the list below.  \n\n- Horntail Chair\n- Philosopher's Book\n- Shielding Ward\n- 3 Chaos Scroll of Goodness 50%"/>
+	</imgdir>
+    <imgdir name="5680148">
+		<string name="name" value="5K Maple Point Coupon"/>
+		<string name="desc" value="#cDouble-click# on this coupon to receive #c5000 Maple Points#."/>
+	</imgdir>
+    <imgdir name="5680149">
+		<string name="name" value="10K Maple Point Coupon"/>
+		<string name="desc" value="#cDouble-click# on this coupon to receive #c10,000 Maple Points#."/>
+	</imgdir>
+    <imgdir name="5680150">
+		<string name="name" value="30K Maple Point Coupon"/>
+		<string name="desc" value="#cDouble-click# on this coupon to receive #c30,000 Maple Points#."/>
+	</imgdir>
+    <imgdir name="5680151">
+		<string name="name" value="1K Maple Point Coupon"/>
+		<string name="desc" value="#cDouble-click# on this coupon to receive #c1000 Maple Points#."/>
+	</imgdir>
+    <imgdir name="5689000">
+		<string name="name" value="Premium Water of Life"/>
+		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll. The spell does not work on pets who have no remaining duration, including #cMiracle Pets#."/>
+	</imgdir>
+    <imgdir name="5680154">
+		<string name="name" value="Monster Incubator"/>
+		<string name="desc" value="#cDouble-click# to get add an adorable monster to your farm in Monster Life.\n#cMonsters acquired from the Incubator can have Potentials or be combined.#"/>
+	</imgdir>
+    <imgdir name="5680155">
+		<string name="name" value="Monster Life Gem X7 Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive a coupon for 7 Gems for your Monster Life farm inventory.\r\n#c Move to your farm and use the Gem X7 Coupon to acquire the Gems.# "/>
+	</imgdir>
+</imgdir>

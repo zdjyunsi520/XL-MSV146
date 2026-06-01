@@ -1,0 +1,5 @@
+<imgdir name="30011061">
+        <string name="name" value="Capture" />
+        <string name="desc" value="[Master Level: 1]\nAllows you to capture a monster after its HP falls below 50%.\nMonsters captured in the Jaguar habitat can be used as mounts.\n#cCooldown: 10 sec#" />
+        <string name="h1" value="MP Cost: 10, can capture up to 5 types of monsters" />
+    </imgdir>

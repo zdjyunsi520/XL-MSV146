@@ -1,0 +1,7 @@
+<imgdir name="5321004">
+        <string name="name" value="Monkey Militia" />
+        <string name="desc" value="Summons Artillery Monkey Twins to aid you in battle." />
+        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec, Damage: #damage%, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec#" />
+        <string name="pdesc" value="Summons Artillery Monkey Twins to aid you in battle." />
+        <string name="ph" value="MP Cost: #mpCon, Summon Duration: #time sec, Damage: #damage%, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec#" />
+    </imgdir>

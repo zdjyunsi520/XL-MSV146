@@ -1,0 +1,7 @@
+<imgdir name="11110005">
+        <string name="name" value="进阶连击" />
+        <string name="desc" value="提升每个连击球增加的伤害，并可以积攒更多连击球。还有几率以双倍速度积攒连击球。\n需要技能：#c连击攻击 Lv. 20#" />
+        <string name="h" value="Damage: +#v% per combo orb, Max Combo Orbs: #x, Double Charge Speed Proc Rate: #prop%" />
+        <string name="pdesc" value="提升最大连击球数，并有几率以双倍速度获得连击球。\n需要技能：#c连击攻击 Lv. 20#" />
+        <string name="ph" value="Max Combo Orbs: +#x, Double Combo Orb Chance: #prop%" />
+    </imgdir>

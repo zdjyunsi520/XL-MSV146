@@ -1,0 +1,5 @@
+<imgdir name="31001001">
+        <string name="name" value="Battle Pact" />
+        <string name="desc" value="Infuses your weapon with your own life force to increase One Handed Blunt Weapons or Axes by 2 levels for a short time. \nRequired Skill: #cDemon Lash Lv. 5#" />
+        <string name="h" value="HP Cost: #hpCon, Attack Speed increased for #time sec" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8820303">
+		<string name="name" value="Chaos Pink Bean IV"/>
+	</imgdir>
+    <imgdir name="8820302">
+		<string name="name" value="Chaos Pink Bean III"/>
+	</imgdir>
+    <imgdir name="8820301">
+		<string name="name" value="Chaos Pink Bean II"/>
+	</imgdir>
+    <imgdir name="8820300">
+		<string name="name" value="Chaos Pink Bean I"/>
+	</imgdir>
+    <imgdir name="9000001">
+		<string name="name" value="Zombie Lupin"/>
+	</imgdir>
+    <imgdir name="9000002">
+		<string name="name" value="Horned Mushroom 2"/>
+	</imgdir>
+    <imgdir name="9000100">
+		<string name="name" value="Skeledog"/>
+	</imgdir>
+    <imgdir name="9000101">
+		<string name="name" value="Lupin 2"/>
+	</imgdir>
+    <imgdir name="9000200">
+		<string name="name" value="Evil Eye 2"/>
+	</imgdir>
+    <imgdir name="9000201">
+		<string name="name" value="Stone Golem"/>
+	</imgdir>
+    <imgdir name="9000300">
+		<string name="name" value="Swamp Monster"/>
+	</imgdir>
+    <imgdir name="9000301">
+		<string name="name" value="Blue Mushroom 2"/>
+	</imgdir>
+    <imgdir name="9001000">
+		<string name="name" value="Dances with Balrog's Clone"/>
+	</imgdir>
+    <imgdir name="9001001">
+		<string name="name" value="Grendel the Really Old's Clone"/>
+	</imgdir>
+    <imgdir name="9001002">
+		<string name="name" value="Athena Pierce's Clone"/>
+	</imgdir>
+    <imgdir name="9001003">
+		<string name="name" value="Dark Lord's Clone"/>
+	</imgdir>
+    <imgdir name="9001004">
+		<string name="name" value="Shadow Kyrin"/>
+	</imgdir>
+    <imgdir name="9001005">
+		<string name="name" value="OctoPirate"/>
+	</imgdir>
+    <imgdir name="9001006">
+		<string name="name" value="OctoPirate"/>
+	</imgdir>
+    <imgdir name="9001007">
+		<string name="name" value="Scarecrow for Training"/>
+	</imgdir>
+</imgdir>

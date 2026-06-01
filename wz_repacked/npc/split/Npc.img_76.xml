@@ -1,0 +1,171 @@
+<imgdir name="Npc.img">
+    <imgdir name="9901615">
+		<string name="n0" value="My name is /name, and I have achieved Level 200."/>
+	</imgdir>
+    <imgdir name="9901616">
+		<string name="n0" value="My name is /name, and I have achieved Level 200."/>
+	</imgdir>
+    <imgdir name="9310083">
+		<string name="name" value="Talking Snow Man"/>
+		<string name="d0" value="Jump Event Reward NPC"/>
+		<string name="d1" value="Jump Event Reward NPC"/>
+	</imgdir>
+    <imgdir name="1204033">
+		<string name="name" value="John's Box"/>
+		<string name="d0" value="(It's John's precious box.)"/>
+		<string name="d1" value="(It's John's precious box.)"/>
+	</imgdir>
+    <imgdir name="9250051">
+		<string name="name" value="Mrs. Claus"/>
+		<string name="n0" value="Where is my husband?"/>
+		<string name="n1" value="Do you believe in Santa Claus?"/>
+		<string name="d0" value="Need any help?"/>
+		<string name="d1" value="Nobody's sewing skills are on par with mine! Not even close!"/>
+	</imgdir>
+    <imgdir name="1013000">
+		<string name="d0" value="The outside world is so much better than what I imagined in my egg!"/>
+		<string name="d1" value="Master, if I'm by your side, I'll go anywhere. Anywhere!"/>
+		<string name="name" value="Mir"/>
+		<imgdir name="dialogue">
+			<string name="22500" value="Heh, I can defeat a pig with a single toenail! I am a dragon, you know."/>
+			<string name="22501" value="I'm so weak from hunger, I couldn't even defeat a pig. The pig would probably end up eating me... I feel so weak..."/>
+			<string name="22502" value="Look for the word 'impossible' in the dictionary and you'll see a picture of a Dragon eating grass. I refuse to eat it. It's gross! Bleh!"/>
+			<string name="22503" value="Ugh... My stomach... I feel sick."/>
+			<string name="22504" value="Dad probably knows something that can help us! Huh? It's weird that I call him Dad? But what else would I call him? Your dad is my dad, Master."/>
+			<string name="22505" value="The Dairy Cow might be a little scary... Just saying..."/>
+			<string name="22506" value="Ah, so full. Hmm, didn't Dad say he wanted to tell us something?"/>
+			<string name="22507" value="Yeah, that explanation was a little wordy. To sum it up, you and I share the same destiny."/>
+			<string name="22508" value="Ha! Strange Pigs aren't so different from normal Pigs. I can defeat them with one wing tied behind my back."/>
+			<string name="22509" value="Haha, I defeated the Strange Pigs! I'm awesome! We better go tell Dad!"/>
+			<string name="22510" value="So this is what a town looks like. Wow! So many people... And they're all so busy!"/>
+			<string name="22511" value="So this is what helping people is all about!"/>
+			<string name="22512" value="Let's help people who are in trouble! I'm sure this town is full of folk who need help."/>
+			<string name="22513" value="Train! Train! Traaain! Choo choo! Let's train, Master!"/>
+			<string name="22514" value="Power B. Fore, from the Hill East of Henesys... Strange name..."/>
+			<string name="22515" value="Eh, that Power B. Fore guy is kind of a weirdo."/>
+			<string name="22516" value="Cynical Orange Mushrooms! Cynical Orange Mushrooms! What does 'cynical' mean anyway?"/>
+			<string name="22517" value="Master, I'm getting booored..."/>
+			<string name="22518" value="What kind of oddball would raise Spores? Seriously..."/>
+			<string name="22519" value="Ribbon Pigs? Bah! They'll topple to the ground if I just poke them with my pinky."/>
+			<string name="22521" value="You and I are heroes, Master! What? That deed wasn't significant enough to make us heroes? Psh, big or small, it's the thought that counts. Let's just call ourselves heroes!"/>
+			<string name="22523" value="Hey, we saw some crying Blue Mushrooms, remember? I thought they were just being  overly emotional, but I suppose that's not the case..."/>
+			<string name="22524" value="Whoa, this puppet has some seriously bad mojo. You feel it?"/>
+			<string name="22525" value="Luke said he'd need our help when we reach Lv. 20."/>
+			<string name="22526" value="A guard isn't as impressive as a hero, but it's still an important job. Of course, I'd love to do it. Besides, who says we can't be both?"/>
+			<string name="22533" value="Argh! I hate to leave things hanging. I need closure. I won't be able to rest until we catch the culprit. Nella better contact us soon!"/>
+			<string name="22537" value="Of course I'm curious about me, but I'm more curious about my race. Where are all the other dragons?"/>
+			<string name="22546" value="Onyx Dragons... Where are they? They have to be around somewhere..."/>
+			<string name="22548" value="A talking puppet! How bizarre! What? It's bizarre to hear a dragon talk? No, it's not. You're silly!"/>
+			<string name="22552" value="I'm so glad we cleared up Sabitrama's misunderstanding. Only morons jump to conclusions. What do you mean I do it all the time?"/>
+			<string name="22553" value="Hmm, that puppet is actually very nice. I didn't expect that."/>
+			<string name="22554" value="The folks in your hometown don't know you very well, Master. Not nearly as well as I do. It's kind of sad..."/>
+			<string name="22557" value="Phew, I'm so glad everything turned out okay. What a relief!"/>
+			<string name="22558" value="That door with the puppet on it is a big problem. What can we do? Hmm..."/>
+			<string name="22559" value="Heheheh. That was remarkably heroic, if I do say so myself."/>
+			<string name="22560" value="A secret organization of people who do good deeds? Awesome! I'll be like one of those superheroes that hide their identities. Bat-Mir! Mir-verine! IronMir! Oooh, I really want to join!"/>
+			<string name="22561" value="This organization is truly secretive. It's hard to join, because it's so selective!"/>
+			<string name="22563" value="Since I gave you one of my precious scales, we'd better find out more about Onyx Dragons."/>
+			<string name="22564" value="Onyx Dragons are extinct...? But why? How?"/>
+			<string name="22565" value="No. How can Onyx Dragons be extinct when I'm right here? Uh-uh. There have to be other Onyx Dragons somewhere!"/>
+			<string name="22566" value="Yay, we're in! We're in! We're part of the secret organization!"/>
+			<string name="22567" value="This secret organization is more secretive than I imagined... What's the point of being so secretive when you're just helping other people?"/>
+			<string name="22569" value="A clue about Onyx Dragons? Let's ask, Master! Right now!"/>
+			<string name="22570" value="Go, go, go! To Lith Harbor! To John! He might know something about my race!"/>
+			<string name="22571" value="I can't wait to find others like me!"/>
+			<string name="22575" value="Another super secret mission from a super secret organization..."/>
+			<string name="22578" value="Hmm, how is that strange creature, Shammos, related to the secret organization? I can't figure it out."/>
+			<string name="22579" value="Let's rush to that island where the dragons live, Master!"/>
+			<string name="22580" value="At least now I know there's another dragon out there. I can wait longer if I have to. We'll be reunited someday. I just know it."/>
+			<string name="22581" value="Ah, so the mystery of the secret organization is revealed! Sort of... But there's still so much I don't understand."/>
+			<string name="22585" value="I've got a bad feeling about this mission. Is it all in my head?"/>
+			<string name="22586" value="What the... It's our fourth mission and we're still only temporary members?"/>
+			<string name="22588" value="Something... Something just isn't right..."/>
+			<string name="22589" value="What in the world just happened?! I don't understand what's going on..."/>
+			<string name="22590" value="That Dragon talked to me! I'm sure of it!"/>
+			<string name="22591" value="Master, I wasn't able to look into his memory. Tell me! Tell me!"/>
+			<string name="22592" value="Those Black Wings... They tricked us! They destroyed my species! I will never forgive them... "/>
+		</imgdir>
+    <imgdir name="1013001">
+		<string name="name" value="Dragon"/>
+	</imgdir>
+    <imgdir name="1013200">
+		<string name="name" value="Piglet"/>
+	</imgdir>
+    <imgdir name="9000070">
+		<string name="name" value="Full Moon"/>
+	</imgdir>
+    <imgdir name="1022106">
+		<string name="name" value="Christopher"/>
+		<string name="n0" value="Ugh... Is this how the story of Christopher the brilliant explorer ends?"/>
+		<string name="n1" value="Wa-water..."/>
+		<string name="d0" value="*Huff puff.* Is anyone out there? Help. I need someone to help a lost yet nonetheless brilliant explorer. Anyone?"/>
+		<string name="d1" value="Oh, you have made an excellent decision to help me, Christopher, the brilliant explorer! You've done a great thing for mankind."/>
+	</imgdir>
+    <imgdir name="1022107">
+		<string name="name" value="Perion Warning Post"/>
+	</imgdir>
+    <imgdir name="1022108">
+		<string name="name" value="Dances with Balrog"/>
+		<string name="func" value="Warrior Job Instructor"/>
+		<string name="d0" value="Don't slack off on your training! You must keep getting stronger and stronger."/>
+		<string name="d1" value="Perion is counting on you."/>
+	</imgdir>
+    <imgdir name="1052116">
+		<string name="name" value="Thompson"/>
+		<string name="func" value="General Merchant"/>
+		<string name="n0" value="How about a cold drink, hm?"/>
+		<string name="n1" value="I'm going to become a certified barista soon..."/>
+	</imgdir>
+    <imgdir name="1052117">
+		<string name="name" value="Blake's True Self"/>
+		<string name="func" value="Public Service Worker"/>
+		<string name="n0" value="......"/>
+		<string name="n1" value="Wanna hear me sing?"/>
+		<string name="d1" value="Practice, practice. That is the only way!"/>
+		<string name="d0" value="Ah, I want to be a singer so badly."/>
+	</imgdir>
+    <imgdir name="1052118">
+		<string name="name" value="Lockers"/>
+		<string name="d0" value="(Anyone can use these lockers.)"/>
+		<string name="d1" value="(They are tightly shut.)"/>
+	</imgdir>
+    <imgdir name="1052119">
+		<string name="name" value="Lala"/>
+		<string name="n0" value="I didn't know Blake would become such a star!"/>
+		<string name="n1" value="First time in Kerning Square?"/>
+		<string name="d0" value="Blake's songs are really great. But..."/>
+		<string name="d1" value="These songs speak to the soul."/>
+	</imgdir>
+    <imgdir name="1052120">
+		<string name="name" value="Maestro Rho"/>
+		<string name="func" value="Genius Composer"/>
+		<string name="n0" value="Dum dum de dum..."/>
+		<string name="n1" value="It's not easy to kill two birds with one stone."/>
+		<string name="d0" value="Do you want to hear my masterpiece?"/>
+		<string name="d1" value="Isn't it marvelous?"/>
+	</imgdir>
+    <imgdir name="1052121">
+		<string name="name" value="Lana"/>
+		<string name="func" value="CEO of Big Hit Records"/>
+		<string name="n0" value="Everything must be perfect for a successful performance. The stage, lighting, sound, audience..."/>
+		<string name="n1" value="Gimme a call if you want to be a celebrity!"/>
+		<string name="d0" value="Not everyone can be a star. You know that, don't you?"/>
+		<string name="d1" value="I've produced countless hit albums."/>
+	</imgdir>
+    <imgdir name="1052122">
+		<string name="name" value="Tina"/>
+		<string name="func" value="Stylist"/>
+		<string name="n0" value="Want to minimize your flaws and bring out your natural beauty?"/>
+		<string name="n1" value="Smoky makeup is in these days. It accentuates your eyes."/>
+		<string name="d0" value="You simply must let a professional handle your makeup, especially before a huge show."/>
+		<string name="d1" value="What do you think? Pretty good, huh?"/>
+	</imgdir>
+    <imgdir name="1052123">
+		<string name="name" value="Robby Fray"/>
+		<string name="func" value="Seven Star Chef"/>
+		<string name="n0" value="Would you like to sample my gourmet delicacies?"/>
+		<string name="n1" value="I'm the head chef at a seven star hotel, that's true."/>
+		<string name="d0" value="The key to a delectable dish is fresh ingredients...and passion! Passion is everything!"/>
+		<string name="d1" value="Hey, hey, I don't cook for just anyone!"/>
+	</imgdir>
+</imgdir>

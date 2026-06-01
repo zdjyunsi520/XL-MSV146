@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5680042">
+		<string name="name" value="CK: Cygnus Knights"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: PAD, MAD +3 for 2 hours\n2: PAD, MAD +8 for 2 hours\n3: PAD, MAD +15 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680043">
+		<string name="name" value="Old Slime"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: Attack Speed Grade +2 for 2 hours\n2: Attack Speed Grade +3 for 2 hours\n3: Attack Speed Grade +4 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680044">
+		<string name="name" value="Headmaster"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: Levels of all skills currently in possession +3 for 2 hours\n2: Levels of all skills currently in possession +4 for 2 hours\n3: Levels of all skills currently in possession +5 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680045">
+		<string name="name" value="Spinel"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: STR +3 for 2 hours\n2: STR +6 for 2 hours\n3: STR  +10 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680046">
+		<string name="name" value="Hugin Boss"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: INT +3 for 2 hours\n2: INT +6 for 2 hours\n3: INT +10 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680047">
+		<string name="name" value="Gagagucci"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: DEX +3 for 2 hours\n2: DEX +6 for 2 hours\n3: DEX +10 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680048">
+		<string name="name" value="Knight Light"/>
+		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: LUK +3 for 2 hours\n2: LUK +6 for 2 hours\n3: LUK +10 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
+	</imgdir>
+    <imgdir name="5680049">
+		<string name="name" value="Happy Time Green Box"/>
+		<string name="desc" value="A special gift for participating in Everyday Happy Time! Get your gifts by #cdouble-clicking# the box. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680050">
+		<string name="name" value="Happy Time Blue Box"/>
+		<string name="desc" value="A special gift for participating in Everyday Happy Time! Get your gifts by #cdouble-clicking# the box. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680051">
+		<string name="name" value="Happy Time Red Box"/>
+		<string name="desc" value="A special gift for participating in Everyday Happy Time! Get your gifts by #cdouble-clicking# the box. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680052">
+		<string name="name" value="Happy Time Silver Box"/>
+		<string name="desc" value="A special gift for participating in Everyday Happy Time! Get your gifts by #cdouble-clicking# the box. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680053">
+		<string name="name" value="Happy Time Gold Box"/>
+		<string name="desc" value="A special gift for participating in Everyday Happy Time! Get your gifts by #cdouble-clicking# the box. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680056">
+		<string name="name" value="Magic Book Coupon"/>
+		<string name="desc" value="A coupon that grants you a #c30-day# Magic Book Chair when you #cdouble-click# it."/>
+	</imgdir>
+    <imgdir name="5680057">
+		<string name="name" value="Lovely Musical Note Chair Coupon"/>
+		<string name="desc" value="A coupon that grants you a #c30-day# Lovely Musical Note Chair when you #cdouble-click# it."/>
+	</imgdir>
+    <imgdir name="5680059">
+		<string name="name" value="Sengoku Booster Pack"/>
+		<string name="desc" value="Booster Pack with a chance to grant a Sengoku Familiar. Use to obtain one random Familiar out of 29, including the mythical Ranmaru."/>
+	</imgdir>
+    <imgdir name="5680063">
+		<string name="name" value="New Gold Heart Coupon"/>
+		<string name="desc" value="Receive the #c30-day# New Gold Heart Item by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5680065">
+		<string name="name" value="Head of the Class Gift 1"/>
+		<string name="desc" value="Back to school! #cDouble-click# to get one of the following: \n- Fugitive (Expiration: 30 Days) \n- 3 Expressions (Expiration: 7 Days)"/>
+	</imgdir>
+    <imgdir name="5680066">
+		<string name="name" value="Head of the Class Gift 2"/>
+		<string name="desc" value="Back to school! #cDouble-click# to get one of the following: \n- Frog Mount Coupon \n- Fugitive (Expiration: 30 Days) \n- 3 Expressions (Expiration: 7 Days)"/>
+	</imgdir>
+    <imgdir name="5680067">
+		<string name="name" value="Head of the Class Gift 3"/>
+		<string name="desc" value="Back to school!  #cDouble-click# to get one of the following: \n- Emerald Mirror (Expiration: 7 Days)\n- Frog Mount Coupon \n- Fugitive (Expiration: 30 Days) \n- 3 Expressions (Expiration: 7 Days)"/>
+	</imgdir>
+    <imgdir name="5680068">
+		<string name="name" value="Basic Value Pack"/>
+		<string name="desc" value="Enjoy the benefits of the Basic Value Pack for 30 Days. #cDouble-click# to open up a window that explains the various benefits."/>
+	</imgdir>
+</imgdir>

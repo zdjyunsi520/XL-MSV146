@@ -1,0 +1,5 @@
+<imgdir name="41121001">
+        <string name="name" value="神速" />
+        <string name="desc" value="集中你的怒气与技巧，攻击单个敌人。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount。" />
+    </imgdir>

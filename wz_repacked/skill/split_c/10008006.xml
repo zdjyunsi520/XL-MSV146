@@ -1,0 +1,5 @@
+<imgdir name="10008006">
+        <string name="name" value="高级极速" />
+        <string name="desc" value="[潜在技能]\n消耗HP和MP，在一段时间内提升1级攻击速度。可以与其他增益叠加，极速除外。" />
+        <string name="h1" value="HP Cost: 120, MP Cost: 120, Attack Speed increased for 240 seconds." />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="61101002">
+        <string name="name" value="暴风之刃" />
+        <string name="desc" value="召唤3把飞剑搜索怪物，留下轨迹！" />
+        <string name="h" value="MP Cost: #mpCon, # Swords Summoned: #bulletCount. #Use the skill again after summoning# to order the swords to attack for #damage% damage with #attackCount attacks.\nCooldown: #cooltime sec" />
+    </imgdir>

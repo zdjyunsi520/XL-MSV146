@@ -1,0 +1,7 @@
+<imgdir name="4001003">
+        <string name="name" value="Dark Sight" />
+        <string name="desc" value="Allows you to hide in shadow for a short time. While Dark Sight is activated you cannot attack or be attacked, but you can use the Flash Jump skill. Press the skill key again to deactivate Dark Sight." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec." />
+        <string name="pdesc" value="Allows you to hide in shadow for a short time. While Dark Sight is activated you cannot attack or be attacked, but you can use the Flash Jump skill. Press the skill key again to deactivate Dark Sight." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec." />
+    </imgdir>

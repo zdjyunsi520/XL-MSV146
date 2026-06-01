@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290625">
+		<string name="name" value="[Mastery Book] Air Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAir Strike# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290626">
+		<string name="name" value="[Mastery Book] Air Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAir Strike# to 30.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290627">
+		<string name="name" value="[Mastery Book] Rapid Fire 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cRapid Fire# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290628">
+		<string name="name" value="[Mastery Book] Rapid Fire 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cRapid Fire# to 30.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290629">
+		<string name="name" value="[Mastery Book] Battleship Cannon 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattleship Cannon# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290630">
+		<string name="name" value="[Mastery Book] Battleship Cannon 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattleship Cannon# to 30.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290631">
+		<string name="name" value="[Mastery Book] Battleship Torpedo 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattleship Torpedo# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290632">
+		<string name="name" value="[Mastery Book] Battleship Torpedo 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattleship Torpedo# to 30.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290633">
+		<string name="name" value="[Mastery Book] Hypnotize 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cHypnotize# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290634">
+		<string name="name" value="[Mastery Book] Bullseye 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBullseye# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290635">
+		<string name="name" value="[Mastery Book] Rapid Fire 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cRapid Fire# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290636">
+		<string name="name" value="[Mastery Book] Rapid Fire 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cRapid Fire# to 30.\nJob: Jett\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290637">
+		<string name="name" value="[Mastery Book] Hero's Will 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cHero's Will# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290638">
+		<string name="name" value="[Mastery Book] Hero's Will 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cHero's Will# to 30.\nJob: Jett\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290639">
+		<string name="name" value="[Mastery Book] Mighty Meteor 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMighty Meteor# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290641">
+		<string name="name" value="[Mastery Book] Starfall 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cStarfall# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290642">
+		<string name="name" value="[Mastery Book] Starfall 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cStarfall# to 30.\nJob: Jett\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290645">
+		<string name="name" value="[Mastery Book] Brain Scrambler 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBrain Scrambler# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290646">
+		<string name="name" value="[Mastery Book] Brain Scrambler 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBrain Scrambler# to 30.\nJob: Jett\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290647">
+		<string name="name" value="[Mastery Book] Suborbital Bombardier 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSuborbital Bombardier# to 20.\nJob: Jett\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

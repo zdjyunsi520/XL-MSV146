@@ -1,0 +1,5 @@
+<imgdir name="41101000">
+        <string name="name" value="迅三连斩" />
+        <string name="desc" value="更高难度的三连斩，最多可斩击5名敌人。按住技能键即可连续斩击。" />
+        <string name="h" value="消耗MP：#mpCon\n第1击-伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：2\n第2击-伤害：#x%，最大攻击敌人数：5，攻击次数：2\n第3击-伤害：#y%，最大攻击敌人数：5" />
+    </imgdir>

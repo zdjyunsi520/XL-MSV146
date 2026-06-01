@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860011">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复少量HP。"/>
+	</imgdir>
+    <imgdir name="2860012">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复HP。"/>
+	</imgdir>
+    <imgdir name="2860013">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复大量HP。"/>
+	</imgdir>
+    <imgdir name="2860014">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在维多利亚岛时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860015">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在天空之城时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860016">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在冰封雪域时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860017">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在玩具城时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860018">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在韩国民俗村时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860019">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在太空站时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860020">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在武陵时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860021">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在水下世界时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860022">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在尼哈沙漠时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860023">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在玛加提亚时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860024">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在迷你地图森林时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860025">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复少量MP。"/>
+	</imgdir>
+    <imgdir name="2860026">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复MP。"/>
+	</imgdir>
+    <imgdir name="2860027">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复大量MP。"/>
+	</imgdir>
+    <imgdir name="2860028">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在维多利亚岛时持续恢复HP和MP。"/>
+	</imgdir>
+    <imgdir name="2860029">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在天空之城时持续恢复HP和MP。"/>
+	</imgdir>
+    <imgdir name="2860030">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在冰封雪域时持续恢复HP和MP。"/>
+	</imgdir>
+</imgdir>

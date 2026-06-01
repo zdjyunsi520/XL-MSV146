@@ -1,0 +1,5 @@
+<imgdir name="112100011">
+        <string name="name" value="Leopard Hide" />
+        <string name="desc" value="Chance to recover HP when attacking. Maximum 10% per attack." />
+        <string name="h" value="Proc Chance: #prop%, Restores #x% of the damage as HP" />
+    </imgdir>

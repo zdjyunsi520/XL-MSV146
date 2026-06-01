@@ -1,0 +1,5 @@
+<imgdir name="15120003">
+        <string name="name" value="台风" />
+        <string name="desc" value="将连接技能蓄积的能量最大化，转化为毁灭性台风。强化狂风的被动技能。\n前置技能：#c狂风Lv. 20#" />
+        <string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。需要蓄积 #x 次雷电增益后才可使用。每次雷电增益增加伤害：#y%，持续时间：#time秒。此技能不触发雷电增益。\n冷却时间：#cooltime秒。" />
+    </imgdir>

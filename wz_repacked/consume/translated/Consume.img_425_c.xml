@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040069">
+		<string name="name" value="无人认领的头盔防御卷轴10%"/>
+		<string name="desc" value="某人遗失的卷轴。提升头盔的武器防御。
+成功率：10%，武器防御+5，魔法防御+3，命中率+1"/>
+	</imgdir>
+    <imgdir name="2040070">
+		<string name="name" value="无人认领的头盔防御卷轴30%"/>
+		<string name="desc" value="某人遗失的卷轴。提升头盔的武器防御。
+成功率：30%，武器防御+3，魔法防御+1，命中率+1"/>
+	</imgdir>
+    <imgdir name="2040071">
+		<string name="name" value="无人认领的头盔防御卷轴60%"/>
+		<string name="desc" value="某人遗失的卷轴。提升头盔的武器防御。
+成功率：60%，武器防御+2，魔法防御+1"/>
+	</imgdir>
+    <imgdir name="2040773">
+		<string name="name" value="废弃的鞋子速度卷轴10%"/>
+		<string name="desc" value="某人丢弃的卷轴。提升鞋子的移动速度。
+成功率10%，速度+5"/>
+	</imgdir>
+    <imgdir name="2040774">
+		<string name="name" value="废弃的鞋子速度卷轴15%"/>
+		<string name="desc" value="某人丢弃的卷轴。提升鞋子的移动速度。
+成功率15%，速度+4"/>
+	</imgdir>
+    <imgdir name="2040858">
+		<string name="name" value="温暖的手套敏捷卷轴10%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升手套的敏捷。
+成功率：10%，命中率+5，敏捷+3，回避率+1"/>
+	</imgdir>
+    <imgdir name="2040859">
+		<string name="name" value="温暖的手套敏捷卷轴30%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升手套的敏捷。
+成功率：30%，命中率+3，敏捷+1，回避率+1"/>
+	</imgdir>
+    <imgdir name="2040860">
+		<string name="name" value="温暖的手套敏捷卷轴60%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升手套的敏捷。
+成功率：60%，命中率+2，敏捷+1"/>
+	</imgdir>
+    <imgdir name="2040561">
+		<string name="name" value="热心的全身铠甲力量卷轴10%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升铠甲的力量。
+成功率：10%，力量+5，武器防御+3，最大生命值+5"/>
+	</imgdir>
+    <imgdir name="2040562">
+		<string name="name" value="热心的全身铠甲卷轴30%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升铠甲的力量。
+成功率：30%，力量+3，武器防御+2，最大生命值+2"/>
+	</imgdir>
+    <imgdir name="2040563">
+		<string name="name" value="热心的全身铠甲卷轴60%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升铠甲的力量。
+成功率：60%，力量+2，武器防御+1"/>
+	</imgdir>
+    <imgdir name="2040445">
+		<string name="name" value="废弃的上衣智力卷轴10%"/>
+		<string name="desc" value="某人丢弃的卷轴。提升上衣的智力。
+成功率：10%，魔法攻击+5，智力+3，魔法防御+1"/>
+	</imgdir>
+    <imgdir name="2040446">
+		<string name="name" value="废弃的上衣智力卷轴30%"/>
+		<string name="desc" value="某人丢弃的卷轴。提升上衣的智力。
+成功率：30%，魔法攻击+3，智力+2，魔法防御+1"/>
+	</imgdir>
+    <imgdir name="2040447">
+		<string name="name" value="废弃的上衣智力卷轴60%"/>
+		<string name="desc" value="某人丢弃的卷轴。提升上衣的智力。
+成功率：60%，魔法攻击+2，智力+1"/>
+	</imgdir>
+    <imgdir name="2040645">
+		<string name="name" value="热心的下装生命值卷轴10%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升裤子的最大生命值。
+成功率：10%，最大生命值+30"/>
+	</imgdir>
+    <imgdir name="2040646">
+		<string name="name" value="热心的下装生命值卷轴30%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升裤子的最大生命值。
+成功率：30%，最大生命值+20"/>
+	</imgdir>
+    <imgdir name="2040647">
+		<string name="name" value="热心的下装生命值卷轴60%"/>
+		<string name="desc" value="这个卷轴让你感到温暖舒适。提升裤子的最大生命值。
+成功率：60%，最大生命值+15"/>
+	</imgdir>
+    <imgdir name="2041148">
+		<string name="name" value="无人认领的戒指攻击卷轴10%"/>
+		<string name="desc" value="在街上找到的卷轴。提升戒指的攻击。
+成功率：10%，武器攻击+5，力量+3，武器防御+1"/>
+	</imgdir>
+    <imgdir name="2041149">
+		<string name="name" value="无人认领的戒指攻击卷轴30%"/>
+		<string name="desc" value="在街上找到的卷轴。提升戒指的攻击。
+成功率：30%，武器攻击+3，力量+2"/>
+	</imgdir>
+    <imgdir name="2041150">
+		<string name="name" value="无人认领的戒指攻击卷轴60%"/>
+		<string name="desc" value="在街上找到的卷轴。提升戒指的攻击。
+成功率：60%，武器攻击+2，力量+1"/>
+	</imgdir>
+</imgdir>

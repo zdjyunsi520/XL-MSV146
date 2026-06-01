@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9500599">
+		<string name="name" value="Large Totem Pole"/>
+	</imgdir>
+    <imgdir name="9500600">
+		<string name="name" value="Huge Totem Pole"/>
+	</imgdir>
+    <imgdir name="9500601">
+		<string name="name" value="Heckler"/>
+	</imgdir>
+    <imgdir name="9500602">
+		<string name="name" value="Finish"/>
+	</imgdir>
+    <imgdir name="9500603">
+		<string name="name" value="Beast"/>
+	</imgdir>
+    <imgdir name="9500604">
+		<string name="name" value="Delinquent Rudolph"/>
+	</imgdir>
+    <imgdir name="8600000">
+		<string name="name" value="Mutant Snail"/>
+	</imgdir>
+    <imgdir name="8600001">
+		<string name="name" value="Mutant Orange Mushroom"/>
+	</imgdir>
+    <imgdir name="8600002">
+		<string name="name" value="Mutant Slime"/>
+	</imgdir>
+    <imgdir name="8600003">
+		<string name="name" value="Mutant Ribbon Pig"/>
+	</imgdir>
+    <imgdir name="8600004">
+		<string name="name" value="Mutant Tino"/>
+	</imgdir>
+    <imgdir name="8600005">
+		<string name="name" value="Mutant Tiru"/>
+	</imgdir>
+    <imgdir name="8600006">
+		<string name="name" value="Mutant Tiguru"/>
+	</imgdir>
+    <imgdir name="8610000">
+		<string name="name" value="Dawn"/>
+	</imgdir>
+    <imgdir name="8610001">
+		<string name="name" value="Blaze"/>
+	</imgdir>
+    <imgdir name="8610002">
+		<string name="name" value="Wind"/>
+	</imgdir>
+    <imgdir name="8610003">
+		<string name="name" value="Night"/>
+	</imgdir>
+    <imgdir name="8610004">
+		<string name="name" value="Thunder"/>
+	</imgdir>
+    <imgdir name="8610005">
+		<string name="name" value="Official Knight A"/>
+	</imgdir>
+    <imgdir name="8610006">
+		<string name="name" value="Official Knight B"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5221021">
+        <string name="name" value="快拔" />
+        <string name="desc" value="攻击有几率使下次技能攻击伤害增加。在激活状态下使用时，下次技能的攻击力增强~" />
+        <string name="h" value="使用时，下次技能伤害增加#damR%\n[被动效果: 攻击时#prop%几率激活#c快拔效果#。效果激活时可使用技能。]" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="112111000">
+        <string name="name" value="飞翔" />
+        <string name="h" value="飞行持续时间: #z秒，冷却时间: #cooltime秒。" />
+        <string name="desc" value="与艾卡一起冲上天空解锁追加攻击。\r\n[指令]: 按住[上]+[跳跃]飞翔。按[下]+[跳跃]着陆。" />
+    </imgdir>

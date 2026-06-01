@@ -1,0 +1,5 @@
+<imgdir name="101100202">
+        <string name="name" value="Advanced Spin Cutter (Spirit Sword)" />
+        <string name="desc" value="Occurs when using the Advanced Blade Ring. Moves forward in a line, piercing enemies." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount" />
+    </imgdir>

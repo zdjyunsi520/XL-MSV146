@@ -1,0 +1,5 @@
+<imgdir name="13120003">
+        <string name="name" value="Trifling Wind III" />
+        <string name="desc" value="Harass the enemies with constant gale-force winds. \nRequired Skill: #cTrifling Wind Ⅰ Lv. 20#" />
+        <string name="h" value="Max soul energy created:  #x, Chance to create energy: #prop%, Random enemies damaged: #damage%, Chance to create enhanced soul energy: #subProp%, Damage of enhanced soul energy: #y%" />
+    </imgdir>

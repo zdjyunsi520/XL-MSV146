@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000101">
+			<string name="name" value="黄色积木"/>
+			<string name="desc" value="傀儡身上的一块积木"/>
+		</imgdir>
+    <imgdir name="4000102">
+			<string name="name" value="蓝色积木"/>
+			<string name="desc" value="傀儡身上的一块积木"/>
+		</imgdir>
+    <imgdir name="4000103">
+			<string name="name" value="螺旋桨"/>
+			<string name="desc" value="玩具飞机的螺旋桨"/>
+		</imgdir>
+    <imgdir name="4000104">
+			<string name="name" value="发动机"/>
+			<string name="desc" value="玩具飞机的发动机"/>
+		</imgdir>
+    <imgdir name="4000105">
+			<string name="name" value="飞机控制器"/>
+			<string name="desc" value="用于操控玩具飞机的控制器"/>
+		</imgdir>
+    <imgdir name="4000106">
+			<string name="name" value="泰迪熊的棉花"/>
+			<string name="desc" value="泰迪熊身上的一块柔软棉花"/>
+		</imgdir>
+    <imgdir name="4000107">
+			<string name="name" value="泰迪熊的黄丝带"/>
+			<string name="desc" value="泰迪熊身上的黄丝带"/>
+		</imgdir>
+    <imgdir name="4000108">
+			<string name="name" value="熊猫玩偶"/>
+			<string name="desc" value="一个小巧可爱的熊猫玩偶。看起来如此逼真，好像随时会站起来走路"/>
+		</imgdir>
+    <imgdir name="4000109">
+			<string name="name" value="玩具小鸭"/>
+			<string name="desc" value="一个带轮子的迷你玩具小鸭"/>
+		</imgdir>
+    <imgdir name="4000110">
+			<string name="name" value="玩具特洛伊剑"/>
+			<string name="desc" value="玩具特洛伊身上的塑料剑"/>
+		</imgdir>
+    <imgdir name="4000111">
+			<string name="name" value="廉价电池"/>
+			<string name="desc" value="机器人内部的廉价电池。看起来还能用一会儿"/>
+		</imgdir>
+    <imgdir name="4000112">
+			<string name="name" value="机械心脏"/>
+			<string name="desc" value="机器人内部的机械心脏。看起来还在工作"/>
+		</imgdir>
+    <imgdir name="4000113">
+			<string name="name" value="时钟弹簧"/>
+			<string name="desc" value="时钟的小弹簧"/>
+		</imgdir>
+    <imgdir name="4000114">
+			<string name="name" value="座钟"/>
+			<string name="desc" value="一个非常漂亮的座钟。还在运行"/>
+		</imgdir>
+    <imgdir name="4000115">
+			<string name="name" value="齿轮"/>
+			<string name="desc" value="时钟的重要部件"/>
+		</imgdir>
+    <imgdir name="4000116">
+			<string name="name" value="小鸡蛋"/>
+			<string name="desc" value="小鸡蛋，很容易碎"/>
+		</imgdir>
+    <imgdir name="4000117">
+			<string name="name" value="太空食品"/>
+			<string name="desc" value="来自太空的食物。不应该吃这个"/>
+		</imgdir>
+    <imgdir name="4000118">
+			<string name="name" value="小型飞船"/>
+			<string name="desc" value="小型飞船。似乎有特殊的启动方式"/>
+		</imgdir>
+    <imgdir name="4000119">
+			<string name="name" value="接收装置"/>
+			<string name="desc" value="能够从太空接收信息的装置。似乎有特殊的启动方式"/>
+		</imgdir>
+    <imgdir name="4000120">
+			<string name="name" value="马特恩的触手"/>
+			<string name="desc" value="马特恩的触手，收集了大量信息"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001258">
+			<string name="name" value="先祖之弓"/>
+			<string name="desc" value="弓箭手精通的象征武器。虽然无法装备，但它的力量是真实存在的。必须将此物品放置在精通祭坛才能激活它"/>
+		</imgdir>
+    <imgdir name="4001259">
+			<string name="name" value="大师之剑"/>
+			<string name="desc" value="战士精通的象征武器。虽然无法装备，但它的力量是真实存在的。必须将此物品放置在精通祭坛才能激活它"/>
+		</imgdir>
+    <imgdir name="4001260">
+			<string name="name" value="禁忌之枪"/>
+			<string name="desc" value="海盗精通的象征武器。虽然无法装备，但它的力量是真实存在的。必须将此物品放置在精通祭坛才能激活它"/>
+		</imgdir>
+    <imgdir name="4001261">
+			<string name="name" value="炎魔皮革碎片"/>
+			<string name="desc" value="炎魔粗糙兽皮的一块皮革"/>
+		</imgdir>
+    <imgdir name="4001263">
+			<string name="name" value="优质羊毛"/>
+			<string name="desc" value="这羊毛很优质"/>
+		</imgdir>
+    <imgdir name="4001264">
+			<string name="name" value="牧童的午餐"/>
+			<string name="desc" value="这是牧童的午餐。收集并把它交给小羊。获胜时可以获得奖励"/>
+		</imgdir>
+    <imgdir name="4001268">
+			<string name="name" value="棕色隐晶石"/>
+			<string name="desc" value="包含神秘宇宙能量的棕色隐晶石"/>
+		</imgdir>
+    <imgdir name="4001269">
+			<string name="name" value="翡翠隐晶石"/>
+			<string name="desc" value="包含神秘宇宙能量的翡翠隐晶石"/>
+		</imgdir>
+    <imgdir name="4001270">
+			<string name="name" value="热心孩子的纸条"/>
+			<string name="desc" value="据说只有热心孩子才能看到的物品。把它带给卡桑德拉"/>
+		</imgdir>
+    <imgdir name="4001271">
+			<string name="name" value="迷路的孩子"/>
+			<string name="desc" value="迷路的孩子"/>
+		</imgdir>
+    <imgdir name="4001272">
+			<string name="name" value="巨型毒蔓藤种子"/>
+			<string name="desc" value="巨型毒蔓藤的种子。非常大"/>
+		</imgdir>
+    <imgdir name="4001300">
+			<string name="name" value="格拉纳达"/>
+			<string name="desc" value="女巫喜爱的迷人单一玫瑰"/>
+		</imgdir>
+    <imgdir name="4001301">
+			<string name="name" value="加加的挖掘许可证"/>
+			<string name="desc" value="允许挖掘文物的许可证。和加加对话可以获得另一份许可证"/>
+		</imgdir>
+    <imgdir name="4001302">
+			<string name="name" value="贵重文物"/>
+			<string name="desc" value="看起来非常稀有的文物"/>
+		</imgdir>
+    <imgdir name="4001303">
+			<string name="name" value="石化的老鼠"/>
+			<string name="desc" value="双提到的8件宝藏中的第一件"/>
+		</imgdir>
+    <imgdir name="4001304">
+			<string name="name" value="加加的眼镜"/>
+			<string name="desc" value="双提到的8件宝藏中的第二件"/>
+		</imgdir>
+    <imgdir name="4001305">
+			<string name="name" value="卡桑德拉的水晶球"/>
+			<string name="desc" value="双提到的8件宝藏中的第三件"/>
+		</imgdir>
+    <imgdir name="4001306">
+			<string name="name" value="闪亮的手表"/>
+			<string name="desc" value="双提到的8件宝藏中的第四件"/>
+		</imgdir>
+    <imgdir name="4001307">
+			<string name="name" value="足球鞋"/>
+			<string name="desc" value="双提到的8件宝藏中的第五件"/>
+		</imgdir>
+    <imgdir name="4001308">
+			<string name="name" value="任务完成之书"/>
+			<string name="desc" value="双提到的8件宝藏中的第六件"/>
+		</imgdir>
+</imgdir>

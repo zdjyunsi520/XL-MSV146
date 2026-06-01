@@ -1,0 +1,5 @@
+<imgdir name="101120101">
+        <string name="name" value="Falling Star Shock Wave" />
+        <string name="desc" value="Releases from Falling Star&apos;s point of impact, damaging all enemies within range." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount" />
+    </imgdir>

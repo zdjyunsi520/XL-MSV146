@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430768">
+		<string name="name" value="Equip Tab 8 Slot Coupon"/>
+		<string name="desc" value="Double-click to expand your Equipment tab by 8 slots. You may have up to 96 slots."/>
+	</imgdir>
+    <imgdir name="2430769">
+		<string name="name" value="Use Tab 8 Slot Coupon"/>
+		<string name="desc" value="Double-click to expand your Use tab by 8 slots. You may have up to 96 slots."/>
+	</imgdir>
+    <imgdir name="2430770">
+		<string name="name" value="Set-Up Tab 8 Slot Coupon"/>
+		<string name="desc" value="Double-click to expand your Set-up tab by 8 slots. You may have up to 96 slots."/>
+	</imgdir>
+    <imgdir name="2430771">
+		<string name="name" value="Etc Tab 8 Slot Coupon"/>
+		<string name="desc" value="Double-click to expand your ETC tab by 8 slots. You may have up to 96 slots."/>
+	</imgdir>
+    <imgdir name="2430779">
+		<string name="name" value="Picnic Gift Box"/>
+		<string name="desc" value="Gift box obtained from filling up the Picnic Basket and taking it to Cassandra. Open this to obtain fabulous gifts! #cTip: Open it BEFORE the event ends!"/>
+	</imgdir>
+    <imgdir name="2430780">
+		<string name="name" value="Magic Pocket Pouch"/>
+		<string name="desc" value="Magic pouch that opens up pocket slots. Useless to anyone who already opened up their pocket slot."/>
+	</imgdir>
+    <imgdir name="2430781">
+		<string name="name" value="Daily Gift Box"/>
+		<string name="desc" value="A special gift box for adventurers that login every day. Maybe it contains fantabulous gifts? Remember to open it BEFORE the event ends! "/>
+	</imgdir>
+    <imgdir name="2430782">
+		<string name="name" value="Daily Buff Coupon"/>
+		<string name="desc" value="Awesome coupon given to those that log into Maple World every day.\n\n#cDouble-click to obtain the following effects:\nLv. 30 or lower\nWeapon/Magic Attack: +20\nLv. 31 - 70\nWeapon/Magic Attack: +30\nLv. 71 or higher\nWeapon/Magic Attack: +40\n\n Stacks with other Non-Daily buffs.#"/>
+	</imgdir>
+    <imgdir name="2430783">
+		<string name="name" value="Crystal Chest"/>
+		<string name="desc" value="An ice chest full of goodies to help you stay cool in the summer time. The contents will melt if you don't open it up by TKTKTK."/>
+	</imgdir>
+    <imgdir name="2430784">
+		<string name="name" value="Pink Flower Tube Coupon"/>
+		<string name="desc" value="Exchange this coupon for a Pink Flower Tube (7 days) by TKTKTK.\n#cDouble-click on the ticket to make the exchange."/>
+	</imgdir>
+    <imgdir name="2430794">
+		<string name="name" value="Spaceship"/>
+		<string name="desc" value="Double-click to use the [Spaceship] mount skill for 7 days, starting from today. "/>
+	</imgdir>
+    <imgdir name="2430795">
+		<string name="name" value="Mesoranger Android Coupon"/>
+		<string name="desc" value="Double-click to receive a Mesoranger Android."/>
+	</imgdir>
+    <imgdir name="2430796">
+		<string name="name" value="Mesoranger EXP Serum"/>
+		<string name="desc" value="An EXP serum for Mesorangers. Increases EXP by 50%. \n#cHas no effect on Lv. 200 or above characters.#"/>
+	</imgdir>
+    <imgdir name="2430797">
+		<string name="name" value="Dr. Pepper's Acceptance Gift"/>
+		<string name="desc" value="A gift for fledgling Mesorangers. Can be used until TKTKTK, when the contents will reconvert to pure energy."/>
+	</imgdir>
+    <imgdir name="2430809">
+		<string name="name" value="Resistance Support Capsule"/>
+		<string name="desc" value="A special capsule for the Resistance. Can be moved into storage and given to another character. The capsule will expire once the event has ended.\n#cSwallowing this capsule will give you 10% EXP if you're Lv. 50 and below, 5% EXP if you're Lv. 50 - Lv. 99, and 2% EXP if you're Lv. 100 - Lv. 149. Cannot be used if you're under Lv. 10 or if you're Lv. 150 or higher (Cygnus Lv. 120).#"/>
+	</imgdir>
+    <imgdir name="2430810">
+		<string name="name" value="Battle Mage Rage"/>
+		<string name="desc" value="A mighty cheer for the reborn Battle Mages. Increases Magic Attack and Max MP for 30 minutes. The cheer grows stronger for every 5 levels you gain, up to level 100. Stacks with other buffs."/>
+	</imgdir>
+    <imgdir name="2430811">
+		<string name="name" value="Wild Hunt Grunt"/>
+		<string name="desc" value="A primal cheer for the reborn Wild Hunters. Increases Weapon Attack and Max HP for 30 minutes. The cheer grows stronger for every 5 levels you gain, up to level 100. Stacks with other buffs."/>
+	</imgdir>
+    <imgdir name="2430812">
+		<string name="name" value="Galvanic Mechanic"/>
+		<string name="desc" value="A supportive cheer for the reborn Mechanics. Increases Weapon Attack and Max HP for 30 minutes. The cheer grows stronger for every 5 levels you gain, up to level 100. Stacks with other buffs."/>
+	</imgdir>
+    <imgdir name="2430813">
+		<string name="name" value="Green General Cap"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for a Green General Cap."/>
+	</imgdir>
+    <imgdir name="2430814">
+		<string name="name" value="Green General Suit"/>
+		<string name="desc" value="If you double-click the box, you can exchange it for a Green General Suit."/>
+	</imgdir>
+</imgdir>

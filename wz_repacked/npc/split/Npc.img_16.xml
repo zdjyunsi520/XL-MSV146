@@ -1,0 +1,113 @@
+<imgdir name="Npc.img">
+    <imgdir name="2040013">
+		<string name="name" value="Roly-Poly 10"/>
+		<string name="n0" value="Am I working hard? Can't you tell just by looking?"/>
+		<string name="n1" value="I want to get this done with and go home...!"/>
+		<string name="d0" value="I used to work at the Toy Factory inside Ludibrium Clocktower, but I was sent here to fix the destroyed parts of Eos Tower. The number of monsters has steadily increased, though, making this job very difficult for myself and the other Roly-Polies."/>
+		<string name="d1" value="You're the one that took my picture the other day. Have you met up with all 10 of us Roly Polies? And you gave those pictures to #b#p2040015##k, right? Maybe our manager will be relieved enough to concentrate on his work after seeing those pictures."/>
+	</imgdir>
+    <imgdir name="2040014">
+		<string name="name" value="Chico"/>
+		<string name="func" value="Master of MiniGame"/>
+		<string name="n0" value="If you want to know anything about minigames, then talk to me."/>
+		<string name="n1" value="You may try hard, but you'll never, ever beat me."/>
+	</imgdir>
+    <imgdir name="2040015">
+		<string name="name" value="Manager Karl"/>
+		<string name="n0" value="Those workers...  Are they working hard even when I'm not around?"/>
+		<string name="n1" value="Oh no, I forgot to bring my lunchbox to work today..."/>
+		<string name="n2" value="I'm #p2040015#. There are many dangerous machines around, so please be careful."/>
+		<string name="d0" value="Hello there! I'm #b#p2040015##k, the guy in charge of the Toy Factory. Today's another one of those busy days..."/>
+		<string name="d1" value="Oh! You're the one that met up with our Roly-Polies in Eos Tower for me! How can I help you? Huh? Haha, of course, I did not forget the lunch box my daughter made for me. I'm just waiting for lunch so I can eat it! I'll see you around!"/>
+	</imgdir>
+    <imgdir name="2040016">
+		<string name="name" value="Pi"/>
+		<string name="func" value="Refining Expert"/>
+		<string name="n0" value="Don't you want to make something? It's a piece of cake for me!"/>
+		<string name="n1" value="Hmmm... You can gather some really fine materials here in Ludibrium."/>
+	</imgdir>
+    <imgdir name="2040017">
+		<string name="name" value="Green Mesoranger"/>
+		<string name="n0" value="As long as we're here, everything will be fine!"/>
+		<string name="n1" value="Did we miss our takeoff...?"/>
+		<string name="d0" value="I'm here on a very important mission given to me by the Omega Sector. It's very dangerous around here, so I suggest you run right now."/>
+		<string name="d1" value="The Roswell Field is prone to aliens appearances, so this place is under constant watch. The attack is still on, so I suggest you and others not get too comfortable here. I'll have to head back to the Sector for some more work, so I'll see you around! "/>
+	</imgdir>
+    <imgdir name="2040018">
+		<string name="name" value="Black Mesoranger"/>
+		<string name="n0" value="Pink Mesoranger is ALWAYS late... we can't be at 100% strength unless all 5 of us are here."/>
+		<string name="n1" value="Nothing scares us when all 5 of us are together!"/>
+		<string name="d0" value="Hello! I'm #b#p2040018##k, in charge of a mission to prevent the aliens from invading this place. It seems like they have been acting up more lately. It's very dangerous around here, so I suggest you run back to the Omega Sector for safety."/>
+		<string name="d1" value="You're the one that helped me get rid of #b#o4230116##k here at the Coolan Field. It feels good to find someone like you here at a place where dangerous aliens are a common sight. I'm still investigating the mastermind behind these aliens. I'm going up against yet another alien, so it's not easy..."/>
+	</imgdir>
+    <imgdir name="2040019">
+		<string name="name" value="Everton"/>
+		<string name="func" value="Doctor Assistant"/>
+		<string name="n0" value="Welcome to our hospital! Your face looks terrrible. Need my help? "/>
+		<string name="n1" value="Every once in a while comes a person whose face is a little hard to touch. You happen to be that person... Haha! How do you want it?"/>
+	</imgdir>
+    <imgdir name="2040020">
+		<string name="name" value="Sarah"/>
+		<string name="func" value="Glove Maker"/>
+		<string name="n1" value="I have a special glove for you... You want to take a look?"/>
+		<string name="n0" value="It is easy to make gloves!"/>
+	</imgdir>
+    <imgdir name="2040021">
+		<string name="name" value="Tara"/>
+		<string name="func" value="Shoemaker"/>
+		<string name="n0" value="My shoes are highly sought-after these days."/>
+		<string name="n1" value="Have you ever heard of a stimulator? Yeah..."/>
+	</imgdir>
+    <imgdir name="2040022">
+		<string name="name" value="Rydole"/>
+		<string name="func" value="Weapon Creator"/>
+		<string name="n0" value="Do you want to make a weapon? This is the perfect place."/>
+		<string name="n1" value="You need manuals to make weapons"/>
+	</imgdir>
+    <imgdir name="2040023">
+		<string name="name" value="Lost Soldier"/>
+		<string name="n0" value="Can anyone help me?"/>
+		<string name="n1" value="Where am I...?"/>
+		<string name="d0" value="Eos Tower is humongous... So big that we get lost in this place every once in a while."/>
+		<string name="d1" value="Hmmm... Where am I? I'm in charge of security for the 59th floor of Eos Tower, but I have nooo idea where I am at the moment. Hmmm... "/>
+	</imgdir>
+    <imgdir name="2040024">
+		<string name="name" value="Eos Magic Rock"/>
+		<string name="func" value="Mr. Move-It"/>
+	</imgdir>
+    <imgdir name="2040025">
+		<string name="name" value="Second Eos Rock"/>
+	</imgdir>
+    <imgdir name="2040026">
+		<string name="name" value="Third Eos Rock"/>
+	</imgdir>
+    <imgdir name="2040027">
+		<string name="name" value="Fourth Eos Rock"/>
+	</imgdir>
+    <imgdir name="2040028">
+		<string name="name" value="Mark the Toy Soldier"/>
+		<string name="n0" value="Please find the dollhouse that looks different from the others."/>
+		<string name="n1" value="If you wish to leave this place, then talk to me."/>
+	</imgdir>
+    <imgdir name="2040029">
+		<string name="name" value="Grandpa Clock"/>
+		<string name="n0" value="What can I do for you today? It's dangerous around here, so I suggest you move to a safe place nearby."/>
+		<string name="n1" value="I'm hard at work here."/>
+		<string name="d0" value="I'm #b#p2040029##k. I've been sent here to see what's wrong with the Ludibrium Clocktower, but I can't seem to find any errors in this."/>
+		<string name="d1" value="You must have told #b#p2040002##k the Clocktower has been fixed. Hopefully the soldiers can trust the time now. Thank you so much for your hard work. I have to get back to work now. Please head back to Ludibrium, as this is too dangerous a place to just hang out."/>
+	</imgdir>
+    <imgdir name="2040030">
+		<string name="name" value="Wisp"/>
+		<string name="n0" value="Any questions on pets?"/>
+		<string name="n1" value="If you want your pet back alive, then talk to me."/>
+	</imgdir>
+    <imgdir name="2040031">
+		<string name="name" value="Document Roll"/>
+	</imgdir>
+    <imgdir name="2040032">
+		<string name="name" value="Weaver"/>
+		<string name="func" value="Pet Trainer"/>
+		<string name="n0" value="Do you want to train your pet? Then you've come to the right place."/>
+		<string name="n1" value="Raising pets can be a tough task at times."/>
+	</imgdir>
+</imgdir>

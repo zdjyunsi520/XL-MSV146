@@ -1,0 +1,136 @@
+<imgdir name="Npc.img">
+    <imgdir name="9120211">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="Nihal"/>
+		<string name="n0" value="Too hot! Too hot!"/>
+		<string name="n1" value="How can anyone live out here?"/>
+		<string name="d0" value="Fighting monsters 'round the world... That's the Silent Crusade."/>
+		<string name="d1" value="Today's mission is complete!"/>
+	</imgdir>
+    <imgdir name="9120212">
+		<string name="name" value="Wence"/>
+		<string name="func" value="Nihal"/>
+		<string name="n0" value="Here are your orders."/>
+		<string name="n1" value="Take pride in your power and your work."/>
+		<string name="d0" value="I've got special orders for Nihal Desert agents."/>
+		<string name="d1" value="You completed your special orders for Nihal Desert."/>
+	</imgdir>
+    <imgdir name="9120213">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="Mu Lung"/>
+		<string name="n0" value="Mu Lung! I never thought I'd come here!"/>
+		<string name="n1" value="Man, I hate centipedes."/>
+		<string name="d0" value="Fighting monsters 'round the world... That's the Silent Crusade."/>
+		<string name="d1" value="Today's mission is complete!"/>
+	</imgdir>
+    <imgdir name="9120214">
+		<string name="name" value="Wence"/>
+		<string name="func" value="Mu Lung"/>
+		<string name="n0" value="Here are your orders."/>
+		<string name="n1" value="Remember, if your enemies are too tough, get some friends to help."/>
+		<string name="d0" value="I've got special orders for Mu Lung agents."/>
+		<string name="d1" value="You completed your special orders for Mu Lung."/>
+	</imgdir>
+    <imgdir name="9120215">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="Minar"/>
+		<string name="n0" value="I've got orders, so let's get this done!"/>
+		<string name="n1" value="This place makes me nervous..."/>
+		<string name="d0" value="Fighting monsters 'round the world... That's the Silent Crusade."/>
+		<string name="d1" value="Today's mission is complete!"/>
+	</imgdir>
+    <imgdir name="9120216">
+		<string name="name" value="Wence"/>
+		<string name="func" value="Minar"/>
+		<string name="n0" value="Here are your orders."/>
+		<string name="n1" value="Minar Forest is not for the faint of heart. Be prepared."/>
+		<string name="d0" value="I've got special orders for Minar Forest agents."/>
+		<string name="d1" value="You completed your special orders for Minar Forest.."/>
+	</imgdir>
+    <imgdir name="9120217">
+		<string name="name" value="Crow"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="What? What do you want?"/>
+		<string name="n1" value="The Silent Crusade is nothing without me!"/>
+		<string name="d0" value="Oh... It's you."/>
+		<string name="d1" value="I don't need any help. Mind your own business."/>
+	</imgdir>
+    <imgdir name="9120218">
+		<string name="name" value="Starling"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="Don't you dare treat me like a little girl."/>
+		<string name="n1" value="Do what you want! I don't care!"/>
+		<string name="d0" value="Enough smalltalk. Get to the point."/>
+		<string name="d1" value="Me? Worry about you? Ha!"/>
+	</imgdir>
+    <imgdir name="9120219">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="Silent Crusade Sponsor"/>
+		<string name="n0" value="I'm always here for you."/>
+		<string name="n1" value="I'm glad to see the Silent Crusade expand."/>
+		<string name="d0" value="If you need anything, let me know."/>
+		<string name="d1" value="How are you finding the Crusade?"/>
+	</imgdir>
+    <imgdir name="9120220">
+		<string name="name" value="Crow"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="What? What do you want?"/>
+		<string name="n1" value="The Silent Crusade is nothing without me!"/>
+		<string name="d0" value="Oh... It's you."/>
+		<string name="d1" value="I don't need any help. Mind your own business."/>
+	</imgdir>
+    <imgdir name="9120221">
+		<string name="name" value="Starling"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="Don't you dare treat me like a little girl."/>
+		<string name="n1" value="Do what you want! I don't care!"/>
+		<string name="d0" value="Enough smalltalk. Get to the point."/>
+		<string name="d1" value="Me? Worry about you? Ha!"/>
+	</imgdir>
+    <imgdir name="9120222">
+		<string name="name" value="Crow"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="I don't need your help!"/>
+		<string name="n1" value="Just...go. Leave. I said leave!"/>
+		<string name="d0" value="I don't need your help!"/>
+		<string name="d1" value="Comrade? Comrade..."/>
+	</imgdir>
+    <imgdir name="9120223">
+		<string name="name" value="Starling"/>
+		<string name="func" value="Silent Crusade Member"/>
+		<string name="n0" value="I don't need your help!"/>
+		<string name="n1" value="Just...go. Leave. I said leave!"/>
+		<string name="d0" value="I don't need your help!"/>
+		<string name="d1" value="Comrade? Comrade..."/>
+	</imgdir>
+    <imgdir name="9120224">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="Silent Crusade Sponsor"/>
+		<string name="n0" value="Muahahahaaa."/>
+		<string name="n1" value="Ha! Finally!"/>
+		<string name="d0" value="I'll answer your questions. It's not like you can escape!"/>
+		<string name="d1" value="Wh-What?"/>
+	</imgdir>
+    <imgdir name="9120225">
+		<string name="name" value="Bastille"/>
+		<string name="func" value="Silent Crusade Sponsor"/>
+		<string name="n0" value="I'll rid myself of you two before things get any worse!"/>
+		<string name="n1" value="I'll start with you!"/>
+	</imgdir>
+    <imgdir name="9120226">
+		<string name="name" value="Crow"/>
+	</imgdir>
+    <imgdir name="9120227">
+		<string name="name" value="Starling"/>
+	</imgdir>
+    <imgdir name="9120228">
+		<string name="name" value="Master Monster Portal"/>
+	</imgdir>
+    <imgdir name="9120229">
+		<string name="name" value="Silent Crusade Supply Box"/>
+	</imgdir>
+    <imgdir name="9201157">
+		<string name="name" value="Dingshroder"/>
+		<string name="func" value="Witch's Familiar"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="3111000">
+        <string name="name" value="Concentrate" />
+        <string name="desc" value="Temporarily increases your Weapon Attack and decreases the MP consumed when using skills. Stacks with other buffs." />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#epad, Duration: #time sec, MP Consumed: -#x%" />
+        <string name="pdesc" value="Temporarily increases your Battle Mode Attack and decreases the MP consumed when using skills." />
+        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, Duration: #time sec, MP Consumed: -#x%" />
+    </imgdir>

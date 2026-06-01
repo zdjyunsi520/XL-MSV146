@@ -1,0 +1,7 @@
+<imgdir name="21111013">
+        <string name="name" value="终极投掷" />
+        <string name="desc" value="将前方多个敌人挑飞到空中。空中的敌人会受到更多伤害。通过龙之链接使用时不消耗连击数，但伤害会降低。\r\n[指令：#c下上方向键+攻击键#]" />
+        <string name="h" value="连击数消耗：#comboConAran，MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，对空中敌人额外伤害：#x%" />
+        <string name="pdesc" value="将前方多个敌人挑飞到空中。空中的敌人会受到更多伤害。只能在使用三重摆击后发动。\n[指令：三重摆击+#c上方向键+攻击键#]\n前置技能：#c三重摆击Lv. 20#" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，对空中敌人额外伤害：#x%，挑飞概率：#prop%" />
+    </imgdir>

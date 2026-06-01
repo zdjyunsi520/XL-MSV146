@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="15001022"><string name="name" value="雷电精灵"/><string name="desc" value="召唤雷电精灵，助你一臂之力！"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒。雷电增益概率：#prop%，增益持续时间：#y，无视怪物防御力：#x%。最大叠加次数：#v次。"/></imgdir>
+    <imgdir name="15000023"><string name="name" value="带电体质"/><string name="desc" value="利用雷电之力让身体更加灵活敏捷。"/><string name="h" value="雷电增益概率：+#prop%，最大叠加次数：+#v，速度：#psdSpeed，跳跃：+#psdJump，速度上限：+#speedMax。"/></imgdir>
+    <imgdir name="15101020"><string name="name" value="鲨鱼横扫"/><string name="desc" value="借助鲨鱼之力横扫周围敌人！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="15101021"><string name="name" value="潮汐冲击"/><string name="desc" value="如海浪般冲向前方，将范围内的敌人一扫而空！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，攻击次数：#attackCount，伤害：#damage%，击退敌人。"/></imgdir>
+    <imgdir name="15101022"><string name="name" value="拳套加速"/><string name="desc" value="短时间内提升武器的攻击速度。需装备拳套。\n前置技能：#c拳套熟练度Lv. 5#"/><string name="h" value="MP消耗：#mpCon，拳套攻击速度提升持续时间：#time秒"/></imgdir>
+    <imgdir name="15100023"><string name="name" value="拳套熟练度"/><string name="desc" value="提升拳套的武器熟练度和命中率。"/><string name="h" value="拳套熟练度：#mastery%，命中率：+#x"/></imgdir>
+    <imgdir name="15100024"><string name="name" value="力量增益"/><string name="desc" value="通过无尽的训练永久提升力量。"/><string name="h" value="永久提升力量：+#strX"/></imgdir>
+    <imgdir name="15100025"><string name="name" value="雷电增幅"/><string name="desc" value="更好地驾驭雷电之力。"/><string name="h" value="雷电增益概率：+#prop%，最大叠加次数：+#v，武器攻击力：+#padX。"/></imgdir>
+    <imgdir name="15111020"><string name="name" value="升龙踢"/><string name="desc" value="以雷电之力向上翻腾踢击！之后可连接雷电技能。"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="15111021"><string name="name" value="雷电"/><string name="desc" value="在空中发起雷电猛攻！跳跃后或使用升龙踢后可以使用。可以与除自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="15111022"><string name="name" value="狂风"/><string name="desc" value="将连接技能蓄积的力量一次释放！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。需要蓄积 #x 次雷电增益后才可使用。每次蓄积雷电增益增加伤害：#y%，持续时间：#time秒。此技能不触发雷电增益。\n冷却时间：#cooltime秒。"/></imgdir>
+    <imgdir name="15111023"><string name="name" value="海墙"/><string name="desc" value="召唤激流守护你免受一切攻击。"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒。异常状态和属性抗性：+#asrR%。"/></imgdir>
+    <imgdir name="15111024"><string name="name" value="铁壁"/><string name="desc" value="召唤坚韧的护甲，攻防一体！"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，伤害吸收：-#y%"/></imgdir>
+    <imgdir name="15110025"><string name="name" value="连击精通"/><string name="desc" value="精通连击技巧，造成更多伤害。"/><string name="h" value="连击时伤害增加 #x%。"/></imgdir>
+    <imgdir name="15110026"><string name="name" value="雷电之主"/><string name="desc" value="完全掌控雷电之力！"/><string name="h" value="雷电增益概率：+#prop%，最大叠加次数：+#v，武器攻击力：+#padX。"/></imgdir>
+    <imgdir name="15121000"><string name="name" value="女皇的召唤"/><string name="desc" value="接受女皇觉醒的祝福，临时提升你和队友的所有属性。"/><string name="h" value="MP消耗：#mpCon，全属性：+#x%，持续时间：#time秒"/></imgdir>
+    <imgdir name="15121001"><string name="name" value="歼灭"/><string name="desc" value="召唤大量电荷轰击前方敌人！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，伤害：#damage%，攻击次数：#attackCount。每1次雷电增益追加1次攻击（最多可追加7次）。此技能不触发雷电增益。"/></imgdir>
+    <imgdir name="15121002"><string name="name" value="雷霆万钧"/><string name="desc" value="在前方召唤毁灭性的雷电轰击敌人！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="15120003"><string name="name" value="台风"/><string name="desc" value="将连接技能蓄积的能量最大化，转化为毁灭性台风。强化狂风的被动技能。\n前置技能：#c狂风Lv. 20#"/><string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。需要蓄积 #x 次雷电增益后才可使用。每次雷电增益增加伤害：#y%，持续时间：#time秒。此技能不触发雷电增益。\n冷却时间：#cooltime秒。"/></imgdir>
+    <imgdir name="15121004"><string name="name" value="电弧充能"/><string name="desc" value="收集周围的电力，使所有攻击追加攻击次数！"/><string name="h" value="MP消耗：#mpCon，#time秒内所有攻击追加 #x% 次攻击。\n冷却时间：#cooltime秒。"/></imgdir>
+</imgdir>

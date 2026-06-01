@@ -1,0 +1,82 @@
+<imgdir name="Familiar.img">
+    <imgdir name="884">
+			<string name="name" value="海盗空中冲击"/>
+			<string name="desc" value="范围攻击，有几率击退最多5个敌人。"/>
+		</imgdir>
+    <imgdir name="885">
+			<string name="name" value="巧克力旋律"/>
+			<string name="desc" value="范围攻击，有几率眩晕最多5个敌人8秒。"/>
+		</imgdir>
+    <imgdir name="886">
+			<string name="name" value="红色战士挑衅"/>
+			<string name="desc" value="范围攻击，有几率拉近最多5个敌人。"/>
+		</imgdir>
+    <imgdir name="887">
+			<string name="name" value="红色盗贼致命毒"/>
+			<string name="desc" value="范围攻击，有几率使最多5个敌人中毒8秒。"/>
+		</imgdir>
+    <imgdir name="888">
+			<string name="name" value="忍者红焰"/>
+			<string name="desc" value="范围攻击，有几率拉近最多6个敌人。"/>
+		</imgdir>
+    <imgdir name="889">
+			<string name="name" value="忍者寒风"/>
+			<string name="desc" value="范围攻击，有几率击退最多6个敌人。"/>
+		</imgdir>
+    <imgdir name="890">
+			<string name="name" value="时间控制"/>
+			<string name="desc" value="范围攻击，有几率使最多6个敌人减速8秒。"/>
+		</imgdir>
+    <imgdir name="891">
+			<string name="name" value="武术终结技"/>
+			<string name="desc" value="范围攻击，最多击中8个敌人4次。"/>
+		</imgdir>
+    <imgdir name="892">
+			<string name="name" value="集中射击"/>
+			<string name="desc" value="范围攻击，最多击中12个敌人。"/>
+		</imgdir>
+    <imgdir name="893">
+			<string name="name" value="集中炮击"/>
+			<string name="desc" value="范围攻击，最多击中10个敌人2次。"/>
+		</imgdir>
+    <imgdir name="894">
+			<string name="name" value="力量之手"/>
+			<string name="desc" value="范围攻击，有几率使最多5个敌人减速8秒。"/>
+		</imgdir>
+    <imgdir name="895">
+			<string name="name" value="城堡墙壁撞击"/>
+			<string name="desc" value="范围攻击，有几率眩晕最多6个敌人8秒。"/>
+		</imgdir>
+    <imgdir name="896">
+			<string name="name" value="监狱守卫引导"/>
+			<string name="desc" value="范围攻击，有几率拉近最多8个敌人。"/>
+		</imgdir>
+    <imgdir name="897">
+			<string name="name" value="黎明战士威压"/>
+			<string name="desc" value="攻击时有80%几率眩晕5个敌人6秒。"/>
+		</imgdir>
+    <imgdir name="898">
+			<string name="name" value="火焰巫师嘲讽"/>
+			<string name="desc" value="攻击2次，有80%几率拉近5个敌人。"/>
+		</imgdir>
+    <imgdir name="899">
+			<string name="name" value="风之射手阵风"/>
+			<string name="desc" value="攻击2次，有80%几率击退5个敌人。"/>
+		</imgdir>
+    <imgdir name="900">
+			<string name="name" value="夜行者致命毒"/>
+			<string name="desc" value="攻击时有80%几率使5个敌人中毒8秒。"/>
+		</imgdir>
+    <imgdir name="901">
+			<string name="name" value="雷霆霸者审视"/>
+			<string name="desc" value="攻击时有80%几率使5个敌人减速8秒。"/>
+		</imgdir>
+    <imgdir name="902">
+			<string name="name" value="神算之翼冲击"/>
+			<string name="desc" value="范围攻击，有几率击退最多10个敌人。"/>
+		</imgdir>
+    <imgdir name="903">
+			<string name="name" value="女帝诅咒"/>
+			<string name="desc" value="范围攻击，有几率使最多12个敌人中毒10秒。"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="65121053">
+        <string name="name" value="最终契约" />
+        <string name="desc" value="让你将艾斯卡莱德契约的力量发挥到极致。" />
+        <string name="h" value="持续时间: #time秒, 暴击率+#x%。站率+#indieStance%, 异常状态抗性+#asrR%, 属性抗性+#terR%。冷却时间: #cooltime秒。" />
+    </imgdir>

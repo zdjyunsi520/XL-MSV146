@@ -1,0 +1,95 @@
+<imgdir name="Consume.img">
+    <imgdir name="2031004">
+		<string name="name" value="埃雷夫邀请函"/>
+		<string name="desc" value="尼恩哈特给你的埃雷夫邀请函。这个邀请函可以让你瞬间移动到埃雷夫。"/>
+	</imgdir>
+    <imgdir name="2031006">
+		<string name="name" value="家庭工作室照片券"/>
+		<string name="desc" value="允许你参加5周年家庭照片拍摄活动的券。"/>
+	</imgdir>
+    <imgdir name="2031008">
+		<string name="name" value="琳传送票"/>
+		<string name="desc" value="冒险岛管理员给你的传送票。它会立即将你传送到琳。"/>
+	</imgdir>
+    <imgdir name="2031010">
+		<string name="name" value="特别训练邀请函"/>
+		<string name="desc" value="艾德尔斯坦学校校长费尔迪给你的特别训练邀请函。双击前往将举办特别训练的教室。"/>
+	</imgdir>
+    <imgdir name="2031011">
+		<string name="name" value="回城卷轴 - 埃尔德纳特"/>
+		<string name="desc" value="可以传送到埃尔德纳特的卷轴。使用后你将直接传送到埃尔德纳特。"/>
+	</imgdir>
+    <imgdir name="2031012">
+		<string name="name" value="神秘之书"/>
+		<string name="desc" value="太公在海中发现的书。它用一种你读不懂的奇怪语言写成。\n#c双击#进入书中。"/>
+	</imgdir>
+    <imgdir name="2032000">
+		<string name="name" value="瑞奇戈尔德的神奇灯"/>
+		<string name="desc" value="瑞奇戈尔德制造的神奇灯。使用它，你会被引导到迷宫中的某个地方。没有人确切知道你会被送到哪里。"/>
+	</imgdir>
+    <imgdir name="2040000">
+		<string name="name" value="头盔强化卷轴 防御 100%"/>
+		<string name="desc" value="强化头盔的物理防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040001">
+		<string name="name" value="头盔强化卷轴 防御 60%"/>
+		<string name="desc" value="强化头盔的物理防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n物理防御：+15\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040002">
+		<string name="name" value="头盔强化卷轴 防御 10%"/>
+		<string name="desc" value="强化头盔的物理防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n物理防御：+30\r\n魔法防御：+20\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040003">
+		<string name="name" value="头盔强化卷轴 HP 100%"/>
+		<string name="desc" value="强化头盔的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040004">
+		<string name="name" value="头盔强化卷轴 HP 60%"/>
+		<string name="desc" value="强化头盔的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040005">
+		<string name="name" value="头盔强化卷轴 HP 10%"/>
+		<string name="desc" value="强化头盔的最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040006">
+		<string name="name" value="头盔强化卷轴 防御 100%"/>
+		<string name="desc" value="强化防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n物理防御：+30\r\n魔法防御：+20\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040007">
+		<string name="name" value="头盔强化卷轴 HP 100%"/>
+		<string name="desc" value="强化最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040008">
+		<string name="name" value="头盔强化卷轴 防御 70%"/>
+		<string name="desc" value="强化防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+15\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040009">
+		<string name="name" value="暗黑头盔强化卷轴 防御 30%"/>
+		<string name="desc" value="强化防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n物理防御：+30\r\n魔法防御：+15\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040010">
+		<string name="name" value="头盔强化卷轴 HP 70%"/>
+		<string name="desc" value="强化最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大HP +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040011">
+		<string name="name" value="暗黑头盔强化卷轴 HP 30%"/>
+		<string name="desc" value="强化最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040012">
+		<string name="name" value="暗黑头盔强化卷轴 智力 70%"/>
+		<string name="desc" value="强化头盔的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+2\r\n#"/>
+	</imgdir>
+</imgdir>

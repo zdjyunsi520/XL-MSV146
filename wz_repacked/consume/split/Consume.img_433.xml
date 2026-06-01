@@ -1,0 +1,84 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049754">
+		<string name="name" value="Unique Potential Scroll 60%"/>
+		<string name="desc" value="Gives Unique Potential to items that are ranked Epic or below. Use a Magnifying Glass to unveil the item's Hidden Potential once it has been added."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049755">
+		<string name="name" value="Unique Potential Scroll 30%"/>
+		<string name="desc" value="Gives Unique Potential to items that are ranked Epic or below. Use a Magnifying Glass to unveil the item's Hidden Potential once it has been added."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\n#"/>
+	</imgdir>
+    <imgdir name="2431151">
+		<string name="name" value="Old Town Return Scroll"/>
+		<string name="desc" value="This Old Town Return Scroll looks like it's about to turn into dust. "/>
+	</imgdir>
+    <imgdir name="2431232">
+		<string name="name" value="Suspicious Mineral Pouch"/>
+		<string name="desc" value="Looks absolutely and extremely suspicious. Does this thing really have ore inside?!"/>
+	</imgdir>
+    <imgdir name="2431233">
+		<string name="name" value="Suspicious Herb Pouch"/>
+		<string name="desc" value="Looks absolutely and extremely suspicious. Does this thing really have herbs inside?!"/>
+	</imgdir>
+    <imgdir name="2431265">
+		<string name="name" value="Portable Repair Kit"/>
+		<string name="desc" value="Amazing little kit that allows you to repair your equipment whenever, wherever!"/>
+	</imgdir>
+    <imgdir name="2030047">
+		<string name="name" value="Twisted Aqua Road Return Scroll"/>
+		<string name="desc" value="Scroll that can be used to return to another Aqua Road."/>
+	</imgdir>
+    <imgdir name="2431266">
+		<string name="name" value="Root Abyss Moonlight Draught"/>
+		<string name="desc" value="Bottled moonlight essence from the Root Abyss Gardens. Only available from Sealed Boxes. The enchantment will grant you enough EXP for 1-10 levels. \nWarning: Can only be used #conce# in your lifetime. #cUse with care!#"/>
+	</imgdir>
+    <imgdir name="2002085">
+		<string name="name" value="Admin Invincibility Goo"/>
+		<string name="desc" value="Invincibility lasts 10 minutes. That's just long enough for you to run down and give Will a high-five. Can only be used for #clocal testing#. "/>
+	</imgdir>
+    <imgdir name="2003577">
+		<string name="name" value="Gold Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing golden star fragments. Use to increase both Weapon ATT and Magic ATT by 20 for one hour. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003578">
+		<string name="name" value="White Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing white star fragments. Use to significantly increase the probability of obtaining Epic-tier item for one hour. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003579">
+		<string name="name" value="Black Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing black star fragments. Use to significantly increase the probability of obtaining Unique-tier item for one hour. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003580">
+		<string name="name" value="Blue Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing blue star fragments. Use to ignore 20% of monster's DEF while attacking for one hour. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003581">
+		<string name="name" value="Red Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing red star fragments. Use to increase damage done to bosses by 20% for one hour. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003582">
+		<string name="name" value="Rainbow Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing rainbow star fragments. Use to obtain one additional Mysterious Leaf upon defeating a Seal Guardian. \n#cWarning#\nDoes not stack with other potions.\nEffects only work in Root Abyss region."/>
+	</imgdir>
+    <imgdir name="2003583">
+		<string name="name" value="Sparkling Gold Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing sparkling gold star fragments. Use to increase both Weapon ATT and Magic ATT by 20 for one hour. \n#cWarning#\nDoes not stack with other potions and Star Potions of different kind."/>
+	</imgdir>
+    <imgdir name="2003584">
+		<string name="name" value="Sparkling White Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing sparkling white star fragments. Use to significantly increase the probability of obtaining Epic-tier item for one hour. \n#cWarning#\nDoes not stack with other potions and Star Potions of different kind."/>
+	</imgdir>
+    <imgdir name="2003585">
+		<string name="name" value="Sparkling Black Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing sparkling black star fragments. Use to significantly increase the probability of obtaining Unique-tier item for one hour. \n#cWarning#\nDoes not stack with other potions and Star Potions of different kind."/>
+	</imgdir>
+    <imgdir name="2003586">
+		<string name="name" value="Sparkling Blue Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing sparkling blue star fragments. Use to ignore 20% of monster's DEF while attacking for one hour. \n#cWarning#\nDoes not stack with other potions and Star Potions of different kind."/>
+	</imgdir>
+    <imgdir name="2003587">
+		<string name="name" value="Sparkling Red Star Potion"/>
+		<string name="desc" value="A legendary fairy potion, containing sparkling red star fragments. Use to increase damage done to bosses by 20% for one hour. \n#cWarning#\nDoes not stack with other potions and Star Potions of different kind."/>
+	</imgdir>
+</imgdir>

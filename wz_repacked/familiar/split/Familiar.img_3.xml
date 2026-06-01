@@ -1,0 +1,82 @@
+<imgdir name="Familiar.img">
+    <imgdir name="842">
+			<string name="name" value="Great Thief's Poison"/>
+			<string name="desc" value="An area attack with a chance of poisoning up to 5 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="843">
+			<string name="name" value="Great Pirate's Charm"/>
+			<string name="desc" value="An area attack with a chance of pulling up to 5 enemies."/>
+		</imgdir>
+    <imgdir name="844">
+			<string name="name" value="Multi-Reversal Attack"/>
+			<string name="desc" value="An area attack that hits up to 4 enemies."/>
+		</imgdir>
+    <imgdir name="845">
+			<string name="name" value="Heart Attack"/>
+			<string name="desc" value="An area attack with a chance of heavily slowing up to 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="846">
+			<string name="name" value="Inner Rage"/>
+			<string name="desc" value="Attack with an 80% chance of stunning 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="847">
+			<string name="name" value="Poison of Betrayal"/>
+			<string name="desc" value="An area attack with a chance of poisoning up to 5 enemies for 10 seconds."/>
+		</imgdir>
+    <imgdir name="848">
+			<string name="name" value="Heat of Battle"/>
+			<string name="desc" value="An area attack with a chance of pulling up to 6 enemies."/>
+		</imgdir>
+    <imgdir name="849">
+			<string name="name" value="Lonely Shout"/>
+			<string name="desc" value="Attack with an 80% chance of stunning 3 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="850">
+			<string name="name" value="Impenetrable Defense"/>
+			<string name="desc" value="Attack twice with a 100% chance of pulling 4 enemies."/>
+		</imgdir>
+    <imgdir name="873">
+			<string name="name" value="Orange Poison Spore"/>
+			<string name="desc" value="Attack twice with a 100% chance of poisoning 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="874">
+			<string name="name" value="Hypnosis"/>
+			<string name="desc" value="Attack with an 80% chance of slightly slowing down 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="875">
+			<string name="name" value="Blazing Induction"/>
+			<string name="desc" value="Attack twice with an 80% chance of pulling 4 enemies."/>
+		</imgdir>
+    <imgdir name="876">
+			<string name="name" value="Breakthrough"/>
+			<string name="desc" value="Attack twice with an 80% chance of knocking back 4 enemies."/>
+		</imgdir>
+    <imgdir name="877">
+			<string name="name" value="Deadly Poison"/>
+			<string name="desc" value="Attack with an 80% chance of poisoning 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="878">
+			<string name="name" value="Shock Wave"/>
+			<string name="desc" value="Attack with an 80% chance of stunning 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="879">
+			<string name="name" value="Red Snail Pattern"/>
+			<string name="desc" value="Attack twice with a 100% chance of slightly slowing down 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="880">
+			<string name="name" value="Slime's Birdlime"/>
+			<string name="desc" value="Attack four times with a 100% chance of pulling 4 enemies."/>
+		</imgdir>
+    <imgdir name="881">
+			<string name="name" value="Ribbon Pig Combo"/>
+			<string name="desc" value="Attack four times with a 100% chance of knocking back 4 enemies."/>
+		</imgdir>
+    <imgdir name="882">
+			<string name="name" value="Zombie Mushroom's Curse"/>
+			<string name="desc" value="Attack twice with a 100% chance of poisoning 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="883">
+			<string name="name" value="Pixie Serenade"/>
+			<string name="desc" value="Attack twice with a 100% chance of stunning 4 enemies for 6 seconds."/>
+		</imgdir>
+</imgdir>

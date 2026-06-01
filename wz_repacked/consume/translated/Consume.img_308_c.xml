@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2450056">
+		<string name="name" value="怪物公园1.3倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2450057">
+		<string name="name" value="怪物公园1.3倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c60分钟#。"/>
+	</imgdir>
+    <imgdir name="2450058">
+		<string name="name" value="独行侠新星"/>
+		<string name="desc" value="一切都会好的。你并不孤单。你可以靠自己变得更强。15分钟内，狩猎获得1.3倍经验。"/>
+	</imgdir>
+    <imgdir name="2450059">
+		<string name="name" value="1.3倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.3倍经验#buff持续#c60分钟#。"/>
+	</imgdir>
+    <imgdir name="2450062">
+		<string name="name" value="2倍经验券"/>
+		<string name="desc" value="#c双击#获得#c2倍经验#buff持续#c1小时#。"/>
+	</imgdir>
+    <imgdir name="2450064">
+		<string name="name" value="2倍经验券"/>
+		<string name="desc" value="#c双击#获得#c2倍经验#buff持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2450067">
+		<string name="name" value="1.5倍经验券"/>
+		<string name="desc" value="#c双击#获得#c1.5倍经验#持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2450070">
+		<string name="name" value="赛后2倍经验券"/>
+		<string name="desc" value="#c双击#获得#c2倍经验#持续#c30分钟#。"/>
+	</imgdir>
+    <imgdir name="2460000">
+		<string name="name" value="放大镜（基础）"/>
+		<string name="desc" value="可以鉴定装备中隐藏潜力的神秘放大镜。\n#c可以鉴定30级及以下的物品。#"/>
+	</imgdir>
+    <imgdir name="2460001">
+		<string name="name" value="放大镜（普通）"/>
+		<string name="desc" value="可以鉴定装备中隐藏潜力的神秘放大镜。\n#c可以鉴定70级及以下的物品。#"/>
+	</imgdir>
+    <imgdir name="2460002">
+		<string name="name" value="放大镜（高级）"/>
+		<string name="desc" value="可以鉴定装备中隐藏潜力的神秘放大镜。\n#c可以鉴定120级及以下的物品。#"/>
+	</imgdir>
+    <imgdir name="2460003">
+		<string name="name" value="放大镜（高级）"/>
+		<string name="desc" value="可以鉴定装备中隐藏潜力的神秘放大镜。\n#c可以鉴定所有物品。#"/>
+	</imgdir>
+    <imgdir name="2460004">
+		<string name="name" value="精炼放大镜"/>
+		<string name="desc" value="可以鉴定装备上封印潜力的特殊放大镜。\n#c可以鉴定所有等级的物品。#"/>
+	</imgdir>
+    <imgdir name="2460005">
+		<string name="name" value="放大镜（高级）"/>
+		<string name="desc" value="可以鉴定装备上封印潜力的神秘放大镜。\n#c可以鉴定所有物品。#"/>
+	</imgdir>
+    <imgdir name="2470000">
+		<string name="name" value="金锤"/>
+		<string name="desc" value="为你的装备提供额外一次使用卷轴的机会。每件装备只能使用1个锤子。"/>
+	</imgdir>
+    <imgdir name="2470001">
+		<string name="name" value="金锤50%"/>
+		<string name="desc" value="提供50%几率为你的装备额外使用一次卷轴的锤子。每件装备只能使用1个锤子，失败会消耗1个升级槽。"/>
+	</imgdir>
+    <imgdir name="2470002">
+		<string name="name" value="金锤50%"/>
+		<string name="desc" value="提供50%几率为你的装备额外使用一次卷轴的锤子。每件装备只能使用1个锤子，失败会消耗1个升级槽。"/>
+	</imgdir>
+    <imgdir name="2470003">
+		<string name="name" value="金锤100%"/>
+		<string name="desc" value="提供100%几率为你的装备额外使用一次卷轴的锤子。每件装备只能使用1个锤子。"/>
+	</imgdir>
+    <imgdir name="2470004">
+		<string name="name" value="金锤20%"/>
+		<string name="desc" value="为你的装备提供额外一次使用卷轴的机会。每件装备只能使用一次。"/>
+	</imgdir>
+    <imgdir name="2470005">
+		<string name="name" value="金锤20%"/>
+		<string name="desc" value="为你的装备提供额外一次使用卷轴的机会。每件装备只能使用一次。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="30028004">
+        <string name="name" value="优秀的战斗指令" />
+        <string name="desc" value="[潜能技能] 暂时提升所有技能等级。#c已经达到最高等级的技能不会提升。#\n例外：新手技能和战斗指令不能提升。" />
+        <string name="h1" value="MP Cost: 64, All skill levels increased by 1 level for 240 seconds." />
+    </imgdir>

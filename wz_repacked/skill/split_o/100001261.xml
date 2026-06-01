@@ -1,0 +1,9 @@
+<imgdir name="100001261">
+        <string name="name" value="Time Distortion" />
+        <string name="desc" value="Summon the power of the Transcendents to distort local time." />
+        <string name="h" value="Time Force Cost: #forceCon, Area of Time is created for #time sec \n#c[Enemies within the area]#: Every #subTime sec, buff cancels, damage taken increases by #x%, and stuns \n#c[Party members within the area]#: Every 4 sec, Nullify Magic and removes Abnormal Status \n#cCooldown: #cooltime sec#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="This skill is unlocked at Lv. 110." />
+        </imgdir>
+    </imgdir>

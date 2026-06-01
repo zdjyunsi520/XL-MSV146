@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2383010">
+		<string name="name" value="Ginseng Jar"/>
+		<string name="desc" value="A card that features Ginseng Jar.\n#cIf hunting at Herb Townnthe &quot;Use&quot; item drop rates are increased#"/>
+	</imgdir>
+    <imgdir name="2383011">
+		<string name="name" value="Chief Grey Card"/>
+		<string name="desc" value="A card that features Chief Grey.\n#cIf hunting at Kulan FieldnAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383012">
+		<string name="name" value="Drake Card"/>
+		<string name="desc" value="A card that features Drake.\n#cIf hunting at Victoria IslandnSpeed +2#"/>
+	</imgdir>
+    <imgdir name="2383013">
+		<string name="name" value="Jr. Yeti Card"/>
+		<string name="desc" value="A card that features Jr. Yeti.\n#If hunting at the SnowfieldnCancels out damage penalty#"/>
+	</imgdir>
+    <imgdir name="2383014">
+		<string name="name" value="Hodori Card"/>
+		<string name="desc" value="A card that features Hodori.\n#cIf hunting at the Black MountainnSpeed +2#"/>
+	</imgdir>
+    <imgdir name="2383015">
+		<string name="name" value="Straw Target Dummy"/>
+		<string name="desc" value="A card that features Straw Target Dummy.\n#cIf hunting at the Training FieldnAvoidability +2#"/>
+	</imgdir>
+    <imgdir name="2383016">
+		<string name="name" value="Reinforced Mithril Mutae"/>
+		<string name="desc" value="A card that features Reinforced Mithril Mutae.\n#cIf hunting at the Alcadno InstitutenAvoidability +2#"/>
+	</imgdir>
+    <imgdir name="2383017">
+		<string name="name" value="Firebomb Card"/>
+		<string name="desc" value="A card that features Firebomb.\n#cIf hunting at Dead MinenDefense against fire-based attacks +6%#"/>
+	</imgdir>
+    <imgdir name="2383018">
+		<string name="name" value="Wooden Target Dummy"/>
+		<string name="desc" value="A card that features Wooden Target Dummy.\n#cIf hunting at the Training FieldnAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383019">
+		<string name="name" value="Croco Card"/>
+		<string name="desc" value="A card that features Croco.\n#cIf hunting at the SwampnAvoidability +2#"/>
+	</imgdir>
+    <imgdir name="2383020">
+		<string name="name" value="Luster Pixe Card"/>
+		<string name="desc" value="A card that features Luster Pixe.\n#cIf hunting at Cloud ParknAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383021">
+		<string name="name" value="Cellion Card"/>
+		<string name="desc" value="A card that features Cellion Card.\n#cIf hunting at the Orbis GardennDefense against fire-based attacks +6%#"/>
+	</imgdir>
+    <imgdir name="2383022">
+		<string name="name" value="Lioner Card"/>
+		<string name="desc" value="A card that features Lioner.\n#cIf hunting at the Orbis GardennDefense against electric-based attacks +6%#"/>
+	</imgdir>
+    <imgdir name="2383023">
+		<string name="name" value="Grupin Card"/>
+		<string name="desc" value="A card that features Grupin.\n#cIf hunting at the Orbis GardennDefense against ice-based attacks +6%#"/>
+	</imgdir>
+    <imgdir name="2383024">
+		<string name="name" value="Hogul"/>
+		<string name="desc" value="A card that features Hogul.\n#cIf hunting at the Black MountainnProtection against being knocked out +10%#"/>
+	</imgdir>
+    <imgdir name="2383025">
+		<string name="name" value="Bellflower Root Card"/>
+		<string name="desc" value="A card that features Bellflower Root.\n#cIf hunting at Herb TownnJump +2#"/>
+	</imgdir>
+    <imgdir name="2383026">
+		<string name="name" value="MT-09 Card"/>
+		<string name="desc" value="A card that features MT-09.\n#cIf hunting at Kulan FieldnAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383027">
+		<string name="name" value="Sr. Bellflower Root Card"/>
+		<string name="desc" value="A card that features Sr. Bellflower Root.\n#cIf hunting at Herb TownnJump +2#"/>
+	</imgdir>
+    <imgdir name="2383028">
+		<string name="name" value="Roid Card"/>
+		<string name="desc" value="A card that features Roid Card.\n#cIf hunting at the Alcadno InstitutenDefense against electric-based attacks +6%#"/>
+	</imgdir>
+    <imgdir name="2383029">
+		<string name="name" value="Malady Card"/>
+		<string name="desc" value="A card that features Malady.\n#cIf hunting at EllinianSpeed +2#"/>
+	</imgdir>
+</imgdir>

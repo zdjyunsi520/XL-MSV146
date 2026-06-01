@@ -1,0 +1,7 @@
+<imgdir name="1111012">
+        <string name="name" value="冲锋" />
+        <string name="desc" value="向前冲刺并击退多个怪物~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大击退敌人数: #mobCount" />
+        <string name="pdesc" value="向前冲刺并击退多个怪物，减速敌人一段时间~" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 速度: #x\n冷却时间: #cooltime秒" />
+    </imgdir>

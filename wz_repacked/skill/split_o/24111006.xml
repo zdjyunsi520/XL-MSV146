@@ -1,0 +1,7 @@
+<imgdir name="24111006">
+        <string name="name" value="Rapier Wit" />
+        <string name="desc" value="Forms a giant sword with cards, then charges and performs multiple attacks.\nLink with Mille Cartes to reduce post-attack downtime. Permanently increases Mille Cartes&apos;s damage." />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, While moving - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, After moving - Attacks #w times with #v% damage\nPassive Effects - Increases Mille Cartes&apos;s damage by #damR%" />
+        <string name="pdesc" value="Forms a giant sword with cards, then charges and performs multiple attacks.\nLink with Mille Cartes to reduce post-attack downtime. Permanently increases Mille Cartes&apos;s damage." />
+        <string name="ph" value="Active Effects - MP Cost: #mpCon, While moving - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, After moving - Attacks #w times with #v% damage\nPassive Effects - Increases Mille Cartes&apos;s damage by #damR%" />
+    </imgdir>

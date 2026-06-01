@@ -1,0 +1,8 @@
+<imgdir name="3111004">
+        <string name="name" value="箭雨" />
+        <string name="desc" value="向天空发射一阵箭雨，同时攻击多个怪物并有几率使其眩晕！\n需要技能：#c致命打击 Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="向天空发射一阵箭雨，同时攻击多个怪物并有几率使其眩晕！\n需要技能：#c致命打击 Lv. 5#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
+    </imgdir>

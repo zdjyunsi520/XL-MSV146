@@ -1,0 +1,7 @@
+<imgdir name="2321007">
+        <string name="name" value="天使射线" />
+        <string name="desc" value="以神圣之箭攻击，造成巨大的神圣伤害。对不死系和恶魔系怪物特别有效。#c恢复队友的HP#。也可以恢复不死系队友~" />
+        <string name="h" value="MP消耗: #mpCon，最大敌人数: #mobCount，伤害: #damage%，攻击次数: #attackCount。以#c回复率#hp%#恢复你和队员的HP。" />
+        <string name="pdesc" value="以神圣之箭攻击，造成巨大的神圣伤害。对不死系和恶魔系怪物特别有效。#c恢复队友的HP#。也可以恢复不死系队友~" />
+        <string name="ph" value="MP消耗: #mpCon，最大敌人数: #mobCount，伤害: #damage%，攻击次数: #attackCount。以#c回复率#hp%#恢复你和队员的HP。" />
+    </imgdir>

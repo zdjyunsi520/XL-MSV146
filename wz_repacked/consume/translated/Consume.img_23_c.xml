@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004180">
+		<string name="name" value="运气药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+3，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004181">
+		<string name="name" value="运气药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+6，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004182">
+		<string name="name" value="运气药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+9，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004183">
+		<string name="name" value="运气药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+12，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004184">
+		<string name="name" value="运气药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+15，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004185">
+		<string name="name" value="运气药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+18，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004186">
+		<string name="name" value="运气药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+21，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004187">
+		<string name="name" value="运气药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+24，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004188">
+		<string name="name" value="运气药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+27，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004189">
+		<string name="name" value="运气药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004190">
+		<string name="name" value="高级运气药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+3，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004191">
+		<string name="name" value="高级运气药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+6，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004192">
+		<string name="name" value="高级运气药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+9，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004193">
+		<string name="name" value="高级运气药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+12，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004194">
+		<string name="name" value="高级运气药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004195">
+		<string name="name" value="高级运气药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+18，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004196">
+		<string name="name" value="高级运气药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+21，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004197">
+		<string name="name" value="高级运气药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+24，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004198">
+		<string name="name" value="高级运气药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+27，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004199">
+		<string name="name" value="高级运气药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n运气+30，持续30分钟。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101120107">
+        <string name="name" value="Hurricane Wind (Lightning Strike)" />
+        <string name="desc" value="All enemies within the effected range are struck." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount" />
+    </imgdir>

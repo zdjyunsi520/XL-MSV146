@@ -1,0 +1,5 @@
+<imgdir name="2100009">
+        <string name="name" value="元素汲取" />
+        <string name="desc" value="根据附近受到你#c持续伤害效果#的敌人数量提升总伤害~" />
+        <string name="h" value="#c每个持续伤害效果#，总伤害: +#x%。最多叠加#y。" />
+    </imgdir>

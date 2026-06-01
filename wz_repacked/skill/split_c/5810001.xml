@@ -1,0 +1,7 @@
+<imgdir name="5810001">
+        <string name="name" value="能量充能" />
+        <string name="desc" value="每次攻击后充能一定量的能量。能量充满时，有几率自动触发体术攻击和站立效果。还可以使用与能量相关的技能。" />
+        <string name="h" value="Energy per Attack: #x energy, Accuracy: +#acc, Avoidability: +#eva, Weapon ATT: +#pad, Duration: #time sec, Body Attack Damage: #damage%, Knock-back Resistance Rate: #prop%" />
+        <string name="pdesc" value="每次攻击后充能一定量的能量。能量充满时，有几率自动触发体术攻击和站立效果。还可以使用与能量相关的技能。" />
+        <string name="ph" value="Energy per Attack: #x, Accuracy: +#acc, Avoidability: +#eva, Battle Mode ATT: +#PVPdamage, Duration: #time sec, Body Attack Damage: #damage%, Knock-back Resistance: #prop%" />
+    </imgdir>

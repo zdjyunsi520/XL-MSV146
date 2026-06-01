@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009006">
+			<string name="name" value="Oak Tree Acorn"/>
+			<string name="desc" value="A small acorn that squirrels were playing with."/>
+		</imgdir>
+    <imgdir name="4009007">
+			<string name="name" value="Red Porky Thorn"/>
+			<string name="desc" value="Thorns from Red Porky's back. Ouch!"/>
+		</imgdir>
+    <imgdir name="4009008">
+			<string name="name" value="Black Porky Thorn"/>
+			<string name="desc" value="Thorns from Black Porky's back. Ouch!"/>
+		</imgdir>
+    <imgdir name="4009009">
+			<string name="name" value="Snake Skin"/>
+			<string name="desc" value="Quality snake leather. The snake's patterns are featured clearly on it."/>
+		</imgdir>
+    <imgdir name="4009010">
+			<string name="name" value="Red Flower Serpent Pompom"/>
+			<string name="desc" value="A flower off of a Red Flower Serpent."/>
+		</imgdir>
+    <imgdir name="4009011">
+			<string name="name" value="Giant Centipede Marble"/>
+			<string name="desc" value="A red marble from a Giant Centipede."/>
+		</imgdir>
+    <imgdir name="4009012">
+			<string name="name" value="Trainee's Belt"/>
+			<string name="desc" value="A belt given to bears at the beginning of their training."/>
+		</imgdir>
+    <imgdir name="4009013">
+			<string name="name" value="Broken Antler"/>
+			<string name="desc" value="An antler of a White Deer, which you broke off..."/>
+		</imgdir>
+    <imgdir name="4009014">
+			<string name="name" value="Nectarine Seed"/>
+			<string name="desc" value="A seed spat out by a Peach Monkey."/>
+		</imgdir>
+    <imgdir name="4009015">
+			<string name="name" value="Apprentice's Belt"/>
+			<string name="desc" value="Only experienced bears are allowed to wear these."/>
+		</imgdir>
+    <imgdir name="4009016">
+			<string name="name" value="Bear Paw"/>
+			<string name="desc" value="A thick bear paw."/>
+		</imgdir>
+    <imgdir name="4009017">
+			<string name="name" value="Broken Pot Fragmen"/>
+			<string name="desc" value="A piece of a broken pot."/>
+		</imgdir>
+    <imgdir name="4009018">
+			<string name="name" value="Ginseng Water"/>
+			<string name="desc" value="A hot pot that contains water that's been boiling with ginseng for a long time."/>
+		</imgdir>
+    <imgdir name="4009019">
+			<string name="name" value="Bellflower"/>
+			<string name="desc" value="A common bellflower you can find in the mountains."/>
+		</imgdir>
+    <imgdir name="4009020">
+			<string name="name" value="100-Year-Old Bellflower"/>
+			<string name="desc" value="A super old bellflower grown to be a hundred years old."/>
+		</imgdir>
+    <imgdir name="4009022">
+			<string name="name" value="Mr. Alli's Alligator Leather"/>
+			<string name="desc" value="Nice Alligator leather."/>
+		</imgdir>
+    <imgdir name="4009023">
+			<string name="name" value="Marine Map Piece"/>
+			<string name="desc" value="A piece of a pirate map."/>
+		</imgdir>
+    <imgdir name="4009024">
+			<string name="name" value="Navigation Room Key"/>
+			<string name="desc" value="Key to the pirates' Navigation Room."/>
+		</imgdir>
+    <imgdir name="4009025">
+			<string name="name" value="Pirates's Voyage Log"/>
+			<string name="desc" value="A voyage logbook of Lord Pirate's piracy activities"/>
+		</imgdir>
+    <imgdir name="4009026">
+			<string name="name" value="Lord Pirate's Hook"/>
+			<string name="desc" value="Lord Pirate's hand, shaped like a hook."/>
+		</imgdir>
+</imgdir>

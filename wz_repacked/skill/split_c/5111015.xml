@@ -1,0 +1,7 @@
+<imgdir name="5111015">
+        <string name="name" value="能量重击" />
+        <string name="desc" value="击打地面产生冲击波穿透多个敌人。能量充满时伤害增加~" />
+        <string name="h" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount。充满状态伤害增加10%" />
+        <string name="pdesc" value="击打地面产生冲击波伤害多个敌人~" />
+        <string name="ph" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount。充满状态伤害增加10%" />
+    </imgdir>

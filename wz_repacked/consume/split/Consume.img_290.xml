@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430672">
+		<string name="name" value="Lovely Valentine's Day Box"/>
+		<string name="desc" value="A lovely gift box to celebrate Valentine's Day. Double-click to see what's inside. Careful, this can only be opened until TKTKTK, when the event ends. "/>
+	</imgdir>
+    <imgdir name="2430673">
+		<string name="name" value="Burning Sunburst"/>
+		<string name="desc" value="Marble containing the sun's energy. Collect 10 and #cdouble-click# to create one Sunburst."/>
+	</imgdir>
+    <imgdir name="2430674">
+		<string name="name" value="Valentine Android Box"/>
+		<string name="desc" value="Box containing a Valentine's Day gift. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2430675">
+		<string name="name" value="Box of Greed"/>
+		<string name="desc" value="Box containing a mysterious treasure. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2430679">
+		<string name="name" value="Gift For New Dual Blades"/>
+		<string name="desc" value="Gift box given to newly reborn Dual Blades. Open to receive Pendant of the Spirit (30-Day), Dual Blade, Reborn medal, and a cash item called Owl Effect. However, be warned that the box will disappear if not used within one week."/>
+	</imgdir>
+    <imgdir name="2430680">
+		<string name="name" value="Portable Seismograph\r\n"/>
+		<string name="desc" value="Device that shows you an earthquake's epicenter. Double-click it to scan."/>
+	</imgdir>
+    <imgdir name="2430681">
+		<string name="name" value="White Day Candy"/>
+		<string name="desc" value="Sweet candy filled with love. Consume it to obtain EXP. Since it's TOO sweet, you can only eat up to 5 a day. Cannot be used once the event period is over."/>
+	</imgdir>
+    <imgdir name="2430682">
+		<string name="name" value="White Day Gift Box"/>
+		<string name="desc" value="White Day gift box with a cute ribbon. Open it to receive your White Day gift! Cannot be used once the event period is over."/>
+	</imgdir>
+    <imgdir name="2430683">
+		<string name="name" value="White Day Scroll Box"/>
+		<string name="desc" value="Luxurious-looking box that contains a scroll. Cannot be used once the event period is over."/>
+	</imgdir>
+    <imgdir name="2430684">
+		<string name="name" value="Dueling Dual Blades"/>
+		<string name="desc" value="Special cheer given to newly reborn Dual Blades. Increases Max HP/MP for 30 minutes. Higher the level, higher the amount increased, and can be stacked with other buffs. It does not disappear from the inventory after use. Can be used as much as desired during the event period at 30-minute intervals."/>
+	</imgdir>
+    <imgdir name="2430685">
+		<string name="name" value="White Day Love Letter"/>
+		<string name="desc" value="A letter sent to you by an anonymous admirer in lieu of White Day. You can feel how much love was put into it...maybe you should open it..."/>
+	</imgdir>
+    <imgdir name="2430686">
+		<string name="name" value="Matilda's Gift Box"/>
+		<string name="desc" value="Gift box given by #cMatilda#k, manager of Premium PC Cafe. Can only be received once a day. Not even Matilda knows what's inside. \n#cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="2430688">
+		<string name="name" value="Panda Mount 1-year Coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Panda Mount] for 1 year."/>
+	</imgdir>
+    <imgdir name="2430689">
+		<string name="name" value="Panda Mount 15-day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Panda Mount] for 15 days."/>
+	</imgdir>
+    <imgdir name="2430690">
+		<string name="name" value="[Pet Box] Blackheart"/>
+		<string name="desc" value="Hilla's treasured pet, Blackheart, sleeps within this box. #cDouble-click# to obtain [Pet] Blackheart or Blackheart's Earrings. "/>
+	</imgdir>
+    <imgdir name="2430691">
+		<string name="name" value="Nebulite Diffuser Fragment\r\n"/>
+		<string name="desc" value="Collect 10 to make an Nebulite Diffuser.\r\n"/>
+	</imgdir>
+    <imgdir name="2430692">
+		<string name="name" value="Nebulite Box\r\n"/>
+		<string name="desc" value="Contains a random Nebulite.\r\n"/>
+	</imgdir>
+    <imgdir name="2430693">
+		<string name="name" value="Lucky 3!3!3! Event Teleport Rock"/>
+		<string name="desc" value="Allows you to teleport to the desired town, no matter the continent. Disappears 3 hours after the receipt. #cCan be used once every 30 minutes.#"/>
+	</imgdir>
+    <imgdir name="2430694">
+		<string name="name" value="Evil Spirit Box"/>
+		<string name="desc" value="Evil Spirit Box obtained after defeating Eregos. It feels like useful items will be inside. However, it must be opened by the midnight of 9/4/2012.\r\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2430695">
+		<string name="name" value="3x3 Event Box"/>
+		<string name="desc" value="Box from the 3!3!3! event.\n#cDouble-click to open.#\nMust be opened by 09/24/12."/>
+	</imgdir>
+</imgdir>

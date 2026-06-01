@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="30000022"><string name="name" value="致命暴击"/><string name="desc" value="[最高等级：20]\n提升你的暴击率。"/><string name="h1" value="暴击概率：50%"/></imgdir>
+    <imgdir name="30000073"><string name="name" value="女皇祝福"/><string name="desc" value="你最高等级的Cygnus骑士或米哈逸角色每5级，此技能获得1级技能点。精灵祝福和女皇祝福不叠加，仅取较强者生效。\r\n根据Cygnus骑士或米哈逸角色的高贵精神技能，此技能最高可达30级。"/><string name="h" value="武器攻击力：+#x，魔法攻击力：+#y，命中率、回避率：+#z"/></imgdir>
+    <imgdir name="30000086"><string name="name" value="大天使祝福"/><string name="desc" value="[最高等级：1] 获得大天使的祝福。"/><string name="h1" value="攻击力：+5，魔法攻击力：+5，持续时间：10分钟"/></imgdir>
+    <imgdir name="30000088"><string name="name" value="暗黑天使祝福"/><string name="desc" value="[最高等级：1] 获得暗黑天使的祝福。"/><string name="h1" value="攻击力：10，魔法攻击力：10，持续时间：10分钟"/></imgdir>
+    <imgdir name="30000091"><string name="name" value="大天使祝福"/><string name="desc" value="[最高等级：1] 获得大天使的祝福。"/><string name="h1" value="攻击力：+5，魔法攻击力：+5，持续时间：10分钟"/></imgdir>
+    <imgdir name="30000093"><string name="name" value="隐藏潜力（反抗者）"/><string name="pdesc" value="在危急时刻激发你的隐藏潜力。"/><string name="ph" value="HP低于#z%时免疫异常状态，身体攻击伤害：#damage%"/></imgdir>
+    <imgdir name="30000097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令：#c攻击键#]"/><string name="ph" value="伤害：#damage%，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="30000099"><string name="name" value="冰霜粉碎"/><string name="pdesc" value="将斧头变成巨剑，冰冻多个敌人。冰量表达到#c20及以上#时可使用。\n[指令：#c上+上方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击怪物数：#mobCount，冰冻概率：#prob%，冰冻持续时间：#time秒"/></imgdir>
+    <imgdir name="30000100"><string name="name" value="冰暴风"/><string name="pdesc" value="以冰之力量对敌人造成持续伤害。冰量表达到#c40及以上#时可使用。\n[指令：#c下+右方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：每#dotInterval秒造成#damage%伤害，持续#dotTime秒（最多#attackCount次），最大攻击怪物数：#mobCount"/></imgdir>
+    <imgdir name="30000103"><string name="name" value="冰斩"/><string name="pdesc" value="猛烈打击敌人，有概率使其眩晕。冰量表达到#c5及以上#时可使用。\n[指令：#c下方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒"/></imgdir>
+    <imgdir name="30000104"><string name="name" value="冰之诅咒"/><string name="pdesc" value="诅咒对手，将其变成冰蜗牛。冰量表达到#c160及以上#时可使用。\n[指令：#c下+上方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon。变成蜗牛的概率：#prop%，蜗牛持续时间：#time"/></imgdir>
+    <imgdir name="30000180"><string name="name" value="纯白天使祝福"/><string name="desc" value="[最高等级：1] 获得纯白天使的祝福。"/><string name="h1" value="攻击力：12，魔法攻击力：12，持续时间：10分钟"/></imgdir>
+    <imgdir name="30000190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟意志释放强大力量"/><string name="h" value="永久提升力量：#strX，敏捷：#dexX，智力：#intX，运气：#lukX，攻击力：#padX，魔法攻击力：#madX"/></imgdir>
+    <imgdir name="30000227"><string name="name" value="隐秘安宁"/><string name="desc" value="启动机甲的纳米纤维伪装系统，增强其能力。"/><string name="h" value="伤害：+#indieDamR%，最大HP：+#indieMhpR%，最大MP：+#indieMmpR%"/></imgdir>
+    <imgdir name="30001000"><string name="name" value="水晶投掷"/><string name="desc" value="投掷从矿场收集的鲁恩石来攻击远处的敌人。"/><string name="h" value="MP消耗：#mpCon，伤害：#fixdamage"/></imgdir>
+    <imgdir name="30001001"><string name="name" value="潜入"/><string name="desc" value="让你在短时间内隐身并快速移动。\n#c冷却时间：1分钟#"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，移动速度：+#speed"/></imgdir>
+    <imgdir name="30001003"><string name="name" value="传说精神"/><string name="desc" value="[最高等级：1]\n借助传说精灵的力量，你可以在无法装备的物品上使用卷轴。"/></imgdir>
+    <imgdir name="30001004"><string name="name" value="骑兽"/><string name="desc" value="[最高等级：1]\n可以骑乘驯服的怪物。"/></imgdir>
+    <imgdir name="30001005"><string name="name" value="英雄的回响"/><string name="desc" value="[最高等级：1]\n提升附近所有玩家的武器攻击力和魔法攻击力。\n#c冷却时间：2小时#"/><string name="h1" value="MP消耗：30，武器攻击力和魔法攻击力：+4%，持续时间：40分钟"/></imgdir>
+    <imgdir name="30001006"><string name="name" value="测试"/><string name="desc" value="测试"/><string name="h1" value="测试"/></imgdir>
+</imgdir>

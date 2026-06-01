@@ -1,0 +1,123 @@
+<imgdir name="Npc.img">
+    <imgdir name="9250156">
+		<string name="name" value="OSSS Researcher"/>
+		<string name="n0" value="An unidentified spaceship has appeared in Maple World!"/>
+		<string name="n1" value="I will guide you there."/>
+		<string name="d0" value="Where did the spaceship come from?"/>
+		<string name="d1" value="An unidentified spaceship has appeared in Maple World!"/>
+	</imgdir>
+    <imgdir name="9250157">
+		<string name="name" value="Doctor Bing"/>
+		<string name="n1" value="It looks familiar..."/>
+		<string name="d1" value="It looks familiar... "/>
+		<string name="n0" value="Why is the spaceship in a place like this?"/>
+		<string name="d0" value="Why is the spaceship in a place like this?"/>
+	</imgdir>
+    <imgdir name="9110101">
+		<string name="name" value="Sentsu"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="That one, yes! Try it on!"/>
+		<string name="n1" value="I've got a great stash of armor for sale, if I do say so myself."/>
+	</imgdir>
+    <imgdir name="9110106">
+		<string name="name" value="Princess Suzume"/>
+		<string name="n0" value="The usurpers must pay for their sins."/>
+		<string name="n1" value="I just want to enjoy some tea. Is that too much to ask, TEACUP?!"/>
+		<string name="d0" value="I'm Princess Suzume. Ah, you don't need to be like that."/>
+		<string name="d1" value="Thanks for your help last time. With the whole toad thing."/>
+	</imgdir>
+    <imgdir name="9110107">
+		<string name="name" value="Palanquin"/>
+		<string name="n0" value="We are the proud bearers of the palanquin!"/>
+		<string name="n1" value="Need a ride?"/>
+	</imgdir>
+    <imgdir name="9110108">
+		<string name="name" value="Fuji"/>
+		<string name="n0" value="A thing of beauty is rare and should be treasured. So says the wisdom of Fujihawk."/>
+		<string name="n1" value="Ah, to what heights can a pure spirit soar?"/>
+		<string name="d0" value="Fujihawk, your very existence is an inspiration."/>
+		<string name="d1" value="Fujihawk, your very existence is an inspiration."/>
+	</imgdir>
+    <imgdir name="9110111">
+		<string name="name" value="Daisuke"/>
+		<string name="d0" value="I want to just quit and go home."/>
+		<string name="d1" value="I want to just quit and go home."/>
+		<string name="n0" value="Huh? Something going on?"/>
+		<string name="n1" value="Is it time to go home yet?"/>
+	</imgdir>
+    <imgdir name="9120026">
+		<string name="name" value="Crystal"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="(It's a giant crystal.)"/>
+		<string name="d1" value="(It's a giant crystal.)"/>
+	</imgdir>
+    <imgdir name="9270044">
+		<string name="name" value="Commando Jim"/>
+		<string name="n0" value="I'm the leader of the Ulu patrol squad. Join us!"/>
+		<string name="n1" value="Great work defeating the Dukus. But it ain't over yet..."/>
+		<string name="d0" value="What's going on? It's dangerous here."/>
+		<string name="d1" value="What's going on? It's dangerous here."/>
+	</imgdir>
+    <imgdir name="9270045">
+		<string name="name" value="Commando Jim"/>
+		<string name="n0" value="Help us defeat all the monsters in Ulu City!"/>
+		<string name="n1" value="Great work defeating the Dukus. But it ain't over yet..."/>
+	</imgdir>
+    <imgdir name="9110110">
+		<string name="name" value="Sasuke"/>
+		<string name="n0" value="Suspicious individuals will not be allowed past this point!"/>
+		<string name="n1" value="I would give my life to protect this place!"/>
+		<string name="d0" value="Only authorized personnel permitted from this point on."/>
+		<string name="d1" value="Only authorized personnel permitted from this point on."/>
+	</imgdir>
+    <imgdir name="9201150">
+		<string name="name" value="Ogard"/>
+		<string name="func" value="Dragon Tamer"/>
+		<string name="n0" value="How could you lose your dragon?"/>
+		<string name="n1" value="Take good care of him...or else!"/>
+	</imgdir>
+    <imgdir name="9270072">
+		<string name="name" value="Little Beak"/>
+		<string name="n0" value="Do you want to leave White Christmas Hill?"/>
+		<string name="n1" value="Let me know if you want to return to town!"/>
+	</imgdir>
+    <imgdir name="9270073">
+		<string name="name" value="Black-nosed Fur"/>
+		<string name="n0" value="Gather up a lot of Christmas decorations!"/>
+		<string name="n1" value="Something wonderful will happen when the tree is finished!"/>
+	</imgdir>
+    <imgdir name="9270074">
+		<string name="name" value="Fur Puff"/>
+		<string name="n0" value="I exchange Snow Crystals for items!"/>
+		<string name="n1" value="Bring me Snow Crystals!"/>
+	</imgdir>
+    <imgdir name="9270075">
+		<string name="name" value="Little Beak"/>
+		<string name="n0" value="Do you want to go to White Christmas Hill?"/>
+		<string name="n1" value="I'll send you to where the Christmas Tree is!"/>
+	</imgdir>
+    <imgdir name="9270076">
+		<string name="name" value="Fur White"/>
+		<string name="n0" value="Golden Snow Crystals can be exchanged for rare items."/>
+		<string name="n1" value="I adore Golden Snow Crystals!"/>
+	</imgdir>
+    <imgdir name="1002102">
+		<string name="name" value="Eels"/>
+		<string name="n0" value="I have to finish cleaning."/>
+		<string name="n1" value="Hmmm... What you'll need to do today is..."/>
+		<string name="d0" value="Cleaning isn't as easy as it looks."/>
+		<string name="d1" value="What do you need? I'm just a street sweeper."/>
+	</imgdir>
+    <imgdir name="1011100">
+		<string name="name" value="Luna"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="*Yawn* I'm tired... Just choose whatever item you want ..."/>
+	</imgdir>
+    <imgdir name="1012007">
+		<string name="name" value="Trainer Frod"/>
+		<string name="func" value="Pet Trainer"/>
+		<string name="n0" value="Hmmm... My brother keeps making me do these dumb assignments..."/>
+		<string name="n1" value="Taking a walk around town with your pet... Isn't that the best feeling in the world?"/>
+	</imgdir>
+</imgdir>

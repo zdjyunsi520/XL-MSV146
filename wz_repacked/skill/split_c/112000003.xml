@@ -1,0 +1,5 @@
+<imgdir name="112000003">
+        <string name="name" value="猛烈连击" />
+        <string name="desc" value="连续使用4次#掌击#将激活特殊技能，可进行多次追加攻击。\n[指令]: #c掌击#第3次攻击后继续攻击。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount\r\n#额外掌击伤害#: +#damR% " />
+    </imgdir>

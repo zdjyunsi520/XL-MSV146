@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2048712">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.100\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 100"/>
+	</imgdir>
+    <imgdir name="2048713">
+		<string name="autodesc" value="\r\n#cUse on equipment below Lv.140\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 140"/>
+	</imgdir>
+    <imgdir name="2048714">
+		<string name="name" value="Spring of Rebirth"/>
+		<string name="autodesc" value="\r\n#cUse only on Zero weapons\r\nSuccess Rate: 100%\r\nRandom stats given to weapon\r\n#"/>
+		<string name="desc" value="Drag onto a weapon to give it bonus stats. If a Spring of Rebirth is used on a weapon that already has bonus stats, then that item's bonus stats will be reselected.\r\nEquipment items that use a Spring of Rebirth for the first time will have 5 Scissor uses left."/>
+	</imgdir>
+    <imgdir name="2048716">
+		<string name="autodesc" value="\r\n#cCan be used on equipment.\r\nA high amount of random stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on equipment items to give them a high amount of random stats. If used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 10 Scissor uses added to them."/>
+		<string name="name" value="Powerful Rebirth Flame"/>
+	</imgdir>
+    <imgdir name="2048717">
+		<string name="autodesc" value="\r\n#cCan be used on equipment.\r\nA maximum amount of random stats given to Equipment\r\n#"/>
+		<string name="desc" value="Use on equipment items to give them a maximum amount of random stats. If used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 10 Scissor uses added to them."/>
+		<string name="name" value="Eternal Flame of Rebirth"/>
+	</imgdir>
+    <imgdir name="2048718">
+		<string name="autodesc" value="\r\n#cCritical Adventure Ring only\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a Critical Adventure Ring item to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected."/>
+		<string name="name" value="Critical Adventure Ring Rebirth Flame"/>
+	</imgdir>
+    <imgdir name="2048719">
+		<string name="autodesc" value="\r\n#cPivotal Adventure Ring only\r\nSuccess Rate: 100%\r\nRandom stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on a Pivotal Adventure Ring item to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected."/>
+		<string name="name" value="Pivotal Adventure Ring Rebirth Flame"/>
+	</imgdir>
+    <imgdir name="2048720">
+		<string name="autodesc" value="\r\n#cCan be used on equipment.\r\nA high amount of random stats given to equipment\r\n#"/>
+		<string name="desc" value="Use on equipment items to give them a high amount of random stats. If used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 10 Scissor uses added to them."/>
+		<string name="name" value="RED Rebirth Flame"/>
+	</imgdir>
+    <imgdir name="2048721">
+		<string name="autodesc" value="\r\n#cCan be used on equipment.\r\nA maximum amount of random stats given to Equipment\r\n#"/>
+		<string name="desc" value="Use on equipment items to give them a maximum amount of random stats. If used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 10 Scissor uses added to them."/>
+		<string name="name" value="Eternal Flame of Rebirth"/>
+	</imgdir>
+    <imgdir name="2048715">
+		<string name="autodesc" value="\r\n#cAdds random stats to equipment below Lv.120\r\nSuccess Rate: 100%#"/>
+		<string name="desc" value="Use on a piece of equipment to give it bonus stats. If the Rebirth Flame is used on equipment that already has bonus stats, then that item's bonus stats will be reselected. \r\nEquipment items that do not have a Scissor count will have 5 Scissor uses added to them."/>
+		<string name="name" value="Rebirth Flame Lv. 120"/>
+	</imgdir>
+    <imgdir name="2048808">
+		<string name="name" value="RED Pet Equipment Exclusive Scroll 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon/Magic ATT: +2\r\n#"/>
+		<string name="desc" value="Improves Weapon/Magic ATT on Pet equipment."/>
+	</imgdir>
+    <imgdir name="2048900">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Includes a Zero weapon to the Marx Von Leon set."/>
+		<string name="name" value="Marx Von Leon Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048901">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Includes a Zero weapon to the Victor Von Leon set."/>
+		<string name="name" value="Victor Von Leon Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048902">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Lionheart set."/>
+		<string name="name" value="Lionheart Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048903">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Emperor Brave set."/>
+		<string name="name" value="Emperor Brave Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048904">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Sovereign Brave set."/>
+		<string name="name" value="Sovereign Brave Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048905">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Root Abyss (Warrior) set."/>
+		<string name="name" value="Root Abyss (Warrior) Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048906">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Grand Agares set."/>
+		<string name="name" value="Grand Agares Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2048907">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%#"/>
+		<string name="desc" value="Adds a Zero weapon to the Revolution set."/>
+		<string name="name" value="Revolution Lucky Item Scroll"/>
+	</imgdir>
+    <imgdir name="2049018">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nRestores 1 previously lost upgrade slot\r\n#"/>
+		<string name="desc" value="Restores previously lost upgrade slots. Cannot be used on cash items."/>
+		<string name="name" value="Clean Slate Scroll 10%"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5240083">
+		<string name="name" value="Peach Soul Candy"/>
+		<string name="desc" value="A little drop of syrup that's perfect for the #cPeach Angel#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240085">
+		<string name="name" value="Soul Vial"/>
+		<string name="desc" value="A concoction of pure souls made just for the #cToasty Devil, Icy Devil, and Miasma Devil#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240088">
+		<string name="name" value="Ribbit Ribbit"/>
+		<string name="desc" value="Frogs that can only be consumed by #cSlipper Snakes#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5222092">
+		<string name="name" value="Male Hanbok Surprise"/>
+		<string name="desc" value="Double-click this item to receive a random hanbok or headgear."/>
+	</imgdir>
+    <imgdir name="5222093">
+		<string name="name" value="Female Hanbok Surprise"/>
+		<string name="desc" value="Double-click this item to receive a random hanbok, headgear, or hairpin."/>
+	</imgdir>
+    <imgdir name="5222098">
+		<string name="name" value="Boy School Uniform Box"/>
+		<string name="desc" value="Double-click this item to receive a random school uniform."/>
+	</imgdir>
+    <imgdir name="5222099">
+		<string name="name" value="Girl School Uniform Box"/>
+		<string name="desc" value="Double-click this item to receive a random school uniform."/>
+	</imgdir>
+    <imgdir name="5532095">
+		<string name="name" value="Futuroid Crate 1"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532096">
+		<string name="name" value="Futuroid Crate 2"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532097">
+		<string name="name" value="Futuroid Crate 3"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532098">
+		<string name="name" value="Futuroid Crate 4"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532099">
+		<string name="name" value="Futuroid Crate 5"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532100">
+		<string name="name" value="Futuroid Crate 6"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5532101">
+		<string name="name" value="Futuroid Crate 7"/>
+		<string name="desc" value="Contains Futuroid parts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="5530608">
+		<string name="name" value="Electronic Heart Voucher"/>
+		<string name="desc" value="Double-click to get an Electronic Heart, usable by Futuroids."/>
+	</imgdir>
+    <imgdir name="5532124">
+		<string name="name" value="Succubus Android Coupon"/>
+		<string name="desc" value="A special android coupon that grants you a #cSuccubus # android and a Beaded Heart."/>
+	</imgdir>
+    <imgdir name="5222100">
+		<string name="name" value="Succubus Costume Box"/>
+		<string name="desc" value="Double-click this item to receive a random Succubus hat, wings, gloves, shoes, or dress."/>
+	</imgdir>
+    <imgdir name="5222101">
+		<string name="name" value="Animal Buddy Hat Box"/>
+		<string name="desc" value="Double-click this box to receive a random, adorable, animal buddy that will ride on your head.  You can trade it with other players as long as you haven't equipped it and it's more than 10 days away from expiring."/>
+	</imgdir>
+    <imgdir name="5222102">
+		<string name="name" value="Winter Suprise Style Box"/>
+		<string name="desc" value="Double-click this box to receive one random winter-themed Equip item. This box contains only permanent items, and they can be traded to other players until they are equipped."/>
+	</imgdir>
+    <imgdir name="5222103">
+		<string name="name" value="Winter Weather Box"/>
+		<string name="desc" value="Double-click this box to receive a wintery effect that rains down around you. These items are untradeable with other players and will last for 7 days."/>
+	</imgdir>
+</imgdir>

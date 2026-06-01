@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290648">
+		<string name="name" value="[能手册]亚轨道轰炸 30"/>
+		<string name="desc" value="50%概率将#c亚轨道轰炸#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290649">
+		<string name="name" value="[能手册]无情 20"/>
+		<string name="desc" value="70%概率将#c无情#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290650">
+		<string name="name" value="[能手册]精准打击 30"/>
+		<string name="desc" value="50%概率将#c精准打击#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290651">
+		<string name="name" value="[能手册]海盗旗 20"/>
+		<string name="desc" value="70%概率将#c威严存在#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290652">
+		<string name="name" value="[能手册]威严存在 30"/>
+		<string name="desc" value="50%概率将#c威严存在#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290653">
+		<string name="name" value="[能手册]神秘能手册"/>
+		<string name="desc" value="使用后随机变成一本技能能手册。"/>
+	</imgdir>
+    <imgdir name="2290702">
+		<string name="name" value="[能手册]龙之冲击 30"/>
+		<string name="desc" value="50%概率将#c龙之冲击#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290703">
+		<string name="name" value="[能手册]能量球 30"/>
+		<string name="desc" value="50%概率将#c能量球#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290704">
+		<string name="name" value="[能手册]爆破 20"/>
+		<string name="desc" value="70%概率将#c爆破#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290705">
+		<string name="name" value="[能手册]抓取 30"/>
+		<string name="desc" value="50%概率将#c抓取#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290706">
+		<string name="name" value="[能手册]弹幕 20"/>
+		<string name="desc" value="70%概率将#c弹幕#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290707">
+		<string name="name" value="[能手册]速度注入 20"/>
+		<string name="desc" value="70%概率将#c速度注入#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290708">
+		<string name="name" value="[能手册]时间跳跃 30"/>
+		<string name="desc" value="50%概率将#c时间跳跃#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290709">
+		<string name="name" value="[能手册]元素增强 30"/>
+		<string name="desc" value="50%概率将#c元素增强#的最高等级提升到30级。\n职业：船长\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290710">
+		<string name="name" value="[能手册]空袭 30"/>
+		<string name="desc" value="50%概率将#c空袭#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290711">
+		<string name="name" value="[能手册]快速射击 30"/>
+		<string name="desc" value="50%概率将#c快速射击#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290712">
+		<string name="name" value="[能手册]战列舰炮击 30"/>
+		<string name="desc" value="50%概率将#c战列舰炮击#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290713">
+		<string name="name" value="[能手册]战列舰鱼雷 30"/>
+		<string name="desc" value="50%概率将#c战列舰鱼雷#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290714">
+		<string name="name" value="冲锋队长神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本冲锋队长职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290715">
+		<string name="name" value="船长神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本船长职业的能手册。"/>
+	</imgdir>
+</imgdir>

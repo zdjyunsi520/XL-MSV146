@@ -1,0 +1,5 @@
+<imgdir name="42121000">
+        <string name="name" value="Vanquisher&apos;s Charm" />
+        <string name="desc" value="Blasts the enemy with evil-destroying charms. Hold down the skill key for a rapid-fire attack. " />
+        <string name="h" value="Mana Cost: #epCon, Damage: #damage% per shot, Number of Attacks: #attackCount " />
+    </imgdir>

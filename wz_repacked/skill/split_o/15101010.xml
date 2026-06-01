@@ -1,0 +1,7 @@
+<imgdir name="15101010">
+        <string name="name" value="Tornado Uppercut" />
+        <string name="desc" value="Performs a super-fast uppercut, creating a tornado that attacks enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Performs a super-fast uppercut, creating a tornado that attacks enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

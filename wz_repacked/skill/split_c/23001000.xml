@@ -1,0 +1,7 @@
+<imgdir name="23001000">
+        <string name="name" value="急速双射" />
+        <string name="desc" value="向前方多个敌人射出箭矢。" />
+        <string name="h" value="MP消耗：#mpCon，箭矢数：#bulletCount，伤害：#damage%，最大攻击目标数：#mobCount" />
+        <string name="pdesc" value="向前方多个敌人射出箭矢。" />
+        <string name="ph" value="MP消耗：#mpCon，箭矢数：#bulletCount，伤害：#damage%，最大攻击目标数：#mobCount" />
+    </imgdir>

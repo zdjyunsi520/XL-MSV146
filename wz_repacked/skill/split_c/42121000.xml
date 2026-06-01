@@ -1,0 +1,5 @@
+<imgdir name="42121000">
+        <string name="name" value="破邪连符" />
+        <string name="desc" value="以破邪之符轰炸敌人。按住技能键进行连射攻击。" />
+        <string name="h" value="精气消耗：#epCon，每发伤害：#damage%，攻击次数：#attackCount" />
+    </imgdir>

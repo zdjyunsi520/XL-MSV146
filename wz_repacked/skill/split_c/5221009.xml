@@ -1,0 +1,5 @@
+<imgdir name="5221009">
+        <string name="name" value="催眠术" />
+        <string name="desc" value="催眠怪物，让它们暂时去攻击其他怪物而不是你！" />
+        <string name="h" value="MP Cost: #mpCon, Hyptonize Chance: #prop%, Hypnotize Duration: #time sec" />
+    </imgdir>

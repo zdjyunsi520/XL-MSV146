@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2044603">
+		<string name="name" value="弩强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化弩的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n武器攻击：+5\r\n命中：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044604">
+		<string name="name" value="暗黑弩强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化弩的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044605">
+		<string name="name" value="暗黑弩强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化弩的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+1\r\n武器攻击：+5\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044606">
+		<string name="name" value="弩强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化弩的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044607">
+		<string name="name" value="弩强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化弩的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+1\r\n武器攻击：+5\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044608">
+		<string name="name" value="【6周年】弩强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化冒险岛周年纪念弩的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n武器攻击：+3\r\n命中：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044611">
+		<string name="name" value="佩佩国王 60% 弩强化卷轴"/>
+		<string name="desc" value="强化佩佩国王Eagle Crows的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044612">
+		<string name="name" value="弩强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化弩的攻击。\n成功率100%，武器攻击+2，命中+3"/>
+	</imgdir>
+    <imgdir name="2044613">
+		<string name="name" value="弩强化卷轴 攻击 50%"/>
+		<string name="desc" value="强化弩的攻击。\n成功率50%，武器攻击+5，敏捷+1，力量+1"/>
+	</imgdir>
+    <imgdir name="2044700">
+		<string name="name" value="拳套强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2044701">
+		<string name="name" value="拳套强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044702">
+		<string name="name" value="拳套强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+1\r\n武器攻击：+5\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044703">
+		<string name="name" value="拳套强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n武器攻击：+5\r\n命中：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044704">
+		<string name="name" value="暗黑拳套强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044705">
+		<string name="name" value="暗黑拳套强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+1\r\n武器攻击：+5\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044706">
+		<string name="name" value="拳套强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044707">
+		<string name="name" value="拳套强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化拳套的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n幸运：+1\r\n武器攻击：+5\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044708">
+		<string name="name" value="【6周年】拳套强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化冒险岛周年纪念拳套的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n武器攻击：+3\r\n命中：+40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044711">
+		<string name="name" value="佩佩国王 60% 拳套强化卷轴"/>
+		<string name="desc" value="强化佩佩国王Dark Guardians的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044712">
+		<string name="name" value="拳套强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化拳套的攻击。\n成功率100%，武器攻击+2，命中+3"/>
+	</imgdir>
+</imgdir>

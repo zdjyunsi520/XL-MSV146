@@ -1,0 +1,93 @@
+<imgdir name="Consume.img">
+    <imgdir name="2470010">
+		<string name="desc" value="一把锤子，为你的装备提供100%的几率额外应用一张卷轴。每件物品只能使用1把锤子。"/>
+		<string name="name" value="黄金锤子100%"/>
+	</imgdir>
+    <imgdir name="2510704">
+		<string name="desc" value="金标骑士帽的配方。"/>
+		<string name="name" value="金标骑士帽配方"/>
+	</imgdir>
+    <imgdir name="2510705">
+		<string name="desc" value="金标骑士服的配方。"/>
+		<string name="name" value="金标骑士服配方"/>
+	</imgdir>
+    <imgdir name="2510706">
+		<string name="desc" value="金标骑士鞋的配方。"/>
+		<string name="name" value="金标骑士鞋配方"/>
+	</imgdir>
+    <imgdir name="2510707">
+		<string name="desc" value="金标骑士手套的配方。"/>
+		<string name="name" value="金标骑士手套配方"/>
+	</imgdir>
+    <imgdir name="2510708">
+		<string name="desc" value="金标骑士披风的配方。"/>
+		<string name="name" value="金标骑士披风配方"/>
+	</imgdir>
+    <imgdir name="2511178">
+		<string name="desc" value="金标骑士腰带的配方。"/>
+		<string name="name" value="金标骑士腰带配方"/>
+	</imgdir>
+    <imgdir name="2511179">
+		<string name="desc" value="金标骑士护肩的配方。"/>
+		<string name="name" value="金标骑士护肩配方"/>
+	</imgdir>
+    <imgdir name="2530000">
+		<string name="name" value="幸运日卷轴"/>
+		<string name="desc" value="将你下一张卷轴的成功几率提高10%。\n#c不能与潜能卷轴或强化卷轴一起使用。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n提高你下一张卷轴的成功率。\r\n#"/>
+	</imgdir>
+    <imgdir name="2530001">
+		<string name="name" value="快乐幸运卷轴"/>
+		<string name="desc" value="将你下一张卷轴的成功几率提高10%。\n#c不能与潜能卷轴或强化卷轴一起使用。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n提高你下一张卷轴的成功率。\r\n#"/>
+	</imgdir>
+    <imgdir name="2530002">
+		<string name="name" value="幸运日卷轴"/>
+		<string name="desc" value="将你下一张卷轴的成功几率提高10%。\n#c不能与潜能卷轴或强化卷轴一起使用。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n提高你下一张卷轴的成功率。\r\n#"/>
+	</imgdir>
+    <imgdir name="2530003">
+		<string name="name" value="宠物幸运日卷轴"/>
+		<string name="desc" value="将你下一张卷轴的成功率提高10%。\n#c对潜能卷轴和强化卷轴无效。#只能用于宠物装备。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n提高你下一张卷轴的成功率。\r\n#"/>
+	</imgdir>
+    <imgdir name="2530004">
+		<string name="name" value="幸运日卷轴"/>
+		<string name="desc" value="将你下一张卷轴的成功几率提高10%。\n#c不能与潜能卷轴或强化卷轴一起使用。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n提高你下一张卷轴的成功率。\r\n#"/>
+	</imgdir>
+    <imgdir name="2531000">
+		<string name="name" value="保护卷轴"/>
+		<string name="desc" value="在装备上使用此卷轴可保护其不因卷轴失败而被摧毁#c1次#。成功使用卷轴后效果消失，且#c不能用于已成功强化12次或更多的物品。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n保护你的物品免受摧毁1次。\r\n#"/>
+	</imgdir>
+    <imgdir name="2531001">
+		<string name="name" value="保护卷轴"/>
+		<string name="desc" value="在装备上使用此卷轴可保护其不因卷轴失败而被摧毁#c1次#。成功使用卷轴后效果消失，且#c不能用于已成功强化12次或更多的物品。#"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n保护你的物品免受摧毁1次。\r\n#"/>
+	</imgdir>
+    <imgdir name="2532000">
+		<string name="name" value="安全卷轴"/>
+		<string name="desc" value="在装备上使用此卷轴可保护其不因卷轴失败而减少#c升级次数# #c1次#。即使成功使用卷轴后保护也会消失。"/>
+		<string name="autodesc" value="\r\n#c保护你的物品免受升级次数损失1次。\r\n#"/>
+	</imgdir>
+    <imgdir name="2532001">
+		<string name="name" value="宠物安全卷轴"/>
+		<string name="desc" value="在#c宠物装备#上使用此卷轴可保护其不因卷轴失败而减少#c升级次数# #c1次#。即使成功使用卷轴后保护也会消失。\n可与#c守护卷轴#一起使用。"/>
+		<string name="autodesc" value="\r\n#c保护你的物品免受升级次数损失1次。\r\n#"/>
+	</imgdir>
+    <imgdir name="2532002">
+		<string name="name" value="安全卷轴"/>
+		<string name="desc" value="在装备上使用此卷轴可保护其不因卷轴失败而减少#c升级次数# #c1次#。即使成功使用卷轴后保护也会消失。"/>
+		<string name="autodesc" value="\r\n#c保护你的物品免受升级次数损失1次。\r\n#"/>
+	</imgdir>
+    <imgdir name="2533001">
+		<string name="name" value="宠物恢复卷轴"/>
+		<string name="desc" value="在#c宠物装备#上使用此卷轴可防止#c已使用的卷轴#因卷轴失败而消失#c1次#。即使成功使用卷轴后保护也会消失。\n可与#c安全卷轴#一起使用。"/>
+		<string name="autodesc" value="\r\n#c卷轴失败时保留卷轴。\r\n#"/>
+	</imgdir>
+    <imgdir name="2540006">
+		<string name="desc" value="#c双击#将你的发型更改为#c[勇士部落发型]#。"/>
+		<string name="name" value="勇士部落发型优惠券"/>
+	</imgdir>
+</imgdir>

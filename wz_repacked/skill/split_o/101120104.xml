@@ -1,0 +1,5 @@
+<imgdir name="101120104">
+        <string name="name" value="Advanced Earth Break" />
+        <string name="desc" value="An even more powerful Groundbreaker. Increases damage and grants a chance for instant KOs. Also creates an Shock Field on the ground, continually inflicting damage on enemies nearby. \n[Skill Requirements]: #cEarth Break Lv. 20# " />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount, Instant KO Chance: #prop%\n#c[Shock Wave]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z\n#c[Shock Field]#: Max Enemies Hit: #s Duration: #v Damage: #w% per 1 sec" />
+    </imgdir>

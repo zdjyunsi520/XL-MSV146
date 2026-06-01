@@ -1,0 +1,5749 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ToolTipHelp.img">
+<imgdir name="Game">
+<imgdir name="Button">
+	<imgdir name="Item">
+		<string name="Title" value="道具背包(I)" />
+		<string name="Desc" value="查看角色拥有道具的窗口。\n道具分类为装备、消耗、设置和 기타 道具。" />
+	</imgdir>
+	<imgdir name="Equip">
+		<string name="Title" value="装备窗口(E)" />
+		<string name="Desc" value="显示装备中道具并允许角色穿戴/卸下的窗口。\n同时打开道具背包来使用装备道具。" />
+	</imgdir>
+	<imgdir name="Stat">
+		<string name="Title" value="能力窗口(S)" />
+		<string name="Desc" value="显示角色详细信息和能力的窗口。\n使用AP来增强多种不同能力。" />
+	</imgdir>
+	<imgdir name="Skill">
+		<string name="Title" value="技能窗口(K)" />
+		<string name="Desc" value="显示角色拥有的技能书详细信息的窗口。\n使用技能点来学习可用技能。" />
+	</imgdir>
+	<imgdir name="Chat">
+		<string name="Title" value="聊天窗口" />
+		<string name="Desc" value="让你与同世界好友聊天的窗口。" />
+	</imgdir>
+	<imgdir name="Menu">
+		<string name="Title" value="菜单" />
+		<string name="Desc" value="让你更改选项或游戏信息的窗口。\n可更改游戏和系统选项。\n也可查看任务信息、队伍信息和社区信息。" />
+	</imgdir>
+	<imgdir name="Whisper">
+		<string name="Title" value="悄悄话" />
+		<string name="Desc" value="点击按钮选择你想悄悄话的对象。\n再次点击取消悄悄话。" />
+	</imgdir>
+	<imgdir name="MapTransfer">
+		<imgdir name="Register">
+			<string name="Title" value="注册地图" />
+			<string name="Desc" value="将角色所在地图注册到传送列表。最多可保存5个地图。" />
+		</imgdir>
+		<imgdir name="RegisterEx">
+			<string name="Title" value="注册地图" />
+			<string name="Desc" value="将角色所在位置注册到传送列表。最多可注册10个不同地点。" />
+		</imgdir>
+		<imgdir name="Delete">
+			<string name="Title" value="删除地图" />
+			<string name="Desc" value="从列表中删除选定的地图。" />
+		</imgdir>
+		<imgdir name="Move">
+			<string name="Title" value="移动" />
+			<string name="Desc" value="传送到你选择的地图，或传送到选定角色所在的地图。" />
+		</imgdir>
+	</imgdir>
+	<imgdir name="KeySet">
+		<string name="Title" value="快捷键设置" />
+	</imgdir>
+	<imgdir name="QuickSlot">
+		<string name="Title" value="显示快捷栏" />
+	</imgdir>
+	<imgdir name="QuickSlotD">
+		<string name="Title" value="隐藏快捷栏" />
+	</imgdir>
+	<imgdir name="Claim">
+		<string name="Title" value="举报GM" />
+	</imgdir>
+	<imgdir name="QuestAlarm">
+		<string name="Desc" value="点击任务助手按钮追踪当前选定的任务。最多可同时追踪5个任务。" />
+	</imgdir>
+	<imgdir name="StatAuto">
+		<string name="Title" value="属性自动分配" />
+		<string name="Desc" value="根据你的等级和职业分配剩余AP。" />
+	</imgdir>
+	<imgdir name="StatAuto1">
+		<string name="Title" value="属性自动分配(散打)" />
+		<string name="Desc" value="根据散打需求分配剩余AP。" />
+	</imgdir>
+	<imgdir name="StatAuto2">
+		<string name="Title" value="属性自动分配(神枪手)" />
+		<string name="Desc" value="根据神枪手需求分配剩余AP。" />
+	</imgdir>
+	<imgdir name="QuestLocation">
+		<string name="Desc" value="显示你需要去哪里完成任务。" />
+	</imgdir>
+	<imgdir name="btAlbaEquipShop">
+		<string name="Title" value="兼职工作：武器/防具店" />
+		<string name="Desc" value="从武器/防具店兼职工作中获得增加装备道具掉率的增益。作为特殊奖励给予各种#c武器和防具#。" />
+	</imgdir>
+	<imgdir name="StatAutoXenon">
+		<string name="Title" value="属性自动分配(功率姿态：力量)" />
+		<string name="Desc" value="AP自动分配到力量\n用于功率姿态。" />
+	</imgdir>
+	<imgdir name="StatAutoXenon1">
+		<string name="Title" value="属性自动分配(元素和异常状态防御：敏捷)" />
+		<string name="Desc" value="AP自动分配到敏捷\n用于元素和异常状态防御。" />
+	</imgdir>
+	<imgdir name="StatAutoXenon2">
+		<string name="Title" value="属性自动分配(闪避率：运气)" />
+		<string name="Desc" value="AP自动分配到运气\n用于闪避率。" />
+	</imgdir>
+	<imgdir name="BtExitDungeon">
+		<string name="Title" value="离开副本" />
+		<string name="Desc" value="离开副本返回城镇。" />
+	</imgdir>
+	<imgdir name="BtSailingOut">
+		<string name="Title" value="结束航行" />
+		<string name="Desc" value="停止航行返回交易站。" />
+	</imgdir>
+</imgdir>
+<imgdir name="UIWnd">
+<imgdir name="Stat">
+<imgdir name="0">
+	<string name="Title" value="荣誉等级" />
+	<string name="Desc" value="积累荣誉经验值提升角色荣誉等级。升级时你将获得循环器，最多到31级，届时将通过获得一定量荣誉经验值来获得循环器。" />
+	<string name="TitleDemon" value="荣誉等级" />
+	<string name="DescDemon" value="积累一定量荣誉经验值提升角色荣誉等级。升级时可获得循环器，达到2级、30级和70级时可获得新内在能力。" />
+	<vector name="lt" x="12" y="396" />
+	<vector name="rb" x="69" y="412" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="荣誉经验值" />
+	<string name="Desc" value="转职为战士、弓箭手、魔法师、盗贼或海盗。\n战士：10级以上。职业NPC位置：佩里昂\n弓箭手：10级以上。职业NPC位置：赫内西\n魔法师：10级以上。职业NPC位置：艾利纳\n盗贼：10级以上。职业NPC位置：柯林城\n海盗：10级以上。职业NPC位置：鹦鹉螺号" />
+	<string name="TitleDemon" value="荣誉经验值" />
+	<string name="DescDemon" value="显示你当前的荣誉经验值。达到100%时你的荣誉等级将提升。参加阿兹旺之战获得荣誉经验值。" />
+	<vector name="lt" x="12" y="414" />
+	<vector name="rb" x="69" y="430" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="生命值" />
+	<string name="Desc" value="HP归零时你将无法行动。怪物攻击、一些特殊技能甚至站在危险区域都会减少你的HP。最大HP：500,000" />
+	<string name="TitleDemon" value="生命值" />
+	<string name="DescDemon" value="HP归零时你将死亡。你的HP因受到怪物攻击伤害、使用特殊技能或待在特殊地点而减少。你可将HP提升至99,999。" />
+	<vector name="lt" x="12" y="198" />
+	<vector name="rb" x="69" y="214" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="魔法值" />
+	<string name="Desc" value="许多技能需要它。最大值：500,000" />
+	<string name="TitleDemon" value="恶魔之气" />
+	<string name="DescDemon" value="用于所有恶魔猎手技能。此属性只能通过使用恶魔之盾增加。" />
+	<vector name="lt" x="12" y="216" />
+	<vector name="rb" x="69" y="232" />
+</imgdir>
+<imgdir name="4">
+	<vector name="lt" x="8" y="309" />
+	<vector name="rb" x="130" y="372" />
+	<string name="Title" value="AP(属性点)" />
+	<string name="Desc" value="用于增加力量、敏捷、智力、运气、HP和MP。力量、敏捷、智力和运气每使用1点AP增加1点属性。HP和MP的增加因角色和职业不同而不同。每次升级你将获得5点AP。" />
+	<string name="TitleDemon" value="AP(属性点)" />
+	<string name="DescDemon" value="用于增加力量、敏捷、智力、运气、HP和MP。力量、敏捷、智力和运气每使用1点AP增加1点属性。HP和MP的增加因角色和职业不同而不同。每次升级你将获得5点AP。" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="力量" />
+	<string name="Desc" value="力量决定战士和海盗(拳击手)使用近战武器时的攻击强度。" />
+	<string name="TitleDemon" value="战斗经验值" />
+	<string name="DescDemon" value="你当前的战斗经验值。达到100%时你的等级将提升。参加战斗模式可获得战斗经验值。" />
+	<vector name="lt" x="12" y="234" />
+	<vector name="rb" x="69" y="250" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="敏捷" />
+	<string name="Desc" value="此属性增加时，命中率和闪避率也会增加。它决定弓箭手和海盗(神枪手)的攻击强度。" />
+	<string name="TitleDemon" value="恶魔之气" />
+	<string name="DescDemon" value="用于所有恶魔猎手技能。此属性只能通过使用恶魔之盾增加。" />
+	<vector name="lt" x="12" y="253" />
+	<vector name="rb" x="69" y="268" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="智力" />
+	<string name="Desc" value="智力决定魔法攻击的强度和成功率。它决定魔法师的魔法强度和最大MP。" />
+	<string name="TitleDemon" value="AP(属性点)" />
+	<string name="DescDemon" value="用于增加力量、敏捷、智力、运气、HP和MP。力量、敏捷、智力和运气每使用1点AP增加1点属性。HP和MP的增加因角色和职业不同而不同。每次升级你将获得5点AP。" />
+	<vector name="lt" x="12" y="271" />
+	<vector name="rb" x="69" y="286" />
+</imgdir>
+<imgdir name="8">
+	<vector name="lt" x="12" y="289" />
+	<vector name="rb" x="69" y="304" />
+	<string name="Title" value="运气" />
+	<string name="Desc" value="此属性增加时你的闪避率也会增加。它决定盗贼的攻击强度和魔法师的魔法命中率。" />
+	<string name="TitleDemon" value="力量" />
+	<string name="DescDemon" value="使用近战武器时使用力量。它决定战士和海盗(拳击手、神枪手)的攻击强度。" />
+</imgdir>
+<imgdir name="9">
+<imgdir name="1">
+	<string name="Title" value="挖掘现场" />
+</imgdir>
+<imgdir name="101030104">
+<imgdir name="0">
+	<string name="Title" value="遗迹I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="遗迹3" />
+</imgdir>
+<imgdir name="540000000">
+<imgdir name="0">
+	<string name="Title" value="樟宜机场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="中央大道1" />
+</imgdir>
+<imgdir name="540000100">
+<imgdir name="0">
+	<string name="Title" value="中央大道2" />
+</imgdir>
+<imgdir name="540000200">
+<imgdir name="0">
+	<string name="Title" value="中央大道3" />
+</imgdir>
+<imgdir name="540000300">
+<imgdir name="0">
+	<string name="Title" value="中央大道2" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="郊区1" />
+</imgdir>
+<imgdir name="540020000">
+<imgdir name="0">
+	<string name="Title" value="郊区2" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="克拉河镇" />
+</imgdir>
+<imgdir name="540020100">
+<imgdir name="0">
+	<string name="Title" value="郊区1" />
+</imgdir>
+<imgdir name="541000300">
+<imgdir name="0">
+	<string name="Title" value="幽灵船1" />
+</imgdir>
+<imgdir name="100030000">
+<imgdir name="0">
+	<string name="Title" value="犹他的猪场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="艾利纳南部森林(往艾利纳方向)" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="前往港口的路上(往鹦鹉螺号方向)  " />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="犹他的猪场" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="艾利纳南部森林(往艾利纳方向)" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="赫内西东侧雨林(往赫内西方向) " />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="前往港口的路上(往鹦鹉螺号方向) " />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="犹他的猪场" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="艾利纳南部森林(往艾利纳方向)" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="前往港口的路上(往鹦鹉螺号方向) " />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="赫内西东侧雨林(往赫内西方向) " />
+</imgdir>
+<imgdir name="101040001">
+<imgdir name="0">
+	<string name="Title" value="布格石板" />
+	<string name="Desc" value="你需要在击败布格之前先摧毁资源。" />
+</imgdir>
+<imgdir name="101050000">
+<imgdir name="0">
+	<string name="Title" value="圣树" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="仓库" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="知识回廊" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="王者之座" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="精灵学校" />
+</imgdir>
+<imgdir name="101050030">
+<imgdir name="0">
+	<string name="Title" value="精灵小学" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="精灵中学" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="精灵高中" />
+</imgdir>
+<imgdir name="101050300">
+<imgdir name="0">
+	<string name="Title" value="外围艾利乌尔" />
+</imgdir>
+<imgdir name="101050400">
+<imgdir name="0">
+	<string name="Title" value="艾利乌尔-精灵之城" />
+</imgdir>
+<imgdir name="104030000">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西西部森林" />
+</imgdir>
+<imgdir name="200000150">
+<imgdir name="0">
+	<string name="Title" value="神Station车站候车室" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿里安特平台" />
+</imgdir>
+<imgdir name="200082300">
+<imgdir name="0">
+	<string name="Title" value="海上互通" />
+</imgdir>
+<imgdir name="211000200">
+<imgdir name="0">
+	<string name="Title" value="神Station塔" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="艾尔迪娜" />
+</imgdir>
+<imgdir name="211041100">
+<imgdir name="1">
+	<string name="Title" value="枯树森林II" />
+</imgdir>
+<imgdir name="211041200">
+<imgdir name="1">
+	<string name="Title" value="枯树森林I" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="枯树森林III" />
+</imgdir>
+<imgdir name="211040600">
+<imgdir name="0">
+	<string name="Title" value="通往狮子王城堡的路" />
+</imgdir>
+<imgdir name="222010101">
+<imgdir name="0">
+	<string name="Title" value="小池塘" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="老虎森林II" />
+</imgdir>
+<imgdir name="222010102">
+<imgdir name="0">
+	<string name="Title" value="老虎森林II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="※禁止通行 " />
+</imgdir>
+<imgdir name="230010100">
+<imgdir name="0">
+	<string name="Title" value="海上互通" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="红色珊瑚森林" />
+</imgdir>
+<imgdir name="230010200">
+<imgdir name="0">
+	<string name="Title" value="水晶谷" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="贝壳山丘" />
+</imgdir>
+<imgdir name="230010300">
+<imgdir name="0">
+	<string name="Title" value="红色珊瑚森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西部海域交叉路" />
+</imgdir>
+<imgdir name="260000000">
+<imgdir name="0">
+	<string name="Title" value="阿里安特西门外部" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="邮政仓库" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿里安特车站站台" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="阿里安特美容院" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="阿里安特整形外科" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="阿里安特小镇" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="阿里安特城堡" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="阿里安特武器商" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="阿里安特防具商" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="阿里安特杂货店" />
+</imgdir>
+<imgdir name="11">
+	<string name="Title" value="阿里安特北门外部" />
+</imgdir>
+<imgdir name="12">
+	<string name="Title" value="阿里安特发廊" />
+</imgdir>
+<imgdir name="13">
+	<string name="Title" value="阿里安特东门外部" />
+</imgdir>
+<imgdir name="14">
+	<string name="Title" value="阿里安特车站站台" />
+</imgdir>
+<imgdir name="15">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="260000200">
+<imgdir name="0">
+	<string name="Title" value="利迪乌姆加工 workshop" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿里安特市场" />
+</imgdir>
+<imgdir name="260010000">
+<imgdir name="0">
+	<string name="Title" value="阿里安特" />
+</imgdir>
+<imgdir name="260010100">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:燃烧丘陵" />
+</imgdir>
+<imgdir name="260010600">
+<imgdir name="0">
+	<string name="Title" value="干燥沙漠" />
+</imgdir>
+<imgdir name="260010700">
+<imgdir name="0">
+	<string name="Title" value="阿里安特" />
+</imgdir>
+<imgdir name="260020000">
+<imgdir name="0">
+	<string name="Title" value="阿里安特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="骆驼出租车" />
+	<string name="Desc" value="马加迪亚 1500 金币" />
+</imgdir>
+<imgdir name="260020700">
+<imgdir name="0">
+	<string name="Title" value="骆驼出租车" />
+	<string name="Desc" value="阿里安特 1500 金币" />
+</imgdir>
+<imgdir name="990000200">
+<imgdir name="0">
+	<string name="Title" value="谢莱尼安遗迹" />
+</imgdir>
+<imgdir name="60002">
+<imgdir name="0">
+	<string name="Title" value="南佩里" />
+	<string name="Desc" value="南佩里是一个港口城市。" />
+</imgdir>
+<imgdir name="120000100">
+<imgdir name="0">
+	<string name="Title" value="船的控制室" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="餐厅" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="鹦鹉螺号中央走廊(楼下)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="训练室" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="基林的控制室" />
+	<string name="Desc" value="如果你想转职为海盗，就去最左边的房间..." />
+</imgdir>
+<imgdir name="120000300">
+<imgdir name="0">
+	<string name="Title" value="鹦鹉螺号中央走廊(楼上)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="发电机室" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="发电机室" />
+</imgdir>
+<imgdir name="211050000">
+<imgdir name="1">
+	<string name="Title" value="骑手领域" />
+</imgdir>
+<imgdir name="229010000">
+<imgdir name="0">
+	<string name="Title" value="废弃坟墓" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="返回路上" />
+</imgdir>
+<imgdir name="223000000">
+<imgdir name="0">
+	<string name="Title" value="梦幻缆车" />
+	<string name="Desc" value="前往鲁陀里姆。" />
+</imgdir>
+<imgdir name="223010000">
+<imgdir name="0">
+	<string name="Title" value="幻想主题公园&lt;正门&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="有趣车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="223010100">
+<imgdir name="0">
+	<string name="Title" value="有趣车站&lt;1&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="有趣车站&lt;3&gt;" />
+</imgdir>
+<imgdir name="223010200">
+<imgdir name="0">
+	<string name="Title" value="有趣车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="极限车站&lt;1&gt;" />
+</imgdir>
+<imgdir name="223020000">
+<imgdir name="0">
+	<string name="Title" value="有趣车站&lt;3&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="极限车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="幻想主题公园&lt;正门&gt;" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="有趣车站&lt;3&gt;" />
+</imgdir>
+<imgdir name="223020100">
+<imgdir name="0">
+	<string name="Title" value="极限车站&lt;1&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="极限车站&lt;3&gt;" />
+</imgdir>
+<imgdir name="223020200">
+<imgdir name="0">
+	<string name="Title" value="极限车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="幻想车站&lt;1&gt;" />
+</imgdir>
+<imgdir name="223030000">
+<imgdir name="0">
+	<string name="Title" value="极限车站&lt;3&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="幻想车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="幻想主题公园&lt;正门&gt;" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="幻想车站&lt;2&gt;" />
+</imgdir>
+<imgdir name="223030100">
+<imgdir name="0">
+	<string name="Title" value="幻想车站&lt;1&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="幻想动物表演&lt;入口&gt;" />
+</imgdir>
+<imgdir name="223030200">
+<imgdir name="0">
+	<string name="Title" value="幻想动物表演&lt;场所&gt;" />
+</imgdir>
+<imgdir name="300000000">
+<imgdir name="0">
+	<string name="Title" value="屏障石" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="诊所" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="营地会议室" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="屏障石" />
+</imgdir>
+<imgdir name="300010000">
+<imgdir name="0">
+	<string name="Title" value="阿尔泰尔营地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="青苔树森林西部地区" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="蘑菇山丘入口" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="青苔树森林南部地区" />
+</imgdir>
+<imgdir name="300010200">
+<imgdir name="0">
+	<string name="Title" value="巨石山入口" />
+	<string name="Desc" value="如果你是一个迷路的冒险家，走这边..." />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="青苔树森林西部地区1" />
+</imgdir>
+<imgdir name="300010300">
+<imgdir name="0">
+	<string name="Title" value="青苔树森林西部地区" />
+	<string name="Desc" value="营地在这片森林的西部地区之外。-Rios-" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="青苔树森林南部地区" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="前往巨石山" />
+</imgdir>
+<imgdir name="300020000">
+<imgdir name="0">
+	<string name="Title" value="青苔树森林入口" />
+	<string name="Desc" value="如果你是一个迷路的冒险家，走这边..." />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="青苔树森林南部地区2" />
+</imgdir>
+<imgdir name="300020210">
+<imgdir name="0">
+	<string name="Title" value="蘑菇山丘入口" />
+</imgdir>
+<imgdir name="300030000">
+<imgdir name="0">
+	<string name="Title" value="危险区域。禁止探险！" />
+	<string name="Desc" value="由于最近发生奇怪事件，探险不被允许。-雅典娜·皮尔斯-" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿尔泰尔营地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="青苔树森林小路" />
+</imgdir>
+<imgdir name="300030300">
+<imgdir name="0">
+	<string name="Title" value="女王的藏身处" />
+	<string name="Desc" value="精灵女王埃芬尼亚的藏身处。" />
+</imgdir>
+<imgdir name="310000000">
+<imgdir name="0">
+	<string name="Title" value="埃德尔斯坦警察局" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="埃德尔斯坦市立学校" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="埃德尔斯坦市政厅" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="议会议长官邸" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="埃德尔斯坦临时机场" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="发廊" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="埃德尔斯坦医疗中心" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="310010010">
+<imgdir name="0">
+	<string name="Title" value="训练室" />
+</imgdir>
+<imgdir name="310020000">
+<imgdir name="0">
+	<string name="Title" value="埃德尔斯坦" />
+</imgdir>
+<imgdir name="310030100">
+<imgdir name="0">
+	<string name="Title" value="蛇之路" />
+</imgdir>
+<imgdir name="310030200">
+<imgdir name="0">
+	<string name="Title" value="可疑机器" />
+</imgdir>
+<imgdir name="310030300">
+<imgdir name="0">
+	<string name="Title" value="矿山入口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="前往矿山的缆车" />
+</imgdir>
+<imgdir name="310040110">
+<imgdir name="0">
+	<string name="Title" value="黑色传送门" />
+</imgdir>
+<imgdir name="310040200">
+<imgdir name="0">
+	<string name="Title" value="矿山入口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="弗恩矿山" />
+</imgdir>
+<imgdir name="310040210">
+<imgdir name="0">
+	<string name="Title" value=" restricted area: 向左移动返回城镇。" />
+</imgdir>
+<imgdir name="310050100">
+<imgdir name="0">
+	<string name="Title" value="发电厂入口" />
+</imgdir>
+<imgdir name="500010000">
+<imgdir name="0">
+	<string name="Title" value="蟾蜍池" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="浮动市场" />
+</imgdir>
+<imgdir name="500010100">
+<imgdir name="0">
+	<string name="Title" value="青蛙池/浮动市场" />
+</imgdir>
+<imgdir name="800020110">
+<imgdir name="0">
+	<string name="Title" value="小心竹战士！" />
+	<string name="Desc" value="当冷风吹过竹林时，竹战士就会出现！小心那些心怀怨恨的竹战士。要消灭战士，砍伐森林里的竹子..." />
+</imgdir>
+<imgdir name="800020120">
+<imgdir name="0">
+	<string name="Title" value="小心竹战士！" />
+	<string name="Desc" value="当冷风吹过竹林时，竹战士就会出现！小心那些心怀怨恨的竹战士。要消灭战士，砍伐森林里的竹子..." />
+</imgdir>
+<imgdir name="800020130">
+<imgdir name="0">
+	<string name="Title" value="小心竹战士！" />
+	<string name="Desc" value="当冷风吹过竹林时，竹战士就会出现！小心那些心怀怨恨的竹战士。要消灭战士，砍伐森林里的竹子..." />
+</imgdir>
+<imgdir name="120000200">
+<imgdir name="0">
+	<string name="Title" value="摩根的武器店" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="罗多斯的防具店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="会议室" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="出口" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="加里的杂货" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="鹦鹉螺号上层走廊(楼上)" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="鹦鹉螺号下层走廊(楼下)" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="卧室" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="杂货店/楼梯" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="11">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="222000000">
+<imgdir name="0">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="韩林村落" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="黑山" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="黑山" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="赫利奥斯塔&lt;图书馆&gt;" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="黑山入口" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="自由市场入口" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="222010300">
+<imgdir name="0">
+	<string name="Title" value="黑山山顶" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="狐狸山脊" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="塔" />
+	<string name="Desc" value="所有穿过狐狸谷的人应该从塔顶扔下萨米霍的尾巴来偿还它的分数" />
+</imgdir>
+<imgdir name="261000000">
+<imgdir name="0">
+	<string name="Title" value="萨赫尔" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿尔卡德诺协会-杂货店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="泽努米斯特协会-武器&amp;防具店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="马加迪亚银行" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="斯坦的工作室" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="武器&amp;防具店" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="泽努米斯特协会" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="阿尔卡德诺协会" />
+</imgdir>
+<imgdir name="14">
+	<vector name="lt" x="12" y="104" />
+	<vector name="rb" x="70" y="119" />
+	<string name="Title" value="物理防御力" />
+	<string name="Desc" value="物理防御力越高，受到的物理伤害越少。它由你的物理防御属性和所有装备的防具道具的物理防御相加决定。" />
+</imgdir>
+<imgdir name="15">
+	<vector name="lt" x="133" y="104" />
+	<vector name="rb" x="191" y="119" />
+	<string name="Title" value="魔法防御力" />
+	<string name="Desc" value="魔法防御力越高，受到的魔法伤害越少。它由你的魔法防御属性和所有装备的防具道具的魔法防御相加决定。" />
+</imgdir>
+<imgdir name="16">
+	<vector name="lt" x="12" y="122" />
+	<vector name="rb" x="70" y="137" />
+	<string name="Title" value="物理命中率" />
+	<string name="Desc" value="决定物理攻击命中率的属性。数值越高，物理攻击的命中概率越高。它由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="17">
+	<vector name="lt" x="133" y="122" />
+	<vector name="rb" x="191" y="137" />
+	<string name="Title" value="魔法命中率" />
+	<string name="Desc" value="决定魔法攻击命中率的属性。数值越高，魔法攻击的命中概率越高。它由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="18">
+	<vector name="lt" x="12" y="140" />
+	<vector name="rb" x="70" y="155" />
+	<string name="Title" value="物理闪避率" />
+	<string name="Desc" value="决定躲避物理攻击概率的属性。数值越高，躲避物理攻击的概率越高。它由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="19">
+	<vector name="lt" x="133" y="140" />
+	<vector name="rb" x="191" y="155" />
+	<string name="Title" value="魔法闪避率" />
+	<string name="Desc" value="决定躲避魔法攻击概率的属性。数值越高，躲避魔法攻击的概率越高。它由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="20">
+	<vector name="lt" x="12" y="158" />
+	<vector name="rb" x="70" y="173" />
+	<string name="Title" value="移动速度" />
+	<string name="Desc" value="你的移动速度最高只能到140%。技能和装备可用来增加或减少速度。骑乘坐骑时速度可提升至190%。" />
+</imgdir>
+<imgdir name="21">
+	<vector name="lt" x="133" y="158" />
+	<vector name="rb" x="191" y="173" />
+	<string name="Title" value="跳跃力" />
+	<string name="Desc" value="你能跳多高。最高只能到123%。技能和装备可用来增加或减少跳跃力。" />
+</imgdir>
+<imgdir name="Stat_Xenon">
+<imgdir name="0">
+	<vector name="lt" x="13" y="31" />
+	<vector name="rb" x="69" y="47" />
+	<string name="Title" value="角色名称" />
+	<string name="Desc" value="创建后无法更改。" />
+</imgdir>
+<imgdir name="1">
+	<vector name="lt" x="13" y="50" />
+	<vector name="rb" x="69" y="63" />
+	<string name="Title" value="角色职业" />
+	<string name="Desc" value="达到里程碑等级时你可以进行职业进阶。\n1转：10级\n2转：30级\n3转：60级\n4转：100级。" />
+</imgdir>
+<imgdir name="2">
+	<vector name="lt" x="13" y="68" />
+	<vector name="rb" x="68" y="83" />
+	<string name="Title" value="角色等级" />
+	<string name="Desc" value="获得经验值提升角色等级。" />
+</imgdir>
+<imgdir name="3">
+	<vector name="lt" x="12" y="86" />
+	<vector name="rb" x="69" y="99" />
+	<string name="Title" value="经验值" />
+	<string name="Desc" value="达到100%时你的等级将提升。你可通过狩猎怪物或完成任务获得经验值。" />
+</imgdir>
+<imgdir name="4">
+	<vector name="lt" x="12" y="105" />
+	<vector name="rb" x="69" y="117" />
+	<string name="Title" value="荣誉等级" />
+	<string name="Desc" value="积累荣誉经验值提升角色荣誉等级。升级时你将获得循环器，最多到31级，届时将通过获得一定量荣誉经验值来获得循环器。" />
+</imgdir>
+<imgdir name="5">
+	<vector name="lt" x="12" y="122" />
+	<vector name="rb" x="69" y="133" />
+	<string name="Title" value="荣誉经验值" />
+	<string name="Desc" value="荣誉经验值达到100%时你将获得新的荣誉等级。阿兹旺之战中的荣誉勋章可获得荣誉经验值。" />
+</imgdir>
+<imgdir name="6">
+	<vector name="lt" x="12" y="141" />
+	<vector name="rb" x="69" y="152" />
+	<string name="Title" value="公会" />
+	<string name="Desc" value="这是你当前的公会。按G键查看公会信息。" />
+</imgdir>
+<imgdir name="7">
+	<vector name="lt" x="12" y="158" />
+	<vector name="rb" x="69" y="171" />
+	<string name="Title" value="生命值" />
+	<string name="Desc" value="HP归零时你将无法行动。怪物攻击、一些特殊技能甚至站在危险区域都会减少你的HP。最大HP：500,000" />
+	<string name="DescAvenger" value="HP归零时你将无法行动。怪物攻击、一些特殊技能甚至站在危险区域都会减少你的HP。这对恶魔复仇者攻击最重要。最大HP：500,000" />
+</imgdir>
+<imgdir name="8">
+<imgdir name="9">
+	<string name="Title" value="自由市场入口" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="100000002">
+<imgdir name="0">
+	<string name="Title" value="猪公园" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="主题副本:蘑菇城堡 " />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="主题副本:蘑菇城堡 " />
+</imgdir>
+<imgdir name="100000004">
+<imgdir name="0">
+	<string name="Title" value="别人的房子" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猪公园(往赫内西方向)" />
+</imgdir>
+<imgdir name="100000005">
+<imgdir name="0">
+	<string name="Title" value="猪公园II(往赫内西方向)" />
+</imgdir>
+<imgdir name="100010000">
+<imgdir name="0">
+	<string name="Title" value="梦幻森林小路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="梦幻森林小路" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="可疑山丘" />
+</imgdir>
+<imgdir name="100010100">
+<imgdir name="0">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西北侧山丘" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西北侧山丘" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="可疑山丘" />
+</imgdir>
+<imgdir name="100020000">
+<imgdir name="0">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="嗡嗡森林小路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="弓箭手培训中心" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="嗡嗡森林小路" />
+</imgdir>
+<imgdir name="100020100">
+<imgdir name="0">
+	<string name="Title" value="孢子山" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="风之花森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="孢子山" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="风之花森林" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="莫莫森林小路" />
+</imgdir>
+<imgdir name="100020200">
+<imgdir name="0">
+	<string name="Title" value="嗡嗡森林小路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蓝蘑菇森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="石巨人神殿入口/嗡嗡森林小路" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="蓝蘑菇森林" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="石巨人神殿入口" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="嗡嗡森林小路" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="石巨人神殿入口" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="蓝蘑菇森林" />
+</imgdir>
+<imgdir name="100020300">
+<imgdir name="0">
+	<string name="Title" value="风之花森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="幽灵蘑菇小路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="风之花森林" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="幽灵蘑菇森林" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="蓝蘑菇莫莫森林" />
+</imgdir>
+<imgdir name="100040000">
+<imgdir name="0">
+	<string name="Title" value="风之花森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="石巨人神殿1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="石巨人神殿2" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="石巨人神殿3" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="石巨人神殿4" />
+</imgdir>
+<imgdir name="100040100">
+<imgdir name="0">
+	<string name="Title" value="艾利纳南部森林(往赫内西/鹦鹉螺号方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="艾利纳南部平原(往艾利纳方向)" />
+</imgdir>
+<imgdir name="100040400">
+<imgdir name="0">
+	<string name="Title" value="倒塌的石巨人城堡废墟" />
+	<string name="Desc" value="&lt;迷你副本&gt;" />
+</imgdir>
+<imgdir name="101010000">
+<imgdir name="0">
+	<string name="Title" value="艾利纳" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="森林起点" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="艾利纳" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="森林起点" />
+</imgdir>
+<imgdir name="101010100">
+<imgdir name="0">
+	<string name="Title" value="闪耀森林小路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="闪耀森林小路" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="101010101">
+<imgdir name="0">
+	<string name="Title" value="成长的树III" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="成长的树I" />
+</imgdir>
+<imgdir name="101010102">
+<imgdir name="0">
+	<string name="Title" value="成长的树之冠" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="成长的树II" />
+</imgdir>
+<imgdir name="101010103">
+<imgdir name="0">
+	<string name="Title" value="             &lt;警告&gt;             " />
+	<string name="Desc" value="高度：海拔30km。这是艾利纳最高树木的最高峰。风向东吹向昏昏欲睡森林。跳跃风险自负。" />
+</imgdir>
+<imgdir name="101020000">
+<imgdir name="0">
+	<string name="Title" value="靠近鸟儿" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="艾利纳" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="靠近鸟儿" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="艾利纳" />
+</imgdir>
+<imgdir name="101020100">
+<imgdir name="0">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="迎风而立" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="迎风而立" />
+</imgdir>
+<imgdir name="101020200">
+<imgdir name="0">
+	<string name="Title" value="烟囱树顶" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="靠近鸟儿" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="烟囱树顶" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="靠近鸟儿" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="烟囱树顶" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="巨树" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="靠近鸟儿" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="巨树" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="巨树" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="精灵边界大门" />
+	<string name="Desc" value="跳下去进入艾利乌尔。" />
+</imgdir>
+<imgdir name="101020300">
+<imgdir name="0">
+	<string name="Title" value="鲁品森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="鲁品森林" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="101030000">
+<imgdir name="0">
+	<string name="Title" value="绿树干" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="绿树干" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="靠近天空" />
+</imgdir>
+<imgdir name="101030101">
+<imgdir name="0">
+	<string name="Title" value="挖掘现场II(往挖掘现场方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="岩石路III(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="101030102">
+<imgdir name="0">
+	<string name="Title" value="挖掘现场I(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="挖掘现场III(往挖掘现场方向)" />
+</imgdir>
+<imgdir name="101030200">
+<imgdir name="0">
+	<string name="Title" value="幼树森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="绿树干" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="树干巢穴2" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="幼树森林" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="绿树干" />
+</imgdir>
+<imgdir name="101030300">
+<imgdir name="0">
+	<string name="Title" value="北部森林地块" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="独眼蜥蜴" />
+	<string name="Desc" value="&lt;迷你副本&gt;" />
+</imgdir>
+<imgdir name="101030401">
+<imgdir name="0">
+	<string name="Title" value="东岩石山I(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山III" />
+</imgdir>
+<imgdir name="101030402">
+<imgdir name="0">
+	<string name="Title" value="东岩石山II(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山IV" />
+</imgdir>
+<imgdir name="101030403">
+<imgdir name="0">
+	<string name="Title" value="东岩石山III(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山V" />
+</imgdir>
+<imgdir name="101030404">
+<imgdir name="0">
+	<string name="Title" value="东岩石山IV(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山VI" />
+</imgdir>
+<imgdir name="101030405">
+<imgdir name="0">
+	<string name="Title" value="东岩石山V(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山VII" />
+</imgdir>
+<imgdir name="101040000">
+<imgdir name="0">
+	<string name="Title" value="烟囱树顶" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="头目鲁品巢穴" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="烟囱树顶" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="头目鲁品巢穴" />
+</imgdir>
+<imgdir name="101040100">
+<imgdir name="0">
+	<string name="Title" value="鲁品森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黑暗树森林" />
+</imgdir>
+<imgdir name="101040200">
+<imgdir name="0">
+	<string name="Title" value="污染之树" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="头目鲁品巢穴" />
+</imgdir>
+<imgdir name="101040300">
+<imgdir name="0">
+	<string name="Title" value="邪恶能量森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黑暗树森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="邪恶能量森林1" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="黑暗树森林" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="邪恶能量森林2" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="黑暗树森林" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="邪恶能量森林2" />
+</imgdir>
+<imgdir name="101040310">
+<imgdir name="0">
+	<string name="Title" value="污染之树" />
+</imgdir>
+<imgdir name="101040320">
+<imgdir name="0">
+	<string name="Title" value="污染之树" />
+</imgdir>
+<imgdir name="102010000">
+<imgdir name="0">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="岩石荒地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="岩石荒地" />
+</imgdir>
+<imgdir name="102010100">
+<imgdir name="0">
+	<string name="Title" value="佩里昂南脊" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="佩里昂南脊" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="102030000">
+<imgdir name="0">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="102030100">
+<imgdir name="0">
+	<string name="Title" value="盔甲野猪之地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="盔甲野猪之地" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="102030200">
+<imgdir name="0">
+	<string name="Title" value="灼热" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="灼热" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="野猪之地" />
+</imgdir>
+<imgdir name="102030300">
+<imgdir name="0">
+	<string name="Title" value="灰烬覆盖之地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="盔甲野猪之地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="灰烬覆盖之地" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="盔甲野猪之地" />
+</imgdir>
+<imgdir name="102030400">
+<imgdir name="0">
+	<string name="Title" value="灼热" />
+</imgdir>
+<imgdir name="102040000">
+<imgdir name="0">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="挖掘完成区域" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="挖掘完成区域" />
+</imgdir>
+<imgdir name="102040100">
+<imgdir name="0">
+	<string name="Title" value="初始挖掘区域" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="遗迹挖掘营地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="初始挖掘区域" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="遗迹挖掘营地" />
+</imgdir>
+<imgdir name="102040200">
+<imgdir name="0">
+	<string name="Title" value="挖掘间歇区域" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="挖掘完成区域" />
+</imgdir>
+<imgdir name="102040300">
+<imgdir name="0">
+	<string name="Title" value="遗迹挖掘营地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="挖掘危险区域" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="军营1" />
+</imgdir>
+<imgdir name="102040400">
+<imgdir name="0">
+	<string name="Title" value="挖掘间歇区域" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="军营2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="封闭区域" />
+</imgdir>
+<imgdir name="102040500">
+<imgdir name="0">
+	<string name="Title" value="挖掘危险区域" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="军营3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="禁区" />
+</imgdir>
+<imgdir name="102040600">
+<imgdir name="0">
+	<string name="Title" value="封闭区域" />
+</imgdir>
+<imgdir name="102050000">
+<imgdir name="0">
+	<string name="Title" value="凯恩城" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="凯恩城北部建筑工地(往佩里昂方向)" />
+</imgdir>
+<imgdir name="103010000">
+<imgdir name="0">
+	<string name="Title" value="凯恩城" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="废弃建筑工地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="飞贼培训中心" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="凯恩城" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="废弃建筑工地" />
+</imgdir>
+<imgdir name="103010100">
+<imgdir name="0">
+	<string name="Title" value="小心坠落" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="小心坠落" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="103020000">
+<imgdir name="0">
+	<string name="Title" value="凯恩城建筑工地(往凯恩城方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="L森林II(往赫内西/ Lith Harbor方向)" />
+</imgdir>
+<imgdir name="103020100">
+<imgdir name="0">
+	<string name="Title" value="L森林I(往凯恩城方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="L森林III(往赫内西/ Lith Harbor方向)" />
+</imgdir>
+<imgdir name="103020200">
+<imgdir name="0">
+	<string name="Title" value="凯恩城中森林I(往赫内西/ Lith Harbor方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="L森林II(往凯恩城方向)" />
+</imgdir>
+<imgdir name="103030100">
+<imgdir name="0">
+	<string name="Title" value="凯恩城中森林III" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="凯恩城中森林I" />
+</imgdir>
+<imgdir name="104000100">
+<imgdir name="0">
+	<string name="Title" value=" Lith Harbor" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="海滩周围灌木丛I(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="104000200">
+<imgdir name="0">
+	<string name="Title" value=" Lith Harbor右侧(往 Lith Harbor方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="海滩周围灌木丛II(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="104000300">
+<imgdir name="0">
+	<string name="Title" value="海滩周围灌木丛I(往 Lith Harbor方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="海滩周围灌木丛III(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="104000400">
+<imgdir name="0">
+	<string name="Title" value="海滩周围灌木丛II(往 Lith Harbor方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="三岔路口(往维多利亚路方向)" />
+</imgdir>
+<imgdir name="104020000">
+<imgdir name="0">
+	<string name="Title" value="废弃建筑工地" />
+</imgdir>
+<imgdir name="12">
+	<vector name="lt" x="12" y="296" />
+	<vector name="rb" x="69" y="309" />
+	<string name="Title" value="敏捷" />
+	<string name="Desc" value="敏捷决定尖兵的概率和闪避率，并影响尖兵的攻击强度。" />
+</imgdir>
+<imgdir name="13">
+	<vector name="lt" x="12" y="313" />
+	<vector name="rb" x="69" y="329" />
+	<string name="Title" value="智力" />
+	<string name="Desc" value="智力决定魔法攻击的强度和成功率，但不影响尖兵的攻击。" />
+</imgdir>
+<imgdir name="14">
+	<vector name="lt" x="12" y="332" />
+	<vector name="rb" x="69" y="347" />
+	<string name="Title" value="运气" />
+	<string name="Desc" value="运气决定尖兵的闪避率，并影响尖兵的攻击强度。" />
+</imgdir>
+<imgdir name="DKtransForm">
+<imgdir name="kaiserGaugeGuide">
+<imgdir name="0">
+	<string name="Title" value="变形槽" />
+	<string name="Desc" value="激活龙之联盟技能比使用普通技能更快填满变形槽。\n#c变形技能效果#将根据变形槽满的程度激活。" />
+	<vector name="lt" x="0" y="0" />
+	<vector name="rb" x="96" y="96" />
+</imgdir>
+<imgdir name="kaiserTransformGuide">
+<imgdir name="0">
+	<string name="Title" value="最终变形" />
+	<string name="Desc" value="最终恍惚状态下只能使用特定技能。" />
+	<vector name="lt" x="0" y="100" />
+	<vector name="rb" x="97" y="185" />
+</imgdir>
+<imgdir name="MonsterBattle">
+<imgdir name="0">
+	<vector name="lt" x="330" y="85" />
+	<vector name="rb" x="416" y="99" />
+	<string name="Title" value="等级" />
+	<string name="Desc" value="战斗怪物的等级。基础属性随等级提升而增加，怪物将可使用更多技能。" />
+</imgdir>
+<imgdir name="1">
+	<vector name="lt" x="330" y="103" />
+	<vector name="rb" x="416" y="117" />
+	<string name="Title" value="经验值" />
+	<string name="Desc" value="达到经验值目标可提升等级。击败怪物时主要战斗怪物将获得经验值。击败等级低的怪物获得的经验值较少，击败比你低20级以上的怪物不会获得经验值。" />
+</imgdir>
+<imgdir name="2">
+	<vector name="lt" x="330" y="121" />
+	<vector name="rb" x="416" y="135" />
+	<string name="Title" value="HP" />
+	<string name="Desc" value="战斗怪物的最大HP。如果你的怪物HP先归零你将失败。你可通过提升怪物等级和装备战斗怪物装备来提升它。" />
+</imgdir>
+<imgdir name="3">
+	<vector name="lt" x="330" y="139" />
+	<vector name="rb" x="416" y="153" />
+	<string name="Title" value="攻击力" />
+	<string name="Desc" value="这决定你在战斗中的伤害。你可通过提升怪物等级和装备战斗怪物装备来提升它。" />
+</imgdir>
+<imgdir name="4">
+	<vector name="lt" x="330" y="157" />
+	<vector name="rb" x="416" y="171" />
+	<string name="Title" value="防御力" />
+	<string name="Desc" value="这决定你在战斗中受到的伤害。装备防御装备来提升这个数值。" />
+</imgdir>
+<imgdir name="5">
+	<vector name="lt" x="330" y="175" />
+	<vector name="rb" x="416" y="189" />
+	<string name="Title" value="技能消耗" />
+	<string name="Desc" value="配置战斗怪物技能时攻击和防御技能的上限。上限将随怪物等级提升而增加。" />
+</imgdir>
+<imgdir name="6">
+	<vector name="lt" x="330" y="193" />
+	<vector name="rb" x="416" y="207" />
+	<string name="Title" value="捕获怪物数" />
+	<string name="Desc" value="你捕获的战斗怪物总数。60级战斗怪物的数量将决定给予所有战斗怪物的额外属性。\n每60级战斗怪物全属性+1%(最高+20%)" />
+</imgdir>
+<imgdir name="7">
+	<vector name="lt" x="330" y="238" />
+	<vector name="rb" x="416" y="252" />
+	<string name="Title" value="组" />
+	<string name="Desc" value="组别根据你的天梯点数决定。天梯点数要求如下。\n新手：1599或以下\n业余：1600-1699\n半职业：1700-1799\n职业：1800-1899\n全明星：1900-1999\n超级明星：2000-2199\n传奇：2200-2499\n神话：2500或以上" />
+</imgdir>
+<imgdir name="8">
+	<vector name="lt"="330" y="256"/>
+	<vector name="rb" x="416" y="270" />
+	<string name="Title" value="天梯点数" />
+	<string name="Desc" value="你的联赛战斗分数。你将从1500点开始，根据胜负点数会增加或减少。战胜比你有更多点数的对手将获得更多点数，输给比你点数少的对手将失去更多点数。" />
+</imgdir>
+<imgdir name="9">
+	<vector name="lt" x="330" y="274" />
+	<vector name="rb" x="416" y="288" />
+	<string name="Title" value="战斗充能" />
+	<string name="Desc" value="每次进入联赛战斗你将消耗1个战斗充能。战斗充能上限为10个，每5分钟获得1个。" />
+</imgdir>
+<imgdir name="10">
+<vector name="lt" x="330" y="292" />
+<vector name="rb" x="416" y="306" />
+<string name="Title" value="PVP消耗" />
+<string name="Desc" value="请求目标进行联赛战斗的消耗。你每天最多可战斗3次。" />
+<imgdir name="1">
+	<string name="Title" value="森林小路2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="梦幻森林小路" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="岩石荒地" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="森林起点" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="通往海滩的路" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="昏昏欲睡森林" />
+</imgdir>
+<imgdir name="104020100">
+<imgdir name="0">
+	<string name="Title" value="前往埃雷夫的车站" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="前往奥贝里斯的车站" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="前往埃德尔斯坦的车站" />
+</imgdir>
+<imgdir name="104020110">
+<imgdir name="0">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="艾利纳" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="凯恩城" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="售票亭" />
+</imgdir>
+<imgdir name="104040000">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内斯西部山丘(往 Lith Harbor/凯恩城方向)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="104040001">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场III" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西狩猎场I" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西狩猎场III" />
+</imgdir>
+<imgdir name="104040002">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="105020400">
+<imgdir name="0">
+	<string name="Title" value="德雷克洞穴" />
+	<string name="Desc" value="&lt;迷你副本&gt;" />
+</imgdir>
+<imgdir name="105030000">
+<imgdir name="0">
+	<string name="Title" value="仅限45级以上的探险者进入。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="副本(往佩里昂方向)" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="深林沼泽地(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="105040100">
+<imgdir name="0">
+	<string name="Title" value="深林狩猎场I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深林沼泽地(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="105040304">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:倒塌石巨人遗迹" />
+</imgdir>
+<imgdir name="105050100">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:蘑菇生长洞穴" />
+</imgdir>
+<imgdir name="106000000">
+<imgdir name="0">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深谷II(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="佩里昂" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="深谷II(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="106000001">
+<imgdir name="0">
+	<string name="Title" value="深谷I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="危险谷II" />
+</imgdir>
+<imgdir name="106000100">
+<imgdir name="0">
+	<string name="Title" value="深谷3(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="深谷I(往佩里昂方向)" />
+</imgdir>
+<imgdir name="106000101">
+<imgdir name="0">
+	<string name="Title" value="深谷II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="106000110">
+<imgdir name="0">
+	<string name="Title" value="烧毁之地I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地III" />
+</imgdir>
+<imgdir name="106000120">
+<imgdir name="0">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地IV" />
+</imgdir>
+<imgdir name="106000130">
+<imgdir name="0">
+	<string name="Title" value="烧毁之地III" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地V" />
+</imgdir>
+<imgdir name="106000200">
+<imgdir name="0">
+	<string name="Title" value="深谷II(往佩里昂方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="通往佩里昂副本的路(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="106000300">
+<imgdir name="0">
+	<string name="Title" value="深林(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深谷III(往佩里昂方向)" />
+</imgdir>
+<imgdir name="106010000">
+<imgdir name="0">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西副本入口(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="106010100">
+<imgdir name="0">
+	<string name="Title" value="通往副本的路(往赫内西方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深林狩猎场II(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="106010101">
+<imgdir name="0">
+	<string name="Title" value="石巨人神殿入口" />
+</imgdir>
+<imgdir name="106010102">
+<imgdir name="0">
+	<string name="Title" value="呼吸之石" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="石巨人神殿I" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="石巨人神殿II" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="石巨人神殿III" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="石巨人神殿IV" />
+</imgdir>
+<imgdir name="107000500">
+<imgdir name="0">
+	<string name="Title" value="危险鳄鱼II(往凯恩城方向)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深林(往昏昏欲睡森林方向)" />
+</imgdir>
+<imgdir name="120010000">
+<imgdir name="0">
+	<string name="Title" value="通往海滩的路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="鹦鹉螺号港口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="通往海滩的路" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="鹦鹉螺号港口" />
+</imgdir>
+<imgdir name="120010100">
+<imgdir name="0">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猪牧场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="猪牧场" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="犹他猪农场" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="犹他猪农场" />
+</imgdir>
+<imgdir name="120020000">
+<imgdir name="0">
+	<string name="Title" value="鹦鹉螺号港口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="波浪海滩" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="鹦鹉螺号港口" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="波浪海滩" />
+</imgdir>
+<imgdir name="120020100">
+<imgdir name="0">
+	<string name="Title" value="海岸森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蓝色丝带海滩" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="海岸森林" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="蓝色丝带海滩" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="猪海滩" />
+	<string name="Desc" value="&lt;迷你副本&gt;" />
+</imgdir>
+<imgdir name="120020300">
+<imgdir name="0">
+	<string name="Title" value="波浪海滩" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="白浪港口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="波浪海滩" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="白浪港口" />
+</imgdir>
+<imgdir name="105000000">
+<imgdir name="0">
+	<string name="Title" value="六岔路口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="昏昏欲睡森林旅馆" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="  寂静沼泽  " />
+	<string name="Desc" value=" 铜德雷克(Lv. 43)" />
+</imgdir>
+<imgdir name="105010000">
+<imgdir name="0">
+	<string name="Title" value="潮湿沼泽" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="昏昏欲睡森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="潮湿沼泽" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="昏昏欲睡森林" />
+</imgdir>
+<imgdir name="105010100">
+<imgdir name="0">
+	<string name="Title" value="寂静沼泽" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="无日之地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="寂静沼泽" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="无日之地" />
+</imgdir>
+<imgdir name="130000000">
+<imgdir name="0">
+	<string name="Title" value="神秀入睡的地方" />
+</imgdir>
+<imgdir name="200090500">
+<imgdir name="0">
+	<string name="Title" value="天空之路:通往时间神殿" />
+</imgdir>
+<imgdir name="200090510">
+<imgdir name="0">
+	<string name="Title" value="天空之路:通往利拿" />
+</imgdir>
+<imgdir name="240020500">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:肯陶洛斯圆桌" />
+</imgdir>
+<imgdir name="240040511">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:恢复记忆" />
+</imgdir>
+<imgdir name="240040520">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:蝾螈保护区" />
+</imgdir>
+<imgdir name="260020600">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:沙尘暴山丘" />
+</imgdir>
+<imgdir name="261020300">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:严重错误" />
+</imgdir>
+<imgdir name="270000000">
+<imgdir name="0">
+	<string name="Title" value="通往未来的路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="现在的路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="过去的路" />
+</imgdir>
+<imgdir name="270000100">
+<imgdir name="0">
+	<string name="Title" value="机场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="机场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="神殿入口" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="三扇门" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="神殿入口" />
+</imgdir>
+<imgdir name="270010000">
+<imgdir name="0">
+	<string name="Title" value="三扇门" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="记忆之门" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="过去的路:记忆" />
+</imgdir>
+<imgdir name="270010100">
+<imgdir name="0">
+	<string name="Title" value="翠绿之过去" />
+</imgdir>
+<imgdir name="270010110">
+<imgdir name="0">
+	<string name="Title" value="记忆守护者房间" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="记忆小巷2" />
+</imgdir>
+<imgdir name="270010111">
+<imgdir name="0">
+	<string name="Title" value="时间天文台" />
+</imgdir>
+<imgdir name="270010200">
+<imgdir name="0">
+	<string name="Title" value="记忆的休息处" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="记忆小巷3" />
+</imgdir>
+<imgdir name="270010210">
+<imgdir name="0">
+	<string name="Title" value="记忆小巷3" />
+</imgdir>
+<imgdir name="270010310">
+<imgdir name="0">
+	<string name="Title" value="记忆小巷4" />
+</imgdir>
+<imgdir name="270010500">
+<imgdir name="0">
+	<string name="Title" value="冰冻的过去" />
+</imgdir>
+<imgdir name="270020000">
+<imgdir name="0">
+	<string name="Title" value="记忆小巷方向" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="遗憾之门" />
+</imgdir>
+<imgdir name="270020100">
+<imgdir name="0">
+	<string name="Title" value="冰冻的过去" />
+</imgdir>
+<imgdir name="270020110">
+<imgdir name="0">
+	<string name="Title" value="遗憾之路1" />
+</imgdir>
+<imgdir name="270020210">
+<imgdir name="0">
+	<string name="Title" value="巫师房间" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="遗憾之路2" />
+</imgdir>
+<imgdir name="270020400">
+<imgdir name="0">
+	<string name="Title" value="遗憾之路5" />
+</imgdir>
+<imgdir name="270030000">
+<imgdir name="0">
+	<string name="Title" value="通往遗忘的路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="遗憾之路5" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="遗忘之门" />
+</imgdir>
+<imgdir name="270030210">
+<imgdir name="0">
+	<string name="Title" value="通往遗忘之路2" />
+</imgdir>
+<imgdir name="270030300">
+<imgdir name="0">
+	<string name="Title" value="通往遗忘之路4" />
+</imgdir>
+<imgdir name="270030400">
+<imgdir name="0">
+	<string name="Title" value="通往遗忘之路3" />
+</imgdir>
+<imgdir name="270030410">
+<imgdir name="0">
+	<string name="Title" value="通往遗忘之路4" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="通往遗忘之路5" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="记录守护者房间" />
+</imgdir>
+<imgdir name="270030500">
+<imgdir name="0">
+	<string name="Title" value="通往神殿遗迹" />
+</imgdir>
+<imgdir name="930000800">
+<imgdir name="0">
+	<string name="Title" value="          净化之泉            " />
+	<string name="Desc" value="一股清洁水源。似乎有能解毒充满毒物石巨人大理石的力量。让我们试着把大理石放在泉水前。充满毒物。" />
+</imgdir>
+<imgdir name="957010000">
+<imgdir name="0">
+	<string name="Title" value="连接2" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="连接3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="连接4" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="连接5" />
+</imgdir>
+<imgdir name="957011000">
+<imgdir name="0">
+	<string name="Title" value="连接1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="连接3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="连接5" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="连接6" />
+</imgdir>
+<imgdir name="957012000">
+<imgdir name="0">
+	<string name="Title" value="连接1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="连接2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="连接4" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="连接8" />
+</imgdir>
+<imgdir name="957013000">
+<imgdir name="0">
+	<string name="Title" value="连接1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="连接3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="连接5" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="连接7" />
+</imgdir>
+<imgdir name="957014000">
+<imgdir name="0">
+	<string name="Title" value="连接1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="连接2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="连接4" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="连接9" />
+</imgdir>
+<imgdir name="957015000">
+<imgdir name="0">
+	<string name="Title" value="连接2" />
+</imgdir>
+<imgdir name="957016000">
+<imgdir name="0">
+	<string name="Title" value="连接4" />
+</imgdir>
+<imgdir name="957017000">
+<imgdir name="0">
+	<string name="Title" value="连接3" />
+</imgdir>
+<imgdir name="957018000">
+<imgdir name="0">
+	<string name="Title" value="连接5" />
+</imgdir>
+<imgdir name="130000200">
+<imgdir name="0">
+	<string name="Title" value="训练森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="骑士团 chamber" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="天空渡轮方向" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="埃雷夫武器店" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="天空渡轮" />
+	<string name="Desc" value="穿过埃雷夫的船正在抛锚停泊。" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="200000160">
+<imgdir name="0">
+	<string name="Title" value="奥贝里斯车站候车室" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="前往埃雷夫的车站" />
+</imgdir>
+<imgdir name="200000200">
+<imgdir name="0">
+	<string name="Title" value="发廊" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="整形外科" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="美容护理" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="咨询室" />
+</imgdir>
+<imgdir name="200000300">
+<imgdir name="0">
+	<string name="Title" value="公会基地&lt;英雄大厅&gt;" />
+</imgdir>
+<imgdir name="922230000">
+<imgdir name="0">
+	<string name="Title" value="出口" />
+</imgdir>
+<imgdir name="925020000">
+<imgdir name="0">
+	<string name="Title" value="木兰培训中心" />
+</imgdir>
+<imgdir name="980020000">
+<imgdir name="0">
+	<string name="Title" value="金财主迷宫入口" />
+	<string name="Desc" value="你正在金财主私人车道的入口处。如果想进入，请使用你的金色指南针。" />
+</imgdir>
+<imgdir name="200090520">
+<imgdir name="0">
+	<string name="Title" value="天空之路:通往时间神殿的路" />
+</imgdir>
+<imgdir name="200090530">
+<imgdir name="0">
+	<string name="Title" value="天空之路:通往利拿的路" />
+</imgdir>
+<imgdir name="400040100">
+<imgdir name="0">
+	<string name="Title" value="坏脾气格罗布勒栖息地" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="万神殿西部平原" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="北部圣地" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="万神殿东部森林" />
+</imgdir>
+<imgdir name="400010300">
+<imgdir name="0">
+	<string name="Title" value="万神殿北部平原" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="万神殿东部平原" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="魔法森林" />
+</imgdir>
+<imgdir name="400010100">
+<imgdir name="0">
+	<string name="Title" value="万神殿东部森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="万神殿南部平原" />
+</imgdir>
+<imgdir name="400030100">
+<imgdir name="0">
+	<string name="Title" value="光岩森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南部圣地" />
+</imgdir>
+<imgdir name="400030300">
+<imgdir name="0">
+	<string name="Title" value="万神殿西部平原" />
+</imgdir>
+<imgdir name="2">
+	<vector name="lt" x="12" y="77" />
+	<vector name="rb" x="69" y="92" />
+	<string name="Title" value="最小暴击" />
+	<string name="Desc" value="暴击攻击的最小伤害加成。你可通过使用技能或道具提升这个数值。此数值不影响普通伤害。" />
+</imgdir>
+<imgdir name="3">
+	<vector name="lt" x="107" y="76" />
+	<vector name="rb" x="165" y="92" />
+	<string name="Title" value="最大暴击" />
+	<string name="Desc" value="暴击攻击的最大伤害加成。你可通过使用技能或道具提升这个数值。此数值不影响普通伤害。" />
+</imgdir>
+<imgdir name="4">
+	<vector name="lt" x="12" y="95" />
+	<vector name="rb" x="69" y="110" />
+	<string name="Title" value="BOSS攻击力" />
+	<string name="Desc" value="BOSS攻击力越高，对BOSS怪物的伤害越大。此数值不影响普通伤害。它由你的技能和装备道具的总BOSS攻击力决定。" />
+</imgdir>
+<imgdir name="5">
+	<vector name="lt" x="107" y="95" />
+	<vector name="rb" x="165" y="110" />
+	<string name="Title" value="无视防御" />
+	<string name="Desc" value="防御力无视值越高，敌人防御力减少你攻击伤害的程度越低。它由你的技能和装备道具的总防御力无视值决定。" />
+</imgdir>
+<imgdir name="6">
+	<vector name="lt" x="12" y="113" />
+	<vector name="rb" x="69" y="128" />
+	<string name="Title" value="状态抗性" />
+	<string name="Desc" value="抵抗异常状态效果的。你越高，受到有害效果影响的可能性越低。你可通过使用技能或道具提升这个数值。\n最高100%" />
+</imgdir>
+<imgdir name="7">
+	<vector name="lt" x="107" y="113" />
+	<vector name="rb" x="165" y="128" />
+	<string name="Title" value="强力姿态" />
+	<string name="Desc" value="被怪物攻击时后退的概率。你可通过使用技能提升这个数值。\n最高100%" />
+</imgdir>
+<imgdir name="8">
+	<vector name="lt" x="12" y="131" />
+	<vector name="rb" x="69" y="146" />
+	<string name="Title" value="物理防御力" />
+	<string name="Desc" value="物理防御力越高，受到的物理伤害越少。它由你的属性和装备道具的物理防御相加决定。" />
+</imgdir>
+<imgdir name="9">
+	<vector name="lt" x="12" y="149" />
+	<vector name="rb" x="69" y="163" />
+	<string name="Title" value="魔法防御力" />
+	<string name="Desc" value="魔法防御力越高，受到的魔法伤害越少。它由你的魔法防御属性和所有装备的防具道具的魔法防御相加决定。" />
+</imgdir>
+<imgdir name="10">
+	<vector name="lt" x="12" y="167" />
+	<vector name="rb" x="69" y="181" />
+	<string name="Title" value="物理命中率" />
+	<string name="Desc" value="决定物理攻击命中率的属性。数值越高，物理攻击的命中概率越高。由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="11">
+	<vector name="lt" x="12" y="185" />
+	<vector name="rb" x="69" y="200" />
+	<string name="Title" value="魔法命中率" />
+	<string name="Desc" value="决定魔法攻击命中率的属性。数值越高，魔法攻击的命中概率越高。由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="12">
+	<vector name="lt" x="12" y="202" />
+	<vector name="rb" x="69" y="218" />
+	<string name="Title" value="物理闪避率" />
+	<string name="Desc" value="决定躲避物理攻击概率的属性。数值越高，躲避物理攻击的概率越高。由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="13">
+	<vector name="lt" x="11" y="220" />
+	<vector name="rb" x="69" y="235" />
+	<string name="Title" value="魔法闪避率" />
+	<string name="Desc" value="决定躲避魔法攻击概率的属性。数值越高，躲避魔法攻击的概率越高。由你的属性和装备道具的附加属性相加决定。" />
+</imgdir>
+<imgdir name="14">
+	<vector name="lt" x="11" y="238" />
+	<vector name="rb" x="69" y="254" />
+	<string name="Title" value="移动速度" />
+	<string name="Desc" value="你的移动速度最高只能到140%。技能和装备可用来增加或减少速度。骑乘坐骑时速度可提升至190%。" />
+</imgdir>
+<imgdir name="15">
+	<vector name="lt" x="107" y="238" />
+	<vector name="rb" x="165" y="253" />
+	<string name="Title" value="跳跃力" />
+	<string name="Desc" value="你能跳多高。最高只能到123%。技能和装备可用来增加或减少跳跃力。" />
+</imgdir>
+<imgdir name="16">
+	<vector name="lt" x="11" y="293" />
+	<vector name="rb" x="69" y="308" />
+	<string name="Title" value="荣誉等级" />
+	<string name="Desc" value="积累荣誉经验值提升角色荣誉等级。升级时你将获得循环器，最多到31级，届时将通过获得一定量荣誉经验值来获得循环器。" />
+</imgdir>
+<imgdir name="17">
+	<vector name="lt" x="11" y="311" />
+	<vector name="rb" x="69" y="326" />
+	<string name="Title" value="荣誉经验值" />
+	<string name="Desc" value="荣誉经验值达到100%时你将获得新的荣誉等级。阿兹旺之战中的荣誉勋章可获得荣誉经验值。" />
+</imgdir>
+<imgdir name="18">
+<vector name="lt" x="12" y="339" />
+<vector name="rb" x="200" y="363" />
+<imgdir name="1">
+	<string name="Title" value="万神殿南部平原" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="反魔法森林" />
+</imgdir>
+<imgdir name="400020100">
+<imgdir name="0">
+	<string name="Title" value="万神殿北部平原" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="橙色森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="万神殿" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="西部圣地" />
+</imgdir>
+<imgdir name="400000000">
+<imgdir name="0">
+	<string name="Title" value="赫利西乌姆回收总部" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="万神殿东部平原" />
+</imgdir>
+<imgdir name="401030300">
+<imgdir name="0">
+	<string name="Title" value="通往市中心的路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="捕食者森林" />
+</imgdir>
+<imgdir name="401010010">
+<imgdir name="0">
+	<string name="Title" value="红色斯皮尤牧场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蓝色斯皮尤牧场" />
+</imgdir>
+<imgdir name="401010100">
+<imgdir name="0">
+	<string name="Title" value="通往山丘的路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="捕食者森林" />
+</imgdir>
+<imgdir name="550000100">
+<imgdir name="0">
+	<string name="Title" value="泥泞岸边外围" />
+</imgdir>
+<imgdir name="551030000">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:再见车站最长的旅程" />
+</imgdir>
+<imgdir name="551020000">
+<imgdir name="0">
+	<string name="Title" value="缆车" />
+</imgdir>
+<imgdir name="551010000">
+<imgdir name="0">
+	<string name="Title" value="缆车站1" />
+</imgdir>
+<imgdir name="551000200">
+<imgdir name="0">
+	<string name="Title" value="芙蓉路2" />
+</imgdir>
+<imgdir name="551000100">
+<imgdir name="0">
+	<string name="Title" value="芙蓉路1" />
+</imgdir>
+<imgdir name="551000000">
+<imgdir name="0">
+	<string name="Title" value="甘榜村庄" />
+</imgdir>
+<imgdir name="105090311">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:德雷克的蓝色洞穴" />
+</imgdir>
+<imgdir name="970000100">
+<imgdir name="0">
+	<string name="Title" value="枫叶工作室" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="鲁陀里乌姆工作室" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿里安特工作室" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="奥贝里斯工作室" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="木兰工作室" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="马加迪亚工作室" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="埃雷夫工作室" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="酷奇工作室" />
+</imgdir>
+<imgdir name="920010400">
+<imgdir name="0">
+	<string name="Title" value="               女神留声机               " />
+	<string name="Desc" value="女神用来听音乐的留声机。如果在女神留声机前放入女神的黑胶唱片，就会播放音乐。试着放入女神自己的唱片。" />
+</imgdir>
+<imgdir name="2000000">
+<imgdir name="0">
+	<string name="Title" value="防具店" />
+	<string name="Desc" value="你可以在这里购买防具。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里 --&gt; 维多利亚六岔路口" />
+	<string name="Desc" value="使用瓦西里上船前往六岔路口。 " />
+</imgdir>
+<imgdir name="1020000">
+<imgdir name="0">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="106020000">
+<imgdir name="0">
+	<string name="Title" value="蘑菇国王城堡" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="幽灵蘑菇森林(往赫内西)" />
+</imgdir>
+<imgdir name="106020100">
+<imgdir name="0">
+	<string name="Title" value="蘑菇之王城堡" />
+</imgdir>
+<imgdir name="106020200">
+<imgdir name="0">
+	<string name="Title" value="蘑菇之王城堡" />
+</imgdir>
+<imgdir name="106020300">
+<imgdir name="0">
+	<string name="Title" value="蘑菇之王城堡" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="魔法孢子屏障 " />
+	<string name="Desc" value="双击杀手蘑菇孢子道具可永久穿透屏障，或使用毒蘑菇掉落的1个毒孢子可暂时打破屏障。" />
+</imgdir>
+<imgdir name="106020400">
+<imgdir name="0">
+	<string name="Title" value="蘑菇之王城堡" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="悬崖阴影" />
+</imgdir>
+<imgdir name="106020401">
+<imgdir name="0">
+	<string name="Title" value="悬崖阴影" />
+</imgdir>
+<imgdir name="106020402">
+<imgdir name="0">
+	<string name="Title" value="悬崖阴影" />
+</imgdir>
+<imgdir name="106020403">
+<imgdir name="0">
+	<string name="Title" value="蘑菇之王城堡(小心悬崖)" />
+</imgdir>
+<imgdir name="106020500">
+<imgdir name="0">
+	<string name="Title" value="蘑菇城堡墙壁外" />
+	<string name="Desc" value="双击荆棘去除剂去除藤蔓上的荆棘，然后爬上去。" />
+</imgdir>
+<imgdir name="106020501">
+<imgdir name="0">
+	<string name="Title" value="进入蘑菇之王城堡" />
+	<string name="Desc" value="只有踩在去除荆棘的藤蔓上才能进入城堡。" />
+</imgdir>
+<imgdir name="106020600">
+<imgdir name="0">
+	<string name="Title" value="西部城堡塔" />
+</imgdir>
+<imgdir name="106021800">
+<imgdir name="0">
+	<string name="Title" value="蘑菇城堡出口" />
+</imgdir>
+<imgdir name="106021300">
+<imgdir name="0">
+	<string name="Title" value="东部城堡塔" />
+</imgdir>
+<imgdir name="106021200">
+<imgdir name="0">
+	<string name="Title" value="中央城堡塔" />
+</imgdir>
+<imgdir name="106021100">
+<imgdir name="0">
+	<string name="Title" value="中央城堡塔" />
+</imgdir>
+<imgdir name="106021000">
+<imgdir name="0">
+	<string name="Title" value="中央城堡塔" />
+</imgdir>
+<imgdir name="106020800">
+<imgdir name="0">
+	<string name="Title" value="西部城堡塔" />
+</imgdir>
+<imgdir name="106020700">
+<imgdir name="0">
+	<string name="Title" value="西部城堡塔" />
+</imgdir>
+<imgdir name="140000000">
+<imgdir name="0">
+	<string name="Title" value="往岛屿中心" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="前往港口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="rien图书馆" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="140010000">
+<imgdir name="0">
+	<string name="Title" value="rien" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="企鹅培训中心" />
+</imgdir>
+<imgdir name="140010100">
+<imgdir name="0">
+	<string name="Title" value="企鹅培训中心" />
+</imgdir>
+<imgdir name="140020000">
+<imgdir name="0">
+	<string name="Title" value="企鹅港" />
+</imgdir>
+<imgdir name="140020200">
+<imgdir name="0">
+	<string name="Title" value="企鹅港" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="rien" />
+</imgdir>
+<imgdir name="260020500">
+<imgdir name="0">
+	<string name="Title" value="金字塔沙丘" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="沙漠游牧民遗迹" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="萨赫尔2" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="金字塔沙丘" />
+</imgdir>
+<imgdir name="251010402">
+<imgdir name="0">
+	<string name="Title" value="迷你副本:财宝岛掠夺 " />
+</imgdir>
+<imgdir name="240010900">
+<imgdir name="0">
+	<string name="Title" value="特拉森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="特拉森林" />
+</imgdir>
+<imgdir name="101030100">
+<imgdir name="0">
+	<string name="Title" value="树干巢穴1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="北部森林地块" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="巨树" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="北部森林地块" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="巨树" />
+</imgdir>
+<imgdir name="100030102">
+<imgdir name="0">
+	<string name="Title" value="小森林小路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="犹他的房子" />
+</imgdir>
+<imgdir name="100030200">
+<imgdir name="0">
+	<string name="Title" value="农场中心" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="犹他的房子" />
+</imgdir>
+<imgdir name="100030300">
+<imgdir name="0">
+	<string name="Title" value="通往犹他的房子 " />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="通往农场入口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="茂盛森林" />
+</imgdir>
+<imgdir name="100030310">
+<imgdir name="0">
+	<string name="Title" value="农场中心" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="大森林小路2" />
+</imgdir>
+<imgdir name="100030320">
+<imgdir name="0">
+	<string name="Title" value="农场入口" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="大森林小路1" />
+</imgdir>
+<imgdir name="100030400">
+<imgdir name="0">
+	<string name="Title" value="犹他猪农场入口 " />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="农场中心，通往犹他的房子" />
+</imgdir>
+<imgdir name="103050100">
+<imgdir name="0">
+	<string name="Title" value="训练室" />
+</imgdir>
+<imgdir name="103050200">
+<imgdir name="0">
+	<string name="Title" value="秘密花园2楼" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="出口" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value=" restricted area" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="秘密花园地下室" />
+</imgdir>
+<imgdir name="600010100">
+<imgdir name="0">
+	<string name="Title" value="城镇正外部" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="克拉基安丛林盆地" />
+</imgdir>
+<imgdir name="600010200">
+<imgdir name="0">
+	<string name="Title" value="山坡" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="丛林空地" />
+</imgdir>
+<imgdir name="103050300">
+<imgdir name="0">
+	<string name="Title" value="秘密花园1楼" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="培训中心/杂货店/武器店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="培训中心1" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="培训中心2" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="培训中心3" />
+</imgdir>
+<imgdir name="271000300">
+<imgdir name="0">
+	<string name="Title" value="通往骑士团要塞" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="通往赫内西" />
+</imgdir>
+<imgdir name="273020000">
+<imgdir name="0">
+	<string name="Title" value="炽热峡谷" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黄昏佩里昂" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="荒凉岩石路" />
+</imgdir>
+<imgdir name="273020300">
+<imgdir name="0">
+	<string name="Title" value="孤独岩石路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="暴风雨坟墓" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="被遗弃的挖掘现场1" />
+</imgdir>
+<imgdir name="273040000">
+<imgdir name="0">
+	<string name="Title" value="风化岩石区域" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="部落难民营地" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="被遗弃的挖掘现场2" />
+</imgdir>
+<imgdir name="300000100">
+<imgdir name="0">
+	<string name="Title" value="鲁陀里乌姆:时间控制室" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿尔泰尔营地" />
+</imgdir>
+<imgdir name="910001000">
+<imgdir name="0">
+	<string name="Title" value="炼金书" />
+	<string name="Desc" value="在炼金书附近可以使用炼金术合成道具。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="大型锻造炉" />
+	<string name="Desc" value="可以在锻造炉附近制作装备。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="矿石分离器" />
+	<string name="Desc" value="你可以在矿石分离器附近提炼矿石。" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="草药煮锅" />
+	<string name="Desc" value="你可以在煮锅附近制作草药油。" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="宝石加工机器" />
+	<string name="Desc" value="你可以在宝石加工机器附近制作饰品。" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="出口" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="通往自由市场的路" />
+</imgdir>
+<imgdir name="690000040">
+<imgdir name="0">
+	<string name="Title" value="角色跳跃(Alt)" />
+	<string name="Desc" value="按键盘上的Alt键跳跃" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="移动角色(方向键)" />
+	<string name="Desc" value="使用方向键四处移动，爬上梯子，使用传送门。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="使用传送门(上)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="前往新地方..." />
+	<string name="Desc" value="向右移动探索新的地面。" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="起始点" />
+</imgdir>
+<imgdir name="690000000">
+<imgdir name="0">
+	<string name="Title" value="使用传送门(上)" />
+</imgdir>
+<imgdir name="690000001">
+<imgdir name="0">
+	<string name="Title" value="蘑菇小镇" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="尼娜&amp;森的房子" />
+</imgdir>
+<imgdir name="690000003">
+<imgdir name="0">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="690000004">
+<imgdir name="0">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="690000005">
+<imgdir name="0">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="690000006">
+<imgdir name="0">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="690000007">
+<imgdir name="0">
+	<string name="Title" value="南佩里" />
+	<string name="Desc" value="欢迎来到南佩里，枫叶岛的一个大型港口城市。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="690000008">
+</imgdir>
+<imgdir name="690000009">
+<imgdir name="0">
+	<string name="Title" value="防具店" />
+	<string name="Desc" value="这是购买防具的地方。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里 --&gt; Lith Harbor(维多利亚岛)" />
+	<string name="Desc" value="费用:150金币\n\n通过香克斯乘坐前往 Lith Harbor的船。离开枫叶岛后，你将再也无法回到这里。" />
+</imgdir>
+<imgdir name="690000011">
+<imgdir name="0">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="阿姆赫斯特" />
+</imgdir>
+<imgdir name="690000018">
+<imgdir name="0">
+	<string name="Title" value="武器店" />
+	<string name="Desc" value="这是购买武器的地方。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="百货商店" />
+	<string name="Desc" value="这是购买药水、卷轴和其他商品的地方。" />
+</imgdir>
+<imgdir name="690000026">
+<imgdir name="0">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="武器·防具店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="百货商店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="艾利纳车站" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="魔法图书馆" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="世界旅游信息台" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="马尔森林" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="天空渡轮" />
+	<string name="Desc" value="穿过埃雷夫的船正在抛锚停泊。" />
+</imgdir>
+<imgdir name="690000027">
+<imgdir name="0">
+	<string name="Title" value="佩里昂西街角" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="前往副本的路上" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="佩里昂东部区域" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="百货商店" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="武器·防具店" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="战士圣地" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="世界旅游信息台" />
+</imgdir>
+<imgdir name="690000028">
+<imgdir name="0">
+	<string name="Title" value="地铁" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="钥匙店" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="枫叶网吧" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="凯恩城药房" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="凯恩城药房" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="融合爵士酒吧" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="发廊" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="修理店" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="纳奥拉医院" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="纳奥拉医院" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="防身道具店" />
+</imgdir>
+<imgdir name="11">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="12">
+	<string name="Title" value="世界旅游信息台" />
+</imgdir>
+<imgdir name="690000029">
+<imgdir name="0">
+	<string name="Title" value="售票亭" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="百货商店" />
+</imgdir>
+<imgdir name="Mapobject">
+<imgdir name="0">
+<imgdir name="0">
+	<string name="Title" value="角色跳跃(Alt)" />
+	<string name="Desc" value="按键盘Alt键跳跃" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="移动角色(方向键)" />
+	<string name="Desc" value="使用方向键四处移动、爬上梯子和使用传送门。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="使用传送门(上)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="前往新地点..." />
+	<string name="Desc" value="向右移动探索新区域。" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="起始点" />
+</imgdir>
+<imgdir name="10000">
+<imgdir name="0">
+	<string name="Title" value="使用传送门(上)" />
+</imgdir>
+<imgdir name="20000">
+<imgdir name="0">
+	<string name="Title" value="蘑菇小镇" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="尼娜和森的家" />
+</imgdir>
+<imgdir name="30000">
+<imgdir name="0">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="40000">
+<imgdir name="0">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="40001">
+<imgdir name="0">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="防具店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="票价指南" />
+	<string name="Desc" value="&#10;佩里昂，艾利纳:1200金币，赫内西:800金币，凯恩城:1000金币&#10;&#10;-新手享受9折优惠!!" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="武器店" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="世界旅游信息台" />
+</imgdir>
+<imgdir name="690000030">
+<imgdir name="0">
+	<string name="Title" value="酒店" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="潮湿森林" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="副本" />
+</imgdir>
+<imgdir name="690000025">
+<imgdir name="0">
+	<string name="Title" value="出租车车站" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西市场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西公园" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="副本" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="赫内西东部山丘" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="赫内西狩猎场" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="玛雅的房子" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="世界旅游信息台" />
+</imgdir>
+<imgdir name="11">
+	<string name="Title" value="副本(往昏昏欲睡森林)" />
+</imgdir>
+<imgdir name="690000060">
+<imgdir name="0">
+	<string name="Title" value="智慧森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猴子森林II" />
+</imgdir>
+<imgdir name="690000063">
+<imgdir name="0">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地IV" />
+</imgdir>
+<imgdir name="690000053">
+<imgdir name="0">
+	<string name="Title" value="邪恶森林I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猴子森林I" />
+</imgdir>
+<imgdir name="690000033">
+<imgdir name="0">
+	<string name="Title" value="布吉的石板" />
+	<string name="Desc" value="在击败布吉之前，你需要先摧毁资源" />
+</imgdir>
+<imgdir name="690000036">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场III" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西狩猎场I" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西狩猎场III" />
+</imgdir>
+<imgdir name="690000037">
+<imgdir name="0">
+	<string name="Title" value="深林狩猎场I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="深林沼泽地(往昏昏欲睡森林)" />
+</imgdir>
+<imgdir name="690000054">
+<imgdir name="0">
+	<string name="Title" value="Lith Harbor" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="海滩周围灌木丛I(往维多利亚路)" />
+</imgdir>
+<imgdir name="690000055">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西西部山丘(往Lith Harbor/凯恩城)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="690000057">
+<imgdir name="0">
+	<string name="Title" value="深谷II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="690000056">
+<imgdir name="0">
+	<string name="Title" value="东岩石山I(往维多利亚路)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山III" />
+</imgdir>
+<imgdir name="807020100">
+<imgdir name="0">
+	<string name="Title" value="本能寺方向" />
+</imgdir>
+<imgdir name="0char">
+	<string name="Title" value="本能寺方向" />
+</imgdir>
+<imgdir name="301000000">
+<imgdir name="in01">
+<string name="Title" value="魔法大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148003" />
+</imgdir>
+<imgdir name="in02">
+<string name="Title" value="疾风大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148006" />
+</imgdir>
+<imgdir name="in03">
+<string name="Title" value="暗夜大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148008" />
+</imgdir>
+<imgdir name="partyZone">
+<string name="Title" value="卫士十字路" />
+<imgdir name="Mob">
+	<string name="0" value="8148010" />
+	<string name="1" value="8148011" />
+</imgdir>
+<imgdir name="miniGame">
+	<string name="Title" value="小游戏" />
+</imgdir>
+<imgdir name="nextStage">
+	<string name="Title" value="下层通道" />
+</imgdir>
+<imgdir name="301050200">
+<imgdir name="out00">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="out01">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="out02">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="301050300">
+<imgdir name="FCPzone_start">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Jahara" />
+	<string name="1" value="Dr. Pepper" />
+	<string name="2" value="Pai-jin" />
+	<string name="3" value="Ridley" />
+</imgdir>
+<imgdir name="FCPzone_out">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Jahara" />
+	<string name="1" value="Dr. Pepper" />
+	<string name="2" value="Pai-jin" />
+	<string name="3" value="Ridley" />
+</imgdir>
+<imgdir name="301070010">
+<imgdir name="out00">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Ridley" />
+</imgdir>
+<imgdir name="4000031">
+<imgdir name="0">
+	<string name="Title" value="Southperry --&gt; 前往维多利亚Lith Harbor" />
+	<string name="Desc" value="使用Vasily登上前往Lith Harbor的船。" />
+</imgdir>
+<imgdir name="2100000">
+<imgdir name="0">
+	<string name="Title" value="防具店" />
+	<string name="Desc" value="在这里你可以购买防具。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="Southperry --&gt; 前往维多利亚六道十字路口" />
+	<string name="Desc" value="使用Vasily登上前往六道十字路口的船。" />
+</imgdir>
+<imgdir name="2000100">
+<imgdir name="0">
+	<string name="Title" value="Southperry --&gt; 前往维多利亚岛" />
+	<string name="Desc" value="使用Vasily登上前往六道十字路口的船。" />
+</imgdir>
+<imgdir name="1100000">
+<imgdir name="0">
+	<string name="Title" value="比尔顿商店" />
+	<string name="Desc" value="在这里你可以购买武器。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="杂货店" />
+	<string name="Desc" value="在这里你可以购买消耗品，比如药水和卷轴。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="训练甲板入口" />
+	<string name="Desc" value="前往Southperry" />
+</imgdir>
+<imgdir name="1110000">
+<imgdir name="0">
+	<string name="Title" value="命运分岔路" />
+	<string name="Desc" value="前往Southperry" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="训练中心" />
+</imgdir>
+<imgdir name="1120000">
+<imgdir name="0">
+	<string name="Title" value="Southperry" />
+</imgdir>
+<imgdir name="4000014">
+<imgdir name="0">
+	<string name="Title" value="Amherst" />
+</imgdir>
+<imgdir name="4000020">
+<imgdir name="0">
+	<string name="Title" value="比尔顿商店" />
+	<string name="Desc" value="在这里你可以购买武器。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="杂货店" />
+	<string name="Desc" value="在这里你可以购买消耗品，比如药水和卷轴。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="训练甲板入口" />
+	<string name="Desc" value="前往Southperry" />
+</imgdir>
+<imgdir name="4000021">
+<imgdir name="0">
+	<string name="Title" value="命运分岔路" />
+	<string name="Desc" value="前往Southperry" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="训练中心" />
+</imgdir>
+<imgdir name="4000026">
+<imgdir name="0">
+	<string name="Title" value="Southperry" />
+</imgdir>
+<imgdir name="4000030">
+<imgdir name="0">
+	<string name="Title" value="防具店" />
+	<string name="Desc" value="在这里你可以购买防具。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="通往港口的路" />
+	<string name="Desc" value="使用Vasily登上前往Lith Harbor的船。" />
+</imgdir>
+<imgdir name="100020400">
+<imgdir name="0">
+	<string name="Title" value="温暖阴影" />
+	<string name="Desc" value="&lt;迷你副本&gt;" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="僵尸蘑菇妈妈山丘" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="  蘑菇城堡  " />
+	<string name="Desc" value="&lt;主题副本&gt;" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="蘑菇城堡" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="蓝蘑菇森林" />
+</imgdir>
+<imgdir name="150000">
+<imgdir name="0">
+	<string name="Title" value="Amherst" />
+</imgdir>
+<imgdir name="241000000">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="241000100">
+<imgdir name="0">
+	<string name="Title" value="北兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="241000110">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东南兵营" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="241000120">
+<imgdir name="0">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="241000130">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="241000140">
+<imgdir name="0">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241000150">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241000200">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林5" />
+</imgdir>
+<imgdir name="241000203">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林4" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="炽热森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林2" />
+</imgdir>
+<imgdir name="241000204">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241000210">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241000212">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="241000214">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="冰冻森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="241000220">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="241000221">
+<imgdir name="0">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林4" />
+</imgdir>
+<imgdir name="241000224">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黑暗森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="241010000">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="241010100">
+<imgdir name="0">
+	<string name="Title" value="北兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="241010110">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东南兵营" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="241010120">
+<imgdir name="0">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="241010130">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="241010140">
+<imgdir name="0">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241010150">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241010200">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林5" />
+</imgdir>
+<imgdir name="241010203">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林4" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="炽热森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林2" />
+</imgdir>
+<imgdir name="241010204">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241010210">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241010212">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="241010214">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="冰冻森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="241010220">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="241010221">
+<imgdir name="0">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林4" />
+</imgdir>
+<imgdir name="241010224">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黑暗森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="241020000">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="241020100">
+<imgdir name="0">
+	<string name="Title" value="北兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="241020110">
+<imgdir name="0">
+	<string name="Title" value="东北路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东南兵营" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="241020120">
+<imgdir name="0">
+	<string name="Title" value="南路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="西北路" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="241020130">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="241020140">
+<imgdir name="0">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241020150">
+<imgdir name="0">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="241020200">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市长" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林5" />
+</imgdir>
+<imgdir name="241020203">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林4" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="炽热森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林2" />
+</imgdir>
+<imgdir name="241020204">
+<imgdir name="0">
+	<string name="Title" value="悲叹森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林2" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241020210">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="兰海姆学院" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="40002">
+<imgdir name="0">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="50000">
+<imgdir name="0">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="蜗牛狩猎场" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="南佩里" />
+</imgdir>
+<imgdir name="60000">
+<imgdir name="0">
+	<string name="Title" value="防具店" />
+	<string name="Desc" value="这是购买防具的地方。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="南佩里--&gt;Lith Harbor(维多利亚岛)" />
+	<string name="Desc" value="费用:150金币\n\n乘坐前往Lith Harbor的船。一旦离开枫叶岛，你将无法再次返回这里。" />
+</imgdir>
+<imgdir name="1000000">
+<imgdir name="0">
+	<string name="Title" value="武器店" />
+	<string name="Desc" value="这是购买武器的地方。" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="杂货店" />
+	<string name="Desc" value="这是购买药水、卷轴和其他物品的地方。" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="冒险家培训中心入口" />
+	<string name="Desc" value="南佩里地区" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="安赫尔斯特" />
+</imgdir>
+<imgdir name="1010000">
+<imgdir name="0">
+	<string name="Title" value="命运的岔路" />
+	<string name="Desc" value="南佩里地区" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="冒险家培训中心" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲叹森林1" />
+</imgdir>
+<imgdir name="241020212">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林5" />
+</imgdir>
+<imgdir name="241020214">
+<imgdir name="0">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="冰冻森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林3" />
+</imgdir>
+<imgdir name="241020220">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林5" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="市政厅" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="痛苦森林1" />
+</imgdir>
+<imgdir name="241020221">
+<imgdir name="0">
+	<string name="Title" value="西南兵营" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="堕落魔法森林3" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林4" />
+</imgdir>
+<imgdir name="241020224">
+<imgdir name="0">
+	<string name="Title" value="悲伤森林3" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="黑暗森林1" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="悲伤森林1" />
+</imgdir>
+<imgdir name="866000000">
+<imgdir name="0">
+	<string name="Title" value="黑暗森林路" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="866000120">
+<imgdir name="0">
+	<string name="Title" value="哥布林坑" />
+</imgdir>
+<imgdir name="866000150">
+<imgdir name="0">
+	<string name="Title" value="哥布林王的巢穴" />
+</imgdir>
+<imgdir name="866101000">
+<imgdir name="0">
+	<string name="Title" value="东郊" />
+</imgdir>
+<imgdir name="866103000">
+<imgdir name="0">
+	<string name="Title" value="警告：小心狼！" />
+</imgdir>
+<imgdir name="866105000">
+<imgdir name="0">
+	<string name="Title" value="警告：小心狼！" />
+</imgdir>
+<imgdir name="866102000">
+<imgdir name="0">
+	<string name="Title" value="狼树林" />
+</imgdir>
+<imgdir name="866107000">
+<imgdir name="0">
+	<string name="Title" value="警告：小心狼！" />
+</imgdir>
+<imgdir name="866108000">
+<imgdir name="0">
+	<string name="Title" value="狼树林" />
+</imgdir>
+<imgdir name="866190000">
+<imgdir name="0">
+	<string name="Title" value="东郊" />
+</imgdir>
+<imgdir name="866191000">
+<imgdir name="0">
+	<string name="Title" value="狼树林" />
+</imgdir>
+<imgdir name="866192000">
+<imgdir name="0">
+	<string name="Title" value="警告：小心狼！" />
+</imgdir>
+<imgdir name="PortalTooltip">
+<imgdir name="100000000">
+<imgdir name="Achter00">
+<string name="Title" value="弓箭手训练学校" />
+<imgdir name="Npc">
+	<string name="0" value="Athena Pierce" />
+</imgdir>
+<imgdir name="mistic00">
+<string name="Title" value="赫内西神秘领域" />
+<imgdir name="Npc">
+	<string name="0" value="Doctor Moon" />
+</imgdir>
+<imgdir name="100030000">
+	<string name="quest00" value="犹他的养猪场" />
+</imgdir>
+<imgdir name="211042300">
+	<string name="ps00" value="扎昆祭坛" />
+</imgdir>
+<imgdir name="211042301">
+	<string name="ps00" value="扎昆的祭坛" />
+</imgdir>
+<imgdir name="230040410">
+	<string name="boss00" value="皮亚努斯洞穴" />
+</imgdir>
+<imgdir name="231010000">
+	<string name="out00" value="出口" />
+</imgdir>
+<imgdir name="231000000">
+	<string name="in00" value="樱花城堡花园1" />
+</imgdir>
+<imgdir name="231040400">
+	<string name="SC_boss_enter" value="大名的房间(樱花城堡)" />
+</imgdir>
+<imgdir name="231050000">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050001">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050002">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050003">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050004">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050005">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050006">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050007">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050008">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="231050009">
+	<string name="SC_boss_out00" value="月之塔5楼" />
+</imgdir>
+<imgdir name="240000000">
+<imgdir name="mistic00">
+<string name="Title" value="勒夫雷神秘领域" />
+<imgdir name="Npc">
+	<string name="0" value="Doctor Moon" />
+</imgdir>
+<imgdir name="240000110">
+<imgdir name="west00">
+<string name="Title" value="勒夫雷站入口" />
+<imgdir name="Npc">
+	<string name="0" value="Mue" />
+</imgdir>
+<imgdir name="240010700">
+	<string name="pt00" value="天空巢穴顶部" />
+</imgdir>
+<imgdir name="240020100">
+	<string name="boss00" value="格里菲森林" />
+</imgdir>
+<imgdir name="240020400">
+	<string name="boss00" value="马农森林" />
+</imgdir>
+<imgdir name="240040610">
+	<string name="in00" value="九灵巢穴" />
+</imgdir>
+<imgdir name="240040700">
+	<string name="out00" value="大巢穴山顶" />
+	<string name="temp00" value="黑龙洞穴入口" />
+</imgdir>
+<imgdir name="240050100">
+	<string name="in00" value="迷宫第1间" />
+</imgdir>
+<imgdir name="240050101">
+	<string name="in00" value="迷宫第2间" />
+</imgdir>
+<imgdir name="240050102">
+	<string name="in00" value="迷宫第3间" />
+</imgdir>
+<imgdir name="240050103">
+	<string name="in00" value="迷宫第4间" />
+</imgdir>
+<imgdir name="240050104">
+	<string name="in00" value="迷宫第5间" />
+</imgdir>
+<imgdir name="240050105">
+	<string name="in00" value="迷宫房间" />
+</imgdir>
+<imgdir name="240050400">
+	<string name="temp00" value="生命洞穴入口" />
+</imgdir>
+<imgdir name="240070202">
+	<string name="right00" value="&lt;2099年&gt;午夜港口码头" />
+</imgdir>
+<imgdir name="240070302">
+	<string name="right00" value="&lt;2215年&gt;轰炸后的市中心商业区" />
+</imgdir>
+<imgdir name="240070402">
+	<string name="right00" value="&lt;2216年&gt;废墟城市地标" />
+</imgdir>
+<imgdir name="240070502">
+	<string name="top00" value="&lt;2230年&gt;危险塔顶层公寓" />
+	<string name="right00" value="&lt;2230年&gt;危险塔顶层公寓" />
+</imgdir>
+<imgdir name="240070602">
+	<string name="right00" value="&lt;2503年&gt;空中战舰船尾" />
+</imgdir>
+<imgdir name="260000300">
+	<string name="in00" value="城堡花园" />
+</imgdir>
+<imgdir name="260010100">
+	<string name="MD00" value="迷你副本:燃烧山丘" />
+</imgdir>
+<imgdir name="260020100">
+	<string name="in00" value="阿兹旺方尖碑" />
+</imgdir>
+<imgdir name="260020500">
+	<string name="piramid00" value="奈特的金字塔" />
+</imgdir>
+<imgdir name="280010000">
+	<string name="ps01" value="悲剧房间" />
+</imgdir>
+<imgdir name="925100000">
+	<string name="next00" value="穿过船头！" />
+</imgdir>
+<imgdir name="925100100">
+	<string name="next00" value="穿过甲板I" />
+</imgdir>
+<imgdir name="925100200">
+	<string name="next00" value="穿过甲板II" />
+</imgdir>
+<imgdir name="925100300">
+	<string name="next00" value="消灭海盗！" />
+</imgdir>
+<imgdir name="925100400">
+	<string name="next00" value="船长的尊严" />
+</imgdir>
+<imgdir name="957000000">
+	<string name="out00" value="出口" />
+</imgdir>
+<imgdir name="957010000">
+	<string name="link1_2" value="链接2" />
+	<string name="link1_3" value="链接3" />
+	<string name="link1_4" value="链接4" />
+	<string name="link1_5" value="链接5" />
+</imgdir>
+<imgdir name="957011000">
+	<string name="link2_1" value="链接1" />
+	<string name="link2_3" value="链接3" />
+	<string name="link2_5" value="链接5" />
+	<string name="link2_6" value="链接6" />
+</imgdir>
+<imgdir name="957012000">
+	<string name="link3_1" value="链接1" />
+	<string name="link3_2" value="链接2" />
+	<string name="link3_4" value="链接4" />
+	<string name="link3_8" value="链接8" />
+</imgdir>
+<imgdir name="957013000">
+	<string name="link4_1" value="链接1" />
+	<string name="link4_3" value="链接3" />
+	<string name="link4_5" value="链接5" />
+	<string name="link4_7" value="链接7" />
+</imgdir>
+<imgdir name="957014000">
+	<string name="link5_1" value="链接1" />
+	<string name="link5_2" value="链接2" />
+	<string name="link5_4" value="链接4" />
+	<string name="link5_9" value="链接9" />
+</imgdir>
+<imgdir name="957015000">
+	<string name="link6_2" value="链接2" />
+</imgdir>
+<imgdir name="957016000">
+	<string name="link7_4" value="链接4" />
+</imgdir>
+<imgdir name="957017000">
+	<string name="link8_3" value="链接3" />
+</imgdir>
+<imgdir name="957018000">
+	<string name="link9_5" value="链接5" />
+</imgdir>
+<imgdir name="910000000">
+	<string name="out00" value="自由市场入口" />
+</imgdir>
+<imgdir name="261020600">
+<imgdir name="up00">
+<string name="Title" value="实验室-A区3" />
+<imgdir name="Mob">
+	<string name="0" value="4110301" />
+</imgdir>
+<imgdir name="270000000">
+	<string name="out00" value="时间神殿出口" />
+</imgdir>
+<imgdir name="270010100">
+	<string name="in00" value="记忆休息处" />
+</imgdir>
+<imgdir name="270010200">
+<string name="in00" value="记忆小路3" />
+<imgdir name="Mob">
+	<string name="0" value="8200003" />
+	<string name="1" value="8200000" />
+</imgdir>
+<imgdir name="270010300">
+<string name="in00" value="记忆小路4" />
+<imgdir name="Mob">
+	<string name="0" value="8200003" />
+	<string name="1" value="8200004" />
+	<string name="2" value="8200000" />
+</imgdir>
+<imgdir name="270010400">
+<string name="in00" value="记忆小路5" />
+<imgdir name="Npc">
+	<string name="0" value="Mystic Gate" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="8200003" />
+	<string name="1" value="8200000" />
+	<string name="2" value="8220004" />
+</imgdir>
+<imgdir name="270010500">
+	<string name="in00" value="冻结的过去" />
+</imgdir>
+<imgdir name="270020100">
+<string name="in00" value="后悔之路2" />
+<imgdir name="Mob">
+	<string name="0" value="8200006" />
+	<string name="1" value="8200000" />
+</imgdir>
+<imgdir name="270020200">
+	<string name="in00" value="后悔休息处" />
+</imgdir>
+<imgdir name="270020300">
+<string name="in00" value="后悔之路4" />
+<imgdir name="Mob">
+	<string name="0" value="8200008" />
+	<string name="1" value="8200007" />
+	<string name="2" value="8200000" />
+</imgdir>
+<imgdir name="270020400">
+<string name="in00" value="后悔之路5" />
+<imgdir name="Npc">
+	<string name="0" value="Mystic Gate" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="8200008" />
+	<string name="1" value="8200000" />
+	<string name="2" value="8220005" />
+</imgdir>
+<imgdir name="270020500">
+	<string name="in00" value="燃烧的过去" />
+</imgdir>
+<imgdir name="270030100">
+<string name="in00" value="遗忘之路2" />
+<imgdir name="Mob">
+	<string name="0" value="8200010" />
+	<string name="1" value="8200000" />
+</imgdir>
+<imgdir name="270030200">
+<string name="in00" value="遗忘之路3" />
+<imgdir name="Mob">
+	<string name="0" value="8200011" />
+	<string name="1" value="8200000" />
+</imgdir>
+<imgdir name="270030300">
+<string name="in00" value="遗忘之路4" />
+<imgdir name="Mob">
+	<string name="0" value="8200012" />
+	<string name="1" value="8200011" />
+	<string name="2" value="8200000" />
+</imgdir>
+<imgdir name="270030400">
+	<string name="in00" value="遗忘休息处" />
+</imgdir>
+<imgdir name="270030500">
+	<string name="in00" value="破损的走廊" />
+</imgdir>
+<imgdir name="270040000">
+	<string name="in00" value="神殿废墟" />
+</imgdir>
+<imgdir name="270050200">
+	<string name="in00" value="诸神黄昏" />
+</imgdir>
+<imgdir name="270050300">
+	<string name="in00" value="诸神黄昏" />
+</imgdir>
+<imgdir name="920010100">
+	<string name="in00" value="女神之塔&lt;步道&gt;" />
+	<string name="in01" value="女神之塔&lt;仓库&gt;" />
+	<string name="in02" value="女神之塔&lt;大厅&gt;" />
+	<string name="in05" value="女神之塔&lt;向上的路&gt;" />
+	<string name="in03" value="女神之塔&lt;封印房间&gt;" />
+</imgdir>
+<imgdir name="310050100">
+	<string name="in00" value="发电站" />
+</imgdir>
+<imgdir name="310060221">
+	<string name="in00" value="可疑的洞穴小巷" />
+</imgdir>
+<imgdir name="400000000">
+<imgdir name="mistic00">
+<string name="Title" value="万神殿神秘领域" />
+<imgdir name="Npc">
+	<string name="0" value="Doctor Moon" />
+</imgdir>
+<imgdir name="920010300">
+	<string name="st00" value="女神之塔&lt;中心塔&gt;" />
+</imgdir>
+<imgdir name="920010500">
+	<string name="st00" value="女神之塔&lt;中心塔&gt;" />
+</imgdir>
+<imgdir name="920010800">
+	<string name="in00" value="女神之塔&lt;中心塔&gt;" />
+</imgdir>
+<imgdir name="222010300">
+<imgdir name="west00">
+<string name="Title" value="虎岭" />
+<imgdir name="Mob">
+	<string name="0" value="5100005" />
+</imgdir>
+<imgdir name="101000000">
+<imgdir name="jobin00">
+<string name="Title" value="魔法图书馆" />
+<imgdir name="Npc">
+	<string name="0" value="Grendel the Really Old" />
+</imgdir>
+<imgdir name="101050000">
+<imgdir name="west00">
+	<string name="Title" value="荧光洞穴之路" />
+</imgdir>
+<imgdir name="103000000">
+	<string name="dual00" value="凯恩城后巷" />
+</imgdir>
+<imgdir name="103010100">
+<imgdir name="subway00">
+<string name="Title" value="废弃地铁站" />
+<imgdir name="Npc">
+	<string name="0" value="Mr. Lim" />
+</imgdir>
+<imgdir name="103020020">
+	<string name="out00" value="前往凯恩城" />
+</imgdir>
+<imgdir name="103040400">
+<string name="topFloor" value="VIP区域" />
+<imgdir name="goDown">
+<string name="Title" value="5楼6楼A区" />
+<imgdir name="Mob">
+	<string name="0" value="9410032" />
+</imgdir>
+<imgdir name="103050100">
+<imgdir name="quest00">
+	<string name="Title" value="大理石房间" />
+</imgdir>
+<imgdir name="103050300">
+<imgdir name="in00">
+	<string name="Title" value="训练中心1" />
+</imgdir>
+<imgdir name="in01">
+	<string name="Title" value="训练中心2" />
+</imgdir>
+<imgdir name="in02">
+	<string name="Title" value="训练中心3" />
+</imgdir>
+<imgdir name="240020500">
+	<string name="MD00" value="迷你副本:肯塔乌斯圆桌" />
+</imgdir>
+<imgdir name="240040511">
+	<string name="MD00" value="迷你副本:恢复记忆" />
+</imgdir>
+<imgdir name="240040520">
+	<string name="MD00" value="迷你副本:蝾螈保护区" />
+</imgdir>
+<imgdir name="260020600">
+	<string name="MD00" value="迷你副本:沙尘暴山丘" />
+</imgdir>
+<imgdir name="261000021">
+<imgdir name="out00">
+<string name="Title" value="阿尔卡德诺协会" />
+<imgdir name="Npc">
+	<string name="0" value="Maed" />
+</imgdir>
+<imgdir name="261020300">
+	<string name="MD00" value="迷你副本:严重错误" />
+</imgdir>
+<imgdir name="130000200">
+<imgdir name="west00">
+<string name="Title" value="训练森林I" />
+<imgdir name="Npc">
+	<string name="0" value="Kiku" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="0100122" />
+</imgdir>
+<imgdir name="east00">
+<string name="Title" value="骑士的房间" />
+<imgdir name="Npc">
+	<string name="0" value="Kidan" />
+</imgdir>
+<imgdir name="130010000">
+<imgdir name="in00">
+<string name="Title" value="蒂诺的森林" />
+<imgdir name="Mob">
+	<string name="0" value="0100120" />
+</imgdir>
+<imgdir name="in01">
+<string name="Title" value="蒂夫的森林" />
+<imgdir name="Mob">
+	<string name="0" value="0100121" />
+</imgdir>
+<imgdir name="130010100">
+<imgdir name="in00">
+<string name="Title" value="蒂姆的森林" />
+<imgdir name="Mob">
+	<string name="0" value="0100122" />
+</imgdir>
+<imgdir name="in01">
+<string name="Title" value="蒂鲁的森林" />
+<imgdir name="Mob">
+	<string name="0" value="0100123" />
+</imgdir>
+<imgdir name="130010200">
+	<string name="west00" value="训练场入口" />
+</imgdir>
+<imgdir name="240020101">
+<imgdir name="in00">
+<string name="Title" value="孤立森林" />
+<imgdir name="Npc">
+	<string name="0" value="Nix" />
+</imgdir>
+<imgdir name="240020102">
+<imgdir name="in00">
+<string name="Title" value="孤立森林" />
+<imgdir name="Npc">
+	<string name="0" value="Nix" />
+</imgdir>
+<imgdir name="240020401">
+<imgdir name="in00">
+<string name="Title" value="孤立森林" />
+<imgdir name="Npc">
+	<string name="0" value="Nix" />
+</imgdir>
+<imgdir name="240020402">
+<imgdir name="in00">
+<string name="Title" value="孤立森林" />
+<imgdir name="Npc">
+	<string name="0" value="Nix" />
+</imgdir>
+<imgdir name="130020000">
+	<string name="in00" value="第1训练场" />
+	<string name="in01" value="第2训练场" />
+	<string name="in02" value="第3训练场" />
+	<string name="in03" value="第4训练场" />
+</imgdir>
+<imgdir name="130030001">
+<imgdir name="west00">
+<string name="Title" value="初始森林3" />
+<imgdir name="Npc">
+	<string name="0" value="Kizan" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="0100122" />
+</imgdir>
+<imgdir name="130030002">
+<imgdir name="west00">
+<string name="Title" value="初始森林4" />
+<imgdir name="Npc">
+	<string name="0" value="Kinu" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="0100121" />
+</imgdir>
+<imgdir name="130030003">
+<imgdir name="west00">
+<string name="Title" value="初始森林5" />
+<imgdir name="Npc">
+	<string name="0" value="Kia" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="0100121" />
+</imgdir>
+<imgdir name="130030004">
+<imgdir name="west00">
+<string name="Title" value="初始森林出口" />
+<imgdir name="Npc">
+	<string name="0" value="Kisha" />
+</imgdir>
+<imgdir name="240020600">
+	<string name="out00" value="格里菲森林" />
+	<string name="out01" value="马农森林" />
+</imgdir>
+<imgdir name="106021000">
+	<string name="in00" value="城堡保安室" />
+</imgdir>
+<imgdir name="106021400">
+<string name="TD_MC_enterboss1" value="婚礼大厅" />
+<imgdir name="left00">
+<string name="Title" value="城墙6" />
+<imgdir name="Mob">
+	<string name="0" value="3300004" />
+</imgdir>
+<imgdir name="130000000">
+<imgdir name="west00">
+<string name="Title" value="骑士的房间" />
+<imgdir name="Npc">
+	<string name="0" value="Kidan" />
+</imgdir>
+<imgdir name="130000100">
+<imgdir name="east00">
+<string name="Title" value="埃勒维" />
+<imgdir name="Npc">
+	<string name="0" value="Cygnus" />
+	<string name="1" value="Shinsoo" />
+	<string name="2" value="Neinheart" />
+	<string name="3" value="Mihile" />
+	<string name="4" value="Oz" />
+	<string name="5" value="Irena" />
+	<string name="6" value="Eckhart" />
+	<string name="7" value="Hawkeye" />
+</imgdir>
+<imgdir name="222020400">
+	<string name="in00" value="前往过去" />
+</imgdir>
+<imgdir name="220070000">
+	<string name="MD00" value="迷你副本:空间扭曲" />
+</imgdir>
+<imgdir name="229000000">
+	<string name="inGuestRoom" value="客房" />
+	<string name="in12" value="客房3" />
+	<string name="in03" value="南瓜田" />
+	<string name="inMaskRoom" value="面具房间" />
+	<string name="in00" value="图书馆" />
+</imgdir>
+<imgdir name="229000200">
+	<string name="in02" value="画框房间" />
+	<string name="in03" value="奇怪的房间" />
+</imgdir>
+<imgdir name="229000210">
+	<string name="in00" value="阁楼" />
+</imgdir>
+<imgdir name="229000230">
+	<string name="in00" value="面具房间" />
+</imgdir>
+<imgdir name="229010000">
+	<string name="out00" value="返回路径" />
+	<string name="in00" value="闹鬼的宅邸" />
+	<string name="west00" value="废弃墓地" />
+</imgdir>
+<imgdir name="914000000">
+	<string name="out00" value="逃生的路上" />
+</imgdir>
+<imgdir name="914000100">
+	<string name="out00" value="燃烧森林1" />
+</imgdir>
+<imgdir name="914000200">
+	<string name="west00" value="燃烧森林2" />
+</imgdir>
+<imgdir name="914000210">
+	<string name="west00" value="燃烧森林3" />
+</imgdir>
+<imgdir name="914000300">
+	<string name="east00" value="燃烧森林3" />
+</imgdir>
+<imgdir name="914000500">
+	<string name="out00" value="燃烧森林1" />
+</imgdir>
+<imgdir name="140090100">
+<imgdir name="west00">
+<string name="Title" value="寒冷森林2" />
+<imgdir name="Npc">
+	<string name="0" value="Puen" />
+	<string name="1" value="Puir" />
+</imgdir>
+<imgdir name="140090200">
+<imgdir name="west00">
+<string name="Title" value="寒冷森林3" />
+<imgdir name="Npc">
+	<string name="0" value="Purun" />
+</imgdir>
+<imgdir name="Mob">
+	<string name="0" value="9300383" />
+</imgdir>
+<imgdir name="140090300">
+<imgdir name="west00">
+<string name="Title" value="寒冷森林4" />
+<imgdir name="Npc">
+	<string name="0" value="Putzki" />
+</imgdir>
+<imgdir name="140090400">
+	<string name="west00" value="寒冷森林5" />
+</imgdir>
+<imgdir name="200000100">
+	<string name="esat00" value="车站的门" />
+</imgdir>
+<imgdir name="200000300">
+<imgdir name="in00">
+<string name="Title" value="英雄大厅" />
+<imgdir name="Npc">
+	<string name="0" value="Heracle" />
+	<string name="1" value="Leah" />
+	<string name="2" value="Lenario" />
+</imgdir>
+<imgdir name="200000301">
+	<string name="out00" value="山顶" />
+</imgdir>
+<imgdir name="200010300">
+<imgdir name="eliza">
+<string name="Title" value="贤猫王" />
+<imgdir name="Npc">
+	<string name="0" value="Eliza" />
+</imgdir>
+<imgdir name="140000000">
+	<string name="west00" value="雷恩西边的场地" />
+</imgdir>
+<imgdir name="140010000">
+<imgdir name="east00">
+<string name="Title" value="雷恩" />
+<imgdir name="Npc">
+	<string name="0" value="Lilin" />
+	<string name="1" value="Giant Polearm" />
+	<string name="2" value="Pusla" />
+	<string name="3" value="Puno" />
+	<string name="4" value="Puri Puri" />
+	<string name="6" value="Gaga" />
+	<string name="7" value="Cassandra" />
+	<string name="5" value="Maple Administrator" />
+</imgdir>
+<imgdir name="west00">
+<string name="Title" value="雷恩训练中心入口" />
+<imgdir name="Npc">
+	<string name="0" value="Puo" />
+</imgdir>
+<imgdir name="140030000">
+	<string name="in00" value="欲望之镜" />
+</imgdir>
+<imgdir name="140010200">
+	<string name="in00" value="镜子洞穴" />
+</imgdir>
+<imgdir name="140020200">
+<imgdir name="east00">
+<string name="Title" value="企鹅港口" />
+<imgdir name="Npc">
+	<string name="0" value="Puro" />
+</imgdir>
+<imgdir name="914020000">
+	<string name="out00" value="与马哈的战斗" />
+</imgdir>
+<imgdir name="211050000">
+	<string name="in00" value="骑手的场地" />
+</imgdir>
+<imgdir name="211060000">
+	<string name="east00" value="城堡入口" />
+</imgdir>
+<imgdir name="211060200">
+<string name="up00" value="第一塔的屋顶" />
+<imgdir name="east00">
+<string name="Title" value="城墙下2" />
+<imgdir name="Mob">
+	<string name="0" value="8210001" />
+</imgdir>
+<imgdir name="211060400">
+<string name="up00" value="第二塔的屋顶" />
+<imgdir name="east00">
+<string name="Title" value="城墙下3" />
+<imgdir name="Mob">
+	<string name="0" value="8210002" />
+</imgdir>
+<imgdir name="out00">
+<string name="Title" value="短城墙1" />
+<imgdir name="Mob">
+	<string name="0" value="8210004" />
+</imgdir>
+<imgdir name="211060600">
+<string name="up00" value="第三塔的屋顶" />
+<imgdir name="east00">
+<string name="Title" value="城墙下4" />
+<imgdir name="Mob">
+	<string name="0" value="8210003" />
+</imgdir>
+<imgdir name="out01">
+<string name="Title" value="短城墙2" />
+<imgdir name="Mob">
+	<string name="0" value="8210004" />
+</imgdir>
+<imgdir name="out10">
+<string name="Title" value="长城墙1" />
+<imgdir name="Mob">
+	<string name="0" value="8210005" />
+</imgdir>
+<imgdir name="211061000">
+<imgdir name="east00">
+<string name="Title" value="阿尼的监狱" />
+<imgdir name="Mob">
+	<string name="0" value="8210013" />
+</imgdir>
+<imgdir name="211070000">
+	<string name="lionCastleenter" value="谒见室" />
+</imgdir>
+<imgdir name="211070100">
+	<string name="lioncastleout" value="谒见室走廊" />
+</imgdir>
+<imgdir name="211070101">
+	<string name="out00" value="谒见室" />
+</imgdir>
+<imgdir name="100000000">
+<imgdir name="0">
+	<string name="Title" value="赫内西北侧山丘" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="孢子山" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="维多利亚普通出租车" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="丽娜的家" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="赫内斯市场" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="赫内西公园" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="斯坦首领之家" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="玛雅的家" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="孢子山" />
+</imgdir>
+<imgdir name="9">
+	<string name="Title" value="赫内西北侧山丘" />
+</imgdir>
+<imgdir name="10">
+	<string name="Title" value="工艺小镇" />
+</imgdir>
+<imgdir name="100000100">
+<imgdir name="1">
+	<string name="Title" value="自由市场" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="武器/防具店" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="杂货店" />
+</imgdir>
+<imgdir name="4">
+	<string name="Title" value="宠物食品店" />
+</imgdir>
+<imgdir name="5">
+	<string name="Title" value="赫内西美容院" />
+</imgdir>
+<imgdir name="6">
+	<string name="Title" value="赫内西发廊" />
+</imgdir>
+<imgdir name="7">
+	<string name="Title" value="赫内西发廊" />
+</imgdir>
+<imgdir name="8">
+	<string name="Title" value="赫内西整形外科" />
+</imgdir>
+<imgdir name="100000200">
+<imgdir name="0">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="914030000">
+	<string name="out00" value="狼的场地" />
+</imgdir>
+<imgdir name="140010100">
+	<string name="in00" value="雷恩训练中心" />
+</imgdir>
+<imgdir name="104000000">
+<imgdir name="in03">
+<string name="Title" value="利特港信息商店" />
+<imgdir name="Npc">
+	<string name="0" value="Tru" />
+</imgdir>
+<imgdir name="104020100">
+<imgdir name="in01">
+<string name="Title" value="前往埃勒维的车站" />
+<imgdir name="Npc">
+	<string name="0" value="Kiriru" />
+</imgdir>
+<imgdir name="200060000">
+	<string name="in00" value="被忽视的散步路径" />
+</imgdir>
+<imgdir name="200080600">
+	<string name="in00" value="奥比斯塔&lt;密室&gt;" />
+</imgdir>
+<imgdir name="211042200">
+	<string name="east00" value="前往扎昆的门" />
+</imgdir>
+<imgdir name="925040001">
+	<string name="out00" value="武陵道场后巷" />
+</imgdir>
+<imgdir name="300000010">
+	<string name="in00" value="图书馆" />
+</imgdir>
+<imgdir name="300010410">
+<imgdir name="next00">
+<string name="Title" value="洞穴深处" />
+<imgdir name="Mob">
+	<string name="0" value="5250004" />
+</imgdir>
+<imgdir name="300030300">
+<imgdir name="in00">
+<string name="Title" value="女王的藏身之处" />
+<imgdir name="Mob">
+	<string name="0" value="5250007" />
+</imgdir>
+<imgdir name="310000000">
+<string name="in01" value="宅邸" />
+<imgdir name="in02">
+<string name="Title" value="埃德尔斯坦临时机场" />
+<imgdir name="Npc">
+	<string name="0" value="Ace" />
+</imgdir>
+<imgdir name="in03">
+<string name="Title" value="埃德尔斯坦美发沙龙" />
+<imgdir name="Npc">
+	<string name="0" value="Fabio" />
+</imgdir>
+<imgdir name="310010010">
+	<string name="in00" value="电梯" />
+</imgdir>
+<imgdir name="310040200">
+<imgdir name="east00">
+<string name="Title" value="发电站大厅" />
+<imgdir name="Npc">
+	<string name="0" value="Le Tierre" />
+	<string name="1" value="Buck Teeth" />
+	<string name="2" value="Gabrielle" />
+</imgdir>
+<imgdir name="100030101">
+<string name="in00" value="小阁楼" />
+<imgdir name="out00">
+<string name="Title" value="前院" />
+<imgdir name="Npc">
+	<string name="0" value="Utah" />
+	<string name="1" value="Cerebes" />
+	<string name="2" value="Hen" />
+</imgdir>
+<imgdir name="100030102">
+<string name="west00" value="小森林小径" />
+<imgdir name="east00">
+<string name="Title" value="后院" />
+<imgdir name="Mob">
+	<string name="0" value="9300385" />
+</imgdir>
+<imgdir name="100030300">
+<string name="in00" value="茂密森林" />
+<imgdir name="west00">
+<string name="Title" value="大森林小径" />
+<imgdir name="Mob">
+	<string name="0" value="1210100" />
+</imgdir>
+<imgdir name="100030320">
+	<string name="west00" value="农场入口" />
+</imgdir>
+<imgdir name="100030400">
+	<string name="quest00" value="犹他的养猪场" />
+</imgdir>
+<imgdir name="220000300">
+	<string name="scr00" value="青蛙屋" />
+</imgdir>
+<imgdir name="221040000">
+	<string name="MD00" value="迷你副本:警告!发现外星人" />
+</imgdir>
+<imgdir name="220011000">
+	<string name="in00" value="天空露台" />
+</imgdir>
+<imgdir name="900030000">
+	<string name="out00" value="黑魔法师远征军据点" />
+</imgdir>
+<imgdir name="105000000">
+<imgdir name="east00">
+<string name="Title" value="寂静沼泽" />
+<imgdir name="Mob">
+	<string name="0" value="4130100" />
+</imgdir>
+<imgdir name="105030000">
+<imgdir name="under00">
+<string name="Title" value="通往地下神殿的楼梯" />
+<imgdir name="Npc">
+	<string name="0" value="Suspicious Man" />
+</imgdir>
+<imgdir name="105100100">
+<imgdir name="in00">
+	<string name="Title" value="特里斯坦的坟墓" />
+</imgdir>
+<imgdir name="914100010">
+	<string name="in00" value="沉默洞穴" />
+</imgdir>
+<imgdir name="100020200">
+<imgdir name="east00">
+<string name="Title" value="魔像神殿入口" />
+<imgdir name="Mob">
+	<string name="0" value="5130101" />
+</imgdir>
+<imgdir name="100020500">
+<imgdir name="out00">
+<string name="Title" value="鬼蘑菇路" />
+<imgdir name="Mob">
+	<string name="0" value="2230101" />
+</imgdir>
+<imgdir name="271000300">
+	<string name="in00" value="骑士团据点入口" />
+</imgdir>
+<imgdir name="271010400">
+	<string name="north" value="六道十字路口" />
+</imgdir>
+<imgdir name="271030000">
+	<string name="in00" value="骑士区域1" />
+</imgdir>
+<imgdir name="271030010">
+	<string name="in00" value="骑士区域1" />
+</imgdir>
+<imgdir name="271030100">
+	<string name="out00" value="骑士团据点入口" />
+</imgdir>
+<imgdir name="271030400">
+	<string name="in00" value="秘密花园" />
+</imgdir>
+<imgdir name="271030600">
+	<string name="in00" value="希纳斯花园" />
+</imgdir>
+<imgdir name="271040000">
+	<string name="in00" value="希纳斯的房间" />
+</imgdir>
+<imgdir name="222020100">
+	<string name="in00" value="赫利俄斯塔99楼" />
+</imgdir>
+<imgdir name="222020200">
+	<string name="in00" value="赫利俄斯塔2楼" />
+</imgdir>
+<imgdir name="272000000">
+<imgdir name="west00">
+<string name="Title" value="三扇门" />
+<imgdir name="Npc">
+	<string name="0" value="Temple Keeper" />
+	<string name="1" value="Bastille" />
+</imgdir>
+<imgdir name="680000000">
+	<string name="ou00" value="赫内西" />
+</imgdir>
+<imgdir name="690000054">
+<imgdir name="0">
+	<string name="Title" value="利特港" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="海滩周围灌木丛I(往维多利亚路)" />
+</imgdir>
+<imgdir name="690000055">
+<imgdir name="0">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="赫内西" />
+</imgdir>
+<imgdir name="2">
+	<string name="Title" value="赫内西西部山丘(往利特港/凯恩城)" />
+</imgdir>
+<imgdir name="3">
+	<string name="Title" value="赫内西狩猎场II" />
+</imgdir>
+<imgdir name="690000056">
+<imgdir name="0">
+	<string name="Title" value="东岩石山I(往维多利亚路)" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="东岩石山III" />
+</imgdir>
+<imgdir name="690000057">
+<imgdir name="0">
+	<string name="Title" value="深谷II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="690000060">
+<imgdir name="0">
+	<string name="Title" value="智慧森林" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猴子森林II" />
+</imgdir>
+<imgdir name="690000063">
+<imgdir name="0">
+	<string name="Title" value="烧毁之地II" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="烧毁之地IV" />
+</imgdir>
+<imgdir name="690000053">
+<imgdir name="0">
+	<string name="Title" value="邪恶森林I" />
+</imgdir>
+<imgdir name="1">
+	<string name="Title" value="猴子森林I" />
+</imgdir>
+<imgdir name="807020100">
+	<string name="north00" value="本能寺方向" />
+</imgdir>
+<imgdir name="301000000">
+<imgdir name="in01">
+<string name="Title" value="魔法大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148003" />
+</imgdir>
+<imgdir name="in02">
+<string name="Title" value="疾风大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148006" />
+</imgdir>
+<imgdir name="in03">
+<string name="Title" value="暗夜大厅1" />
+<imgdir name="Mob">
+	<string name="0" value="8148008" />
+</imgdir>
+<imgdir name="partyZone">
+<string name="Title" value="卫士十字路" />
+<imgdir name="Mob">
+	<string name="0" value="8148010" />
+	<string name="1" value="8148011" />
+</imgdir>
+<imgdir name="miniGame">
+	<string name="Title" value="小游戏" />
+</imgdir>
+<imgdir name="nextStage">
+	<string name="Title" value="下层通道" />
+</imgdir>
+<imgdir name="301050200">
+<imgdir name="out00">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="out01">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="out02">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Johan" />
+	<string name="1" value="Jahara" />
+	<string name="2" value="Dr. Pepper" />
+	<string name="3" value="Pai-jin" />
+	<string name="4" value="Woon-lai" />
+	<string name="5" value="Gurney" />
+	<string name="6" value="Ridley" />
+</imgdir>
+<imgdir name="301050300">
+<imgdir name="FCPzone_start">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Jahara" />
+	<string name="1" value="Dr. Pepper" />
+	<string name="2" value="Pai-jin" />
+	<string name="3" value="Ridley" />
+</imgdir>
+<imgdir name="FCPzone_out">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Jahara" />
+	<string name="1" value="Dr. Pepper" />
+	<string name="2" value="Pai-jin" />
+	<string name="3" value="Ridley" />
+</imgdir>
+<imgdir name="301070010">
+<imgdir name="out00">
+<string name="Title" value="城堡顶部" />
+<imgdir name="Npc">
+	<string name="0" value="Ridley" />
+</imgdir>
+<imgdir name="930100000">
+<imgdir name="out00">
+	<string name="Title" value="下层通道" />
+</imgdir>
+<imgdir name="930100100">
+<imgdir name="next00">
+	<string name="Title" value="封印房间2" />
+</imgdir>
+<imgdir name="930100200">
+<imgdir name="next00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100300">
+<imgdir name="in01">
+	<string name="Title" value="红尼尔格的房间" />
+</imgdir>
+<imgdir name="in02">
+	<string name="Title" value="玛加纳的房间" />
+</imgdir>
+<imgdir name="in03">
+	<string name="Title" value="雷利克的房间" />
+</imgdir>
+<imgdir name="in04">
+	<string name="Title" value="哈斯夫的房间" />
+</imgdir>
+<imgdir name="in05">
+	<string name="Title" value="高伊拉克斯的房间" />
+</imgdir>
+<imgdir name="next00">
+	<string name="Title" value="办公室" />
+</imgdir>
+<imgdir name="930100310">
+<imgdir name="out00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100320">
+<imgdir name="out00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100330">
+<imgdir name="out00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100340">
+<imgdir name="out00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100350">
+<imgdir name="out00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="930100400">
+<imgdir name="next00">
+	<string name="Title" value="秘密储藏室" />
+</imgdir>
+<imgdir name="930100500">
+<imgdir name="next00">
+	<string name="Title" value="底层" />
+</imgdir>
+<imgdir name="102020300">
+<imgdir name="ps01">
+<string name="Title" value="鬼树桩领地" />
+<imgdir name="Mob">
+	<string name="0" value="9300738" />
+</imgdir>
+<imgdir name="240090000">
+	<string name="pt_mid" value="库波的骑行:往上的路" />
+</imgdir>
+<imgdir name="240091000">
+	<string name="pt_west" value="库波的骑行:往下的路" />
+</imgdir>
+<imgdir name="240091300">
+<imgdir name="pt_south">
+<string name="Title" value="虫群据点" />
+<imgdir name="Mob">
+	<string name="0" value="8147012" />
+	<string name="1" value="8147013" />
+	<string name="2" value="8146014" />
+</imgdir>
+<imgdir name="240091500">
+	<string name="pt_up" value="奇诺的电梯:往上的路" />
+</imgdir>
+<imgdir name="240092000">
+<string name="pt_down" value="奇诺的电梯:往下的路" />
+<imgdir name="pt_east">
+<string name="Title" value="石巨人手臂" />
+<imgdir name="Npc">
+	<string name="0" value="Stone Colossus" />
+</imgdir>
+<imgdir name="240092100">
+<imgdir name="pt_in">
+<string name="Title" value="石巨人内部1" />
+<imgdir name="Mob">
+	<string name="0" value="8147010" />
+</imgdir>
+<imgdir name="240092200">
+<imgdir name="pt_down">
+<string name="Title" value="石巨人手臂" />
+<imgdir name="Npc">
+	<string name="0" value="Stone Colossus" />
+</imgdir>
+<imgdir name="240092300">
+<imgdir name="pt_west">
+<string name="Title" value="石巨人躯干3" />
+<imgdir name="Mob">
+	<string name="0" value="8147009" />
+</imgdir>
+<imgdir name="240093000">
+<imgdir name="pt_out">
+<string name="Title" value="石巨人手臂" />
+<imgdir name="Npc">
+	<string name="0" value="Stone Colossus" />
+</imgdir>
+<imgdir name="240093200">
+<imgdir name="pt_in">
+<string name="Title" value="石巨人心脏" />
+<imgdir name="Mob">
+	<string name="0" value="8800400" />
+</imgdir>
+<imgdir name="240093300">
+<imgdir name="pt_out">
+<string name="Title" value="石巨人内部3" />
+<imgdir name="Mob">
+	<string name="0" value="8147011" />
+</imgdir>
+<imgdir name="240093310">
+<imgdir name="pt_out">
+<string name="Title" value="石巨人手臂" />
+<imgdir name="Npc">
+	<string name="0" value="Stone Colossus" />
+</imgdir>
+<imgdir name="863010100">
+<imgdir name="in01">
+	<string name="Title" value="哥路克斯:右下腿" />
+</imgdir>
+<imgdir name="in02">
+	<string name="Title" value="哥路克斯:左下腿" />
+</imgdir>
+<imgdir name="in03">
+	<string name="Title" value="哥路克斯:左山丘" />
+</imgdir>
+<imgdir name="in04">
+	<string name="Title" value="哥路克斯:右山丘" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="出口" />
+</imgdir>
+<imgdir name="863010200">
+<imgdir name="in00">
+	<string name="Title" value="哥路克斯:右下腿" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="通往哥路克斯的路" />
+</imgdir>
+<imgdir name="863010210">
+<imgdir name="in00">
+<string name="Title" value="哥路克斯:腹部" />
+<imgdir name="Mob">
+	<string name="0" value="9390612" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:右下腿" />
+</imgdir>
+<imgdir name="863010220">
+<imgdir name="in00">
+	<string name="Title" value="哥路克斯:左上腿" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="通往哥路克斯的路" />
+</imgdir>
+<imgdir name="863010230">
+<imgdir name="in00">
+<string name="Title" value="哥路克斯:腹部" />
+<imgdir name="Mob">
+	<string name="0" value="9390612" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:左下腿" />
+</imgdir>
+<imgdir name="863010240">
+<imgdir name="in00">
+	<string name="Title" value="哥路克斯:心脏" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:右下腿" />
+</imgdir>
+<imgdir name="out01">
+	<string name="Title" value="哥路克斯:左上腿" />
+</imgdir>
+<imgdir name="863010300">
+<imgdir name="in00">
+	<string name="Title" value="哥路克斯:右手" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="通往哥路克斯的路" />
+</imgdir>
+<imgdir name="863010310">
+<imgdir name="in00">
+	<string name="Title" value="右肩通道" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:右手" />
+</imgdir>
+<imgdir name="863010320">
+<imgdir name="in00">
+<string name="Title" value="哥路克斯:右肩" />
+<imgdir name="Mob">
+	<string name="0" value="9390610" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:右手" />
+</imgdir>
+<imgdir name="east00">
+	<string name="Title" value="哥路克斯:心脏" />
+</imgdir>
+<imgdir name="863010330">
+<imgdir name="out00">
+	<string name="Title" value="右肩通道" />
+</imgdir>
+<imgdir name="863010400">
+<imgdir name="in00">
+	<string name="Title" value="哥路克斯:左手" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="通往哥路克斯的路" />
+</imgdir>
+<imgdir name="863010410">
+<imgdir name="in00">
+	<string name="Title" value="左肩通道" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:左手" />
+</imgdir>
+<imgdir name="863010420">
+<imgdir name="in00">
+<string name="Title" value="哥路克斯:左肩" />
+<imgdir name="Mob">
+	<string name="0" value="9390611" />
+</imgdir>
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:左手" />
+</imgdir>
+<imgdir name="west00">
+	<string name="Title" value="哥路克斯:心脏" />
+</imgdir>
+<imgdir name="863010430">
+<imgdir name="out00">
+	<string name="Title" value="左肩通道" />
+</imgdir>
+<imgdir name="863010500">
+<imgdir name="in00">
+<string name="Title" value="哥路克斯:头部" />
+<imgdir name="Mob">
+	<string name="0" value="9390600" />
+</imgdir>
+<imgdir name="out00">
+<string name="Title" value="哥路克斯:腹部" />
+<imgdir name="Mob">
+	<string name="0" value="9390612" />
+</imgdir>
+<imgdir name="west00">
+	<string name="Title" value="右肩通道" />
+</imgdir>
+<imgdir name="east00">
+	<string name="Title" value="左肩通道" />
+</imgdir>
+<imgdir name="863010600">
+<imgdir name="out00">
+	<string name="Title" value="哥路克斯:心脏" />
+</imgdir>
+<imgdir name="866000100">
+<imgdir name="pt00">
+<string name="Title" value="树桩镇" />
+<imgdir name="Npc">
+	<string name="0" value="Woodrock" />
+	<string name="1" value="Bluffing Tom" />
+	<string name="2" value="Bernie" />
+	<string name="3" value="Papa Tom" />
+	<string name="4" value="Jenny's Dad" />
+	<string name="5" value="Grandma Tom" />
+	<string name="6" value="Odette" />
+	<string name="7" value="Kinglock" />
+	<string name="8" value="Grandpa Tom" />
+	<string name="9" value="Shemp" />
+	<string name="10" value="Dr. Chops" />
+	<string name="11" value="White Whitney" />
+	<string name="12" value="Poppins" />
+	<string name="13" value="Jason" />
+	<string name="14" value="Curly" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="黑暗森林路2" />
+<imgdir name="Mob">
+	<string name="0" value="9390912" />
+	<string name="1" value="9390913" />
+</imgdir>
+<imgdir name="866000110">
+<imgdir name="pt00">
+<string name="Title" value="黑暗森林路1" />
+<imgdir name="Mob">
+	<string name="0" value="9390912" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="黑暗森林路3" />
+<imgdir name="Mob">
+	<string name="0" value="9390913" />
+</imgdir>
+<imgdir name="866000120">
+<imgdir name="pt00">
+<string name="Title" value="黑暗森林路2" />
+<imgdir name="Mob">
+	<string name="0" value="9390912" />
+	<string name="1" value="9390913" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="哥布林洞穴1" />
+<imgdir name="Mob">
+	<string name="0" value="9390914" />
+</imgdir>
+<imgdir name="866000130">
+<imgdir name="pt00">
+<string name="Title" value="黑暗森林路3" />
+<imgdir name="Mob">
+	<string name="0" value="9390913" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="哥布林洞穴2" />
+<imgdir name="Mob">
+	<string name="0" value="9390933" />
+</imgdir>
+<imgdir name="866000140">
+<imgdir name="pt00">
+<string name="Title" value="哥布林洞穴1" />
+<imgdir name="Mob">
+	<string name="0" value="9390914" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="哥布林监狱" />
+<imgdir name="Mob">
+	<string name="0" value="9390933" />
+</imgdir>
+<imgdir name="Npc">
+	<string name="0" value="Mama Tom" />
+</imgdir>
+<imgdir name="866000150">
+<imgdir name="pt00">
+<string name="Title" value="哥布林洞穴2" />
+<imgdir name="Mob">
+	<string name="0" value="9390933" />
+</imgdir>
+<imgdir name="pt01">
+<string name="Title" value="哥布林王的巢穴" />
+<imgdir name="Mob">
+	<string name="0" value="9390915" />
+</imgdir>
+<imgdir name="Shop">
+<imgdir name="Button">
+<imgdir name="BuyAvatar">
+	<string name="Title" value="购买装备物品" />
+	<string name="Desc" value="购买角色装备的物品。不包括现有物品。" />
+</imgdir>
+<imgdir name="DefaultAvatar">
+	<string name="Title" value="返回默认" />
+	<string name="Desc" value="角色恢复到进入现金商店前的默认状态。" />
+</imgdir>
+<imgdir name="Rebate">
+	<string name="Title" value="退款" />
+	<string name="Desc" value="删除现金物品并返还固定百分比的价格作为枫叶点数。" />
+</imgdir>
+<imgdir name="ExEquip">
+	<string name="Title" value="扩展装备背包" />
+	<string name="Desc" value="向装备背包添加4个格子(1行)\n3800 NX" />
+</imgdir>
+<imgdir name="ExConsume">
+	<string name="Title" value="扩展使用背包" />
+	<string name="Desc" value="向使用背包添加4个格子(1行)\n3800 NX" />
+</imgdir>
+<imgdir name="ExInstall">
+	<string name="Title" value="扩展设置背包" />
+	<string name="Desc" value="向设置背包添加4个格子(1行)\n3800 NX" />
+</imgdir>
+<imgdir name="ExEtc">
+	<string name="Title" value="扩展其他背包" />
+	<string name="Desc" value="向其他背包添加4个格子(1行)\n3800 NX" />
+</imgdir>
+<imgdir name="Charge">
+	<string name="Title" value="充值现金" />
+	<string name="Desc" value="可以通过各种方式添加NX - 移动设备、信用卡、实时账户转账、各种礼品卡等...\n如果NX不足，必须在尝试购买物品前进行充值。" />
+</imgdir>
+<imgdir name="Check">
+	<string name="Title" value="查看现金" />
+	<string name="Desc" value="查看剩余现金" />
+</imgdir>
+<imgdir name="Coupon">
+	<string name="Title" value="使用优惠券" />
+	<string name="Desc" value="将物品优惠券兑换为物品。" />
+</imgdir>
+<imgdir name="TakeoffAvatar">
+	<string name="Title" value="全部卸下" />
+	<string name="Desc" value="卸下角色穿戴的所有物品。" />
+</imgdir>
+<imgdir name="GiftToken">
+	<string name="Title" value="礼品券" />
+	<string name="Desc" value="点击查看&quot;如何赠送&quot;详情" />
+</imgdir>
+<imgdir name="Refund">
+	<string name="Title" value="退款" />
+	<string name="Desc" value="除非有单独通知表明物品不可提取、购买已超过7天、部分包裹物品已使用或物品已移至游戏背包，否则可以通过点击退款来接收用NX购买的物品的退款。" />
+</imgdir>
+<imgdir name="Wish">
+	<string name="Title" value="查看购物车" />
+	<string name="Desc" value="查看我的购物车中的物品。" />
+</imgdir>
+<imgdir name="Storage">
+	<string name="Title" value="保存到我的套装" />
+	<string name="Desc" value="将此预览保存到我的套装。" />
+</imgdir>
+<imgdir name="Inventory">
+	<string name="Title" value="现金背包" />
+	<string name="Desc" value="查看现金背包和背包。" />
+</imgdir>
+<imgdir name="Coordination">
+	<string name="Title" value="查看我的套装" />
+	<string name="Desc" value="查看我保存的套装。" />
+</imgdir>
+<imgdir name="Mileage">
+	<string name="Title" value="里程" />
+	<string name="Desc" value="可以使用里程点数与Nexon Cash一起购买物品。" />
+</imgdir>
+<imgdir name="MTS">
+<imgdir name="Button">
+	<imgdir name="Check">
+		<string name="Title" value="查看点数" />
+		<string name="Desc" value="查看剩余点数。" />
+	</imgdir>
+</imgdir>

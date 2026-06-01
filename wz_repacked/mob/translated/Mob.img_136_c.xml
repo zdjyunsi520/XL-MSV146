@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9990003">
+		<string name="name" value="鱼类"/>
+	</imgdir>
+    <imgdir name="9990004">
+		<string name="name" value="爬行动物"/>
+	</imgdir>
+    <imgdir name="9990005">
+		<string name="name" value="精灵"/>
+	</imgdir>
+    <imgdir name="9990006">
+		<string name="name" value="恶魔"/>
+	</imgdir>
+    <imgdir name="9990007">
+		<string name="name" value="不死族"/>
+	</imgdir>
+    <imgdir name="9990008">
+		<string name="name" value="魔法生物"/>
+	</imgdir>
+    <imgdir name="9990009">
+		<string name="name" value="Boss"/>
+	</imgdir>
+    <imgdir name="9990010">
+		<string name="name" value="火球"/>
+	</imgdir>
+    <imgdir name="9990011">
+		<string name="name" value="暴风雪"/>
+	</imgdir>
+    <imgdir name="9990012">
+		<string name="name" value="闪电"/>
+	</imgdir>
+    <imgdir name="9990013">
+		<string name="name" value="毒药"/>
+	</imgdir>
+    <imgdir name="9990014">
+		<string name="name" value="神圣"/>
+	</imgdir>
+    <imgdir name="9990015">
+		<string name="name" value="黑暗"/>
+	</imgdir>
+    <imgdir name="9990016">
+		<string name="name" value="塔型"/>
+	</imgdir>
+    <imgdir name="9990017">
+		<string name="name" value="怪物守护者"/>
+	</imgdir>
+    <imgdir name="9990018">
+		<string name="name" value="阿斯旺解放普通怪物"/>
+	</imgdir>
+    <imgdir name="9990019">
+		<string name="name" value="希拉-安全区域"/>
+	</imgdir>
+    <imgdir name="9990020">
+		<string name="name" value="希拉-吸血鬼"/>
+	</imgdir>
+    <imgdir name="9990021">
+		<string name="name" value="希拉-烙印"/>
+	</imgdir>
+    <imgdir name="9990022">
+		<string name="name" value="希拉-治疗"/>
+	</imgdir>
+</imgdir>

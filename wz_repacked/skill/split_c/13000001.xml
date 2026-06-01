@@ -1,0 +1,7 @@
+<imgdir name="13000001">
+        <string name="name" value="弓术精通" />
+        <string name="desc" value="精通弓术基础！提升命中率、回避率、移动速度和最大移动速度。" />
+        <string name="h" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
+        <string name="pdesc" value="精通弓术基础！提升命中率、回避率、移动速度和最大移动速度。" />
+        <string name="ph" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
+    </imgdir>

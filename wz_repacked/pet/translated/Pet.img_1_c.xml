@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000001">
+		<string name="name" value="棕色小狗"/>
+		<string name="desc" value="天生活泼好动，一刻都闲不住，所以总是很快就饿了。不过它对主人可是言听计从的好狗狗哦~"/>
+		<string name="descD" value="本来是一只超可爱的小狗狗，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000002">
+		<string name="name" value="粉色兔子"/>
+		<string name="desc" value="乖巧又安静，不用喂太多食物。聪明又听话，但偶尔也会耍点小脾气呢~"/>
+		<string name="descD" value="本来是一只超可爱的小兔兔，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000003">
+		<string name="name" value="迷你卡戈"/>
+		<string name="desc" value="超级超级活泼，所以经常饿肚子。很聪明哦，对主人可是相当听话的呢~"/>
+		<string name="descD" value="本来是一只超可爱的小卡戈，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000004">
+		<string name="name" value="黑色小猫"/>
+		<string name="desc" value="安静又温柔，不怎么贪吃。不过嘛...好像不太听主人的话呢~"/>
+		<string name="descD" value="本来是一只超可爱的小猫咪，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000005">
+		<string name="name" value="白色兔子"/>
+		<string name="desc" value="乖巧又安静，不用喂太多食物。聪明又听话，但偶尔也会耍点小脾气呢~"/>
+		<string name="descD" value="本来是一只超可爱的小兔兔，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000006">
+		<string name="name" value="哈士奇"/>
+		<string name="desc" value="活泼好动，但有时也挺沉得住气。食量适中。总的来说是个聪明的小伙伴~"/>
+		<string name="descD" value="本来是一只超可爱的小哈士奇，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000007">
+		<string name="name" value="黑猪"/>
+		<string name="desc" value="超级活泼，而且总是饿肚子！需要经常喂食。性格很友善，很容易和它增进感情哦~"/>
+		<string name="descD" value="本来是一只超可爱的小黑猪，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000008">
+		<string name="name" value="熊猫"/>
+		<string name="desc" value="沉稳、悠闲又温柔。是非常珍稀的小可爱~"/>
+		<string name="descD" value="本来是一只超可爱的小熊猫，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000009">
+		<string name="name" value="恐龙男孩"/>
+		<string name="desc" value="一只超级可爱的雄性小恐龙宝宝，活泼又让人捉摸不透~"/>
+		<string name="descD" value="本来是一只超可爱的小恐龙男孩，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000010">
+		<string name="name" value="恐龙女孩"/>
+		<string name="desc" value="一只超级可爱的雌性小恐龙宝宝，活泼又让人捉摸不透~"/>
+		<string name="descD" value="本来是一只超可爱的小恐龙女孩，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000011">
+		<string name="name" value="猴子"/>
+		<string name="desc" value="这只充满好奇心的小猴子根本停不下来，到处蹦蹦跳跳的~"/>
+		<string name="descD" value="本来是一只超可爱的小猴子，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000012">
+		<string name="name" value="白虎"/>
+		<string name="desc" value="性格温柔又听话，很容易和主人亲近，升级速度也会快很多哦~"/>
+		<string name="descD" value="本来是一只超可爱的小白虎，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000013">
+		<string name="name" value="大象"/>
+		<string name="desc" value="外向又稳重，不用一直喂食。是个聪明的宠物，很容易理解主人的指令哦~"/>
+		<string name="descD" value="本来是一只超可爱的小象，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000014">
+		<string name="name" value="鲁道夫"/>
+		<string name="desc" value="每到圣诞节，圣诞老人就会乘坐由他最信赖的搭档鲁道夫拉的雪橇出发哦~"/>
+		<string name="descD" value="本来是一只超可爱的红鼻子小鲁道夫，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000015">
+		<string name="name" value="达舍"/>
+		<string name="desc" value="天资聪颖又听话，学指令比其他宠物快多了，但也很容易就饿肚子呢~"/>
+		<string name="descD" value="本来是一只超可爱的小驯鹿，可惜&quot;生命之水&quot;已经完全干涸，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000017">
+		<string name="name" value="机器人"/>
+		<string name="desc" value="一个超级活跃的机器人，什么事都变来变去的。让人捉摸不透，但很好哄~"/>
+		<string name="descD" value="本来是一只超可爱的小机器人，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000018">
+		<string name="name" value="哈士奇"/>
+		<string name="desc" value="活泼好动，但有时也挺沉得住气。食量适中。总的来说是个聪明的小伙伴~"/>
+		<string name="descD" value="本来是一只超可爱的小哈士奇，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000020">
+		<string name="name" value="迷你雪人"/>
+		<string name="desc" value="一个值得信赖的宠物，默默守护着大家。虽然安静，但聪明又能干~"/>
+		<string name="descD" value="本来是一只超可爱的小雪人，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000021">
+		<string name="name" value="猴子"/>
+		<string name="desc" value="很有魅力而且直觉很敏锐，不过嘛...就是不太听话~"/>
+		<string name="descD" value="本来是一只超可爱的小猴子，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000022">
+		<string name="name" value="火鸡"/>
+		<string name="desc" value="有点活泼，安静但不太乖。不太听话，不过好在也不怎么饿肚子~"/>
+		<string name="descD" value="本来是一只超可爱的小火鸡，可惜&quot;生命之水&quot;已经完全干涸，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+</imgdir>

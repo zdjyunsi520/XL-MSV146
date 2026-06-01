@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022001">
+		<string name="name" value="红豆粥"/>
+		<string name="desc" value="用红豆做的热腾腾的粥。在HP减少的地图上，每当受到地图伤害时，将保护10 HP。"/>
+	</imgdir>
+    <imgdir name="2022002">
+		<string name="name" value="苹果酒"/>
+		<string name="desc" value="酷爽的汽水。\n武器攻击+20，命中-50，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022003">
+		<string name="name" value="鳗鱼"/>
+		<string name="desc" value="调味很好的鳗鱼。\n恢复1000 HP。"/>
+	</imgdir>
+    <imgdir name="2022004">
+		<string name="name" value="松饼"/>
+		<string name="desc" value="充满蜂王浆。\n恢复1500 HP。"/>
+	</imgdir>
+    <imgdir name="2022005">
+		<string name="name" value="韩果"/>
+		<string name="desc" value="一种传统的韩国小吃。\n恢复1500 MP。"/>
+	</imgdir>
+    <imgdir name="2022006">
+		<string name="name" value="年糕汤"/>
+		<string name="desc" value="刚煮好的。\nHP和MP各恢复500。"/>
+	</imgdir>
+    <imgdir name="2022007">
+		<string name="name" value="三角寿司（梅子）"/>
+		<string name="desc" value="里面是酸梅的美味饭团。野餐必备！\n恢复HP和MP各20%，如果你的最大HP和MP超过99,999，则限制为20,000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022008">
+		<string name="name" value="三角寿司（三文鱼）"/>
+		<string name="desc" value="里面是三文鱼的美味饭团。野餐必备！\n恢复HP和MP各30%，如果你的最大HP和MP超过99,999，则限制为30,000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022009">
+		<string name="name" value="三角寿司（�的鱼）"/>
+		<string name="desc" value="里面是�的鱼的美味饭团。野餐必备！\n恢复HP和MP各40%，如果你的最大HP和MP超过99,999，则限制为40,000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022010">
+		<string name="name" value="三角寿司（鳕鱼子）"/>
+		<string name="desc" value="里面是鳕鱼子的美味饭团。野餐必备！\n恢复HP和MP各50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022011">
+		<string name="name" value="三角寿司（蘑菇）"/>
+		<string name="desc" value="里面是蘑菇的美味饭团。野餐必备！\n恢复HP和MP各60%，如果你的最大HP和MP超过99,999，则限制为60,000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022012">
+		<string name="name" value="寿司（金枪鱼）"/>
+		<string name="desc" value="用维多利亚岛附近新鲜鱼做的寿司。\n恢复1000 HP。"/>
+	</imgdir>
+    <imgdir name="2022013">
+		<string name="name" value="寿司（三文鱼）"/>
+		<string name="desc" value="用维多利亚岛附近新鲜鱼做的寿司。\n恢复500 HP。"/>
+	</imgdir>
+    <imgdir name="2022014">
+		<string name="name" value="团子"/>
+		<string name="desc" value="尝尝这团子的甜味吧。\n恢复200 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022015">
+		<string name="name" value="蘑菇味噌拉面"/>
+		<string name="desc" value="用维多利亚岛最好的食材做的味噌拉面。\n恢复HP和MP各80%，如果你的最大HP和MP超过99,999，则限制为80,000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022016">
+		<string name="name" value="冒险岛特供便当"/>
+		<string name="desc" value="里面有肉和蘑菇的特殊便当。\nHP和MP各恢复500。"/>
+	</imgdir>
+    <imgdir name="2022017">
+		<string name="name" value="拉面"/>
+		<string name="desc" value="用Robo的秘方煮的一碗拉面。\n恢复1000 HP。"/>
+	</imgdir>
+    <imgdir name="2022018">
+		<string name="name" value="蘑菇拉面（烤猪肉）"/>
+		<string name="desc" value="汤里加了烤猪肉的一碗拉面。\n恢复1500 HP。"/>
+	</imgdir>
+    <imgdir name="2022019">
+		<string name="name" value="蘑菇拉面（猪头肉）"/>
+		<string name="desc" value="汤里加了猪头肉的一碗拉面。\n恢复800 HP。"/>
+	</imgdir>
+    <imgdir name="2022020">
+		<string name="name" value="蘑菇拉面（盐）"/>
+		<string name="desc" value="汤里加了盐的一碗拉面。味道有点奇特... \n恢复500 HP。"/>
+	</imgdir>
+</imgdir>

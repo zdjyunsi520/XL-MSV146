@@ -1,0 +1,6 @@
+<imgdir name="33121007">
+        <string name="name" value="枫叶勇士" />
+        <string name="desc" value="提升所有队伍成员的属性。需要技能手册才能将技能修炼至30级。" />
+        <string name="h" value="MP消耗：#mpCon，全属性：+#x%，持续时间：#time秒" />
+        <string name="pdesc" value="提升所有队员的属性。" />
+    </imgdir>

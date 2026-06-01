@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046286">
+		<string name="name" value="凯旋防具强化卷轴 魔法攻击 25%"/>
+		<string name="desc" value="强化凯旋胜利防具的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n魔法攻击+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046287">
+		<string name="name" value="凯旋防具强化卷轴 力量 30%"/>
+		<string name="desc" value="强化凯旋胜利防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n力量：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046288">
+		<string name="name" value="凯旋防具强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化凯旋胜利防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n敏捷：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046289">
+		<string name="name" value="凯旋防具强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化凯旋胜利防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n幸运：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046290">
+		<string name="name" value="凯旋防具强化卷轴 智力 30%"/>
+		<string name="desc" value="强化凯旋胜利防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n智力：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046291">
+		<string name="name" value="凯旋防具强化卷轴 力量 80%"/>
+		<string name="desc" value="强化凯旋胜利防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046292">
+		<string name="name" value="凯旋防具强化卷轴 敏捷 80%"/>
+		<string name="desc" value="强化凯旋胜利防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046293">
+		<string name="name" value="凯旋防具强化卷轴 幸运 80%"/>
+		<string name="desc" value="强化凯旋胜利防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046294">
+		<string name="name" value="凯旋防具强化卷轴 智力 80%"/>
+		<string name="desc" value="强化凯旋胜利防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046300">
+		<string name="name" value="饰品强化卷轴 力量 100%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046301">
+		<string name="name" value="饰品强化卷轴 智力 100%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046302">
+		<string name="name" value="饰品强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046303">
+		<string name="name" value="饰品强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046304">
+		<string name="name" value="饰品强化卷轴 力量 50%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046305">
+		<string name="name" value="饰品强化卷轴 智力 50%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046306">
+		<string name="name" value="饰品强化卷轴 敏捷 50%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046307">
+		<string name="name" value="饰品强化卷轴 幸运 50%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046308">
+		<string name="name" value="【6周年】饰品强化卷轴 20%"/>
+		<string name="desc" value="强化饰品的最大生命值和最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n最大生命值：+200\r\n最大魔法值：+200\r\n#"/>
+	</imgdir>
+    <imgdir name="2046309">
+		<string name="name" value="【6周年】饰品强化卷轴 提升 20%"/>
+		<string name="desc" value="强化饰品的力量、智力、敏捷和幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046314">
+		<string name="name" value="饰品强化卷轴 力量 60%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+</imgdir>

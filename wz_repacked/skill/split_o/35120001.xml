@@ -1,0 +1,7 @@
+<imgdir name="35120001">
+        <string name="name" value="Robot Mastery" />
+        <string name="desc" value="Increases the ATT, self-destruct damage, and summon duration of all summoned robots." />
+        <string name="h" value="Damage (attack, self-destruct): +#x%, Summon Duration: +#y%" />
+        <string name="pdesc" value="Increases the ATT, self-destruct damage, and summon duration of all summoned robots." />
+        <string name="ph" value="Damage (attack, self-destruct): +#x%, Summon Duration: +#y%" />
+    </imgdir>

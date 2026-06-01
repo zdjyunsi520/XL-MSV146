@@ -1,0 +1,31 @@
+<imgdir name="Skill.img">
+    <imgdir name="42121022"><string name="name" value="Haku&apos;s Blessing "/><string name="desc" value="Haku invokes the ancient blessing of the foxes, increasing Magic Attack and Defense."/><string name="h" value="Duration: #time sec, Magic Defense: +#indieMdd, Weapon Defense: +#indiePdd, Magic Attack: +#x%."/></imgdir>
+    <imgdir name="42121023"><string name="name" value="Breath of the Unseen"/><string name="desc" value="A secret power only known to the fox spirits. Nullifies enemy knock-back attacks and ignores a portion of enemy defense."/><string name="h" value="Duration: #time, Enemy DEF Ignored: #x%, Knock-Back Resist Chance: #prop%"/></imgdir>
+    <imgdir name="42120024"><string name="name" value="Shadowbound Haku"/><string name="desc" value="Haku takes human form to fight by Kanna&apos;s side."/><string name="h" value="Mana Cost: #epCon, Transformation Duration: #time sec. \nBreath of the Unseen: Haku grants a #prop% chance to resist knockback and ignore #ignoreMobpdpR% enemy defense.\nHaku&apos;s Gift: Haku heals you up to #u%.\nFoxfire: Haku summons #y foxfires for #w sec. Has a #z% chance to nullify magic. Reflects #x% of damage. Each attack defended against uses up 1 flame.\nHaku&apos;s Blessing: Haku casts a spell to increase Magic Defense by #indieMdd, Weapon Defense by #indiePdd, and Magic Attack by #indieMad% of the equipped fan&apos;s Attack Power."/></imgdir>
+    <imgdir name="42000004"><string name="name" value="Haku"/><string name="desc" value="Haku the loveable fox demon joins you on your journey. Haku loves Kanna more than anything...except for cash mesos, that is."/><string name="h" value="Haku follows you around everywhere. EVERYWHERE."/></imgdir>
+    <imgdir name="80001157"><string name="name" value="Spirit Fox Haku"/><string name="desc" value="[Master Level: 1]\nAllows you to ride Spirit Fox Haku"/><string name="h1" value="Mana Cost: 10, DEF/M. DEF +10, Speed 150, Jump 120"/></imgdir>
+    <imgdir name="4002"><string name="bookName" value="Kanna"/></imgdir>
+    <imgdir name="4200"><string name="bookName" value="Kanna"/></imgdir>
+    <imgdir name="42000003"><string name="name" value="Center Ki"/><string name="desc" value="Controls the flow of energy within the body to increase physical traits."/><string name="h" value="Permanently increases INT by #intX,  LUK by #lukX"/></imgdir>
+    <imgdir name="4211"><string name="bookName" value="Kanna"/></imgdir>
+    <imgdir name="4212"><string name="bookName" value="Kanna"/></imgdir>
+    <imgdir name="71000411"><string name="name" value="Continuous Thunder"/><string name="desc" value="Minimum Critical damage increased.
+"/><string name="h" value="Increases minimum critical damage by #criticaldamageMin%
+"/></imgdir>
+    <imgdir name="71000421"><string name="name" value="Thunderous Spirit
+"/><string name="desc" value="Increases damage against boss monsters.
+"/><string name="h" value="Damage Increased by #bdR% when attacking boss monster
+"/></imgdir>
+    <imgdir name="80000003"><string name="name" value="Keen Edge"/><string name="desc" value="Hayato&apos;s blade can cut through anything!"/><string name="h" value="Increases all stats by #strX, Attack Power by #padX and Magic Attack Power by #madX
+"/></imgdir>
+    <imgdir name="80000004"><string name="name" value="Elementalism
+"/><string name="desc" value="Deepens your connection to the elements to provide a permanent damage increase.
+"/><string name="h" value="Increases damage by #damR%
+"/></imgdir>
+    <imgdir name="4001"><string name="bookName" value="Hayato"/></imgdir>
+    <imgdir name="40010000"><string name="name" value="Master of Blades"/><string name="desc" value="Years of hard work have given Hayato a preternatural understanding of the Katana, permanently increasing numerous stats."/><string name="h" value="Permanent Speed Increase #psdSpeed, Maximum Speed #u, Jump #psdJump, Avoidability #er% Katana Mastery Increase: #mastery%, Willpower: #x"/></imgdir>
+    <imgdir name="40010001"><string name="name" value="Keen Edge"/><string name="desc" value="Hayato&apos;s blade can cut through anything!"/><string name="h" value="All Stats: #strX, Attack Power Increase: #padX, Magic Attack Power Increase:  #madX"/></imgdir>
+    <imgdir name="40011003"><string name="name" value="Legendary Spirit"/><string name="desc" value="[Master Level : 1]\nUses the spirit of a legend to use a scroll on an item that cannot be normally equipped by the character."/></imgdir>
+    <imgdir name="40011005"><string name="name" value="Echo of Hero"/><string name="desc" value="[Master Level : 1]\n Increase weapon attack and magic attack on all players around. \n#cTerms between skills : 2 hours#"/><string name="h1" value="MP -30 Weapon attack +4%, Magic attack +4%  for 40Minutes"/></imgdir>
+    <imgdir name="40011006"><string name="name" value="Hop Down"/><string name="desc" value="[Master Level: 1]\nJump to lower platforms."/><string name="h1" value="Hop Down"/></imgdir>
+</imgdir>

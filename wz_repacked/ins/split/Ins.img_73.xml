@@ -1,0 +1,81 @@
+<imgdir name="Ins.img">
+    <imgdir name="3994431">
+		<string name="name" value="Carbonated Drink"/>
+		<string name="desc" value="A carbonated drink that refreshes completely. Experience the sparkling taste!"/>
+	</imgdir>
+    <imgdir name="3994432">
+		<string name="name" value="Spicy Rice Cake"/>
+		<string name="desc" value="A fiery red rice cake. It's so spicy!"/>
+	</imgdir>
+    <imgdir name="3994433">
+		<string name="name" value="Sports Drink"/>
+		<string name="desc" value="A sports drink that gets absorbed faster than water. "/>
+	</imgdir>
+    <imgdir name="3994434">
+		<string name="name" value="Frozen Sports Drink"/>
+		<string name="desc" value="A frozen sports drink which gets absorbed way faster than water. It's so cold!"/>
+	</imgdir>
+    <imgdir name="3994435">
+		<string name="name" value="Miraculous Garlic"/>
+		<string name="desc" value="Miraculous garlic. Eating only this for 100 straight days will turn a tiger into a human. "/>
+	</imgdir>
+    <imgdir name="3994436">
+		<string name="name" value="Young Mugworth of Patience"/>
+		<string name="desc" value="A young mugwort with miraculous power. Patiently holding it for an hour will turn this young mugworth into a fully-grown mugworth."/>
+	</imgdir>
+    <imgdir name="3994437">
+		<string name="name" value="Fully-Grown Mugworth of Patience"/>
+		<string name="desc" value="A fully-grown mugworth. Very leafy."/>
+	</imgdir>
+    <imgdir name="3994438">
+		<string name="name" value="Maple Memory"/>
+		<string name="desc" value="A red maple leaf pressed inside a book. This sure brings back memories. Pressing it for 3 or 4 hours will dry it, making it a perfect bookmark. \n#cIt disappears if you log out.#"/>
+	</imgdir>
+    <imgdir name="3994442">
+		<string name="name" value="Chaos Mode"/>
+		<string name="desc" value="Entrance Level: Lv. 120 or above\nRecommended Level: Lv. 120"/>
+	</imgdir>
+    <imgdir name="3994443">
+		<string name="name" value="Cheerleading Pom-poms"/>
+		<string name="desc" value="Cheerleading pom-poms used to cheer your team. Having them allows you to buff up every 30 minutes.\n#cDisappears if you log out.#"/>
+	</imgdir>
+    <imgdir name="3994444">
+		<string name="name" value="Time Diver"/>
+		<string name="desc" value="A device that will send you shooting through time. Its built in temporal interference dampener makes sure you don't ruin the timeline."/>
+	</imgdir>
+    <imgdir name="3994445">
+		<string name="name" value="Returning Pocket Watch"/>
+		<string name="desc" value="A small pocket watch given to people returning to Maple World. Seems like this watch runs faster than other watches.\n#cHaving it allows you to gain 10% bonus EXP.#"/>
+	</imgdir>
+    <imgdir name="3994446">
+		<string name="name" value="Halloween Pumpkin Lantern"/>
+		<string name="desc" value="A Halloween pumpkin lantern that can be use to decorate the magical Halloween tree. #cUse the Halloween Teleport Rock with a Halloween related equipment equipped in order move to where the tree is growing so that you can use the lantern.#"/>
+	</imgdir>
+    <imgdir name="3994447">
+		<string name="name" value="Magical Halloween Pop"/>
+		<string name="desc" value="Fills you up with crazy Halloween magic. Increases EXP based on level."/>
+	</imgdir>
+    <imgdir name="3994450">
+		<string name="name" value="Halloween Candy"/>
+		<string name="desc" value="Blissful tasting Halloween Candy. Quickly collect 50 to calm the ghosts."/>
+	</imgdir>
+    <imgdir name="3994451">
+		<string name="name" value="Guest Room Key"/>
+		<string name="desc" value="An engraved key obtained from the Guest Room. What mysterious door does it open?"/>
+	</imgdir>
+    <imgdir name="3994452">
+		<string name="name" value="Library Key"/>
+		<string name="desc" value="An engraved key obtained from the Haunted Mansion Library. What could it be used for?"/>
+	</imgdir>
+    <imgdir name="3994453">
+		<string name="name" value="Pumpkin Field Key"/>
+		<string name="desc" value="An engraved key obtained from the Haunted Mansion Pumpkin Field. What could it be used for?"/>
+	</imgdir>
+    <imgdir name="3994454">
+		<string name="name" value="Messed Up Center Hall Key"/>
+		<string name="desc" value="An engraved key obtained from the Haunted Mansion Messed Up Center Hall. What could it be used for?"/>
+	</imgdir>
+    <imgdir name="3994455">
+		<string name="name" value="Legendary Ore"/>
+	</imgdir>
+</imgdir>

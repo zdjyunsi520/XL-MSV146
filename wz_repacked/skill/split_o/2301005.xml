@@ -1,0 +1,7 @@
+<imgdir name="2301005">
+        <string name="name" value="Holy Arrow" />
+        <string name="desc" value="Attacks multiple monsters with Holy Arrows.  Very effective against Undead and Devil monsters." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Attacks multiple monsters with Holy Arrows.  Very effective against Undead and Devil monsters." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

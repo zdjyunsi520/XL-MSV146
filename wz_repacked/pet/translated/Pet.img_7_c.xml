@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000211">
+		<string name="name" value="海盗鹦鹉"/>
+		<string name="desc" value="热爱大海的海盗鹦鹉，是海盗们的好朋友，七大洋的呱呱叫担当！"/>
+		<string name="descD" value="热爱大海的海盗鹦鹉已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000212">
+		<string name="name" value="梅特斯"/>
+		<string name="desc" value="梅特斯，一只以恐惧为食的调皮小恶魔~"/>
+		<string name="descD" value="你那调皮的小恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000213">
+		<string name="name" value="莫斯"/>
+		<string name="desc" value="莫斯，一只掌控死亡的忧郁小恶魔~"/>
+		<string name="descD" value="你那忧郁的小恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000214">
+		<string name="name" value="因维迪亚"/>
+		<string name="desc" value="因维迪亚，一只沉溺于嫉妒的女汉子恶魔~"/>
+		<string name="descD" value="你那嫉妒的小恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000215">
+		<string name="name" value="胖墩"/>
+		<string name="desc" value="一只吃得饱饱的浣熊，超爱美食，尤其是拉面~"/>
+		<string name="descD" value="你那圆滚滚的小浣熊已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000216">
+		<string name="name" value="棕毛驴"/>
+		<string name="desc" value="一只有翅膀的小驴驹，自以为是个冒险家。虽然有点笨手笨脚的，但还是挺可爱的~"/>
+		<string name="descD" value="你那有翅膀的棕毛驴已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000217">
+		<string name="name" value="黑心"/>
+		<string name="desc" value="跟随着希拉的黑暗精灵。有点小傲慢，喜欢瞧不起别人~"/>
+		<string name="descD" value="你的黑暗精灵黑心已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000221">
+		<string name="name" value="格陵兰海豹"/>
+		<string name="desc" value="可爱又迷人的格陵兰海豹。它还是个小宝宝，感情很容易受伤，所以你要好好照顾它哦~"/>
+		<string name="descD" value="你那软萌的格陵兰海豹已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000225">
+		<string name="name" value="胖绒兽"/>
+		<string name="desc" value="胖绒兽开朗的个性和外向的天性一定会让任何潜在的主人都为之倾心~"/>
+		<string name="descD" value="你那毛茸茸的胖绒兽已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000228">
+		<string name="name" value="恶魔梅特斯"/>
+		<string name="desc" value="梅特斯，一只以恐惧为食的调皮小恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000229">
+		<string name="name" value="恶魔莫斯"/>
+		<string name="desc" value="莫斯，忧郁的死亡主宰。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000230">
+		<string name="name" value="恶魔因维迪亚"/>
+		<string name="desc" value="因维迪亚，嫉妒之恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000231">
+		<string name="name" value="恶魔梅特斯"/>
+		<string name="desc" value="梅特斯，一只以恐惧为食的调皮小恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000232">
+		<string name="name" value="恶魔莫斯"/>
+		<string name="desc" value="莫斯，忧郁的死亡主宰。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000233">
+		<string name="name" value="恶魔因维迪亚"/>
+		<string name="desc" value="因维迪亚，嫉妒之恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000234">
+		<string name="name" value="梅特斯"/>
+		<string name="desc" value="梅特斯，一只以恐惧为食的调皮小恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000235">
+		<string name="name" value="莫斯"/>
+		<string name="desc" value="莫斯，忧郁的死亡主宰。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000236">
+		<string name="name" value="因维迪亚"/>
+		<string name="desc" value="因维迪亚，嫉妒之恶魔。\n装备恶魔宠物可获得#c恶魔高贵祝福技能#，装备的恶魔越多技能越强大。"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000237">
+		<string name="name" value="星翼"/>
+		<string name="desc" value="又迷人又有礼貌，星翼走到哪里都是人气王！"/>
+		<string name="descD" value="你有礼貌的星翼已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000238">
+		<string name="name" value="虎宝宝"/>
+		<string name="descD" value="你那萌萌的虎宝宝已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+		<string name="desc" value="一只超可爱超软萌的虎宝宝~"/>
+	</imgdir>
+</imgdir>

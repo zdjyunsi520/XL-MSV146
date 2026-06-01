@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2100105">
+		<string name="name" value="贝拉莫亚"/>
+	</imgdir>
+    <imgdir name="2100106">
+		<string name="name" value="耳塞精灵"/>
+	</imgdir>
+    <imgdir name="2100107">
+		<string name="name" value="围巾精灵"/>
+	</imgdir>
+    <imgdir name="210100">
+		<string name="name" value="史莱姆"/>
+	</imgdir>
+    <imgdir name="2110200">
+		<string name="name" value="毒蘑菇"/>
+	</imgdir>
+    <imgdir name="2110300">
+		<string name="name" value="沙鼠"/>
+	</imgdir>
+    <imgdir name="2110301">
+		<string name="name" value="蝎子"/>
+	</imgdir>
+    <imgdir name="2130100">
+		<string name="name" value="暗黑斧木桩"/>
+	</imgdir>
+    <imgdir name="2130103">
+		<string name="name" value="小尼奇"/>
+	</imgdir>
+    <imgdir name="2150000">
+		<string name="name" value="偷水怪"/>
+	</imgdir>
+    <imgdir name="2150001">
+		<string name="name" value="垃圾箱"/>
+	</imgdir>
+    <imgdir name="2150002">
+		<string name="name" value="路灯"/>
+	</imgdir>
+    <imgdir name="2150003">
+		<string name="name" value="巡逻机器人S"/>
+	</imgdir>
+    <imgdir name="2220000">
+		<string name="name" value="马诺"/>
+	</imgdir>
+    <imgdir name="2220100">
+		<string name="name" value="蓝蘑菇"/>
+	</imgdir>
+    <imgdir name="2230100">
+		<string name="name" value="邪恶之眼"/>
+	</imgdir>
+    <imgdir name="2230101">
+		<string name="name" value="僵尸蘑菇"/>
+	</imgdir>
+    <imgdir name="2230102">
+		<string name="name" value="野猪"/>
+	</imgdir>
+    <imgdir name="2230103">
+		<string name="name" value="特里克斯"/>
+	</imgdir>
+    <imgdir name="2230104">
+		<string name="name" value="绿特里克斯"/>
+	</imgdir>
+</imgdir>

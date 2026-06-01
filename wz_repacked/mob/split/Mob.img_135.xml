@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8300004">
+		<string name="name" value="Soaring Black Wyvern "/>
+	</imgdir>
+    <imgdir name="8300005">
+		<string name="name" value="Soaring Griffey"/>
+	</imgdir>
+    <imgdir name="8300006">
+		<string name="name" value="Dragonoir"/>
+	</imgdir>
+    <imgdir name="8300007">
+		<string name="name" value="Dragon Rider"/>
+	</imgdir>
+    <imgdir name="9101004">
+		<string name="name" value="Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="9300394">
+		<string name="name" value="Delinquent Rudolph"/>
+	</imgdir>
+    <imgdir name="9300395">
+		<string name="name" value="Watchmen Crew"/>
+	</imgdir>
+    <imgdir name="9300396">
+		<string name="name" value="Watchmen Captain"/>
+	</imgdir>
+    <imgdir name="9500374">
+		<string name="name" value="Green Cornian"/>
+	</imgdir>
+    <imgdir name="9500375">
+		<string name="name" value="Dark Cornian"/>
+	</imgdir>
+    <imgdir name="9500376">
+		<string name="name" value="Jr. Newtie"/>
+	</imgdir>
+    <imgdir name="9500377">
+		<string name="name" value="Nest Golem"/>
+	</imgdir>
+    <imgdir name="9500378">
+		<string name="name" value="Blue Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="9500379">
+		<string name="name" value="Red Dragon Turtle "/>
+	</imgdir>
+    <imgdir name="9500380">
+		<string name="name" value="Skelegon"/>
+	</imgdir>
+    <imgdir name="9500381">
+		<string name="name" value="Skelosaurus"/>
+	</imgdir>
+    <imgdir name="9500382">
+		<string name="name" value="Leviathan"/>
+	</imgdir>
+    <imgdir name="9990000">
+		<string name="name" value="No Element"/>
+	</imgdir>
+    <imgdir name="9990001">
+		<string name="name" value="Mammal"/>
+	</imgdir>
+    <imgdir name="9990002">
+		<string name="name" value="Plant"/>
+	</imgdir>
+</imgdir>

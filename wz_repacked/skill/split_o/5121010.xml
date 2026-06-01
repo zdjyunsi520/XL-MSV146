@@ -1,0 +1,6 @@
+<imgdir name="5121010">
+        <string name="name" value="Time Leap" />
+        <string name="desc" value="Resets the cooldown for your skills and your party member&apos;s skills. Does not reset the cooldown of Time Leap." />
+        <string name="h" value="MP Cost: #mpCon, Cooldown: #x min" />
+        <string name="pdesc" value="Resets the cooldown for your team&apos;s skills. Does not reset the cooldown of Time Leap." />
+    </imgdir>

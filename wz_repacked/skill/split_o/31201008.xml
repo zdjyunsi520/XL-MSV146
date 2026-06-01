@@ -1,0 +1,5 @@
+<imgdir name="31201008">
+        <string name="name" value="Exceed: Demon Strike" />
+        <string name="desc" value="Charge forward and slice through enemies.\r\n#cExceed#: Gradually increases damage and decreases HP. Range increased during final stage." />
+        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

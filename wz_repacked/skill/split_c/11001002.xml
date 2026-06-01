@@ -1,0 +1,7 @@
+<imgdir name="11001002">
+        <string name="name" value="强力攻击" />
+        <string name="desc" value="消耗MP对敌人造成强力伤害！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="消耗MP对敌人造成强力伤害！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
+    </imgdir>

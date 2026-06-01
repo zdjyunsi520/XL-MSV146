@@ -1,0 +1,5 @@
+<imgdir name="112101003">
+        <string name="name" value="豹之咆哮" />
+        <string name="desc" value="在豹之突袭后咆哮造成追加伤害。同时提升#c豹之爪#和#c豹之突袭#的伤害。\n[指令] 使用#c豹之突袭#后按键" />
+        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount，#c豹之爪#和#c豹之突袭#追加伤害: +#damR%" />
+    </imgdir>

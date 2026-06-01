@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290024">
+		<string name="name" value="[Mastery Book] Arcane Aim 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cArcane Aim# to 20 .\nJob: 4th Magician\nCondition: Skill Level: 5+"/>
+	</imgdir>
+    <imgdir name="2290025">
+		<string name="name" value="[Mastery Book] Arcane Aim 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cArcane Aim# to 30 .\nJob: 4th Magician\nCondition: Skill Level: 15+"/>
+	</imgdir>
+    <imgdir name="2290028">
+		<string name="name" value="[Mastery Book] Infinity"/>
+		<string name="desc" value="This increases the master level of #cInfinity# up to 20 with 70% of chance.\r\nJob : 4th Advancement Magician\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290029">
+		<string name="name" value="[Mastery Book] Infinity"/>
+		<string name="desc" value="This increases the master level of #cInfinity# up to 30 with 50% of chance.\r\nJob : 4th Advancement Magician\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290030">
+		<string name="name" value="[Mastery Book] Paralyze"/>
+		<string name="desc" value="This increases the master level of #cParalyze# up to 20 with 70% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290031">
+		<string name="name" value="[Mastery Book] Paralyze"/>
+		<string name="desc" value="This increases the master level of #cParalyze# up to 30 with 50% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290032">
+		<string name="name" value="[Mastery Book] Chain Lightning"/>
+		<string name="desc" value="This increases the master level of #cChain Lightning# up to 20 with 70% of chance.\r\nClass : Arch Mage(Ice, Lightning)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290033">
+		<string name="name" value="[Mastery Book] Chain Lightning"/>
+		<string name="desc" value="This increases the master level of #cChain Lightning# up to 30 with 50% of chance.\r\nClass : Arch Mage(Ice, Lightning)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290034">
+		<string name="name" value="[Mastery Book] Advanced Blessing 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAdvanced Blessing# to 20.\nJob: Bishop\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290035">
+		<string name="name" value="[Mastery Book] Advanced Blessing 30"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAdvanced Blessing# to 30.\nJob: Bishop\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290036">
+		<string name="name" value="[Mastery Book] Mist Eruption 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMist Eruption# to 20.\nJob: Arch Mage (Fire, Poison)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290037">
+		<string name="name" value="[Mastery Book] Mist Eruption 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMist Eruption# to 30.\nJob: Arch Mage (Fire, Poison)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290038">
+		<string name="name" value="[Mastery Book] Ifrit"/>
+		<string name="desc" value="This increases the master level of #cIfrit# up to 20 with 70% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290039">
+		<string name="name" value="[Mastery Book] Ifrit"/>
+		<string name="desc" value="This increases the master level of #cIfrit# up to 30 with 50% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290040">
+		<string name="name" value="[Mastery Book] Meteor Shower"/>
+		<string name="desc" value="This increases the master level of #cMeteor Shower# up to 20 with 70% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290041">
+		<string name="name" value="[Mastery Book] Meteor Shower"/>
+		<string name="desc" value="This increases the master level of #cMeteor Shower# up to 30 with 50% of chance.\r\nClass : Arch Mage(Fire,Poison)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290042">
+		<string name="name" value="[Mastery Book] Glacier Chain 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cGlacier Chain# to 20.\nJob: Arch Mage (Ice, Lightning)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290043">
+		<string name="name" value="[Mastery Book] Glacier Chain 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cGlacier Chain# to 30.\nJob: Arch Mage (Ice, Lightning)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290044">
+		<string name="name" value="[Mastery Book] Elquines"/>
+		<string name="desc" value="This increases the master level of #cElquines# up to 20 with 70% of chance.\r\nClass : Arch Mage(Ice,Lightning)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290045">
+		<string name="name" value="[Mastery Book] Elquines"/>
+		<string name="desc" value="This increases the master level of #cElquines# up to 30 with 50% of chance.\r\nClass : Arch Mage(Ice,Lightning)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+</imgdir>

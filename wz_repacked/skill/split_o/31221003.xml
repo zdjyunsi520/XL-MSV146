@@ -1,0 +1,5 @@
+<imgdir name="31221003">
+        <string name="name" value="Blood Prison" />
+        <string name="desc" value="Imprisons enemies around you, stunning them for a short time." />
+        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Stun Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="71000221">
+        <string name="name" value="英雄魔法师-龙神" />
+        <string name="desc" value="攻击敌人时有概率恢复MP。" />
+        <string name="h" value="70% chance to recover #onHitMpRecoveryR% of Max MP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)." />
+    </imgdir>

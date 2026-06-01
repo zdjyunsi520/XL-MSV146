@@ -1,0 +1,5 @@
+<imgdir name="112100014">
+        <string name="name" value="Lethal Lai" />
+        <string name="desc" value="Increases the attack count and damage of certain Snow Leopard Mode skills.\r\n#cAffected Skills: Leopard&apos;s Paw, Leopard&apos;s Pounce, Leopard&apos;s Roar, Macho Dance, Macho Slam, Thunder Dash#" />
+        <string name="h" value="Damage of #cLeopard&apos;s Paw, Leopard&apos;s Pounce, Leopard&apos;s Roar, Macho Dance, Macho Slam, Thunder Dash#: +#damR%, Max Enemies Hit: +#targetPlus, Ingore DEF: +#ignoreMobpdpR%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2001517">
+		<string name="name" value="魔法药水"/>
+		<string name="desc" value="增加魔法攻击。\n魔法攻击+5，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2001518">
+		<string name="name" value="法师药水"/>
+		<string name="desc" value="增加魔法攻击。\n魔法攻击+10，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2001519">
+		<string name="name" value="战士药水"/>
+		<string name="desc" value="增加攻击能力。\n攻击+5，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2001520">
+		<string name="name" value="神射手药水"/>
+		<string name="desc" value="增加命中。\n命中+100，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2001521">
+		<string name="name" value="战士药丸"/>
+		<string name="desc" value="浓缩战士药水的药丸。攻击+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2001522">
+		<string name="name" value="魔法药丸"/>
+		<string name="desc" value="浓缩魔法药水的药丸。魔法攻击+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2001523">
+		<string name="name" value="神射手药丸"/>
+		<string name="desc" value="浓缩神射手药水的药丸。命中+200，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2001524">
+		<string name="name" value="敏捷药丸"/>
+		<string name="desc" value="浓缩敏捷药水的药丸。回避率+200，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2001525">
+		<string name="name" value="速度药丸"/>
+		<string name="desc" value="浓缩速度药水的药丸。速度增加，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2001526">
+		<string name="name" value="纯净水"/>
+		<string name="desc" value="非常干净的水。\n恢复最多800 MP。"/>
+	</imgdir>
+    <imgdir name="2001527">
+		<string name="name" value="鳗鱼"/>
+		<string name="desc" value="调味得当的鳗鱼。\n恢复1000 HP。"/>
+	</imgdir>
+    <imgdir name="2001528">
+		<string name="name" value="融化奶酪"/>
+		<string name="desc" value="由鲜奶制成的诱人奶酪。\n恢复4000 HP。"/>
+	</imgdir>
+    <imgdir name="2001529">
+		<string name="name" value="稀饭汤"/>
+		<string name="desc" value="新鲜制作的稀饭。\n恢复500 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2001530">
+		<string name="name" value="驯鹿奶"/>
+		<string name="desc" value="从驯鹿身上挤出的鲜奶。味道比听起来更美味。\n恢复5000 HP。"/>
+	</imgdir>
+    <imgdir name="2001531">
+		<string name="name" value="晨露"/>
+		<string name="desc" value="清晨收集的露水。恢复4000 MP。"/>
+	</imgdir>
+    <imgdir name="2001532">
+		<string name="name" value="苹果"/>
+		<string name="desc" value="一个成熟、红润、美味的苹果。\n恢复约30 HP。"/>
+	</imgdir>
+    <imgdir name="2001533">
+		<string name="name" value="鸡蛋"/>
+		<string name="desc" value="一个营养丰富的鸡蛋。\n恢复约50 HP。"/>
+	</imgdir>
+    <imgdir name="2001534">
+		<string name="name" value="橙子"/>
+		<string name="desc" value="一个甜美的橙子。\n恢复约50 MP。"/>
+	</imgdir>
+    <imgdir name="2001535">
+		<string name="name" value="柠檬"/>
+		<string name="desc" value="一个非常酸的水果。\n恢复约150 MP。"/>
+	</imgdir>
+    <imgdir name="2001536">
+		<string name="name" value="水果糖"/>
+		<string name="desc" value="多彩的水果糖。\n速度+10，持续30分钟。"/>
+	</imgdir>
+</imgdir>

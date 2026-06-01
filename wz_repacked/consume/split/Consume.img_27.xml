@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2012008">
+		<string name="name" value="Unripe Onyx Apple"/>
+		<string name="desc" value="A mysterious and unripe Onyx Apple. When consumed, it grants the following: ATT +60, Magic Attack +70, DEF +10 for 1 minute."/>
+	</imgdir>
+    <imgdir name="2020000">
+		<string name="name" value="Salad"/>
+		<string name="desc" value="Made out of fresh vegetable.\nRecovers 200 MP."/>
+	</imgdir>
+    <imgdir name="2020001">
+		<string name="name" value="Fried Chicken"/>
+		<string name="desc" value="Well-fried chicken.\nRecovers around 200 HP."/>
+	</imgdir>
+    <imgdir name="2020002">
+		<string name="name" value="Cake"/>
+		<string name="desc" value="A cake full of sweetness. Recovers 100 for both HP and MP."/>
+	</imgdir>
+    <imgdir name="2020003">
+		<string name="name" value="Pizza"/>
+		<string name="desc" value="A freshly-baked pizza. Recovers 400 HP."/>
+	</imgdir>
+    <imgdir name="2020004">
+		<string name="name" value="Hamburger"/>
+		<string name="desc" value="A hamburger with bulgogi in it. Recovers 400 HP."/>
+	</imgdir>
+    <imgdir name="2020005">
+		<string name="name" value="Hot Dog"/>
+		<string name="desc" value="A hotdog with ketchup on it. Recovers 300 HP."/>
+	</imgdir>
+    <imgdir name="2020006">
+		<string name="name" value="Hot Dog Supreme"/>
+		<string name="desc" value="A huge hot dog. Recovers 500 HP."/>
+	</imgdir>
+    <imgdir name="2020007">
+		<string name="name" value="Dried Squid"/>
+		<string name="desc" value="Well-dried. Recovers 600 HP."/>
+	</imgdir>
+    <imgdir name="2020008">
+		<string name="name" value="Fat Sausage"/>
+		<string name="desc" value="Tastes great, and is quite nutritious. Recovers 1200 HP."/>
+	</imgdir>
+    <imgdir name="2020009">
+		<string name="name" value="Orange Juice"/>
+		<string name="desc" value="Pure OJ... Recovers 450 MP."/>
+	</imgdir>
+    <imgdir name="2020010">
+		<string name="name" value="Grape Juice"/>
+		<string name="desc" value="Used real grapes for this. Recovers 900 MP."/>
+	</imgdir>
+    <imgdir name="2020011">
+		<string name="name" value="W Ramen"/>
+		<string name="desc" value="\nRecovers 40% of Max HP and MP, with a limit of 40,000 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2020012">
+		<string name="name" value="Melting Cheese"/>
+		<string name="desc" value="A mouth-watering cheese made out of fresh milk.\nRecovers 4000 HP."/>
+	</imgdir>
+    <imgdir name="2020013">
+		<string name="name" value="Reindeer Milk"/>
+		<string name="desc" value="Fresh milk squeezed out of a reindeer.\nRecovers 5000 HP."/>
+	</imgdir>
+    <imgdir name="2020014">
+		<string name="name" value="Sunrise Dew"/>
+		<string name="desc" value="Dew collected early morning. Recovers 4000 MP"/>
+	</imgdir>
+    <imgdir name="2020015">
+		<string name="name" value="Sunset Dew"/>
+		<string name="desc" value="Dew collected late in the afternoon. Recovers 5000 MP."/>
+	</imgdir>
+    <imgdir name="2020016">
+		<string name="name" value="Cheesecake"/>
+		<string name="desc" value="MapleStory's 6th Anniversary Cake. Recovers 1200 HP and MP."/>
+	</imgdir>
+    <imgdir name="2020017">
+		<string name="name" value="Strawberry Cream Cake"/>
+		<string name="desc" value="MapleStory 6th Anniversary Cake. Recovers 1400 HP and MP."/>
+	</imgdir>
+    <imgdir name="2020018">
+		<string name="name" value="Chocolate Cream Cake"/>
+		<string name="desc" value="MapleStory 6th Anniversary Cake. Recovers 1600 HP and MP."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="5100002">
+		<string name="name" value="火焰弹"/>
+	</imgdir>
+    <imgdir name="5100003">
+		<string name="name" value="霍多里"/>
+	</imgdir>
+    <imgdir name="5100004">
+		<string name="name" value="塞米霍"/>
+	</imgdir>
+    <imgdir name="5100005">
+		<string name="name" value="霍古尔"/>
+	</imgdir>
+    <imgdir name="5110300">
+		<string name="name" value="强化秘银穆泰"/>
+	</imgdir>
+    <imgdir name="5110301">
+		<string name="name" value="roid"/>
+	</imgdir>
+    <imgdir name="5110302">
+		<string name="name" value="新机器人"/>
+	</imgdir>
+    <imgdir name="5120000">
+		<string name="name" value="光泽精灵"/>
+	</imgdir>
+    <imgdir name="5120001">
+		<string name="name" value="火狮"/>
+	</imgdir>
+    <imgdir name="5120002">
+		<string name="name" value="狮子"/>
+	</imgdir>
+    <imgdir name="5120003">
+		<string name="name" value="格鲁宾"/>
+	</imgdir>
+    <imgdir name="5120100">
+		<string name="name" value="MT-09"/>
+	</imgdir>
+    <imgdir name="5120500">
+		<string name="name" value="灰熊"/>
+	</imgdir>
+    <imgdir name="5120501">
+		<string name="name" value="桔梗根"/>
+	</imgdir>
+    <imgdir name="5120502">
+		<string name="name" value="老桔梗根"/>
+	</imgdir>
+    <imgdir name="5120503">
+		<string name="name" value="稻草靶假人"/>
+	</imgdir>
+    <imgdir name="5120504">
+		<string name="name" value="木质靶假人"/>
+	</imgdir>
+    <imgdir name="5120505">
+		<string name="name" value="驯鹿"/>
+	</imgdir>
+    <imgdir name="5120506">
+		<string name="name" value="书幽灵"/>
+	</imgdir>
+    <imgdir name="5130100">
+		<string name="name" value="龙"/>
+	</imgdir>
+</imgdir>

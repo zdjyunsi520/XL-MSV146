@@ -1,0 +1,5 @@
+<imgdir name="32120001">
+        <string name="name" value="进阶黄色光环" />
+        <string name="desc" value="永久提升你的回避率并升级黄色光环技能。使用黄色光环时为队伍成员提供额外回避率，并降低敌人的移动速度。\n前置技能：#c黄色光环 Lv. 20#" />
+        <string name="h" value="主动效果 - MP消耗：#mpCon，移动速度：+#x，攻击速度：+1级，闪避概率：#z%，敌人移动速度：-#speed\n被动效果 - 闪避概率：+#er%" />
+    </imgdir>

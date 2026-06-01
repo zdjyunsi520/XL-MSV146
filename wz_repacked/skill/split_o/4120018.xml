@@ -1,0 +1,5 @@
+<imgdir name="4120018">
+        <string name="name" value="Night Lord&apos;s Mark" />
+        <string name="desc" value="Further enhances the Assassin&apos;s Mark, increasing the chance, damage and number of throwing stars that shoot out." />
+        <string name="h" value="Leave a mark on attack at #prop% chance. Attacking again will produce #bulletCount Throwing Stars to deal #damage% + #x% damage of player&apos;s level." />
+    </imgdir>

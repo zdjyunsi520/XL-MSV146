@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4131000">
+			<string name="name" value="单手剑锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作单手剑的说明"/>
+		</imgdir>
+    <imgdir name="4131001">
+			<string name="name" value="单手斧锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作单手斧的说明"/>
+		</imgdir>
+    <imgdir name="4131002">
+			<string name="name" value="单手钝器锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作单手钝器的说明"/>
+		</imgdir>
+    <imgdir name="4131003">
+			<string name="name" value="双手剑锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作双手剑的说明"/>
+		</imgdir>
+    <imgdir name="4131004">
+			<string name="name" value="双手斧锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作双手斧的说明"/>
+		</imgdir>
+    <imgdir name="4131005">
+			<string name="name" value="双手锤锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作双手钝器的说明"/>
+		</imgdir>
+    <imgdir name="4131006">
+			<string name="name" value="矛锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作矛的说明"/>
+		</imgdir>
+    <imgdir name="4131007">
+			<string name="name" value="长柄武器锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作长柄武器的说明"/>
+		</imgdir>
+    <imgdir name="4131008">
+			<string name="name" value="魔杖制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作魔杖的说明"/>
+		</imgdir>
+    <imgdir name="4131009">
+			<string name="name" value="法杖制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作法杖的说明"/>
+		</imgdir>
+    <imgdir name="4131010">
+			<string name="name" value="弓制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作弓的说明"/>
+		</imgdir>
+    <imgdir name="4131011">
+			<string name="name" value="弩制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作弩的说明"/>
+		</imgdir>
+    <imgdir name="4131012">
+			<string name="name" value="匕首锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作匕首的说明"/>
+		</imgdir>
+    <imgdir name="4131013">
+			<string name="name" value="爪制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作爪的说明"/>
+		</imgdir>
+    <imgdir name="4131014">
+			<string name="name" value="指节制作手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作指节的说明"/>
+		</imgdir>
+    <imgdir name="4131015">
+			<string name="name" value="枪锻造手册"/>
+			<string name="desc" value="一张旧纸，上面有如何制作枪的说明"/>
+		</imgdir>
+    <imgdir name="4131016">
+			<string name="name" value="短剑制作方法"/>
+			<string name="desc" value="一张旧纸，上面有如何制作短剑的说明"/>
+		</imgdir>
+    <imgdir name="4140000">
+			<string name="name" value="巧克力棒"/>
+			<string name="desc" value="看起来美味的巧克力蘸饼干棒"/>
+		</imgdir>
+    <imgdir name="4140100">
+			<string name="name" value="心形巧克力"/>
+			<string name="desc" value="装在心形盒子里的巧克力"/>
+		</imgdir>
+    <imgdir name="4140101">
+			<string name="name" value="白色情人节菠萝糖"/>
+			<string name="desc" value="美味的菠萝糖"/>
+		</imgdir>
+</imgdir>

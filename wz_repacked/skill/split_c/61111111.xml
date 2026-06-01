@@ -1,0 +1,5 @@
+<imgdir name="61111111">
+        <string name="name" value="翼之鼓动（变身状态）" />
+        <string name="desc" value="制造龙卷风攻击敌人，直到一定数量的怪物被消灭。龙卷风在一段距离或时间后会消散。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Chance to SlowAttacked Monsters: #prop%\n#cDissipates when certain # of attacks are made, set distance is traveled, or duration expires#." />
+    </imgdir>

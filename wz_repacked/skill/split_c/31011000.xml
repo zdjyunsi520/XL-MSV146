@@ -1,0 +1,5 @@
+<imgdir name="31011000">
+        <string name="name" value="超越：双重斩击" />
+        <string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。" />
+        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5900007">
+        <string name="name" value="暴击射击" />
+        <string name="desc" value="提升暴击率和最低暴击伤害。" />
+        <string name="h" value="Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

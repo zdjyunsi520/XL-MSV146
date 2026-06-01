@@ -1,0 +1,5 @@
+<imgdir name="42121001">
+        <string name="name" value="Orochi" />
+        <string name="desc" value="Summons the mighty Orochi to attack up to 15 enemies. " />
+        <string name="h" value="Mana Cost: #epCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\nCooldown: #cooltime sec" />
+    </imgdir>

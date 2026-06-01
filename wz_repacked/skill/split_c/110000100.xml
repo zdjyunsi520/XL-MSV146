@@ -1,0 +1,5 @@
+<imgdir name="110000100">
+        <string name="name" value="冰冻风暴" />
+        <string name="pdesc" value="用冰之力量爆发持续伤害敌人。冰冻量表充能至#c40以上#时可使用。\n[指令: #c↓→ + 攻击键#]" />
+        <string name="ph" value="冰冻量表消耗: #iceGageCon, 每#dotInterval秒造成#damage%伤害，持续#dotTime秒（最多#attackCount次），最大怪物数: #mobCount" />
+    </imgdir>

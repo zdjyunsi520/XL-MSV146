@@ -1,0 +1,5 @@
+<imgdir name="65121100">
+        <string name="name" value="天之咆哮" />
+        <string name="desc" value="释放埃斯卡尔德震撼灵魂的咆哮！" />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec. Soul Battery skill. Recharge Chance: #onActive%" />
+    </imgdir>

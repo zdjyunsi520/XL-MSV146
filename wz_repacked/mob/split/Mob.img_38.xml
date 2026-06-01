@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8500002">
+		<string name="name" value="Papulatus"/>
+	</imgdir>
+    <imgdir name="8500003">
+		<string name="name" value="Low Darkstar"/>
+	</imgdir>
+    <imgdir name="8500004">
+		<string name="name" value="High Darkstar"/>
+	</imgdir>
+    <imgdir name="8510000">
+		<string name="name" value="Pianus"/>
+	</imgdir>
+    <imgdir name="8510100">
+		<string name="name" value="Bloody Boom"/>
+	</imgdir>
+    <imgdir name="8520000">
+		<string name="name" value="Pianus"/>
+	</imgdir>
+    <imgdir name="8800000">
+		<string name="name" value="Zakum1"/>
+	</imgdir>
+    <imgdir name="8800001">
+		<string name="name" value="Zakum2"/>
+	</imgdir>
+    <imgdir name="8800002">
+		<string name="name" value="Zakum"/>
+	</imgdir>
+    <imgdir name="8800003">
+		<string name="name" value="Zakum's Arm 1"/>
+	</imgdir>
+    <imgdir name="8800004">
+		<string name="name" value="Zakum's Arm 2"/>
+	</imgdir>
+    <imgdir name="8800005">
+		<string name="name" value="Zakum's Arm 3"/>
+	</imgdir>
+    <imgdir name="8800006">
+		<string name="name" value="Zakum's Arm 4"/>
+	</imgdir>
+    <imgdir name="8800007">
+		<string name="name" value="Zakum's Arm 5"/>
+	</imgdir>
+    <imgdir name="8800008">
+		<string name="name" value="Zakum's Arm 6"/>
+	</imgdir>
+    <imgdir name="8800009">
+		<string name="name" value="Zakum's Arm 7"/>
+	</imgdir>
+    <imgdir name="8800010">
+		<string name="name" value="Zakum's Arm 8"/>
+	</imgdir>
+    <imgdir name="8810000">
+		<string name="name" value="Horntail's Left Head"/>
+	</imgdir>
+    <imgdir name="8810001">
+		<string name="name" value="Horntail's Right Head"/>
+	</imgdir>
+    <imgdir name="8810002">
+		<string name="name" value="Horntail's Head A"/>
+	</imgdir>
+</imgdir>

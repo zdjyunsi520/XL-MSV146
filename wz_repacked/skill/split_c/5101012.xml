@@ -1,0 +1,7 @@
+<imgdir name="5101012">
+        <string name="name" value="龙卷风上勾拳" />
+        <string name="desc" value="施展快速上勾拳产生狂野龙卷风攻击敌人。能量充满时，可制造更强力的能量漩涡飞得更远~" />
+        <string name="h" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+        <string name="pdesc" value="施展超级上勾拳，制造龙卷风攻击敌人~" />
+        <string name="ph" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+    </imgdir>

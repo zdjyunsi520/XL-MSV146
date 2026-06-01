@@ -1,0 +1,5 @@
+<imgdir name="15111020">
+        <string name="name" value="升龙踢" />
+        <string name="desc" value="以雷电之力向上翻腾踢击！之后可连接雷电技能。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+    </imgdir>

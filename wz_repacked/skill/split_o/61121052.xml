@@ -1,0 +1,5 @@
+<imgdir name="61121052">
+        <string name="name" value="Ancestral Prominence" />
+        <string name="desc" value="Summons an ancient Nova to cause an explosion that covers the entire screen in flames. This is the skill used by the former Kaiser to save the Nova people." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

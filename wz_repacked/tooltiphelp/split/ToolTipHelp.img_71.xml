@@ -1,0 +1,72 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="690000060">
+			<imgdir name="0">
+				<string name="Title" value="The Forest of Wisdom"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Monkey Forest II"/>
+			</imgdir>
+    <imgdir name="690000063">
+			<imgdir name="0">
+				<string name="Title" value="The Burnt Land II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land IV"/>
+			</imgdir>
+    <imgdir name="690000053">
+			<imgdir name="0">
+				<string name="Title" value="The Forest of Evil I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Monkey Forest I"/>
+			</imgdir>
+    <imgdir name="690000033">
+			<imgdir name="0">
+				<string name="Title" value="Stone plate of Boogi"/>
+				<string name="Desc" value="You will need to destroy the resource first before you defeated Boogi "/>
+			</imgdir>
+    <imgdir name="690000036">
+			<imgdir name="0">
+				<string name="Title" value="Henesys Hunting Ground III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Henesys Hunting Ground I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Henesys Hunting Ground III"/>
+			</imgdir>
+    <imgdir name="690000037">
+			<imgdir name="0">
+				<string name="Title" value="Hunting Ground in the Deep Forest I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Swampy Land in a Deep Forest (Towards Sleepywood)"/>
+			</imgdir>
+    <imgdir name="690000054">
+			<imgdir name="0">
+				<string name="Title" value="Lith Harbor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Thicket Around the Beach I (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="690000055">
+			<imgdir name="0">
+				<string name="Title" value="Henesys Hunting Ground II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Hill West of Henesys (Towards Lith Harbor/Kerning City)"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Henesys Hunting Ground II"/>
+			</imgdir>
+    <imgdir name="690000057">
+			<imgdir name="0">
+				<string name="Title" value="Deep Valley II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="The Burnt Land II"/>
+			</imgdir>
+</imgdir>

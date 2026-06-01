@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2432251">
+		<string name="name" value="狗头人麝香"/>
+		<string name="desc" value="这东西闻起来像狗头人。双击使用。"/>
+	</imgdir>
+    <imgdir name="2432252">
+		<string name="name" value="英雄大赛入场券"/>
+		<string name="desc" value="此优惠券允许你随时传送到英雄大赛预选地区。双击使用。"/>
+	</imgdir>
+    <imgdir name="2432256">
+		<string name="name" value="德雷克离开"/>
+		<string name="desc" value="一批德雷克碎片。这里可能有一些方便的挖掘工具。"/>
+	</imgdir>
+    <imgdir name="2432257">
+		<string name="name" value="第一钥匙碎片"/>
+		<string name="desc" value="特里斯坦之剑的第一块钥匙碎片。收集所需数量的碎片。"/>
+	</imgdir>
+    <imgdir name="2432258">
+		<string name="name" value="第二钥匙碎片"/>
+		<string name="desc" value="特里斯坦之剑的第二块钥匙碎片。收集所需数量的碎片。"/>
+	</imgdir>
+    <imgdir name="2432259">
+		<string name="name" value="第三钥匙碎片"/>
+		<string name="desc" value="特里斯坦之剑的第三块钥匙碎片。收集所需数量的碎片。"/>
+	</imgdir>
+    <imgdir name="2432261">
+		<string name="name" value="豪华精灵饵料"/>
+		<string name="desc" value="用于引诱爸爸精灵和精灵妈妈的优质饵料。在云之公园6使用。"/>
+	</imgdir>
+    <imgdir name="2500004">
+		<string name="name" value="动物SP重置卷轴（仅野兽控制师）"/>
+		<string name="desc" value="只有#c野兽控制师#可以使用此卷轴。允许你重置一个动物的SP。"/>
+	</imgdir>
+    <imgdir name="2432254">
+		<string name="name" value="现金物品分配假人"/>
+	</imgdir>
+    <imgdir name="2432253">
+		<string name="name" value="雪豹汁"/>
+		<string name="desc" value="这种特殊药水可以完全恢复你的HP。"/>
+	</imgdir>
+    <imgdir name="2432412">
+		<string name="name" value="永久圣诞老人雪橇坐骑优惠券"/>
+		<string name="desc" value="#c双击#获得#c圣诞老人雪橇#坐骑，永久有效。可以滑翔！"/>
+	</imgdir>
+    <imgdir name="2048908">
+		<string name="autodesc" value="\r\n#c成功率：100%#"/>
+		<string name="desc" value="将零式武器加入天照套装。"/>
+		<string name="name" value="天照幸运物品卷轴"/>
+	</imgdir>
+    <imgdir name="2432064">
+		<string name="desc" value="一箱用于纪念参与RED活动的稀有物品。\r\n#c双击#每天获得一件稀有物品。\r\n\r\n#c&lt;可用物品&gt;\n-60%混沌卷轴\n-60%奇迹混沌卷轴\n-50%善良混沌卷轴\n-50%无辜卷轴\n-10%白板卷轴\n-黄金觉醒印章\n-高级装备强化卷轴\n-红色防具强化卷轴\n-特殊潜能卷轴\n-魔法粉末（紫色）\n-原始精华\n-上级物品水晶"/>
+		<string name="name" value="红色宝藏箱"/>
+	</imgdir>
+    <imgdir name="2432429">
+		<string name="name" value="红色HOT日期盒子"/>
+		<string name="desc" value="卡西娜准备的惊喜盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2432430">
+		<string name="name" value="红色HOT日期盒子"/>
+		<string name="desc" value="卡西娜准备的惊喜盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2048909">
+		<string name="autodesc" value="\r\n#c成功率：50%#"/>
+		<string name="desc" value="将零式武器加入甜蜜之泉套装。"/>
+		<string name="name" value="甜蜜之泉幸运物品卷轴"/>
+	</imgdir>
+    <imgdir name="2432411">
+		<string name="name" value="暴击魔法技能手册优惠券"/>
+		<string name="desc" value="可用于兑换一个伊文暴击魔法技能手册的优惠券。"/>
+	</imgdir>
+    <imgdir name="2432255">
+		<string name="name" value="特里斯坦之剑"/>
+		<string name="desc" value="特里斯坦的旧剑。你在击败三伏特后得到了这个，但似乎有些不对劲...把它带给#c达格#。"/>
+	</imgdir>
+    <imgdir name="2432260">
+		<string name="name" value="米娜的放大镜"/>
+		<string name="desc" value="你为农庞·里昂得到的放大镜。每2分钟可以使用一次。先在埃莱娜使用。\r\n当所有放大镜用完后，伊卡会给米娜带更多来。"/>
+	</imgdir>
+    <imgdir name="2432262">
+		<string name="name" value="命运之轮"/>
+		<string name="desc" value="仅通过守护者之礼提供给#c野兽控制师#。"/>
+	</imgdir>
+</imgdir>

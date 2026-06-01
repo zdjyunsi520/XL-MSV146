@@ -1,0 +1,5 @@
+<imgdir name="1321015">
+        <string name="name" value="Sacrifice" />
+        <string name="desc" value="Absorbs your Evil Eye to restore HP. Allows you to ignore enemy defense and increases boss attack damage. Gungnir&apos;s Descent cooldown will not be applied. Additionally, increases #cIgnore Defense Effect permanently#." />
+        <string name="h" value="MP Cost: #mpCon, restores #y% of Max HP immediately upon casting, ignores #x% of enemy&apos;s Def for #time sec, Boss Attack Damage: +#indieBDR%, ignores Gungnir&apos;s Descent&apos;s cooldown\n[Passive Effect: #cIgnores monster&apos;s Defense rate by #ignoreMobpdpR%#]" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="15001003">
+        <string name="name" value="Dash" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Movement Speed: +#x, Jump: +#y, Additional Damage when using Triple Fire or Corkscrew Blow during the dash: #z%" />
+        <string name="desc" value="Double-tap the left or right arrow to perform a dash or jump dash. Also cancels all knockback. [Dash Activation: Arrow keys -&gt;-&gt; or &lt;-&lt;-] Use Corkscrew Blow or Triple Fire during the dash for additional damage." />
+    </imgdir>

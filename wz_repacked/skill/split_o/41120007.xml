@@ -1,0 +1,5 @@
+<imgdir name="41120007">
+        <string name="name" value="Bloodletter" />
+        <string name="desc" value="Increases the bleeding caused by Merciless Blade.\nRequired Skill: #cMerciless Blade Lv. 10 or higher#" />
+        <string name="h" value="Status Chance: #prop%, #dot% damage every #dotInterval sec, Duration: #dotTime sec" />
+    </imgdir>

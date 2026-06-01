@@ -1,0 +1,7 @@
+<imgdir name="4331005">
+        <string name="name" value="Flying Assaulter" />
+        <string name="desc" value="You descend diagonally from the air, slashing enemies within a certain range, with a chance to stun them. To use the skill, you must have at least #c120%# Jump.\nRequired Skill: #cLv. 20 Self Haste#\nLv.10 effect: Lv.20 Tornado Spin can be used with Lv.10 Bloody Storm\n#cLv.6 or above: Mastery Book required#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x2, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="You descend diagonally from the air, slashing enemies within a certain range, with a chance to stun them. To use the skill, you must have at least #c120# Jump.\nRequired Skill: #cLv. 20 Self Haste#\nLv.10 effect: Lv.20 Tornado Spin can be used with Lv.10 Bloody Storm\n#cLv.6 or above: Mastery Book required#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% x2, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

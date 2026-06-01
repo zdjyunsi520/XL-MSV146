@@ -1,0 +1,5 @@
+<imgdir name="42110008">
+        <string name="name" value="生命之祭" />
+        <string name="desc" value="用魔法消灭敌人后，恢复部分HP。" />
+        <string name="h" value="恢复量：消灭敌人后恢复最大HP的#x%" />
+    </imgdir>

@@ -1,0 +1,77 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390407">
+		<string name="name" value="维姬"/>
+		<string name="d0" value="(这应该能骗过所有人！)"/>
+		<string name="d1" value="(这应该能骗过所有人！)"/>
+	</imgdir>
+    <imgdir name="9390408">
+		<string name="name" value="克罗克"/>
+		<string name="d0" value="我会让你看看我的实力！"/>
+		<string name="d1" value="我会让你看看我的实力！"/>
+	</imgdir>
+    <imgdir name="9390409">
+		<string name="name" value="约翰尼"/>
+		<string name="d0" value="我不会输！"/>
+		<string name="d1" value="我不会输！"/>
+	</imgdir>
+    <imgdir name="9390410">
+		<string name="name" value="大头沃德"/>
+		<string name="d0" value="这把梳子让我保持强大。这是来自我王国的强大遗物！"/>
+		<string name="d1" value="这把梳子让我保持强大。这是来自我王国的强大遗物！"/>
+	</imgdir>
+    <imgdir name="9390411">
+		<string name="name" value="(虚拟)"/>
+	</imgdir>
+    <imgdir name="9390412">
+		<string name="name" value="(虚拟)"/>
+	</imgdir>
+    <imgdir name="9390413">
+		<string name="name" value="(虚拟)"/>
+	</imgdir>
+    <imgdir name="9390414">
+		<string name="name" value="(虚拟)"/>
+	</imgdir>
+    <imgdir name="9390415">
+		<string name="name" value="(虚拟)"/>
+	</imgdir>
+    <imgdir name="9390416">
+		<string name="name" value="未知元素"/>
+		<string name="d0" value="珍惜你的生命就滚开。"/>
+		<string name="d1" value="滚开！"/>
+	</imgdir>
+    <imgdir name="9390417">
+		<string name="name" value="阿卡利姆"/>
+	</imgdir>
+    <imgdir name="9390418">
+		<string name="name" value="炼金V"/>
+	</imgdir>
+    <imgdir name="9390419">
+		<string name="name" value="炼金V"/>
+	</imgdir>
+    <imgdir name="9390420">
+		<string name="name" value="共鸣意志力"/>
+	</imgdir>
+    <imgdir name="9390377">
+		<string name="name" value="炼金V"/>
+	</imgdir>
+    <imgdir name="9390378">
+		<string name="name" value="炼金V"/>
+	</imgdir>
+    <imgdir name="9390379">
+		<string name="name" value="艾佩克斯"/>
+	</imgdir>
+    <imgdir name="9390380">
+		<string name="name" value="山丘士兵"/>
+		<string name="d0" value="......."/>
+		<string name="d1" value="......."/>
+	</imgdir>
+    <imgdir name="9390421">
+		<string name="name" value="阿尼"/>
+	</imgdir>
+    <imgdir name="9390422">
+		<string name="name" value="斯塔林科"/>
+		<string name="func" value="英雄锦标赛解说员"/>
+		<string name="d0" value="哇！这场锦标赛是痛苦的龙卷风，统治的洪流！"/>
+		<string name="d1" value="哇！这场锦标赛是痛苦的龙卷风，统治的洪流！"/>
+	</imgdir>
+</imgdir>

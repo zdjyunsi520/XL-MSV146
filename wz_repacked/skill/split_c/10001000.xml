@@ -1,0 +1,7 @@
+<imgdir name="10001000">
+        <string name="name" value="蜗牛投掷" />
+        <string name="desc" value="[最高等级：3]\n远距离投掷蜗牛壳攻击怪物！" />
+        <string name="h1" value="MP -3; Damage 10" />
+        <string name="h2" value="MP -5; Damage 25" />
+        <string name="h3" value="MP -7; Damage 40" />
+    </imgdir>

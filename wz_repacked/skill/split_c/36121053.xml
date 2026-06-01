@@ -1,0 +1,5 @@
+<imgdir name="36121053">
+        <string name="name" value="缠绕之鞭" />
+        <string name="desc" value="用鞭刃缠绕敌人，解除所有增益并将多个敌人束缚在原地！抗性与制裁之盾共享。" />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Debuff: #prop%, Stun Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

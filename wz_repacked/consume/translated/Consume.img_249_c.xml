@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384043">
+		<string name="name" value="领袖B卡"/>
+		<string name="desc" value="以领袖B为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384058">
+		<string name="name" value="红色史莱姆卡"/>
+		<string name="desc" value="以红色史莱姆为主题的卡片。\n#c在2030新广州市狩猎时LUK+3"/>
+	</imgdir>
+    <imgdir name="2384059">
+		<string name="name" value="银色史莱姆卡"/>
+		<string name="desc" value="以银色史莱姆为主题的卡片。\n#c在2030新广州市狩猎时武器防御力+3"/>
+	</imgdir>
+    <imgdir name="2384060">
+		<string name="name" value="金色史莱姆卡"/>
+		<string name="desc" value="以金色史莱姆为主题的卡片。\n#c在2030新广州市狩猎时INT+3"/>
+	</imgdir>
+    <imgdir name="2384061">
+		<string name="name" value="Overlord A卡"/>
+		<string name="desc" value="以Overlord A为主题的卡片。\n#c在2099新广州市狩猎时DEX+3"/>
+	</imgdir>
+    <imgdir name="2384062">
+		<string name="name" value="Overlord B卡"/>
+		<string name="desc" value="以Overlord B为主题的卡片。\n#c在2099新广州市狩猎时STR+3"/>
+	</imgdir>
+    <imgdir name="2384063">
+		<string name="name" value="花鱼卡"/>
+		<string name="desc" value="以花鱼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384064">
+		<string name="name" value="Tweeter卡"/>
+		<string name="desc" value="以Tweeter为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384065">
+		<string name="name" value="机器人卡"/>
+		<string name="desc" value="以机器人为专题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384066">
+		<string name="name" value="Krip卡"/>
+		<string name="desc" value="以Krip为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384067">
+		<string name="name" value="Samiho卡"/>
+		<string name="desc" value="以Samiho为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384068">
+		<string name="name" value="石魔像卡"/>
+		<string name="desc" value="以石魔像为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384069">
+		<string name="name" value="高级机器人卡"/>
+		<string name="desc" value="以高级机器人为专题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384070">
+		<string name="name" value="面具鱼卡"/>
+		<string name="desc" value="以面具鱼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384071">
+		<string name="name" value="变异Blin卡"/>
+		<string name="desc" value="以变异Blin为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384072">
+		<string name="name" value="石魔像王卡"/>
+		<string name="desc" value="以石魔像王为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384073">
+		<string name="name" value="Barnard Gray卡"/>
+		<string name="desc" value="以Barnard Gray为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384074">
+		<string name="name" value="潜水Pepe卡"/>
+		<string name="desc" value="以潜水Pepe为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384075">
+		<string name="name" value="Mateon卡"/>
+		<string name="desc" value="以Mateon为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384076">
+		<string name="name" value="沙漠兔子(母)卡"/>
+		<string name="desc" value="以沙漠兔子(母)为主题的卡片。"/>
+	</imgdir>
+</imgdir>

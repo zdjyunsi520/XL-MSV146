@@ -1,0 +1,7 @@
+<imgdir name="15100004">
+        <string name="name" value="Energy Charge" />
+        <string name="desc" value="Charges energy after every attack. When your energy is fully charged, Accuracy, Attack, DEF, and Movement Speed increase. You also have a chance to activate a Stance that allows you to use energy-type skills. Energy charges twice as fast when attacking bosses." />
+        <string name="h" value="Energy charged at attack: #x, Duration: #time sec, Accuracy: +#acc, Weapon ATT: +#pad, Weapon/Magic DEF: +#pdd, Movement Speed: +#speed, Knock-back Resistance Rate: #prop%, Double energy charged when attacking bosses" />
+        <string name="pdesc" value="Charges energy after every attack. When your energy is fully charged, Accuracy, Attack, DEF, and Movement Speed increase. You also have a chance to activate a Stance that allows you to use energy-type skills." />
+        <string name="ph" value="Energy charged at attack: #x, Duration: #time sec, Accuracy: +#acc, Weapon ATT: +#pad, Weapon/Magic DEF: +#pdd, Movement Speed: +#speed, Knock-back Resistance Rate: #prop%, Double energy charged when attacking bosses" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="112110014">
+        <string name="name" value="极限机动" />
+        <string name="desc" value="提升鹰之模式的速度和速度上限。同时提升敏捷和回避值。" />
+        <string name="h" value="命中值: +#accX，回避值: +#evaX，移动速度: +#psdSpeed，跳跃力: +#psdJump。最大速度: +#speedMax" />
+    </imgdir>

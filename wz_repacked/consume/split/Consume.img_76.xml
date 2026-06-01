@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040042">
+		<string name="name" value="Scroll for Helmet for HP 100%"/>
+		<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:100%, MaxHP+15"/>
+	</imgdir>
+    <imgdir name="2040043">
+		<string name="name" value="Scroll for Helmet for DEX 65%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040044">
+		<string name="name" value="Scroll for Helmet for DEX 15%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040045">
+		<string name="name" value="Scroll for Helmet for DEF 50%"/>
+		<string name="desc" value="Improves helmet def.\nSuccess Rate:50%, weapon def.+5, magic def.+4"/>
+	</imgdir>
+    <imgdir name="2040046">
+		<string name="name" value="Scroll for Helmet for HP 50%"/>
+		<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:50%, MaxHP+35"/>
+	</imgdir>
+    <imgdir name="2040051">
+		<string name="name" value="Atatck Scroll for Time Traveler's Laurel"/>
+		<string name="desc" value="Improves Weapon Attack on Time Traveler's Laurel."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040100">
+		<string name="name" value="Scroll for Face Accessory for HP 10%"/>
+		<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:10%, MaxHP +30. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040101">
+		<string name="name" value="Scroll for Face Accessory for HP 60%"/>
+		<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:60%, MaxHP +15. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040102">
+		<string name="name" value="Scroll for Face Accessory for HP 100%"/>
+		<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:100%, MaxHP +5"/>
+	</imgdir>
+    <imgdir name="2040103">
+		<string name="name" value="Dark Scroll for Face Accessory for HP 30%"/>
+		<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:30%, MaxHP +30\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040104">
+		<string name="name" value="Dark Scroll for Face Accessory for HP 70%"/>
+		<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:70%, MaxHP +15 \nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040105">
+		<string name="name" value="Scroll for Face Accessory for Avoidability 10%"/>
+		<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:10%, Avoidability +2, DEX +2. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040106">
+		<string name="name" value="Scroll for Face Accessory for Avoidability 60%"/>
+		<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:60%, Avoidability +1, DEX +1. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040107">
+		<string name="name" value="Scroll for Face Accessory for Avoidability 100%"/>
+		<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:100%, Avoidability +1"/>
+	</imgdir>
+    <imgdir name="2040108">
+		<string name="name" value="Dark Scroll for Face Accessory for Avoidability 30%"/>
+		<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:30%, Avoidability +2, DEX +2 \nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040109">
+		<string name="name" value="Dark Scroll for Face Accessory for Avoidability 70%"/>
+		<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:70%, Avoidability +1, DEX +1 \nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040110">
+		<string name="name" value="Red-Nose STR Bandage 60%"/>
+		<string name="desc" value="Improves Strength on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040111">
+		<string name="name" value="Red-Nose DEX Bandage 60%"/>
+		<string name="desc" value="Improves Dexterity on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040112">
+		<string name="name" value="Red-Nose INT Bandage 60%"/>
+		<string name="desc" value="Improves Intelligence on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040113">
+		<string name="name" value="Red-Nose LUK Bandage 60%"/>
+		<string name="desc" value="Improves Luck on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +1\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004060">
+		<string name="name" value="Luck Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +3 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004061">
+		<string name="name" value="Luck Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +6 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004062">
+		<string name="name" value="Luck Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +9 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004063">
+		<string name="name" value="Luck Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +12 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004064">
+		<string name="name" value="Luck Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +15 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004065">
+		<string name="name" value="Luck Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +18 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004066">
+		<string name="name" value="Luck Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +21 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004067">
+		<string name="name" value="Luck Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +24 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004068">
+		<string name="name" value="Luck Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +27 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004069">
+		<string name="name" value="Luck Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +30 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004070">
+		<string name="name" value="Advanced Luck Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +3 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004071">
+		<string name="name" value="Advanced Luck Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +6 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004072">
+		<string name="name" value="Advanced Luck Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +9 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004073">
+		<string name="name" value="Advanced Luck Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +12 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004074">
+		<string name="name" value="Advanced Luck Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +15 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004075">
+		<string name="name" value="Advanced Luck Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +18 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004076">
+		<string name="name" value="Advanced Luck Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +21 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004077">
+		<string name="name" value="Advanced Luck Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +24 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004078">
+		<string name="name" value="Advanced Luck Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +27 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004079">
+		<string name="name" value="Advanced Luck Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nLUK +30 for 30 min."/>
+	</imgdir>
+</imgdir>

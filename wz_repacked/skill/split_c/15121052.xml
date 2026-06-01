@@ -1,0 +1,5 @@
+<imgdir name="15121052">
+        <string name="name" value="深海崛起" />
+        <string name="desc" value="召唤伟大的海神，对陆上的敌人造成伤害！" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount \n冷却时间：#cooltime秒" />
+    </imgdir>

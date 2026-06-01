@@ -1,0 +1,103 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046534">
+		<string name="name" value="防具强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046535">
+		<string name="name" value="狂战士防具强化卷轴 50%"/>
+		<string name="desc" value="强化防具的武器攻击和魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n失败时破坏物品概率：100%\r\n武器攻击：+1\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046536">
+		<string name="name" value="3x3防具强化卷轴 力量 30%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046537">
+		<string name="name" value="3x3防具强化卷轴 智力 30%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046538">
+		<string name="name" value="3x3防具强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046539">
+		<string name="name" value="3x3防具强化卷轴 幸运 30%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n幸运：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046552">
+		<string name="name" value="8周年防具强化卷轴 力量 20%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+4\r\n物理防御：+20\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046553">
+		<string name="name" value="8周年防具强化卷轴 智力 20%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n智力：+4\r\n物理防御：+10\r\n魔法防御：+20\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046554">
+		<string name="name" value="8周年防具强化卷轴 敏捷 20%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n敏捷：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046555">
+		<string name="name" value="8周年防具强化卷轴 幸运 20%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n幸运：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046556">
+		<string name="name" value="8周年防具强化卷轴 力量 40%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+4\r\n物理防御：+20\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046557">
+		<string name="name" value="8周年防具强化卷轴 智力 40%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n智力：+4\r\n物理防御：+10\r\n魔法防御：+20\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046558">
+		<string name="name" value="8周年防具强化卷轴 敏捷 40%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n敏捷：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046559">
+		<string name="name" value="8周年防具强化卷轴 幸运 40%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n幸运：+4\r\n物理防御：+10\r\n魔法防御：+10\r\n回避：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046560">
+		<string name="name" value="8周年防具强化卷轴 力量 70%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n物理防御：+10\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046561">
+		<string name="name" value="8周年防具强化卷轴 智力 70%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n物理防御：+5\r\n魔法防御：+10\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046562">
+		<string name="name" value="8周年防具强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n物理防御：+5\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046563">
+		<string name="name" value="8周年防具强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n物理防御：+5\r\n魔法防御：+5\r\n回避：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046564">
+		<string name="name" value="8周年防具强化卷轴 10%"/>
+		<string name="desc" value="强化防具的力量、智力、敏捷和幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n力量：+5\r\n智力：+5\r\n敏捷：+5\r\n幸运：+5\r\n#"/>
+		<imgdir name="property">
+		</imgdir>
+    <imgdir name="2046565">
+		<string name="name" value="8周年高级防具强化卷轴 力量 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+9\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,79 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530610">
+			<string name="name" value="妖精女王泰坦妮亚发型兑换券"/>
+			<string name="desc" value="双击此道具可获得妖精女王泰坦妮亚发型兑换券。"/>
+		</imgdir>
+    <imgdir name="5530611">
+			<string name="name" value="[30天] 浩洋标签戒指兑换券"/>
+			<string name="desc" value="双击此道具可获得[30天]浩洋标签戒指兑换券。"/>
+		</imgdir>
+    <imgdir name="5530612">
+			<string name="name" value="[30天] 浩洋聊天气泡戒指兑换券"/>
+			<string name="desc" value="双击此道具可获得[30天]浩洋聊天气泡戒指兑换券。"/>
+		</imgdir>
+    <imgdir name="5530613">
+			<string name="name" value="恐怖玩具椅"/>
+			<string name="desc" value="#c双击#此道具可获得一把#c恐怖玩具椅#。每10秒恢复50点HP和50点MP。"/>
+		</imgdir>
+    <imgdir name="5680157">
+			<string name="name" value="皇家冒险岛造型"/>
+			<string name="desc" value="#c双击此优惠券可从大头哥处获得一件随机商城道具#。其中一些#c每月特别商城装备#带有#c强大的附加属性#，如攻击力等。#c使用Nexon点数购买的皇家造型优惠券获得的商城道具#，在未使用的情况下可交换1次。\r\n\r\n#c双击优惠券道具#可预览内容。皇家造型优惠券按背包中存放的顺序使用。"/>
+		</imgdir>
+    <imgdir name="5680159">
+			<string name="name" value="皇家冒险岛造型"/>
+			<string name="desc" value="#c双击此优惠券可从大头哥处获得一件随机商城道具#。其中一些#c每月特别商城装备#带有#c强大的附加属性#，如攻击力等。#c使用Nexon点数购买的皇家造型优惠券获得的商城道具#，在未使用的情况下可交换1次。\r\n\r\n#c双击优惠券道具#可预览内容。皇家造型优惠券按背包中存放的顺序使用。"/>
+		</imgdir>
+    <imgdir name="5680166">
+			<string name="name" value="[1天] 亲情徽章"/>
+			<string name="desc" value="印有亲情守护者火焰封印的礼盒。双击可将#c[1天] 亲情戒指#赠送给他人。"/>
+		</imgdir>
+    <imgdir name="5680167">
+			<string name="name" value="[7天] 亲情徽章"/>
+			<string name="desc" value="印有亲情守护者火焰封印的礼盒。双击可将#c[7天] 亲情戒指#赠送给他人。"/>
+		</imgdir>
+    <imgdir name="5680168">
+			<string name="name" value="[1天] 亲情徽章"/>
+			<string name="desc" value="印有亲情守护者火焰封印的礼盒。双击可将#c[1天] 亲情戒指#赠送给他人。将戒指送给某人后去找光辉花吧！"/>
+		</imgdir>
+    <imgdir name="5680178">
+			<string name="name" value="2张宠物装备60%卷轴兑换券（攻击或魔攻）"/>
+			<string name="desc" value="使用后可获得宠物装备攻击力或魔法攻击力卷轴60%。"/>
+		</imgdir>
+    <imgdir name="5680179">
+			<string name="name" value="三倍1.5倍经验值兑换券"/>
+			<string name="desc" value="双击可获得一张1.5倍经验值优惠券。"/>
+		</imgdir>
+    <imgdir name="5680180">
+			<string name="name" value="9周年活动参与者礼盒"/>
+			<string name="desc" value="参加9周年活动获得的重要礼物。双击可获得一个黑色腰带和一张10000冒险岛点数兑换券。"/>
+		</imgdir>
+    <imgdir name="5680181">
+			<string name="name" value="9周年我和我的伙伴礼盒"/>
+			<string name="desc" value="9周年活动期间发放的特殊礼物。双击可获得一个白色腰带、精神吊坠（7天）和噩梦坐骑（30天）。"/>
+		</imgdir>
+    <imgdir name="5680182">
+			<string name="desc" value="使用此道具骑上[海盗大王囚犯坐骑]，可以进行二段跳。骑上后，#c双击世界地图上的位置#即可自动飞过去（自动飞行仅在维多利亚岛可用，部分区域不可用。飞行速度：极快）"/>
+			<string name="name" value="海盗大王囚犯坐骑7天兑换券"/>
+		</imgdir>
+    <imgdir name="5680183">
+			<string name="desc" value="使用此道具骑上[摇晃木马]，可以进行二段跳。骑上后，#c双击世界地图上的位置#即可自动飞过去（自动飞行仅在维多利亚岛可用，部分区域不可用。飞行速度：极快）"/>
+			<string name="name" value="摇晃木马30天兑换券"/>
+		</imgdir>
+    <imgdir name="5680184">
+			<string name="desc" value="使用此道具骑上[B612星球坐骑]，可以进行二段跳。骑上后，#c双击世界地图上的位置#即可自动飞过去。（部分区域不可用。飞行速度：极快）"/>
+			<string name="name" value="B612星球坐骑7天兑换券"/>
+		</imgdir>
+    <imgdir name="5680185">
+			<string name="desc" value="使用此道具骑上[B612星球坐骑]，可以进行二段跳。骑上后，#c双击世界地图上的位置#即可自动飞过去。（部分区域不可用。飞行速度：极快）"/>
+			<string name="name" value="B612星球坐骑30天兑换券"/>
+		</imgdir>
+    <imgdir name="5010116">
+			<string name="name" value="野兽驯兽师耳朵1"/>
+		</imgdir>
+    <imgdir name="5010117">
+			<string name="name" value="野兽驯兽师耳朵2"/>
+		</imgdir>
+    <imgdir name="5010118">
+			<string name="name" value="野兽驯兽师耳朵3"/>
+		</imgdir>
+	</imgdir>

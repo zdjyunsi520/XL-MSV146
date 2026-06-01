@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290676">
+		<string name="name" value="[Special Mastery Book] Party Shield 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cParty Shield# to 30.\nJob: Battle Mage (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290677">
+		<string name="name" value="[Special Mastery Book] Crossbow Expert 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCrossbow Expert# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290678">
+		<string name="name" value="[Special Mastery Book] Sharp Eyes 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSharp Eyes# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290679">
+		<string name="name" value="[Special Mastery Book] Wild Arrow Blast 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cWild Arrow Blast# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290680">
+		<string name="name" value="[Special Mastery Book] Sonic Roar 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSonic Roar# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290681">
+		<string name="name" value="[Special Mastery Book] Hunting Assistant Unit 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHunting Assistant Unit# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290682">
+		<string name="name" value="[Special Mastery Book] Advanced Final Attack 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cAdvanced Final Attack# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290683">
+		<string name="name" value="[Special Mastery Book] Giant Robot SG-88 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cGiant Robot SG-88# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290684">
+		<string name="name" value="[Special Mastery Book] Missile Tank 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMissile Tank# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290685">
+		<string name="name" value="[Special Mastery Book] Bots 'n Tots 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBots 'n Tots# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290686">
+		<string name="name" value="[Special Mastery Book] Amplifier Robot AF-11 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAmplifier Robot AF-11# to 20.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290687">
+		<string name="name" value="[Special Mastery Book] Laser Blast 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cLaser Blast# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290688">
+		<string name="name" value="[Special Mastery Book] Satellite Safety 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSatellite Safety# to 20.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290689">
+		<string name="name" value="[Mastery Book] Battle Rage 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattle Rage# to 20.\nJob: Battle Mage (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290690">
+		<string name="name" value="[Mastery Book] Battle Rage 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattle Rage# to 30.\nJob: Battle Mage (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290691">
+		<string name="name" value="[Special Mastery Book] Battle Rage 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBattle Rage# to 30.\nJob: Battle Mage (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290692">
+		<string name="name" value="[Special Mastery Book] Reflection 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cReflection# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290693">
+		<string name="name" value="[Special Mastery Book] Morning Star 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMorning Star# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290694">
+		<string name="name" value="[Special Mastery Book] Apocalypse 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cApocalypse# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290695">
+		<string name="name" value="[Special Mastery Book] Ender 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cEnder# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

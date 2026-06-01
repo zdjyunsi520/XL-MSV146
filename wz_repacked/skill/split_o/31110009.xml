@@ -1,0 +1,5 @@
+<imgdir name="31110009">
+        <string name="name" value="Max Fury" />
+        <string name="desc" value="Allows you to receive additional Fury when using Demon Slash, and recovers a fixed amount of Fury every 4 seconds." />
+        <string name="h" value="When using Demon Slash, #prop% chance of absorbing additional Fury. Automatically recovers #y Fury every 4 seconds." />
+    </imgdir>

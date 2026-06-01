@@ -1,0 +1,7 @@
+<imgdir name="12111006">
+        <string name="name" value="火焰打击" />
+        <string name="desc" value="向多个敌人投掷巨大的火球！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="向多个敌人投掷巨大的火球！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

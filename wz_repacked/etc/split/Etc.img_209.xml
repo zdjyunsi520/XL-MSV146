@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4440200">
+			<string name="name" value="Mighty Jewel B"/>
+			<string name="desc" value="Grant's pretty good Strength-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4440300">
+			<string name="name" value="Mighty Jewel C"/>
+			<string name="desc" value="Grant's basic Strength-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4441000">
+			<string name="name" value="Lucky Jewel S"/>
+			<string name="desc" value="Grant's superior Luck-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4441100">
+			<string name="name" value="Lucky Jewel A"/>
+			<string name="desc" value="Grant's great Lucky-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4441101">
+			<string name="name" value="Lucky Jewel A"/>
+			<string name="desc" value="Grant's great Lucky-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4441200">
+			<string name="name" value="Lucky Jewel B"/>
+			<string name="desc" value="Grant's pretty good Luck-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4441300">
+			<string name="name" value="Lucky Jewel C"/>
+			<string name="desc" value="Grant's basic Luck-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442000">
+			<string name="name" value="Keen Jewel S"/>
+			<string name="desc" value="Grant's superior Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442100">
+			<string name="name" value="Keen Jewel A"/>
+			<string name="desc" value="Grant's great Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442101">
+			<string name="name" value="Keen Jewel A"/>
+			<string name="desc" value="Grant's great Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442200">
+			<string name="name" value="Keen Jewel B"/>
+			<string name="desc" value="Grant's pretty good Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442300">
+			<string name="name" value="Keen Jewel C"/>
+			<string name="desc" value="Grant's basic Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443000">
+			<string name="name" value="Nimble Jewel S"/>
+			<string name="desc" value="Grant's superior Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443100">
+			<string name="name" value="Nimble Jewel A"/>
+			<string name="desc" value="Grant's great Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443101">
+			<string name="name" value="Nimble Jewel A"/>
+			<string name="desc" value="Grant's great Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443200">
+			<string name="name" value="Nimble Jewel B"/>
+			<string name="desc" value="Grant's better Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443300">
+			<string name="name" value="Nimble Jewel C"/>
+			<string name="desc" value="Grant's basic Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4450000">
+			<string name="name" value="Cash Shop 5% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450001">
+			<string name="name" value="Cash Shop 7% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+    <imgdir name="4450002">
+			<string name="name" value="Cash Shop 10% Off Coupon"/>
+			<string name="desc" value="The coupon can be used to get a cash item at a discounted price by clicking the Use Coupon botton in the Cash Shop.\n#cCannot be used for an item already discounted.\nCannot be used for an item under 500NX.#"/>
+		</imgdir>
+</imgdir>

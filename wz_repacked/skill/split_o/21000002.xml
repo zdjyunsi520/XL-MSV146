@@ -1,0 +1,7 @@
+<imgdir name="21000002">
+        <string name="name" value="Double Swing" />
+        <string name="desc" value="Press the attack key twice to deal a double attack on up to 8 enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="Press the attack key twice to deal a double attack on up to 6 enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 2" />
+    </imgdir>

@@ -1,0 +1,84 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431810">
+		<string name="name" value="Xenon Hot Day Gift Box 7/20"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431811">
+		<string name="name" value="Xenon Hot Day Gift Box 7/21"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431812">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 7/27"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431813">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 7/28"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431814">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/3"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431815">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/4"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431816">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/10"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431817">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/11"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431818">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/17"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431819">
+		<string name="name" value="Demon Avenger Hot Day Gift Box 8/18"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2431822">
+		<string name="name" value="Welcome Back Gift Box "/>
+		<string name="desc" value="A gift box for returning players. Contains: AP and SP Reset Scrolls (30 days), Hyper Teleport Rock (30 days), Safety Charm (30 days), Artisan Kaleido-Spinner Coupons, Monster Life Gem X7 Coupon, Pet Equipments, and a Pet."/>
+	</imgdir>
+    <imgdir name="2612014">
+		<string name="name" value="Pinnacle Scroll for Two-Handed Weapon for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic ATT and adds all stats on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2612013">
+		<string name="name" value="Unleashed Scroll for Two-Handed Weapon for Magic ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +5\r\nINT: +5\r\nDEX: +5\r\nLUK: +5\r\nMagic Attack +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2431839">
+		<string name="name" value="Canada Day Package"/>
+		<string name="desc" value="A gift box to commemorate Canada Day."/>
+	</imgdir>
+    <imgdir name="2431840">
+		<string name="name" value="USA Independence Day Package"/>
+		<string name="desc" value="A gift box to commemorate USA Independence Day."/>
+	</imgdir>
+    <imgdir name="2431841">
+		<string name="name" value="Peru Independence Day Package"/>
+		<string name="desc" value="A gift box to commemorate Peru Independence Day."/>
+	</imgdir>
+    <imgdir name="2431533">
+		<string name="name" value="Tot's Gift Box"/>
+		<string name="desc" value="Double-click to receive a Know-How Chair and Master of All Knowledge Medal."/>
+	</imgdir>
+    <imgdir name="2431958">
+		<string name="name" value="Hyper Teleport Rock Coupon"/>
+		<string name="desc" value="Double-click to receive the #cHyper Teleport Rock (7 Days)#."/>
+	</imgdir>
+    <imgdir name="2431997">
+		<string name="name" value="Red Dragon Adventure Pack"/>
+		<string name="desc" value="A box for new users.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2432035">
+		<string name="desc" value="A gift box to commemorate Levant Day."/>
+		<string name="name" value="Levant Day Package"/>
+	</imgdir>
+</imgdir>

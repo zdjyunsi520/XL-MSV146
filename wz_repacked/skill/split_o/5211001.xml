@@ -1,0 +1,7 @@
+<imgdir name="5211001">
+        <string name="name" value="Octopus" />
+        <string name="desc" value="Summons a loyal octopus that&apos;ll aid your attacks. The summoned octopus will not move." />
+        <string name="h" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons a loyal octopus that&apos;ll aid your attacks. The summoned octopus will not move." />
+        <string name="ph" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

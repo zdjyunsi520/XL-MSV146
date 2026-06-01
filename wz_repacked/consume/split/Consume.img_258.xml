@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2386064">
+		<string name="name" value="Dark Klock Card"/>
+		<string name="desc" value="A card that features Dark Klock."/>
+	</imgdir>
+    <imgdir name="2386065">
+		<string name="name" value="Buffoon Card"/>
+		<string name="desc" value="A card that features Buffoon.\n#cIf hunting at the lower levels of the ClocktowernSpeed +3#"/>
+	</imgdir>
+    <imgdir name="2387000">
+		<string name="name" value="Gatekeeper Card"/>
+		<string name="desc" value="A card that features Gatekeeper.\n#If hunting at the lower levels of the Clocktowern25% chance of breaking through monster's weapon defense#"/>
+	</imgdir>
+    <imgdir name="2387001">
+		<string name="name" value="Thanatos Card"/>
+		<string name="desc" value="A card that features Thanatosn#cIf hunting at the lower levels of the Clocktowern25% chance of breaking through monster's magic defense#"/>
+	</imgdir>
+    <imgdir name="2387002">
+		<string name="name" value="Skelegon Card"/>
+		<string name="desc" value="A card that features Skelegon.\n#cIf hunting at the Dragon ForestnAccuracy +6/Avoidability +6#"/>
+	</imgdir>
+    <imgdir name="2387003">
+		<string name="name" value="Skelosaurus Card"/>
+		<string name="desc" value="A card that features Skelosaurusn#cIf hunting at the Dragon Forestn20% chance of breaking through monster's weapon/magic defense#"/>
+	</imgdir>
+    <imgdir name="2387004">
+		<string name="name" value="Nest Golem Card"/>
+		<string name="desc" value="A card that features Nest Golem.\n#cIf hunting at the Dragon ForestnAccuracy +5"/>
+	</imgdir>
+    <imgdir name="2387005">
+		<string name="name" value="Samurai Armor Card"/>
+		<string name="desc" value="A card that features Samurai Armor.\n#cIt ignores Physical Resistance/Magic Resistance with a 20% rate when you hunt at Sakura Castle.#"/>
+	</imgdir>
+    <imgdir name="2387006">
+		<string name="name" value="Qualm Monk Card"/>
+		<string name="desc" value="A card with a picture of the Qualm Monk.\n#cWhen hunting on the Road of RegretsnEvasion rate +6#"/>
+	</imgdir>
+    <imgdir name="2387007">
+		<string name="name" value="Qualm Monk Trainee Card"/>
+		<string name="desc" value="A card with a picture of the Qualm Monk Trainee.\n#cWhen hunting on the Road of RegretsnAccuracy +6#"/>
+	</imgdir>
+    <imgdir name="2387008">
+		<string name="name" value="Qualm Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Qualm Guardian.\n#cWhen hunting on the Road of RegretsnJump +6#"/>
+	</imgdir>
+    <imgdir name="2387009">
+		<string name="name" value="Chief Qualm Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Chief Qualm Guardian.\n#cWhen hunting on the Road of RegretsnSpeed +6#"/>
+	</imgdir>
+    <imgdir name="2387010">
+		<string name="name" value="Oblivion Monk Card"/>
+		<string name="desc" value="A card with a picture of the Oblivion Monk.\n#cWhen hunting on the Road to OblivionnEvasion rate +6#"/>
+	</imgdir>
+    <imgdir name="2387011">
+		<string name="name" value="Oblivion Monk Trainee Card"/>
+		<string name="desc" value="A card with a picture of the Oblivion Monk Trainee.\n#cWhen hunting on the Road to OblivionnAccuracy +6#"/>
+	</imgdir>
+    <imgdir name="2387012">
+		<string name="name" value="Oblivion Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Oblivion Guardian.\n#cWhen hunting on the Road to OblivionnJump +6#"/>
+	</imgdir>
+    <imgdir name="2387013">
+		<string name="name" value="Chief Oblivion Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Chief Oblivion Guardian.\n#cWhen hunting on the Road to OblivionnSpeed +6#"/>
+	</imgdir>
+    <imgdir name="2387030">
+		<string name="name" value="Petrifighter Card"/>
+		<string name="desc" value="A card that features Petrifighter."/>
+	</imgdir>
+    <imgdir name="2387031">
+		<string name="name" value="Duku Card"/>
+		<string name="desc" value="A card that features Duku."/>
+	</imgdir>
+    <imgdir name="2387033">
+		<string name="name" value="Deep Buffoon Card"/>
+		<string name="desc" value="A card that features Deep Buffoon."/>
+	</imgdir>
+    <imgdir name="2387034">
+		<string name="name" value="Hankie Card"/>
+		<string name="desc" value="A card that features Hankie."/>
+	</imgdir>
+</imgdir>

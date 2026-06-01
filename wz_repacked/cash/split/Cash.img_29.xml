@@ -1,0 +1,81 @@
+<imgdir name="Cash.img">
+    <imgdir name="5220012">
+		<string name="name" value="Twin Dragon's Egg Incubator"/>
+		<string name="desc" value="An incubator specially designed for Twin Dragon's Eggs. Use it to obtain treasures."/>
+	</imgdir>
+    <imgdir name="5220016">
+		<string name="name" value="Small Holiday Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5220017">
+		<string name="name" value="Medium Holiday Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5220018">
+		<string name="name" value="Large Holiday Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5220020">
+		<string name="name" value="Gachapon for Net Cafe"/>
+	</imgdir>
+    <imgdir name="5220023">
+		<string name="name" value="Gachapon Ticket"/>
+		<string name="desc" value="This ticket will enable you to use Gachapon and obtain various items."/>
+	</imgdir>
+    <imgdir name="5220082">
+		<string name="name" value="Mount Gachapon Ticket"/>
+		<string name="desc" value="You can exchange this for 8 Gachapon Tickets if you visit The Great Gachapierrot in a town. "/>
+	</imgdir>
+    <imgdir name="5220083">
+		<string name="name" value="Starter Pack"/>
+		<string name="desc" value="A Starter Pack containing 4 fixed Familiars. Only one can be purchased per account.\r\nThis pack commemorates the introduction of Monster Familiars.\nContains 4 fixed Familiars: #c(Pig, Cloud Fox, Terrified Wild Boar and Red Drake# (Untradeable)\n#cOnly one can be purchased per account#\r\n"/>
+	</imgdir>
+    <imgdir name="5220084">
+		<string name="name" value="Booster Pack"/>
+		<string name="desc" value="A pack that gives out 3 random Familiars total: 2 common and 1 uncommon or better.\r\n\n#cThe contents are determined by the system, and a Rare item is not always given. The chances of obtaining better items are not affected by the amount purchased. #"/>
+	</imgdir>
+    <imgdir name="5220092">
+		<string name="name" value="Legendary Booster Pack"/>
+		<string name="desc" value="This booster pack gives out 3 Rare or higher Familiars. \nLevel: Contains 3 Rare Familiars - one below Lv. 50, one below Lv. 100, and one Lv. 100 or higher. There is a small chance that a Lv. 1 - 200 Legendary Familiar might come out instead of the Lv. 100 or higher Rare Familiar. \nRank: 1 Normal, 1 Normal or Special, and 1 Special or better. \n#cYou will receive a Volatile Legends Familiar Stamp upon using the item. Collect 20 of them to receive a Volatile Familiar Ticket that will allow you to get a Legendary Familiar. #The contents are determined by the system, and a Rare item is not always given. The chances of obtaining better items are not affected by the amount purchased."/>
+	</imgdir>
+    <imgdir name="5220094">
+		<string name="name" value="Nebulite Gachapon Ticket"/>
+		<string name="desc" value="You can exchange this for 1 Gachapon Tickets if you visit The Great Gachapierrot in a town."/>
+	</imgdir>
+    <imgdir name="5220097">
+		<string name="name" value="Chair Gachapon Ticket"/>
+		<string name="desc" value="This ticket will enable you to use the Chair Gachapon by speaking with The Great Gachapierrot to obtain various chair items. "/>
+	</imgdir>
+    <imgdir name="5220098">
+		<string name="name" value="Nebulite Gachapon Ticket"/>
+		<string name="desc" value="Give this ticket to The Great Gachapierrot in New Leaf City to receive a random Nebulite."/>
+	</imgdir>
+    <imgdir name="5220099">
+		<string name="name" value="Mount Gachapon Ticket"/>
+		<string name="desc" value="This ticket will enable you to use the Mount Gachapon by speaking with The Great Gachapierrot to obtain various mount items. "/>
+	</imgdir>
+    <imgdir name="5220100">
+		<string name="name" value="Powergacha Ticket"/>
+		<string name="desc" value="This ticket will enable you to use Powergacha Ticket by speaking with The Great Gachapierrot to obtain various items. "/>
+	</imgdir>
+    <imgdir name="5221000">
+		<string name="name" value="Free Ticket"/>
+		<string name="desc" value="This ticket allows you to shop certain items  in the cash shop regardless of  price."/>
+	</imgdir>
+    <imgdir name="5221001">
+		<string name="name" value="Enchanted Scroll"/>
+		<string name="desc" value="A scroll that has the magic power to release the seal on the Miwok Artifact. The scroll is written in ancient tribal language, so you need NPC Toh Reliseeker's help if you wish to use it."/>
+	</imgdir>
+    <imgdir name="5222000">
+		<string name="name" value="Premium Cash Shop Surprise"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! After purchasing this item, open the box by double-clicking it in the Cash Inventory. Please keep in mind that you'll only be able to open the box in the Cash Inventory."/>
+	</imgdir>
+    <imgdir name="5222006">
+		<string name="name" value="Surprise Style Box"/>
+		<string name="desc" value="This box will give you one random Equip item. If you don't like the item you can trade it to someone else!"/>
+	</imgdir>
+    <imgdir name="5222007">
+		<string name="name" value="Mystical Surprise Style Box"/>
+		<string name="desc" value="A box imbued with mysterious powers. Inside, you'll find a surprise decorative item for your character."/>
+	</imgdir>
+</imgdir>

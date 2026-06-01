@@ -1,0 +1,65 @@
+<imgdir name="Npc.img">
+    <imgdir name="3000130">
+		<string name="name" value="Reaper Specter"/>
+	</imgdir>
+    <imgdir name="3000131">
+		<string name="name" value="Magnus"/>
+		<string name="func" value="Exile"/>
+	</imgdir>
+    <imgdir name="3000132">
+		<string name="name" value="Eskalade"/>
+	</imgdir>
+    <imgdir name="3000133">
+		<string name="name" value="Hologram Man"/>
+	</imgdir>
+    <imgdir name="3000134">
+		<string name="name" value="Specter Battle Hound"/>
+	</imgdir>
+    <imgdir name="3000135">
+		<string name="name" value="Specter Battle Hound"/>
+	</imgdir>
+    <imgdir name="3000136">
+		<string name="name" value="Specter Battle Hound"/>
+	</imgdir>
+    <imgdir name="3000137">
+		<string name="name" value="Specter Battle Hound"/>
+	</imgdir>
+    <imgdir name="3000138">
+		<string name="name" value="Magnus"/>
+		<string name="func" value="Tyrant"/>
+	</imgdir>
+    <imgdir name="3000139">
+		<string name="name" value="Tear"/>
+	</imgdir>
+    <imgdir name="3000140">
+		<string name="name" value="Kyle"/>
+	</imgdir>
+    <imgdir name="3000141">
+		<string name="name" value="Kyle"/>
+	</imgdir>
+    <imgdir name="3000142">
+		<string name="name" value="Kyle"/>
+	</imgdir>
+    <imgdir name="3000143">
+		<string name="name" value="Kaiser"/>
+	</imgdir>
+    <imgdir name="3000144">
+		<string name="name" value="Velderoth"/>
+	</imgdir>
+    <imgdir name="3000145">
+		<string name="name" value="Heretic Priest 2"/>
+	</imgdir>
+    <imgdir name="3000146">
+		<string name="name" value="Heretic Priest 3"/>
+	</imgdir>
+    <imgdir name="3000147">
+		<string name="name" value="Heretic Priest 3"/>
+	</imgdir>
+    <imgdir name="3000148">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Black Wing Boss"/>
+	</imgdir>
+    <imgdir name="3000149">
+		<string name="name" value="Kaiser"/>
+	</imgdir>
+</imgdir>

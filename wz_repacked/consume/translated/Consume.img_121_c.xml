@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046062">
+		<string name="name" value="阿兹旺单手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c使用4个可用升级插槽\r\n成功率：40%\r\n武器攻击：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046063">
+		<string name="name" value="阿兹旺单手武器强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：30%\r\n武器攻击：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046064">
+		<string name="name" value="阿兹旺单手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c使用6个可用升级插槽\r\n成功率：20%\r\n武器攻击：+12\r\n#"/>
+	</imgdir>
+    <imgdir name="2046065">
+		<string name="name" value="阿兹旺单手武器强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c使用2个可用升级插槽\r\n成功率：60%\r\n魔法攻击：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046066">
+		<string name="name" value="阿兹旺单手武器强化卷轴 魔法攻击 50%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c使用3个可用升级插槽\r\n成功率：50%\r\n魔法攻击：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046067">
+		<string name="name" value="阿兹旺单手武器强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c使用4个可用升级插槽\r\n成功率：40%\r\n魔法攻击：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046068">
+		<string name="name" value="阿兹旺单手武器强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：30%\r\n魔法攻击：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046069">
+		<string name="name" value="阿兹旺单手武器强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c使用6个可用升级插槽\r\n成功率：20%\r\n魔法攻击：+12\r\n#"/>
+	</imgdir>
+    <imgdir name="2046070">
+		<string name="name" value="寂静远征单手武器强化卷轴 攻击"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n武器攻击+2\r\n命中：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2046071">
+		<string name="name" value="寂静远征单手武器强化卷轴 魔法攻击"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n魔法攻击+2\r\n命中：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2046072">
+		<string name="name" value="亡灵法师单手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化亡灵法师单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：50%\r\n武器攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046073">
+		<string name="name" value="亡灵法师单手武器强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化亡灵法师单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n失败时破坏物品概率：50%\r\n魔法攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046076">
+		<string name="name" value="3x3单手武器强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n武器攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046077">
+		<string name="name" value="3x3单手武器强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n魔法攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046957">
+		<string name="name" value="传说单手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n敏捷：+1\r\n武器攻击：+2\r\n命中：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046084">
+		<string name="name" value="战士单手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n敏捷：+1\r\n武器攻击：+2\r\n命中：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046085">
+		<string name="name" value="8周年单手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046086">
+		<string name="name" value="8周年单手武器强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n魔法攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046087">
+		<string name="name" value="8周年单手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046088">
+		<string name="name" value="8周年单手武器强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n魔法攻击：+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+</imgdir>

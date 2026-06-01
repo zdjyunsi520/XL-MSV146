@@ -1,0 +1,5 @@
+<imgdir name="27110007">
+        <string name="name" value="月之潮汐" />
+        <string name="desc" value="根据你的HP和MP状态，提升暴击率或攻击力。" />
+        <string name="h" value="When MP is greater than HP, damage increases by #x%. When MP lower than HP, Critical Rate increases by #prop%." />
+    </imgdir>

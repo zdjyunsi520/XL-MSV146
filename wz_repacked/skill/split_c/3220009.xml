@@ -1,0 +1,5 @@
+<imgdir name="3220009">
+        <string name="name" value="神射手" />
+        <string name="desc" value="攻击时无视部分敌人防御。永久提升命中率。" />
+        <string name="h" value="DEF Ignored: #ignoreMobpdpR%, Accuracy: +#ar%" />
+    </imgdir>

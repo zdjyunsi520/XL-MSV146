@@ -1,0 +1,8 @@
+<imgdir name="24121003">
+        <string name="name" value="Penombre" />
+        <string name="desc" value="Leaps back and throws a powerful card attack. \nLink with Rapier Wit to reduce post-attack downtime. Permanently increases Rapier Wit&apos;s damage." />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Rapier Wit Damage: +#damR%" />
+        <string name="pdesc" value="Leaps back and throws a powerful card attack. \nLink with Rapier Wit to reduce post-attack downtime. Permanently increases Rapier Wit&apos;s damage." />
+        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Rapier Wit Damage: +#damR%" />
+        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #v%, Max Enemies Hit: #x, Number of Attacks: #w\nPassive Effects - Phantom Charge Damage: +#damR%\nCooldown: #hcCooltime sec" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022798">
+		<string name="name" value="拿铁咖啡"/>
+		<string name="desc" value="这很像咖啡，但喝起来让你感觉很时髦。"/>
+	</imgdir>
+    <imgdir name="2022799">
+		<string name="name" value="特级古龙水"/>
+		<string name="desc" value="一种强烈甜蜜的香味，可以掩盖你自然的汗水和怪物残渣的气味。"/>
+	</imgdir>
+    <imgdir name="2022814">
+		<string name="name" value="营养鸡腿 Lv.1"/>
+		<string name="desc" value="适用于30级或以下！享用美味鸡腿，增强力量。武器/魔法攻击+20、HP/MP+300、速度+20，持续30分钟。可以与其他buff叠加，但营养鸡腿除外。"/>
+	</imgdir>
+    <imgdir name="2022815">
+		<string name="name" value="营养鸡腿 Lv.2"/>
+		<string name="desc" value="适用于31级至70级！享用美味鸡腿，增强力量。武器/魔法攻击+30、HP/MP+500、速度+20，持续30分钟。可以与其他buff叠加，但营养鸡腿除外。"/>
+	</imgdir>
+    <imgdir name="2022816">
+		<string name="name" value="营养鸡腿 Lv.3"/>
+		<string name="desc" value="适用于71级或以上！享用美味鸡腿，增强力量。武器/魔法攻击+40、HP/MP+800、速度+20，持续30分钟。可以与其他buff叠加，但营养鸡腿除外。"/>
+	</imgdir>
+    <imgdir name="2022818">
+		<string name="name" value="祝贺冒险岛3000天"/>
+		<string name="desc" value="庆祝冒险岛3000天的buff。攻击和魔法攻击各增加30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022819">
+		<string name="name" value="传说Awards buff Lv.1"/>
+		<string name="desc" value="HP+500，武器/魔法防御+100，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022820">
+		<string name="name" value="传说Awards buff Lv.2"/>
+		<string name="desc" value="HP+1000，武器/魔法防御+200，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022821">
+		<string name="name" value="传说Awards buff Lv.3"/>
+		<string name="desc" value="HP+1500，武器/魔法防御+300，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022822">
+		<string name="name" value="传说Awards！"/>
+		<string name="desc" value="庆祝传说Awards的buff。武器/魔法攻击+20、速度+20、跳跃+10，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022823">
+		<string name="name" value="白色天使祝福"/>
+		<string name="desc" value="大天使的祝福赐予你武器/魔法攻击+12。其他武器/魔法buff可以与此叠加。"/>
+	</imgdir>
+    <imgdir name="2022827">
+		<string name="name" value="怪物清理 Lv.1"/>
+		<string name="desc" value="你帮助开发了怪物清理设备，享受了一些和平与安宁。HP+100、武器/魔法攻击+10、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022828">
+		<string name="name" value="怪物清理 Lv.2"/>
+		<string name="desc" value="你帮助开发了怪物清理设备，享受了一些和平与安宁。HP+200、武器/魔法攻击+20、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022829">
+		<string name="name" value="怪物清理 Lv.3"/>
+		<string name="desc" value="你帮助开发了怪物清理设备，享受了一些和平与安宁。HP+400、武器/魔法攻击+30、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022845">
+		<string name="name" value="传奇枫树 Lv. 1"/>
+		<string name="desc" value="灌注了传奇枫树的能量。攻击/魔法攻击增加10、最大HP/最大MP增加100、移动速度增加20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022846">
+		<string name="name" value="传奇枫树 Lv. 2"/>
+		<string name="desc" value="灌注了传奇枫树的能量。攻击/魔法攻击增加20、最大HP/最大MP增加200、移动速度增加20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022847">
+		<string name="name" value="传奇枫树 Lv. 3"/>
+		<string name="desc" value="灌注了传奇枫树的能量。攻击/魔法攻击增加30、最大HP/最大MP增加400、移动速度增加20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022848">
+		<string name="name" value="初恋记忆 1"/>
+		<string name="desc" value="让你心跳加速的甜蜜爱情记忆！武器/魔法攻击+20、HP+500、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022849">
+		<string name="name" value="初恋记忆 2"/>
+		<string name="desc" value="让你心跳加速的甜蜜爱情记忆！武器/魔法攻击+30、HP+1000、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2022850">
+		<string name="name" value="初恋记忆 3"/>
+		<string name="desc" value="让你心跳加速的甜蜜爱情记忆！武器/魔法攻击+40、HP+1500、速度+10，持续30分钟。可以与其他buff叠加。"/>
+	</imgdir>
+</imgdir>

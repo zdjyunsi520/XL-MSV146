@@ -1,0 +1,164 @@
+<imgdir name="Npc.img">
+    <imgdir name="1012008">
+		<string name="name" value="Casey"/>
+		<string name="func" value="小游戏大师"/>
+		<string name="n0" value="狩猎累了？来玩个小游戏怎么样？"/>
+		<string name="n1" value="仍然未尝败绩...我是小游戏大师..."/>
+	</imgdir>
+    <imgdir name="1012100">
+		<string name="name" value="Athena Pierce"/>
+		<string name="func" value="弓箭手导师"/>
+		<string name="n0" value="你想成为弓箭手吗？"/>
+		<string name="d0" value="想要成为弓箭手的人...请上前..."/>
+		<string name="d1" value="想要成为弓箭手的人...请上前..."/>
+	</imgdir>
+    <imgdir name="1012101">
+		<string name="name" value="Maya"/>
+		<string name="n0" value="*咳嗽，咳嗽...*"/>
+		<string name="d0" value="*咳嗽...咳嗽...* 啊...我的头...有人能帮帮我吗...?"/>
+		<string name="d1" value="谢谢你之前的帮助。我感觉好多了。"/>
+		<imgdir name="dialogue">
+			<string name="22522" value="嘿...非常感谢你之前的帮助，Evan。"/>
+			<string name="22557" value="我听说你救了Camila！我太惊讶了！你真的变强了，Evan..."/>
+		</imgdir>
+    <imgdir name="1012102">
+		<string name="name" value="Pia"/>
+		<string name="n0" value="我想做点什么..."/>
+		<string name="n1" value="啊啊...它要吃掉我了！"/>
+		<string name="n2" value="啊...我喜欢...好舒服..."/>
+		<string name="d0" value="啊！它真的让我受不了了！#o2220100#...哦...你是陌生人吗？"/>
+		<string name="d1" value="谢谢你上次。现在#o2220100#快要灭绝了。那个卷轴怎么样？"/>
+		<imgdir name="dialogue">
+			<string name="22510" value="哦！我太生气了！那些#o2220100#！它们要倒霉了！嗯...Evan？什么风把你吹到这了？跑腿吗？"/>
+			<string name="22557" value="好久不见，Evan。我听说你一直在忙。你是怎么变得这么强的？"/>
+		</imgdir>
+    <imgdir name="1012104">
+		<string name="name" value="Brittany"/>
+		<string name="func" value="美发店助理"/>
+		<string name="n0" value="我是助理Brittany。我负责染发..."/>
+		<string name="n1" value="老板Natalie是我妈妈。"/>
+	</imgdir>
+    <imgdir name="1012105">
+		<string name="name" value="Tan女士"/>
+		<string name="func" value="皮肤科医生"/>
+		<string name="n0" value="这些天，每个人都想把皮肤晒成古铜色..."/>
+		<string name="n1" value="没有什么比健康的小麦色皮肤更棒的了。你觉得呢？你不想和我一样晒成古铜色吗？"/>
+		<string name="n2" value="偶尔会有人想要白皙干净的皮肤。那也可以。"/>
+		<string name="d0" value="独特即魅力。你不想更出众一点吗？"/>
+		<string name="d1" value="哦...那是个不错的外表。"/>
+	</imgdir>
+    <imgdir name="1012106">
+		<string name="name" value="Ming Ming夫人"/>
+		<string name="s0" value="我的烹饪一定能赢得大会的奖杯！"/>
+		<string name="s1" value="嗯...现在...我需要更多配料..."/>
+		<string name="s2" value="会很棒的...我保证..."/>
+		<string name="d0" value="我们没有足够的人手。我们应该找外地人来帮忙..."/>
+		<string name="d1" value="谢谢你帮忙。这样我们就可以准备大会了。"/>
+		<imgdir name="dialogue">
+			<string name="22510" value="哦，嗨...Evan？什么风把你吹来了？Anna怎么样？如果你妈妈能来帮忙准备大会就好了..."/>
+			<string name="22557" value="谁能想到Evan会救出Camila呢？Anna一定很骄傲！"/>
+		</imgdir>
+    <imgdir name="1012107">
+		<string name="name" value="Utah"/>
+		<string name="s0" value="喂完猪后我该做什么？"/>
+		<string name="s1" value="今天是我的生日...可能会有什么好事发生在我身上"/>
+		<string name="s2" value="嗯...喂完猪后我应该去找Camilla..."/>
+		<string name="d0" value="嗨。欢迎来到我的农场。"/>
+		<string name="d1" value="我得赶紧回去找Camila了。如果你往左走可以离开农场。"/>
+		<imgdir name="dialogue">
+			<string name="22100" value="Evan？你在这里做什么？什么？你是因为Camila来的？"/>
+			<string name="22557" value="Evan，怎么了？为什么你像个冒险家一样到处跑而不回家？我是说，我们都挺好的，但你应该时不时回家看看！"/>
+		</imgdir>
+    <imgdir name="1012108">
+		<string name="name" value="Camila"/>
+		<string name="s0" value="今天是Utah的生日。我应该给他一个生日礼物。"/>
+		<string name="s1" value="我不喜欢生气的丝带猪。"/>
+		<string name="s2" value="如果我不给他买礼物，Utah会失望的。"/>
+		<string name="d0" value="嘿！我是Camila。"/>
+		<string name="d1" value="啊，你就是那天帮助我的人。再次谢谢你！"/>
+		<imgdir name="dialogue">
+			<string name="22000" value="Evan？好久没在城里见到你了。Utah怎么样？你们一定很忙...你再也不来了！"/>
+			<string name="22557" value="哇...石傀儡好可怕。我再也不想见到另一个石傀儡了..."/>
+		</imgdir>
+    <imgdir name="1012109">
+		<string name="name" value="Jay"/>
+		<string name="s0" value="我必须好好保管枫叶史书。它包含很多重要信息，你懂吗！"/>
+		<string name="s1" value="我真希望弓箭手村能保持和平。我在这里长大的！"/>
+		<string name="d0" value="我真的喜欢这里。我的目标是把弓箭手村建设得更好。"/>
+		<string name="d1" value="你帮我找回了丢失的史书。你的善行将被世代铭记！"/>
+		<imgdir name="dialogue">
+			<string name="22000" value="嘿，Evan！什么风把你吹来了？我希望你和Alex还有我能很快一起玩..."/>
+			<string name="22534" value="什么？Alex说我穿得像个书呆子？嘿嘿。嗯，我不怎么出门。我喜欢舒服的感觉。"/>
+			<string name="22557" value="我听说你从石傀儡手中救了Camila。Evan，我真的为你骄傲！"/>
+		</imgdir>
+    <imgdir name="1012111">
+		<string name="name" value="Bruce"/>
+		<string name="s0" value="有时候通过研究怪物可以学到惊人的东西。"/>
+		<string name="s1" value="我是一个研究动物和怪物的学者。"/>
+		<string name="d0" value="我叫Bruce。"/>
+		<string name="d1" value="你就是那天帮助我的人。你好吗？"/>
+	</imgdir>
+    <imgdir name="1012112">
+		<string name="name" value="Tory"/>
+		<string name="func" value="月亮兔子的年糕"/>
+		<string name="s0" value="当满月的时候，就像今天，我们兔子开始敲打..."/>
+		<string name="s1" value="做年糕的话，没人比得上月亮兔子。"/>
+		<string name="d0" value="你好，我是Tory。"/>
+		<string name="d1" value="我好无聊。你有什么有趣的事做吗？"/>
+	</imgdir>
+    <imgdir name="1012113">
+		<string name="name" value="Tommy"/>
+		<string name="s0" value="你好！我是Tommy。"/>
+		<string name="s1" value="你吃过月亮兔子做的年糕吗？"/>
+		<string name="d0" value="你好，我是Tommy。"/>
+		<string name="d1" value="我想尝尝月亮兔子的年糕..."/>
+	</imgdir>
+    <imgdir name="1012114">
+		<string name="name" value="Growlie"/>
+		<string name="s0" value="如果你给我带一个那种美味的年糕来，我就不会吃掉你！"/>
+		<string name="s1" value="做年糕的话，没人比得上月亮兔子。"/>
+	</imgdir>
+    <imgdir name="1012117">
+		<string name="name" value="大头守卫"/>
+		<string name="func" value="王子"/>
+		<string name="n0" value="实际上，我是大头国的王子。"/>
+		<string name="n1" value="即使你的头很大也不需要额外费用！"/>
+		<string name="d0" value="大头国？那是一个神奇的地方，那里头最大的人最漂亮。"/>
+		<string name="d1" value="你会在大头国过得很开心的。"/>
+	</imgdir>
+    <imgdir name="1020000">
+		<string name="name" value="Blackbull"/>
+		<string name="n0" value="以前没见过你...在这附近最好小心点。"/>
+		<string name="n1" value="别担心，你不用怕我们。"/>
+		<string name="n2" value="你不喜欢我的头发吗？它在城里很流行。"/>
+		<string name="d0" value="我们家又添了新成员，我得加盖房子，但我需要很多材料来做到..."/>
+		<string name="d1" value="嘿，是你！多亏了你，给我表亲们盖房子的事进展顺利。完工后你应该来看看。"/>
+	</imgdir>
+    <imgdir name="1021000">
+		<string name="name" value="River"/>
+		<string name="func" value="武器商"/>
+		<string name="n0" value="便宜！太便宜了！"/>
+		<string name="n1" value="过来看看！哈哈哈！"/>
+	</imgdir>
+    <imgdir name="1021001">
+		<string name="name" value="Harry"/>
+		<string name="func" value="防具商"/>
+		<string name="n0" value="让我看看...我准备好了！"/>
+		<string name="n1" value="大家好！我这里有些非常好的货！"/>
+		<string name="n2" value="我绝不会放过想偷我东西的小偷。"/>
+	</imgdir>
+    <imgdir name="1021100">
+		<string name="name" value="Arturo"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="这是我自己做的药水！"/>
+		<string name="n1" value="嘿，你！这里不准偷东西..."/>
+	</imgdir>
+    <imgdir name="1022000">
+		<string name="name" value="与石板象共舞"/>
+		<string name="func" value="战士导师"/>
+		<string name="n0" value="你想成为战士吗？"/>
+		<string name="n1" value="想要成为战士的人，来找我..."/>
+		<string name="d0" value="想要成为战士的人，来找我..."/>
+		<string name="d1" value="想要成为战士的人，来找我..."/>
+	</imgdir>
+</imgdir>

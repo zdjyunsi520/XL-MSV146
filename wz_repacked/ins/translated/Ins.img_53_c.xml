@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3800361">
+		<string name="name" value="棒球帽 - 狮子队"/>
+		<string name="desc" value="为狮子队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800362">
+		<string name="name" value="棒球帽 - 巨人队"/>
+		<string name="desc" value="为巨人队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800363">
+		<string name="name" value="棒球帽 - 英雄队"/>
+		<string name="desc" value="为英雄队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800364">
+		<string name="name" value="棒球帽 - 虎队"/>
+		<string name="desc" value="为虎队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800365">
+		<string name="name" value="棒球帽 - 双子队"/>
+		<string name="desc" value="为双子队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800366">
+		<string name="name" value="棒球帽 - 鹰队"/>
+		<string name="desc" value="为鹰队加油的帽子。"/>
+	</imgdir>
+    <imgdir name="3800367">
+		<string name="name" value="枫之谷吉祥物娃娃"/>
+		<string name="desc" value="枫之谷吉祥物娃娃。\n收集全部4个！"/>
+	</imgdir>
+    <imgdir name="3800435">
+		<string name="name" value="道具窗口"/>
+		<string name="desc" value="道具窗口"/>
+	</imgdir>
+    <imgdir name="3800436">
+		<string name="name" value="背包窗口"/>
+		<string name="desc" value="背包窗口"/>
+	</imgdir>
+    <imgdir name="3800441">
+		<string name="name" value="顶部"/>
+		<string name="desc" value="顶部"/>
+	</imgdir>
+    <imgdir name="3800442">
+		<string name="name" value="左侧"/>
+		<string name="desc" value="左侧"/>
+	</imgdir>
+    <imgdir name="3800443">
+		<string name="name" value="右侧"/>
+		<string name="desc" value="右侧"/>
+	</imgdir>
+    <imgdir name="3800444">
+		<string name="name" value="按钮"/>
+		<string name="desc" value="按钮"/>
+	</imgdir>
+    <imgdir name="3800452">
+		<string name="name" value="好感度"/>
+		<string name="desc" value="好感度"/>
+	</imgdir>
+    <imgdir name="3800453">
+		<string name="name" value="好感度"/>
+		<string name="desc" value="好感度"/>
+	</imgdir>
+    <imgdir name="3802046">
+		<string name="name" value="基于等级的经验"/>
+		<string name="desc" value="完成任务后，角色可根据等级获得固定经验值。"/>
+	</imgdir>
+    <imgdir name="3990000">
+		<string name="name" value="红色数字1"/>
+		<string name="desc" value="装饰树的红色数字1。"/>
+	</imgdir>
+    <imgdir name="3990001">
+		<string name="name" value="红色数字2"/>
+		<string name="desc" value="装饰树的红色数字2。"/>
+	</imgdir>
+    <imgdir name="3990002">
+		<string name="name" value="红色数字3"/>
+		<string name="desc" value="装饰树的红色数字3。"/>
+	</imgdir>
+    <imgdir name="3990003">
+		<string name="name" value="红色数字4"/>
+		<string name="desc" value="装饰树的红色数字4。"/>
+	</imgdir>
+</imgdir>

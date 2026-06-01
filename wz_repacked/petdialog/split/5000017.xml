@@ -1,0 +1,296 @@
+<imgdir name="5000017">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="BEEP BEEP~"/>
+		<string name="c1_s2" value="BEEP BEEP BEEP~!"/>
+		<string name="c1_f1" value="BEEP BEEP?l?"/>
+		<string name="c1_f2" value="BEEP BEEP?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="You want me to sit like this? BEEP BEEP!"/>
+		<string name="c2_s2" value="Like this, BEEP BEEP? Give me something harder, BEEP BEEP..."/>
+		<string name="c2_s3" value="It's a piece of cake, BEEP BEEP."/>
+		<string name="c2_s4" value="Too easy, BEEP BEEP~"/>
+		<string name="c2_f1" value="Give me something fun, BEEP BEEP~"/>
+		<string name="c2_f2" value="I wanna do something else, BEEP BEEP~"/>
+		<string name="c2_f3" value="It's too nasty for me to sit, BEEP BEEP~"/>
+		<string name="c2_f4" value="I can't sit here, because someone peed the ground, BEEP BEEP~"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Yes, master~ BEEP BEEP~"/>
+		<string name="c3_s2" value="Like this? BEEP BEEP~"/>
+		<string name="c3_s3" value="I did well, right? BEEP BEEP~"/>
+		<string name="c3_s4" value="Sitting is easy~ BEEP BEEP~"/>
+		<string name="c3_f1" value="Master, instead of that...give me some food~ BEEP BEEP~"/>
+		<string name="c3_f2" value="Master, let's do something else for fun~ BEEP BEEP~"/>
+		<string name="c3_f3" value="I don't wanna sit right now~ BEEP BEEP~"/>
+		<string name="c3_f4" value="Master, you're talking funny, and I can't understand you~"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="This task is too easy."/>
+		<string name="c4_s2" value="It's hard being a pet..."/>
+		<string name="c4_s3" value="Piece of cake..."/>
+		<string name="c4_s4" value="Master, whaddaya think? I'm good right?"/>
+		<string name="c4_f1" value="I need to be oiled first. My legs are being cranky on me."/>
+		<string name="c4_f2" value="Sitting's waaay too easy...let me do something else."/>
+		<string name="c4_f3" value="Ahh..I'm sleepy...what's up? What did you say? I didn't hear you~"/>
+		<string name="c4_f4" value="Hehe...I was daydreaming, so I couldn't hear you..."/>
+		<string name="c5" value="up|stand|rise"/>
+		<string name="c5_s1" value="Like this? BEEP BEEP BEEP BEEP...this is hard..."/>
+		<string name="c5_s2" value="Whoa~ I'm tallllll~~~ BEEP BEEP!!"/>
+		<string name="c5_f1" value="That's too hard!! BEEP BEEP BEEP BEEP!!"/>
+		<string name="c5_f2" value="No...! BEEP BEEP!!!"/>
+		<string name="c6" value="up|stand|rise"/>
+		<string name="c6_s1" value="Hehe...master, am I doing well?"/>
+		<string name="c6_s2" value="Hey master, but I can't walk on two feet..."/>
+		<string name="c6_s3" value="Woot! Whoa, that's pretty high.."/>
+		<string name="c6_s4" value="Whoa...with these shorties?? I'm incredible, yo!!"/>
+		<string name="c6_f1" value="Maybe if I get fed right now..."/>
+		<string name="c6_f2" value="With these short legs, I can't even stand on four feet well.."/>
+		<string name="c6_f3" value="Is the master trying to put me on showcase for a circus??"/>
+		<string name="c6_f4" value="Can't be asking too much from a dog..."/>
+		<string name="c7" value="up|stand|rise"/>
+		<string name="c7_s1" value="Like this? BEEP BEEP BEEP BEEP...this is hard..."/>
+		<string name="c7_s2" value="Whoa~ I'm tallllll~~~ BEEP BEEP!!"/>
+		<string name="c7_s3" value="Whoa...the air's much cleaner up here...BEEP BEEP~!"/>
+		<string name="c7_s4" value="MMy...my legs are short...that's why it's hard...BEEP BEEP!"/>
+		<string name="c7_f1" value="That's too hard!! BEEP BEEP BEEP BEEP!!"/>
+		<string name="c7_f2" value="No...! BEEP BEEP!!!"/>
+		<string name="c7_f3" value="I won't do it...BEEP BEEP BEEP BEEP!"/>
+		<string name="c7_f4" value="How am I supposed to get up with these legs? BEEP BEEP BEEP BEEP!"/>
+		<string name="c8" value="up|stand|rise"/>
+		<string name="c8_s1" value="Hehe...master, am I doing well?"/>
+		<string name="c8_s2" value="Hey master, but I can't walk on two feet..."/>
+		<string name="c8_s3" value="You like my leg extension?"/>
+		<string name="c8_s4" value="Whoa...with these shorties?? I'm incredible, yo!!"/>
+		<string name="c8_f1" value="Maybe if I get fed right now..."/>
+		<string name="c8_f2" value="With these short legs, I can't even stand on four feet well.."/>
+		<string name="c8_f3" value="Is the master trying to put me on showcase for a circus??"/>
+		<string name="c8_f4" value="I may be a robot, but I do not like to be told what to do."/>
+		<string name="c9" value="stupid|dummy|ihateyou"/>
+		<string name="c9_s1" value="BEEP BEEPll...."/>
+		<string name="c9_s2" value="BEEP BEEP... ... ..."/>
+		<string name="c9_f1" value="BEEP BEEP~~"/>
+		<string name="c9_f2" value="BEEP BEEP~~!!!"/>
+		<string name="c10" value="stupid|dummy|ihateyou"/>
+		<string name="c10_s1" value="I...I am not that, BEEP BEEP..."/>
+		<string name="c10_s2" value="Please don't leave me, BEEP BEEP..."/>
+		<string name="c10_s3" value="I don't like hearing that, BEEP BEEP..."/>
+		<string name="c10_s4" value="That was harsh, BEEP BEEP..."/>
+		<string name="c10_f1" value="Take back what you just said, BEEP BEEP!"/>
+		<string name="c10_f2" value="I'm not that, BEEP BEEP!!"/>
+		<string name="c10_f3" value="I'm pissed, BEEP BEEP!!"/>
+		<string name="c10_f4" value="What are you saying, BEEP BEEP???"/>
+		<string name="c11" value="stupid|dummy|ihateyou"/>
+		<string name="c11_s1" value="What? I can't believe you said that...BEEP BEEP!"/>
+		<string name="c11_s2" value="Master, I'm hurt ... BEEP BEEP"/>
+		<string name="c11_s3" value="You were joking, right? BEEP BEEP..."/>
+		<string name="c11_s4" value="Do you really mean that? BEEP BEEP?"/>
+		<string name="c11_f1" value="You're stupid! BEEP BEEP!"/>
+		<string name="c11_f2" value="Take back what you said! BEEP BEEP!!!!!"/>
+		<string name="c11_f3" value="That hurts, master! BEEP BEEP!"/>
+		<string name="c11_f4" value="Master, you're mean! BEEP BEEP!"/>
+		<string name="c12" value="stupid|dummy|ihateyou"/>
+		<string name="c12_s1" value="I know you say this every now and then, but it still hurts..."/>
+		<string name="c12_s2" value="You aren't gonna leave me out hanging like this, right?"/>
+		<string name="c12_s3" value="I still like you though..."/>
+		<string name="c12_s4" value="Do you really not like me??"/>
+		<string name="c12_f1" value="Wah? What? I can't hear you~"/>
+		<string name="c12_f2" value="You didn't mean what you said, right?"/>
+		<string name="c12_f3" value="I'm sick of hearing that everyday..."/>
+		<string name="c12_f4" value="The next time you say that, I may really flip out on you!"/>
+		<string name="c13" value="bad|no|badboy|badgirl"/>
+		<string name="c13_s1" value="BEEP BEEP...BEEP BEEP!!"/>
+		<string name="c13_s2" value="Beep beep!!!"/>
+		<string name="c13_f1" value="BEEP!!! "/>
+		<string name="c13_f2" value="Beep~! Beep~!"/>
+		<string name="c14" value="bad|no|badboy|badgirl"/>
+		<string name="c14_s1" value="Master, you scare me. BEEP BEEP..."/>
+		<string name="c14_s2" value="That's not cool, BEEP BEEP..."/>
+		<string name="c14_s3" value="Please don't make a scary face like that...BEEP BEEP..."/>
+		<string name="c14_s4" value="That...that surprised me, BEEP BEEP..."/>
+		<string name="c14_f1" value="What did I do wrong, BEEP BEEP?"/>
+		<string name="c14_f2" value="You're just going off on me, BEEP BEEP...!"/>
+		<string name="c14_f3" value="I didn't do anything wrong, BEEP BEEP...!"/>
+		<string name="c14_f4" value="You're just doing this because you're bored, BEEP BEEP...!"/>
+		<string name="c15" value="bad|no|badboy|badgirl"/>
+		<string name="c15_s1" value="Oh no, I'm sorry... BEEP BEEP ..."/>
+		<string name="c15_s2" value="I'm sorry...BEEP BEEP..."/>
+		<string name="c15_s3" value="Master, are you really mad at me...? BEEP BEEP..."/>
+		<string name="c15_s4" value="Master...I won't do that again...BEEP BEEP..."/>
+		<string name="c15_f1" value="What did I do anyway~! BEEP BEEP!"/>
+		<string name="c15_f2" value="Master that wasn't cool at all! BEEP BEEP~!"/>
+		<string name="c15_f3" value="Where else will you find an obedient robot like me? BEEP BEEP~!"/>
+		<string name="c15_f4" value="Master! If you keep doing that, I may one day get out of here! BEEP BEEP!"/>
+		<string name="c16" value="bad|no|badboy|badgirl"/>
+		<string name="c16_s1" value="Master...I'll be careful now..."/>
+		<string name="c16_s2" value="Ah...master, you're really scaring me..."/>
+		<string name="c16_s3" value="Hey, I'll be good now..."/>
+		<string name="c16_s4" value="I won't do that again. I promise."/>
+		<string name="c16_f1" value="I didn't do anything wrong, though!"/>
+		<string name="c16_f2" value="Hey, things happen in life and I am not going to apologize for it."/>
+		<string name="c16_f3" value="Man...going off on me again for no reason..."/>
+		<string name="c16_f4" value="Master must be bored, so here I'm, listening to all that garbage."/>
+		<string name="c17" value="attack|charge"/>
+		<string name="c17_s1" value="Beep beep!"/>
+		<string name="c17_s2" value="Beep beep beep!"/>
+		<string name="c17_f1" value="BEEP BEEP? BEEP BEEP??"/>
+		<string name="c17_f2" value="BEEP BEEPllll~"/>
+		<string name="c18" value="attack|charge"/>
+		<string name="c18_s1" value="So who am I attacking? BEEP BEEP..."/>
+		<string name="c18_s2" value="Ready for launch, master! Beep beep."/>
+		<string name="c18_s3" value="Get ready for my super arm extension. BEEP BEEP!"/>
+		<string name="c18_s4" value="I'm ready to fire these missiles! BEEP BEEP!"/>
+		<string name="c18_f1" value="I believe in peace, master. BEEP BEEP."/>
+		<string name="c18_f2" value="No, I don't feel like it. BEEP BEEP."/>
+		<string name="c18_f3" value="I'm running out of oil. Feed me first. BEEP BEEP."/>
+		<string name="c18_f4" value="Nah, I won't. BEEP BEEP."/>
+		<string name="c19" value="attack|charge"/>
+		<string name="c19_s1" value="I'm already in an attack mode! BEEP BEEP"/>
+		<string name="c19_s2" value="What should I use? I've got a lot of weapons at my arsenal. Beep beep."/>
+		<string name="c19_s3" value="At your service, master. BEEP BEEP"/>
+		<string name="c19_s4" value="I'm ready to fire these missiles! BEEP BEEP!"/>
+		<string name="c19_f1" value="An error occurred while withdrawing the weapon. BEEP BEEP."/>
+		<string name="c19_f2" value="Not after the way you treated me last night. BEEP BEEP!"/>
+		<string name="c19_f3" value="I think the nuts have come loose. Please tighten them for me. BEEP BEEP."/>
+		<string name="c19_f4" value="Who am I supposed to attack? BEEP BEEP."/>
+		<string name="c20" value="attack|charge"/>
+		<string name="c20_s1" value="Get ready for some butt-whopping."/>
+		<string name="c20_s2" value="I've been greased up just for this occasion. Bring it on!!"/>
+		<string name="c20_s3" value="Snails don't scare me. I'm ready to back you up!"/>
+		<string name="c20_s4" value="Only the robots are blessed with iron fists. These babies are ready for attack."/>
+		<string name="c20_f1" value="I don't feel like attacking anyone else. That's YOUR job!"/>
+		<string name="c20_f2" value="Huh? What attack? What do you think I am, a rocket launcher or something?"/>
+		<string name="c20_f3" value="I do not believe in violence. I CAN, however, give you some motivational speeches."/>
+		<string name="c20_f4" value="Um... I need to be refueled. Feed me first, then we'll talk."/>
+		<string name="c21" value="iloveyou"/>
+		<string name="c21_s1" value="BEEP BEEP~~"/>
+		<string name="c21_s2" value="BEEP BEEP~, BEEP BEEP~~~~"/>
+		<string name="c21_f1" value="...?"/>
+		<string name="c21_f2" value="BEEP BEEP?"/>
+		<string name="c22" value="iloveyou"/>
+		<string name="c22_s1" value="I love you too, BEEP BEEP~"/>
+		<string name="c22_s2" value="Hey, robots can blush, too! BEEP BEEP~"/>
+		<string name="c22_s3" value="Really? Thanks, BEEP BEEP~"/>
+		<string name="c22_s4" value="Me too~"/>
+		<string name="c22_f1" value="Liar..."/>
+		<string name="c22_f2" value="What did you say, BEEP BEEP?"/>
+		<string name="c22_f3" value="What's up, BEEP BEEP?"/>
+		<string name="c22_f4" value="Since when, BEEP BEEP?"/>
+		<string name="c23" value="iloveyou"/>
+		<string name="c23_s1" value="Master, me too~! BEEP BEEP!"/>
+		<string name="c23_s2" value="Really? Thanks, master! BEEP BEEP!"/>
+		<string name="c23_s3" value="I like you too~ BEEP BEEP!"/>
+		<string name="c23_s4" value="I like you very very much! BEEP BEEP!"/>
+		<string name="c23_f1" value="Master, give me some food...BEEP BEEP..."/>
+		<string name="c23_f2" value="...? BEEP BEEP?"/>
+		<string name="c23_f3" value="Ah...I was thinking of something else...BEEP BEEP"/>
+		<string name="c23_f4" value="I know you're lying...BEEP BEEP..."/>
+		<string name="c24" value="iloveyou"/>
+		<string name="c24_s1" value="I love you too, master! Seriously!"/>
+		<string name="c24_s2" value="You sure know how to warm a cold robotic heart!"/>
+		<string name="c24_s3" value="The same goes to you too, master! "/>
+		<string name="c24_s4" value="Even robots blush, you know."/>
+		<string name="c24_f1" value="Liar~ Liar~"/>
+		<string name="c24_f2" value="Master needs to say the truth. "/>
+		<string name="c24_f3" value="Don't lie to me! You can't love a robot!"/>
+		<string name="c24_f4" value="If you love me, then feed me right now."/>
+		<string name="c25" value="good|thelook|charisma"/>
+		<string name="c25_s1" value="Like this? Cool! BEEP BEEP!"/>
+		<string name="c25_s2" value="I know you like this. BEEP BEEP!"/>
+		<string name="c25_s3" value="I know I know, robots can be beautiful, too. BEEP BEEP!"/>
+		<string name="c25_s4" value="Looking good, right? What? You want an autograph? BEEP BEEP!"/>
+		<string name="c25_f1" value="No way! I don't feel like doing it right now! BEEP BEEP"/>
+		<string name="c25_f2" value="Show me how YOU do it, BEEP BEEP"/>
+		<string name="c25_f3" value="And your point for me doing this is ... beep beep."/>
+		<string name="c25_f4" value="Nah, beep beep."/>
+		<string name="c26" value="good|thelook|charisma"/>
+		<string name="c26_s1" value="Master, what do you think? My eyes shall be called the twinkling stars... BEEP BEEPr..."/>
+		<string name="c26_s2" value="Hello, I define charisma! Look, BEEP BEEP!"/>
+		<string name="c26_s3" value="I know you can't resist these beautifyl eyes. BEEP BEEP..."/>
+		<string name="c26_s4" value="Do you want a piercing look? This is just short of shooting laser beams...BEEP BEEP"/>
+		<string name="c26_f1" value="If you feed me, I'll think about it..."/>
+		<string name="c26_f2" value="Ouch, my eyes hurt. BEEP BEEP..."/>
+		<string name="c26_f3" value="The sun's in my eye, and it doesn't feel good... BEEP BEEPr..."/>
+		<string name="c26_f4" value="Can I do it later? BEEP BEEP..."/>
+		<string name="c27" value="good|thelook|charisma"/>
+		<string name="c27_s1" value="Balrog has nothing on me..."/>
+		<string name="c27_s2" value="This is dedicated to my master!! Check this out!"/>
+		<string name="c27_s3" value="Hollywood is looking for the next great robot actor, me!"/>
+		<string name="c27_s4" value="The guy that made me told me I look the best!"/>
+		<string name="c27_f1" value="No! Robots can't make faces."/>
+		<string name="c27_f2" value="Feed me. Feed me. Feed me."/>
+		<string name="c27_f3" value="I don't want to do it. Seriously."/>
+		<string name="c27_f4" value="Um ... right now?"/>
+		<string name="c28" value="good|thelook|charisma"/>
+		<string name="c28_s1" value="I wonder who made me. I should call that person dad or mom, depending on who that was, BEEP BEEP~"/>
+		<string name="c28_s2" value="If you defeat high-leveled monsters, you'll most likely be rewarded with a nice item, BEEP BEEP..."/>
+		<string name="c28_s3" value="Isn't it nice out here today? We should go far and have fun wherever on a day like this, BEEP BEEP..."/>
+		<string name="c28_s4" value="Master, can you grease me up a bit? I feel ... um ... stiff. BEEP BEEP."/>
+		<string name="c28_f1" value="Do you really think robots say anything other than BEEP BEEP?"/>
+		<string name="c28_f2" value="I'm too depressed to talk right now, BEEP BEEP~"/>
+		<string name="c28_f3" value="No, not now. BEEP BEEP...!"/>
+		<string name="c28_f4" value="I'm a robot, and robots only beep. BEEP BEEP!"/>
+		<string name="c29" value="speak|talk|chat|say"/>
+		<string name="c29_s1" value="I wonder who made me. I should call that person dad or mom, depending on who that was, BEEP BEEP~"/>
+		<string name="c29_s2" value="If you defeat high-leveled monsters, you'll most likely be rewarded with a nice item, BEEP BEEP..."/>
+		<string name="c29_s3" value="Isn't it nice out here today? We should go far and have fun wherever on a day like this, BEEP BEEP..."/>
+		<string name="c29_s4" value="Master, can you grease me up a bit? I feel ... um ... stiff. BEEP BEEP."/>
+		<string name="c29_f1" value="Do you really think robots say anything other than BEEP BEEP?"/>
+		<string name="c29_f2" value="I'm too depressed to talk right now, BEEP BEEP~"/>
+		<string name="c29_f3" value="No, not now. BEEP BEEP...!"/>
+		<string name="c29_f4" value="I'm a robot, and robots only beep. BEEP BEEP!"/>
+		<string name="c30" value="speak|talk|chat|say"/>
+		<string name="c30_s1" value="I feel good right now! BEEP BEEP!"/>
+		<string name="c30_s2" value="The 8-ball in me tells me that we're getting a sweet item today! BEEP BEEP!"/>
+		<string name="c30_s3" value="Master, contrary to popular belief, we robots do have emotions! BEEP BEEP~"/>
+		<string name="c30_s4" value="Can you take me to Ludibrium? I heard that place is full of robots like me!"/>
+		<string name="c30_f1" value="No comment... BEEP BEEP..."/>
+		<string name="c30_f2" value="I feel like resting right now ~BEEP BEEP~"/>
+		<string name="c30_f3" value="I have little to say...BEEP BEEP..."/>
+		<string name="c30_f4" value="Feed me first... BEEP BEEP!"/>
+		<string name="c31" value="speak|talk|chat|say"/>
+		<string name="c31_s1" value="Hook me up with a date, master!"/>
+		<string name="c31_s2" value="Have you heard of El Nath? I heard it's so cold, that I may even freeze in there!"/>
+		<string name="c31_s3" value="You better level-up today!"/>
+		<string name="c31_s4" value="Am I screwd on tight? Or am I loose somewhere?"/>
+		<string name="c31_f1" value="Even a robot can use some food every now and then."/>
+		<string name="c31_f2" value="Are you sick of me, master?"/>
+		<string name="c31_f3" value="Um...what?"/>
+		<string name="c31_f4" value="Talk to my hand!"/>
+		<string name="c32" value="disguise|change|transform"/>
+		<string name="c32_s1" value="BEEP BEEP BEEP. Transforming..."/>
+		<string name="c32_s2" value="This is always fun! BEEP BEEP!!"/>
+		<string name="c32_s3" value="Look! Look! Don't I look good? BEEP BEEP?"/>
+		<string name="c32_s4" value="Easy! BEEP BEEP!"/>
+		<string name="c32_f1" value="I cannot change right now, BEEP BEEP. Ask me later. "/>
+		<string name="c32_f2" value="My arm hurts right now. Please grease me up. BEEP BEEP."/>
+		<string name="c32_f3" value="Master, I don't want to change. Can I go drink some oil? BEEP BEEP?"/>
+		<string name="c32_f4" value="...No, master. BEEP BEEP."/>
+		<string name="c33" value="disguise|change|transform"/>
+		<string name="c33_s1" value="This is always fun! BEEP BEEP!!"/>
+		<string name="c33_s2" value="If you want to learn how to change, just look at me! BEEP BEEP!"/>
+		<string name="c33_s3" value="I've practiced this move for a while! BEEP BEEP!"/>
+		<string name="c33_s4" value="Time to roll! Beep Beep!!"/>
+		<string name="c33_f1" value="I am not a tramsformer. I am a pet. BEEP BEEP!"/>
+		<string name="c33_f2" value="Grease me up, first, then I'll think about it. BEEP BEEP."/>
+		<string name="c33_f3" value="Do not assume that all robots change their forms to something new, BEEP BEEP!"/>
+		<string name="c33_f4" value="I prefer keeping myself in this form, BEEP BEEP"/>
+		<string name="c34" value="disguise|change|transform"/>
+		<string name="c34_s1" value="It's always fun to transform into something completely different~!"/>
+		<string name="c34_s2" value="Call me the transformer, because I am the best you will ever find!"/>
+		<string name="c34_s3" value="Beep beep. I should learn to transform into a car soon."/>
+		<string name="c34_s4" value="I have mastered the art of transforming! Learn from me!!"/>
+		<string name="c34_f1" value="What am I, your toy? I don't change."/>
+		<string name="c34_f2" value="My bolts are loose. It may all come off if I change my form right now. Tighten me up! BEEP BEEP!"/>
+		<string name="c34_f3" value="Contrary to popular belief, I do not turn into a car. I'm just a pet!"/>
+		<string name="c34_f4" value="Show me how to turn into a snail. You can't, right? Then don't ask!"/>
+		<string name="f1_s" value="BEEP BEEP~ BEEP BEEP~!"/>
+		<string name="f1_f" value="BEEP!!!"/>
+		<string name="f2_s" value="FOOD~! FOOD~!"/>
+		<string name="f2_f" value="I'm too full. Seriously, don't feed me anymore."/>
+		<string name="f3_s" value="Ohh, how did you know I was hungry? Great timing, BEEP BEEP!"/>
+		<string name="f3_f" value="Master, I can't eat anymore. Don't make me become fat now."/>
+		<string name="f4_s" value="Okay, now this is delicious! I was starving, you know!"/>
+		<string name="f4_f" value="Master, no mas!"/>
+		<string name="s1" value="BEEP...?"/>
+		<string name="s2" value="BEEP... Unable to execute!"/>
+		<string name="s3" value="BEEP... No more bad words!"/>
+		<string name="s4" value="Do not try to offend me! BEEP!!!"/>
+	</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="4220009">
+        <string name="name" value="Meso Mastery" />
+        <string name="desc" value="Increase the amount of mesos that drop. Skills that use mesos become more efficient." />
+        <string name="h" value="Mesos Dropped (by monsters): #mesoR%, PickPocket Meso Drop Rate: #u%, Meso Guard Damage Guard Rate: #v%, Mesos Consumed by Meso Guard: -#w%, Meso Explosion Damage (per shot): +#x%" />
+    </imgdir>

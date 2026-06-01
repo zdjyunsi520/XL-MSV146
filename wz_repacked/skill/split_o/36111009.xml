@@ -1,0 +1,5 @@
+<imgdir name="36111009">
+        <string name="name" value="Combat Switch: Air Whip" />
+        <string name="desc" value="Lashes diagonally with the Whip Blade to damage enemies in the air. Change mode with Modal Shift." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Additional damage on airborne enemies: #x%" />
+    </imgdir>

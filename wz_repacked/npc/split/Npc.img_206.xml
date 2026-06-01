@@ -1,0 +1,66 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390387">
+		<string name="name" value="Victor"/>
+	</imgdir>
+    <imgdir name="9390388">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+    <imgdir name="9390389">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+    <imgdir name="9390390">
+		<string name="name" value="Aran"/>
+	</imgdir>
+    <imgdir name="9390391">
+		<string name="name" value="Evan"/>
+	</imgdir>
+    <imgdir name="9390392">
+		<string name="name" value="Mercedes"/>
+	</imgdir>
+    <imgdir name="9390393">
+		<string name="name" value="Phantom"/>
+	</imgdir>
+    <imgdir name="9390394">
+		<string name="name" value="Evan"/>
+	</imgdir>
+    <imgdir name="9390395">
+		<string name="name" value="Luminous"/>
+	</imgdir>
+    <imgdir name="9390396">
+		<string name="name" value="Mihile"/>
+	</imgdir>
+    <imgdir name="9390397">
+		<string name="name" value="Oz"/>
+	</imgdir>
+    <imgdir name="9390398">
+		<string name="name" value="Irena"/>
+	</imgdir>
+    <imgdir name="9390399">
+		<string name="name" value="Eckhart"/>
+	</imgdir>
+    <imgdir name="9390400">
+		<string name="name" value="Hawkeye"/>
+	</imgdir>
+    <imgdir name="9390401">
+		<string name="name" value="Excavator Vicky"/>
+	</imgdir>
+    <imgdir name="9390402">
+		<string name="name" value="Excavation Associate Vincent"/>
+		<string name="d0" value="You see the way Vicky looks at me? Totally in love."/>
+		<string name="d1" value="You see the way Vicky looks at me? Totally in love."/>
+	</imgdir>
+    <imgdir name="9390403">
+		<string name="name" value="Excavation Associate Victor"/>
+	</imgdir>
+    <imgdir name="9390404">
+		<string name="name" value="Snow V"/>
+	</imgdir>
+    <imgdir name="9390405">
+		<string name="name" value="Broken Snow V"/>
+	</imgdir>
+    <imgdir name="9390406">
+		<string name="name" value="Odinsson"/>
+		<string name="d0" value="I'll never be able to face my brothers if I do poorly in this tournament."/>
+		<string name="d1" value="I'll never be able to face my brothers if I do poorly in this tournament."/>
+	</imgdir>
+</imgdir>

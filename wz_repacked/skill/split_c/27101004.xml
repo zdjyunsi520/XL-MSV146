@@ -1,0 +1,5 @@
+<imgdir name="27101004">
+        <string name="name" value="魔法加速" />
+        <string name="desc" value="提升武器的攻击速度。" />
+        <string name="h" value="MP Cost: #mpCon. Attack Speed +2 for #time sec." />
+    </imgdir>

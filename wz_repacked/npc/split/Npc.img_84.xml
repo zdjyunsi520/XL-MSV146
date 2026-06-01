@@ -1,0 +1,119 @@
+<imgdir name="Npc.img">
+    <imgdir name="2001008">
+		<string name="name" value="Christmas Tree"/>
+	</imgdir>
+    <imgdir name="9330000">
+		<string name="name" value="Rana"/>
+		<string name="func" value="General Merchant"/>
+		<string name="n0" value="Potions for sale!"/>
+		<string name="n1" value="Be sure to check out our large selection of items!"/>
+	</imgdir>
+    <imgdir name="9330001">
+		<string name="name" value="Uncle Wang"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="Not too many people have an eye for picking out good weapons."/>
+		<string name="n1" value="A quality weapon will pick out its own master."/>
+	</imgdir>
+    <imgdir name="9330002">
+		<string name="name" value="Jason Woo"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="Hey pretty lady! Come here and try this on. It's perfect for you!"/>
+		<string name="n1" value="Yo! Handsome! Try this on, you'll look fabulous in it!"/>
+	</imgdir>
+    <imgdir name="9330003">
+		<string name="name" value="Jay Chewy"/>
+		<string name="n0" value="I'm Jay Chewy, the coolest guy in Taiwan."/>
+		<string name="n1" value="Hey, girl! You wanna go for a drive?"/>
+		<string name="d0" value="Hello, I'm Jay Chewy, the coolest guy in all of Taiwan."/>
+		<string name="d1" value="I wonder how my girlfriend is doing."/>
+	</imgdir>
+    <imgdir name="9330004">
+		<string name="name" value="Coco Dee"/>
+		<string name="n0" value="Hehehe. Taiwan is such a nice place to live."/>
+		<string name="n1" value="Isn't the nightscape of Taiwan just beautiful?"/>
+		<string name="d0" value="Hello, I'm Coco Dee."/>
+		<string name="d1" value="Thank you for your help last time."/>
+	</imgdir>
+    <imgdir name="9330005">
+		<string name="name" value="Sammi Fab"/>
+		<string name="n0" value="Hi, I'm Sammi Fab, the biggest celebrity in Taiwan."/>
+		<string name="n1" value="I wonder what my schedule is today."/>
+		<string name="d0" value="Hi, I'm Sammi Fab, the biggest celebrity in Taiwan."/>
+		<string name="d1" value="I'm a busy right now. I'm walking my dog."/>
+	</imgdir>
+    <imgdir name="9330006">
+		<string name="name" value="Aaron Quack"/>
+		<string name="n0" value="Hey, do you have some time?"/>
+		<string name="n1" value="You interested in starting a new business?"/>
+		<string name="d0" value="I'm the cool and smooth Aaron Quack."/>
+		<string name="d1" value="Thanks a lot for helping me out last time."/>
+	</imgdir>
+    <imgdir name="9330007">
+		<string name="name" value="Tito"/>
+		<string name="func" value="Subway Worker "/>
+		<string name="n0" value="The subway is still under construction."/>
+		<string name="n1" value="The subway should be opening soon. Thank you for your patience."/>
+	</imgdir>
+    <imgdir name="9330008">
+		<string name="name" value="FAQ Quest NPC 1"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330009">
+		<string name="name" value="FAQ Quest NPC 2"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330010">
+		<string name="name" value="FAQ Quest NPC 3"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330011">
+		<string name="name" value="FAQ Quest NPC 4"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330012">
+		<string name="name" value="FAQ NPC"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330013">
+		<string name="name" value="FAQ Quest NPC 5"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9330014">
+		<string name="name" value="Toto"/>
+		<string name="func" value="Subway Worker"/>
+		<string name="n0" value="The subway is still under construction."/>
+		<string name="n1" value="The subway should be opening soon. Thank you for your patience."/>
+	</imgdir>
+    <imgdir name="9330015">
+		<string name="name" value="The Venerable Mr. Q"/>
+		<string name="n0" value="Har har har."/>
+		<string name="n1" value="If you're just passing through, go ahead and continue."/>
+	</imgdir>
+    <imgdir name="9330016">
+		<string name="name" value="Martin Fan"/>
+		<string name="n0" value="Hello, I am the best chef in Taiwan."/>
+		<string name="n1" value="What should I cook up today?"/>
+		<string name="d1" value="Cut up the ingredients, pour some oil in the pan, and fry fry fry! Cooking is so much fun!"/>
+		<string name="d0" value="Are you here to taste my famous food?"/>
+	</imgdir>
+    <imgdir name="9330017">
+		<string name="name" value="Gumstick Girl"/>
+		<string name="n0" value="Mister! You wanna buy some gum?"/>
+		<string name="n1" value="Delicious gum for sale! Lots of different kinds! Bubblegum, mint, cinnamon!"/>
+		<string name="d0" value="Hello, I'm the Gumstick Girl."/>
+		<string name="d1" value="Would you like to buy some gum?"/>
+	</imgdir>
+    <imgdir name="9330018">
+		<string name="name" value="Mr. Ho"/>
+		<string name="n0" value="I've been working here for 30 years already."/>
+		<string name="n1" value="I don't seem to have enough materials to sell... Is there anyone that can help me?"/>
+		<string name="d0" value="Welcome. I'm Mr. Oh, the street vendor."/>
+		<string name="d1" value="Business just isn't what it used to be."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022192">
+		<string name="name" value="华夫饼"/>
+		<string name="desc" value="一个可以吃的热黄油华夫饼。恢复300 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022193">
+		<string name="name" value="梅林宝球"/>
+		<string name="desc" value="据说是强大法师财产的庄严宝球。魔法攻击+40，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022194">
+		<string name="name" value="叶子水晶"/>
+		<string name="desc" value="由艾琳藤蔓叶子形成的不寻常水晶。物理攻击+12、魔法攻击+20、物理防御/魔法防御+20、回避率/命中+8，持续20分钟。使用5次后消失。"/>
+	</imgdir>
+    <imgdir name="2022195">
+		<string name="name" value="冒险岛汽水"/>
+		<string name="desc" value="为口渴的旅行者准备的清凉饮料！恢复80% HP、90% MP，攻击+2，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022196">
+		<string name="name" value="婚礼花束"/>
+		<string name="desc" value="特殊的婚礼花束。物理攻击+5、魔法攻击+3，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022197">
+		<string name="name" value="婚礼花束"/>
+		<string name="desc" value="特殊的婚礼花束。物理攻击+8、魔法攻击+5，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022198">
+		<string name="name" value="罗素斯的药丸"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药丸。这个药丸的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022199">
+		<string name="name" value="罗素斯的药水"/>
+		<string name="desc" value="马盖蒂的罗素斯制作的药水。这个药水的实际效果仍然是个谜... "/>
+	</imgdir>
+    <imgdir name="2022200">
+		<string name="name" value="婚礼花束"/>
+		<string name="desc" value="特殊的婚礼花束。物理攻击+10、魔法攻击+8，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022203">
+		<string name="name" value="叻沙"/>
+		<string name="desc" value="新加坡本地特色辣面。吃完后会让人出汗。\n恢复800 HP。"/>
+	</imgdir>
+    <imgdir name="2022204">
+		<string name="name" value="福建面"/>
+		<string name="desc" value="新加坡本地特色大虾面。通常配虾、辣椒和酸橙。\n恢复1200 HP。"/>
+	</imgdir>
+    <imgdir name="2022205">
+		<string name="name" value="萝卜糕"/>
+		<string name="desc" value="美味的本地传统食品。由萝卜精华和秘方制成。\n恢复1800 HP。"/>
+	</imgdir>
+    <imgdir name="2022206">
+		<string name="name" value="鸡饭"/>
+		<string name="desc" value="美味的新加坡本地传统食品。米饭上覆盖着芬芳的鸡肉精华秘方。\n恢复2200 HP。"/>
+	</imgdir>
+    <imgdir name="2022207">
+		<string name="name" value="沙爹"/>
+		<string name="desc" value="美味的新加坡本地传统烧烤食品。通常配咖喱酱。它的香味远远就能闻到。\n恢复2600 HP。"/>
+	</imgdir>
+    <imgdir name="2022208">
+		<string name="name" value="番石榴"/>
+		<string name="desc" value="一种硬而酸的水果。它的营养价值改善我们的消化系统。\n恢复500 MP。"/>
+	</imgdir>
+    <imgdir name="2022209">
+		<string name="name" value="红毛丹"/>
+		<string name="desc" value="一种美味多汁的水果。非常甜，如果不妥善处理会招来蚂蚁。\n恢复800 MP。"/>
+	</imgdir>
+    <imgdir name="2022210">
+		<string name="name" value="火龙果"/>
+		<string name="desc" value="另一种美味多汁的水果，类似红毛丹，如果不妥善处理会招来害虫。\n恢复1600 MP。"/>
+	</imgdir>
+    <imgdir name="2022211">
+		<string name="name" value="榴莲"/>
+		<string name="desc" value="这种水果被提名该地区的水果之王。尽管有着坚硬多刺的外壳，里面的果实非常香，而且很好吃！\n恢复3200 MP。"/>
+	</imgdir>
+    <imgdir name="2022212">
+		<string name="name" value="椰浆饭"/>
+		<string name="desc" value="主要由米饭、鸡蛋和黄瓜组成的流行马来传统菜肴，浸在芬芳的班兰叶中。\n魔法攻击+8，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022213">
+		<string name="name" value="印度煎饼"/>
+		<string name="desc" value="由面粉制成的流行印度传统菜肴。通常配糖和咖喱酱。\n魔法攻击+8，持续10分钟。"/>
+	</imgdir>
+</imgdir>

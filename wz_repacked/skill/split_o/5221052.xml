@@ -1,0 +1,5 @@
+<imgdir name="5221052">
+        <string name="name" value="Ugly Bomb" />
+        <string name="desc" value="Fires a really weird-looking bomb that you... where did you buy this thing?" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

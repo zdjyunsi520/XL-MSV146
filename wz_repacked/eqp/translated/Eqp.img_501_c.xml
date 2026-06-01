@@ -1,0 +1,23 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1073033"><string name="name" value="阿波萨博弓手鞋"/></imgdir>
+    <imgdir name="1073034"><string name="name" value="阿波萨博盗贼鞋"/></imgdir>
+    <imgdir name="1073035"><string name="name" value="阿波萨博海盗鞋"/></imgdir>
+    <imgdir name="1073162"><string name="name" value="神秘影伞海盗鞋"/></imgdir>
+    <imgdir name="1073158"><string name="name" value="神秘影伞骑士鞋"/></imgdir>
+    <imgdir name="1073159"><string name="name" value="神秘影伞法师鞋"/></imgdir>
+    <imgdir name="1073160"><string name="name" value="神秘影伞弓手鞋"/></imgdir>
+    <imgdir name="1073161"><string name="name" value="神秘影伞盗贼鞋"/></imgdir>
+    <imgdir name="Taming"><imgdir name="1902000"><string name="name" value="野猪"/></imgdir>
+    <imgdir name="1902001"><string name="name" value="银色野猪"/></imgdir>
+    <imgdir name="1902002"><string name="name" value="红色飞龙"/></imgdir>
+    <imgdir name="1902005"><string name="name" value="米米安娜"/></imgdir>
+    <imgdir name="1902006"><string name="name" value="米米奥"/></imgdir>
+    <imgdir name="1902007"><string name="name" value="神兽"/></imgdir>
+    <imgdir name="1902008"><string name="name" value="青蛙"/><string name="desc" value="需要拥有#c青蛙外罩#才能骑乘。"/></imgdir>
+    <imgdir name="1902009"><string name="name" value="鸵鸟"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902010"><string name="name" value="青蛙"/><string name="desc" value="需要拥有#c青蛙外罩#才能骑乘，#c反抗军#无法乘坐。"/></imgdir>
+    <imgdir name="1902011"><string name="name" value="乌龟"/><string name="desc" value="需要拥有#c乌龟坐骑#才能骑乘，#c反抗军#无法乘坐。"/></imgdir>
+    <imgdir name="1902012"><string name="name" value="雪人"/><string name="desc" value="需要拥有游戏内坐骑(看野猪、银猪等)才能使用此坐骑外罩。"/></imgdir>
+    <imgdir name="1902015"><string name="name" value="狼人"/></imgdir>
+</imgdir>
+</imgdir>

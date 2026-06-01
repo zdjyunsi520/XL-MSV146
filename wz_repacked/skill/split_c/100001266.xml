@@ -1,0 +1,5 @@
+<imgdir name="100001266">
+        <string name="name" value="爆发步伐" />
+        <string name="desc" value="压缩局部时间来快速移动。" />
+        <string name="h" value="时间之力消耗: #forceCon, 按方向键上、下、左、右后使用技能向对应方向移动 \n连按↑↑、↓↓、←←、→→可向该方向移动\n#c可在梯子或绳子上使用。可与爆发跳跃连动使用#" />
+    </imgdir>

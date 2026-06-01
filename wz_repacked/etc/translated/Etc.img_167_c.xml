@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033373">
+			<string name="name" value="D-03发射器"/>
+			<string name="desc" value="与商人队通讯的限量版对讲机"/>
+		</imgdir>
+    <imgdir name="4033374">
+			<string name="name" value="D-02发射器"/>
+			<string name="desc" value="D-03型号之前的旧发射器"/>
+		</imgdir>
+    <imgdir name="4033375">
+			<string name="name" value="青龙炮箱子"/>
+			<string name="desc" value="用于运输青龙炮的箱子"/>
+		</imgdir>
+    <imgdir name="4033377">
+			<string name="name" value="邪恶精华"/>
+			<string name="desc" value="来自诅咒神殿怪物的邪恶精华"/>
+		</imgdir>
+    <imgdir name="4033378">
+			<string name="name" value="三尾"/>
+			<string name="desc" value="来自东方村三尾狐的奇怪尾巴"/>
+		</imgdir>
+    <imgdir name="4033379">
+			<string name="name" value="外星射线枪"/>
+			<string name="desc" value="奇怪的物体。它值得分析"/>
+		</imgdir>
+    <imgdir name="4033380">
+			<string name="name" value="沙漠围巾"/>
+			<string name="desc" value="有用遮挡你的脸免受炎热沙漠阳光"/>
+		</imgdir>
+    <imgdir name="4033381">
+			<string name="name" value="海洋生物样本"/>
+			<string name="desc" value="你可能从这个学到一些关于海洋的知识"/>
+		</imgdir>
+    <imgdir name="4033382">
+			<string name="name" value="被污染的精灵石"/>
+			<string name="desc" value="从小田获得的被腐蚀精灵石。把它给土御门晴明"/>
+		</imgdir>
+    <imgdir name="4033383">
+			<string name="name" value="被污染的精灵石"/>
+			<string name="desc" value="从土御门晴明获得的被腐蚀精灵石。请求每个家族的首领净化它"/>
+		</imgdir>
+    <imgdir name="4033384">
+			<string name="name" value="净化精灵石"/>
+			<string name="desc" value="土御门晴明净化的精灵石。把它给他"/>
+		</imgdir>
+    <imgdir name="4033385">
+			<string name="name" value="化学封印破坏器"/>
+			<string name="desc" value="可以破坏特雷格洛门上化学封印的试剂。闻起来像水果，但你可能不应该喝它"/>
+		</imgdir>
+    <imgdir name="4033386">
+			<string name="name" value="幽灵指挥官徽章"/>
+			<string name="desc" value="高级幽灵携带的徽章"/>
+		</imgdir>
+    <imgdir name="4033387">
+			<string name="name" value="涂层牛膝花"/>
+			<string name="desc" value="特殊树脂涂层的牛膝花，增加对特雷格洛化学产品的抵抗力。收集并把它给托内罗"/>
+		</imgdir>
+    <imgdir name="4033388">
+			<string name="name" value="青龙炮箱子"/>
+			<string name="desc" value="用于运输青龙炮的箱子。安全地把它送到收复总部给凯撒"/>
+		</imgdir>
+    <imgdir name="4033389">
+			<string name="name" value="商人队金币袋"/>
+			<string name="desc" value="格兰迪斯暗影钱包。很好很满"/>
+		</imgdir>
+    <imgdir name="4033390">
+			<string name="name" value="加莱罗的金币袋"/>
+			<string name="desc" value="加莱罗给你这个购买罗梅罗的股票。它半满"/>
+		</imgdir>
+    <imgdir name="4033391">
+			<string name="name" value="幻影金币袋"/>
+			<string name="desc" value="尤伦特创造的幻影金币袋。法术在20分钟后失效，所以在那之前完成购买"/>
+		</imgdir>
+    <imgdir name="4033392">
+			<string name="name" value="罗梅罗的恶意股票"/>
+			<string name="desc" value="装满未知物体的盒子，摇晃时会发出响声。最好不要打开它"/>
+		</imgdir>
+    <imgdir name="4033393">
+			<string name="name" value="马龙的健康餐"/>
+			<string name="desc" value="马龙为蒂罗做的这个，但你不想知道里面是什么"/>
+		</imgdir>
+</imgdir>

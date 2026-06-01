@@ -1,0 +1,8 @@
+<imgdir name="1321012">
+        <string name="name" value="暗黑穿刺" />
+        <string name="desc" value="快速连续攻击多个敌人5次，有几率一击必杀目标~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 一击必杀几率: #z%" />
+        <string name="pdesc" value="快速连续攻击多个敌人5次，有几率一击必杀目标~" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 一击必杀几率: #z%" />
+        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 一击必杀几率: #z%" />
+    </imgdir>

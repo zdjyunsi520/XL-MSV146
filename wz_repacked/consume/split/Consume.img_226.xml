@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2291014">
+		<string name="name" value="[Mastery Book] Obsidian Skin 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cObsidian Skin# to 30.\nJob: Demon Slayer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291015">
+		<string name="name" value="[Mastery Book] Dual Wield Expert 30"/>
+		<string name="desc" value="60% chance of increasing the max level of #cDual Wield Expert# to 30.\nJob: Blade Master\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2291016">
+		<string name="name" value="[Mastery Book] Mirrored Target 30"/>
+		<string name="desc" value="60% chance of increasing the max level of #cMirrored Target# to 30.\nJob: Blade Lord\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2290608">
+		<string name="name" value="[Mastery Book] Dragon Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDragon Strike# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290609">
+		<string name="name" value="[Mastery Book] Dragon Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDragon Strike# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290610">
+		<string name="name" value="[Mastery Book] Energy Orb 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cEnergy Orb# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290611">
+		<string name="name" value="[Mastery Book] Energy Orb 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cEnergy Orb# to 30.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290612">
+		<string name="name" value="[Mastery Book] Super Transformation 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSuper Transformation# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290613">
+		<string name="name" value="[Mastery Book] Demolition 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDemolition# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290614">
+		<string name="name" value="[Mastery Book] Demolition 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDemolition# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290615">
+		<string name="name" value="[Mastery Book] Snatch 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSnatch# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290616">
+		<string name="name" value="[Mastery Book] Snatch 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSnatch# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290617">
+		<string name="name" value="[Mastery Book] Barrage 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBarrage# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290618">
+		<string name="name" value="[Mastery Book] Barrage 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBarrage# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290619">
+		<string name="name" value="[Mastery Book] Speed Infusion 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSpeed Infusion# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290620">
+		<string name="name" value="[Mastery Book] Time Leap 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cTime Leap# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290621">
+		<string name="name" value="[Mastery Book] Time Leap 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cTime Leap# to 30.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290622">
+		<string name="name" value="[Mastery Book] Elemental Boost 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cElemental Boost# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290623">
+		<string name="name" value="[Mastery Book] Elemental Boost 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cElemental Boost# to 30.\nJob: Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290624">
+		<string name="name" value="[Mastery Book] Wrath of the Octopi 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cWrath of the Octopi# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

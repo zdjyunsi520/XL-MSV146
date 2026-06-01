@@ -1,0 +1,81 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032237">
+			<string name="name" value="Piece of Dexterity"/>
+			<string name="desc" value="A piece that represents dexterity"/>
+		</imgdir>
+    <imgdir name="4032238">
+			<string name="name" value="Piece of Freedom"/>
+			<string name="desc" value="A piece that represents freedom "/>
+		</imgdir>
+    <imgdir name="4032239">
+			<string name="name" value="Piece of Mind of Maple"/>
+			<string name="desc" value="A piece of Mind of Maple given by Chief Stan"/>
+		</imgdir>
+    <imgdir name="4032246">
+			<string name="name" value="Fantasy Spirit Doll"/>
+			<string name="desc" value="Very important key item to save Fantasy Theme Park from monsters' threat."/>
+		</imgdir>
+    <imgdir name="4032247">
+			<string name="name" value="Richard's Letter"/>
+			<string name="desc" value="A love letter written by Richard. Needs to be delivered to Angelique of Amoria..."/>
+		</imgdir>
+    <imgdir name="4032248">
+			<string name="name" value="Map to MV's Lair"/>
+		</imgdir>
+    <imgdir name="4032250">
+			<string name="name" value="Mysterious Piece of Paper  "/>
+			<string name="desc" value="A piece of paper filled with mysterious scribbles. It looks like an item lost by Mu Young, Manji's apprentice. Take it to Mu Young.  "/>
+		</imgdir>
+    <imgdir name="4032262">
+			<string name="name" value="Mu Young's Message  "/>
+			<string name="desc" value="A letter that Mu Young asked you to deliver to Manji, his teacher. You must deliver it to Manji in Perion.  "/>
+		</imgdir>
+    <imgdir name="4032263">
+			<string name="name" value="Shaman Charm  "/>
+			<string name="desc" value="A Charm given to you by Chrishrama to be placed on a Shaman Rock. It is said that it contains energies that can chase away evil."/>
+		</imgdir>
+    <imgdir name="4032264">
+			<string name="name" value="Spring Flower Seed  "/>
+			<string name="desc" value="A seed that grows into a Spring Flower."/>
+		</imgdir>
+    <imgdir name="4032265">
+			<string name="name" value="Spring Flower Petal"/>
+			<string name="desc" value="The petals that make up the Spring Flower."/>
+		</imgdir>
+    <imgdir name="4032266">
+			<string name="name" value="Dazzling Sunlight"/>
+			<string name="desc" value="Dazzling sunlight filled with the feeling of spring."/>
+		</imgdir>
+    <imgdir name="4032267">
+			<string name="name" value="Building Stone"/>
+			<string name="desc" value="A hard building stone that came out of a box. Looks suitable for making a chair.  "/>
+		</imgdir>
+    <imgdir name="4032268">
+			<string name="name" value="Drape"/>
+			<string name="desc" value="A drape that came out of a box. Looks suitable for making a chair.  "/>
+		</imgdir>
+    <imgdir name="4032269">
+			<string name="name" value="Noblesse Certificate"/>
+			<string name="desc" value="A certificate proving that you've learned the basic controls for the game. You must show it to Empress Cygnus.  "/>
+		</imgdir>
+    <imgdir name="4032270">
+			<string name="name" value="Glistening Sunlight"/>
+			<string name="desc" value="Glistening sunlight filled with the feeling of spring."/>
+		</imgdir>
+    <imgdir name="4032271">
+			<string name="name" value="Pure Small Sprout  "/>
+			<string name="desc" value="A fragrant new sprout filled with the energies of spring. Used as an ingredient for Pure Perfume.  "/>
+		</imgdir>
+    <imgdir name="4032272">
+			<string name="name" value="Stationery of Longing "/>
+			<string name="desc" value="Pink stationary that's rumored to return a favorable response if used to send a letter to a secret crush.  "/>
+		</imgdir>
+    <imgdir name="4032273">
+			<string name="name" value="Pencil of Courage X 10  "/>
+			<string name="desc" value="A pencil that's used to write things you don't have the courage to say. "/>
+		</imgdir>
+    <imgdir name="4032275">
+			<string name="name" value="Pure Normal Sprout  "/>
+			<string name="desc" value="A fragrant new sprout filled with the energies of spring. Used as an ingredient for Pure Perfume. "/>
+		</imgdir>
+</imgdir>

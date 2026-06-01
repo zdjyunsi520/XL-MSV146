@@ -1,0 +1,75 @@
+<imgdir name="Npc.img">
+    <imgdir name="1064009">
+		<string name="name" value="解除魔法的猪"/>
+		<string name="n0" value="哼哼！哼哼哼！（我以为他们要吃了我！）"/>
+		<string name="n1" value="哼哼！哼哼哼！（我真实的脸也很漂亮，不是吗？）"/>
+	</imgdir>
+    <imgdir name="1064010">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="嘿嘿嘿..."/>
+		<string name="n1" value="你不想知道黑暗领域拥有的稀有宝藏吗？"/>
+	</imgdir>
+    <imgdir name="1064011">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="嘿嘿嘿..."/>
+		<string name="n1" value="你不想知道黑暗领域拥有的稀有宝藏吗？"/>
+	</imgdir>
+    <imgdir name="1064012">
+		<string name="name" value="第一道封印门"/>
+	</imgdir>
+    <imgdir name="1064013">
+		<string name="name" value="第二道封印门"/>
+	</imgdir>
+    <imgdir name="1064014">
+		<string name="name" value="第三道封印门"/>
+	</imgdir>
+    <imgdir name="1064015">
+		<string name="name" value="第四道封印门"/>
+	</imgdir>
+    <imgdir name="1064016">
+		<string name="name" value="隐秘之门"/>
+	</imgdir>
+    <imgdir name="1064017">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+    <imgdir name="1064018">
+		<string name="name" value="Kiku"/>
+	</imgdir>
+    <imgdir name="1064019">
+		<string name="name" value="Kiriko"/>
+	</imgdir>
+    <imgdir name="1064020">
+		<string name="name" value="Kiridu"/>
+	</imgdir>
+    <imgdir name="1064021">
+		<string name="name" value="Kidan"/>
+	</imgdir>
+    <imgdir name="1064022">
+		<string name="name" value="Shinsoo"/>
+	</imgdir>
+    <imgdir name="1064023">
+		<string name="name" value="Cygnus"/>
+		<string name="func" value="女皇"/>
+	</imgdir>
+    <imgdir name="1064024">
+		<string name="name" value="Alicia"/>
+		<string name="func" value="生命火花"/>
+	</imgdir>
+    <imgdir name="1064025">
+		<string name="name" value="Havis"/>
+		<string name="n0" value="世界上没有我打不开的锁！"/>
+		<string name="n1" value="粗糙木钥匙只能打开一次门..."/>
+	</imgdir>
+    <imgdir name="1064026">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="战术家"/>
+	</imgdir>
+    <imgdir name="1064027">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="嘿嘿嘿..."/>
+		<string name="n1" value="你不想知道黑暗领域拥有的稀有宝藏吗？"/>
+	</imgdir>
+    <imgdir name="1064028">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+</imgdir>

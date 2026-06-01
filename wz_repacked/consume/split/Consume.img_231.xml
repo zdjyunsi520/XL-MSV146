@@ -1,0 +1,86 @@
+<imgdir name="Consume.img">
+    <imgdir name="2370009">
+		<string name="name" value="The Writs of Solomon IV"/>
+		<string name="desc" value="An ancient document of collected wisdom from various elders, sages and warriors in the Maple World. Reading this allows one to gain their collective experience (EXP) in a single second. This edition provides 500 EXP. Only available for users under"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370010">
+		<string name="name" value="The Writs of Solomon III"/>
+		<string name="desc" value="An ancient document of collected wisdom from various elders, sages and warriors in the Maple World. Reading this allows one to gain their collective experience (EXP) in a single second. This edition provides 300 EXP. Only available for users under"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370011">
+		<string name="name" value="The Writs of Solomon II"/>
+		<string name="desc" value="An ancient document of collected wisdom from various elders, sages and warriors in the Maple World. Reading this allows one to gain their collective experience (EXP) in a single second. This edition provides 200 EXP. Only available for users under"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370012">
+		<string name="name" value="The Writs of Solomon I"/>
+		<string name="desc" value="An ancient document of collected wisdom from various elders, sages and warriors in the Maple World. Reading this allows one to gain their collective experience (EXP) in a single second. This edition provides 100 EXP. Only available for users under"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2380000">
+		<string name="name" value="Snail Card"/>
+		<string name="desc" value="A card that features Snail."/>
+	</imgdir>
+    <imgdir name="2380001">
+		<string name="name" value="Blue Snail Card"/>
+		<string name="desc" value="A card that features Blue Snail."/>
+	</imgdir>
+    <imgdir name="2380002">
+		<string name="name" value="Spore Card"/>
+		<string name="desc" value="A card that features Spore."/>
+	</imgdir>
+    <imgdir name="2380003">
+		<string name="name" value="Stump Card"/>
+		<string name="desc" value="StumpA card that features"/>
+	</imgdir>
+    <imgdir name="2380004">
+		<string name="name" value="Red Snail Card"/>
+		<string name="desc" value="Red SnailA card that features"/>
+	</imgdir>
+    <imgdir name="2380005">
+		<string name="name" value="Slime Card"/>
+		<string name="desc" value="A card that features Slime"/>
+	</imgdir>
+    <imgdir name="2380006">
+		<string name="name" value="Pig Card"/>
+		<string name="desc" value="A card that features Pig"/>
+	</imgdir>
+    <imgdir name="2380007">
+		<string name="name" value="Orange Mushroom Card"/>
+		<string name="desc" value="A card that features Orange Mushroom."/>
+	</imgdir>
+    <imgdir name="2380008">
+		<string name="name" value="Dark Stump Card"/>
+		<string name="desc" value="A card that features Dark Stump."/>
+	</imgdir>
+    <imgdir name="2380009">
+		<string name="name" value="Ribbon Pig Card"/>
+		<string name="desc" value="A card that features Ribbon Pig"/>
+	</imgdir>
+    <imgdir name="2380010">
+		<string name="name" value="Octopus Card"/>
+		<string name="desc" value="A card that features Octopus."/>
+	</imgdir>
+    <imgdir name="2380011">
+		<string name="name" value="Green Mushroom Card"/>
+		<string name="desc" value="A card that features Green Mushroom."/>
+	</imgdir>
+    <imgdir name="2380012">
+		<string name="name" value="Bubbling Card"/>
+		<string name="desc" value="A card that features Bubbling."/>
+	</imgdir>
+    <imgdir name="2380013">
+		<string name="name" value="Cynical Orange Mushroom Card"/>
+		<string name="desc" value="A card featuring the Cynical Orange Mushroom."/>
+	</imgdir>
+    <imgdir name="2380014">
+		<string name="name" value="Dejected Green Mushroom Card"/>
+		<string name="desc" value="A card featuring the Dejected Green Mushroom."/>
+	</imgdir>
+    <imgdir name="2380015">
+		<string name="name" value="Muru Card"/>
+		<string name="desc" value="A card featuring Muru."/>
+	</imgdir>
+</imgdir>

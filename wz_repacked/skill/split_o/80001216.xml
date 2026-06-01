@@ -1,0 +1,5 @@
+<imgdir name="80001216">
+        <string name="name" value="Hot Totem Drop" />
+        <string name="desc" value="Hot totems everywhere! When summoned by a soul weapon, Zakum deals damage to nearby enemies." />
+        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec\nCooldown: #cooltime sec" />
+    </imgdir>

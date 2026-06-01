@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8145101">
+		<string name="name" value="Angry Targa"/>
+	</imgdir>
+    <imgdir name="8145102">
+		<string name="name" value="Angry Targa"/>
+	</imgdir>
+    <imgdir name="8145200">
+		<string name="name" value="Scarboss"/>
+	</imgdir>
+    <imgdir name="8145201">
+		<string name="name" value="Furious Scarboss"/>
+	</imgdir>
+    <imgdir name="8145202">
+		<string name="name" value="Furious Scarboss"/>
+	</imgdir>
+    <imgdir name="8150000">
+		<string name="name" value="Crimson Balrog"/>
+	</imgdir>
+    <imgdir name="8150100">
+		<string name="name" value="Shark"/>
+	</imgdir>
+    <imgdir name="8150101">
+		<string name="name" value="Cold Shark"/>
+	</imgdir>
+    <imgdir name="8150200">
+		<string name="name" value="Green Cornian"/>
+	</imgdir>
+    <imgdir name="8150201">
+		<string name="name" value="Dark Cornian"/>
+	</imgdir>
+    <imgdir name="8150300">
+		<string name="name" value="Red Wyvern"/>
+	</imgdir>
+    <imgdir name="8150301">
+		<string name="name" value="Blue Wyvern"/>
+	</imgdir>
+    <imgdir name="8150302">
+		<string name="name" value="Dark Wyvern"/>
+	</imgdir>
+    <imgdir name="8160000">
+		<string name="name" value="Gatekeeper"/>
+	</imgdir>
+    <imgdir name="8170000">
+		<string name="name" value="Thanatos"/>
+	</imgdir>
+    <imgdir name="8180000">
+		<string name="name" value="Manon"/>
+	</imgdir>
+    <imgdir name="8180001">
+		<string name="name" value="Griffey"/>
+	</imgdir>
+    <imgdir name="8190000">
+		<string name="name" value="Jr. Newtie"/>
+	</imgdir>
+    <imgdir name="8190001">
+		<string name="name" value="Jr. Newtie"/>
+	</imgdir>
+    <imgdir name="8190002">
+		<string name="name" value="Nest Golem"/>
+	</imgdir>
+</imgdir>

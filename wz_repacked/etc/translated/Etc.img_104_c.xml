@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031697">
+			<string name="name" value="银吊坠"/>
+			<string name="desc" value="带有玫瑰雕刻的吊坠。尚未连接到链条上"/>
+		</imgdir>
+    <imgdir name="4031698">
+			<string name="name" value="魔法装置"/>
+			<string name="desc" value="一种带有控制魔法宝石的装置。只有炼金术士知道它是如何工作的"/>
+		</imgdir>
+    <imgdir name="4031699">
+			<string name="name" value="太阳之泪"/>
+			<string name="desc" value="仙女制作的仙女解药。是用阳光制成的"/>
+		</imgdir>
+    <imgdir name="4031700">
+			<string name="name" value="月亮之泪"/>
+			<string name="desc" value="仙女制作的仙女解药。是用月光制成的"/>
+		</imgdir>
+    <imgdir name="4031701">
+			<string name="name" value="春吉的西瓜"/>
+			<string name="desc" value="从春吉田里种植的甜西瓜"/>
+		</imgdir>
+    <imgdir name="4031702">
+			<string name="name" value="透明物品"/>
+			<string name="desc" value="用于对抗西瓜守护者的透明物品"/>
+		</imgdir>
+    <imgdir name="4031703">
+			<string name="name" value="普通树枝"/>
+			<string name="desc" value="一根看起来普通的树枝。似乎没有任何特殊能力"/>
+		</imgdir>
+    <imgdir name="4031704">
+			<string name="name" value="匿名研究报告"/>
+			<string name="desc" value="一份由未知人员编写的研究报告。研究似乎是关于使用金属强化身体"/>
+		</imgdir>
+    <imgdir name="4031705">
+			<string name="name" value="奇怪的水瓶"/>
+			<string name="desc" value="一个装有透明水的水瓶。它被紧紧锁住"/>
+		</imgdir>
+    <imgdir name="4031706">
+			<string name="name" value="菲莉亚的信"/>
+			<string name="desc" value="菲莉亚写给埃里克森的信。似乎是关于基尼的状况"/>
+		</imgdir>
+    <imgdir name="4031707">
+			<string name="name" value="爱立信的信"/>
+			<string name="desc" value="爱立信写给菲莉亚的信。似乎是关于基尼的药"/>
+		</imgdir>
+    <imgdir name="4031708">
+			<string name="name" value="秘密文件"/>
+			<string name="desc" value="一份用密码写成的秘密文件。底部部分严重损坏，无法读取"/>
+		</imgdir>
+    <imgdir name="4031709">
+			<string name="name" value="无光魔法装置"/>
+			<string name="desc" value="一个已经完全用完的魔法装置。不再有用"/>
+		</imgdir>
+    <imgdir name="4031710">
+			<string name="name" value="新叶城地铁票(基础)"/>
+			<string name="desc" value="从克里宁城前往马斯特里亚大陆新叶城的地铁基础车票"/>
+		</imgdir>
+    <imgdir name="4031711">
+			<string name="name" value="新叶城地铁票(普通)"/>
+			<string name="desc" value="从克里宁城前往马斯特里亚大陆新叶城的地铁普通车票"/>
+		</imgdir>
+    <imgdir name="4031712">
+			<string name="name" value="克里宁城地铁票(基础)"/>
+			<string name="desc" value="从新叶城前往维多利亚岛克里宁城的地铁基础车票"/>
+		</imgdir>
+    <imgdir name="4031713">
+			<string name="name" value="克里宁城地铁票(普通)"/>
+			<string name="desc" value="从新叶城前往维多利亚岛克里宁城的地铁普通车票"/>
+		</imgdir>
+    <imgdir name="4031731">
+			<string name="name" value="新加坡机票(从维多利亚树出发)"/>
+			<string name="desc" value="从维多利亚树前往樟宜机场的普通机票"/>
+		</imgdir>
+    <imgdir name="4031732">
+			<string name="name" value="克里宁城机票(从中央商务区出发)"/>
+			<string name="desc" value="从樟宜机场前往克里宁城的普通机票"/>
+		</imgdir>
+    <imgdir name="4031733">
+			<string name="name" value="新加坡机票(从奥比斯出发)"/>
+			<string name="desc" value="从奥比斯前往樟宜机场的普通机票"/>
+		</imgdir>
+</imgdir>

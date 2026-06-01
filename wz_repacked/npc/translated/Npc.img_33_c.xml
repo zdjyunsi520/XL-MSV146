@@ -1,0 +1,68 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159350">
+		<string name="name" value="神秘女士"/>
+		<string name="d0" value="...人类怎么会在这样的地方...？！"/>
+		<string name="d1" value="哼..."/>
+	</imgdir>
+    <imgdir name="2159351">
+		<string name="name" value="克劳丁"/>
+		<string name="d0" value="那真的很艰难。"/>
+		<string name="d1" value="敌人...和朋友..."/>
+	</imgdir>
+    <imgdir name="2159352">
+		<string name="name" value="埃克哈特"/>
+		<string name="d0" value="嗯..."/>
+		<string name="d1" value="...哼！"/>
+	</imgdir>
+    <imgdir name="2159353">
+		<string name="name" value="幻影"/>
+	</imgdir>
+    <imgdir name="2159354">
+		<string name="name" value="古瓦鲁"/>
+	</imgdir>
+    <imgdir name="2159355">
+		<string name="name" value="马格努斯"/>
+	</imgdir>
+    <imgdir name="2159356">
+		<string name="name" value="阿兰"/>
+	</imgdir>
+    <imgdir name="2159357">
+		<string name="name" value="弗洛伊德"/>
+	</imgdir>
+    <imgdir name="2159358">
+		<string name="name" value="恶魔杀手"/>
+	</imgdir>
+    <imgdir name="2159359">
+		<string name="name" value="黑魔法师"/>
+	</imgdir>
+    <imgdir name="2159360">
+		<string name="name" value="黑魔法师手下"/>
+	</imgdir>
+    <imgdir name="2159361">
+		<string name="name" value="黑魔法师手下"/>
+	</imgdir>
+    <imgdir name="2159362">
+		<string name="name" value="黑魔法师"/>
+	</imgdir>
+    <imgdir name="2159363">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="2159364">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="2159365">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="2159366">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="2159367">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="2159368">
+		<string name="name" value="童年的自己"/>
+	</imgdir>
+    <imgdir name="2159369">
+		<string name="name" value="童年的自己"/>
+	</imgdir>
+</imgdir>

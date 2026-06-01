@@ -1,0 +1,5 @@
+<imgdir name="36111006">
+        <string name="name" value="Manifest Projector" />
+        <string name="desc" value="Creates a projection of you that inflicts a portion of the damage you do. It will disappear when it takes damage proportional to your own HP. The projection cannot replicate Pinpoint Salvo or the Aegis System." />
+        <string name="h" value="MP Cost: #mpCon, Creates a clone hologram. Projection Damage: #y%. Projection disappears after losing #x00% of your max HP." />
+    </imgdir>

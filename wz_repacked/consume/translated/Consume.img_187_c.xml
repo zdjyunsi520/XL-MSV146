@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290046">
+		<string name="name" value="[能手册] 暴风雪"/>
+		<string name="desc" value="70%概率将#c暴风雪#的最高等级提升到20级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290047">
+		<string name="name" value="[能手册] 暴风雪"/>
+		<string name="desc" value="50%概率将#c暴风雪#的最高等级提升到30级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290048">
+		<string name="name" value="[能手册] 创世之破"/>
+		<string name="desc" value="70%概率将#c创世之破#的最高等级提升到20级。\r\n职业：主教\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290049">
+		<string name="name" value="[能手册] 创世之破"/>
+		<string name="desc" value="50%概率将#c创世之破#的最高等级提升到30级。\r\n职业：主教\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290050">
+		<string name="name" value="[能手册] 天使射线"/>
+		<string name="desc" value="70%概率将#c天使射线#的最高等级提升到20级。\r\n职业：主教\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290051">
+		<string name="name" value="[能手册] 天使射线"/>
+		<string name="desc" value="50%概率将#c天使射线#的最高等级提升到30级。\r\n职业：主教\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290052">
+		<string name="name" value="[能手册] 火眼晶晶 20"/>
+		<string name="desc" value="70%概率将#c火眼晶晶#的最高等级提升到20级。\n职业：弓箭手4转、猎人\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290053">
+		<string name="name" value="[能手册] 火眼晶晶 30"/>
+		<string name="desc" value="50%概率将#c火眼晶晶#的最高等级提升到30级。\n职业：弓箭手4转、猎人\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290054">
+		<string name="name" value="[能手册] 火眼晶晶 20"/>
+		<string name="desc" value="70%概率将#c火眼晶晶#的最高等级提升到20级。\n职业：弓箭手4转、猎人\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290055">
+		<string name="name" value="[能手册] 火眼晶晶 30"/>
+		<string name="desc" value="50%概率将#c火眼晶晶#的最高等级提升到30级。\n职业：弓箭手4转、猎人\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290056">
+		<string name="name" value="[能手册] 弓术精通"/>
+		<string name="desc" value="70%概率将#c弓术精通#的最高等级提升到20级。\r\n职业：神射手\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290057">
+		<string name="name" value="[能手册] 弓术精通"/>
+		<string name="desc" value="50%概率将#c弓术精通#的最高等级提升到30级。\r\n职业：神射手\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290058">
+		<string name="name" value="[能手册] 幻影步 20"/>
+		<string name="desc" value="70%概率将#c幻影步#的最高等级提升到20级。\n职业：弓箭手4转\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290059">
+		<string name="name" value="[能手册] 幻影步 30"/>
+		<string name="desc" value="50%概率将#c幻影步#的最高等级提升到30级。\n职业：弓箭手4转\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290060">
+		<string name="name" value="[能手册] 暴风箭雨"/>
+		<string name="desc" value="70%概率将#c暴风箭雨#的最高等级提升到20级。\r\n职业：神射手\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290061">
+		<string name="name" value="[能手册] 暴风箭雨"/>
+		<string name="desc" value="50%概率将#c暴风箭雨#的最高等级提升到30级。\r\n职业：神射手\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290062">
+		<string name="name" value="[能手册] 凤凰灵链 20"/>
+		<string name="desc" value="70%概率将#c凤凰灵链#的最高等级提升到20级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290063">
+		<string name="name" value="[能手册] 凤凰灵链 30"/>
+		<string name="desc" value="50%概率将#c凤凰灵链#的最高等级提升到30级。\n职业：神射手\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290064">
+		<string name="name" value="[能手册] 高级终极攻击 20"/>
+		<string name="desc" value="70%概率将#c高级终极攻击#的最高等级提升到20级。\n职业：英雄、神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290065">
+		<string name="name" value="[能手册] 高级终极攻击 30"/>
+		<string name="desc" value="50%概率将#c高级终极攻击#的最高等级提升到30级。\n职业：英雄、神射手\n条件：技能等级15级以上"/>
+	</imgdir>
+</imgdir>

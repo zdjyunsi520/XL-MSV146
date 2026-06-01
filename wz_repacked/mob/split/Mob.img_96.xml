@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9390014">
+		<string name="name" value="Savage Phantom Watch"/>
+	</imgdir>
+    <imgdir name="9390015">
+		<string name="name" value="Savage Grim Phantom Watch"/>
+	</imgdir>
+    <imgdir name="9390016">
+		<string name="name" value="Horrendous Skelegon"/>
+	</imgdir>
+    <imgdir name="9390017">
+		<string name="name" value="Savage Skelegon"/>
+	</imgdir>
+    <imgdir name="9390100">
+		<string name="name" value="Axe Visitor"/>
+	</imgdir>
+    <imgdir name="9390102">
+		<string name="name" value="Assassin Visitor"/>
+	</imgdir>
+    <imgdir name="9390103">
+		<string name="name" value="Spirit Visitor"/>
+	</imgdir>
+    <imgdir name="9390104">
+		<string name="name" value="Speedy Visitor"/>
+	</imgdir>
+    <imgdir name="9390110">
+		<string name="name" value="Violent Visitor"/>
+	</imgdir>
+    <imgdir name="9390111">
+		<string name="name" value="High Visitor"/>
+	</imgdir>
+    <imgdir name="9390112">
+		<string name="name" value="High Visitor"/>
+	</imgdir>
+    <imgdir name="7120114">
+		<string name="name" value="Elite Blazing Imp"/>
+	</imgdir>
+    <imgdir name="7120115">
+		<string name="name" value="Elite Pointy Imp"/>
+	</imgdir>
+    <imgdir name="9400630">
+		<string name="name" value="Event Horntail's Left Head"/>
+	</imgdir>
+    <imgdir name="9400631">
+		<string name="name" value="Event Horntail's Right Head"/>
+	</imgdir>
+    <imgdir name="9400632">
+		<string name="name" value="Event Pink Bean"/>
+	</imgdir>
+    <imgdir name="9420527">
+		<string name="name" value="Chlorotrap"/>
+	</imgdir>
+    <imgdir name="9420528">
+		<string name="name" value="Emo Slime"/>
+	</imgdir>
+    <imgdir name="9420529">
+		<string name="name" value="Dark Fission"/>
+	</imgdir>
+    <imgdir name="9420530">
+		<string name="name" value="Oly Oly"/>
+	</imgdir>
+</imgdir>

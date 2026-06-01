@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="50008001"><string name="name" value="高级时空门"/><string name="desc" value="[潜能技能]\n生成通往最近城镇的传送门。在消失前你可以自由使用。按上方向键使用。"/><string name="h1" value="MP Cost: 120, Uses 2 Magic Rocks, Portal Duration: 120 sec"/></imgdir>
+    <imgdir name="50008002"><string name="name" value="高级锐利之眼"/><string name="desc" value="[潜能技能]\n发现敌人的弱点，造成致命伤害！"/><string name="h1" value="MP Cost: 80, Crit Rate: +10%, Max Crit Damage: +15%, Duration: 240 sec"/></imgdir>
+    <imgdir name="50008003"><string name="name" value="高级极限体力"/><string name="desc" value="[潜能技能]\n提升最大HP和最大MP。"/><string name="h1" value="MP Cost: 80, Max HP and Max MP: +40%, Duration: 240 sec"/></imgdir>
+    <imgdir name="50008004"><string name="name" value="高级战斗命令"/><string name="desc" value="[潜能技能] 暂时提升你所有技能的等级。#c已经达到大师等级的技能不会被提升。#\n例外：新手技能和战斗命令不能被提升。"/><string name="h1" value="MP Cost: 64, All skill levels increased by 1 level for 240 seconds."/></imgdir>
+    <imgdir name="50008005"><string name="name" value="高级进阶祝福"/><string name="desc" value="[潜能技能]\n大幅提升物理攻击、魔法攻击、防御、命中率、回避率、最大HP和最大MP。减少使用技能时的MP消耗量。可以与其他增益技能叠加，但不能与进阶祝福叠加。"/><string name="h1" value="MP Cost: 120. For 240 seconds - Weapon ATT: +20, Magic ATT: +20, Weapon DEF +425, Magic DEF +425, Accuracy +260, Avoidability +260, Max HP +475, Max MP +475, MP Consumption: -12%"/></imgdir>
+    <imgdir name="50008006"><string name="name" value="高级极限增速"/><string name="desc" value="[潜能技能]\n消耗HP和MP，在一定时间内提升攻击速度1级。可以与其他增益技能叠加，但不能与极限增速叠加。"/><string name="h1" value="HP Cost: 120, MP Cost: 120, Attack Speed increased for 240 seconds."/></imgdir>
+    <imgdir name="50009000"><string name="name" value="猪的弱点"/><string name="desc" value="[大师等级：1]\n对猪造成150%的伤害。"/></imgdir>
+    <imgdir name="50009001"><string name="name" value="树桩的弱点"/><string name="desc" value="[大师等级：1]\n对树桩造成150%的伤害。"/></imgdir>
+    <imgdir name="50009002"><string name="name" value="水母的弱点"/><string name="desc" value="[大师等级：1]\n对水母造成150%的伤害。"/></imgdir>
+    <imgdir name="5100"><string name="bookName" value="米哈尔一转"/></imgdir>
+    <imgdir name="51000000"><string name="name" value="HP提升"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="51000001"><string name="name" value="灵魂之盾"/><string name="desc" value="放大灵魂之盾的力量来提升防御。"/><string name="h" value="Weapon DEF: +#pddX, Magic DEF: +#mddX"/></imgdir>
+    <imgdir name="51000002"><string name="name" value="灵魂奉献"/><string name="desc" value="永久提升命中率、移动速度和跳跃力。\n前置技能：#c灵魂之盾 Lv.1#"/><string name="h" value="Accuracy +#accX, Speed +#psdSpeed, Jump +#psdJump"/></imgdir>
+    <imgdir name="51001003"><string name="name" value="轻灵之心"/><string name="desc" value="在跳跃中使用可以跳得更远。技能等级越高跳跃距离越远。"/><string name="h" value="MP Cost: #mpCon, jumps further"/></imgdir>
+    <imgdir name="51001004"><string name="name" value="灵魂之刃"/><string name="desc" value="召唤并赋予无形的灵魂之力以形态，对敌人造成伤害！"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount"/><string name="pdesc" value="召唤并赋予无形的灵魂之力以形态，对敌人造成伤害。"/><string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="5110"><string name="bookName" value="米哈尔二转"/></imgdir>
+    <imgdir name="51100000"><string name="name" value="体能训练"/><string name="desc" value="通过纯粹的体能训练永久提升力量和敏捷。"/><string name="h" value="Permanently increase STR by #strX and DEX by #dexX."/></imgdir>
+    <imgdir name="51100001"><string name="name" value="剑精通"/><string name="desc" value="提升单手剑的武器熟练度和命中率。"/><string name="h" value="One-Handed Sword Mastery: +#mastery%, Accuracy: +#accX"/></imgdir>
+    <imgdir name="51100002"><string name="name" value="终极攻击"/><string name="desc" value="使用攻击技能后有概率造成额外伤害。需要装备单手剑。\n前置技能：#c剑精通 Lv.3#"/><string name="h" value="Proc Rate: #prop%, Damage: #damage%"/></imgdir>
+    <imgdir name="51101003"><string name="name" value="剑加速"/><string name="desc" value="使武器攻击速度翻倍。需要装备单手剑。\n前置技能：#c剑精通 Lv.5#"/><string name="h" value="MP Cost: #mpCon, Duration: #time sec"/></imgdir>
+</imgdir>

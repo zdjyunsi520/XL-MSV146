@@ -1,0 +1,134 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201017">
+		<string name="name" value="Dr.Roberts"/>
+		<string name="func" value="Lens Expert"/>
+		<string name="n0" value="Hey there! How about a beautiful set of eyes to match your style? "/>
+		<string name="n1" value="Don't worry, these are clinically proven lenses! "/>
+	</imgdir>
+    <imgdir name="9201019">
+		<string name="name" value="Intern Shakihands"/>
+		<string name="func" value="Visage Nurse"/>
+		<string name="n0" value="I'm still learning, but I'll do my best to give you a nice look..."/>
+		<string name="n1" value="Ready for a makeover? I'm a little new, but I'll do my best!"/>
+	</imgdir>
+    <imgdir name="9201020">
+		<string name="name" value="Vivian Boutique"/>
+		<string name="func" value="Wedding Wear Vendor"/>
+		<string name="n0" value="Wedding items for the bride and groom are on sale now! "/>
+		<string name="n1" value="Be a good friend and pick up a gift for the couple!"/>
+	</imgdir>
+    <imgdir name="9201021">
+		<string name="name" value="Robin The Huntress"/>
+		<string name="func" value="Elegant Arrow-gance"/>
+		<string name="n0" value="I'm ready to party. Are you? Bring me the keys and I'll send you someplace special!"/>
+		<string name="n1" value="Let's party! If you've got the keys, I know a special door you can open."/>
+	</imgdir>
+    <imgdir name="9201022">
+		<string name="name" value="Thomas Swift"/>
+		<string name="func" value="Amoria Ambassador"/>
+		<string name="n0" value="Found love? Ready to get married? "/>
+		<string name="n1" value="I know the way to Amoria, if you want to go."/>
+	</imgdir>
+    <imgdir name="9201023">
+		<string name="name" value="Nana"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201024">
+		<string name="name" value="Nana(E)"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201025">
+		<string name="name" value="Nana(O)"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201026">
+		<string name="name" value="Nana(L)"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201027">
+		<string name="name" value="Nana(P)"/>
+		<string name="func" value="Love Fairy"/>
+		<string name="n0" value="I'm waiting for you to prove your devotion to your beloved!"/>
+		<string name="n1" value="Proof of Love is very important!"/>
+	</imgdir>
+    <imgdir name="9201028">
+		<string name="name" value="Malady"/>
+		<string name="func" value="Witch at Large - Halloween"/>
+		<string name="n0" value="Trick or treat!"/>
+		<string name="n1" value="Happy Halloween!"/>
+	</imgdir>
+    <imgdir name="9201029">
+		<string name="name" value="Grandma Benson"/>
+		<string name="func" value="Pie Advocate - Thanksgiving"/>
+		<string name="n0" value="I love to cook, but I need ingredients! "/>
+		<string name="n1" value="If you help me, you'll get something delicious!"/>
+		<string name="d0" value="I love to cook, but I need ingredients! If you help me, you'll get something delicious!"/>
+		<string name="d1" value="Thank you for your help!"/>
+	</imgdir>
+    <imgdir name="9201030">
+		<string name="name" value="Maple Claws"/>
+		<string name="func" value="Furrious Santa - Maplemas"/>
+		<string name="n0" value="Hi! I'm Maple Claws and I need your help!"/>
+		<string name="n1" value="I might have a present for you."/>
+		<string name="d0" value="Merry Maplemas!"/>
+		<string name="d1" value="Hello again!  Thank you for spreading the Maplemas Spirit!"/>
+		<string name="s0" value="Isn't my friend cute? Look above my head!"/>
+		<string name="s1" value="Merry Christmas! It's going to be a very happy Christmas!"/>
+	</imgdir>
+    <imgdir name="9201031">
+		<string name="name" value="Hannah"/>
+		<string name="func" value="Temple Priestess - Hanukkah"/>
+		<string name="n0" value="I have to get ready for the Festival of Lights! I just need some help with preparations!"/>
+		<string name="n1" value="Well, hello there! I've started building the altar. If you would like to help me with the final preparations for the ceremony, please let me know. "/>
+		<string name="d0" value="I have to get ready for the Festival of Lights! I just need some help with preparations!"/>
+		<string name="d1" value="Thanks for your help!"/>
+	</imgdir>
+    <imgdir name="9201033">
+		<string name="name" value="Simon"/>
+		<string name="func" value="Temple Guide - Hanukkah"/>
+		<string name="n0" value="Would you like to go to the Hanukkah area?"/>
+		<string name="n1" value="Hanukkah is a really fascinating holiday, you know?"/>
+	</imgdir>
+    <imgdir name="9201034">
+		<string name="name" value="Ben"/>
+		<string name="n0" value="What am I going to do?"/>
+		<string name="n1" value="I want to make this flower for my wife..."/>
+		<string name="d0" value="What am I going to do?"/>
+		<string name="d1" value="Thanks again for all your help. The Red Dahlia turned out great!"/>
+	</imgdir>
+    <imgdir name="9201035">
+		<string name="name" value="Jacob"/>
+		<string name="n0" value="The Sakura Garden is now accepting help from all travelers! Including you! Yes, you!"/>
+		<string name="n1" value="The lovely Sakura Garden is almost open! Be one of the good people who helped get it started! Inquire here!"/>
+		<string name="d0" value="The Sakura Garden is now accepting help from all travelers! Including you! Yes, you!"/>
+		<string name="d1" value="You're assistance has proven invaluable, my friend. Thanks again!"/>
+		<string name="func" value="Wedding Ring Operator"/>
+	</imgdir>
+    <imgdir name="9201037">
+		<string name="name" value="Gary and Shatima"/>
+		<string name="n0" value="I'm not sure how we'll get married now..."/>
+		<string name="n1" value="Someone will be along to help us any moment, Gary... I can feel it."/>
+		<string name="d0" value="I'm not sure how we'll get married now..."/>
+		<string name="d1" value="My fiancee and I both thank you. Your kindness has touched both of our hearts."/>
+	</imgdir>
+    <imgdir name="9201040">
+		<string name="name" value="Mr. Spot"/>
+		<string name="n0" value="Do your chores for Mom and Dad, then come see me!"/>
+		<string name="n1" value="I've got a nice surprise for you. Expect more!"/>
+		<string name="d0" value="Do your chores for Mom and Dad, then come see me!"/>
+		<string name="d1" value="Thanks for your help!"/>
+	</imgdir>
+    <imgdir name="9201041">
+		<string name="name" value="Bullseye"/>
+		<string name="n0" value="Arf, arf! I can tell you about Nexon Prepaids. "/>
+		<string name="n1" value="What? You've never heard a dog bark before? Get over it!"/>
+	</imgdir>
+</imgdir>

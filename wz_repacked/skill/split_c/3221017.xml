@@ -1,0 +1,5 @@
+<imgdir name="3221017">
+        <string name="name" value="穿透箭" />
+        <string name="desc" value="发射箭矢。每穿透一个敌人效果增强~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大穿透敌人数: #mobCount, 攻击次数: #attackCount，每次穿透伤害提升1.2倍" />
+    </imgdir>

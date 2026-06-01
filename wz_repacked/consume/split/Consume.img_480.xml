@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431551">
+		<string name="desc" value="Sweet Valentine's Day Candy"/>
+		<string name="name" value="Valentine's Day Candy"/>
+	</imgdir>
+    <imgdir name="2431555">
+		<string name="desc" value="#cDouble-click# while having the #cHeart Necklace Chain# in your possession to acquire the #cDefective Heart Necklace#."/>
+		<string name="name" value="Heart Pendant"/>
+	</imgdir>
+    <imgdir name="2431556">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace# in your possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Defective Heart Necklace or the Warrior's Evolving Heart Necklace."/>
+		<string name="name" value="Maple Warrior's Heart (Warrior)"/>
+	</imgdir>
+    <imgdir name="2431557">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace# in your possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Defective Heart Necklace or the Magician's Evolving Heart Necklace."/>
+		<string name="name" value="Maple Warrior's Heart (Magician)"/>
+	</imgdir>
+    <imgdir name="2431558">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace# in your possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Defective Heart Necklace or the Bowman's Evolving Heart Necklace."/>
+		<string name="name" value="Maple Warrior's Heart (Bowman)"/>
+	</imgdir>
+    <imgdir name="2431559">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace# in your possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Defective Heart Necklace or the Thief's Evolving Heart Necklace."/>
+		<string name="name" value="Maple Warrior's Heart (Thief)"/>
+	</imgdir>
+    <imgdir name="2431560">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace# in your possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Defective Heart Necklace or the Pirate's Evolving Heart Necklace."/>
+		<string name="name" value="Maple Warrior's Heart (Pirate)"/>
+	</imgdir>
+    <imgdir name="2431561">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace#  inyour possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Warrior's Completed Heart Necklace or the Warrior's Awakened Heart Necklace."/>
+		<string name="name" value="Advanced Maple Warrior's Heart (Warrior)"/>
+	</imgdir>
+    <imgdir name="2431562">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace#  inyour possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Magician's Completed Heart Necklace or the Magician's Awakened Heart Necklace."/>
+		<string name="name" value="Advanced Maple Warrior's Heart (Magician)"/>
+	</imgdir>
+    <imgdir name="2431563">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace#  inyour possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Bowman's Completed Heart Necklace or the Bowman's Awakened Heart Necklace."/>
+		<string name="name" value="Advanced Maple Warrior's Heart (Bowman)"/>
+	</imgdir>
+    <imgdir name="2431564">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace#  inyour possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Thief's Completed Heart Necklace or the Thief's Awakened Heart Necklace."/>
+		<string name="name" value="Advanced Maple Warrior's Heart (Thief)"/>
+	</imgdir>
+    <imgdir name="2431565">
+		<string name="desc" value="Use this to evolve the #cHeart Necklace#. #cDouble-click# with the #cHeart Necklace#  inyour possession to evolve that #cHeart Necklace# to the next stage.\n\n#cCan be used on the Pirate's Completed Heart Necklace or the PIrate's Awakened Heart Necklace."/>
+		<string name="name" value="Advanced Maple Warrior's Heart (Pirate)"/>
+	</imgdir>
+    <imgdir name="2431566">
+		<string name="desc" value="Collect pieces of warrior hearts to exchange for a #cMaple Warrior's Heart#. \n\n#c20: Maple Warrior's Heart\n50: Advanced Maple Warrior's Heart"/>
+		<string name="name" value="Warrior Heart Fragment"/>
+	</imgdir>
+    <imgdir name="2431567">
+		<string name="desc" value="Collect pieces of magician hearts to exchange for a #cMaple Warrior's Heart#. \n\n#c20: Maple Warrior's Heart\n50: Advanced Maple Warrior's Heart"/>
+		<string name="name" value="Magician Heart Fragment"/>
+	</imgdir>
+    <imgdir name="2431568">
+		<string name="desc" value="Collect pieces of bowman hearts to exchange for a #cMaple Warrior's Heart#. \n\n#c20: Maple Warrior's Heart\n50: Advanced Maple Warrior's Heart"/>
+		<string name="name" value="Bowman Heart Fragment"/>
+	</imgdir>
+    <imgdir name="2431569">
+		<string name="desc" value="Collect pieces of thief hearts to exchange for a #cMaple Warrior's Heart#. \n\n#c20: Maple Warrior's Heart\n50: Advanced Maple Warrior's Heart"/>
+		<string name="name" value="Thief Heart Fragment"/>
+	</imgdir>
+    <imgdir name="2431570">
+		<string name="desc" value="Collect pieces of pirate hearts to exchange for a #cMaple Warrior's Heart#. \n\n#c20: Maple Warrior's Heart\n50: Advanced Maple Warrior's Heart"/>
+		<string name="name" value="Pirate Heart Fragment"/>
+	</imgdir>
+    <imgdir name="2431572">
+		<string name="desc" value="#cDouble-click# the item to receive a #cDefective Heart Necklace."/>
+		<string name="name" value="Heart Necklace Coupon"/>
+	</imgdir>
+    <imgdir name="2431576">
+		<string name="desc" value="A special buff for clearing 3 Party Quests in a day. Increases ATT and Magic ATT for 20 minutes. Buff effects increase with every 5 levels gained, up to level 100. \r\n#cStacks with other buffs. Does not disappear from inventory after use. Can be used as often as wanted, at 30-minute intervals during that day.#"/>
+		<string name="name" value="Together, Forever"/>
+	</imgdir>
+    <imgdir name="2431577">
+		<string name="name" value="Amorous Communique"/>
+		<string name="desc" value="A love letter intercepted by a Singles Army Trooper. Works great for kindling."/>
+	</imgdir>
+</imgdir>

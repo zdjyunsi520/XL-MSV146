@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431946">
+		<string name="desc" value="Contains one of five delectably intricate sushi family hats."/>
+		<string name="name" value="Sushi Family Hat Chest"/>
+	</imgdir>
+    <imgdir name="2431947">
+		<string name="desc" value="Double-click this coupon to receive [30 Days] Red Rose Label Ring."/>
+		<string name="name" value="[30 Days] Red Rose Label Ring"/>
+	</imgdir>
+    <imgdir name="2431948">
+		<string name="desc" value="Double-click this coupon to receive [30 Days] Red Rose Chat Ring."/>
+		<string name="name" value="[30 Days] Red Rose Chat Ring Coupon"/>
+	</imgdir>
+    <imgdir name="2431949">
+		<string name="desc" value="Double-click to gain a permanent [Giant Rooster Mount] mount skill."/>
+		<string name="name" value="Giant Rooster Mount Permanent Coupon"/>
+	</imgdir>
+    <imgdir name="2431950">
+		<string name="desc" value="Double-click to use the [Giant Rooster Mount] mount skill for 90 days."/>
+		<string name="name" value="Giant Rooster Mount 90-day Coupon"/>
+	</imgdir>
+    <imgdir name="2431951">
+		<string name="desc" value="Double-click to use the [Floaty Balloon Mount] mount skill for 2 hours."/>
+		<string name="name" value="Floaty Balloon Mount 2-hour Coupon"/>
+	</imgdir>
+    <imgdir name="2431952">
+		<string name="desc" value="A Growth Potion made with an improved formula. Take a sip to gain a level.\n#cCharacters at Level 181 or above cannot benefit from this item.#"/>
+		<string name="name" value="Evolution Storm Growth Potion"/>
+	</imgdir>
+    <imgdir name="2431953">
+		<string name="desc" value="This potion bestows a special power upon Zeros.\n#cAdds a certain amount of Weapon points when used.#"/>
+		<string name="name" value="Zero Mystery Capsule"/>
+	</imgdir>
+    <imgdir name="2431954">
+		<string name="desc" value="Use this coupon to receive a nice RED commemorative T-shirt for men."/>
+		<string name="name" value="RED T-shirt (Male) Coupon"/>
+	</imgdir>
+    <imgdir name="2431955">
+		<string name="desc" value="Use this coupon to receive a nice RED commemorative T-shirt for women."/>
+		<string name="name" value="RED T-shirt (Female) Coupon"/>
+	</imgdir>
+    <imgdir name="2431956">
+		<string name="desc" value="Use this coupon to receive a bucket of RED commemorative paint."/>
+		<string name="name" value="RED Paint Bucket Coupon"/>
+	</imgdir>
+    <imgdir name="2431957">
+		<string name="desc" value="Use this coupon to receive a limited edition Rhinne's Protection."/>
+		<string name="name" value="Rhinne's Protection Coupon"/>
+	</imgdir>
+    <imgdir name="2431959">
+		<string name="desc" value="Use this coupon to receive Former Traveling Merchant Miu Miu Coupon."/>
+		<string name="name" value="Miu Miu the Merchant Coupon"/>
+	</imgdir>
+    <imgdir name="2431963">
+		<string name="desc" value="A fragment that contains some of Black Slime's soul. Collect #c10# to trade for a Black Slime's soul."/>
+		<string name="name" value="Black Slime's Soul Shard"/>
+	</imgdir>
+    <imgdir name="2431964">
+		<string name="desc" value="A fragment that contains some of Magnus's soul. Collect #c10# to trade for a Magnus's Soul."/>
+		<string name="name" value="Magnus's Soul Shard"/>
+	</imgdir>
+    <imgdir name="2431965">
+		<string name="desc" value="Resets the Damage Skin to unused status. Cannot be used by the Zero classes."/>
+		<string name="name" value="Basic Damage Skin"/>
+	</imgdir>
+    <imgdir name="2431966">
+		<string name="desc" value="Changes to Digitalized Damage Skin.  Cannot be used by the Zero classes."/>
+		<string name="name" value="Digitalized Damage Skin"/>
+	</imgdir>
+    <imgdir name="2431967">
+		<string name="desc" value="Changes to Kritias Damage Skin. Cannot be used by the Zero classes."/>
+		<string name="name" value="Kritias Damaged Skin"/>
+	</imgdir>
+    <imgdir name="2431968">
+		<string name="desc" value="Resets your Empress clear count so that you can enter the map again. Once used, this item cannot be used again for 7 days."/>
+		<string name="name" value="Empress Reset Ticket"/>
+	</imgdir>
+    <imgdir name="2431969">
+		<string name="desc" value="Resets your Hard Magnus clear count so that you can enter the map again. Once used, this item cannot be used again for 7 days."/>
+		<string name="name" value="Hard Magnus Reset Ticket"/>
+	</imgdir>
+</imgdir>

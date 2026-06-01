@@ -1,0 +1,96 @@
+<imgdir name="Consume.img">
+    <imgdir name="2043007">
+		<string name="name" value="Dark Scroll for One-Handed Sword for Magic Attack 30%"/>
+		<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 30%, magic attack+2, INT+2, magic defense+1\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2043008">
+		<string name="name" value="Scroll for One-Handed Sword for Magic Attack 10%"/>
+		<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 10%, magic attack+2, magic defense+1, INT+2. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2043009">
+		<string name="name" value="Scroll for One-Handed Sword for Magic Attack 60%"/>
+		<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 60%, magic attack+1, INT+1. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2043010">
+		<string name="name" value="Scroll for One-Handed Sword for Magic Attack 100%"/>
+		<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 100%, magic attack+1"/>
+	</imgdir>
+    <imgdir name="2043011">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043012">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043013">
+		<string name="name" value="[6th Anniversary] Scroll for One-Handed Sword for ATT 40%"/>
+		<string name="desc" value="Improves Attack on Maple Anniversary One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nSTR: +2\r\nWeapon Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2043015">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 100%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2043016">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 70%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043017">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 60%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043018">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 30%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043019">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 10%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043021">
+		<string name="name" value="King Pepe's 60% Scroll for One-handed Sword Attacks"/>
+		<string name="desc" value="Improves Attack on King Pepe Cutlasses."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043022">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 50%"/>
+		<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:50%, weapon attack+5, STR+3, DEX+1"/>
+	</imgdir>
+    <imgdir name="2043023">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 100%"/>
+		<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:100%, weapon attack+2, STR+2"/>
+	</imgdir>
+    <imgdir name="2043024">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 65%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +2\r\nWeapon Attack: +1\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043025">
+		<string name="name" value="Scroll for One-Handed Sword for Accuracy 15%"/>
+		<string name="desc" value="Improves Accuracy on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\nWeapon Attack: +3\r\nAccuracy: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043100">
+		<string name="name" value="Scroll for One-Handed Axe for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Axes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2043101">
+		<string name="name" value="Scroll for One-Handed Axe for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Axes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043102">
+		<string name="name" value="Scroll for One-Handed Axe for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Axes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+</imgdir>

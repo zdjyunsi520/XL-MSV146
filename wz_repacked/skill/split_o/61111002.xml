@@ -1,0 +1,5 @@
+<imgdir name="61111002">
+        <string name="name" value="Stone Dragon" />
+        <string name="desc" value="Summon a dragon statue that pull in enemies and attacks with a chance to Slow." />
+        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec, Enemies Hit: #mobCount, Damage: #damage%, Slow Chance: #prop%, Slow Duration: #subTime sec" />
+    </imgdir>

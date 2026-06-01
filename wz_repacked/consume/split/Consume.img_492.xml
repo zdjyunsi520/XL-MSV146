@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046897">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n"/>
+		<string name="desc" value="Improves Weapon/Magic ATT on accessories."/>
+		<string name="name" value="RED Accessory Enhancement Scroll 50%"/>
+	</imgdir>
+    <imgdir name="2047816">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon ATT: +5 to +6\r\nMagic ATT: +5 to +6\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack and Magic Attack on Two-Handed weapons."/>
+		<string name="name" value="10th Anniversary Scroll for Two-Handed Weapon"/>
+	</imgdir>
+    <imgdir name="2047817">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nWeapon ATT: +10\r\nMagic ATT: +10\r\nSTR: +3\r\nDEX: +3\r\nINT: +3\r\nLUK: +3\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack and Magic Attack on Two-Handed weapons."/>
+		<string name="name" value="10th Anniversary Prime Scroll for Two-Handed Weapon"/>
+	</imgdir>
+    <imgdir name="2047818">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon ATT +10\r\nSTR +3\r\nDEX +3\r\nINT +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="Amazing Scroll for Two-Handed Weapon for ATT 100%"/>
+	</imgdir>
+    <imgdir name="2047822">
+		<string name="name" value="Evolution Two-handed Weapon ATT Scroll"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2047823">
+		<string name="name" value="Evolution Two-handed Weapon Intensification Scroll"/>
+		<string name="desc" value="Improves the performance of two-handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR +3\r\nDEX +3\r\nINT +3\r\nLUK +3\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047824">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="Scroll for Two-Handed Weapon for ATT 60%"/>
+	</imgdir>
+    <imgdir name="2047825">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nWeapon Attack: +2\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="Scroll for Two-Handed Weapon for ATT 80%"/>
+	</imgdir>
+    <imgdir name="2047826">
+		<string name="name" value="Evolution Two-handed Weapon ATT Scroll"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2047827">
+		<string name="name" value="Evolution Two-handed Weapon Intensification Scroll"/>
+		<string name="desc" value="Improves the performance of two-handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR +3\r\nDEX +3\r\nINT +3\r\nLUK +3\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047828">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nWeapon ATT +9\r\nSTR +3\r\nDEX +3\r\nINT +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="RED Two-handed Weapon ATT Scroll 90%"/>
+	</imgdir>
+    <imgdir name="2047829">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nWeapon ATT +8\r\n"/>
+		<string name="desc" value="Improves Weapon ATT on Two-Handed weapons."/>
+		<string name="name" value="RED Two-Handed Weapon ATT Scroll 80%"/>
+	</imgdir>
+    <imgdir name="2047949">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +5 to +6\r\nINT: +5 to +6\r\nDEX: +5 to +6\r\nLUK: +5 to +6\r\nWeapon Defense +5\r\nMagic Defense: +5\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="10th Anniversary Scroll for Armor"/>
+	</imgdir>
+    <imgdir name="2047950">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nSTR: +10\r\nINT: +10\r\nDEX: +10\r\nLUK: +10\r\nWeapon Defense +10\r\nMagic Defense: +10\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="10th Anniversary Prime Scroll for Armor"/>
+	</imgdir>
+    <imgdir name="2047951">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +125\r\nMax MP: +125\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="10th Anniversary Armor Enchantment Scroll"/>
+	</imgdir>
+    <imgdir name="2047952">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nMax HP: +250\r\nMax MP: +250\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="10th Anniversary Prime Armor Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2047955">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nSTR: +7\r\nINT: +7\r\nDEX: +7\r\nLUK: +7\r\nWeapon Defense +90\r\nMagic Defense: +90\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="Scroll for Amror 90%"/>
+	</imgdir>
+    <imgdir name="2047957">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nHP: +175\r\nWeapon Defense: +90\r\nMagic Defense: +90\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="Scroll for Armor HP 90%"/>
+	</imgdir>
+    <imgdir name="2047958">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nChance to destroy item on failure: 50%\r\nSTR +7\r\nINT +7\r\nDEX +7\r\nLUK +7"/>
+		<string name="desc" value="Enchants Wolf Equipment armor items."/>
+		<string name="name" value="Wolf Equipment Exclusive Scroll"/>
+	</imgdir>
+    <imgdir name="2047965">
+		<string name="name" value="Evolution Armor Intensification Scroll"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="autodesc" value="\r\n#c\r\nSuccess Rate: 50%\r\nSTR +3\r\nDEX+3\r\nINT +3\r\nLUK +3\r\nAvoidability +5\r\n#"/>
+	</imgdir>
+</imgdir>

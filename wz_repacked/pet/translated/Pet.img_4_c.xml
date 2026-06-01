@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000078">
+		<string name="name" value="猴子"/>
+		<string name="desc" value="这只充满好奇心的小猴子根本停不下来，到处蹦蹦跳跳的~"/>
+		<string name="descD" value="本来是一只超可爱的小猴子，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000079">
+		<string name="name" value="黑色小猫"/>
+		<string name="desc" value="安静又温柔，不怎么贪吃。不过嘛...好像不太听主人的话呢~"/>
+		<string name="descD" value="本来是一只超可爱的小猫咪，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000080">
+		<string name="name" value="企鹅"/>
+		<string name="desc" value="企鹅总是精力充沛、精神抖擞。给企鹅装备金币磁铁和道具收纳袋，就能自动拾取地上的金币和道具哦~"/>
+		<string name="descD" value="本来是一只超可爱的小企鹅，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000082">
+		<string name="name" value="虎宝宝"/>
+		<string name="desc" value="虎宝宝，2010年的超级大明星！"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000083">
+		<string name="name" value="波斯猫"/>
+		<string name="desc" value="一只优雅端庄的波斯猫~"/>
+		<string name="descD" value="你那可爱的波斯猫已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000084">
+		<string name="name" value="埃塞尔"/>
+		<string name="desc" value="埃塞尔是一只神秘的独角兽，正在寻找有缘的伙伴~"/>
+		<string name="descD" value="你那可爱的独角兽埃塞尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000085">
+		<string name="name" value="蛋糕"/>
+		<string name="desc" value="一个美味的蛋糕，为庆祝冒险岛周年纪念而烘焙！"/>
+		<string name="descD" value="曾经活着的蛋糕玩偶。维持它生命的&quot;生命之水&quot;已经干涸了。"/>
+	</imgdir>
+    <imgdir name="5000086">
+		<string name="name" value="派"/>
+		<string name="desc" value="一个美味的派，为庆祝冒险岛周年纪念而烘焙！"/>
+		<string name="descD" value="曾经活着的派玩偶。维持它生命的&quot;生命之水&quot;已经干涸了。"/>
+	</imgdir>
+    <imgdir name="5000087">
+		<string name="name" value="黑兔子"/>
+		<string name="desc" value="一只黑兔子。有点小傲娇，还喜欢对主人说教呢。\n#c技能：金币磁铁#"/>
+		<string name="descD" value="你的黑兔子已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000088">
+		<string name="name" value="黑兔子"/>
+		<string name="desc" value="一只黑兔子。有点小傲娇，还喜欢对主人说教呢。\n#c技能：金币磁铁#"/>
+		<string name="descD" value="你的黑兔子已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000089">
+		<string name="name" value="缇尔"/>
+		<string name="desc" value="缇尔是一只优雅的独角兽，正在寻找好朋友！"/>
+		<string name="descD" value="你那优雅的独角兽缇尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000090">
+		<string name="name" value="加里尔"/>
+		<string name="desc" value="加里尔是一只甜甜的独角兽，随时准备好一起玩耍！"/>
+		<string name="descD" value="你那可爱的独角兽加里尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000091">
+		<string name="name" value="埃塞尔"/>
+		<string name="desc" value="埃塞尔是一只神秘的独角兽，正在寻找有缘的伙伴~"/>
+		<string name="descD" value="你那可爱的独角兽埃塞尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000092">
+		<string name="name" value="缇尔"/>
+		<string name="desc" value="缇尔是一只优雅的独角兽，和埃塞尔一起等待着好朋友的到来。\n#c技能：金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那优雅的独角兽缇尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000093">
+		<string name="name" value="加里尔"/>
+		<string name="desc" value="加里尔是一只可爱的独角兽，喜欢和埃塞尔、缇尔一起嬉戏玩耍。\n#c技能：金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那可爱的独角兽加里尔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000098">
+		<string name="name" value="鲨鱼"/>
+		<string name="desc" value="鱼缸里的鲨鱼。由Cristophery设计。\r\n#c已学会金币拾取技能#\r\n"/>
+		<string name="descD" value="你那萌萌的鲨鱼已经变成了玩偶。用生命之水可以让它重新活过来。\r\n"/>
+	</imgdir>
+    <imgdir name="5000100">
+		<string name="name" value="奇诺"/>
+		<string name="desc" value="一只乐天派的橙色蘑菇，超爱亮闪闪的石头。\n#c生命永不过期的宠物。#"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000101">
+		<string name="name" value="白虎"/>
+		<string name="desc" value="性格温柔又听话，很容易和主人亲近，升级速度也会快很多哦~\n#c生命永不过期的宠物。#"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000102">
+		<string name="name" value="迷你雪人"/>
+		<string name="desc" value="一个值得信赖的宠物，默默守护着大家。虽然安静，但聪明又能干~\n#c生命永不过期的宠物。#"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+    <imgdir name="5000105">
+		<string name="name" value="虎宝宝"/>
+		<string name="desc" value="虎宝宝，2010年的超级大明星！"/>
+		<string name="descD" value="生命永不过期的宠物。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="70000037">
+        <string name="name" value="塔伤害提升" />
+        <string name="desc" value="攻击塔时按百分比提升伤害。" />
+        <string name="h" value="+#tdR% damage to towers" />
+    </imgdir>

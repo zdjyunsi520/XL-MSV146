@@ -1,0 +1,7 @@
+<imgdir name="5121003">
+        <string name="name" value="超级变身" />
+        <string name="desc" value "超级变身180秒。超级变身状态下部分技能无法使用。\n[技能例外：双发射击、橡木桶]\n需要技能：#c变身 Lv. 20#" />
+        <string name="h" value="MP Cost: #mpCon, Super Transformation Duration: #time sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="超级变身180秒。超级变身状态下部分技能无法使用。\n[技能例外：双发射击、橡木桶]\n需要技能：#c变身 Lv. 20#" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Battle Mode ATT: +#PVPdamage, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
+    </imgdir>

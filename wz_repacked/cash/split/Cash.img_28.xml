@@ -1,0 +1,81 @@
+<imgdir name="Cash.img">
+    <imgdir name="5211039">
+		<string name="name" value="2x EXP Card Type 6 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 12 am to 04 am (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211040">
+		<string name="name" value="2x EXP Card Type 7 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 03 am to 07 am (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211041">
+		<string name="name" value="2x EXP Card Type 7 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 03 am to 07 am (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211042">
+		<string name="name" value="2x EXP Card Type 7 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 03 am to 07 am (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211043">
+		<string name="name" value="2x EXP Card Type 8 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 06 am to 10 am (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211044">
+		<string name="name" value="2x EXP Card Type 8 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 06 am to 10 am (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211045">
+		<string name="name" value="2x EXP Card Type 8 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 06 am to 10 am (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211046">
+		<string name="name" value="1-day 2x EXP Special Coupon"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211047">
+		<string name="name" value="2x EXP 3 Hours Special Coupon "/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 3 hours upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211048">
+		<string name="name" value="4 hour 2 x EXP special coupon"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 4 hours upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211049">
+		<string name="name" value="7-Eleven 2x EXP Card - 90 Minutes"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after receiving it, and the double experience effect will be available for 90 minutes. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211052">
+		<string name="name" value="3xExp"/>
+		<string name="desc" value="Fot Test"/>
+	</imgdir>
+    <imgdir name="5211060">
+		<string name="name" value="2 hour 3 x EXP special coupon"/>
+		<string name="desc" value="This coupon allows users to earn #c3x Exp (triple experience)#. The coupon will be activated immediately after purchase, and the triple experience effect will be available for 2 hour upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211067">
+		<string name="name" value="Sapphire EXP Coupon"/>
+		<string name="desc" value="This coupon allows users to earn #c130% EXP#. The coupon will be activated immediately after purchase, and the increased experience effect will be available #cfor 1 hour# upon purchase. Can't stack with 2x EXP Event or Ruby EXP Coupon. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211068">
+		<string name="name" value="Ruby EXP Coupon"/>
+		<string name="desc" value="This coupon allows users to earn #c150% EXP#. The coupon will be activated immediately after purchase, and the increased experience effect will be available #cfor 1 hour# upon purchase. Can't stack with 2x EXP Event or Sapphire EXP Coupon. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211110">
+		<string name="name" value="EXP Coupon"/>
+		<string name="desc" value="This coupon allows you to earn #c1.2x Exp#. The coupon will be activated immediately after purchase, and the 1.2 experience effect will be available for 30days upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211111">
+		<string name="name" value="4 hour 1.5 x EXP special coupon"/>
+		<string name="desc" value="This coupon allows you to earn #c1.5x Exp#. The coupon will be activated immediately after purchase, and the 1.5x experience effect will be available for 4 hours upon purchase. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5220000">
+		<string name="name" value="Gachapon Ticket"/>
+		<string name="desc" value="This ticket will enable you to use Gachapon and obtain various items."/>
+	</imgdir>
+    <imgdir name="5220001">
+		<string name="name" value="Event Ticket"/>
+		<string name="desc" value="A ticket needed to enter the event map."/>
+	</imgdir>
+    <imgdir name="5220010">
+		<string name="name" value="Gachapon for slot machines"/>
+	</imgdir>
+</imgdir>

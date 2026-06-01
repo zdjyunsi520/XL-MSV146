@@ -1,0 +1,5 @@
+<imgdir name="3220016">
+        <string name="name" value="Last Man Standing" />
+        <string name="desc" value="Attacks against a lone target do much more damage." />
+        <string name="h" value="When the skill hits a single target, if there are no monsters within 80 units of the enemy&apos;s left and right, the damage increases by #damR%" />
+    </imgdir>

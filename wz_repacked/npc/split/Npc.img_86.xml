@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="1013105">
+		<string name="name" value="Dairy Cow"/>
+		<string name="n0" value="Mooooo."/>
+		<string name="n1" value="Mrroooo!"/>
+		<string name="d0" value="Mooooooo."/>
+		<string name="d1" value="Moo?"/>
+	</imgdir>
+    <imgdir name="1013201">
+		<string name="name" value="Camila"/>
+		<string name="n0" value="He-Help."/>
+		<string name="n1" value="*Huff puff*"/>
+	</imgdir>
+    <imgdir name="1013202">
+		<string name="name" value="Black Shadow"/>
+	</imgdir>
+    <imgdir name="1013203">
+		<string name="name" value="Hiver"/>
+		<string name="func" value="Black Wing Captain"/>
+		<string name="n0" value="Things seem to be going smoothly in Mu Lung..."/>
+		<string name="d0" value="All of this is so that we can resurrect him."/>
+		<string name="d1" value="All of this is so that we can resurrect him."/>
+		<string name="n1" value="I need more competent followers!"/>
+	</imgdir>
+    <imgdir name="1011101">
+		<string name="name" value="General Mau"/>
+		<string name="func" value="Street Vendor"/>
+		<string name="n0" value="Warriors, Magicians, Bowman, Thieves, Pirates! All come look at my fabulous weapons and armor!"/>
+		<string name="n1" value="Wow! There really are a lot of people in Henesys! It's perfect for business!"/>
+	</imgdir>
+    <imgdir name="1013106">
+		<string name="name" value="Glowing Stele"/>
+	</imgdir>
+    <imgdir name="1013204">
+		<string name="name" value="Hiver"/>
+	</imgdir>
+    <imgdir name="1013205">
+		<string name="name" value="Afrien"/>
+		<string name="d0" value="(It's a large Onyx Dragon with its eyes peacefully shut as if in a deep sleep.)"/>
+		<string name="d1" value="(It's a large Onyx Dragon with its eyes peacefully shut as if in a deep sleep.)"/>
+	</imgdir>
+    <imgdir name="1013206">
+		<string name="name" value="Hiver"/>
+	</imgdir>
+    <imgdir name="1013207">
+		<string name="name" value="Olaf"/>
+		<string name="s0" value="Just let me know if you decide you want to return."/>
+		<string name="s1" value="What a great location for practice. I should come here alone sometime."/>
+	</imgdir>
+    <imgdir name="2085000">
+		<string name="name" value="Matada "/>
+		<string name="func" value="Halflinger Adventurer "/>
+		<string name="d0" value="It's been a long time since I've been home."/>
+		<string name="d1" value="Adventures are always enjoyable."/>
+		<string name="n0" value="Doesn't just the thought of flying excite you?"/>
+		<string name="n1" value="If I had the chance, I'd love to soar through the sky."/>
+	</imgdir>
+    <imgdir name="2085001">
+		<string name="name" value="Crimson Sky Doorway"/>
+	</imgdir>
+    <imgdir name="2085002">
+		<string name="name" value="Crimson Sky Doorway"/>
+	</imgdir>
+    <imgdir name="2085003">
+		<string name="name" value="Dragon Rider"/>
+		<string name="d0" value="I deeply regret my actions..."/>
+		<string name="d1" value="Please accept my apology..."/>
+	</imgdir>
+    <imgdir name="2092101">
+		<string name="name" value="Potter"/>
+	</imgdir>
+    <imgdir name="9000071">
+		<string name="name" value="Keroben"/>
+		<string name="func" value="Forest of Confrontation Gatekeeper "/>
+	</imgdir>
+    <imgdir name="9201145">
+		<string name="name" value="Giant Twin Dragon's Egg"/>
+		<string name="d0" value="Vooooooooooom!"/>
+	</imgdir>
+    <imgdir name="9201148">
+		<string name="name" value="Nurse Pretty"/>
+		<string name="func" value="Traveling Plastic Surgeon"/>
+		<string name="n0" value="If you don't like what you see in the mirror, I can pretty you up."/>
+		<string name="n1" value="With just a little nip here and a little tuck there, I can make you quite attractive."/>
+	</imgdir>
+    <imgdir name="9000072">
+		<string name="name" value="Somchai"/>
+		<string name="d0" value="Evil has awakened in this holy Forest of Training."/>
+		<string name="d1" value="Will we ever have the old Gachapon back?"/>
+		<string name="n0" value="Please be respectful when you're in the temple."/>
+		<string name="n1" value="It doesn't cost money to walk the righteous path."/>
+	</imgdir>
+    <imgdir name="9000073">
+		<string name="name" value="Master Loong"/>
+		<string name="d0" value="The more you speak of fear, the more it reveals itself, and the less you acknowledge your fear, the less it will bind you."/>
+		<string name="d1" value="The more you speak of fear, the more it reveals itself, and the less you acknowledge your fear, the less it will bind you."/>
+		<string name="n0" value="The Red Goblin is scary..."/>
+		<string name="n1" value="The Red Goblin is not scary..."/>
+	</imgdir>
+</imgdir>

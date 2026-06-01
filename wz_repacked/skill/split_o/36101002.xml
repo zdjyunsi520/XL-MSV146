@@ -1,0 +1,5 @@
+<imgdir name="36101002">
+        <string name="name" value="Perspective Shift" />
+        <string name="desc" value="Temporarily increases Critical Rate by activating scanners to see an enemy&apos;s weaknesses. Consumes power." />
+        <string name="h" value="#x[Supply]#\nEnergy Cost: #powerCon, Duration: #time sec, Critical Rate: +#x%" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="23111002">
+        <string name="name" value="Unicorn Spike" />
+        <string name="desc" value="Summons a sacred unicorn to blast through enemies and weaken them for a short time. Weakened enemies will take more damage from your party members." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Critical Attacks: #attackCount, Additional Damage Debuff Chance: #prop%, Additional Damage Debuff Duration: #time sec, Additional Damage: #x%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons a sacred unicorn to blast through enemies and weaken them for a short time. Weakened enemies will take more damage from your party members." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Critical Attacks: #attackCount, Additional Damage Debuff Chance: #prop%, Additional Damage Debuff Duration: #time sec, Additional Damage: #x%\nCooldown: #cooltime sec" />
+    </imgdir>

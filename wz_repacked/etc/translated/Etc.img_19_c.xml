@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000391">
+			<string name="name" value="炸弹核心"/>
+			<string name="desc" value="炸弹人的小核心，仍然具有爆炸威力。小心处理！"/>
+		</imgdir>
+    <imgdir name="4000399">
+			<string name="name" value="上紧的弹簧"/>
+			<string name="desc" value="玩偶盒的颈部零件"/>
+		</imgdir>
+    <imgdir name="4000400">
+			<string name="name" value="玩偶的一缕头发"/>
+			<string name="desc" value="普伦德加斯特的一个玩偶的一缕金发"/>
+		</imgdir>
+    <imgdir name="4000411">
+			<string name="name" value="黑名单"/>
+			<string name="desc" value="被监控摄像头抓到在禁区 trespassing 的人员名单"/>
+		</imgdir>
+    <imgdir name="4000412">
+			<string name="name" value="训练证明"/>
+			<string name="desc" value="击败大师假人获得的训练证明。这表明接收者已经训练了相当长的时间"/>
+		</imgdir>
+    <imgdir name="4000413">
+			<string name="name" value="某人的帽子"/>
+			<string name="desc" value="某人曾经戴过的废弃帽子。看起来像地铁工人的帽子。不知道暗影为什么会有这个"/>
+		</imgdir>
+    <imgdir name="4000414">
+			<string name="name" value="竹名牌"/>
+			<string name="desc" value="在竹片上刻有名字的物品。曾经用作身份证明"/>
+		</imgdir>
+    <imgdir name="4000415">
+			<string name="name" value="冰泪"/>
+			<string name="desc" value="一滴冰做的眼泪。像珠宝一样美丽，但非常冷，不是每个人都能触摸"/>
+		</imgdir>
+    <imgdir name="4000416">
+			<string name="name" value="传统学者帽"/>
+			<string name="desc" value="古代学者戴的帽子。破旧、磨损、皱巴巴的"/>
+		</imgdir>
+    <imgdir name="4000417">
+			<string name="name" value="trans"/>
+			<string name="desc" value="trans"/>
+		</imgdir>
+    <imgdir name="4000418">
+			<string name="name" value="无用的机械心脏"/>
+			<string name="desc" value="无用的机械心脏，因为它完全被摧毁了"/>
+		</imgdir>
+    <imgdir name="4000419">
+			<string name="name" value="紫色液体"/>
+			<string name="desc" value="一种没人知道用途的紫色液体。可能不能喝"/>
+		</imgdir>
+    <imgdir name="4000421">
+			<string name="name" value="合格的编织球"/>
+			<string name="desc" value="制作圣诞袜的合格编织球。#c请点击并拖动#此物品到袜子框架UI中制作你自己的袜子"/>
+		</imgdir>
+    <imgdir name="4000422">
+			<string name="name" value="圣诞礼盒（白色）"/>
+			<string name="desc" value="雪人送的礼盒"/>
+		</imgdir>
+    <imgdir name="4000423">
+			<string name="name" value="圣诞礼盒（红色）"/>
+			<string name="desc" value="雪人送的礼盒"/>
+		</imgdir>
+    <imgdir name="4000424">
+			<string name="name" value="圣诞礼盒（蓝色）"/>
+			<string name="desc" value="雪人送的礼盒"/>
+		</imgdir>
+    <imgdir name="4000425">
+			<string name="name" value="圣诞礼盒（紫色）"/>
+			<string name="desc" value="雪人送的礼盒"/>
+		</imgdir>
+    <imgdir name="4000429">
+			<string name="name" value="汗珠"/>
+			<string name="desc" value="狂暴者的一滴汗"/>
+		</imgdir>
+    <imgdir name="4000430">
+			<string name="name" value="维特龙角"/>
+			<string name="desc" value="从维特龙身上取下的锋利角"/>
+		</imgdir>
+    <imgdir name="4000431">
+			<string name="name" value="史莱吉尾巴"/>
+			<string name="desc" value="从史莱吉身上取下的尾巴"/>
+		</imgdir>
+</imgdir>

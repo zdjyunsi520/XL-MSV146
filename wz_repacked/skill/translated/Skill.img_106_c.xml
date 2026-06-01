@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20001019"><string name="name" value="雪兽骑乘"/><string name="desc" value="[最高等级：1]\n允许骑乘雪兽。\n#c有效期至：2009/7/9 00:00#"/><string name="h1" value="MP -10；武器和魔法防御力 +10，速度 +120，跳跃力 +120"/></imgdir>
+    <imgdir name="20001020"><string name="name" value="法老之怒"/><string name="desc" value="[最高等级：1]\n利用法老的怒火进行攻击。"/><string name="h1" value="一击消灭金字塔内所有怪物。"/></imgdir>
+    <imgdir name="20001022"><string name="name" value="雪兽坐骑"/><string name="desc" value="[最高等级：1]\n骑乘雪兽坐骑进行移动。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 120，跳跃力 120"/></imgdir>
+    <imgdir name="20001023"><string name="name" value="魔女扫帚"/><string name="desc" value="[最高等级：1]\n骑乘魔女扫帚进行移动。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 120，跳跃力 120"/></imgdir>
+    <imgdir name="20001025"><string name="name" value="魔法木马"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001026"><string name="name" value="翱翔"/><string name="desc" value="[最高等级：1]\n借助龙族神秘力量在天空中飞翔。坠落会受到巨大伤害。\n激活消耗90 MP，激活期间每秒消耗1 MP。"/><string name="h1" value="MP消耗（激活）：90 MP，MP消耗（持续）：1 MP/秒"/></imgdir>
+    <imgdir name="20001027"><string name="name" value="鳄鱼王"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001028"><string name="name" value="复古滑板车"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001029"><string name="name" value="可爱滑板车"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001030"><string name="name" value="筋斗云"/><string name="desc" value="[最高等级：1]\n骑乘筋斗云飞行。"/><string name="h1" value="MP -10，武器和魔法攻击力 +10，速度 +140，跳跃力 +120"/></imgdir>
+    <imgdir name="20001031"><string name="name" value="巴洛古"/><string name="desc" value="[最高等级：1]\n骑乘巴洛古飞行。"/><string name="h1" value="MP -10，武器和魔法攻击力 +10，速度 +140，跳跃力 +120"/></imgdir>
+    <imgdir name="20001033"><string name="name" value="F1赛车"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001034"><string name="name" value="猛虎"/><string name="desc" value="[最高等级：1]\n骑乘坐骑进行旅行。"/><string name="h1" value="MP消耗：10，武器和魔法防御力：+10，速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20001035"><string name="name" value="迷雾巴洛古"/><string name="desc" value="[最高等级：1]\n骑乘迷雾巴洛古飞行。"/><string name="h1" value="MP -10，武器和魔法防御力 +10，速度 140，跳跃力 +120"/></imgdir>
+    <imgdir name="20001036"><string name="name" value="雄狮"/><string name="desc" value="[最高等级：1]\n骑乘雄狮进行旅行。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20001037"><string name="name" value="独角兽"/><string name="desc" value="[最高等级：1]\n骑乘独角兽进行旅行。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 170，跳跃力 120"/></imgdir>
+    <imgdir name="20001038"><string name="name" value="低底盘机车"/><string name="desc" value="[最高等级：1]\n骑乘低底盘机车进行旅行。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20001039"><string name="name" value="红色卡车"/><string name="desc" value="[最高等级：1]\n骑乘红色卡车进行旅行。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20001040"><string name="name" value="石像鬼"/><string name="desc" value="[最高等级：1]\n骑乘石像鬼进行旅行。"/><string name="h1" value="消耗10 MP，武器和魔法防御力 +10，速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20001042"><string name="name" value="神兽"/><string name="desc" value="[最高等级：1]\n骑乘神兽飞行。"/><string name="h1" value="MP -10，武器和魔法防御力 +10，速度 140，跳跃力 +120"/></imgdir>
+</imgdir>

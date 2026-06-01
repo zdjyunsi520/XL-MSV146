@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2045301">
+		<string name="name" value="Scroll for Hand Cannon for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045302">
+		<string name="name" value="Scroll for Hand Cannon for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045303">
+		<string name="name" value="Scroll for Hand Cannon for ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045304">
+		<string name="name" value="Dark Scroll for Hand Cannon for ATT 30%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045305">
+		<string name="name" value="Scroll for Hand Cannon for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045306">
+		<string name="name" value="Scroll for Hand Cannon for ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045307">
+		<string name="name" value="King Pepe Scroll for Hand Cannon for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045308">
+		<string name="name" value="Scroll for Hand Cannon for ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046000">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046001">
+		<string name="name" value="Scroll for One-Handed Weapon for MAGIC ATT 100%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046002">
+		<string name="name" value="Scroll for One-Handed Weapon ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046003">
+		<string name="name" value="Scroll for One-Handed Weapon Magic ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046004">
+		<string name="name" value="Dark Scroll for One-Handed Weapon ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nWeapon Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046005">
+		<string name="name" value="Dark Scroll for One-Handed Weapon Magic ATT 40%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nMagic Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046006">
+		<string name="name" value="[6th Anniversary] Scroll for One-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046007">
+		<string name="name" value="[6th Anniversary] Scroll for One-Handed Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046012">
+		<string name="name" value="Scroll for One-Handed Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046013">
+		<string name="name" value="Scroll for One-Handed Weapon M. ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046014">
+		<string name="name" value="Scroll for One-Handed Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046015">
+		<string name="name" value="Scroll for One-Handed Weapon Magic ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+</imgdir>

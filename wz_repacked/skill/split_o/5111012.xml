@@ -1,0 +1,7 @@
+<imgdir name="5111012">
+        <string name="name" value="Static Thumper" />
+        <string name="desc" value="Hits the ground to cause a shockwave that pierces through multiple enemies. When the energy is fully charged, it increases damage." />
+        <string name="h" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount. When fully charged, damage increases by #damR%" />
+        <string name="pdesc" value="Pounds the ground to create a shockwave that damages multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

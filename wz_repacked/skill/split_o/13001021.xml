@@ -1,0 +1,5 @@
+<imgdir name="13001021">
+        <string name="name" value="Wind Walk" />
+        <string name="desc" value="Your arrows walk on the wind, flying through any monsters they touch." />
+        <string name="h" value="MP Cost: #mpCon, Works in air. Stops at end of platform. \nPassive Effect: Speed: #psdSpeed, Jump: #psdJump, Max Movement Speed: +#speedMax" />
+    </imgdir>

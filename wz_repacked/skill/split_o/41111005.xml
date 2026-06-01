@@ -1,0 +1,5 @@
+<imgdir name="41111005">
+        <string name="name" value="Tornado Blade" />
+        <string name="desc" value="Turns your blade into a tornado of steel, pushing all enemies around you to one side." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Critical Damage: #damage%, Number of Attacks: #attackCount, pulls in enemies\nCooldown: #cooltime sec" />
+    </imgdir>

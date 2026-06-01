@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430696">
+		<string name="name" value="3x3 Event Gold Box"/>
+		<string name="desc" value="Gold box from the 3!3!3! event.\n#cDouble-click to open.#\nMust be opened by 09/24/12."/>
+	</imgdir>
+    <imgdir name="2430697">
+		<string name="name" value="Happy Hour Storm Growth Potion"/>
+		<string name="desc" value="A legendary elixir of power. Take a sip to gain a level.\n#cMaximum-level characters cannot benefit from this item.#"/>
+	</imgdir>
+    <imgdir name="2430698">
+		<string name="name" value="Spiegelmann's Memo"/>
+		<string name="desc" value="Memo that has the Mustache Factory's phone number and the order number."/>
+	</imgdir>
+    <imgdir name="2430706">
+		<string name="name" value="Evolving Belt II Power Node"/>
+		<string name="desc" value="Gachapon item. Use it with the Perfect Evolving Belt II in your possession to add potentials!"/>
+	</imgdir>
+    <imgdir name="2430711">
+		<string name="name" value="Unappraised Antique"/>
+		<string name="desc" value="A dusty old box from the back of Spielgelmann's Antiques Roadhouse. Valuable items await.\n#cDouble-click to open.#\n"/>
+	</imgdir>
+    <imgdir name="2430712">
+		<string name="name" value="Unidentified Artifact"/>
+		<string name="desc" value="Who knows how much this thing could be worth..."/>
+	</imgdir>
+    <imgdir name="2430714">
+		<string name="name" value="Crimson Nightmare Mount 1-Year Coupon\r\n"/>
+		<string name="desc" value="Double-click to use the [Crimson Nightmare Mount] skill for 1 year.\r\n"/>
+	</imgdir>
+    <imgdir name="2430715">
+		<string name="name" value="Crimson Nightmare Mount 15-Day Coupon\r\n"/>
+		<string name="desc" value="Double-click to use the [Crimson Nightmare Mount] skill for 15 days.\r\n"/>
+	</imgdir>
+    <imgdir name="2430716">
+		<string name="name" value="Rhinojinn Dust"/>
+		<string name="desc" value="Magical dust dropped by the Rhinojinn. It's so magical that it just might give you a lot of Artifact Points at once!"/>
+	</imgdir>
+    <imgdir name="2430717">
+		<string name="name" value="Balrog Mount"/>
+		<string name="desc" value="7-day Balrog mount coupon. Double-click to to learn the mount skill."/>
+	</imgdir>
+    <imgdir name="2430718">
+		<string name="name" value="Orange Mushroom Mount"/>
+		<string name="desc" value="7-day Orange Mushroom mount coupon. Double-click to to learn the mount skill."/>
+	</imgdir>
+    <imgdir name="2430719">
+		<string name="name" value="Yeti Mount"/>
+		<string name="desc" value="7-day Yeti mount coupon. Double-click to to learn the mount skill."/>
+	</imgdir>
+    <imgdir name="2430721">
+		<string name="name" value="Maple Syrup Potion"/>
+		<string name="desc" value="A sweet potion made from Maple Syrup. Your level will determine how much HP and MP are restored. Not affected by potion related skills or potentials.\n#cBelow Lv. 30: HP/MP +100\nLv. 30 - 69: HP/MP +300\nLv. 70 - 99: HP/MP +1000\nLv. 100 - 119: HP/MP +2000\nLv. 120 - 149: HP/MP +3000\nLv. 150 or higher: HP/MP +4000\n"/>
+	</imgdir>
+    <imgdir name="2430722">
+		<string name="name" value="Three Cheers for Cannoneers"/>
+		<string name="desc" value="The Cannoneers are back in business! Increases Weapon Attack, Speed, and Jump for 30 minutes. The cheer grows stronger for every 5 levels you gain, up to level 100. Stacks with other buffs."/>
+	</imgdir>
+    <imgdir name="2430723">
+		<string name="name" value="Legends Space Rock"/>
+		<string name="desc" value="A gift from beyond the stars for returning Legends. Allows you to teleport to any town, no matter the continent. Due to its fragile cellular structure, it implodes 24 hours after being touched. #cCan be used once every 30 minutes.#"/>
+	</imgdir>
+    <imgdir name="2430724">
+		<string name="name" value="Maple 8th Birthday Card"/>
+		<string name="desc" value="Eight wonderful years, all summed up on one little card. Double-click to obtain massive EXP boosts, depending on your level.\n#cHas no effect on max level characters. Can be used until 06/30/13, the end of the event.#"/>
+	</imgdir>
+    <imgdir name="2430725">
+		<string name="name" value="8th Anniversary Android Box"/>
+		<string name="desc" value="A box brimming with 8th Maple Birthday gifts. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2430726">
+		<string name="name" value="Double Maximus Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to learn [Double Maximus Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430727">
+		<string name="name" value="Double Red Truck Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to learn [Double Red Truck Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430728">
+		<string name="name" value="Double Power Suit Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to learn [Double Power Suit Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+</imgdir>

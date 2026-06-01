@@ -1,0 +1,5 @@
+<imgdir name="112111004">
+        <string name="name" value="幼鹰轰炸" />
+        <string name="desc" value="召唤艾卡的地面盟友进行攻击。\r\n只能在#c空中#使用。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

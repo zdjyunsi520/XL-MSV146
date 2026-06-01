@@ -1,0 +1,5 @@
+<imgdir name="100001275">
+        <string name="name" value="坠落时间" />
+        <string name="desc" value="停止时间并固定敌人，同时造成伤害~" />
+        <string name="h" value="时间之力消耗: #forceCon。伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount\n目标固定时间: #time" />
+    </imgdir>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Map.img">
+    <imgdir name="maple">
+        <imgdir name="0">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蘑菇村修炼场入口" />
+        </imgdir>
+        <imgdir name="1">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="修炼场上层" />
+        </imgdir>
+        <imgdir name="1000000">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯" />
+            <string name="mapDesc" value="位于枫叶岛东侧的村庄。设有武器店、防具店和杂货店。" />
+        </imgdir>
+        <imgdir name="1000001">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯武器店" />
+        </imgdir>
+        <imgdir name="1000002">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯街道" />
+        </imgdir>
+        <imgdir name="1000003">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯杂货店" />
+        </imgdir>
+        <imgdir name="1000004">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="蜗牛花园" />
+        </imgdir>
+        <imgdir name="1000005">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="森林中间狩猎场I" />
+        </imgdir>
+        <imgdir name="1000006">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="森林中间狩猎场II" />
+        </imgdir>
+        <imgdir name="1010000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心入口" />
+            <string name="mapDesc" value="位于枫叶岛东侧的村庄，设有武器店、防具店和杂货店等各类商店。" />
+        </imgdir>
+        <imgdir name="1010001">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯武器店" />
+        </imgdir>
+        <imgdir name="1010002">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯街道" />
+        </imgdir>
+        <imgdir name="1010003">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯杂货店" />
+        </imgdir>
+        <imgdir name="1010004">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="蜗牛花田" />
+        </imgdir>
+        <imgdir name="1020000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="命运的岔路口" />
+        </imgdir>
+        <imgdir name="1020001">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="番茄田" />
+        </imgdir>
+        <imgdir name="2">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="修炼场下层" />
+        </imgdir>
+        <imgdir name="20000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛公园" />
+            <string name="mapDesc" value="新手专属村庄。通过简单的任务学习游戏基本操作。" />
+        </imgdir>
+        <imgdir name="20001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蘑菇村街道" />
+        </imgdir>
+        <imgdir name="3">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蘑菇村修炼场入口" />
+        </imgdir>
+        <imgdir name="30000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛花园" />
+        </imgdir>
+        <imgdir name="40000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="小森林深处" />
+        </imgdir>
+        <imgdir name="40001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛狩猎场II" />
+        </imgdir>
+        <imgdir name="40002">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛狩猎场III" />
+        </imgdir>
+        <imgdir name="50000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="危险的森林深处" />
+        </imgdir>
+        <imgdir name="50001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港西侧野外" />
+        </imgdir>
+        <imgdir name="60000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港" />
+            <string name="mapDesc" value="南方的港口小镇，可以乘船前往更大的岛屿。" />
+            <string name="help0"
+                value="#e[活动参与方法]#n\n\n 当出现#b#e蓝色#n#k公告表示正在招募活动参加者时，点击#e[保罗]#n并选择#e[好的，出发吧！]#n即可进入。\n 如果在活动开始前已经点击了[保罗]，只需点击[好的，出发吧！]即可进入。\n\n 进入前请先阅读活动公告。\n 活动开始后，参与者将按#e先到先得#n的顺序被接受，直到名额满为止。\n\n#e24小时内只能参加一次活动。#n\n\n 如果你的其他道具栏没有空位来接收'活动奖杯'，将无法参加活动，请确保留有空位。\n 如果你已经持有#b秘密卷轴#k，请在参加活动前将其丢弃。\n\n#r 如果在活动期间切换频道或进入#b商城#k，将自动被取消活动资格。" />
+        </imgdir>
+        <imgdir name="60001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港防具店" />
+        </imgdir>
+        <imgdir name="30001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蘑菇村街道" />
+        </imgdir>
+        <imgdir name="1010100">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心1" />
+        </imgdir>
+        <imgdir name="1010200">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心2" />
+        </imgdir>
+        <imgdir name="1010300">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心3" />
+        </imgdir>
+        <imgdir name="1010400">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心4" />
+        </imgdir>
+        <imgdir name="2000001">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港防具店" />
+        </imgdir>
+        <imgdir name="3000000">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="前往枫叶岛" />
+        </imgdir>
+        <imgdir name="3000100">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="浅海滩" />
+        </imgdir>
+        <imgdir name="3000200">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="幸存者小屋" />
+        </imgdir>
+        <imgdir name="3000300">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="椰子岛海滩" />
+        </imgdir>
+        <imgdir name="3000301">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="海星海滩1" />
+        </imgdir>
+        <imgdir name="3000302">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="海星海滩2" />
+        </imgdir>
+        <imgdir name="3000400">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="椰子岛海域" />
+        </imgdir>
+        <imgdir name="3000500">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="椰子岛对岸" />
+        </imgdir>
+        <imgdir name="3000600">
+            <string name="streetName" value="椰子岛" />
+            <string name="mapName" value="前往枫叶岛" />
+        </imgdir>
+        <imgdir name="10000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="枫树山丘" />
+        </imgdir>
+        <imgdir name="110000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="枫树山丘" />
+        </imgdir>
+        <imgdir name="120000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛公园" />
+            <string name="mapDesc" value="新手起始村庄。提供简单任务帮助学习游戏操作。" />
+        </imgdir>
+        <imgdir name="130000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="黑色托本" />
+        </imgdir>
+        <imgdir name="140000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="小森林深处" />
+        </imgdir>
+        <imgdir name="150000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="危险的森林深处" />
+        </imgdir>
+        <imgdir name="1100000">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯" />
+            <string name="mapDesc" value="位于枫叶岛东侧的村庄。设有武器店、防具店和杂货店。" />
+        </imgdir>
+        <imgdir name="1110000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心入口" />
+        </imgdir>
+        <imgdir name="1120000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="命运的岔路口" />
+        </imgdir>
+        <imgdir name="1130000">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯郊外" />
+        </imgdir>
+        <imgdir name="1130001">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯郊外" />
+        </imgdir>
+        <imgdir name="1130010">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯郊外" />
+        </imgdir>
+        <imgdir name="1130011">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯郊外" />
+        </imgdir>
+        <imgdir name="1130020">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯郊外" />
+        </imgdir>
+        <imgdir name="2000000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港" />
+            <string name="mapDesc" value="枫叶岛南方的港口城市，全新旅程的起点。\n\n#c相连区域\n - 六岔路口" />
+            <string name="help0"
+                value="#e[活动参与方法]#n\n\n当出现#b#e蓝色#n#k公告表示活动关闭招募时，点击#e[杆子]#n并选择#e[好的，出发吧。]#n即可进入。\n你也可以提前点击[杆子]，在活动公告出现后立即点击[好的，出发吧。]。\n\n \n\n请务必在活动公告发出后再进入活动地图。\n活动参加者将按公告后#e报名#n的先后顺序被接受。\n\n每天只能参加一次。\n请确保其他道具栏有一个空位来接收参与奖励，否则无法参加活动。\n参加前请丢弃秘密卷轴。\n\n#r 如果在活动地图切换频道或使用商城，将被取消活动资格。" />
+        </imgdir>
+        <imgdir name="2000100">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="港口" />
+        </imgdir>
+        <imgdir name="2000110">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="出发前 &lt;前往六岔路口&gt;" />
+        </imgdir>
+        <imgdir name="2000111">
+            <string name="streetName" value="航行途中" />
+            <string name="mapName" value="前往六岔路口" />
+        </imgdir>
+        <imgdir name="2100000">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港" />
+            <string name="mapDesc" value="枫叶岛南方的港口城市，全新旅程的起点。\n\n#c相连区域\n - 六岔路口" />
+            <string name="help0"
+                value="#e[活动参与方法]#n\n\n当出现#b#e蓝色#n#k公告表示活动关闭招募时，点击#e[杆子]#n并选择#e[好的，出发吧。]#n即可进入。\n你也可以提前点击[杆子]，在活动公告出现后立即点击[好的，出发吧。]。\n\n \n\n请务必在活动公告发出后再进入活动地图。\n活动参加者将按公告后#e报名#n的先后顺序被接受。\n\n每天只能参加一次。\n请确保其他道具栏有一个空位来接收参与奖励，否则无法参加活动。\n参加前请丢弃秘密卷轴。\n\n#r 如果在活动地图切换频道或使用商城，将被取消活动资格。" />
+        </imgdir>
+        <imgdir name="4000000">
+            <string name="streetName" value="奇异空间" />
+            <string name="mapName" value="黑暗" />
+        </imgdir>
+        <imgdir name="4000001">
+            <string name="streetName" value="奇异空间" />
+            <string name="mapName" value="光芒" />
+        </imgdir>
+        <imgdir name="4000002">
+            <string name="streetName" value="奇异空间" />
+            <string name="mapName" value="光明" />
+        </imgdir>
+        <imgdir name="4000003">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="阿姆斯" />
+        </imgdir>
+        <imgdir name="4000004">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="冒险者影像" />
+        </imgdir>
+        <imgdir name="4000005">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="明珠港" />
+        </imgdir>
+        <imgdir name="4000010">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="枫树之上" />
+        </imgdir>
+        <imgdir name="4000011">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="枫树山丘" />
+        </imgdir>
+        <imgdir name="4000012">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="蜗牛公园" />
+            <string name="mapDesc" value="新手起始村庄。提供简单任务帮助学习游戏操作。" />
+        </imgdir>
+        <imgdir name="4000013">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="小森林深处" />
+        </imgdir>
+        <imgdir name="4000014">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="危险的森林深处" />
+        </imgdir>
+        <imgdir name="4000020">
+            <string name="streetName" value="彩虹街道" />
+            <string name="mapName" value="阿姆斯" />
+            <string name="mapDesc" value="位于枫叶岛东侧的村庄。设有武器店和杂货店。" />
+        </imgdir>
+        <imgdir name="4000021">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心入口" />
+        </imgdir>
+        <imgdir name="4000022">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心1" />
+        </imgdir>
+        <imgdir name="4000023">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心2" />
+        </imgdir>
+        <imgdir name="4000024">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心3" />
+        </imgdir>
+        <imgdir name="4000025">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="冒险者训练中心4" />
+        </imgdir>
+        <imgdir name="4000026">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="命运的岔路口" />
+        </imgdir>
+        <imgdir name="4000030">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="南港" />
+            <string name="mapDesc" value="枫叶岛南方的港口城市，全新旅程的起点。\n\n#c相连区域\n - 明珠港" />
+        </imgdir>
+        <imgdir name="4000031">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="港口" />
+        </imgdir>
+        <imgdir name="4000032">
+            <string name="streetName" value="枫叶路" />
+            <string name="mapName" value="桑格里拉号" />
+        </imgdir>
+        <imgdir name="4000033">
+            <string name="streetName" value="隐藏街道" />
+            <string name="mapName" value="桑格里拉号上" />
+        </imgdir>
+    </imgdir>
+</imgdir>

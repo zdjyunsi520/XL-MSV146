@@ -1,0 +1,119 @@
+<imgdir name="Npc.img">
+    <imgdir name="2001008">
+		<string name="name" value="圣诞树"/>
+	</imgdir>
+    <imgdir name="9330000">
+		<string name="name" value="拉娜"/>
+		<string name="func" value="杂货商"/>
+		<string name="n0" value="药水出售！"/>
+		<string name="n1" value="一定要来看看我们琳琅满目的商品！"/>
+	</imgdir>
+    <imgdir name="9330001">
+		<string name="name" value="王叔叔"/>
+		<string name="func" value="武器商"/>
+		<string name="n0" value="没有太多人有挑选好武器的眼光。"/>
+		<string name="n1" value="一把好武器会自己选择它的主人。"/>
+	</imgdir>
+    <imgdir name="9330002">
+		<string name="name" value="Jason Woo"/>
+		<string name="func" value="防具商"/>
+		<string name="n0" value="嘿，漂亮的小姐！过来试试这件。它非常适合你！"/>
+		<string name="n1" value="哟！帅哥！试试这件，你穿起来一定会很棒！"/>
+	</imgdir>
+    <imgdir name="9330003">
+		<string name="name" value="Jay Chewy"/>
+		<string name="n0" value="我是Jay Chewy，台湾最酷的家伙。"/>
+		<string name="n1" value="嘿，姑娘！你想兜风吗？"/>
+		<string name="d0" value="你好，我是Jay Chewy，台湾最酷的家伙。"/>
+		<string name="d1" value="不知道我女朋友现在怎么样了。"/>
+	</imgdir>
+    <imgdir name="9330004">
+		<string name="name" value="Coco Dee"/>
+		<string name="n0" value="嘿嘿嘿。台湾是个适合居住的好地方。"/>
+		<string name="n1" value="台湾的夜景不是很美吗？"/>
+		<string name="d0" value="你好，我是Coco Dee。"/>
+		<string name="d1" value="谢谢你上次的帮助。"/>
+	</imgdir>
+    <imgdir name="9330005">
+		<string name="name" value="Sammi Fab"/>
+		<string name="n0" value="嗨，我是Sammi Fab，台湾最有名的人物。"/>
+		<string name="n1" value="不知道我今天的行程是什么。"/>
+		<string name="d0" value="嗨，我是Sammi Fab，台湾最有名的人物。"/>
+		<string name="d1" value="我现在很忙。我在遛狗。"/>
+	</imgdir>
+    <imgdir name="9330006">
+		<string name="name" value="Aaron Quack"/>
+		<string name="n0" value="嘿，你有空吗？"/>
+		<string name="n1" value="你对开始新事业感兴趣吗？"/>
+		<string name="d0" value="我是酷酷的Aaron Quack。"/>
+		<string name="d1" value="非常感谢你上次帮了我。"/>
+	</imgdir>
+    <imgdir name="9330007">
+		<string name="name" value="Tito"/>
+		<string name="func" value="地铁员工"/>
+		<string name="n0" value="地铁仍在建设中。"/>
+		<string name="n1" value="地铁应该很快就会开通了。感谢你的耐心等待。"/>
+	</imgdir>
+    <imgdir name="9330008">
+		<string name="name" value="常见问题任务NPC 1"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330009">
+		<string name="name" value="常见问题任务NPC 2"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330010">
+		<string name="name" value="常见问题任务NPC 3"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330011">
+		<string name="name" value="常见问题任务NPC 4"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330012">
+		<string name="name" value="常见问题NPC"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330013">
+		<string name="name" value="常见问题任务NPC 5"/>
+		<string name="n0" value="对话 1"/>
+		<string name="n1" value="对话 2"/>
+	</imgdir>
+    <imgdir name="9330014">
+		<string name="name" value="Toto"/>
+		<string name="func" value="地铁员工"/>
+		<string name="n0" value="地铁仍在建设中。"/>
+		<string name="n1" value="地铁应该很快就会开通了。感谢你的耐心等待。"/>
+	</imgdir>
+    <imgdir name="9330015">
+		<string name="name" value="尊敬的Q老先生"/>
+		<string name="n0" value="哈哈哈。"/>
+		<string name="n1" value="如果你只是路过，就继续走吧。"/>
+	</imgdir>
+    <imgdir name="9330016">
+		<string name="name" value="Martin Fan"/>
+		<string name="n0" value="你好，我是台湾最好的厨师。"/>
+		<string name="n1" value="今天我该做什么菜呢？"/>
+		<string name="d1" value="切配料，锅里倒油，然后炒炒炒！烹饪真是太有趣了！"/>
+		<string name="d0" value="你是来品尝我的招牌菜的吗？"/>
+	</imgdir>
+    <imgdir name="9330017">
+		<string name="name" value="口香糖女孩"/>
+		<string name="n0" value="先生！你想买口香糖吗？"/>
+		<string name="n1" value="美味口香糖出售！各种口味！泡泡糖、薄荷糖、桂皮糖！"/>
+		<string name="d0" value="你好，我是口香糖女孩。"/>
+		<string name="d1" value="你想买点口香糖吗？"/>
+	</imgdir>
+    <imgdir name="9330018">
+		<string name="name" value="Ho先生"/>
+		<string name="n0" value="我在这里已经工作了30年了。"/>
+		<string name="n1" value="我似乎没有足够的材料卖...有人能帮帮我吗？"/>
+		<string name="d0" value="欢迎光临。我是Ho先生，街边小贩。"/>
+		<string name="d1" value="生意大不如前了。"/>
+	</imgdir>
+</imgdir>

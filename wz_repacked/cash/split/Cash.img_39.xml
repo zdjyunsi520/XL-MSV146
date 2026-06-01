@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5500002">
+		<string name="name" value="[20days] Hourglass"/>
+		<string name="desc" value="Drag and drop it on an equipped item with an expiration to extend the expiration by #c20 days#. #cCannot be used on Cash Items and cannot extend beyond 365 days from current date.#"/>
+	</imgdir>
+    <imgdir name="5500005">
+		<string name="name" value="[50days] Hourglass"/>
+		<string name="desc" value="Drag and drop it on an equipped item with an expiration to extend the expiration by #c50 days#. #cCannot be used on Cash Items and cannot extend beyond 365 days from current date.#"/>
+	</imgdir>
+    <imgdir name="5500006">
+		<string name="name" value="[99days] Hourglass"/>
+		<string name="desc" value="Drag and drop it on an equipped item with an expiration to extend the expiration by #c99 days#. #cCannot be used on Cash Items and cannot extend beyond 365 days from current date.#"/>
+	</imgdir>
+    <imgdir name="5500010">
+		<string name="name" value="Rust Remover"/>
+		<string name="desc" value="Extends the life of an expired Potion Pot by 30 days. Only works on expired pots."/>
+	</imgdir>
+    <imgdir name="5500011">
+		<string name="name" value="Rust Remover"/>
+		<string name="desc" value="Extends the life of an expired Potion Pot by 3 days. Only works on expired pots."/>
+	</imgdir>
+    <imgdir name="5501001">
+		<string name="name" value="[30 Days] Kenta's Magic Rope"/>
+		<string name="desc" value="Drag and drop it on a mount skill with an expiration to extend the expiration by #c30 days#. Warning: Does not work on transcontinental flying mounts. #cCannot extend beyond 365 days from current date.#"/>
+	</imgdir>
+    <imgdir name="5501002">
+		<string name="name" value="[60 Days] Kenta's Magic Rope"/>
+		<string name="desc" value="Drag and drop it on a mount skill with an expiration to extend the expiration by #c60 days#. Warning: Does not work on transcontinental flying mounts. #cCannot extend beyond 365 days from current date.#"/>
+	</imgdir>
+    <imgdir name="5502000">
+		<string name="name" value="Lv. 5 Armor Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip armors that are for #cup to 5 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots#: Cap, shoulder accessory, clothes, pants, outfit, gloves, belt, shoes"/>
+	</imgdir>
+    <imgdir name="5502001">
+		<string name="name" value="Lv. 5 Weapon Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip weapons that are for #cup to 5 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. Cannot be used on unequippable items.\n#c Available slots#: Weapon, shield, secondary weapon"/>
+	</imgdir>
+    <imgdir name="5502002">
+		<string name="name" value="Lv. 5 Accessory Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip accessories that are for #cup to 5 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots#: Pendant, ring, eye accessory, face, earrings, pocket"/>
+	</imgdir>
+    <imgdir name="5502003">
+		<string name="name" value="Lv. 5 ETC Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip ETC equipment that are for #cup to 5 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots#: Medal, badge, dragon, Mechanic equipment"/>
+	</imgdir>
+    <imgdir name="5502004">
+		<string name="name" value="Lv. 10 Armor Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip armors that are for #cup to 10 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots#: Cap, shoulder accessory, clothes, pants, outfit, gloves, belt, shoes"/>
+	</imgdir>
+    <imgdir name="5502005">
+		<string name="name" value="Lv. 10 Weapon Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip weapons that are for #cup to 10 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. Cannot be used on unequippable items.\n#c Available slots#: Weapon, shield, secondary weapon"/>
+	</imgdir>
+    <imgdir name="5502006">
+		<string name="name" value="Lv. 10 Accessory Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip accessories that are for #cup to 10 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys# of other levels. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots#: Pendant, ring, eye accessory, face, earrings, pocket"/>
+	</imgdir>
+    <imgdir name="5502007">
+		<string name="name" value="Lv. 10 ETC Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip ETC equipment #cup to 10 levels# above your for #c30 days#. \n#cYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots: Medal, badge, dragon, Mechanic equipment#"/>
+	</imgdir>
+    <imgdir name="5502008">
+		<string name="name" value="Lv. 20 Armor Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip armors that are for #cup to 20 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots: Cap, shoulder accessory, clothes, pants, outfit, mantle, gloves, belt, shoes#"/>
+	</imgdir>
+    <imgdir name="5502009">
+		<string name="name" value="Lv. 20 Weapon Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip weapons that are for #cup to 20 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. Can only be used on equipment.\n#c Available slots: Weapon, shield, secondary weapon#"/>
+	</imgdir>
+    <imgdir name="5502010">
+		<string name="name" value="Lv. 20 Accessory Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip accessories that are for #cup to 20 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots: Pendant, ring, eye accessory, face, earrings, pocket#"/>
+	</imgdir>
+    <imgdir name="5502011">
+		<string name="name" value="Lv. 20 ETC Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip ETC equipment #cup to 20 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots: Medal, badge, dragon, Mechanic equipment#"/>
+	</imgdir>
+    <imgdir name="5502012">
+		<string name="name" value="Lv. 30 Armor Bypass Key"/>
+		<string name="desc" value="Drag the #cBypass Key# into an equip window slot (#chotkey E#) to equip armors that are for #cup to 30 levels# above yours for #c30 days#. \nYou may not stack #cBypass Keys of other levels#. Characters with the #cEmpress's Might# skill may not use Bypass Keys. \n#c Available slots: Cap, shoulder accessory, clothes, pants, outfit, mantle, gloves, belt, shoes#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101000103">
+        <string name="name" value="重剑精通" />
+        <string name="desc" value="提升重剑类型武器的熟练度、攻击力和攻击速度。使用重剑攻击时，命中的敌人数越少伤害越高。" />
+        <string name="h" value="永久提升重剑熟练度#mastery%，BOSS攻击力: +#bdR%，攻击力: +#padX，攻击速度: +2级。\n命中的怪物越少伤害越高（每只怪物#mobCountDamR%）。" />
+    </imgdir>

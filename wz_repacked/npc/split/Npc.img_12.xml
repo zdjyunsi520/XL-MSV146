@@ -1,0 +1,158 @@
+<imgdir name="Npc.img">
+    <imgdir name="1106007">
+		<string name="name" value="Unidentified Assailant"/>
+		<string name="d0" value="So Knight of Light has returned..."/>
+		<string name="d1" value="So Knight of Light has returned..."/>
+	</imgdir>
+    <imgdir name="1106008">
+		<string name="name" value="Worn Tent"/>
+	</imgdir>
+    <imgdir name="1106009">
+		<string name="name" value="Irena"/>
+		<string name="d0" value="What a perfect day for training!"/>
+		<string name="d1" value="What a perfect day for training!"/>
+	</imgdir>
+    <imgdir name="2001000">
+		<string name="name" value="Cliff"/>
+		<string name="n0" value="There's a huge tree in this town."/>
+		<string name="n1" value="Do you want to know how to decorate the tree?"/>
+		<string name="d0" value="What brings you here?"/>
+		<string name="d1" value="Here is Happyville!"/>
+	</imgdir>
+    <imgdir name="2001001">
+		<string name="name" value="Branch Snowman"/>
+		<string name="n0" value="Want to decorate a Maplemas Tree? Come talk to me!"/>
+		<string name="n1" value="Please hurry! There aren't many rooms left."/>
+		<string name="d0" value="Hey it's snowing! I really hope it snows a lot this time around!"/>
+		<string name="d1" value="It's snowing! It's snowing!"/>
+	</imgdir>
+    <imgdir name="2001002">
+		<string name="name" value="Metal Bucket Snowman"/>
+		<string name="n0" value="Want to decorate a Maplemas Trees? Come talk to me!"/>
+		<string name="n1" value="Please hurry! There aren't many rooms left."/>
+	</imgdir>
+    <imgdir name="2001003">
+		<string name="name" value="Straw Hat Snowman"/>
+		<string name="n0" value="Want to decorate a Maplemas Trees? Come talk to me!"/>
+		<string name="n1" value="Please hurry! There aren't many rooms left."/>
+	</imgdir>
+    <imgdir name="2001004">
+		<string name="name" value="Scarf Snowman"/>
+		<string name="n0" value="Come talk to me if you want to leave."/>
+		<string name="n1" value="Decorate your tree!"/>
+	</imgdir>
+    <imgdir name="2001005">
+		<string name="name" value="Rupert"/>
+		<string name="n0" value="Do you want to make the 3rd job advancement? If so, talk to me..."/>
+		<string name="n1" value="Those that want a 3rd job advancement, come here..."/>
+	</imgdir>
+    <imgdir name="2002">
+		<string name="name" value="Peter"/>
+		<string name="d0" value="Are you having a pleasant journey so far?"/>
+		<string name="d1" value="Go and enjoy the adventures that await!"/>
+		<string name="n0" value="You need determination to succeed on your journey!"/>
+		<string name="n1" value="Excellent work getting this far!"/>
+		<string name="n2" value="Take the portal to my right to continue."/>
+		<string name="f0" value="Never give up!"/>
+		<string name="f1" value="Once you take that portal, you'll encounter real monsters."/>
+		<string name="w0" value="Ready for adventure?"/>
+		<string name="w1" value="It's up to you to train yourself. Good luck!"/>
+		<string name="w2" value="Yup, we're related! Roger's my older brother. Robin's my younger brother. We like to be near each other, okay?"/>
+		<string name="h0" value="Hey, how's it going?"/>
+		<string name="h1" value="Yes, yes, Roger is indeed my older brother. He looks older, doesn't he?"/>
+	</imgdir>
+    <imgdir name="2002000">
+		<string name="name" value="Rupi"/>
+		<string name="n0" value="Come talk to me if you want to head back."/>
+		<string name="n1" value="Welcome!"/>
+	</imgdir>
+    <imgdir name="2002001">
+		<string name="name" value="Rudi"/>
+		<string name="func" value="Tree Ornament Merchant"/>
+		<string name="n0" value="Looking for ornaments? Look no further!"/>
+		<string name="n1" value="My ornaments are the best!"/>
+	</imgdir>
+    <imgdir name="2002002">
+		<string name="name" value="Torr"/>
+		<string name="d1" value="Thanks for finding my antlers. I'll do my best not to lose it."/>
+		<string name="n1" value="Please, someone find my antlers!"/>
+		<string name="d0" value="Nooo! My antlers! Where are they? Help me find my antlers!"/>
+		<string name="n0" value="My antlers... Where...are...my antlers!"/>
+	</imgdir>
+    <imgdir name="2003">
+		<string name="name" value="Robin"/>
+		<string name="w1" value="Best of luck to you!"/>
+		<string name="d0" value="Hello, I am Robin."/>
+		<string name="d1" value="Gathering information before starting your travels is essential for an enjoyable experience."/>
+		<string name="n0" value="Careful... The monsters here will actually hurt you."/>
+		<string name="n3" value="Team up with others if you can't beat a monster by yourself."/>
+		<string name="f0" value="Watch your timing. Well-timed attacks are more effective."/>
+		<string name="f1" value="Keep trucking onwards to get to Amherst and Southperry!"/>
+		<string name="f2" value="Head east to get to the next quest."/>
+		<string name="w0" value="You met Roger and Peter, right? They're my brothers."/>
+		<string name="h0" value="Hey, hey."/>
+		<string name="n1" value="Press 'Ctrl' to perform a basic attack!"/>
+		<string name="n2" value="Press 'Z' to pick up items that monsters drop."/>
+	</imgdir>
+    <imgdir name="2004">
+		<string name="name" value="Todd"/>
+		<string name="d1" value="So... did you see Robin?"/>
+		<string name="n0" value="Watch out for the monsters!"/>
+		<string name="n3" value="If monsters ever start to overwhelm you, try forming a party with other players."/>
+		<string name="f0" value="Timing is important when you attack!"/>
+		<string name="f1" value="You started in Mushroom Town. Amherst and Southperry are still ahead of you."/>
+		<string name="f2" value="Go on, head east!"/>
+		<string name="w0" value="You might meet Robin soon..."/>
+		<string name="w1" value="Good luck!"/>
+		<string name="h0" value="Heh..."/>
+		<string name="d0" value="If you don't know where to go, I can help!"/>
+		<string name="n1" value="Press 'Ctrl' to attack."/>
+		<string name="n2" value="Press 'Z' to pick up items."/>
+	</imgdir>
+    <imgdir name="2005">
+		<string name="name" value="Sam"/>
+		<string name="n0" value="Want to get stronger? Talk to Mai..."/>
+		<string name="n1" value="Head through the portal to the right to meet a bunch of new folks."/>
+		<string name="n3" value="Don't forget that you can party with others!"/>
+		<string name="f0" value="Timing an attack correctly means monsters can't hit back as easily."/>
+		<string name="f1" value="Head to Amherst! Lots going on there..."/>
+		<string name="f2" value="Trust me! Head east!"/>
+		<string name="w0" value="If you get lost, I'll help you out."/>
+		<string name="w1" value="Good luck!"/>
+		<string name="h0" value="Hey, there."/>
+		<string name="d0" value="Hi. My name is Sam."/>
+		<string name="d1" value="Did you meet with Mia yet?"/>
+		<string name="n2" value="Press 'W' to see a map."/>
+	</imgdir>
+    <imgdir name="2006">
+		<string name="name" value="Tienk"/>
+		<string name="n1" value="Every gatherer finds joy in gathering small things."/>
+		<string name="n2" value="Wahahaha, how do you like my collection of items?"/>
+		<string name="n0" value="Know your enemy. There's a saying that goes something like that. It's good advice."/>
+		<string name="d0" value="Hey there! My name is Tienk, and I only recommend the best of the best!"/>
+		<string name="d1" value="Hey there! My name is Tienk, and I only recommend the best of the best!"/>
+	</imgdir>
+    <imgdir name="2010000">
+		<string name="name" value="Staff Sergeant Charlie"/>
+		<string name="n1" value="Are you interested, by any chance, in trading items with me?"/>
+		<string name="d0" value="How can I help you today?"/>
+		<string name="d1" value="Did you get the #b#t4031049##k to #b#p2020003##k? Do I want anything? Well, not for now. But come talk to me later, okay? I may have something for you by then."/>
+		<string name="n0" value="Oh no... I need to load up and take off..."/>
+	</imgdir>
+    <imgdir name="2010001">
+		<string name="name" value="Mino the Owner"/>
+		<string name="func" value="Lead Hair Stylist"/>
+		<string name="l0" value="The only way you can keep your hair in perfect condition is through continuous effort!"/>
+		<string name="l1" value="To keep your hair as beautiful as mine requires major, maaajor effort."/>
+		<string name="n0" value="Welcome. Oh no... Your hair's been through tough times, huh? It needs some treatment..."/>
+		<string name="n1" value="Would you like to have soft, silky-smooth, beautiful hair? Let me take care of you..."/>
+		<string name="s0" value="Oh... You aren't interested in me, by any chance, right?"/>
+		<string name="s1" value="It's a fact that you don't have much time to take care of your hair while on the road."/>
+	</imgdir>
+    <imgdir name="2010002">
+		<string name="name" value="Franz the Owner"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n1" value="There's nothing wrong with changing your face every once in a while..."/>
+		<string name="n0" value="Do you want plastic surgery? Let me help you out..."/>
+	</imgdir>
+</imgdir>

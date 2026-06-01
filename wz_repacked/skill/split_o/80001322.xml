@@ -1,0 +1,5 @@
+<imgdir name="80001322">
+        <string name="name" value="Hilla&apos;s Fury" />
+        <string name="desc" value="Beautiful Hilla will summon lightning. After being summoned by a Dawn Weapon, Hilla will fire lightning bolts all over the ground to inflict damage on nearby monsters." />
+        <string name="h" value="Summon Hilla for #time sec, Damage: #damage%\nCooldown: #cooltime sec" />
+    </imgdir>

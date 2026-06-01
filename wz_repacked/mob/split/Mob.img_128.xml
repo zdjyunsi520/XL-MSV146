@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9800061">
+		<string name="name" value="Grizzly"/>
+	</imgdir>
+    <imgdir name="9800062">
+		<string name="name" value="Panda"/>
+	</imgdir>
+    <imgdir name="9800063">
+		<string name="name" value="Tae Roon"/>
+	</imgdir>
+    <imgdir name="9800064">
+		<string name="name" value="Sage Cat"/>
+	</imgdir>
+    <imgdir name="9800065">
+		<string name="name" value="King Sage Cat"/>
+	</imgdir>
+    <imgdir name="9800066">
+		<string name="name" value="Giant Centipede"/>
+	</imgdir>
+    <imgdir name="9800067">
+		<string name="name" value="Dark Klock"/>
+	</imgdir>
+    <imgdir name="9800068">
+		<string name="name" value="Death Teddy"/>
+	</imgdir>
+    <imgdir name="9800069">
+		<string name="name" value="Phantom Watch"/>
+	</imgdir>
+    <imgdir name="9800070">
+		<string name="name" value="Grim Phantom Watch"/>
+	</imgdir>
+    <imgdir name="9800071">
+		<string name="name" value="Gate Keeper"/>
+	</imgdir>
+    <imgdir name="9800072">
+		<string name="name" value="Thanatos"/>
+	</imgdir>
+    <imgdir name="9800073">
+		<string name="name" value="Overlord A"/>
+	</imgdir>
+    <imgdir name="9800074">
+		<string name="name" value="Afterlord"/>
+	</imgdir>
+    <imgdir name="9800075">
+		<string name="name" value="Bergamot"/>
+	</imgdir>
+    <imgdir name="9800076">
+		<string name="name" value="Bergamot"/>
+	</imgdir>
+    <imgdir name="9800077">
+		<string name="name" value="Bergamot"/>
+	</imgdir>
+    <imgdir name="9800078">
+		<string name="name" value="Maverick Type A"/>
+	</imgdir>
+    <imgdir name="9800079">
+		<string name="name" value="Maverick Type S"/>
+	</imgdir>
+    <imgdir name="9800080">
+		<string name="name" value="Imperial Guard"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="3">
+				<string name="Title" value="Blue Ribbon Beach"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="The Pig Beach"/>
+				<string name="Desc" value="&lt;Mini Dungeon&gt;"/>
+			</imgdir>
+    <imgdir name="120020300">
+			<imgdir name="0">
+				<string name="Title" value="Wave Beach"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="White Wave Harbor"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Wave Beach"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="White Wave Harbor"/>
+			</imgdir>
+    <imgdir name="105000000">
+			<imgdir name="0">
+				<string name="Title" value="Six Path Crossway"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Sleepywood Hotel"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="  Silent Swamp  "/>
+				<string name="Desc" value=" Copper Drake (Lv. 43)"/>
+			</imgdir>
+    <imgdir name="105010000">
+			<imgdir name="0">
+				<string name="Title" value="Humid Swamp"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Sleepywood"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Humid Swamp"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Sleepywood"/>
+			</imgdir>
+    <imgdir name="105010100">
+			<imgdir name="0">
+				<string name="Title" value="Silent Swamp"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Sunless Area"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Silent Swamp"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Sunless Area"/>
+			</imgdir>
+    <imgdir name="130000000">
+			<imgdir name="0">
+				<string name="Title" value="Spot where Shinsoo fell asleep"/>
+			</imgdir>
+    <imgdir name="200090500">
+			<imgdir name="0">
+				<string name="Title" value="Sky Road : Toward the Temple of Time"/>
+			</imgdir>
+    <imgdir name="200090510">
+			<imgdir name="0">
+				<string name="Title" value="Sky Road : Toward Leafre"/>
+			</imgdir>
+</imgdir>

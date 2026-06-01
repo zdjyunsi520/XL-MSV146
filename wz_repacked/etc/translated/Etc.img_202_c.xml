@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4280000">
+			<string name="name" value="黄金箱"/>
+			<string name="desc" value="怪物掉落的黄金宝箱。这可以用现金商店提供的黄金万能钥匙打开。如果你已经有万能钥匙，双击箱子即可打开"/>
+		</imgdir>
+    <imgdir name="4280001">
+			<string name="name" value="白银箱"/>
+			<string name="desc" value="怪物掉落的白银宝箱。这可以用现金商店提供的白银万能钥匙打开。如果你已经有万能钥匙，双击箱子即可打开"/>
+		</imgdir>
+    <imgdir name="4280002">
+			<string name="name" value="高级黄金箱"/>
+			<string name="desc" value="怪物掉落的高级黄金宝箱。这可以用现金商店提供的高级黄金万能钥匙打开。如果你已经有高级黄金万能钥匙，双击箱子即可打开"/>
+		</imgdir>
+    <imgdir name="4280003">
+			<string name="name" value="高级白银箱"/>
+			<string name="desc" value="怪物掉落的高级白银宝箱。这可以用现金商店提供的高级白银万能钥匙打开。如果你已经有高级白银万能钥匙，双击箱子即可打开"/>
+		</imgdir>
+    <imgdir name="4280011">
+			<string name="name" value="冒险岛金币锁"/>
+			<string name="desc" value="怪物掉落的金币锁。如果你有冒险岛金币钥匙，双击即可打开"/>
+		</imgdir>
+    <imgdir name="4280012">
+			<string name="name" value="冒险岛银币锁"/>
+			<string name="desc" value="怪物掉落的银币锁。如果你有冒险岛银币钥匙，双击即可打开"/>
+		</imgdir>
+    <imgdir name="4290000">
+			<string name="name" value="黄金鸡效果"/>
+			<string name="desc" value="帮助懒蛋蛋获得的奖励效果。你可以通过双击图标或使用按键设置菜单分配快捷键来开启/关闭"/>
+		</imgdir>
+    <imgdir name="4290001">
+			<string name="name" value="失败者效果"/>
+			<string name="desc" value="这个效果给予那些帮助了懒蛋蛋但未能孵化蛋的人。你可以通过双击图标或使用按键设置菜单分配快捷键来开启/关闭"/>
+		</imgdir>
+    <imgdir name="4300000">
+			<string name="name" value="新年贺卡（发送）"/>
+			<string name="desc" value="带有季节问候的精美贺卡"/>
+		</imgdir>
+    <imgdir name="4301000">
+			<string name="name" value="新年贺卡（接收）"/>
+			<string name="desc" value="带有季节问候的精美贺卡。双击阅读！"/>
+		</imgdir>
+    <imgdir name="4310000">
+			<string name="name" value="完美音高"/>
+			<string name="desc" value="这个音符给了墨水井他一直渴望找到的完美音高。如果你在3月30日前去自由市场入口或射手村找墨水井交谈，可以用它换取稀有物品"/>
+		</imgdir>
+    <imgdir name="4310001">
+			<string name="name" value="冰冻吉他拨片"/>
+			<string name="desc" value="当墨水井返回时交换的冰蓝吉他拨片"/>
+		</imgdir>
+    <imgdir name="4310002">
+			<string name="name" value="6周年银币"/>
+			<string name="desc" value="为纪念冒险岛6周年而制造的银币。它只在6周年期间流通，有各种用途"/>
+		</imgdir>
+    <imgdir name="4310003">
+			<string name="name" value="6周年徽章"/>
+			<string name="desc" value="通过在蛋糕或派入侵中接管一个城镇，或在参与蛋糕或派入侵后从#cNPC派领主提亚拉或蛋糕老板丹尼尔#处获得的独特不可交易物品"/>
+		</imgdir>
+    <imgdir name="4310004">
+			<string name="name" value="OSSS奖章"/>
+			<string name="desc" value="OSSS颁发的奖章。可用于从高级研究员杰特处购买各种核心细胞"/>
+		</imgdir>
+    <imgdir name="4310006">
+			<string name="name" value="水晶醇分子"/>
+			<string name="desc" value="水晶醇分子"/>
+		</imgdir>
+    <imgdir name="4310007">
+			<string name="name" value="冰冻吉他拨片"/>
+			<string name="desc" value="用于弹吉他的冰蓝拨片。你可以把它带到博夫人那里购买特殊物品"/>
+		</imgdir>
+    <imgdir name="4310008">
+			<string name="name" value="月光币"/>
+			<string name="desc" value="刻有满月的硬币"/>
+		</imgdir>
+    <imgdir name="4310009">
+			<string name="name" value="高贵狮子王奖章"/>
+			<string name="desc" value="蕴含狮子王特殊力量的奖章。由于尚未完全净化，它发出微弱的银色光芒"/>
+		</imgdir>
+    <imgdir name="4310010">
+			<string name="name" value="皇家狮子王奖章"/>
+			<string name="desc" value="蕴含狮子王特殊力量的奖章。由于已经完全净化，它发出明亮的金色光芒"/>
+		</imgdir>
+</imgdir>

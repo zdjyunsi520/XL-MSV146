@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530115">
+		<string name="name" value="Charge! Toy Trojan 10 Day Coupon"/>
+		<string name="desc" value="Somehow contains a coupon that allows you to learn and use Charge! Toy Trojan for 10 days. #cDouble-click# on it to magically obtain its contents."/>
+	</imgdir>
+    <imgdir name="5530116">
+		<string name="name" value="New Member Golden Maple Fruit"/>
+		<string name="desc" value="A Golden Maple Fruit containing various mounts and items. #cDouble-click# on it to dig inside and discover the contents."/>
+	</imgdir>
+    <imgdir name="5530117">
+		<string name="name" value="7th Anniversary Coin x10 Coupon"/>
+		<string name="desc" value="Contains 10 7th Anniversary Coins. #cDouble-click# to open."/>
+	</imgdir>
+    <imgdir name="5530118">
+		<string name="name" value="New Member Pendant Coupon"/>
+		<string name="desc" value="Somehow contains a New Member Pendant. #cDouble-click# on it to magically obtain its contents."/>
+	</imgdir>
+    <imgdir name="5530119">
+		<string name="name" value="Beryl Weapon Box"/>
+		<string name="desc" value="Contains 1 random Beryl weapon. #cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="5530120">
+		<string name="name" value="Crimson Weapon Box"/>
+		<string name="desc" value="Contains 1 random Crimson weapon. #cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="5530121">
+		<string name="name" value="Black Bean Noodle Bundle"/>
+		<string name="desc" value="Double-click on it to obtain 10 Black Bean Noodles. Eating Black Bean Noodles gives you Weapon/Magic ATT +13 for 30 minutes. "/>
+	</imgdir>
+    <imgdir name="5530122">
+		<string name="name" value="Glittering Joy Bird Feather Coupon"/>
+		<string name="desc" value="Somehow contains a Glittering Joy Bird Feather. #cDouble-click# on it to magically obtain the contents."/>
+	</imgdir>
+    <imgdir name="5530123">
+		<string name="name" value="Joyous 8th Scroll Box"/>
+		<string name="desc" value="Contains 1 Joyous 8th Scroll. #cDouble-click# on it to see what's inside."/>
+	</imgdir>
+    <imgdir name="5530124">
+		<string name="name" value="Silver Awakening Stamp Coupon"/>
+		<string name="desc" value="A coupon that can be traded for 1 Silver Awakening Stamp, which will add 1 Bonus Potential to an item that has less than 2 potentials when #cdouble-clicked#."/>
+	</imgdir>
+    <imgdir name="5530132">
+		<string name="name" value="30 Legends Awards Coins"/>
+		<string name="desc" value="Receive 30 Legends Awards Coins by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530133">
+		<string name="name" value="3 Legends Awards Coins"/>
+		<string name="desc" value="Receive 3 Legends Awards Coins by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530138">
+		<string name="name" value="5 Legends Awards Coins"/>
+		<string name="desc" value="Receive 5 Legends Awards Coins by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530139">
+		<string name="name" value="10 Legends Awards Coins"/>
+		<string name="desc" value="Receive 10 Legends Awards Coins by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530140">
+		<string name="name" value="7-Day Bunny Mount Exchange Ticket"/>
+		<string name="desc" value="Receive a 7-Day Bunny Mount Coupon by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530141">
+		<string name="name" value="Pendant of the Spirit Coupon (15 Days)"/>
+		<string name="desc" value="Receive a Pendent of the Spirit (15 Days) by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530142">
+		<string name="name" value="1.5X EXP Coupon Exchange Ticket"/>
+		<string name="desc" value="Receive three 1.5X EXP Coupons by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530143">
+		<string name="name" value="Chaos Scroll Exchange Ticket"/>
+		<string name="desc" value="Receive a Chaos Scroll by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530144">
+		<string name="name" value="Special Potential Scroll Exchange Ticket"/>
+		<string name="desc" value="Receive a Special Potential Scroll by #cdouble-clicking# this."/>
+	</imgdir>
+    <imgdir name="5530146">
+		<string name="name" value="EXP Booster (4hr)"/>
+		<string name="desc" value="This item will cause your character to receive 150% EXP for 4 hours. This boost will stack with other EXP boosting effects. Double click on this item in the cash tab in your inventory and it will give you #c1 EXP present box in your use tab#. Activate this EXP present box in your inventory to start the receiving the boost. Note: does not work on Quests and PVP. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+</imgdir>

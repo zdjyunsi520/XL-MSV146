@@ -1,0 +1,7 @@
+<imgdir name="2310008">
+        <string name="name" value="神圣专注" />
+        <string name="desc" value="永久提升所有魔法攻击、治愈术的暴击率、命中率和魔法精通度。\n需要技能：#c法术精通 Lv. 10#" />
+        <string name="h" value="For all attacks and the Heal skill, Critical Rate: +#cr%, Accuracy: +#ar%, Magic Mastery: +#mastery%" />
+        <string name="pdesc" value="永久提升所有魔法攻击、治愈术的暴击率、命中率、伤害和魔法精通度。\n需要技能：#c法术精通 Lv. 10#" />
+        <string name="ph" value="For all attacks and the Heal skill, Critical Rate: +#cr%, Accuracy: +#ar%, Damage: +#damR%, Magic Mastery: +#mastery%" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="13000001">
+        <string name="name" value="Archery Mastery" />
+        <string name="desc" value="Become proficient in the fundamentals of Archery. Increases Accuracy, Avoidability, Movement Speed, and Max Movement Speed." />
+        <string name="h" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
+        <string name="pdesc" value="Become proficient in the fundamentals of Archery. Increases Accuracy, Avoidability, Movement Speed, and Max Movement Speed." />
+        <string name="ph" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="32121006">
+        <string name="name" value="Party Shield" />
+        <string name="desc" value="Creates a protective wall centered around you to protect party members. Allies behind the wall will not take damage." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Creates a protective wall centered around you to protect team members. Allies behind the wall will not take damage." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

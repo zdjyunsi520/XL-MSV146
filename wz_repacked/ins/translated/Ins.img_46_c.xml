@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700029">
+		<string name="name" value="女巫杀手"/>
+		<string name="desc" value="在#c2011万圣节活动#中消灭右侧邪恶女巫的勇敢灵魂获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700030">
+		<string name="name" value="节日快乐！"/>
+		<string name="desc" value="圣诞快乐！度过美好圣诞节获得的称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700031">
+		<string name="name" value="学徒猎人"/>
+		<string name="desc" value="通过沉默十字军第一次试炼获得的称号。\r\n#c点击可开启/关闭。#\r\n#c装备时 - 全属性+1，最大HP+100，最大MP+100#"/>
+	</imgdir>
+    <imgdir name="3700032">
+		<string name="name" value="能干猎人"/>
+		<string name="desc" value="通过沉默十字军第二次试炼获得的称号。\r\n#c点击可开启/关闭。#\r\n#c装备时 - 全属性+2，最大HP+200，最大MP+200#"/>
+	</imgdir>
+    <imgdir name="3700033">
+		<string name="name" value="资深猎人"/>
+		<string name="desc" value="通过沉默十字军第三次试炼获得的称号。\r\n#c点击可开启/关闭。#\r\n#c装备时 - 全属性+3，最大HP+300，最大MP+300#"/>
+	</imgdir>
+    <imgdir name="3700034">
+		<string name="name" value="卓越猎人"/>
+		<string name="desc" value="通过沉默十字军最终试炼获得的称号。\r\n#c点击可开启/关闭。#\r\n#c装备时 - 全属性+3，最大HP+400，最大MP+400#"/>
+	</imgdir>
+    <imgdir name="3700035">
+		<string name="name" value="甜蜜情人节！"/>
+		<string name="desc" value="甜蜜情人节！给他人甜蜜情人节礼物获得的称号。不过，不需要成对也能感受甜蜜。即使是永远孤单的人也能感受甜蜜...T_T\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700036">
+		<string name="name" value="甜蜜白色情人节糖果"/>
+		<string name="desc" value="白色情人节品尝糖果...嘴里的甜蜜证明你的人气！\r\n#c点击可开启/关闭。#\r\n#c装备时 - 全属性+1，武器/魔法防御+40#"/>
+	</imgdir>
+    <imgdir name="3700037">
+		<string name="name" value="枫树管理员"/>
+		<string name="desc" value="好好培育枫树幼苗获得的称号。成为枫树的主人！\r\n#c点击可开启/关闭。"/>
+	</imgdir>
+    <imgdir name="3700039">
+		<string name="name" value="恶霸"/>
+		<string name="desc" value="真正投入战斗模式的玩家称号。\r\n#c点击可开启/关闭。#\r\n#c装备时战斗模式武器攻击+2，暴击率+3%#"/>
+	</imgdir>
+    <imgdir name="3700040">
+		<string name="name" value="复仇者"/>
+		<string name="desc" value="在战斗模式固执复仇的玩家称号。\r\n#c点击可开启/关闭。#\r\n#c装备时无视怪物防御5%#"/>
+	</imgdir>
+    <imgdir name="3700041">
+		<string name="name" value="内在美"/>
+		<string name="desc" value="不需要强大也能酷！被微风就能吹倒的玩家称号。\r\n#c点击可开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700042">
+		<string name="name" value="冠军"/>
+		<string name="desc" value="享受战斗模式的玩家称号。\r\n#c点击可开启/关闭。#\r\n#c装备时战斗模式武器攻击+1#"/>
+	</imgdir>
+    <imgdir name="3700043">
+		<string name="name" value="终极冠军"/>
+		<string name="desc" value="在战斗模式取得伟大成就的玩家称号。\r\n#c点击可开启/关闭。#\r\n#c装备时战斗模式武器攻击+1，全属性+3#"/>
+	</imgdir>
+    <imgdir name="3700044">
+		<string name="name" value="传说酷炫"/>
+		<string name="desc" value="传说级枫之谷大佬称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击/魔法攻击+3，全属性+7，最大HP/MP+500，无视敌人防御5%#"/>
+	</imgdir>
+    <imgdir name="3700045">
+		<string name="name" value="独特酷炫"/>
+		<string name="desc" value="独特级枫之谷大佬称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击/魔法攻击+3，全属性+5，最大HP/MP+500#"/>
+	</imgdir>
+    <imgdir name="3700046">
+		<string name="name" value="史诗酷炫"/>
+		<string name="desc" value="史诗级枫之谷大佬称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击/魔法攻击+2，全属性+3，最大HP/MP+500#"/>
+	</imgdir>
+    <imgdir name="3700047">
+		<string name="name" value="你不觉得有趣吗？"/>
+		<string name="desc" value="强大角斗士称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击+2，魔法攻击+2，全属性+3#"/>
+	</imgdir>
+    <imgdir name="3700048">
+		<string name="name" value="战场征服者"/>
+		<string name="desc" value="角斗士模式战场征服者称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击+3，魔法攻击+3，无视敌人防御5%#"/>
+	</imgdir>
+    <imgdir name="3700049">
+		<string name="name" value="暴风骤雨"/>
+		<string name="desc" value="参加暴风更新的幸运玩家称号。\r\n#c点击可开启/关闭。#\r\n#c装备时攻击+7，魔法攻击+7，全属性+7，无视敌人防御5%#"/>
+	</imgdir>
+</imgdir>

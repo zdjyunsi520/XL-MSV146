@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="208">
+			<string name="title" value="8. Evan, the Magician Hero" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="You were assigned to speak to Evan, so you traveled to a farm in Henesys. As Evan's brother greeted you, another boy came whooshing in on a dragon." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="Although Evan didn't know much about Seal Stones himself, he gathered some information from Afrien, a dragon friend of his." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="Though you had to run a small errand in exchange for the information..." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="You and Evan commented on how young the other was, and then you returned to Maple Island." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="When the others reconvened, you put together this knowledge:" />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="#eMaple Island had no Seal Stone.#n" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

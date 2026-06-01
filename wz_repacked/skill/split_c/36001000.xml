@@ -1,0 +1,5 @@
+<imgdir name="36001000">
+        <string name="name" value="光束曲线" />
+        <string name="desc" value="挥舞鞭刃两次，伤害多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

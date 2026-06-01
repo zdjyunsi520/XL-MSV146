@@ -1,0 +1,7 @@
+<imgdir name="5211004">
+        <string name="name" value="火焰喷射器" />
+        <string name="desc" value="用火焰攻击附近的怪物！被击中的怪物会持续受到灼烧伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="用火焰攻击附近的怪物！被击中的怪物会持续受到灼烧伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%" />
+    </imgdir>

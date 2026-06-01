@@ -1,0 +1,5 @@
+<imgdir name="1221015">
+        <string name="name" value="Void Elemental" />
+        <string name="desc" value="Temporarily increases damage a lot. #cAll Charge skills and Blast ignore enemy attributes#. Permanently increases damage of all Charge skills except Divine Charge. Not affected by Combat Orders." />
+        <string name="h" value="MP Cost: #mpCon, Total Damage: +#indieDamR%, Duration: #time sec. #cAll Charge skills and Blast ignore #x% of enemy attributes.#\n[Passive Effect : Increases Flame Charge, Blast, Lightning Charge skills&apos; damage by #damR%]" />
+    </imgdir>

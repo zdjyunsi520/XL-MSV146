@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290004">
+		<string name="name" value="[Mastery Book] Rush"/>
+		<string name="desc" value="This increases the master level of #cRush# up to 20 with 70% of chance.\r\nJob : 4th Advancement Warrior\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290005">
+		<string name="name" value="[Mastery Book] Rush"/>
+		<string name="desc" value="This increases the master level of #cRush# up to 30 with 50% of chance.\r\nJob : 4th Advancement Warrior\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290006">
+		<string name="name" value="[Mastery Book] Power Stance"/>
+		<string name="desc" value="70% chance of increasing the max level of #cPower Stance# to 20.\nJob: Warrior (4th), Mihile\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290007">
+		<string name="name" value="[Mastery Book] Power Stance"/>
+		<string name="desc" value="50% chance of increasing the max level of #cPower Stance# to 30\nJob: Warrior (4th), Mihile\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290008">
+		<string name="name" value="[Mastery Book] Advanced Combo Attack"/>
+		<string name="desc" value="This increases the master level of #cAdvanced Combo Attack# up to 20 with 70% of chance.\r\nClass : Hero\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290009">
+		<string name="name" value="[Mastery Book] Advanced Combo Attack"/>
+		<string name="desc" value="This increases the master level of #cAdvanced Combo Attack# up to 30 with 50% of chance.\r\nClass : Hero\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290010">
+		<string name="name" value="[Mastery Book] Intrepid Slash"/>
+		<string name="desc" value="This increases the master level of #cIntrepid Slash# up to 20 with 70% of chance.\r\nClass : Hero\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290011">
+		<string name="name" value="[Mastery Book] Intrepid Slash"/>
+		<string name="desc" value="This increases the master level of #cIntrepid Slash# up to 30 with 50% of chance.\r\nClass : Hero\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290012">
+		<string name="name" value="[Mastery Book] Blast"/>
+		<string name="desc" value="This increases the master level of #cBlast # up to 20 with 70% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290013">
+		<string name="name" value="[Mastery Book] Blast"/>
+		<string name="desc" value="This increases the master level of #cBlast# up to 30 with 50% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290014">
+		<string name="name" value="[Mastery Book] Guardian"/>
+		<string name="desc" value="This increases the master level of #cGuardian# up to 20 with 70% of chance.\r\nClass : Hero,Paladin\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290015">
+		<string name="name" value="[Mastery Book] Guardian"/>
+		<string name="desc" value="This increases the master level of #cGuardian# up to 30 with 50% of chance.\r\nClass : Hero,Paladin\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290016">
+		<string name="name" value="[Mastery Book] Enrage"/>
+		<string name="desc" value="This increases the master level of #cEnrage# up to 20 with 70% of chance.\r\nClass : Hero\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290017">
+		<string name="name" value="[Mastery Book] Enrage"/>
+		<string name="desc" value="This increases the master level of #cEnrage# up to 30 with 50% of chance.\r\nClass : Hero\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290018">
+		<string name="name" value="[Mastery Book] Holy Charge"/>
+		<string name="desc" value="This increases the master level of #cHoly Charge# up to 20 with 70% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290019">
+		<string name="name" value="[Mastery Book] Divine Charge"/>
+		<string name="desc" value="This increases the master level of #cDivine Charge# up to 20 with 70% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290020">
+		<string name="name" value="[Mastery Book] Heaven's Hammer"/>
+		<string name="desc" value="This increases the master level of #cHeaven's Hammer# up to 20 with 70% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290021">
+		<string name="name" value="[Mastery Book] Heaven's Hammer"/>
+		<string name="desc" value="This increases the master level of #cHeaven's Hammer# up to 30 with 50% of chance.\r\nClass : Paladin\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290022">
+		<string name="name" value="[Mastery Book] Berserk"/>
+		<string name="desc" value="This increases the master level of #cBerserk# up to 20 with 70% of chance.\r\nClass : Dark Knight\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290023">
+		<string name="name" value="[Mastery Book] Berserk"/>
+		<string name="desc" value="This increases the master level of #cBerserk# up to 30 with 50% of chance.\r\nClass : Dark Knight\r\nCondition : Skill level above 15"/>
+	</imgdir>
+</imgdir>

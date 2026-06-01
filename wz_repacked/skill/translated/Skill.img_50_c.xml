@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="60011014"><string name="name" value="宇宙冲刺"/><string name="desc" value="[大师等级：1]\n连续按两次左右方向键，提升移动速度和跳跃力。#c到期时间：TKTKTK#"/></imgdir>
+    <imgdir name="60011015"><string name="name" value="宇宙光束"/><string name="desc" value="[大师等级：1]\n可以在太空矿场改变克瑞普托的状态。#c到期时间：TKTKTK#"/></imgdir>
+    <imgdir name="60011017"><string name="name" value="雪兽骑宠"/><string name="desc" value="[大师等级：1]\n骑上雪兽出发！\n#c到期时间：TKTKTK#"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="60011018"><string name="name" value="雪兽骑宠"/><string name="desc" value="[大师等级：1]\n骑上雪兽出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="60011019"><string name="name" value="魔女扫帚"/><string name="desc" value="[大师等级：1]\n骑上魔女的扫帚飞行～"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="60011020"><string name="name" value="法老之怒"/><string name="desc" value="[大师等级：1]\n释放法老王的愤怒进行攻击！"/><string name="h1" value="Eliminates all monsters inside the Pyramid with a single blow."/></imgdir>
+    <imgdir name="60010022"><string name="name" value="致命暴击"/><string name="desc" value="[大师等级：20]\n提升暴击率。"/><string name="h1" value="50% Chance"/></imgdir>
+    <imgdir name="60011025"><string name="name" value="冲锋！木马"/><string name="desc" value="[大师等级：1]\n骑上玩具木马出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 120, Jump: 120"/></imgdir>
+    <imgdir name="60011026"><string name="name" value="翱翔"/><string name="desc" value="[大师等级：1]\n借助龙族神秘的力量在天空中飞翔！不过摔下来可是很疼的哦～\n激活时消耗90 MP，持续期间每秒消耗1 MP。"/><string name="h1" value="MP Cost (to activate): 90 MP, MP Cost (while active): 1 MP/sec"/></imgdir>
+    <imgdir name="60011027"><string name="name" value="鳄鱼"/><string name="desc" value="[大师等级：1]\n骑上鳄鱼出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011028"><string name="name" value="黑色小摩托"/><string name="desc" value="[大师等级：1]\n骑上黑色小摩托出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011029"><string name="name" value="粉色小摩托"/><string name="desc" value="[大师等级：1]\n骑上粉色小摩托出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011030"><string name="name" value="筋斗云"/><string name="desc" value="[大师等级：1]\n驾着筋斗云腾云驾雾！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011031"><string name="name" value="巴洛古"/><string name="desc" value="[大师等级：1]\n骑上巴洛古出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011033"><string name="name" value="赛车"/><string name="desc" value="[大师等级：1]\n骑上赛车出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011034"><string name="name" value="ZD猛虎"/><string name="desc" value="[大师等级：1]\n骑上ZD猛虎出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011035"><string name="name" value="迷雾巴洛古"/><string name="desc" value="[大师等级：1]\n骑上迷雾巴洛古出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011042"><string name="name" value="神兽"/><string name="desc" value="[大师等级：1]\n骑上神兽出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011044"><string name="name" value="橙色蘑菇"/><string name="desc" value="[大师等级：1]\n骑上橙色蘑菇出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 140, Jump: 120"/></imgdir>
+    <imgdir name="60011049"><string name="name" value="梦魇"/><string name="desc" value="[大师等级：1]\n骑上梦魇出发！"/><string name="h1" value="MP Cost: 10, Weapon/Magic DEF: +10, Speed: 170, Jump: 120"/></imgdir>
+</imgdir>

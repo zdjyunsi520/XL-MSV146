@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1162010"><string name="name" value="Spiegelmann&apos;s Excavation Wallet"/><string name="desc" value="Can only be equipped in the Pocket slot."/></imgdir>
+    <imgdir name="1162011"><string name="name" value="Gallant Battle Manual &lt;Special&gt;"/><string name="desc" value="Can only be equipped in the Pocket slot."/></imgdir>
+    <imgdir name="1162013"><string name="name" value="ES Square"/><string name="desc" value="Can only be equipped in the Pocket slot."/></imgdir>
+    <imgdir name="1162016"><string name="name" value="RED Scarlet Handkerchief"/></imgdir>
+    <imgdir name="1162018"><string name="name" value="Inverse Codex"/><string name="desc" value="Can only be equipped in the Pocket slot."/></imgdir>
+    <imgdir name="1182000"><string name="name" value="Spiegelmann&apos;s Bronze Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182001"><string name="name" value="Spiegelmann&apos;s Bronze Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182002"><string name="name" value="Spiegelmann&apos;s Silver Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182003"><string name="name" value="Spiegelmann&apos;s Silver Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182004"><string name="name" value="Spiegelmann&apos;s Gold Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182005"><string name="name" value="Spiegelmann&apos;s Gold Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182006"><string name="name" value="Hero of Legend"/><string name="desc" value="Carried by a true Hero of Legens! "/></imgdir>
+    <imgdir name="1182007"><string name="name" value="Rainbow Badge"/><string name="desc" value="A badge embued with mysterious rainbow power."/></imgdir>
+    <imgdir name="1182008"><string name="name" value="Witch&apos;s Pumpkin Badge"/><string name="desc" value="Can only be equipped in the Badge slot."/></imgdir>
+    <imgdir name="1182009"><string name="name" value="Halloween Pumpkin Badge"/><string name="desc" value="A mysterious badge created to celebrate Halloween."/></imgdir>
+    <imgdir name="1182010"><string name="name" value="Black Dragon Badge"/><string name="desc" value="A mysterious badge created to celebrate year of the Black Dragon."/></imgdir>
+    <imgdir name="1182011"><string name="name" value="Renegade Justice Badge"/><string name="desc" value="For people who make their own justice! "/></imgdir>
+    <imgdir name="1182018"><string name="name" value="Bounty Hunter Badge"/><string name="desc" value="A badge taken from the wanted criminal and awarded to bounty hunters. Has a very distinct look. "/></imgdir>
+    <imgdir name="1182019"><string name="name" value="Shiny Rainbow Badge"/><string name="desc" value="A badge imbued with mysterious rainbow power."/></imgdir>
+    <imgdir name="1182021"><string name="name" value="Red Leaf High Bronze Badge"/></imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="71000231">
+        <string name="name" value="英雄弓箭手-梅赛德斯" />
+        <string name="desc" value="缩短技能冷却时间。" />
+        <string name="h" value="Skill Cooldown: -#coolTimeR% (Up to 5-sec reduction)" />
+    </imgdir>

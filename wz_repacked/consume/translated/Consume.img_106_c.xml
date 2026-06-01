@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2043204">
+		<string name="name" value="暗黑单手钝器强化卷轴 攻击"/>
+		<string name="desc" value="强化单手钝器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043205">
+		<string name="name" value="暗黑单手钝器强化卷轴 攻击"/>
+		<string name="desc" value="强化单手钝器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043206">
+		<string name="name" value="单手钝器强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化单手钝器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043207">
+		<string name="name" value="单手钝器强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化单手钝器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043208">
+		<string name="name" value="【6周年】单手钝器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n力量：+2\r\n武器攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2043210">
+		<string name="name" value="单手钝器强化卷轴 命中 100%"/>
+		<string name="desc" value="强化单手狼牙棒的命中。\n成功率100%，命中+20"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2043211">
+		<string name="name" value="单手钝器强化卷轴 命中 70%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043212">
+		<string name="name" value="单手钝器强化卷轴 命中 60%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043213">
+		<string name="name" value="单手钝器强化卷轴 命中 30%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043214">
+		<string name="name" value="单手钝器强化卷轴 命中 10%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043216">
+		<string name="name" value="佩佩国王 60% 单手钝器强化卷轴"/>
+		<string name="desc" value="强化佩佩国王重锤的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043217">
+		<string name="name" value="单手钝器强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手钝器的攻击。\n成功率100%，武器攻击+2，力量+2"/>
+	</imgdir>
+    <imgdir name="2043218">
+		<string name="name" value="单手钝器强化卷轴 命中 65%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2043219">
+		<string name="name" value="单手钝器强化卷轴 命中 15%"/>
+		<string name="desc" value="强化单手钝器的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+3\r\n武器攻击：+3\r\n命中：+100\r\n#"/>
+	</imgdir>
+    <imgdir name="2043220">
+		<string name="name" value="单手钝器强化卷轴 攻击 50%"/>
+		<string name="desc" value="强化单手钝器的攻击。\n成功率50%，武器攻击+5，力量+3，敏捷+1"/>
+	</imgdir>
+    <imgdir name="2043300">
+		<string name="name" value="短剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化短剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2043301">
+		<string name="name" value="短剑强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化短剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043302">
+		<string name="name" value="短剑强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化短剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043303">
+		<string name="name" value="短剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化短剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043304">
+		<string name="name" value="暗黑短剑强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化短剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+</imgdir>

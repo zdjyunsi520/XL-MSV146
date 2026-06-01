@@ -1,0 +1,5 @@
+<imgdir name="80000085">
+        <string name="name" value="枫叶乘风者" />
+        <string name="desc" value="芬芳的春风提升你的武器攻击力和魔法攻击力~" />
+        <string name="h" value="#武器攻击力: +#padX, 魔法攻击力: +#madX, 全属性: +#dexX" />
+    </imgdir>

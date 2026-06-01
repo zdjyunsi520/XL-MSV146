@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023085">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nAvoidability: +150#"/>
+	</imgdir>
+    <imgdir name="2023086">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nWeapon DEF: +150#"/>
+	</imgdir>
+    <imgdir name="2023087">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nMagic  DEF: +150#"/>
+	</imgdir>
+    <imgdir name="2023088">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nSpeed: +15#"/>
+	</imgdir>
+    <imgdir name="2023089">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nJump: +15#"/>
+	</imgdir>
+    <imgdir name="2023090">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nAll Stats: +5#"/>
+	</imgdir>
+    <imgdir name="2023091">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nWeapon ATT: +5#\n#Magic ATT +5#"/>
+	</imgdir>
+    <imgdir name="2023092">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nAll Stats: +10#"/>
+	</imgdir>
+    <imgdir name="2023093">
+		<string name="name" value="Giant Pet Gift"/>
+		<string name="desc" value="Amazingly awesome blessings and stuff!\n#cDuration: 10 min\nWeapon ATT: +10#\n#Magic ATT +10#"/>
+	</imgdir>
+    <imgdir name="2023094">
+		<string name="name" value="Hair-Raising Halloween"/>
+		<string name="desc" value="That tingling sensation is you wetting yourself, but at least you get a Weapon ATT and Magic ATT increase of 10 for 30 minutes. Stacks with all buffs except Hair-Raising Halloween."/>
+	</imgdir>
+    <imgdir name="2023097">
+		<string name="name" value="Go, Team, Go! Buff"/>
+		<string name="desc" value="Get energized by the chant of the crowd!\n#cDuration: 30 min\nWeapon ATT +10\nMagic ATT +10#"/>
+	</imgdir>
+    <imgdir name="2023098">
+		<string name="name" value="Hair Wax"/>
+		<string name="desc" value="All the cool kids use hair wax. You... do want to be cool, don't you?"/>
+	</imgdir>
+    <imgdir name="2023099">
+		<string name="name" value="Carrot Juice"/>
+		<string name="desc" value="Carrot juice is good for your eyes. Also, it's yummy."/>
+	</imgdir>
+    <imgdir name="2023100">
+		<string name="name" value="Snake Soup"/>
+		<string name="desc" value="This soup will make you strong like a snake. A strong snake."/>
+	</imgdir>
+    <imgdir name="2023101">
+		<string name="name" value="Hand Sanitizer"/>
+		<string name="desc" value="This sanitizer will clean your hands. You know what they say about clean hands."/>
+	</imgdir>
+    <imgdir name="2023102">
+		<string name="name" value="Cup of Coffee"/>
+		<string name="desc" value="Nothing like a cup of Joe to take you back..."/>
+	</imgdir>
+    <imgdir name="2023103">
+		<string name="name" value="Cologne"/>
+		<string name="desc" value="Cologne to make you more attractive. The more, the better."/>
+	</imgdir>
+    <imgdir name="2023104">
+		<string name="name" value="Premium Hair Wax"/>
+		<string name="desc" value="Forget regular hair wax. All the cool kids use PREMIUM hair wax now."/>
+	</imgdir>
+    <imgdir name="2023105">
+		<string name="name" value="Premium Carrot Juice"/>
+		<string name="desc" value="For premium eyes, premium carrot juice is where it's at. The taste is also premium, of course."/>
+	</imgdir>
+    <imgdir name="2023106">
+		<string name="name" value="Snake Bone Soup"/>
+		<string name="desc" value="This soup, made by boiling snake bones for 2 days straight, will grant you amazing, snake-like powers. At least, that's what they say. "/>
+	</imgdir>
+</imgdir>

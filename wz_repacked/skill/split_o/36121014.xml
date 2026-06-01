@@ -1,0 +1,5 @@
+<imgdir name="36121014">
+        <string name="name" value="Hypogram Field: Support" />
+        <string name="desc" value="Once the energy field is up, any allies within will receive increased HP and Avoidability. Power will recharge each time your allies successfully dodge an attack. Change mode with Modal Shift." />
+        <string name="h" value="MP Cost: #mpCon, Duration of hypogram field: #time, Ally HP Boost: #indieMhpR%, Ally Avoidability Boost: +#evaR%, Power units recharged when allies evade: +1.\nCooldown: #cooltime sec" />
+    </imgdir>

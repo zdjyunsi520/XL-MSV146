@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2512288">
+		<string name="name" value="非凡幸运提升药水配方"/>
+		<string name="desc" value="非凡幸运提升药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512289">
+		<string name="name" value="抗性药水配方"/>
+		<string name="desc" value="抗性药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512290">
+		<string name="name" value="净化药水配方"/>
+		<string name="desc" value="净化药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512291">
+		<string name="name" value="无敌药水配方"/>
+		<string name="desc" value="无敌药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512292">
+		<string name="name" value="经验积累药水配方"/>
+		<string name="desc" value="经验积累药水的配方。"/>
+	</imgdir>
+    <imgdir name="2512293">
+		<string name="name" value="财富获取药水配方"/>
+		<string name="desc" value="财富获取药水的配方。"/>
+	</imgdir>
+    <imgdir name="2520000">
+		<string name="name" value="万圣节南瓜"/>
+		<string name="desc" value="万圣节庆祝活动的额外南瓜灯。非常适合扔向怪物。"/>
+	</imgdir>
+    <imgdir name="2520001">
+		<string name="name" value="圣诞雪团"/>
+		<string name="desc" value="圣诞雪团。使用时双击或设为快捷键。扔向怪物进行攻击！"/>
+	</imgdir>
+    <imgdir name="2540000">
+		<string name="name" value="埃文发型券(男)"/>
+		<string name="desc" value="#c双击#此物品可将发型更改为 #c埃文发型#。"/>
+	</imgdir>
+    <imgdir name="2540001">
+		<string name="name" value="埃文发型券"/>
+		<string name="desc" value="#c双击#此物品可将发型更改为 #c埃文发型#。"/>
+	</imgdir>
+    <imgdir name="2540002">
+		<string name="name" value="帅气迪恩发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[帅气迪恩发型]#。"/>
+	</imgdir>
+    <imgdir name="2540003">
+		<string name="name" value="凌乱发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[凌乱发型]#。"/>
+	</imgdir>
+    <imgdir name="2540004">
+		<string name="name" value="莲花发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[莲花发型]#。"/>
+	</imgdir>
+    <imgdir name="2540005">
+		<string name="name" value="粗犷坚韧发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[Gruff &amp; Tough Hair]#。"/>
+	</imgdir>
+    <imgdir name="2541000">
+		<string name="name" value="舞厅经典发型券(女)"/>
+		<string name="desc" value="#c双击#此物品可将发型更改为 #c舞厅经典发型#。"/>
+	</imgdir>
+    <imgdir name="2541001">
+		<string name="name" value="缪斯发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[缪斯发型]#。"/>
+	</imgdir>
+    <imgdir name="2541002">
+		<string name="name" value="香草发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[香草发型]#。"/>
+	</imgdir>
+    <imgdir name="2541003">
+		<string name="name" value="猫咪发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[猫咪发型]#。"/>
+	</imgdir>
+    <imgdir name="2541004">
+		<string name="name" value="优雅发型券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[优雅发型]#。"/>
+	</imgdir>
+    <imgdir name="2541005">
+		<string name="name" value="渐变染发券"/>
+		<string name="desc" value="#c双击#可将发型更改为 #c[渐变染发]#。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2048052">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048053">
+		<string name="name" value="宠物装备强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2048054">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048055">
+		<string name="name" value="宠物装备强化卷轴 力量 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的力量。"/>
+	</imgdir>
+    <imgdir name="2048056">
+		<string name="name" value="宠物装备强化卷轴 智力 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的智力。"/>
+	</imgdir>
+    <imgdir name="2048057">
+		<string name="name" value="宠物装备强化卷轴 敏捷 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的敏捷。"/>
+	</imgdir>
+    <imgdir name="2048058">
+		<string name="name" value="宠物装备强化卷轴 幸运 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的幸运。"/>
+	</imgdir>
+    <imgdir name="2048059">
+		<string name="name" value="宠物装备强化卷轴 力量 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的力量。"/>
+	</imgdir>
+    <imgdir name="2048060">
+		<string name="name" value="宠物装备强化卷轴 智力 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的智力。"/>
+	</imgdir>
+    <imgdir name="2048061">
+		<string name="name" value="宠物装备强化卷轴 敏捷 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的敏捷。"/>
+	</imgdir>
+    <imgdir name="2048062">
+		<string name="name" value="宠物装备强化卷轴 幸运 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的幸运。"/>
+	</imgdir>
+    <imgdir name="2048077">
+		<string name="name" value="宠物装备攻击和魔法攻击强化卷轴 40%"/>
+		<string name="desc" value="强化宠物装备的武器攻击和魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n武器攻击：+1\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2048078">
+		<string name="name" value="宠物装备攻击和魔法攻击强化卷轴 60%"/>
+		<string name="desc" value="强化宠物装备的武器攻击和魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+1\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2048079">
+		<string name="name" value="宠物装备强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048080">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048081">
+		<string name="name" value="宠物装备攻击和魔法攻击强化卷轴 20%"/>
+		<string name="desc" value="强化宠物装备的武器攻击和魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n武器攻击：+2\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048082">
+		<string name="name" value="宠物装备强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化宠物装备的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+2至+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2048083">
+		<string name="name" value="宠物装备强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化宠物装备的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+2至+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2048084">
+		<string name="name" value="宠物装备强化卷轴 力量 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的力量。"/>
+	</imgdir>
+    <imgdir name="2048085">
+		<string name="name" value="宠物装备强化卷轴 智力 70%"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n#"/>
+		<string name="desc" value="强化宠物装备的智力。"/>
+	</imgdir>
+</imgdir>

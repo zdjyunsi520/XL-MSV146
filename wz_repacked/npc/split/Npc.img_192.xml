@@ -1,0 +1,133 @@
+<imgdir name="Npc.img">
+    <imgdir name="2450004">
+		<string name="name" value="Checky"/>
+	</imgdir>
+    <imgdir name="2450005">
+		<string name="name" value="Albert"/>
+		<string name="func" value="City Hall"/>
+		<string name="d0" value="I'm sorry to have failed you... But... But... "/>
+		<string name="d1" value="I'm sorry to have failed you... But... But... "/>
+	</imgdir>
+    <imgdir name="2450006">
+		<string name="name" value="Surl"/>
+		<string name="d0" value="This village is a complete mess, and I don't like it."/>
+		<string name="d1" value="This village is a complete mess, and I don't like it."/>
+	</imgdir>
+    <imgdir name="2450007">
+		<string name="name" value="Allen"/>
+		<string name="func" value="Robotics Expert"/>
+		<string name="d0" value="Making robots is fun, but it pays a lot less than you'd think."/>
+		<string name="d1" value="Broken robots can be fixed like new."/>
+		<string name="n0" value="Every robot you see in the village is one of my masterpieces."/>
+		<string name="n1" value="Robots are like my children."/>
+	</imgdir>
+    <imgdir name="2450008">
+		<string name="name" value="Smartie"/>
+		<string name="d0" value="I catch 'em every time!"/>
+		<string name="n0" value="I want to go home now."/>
+		<string name="n1" value="Olly olly oxen free!"/>
+	</imgdir>
+    <imgdir name="2450009">
+		<string name="name" value="Cutie"/>
+		<string name="n0" value="I hope nobody finds me."/>
+		<string name="n1" value="Smartie is really bad at playing tag."/>
+		<imgdir name="bubble">
+			<imgdir name="41201">
+				<imgdir name="2">
+					<string name="0" value="Now that we played hide-and-seek, how about we play tag?"/>
+					<string name="1" value="Smartie is going to be IT again. Hehehehe!"/>
+				</imgdir>
+    <imgdir name="2450010">
+		<string name="name" value="Mysterie"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="Sensible men care about how they look from behind."/>
+	</imgdir>
+    <imgdir name="2450011">
+		<string name="name" value="Ulrika"/>
+		<string name="d0" value="It's about time for Smartie to call, &quot;Olly olly oxen free.&quot;"/>
+		<string name="d1" value="I want to play with Mastema all day, but I've got so much homework to do."/>
+		<string name="n0" value="Hehe, no one's gonna find me here."/>
+		<string name="n1" value="Hide and seek is the best!"/>
+		<imgdir name="bubble">
+			<imgdir name="41209">
+				<imgdir name="2">
+					<string name="0" value="Mastema is older than I."/>
+					<string name="1" value="It's weird that Mastema is so old."/>
+				</imgdir>
+    <imgdir name="41201">
+				<imgdir name="2">
+					<string name="0" value="Have you seen a purple cat this big?"/>
+					<string name="1" value="Mastema! Where is that cat?"/>
+				</imgdir>
+    <imgdir name="2450012">
+		<string name="name" value="Fattie"/>
+		<string name="n0" value="Gulp! Gulp!"/>
+		<string name="n1" value="Munch! Munch!"/>
+	</imgdir>
+    <imgdir name="2450013">
+		<string name="name" value="Von"/>
+		<string name="d0" value="I-I'm not Von."/>
+		<string name="d1" value="Sheesh, how did you know I'm Von? I was so sure my disguise was perfect."/>
+	</imgdir>
+    <imgdir name="2450014">
+		<string name="name" value="Brighton"/>
+		<string name="func" value="Streetsweeper"/>
+		<string name="d0" value="Cleaning makes me so happy! I'm very proud of what I do, especially when I see the clean streets."/>
+		<string name="d1" value="Cleaning makes me so happy! I'm very proud of what I do, especially when I see the clean streets."/>
+		<string name="n0" value="Haha, have a nice day!"/>
+		<string name="n1" value="Doesn't it feel great, walking on clean streets?"/>
+	</imgdir>
+    <imgdir name="2450015">
+		<string name="name" value="Le Tierre"/>
+		<string name="func" value="Vice President Secretary"/>
+		<string name="d0" value="I'm Le Tierre, secretary to Vice President Anthony."/>
+		<string name="d1" value="I'm Le Tierre, secretary to Vice President Anthony."/>
+		<string name="n0" value="Do you believe in love?"/>
+		<string name="n1" value="I'm too tired."/>
+		<imgdir name="bubble">
+			<imgdir name="41205">
+				<imgdir name="2">
+					<string name="0" value="Allen looks good when he's dressed up nicely."/>
+					<string name="1" value="If you take a close look at him, he's quite handsome."/>
+				</imgdir>
+    <imgdir name="2450016">
+		<string name="name" value="J"/>
+		<string name="n0" value="Beautiful Le Tierre, my heart is yours!"/>
+		<string name="n1" value="Le Tierre, I've got this ring for you."/>
+	</imgdir>
+    <imgdir name="2450017">
+		<string name="name" value="Mastema"/>
+	</imgdir>
+    <imgdir name="2450018">
+		<string name="name" value="Mastema"/>
+	</imgdir>
+    <imgdir name="2450019">
+		<string name="name" value="Mastema"/>
+	</imgdir>
+    <imgdir name="2450020">
+		<string name="name" value="Anthony"/>
+		<string name="func" value="Vice President's Secretary"/>
+		<string name="d0" value="I'm Anthony, vice president of this village. Soon, I will be president."/>
+		<string name="d1" value="I'm Anthony, vice president of this village. Soon, I will be president."/>
+		<string name="n0" value="You there! I'm waiting for you to greet me with respect and admiration!"/>
+		<string name="n1" value="You'll regret treating me badly."/>
+		<imgdir name="bubble">
+			<imgdir name="41208">
+				<imgdir name="2">
+					<string name="0" value="Useless. Useless!"/>
+					<string name="1" value="Everything's useless!"/>
+				</imgdir>
+    <imgdir name="2450021">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="Doctor"/>
+		<string name="d0" value="I'm studying the effects of Rue on the human body."/>
+		<string name="d1" value="I'm studying the effects of Rue on the human body."/>
+		<string name="n0" value="I wonder what kinds of secrets Rue holds."/>
+		<string name="n1" value="Their mutation must be related to rue ores."/>
+	</imgdir>
+    <imgdir name="2450022">
+		<string name="name" value="Auto Taxi"/>
+		<string name="d0" value="(It's the unmanned taxi, Edelstein's local specialty.)"/>
+		<string name="d1" value="(It's the unmanned taxi, Edelstein's local specialty.)"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1492020"><string name="name" value="枫叶枪"/></imgdir>
+    <imgdir name="1492021"><string name="name" value="枫叶暴风手枪"/></imgdir>
+    <imgdir name="1492022"><string name="name" value="枫叶加农射手"/></imgdir>
+    <imgdir name="1492023"><string name="name" value="永恒盲光"/><string name="h1" value="#c快速射击 +1级\n金属装甲：导弹坦克 +1级#"/></imgdir>
+    <imgdir name="1492024"><string name="name" value="暴风"/><string name="desc" value="\n 只能使用专属卷轴哦。"/></imgdir>
+    <imgdir name="1492025"><string name="name" value="逆转盲光"/><string name="h1" value="#c快速射击 +1级\n金属装甲：导弹坦克 +1级#"/></imgdir>
+    <imgdir name="1492026"><string name="name" value="粉色花管"/></imgdir>
+    <imgdir name="1492030"><string name="name" value="炽天使之枪"/></imgdir>
+    <imgdir name="1492032"><string name="name" value="凯琳的手枪"/></imgdir>
+    <imgdir name="1492035"><string name="name" value="巴洛格的无限"/></imgdir>
+    <imgdir name="1492036"><string name="name" value="巴洛格的和平缔造者"/></imgdir>
+    <imgdir name="1492037"><string name="name" value="贝恩射手"/><string name="h1" value="#c每30秒有5%的几率额外造成120点伤害。#\n #c有10%的几率造成5秒冰冻。#"/></imgdir>
+    <imgdir name="1492038"><string name="name" value="佩佩王流星"/></imgdir>
+    <imgdir name="1492042"><string name="name" value="枫叶枪"/><string name="desc" value="#c网吧限定道具，退出游戏后会消失哦。\n#"/></imgdir>
+    <imgdir name="1492043"><string name="name" value="枫叶暴风手枪"/><string name="desc" value="#c网吧限定道具，退出游戏后会消失哦。\n#"/></imgdir>
+    <imgdir name="1492044"><string name="name" value="枫叶加农射手"/><string name="desc" value="#c网吧限定道具，退出游戏后会消失哦。\n#"/></imgdir>
+    <imgdir name="1492048"><string name="name" value="阿斯塔洛特之枪"/><string name="desc" value="#c你能感受到阿斯塔洛特的黑暗能量哦。#"/></imgdir>
+    <imgdir name="1492053"><string name="name" value="冰冷之心"/></imgdir>
+    <imgdir name="1492054"><string name="name" value="拉斯费尔特先生"/></imgdir>
+    <imgdir name="1492055"><string name="name" value="燃烧地狱"/></imgdir>
+</imgdir>

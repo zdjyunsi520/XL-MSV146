@@ -1,0 +1,5 @@
+<imgdir name="31220005">
+        <string name="name" value="Defense Expertise" />
+        <string name="desc" value="Permanently increases your defensive abilityes, allowing you to ignore a portion of the enemy&apos;s defense. Increases the ATT of #cShield Charge# and #cNether Shield#. Doubles defense penetration for shield skills." />
+        <string name="h" value="Enemy DEF Ignored: #ignoreMobpdpR%, Shield Charge and Nether Shield Damage: +20%.\r\nShield Charge and Nether Shield ignore 2x DEF." />
+    </imgdir>

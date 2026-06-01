@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="0001079"><string name="name" value="鹰眼的鲨鱼波"/><string name="desc" value="召唤鹰眼，释放恐怖的雷电鲨鱼攻击敌人！技能等级根据你的等级提升。"/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="0001081"><string name="name" value="魔女扫帚"/><string name="desc" value="[大师等级：1]\n骑上魔女的扫帚飞行～"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 120, Jump: +120"/></imgdir>
+    <imgdir name="0001084"><string name="name" value="蓝色小摩托"/><string name="desc" value="[大师等级：1]\n骑上蓝色小摩托兜风去～"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001085"><string name="name" value="大天使"/><string name="desc" value="[大师等级：1]\n召唤封印在天使祝福中的大天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="0001087"><string name="name" value="暗天使"/><string name="desc" value="[大师等级：1]\n召唤封印在暗黑天使祝福中的暗天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="0001089"><string name="name" value="圣诞雪橇"/><string name="desc" value="[大师等级：1]\n乘坐圣诞老人的雪橇出发！"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="0001090"><string name="name" value="大天使"/><string name="desc" value="[大师等级：1]\n召唤封印在天使祝福中的大天使！"/><string name="h1" value="MP Cost: 100"/></imgdir>
+    <imgdir name="0001096"><string name="name" value="巨兔坐骑"/><string name="desc" value="[大师等级：1]\n骑上大兔子蹦蹦跳跳！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="0001098"><string name="name" value="冰之二段跳"/><string name="pdesc" value="在空中进行第二次跳跃。"/><string name="ph" value="MP Cost: 0, Additional Jump distance\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="1100"><string name="bookName" value="魂骑士基础"/></imgdir>
+    <imgdir name="0001101"><string name="name" value="小兔子坐骑"/><string name="desc" value="[大师等级：1]\n骑上小兔子蹦蹦跳跳！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="0001102"><string name="name" value="兔子人力车"/><string name="desc" value="[大师等级：1]\n坐上兔子拉着的人力车出发吧！"/><string name="h1" value="MP Cost: 10, Weapon and Magic Def: +10, Speed: 150%, Jump: 120%"/></imgdir>
+    <imgdir name="0001105"><string name="name" value="冰骑士"/><string name="pdesc" value="你已变身为冰骑士！击败挑战者们，活到时间结束吧！"/><string name="ph" value="你已变身为冰骑士！击败挑战者们，活到时间结束吧！"/></imgdir>
+    <imgdir name="0001106"><string name="name" value="命运坐骑"/><string name="desc" value="[大师等级：1]\n骑上命运坐骑出发！"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 120%, Jump: 120%"/></imgdir>
+    <imgdir name="1110"><string name="bookName" value="魂骑士之路"/></imgdir>
+    <imgdir name="1111"><string name="bookName" value="魂骑士指南"/></imgdir>
+    <imgdir name="1112"><string name="bookName" value="魂骑士大成"/></imgdir>
+    <imgdir name="0001113"><string name="name" value="六周年狂欢夜"/><string name="desc" value="[大师等级：1]\n可以使用六周年套装效果技能。"/></imgdir>
+    <imgdir name="0001114"><string name="name" value="六周年狂欢夜"/><string name="desc" value="[大师等级：1]\n可以使用六周年套装效果技能。"/></imgdir>
+    <imgdir name="0001115"><string name="name" value="执法官"/><string name="desc" value="[大师等级：1]\n可以使用执法官技能。"/></imgdir>
+</imgdir>

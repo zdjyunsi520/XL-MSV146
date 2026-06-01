@@ -1,0 +1,79 @@
+<imgdir name="Npc.img">
+    <imgdir name="9020008">
+		<string name="name" value="被俘的探险家"/>
+	</imgdir>
+    <imgdir name="9020009">
+		<string name="name" value="皮斯顿"/>
+		<string name="n0" value="现在每个世界都有敌人。"/>
+		<string name="n1" value="现在情况很艰难，告诉你。"/>
+		<string name="d0" value="你是艾迪亚叫来的人吗？我一直在等。"/>
+		<string name="d1" value="先是马格纳斯，然后是其他人...这太过分了！"/>
+	</imgdir>
+    <imgdir name="9020010">
+		<string name="name" value="次元传送门"/>
+	</imgdir>
+    <imgdir name="9020011">
+		<string name="name" value="希拉"/>
+	</imgdir>
+    <imgdir name="9020012">
+		<string name="name" value="马格纳斯"/>
+	</imgdir>
+    <imgdir name="9020013">
+		<string name="name" value="格里梅尔"/>
+	</imgdir>
+    <imgdir name="9020014">
+		<string name="name" value="黑心"/>
+	</imgdir>
+    <imgdir name="9020015">
+		<string name="name" value="皮斯顿"/>
+	</imgdir>
+    <imgdir name="9030000">
+		<string name="name" value="弗雷德里克"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="如果你的合同到期了，来这里取回你的物品和金币！"/>
+	</imgdir>
+    <imgdir name="9030100">
+		<string name="name" value="斯克鲁奇"/>
+		<string name="func" value="储物保管员"/>
+		<string name="s0" value="嘘...这个保险箱里的物品从未被盗过。"/>
+		<string name="s1" value="这有点贵，但把它看作是保护你的物品的万无一失的方法。"/>
+	</imgdir>
+    <imgdir name="9040000">
+		<string name="name" value="双"/>
+		<string name="n0" value="这是一个挖掘现场！"/>
+		<string name="n1" value="如果你想申请公会任务，我就是你要找的人！"/>
+	</imgdir>
+    <imgdir name="9040001">
+		<string name="name" value="努里斯"/>
+		<string name="n1" value="如果你想离开这里，跟我谈谈。"/>
+		<string name="n0" value="嗯...你想离开这里吗？"/>
+	</imgdir>
+    <imgdir name="9040002">
+		<string name="name" value="肖恩"/>
+		<string name="d0" value="欢迎来到挖掘营地。我是肖恩，首席挖掘师。"/>
+		<string name="d1" value="一块看似简单的岩石实际上可能是连接过去和现在的纽带。"/>
+		<string name="n0" value="欢迎来到挖掘营地。我是肖恩，首席挖掘师。"/>
+		<string name="n1" value="一块看似简单的岩石实际上可能是连接过去和现在的纽带。"/>
+	</imgdir>
+    <imgdir name="9040003">
+		<string name="name" value="沙伦三世的灵魂"/>
+	</imgdir>
+    <imgdir name="9040004">
+		<string name="name" value="荣耀之石"/>
+	</imgdir>
+    <imgdir name="9040005">
+		<string name="name" value="回归之石"/>
+	</imgdir>
+    <imgdir name="9040006">
+		<string name="name" value="守护雕像"/>
+	</imgdir>
+    <imgdir name="9040007">
+		<string name="name" value="沙伦三世的意志"/>
+	</imgdir>
+    <imgdir name="9040008">
+		<string name="name" value="公会排名榜"/>
+	</imgdir>
+    <imgdir name="9040009">
+		<string name="name" value="守门人"/>
+	</imgdir>
+</imgdir>

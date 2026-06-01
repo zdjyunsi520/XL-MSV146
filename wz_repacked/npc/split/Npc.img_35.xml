@@ -1,0 +1,80 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159390">
+		<string name="name" value="Claudine"/>
+	</imgdir>
+    <imgdir name="2159391">
+		<string name="name" value="Beryl"/>
+		<string name="d0" value="..."/>
+	</imgdir>
+    <imgdir name="2159392">
+		<string name="name" value="Beryl"/>
+		<string name="d0" value="...Ugh"/>
+	</imgdir>
+    <imgdir name="2159393">
+		<string name="name" value="Beryl"/>
+		<string name="d0" value="...Ugh"/>
+		<string name="n0" value="...Ugh"/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="2159394">
+		<string name="name" value="Francis"/>
+		<string name="d0" value="Argh... Down again... Urgh..."/>
+	</imgdir>
+    <imgdir name="2159395">
+		<string name="name" value="Dargoth"/>
+	</imgdir>
+    <imgdir name="2159396">
+		<string name="name" value="Roo-D"/>
+		<string name="n0" value="Doo-dee-doooo"/>
+		<string name="n1" value="What if Gelimer shows up?"/>
+		<string name="d0" value="I hate fighting."/>
+	</imgdir>
+    <imgdir name="2159397">
+		<string name="name" value="Black Wings Lackey"/>
+	</imgdir>
+    <imgdir name="2159398">
+		<string name="name" value="Desk"/>
+		<string name="d0" value="(This desk is covered in books and papers.)"/>
+	</imgdir>
+    <imgdir name="2159399">
+		<string name="name" value="Roo-D"/>
+		<string name="d0" value="Careful!"/>
+	</imgdir>
+    <imgdir name="2159400">
+		<string name="name" value="Roo-D"/>
+		<string name="d0" value="Why did Gelimer make my legs so short?!"/>
+		<string name="n0" value="Let's take the Promessa back and get some hot chocolate with Professor Moon!"/>
+		<string name="n1" value="Let's take the Promessa back and play piggyback with Promathus!"/>
+		<string name="n2" value="Let's take the Promessa back and play chess with Nathania!"/>
+		<string name="n3" value="Let's take the Promessa back and see what Edwin's working on!"/>
+	</imgdir>
+    <imgdir name="2159401">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159402">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159403">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159404">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159405">
+		<string name="name" value="Roo-D"/>
+		<string name="d0" value="Hey, are you okay?"/>
+		<string name="d1" value="I hate fighting."/>
+	</imgdir>
+    <imgdir name="2159406">
+		<string name="name" value="A Strange Letter"/>
+	</imgdir>
+    <imgdir name="2159407">
+		<string name="name" value="Eliza"/>
+	</imgdir>
+    <imgdir name="2159408">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159409">
+		<string name="name" value="???"/>
+	</imgdir>
+</imgdir>

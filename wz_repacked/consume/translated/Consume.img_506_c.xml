@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431946">
+		<string name="desc" value="包含五顶精致寿司家族帽子中的一顶。"/>
+		<string name="name" value="寿司家族帽子宝箱"/>
+	</imgdir>
+    <imgdir name="2431947">
+		<string name="desc" value="双击此优惠券获得[30天]红玫瑰标签戒指。"/>
+		<string name="name" value="[30天]红玫瑰标签戒指"/>
+	</imgdir>
+    <imgdir name="2431948">
+		<string name="desc" value="双击此优惠券获得[30天]红玫瑰聊天戒指。"/>
+		<string name="name" value="[30天]红玫瑰聊天戒指优惠券"/>
+	</imgdir>
+    <imgdir name="2431949">
+		<string name="desc" value="双击获得永久[大公鸡坐骑]骑乘技能。"/>
+		<string name="name" value="大公鸡坐骑永久优惠券"/>
+	</imgdir>
+    <imgdir name="2431950">
+		<string name="desc" value="双击使用[大公鸡坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="大公鸡坐骑90天优惠券"/>
+	</imgdir>
+    <imgdir name="2431951">
+		<string name="desc" value="双击使用[漂浮气球坐骑]骑乘技能，持续2小时。"/>
+		<string name="name" value="漂浮气球坐骑2小时优惠券"/>
+	</imgdir>
+    <imgdir name="2431952">
+		<string name="desc" value="用改良配方制作的成长药水。喝一口升一级。\n#c181级及以上角色无法从该物品获得收益。#"/>
+		<string name="name" value="进化风暴成长药水"/>
+	</imgdir>
+    <imgdir name="2431953">
+		<string name="desc" value="此药水赋予Zero特殊力量。\n#c使用时增加一定数量的武器点数。#"/>
+		<string name="name" value="Zero神秘胶囊"/>
+	</imgdir>
+    <imgdir name="2431954">
+		<string name="desc" value="使用此优惠券获得一件漂亮的RED纪念男式T恤。"/>
+		<string name="name" value="RED纪念T恤(男)优惠券"/>
+	</imgdir>
+    <imgdir name="2431955">
+		<string name="desc" value="使用此优惠券获得一件漂亮的RED纪念女式T恤。"/>
+		<string name="name" value="RED纪念T恤(女)优惠券"/>
+	</imgdir>
+    <imgdir name="2431956">
+		<string name="desc" value="使用此优惠券获得一桶RED纪念油漆。"/>
+		<string name="name" value="RED纪念油漆桶优惠券"/>
+	</imgdir>
+    <imgdir name="2431957">
+		<string name="desc" value="使用此优惠券获得限量版琳恩的保护。"/>
+		<string name="name" value="琳恩的保护优惠券"/>
+	</imgdir>
+    <imgdir name="2431959">
+		<string name="desc" value="使用此优惠券获得前旅行商人缪缪优惠券。"/>
+		<string name="name" value="商人缪缪优惠券"/>
+	</imgdir>
+    <imgdir name="2431963">
+		<string name="desc" value="含有黑史莱姆部分灵魂的碎片。收集#c10个#兑换黑史莱姆之魂。"/>
+		<string name="name" value="黑史莱姆灵魂碎片"/>
+	</imgdir>
+    <imgdir name="2431964">
+		<string name="desc" value="含有麦格纳斯部分灵魂的碎片。收集#c10个#兑换麦格纳斯之魂。"/>
+		<string name="name" value="麦格纳斯灵魂碎片"/>
+	</imgdir>
+    <imgdir name="2431965">
+		<string name="desc" value="将伤害皮肤重置为未使用状态。Zero职业无法使用。"/>
+		<string name="name" value="基础伤害皮肤"/>
+	</imgdir>
+    <imgdir name="2431966">
+		<string name="desc" value="更改为数字化伤害皮肤。Zero职业无法使用。"/>
+		<string name="name" value="数字化伤害皮肤"/>
+	</imgdir>
+    <imgdir name="2431967">
+		<string name="desc" value="更改为克里提亚斯伤害皮肤。Zero职业无法使用。"/>
+		<string name="name" value="克里提亚斯伤害皮肤"/>
+	</imgdir>
+    <imgdir name="2431968">
+		<string name="desc" value="重置你的女皇通关次数，以便你可以再次进入地图。使用后，此物品7天内无法再次使用。"/>
+		<string name="name" value="女皇重置券"/>
+	</imgdir>
+    <imgdir name="2431969">
+		<string name="desc" value="重置你的困难麦格纳斯通关次数，以便你可以再次进入地图。使用后，此物品7天内无法再次使用。"/>
+		<string name="name" value="困难麦格纳斯重置券"/>
+	</imgdir>
+</imgdir>

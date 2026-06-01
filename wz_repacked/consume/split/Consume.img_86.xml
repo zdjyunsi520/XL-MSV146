@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040618">
+		<string name="name" value="Scroll for Bottomwear for Jump 60%"/>
+		<string name="desc" value="Improves Jump on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nAvoidability: +20\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040619">
+		<string name="name" value="Scroll for Bottomwear for Jump 10%"/>
+		<string name="desc" value="Improves Jump on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nAvoidability: +40\r\nJump: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040620">
+		<string name="name" value="Scroll for Bottomwear for HP 100%"/>
+		<string name="desc" value="Improves Max HP on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040621">
+		<string name="name" value="Scroll for Bottomwear for HP 60%"/>
+		<string name="desc" value="Improves Max HP on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040622">
+		<string name="name" value="Scroll for Bottomwear for HP 10%"/>
+		<string name="desc" value="Improves Max HP on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040623">
+		<string name="name" value="Scroll for Bottomwear for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040624">
+		<string name="name" value="Scroll for Bottomwear for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040625">
+		<string name="name" value="Scroll for Bottomwear for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040626">
+		<string name="name" value="Scroll for Bottomwear for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\nAccuracy: +40\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040627">
+		<string name="name" value="Scroll for Bottomwear for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\nAccuracy: +40\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040629">
+		<string name="name" value="Scroll for Bottomwear for DEF 50%"/>
+		<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:50%, weapon def.+5, magic def.+4"/>
+	</imgdir>
+    <imgdir name="2040630">
+		<string name="name" value="Scroll for Bottomwear for DEF 100%"/>
+		<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:100%, weapon def. +2, magic def. +3"/>
+	</imgdir>
+    <imgdir name="2040631">
+		<string name="name" value="Scroll for Bottomwear for Jump 65%"/>
+		<string name="desc" value="Improves Jump on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nAvoidability: +20\r\nJump: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040632">
+		<string name="name" value="Scroll for Bottomwear for Jump 15%"/>
+		<string name="desc" value="Improves Jump on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nAvoidability: +40\r\nJump: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040633">
+		<string name="name" value="Scroll for Bottomwear for HP 65%"/>
+		<string name="desc" value="Improves Max HP on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax HP: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040634">
+		<string name="name" value="Scroll for Bottomwear for HP 15%"/>
+		<string name="desc" value="Improves Max HP on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040635">
+		<string name="name" value="Scroll for Bottomwear for DEX 65%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nDEX: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040636">
+		<string name="name" value="Scroll for Bottomwear for DEX 15%"/>
+		<string name="desc" value="Improves Dexterity on bottomwear armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +3\r\nAccuracy: +40\r\nSpeed: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040700">
+		<string name="name" value="Scroll for Shoes for Avoidability 100%"/>
+		<string name="desc" value="Improves Avoidability on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040701">
+		<string name="name" value="Scroll for Shoes for Avoidability 60%"/>
+		<string name="desc" value="Improves Avoidability on shoes."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nAccuracy: +20\r\nAvoidability: +40\r\n#"/>
+	</imgdir>
+</imgdir>

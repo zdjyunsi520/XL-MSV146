@@ -1,0 +1,220 @@
+<imgdir name="Map.img">
+    <imgdir name="masteria">
+			<imgdir name="863000000">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫1"/>
+			</imgdir>
+			<imgdir name="863000001">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫2"/>
+			</imgdir>
+			<imgdir name="863000002">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫3"/>
+			</imgdir>
+			<imgdir name="863000003">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫4"/>
+			</imgdir>
+			<imgdir name="863000004">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫5"/>
+			</imgdir>
+			<imgdir name="863000005">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫6"/>
+			</imgdir>
+			<imgdir name="863000006">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫7"/>
+			</imgdir>
+			<imgdir name="863000007">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫8"/>
+			</imgdir>
+			<imgdir name="863000008">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫9"/>
+			</imgdir>
+			<imgdir name="863000009">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫10"/>
+			</imgdir>
+			<imgdir name="863000010">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫11"/>
+			</imgdir>
+			<imgdir name="863000011">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫12"/>
+			</imgdir>
+			<imgdir name="863000012">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫13"/>
+			</imgdir>
+			<imgdir name="863000013">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫14"/>
+			</imgdir>
+			<imgdir name="863000014">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫15"/>
+			</imgdir>
+			<imgdir name="863000015">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫16"/>
+			</imgdir>
+			<imgdir name="863000016">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫尽头"/>
+			</imgdir>
+			<imgdir name="863000017">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="迷宫入口"/>
+			</imgdir>
+			<imgdir name="863100000">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="恶魔避难所"/>
+			</imgdir>
+			<imgdir name="863100001">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林1"/>
+			</imgdir>
+			<imgdir name="863100002">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林2"/>
+			</imgdir>
+			<imgdir name="863100003">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林3"/>
+			</imgdir>
+			<imgdir name="863100004">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林4"/>
+			</imgdir>
+			<imgdir name="863100005">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林5"/>
+			</imgdir>
+			<imgdir name="863100008">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="深红之心遗迹外围"/>
+			</imgdir>
+			<imgdir name="863100100">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="神秘深红之心1"/>
+			</imgdir>
+			<imgdir name="863100101">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="神秘深红之心2"/>
+			</imgdir>
+			<imgdir name="863100102">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="神秘深红之心3"/>
+			</imgdir>
+			<imgdir name="863100103">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="神秘深红之心4"/>
+			</imgdir>
+			<imgdir name="863100104">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="神秘深红之心3"/>
+			</imgdir>
+			<imgdir name="863100006">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林6"/>
+			</imgdir>
+			<imgdir name="863100007">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="暗影面纱森林7"/>
+			</imgdir>
+			<imgdir name="863000100">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="心树守卫之林"/>
+			</imgdir>
+			<imgdir name="863000900">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：头部"/>
+			</imgdir>
+			<imgdir name="863000920">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：头部"/>
+			</imgdir>
+			<imgdir name="863010000">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="心树的记忆"/>
+			</imgdir>
+			<imgdir name="863010100">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="前往古瓦什之路"/>
+			</imgdir>
+			<imgdir name="863010200">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右下腿"/>
+			</imgdir>
+			<imgdir name="863010210">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右上腿"/>
+			</imgdir>
+			<imgdir name="863010220">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左下腿"/>
+			</imgdir>
+			<imgdir name="863010230">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左上腿"/>
+			</imgdir>
+			<imgdir name="863010240">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：腹部"/>
+			</imgdir>
+			<imgdir name="863010300">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右下躯干"/>
+			</imgdir>
+			<imgdir name="863010310">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右上躯干"/>
+			</imgdir>
+			<imgdir name="863010320">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右上臂"/>
+			</imgdir>
+			<imgdir name="863010330">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：右肩"/>
+			</imgdir>
+			<imgdir name="863010400">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左下躯干"/>
+			</imgdir>
+			<imgdir name="863010410">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左上躯干"/>
+			</imgdir>
+			<imgdir name="863010420">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左上臂"/>
+			</imgdir>
+			<imgdir name="863010430">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：左肩"/>
+			</imgdir>
+			<imgdir name="863010500">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：心脏"/>
+			</imgdir>
+			<imgdir name="863010600">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：头部"/>
+			</imgdir>
+			<imgdir name="863010700">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="古瓦什：心脏"/>
+			</imgdir>
+			<imgdir name="863100105">
+				<string name="streetName" value="泰尼鲁姆"/>
+				<string name="mapName" value="隐藏深红之心6"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

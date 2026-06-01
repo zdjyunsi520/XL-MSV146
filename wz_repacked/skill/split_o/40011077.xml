@@ -1,0 +1,7 @@
+<imgdir name="40011077">
+        <string name="name" value="Irena&apos;s Wind Piercing" />
+        <string name="desc" value="Summons Irena to inflicts significant damage to multiple monsters with a single powerful blow. Skill level can be increased depending on your level." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Penetrated: #mobCount" />
+        <string name="pdesc" value="Inflict significant damage to multiple enemies with a single powerful blow. Available only in Eagle Eye stance.\nRequired Skill: #cEagle Eye Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

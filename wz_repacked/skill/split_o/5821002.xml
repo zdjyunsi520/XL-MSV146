@@ -1,0 +1,7 @@
+<imgdir name="5821002">
+        <string name="name" value="Energy Orb" />
+        <string name="desc" value="Uses a blast of powerful energy to strike a monster. If there are other monsters around the affected monster, they will also be affected by this potent ball of energy. Only available when your #cenergy is fully charged#.\nRequired Skill: #cEnergy Charge Lv. 1#" />
+        <string name="h" value=" Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Uses a blast of powerful energy to strike a monster. If there are other monsters around the affected monster, they will also be affected by this potent ball of energy. Only available when your #cenergy is fully charged#.\nRequired Skill: #cEnergy Charge Lv. 1#" />
+        <string name="ph" value=" Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

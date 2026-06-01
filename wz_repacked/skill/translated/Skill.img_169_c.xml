@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="41110007"><string name="name" value="无情之刃"/><string name="desc" value="你的攻击会留下流血伤口，持续造成HP伤害。流血效果不会叠加，且不会使目标HP降至1以下。"/><string name="h" value="状态异常概率：#prop%，每#dotInterval秒造成#dot%伤害，持续时间：#dotTime秒"/></imgdir>
+    <imgdir name="41110008"><string name="name" value="拔刀之魂"/><string name="desc" value="强化拔刀姿势并伤害附近的敌人。"/><string name="h" value="拔刀姿势：暴击率：#y%，眩晕概率：#prop%，对附近敌人的伤害：#damage%。永久效果：攻击力：+#padX。"/></imgdir>
+    <imgdir name="41110009"><string name="name" value="武人之心"/><string name="desc" value="这是曾经被认为已经失传的拔刀术秘技。暴击后有概率恢复部分HP。"/><string name="h" value="概率：#prop%，恢复HP：#x%"/></imgdir>
+    <imgdir name="41121000"><string name="name" value="雷三连斩"/><string name="desc" value="对最多4名敌人发动三次毁灭性的斩击。有概率造成额外伤害。"/><string name="h" value="消耗MP：#mpCon\n第1击-伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：2\n第2击-伤害：#x%，最大攻击敌人数：6，攻击次数：2\n第3击-伤害：#y%，最大攻击敌人数：6，攻击次数：3，额外伤害概率：#prop%，额外伤害：#z%"/></imgdir>
+    <imgdir name="41121001"><string name="name" value="神速"/><string name="desc" value="集中你的怒气与技巧，攻击单个敌人。"/><string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount。"/></imgdir>
+    <imgdir name="41121002"><string name="name" value="人斩"/><string name="desc" value="破坏力的极致。攻击多个敌人并必定暴击。可瞬间击败敌人，使用后剑豪的暴击率将在短时间内提升。"/><string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，必定暴击，暴击率提升：#prop%，持续#time秒，\n冷却时间#cooltime秒"/></imgdir>
+    <imgdir name="41121003"><string name="name" value="铁皮"/><string name="desc" value="暂时提升异常状态抗性和属性抗性。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，异常状态抗性：+#x%，属性抗性：+#y%"/></imgdir>
+    <imgdir name="41121004"><string name="name" value="晓之花"/><string name="desc" value="治愈所有异常状态。冷却时间随技能等级提升而缩短。"/><string name="h" value="消耗MP：#mpCon，冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="41121005"><string name="name" value="晓之英雄"/><string name="desc" value="提升所有队伍成员的能力值。"/><string name="h" value="消耗MP：#mpCon，所有属性：+#x%，持续时间：#time秒"/></imgdir>
+    <imgdir name="41120006"><string name="name" value="迅风步"/><string name="desc" value="剑豪的秘技。成功闪避攻击后，有概率在一定时间内减少受到的伤害。"/><string name="h" value="闪避后触发概率：#t%，伤害减少：#y%，持续时间：#time秒。永久提升回避值#prop%"/></imgdir>
+    <imgdir name="41120007"><string name="name" value="嗜血之刃"/><string name="desc" value="增强无情之刃造成的流血效果。\n前置技能：#c无情之刃10级以上#"/><string name="h" value="状态异常概率：#prop%，每#dotInterval秒造成#dot%伤害，持续时间：#dotTime秒"/></imgdir>
+    <imgdir name="41120008"><string name="name" value="劈裂斩"/><string name="desc" value="你的攻击撕裂敌人的护甲，造成更多伤害。"/><string name="h" value="无视防御：#ignoreMobpdpR%，伤害：+#damR%"/></imgdir>
+    <imgdir name="41120010"><string name="name" value="反击"/><string name="desc" value="从拔刀术宗师传承的秘技。有概率格挡敌人的攻击并予以还击。"/><string name="h" value="反击概率：#prop%，\n反击伤害：#damage% "/></imgdir>
+    <imgdir name="4100"><string name="bookName" value="剑豪"/></imgdir>
+    <imgdir name="4110"><string name="bookName" value="剑豪"/></imgdir>
+    <imgdir name="4111"><string name="bookName" value="剑豪"/></imgdir>
+    <imgdir name="4112"><string name="bookName" value="剑豪"/></imgdir>
+    <imgdir name="1120030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="力量+#strX"/></imgdir>
+    <imgdir name="1120031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="敏捷+#dexX"/></imgdir>
+    <imgdir name="1120032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="智力+#intX"/></imgdir>
+</imgdir>

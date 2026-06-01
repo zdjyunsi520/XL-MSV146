@@ -1,0 +1,5 @@
+<imgdir name="24121052">
+        <string name="name" value="Carte Rose Finale" />
+        <string name="desc" value="Tosses a bouquet of cards into the air that drop and continue to damage enemies." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Deals 100% damage to 6 enemies near the cards 2 times.\nCooldown: #cooltime sec" />
+    </imgdir>

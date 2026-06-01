@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8920002">
+		<string name="name" value="Chaos Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920003">
+		<string name="name" value="Chaos Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920004">
+		<string name="name" value="Chaos Heart Bomb"/>
+	</imgdir>
+    <imgdir name="8920005">
+		<string name="name" value="Chaos Alluring Mirror"/>
+	</imgdir>
+    <imgdir name="8920006">
+		<string name="name" value="Alluring Mirror"/>
+	</imgdir>
+    <imgdir name="7120110">
+		<string name="name" value="Blazing Imp"/>
+	</imgdir>
+    <imgdir name="7120111">
+		<string name="name" value="Pointy Imp"/>
+	</imgdir>
+    <imgdir name="7120112">
+		<string name="name" value="Elite Blazing Imp"/>
+	</imgdir>
+    <imgdir name="7120113">
+		<string name="name" value="Elite Pointy Imp"/>
+	</imgdir>
+    <imgdir name="8910000">
+		<string name="name" value="Chaos Von Bon"/>
+	</imgdir>
+    <imgdir name="8910001">
+		<string name="name" value="Chaos Disembodied Von Bon"/>
+	</imgdir>
+    <imgdir name="8900100">
+		<string name="name" value="Pierre"/>
+	</imgdir>
+    <imgdir name="8900101">
+		<string name="name" value="Red Pierre"/>
+	</imgdir>
+    <imgdir name="8900102">
+		<string name="name" value="Blue Pierre"/>
+	</imgdir>
+    <imgdir name="8910100">
+		<string name="name" value="Von Bon"/>
+	</imgdir>
+    <imgdir name="8920100">
+		<string name="name" value="Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920101">
+		<string name="name" value="Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920102">
+		<string name="name" value="Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920103">
+		<string name="name" value="Crimson Queen"/>
+	</imgdir>
+    <imgdir name="8920104">
+		<string name="name" value="Heart Bomb"/>
+	</imgdir>
+</imgdir>

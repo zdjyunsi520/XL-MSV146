@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9500359">
+		<string name="name" value="马农"/>
+	</imgdir>
+    <imgdir name="9500360">
+		<string name="name" value="格里菲"/>
+	</imgdir>
+    <imgdir name="9500361">
+		<string name="name" value="利维坦"/>
+	</imgdir>
+    <imgdir name="9500362">
+		<string name="name" value="帕普拉图斯"/>
+	</imgdir>
+    <imgdir name="9500363">
+		<string name="name" value="皮亚努斯"/>
+	</imgdir>
+    <imgdir name="9500364">
+		<string name="name" value="迷你地下城透明怪物"/>
+	</imgdir>
+    <imgdir name="9500365">
+		<string name="name" value="迷你地下城特工箱"/>
+	</imgdir>
+    <imgdir name="9500366">
+		<string name="name" value="巴纳德灰"/>
+	</imgdir>
+    <imgdir name="9500367">
+		<string name="name" value="泽塔灰"/>
+	</imgdir>
+    <imgdir name="9500368">
+		<string name="name" value="终极灰"/>
+	</imgdir>
+    <imgdir name="9500369">
+		<string name="name" value="灰首领"/>
+	</imgdir>
+    <imgdir name="9500370">
+		<string name="name" value="梅卡特昂"/>
+	</imgdir>
+    <imgdir name="9500371">
+		<string name="name" value="马泰昂"/>
+	</imgdir>
+    <imgdir name="9500372">
+		<string name="name" value="普拉顿"/>
+	</imgdir>
+    <imgdir name="9500373">
+		<string name="name" value="机器MT-09"/>
+	</imgdir>
+    <imgdir name="9500400">
+		<string name="name" value="葫芦"/>
+	</imgdir>
+    <imgdir name="9501000">
+		<string name="name" value="封印"/>
+	</imgdir>
+    <imgdir name="9501001">
+		<string name="name" value="黑暗"/>
+	</imgdir>
+    <imgdir name="9501002">
+		<string name="name" value="虚弱"/>
+	</imgdir>
+    <imgdir name="9501003">
+		<string name="name" value="击倒"/>
+	</imgdir>
+</imgdir>

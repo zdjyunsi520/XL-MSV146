@@ -1,0 +1,94 @@
+<imgdir name="Npc.img">
+    <imgdir name="2060009">
+		<string name="name" value="Dolphin"/>
+		<string name="n0" value="Welcome to the Aquarium!"/>
+	</imgdir>
+    <imgdir name="2060102">
+		<string name="name" value="Door to the Warped Dimension"/>
+	</imgdir>
+    <imgdir name="2071008">
+		<string name="name" value="Haenim"/>
+		<string name="s0" value="Just thinking about last night creeps me out..."/>
+		<string name="s1" value="Is there anyone out there willing to help out my sister and I?"/>
+		<string name="d0" value="My name is Haenim. I live with my mom and my little sister."/>
+		<string name="d1" value="I better get ready before the bad tiger shows up. I'm sure as long as I keep myself on my toes, I'll be able to defeat the big bad tiger."/>
+	</imgdir>
+    <imgdir name="2080000">
+		<string name="name" value="Mos"/>
+		<string name="func" value="Weapon Technician"/>
+		<string name="s0" value="I'm a master at upgrading weapons. Let me upgrade yours, too!"/>
+		<string name="s1" value="In order to create a powerful weapon, I'll need various materials to work with."/>
+	</imgdir>
+    <imgdir name="2081005">
+		<string name="name" value="Keroben"/>
+		<string name="func" value="Gatekeeper"/>
+		<string name="s0" value="This is off limits to everyone, so shoo! Grrr..."/>
+		<string name="s1" value="Security, security, security! Grrr..."/>
+	</imgdir>
+    <imgdir name="2081011">
+		<string name="name" value="Nine Spirit's Baby Dragon"/>
+		<string name="d0" value="Kyuuuuu?"/>
+		<string name="d1" value="Kyuuu!"/>
+	</imgdir>
+    <imgdir name="2081014">
+		<string name="name" value="Dunamis"/>
+	</imgdir>
+    <imgdir name="2082001">
+		<string name="name" value="Tommie"/>
+		<string name="func" value="Crewmember"/>
+		<string name="s0" value="If you're heading to Orbis, then follow me!"/>
+		<string name="s1" value="This ship's heading to Orbis, and it will take off fairly soon."/>
+	</imgdir>
+    <imgdir name="2082002">
+		<string name="name" value="Harry"/>
+		<string name="func" value="Crewmember"/>
+		<string name="s0" value="Eh? Are you sure you're heading to Orbis?"/>
+		<string name="s1" value="If you want to leave this ship, then let me know. No refund, though."/>
+	</imgdir>
+    <imgdir name="2082003">
+		<string name="name" value="Corba"/>
+		<string name="func" value="Retired Dragon Trainer"/>
+		<string name="s0" value="What? I can't hear you. Speak up."/>
+		<string name="s1" value="Am I the only Halflinger left who knows how to transform into a dragon?"/>
+		<string name="d0" value="Aren't you curious to find out what's past that sky? The humans and the Elves may have forgotten them, but not us Halflingers. We remember the emerald-colored aurora surrounding the temple. The #bTemple of Time#k built between the moment and the eternity."/>
+		<string name="d1" value="Aren't you curious to find out what's past that sky? The humans and the Elves may have forgotten them, but not us Halflingers. We remember the emerald-colored aurora surrounding the temple. The #bTemple of Time#k built between the moment and the eternity."/>
+	</imgdir>
+    <imgdir name="2083000">
+		<string name="name" value="Encrypted Slate of the Squad"/>
+	</imgdir>
+    <imgdir name="2083001">
+		<string name="name" value="Horntail's Schedule"/>
+	</imgdir>
+    <imgdir name="2083002">
+		<string name="name" value="Crystal of Roots"/>
+	</imgdir>
+    <imgdir name="2083003">
+		<string name="name" value="Stump at the Room of Maze"/>
+	</imgdir>
+    <imgdir name="2083004">
+		<string name="name" value="Mark of the Squad"/>
+	</imgdir>
+    <imgdir name="2083005">
+		<string name="name" value="Fountain of Life"/>
+	</imgdir>
+    <imgdir name="2084000">
+		<string name="name" value="Gold Compass"/>
+		<string name="d0" value="Made by Gold Richie"/>
+		<string name="d1" value="Made by Gold Richie"/>
+		<string name="n0" value="Made by Gold Richie"/>
+		<string name="n1" value="Made by Gold Richie"/>
+	</imgdir>
+    <imgdir name="2084001">
+		<string name="name" value="Gold Richie"/>
+		<string name="d0" value="Hello, my name is Gold Richie and I am an internationally-renowned businessman."/>
+		<string name="n0" value="Scrooges will never become rich."/>
+		<string name="n1" value="It's all about reading the market."/>
+		<string name="d1" value="Hello there. The wind is heading north, which means it's a great time to get on the boat and do some business."/>
+	</imgdir>
+    <imgdir name="2084009">
+		<string name="name" value="OX Bird"/>
+	</imgdir>
+    <imgdir name="2084010">
+		<string name="name" value="Gold Key Box"/>
+	</imgdir>
+</imgdir>

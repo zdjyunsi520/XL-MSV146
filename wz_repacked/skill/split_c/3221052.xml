@@ -1,0 +1,5 @@
+<imgdir name="3221052">
+        <string name="name" value="高速射击" />
+        <string name="desc" value="发射一发射穿范围内所有敌人的集中弹。" />
+        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%\n冷却时间：#cooltime秒" />
+    </imgdir>

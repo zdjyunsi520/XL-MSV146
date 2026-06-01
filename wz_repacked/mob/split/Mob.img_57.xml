@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300172">
+		<string name="name" value="Poisoned Lord Tree"/>
+	</imgdir>
+    <imgdir name="9300173">
+		<string name="name" value="Poisoned Stone Bug"/>
+	</imgdir>
+    <imgdir name="9300174">
+		<string name="name" value="Poison Flower"/>
+	</imgdir>
+    <imgdir name="9300175">
+		<string name="name" value="Poisoned Spright"/>
+	</imgdir>
+    <imgdir name="9300176">
+		<string name="name" value="Poison Golem"/>
+	</imgdir>
+    <imgdir name="9300177">
+		<string name="name" value="Poison Golem Level 2"/>
+	</imgdir>
+    <imgdir name="9300178">
+		<string name="name" value="Poison Golem Level 3"/>
+	</imgdir>
+    <imgdir name="9300179">
+		<string name="name" value="Spright"/>
+	</imgdir>
+    <imgdir name="9300180">
+		<string name="name" value="Poison Golem"/>
+	</imgdir>
+    <imgdir name="9300181">
+		<string name="name" value="Charged Poison Golem"/>
+	</imgdir>
+    <imgdir name="9300182">
+		<string name="name" value="Super-Charged Poison Golem"/>
+	</imgdir>
+    <imgdir name="9300183">
+		<string name="name" value="Deeply Poisoned Stone Bug"/>
+	</imgdir>
+    <imgdir name="9300184">
+		<string name="name" value="Mano"/>
+	</imgdir>
+    <imgdir name="9300185">
+		<string name="name" value="Stumpy"/>
+	</imgdir>
+    <imgdir name="9300186">
+		<string name="name" value="Deo"/>
+	</imgdir>
+    <imgdir name="9300187">
+		<string name="name" value="King Slime"/>
+	</imgdir>
+    <imgdir name="9300188">
+		<string name="name" value="Giant Centipede"/>
+	</imgdir>
+    <imgdir name="9300189">
+		<string name="name" value="Faust"/>
+	</imgdir>
+    <imgdir name="9300190">
+		<string name="name" value="King Clang"/>
+	</imgdir>
+    <imgdir name="9300191">
+		<string name="name" value="Mushmom"/>
+	</imgdir>
+</imgdir>

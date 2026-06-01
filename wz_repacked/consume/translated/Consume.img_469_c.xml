@@ -1,0 +1,84 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431810">
+		<string name="name" value="异瞳热日礼盒7/20"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431811">
+		<string name="name" value="异瞳热日礼盒7/21"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431812">
+		<string name="name" value="恶魔复仇者热日礼盒7/27"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431813">
+		<string name="name" value="恶魔复仇者热日礼盒7/28"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431814">
+		<string name="name" value="恶魔复仇者热日礼盒8/3"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431815">
+		<string name="name" value="恶魔复仇者热日礼盒8/4"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431816">
+		<string name="name" value="恶魔复仇者热日礼盒8/10"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431817">
+		<string name="name" value="恶魔复仇者热日礼盒8/11"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431818">
+		<string name="name" value="恶魔复仇者热日礼盒8/17"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431819">
+		<string name="name" value="恶魔复仇者热日礼盒8/18"/>
+		<string name="desc" value="卡珊德拉为感谢你今天登录准备的盒子。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431822">
+		<string name="name" value="回归礼盒"/>
+		<string name="desc" value="给回归玩家的礼盒。包含：能力点和技能点重置卷轴（30天）、超级传送石（30天）、安全符咒（30天）、工匠万花筒优惠券、怪物生活宝石X7优惠券、宠物装备和一只宠物。"/>
+	</imgdir>
+    <imgdir name="2612014">
+		<string name="name" value="顶级双手武器魔法攻击卷轴20%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力并增加所有属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时100%摧毁物品\r\n魔法攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2612013">
+		<string name="name" value="释放双手武器魔法攻击卷轴50%"/>
+		<string name="desc" value="提升双手武器的魔法攻击力。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+5\r\n智力：+5\r\n敏捷：+5\r\n运气：+5\r\n魔法攻击力+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2431839">
+		<string name="name" value="加拿大日礼包"/>
+		<string name="desc" value="纪念加拿大日的礼盒。"/>
+	</imgdir>
+    <imgdir name="2431840">
+		<string name="name" value="美国独立日礼包"/>
+		<string name="desc" value="纪念美国独立日的礼盒。"/>
+	</imgdir>
+    <imgdir name="2431841">
+		<string name="name" value="秘鲁独立日礼包"/>
+		<string name="desc" value="纪念秘鲁独立日的礼盒。"/>
+	</imgdir>
+    <imgdir name="2431533">
+		<string name="name" value="Tot礼盒"/>
+		<string name="desc" value="双击获得知识椅子和万事通勋章。"/>
+	</imgdir>
+    <imgdir name="2431958">
+		<string name="name" value="超级传送石券"/>
+		<string name="desc" value="双击获得#c超级传送石（7天）#。"/>
+	</imgdir>
+    <imgdir name="2431997">
+		<string name="name" value="红龙冒险包"/>
+		<string name="desc" value="为新用户准备的盒子。\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2432035">
+		<string name="desc" value="纪念黎凡特日的礼盒。"/>
+		<string name="name" value="黎凡特日礼包"/>
+	</imgdir>
+</imgdir>

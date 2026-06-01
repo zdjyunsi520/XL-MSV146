@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001809">
+			<string name="name" value="凹陷的钢板"/>
+			<string name="desc" value="这块钢板已经承受了无数次撞击"/>
+		</imgdir>
+    <imgdir name="4002000">
+			<string name="name" value="蜗牛印章"/>
+			<string name="desc" value="画有蜗牛的印章"/>
+		</imgdir>
+    <imgdir name="4002001">
+			<string name="name" value="蓝色蜗牛印章"/>
+			<string name="desc" value="画有蓝色蜗牛的印章"/>
+		</imgdir>
+    <imgdir name="4002002">
+			<string name="name" value="树桩印章"/>
+			<string name="desc" value="画有树桩的印章"/>
+		</imgdir>
+    <imgdir name="4002003">
+			<string name="name" value="史莱姆印章"/>
+			<string name="desc" value="画有史莱姆的印章"/>
+		</imgdir>
+    <imgdir name="4003000">
+			<string name="name" value="螺丝"/>
+			<string name="desc" value="用钢制成的小螺丝。用作制作武器或盔甲的材料"/>
+		</imgdir>
+    <imgdir name="4003001">
+			<string name="name" value="加工木材"/>
+			<string name="desc" value="用树枝加工而成的木材。用作制作武器或盔甲的材料"/>
+		</imgdir>
+    <imgdir name="4003002">
+			<string name="name" value="冰块"/>
+			<string name="desc" value="通过魔法力量冻结的水。不容易融化"/>
+		</imgdir>
+    <imgdir name="4003003">
+			<string name="name" value="精灵翅膀"/>
+			<string name="desc" value="精灵翅膀的一部分。它柔软易碎，需要小心处理"/>
+		</imgdir>
+    <imgdir name="4003004">
+			<string name="name" value="硬羽毛"/>
+			<string name="desc" value="坚硬粗糙的羽毛。用于制作箭矢"/>
+		</imgdir>
+    <imgdir name="4003005">
+			<string name="name" value="软羽毛"/>
+			<string name="desc" value="柔软轻盈的羽毛。用于制作箭矢"/>
+		</imgdir>
+    <imgdir name="4004000">
+			<string name="name" value="力量水晶矿石"/>
+			<string name="desc" value="散发力量的水晶矿石。可以提炼获得稀有魔法粉（红色）"/>
+		</imgdir>
+    <imgdir name="4004001">
+			<string name="name" value="智慧水晶矿石"/>
+			<string name="desc" value="散发智慧的水晶矿石。可以提炼获得稀有魔法粉（紫色）"/>
+		</imgdir>
+    <imgdir name="4004002">
+			<string name="name" value="敏捷水晶矿石"/>
+			<string name="desc" value="散发敏捷的水晶矿石。可以提炼获得稀有魔法粉（绿色）"/>
+		</imgdir>
+    <imgdir name="4004003">
+			<string name="name" value="幸运水晶矿石"/>
+			<string name="desc" value="散发幸运的水晶矿石。可以提炼获得稀有魔法粉（紫色）"/>
+		</imgdir>
+    <imgdir name="4004004">
+			<string name="name" value="暗黑水晶矿石"/>
+			<string name="desc" value="拥有黑暗力量的水晶矿石。其中沉睡着惊人的力量"/>
+		</imgdir>
+    <imgdir name="4005000">
+			<string name="name" value="力量水晶"/>
+			<string name="desc" value="蕴含巨大力量的神秘水晶。用于8级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4005001">
+			<string name="name" value="智慧水晶"/>
+			<string name="desc" value="蕴含巨大智慧的神秘水晶。用于10级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4005002">
+			<string name="name" value="敏捷水晶"/>
+			<string name="desc" value="蕴含巨大敏捷的神秘水晶。用于5级装备、饰品和炼金制作"/>
+		</imgdir>
+    <imgdir name="4005003">
+			<string name="name" value="幸运水晶"/>
+			<string name="desc" value="蕴含巨大幸运的神秘水晶。用于10级装备、饰品和炼金制作"/>
+		</imgdir>
+</imgdir>

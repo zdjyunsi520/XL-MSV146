@@ -1,0 +1,5 @@
+<imgdir name="11121054">
+        <string name="name" value="Soul Forge" />
+        <string name="desc" value="Conjures a single blade of sharpened soul force." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: #indiePad, Accuracy: #x%, Max Damage: +#indieMaxDamageOver. Does not stack with Hand of Light." />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040069">
+		<string name="name" value="Unclaimed Scroll for Helmet for DEF 10%"/>
+		<string name="desc" value="Scroll that someone lost. Improves Weapon Defense on helmets.\nSuccess Rate: 10%, Weapon DEF +5, Magic DEF +3, Accuracy +1"/>
+	</imgdir>
+    <imgdir name="2040070">
+		<string name="name" value="Unclaimed Scroll for Helmet for DEF 30%"/>
+		<string name="desc" value="Scroll that someone lost. Improves Weapon Defense on helmets.\nSuccess Rate: 30%, Weapon DEF +3, Magic DEF +1, Accuracy +1"/>
+	</imgdir>
+    <imgdir name="2040071">
+		<string name="name" value="Unclaimed Scroll for Helmet for DEF 60%"/>
+		<string name="desc" value="Scroll that someone lost. Improves Weapon Defense on helmets.\nSuccess Rate: 60%, Weapon DEF +2, Magic DEF +1"/>
+	</imgdir>
+    <imgdir name="2040773">
+		<string name="name" value="Discarded Scroll for Shoes for Speed 10%"/>
+		<string name="desc" value="A scroll someone tossed out. Improves Movement Speed on shoes.\nSuccess Rate 10%, Speed +5"/>
+	</imgdir>
+    <imgdir name="2040774">
+		<string name="name" value="Discarded Scroll for Shoes for Speed 15%"/>
+		<string name="desc" value="A scroll someone tossed out. Improves Movement Speed on shoes.\nSuccess Rate 15%, Speed +4"/>
+	</imgdir>
+    <imgdir name="2040858">
+		<string name="name" value="Warm Scroll for Gloves for DEX 10%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Dexterity on gloves.\nSuccess Rate: 10%, Accuracy +5, DEX +3, Avoidability +1"/>
+	</imgdir>
+    <imgdir name="2040859">
+		<string name="name" value="Warm Scroll for Gloves for DEX 30%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Dexterity on gloves.\nSuccess Rate: 30%, Accuracy +3, DEX +1, Avoidability +1"/>
+	</imgdir>
+    <imgdir name="2040860">
+		<string name="name" value="Warm Scroll for Gloves for DEX 60%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Dexterity on gloves.\nSuccess Rate: 60%, Accuracy +2, DEX +1"/>
+	</imgdir>
+    <imgdir name="2040561">
+		<string name="name" value="Warmhearted Scroll for Overall Armor for STR 10%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Strength on body armor.\nSuccess Rate: 10%, STR +5, Weapon DEF +3, MaxHP +5"/>
+	</imgdir>
+    <imgdir name="2040562">
+		<string name="name" value="Warmhearted Scroll for Overall Armor 30%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Strength on body armor.\nSuccess Rate: 30%, STR +3, Weapon DEF +2, MaxHP +2"/>
+	</imgdir>
+    <imgdir name="2040563">
+		<string name="name" value="Warmhearted Scroll for Overall Armor 60%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves Strength on body armor.\nSuccess Rate: 60%, STR +2, Weapon DEF +1"/>
+	</imgdir>
+    <imgdir name="2040445">
+		<string name="name" value="Discarded Scroll for Topwear for INT 10%"/>
+		<string name="desc" value="A scroll someone tossed out. Improves Intelligence on topwear.\nSuccess Rate: 10%, Magic ATT +5, INT +3, Magic DEF +1"/>
+	</imgdir>
+    <imgdir name="2040446">
+		<string name="name" value="Discarded Scroll for Topwear for INT 30%"/>
+		<string name="desc" value="A scroll someone tossed out. Improves Intelligence on topwear.\nSuccess Rate: 30%, Magic ATT +3, INT +2, Magic DEF +1"/>
+	</imgdir>
+    <imgdir name="2040447">
+		<string name="name" value="Discarded Scroll for Topwear for INT 60%"/>
+		<string name="desc" value="A scroll someone tossed out. Improves Intelligence on topwear.\nSuccess Rate: 60%, Magic ATT +2, INT +1"/>
+	</imgdir>
+    <imgdir name="2040645">
+		<string name="name" value="Warmhearted Scroll for Bottomwear for HP 10%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves MaxHP on pants.\nSuccess Rate: 10%, MaxHP +30"/>
+	</imgdir>
+    <imgdir name="2040646">
+		<string name="name" value="Warmhearted Scroll for Bottomwear for HP 30%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves MaxHP on pants.\nSuccess Rate: 30%, MaxHP +20"/>
+	</imgdir>
+    <imgdir name="2040647">
+		<string name="name" value="Warmhearted Scroll for Bottomwear for HP 60%"/>
+		<string name="desc" value="This scroll fills you with warm, fuzzy feelings. Improves MaxHP on pants.\nSuccess Rate: 60%, MaxHP +15"/>
+	</imgdir>
+    <imgdir name="2041148">
+		<string name="name" value="Unclaimed Scroll for Ring for ATT 10%"/>
+		<string name="desc" value="Scroll found on the streets. Improves Attack on rings.\nSuccess Rate: 10%, Weapon ATT +5, STR +3, Weapon DEF +1"/>
+	</imgdir>
+    <imgdir name="2041149">
+		<string name="name" value="Unclaimed Scroll for Ring for ATT 30%"/>
+		<string name="desc" value="Scroll found on the streets. Improves Attack on rings.\nSuccess Rate: 30%, Weapon ATT +3, STR +2"/>
+	</imgdir>
+    <imgdir name="2041150">
+		<string name="name" value="Unclaimed Scroll for Ring for ATT 60%"/>
+		<string name="desc" value="Scroll found on the streets. Improves Attack on rings.\nSuccess Rate: 60%, Weapon ATT +2, STR +1"/>
+	</imgdir>
+</imgdir>

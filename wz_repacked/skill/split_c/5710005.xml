@@ -1,0 +1,7 @@
+<imgdir name="5710005">
+        <string name="name" value="锐利之刃" />
+        <string name="desc" value="从核心借取力量，提升暴击率并无视部分敌人防御。" />
+        <string name="h" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="从核心借取力量，提升暴击率并无视部分敌人防御。" />
+        <string name="ph" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

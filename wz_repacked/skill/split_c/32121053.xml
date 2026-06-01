@@ -1,0 +1,5 @@
+<imgdir name="32121053">
+        <string name="name" value="为了自由" />
+        <string name="desc" value="凝聚反抗军的意志，提升攻击力。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。仅适用于队伍中的反抗军职业" />
+    </imgdir>

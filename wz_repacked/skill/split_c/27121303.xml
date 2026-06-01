@@ -1,0 +1,5 @@
+<imgdir name="27121303">
+        <string name="name" value="终结者" />
+        <string name="desc" value="[平衡状态]\n用巨刃攻击敌人，瞬间消灭他们！对不能被即死的怪物造成巨大伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Max Instant KOs: #mobCount. For enemies that cannot be Instant KO&apos;d, Damage: #damage%, Number of Attacks: #attackCount. Every attack will be critical.\n[Cooldown: #cooltime sec]" />
+    </imgdir>

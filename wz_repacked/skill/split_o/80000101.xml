@@ -1,0 +1,5 @@
+<imgdir name="80000101">
+        <string name="name" value="Lv. 1 Root Awakening" />
+        <string name="desc" value="Harness the power of the Root Abyss to boost Weapon Attack and Magic Attack by 3." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT: +#madX" />
+    </imgdir>

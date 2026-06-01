@@ -1,0 +1,7 @@
+<imgdir name="4340013">
+        <string name="name" value="Katara Expert" />
+        <string name="desc" value="Increases weapon mastery, Weapon ATT, Accuracy, and Avoidability of daggers and kataras.\nRequired skill: #cKatara Mastery Lv. 10#\n#cMastery Book required to unlock Lv. 11#" />
+        <string name="h" value="Dagger and Katara Mastery: +#mastery%, Weapon ATT: +#x, Accuracy: +#accR%, Avoidability: +#evaR%" />
+        <string name="pdesc" value="Increases weapon mastery, Weapon ATT, Accuracy, and Avoidability of daggers and kataras.\nRequired skill: #cKatara Mastery Lv. 10#\n#cMastery Book required to unlock Lv. 11#" />
+        <string name="ph" value="Dagger and Katara Mastery: +#mastery%, Weapon ATT: +#x, Accuracy: +#accR%, Avoidability: +#evaR%" />
+    </imgdir>

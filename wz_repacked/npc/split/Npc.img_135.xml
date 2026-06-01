@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000083">
+		<string name="name" value="Inkie"/>
+		<string name="func" value="8th Anniversary Premium Shop"/>
+		<string name="n0" value="Hello! I'm Inkie, Inkwell's sister!"/>
+		<string name="n1" value="I'm helping out during the 8th Year Anniversary."/>
+	</imgdir>
+    <imgdir name="9000084">
+		<string name="name" value="Lost Crewman"/>
+		<string name="s0" value="So um... Why...um..."/>
+		<string name="s1" value="So..  What I'm trying to say is... Um... Why do I..."/>
+		<string name="d0" value="Wha- what am I go-going to do now?"/>
+		<string name="d1" value="Pl- Please... Hel- Help me..."/>
+	</imgdir>
+    <imgdir name="9250120">
+		<string name="name" value="Public Phone"/>
+		<string name="n0" value="*Ring ring!*"/>
+		<string name="n1" value="*Riiiiing!*"/>
+		<string name="d0" value="(You pick up the phone.)"/>
+		<string name="d1" value="(The line goes dead.)"/>
+		<imgdir name="quest">
+			<string name="51177" value="Hello. You've reached Security. Please refrain from using wired communications."/>
+		</imgdir>
+    <imgdir name="9250121">
+		<string name="name" value="Dirty Bum"/>
+		<string name="n0" value="Just keep walking, kid. Bums deserve respect, too."/>
+		<string name="n1" value="At least give me a few cents."/>
+		<string name="d0" value="I'll let it go this time, but next time, pretend you don't know me!"/>
+		<string name="d1" value="Credit cards not accepted. Cash only!"/>
+		<imgdir name="quest">
+			<string name="51178" value="Huh? Who are you again? Got a few mesos? I gotta catch the bus."/>
+		</imgdir>
+    <imgdir name="9250125">
+		<string name="name" value="Doctor Bing"/>
+		<string name="n0" value="[ Δt0 ]"/>
+		<string name="n1" value=" root{ 1 - ( v/c )^2}"/>
+		<string name="d0" value="Huh? Don't disturb me unless you're here to help."/>
+		<string name="d1" value="There's still much to do."/>
+		<imgdir name="quest">
+			<string name="51179" value="Give it your all today, okay?"/>
+			<string name="51200" value="Finally! It's complete!"/>
+			<string name="51206" value="Now we stand a chance against those aliens!"/>
+		</imgdir>
+    <imgdir name="9250126">
+		<string name="name" value="Randall"/>
+		<string name="n0" value="I need more volunteers!"/>
+		<string name="n1" value="You look so weak..."/>
+		<string name="d0" value="Ahhh! I want to fight already!"/>
+		<string name="d1" value="You! Do you want to volunteer?"/>
+		<imgdir name="quest">
+			<string name="51180" value="Good job! I'll see you around."/>
+		</imgdir>
+    <imgdir name="9250130">
+		<string name="name" value="Rozz"/>
+		<string name="n0" value="Shhh..."/>
+		<string name="n1" value="I'm not hiding..."/>
+		<string name="d0" value="(...)"/>
+		<string name="d1" value="(...)"/>
+		<imgdir name="quest">
+			<string name="51203" value="I'm not scared. (Yes I am!)"/>
+			<string name="51205" value="I'm not scared. (Yes I am!)"/>
+		</imgdir>
+    <imgdir name="9250131">
+		<string name="name" value="Lily"/>
+		<string name="n0" value="Whew..."/>
+		<string name="n1" value="This is so hard."/>
+		<string name="d0" value="*Sigh.*"/>
+		<string name="d1" value="*Sigh.*"/>
+		<imgdir name="quest">
+			<string name="51204" value="Thanks! Add me to your buddy list."/>
+		</imgdir>
+    <imgdir name="9250132">
+		<string name="name" value="Crystanol"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="I am the Crystanol."/>
+		<string name="d0" value="(The Crystanol is glowing brightly.)"/>
+	</imgdir>
+    <imgdir name="9250133">
+		<string name="name" value="Head Researcher Wynn"/>
+		<string name="n1" value="..."/>
+		<string name="n0" value="If the aliens aren't defeated..."/>
+		<string name="d0" value="If the aliens aren't defeated..."/>
+		<string name="d1" value="You're not resting, are you?"/>
+	</imgdir>
+    <imgdir name="9250135">
+		<string name="name" value="Senior Researcher Jett"/>
+		<string name="d0" value="I'm in charge of suit upgrades."/>
+		<string name="n0" value="Come here if you have OSSS Medals!"/>
+		<string name="n1" value="Our research never ends."/>
+	</imgdir>
+    <imgdir name="9250140">
+		<string name="name" value="Scientist Who Could Be Abducted"/>
+		<string name="n0" value="I'm in the middle of my research."/>
+		<string name="n1" value="I'm not scared of the aliens!"/>
+	</imgdir>
+    <imgdir name="9250141">
+		<string name="name" value="Scientist Who Could Be Abducted"/>
+		<string name="n0" value="I'm in the middle of my research."/>
+		<string name="n1" value="Who are you?"/>
+	</imgdir>
+    <imgdir name="9250142">
+		<string name="name" value="Scientist Who Could Be Abducted"/>
+		<string name="n0" value="I'm in the middle of my research."/>
+		<string name="n1" value="I'm scared of the aliens... Just a little bit."/>
+	</imgdir>
+    <imgdir name="9250139">
+		<string name="name" value="Crystanol Synthesizer"/>
+		<string name="n0" value="Synthesizing Crystanol!"/>
+		<string name="n1" value="Synthesis complete."/>
+	</imgdir>
+    <imgdir name="9250144">
+		<string name="name" value="Time Machine"/>
+		<string name="d0" value="Time Machine operational."/>
+		<string name="d1" value="Time Machine operational."/>
+	</imgdir>
+    <imgdir name="9250152">
+		<string name="name" value="OS3A Machine"/>
+		<string name="n0" value="Awaiting passenger."/>
+		<string name="n1" value="Full power!"/>
+	</imgdir>
+    <imgdir name="9110102">
+		<string name="name" value="Ashirazu"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="I hope this place is safe."/>
+		<string name="n1" value="Do you need any medicine?"/>
+	</imgdir>
+    <imgdir name="9110103">
+		<string name="name" value="Akai"/>
+		<string name="n0" value="It's a nice day today. I hope I don't have any troublemakers."/>
+		<string name="n1" value="Where's that old man?!"/>
+		<string name="d0" value="My name is Akai. I am Hamadaya's only daughter."/>
+		<string name="d1" value="I'll get dad back to his old self, one bruise at a time."/>
+	</imgdir>
+    <imgdir name="9110104">
+		<string name="name" value="Hyottoko"/>
+		<string name="n0" value="Hiiiiiya! Heeeya! I'm Hyottoko!"/>
+		<string name="n1" value="Whoa! Whoa! Danger alert!"/>
+		<string name="d0" value="Flee for your lives! It's dangerous here!"/>
+		<string name="d1" value="Flee for your lives! It's dangerous here!"/>
+	</imgdir>
+</imgdir>

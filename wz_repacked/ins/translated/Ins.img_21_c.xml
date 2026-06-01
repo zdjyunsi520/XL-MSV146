@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3603402">
+		<string name="name" value="草药掉落 - 迷迭香"/>
+		<string name="desc" value="添加随机的迷迭香种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603403">
+		<string name="name" value="草药掉落 - 橘子"/>
+		<string name="desc" value="添加随机的橘子种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603404">
+		<string name="name" value="草药掉落 - 柠檬香膏"/>
+		<string name="desc" value="添加随机的柠檬香膏种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603405">
+		<string name="name" value="草药掉落 - 薄荷"/>
+		<string name="desc" value="添加随机的薄荷花。"/>
+	</imgdir>
+    <imgdir name="3603406">
+		<string name="name" value="草药掉落 - 茉莉"/>
+		<string name="desc" value="添加随机的茉莉种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603407">
+		<string name="name" value="草药掉落 - 茶树"/>
+		<string name="desc" value="添加随机的茶树种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603408">
+		<string name="name" value="草药掉落 - 洋甘菊"/>
+		<string name="desc" value="添加随机的洋甘菊种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603409">
+		<string name="name" value="草药掉落 - 广藿香"/>
+		<string name="desc" value="添加随机的广藿香种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603410">
+		<string name="name" value="草药掉落 - 杜松子"/>
+		<string name="desc" value="添加随机的杜松子种子和花朵。"/>
+	</imgdir>
+    <imgdir name="3603411">
+		<string name="name" value="草药掉落 - 海索草"/>
+		<string name="desc" value="添加随机的海索草花朵。"/>
+	</imgdir>
+    <imgdir name="3603500">
+		<string name="name" value="矿石掉落 - 青铜矿石"/>
+		<string name="desc" value="添加随机的青铜矿石。"/>
+	</imgdir>
+    <imgdir name="3603501">
+		<string name="name" value="矿石掉落 - 钢铁矿石"/>
+		<string name="desc" value="添加随机的钢铁矿石。"/>
+	</imgdir>
+    <imgdir name="3603502">
+		<string name="name" value="矿石掉落 - 秘银矿石"/>
+		<string name="desc" value="添加随机的秘银矿石。"/>
+	</imgdir>
+    <imgdir name="3603503">
+		<string name="name" value="矿石掉落 - 精金矿石"/>
+		<string name="desc" value="添加随机的精金矿石。"/>
+	</imgdir>
+    <imgdir name="3603504">
+		<string name="name" value="矿石掉落 - 银矿石"/>
+		<string name="desc" value="添加随机的银矿石。"/>
+	</imgdir>
+    <imgdir name="3603505">
+		<string name="name" value="矿石掉落 - 奥里哈康矿石"/>
+		<string name="desc" value="添加随机的奥里哈康矿石。"/>
+	</imgdir>
+    <imgdir name="3603506">
+		<string name="name" value="矿石掉落 - 金矿石"/>
+		<string name="desc" value="添加随机的金矿石。"/>
+	</imgdir>
+    <imgdir name="3603507">
+		<string name="name" value="矿石掉落 - 锂矿石"/>
+		<string name="desc" value="添加随机的锂矿石。"/>
+	</imgdir>
+    <imgdir name="3603508">
+		<string name="name" value="矿石掉落 - 石榴石矿石"/>
+		<string name="desc" value="添加随机的石榴石矿石。"/>
+	</imgdir>
+    <imgdir name="3603509">
+		<string name="name" value="矿石掉落 - 紫水晶矿石"/>
+		<string name="desc" value="添加随机的紫水晶矿石。"/>
+	</imgdir>
+</imgdir>

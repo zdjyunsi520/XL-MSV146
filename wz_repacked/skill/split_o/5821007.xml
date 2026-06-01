@@ -1,0 +1,7 @@
+<imgdir name="5821007">
+        <string name="name" value="Barrage" />
+        <string name="desc" value="Attacks a monster nearby 6 times in quick succession. The targeted monster is stunned until the attack is complete." />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+        <string name="pdesc" value="Rapidly attacks an enemy. The targeted enemy is slowed until the attack is complete, but the skill cannot be used again immediately afterward." />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+    </imgdir>

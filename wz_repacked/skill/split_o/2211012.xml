@@ -1,0 +1,5 @@
+<imgdir name="2211012">
+        <string name="name" value="Elemental Adaptation (Ice, Lightning)" />
+        <string name="desc" value="Forms a barrier of ice and lightning. If you get attacked by critical Abnormal Status, the barrier immediately activates and blocks all Abnormal Statuses for a short time. Also increases all elemental and abnormal status resistances permanently." />
+        <string name="h" value="MP Cost: #mpCon, upon defending critical Abnormal Status attack, for #time sec, activates a barrier that blocks all Abnormal Status effects and apply #cooltime sec Cooldown.\n[Passive Effect: Increases All Elemental Resistances and Abnormal Status Resistance by #asrR%]" />
+    </imgdir>

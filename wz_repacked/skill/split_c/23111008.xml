@@ -1,0 +1,8 @@
+<imgdir name="23111008">
+        <string name="name" value="元素骑士" />
+        <string name="desc" value="随机召唤冰精灵、火精灵或暗影精灵来协助你战斗。\n冰精灵：有概率冰冻敌人。\n火精灵：对敌人造成持续的火焰伤害。\n暗影精灵：造成更高的伤害。" />
+        <string name="h" value="MP消耗：#mpCon，随机召唤1个精灵，持续#time秒。\n冰精灵 - 伤害：#damage%，冰冻概率：#prop%，冰冻持续时间：#subTime秒\n火精灵 - 持续伤害：#v%概率每#x秒造成#y%伤害，持续#w秒\n暗影精灵：伤害：#z%\n冷却时间：#cooltime秒" />
+        <string name="pdesc" value="随机召唤冰精灵、火精灵或暗影精灵来协助你战斗。\n冰精灵：有概率冰冻敌人。\n火精灵：对敌人造成持续的火焰伤害。\n暗影精灵：造成更高的伤害。" />
+        <string name="ph" value="MP消耗：#mpCon，随机召唤1个精灵，持续#time秒。\n冰精灵 - 伤害：#damage%，冰冻概率：#prop%，冰冻持续时间：#subTime秒\n火精灵 - 持续伤害：#v%概率每#x秒造成#y%伤害，持续#w秒\n暗影精灵：伤害：#z%\n冷却时间：#cooltime秒" />
+        <string name="hch" value="MP消耗：#mpCon，随机召唤1个精灵，持续#time秒。\n冰精灵 - 伤害：#damage%，冰冻概率：#hcProp%，冰冻持续时间：#hcSubTime秒\n火精灵 - 持续伤害：#v%概率每#x秒造成#y%伤害，持续#w秒\n暗影精灵：伤害：#z%\n冷却时间：#cooltime秒" />
+    </imgdir>

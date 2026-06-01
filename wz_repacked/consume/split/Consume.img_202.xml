@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290427">
+		<string name="name" value="[Mastery Book] Typhoon Crush 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cTyphoon Crush# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290428">
+		<string name="name" value="[Mastery Book] Nautilus Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattleship Nautilus# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290429">
+		<string name="name" value="[Mastery Book] Nautilus Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattleship Nautilus# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290430">
+		<string name="name" value="[Mastery Book] Buccaneer Blast 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBuccaneer Blast# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290431">
+		<string name="name" value="[Mastery Book] Buccaneer Blast 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBuccaneer Blast# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290432">
+		<string name="name" value="[Mastery Book] Crossbones 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cCrossbones# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290433">
+		<string name="name" value="[Mastery Book] Crossbones 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cCrossbones# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290434">
+		<string name="name" value="[Mastery Book] Octopunch 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cOctopunch# to 20.\nJob: Buccaneer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290435">
+		<string name="name" value="[Mastery Book] Octopunch 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cOctopunch# to 30.\nJob: Buccaneer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290436">
+		<string name="name" value="[Mastery Book] Majestic Presence 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMajestic Presence# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290437">
+		<string name="name" value="[Mastery Book] Majestic Presence 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMajestic Presence# to 30.\nJob: Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290438">
+		<string name="name" value="[Mastery Book] Jolly Roger 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cJolly Roger# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290439">
+		<string name="name" value="[Mastery Book] Eight-Legs Easton 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cEight-Legs Easton# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290440">
+		<string name="name" value="[Mastery Book] Eight-Legs Easton 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cEight-Legs Easton# to 30.\nJob: Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290441">
+		<string name="name" value="[Mastery Book] Brain Scrambler 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBrain Scrambler# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290442">
+		<string name="name" value="[Mastery Book] Brain Scrambler 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBrain Scrambler# to 30.\nJob: Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290443">
+		<string name="name" value="[Mastery Book] Nautilus Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattleship Nautilus# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290444">
+		<string name="name" value="[Mastery Book] Nautilus Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattleship Nautilus# to 30.\nJob: Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290445">
+		<string name="name" value="[Mastery Book] Parrotargetting 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cParrotargetting# to 20.\nJob: Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290446">
+		<string name="name" value="[Mastery Book] Sudden Raid 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSudden Raid# to 20.\nJob: Night Lord, Shadower, Blade Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

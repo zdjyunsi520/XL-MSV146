@@ -1,0 +1,105 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201083">
+		<string name="name" value="闪光人"/>
+		<string name="n0" value="你见过强者阿莫斯吗？他是我的朋友。"/>
+		<string name="n1" value="外面感觉很清新..."/>
+		<string name="d0" value="看啊，我是强大的闪光人！世界上最强大的法师之一！"/>
+		<string name="d1" value="看啊，我是强大的闪光人！世界上最强大的法师之一！但你已经知道了，对吧？"/>
+	</imgdir>
+    <imgdir name="9201084">
+		<string name="name" value="墓碑"/>
+	</imgdir>
+    <imgdir name="9201085">
+		<string name="name" value="尼古拉斯"/>
+		<string name="func" value="CVS店员"/>
+		<string name="n0" value="我们有适合各种关怀方式的东西！"/>
+		<string name="n1" value="业力金币是送给你和朋友的好礼物。"/>
+		<string name="d0" value="我们有适合各种关怀方式的东西！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个业力金币！你可能想在另一个城镇看看更多业力金币。一定要先帮爸爸妈妈做家务！"/>
+	</imgdir>
+    <imgdir name="9201096">
+		<string name="name" value="杰克"/>
+		<string name="n0" value="在寻找冒险吗？"/>
+		<string name="n1" value="嘿，冒险者。是什么风把你吹到这里来的？"/>
+		<string name="d0" value="嘿，冒险者。是什么风把你吹到这里来的？"/>
+		<string name="d1" value="无论何时你在探险，都要保持警惕！"/>
+	</imgdir>
+    <imgdir name="9201104">
+		<string name="name" value="贤者"/>
+	</imgdir>
+    <imgdir name="9201105">
+		<string name="name" value="贤者"/>
+	</imgdir>
+    <imgdir name="9201106">
+		<string name="name" value="阿多尼斯"/>
+	</imgdir>
+    <imgdir name="9201107">
+		<string name="name" value="战士大师"/>
+	</imgdir>
+    <imgdir name="9201108">
+		<string name="name" value="弓箭手大师"/>
+	</imgdir>
+    <imgdir name="9201109">
+		<string name="name" value="法师大师"/>
+	</imgdir>
+    <imgdir name="9201110">
+		<string name="name" value="盗贼大师"/>
+	</imgdir>
+    <imgdir name="9201111">
+		<string name="name" value="海盗大师"/>
+	</imgdir>
+    <imgdir name="9201112">
+		<string name="name" value="杰克"/>
+		<string name="n0" value="摆出你的游戏表情，王牌！"/>
+		<string name="n1" value="摆出你的游戏表情，王牌！"/>
+		<string name="d0" value="是时候算账了！"/>
+		<string name="d1" value="是时候算账了！"/>
+	</imgdir>
+    <imgdir name="9201113">
+		<string name="name" value="杰克"/>
+		<string name="n0" value="摆出你的游戏表情，王牌！"/>
+		<string name="n1" value="摆出你的游戏表情，王牌！"/>
+		<string name="d0" value="是时候算账了！"/>
+		<string name="d1" value="是时候算账了！"/>
+	</imgdir>
+    <imgdir name="9201114">
+		<string name="name" value="大门"/>
+	</imgdir>
+    <imgdir name="9201115">
+		<string name="name" value="战斗雕像"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="9201116">
+		<string name="name" value="科佩文物探索者"/>
+		<string name="d0" value="你有兴趣寻找失落的米沃克文物吗？"/>
+		<string name="d1" value="嘿，怎么了？"/>
+		<string name="n0" value="我比文物更爱玉米卷。"/>
+		<string name="n1" value="有人对我感兴趣吗？我已经在这里站了好几个小时了。"/>
+	</imgdir>
+    <imgdir name="9201118">
+		<string name="name" value="希尔"/>
+		<string name="func" value="古董收藏家"/>
+		<string name="d0" value="收藏古董是我的生命。"/>
+		<string name="d1" value="你家里有旧物品吗？"/>
+		<string name="n0" value="我收集古董..."/>
+		<string name="n1" value="那是一件看起来很奇怪的物品。"/>
+	</imgdir>
+    <imgdir name="9201120">
+		<string name="name" value="欧文"/>
+		<string name="func" value="水管工"/>
+		<string name="d0" value="没有水我们无法生存。"/>
+		<string name="d1" value="你是不是忘了关家里的水龙头？"/>
+		<string name="n0" value="你的水管坏了吗？"/>
+		<string name="n1" value="水是宝贵的资源。一定要节约。"/>
+	</imgdir>
+    <imgdir name="9201123">
+		<string name="name" value="战士雕像"/>
+		<string name="d0" value="你想成为战士吗？"/>
+		<string name="d1" value="你想成为战士吗？"/>
+		<string name="n0" value="如果你想成为战士，我会送你去勇士部落。"/>
+		<string name="n1" value="如果你想成为战士，来找我。"/>
+	</imgdir>
+</imgdir>

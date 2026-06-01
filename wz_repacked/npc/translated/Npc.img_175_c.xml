@@ -1,0 +1,115 @@
+<imgdir name="Npc.img">
+    <imgdir name="1520021">
+		<string name="name" value="现在之门"/>
+	</imgdir>
+    <imgdir name="1520022">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="1520023">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="1520024">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="1520025">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="1520026">
+		<string name="name" value="时间封印"/>
+	</imgdir>
+    <imgdir name="1520027">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="d0" value="黑魔法师就在这扇门的另一边..."/>
+		<string name="d1" value="黑魔法师一定有理由在这个时候现身..."/>
+		<string name="n0" value="黑魔法师就在这扇门的另一边..."/>
+		<string name="n1" value="我祈祷这不是灾难的开始。"/>
+	</imgdir>
+    <imgdir name="1520028">
+		<string name="name" value="封印中的声音"/>
+	</imgdir>
+    <imgdir name="1520029">
+		<string name="name" value="黑魔法师"/>
+	</imgdir>
+    <imgdir name="1520030">
+		<string name="name" value="无聊的人"/>
+		<string name="func" value="新探险家"/>
+		<string name="d0" value="哇！这里发生了什么？"/>
+		<string name="d1" value="这是活动吗？我应该找任务发布者吗？"/>
+		<string name="n0" value="哇！这里发生了什么？"/>
+		<string name="n1" value="这是活动吗？"/>
+	</imgdir>
+    <imgdir name="1520031">
+		<string name="name" value="比皮蒂·鲍勃"/>
+		<string name="func" value="新探险家"/>
+		<string name="d0" value="啊哈！我就是这样跳的！"/>
+		<string name="d1" value="我现在该怎么办？"/>
+		<string name="n0" value="这是什么？"/>
+		<string name="n1" value="我一直在船上闲逛，因为我不知道还能做什么。"/>
+	</imgdir>
+    <imgdir name="1520032">
+		<string name="name" value="黑暗魔术师"/>
+		<string name="func" value="新探险家"/>
+		<string name="d0" value="我们没时间了。我们必须拯救冒险岛世界！"/>
+		<string name="d1" value="呃，要是我有更强的装备就好了..."/>
+		<string name="n0" value="我们没时间了。来吧，我们必须拯救冒险岛世界！"/>
+		<string name="n1" value="呃，要是我有更强的装备就好了..."/>
+	</imgdir>
+    <imgdir name="1520033">
+		<string name="name" value="幸运女孩"/>
+		<string name="func" value="新探险家"/>
+		<string name="d0" value="我在等我的朋友。"/>
+		<string name="d1" value="也许我应该先吃点东西。"/>
+		<string name="n0" value="我饿了。"/>
+		<string name="n1" value="天啊，她为什么这么久？"/>
+	</imgdir>
+    <imgdir name="1520034">
+		<string name="name" value="舒格"/>
+		<string name="d0" value="我不敢相信冒险岛发生了什么。"/>
+		<string name="d1" value="我很高兴火没有烧毁枫树。"/>
+		<string name="n0" value="我不敢相信冒险岛发生了什么。"/>
+		<string name="n1" value="是黑魔法师干的。"/>
+	</imgdir>
+    <imgdir name="1520035">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="不管黑魔法师在策划什么，这还不是结束。"/>
+		<string name="n0" value="这不是真正的攻击。这只是一个警告。"/>
+		<string name="n1" value="我们必须收集尽可能多的信息。"/>
+		<imgdir name="dialogue">
+			<string name="32319" value="我们需要更多信息。我们必须找到英雄们。"/>
+		</imgdir>
+    <imgdir name="1520036">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="我很高兴没人受伤。"/>
+		<string name="d1" value="懦夫！我会让他们付出代价。"/>
+		<string name="n0" value="我们美丽闪亮的岛屿！"/>
+		<string name="n1" value="懦夫们要付出代价。"/>
+	</imgdir>
+    <imgdir name="1520037">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="我不敢相信。"/>
+		<string name="d1" value="一定有我们能做的事情。"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="一定有我们能做的事情。"/>
+	</imgdir>
+    <imgdir name="1520038">
+		<string name="name" value="水"/>
+	</imgdir>
+    <imgdir name="1520039">
+		<string name="name" value="莉莉"/>
+		<string name="n0" value="你是来看阿兰的吗？"/>
+		<string name="n1" value="你对他了解多少？"/>
+		<string name="d0" value="阿兰很快就会回来...大概。"/>
+		<string name="d1" value="不知道阿兰的训练进展如何。"/>
+		<imgdir name="dialogue">
+			<string name="32323" value="好吧，我承认你对阿兰略知一二。"/>
+		</imgdir>
+    <imgdir name="1520040">
+		<string name="name" value="阿兰"/>
+		<string name="d0" value="莉莉真是个严厉的监工。"/>
+		<string name="d1" value="我真希望我能记得更多。对不起。"/>
+		<string name="n0" value="所以黑魔法师回来了，是吧？"/>
+		<string name="n1" value="看来我最好更努力训练。"/>
+		<imgdir name="dialogue">
+			<string name="32325" value="很抱歉我不能提供更多帮助。"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001454">
+			<string name="name" value="Platform Puppet"/>
+			<string name="desc" value="A doll that steps on the Platform for people. It should be useful for Party Quests."/>
+		</imgdir>
+    <imgdir name="4001455">
+			<string name="name" value="Lord Pirate Hat Fragment"/>
+			<string name="desc" value="A fragment from the ripped hat of Lord Pirate."/>
+		</imgdir>
+    <imgdir name="4001458">
+			<string name="name" value="Crystanol Fragment"/>
+			<string name="desc" value="A power source used in the future. Required for operating the Bing Machine-Alpha."/>
+		</imgdir>
+    <imgdir name="4001459">
+			<string name="name" value="Lump of Energy"/>
+			<string name="desc" value="Creates energy using the Energy Conversion Device."/>
+		</imgdir>
+    <imgdir name="4001460">
+			<string name="name" value="Surprise Style Stamp"/>
+			<string name="desc" value="A stamp you'll receive for exchanging in a Surprise Style Box item. Collect enough and you can trade them in for a Mystical Surprise Style Box."/>
+		</imgdir>
+    <imgdir name="4001473">
+			<string name="name" value="Christmas Tree Decoration"/>
+			<string name="desc" value="Decorate a tree by giving it to Black-nosed Fur at White Christmas Hill."/>
+		</imgdir>
+    <imgdir name="4001480">
+			<string name="name" value="Novice Secret Mine Ticket"/>
+			<string name="desc" value="#cCrafting Grand Opening#\nA special gift from Cole for level 1-2 miners. Lets you enter the secret mine through the portal in the lower level of #cArdentmill#. The mine has a #c10 minute time limit#.\nYou can enter 3 times a day."/>
+		</imgdir>
+    <imgdir name="4001481">
+			<string name="name" value="Intermediate Secret Mine Ticket"/>
+			<string name="desc" value="#cCrafting Grand Opening#\nA special gift from Cole for level 3-4 miners. Lets you enter the secret mine through the portal in the lower level of #cArdentmill#. The mine has a #c10 minute time limit#.\nYou can enter 3 times a day."/>
+		</imgdir>
+    <imgdir name="4001482">
+			<string name="name" value="Novice Secret Herb Patch Ticket"/>
+			<string name="desc" value="#cCrafting Grand Opening#\nA special gift from Saffron for level 1-2 herbalists. Lets you enter the secret herb patch through the portal in the lower level of #cArdentmill#. The herb patch has a #c10 minute time limit#.\nYou can enter 3 times a day."/>
+		</imgdir>
+    <imgdir name="4001483">
+			<string name="name" value="Intermediate Secret Herb Patch Ticket"/>
+			<string name="desc" value="#cCrafting Grand Opening#\nA special gift from Saffron for level 3-4 herbalists. Lets you enter the secret herb patch through the portal in the lower level of #cArdentmill#. The herb patch has a #c10 minute time limit#.\nYou can enter 3 times a day."/>
+		</imgdir>
+    <imgdir name="4001512">
+			<string name="name" value="Ancient Artifact Contest 2x Point Ticket"/>
+			<string name="desc" value="This coupon allows you get points doubled during the Ancient Artifact Contest."/>
+		</imgdir>
+    <imgdir name="4001513">
+			<string name="name" value="Zebra Stripe Ticket Piece"/>
+			<string name="desc" value="A portion of a ticket needed to enter the Monster Park. Collect 10 and you can exchange them for 1 Zebra Stripe Ticket."/>
+		</imgdir>
+    <imgdir name="4001514">
+			<string name="name" value="Zebra Stripe Ticket"/>
+			<string name="desc" value="A ticket that allows you to enter Spiegelmann's Monster Park. Only grants access to dungeons that are level 60-95."/>
+		</imgdir>
+    <imgdir name="4001515">
+			<string name="name" value="Leopard Stripe Ticket Piece"/>
+			<string name="desc" value="A portion of a ticket needed to enter the Monster Park. Collect 10 and you can exchange them for 1 Leopard Stripe Ticket."/>
+		</imgdir>
+    <imgdir name="4001516">
+			<string name="name" value="Leopard Spot Ticket"/>
+			<string name="desc" value="A ticket that allows you to enter Spiegelmann's Monster Park. Only grants access to dungeons that are level 135-165."/>
+		</imgdir>
+    <imgdir name="4001517">
+			<string name="name" value="Cherry Blossom Petal"/>
+			<string name="desc" value="A cherry blossom petal from Henesys. Gather up 20 of them and bring them to the Flower Fairy to receive a gift."/>
+		</imgdir>
+    <imgdir name="4001518">
+			<string name="name" value="Dolphin Food"/>
+			<string name="desc" value="Food enjoyed by dolphins. When pink dolphin appears, you can talk to the dolphin and offer up some food."/>
+		</imgdir>
+    <imgdir name="4001519">
+			<string name="name" value="Treasure Hunt 'You Lose' Note"/>
+			<string name="desc" value="A treasure hunt note with a picture of a bomb. This probably means your lose.\n#cYou can gather up these 'You Lose' notes and trade them for something tasty from Hooper."/>
+		</imgdir>
+    <imgdir name="4001521">
+			<string name="name" value="Tiger Stripe Ticket Piece"/>
+			<string name="desc" value="A portion of a ticket needed to enter the Monster Park. Collect 10 and you can exchange them for 1 Tiger Stripe Ticket."/>
+		</imgdir>
+    <imgdir name="4001522">
+			<string name="name" value="Tiger Stripe Ticket"/>
+			<string name="desc" value="A ticket that allows you to enter Spiegelmann's Monster Park. Only grants access to dungeons level 160 or higher."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101110102">
+        <string name="name" value="Advanced Wheel Wind" />
+        <string name="desc" value="An even more powerful Blade Tempest, increasing its damage and enabling it to draw in monsters. \n[Skill Requirements]: #cWheel Wind Lv. 20#" />
+        <string name="h" value="Time Force Cost: #forceCon per 1 sec, Damage:  #damage%, Max Enemies Hit: #mobCount, Attack count: #attackCount, Duration: #time" />
+    </imgdir>

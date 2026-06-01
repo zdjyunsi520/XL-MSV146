@@ -1,0 +1,5 @@
+<imgdir name="35100000">
+        <string name="name" value="机械师精通" />
+        <string name="desc" value="永久提升武器攻击力、武器熟练度、暴击率和命中率。" />
+        <string name="h" value="武器攻击力：+#padX，武器熟练度：+#mastery%，暴击率：+#cr%，命中率：+#x" />
+    </imgdir>

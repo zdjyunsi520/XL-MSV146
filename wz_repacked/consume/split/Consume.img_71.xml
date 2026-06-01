@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2028120">
+		<string name="name" value="Gold Marine Box"/>
+		<string name="desc" value="A gift for the masters of the Marine Museum."/>
+	</imgdir>
+    <imgdir name="2028121">
+		<string name="name" value="Silver Marine Box"/>
+		<string name="desc" value="A gift for the veterans of the Marine Museum."/>
+	</imgdir>
+    <imgdir name="2028122">
+		<string name="name" value="Copper Marine Box"/>
+		<string name="desc" value="A gift for the supporters of the Marine Museum."/>
+	</imgdir>
+    <imgdir name="2028123">
+		<string name="name" value="Gold Fruit Box"/>
+		<string name="desc" value="A gift for the masters of the Fruit Museum."/>
+	</imgdir>
+    <imgdir name="2028124">
+		<string name="name" value="Silver Fruit Box"/>
+		<string name="desc" value="A gift for the veterans of the Fruit Museum."/>
+	</imgdir>
+    <imgdir name="2028125">
+		<string name="name" value="Copper Fossil Box"/>
+		<string name="desc" value="A gift for the supporters of the Fossil Museum."/>
+	</imgdir>
+    <imgdir name="2028126">
+		<string name="name" value="Gold Fossil Box"/>
+		<string name="desc" value="A gift for the masters of the Fossil Museum."/>
+	</imgdir>
+    <imgdir name="2028127">
+		<string name="name" value="Silver Fossil Box"/>
+		<string name="desc" value="A gift for the masters of the Fossil Museum."/>
+	</imgdir>
+    <imgdir name="2028128">
+		<string name="name" value="Copper Fossil Box"/>
+		<string name="desc" value="A gift for the supporters of the Fossil Museum."/>
+	</imgdir>
+    <imgdir name="2028129">
+		<string name="name" value="Heartfelt Fish Basket"/>
+		<string name="desc" value="A basket that contains a fish for the Marine Museum that you raised on your own. Double-click to check the content. "/>
+	</imgdir>
+    <imgdir name="2028130">
+		<string name="name" value="Heartfelt Fruit Basket"/>
+		<string name="desc" value="A basket that contains a fruit for the Fruit Museum that you raised on your own. Double-click to check the content. "/>
+	</imgdir>
+    <imgdir name="2028131">
+		<string name="name" value="Heartfelt Fossil Basket"/>
+		<string name="desc" value="A basket that contains a fossil for the Fossil Museum that you cultured on your own. Double-click to check the content. "/>
+	</imgdir>
+    <imgdir name="2028132">
+		<string name="name" value="Fishbowl Basket"/>
+		<string name="desc" value="A basket that contains a fish for the Marine Museum in a fishbowl. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028133">
+		<string name="name" value="Fruit Basket"/>
+		<string name="desc" value="A basket that contains a fruit for the Fruit Museum that you plucked from a tree. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028134">
+		<string name="name" value="Crystal Fossil Basket"/>
+		<string name="desc" value="A basket that contains a fossil for the Fossil Museum that was excavated from a crystal pillar. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028135">
+		<string name="name" value="Ordinary Fish Basket"/>
+		<string name="desc" value="A basket that contains an ordinary fish for the Marine Museum. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028136">
+		<string name="name" value="Ordinary Fruit Basket"/>
+		<string name="desc" value="A basket that contains an ordinary fruit for the Fruit Museum. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028137">
+		<string name="name" value="Ordinary Fossil Basket"/>
+		<string name="desc" value="A basket that contains an ordinary fossil for the Fossil Museum. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028138">
+		<string name="name" value="Great Fish Basket"/>
+		<string name="desc" value="A basket that contains a great fish for the Marine Museum. Double-click to check the contents. "/>
+	</imgdir>
+    <imgdir name="2028139">
+		<string name="name" value="Sparkling Fruit Basket"/>
+		<string name="desc" value="A basket that contains a sparkling fruit for the Fruit Museum. Double-click to check the contents. "/>
+	</imgdir>
+</imgdir>

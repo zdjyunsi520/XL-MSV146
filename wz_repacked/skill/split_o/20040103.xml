@@ -1,0 +1,5 @@
+<imgdir name="20040103">
+        <string name="name" value="Ice Chop" />
+        <string name="pdesc" value="Strike enemies hard with a chance to stun. Usable when Ice Gauge is charged to #c5 or higher#.\n[Command: #c↓ + Attack Key#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+    </imgdir>

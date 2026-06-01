@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1320035"><string name="name" value="Hyper Accuracy"/><string name="desc" value="Permanently increases Accuracy."/><string name="h" value="Accuracy +#ar%"/></imgdir>
+    <imgdir name="1320036"><string name="name" value="Hyper Health"/><string name="desc" value="Permanently increases Max HP."/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="1320037"><string name="name" value="Hyper Mana"/><string name="desc" value="Permanently increases Max MP."/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="1320038"><string name="name" value="Hyper Fury"/><string name="desc" value="Permanently increases Max DF."/><string name="h" value="Max DF +50"/></imgdir>
+    <imgdir name="1320039"><string name="name" value="Hyper Defense"/><string name="desc" value="Permanently increases Weapon DEF."/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="1320040"><string name="name" value="Hyper Magic Defense"/><string name="desc" value="Permanently increases Magic DEF."/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="1320041"><string name="name" value="Hyper Speed"/><string name="desc" value="Permanently increases Movement Speed."/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="1320042"><string name="name" value="Hyper Jump"/><string name="desc" value="Permanently increases Jump."/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="1320043"><string name="name" value="Hyper Body - Persist"/><string name="desc" value="Increases Hyper Body&apos;s duration."/><string name="h" value="Duration: +#time sec"/></imgdir>
+    <imgdir name="1320044"><string name="name" value="Hyper Body - Spirit"/><string name="desc" value="Increases Hyper Body&apos;s Max MP bonus."/><string name="h" value="Bonus Max MP +#y%"/></imgdir>
+    <imgdir name="1320045"><string name="name" value="Hyper Body - Vitality"/><string name="desc" value="Increases Hyper Body&apos;s Max HP bonus."/><string name="h" value="Bonus Max HP +#x%"/></imgdir>
+    <imgdir name="1321052"><string name="name" value="Nightshade Explosion"/><string name="desc" value="Releases your inner power to lay waste to nearby enemies."/><string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="1321053"><string name="name" value="Epic Adventure"/><string name="desc" value="Call upon the bravery deep within to increase damage output and max damage."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Explorer class within the party"/></imgdir>
+    <imgdir name="1321054"><string name="name" value="Dark Thirst"/><string name="desc" value="Channels your inner vampire to increase Weapon ATT and sap life from enemies for a short time."/><string name="h" value="MP Cost: #mpCon, Bonus Weapon ATT: #indiePad, Duration: #time sec, Drained:  #x%, capped at current Max HP. \nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="2120030"><string name="name" value="Hyper Strength"/><string name="desc" value="Permanently increases STR."/><string name="h" value="STR +#strX"/></imgdir>
+    <imgdir name="2120031"><string name="name" value="Hyper Dexterity"/><string name="desc" value="Permanently increases DEX."/><string name="h" value="DEX +#dexX"/></imgdir>
+    <imgdir name="2120032"><string name="name" value="Hyper Intelligence"/><string name="desc" value="Permanently increases INT."/><string name="h" value="INT +#intX"/></imgdir>
+    <imgdir name="2120033"><string name="name" value="Hyper Luck"/><string name="desc" value="Permanently increases LUK."/><string name="h" value="LUK +#lukX"/></imgdir>
+    <imgdir name="2120034"><string name="name" value="Hyper Critical"/><string name="desc" value="Permanently increases Critical Rate."/><string name="h" value="Critical Rate: +#cr%"/></imgdir>
+    <imgdir name="2120035"><string name="name" value="Hyper Accuracy"/><string name="desc" value="Permanently increases Accuracy."/><string name="h" value="Accuracy +#ar%"/></imgdir>
+</imgdir>

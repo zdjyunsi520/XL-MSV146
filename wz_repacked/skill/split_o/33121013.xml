@@ -1,0 +1,5 @@
+<imgdir name="33121013">
+        <string name="name" value="Extended Magazine" />
+        <string name="desc" value="Attach a special Resistance magazine to your Crossbow to hold stronger bolts." />
+        <string name="h" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec, All stats: +#indieAllStat" />
+    </imgdir>

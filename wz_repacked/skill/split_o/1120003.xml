@@ -1,0 +1,7 @@
+<imgdir name="1120003">
+        <string name="name" value="Advanced Combo" />
+        <string name="desc" value="Increases the damage dealt per combo orb and enables you to charge more orbs. Also, grants a chance to charge orbs twice as quickly. Additionally, increases mastery.\nRequired Skill: #cWeapon Mastery Lv. 10 or above, Combo Synergy Lv. 20 or above#" />
+        <string name="h" value="Damage: +#v% per combo orb, Max Combo Orbs: 2, Double Charge Speed Proc Rate: #prop%, Weapon Mastery: #mastery%" />
+        <string name="pdesc" value="Increases the damage dealt per combo orb and enables you to charge more orbs. Also, grants a chance to charge orbs twice as quickly. Additionally, increases mastery.\nRequired Skill: #cWeapon Mastery Lv. 10 or above, Combo Synergy Lv. 20 or above#" />
+        <string name="ph" value="Damage: +#v% per combo orb, Max Combo Orbs: 2, Double Charge Speed Proc Rate: #prop%, Weapon Mastery: #mastery%" />
+    </imgdir>

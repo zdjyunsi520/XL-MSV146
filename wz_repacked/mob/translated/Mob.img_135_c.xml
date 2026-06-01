@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8300004">
+		<string name="name" value="翱翔之黑飞龙"/>
+	</imgdir>
+    <imgdir name="8300005">
+		<string name="name" value="翱翔之格里菲"/>
+	</imgdir>
+    <imgdir name="8300006">
+		<string name="name" value="德拉戈诺尔"/>
+	</imgdir>
+    <imgdir name="8300007">
+		<string name="name" value="龙骑士"/>
+	</imgdir>
+    <imgdir name="9101004">
+		<string name="name" value="蓝蘑菇"/>
+	</imgdir>
+    <imgdir name="9300394">
+		<string name="name" value="不良鲁道夫"/>
+	</imgdir>
+    <imgdir name="9300395">
+		<string name="name" value="守望者船员"/>
+	</imgdir>
+    <imgdir name="9300396">
+		<string name="name" value="守望者船长"/>
+	</imgdir>
+    <imgdir name="9500374">
+		<string name="name" value="绿科尼亚"/>
+	</imgdir>
+    <imgdir name="9500375">
+		<string name="name" value="黑暗科尼亚"/>
+	</imgdir>
+    <imgdir name="9500376">
+		<string name="name" value="小新蒂"/>
+	</imgdir>
+    <imgdir name="9500377">
+		<string name="name" value="巢穴傀儡"/>
+	</imgdir>
+    <imgdir name="9500378">
+		<string name="name" value="蓝龙龟"/>
+	</imgdir>
+    <imgdir name="9500379">
+		<string name="name" value="红龙龟"/>
+	</imgdir>
+    <imgdir name="9500380">
+		<string name="name" value="骷髅龙"/>
+	</imgdir>
+    <imgdir name="9500381">
+		<string name="name" value="骷髅恐龙"/>
+	</imgdir>
+    <imgdir name="9500382">
+		<string name="name" value="利维坦"/>
+	</imgdir>
+    <imgdir name="9990000">
+		<string name="name" value="无元素"/>
+	</imgdir>
+    <imgdir name="9990001">
+		<string name="name" value="哺乳动物"/>
+	</imgdir>
+    <imgdir name="9990002">
+		<string name="name" value="植物"/>
+	</imgdir>
+</imgdir>

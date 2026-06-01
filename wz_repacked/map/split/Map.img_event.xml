@@ -1,0 +1,219 @@
+<imgdir name="Map.img">
+    <imgdir name="event">
+		<imgdir name="683000000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Sweet Cake Hill Entrance"/>
+		</imgdir>
+		<imgdir name="683000100">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000101">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000102">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000103">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000104">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000105">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000106">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000107">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000108">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000109">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 1"/>
+		</imgdir>
+		<imgdir name="683000110">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000111">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000112">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000113">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000114">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000115">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000116">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000117">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000118">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000119">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 2"/>
+		</imgdir>
+		<imgdir name="683000120">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000121">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000122">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000123">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000124">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000125">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000126">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000127">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000128">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683000129">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Sweet Cake Hill 3"/>
+		</imgdir>
+		<imgdir name="683010000">
+			<string name="mapName" value="Dragon's Nest"/>
+		</imgdir>
+		<imgdir name="682020000">
+			<string name="mapName" value="Front Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020100">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020101">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020102">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020103">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020104">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020105">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020106">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020107">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020108">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020109">
+			<string name="mapName" value="Living Room"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020200">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020201">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020202">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020203">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020204">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020205">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020206">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020207">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020208">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020209">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+		<imgdir name="682020300">
+			<string name="mapName" value="Back Gate"/>
+			<string name="streetName" value="Mansion of the Good Witch of the Left-Side"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

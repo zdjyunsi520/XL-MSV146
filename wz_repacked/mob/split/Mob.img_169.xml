@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8850006">
+		<string name="name" value="Oz"/>
+	</imgdir>
+    <imgdir name="8850007">
+		<string name="name" value="Irena"/>
+	</imgdir>
+    <imgdir name="8850008">
+		<string name="name" value="Eckhart"/>
+	</imgdir>
+    <imgdir name="8850009">
+		<string name="name" value="Hawkeye"/>
+	</imgdir>
+    <imgdir name="8850010">
+		<string name="name" value="Shinsoo"/>
+	</imgdir>
+    <imgdir name="8850011">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+    <imgdir name="8850012">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+    <imgdir name="9501052">
+		<string name="name" value="Airborne User"/>
+	</imgdir>
+    <imgdir name="9501053">
+		<string name="name" value="Range, Damage over Time"/>
+	</imgdir>
+    <imgdir name="9501054">
+		<string name="name" value="Transform User"/>
+	</imgdir>
+    <imgdir name="9501055">
+		<string name="name" value="Explode User"/>
+	</imgdir>
+    <imgdir name="9501056">
+		<string name="name" value="Counterattack(Aggro, HP Check)"/>
+	</imgdir>
+    <imgdir name="8220016">
+		<string name="name" value="Corrupted Wyvern"/>
+	</imgdir>
+    <imgdir name="8220017">
+		<string name="name" value="Corrupted Cornian"/>
+	</imgdir>
+    <imgdir name="8220018">
+		<string name="name" value="Corrupted Skelegon"/>
+	</imgdir>
+    <imgdir name="8220019">
+		<string name="name" value="Corrupted Kentaurus"/>
+	</imgdir>
+    <imgdir name="8220020">
+		<string name="name" value="Corrupted Chief Memory Guardian"/>
+	</imgdir>
+    <imgdir name="8220021">
+		<string name="name" value="Corrupted Time Monk Trainee"/>
+	</imgdir>
+    <imgdir name="8860000">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="8860001">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+</imgdir>

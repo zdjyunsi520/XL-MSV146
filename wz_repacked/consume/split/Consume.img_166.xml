@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2100170">
+		<string name="name" value="Ravana Summon"/>
+		<string name="desc" value="Summons a level 90 Ravana."/>
+	</imgdir>
+    <imgdir name="2100171">
+		<string name="name" value="Ravana Summon"/>
+		<string name="desc" value="Summons a level 120 Ravana."/>
+	</imgdir>
+    <imgdir name="2100172">
+		<string name="name" value="Shammos Summon"/>
+		<string name="desc" value="Stage 1-4 Escort"/>
+	</imgdir>
+    <imgdir name="2100173">
+		<string name="name" value="Shammos Summon"/>
+		<string name="desc" value="Stage 5 Presentation"/>
+	</imgdir>
+    <imgdir name="2100174">
+		<string name="name" value="Rex Summoning Sack"/>
+		<string name="desc" value="For Escort Quest"/>
+	</imgdir>
+    <imgdir name="2100180">
+		<string name="name" value="Schiller Summoning Sack"/>
+		<string name="desc" value="Schiller Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100182">
+		<string name="name" value="Ani Summoning Sack"/>
+		<string name="desc" value="Ani Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100186">
+		<string name="name" value="Cygnus Summoning Sack"/>
+		<string name="desc" value="Cygnus Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100187">
+		<string name="name" value="Cygnus Knight Summoning Sack"/>
+		<string name="desc" value="Cygnus Knight Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100188">
+		<string name="name" value="Cygnus Knight Summoning Sack"/>
+		<string name="desc" value="Cygnus Knight Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100189">
+		<string name="name" value="Mysterious Sack"/>
+		<string name="desc" value="Cassandra says that it's impossible to know what monsters will be summoned from this sack, but it may summon special, hard-to-find monsters."/>
+	</imgdir>
+    <imgdir name="2100190">
+		<string name="name" value="Summoning Mushmom"/>
+		<string name="desc" value="Summons a Mushmom."/>
+	</imgdir>
+    <imgdir name="2100191">
+		<string name="name" value="Summoning Crimson Balrog"/>
+		<string name="desc" value="Summons a Crimson Balrog."/>
+	</imgdir>
+    <imgdir name="2100192">
+		<string name="name" value="Summoning Werewolf"/>
+		<string name="desc" value="Summons a Werewolf."/>
+	</imgdir>
+    <imgdir name="2100193">
+		<string name="name" value="Summoning Jr. Balrog"/>
+		<string name="desc" value="Summons a Jr. Balrog."/>
+	</imgdir>
+    <imgdir name="2100194">
+		<string name="name" value="Summoning Moon Bunny"/>
+		<string name="desc" value="Summons a Moon Bunny."/>
+	</imgdir>
+    <imgdir name="2100195">
+		<string name="name" value="Summoning Kenta"/>
+		<string name="desc" value="Summons Kenta."/>
+	</imgdir>
+    <imgdir name="2100196">
+		<string name="name" value="Ferocious Hoblin Summoning Sack"/>
+		<string name="desc" value="Summons a Ferocious Hoblin."/>
+	</imgdir>
+    <imgdir name="2100197">
+		<string name="name" value="Saint Savior Mini Dungeon Summoning Sack"/>
+		<string name="desc" value="Saint Savior Mini Dungeon Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100198">
+		<string name="name" value="Virtue's Mini Dungeon Summoning Sack"/>
+		<string name="desc" value="Virtue's Mini Dungeon Summoning Sack"/>
+	</imgdir>
+</imgdir>

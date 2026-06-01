@@ -1,0 +1,103 @@
+<imgdir name="Npc.img">
+    <imgdir name="2121018">
+		<string name="name" value="Trashed Hair"/>
+		<string name="d0" value="It's a bit of discarded hair."/>
+		<string name="d1" value="It's a bit of discarded hair."/>
+	</imgdir>
+    <imgdir name="2121019">
+		<string name="name" value="Masquerade Invitation"/>
+		<string name="d0" value="It's a Masquerade Invitation that was written by a masked gentleman."/>
+		<string name="d1" value="It's a Masquerade Invitation that was written by a masked gentleman."/>
+	</imgdir>
+    <imgdir name="2121020">
+		<string name="name" value="Masked Gentleman"/>
+	</imgdir>
+    <imgdir name="2121021">
+		<string name="name" value="Strange Attraction"/>
+	</imgdir>
+    <imgdir name="2121022">
+		<string name="name" value="Dress Chest"/>
+		<string name="d0" value="It's a chest that contains a dress."/>
+		<string name="d1" value="It's a chest that contains a dress."/>
+	</imgdir>
+    <imgdir name="2121023">
+		<string name="name" value="Missing Photo"/>
+		<string name="d0" value="It's a photo of a man who has never been seen."/>
+		<string name="d1" value="It's a photo of a man who has never been seen."/>
+	</imgdir>
+    <imgdir name="2121024">
+		<string name="name" value="Gloomy Mask"/>
+		<string name="d0" value="It's a gloomy mask."/>
+		<string name="d1" value="It's a gloomy mask."/>
+	</imgdir>
+    <imgdir name="2131003">
+		<string name="name" value="Loha"/>
+		<string name="n0" value="Hurry this way if you're hurt."/>
+		<string name="n1" value="I think it's a real difficult task, founding a new town."/>
+		<string name="d0" value="All the warriors have left to find a place to build a new town. Only Athena Pierce is left... I hope she doesn't leave too."/>
+		<string name="d1" value="All the warriors have left to find a place to build a new town. Only Athena Pierce is left... I hope she doesn't leave too."/>
+	</imgdir>
+    <imgdir name="2132002">
+		<string name="name" value="Rius"/>
+		<string name="n0" value="Hmm... Got to be careful not to get lost."/>
+		<string name="n1" value="You have to create a blueprint before you go about creating a town."/>
+		<string name="d0" value="Are you on the expedition, too? Stay on your toes, there are lots of dangerous monsters about."/>
+		<string name="d1" value="Are you on the expedition, too? Stay on your toes, there are lots of dangerous monsters about."/>
+	</imgdir>
+    <imgdir name="2133001">
+		<string name="name" value="Ellin"/>
+		<string name="n0" value="Ask me quick if you have a question."/>
+		<string name="n1" value="I wonder what that Mystery Man's real identity is. "/>
+	</imgdir>
+    <imgdir name="2133002">
+		<string name="name" value="Ellin Forest Milepost"/>
+	</imgdir>
+    <imgdir name="2133003">
+		<string name="name" value="Wooden Desk"/>
+	</imgdir>
+    <imgdir name="2133004">
+		<string name="name" value="Sprite"/>
+		<string name="n0" value="Please save our polluted forest!"/>
+		<string name="d0" value="My friends were poisoned when the forest became polluted with the stuff!"/>
+		<string name="d1" value="My friends were poisoned when the forest became polluted with the stuff!"/>
+		<string name="n1" value="They're the warriors from Ossyria!"/>
+	</imgdir>
+    <imgdir name="2133005">
+		<string name="name" value="Cave Entrance"/>
+	</imgdir>
+    <imgdir name="2133006">
+		<string name="name" value="Ephenia's Hiding Place"/>
+	</imgdir>
+    <imgdir name="2133007">
+		<string name="name" value="Ephenia"/>
+	</imgdir>
+    <imgdir name="2133008">
+		<string name="name" value="Guwaru"/>
+		<string name="n0" value="Back at last."/>
+		<string name="n1" value="I am obligated to protect the world of spirits."/>
+		<string name="d0" value="A world without desire is a world at peace."/>
+		<string name="d1" value="Nature takes its course in all cases."/>
+	</imgdir>
+    <imgdir name="2140000">
+		<string name="name" value="Temple Keeper "/>
+		<string name="n0" value="Don't disturb the Goddess' sleep."/>
+		<string name="n1" value="Let's take a look at this month's missing children list..."/>
+		<string name="n2" value="We are not admitting regular visitors at this time."/>
+		<string name="d0" value="The Goddess is not awake.  From the moment she was born till now, and forever, she will be asleep.  Perhaps our lives here are simply her dreams."/>
+		<string name="d1" value="The Goddess is not awake.  From the moment she was born till now, and forever, she will be asleep.  Perhaps our lives here are simply her dreams."/>
+	</imgdir>
+    <imgdir name="2140001">
+		<string name="name" value="Memory Keeper"/>
+		<string name="n0" value="Is it me that is looking into a mirror, or the Goddess?"/>
+		<string name="n1" value="...Your eyes cannot be trusted."/>
+		<string name="d0" value="What do your closed eyes see, oh Goddess?  Since what is not seen does not exist... "/>
+		<string name="d1" value="What do your closed eyes see, oh Goddess?  Since what is not seen does not exist... "/>
+	</imgdir>
+    <imgdir name="2140003">
+		<string name="name" value="Record Keeper"/>
+		<string name="n0" value="Thousands upon thousands of words gather and create history."/>
+		<string name="n1" value="Memory is spread like sand and turns into a river of oblivion.  "/>
+		<string name="d0" value="Do you record so you don't forget?  Or do you remember so that you can record?"/>
+		<string name="d1" value="Do you record so you don't forget?  Or do you remember so that you can record?"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="22171003">
+        <string name="name" value="Flame Wheel" />
+        <string name="desc" value="Generates a wheel of flames that spirals into monsters in front of you, dealing Fire damage. Enemies hit take continuous damage." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks, #attackCount, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage for #dotTime sec." />
+        <string name="pdesc" value="Generates a wheel of flames that attacks many monsters in front at once, dealing Fire damage." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage for #dotTime sec.\nCooldown: #hcCooltime sec" />
+    </imgdir>

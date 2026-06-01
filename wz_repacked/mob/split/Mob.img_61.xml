@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300252">
+		<string name="name" value="Reinforced Iron Mutae"/>
+	</imgdir>
+    <imgdir name="9300253">
+		<string name="name" value="Reinforced Mithril Mutae"/>
+	</imgdir>
+    <imgdir name="9300254">
+		<string name="name" value="Reinforced Iron Mutae"/>
+	</imgdir>
+    <imgdir name="9300255">
+		<string name="name" value="Mithril Mutae"/>
+	</imgdir>
+    <imgdir name="9300256">
+		<string name="name" value="Transforming Doll Machine  (Before)"/>
+	</imgdir>
+    <imgdir name="9300257">
+		<string name="name" value="Transforming Doll Machine  (After)"/>
+	</imgdir>
+    <imgdir name="9300258">
+		<string name="name" value="Yeti"/>
+	</imgdir>
+    <imgdir name="9300259">
+		<string name="name" value="Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="9300260">
+		<string name="name" value="Jr. Balrog"/>
+	</imgdir>
+    <imgdir name="9300261">
+		<string name="name" value="Black Kentaurus"/>
+	</imgdir>
+    <imgdir name="9300262">
+		<string name="name" value="Red Kentaurus"/>
+	</imgdir>
+    <imgdir name="9300263">
+		<string name="name" value="Blue Kentaurus"/>
+	</imgdir>
+    <imgdir name="9300264">
+		<string name="name" value="Dark Wyvern"/>
+	</imgdir>
+    <imgdir name="9300265">
+		<string name="name" value="Blue Wyvern"/>
+	</imgdir>
+    <imgdir name="9300266">
+		<string name="name" value="High Darkstar"/>
+	</imgdir>
+    <imgdir name="9300267">
+		<string name="name" value="Low Darkstar"/>
+	</imgdir>
+    <imgdir name="9300268">
+		<string name="name" value="Tae Roon"/>
+	</imgdir>
+    <imgdir name="9300269">
+		<string name="name" value="So Gong"/>
+	</imgdir>
+    <imgdir name="9300270">
+		<string name="name" value="Mingu"/>
+	</imgdir>
+    <imgdir name="9300271">
+		<string name="name" value="Target Slime"/>
+	</imgdir>
+</imgdir>

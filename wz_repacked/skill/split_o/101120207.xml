@@ -1,0 +1,5 @@
+<imgdir name="101120207">
+        <string name="name" value="Divine Leer" />
+        <string name="desc" value="Increases the minimum and maximum damage of Alpha&apos;s Criticals. Also grants a chance to inflict a bleeding effect on the target and restore your HP." />
+        <string name="h" value="Permanent Increases Alpha&apos;s Min Critical Damage: +#criticaldamageMin%, Max Critical Damage: +#criticaldamageMax% \nWhen attacking, #prop% chance of causing #dot% damage for #dotTime sec, every #dotInterval sec and replenishes #x% of max HP" />
+    </imgdir>

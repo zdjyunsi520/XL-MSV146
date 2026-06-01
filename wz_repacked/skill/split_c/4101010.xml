@@ -1,0 +1,8 @@
+<imgdir name="4101010">
+        <string name="name" value="疾风咒" />
+        <string name="desc" value="将风凝固，伤害并击退敌人！" />
+        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Range: #range" />
+        <string name="pdesc" value="将风凝固，伤害并击退敌人！" />
+        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Chance: #prop%, Knockback Range: #range" />
+        <string name="hch" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Chance: #hcProp%, Knockback Range: #range" />
+    </imgdir>

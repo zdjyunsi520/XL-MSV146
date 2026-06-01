@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591237">
+		<string name="name" value="惊喜品克纳斯之魂"/>
+		<string name="desc" value="品克纳斯的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c品克纳斯技能和额外潜能#。\r\n#c额外潜能：运气+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591238">
+		<string name="name" value="坚韧品克纳斯之魂"/>
+		<string name="desc" value="品克纳斯的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c品克纳斯技能和额外潜能#。\r\n#c额外潜能：最大HP+300\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591239">
+		<string name="name" value="充沛品克纳斯之魂"/>
+		<string name="desc" value="品克纳斯的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c品克纳斯技能和额外潜能#。\r\n#c额外潜能：最大MP+300\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591240">
+		<string name="name" value="华丽品克纳斯之魂"/>
+		<string name="desc" value="品克纳斯的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c品克纳斯技能和额外潜能#。\r\n#c额外潜能：全属性+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591241">
+		<string name="name" value="活力希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：力量+15\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591242">
+		<string name="name" value="敏捷希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：敏捷+15\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591243">
+		<string name="name" value="聪慧希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：智力+15\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591244">
+		<string name="name" value="惊喜希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：运气+15\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591245">
+		<string name="name" value="华丽希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：全属性+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591246">
+		<string name="name" value="强力希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：武器攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591247">
+		<string name="name" value="光辉希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：魔法攻击力+4\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591248">
+		<string name="name" value="坚韧希拉之魂"/>
+		<string name="desc" value="希拉的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c希拉技能和额外潜能#。\r\n#c额外潜能：最大HP+600\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591249">
+		<string name="name" value="活力黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：力量+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591250">
+		<string name="name" value="敏捷黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：敏捷+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591251">
+		<string name="name" value="聪慧黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：智力+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591252">
+		<string name="name" value="惊叹黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：运气+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591253">
+		<string name="name" value="坚韧黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：最大HP+150\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591254">
+		<string name="name" value="充沛黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：最大MP+150\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591255">
+		<string name="name" value="华丽黑色史莱姆之魂"/>
+		<string name="desc" value="黑色史莱姆的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c黑色史莱姆技能和额外潜能#。\r\n#c额外潜能：全属性+2\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591256">
+		<string name="name" value="活力玛加萨之魂"/>
+		<string name="desc" value="玛加萨的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c玛加萨技能和额外潜能#。\r\n#c额外潜能：力量+24\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+</imgdir>

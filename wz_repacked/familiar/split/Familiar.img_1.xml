@@ -1,0 +1,82 @@
+<imgdir name="Familiar.img">
+    <imgdir name="802">
+			<string name="name" value="Lure"/>
+			<string name="desc" value="Attack with a 60% chance of pulling 2 enemies."/>
+		</imgdir>
+    <imgdir name="803">
+			<string name="name" value="Bark"/>
+			<string name="desc" value="Attack with a 60% chance of stunning 2 enemies for 2 seconds."/>
+		</imgdir>
+    <imgdir name="804">
+			<string name="name" value="Observe"/>
+			<string name="desc" value="Attack with a 60% chance of slightly slowing 2 enemies for 3 seconds."/>
+		</imgdir>
+    <imgdir name="805">
+			<string name="name" value="Poison"/>
+			<string name="desc" value="Attack with a 60% chance of poisoning 2 enemies for 3 seconds."/>
+		</imgdir>
+    <imgdir name="806">
+			<string name="name" value="Charge"/>
+			<string name="desc" value="Attack with a 80% chance of knocking back 3 enemies."/>
+		</imgdir>
+    <imgdir name="807">
+			<string name="name" value="Provoke"/>
+			<string name="desc" value="Attack with a 80% chance of pulling 3 enemies."/>
+		</imgdir>
+    <imgdir name="808">
+			<string name="name" value="Roar"/>
+			<string name="desc" value="Attack with a 80% chance of stunning 3 enemies for 4 seconds."/>
+		</imgdir>
+    <imgdir name="809">
+			<string name="name" value="Scrutinize"/>
+			<string name="desc" value="Attack with a 80% chance of slightly slowing down 3 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="810">
+			<string name="name" value="Deadly Poison"/>
+			<string name="desc" value="Attack with a 80% chance of poisoning 3 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="811">
+			<string name="name" value="Monkey King's Curse"/>
+			<string name="desc" value="Attack with a 80% chance of poisoning 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="812">
+			<string name="name" value="Serpent Venom"/>
+			<string name="desc" value="Attack with a 80% chance of poisoning 3 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="813">
+			<string name="name" value="Snail Lullaby"/>
+			<string name="desc" value="Attack with a 80% chance of slightly slowing down 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="814">
+			<string name="name" value="Piercing Gaze"/>
+			<string name="desc" value="Attack with a 80% chance of slightly slowing down 3 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="815">
+			<string name="name" value="Apple Jelly Scent"/>
+			<string name="desc" value="Attack twice with a 80% chance of pulling 4 enemies."/>
+		</imgdir>
+    <imgdir name="816">
+			<string name="name" value="Ocean Whirlpool"/>
+			<string name="desc" value="Attack three times with a 80% chance of knocking back 3 enemies."/>
+		</imgdir>
+    <imgdir name="817">
+			<string name="name" value="Oogie Boogie"/>
+			<string name="desc" value="Attack with a 80% chance of slightly slowing down 4 enemies for 8 seconds."/>
+		</imgdir>
+    <imgdir name="818">
+			<string name="name" value="Golden Yeti's Roar"/>
+			<string name="desc" value="Attack twice with a 80% chance of stunning 4 enemies for 6 seconds."/>
+		</imgdir>
+    <imgdir name="819">
+			<string name="name" value="Giant Crocodile's Roar"/>
+			<string name="desc" value="Attack twice with a 80% chance of stunning 4 enemies for 4 seconds."/>
+		</imgdir>
+    <imgdir name="820">
+			<string name="name" value="One-Eyed Gaze"/>
+			<string name="desc" value="Attack with a 100% chance of slowing down 3 enemies for 10 seconds."/>
+		</imgdir>
+    <imgdir name="821">
+			<string name="name" value="Fatal Venom"/>
+			<string name="desc" value="Attack with a 100% chance of poisoning 3 enemies for 8 seconds."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,98 @@
+<imgdir name="Npc.img">
+    <imgdir name="3001105">
+		<string name="name" value="罗梅罗"/>
+		<string name="n0" value="托内罗是个骗子。"/>
+		<string name="n1" value="我是贸易之王。"/>
+		<string name="d0" value="哦，你有什么要交易的吗？"/>
+		<string name="d1" value="如果你想做交易，来找我。"/>
+	</imgdir>
+    <imgdir name="3001106">
+		<string name="name" value="加列罗"/>
+		<string name="n0" value="我是加列罗！"/>
+		<string name="n1" value="别听那些吹牛的。我才是最好的。"/>
+		<string name="d0" value="什么事...？"/>
+		<string name="d1" value="什么事？"/>
+	</imgdir>
+    <imgdir name="3001107">
+		<string name="name" value="提隆"/>
+		<string name="n0" value="提隆队长！收到！"/>
+		<string name="n1" value="一切安全！"/>
+		<string name="d0" value="我是提隆，侦察专家。"/>
+		<string name="d1" value="追踪敌人动向！"/>
+	</imgdir>
+    <imgdir name="3001108">
+		<string name="name" value="玛雅拉"/>
+		<string name="func" value="暗影商店"/>
+		<string name="n0" value="武器！盔甲！我甚至有一个金币商店！"/>
+		<string name="n1" value="我的商队兄弟们快把我逼疯了！"/>
+		<string name="d0" value="你想买什么吗？"/>
+		<string name="d1" value="你好像逛了很久。"/>
+	</imgdir>
+    <imgdir name="9075111">
+		<string name="name" value="月亮博士"/>
+		<string name="n0" value="进化系统是一项引人入胜的发现。"/>
+		<string name="n1" value="希望进化系统的进入限制不会太麻烦。"/>
+		<string name="d0" value="枫叶世界正被神秘领域的怪物侵占！"/>
+		<string name="d1" value="枫叶世界正被神秘领域的怪物侵占！"/>
+	</imgdir>
+    <imgdir name="9270086">
+		<string name="name" value="黑树皮"/>
+		<string name="n0" value="呼...我该怎么清理这一切？"/>
+	</imgdir>
+    <imgdir name="9270087">
+		<string name="name" value="烧焦的残骸"/>
+		<string name="d0" value="只剩下灰烬了。"/>
+		<string name="d1" value="只剩下灰烬了。"/>
+	</imgdir>
+    <imgdir name="9270082">
+		<string name="name" value="破木箱"/>
+		<string name="d0" value="这是一个箱子。它是木头做的。它破了。就是这样。"/>
+		<string name="d1" value="这是一个箱子。它是木头做的。它破了。就是这样。"/>
+	</imgdir>
+    <imgdir name="9270083">
+		<string name="name" value="伯克"/>
+	</imgdir>
+    <imgdir name="9270084">
+		<string name="name" value="伯克"/>
+	</imgdir>
+    <imgdir name="9270085">
+		<string name="name" value="万能钥匙容器"/>
+	</imgdir>
+    <imgdir name="9270088">
+		<string name="name" value="黑树皮"/>
+	</imgdir>
+    <imgdir name="9270089">
+		<string name="name" value="麒麟"/>
+	</imgdir>
+    <imgdir name="9270090">
+		<string name="name" value="巴罗克"/>
+	</imgdir>
+    <imgdir name="9270091">
+		<string name="name" value="雷霆之锤"/>
+		<string name="func" value="伟大的铁匠"/>
+		<string name="d0" value="我的锤子响彻整个枫叶世界！没有什么是我修不好的！"/>
+		<string name="d1" value="真正的大师必须有正确的心态。任务越困难，我就越想完成它！"/>
+	</imgdir>
+    <imgdir name="9270092">
+		<string name="name" value="伯克"/>
+	</imgdir>
+    <imgdir name="9201138">
+		<string name="name" value="约纳斯"/>
+		<string name="d0" value="什么事？我没时间浪费。我需要完善这个小玩意儿！"/>
+		<string name="n0" value="等着看我最新的发明吧！"/>
+	</imgdir>
+    <imgdir name="9201144">
+		<string name="name" value="暗影骑士雷内"/>
+		<string name="n1" value="你必须在母龙回来之前拿到蛋。"/>
+		<string name="d0" value="偷龙蛋会让我变得超级富有！"/>
+		<string name="n0" value="龙很强，但不如我强。哈哈！"/>
+	</imgdir>
+    <imgdir name="2007">
+		<string name="name" value="枫叶管理员"/>
+	</imgdir>
+    <imgdir name="10200">
+		<string name="name" value="雅典娜·皮尔斯"/>
+		<string name="func" value="弓箭手职业导师"/>
+		<string name="s0" value="你想学习弓箭手之道吗？"/>
+	</imgdir>
+</imgdir>

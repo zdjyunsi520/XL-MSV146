@@ -1,0 +1,8 @@
+<imgdir name="4221007">
+        <string name="name" value="Boomerang Stab" />
+        <string name="desc" value="Grants a chance to stun an enemy after making two fast slashing attacks. Also enhances all attack skills permanently." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: 2, Stun Chance: #prop%, Stun Duration: #time sec\n [Passive Effect: All attack skill damage increases by #pdR%]" />
+        <string name="pdesc" value="Grants a chance to stun an enemy after making two fast slashing attacks. Also enhances all attack skills permanently." />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: 2, Stun Chance: #prop%, Stun Duration: #time sec\n [Passive Effect: All attack skill damage increases by #pdR%]" />
+        <string name="hch" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: 2, Stun Chance: #prop%, Stun Duration: #time sec\n [Passive Effect: All attack skill damage increases by #pdR%]" />
+    </imgdir>

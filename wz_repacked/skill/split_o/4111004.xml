@@ -1,0 +1,7 @@
+<imgdir name="4111004">
+        <string name="name" value="Shadow Meso" />
+        <string name="desc" value="Attacks enemies with mesos without consuming any mesos. Damage depends on the amount thrown. Cancels enemy&apos;s Weapon DEF and Magic Guard buffs. \nRequired Skill: #cMeso Up Lv. 5#" />
+        <string name="h" value="Mesos Consumed: #y to #z mesos, Bonus Damage Chance: #prop%, Damage: #x%" />
+        <string name="pdesc" value="Attacks enemies with mesos. Damage depends on the amount thrown. Cancels enemy&apos;s Weapon DEF and Magic Guard buffs. \nRequired Skill: #cMeso Up Lv. 5#" />
+        <string name="ph" value="Mesos Consumed: #y to #z, Bonus Damage Chance: #prop%, Damage: #x%" />
+    </imgdir>

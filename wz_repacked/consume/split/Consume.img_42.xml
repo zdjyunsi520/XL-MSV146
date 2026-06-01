@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022358">
+		<string name="name" value="Sweet Rice Cake"/>
+		<string name="desc" value="A sweet, tasty rice cake. For 15 min., Speed +5, Jump +3."/>
+	</imgdir>
+    <imgdir name="2022359">
+		<string name="name" value="Increases Physical Attack Rat."/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022360">
+		<string name="name" value="Increases Magic Attack Rate."/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022361">
+		<string name="name" value="Increases Physical Defense Rate."/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022362">
+		<string name="name" value="Increases Magic Defense Rate."/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022363">
+		<string name="name" value="Increases Accuracy"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022364">
+		<string name="name" value="Increases Avoidability"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022365">
+		<string name="name" value="Increases Speed"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022366">
+		<string name="name" value="Increases Max HP"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022367">
+		<string name="name" value="Increases Max MP"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022368">
+		<string name="name" value="Increases Physical Attack Rate"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022369">
+		<string name="name" value="Increases Magic Attack Rate"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022370">
+		<string name="name" value="Increases Physical Defense Rate"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022371">
+		<string name="name" value="Increases Magic Defense Rate"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022372">
+		<string name="name" value="Increases Accuracy"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022373">
+		<string name="name" value="Increases Avoidability"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022374">
+		<string name="name" value="Increases Speed"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022375">
+		<string name="name" value="Increases MaxHP"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022376">
+		<string name="name" value="Increases Max MP"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+    <imgdir name="2022377">
+		<string name="name" value="Increases Physical Attack Rate"/>
+		<string name="desc" value="An item that only works inside Mu Lung Dojo."/>
+	</imgdir>
+</imgdir>

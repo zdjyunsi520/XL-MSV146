@@ -1,0 +1,7 @@
+<imgdir name="24120002">
+        <string name="name" value="黑卡" />
+        <string name="desc" value="每次暴击攻击有几率生成一张卡牌，自动攻击附近的敌人。#c这张卡牌会加入你的卡组。#\n同时永久提升回避率。" />
+        <string name="h" value="暴击成功时，以#prop%的几率生成卡牌，伤害：#damage%，#c卡组+1#\n额外回避率+#subProp%" />
+        <string name="pdesc" value="每次暴击攻击有几率生成一张卡牌，自动攻击附近的敌人。#c这张卡牌会加入你的卡组。#\n同时永久提升回避率。" />
+        <string name="ph" value="暴击成功时，以#prop%的几率生成卡牌，伤害：#damage%，#c卡组+1#\n额外回避率+#subProp%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2700400">
+		<string name="name" value="Rank-6 Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. Better than the Rank-7 version.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2700500">
+		<string name="name" value="Rank-5 Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. Better than the Rank-6 version.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2700600">
+		<string name="name" value="Rank-4 Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. Better than the Rank-5 version.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2700700">
+		<string name="name" value="Rank-3 Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. Better than the Rank-4 version.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2700800">
+		<string name="name" value="Rank-2 Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. Better than the Rank-3 version.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2700900">
+		<string name="name" value="Special Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. A Circulator better than this once has yet to be discovered.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2701000">
+		<string name="name" value="Ultimate Circulator"/>
+		<string name="desc" value="Ancient technology that possesses the mysterious power to change one's Inner Ability. The bottommost Inner Ability will only be reset to S-Rank.\n#cDouble-click# to reset Inner Ability."/>
+	</imgdir>
+    <imgdir name="2702000">
+		<string name="name" value="Ability Circulator"/>
+		<string name="desc" value="#cDouble-click# to reset your character's Ability. May increase or decrease existing stats. \n#cCannot be used on Legendary Items \nMax Result: Unique#"/>
+	</imgdir>
+    <imgdir name="2702001">
+		<string name="name" value="Ability Circulator"/>
+		<string name="desc" value="#cDouble-click# to reset your character's Ability. May increase or decrease existing stats. \n#cCannot be used on Legendary Items \nMax Result: Unique#"/>
+	</imgdir>
+    <imgdir name="2800000">
+		<string name="name" value="Bast's Eye"/>
+		<string name="desc" value="Damage +10%"/>
+	</imgdir>
+    <imgdir name="2800001">
+		<string name="name" value="Sebek's Eye"/>
+		<string name="desc" value="Damage +5%\n10% chance of slowing target"/>
+	</imgdir>
+    <imgdir name="2800002">
+		<string name="name" value="Nephthys's Eye"/>
+		<string name="desc" value="Damage 30%"/>
+	</imgdir>
+    <imgdir name="2800003">
+		<string name="name" value="Nefer's Eye"/>
+		<string name="desc" value="Damage +15%\n10% chance of additional damage"/>
+	</imgdir>
+    <imgdir name="2800004">
+		<string name="name" value="Ptah's Eye"/>
+		<string name="desc" value="Damage +15%\n10% chance of fire damage over time"/>
+	</imgdir>
+    <imgdir name="2800005">
+		<string name="name" value="Atum's Eye"/>
+		<string name="desc" value="Damage 100%"/>
+	</imgdir>
+    <imgdir name="2800006">
+		<string name="name" value="Nut's Eye"/>
+		<string name="desc" value="Damage +50%\n20% chance of slowing target"/>
+	</imgdir>
+    <imgdir name="2800007">
+		<string name="name" value="Geb's Eye"/>
+		<string name="desc" value="Damage +50%\n10% chance of stunning target"/>
+	</imgdir>
+    <imgdir name="2800008">
+		<string name="name" value="Hathor's Eye"/>
+		<string name="desc" value="Damage +300%"/>
+	</imgdir>
+    <imgdir name="2800009">
+		<string name="name" value="Seth's Eye"/>
+		<string name="desc" value="Damage +150%\n20% chance of additional damage"/>
+	</imgdir>
+    <imgdir name="2800010">
+		<string name="name" value="Maat's Eye"/>
+		<string name="desc" value="Damage +150%\n20% chance of fire damage over time"/>
+	</imgdir>
+</imgdir>

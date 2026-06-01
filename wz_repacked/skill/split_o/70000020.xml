@@ -1,0 +1,5 @@
+<imgdir name="70000020">
+        <string name="name" value="Avoidability to HP Conversion" />
+        <string name="desc" value="Increases Max HP in proportion to Avoidability." />
+        <string name="h" value="#eva2hp% of Avoidability added to Max HP" />
+    </imgdir>

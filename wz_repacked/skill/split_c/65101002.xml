@@ -1,0 +1,5 @@
+<imgdir name="65101002">
+        <string name="name" value="力量转移" />
+        <string name="desc" value="生成一个护盾，吸收敌人造成的部分伤害。" />
+        <string name="h" value="Duration: #time sec, Damage Absorbed: #y%, Damage Reduced with Shield: #x%" />
+    </imgdir>

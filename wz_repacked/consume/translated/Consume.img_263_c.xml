@@ -1,0 +1,85 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388009">
+		<string name="name" value="九尾狐卡"/>
+		<string name="desc" value="以九尾狐为主题的卡片。\n#c在韩林村落附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388010">
+		<string name="name" value="Tae Roon卡"/>
+		<string name="desc" value="以Tae Roon为主题的卡片。\n#c在天空森林附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388011">
+		<string name="name" value="海盗王卡"/>
+		<string name="desc" value="以海盗王为主题的卡片。\n#c在药草城附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388012">
+		<string name="name" value="精灵王卡"/>
+		<string name="desc" value="以精灵王为主题的卡片。\n#c在浮云之森附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388013">
+		<string name="name" value="国王贤猫卡"/>
+		<string name="desc" value="以国王贤猫为主题的卡片。\n#c在桃园附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388014">
+		<string name="name" value="科学怪人卡"/>
+		<string name="desc" value="以科学怪人为主题的卡片。\n#c在玛加提亚附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388015">
+		<string name="name" value="艾莉嘉卡"/>
+		<string name="desc" value="以艾莉嘉为主题的卡片。\n#c在奥里西斯花园附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388016">
+		<string name="name" value="雪人卡"/>
+		<string name="desc" value="以雪人为主题的卡片。\n#c在雪原附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388017">
+		<string name="name" value="深红贝罗斯卡"/>
+		<string name="desc" value="以深红贝罗斯为主题的卡片。\n#c在艾尔尼斯特/奥里西斯狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388018">
+		<string name="name" value="马换个卡"/>
+		<string name="desc" value="以马换个为主题的卡片。\n#c在龙森林狩猎时金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388019">
+		<string name="name" value="格力风卡"/>
+		<string name="desc" value="以格力风为主题的卡片。\n#c在龙森林狩猎时道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388020">
+		<string name="name" value="品亚斯卡"/>
+		<string name="desc" value="以品亚斯为主题的卡片。\n#c在海底附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388022">
+		<string name="name" value="帕普拉图斯卡"/>
+		<string name="desc" value="以帕普拉图斯为主题的卡片。\n#c在钟楼的下层狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388023">
+		<string name="name" value="扎昆卡"/>
+		<string name="desc" value="以扎昆为主题的卡片。\n#c在死路附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388024">
+		<string name="name" value="闹钟王卡"/>
+		<string name="desc" value="以闹钟王为主题的卡片。\n#c在米纳尔森林附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388025">
+		<string name="name" value="树桩卡"/>
+		<string name="desc" value="以树桩为主题的卡片#c在培特里翁附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388026">
+		<string name="name" value="小火龙卡"/>
+		<string name="desc" value="以小火龙为主题的卡片。\n#c在沉睡森林附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+    <imgdir name="2388027">
+		<string name="name" value="鲁道夫卡"/>
+		<string name="desc" value="以圣诞老人最喜欢的鲁道夫为主题的卡片。"/>
+		<imgdir name="2390001">
+			<string name="name" value="雅典娜彼亚斯的弹珠"/>
+			<string name="desc" value="雅典娜彼亚斯给的弹珠。使用它可以随时和她交流。此道具只能使用一次..."/>
+		</imgdir>
+    <imgdir name="2388028">
+		<string name="name" value="小雪人卡"/>
+		<string name="desc" value="以小捣蛋鬼小雪人为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2388029">
+		<string name="name" value="Deo卡"/>
+		<string name="desc" value="以Deo为主题的卡片。\n#c在沙漠附近狩猎时道具/金币掉率增加#"/>
+	</imgdir>
+</imgdir>

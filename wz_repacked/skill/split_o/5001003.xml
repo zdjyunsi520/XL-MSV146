@@ -1,0 +1,7 @@
+<imgdir name="5001003">
+        <string name="name" value="Double Shot" />
+        <string name="desc" value="Fires two consecutive shots at the enemy." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Range: #range" />
+        <string name="pdesc" value="Fires two consecutive shots at the enemy." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Range: #range" />
+    </imgdir>

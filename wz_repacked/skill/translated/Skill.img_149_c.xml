@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="80001036"><string name="name" value="美德祝福"/><string name="desc" value="使用美德之石中的力量，提升攻击力/魔法攻击力40点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升40。移动速度和跳跃力提升至最大值。"/></imgdir>
+    <imgdir name="80001037"><string name="name" value="巨熊"/><string name="desc" value="[最高等级：1]\n可以骑乘巨熊。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001038"><string name="name" value="疾速Cygnus骑士战车"/><string name="desc" value="[最高等级：1]\n可以骑乘更快的Cygnus骑士战车。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：170%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001039"><string name="name" value="独角兽坐骑"/><string name="desc" value="[最高等级：1]\n可以骑乘独角兽。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001040"><string name="name" value="精灵祝福"/><string name="desc" value="[链接技能] 利用精灵传说的力量，将你传送回埃卢埃尔，并祝福你获得额外经验。"/><string name="h" value="返回埃卢埃尔（冷却时间：#cooltime秒）\n额外效果：永久获得#expR%额外经验"/></imgdir>
+    <imgdir name="80001041"><string name="name" value="大刚毅"/><string name="desc" value="借助大刚毅之力，提升攻击力/魔法攻击力20点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升20。移动速度和跳跃力提升至最大值。"/></imgdir>
+    <imgdir name="80001042"><string name="name" value="大刚毅"/><string name="desc" value="借助大刚毅之力，提升攻击力/魔法攻击力30点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升30。移动速度和跳跃力提升至最大值。"/></imgdir>
+    <imgdir name="80001043"><string name="name" value="大刚毅"/><string name="desc" value="借助大刚毅之力，提升攻击力/魔法攻击力30点，并将移动速度/跳跃力提升至最大值，持续1小时。增益效果期间量表不会增长。\n#c可与其他增益叠加。#"/><string name="h1" value="武器和魔法攻击力提升40。移动速度和跳跃力提升至最大值。"/></imgdir>
+    <imgdir name="80001044"><string name="name" value="兔子坐骑"/><string name="desc" value="[最高等级：1]\n可以跳进兔子的背包里。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001045"><string name="name" value="雄狮"/><string name="desc" value="[最高等级：1]\n可以骑乘雄狮四处旅行。"/><string name="h1" value="消耗10MP，武器/魔法防御力+10，移动速度140，跳跃力120"/></imgdir>
+    <imgdir name="80001046"><string name="name" value="独角兽"/><string name="desc" value="[最高等级：1]\n可以骑乘独角兽四处旅行。"/><string name="h1" value="消耗10MP，武器/魔法防御力+10，移动速度170，跳跃力120"/></imgdir>
+    <imgdir name="80001047"><string name="name" value="低底盘机车"/><string name="desc" value="[最高等级：1]\n可以骑乘低底盘机车四处旅行。"/><string name="h1" value="消耗10MP，武器/魔法防御力+10，移动速度140，跳跃力120"/></imgdir>
+    <imgdir name="80001048"><string name="name" value="红色卡车"/><string name="desc" value="[最高等级：1]\n可以骑乘红色卡车四处旅行。"/><string name="h1" value="消耗10MP，武器/魔法防御力+10，移动速度140，跳跃力120"/></imgdir>
+    <imgdir name="80001049"><string name="name" value="石像鬼"/><string name="desc" value="[最高等级：1]\n可以骑乘石像鬼四处旅行。"/><string name="h1" value="消耗10MP，武器/魔法防御力+10，移动速度140，跳跃力120"/></imgdir>
+    <imgdir name="80001050"><string name="name" value="小鸡"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001051"><string name="name" value="猫头鹰"/><string name="desc" value="[最高等级：1]\n可以骑乘猫头鹰。"/><string name="h1" value="MP-10，武器/魔法攻击力+10，移动速度180，跳跃力120"/></imgdir>
+    <imgdir name="80001052"><string name="name" value="母舰"/><string name="desc" value="[最高等级：1]\n可以骑乘母舰。"/><string name="h1" value="MP-10，武器/魔法攻击力+10，移动速度180，跳跃力120"/></imgdir>
+    <imgdir name="80001053"><string name="name" value="OS3A机甲"/><string name="desc" value="[最高等级：1]\n可以骑乘OS3A机甲。"/><string name="h1" value="MP-10，武器/魔法攻击力+10，移动速度180，跳跃力120"/></imgdir>
+    <imgdir name="80001054"><string name="name" value="巨型兔子"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="80001055"><string name="name" value="小兔子"/><string name="desc" value="[最高等级：1]\n可以骑乘坐骑四处旅行。"/><string name="h1" value="MP消耗：10，武器/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+</imgdir>

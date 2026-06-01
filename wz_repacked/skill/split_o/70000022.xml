@@ -1,0 +1,5 @@
+<imgdir name="70000022">
+        <string name="name" value="DEX to STR Conversion" />
+        <string name="desc" value="Increases STR in proportion to AP assigned to DEX." />
+        <string name="h" value="#dex2str% of AP assigned to DEX added to STR" />
+    </imgdir>

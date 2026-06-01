@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="405">
+			<string name="title" value="5. The Master of Disguise" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="With your latest lead, you finally felt like you were putting together the pieces to the puzzle." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="Sugar, Tess, Rondo, and Olive met you at the El Nath Crystal Passageway to pursue the Master of Disguise." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="While there, Rondo overheard some Black Wings saying that their leaders were collecting Seal Stones, though they weren't sure why." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="With Sugar's help, you managed to defeat the Master of Disguise! You returned the Seal Stone to Athena Pierce, in person this time." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="Everything worked out in the end, but the questions lingered." />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="What were the Seal Stones? What was the Black Wings' ultimate goal?" />
+				</imgdir>
+				<imgdir name="6">
+					<string name="text" value="And most importantly of all, was the Black Mage directly involved in all of this?" />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="13111004">
+        <string name="name" value="木偶" />
+        <string name="desc" value="召唤一个木偶（分身），持续一定时间。木偶出现后，怪物会转而攻击木偶而不再攻击你。" />
+        <string name="h" value="MP消耗：#mpCon，木偶HP：#x，持续时间：#time秒" />
+    </imgdir>

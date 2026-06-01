@@ -1,0 +1,5 @@
+<imgdir name="101000200">
+        <string name="name" value="穿透刺击" />
+        <string name="desc" value="用长剑向前刺出，以剑尖击退敌人。\n[前置技能]: #c月光斩 Lv. 1#\n[指令]: 月光斩激活时再次使用#c月光斩#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

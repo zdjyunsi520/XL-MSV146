@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="72000039"><string name="name" value="Timer Power"/><string name="desc" value="Intelligence increased"/></imgdir>
+    <imgdir name="72000040"><string name="name" value="Aufheben Power"/><string name="desc" value="Farm building production increased"/></imgdir>
+    <imgdir name="72000041"><string name="name" value="Gatekeeper Nex Power"/><string name="desc" value="Final Attack skill damage +%"/></imgdir>
+    <imgdir name="72000042"><string name="name" value="Crimson Balrog Power"/><string name="desc" value="Enemy attacks have a 5% chance to trigger temporary invincibility"/></imgdir>
+    <imgdir name="72000043"><string name="name" value="Jr. Balrog Power"/><string name="desc" value="Invincibility duration increased when attacked"/></imgdir>
+    <imgdir name="72000044"><string name="name" value="Shinsoo Power"/><string name="desc" value="Attacks have a 10% chance to regain HP and MP"/></imgdir>
+    <imgdir name="72000045"><string name="name" value="Oberon Power"/><string name="desc" value="All stats increased"/></imgdir>
+    <imgdir name="72000046"><string name="name" value="Pink Bean Power"/><string name="desc" value="Total damage +%"/></imgdir>
+    <imgdir name="72000047"><string name="name" value="Mu Gong&apos;s Shadow Power"/><string name="desc" value="ATT 1"/></imgdir>
+    <imgdir name="72000048"><string name="name" value="Papulatus Clock Power"/><string name="desc" value="All stats increased"/></imgdir>
+    <imgdir name="72000049"><string name="name" value="Ephenia Power"/><string name="desc" value="Magic Attack Increase"/></imgdir>
+    <imgdir name="72000050"><string name="name" value="Pipsqueak Zakum Power"/><string name="desc" value="Adds a % chance to Guard enemy attacks"/></imgdir>
+    <imgdir name="72000051"><string name="name" value="Pipsqueak Von Leon Power"/><string name="desc" value="Boss ATT +%"/></imgdir>
+    <imgdir name="72000052"><string name="name" value="Pipsqueak Horntail Power"/><string name="desc" value="Critical Rate +%"/></imgdir>
+    <imgdir name="72000053"><string name="name" value="Pipsqueak Cygnus Power"/><string name="desc" value="Total damage +%"/></imgdir>
+    <imgdir name="72000054"><string name="name" value="Pipsqueak Magnus Power"/><string name="desc" value="Monster DEF Ignored +%"/></imgdir>
+    <imgdir name="72000055"><string name="name" value="Pipsqueak Hilla Power"/><string name="desc" value="Minimum Critical damage +%"/></imgdir>
+    <imgdir name="72000056"><string name="name" value="Pipsqueak Arkarium Power"/><string name="desc" value="Buff skill duration +%"/></imgdir>
+    <imgdir name="72000057"><string name="name" value="Pipsqueak Orchid Power"/><string name="desc" value="Character EXP reward +%"/></imgdir>
+    <imgdir name="80000056"><string name="name" value="Lv. 1 Eucalyptus Calypso"/><string name="desc" value="Leaf chompers unite! Increases Weapon Attack and Magic Attack by 3."/><string name="h" value="#Weapon ATT: +#padX, Magic ATT: +#madX"/></imgdir>
+</imgdir>

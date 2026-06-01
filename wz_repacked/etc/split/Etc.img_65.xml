@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4005004">
+			<string name="name" value="Dark Crystal"/>
+			<string name="desc" value="A mysterious crystal that holds great darkness. Used for level 9 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4006000">
+			<string name="name" value="The Magic Rock"/>
+			<string name="desc" value="A mythical rock with the power of magic in it. Used with high-leveled skills."/>
+		</imgdir>
+    <imgdir name="4006001">
+			<string name="name" value="The Summoning Rock"/>
+			<string name="desc" value="A mythical rock with the power of summoning in it. Used with high-leveled skills."/>
+		</imgdir>
+    <imgdir name="4007000">
+			<string name="name" value="Magic Powder (Brown)"/>
+			<string name="desc" value="A brown magic powder used for level 4 crafting."/>
+		</imgdir>
+    <imgdir name="4007001">
+			<string name="name" value="Magic Powder (White)"/>
+			<string name="desc" value="A white magic powder used for level 7 crafting."/>
+		</imgdir>
+    <imgdir name="4007002">
+			<string name="name" value="Magic Powder (Blue)"/>
+			<string name="desc" value="A blue magic powder used for level 3 crafting."/>
+		</imgdir>
+    <imgdir name="4007003">
+			<string name="name" value="Magic Powder (Green)"/>
+			<string name="desc" value="A green magic powder used for level 5 crafting."/>
+		</imgdir>
+    <imgdir name="4007004">
+			<string name="name" value="Magic Powder (Yellow)"/>
+			<string name="desc" value="A yellow magic powder used for level 6 crafting."/>
+		</imgdir>
+    <imgdir name="4007005">
+			<string name="name" value="Magic Powder (Purple)"/>
+			<string name="desc" value="A purple magic powder used for level 10 crafting."/>
+		</imgdir>
+    <imgdir name="4007006">
+			<string name="name" value="Magic Powder (Red)"/>
+			<string name="desc" value="A red magic powder used for level 8 crafting."/>
+		</imgdir>
+    <imgdir name="4007007">
+			<string name="name" value="Magic Powder (Black)"/>
+			<string name="desc" value="A black magic powder used for level 9 crafting."/>
+		</imgdir>
+    <imgdir name="4008000">
+			<string name="name" value="Mighty Jewel Powder"/>
+			<string name="desc" value="Strength-infused powdered jewels. Collect several to exchange for a Magical Jewel Box."/>
+		</imgdir>
+    <imgdir name="4008001">
+			<string name="name" value="Lucky Jewel Powder"/>
+			<string name="desc" value="Luck-infused powdered jewels. Collect several to exchange for a Magical Jewel Box."/>
+		</imgdir>
+    <imgdir name="4008002">
+			<string name="name" value="Keen Jewel Powder"/>
+			<string name="desc" value="Wisdom-infused powdered jewels. Collect several to exchange for a Magical Jewel Box."/>
+		</imgdir>
+    <imgdir name="4008003">
+			<string name="name" value="Nimble Jewel Powder"/>
+			<string name="desc" value="Dexterity-infused powdered jewels. Collect several to exchange for a Magical Jewel Box."/>
+		</imgdir>
+    <imgdir name="4009053">
+			<string name="name" value="Futuroid Part 1"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4009054">
+			<string name="name" value="Futuroid Part 2"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4009055">
+			<string name="name" value="Futuroid Part 3"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4009056">
+			<string name="name" value="Futuroid Part 4"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4009057">
+			<string name="name" value="Futuroid Part 5"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+</imgdir>

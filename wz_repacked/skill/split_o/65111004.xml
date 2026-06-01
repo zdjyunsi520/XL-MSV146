@@ -1,0 +1,5 @@
+<imgdir name="65111004">
+        <string name="name" value="Iron Blossom" />
+        <string name="desc" value="Withstands enemy attacks with iron-like will." />
+        <string name="h" value="Duration: #time sec, Power Stance Chance: #prop%. Effect doubled when Power Transfer Shield is up." />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="60001217">
+        <string name="name" value="Realign: Attacker Mode" />
+        <string name="desc" value="Switches from defensive to offensive mode. Passive enhancements increase at higher Job Advancements. Skill enhancements stack." />
+        <string name="h" value="Attack: + #padX, Crit Chance: +#cr%, Damage Against Bosses: +#bdR%" />
+    </imgdir>

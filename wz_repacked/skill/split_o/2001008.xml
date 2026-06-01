@@ -1,0 +1,7 @@
+<imgdir name="2001008">
+        <string name="name" value="Energy Bolt" />
+        <string name="desc" value="Consumes MP to fire a condensed energy bolt that explodes on contact with an enemy." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Consumes MP to fire a condensed energy bolt that explodes on contact with an enemy." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

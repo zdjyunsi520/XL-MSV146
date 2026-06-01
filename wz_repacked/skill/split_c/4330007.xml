@@ -1,0 +1,7 @@
+<imgdir name="4330007">
+        <string name="name" value="生命汲取" />
+        <string name="desc" value="攻击时有几率恢复HP。恢复量不能超过最大HP的20%。" />
+        <string name="h" value="Proc Chance: #prop%, Restores #x% of the damage as HP" />
+        <string name="pdesc" value="攻击时有几率恢复HP。恢复量不能超过最大HP的20%。" />
+        <string name="ph" value="Proc Chance: #prop%, Restores #x% of the damage as HP" />
+    </imgdir>

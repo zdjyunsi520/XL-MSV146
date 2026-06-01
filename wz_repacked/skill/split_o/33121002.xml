@@ -1,0 +1,8 @@
+<imgdir name="33121002">
+        <string name="name" value="Sonic Roar" />
+        <string name="desc" value="The Jaguar roars sharply. The roar creates a shock wave that damages and stuns multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Stun: #prop%, Duration: #time sec" />
+        <string name="pdesc" value="The Jaguar roars sharply. The roar creates a shockwave that damages and stuns multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
+    </imgdir>

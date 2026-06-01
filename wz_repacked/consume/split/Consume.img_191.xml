@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290126">
+		<string name="name" value="[Mastery Book] Overswing 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cOverswing# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290127">
+		<string name="name" value="[Mastery Book] Overswing 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cOverswing# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290128">
+		<string name="name" value="[Mastery Book] High Mastery 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cHigh Mastery# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290129">
+		<string name="name" value="[Mastery Book]High Mastery 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cHigh Mastery# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290130">
+		<string name="name" value="[Mastery Book] Freeze Standing 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cFreeze Standing# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290131">
+		<string name="name" value="[Mastery Book] Freeze Standing 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cFreeze Standing# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290132">
+		<string name="name" value="[Mastery Book] Final Blow 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cFinal Blow# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290133">
+		<string name="name" value="[Mastery Book] Final Blow 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cFinal Blow# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290134">
+		<string name="name" value="[Mastery Book] High Defense 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cHigh Defense# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290135">
+		<string name="name" value="[Mastery Book] High Defense 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cHigh Defense# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290136">
+		<string name="name" value="[Mastery Book] Combo Tempest 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cCombo Tempest# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290137">
+		<string name="name" value="[Mastery Book] Combo Tempest 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cCombo Tempest# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290138">
+		<string name="name" value="[Mastery Book] Combo Barrier 20"/>
+		<string name="desc" value="With a 70% success rate, raises the Mastery Level of #cCombo Barrier# to 20.\nJob: Aran\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290139">
+		<string name="name" value="[Mastery Book] Combo Barrier 30"/>
+		<string name="desc" value="With a 50% success rate, raises the Mastery Level of #cCombo Barrier# to 30.\nJob: Aran\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290140">
+		<string name="name" value="[Mastery Book] Illusion 20"/>
+		<string name="desc" value="This book grants a 70% chance to raise the Mastery Level of #cIllusion# to 20.\nJob: Evan\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290141">
+		<string name="name" value="[Mastery Book] Illusion 30"/>
+		<string name="desc" value="This book grants a 50% change to raise the Mastery Level of #cIllusion# to 30.\nJob: Evan\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290142">
+		<string name="name" value="[Mastery Book] Flame Wheel 20"/>
+		<string name="desc" value="This book grants a 70% chance to raise the Mastery Level of #cFlame Wheel# to 20.\nJob: Evan\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290143">
+		<string name="name" value="[Mastery Book] Flame Wheel 30"/>
+		<string name="desc" value="This book grants a 50% chance to raise the Mastery Level of #cFlame Wheel# to 30.\nJob: Evan\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+    <imgdir name="2290144">
+		<string name="name" value="[Mastery Book] Magic Mastery 20"/>
+		<string name="desc" value="This book grants a 70% chance to raise the Mastery Level of #cMagic Mastery# to 20.\nJob: Evan\nCondition: Min Skill Lv. 5"/>
+	</imgdir>
+    <imgdir name="2290145">
+		<string name="name" value="[Mastery Book] Magic Mastery 30"/>
+		<string name="desc" value="This book grants a 50% chance to raise the Mastery Level of #cMagic Mastery# to 30.\nJob: Evan\nCondition: Min Skill Lv. 15"/>
+	</imgdir>
+</imgdir>

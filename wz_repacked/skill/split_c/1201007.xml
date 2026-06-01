@@ -1,0 +1,8 @@
+<imgdir name="1201007">
+        <string name="name" value="伤害反射" />
+        <string name="desc" value="在一定时间内，吸收部分受到的伤害，放大后反射给敌人。一次反射的伤害不能超过敌人最大HP的一半。\n前置技能：#c威吓 Lv.3#" />
+        <string name="h" value="MP Cost: #mpCon, for #time seconds, #x% of received damage is absorbed and amplifed by #y% before being returned to the enemy." />
+        <string name="pdesc" value="在一定时间内，吸收部分受到的伤害，放大后反射给敌人。一次反射的伤害不能超过敌人最大HP的一半。\n前置技能：#c威吓 Lv.3#" />
+        <string name="ph" value="MP Cost: #mpCon, for #time seconds, #x% of received damage is absorbed and amplifed by #y% before being returned to the enemy." />
+        <string name="hch" value="MP Cost: #mpCon, Portion of Damage Absorbed: #x%, Duration: #hcTime sec, Chance to Reflect #hcReflect% Damage: #hcProp%.\nCooldown: #hcCooltime sec" />
+    </imgdir>

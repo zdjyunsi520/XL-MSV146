@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="240030200">
+			<imgdir name="0">
+				<string name="Title" value="Dragon Forest III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Dragon Forest I"/>
+			</imgdir>
+    <imgdir name="240030300">
+			<imgdir name="0">
+				<string name="Title" value="Dragon Forest II"/>
+			</imgdir>
+    <imgdir name="240040000">
+			<imgdir name="0">
+				<string name="Title" value="Dragon Forest III"/>
+			</imgdir>
+    <imgdir name="240040100">
+			<imgdir name="0">
+				<string name="Title" value="Dragon Canyon"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Path of Canyon"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="West Path of Canyon"/>
+			</imgdir>
+    <imgdir name="240040400">
+			<imgdir name="0">
+				<string name="Title" value="West Path of Canyon"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Path of Canyon"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Entrance to Dragon Nest"/>
+			</imgdir>
+    <imgdir name="240040500">
+			<imgdir name="0">
+				<string name="Title" value="The Destroyed Dragon Nest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Dead Dragon Nest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Wyvern Canyon"/>
+			</imgdir>
+    <imgdir name="240040600">
+			<imgdir name="0">
+				<string name="Title" value="The Dragon Nest Left Behind"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Entrance to Cave of Life"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Dangerous Dragon Nest"/>
+			</imgdir>
+    <imgdir name="250000000">
+			<imgdir name="0">
+				<string name="Title" value="World Tour Info Desk"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Mu Lung Hair Salon"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Mu Lung Plastic Surgery"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Armor Shop"/>
+			</imgdir>
+</imgdir>

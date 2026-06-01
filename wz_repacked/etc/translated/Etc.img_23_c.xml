@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000502">
+			<string name="name" value="破坏的头盔"/>
+			<string name="desc" value="头盔佩佩戴的已破坏的头盔"/>
+		</imgdir>
+    <imgdir name="4000503">
+			<string name="name" value="断矛"/>
+			<string name="desc" value="皇家守卫佩佩使用的矛"/>
+		</imgdir>
+    <imgdir name="4000504">
+			<string name="name" value="灰雪人首领角"/>
+			<string name="desc" value="灰雪人的角，佩佩国王的首席安保成员之一"/>
+		</imgdir>
+    <imgdir name="4000505">
+			<string name="name" value="白雪人首领角"/>
+			<string name="desc" value="白雪人的角，佩佩国王的首席安保成员之一"/>
+		</imgdir>
+    <imgdir name="4000506">
+			<string name="name" value="金雪人首领角"/>
+			<string name="desc" value="金雪人的角，佩佩国王的首席安保成员之一"/>
+		</imgdir>
+    <imgdir name="4000507">
+			<string name="name" value="毒孢子"/>
+			<string name="desc" value="毒蘑菇掉落的强力毒孢子。它可以穿透一次魔法孢子屏障"/>
+		</imgdir>
+    <imgdir name="4000508">
+			<string name="name" value="米沃克神器"/>
+			<string name="desc" value="米沃克部落封印宝藏的神器。在商城购买魔法卷轴以解除封印并取回宝藏，然后将其交给NPC托赫寻宝者"/>
+		</imgdir>
+    <imgdir name="4000509">
+			<string name="name" value="智者的老树枝"/>
+			<string name="desc" value="米沃克部落智者用来预测未来的老树枝。科普伊寻宝者说她可以用树枝制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000510">
+			<string name="name" value="智者的蓝松鸦羽毛"/>
+			<string name="desc" value="米沃克部落智者用来预测未来的蓝松鸦羽毛。科普伊寻宝者说她可以用羽毛制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000511">
+			<string name="name" value="智者的红鸟羽毛"/>
+			<string name="desc" value="米沃克部落智者用来预测未来的红鸟羽毛。科普伊寻宝者说她可以用羽毛制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000512">
+			<string name="name" value="勇者的猫眼"/>
+			<string name="desc" value="米沃克部落勇者在战斗中装备的猫眼。科普伊寻宝者说她可以用猫眼制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000513">
+			<string name="name" value="勇者的牛角"/>
+			<string name="desc" value="米沃克部落勇者在战斗中装备的牛角。科普伊寻宝者说她可以用牛角制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000514">
+			<string name="name" value="勇者的美洲狮骨头"/>
+			<string name="desc" value="米沃克部落勇者在战斗中装备的美洲狮骨头。科普伊寻宝者说她可以用美洲狮骨头制作传奇戒指"/>
+		</imgdir>
+    <imgdir name="4000515">
+			<string name="name" value="阿拉米亚的书"/>
+			<string name="desc" value="阿拉米亚的书 - 驱动之书"/>
+		</imgdir>
+    <imgdir name="4000517">
+			<string name="name" value="索菲亚最喜欢的娃娃"/>
+			<string name="desc" value="索菲亚最喜欢的娃娃"/>
+		</imgdir>
+    <imgdir name="4000518">
+			<string name="name" value="鬼屋金钥匙"/>
+			<string name="desc" value="看起来可以打开鬼屋内部门的钥匙"/>
+		</imgdir>
+    <imgdir name="4000519">
+			<string name="name" value="鬼屋银钥匙"/>
+			<string name="desc" value="看起来可以打开鬼屋内部门的钥匙"/>
+		</imgdir>
+    <imgdir name="4000520">
+			<string name="name" value="鬼屋铜钥匙"/>
+			<string name="desc" value="看起来可以打开鬼屋内部门的钥匙"/>
+		</imgdir>
+    <imgdir name="4000521">
+			<string name="name" value="奥利维亚的娃娃"/>
+			<string name="desc" value="在秘密房间击败奥利维亚获得的奥利维亚娃娃"/>
+		</imgdir>
+    <imgdir name="4000522">
+			<string name="name" value="被诅咒的蛙卵"/>
+			<string name="desc" value="被黑魔法诅咒的蛙卵。也被用作女巫玛拉迪烹饪的原料"/>
+		</imgdir>
+</imgdir>

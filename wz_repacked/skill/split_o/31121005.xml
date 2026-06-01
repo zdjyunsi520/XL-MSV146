@@ -1,0 +1,7 @@
+<imgdir name="31121005">
+        <string name="name" value="Dark Metamorphosis" />
+        <string name="desc" value="Unleashes 2 beings of spectral shadow to join you and attack anything in sight. The spirit channel also provides you and increase to damage and HP for a short period of time." />
+        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, Damage: #damR% for  #time sec, Max HP Increase: #indieMhpR%, Automatically attack nearby enemies to deal #damage% damage.\nCooldown: #cooltime sec." />
+        <string name="pdesc" value="Unleashes 2 beings of spectral shadow to join you and attack anything in sight. The spirit channel also provides you and increase to damage and HP for a short period of time." />
+        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, Damage: #damR% for  #time sec, Max HP Increase: #indieMhpR%, Automatically attack nearby enemies to deal #damage% damage.\nCooldown: #cooltime sec." />
+    </imgdir>

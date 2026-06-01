@@ -1,0 +1,7 @@
+<imgdir name="5111006">
+        <string name="name" value="冲击波" />
+        <string name="desc" value "猛击地面产生冲击波，伤害多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="猛击地面产生冲击波，伤害多个敌人！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

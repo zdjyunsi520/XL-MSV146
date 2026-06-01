@@ -1,0 +1,5 @@
+<imgdir name="112000010">
+        <string name="name" value="天生好运" />
+        <string name="desc" value="在熊之模式下提升站率和防御力。" />
+        <string name="h" value="被动效果: 站率 +#prop%, 防御力: +#pddX" />
+    </imgdir>

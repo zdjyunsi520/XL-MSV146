@@ -1,0 +1,5 @@
+<imgdir name="42121001">
+        <string name="name" value="大蛇" />
+        <string name="desc" value="召唤大蛇攻击最多15个敌人。" />
+        <string name="h" value="精气消耗：#epCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount\n冷却时间：#cooltime秒" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022624">
+		<string name="name" value="血腥蘑菇酒"/>
+		<string name="desc" value="女巫用受诅咒的猫唾液制成的无酒精酒。饮用恢复200 MP。"/>
+	</imgdir>
+    <imgdir name="2022625">
+		<string name="name" value="黏滑开胃菜"/>
+		<string name="desc" value="女巫为你做的毛骨悚然的黏滑开胃菜。物理攻击和物理防御+15，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022626">
+		<string name="name" value="刺激烤肉串"/>
+		<string name="desc" value="女巫为你做的味道可疑的锐利烤肉串。魔法攻击和魔法防御+15，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022627">
+		<string name="name" value="沼泽卷"/>
+		<string name="desc" value="女巫的卷饼菜肴，每一口都让嘴里充满沼泽的香气。物理攻击和物理防御+25，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022628">
+		<string name="name" value="粗糙皮革牛排"/>
+		<string name="desc" value="女巫为你精心烤制的粗糙皮革牛排。魔法攻击和魔法防御+25，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022629">
+		<string name="name" value="女巫的特殊炖菜"/>
+		<string name="desc" value="女巫散发酸味臭味的特殊炖菜。物理和魔法攻击+40、物理和魔法防御+100、速度和跳跃+15，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022631">
+		<string name="name" value="玫瑰香水"/>
+		<string name="desc" value="当你被芬芳的玫瑰香气包围时，你会感到奇怪的头痛，脚开始变得沉重。在香气消失之前去找拉娜。"/>
+	</imgdir>
+    <imgdir name="2022632">
+		<string name="name" value="小苍兰香水"/>
+		<string name="desc" value="当你被清爽的小苍兰香气包围时，你会感到奇怪的头痛，脚开始变得沉重。在香气消失之前去找拉娜。"/>
+	</imgdir>
+    <imgdir name="2022633">
+		<string name="name" value="薰衣草香水"/>
+		<string name="desc" value="当你被甜蜜的薰衣草香气包围时，你会感到奇怪的头痛，脚开始变得沉重。在香气消失之前去找拉娜。"/>
+	</imgdir>
+    <imgdir name="2022634">
+		<string name="name" value="火鸡腿"/>
+		<string name="desc" value="一只巨大的烤火鸡腿。它太大了，似乎需要一整天才能吃完。\n[物理攻击+30，持续3分钟]"/>
+	</imgdir>
+    <imgdir name="2022637">
+		<string name="name" value="龙的祝福"/>
+		<string name="desc" value="管理员的祝福...是龙的。武器攻击+5、魔法攻击+10、武器防御+200、魔法防御+200、移动速度+10，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022642">
+		<string name="name" value="圣诞祝福"/>
+		<string name="desc" value="包含圣诞节欢乐的祝福。攻击+5、魔法+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022652">
+		<string name="name" value="龙骑将的战士盒"/>
+		<string name="desc" value="龙骑将掉落的盒子。里面有战士武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022653">
+		<string name="name" value="龙骑将的魔法师盒"/>
+		<string name="desc" value="龙骑将掉落的盒子。里面有魔法师武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022654">
+		<string name="name" value="龙骑将的飞贼盒"/>
+		<string name="desc" value="龙骑将掉落的盒子。里面有飞贼武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022655">
+		<string name="name" value="龙骑将的弓箭手盒"/>
+		<string name="desc" value="龙骑将掉落的盒子。里面有弓箭手武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022656">
+		<string name="name" value="龙骑将的海盗盒"/>
+		<string name="desc" value="龙骑将掉落的盒子。里面有海盗武器。#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022657">
+		<string name="name" value="廉价吉他盒"/>
+		<string name="desc" value="一个廉价的吉他盒。双击打开。如果你没有打开并让它过期，它会变成一个昂贵吉他盒。"/>
+	</imgdir>
+    <imgdir name="2022658">
+		<string name="name" value="昂贵吉他盒"/>
+		<string name="desc" value="一个昂贵的吉他盒。双击打开。如果你没有打开并让它过期，它会变成一个传奇吉他盒。"/>
+	</imgdir>
+    <imgdir name="2022659">
+		<string name="name" value="传奇吉他盒"/>
+		<string name="desc" value="一个传奇吉他盒。双击打开。你应该在它过期消失之前打开。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,6 @@
+<imgdir name="3220018">
+        <string name="name" value="Vital Hunter" />
+        <string name="desc" value="The further you are from your enemy, the lower their defenses will be." />
+        <string name="h" value="#x% Defense ignored at minimum distance. Increases by #ignoreMobpdpR% per #range distance. Able to ignore up to #y%" />
+        <string name="pdesc" value="The further you are from your enemy, the lower their defenses will be." />
+    </imgdir>

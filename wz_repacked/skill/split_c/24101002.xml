@@ -1,0 +1,8 @@
+<imgdir name="24101002">
+        <string name="name" value="千刃卡牌" />
+        <string name="desc" value="发射狂风暴雨般的卡牌击退敌人。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击数：#mobCount，击退敌人" />
+        <string name="pdesc" value="发射狂风暴雨般的卡牌击退敌人。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击数：#mobCount，击退敌人" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击数：#mobCount，击退几率：#hcProp%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="70000047">
+        <string name="name" value="Attack Skill Target Increase" />
+        <string name="desc" value="Increases the number of enemies hit by multi-target skill." />
+        <string name="h" value="Number of enemies hit by multi-target skill +#targetPlus" />
+    </imgdir>

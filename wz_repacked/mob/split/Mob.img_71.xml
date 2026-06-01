@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400515">
+		<string name="name" value="Indigo Eye"/>
+	</imgdir>
+    <imgdir name="9400516">
+		<string name="name" value="Crystal Boar"/>
+	</imgdir>
+    <imgdir name="9400517">
+		<string name="name" value="Magik Fierry A"/>
+	</imgdir>
+    <imgdir name="9400518">
+		<string name="name" value="Magik Fierry B"/>
+	</imgdir>
+    <imgdir name="9400519">
+		<string name="name" value="G Slime"/>
+	</imgdir>
+    <imgdir name="9400520">
+		<string name="name" value="P Slime"/>
+	</imgdir>
+    <imgdir name="9400521">
+		<string name="name" value="O Slime"/>
+	</imgdir>
+    <imgdir name="9400522">
+		<string name="name" value="B Slime"/>
+	</imgdir>
+    <imgdir name="9400523">
+		<string name="name" value="Evil Eye GL"/>
+	</imgdir>
+    <imgdir name="9400524">
+		<string name="name" value="Curse Eye GL"/>
+	</imgdir>
+    <imgdir name="9400525">
+		<string name="name" value="Cold Eye GL"/>
+	</imgdir>
+    <imgdir name="9400526">
+		<string name="name" value="Fierry GL"/>
+	</imgdir>
+    <imgdir name="9400527">
+		<string name="name" value="Fire Boar GL"/>
+	</imgdir>
+    <imgdir name="9400528">
+		<string name="name" value="Sentinel GL"/>
+	</imgdir>
+    <imgdir name="9400529">
+		<string name="name" value="Ice Sentinel GL"/>
+	</imgdir>
+    <imgdir name="9400530">
+		<string name="name" value="Zombie Lupin GL"/>
+	</imgdir>
+    <imgdir name="9400531">
+		<string name="name" value="Toy Trojan GL"/>
+	</imgdir>
+    <imgdir name="9400533">
+		<string name="name" value="Indigo Eye PQ"/>
+	</imgdir>
+    <imgdir name="9400534">
+		<string name="name" value="Crystal Boar PQ"/>
+	</imgdir>
+    <imgdir name="9400535">
+		<string name="name" value="Magik Fiarry A PQ"/>
+	</imgdir>
+</imgdir>

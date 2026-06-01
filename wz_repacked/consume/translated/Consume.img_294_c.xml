@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430815">
+		<string name="name" value="绿将军鞋"/>
+		<string name="desc" value="如果你双击盒子，可以兑换绿将军鞋。"/>
+	</imgdir>
+    <imgdir name="2430816">
+		<string name="name" value="绿将军手套"/>
+		<string name="desc" value="如果你双击盒子，可以兑换绿将军手套。"/>
+	</imgdir>
+    <imgdir name="2430817">
+		<string name="name" value="紫色前辈帽"/>
+		<string name="desc" value="如果你双击盒子，可以兑换紫色前辈帽。"/>
+	</imgdir>
+    <imgdir name="2430818">
+		<string name="name" value="紫色前辈套装"/>
+		<string name="desc" value="如果你双击盒子，可以兑换紫色前辈套装。"/>
+	</imgdir>
+    <imgdir name="2430819">
+		<string name="name" value="紫色前辈鞋"/>
+		<string name="desc" value="如果你双击盒子，可以兑换紫色前辈鞋。"/>
+	</imgdir>
+    <imgdir name="2430820">
+		<string name="name" value="紫色前辈手套"/>
+		<string name="desc" value="如果你双击盒子，可以兑换紫色前辈手套。"/>
+	</imgdir>
+    <imgdir name="2430865">
+		<string name="name" value="VIP秘密盒子"/>
+		<string name="desc" value="每月送给冒险岛大人物玩家的特殊礼物盒子。\n有效期：TKTKTK"/>
+	</imgdir>
+    <imgdir name="2430866">
+		<string name="name" value="战斗模式祝福药水"/>
+		<string name="desc" value="战斗模式的祝福药水。使用它根据你的等级获得大量经验。#c对10级以下和满级角色无效。#"/>
+	</imgdir>
+    <imgdir name="2430867">
+		<string name="name" value="安家费券"/>
+		<string name="desc" value="由\"新角色支援总部\"发放的帮助新角色在冒险岛世界安家的券。#c双击#获得可以在商店兑换金币的硬币道具。如果幸运的话，你可能会发大财！"/>
+	</imgdir>
+    <imgdir name="2430868">
+		<string name="name" value="宠物安家费券"/>
+		<string name="desc" value="由\"新角色支援总部\"发放的帮助新角色在冒险岛世界安家的宠物券。#c双击#获得一个可以使用30天的宠物。"/>
+	</imgdir>
+    <imgdir name="2430869">
+		<string name="name" value="角斗士袋子"/>
+		<string name="desc" value="为战斗模式角斗士制作的袋子。没有人知道里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430871">
+		<string name="name" value="粉色滑板车坐骑"/>
+		<string name="desc" value="双击学习粉色滑板车坐骑技能7天。"/>
+	</imgdir>
+    <imgdir name="2430872">
+		<string name="name" value="虫蛀卷轴"/>
+		<string name="desc" value="这个旧卷轴上似乎写着一些重要的东西。"/>
+	</imgdir>
+    <imgdir name="2430873">
+		<string name="name" value="吸血鬼灯笼"/>
+		<string name="desc" value="与普通灯笼不同，这个灯笼收集光。"/>
+	</imgdir>
+    <imgdir name="2430874">
+		<string name="name" value="极光棱镜"/>
+		<string name="desc" value="拥有传送到极光藏身处力量的特殊水晶。"/>
+	</imgdir>
+    <imgdir name="2430878">
+		<string name="name" value="橙色蘑菇惊喜"/>
+		<string name="desc" value="来自橙色蘑菇的惊喜礼物。"/>
+	</imgdir>
+    <imgdir name="2430883">
+		<string name="name" value="暴风雨传送石"/>
+		<string name="desc" value="送给被巨大风暴笼罩的旅行者的魔法石。使用它可以移动到你选择的城镇，不限大陆。#c每30分钟可以使用一次。#"/>
+	</imgdir>
+    <imgdir name="2430884">
+		<string name="name" value="佩尔森的卷轴"/>
+		<string name="desc" value="将你传送到埃林森林附近黑暗深处的卷轴。"/>
+	</imgdir>
+    <imgdir name="2430885">
+		<string name="name" value="暴风雨礼物盒子"/>
+		<string name="desc" value="卡桑德拉为纪念暴风雨来临准备的盒子。\n#c双击看看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2430886">
+		<string name="name" value="暴风雨礼物盒子"/>
+		<string name="desc" value="卡桑德拉为纪念暴风雨来临准备的盒子。\n#c双击看看里面有什么。#"/>
+	</imgdir>
+</imgdir>

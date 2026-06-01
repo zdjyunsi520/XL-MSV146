@@ -1,0 +1,8 @@
+<imgdir name="1220006">
+        <string name="name" value="守护者" />
+        <string name="desc" value="提升对所有属性攻击和异常状态的耐受性。#c装备盾牌时#有几率格挡敌人攻击。近距离格挡时使攻击者眩晕~" />
+        <string name="h" value="所有属性攻击耐受性: +#terR%, 异常状态耐受性: +#asrR%, 格挡几率: #prop%, 眩晕时间: #time秒" />
+        <string name="pdesc" value="提升对所有属性攻击和异常状态的耐受性。#c装备盾牌时#有几率格挡敌人攻击。近距离格挡时使攻击者眩晕~" />
+        <string name="ph" value="所有属性攻击耐受性: +#terR%, 异常状态耐受性: +#asrR%, 格挡几率: #prop%, 眩晕时间: #time秒" />
+        <string name="hch" value="所有属性攻击耐受性: +#terR%, 异常状态耐受性: +#asrR%, 格挡几率: #prop%, 格挡时眩晕几率: #hcSubProp%, 持续时间: #hcTime秒" />
+    </imgdir>

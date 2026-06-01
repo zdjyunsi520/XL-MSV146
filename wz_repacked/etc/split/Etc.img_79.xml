@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031117">
+			<string name="name" value="Meteorite Sample"/>
+			<string name="desc" value="A sample of the meteorite that was recently discovered at the Coolan Field."/>
+		</imgdir>
+    <imgdir name="4031118">
+			<string name="name" value="Deciphered Memory Card"/>
+			<string name="desc" value="Rombot 's memory card that Porter deciphered."/>
+		</imgdir>
+    <imgdir name="4031119">
+			<string name="name" value="Black Toy Heena"/>
+			<string name="desc" value="A black Toy Heena; no way to find out how it originally looked like."/>
+		</imgdir>
+    <imgdir name="4031120">
+			<string name="name" value="Toy Heena"/>
+			<string name="desc" value="A toy that resembles someone."/>
+		</imgdir>
+    <imgdir name="4031121">
+			<string name="name" value="Clam Shell"/>
+			<string name="desc" value="A light clam shell."/>
+		</imgdir>
+    <imgdir name="4031122">
+			<string name="name" value="Sugar"/>
+			<string name="desc" value="Used to make candies. Melt it to turn it into syrup, then sprinkle them onto the fruits to make tasty fruit candies."/>
+		</imgdir>
+    <imgdir name="4031123">
+			<string name="name" value="Pineapple"/>
+			<string name="desc" value="Cut in triangles. Used to make tasty fruit candies."/>
+		</imgdir>
+    <imgdir name="4031124">
+			<string name="name" value="Strawberry"/>
+			<string name="desc" value="A very ripe, red strawberry. Used to make tasty fruit candies."/>
+		</imgdir>
+    <imgdir name="4031125">
+			<string name="name" value="Wooden Skewer"/>
+			<string name="desc" value="A long wooden skewer for the fruits."/>
+		</imgdir>
+    <imgdir name="4031126">
+			<string name="name" value="Porter's Letter"/>
+			<string name="desc" value="A letter from Porter of the Omega Sector. I need to deliver this to Kay the Engineer, who should be at the Omega Sector Silo, on time. "/>
+		</imgdir>
+    <imgdir name="4031127">
+			<string name="name" value="Pilot's Letter"/>
+			<string name="desc" value="A letter recovered from a broken transport in what appears to be written by a missing pilot. Need to get this to Kay the Engineer, who should be at the Omega Sector Silo."/>
+		</imgdir>
+    <imgdir name="4031128">
+			<string name="name" value="Weaver's Letter"/>
+			<string name="desc" value="A letter from Weaver the assistant. Need to get this to Nerr."/>
+		</imgdir>
+    <imgdir name="4031129">
+			<string name="name" value="Savory Cheese"/>
+			<string name="desc" value="As soft as it gets. I can make a soup out of this."/>
+		</imgdir>
+    <imgdir name="4031130">
+			<string name="name" value="Maintenance Manual"/>
+			<string name="desc" value="A maintenance manual with the blueprint of the machine at the Toy Factory. Mac the Mechanic had originally lost it."/>
+		</imgdir>
+    <imgdir name="4031131">
+			<string name="name" value="Blue Carp"/>
+			<string name="desc" value="A blue koynobori used on children's day."/>
+		</imgdir>
+    <imgdir name="4031132">
+			<string name="name" value="Red Carp"/>
+			<string name="desc" value="A red koynobori used on children's day."/>
+		</imgdir>
+    <imgdir name="4031133">
+			<string name="name" value="Green Baby Carp"/>
+			<string name="desc" value="A green koynobori used on children's day."/>
+		</imgdir>
+    <imgdir name="4031134">
+			<string name="name" value="VIP Ticket to Florina Beach"/>
+			<string name="desc" value="It is needed to go to Florina Beach. If in possession of the ticket, you can simply head to Florina Beach for free FOR LIFE."/>
+		</imgdir>
+    <imgdir name="4031135">
+			<string name="name" value="Dull Crystal"/>
+			<string name="desc" value="A crystal without the sparkling light, because its powers have been used up while inside the body of the Drum Bunny."/>
+		</imgdir>
+    <imgdir name="4031136">
+			<string name="name" value="Gray's Document"/>
+			<string name="desc" value="A document of a Gray in what appears to be an alien writing. Hard to decipher."/>
+		</imgdir>
+</imgdir>

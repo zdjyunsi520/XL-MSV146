@@ -1,0 +1,5 @@
+<imgdir name="35111005">
+        <string name="name" value="加速机器人EX-7" />
+        <string name="desc" value="召唤机器人EX-7，提升地图上所有怪物的移动速度但降低其防御力。EX-7在能量耗尽后会自爆。" />
+        <string name="h" value="MP消耗：#mpCon，增益持续时间：#time秒，敌人速度：+#x，敌人防御：#y%，自爆伤害：#selfDestruction%" />
+    </imgdir>

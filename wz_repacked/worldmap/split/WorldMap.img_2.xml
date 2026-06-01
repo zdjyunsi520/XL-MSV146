@@ -1,0 +1,62 @@
+<imgdir name="WorldMap.img">
+    <imgdir name="070">
+		<string name="name" value="Nihal Desert"/>
+	</imgdir>
+    <imgdir name="071">
+		<string name="name" value="Ancient City Azwan"/>
+	</imgdir>
+    <imgdir name="080">
+		<string name="name" value="Temple of Time"/>
+	</imgdir>
+    <imgdir name="081">
+		<string name="name" value="Gate to the Future"/>
+	</imgdir>
+    <imgdir name="090">
+		<string name="name" value="Ereve"/>
+	</imgdir>
+    <imgdir name="100">
+		<string name="name" value="Rien"/>
+	</imgdir>
+    <imgdir name="101">
+		<string name="name" value="Riena Strait"/>
+	</imgdir>
+    <imgdir name="110">
+		<string name="name" value="Edelstein"/>
+	</imgdir>
+    <imgdir name="120">
+		<string name="name" value="Lumiere"/>
+	</imgdir>
+    <imgdir name="130">
+		<string name="name" value="Pantheon"/>
+	</imgdir>
+    <imgdir name="140">
+		<string name="name" value="Heliseum"/>
+	</imgdir>
+    <imgdir name="141">
+		<string name="name" value="Tyrant's Castle"/>
+	</imgdir>
+    <imgdir name="052">
+		<string name="name" value="Colossus"/>
+	</imgdir>
+    <imgdir name="150">
+		<string name="name" value="Dawnveil"/>
+	</imgdir>
+    <imgdir name="151">
+		<string name="name" value="Tynerum"/>
+	</imgdir>
+    <imgdir name="041">
+		<string name="name" value="Twisted Aqua Road"/>
+	</imgdir>
+    <imgdir name="162">
+		<string name="name" value="Showa Town"/>
+	</imgdir>
+    <imgdir name="164">
+		<string name="name" value="Singapore"/>
+	</imgdir>
+    <imgdir name="165">
+		<string name="name" value="Ghost Ship"/>
+	</imgdir>
+    <imgdir name="166">
+		<string name="name" value="Malaysia"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,80 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159410">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159411">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159412">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159413">
+		<string name="name" value=""/>
+	</imgdir>
+    <imgdir name="2159414">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159415">
+		<string name="name" value="Familiar Pendant"/>
+	</imgdir>
+    <imgdir name="2159416">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159417">
+		<string name="name" value="Beryl"/>
+		<string name="d0" value="You seem to be getting used to having me follow you."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159418">
+		<string name="name" value="Beryl"/>
+		<string name="d0" value="..."/>
+	</imgdir>
+    <imgdir name="2159419">
+		<string name="name" value="Boom Barrier"/>
+	</imgdir>
+    <imgdir name="2159420">
+		<string name="name" value="Alchemy Lab"/>
+	</imgdir>
+    <imgdir name="2159421">
+		<string name="name" value="Stephan"/>
+		<string name="func" value="Black Wings Watchman"/>
+		<string name="n0" value="Hmph!"/>
+		<string name="n1" value="Don't bother me with trivial things!"/>
+		<string name="d0" value="Money is important! That's why I work for the Black Wings. Other reasons? Nope, none."/>
+		<string name="d1" value="Money is important! That's why I work for the Black Wings. Other reasons? Nope, none."/>
+	</imgdir>
+    <imgdir name="2159422">
+		<string name="name" value="Guard Robot"/>
+	</imgdir>
+    <imgdir name="2159423">
+		<string name="name" value="Warning Light"/>
+	</imgdir>
+    <imgdir name="2159424">
+		<string name="name" value="Monitor"/>
+	</imgdir>
+    <imgdir name="2159426">
+		<string name="name" value="Notification"/>
+	</imgdir>
+    <imgdir name="2159427">
+		<string name="name" value="Guard Robot"/>
+	</imgdir>
+    <imgdir name="2160000">
+		<string name="name" value="Murt"/>
+		<string name="d0" value="The Lion King's curse has left me a ghost. But if you bring me the treasure I seek, I will give you something helpful..."/>
+		<string name="d1" value="The Lion King's curse has left me a ghost. But if you bring me the treasure I seek, I will give you something helpful..."/>
+	</imgdir>
+    <imgdir name="2161000">
+		<string name="name" value="Von Leon"/>
+		<string name="func" value="Lion King"/>
+		<string name="n0" value="...Must we speak? All that's left to do is fight..."/>
+		<string name="n1" value="Attack me! Bring it! Leave your words and logic behind you!"/>
+		<string name="d0" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+		<string name="d1" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+	</imgdir>
+    <imgdir name="2161001">
+		<string name="name" value="Ifia"/>
+		<string name="func" value="Queen"/>
+		<string name="d0" value="The flowers, butterflies, and people are all gone. All that remains is the burning flame... What's become of our beautiful castle?"/>
+		<string name="d1" value="He'll return to his old self. I know it. He really is a kind, gentle, warm-hearted king..."/>
+	</imgdir>
+</imgdir>

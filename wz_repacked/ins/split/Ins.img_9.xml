@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010237">
+		<string name="name" value="Horntail Chair"/>
+		<string name="desc" value="A chair that resembles Horntail, an evil three-headed dragon that lives in Leafre's Dragon Forest. When you sit on a Horntail Chair, your injuries will heal quicker. 100 HP and 40 MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010238">
+		<string name="name" value="Miwok Chief's Chair"/>
+		<string name="desc" value="The chair in which the chiefs of the Miwok tribe sat. If you sit in this chair, you can receive the strength of the Miwok ancestors and recover 65MP in 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010239">
+		<string name="name" value="Cat's Love Chair"/>
+		<string name="desc" value="Hug me tightly. Recovers 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010240">
+		<string name="name" value="Your Throne"/>
+		<string name="desc" value="Need some privacy? Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010241">
+		<string name="name" value="Music Box"/>
+		<string name="desc" value="50 HP is restored every 10 seconds if you lean back on this music box."/>
+	</imgdir>
+    <imgdir name="3010242">
+		<string name="name" value="Desert Island Chair"/>
+		<string name="desc" value="50 HP and 50 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010243">
+		<string name="name" value="Tea Time Chair"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010244">
+		<string name="name" value="Xerxes Chair"/>
+		<string name="desc" value="Recovers 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010245">
+		<string name="name" value="Locker Chair"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010246">
+		<string name="name" value="6th Anniversary Chair"/>
+		<string name="desc" value="60 HP and 60 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010247">
+		<string name="name" value="Tiger Skin Chair"/>
+		<string name="desc" value="Lean back on this imposing Tiger Skin Chair to restore 50 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010248">
+		<string name="name" value="Swing on the Persimmon Tree"/>
+		<string name="desc" value="There is a swing on the Persimmon Tree with ripe persimmons."/>
+	</imgdir>
+    <imgdir name="3010249">
+		<string name="name" value="The Spirit of Rock Chair"/>
+		<string name="desc" value="A new chair that makes you feel like a Rock Star.\nRecovers 60 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010250">
+		<string name="name" value="Yellow Robot Chair"/>
+		<string name="desc" value="Perch yourself on the hand of this powerful yellow robot to recover 50 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010251">
+		<string name="name" value="Dragon Egg"/>
+		<string name="desc" value="Sit on this cracked dragon egg shell and relax to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010252">
+		<string name="name" value="Baby Swing "/>
+		<string name="desc" value="Sit on this baby dragon swing to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010253">
+		<string name="name" value="Full Moon Chair"/>
+		<string name="desc" value="When you sit on Full Moon Chair, 35 HP and 10 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010254">
+		<string name="name" value="Black Seal Cushion"/>
+		<string name="desc" value="An adorable black cushion that resembles a seal.  Recovers HP 50 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010255">
+		<string name="name" value="Maple Crystal Chair"/>
+		<string name="desc" value="If you sit in the crystal chair made to commemorate the creation of Maple Story, 50 HP and 30 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010256">
+		<string name="name" value="Clear Chair"/>
+		<string name="desc" value="When you sit in this chair, 50 HP are recovered every 10 seconds."/>
+	</imgdir>
+</imgdir>

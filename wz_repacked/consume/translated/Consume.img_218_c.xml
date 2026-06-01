@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290854">
+		<string name="name" value="[能手册]快速射击 20"/>
+		<string name="desc" value="100%概率将#c快速射击#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290855">
+		<string name="name" value="[能手册]威严存在 20"/>
+		<string name="desc" value="100%概率将#c威严存在#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290856">
+		<string name="name" value="[能手册]海盗旗 20"/>
+		<string name="desc" value="100%概率将#c海盗旗#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290857">
+		<string name="name" value="[能手册]八脚伊斯顿 20"/>
+		<string name="desc" value="100%概率将#c八脚伊斯顿#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290858">
+		<string name="name" value="[能手册]大脑搅拌器 20"/>
+		<string name="desc" value="100%概率将#c大脑搅拌器#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290859">
+		<string name="name" value="[能手册]鹦鹉目标锁定 20"/>
+		<string name="desc" value="100%概率将#c鹦鹉目标锁定#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290860">
+		<string name="name" value="[能手册]阿喀琉斯 20"/>
+		<string name="desc" value="100%概率将#c阿喀琉斯#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290861">
+		<string name="name" value="[能手册]爆破 20"/>
+		<string name="desc" value="100%概率将#c爆破#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290862">
+		<string name="name" value="[能手册]守护 20"/>
+		<string name="desc" value="100%概率将#c守护#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290863">
+		<string name="name" value="[能手册]神圣冲击 20"/>
+		<string name="desc" value="100%概率将#c神圣冲击#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290864">
+		<string name="name" value="[能手册]天堂之锤 20"/>
+		<string name="desc" value="100%概率将#c天堂之锤#的最高等级提升到20级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290865">
+		<string name="name" value="[能手册]高级连击攻击 20"/>
+		<string name="desc" value="100%概率将#c高级连击攻击#的最高等级提升到20级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290866">
+		<string name="name" value="[能手册]狂暴 20"/>
+		<string name="desc" value="100%概率将#c狂暴#的最高等级提升到20级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290867">
+		<string name="name" value="[能手册]狂怒一击 20"/>
+		<string name="desc" value="100%概率将#c狂怒一击#的最高等级提升到20级。\n职业：英雄\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290868">
+		<string name="name" value="英雄神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本英雄职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290869">
+		<string name="name" value="圣骑士神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本圣骑士职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290870">
+		<string name="name" value="黑骑士神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本黑骑士职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290871">
+		<string name="name" value="火/毒魔导师神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本火/毒魔导师职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290872">
+		<string name="name" value="冰/雷魔导师神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本冰/雷魔导师职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290873">
+		<string name="name" value="主教神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本主教职业的能手册。"/>
+	</imgdir>
+</imgdir>

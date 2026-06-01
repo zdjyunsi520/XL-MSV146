@@ -1,0 +1,5 @@
+<imgdir name="3211005">
+        <string name="name" value="冰鹰" />
+        <string name="desc" value="暂时召唤冰鹰对最多4个敌人造成冰属性伤害。同时永久提升物理/魔法防御力~" />
+        <string name="h" value="MP消耗: #mpCon，召唤冰鹰持续#time秒。一次攻击最多4个敌人，伤害#damage%。冻结#x秒\n[被动效果: 提升#pddR%物理/魔法防御力]" />
+    </imgdir>

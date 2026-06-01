@@ -1,0 +1,5 @@
+<imgdir name="4220015">
+        <string name="name" value="Prime Critical" />
+        <string name="desc" value="Enhances Critical Growth. Also increases maximum critical damage permanently." />
+        <string name="h" value="Over time or when attacking, Critical Rate: +#x%.\n[Passive Effect: Max Critical Damage: +#criticaldamageMax%]" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9500359">
+		<string name="name" value="Manon"/>
+	</imgdir>
+    <imgdir name="9500360">
+		<string name="name" value="Griffey"/>
+	</imgdir>
+    <imgdir name="9500361">
+		<string name="name" value="Leviathan"/>
+	</imgdir>
+    <imgdir name="9500362">
+		<string name="name" value="Papulatus"/>
+	</imgdir>
+    <imgdir name="9500363">
+		<string name="name" value="Pianus"/>
+	</imgdir>
+    <imgdir name="9500364">
+		<string name="name" value="Mini Dungeon Transparent Monster"/>
+	</imgdir>
+    <imgdir name="9500365">
+		<string name="name" value="Mini Dungeon Agent Box"/>
+	</imgdir>
+    <imgdir name="9500366">
+		<string name="name" value="Barnard Gray"/>
+	</imgdir>
+    <imgdir name="9500367">
+		<string name="name" value="Zeta Gray"/>
+	</imgdir>
+    <imgdir name="9500368">
+		<string name="name" value="Ultra Gray"/>
+	</imgdir>
+    <imgdir name="9500369">
+		<string name="name" value="Chief Gray"/>
+	</imgdir>
+    <imgdir name="9500370">
+		<string name="name" value="Mecateon"/>
+	</imgdir>
+    <imgdir name="9500371">
+		<string name="name" value="Mateon"/>
+	</imgdir>
+    <imgdir name="9500372">
+		<string name="name" value="Plateon"/>
+	</imgdir>
+    <imgdir name="9500373">
+		<string name="name" value="Machine MT-09"/>
+	</imgdir>
+    <imgdir name="9500400">
+		<string name="name" value="Gourd"/>
+	</imgdir>
+    <imgdir name="9501000">
+		<string name="name" value="Sealed"/>
+	</imgdir>
+    <imgdir name="9501001">
+		<string name="name" value="Darkness"/>
+	</imgdir>
+    <imgdir name="9501002">
+		<string name="name" value="Weakness"/>
+	</imgdir>
+    <imgdir name="9501003">
+		<string name="name" value="Knocked Out"/>
+	</imgdir>
+</imgdir>

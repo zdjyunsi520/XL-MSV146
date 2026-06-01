@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430206">
+		<string name="name" value="卡丁车7日券"/>
+		<string name="desc" value="双击使用卡丁车骑乘技能7天。"/>
+	</imgdir>
+    <imgdir name="2430211">
+		<string name="name" value="卡丁车30日券"/>
+		<string name="desc" value="双击使用卡丁车骑乘技能30天。"/>
+	</imgdir>
+    <imgdir name="2430212">
+		<string name="name" value="能量饮料 - 红牛"/>
+		<string name="desc" value="累了吗？试试全新清爽的薄荷能量饮料，红牛！恢复5点疲劳度。每天最多喝3瓶能量饮料。"/>
+	</imgdir>
+    <imgdir name="2430213">
+		<string name="name" value="能量饮料 - Vita-C"/>
+		<string name="desc" value="累了吗？喝清爽的橙汁Vita-C恢复精力！恢复10点疲劳度。每天最多喝3瓶能量饮料。"/>
+	</imgdir>
+    <imgdir name="2430214">
+		<string name="name" value="能量饮料 - Mobstar"/>
+		<string name="desc" value="累了吗？用超浓咖啡因Mobstar能量饮料振作起来！#c恢复30点疲劳度#。警告：可能导致失眠。\n#c无每日限制。#"/>
+	</imgdir>
+    <imgdir name="2430215">
+		<string name="name" value="雪滴礼物盒子"/>
+		<string name="desc" value="装有雪滴礼物的盒子。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2430216">
+		<string name="name" value="雪滴巨大盒子"/>
+		<string name="desc" value="装有雪滴礼物的盒子。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2430217">
+		<string name="name" value="雪滴精灵盒子"/>
+		<string name="desc" value="装有雪滴礼物的盒子。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2430218">
+		<string name="name" value="风暴成长药水"/>
+		<string name="desc" value="传说中的力量灵药。喝一口就能升一级。\n#c满级角色无法使用此道具。#"/>
+	</imgdir>
+    <imgdir name="2430221">
+		<string name="name" value="战斗袋子"/>
+		<string name="desc" value="可以用勇敢徽章购买的袋子。没人知道里面有什么。"/>
+	</imgdir>
+    <imgdir name="2430223">
+		<string name="name" value="贝罗斯15日使用券"/>
+		<string name="desc" value="双击使用骑宠[贝罗斯]15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430225">
+		<string name="name" value="贝罗斯骑乘券"/>
+		<string name="desc" value="双击使用贝罗斯骑乘技能10天。"/>
+	</imgdir>
+    <imgdir name="2430226">
+		<string name="name" value="限定！战斗纪念盒子"/>
+		<string name="desc" value="庆祝战斗模式推出的礼物。里面会有什么？"/>
+	</imgdir>
+    <imgdir name="2430230">
+		<string name="name" value="风暴成长药水"/>
+		<string name="desc" value="传说中的力量灵药。喝一口就能升一级。\n#c满级角色无法使用此道具。#"/>
+	</imgdir>
+    <imgdir name="2430231">
+		<string name="name" value="能量饮料 - 胡萝卜水"/>
+		<string name="desc" value="加入甜胡萝卜糖浆的矿泉水。恢复40点疲劳度。每天最多喝3瓶能量饮料。"/>
+	</imgdir>
+    <imgdir name="2430232">
+		<string name="name" value="财富10日券"/>
+		<string name="desc" value="允许使用财富骑乘技能10天的券。仅在新年期间可获得。"/>
+	</imgdir>
+    <imgdir name="2430238">
+		<string name="name" value="大陆回归卷轴"/>
+		<string name="desc" value="无论你走多远，都能让你回到城镇的卷轴。"/>
+	</imgdir>
+    <imgdir name="2430239">
+		<string name="name" value="流氓兔15日使用券"/>
+		<string name="desc" value="双击使用骑宠[流氓兔]15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430240">
+		<string name="name" value="流氓兔1年使用券"/>
+		<string name="desc" value="双击使用骑宠[流氓兔]1年，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430241">
+		<string name="name" value="可爱新手礼包"/>
+		<string name="desc" value="2011年夏季活动道具。送给创建新角色的用户的礼包。"/>
+	</imgdir>
+</imgdir>

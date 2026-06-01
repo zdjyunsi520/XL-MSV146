@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033195">
+			<string name="name" value="未开封的信封"/>
+			<string name="desc" value="由名为#c'克罗姆'#的人发出的没有收件人名字的信。看起来它还没有被打开"/>
+		</imgdir>
+    <imgdir name="4033196">
+			<string name="name" value="鸡蛋"/>
+			<string name="desc" value="林伯特杂货店后院的鸡下的蛋"/>
+		</imgdir>
+    <imgdir name="4033197">
+			<string name="name" value="丢失的文件"/>
+			<string name="desc" value="埃雷夫图书馆里的文件，被怪物偷走了。看起来不太重要"/>
+		</imgdir>
+    <imgdir name="4033198">
+			<string name="name" value="丢失的机密文件"/>
+			<string name="desc" value="埃雷夫图书馆里的文件，被怪物偷走了。看起来上面有一些机密信息"/>
+		</imgdir>
+    <imgdir name="4033200">
+			<string name="name" value="时髦梳子"/>
+			<string name="desc" value="用石头做的坚硬梳子，非常适合梳理斯佩格尔曼的胡子"/>
+		</imgdir>
+    <imgdir name="4033201">
+			<string name="name" value="配送盒子"/>
+			<string name="desc" value="装有斯佩格尔曼秘密胡子填充物的盒子"/>
+		</imgdir>
+    <imgdir name="4033202">
+			<string name="name" value="时髦滴"/>
+			<string name="desc" value="世界上最好的胡子膏，被水贼怪物偷走了"/>
+		</imgdir>
+    <imgdir name="4033203">
+			<string name="name" value="引导宝石"/>
+			<string name="desc" value="在埃德尔斯坦矿山深处发现的宝石"/>
+		</imgdir>
+    <imgdir name="4033204">
+			<string name="name" value="温暖羽毛"/>
+			<string name="desc" value="这会让蛋保持温暖"/>
+		</imgdir>
+    <imgdir name="4033205">
+			<string name="name" value="舒适羽毛"/>
+			<string name="desc" value="这会让蛋保持舒适"/>
+		</imgdir>
+    <imgdir name="4033206">
+			<string name="name" value="花蘑菇袋子"/>
+			<string name="desc" value="你可以在这个袋子里的野生植物栖息地找到巨型花蘑菇"/>
+		</imgdir>
+    <imgdir name="4033207">
+			<string name="name" value="美味草"/>
+			<string name="desc" value="白虎喜欢这种新鲜美味的草。小心，可能有刺！"/>
+		</imgdir>
+    <imgdir name="4033208">
+			<string name="name" value="龙肉"/>
+			<string name="desc" value="谁知道！吃这个可能会让你更勇敢"/>
+		</imgdir>
+    <imgdir name="4033209">
+			<string name="name" value="配送盒子"/>
+			<string name="desc" value="这个盒子应该送给斯佩格尔曼"/>
+		</imgdir>
+    <imgdir name="4033210">
+			<string name="name" value="沙漠之宝"/>
+			<string name="desc" value="阿雷达的肖像"/>
+		</imgdir>
+    <imgdir name="4033211">
+			<string name="name" value="柔软丝绸"/>
+			<string name="desc" value="柔软……而且丝滑。非常好的东西"/>
+		</imgdir>
+    <imgdir name="4033212">
+			<string name="name" value="沙漠兔毛"/>
+			<string name="desc" value="兔子的毛。它很软"/>
+		</imgdir>
+    <imgdir name="4033213">
+			<string name="name" value="引导宝石"/>
+			<string name="desc" value="闪闪发光的钻石"/>
+		</imgdir>
+    <imgdir name="4033214">
+			<string name="name" value="棕榈树树液"/>
+			<string name="desc" value="沙漠巨人随身携带这种棕榈树树液。它比仙人掌汁更甜"/>
+		</imgdir>
+    <imgdir name="4033215">
+			<string name="name" value="篝火木柴"/>
+			<string name="desc" value="很好很干。准备好燃烧了！"/>
+		</imgdir>
+</imgdir>

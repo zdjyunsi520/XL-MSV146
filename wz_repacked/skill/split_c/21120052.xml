@@ -1,0 +1,5 @@
+<imgdir name="21120052">
+        <string name="name" value="超越之刃" />
+        <string name="desc" value="释放战神的最大力量，与玛哈一起横扫敌人！" />
+        <string name="h" value="MP消耗：#mpCon，最大攻击目标数：#mobCount，伤害：#damage%，攻击次数：#attackCount，可以通过继续按键最多追加3次攻击，使用相关技能时暴击率#cr%，无视敌人防御力：#ignoreMobpdpR%。#c在最终一击后使用。第2击：攻击3次。第3击：攻击4次。" />
+    </imgdir>

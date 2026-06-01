@@ -1,0 +1,91 @@
+<imgdir name="Npc.img">
+    <imgdir name="2144006">
+		<string name="name" value="Afrien"/>
+		<string name="d0" value="I am the King of Onyx Dragons, the last guardian of the world."/>
+		<string name="d1" value="Black Mage's curse is very powerful, but it's not that bad if that's what I get for saving the world."/>
+		<string name="n0" value="No, I can't let my race end in my generation..."/>
+		<string name="n1" value="Freud, you need to hurry and wake up!"/>
+	</imgdir>
+    <imgdir name="2144007">
+		<string name="name" value="Onyx Dragon Egg"/>
+	</imgdir>
+    <imgdir name="2144008">
+		<string name="name" value="Bastille"/>
+		<string name="d0" value="My head hurts a little."/>
+		<string name="d1" value="My head hurts a little."/>
+	</imgdir>
+    <imgdir name="2144009">
+		<string name="name" value="Tamil"/>
+		<string name="d0" value="Everyone escaped without me... *sniff sniff*"/>
+		<string name="d1" value="To escape from here, we have to eliminate those scary monster first."/>
+		<string name="n0" value="There's no Halflinger who's as good at transforming into a dragon as me. Trust me!"/>
+		<string name="n1" value="I am scared to be here alone. I need to escape this place..."/>
+	</imgdir>
+    <imgdir name="2144010">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="2144011">
+		<string name="name" value="Portal Image"/>
+	</imgdir>
+    <imgdir name="2144012">
+		<string name="name" value="Portal Image"/>
+	</imgdir>
+    <imgdir name="2144013">
+		<string name="name" value="Portal Image"/>
+	</imgdir>
+    <imgdir name="2144014">
+		<string name="name" value="Mercedes"/>
+	</imgdir>
+    <imgdir name="2144015">
+		<string name="name" value="Portal Image"/>
+	</imgdir>
+    <imgdir name="2144016">
+		<string name="name" value="Rhinne"/>
+		<string name="func" value="Goddess of Time"/>
+		<string name="n0" value="You got rid of Arkarium! Thank you so much."/>
+		<string name="n1" value="To prepare for the times of darkness, I must repair distorted time. "/>
+		<string name="d0" value="Dear warrior who defeated Arkarium, I express my respect to you."/>
+		<string name="d1" value="Dear warrior who defeated Arkarium, I express my respect to you."/>
+	</imgdir>
+    <imgdir name="2144017">
+		<string name="name" value="Netherworld Altar Statue"/>
+	</imgdir>
+    <imgdir name="2144018">
+		<string name="name" value="Netherworld Altar Statue"/>
+	</imgdir>
+    <imgdir name="2144019">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="2144020">
+		<string name="name" value="Rhinne"/>
+		<string name="func" value="Goddess of Time"/>
+	</imgdir>
+    <imgdir name="2153005">
+		<string name="name" value="Vita"/>
+	</imgdir>
+    <imgdir name="2153006">
+		<string name="name" value="Mastema"/>
+		<string name="d0" value="I'm tired of being a cat. So many hairballs..."/>
+		<string name="d1" value="I'm tired of being a cat. So many hairballs..."/>
+	</imgdir>
+    <imgdir name="2160001">
+		<string name="name" value="Bernard"/>
+		<string name="d0" value="I can give you something useful..."/>
+		<string name="d1" value="I can give you something useful..."/>
+	</imgdir>
+    <imgdir name="2161011">
+		<string name="name" value="Von Leon"/>
+		<string name="func" value="Lion King"/>
+		<string name="n0" value="...Must we speak? All that's left to do is fight..."/>
+		<string name="n1" value="Attack me! Bring it! Leave your words and logic behind you!"/>
+		<string name="d0" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+		<string name="d1" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+	</imgdir>
+    <imgdir name="2161012">
+		<string name="name" value="Krag"/>
+		<string name="n0" value="It's cold and the sky is getting dark. Foul winds are coming."/>
+		<string name="n1" value="Don't take your eyes off of them."/>
+		<string name="d0" value="Name's Krag. What're you doing out here? "/>
+		<string name="d1" value="I stay out here and I do my job. No matter what."/>
+	</imgdir>
+</imgdir>

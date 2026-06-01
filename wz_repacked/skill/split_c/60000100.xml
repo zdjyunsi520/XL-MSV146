@@ -1,0 +1,5 @@
+<imgdir name="60000100">
+        <string name="name" value="冰暴风暴" />
+        <string name="pdesc" value="释放冰之力量持续伤害敌人。冰量表达到#c40以上#时可以使用。\n[指令：#c↓→+攻击键#]" />
+        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage% every #dotInterval sec for #dotTime sec (Up to #attackCount times), Max Monsters Hit: #mobCount," />
+    </imgdir>

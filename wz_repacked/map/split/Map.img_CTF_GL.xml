@@ -1,0 +1,12 @@
+<imgdir name="Map.img">
+    <imgdir name="CTF_GL">
+		<imgdir name="689000000">
+			<string name="streetName" value="PvP"/>
+			<string name="mapName" value="Capture the Flag"/>
+		</imgdir>
+		<imgdir name="689000010">
+			<string name="streetName" value="PvP"/>
+			<string name="mapName" value="Capture the Flag"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

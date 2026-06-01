@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041512">
+		<string name="name" value="8周年肩饰强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫宝石肩饰和大冒险岛紫宝石肩饰的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：50%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042100">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042101">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042102">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042103">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 70%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042104">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042105">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 65%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042106">
+		<string name="name" value="闪光魔棒强化卷轴 魔法攻击 15%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042107">
+		<string name="name" value="佩佩国王闪光魔棒强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化闪光魔棒的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042200">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042201">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 60%\r\n敏捷 +1\r\n武器攻击 +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042202">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 10%\r\n敏捷 +3\r\n武器攻击 +5\r\n物理防御 +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042203">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 70%\r\n失败时破坏物品概率：50%\r\n敏捷 +1\r\n武器攻击 +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042204">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 30%\r\n失败时破坏物品概率：50%\r\n敏捷 +3\r\n武器攻击 +5\r\n物理防御 +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042205">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 65%\r\n敏捷 +1\r\n武器攻击 +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042206">
+		<string name="name" value="灵魂射击者强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化灵魂射击者的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 15%\r\n敏捷 +3\r\n武器攻击 +5\r\n物理防御 +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042207">
+		<string name="name" value="佩佩国王灵魂射击者强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化佩佩国王灵魂射击者的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 60%\r\n敏捷 +1\r\n武器攻击 +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042300">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 100%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042301">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 60%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+50\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042302">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 10%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 10%\r\n最大HP +150\r\n武器攻击 +5\r\n物理防御 +10\r\n#"/>
+	</imgdir>
+</imgdir>

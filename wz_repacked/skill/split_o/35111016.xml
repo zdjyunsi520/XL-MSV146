@@ -1,0 +1,5 @@
+<imgdir name="35111016">
+        <string name="name" value="Overclock" />
+        <string name="desc" value="Significantly overclocks your Mech&apos;s servo-timing to provide a massive temporary boost to Attack power.\n#c[Cooldown: 150 sec]" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%\nPassive Effects: Ignore Monster DEF: #ignoreMobpdpR%" />
+    </imgdir>

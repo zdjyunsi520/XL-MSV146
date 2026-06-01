@@ -1,0 +1,23 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1992008"><string name="name" value="骑士战车"/></imgdir>
+    <imgdir name="1992009"><string name="name" value="梦魇"/></imgdir>
+    <imgdir name="1992010"><string name="name" value="巴洛格"/></imgdir>
+    <imgdir name="1992011"><string name="name" value="隐形巴洛格"/></imgdir>
+    <imgdir name="1992012"><string name="name" value="3阶龙"/></imgdir>
+    <imgdir name="1992013"><string name="name" value="猫头鹰"/></imgdir>
+    <imgdir name="1992014"><string name="name" value="直升机"/></imgdir>
+    <imgdir name="Weapon"><imgdir name="1092070"><string name="name" value="第1位不速之客战士盾牌"/></imgdir>
+    <imgdir name="1092071"><string name="name" value="第2位不速之客战士盾牌"/></imgdir>
+    <imgdir name="1092072"><string name="name" value="第3位不速之客战士盾牌"/></imgdir>
+    <imgdir name="1092073"><string name="name" value="最后的不速之客战士盾牌"/></imgdir>
+    <imgdir name="1092074"><string name="name" value="VIP战士盾牌"/></imgdir>
+    <imgdir name="1092075"><string name="name" value="第1位不速之客魔法师盾牌"/></imgdir>
+    <imgdir name="1092076"><string name="name" value="第2位不速之客魔法师盾牌"/></imgdir>
+    <imgdir name="1092077"><string name="name" value="第3位不速之客魔法师盾牌"/></imgdir>
+    <imgdir name="1092078"><string name="name" value="最后的不速之客魔法师盾牌"/></imgdir>
+    <imgdir name="1092079"><string name="name" value="VIP魔法师盾牌"/></imgdir>
+    <imgdir name="1092080"><string name="name" value="第1位不速之客盗贼盾牌"/></imgdir>
+    <imgdir name="1092081"><string name="name" value="第2位不速之客盗贼盾牌"/></imgdir>
+    <imgdir name="1092082"><string name="name" value="第3位不速之客盗贼盾牌"/></imgdir>
+</imgdir>
+</imgdir>

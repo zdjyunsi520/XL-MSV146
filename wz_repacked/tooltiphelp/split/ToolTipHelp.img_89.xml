@@ -1,0 +1,101 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="200010300">
+			<imgdir name="eliza">
+				<string name="Title" value="King Sage Cat"/>
+				<imgdir name="Npc">
+					<string name="0" value="Eliza"/>
+				</imgdir>
+    <imgdir name="140000000">
+			<string name="west00" value="Field West of Rien"/>
+		</imgdir>
+    <imgdir name="140010000">
+			<imgdir name="east00">
+				<string name="Title" value="Rien"/>
+				<imgdir name="Npc">
+					<string name="0" value="Lilin"/>
+					<string name="1" value="Giant Polearm"/>
+					<string name="2" value="Pusla"/>
+					<string name="3" value="Puno"/>
+					<string name="4" value="Puri Puri"/>
+					<string name="6" value="Gaga"/>
+					<string name="7" value="Cassandra"/>
+					<string name="5" value="Maple Administrator"/>
+				</imgdir>
+    <imgdir name="west00">
+				<string name="Title" value="Entrance to Rien Training Center"/>
+				<imgdir name="Npc">
+					<string name="0" value="Puo"/>
+				</imgdir>
+    <imgdir name="140030000">
+			<string name="in00" value="Mirror of Desire"/>
+		</imgdir>
+    <imgdir name="140010200">
+			<string name="in00" value="Mirror Cave"/>
+		</imgdir>
+    <imgdir name="140020200">
+			<imgdir name="east00">
+				<string name="Title" value="Penguin Port"/>
+				<imgdir name="Npc">
+					<string name="0" value="Puro"/>
+				</imgdir>
+    <imgdir name="914020000">
+			<string name="out00" value="Battle Against Maha"/>
+		</imgdir>
+    <imgdir name="211050000">
+			<string name="in00" value="Rider's Field"/>
+		</imgdir>
+    <imgdir name="211060000">
+			<string name="east00" value="Castle Entrance"/>
+		</imgdir>
+    <imgdir name="211060200">
+			<string name="up00" value="Roof of the First Tower"/>
+			<imgdir name="east00">
+				<string name="Title" value="Under the Castle Walls 2"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210001"/>
+				</imgdir>
+    <imgdir name="211060400">
+			<string name="up00" value="Roof of the Second Tower"/>
+			<imgdir name="east00">
+				<string name="Title" value="Under the Castle Walls 3"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210002"/>
+				</imgdir>
+    <imgdir name="out00">
+				<string name="Title" value="Short Castle Walls 1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210004"/>
+				</imgdir>
+    <imgdir name="211060600">
+			<string name="up00" value="Roof of the Third Tower"/>
+			<imgdir name="east00">
+				<string name="Title" value="Under the Castle Walls 4"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210003"/>
+				</imgdir>
+    <imgdir name="out01">
+				<string name="Title" value="Short Castle Walls 2"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210004"/>
+				</imgdir>
+    <imgdir name="out10">
+				<string name="Title" value="Tall Castle Walls 1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210005"/>
+				</imgdir>
+    <imgdir name="211061000">
+			<imgdir name="east00">
+				<string name="Title" value="Ani's Jail"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210013"/>
+				</imgdir>
+    <imgdir name="211070000">
+			<string name="lionCastleenter" value="Audience Room"/>
+		</imgdir>
+    <imgdir name="211070100">
+			<string name="lioncastleout" value="Audience Room Corridor"/>
+		</imgdir>
+    <imgdir name="211070101">
+			<string name="out00" value="Audience Room"/>
+		</imgdir>
+</imgdir>

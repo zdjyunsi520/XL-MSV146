@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2000014">
+		<string name="name" value="Blue Potion for Beginners"/>
+		<string name="desc" value="A potion made out of blue herbs made especially for beginners. \nRecovers 80 MP."/>
+	</imgdir>
+    <imgdir name="2000015">
+		<string name="name" value="Orange Potion for Beginners"/>
+		<string name="desc" value="A concentrated potion made out of red herbs.\nRecovers 150 HP."/>
+	</imgdir>
+    <imgdir name="2000016">
+		<string name="name" value="White Potion"/>
+		<string name="desc" value="A highly-concentrated potion made out of red herbs.\nRecovers 300 HP."/>
+	</imgdir>
+    <imgdir name="2000017">
+		<string name="name" value="Blue Potion"/>
+		<string name="desc" value="A potion made out of blue herbs.\nRecovers 100 MP."/>
+	</imgdir>
+    <imgdir name="2000018">
+		<string name="name" value="Mana Elixir"/>
+		<string name="desc" value="A legendary potion.\nRecovers around 300 MP."/>
+	</imgdir>
+    <imgdir name="2000019">
+		<string name="name" value="Power Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2000020">
+		<string name="name" value="Red Potion for Noblesse"/>
+		<string name="desc" value="A special potion made out of herbs that exclusively grow in Ereve. Made specifically for Noblesss. \nHP +50."/>
+	</imgdir>
+    <imgdir name="2000021">
+		<string name="name" value="Blue Potion for Noblesse"/>
+		<string name="desc" value="A special potion made out of herbs that exclusively grow in Ereve. Made specifically for Noblesss. \nMP +100."/>
+	</imgdir>
+    <imgdir name="2000022">
+		<string name="name" value="Special Rien Red Potion"/>
+		<string name="desc" value="A special bottle of potion consisting of herbs that only grow in Rien. \nRecovers HP +100."/>
+	</imgdir>
+    <imgdir name="2000023">
+		<string name="name" value="Special Rien Blue Potion"/>
+		<string name="desc" value="A special bottle of potion consisting of herbs that only grow in Rien. \nRecovers MP +50."/>
+	</imgdir>
+    <imgdir name="2000024">
+		<string name="name" value="Crusader Saver"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 2000 HP."/>
+	</imgdir>
+    <imgdir name="2000025">
+		<string name="name" value="Potent Crusader Saver"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 4000 HP."/>
+	</imgdir>
+    <imgdir name="2000026">
+		<string name="name" value="Superior Crusader Saver"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 6000 HP."/>
+	</imgdir>
+    <imgdir name="2000027">
+		<string name="name" value="Crusader Refresher"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 2000 MP."/>
+	</imgdir>
+    <imgdir name="2000028">
+		<string name="name" value="Potent Crusader Refresher"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 4000 MP."/>
+	</imgdir>
+    <imgdir name="2000029">
+		<string name="name" value="Superior Crusader Refresher"/>
+		<string name="desc" value="Potion distributed to members of the Silent Crusade.\nRestores 6000 MP."/>
+	</imgdir>
+    <imgdir name="2000030">
+		<string name="name" value="Top Value Potion"/>
+		<string name="desc" value="A potion made with value-minded components. \nRecovers 5000 HP and MP."/>
+	</imgdir>
+    <imgdir name="2000031">
+		<string name="name" value="Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers 50% of Max HP and MP, with a limit of 49,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2000032">
+		<string name="name" value="Power Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2001000">
+		<string name="name" value="Watermelon"/>
+		<string name="desc" value="A very ripe watermelon.\nRecovers about 1000 HP and 1000 MP."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,303 @@
+<imgdir name="Map.img">
+    <imgdir name="Back to the old maple">
+		<imgdir name="690000000">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Mushroom Town"/>
+			<string name="mapDesc" value="The town for beginners. Playing the game through simple quests\r\nYou'll learn how to move around here."/>
+		</imgdir>
+		<imgdir name="690000001">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Mushroom Town"/>
+		</imgdir>
+		<imgdir name="690000002">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Mushroom Town Townstreet"/>
+		</imgdir>
+		<imgdir name="690000003">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="East Entrance to Mushroom Town"/>
+		</imgdir>
+		<imgdir name="690000004">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Snail Hunting Ground I"/>
+		</imgdir>
+		<imgdir name="690000005">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Snail Hunting Ground II"/>
+		</imgdir>
+		<imgdir name="690000006">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Snail Hunting Ground III"/>
+		</imgdir>
+		<imgdir name="690000007">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="A Split Road"/>
+		</imgdir>
+		<imgdir name="690000008">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="The Field West of Southperry"/>
+		</imgdir>
+		<imgdir name="690000009">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Southperry"/>
+			<string name="mapDesc" value="An harbor down south. It's the place where you can travel to a much bigger island."/>
+			<string name="help0" value="#e[To Enter the Event]#n\n\n  If there's a notice posted in #b#ein blue#n#k saying that we're accepting participants for an event, click on #e[Paul]#n and choose #e[Yeah, let's go!]#n to enter.\n  If you have already clicked on [Paul] when the event starts, then just click on [Yeah, let's go!] to enter.\n\n  Please read the event notice before entering.\n  Once the event starts, participants will be accepted as #efirst come, first serve#n until the event is full.\n\n#eYou can't enter an event more than once within 24 hours.#n\n\n  You won't be able to enter the event if you don't have any free slots available on your etc. inventory to receive an 'Event Trophy,' so make sure to leave a slot available.\n If you already have a #bSecret Scroll#k, please discard it before entering the event..\n\n#r  If you change channels or enter the #bCash Shop#k during the event, you'll automatically be disqualified from the event."/>
+		</imgdir>
+		<imgdir name="690000010">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Southperry Armor Store"/>
+		</imgdir>
+		<imgdir name="690000011">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="The Field West of Amherst"/>
+		</imgdir>
+		<imgdir name="690000012">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="In a Small Forest"/>
+		</imgdir>
+		<imgdir name="690000013">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Dangerous Forest"/>
+		</imgdir>
+		<imgdir name="690000014">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Mushroom Garden"/>
+		</imgdir>
+		<imgdir name="690000015">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Snail Garden"/>
+		</imgdir>
+		<imgdir name="690000016">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Hunting Ground Middle of the Forest I"/>
+		</imgdir>
+		<imgdir name="690000017">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Hunting Ground Middle of the Forest II"/>
+		</imgdir>
+		<imgdir name="690000018">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Amherst"/>
+			<string name="mapDesc" value="It's a town located at the east of Maple Island, and it has various stores like weapon store, armor store, and department stores."/>
+		</imgdir>
+		<imgdir name="690000019">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Amherst Weapon Store"/>
+		</imgdir>
+		<imgdir name="690000020">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Amherst Townstreet"/>
+		</imgdir>
+		<imgdir name="690000021">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Amherst Department Store"/>
+		</imgdir>
+		<imgdir name="690000022">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Snail Field of Flowers"/>
+		</imgdir>
+		<imgdir name="690000023">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="The Field East of Amherst"/>
+		</imgdir>
+		<imgdir name="690000024">
+			<string name="streetName" value="Rainbow Street"/>
+			<string name="mapName" value="Tomato Field"/>
+		</imgdir>
+		<imgdir name="690000025">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Henesys"/>
+			<string name="mapDesc" value="It's a bowman town on a wide prairie, and you can choose to become a bowman here."/>
+		</imgdir>
+		<imgdir name="690000026">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Ellinia"/>
+			<string name="mapDesc" value="It's a magician town surrounded by the forest, and you can choose to become a magician here."/>
+		</imgdir>
+		<imgdir name="690000027">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Perion"/>
+			<string name="mapDesc" value="It's a warrior town located at the high mountainous area, and you can choose to become a warrior here."/>
+		</imgdir>
+		<imgdir name="690000028">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Kerning City"/>
+			<string name="mapDesc" value="It's a thief town in the middle of the city where the sun sets. You can choose to become a thief here."/>
+		</imgdir>
+		<imgdir name="690000029">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Lith Harbor"/>
+			<string name="mapDesc" value="The port city in Victoria Island. Enables one to travel to different cities."/>
+			<string name="help0" value="#e[How to Participate in this Event]#n\n\n  There will be a notice popping up, written in #b#eBlue#n#. When that happens, click on #e[Jean]#n and click on #e[Alright, let's go.]#n to enter.\n If you have already clicked on [Jean] before the notice popped up, all you need to do is click on [Alright, let's go.] to enter.\n\n  Please check the Event notice first before entering the event.\n  Once the event notice is up, we'll be gathering up the event participants on a #eFirst-come, First-serve#n order.\n\n  You may not participate in more than ONE event for every 24 hrs.\n  You won't be able to participate in this event if you do not have the necessary free spots available for 'Participation Reward', so please make sure to leave a free etc. slot open before joining the event.\n  If you possess the Scroll of Darkness, then you'll need to throw it away before participating.\n\n#r  During the event, if you happen to change the channel or use the Cash Shop while at the Event map, you won't be able to return to the event, thereby getting disqualified from the event, so please be careful on that."/>
+			<string name="help1" value="#e[ Monster Attack ]#n\n\n#e#rA BIG MONSTER ALERT!!!#k#n\n\n A force of evil that had been sealed up for ages have recently been let loose, and the evil monsters that have soaked up the force are planning to attack any town of their choice! This is when we all need to gather up and unite as one in defeating the monsters that may endanger the lives of mnay in the area. \nThese monsters are controlled by the force of evil, and are all very powerful.\n\nThe #e#bForce of Evil#k#n that can be collected by defeating all the monsters attacking the village should be taken to the #e#bMaple Administrator#k#n.\nAfter sealing up the monstrous force through spells, the #e#bforce of evil#k#n can then be taken to #e#bNPC The Rememberer#k#n.\nAlright, now please head over to the town where the monsters have attacked, and please save the town from getting totally demolished by these evil monsters!"/>
+		</imgdir>
+		<imgdir name="690000030">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="Sleepywood"/>
+		</imgdir>
+		<imgdir name="690000031">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Henesys Pig Farm"/>
+		</imgdir>
+		<imgdir name="690000032">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Dungeon, Southern Forest III"/>
+		</imgdir>
+		<imgdir name="690000033">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Land of Wild Boar"/>
+		</imgdir>
+		<imgdir name="690000034">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Northern Top of Construction Site"/>
+		</imgdir>
+		<imgdir name="690000035">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Caution Falling Down"/>
+		</imgdir>
+		<imgdir name="690000036">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Henesys Hunting Ground II"/>
+		</imgdir>
+		<imgdir name="690000037">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="Hunting Ground in the Deep Forest I"/>
+		</imgdir>
+		<imgdir name="690000038">
+			<string name="streetName" value="Mini Dungeon"/>
+			<string name="mapName" value="Cave of Mushrooms"/>
+		</imgdir>
+		<imgdir name="690000039">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="Ant Tunnel I"/>
+		</imgdir>
+		<imgdir name="690000040">
+			<string name="streetName" value="Maple Road"/>
+			<string name="mapName" value="Entrance - Mushroom Town Training Camp"/>
+		</imgdir>
+		<imgdir name="690000041">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B1 &lt;Area 1&gt;"/>
+		</imgdir>
+		<imgdir name="690000042">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B1 &lt;Area 2&gt;"/>
+		</imgdir>
+		<imgdir name="690000043">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B1 &lt;Subway Depot&gt;"/>
+		</imgdir>
+		<imgdir name="690000044">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B2 &lt;Area 1&gt;"/>
+		</imgdir>
+		<imgdir name="690000045">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B2 &lt;Area 2&gt;"/>
+		</imgdir>
+		<imgdir name="690000046">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B2 &lt;Subway Depot&gt;"/>
+		</imgdir>
+		<imgdir name="690000047">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B3 &lt;Area 1&gt;"/>
+		</imgdir>
+		<imgdir name="690000048">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B3 &lt;Area 2&gt;"/>
+		</imgdir>
+		<imgdir name="690000049">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B3 &lt;Area 3&gt;"/>
+		</imgdir>
+		<imgdir name="690000050">
+			<string name="streetName" value="Line 3 Construction Site"/>
+			<string name="mapName" value="B3 &lt;Subway Depot&gt;"/>
+		</imgdir>
+		<imgdir name="690000051">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Subway Ticketing Booth"/>
+		</imgdir>
+		<imgdir name="690000053">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Monkey Forest II"/>
+		</imgdir>
+		<imgdir name="690000052">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Tree Dungeon, Monkey Forest II"/>
+		</imgdir>
+		<imgdir name="690000054">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Right Around Lith Harbor"/>
+		</imgdir>
+		<imgdir name="690000055">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Henesys Hunting Ground I"/>
+		</imgdir>
+		<imgdir name="690000056">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="East Rocky Mountain II"/>
+		</imgdir>
+		<imgdir name="690000057">
+			<string name="streetName" value="Warning Street"/>
+			<string name="mapName" value="The Burnt Land I"/>
+		</imgdir>
+		<imgdir name="690000058">
+			<string name="streetName" value="Kerning City Subway"/>
+			<string name="mapName" value="Line 1 &lt;Area 2&gt;"/>
+		</imgdir>
+		<imgdir name="690000059">
+			<string name="streetName" value="Kerning City Subway"/>
+			<string name="mapName" value="Line 1 &lt;Area 1&gt;"/>
+		</imgdir>
+		<imgdir name="690000060">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Monkey Forest I"/>
+		</imgdir>
+		<imgdir name="690000061">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="Sanctuary Entrance I"/>
+		</imgdir>
+		<imgdir name="690000062">
+			<string name="streetName" value="Florina Road"/>
+			<string name="mapName" value="Hot Sand"/>
+		</imgdir>
+		<imgdir name="690000063">
+			<string name="streetName" value="Warning Street"/>
+			<string name="mapName" value="The Burnt Land III"/>
+		</imgdir>
+		<imgdir name="690000064">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="The forest of Golem"/>
+		</imgdir>
+		<imgdir name="690000065">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="Drake's Meal Table"/>
+		</imgdir>
+		<imgdir name="690000066">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Forest of Patience &lt;Step 1&gt;"/>
+		</imgdir>
+		<imgdir name="690000067">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Forest of Patience &lt;Step 2&gt;"/>
+		</imgdir>
+		<imgdir name="690000068">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Forest of Patience &lt;Step 3&gt;"/>
+		</imgdir>
+		<imgdir name="690000069">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Forest of Patience &lt;Step 4&gt;"/>
+		</imgdir>
+		<imgdir name="690000070">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Forest of Patience &lt;Step 5&gt;"/>
+		</imgdir>
+		<imgdir name="690000071">
+			<string name="streetName" value="Dungeon"/>
+			<string name="mapName" value="The Cursed Sanctuary"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

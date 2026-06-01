@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2385016">
+		<string name="name" value="Black Kentaurus Card"/>
+		<string name="desc" value="A card that features Black Kentaurus.\n#cIf hunting at Leafre ForestnDefense against darkness +20%#"/>
+	</imgdir>
+    <imgdir name="2385017">
+		<string name="name" value="Red Kentaurus Card"/>
+		<string name="desc" value="A card that features Red Kentaurus.\n#cIf hunting at Leafre ForestnDefense against fire-based attacks +12%#"/>
+	</imgdir>
+    <imgdir name="2385018">
+		<string name="name" value="Blue Kentaurus Card"/>
+		<string name="desc" value="A card that features Blue Kentaurus.\n#cIf hunting at Leafre ForestnDefense against ice-based attacks +12%#"/>
+	</imgdir>
+    <imgdir name="2385019">
+		<string name="name" value="Dual Birk Card"/>
+		<string name="desc" value="A card that features Dual Birk.\n#cIf hunting at Leafre ForestnSpeed +4#"/>
+	</imgdir>
+    <imgdir name="2385020">
+		<string name="name" value="Master Death Teddy Card"/>
+		<string name="desc" value="A card that features Master Death Teddy.\n#cIf hunting at the lower levels of the ClocktowernAccuracy +4/Avoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385021">
+		<string name="name" value="Bain Card"/>
+		<string name="desc" value="A card that features Bain.\n#cIf hunting at Dead MinenDefense against fire-based attacks +12%#"/>
+	</imgdir>
+    <imgdir name="2385022">
+		<string name="name" value="Blue Dragon Turtle Card"/>
+		<string name="desc" value="A card that features Blue Dragon Turtle.\n#cIf hunting at the Dragon ForestnAccuracy +4#"/>
+	</imgdir>
+    <imgdir name="2385023">
+		<string name="name" value="Deet and Roi Card"/>
+		<string name="desc" value="A card that features Deet amd Roi.\n#cIf hunting at the Zenumist InstitutenSpeed +4#"/>
+	</imgdir>
+    <imgdir name="2385024">
+		<string name="name" value="Sakura Jonin Card"/>
+		<string name="desc" value="A card that features Jonin.\n#cIncreases Speed +4 when you hunt at Sakura Castle.#"/>
+	</imgdir>
+    <imgdir name="2385025">
+		<string name="name" value="Eye of Time Card"/>
+		<string name="desc" value="A card with a picture of the Eye of Time.\nWhen hunting on the Temple of TimenSpeed +4#"/>
+	</imgdir>
+    <imgdir name="2385035">
+		<string name="name" value="Berserkie Card"/>
+		<string name="desc" value="A card that features Berserkie."/>
+	</imgdir>
+    <imgdir name="2385037">
+		<string name="name" value="Veetron Card"/>
+		<string name="desc" value="A card that features Veetron."/>
+	</imgdir>
+    <imgdir name="2385038">
+		<string name="name" value="Robby Card"/>
+		<string name="desc" value="A card featuring Robby.\n\cMagic DEF +4 when hunting in Year 2215 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385039">
+		<string name="name" value="Iruvata Card "/>
+		<string name="desc" value="A card featuring Iruvata.\n\cWeapon DEF +4 when hunting in Year 2215 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385040">
+		<string name="name" value="Maverick Type A Card "/>
+		<string name="desc" value="A card featuring Maverick Type A.\n\cINT +4 when hunting in Year 2230 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385041">
+		<string name="name" value="Maverick Type S Card"/>
+		<string name="desc" value="A card featuring Maverick Type S.\n\cLUK +4 when hunting in Year 2230 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385042">
+		<string name="name" value="Maverick Type D Card"/>
+		<string name="desc" value="A card featuring Maverick Type D.\n\cAvoidability +4 when hunting in Year 2230 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385043">
+		<string name="name" value="Afterlord Card "/>
+		<string name="desc" value="A card featuring the Afterlord.\n\cAccuracy +4 when hunting in Year 2216 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385044">
+		<string name="name" value="Prototype Lord Card "/>
+		<string name="desc" value="A card featuring the Prototype Lord.\n\cSpeed +4 when hunting in Year 2216 Neo City#"/>
+	</imgdir>
+    <imgdir name="2385045">
+		<string name="name" value="Royal Cactus Card"/>
+		<string name="desc" value="A card that features Royal Cactus."/>
+	</imgdir>
+</imgdir>

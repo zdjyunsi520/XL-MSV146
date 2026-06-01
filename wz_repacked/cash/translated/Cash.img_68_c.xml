@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5240083">
+			<string name="name" value="蜜桃灵魂糖果"/>
+			<string name="desc" value="一滴糖浆般的小糖果，完美适合#c蜜桃天使#。完全恢复饱食度并#c增加亲密度100#。"/>
+		</imgdir>
+    <imgdir name="5240085">
+			<string name="name" value="灵魂药瓶"/>
+			<string name="desc" value="由纯净灵魂特制而成的灵药，专为#c暖烘烘恶魔、冰冷恶魔和瘴气恶魔#准备。完全恢复饱食度并#c增加亲密度100#。"/>
+		</imgdir>
+    <imgdir name="5240088">
+			<string name="name" value="呱呱青蛙"/>
+			<string name="desc" value="只有#c滑溜蛇#才能食用的青蛙。完全恢复饱食度并#c增加亲密度100#。"/>
+		</imgdir>
+    <imgdir name="5222092">
+			<string name="name" value="男性韩服惊喜礼盒"/>
+			<string name="desc" value="双击此道具可获得一件随机韩服或头饰。"/>
+		</imgdir>
+    <imgdir name="5222093">
+			<string name="name" value="女性韩服惊喜礼盒"/>
+			<string name="desc" value="双击此道具可获得一件随机韩服、头饰或发夹。"/>
+		</imgdir>
+    <imgdir name="5222098">
+			<string name="name" value="男生校服礼盒"/>
+			<string name="desc" value="双击此道具可获得一件随机校服。"/>
+		</imgdir>
+    <imgdir name="5222099">
+			<string name="name" value="女生校服礼盒"/>
+			<string name="desc" value="双击此道具可获得一件随机校服。"/>
+		</imgdir>
+    <imgdir name="5532095">
+			<string name="name" value="未来机器人宝箱1"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532096">
+			<string name="name" value="未来机器人宝箱2"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532097">
+			<string name="name" value="未来机器人宝箱3"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532098">
+			<string name="name" value="未来机器人宝箱4"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532099">
+			<string name="name" value="未来机器人宝箱5"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532100">
+			<string name="name" value="未来机器人宝箱6"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5532101">
+			<string name="name" value="未来机器人宝箱7"/>
+			<string name="desc" value="内含未来机器人零件。双击即可打开。"/>
+		</imgdir>
+    <imgdir name="5530608">
+			<string name="name" value="电子心脏兑换券"/>
+			<string name="desc" value="双击可获得一枚电子心脏，可供未来机器人使用。"/>
+		</imgdir>
+    <imgdir name="5532124">
+			<string name="name" value="魅魔机器人兑换券"/>
+			<string name="desc" value="特殊的机器人兑换券，可获得一个#c魅魔#机器人和一颗珠串心。"/>
+		</imgdir>
+    <imgdir name="5222100">
+			<string name="name" value="魅魔服装礼盒"/>
+			<string name="desc" value="双击此道具可获得一件随机魅魔帽子、翅膀、手套、鞋子或连衣裙。"/>
+		</imgdir>
+    <imgdir name="5222101">
+			<string name="name" value="动物伙伴帽子礼盒"/>
+			<string name="desc" value="双击此礼盒可获得一只随机超可爱的动物伙伴，它会趴在你头上哦。在未装备且距过期超过10天的情况下可与其他玩家交易。"/>
+		</imgdir>
+    <imgdir name="5222102">
+			<string name="name" value="冬季惊喜造型礼盒"/>
+			<string name="desc" value="双击此礼盒可获得一件随机冬季主题装备道具。礼盒内均为永久道具，在未装备前可与其他玩家交易。"/>
+		</imgdir>
+    <imgdir name="5222103">
+			<string name="name" value="冬季天气礼盒"/>
+			<string name="desc" value="双击此礼盒可获得一个冬季飘雪特效。这些道具不可交易，有效期为7天。"/>
+		</imgdir>
+	</imgdir>

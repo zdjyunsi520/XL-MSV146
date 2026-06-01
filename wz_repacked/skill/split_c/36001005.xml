@@ -1,0 +1,5 @@
+<imgdir name="36001005">
+        <string name="name" value="精确弹幕" />
+        <string name="desc" value="发射多枚导弹轰炸范围内的敌人！消耗额外能量单位，飞行中也可使用。" />
+        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Damage to enemies in range: #damage%, Number of Missiles: #bulletCount." />
+    </imgdir>

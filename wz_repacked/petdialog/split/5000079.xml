@@ -1,0 +1,246 @@
+<imgdir name="5000079">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="meow~"/>
+		<string name="c1_s2" value="meeeooww~"/>
+		<string name="c1_f1" value="meow? meeeeeoooww?"/>
+		<string name="c1_f2" value="meoow?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="You want me to sit, meoww? I'm one smart cat...meow"/>
+		<string name="c2_s2" value="Like this, meow? This is nothing, meow..."/>
+		<string name="c2_s3" value="It's a piece of cake, meow."/>
+		<string name="c2_s4" value="Too easy, meow~"/>
+		<string name="c2_f1" value="I wanna do something fun, meow~"/>
+		<string name="c2_f2" value="I wanna do something else, meow~"/>
+		<string name="c2_f3" value="It's too nasty for me to sit, meow~"/>
+		<string name="c2_f4" value="I can't sit here, because someone peed the ground, meow~"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Yes, master~ MEOW~"/>
+		<string name="c3_s2" value="Like this? MEOW~"/>
+		<string name="c3_s3" value="I did well, right? MEOW~"/>
+		<string name="c3_s4" value="Sitting is easy~ MEOW~"/>
+		<string name="c3_f1" value="Master, instead of that...give me some food~ MEOW~"/>
+		<string name="c3_f2" value="Master, let's do something else for fun~ Meow~"/>
+		<string name="c3_f3" value="I don't wanna sit right now~ MEOW~"/>
+		<string name="c3_f4" value="Master, you're talking funny, and I can't understand you~"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Just say it~"/>
+		<string name="c4_s2" value="It's hard being a pet..."/>
+		<string name="c4_s3" value="Piece of cake..."/>
+		<string name="c4_s4" value="Master, whaddaya think? I'm good right?"/>
+		<string name="c4_f1" value="Why don't YOU sit...hehe"/>
+		<string name="c4_f2" value="Sitting's waaay too easy...let me do something else."/>
+		<string name="c4_f3" value="Ahh..I'm sleepy...what's up? What did you say? I didn't hear you~"/>
+		<string name="c4_f4" value="Hehe...I was daydreaming, so I couldn't hear you..."/>
+		<string name="c5" value="bad|no|badgirl|badboy"/>
+		<string name="c5_s1" value="niao...niao..."/>
+		<string name="c5_s2" value="meeeeooooowww...~"/>
+		<string name="c5_f1" value="kaooooooo~!"/>
+		<string name="c5_f2" value="Kao~! Kao~!"/>
+		<string name="c6" value="bad|no|badgirl|badboy"/>
+		<string name="c6_s1" value="Heeeng...you scare me, meow..."/>
+		<string name="c6_s2" value="That's not cool, meow..."/>
+		<string name="c6_s3" value="Please don't make a scary face like that...meow..."/>
+		<string name="c6_s4" value="That...that surprised me, meow..."/>
+		<string name="c6_f1" value="What did I do wrong, meow?"/>
+		<string name="c6_f2" value="You're just going off on me, meow...!"/>
+		<string name="c6_f3" value="I didn't do anything wrong, meow...!"/>
+		<string name="c6_f4" value="You're just doing this because you're bored, meow...!"/>
+		<string name="c7" value="bad|no|badgirl|badboy"/>
+		<string name="c7_s1" value="So...sorry...MEOW..."/>
+		<string name="c7_s2" value="I'm sorry...MEOW..."/>
+		<string name="c7_s3" value="Master, are you really mad at me...? MEOW..."/>
+		<string name="c7_s4" value="Master...I won't do that again...MEOW..."/>
+		<string name="c7_f1" value="What did I do anyway~! MEOW!"/>
+		<string name="c7_f2" value="Master that wasn't cool at all! Meow~!"/>
+		<string name="c7_f3" value="Where else will you find an obedient pet like me? MEOW~!"/>
+		<string name="c7_f4" value="Master! If you keep doing that, I may one day get out of here! MEOW!"/>
+		<string name="c8" value="bad|no|badgirl|badboy"/>
+		<string name="c8_s1" value="Master...I'll be careful now..."/>
+		<string name="c8_s2" value="Ah...master, you're really scaring me..."/>
+		<string name="c8_s3" value="Master...I'll be good now..."/>
+		<string name="c8_s4" value="Master...please give me that scary face..."/>
+		<string name="c8_f1" value="Man...I haven't done anything wrong, and still..."/>
+		<string name="c8_f2" value="Master...things happen in life..."/>
+		<string name="c8_f3" value="Man...going off on me again for no reason..."/>
+		<string name="c8_f4" value="Master must be bored...so I'm treated like crap..."/>
+		<string name="c9" value="stupid|ihateyou|dummy"/>
+		<string name="c9_s1" value="Meeeooooowwww..."/>
+		<string name="c9_s2" value="Meow... ... ..."/>
+		<string name="c9_f1" value="Meeeoooow!!"/>
+		<string name="c9_f2" value="OWWW!!!!"/>
+		<string name="c10" value="stupid|ihateyou|dummy"/>
+		<string name="c10_s1" value="I...I am not that, meow..."/>
+		<string name="c10_s2" value="Please don't leave me, meow..."/>
+		<string name="c10_s3" value="I don't like hearing that, meow..."/>
+		<string name="c10_s4" value="That was harsh, meow..."/>
+		<string name="c10_f1" value="Take back what you just said, meow!"/>
+		<string name="c10_f2" value="I'm not that, meow!!"/>
+		<string name="c10_f3" value="I'm pissed, meow!!"/>
+		<string name="c10_f4" value="What are you saying, meow???"/>
+		<string name="c11" value="stupid|ihateyou|dummy"/>
+		<string name="c11_s1" value="M...master...I can't believe you said that...MEOW!"/>
+		<string name="c11_s2" value="Master, I get hurt when I hear those...MEOW"/>
+		<string name="c11_s3" value="That was a joke...right? Right? MEOW?"/>
+		<string name="c11_s4" value="You...didn't mean that, right? right? MEOW?"/>
+		<string name="c11_f1" value="You're stupid! MEOW!"/>
+		<string name="c11_f2" value="Take back what you said! MEOW!!!!!"/>
+		<string name="c11_f3" value="That hurts, master! MEOW!"/>
+		<string name="c11_f4" value="You suck master! MEOW!"/>
+		<string name="c12" value="stupid|ihateyou|dummy"/>
+		<string name="c12_s1" value="Master...this is not the first time I've heard this, but it still hurts..."/>
+		<string name="c12_s2" value="You aren't gonna leave me out hanging like this, right?"/>
+		<string name="c12_s3" value="I still like you though..."/>
+		<string name="c12_s4" value="Do you really not like me??"/>
+		<string name="c12_f1" value="Wah? What? I can't hear you~"/>
+		<string name="c12_f2" value="You didn't mean what you said, right?"/>
+		<string name="c12_f3" value="I'm sick of hearing that everyday...hehe"/>
+		<string name="c12_f4" value="If you keep saying that, I can really go pissy on you..."/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Meeeeeeeeeeeow~"/>
+		<string name="c13_s2" value="Meeoooooow~"/>
+		<string name="c13_f1" value="Meow? Meeeow?"/>
+		<string name="c13_f2" value="Meooooooow~"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Oh, that was good, meow..."/>
+		<string name="c14_s2" value="Ahhh..."/>
+		<string name="c14_s3" value="It...it's not coming out well, meow..."/>
+		<string name="c14_s4" value="Oh...it smells, meow..."/>
+		<string name="c14_f1" value="It's not pooping time yet, meow..."/>
+		<string name="c14_f2" value="How can I poop if I don't feel like it, meow..."/>
+		<string name="c14_f3" value="Pooping is only for bathroom, meow..."/>
+		<string name="c14_f4" value="I pooped before, meow..."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Phew~ MEOW~"/>
+		<string name="c15_s2" value="Oh my...it smells...MEOW~"/>
+		<string name="c15_s3" value="EEhhh...I may be constipating...MEOW~"/>
+		<string name="c15_s4" value="EEhhh...not coming out...MEOW~"/>
+		<string name="c15_f1" value="Master, it hasn't been long since I last pooped...MEOW..."/>
+		<string name="c15_f2" value="It's not time to poop yet, master...MEOW..."/>
+		<string name="c15_f3" value="Master...I don't feel like pooping yet...MEOW..."/>
+		<string name="c15_f4" value="Don't YOU poop, master? MEOW..."/>
+		<string name="c16" value="poop"/>
+		<string name="c16_s1" value="Ahhh...that was good...but it's still embarassing...hehe"/>
+		<string name="c16_s2" value="Ahh...whoa, my breakfast just came out like that...hehe"/>
+		<string name="c16_s3" value="Phew~ Doesn't my poop look as adorable as me? "/>
+		<string name="c16_s4" value="Phew~ Haven't taken a crap in 3 days and look at this!! Yowza!"/>
+		<string name="c16_f1" value="I haven't had anything to poop out in the first place..."/>
+		<string name="c16_f2" value="Master...can I do it later in the dark? I don't wanna do it in public..."/>
+		<string name="c16_f3" value="Master! YOU POOP"/>
+		<string name="c16_f4" value="Master...how am I gonna crap on purpose??"/>
+		<string name="c17" value="talk|chat|say"/>
+		<string name="c17_s1" value="I'm hungry, hungry, meow~"/>
+		<string name="c17_s2" value="The harder you go hunting, the better the items you'll find, meow..."/>
+		<string name="c17_s3" value="Isn't it nice out here today? We should go far and have fun wherever on a day like this, meow..."/>
+		<string name="c17_s4" value="I need a nap on top of a comfortable blanket, meow..."/>
+		<string name="c17_f1" value="How do cats talk, meow~"/>
+		<string name="c17_f2" value="I'm too depressed to talk right now, meow~"/>
+		<string name="c17_f3" value="I have nothing to say to you...meow...!"/>
+		<string name="c17_f4" value="Cats don't talk, meow!"/>
+		<string name="c18" value="talk|chat|say"/>
+		<string name="c18_s1" value="It's awesome outside today~MEOW!"/>
+		<string name="c18_s2" value="I have a feeling a nice item may come our way today! MEOW!"/>
+		<string name="c18_s3" value="Master, you'll get me some goood food today, right? MEOW~"/>
+		<string name="c18_s4" value="Let's go to the beach today! I wanna do something fun!!"/>
+		<string name="c18_f1" value="I don't have anything to say...MEOW..."/>
+		<string name="c18_f2" value="I wanna rest~MEOW~"/>
+		<string name="c18_f3" value="I have little to say...MEOW..."/>
+		<string name="c18_f4" value="Feel me first...MEOW!"/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Master, are you dating someone? I'm not..."/>
+		<string name="c19_s2" value="Hey master, can you beat Barlog?"/>
+		<string name="c19_s3" value="You better level-up today!"/>
+		<string name="c19_s4" value="Master, I heard there's something scary in a cave in the middle of the island..."/>
+		<string name="c19_f1" value="Ah...screw the talk, just get me some food..."/>
+		<string name="c19_f2" value="Must be really really bored...haha..."/>
+		<string name="c19_f3" value="Arrgh...didn't hear a thing...didn't hear a thing..."/>
+		<string name="c19_f4" value="Man I'm tired, and I don't feel like talking..."/>
+		<string name="c20" value="cutie"/>
+		<string name="c20_s1" value="What do you think, meow? Am I doing well...meow?"/>
+		<string name="c20_s2" value="Even I think this is cute...meow...~"/>
+		<string name="c20_s3" value="Hehe...is this the right way...meow...?"/>
+		<string name="c20_s4" value="You like me? I like you too. Meow!"/>
+		<string name="c20_f1" value="No! I don't want to do it...meow...!"/>
+		<string name="c20_f2" value="Dummy! You do it...meow...!"/>
+		<string name="c20_f3" value="Not in a mood...meow...!"/>
+		<string name="c20_f4" value="I'm TIRED, meow...!"/>
+		<string name="c21" value="cutie"/>
+		<string name="c21_s1" value="Master, what do you think? Cute, right? MEOW!"/>
+		<string name="c21_s2" value="Hehe... Cute. But I got here, right? MEOW!"/>
+		<string name="c21_s3" value="I'll do anything for you, master~!"/>
+		<string name="c21_s4" value="Whatever you ask me to do...MEOW~!"/>
+		<string name="c21_f1" value="Master! Just get me some food! MEOW!"/>
+		<string name="c21_f2" value="I don't wanna do cute stuff! MEOW!"/>
+		<string name="c21_f3" value="Master, I don't feel good! MEOW!"/>
+		<string name="c21_f4" value="Just leave me alone! MEOW!"/>
+		<string name="c22" value="cutie"/>
+		<string name="c22_s1" value="Like this? At least you know a cute act when you see one..."/>
+		<string name="c22_s2" value="Luv ya master~"/>
+		<string name="c22_s3" value="Master I love you~"/>
+		<string name="c22_s4" value="I'll do whatever you ask me to do~"/>
+		<string name="c22_f1" value="Keeps making me do stupid stuff...I'm sick of it..."/>
+		<string name="c22_f2" value="Feed me instead of making me do those!"/>
+		<string name="c22_f3" value="Man~ That thing is wack now! I don't wanna do it!"/>
+		<string name="c22_f4" value="You think I'll do just what you ask me to do? Dummy..."/>
+		<string name="c23" value="up|stand|rise"/>
+		<string name="c23_s1" value="It's hard...I can't stand for too long~MEOW~"/>
+		<string name="c23_s2" value="Like this? MEOW?"/>
+		<string name="c23_s3" value="Master~ I'm doing fine, right? MEOW?"/>
+		<string name="c23_s4" value="Hap!! Whoa, I got tall! MEOW!"/>
+		<string name="c23_f1" value="It's hard! MEOW!"/>
+		<string name="c23_f2" value="No way~! MEOW!"/>
+		<string name="c23_f3" value="NOOOO NOO NOO~! MEOW~!"/>
+		<string name="c23_f4" value="How's a cat supposed to stand up? MEOW!"/>
+		<string name="c24" value="up|stand|rise"/>
+		<string name="c24_s1" value="Hehe...master, I'm good, right?"/>
+		<string name="c24_s2" value="This ain't nothing~ Too easy~"/>
+		<string name="c24_s3" value="If I keep practicing like this everyday, I may one day walk around with two feet...hehe"/>
+		<string name="c24_s4" value="I'm good, right? Give me something harder~"/>
+		<string name="c24_f1" value="Maybe if you feed me...then I might...hehe"/>
+		<string name="c24_f2" value="Master~That's too hard, and I don't wanna do it~"/>
+		<string name="c24_f3" value="Man...some strange stuff again..."/>
+		<string name="c24_f4" value="No..."/>
+		<string name="c25" value="iloveyou"/>
+		<string name="c25_s1" value="Meow~~"/>
+		<string name="c25_s2" value="Meow~, meow~~~~"/>
+		<string name="c25_f1" value="...?"/>
+		<string name="c25_f2" value="Meow?"/>
+		<string name="c26" value="iloveyou"/>
+		<string name="c26_s1" value="I love you too, meow~"/>
+		<string name="c26_s2" value="Hehe...I'm blushing, meow~"/>
+		<string name="c26_s3" value="Really? Thanks, meow~"/>
+		<string name="c26_s4" value="Me too~"/>
+		<string name="c26_f1" value="Liar..."/>
+		<string name="c26_f2" value="What did you say, meow?"/>
+		<string name="c26_f3" value="What's up, meow?"/>
+		<string name="c26_f4" value="Since when, meow?"/>
+		<string name="c27" value="iloveyou"/>
+		<string name="c27_s1" value="Master, me too~! MEOW!"/>
+		<string name="c27_s2" value="Really? Thanks, master! MEOW!"/>
+		<string name="c27_s3" value="I like you too~ MEOW!"/>
+		<string name="c27_s4" value="I like you very very much! MEOW!"/>
+		<string name="c27_f1" value="Master, give me some food...meow..."/>
+		<string name="c27_f2" value="...? MEOW?"/>
+		<string name="c27_f3" value="Ah...I was thinking of something else...MEOW"/>
+		<string name="c27_f4" value="I know you're lying...MEOW..."/>
+		<string name="c28" value="iloveyou"/>
+		<string name="c28_s1" value="Master...right back atcha!"/>
+		<string name="c28_s2" value="You're the only one in my heart, master!"/>
+		<string name="c28_s3" value="Me too! Me too!! hehe..."/>
+		<string name="c28_s4" value="Aye...I'm blushing..."/>
+		<string name="c28_f1" value="Liar~ Liar~"/>
+		<string name="c28_f2" value="Master's talking gibberish again..."/>
+		<string name="c28_f3" value="Don't be lying to me like that~!"/>
+		<string name="c28_f4" value="Gimme some food already~"/>
+		<string name="f1_s" value="Meow~ Meow~Meoooow!"/>
+		<string name="f1_f" value="Me...meooooooowwww..."/>
+		<string name="f2_s" value="FOOD~! FOOD~!"/>
+		<string name="f2_f" value="I wanna stop eating now...argh..."/>
+		<string name="f3_s" value="Master~ That was gooood!"/>
+		<string name="f3_f" value="Master...I can't eat anymore...hoo"/>
+		<string name="f4_s" value="Master, I want today's special~"/>
+		<string name="f4_f" value="Yo master...I'm realllly full..."/>
+		<string name="s1" value="Meoow?"/>
+		<string name="s2" value="Why are you making me say that? Meow~"/>
+		<string name="s3" value="ME NO SAY THAT~ Meow~"/>
+		<string name="s4" value="I hate offensive lauguages~ Meow~"/>
+	</imgdir>

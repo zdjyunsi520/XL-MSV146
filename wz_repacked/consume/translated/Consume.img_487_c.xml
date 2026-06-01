@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2003596">
+		<string name="desc" value="炼金术大师和著名大师可以制作此药水，40分钟内增加BOSS攻击力20%。#c注意：#\n通常一次只能使用1瓶药水，但炼金师如果是不同类型可以使用2瓶。冷却时间为50分钟。"/>
+		<string name="name" value="高级BOSS冲刺增益药水"/>
+	</imgdir>
+    <imgdir name="2003597">
+		<string name="desc" value="炼金术大师和著名大师可以制作此药水，40分钟内增加武器攻击力10%。#c注意：#\n通常一次只能使用1瓶药水，但炼金师如果是不同类型可以使用2瓶。冷却时间为50分钟。"/>
+		<string name="name" value="高级英雄增益药水"/>
+	</imgdir>
+    <imgdir name="2003598">
+		<string name="desc" value="炼金术大师和著名大师可以制作此药水，40分钟内增加无视防御力比率20%。#c注意：#\n通常一次只能使用1瓶药水，但炼金师如果是不同类型可以使用2瓶。冷却时间为50分钟。"/>
+		<string name="name" value="高级穿透增益药水"/>
+	</imgdir>
+    <imgdir name="2003599">
+		<string name="desc" value="炼金术大师和著名大师可以制作此药水，40分钟内增加所有属性10%。#c注意：#\n通常一次只能使用1瓶药水，但炼金师如果是不同类型可以使用2瓶。冷却时间为50分钟。"/>
+		<string name="name" value="高级祝福增益药水"/>
+	</imgdir>
+    <imgdir name="2003046">
+		<string name="desc" value="BigWigs成员专用药丸。\n恢复约10000 HP。（只能由10级及以上角色使用。）"/>
+		<string name="name" value="BigWigs HP恢复药丸"/>
+	</imgdir>
+    <imgdir name="2003047">
+		<string name="desc" value="BigWigs成员专用药丸。\n恢复约10000 MP。（只能由10级及以上角色使用。）"/>
+		<string name="name" value="BigWigs MP恢复药丸"/>
+	</imgdir>
+    <imgdir name="2022269">
+		<string name="desc" value="用于竞技场，此护盾保护灵魂宝石免受炸弹损失。（1次）"/>
+		<string name="name" value="护盾"/>
+	</imgdir>
+    <imgdir name="2022540">
+		<string name="desc" value="传送离开以逃避危险。"/>
+		<string name="name" value="危险闪避"/>
+	</imgdir>
+    <imgdir name="2023125">
+		<string name="desc" value="仅在怪物公园极限模式可用。武器攻击力+30，持续30分钟。"/>
+		<string name="name" value="极限红色药水"/>
+	</imgdir>
+    <imgdir name="2023127">
+		<string name="desc" value="仅在怪物公园极限模式可用。魔法攻击力+30，持续30分钟。"/>
+		<string name="name" value="极限蓝色药水"/>
+	</imgdir>
+    <imgdir name="2023201">
+		<string name="desc" value="用强化光环包围你。#c持续时间：30分钟。#\n#c武器/魔法攻击力：+30，暴击率：+20%#"/>
+		<string name="name" value="最强者增益"/>
+	</imgdir>
+    <imgdir name="2023202">
+		<string name="desc" value="独特炫酷增益的光环围绕着你，赋予你新发现的力量。#c持续时间：30分钟。#\n#c武器/魔法攻击力：+20，暴击率：10%#"/>
+		<string name="name" value="独特炫酷增益"/>
+	</imgdir>
+    <imgdir name="2023203">
+		<string name="desc" value="真正最强者增益的光环围绕着你，赋予你新发现的力量。#c持续时间：30分钟。#\n#c武器/魔法攻击力：+10，暴击率：5%#"/>
+		<string name="name" value="真正最强者增益"/>
+	</imgdir>
+    <imgdir name="2023204">
+		<string name="desc" value="给最强者的可爱巧克力。食用获得特殊力量。#c持续时间：10分钟。#\n#c武器/魔法攻击力：+50，速度：+30#"/>
+		<string name="name" value="最强者爱心巧克力"/>
+	</imgdir>
+    <imgdir name="2023205">
+		<string name="desc" value="给独特炫酷者的可爱巧克力。食用获得特殊力量。#c持续时间：10分钟。#\n#c武器/魔法攻击力：+30，速度：+20#"/>
+		<string name="name" value="独特炫酷爱心巧克力"/>
+	</imgdir>
+    <imgdir name="2023206">
+		<string name="desc" value="给真正最强者的可爱巧克力。食用获得特殊力量。#c持续时间：10分钟。#\n#c武器/魔法攻击力：+20，速度：+15#"/>
+		<string name="name" value="真正最强者爱心巧克力"/>
+	</imgdir>
+    <imgdir name="2023207">
+		<string name="desc" value="此经验值券在#c双击#后将使你的经验值获得增加#c1.5倍#，持续#c30分钟#。"/>
+		<string name="name" value="1.5倍经验值券"/>
+	</imgdir>
+    <imgdir name="2023208">
+		<string name="desc" value="包含彩虹的神秘魔力。武器攻击力+20，魔法攻击力+20，速度+40，跳跃达到最大值，持续1小时。"/>
+		<string name="name" value="彩虹魔法"/>
+	</imgdir>
+    <imgdir name="2023209">
+		<string name="desc" value="包含彩虹的强大魔力。武器攻击力+40，魔法攻击力+40，速度+40，跳跃达到最大值，持续30分钟。"/>
+		<string name="name" value="超级彩虹魔法"/>
+	</imgdir>
+    <imgdir name="2023210">
+		<string name="desc" value="造成黑暗状态。"/>
+		<string name="name" value="小羊的哭泣2"/>
+	</imgdir>
+</imgdir>

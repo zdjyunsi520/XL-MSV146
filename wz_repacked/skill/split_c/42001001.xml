@@ -1,0 +1,5 @@
+<imgdir name="42001001">
+        <string name="name" value="土夜叉" />
+        <string name="desc" value="召唤土精灵将敌人吸引过来。" />
+        <string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount" />
+    </imgdir>

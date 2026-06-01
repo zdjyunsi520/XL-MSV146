@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="南佩里 --&gt; Lith Harbor(维多利亚岛)"/>
+				<string name="Desc" value="费用:150金币\n\n通过香克斯乘坐前往 Lith Harbor的船。离开枫叶岛后，你将再也无法回到这里。"/>
+			</imgdir>
+    <imgdir name="690000011">
+			<imgdir name="0">
+				<string name="Title" value="蜗牛狩猎场"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="南佩里"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="阿姆赫斯特"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="阿姆赫斯特"/>
+			</imgdir>
+    <imgdir name="690000018">
+			<imgdir name="0">
+				<string name="Title" value="武器店"/>
+				<string name="Desc" value="这是购买武器的地方。"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="百货商店"/>
+				<string name="Desc" value="这是购买药水、卷轴和其他商品的地方。"/>
+			</imgdir>
+    <imgdir name="690000026">
+			<imgdir name="0">
+				<string name="Title" value="出租车车站"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="武器·防具店"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="百货商店"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="出租车车站"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="艾利纳车站"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="魔法图书馆"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="世界旅游信息台"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="马尔森林"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="天空渡轮"/>
+				<string name="Desc" value="穿过埃雷夫的船正在抛锚停泊。"/>
+			</imgdir>
+    <imgdir name="690000027">
+			<imgdir name="0">
+				<string name="Title" value="佩里昂西街角"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="出租车车站"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="前往副本的路上"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="佩里昂东部区域"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="32120016">
+        <string name="name" value="Staff Expert" />
+        <string name="desc" value="Increases Staff Mastery, Magic ATT, and Minimum Critical Damage.\nRequired Skill: #cStaff Mastery Lv. 10#" />
+        <string name="h" value="Staff Mastery: +#mastery%. Magic ATT: +#x, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2800011">
+		<string name="name" value="Tefnut's Eye"/>
+		<string name="desc" value="Damage 1000%"/>
+	</imgdir>
+    <imgdir name="2800012">
+		<string name="name" value="Imhotep's Eye"/>
+		<string name="desc" value="Damage +500%\n30% chance of additional damage"/>
+	</imgdir>
+    <imgdir name="2800013">
+		<string name="name" value="Apis's Eye"/>
+		<string name="desc" value="Damage +500%\n30% chance of fire damage over time"/>
+	</imgdir>
+    <imgdir name="2800014">
+		<string name="name" value="Anubis's Eye"/>
+		<string name="desc" value="Temporarily increases ATT and Magic ATT by 40"/>
+	</imgdir>
+    <imgdir name="2800015">
+		<string name="name" value="Horus's Eye"/>
+		<string name="desc" value="Slows all monsters\n30% chance to affect Pharaoh Yetis and Pharaoh Mummies"/>
+	</imgdir>
+    <imgdir name="2800016">
+		<string name="name" value="Isis's Eye"/>
+		<string name="desc" value="Does additional fire damage over time to all monsters\n30% chance to affect Pharaoh Yetis and Pharaoh Mummies"/>
+	</imgdir>
+    <imgdir name="2800017">
+		<string name="name" value="Osiris's Eye"/>
+		<string name="desc" value="Stuns all monsters for 1 second\n30% chance to affect Pharaoh Yetis and Pharaoh Mummies"/>
+	</imgdir>
+    <imgdir name="2800018">
+		<string name="name" value="Amun's Eye"/>
+		<string name="desc" value="Damage +5000%\n40% chance to slow target"/>
+	</imgdir>
+    <imgdir name="2800019">
+		<string name="name" value="Ra's Eye"/>
+		<string name="desc" value="Eliminates first 20 monsters approaching the Obelisk\n30% chance to do 10% HP damage to Pharaoh Yetis and Pharaoh Mummies"/>
+	</imgdir>
+    <imgdir name="2860000">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while on Victoria Island."/>
+	</imgdir>
+    <imgdir name="2860001">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Orbis."/>
+	</imgdir>
+    <imgdir name="2860002">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in El Nath."/>
+	</imgdir>
+    <imgdir name="2860003">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Ludibrium."/>
+	</imgdir>
+    <imgdir name="2860004">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Korean Folk Town."/>
+	</imgdir>
+    <imgdir name="2860005">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Omega Sector."/>
+	</imgdir>
+    <imgdir name="2860006">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Mu Lung."/>
+	</imgdir>
+    <imgdir name="2860007">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Aqua Road."/>
+	</imgdir>
+    <imgdir name="2860008">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Nihal Desert."/>
+	</imgdir>
+    <imgdir name="2860009">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Magatia."/>
+	</imgdir>
+    <imgdir name="2860010">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Minar Forest."/>
+	</imgdir>
+</imgdir>

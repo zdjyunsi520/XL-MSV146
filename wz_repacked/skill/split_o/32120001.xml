@@ -1,0 +1,5 @@
+<imgdir name="32120001">
+        <string name="name" value="Advanced Yellow Aura" />
+        <string name="desc" value="Permanently increases your Avoidability and upgrades your Yellow Aura skill. You&apos;ll grant extra Avoidability to party members and decrease enemy Movement Speed when using Yellow Aura.\nRequired Skill: #cYellow Aura Lv. 20#" />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Movement Speed: +#x, Attack Speed: +1 step, Dodge Chance: #z% chance, Enemy Movement Speed: -#speed\nPassive Effects - Dodge Chance: +#er%" />
+    </imgdir>

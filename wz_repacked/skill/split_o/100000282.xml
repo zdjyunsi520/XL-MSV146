@@ -1,0 +1,5 @@
+<imgdir name="100000282">
+        <string name="name" value="Dual Combat" />
+        <string name="desc" value="A battle style unique to Alpha and Beta." />
+        <string name="h" value="#c[Tag]#: While on standby, use Zero&apos;s skills to switch attackers \n#cCooldown: #cooltime sec \n#c[Assist]#: After using Tag to switch, for up to 3 seconds, use Assist for fire support." />
+    </imgdir>

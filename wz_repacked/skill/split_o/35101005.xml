@@ -1,0 +1,5 @@
+<imgdir name="35101005">
+        <string name="name" value="Open Portal: GX-9" />
+        <string name="desc" value="Installs Portal &lt;GX-9&gt;. Up to two portal can be opened at once, and party members can freely move between them. Will not work if the two portals are too far apart." />
+        <string name="h" value="MP Cost: #mpCon, Portal Duration: #time sec" />
+    </imgdir>

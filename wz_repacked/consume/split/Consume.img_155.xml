@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049322">
+		<string name="name" value="5 Star Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better options."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nEnhances equipment with no remaining upgrades by 5 additional ranks.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049324">
+		<string name="name" value="5 Star Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better options."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nEnhances equipment with no remaining upgrades by 5 additional ranks.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049326">
+		<string name="name" value="2 Star Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better stats."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90% \r\nEnhances equipment with no remaining upgrades by 2 additional ranks.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049409">
+		<string name="name" value="Legendary Black Dragon Chaos Scroll "/>
+		<string name="desc" value="A dark scroll marked with an image of the Black Dragon's face. \r\nThe Legendary Black Dragon Scroll can only be used on a Legendary Black Dragon Ring."/>
+	</imgdir>
+    <imgdir name="2049413">
+		<string name="name" value="Advanced Potential Scroll"/>
+		<string name="desc" value="Provides potentials for regular equip items without deducting the available upgrade count.\n#cIt can only be used on regular items.#\nSuccess Rate: 90%. If failed, the item will be destroyed."/>
+	</imgdir>
+    <imgdir name="2049500">
+		<string name="name" value="Gold Awakening Stamp"/>
+		<string name="desc" value="#cDouble-click# to add another Potential line to a piece of equipment with less than two existing Potentials."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049501">
+		<string name="name" value="Silver Awakening Stamp"/>
+		<string name="desc" value="#cDouble-click# to add another Potential line to a piece of equipment with less than two existing Potentials."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049502">
+		<string name="name" value="8th Anniversary Awakening Stamp"/>
+		<string name="desc" value="#cDouble-click# and select a piece of 8th Anniversary Equipment with 2 or fewer potentials to add 1 additional potential."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049505">
+		<string name="name" value="Carved Golden Seal"/>
+		<string name="desc" value="#cDouble-click# to add another Potential line to a piece of equipment with less than two existing Potentials."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049506">
+		<string name="name" value="Perfect Carved Seal"/>
+		<string name="desc" value="#cDouble-click# to add another Potential line to a piece of equipment with less than two existing Potentials."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049900">
+		<string name="name" value="Fusion Anvil"/>
+	</imgdir>
+    <imgdir name="2049901">
+		<string name="name" value="Fusion Anvil"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 5%\r\n#"/>
+	</imgdir>
+    <imgdir name="2050000">
+		<string name="name" value="Antidote"/>
+		<string name="desc" value="Cures the state of being poisoned."/>
+	</imgdir>
+    <imgdir name="2050001">
+		<string name="name" value="Eyedrop"/>
+		<string name="desc" value="Cures the state of darkness"/>
+	</imgdir>
+    <imgdir name="2050002">
+		<string name="name" value="Tonic"/>
+		<string name="desc" value="Cures the state of weakness."/>
+	</imgdir>
+    <imgdir name="2050003">
+		<string name="name" value="Holy Water"/>
+		<string name="desc" value="Allows you to recover from the state of curse or being sealed up."/>
+	</imgdir>
+    <imgdir name="2050004">
+		<string name="name" value="All Cure Potion"/>
+		<string name="desc" value="Allows you to recover from any abnormal state."/>
+	</imgdir>
+    <imgdir name="2050005">
+		<string name="name" value="One View"/>
+		<string name="desc" value="Use it on view-restricted map to increase the vision of your partymates and yourself for 1 minute."/>
+	</imgdir>
+    <imgdir name="2050006">
+		<string name="name" value="Owl Potion"/>
+		<string name="desc" value="Recover total vision in vision-restricted map for 30 seconds."/>
+	</imgdir>
+    <imgdir name="2050098">
+		<string name="name" value="The Lost eye"/>
+		<string name="desc" value="The Lost eye"/>
+	</imgdir>
+</imgdir>

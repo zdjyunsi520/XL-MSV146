@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201052">
+		<string name="name" value="Professor Foxwit"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+		<string name="d1" value="I'm Professor Foxwit and I know what you're thinking. Crackpot or genius? I get it all the time!"/>
+	</imgdir>
+    <imgdir name="9201053">
+		<string name="name" value="Jack Masque"/>
+		<string name="n0" value="Fear not! I am the one and only bandit prince!"/>
+		<string name="n1" value="If you would like a challenge, I have one for you!"/>
+		<string name="d0" value="Fear not! I am the one and only bandit prince! If you would like a challenge, I have one for you!"/>
+		<string name="d1" value="Ah, 3 days time has not passed, my friend. When the time limit passes, I will send you on another hunt."/>
+	</imgdir>
+    <imgdir name="9201054">
+		<string name="name" value="Lita Lawless"/>
+		<string name="n0" value="I'm the new sheriff in town."/>
+		<string name="d0" value="I'm the new sheriff in town. I'm going to corral this town into a crime-free zone. Can you help me?"/>
+		<string name="n1" value="I'm going to corral this town into a crime-free zone."/>
+		<string name="d1" value="I'm proud of you! Thank you!"/>
+	</imgdir>
+    <imgdir name="9201055">
+		<string name="name" value="Elpam Gorlab"/>
+		<string name="n0" value="Do not be afraid, friend."/>
+		<string name="d0" value="Do not be afraid, friend. I come in peace, and need your assistance. "/>
+		<string name="n1" value="I come in peace, and need your assistance. "/>
+		<string name="d1" value="I thank you for your help my friend. I have a feeling you will see more of my friends in the future..."/>
+	</imgdir>
+    <imgdir name="9201056">
+		<string name="name" value="NLC Taxi"/>
+	</imgdir>
+    <imgdir name="9201057">
+		<string name="name" value="Bell"/>
+		<string name="func" value="NLC Subway Staff"/>
+		<string name="n0" value="Let's go to New Leaf City!"/>
+		<string name="n1" value="Let's go to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201058">
+		<string name="name" value="Delphi"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201059">
+		<string name="name" value="Kyle"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201060">
+		<string name="name" value="Miki"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="9201061">
+		<string name="name" value="Bomack"/>
+		<string name="func" value="Lens Broker"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201062">
+		<string name="name" value="J.J."/>
+		<string name="func" value="Lens Magician"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201063">
+		<string name="name" value="Ari"/>
+		<string name="func" value="Hair Salon Assistant"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201064">
+		<string name="name" value="Mani"/>
+		<string name="func" value="Lead Hair Stylist"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201065">
+		<string name="name" value="Miranda"/>
+		<string name="func" value="Dermatologist"/>
+		<string name="n0" value="Welcome to New Leaf City!"/>
+		<string name="n1" value="Welcome to New Leaf City!"/>
+	</imgdir>
+    <imgdir name="9201066">
+		<string name="name" value="NLC Maple TV"/>
+	</imgdir>
+    <imgdir name="9201067">
+		<string name="name" value="Claw Machine"/>
+	</imgdir>
+    <imgdir name="9201071">
+		<string name="name" value="Sunstone Grave"/>
+	</imgdir>
+    <imgdir name="9201072">
+		<string name="name" value="Moonstone Grave"/>
+	</imgdir>
+    <imgdir name="9201073">
+		<string name="name" value="Tombstone"/>
+	</imgdir>
+    <imgdir name="9201081">
+		<string name="name" value="Rob"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? This is just the place for you!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="36110004">
+        <string name="name" value="Aegis System" />
+        <string name="desc" value="Creates a chance to fire defensive missiles when hit by an enemy, or after a successfully evaded attack. The missiles damage the enemy and ignore Attack Reflects. Requires a short standby to fire when activated." />
+        <string name="h" value="Chance to fire missiles when hit or evading: #prop%, Damage:  #damage%, Number of Missiles: #x, Cooldown: 1.5 sec." />
+    </imgdir>

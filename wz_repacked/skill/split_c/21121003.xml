@@ -1,0 +1,5 @@
+<imgdir name="21121003">
+        <string name="name" value="冰冻站桩" />
+        <string name="desc" value="借助冰之力稳固站姿，抵抗被击退。" />
+        <string name="h" value="MP消耗：#mpCon，击退抵抗概率：#prop%，持续时间：#time 秒" />
+    </imgdir>

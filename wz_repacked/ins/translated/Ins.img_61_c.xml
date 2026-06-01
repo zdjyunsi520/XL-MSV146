@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3994022">
+		<string name="name" value="字母R"/>
+		<string name="desc" value="字母R。收集其他字母交给枫之谷管理员..."/>
+	</imgdir>
+    <imgdir name="3994023">
+		<string name="name" value="字母W"/>
+		<string name="desc" value="字母W。收集其他字母交给枫之谷管理员..."/>
+	</imgdir>
+    <imgdir name="3994024">
+		<string name="name" value="字母Y"/>
+		<string name="desc" value="字母Y。收集其他字母交给枫之谷管理员..."/>
+	</imgdir>
+    <imgdir name="3994085">
+		<string name="name" value="管理员蜡烛"/>
+		<string name="desc" value="管理员的小蜡烛。游戏结束时蜡烛会自动熄灭。"/>
+	</imgdir>
+    <imgdir name="3994086">
+		<string name="name" value="生日蛋糕蜡烛"/>
+		<string name="desc" value="枫之谷4周年生日蛋糕蜡烛。玩家退出游戏时火焰熄灭，返回游戏时再次点燃。"/>
+	</imgdir>
+    <imgdir name="3994089">
+		<string name="name" value="特工W的记忆芯片"/>
+		<string name="desc" value="特工W留给我的记忆芯片。据说里面包含关于“M大师”的信息。如果不每小时输入密码，它会自毁。"/>
+	</imgdir>
+    <imgdir name="3994090">
+		<string name="name" value="香料"/>
+		<string name="desc" value="欧先生在枫之谷七日集市出售这些稀有香料。你可以卖给阿卜杜拉获利。"/>
+	</imgdir>
+    <imgdir name="3994091">
+		<string name="name" value="泰国纪念品"/>
+		<string name="desc" value="你可以在枫之谷七日集市找到这些泰国纪念品。你可以卖给阿卜杜拉获利。"/>
+	</imgdir>
+    <imgdir name="3994092">
+		<string name="name" value="鳗鱼"/>
+		<string name="desc" value="莉娜在枫之谷七日集市出售美味鳗鱼。你可以卖给阿卜杜拉获利。"/>
+	</imgdir>
+    <imgdir name="3994093">
+		<string name="name" value="鲨鱼标本"/>
+		<string name="desc" value="泰公亲手制作的鲨鱼标本，可在枫之谷七日集市找到。你可以卖给阿卜杜拉获利。"/>
+	</imgdir>
+    <imgdir name="3994094">
+		<string name="name" value="乌鸦羽毛帽"/>
+		<string name="desc" value="花子在枫之谷七日集市出售这件精美帽子。你可以卖给阿卜杜拉获利。"/>
+	</imgdir>
+    <imgdir name="3994096">
+		<string name="name" value="数字1"/>
+		<string name="desc" value="这是数字1。"/>
+	</imgdir>
+    <imgdir name="3994097">
+		<string name="name" value="数字2"/>
+		<string name="desc" value="这是数字2。"/>
+	</imgdir>
+    <imgdir name="3994098">
+		<string name="name" value="数字3"/>
+		<string name="desc" value="这是数字3。"/>
+	</imgdir>
+    <imgdir name="3994099">
+		<string name="name" value="数字4"/>
+		<string name="desc" value="这是数字4。"/>
+	</imgdir>
+    <imgdir name="3994100">
+		<string name="name" value="数字5"/>
+		<string name="desc" value="这是数字5。"/>
+	</imgdir>
+    <imgdir name="3994101">
+		<string name="name" value="卡珊德拉的巨型星星"/>
+		<string name="desc" value="卡珊德拉为你制作的巨型星星。星光节期间持有它，每小时可获得1个星星印章。\n#c退出游戏时消失。"/>
+	</imgdir>
+    <imgdir name="3994102">
+		<string name="name" value="指南针字母N"/>
+		<string name="desc" value="看起来完美适合空指南针的字母N。"/>
+	</imgdir>
+    <imgdir name="3994103">
+		<string name="name" value="指南针字母E"/>
+		<string name="desc" value="看起来完美适合空指南针的字母E。"/>
+	</imgdir>
+    <imgdir name="3994104">
+		<string name="name" value="指南针字母W"/>
+		<string name="desc" value="看起来完美适合空指南针的字母W。"/>
+	</imgdir>
+</imgdir>

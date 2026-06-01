@@ -1,0 +1,7 @@
+<imgdir name="5121020">
+        <string name="name" value="Octopunch Outrage" />
+        <string name="desc" value="Pummels enemies with supernatural punches. Damage increases when fully charged." />
+        <string name="h" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, when fully charged, damage increases by #x%" />
+        <string name="pdesc" value="Pummels enemies with supernatural punches. Damage increases when fully charged." />
+        <string name="ph" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, when fully charged, damage increases by #x%" />
+    </imgdir>

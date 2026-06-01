@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040448">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升上衣属性。"/>
+		<string name="name" value="上衣强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040449">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升上衣属性。"/>
+		<string name="name" value="上衣强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040648">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升下装属性"/>
+		<string name="name" value="上衣强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040649">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升下装属性"/>
+		<string name="name" value="上衣强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040564">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升套装属性。"/>
+		<string name="name" value="下装强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040565">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升套装属性。"/>
+		<string name="name" value="下装强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040072">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升头盔属性。"/>
+		<string name="name" value="头盔强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040073">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升头盔属性。"/>
+		<string name="name" value="头盔强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040775">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升鞋子属性。"/>
+		<string name="name" value="鞋子强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040776">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升鞋子属性。"/>
+		<string name="name" value="鞋子强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040870">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升手套属性。"/>
+		<string name="name" value="手套强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040871">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升手套属性。"/>
+		<string name="name" value="手套强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040238">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n命中率：+10\r\n#"/>
+		<string name="desc" value="提升眼饰属性。"/>
+		<string name="name" value="眼饰强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040239">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n命中率：+20\r\n#"/>
+		<string name="desc" value="提升眼饰属性。"/>
+		<string name="name" value="眼饰强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2040357">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n命中率：+10\r\n#"/>
+		<string name="desc" value="提升耳环属性。"/>
+		<string name="name" value="耳环强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2040358">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n命中率：+20\r\n#"/>
+		<string name="desc" value="提升耳环属性。"/>
+		<string name="name" value="耳环强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2048098">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升宠物装备属性。"/>
+		<string name="name" value="宠物装备强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2048099">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升宠物装备属性。"/>
+		<string name="name" value="宠物装备强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2047809">
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n武器攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升双手武器的武器攻击力并增加所有属性。"/>
+		<string name="name" value="双手武器攻击卷轴90%"/>
+	</imgdir>
+    <imgdir name="2047810">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n武器攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升双手武器的武器攻击力并增加所有属性。"/>
+		<string name="name" value="双手武器攻击卷轴70%"/>
+	</imgdir>
+</imgdir>

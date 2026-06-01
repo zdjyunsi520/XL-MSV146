@@ -1,0 +1,7 @@
+<imgdir name="14111001">
+        <string name="name" value="影网术" />
+        <string name="desc" value="在周围编织暗影之网，最多缠绕6只怪物。被缠绕的怪物无法移动并持续受到伤害。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time，束缚概率：#prop%，伤害：#damage%，持续伤害：每秒#dot%" />
+        <string name="pdesc" value="编织暗影之网，可缠绕多只怪物。被缠绕的怪物无法移动并持续受到伤害。" />
+        <string name="ph" value="MP消耗：#mpCon，持续时间：#time，束缚概率：#prop%，伤害：#damage%，持续伤害：每秒#dot%\n冷却时间：#cooltime秒" />
+    </imgdir>

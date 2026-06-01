@@ -1,0 +1,7 @@
+<imgdir name="2110000">
+        <string name="name" value="燃烧魔法" />
+        <string name="desc" value="当你攻击处于持续伤害、眩晕、冻结、黑暗或麻痹效果的敌人时，所有持续伤害的持续时间和伤害都会增加。" />
+        <string name="h" value="Damage over time duration increase #x sec, #z% damage when attacking enemies under damage over time, stun, freeze, darkness, or paralysis effect." />
+        <string name="pdesc" value="当你攻击处于持续伤害、眩晕、冻结、黑暗或麻痹效果的敌人时，所有持续伤害的持续时间和伤害都会增加。" />
+        <string name="ph" value="Damage over time duration increase #x sec, #z% damage when attacking enemies under damage over time, stun, freeze, darkness, or paralysis effect." />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="61001002">
+        <string name="name" value="空中升降" />
+        <string name="desc" value="在空中再次跳跃！同时永久提升速度。" />
+        <string name="h" value="MP Cost: #mpCon, Set Jump Distance, Max Speed: +#speedMax, Speed: +#psdSpeed" />
+    </imgdir>

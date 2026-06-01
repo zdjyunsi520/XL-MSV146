@@ -1,0 +1,7 @@
+<imgdir name="40021078">
+        <string name="name" value="Eckhart&apos;s Vampire" />
+        <string name="desc" value="Summons Eckhart to unleash four vampiric attacks on multiple enemies and absorb some of their HP.  Absorbs a maximum of half o your Max HP, or the total of the monster&apos;s Max HP. Skill level can be increased depending on your level." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Hits: #attackCount, Max Monsters Hit: #mobCount, absorbs #x% of the damage as HP" />
+        <string name="pdesc" value="Attacks multiple enemies 4 times and absorbs some of the damage dealt to replenish your HP; up to half of your Max HP or the monster&apos;s total Max HP. " />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Absorbs #x% of damage dealt as HP." />
+    </imgdir>

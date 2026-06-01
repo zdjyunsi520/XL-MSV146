@@ -1,0 +1,5 @@
+<imgdir name="42121006">
+        <string name="name" value="（晨曦勇士）枫叶勇士" />
+        <string name="desc" value="提升所有队伍成员的属性。使用时消耗10点精气并消耗70HP。" />
+        <string name="h" value="精气消耗：#epCon，全属性：+#x%，持续时间：#time秒" />
+    </imgdir>

@@ -1,0 +1,77 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="Item">
+				<string name="Title" value="Item Inventory (I)"/>
+				<string name="Desc" value="The window that allows the character to see the items it owns.\nThe items are categorized under Equip., Use, Set-Up, and Etc. items."/>
+			</imgdir>
+    <imgdir name="Equip">
+				<string name="Title" value="Equipment Window (E)"/>
+				<string name="Desc" value="The window that shows the equipped items, and allowing the character to equip/unequip them.\nOpen the item inventory alongside it to use the equip. items."/>
+			</imgdir>
+    <imgdir name="Stat">
+				<string name="Title" value="Ability Window (S)"/>
+				<string name="Desc" value="The window that shows detailed character info and its abilities.\nUse AP to enhance many different kinds of abilities. "/>
+			</imgdir>
+    <imgdir name="Skill">
+				<string name="Title" value="Skill Window (K)"/>
+				<string name="Desc" value="The window that shows the detailed look of the skillbook owned by the character.\nUse skill points to learn the skills available."/>
+			</imgdir>
+    <imgdir name="Chat">
+				<string name="Title" value="Messenger Window"/>
+				<string name="Desc" value="The window that lets you chat with buddies within a world."/>
+			</imgdir>
+    <imgdir name="Menu">
+				<string name="Title" value="Menu"/>
+				<string name="Desc" value="The window that lets you change the options or game infos.\nCan change game and system option.\nCan also see quest info, party info, and the community info."/>
+			</imgdir>
+    <imgdir name="Whisper">
+				<string name="Title" value="Whisper"/>
+				<string name="Desc" value="Press the button to choose the character you want to whisper to.\nPress it once more to disable whisper."/>
+			</imgdir>
+    <imgdir name="MapTransfer">
+				<imgdir name="Register">
+					<string name="Title" value="Register Map"/>
+					<string name="Desc" value="Registers the map the character is at to the teleport list. Can save up to 5 maps."/>
+				</imgdir>
+    <imgdir name="RegisterEx">
+					<string name="Title" value="Register Map"/>
+					<string name="Desc" value="Registers the map where the character is located into the Teleport List. Can register upto 10 different places."/>
+				</imgdir>
+    <imgdir name="Delete">
+					<string name="Title" value="Delete Map"/>
+					<string name="Desc" value="Delete the chosen map from the list."/>
+				</imgdir>
+    <imgdir name="Move">
+					<string name="Title" value="Move"/>
+					<string name="Desc" value="Teleports to the map of your choice, or to the map where the chosen character is."/>
+				</imgdir>
+    <imgdir name="KeySet">
+				<string name="Title" value="Key Config."/>
+			</imgdir>
+    <imgdir name="QuickSlot">
+				<string name="Title" value="Show Quick Slot"/>
+			</imgdir>
+    <imgdir name="QuickSlotD">
+				<string name="Title" value="Hide Quick Slot"/>
+			</imgdir>
+    <imgdir name="Claim">
+				<string name="Title" value="Alert GM"/>
+			</imgdir>
+    <imgdir name="QuestAlarm">
+				<string name="Desc" value="Click the Quest Helper button to track the currently selected quest. Up to 5 quests can be tracked at once."/>
+			</imgdir>
+    <imgdir name="StatAuto">
+				<string name="Title" value="Stat Auto-Assign"/>
+				<string name="Desc" value="Distributes the remaining AP according to your level and class."/>
+			</imgdir>
+    <imgdir name="StatAuto1">
+				<string name="Title" value="Stat Auto-Assign (Brawler)"/>
+				<string name="Desc" value="Distributes the remaining AP according to Brawler requirements."/>
+			</imgdir>
+    <imgdir name="StatAuto2">
+				<string name="Title" value="Stat Auto-Assign (Gunslinger)"/>
+				<string name="Desc" value="Distributes the remaining AP according to Gunslinger requirements."/>
+			</imgdir>
+    <imgdir name="QuestLocation">
+				<string name="Desc" value="Shows you where you need to go to do this quest."/>
+			</imgdir>
+</imgdir>

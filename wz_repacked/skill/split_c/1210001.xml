@@ -1,0 +1,7 @@
+<imgdir name="1210001">
+        <string name="name" value="盾牌精通" />
+        <string name="desc" value="装备盾牌时提升属性抗性、异常状态抗性、物理防御力、魔法防御力和武器攻击力。盾牌有几率格挡并使敌人眩晕~" />
+        <string name="h" value="装备盾牌时 - 异常状态和属性抗性: +#asrR%, 物理和魔法防御力: +#x%, 物理防御力: +#y, 格挡几率: #prop%, 格挡时眩晕几率: #subProp%" />
+        <string name="pdesc" value="装备盾牌时提升属性抗性、异常状态抗性、物理防御力、魔法防御力和武器攻击力。盾牌有几率格挡并使敌人眩晕~" />
+        <string name="ph" value="装备盾牌时 - 异常状态和属性抗性: +#asrR%, 物理和魔法防御力: +#x%, 物理防御力: +#y, 格挡几率: #prop%, 格挡时眩晕几率: #subProp%" />
+    </imgdir>

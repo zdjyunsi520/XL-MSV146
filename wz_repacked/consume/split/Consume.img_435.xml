@@ -1,0 +1,97 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040862">
+		<string name="name" value="Recycled Chocolate Glove Magic ATT Scroll"/>
+		<string name="desc" value="Increases Magic ATT on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040863">
+		<string name="name" value="Recycled Chocolate Glove Strength Scroll"/>
+		<string name="desc" value="Increases Strength on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040864">
+		<string name="name" value="Recycled Chocolate Glove Intelligence Scroll"/>
+		<string name="desc" value="Increases Intelligence on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040865">
+		<string name="name" value="Recycled Chocolate Glove Dexterity Scroll"/>
+		<string name="desc" value="Increases Dexterity on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040866">
+		<string name="name" value="Recycled Chocolate Glove Luck Scroll"/>
+		<string name="desc" value="Increases Luck on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040867">
+		<string name="name" value="Recycled Chocolate Glove Power Scroll"/>
+		<string name="desc" value="Increases Max HP and MP on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMax HP: +50\r\nMax MP: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2040868">
+		<string name="name" value="Recycled Chocolate Glove Defense Scroll"/>
+		<string name="desc" value="Increases Defense on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon Defense: +3\r\nMagic Defense: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040869">
+		<string name="name" value="Recycled Chocolate Glove Mastery Scroll"/>
+		<string name="desc" value="Increases Accuracy and Avoidability on all Gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAccuracy: +10\r\nAvoidability: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2431763">
+		<string name="desc" value="Tynerum Altar Party Quest Weather Message for Testing"/>
+		<string name="name" value="Tynerum Altar Weather Message"/>
+	</imgdir>
+    <imgdir name="2431748">
+		<string name="desc" value="Obtain a Perfect Mark of Predators by collecting 100 of these fragments."/>
+		<string name="name" value="Predator's Fragment"/>
+	</imgdir>
+    <imgdir name="2550014">
+		<string name="desc" value="#cDouble-click# to get one of the Halflinger Expedition badges."/>
+		<string name="name" value="Halflinger Expedition Badge Box"/>
+	</imgdir>
+    <imgdir name="2431733">
+		<string name="desc" value="Teaches you the Kupo's Ride Mount skill."/>
+		<string name="name" value="Kupo's Ride Coupon"/>
+	</imgdir>
+    <imgdir name="2431745">
+		<string name="desc" value="Double-click to gain a permanent [Kupo's Ride] mount skill."/>
+		<string name="name" value="Kupo's Ride Permanent Coupon"/>
+	</imgdir>
+    <imgdir name="2046831">
+		<string name="name" value="Occult Scroll for Accessory for ATT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves Weapon Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nWeapon Attack +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046832">
+		<string name="name" value="Occult Scroll for Accessory for M. ATT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves Magic Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nMagic Attack +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046833">
+		<string name="name" value="Occult Scroll for Accessory for STR 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves STR on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nSTR +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046834">
+		<string name="name" value="Occult Scroll for Accessory for INT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves INT on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nINT +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046835">
+		<string name="name" value="Occult Scroll for Accessory for DEX 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves DEX on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nDEX +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046836">
+		<string name="name" value="Occult Scroll for Accessory for LUK 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves LUK on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nLUK +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046837">
+		<string name="name" value="Rebecca's Scroll for Accessory for Weapon ATT 40%"/>
+		<string name="desc" value="Scroll that can only be used on Rebecca's special accessory. Improves Weapon ATT."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +2 to 7\r\n#"/>
+	</imgdir>
+</imgdir>

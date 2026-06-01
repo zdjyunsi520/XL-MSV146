@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8860010">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="8860009">
+		<string name="name" value="Dummy for Checking Purpose"/>
+	</imgdir>
+    <imgdir name="8860008">
+		<string name="name" value="Dummy for Checking Purpose"/>
+	</imgdir>
+    <imgdir name="9300510">
+		<string name="name" value="Chimera"/>
+	</imgdir>
+    <imgdir name="9300511">
+		<string name="name" value="Manon"/>
+	</imgdir>
+    <imgdir name="9300512">
+		<string name="name" value="Griffey"/>
+	</imgdir>
+    <imgdir name="9300513">
+		<string name="name" value="Papulatus"/>
+	</imgdir>
+    <imgdir name="9300514">
+		<string name="name" value="Lich"/>
+	</imgdir>
+    <imgdir name="9300515">
+		<string name="name" value="Pianus"/>
+	</imgdir>
+    <imgdir name="9300516">
+		<string name="name" value="Leviathan"/>
+	</imgdir>
+    <imgdir name="9300517">
+		<string name="name" value="Dodo"/>
+	</imgdir>
+    <imgdir name="9300518">
+		<string name="name" value="Lilynouch"/>
+	</imgdir>
+    <imgdir name="9300519">
+		<string name="name" value="Lyka"/>
+	</imgdir>
+    <imgdir name="9300520">
+		<string name="name" value="Silent Crusade Dummy UI"/>
+	</imgdir>
+    <imgdir name="9300521">
+		<string name="name" value="Play House"/>
+	</imgdir>
+    <imgdir name="9300522">
+		<string name="name" value="Play House"/>
+	</imgdir>
+    <imgdir name="9300523">
+		<string name="name" value="Training Mano"/>
+	</imgdir>
+    <imgdir name="9300524">
+		<string name="name" value="Annoying Stirge"/>
+	</imgdir>
+    <imgdir name="9300525">
+		<string name="name" value="Dark Disciple"/>
+	</imgdir>
+    <imgdir name="9300526">
+		<string name="name" value="Dark Disciple"/>
+	</imgdir>
+</imgdir>

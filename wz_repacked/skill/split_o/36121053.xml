@@ -1,0 +1,5 @@
+<imgdir name="36121053">
+        <string name="name" value="Entangling Lash" />
+        <string name="desc" value="Wrapping enemies in your Whip Blade disables all buffs and binds several enemies to the spot. Resistance is shared with the Smite Shield." />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Debuff: #prop%, Stun Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

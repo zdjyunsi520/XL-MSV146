@@ -1,0 +1,5 @@
+<imgdir name="30020234">
+        <string name="name" value="Multilateral I" />
+        <string name="desc" value="Grants a special bonus based on stats, once those stats reach a certain threshold." />
+        <string name="h" value="With #x STR: #y% for Power Stance\nWith #x DEX: #z% resistance to all elements and status ailments\nWith #x LUK: #u% Avoidability\nWith #x STR, DEX, and LUK: +#w% total damage" />
+    </imgdir>

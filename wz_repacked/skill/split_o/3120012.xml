@@ -1,0 +1,8 @@
+<imgdir name="3120012">
+        <string name="name" value="Elite Puppet" />
+        <string name="desc" value="Summon a powerful Elite Puppet. The Elite Puppet automatically attacks nearby enemies, and absorbs some of the summoner&apos;s damage.\nRequired Skill: #cPuppet Lv. 10#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #x, Damage: #damage%, Damage Absorbed: #y%" />
+        <string name="pdesc" value="Summon a powerful Elite Puppet. The Elite Puppet automatically attacks nearby enemies, and absorbs some of the summoner&apos;s damage.\nRequired Skill: #cPuppet Lv. 10#" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #x, Damage: #damage%, Damage Absorbed: #y%" />
+        <string name="hch" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #hcSummonHp, Damage: #damage%, Damage Absorbed: #y%" />
+    </imgdir>

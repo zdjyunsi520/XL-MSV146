@@ -1,0 +1,124 @@
+<imgdir name="Npc.img">
+    <imgdir name="9010037">
+		<string name="name" value="Randolf"/>
+		<string name="d0" value="最近怎么样？选择你想要的。"/>
+		<string name="d1" value="最近怎么样？我是Randolf，传奇卷轴和配方的传奇商人。"/>
+		<string name="n0" value="这些物品将在TKTKTK停止销售。如果你有想买的东西，应该尽快购买。"/>
+		<string name="n1" value="这些物品将在TKTKTK停止销售。如果你有想买的东西，应该尽快购买。"/>
+		<string name="func" value="传奇商店"/>
+	</imgdir>
+    <imgdir name="9010038">
+		<string name="name" value="Lucia"/>
+		<string name="d0" value="你好！你收集了很多传奇枫叶币吗？哦天啊，哦天啊..."/>
+		<string name="d1" value="你好！我是Lucia，精神吊坠和传奇武器的传奇商人！很高兴认识你！"/>
+		<string name="n0" value="这些物品将在TKTKTK停止销售，所以如果你有想买的东西，应该快点！"/>
+		<string name="n1" value="这些物品将在TKTKTK停止销售，所以如果你有想买的东西，应该快点！"/>
+		<string name="func" value="传奇商店"/>
+	</imgdir>
+    <imgdir name="9010039">
+		<string name="name" value="回归精灵Wonky"/>
+		<string name="d0" value="回家啦！那意味着有更多机会吃美味的食物，对吧？万岁！"/>
+		<string name="d1" value="回家啦！那意味着有更多机会吃美味的食物，对吧？万岁！"/>
+		<string name="n0" value="比赛后必须吃美味的食物！"/>
+		<string name="n1" value="为什么这个世界上有这么多美味的东西？"/>
+	</imgdir>
+    <imgdir name="9010040">
+		<string name="name" value="Conor"/>
+		<string name="s0" value="如果你在寻找好东西，不用再找了。我有一家商店，如果你有叛逆硬币，就能把其他人都比下去。"/>
+		<string name="s1" value="你在和专业人士打交道，孩子。别试图讨价还价！"/>
+		<string name="func" value="叛逆者商店"/>
+	</imgdir>
+    <imgdir name="9010041">
+		<string name="name" value="挪用女士"/>
+		<string name="s0" value="工作工作工作！等等，那些金币去哪了？"/>
+		<string name="s1" value="做足够的兼职工作，你就能像我一样富有！"/>
+		<string name="func" value="兼职文员"/>
+	</imgdir>
+    <imgdir name="9010042">
+		<string name="name" value="小龙Draco"/>
+		<string name="d0" value="耶！是龙年！"/>
+		<string name="d1" value="耶！是龙年！"/>
+		<string name="n0" value="新年就在此时此刻。"/>
+		<string name="n1" value="新年快乐！"/>
+	</imgdir>
+    <imgdir name="9010043">
+		<string name="name" value="小龙Draco"/>
+		<string name="d0" value="耶！是龙年！"/>
+		<string name="d1" value="耶！是龙年！"/>
+		<string name="n0" value="新年就在此时此刻。"/>
+		<string name="n1" value="新年快乐！"/>
+	</imgdir>
+    <imgdir name="9010044">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="我对艺术品艺术般地兴奋！"/>
+		<string name="n1" value="你应该给我带些东西！一些艺术品东西！"/>
+	</imgdir>
+    <imgdir name="9010045">
+		<string name="name" value="Dr. Pepper"/>
+		<string name="func" value="药剂师"/>
+		<string name="n0" value="我的药剂美味可口...嗝！我喝不停！"/>
+		<string name="n1" value="没有什么能比得上我的药剂。"/>
+	</imgdir>
+    <imgdir name="9010046">
+		<string name="name" value="Glasseseus"/>
+		<string name="n0" value="你是怎么一路来到这里的？"/>
+		<string name="n1" value="Glasseseus住在森林深处。"/>
+	</imgdir>
+    <imgdir name="9010047">
+		<string name="name" value="Gale"/>
+		<string name="func" value="风暴"/>
+		<string name="n0" value="风暴物品如风般袭来！"/>
+		<string name="n1" value="看看所有这些限时好物！趁现在赶紧买！"/>
+	</imgdir>
+    <imgdir name="9010048">
+		<string name="name" value="Spark"/>
+		<string name="func" value="风暴"/>
+		<string name="n0" value="风暴物品如闪电般来袭！"/>
+		<string name="n1" value="看看所有这些限时好物！趁现在赶紧买！"/>
+	</imgdir>
+    <imgdir name="9010049">
+		<string name="name" value="Maple管理员"/>
+		<string name="n0" value="你在Maple世界玩得开心吗？"/>
+		<string name="n1" value="随时需要帮助都可以找我。"/>
+		<string name="d0" value="你好！欢迎来到Maple世界！"/>
+	</imgdir>
+    <imgdir name="9070000">
+		<string name="name" value="Crawson"/>
+		<string name="s0" value="想打架？跟我说话！"/>
+		<string name="s1" value="与其他Mapler切磋技艺。"/>
+		<string name="func" value="进入战斗模式"/>
+	</imgdir>
+    <imgdir name="9070001">
+		<string name="name" value="Larson"/>
+		<string name="s0" value="杂货店备有好货！来看看！"/>
+		<string name="func" value="战斗模式杂货店"/>
+	</imgdir>
+    <imgdir name="9070002">
+		<string name="name" value="英勇徽章兑换"/>
+		<string name="n0" value="在这里用你的英勇计量兑换徽章！"/>
+		<string name="func" value="英勇徽章自动贩卖机"/>
+	</imgdir>
+    <imgdir name="9070003">
+		<string name="name" value="Maximus"/>
+		<string name="s0" value="让我看看你有什么本事！"/>
+		<string name="func" value="战斗模式骑士"/>
+	</imgdir>
+    <imgdir name="9070004">
+		<string name="name" value="Maximus"/>
+		<string name="s0" value="你够强参加战斗广场吗？只有一种方法可以知道..."/>
+		<string name="func" value="进入战斗广场"/>
+	</imgdir>
+    <imgdir name="9070005">
+		<string name="name" value="Rosette"/>
+		<string name="func" value="战斗广场向导"/>
+		<string name="n0" value="欢迎来到战斗广场！"/>
+		<string name="n1" value="你想了解战斗模式吗？"/>
+		<string name="d0" value="欢迎来到战斗广场。很高兴欢迎像你这样看起来很强的Mapler。"/>
+		<string name="d1" value="欢迎来到战斗广场。很高兴欢迎像你这样看起来很强的Mapler。"/>
+	</imgdir>
+    <imgdir name="9070006">
+		<string name="name" value="被诅咒的骑士"/>
+		<string name="d0" value="为什么...为什么这会发生在我身上？我的骑士荣誉...我的骑士骄傲..."/>
+		<string name="d1" value="为什么...为什么这会发生在我身上？我的骑士荣誉...我的骑士骄傲..."/>
+	</imgdir>
+</imgdir>

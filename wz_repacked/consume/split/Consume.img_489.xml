@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023238">
+		<string name="name" value="Guardian"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2023239">
+		<string name="name" value="Advanced Blessing"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2023240">
+		<string name="desc" value=""/>
+		<string name="name" value="Meditation"/>
+	</imgdir>
+    <imgdir name="2023241">
+		<string name="desc" value=""/>
+		<string name="name" value="Sharp Eyes"/>
+	</imgdir>
+    <imgdir name="2023242">
+		<string name="desc" value=""/>
+		<string name="name" value="Haste"/>
+	</imgdir>
+    <imgdir name="2023243">
+		<string name="desc" value=""/>
+		<string name="name" value="Speed Infusion"/>
+	</imgdir>
+    <imgdir name="2023244">
+		<string name="desc" value="A blessing from a goddess of Maple World that helps you resist the formless darkness."/>
+		<string name="name" value="Maple's Blessing"/>
+	</imgdir>
+    <imgdir name="2023245">
+		<string name="desc" value=""/>
+		<string name="name" value="Resurrection"/>
+	</imgdir>
+    <imgdir name="2023246">
+		<string name="desc" value=""/>
+		<string name="name" value="Parashock Guard"/>
+	</imgdir>
+    <imgdir name="2023248">
+		<string name="name" value="E.X.P. Entropy"/>
+		<string name="desc" value="Increases EXP reward by 1.5 times while hunting monsters in Kritias. This item's effect stacks with that of other EXP reward items."/>
+	</imgdir>
+    <imgdir name="2023249">
+		<string name="name" value="A.M.P. Entropy"/>
+		<string name="desc" value="Temporarily increases Anti-magic reward from Anti-magic Fragments dropped from monsters and Anti-magic Stones from daily quests."/>
+	</imgdir>
+    <imgdir name="2023250">
+		<string name="name" value="Style God Buff"/>
+		<string name="desc" value="The god of style has rewarded you for surviving Big Headger's endless exposition. Increases Weapon/Magic ATT by 10 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2028205">
+		<string name="desc" value="#cDouble-click# this unidentified 10th Anniversary scroll to find out what it is.\n#cExpires TKTKTK.#"/>
+		<string name="name" value="Unidentified 10th Anniversary Scroll"/>
+	</imgdir>
+    <imgdir name="2028208">
+		<string name="desc" value="This box contains a 10th Anniversary White weapon. #cDouble-click# it to find out what is inside.\n#cExpires TKTKTK.#"/>
+		<string name="name" value="10th Anniversary White Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028209">
+		<string name="desc" value="This box contains a 10th Anniversary White armor. #cDouble-click# it to find out what is inside.\n#cExpires TKTKTK.#"/>
+		<string name="name" value="10th Anniversary White Armor Box"/>
+	</imgdir>
+    <imgdir name="2028210">
+		<string name="desc" value="This box contains a 10th Anniversary Bits. #cDouble-click# it to find out what is inside.\n#cExpires TKTKTK.#"/>
+		<string name="name" value="10th Anniversary Bit-Box"/>
+	</imgdir>
+    <imgdir name="2028211">
+		<string name="desc" value="Box given to the best of the bunch. #cDouble-click# to obtain a random item."/>
+		<string name="name" value="Best of the Bunch Box"/>
+	</imgdir>
+    <imgdir name="2028212">
+		<string name="desc" value="Box given to the best of the best. #cDouble-click# to obtain a random item."/>
+		<string name="name" value="Best of the Best Box"/>
+	</imgdir>
+    <imgdir name="2028213">
+		<string name="desc" value="Box given to the legitimate best of the best. #cDouble-click# to obtain a random item."/>
+		<string name="name" value="Legit Best of the Best Box"/>
+	</imgdir>
+    <imgdir name="2028214">
+		<string name="desc" value="This box contains a 10th Anniversary Black weapon. #cDouble-click# it to find out what is inside.\n#cExpires TKTKTK.#"/>
+		<string name="name" value="10th Anniversary Black Weapon Box"/>
+	</imgdir>
+</imgdir>

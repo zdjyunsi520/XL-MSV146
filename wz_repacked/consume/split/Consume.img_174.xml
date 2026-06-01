@@ -1,0 +1,76 @@
+<imgdir name="Consume.img">
+    <imgdir name="2109006">
+		<string name="name" value="Pharaoh Yeti Summoning Bag"/>
+		<string name="desc" value="Summons Pharaoh Yeti."/>
+	</imgdir>
+    <imgdir name="2109007">
+		<string name="name" value="Pharaoh Yeti Summoning Bag"/>
+		<string name="desc" value="Summons Pharaoh Yeti in 90 seconds."/>
+	</imgdir>
+    <imgdir name="2109008">
+		<string name="name" value="Bubbling Summoning Bag"/>
+		<string name="desc" value="For use in the restricted bonus map area of the subway station."/>
+	</imgdir>
+    <imgdir name="2109009">
+		<string name="name" value="Jr. Yeti Pharaoh Summoning Bag"/>
+		<string name="desc" value="Summons Jr. Yeti Pharaoh for the bonus stage of Nett's Pyramid (Easy, Normal, Hard)"/>
+	</imgdir>
+    <imgdir name="2109010">
+		<string name="name" value="Jr. Yeti Pharaoh Summoning Bag"/>
+		<string name="desc" value="Summons Jr. Yeti Pharaoh for the bonus stage of Nett's Pyramid (Hell Mode)"/>
+	</imgdir>
+    <imgdir name="2109013">
+		<string name="name" value="Summon Halloween Ghost"/>
+	</imgdir>
+    <imgdir name="2109014">
+		<string name="name" value="Von Leon Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2109016">
+		<string name="name" value="Boy Moon Bunny Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2109017">
+		<string name="name" value="Girl Moon Bunny Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2109019">
+		<string name="name" value="Summon Rhinojinn"/>
+	</imgdir>
+    <imgdir name="2109020">
+		<string name="name" value="Red Leaf High Ghost Sack"/>
+	</imgdir>
+    <imgdir name="2120000">
+		<string name="name" value="Pet Food"/>
+		<string name="desc" value="Small pets love them. Recovers 30 Fullness. NOT for human!"/>
+	</imgdir>
+    <imgdir name="2120008">
+		<string name="name" value="Dry Treat"/>
+		<string name="desc" value="A high-quality dry treat that the Pigmies love. Pets love them, too."/>
+	</imgdir>
+    <imgdir name="2160101">
+		<string name="name" value="New Year's Card"/>
+		<string name="desc" value="Double-click on the item to send a New Year's card to a character of your choice."/>
+	</imgdir>
+    <imgdir name="2190000">
+		<string name="name" value="Lie Detector Test"/>
+		<string name="desc" value="Can be used on suspected botters. Usable only when a suspect is hunting."/>
+	</imgdir>
+    <imgdir name="2210000">
+		<string name="name" value="Orange Mushroom Piece"/>
+		<string name="desc" value="A crystal piece that resembles Orange Mushroom. When used, the crystal will melt into the body, and its mythical power will transform the user into Orange Mushroom. This mythical power will last for an hour."/>
+	</imgdir>
+    <imgdir name="2210001">
+		<string name="name" value="Ribbon Pig Piece"/>
+		<string name="desc" value="A crystal piece that resembles Ribbon Pig. When used, the crystal will melt into the body, and its mythical power will transform the user into Ribbon Pig. This mythical power will last for an hour."/>
+	</imgdir>
+    <imgdir name="2210002">
+		<string name="name" value="Grey Piece"/>
+		<string name="desc" value="A crystal piece that resembles Grey. When used, the crystal will melt into the body, and its mythical power will transform the user into Grey. This mythical power will last for an hour."/>
+	</imgdir>
+    <imgdir name="2210003">
+		<string name="name" value="Dragon Elixir"/>
+		<string name="desc" value="This potion, given to you by Moira, transforms you into a dragon for a while."/>
+	</imgdir>
+    <imgdir name="2210004">
+		<string name="name" value="Blue Ribbon Pig Piece"/>
+		<string name="desc" value="A crystal piece that resembles Blue Ribbon Pig. When used, the crystal will melt into the body, and its mythical power will transform the user into Blue Ribbon Pig. This mythical power will last for an hour."/>
+	</imgdir>
+</imgdir>

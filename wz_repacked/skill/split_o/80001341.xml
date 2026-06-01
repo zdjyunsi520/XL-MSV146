@@ -1,0 +1,5 @@
+<imgdir name="80001341">
+        <string name="name" value="Wrath of Magnus" />
+        <string name="desc" value="The evil Magnus will be summoned to fight on your side. Watch your back..he&apos;s not to be trusted. After being summoned by a Dawn Weapon, Magnus will attack nearby monsters." />
+        <string name="h" value="Summons Magnus for #time sec, Damage: #damage%\nCooldown: #cooltime" />
+    </imgdir>

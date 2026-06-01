@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2030012">
+		<string name="name" value="路德里姆传送胶囊"/>
+		<string name="desc" value="允许你返回路德里姆的传送胶囊。只能在路德里姆区域使用。"/>
+	</imgdir>
+    <imgdir name="2030016">
+		<string name="name" value="菲莉亚的传送粉"/>
+		<string name="desc" value="仙女菲莉亚制作的传送粉。在尼哈尔沙漠区域使用时，会将你传送到马加提亚。"/>
+	</imgdir>
+    <imgdir name="2030019">
+		<string name="name" value="鹦鹉螺号回城卷轴"/>
+		<string name="desc" value="这个卷轴让你返回海盗村鹦鹉螺号。这是一次性物品，使用后会消失。"/>
+	</imgdir>
+    <imgdir name="2030020">
+		<string name="name" value="新叶城回城卷轴"/>
+		<string name="desc" value="随时使用这个卷轴返回新叶城！"/>
+	</imgdir>
+    <imgdir name="2030021">
+		<string name="name" value="骑士的魔法卷轴"/>
+		<string name="desc" value="红狮王给他的骑士们的卷轴。使用后会移动到红狮王的觐见室。"/>
+	</imgdir>
+    <imgdir name="2030022">
+		<string name="name" value="指挥中心传送胶囊"/>
+		<string name="desc" value="允许胶囊持有者传送到欧米茄Sector指挥中心的传送胶囊。"/>
+	</imgdir>
+    <imgdir name="2030023">
+		<string name="name" value="爱心返回石"/>
+		<string name="desc" value="允许你移动到配偶当前所在地图。#c双击#使用。\n如果配偶在限制区域内或你无法从当前位置传送，则此石头不可用。"/>
+	</imgdir>
+    <imgdir name="2030024">
+		<string name="name" value="白浪港回城卷轴"/>
+		<string name="desc" value="将你传送到白浪港的卷轴。使用后会消失。"/>
+	</imgdir>
+    <imgdir name="2030025">
+		<string name="name" value="艾丽耶尔回城卷轴"/>
+		<string name="desc" value="返回艾丽耶尔的卷轴。使用后会消失。"/>
+	</imgdir>
+    <imgdir name="2030026">
+		<string name="name" value="沉默圣殿传送票"/>
+		<string name="desc" value="将你传送到沉默圣殿据点的附魔票。使用一次后化为尘土。"/>
+	</imgdir>
+    <imgdir name="2030027">
+		<string name="name" value="危险洞穴传送票"/>
+		<string name="desc" value="带你去危险洞穴的票。使用时消失。"/>
+	</imgdir>
+    <imgdir name="2030028">
+		<string name="name" value="地铁售票亭传送票"/>
+		<string name="desc" value="带你去地铁售票亭的票。使用时消失。"/>
+	</imgdir>
+    <imgdir name="2030029">
+		<string name="name" value="遗迹挖掘营地传送票"/>
+		<string name="desc" value="带你去遗迹挖掘营地的票。使用时消失。"/>
+	</imgdir>
+    <imgdir name="2030033">
+		<string name="name" value="回城卷轴 - 扎昆祭坛"/>
+		<string name="desc" value="使用扎昆副本追加入场券时给予。使用后消失。仅在可以召唤扎昆的频道使用此卷轴。"/>
+	</imgdir>
+    <imgdir name="2030034">
+		<string name="name" value="回城卷轴 - 奇美拉的洞穴"/>
+		<string name="desc" value="使用奇美拉副本追加入场券时给予。使用后消失。仅在可以召唤奇美拉的频道使用此卷轴。"/>
+	</imgdir>
+    <imgdir name="2030046">
+		<string name="name" value="黄金海滩入场券"/>
+		<string name="desc" value="直接带你去黄金海滩度假村。使用一次后消失。"/>
+	</imgdir>
+    <imgdir name="2031000">
+		<string name="name" value="面具人的邀请函"/>
+		<string name="desc" value="面具人邀请你参加豪宅万圣节派对。双击直接前往豪宅。"/>
+	</imgdir>
+    <imgdir name="2031001">
+		<string name="name" value="工作室邀请函"/>
+		<string name="desc" value="活动"仅限公会"的邀请函。"/>
+	</imgdir>
+    <imgdir name="2031002">
+		<string name="name" value="月球邀请函"/>
+		<string name="desc" value="月亮兔子发送给月球的邀请函。使用后会直接将你送到月亮兔子的????。"/>
+	</imgdir>
+    <imgdir name="2031003">
+		<string name="name" value="鸟巢邀请函"/>
+		<string name="desc" value="Gaga发送的小鸟巢的邀请函。使用它直接被送到鸟巢。"/>
+	</imgdir>
+</imgdir>

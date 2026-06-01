@@ -1,0 +1,5 @@
+<imgdir name="11121052">
+        <string name="name" value="冥河渡者" />
+        <string name="desc" value="集中灵魂之力，发出分隔生死的绝命一击！" />
+        <string name="h" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，伤害：#damage%，攻击次数：#attackCount。最大蓄力时：伤害：#x%，攻击次数：#y\n冷却时间：#cooltime秒。" />
+    </imgdir>

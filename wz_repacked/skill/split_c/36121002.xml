@@ -1,0 +1,5 @@
+<imgdir name="36121002">
+        <string name="name" value="全息力场：穿透" />
+        <string name="desc" value="形成全息力场包围敌人，然后用弹跳的能量球攻击！能量球不受攻击反射影响。通过模式切换改变模式。" />
+        <string name="h" value="MP Cost: #mpCon, Hypogram Field Duration: #time, Damage on contact: #damage% \nCooldown: #cooltime sec" />
+    </imgdir>

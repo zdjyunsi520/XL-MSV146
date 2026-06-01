@@ -1,0 +1,5 @@
+<imgdir name="36110005">
+        <string name="name" value="三角定位" />
+        <string name="desc" value="有几率在敌人身上附加飞行器。被附加的飞行器会降低敌人命中率和回避率，当敌人身上有3个飞行器时攻击会触发额外伤害！" />
+        <string name="h" value="Chance to attach Airframe on attack: #prop%, Max Airframes: 3, Damage when enemy with 3 Airframes is attacked: #damage%, Number of Attacks: 3, Enemy Accuracy and Avoidability for each Airframe: - #x%" />
+    </imgdir>

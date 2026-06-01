@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201052">
+		<string name="name" value="福克斯威特教授"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+		<string name="d1" value="我是福克斯威特教授，我知道你在想什么。疯子还是天才？我经常听到这种评价！"/>
+	</imgdir>
+    <imgdir name="9201053">
+		<string name="name" value="杰克·马斯克"/>
+		<string name="n0" value="别害怕！我是独一无二的盗贼王子！"/>
+		<string name="n1" value="如果你想要挑战，我有一个给你！"/>
+		<string name="d0" value="别害怕！我是独一无二的盗贼王子！如果你想要挑战，我有一个给你！"/>
+		<string name="d1" value="啊，3天时间还没过去，我的朋友。当时间限制过去后，我会派你去另一次狩猎。"/>
+	</imgdir>
+    <imgdir name="9201054">
+		<string name="name" value="莉塔·劳莱斯"/>
+		<string name="n0" value="我是镇上新来的警长。"/>
+		<string name="d0" value="我是镇上新来的警长。我要把这个镇变成一个无犯罪区。你能帮我吗？"/>
+		<string name="n1" value="我要把这个镇变成一个无犯罪区。"/>
+		<string name="d1" value="我为你感到骄傲！谢谢你！"/>
+	</imgdir>
+    <imgdir name="9201055">
+		<string name="name" value="埃尔帕姆·戈尔拉布"/>
+		<string name="n0" value="不要害怕，朋友。"/>
+		<string name="d0" value="不要害怕，朋友。我和平而来，需要你的帮助。"/>
+		<string name="n1" value="我和平而来，需要你的帮助。"/>
+		<string name="d1" value="谢谢你的帮助，我的朋友。我感觉你将来会见到更多我的朋友..."/>
+	</imgdir>
+    <imgdir name="9201056">
+		<string name="name" value="新叶城出租车"/>
+	</imgdir>
+    <imgdir name="9201057">
+		<string name="name" value="贝尔"/>
+		<string name="func" value="新叶城地铁工作人员"/>
+		<string name="n0" value="我们去新叶城吧！"/>
+		<string name="n1" value="我们去新叶城吧！"/>
+	</imgdir>
+    <imgdir name="9201058">
+		<string name="name" value="德尔菲"/>
+		<string name="func" value="盔甲商人"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201059">
+		<string name="name" value="凯尔"/>
+		<string name="func" value="武器商人"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201060">
+		<string name="name" value="美纪"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+		<string name="func" value="商人"/>
+	</imgdir>
+    <imgdir name="9201061">
+		<string name="name" value="博马克"/>
+		<string name="func" value="镜片经纪人"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201062">
+		<string name="name" value="J.J."/>
+		<string name="func" value="镜片魔术师"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201063">
+		<string name="name" value="阿里"/>
+		<string name="func" value="美发沙龙助手"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201064">
+		<string name="name" value="马尼"/>
+		<string name="func" value="首席发型师"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201065">
+		<string name="name" value="米兰达"/>
+		<string name="func" value="皮肤科医生"/>
+		<string name="n0" value="欢迎来到新叶城！"/>
+		<string name="n1" value="欢迎来到新叶城！"/>
+	</imgdir>
+    <imgdir name="9201066">
+		<string name="name" value="新叶城枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9201067">
+		<string name="name" value="抓娃娃机"/>
+	</imgdir>
+    <imgdir name="9201071">
+		<string name="name" value="太阳石墓"/>
+	</imgdir>
+    <imgdir name="9201072">
+		<string name="name" value="月亮石墓"/>
+	</imgdir>
+    <imgdir name="9201073">
+		<string name="name" value="墓碑"/>
+	</imgdir>
+    <imgdir name="9201081">
+		<string name="name" value="罗布"/>
+		<string name="func" value="储物保管员"/>
+		<string name="n0" value="你需要一个地方来存放你的物品和金币吗？这里正是你需要的地方！"/>
+		<string name="n1" value="我的仓库安全可靠，所以不用担心！"/>
+	</imgdir>
+</imgdir>

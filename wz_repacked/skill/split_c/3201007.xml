@@ -1,0 +1,8 @@
+<imgdir name="3201007">
+        <string name="name" value="金鹰" />
+        <string name="desc" value="召唤一只在你周围盘旋的金鹰，攻击附近的怪物并有几率使其眩晕。" />
+        <string name="h" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #prop%" />
+        <string name="pdesc" value="召唤一只在你周围盘旋的金鹰，攻击附近的怪物并有几率使其眩晕。" />
+        <string name="ph" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #prop%" />
+        <string name="hch" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #hcProp%" />
+    </imgdir>

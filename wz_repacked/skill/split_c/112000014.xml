@@ -1,0 +1,5 @@
+<imgdir name="112000014">
+        <string name="name" value="熊之力" />
+        <string name="desc" value="在熊之模式下永久提升暴击率、最低伤害、最高伤害和魔法攻击力。" />
+        <string name="h" value="被动效果: 暴击率: +#cr%, 最低暴击伤害: +#criticaldamageMin%, 最高暴击伤害: +#criticaldamageMax%, 魔法攻击力: +#madX" />
+    </imgdir>

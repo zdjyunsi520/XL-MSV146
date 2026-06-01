@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040042">
+		<string name="name" value="头盔强化卷轴 HP 100%"/>
+		<string name="desc" value="强化帽子最大HP。\n成功率：100%，最大HP+15"/>
+	</imgdir>
+    <imgdir name="2040043">
+		<string name="name" value="头盔强化卷轴 敏捷 65%"/>
+		<string name="desc" value="强化头盔的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040044">
+		<string name="name" value="头盔强化卷轴 敏捷 15%"/>
+		<string name="desc" value="强化头盔的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040045">
+		<string name="name" value="头盔强化卷轴 防御 50%"/>
+		<string name="desc" value="强化头盔防御。\n成功率：50%，物理防御+5，魔法防御+4"/>
+	</imgdir>
+    <imgdir name="2040046">
+		<string name="name" value="头盔强化卷轴 HP 50%"/>
+		<string name="desc" value="强化帽子最大HP。\n成功率：50%，最大HP+35"/>
+	</imgdir>
+    <imgdir name="2040051">
+		<string name="name" value="时间旅行者的月桂强化卷轴"/>
+		<string name="desc" value="强化时间旅行者的月桂武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040100">
+		<string name="name" value="面部饰品强化卷轴 HP 10%"/>
+		<string name="desc" value="强化面部饰品的最大HP。\n成功率：10%，最大HP+30。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040101">
+		<string name="name" value="面部饰品强化卷轴 HP 60%"/>
+		<string name="desc" value="强化面部饰品的最大HP。\n成功率：60%，最大HP+15。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040102">
+		<string name="name" value="面部饰品强化卷轴 HP 100%"/>
+		<string name="desc" value="强化面部饰品的最大HP。\n成功率：100%，最大HP+5"/>
+	</imgdir>
+    <imgdir name="2040103">
+		<string name="name" value="暗黑面部饰品强化卷轴 HP 30%"/>
+		<string name="desc" value="强化面部饰品的最大HP。\n成功率：30%，最大HP+30\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040104">
+		<string name="name" value="暗黑面部饰品强化卷轴 HP 70%"/>
+		<string name="desc" value="强化面部饰品的最大HP。\n成功率：70%，最大HP+15\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040105">
+		<string name="name" value="面部饰品强化卷轴 回避 10%"/>
+		<string name="desc" value="强化面部饰品的回避率。\n成功率：10%，回避率+2，敏捷+2。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040106">
+		<string name="name" value="面部饰品强化卷轴 回避 60%"/>
+		<string name="desc" value="强化面部饰品的回避率。\n成功率：60%，回避率+1，敏捷+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040107">
+		<string name="name" value="面部饰品强化卷轴 回避 100%"/>
+		<string name="desc" value="强化面部饰品的回避率。\n成功率：100%，回避率+1"/>
+	</imgdir>
+    <imgdir name="2040108">
+		<string name="name" value="暗黑面部饰品强化卷轴 回避 30%"/>
+		<string name="desc" value="强化面部饰品的回避率。\n成功率：30%，回避率+2，敏捷+2\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040109">
+		<string name="name" value="暗黑面部饰品强化卷轴 回避 70%"/>
+		<string name="desc" value="强化面部饰品的回避率。\n成功率：70%，回避率+1，敏捷+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040110">
+		<string name="name" value="红鼻子力量绷带 60%"/>
+		<string name="desc" value="强化鲁道夫红鼻子的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040111">
+		<string name="name" value="红鼻子敏捷绷带 60%"/>
+		<string name="desc" value="强化鲁道夫红鼻子的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040112">
+		<string name="name" value="红鼻子智力绷带 60%"/>
+		<string name="desc" value="强化鲁道夫红鼻子的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040113">
+		<string name="name" value="红鼻子幸运绷带 60%"/>
+		<string name="desc" value="强化鲁道夫红鼻子的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="150000">
+			<imgdir name="0">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="241000000">
+			<imgdir name="0">
+				<string name="Title" value="东北路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="南路"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="西北路"/>
+			</imgdir>
+    <imgdir name="241000100">
+			<imgdir name="0">
+				<string name="Title" value="北兵营"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="西北路"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="东北路"/>
+			</imgdir>
+    <imgdir name="241000110">
+			<imgdir name="0">
+				<string name="Title" value="东北路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东南兵营"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="南路"/>
+			</imgdir>
+    <imgdir name="241000120">
+			<imgdir name="0">
+				<string name="Title" value="南路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="西北路"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="西南兵营"/>
+			</imgdir>
+    <imgdir name="241000130">
+			<imgdir name="0">
+				<string name="Title" value="市长"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="兰海姆学院"/>
+			</imgdir>
+    <imgdir name="241000140">
+			<imgdir name="0">
+				<string name="Title" value="兰海姆学院"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="市政厅"/>
+			</imgdir>
+    <imgdir name="241000150">
+			<imgdir name="0">
+				<string name="Title" value="市长"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="市政厅"/>
+			</imgdir>
+    <imgdir name="241000200">
+			<imgdir name="0">
+				<string name="Title" value="悲伤森林1"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="15111003">
+        <string name="name" value="Shockwave" />
+        <string name="desc" value="Pounds the ground to create a shockwave that damages multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Pounds the ground to create a shockwave that damages multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

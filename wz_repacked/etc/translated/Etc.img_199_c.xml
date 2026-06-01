@@ -1,0 +1,96 @@
+<imgdir name="Etc.img">
+    <imgdir name="4220182">
+			<string name="name" value="强力战士弹珠"/>
+			<string name="desc" value="注入战士的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4220183">
+			<string name="name" value="无敌战士弹珠"/>
+			<string name="desc" value="注入战士的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4220184">
+			<string name="name" value="智慧魔法师弹珠"/>
+			<string name="desc" value="注入魔法师的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4220185">
+			<string name="name" value="觉醒魔法师弹珠"/>
+			<string name="desc" value="注入魔法师的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4220186">
+			<string name="name" value="解放猎人弹珠"/>
+			<string name="desc" value="注入猎人的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4220187">
+			<string name="name" value="翱翔猎人弹珠"/>
+			<string name="desc" value="注入猎人的能量。每当你在等级范围内狩猎怪物时它会自动充满。狩猎3000只怪物以完全充电"/>
+		</imgdir>
+    <imgdir name="4250000">
+			<string name="name" value="初级钻石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+武器攻击力+1"/>
+		</imgdir>
+    <imgdir name="4250001">
+			<string name="name" value="中级钻石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+武器攻击力+2"/>
+		</imgdir>
+    <imgdir name="4250002">
+			<string name="name" value="高级钻石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+武器攻击力+3"/>
+		</imgdir>
+    <imgdir name="4250100">
+			<string name="name" value="初级蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+魔法攻击力+1"/>
+		</imgdir>
+    <imgdir name="4250101">
+			<string name="name" value="中级蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+魔法攻击力+2"/>
+		</imgdir>
+    <imgdir name="4250102">
+			<string name="name" value="高级蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+魔法攻击力+3"/>
+		</imgdir>
+    <imgdir name="4250200">
+			<string name="name" value="初级石榴石"/>
+			<string name="desc" value="用于制作装备的宝石。
+精准：+2"/>
+		</imgdir>
+    <imgdir name="4250201">
+			<string name="name" value="中级石榴石"/>
+			<string name="desc" value="用于制作装备的宝石。
+精准：+3"/>
+		</imgdir>
+    <imgdir name="4250202">
+			<string name="name" value="高级石榴石"/>
+			<string name="desc" value="用于制作装备的宝石。
+精准：+5"/>
+		</imgdir>
+    <imgdir name="4250300">
+			<string name="name" value="初级蛋白石"/>
+			<string name="desc" value="用于制作装备的宝石。
+闪避：+2"/>
+		</imgdir>
+    <imgdir name="4250301">
+			<string name="name" value="中级蛋白石"/>
+			<string name="desc" value="用于制作装备的宝石。
+闪避：+3"/>
+		</imgdir>
+    <imgdir name="4250302">
+			<string name="name" value="高级蛋白石"/>
+			<string name="desc" value="用于制作装备的宝石。
+闪避：+5"/>
+		</imgdir>
+    <imgdir name="4250400">
+			<string name="name" value="初级紫水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+速度+2"/>
+		</imgdir>
+    <imgdir name="4250401">
+			<string name="name" value="中级紫水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+速度+3"/>
+		</imgdir>
+</imgdir>

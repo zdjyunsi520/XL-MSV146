@@ -1,0 +1,7 @@
+<imgdir name="22181004">
+        <string name="name" value="Onyx Will" />
+        <string name="desc" value="Decreases a portion of received damage for a set period and, enables you to resist being knocked back when struck." />
+        <string name="h" value="MP Cost: #mpCon, Damage Absorption: #x% for #time sec, Knock-back Resistance Rate: #prop%" />
+        <string name="pdesc" value="Decreases a portion of received damage for a set period and, enables you to resist being knocked back when struck." />
+        <string name="ph" value="MP Cost: #mpCon, Damage Absorption: #x% for #time sec, Knock-back Resistance Rate: #prop%" />
+    </imgdir>

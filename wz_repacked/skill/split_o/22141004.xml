@@ -1,0 +1,8 @@
+<imgdir name="22141004">
+        <string name="name" value="Dragon Blink" />
+        <string name="desc" value="Teleport to a random location of the map. The MP cost and cooldown time decreases as Skill Level increases." />
+        <string name="h" value="MP Cost: #mpCon, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Teleport to a random location of the map. The MP cost and cooldown time decreases as Skill Level increases." />
+        <string name="ph" value="MP Cost: #mpCon, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Cooldown: #hcCooltime sec" />
+    </imgdir>

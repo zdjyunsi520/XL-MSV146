@@ -1,0 +1,113 @@
+<imgdir name="Npc.img">
+    <imgdir name="2161013">
+		<string name="name" value="Glibber"/>
+		<string name="func" value="Merchant"/>
+		<string name="n0" value="Good job making it all the way out here to the old castle."/>
+		<string name="n1" value="I have some pretty good stuff for sale."/>
+		<string name="n2" value="It's not much compared to the shops in town, but you aren't exactly in town, are you?"/>
+	</imgdir>
+    <imgdir name="2161014">
+		<string name="name" value="Von Leon"/>
+		<string name="func" value="Lion King"/>
+		<string name="n0" value="...Must we speak? All that's left to do is fight..."/>
+		<string name="n1" value="Attack me! Leave your words and logic behind you!"/>
+		<string name="d0" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+		<string name="d1" value="Words have no meaning. Only actions matter... This is what the years have taught me. "/>
+	</imgdir>
+    <imgdir name="9001109">
+		<string name="name" value="Smartie Moon Bunny"/>
+		<string name="n0" value="Yes, I'll study humans by eating their barbeque..."/>
+		<string name="n1" value="Research report...similarities...humans and Moon Bunnies..."/>
+		<string name="d0" value="The Moon belongs to the Moon Bunnies, and Maple World belongs to humans. Humans who spread across their planet, as we bunnies did. I'm researching human history..."/>
+		<string name="d1" value="Yummy Barbeque! Rice cakes belong to the Moon Bunnies, and barbeque belongs to humans. I'm learning more about humans all the time!"/>
+	</imgdir>
+    <imgdir name="9001110">
+		<string name="name" value="Grinder Spirit Bunny"/>
+	</imgdir>
+    <imgdir name="9001111">
+		<string name="name" value="Smartie Moon Bunny"/>
+		<string name="n0" value="Yes, I'll study humans by eating them... out of all of their barbecue."/>
+		<string name="n1" value="Research report... similarities... humans and Moon Bunnies..."/>
+		<string name="d0" value="The Moon belongs to the Moon Bunnies, just like Maple World belongs to humans."/>
+		<string name="d1" value="I love your barbecued human so much! Wait, is that how I say that?"/>
+	</imgdir>
+    <imgdir name="9001112">
+		<string name="name" value="Lady Moon Bunny"/>
+		<string name="n0" value="Welcome to the moon."/>
+		<string name="n1" value="Try a delicious Sweet Rice Cake."/>
+		<string name="d0" value="For 16 years I've only made rice cakes. I am the master!"/>
+		<string name="d1" value="For 16 years I've only made rice cakes. I am the master!"/>
+	</imgdir>
+    <imgdir name="9001113">
+		<string name="name" value="Wee Moon Bunny"/>
+		<string name="n0" value="Welcome to the moon."/>
+		<string name="n1" value="Try a delicious Sweet Rice Cake."/>
+		<string name="d0" value="For 16 years I've only made rice cakes. I am the master!"/>
+		<string name="d1" value="For 16 years I've only made rice cakes. I am the master!"/>
+	</imgdir>
+    <imgdir name="9010024">
+		<string name="name" value="Judge Cassandra"/>
+	</imgdir>
+    <imgdir name="9010025">
+		<string name="name" value="Judge Admin"/>
+	</imgdir>
+    <imgdir name="9010026">
+		<string name="name" value="Judge Gaga"/>
+	</imgdir>
+    <imgdir name="9010027">
+		<string name="name" value="Judges"/>
+		<string name="func" value="Maple Idol"/>
+		<string name="n0" value="Welcome to the national quiz show auditions! Test your trivia talents on Maple Idol!"/>
+		<string name="n1" value="Love quizzes? Compete in Maple Idol!"/>
+		<string name="d0" value="You can join Maple Idol between 2:30 PM and midnight every Saturday from 12/18/2010 to 01/08/2011."/>
+		<string name="d1" value="You can join Maple Idol between 2:30 PM and midnight every Saturday from 12/18/2010 to 01/08/2011."/>
+	</imgdir>
+    <imgdir name="9010028">
+		<string name="name" value="Commitment"/>
+	</imgdir>
+    <imgdir name="9010029">
+		<string name="name" value="Tour Information Board"/>
+	</imgdir>
+    <imgdir name="9010030">
+		<string name="name" value="Hooper"/>
+		<string name="n0" value="If you have any Treasure Hunt 'You Lose' Notes, bring them to me."/>
+		<string name="n1" value="I will exchange Treasure Hunt 'You Lose' Notes for something tasty. "/>
+		<string name="func" value="Buff Item Seller"/>
+	</imgdir>
+    <imgdir name="9010031">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="I'm Cygnus, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="I'm here to cheer on all the brave knights fighting for Maple World.\r\n"/>
+		<string name="d0" value="I'm Cygnus, and I'm going to be the next Maple Rising Star. Thanks for your support!\r\n"/>
+	</imgdir>
+    <imgdir name="9010032">
+		<string name="name" value="Valerie"/>
+		<string name="n0" value="Name's Valerie, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="I'm here to represent pirates all over.\r\n"/>
+		<string name="d0" value="Hey, my name is Valerie, and I'm joining the challenge to become a Maple Rising Star. I just want to say thank you to all my adoring fans!"/>
+	</imgdir>
+    <imgdir name="9010033">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="I'm Lilin, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="I'll never give up!\r\n"/>
+		<string name="d0" value="Hello, my name is Lilin, and I'm joining the challenge to become a Maple Rising Star. I will show my appreciation for all your support by trying my best!"/>
+	</imgdir>
+    <imgdir name="9010034">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="I'm Cygnus, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="Prepare yourself for an amazing show!\r\n"/>
+		<string name="d0" value="Hello, my name is Cygnus, and I'm joining the challenge to become a Maple Rising Star. I promise to give you my very best."/>
+	</imgdir>
+    <imgdir name="9010035">
+		<string name="name" value="Valerie"/>
+		<string name="n0" value="Name's Valerie, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="I'll show you what a pirate can do!\r\n"/>
+		<string name="d0" value="Hey, my name is Valerie, and I'm joining the challenge to become a Maple Rising Star. Are you ready to help me out?"/>
+	</imgdir>
+    <imgdir name="9010036">
+		<string name="name" value="Lilin"/>
+		<string name="n0" value="I'm Lilin, and I'm going to be the next Maple Rising Star!\r\n"/>
+		<string name="n1" value="Your trust in me is worth it. I promise!\r\n"/>
+		<string name="d0" value="Hello, my name is Lilin, and I'm joining the challenge to become a Maple Rising Star. I promise to give you my best!"/>
+	</imgdir>
+</imgdir>

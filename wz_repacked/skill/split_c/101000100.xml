@@ -1,0 +1,5 @@
+<imgdir name="101000100">
+        <string name="name" value="空袭" />
+        <string name="desc" value="攻击前方敌人，在空中对其进行踩踏。\n[前置技能]: #c升空斩 Lv. 1#\n[指令]: 连续使用两次#c升空斩#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

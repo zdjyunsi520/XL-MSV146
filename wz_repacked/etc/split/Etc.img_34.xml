@@ -1,0 +1,78 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000744">
+			<string name="name" value="Dinodon Fang"/>
+			<string name="desc" value="A hard, sharp fang. Makes a popular decoration."/>
+		</imgdir>
+    <imgdir name="4000745">
+			<string name="name" value="Training Ice Chunk"/>
+			<string name="desc" value="A heavy ice chunk to train your endurance on. Can you hold it until it melts completely?"/>
+		</imgdir>
+    <imgdir name="4000753">
+			<string name="name" value="Palm Leaf"/>
+			<string name="desc" value="A very large palm leaf."/>
+		</imgdir>
+    <imgdir name="4000754">
+			<string name="name" value="Coconut"/>
+			<string name="desc" value="A sweet coconut."/>
+		</imgdir>
+    <imgdir name="4000755">
+			<string name="name" value="Emerald Clam"/>
+			<string name="desc" value="A green clam native to Gold Beach."/>
+		</imgdir>
+    <imgdir name="4000756">
+			<string name="name" value="Violet Clam"/>
+			<string name="desc" value="A purple clam native to Gold Beach."/>
+		</imgdir>
+    <imgdir name="4000757">
+			<string name="name" value="Seagull Baggy"/>
+			<string name="desc" value="A small bag carried by the Seagull Slime."/>
+		</imgdir>
+    <imgdir name="4000758">
+			<string name="name" value="Red Inner Tube"/>
+			<string name="desc" value="One of Gold Beach's red inner tubes, stolen by the Black Slimes."/>
+		</imgdir>
+    <imgdir name="4000759">
+			<string name="name" value="Blue Inner Tube"/>
+			<string name="desc" value="One of Gold Beach's blue inner tubes, stolen by the Black Slimes."/>
+		</imgdir>
+    <imgdir name="4000760">
+			<string name="name" value="Fried Shrimp Bite"/>
+			<string name="desc" value="A tasty piece of shrimp, naturally fried by the hot beach sun."/>
+		</imgdir>
+    <imgdir name="4000761">
+			<string name="name" value="Flying Fish"/>
+			<string name="desc" value="Used to have a Slime stuck to it."/>
+		</imgdir>
+    <imgdir name="4000762">
+			<string name="name" value="Blue Ink Sack"/>
+			<string name="desc" value="Ink Sack of the Starfish Octopus Slime."/>
+		</imgdir>
+    <imgdir name="4000763">
+			<string name="name" value="Orange Ink Sack"/>
+			<string name="desc" value="Ink Sack of the Seashell Octopus Slime."/>
+		</imgdir>
+    <imgdir name="4000764">
+			<string name="name" value="Giant Octopus Tentacle"/>
+			<string name="desc" value="One of Captain Darkgoo's tentacles."/>
+		</imgdir>
+    <imgdir name="4000765">
+			<string name="name" value="Guard E Chip"/>
+			<string name="desc" value="A memory chip from Guard Robot E."/>
+		</imgdir>
+    <imgdir name="4000766">
+			<string name="name" value="Mentoring Diary"/>
+			<string name="desc" value="A diary to track all of your Mentoring accomplishments."/>
+		</imgdir>
+    <imgdir name="4000768">
+			<string name="name" value="Monstory 1"/>
+		</imgdir>
+    <imgdir name="4000769">
+			<string name="name" value="Monstory 2"/>
+		</imgdir>
+    <imgdir name="4000770">
+			<string name="name" value="Monstory 3"/>
+		</imgdir>
+    <imgdir name="4000771">
+			<string name="name" value="Monstory 4"/>
+		</imgdir>
+</imgdir>

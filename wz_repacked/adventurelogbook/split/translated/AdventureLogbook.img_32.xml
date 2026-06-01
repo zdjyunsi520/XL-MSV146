@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="402">
+				<string name="title" value="2. Olive提出请求" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="在探索维多利亚岛时，你遇到了一个叫Olive的女孩，她对所有闪亮的东西都痴迷，包括属于盗贼公会的一块特殊宝石。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="Olive派你进入盗贼公会的密室去查看那颗宝石，结果你遇到了一个戴面具的入侵者！" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="你成功击败了入侵者。当你向Olive汇报情况时，她抱怨说她喜欢的闪亮东西总是先被别人偷走。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="你意识到这可能是一个恶意组织有预谋的行动。Olive也表示赞同，指出能闯入盗贼公会据点的组织一定非常强大……" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

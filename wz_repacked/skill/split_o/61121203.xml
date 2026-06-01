@@ -1,0 +1,5 @@
+<imgdir name="61121203">
+        <string name="name" value="Dragon Barrage (Transfiguration)" />
+        <string name="desc" value="Quickly move and attack enemies with chance to instantly KO them." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Instant KO Chance: #prop%" />
+    </imgdir>

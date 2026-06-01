@@ -1,0 +1,7 @@
+<imgdir name="4220005">
+        <string name="name" value="Venomous Stab" />
+        <string name="desc" value="Poison is permanently applied to your dagger, so you have a choice to Poison enemies. The poison is not stackable, and the enemy&apos;s HP cannot drop below 1." />
+        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Poison is permanently applied to your dagger, so you have a choice to Poison enemies. The poison is not stackable, and the enemy&apos;s HP cannot drop below 1." />
+        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

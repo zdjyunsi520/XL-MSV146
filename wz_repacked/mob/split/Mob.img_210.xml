@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8630028">
+		<string name="name" value="Burning Anxiety"/>
+	</imgdir>
+    <imgdir name="8630029">
+		<string name="name" value="Burning Vain"/>
+	</imgdir>
+    <imgdir name="8630030">
+		<string name="name" value="Permeating Solitude"/>
+	</imgdir>
+    <imgdir name="8630031">
+		<string name="name" value="Permeating Terror"/>
+	</imgdir>
+    <imgdir name="8630032">
+		<string name="name" value="Permeating Anger"/>
+	</imgdir>
+    <imgdir name="8630033">
+		<string name="name" value="Permeating Anxiety"/>
+	</imgdir>
+    <imgdir name="8630034">
+		<string name="name" value="Permeating Vain"/>
+	</imgdir>
+    <imgdir name="8630035">
+		<string name="name" value="Corrupted Basic Magician"/>
+	</imgdir>
+    <imgdir name="8630036">
+		<string name="name" value="Corrupted Intermediate Magician"/>
+	</imgdir>
+    <imgdir name="8630037">
+		<string name="name" value="Corrupted Advanced Magician"/>
+	</imgdir>
+    <imgdir name="8630038">
+		<string name="name" value="Anti-magic"/>
+	</imgdir>
+    <imgdir name="8940000">
+		<string name="name" value="Hekaton's Head"/>
+	</imgdir>
+    <imgdir name="8940001">
+		<string name="name" value="Hekaton"/>
+	</imgdir>
+    <imgdir name="8940002">
+		<string name="name" value="Hekaton's Abdomen"/>
+	</imgdir>
+    <imgdir name="8940003">
+		<string name="name" value="Hekaton's Fist"/>
+	</imgdir>
+    <imgdir name="8940004">
+		<string name="name" value="Hekaton's Fist"/>
+	</imgdir>
+    <imgdir name="8940005">
+		<string name="name" value="Hekaton's Arm"/>
+	</imgdir>
+    <imgdir name="8940006">
+		<string name="name" value="Hekaton's Arm"/>
+	</imgdir>
+    <imgdir name="8940007">
+		<string name="name" value="Hekaton's Shoulder"/>
+	</imgdir>
+    <imgdir name="8940008">
+		<string name="name" value="Hekaton's Shoulder"/>
+	</imgdir>
+</imgdir>

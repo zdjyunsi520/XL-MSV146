@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4310092">
+			<string name="name" value="Kritias Commemorative Coin"/>
+			<string name="desc" value="A coin minted by the Kritias Government. It has a very high value."/>
+		</imgdir>
+    <imgdir name="4160106">
+			<string name="name" value="Pet Command Guide: Ice Knight"/>
+			<string name="desc" value="A guide that has all the commands for the Ice Knight. \n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4310085">
+			<string name="name" value="Time Coin"/>
+			<string name="desc" value="A coin imbued with the power of time."/>
+		</imgdir>
+    <imgdir name="4310086">
+			<string name="name" value="Job Advancement Coin"/>
+			<string name="desc" value="This coin is required for Open Advancement. If you don't have enough coins, then you can use mesos instead."/>
+		</imgdir>
+    <imgdir name="4310088">
+			<string name="name" value="RED Coin"/>
+			<string name="desc" value="A red coin with the letters RED imprinted on it. #cYou can use it to buy items at the RED Shop.#"/>
+		</imgdir>
+    <imgdir name="4310091">
+			<string name="name" value="Anheim Coin"/>
+			<string name="desc" value="A coin minted by Anheim Magic School. Anheim Coins can be exchanged for anti-magic and used for buying useful items."/>
+		</imgdir>
+    <imgdir name="4330028">
+			<string name="name" value="Pink Coin Purse"/>
+			<string name="desc" value="A coin purse with 8 slots. It holds all types of coins.\r\n#cYou can only have one coin purse in your inventory. Can be opened any number of times.#"/>
+		</imgdir>
+    <imgdir name="4440001">
+			<string name="name" value="Strong Jewel S"/>
+			<string name="desc" value="Grant's superior Strength-based abilities to Jewel Craft Equipment. "/>
+		</imgdir>
+    <imgdir name="4441001">
+			<string name="name" value="Lucky Jewel S"/>
+			<string name="desc" value="Grant's superior Luck-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4442001">
+			<string name="name" value="Keen Jewel S"/>
+			<string name="desc" value="Grant's superior Wisdom-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4443001">
+			<string name="name" value="Nimble Jewel S"/>
+			<string name="desc" value="Grant's superior Dexterity-based abilities to Jewel Craft Equipment."/>
+		</imgdir>
+    <imgdir name="4460000">
+			<string name="name" value="Explorer Book"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4460001">
+			<string name="name" value="Explorer Book"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4460002">
+			<string name="name" value="Explorer Book"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4460003">
+			<string name="name" value="Explorer Book"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4460004">
+			<string name="name" value="Explorer Book"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4160116">
+			<string name="name" value="Pet Command Guide : RED Rudolph"/>
+			<string name="desc" value="A guide that has all the commands for the RED Rudolph.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4160117">
+			<string name="name" value="Pet Command Guide : RED Yeti"/>
+			<string name="desc" value="A guidebook that details the commands that can be said to RED Yeti.#cDouble-click on the item to open the book.#"/>
+		</imgdir>
+    <imgdir name="4160118">
+			<string name="name" value="Pet Command Guide : RED Penguin"/>
+			<string name="desc" value="A guide that has all the commands for the RED Penguin.\n#cDouble-click on the item to open the guide.#"/>
+		</imgdir>
+    <imgdir name="4310100">
+			<string name="name" value="Commerci Denaro"/>
+			<string name="desc" value="A coin used exclusively by the traders of Commerci. "/>
+		</imgdir>
+</imgdir>

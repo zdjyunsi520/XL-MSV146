@@ -1,0 +1,209 @@
+<imgdir name="5000211">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Ahoy!"/>
+		<string name="c1_s2" value="Havin' a sit."/>
+		<string name="c1_f1" value="…?"/>
+		<string name="c1_f2" value="Bah."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="Aye, I could use a little break."/>
+		<string name="c2_s2" value="Ahh, nothin' like relaxin' on a bomb."/>
+		<string name="c2_s3" value="This be right nice."/>
+		<string name="c2_s4" value="Go on, cap'n. I'll watch this bomb."/>
+		<string name="c2_f1" value="Bah."/>
+		<string name="c2_f2" value="I say to ye, no!"/>
+		<string name="c2_f3" value="Why do ye ask such things?"/>
+		<string name="c2_f4" value="I've places to be, cap'n!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="I agree, it be time for a rest."/>
+		<string name="c3_s2" value="This bomb be special, ye know."/>
+		<string name="c3_s3" value="Ye should rest as well. I worry about ye."/>
+		<string name="c3_s4" value="Yarr, me legs were gettin' tired."/>
+		<string name="c3_f1" value="Brave pirates never rest, cap'n!"/>
+		<string name="c3_f2" value="Don't make me peck at ye."/>
+		<string name="c3_f3" value="That not be a very inspirin' order."/>
+		<string name="c3_f4" value="What was that, cap'n?"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="I do be rather tired..."/>
+		<string name="c4_s2" value="Now all I be needin' is some blueberries."/>
+		<string name="c4_s3" value="I not be sleepin'. Just restin' me eyes."/>
+		<string name="c4_s4" value="Not a bad idea, cap'n."/>
+		<string name="c4_f1" value="I not be carin' for ye orders."/>
+		<string name="c4_f2" value="Ye not be understandin' who yer messin' with..."/>
+		<string name="c4_f3" value="Do I look like a dog to ye?"/>
+		<string name="c4_f4" value="Nay."/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="Sorry."/>
+		<string name="c5_s2" value="My mistake."/>
+		<string name="c5_f1" value="Eh?"/>
+		<string name="c5_f2" value="What?"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Aye, I deserved that."/>
+		<string name="c6_s2" value="I be hearin' ye, cap'n."/>
+		<string name="c6_s3" value="Apologies, cap'n."/>
+		<string name="c6_s4" value="Yarr, I messed up."/>
+		<string name="c6_f1" value="Did ye finally crack, cap'n?"/>
+		<string name="c6_f2" value="What be ye problem?"/>
+		<string name="c6_f3" value="This be a real dissapointment."/>
+		<string name="c6_f4" value="Belay that, cap'n!"/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="Let's forget about this, cap'n."/>
+		<string name="c7_s2" value="Don't make me walk the plank!"/>
+		<string name="c7_s3" value="I'll not dissapoint ye again."/>
+		<string name="c7_s4" value="Oh, cap'n...I be so sorry."/>
+		<string name="c7_f1" value="Bah! Why should I care?"/>
+		<string name="c7_f2" value="Ye need to be more carin' than that."/>
+		<string name="c7_f3" value="Must've heard ye wrong, cap'n."/>
+		<string name="c7_f4" value="Bah. I be wantin' some grub."/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="I be reflectin' upon me mistakes."/>
+		<string name="c8_s2" value="Ye have me apologies."/>
+		<string name="c8_s3" value="Sorry. I'll be a much better pirate."/>
+		<string name="c8_s4" value="Don't leave me, cap'n!"/>
+		<string name="c8_f1" value="Keep this up, and ye'll have a mutiny on ye hands!"/>
+		<string name="c8_f2" value="You treat ye crew like this?"/>
+		<string name="c8_f3" value="Shape up, cap'n!"/>
+		<string name="c8_f4" value="Yarr, cut that mess out!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Ha!"/>
+		<string name="c9_s2" value="Hm!"/>
+		<string name="c9_f1" value="Eh?"/>
+		<string name="c9_f2" value="Bah!"/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="Ye be my best mate, capn'n."/>
+		<string name="c10_s2" value="If we be stuck together, I be okay with that."/>
+		<string name="c10_s3" value="Always good to have the cap'n's ear!"/>
+		<string name="c10_s4" value="Affection accepted, cap'n."/>
+		<string name="c10_f1" value="That's behavior unbecoming a pirate, cap'n!"/>
+		<string name="c10_f2" value="Life at sea be lonely, cap'n. Deal with it."/>
+		<string name="c10_f3" value="I feel a bit sick, cap'n. And I not be seasick."/>
+		<string name="c10_f4" value="Stop givin' me the crazy eye, cap'n!"/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="Ahoy there! Ye be makin' me feathers all ruffled."/>
+		<string name="c11_s2" value="That's a good one, cap'n. Never gets old."/>
+		<string name="c11_s3" value="That's good, cap'n. We are shipmates, after all."/>
+		<string name="c11_s4" value="I'm so glad our piratey ways brought us t'gether!"/>
+		<string name="c11_f1" value="Yarr, I be tryin' ta eat here!"/>
+		<string name="c11_f2" value="Not sure how I feel about bein' yer crew, cap'n."/>
+		<string name="c11_f3" value="Yeah you do. No surprise there."/>
+		<string name="c11_f4" value="You gone soft on me, cap'n?"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="Ye be the only cap'n for me!"/>
+		<string name="c12_s2" value="I be swashin' any buckles you want!"/>
+		<string name="c12_s3" value="I'll be ye first mate anytime, cap'n."/>
+		<string name="c12_s4" value="This be the happiest moment in me piratey life."/>
+		<string name="c12_f1" value="Nay, cap'n, my ladybird awaits me at our next port of call."/>
+		<string name="c12_f2" value="That's inappropriate conduct for a cap'n, cap'n."/>
+		<string name="c12_f3" value="I love TREASURE, cap'n. And you should, too."/>
+		<string name="c12_f4" value="Ye compliment is bilgewater to me."/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Aye aye!"/>
+		<string name="c13_s2" value="Ahh, sweet relief."/>
+		<string name="c13_s3" value="Now THAT is a real pirate's poop."/>
+		<string name="c13_s4" value="Yar har ho hee hoo!"/>
+		<string name="c13_f1" value="Eh?"/>
+		<string name="c13_f2" value="What filth be this?!"/>
+		<string name="c13_f3" value="Even pirates have standards, ye scallywag!"/>
+		<string name="c13_f4" value="This not be the poop deck, cap'n."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Yarr, I be a few pounds lighter now!"/>
+		<string name="c14_s2" value="Looks like no scurvy today!"/>
+		<string name="c14_s3" value="Yarr, I be givin' it all I've got!"/>
+		<string name="c14_s4" value="I'm not swabbin' up after this, cap'n."/>
+		<string name="c14_f1" value="Ah, cap'n first."/>
+		<string name="c14_f2" value="I'll not mess me pantaloons!"/>
+		<string name="c14_f3" value="Ye be one strange pirate, cap'n..."/>
+		<string name="c14_f4" value="This be hurtin' me confidence in ye."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="I be droppin' another load!"/>
+		<string name="c15_s2" value="It be an unhealthy obsession, but I be needin' ta go..."/>
+		<string name="c15_s3" value="I'll not cross swords 'till I've had a good poop!"/>
+		<string name="c15_s4" value="I've made me own buried treasure!"/>
+		<string name="c15_f1" value="Ye dissapoint me, cap'n."/>
+		<string name="c15_f2" value="Stow that, cap'n!"/>
+		<string name="c15_f3" value="Ye be havin' the sea crazies, cap'n?"/>
+		<string name="c15_f4" value="Leave me be!"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="G'night, cap'n."/>
+		<string name="c16_s2" value="I be dreamin' of plunder tonight."/>
+		<string name="c16_s3" value="I be sleepin' well with a bomb under me pillow."/>
+		<string name="c16_s4" value="Ye takin' first watch, cap'n? Goodnight, then."/>
+		<string name="c16_f1" value="Nay, cap'n, there's work to be done!"/>
+		<string name="c16_f2" value="The sun be shinin'! I can't sleep now!"/>
+		<string name="c16_f3" value="There's plenty more fight in me, cap'n!"/>
+		<string name="c16_f4" value="You sleep. I be takin' first watch."/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Aye, just need a good bomb to sleep on."/>
+		<string name="c17_s2" value="Ye shouldn't disturb a sleepin' pirate..."/>
+		<string name="c17_s3" value="Can't... keep... me eyes... open..."/>
+		<string name="c17_s4" value="You keep watch, cap'n...I'll get some shut-eye."/>
+		<string name="c17_f1" value="I've plenty of fire in me! I don't need sleep!"/>
+		<string name="c17_f2" value="I'm not following that order! I'll mutiny!"/>
+		<string name="c17_f3" value="Must've heard ye wrong, cap'n."/>
+		<string name="c17_f4" value="Nay, cap'n, there's piratin' to be done!"/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Aye, I could use a little sleep after that."/>
+		<string name="c18_s2" value="Gonna catch a few winks before our next voyage."/>
+		<string name="c18_s3" value="Time for bed. Hope the bomb don't blow."/>
+		<string name="c18_s4" value="Aye, I'll be dreamin' of booty!"/>
+		<string name="c18_f1" value="Ye don't have ta give orders all the time, cap'n!"/>
+		<string name="c18_f2" value="Why sleep when there's pillaging to be done?"/>
+		<string name="c18_f3" value="Don't make me turn on ye!"/>
+		<string name="c18_f4" value="Ye should repect me! I be a scary pirate!"/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="I'm gonna be king of the pirates!"/>
+		<string name="c19_s2" value="One day, I'll own me own ship...the Black Pebble."/>
+		<string name="c19_s3" value="Want to see me treasure map? Ha! Too bad!"/>
+		<string name="c19_s4" value="I once lived with a navy admiral, ye know."/>
+		<string name="c19_f1" value="Eh? What did ye say?"/>
+		<string name="c19_f2" value="No time to talk, cap'n!"/>
+		<string name="c19_f3" value="Let's hear ye story first, cap'n."/>
+		<string name="c19_f4" value="I don't trust ye enough to share me secrets..."/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="I broke free from a navy admiral's cage."/>
+		<string name="c20_s2" value="The sea be the only place for me."/>
+		<string name="c20_s3" value="I be in love with blueberries, ye know."/>
+		<string name="c20_s4" value="Have ye planned dinner? I be wantin' fruits!"/>
+		<string name="c20_f1" value="Pester another crewman, cap'n!"/>
+		<string name="c20_f2" value="If ye be bored, round us up some treasure!"/>
+		<string name="c20_f3" value="Speak up, cap'n!"/>
+		<string name="c20_f4" value="Not very dignified, cap'n."/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="I'll be a great captain meself one day."/>
+		<string name="c21_s2" value="This hat be the finest silk, ye know."/>
+		<string name="c21_s3" value="We spend too much time on land, cap'n!"/>
+		<string name="c21_s4" value="I always wanted to be a pirate."/>
+		<string name="c21_f1" value="Ye be to needy, cap'n."/>
+		<string name="c21_f2" value="Less talk, more blueberries!"/>
+		<string name="c21_f3" value="Nay, it be me alone time."/>
+		<string name="c21_f4" value="I'll abandon ship if ye keep this up!"/>
+		<string name="c22" value="showoff|trick|perform"/>
+		<string name="c22_s1" value="Yarr, I be TRANSFORMIN'!"/>
+		<string name="c22_s2" value="See these? These be skin-color tights!"/>
+		<string name="c22_s3" value="For me next trick, I'll break out of me cage!"/>
+		<string name="c22_s4" value="This be only for ye, cap'n!"/>
+		<string name="c22_f1" value="That be foolishness."/>
+		<string name="c22_f2" value="What nonsense be this?"/>
+		<string name="c22_f3" value="Stow that mess, cap'n."/>
+		<string name="c22_f4" value="I be too hungry for ye tricks."/>
+		<string name="c23" value="showoff|trick|perform"/>
+		<string name="c23_s1" value="I'd like to see ye do this!"/>
+		<string name="c23_s2" value="Yarr-hyaaaah!"/>
+		<string name="c23_s3" value="This trick be unique!"/>
+		<string name="c23_s4" value="No photos, please!"/>
+		<string name="c23_f1" value="Ye be annoying. Stop it."/>
+		<string name="c23_f2" value="I be gettin' sick of ye pesterin'."/>
+		<string name="c23_f3" value="I be on vacation today."/>
+		<string name="c23_f4" value="Oh, no. Ye go first, cap'n."/>
+		<string name="f1_s" value="Hm!"/>
+		<string name="f1_f" value="Ho ho!"/>
+		<string name="f2_s" value="This grub be delicious!"/>
+		<string name="f2_f" value="Aye, I be so full!"/>
+		<string name="f3_s" value="Me cap'n be the best!"/>
+		<string name="f3_f" value="Me belly be full ta burstin'!"/>
+		<string name="f4_s" value="It be too delicious, I say!"/>
+		<string name="f4_f" value="I'll get scurvy from that!"/>
+		<string name="s1" value="Eh?!"/>
+		<string name="s2" value="Know ye manners, cap'n."/>
+		<string name="s3" value="Ye be abusin' the chain of command."/>
+		<string name="s4" value="Do ye need to go back ta cap'n school?"/>
+	</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="80000085">
+        <string name="name" value="Maple Windrider" />
+        <string name="desc" value="The fragrant spring breeze increases your Weapon and Magic ATT." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT: +#madX, All stats: +#dexX" />
+    </imgdir>

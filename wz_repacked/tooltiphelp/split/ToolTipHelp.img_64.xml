@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Utah's House"/>
+			</imgdir>
+    <imgdir name="100030200">
+			<imgdir name="0">
+				<string name="Title" value="Farm Center"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Utah's House"/>
+			</imgdir>
+    <imgdir name="100030300">
+			<imgdir name="0">
+				<string name="Title" value="To Utah's House "/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="To the Farm Entrance"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Lush Forest"/>
+			</imgdir>
+    <imgdir name="100030310">
+			<imgdir name="0">
+				<string name="Title" value="Farm Center"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Large Forest Trail 2"/>
+			</imgdir>
+    <imgdir name="100030320">
+			<imgdir name="0">
+				<string name="Title" value="Farm Entrance"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Large Forest Trail 1"/>
+			</imgdir>
+    <imgdir name="100030400">
+			<imgdir name="0">
+				<string name="Title" value="Utah's Pig Farm Entrance "/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Farm Center, To Utah's House"/>
+			</imgdir>
+    <imgdir name="103050100">
+			<imgdir name="0">
+				<string name="Title" value="Room of Training"/>
+			</imgdir>
+    <imgdir name="103050200">
+			<imgdir name="0">
+				<string name="Title" value="The Secret Garden 2nd Floor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Exit"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Restricted Area"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="The Secret Garden Basement"/>
+			</imgdir>
+    <imgdir name="600010100">
+			<imgdir name="0">
+				<string name="Title" value="Right Outside Town"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Krakian Jungle Basin"/>
+			</imgdir>
+    <imgdir name="600010200">
+			<imgdir name="0">
+				<string name="Title" value="Mountain Slopes"/>
+			</imgdir>
+</imgdir>

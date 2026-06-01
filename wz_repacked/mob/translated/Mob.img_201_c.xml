@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9390201">
+		<string name="name" value="战斗怪物树桩"/>
+	</imgdir>
+    <imgdir name="9390202">
+		<string name="name" value="战斗怪物史莱姆"/>
+	</imgdir>
+    <imgdir name="9390203">
+		<string name="name" value="战斗怪物巡逻机器人"/>
+	</imgdir>
+    <imgdir name="9390204">
+		<string name="name" value="战斗怪物蓝蘑菇"/>
+	</imgdir>
+    <imgdir name="9390205">
+		<string name="name" value="战斗怪物昏昏欲睡的咕噜怪"/>
+	</imgdir>
+    <imgdir name="9390206">
+		<string name="name" value="战斗怪物章鱼"/>
+	</imgdir>
+    <imgdir name="9390207">
+		<string name="name" value="战斗怪物混合傀儡"/>
+	</imgdir>
+    <imgdir name="9390500">
+		<string name="name" value="狮子莱昂纳多"/>
+	</imgdir>
+    <imgdir name="9390501">
+		<string name="name" value="拉斐尔"/>
+	</imgdir>
+    <imgdir name="3501000">
+		<string name="name" value="萤火虫史莱姆"/>
+	</imgdir>
+    <imgdir name="3501001">
+		<string name="name" value="仙女史莱姆"/>
+	</imgdir>
+    <imgdir name="3501002">
+		<string name="name" value="水精灵"/>
+	</imgdir>
+    <imgdir name="3501003">
+		<string name="name" value="森林精灵"/>
+	</imgdir>
+    <imgdir name="3501004">
+		<string name="name" value="暴躁魔典"/>
+	</imgdir>
+    <imgdir name="3501005">
+		<string name="name" value="愤怒魔典"/>
+	</imgdir>
+    <imgdir name="3501006">
+		<string name="name" value="洋葱怪"/>
+	</imgdir>
+    <imgdir name="3501007">
+		<string name="name" value="萝卜怪"/>
+	</imgdir>
+    <imgdir name="3501008">
+		<string name="name" value="鼹鼠王"/>
+	</imgdir>
+    <imgdir name="3501009">
+		<string name="name" value="神秘精灵"/>
+	</imgdir>
+    <imgdir name="8148000">
+		<string name="name" value="堤丰"/>
+	</imgdir>
+</imgdir>

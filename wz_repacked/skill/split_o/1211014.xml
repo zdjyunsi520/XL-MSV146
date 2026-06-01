@@ -1,0 +1,5 @@
+<imgdir name="1211014">
+        <string name="name" value="Parashock Guard" />
+        <string name="desc" value="Temporarily reduces your #cGuard Chance and DEF# and damage that surrounding allies receive when they are hit. Grants your allies a chance to guard themselves. Temporarily increases your #cWeapon ATT#." />
+        <string name="h" value="MP Cost: #mpCon, Guard Chance: -#x%, DEF: #z%, When nearby party members are hit (except yourself): Damage -#y% and Guard Chance +#x% , #cyour Weapon ATT +#indiePad#" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Cash.img">
+    <imgdir name="5080003">
+		<string name="name" value="Admission Banner"/>
+		<string name="desc" value="A banner celebrating the admission to a school. Enter your own message."/>
+		<string name="msg" value="celebrating your admission to a school."/>
+		<string name="msgIn" value="Enter a congratulatory message.(You can write on every line.)"/>
+	</imgdir>
+    <imgdir name="5090000">
+		<string name="name" value="Note"/>
+		<string name="desc" value="Double-click to send a note to an offline character. The receiver will be able to see the note at the next login."/>
+	</imgdir>
+    <imgdir name="5100000">
+		<string name="name" value="Congratulatory Song"/>
+		<string name="desc" value="Play a congratulatory song on the map you're in."/>
+		<string name="title" value="Congrats"/>
+		<string name="msg" value="%s's song for you."/>
+	</imgdir>
+    <imgdir name="5110000">
+		<string name="name" value="Heart-Shaped Chocolate"/>
+		<string name="desc" value="A sweet chocolate in a heart-shaped box. When in possession, a heart will appear above the head of the person that gave the present."/>
+	</imgdir>
+    <imgdir name="5120000">
+		<string name="name" value="Snowy Snow"/>
+		<string name="desc" value="Sprinkles snow on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's snow : %s"/>
+	</imgdir>
+    <imgdir name="5120001">
+		<string name="name" value="Sprinkled Flowers"/>
+		<string name="desc" value="Sprinkles flower on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's flower : %s"/>
+	</imgdir>
+    <imgdir name="5120002">
+		<string name="name" value="Soap Bubbles"/>
+		<string name="desc" value="Sprinkles bubbles on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's bubbles : %s"/>
+	</imgdir>
+    <imgdir name="5120003">
+		<string name="name" value="Snowflakes"/>
+		<string name="desc" value="Sprinkles icy snow on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's icy snow : %s"/>
+	</imgdir>
+    <imgdir name="5120004">
+		<string name="name" value="Sprinkled Presents"/>
+		<string name="desc" value="Sprinkles presents on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's presents : %s"/>
+	</imgdir>
+    <imgdir name="5120005">
+		<string name="name" value="Sprinkled Chocolate"/>
+		<string name="desc" value="Sprinkles chocolate on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's chocolate : %s"/>
+	</imgdir>
+    <imgdir name="5120006">
+		<string name="name" value="Sprinkled Flower Petals"/>
+		<string name="desc" value="Sprinkle flower petals on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's petals : %s"/>
+	</imgdir>
+    <imgdir name="5120007">
+		<string name="name" value="Sprinkled Candy"/>
+		<string name="desc" value="Sprinkles candies on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's candies : %s"/>
+	</imgdir>
+    <imgdir name="5120008">
+		<string name="name" value="Sprinkled Maple Leaves"/>
+		<string name="desc" value="Sprinkles maple leaves on the map where your character is for 30 sec. Enter a message of your choice."/>
+		<string name="msg" value="%s's maple leaves : %s"/>
+	</imgdir>
+    <imgdir name="5120009">
+		<string name="name" value="Fireworks"/>
+		<string name="desc" value="Ignites fireworks on the map where your character is for 30 sec. Enter a message of your choice."/>
+		<string name="msg" value="%s's fireworks: %s"/>
+	</imgdir>
+    <imgdir name="5120010">
+		<string name="name" value="Sprinkled Coke"/>
+		<string name="desc" value="Sprinkles #cCoca-Cola# on the map where your character is for 30 seconds.  Enter a message of your choice."/>
+		<string name="msg" value="%s 's Coke : %s"/>
+	</imgdir>
+    <imgdir name="5120011">
+		<string name="name" value="Spirit Haunt"/>
+		<string name="desc" value="Ghosts on the map where your character is for 30 sec. Enter a message of your choice."/>
+		<string name="msg" value="%s's spirit haunt: %s"/>
+	</imgdir>
+    <imgdir name="5120012">
+		<string name="name" value="Holiday Sock"/>
+		<string name="desc" value="Sprinkles holiday socks on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s's Holiday Sock : %s"/>
+	</imgdir>
+    <imgdir name="5120014">
+		<string name="name" value="Christmas Socks"/>
+		<string name="desc" value="Sprinkles Christmas Socks on the map where your character is for 30 seconds. Enter a message of your choice."/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5120015">
+		<string name="name" value="Chinese Lantern Firecrackers"/>
+		<string name="desc" value="Greet the Lunar New Year with the fireworks that fills up the screen."/>
+		<string name="msg" value="A Lunar New Year greeting from %s: %s"/>
+	</imgdir>
+    <imgdir name="5120016">
+		<string name="name" value="For Moon Bunny Quest "/>
+		<string name="desc" value="Tiger"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="23100008">
+        <string name="name" value="Physical Training" />
+        <string name="desc" value="Improves STR and DEX permanently through physical training." />
+        <string name="h" value="Permanently increase STR by #strX and DEX by #dexX." />
+        <string name="pdesc" value="Improves STR and DEX permanently through physical training." />
+        <string name="ph" value="Permanently increase STR by #strX and DEX by #dexX." />
+    </imgdir>

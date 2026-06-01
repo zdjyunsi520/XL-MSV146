@@ -1,0 +1,7 @@
+<imgdir name="23121002">
+        <string name="name" value="Spikes Royale" />
+        <string name="desc" value="Jump into the air while raining down legendary spears that deal damage to multiple enemies. Enemy DEF will decrease, and all attacks will become critical hits. In addition, damage of Leap Tornado will increase permanently.\nRequired Skill; #cLeap Tornado Lv. 10#" />
+        <string name="h" value="Active Effect: MP Cost: #mpCon. Critical Attack - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount. Enemy DEF: -#x%, Duration: #time sec\nPassive Effect: Leaf Tornado Damage: +#damR%" />
+        <string name="pdesc" value="Jump into the air while raining down legendary spears that deal damage to multiple enemies. Enemy DEF will decrease, and all attacks will become critical hits. In addition, damage of Leap Tornado will increase permanently.\nRequired Skill; #cLeap Tornado Lv. 10#" />
+        <string name="ph" value="Active Effect: MP Cost: #mpCon. Critical Attack - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount. Enemy DEF: -#x%, Duration: #time sec\nPassive Effect: Leaf Tornado Damage: +#damR%" />
+    </imgdir>

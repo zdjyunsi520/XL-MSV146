@@ -1,0 +1,8 @@
+<imgdir name="1211006">
+        <string name="name" value="暴风雪冲击" />
+        <string name="desc" value="暂时为武器注入冰属性，提升攻击力。使用冲击爆破时有几率冻结敌人。" />
+        <string name="h" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%, Freeze Chance when Charge Blow is used: #prop%, Freeze Duration: #y sec" />
+        <string name="pdesc" value="暂时为武器注入冰属性，提升攻击力。使用冲击爆破时有几率冻结敌人。" />
+        <string name="ph" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%" />
+        <string name="hch" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%, Freeze Chance when Charge Blow is used: #hcProp%, Freeze Duration: #hcSubTime sec" />
+    </imgdir>

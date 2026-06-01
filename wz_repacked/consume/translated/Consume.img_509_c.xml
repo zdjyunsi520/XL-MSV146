@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2432015">
+		<string name="desc" value="使用此优惠券获得永久的红沙云坐骑技能，可滑翔。\n#c双击#学习骑乘技能。"/>
+		<string name="name" value="红沙云坐骑优惠券"/>
+		<string name="autodesc" value="\r#c物理防御力+10\r\n魔法防御力+10\r\n"/>
+	</imgdir>
+    <imgdir name="2432016">
+		<string name="desc" value="包含卷轴的礼盒。\r\n#c双击获得洗点卷轴20%和RED防具附魔卷轴50%。"/>
+		<string name="name" value="RED卷轴礼包"/>
+	</imgdir>
+    <imgdir name="2432017">
+		<string name="name" value="革命吊坠礼包"/>
+		<string name="desc" value="双击此礼包获得革命吊坠及其专用卷轴。"/>
+	</imgdir>
+    <imgdir name="2432018">
+		<string name="name" value="融合铁砧优惠券"/>
+		<string name="desc" value="双击优惠券兑换融合铁砧。"/>
+	</imgdir>
+    <imgdir name="2432019">
+		<string name="name" value="革命腰带礼包"/>
+		<string name="desc" value="双击此礼包获得革命腰带及其专用卷轴。"/>
+	</imgdir>
+    <imgdir name="2432020">
+		<string name="name" value="冒险家随机美发优惠券"/>
+		<string name="desc" value="双击此优惠券将你的发型更改为冒险家发型。"/>
+	</imgdir>
+    <imgdir name="2432021">
+		<string name="name" value="冒险家随机脸型优惠券"/>
+		<string name="desc" value="双击此优惠券将你的脸型更改为冒险家脸型。"/>
+	</imgdir>
+    <imgdir name="2432022">
+		<string name="name" value="拍卖高级通行证"/>
+		<string name="desc" value="双击此优惠券获得冒险岛拍卖银票。"/>
+	</imgdir>
+    <imgdir name="2432023">
+		<string name="desc" value="双击此优惠券获得[30天]好运吉标签戒指。"/>
+		<string name="name" value="[30天]好运吉标签戒指优惠券"/>
+	</imgdir>
+    <imgdir name="2432024">
+		<string name="desc" value="双击此优惠券获得[30天]好运吉聊天戒指。"/>
+		<string name="name" value="[30天]好运吉聊天戒指优惠券"/>
+	</imgdir>
+    <imgdir name="2432025">
+		<string name="desc" value="操作员为100级及以上且没有恶魔护盾的恶魔复仇者准备了这份礼物。#c双击#礼物获得四转恶魔护盾。"/>
+		<string name="name" value="操作员的恶魔复仇者礼物"/>
+	</imgdir>
+    <imgdir name="2432026">
+		<string name="name" value="幽灵军团信件"/>
+		<string name="desc" value="来自幽灵军团的一封信。你必须检查是否是麦格纳斯本人写的。#c双击#检查笔迹。"/>
+	</imgdir>
+    <imgdir name="2432027">
+		<string name="desc" value="从希拉军团士兵身上掉落的骨头。你必须检查骨头的类型。#c双击#骨头检查。"/>
+		<string name="name" value="希拉军团士兵的骨头"/>
+	</imgdir>
+    <imgdir name="2432028">
+		<string name="desc" value="从希拉军团士兵身上掉落的骨头。你必须检查骨头的类型。#c双击#骨头检查。"/>
+		<string name="name" value="希拉军团士兵的骨头"/>
+	</imgdir>
+    <imgdir name="2432029">
+		<string name="desc" value="双击使用[战舰坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="战舰坐骑90天优惠券"/>
+	</imgdir>
+    <imgdir name="2432030">
+		<string name="desc" value="双击获得永久[石像鬼坐骑]骑乘技能。"/>
+		<string name="name" value="石像鬼坐骑永久优惠券"/>
+	</imgdir>
+    <imgdir name="2432031">
+		<string name="desc" value="双击获得永久[好友坐骑]骑乘技能。"/>
+		<string name="name" value="好友坐骑永久优惠券"/>
+	</imgdir>
+    <imgdir name="2432032">
+		<string name="desc" value="一张稀有的优惠券，可兑换Zero机器人和金心。"/>
+		<string name="name" value="Zero机器人优惠券"/>
+	</imgdir>
+    <imgdir name="2432033">
+		<string name="desc" value="此盒子是为补偿[安徒生的盒子]活动中的奖励分配错误而发放的。双击领取你逾期的奖励。"/>
+		<string name="name" value="冯邦的奖励"/>
+	</imgdir>
+    <imgdir name="2450079">
+		<string name="name" value="怪物捕获增益优惠券"/>
+		<string name="desc" value="临时增加捕获怪物几率的优惠券。"/>
+	</imgdir>
+</imgdir>

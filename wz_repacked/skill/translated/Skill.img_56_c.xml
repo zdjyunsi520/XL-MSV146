@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="65120050"><string name="name" value="灵魂共鸣-冷却缩减"/><string name="desc" value="减少灵魂共鸣的冷却时间。"/><string name="h" value="Cooldown: -#coolTimeR%"/></imgdir>
+    <imgdir name="65120051"><string name="name" value="灵魂共鸣-持久"/><string name="desc" value="延长灵魂共鸣的持续时间。"/><string name="h" value="Duration +4 sec"/></imgdir>
+    <imgdir name="65121054"><string name="name" value="华丽升华"/><string name="desc" value="与埃斯卡尔德的灵魂共鸣，放大力量！"/><string name="h" value="Ignore inactive Recharge skills for #time sec\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="30010230"><string name="name" value="超越"/><string name="desc" value="超越能加速你的攻击并增强力量，但也会对身体造成负担，降低通过生命汲取吸收的HP量。达到技能最终阶段时，攻击会发生变化。使用其他超越技能时，超越阶段会重置哦。"/><string name="h" value="Life Sap -#y% for every #x Exceed Overload cap and #z Overload stacks"/></imgdir>
+    <imgdir name="30010231"><string name="name" value="超级药水精通"/><string name="desc" value="让药水变得更加有效～"/><string name="h" value="Potion Recovery Rate: +#x%"/></imgdir>
+    <imgdir name="30010241"><string name="name" value="狂野之怒"/><string name="desc" value="你的愤怒将提升伤害输出！"/><string name="h" value="Damage: +#damR%"/></imgdir>
+    <imgdir name="30010242"><string name="name" value="血之契约"/><string name="desc" value="签订血之契约，将HP转化为攻击力！此契约还能无视战士和恶魔复仇者的装备属性需求。"/><string name="h" value="Damage based on your current HP (70% min). Allows you to ignore Warrior and Demon Avenger equipment stat requirements."/></imgdir>
+    <imgdir name="3101"><string name="bookName" value="恶魔复仇者一转"/></imgdir>
+    <imgdir name="31011000"><string name="name" value="超越：双重斩击"/><string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="31011001"><string name="name" value="过载释放"/><string name="desc" value="取消超越的过载减益效果，提升最大HP并恢复HP。\r\n#c只能在过载达到最大值时使用。#"/><string name="h" value="Resets Overload to 0. Duration: #time sec, Max HP: +#indieMhpR%, HP Restored: #x%"/></imgdir>
+    <imgdir name="31010002"><string name="name" value="生命汲取"/><string name="desc" value="吸取敌人的生命力来恢复自己的HP～"/><string name="h" value="#prop% chance to recover #x% HP on hit"/></imgdir>
+    <imgdir name="31010003"><string name="name" value="恶魔真实"/><string name="desc" value="永久提升移动速度、最大移动速度、跳跃力和暴击率。"/><string name="h" value="Speed: +#psdSpeed, Max Speed: +#speedMax, Jump: +#psdJump, Critical Rate: +#cr%"/></imgdir>
+    <imgdir name="31010004"><string name="name" value="超越：双重斩击"/><string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount		"/></imgdir>
+    <imgdir name="31010005"><string name="name" value="超越：双重斩击"/><string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount		"/></imgdir>
+    <imgdir name="31010006"><string name="name" value="超越：双重斩击"/><string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount		"/></imgdir>
+    <imgdir name="31010007"><string name="name" value="超越：双重斩击"/><string name="desc" value="对前方的敌人进行两次斩击。\r\n#c超越#：逐渐提升攻击速度并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount		"/></imgdir>
+    <imgdir name="3120"><string name="bookName" value="恶魔复仇者二转"/></imgdir>
+    <imgdir name="31201000"><string name="name" value="超越：恶魔打击"/><string name="desc" value="向前冲锋并斩穿敌人！\r\n#c超越#：逐渐提升伤害并减少HP。最终阶段时攻击范围会增加。"/><string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="31201001"><string name="name" value="蝙蝠群"/><string name="desc" value="召唤一群地狱蝙蝠跟随你并攻击敌人。再次按技能键可以改变蝙蝠的飞行方向哦～"/><string name="h" value="HP Cost: #hpCon, Damage: #damage%, Number of Attacks: #attackCount.\n#cThe cloud expires once you finish attacking, move a certain distance, or their timer runs out. Press the skill key again to switch direction.#"/></imgdir>
+    <imgdir name="31201002"><string name="name" value="战斗契约"/><string name="desc" value="暂时提升攻击速度！"/><string name="h" value="HP Cost: #hpCon, Duration: #time sec, Attack Speed: +2"/></imgdir>
+</imgdir>

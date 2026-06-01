@@ -1,0 +1,80 @@
+<imgdir name="Ins.img">
+    <imgdir name="3800406">
+		<string name="name" value="预览全套"/>
+	</imgdir>
+    <imgdir name="3991068">
+		<string name="name" value="字母T"/>
+		<string name="desc" value="字母T。拼出TEMPEST从管理员获得礼物。"/>
+	</imgdir>
+    <imgdir name="3991069">
+		<string name="name" value="字母E"/>
+		<string name="desc" value="字母E。拼出TEMPEST从管理员获得礼物。"/>
+	</imgdir>
+    <imgdir name="3991070">
+		<string name="name" value="字母M"/>
+		<string name="desc" value="字母M。拼出TEMPEST从管理员获得礼物。"/>
+	</imgdir>
+    <imgdir name="3991071">
+		<string name="name" value="字母P"/>
+		<string name="desc" value="字母P。拼出TEMPEST从管理员获得礼物。"/>
+	</imgdir>
+    <imgdir name="3991072">
+		<string name="name" value="字母S"/>
+		<string name="desc" value="字母S。拼出TEMPEST从管理员获得礼物。"/>
+	</imgdir>
+    <imgdir name="3995000">
+		<string name="name" value="."/>
+	</imgdir>
+    <imgdir name="3010162">
+		<string name="name" value="苏里椅子"/>
+		<string name="desc" value="坐在苏里椅子上，每10秒恢复50 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010166">
+		<string name="name" value="云椅子"/>
+		<string name="desc" value="坐在云椅子上，每10秒恢复150 HP和100 MP。"/>
+	</imgdir>
+    <imgdir name="3010185">
+		<string name="name" value="粉红花盆椅子"/>
+		<string name="desc" value="坐在粉红花盆椅子上，每10秒恢复100 HP和100 MP。"/>
+	</imgdir>
+    <imgdir name="3012008">
+		<string name="name" value="狛犬"/>
+		<string name="desc" value="坐在像丰收神一样的椅子上，每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010219">
+		<string name="name" value="双角兽椅子"/>
+		<string name="desc" value="包含驯服邪恶力量的椅子。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3994621">
+		<string name="name" value="污染水罐"/>
+		<string name="desc" value="保持在线30分钟净化里面的水。"/>
+	</imgdir>
+    <imgdir name="3994622">
+		<string name="name" value="清水罐"/>
+		<string name="desc" value="为卢旺达人民准备的凉爽清水罐。交给卡珊德拉让她送到正确的人手中！"/>
+	</imgdir>
+    <imgdir name="3994646">
+		<string name="name" value="死亡药瓶"/>
+		<string name="desc" value="卡珊德拉需要[其他以太]进行占卜。持有此物保持在线30分钟填满。"/>
+	</imgdir>
+    <imgdir name="3994647">
+		<string name="name" value="满死亡药瓶"/>
+		<string name="desc" value="充满[其他以太]的药瓶。交给卡珊德拉。"/>
+	</imgdir>
+    <imgdir name="3010490">
+		<string name="name" value="总统大象椅子"/>
+		<string name="desc" value="共和党人士的舒适椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010491">
+		<string name="name" value="总统驴子椅子"/>
+		<string name="desc" value="民主党人士的舒适椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010492">
+		<string name="name" value="国家元首椅子"/>
+		<string name="desc" value="嘿，你不是总统！你怎么进来的？！每10秒恢复100 HP和100 MP。"/>
+	</imgdir>
+    <imgdir name="3010499">
+		<string name="name" value="僵尸猎人椅子"/>
+		<string name="desc" value="万圣节化装舞会送给僵尸威胁者的礼物。每10秒恢复80 HP和80 MP。"/>
+	</imgdir>
+</imgdir>

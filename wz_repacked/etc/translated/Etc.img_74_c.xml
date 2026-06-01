@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031017">
+			<string name="name" value="魔法盒"/>
+			<string name="desc" value="用强大魔法锁锁住的盒子。显然里面有宝石"/>
+		</imgdir>
+    <imgdir name="4031018">
+			<string name="name" value="宝藏地图"/>
+			<string name="desc" value="显示宝石藏匿地点的地图"/>
+		</imgdir>
+    <imgdir name="4031019">
+			<string name="name" value="秘密卷轴"/>
+			<string name="desc" value="用失落的古代语言写成的神秘卷轴"/>
+		</imgdir>
+    <imgdir name="4031020">
+			<string name="name" value="粉色花烛"/>
+			<string name="desc" value="散发着粉色神秘色彩的花束"/>
+		</imgdir>
+    <imgdir name="4031021">
+			<string name="name" value="橙色花烛"/>
+			<string name="desc" value="散发着橙色神秘色彩的花束"/>
+		</imgdir>
+    <imgdir name="4031022">
+			<string name="name" value="蓝色花烛"/>
+			<string name="desc" value="散发着蓝色神秘色彩的花束"/>
+		</imgdir>
+    <imgdir name="4031023">
+			<string name="name" value="黄色花烛"/>
+			<string name="desc" value="散发着黄色神秘色彩的花束"/>
+		</imgdir>
+    <imgdir name="4031024">
+			<string name="name" value="紫色三色堇"/>
+			<string name="desc" value="带有巨大花蕾的紫色花"/>
+		</imgdir>
+    <imgdir name="4031025">
+			<string name="name" value="粉色三色堇"/>
+			<string name="desc" value="带有巨大花蕾的粉色花"/>
+		</imgdir>
+    <imgdir name="4031026">
+			<string name="name" value="蓝色三色堇"/>
+			<string name="desc" value="带有巨大花蕾的蓝色花"/>
+		</imgdir>
+    <imgdir name="4031027">
+			<string name="name" value="橙色三色堇"/>
+			<string name="desc" value="带有巨大花蕾的橙色花"/>
+		</imgdir>
+    <imgdir name="4031028">
+			<string name="name" value="白色三色堇"/>
+			<string name="desc" value="带有巨大花蕾的白色花"/>
+		</imgdir>
+    <imgdir name="4031029">
+			<string name="name" value="单根人参"/>
+			<string name="desc" value="看起来年代久远的单根人参"/>
+		</imgdir>
+    <imgdir name="4031030">
+			<string name="name" value="双根人参"/>
+			<string name="desc" value="看起来年代久远的双根人参"/>
+		</imgdir>
+    <imgdir name="4031031">
+			<string name="name" value="三根人参"/>
+			<string name="desc" value="看起来年代久远的三根人参"/>
+		</imgdir>
+    <imgdir name="4031032">
+			<string name="name" value="双根红人参"/>
+			<string name="desc" value="双根红人参"/>
+		</imgdir>
+    <imgdir name="4031033">
+			<string name="name" value="三根红人参"/>
+			<string name="desc" value="三根红人参"/>
+		</imgdir>
+    <imgdir name="4031034">
+			<string name="name" value="生命卷轴"/>
+			<string name="desc" value="写有无法辨认的古代文字的卷轴"/>
+		</imgdir>
+    <imgdir name="4031035">
+			<string name="name" value="巴尔托斯的信"/>
+			<string name="desc" value="导师巴尔托斯写的信。需要送给弗洛德"/>
+		</imgdir>
+    <imgdir name="4031036">
+			<string name="name" value="建筑工地B1入场券"/>
+			<string name="desc" value="允许进入克里林城地铁建筑工地B1的入场券"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,110 @@
+<imgdir name="Npc.img">
+    <imgdir name="9130052">
+		<string name="name" value="可疑木箱"/>
+	</imgdir>
+    <imgdir name="9130053">
+		<string name="name" value="可疑木箱"/>
+	</imgdir>
+    <imgdir name="9130054">
+		<string name="name" value="可疑木箱"/>
+	</imgdir>
+    <imgdir name="9130055">
+		<string name="name" value="武田信玄"/>
+		<string name="d0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="d1" value="疾如风，静如林！烈如火，不动如山！"/>
+		<string name="n0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="n1" value="疾如风，静如林！烈如火，不动如山！"/>
+	</imgdir>
+    <imgdir name="9130056">
+		<string name="name" value="真田幸村"/>
+		<string name="d0" value="织田有百万士兵，却没有一个真正的男人。"/>
+		<string name="d1" value="我是刺穿黑暗的长矛！"/>
+		<string name="n0" value="织田有百万士兵，却没有一个真正的男人。"/>
+		<string name="n1" value="我是刺穿黑暗的长矛！"/>
+	</imgdir>
+    <imgdir name="9130057">
+		<string name="name" value="毛利补给员"/>
+		<string name="n0" value="来这里获取毛利家族的补给！"/>
+	</imgdir>
+    <imgdir name="9130058">
+		<string name="name" value="武田补给员"/>
+		<string name="n0" value="尊敬的武田家族英雄们，领取你们的奖励！"/>
+	</imgdir>
+    <imgdir name="9130059">
+		<string name="name" value="上杉补给员"/>
+		<string name="n0" value="我有给上杉家族朋友的物品！"/>
+	</imgdir>
+    <imgdir name="9130060">
+		<string name="name" value="土御门春明"/>
+		<string name="d0" value="嗯，嗯，嗯。该怎么办，该怎么办？"/>
+		<string name="d1" value="你不是普通的小狗，对吗？"/>
+		<string name="n0" value="嗯，嗯，嗯。该怎么办，该怎么办？"/>
+		<string name="n1" value="你不是普通的小狗，对吗？"/>
+	</imgdir>
+    <imgdir name="9130061">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130062">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130063">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130064">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130065">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130066">
+		<string name="name" value="织田补给箱"/>
+		<string name="d0" value="aa"/>
+		<string name="d1" value="bb"/>
+		<string name="n0" value="cc"/>
+		<string name="n1" value="dd"/>
+	</imgdir>
+    <imgdir name="9130067">
+		<string name="name" value="弗朗西斯"/>
+		<string name="func" value="傀儡萨满"/>
+		<string name="n0" value="哼。"/>
+		<string name="n1" value="别跟我说话。"/>
+		<string name="d0" value="什么？"/>
+		<string name="d1" value="别跟我说话。"/>
+	</imgdir>
+    <imgdir name="9130068">
+		<string name="name" value="织田灵行者"/>
+	</imgdir>
+    <imgdir name="9130069">
+		<string name="name" value="黑翼忍者"/>
+	</imgdir>
+    <imgdir name="9130070">
+		<string name="name" value="织田守卫"/>
+	</imgdir>
+    <imgdir name="9130071">
+		<string name="name" value="樱野公主"/>
+		<string name="d0" value="怎么了？你有什么要告诉我吗？"/>
+		<string name="d1" value="来，请坐。来点茶点会很好。"/>
+		<string name="n0" value="怎么了？你有什么要告诉我吗？"/>
+		<string name="n1" value="来，请坐。来点茶点会很好。"/>
+	</imgdir>
+</imgdir>

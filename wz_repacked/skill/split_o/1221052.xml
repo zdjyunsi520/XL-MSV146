@@ -1,0 +1,5 @@
+<imgdir name="1221052">
+        <string name="name" value="Smite Shield" />
+        <string name="desc" value="Summons a shield instilled with immortal strength to strike down nearby enemies. Any enemies struck will temporarily lose all buffs and buff effects." />
+        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Stun Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="1221001">
+        <string name="name" value="Monster Magnet" />
+        <string name="desc" value="Pulls monsters toward you and stuns them for a short time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Pulled: #mobCount, Stun Duration: #time sec" />
+        <string name="pdesc" value="Pulls monsters toward you and stuns them for a short time." />
+        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Damage: #damage%, Max Enemies Pulled: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Success Rate: #prop%, Damage: #damage%, Max Enemies Pulled: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
+    </imgdir>

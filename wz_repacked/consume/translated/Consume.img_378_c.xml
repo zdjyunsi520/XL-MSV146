@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860251">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加附近玩家跳跃力。"/>
+	</imgdir>
+    <imgdir name="2860252">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加附近玩家回避率。"/>
+	</imgdir>
+    <imgdir name="2860253">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加附近玩家回避率。"/>
+	</imgdir>
+    <imgdir name="2860254">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加附近玩家回避率。"/>
+	</imgdir>
+    <imgdir name="2860255">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加附近玩家命中率。"/>
+	</imgdir>
+    <imgdir name="2860256">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加附近玩家命中率。"/>
+	</imgdir>
+    <imgdir name="2860257">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加附近玩家命中率。"/>
+	</imgdir>
+    <imgdir name="2860258">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加附近玩家物理防御力。"/>
+	</imgdir>
+    <imgdir name="2860259">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加附近玩家物理防御力。"/>
+	</imgdir>
+    <imgdir name="2860260">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加附近玩家物理防御力。"/>
+	</imgdir>
+    <imgdir name="2860261">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加附近玩家魔法防御力。"/>
+	</imgdir>
+    <imgdir name="2860262">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加附近玩家魔法防御力。"/>
+	</imgdir>
+    <imgdir name="2860263">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加附近玩家魔法防御力。"/>
+	</imgdir>
+    <imgdir name="2860264">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="防止在水族馆溺水导致HP损失。"/>
+	</imgdir>
+    <imgdir name="2860265">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="防止在冰封雪域冻结导致HP损失。"/>
+	</imgdir>
+    <imgdir name="2860266">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="防止在冰封雪域滑倒。"/>
+	</imgdir>
+    <imgdir name="2860267">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续少量恢复已召唤宠物的活力。"/>
+	</imgdir>
+    <imgdir name="2860268">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续恢复已召唤宠物的活力。"/>
+	</imgdir>
+    <imgdir name="2860269">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续大量恢复已召唤宠物的活力。"/>
+	</imgdir>
+    <imgdir name="2860270">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="增加已召唤蘑菇型宠物的活力恢复速度。"/>
+	</imgdir>
+</imgdir>

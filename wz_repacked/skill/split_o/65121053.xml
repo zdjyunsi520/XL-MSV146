@@ -1,0 +1,5 @@
+<imgdir name="65121053">
+        <string name="name" value="Final Contract" />
+        <string name="desc" value="Allows you to control the power of Eskalade&apos;s contract to its fullest." />
+        <string name="h" value="Duration: #time sec, Critical Rate +#x%. Stance Chance +#indieStance%, Abnormal Status Resistance +#asrR%, Elemental Resistance +#terR%. Cooldown: #cooltime sec." />
+    </imgdir>

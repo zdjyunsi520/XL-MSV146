@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023107">
+		<string name="name" value="特强洗手液"/>
+		<string name="desc" value="你的手特别脏吗？当然是的。这就是为什么洗手液现在有特强版。因为你。"/>
+	</imgdir>
+    <imgdir name="2023108">
+		<string name="name" value="拿铁咖啡"/>
+		<string name="desc" value="这很像咖啡，但喝起来让你感觉很时髦。"/>
+	</imgdir>
+    <imgdir name="2023109">
+		<string name="name" value="特级古龙水"/>
+		<string name="desc" value="一种强烈甜蜜的香味，可以掩盖你自然的汗水和怪物残渣的气味。"/>
+	</imgdir>
+    <imgdir name="2023126">
+		<string name="name" value="极限绿色药水"/>
+		<string name="desc" value="仅在怪物公园极限模式可用。武器速度增加30分钟。"/>
+	</imgdir>
+    <imgdir name="2023128">
+		<string name="name" value="极限黄金药水"/>
+		<string name="desc" value="仅在怪物公园极限模式可用。最大HP和最大MP+2000，持续30分钟，获得的经验值+10%。"/>
+	</imgdir>
+    <imgdir name="2023129">
+		<string name="name" value="米沃克战吼"/>
+		<string name="desc" value="一种著名的能让米沃克战士疯狂的怒吼。\n#c持续时间：30分钟\n武器攻击+15\n魔法攻击+15#"/>
+	</imgdir>
+    <imgdir name="2023130">
+		<string name="name" value="大Wig祝福"/>
+		<string name="desc" value="愿你的wig是最大的。增加武器攻击和魔法攻击。可与其他buff叠加。\n#c持续时间：1小时\n武器攻击+30\n魔法攻击+30#"/>
+	</imgdir>
+    <imgdir name="2023131">
+		<string name="name" value="秋季祝福"/>
+		<string name="desc" value="冒险岛世界的秋天不是很美好吗？增加武器攻击和魔法攻击。可与其他buff叠加。\n#c持续时间：30分钟\n武器攻击+20\n魔法攻击+20#"/>
+	</imgdir>
+    <imgdir name="2023031">
+		<string name="name" value="CK：西格尼斯骑士"/>
+		<string name="desc" value="PAD、MAD+3，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023032">
+		<string name="name" value="CK：西格尼斯骑士"/>
+		<string name="desc" value="PAD、MAD+8，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023033">
+		<string name="name" value="CK：西格尼斯骑士"/>
+		<string name="desc" value="PAD、MAD+15，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023034">
+		<string name="name" value="古老史莱姆"/>
+		<string name="desc" value="攻击速度等级+2，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023035">
+		<string name="name" value="古老史莱姆"/>
+		<string name="desc" value="攻击速度等级+3，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023036">
+		<string name="name" value="古老史莱姆"/>
+		<string name="desc" value="攻击速度等级+4，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023037">
+		<string name="name" value="校长"/>
+		<string name="desc" value="当前拥有的所有技能等级+3，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023038">
+		<string name="name" value="校长"/>
+		<string name="desc" value="当前拥有的所有技能等级+4，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023039">
+		<string name="name" value="校长"/>
+		<string name="desc" value="当前拥有的所有技能等级+5，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023040">
+		<string name="name" value="尖晶石"/>
+		<string name="desc" value="力量+3，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023041">
+		<string name="name" value="尖晶石"/>
+		<string name="desc" value="力量+6，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+    <imgdir name="2023042">
+		<string name="name" value="尖晶石"/>
+		<string name="desc" value="力量+10，持续2小时。此buff取决于首次使用香水时召唤的宠物数量。此buff可与其他buff叠加，但不能与其他宠物香水buff叠加。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,98 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046202">
+		<string name="name" value="Scroll for Armor for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046203">
+		<string name="name" value="Scroll for Armor for LUK 100%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046204">
+		<string name="name" value="Scroll for Armor for STR 50%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046205">
+		<string name="name" value="Scroll for Armor for INT 50%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046206">
+		<string name="name" value="Scroll for Armor for DEX 50%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046207">
+		<string name="name" value="Scroll for Armor for LUK 50%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046208">
+		<string name="name" value="Dark Scroll for Armor STR 40%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to be destroyed on failure: 70%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046209">
+		<string name="name" value="Dark Scroll for Armor INT 40%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046210">
+		<string name="name" value="Dark Scroll for Armor DEX 40%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046211">
+		<string name="name" value="Dark Scroll for Armor LUK 40%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046212">
+		<string name="name" value="Dark Scroll for Armor HP 40%"/>
+		<string name="desc" value="Improves Max HP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 70%\r\nMax HP +150\r\n#"/>
+	</imgdir>
+    <imgdir name="2046213">
+		<string name="name" value="[6th Anniversary] Armor Enhancement Scroll 20%"/>
+		<string name="desc" value="Improves Max HP &amp; MP on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMax HP: +200\r\nMax MP: +200\r\n#"/>
+	</imgdir>
+    <imgdir name="2046214">
+		<string name="name" value="[6th Anniversary] Armor Boost Scroll 20%"/>
+		<string name="desc" value="Improves Strength, Intelligence, Dexterity, and Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046215">
+		<string name="name" value="Roora Core"/>
+		<string name="desc" value="Can be purchased with Strategy Medals. STR+1, HP+1, and Weapon DEF +1 on Bing Machine-Alpha and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046216">
+		<string name="name" value="Hase Core"/>
+		<string name="desc" value="Can be purchased with Strategy Medals. DEX+1, HP+1, Weapon DEF+3, and Magic DEF+1 on Bing Machine-Alpha and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046217">
+		<string name="name" value="Dada Core"/>
+		<string name="desc" value="Can be purchased with Strategy Medals. INT+1, HP+1, Weapon DEF+2, and Magic DEF+2 on Bing Machine-Alpha and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046218">
+		<string name="name" value="Urene Core"/>
+		<string name="desc" value="Can be purchased with Strategy Medals. LUK+1, HP+1, Weapon DEF+3, and Magic DEF+1 on Bing Machine-Alpha and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046223">
+		<string name="name" value="Scroll for Armor STR 60%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046224">
+		<string name="name" value="Scroll for Armor INT 60%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046225">
+		<string name="name" value="Scroll for Armor for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+</imgdir>

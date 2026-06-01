@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009058">
+			<string name="name" value="Futuroid Part 6"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4009059">
+			<string name="name" value="Futuroid Part 7"/>
+			<string name="desc" value="One of the parts needed to make a Futuroid. Bring 1 each of the 7 parts to Gaga, along with an Electronic Heart from the Cash Shop."/>
+		</imgdir>
+    <imgdir name="4010000">
+			<string name="name" value="Bronze Ore"/>
+			<string name="desc" value="Light, weak bronze ore. It can be refined to obtain rare magic powder (brown)."/>
+		</imgdir>
+    <imgdir name="4010001">
+			<string name="name" value="Steel Ore"/>
+			<string name="desc" value="Tough steel ore. It can be refined to obtain rare magic powder (blue)."/>
+		</imgdir>
+    <imgdir name="4010002">
+			<string name="name" value="Mithril Ore"/>
+			<string name="desc" value="Light, solid mithril ore. It can be refined to obtain rare magic powder (green)."/>
+		</imgdir>
+    <imgdir name="4010003">
+			<string name="name" value="Adamantium Ore"/>
+			<string name="desc" value="Heavy, strong adamantium ore. It can be refined to obtain rare magic powder (brown)."/>
+		</imgdir>
+    <imgdir name="4010004">
+			<string name="name" value="Silver Ore"/>
+			<string name="desc" value="The ore of a shiny silver"/>
+		</imgdir>
+    <imgdir name="4010005">
+			<string name="name" value="Orihalcon Ore"/>
+			<string name="desc" value="An ore of a very rare mineral, Orihalcon."/>
+		</imgdir>
+    <imgdir name="4010006">
+			<string name="name" value="Gold Ore"/>
+			<string name="desc" value="Rare gold ore. It can be refined to obtain rare magic powder (yellow)."/>
+		</imgdir>
+    <imgdir name="4010007">
+			<string name="name" value="Lidium Ore"/>
+			<string name="desc" value="Lidium Ore that is formed under the sand. It can be refined to obtain rare magic powder (purple)."/>
+		</imgdir>
+    <imgdir name="4010008">
+			<string name="name" value="Faded Silver Ore"/>
+			<string name="desc" value="Faded silver ore."/>
+		</imgdir>
+    <imgdir name="4011000">
+			<string name="name" value="Bronze Plate"/>
+			<string name="desc" value="Light, weak, refined bronze. Used for level 4 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011001">
+			<string name="name" value="Steel Plate"/>
+			<string name="desc" value="Tough, refined steel. Used for level 3 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011002">
+			<string name="name" value="Mithril Plate"/>
+			<string name="desc" value="Solid, light, refined mithril. Used for level 5 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011003">
+			<string name="name" value="Adamantium Plate"/>
+			<string name="desc" value="Heavy, strong, refined adamantium. Used for level 4 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011004">
+			<string name="name" value="Silver Plate"/>
+			<string name="desc" value="Shiny, refined silver. Used for level 1 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011005">
+			<string name="name" value="Orihalcon Plate"/>
+			<string name="desc" value="Refined orihalcon, a very rare mineral. Used for level 2 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011006">
+			<string name="name" value="Gold Plate"/>
+			<string name="desc" value="Rare, refined gold. Used for level 6 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4011007">
+			<string name="name" value="Moon Rock"/>
+			<string name="desc" value="A glittering mineral that possesses the mysterious power of the moon."/>
+		</imgdir>
+    <imgdir name="4011009">
+			<string name="name" value="Faded Silver"/>
+			<string name="desc" value="Faded, processed silver."/>
+		</imgdir>
+</imgdir>

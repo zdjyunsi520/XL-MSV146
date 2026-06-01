@@ -1,0 +1,5 @@
+<imgdir name="112101016">
+        <string name="name" value="Bro Attack" />
+        <string name="desc" value="Gain a chance to summon a baby snow leopard to deal extra damage when you attack. Bosses and some monsters are immune." />
+        <string name="h" value="MP Cost: #mpCon, Summon Chance: #prop%, Buff Duration: #time sec.\r\n- Baby Leopard Damage: #damage%\r\n- Baby Leopard Duration: #x sec. \r\nCooldown: #cooltime Sec" />
+    </imgdir>

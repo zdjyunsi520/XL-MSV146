@@ -1,0 +1,5 @@
+<imgdir name="65111002">
+        <string name="name" value="Heavenly Crash" />
+        <string name="desc" value="Slams the ground to create a shockwave that attacks enemies in range and launches them." />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Attacked mobs lifted upwards. Recharge Chance: #onActive%" />
+    </imgdir>

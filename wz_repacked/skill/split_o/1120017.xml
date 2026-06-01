@@ -1,0 +1,5 @@
+<imgdir name="1120017">
+        <string name="name" value="Raging Blow" />
+        <string name="desc" value="Deals multiple blows to enemies in front of you. #cThe final two blows will always be criticals#." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, #cThe final two blows will be criticals#" />
+    </imgdir>

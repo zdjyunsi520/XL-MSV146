@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004120">
+		<string name="name" value="力量药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+3，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004121">
+		<string name="name" value="力量药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+6，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004122">
+		<string name="name" value="力量药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+9，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004123">
+		<string name="name" value="力量药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+12，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004124">
+		<string name="name" value="力量药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+15，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004125">
+		<string name="name" value="力量药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+18，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004126">
+		<string name="name" value="力量药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+21，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004127">
+		<string name="name" value="力量药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+24，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004128">
+		<string name="name" value="力量药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+27，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004129">
+		<string name="name" value="力量药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2004130">
+		<string name="name" value="高级力量药丸 I"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+3，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004131">
+		<string name="name" value="高级力量药丸 II"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+6，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004132">
+		<string name="name" value="高级力量药丸 III"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+9，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004133">
+		<string name="name" value="高级力量药丸 IV"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+12，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004134">
+		<string name="name" value="高级力量药丸 V"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+15，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004135">
+		<string name="name" value="高级力量药丸 VI"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+18，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004136">
+		<string name="name" value="高级力量药丸 VII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+21，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004137">
+		<string name="name" value="高级力量药丸 VIII"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+24，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004138">
+		<string name="name" value="高级力量药丸 IX"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+27，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2004139">
+		<string name="name" value="高级力量药丸 X"/>
+		<string name="desc" value="通过炼金术制作的药丸。\n力量+30，持续30分钟。"/>
+	</imgdir>
+</imgdir>

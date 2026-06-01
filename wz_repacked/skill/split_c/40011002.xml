@@ -1,0 +1,5 @@
+<imgdir name="40011002">
+        <string name="name" value="夏日骤雨" />
+        <string name="desc" value="究极的拔刀术奥义。刀刃如骤雨般从天而降，裹挟着夏日骄阳的灼热。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，+#indieDamR%持续伤害，持续#time秒。冷却时间：#cooltime秒" />
+    </imgdir>

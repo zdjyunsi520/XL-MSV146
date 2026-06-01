@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033643">
+			<string name="name" value="Delivery Delay Notice"/>
+			<string name="desc" value="A letter from Nathania. It states why the delivery was late."/>
+		</imgdir>
+    <imgdir name="4033644">
+			<string name="name" value="Book Pile"/>
+			<string name="desc" value="Professor Dreamboat's pile of unread books."/>
+		</imgdir>
+    <imgdir name="4033645">
+			<string name="name" value="&lt;Brunch of Champions&gt;"/>
+			<string name="desc" value="An entertaining book picked out by Professor Dreamboat. For some reason, it says 'Goodbye blue Monday' on the inside cover..."/>
+		</imgdir>
+    <imgdir name="4033646">
+			<string name="name" value="Gold Beach Ticket"/>
+			<string name="desc" value="From Promathus. Give it to Brighton, and tell him to take a vacation."/>
+		</imgdir>
+    <imgdir name="4033647">
+			<string name="name" value="Dahlia"/>
+			<string name="desc" value="A beautiful Dahlia. Give it to Belle."/>
+		</imgdir>
+    <imgdir name="4033648">
+			<string name="name" value="Handmade Teddy"/>
+			<string name="desc" value="A handmade teddy bear for Checky. It's made of love."/>
+		</imgdir>
+    <imgdir name="4033649">
+			<string name="name" value="Nathania's Letter"/>
+			<string name="desc" value="Nathania's letter. Show this to Carson in the Zenumist Society."/>
+		</imgdir>
+    <imgdir name="4033650">
+			<string name="name" value="Nathania's Secrets"/>
+			<string name="desc" value="A record of Nathania's secret research on the Black Mage and alchemy."/>
+		</imgdir>
+    <imgdir name="4033651">
+			<string name="name" value="MR Receiver"/>
+			<string name="desc" value="Receiver from Master Robo. Someone's probably controlling the robot with this thing."/>
+		</imgdir>
+    <imgdir name="4033652">
+			<string name="name" value="Mrs. Ming Ming's Grub"/>
+			<string name="desc" value="A nice lunch packed by Mrs. Ming Ming's."/>
+		</imgdir>
+    <imgdir name="4033653">
+			<string name="name" value="Precious Powder"/>
+			<string name="desc" value="Who knows what it used to be, but it appears to be pretty valuable. Try selling it at a store."/>
+		</imgdir>
+    <imgdir name="4033654">
+			<string name="name" value="Laloong Cage"/>
+			<string name="desc" value="Caged Laloong"/>
+		</imgdir>
+    <imgdir name="4033655">
+			<string name="name" value="Kaloong Cage"/>
+			<string name="desc" value="Caged Kaloong"/>
+		</imgdir>
+    <imgdir name="4033656">
+			<string name="name" value="Delivery Box"/>
+			<string name="desc" value="This delivery box was sent to the wrong place. It's a little damaged, but the contents are fine."/>
+		</imgdir>
+    <imgdir name="4033657">
+			<string name="name" value="Nathania's Letter"/>
+			<string name="desc" value="Nathania's letter. Show this to Maed in Alcadno Society."/>
+		</imgdir>
+    <imgdir name="4033658">
+			<string name="name" value="Pulse Detector"/>
+			<string name="desc" value="A small apparatus that records your Pulse."/>
+		</imgdir>
+    <imgdir name="4033659">
+			<string name="name" value="Cinnamon Chai"/>
+			<string name="desc" value="A unique combination of chai tea and cinnamon. Seems suitable for Cassandra."/>
+		</imgdir>
+    <imgdir name="4033664">
+			<string name="name" value="Mechanical Circuit"/>
+			<string name="desc" value="A circuit part that still seems usable."/>
+		</imgdir>
+    <imgdir name="4033665">
+			<string name="name" value="Pulse Disruptor"/>
+			<string name="desc" value="Installing this small apparatus in the right locations could create a dampening field to disrupt enemy Pulse tracking."/>
+		</imgdir>
+    <imgdir name="4033666">
+			<string name="name" value="Childhood Photo"/>
+			<string name="desc" value="A photo of two kids smiling in old Edelstein."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3994509">
+		<string name="name" value="Lovestruck Crystal Ball"/>
+		<string name="desc" value="Crystal Ball that Cassandra entrusted to you. Hold on to it for 30 minutes to see your fortune for this year in the relationship department."/>
+	</imgdir>
+    <imgdir name="3994510">
+		<string name="name" value="Shiny Lovestruck Crystal Ball"/>
+		<string name="desc" value="This one is sparkling with fountains of lovely fortunes. Bring it to Cassandra to hear your fortune on *wink wink*."/>
+	</imgdir>
+    <imgdir name="3994511">
+		<string name="name" value="Paint Brush"/>
+		<string name="desc" value="A delicate brush used to color Easter Eggs.\r\nKeep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff.\r\n"/>
+	</imgdir>
+    <imgdir name="3994512">
+		<string name="name" value="Gold Colored Egg "/>
+		<string name="desc" value="It's nice and shiny, but it still needs a bit more work. Try making it even fancier!\r\nKeep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff."/>
+	</imgdir>
+    <imgdir name="3994514">
+		<string name="name" value="Stone of Virtue"/>
+		<string name="desc" value="A stone containing the power of Virtue. The stone absorbs power every time you strike a monster. When the stone is full, you can use the basic attack key to use Virtue's Blessing, which lasts for 1 hour and can be stacked with other buffs.\r\n#cWhile Virtue's Blessing is in effect, the stone will no longer absorb power. The strength of the blessing will also increase when you reach Level 31 and Level 71.#"/>
+	</imgdir>
+    <imgdir name="3994518">
+		<string name="name" value="Dirty Camera"/>
+		<string name="desc" value="A dirty camera that contains memories of Zakum... and much more."/>
+	</imgdir>
+    <imgdir name="3994519">
+		<string name="name" value="Hot-Air Balloon Motor"/>
+		<string name="desc" value="Lifts hot-air balloons off the ground! What did you expect?"/>
+	</imgdir>
+    <imgdir name="3994520">
+		<string name="name" value="Findenator 1000"/>
+		<string name="desc" value="This thing will find ANYTHING... whether you want it to or not."/>
+	</imgdir>
+    <imgdir name="3994521">
+		<string name="name" value="Excavation Site Map"/>
+		<string name="desc" value="An old map of the excavation site that you probably saw in the Gonzo Gallery."/>
+	</imgdir>
+    <imgdir name="3994522">
+		<string name="name" value="Excavation Compass"/>
+		<string name="desc" value="A compass that's essential for pin-pointing artifact locations."/>
+	</imgdir>
+    <imgdir name="3994523">
+		<string name="name" value="Jinx-Fighter Moustache Comb"/>
+		<string name="desc" value="Spiegelmann's mustache comb. Having a well-groomed moustache is supposed to raise your chances of finding artifacts..."/>
+	</imgdir>
+    <imgdir name="3994524">
+		<string name="name" value="Permanent Marker"/>
+		<string name="desc" value="It's a permanent marker. It marks things... permanently."/>
+	</imgdir>
+    <imgdir name="3994525">
+		<string name="name" value="Moisturizing Eye Drops"/>
+		<string name="desc" value="Eye drops for Spiegelmann's wrinkly old eyeballs."/>
+	</imgdir>
+    <imgdir name="3994526">
+		<string name="name" value="8th Anniversary Dice"/>
+		<string name="desc" value="Dice used during the 8th Anniversary Event. You can throw as many dice as you have in the Set-up tab for the board game.   "/>
+	</imgdir>
+    <imgdir name="3994527">
+		<string name="name" value="8th Year Gift Wrapping Paper"/>
+		<string name="desc" value="Gift wrapping paper that Inkwell is looking for. Use this to make awesome-looking gifts!"/>
+	</imgdir>
+    <imgdir name="3994528">
+		<string name="name" value="8th Year Gift Wrapping String"/>
+		<string name="desc" value="Gift wrapping string that Inkwell is looking for. Use this to make awesome-looking gifts!"/>
+	</imgdir>
+    <imgdir name="3994529">
+		<string name="name" value="Whipped Cream"/>
+		<string name="desc" value="Sweet cream needed to make 8th Anniversary cake."/>
+	</imgdir>
+    <imgdir name="3994530">
+		<string name="name" value="Castella"/>
+		<string name="desc" value="Smooth castella needed to make 8th Anniversary cake."/>
+	</imgdir>
+    <imgdir name="3994531">
+		<string name="name" value="Birthday Candle"/>
+		<string name="desc" value="Decoration for the 8th Anniversary Cake. "/>
+	</imgdir>
+    <imgdir name="3994532">
+		<string name="name" value="Idolman Gold Maple Leaf"/>
+		<string name="desc" value="Idolman Gold Maple Leaf that will help you earn more points on a live 8th Anniversary M Pop Star performance stage. "/>
+	</imgdir>
+</imgdir>

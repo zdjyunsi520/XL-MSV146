@@ -1,0 +1,137 @@
+<imgdir name="Npc.img">
+    <imgdir name="2151008">
+		<string name="name" value="Black Jack"/>
+	</imgdir>
+    <imgdir name="2151009">
+		<string name="name" value="Mastema"/>
+		<string name="d0" value="Meow! Need something?"/>
+		<string name="d1" value="Meow! Need something?"/>
+		<string name="func" value="Cat"/>
+	</imgdir>
+    <imgdir name="2152000">
+		<string name="name" value="Ferdi"/>
+		<string name="func" value="Headmaster"/>
+		<string name="n1" value="There's more to life than getting A's."/>
+		<string name="d0" value="Anyone wanting to learn is welcome!"/>
+		<string name="d1" value="Special Training is always in session. Always. Hahaha!"/>
+		<string name="n0" value="The weather is beautiful today... Heheheh."/>
+	</imgdir>
+    <imgdir name="2152001">
+		<string name="name" value="Elex"/>
+		<string name="func" value="Kindergarten Teacher"/>
+		<string name="n0" value="Why don't kids like me?"/>
+		<string name="n1" value="I look good in an apron..."/>
+		<string name="d0" value="I'm the only teacher at the kindergarten attached to Edelstein School... But, the kids don't like me. Well, not that I really like kids..."/>
+		<string name="d1" value="I'm the only teacher at the kindergarten attached to Edelstein School... But, the kids don't like me. Well, not that I really like kids..."/>
+	</imgdir>
+    <imgdir name="2152002">
+		<string name="name" value="Brighton"/>
+		<string name="func" value="Streetsweeper"/>
+		<string name="n0" value="Doesn't it feel great walking on clean streets?"/>
+		<string name="n1" value="Haha, have a nice day!"/>
+		<string name="d0" value="Cleaning makes me so happy! I'm very proud of what I do, especially when I see the clean streets."/>
+		<string name="d1" value="Cleaning makes me so happy! I'm very proud of what I do, especially when I see the clean streets."/>
+	</imgdir>
+    <imgdir name="2152003">
+		<string name="name" value="Belle"/>
+		<string name="func" value="Officer"/>
+		<string name="n0" value="I plan to do my best to help the residents."/>
+		<string name="n1" value="Hello everyone. I hope all of you are well!"/>
+		<string name="d0" value="Do you need anything from the police? The Police Station isn't running at the moment, but I will personally do my best to assist you."/>
+		<string name="d1" value="Do you need anything from the police? The Police Station isn't running at the moment, but I will personally do my best to assist you."/>
+	</imgdir>
+    <imgdir name="2152004">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="Doctor"/>
+		<string name="n0" value="I wonder if people are getting vaccinated..."/>
+		<string name="d1" value="Are you in need of help? Go inside the hospital next to me if you want to see a doctor."/>
+		<string name="n1" value="Hospital work has been..."/>
+		<string name="d0" value="Are you in need of help? Head to the hospital if you want to see a doctor."/>
+	</imgdir>
+    <imgdir name="2152005">
+		<string name="name" value="Checky"/>
+		<string name="func" value="Mascot"/>
+		<string name="d0" value="What are you doing? You should know better than that! Get in line if you want a balloon."/>
+		<string name="d1" value="*Sigh.* This part-time job is exhausting..."/>
+	</imgdir>
+    <imgdir name="2152008">
+		<string name="name" value="Jun"/>
+		<string name="n0" value="Where did Von go?"/>
+		<string name="n1" value="I don't like to play outside..."/>
+		<string name="d0" value="I was told not to talk to strangers..."/>
+		<string name="d1" value="I was told not to talk to strangers... Does that mean I can talk to non-strangers all I want?"/>
+		<imgdir name="dialogue">
+			<string name="23001" value="Oh, you're back now? I was waiting, but you never came... So, Ulrika and I just came back without you. Have you seen Von? Where has he gone?"/>
+		</imgdir>
+    <imgdir name="2152010">
+		<string name="name" value="Surl"/>
+		<string name="n0" value="Not a good time to be making a ruckus!"/>
+		<string name="n1" value="Kids these days don't know how to respect their elders."/>
+		<string name="d0" value="This town isn't what it used to be. And it's all because of those Black... Hmm... Forget I said anything."/>
+		<string name="d1" value="This town isn't what it used to be. And it's all because of those Black... Hmm... Forget I said anything."/>
+	</imgdir>
+    <imgdir name="2152011">
+		<string name="name" value="Emily"/>
+		<string name="n0" value="Um... Excuse me..."/>
+		<string name="n1" value="Oh, nothing."/>
+		<string name="d0" value="This town was a peaceful place once..."/>
+		<string name="d1" value="This town was a peaceful place once..."/>
+	</imgdir>
+    <imgdir name="2152012">
+		<string name="name" value="Smartie"/>
+		<string name="d0" value="Balloons are so incredible, aren't they?"/>
+		<string name="d1" value="Balloons are so incredible, aren't they?"/>
+	</imgdir>
+    <imgdir name="2152013">
+		<string name="name" value="Cutie"/>
+		<string name="d0" value="I love playing with Checky."/>
+		<string name="d1" value="I love playing with Checky."/>
+	</imgdir>
+    <imgdir name="2152014">
+		<string name="name" value="Mysterie"/>
+		<string name="d0" value="I'm so hot, I'm probably blinding you."/>
+		<string name="d1" value="I'm so hot, I'm probably blinding you."/>
+	</imgdir>
+    <imgdir name="2152015">
+		<string name="name" value="Fattie"/>
+		<string name="d0" value="*Gulp! Gulp!*"/>
+		<string name="d1" value="*Munch! Munch!*"/>
+	</imgdir>
+    <imgdir name="2152016">
+		<string name="name" value="Bavan"/>
+		<string name="func" value="Black Wing Watchman"/>
+		<string name="n1" value="Work is important, but eating is crucial!"/>
+		<string name="d0" value="We, the Black Wings, are the ones who keep freedom and peace in this town. I'm not kidding! *Gulp! Gulp!*"/>
+		<string name="d1" value="We, the Black Wings, are the ones who keep freedom and peace in this town. I'm not kidding! *Gulp! Gulp!*"/>
+		<string name="n0" value="*Gulp! Gulp!*"/>
+	</imgdir>
+    <imgdir name="2152017">
+		<string name="name" value="Leonore"/>
+		<string name="func" value="Black Wing Watchman"/>
+		<string name="n0" value="Isn't this uniform terrible?"/>
+		<string name="n1" value="I can't believe I'm stuck in the countryside on this job..."/>
+		<string name="d0" value="What are you looking at? You got a problem?"/>
+		<string name="d1" value="What are you looking at? You got a problem?"/>
+	</imgdir>
+    <imgdir name="2152018">
+		<string name="name" value="Wonny"/>
+		<string name="func" value="Black Wing Watchman"/>
+		<string name="n0" value="......"/>
+		<string name="n1" value="Don't do anything questionable."/>
+		<string name="d0" value="Don't do anything suspicious... For your own good."/>
+		<string name="d1" value="Don't do anything suspicious... For your own good."/>
+	</imgdir>
+    <imgdir name="2152019">
+		<string name="name" value="Edelstein Message Board"/>
+		<string name="d0" value="A message board that any resident of Edelstein can use."/>
+		<string name="d1" value="A message board that any resident of Edelstein can use."/>
+	</imgdir>
+    <imgdir name="2153000">
+		<string name="name" value="Stephan"/>
+		<string name="func" value="Black Wing Watchman"/>
+		<string name="n0" value="Hmph!"/>
+		<string name="n1" value="Don't bother me with trivial things!"/>
+		<string name="d0" value="Money is important! That's why I work for the Black Wings. Other reasons? Nope, none."/>
+		<string name="d1" value="Money is important! That's why I work for the Black Wings. Other reasons? Nope, none."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382068">
+		<string name="name" value="Moon Bunny Card"/>
+		<string name="desc" value="A card that features Moon Bnny.\n#cIf hunting at the Black MountainnJump +1#"/>
+	</imgdir>
+    <imgdir name="2382069">
+		<string name="name" value="Iron Boar Card"/>
+		<string name="desc" value="A card that features Iron Boar.\n#cIf hunting at Victoria IslandnAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382070">
+		<string name="name" value="Blue Flower Serpent"/>
+		<string name="desc" value="A card that features Blue Flower Serpent.\n#cIf hunting at Mu LungnAvoidability +1#"/>
+	</imgdir>
+    <imgdir name="2382071">
+		<string name="name" value="Red Flower Serpent"/>
+		<string name="desc" value="A card that features Red Flower Serpent.\n#cIf hunting at Mu LungnAvoidability +1#"/>
+	</imgdir>
+    <imgdir name="2382072">
+		<string name="name" value="Reinforced Iron Mutae"/>
+		<string name="desc" value="A card that features Reinforced Iron Mutae.\n#cIf hunting at the Alcadno InstitutenAccuracy +1#"/>
+	</imgdir>
+    <imgdir name="2382073">
+		<string name="name" value="Big Cloud Fox Card"/>
+		<string name="desc" value="A card that features Big Cloud Fox."/>
+	</imgdir>
+    <imgdir name="2382074">
+		<string name="name" value="Paper Lantern Ghost Card"/>
+		<string name="desc" value="A card that features Paper Lantern Ghost."/>
+	</imgdir>
+    <imgdir name="2382075">
+		<string name="name" value="Extra A Card"/>
+		<string name="desc" value="A card that features Extra A."/>
+	</imgdir>
+    <imgdir name="2382076">
+		<string name="name" value="Mossy Snail Card"/>
+		<string name="desc" value="A picture of Mossy Snail is on this card.\n#cWhile hunting in Ellin ForestnAccuracy +1"/>
+	</imgdir>
+    <imgdir name="2382092">
+		<string name="name" value="Renegade Spore Card"/>
+		<string name="desc" value="A card featuring Renegade Spores\n#cWhen hunting in the Mushroom Castle: \nJump +1"/>
+	</imgdir>
+    <imgdir name="2382093">
+		<string name="name" value="Poison Mushroom Card"/>
+		<string name="desc" value="A card featuring the Poison Mushroom\n#cWhen hunting in the Mushroom Castle: \nAccuracy +1"/>
+	</imgdir>
+    <imgdir name="2382094">
+		<string name="name" value="Intoxicated Pig Card"/>
+		<string name="desc" value="A card featuring the Intoxicated Pig\n#cWhen hunting in the Mushroom Castle: \nSpeed +1"/>
+	</imgdir>
+    <imgdir name="2382095">
+		<string name="name" value="Helmet Pepe Card"/>
+		<string name="desc" value="A card featuring Helmet Pepe\n#cWhen hunting in the Mushroom Castle: \nJump +1"/>
+	</imgdir>
+    <imgdir name="2382096">
+		<string name="name" value="Royal Guard Pepe Card"/>
+		<string name="desc" value="A card featuring Royal Guard Pepe\n#cWhen hunting in the Mushroom Castle: \nSpeed +1"/>
+	</imgdir>
+    <imgdir name="2382097">
+		<string name="name" value="Cherry Bubble Tea Card "/>
+		<string name="desc" value="A card featuring Cherry Bubble Tea.\n\cSTR +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382098">
+		<string name="name" value="Melon Bubble Tea Card"/>
+		<string name="desc" value="A card featuring Melon Bubble Tea.\n\cLUK +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382099">
+		<string name="name" value="Mango Bubble Tea Card"/>
+		<string name="desc" value="A card featuring Mango Bubble Tea.\n\cINT +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382100">
+		<string name="name" value="Yeti Doll Claw Game Card"/>
+		<string name="desc" value="A card featuring the Yeti Doll Claw Game.\n\cDEX +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382101">
+		<string name="name" value="Pepe Doll Claw Game Card "/>
+		<string name="desc" value="A card featuring the Jr. Pepe Doll Claw Game.\n\cSpeed +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382102">
+		<string name="name" value="Transformed Doll Claw Game Card "/>
+		<string name="desc" value="A card featuring the Transformed Doll Claw Game.\n\cJump +1 when hunting in Kerning Square#"/>
+	</imgdir>
+</imgdir>

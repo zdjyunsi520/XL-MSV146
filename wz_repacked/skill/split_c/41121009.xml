@@ -1,0 +1,5 @@
+<imgdir name="41121009">
+        <string name="name" value="猎鹰俯冲" />
+        <string name="desc" value="虽非拳击但胜似拳击。高高跃起后以刀为首俯冲而下。\n前置技能：#c旋风斩20级以上#" />
+        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，眩晕概率：#subProp%，眩晕持续时间：#time秒，眩晕敌人受到的伤害：+#x%。\n被动效果：升龙斩、断空斩、旋风斩伤害+#damR%" />
+    </imgdir>

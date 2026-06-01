@@ -1,0 +1,5 @@
+<imgdir name="70000025">
+        <string name="name" value="等级攻击提升" />
+        <string name="desc" value="每隔一定等级提升1点攻击力。" />
+        <string name="h" value="Attack +1 for every #lv2pad levels" />
+    </imgdir>

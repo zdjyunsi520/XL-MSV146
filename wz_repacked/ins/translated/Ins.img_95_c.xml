@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3700157">
+		<string name="name" value="冒险女人"/>
+		<string name="desc" value="给冒险女人的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700158">
+		<string name="name" value="著名舞者"/>
+		<string name="desc" value="给天生有舞蹈天赋者的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700159">
+		<string name="name" value="冷却"/>
+		<string name="desc" value="参加周六所有三个冷却活动获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700160">
+		<string name="name" value="冰王"/>
+		<string name="desc" value="使用20个或更多神秘冰盒获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700161">
+		<string name="name" value="革命签到王"/>
+		<string name="desc" value="参加签到活动(7月4-17日)5天或更多获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700162">
+		<string name="name" value="镜子大师"/>
+		<string name="desc" value="完成镜子世界所有4个故事章节获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700163">
+		<string name="name" value="宾果是他的名字"/>
+		<string name="desc" value="参加枫之谷宾果获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700164">
+		<string name="name" value="太酷"/>
+		<string name="desc" value="参加快乐冷却活动获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700165">
+		<string name="name" value="冻结"/>
+		<string name="desc" value="使用20个或更多神秘冰盒获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700166">
+		<string name="name" value="进化签到王"/>
+		<string name="desc" value="参加签到活动(7月18-31日)5天或更多获得的称号。\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700168">
+		<string name="name" value="怪物战斗新手"/>
+		<string name="desc" value="完成战斗怪物教程获得的称号。\r\n#c全属性+1#\r\n\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700169">
+		<string name="name" value="鲁莽冒险者"/>
+		<string name="desc" value="挑战赫卡顿获得的称号。\r\n#c武器攻击+1#\r\n#c魔法攻击+1#\r\n\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700170">
+		<string name="name" value="太酷"/>
+		<string name="desc" value="参加快乐冷却活动获得的称号。\r\n#c武器防御+50#\r\n#c魔法防御+50#\r\n\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700171">
+		<string name="name" value="酷如冰"/>
+		<string name="desc" value="使用20个或更多神秘冰D获得的称号。\r\n#c命中率+10#\r\n\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3700172">
+		<string name="name" value="出席者"/>
+		<string name="desc" value="参加签到活动(1月1-14日)5天或更多获得的称号。\r\n#c全属性+2#\r\n\r\n#c点击开启/关闭。#"/>
+	</imgdir>
+    <imgdir name="3800573">
+		<string name="name" value="击杀点1"/>
+		<string name="desc" value="击杀点1"/>
+	</imgdir>
+    <imgdir name="3800574">
+		<string name="name" value="击杀点2"/>
+		<string name="desc" value="击杀点2"/>
+	</imgdir>
+    <imgdir name="3800575">
+		<string name="name" value="击杀点3"/>
+		<string name="desc" value="击杀点3"/>
+	</imgdir>
+    <imgdir name="3800576">
+		<string name="name" value="击杀点4"/>
+		<string name="desc" value="击杀点4"/>
+	</imgdir>
+    <imgdir name="3800577">
+		<string name="name" value="击杀点5"/>
+		<string name="desc" value="击杀点5"/>
+	</imgdir>
+</imgdir>

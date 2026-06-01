@@ -1,0 +1,5 @@
+<imgdir name="80011024">
+        <string name="name" value="直升机" />
+        <string name="desc" value="[大师等级: 1]\n可以乘坐坐骑移动。\n如果拥有#c翱翔#技能，按上方向键和跳跃键可上升。\n激活时消耗5MP。\n最大飞行时间: #0秒#" />
+        <string name="h1" value="MP消耗: 10, 物理和魔法防御力: +10, 移动速度: 170%, 跳跃力: 120%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5810000">
+        <string name="name" value="Opportunistic Fighter" />
+        <string name="desc" value="Increases Critical Rate when attacking stunned enemies." />
+        <string name="h" value="Critical Rate: #prop% when attacking a stunned enemy" />
+    </imgdir>

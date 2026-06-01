@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3603510">
+		<string name="name" value="Mineral Drop - AquaMarine Ore"/>
+		<string name="desc" value="Adds random instances of AquaMarine Ore."/>
+	</imgdir>
+    <imgdir name="3603511">
+		<string name="name" value="Mineral Drop - Emerald Ore"/>
+		<string name="desc" value="Adds random instances of Emerald Ore."/>
+	</imgdir>
+    <imgdir name="3603512">
+		<string name="name" value="Mineral Drop - Opal Ore"/>
+		<string name="desc" value="Adds random instances of Opal Ore."/>
+	</imgdir>
+    <imgdir name="3603513">
+		<string name="name" value="Mineral Drop - Sapphire Ore"/>
+		<string name="desc" value="Adds random instances of Sapphire Ore."/>
+	</imgdir>
+    <imgdir name="3603514">
+		<string name="name" value="Mineral Drop - Topaz Ore"/>
+		<string name="desc" value="Adds random instances of Topaz Ore."/>
+	</imgdir>
+    <imgdir name="3603515">
+		<string name="name" value="Mineral Drop - Diamond Ore"/>
+		<string name="desc" value="Adds random instances of Diamond Ore."/>
+	</imgdir>
+    <imgdir name="3603516">
+		<string name="name" value="Mineral Drop - Black Crystal Ore"/>
+		<string name="desc" value="Adds random instances of Black Crystal Ore."/>
+	</imgdir>
+    <imgdir name="3603600">
+		<string name="name" value="Armor Drop - Lv. 100 Warrior"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Warrior Armor."/>
+	</imgdir>
+    <imgdir name="3603601">
+		<string name="name" value="Armor Drop - Lv. 110 Warrior"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Warrior Armor."/>
+	</imgdir>
+    <imgdir name="3603602">
+		<string name="name" value="Armor Drop - Lv. 100 Magician"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Magician Armor."/>
+	</imgdir>
+    <imgdir name="3603603">
+		<string name="name" value="Armor Drop - Lv. 110 Magician"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Magician Armor."/>
+	</imgdir>
+    <imgdir name="3603604">
+		<string name="name" value="Armor Drop - Lv. 100 Bowman"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Bowman Armor."/>
+	</imgdir>
+    <imgdir name="3603605">
+		<string name="name" value="Armor Drop - Lv. 110 Bowman"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Bowman Armor."/>
+	</imgdir>
+    <imgdir name="3603606">
+		<string name="name" value="Armor Drop - Lv. 100 Thief"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Thief Armor."/>
+	</imgdir>
+    <imgdir name="3603607">
+		<string name="name" value="Armor Drop - Lv. 110 Thief"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Thief Armor."/>
+	</imgdir>
+    <imgdir name="3603608">
+		<string name="name" value="Armor Drop - Lv. 100 Pirate"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Pirate Armor."/>
+	</imgdir>
+    <imgdir name="3603609">
+		<string name="name" value="Armor Drop - Lv. 110 Pirate"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Pirate Armor."/>
+	</imgdir>
+    <imgdir name="3603610">
+		<string name="name" value="Weapon Drop - Lv. 100 Weapon"/>
+		<string name="desc" value="Adds random instances of Lv. 100 Weapons."/>
+	</imgdir>
+    <imgdir name="3603611">
+		<string name="name" value="Weapon Drop - Lv. 105 Weapon"/>
+		<string name="desc" value="Adds random instances of Lv. 105 Weapons."/>
+	</imgdir>
+    <imgdir name="3603612">
+		<string name="name" value="Weapon Drop - Lv. 110 Weapon"/>
+		<string name="desc" value="Adds random instances of Lv. 110 Weapons."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040114">
+		<string name="name" value="Red-Nose ATT Bandage 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040115">
+		<string name="name" value="Red-Nose Weapon DEF Bandage 60%"/>
+		<string name="desc" value="Improves Weapon Defense on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040116">
+		<string name="name" value="Red-Nose MP Bandage 60%"/>
+		<string name="desc" value="Improves Magic Attack on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040117">
+		<string name="name" value="Red-Nose Magic DEF Bandage 60%"/>
+		<string name="desc" value="Improves Magic Defense on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040118">
+		<string name="name" value="Red-Nose Avoidability Bandage 60%"/>
+		<string name="desc" value="Improves Avoidability on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040119">
+		<string name="name" value="Red-Nose Accuracy Bandage 60%"/>
+		<string name="desc" value="Improves Accuracy on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040120">
+		<string name="name" value="Shiny Nose Bandage 30%"/>
+		<string name="desc" value="Improves Weapon Attack on Rudolph's Shiny Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040126">
+		<string name="name" value="Golden Nose Bandage"/>
+		<string name="desc" value="Improves Accuracy on Rudolph's Red Nose and Rudolph's Shiny Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040127">
+		<string name="name" value="Golden Nose Bandage"/>
+		<string name="desc" value="Improves Accuracy on Rudolph's Red Nose and Rudolph's Shiny Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040128">
+		<string name="name" value="Rudolph's Red Nose Bandage 60%"/>
+		<string name="desc" value="Improves stats on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040129">
+		<string name="name" value="Sweet V Scroll 50%"/>
+		<string name="desc" value="Improves stats on Valentine's Day Sweet Chocolate."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040131">
+		<string name="name" value="Strong Nose Bandage 30%"/>
+		<string name="desc" value="Improves Weapon ATT on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040132">
+		<string name="name" value="Magical Nose Bandage 30%"/>
+		<string name="desc" value="Improves Magic ATT on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040133">
+		<string name="name" value="Rudolph's Red Nose Bandage 60%"/>
+		<string name="desc" value="Improves stats on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040134">
+		<string name="name" value="Golden Nose Bandage 100%"/>
+		<string name="desc" value="Improves stats on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040135">
+		<string name="name" value="Red-Nose STR Bandage 60%"/>
+		<string name="desc" value="Improves Strength on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040136">
+		<string name="name" value="Red-Nose DEX Bandage 60%"/>
+		<string name="desc" value="Improves Dexterity on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040137">
+		<string name="name" value="Red-Nose INT Bandage 60%"/>
+		<string name="desc" value="Improves Intelligence on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040138">
+		<string name="name" value="Red-Nose LUK Bandage 60%"/>
+		<string name="desc" value="Improves Luck on 2013 Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040200">
+		<string name="name" value="Scroll for Eye Accessory for Accuracy 10%"/>
+		<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:10%, Accuracy +3, DEX +1. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+</imgdir>

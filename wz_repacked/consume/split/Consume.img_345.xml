@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2511127">
+		<string name="name" value="Berserker's Eternal Ring Recipe"/>
+		<string name="desc" value="A recipe for a Berserker's Eternal Ring."/>
+	</imgdir>
+    <imgdir name="2511128">
+		<string name="name" value="High Lord's Eternal Ring Recipe"/>
+		<string name="desc" value="A recipe for a High Lord's Eternal Ring."/>
+	</imgdir>
+    <imgdir name="2511129">
+		<string name="name" value="Oracle's Eternal Ring Recipe"/>
+		<string name="desc" value="A recipe for an Oracle's Eternal Ring."/>
+	</imgdir>
+    <imgdir name="2511130">
+		<string name="name" value="Dominator Pendant Recipe"/>
+		<string name="desc" value="A recipe for a Dominator Pendant."/>
+	</imgdir>
+    <imgdir name="2511131">
+		<string name="name" value="Mighty Ring I Recipe"/>
+		<string name="desc" value="A recipe for Mighty Ring I."/>
+	</imgdir>
+    <imgdir name="2511132">
+		<string name="name" value="Mighty Ring II Recipe"/>
+		<string name="desc" value="A recipe for Mighty Ring II."/>
+	</imgdir>
+    <imgdir name="2511133">
+		<string name="name" value="Mighty Ring III Recipe"/>
+		<string name="desc" value="A recipe for Mighty Ring III."/>
+	</imgdir>
+    <imgdir name="2511134">
+		<string name="name" value="Mighty Ring IV Recipe"/>
+		<string name="desc" value="A recipe for Mighty Ring IV."/>
+	</imgdir>
+    <imgdir name="2511135">
+		<string name="name" value="Victor Von Leon Belt Recipe"/>
+		<string name="desc" value="A recipe for a Victor Von Leon Belt."/>
+	</imgdir>
+    <imgdir name="2511136">
+		<string name="name" value="Hex Von Leon Belt Recipe"/>
+		<string name="desc" value="A recipe for a Hex Von Leon Belt."/>
+	</imgdir>
+    <imgdir name="2511137">
+		<string name="name" value="Celine Von Leon Belt Recipe"/>
+		<string name="desc" value="A recipe for a Celine Von Leon Belt."/>
+	</imgdir>
+    <imgdir name="2511138">
+		<string name="name" value="Scar Von Leon Belt Recipe"/>
+		<string name="desc" value="A recipe for a Scar Von Leon Belt."/>
+	</imgdir>
+    <imgdir name="2511139">
+		<string name="name" value="Mer Von Leon Belt Recipe"/>
+		<string name="desc" value="A recipe for a Mer Von Leon Belt."/>
+	</imgdir>
+    <imgdir name="2511140">
+		<string name="name" value="Timeless Pendant Recipe"/>
+		<string name="desc" value="A recipe for a Timeless Pendant."/>
+	</imgdir>
+    <imgdir name="2511141">
+		<string name="name" value="Strength Ring I Recipe"/>
+		<string name="desc" value="A recipe for a Strength Ring I."/>
+	</imgdir>
+    <imgdir name="2511142">
+		<string name="name" value="Intelligence Ring I Recipe"/>
+		<string name="desc" value="A recipe for a Intelligence Ring I."/>
+	</imgdir>
+    <imgdir name="2511143">
+		<string name="name" value="Dexterity Ring I Recipe"/>
+		<string name="desc" value="A recipe for a Dexterity Ring I."/>
+	</imgdir>
+    <imgdir name="2511144">
+		<string name="name" value="Luck Ring I Recipe"/>
+		<string name="desc" value="A recipe for a Luck Ring I."/>
+	</imgdir>
+    <imgdir name="2511145">
+		<string name="name" value="Strength Ring II Recipe"/>
+		<string name="desc" value="A recipe for a Strength Ring II."/>
+	</imgdir>
+    <imgdir name="2511146">
+		<string name="name" value="Intelligence Ring II Recipe"/>
+		<string name="desc" value="A recipe for a Intelligence Ring II."/>
+	</imgdir>
+</imgdir>

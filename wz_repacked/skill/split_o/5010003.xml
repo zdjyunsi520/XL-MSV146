@@ -1,0 +1,5 @@
+<imgdir name="5010003">
+        <string name="name" value="Cannon Boost" />
+        <string name="desc" value="Improves the cannon to permanently increase ATT and DEF." />
+        <string name="h" value="ATT: +#padX, Weapon DEF +#pddX, Magic DEF: +#mddX" />
+    </imgdir>

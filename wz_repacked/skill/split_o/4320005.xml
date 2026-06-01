@@ -1,0 +1,7 @@
+<imgdir name="4320005">
+        <string name="name" value="Venom" />
+        <string name="desc" value="Your dagger is permanently coated with venom, giving all your attacks the chance to Poison enemies. Poison is not stackable, and it cannot cause enemies&apos; HP to drop below 1." />
+        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Your dagger is permanently coated with venom, giving all your attacks the chance to Poison enemies. Poison is not stackable, and it cannot cause enemies&apos; HP to drop below 1." />
+        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

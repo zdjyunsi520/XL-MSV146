@@ -1,0 +1,6 @@
+<imgdir name="32110000">
+        <string name="name" value="进阶蓝色光环" />
+        <string name="desc" value="永久提升你的异常状态抗性和属性抗性，同时增强蓝色光环的力量。使用蓝色光环时还会提升附近队友的防御力。\n前置技能：#c蓝色光环 Lv. 20#" />
+        <string name="h" value="主动效果 - MP消耗：#mpCon，吸收分配伤害的#y%，防御力：+#z%\n被动效果 - 异常状态抗性：+#asrR%，属性抗性：+#terR%" />
+        <string name="pdesc" value="永久提升你的状态抗性和属性抗性，同时增强蓝色光环的力量。使用蓝色光环时还会提升附近队友的防御力。\n前置技能：#c蓝色光环 Lv. 20#" />
+    </imgdir>

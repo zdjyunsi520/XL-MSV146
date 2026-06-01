@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2240008">
+		<string name="name" value="闪耀星辰戒指：2克拉"/>
+		<string name="desc" value="由星石和2克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240009">
+		<string name="name" value="闪耀星辰戒指：3克拉"/>
+		<string name="desc" value="由星石和3克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240010">
+		<string name="name" value="黄金之心戒指"/>
+		<string name="desc" value="由黄金和钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240011">
+		<string name="name" value="黄金之心戒指：2克拉"/>
+		<string name="desc" value="由黄金和2克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240012">
+		<string name="name" value="黄金之心戒指：3克拉"/>
+		<string name="desc" value="由黄金和3克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240013">
+		<string name="name" value="银翼戒指"/>
+		<string name="desc" value="由白银和钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240014">
+		<string name="name" value="银翼戒指：2克拉"/>
+		<string name="desc" value="由白银和2克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2240015">
+		<string name="name" value="银翼戒指：3克拉"/>
+		<string name="desc" value="由白银和3克拉钻石打造的订婚戒指。使用这个向你所爱的人求婚。"/>
+	</imgdir>
+    <imgdir name="2260000">
+		<string name="name" value="活力剂"/>
+		<string name="desc" value="恢复已驯服怪物30点疲劳度。"/>
+	</imgdir>
+    <imgdir name="2270000">
+		<string name="name" value="费洛蒙香水"/>
+		<string name="desc" value="肯塔制作的费洛蒙香水。在韩国民俗村使用它来驯服野猪。"/>
+	</imgdir>
+    <imgdir name="2270001">
+		<string name="name" value="袋子"/>
+		<string name="desc" value="表面有一颗宝石的袋子。具有特殊力量，双击袋子会吸入区域周围的幽灵。"/>
+	</imgdir>
+    <imgdir name="2270002">
+		<string name="name" value="元素石"/>
+		<string name="desc" value="一种特殊的炼金术士工具，将吸收的怪物力量转化为宝石。内部似乎稍微透明。"/>
+	</imgdir>
+    <imgdir name="2270003">
+		<string name="name" value="克里夫的魔法手杖"/>
+		<string name="desc" value="克里夫的魔法手杖。可用于驯服迷失的鲁道夫。"/>
+	</imgdir>
+    <imgdir name="2270004">
+		<string name="name" value="净化弹珠"/>
+		<string name="desc" value="一种可以容纳和净化怪物的特殊魔法弹珠。"/>
+	</imgdir>
+    <imgdir name="2270005">
+		<string name="name" value="阿雷克的葫芦"/>
+		<string name="desc" value="阿雷克连同任务一起给你的葫芦。当贤猫王的血量低于30%时，双击葫芦将贤猫王封印在里面。"/>
+	</imgdir>
+    <imgdir name="2270006">
+		<string name="name" value="OSS相机"/>
+		<string name="desc" value="可在附近拍摄外星人照片。"/>
+	</imgdir>
+    <imgdir name="2270007">
+		<string name="name" value="3层透明弹珠"/>
+		<string name="desc" value="一种可以容纳3层中毒怪物的特殊魔法弹珠。"/>
+	</imgdir>
+    <imgdir name="2270008">
+		<string name="name" value="渔网"/>
+		<string name="desc" value="用于捕捉某些东西的渔网。可与嘎嘎一起使用。"/>
+	</imgdir>
+    <imgdir name="2270009">
+		<string name="name" value="红缎带猪"/>
+		<string name="desc" value="帮助捕捉迷宫猪的红缎带。"/>
+	</imgdir>
+    <imgdir name="2270010">
+		<string name="name" value="绿缎带猪"/>
+		<string name="desc" value="帮助捕捉迷宫猪的绿缎带。"/>
+	</imgdir>
+</imgdir>

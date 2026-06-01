@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8500002">
+		<string name="name" value="帕普拉图斯"/>
+	</imgdir>
+    <imgdir name="8500003">
+		<string name="name" value="低暗星"/>
+	</imgdir>
+    <imgdir name="8500004">
+		<string name="name" value="高暗星"/>
+	</imgdir>
+    <imgdir name="8510000">
+		<string name="name" value="皮亚努斯"/>
+	</imgdir>
+    <imgdir name="8510100">
+		<string name="name" value="血腥爆炸"/>
+	</imgdir>
+    <imgdir name="8520000">
+		<string name="name" value="皮亚努斯"/>
+	</imgdir>
+    <imgdir name="8800000">
+		<string name="name" value="扎昆1"/>
+	</imgdir>
+    <imgdir name="8800001">
+		<string name="name" value="扎昆2"/>
+	</imgdir>
+    <imgdir name="8800002">
+		<string name="name" value="扎昆"/>
+	</imgdir>
+    <imgdir name="8800003">
+		<string name="name" value="扎昆的手臂1"/>
+	</imgdir>
+    <imgdir name="8800004">
+		<string name="name" value="扎昆的手臂2"/>
+	</imgdir>
+    <imgdir name="8800005">
+		<string name="name" value="扎昆的手臂3"/>
+	</imgdir>
+    <imgdir name="8800006">
+		<string name="name" value="扎昆的手臂4"/>
+	</imgdir>
+    <imgdir name="8800007">
+		<string name="name" value="扎昆的手臂5"/>
+	</imgdir>
+    <imgdir name="8800008">
+		<string name="name" value="扎昆的手臂6"/>
+	</imgdir>
+    <imgdir name="8800009">
+		<string name="name" value="扎昆的手臂7"/>
+	</imgdir>
+    <imgdir name="8800010">
+		<string name="name" value="扎昆的手臂8"/>
+	</imgdir>
+    <imgdir name="8810000">
+		<string name="name" value="黑龙的左头"/>
+	</imgdir>
+    <imgdir name="8810001">
+		<string name="name" value="黑龙的右头"/>
+	</imgdir>
+    <imgdir name="8810002">
+		<string name="name" value="黑龙的头A"/>
+	</imgdir>
+</imgdir>

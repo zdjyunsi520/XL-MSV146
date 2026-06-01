@@ -1,0 +1,7 @@
+<imgdir name="10001007">
+        <string name="name" value="锻造" />
+        <string name="desc" value="[最高等级：3]\n通过炼金术制造物品。不同等级可以制造不同的物品。" />
+        <string name="h1" value="Can create item under level 75." />
+        <string name="h2" value="Can create item under level 105." />
+        <string name="h3" value="Can create item under level 135." />
+    </imgdir>

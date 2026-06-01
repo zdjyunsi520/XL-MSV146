@@ -1,0 +1,5 @@
+<imgdir name="35111002">
+        <string name="name" value="Rock &apos;n Shock" />
+        <string name="desc" value="Installs up to 3 &lt;Tesla Coils&gt; to continuously attack and possibly stun enemies. They self-destruct when they run out of power." />
+        <string name="h" value="MP Cost: #mpCon, Tesla Coil Duration: #y sec, Damage: #damage%, Max Monsters Hit: #mobCount, Self-Destruct Damage: #selfDestruction%, Cooldown: #cooltime sec" />
+    </imgdir>

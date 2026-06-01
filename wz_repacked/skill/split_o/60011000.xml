@@ -1,0 +1,5 @@
+<imgdir name="60011000">
+        <string name="name" value="Crystal Throw" />
+        <string name="desc" value="Throws a piece of Rue at an enemy. " />
+        <string name="h" value="MP Cost: #mpCon, Damage: #fixdamage " />
+    </imgdir>

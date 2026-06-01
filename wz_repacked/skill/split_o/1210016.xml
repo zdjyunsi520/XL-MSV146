@@ -1,0 +1,5 @@
+<imgdir name="1210016">
+        <string name="name" value="Divine Shield" />
+        <string name="desc" value="Generates a protective shield when hit that #cabsorbs up to 10 blows and increases Weapon Attack#. The shield lasts for 90 seconds and must cool down before reactivation. Cannot be broken by enemy attacks." />
+        <string name="h" value="Shield Proc Chance (when hit): #prop%, For #time sec, #cWeapon ATT: +#epad, Enemy Blows Absorbed: #x#, Damage -#y% only for attacks that inflict damage at a certain ratio of the max HP, Unable tp recreate a Protective Shield for #cooltime sec when activated." />
+    </imgdir>

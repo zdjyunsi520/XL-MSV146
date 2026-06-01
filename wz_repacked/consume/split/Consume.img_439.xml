@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2045501">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045502">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nINT: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045503">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045504">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nINT: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045505">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045506">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nINT: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045507">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045508">
+		<string name="name" value="Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nINT: +3\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2045509">
+		<string name="name" value="King Pepe Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Attack on King Pepe's Fan."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045511">
+		<string name="name" value="9th Anniversary Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2045512">
+		<string name="name" value="9th Anniversary Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack: +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2045513">
+		<string name="name" value="9th Anniversary Scroll for Fan for Magic ATT"/>
+		<string name="desc" value="Improves Magic Attack on Fans."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046174">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046175">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046176">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +3\r\nMagic Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046177">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +4\r\nMagic Attack: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046178">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +5\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046179">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +6\r\nMagic Attack: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046180">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7\r\nMagic Attack: +7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046181">
+		<string name="name" value="Scroll for Legendary Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Attack on two-handed weapons from the #cAmaterasu/Oyamatsumi/Ame-no-Uzume/Tsukuyomi/Susano-o# series."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +8\r\nMagic Attack: +8\r\n#"/>
+	</imgdir>
+</imgdir>

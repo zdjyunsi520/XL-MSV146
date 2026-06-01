@@ -1,0 +1,5 @@
+<imgdir name="5810000">
+        <string name="name" value="投机斗士" />
+        <string name="desc" value="攻击眩晕状态的敌人时提升暴击率。" />
+        <string name="h" value="Critical Rate: #prop% when attacking a stunned enemy" />
+    </imgdir>

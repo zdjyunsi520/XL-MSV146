@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010149">
+		<string name="name" value="风扇前躺着的猫"/>
+		<string name="desc" value="每10秒恢复10 HP和10 MP。"/>
+	</imgdir>
+    <imgdir name="3010151">
+		<string name="name" value="沙漠岛屿椅子"/>
+		<string name="desc" value="每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010152">
+		<string name="name" value="黄色帐篷椅子"/>
+		<string name="desc" value="一把让你更好享受露营的椅子。每10秒恢复40 HP和MP。"/>
+	</imgdir>
+    <imgdir name="3010154">
+		<string name="name" value="机械椅子"/>
+		<string name="desc" value="每10秒恢复HP的机械椅子。"/>
+	</imgdir>
+    <imgdir name="3010155">
+		<string name="name" value="猫头鹰椅子"/>
+		<string name="desc" value="形状像猫头鹰的特殊椅子。每10秒恢复30 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010156">
+		<string name="name" value="访客代表机"/>
+		<string name="desc" value="通过改造访客代表使用的机器制作的椅子。坐在上面每10秒恢复50 HP和MP。"/>
+	</imgdir>
+    <imgdir name="3010157">
+		<string name="name" value="公会椅子"/>
+		<string name="desc" value="每10秒恢复HP的机械椅子。"/>
+	</imgdir>
+    <imgdir name="3010161">
+		<string name="name" value="斯奎普"/>
+		<string name="desc" value="这把椅子形状像MWLB吉祥物。MWLB成员可以使用这把椅子每10秒恢复20 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010163">
+		<string name="name" value="满月椅子"/>
+		<string name="desc" value="坐在满月椅子上，每10秒恢复35 HP和10 MP。"/>
+	</imgdir>
+    <imgdir name="3010164">
+		<string name="name" value="满月椅子2"/>
+		<string name="desc" value="坐在满月椅子上，每10秒恢复35 HP和10 MP。"/>
+	</imgdir>
+    <imgdir name="3010165">
+		<string name="name" value="柿子树上的秋千"/>
+		<string name="desc" value="成熟的柿子树上挂着一个秋千。"/>
+	</imgdir>
+    <imgdir name="3010167">
+		<string name="name" value="蛋糕椅子"/>
+		<string name="desc" value="每10秒恢复30 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010168">
+		<string name="name" value="草原椅子"/>
+		<string name="desc" value="朋友永远珍贵。每10秒恢复40 HP和40 MP。"/>
+	</imgdir>
+    <imgdir name="3010169">
+		<string name="name" value="小猫椅子"/>
+		<string name="desc" value="一只可爱的小猫让你开心。每10秒恢复40 HP和40 MP。"/>
+	</imgdir>
+    <imgdir name="3010170">
+		<string name="name" value="十二月椅子"/>
+		<string name="desc" value="冬天来了。每10秒恢复30 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010171">
+		<string name="name" value="猫咪的爱椅子"/>
+		<string name="desc" value="紧紧抱住我。每10秒恢复30 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010172">
+		<string name="name" value="天空椅子"/>
+		<string name="desc" value="坐在这把椅子上，你可以数天上有多少星星。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010173">
+		<string name="name" value="心灵椅子"/>
+		<string name="desc" value="你可以用这把椅子预测未来。每10秒恢复40 HP和40 MP。"/>
+	</imgdir>
+    <imgdir name="3010174">
+		<string name="name" value="可怕的女巫椅子"/>
+		<string name="desc" value="一个可怕的女巫会跟着你要糖果！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010175">
+		<string name="name" value="画架椅子"/>
+		<string name="desc" value="你可以用这把椅子展现艺术天赋。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+</imgdir>

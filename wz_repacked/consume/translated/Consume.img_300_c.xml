@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431031">
+		<string name="name" value="恐龙蛋"/>
+		<string name="desc" value="一个圆圆的恐龙蛋。还是很可爱！双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431032">
+		<string name="name" value="恐龙脚印"/>
+		<string name="desc" value="某人或某物留下的古老脚印。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431033">
+		<string name="name" value="粪便"/>
+		<string name="desc" value="这是粪便。古老的粪便。这就是不冲厕所的下场。"/>
+	</imgdir>
+    <imgdir name="2431034">
+		<string name="name" value="琥珀"/>
+		<string name="desc" value="璀璨的琥珀。一只不幸的蚊子无法从变成这块石头的古老松脂中逃脱，被困在里面。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431035">
+		<string name="name" value="獠牙"/>
+		<string name="desc" value="肉食恐龙的威胁獠牙。小心处理！双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431036">
+		<string name="name" value="心脏石"/>
+		<string name="desc" value="恐龙的心脏经过很长时间变成了宝石。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431037">
+		<string name="name" value="羽毛"/>
+		<string name="desc" value="古老鸟类羽毛的化石。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431038">
+		<string name="name" value="三叶虫"/>
+		<string name="desc" value="一种被认为是三叶虫的生物的化石。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431039">
+		<string name="name" value="菊石"/>
+		<string name="desc" value="完美旋转形状的菊石。双击把它陈列在博物馆。"/>
+	</imgdir>
+    <imgdir name="2431049">
+		<string name="name" value="扎坤的石块"/>
+		<string name="desc" value="神秘扎坤的碎石。如果与神秘能量结合可能会有用。必须在TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2431050">
+		<string name="name" value="Horntail的鳞片"/>
+		<string name="desc" value="神秘Horntail的鳞片。如果与神秘能量结合可能会有用。必须在TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2431051">
+		<string name="name" value="冯莱昂的头发"/>
+		<string name="desc" value="神秘冯莱昂的头发。如果与神秘能量结合可能会有用。必须在TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2431052">
+		<string name="name" value="希拉的头发"/>
+		<string name="desc" value="神秘希拉的头发。如果与神秘能量结合可能会有用。必须在TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2431053">
+		<string name="name" value="阿尔卡里姆的胡须"/>
+		<string name="desc" value="神秘阿尔卡里姆的面部毛发。如果与神秘能量结合可能会有用。必须在TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2431054">
+		<string name="name" value="匿名情书"/>
+		<string name="desc" value="一位匿名仰慕者寄给你的信。你能感受到其中蕴含的满满爱意...也许你应该打开看看。"/>
+	</imgdir>
+    <imgdir name="2431055">
+		<string name="name" value="鱼卵"/>
+		<string name="desc" value="未孵化的鱼卵。如果你收集#c10#个，可以用它们换取9种鱼类中的一种用于博物馆陈列。双击使用。"/>
+	</imgdir>
+    <imgdir name="2431056">
+		<string name="name" value="未成熟的水果"/>
+		<string name="desc" value="未成熟的水果。如果你收集#c10#个，可以用它们换取9种水果中的一种用于博物馆陈列。双击使用。"/>
+	</imgdir>
+    <imgdir name="2431057">
+		<string name="name" value="化石碎片"/>
+		<string name="desc" value="化石碎片。如果你收集#c10#个，可以用它们换取9种化石中的一种用于博物馆陈列。双击使用。"/>
+	</imgdir>
+    <imgdir name="2431058">
+		<string name="name" value="博物馆之王青铜"/>
+		<string name="desc" value="通过将海洋、水果和化石博物馆全部填满#c一次#获得的礼物。双击检查内容。"/>
+	</imgdir>
+    <imgdir name="2431059">
+		<string name="name" value="博物馆之王白银"/>
+		<string name="desc" value="通过将海洋、水果和化石博物馆全部填满#c两次#获得的礼物。双击检查内容。"/>
+	</imgdir>
+</imgdir>

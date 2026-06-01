@@ -1,0 +1,5 @@
+<imgdir name="42101023">
+        <string name="name" value="Breath of the Unseen" />
+        <string name="desc" value="A secret power only known to the fox spirits. Nullifies enemy knock-back attacks and ignores a portion of enemy defense." />
+        <string name="h" value="Duration: #time, Enemy DEF Ignored: #x%, Knock-Back Resist Chance: #prop%" />
+    </imgdir>

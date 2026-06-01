@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="102">
+				<string name="title" value="2. 非常不像探险家的女孩" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="在探索维多利亚岛时，你遇到了一个名叫Sugar的女孩。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="她正前往魔法密林参加转职考试，但对虫子的恐惧阻碍了她的脚步。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="你轻松地解决了虫子，但Sugar又有了新的问题：她说树正在痛苦地哭喊。于是，你为树带来了药。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="你不禁好奇。Sugar害怕虫子，又能听到树的声音。她真的适合做一名探险家吗？" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="Sugar承认她也有同样的疑虑，但她说除了继续前进别无选择，因为她必须阻止即将降临冒险岛世界的灾难……" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

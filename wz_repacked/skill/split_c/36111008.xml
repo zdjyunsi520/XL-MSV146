@@ -1,0 +1,5 @@
+<imgdir name="36111008">
+        <string name="name" value="紧急补给" />
+        <string name="desc" value="消耗MP来充盈盈余能量供给！" />
+        <string name="h" value="MP Cost: #mpCon, Extra power unit charged: #x. Cooldown: #cooltime sec" />
+    </imgdir>

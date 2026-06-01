@@ -1,0 +1,241 @@
+<imgdir name="5000046">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="아루~♪"/>
+		<string name="c1_s2" value="아루우~♪"/>
+		<string name="c1_f1" value="???"/>
+		<string name="c1_f2" value="아알~"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="이렇게? 아루~"/>
+		<string name="c2_s2" value="아~ 키노는 쉬어야겠다!"/>
+		<string name="c2_s3" value="아루~♪ 편하다~"/>
+		<string name="c2_s4" value="주인님도 앉아봐~"/>
+		<string name="c2_f1" value="몰라몰라~ 키노는 그런거 몰라요~"/>
+		<string name="c2_f2" value="싫어!싫어! 키노는 앉기 싫단말야!"/>
+		<string name="c2_f3" value="지금은 쉬고 싶지 않아요~~♪"/>
+		<string name="c2_f4" value="심심하다~ 아루루~ ♪"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="주인님도 시원~~한 주스한잔?"/>
+		<string name="c3_s2" value="역시 릴렉스 체어는 편하단 말야~♪"/>
+		<string name="c3_s3" value="아루루~ 편하다♪♪"/>
+		<string name="c3_s4" value="릴렉스 체어에서 주스 한잔?"/>
+		<string name="c3_f1" value="키노는 아무데나 앉지 않아!"/>
+		<string name="c3_f2" value="키노는 주인님 따라 다닐래!"/>
+		<string name="c3_f3" value="아루루~싫어요!"/>
+		<string name="c3_f4" value="지금은 앉고 싶지 않은걸?"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="키노는 조금 쉴래! 주인님도 앉아~"/>
+		<string name="c4_s2" value="아휴 편하다~ 주스도 한잔 할까?"/>
+		<string name="c4_s3" value="키노는 주스를 한잔하고 있을게요!"/>
+		<string name="c4_s4" value="편히 낮잠이나 자볼까~"/>
+		<string name="c4_f1" value="아루루~싫어요!"/>
+		<string name="c4_f2" value="키노는 앉고싶지 않은데요?"/>
+		<string name="c4_f3" value="안해!안해! 키노는 앉기 싫어!"/>
+		<string name="c4_f4" value="아루루~ 뭐라고?"/>
+		<string name="c5" value="slap | no | bad | don't"/>
+		<string name="c5_s1" value="아루루..."/>
+		<string name="c5_s2" value=".. 아루.."/>
+		<string name="c5_f1" value="Yes?"/>
+		<string name="c5_f2" value="Yeeees?"/>
+		<string name="c6" value="slap | no | bad | don't"/>
+		<string name="c6_s1" value="으아앙~ 아루우~"/>
+		<string name="c6_s2" value="귀여운 키노한테 왜이래요!! 엉엉~"/>
+		<string name="c6_s3" value="혼내지 말아요~ 아루 ㅜㅜ"/>
+		<string name="c6_s4" value="아루루~ 잘못했어요!"/>
+		<string name="c6_f1" value="Huh?"/>
+		<string name="c6_f2" value="아루루! 뭐라고요?"/>
+		<string name="c6_f3" value="키노를 화나게 하지마!"/>
+		<string name="c6_f4" value="아루루! 그럼 키노 화낸다!"/>
+		<string name="c7" value="slap | no | bad | don't"/>
+		<string name="c7_s1" value="아악! 때리면 아파요!"/>
+		<string name="c7_s2" value="으아앙! 잘못했어요."/>
+		<string name="c7_s3" value="It hurts!"/>
+		<string name="c7_s4" value="I'm gonna hate you! Hitting is BAD!"/>
+		<string name="c7_f1" value="아루루! 키노에게 이러지 말아요!"/>
+		<string name="c7_f2" value="How dare you yell at me?"/>
+		<string name="c7_f3" value="아루루! 내가 뭘 잘못했다고!!"/>
+		<string name="c7_f4" value="으악! 나에게 화를 내다니!! 미워할테닷!"/>
+		<string name="c8" value="slap | no | bad | don't"/>
+		<string name="c8_s1" value="Don't punish me, please?"/>
+		<string name="c8_s2" value="Don't get mat at me...please..."/>
+		<string name="c8_s3" value="Kino's very sorry."/>
+		<string name="c8_s4" value="Waaah! Please don't be mad."/>
+		<string name="c8_f1" value="Did you just yell at me? HOW COULD YOU???"/>
+		<string name="c8_f2" value="What did I do wrong?"/>
+		<string name="c8_f3" value="Don't make me mad!"/>
+		<string name="c8_f4" value="How dare you yell at me?"/>
+		<string name="c9" value="poop"/>
+		<string name="c9_s1" value="Hmm..."/>
+		<string name="c9_s2" value="Hm..."/>
+		<string name="c9_f1" value="Yes?"/>
+		<string name="c9_f2" value="Yeeees?"/>
+		<string name="c10" value="poop"/>
+		<string name="c10_s1" value="아루! 시원하다~♬"/>
+		<string name="c10_s2" value="끙! "/>
+		<string name="c10_s3" value="아루루~ 살짝 부끄러워요~"/>
+		<string name="c10_s4" value="아루! 시원해요!"/>
+		<string name="c10_f1" value="It's not okay to poop at everywhere!"/>
+		<string name="c10_f2" value="키노는 화장실에서만 응가 할테얏!"/>
+		<string name="c10_f3" value="I don't need to go."/>
+		<string name="c10_f4" value="그냥 주스나 한잔 할래요!"/>
+		<string name="c11" value="poop"/>
+		<string name="c11_s1" value="아오~ 시원해요~♪"/>
+		<string name="c11_s2" value="끙차! 시원하다~♪"/>
+		<string name="c11_s3" value="아루루~ 키노 시원하다~"/>
+		<string name="c11_s4" value="응~가~ 아오 시원해♬"/>
+		<string name="c11_f1" value="I haven't eaten enough to poop."/>
+		<string name="c11_f2" value="응가는 무슨~ 시원한 주스나 한잔해야지!"/>
+		<string name="c11_f3" value="키노는 아무데서나 응가하지 않는다뭐~"/>
+		<string name="c11_f4" value="부끄러워서 못하겠어요~아루루~"/>
+		<string name="c12" value="poop"/>
+		<string name="c12_s1" value="안그래도 마려웠어요! 아루~"/>
+		<string name="c12_s2" value="부끄럽지만 그래도 한번~ 끙!"/>
+		<string name="c12_s3" value="아루루~ 시원해요!"/>
+		<string name="c12_s4" value="끙!  주인님 너무 부끄러워요~"/>
+		<string name="c12_f1" value="응가 안눌테야!"/>
+		<string name="c12_f2" value="부끄럽게 어떻게 아무데서나 응가를 해요!"/>
+		<string name="c12_f3" value="여긴 화장실도 아니잖아요!"/>
+		<string name="c12_f4" value="주인님 먼저 해보시죠!"/>
+		<string name="c13" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c13_s1" value="zz.Zzz.. 아루루~"/>
+		<string name="c13_s2" value="Hmm"/>
+		<string name="c13_f1" value="아루우?"/>
+		<string name="c13_f2" value="??"/>
+		<string name="c14" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c14_s1" value="I need some Z's."/>
+		<string name="c14_s2" value="키노는 안그래도 졸린 참이였어요. 아루루~"/>
+		<string name="c14_s3" value="I want to see you in my dreams, master."/>
+		<string name="c14_s4" value="키노는 잠꾸러기~ 냠냠~"/>
+		<string name="c14_f1" value="What?"/>
+		<string name="c14_f2" value="키노는 무슨말인지 모르겠다!"/>
+		<string name="c14_f3" value="뭐라는거야~"/>
+		<string name="c14_f4" value="Huh?"/>
+		<string name="c15" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c15_s1" value="아루루~ 졸려용~"/>
+		<string name="c15_s2" value="아루~ 키노 졸려요~"/>
+		<string name="c15_s3" value="Ah, soft comforter."/>
+		<string name="c15_s4" value="포근한 이불이 너무 좋아요~ 아루루~"/>
+		<string name="c15_f1" value="아휴~ 편하다."/>
+		<string name="c15_f2" value="키노는 졸리지 않아요!"/>
+		<string name="c15_f3" value="키노는 앉아서 쉴래요!"/>
+		<string name="c15_f4" value="Would you like a glass of cool juice?"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="키노는 잘게요~♡"/>
+		<string name="c16_s2" value="주인님 꿈꿔야지~아루루~"/>
+		<string name="c16_s3" value="포근한 이불을 덮고 키노는...꿈나라로~"/>
+		<string name="c16_s4" value="잘테니 깨우지 말아줘요~아루~zzZ"/>
+		<string name="c16_f1" value="후~ 편하다~아루루~"/>
+		<string name="c16_f2" value="역시 릴렉스 체어는 편하단 말야~♪"/>
+		<string name="c16_f3" value="편안한 의자에 앉아 시원한 주스를~ 아루~"/>
+		<string name="c16_f4" value="키노는 졸리지 않단말야~"/>
+		<string name="c17" value="talk | chat | say"/>
+		<string name="c17_s1" value="내 가방안에 뭐가 들었는지 알아? 아루~"/>
+		<string name="c17_s2" value="What are World Tree seeds?"/>
+		<string name="c17_s3" value="키노는 편안한 릴렉스 체어에서 쉬고 싶어요~"/>
+		<string name="c17_s4" value="아루! 아루루! 신나는 모험을 떠나요~♪"/>
+		<string name="c17_f1" value="♪♪♪"/>
+		<string name="c17_f2" value="몰라몰라!! 난 그런거 몰라!"/>
+		<string name="c17_f3" value="싫어! 싫어! 절대 싫어!"/>
+		<string name="c17_f4" value="뭐라고? 무슨말이이에요? 키노는 몰라요~아루루"/>
+		<string name="c18" value="talk | chat | say"/>
+		<string name="c18_s1" value="키노는 주인님과 신나는 모험을 떠나고 싶어요~♬"/>
+		<string name="c18_s2" value="아루루~ 오늘은 조금 피곤해요. 주인님은 어떠세요?"/>
+		<string name="c18_s3" value="주인님은 어쩜 그렇게 멋질 수가 있어요?"/>
+		<string name="c18_s4" value="키노는 살짝 배가 고픈것만 같아요."/>
+		<string name="c18_f1" value="I thought you were self-sufficient!"/>
+		<string name="c18_f2" value="무슨 말을 하는건지~ 아루루~"/>
+		<string name="c18_f3" value="몰라! 몰라! 키노는 모르겠어요!"/>
+		<string name="c18_f4" value="키노는 말하고 싶지 않은데요~"/>
+		<string name="c19" value="talk | chat | say"/>
+		<string name="c19_s1" value="릴렉스 체어에 앉아서 시원한 주스를 한잔하고 싶어요~"/>
+		<string name="c19_s2" value="아루~아루루~ 키노는 주인님과 함께 있어서 너~무 행복해요♡"/>
+		<string name="c19_s3" value="아루! 주인님 제가 재미난 얘기해드릴까요? 호호호 그건 다음에~"/>
+		<string name="c19_s4" value="키노는 반짝이는 돌이 너무너무 좋아요♡"/>
+		<string name="c19_f1" value="싫어! 싫어!"/>
+		<string name="c19_f2" value="안해 안해! 키노는 말하지 않을테야!"/>
+		<string name="c19_f3" value="말을 하라면...키노가 해야 하는 건가요?"/>
+		<string name="c19_f4" value="키노는 그냥 잠이나 잘래요~"/>
+		<string name="c20" value="iloveyou"/>
+		<string name="c20_s1" value="아루루~ 부끄러워요~"/>
+		<string name="c20_s2" value="아루~키노도.. 주인님을...♡"/>
+		<string name="c20_s3" value="정말요? 아루루~♡"/>
+		<string name="c20_s4" value="키노도~ 알랍~♡"/>
+		<string name="c20_f1" value="약오르지롱~"/>
+		<string name="c20_f2" value="그런건 아무한테나 하는 말이 아니라고요~"/>
+		<string name="c20_f3" value="사랑은 무슨~ 메~~롱"/>
+		<string name="c20_f4" value="고백을 하려면 반짝이는 예쁜 돌이라도 준비했어야죠!"/>
+		<string name="c21" value="iloveyou"/>
+		<string name="c21_s1" value="키노는 너무 행복해요♡"/>
+		<string name="c21_s2" value="키노 오늘 기분이 너무 좋아요^^"/>
+		<string name="c21_s3" value="키노도 사실은.. 주인님을 아루루~♡"/>
+		<string name="c21_s4" value="아루루~"/>
+		<string name="c21_f1" value="Love? What is love?"/>
+		<string name="c21_f2" value="You're lying, right?"/>
+		<string name="c21_f3" value="What?! Are you serious?"/>
+		<string name="c21_f4" value="You must be joking... Right?"/>
+		<string name="c22" value="iloveyou"/>
+		<string name="c22_s1" value="키노 마음이 컹닥컹닥 뛰잖아요~아루루"/>
+		<string name="c22_s2" value="I can't stop thinking about you, master!"/>
+		<string name="c22_s3" value="키노는 너무 설레어서 어쩔줄을 모르겠어요~"/>
+		<string name="c22_s4" value="Your words are always so sweet."/>
+		<string name="c22_f1" value="사랑은 무슨~ 주스나 한잔 할래요?"/>
+		<string name="c22_f2" value="후~ 앉아서 좀 쉬어야겠다."/>
+		<string name="c22_f3" value="주스는 뭐니뭐니해도 오렌지 주스~"/>
+		<string name="c22_f4" value="That's enough. Let's just drink some juice."/>
+		<string name="c23" value="메롱 "/>
+		<string name="c23_s1" value="메롱~메롱~"/>
+		<string name="c23_s2" value="메롱! 아루루~"/>
+		<string name="c23_s3" value="키노는 귀엽고~ 깜찍하게~ 메~롱!"/>
+		<string name="c23_s4" value="약오르지롱~"/>
+		<string name="c23_f1" value="헉! 그게 무슨말이에요!"/>
+		<string name="c23_f2" value="키노를 화나게 하지 말아요!"/>
+		<string name="c23_f3" value="그런 것 하고 싶지 않아요."/>
+		<string name="c23_f4" value="아루루~ 오늘은 하고 싶지 않아요!"/>
+		<string name="c24" value="메롱 "/>
+		<string name="c24_s1" value="메롱~메롱~"/>
+		<string name="c24_s2" value="메에~롱~ 키노는 메롱도 귀엽게!"/>
+		<string name="c24_s3" value="메롱! 약오르지~ 아루루"/>
+		<string name="c24_s4" value="키노는 메롱도 잘해요! 메~롱"/>
+		<string name="c24_f1" value="오늘은 조금 피곤하네요."/>
+		<string name="c24_f2" value="헉! 그런말 몰라요."/>
+		<string name="c24_f3" value="맛있는거나 주고 그런걸 시켜야죠~"/>
+		<string name="c24_f4" value="안해! 안해! 키노는 메롱 안해!"/>
+		<string name="c25" value="메롱 "/>
+		<string name="c25_s1" value="메롱~ 약오르지~롱"/>
+		<string name="c25_s2" value="키노는 귀엽게 메~롱"/>
+		<string name="c25_s3" value="키노의 애교 필살기! 메~롱"/>
+		<string name="c25_s4" value="메롱~ 아루루"/>
+		<string name="c25_f1" value="안해! 아루루~"/>
+		<string name="c25_f2" value="헉! 그런건 아무때나 하는게 아니라고요!"/>
+		<string name="c25_f3" value="지금은 안할거야!"/>
+		<string name="c25_f4" value="싫어! 싫어! 키노는 메롱안해!"/>
+		<string name="c26" value="transform"/>
+		<string name="c26_s1" value="아루루루루~ 짠!"/>
+		<string name="c26_s2" value="아루~아루! 뿅!"/>
+		<string name="c26_s3" value="아루루~ 변신해 볼까요?"/>
+		<string name="c26_s4" value="놀라지 말아요~ 뿅!"/>
+		<string name="c26_f1" value="변신은 무슨... "/>
+		<string name="c26_f2" value="오늘은 힘드니까 좀 쉴게요."/>
+		<string name="c26_f3" value="맨입으론 못하지~"/>
+		<string name="c26_f4" value="그게 쉬운 일이라 생각해요?"/>
+		<string name="c27" value="transform"/>
+		<string name="c27_s1" value="아루루루~ 변신!"/>
+		<string name="c27_s2" value="아루루루~ 좀비버섯으로 변신!"/>
+		<string name="c27_s3" value="온 힘을 모아서~ 아루루루! 변신성공!"/>
+		<string name="c27_s4" value="깜짝 놀라기 없기에요! 아루!"/>
+		<string name="c27_f1" value="변신도 아무때나 하면 재미 없죠~"/>
+		<string name="c27_f2" value="그런건 아무데서나 보여주는게 아니라고요!"/>
+		<string name="c27_f3" value="시도때도 없이 하면 재미잖아요?"/>
+		<string name="c27_f4" value="그냥 앉아서 좀 쉬죠?"/>
+		<string name="f1_s" value="Happy!"/>
+		<string name="f1_f" value="Yeeees?"/>
+		<string name="f2_s" value="Munch Much! Yum Yum!!"/>
+		<string name="f2_f" value="Eek! It's horrible!"/>
+		<string name="f3_s" value="Woot! So yummy! Kino's happy!"/>
+		<string name="f3_f" value="Ptooey! It tastes so bad!"/>
+		<string name="f4_s" value="꺄악! 맛있는 밥이다!! 아루루~"/>
+		<string name="f4_f" value="Blech, how could you give me such an awful thing like this"/>
+		<string name="s1" value="아루루! 아루루!"/>
+		<string name="s2" value="아루! 그런말은 나빠요!"/>
+		<string name="s3" value="나쁜말을 하면 안돼요!"/>
+		<string name="s4" value="주인님! 그런말은 나쁘잖아요! 아루루!"/>
+	</imgdir>

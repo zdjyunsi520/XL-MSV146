@@ -1,0 +1,5 @@
+<imgdir name="80000100">
+        <string name="name" value="Lv. 3 Wicked Awesome" />
+        <string name="desc" value="Your devil&apos;s wicked power boosts your Weapon Attack and Magic Attack by 7." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT +#madX" />
+    </imgdir>

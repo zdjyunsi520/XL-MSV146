@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010177">
+		<string name="name" value="Gamepad Chair"/>
+		<string name="desc" value="Settle down to some serious gaming with this great chair! Recovers 40 HP and 40 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010179">
+		<string name="name" value="Tea Time Chair"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010180">
+		<string name="name" value="Giant HP Bottle"/>
+		<string name="desc" value="Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010181">
+		<string name="name" value="Giant MP Bottle"/>
+		<string name="desc" value="Recovers 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010183">
+		<string name="name" value="Carrot Chair"/>
+		<string name="desc" value="50 HP and 50 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010184">
+		<string name="name" value="Ice Fishing"/>
+		<string name="desc" value="50 HP is restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010186">
+		<string name="name" value="Bunny Chair"/>
+		<string name="desc" value="Bunny chair that recovers HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010187">
+		<string name="name" value="Cat's Love Chair"/>
+		<string name="desc" value="Hug me tightly. Recovers 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010188">
+		<string name="name" value="Von Leon Chair"/>
+		<string name="desc" value="Recovers 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010189">
+		<string name="name" value="Xerxes Chair"/>
+		<string name="desc" value="Recovers 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010191">
+		<string name="name" value="Love Chair"/>
+		<string name="desc" value="Love chair that recovers HP/MP every 10 seconds. You need to sit facing your spouse to complete the heart."/>
+	</imgdir>
+    <imgdir name="3010194">
+		<string name="name" value="Campfire Chair"/>
+		<string name="desc" value="A campfire used for warmth and protection when camping outside.\n#cRecovers 60 HP and 30 MP every 10 seconds.#"/>
+	</imgdir>
+    <imgdir name="3010196">
+		<string name="name" value="Bubble Bath Chair"/>
+		<string name="desc" value="Recovers 15 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010197">
+		<string name="name" value="Hero's Chair-Aran"/>
+		<string name="desc" value="Recovers 50 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010198">
+		<string name="name" value="NLC Chair"/>
+		<string name="desc" value="Recovers HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010199">
+		<string name="name" value="Igloo"/>
+		<string name="desc" value="Stay in this igloo made out of ice and snow to recover 40 HP and 30 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010200">
+		<string name="name" value="Hero's Chair-Evan"/>
+		<string name="desc" value="Recovers 50 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010201">
+		<string name="name" value="Hero's Chair-Dual Blade"/>
+		<string name="desc" value="Recovers 50 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010202">
+		<string name="name" value="Underneath the Maple Tree..."/>
+		<string name="desc" value="A chair created to celebrate the Legends Awards. Recovers 35 HP and 10 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010203">
+		<string name="name" value="Pink Beach Parasol Chair"/>
+		<string name="desc" value="A pink beach chair that reminds you of sand and surf. Recovers 60 HP every 10 seconds."/>
+	</imgdir>
+</imgdir>

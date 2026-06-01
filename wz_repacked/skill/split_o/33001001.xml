@@ -1,0 +1,7 @@
+<imgdir name="33001001">
+        <string name="name" value="Jaguar Rider" />
+        <string name="desc" value="Summons a tamed Jaguar for you to ride. Increases your Max HP, Critical Rate, Minimum Critical Damage, Avoidability, and Movement Speed. #c50% chance for Stance to activate when riding an Onyx Jaguar or Snow White.#" />
+        <string name="h" value="Active Effects: MP Cost: #mpCon, Max HP when mounted: #z%, Critical rate: #w%, Avoidability: #y, Speed: +#x\n[Passive Effect: Min Critical Damage: +#criticaldamageMin%]" />
+        <string name="pdesc" value="Summons a tamed Jaguar for you to ride. Increases your Max HP, Critical Rate, Minimum Critical Damage, Avoidability, and Movement Speed." />
+        <string name="ph" value="Active Effects: MP Cost: #mpCon, Max HP when mounted: #z%, Critical rate: #w%, Avoidability: #y, Speed: +#x\n[Passive Effect: Min Critical Damage: +#criticaldamageMin%]" />
+    </imgdir>

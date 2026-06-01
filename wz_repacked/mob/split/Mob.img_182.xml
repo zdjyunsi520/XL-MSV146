@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300674">
+		<string name="name" value="Slime"/>
+	</imgdir>
+    <imgdir name="9300675">
+		<string name="name" value="Cube Slime"/>
+	</imgdir>
+    <imgdir name="9300676">
+		<string name="name" value="Cherry Bubble Tea"/>
+	</imgdir>
+    <imgdir name="9300677">
+		<string name="name" value="Snowman"/>
+	</imgdir>
+    <imgdir name="9300678">
+		<string name="name" value="Syrup Baron"/>
+	</imgdir>
+    <imgdir name="9300679">
+		<string name="name" value="Tasteburner"/>
+	</imgdir>
+    <imgdir name="9300680">
+		<string name="name" value="Mr. Chomps"/>
+	</imgdir>
+    <imgdir name="9300681">
+		<string name="name" value="Trash Can"/>
+	</imgdir>
+    <imgdir name="9300682">
+		<string name="name" value="DF Android"/>
+	</imgdir>
+    <imgdir name="2400100">
+		<string name="name" value="Blue Speeyor"/>
+	</imgdir>
+    <imgdir name="2400101">
+		<string name="name" value="Red Speeyor"/>
+	</imgdir>
+    <imgdir name="2400102">
+		<string name="name" value="Yellow Speeyor"/>
+	</imgdir>
+    <imgdir name="2400103">
+		<string name="name" value="Dinogoth"/>
+	</imgdir>
+    <imgdir name="2400104">
+		<string name="name" value="Dinoram"/>
+	</imgdir>
+    <imgdir name="2400105">
+		<string name="name" value="Dinodon"/>
+	</imgdir>
+    <imgdir name="2400106">
+		<string name="name" value="Specter Battle Hound"/>
+	</imgdir>
+    <imgdir name="2400107">
+		<string name="name" value="Specter Tamer"/>
+	</imgdir>
+    <imgdir name="2400108">
+		<string name="name" value="Specter Miner"/>
+	</imgdir>
+    <imgdir name="2400109">
+		<string name="name" value="Specter Shieldbearer"/>
+	</imgdir>
+    <imgdir name="2400110">
+		<string name="name" value="Guerrilla Specter"/>
+	</imgdir>
+</imgdir>

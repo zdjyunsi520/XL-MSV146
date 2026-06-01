@@ -1,0 +1,7 @@
+<imgdir name="14111008">
+        <string name="name" value="Shade Splitter" />
+        <string name="desc" value="Double-strikes nearby enemies with a shadow clone technique." />
+        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Double-strikes nearby enemies with a shadow clone technique." />
+        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

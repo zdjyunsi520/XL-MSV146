@@ -1,0 +1,101 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="200010300">
+			<imgdir name="eliza">
+				<string name="Title" value="贤猫王"/>
+				<imgdir name="Npc">
+					<string name="0" value="Eliza"/>
+				</imgdir>
+    <imgdir name="140000000">
+			<string name="west00" value="雷恩西边的场地"/>
+		</imgdir>
+    <imgdir name="140010000">
+			<imgdir name="east00">
+				<string name="Title" value="雷恩"/>
+				<imgdir name="Npc">
+					<string name="0" value="Lilin"/>
+					<string name="1" value="Giant Polearm"/>
+					<string name="2" value="Pusla"/>
+					<string name="3" value="Puno"/>
+					<string name="4" value="Puri Puri"/>
+					<string name="6" value="Gaga"/>
+					<string name="7" value="Cassandra"/>
+					<string name="5" value="Maple Administrator"/>
+				</imgdir>
+    <imgdir name="west00">
+				<string name="Title" value="雷恩训练中心入口"/>
+				<imgdir name="Npc">
+					<string name="0" value="Puo"/>
+				</imgdir>
+    <imgdir name="140030000">
+			<string name="in00" value="欲望之镜"/>
+		</imgdir>
+    <imgdir name="140010200">
+			<string name="in00" value="镜子洞穴"/>
+		</imgdir>
+    <imgdir name="140020200">
+			<imgdir name="east00">
+				<string name="Title" value="企鹅港口"/>
+				<imgdir name="Npc">
+					<string name="0" value="Puro"/>
+				</imgdir>
+    <imgdir name="914020000">
+			<string name="out00" value="与马哈的战斗"/>
+		</imgdir>
+    <imgdir name="211050000">
+			<string name="in00" value="骑手的场地"/>
+		</imgdir>
+    <imgdir name="211060000">
+			<string name="east00" value="城堡入口"/>
+		</imgdir>
+    <imgdir name="211060200">
+			<string name="up00" value="第一塔的屋顶"/>
+			<imgdir name="east00">
+				<string name="Title" value="城墙下2"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210001"/>
+				</imgdir>
+    <imgdir name="211060400">
+			<string name="up00" value="第二塔的屋顶"/>
+			<imgdir name="east00">
+				<string name="Title" value="城墙下3"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210002"/>
+				</imgdir>
+    <imgdir name="out00">
+				<string name="Title" value="短城墙1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210004"/>
+				</imgdir>
+    <imgdir name="211060600">
+			<string name="up00" value="第三塔的屋顶"/>
+			<imgdir name="east00">
+				<string name="Title" value="城墙下4"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210003"/>
+				</imgdir>
+    <imgdir name="out01">
+				<string name="Title" value="短城墙2"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210004"/>
+				</imgdir>
+    <imgdir name="out10">
+				<string name="Title" value="长城墙1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210005"/>
+				</imgdir>
+    <imgdir name="211061000">
+			<imgdir name="east00">
+				<string name="Title" value="阿尼的监狱"/>
+				<imgdir name="Mob">
+					<string name="0" value="8210013"/>
+				</imgdir>
+    <imgdir name="211070000">
+			<string name="lionCastleenter" value="谒见室"/>
+		</imgdir>
+    <imgdir name="211070100">
+			<string name="lioncastleout" value="谒见室走廊"/>
+		</imgdir>
+    <imgdir name="211070101">
+			<string name="out00" value="谒见室"/>
+		</imgdir>
+</imgdir>

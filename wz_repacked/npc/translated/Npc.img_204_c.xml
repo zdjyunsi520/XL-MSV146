@@ -1,0 +1,97 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390342">
+		<string name="name" value="莱"/>
+		<string name="d0" value="你需要什么，孩子？"/>
+		<string name="d1" value="你需要什么，孩子？"/>
+	</imgdir>
+    <imgdir name="9390343">
+		<string name="name" value="埃卡"/>
+		<string name="d0" value="我正在这里梳理羽毛！"/>
+		<string name="d1" value="我正在这里梳理羽毛！"/>
+	</imgdir>
+    <imgdir name="9390344">
+		<string name="name" value="犹他"/>
+		<string name="n0" value="埃文什么时候来？"/>
+		<string name="n1" value="建房子总是要这么久吗？"/>
+		<string name="d0" value="救命！救救我！"/>
+		<string name="d1" value="感谢你之前的帮助。回头见！"/>
+	</imgdir>
+    <imgdir name="9390346">
+		<string name="name" value="维姬"/>
+		<string name="d0" value="我-我需要买...所有东西。"/>
+		<string name="d1" value="我-我需要买...所有东西。"/>
+	</imgdir>
+    <imgdir name="9390347">
+		<string name="name" value="文森特"/>
+		<string name="d0" value="你看到维姬看我的眼神了吗？完全爱上我了。"/>
+		<string name="d1" value="你看到维姬看我的眼神了吗？完全爱上我了。"/>
+	</imgdir>
+    <imgdir name="9390348">
+		<string name="name" value="维克多"/>
+		<string name="d0" value="在维姬看到你之前赶紧离开。"/>
+		<string name="d1" value="在维姬看到你之前赶紧离开。"/>
+	</imgdir>
+    <imgdir name="9390349">
+		<string name="name" value="维姬"/>
+	</imgdir>
+    <imgdir name="9390350">
+		<string name="name" value="文森特"/>
+		<string name="d0" value="你看到维姬看我的眼神了吗？完全爱上我了。"/>
+		<string name="d1" value="你看到维姬看我的眼神了吗？完全爱上我了。"/>
+	</imgdir>
+    <imgdir name="9390253">
+		<string name="name" value="大师菲娅梅塔"/>
+		<string name="n0" value="你想变得富有吗？因为我想。"/>
+		<string name="n1" value="航行并不总是一帆风顺。"/>
+		<string name="d0" value="我能帮你吗？"/>
+	</imgdir>
+    <imgdir name="9390351">
+		<string name="name" value="维克多"/>
+	</imgdir>
+    <imgdir name="9390352">
+		<string name="name" value="杜格"/>
+		<string name="d0" value="如果你想拥有未来，就必须了解过去。"/>
+		<string name="d1" value="如果你想拥有未来，就必须了解过去。"/>
+	</imgdir>
+    <imgdir name="9390353">
+		<string name="name" value="金丝雀"/>
+		<string name="d0" value="神器就像时光机！它们让你得以一瞥过去。"/>
+		<string name="d1" value="神器就像时光机！它们让你得以一瞥过去。"/>
+	</imgdir>
+    <imgdir name="9390354">
+		<string name="name" value="米娜"/>
+		<string name="d0" value="哪里？哪里？等等...等等，这不是吗？"/>
+		<string name="d1" value="哪里？哪里？等等...等等，这不是吗？"/>
+	</imgdir>
+    <imgdir name="9390355">
+		<string name="name" value="诺冯·莱昂"/>
+		<string name="d0" value="我是所有乞丐之王。你愿意承认吗？"/>
+		<string name="d1" value="我是所有乞丐之王。你愿意承认吗？"/>
+	</imgdir>
+    <imgdir name="9390356">
+		<string name="name" value="阿尔方斯·怀特"/>
+		<string name="d0" value="奥比斯的云朵蓬松洁白，就像我一样！"/>
+		<string name="d1" value="奥比斯的云朵蓬松洁白，就像我一样！"/>
+	</imgdir>
+    <imgdir name="9390357">
+		<string name="name" value="阿尔方斯·雷德"/>
+		<string name="d0" value="奥比斯的花朵娇嫩粉红，就像我一样！"/>
+		<string name="d1" value="奥比斯的花朵娇嫩粉红，就像我一样！"/>
+	</imgdir>
+    <imgdir name="9390358">
+		<string name="name" value="阿尔方斯·布鲁"/>
+		<string name="d0" value="奥比斯的天空清澈湛蓝，就像我一样！"/>
+		<string name="d1" value="奥比斯的天空清澈湛蓝，就像我一样！"/>
+	</imgdir>
+    <imgdir name="9390359">
+		<string name="name" value="奥丁森"/>
+	</imgdir>
+    <imgdir name="9390360">
+		<string name="name" value="诺冯·莱昂"/>
+	</imgdir>
+    <imgdir name="9390361">
+		<string name="name" value="穆德里"/>
+		<string name="d0" value="有时候独自一人会很艰难。"/>
+		<string name="d1" value="有时候独自一人会很艰难。"/>
+	</imgdir>
+</imgdir>

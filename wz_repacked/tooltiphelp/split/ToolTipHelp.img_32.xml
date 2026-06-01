@@ -1,0 +1,73 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Platform to Ariant"/>
+			</imgdir>
+    <imgdir name="200082300">
+			<imgdir name="0">
+				<string name="Title" value="Sea Interchange"/>
+			</imgdir>
+    <imgdir name="211000200">
+			<imgdir name="0">
+				<string name="Title" value="Orbis Tower"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="ElNath"/>
+			</imgdir>
+    <imgdir name="211041100">
+			<imgdir name="1">
+				<string name="Title" value="Dead Tree's Forest II"/>
+			</imgdir>
+    <imgdir name="211041200">
+			<imgdir name="1">
+				<string name="Title" value="Dead tree;s forest I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Dead tree;s forest III"/>
+			</imgdir>
+    <imgdir name="211040600">
+			<imgdir name="0">
+				<string name="Title" value="Road to Lion King's Castle"/>
+			</imgdir>
+    <imgdir name="222010101">
+			<imgdir name="0">
+				<string name="Title" value="Small pond"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Tiger forest II"/>
+			</imgdir>
+    <imgdir name="222010102">
+			<imgdir name="0">
+				<string name="Title" value="Tiger forest II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="※Prohibited to proceed "/>
+			</imgdir>
+    <imgdir name="230010100">
+			<imgdir name="0">
+				<string name="Title" value="Sea Interchange"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Red Coral Forest"/>
+			</imgdir>
+    <imgdir name="230010200">
+			<imgdir name="0">
+				<string name="Title" value="Crystal Valley"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Turban Shell Hill"/>
+			</imgdir>
+    <imgdir name="230010300">
+			<imgdir name="0">
+				<string name="Title" value="Red Coral Forest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Western Sea Crossroad"/>
+			</imgdir>
+    <imgdir name="260000000">
+			<imgdir name="0">
+				<string name="Title" value="Outside the Ariant West Gate"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Post Ware House"/>
+			</imgdir>
+</imgdir>

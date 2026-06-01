@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2291022">
+		<string name="name" value="[Mastery Book] Staff Expert 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cStaff Expert# to 20.\nJob: Battle Mage (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291023">
+		<string name="name" value="[Mastery Book] Staff Expert 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cStaff Expert# to 30.\nJob: Battle Mage (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291024">
+		<string name="name" value="[Special Mastery Book] Staff Expert 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cStaff Expert# to 30.\nJob: Battle Mage (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290390">
+		<string name="name" value="[Special Mastery Book] Giant Robot SG-88 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cGiant Robot SG-88# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290391">
+		<string name="name" value="[Special Mastery Book] Missile Tank 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMissile Tank# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290392">
+		<string name="name" value="[Special Mastery Book] Bots 'n Tots 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBots 'n Tots# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290393">
+		<string name="name" value="[Special Mastery Book] Amplifier Robot AF-11 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAmplifier Robot AF-11# to 20.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290394">
+		<string name="name" value="[Special Mastery Book] Laser Blast 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cLaser Blast# to 30.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290395">
+		<string name="name" value="[Special Mastery Book] Satellite Safety 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSatellite Safety# to 20.\nJob: Mechanic (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290396">
+		<string name="name" value="[Special Mastery Book] Overswing 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cOverswing# to 30.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290397">
+		<string name="name" value="[Special Mastery Book] High Mastery 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHigh Mastery# to 20.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290398">
+		<string name="name" value="[Special Mastery Book] Freeze Standing 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cFreeze Standing# to 20.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290399">
+		<string name="name" value="[Special Mastery Book] Final Blow 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cFinal Blow# to 30.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290400">
+		<string name="name" value="[Special Mastery Book] High Defense 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHigh Defense# to 20.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290401">
+		<string name="name" value="[Special Mastery Book] Combo Tempest 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCombo Tempest# to 30.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290402">
+		<string name="name" value="[Special Mastery Book] Combo Barrier 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCombo Barrier# to 30.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290403">
+		<string name="name" value="[Special Mastery Book] Advanced Final Attack 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAdvanced Final Attack# to 30.\nJob: Aran (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290404">
+		<string name="name" value="[Special Mastery Book] Illusion 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cIllusion# to 30.\nJob: Evan (9th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290405">
+		<string name="name" value="[Special Mastery Book] Flame Wheel 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cFlame Wheel# to 30.\nJob: Evan (9th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290406">
+		<string name="name" value="[Special Mastery Book] Magic Mastery 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMagic Mastery# to 30.\nJob: Evan (9th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="2135011">
+		<string name="name" value="Gawyllacs's Rune"/>
+	</imgdir>
+    <imgdir name="2135012">
+		<string name="name" value="Warrior Weapon Dummy"/>
+	</imgdir>
+    <imgdir name="2135013">
+		<string name="name" value="Magician Weapon Dummy"/>
+	</imgdir>
+    <imgdir name="2135014">
+		<string name="name" value="Bowman Weapon Dummy"/>
+	</imgdir>
+    <imgdir name="2135015">
+		<string name="name" value="Thief Weapon Dummy"/>
+	</imgdir>
+    <imgdir name="2135016">
+		<string name="name" value="Pirate Weapon Dummy"/>
+	</imgdir>
+    <imgdir name="2135017">
+		<string name="name" value="Battle Statue"/>
+	</imgdir>
+    <imgdir name="9900004">
+		<string name="name" value="Abyss Buster"/>
+		<string name="n0" value="Do your best on the Root Abyss test... cough cough... cough! cough! Cough! Argh! Gasp! Ugh... The thought of the abyss always make me choke."/>
+	</imgdir>
+    <imgdir name="9130000">
+		<string name="name" value="Takeda Shingen"/>
+		<string name="d0" value="Bah! Only cowards hide behind castle walls!"/>
+		<string name="d1" value="Quick as the wind, silent as the woods! Fierce as the fire, unmoving as the mountains!"/>
+		<string name="n0" value="Bah! Only cowards hide behind castle walls!"/>
+		<string name="n1" value="Quick as the wind, silent as the woods! Fierce as the fire, unmoving as the mountains!"/>
+	</imgdir>
+    <imgdir name="9130001">
+		<string name="name" value="Sanada Yukimura"/>
+		<string name="d0" value="Oda's got a million soldiers, and not a single MAN."/>
+		<string name="d1" value="I am the spear that pierces the darkness!"/>
+		<string name="n0" value="Oda's got a million soldiers, and not a single MAN."/>
+		<string name="n1" value="I am the spear that pierces the darkness!"/>
+	</imgdir>
+    <imgdir name="9130002">
+		<string name="name" value="Neinheart"/>
+		<string name="d0" value="Do you have what it takes to put your life on the line for the good of Maple World?"/>
+		<string name="d1" value="As a Cygnus Knight, your duty comes first."/>
+		<string name="n0" value="I will not abandon them."/>
+		<string name="n1" value="The army equipment budget for this quarter is..."/>
+		<string name="func" value="Prime Minister"/>
+	</imgdir>
+    <imgdir name="9130003">
+		<string name="name" value="Cygnus"/>
+		<string name="d0" value="Welcome to Ereve."/>
+		<string name="d1" value="May you find the strength and wisdom to defeat the Black Mage."/>
+		<string name="func" value="Empress"/>
+	</imgdir>
+    <imgdir name="9130004">
+		<string name="name" value="Takeda Shingen"/>
+		<string name="d0" value="Bah! Only cowards hide behind castle walls!"/>
+		<string name="d1" value="Quick as the wind, silent as the woods! Fierce as the fire, unmoving as the mountains!"/>
+		<string name="n0" value="Bah! Only cowards hide behind castle walls!"/>
+		<string name="n1" value="Quick as the wind, silent as the woods! Fierce as the fire, unmoving as the mountains!"/>
+	</imgdir>
+    <imgdir name="9130005">
+		<string name="name" value="Uesugi Kenshin"/>
+		<string name="d0" value="Stand up straight. Straighter!"/>
+		<string name="d1" value="May you have loyal friends and worthy enemies."/>
+		<string name="n0" value="Stand up straight. Straighter!"/>
+		<string name="n1" value="May you have loyal friends and worthy enemies."/>
+	</imgdir>
+    <imgdir name="9130006">
+		<string name="name" value="Mouri Motonari"/>
+		<string name="d0" value="Oda can have the country, if he'd just leave me alone!"/>
+		<string name="d1" value="Waste not, want not."/>
+		<string name="n0" value="Oda can have the country, if he'd just leave me alone!"/>
+		<string name="n1" value="Waste not, want not."/>
+	</imgdir>
+    <imgdir name="9130007">
+		<string name="name" value="Tsuchimikado Haruaki"/>
+		<string name="d0" value="Well, well, well. What to do, what to do?"/>
+		<string name="d1" value="You're no ordinary pup, are you?"/>
+		<string name="n0" value="Well, well, well. What to do, what to do?"/>
+		<string name="n1" value="You're no ordinary pup, are you?"/>
+	</imgdir>
+    <imgdir name="9130008">
+		<string name="name" value="Mouri Motonari"/>
+		<string name="d0" value="Oda can have the country, if he'd just leave me alone!"/>
+		<string name="d1" value="Waste not, want not."/>
+		<string name="n0" value="Oda can have the country, if he'd just leave me alone!"/>
+		<string name="n1" value="Waste not, want not."/>
+	</imgdir>
+    <imgdir name="9130009">
+		<string name="name" value="Uesugi Kenshin"/>
+		<string name="d0" value="Stand up straight. Straighter!"/>
+		<string name="d1" value="May you have loyal friends and worthy enemies."/>
+		<string name="n0" value="Stand up straight. Straighter!"/>
+		<string name="n1" value="May you have loyal friends and worthy enemies."/>
+	</imgdir>
+    <imgdir name="9130010">
+		<string name="name" value="Tsuchimikado Haruaki"/>
+		<string name="d0" value="Hello."/>
+	</imgdir>
+    <imgdir name="9130011">
+		<string name="name" value="Mouri Supplier"/>
+		<string name="d0" value="....."/>
+		<string name="d1" value="....."/>
+		<string name="n0" value="Get your Mouri Clan supplies here!"/>
+	</imgdir>
+</imgdir>

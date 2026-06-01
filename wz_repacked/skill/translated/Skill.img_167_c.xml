@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="40011066"><string name="name" value="外星人近战攻击"/><string name="desc" value="外星人的近战攻击"/><string name="h1" value="外星人的近战攻击"/></imgdir>
+    <imgdir name="40010067"><string name="name" value="岛田之心"/><string name="desc" value="根据自身防御力永久提升攻击伤害。"/><string name="h" value="永久伤害提升：0.5%，防御力：+100（当前伤害提升：#dam%）"/></imgdir>
+    <imgdir name="40011067"><string name="name" value="外星人远程攻击"/><string name="desc" value="外星人的远程攻击"/><string name="h1" value="外星人的远程攻击"/></imgdir>
+    <imgdir name="40010073"><string name="name" value="女皇的祝福"/><string name="desc" value="最高等级的冒险骑士团或米哈逸角色每5级赋予此技能1个技能点。精灵的祝福和女皇的祝福不会叠加，只取较高效果。\r\n根据冒险骑士团或米哈逸角色的贵族精神技能，此技能最高可达30级。"/><string name="h" value="物理攻击力：+#x，魔法攻击力：+#y，命中值、回避值：+#z"/></imgdir>
+    <imgdir name="40011162"><string name="name" value="巴洛古的炼狱之火"/><string name="desc" value="召唤巴洛古的灵魂，用猛烈的炼狱之火焚烧画面中的所有敌人。"/><string name="h" value="对15名敌人造成2000%伤害。暴击率+20%，冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011163"><string name="name" value="暗黑龙的烈焰吐息"/><string name="desc" value="召唤暗黑龙的灵魂，用火焰洗礼周围的敌人。被攻击的敌人将持续受到火焰伤害。"/><string name="h1" value="对15名敌人造成3000%伤害。暴击率+20%，10秒内每秒持续伤害，冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011164"><string name="name" value="雷克斯的冲锋"/><string name="desc" value="召唤雷克斯的灵魂，瞬间歼灭前方的敌人。对Boss怪物造成正常伤害。"/><string name="h1" value="瞬间消灭普通怪物，对Boss怪物造成900%伤害。冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011165"><string name="name" value="阿尼的审判"/><string name="desc" value="召唤阿尼的灵魂，用无视防御的强力铁锤碾压敌人。"/><string name="h1" value="对1名敌人造成4000%伤害。暴击率+40%，无视敌人防御，冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011171"><string name="name" value="龙骑手的能量吐息"/><string name="desc" value="召唤龙骑手的灵魂，用强大的能量冲击波轰炸前方敌人。被击中的敌人将持续受到伤害。"/><string name="h1" value="对15名敌人造成2000%伤害。暴击率+40%，10秒内300%持续伤害，冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011172"><string name="name" value="凡雷恩的狮斩"/><string name="desc" value="召唤凡雷恩的灵魂，对敌人发动毁灭性一击，无视其防御。"/><string name="h1" value="可以装备比你当前等级高#x级的物品。"/></imgdir>
+    <imgdir name="40011173"><string name="name" value="扎昆的冲天之焰"/><string name="desc" value="召唤扎昆的灵魂，用冲天火焰焚烧周围的敌人。被击中的敌人将持续受到火焰伤害。"/><string name="h1" value="对15名敌人造成3000%伤害。暴击率+20%，10秒内每秒持续伤害，冷却时间10分钟。"/></imgdir>
+    <imgdir name="40011174"><string name="name" value="摇滚之魂的毁灭打击"/><string name="desc" value="召唤摇滚之魂2分钟，击晕附近的敌人。"/><string name="h1" value="对15名敌人造成500%伤害的眩晕攻击。持续2分钟，冷却时间15分钟。"/></imgdir>
+    <imgdir name="40011175"><string name="name" value="武公的绝对毁灭"/><string name="desc" value="从武公的灵魂中汲取力量，30秒内使普通攻击伤害翻倍。"/><string name="h" value="伤害x2，持续30秒，冷却时间15分钟。"/></imgdir>
+    <imgdir name="40011176"><string name="name" value="品克缤的超痛地带"/><string name="desc" value="召唤品克缤的灵魂2分钟，对附近敌人造成巨大伤害。"/><string name="h1" value="对15名敌人造成1500%伤害。持续2分钟，冷却时间15分钟。"/></imgdir>
+    <imgdir name="40011177"><string name="name" value="怪物陷阱"/><string name="desc" value="困住怪物。"/><string name="h1" value="怪物陷阱就绪"/></imgdir>
+    <imgdir name="40011179"><string name="name" value="白天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在白天使之祝福中的白天使。"/><string name="h1" value="消耗MP：100"/></imgdir>
+    <imgdir name="40010180"><string name="name" value="白天使之祝福"/><string name="desc" value="[最高等级：1] 获得白天使的祝福。"/><string name="h1" value="物理攻击力：+12，魔法攻击力：+12，持续时间：10分钟"/></imgdir>
+    <imgdir name="40018000"><string name="name" value="超级速度"/><string name="desc" value="[隐藏道具技能]\n在一定时间内提升移动速度和跳跃力。"/><string name="h1" value="MP-50，移动速度+20，跳跃力+10，持续时间：200秒。"/></imgdir>
+    <imgdir name="40018001"><string name="name" value="超级神秘之门"/><string name="desc" value="[隐藏道具技能]\n生成通往最近城镇的传送门。在门消失之前可以自由进出。站在传送门上按方向键上键即可使用。"/><string name="h1" value="MP-120，需要：魔法石头2个，传送门持续时间：120秒。"/></imgdir>
+    <imgdir name="40018002"><string name="name" value="超级锐利之眼"/><string name="desc" value="[潜能技能]\n能够洞察敌人的弱点，给予致命伤害。"/><string name="h1" value="消耗MP：80，暴击率：+10%，最大暴击伤害：+15%，持续时间：240秒"/></imgdir>
+</imgdir>

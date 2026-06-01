@@ -1,0 +1,5 @@
+<imgdir name="112001006">
+        <string name="name" value="Majestic Trumpet" />
+        <string name="desc" value="The bear uses the power of nature to ignite a fire. Enemies caught in the blaze take damage." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Duration: #time sec." />
+    </imgdir>

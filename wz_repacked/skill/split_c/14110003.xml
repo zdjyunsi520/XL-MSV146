@@ -1,0 +1,5 @@
+<imgdir name="14110003">
+        <string name="name" value="炼金术士" />
+        <string name="desc" value="提升药水等恢复道具的效果并延长其持续时间。基于百分比的恢复道具（如万能药）不受影响。" />
+        <string name="h" value="恢复率：+#x%，持续时间：+#y%" />
+    </imgdir>

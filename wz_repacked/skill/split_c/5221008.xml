@@ -1,0 +1,7 @@
+<imgdir name="5221008">
+        <string name="name" value="战舰鱼雷" />
+        <string name="desc" value="发射穿透怪物的硬化炮弹！只有在战舰上才能使用。\n需要技能：#c战舰 Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="发射穿透怪物的硬化炮弹！只有在战舰上才能使用。\n需要技能：#c战舰 Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

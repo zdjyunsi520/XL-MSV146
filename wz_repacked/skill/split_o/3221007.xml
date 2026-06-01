@@ -1,0 +1,5 @@
+<imgdir name="3221007">
+        <string name="name" value="Snipe" />
+        <string name="desc" value="Fire a carefully aimed shot for a chance to defeat an enemy with a single arrow. Boss monsters resist this effect, but still take severe damage." />
+        <string name="h" value="MP Cost: #mpCon, instantly KO normal monsters. Damage dealt to boss monster: #damage%. Ignored Mob Defense Rate: #ignoreMobpdpR%, Addtional Critical Rate: #cr%\nCooldown: #cooltime sec" />
+    </imgdir>

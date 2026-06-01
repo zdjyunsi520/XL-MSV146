@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="208">
+				<string name="title" value="8. 魔法师英雄埃文" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="你的任务是去找埃文谈谈，所以你前往射手村的一个农场。当埃文的哥哥迎接你时，另一个男孩骑着一条龙呼啸而来。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="虽然埃文自己对封印石了解不多，但他从他的龙朋友阿夫里恩那里收集了一些信息。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="虽然你得为这些信息跑一趟小差事……" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="你和埃文互相感叹对方多么年轻，然后你返回了冒险岛。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="当其他人重新汇合时，你整理出了这些知识：" />
+					</imgdir>
+					<imgdir name="5">
+						<string name="text" value="#e冒险岛没有封印石。#n" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2100314">
+		<string name="desc" value="Summons Master Rellik."/>
+		<string name="name" value="Master Rellik Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100315">
+		<string name="desc" value="Summons Master Rellik."/>
+		<string name="name" value="Master Rellik Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100316">
+		<string name="desc" value="Summons Master Hsalf."/>
+		<string name="name" value="Master Hsalf Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100317">
+		<string name="desc" value="Summons Master Hsalf."/>
+		<string name="name" value="Master Hsalf Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100318">
+		<string name="desc" value="Summons Master Gawyllacs."/>
+		<string name="name" value="Master Gawyllacs Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2100319">
+		<string name="desc" value="Summons Master Gawyllacs."/>
+		<string name="name" value="Master Gawyllacs Summoning Sack"/>
+	</imgdir>
+    <imgdir name="2210116">
+		<string name="desc" value="A potion made by Mr. Do to make anyone smarter.\n#c*Warning: Drink at your own risk.#"/>
+		<string name="name" value="Suspicious Red Potion"/>
+	</imgdir>
+    <imgdir name="2210117">
+		<string name="desc" value="A potion made by Mr. Do to cure all ailments.\n#c*Warning: Drink at your own risk.#"/>
+		<string name="name" value="Suspicious Blue Potion"/>
+	</imgdir>
+    <imgdir name="2210118">
+		<string name="desc" value="Changes your appearance to that of sheep.#c* Warning: While transformed, your Speed is the same as a sheep.#"/>
+		<string name="name" value="Sheep Transformation"/>
+	</imgdir>
+    <imgdir name="2210120">
+		<string name="desc" value="Transforms you into Hilla for 10 minutes.\n#c* Warning: You cannot climb ladders or ropes while transformed.#"/>
+		<string name="name" value="Hilla Metamorph Potion"/>
+	</imgdir>
+    <imgdir name="2210121">
+		<string name="desc" value="Transforms you into Magnus for 10 minutes.\n#c* Warning: You cannot climb ladders or ropes while transformed.#"/>
+		<string name="name" value="Magnus Metamorph Potion"/>
+	</imgdir>
+    <imgdir name="2210122">
+		<string name="desc" value="Transforms you into Von Leon for 10 minutes.\n#c* Warning: You cannot climb ladders or ropes while transformed.#"/>
+		<string name="name" value="Von Leon Metamorph Potion"/>
+	</imgdir>
+    <imgdir name="2210123">
+		<string name="desc" value="Transforms you into Arkarium for 10 minutes.\n#c* Warning: You cannot climb ladders or ropes while transformed.#"/>
+		<string name="name" value="Arkarium Metamorph Potion"/>
+	</imgdir>
+    <imgdir name="2270033">
+		<string name="desc" value="A black magnet that is carved out of a magical stone found near Kritias. #cDouble-click it near Frozen Anxieties with low HP to steal Frozen Arrows from them.#"/>
+		<string name="name" value="Black Magnet"/>
+	</imgdir>
+    <imgdir name="2290027">
+		<string name="desc" value="50% chance of increasing the Master Level of #cBig Bang# to 30.\nJob: Bishop\nCondition: Skill Level 15+"/>
+		<string name="name" value="[Mastery Book] Big Bang 30"/>
+	</imgdir>
+    <imgdir name="2270029">
+		<string name="desc" value="This rope is used for catching scorpions in the Ariant Scorpion Catch Tournament."/>
+		<string name="name" value="Scorpion Catch Rope"/>
+	</imgdir>
+    <imgdir name="2270030">
+		<string name="desc" value="A rope used to capture a tired Panda. "/>
+		<string name="name" value="Pan Capture Rope"/>
+	</imgdir>
+    <imgdir name="2270031">
+		<string name="name" value="Paper Toy Box"/>
+		<string name="desc" value="A paper box that is used to box exhausted Panda Teddies. "/>
+	</imgdir>
+    <imgdir name="2270032">
+		<string name="desc" value="Herr gave you this empty bottle. Use it to contain the flow of time."/>
+		<string name="name" value="Empty Bottle"/>
+	</imgdir>
+    <imgdir name="2290026">
+		<string name="desc" value="70% chance of increasing the Master Level of #cBig Bang# to 20.\nJob: Bishop\nCondition: Skill Level 5+"/>
+		<string name="name" value="[Mastery Book] Big Bang 20"/>
+	</imgdir>
+</imgdir>

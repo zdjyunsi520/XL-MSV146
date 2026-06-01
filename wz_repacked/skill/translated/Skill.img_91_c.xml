@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="9101007"><string name="name" value="传送"/><string name="desc" value="[最高等级：1]\n传送"/><string name="h1" value="Teleport "/></imgdir>
+    <imgdir name="9101008"><string name="name" value="极限体力"/><string name="desc" value="[最高等级：1]\n在15分钟内提升最大HP和最大MP。"/><string name="h1" value="Max HP, Max MP 60% increase."/></imgdir>
+    <imgdir name="10000012"><string name="name" value="精灵的祝福"/><string name="desc" value="你最高等级角色每10级，此技能获得1个技能点。精灵的祝福和女皇的祝福之间，只取较高的效果生效。"/><string name="h" value="Weapon ATT: +#x, Magic ATT: +#y, Accuracy, Avoidability: +#z"/></imgdir>
+    <imgdir name="10000013"><string name="name" value="助手"/><string name="desc" value="在固定时间内提升伤害。"/><string name="h1" value="Helper"/></imgdir>
+    <imgdir name="10000018"><string name="name" value="领导力"/><string name="desc" value="允许同时带领最多3只宠物。（被动技能）"/></imgdir>
+    <imgdir name="10000073"><string name="name" value="女皇的祝福"/><string name="desc" value="你最高等级的冒险骑士团或米哈逸角色每5级，此技能获得1个技能点。精灵的祝福和女皇的祝福不可叠加，只取较强的效果生效。\r\n根据你的冒险骑士团或米哈逸角色的高贵精神技能，此技能最高可达30级。"/><string name="h" value="Weapon ATT: +#x, Magic ATT: +#y, Accuracy, Avoidability: +#z"/></imgdir>
+    <imgdir name="10000074"><string name="name" value="女皇的呐喊"/><string name="desc" value="获得此技能时永久提升最大HP和最大MP。"/><string name="h" value="MaxHP and MaxMP +#x%"/></imgdir>
+    <imgdir name="10000086"><string name="name" value="大天使祝福"/><string name="desc" value="[最高等级：1] 获得大天使的祝福。"/><string name="h1" value="ATT: +5, Magic ATT: +5, Duration: 10 min"/></imgdir>
+    <imgdir name="10000088"><string name="name" value="暗黑天使祝福"/><string name="desc" value="[最高等级：1] 获得暗黑天使的祝福。"/><string name="h1" value="ATT: 10, Magic ATT: 10, Duration: 10 min"/></imgdir>
+    <imgdir name="10000091"><string name="name" value="大天使祝福"/><string name="desc" value="[最高等级：1] 获得大天使的祝福。"/><string name="h1" value="ATT: +5, Magic ATT: +5, Duration: 10 min"/></imgdir>
+    <imgdir name="10000093"><string name="name" value="隐藏潜力（冒险骑士团）"/><string name="pdesc" value="在危急时刻觉醒你隐藏的潜力！"/><string name="ph" value="Deal #damage% damage to nearby enemies while HP is below #z%. Avoidability: +#y%."/></imgdir>
+    <imgdir name="10000097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令：#c攻击键#]"/><string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount"/></imgdir>
+    <imgdir name="10000099"><string name="name" value="冰冻粉碎"/><string name="pdesc" value="将斧头变成巨剑冰冻多个敌人！冰冻槽充能到#c20以上#时可使用。\n[指令：#c上+上方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Chance: #prob%, Freeze Duration: #time sec"/></imgdir>
+    <imgdir name="10000100"><string name="name" value="冰冻风暴"/><string name="pdesc" value="用冰之力量持续伤害敌人！冰冻槽充能到#c40以上#时可使用。\n[指令：#c下+右方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage% every #dotInterval sec for #dotTime sec (Up to #attackCount times), Max Monsters Hit: #mobCount,"/></imgdir>
+    <imgdir name="10000103"><string name="name" value="冰冻劈击"/><string name="pdesc" value="猛击敌人，有几率使其眩晕！冰冻槽充能到#c5以上#时可使用。\n[指令：#c下方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec"/></imgdir>
+    <imgdir name="10000104"><string name="name" value="冰冻诅咒"/><string name="pdesc" value="诅咒对手，将它们变成冰蜗牛！冰冻槽充能到#c160以上#时可使用。\n[指令：#c下+上方向键+攻击键#]"/><string name="ph" value="Ice Gauge Cost: #iceGageCon. Snail Chance: #prop%, Snail Duration: #time"/></imgdir>
+    <imgdir name="10000180"><string name="name" value="白色天使祝福"/><string name="desc" value="[最高等级：1] 获得白色天使的祝福。"/><string name="h1" value="ATT: 12, Magic ATT: 12, Duration: 10 min"/></imgdir>
+    <imgdir name="10000190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大力量！"/><string name="h" value="Permanently increases STR: #strX, DEX: #dexX, INT: #intX, LUK: #lukX, ATT: #padX, Magic ATT: #madX"/></imgdir>
+    <imgdir name="10000201"><string name="name" value="精灵的祝福强化"/><string name="desc" value="女皇的祝福强化了你的斗志。冒险骑士团角色达到30、50、70、100和120级时技能点增加1。"/><string name="h" value="Spirit&apos;s summon time: +#time sec, Attack: +#damage%"/></imgdir>
+    <imgdir name="10000202"><string name="name" value="高贵精神"/><string name="desc" value="提升女皇祝福的效果。"/><string name="h" value="Increase Empress&apos;s Blessing Master Level by #x"/></imgdir>
+</imgdir>

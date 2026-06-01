@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2044901">
+		<string name="name" value="Scroll for Gun for Attack 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044902">
+		<string name="name" value="Scroll for Gun for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044903">
+		<string name="name" value="Scroll for Gun for Attack 70%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044904">
+		<string name="name" value="Scroll for Gun for Attack 30%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044905">
+		<string name="name" value="[6th Anniversary] Scroll for Gun for ATT 40%"/>
+		<string name="desc" value="Improves Attack on Maple Anniversary Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 30%\r\nWeapon Attack: +3\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2044906">
+		<string name="name" value="Gun ATT Scroll 65%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044907">
+		<string name="name" value="Gun ATT Scroll 15%"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2044908">
+		<string name="name" value="Scroll for Gun for Attack 100%"/>
+		<string name="desc" value="Improves attack on Guns.\nSuccess rate: 100%. Weapon Attack +2, Accuracy +1"/>
+	</imgdir>
+    <imgdir name="2044909">
+		<string name="name" value="King Pepe Scroll for Gun for ATT 60%"/>
+		<string name="desc" value="Improves Attack on King Pepe Shooting Stars."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044910">
+		<string name="name" value="Scroll for Gun for Attack 50%"/>
+		<string name="desc" value="Improves attack on Guns.\nSuccess rate: 50%. Weapon Attack +5, LUK +1, DEX +1"/>
+	</imgdir>
+    <imgdir name="2045200">
+		<string name="name" value="Scroll for Dual Bowgun ATT 100%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2045201">
+		<string name="name" value="Scroll for Dual Bowgun ATT 60%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2045202">
+		<string name="name" value="Scroll for Dual Bowgun ATT 10%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2045203">
+		<string name="name" value="Dark Scroll for Dual Bowgun ATT 70%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\nAccuracy: +70\r\n#"/>
+	</imgdir>
+    <imgdir name="2045204">
+		<string name="name" value="Dark Scroll for Dual Bowgun ATT 30%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2045205">
+		<string name="name" value="Scroll for Dual Bowgun ATT 65%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2045206">
+		<string name="name" value="Scroll for Dual Bowgun ATT 15%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nDEX: +1\r\nWeapon Attack: +5\r\nAccuracy: +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2045207">
+		<string name="name" value="Scroll for Pepe King's Dual Bowgun ATT 60%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2045208">
+		<string name="name" value="Scroll for Dual Bowgun ATT 60%"/>
+		<string name="desc" value="Improves Attack on Dual Bowguns."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\nAccuracy: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2045300">
+		<string name="name" value="Scroll for Hand Cannon for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+</imgdir>

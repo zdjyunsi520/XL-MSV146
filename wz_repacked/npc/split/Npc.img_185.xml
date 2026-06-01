@@ -1,0 +1,130 @@
+<imgdir name="Npc.img">
+    <imgdir name="2400027">
+		<string name="name" value="Worena"/>
+		<string name="n0" value="Do you want to move to the Free Market?"/>
+		<string name="n1" value="If you want to trade unrestricted by the man, you should use the Free Market."/>
+		<string name="func" value="Free Market NPC"/>
+	</imgdir>
+    <imgdir name="2400999">
+		<string name="name" value="Maple Rain"/>
+		<string name="func" value="Training Instructor"/>
+	</imgdir>
+    <imgdir name="2410000">
+		<string name="name" value="Will"/>
+		<string name="func" value="Chief Commander"/>
+		<string name="d0" value="Are you hurt? Do not try to get out of treatment."/>
+		<string name="d1" value="Are you hurt? Do not try to get out of treatment."/>
+	</imgdir>
+    <imgdir name="2410001">
+		<string name="name" value="Kyson"/>
+		<string name="func" value="Defense Squad Captain"/>
+		<string name="d0" value="Don't forget, our duty is to exterminate the Darklings."/>
+		<string name="d1" value="Don't forget, our duty is to exterminate the Darklings."/>
+	</imgdir>
+    <imgdir name="2410002">
+		<string name="name" value="Lyra"/>
+		<string name="func" value="Attack Squad Captain"/>
+		<string name="d0" value="Retreat is a big no-no."/>
+		<string name="d1" value="Retreat is a big no-no."/>
+	</imgdir>
+    <imgdir name="2410003">
+		<string name="name" value="Milo"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="I'm no good at fighting! Would you handle that for me?"/>
+		<string name="d1" value="I'm no good at fighting! Would you handle that for me?"/>
+		<string name="s0" value="I wonder what's for dinner tonight."/>
+		<string name="s1" value="Ah, I want a promotion sooo baaaad."/>
+	</imgdir>
+    <imgdir name="2410004">
+		<string name="name" value="Keene"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="How long do I have to stay in this podunk village? Hmph!"/>
+		<string name="d1" value="How long do I have to stay in this podunk village? Hmph!"/>
+		<string name="s0" value="Hmph! Everything's too much of a hassle!"/>
+		<string name="s1" value="Serves you right, fool."/>
+	</imgdir>
+    <imgdir name="2410005">
+		<string name="name" value="Seamus"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="We're supposed to follow orders. That's it."/>
+		<string name="d1" value="We're supposed to follow orders. That's it."/>
+		<string name="s0" value="Everything's quiet."/>
+		<string name="s1" value="I wish I could hear the birds."/>
+	</imgdir>
+    <imgdir name="2410006">
+		<string name="name" value="Motherly Statue"/>
+		<string name="d0" value="(This statue looks so realistic... almost alive!)"/>
+		<string name="d1" value="(This statue looks so realistic... almost alive!)"/>
+	</imgdir>
+    <imgdir name="2410007">
+		<string name="name" value="Girl in Webs"/>
+	</imgdir>
+    <imgdir name="2410008">
+		<string name="name" value="Nine"/>
+	</imgdir>
+    <imgdir name="2410009">
+		<string name="name" value="Peculiar Puzzle"/>
+		<string name="d0" value="(This puzzle looks like a map, but it's very peculiar looking.)"/>
+		<string name="d1" value="(This puzzle looks like a map, but it's very peculiar looking.)"/>
+	</imgdir>
+    <imgdir name="2410010">
+		<string name="name" value="Shadow Knight"/>
+	</imgdir>
+    <imgdir name="2410011">
+		<string name="name" value="Kyson"/>
+		<string name="func" value="Defense Squad Captain"/>
+		<string name="d0" value="Don't forget, our duty is to exterminate the Darklings."/>
+		<string name="d1" value="Don't forget, our duty is to exterminate the Darklings."/>
+	</imgdir>
+    <imgdir name="2410012">
+		<string name="name" value="Milo"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="I'm no good at fighting! Would you handle that for me?"/>
+		<string name="d1" value="I'm no good at fighting! Would you handle that for me?"/>
+		<string name="s0" value="I wonder what's for dinner tonight."/>
+		<string name="s1" value="Ah, I want a promotion sooo baaaad."/>
+	</imgdir>
+    <imgdir name="2410013">
+		<string name="name" value="Keene"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="How long do I have to stay in this podunk village? Hmph!"/>
+		<string name="d1" value="How long do I have to stay in this podunk village? Hmph!"/>
+		<string name="s0" value="Hmph! Everything's too much of a hassle!"/>
+		<string name="s1" value="Serves you right, fool."/>
+	</imgdir>
+    <imgdir name="2410014">
+		<string name="name" value="Seamus"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="We're supposed to follow orders. That's it."/>
+		<string name="d1" value="We're supposed to follow orders. That's it."/>
+		<string name="s0" value="Everything's quiet."/>
+		<string name="s1" value="I wish I could hear the birds."/>
+	</imgdir>
+    <imgdir name="2411000">
+		<string name="name" value="Tatamo"/>
+		<string name="func" value="Chief"/>
+		<string name="s0" value="Welcome to Leafre, the town of Halflingers!"/>
+		<string name="s1" value="Be careful with the dragon egg!"/>
+		<string name="d0" value="I've lived a long life, but I simply can't make this decision on my own."/>
+		<string name="d1" value="How'd you get Rex's signature?"/>
+	</imgdir>
+    <imgdir name="2411001">
+		<string name="name" value="Pam"/>
+		<string name="s0" value="Do Re Mi Fa Sol La Si Do!"/>
+		<string name="s1" value="I hope you have wonderful dreams from listening to my song."/>
+		<string name="d0" value="Listening to a beautiful song will hatch a beautiful baby dragon."/>
+		<string name="d1" value="Let's sing together! Doo dee doo!"/>
+	</imgdir>
+    <imgdir name="2411002">
+		<string name="name" value="Ito"/>
+		<string name="d0" value="I called dibs on this egg first! "/>
+		<string name="d1" value="I want to be a great egg caretaker like Yaku. "/>
+		<string name="s0" value="I called dibs first!"/>
+		<string name="s1" value="This egg is mine!"/>
+		<imgdir name="bubble">
+			<imgdir name="41002">
+				<imgdir name="2">
+					<string name="0" value="I feel like the egg is talking to me!"/>
+					<string name="1" value="I give the best hugs."/>
+				</imgdir>
+</imgdir>

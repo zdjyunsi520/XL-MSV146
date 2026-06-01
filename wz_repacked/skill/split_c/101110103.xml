@@ -1,0 +1,5 @@
+<imgdir name="101110103">
+        <string name="name" value="装甲裂隙" />
+        <string name="desc" value="强化重剑。攻击时有几率撕裂敌人装甲，降低敌人防御力。" />
+        <string name="h" value="贝塔攻击时#prop%几率降低目标防御力#y%，持续#time秒\n#c最多可叠加#x次#" />
+    </imgdir>

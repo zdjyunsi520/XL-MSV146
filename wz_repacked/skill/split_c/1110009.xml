@@ -1,0 +1,5 @@
+<imgdir name="1110009">
+        <string name="name" value="弱点攻击" />
+        <string name="desc" value="对处于眩晕、失明或冰冻状态的敌人造成更大伤害！" />
+        <string name="h" value="Damage (to stunned, blinded, frozen enemies): #damage%" />
+    </imgdir>

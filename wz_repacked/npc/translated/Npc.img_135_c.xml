@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000083">
+		<string name="name" value="Inkie"/>
+		<string name="func" value="8周年高级商店"/>
+		<string name="n0" value="你好！我是Inkie，Inkwell的妹妹！"/>
+		<string name="n1" value="我在8周年庆典期间帮忙。"/>
+	</imgdir>
+    <imgdir name="9000084">
+		<string name="name" value="迷路的船员"/>
+		<string name="s0" value="所以...嗯...为什么...嗯..."/>
+		<string name="s1" value="所以...我想说的是...嗯...为什么我..."/>
+		<string name="d0" value="我-我现在该怎么办？"/>
+		<string name="d1" value="请-请...帮帮我..."/>
+	</imgdir>
+    <imgdir name="9250120">
+		<string name="name" value="公共电话"/>
+		<string name="n0" value="*铃铃！*"/>
+		<string name="n1" value="*铃铃铃！*"/>
+		<string name="d0" value="(你拿起电话。)"/>
+		<string name="d1" value="(线路中断。)"/>
+		<imgdir name="quest">
+			<string name="51177" value="你好。这里是安全部门。请避免使用有线通信。"/>
+		</imgdir>
+    <imgdir name="9250121">
+		<string name="name" value="肮脏的流浪汉"/>
+		<string name="n0" value="继续走，孩子。流浪汉也值得尊重。"/>
+		<string name="n1" value="至少给我几分钱。"/>
+		<string name="d0" value="这次我就放过你，但下次，假装不认识我！"/>
+		<string name="d1" value="不接受信用卡。只收现金！"/>
+		<imgdir name="quest">
+			<string name="51178" value="哈？你又是谁？有几块金币吗？我得赶公交车。"/>
+		</imgdir>
+    <imgdir name="9250125">
+		<string name="name" value="Bing医生"/>
+		<string name="n0" value="[ Δt0 ]"/>
+		<string name="n1" value="√{ 1 - ( v/c )^2}"/>
+		<string name="d0" value="哈？除非你是来帮忙的，否则别打扰我。"/>
+		<string name="d1" value="还有很多事情要做。"/>
+		<imgdir name="quest">
+			<string name="51179" value="今天全力以赴，好吗？"/>
+			<string name="51200" value="终于！完成了！"/>
+			<string name="51206" value="现在我们有机会对抗那些外星人了！"/>
+		</imgdir>
+    <imgdir name="9250126">
+		<string name="name" value="Randall"/>
+		<string name="n0" value="我需要更多志愿者！"/>
+		<string name="n1" value="你看起来很虚弱..."/>
+		<string name="d0" value="啊！我已经想战斗了！"/>
+		<string name="d1" value="你！想当志愿者吗？"/>
+		<imgdir name="quest">
+			<string name="51180" value="干得好！回头见。"/>
+		</imgdir>
+    <imgdir name="9250130">
+		<string name="name" value="Rozz"/>
+		<string name="n0" value="嘘..."/>
+		<string name="n1" value="我不是在躲..."/>
+		<string name="d0" value="(...)"/>
+		<string name="d1" value="(...)"/>
+		<imgdir name="quest">
+			<string name="51203" value="我不怕。(我怕！)"/>
+			<string name="51205" value="我不怕。(我怕！)"/>
+		</imgdir>
+    <imgdir name="9250131">
+		<string name="name" value="Lily"/>
+		<string name="n0" value="呼..."/>
+		<string name="n1" value="这太难了。"/>
+		<string name="d0" value="*叹息。*"/>
+		<string name="d1" value="*叹息。*"/>
+		<imgdir name="quest">
+			<string name="51204" value="谢谢！把我加进你的好友列表。"/>
+		</imgdir>
+    <imgdir name="9250132">
+		<string name="name" value="Crystanol"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="我是Crystanol。"/>
+		<string name="d0" value="(Crystanol正在明亮地发光。)"/>
+	</imgdir>
+    <imgdir name="9250133">
+		<string name="name" value="首席研究员Wynn"/>
+		<string name="n1" value="..."/>
+		<string name="n0" value="如果外星人不被击败..."/>
+		<string name="d0" value="如果外星人不被击败..."/>
+		<string name="d1" value="你没在休息，是吗？"/>
+	</imgdir>
+    <imgdir name="9250135">
+		<string name="name" value="高级研究员Jett"/>
+		<string name="d0" value="我负责装备升级。"/>
+		<string name="n0" value="如果你有OSSS勋章就来这里！"/>
+		<string name="n1" value="我们的研究永无止境。"/>
+	</imgdir>
+    <imgdir name="9250140">
+		<string name="name" value="可能被绑架的科学家"/>
+		<string name="n0" value="我正在进行研究。"/>
+		<string name="n1" value="我不怕外星人！"/>
+	</imgdir>
+    <imgdir name="9250141">
+		<string name="name" value="可能被绑架的科学家"/>
+		<string name="n0" value="我正在进行研究。"/>
+		<string name="n1" value="你是谁？"/>
+	</imgdir>
+    <imgdir name="9250142">
+		<string name="name" value="可能被绑架的科学家"/>
+		<string name="n0" value="我正在进行研究。"/>
+		<string name="n1" value="我害怕外星人...只是一点点。"/>
+	</imgdir>
+    <imgdir name="9250139">
+		<string name="name" value="Crystanol合成器"/>
+		<string name="n0" value="正在合成Crystanol！"/>
+		<string name="n1" value="合成完成。"/>
+	</imgdir>
+    <imgdir name="9250144">
+		<string name="name" value="时间机器"/>
+		<string name="d0" value="时间机器运行中。"/>
+		<string name="d1" value="时间机器运行中。"/>
+	</imgdir>
+    <imgdir name="9250152">
+		<string name="name" value="OS3A机器"/>
+		<string name="n0" value="等待乘客。"/>
+		<string name="n1" value="全力运行！"/>
+	</imgdir>
+    <imgdir name="9110102">
+		<string name="name" value="Ashirazu"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="希望这个地方安全。"/>
+		<string name="n1" value="你需要药吗？"/>
+	</imgdir>
+    <imgdir name="9110103">
+		<string name="name" value="Akai"/>
+		<string name="n0" value="今天天气很好。希望不要有麻烦制造者。"/>
+		<string name="n1" value="那个老头在哪里？！"/>
+		<string name="d0" value="我叫Akai。我是Hamadaya唯一的女儿。"/>
+		<string name="d1" value="我会让爸爸恢复原样，一次治一个瘀伤。"/>
+	</imgdir>
+    <imgdir name="9110104">
+		<string name="name" value="Hyottoko"/>
+		<string name="n0" value="嘿！嘿！我是Hyottoko！"/>
+		<string name="n1" value="哇！哇！危险警报！"/>
+		<string name="d0" value="逃命吧！这里很危险！"/>
+		<string name="d1" value="逃命吧！这里很危险！"/>
+	</imgdir>
+</imgdir>

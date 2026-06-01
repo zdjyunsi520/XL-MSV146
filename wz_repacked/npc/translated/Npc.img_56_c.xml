@@ -1,0 +1,83 @@
+<imgdir name="Npc.img">
+    <imgdir name="9250012">
+		<string name="name" value="柴"/>
+		<string name="n0" value="像这样炎热的天气，游泳是最好的！不相信我？那就跳下水去！"/>
+		<string name="n1" value="如果你发现我是谁，你会非常震惊。"/>
+		<string name="d0" value="嘿，怎么了？"/>
+		<string name="d1" value="我应该时刻考虑水上市场的安全。"/>
+	</imgdir>
+    <imgdir name="9250014">
+		<string name="name" value="李村长"/>
+		<string name="n0" value="我是这个镇的村长。请告诉我任何你关心的事情。"/>
+		<string name="n1" value="我妻子的缝纫技术最好。我应该说，是世界级的。"/>
+		<string name="d0" value="我能在这里帮你什么？"/>
+		<string name="d1" value="如果你有话要说，来找我。"/>
+	</imgdir>
+    <imgdir name="9250016">
+		<string name="name" value="通"/>
+		<string name="n0" value="我最好快点修屋顶；如果雨水从这些裂缝漏进来，我们就麻烦了。"/>
+		<string name="n1" value="（叮当叮当）我需要尽快修好这个屋顶。"/>
+		<string name="d0" value="这里可能很热，这可能是一项艰巨的工作，但我，通，永远不会放弃！"/>
+		<string name="d1" value="你是来帮我修屋顶的吗？"/>
+	</imgdir>
+    <imgdir name="9250022">
+		<string name="name" value="雅布阿"/>
+		<string name="func" value="算命师"/>
+		<string name="n0" value="来点算命怎么样？"/>
+		<string name="n1" value="你不想知道你的未来吗？"/>
+		<string name="d0" value="你来这里做什么？"/>
+		<string name="d1" value="你需要什么？"/>
+	</imgdir>
+    <imgdir name="9250023">
+		<string name="name" value="水下世界枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250024">
+		<string name="name" value="冰封雪域枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250025">
+		<string name="name" value="自由市场枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250026">
+		<string name="name" value="玩具城枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250028">
+		<string name="name" value="龙提"/>
+		<string name="n0" value="啊，今天真热。我现在需要休息一下。"/>
+		<string name="n1" value="现在来一杯冰水就完美了。"/>
+		<string name="d0" value="哦，幸好你在身边。我需要你的帮助。"/>
+		<string name="d1" value="我永远不会忘记你在我真正需要帮助的时候帮助我的那一刻。"/>
+	</imgdir>
+    <imgdir name="9250042">
+		<string name="name" value="射手村枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250043">
+		<string name="name" value="废弃都市枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250044">
+		<string name="name" value="魔法密林枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250045">
+		<string name="name" value="勇士部落枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9250046">
+		<string name="name" value="天空之城枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270000">
+		<string name="name" value="阿莫里亚枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270001">
+		<string name="name" value="明珠港枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270002">
+		<string name="name" value="沉睡森林枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270003">
+		<string name="name" value="奥米伽空间站枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270004">
+		<string name="name" value="韩国民俗村枫叶电视台"/>
+	</imgdir>
+    <imgdir name="9270005">
+		<string name="name" value="神木村枫叶电视台"/>
+	</imgdir>
+</imgdir>

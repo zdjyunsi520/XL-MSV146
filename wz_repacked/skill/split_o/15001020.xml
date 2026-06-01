@@ -1,0 +1,5 @@
+<imgdir name="15001020">
+        <string name="name" value="Lightning Punch" />
+        <string name="desc" value="Throw a lightning-infused punch at enemies. Can be linked with all skills excluding Thunder and self-skills." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

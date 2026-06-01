@@ -1,0 +1,7 @@
+<imgdir name="4221001">
+        <string name="name" value="暗杀" />
+        <string name="desc" value="攻击敌人的要害4次造成极端伤害！最后一击必定暴击。在隐身术中使用可造成额外伤害。连击达到5时造成更多伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Additional damage while using Dark Sight: #x%, x2.5 damage when you have a Body Count of 5" />
+        <string name="pdesc" value="连续攻击敌人要害4次造成极大伤害。最后一击必定暴击。在隐身术中使用可造成额外伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Additional damage while using Dark Sight: #x%" />
+    </imgdir>

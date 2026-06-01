@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290243">
+		<string name="name" value="[Mastery Book]Sonic Roar 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSonic Roar# to 30.\nJob: Wild Hunter\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290244">
+		<string name="name" value="[Mastery Book]Stink Bomb Shot 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cStink Bomb Shot# to 20.\nJob: Wild Hunter\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290245">
+		<string name="name" value="Xenon's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Xenon when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290246">
+		<string name="name" value="[Mastery Book]Feline Berserk 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cFeline Berserk# to 20.\nJob: Wild Hunter\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290247">
+		<string name="name" value="[Mastery Book]Feline Berserk 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cFeline Berserk# to 30.\nJob: Wild Hunter\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290275">
+		<string name="name" value="[Mastery Book]Giant Robot SG-88 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cGiant Robot SG-88# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290276">
+		<string name="name" value="[Mastery Book]Giant Robot SG-88 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cGiant Robot SG-88# to 30.\nJob: Mechanic\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290277">
+		<string name="name" value="[Mastery Book]Metal Armor: Missile Tank 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMetal Armor: Missile Tank# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290278">
+		<string name="name" value="[Mastery Book]Metal Armor: Missile Tank 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMetal Armor: Missile Tank# to 30.\nJob: Mechanic\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290279">
+		<string name="name" value="[Mastery Book] Bots 'n Tots 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBots 'n Tots# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290280">
+		<string name="name" value="[Mastery Book] Bots 'n Tots 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBots 'n Tots# to 30.\nJob: Mechanic\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290281">
+		<string name="name" value="[Mastery Book]Amplifier: AF-11 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAmplifier: AF-11# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290282">
+		<string name="name" value="[Mastery Book]Laser Blast 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cLaser Blast# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290283">
+		<string name="name" value="[Mastery Book]Laser Blast 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cLaser Blast# to 30.\nJob: Mechanic\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290284">
+		<string name="name" value="[Mastery Book]Satellite Safety 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSatellite Safety# to 20.\nJob: Mechanic\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290285">
+		<string name="name" value="[Mastery Book] Mystery Mastery Book"/>
+		<string name="desc" value="Transforms into a random Skill Mastery Book upon use."/>
+	</imgdir>
+    <imgdir name="2290286">
+		<string name="name" value="[Event Mastery Book] Slash Storm 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSlash Storm# to 20.\nJob: Dual Blade\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290287">
+		<string name="name" value="[Event Mastery Book] Flying Assaulter 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cFlying Assaulter# to 20.\nJob: Dual Blade\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290288">
+		<string name="name" value="[Event Mastery Book] Mirror Image 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cMirror Image# to 20.\nJob: Dual Blade\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2290289">
+		<string name="name" value="[Event Mastery Book] Shadow Meld 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cShadow Meld# to 20.\nJob: Dual Blade\nCondition: Skill Level 10+"/>
+	</imgdir>
+</imgdir>

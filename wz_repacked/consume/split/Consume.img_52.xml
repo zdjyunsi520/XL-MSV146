@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022624">
+		<string name="name" value="Bloody Mushroom Wine"/>
+		<string name="desc" value="A non-alcoholic wine made by the Witch using Cursed Cat Spittle. Restore 200 MP when consumed."/>
+	</imgdir>
+    <imgdir name="2022625">
+		<string name="name" value="Slimy Canape"/>
+		<string name="desc" value="A creepy and slimy Canape that the Witch has made for you. Increases Weapon ATT and Weapon DEF +15 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022626">
+		<string name="name" value="Zingy Kebab"/>
+		<string name="desc" value="A suspiciously sharp-tasting Kebab that the Witch has made for you.  Increases Magic Attack And Magic DEF +15 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022627">
+		<string name="name" value="Swamp Wrap"/>
+		<string name="desc" value="The Witch's wrap dish that fills your mouth with the aroma of the swamp with each bite. Increases Weapon ATT and Weapon DEF +25 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022628">
+		<string name="name" value="Rough Leather Steak"/>
+		<string name="desc" value="A rough leather steak that the Witch has carefully grilled for you. Increases Magic Attack And Magic Defense +25 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022629">
+		<string name="name" value="Witch's Special Stew"/>
+		<string name="desc" value="The Witch's special stew that gives off a sour stink. Increases Weapon and Magic Attack +40, Weapons and Magic DEF +100, and Speed and Jump +15 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022631">
+		<string name="name" value="Rose Scent"/>
+		<string name="desc" value="As you are surrounded by the fragrant scent of Roses, you get a strange headache and your feet start to feel heavy. Go see Lana before the scent disappears."/>
+	</imgdir>
+    <imgdir name="2022632">
+		<string name="name" value="Freesia Scent"/>
+		<string name="desc" value="As you are surrounded by the refreshing scent of Freesias, you get a strange headache and your feet start to feel heavy. Go see Lana before the scent disappears."/>
+	</imgdir>
+    <imgdir name="2022633">
+		<string name="name" value="Lavender Scent"/>
+		<string name="desc" value="As you are surrounded by the sweet scent of Lavenders, you get a strange headache and your feet start to feel heavy. Go see Lana before the scent disappears."/>
+	</imgdir>
+    <imgdir name="2022634">
+		<string name="name" value="Turkey Leg"/>
+		<string name="desc" value="A huge roasted turkey leg. It's so big that it seems like it would take all day to finish eating.\n[Gives +30 Physical Attack for 3 minutes]"/>
+	</imgdir>
+    <imgdir name="2022637">
+		<string name="name" value="Dragon's Blessing"/>
+		<string name="desc" value="The Admin's blessing...of the dragon. Weapon ATT +5, Magic ATT +10, Weapon DEF +200, Magic DEF +200, and Movement Speed +10 for 30min."/>
+	</imgdir>
+    <imgdir name="2022642">
+		<string name="name" value="Christmas Blessing"/>
+		<string name="desc" value="A blessing that contains the joy of Christmas. Attack +5 and Magic +10 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022652">
+		<string name="name" value="Dragon Rider's Warrior Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Warrior weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022653">
+		<string name="name" value="Dragon Rider's Magician Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Magician weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022654">
+		<string name="name" value="Dragon Rider's Thief Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Thief weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022655">
+		<string name="name" value="Dragon Rider's Bowman Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Bowman weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022656">
+		<string name="name" value="Dragon Rider's Pirate Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Pirate weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2022657">
+		<string name="name" value="Cheap Guitar Case"/>
+		<string name="desc" value="A Cheap Guitar Case. You can open it by double-clicking on it. If you don't open it and let it expire, it will turn into an Expensive Guitar Case."/>
+	</imgdir>
+    <imgdir name="2022658">
+		<string name="name" value="Expensive Guitar Case"/>
+		<string name="desc" value="An Expensive Guitar Case. You can open it by double-clicking on it. If you don't open it and let it expire, it will turn into a Legendary Guitar Case."/>
+	</imgdir>
+    <imgdir name="2022659">
+		<string name="name" value="Legendary Guitar Case"/>
+		<string name="desc" value="A Legendary Guitar Case. You can open it by double-clicking on it. You should open it before it expires and disappears."/>
+	</imgdir>
+</imgdir>

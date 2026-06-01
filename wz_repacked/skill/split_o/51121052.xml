@@ -1,0 +1,5 @@
+<imgdir name="51121052">
+        <string name="name" value="Charging Light" />
+        <string name="desc" value="Summons the mighty Knight of Light to carry out a deadly charge." />
+        <string name="h" value="MP Cost: #mpCon, Number of Enemies: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, 10% more damage for you and your allies.\nCooldown: #cooltime sec" />
+    </imgdir>

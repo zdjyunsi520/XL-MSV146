@@ -1,0 +1,7 @@
+<imgdir name="13111001">
+        <string name="name" value="集中精力" />
+        <string name="desc" value="暂时提升你的武器攻击力，并减少使用技能时的MP消耗。可与其他增益效果叠加。" />
+        <string name="h" value="MP消耗：#mpCon，武器攻击力：+#epad，持续时间：#time秒，MP消耗量：-#x%" />
+        <string name="pdesc" value="暂时提升你的战斗模式攻击力，并减少使用技能时的MP消耗。" />
+        <string name="ph" value="MP消耗：#mpCon，战斗模式攻击力：+#PVPdamage，持续时间：#time秒，MP消耗量：-#x%" />
+    </imgdir>

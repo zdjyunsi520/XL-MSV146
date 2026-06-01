@@ -1,0 +1,7 @@
+<imgdir name="4330009">
+        <string name="name" value="暗影融合" />
+        <string name="desc" value="提升闪避攻击的概率。成功闪避后将进入7秒的狂暴状态，攻击力提升且每次攻击都会暴击。\n#c需要技能手册解锁11级#" />
+        <string name="h" value="闪避概率：#er%，成功闪避后物理攻击力+#indiePad，之后#time秒内所有攻击均为暴击。成功闪避冷却时间：5秒。" />
+        <string name="pdesc" value="提升闪避攻击的概率。成功闪避后将进入7秒的狂暴状态，攻击力提升且每次攻击都会暴击。\n#c需要技能手册解锁11级#" />
+        <string name="ph" value="闪避概率：#er%，成功闪避后物理攻击力+#indiePad，之后#time秒内所有攻击均为暴击。成功闪避冷却时间：5秒。" />
+    </imgdir>

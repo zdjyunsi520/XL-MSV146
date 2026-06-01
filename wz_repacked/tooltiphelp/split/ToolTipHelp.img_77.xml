@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="241010140">
+			<imgdir name="0">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241010150">
+			<imgdir name="0">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241010200">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Sorrows 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 5"/>
+			</imgdir>
+    <imgdir name="241010203">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Laments 4"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Scorching Forest 1"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 2"/>
+			</imgdir>
+    <imgdir name="241010204">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Laments 3"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Corrupted Magic Forest 2"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 1"/>
+			</imgdir>
+    <imgdir name="241010210">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Pain 5"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Laments 1"/>
+			</imgdir>
+    <imgdir name="241010212">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Pain 3"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Corrupted Magic Forest 1"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Forest of Pain 5"/>
+			</imgdir>
+    <imgdir name="241010214">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Pain 1"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="100001264">
+        <string name="name" value="神圣速度" />
+        <string name="desc" value="引导超越者的力量，提升附近队员的攻击速度、移动速度、回避率和命中值。\n再按一次#c技能键#可取消技能。不能与神圣之力同时使用。" />
+        <string name="h" value="时间之力消耗: #forceCon, 提升移动速度#indieSpeed，跳跃力#indieJump，回避值#indieEva，命中值#indieAcc，攻击速度提升1级" />
+    </imgdir>

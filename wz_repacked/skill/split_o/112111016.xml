@@ -1,0 +1,5 @@
+<imgdir name="112111016">
+        <string name="name" value="Tornado Flight" />
+        <string name="desc" value="Eka&apos;s friends stir up a tornado to attack. #cHold down the skill key and press the direction keys# to steer." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%. #cSteer by holding the skill key and pressing  Left, Right, Up, and Down.# Max Range: #y, Cooldown: #cooltime" />
+    </imgdir>

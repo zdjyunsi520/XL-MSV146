@@ -1,0 +1,5 @@
+<imgdir name="3211010">
+        <string name="name" value="钩索射击" />
+        <string name="desc" value="向范围内最远的敌人发射钩索，造成伤害并拉向自己。移动中不会与怪物碰撞。同时提升HP~" />
+        <string name="h" value="MP消耗: #mpCon，以#damage%伤害攻击后，穿过敌人移动\n[被动效果: 最大HP增加#mhpR%]" />
+    </imgdir>

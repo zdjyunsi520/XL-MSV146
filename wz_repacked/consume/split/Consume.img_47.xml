@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022462">
+		<string name="name" value="Cassandra's Reward 4"/>
+		<string name="desc" value="For 1 hour, Item Drop Rate +50%."/>
+	</imgdir>
+    <imgdir name="2022463">
+		<string name="name" value="Cassandra's Reward 5"/>
+		<string name="desc" value="For 30 min., Item Drop Rate 2x."/>
+	</imgdir>
+    <imgdir name="2022464">
+		<string name="name" value="Snow in Maple World"/>
+		<string name="desc" value="It's snowing in Maple world now. If you have Joyce's Gift Box, go to Joyce before snow stops and she will open the gift box for you."/>
+	</imgdir>
+    <imgdir name="2022465">
+		<string name="name" value="Heartpounding Box"/>
+		<string name="desc" value="A box in which no one has a clue what's in it. If the luck in is your side, then a beautiful present might be in store.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022466">
+		<string name="name" value="Heartpounding Box"/>
+		<string name="desc" value="A box in which no one has a clue what's in it. If the luck in is your side, then a beautiful present might be in store.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022467">
+		<string name="name" value="Heartpounding Box"/>
+		<string name="desc" value="A box in which no one has a clue what's in it. If the luck in is your side, then a beautiful present might be in store.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022468">
+		<string name="name" value="Heartpounding Box"/>
+		<string name="desc" value="A box in which no one has a clue what's in it. If the luck in is your side, then a beautiful present might be in store.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2022469">
+		<string name="name" value="Cassandra's Gag"/>
+		<string name="desc" value="You are temporarily unable to move due to Cassandra's Gag."/>
+	</imgdir>
+    <imgdir name="2022470">
+		<string name="name" value="Cassandra's Gag"/>
+		<string name="desc" value="You are temporarily poisoned due to Cassandra's Gag."/>
+	</imgdir>
+    <imgdir name="2022476">
+		<string name="name" value="Chicken Kapitan"/>
+		<string name="desc" value="A popular Malaysian dish. This mild curry contains chicken smothered in rich coconut milk, onions, and spices. \nRecovers 4000 HP."/>
+	</imgdir>
+    <imgdir name="2022477">
+		<string name="name" value="Mee Siam"/>
+		<string name="desc" value="A popular Malaysian dish made with thin rice noodles. Served with salted soy beans, dried bean curd, boiled eggs, and tamarind. \nRecovers 4000 MP."/>
+	</imgdir>
+    <imgdir name="2022478">
+		<string name="name" value="Rojak"/>
+		<string name="desc" value="This famous dish is served with generous amounts of sweet, thick, spicy peanut sauce with bean curd, prawn fritters, hard boiled eggs, and bean sprouts.\nRecovers 1000 HP and 1000 MP."/>
+	</imgdir>
+    <imgdir name="2022479">
+		<string name="name" value="Kangkung Belacan"/>
+		<string name="desc" value="This spicy vegetable dish is served with Kangkung, also known as water spinach, and spicy sambal.\nImproves Weapon Attack and Magic Attack +8 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022480">
+		<string name="name" value="Kuih"/>
+		<string name="desc" value="These sweet, bite-sized delights are a favorite pastry dish enjoyed during parties or while having tea.\nImproves Speed +10 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022481">
+		<string name="name" value="Mysterious Maple"/>
+		<string name="desc" value="Adventure: It's about to happen. Weapon/Magic DEF +100."/>
+	</imgdir>
+    <imgdir name="2022482">
+		<string name="name" value="Pigmy's Wings"/>
+		<string name="desc" value="Pigmy's Wings can be used to grant Speed +8."/>
+	</imgdir>
+    <imgdir name="2022496">
+		<string name="name" value="Cassandra's Star"/>
+		<string name="desc" value="Blessings from the star given to explorers who participated in the Starlight Festival. Weapon and Magic Defense +5 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022499">
+		<string name="name" value="Point Improvement Treasure Chest"/>
+		<string name="desc" value="Improves point acquisition in the Biscuit Map."/>
+	</imgdir>
+    <imgdir name="2022500">
+		<string name="name" value="Point Increase Treasure Chest"/>
+		<string name="desc" value="Improves point acquisition in the Biscuit Map for 1 minute."/>
+	</imgdir>
+    <imgdir name="2022501">
+		<string name="name" value="Geppetto's Writing Analysis"/>
+		<string name="desc" value="Your Speed and Jump skills have increased because Geppetto has deciphered the letters."/>
+	</imgdir>
+</imgdir>

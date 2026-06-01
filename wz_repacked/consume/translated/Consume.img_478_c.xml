@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2213051">
+		<string name="desc" value="将你变成小黑魔法师的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小黑魔法师变形药水"/>
+	</imgdir>
+    <imgdir name="2213052">
+		<string name="desc" value="将你变成小光明（光明形态）的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小光明（光）变形药水"/>
+	</imgdir>
+    <imgdir name="2213053">
+		<string name="desc" value="将你变成小光明（黑暗形态）的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小光明（暗）变形药水"/>
+	</imgdir>
+    <imgdir name="2213054">
+		<string name="desc" value="将你变成小光明（平衡形态）的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小光明（平衡）变形药水"/>
+	</imgdir>
+    <imgdir name="2213055">
+		<string name="desc" value="将你变成小幻影的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小幻影变形药水"/>
+	</imgdir>
+    <imgdir name="2213056">
+		<string name="desc" value="将你变成小弓箭手的药水，持续10分钟。\n#c*警告：变形期间无法爬梯子或绳索。#"/>
+		<string name="name" value="小弓箭手变形药水"/>
+	</imgdir>
+    <imgdir name="2384032">
+		<string name="desc" value="一张印有小丑的卡片。\n#c在钟楼下层狩猎时速度+3#"/>
+		<string name="name" value="小丑卡片"/>
+	</imgdir>
+    <imgdir name="2388021">
+		<string name="desc" value="一张印有埃雷格斯的卡片。\n#c组队狩猎时跳跃+6/速度+6#"/>
+		<string name="name" value="埃雷格斯卡片"/>
+	</imgdir>
+    <imgdir name="2431240">
+		<string name="desc" value="#c双击#黑羽玻璃盒获得3至30天黑羽玻璃。"/>
+		<string name="name" value="黑羽玻璃盒"/>
+	</imgdir>
+    <imgdir name="2431414">
+		<string name="desc" value="\n#c双击#获得多个用于烙印边缘的重生火焰。"/>
+		<string name="name" value="烙印边缘重生套装"/>
+	</imgdir>
+    <imgdir name="2431417">
+		<string name="desc" value="\n#c双击#获得多个用于灾难二极管的重生火焰。"/>
+		<string name="name" value="灾难二极管重生套装"/>
+	</imgdir>
+    <imgdir name="2431481">
+		<string name="desc" value="一个特殊尺寸的幸运袋。\n#c双击打开。#"/>
+		<string name="name" value="超大幸运袋"/>
+	</imgdir>
+    <imgdir name="2431486">
+		<string name="desc" value="#c双击#此礼包获得3张#c奇迹装备卷轴#。此物品在#cTKTKTK#后无法使用。"/>
+		<string name="name" value="奇迹装备卷轴包"/>
+	</imgdir>
+    <imgdir name="2431508">
+		<string name="desc" value="神秘米汤，食用后增加经验值，每天最多10次。双击食用。\n必须在活动期结束前食用。"/>
+		<string name="name" value="神秘米汤"/>
+	</imgdir>
+    <imgdir name="2431509">
+		<string name="desc" value="完成尤茨棋游戏获得的礼盒。双击打开。\n必须在活动期结束前使用。"/>
+		<string name="name" value="尤茨棋游戏礼盒"/>
+	</imgdir>
+    <imgdir name="2431510">
+		<string name="desc" value="情人节卡片。会是爱的告白吗？太受欢迎真让人烦恼。"/>
+		<string name="name" value="情人节卡片"/>
+	</imgdir>
+    <imgdir name="2431511">
+		<string name="desc" value="情人节卡片。会是爱的告白吗？太受欢迎真让人烦恼。"/>
+		<string name="name" value="情人节卡片"/>
+	</imgdir>
+    <imgdir name="2431512">
+		<string name="desc" value="情人节卡片。会是爱的告白吗？太受欢迎真让人烦恼。"/>
+		<string name="name" value="情人节卡片"/>
+	</imgdir>
+    <imgdir name="2431513">
+		<string name="desc" value="情人节卡片。会是爱的告白吗？太受欢迎真让人烦恼。"/>
+		<string name="name" value="情人节卡片"/>
+	</imgdir>
+    <imgdir name="2431514">
+		<string name="desc" value="情人节卡片。会是爱的告白吗？太受欢迎真让人烦恼。"/>
+		<string name="name" value="情人节卡片"/>
+	</imgdir>
+</imgdir>

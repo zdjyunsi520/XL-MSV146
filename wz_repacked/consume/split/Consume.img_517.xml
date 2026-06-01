@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591117">
+		<string name="name" value="Beefy Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +7\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591118">
+		<string name="name" value="Swift Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +7\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591119">
+		<string name="name" value="Clever Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +7\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591120">
+		<string name="name" value="Fortuitous  Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +7\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591121">
+		<string name="name" value="Hearty Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +300\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591122">
+		<string name="name" value="Ample Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max MP +300\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591123">
+		<string name="name" value="Ornate Mu Gong's Soul"/>
+		<string name="desc" value="Mu Gong's Soul Crystal.\r\nGrants the #cMu Gong skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +5\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591124">
+		<string name="name" value="Beefy Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +10\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591125">
+		<string name="name" value="Swift Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +10\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591126">
+		<string name="name" value="Clever Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +10\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591127">
+		<string name="name" value="Fortuitous  Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +10\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591128">
+		<string name="name" value="Ornate Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +7\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591129">
+		<string name="name" value="Powerful Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: ATT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591130">
+		<string name="name" value="Radiant Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: M ATT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591131">
+		<string name="name" value="Hearty Balrog's Soul"/>
+		<string name="desc" value="Balrog's Soul Crystal.\r\nGrants the #cBalrog skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +400\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591132">
+		<string name="name" value="Beefy Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +15\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591133">
+		<string name="name" value="Swift Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +15\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591134">
+		<string name="name" value="Clever Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +15\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591135">
+		<string name="name" value="Fortuitous  Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +15\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591136">
+		<string name="name" value="Ornate Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +10\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+</imgdir>

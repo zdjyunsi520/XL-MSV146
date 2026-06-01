@@ -1,0 +1,5 @@
+<imgdir name="2311011">
+        <string name="name" value="圣水之泉" />
+        <string name="desc" value="召唤圣水之泉，使用神圣力量恢复队员HP。即使处于不死状态的队员也可以使用。#c靠近泉水按上方向键恢复HP#。不能在传送门附近召唤~" />
+        <string name="h" value="MP消耗: #mpCon，使用时回复#x% HP，总共可使用#y次。持续时间: #time秒。冷却时间: #cooltime秒" />
+    </imgdir>

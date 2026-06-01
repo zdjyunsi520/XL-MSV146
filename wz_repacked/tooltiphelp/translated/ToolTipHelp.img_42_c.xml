@@ -1,0 +1,69 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="3">
+				<string name="Title" value="幽灵蘑菇森林"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="蓝蘑菇莫莫森林"/>
+			</imgdir>
+    <imgdir name="100040000">
+			<imgdir name="0">
+				<string name="Title" value="风之花森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="石巨人神殿1"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="石巨人神殿2"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="石巨人神殿3"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="石巨人神殿4"/>
+			</imgdir>
+    <imgdir name="100040100">
+			<imgdir name="0">
+				<string name="Title" value="艾利纳南部森林(往赫内西/鹦鹉螺号方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="艾利纳南部平原(往艾利纳方向)"/>
+			</imgdir>
+    <imgdir name="100040400">
+			<imgdir name="0">
+				<string name="Title" value="倒塌的石巨人城堡废墟"/>
+				<string name="Desc" value="&lt;迷你副本&gt;"/>
+			</imgdir>
+    <imgdir name="101010000">
+			<imgdir name="0">
+				<string name="Title" value="艾利纳"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="森林起点"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="艾利纳"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="森林起点"/>
+			</imgdir>
+    <imgdir name="101010100">
+			<imgdir name="0">
+				<string name="Title" value="闪耀森林小路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="闪耀森林小路"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="101010101">
+			<imgdir name="0">
+				<string name="Title" value="成长的树III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="成长的树I"/>
+			</imgdir>
+</imgdir>

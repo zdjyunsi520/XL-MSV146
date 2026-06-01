@@ -1,0 +1,7 @@
+<imgdir name="5920011">
+        <string name="name" value="Bullseye" />
+        <string name="desc" value="Increases the damage of Homing Beacon. Also, more damage is applied to monsters under the Homing Beacon effect. \nRequired Skill: #cHoming Beacon Lv. 20#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: +#x%" />
+        <string name="pdesc" value="Increases the damage of Homing Beacon. Also, more damage is applied to monsters under the Homing Beacon effect. \nRequired Skill: #cHoming Beacon Lv. 20#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: +#x%" />
+    </imgdir>

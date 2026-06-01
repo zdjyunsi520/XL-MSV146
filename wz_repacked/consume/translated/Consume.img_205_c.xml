@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290488">
+		<string name="name" value="[特殊能手册]飞镖专家 30"/>
+		<string name="desc" value="100%概率将#c飞镖专家#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290489">
+		<string name="name" value="[特殊能手册]四连星 30"/>
+		<string name="desc" value="100%概率将#c四连星#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290490">
+		<string name="name" value="[特殊能手册]黑暗和谐 30"/>
+		<string name="desc" value="100%概率将#c黑暗和谐#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290491">
+		<string name="name" value="[特殊能手册]虚弱诅咒 30"/>
+		<string name="desc" value="100%概率将#c虚弱诅咒#的最高等级提升到30级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290492">
+		<string name="name" value="[特殊能手册]怪物炸弹 30"/>
+		<string name="desc" value="100%概率将#c怪物炸弹#的最高等级提升到30级。\n职业：队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290493">
+		<string name="name" value="[特殊能手册]刀刃狂风 30"/>
+		<string name="desc" value="100%概率将#c刀刃狂风#的最高等级提升到30级。\n职业：队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290494">
+		<string name="name" value="[特殊能手册]镜像目标 30"/>
+		<string name="desc" value="100%概率将#c镜像目标#的最高等级提升到30级。\n职业：队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290495">
+		<string name="name" value="[特殊能手册]荆棘 30"/>
+		<string name="desc" value="100%概率将#c荆棘#的最高等级提升到30级。\n职业：队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290496">
+		<string name="name" value="[特殊能手册]龙之冲击 30"/>
+		<string name="desc" value="100%概率将#c龙之冲击#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290497">
+		<string name="name" value="[特殊能手册]速度注入 20"/>
+		<string name="desc" value="100%概率将#c速度注入#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290498">
+		<string name="name" value="[特殊能手册]台风粉碎 20"/>
+		<string name="desc" value="100%概率将#c台风粉碎#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290499">
+		<string name="name" value="[特殊能手册]冲锋队长冲击波 30"/>
+		<string name="desc" value="100%概率将#c冲锋队长冲击波#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290500">
+		<string name="name" value="[特殊能手册]交叉骨头 30"/>
+		<string name="desc" value="100%概率将#c交叉骨头#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290501">
+		<string name="name" value="[特殊能手册]八爪鱼拳击 30"/>
+		<string name="desc" value="100%概率将#c八爪鱼拳击#的最高等级提升到30级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290502">
+		<string name="name" value="[特殊能手册]快速射击 30"/>
+		<string name="desc" value="100%概率将#c快速射击#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290503">
+		<string name="name" value="[特殊能手册]威严存在 30"/>
+		<string name="desc" value="100%概率将#c威严存在#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290504">
+		<string name="name" value="[特殊能手册]海盗旗 20"/>
+		<string name="desc" value="100%概率将#c海盗旗#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290505">
+		<string name="name" value="[特殊能手册]八脚伊斯顿 30"/>
+		<string name="desc" value="100%概率将#c八脚伊斯顿#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290506">
+		<string name="name" value="[特殊能手册]大脑搅拌器 30"/>
+		<string name="desc" value="100%概率将#c大脑搅拌器#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290507">
+		<string name="name" value="[特殊能手册]鹦鹉目标锁定 20"/>
+		<string name="desc" value="100%概率将#c鹦鹉目标锁定#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

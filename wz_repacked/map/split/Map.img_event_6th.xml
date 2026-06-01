@@ -1,0 +1,244 @@
+<imgdir name="Map.img">
+    <imgdir name="event_6th">
+		<imgdir name="686000000">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Waiting Room"/>
+		</imgdir>
+		<imgdir name="686000010">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Waiting Room"/>
+		</imgdir>
+		<imgdir name="686000100">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000200">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000003">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Waiting Room"/>
+		</imgdir>
+		<imgdir name="686000002">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Waiting Room"/>
+		</imgdir>
+		<imgdir name="686000001">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Waiting Room"/>
+		</imgdir>
+		<imgdir name="686000101">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000102">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000103">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000104">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000105">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000106">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000107">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000108">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000109">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000110">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000111">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000112">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000113">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000114">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000115">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000116">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000117">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000118">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000119">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000120">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000121">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000122">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000123">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000124">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000125">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000126">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000127">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000128">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000129">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000130">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000131">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000132">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000133">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000134">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000135">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000136">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000137">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000138">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000139">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Room"/>
+		</imgdir>
+		<imgdir name="686000201">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000202">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000203">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000204">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000205">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000206">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000207">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000208">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000209">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Boss Battle Room"/>
+		</imgdir>
+		<imgdir name="686000021">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Exit"/>
+		</imgdir>
+		<imgdir name="686000022">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Exit"/>
+		</imgdir>
+		<imgdir name="686000023">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Exit"/>
+		</imgdir>
+		<imgdir name="686000030">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Exit"/>
+		</imgdir>
+		<imgdir name="686000020">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Battle Exit"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

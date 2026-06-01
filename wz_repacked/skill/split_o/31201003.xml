@@ -1,0 +1,5 @@
+<imgdir name="31201003">
+        <string name="name" value="Abyssal Connection" />
+        <string name="desc" value="Temporarily boosts your Attack Power." />
+        <string name="h" value="HP Cost: #hpCon, Weapon ATT: +#indiePad, Duration: #time sec" />
+    </imgdir>

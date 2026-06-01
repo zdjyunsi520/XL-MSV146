@@ -1,0 +1,7 @@
+<imgdir name="12111003">
+        <string name="name" value="Meteor Shower" />
+        <string name="desc" value="Summon meteors from the sky to deal a powerful fire attack to multiple enemies. Targets continue to take fire damage over time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summon meteors from the sky to deal a powerful fire attack to multiple enemies. Targets continue to take fire damage over time." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec, Cooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="21101006">
+        <string name="name" value="Snow Charge" />
+        <string name="desc" value="Permanently increases damage and infuses your polearm with ice for a certain amount of time." />
+        <string name="h" value="Permanent Damage Increase: +#damR%. MP Cost: #mpCon, Ice Duration: #time sec, Enemy Speed: #x for #y sec" />
+        <string name="pdesc" value="Permanently increases damage and infuses your pole arm with Ice." />
+        <string name="ph" value="Permanent Damage Increase: +#damR%. MP Cost: #mpCon, Ice Duration: #time sec, Enemy Speed: #x for #y sec" />
+        <string name="hch" value="Permanent Damage Increase: +#damR%. MP Cost: #mpCon, Ice Duration: #time sec, Enemy Speed: #x for #hcSubTime sec with #hcProp% chance" />
+    </imgdir>

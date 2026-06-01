@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2061008">
+		<string name="name" value="弩用锋利箭矢"/>
+		<string name="desc" value="装有锋利箭矢的箭袋。仅限弩使用。\n攻击+7"/>
+	</imgdir>
+    <imgdir name="2061009">
+		<string name="name" value="弩用钛合金箭矢"/>
+		<string name="desc" value="装有钛合金箭矢的箭袋。仅限弩使用。\n攻击+9"/>
+	</imgdir>
+    <imgdir name="2061012">
+		<string name="name" value="白金短螺栓"/>
+		<string name="desc" value="装有白金短螺栓的箭袋。仅限弩使用。\n武器攻击：+6"/>
+	</imgdir>
+    <imgdir name="2070000">
+		<string name="name" value="苏比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击+15"/>
+	</imgdir>
+    <imgdir name="2070001">
+		<string name="name" value="沃尔比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击+17"/>
+	</imgdir>
+    <imgdir name="2070002">
+		<string name="name" value="莫克比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击19"/>
+	</imgdir>
+    <imgdir name="2070003">
+		<string name="name" value="昆比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击21"/>
+	</imgdir>
+    <imgdir name="2070004">
+		<string name="name" value="托比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击23"/>
+	</imgdir>
+    <imgdir name="2070005">
+		<string name="name" value="钢铁飞刀"/>
+		<string name="desc" value="钢铁制成的飞刀。用完後需要充值。\n\n攻击+25"/>
+	</imgdir>
+    <imgdir name="2070006">
+		<string name="name" value="伊尔比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击27"/>
+	</imgdir>
+    <imgdir name="2070007">
+		<string name="name" value="华比飞镖"/>
+		<string name="desc" value="钢铁制成的飞镖。用完後需要充值。\n\n攻击27"/>
+	</imgdir>
+    <imgdir name="2070008">
+		<string name="name" value="雪球"/>
+		<string name="desc" value="压缩良好的雪球。用完後需要充值。\n\n攻击+17"/>
+	</imgdir>
+    <imgdir name="2070009">
+		<string name="name" value="木陀螺"/>
+		<string name="desc" value="快速旋转并高速飞行的陀螺。用完後需要充值。\n\n攻击+19"/>
+	</imgdir>
+    <imgdir name="2070010">
+		<string name="name" value="冰锥"/>
+		<string name="desc" value="锋利的冰锥。用完後需要充值。\n\n攻击+21"/>
+	</imgdir>
+    <imgdir name="2070011">
+		<string name="name" value="冒险岛飞镖"/>
+		<string name="desc" value="冒险岛叶子形状的钢铁飞镖。用完後需要充值。\n\n#c等级限制：10，攻击+21"/>
+	</imgdir>
+    <imgdir name="2070012">
+		<string name="name" value="纸飞机"/>
+		<string name="desc" value="可以投掷的纸飞机。用完後需要充值。攻击+20"/>
+	</imgdir>
+    <imgdir name="2070013">
+		<string name="name" value="橙子"/>
+		<string name="desc" value="可以投掷的美味橙子。攻击+20"/>
+	</imgdir>
+    <imgdir name="2070014">
+		<string name="name" value="魔鬼雨飞镖"/>
+		<string name="desc" value="飞镖"/>
+	</imgdir>
+    <imgdir name="2070015">
+		<string name="name" value="新手飞贼飞镖"/>
+		<string name="desc" value="暗黑帝王赠送给新手飞贼的钢铁飞镖。与普通飞镖不同，无法充值。\n\n攻击+15"/>
+	</imgdir>
+    <imgdir name="2070016">
+		<string name="name" value="水晶伊尔比飞镖"/>
+		<string name="desc" value="水晶制成的飞镖。用完後需要充值。\n攻击+29"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,65 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400101">
+		<string name="name" value="额外B"/>
+	</imgdir>
+    <imgdir name="9400102">
+		<string name="name" value="额外C"/>
+	</imgdir>
+    <imgdir name="9400103">
+		<string name="name" value="额外D"/>
+	</imgdir>
+    <imgdir name="9400110">
+		<string name="name" value="领导者A"/>
+	</imgdir>
+    <imgdir name="9400111">
+		<string name="name" value="领导者B"/>
+	</imgdir>
+    <imgdir name="9400112">
+		<string name="name" value="保镖A"/>
+	</imgdir>
+    <imgdir name="9400113">
+		<string name="name" value="保镖B"/>
+	</imgdir>
+    <imgdir name="9400114">
+		<string name="name" value="老虎机"/>
+	</imgdir>
+    <imgdir name="9400120">
+		<string name="name" value="男Boss A"/>
+	</imgdir>
+    <imgdir name="9400121">
+		<string name="name" value="女Boss"/>
+	</imgdir>
+    <imgdir name="9400122">
+		<string name="name" value="男Boss B"/>
+	</imgdir>
+    <imgdir name="9400200">
+		<string name="name" value="玛拉迪"/>
+	</imgdir>
+    <imgdir name="9400201">
+		<string name="name" value="野生货物"/>
+	</imgdir>
+    <imgdir name="9400202">
+		<string name="name" value="黄金史莱姆"/>
+		<imgdir name="9400525">
+			<string name="name" value="B史莱姆"/>
+		</imgdir>
+	</imgdir>
+    <imgdir name="9400203">
+		<string name="name" value="银色史莱姆"/>
+	</imgdir>
+    <imgdir name="9400204">
+		<string name="name" value="红色史莱姆"/>
+	</imgdir>
+    <imgdir name="9400205">
+		<string name="name" value="蓝蘑菇爸爸"/>
+	</imgdir>
+    <imgdir name="9400300">
+		<string name="name" value="Boss"/>
+	</imgdir>
+    <imgdir name="9400310">
+		<string name="name" value="Tic(简单)"/>
+	</imgdir>
+    <imgdir name="9400311">
+		<string name="name" value="Tac(简单)"/>
+	</imgdir>
+</imgdir>

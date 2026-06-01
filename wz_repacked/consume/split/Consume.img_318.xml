@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2510165">
+		<string name="name" value="Sharp Arrow for Bow Recipe"/>
+		<string name="desc" value="A recipe for Sharp Arrow for Bow."/>
+	</imgdir>
+    <imgdir name="2510166">
+		<string name="name" value="Sharp Arrow for Crossbow Recipe"/>
+		<string name="desc" value="A recipe for a Sharp Arrow for Crossbow."/>
+	</imgdir>
+    <imgdir name="2510167">
+		<string name="name" value="Titanium Arrow for Bow Recipe"/>
+		<string name="desc" value="A recipe for a Titanium Arrow for Bow."/>
+	</imgdir>
+    <imgdir name="2510168">
+		<string name="name" value="Titanium Arrow for Crossbow Recipe"/>
+		<string name="desc" value="A recipe for a Titanium Arrow for Crossbow."/>
+	</imgdir>
+    <imgdir name="2510169">
+		<string name="name" value="Flame Throwing Star Recipe"/>
+		<string name="desc" value="A recipe for a Flame Throwing Star."/>
+	</imgdir>
+    <imgdir name="2510170">
+		<string name="name" value="Giant Bullet Recipe"/>
+		<string name="desc" value="A recipe for a Giant Bullet."/>
+	</imgdir>
+    <imgdir name="2510171">
+		<string name="name" value="Android (M) Recipe"/>
+		<string name="desc" value="A recipe for an Android (M)."/>
+	</imgdir>
+    <imgdir name="2510172">
+		<string name="name" value="Android (F) Recipe"/>
+		<string name="desc" value="A recipe for an Android (F)."/>
+	</imgdir>
+    <imgdir name="2510173">
+		<string name="name" value="Deluxe Android (M) Recipe"/>
+		<string name="desc" value="A recipe for a Deluxe Android (M)."/>
+	</imgdir>
+    <imgdir name="2510174">
+		<string name="name" value="Deluxe Android (F) Recipe"/>
+		<string name="desc" value="A recipe for a Deluxe Android (F)."/>
+	</imgdir>
+    <imgdir name="2510175">
+		<string name="name" value="Silver Heart Recipe"/>
+		<string name="desc" value="A recipe for a Silver Heart."/>
+	</imgdir>
+    <imgdir name="2510176">
+		<string name="name" value="Iron Heart Recipe"/>
+		<string name="desc" value="A recipe for an Iron Heart."/>
+	</imgdir>
+    <imgdir name="2510177">
+		<string name="name" value="Force Walker Hairband Recipe"/>
+		<string name="desc" value="A recipe for a Force Walker Hairband."/>
+	</imgdir>
+    <imgdir name="2510178">
+		<string name="name" value="Arcane Walker Hairband Recipe"/>
+		<string name="desc" value="A recipe for an Arcane Walker Hairband."/>
+	</imgdir>
+    <imgdir name="2510179">
+		<string name="name" value="Wind Walker Hairband Recipe"/>
+		<string name="desc" value="A recipe for a Wind Walker Hairband."/>
+	</imgdir>
+    <imgdir name="2510180">
+		<string name="name" value="Mist Walker Hairband Recipe"/>
+		<string name="desc" value="A recipe for a Mist Walker Hairband."/>
+	</imgdir>
+    <imgdir name="2510181">
+		<string name="name" value="Fortune Walker Hairband Recipe"/>
+		<string name="desc" value="A recipe for a Fortune Walker Hairband."/>
+	</imgdir>
+    <imgdir name="2510182">
+		<string name="name" value="Force Walker Plate Mail Recipe"/>
+		<string name="desc" value="A recipe for a Force Walker Plate Mail."/>
+	</imgdir>
+    <imgdir name="2510183">
+		<string name="name" value="Arcane Walker Plate Mail Recipe"/>
+		<string name="desc" value="A recipe for a Arcane Walker Plate Mail."/>
+	</imgdir>
+    <imgdir name="2510184">
+		<string name="name" value="Wind Walker Plate Mail Recipe"/>
+		<string name="desc" value="A recipe for a Wind Walker Plate Mail."/>
+	</imgdir>
+</imgdir>

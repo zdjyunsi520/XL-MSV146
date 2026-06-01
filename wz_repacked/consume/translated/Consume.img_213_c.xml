@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290696">
+		<string name="name" value="[特殊能手册]黑暗渐强 30"/>
+		<string name="desc" value="100%概率将#c黑暗渐强#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290697">
+		<string name="name" value="[特殊能手册]奥术音高 30"/>
+		<string name="desc" value="100%概率将#c奥术音高#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290698">
+		<string name="name" value="[特殊能手册]魔法精通 30"/>
+		<string name="desc" value="100%概率将#c魔法精通#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290722">
+		<string name="name" value="夜光神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本夜光职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290723">
+		<string name="name" value="凯撒神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本凯撒职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290724">
+		<string name="name" value="天使破坏者神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本天使破坏者职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290739">
+		<string name="name" value="[能手册]吉加斯波 20"/>
+		<string name="desc" value="70%概率将#c吉加斯波#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290740">
+		<string name="name" value="[能手册]吉加斯波 30"/>
+		<string name="desc" value="50%概率将#c吉加斯波#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290741">
+		<string name="name" value="[能手册]龙弹幕 20"/>
+		<string name="desc" value="70%概率将#c龙弹幕#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290742">
+		<string name="name" value="[能手册]龙弹幕 30"/>
+		<string name="desc" value="50%概率将#c龙弹幕#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290743">
+		<string name="name" value="[能手册]高级暴风之剑 20"/>
+		<string name="desc" value="70%概率将#c高级暴风之剑#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290744">
+		<string name="name" value="[能手册]高级暴风之剑 30"/>
+		<string name="desc" value="50%概率将#c高级暴风之剑#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290745">
+		<string name="name" value="[能手册]不屈意志 20"/>
+		<string name="desc" value="70%概率将#c不屈意志#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290746">
+		<string name="name" value="[能手册]不屈意志 30"/>
+		<string name="desc" value="50%概率将#c不屈意志#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290747">
+		<string name="name" value="[能手册]专家剑术精通 20"/>
+		<string name="desc" value="70%概率将#c专家剑术精通#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290748">
+		<string name="name" value="[能手册]专家剑术精通 30"/>
+		<string name="desc" value="50%概率将#c专家剑术精通#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290749">
+		<string name="name" value="[能手册]诺巴战士 20"/>
+		<string name="desc" value="70%概率将#c诺巴战士#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290750">
+		<string name="name" value="[能手册]诺巴战士 30"/>
+		<string name="desc" value="50%概率将#c诺巴战士#的最高等级提升到30级。\n职业：凯撒（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290751">
+		<string name="name" value="[能手册]宏大护甲 20"/>
+		<string name="desc" value="70%概率将#c宏大护甲#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290752">
+		<string name="name" value="[能手册]剑刃爆发 20"/>
+		<string name="desc" value="70%概率将#c剑刃爆发#的最高等级提升到20级。\n职业：凯撒（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

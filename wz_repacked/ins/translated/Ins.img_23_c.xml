@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3603613">
+		<string name="name" value="武器掉落 - 120级亡灵法师武器"/>
+		<string name="desc" value="添加随机的亡灵法师武器。"/>
+	</imgdir>
+    <imgdir name="3604000">
+		<string name="name" value="任务添加 - 进化系统"/>
+		<string name="desc" value="进化系统已添加。清除后进化系统核心槽位增加。"/>
+	</imgdir>
+    <imgdir name="3604001">
+		<string name="name" value="任务添加 - 加速器"/>
+		<string name="desc" value="加速器任务已添加。清除后增加独特核心槽位。\r\n#c仅在常规邪恶核心槽位最大化后可用。#"/>
+	</imgdir>
+    <imgdir name="3604002">
+		<string name="name" value="任务添加 - 链接6访问错误"/>
+		<string name="desc" value="链接6访问错误任务已添加。清除后访问链接6。"/>
+	</imgdir>
+    <imgdir name="3604003">
+		<string name="name" value="任务添加 - 链接7访问错误"/>
+		<string name="desc" value="链接7访问错误任务已添加。清除后访问链接7。"/>
+	</imgdir>
+    <imgdir name="3604004">
+		<string name="name" value="任务添加 - 链接8访问错误"/>
+		<string name="desc" value="链接8访问错误任务已添加。清除后访问链接8。"/>
+	</imgdir>
+    <imgdir name="3604005">
+		<string name="name" value="任务添加 - 链接9访问错误"/>
+		<string name="desc" value="链接9访问错误任务已添加。清除后访问链接9。"/>
+	</imgdir>
+    <imgdir name="3604006">
+		<string name="name" value="任务添加 - 困难挑战"/>
+		<string name="desc" value="新任务已添加。完成任务获得进化金币。"/>
+	</imgdir>
+    <imgdir name="3604007">
+		<string name="name" value="任务添加 - 弱点"/>
+		<string name="desc" value="新任务已添加。完成任务获得进化金币。"/>
+	</imgdir>
+    <imgdir name="3604009">
+		<string name="name" value="任务添加 - 能量分配"/>
+		<string name="desc" value="链接7中的新任务已添加。清除后获得进化金币。\r\n#c仅在链接7解锁后可用#"/>
+	</imgdir>
+    <imgdir name="3604010">
+		<string name="name" value="任务添加 - 怪物强化"/>
+		<string name="desc" value="链接8中的新任务已添加。清除后获得进化金币。\r\n#c仅在链接8解锁后可用#"/>
+	</imgdir>
+    <imgdir name="3604011">
+		<string name="name" value="任务 - 暗影怪物"/>
+		<string name="desc" value="召唤一个制造的西格纳斯暗影。击败它获得特殊物品。\r\n#c仅在链接9解锁后可用#"/>
+	</imgdir>
+    <imgdir name="3060000">
+		<string name="name" value="[D] 星云石 (力量)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 力量 : +1#"/>
+	</imgdir>
+    <imgdir name="3060001">
+		<string name="name" value="[D] 星云石 (力量)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 力量 : +2#"/>
+	</imgdir>
+    <imgdir name="3060010">
+		<string name="name" value="[D] 星云石 (敏捷)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 敏捷 : +1#"/>
+	</imgdir>
+    <imgdir name="3060011">
+		<string name="name" value="[D] 星云石 (敏捷)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 敏捷 : +2#"/>
+	</imgdir>
+    <imgdir name="3060020">
+		<string name="name" value="[D] 星云石 (智力)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 智力 : +1#"/>
+	</imgdir>
+    <imgdir name="3060021">
+		<string name="name" value="[D] 星云石 (智力)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 智力 : +2#"/>
+	</imgdir>
+    <imgdir name="3060030">
+		<string name="name" value="[D] 星云石 (运气)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 运气 : +1#"/>
+	</imgdir>
+    <imgdir name="3060031">
+		<string name="name" value="[D] 星云石 (运气)"/>
+		<string name="desc" value="注入外星人力量的神秘石头。如果将其插入物品的空插槽中，外星石头的属性将添加到物品上。\n\n#* 适合所有有空插槽的装备。\n* 运气 : +2#"/>
+	</imgdir>
+</imgdir>

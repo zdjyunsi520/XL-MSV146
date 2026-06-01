@@ -1,0 +1,7 @@
+<imgdir name="14111000">
+        <string name="name" value="Shadow Partner" />
+        <string name="desc" value="A shadow partner that mimics the summoner appears. It does not have its own HP and disappears after a fixed period of time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #x%, Duration: #time sec" />
+        <string name="pdesc" value="A shadow partner that mimics the summoner appears. It does not have its own HP and disappears after a fixed period of time." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #x%, Duration: #time sec" />
+    </imgdir>

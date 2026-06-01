@@ -1,0 +1,5 @@
+<imgdir name="2100010">
+        <string name="name" value="Ignite" />
+        <string name="desc" value="Grants a chance to #ccreate a firewall at the target location# when using fire magic." />
+        <string name="h" value="Upon casting fire magic, Chance to #ccreate firewall#: #prop%, Max Monsters Hit on firewall: #mobCount, Damage: #damage%, Duration: #time sec" />
+    </imgdir>

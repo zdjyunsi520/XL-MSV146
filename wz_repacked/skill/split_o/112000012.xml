@@ -1,0 +1,5 @@
+<imgdir name="112000012">
+        <string name="name" value="Defense Ignorance" />
+        <string name="desc" value="Ignores a portion of enemy defense and increases Attack speed while in Bear Mode." />
+        <string name="h" value="Passive Effect: Enemy DEF Ignored: #ignoreMobpdpR%, Attack Speed: +#q" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="32111005">
+        <string name="name" value="身体强化" />
+        <string name="desc" value="消耗MP短时间内大幅提升当前激活光环的效果。必须取消此技能才能切换光环。敌人攻击不会取消增益~\n前置技能: 黑暗光环Lv.10以上，黄色光环Lv.10以上，蓝色光环Lv.10以上。" />
+        <string name="h" value="灵力消耗: MP #mpCon，持续时间: #time秒。激活的光环效果将乘以#x倍率应用于以下部分: \n黑暗光环: 伤害\n黄色光环: 攻击速度、速度、回避率\n蓝色光环: 分配伤害吸收、防御力\n冷却时间: #cooltime秒。" />
+    </imgdir>

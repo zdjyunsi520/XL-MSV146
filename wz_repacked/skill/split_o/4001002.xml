@@ -1,0 +1,7 @@
+<imgdir name="4001002">
+        <string name="name" value="Disorder" />
+        <string name="desc" value="Temporarily decreases an enemy&apos;s Weapon Attack and Defense, eventually neutralizing the monster&apos;s attack. Cannot be used on the same monster repeatedly." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Enemy ATT: -#x, Enemy DEF: -#y%" />
+        <string name="pdesc" value="Temporally decrease target&apos;s ATT and DEF, and ignores 100% of target&apos;s attacks." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Enemy ATT: -#x, Enemy DEF: -#y%. Target cannot attack you.\nCooldown: #cooltime sec" />
+    </imgdir>

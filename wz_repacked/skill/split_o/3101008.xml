@@ -1,0 +1,5 @@
+<imgdir name="3101008">
+        <string name="name" value="Covering Fire" />
+        <string name="desc" value="Fire arrows while leaping backwards. If you press and hold the skill key, you will fire arrows rapidly while in mid-air." />
+        <string name="h" value="MP Cost: #mpCon, if you press and hold the skill key after jumping a certain distance backward, you will attack enemies at up to #damage% of damage for #time sec while in mid-air" />
+    </imgdir>

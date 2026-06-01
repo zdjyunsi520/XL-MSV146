@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2045301">
+		<string name="name" value="手炮强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045302">
+		<string name="name" value="手炮强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045303">
+		<string name="name" value="手炮强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045304">
+		<string name="name" value="暗黑手炮强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045305">
+		<string name="name" value="手炮强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045306">
+		<string name="name" value="手炮强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045307">
+		<string name="name" value="佩佩国王手炮强化卷轴 60%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045308">
+		<string name="name" value="手炮强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化手炮的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046000">
+		<string name="name" value="单手武器强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046001">
+		<string name="name" value="单手武器强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046002">
+		<string name="name" value="单手武器强化卷轴 攻击 50%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n武器攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046003">
+		<string name="name" value="单手武器强化卷轴 魔法攻击 50%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n魔法攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046004">
+		<string name="name" value="暗黑单手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n武器攻击：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046005">
+		<string name="name" value="暗黑单手武器强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n魔法攻击：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046006">
+		<string name="name" value="【6周年】单手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n武器攻击：+7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046007">
+		<string name="name" value="【6周年】单手武器强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046012">
+		<string name="name" value="单手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046013">
+		<string name="name" value="单手武器强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046014">
+		<string name="name" value="单手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046015">
+		<string name="name" value="单手武器强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+</imgdir>

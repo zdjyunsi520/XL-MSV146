@@ -1,0 +1,7 @@
+<imgdir name="5701006">
+        <string name="name" value="黑暗清明" />
+        <string name="desc" value="平心静气，暂时提升武器攻击力和命中率。" />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Accuracy: #acc, Duration: #time sec" />
+        <string name="pdesc" value="平心静气，暂时提升武器攻击力和命中率。" />
+        <string name="ph" value="MP Cost: #mpCon, Weapon ATT: +#PVPdamage, Accuracy: #acc, Duration: #time sec" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5240084">
+		<string name="name" value="Roo-bot Recharge Unit"/>
+		<string name="desc" value="These snack-sized, extra-tasty recharge units really hit the spot for #cRoo-A, Roo-B, and Roo-C#. Recovers Fullness entirely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5781004">
+		<string name="name" value="Roo-bot Paint Coupon"/>
+		<string name="desc" value="Paint your #cRoo-A, Roo-B, and Roo-C# a different color! Use the sliders on the window that pops up to select a new color.\nThis will also change the color of your Roo-bot's #cpet equipment#.\nIf your computer does not meet the minimum specs listed on the official homepage, some colors may not display properly."/>
+	</imgdir>
+    <imgdir name="5010102">
+		<string name="name" value="Sorry!"/>
+		<string name="desc" value="Effect used in situations where you feel sorry for not being able to help. Double-click to toggle the effect, or setup a hotkey in your Key Config."/>
+	</imgdir>
+    <imgdir name="5010103">
+		<string name="name" value="Friends Plz"/>
+		<string name="desc" value="Effect for finding friends. Double-click to toggle the effect, or setup a hotkey in your Key Config."/>
+	</imgdir>
+    <imgdir name="5010104">
+		<string name="name" value="Party Plz"/>
+		<string name="desc" value="Displays an effect to find someone who will help you level. Double-click to toggle the effect, or setup a hotkey in your Key Config."/>
+	</imgdir>
+    <imgdir name="5060025">
+		<string name="name" value="Magic Harp"/>
+		<string name="desc" value="Place a Magic Note in this Magic Harp to get #cone rare item#. This also fills the the harp with a little bit of magic. When the harp is completely filled with magic, Fever Time starts! During Fever Time, your chances of obtaining the special item of the month significantly increases! To use, #cdouble-click# the harp and place a #cMagic Note# int he window that appears. You can get Magic Notes from hunting monsters or from General Stores in towns."/>
+	</imgdir>
+    <imgdir name="5222087">
+		<string name="name" value="Xenontic Surprise Box"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! "/>
+	</imgdir>
+    <imgdir name="5222088">
+		<string name="name" value="DarkForce Surprise Box (Male)"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! "/>
+	</imgdir>
+    <imgdir name="5222089">
+		<string name="name" value="DarkForce Surprise Box (Female)"/>
+		<string name="desc" value="Get a random Cash Shop item when you open this box. Test your luck! "/>
+	</imgdir>
+    <imgdir name="5240090">
+		<string name="name" value="Yeti Fuel"/>
+		<string name="desc" value="A custom-mixed blend of fuel for the #cYeti Robot#. Recovers Fullness entirely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5550003">
+		<string name="name" value="Add Pendant Slots: 90 Days"/>
+		<string name="desc" value="Allows you to equip 1 additional pendant for 90 days. #cHowever, you may still only equip 1 of any unique-equip item.#"/>
+	</imgdir>
+    <imgdir name="5230003">
+		<string name="name" value="The Owl of Rhinne"/>
+		<string name="desc" value="#cThe Owl of Rhinne# lets you search for items on the Free Market filtered by stats. However, you can't search by Potential or Bonus Potential. #cIf no equipment meets your search criteria, then you'll get basic Owl of Minerva results.#\r\nThe owl will vanish after showing you the search results. Up to 200 results will be displayed.\r\n#c*Warning: The Owl of Rhinne can only search for equipment. "/>
+	</imgdir>
+    <imgdir name="5060026">
+		<string name="name" value="Miracle Stone"/>
+		<string name="desc" value="Place a Miracle Stone into the Ancient Chest to get #cone random item#. You can find Ancient Chests while hunting monsters."/>
+	</imgdir>
+    <imgdir name="5060027">
+		<string name="name" value="Emerald Harp"/>
+		<string name="desc" value="#cDouble-click# on this harp, then drop an #cEnchanting Melody# in the window to unlock #cone rare item#. Each melody will fill the harp with a little bit of magic, and when it's full, Fever Time will begin! During Fever Time, you'll have a much better chance of unlocking the item of the month."/>
+	</imgdir>
+    <imgdir name="5060029">
+		<string name="name" value="Andersen's Box"/>
+		<string name="desc" value="Use Andersen's Key to open Andersen's Box and get one random item. You can get Andersen's Key by hunting monsters."/>
+	</imgdir>
+    <imgdir name="5060032">
+		<string name="name" value="Andersen's Box"/>
+		<string name="desc" value="Use Andersen's Key to get one random item from Andersen's Box. You can get Andersen's Key by hunting monsters or from General Stores in towns."/>
+	</imgdir>
+    <imgdir name="5533023">
+		<string name="name" value="Dimension Hopper Hat Box"/>
+		<string name="desc" value="Contains hats that resemble your friends from other worlds.\r\nContains one of 5 hats."/>
+	</imgdir>
+    <imgdir name="5533024">
+		<string name="name" value="Calamitous Wig Box"/>
+		<string name="desc" value="These wigs are sure to give a much needed flair for your Black Friday! Contains 1 of 4 hat."/>
+	</imgdir>
+    <imgdir name="5240081">
+		<string name="name" value="Honey Soul Candy"/>
+		<string name="desc" value="A little drop of sweetness that's perfect for the #cHoney Angel#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+    <imgdir name="5240082">
+		<string name="name" value="Lime Soul Candy"/>
+		<string name="desc" value="A little drop of tart that's perfect for the #cLime Angel#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="6090000">
+		<string name="name" value="Riche"/>
+	</imgdir>
+    <imgdir name="6090001">
+		<string name="name" value="Snow Witch"/>
+	</imgdir>
+    <imgdir name="6090002">
+		<string name="name" value="Bamboo Warrior"/>
+	</imgdir>
+    <imgdir name="6090003">
+		<string name="name" value="Scholar Ghost"/>
+	</imgdir>
+    <imgdir name="6090004">
+		<string name="name" value="Rurumo"/>
+	</imgdir>
+    <imgdir name="6110300">
+		<string name="name" value="Homun"/>
+	</imgdir>
+    <imgdir name="6110301">
+		<string name="name" value="Saitie"/>
+	</imgdir>
+    <imgdir name="6130100">
+		<string name="name" value="Red Drake"/>
+	</imgdir>
+    <imgdir name="6130101">
+		<string name="name" value="Mushmom"/>
+	</imgdir>
+    <imgdir name="6130102">
+		<string name="name" value="Separated Pepe"/>
+	</imgdir>
+    <imgdir name="6130103">
+		<string name="name" value="Pepe"/>
+	</imgdir>
+    <imgdir name="6130104">
+		<string name="name" value="Boogie"/>
+	</imgdir>
+    <imgdir name="6130200">
+		<string name="name" value="Buffy"/>
+	</imgdir>
+    <imgdir name="6130201">
+		<string name="name" value="Blin"/>
+	</imgdir>
+    <imgdir name="6130202">
+		<string name="name" value="Morphed Blin"/>
+	</imgdir>
+    <imgdir name="6130203">
+		<string name="name" value="Panda"/>
+	</imgdir>
+    <imgdir name="6130204">
+		<string name="name" value="Mr. Alli"/>
+	</imgdir>
+    <imgdir name="6130207">
+		<string name="name" value="Peach Monkey"/>
+	</imgdir>
+    <imgdir name="6130208">
+		<string name="name" value="Kru"/>
+	</imgdir>
+    <imgdir name="6130209">
+		<string name="name" value="Sage Cat"/>
+	</imgdir>
+</imgdir>

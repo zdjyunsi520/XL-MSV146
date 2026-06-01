@@ -1,0 +1,7 @@
+<imgdir name="4221006">
+        <string name="name" value="烟幕弹" />
+        <string name="desc" value="在附近投下烟幕弹。烟幕弹范围内所有队员在持续时间内不会受到伤害。基于最大HP比例的攻击将减少伤害。此外，烟幕弹内的敌人将受到更多暴击伤害~" />
+        <string name="h" value="MP消耗: #mpCon，烟幕弹内暴击伤害: +#x%，按HP比例受到伤害: -#y%，持续时间: #time秒，冷却时间: #cooltime秒" />
+        <string name="pdesc" value="在附近投下烟幕弹。烟幕弹范围内所有队员在持续时间内不会受到伤害。基于最大HP比例的攻击将减少伤害。此外，烟幕弹内的敌人将受到更多暴击伤害~" />
+        <string name="ph" value="MP消耗: #mpCon，烟幕弹内暴击伤害: +#x%，按HP比例受到伤害: -#y%，持续时间: #time秒，冷却时间: #cooltime秒" />
+    </imgdir>

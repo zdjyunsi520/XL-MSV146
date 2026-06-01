@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431715">
+		<string name="desc" value="卡珊德拉的礼盒。她说需要30分钟让魔法在里面稳定下来才能安全打开。"/>
+		<string name="name" value="卡珊德拉的礼盒"/>
+	</imgdir>
+    <imgdir name="2431716">
+		<string name="desc" value="哇！这才是派对。让我们庆祝冒险岛9周年！"/>
+		<string name="name" value="欢乐音乐节音符"/>
+	</imgdir>
+    <imgdir name="2431717">
+		<string name="desc" value="传送石，可将你传送到9周年纪念公园，派对就在那里！#c每10分钟可使用一次。#"/>
+		<string name="name" value="9周年纪念公园传送石"/>
+	</imgdir>
+    <imgdir name="2450075">
+		<string name="desc" value="#c双击#获得#c1.5倍经验值#增益，持续#c1小时#。"/>
+		<string name="name" value="1.5倍经验值券"/>
+	</imgdir>
+    <imgdir name="2470009">
+		<string name="desc" value="锤子，提供50%几率为装备额外应用一张卷轴。每件物品只能使用1个锤子，任何失败尝试将消耗1个升级槽。"/>
+		<string name="name" value="黄金锤子50%"/>
+	</imgdir>
+    <imgdir name="2544000">
+		<string name="name" value="机器人猫咪发型券（男）"/>
+		<string name="desc" value="#c双击#将你的#c机器人#发型更改为#c[甜蜜猫咪发型]#。"/>
+	</imgdir>
+    <imgdir name="2545000">
+		<string name="name" value="机器人猫咪发型券（女）"/>
+		<string name="desc" value="#c双击#将你的#c机器人#发型更改为#c[猫咪发型]#。"/>
+	</imgdir>
+    <imgdir name="2550007">
+		<string name="desc" value="Inosys徽章盒，内容未知。\n#c双击查看里面有什么。只能在大世界合并活动期间打开。#"/>
+		<string name="name" value="Inosys徽章盒"/>
+	</imgdir>
+    <imgdir name="2550008">
+		<string name="name" value="梦想扎昆头盔盒"/>
+		<string name="desc" value="#c双击#获得一个梦想扎昆头盔。"/>
+	</imgdir>
+    <imgdir name="2550009">
+		<string name="name" value="梦想巴洛古鞋子盒"/>
+		<string name="desc" value="#c双击#获得一双梦想巴洛古鞋子。"/>
+	</imgdir>
+    <imgdir name="2550010">
+		<string name="name" value="梦想黑龙吊坠盒"/>
+		<string name="desc" value="#c双击#获得一个梦想黑龙吊坠。"/>
+	</imgdir>
+    <imgdir name="2550011">
+		<string name="name" value="梦想粉色豆套装盒"/>
+		<string name="desc" value="#c双击#获得一套梦想粉色豆套装。"/>
+	</imgdir>
+    <imgdir name="2550012">
+		<string name="name" value="梦想鬼火盒"/>
+		<string name="desc" value="#c双击#获得一个梦想鬼火。"/>
+	</imgdir>
+    <imgdir name="2550013">
+		<string name="desc" value="联盟徽章盒。内容未知。\n#c双击查看里面有什么。但只能在大世界合并活动期间打开。#"/>
+		<string name="name" value="联盟徽章盒"/>
+	</imgdir>
+    <imgdir name="2720000">
+		<string name="desc" value="切断物品与原主人之间的绑定，允许交易。此物品只能用于特定物品，不能用于已封印物品。"/>
+		<string name="name" value="银色因果剪刀"/>
+	</imgdir>
+    <imgdir name="2431700">
+		<string name="desc" value="#c双击#获得临时#c天使相伴坐骑#，可在城镇中使用高空飞行技能。"/>
+		<string name="name" value="天使相伴坐骑券"/>
+	</imgdir>
+    <imgdir name="2431579">
+		<string name="name" value="娜奥的礼盒"/>
+		<string name="desc" value="可爱的娜奥送来的盒子。谁知道她为你准备了什么？此盒子在2013年9月25日活动结束后无法使用。"/>
+	</imgdir>
+    <imgdir name="2432108">
+		<string name="name" value="骑士战车90天券"/>
+		<string name="desc" value="从今天开始，教授你[骑士战车]骑乘技能90天。"/>
+	</imgdir>
+    <imgdir name="2432109">
+		<string name="name" value="双乘神兽坐骑30天券"/>
+		<string name="desc" value="双击使用[双乘神兽坐骑]，从今天开始持续30天。\n即使没有技能也可以在此坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2431536">
+		<string name="desc" value="卡珊德拉送来的充满惊喜的盒子。\n#c双击打开。#"/>
+		<string name="name" value="热时间礼盒"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="80000006"><string name="name" value="钢铁意志"/><string name="desc" value="凯撒拥有丰厚的HP。"/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+    <imgdir name="70000000"><string name="name" value="力量提升"/><string name="desc" value="提升力量。"/><string name="h" value="STR +#strFX"/></imgdir>
+    <imgdir name="70000001"><string name="name" value="敏捷提升"/><string name="desc" value="提升敏捷。"/><string name="h" value="DEX +#dexFX"/></imgdir>
+    <imgdir name="70000002"><string name="name" value="智力提升"/><string name="desc" value="提升智力。"/><string name="h" value="INT +#intFX"/></imgdir>
+    <imgdir name="70000003"><string name="name" value="运气提升"/><string name="desc" value="提升运气。"/><string name="h" value="LUK +#lukFX"/></imgdir>
+    <imgdir name="70000004"><string name="name" value="命中率提升"/><string name="desc" value="提升命中率。"/><string name="h" value="Accuracy +#accX"/></imgdir>
+    <imgdir name="70000005"><string name="name" value="回避率提升"/><string name="desc" value="提升回避率。"/><string name="h" value="Avoidability +#evaX"/></imgdir>
+    <imgdir name="70000006"><string name="name" value="物理防御提升"/><string name="desc" value="提升物理防御。"/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="70000007"><string name="name" value="魔法防御提升"/><string name="desc" value="提升魔法防御。"/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="70000008"><string name="name" value="最大HP提升"/><string name="desc" value="提升最大HP。"/><string name="h" value="Max HP +#mhpX"/></imgdir>
+    <imgdir name="70000009"><string name="name" value="最大MP提升"/><string name="desc" value="提升最大MP。"/><string name="h" value="Max MP +#mmpX"/></imgdir>
+    <imgdir name="70000010"><string name="name" value="跳跃力提升"/><string name="desc" value="提升跳跃力。"/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="70000011"><string name="name" value="移动速度提升"/><string name="desc" value="提升移动速度。"/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="70000012"><string name="name" value="攻击力提升"/><string name="desc" value="提升攻击力。"/><string name="h" value="Attack +#padX"/></imgdir>
+    <imgdir name="70000013"><string name="name" value="魔法攻击力提升"/><string name="desc" value="提升魔法攻击力。"/><string name="h" value="Magic Attack +#madX"/></imgdir>
+    <imgdir name="70000014"><string name="name" value="暴击率提升"/><string name="desc" value="提升暴击率。"/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="70000015"><string name="name" value="全属性提升"/><string name="desc" value="提升所有属性。"/><string name="h" value="All Stats +#strFX"/></imgdir>
+    <imgdir name="70000016"><string name="name" value="攻击速度提升"/><string name="desc" value="提升攻击速度1级。"/><string name="h" value="Attack Speed +1 Level"/></imgdir>
+    <imgdir name="70000017"><string name="name" value="物防转魔防"/><string name="desc" value="按物理防御的比例提升魔法防御。"/><string name="h" value="#pdd2mdd% of Weapon DEF added to Magic DEF"/></imgdir>
+    <imgdir name="70000018"><string name="name" value="魔防转物防"/><string name="desc" value="按魔法防御的比例提升物理防御。"/><string name="h" value="#mdd2pdd% of Magic DEF added to Weapon DEF"/></imgdir>
+</imgdir>

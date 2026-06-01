@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046286">
+		<string name="name" value="Scroll for Homecoming Armor for M. ATT 25%"/>
+		<string name="desc" value="Improves Magic Attack on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046287">
+		<string name="name" value="Scroll for Homecoming Armor for STR 30%"/>
+		<string name="desc" value="Improves Strength on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nSTR: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046288">
+		<string name="name" value="Scroll for Homecoming Armor for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nDEX: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046289">
+		<string name="name" value="Scroll for Homecoming Armor for LUK 30%"/>
+		<string name="desc" value="Improves Luck on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nLUK: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046290">
+		<string name="name" value="Scroll for Homecoming Armor for INT 30%"/>
+		<string name="desc" value="Improves Intelligence on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nINT: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046291">
+		<string name="name" value="Scroll for Homecoming Armor for STR 80%"/>
+		<string name="desc" value="Improves Strength on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046292">
+		<string name="name" value="Scroll for Homecoming Armor for DEX 80%"/>
+		<string name="desc" value="Improves Dexterity on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046293">
+		<string name="name" value="Scroll for Homecoming Armor for LUK 80%"/>
+		<string name="desc" value="Improves Luck on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046294">
+		<string name="name" value="Scroll for Homecoming Armor for INT 80%"/>
+		<string name="desc" value="Improves Intelligence on Homecoming Victory armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046300">
+		<string name="name" value="Scroll for Accessory for STR 100%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046301">
+		<string name="name" value="Scroll for Accessory for INT 100%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046302">
+		<string name="name" value="Scroll for Accessory for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046303">
+		<string name="name" value="Scroll for Accessory for LUK 100%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046304">
+		<string name="name" value="Scroll for Accessory for STR 50%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046305">
+		<string name="name" value="Scroll for Accessory for INT 50%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046306">
+		<string name="name" value="Scroll for Accessory for DEX 50%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046307">
+		<string name="name" value="Scroll for Accessory for LUK 50%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046308">
+		<string name="name" value="[6th Anniversary] Accessory Enhancement Scroll 20%"/>
+		<string name="desc" value="Improves Max HP &amp; MP on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMax HP: +200\r\nMax MP: +200\r\n#"/>
+	</imgdir>
+    <imgdir name="2046309">
+		<string name="name" value="[6th Anniversary] Accessory Boost Scroll 20%"/>
+		<string name="desc" value="Improves Strength, Intelligence, Dexterity, and Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046314">
+		<string name="name" value="Scroll for Accessory STR 60%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+</imgdir>

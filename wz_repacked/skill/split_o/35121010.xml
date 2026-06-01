@@ -1,0 +1,7 @@
+<imgdir name="35121010">
+        <string name="name" value="Amplifier Robot AF-11" />
+        <string name="desc" value="The stationary amplifier robot &lt;AF-11&gt; is summoned to enhance the damage of all party members. AF-11 self-destructs when it runs out of power." />
+        <string name="h" value="MP Cost: #mpCon, Robot Duration: #time sec, Damage Buff: +#x%, Self-Destruct Damage: #selfDestruction% \n#cCooldown: #cooltime seconds#" />
+        <string name="pdesc" value="The stationary amplifier robot AF-11 enhances the damage of all nearby team members. AF-11 self-destructs when it runs out of power." />
+        <string name="ph" value="MP Cost: #mpCon, Robot Duration: #time sec, Damage Buff: +#x%, Self-Destruct Damage: #selfDestruction% \n#cCooldown: #cooltime seconds#" />
+    </imgdir>

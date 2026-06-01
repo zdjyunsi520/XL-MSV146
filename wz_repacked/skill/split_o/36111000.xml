@@ -1,0 +1,5 @@
+<imgdir name="36111000">
+        <string name="name" value="Combat Switch: Explosion" />
+        <string name="desc" value="Expands the Whip Blade and detonates its energy to damage several enemies. Change mode with Modal Shift." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

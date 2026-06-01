@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3603002">
+		<string name="name" value="Drop Rate 15%"/>
+		<string name="desc" value="Increases item drop rate."/>
+	</imgdir>
+    <imgdir name="3603003">
+		<string name="name" value="Drop Rate 20%"/>
+		<string name="desc" value="Increases item drop rate."/>
+	</imgdir>
+    <imgdir name="3603004">
+		<string name="name" value="Drop Rate 25%"/>
+		<string name="desc" value="Increases item drop rate."/>
+	</imgdir>
+    <imgdir name="3603005">
+		<string name="name" value="Drop Rate 30%"/>
+		<string name="desc" value="Increases item drop rate."/>
+	</imgdir>
+    <imgdir name="3603006">
+		<string name="name" value="(Unique Core) Drop Rate +20%"/>
+		<string name="desc" value="Increases item drop rate."/>
+	</imgdir>
+    <imgdir name="3603100">
+		<string name="name" value="Herb Drop Rate +10%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603101">
+		<string name="name" value="Herb Drop Rate +20%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603102">
+		<string name="name" value="Herb Drop Rate 30%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603103">
+		<string name="name" value="Herb Drop Rate 40%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603104">
+		<string name="name" value="Herb Drop Rate 50%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603105">
+		<string name="name" value="Herb Drop Rate 100%"/>
+		<string name="desc" value="Increases the drop rate of Herb crafting items."/>
+	</imgdir>
+    <imgdir name="3603200">
+		<string name="name" value="Mineral Drop Rate +10%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603201">
+		<string name="name" value="Mineral Drop Rate 20%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603202">
+		<string name="name" value="Mineral Drop Rate 30%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603203">
+		<string name="name" value="Mineral Drop Rate 40%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603204">
+		<string name="name" value="Mineral Drop Rate 50%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603205">
+		<string name="name" value="Mineral Drop Rate 100%"/>
+		<string name="desc" value="Increases the drop rate of Mineral crafting items."/>
+	</imgdir>
+    <imgdir name="3603300">
+		<string name="name" value="Rare Equipment Drop"/>
+		<string name="desc" value="Makes monsters drop equipment of Rare rank or higher."/>
+	</imgdir>
+    <imgdir name="3603400">
+		<string name="name" value="Herb Drop - Marjoram"/>
+		<string name="desc" value="Adds random instances of Marjoram Seeds and Flowers."/>
+	</imgdir>
+    <imgdir name="3603401">
+		<string name="name" value="Herb Drop - Lavender"/>
+		<string name="desc" value="Adds random instances of Lavender Seeds and Flowers."/>
+	</imgdir>
+</imgdir>

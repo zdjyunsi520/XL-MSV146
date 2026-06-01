@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="120100">
+		<string name="name" value="蘑菇"/>
+	</imgdir>
+    <imgdir name="1210100">
+		<string name="name" value="猪"/>
+	</imgdir>
+    <imgdir name="1210101">
+		<string name="name" value="丝带猪"/>
+	</imgdir>
+    <imgdir name="1210102">
+		<string name="name" value="橙色蘑菇"/>
+	</imgdir>
+    <imgdir name="2230131">
+		<string name="name" value="愤怒的僵尸蘑菇"/>
+	</imgdir>
+    <imgdir name="1110130">
+		<string name="name" value="沮丧的绿蘑菇"/>
+	</imgdir>
+    <imgdir name="1140130">
+		<string name="name" value="窃笑的幽灵木桩"/>
+	</imgdir>
+    <imgdir name="1150000">
+		<string name="name" value="巡逻机器人"/>
+	</imgdir>
+    <imgdir name="1150001">
+		<string name="name" value="奇怪的标志"/>
+	</imgdir>
+    <imgdir name="1150002">
+		<string name="name" value="蛇"/>
+	</imgdir>
+    <imgdir name="1210103">
+		<string name="name" value="冒泡"/>
+	</imgdir>
+    <imgdir name="1210104">
+		<string name="name" value="蓝丝带猪"/>
+	</imgdir>
+    <imgdir name="1220000">
+		<string name="name" value="黄色海星"/>
+	</imgdir>
+    <imgdir name="1220001">
+		<string name="name" value="愤怒的海星"/>
+	</imgdir>
+    <imgdir name="1220002">
+		<string name="name" value="水母"/>
+	</imgdir>
+    <imgdir name="1220003">
+		<string name="name" value="酷水母"/>
+	</imgdir>
+    <imgdir name="130100">
+		<string name="name" value="木桩"/>
+	</imgdir>
+    <imgdir name="130101">
+		<string name="name" value="红蜗牛"/>
+	</imgdir>
+    <imgdir name="150000">
+		<string name="name" value="盆栽幼苗"/>
+	</imgdir>
+    <imgdir name="150001">
+		<string name="name" value="盆栽牵牛花"/>
+	</imgdir>
+</imgdir>

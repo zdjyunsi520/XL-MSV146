@@ -1,0 +1,109 @@
+<imgdir name="Npc.img">
+    <imgdir name="21000">
+		<string name="name" value="潘"/>
+		<string name="func" value="防具商人"/>
+		<string name="n0" value="我准备好赚钱了！"/>
+		<string name="n1" value="来这里买你的货物！它们是好货。最好的！"/>
+		<string name="n2" value="任何偷窃的人都不会逃脱惩罚！"/>
+	</imgdir>
+    <imgdir name="2100000">
+		<string name="name" value="艾哈迈德"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s1" value="没有比我的地方更安全的了。"/>
+		<string name="s0" value="支付你的费用，我会保证你的物品安全。"/>
+	</imgdir>
+    <imgdir name="2101015">
+		<string name="name" value="阿卜杜拉八世"/>
+		<string name="n0" value="是的，是的。"/>
+		<string name="n1" value="做你想做的，我的女王。"/>
+	</imgdir>
+    <imgdir name="2101017">
+		<string name="name" value="塞萨尔"/>
+		<string name="func" value="皇家卫队队长"/>
+		<string name="n0" value="怪物削弱后使用元素石。"/>
+		<string name="n1" value="扰乱你的竞争对手总是个好主意。"/>
+	</imgdir>
+    <imgdir name="2101018">
+		<string name="name" value="塞萨尔"/>
+		<string name="func" value="皇家卫队队长"/>
+		<string name="n0" value="让我看看你在狩猎比赛中得到了什么。"/>
+		<string name="d0" value="阿里安特竞技场挑战赛！来参加这场速度、力量和决策技巧的伟大比赛怎么样？赢得这场比赛是所有战士的终极荣誉！"/>
+		<string name="d1" value="阿里安特竞技场挑战赛！来参加这场速度、力量和决策技巧的伟大比赛怎么样？赢得这场比赛是所有战士的终极荣誉！"/>
+		<string name="n1" value="阿里安特竞技场挑战赛！是庆祝所有冒险岛战士英勇的节日。"/>
+	</imgdir>
+    <imgdir name="2102">
+		<string name="name" value="妮娜"/>
+		<string name="n0" value="晚饭我该做什么？"/>
+		<string name="d0" value="不知道#b#p2001##k在忙什么..."/>
+		<string name="d1" value="我要给#p2001#做蘑菇汤。哪里可以弄到新鲜蘑菇？"/>
+		<string name="s0" value="喜欢我的衣服吗？嘻嘻。"/>
+	</imgdir>
+    <imgdir name="2102000">
+		<string name="name" value="阿塞森"/>
+		<string name="func" value="船员"/>
+		<string name="n0" value="前往奥比斯的乘客！请排队。"/>
+		<string name="n1" value="仔细检查确保你有票。"/>
+	</imgdir>
+    <imgdir name="2102001">
+		<string name="name" value="斯林"/>
+		<string name="func" value="船员"/>
+		<string name="n0" value="我们很快就要离开了。请稍等。"/>
+		<string name="n1" value="请注意船上的安全。"/>
+	</imgdir>
+    <imgdir name="2102002">
+		<string name="name" value="西拉斯"/>
+		<string name="func" value="售票处"/>
+		<string name="t0" value="票太贵了？那就别买！"/>
+		<string name="t1" value="只有我卖飞机票。"/>
+	</imgdir>
+    <imgdir name="2103">
+		<string name="name" value="玛丽亚"/>
+		<string name="a0" value="为什么没有人经过？！"/>
+		<string name="l0" value="哇，真的是那个时间吗？希望我不会太晚..."/>
+		<string name="h0" value="哦不。我该怎么办？"/>
+		<string name="d0" value="我应该把这个送到#m1010000#。但是...哦，我该怎么办？"/>
+		<string name="d1" value="现在我可以把重要消息送到镇上了。谢谢。你在用我给你的帽子吗？"/>
+		<string name="n0" value="啊！我必须把这封信送出去！"/>
+	</imgdir>
+    <imgdir name="2103000">
+		<string name="name" value="宫殿绿洲"/>
+	</imgdir>
+    <imgdir name="2103001">
+		<string name="name" value="秘密墙"/>
+	</imgdir>
+    <imgdir name="2110000">
+		<string name="name" value="罗森"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="你可以通过支付费用来保护你的物品和金币。"/>
+		<string name="s1" value="如果你有任何贵重物品，把它放在这里。"/>
+	</imgdir>
+    <imgdir name="2110001">
+		<string name="name" value="杰瑞"/>
+		<string name="func" value="杂货商"/>
+		<string name="s0" value="特殊药水出售！由玛加提亚的炼金术士制作。"/>
+		<string name="s1" value="哦，一瓶药水可能不够？"/>
+	</imgdir>
+    <imgdir name="2110002">
+		<string name="name" value="基奥尔"/>
+		<string name="func" value="物品制造者"/>
+		<string name="s0" value="你有任何想要精炼的矿物吗？"/>
+		<string name="d0" value="我受不了做事半途而废的人。"/>
+		<string name="d1" value="你有什么要告诉我的吗？我想让你知道我没有时间给你任何建议。"/>
+		<string name="s1" value="嗯...你还有很长的路要走。永远不要低估制作物品所需要的工作量。"/>
+	</imgdir>
+    <imgdir name="2110005">
+		<string name="name" value="骆驼出租车"/>
+	</imgdir>
+    <imgdir name="2111011">
+		<string name="name" value="墙"/>
+	</imgdir>
+    <imgdir name="2111012">
+		<string name="name" value="柜子"/>
+	</imgdir>
+    <imgdir name="2111014">
+		<string name="name" value="书桌"/>
+	</imgdir>
+    <imgdir name="2111015">
+		<string name="name" value="拉塞尔伦的书桌"/>
+	</imgdir>
+</imgdir>

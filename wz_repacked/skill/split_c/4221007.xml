@@ -1,0 +1,8 @@
+<imgdir name="4221007">
+        <string name="name" value="回旋斩" />
+        <string name="desc" value="两次快速斩击后有几率使敌人眩晕。同时永久提升所有攻击技能~" />
+        <string name="h" value="MP消耗: #mpCon，最大敌人数: #mobCount，伤害: #damage%，攻击次数: 2，眩晕几率: #prop%，眩晕时间: #time秒\n [被动效果: 所有攻击技能伤害增加#pdR%]" />
+        <string name="pdesc" value="两次快速斩击后有几率使敌人眩晕。同时永久提升所有攻击技能~" />
+        <string name="ph" value="MP消耗: #mpCon，最大敌人数: #mobCount，伤害: #damage%，攻击次数: 2，眩晕几率: #prop%，眩晕时间: #time秒\n [被动效果: 所有攻击技能伤害增加#pdR%]" />
+        <string name="hch" value="MP消耗: #mpCon，最大敌人数: #mobCount，伤害: #damage%，攻击次数: 2，眩晕几率: #prop%，眩晕时间: #time秒\n [被动效果: 所有攻击技能伤害增加#pdR%]" />
+    </imgdir>

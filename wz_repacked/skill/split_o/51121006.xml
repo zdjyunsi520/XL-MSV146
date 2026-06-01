@@ -1,0 +1,7 @@
+<imgdir name="51121006">
+        <string name="name" value="Roiling Soul" />
+        <string name="desc" value="Focuses a short burst of attacks on a single enemy with significantly higher damage." />
+        <string name="h" value="MP Cost: #mpCon, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, Max Enemies Targeted: #mobCount\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Focuses a short burst of attacks on a single enemy with significantly higher damage." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, Max Enemies Targeted: #mobCount\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="3221006">
+        <string name="name" value="Illusion Step" />
+        <string name="desc" value="Greatly enhances DEX and Avoidability for a short time. Also permanently reduces damage taken." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, DEX: +#dex, Avoidability: +#x%\nPassive Effects - Damage taken: -#ignoreMobDamR%" />
+        <string name="pdesc" value="Greatly boosts DEX and Avoidability for a short time." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, DEX: +#dex, Avoidability: +#x%" />
+    </imgdir>

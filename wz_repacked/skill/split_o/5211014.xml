@@ -1,0 +1,7 @@
+<imgdir name="5211014">
+        <string name="name" value="Octo-Cannon" />
+        <string name="desc" value="Summons the brave octopus crew and their super-powerful gatling cannon to blast nearby enemies." />
+        <string name="h" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons the brave octopus crew and their super-powerful gatling cannon to blast nearby enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

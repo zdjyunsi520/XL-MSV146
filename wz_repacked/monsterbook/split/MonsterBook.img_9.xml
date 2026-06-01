@@ -1,0 +1,280 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000329"/>
+			<int name="1" value="4000331"/>
+			<int name="2" value="4000330"/>
+			<int name="3" value="4010002"/>
+			<int name="4" value="4020003"/>
+			<int name="5" value="4010007"/>
+			<int name="6" value="2022155"/>
+			<int name="7" value="2000001"/>
+			<int name="8" value="2000003"/>
+			<int name="9" value="2040004"/>
+			<int name="10" value="2040501"/>
+			<int name="11" value="2040504"/>
+			<int name="12" value="2040801"/>
+			<int name="13" value="2041007"/>
+			<int name="14" value="2041004"/>
+			<int name="15" value="2043801"/>
+			<int name="16" value="2044001"/>
+			<int name="17" value="2044201"/>
+			<int name="18" value="2044601"/>
+			<int name="19" value="1082073"/>
+			<int name="20" value="1082025"/>
+			<int name="21" value="1082064"/>
+			<int name="22" value="1082074"/>
+			<int name="23" value="1032013"/>
+			<int name="24" value="2022053"/>
+			<int name="25" value="2022054"/>
+			<int name="26" value="2022055"/>
+			<int name="27" value="3993000"/>
+			<int name="28" value="1302063"/>
+			<int name="29" value="2049301"/>
+			<int name="30" value="2049401"/>
+			<int name="31" value="4001473"/>
+		</imgdir>
+    <imgdir name="3230100">
+		<string name="episode" value="Lv. :  35\nForm : Reptile\nSpecial Trait : -50% Poison Attribute Damage.\n\nThe Evil Eye monster that lives out on land. Once in open land, unlike the dark and damp areas of the marshes and underground regions where one Evil Eye can't be separated from another, the Evil Eyes had to find a way to camouflage themselves. The Curse Eye is the camouflaged version of the Evil Eye on land. "/>
+		<imgdir name="map">
+			<int name="0" value="101030000"/>
+			<int name="1" value="101030100"/>
+			<int name="2" value="101030101"/>
+			<int name="3" value="101030200"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000013"/>
+			<int name="1" value="2044502"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="4020006"/>
+			<int name="4" value="4001004"/>
+			<int name="5" value="2022053"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="2044902"/>
+			<int name="9" value="4007001"/>
+			<int name="10" value="4007007"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2060000"/>
+			<int name="14" value="1060024"/>
+			<int name="15" value="2040700"/>
+			<int name="16" value="1452003"/>
+		</imgdir>
+    <imgdir name="3230101">
+		<string name="episode" value=" Lv. :  35\nForm : Immortal\nSpecial Trait : Vulnerable to Sanctity Attribute Attack. Vulnerable to Fire Attribute Attacks.\n\nA ghost monster that was formed from the dark shadows of the subways. It is a dead yet undead creature that wears a white cloth over its body while floating around the world. It is an Undead which makes it vulnerable to Sanctity Attribute Attacks and strong against Physical Attacks."/>
+		<imgdir name="map">
+			<int name="0" value="103020200"/>
+			<int name="1" value="103020300"/>
+			<int name="2" value="103020310"/>
+			<int name="3" value="103020400"/>
+			<int name="4" value="103020410"/>
+			<int name="5" value="803000203"/>
+			<int name="6" value="803000204"/>
+			<int name="7" value="910360102"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4010003"/>
+			<int name="1" value="4020004"/>
+			<int name="2" value="4000035"/>
+			<int name="3" value="2022053"/>
+			<int name="4" value="2022054"/>
+			<int name="5" value="2022055"/>
+			<int name="6" value="2040027"/>
+			<int name="7" value="4007000"/>
+			<int name="8" value="4007003"/>
+			<int name="9" value="4280004"/>
+			<int name="10" value="4001473"/>
+			<int name="11" value="2000000"/>
+			<int name="12" value="1002113"/>
+			<int name="13" value="2043300"/>
+			<int name="14" value="1332002"/>
+		</imgdir>
+    <imgdir name="3230102">
+		<string name="episode" value=" Lv. :  37\nForm : Fish\nSpecial Trait : Vulnerable to Electricity Attribute Attacks.\n\nA monster that appears in the sand near the sea. Its speed and high defense rate render this monster difficult to hunt, but since it lives by the water, use magic of lightning attribute to attack its vulnerability."/>
+		<imgdir name="map">
+			<int name="0" value="120030100"/>
+			<int name="1" value="120030200"/>
+			<int name="2" value="120030300"/>
+			<int name="3" value="120030400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000043"/>
+			<int name="1" value="4020000"/>
+			<int name="2" value="4010005"/>
+			<int name="3" value="1302017"/>
+			<int name="4" value="4006001"/>
+			<int name="5" value="1322024"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="2040024"/>
+			<int name="10" value="2044802"/>
+			<int name="11" value="4007000"/>
+			<int name="12" value="4007001"/>
+			<int name="13" value="4001431"/>
+			<int name="14" value="4280004"/>
+			<int name="15" value="4001473"/>
+			<int name="16" value="2000002"/>
+			<int name="17" value="1061069"/>
+			<int name="18" value="2041006"/>
+			<int name="19" value="2049301"/>
+			<int name="20" value="1422007"/>
+		</imgdir>
+    <imgdir name="3230103">
+		<imgdir name="map">
+			<int name="0" value="221021200"/>
+			<int name="1" value="221021300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000100"/>
+			<int name="1" value="4131013"/>
+			<int name="2" value="2002007"/>
+			<int name="3" value="4020001"/>
+			<int name="4" value="4020003"/>
+			<int name="5" value="4004000"/>
+			<int name="6" value="2040302"/>
+			<int name="7" value="1032011"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="2022057"/>
+			<int name="11" value="4007004"/>
+			<int name="12" value="4007007"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2022000"/>
+			<int name="16" value="1041080"/>
+			<int name="17" value="2041014"/>
+			<int name="18" value="2049301"/>
+			<int name="19" value="2070004"/>
+		</imgdir>
+    <imgdir name="3230104">
+		<imgdir name="map">
+			<int name="0" value="230020000"/>
+			<int name="1" value="230020100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4020000"/>
+			<int name="1" value="4010001"/>
+			<int name="2" value="4000167"/>
+			<int name="3" value="2022053"/>
+			<int name="4" value="2022054"/>
+			<int name="5" value="2022055"/>
+			<int name="6" value="4007005"/>
+			<int name="7" value="4007006"/>
+			<int name="8" value="4280004"/>
+			<int name="9" value="4001473"/>
+			<int name="10" value="2022000"/>
+			<int name="11" value="1051046"/>
+			<int name="12" value="2040801"/>
+			<int name="13" value="2049401"/>
+			<int name="14" value="1412007"/>
+		</imgdir>
+    <imgdir name="3230200">
+		<string name="episode" value=" Lv. :  35\nForm : Spirit\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA cute little pixie that floats around wearing a red hat. When attacked, this monster uses its magic wand to summon small stars. Don't let this adorable pixie fool you, as it is not shy about boasting its strong resistance to attacks with sanctity attribute and high defense rate against magic. "/>
+		<imgdir name="map">
+			<int name="0" value="200010000"/>
+			<int name="1" value="200020000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000059"/>
+			<int name="1" value="4003004"/>
+			<int name="2" value="1302017"/>
+			<int name="3" value="4004001"/>
+			<int name="4" value="4020000"/>
+			<int name="5" value="4006000"/>
+			<int name="6" value="4010001"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4007000"/>
+			<int name="11" value="4007001"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2000006"/>
+			<int name="15" value="1060064"/>
+			<int name="16" value="2040703"/>
+			<int name="17" value="2049401"/>
+			<int name="18" value="1482005"/>
+		</imgdir>
+    <imgdir name="3230300">
+		<string name="episode" value=" Lv. :  35\nForm : Spirit\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA monster that has a unique appearance which resembles a round ball. It can cast deadly magic that weakens or temporarily disables its opponent's skills. A number of adventures have claimed that they were attacked by this monster while hunting Wild Bores, so keep that in mind and always remain alert if you're a Wild Bore hunter. Fortunately, this monster travels alone, so if you're of a certain level, you should be able to easily defeat this monster. "/>
+		<imgdir name="map">
+			<int name="0" value="102010000"/>
+			<int name="1" value="102010100"/>
+			<int name="2" value="910360102"/>
+			<int name="3" value="910360203"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000067"/>
+			<int name="1" value="4020000"/>
+			<int name="2" value="4010001"/>
+			<int name="3" value="4004000"/>
+			<int name="4" value="4004001"/>
+			<int name="5" value="4004002"/>
+			<int name="6" value="4004003"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4280004"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2000001"/>
+			<int name="13" value="1002132"/>
+			<int name="14" value="1482001"/>
+		</imgdir>
+    <imgdir name="3230302">
+		<string name="episode" value=" Lv. :  35\nForm : Enchanted\n\nAn enchantment has turned the octopus-shape blocks that were forming Eos Tower into monsters. Due to their impressive ability to jump when chasing their enemies, they are amongst the monsters the adventurers passing by Eos Tower should avoid or approach with caution. According to Dr. Kim of Omega Sector, these monsters have similar structural composition as aliens, but take that claim with a grain of salt as he doesn't exactly have the best track record.  "/>
+		<imgdir name="map">
+			<int name="0" value="221021300"/>
+			<int name="1" value="221021400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000099"/>
+			<int name="1" value="4131008"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4020004"/>
+			<int name="4" value="4004003"/>
+			<int name="5" value="4001125"/>
+			<int name="6" value="2022053"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="4007001"/>
+			<int name="10" value="4007002"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2061000"/>
+			<int name="14" value="1072152"/>
+			<int name="15" value="2043401"/>
+			<int name="16" value="2049301"/>
+			<int name="17" value="1412003"/>
+		</imgdir>
+    <imgdir name="3230303">
+		<string name="episode" value=" Lv. :  37\nForm : Enchanted\n\nA pink toy airplane that appears near the outer walls of Eos Tower in Ludibrium. It is battery-operated though not under control. The Propelly has caused many accidents while recklessly flying around, crashing into the passersby near Eos Tower. "/>
+		<imgdir name="map">
+			<int name="0" value="221021100"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000104"/>
+			<int name="1" value="4131007"/>
+			<int name="2" value="4130004"/>
+			<int name="3" value="4010005"/>
+			<int name="4" value="4020004"/>
+			<int name="5" value="4004001"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="4007001"/>
+			<int name="10" value="4007004"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2000004"/>
+			<int name="14" value="1061079"/>
+			<int name="15" value="2044001"/>
+			<int name="16" value="2049401"/>
+			<int name="17" value="1462008"/>
+		</imgdir>
+    <imgdir name="3230304">
+		<string name="episode" value=" Lv. :  38\nForm : Enchanted\n\nA blue toy airplane that appears near the outer walls of Eos Tower in Ludibrium. It is the biggest and the heaviest of all toy airplanes. The Planey occasionally crashes into the passersby because it struggles to support its own weight."/>
+		<imgdir name="map">
+			<int name="0" value="221020900"/>
+		</imgdir>
+</imgdir>

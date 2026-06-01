@@ -1,0 +1,5 @@
+<imgdir name="41121000">
+        <string name="name" value="雷三连斩" />
+        <string name="desc" value="对最多4名敌人发动三次毁灭性的斩击。有概率造成额外伤害。" />
+        <string name="h" value="消耗MP：#mpCon\n第1击-伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：2\n第2击-伤害：#x%，最大攻击敌人数：6，攻击次数：2\n第3击-伤害：#y%，最大攻击敌人数：6，攻击次数：3，额外伤害概率：#prop%，额外伤害：#z%" />
+    </imgdir>

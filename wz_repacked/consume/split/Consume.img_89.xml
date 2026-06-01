@@ -1,0 +1,96 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040757">
+		<string name="name" value="Scroll for Shoes for Speed 50%"/>
+		<string name="desc" value="Improves speed on shoes.\nSuccess rate:50%, speed+3, jump+1"/>
+	</imgdir>
+    <imgdir name="2040758">
+		<string name="name" value="Scroll for Shoes for ATT 100%"/>
+		<string name="desc" value="Improves attack on shoes.\nSuccess rate: 100%. Weapon Attack +1"/>
+	</imgdir>
+    <imgdir name="2040759">
+		<string name="name" value="Scroll for Shoes for ATT 60%"/>
+		<string name="desc" value="Improves attack on shoes.\nSuccess rate: 60%. Weapon Attack +2. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040760">
+		<string name="name" value="Scroll for Shoes for ATT 10%"/>
+		<string name="desc" value="Improves attack on shoes.\nSuccess rate: 10%, Weapon Attack +3. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040800">
+		<string name="name" value="Scroll for Gloves for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040801">
+		<string name="name" value="Scroll for Gloves for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040802">
+		<string name="name" value="Scroll for Gloves for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\nAccuracy: +100\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040803">
+		<string name="name" value="Scroll for Gloves for ATT 100%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040804">
+		<string name="name" value="Scroll for Gloves for ATT 60%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040805">
+		<string name="name" value="Scroll for Gloves for ATT 10%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nWeapon Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040806">
+		<string name="name" value="Scroll for Gloves for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +3\r\nAccuracy: +80\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2040807">
+		<string name="name" value="Scroll for Gloves for ATT 100%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040808">
+		<string name="name" value="Scroll for Gloves for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040809">
+		<string name="name" value="Scroll for Gloves for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\nAccuracy: +100\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040810">
+		<string name="name" value="Dark scroll for Gloves for ATT 70%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040811">
+		<string name="name" value="Dark scroll for Gloves for ATT 30%"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040812">
+		<string name="name" value="Dark scroll for Gloves for HP 70%"/>
+		<string name="desc" value="Improves Max HP on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nMax HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040813">
+		<string name="name" value="Dark scroll for Gloves for HP 30%"/>
+		<string name="desc" value="Improves Max HP on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMax HP +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040814">
+		<string name="name" value="Dark Scroll for Gloves for Magic Attack 70%"/>
+		<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 70%, magic attack+1, INT+1\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040815">
+		<string name="name" value="Dark Scroll for Gloves for Magic Attack 30%"/>
+		<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 30%, magic attack+3, INT+3, magic defense+1\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+</imgdir>

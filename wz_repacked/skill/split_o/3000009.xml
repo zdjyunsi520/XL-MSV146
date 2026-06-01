@@ -1,0 +1,5 @@
+<imgdir name="3000009">
+        <string name="name" value="Double Jump" />
+        <string name="desc" value="Allows you to double-jump to cover more distance. Double-tap the ↑,↑ arrow keys to jump once in midair. Press the ↓,↓ arrow keys to descend quickly." />
+        <string name="h" value="MP Cost: #mpCon, jumps further" />
+    </imgdir>

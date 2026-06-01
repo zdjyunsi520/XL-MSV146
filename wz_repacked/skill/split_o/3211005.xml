@@ -1,0 +1,5 @@
+<imgdir name="3211005">
+        <string name="name" value="Freezer" />
+        <string name="desc" value="Temporarily summons Freezer to deal Ice damage to up to 4 enemies. In addition, permanently increases Weapon/Magic Defense." />
+        <string name="h" value="MP Cost: #mpCon, summon Freezer for #time sec. Attacks up to 4 enemies at once with #damage% damage. Freezes for #x sec\n[Passive Effects: Increases Weapon/Magic Defense by #pddR%]" />
+    </imgdir>

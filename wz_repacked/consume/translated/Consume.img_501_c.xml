@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431761">
+		<string name="desc" value="#c双击#将装备、消耗、设置和其他物品栏扩展#c4格#。物品效果不适用于已达到最大格数的物品栏。"/>
+		<string name="name" value="4格优惠券"/>
+	</imgdir>
+    <imgdir name="2431762">
+		<string name="desc" value="#c双击#闪亮的金鹅蛋，每天可获得一次稀有物品。\n#c&lt;可能获得的物品&gt;\n-混沌卷轴60%\n-神奇混沌卷轴60%\n-善良混沌卷轴50%\n-纯洁卷轴50%\n-洗点卷轴10%\n-金色觉醒图章80%\n-高级装备强化卷轴\n-单个特殊潜能卷轴"/>
+		<string name="name" value="金鹅蛋"/>
+	</imgdir>
+    <imgdir name="2431764">
+		<string name="desc" value="双击获得永久[海盗领主囚犯坐骑]骑乘技能。"/>
+		<string name="name" value="海盗领主囚犯坐骑优惠券"/>
+	</imgdir>
+    <imgdir name="2431765">
+		<string name="desc" value="双击获得永久[摇晃木马]骑乘技能。"/>
+		<string name="name" value="摇晃木马坐骑优惠券"/>
+	</imgdir>
+    <imgdir name="2431766">
+		<string name="desc" value="庆祝冒险岛10周年的美丽烟花。"/>
+		<string name="name" value="冒险岛烟花"/>
+	</imgdir>
+    <imgdir name="2431767">
+		<string name="desc" value="来自穆尔戈斯的袋子。如果你运气好，可以从中获得灵魂碎片。活动结束后袋子无法使用。"/>
+		<string name="name" value="穆尔戈斯的袋子"/>
+	</imgdir>
+    <imgdir name="2431770">
+		<string name="desc" value="卡桑德拉送来的惊喜盒子。\n#c双击打开。#"/>
+		<string name="name" value="热时间盒子"/>
+	</imgdir>
+    <imgdir name="2431771">
+		<string name="desc" value="卡桑德拉送来的惊喜盒子。\n#c双击打开。#"/>
+		<string name="name" value="热时间盒子"/>
+	</imgdir>
+    <imgdir name="2431776">
+		<string name="desc" value="金鹅蛋。#c双击#每天获得一次稀有物品。"/>
+		<string name="name" value="金鹅蛋"/>
+	</imgdir>
+    <imgdir name="2431778">
+		<string name="desc" value="双击使用[海盗领主囚犯坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="海盗领主囚犯坐骑优惠券(90天)"/>
+	</imgdir>
+    <imgdir name="2431779">
+		<string name="desc" value="双击使用[摇晃木马]骑乘技能，持续90天。"/>
+		<string name="name" value="摇晃木马坐骑优惠券(90天)"/>
+	</imgdir>
+    <imgdir name="2431789">
+		<string name="desc" value="神秘的技能手册。双击提升所需技能的最高等级。"/>
+		<string name="name" value="技能手册20"/>
+	</imgdir>
+    <imgdir name="2431790">
+		<string name="desc" value="神秘的技能手册。双击提升所需技能的最高等级。"/>
+		<string name="name" value="技能手册30"/>
+	</imgdir>
+    <imgdir name="2431792">
+		<string name="desc" value="一个明亮的彩色盒子，里面装着来自彩虹的礼物。#c双击#查看里面有什么。在6月30日活动结束前可使用。"/>
+		<string name="name" value="彩虹盒子"/>
+	</imgdir>
+    <imgdir name="2431793">
+		<string name="desc" value="由冒险岛世界的象征枫叶施放的特殊增益。30分钟内增加武器/魔法攻击力。可与其他增益叠加使用。\r\n\r\n #c该增益对冒险家职业提供更强的效果。#"/>
+		<string name="name" value="枫叶祝福增益"/>
+	</imgdir>
+    <imgdir name="2431794">
+		<string name="desc" value="你获得了这张门票作为彩虹活动的奖励。邪恶的嘻哈超级小队De La Meow已经占领了废弃都市的后巷！打倒那些制造骚乱的流氓！\n双击传送到放克末日巷，他们最后被发现在那里非法说唱。"/>
+		<string name="name" value="彩虹特别放克末日巷门票"/>
+	</imgdir>
+    <imgdir name="2431795">
+		<string name="desc" value="#c双击#优惠券获得饰品卷轴60%。\n(恶魔复仇者获得饰品强化卷轴60%，其他职业获得饰品附魔卷轴60%)"/>
+		<string name="name" value="饰品卷轴兑换券"/>
+	</imgdir>
+    <imgdir name="2431797">
+		<string name="desc" value="双击获得永久[独角兽坐骑]骑乘技能。"/>
+		<string name="name" value="独角兽坐骑永久优惠券"/>
+	</imgdir>
+    <imgdir name="2431798">
+		<string name="desc" value="双击使用[独角兽坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="独角兽坐骑90天优惠券"/>
+	</imgdir>
+    <imgdir name="2431799">
+		<string name="desc" value="双击获得永久[龙坐骑]骑乘技能。"/>
+		<string name="name" value="龙坐骑永久优惠券"/>
+	</imgdir>
+</imgdir>

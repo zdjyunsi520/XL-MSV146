@@ -1,0 +1,7 @@
+<imgdir name="1311005">
+        <string name="name" value="Sacrifice" />
+        <string name="desc" value="Uses the hidden power of a dragon to deal an attack to one enemy that ignore an enemy&apos;s Defense by sacrificing your own HP. Does not ignore the DEF of bosses. Can only be used when your HP is 20% or above." />
+        <string name="h" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Number of Attacks: #attackCount" />
+        <string name="pdesc" value="Uses the hidden power of a dragon to deal an attack to one enemy that ignore an enemy&apos;s Defense by sacrificing your own HP. Does not ignore the DEF of bosses. Can only be used when your HP is 20% or above." />
+        <string name="ph" value="Cost: #mpCon MP and #x% HP, Damage: #damage%" />
+    </imgdir>

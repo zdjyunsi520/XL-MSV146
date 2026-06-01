@@ -1,0 +1,95 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040542">
+		<string name="name" value="全身铠甲强化卷轴 敏捷 50%"/>
+		<string name="desc" value="强化全身铠甲的敏捷。\n成功率：50%，敏捷+5，回避率+1，速度+1"/>
+	</imgdir>
+    <imgdir name="2040543">
+		<string name="name" value="全身铠甲强化卷轴 防御 50%"/>
+		<string name="desc" value="强化全身铠甲防御。\n成功率：50%，物理防御+5，魔法防御+4"/>
+	</imgdir>
+    <imgdir name="2040600">
+		<string name="name" value="下装强化卷轴 防御 100%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040601">
+		<string name="name" value="下装强化卷轴 防御 60%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040602">
+		<string name="name" value="下装强化卷轴 防御 10%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040603">
+		<string name="name" value="下装强化卷轴 防御 100%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+50\r\n物理防御：+30\r\n魔法防御：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2040604">
+		<string name="name" value="暗黑下装强化卷轴 防御 70%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040605">
+		<string name="name" value="暗黑下装强化卷轴 防御 30%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040606">
+		<string name="name" value="暗黑下装强化卷轴 跳跃 70%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n回避率：+20\r\n跳跃：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040607">
+		<string name="name" value="暗黑下装强化卷轴 跳跃 30%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n回避率：+40\r\n跳跃：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040608">
+		<string name="name" value="暗黑下装强化卷轴 HP 70%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040609">
+		<string name="name" value="暗黑下装强化卷轴 HP 30%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP +120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040610">
+		<string name="name" value="暗黑下装强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化下装的敏捷。\n成功率70%，敏捷+2，速度+1\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040611">
+		<string name="name" value="暗黑下装强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化下装的敏捷。\n成功率30%，敏捷+3，速度+3\n如果失败，物品有50%概率被破坏。"/>
+	</imgdir>
+    <imgdir name="2040612">
+		<string name="name" value="下装强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化下装的敏捷。\n成功率10%，敏捷+3，速度+3。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040613">
+		<string name="name" value="下装强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化下装的敏捷。\n成功率60%，敏捷+2，速度+1。这个卷轴的成功率可以通过维嘉的魔法提升。"/>
+	</imgdir>
+    <imgdir name="2040614">
+		<string name="name" value="下装强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化下装的敏捷。\n成功率100%，敏捷+1"/>
+	</imgdir>
+    <imgdir name="2040615">
+		<string name="name" value="下装强化卷轴 防御 65%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n物理防御：+20\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040616">
+		<string name="name" value="下装强化卷轴 防御 15%"/>
+		<string name="desc" value="强化下装防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大HP：+50\r\n物理防御：+50\r\n魔法防御：+30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040617">
+		<string name="name" value="下装强化卷轴 跳跃 100%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n跳跃：+1\r\n#"/>
+	</imgdir>
+</imgdir>

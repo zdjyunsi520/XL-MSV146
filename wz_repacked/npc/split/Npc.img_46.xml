@@ -1,0 +1,104 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000060">
+		<string name="name" value="Gingerbread man"/>
+		<string name="n0" value="Isn't the Treasure Box full of precious things?"/>
+		<string name="n1" value="Isn't the Treasure Box full of precious things?"/>
+		<string name="d0" value="Isn't the Treasure Box full of precious things?"/>
+		<string name="d1" value="Isn't the Treasure Box full of precious things?"/>
+	</imgdir>
+    <imgdir name="9001008">
+		<string name="name" value="Bohun"/>
+		<string name="n0" value="I am curious, really curious. If you can solve the meaning of my name, then you'll be able to receive the medal."/>
+	</imgdir>
+    <imgdir name="9001009">
+		<string name="name" value="Shimmy"/>
+		<string name="n0" value="Chips galore!"/>
+	</imgdir>
+    <imgdir name="9001100">
+		<string name="name" value="Gaga"/>
+		<string name="func" value="Part-time Bunny"/>
+		<string name="n0" value="The moon is so beautiful. So beautiful, but..."/>
+		<string name="n1" value="Where's Cassandra?"/>
+	</imgdir>
+    <imgdir name="9001108">
+		<string name="name" value="Gatekeeper Moon Bunny"/>
+	</imgdir>
+    <imgdir name="9010009">
+		<string name="name" value="Duey"/>
+		<string name="func" value="Package Deliverer"/>
+		<string name="n0" value="Faster package delivery than anyone else around. Guaranteed!"/>
+		<string name="n1" value="Maple Package Service! The one-stop shop for all your package needs."/>
+	</imgdir>
+    <imgdir name="9010010">
+		<string name="name" value="Cassandra"/>
+		<string name="n0" value="I know a fun activity or two. Interested?"/>
+		<string name="n1" value="You must be bored. I have something that should pique your interest. Wanna check it out?"/>
+		<string name="n2" value="Of course! You're looking for something to do! I know everything, you know."/>
+		<string name="d1" value="Did you like the story I told you the other day?"/>
+		<string name="d0" value="You want me to tell you what I saw in my crystal ball?"/>
+	</imgdir>
+    <imgdir name="9010016">
+		<string name="name" value="Aru"/>
+		<string name="n0" value="Every Monday and Tuesday at 4:05pm! What's on SBS? Maple Story Animation ON AIR beginning on the April 1st!"/>
+		<string name="n1" value="Now enjoy the amazing Maple Story in animation! On Air every Monday and Tuesday at 4:05pm from April 1st on SBS!"/>
+	</imgdir>
+    <imgdir name="9010017">
+		<string name="name" value="Dev Doll"/>
+		<string name="n0" value="Should I trade?"/>
+		<string name="n1" value="Please proceed with the test."/>
+	</imgdir>
+    <imgdir name="9010018">
+		<string name="name" value="Cryssea"/>
+		<string name="n1" value="You can find it at various places!"/>
+		<string name="n2" value="Do you want to know more about MapleStory iTCG?"/>
+		<string name="n0" value="MapleStory iTCG is in stores!"/>
+	</imgdir>
+    <imgdir name="9010019">
+		<string name="name" value="Mushroomie"/>
+		<string name="n0" value="What is it? Do you have anything that concerns you?"/>
+		<string name="n1" value="Tell me. I'm here to listen to your story."/>
+		<string name="func" value="Counselor"/>
+	</imgdir>
+    <imgdir name="9010020">
+		<string name="name" value="Witch's Tomb"/>
+	</imgdir>
+    <imgdir name="9020000">
+		<string name="name" value="Lakelis"/>
+		<string name="func" value="First Time Together"/>
+		<string name="d0" value="Party members must combine their powers to successfully complete their goals."/>
+		<string name="d1" value="Party members must combine their powers to successfully complete their goals."/>
+		<string name="n0" value="Do you want to join forces with your friends to complete this quest?"/>
+		<string name="n1" value="The only way you'll overcome the obstacles here is by working together in a party."/>
+	</imgdir>
+    <imgdir name="9020001">
+		<string name="name" value="Cloto"/>
+		<string name="n0" value="You need to answer my question in order to move on to the next level."/>
+		<string name="n1" value="The difficulty of this problem depends on how you relate to one another."/>
+	</imgdir>
+    <imgdir name="9020002">
+		<string name="name" value="Nella"/>
+		<string name="n0" value="If you want to leave this place, come talk to me."/>
+		<string name="n1" value="You can always get out of here through me."/>
+	</imgdir>
+    <imgdir name="9020003">
+		<string name="name" value="Dolphin"/>
+		<string name="func" value="Kenta in Danger"/>
+		<string name="n0" value="Please work with your party members to help Kenta..."/>
+	</imgdir>
+    <imgdir name="9020004">
+		<string name="name" value="Kenta"/>
+		<string name="n0" value="The ocean creatures have suddenly become very violent..."/>
+	</imgdir>
+    <imgdir name="9020005">
+		<string name="name" value="Jenn"/>
+		<string name="n0" value="Truth is, I wish I could just run away... But I must help the people trapped inside the castle."/>
+		<string name="func" value="Escape!"/>
+	</imgdir>
+    <imgdir name="9020006">
+		<string name="name" value="Captured Explorer"/>
+		<string name="n0" value="Who is the master of this castle? Why would he allow such things to happen? In any case, I must escape this place!"/>
+	</imgdir>
+    <imgdir name="9020007">
+		<string name="name" value="Kenta"/>
+	</imgdir>
+</imgdir>

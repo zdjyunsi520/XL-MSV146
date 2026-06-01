@@ -1,0 +1,5 @@
+<imgdir name="5320008">
+        <string name="name" value="Mega Monkey Magic" />
+        <string name="desc" value="Upgrade the magic of the monkey to increase the HP, MP, all stats, Speed, Jump, Accuracy, and Avoidability of all nearby party members for a fixed period of time. Can be stacked with other buffs.\nRequired Skill: #cMonkey Magic Lv. 20#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, HP: +#indieMhp, MP: +#indieMmp, All Stats: +#indieAllStat, Speed: +#indieSpeed, Jump +#indieJump, Accuracy: +#indieAcc, Avoidability +#indieEva" />
+    </imgdir>

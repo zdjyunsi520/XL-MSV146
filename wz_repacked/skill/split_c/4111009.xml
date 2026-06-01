@@ -1,0 +1,5 @@
+<imgdir name="4111009">
+        <string name="name" value="暗影飞镖" />
+        <string name="desc" value="释放飞镖之灵，短时间内可以无限投掷飞镖而不消耗库存中的飞镖。" />
+        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Duration: #time sec" />
+    </imgdir>

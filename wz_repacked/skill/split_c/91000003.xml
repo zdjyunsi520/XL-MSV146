@@ -1,0 +1,5 @@
+<imgdir name="91000003">
+        <string name="name" value="凶猛旗帜" />
+        <string name="desc" value="提升公会成员的物理攻击力和魔法攻击力。" />
+        <string name="h" value="物理攻击力+#padX，魔法攻击力+#madX" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="101101100">
+        <string name="name" value="Flash Cut" />
+        <string name="desc" value="Forcefully swing your long sword to attack multiple enemies in front of you." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount\n#cCooldown: #cooltime sec#" />
+    </imgdir>

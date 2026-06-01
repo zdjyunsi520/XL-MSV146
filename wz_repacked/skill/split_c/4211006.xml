@@ -1,0 +1,7 @@
+<imgdir name="4211006">
+        <string name="name" value="金币爆炸" />
+        <string name="desc" value="使附近金币飞起攻击敌人。他人的金币无法移动~\n前置技能: #c妙手空空 Lv. 1#" />
+        <string name="h" value="MP消耗: #mpCon，每枚金币伤害: #damage%, 最大敌人数: #mobCount, 弹数: #bulletCount" />
+        <string name="pdesc" value="使附近金币飞起攻击敌人。他人的金币无法移动~\n前置技能: #c妙手空空 Lv. 1#" />
+        <string name="ph" value="MP消耗: #mpCon，每枚金币伤害: #damage%, 最大敌人数: #mobCount, 弹数: #bulletCount" />
+    </imgdir>

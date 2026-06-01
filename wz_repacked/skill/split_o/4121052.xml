@@ -1,0 +1,5 @@
+<imgdir name="4121052">
+        <string name="name" value="Death Star" />
+        <string name="desc" value="Summons 4 shurikens that combine into one giant shuriken." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

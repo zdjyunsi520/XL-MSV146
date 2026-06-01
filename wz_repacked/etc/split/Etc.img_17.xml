@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000343">
+			<string name="name" value="Toad Oil"/>
+			<string name="desc" value="A small container that holds Toad oil."/>
+		</imgdir>
+    <imgdir name="4000344">
+			<string name="name" value="Kunoichi Dagger"/>
+			<string name="desc" value="A Kunoichi's favored weapon."/>
+		</imgdir>
+    <imgdir name="4000345">
+			<string name="name" value="Castellan's Stolen Armrest"/>
+			<string name="desc" value="An armrest that has the word &quot;Kamedeya&quot; stitched on it for some reason."/>
+		</imgdir>
+    <imgdir name="4000346">
+			<string name="name" value="Emperor Toad Wallet"/>
+			<string name="desc" value="A wallet that belonged to Emperor Toad. It's bursting with riches."/>
+		</imgdir>
+    <imgdir name="4000350">
+			<string name="name" value="Wooden Hammer"/>
+			<string name="desc" value="A wooden hammer that can be obtained by catching a Sand Rat."/>
+		</imgdir>
+    <imgdir name="4000351">
+			<string name="name" value="Scorpion Sting"/>
+			<string name="desc" value="The scorpion's poisonous stinger.  The poison is located at the tip of its sharp tail."/>
+		</imgdir>
+    <imgdir name="4000352">
+			<string name="name" value="Flaming Desert"/>
+			<string name="desc" value="A red sand crystal that the Dark Sand Dwarves carry around."/>
+		</imgdir>
+    <imgdir name="4000353">
+			<string name="name" value="Gelatin"/>
+			<string name="desc" value="A firm and transparent blob of gelatin."/>
+		</imgdir>
+    <imgdir name="4000354">
+			<string name="name" value="Beaker"/>
+			<string name="desc" value="A beaker that has been used in science experiments. "/>
+		</imgdir>
+    <imgdir name="4000355">
+			<string name="name" value="Homunculus's Sand"/>
+			<string name="desc" value="Sand that was a party of Homunculus's body.  There is a slight scent of chemicals."/>
+		</imgdir>
+    <imgdir name="4000356">
+			<string name="name" value="Flask"/>
+			<string name="desc" value="A flask that has been used in science experiments."/>
+		</imgdir>
+    <imgdir name="4000357">
+			<string name="name" value="Piece of Steel"/>
+			<string name="desc" value="A piece of steel that was a part of Iron Mutae."/>
+		</imgdir>
+    <imgdir name="4000358">
+			<string name="name" value="Hardened Piece of Steel"/>
+			<string name="desc" value="A hardened piece of steel that was a part of the upgraded Iron Muten."/>
+		</imgdir>
+    <imgdir name="4000359">
+			<string name="name" value="Piece of Mithril"/>
+			<string name="desc" value="A piece of Mithril that was a part of Mithril Mutae."/>
+		</imgdir>
+    <imgdir name="4000360">
+			<string name="name" value="Hardened Piece of Mithril"/>
+			<string name="desc" value="A hardened piece of Mithril that was a part of the upgraded Mithril Mutae."/>
+		</imgdir>
+    <imgdir name="4000361">
+			<string name="name" value="May Mist"/>
+			<string name="desc" value="An ingredient that was used to capture Homunculus."/>
+		</imgdir>
+    <imgdir name="4000362">
+			<string name="name" value="Broken Mechanical Heart"/>
+			<string name="desc" value="A mechanical heart.  Although it is currently broken, if fixed, it might be useful."/>
+		</imgdir>
+    <imgdir name="4000363">
+			<string name="name" value="Entry Pass"/>
+			<string name="desc" value="A pass that is needed to enter the research center."/>
+		</imgdir>
+    <imgdir name="4000364">
+			<string name="name" value="Wires"/>
+			<string name="desc" value="Coil of electric wires that was a part of Lloyd's body."/>
+		</imgdir>
+    <imgdir name="4000365">
+			<string name="name" value="Plug"/>
+			<string name="desc" value="An outlet that powers Neo Huroid."/>
+		</imgdir>
+</imgdir>

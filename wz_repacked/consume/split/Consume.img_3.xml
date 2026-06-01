@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2001001">
+		<string name="name" value="Ice Cream Pop"/>
+		<string name="desc" value="A tasty ice cream pop.\nRecovers around 2000 HP."/>
+	</imgdir>
+    <imgdir name="2001002">
+		<string name="name" value="Very Special Sundae"/>
+		<string name="desc" value="This frosty treat lets you forgot all about the hot, hot summer. \nRecovers around 2000 MP."/>
+	</imgdir>
+    <imgdir name="2001003">
+		<string name="name" value="Watermelon"/>
+		<string name="desc" value="A Ripe Watermelon. \nRecovers about 1000 HP and about 1000 MP."/>
+	</imgdir>
+    <imgdir name="2001500">
+		<string name="name" value="Red Potion"/>
+		<string name="desc" value="A potion made out of red herbs.\nRecovers 50 HP."/>
+	</imgdir>
+    <imgdir name="2001501">
+		<string name="name" value="Orange Potion"/>
+		<string name="desc" value="A concentrated potion made out of red herbs.\nRecovers 150 HP."/>
+	</imgdir>
+    <imgdir name="2001502">
+		<string name="name" value="White Potion"/>
+		<string name="desc" value="A highly-concentrated potion made out of red herbs.\nRecovers 300 HP."/>
+	</imgdir>
+    <imgdir name="2001503">
+		<string name="name" value="Blue Potion"/>
+		<string name="desc" value="A potion made out of blue herbs.\nRecovers 100 MP."/>
+	</imgdir>
+    <imgdir name="2001504">
+		<string name="name" value="Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers 50% of Max HP and MP, with a limit of 49,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2001505">
+		<string name="name" value="Power Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers all Max HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2001506">
+		<string name="name" value="Mana Elixir"/>
+		<string name="desc" value="A legendary potion.\nRecovers around 300 MP."/>
+	</imgdir>
+    <imgdir name="2001507">
+		<string name="name" value="Red Pill"/>
+		<string name="desc" value="A pill of concentrated red potion, which restores 50 HP. You can carry more pills than potions because they're smaller."/>
+	</imgdir>
+    <imgdir name="2001508">
+		<string name="name" value="Orange Pill"/>
+		<string name="desc" value="A pill of concentrated orange potion, which restores 150 HP. You can carry more pills than potions because they're smaller."/>
+	</imgdir>
+    <imgdir name="2001509">
+		<string name="name" value="White Pill"/>
+		<string name="desc" value="A pill of concentrated white potion, which restores 300 HP. You can carry more pills than potions because they're smaller."/>
+	</imgdir>
+    <imgdir name="2001510">
+		<string name="name" value="Blue Pill"/>
+		<string name="desc" value="A pill of concentrated blue potion, which restores 100 MP. You can carry more pills than potions because they're smaller."/>
+	</imgdir>
+    <imgdir name="2001511">
+		<string name="name" value="Mana Elixir Pill"/>
+		<string name="desc" value="A pill of concentrated Mana Elixir, which restores 300 MP. You can carry more pills than potions because they're smaller."/>
+	</imgdir>
+    <imgdir name="2001512">
+		<string name="name" value="Watermelon"/>
+		<string name="desc" value="A very ripe watermelon.\nRecovers about 1000 HP and 1000 MP."/>
+	</imgdir>
+    <imgdir name="2001513">
+		<string name="name" value="Ice Cream Pop"/>
+		<string name="desc" value="A tasty ice cream pop.\nRecovers around 2000 HP."/>
+	</imgdir>
+    <imgdir name="2001514">
+		<string name="name" value="Very Special Sundae"/>
+		<string name="desc" value="Definitely lets you forget about the hot hot summer. \nRecovers around 2000 MP."/>
+	</imgdir>
+    <imgdir name="2001515">
+		<string name="name" value="Dexterity Potion"/>
+		<string name="desc" value="Adds quickness.\nAvoidability +100 for 3 min."/>
+	</imgdir>
+    <imgdir name="2001516">
+		<string name="name" value="Speed Potion"/>
+		<string name="desc" value="Increases speed.\nSpeed +8 for 3 min."/>
+	</imgdir>
+</imgdir>

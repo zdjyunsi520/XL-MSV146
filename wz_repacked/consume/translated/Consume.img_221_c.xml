@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290914">
+		<string name="name" value="恶魔猎手神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本恶魔猎手职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290915">
+		<string name="name" value="恶魔猎手神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本恶魔猎手职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290916">
+		<string name="name" value="[能手册]光束舞步 20"/>
+		<string name="desc" value="70%概率将#c光束舞步#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290917">
+		<string name="name" value="[能手册]光束舞步 30"/>
+		<string name="desc" value="50%概率将#c光束舞步#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290918">
+		<string name="name" value="[能手册]机械净化 20"/>
+		<string name="desc" value="70%概率将#c机械净化#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290919">
+		<string name="name" value="[能手册]机械净化 30"/>
+		<string name="desc" value="50%概率将#c机械净化#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290920">
+		<string name="name" value="[能手册]Hypogram场 20"/>
+		<string name="desc" value="70%概率将#cHypogram场#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290921">
+		<string name="name" value="[能手册]Hypogram场 30"/>
+		<string name="desc" value="50%概率将#cHypogram场#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290922">
+		<string name="name" value="[能手册]OOPArts代码 20"/>
+		<string name="desc" value="70%概率将#cOOPArts代码#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290923">
+		<string name="name" value="[能手册]OOPArts代码 30"/>
+		<string name="desc" value="50%概率将#cOOPArts代码#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290924">
+		<string name="name" value="[能手册]进攻矩阵 20"/>
+		<string name="desc" value="70%概率将#c进攻矩阵#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290925">
+		<string name="name" value="[能手册]进攻矩阵 30"/>
+		<string name="desc" value="50%概率将#c进攻矩阵#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290926">
+		<string name="name" value="[能手册]瞬间冲击 20"/>
+		<string name="desc" value="70%概率将#c瞬间冲击#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290927">
+		<string name="name" value="[能手册]瞬间冲击 30"/>
+		<string name="desc" value="50%概率将#c瞬间冲击#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290928">
+		<string name="name" value="[能手册]异向量产专家 20"/>
+		<string name="desc" value="70%概率将#c异向量产专家#的最高等级提升到20级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290929">
+		<string name="name" value="[能手册]异向量产专家 30"/>
+		<string name="desc" value="50%概率将#c异向量产专家#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290930">
+		<string name="name" value="[特殊能手册]血之牢笼 20"/>
+		<string name="desc" value="100%概率将#c血之牢笼#的最高等级提升到20级。\n职业：恶魔猎手（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290931">
+		<string name="name" value="[特殊能手册]地狱火超越 20"/>
+		<string name="desc" value="100%概率将#c地狱火超越#的最高等级提升到20级。\n职业：恶魔猎手（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290932">
+		<string name="name" value="[特殊能手册]光束舞步 30"/>
+		<string name="desc" value="100%概率将#c光束舞步#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290933">
+		<string name="name" value="[特殊能手册]机械净化 30"/>
+		<string name="desc" value="100%概率将#c机械净化#的最高等级提升到30级。\n职业：异向量产（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

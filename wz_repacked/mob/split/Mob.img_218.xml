@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2600125">
+		<string name="name" value="Guardian Tower"/>
+	</imgdir>
+    <imgdir name="2600200">
+		<string name="name" value="Green Mushroom"/>
+	</imgdir>
+    <imgdir name="2600201">
+		<string name="name" value="Devastated Green Mushroom"/>
+	</imgdir>
+    <imgdir name="2600202">
+		<string name="name" value="Orange Mushroom"/>
+	</imgdir>
+    <imgdir name="2600203">
+		<string name="name" value="Horny Mushroom"/>
+	</imgdir>
+    <imgdir name="2600204">
+		<string name="name" value="Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="2600205">
+		<string name="name" value="Crying Blue Mushroom"/>
+	</imgdir>
+    <imgdir name="2600206">
+		<string name="name" value="Zombie Mushroom"/>
+	</imgdir>
+    <imgdir name="2600207">
+		<string name="name" value="Annoyed Zombie Mushroom"/>
+	</imgdir>
+    <imgdir name="2600208">
+		<string name="name" value="Mushmom"/>
+	</imgdir>
+    <imgdir name="2600209">
+		<string name="name" value="Stone Golem"/>
+	</imgdir>
+    <imgdir name="2600210">
+		<string name="name" value="Dark Stone Golem"/>
+	</imgdir>
+    <imgdir name="2600211">
+		<string name="name" value="Mixed Golem"/>
+	</imgdir>
+    <imgdir name="2600212">
+		<string name="name" value="Icy Mixed Golem"/>
+	</imgdir>
+    <imgdir name="2600213">
+		<string name="name" value="Flaming Mixed Golem"/>
+	</imgdir>
+    <imgdir name="2600214">
+		<string name="name" value="Metal Golem"/>
+	</imgdir>
+    <imgdir name="2600215">
+		<string name="name" value="Palm Tree Slime"/>
+	</imgdir>
+    <imgdir name="2600216">
+		<string name="name" value="Violet Clam Slime"/>
+	</imgdir>
+    <imgdir name="2600217">
+		<string name="name" value="Blue Tube Slime"/>
+	</imgdir>
+    <imgdir name="2600218">
+		<string name="name" value="Shrimp Slime"/>
+	</imgdir>
+</imgdir>

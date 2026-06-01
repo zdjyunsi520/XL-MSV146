@@ -1,0 +1,5 @@
+<imgdir name="100001271">
+        <string name="name" value="Time Dispel" />
+        <string name="desc" value="Fastforwards the time of the harmful effect on your character so it wears off right away." />
+        <string name="h" value="Time Force Cost: #forceCon, Nullifies Magic and  removes Abnormal Status effects.\nCooldown: #cooltime sec." />
+    </imgdir>

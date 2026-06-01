@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000121">
+			<string name="name" value="普拉顿的头盔"/>
+			<string name="desc" value="普拉顿一直戴着的头盔。里面很黏"/>
+		</imgdir>
+    <imgdir name="4000122">
+			<string name="name" value="梅卡顿的激光枪"/>
+			<string name="desc" value="梅卡顿携带的激光枪。似乎有特殊的启动方式"/>
+		</imgdir>
+    <imgdir name="4000123">
+			<string name="name" value="破旧的护目镜"/>
+			<string name="desc" value="一副破旧的护目镜。太小了"/>
+		</imgdir>
+    <imgdir name="4000124">
+			<string name="name" value="罗姆博特的存储卡"/>
+			<string name="desc" value="包含控制罗姆博特程序的存储卡"/>
+		</imgdir>
+    <imgdir name="4000125">
+			<string name="name" value="灰首领的徽章"/>
+			<string name="desc" value="只有灰首领才有的徽章。灰首领拥有的神秘力量似乎来源于此"/>
+		</imgdir>
+    <imgdir name="4000126">
+			<string name="name" value="MT-09的燃料"/>
+			<string name="desc" value="MT-09的燃料箱，装着未知液体。看起来少量也有很大威力"/>
+		</imgdir>
+    <imgdir name="4000127">
+			<string name="name" value="玩具鼓"/>
+			<string name="desc" value="从鼓兔那里获得的玩具鼓"/>
+		</imgdir>
+    <imgdir name="4000128">
+			<string name="name" value="巴菲帽"/>
+			<string name="desc" value="巴菲的彩色帽子"/>
+		</imgdir>
+    <imgdir name="4000129">
+			<string name="name" value="懒惰巴菲的弹珠"/>
+			<string name="desc" value="懒惰巴菲帽子顶端的弹珠。似乎隐藏着神秘力量"/>
+		</imgdir>
+    <imgdir name="4000130">
+			<string name="name" value="小丑的老爷钟"/>
+			<string name="desc" value="小丑用作武器的古老巨大老爷钟"/>
+		</imgdir>
+    <imgdir name="4000131">
+			<string name="name" value="深渊小丑的岩石碎片"/>
+			<string name="desc" value="深渊小丑戴在腰间的岩石碎片。相当重"/>
+		</imgdir>
+    <imgdir name="4000132">
+			<string name="name" value="幽灵海盗钥匙"/>
+			<string name="desc" value="卡在海盗船上的钥匙"/>
+		</imgdir>
+    <imgdir name="4000133">
+			<string name="name" value="双重海盗的螺旋桨"/>
+			<string name="desc" value="双重海盗乘坐的船的螺旋桨"/>
+		</imgdir>
+    <imgdir name="4000134">
+			<string name="name" value="维京船帆"/>
+			<string name="desc" value="维京人乘坐的船上的帆"/>
+		</imgdir>
+    <imgdir name="4000135">
+			<string name="name" value="巨型维京帽"/>
+			<string name="desc" value="巨型维京人戴的巨大帽子"/>
+		</imgdir>
+    <imgdir name="4000136">
+			<string name="name" value="椰子"/>
+			<string name="desc" value="佛罗里达海滩产的新鲜椰子"/>
+		</imgdir>
+    <imgdir name="4000137">
+			<string name="name" value="下属D的指甲"/>
+			<string name="desc" value="看起来像下属D的指甲"/>
+		</imgdir>
+    <imgdir name="4000138">
+			<string name="name" value="女老板的梳子"/>
+			<string name="desc" value="女老板总是随身携带的梳子"/>
+		</imgdir>
+    <imgdir name="4000139">
+			<string name="name" value="保镖A的领带夹"/>
+			<string name="desc" value="夹在保镖A领带上的别针"/>
+		</imgdir>
+    <imgdir name="4000140">
+			<string name="name" value="保镖B的弹壳"/>
+			<string name="desc" value="保镖B使用的枪的弹壳"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="4341005">
+        <string name="name" value="Chains of Hell" />
+        <string name="desc" value="When you have Dark Sight active, Chains of Hell pulls an enemy close to deal damage by attacking up to 10 times with an increased Critical Hit Rate. However, stationary monsters have to be in range. \n#cLv.11 or above: Mastery Book required#" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount,Damage: #damage%, Critical Hit Rate: +#cr%" />
+    </imgdir>

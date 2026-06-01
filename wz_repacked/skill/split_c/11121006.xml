@@ -1,0 +1,5 @@
+<imgdir name="11121006">
+        <string name="name" value="灵魂契约" />
+        <string name="desc" value="与远古存在缔结契约，成为坚定不移的战士。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time，全属性：#indieAllStat，暴击率：#indieCr%，站立概率：+#prop%" />
+    </imgdir>

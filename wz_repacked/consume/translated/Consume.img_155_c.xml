@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049322">
+		<string name="name" value="5星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。强化次数越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n为没有剩余升级次数的装备额外增加5级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049324">
+		<string name="name" value="5星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。强化次数越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n为没有剩余升级次数的装备额外增加5级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049326">
+		<string name="name" value="2星强化卷轴"/>
+		<string name="desc" value="强化#c已完成升级的装备#。强化次数越高，获得更好属性的概率越高。"/>
+		<string name="autodesc" value="\r\n#c成功率：90% \r\n为没有剩余升级次数的装备额外增加2级强化。\r\n#"/>
+	</imgdir>
+    <imgdir name="2049409">
+		<string name="name" value="传奇黑龙混沌卷轴"/>
+		<string name="desc" value="印有黑龙面孔的黑暗卷轴。\n传奇黑龙卷轴只能用于传奇黑龙戒指。"/>
+	</imgdir>
+    <imgdir name="2049413">
+		<string name="name" value="高级潜能卷轴"/>
+		<string name="desc" value="为普通装备提供潜能，不占用可用升级次数。\n#c只能用于普通物品。#\n成功率90%。失败时物品将被破坏。"/>
+	</imgdir>
+    <imgdir name="2049500">
+		<string name="name" value="黄金觉醒印章"/>
+		<string name="desc" value="#c双击#为已有少于两条潜能的装备添加一条潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049501">
+		<string name="name" value="白银觉醒印章"/>
+		<string name="desc" value="#c双击#为已有少于两条潜能的装备添加一条潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049502">
+		<string name="name" value="8周年觉醒印章"/>
+		<string name="desc" value="#c双击#选择一件有2条或更少潜能的8周年装备，添加1条额外潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049505">
+		<string name="name" value="雕刻黄金印章"/>
+		<string name="desc" value="#c双击#为已有少于两条潜能的装备添加一条潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049506">
+		<string name="name" value="完美雕刻印章"/>
+		<string name="desc" value="#c双击#为已有少于两条潜能的装备添加一条潜能。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n#"/>
+	</imgdir>
+    <imgdir name="2049900">
+		<string name="name" value="融合铁砧"/>
+	</imgdir>
+    <imgdir name="2049901">
+		<string name="name" value="融合铁砧"/>
+		<string name="autodesc" value="\r\n#c成功率：5%\r\n#"/>
+	</imgdir>
+    <imgdir name="2050000">
+		<string name="name" value="解毒剂"/>
+		<string name="desc" value="治愈中毒状态。"/>
+	</imgdir>
+    <imgdir name="2050001">
+		<string name="name" value="眼药水"/>
+		<string name="desc" value="治愈黑暗状态"/>
+	</imgdir>
+    <imgdir name="2050002">
+		<string name="name" value="滋补药"/>
+		<string name="desc" value="治愈虚弱状态。"/>
+	</imgdir>
+    <imgdir name="2050003">
+		<string name="name" value="圣水"/>
+		<string name="desc" value="使你从诅咒或被封印状态中恢复。"/>
+	</imgdir>
+    <imgdir name="2050004">
+		<string name="name" value="万能治愈药水"/>
+		<string name="desc" value="使你从任何异常状态中恢复。"/>
+	</imgdir>
+    <imgdir name="2050005">
+		<string name="name" value="全方位药水"/>
+		<string name="desc" value="在视野受限的地图中使用，可为你和你的队伍成员增加1分钟的视野。"/>
+	</imgdir>
+    <imgdir name="2050006">
+		<string name="name" value="猫头鹰药水"/>
+		<string name="desc" value="在视野受限的地图中恢复全部视野30秒。"/>
+	</imgdir>
+    <imgdir name="2050098">
+		<string name="name" value="失去的眼睛"/>
+		<string name="desc" value="失去的眼睛"/>
+	</imgdir>
+</imgdir>

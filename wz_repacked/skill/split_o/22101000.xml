@@ -1,0 +1,7 @@
+<imgdir name="22101000">
+        <string name="name" value="Fire Circle" />
+        <string name="desc" value="Shoots out a flame that attacks multiple enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="Shoots out a flame that attacks multiple enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

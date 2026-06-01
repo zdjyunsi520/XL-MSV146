@@ -1,0 +1,5 @@
+<imgdir name="41120010">
+        <string name="name" value="Counterattack" />
+        <string name="desc" value="A technique passed down from the Battoujutsu masters. Grants a chance to parry an enemy attack and dish out damage in return." />
+        <string name="h" value="Counterattack Chance: #prop%, \nCounterattack Damage: #damage% " />
+    </imgdir>

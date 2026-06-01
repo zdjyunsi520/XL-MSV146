@@ -1,0 +1,5 @@
+<imgdir name="27121052">
+        <string name="name" value="Armageddon" />
+        <string name="desc" value="Uses the Black Mage&apos;s power to render all enemies immobile and deal damage." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Immobile Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="21121054">
+        <string name="name" value="Unlimited Combo" />
+        <string name="desc" value="Temporarily skills will not use up your combo count." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec. All combo consumption set to 0. \nCooldown: #cooltime sec." />
+    </imgdir>

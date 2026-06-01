@@ -1,0 +1,81 @@
+<imgdir name="Cash.img">
+    <imgdir name="5220012">
+		<string name="name" value="双龙蛋孵化器"/>
+		<string name="desc" value="专为双龙蛋设计的孵化器。用它来获取宝藏吧！"/>
+	</imgdir>
+    <imgdir name="5220016">
+		<string name="name" value="小型节日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5220017">
+		<string name="name" value="中型节日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5220018">
+		<string name="name" value="大型节日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5220020">
+		<string name="name" value="网吧转蛋券"/>
+	</imgdir>
+    <imgdir name="5220023">
+		<string name="name" value="转蛋券"/>
+		<string name="desc" value="使用此券可以转动转蛋机，获得各种道具。"/>
+	</imgdir>
+    <imgdir name="5220082">
+		<string name="name" value="骑兽转蛋券"/>
+		<string name="desc" value="去城镇找伟大的嘎查皮罗特，可以用这张券兑换8张转蛋券。"/>
+	</imgdir>
+    <imgdir name="5220083">
+		<string name="name" value="新手包"/>
+		<string name="desc" value="包含4只固定怪物的背包。每个账号限购一个。\r\n此背包为纪念怪物跟班系统上线而推出。\n包含4只固定跟班：#c（小猪、云狐、受惊的野猪和红龙#（不可交易）\n#c每个账号限购一个#\r\n"/>
+	</imgdir>
+    <imgdir name="5220084">
+		<string name="name" value="加强包"/>
+		<string name="desc" value="随机获得3只怪物跟班的背包：2只普通和1只不常见或更高级别。\r\n\n#c内容由系统决定，不一定会给出稀有道具。获得更好道具的概率不受购买数量影响。#"/>
+	</imgdir>
+    <imgdir name="5220092">
+		<string name="name" value="传说加强包"/>
+		<string name="desc" value="这个加强包会给出3只稀有或更高级别的怪物跟班。\n等级：包含3只稀有跟班 - 一只50级以下，一只100级以下，一只100级以上。有小几率出现1-200级的传说跟班替代100级以上的稀有跟班。\n阶级：1只普通，1只普通或特殊，1只特殊或更好。\n#c使用道具后可获得一个传说跟班印章。收集20个即可获得传说跟班券，用来获取传说跟班。#内容由系统决定，不一定会给出稀有道具。获得更好道具的概率不受购买数量影响。"/>
+	</imgdir>
+    <imgdir name="5220094">
+		<string name="name" value="星岩转蛋券"/>
+		<string name="desc" value="去城镇找伟大的嘎查皮罗特，可以用这张券兑换1张转蛋券。"/>
+	</imgdir>
+    <imgdir name="5220097">
+		<string name="name" value="椅子转蛋券"/>
+		<string name="desc" value="使用此券与伟大的嘎查皮罗特对话，可转动椅子转蛋机获得各种椅子道具。"/>
+	</imgdir>
+    <imgdir name="5220098">
+		<string name="name" value="星岩转蛋券"/>
+		<string name="desc" value="将此券交给新叶城的伟大嘎查皮罗特，可获得随机星岩。"/>
+	</imgdir>
+    <imgdir name="5220099">
+		<string name="name" value="骑兽转蛋券"/>
+		<string name="desc" value="使用此券与伟大的嘎查皮罗特对话，可转动骑兽转蛋机获得各种骑兽道具。"/>
+	</imgdir>
+    <imgdir name="5220100">
+		<string name="name" value="强力转蛋券"/>
+		<string name="desc" value="使用此券与伟大的嘎查皮罗特对话，可转动强力转蛋机获得各种道具。"/>
+	</imgdir>
+    <imgdir name="5221000">
+		<string name="name" value="免费券"/>
+		<string name="desc" value="使用此券可以在商城中免费购买某些道具，无视价格。"/>
+	</imgdir>
+    <imgdir name="5221001">
+		<string name="name" value="附魔卷轴"/>
+		<string name="desc" value="拥有魔力能解开米沃克神器封印的卷轴。卷轴上写的是古老部落语言，需要NPC托·雷利西克的帮助才能使用。"/>
+	</imgdir>
+    <imgdir name="5222000">
+		<string name="name" value="高级商城惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5222006">
+		<string name="name" value="惊喜造型盒"/>
+		<string name="desc" value="打开盒子可获得1件随机装备。如果你不喜欢获得的道具，还可以交易给别人哦！"/>
+	</imgdir>
+    <imgdir name="5222007">
+		<string name="name" value="神秘惊喜造型盒"/>
+		<string name="desc" value="注入了神秘力量的盒子。里面藏着一个惊喜装扮道具等你来发现~"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="2311003">
+        <string name="name" value="Holy Symbol" />
+        <string name="desc" value="Temporarily allows all nearby party members to gain additional EXP while hunting. \nRequired Skill: #cDispel Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, EXP obtained increases with Skill Level." />
+    </imgdir>

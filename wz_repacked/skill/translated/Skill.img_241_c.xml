@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="100001010"><string name="name" value="无敌"/><string name="desc" value="让你暂时进入无敌状态。"/><string name="h1" value="持续时间: 30秒"/></imgdir>
+    <imgdir name="100001011"><string name="name" value="力量爆发"/><string name="desc" value="暂时提升你的伤害。"/><string name="h1" value="伤害: +100%, 持续时间: 30秒"/></imgdir>
+    <imgdir name="100001013"><string name="name" value="宇宙飞船"/><string name="desc" value="[大师等级: 2]\n可以乘坐宇宙飞船。连按左右方向键两次可提升移动速度和跳跃力。"/><string name="h1" value="MP消耗: 10, 物理/魔法防御力: +10, 移动速度: 150, 跳跃力: 120"/><string name="h2" value="MP消耗: 10, 物理/魔法防御力: +20, 移动速度: 170, 跳跃力: 120"/></imgdir>
+    <imgdir name="100001014"><string name="name" value="太空冲刺"/><string name="desc" value="[大师等级: 1]\n连按左右方向键两次可提升移动速度和跳跃力。"/></imgdir>
+    <imgdir name="100001015"><string name="name" value="太空光束"/><string name="desc" value="[大师等级: 1]\n可以改变太空矿场中克里普托的状态。"/></imgdir>
+    <imgdir name="100001020"><string name="name" value="法老之怒"/><string name="desc" value="[大师等级: 1]\n利用法老的愤怒进行攻击。"/><string name="h1" value="一击消灭金字塔内的所有怪物。"/></imgdir>
+    <imgdir name="100001026"><string name="name" value="翱翔"/><string name="desc" value="[大师等级: 1]\n借助龙族神秘力量在天空中翱翔。坠落时会受到巨大伤害。\n激活时消耗90MP，激活期间每秒消耗1MP。"/><string name="h1" value="MP消耗（激活时）: 90MP，MP消耗（激活期间）: 1MP/秒"/></imgdir>
+    <imgdir name="100001085"><string name="name" value="大天使"/><string name="desc" value="[大师等级: 1]\n召唤封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗: 100"/></imgdir>
+    <imgdir name="100000086"><string name="name" value="大天使祝福"/><string name="desc" value="[大师等级: 1] 获得大天使的祝福。"/><string name="h1" value="武器攻击力: +5, 魔法攻击力: +5, 持续时间: 10分钟"/></imgdir>
+    <imgdir name="100001087"><string name="name" value="暗黑天使"/><string name="desc" value="[大师等级: 1]\n召唤封印在暗黑天使祝福中的大天使。"/><string name="h1" value="MP消耗: 100"/></imgdir>
+    <imgdir name="100000088"><string name="name" value="暗黑天使祝福"/><string name="desc" value="[大师等级: 1] 获得暗黑天使的祝福。"/><string name="h1" value="武器攻击力: +10, 魔法攻击力: +10, 持续时间: 10分钟"/></imgdir>
+    <imgdir name="100001090"><string name="name" value="大天使"/><string name="desc" value="[大师等级: 1]\n召唤封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗: 100"/></imgdir>
+    <imgdir name="100000091"><string name="name" value="大天使祝福"/><string name="desc" value="[大师等级: 1] 获得大天使的祝福。"/><string name="h1" value="武器攻击力: +5, 魔法攻击力: +5, 持续时间: 10分钟"/></imgdir>
+    <imgdir name="100000093"><string name="name" value="隐藏潜力(英雄)"/><string name="pdesc" value="在关键时刻释放隐藏潜力。"/><string name="ph" value="HP低于#z%时所有攻击变为暴击，MP消耗: #y%"/></imgdir>
+    <imgdir name="100000097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令: #c攻击键#]"/><string name="ph" value="伤害: #damage%, 最大敌人数: #mobCount"/></imgdir>
+    <imgdir name="100001098"><string name="name" value="冰冻二段跳"/><string name="pdesc" value="允许进行二段跳。"/><string name="ph" value="MP消耗: 0, 额外跳跃距离\n冷却时间: #cooltime秒"/></imgdir>
+    <imgdir name="100000099"><string name="name" value="冰冻粉碎"/><string name="pdesc" value="将斧头变成巨剑冰冻多个敌人。冰冻量表充能至#c20以上#时可使用。\n[指令: #c↑↑ + 攻击键#]"/><string name="ph" value="冰冻量表消耗: #iceGageCon, 伤害: #damage%, 最大怪物数: #mobCount, 冰冻几率: #prob%, 冰冻持续时间: #time秒"/></imgdir>
+    <imgdir name="100000100"><string name="name" value="冰冻风暴"/><string name="pdesc" value="用冰之力量爆发持续伤害敌人。冰冻量表充能至#c40以上#时可使用。\n[指令: #c↓→ + 攻击键#]"/><string name="ph" value="冰冻量表消耗: #iceGageCon, 每#dotInterval秒造成#damage%伤害，持续#dotTime秒（最多#attackCount次），最大怪物数: #mobCount"/></imgdir>
+    <imgdir name="100000103"><string name="name" value="冰冻斩击"/><string name="pdesc" value="猛击敌人有几率眩晕。冰冻量表充能至#c5以上#时可使用。\n[指令: #c↓ + 攻击键#]"/><string name="ph" value="冰冻量表消耗: #iceGageCon, 伤害: #damage%, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕持续时间: #time秒"/></imgdir>
+    <imgdir name="100000104"><string name="name" value="冰冻诅咒"/><string name="pdesc" value="诅咒对手将其变成冰蜗牛。冰冻量表充能至#c160以上#时可使用。\n[指令: #c↓↑ + 攻击键#]"/><string name="ph" value="冰冻量表消耗: #iceGageCon。变成蜗牛几率: #prop%，蜗牛持续时间: #time秒"/></imgdir>
+</imgdir>

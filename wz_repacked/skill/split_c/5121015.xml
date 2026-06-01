@@ -1,0 +1,7 @@
+<imgdir name="5121015">
+        <string name="name" value="骷髅十字" />
+        <string name="desc" value="召唤过去海盗的灵魂短时间内提升攻击力。同时作为被动效果提升异常状态抗性、属性抗性和指虎熟练度~\n前置技能: #c指虎精通 Lv. 10#" />
+        <string name="h" value="MP消耗: #mpCon，持续时间: #time秒，伤害: +#x%。\n[被动效果: 指虎熟练度提升#mastery%，异常状态和所有属性抗性提升#terR%]" />
+        <string name="pdesc" value="召唤过去海盗的灵魂短时间内提升攻击力。同时作为被动效果提升异常状态抗性、属性抗性和指虎熟练度~\n前置技能: #c指虎精通 Lv. 10#" />
+        <string name="ph" value="MP消耗: #mpCon，持续时间: #time秒，伤害: +#x%。\n[被动效果: 指虎熟练度提升#mastery%，异常状态和所有属性抗性提升#terR%]" />
+    </imgdir>

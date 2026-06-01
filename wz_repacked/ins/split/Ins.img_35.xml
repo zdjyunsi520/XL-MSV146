@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3063010">
+		<string name="name" value="[A] Nebulite (DEX)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* DEX : +7#"/>
+	</imgdir>
+    <imgdir name="3063011">
+		<string name="name" value="[A] Nebulite (DEX)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* DEX : +8#"/>
+	</imgdir>
+    <imgdir name="3063020">
+		<string name="name" value="[A] Nebulite (INT)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* INT : +7#"/>
+	</imgdir>
+    <imgdir name="3063021">
+		<string name="name" value="[A] Nebulite (INT)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* INT : +8#"/>
+	</imgdir>
+    <imgdir name="3063030">
+		<string name="name" value="[A] Nebulite (LUK)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* LUK : +7#"/>
+	</imgdir>
+    <imgdir name="3063031">
+		<string name="name" value="[A] Nebulite (LUK)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* LUK : +8#"/>
+	</imgdir>
+    <imgdir name="3063040">
+		<string name="name" value="[A] Nebulite (Max HP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxHP : +100#"/>
+	</imgdir>
+    <imgdir name="3063041">
+		<string name="name" value="[A] Nebulite (Max HP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxHP : +110#"/>
+	</imgdir>
+    <imgdir name="3063042">
+		<string name="name" value="[A] Nebulite (Max HP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxHP : +120#"/>
+	</imgdir>
+    <imgdir name="3063050">
+		<string name="name" value="[A] Nebulite (Max MP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxMP : +100#"/>
+	</imgdir>
+    <imgdir name="3063051">
+		<string name="name" value="[A] Nebulite (Max MP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxMP : +110#"/>
+	</imgdir>
+    <imgdir name="3063052">
+		<string name="name" value="[A] Nebulite (Max MP)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* MaxMP : +120#"/>
+	</imgdir>
+    <imgdir name="3063060">
+		<string name="name" value="[A] Nebulite (Accuracy)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Accuracy : +28#"/>
+	</imgdir>
+    <imgdir name="3063061">
+		<string name="name" value="[A] Nebulite (Accuracy)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Accuracy : +30#"/>
+	</imgdir>
+    <imgdir name="3063062">
+		<string name="name" value="[A] Nebulite (Accuracy)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Accuracy : +32#"/>
+	</imgdir>
+    <imgdir name="3063063">
+		<string name="name" value="[A] Nebulite (Accuracy)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Accuracy : +34#"/>
+	</imgdir>
+    <imgdir name="3063070">
+		<string name="name" value="[A] Nebulite (Avoidability)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Avoidability : +28#"/>
+	</imgdir>
+    <imgdir name="3063071">
+		<string name="name" value="[A] Nebulite (Avoidability)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Avoidability : +30#"/>
+	</imgdir>
+    <imgdir name="3063072">
+		<string name="name" value="[A] Nebulite (Avoidability)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Avoidability : +32#"/>
+	</imgdir>
+    <imgdir name="3063073">
+		<string name="name" value="[A] Nebulite (Avoidability)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on all equipment with an empty socket.\n* Avoidability : +34#"/>
+	</imgdir>
+</imgdir>

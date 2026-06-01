@@ -1,0 +1,7 @@
+<imgdir name="24111000">
+        <string name="name" value="Blason" />
+        <string name="desc" value="Marks enemies with Phantom&apos;s coat of arms before slicing them to bits." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Marks enemies with Phantom&apos;s coat of arms before slicing them to bits." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

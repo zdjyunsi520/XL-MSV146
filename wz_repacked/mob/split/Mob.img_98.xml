@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="6400006">
+		<string name="name" value="Crimson Balrog"/>
+	</imgdir>
+    <imgdir name="6400007">
+		<string name="name" value="Baby Balrog"/>
+	</imgdir>
+    <imgdir name="6400008">
+		<string name="name" value="Jr. Balrog"/>
+	</imgdir>
+    <imgdir name="6400009">
+		<string name="name" value="Crimson Balrog"/>
+	</imgdir>
+    <imgdir name="6500000">
+		<string name="name" value="Thief Crow"/>
+	</imgdir>
+    <imgdir name="6500001">
+		<string name="name" value="Sakura Kappa"/>
+	</imgdir>
+    <imgdir name="6500002">
+		<string name="name" value="Sakura Genin"/>
+	</imgdir>
+    <imgdir name="6500003">
+		<string name="name" value="Sakura Chunin"/>
+	</imgdir>
+    <imgdir name="6500004">
+		<string name="name" value="Sakura Jonin"/>
+	</imgdir>
+    <imgdir name="6500005">
+		<string name="name" value="Sakura Ninto"/>
+	</imgdir>
+    <imgdir name="6500006">
+		<string name="name" value="Sakura Samurai"/>
+	</imgdir>
+    <imgdir name="6500010">
+		<string name="name" value="Sakura Toad"/>
+	</imgdir>
+    <imgdir name="6500011">
+		<string name="name" value="Daimyo Toad"/>
+	</imgdir>
+    <imgdir name="6500012">
+		<string name="name" value="Gigatoad"/>
+	</imgdir>
+    <imgdir name="6500013">
+		<string name="name" value="Sakura Genin"/>
+	</imgdir>
+    <imgdir name="6500014">
+		<string name="name" value="Sakura Chunin"/>
+	</imgdir>
+    <imgdir name="6500015">
+		<string name="name" value="Sakura Jonin"/>
+	</imgdir>
+    <imgdir name="8830000">
+		<string name="name" value="Balrog"/>
+	</imgdir>
+    <imgdir name="8830001">
+		<string name="name" value="Balrog"/>
+	</imgdir>
+    <imgdir name="8830002">
+		<string name="name" value="Balrog"/>
+	</imgdir>
+</imgdir>

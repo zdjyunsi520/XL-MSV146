@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="410">
+			<string name="title" value="10. The New Seal Stone" />
+			<int name="align" value="1" />
+			<imgdir name="0">
+				<imgdir name="0">
+					<string name="text" value="Fascinated, you watched as the Maple Leaf transformed into a jewel." />
+				</imgdir>
+				<imgdir name="1">
+					<string name="text" value="Suddenly, power filled your veins and your attacks began to have an effect. It was the blessing of a Goddess." />
+				</imgdir>
+				<imgdir name="2">
+					<string name="text" value="You gave it everything you had, and in the end, you vanquished the darkness." />
+				</imgdir>
+				<imgdir name="3">
+					<string name="text" value="The Goddess revealed she was spirit of Maple Island, who dwelled in the Maple Tree." />
+				</imgdir>
+				<imgdir name="4">
+					<string name="text" value="She sensed that the world was in danger, and sent her other self, Sugar, to keep watch." />
+				</imgdir>
+				<imgdir name="5">
+					<string name="text" value="She said the Maple Leaf had become the Seal Stone of Maple Island, formed out of your friends' desire to save the island." />
+				</imgdir>
+				<imgdir name="6">
+					<string name="text" value="Using its power, you restored Maple Island to its original form." />
+				</imgdir>
+				<imgdir name="7">
+					<string name="text" value="Then, you hugged your friends goodbye." />
+				</imgdir>
+				<imgdir name="8">
+					<string name="text" value="And so this story drew to a close, but others had yet to begin. More adventures awaited those with the will to search for them." />
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		</imgdir>

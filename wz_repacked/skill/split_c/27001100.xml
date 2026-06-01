@@ -1,0 +1,5 @@
+<imgdir name="27001100">
+        <string name="name" value="闪光雨" />
+        <string name="desc" value="[光之魔法]\n发射凝聚的光球，穿透飞行路径上的敌人！" />
+        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%." />
+    </imgdir>

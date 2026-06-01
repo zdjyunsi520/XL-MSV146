@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431899">
+		<string name="desc" value="双击使用[弹跳汽车坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="弹跳汽车坐骑90天优惠券"/>
+	</imgdir>
+    <imgdir name="2431900">
+		<string name="desc" value="给10级用户的武器盒子。"/>
+		<string name="name" value="10级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431901">
+		<string name="desc" value="给15级用户的武器盒子。"/>
+		<string name="name" value="15级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431902">
+		<string name="desc" value="给20级用户的武器盒子。"/>
+		<string name="name" value="20级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431903">
+		<string name="name" value="给25级用户的武器盒子。"/>
+		<string name="desc" value="25级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431904">
+		<string name="name" value="给30级用户的武器盒子。"/>
+		<string name="desc" value="30级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431905">
+		<string name="desc" value="给35级用户的武器盒子。"/>
+		<string name="name" value="35级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431906">
+		<string name="desc" value="给40级用户的武器盒子。"/>
+		<string name="name" value="40级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431907">
+		<string name="desc" value="给50级用户的武器盒子。"/>
+		<string name="name" value="50级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431908">
+		<string name="desc" value="给60级用户的武器盒子。"/>
+		<string name="name" value="60级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431909">
+		<string name="desc" value="给70级用户的武器盒子。"/>
+		<string name="name" value="70级武器盒子"/>
+	</imgdir>
+    <imgdir name="2431910">
+		<string name="desc" value="斯皮内尔专门为你这位回归冒险家制作的冰镇果汁。看起来喝起来很安全。"/>
+		<string name="name" value="斯皮内尔的冰镇果汁"/>
+	</imgdir>
+    <imgdir name="2431911">
+		<string name="desc" value="为回归冒险家制作的传送石。使用它可以传送到任何城镇，无论哪个大陆。#c冷却时间：20分钟。#"/>
+		<string name="name" value="回归冒险家传送石"/>
+	</imgdir>
+    <imgdir name="2431912">
+		<string name="desc" value="强大的金币游侠的支援！\r\n\r\n#c30分钟内增加你角色职业的主属性。"/>
+		<string name="name" value="金币游侠支援"/>
+	</imgdir>
+    <imgdir name="2431913">
+		<string name="desc" value="这个金币游侠盒子出奇地轻，几乎像是空的。"/>
+		<string name="name" value="轻便金币游侠盒子"/>
+	</imgdir>
+    <imgdir name="2431914">
+		<string name="desc" value="允许回归冒险家使用小兔子坐骑30天的优惠券。\n#c双击#使用骑乘技能。"/>
+		<string name="name" value="小兔子30天优惠券"/>
+	</imgdir>
+    <imgdir name="2431915">
+		<string name="desc" value="双击获得永久[鹈鹕坐骑]骑乘技能。"/>
+		<string name="name" value="鹈鹕坐骑永久优惠券"/>
+	</imgdir>
+    <imgdir name="2431916">
+		<string name="desc" value="双击使用[鹈鹕坐骑]骑乘技能，持续90天。"/>
+		<string name="name" value="鹈鹕坐骑90天优惠券"/>
+	</imgdir>
+    <imgdir name="2431917">
+		<string name="desc" value="卡桑德拉送来的惊喜盒子。\n#c双击打开。#"/>
+		<string name="name" value="快乐冷却幸运盒子"/>
+	</imgdir>
+    <imgdir name="2431918">
+		<string name="desc" value="卡桑德拉送来的惊喜盒子。\n#c双击打开。#"/>
+		<string name="name" value="快乐冷却幸运盒子"/>
+	</imgdir>
+</imgdir>

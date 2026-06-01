@@ -1,0 +1,119 @@
+<imgdir name="Npc.img">
+    <imgdir name="9120003">
+		<string name="name" value="Hikari"/>
+		<string name="n0" value="This is where you leave your pain and fatigue behind."/>
+		<string name="n1" value="If you're exhausted from work, how about a nice hot soak to ease your pain?"/>
+		<string name="d0" value="This is where you leave your pain and fatigue behind."/>
+		<string name="d1" value="If you're exhausted from work, how about a nice hot soak to ease your pain?"/>
+	</imgdir>
+    <imgdir name="9120004">
+		<string name="name" value="Momoyo"/>
+		<string name="func" value="Sauna Manager"/>
+		<string name="n0" value="Towels! Get your towels!"/>
+		<string name="n1" value="Get a limited edition towel today!"/>
+	</imgdir>
+    <imgdir name="9120005">
+		<string name="name" value="Umi"/>
+		<string name="n0" value="Ridiculous prices!"/>
+		<string name="n1" value="Freshly picked!"/>
+		<string name="d0" value="Ridiculous prices!"/>
+		<string name="d1" value="Freshly picked!"/>
+	</imgdir>
+    <imgdir name="9120006">
+		<string name="name" value="Skai"/>
+		<string name="n0" value="It's a movie premier!"/>
+		<string name="n1" value="I'm the lead actress!"/>
+	</imgdir>
+    <imgdir name="9120007">
+		<string name="name" value="Furano"/>
+		<string name="n0" value="Hey, no pushing!"/>
+		<string name="n1" value="Stay in line!"/>
+	</imgdir>
+    <imgdir name="9120008">
+		<string name="name" value="Tsuri"/>
+		<string name="n0" value="This was fished out by yours truly."/>
+		<string name="n1" value="Fishing is the best!"/>
+	</imgdir>
+    <imgdir name="9120009">
+		<string name="name" value="Yuse"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="Do you want to leave your mesos and items somewhere? This's the place for you!"/>
+		<string name="n1" value="You can safely store your items away here!"/>
+	</imgdir>
+    <imgdir name="9120010">
+		<string name="name" value="Faito"/>
+		<string name="func" value="Item Trader"/>
+		<string name="n0" value="How about a nice cup of coffee?"/>
+		<string name="n1" value="As long as you keep your eyes open, a jackpot may not be out of reach."/>
+	</imgdir>
+    <imgdir name="9120011">
+		<string name="name" value="Sakura"/>
+		<string name="n0" value="Argh, what should I do?"/>
+		<string name="n1" value="*Sniff sniff.*"/>
+		<string name="d0" value="Argh, what should I do?"/>
+		<string name="d1" value="*Sniff sniff.*"/>
+	</imgdir>
+    <imgdir name="9120012">
+		<string name="name" value="Fraidy Cat"/>
+		<string name="n0" value="I'm hungryyy..."/>
+		<string name="n1" value="Oh no, meow!"/>
+		<string name="d0" value="I'm hungryyy... Can you hear me out?"/>
+		<string name="d1" value="Meow!  Why don't you take me home? I'd make a nice pet!"/>
+	</imgdir>
+    <imgdir name="9120013">
+		<string name="name" value="Boss Kitty"/>
+		<string name="n0" value="Mrrow!"/>
+		<string name="n1" value="Hsss!"/>
+	</imgdir>
+    <imgdir name="9120014">
+		<string name="name" value="Popo"/>
+		<string name="n0" value="It's windy..."/>
+		<string name="n1" value="We shall protect this town with our all!"/>
+	</imgdir>
+    <imgdir name="9120015">
+		<string name="name" value="Konpei"/>
+		<string name="n0" value="Enthusiasm alone won't get it done here. Don't bother us."/>
+		<string name="n1" value="I'm not here to test your strength. This is a life-and-death situation!"/>
+	</imgdir>
+    <imgdir name="9120016">
+		<string name="name" value="Mariwaka"/>
+		<string name="n0" value="Say hello to the soon-to-be leading lady in a movie!"/>
+		<string name="n1" value="My gosh, why is the wind so strong?"/>
+	</imgdir>
+    <imgdir name="9120017">
+		<string name="name" value="Poni Chai"/>
+		<string name="n0" value="Ah... I'm so lonely."/>
+		<string name="n1" value="My carp flag is ruined. Oh no!"/>
+		<string name="d0" value="Ah... I'm so lonely."/>
+		<string name="d1" value="My carp flag is ruined. Oh no!"/>
+	</imgdir>
+    <imgdir name="9120018">
+		<string name="name" value="Grako"/>
+		<string name="n0" value="The back alley is dangerous, so I suggest you don't go near that place."/>
+		<string name="n1" value="A few days ago, a creepy individual kept following me."/>
+		<string name="d0" value="The back alley is dangerous, so I suggest you don't go near that place."/>
+		<string name="d1" value="A few days ago, a creepy individual kept following me."/>
+	</imgdir>
+    <imgdir name="9120019">
+		<string name="name" value="Momoyo"/>
+		<string name="func" value="Sauna Manager"/>
+		<string name="n0" value="Towels! Get your towels!"/>
+		<string name="n1" value="Get a limited edition towel today!"/>
+	</imgdir>
+    <imgdir name="9120023">
+		<string name="name" value="YokoYoko"/>
+		<string name="n0" value="Lasers shooting from my eyes!"/>
+		<string name="n1" value="One meal a day!"/>
+	</imgdir>
+    <imgdir name="9120024">
+		<string name="name" value="Ueriba"/>
+		<string name="n0" value="Thank you, thank you."/>
+		<string name="n1" value="Thank you for everything!"/>
+	</imgdir>
+    <imgdir name="9120100">
+		<string name="name" value="Tepei"/>
+		<string name="func" value="Hair Stylist"/>
+		<string name="n0" value="Welcome, welcome! My goodness, your hair's gone bad. You need some treatment!"/>
+		<string name="n1" value="Do you want luscious brown hair? Let me handle it!"/>
+	</imgdir>
+</imgdir>

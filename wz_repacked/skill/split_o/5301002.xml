@@ -1,0 +1,7 @@
+<imgdir name="5301002">
+        <string name="name" value="Cannon Booster" />
+        <string name="desc" value="Uses MP to increase the attack speed of your cannon by 2 levels for a fixed period of time. \nRequired Skill: #cCannon Mastery Lv. 5#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
+        <string name="pdesc" value="Uses MP to increase the attack speed of your cannon by 2 levels for a fixed period of time. \nRequired Skill: #cCannon Mastery Lv. 5#" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec" />
+    </imgdir>

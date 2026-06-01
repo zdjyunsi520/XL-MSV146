@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2002005">
+		<string name="name" value="神射手药水"/>
+		<string name="desc" value="增加命中。\n命中+100，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2002006">
+		<string name="name" value="战士药丸"/>
+		<string name="desc" value="浓缩战士药水的药丸。攻击+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2002007">
+		<string name="name" value="魔法药丸"/>
+		<string name="desc" value="浓缩魔法药水的药丸。魔法攻击+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2002008">
+		<string name="name" value="神射手药丸"/>
+		<string name="desc" value="浓缩神射手药水的药丸。命中+200，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2002009">
+		<string name="name" value="敏捷药丸"/>
+		<string name="desc" value="浓缩敏捷药水的药丸。回避率+200，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2002010">
+		<string name="name" value="速度药丸"/>
+		<string name="desc" value="浓缩速度药水的药丸。速度增加，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2002011">
+		<string name="name" value="止痛药"/>
+		<string name="desc" value="来自欧米茄区域的特殊止痛药。\n武器防御+300，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002012">
+		<string name="name" value="精华素"/>
+		<string name="desc" value="恢复HP和MP各50%。"/>
+	</imgdir>
+    <imgdir name="2002013">
+		<string name="name" value="力量精华素"/>
+		<string name="desc" value="完全恢复HP和MP。"/>
+	</imgdir>
+    <imgdir name="2002014">
+		<string name="name" value="铁身药"/>
+		<string name="desc" value="从欧米茄区域偷运出来的增强版止痛药。\n防御+30，持续30分钟。（修改请求）"/>
+	</imgdir>
+    <imgdir name="2002015">
+		<string name="name" value="Ppam精华素"/>
+		<string name="desc" value="来自Versal的稀有强效精华素。恢复90%的HP和MP，并在15分钟内获得攻击+5和防御+40的提升。"/>
+	</imgdir>
+    <imgdir name="2002016">
+		<string name="name" value="盗贼精华素"/>
+		<string name="desc" value="盗贼专用特殊精华素。8分钟内获得命中+9和回避率+15。"/>
+	</imgdir>
+    <imgdir name="2002017">
+		<string name="name" value="战士精华素"/>
+		<string name="desc" value="战士专用特殊精华素。8分钟内获得物理攻击+12。"/>
+	</imgdir>
+    <imgdir name="2002018">
+		<string name="name" value="法师精华素"/>
+		<string name="desc" value="法师专用特殊精华素。8分钟内获得魔法攻击+20。"/>
+	</imgdir>
+    <imgdir name="2002019">
+		<string name="name" value="弓箭手精华素"/>
+		<string name="desc" value="弓箭手专用特殊精华素。8分钟内获得回避率+20。"/>
+	</imgdir>
+    <imgdir name="2002020">
+		<string name="name" value="魔力公牛"/>
+		<string name="desc" value="在新叶城制作的特殊药水，恢复60% MP。"/>
+	</imgdir>
+    <imgdir name="2002021">
+		<string name="name" value="霍姆斯特"/>
+		<string name="desc" value="在新叶城制作的特殊药水，恢复60% HP。"/>
+	</imgdir>
+    <imgdir name="2002022">
+		<string name="name" value="人参根"/>
+		<string name="desc" value="恢复HP和MP各40%的纯人参提取物。"/>
+	</imgdir>
+    <imgdir name="2002023">
+		<string name="name" value="姜汁啤酒"/>
+		<string name="desc" value="浓酿姜汁啤酒。恢复HP和MP各75%。"/>
+	</imgdir>
+    <imgdir name="2002024">
+		<string name="name" value="巫师精华素"/>
+		<string name="desc" value="非常适合法师的稀有药水。恢复1500 MP。"/>
+	</imgdir>
+</imgdir>

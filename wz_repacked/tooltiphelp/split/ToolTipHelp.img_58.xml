@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Link 2"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Link 4"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Link 9"/>
+			</imgdir>
+    <imgdir name="957015000">
+			<imgdir name="0">
+				<string name="Title" value="Link 2"/>
+			</imgdir>
+    <imgdir name="957016000">
+			<imgdir name="0">
+				<string name="Title" value="Link 4"/>
+			</imgdir>
+    <imgdir name="957017000">
+			<imgdir name="0">
+				<string name="Title" value="Link 3"/>
+			</imgdir>
+    <imgdir name="957018000">
+			<imgdir name="0">
+				<string name="Title" value="Link 5"/>
+			</imgdir>
+    <imgdir name="130000200">
+			<imgdir name="0">
+				<string name="Title" value="Training Forest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Knights Chamber"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="in the direction of the Sky Ferry"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Free Market"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Ereve Weapon Store"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Sky Ferry"/>
+				<string name="Desc" value="The ship that passes through Ereve is at anchor."/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="200000160">
+			<imgdir name="0">
+				<string name="Title" value="Orbis Station Waiting Room"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Station to Ereve"/>
+			</imgdir>
+    <imgdir name="200000200">
+			<imgdir name="0">
+				<string name="Title" value="Hair Salon"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Plastic Surgery"/>
+			</imgdir>
+</imgdir>

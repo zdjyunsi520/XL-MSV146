@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="80001096"><string name="name" value="Seth&apos;s Eye"/><string name="desc" value="20% chance to inflict additional damage"/></imgdir>
+    <imgdir name="80001097"><string name="name" value="Maat&apos;s Eye"/><string name="desc" value="20% chance to inflict continuous fire damage"/></imgdir>
+    <imgdir name="80001098"><string name="name" value="Imhotep&apos;s Eye"/><string name="desc" value="30% chance to do an additional attack"/></imgdir>
+    <imgdir name="80001099"><string name="name" value="Apis&apos;s Eye"/><string name="desc" value="30% chance to inflict continuous fire damage"/></imgdir>
+    <imgdir name="80001100"><string name="name" value="Horus&apos;s Eye"/><string name="desc" value="30% chance to slow target"/></imgdir>
+    <imgdir name="80001101"><string name="name" value="Isis&apos;s Eye"/><string name="desc" value="20% chance to stun target"/></imgdir>
+    <imgdir name="80001102"><string name="name" value="Amun&apos;s Eye"/><string name="desc" value="40% chance to slow target"/></imgdir>
+    <imgdir name="80001103"><string name="name" value="Ra&apos;s Eye"/><string name="desc" value="30% chance to stun target"/></imgdir>
+    <imgdir name="80001104"><string name="name" value="Anubis&apos;s Eye"/><string name="desc" value="Momentarily increases Weapon/Magic ATT by 40."/></imgdir>
+    <imgdir name="80001105"><string name="name" value="Horus&apos;s Eye"/><string name="desc" value="Decreases Speed of all monsters by 60%."/></imgdir>
+    <imgdir name="80001106"><string name="name" value="Isis&apos;s Eye"/><string name="desc" value="Inflicts continuous fire damage to all monsters for 5 seconds."/></imgdir>
+    <imgdir name="80001107"><string name="name" value="Osiris&apos;s Eye"/><string name="desc" value="Inflicts stun on all monsters for 1 second."/></imgdir>
+    <imgdir name="80001108"><string name="name" value="Ra&apos;s Eye"/><string name="desc" value="Eliminates one nearby monster."/></imgdir>
+    <imgdir name="80001111"><string name="name" value="Rex&apos;s Hyena"/><string name="desc" value="[Master Level: 1]\nAllows you to ride a Rex&apos;s Hyena."/></imgdir>
+    <imgdir name="80001112"><string name="name" value="Panda Mount"/><string name="desc" value="[Master Level: 1]\nAllows you to ride a Panda."/><string name="h" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 170%, Jump: 120%"/></imgdir>
+    <imgdir name="80001114"><string name="name" value="Bunny Buddy Buggy"/><string name="desc" value="[Master Level: 1]\nAllows you to ride Bunny Buddy Buggy."/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="80001121"><string name="name" value="Crimson Nightmare"/><string name="desc" value="[Master Level: 1]\nAllows you to ride a Crimson Nightmare"/><string name="h1" value="MP Cost: 10, Weapon and Magic DEF: +10, Speed: 140%, Jump: 120%"/></imgdir>
+    <imgdir name="80001122"><string name="name" value="Halloween Pumpkin"/><string name="desc" value="Tosses a pumpkin at your foes, which is the ultimate sign of respect in some cultures."/></imgdir>
+    <imgdir name="80000133"><string name="name" value="Apprentice Hunter"/><string name="desc" value="Proof that you have become an apprentice member of Silent Crusade."/><string name="h" value="All Stats +#strX, HP/MP +#mhpX"/></imgdir>
+    <imgdir name="80000134"><string name="name" value="Capable Hunter"/><string name="desc" value="Proof that you have become a B Rank member of Silent Crusade."/><string name="h" value="All Stats +#strX, HP/MP +#mhpX"/></imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2291022">
+		<string name="name" value="[能手册]长杖专家 20"/>
+		<string name="desc" value="70%概率将#c长杖专家#的最高等级提升到20级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2291023">
+		<string name="name" value="[能手册]长杖专家 30"/>
+		<string name="desc" value="50%概率将#c长杖专家#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2291024">
+		<string name="name" value="[特殊能手册]长杖专家 30"/>
+		<string name="desc" value="100%概率将#c长杖专家#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290390">
+		<string name="name" value="[特殊能手册]巨型机器人 SG-88 30"/>
+		<string name="desc" value="100%概率将#c巨型机器人 SG-88#的最高等级提升到30级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290391">
+		<string name="name" value="[特殊能手册]导弹坦克 30"/>
+		<string name="desc" value="100%概率将#c导弹坦克#的最高等级提升到30级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290392">
+		<string name="name" value="[特殊能手册]机器人与孩子 30"/>
+		<string name="desc" value="100%概率将#c机器人与孩子#的最高等级提升到30级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290393">
+		<string name="name" value="[特殊能手册]放大器机器人 AF-11 20"/>
+		<string name="desc" value="100%概率将#c放大器机器人 AF-11#的最高等级提升到20级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290394">
+		<string name="name" value="[特殊能手册]激光爆破 30"/>
+		<string name="desc" value="100%概率将#c激光爆破#的最高等级提升到30级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290395">
+		<string name="name" value="[特殊能手册]卫星安全 20"/>
+		<string name="desc" value="100%概率将#c卫星安全#的最高等级提升到20级。\n职业：机械师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290396">
+		<string name="name" value="[特殊能手册]全力挥击 30"/>
+		<string name="desc" value="100%概率将#c全力挥击#的最高等级提升到30级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290397">
+		<string name="name" value="[特殊能手册]高级精通 20"/>
+		<string name="desc" value="100%概率将#c高级精通#的最高等级提升到20级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290398">
+		<string name="name" value="[特殊能手册]冰冻站立 20"/>
+		<string name="desc" value="100%概率将#c冰冻站立#的最高等级提升到20级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290399">
+		<string name="name" value="[特殊能手册]最终一击 30"/>
+		<string name="desc" value="100%概率将#c最终一击#的最高等级提升到30级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290400">
+		<string name="name" value="[特殊能手册]高级防御 20"/>
+		<string name="desc" value="100%概率将#c高级防御#的最高等级提升到20级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290401">
+		<string name="name" value="[特殊能手册]连击风暴 30"/>
+		<string name="desc" value="100%概率将#c连击风暴#的最高等级提升到30级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290402">
+		<string name="name" value="[特殊能手册]连击护盾 30"/>
+		<string name="desc" value="100%概率将#c连击护盾#的最高等级提升到30级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290403">
+		<string name="name" value="[特殊能手册]高级终极攻击 30"/>
+		<string name="desc" value="100%概率将#c高级终极攻击#的最高等级提升到30级。\n职业：阿岚（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290404">
+		<string name="name" value="[特殊能手册]幻影 30"/>
+		<string name="desc" value="100%概率将#c幻影#的最高等级提升到30级。\n职业：埃文（9转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290405">
+		<string name="name" value="[特殊能手册]火焰之轮 30"/>
+		<string name="desc" value="100%概率将#c火焰之轮#的最高等级提升到30级。\n职业：埃文（9转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290406">
+		<string name="name" value="[特殊能手册]魔法精通 30"/>
+		<string name="desc" value="100%概率将#c魔法精通#的最高等级提升到30级。\n职业：埃文（9转）\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

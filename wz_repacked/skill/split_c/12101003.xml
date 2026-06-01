@@ -1,0 +1,5 @@
+<imgdir name="12101003">
+        <string name="name" value="传送" />
+        <string name="desc" value="使用方向键传送到同一地图内的其他位置！" />
+        <string name="h" value="MP Cost: #mpCon, Range: #range" />
+    </imgdir>

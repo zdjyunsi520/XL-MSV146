@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430768">
+		<string name="name" value="装备栏8格券"/>
+		<string name="desc" value="双击扩展你的装备栏8格。你最多可以有96格。"/>
+	</imgdir>
+    <imgdir name="2430769">
+		<string name="name" value="消耗栏8格券"/>
+		<string name="desc" value="双击扩展你的消耗栏8格。你最多可以有96格。"/>
+	</imgdir>
+    <imgdir name="2430770">
+		<string name="name" value="设置栏8格券"/>
+		<string name="desc" value="双击扩展你的设置栏8格。你最多可以有96格。"/>
+	</imgdir>
+    <imgdir name="2430771">
+		<string name="name" value="其他栏8格券"/>
+		<string name="desc" value="双击扩展你的其他栏8格。你最多可以有96格。"/>
+	</imgdir>
+    <imgdir name="2430779">
+		<string name="name" value="野餐礼物盒子"/>
+		<string name="desc" value="从填满野餐篮并带给卡桑德拉获得的礼物盒子。打开它获得超棒的礼物！#c提示：在活动结束前打开！"/>
+	</imgdir>
+    <imgdir name="2430780">
+		<string name="name" value="魔法口袋袋"/>
+		<string name="desc" value="打开口袋栏位的魔法袋。对已经打开过口袋栏位的人没用。"/>
+	</imgdir>
+    <imgdir name="2430781">
+		<string name="name" value="每日礼物盒子"/>
+		<string name="desc" value="给每天登录的冒险者的特殊礼物盒子。也许里面装有超棒的礼物？记得在活动结束前打开！"/>
+	</imgdir>
+    <imgdir name="2430782">
+		<string name="name" value="每日buff券"/>
+		<string name="desc" value="送给每天登录冒险岛世界的人的超棒券。\n\n#c双击获得以下效果：\n30级或以下\n武器/魔法攻击力：+20\n31-70级\n武器/魔法攻击力：+30\n71级或以上\n武器/魔法攻击力：+40\n\n可与其他非每日buff叠加。#"/>
+	</imgdir>
+    <imgdir name="2430783">
+		<string name="name" value="水晶箱子"/>
+		<string name="desc" value="装满好东西的冰箱，帮助你在夏天保持凉爽。如果不在TKTKTK之前打开，里面的东西会融化。"/>
+	</imgdir>
+    <imgdir name="2430784">
+		<string name="name" value="粉色花管券"/>
+		<string name="desc" value="在TKTKTK之前用这个券兑换粉色花管（7天）。\n#c双击票据进行兑换。#"/>
+	</imgdir>
+    <imgdir name="2430794">
+		<string name="name" value="太空飞船"/>
+		<string name="desc" value="双击使用[太空飞船]坐骑技能7天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430795">
+		<string name="name" value="Mesoranger机器人券"/>
+		<string name="desc" value="双击获得一个Mesoranger机器人。"/>
+	</imgdir>
+    <imgdir name="2430796">
+		<string name="name" value="Mesoranger经验血清"/>
+		<string name="desc" value="Mesoranger的经验血清。增加50%经验。\n#c对200级或以上的角色无效。#"/>
+	</imgdir>
+    <imgdir name="2430797">
+		<string name="name" value="胡椒博士的接纳礼物"/>
+		<string name="desc" value="给新手Mesoranger的礼物。可以使用至TKTKTK，届时内容将转换回纯能量。"/>
+	</imgdir>
+    <imgdir name="2430809">
+		<string name="name" value="抵抗军支援胶囊"/>
+		<string name="desc" value="给抵抗军的特殊胶囊。可以移动到仓库并给其他角色。胶囊在活动结束后会过期。\n#c吞下这个胶囊后，50级及以下获得10%经验，50-99级获得5%经验，100-149级获得2%经验。10级以下或150级及以上（西格努斯120级）无法使用。#"/>
+	</imgdir>
+    <imgdir name="2430810">
+		<string name="name" value="战斗法师之怒"/>
+		<string name="desc" value="给重生战斗法师的强大助威。30分钟内增加魔法攻击力和最大MP。每升5级效果增强，最高到100级。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2430811">
+		<string name="name" value="野性猎手号叫"/>
+		<string name="desc" value="给重生野性猎手的原始助威。30分钟内增加武器攻击力和最大HP。每升5级效果增强，最高到100级。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2430812">
+		<string name="name" value="机械师电流"/>
+		<string name="desc" value="给重生机械师的支持助威。30分钟内增加武器攻击力和最大HP。每升5级效果增强，最高到100级。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2430813">
+		<string name="name" value="绿将军帽"/>
+		<string name="desc" value="如果你双击盒子，可以兑换绿将军帽。"/>
+	</imgdir>
+    <imgdir name="2430814">
+		<string name="name" value="绿将军套装"/>
+		<string name="desc" value="如果你双击盒子，可以兑换绿将军套装。"/>
+	</imgdir>
+</imgdir>

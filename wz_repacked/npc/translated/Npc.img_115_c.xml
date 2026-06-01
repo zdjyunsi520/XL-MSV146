@@ -1,0 +1,120 @@
+<imgdir name="Npc.img">
+    <imgdir name="9010001">
+		<string name="name" value="Tia"/>
+		<string name="n0" value="大家好！"/>
+		<string name="n1" value="希望大家今天过得愉快。"/>
+	</imgdir>
+    <imgdir name="9010002">
+		<string name="name" value="Mia"/>
+		<string name="n0" value="大家好！"/>
+		<string name="n1" value="希望大家今天过得愉快。"/>
+	</imgdir>
+    <imgdir name="9010003">
+		<string name="name" value="Ria"/>
+		<string name="n0" value="大家好！"/>
+		<string name="n1" value="希望大家今天过得愉快。"/>
+	</imgdir>
+    <imgdir name="9010004">
+		<string name="name" value="Mia"/>
+		<string name="n0" value="新玩具城有活动！"/>
+		<string name="n1" value="参加玩具城开业抽奖！我们有超多奖品送出！"/>
+	</imgdir>
+    <imgdir name="9010005">
+		<string name="name" value="Diane"/>
+		<string name="n0" value="我听说如果我去年表现好，儿童节就会收到好东西，但我还没收到任何东西..."/>
+		<string name="n1" value="我已经等了一会儿了。我的儿童节礼物在哪里？"/>
+		<string name="f0" value="嗯..."/>
+	</imgdir>
+    <imgdir name="9010006">
+		<string name="name" value="Sally"/>
+		<string name="n0" value="我听说如果我去年表现好，儿童节就会收到好东西，但我还没收到任何东西..."/>
+		<string name="n1" value="我已经等了一会儿了。我的儿童节礼物在哪里？"/>
+		<string name="f0" value="嗯..."/>
+	</imgdir>
+    <imgdir name="9010007">
+		<string name="name" value="Josh"/>
+		<string name="n0" value="我听说如果我去年表现好，儿童节就会收到好东西，但我还没收到任何东西..."/>
+		<string name="n1" value="我已经等了一会儿了。我的儿童节礼物在哪里？"/>
+		<string name="f0" value="嗯..."/>
+	</imgdir>
+    <imgdir name="9010008">
+		<string name="name" value="Pettite"/>
+		<string name="s0" value="嘿，你知道移动会员商店吗？"/>
+		<string name="d0" value="现在你可以通过手机购买冒险岛物品！"/>
+		<string name="d1" value="你可以通过手机在冒险岛会员商店购买物品。"/>
+		<string name="func" value="冒险岛移动"/>
+	</imgdir>
+    <imgdir name="9010011">
+		<string name="name" value="橙色蘑菇"/>
+		<string name="d0" value="我需要使用秘密药水变身为人类。"/>
+		<string name="d1" value="一个人类骗子骗了我...我不该相信他们的。"/>
+	</imgdir>
+    <imgdir name="9010012">
+		<string name="name" value="星星小精灵"/>
+		<string name="d0" value="我在哪里可以得到秘密变身药水？"/>
+		<string name="d1" value="人类真聪明。"/>
+	</imgdir>
+    <imgdir name="9010013">
+		<string name="name" value="Hengki"/>
+		<string name="d0" value="如果我变成人类，我可以轻松占领城镇！"/>
+		<string name="d1" value="人类真狡猾。我该如何实现我的伟大计划？"/>
+	</imgdir>
+    <imgdir name="9010014">
+		<string name="name" value="Aramia"/>
+		<string name="n0" value="如果你能找回我的书，我会用漂亮的烟花装饰天空。"/>
+		<string name="n1" value="你见过天空被烟花照亮的样子吗？"/>
+		<string name="d0" value="我真的需要拿回我的书来参加学校的捐书活动。"/>
+		<string name="d1" value="你在哪里见过我的书吗？"/>
+	</imgdir>
+    <imgdir name="9010015">
+		<string name="name" value="流浪猫"/>
+		<string name="n0" value="我不能把美味的奶酪给你！喵！"/>
+		<string name="n1" value="进去吧，你会看到很多美味的奶酪！"/>
+	</imgdir>
+    <imgdir name="9110003">
+		<string name="name" value="Janken"/>
+		<string name="func" value="Denpura厨师"/>
+		<string name="n0" value="嗨！"/>
+		<string name="n1" value="现在棒球比赛谁赢了？"/>
+		<string name="n2" value="休息一下，伙计！"/>
+	</imgdir>
+    <imgdir name="9110006">
+		<string name="name" value="Jin Jia"/>
+		<string name="func" value="日式炒面厨师"/>
+		<string name="n0" value="请等一下。还没做好呢。"/>
+		<string name="n1" value="呼...我应该休息一下。"/>
+		<string name="n2" value="哈哈哈...酱汁是这种美妙味道的源泉。"/>
+	</imgdir>
+    <imgdir name="9110007">
+		<string name="name" value="Robo"/>
+		<string name="func" value="拉面厨师"/>
+		<string name="n0" value="好的，欢迎！"/>
+		<string name="n1" value="面条和调味料的结合...太棒了！"/>
+		<string name="n2" value="不能替换。抱歉。"/>
+	</imgdir>
+    <imgdir name="9110008">
+		<string name="name" value="Perry"/>
+		<string name="n0" value="不，我不会吃你的！这是旅行的方式！"/>
+		<string name="n1" value="让我来处理！我可以让你飞起来！"/>
+		<string name="n2" value="我可能看起来这样，但我是个和平的人，相信我！"/>
+	</imgdir>
+    <imgdir name="9120000">
+		<string name="name" value="Shinta"/>
+		<string name="func" value="武器商人"/>
+		<string name="n0" value="你应该选择最适合你的武器。"/>
+		<string name="n1" value="不要到处乱碰东西！"/>
+	</imgdir>
+    <imgdir name="9120001">
+		<string name="name" value="Hanako"/>
+		<string name="n0" value="防守就是进攻。哈哈哈！"/>
+		<string name="n1" value="这个怎么样？这看起来很适合你。哈哈哈。"/>
+		<string name="d0" value="防守就是进攻。哈哈哈！"/>
+		<string name="d1" value="这个怎么样？这看起来很适合你。哈哈哈。"/>
+	</imgdir>
+    <imgdir name="9120002">
+		<string name="name" value="Doran"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="嗯...这个组合对吗？"/>
+		<string name="n1" value="啊，你打翻了！"/>
+	</imgdir>
+</imgdir>

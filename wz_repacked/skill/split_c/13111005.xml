@@ -1,0 +1,7 @@
+<imgdir name="13111005">
+        <string name="name" value="鹰眼" />
+        <string name="desc" value="变身为鹰眼——一位能够比任何人都更自由、更精湛地使用弓的英雄人物！变身后将提升你的移动速度和跳跃力，并获得鹰眼专属技能！" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒，武器攻击力：+#indiePad，武器防御力：+#epdd，魔法防御力：+#emdd，移动速度：+#speed，跳跃力：+#jump。冷却时间：#cooltime秒" />
+        <string name="pdesc" value="变身为鹰眼——一位能够比任何人都更自由、更精湛地使用弓的英雄人物！变身后将提升你的移动速度和跳跃力，并获得鹰眼专属技能！" />
+        <string name="ph" value="MP消耗：#mpCon，持续时间：#time秒，战斗模式攻击力：+#PVPdamage，武器防御力：+#epdd，魔法防御力：+#emdd，移动速度：+#speed，跳跃力：+#jump，冷却时间：#cooltime秒" />
+    </imgdir>

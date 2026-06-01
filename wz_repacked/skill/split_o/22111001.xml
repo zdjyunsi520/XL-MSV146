@@ -1,0 +1,8 @@
+<imgdir name="22111001">
+        <string name="name" value="Magic Guard" />
+        <string name="h" value="MP Cost: #mpCon, Damage Taken: -#y% , Damage Displaced: #x% of damage received, Duration: #time sec" />
+        <string name="pdesc" value="Damage dealt to you affects your MP instead of your HP. If your MP reaches 0, your HP takes the full amount of damage." />
+        <string name="ph" value="MP Cost: #mpCon, Damage Displaced: #x% of your MP, Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage Displaced for 1/300 of your MP: #x%, Duration: #time sec" />
+        <string name="desc" value="Reduces damage dealt to you, and makes a portion of the damage affect your MP instead of your HP. If your MP reaches 0, your HP takes the full amount of damage.\nSkill book is required to unlock the next level of this skill." />
+    </imgdir>

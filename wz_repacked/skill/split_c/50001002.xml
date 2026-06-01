@@ -1,0 +1,7 @@
+<imgdir name="50001002">
+        <string name="name" value="疾步" />
+        <string name="desc" value="[大师等级：3]\n暂时提升移动速度，嗖嗖嗖！\n#c冷却时间：1分钟#" />
+        <string name="h1" value="MP Cost: 4, Duration: 4 sec, Movement Speed: +10" />
+        <string name="h2" value="MP Cost: 7, Duration: 8 sec, Movement Speed: +15" />
+        <string name="h3" value="MP Cost: 10, Duration: 12 sec, Movement Speed: +20" />
+    </imgdir>

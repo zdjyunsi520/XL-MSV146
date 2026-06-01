@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8810003">
+		<string name="name" value="黑龙的头B"/>
+	</imgdir>
+    <imgdir name="8810004">
+		<string name="name" value="黑龙的头C"/>
+	</imgdir>
+    <imgdir name="8810005">
+		<string name="name" value="黑龙的左手"/>
+	</imgdir>
+    <imgdir name="8810006">
+		<string name="name" value="黑龙的右手"/>
+	</imgdir>
+    <imgdir name="8810007">
+		<string name="name" value="黑龙的翅膀"/>
+	</imgdir>
+    <imgdir name="8810008">
+		<string name="name" value="黑龙的腿"/>
+	</imgdir>
+    <imgdir name="8810009">
+		<string name="name" value="黑龙的尾巴"/>
+	</imgdir>
+    <imgdir name="8810010">
+		<string name="name" value="死亡黑龙的头A"/>
+	</imgdir>
+    <imgdir name="8810011">
+		<string name="name" value="死亡黑龙的头B"/>
+	</imgdir>
+    <imgdir name="8810012">
+		<string name="name" value="死亡黑龙的头C"/>
+	</imgdir>
+    <imgdir name="8810013">
+		<string name="name" value="死亡黑龙的左手"/>
+	</imgdir>
+    <imgdir name="8810014">
+		<string name="name" value="死亡黑龙的右手"/>
+	</imgdir>
+    <imgdir name="8810015">
+		<string name="name" value="死亡黑龙的翅膀"/>
+	</imgdir>
+    <imgdir name="8810016">
+		<string name="name" value="死亡黑龙的腿"/>
+	</imgdir>
+    <imgdir name="8810017">
+		<string name="name" value="死亡黑龙的尾巴"/>
+	</imgdir>
+    <imgdir name="8810018">
+		<string name="name" value="黑龙"/>
+	</imgdir>
+    <imgdir name="8810019">
+		<string name="name" value="红飞龙"/>
+	</imgdir>
+    <imgdir name="8810020">
+		<string name="name" value="蓝飞龙"/>
+	</imgdir>
+    <imgdir name="8810021">
+		<string name="name" value="暗黑飞龙"/>
+	</imgdir>
+    <imgdir name="8810022">
+		<string name="name" value="绿色科尼安"/>
+	</imgdir>
+</imgdir>

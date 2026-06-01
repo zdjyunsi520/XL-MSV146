@@ -1,0 +1,5 @@
+<imgdir name="42121004">
+        <string name="name" value="Binding Tempest" />
+        <string name="desc" value="Temporarily turns enemies to stone, freezing them in place." />
+        <string name="h" value="Mana Cost: #epCon, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage: #damage%, Immobilize Chance: #prop%, Immobilize Duration: #time sec \nCooldown: #cooltime sec" />
+    </imgdir>

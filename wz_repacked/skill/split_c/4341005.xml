@@ -1,0 +1,5 @@
+<imgdir name="4341005">
+        <string name="name" value="地狱锁链" />
+        <string name="desc" value="在隐身术激活时，地狱锁链拉住敌人靠近并攻击最多10次，提升暴击率！但固定怪物必须在范围内。\n#c11级以上需要技能手册#" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount,Damage: #damage%, Critical Hit Rate: +#cr%" />
+    </imgdir>

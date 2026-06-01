@@ -1,0 +1,7 @@
+<imgdir name="32111011">
+        <string name="name" value="Advanced Dark Chain" />
+        <string name="desc" value="Pulls enemies towards you using an even stronger dark chain. Pulled enemies take damange and have a chance to be Knocked Down. \nRequired Skill: #Dark Chain lv. 20#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Knock Down Duration: #time sec" />
+        <string name="pdesc" value="Pulls enemies towards you using an even stronger dark chain. Pulled enemies take damage and have a chance to be Knocked Down.\nRequired Skill: #Dark Chain lv. 20#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

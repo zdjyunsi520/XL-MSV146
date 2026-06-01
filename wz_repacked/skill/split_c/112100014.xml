@@ -1,0 +1,5 @@
+<imgdir name="112100014">
+        <string name="name" value="致命之莱" />
+        <string name="desc" value="提升特定雪豹模式技能的攻击次数和伤害。\r\n#c适用技能: 豹之爪、豹之突袭、豹之咆哮、猛男之舞、猛男猛击、雷电冲刺#" />
+        <string name="h" value="#c豹之爪、豹之突袭、豹之咆哮、猛男之舞、猛男猛击、雷电冲刺#伤害: +#damR%, 最大敌人数: +#targetPlus, 无视防御: +#ignoreMobpdpR%" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="32111002">
+        <string name="name" value="五重打击" />
+        <string name="desc" value="快速对多个敌人进行5次攻击。\n前置技能：#c四重打击 Lv. 20#" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+        <string name="pdesc" value="快速对多个敌人进行5次攻击。\n前置技能：#c四重打击 Lv. 20#" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+    </imgdir>

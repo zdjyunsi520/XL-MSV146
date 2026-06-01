@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9001052">
+		<string name="name" value="魔法骑士"/>
+	</imgdir>
+    <imgdir name="9001053">
+		<string name="name" value="欺骗的天鹅"/>
+	</imgdir>
+    <imgdir name="9001054">
+		<string name="name" value="刺脸"/>
+	</imgdir>
+    <imgdir name="9001055">
+		<string name="name" value="训练过的攻击吸血蝙蝠"/>
+	</imgdir>
+    <imgdir name="9001056">
+		<string name="name" value="不明攻击者"/>
+	</imgdir>
+    <imgdir name="9001057">
+		<string name="name" value="考试指导泰伦"/>
+	</imgdir>
+    <imgdir name="9001058">
+		<string name="name" value="内心狂暴"/>
+	</imgdir>
+    <imgdir name="9300408">
+		<string name="name" value="黄金船长"/>
+	</imgdir>
+    <imgdir name="9300409">
+		<string name="name" value="训练机器人A"/>
+	</imgdir>
+    <imgdir name="9300410">
+		<string name="name" value="训练机器人B"/>
+	</imgdir>
+    <imgdir name="9300411">
+		<string name="name" value="训练机器人C"/>
+	</imgdir>
+    <imgdir name="9300412">
+		<string name="name" value="训练机器人O"/>
+	</imgdir>
+    <imgdir name="9300413">
+		<string name="name" value="训练机器人部队"/>
+	</imgdir>
+    <imgdir name="9300414">
+		<string name="name" value="可疑的小偷"/>
+	</imgdir>
+    <imgdir name="9300415">
+		<string name="name" value="苏尔"/>
+	</imgdir>
+    <imgdir name="9300416">
+		<string name="name" value="吵闹的木偶"/>
+	</imgdir>
+    <imgdir name="9300417">
+		<string name="name" value="埃莉诺的鸡蛇"/>
+	</imgdir>
+    <imgdir name="9300418">
+		<string name="name" value="法比奥的火焰炸弹"/>
+	</imgdir>
+    <imgdir name="9300419">
+		<string name="name" value="豪宅守卫机器人"/>
+	</imgdir>
+    <imgdir name="9300420">
+		<string name="name" value="紧急守卫机器人L"/>
+	</imgdir>
+</imgdir>

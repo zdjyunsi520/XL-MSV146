@@ -1,0 +1,5 @@
+<imgdir name="11121004">
+        <string name="name" value="Impaling Rays" />
+        <string name="desc" value="Summons swords of the down to fly from the sky and impale your enemies. Affects boss monsters." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Incapacitate: #prop% Incapacitate Duration: #time sec. Damage after Debuff: +#x%\nCooldown: #cooltime Sec." />
+    </imgdir>

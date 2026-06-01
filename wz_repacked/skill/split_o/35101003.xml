@@ -1,0 +1,8 @@
+<imgdir name="35101003">
+        <string name="name" value="Atomic Hammer" />
+        <string name="desc" value="The Mech uses its built-in atomic force to slam its fist to the ground. Deals great damage to enemies in front of you, possibly Stunning them." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="The Mech uses its built-in atomic force to slam its fist to the ground. Deals great damage to enemies in front of you, possibly Stunning them." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, DEF Ignored: #ignoreMobpdpR%" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

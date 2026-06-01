@@ -1,0 +1,5 @@
+<imgdir name="24101005">
+        <string name="name" value="手杖加速" />
+        <string name="desc" value="消耗MP，暂时提升手杖的攻击速度2级。\n前置技能：#c手杖精通 Lv.5#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
+    </imgdir>

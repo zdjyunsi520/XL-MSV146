@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2042303">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 70%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n最大HP：+50\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042304">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 30%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n最大HP：+150\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042305">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 65%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n最大HP：+50\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042306">
+		<string name="name" value="亡命之徒强化卷轴 武器攻击 15%"/>
+		<string name="desc" value="强化亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率 15%\r\n最大HP +150\r\n武器攻击 +5\r\n物理防御 +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042307">
+		<string name="name" value="佩佩国王亡命之徒强化卷轴 武器攻击 60%"/>
+		<string name="desc" value="强化佩佩国王亡命之徒的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+50\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042400">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 100%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042401">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 60%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042402">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 10%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042403">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 70%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042404">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 30%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042405">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 65%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042406">
+		<string name="name" value="鞭刃强化卷轴 武器攻击 15%"/>
+		<string name="desc" value="强化鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042407">
+		<string name="name" value="佩佩国王鞭刃强化卷轴 武器攻击 60%"/>
+		<string name="desc" value="强化佩佩国王鞭刃的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043000">
+		<string name="name" value="单手剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2043001">
+		<string name="name" value="单手剑强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043002">
+		<string name="name" value="单手剑强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043003">
+		<string name="name" value="单手剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043004">
+		<string name="name" value="暗黑单手剑强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043005">
+		<string name="name" value="暗黑单手剑强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化单手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043006">
+		<string name="name" value="暗黑单手剑强化卷轴 魔法攻击 70%"/>
+		<string name="desc" value="强化单手剑的魔法攻击。\n成功率70%，魔法攻击+1，智力+1。\n如果失败，装备有50%的概率被破坏。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430264">
+		<string name="name" value="女巫扫帚坐骑券"/>
+		<string name="desc" value="3天女巫扫帚坐骑券。\n#c双击使用女巫扫帚骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430265">
+		<string name="name" value="骑士战车坐骑券"/>
+		<string name="desc" value="3天骑士战车坐骑券。\n#c双击使用骑士战车骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430266">
+		<string name="name" value="小鸡坐骑券"/>
+		<string name="desc" value="3天小鸡坐骑券。\n#c双击使用小鸡骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430267">
+		<string name="name" value="大家的传送石"/>
+		<string name="desc" value="只能从大家的活动中使用的传送石。使用它可以传送到任何大陆的城镇。登出后会消失。#c每30分钟可以使用一次。#"/>
+	</imgdir>
+    <imgdir name="2430268">
+		<string name="name" value="智者之星8级装备盒子"/>
+		<string name="desc" value="当智者之星在天空中闪耀时，选择魔法师之路的人可获得的装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430269">
+		<string name="name" value="智者之星18级装备盒子"/>
+		<string name="desc" value="当智者之星在天空中闪耀时，选择魔法师之路的人可获得的高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430270">
+		<string name="name" value="智者之星23级装备盒子"/>
+		<string name="desc" value="当智者之星在天空中闪耀时，选择魔法师之路的人可获得的更高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430271">
+		<string name="name" value="猫头鹰坐骑券"/>
+		<string name="desc" value="3天猫头鹰坐骑券。\n#c双击使用猫头鹰骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430272">
+		<string name="name" value="低骑者坐骑券"/>
+		<string name="desc" value="3天低骑者坐骑券。\n#c双击使用低骑者骑乘技能3天。#"/>
+	</imgdir>
+    <imgdir name="2430275">
+		<string name="name" value="斯皮格尔曼热气球7日券"/>
+		<string name="desc" value="7天斯皮格尔曼热气球券。\n#c双击使用斯皮格尔曼热气球骑乘技能7天。#"/>
+	</imgdir>
+    <imgdir name="2430276">
+		<string name="name" value="小兔子15日使用券"/>
+		<string name="desc" value="双击使用骑宠[小兔子]15天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430277">
+		<string name="name" value="小兔子1年使用券"/>
+		<string name="desc" value="双击使用骑宠[小兔子]1年，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430278">
+		<string name="name" value="金色枫叶果实"/>
+		<string name="desc" value="在花盆中种植获得的闪光枫叶果实。#c双击#可以获得7周年硬币、坐骑或卷轴。"/>
+	</imgdir>
+    <imgdir name="2430282">
+		<string name="name" value="蛋糕vs派随机盒子"/>
+		<string name="desc" value="蛋糕vs派活动的随机盒子。打开它可以从药水、椅子和武器中获得随机奖品。"/>
+	</imgdir>
+    <imgdir name="2430283">
+		<string name="name" value="冲锋！玩具特洛伊10日券"/>
+		<string name="desc" value="双击使用冲锋！玩具特洛伊骑乘技能10天。"/>
+	</imgdir>
+    <imgdir name="2430284">
+		<string name="name" value="猎人之星10级装备盒子"/>
+		<string name="desc" value="当猎人之星在天空中闪耀时，选择弓手之路的人可获得的装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430285">
+		<string name="name" value="猎人之星20级装备盒子"/>
+		<string name="desc" value="当猎人之星在天空中闪耀时，选择弓手之路的人可获得的高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430286">
+		<string name="name" value="猎人之星25级装备盒子"/>
+		<string name="desc" value="当猎人之星在天空中闪耀时，选择弓手之路的人可获得的更高级装备盒子。"/>
+	</imgdir>
+    <imgdir name="2430287">
+		<string name="name" value="玉兔的年糕"/>
+		<string name="desc" value="玉兔制作的Q弹年糕。"/>
+	</imgdir>
+    <imgdir name="2430288">
+		<string name="name" value="大家的武器盒子"/>
+		<string name="desc" value="#c双击#从Matilda租用大家的活动专用武器。大家的活动专用武器虽然等级低但可以装备，且有更高的属性。\n登出后会消失。"/>
+	</imgdir>
+</imgdir>

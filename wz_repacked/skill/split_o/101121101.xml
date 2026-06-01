@@ -1,0 +1,5 @@
+<imgdir name="101121101">
+        <string name="name" value="Hurricane Wind" />
+        <string name="desc" value="The two Zero combine their powers to create a huge hurricane.\nThey move around in the hurricane form, drawing in enemies while dealing damage. The damage increases over time." />
+        <string name="h" value="Time Force cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies hit: #mobcount, Duration: #time\nHurricane wind attack: +#q% every 2 sec. \nLightning Strike Chance: #prop%, Maximum Enemies Hit with Ligthning Strike: #s, Lightning Strike Damage: #z%, Lightning Strike Number of Attacks: #u," />
+    </imgdir>

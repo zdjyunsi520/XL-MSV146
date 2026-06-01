@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530010">
+		<string name="name" value="DS Box (Silver)"/>
+		<string name="desc" value="Double-click on this item to exchange it for 5 DS Eggs"/>
+	</imgdir>
+    <imgdir name="5530011">
+		<string name="name" value="DS Box (Gold)"/>
+		<string name="desc" value="Double-click on this item to exchange it for 10 DS Eggs."/>
+	</imgdir>
+    <imgdir name="5530012">
+		<string name="name" value="DS Box (Diamond)"/>
+		<string name="desc" value="Double-click on this item to exchange it for 15 DS Eggs."/>
+	</imgdir>
+    <imgdir name="5530013">
+		<string name="name" value="Golden Temple Invitation"/>
+		<string name="desc" value="Double-click to receive a Premium Golden Ticket that grants you access to the Golden Temple Mini Dungeon.\r\nNotice: The Premium Golden Ticket can be used for an hour from the time it is removed from the invitation."/>
+	</imgdir>
+    <imgdir name="5530014">
+		<string name="name" value="[Lv. 13] ZD Tiger 7-Day Coupon Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a ZD Tiger 7-Day Coupon."/>
+	</imgdir>
+    <imgdir name="5530015">
+		<string name="name" value="Scroll for Katara for ATT 60% Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Scroll for Katara for ATT 60%."/>
+	</imgdir>
+    <imgdir name="5530016">
+		<string name="name" value="Scroll for Katara for ATT 10% Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Scroll for Katara for ATT 10%."/>
+	</imgdir>
+    <imgdir name="5530017">
+		<string name="name" value="[Lv. 30] Ryden Guardian Katara Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for Ryden Guardian Katara."/>
+	</imgdir>
+    <imgdir name="5530018">
+		<string name="name" value="[Lv. 50] Ryden Majestic Katara Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for Ryden Majestic Katara."/>
+	</imgdir>
+    <imgdir name="5530019">
+		<string name="name" value="[Lv. 50] Ryden Shinkita Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for Ryden Shinkita."/>
+	</imgdir>
+    <imgdir name="5530020">
+		<string name="name" value="[Lv. 30] Owl Pendant (14 Day) Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for an Owl Pendant. You will only be able to equip it for 14 days starting from the moment you exchange it."/>
+	</imgdir>
+    <imgdir name="5530021">
+		<string name="name" value="Scroll for Dagger for ATT 60% Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Scroll for Dagger for ATT 60%."/>
+	</imgdir>
+    <imgdir name="5530022">
+		<string name="name" value="Scroll for Dagger for ATT 10% Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Scroll for Dagger for ATT 10%."/>
+	</imgdir>
+    <imgdir name="5530023">
+		<string name="name" value="Snowy Heaven Dagger Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Snowy Heaven Dagger."/>
+	</imgdir>
+    <imgdir name="5530024">
+		<string name="name" value="Snowy Earth Katara Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Snowy Earth Katara."/>
+	</imgdir>
+    <imgdir name="5530025">
+		<string name="name" value="Luminous Heaven Dagger Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Luminous Heaven Dagger."/>
+	</imgdir>
+    <imgdir name="5530026">
+		<string name="name" value="Luminous Earth Katara Exchange Ticket"/>
+		<string name="desc" value="Double-click to exchange it for a Luminous Earth Katara."/>
+	</imgdir>
+    <imgdir name="5530027">
+		<string name="name" value="[Lv. 30] Circle-Winded Staff Trade Coupon"/>
+		<string name="desc" value="Double-click on this coupon to trade it for a Circle-Winded Staff."/>
+	</imgdir>
+    <imgdir name="5530028">
+		<string name="name" value="[Lv. 45] Arc Staff Coupon"/>
+		<string name="desc" value="Double-click on this coupon to trade it for an Arc Staff."/>
+	</imgdir>
+    <imgdir name="5530029">
+		<string name="name" value="Wand Magic Scroll 60% Coupon"/>
+		<string name="desc" value="Double-click on this coupon to trade it for a Wand Magic Scroll 60%."/>
+	</imgdir>
+</imgdir>

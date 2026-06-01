@@ -1,0 +1,99 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000079">
+		<string name="name" value="Ritaya"/>
+		<string name="func" value="Tourist"/>
+		<string name="d0" value="So, it is true... It does have a unique culture and history. But this place could still use some sophistication."/>
+		<string name="d1" value="So, it is true... It does have a unique culture and history. But this place could still use some sophistication."/>
+		<string name="n0" value="What shall I go see next?"/>
+		<string name="n1" value="Ah, this is a nice getaway."/>
+	</imgdir>
+    <imgdir name="9000080">
+		<string name="name" value="Dao"/>
+		<string name="d0" value="Coming all the way here... just who ARE you?"/>
+		<string name="d1" value="This was all done by that demon. I will protect the Golden Temple until the end!"/>
+		<string name="func" value="Monkey Temple Guide"/>
+		<string name="n0" value="Shh! I believe that demon Ravana has awakened."/>
+		<string name="n1" value="I will now fulfill my destiny."/>
+	</imgdir>
+    <imgdir name="1012120">
+		<string name="name" value="Stray Cat"/>
+	</imgdir>
+    <imgdir name="2020014">
+		<string name="name" value="Snowman"/>
+		<string name="n0" value="Beautiful snow, beautiful ice..."/>
+		<string name="n1" value="I'm not scared."/>
+		<string name="d0" value="It's not that I don't like living here serving the Snow Spirit... but..."/>
+		<string name="d1" value="It's not that I don't like living here serving the Snow Spirit... but..."/>
+	</imgdir>
+    <imgdir name="2020015">
+		<string name="name" value="Jenn's Brother"/>
+		<string name="n0" value="Eh heh heh, it feels great to be in town."/>
+		<string name="n1" value="When will my brother get back?"/>
+		<string name="d0" value="It's dangerous outside of town. Best stay inside, where it's safe. I hope my brother's okay."/>
+		<string name="d1" value="It's dangerous outside of town. Best stay inside, where it's safe. I hope my brother's okay."/>
+	</imgdir>
+    <imgdir name="2020016">
+		<string name="name" value="Barrier Totem"/>
+	</imgdir>
+    <imgdir name="2022005">
+		<string name="name" value="Shammos"/>
+		<string name="s0" value="Har har... Shammos knows... He will resurrect soon..."/>
+		<string name="s1" value="Hurry, remove my shackles."/>
+		<string name="d0" value="I must gather my strength!"/>
+		<string name="g0" value="Now, follow me through my secret path."/>
+		<string name="d1" value="Everything is going according to plan..."/>
+	</imgdir>
+    <imgdir name="2022006">
+		<string name="name" value="Message from Shammos"/>
+	</imgdir>
+    <imgdir name="2022007">
+		<string name="name" value="Glacial Water"/>
+	</imgdir>
+    <imgdir name="2022008">
+		<string name="name" value="Rex"/>
+	</imgdir>
+    <imgdir name="2022009">
+		<string name="name" value="Shammos"/>
+		<string name="n0" value="Let's go seal up Rex again."/>
+		<string name="n1" value="This is taking too long."/>
+	</imgdir>
+    <imgdir name="9010023">
+		<string name="name" value="Maple Mailbox"/>
+	</imgdir>
+    <imgdir name="1043002">
+		<string name="name" value="Empty Wall"/>
+	</imgdir>
+    <imgdir name="1043003">
+		<string name="name" value="Blue Bottle"/>
+	</imgdir>
+    <imgdir name="1043004">
+		<string name="name" value="Talking Tree"/>
+	</imgdir>
+    <imgdir name="1043005">
+		<string name="name" value="Jeppi"/>
+		<string name="n0" value="Hmm..."/>
+		<string name="n1" value="What an interesting history lesson. People can be so fascinating!"/>
+		<string name="d0" value="Didn't think you'd come find me all the way out here..."/>
+		<string name="d1" value="How long has it been since I left the town? I kind of miss it."/>
+	</imgdir>
+    <imgdir name="1052126">
+		<string name="name" value="Former Dark Lord's Diary"/>
+		<string name="d0" value="(An old diary filled with personal entries.)"/>
+		<string name="d1" value="(An old diary filled with personal entries.)"/>
+	</imgdir>
+    <imgdir name="1052127">
+		<string name="name" value="Dark Lord"/>
+		<string name="d0" value="If you aren't ready, Kerning City will eat you alive..."/>
+		<string name="d1" value="Playtime is over. Only the strong survive."/>
+	</imgdir>
+    <imgdir name="1052128">
+		<string name="name" value="Someone's Hat"/>
+		<string name="d0" value="A hat whose owner is unknown. It looks similar to one subway workers wears."/>
+		<string name="d1" value="It's a hat whose owner is unknown. It doesn't fit you. Too bad."/>
+	</imgdir>
+    <imgdir name="1052129">
+		<string name="name" value="Pharmacy Drawer 1"/>
+		<string name="d0" value="Do not open without permission."/>
+		<string name="d1" value="It's filled with medicine."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,89 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210092">
+		<string name="name" value="十轮卡车"/>
+		<string name="desc" value="你已登上十轮卡车。"/>
+	</imgdir>
+    <imgdir name="2431120">
+		<string name="name" value="十轮卡车(7天)"/>
+		<string name="desc" value="双击使用[十轮卡车]骑乘技能，持续7天。"/>
+	</imgdir>
+    <imgdir name="2431121">
+		<string name="name" value="十轮卡车(30天)"/>
+		<string name="desc" value="双击使用[十轮卡车]骑乘技能，持续30天。"/>
+	</imgdir>
+    <imgdir name="2431122">
+		<string name="name" value="十轮卡车(1年)"/>
+		<string name="desc" value="双击使用[十轮卡车]骑乘技能，持续一年。"/>
+	</imgdir>
+    <imgdir name="2431123">
+		<string name="name" value="十轮卡车"/>
+		<string name="desc" value="双击永久使用[十轮卡车]骑乘技能。"/>
+	</imgdir>
+    <imgdir name="2022244">
+		<string name="name" value="棉花糖"/>
+		<string name="desc" value="美味的热棉花糖。完美的万圣节夜晚！
+恢复25%生命值/魔法值，命中率/回避率+10，移动速度/跳跃力+10，持续10分钟。"/>
+		<null name="[恢复25%生命值/魔法值，回避率、跳跃力和速度+10，持续10分钟。]"/>
+	</imgdir>
+    <imgdir name="2028157">
+		<string name="name" value="魔法骰子"/>
+		<string name="desc" value="双击掷骰子，神奇地获得随机奖励！"/>
+	</imgdir>
+    <imgdir name="2023117">
+		<string name="name" value="强大的冬季能量"/>
+		<string name="desc" value="武器攻击力和魔法攻击力增加20，持续1小时。只能在账号内移动。"/>
+	</imgdir>
+    <imgdir name="2023118">
+		<string name="name" value="寒冷的冬季能量"/>
+		<string name="desc" value="武器攻击力和魔法攻击力增加20，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023119">
+		<string name="name" value="冬季愤怒"/>
+		<string name="desc" value="武器攻击力和魔法攻击力增加10，命中率和回避率增加5，持续1小时。只能在账号内移动。"/>
+	</imgdir>
+    <imgdir name="2023120">
+		<string name="name" value="冬季冰冻"/>
+		<string name="desc" value="武器攻击力和魔法攻击力增加10，命中率和回避率增加5，持续30分钟。只能在账号内移动。"/>
+	</imgdir>
+    <imgdir name="2023121">
+		<string name="name" value="快乐冬季"/>
+		<string name="desc" value="增加狩猎怪物获得的经验值，持续1小时。只能在账号内移动。"/>
+	</imgdir>
+    <imgdir name="2023122">
+		<string name="name" value="愉快冬季"/>
+		<string name="desc" value="大幅增加狩猎怪物获得的经验值，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2023123">
+		<string name="name" value="丰收冬季"/>
+		<string name="desc" value="增加物品掉落率，持续1小时。只能在账号内移动。"/>
+	</imgdir>
+    <imgdir name="2023124">
+		<string name="name" value="幸运冬季"/>
+		<string name="desc" value="大幅增加物品掉落率，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2431207">
+		<string name="name" value="暴风礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝暴风降临准备的礼盒。
+#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431208">
+		<string name="name" value="暴风礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝暴风降临准备的礼盒。
+#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431209">
+		<string name="name" value="暴风礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝暴风降临准备的礼盒。
+#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431210">
+		<string name="name" value="暴风礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝暴风降临准备的礼盒。
+#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431211">
+		<string name="name" value="暴风礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝暴风降临准备的礼盒。
+#c双击查看里面有什么。#"/>
+	</imgdir>
+</imgdir>

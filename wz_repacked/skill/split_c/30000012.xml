@@ -1,0 +1,5 @@
+<imgdir name="30000012">
+        <string name="name" value="精灵祝福" />
+        <string name="desc" value="根据你最高等级角色每10级获得1级技能效果。精灵祝福和女皇祝福中取较高者生效。" />
+        <string name="h" value="武器攻击力：+#x，魔法攻击力：+#y，命中率、回避率：+#z" />
+    </imgdir>

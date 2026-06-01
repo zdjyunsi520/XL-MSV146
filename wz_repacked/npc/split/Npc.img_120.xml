@@ -1,0 +1,142 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201094">
+		<string name="name" value="Corine"/>
+		<string name="func" value="Taru Spirit"/>
+		<string name="n0" value="Salu o'kahari, friend!"/>
+		<string name="n1" value="Stop scratching, Khaffy. That's bad manners."/>
+		<string name="d0" value="Salu o'kahari, friend!"/>
+		<string name="d1" value="Stop scratching, Khaffy. That's bad manners."/>
+	</imgdir>
+    <imgdir name="9201095">
+		<string name="name" value="Fiona"/>
+		<string name="n0" value="If you have nothing to say, then move on."/>
+		<string name="n1" value="Are you looking at me?"/>
+		<string name="d0" value="If you have nothing to say, then move on."/>
+		<string name="d1" value="I'm busy, stranger. Go speak to Taggrin if you need something."/>
+	</imgdir>
+    <imgdir name="9201097">
+		<string name="name" value="Joko"/>
+		<string name="n0" value="Is it dinner time yet?"/>
+		<string name="n1" value="I'm not a bandit!"/>
+		<string name="d0" value="Is it dinner time yet?"/>
+		<string name="d1" value="I'm not a bandit!"/>
+	</imgdir>
+    <imgdir name="9201098">
+		<string name="name" value="Lukan"/>
+		<string name="n0" value="Hail, traveler!"/>
+		<string name="n1" value="This land is not as I remember it."/>
+		<string name="d0" value="I see you there. What do you want?"/>
+		<string name="d1" value="I see you there."/>
+	</imgdir>
+    <imgdir name="9201099">
+		<string name="name" value="Mo"/>
+		<string name="n0" value="Mo knows what you want."/>
+		<string name="n1" value="Goods for sale!"/>
+	</imgdir>
+    <imgdir name="9201100">
+		<string name="name" value="Taggrin"/>
+		<string name="n0" value="I see you there."/>
+		<string name="n1" value="What do you want?"/>
+		<string name="d0" value="I see you there. What do you want?"/>
+		<string name="d1" value="I see you there."/>
+	</imgdir>
+    <imgdir name="9201101">
+		<string name="name" value="T-1337"/>
+		<string name="n0" value="*Spark!* I am cybernetic automaton model T-1337. BZZ!"/>
+		<string name="n1" value="I have been sent to... CRITICAL SYSTEM ERROR! *Blue Screen.*"/>
+		<string name="d0" value="*Spark!* I am cybernetic automaton model T-1337. BZZ!"/>
+		<string name="d1" value="I have been sent to... CRITICAL SYSTEM ERROR! *Blue Screen.*"/>
+	</imgdir>
+    <imgdir name="9201102">
+		<string name="name" value="Stirgeman"/>
+		<string name="n0" value="Never fear, Stirgeman is here!"/>
+		<string name="n1" value="Stirgehood HOOO!"/>
+		<string name="d0" value="Never fear, Stirgeman is here!"/>
+		<string name="d1" value="Stirgehood HOOO!"/>
+	</imgdir>
+    <imgdir name="9201103">
+		<string name="name" value="Ridley"/>
+		<string name="n0" value="Yes? What do you want?"/>
+		<string name="n1" value="Ah. An excellent choice of reading, my friend. Perhaps if you find a Ridley's Stone, we can talk. "/>
+		<string name="d0" value="Yes? What do you want?"/>
+		<string name="d1" value="Ah. An excellent choice of reading, my friend. Perhaps if you find a Ridley's Stone, we can talk. "/>
+	</imgdir>
+    <imgdir name="9201117">
+		<string name="name" value="Toh Relicseeker"/>
+		<string name="d0" value="Hello, I'm Toh."/>
+		<string name="d1" value="Hello, I'm Toh."/>
+		<string name="n0" value="I'm looking for the Miwok Artifacts. Do you have any?"/>
+		<string name="n1" value="I can release the seal on a Miwok Artifact using an Enchant Scroll."/>
+	</imgdir>
+    <imgdir name="9201119">
+		<string name="name" value="Silence of the Wolf"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="d0" value="Would you like to receive training?"/>
+		<string name="d1" value="You must be stronger than the monsters if you want to survive."/>
+		<string name="n0" value="Would you like to receive training?"/>
+		<string name="n1" value="Make sure to practice!"/>
+	</imgdir>
+    <imgdir name="9201121">
+		<string name="name" value="Lucci"/>
+		<string name="func" value="Dream Interpreter"/>
+		<string name="d0" value="What did you dream?"/>
+		<string name="d1" value="I see that you didn't sleep too well last night."/>
+		<string name="n0" value="Dreams reveal the truth..."/>
+		<string name="n1" value="You don't look too good. Did you have a nightmare?"/>
+	</imgdir>
+    <imgdir name="9201122">
+		<string name="name" value="Old Bow"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201128">
+		<string name="name" value="Demon's Doorway"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201129">
+		<string name="name" value="Demon's Doorway"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201130">
+		<string name="name" value="Demon's Doorway"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201131">
+		<string name="name" value="Demon's Doorway"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201132">
+		<string name="name" value="Demon's Doorway"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201133">
+		<string name="name" value="Astaroth's Doorway"/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="9201134">
+		<string name="name" value="Aldol"/>
+		<string name="n0" value="I can get you outta here if you want."/>
+		<string name="n1" value="Please keep the park safe. Protect us from Targa and Scarlion."/>
+		<string name="d0" value="Hey adventurer, how's everything going?"/>
+		<string name="d1" value="Targa and Scarlion are so scary!"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="101030401">
+			<imgdir name="0">
+				<string name="Title" value="East Rocky Mountain I (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Rocky Mountain III"/>
+			</imgdir>
+    <imgdir name="101030402">
+			<imgdir name="0">
+				<string name="Title" value="East Rocky Mountain II (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Rocky Mountain IV"/>
+			</imgdir>
+    <imgdir name="101030403">
+			<imgdir name="0">
+				<string name="Title" value="East Rocky Mountain III (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Rocky Mountain V"/>
+			</imgdir>
+    <imgdir name="101030404">
+			<imgdir name="0">
+				<string name="Title" value="East Rocky Mountain IV (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Rocky Mountain VI"/>
+			</imgdir>
+    <imgdir name="101030405">
+			<imgdir name="0">
+				<string name="Title" value="East Rocky Mountain V (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="East Rocky Mountain VII"/>
+			</imgdir>
+    <imgdir name="101040000">
+			<imgdir name="0">
+				<string name="Title" value="Chimney Tree Top"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Head Lupin's Nest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Chimney Tree Top"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Head Lupin's Nest"/>
+			</imgdir>
+    <imgdir name="101040100">
+			<imgdir name="0">
+				<string name="Title" value="Lupin Forest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Dark Tree Forest"/>
+			</imgdir>
+    <imgdir name="101040200">
+			<imgdir name="0">
+				<string name="Title" value="Polluted Tree"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Head Lupin's Nest"/>
+			</imgdir>
+    <imgdir name="101040300">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Evil Energy 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Dark Tree Forest"/>
+			</imgdir>
+</imgdir>

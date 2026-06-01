@@ -1,0 +1,5 @@
+<imgdir name="36120006">
+        <string name="name" value="杰诺专家" />
+        <string name="desc" value="提升精通度和最低暴击伤害。\n[需要技能]：#c杰诺精通 Lv. 10#" />
+        <string name="h" value="Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage +#criticaldamageMin%" />
+    </imgdir>

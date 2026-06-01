@@ -1,0 +1,5 @@
+<imgdir name="10008001">
+        <string name="name" value="高级魔法门" />
+        <string name="desc" value="[隐藏装备技能]\n生成通往最近城镇的传送门！在门消失之前可以自由进出。站在门上按上方向键即可使用。" />
+        <string name="h1" value="MP -120, Requires: 2 Magic Rocks, Portal Duration: 120 sec." />
+    </imgdir>

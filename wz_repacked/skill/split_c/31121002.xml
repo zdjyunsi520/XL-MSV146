@@ -1,0 +1,7 @@
+<imgdir name="31121002">
+        <string name="name" value="吸血光环" />
+        <string name="desc" value="利用与世间黏滑生物的联系，每次攻击都吸取敌人的HP。你和队友将在短时间内每次攻击都回复生命，一次最多回复3%。" />
+        <string name="h" value="恶魔之力消耗：#forceCon，#time秒内将#x%伤害转化为队友HP，不能超过最大HP的50%。冷却时间15秒。" />
+        <string name="pdesc" value="利用与世间黏滑生物的联系，每次攻击都吸取敌人的HP。你和队友将在短时间内每次攻击都回复生命，一次最多回复3%。" />
+        <string name="ph" value="恶魔之力消耗：#forceCon，#time秒内将#x%伤害转化为队友HP。" />
+    </imgdir>

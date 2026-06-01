@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530434">
+			<string name="name" value="欢乐时光礼盒"/>
+			<string name="desc" value="双击可获得一份#c惊喜礼物#！"/>
+		</imgdir>
+    <imgdir name="5530435">
+			<string name="name" value="欢乐时光礼盒"/>
+			<string name="desc" value="双击可获得一份#c惊喜礼物#！"/>
+		</imgdir>
+    <imgdir name="5530436">
+			<string name="name" value="欢乐时光礼盒"/>
+			<string name="desc" value="双击可获得一份#c惊喜礼物#！"/>
+		</imgdir>
+    <imgdir name="5530439">
+			<string name="name" value="金色锤子50%兑换券"/>
+			<string name="desc" value="#c双击#可获得一把#c金色锤子50%#。"/>
+		</imgdir>
+    <imgdir name="5530440">
+			<string name="name" value="惊喜8格扩展礼盒兑换券"/>
+			<string name="desc" value="使用此优惠券可获得一个惊喜8格扩展礼盒，内含可扩展装备、消耗、设置或其他栏容量的兑换券。该礼盒可使用至TKTKTK。"/>
+		</imgdir>
+    <imgdir name="5530441">
+			<string name="name" value="惊喜成长水晶兑换券"/>
+			<string name="desc" value="使用此优惠券可获得一颗小水晶，立即获得随机额度的额外经验值。\n#c通过优惠券获得的神秘成长祝福道具可使用至TKTKTK，已达到满级的角色不会产生任何效果。#"/>
+		</imgdir>
+    <imgdir name="5530442">
+			<string name="name" value="高级宠物装备物理攻击力卷轴100%"/>
+			<string name="desc" value="以高级方式为宠物装备增加物理攻击力。\r\n#c成功率：100%#，#c物理攻击力+4~+5#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。#\r\n#c不可与幸运日卷轴同时使用。#"/>
+		</imgdir>
+    <imgdir name="5530443">
+			<string name="name" value="高级宠物装备魔法攻击力卷轴100%"/>
+			<string name="desc" value="以高级方式为宠物装备增加魔法攻击力。\r\n#c成功率：100%#，#c魔法攻击力+4~+5#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。#\r\n#c不可与幸运日卷轴同时使用。#"/>
+		</imgdir>
+    <imgdir name="5530444">
+			<string name="name" value="甜蜜糖果椅兑换券"/>
+			<string name="desc" value="#c双击#可获得甜蜜糖果椅，还有大约一百颗蛀牙。每10秒恢复100点HP和MP。\n#c这把椅子因为底部贴合设计，会随着坐下的人一起移动哦。#"/>
+		</imgdir>
+    <imgdir name="5530445">
+			<string name="name" value="10个超级药水"/>
+			<string name="desc" value="双击可获得10个超级药水。"/>
+		</imgdir>
+    <imgdir name="5530446">
+			<string name="name" value="50个超级药水"/>
+			<string name="desc" value="双击可获得50个超级药水。"/>
+		</imgdir>
+    <imgdir name="5530447">
+			<string name="name" value="100个超级药水"/>
+			<string name="desc" value="双击可获得100个超级药水。"/>
+		</imgdir>
+    <imgdir name="5530448">
+			<string name="name" value="300个超级药水"/>
+			<string name="desc" value="双击可获得300个超级药水。"/>
+		</imgdir>
+    <imgdir name="5530455">
+			<string name="name" value="防具物理攻击力卷轴100%"/>
+			<string name="desc" value="提升防具的物理攻击力。#c成功率：100%#，#c物理攻击力+2#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。失败时道具可能会被破坏。#"/>
+		</imgdir>
+    <imgdir name="5530456">
+			<string name="name" value="防具魔法攻击力卷轴100%"/>
+			<string name="desc" value="防具魔法攻击力卷轴100%可提升防具的魔法攻击力。#c成功率：100%#，#c魔法攻击力+2#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。失败时道具可能会被破坏。#"/>
+		</imgdir>
+    <imgdir name="5530457">
+			<string name="name" value="高级饰品物理攻击力卷轴100%"/>
+			<string name="desc" value="提升饰品的物理攻击力。#c成功率：100%#，#c物理攻击力+4~+5#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。#\r\n#c不可与幸运日卷轴同时使用。#"/>
+		</imgdir>
+    <imgdir name="5530458">
+			<string name="name" value="高级饰品魔法攻击力卷轴100%"/>
+			<string name="desc" value="提升饰品的魔法攻击力。#c成功率：100%#，#c魔法攻击力+4~+5#。\r\n#c双击商城栏中的卷轴可将它移至消耗栏。#\r\n#c不可与幸运日卷轴同时使用。#"/>
+		</imgdir>
+    <imgdir name="5530459">
+			<string name="name" value="神秘宝箱兑换券"/>
+			<string name="desc" value="#c双击#此优惠券可获得一个神秘宝箱。使用神秘石打开宝箱即可获得一件超赞道具。"/>
+		</imgdir>
+    <imgdir name="5530460">
+			<string name="name" value="[技能书] 光束舞20 兑换券"/>
+			<string name="desc" value="双击可兑换[技能书] 光束舞20。"/>
+		</imgdir>
+    <imgdir name="5530461">
+			<string name="name" value="[技能书] 光束舞30 兑换券"/>
+			<string name="desc" value="双击可兑换[技能书] 光束舞30。"/>
+		</imgdir>
+	</imgdir>

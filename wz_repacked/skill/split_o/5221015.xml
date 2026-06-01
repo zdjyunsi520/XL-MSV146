@@ -1,0 +1,7 @@
+<imgdir name="5221015">
+        <string name="name" value="Parrotargetting" />
+        <string name="desc" value="Your trusty parrot marks a monster for targeting. From then on, all attacks (except Broadside) will be focused on that monster and all attacks will deal extra damage, and the minimum and maximum Critical damage permanently increase." />
+        <string name="h" value="MP #mpCon consumed, #damage% damage, damage increased by #x% when attacking targeted monster\n[Passive Effect: Critical minimum/maximum damage +#criticaldamageMin%]" />
+        <string name="pdesc" value="Your trusty parrot marks a monster for targeting. From then on, all attacks (except Broadside) will be focused on that monster and all attacks will deal extra damage, and the minimum and maximum Critical damage permanently increase." />
+        <string name="ph" value="MP #mpCon consumed, #damage% damage, damage increased by #x% when attacking targeted monster\n[Passive Effect: Critical minimum/maximum damage +#criticaldamageMin%]" />
+    </imgdir>

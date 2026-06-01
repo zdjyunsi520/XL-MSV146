@@ -1,0 +1,8 @@
+<imgdir name="1221014">
+        <string name="name" value="魔法碰撞" />
+        <string name="desc" value="有几率#c取消附近敌人的所有增益#，短时间内阻止其获得新增益~" />
+        <string name="h" value="MP消耗: #mpCon，#c取消所有增益#几率: #prop%，限制增益效果#time秒\n冷却时间: #cooltime秒" />
+        <string name="pdesc" value="有几率#c取消附近敌人的所有增益#，短时间内阻止其获得新增益~" />
+        <string name="ph" value="MP消耗: #mpCon，#c取消所有增益#几率: #prop%，限制增益效果#time秒\n冷却时间: #cooltime秒" />
+        <string name="hch" value="MP消耗: #mpCon，#c取消所有增益#几率: #hcProp%，限制增益效果#hcTime秒" />
+    </imgdir>

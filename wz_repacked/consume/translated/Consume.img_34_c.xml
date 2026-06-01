@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022113">
+		<string name="name" value="南瓜派"/>
+		<string name="desc" value="刚从本森奶奶的烤箱里出来的热腾腾的美味派。吃吧！\n恢复700 HP、400 MP，防御+50，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022114">
+		<string name="name" value="附魔苹果脆"/>
+		<string name="desc" value="用神秘苹果做的热点心。在HP减少的地图上，每当受到地图伤害时，将保护50%的HP。（修改请求）"/>
+	</imgdir>
+    <imgdir name="2022116">
+		<string name="name" value="桃子"/>
+		<string name="desc" value="恢复一定量的HP和MP。仅在木木地区可获得。"/>
+	</imgdir>
+    <imgdir name="2022117">
+		<string name="name" value="神秘枫叶"/>
+		<string name="desc" value="来自枫树的神秘叶子。武器和魔法攻击+20、防御+50、命中和回避率+30、速度和跳跃+10，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022118">
+		<string name="name" value="管理员的祝贺"/>
+		<string name="desc" value="看啊，管理员的强大祝福！武器/魔法攻击+10、武器/魔法防御+300、命中/回避率+200、移动速度/跳跃+3，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022119">
+		<string name="name" value="圣诞树装饰"/>
+		<string name="desc" value="武器攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022120">
+		<string name="name" value="圣诞瓜"/>
+		<string name="desc" value="充满节日祝福的特殊瓜。美味！\n恢复2000 HP和1000 MP。"/>
+	</imgdir>
+    <imgdir name="2022121">
+		<string name="name" value="金币巧克力"/>
+		<string name="desc" value="在灯火节分发的特殊美味巧克力。\n恢复100 HP和MP，攻击+120、武器防御+120、命中+30、回避率+30、速度+10、跳跃+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022123">
+		<string name="name" value="香蕉格雷派"/>
+		<string name="desc" value="这个美味的派一定会让你精神焕发！恢复400 HP和500 MP，魔法攻击+120、魔法防御+120、命中+30、回避率+30、速度+10、跳跃+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022124">
+		<string name="name" value="卡斯蒂娜的魔法"/>
+		<string name="desc" value="金币掉落率翻倍。"/>
+	</imgdir>
+    <imgdir name="2022125">
+		<string name="name" value="敬畏者的诅咒"/>
+		<string name="desc" value="攻击、武器和魔法防御、命中、回避率在黑暗灵魂的黑色力量下增加。"/>
+	</imgdir>
+    <imgdir name="2022126">
+		<string name="name" value="魔法防御增加"/>
+		<string name="desc" value="在黑暗灵魂的帮助下魔法防御增加。"/>
+	</imgdir>
+    <imgdir name="2022127">
+		<string name="name" value="命中增加"/>
+		<string name="desc" value="在黑暗灵魂的帮助下命中增加。"/>
+	</imgdir>
+    <imgdir name="2022128">
+		<string name="name" value="回避率增加"/>
+		<string name="desc" value="在黑暗灵魂的帮助下回避率增加。"/>
+	</imgdir>
+    <imgdir name="2022129">
+		<string name="name" value="攻击增加"/>
+		<string name="desc" value="在黑暗灵魂的帮助下攻击增加。"/>
+	</imgdir>
+    <imgdir name="2022130">
+		<string name="name" value="樱花果汁"/>
+		<string name="desc" value="用碾碎的樱花和其他神秘成分制成的特殊能量饮料。恢复1200 HP、900 MP，防御+12，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022131">
+		<string name="name" value="人参浓缩液"/>
+		<string name="desc" value="人参浓缩液。HP和MP各恢复400。"/>
+	</imgdir>
+    <imgdir name="2022132">
+		<string name="name" value="桔梗浓缩液"/>
+		<string name="desc" value="桔梗浓缩液。HP和MP各恢复200。"/>
+	</imgdir>
+    <imgdir name="2022142">
+		<string name="name" value="身心药"/>
+		<string name="desc" value="用熊掌制成的中药。能使人心智清明。命中+200，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022143">
+		<string name="name" value=" mastery药"/>
+		<string name="desc" value="一种热的汤状药物，据说能把学生变成真正的师傅。魔法攻击+10，持续15分钟。"/>
+	</imgdir>
+</imgdir>

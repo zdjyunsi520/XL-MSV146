@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430696">
+		<string name="name" value="3x3活动黄金盒子"/>
+		<string name="desc" value="来自3!3!3!活动的黄金盒子。\n#c双击打开。#\n必须在12/09/24之前打开。"/>
+	</imgdir>
+    <imgdir name="2430697">
+		<string name="name" value="快乐时光风暴成长药水"/>
+		<string name="desc" value="传说中的力量灵药。喝一口就能升一级。\n#c满级角色无法使用此道具。#"/>
+	</imgdir>
+    <imgdir name="2430698">
+		<string name="name" value="史派克曼的备忘录"/>
+		<string name="desc" value="记有胡子工厂电话号码和订单号的备忘录。"/>
+	</imgdir>
+    <imgdir name="2430706">
+		<string name="name" value="进化腰带II能量节点"/>
+		<string name="desc" value="扭蛋道具。和你拥有的完美进化腰带II一起使用来增加潜能！"/>
+	</imgdir>
+    <imgdir name="2430711">
+		<string name="name" value="未鉴定的古董"/>
+		<string name="desc" value="来自史派克曼古董路边的积灰旧盒子。里面有贵重道具等着你。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2430712">
+		<string name="name" value="未识别的神器"/>
+		<string name="desc" value="谁知道这东西能值多少..."/>
+	</imgdir>
+    <imgdir name="2430714">
+		<string name="name" value="深红梦魇坐骑1年券"/>
+		<string name="desc" value="双击使用[深红梦魇坐骑]技能1年。"/>
+	</imgdir>
+    <imgdir name="2430715">
+		<string name="name" value="深红梦魇坐骑15日券"/>
+		<string name="desc" value="双击使用[深红梦魇坐骑]技能15天。"/>
+	</imgdir>
+    <imgdir name="2430716">
+		<string name="name" value="犀牛神尘"/>
+		<string name="desc" value="犀牛神掉落的魔法尘埃。它太魔法了，可能会让你一次性获得很多神器点数！"/>
+	</imgdir>
+    <imgdir name="2430717">
+		<string name="name" value="贝罗斯坐骑"/>
+		<string name="desc" value="7天贝罗斯坐骑券。双击学习坐骑技能。"/>
+	</imgdir>
+    <imgdir name="2430718">
+		<string name="name" value="橙色蘑菇坐骑"/>
+		<string name="desc" value="7天橙色蘑菇坐骑券。双击学习坐骑技能。"/>
+	</imgdir>
+    <imgdir name="2430719">
+		<string name="name" value="雪人坐骑"/>
+		<string name="desc" value="7天雪人坐骑券。双击学习坐骑技能。"/>
+	</imgdir>
+    <imgdir name="2430721">
+		<string name="name" value="枫叶糖浆药水"/>
+		<string name="desc" value="用枫叶糖浆制成的甜蜜药水。你的等级决定恢复多少HP和MP。不受药水相关技能或潜能影响。\n#c30级以下：HP/MP+100\n30-69级：HP/MP+300\n70-99级：HP/MP+1000\n100-119级：HP/MP+2000\n120-149级：HP/MP+3000\n150级或以上：HP/MP+4000\n"/>
+	</imgdir>
+    <imgdir name="2430722">
+		<string name="name" value="大炮手的三重欢呼"/>
+		<string name="desc" value="大炮手回来了！30分钟内增加武器攻击力、速度和跳跃。每升5级欢呼变强，最高到100级。可以与其他buff叠加。"/>
+	</imgdir>
+    <imgdir name="2430723">
+		<string name="name" value="传奇空间石"/>
+		<string name="desc" value="来自星星之外的回归传奇的礼物。允许你传送到任何大陆的任何城镇。由于其脆弱的细胞结构，触碰后24小时会内向碎裂。#c每30分钟只能使用一次。#"/>
+	</imgdir>
+    <imgdir name="2430724">
+		<string name="name" value="枫叶8周岁生日卡"/>
+		<string name="desc" value="美好的八年，都总结在这张小卡片上。双击根据你的等级获得大量经验加成。\n#c对满级角色无效。可以使用至活动结束13/06/30。#"/>
+	</imgdir>
+    <imgdir name="2430725">
+		<string name="name" value="8周年机器人盒子"/>
+		<string name="desc" value="装满8周岁枫叶生日礼物的盒子。双击打开。"/>
+	</imgdir>
+    <imgdir name="2430726">
+		<string name="name" value="双倍maximus坐骑30日券"/>
+		<string name="desc" value="双击学习[双倍maximus坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430727">
+		<string name="name" value="双倍红色卡车坐骑30日券"/>
+		<string name="desc" value="双击学习[双倍红色卡车坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430728">
+		<string name="name" value="双倍动力套装坐骑30日券"/>
+		<string name="desc" value="双击学习[双倍动力套装坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,73 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="阿里安特平台"/>
+			</imgdir>
+    <imgdir name="200082300">
+			<imgdir name="0">
+				<string name="Title" value="海上互通"/>
+			</imgdir>
+    <imgdir name="211000200">
+			<imgdir name="0">
+				<string name="Title" value="神Station塔"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="艾尔迪娜"/>
+			</imgdir>
+    <imgdir name="211041100">
+			<imgdir name="1">
+				<string name="Title" value="枯树森林II"/>
+			</imgdir>
+    <imgdir name="211041200">
+			<imgdir name="1">
+				<string name="Title" value="枯树森林I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="枯树森林III"/>
+			</imgdir>
+    <imgdir name="211040600">
+			<imgdir name="0">
+				<string name="Title" value="通往狮子王城堡的路"/>
+			</imgdir>
+    <imgdir name="222010101">
+			<imgdir name="0">
+				<string name="Title" value="小池塘"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="老虎森林II"/>
+			</imgdir>
+    <imgdir name="222010102">
+			<imgdir name="0">
+				<string name="Title" value="老虎森林II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="※禁止通行 "/>
+			</imgdir>
+    <imgdir name="230010100">
+			<imgdir name="0">
+				<string name="Title" value="海上互通"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="红色珊瑚森林"/>
+			</imgdir>
+    <imgdir name="230010200">
+			<imgdir name="0">
+				<string name="Title" value="水晶谷"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="贝壳山丘"/>
+			</imgdir>
+    <imgdir name="230010300">
+			<imgdir name="0">
+				<string name="Title" value="红色珊瑚森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="西部海域交叉路"/>
+			</imgdir>
+    <imgdir name="260000000">
+			<imgdir name="0">
+				<string name="Title" value="阿里安特西门外部"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="邮政仓库"/>
+			</imgdir>
+</imgdir>

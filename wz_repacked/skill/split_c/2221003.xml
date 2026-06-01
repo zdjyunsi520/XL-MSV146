@@ -1,0 +1,8 @@
+<imgdir name="2221003">
+        <string name="name" value="冰河锁链" />
+        <string name="desc" value="向前方射出极寒锁链，将敌人拉到面前造成致命伤害！冰河锁链无视部分怪物防御，冻结目标并施加持续伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="向前方射出极寒锁链，将敌人拉到面前造成致命伤害！冰河锁链冻结目标并施加持续伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec, Enemy DEF ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+    </imgdir>

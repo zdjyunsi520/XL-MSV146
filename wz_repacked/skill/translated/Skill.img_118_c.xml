@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20020097"><string name="name" value="冰冻之斧"/><string name="pdesc" value="攻击多个敌人。\n[指令：#c攻击键#]"/><string name="ph" value="伤害：#damage%，最大攻击目标数：#mobCount"/></imgdir>
+    <imgdir name="20020099"><string name="name" value="冰霜粉碎"/><string name="pdesc" value="将斧头变为巨剑冻结多个敌人。冰量表充能到#c20以上#时可用。\n[指令：#c上方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击目标数：#mobCount，冰冻概率：#prob%，冰冻持续时间：#time 秒"/></imgdir>
+    <imgdir name="20020100"><string name="name" value="冰暴"/><string name="pdesc" value="用冰之力量持续伤害敌人。冰量表充能到#c40以上#时可用。\n[指令：#c下方向键+右方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，每#dotInterval 秒持续#dotTime 秒（最多#attackCount 次），最大攻击目标数：#mobCount，"/></imgdir>
+    <imgdir name="20020103"><string name="name" value="冰碎击"/><string name="pdesc" value="猛击敌人有概率使其眩晕。冰量表充能到#c5以上#时可用。\n[指令：#c下方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time 秒"/></imgdir>
+    <imgdir name="20020104"><string name="name" value="冰之诅咒"/><string name="pdesc" value="诅咒对手将其变成冰蜗牛。冰量表充能到#c160以上#时可用。\n[指令：#c下方向键+上方向键+攻击键#]"/><string name="ph" value="冰量表消耗：#iceGageCon。蜗牛化概率：#prop%，蜗牛化持续时间：#time"/></imgdir>
+    <imgdir name="20020109"><string name="name" value="精灵治愈"/><string name="desc" value="利用大自然净化的能量持续恢复HP和MP。"/><string name="h" value="每4秒恢复最大HP和MP的#x%。"/></imgdir>
+    <imgdir name="20020111"><string name="name" value="上升气流"/><string name="desc" value="在梯子或绳索上快速向上移动。"/><string name="h" value="可在梯子或绳索上使用。\n[指令：#c上方向键+跳跃#]"/></imgdir>
+    <imgdir name="20020112"><string name="name" value="精灵的优雅"/><string name="desc" value="精灵统治者天生拥有敏捷的身手和致命的魅力。"/><string name="h" value="永久提升攻击速度1级。移动速度 #psdSpeed，跳跃力：#psdJump，魅力+30"/></imgdir>
+    <imgdir name="20020180"><string name="name" value="白天使祝福"/><string name="desc" value="[最高等级：1] 接受白天使的祝福。"/><string name="h1" value="攻击力：12，魔法攻击力：12，持续时间：10分钟"/></imgdir>
+    <imgdir name="20020190"><string name="name" value="联盟意志"/><string name="desc" value="根据联盟的意志释放强大力量"/><string name="h" value="永久提升力量：#strX，敏捷：#dexX，智力：#intX，运气：#lukX，攻击力：#padX，魔法攻击力：#madX"/></imgdir>
+    <imgdir name="20021000"><string name="name" value="水晶投掷"/><string name="desc" value="向敌人投掷鲁恩碎片。"/><string name="h" value="MP消耗：#mpCon，伤害：#fixdamage"/></imgdir>
+    <imgdir name="20021001"><string name="name" value="潜入"/><string name="desc" value="短时间内隐身并快速移动。\n#c冷却时间：1分钟#"/><string name="h" value="MP消耗：#mpCon，持续时间：#time 秒，移动速度：+#speed"/></imgdir>
+    <imgdir name="20021003"><string name="name" value="传说中的精灵"/><string name="desc" value="[最高等级：1]\n借助传说精灵的力量，可以使用卷轴强化无法装备的道具。"/></imgdir>
+    <imgdir name="20021004"><string name="name" value="骑兽"/><string name="desc" value="[最高等级：1]\n可以骑乘已驯服的怪物。"/></imgdir>
+    <imgdir name="20021005"><string name="name" value="英雄的回响"/><string name="desc" value="[最高等级：1]\n提升周围所有玩家的物理攻击力和魔法攻击力。\n#c冷却时间：2小时#"/><string name="h1" value="MP消耗：30，物理攻击力和魔法攻击力：+4%，持续时间：40分钟"/></imgdir>
+    <imgdir name="20021006"><string name="name" value="测试"/><string name="desc" value="测试"/><string name="h1" value="测试"/></imgdir>
+    <imgdir name="20021007"><string name="name" value="锻造"/><string name="desc" value="[最高等级：3]\n使用炼金术制作道具。可制作的道具取决于角色等级。"/><string name="h1" value="可以制作75级以下的道具。"/><string name="h2" value="可以制作105级以下的道具。"/><string name="h3" value="可以制作135级以下的道具。"/></imgdir>
+    <imgdir name="20021009"><string name="name" value="竹雨"/><string name="desc" value="使用竹子攻击敌人。"/><string name="h1" value="BOSS怪物的HP减少30%"/></imgdir>
+    <imgdir name="20021010"><string name="name" value="无敌"/><string name="desc" value="暂时进入无敌状态。"/><string name="h1" value="角色在30秒内处于无敌状态。"/></imgdir>
+    <imgdir name="20021011"><string name="name" value="力量爆发"/><string name="desc" value="暂时提升伤害。"/><string name="h1" value="伤害：+100%，持续时间：30秒"/></imgdir>
+</imgdir>

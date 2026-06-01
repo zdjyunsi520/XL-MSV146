@@ -1,0 +1,5 @@
+<imgdir name="31010003">
+        <string name="name" value="Demonic Veracity" />
+        <string name="desc" value="Permanently increases movement speed, max movement speed, Jump, and Critical Rate." />
+        <string name="h" value="Speed: +#psdSpeed, Max Speed: +#speedMax, Jump: +#psdJump, Critical Rate: +#cr%" />
+    </imgdir>

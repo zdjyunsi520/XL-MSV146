@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382123">
+		<string name="name" value="Tortie Card"/>
+		<string name="desc" value="A card that features Tortie."/>
+	</imgdir>
+    <imgdir name="2382124">
+		<string name="name" value="Ice Sentinel Card"/>
+		<string name="desc" value="A card that features Ice Sentinel."/>
+	</imgdir>
+    <imgdir name="2382125">
+		<string name="name" value="Fire Sentinel Card"/>
+		<string name="desc" value="A card that features Fire Sentinel."/>
+	</imgdir>
+    <imgdir name="2382126">
+		<string name="name" value="Latest Hits Compilation Card"/>
+		<string name="desc" value="A card that features Latest Hits Compilation."/>
+	</imgdir>
+    <imgdir name="2382127">
+		<string name="name" value="Dark Nependeath Card"/>
+		<string name="desc" value="A card that features Dark Nependeath."/>
+	</imgdir>
+    <imgdir name="2382129">
+		<string name="name" value="Greatest Oldies Card"/>
+		<string name="desc" value="A card that features Greatest Oldies."/>
+	</imgdir>
+    <imgdir name="2382130">
+		<string name="name" value="Cheap Amplifier Card"/>
+		<string name="desc" value="A card that features Cheap Amplifier."/>
+	</imgdir>
+    <imgdir name="2382131">
+		<string name="name" value="Luster Pixie Card"/>
+		<string name="desc" value="A card that features Luster Pixie."/>
+	</imgdir>
+    <imgdir name="2382132">
+		<string name="name" value="Fancy Amplifier Card"/>
+		<string name="desc" value="A card that features Fancy Amplifier ."/>
+	</imgdir>
+    <imgdir name="2382133">
+		<string name="name" value="Jr. Yeti Card"/>
+		<string name="desc" value="A card that features Jr. Yeti."/>
+	</imgdir>
+    <imgdir name="2383000">
+		<string name="name" value="Mecateon Card"/>
+		<string name="desc" value="A card that features Mecateon..\n#cIf hunting at Boswell FieldnSpeed +2#"/>
+	</imgdir>
+    <imgdir name="2383001">
+		<string name="name" value="Tortie Card"/>
+		<string name="desc" value="A card that features Tortie Card.\n#cIf hunting at Florina BeachnAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383002">
+		<string name="name" value="Master Chronos Card"/>
+		<string name="desc" value="A card that features Master Chronos.\n#cIf hunting at the upper floors of the ClocktowernJump +2#"/>
+	</imgdir>
+    <imgdir name="2383003">
+		<string name="name" value="Dark Nependeath Card"/>
+		<string name="desc" value="A card that features Dark Nependeath.\n#cIf hunting at the Cloud ParknIncreases drop rate of Nependeath Honey#"/>
+	</imgdir>
+    <imgdir name="2383004">
+		<string name="name" value="Rombot Card"/>
+		<string name="desc" value="A card that features Rombot.\n#cIf hunting at Eos TowernItem drop rates are increased#"/>
+	</imgdir>
+    <imgdir name="2383005">
+		<string name="name" value="Mummy Dog Card"/>
+		<string name="desc" value="A card that features Mummy Dog.\n#cIf hunting at PerionnJump +2#"/>
+	</imgdir>
+    <imgdir name="2383006">
+		<string name="name" value="Jar Card"/>
+		<string name="desc" value="A card that features Jar.\n#cItem drop rates are increased when hunting in the Herb Town#"/>
+	</imgdir>
+    <imgdir name="2383007">
+		<string name="name" value="Mithril Mutae Card"/>
+		<string name="desc" value="A card that features Mithril Mutae.\n#cIf hunting at the Alcadno InstitutenAccuracy +2#"/>
+	</imgdir>
+    <imgdir name="2383008">
+		<string name="name" value="Wraith Card"/>
+		<string name="desc" value="A card that features Wraith.\n#cIf hunting at the SubwaynSpeed +2#"/>
+	</imgdir>
+    <imgdir name="2383009">
+		<string name="name" value="Clang Card"/>
+		<string name="desc" value="A card that features Clang.\n#cIf hunting at Florina BeachnSpeed +2#"/>
+	</imgdir>
+</imgdir>

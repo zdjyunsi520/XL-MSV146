@@ -1,0 +1,5 @@
+<imgdir name="101120104">
+        <string name="name" value="高级大地碎裂" />
+        <string name="desc" value="更强力的大地碎裂。提升伤害并有几率一击必杀。同时在地面产生电场，持续伤害附近敌人~\n[前置技能]: #c大地碎裂 Lv. 20#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount, 最大攻击次数: #attackCount, 一击必杀几率: #prop%\n#c[冲击波]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z\n#c[电场]#: 最大敌人数: #s 持续时间: #v 伤害: 每1秒#w%" />
+    </imgdir>

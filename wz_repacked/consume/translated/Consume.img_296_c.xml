@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430880">
+		<string name="name" value="叛逆者礼物盒子"/>
+		<string name="desc" value="庆祝叛逆者来临的礼物盒子。这个盒子可以在2012年6月30日打开，如果那天不打开盒子，它就会消失。"/>
+	</imgdir>
+    <imgdir name="2430881">
+		<string name="name" value="幻影礼物盒子"/>
+		<string name="desc" value="庆祝幻影来临的礼物盒子。这个盒子可以在2012年7月14日打开，如果那天不打开盒子，它就会消失。"/>
+	</imgdir>
+    <imgdir name="2430882">
+		<string name="name" value="匿名情书"/>
+		<string name="desc" value="一位匿名仰慕者寄给你的信。你能感受到其中蕴含的满满爱意...也许你应该打开看看..."/>
+	</imgdir>
+    <imgdir name="2430915">
+		<string name="name" value="超级雕刻槽位奇迹立方体"/>
+		<string name="desc" value="从超级雕刻槽位奇迹立方体上脱落的碎片。双击换取有用的道具。"/>
+	</imgdir>
+    <imgdir name="2430916">
+		<string name="name" value="暴风雨硬币袋"/>
+		<string name="desc" value="纪念暴风雨的硬币袋。打开它获得暴风雨硬币。如果幸运的话，你可能可以获得其他宝藏。只能在活动结束的13/2/12之前打开。"/>
+	</imgdir>
+    <imgdir name="2430917">
+		<string name="name" value="暴风雨纪念盒子"/>
+		<string name="desc" value="纪念暴风雨的盒子。打开它获得好东西。但是，只能在活动结束的13/2/12之前打开。"/>
+	</imgdir>
+    <imgdir name="2430921">
+		<string name="name" value="暴风雨变形药水"/>
+		<string name="desc" value="炼金术士为纪念暴风雨制作的变形药水。就连他也不知道你会变成什么！但是，只能在活动结束的TKTKTK之前使用。"/>
+	</imgdir>
+    <imgdir name="2430924">
+		<string name="name" value="凯撒史诗套装"/>
+		<string name="desc" value="装有之前凯撒的头盔、盔甲和鞋子的盒子。"/>
+	</imgdir>
+    <imgdir name="2430925">
+		<string name="name" value="凯撒高级史诗套装"/>
+		<string name="desc" value="装有之前凯撒的头盔、盔甲、鞋子和暴风雨大剑的盒子。"/>
+	</imgdir>
+    <imgdir name="2430926">
+		<string name="name" value="凯撒高级史诗套装"/>
+		<string name="desc" value="装有之前凯撒的头盔、盔甲、鞋子、暴风雨大剑和特殊称号的盒子。"/>
+	</imgdir>
+    <imgdir name="2430927">
+		<string name="name" value="双倍变形坐骑30日券"/>
+		<string name="desc" value="双击使用[双倍变形机器人坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430928">
+		<string name="name" value="双倍梦魇坐骑30日券"/>
+		<string name="desc" value="双击使用[双倍梦魇坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430929">
+		<string name="name" value="双倍神兽坐骑30日券"/>
+		<string name="desc" value="双击使用[双倍神兽坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430930">
+		<string name="name" value="双倍猫头鹰坐骑30日券"/>
+		<string name="desc" value="双击使用[双倍猫头鹰坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430931">
+		<string name="name" value="双倍熊热气球坐骑30日券"/>
+		<string name="desc" value="双击使用[双倍熊热气球坐骑]30天，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430932">
+		<string name="name" value="双倍变形坐骑永久券"/>
+		<string name="desc" value="双击永久使用[双倍变形机器人坐骑]，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430933">
+		<string name="name" value="双倍梦魇坐骑永久券"/>
+		<string name="desc" value="双击永久使用[双倍梦魇坐骑]，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430934">
+		<string name="name" value="双倍神兽坐骑永久券"/>
+		<string name="desc" value="双击永久使用[双倍神兽坐骑]，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430935">
+		<string name="name" value="双倍猫头鹰坐骑永久券"/>
+		<string name="desc" value="双击永久使用[双倍猫头鹰坐骑]，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+    <imgdir name="2430936">
+		<string name="name" value="双倍熊热气球坐骑永久券"/>
+		<string name="desc" value="双击永久使用[双倍熊热气球坐骑]，从今天开始。\n即使你没有这个技能，也可以在这个坐骑上使用跳跃。"/>
+	</imgdir>
+</imgdir>

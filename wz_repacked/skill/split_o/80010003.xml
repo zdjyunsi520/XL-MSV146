@@ -1,0 +1,5 @@
+<imgdir name="80010003">
+        <string name="name" value="Mighty Beast Lv.1" />
+        <string name="desc" value="Gathers the powers of the Beast Tamer&apos;s three animals to boost Weapon Attack and Magic Attack by 3." />
+        <string name="h" value="#Weapon Attack: +#padX, Magic Attack: +#madX" />
+    </imgdir>

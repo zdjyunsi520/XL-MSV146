@@ -1,0 +1,5 @@
+<imgdir name="4000000">
+        <string name="name" value="灵巧" />
+        <string name="desc" value="永久提升命中率和回避率。" />
+        <string name="h" value="Accuracy: +#x, Avoidability: +#y." />
+    </imgdir>

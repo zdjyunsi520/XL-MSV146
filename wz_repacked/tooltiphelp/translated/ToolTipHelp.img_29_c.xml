@@ -1,0 +1,68 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="741000001">
+			<imgdir name="0">
+				<string name="Title" value="美容院"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="整形外科"/>
+			</imgdir>
+    <imgdir name="741010200">
+			<imgdir name="0">
+				<string name="Title" value="夜市街道II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="夜市街道IV"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="夜市道路之间I"/>
+			</imgdir>
+    <imgdir name="800000000">
+			<imgdir name="0">
+				<string name="Title" value="蘑菇神社"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="鱼糕店"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="炒面店"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="章鱼烧店"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="蘑菇拉面店"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="团子店"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="蘑菇神社"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="世界旅游信息台"/>
+			</imgdir>
+    <imgdir name="800020000">
+			<imgdir name="0">
+				<string name="Title" value="乌鸦森林II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="动物森林"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="蘑菇森林"/>
+			</imgdir>
+    <imgdir name="800020101">
+			<imgdir name="0">
+				<string name="Title" value="竹林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="云狐山"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="乌鸦森林I"/>
+			</imgdir>
+    <imgdir name="101030103">
+			<imgdir name="0">
+				<string name="Title" value="挖掘现场II"/>
+			</imgdir>
+</imgdir>

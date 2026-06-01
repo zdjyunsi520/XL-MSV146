@@ -1,0 +1,106 @@
+<imgdir name="Npc.img">
+    <imgdir name="2210000">
+		<string name="name" value="Lavi"/>
+		<string name="n0" value="Are you an explorer?"/>
+		<string name="n1" value="Don't even think about making a short joke."/>
+		<string name="d0" value="The desire to explore is all that matters. It's what gets the heart pumping."/>
+		<string name="d1" value="The desire to explore is all that matters. It's what gets the heart pumping."/>
+		<string name="func" value="Expedition Lead"/>
+	</imgdir>
+    <imgdir name="2210001">
+		<string name="name" value="Kona"/>
+		<string name="d1" value="Let's go exploring!"/>
+		<string name="d0" value="Whoa! Something new to explore!"/>
+		<string name="n1" value="I wonder how much more there is to learn. I hope it's a bunch!"/>
+		<string name="n0" value="I wonder how much more there is to learn. I hope it's a bunch!"/>
+		<string name="func" value="Assistant"/>
+	</imgdir>
+    <imgdir name="2210002">
+		<string name="name" value="Kupo"/>
+		<string name="n0" value="Life is an all or nothing race."/>
+		<string name="n1" value="Leave it to me, and you'll always win."/>
+		<string name="d0" value="Everybody relax. There's enough Kupo to go around."/>
+		<string name="d1" value="Everybody relax. There's enough Kupo to go around."/>
+	</imgdir>
+    <imgdir name="2210003">
+		<string name="name" value="Kupo"/>
+		<string name="n0" value="Life is an all or nothing race."/>
+		<string name="n1" value="Leave it to me, and you'll always win."/>
+		<string name="d0" value="Everybody relax. There's enough Kupo to go around."/>
+		<string name="d1" value="Everybody relax. There's enough Kupo to go around."/>
+	</imgdir>
+    <imgdir name="2210004">
+		<string name="name" value="Chino"/>
+		<string name="n0" value="The wind could be a problem today..."/>
+		<string name="n1" value="The high altitudes are wreaking havoc on Martino's barrel temperature."/>
+		<string name="d0" value="Down the sights and out the barrel. Bang."/>
+		<string name="d1" value="Down the sights and out the barrel. Bang."/>
+	</imgdir>
+    <imgdir name="2210005">
+		<string name="name" value="Chino"/>
+		<string name="n0" value="The wind could be a problem today..."/>
+		<string name="n1" value="The high altitudes are wreaking havoc on Martino's barrel temperature."/>
+		<string name="d0" value="Down the sights and out the barrel. Bang."/>
+		<string name="d1" value="Down the sights and out the barrel. Bang."/>
+	</imgdir>
+    <imgdir name="2210006">
+		<string name="name" value="Chino"/>
+	</imgdir>
+    <imgdir name="2210007">
+		<string name="name" value="Stone Colossus"/>
+		<string name="d0" value="I hate violence. Want peace for all."/>
+		<string name="d1" value="I hate violence. Want peace for all."/>
+	</imgdir>
+    <imgdir name="2210008">
+		<string name="name" value="Stone Colossus"/>
+		<string name="d0" value="Darkness eats at heart. Such pain..."/>
+		<string name="d1" value="Darkness eats at heart. Such pain..."/>
+	</imgdir>
+    <imgdir name="2210009">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2210010">
+		<string name="name" value="Dark Eliza"/>
+	</imgdir>
+    <imgdir name="2210011">
+		<string name="name" value="Guwaru"/>
+	</imgdir>
+    <imgdir name="2210012">
+		<string name="name" value="Christopher"/>
+		<string name="n0" value="Where did you end up this time, Christopher?"/>
+		<string name="n1" value="W-Water..."/>
+		<string name="d0" value="Oh my, oh my. W-won't the heavens grant me an excellent explorer... with a map?"/>
+		<string name="d1" value="Oh my, oh my. W-won't the heavens grant me an excellent explorer... with a map?"/>
+	</imgdir>
+    <imgdir name="2210013">
+		<string name="name" value="Chino"/>
+		<string name="n0" value="The wind could be a problem today..."/>
+		<string name="n1" value="The high altitudes are wreaking havoc on Martino's barrel temperature."/>
+		<string name="d0" value="Down the sights and out the barrel. Bang."/>
+		<string name="d1" value="Down the sights and out the barrel. Bang."/>
+	</imgdir>
+    <imgdir name="2210014">
+		<string name="name" value="Guwaru"/>
+	</imgdir>
+    <imgdir name="2211000">
+		<string name="name" value="Gugu"/>
+		<string name="n0" value="Zzzzzz..."/>
+		<string name="n1" value="Mmhmm..."/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="2211001">
+		<string name="name" value="Mumu"/>
+		<string name="n0" value="Snore..."/>
+		<string name="n1" value="Pssh... Mmmh..."/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="2220000">
+		<string name="name" value="Jayce"/>
+	</imgdir>
+    <imgdir name="2220001">
+		<string name="name" value="Aran"/>
+	</imgdir>
+    <imgdir name="2220002">
+		<string name="name" value="Mercedes"/>
+	</imgdir>
+</imgdir>

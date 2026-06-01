@@ -1,0 +1,5 @@
+<imgdir name="33121052">
+        <string name="name" value="狂豹暴走" />
+        <string name="desc" value="与美洲豹合为一体释放巨大怒火。" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount\n冷却时间：#cooltime秒" />
+    </imgdir>

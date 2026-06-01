@@ -1,0 +1,7 @@
+<imgdir name="5210013">
+        <string name="name" value="Fullmetal Jacket" />
+        <string name="desc" value="Increases Critical Rate and ignores a portion of enemy&apos;s DEF." />
+        <string name="h" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="Increases Critical Rate and ignores a portion of enemy&apos;s DEF." />
+        <string name="ph" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

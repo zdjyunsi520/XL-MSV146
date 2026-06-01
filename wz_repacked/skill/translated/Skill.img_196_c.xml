@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="72000019"><string name="name" value="不死族之力"/><string name="desc" value="死亡时经验损失-%"/></imgdir>
+    <imgdir name="72000020"><string name="name" value="幽灵之力"/><string name="desc" value="最后一击有10%概率恢复MP"/></imgdir>
+    <imgdir name="72000021"><string name="name" value="精灵之力"/><string name="desc" value="魔法防御力提升"/></imgdir>
+    <imgdir name="72000022"><string name="name" value="沙漠兔兔之力"/><string name="desc" value="跳跃力提升"/></imgdir>
+    <imgdir name="72000023"><string name="name" value="蝙蝠南瓜之力"/><string name="desc" value="最大移动速度提升"/></imgdir>
+    <imgdir name="72000024"><string name="name" value="蝙蝠糖果之力"/><string name="desc" value="农场升级时获得瓦鲁斯"/></imgdir>
+    <imgdir name="72000025"><string name="name" value="沙漠兔子之力"/><string name="desc" value="移动速度提升"/></imgdir>
+    <imgdir name="72000026"><string name="name" value="海豹之力"/><string name="desc" value="命中值提升"/></imgdir>
+    <imgdir name="72000027"><string name="name" value="书鬼之力"/><string name="desc" value="命中值、回避值提升"/></imgdir>
+    <imgdir name="72000028"><string name="name" value="月兔之力"/><string name="desc" value="农场怪物经验获取提升"/></imgdir>
+    <imgdir name="72000029"><string name="name" value="塞尔夫之力"/><string name="desc" value="道具掉落率提升"/></imgdir>
+    <imgdir name="72000030"><string name="name" value="雪女之力"/><string name="desc" value="最大MP提升"/></imgdir>
+    <imgdir name="72000031"><string name="name" value="大王叮之力"/><string name="desc" value="物理防御力提升"/></imgdir>
+    <imgdir name="72000032"><string name="name" value="多多之力"/><string name="desc" value="最大HP提升"/></imgdir>
+    <imgdir name="72000033"><string name="name" value="伊鲁瓦塔之力"/><string name="desc" value="回避值提升"/></imgdir>
+    <imgdir name="72000034"><string name="name" value="法老雪人之力"/><string name="desc" value="农场经验获取提升"/></imgdir>
+    <imgdir name="72000035"><string name="name" value="月兔双子之力"/><string name="desc" value="农场怪物经验获取提升"/></imgdir>
+    <imgdir name="72000036"><string name="name" value="利莉诺奇之力"/><string name="desc" value="敏捷提升"/></imgdir>
+    <imgdir name="72000037"><string name="name" value="弗兰肯罗伊之力"/><string name="desc" value="力量提升"/></imgdir>
+    <imgdir name="72000038"><string name="name" value="杜纳斯之力"/><string name="desc" value="运气提升"/></imgdir>
+</imgdir>

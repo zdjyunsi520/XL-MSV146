@@ -1,0 +1,8 @@
+<imgdir name="1211010">
+        <string name="name" value="HP回复" />
+        <string name="desc" value="立即回复生命值。技能等级越高回复越多。#c连续使用时回复量会减少#~" />
+        <string name="pdesc" value="立即回复生命值。技能等级越高回复越多。#c连续使用时回复量会减少#~" />
+        <string name="h" value="MP消耗: #mpCon, 回复最大HP的#x%，在#time秒内#c连续使用时回复量 -#y%#" />
+        <string name="ph" value="MP消耗: #mpCon, 回复最大HP的#x%，在#time秒内#c连续使用时回复量 -#y%#" />
+        <string name="hch" value="MP消耗: #mpCon, 回复最大HP的#x%，在#time秒内#c连续使用时回复量 -#y%#" />
+    </imgdir>

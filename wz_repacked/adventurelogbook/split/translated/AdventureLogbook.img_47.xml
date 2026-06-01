@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="507">
+				<string name="title" value="7. 冒险岛灾难" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="你还没从震惊中恢复过来，Sugar就联系了你，恳求你回到冒险岛。当你走下渡轮时，你看到你亲爱的岛屿正笼罩在火焰中。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="在混乱中，你得知Sugar已经逃离了。你朝枫树山丘走去，发现她正在与火焰搏斗。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="直到你扑灭了火焰，你才发现Sugar受伤了。当你端来水为她冷却伤口时，她把水浇在了树上，说一切都会好起来的。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="当你和朋友们一起为岛屿哀悼时，你突然意识到……也许你可以用封印石来恢复冒险岛！但你需要更多关于封印石运作方式的信息。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="只剩下一件事情可以做了。你必须去拜访创造封印石的英雄们，向他们请教知识。" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

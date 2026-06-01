@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031057">
+			<string name="name" value="力量项链"/>
+			<string name="desc" value="在异次元用力量击败'另一个自我'而获得的项链"/>
+		</imgdir>
+    <imgdir name="4031058">
+			<string name="name" value="智慧项链"/>
+			<string name="desc" value="在圣地用智慧沉着地回答所有问题而获得的项链"/>
+		</imgdir>
+    <imgdir name="4031059">
+			<string name="name" value="黑色护身符"/>
+			<string name="desc" value="在新次元世界击败'另一个自我'而获得的护身符"/>
+		</imgdir>
+    <imgdir name="4031060">
+			<string name="name" value="尼克的戒指"/>
+			<string name="desc" value="斯加杜尔失散多年的儿子尼克的戒指"/>
+		</imgdir>
+    <imgdir name="4031061">
+			<string name="name" value="火焰矿石碎片"/>
+			<string name="desc" value="蕴含火焰力量的矿石碎片。用作制作扎昆祭坛祭品的材料"/>
+		</imgdir>
+    <imgdir name="4031062">
+			<string name="name" value="熔岩气息"/>
+			<string name="desc" value="蕴含精炼祭品所需熔岩的灼热热量"/>
+		</imgdir>
+    <imgdir name="4031063">
+			<string name="name" value="托尔的鹿角"/>
+			<string name="desc" value="托尔丢失的一小套鹿角"/>
+		</imgdir>
+    <imgdir name="4031064">
+			<string name="name" value="橙色弹珠"/>
+			<string name="desc" value="老板猫从樱花那里偷走的橙色弹珠"/>
+		</imgdir>
+    <imgdir name="4031065">
+			<string name="name" value="极佳运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示极佳运气"/>
+		</imgdir>
+    <imgdir name="4031066">
+			<string name="name" value="大吉运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示大吉运气"/>
+		</imgdir>
+    <imgdir name="4031067">
+			<string name="name" value="吉运 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示吉运"/>
+		</imgdir>
+    <imgdir name="4031068">
+			<string name="name" value="普通运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示普通运气"/>
+		</imgdir>
+    <imgdir name="4031069">
+			<string name="name" value="坏运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示坏运气"/>
+		</imgdir>
+    <imgdir name="4031070">
+			<string name="name" value="大凶运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示大凶运气"/>
+		</imgdir>
+    <imgdir name="4031071">
+			<string name="name" value="最差运气 fortune cookie纸条"/>
+			<string name="desc" value=" fortune cookie纸条，预示最差运气"/>
+		</imgdir>
+    <imgdir name="4031072">
+			<string name="name" value="魔法盒钥匙"/>
+			<string name="desc" value="能够打开魔法盒的物品。你应该把这个带给根尼"/>
+		</imgdir>
+    <imgdir name="4031073">
+			<string name="name" value="前往鲁迪布里姆的船票（普通）"/>
+			<string name="desc" value="前往奥塞利亚鲁迪布里姆的普通船票"/>
+		</imgdir>
+    <imgdir name="4031074">
+			<string name="name" value="前往鲁迪布里姆的船票（高级）"/>
+			<string name="desc" value="前往奥塞利亚鲁迪布里姆的高级船票"/>
+		</imgdir>
+    <imgdir name="4031075">
+			<string name="name" value="来自黑牛的贺年卡"/>
+			<string name="desc" value="佩翁的黑牛寄来的贺年卡。需要送给艾琳尼亚的'非常老的格伦德尔'"/>
+		</imgdir>
+    <imgdir name="4031076">
+			<string name="name" value="来自非常老的格伦德尔的贺年卡"/>
+			<string name="desc" value="艾琳尼亚的'非常老的格伦德尔'寄来的贺年卡。需要送给赫尼西亚的'雅典娜皮尔斯'"/>
+		</imgdir>
+</imgdir>

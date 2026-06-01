@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5021023">
+		<string name="name" value="Stirge Throwing Star"/>
+		<string name="desc" value="Stirgeman's favorite throwing star! Guaranteed to get you out of a tight spot!"/>
+	</imgdir>
+    <imgdir name="5021024">
+		<string name="name" value="Throwing Eggs Weapon"/>
+		<string name="desc" value="Can be equipped with a #cthrowing star#."/>
+	</imgdir>
+    <imgdir name="5021025">
+		<string name="name" value="Charm of the Undead"/>
+		<string name="desc" value="Equips over #cThrowing Stars#!"/>
+	</imgdir>
+    <imgdir name="5021026">
+		<string name="name" value="Gift Box Throwing Stars"/>
+		<string name="desc" value="A gift box that can be freely thrown around. Using the #cThrowing Star# will create an orbital effect.\n\nThis item cannot be deleted."/>
+	</imgdir>
+    <imgdir name="5030000">
+		<string name="name" value="Mushroom House Elf"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Elf, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030001">
+		<string name="name" value="Mushroom House Elf"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Elf, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030002">
+		<string name="name" value="Cashier: Teddy Bear Clerk"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Teddy Bear, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030003">
+		<string name="name" value="Cashier: Teddy Bear Clerk"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Teddy Bear, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030004">
+		<string name="name" value="The Robot Stand"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Robot, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030005">
+		<string name="name" value="The Robot Stand"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Robot, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030006">
+		<string name="name" value="Mushroom House Elf"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Elf, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030008">
+		<string name="name" value="Homely Coffeehouse"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Coffeehouse, doubling as the Hired Merchant, will be a place that sells the items for the owner, even if the owner does not log on to the game. #cIf an item is sold, the owner will be notified through the chat window.#"/>
+	</imgdir>
+    <imgdir name="5030009">
+		<string name="name" value="Homely Coffeehouse"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Coffeehouse, doubling as the Hired Merchant, will be a place that sells the items for the owner, even if the owner does not log on to the game. #cIf an item is sold, the owner will be notified through the chat window.#"/>
+	</imgdir>
+    <imgdir name="5030010">
+		<string name="name" value="Granny's Food Stand"/>
+		<string name="desc" value="Set up this store on the Free Market, and this Granny will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items at this shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5030011">
+		<string name="name" value="Granny's Food Stand"/>
+		<string name="desc" value="Set up this store on the Free Market, and this Granny will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items at this shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5030012">
+		<string name="name" value="Tiki Torch Store"/>
+		<string name="desc" value="Set up this special store on the Free Market, and this Granny, working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+	</imgdir>
+    <imgdir name="5030015">
+		<string name="name" value="Homely Coffeehouse: 4 days"/>
+		<string name="desc" value="Set up this special store in the Free Market! This Coffehouse, which doubles as a Hired Merchant, will sell your items, even if you do not log into the game. #cIf an item is sold, you will be notified through the chat window.#"/>
+	</imgdir>
+    <imgdir name="5030021">
+		<string name="name" value="Jeweler Aamina: 7 Days"/>
+		<string name="desc" value="Open this store in the Free Market, and Jeweler Aamina will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items to your shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5030022">
+		<string name="name" value="Jeweler Aamina: 1 Day"/>
+		<string name="desc" value="Open this store in the Free Market, and Jeweler Aamina will sell items for you, even while you are logged out. If you list items that #cyou wish to purchase#, another player can sell those items to your shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations."/>
+	</imgdir>
+    <imgdir name="5030023">
+		<string name="name" value="Granny's Snack Shack: 1 Day"/>
+		<string name="desc" value="Set up this store on the Free Market and Granny will sell your items for you, even while you are logged out. In addition, if you list items that #cyou wish to purchase#, another player can sell those items at this shop. #cWhen an item is sold, you will be notified via chat window.# \n#cUnpurchaseable Items#: Equipment items and cash items with expirations. \nThe Granny's Snack Shack of World Discount Sale Tab can be purchased #c1 Time#per Nexon ID."/>
+	</imgdir>
+</imgdir>

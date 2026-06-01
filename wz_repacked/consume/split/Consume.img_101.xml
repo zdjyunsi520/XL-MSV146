@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041322">
+		<string name="name" value="Veteran Crusader Belt Enhancement Scroll 60%"/>
+		<string name="desc" value="Improves stats on Veteran Cross Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nChance to destroy item on failure: 40%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\nWeapon Defense: +30\r\nMagic Defense: +30\r\n#"/>
+	</imgdir>
+    <imgdir name="2041323">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for ATT 25%"/>
+		<string name="desc" value="Improves Attack on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041324">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for M. ATT 25%"/>
+		<string name="desc" value="Improves Magic Attack on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041325">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for ATT 60%"/>
+		<string name="desc" value="Improves Attack on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041326">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for M. ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nChance to destroy item on failure: 50%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041327">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for STR 30%"/>
+		<string name="desc" value="Improves Strength on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to be destroyed on failure: 25%\r\nSTR: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041328">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for INT 30%"/>
+		<string name="desc" value="Improves Intelligence on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 25%\r\nINT: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041329">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 25%\r\nDEX: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041330">
+		<string name="name" value="Scroll for Golden Pig Dream Belt for LUK 30%"/>
+		<string name="desc" value="Improves Luck on Golden Pig Dream Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 25%\r\nLUK: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2041331">
+		<string name="name" value="Spiegelmann's Belt Chaos Scroll 30%"/>
+		<string name="desc" value="May improve or worsen Spiegelmann's Belt. Some stats will not be effected.\nIf it fails, the item has a 70% chance to be completely destroyed."/>
+	</imgdir>
+    <imgdir name="2041332">
+		<string name="name" value="Scroll for Spiegelmann's Belt for STR 30%"/>
+		<string name="desc" value="Improves Strength on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to be destroyed on failure: 70%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041333">
+		<string name="name" value="Scroll for Spiegelmann's Belt for INT 30%"/>
+		<string name="desc" value="Improves Intelligence on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 70%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041334">
+		<string name="name" value="Scroll for Spiegelmann's Belt for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 70%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041335">
+		<string name="name" value="Scroll for Spiegelmann's Belt for LUK 30%"/>
+		<string name="desc" value="Improves Luck on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 70%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041336">
+		<string name="name" value="Scroll for Spiegelmann's Belt for Weapon ATT 20%"/>
+		<string name="desc" value="Improves Attack on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041337">
+		<string name="name" value="Scroll for Spiegelmann's Belt for M. ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on Spiegelmann Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041508">
+		<string name="name" value="Silent Crusader Shoulder Enhancement Scroll"/>
+		<string name="desc" value="Grants the Splendid Silent Crusader Shoulders EXP enhancement\nSuccess Rate: 50%, All stast +2, Weapon/Magic ATT+2, Weapon/Magic+10\nIf it fails, the item has a 50% chance to be destroyed."/>
+	</imgdir>
+    <imgdir name="2041509">
+		<string name="name" value="Veteran Crusader Shoulders Enhancement Scroll 20%"/>
+		<string name="desc" value="Improves stats on Veteran Cross Shoulders."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 80%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +2\r\nMagic Attack: +2\r\nAccuracy: +50\r\nAvoidability: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2041510">
+		<string name="name" value="Veteran Crusader Shoulders Enhancement Scroll 60%"/>
+		<string name="desc" value="Improves stats on Veteran Cross Shoulders."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nChance to destroy item on failure: 40%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\nAccuracy: +20\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2041511">
+		<string name="name" value="8th Anniversary Scroll for Shoulder Accessory for ATT 10%"/>
+		<string name="desc" value="Improves Attack on Maple Amethysian and Grand Maple Amethysian Shoulders. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+</imgdir>

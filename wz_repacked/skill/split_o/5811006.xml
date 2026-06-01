@@ -1,0 +1,7 @@
+<imgdir name="5811006">
+        <string name="name" value="Shockwave" />
+        <string name="desc" value="Smashes the ground to create a shock wave that damages multiple enemies. Can only be used while in the #cTransformation or Super Transformation# states. \nRequired Skill: #cTransformation Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Smashes the ground to create a shock wave that damages multiple enemies. Can only be used while in the #cTransformation or Super Transformation# states. \nRequired Skill: #cTransformation Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9500615">
+		<string name="name" value="黄迷你豆"/>
+	</imgdir>
+    <imgdir name="9500616">
+		<string name="name" value="蓝迷你豆"/>
+	</imgdir>
+    <imgdir name="9500617">
+		<string name="name" value="绿迷你豆"/>
+	</imgdir>
+    <imgdir name="9500618">
+		<string name="name" value="黑迷你豆"/>
+	</imgdir>
+    <imgdir name="9400581">
+		<string name="name" value="风暴破坏者"/>
+	</imgdir>
+    <imgdir name="9400582">
+		<string name="name" value="深红守护者"/>
+	</imgdir>
+    <imgdir name="9400583">
+		<string name="name" value="妖精"/>
+	</imgdir>
+    <imgdir name="9400584">
+		<string name="name" value="妖精"/>
+	</imgdir>
+    <imgdir name="9400585">
+		<string name="name" value="深红树"/>
+	</imgdir>
+    <imgdir name="9400586">
+		<string name="name" value="深红树"/>
+	</imgdir>
+    <imgdir name="9400587">
+		<string name="name" value="幻影树"/>
+	</imgdir>
+    <imgdir name="9400588">
+		<string name="name" value="幻影树"/>
+	</imgdir>
+    <imgdir name="9400589">
+		<string name="name" value="纳格罗姆"/>
+	</imgdir>
+    <imgdir name="9400590">
+		<string name="name" value="玛加娜"/>
+	</imgdir>
+    <imgdir name="9400591">
+		<string name="name" value="红尼尔格"/>
+	</imgdir>
+    <imgdir name="9400592">
+		<string name="name" value="雷利克"/>
+	</imgdir>
+    <imgdir name="9400593">
+		<string name="name" value="哈萨尔夫"/>
+	</imgdir>
+    <imgdir name="9400594">
+		<string name="name" value="守护者大师"/>
+	</imgdir>
+    <imgdir name="9400595">
+		<string name="name" value="血蝙蝠"/>
+	</imgdir>
+    <imgdir name="9400596">
+		<string name="name" value="猩红凤凰"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046514">
+		<string name="name" value="Renegades Scroll for Armor for LUK 40%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046515">
+		<string name="name" value="Renegades Scroll for Armor for STR 70%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nWeapon Defense: +10\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046516">
+		<string name="name" value="Renegades Scroll for Armor for INT 70%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nWeapon Defense: +5\r\nMagic Defense: +10\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046517">
+		<string name="name" value="Renegades Scroll for Armor for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046518">
+		<string name="name" value="Renegades Scroll for Armor for LUK 70%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nWeapon Defense: +5\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046519">
+		<string name="name" value="Azwan Scroll for Armor for STR 60%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cUses 3 available upgrade slots\r\nSuccess Rate: 60%\r\nSTR: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046520">
+		<string name="name" value="Azwan Scroll for Armor for STR 50%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cUses 4 available upgrade slots\r\nSuccess Rate: 50%\r\nSTR: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046521">
+		<string name="name" value="Azwan Scroll for Armor for STR 40%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cUses 5 available upgrade slots\r\nSuccess Rate: 40%\r\nSTR: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046522">
+		<string name="name" value="Azwan Scroll for Armor for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cUses 3 available upgrade slots\r\nSuccess Rate: 60%\r\nDEX: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046523">
+		<string name="name" value="Azwan Scroll for Armor for DEX 50%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cUses 4 available upgrade slots\r\nSuccess Rate: 50%\r\nDEX: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046524">
+		<string name="name" value="Azwan Scroll for Armor for DEX 40%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cUses 5 available upgrade slots\r\nSuccess Rate: 40%\r\nDEX: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046525">
+		<string name="name" value="Azwan Scroll for Armor for INT 60%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cUses 3 available upgrade slots\r\nSuccess Rate: 60%\r\nINT: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046526">
+		<string name="name" value="Azwan Scroll for Armor for INT 50%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cUses 4 available upgrade slots\r\nSuccess Rate: 50%\r\nINT: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046527">
+		<string name="name" value="Azwan Scroll for Armor for INT 40%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cUses 5 available upgrade slots\r\nSuccess Rate: 40%\r\nINT: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046528">
+		<string name="name" value="Azwan Scroll for Armor for LUK 60%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cUses 3 available upgrade slots\r\nSuccess Rate: 60%\r\nLUK: +6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046529">
+		<string name="name" value="Azwan Scroll for Armor for LUK 50%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cUses 4 available upgrade slots\r\nSuccess Rate: 50%\r\nLUK: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046530">
+		<string name="name" value="Azwan Scroll for Armor for LUK 40%"/>
+		<string name="desc" value="Improves Luck on armors."/>
+		<string name="autodesc" value="\r\n#cUses 5 available upgrade slots\r\nSuccess Rate: 40%\r\nLUK: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046531">
+		<string name="name" value="Scroll for Armor for STR 100%"/>
+		<string name="desc" value="Improves Strength on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSTR: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046532">
+		<string name="name" value="Scroll for Armor for INT 100%"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nINT: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046533">
+		<string name="name" value="Scroll for Armor for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +1\r\n#"/>
+	</imgdir>
+</imgdir>

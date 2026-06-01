@@ -1,0 +1,5 @@
+<imgdir name="13121005">
+        <string name="name" value="Sharp Eyes" />
+        <string name="desc" value="Allows party members to spot the weak points on enemies and do critical damage." />
+        <string name="h" value="MP Cost: #mpCon, Critical Rate: +#x%, Max Critical Damage: +#y%, Duration: #time sec" />
+    </imgdir>

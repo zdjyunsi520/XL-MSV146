@@ -1,0 +1,270 @@
+<imgdir name="MonsterBook.img">
+    <imgdir name="reward">
+			<int name="0" value="4000105"/>
+			<int name="1" value="4131005"/>
+			<int name="2" value="4010001"/>
+			<int name="3" value="4004003"/>
+			<int name="4" value="4020005"/>
+			<int name="5" value="2040302"/>
+			<int name="6" value="1032018"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="2022057"/>
+			<int name="10" value="2049000"/>
+			<int name="11" value="4007001"/>
+			<int name="12" value="4007006"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2022003"/>
+			<int name="16" value="1072145"/>
+			<int name="17" value="2044010"/>
+			<int name="18" value="2049401"/>
+			<int name="19" value="1472019"/>
+		</imgdir>
+    <imgdir name="3230305">
+		<string name="episode" value="等级 :  39\\n形态 : 附魔\\n\\n在孩子们中很受欢迎的玩具士兵。它骑着马四处奔跑，产生冲击力，在碰撞时可造成严重伤害。它的诞生是为了娱乐孩子们，但自从空间裂缝出现以来，它因鲁莽的行动造成了更多事故，伤害了人们。"/>
+		<imgdir name="map">
+			<int name="0" value="220010000"/>
+			<int name="1" value="220011000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000110"/>
+			<int name="1" value="4000003"/>
+			<int name="2" value="4000018"/>
+			<int name="3" value="4130008"/>
+			<int name="4" value="4020003"/>
+			<int name="5" value="4004001"/>
+			<int name="6" value="1032002"/>
+			<int name="7" value="2022054"/>
+			<int name="8" value="2022055"/>
+			<int name="9" value="2022057"/>
+			<int name="10" value="4007002"/>
+			<int name="11" value="4007005"/>
+			<int name="12" value="4001431"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2000002"/>
+			<int name="16" value="1082086"/>
+			<int name="17" value="2040901"/>
+			<int name="18" value="2049301"/>
+			<int name="19" value="1302011"/>
+		</imgdir>
+    <imgdir name="3230306">
+		<imgdir name="map">
+			<int name="0" value="220040100"/>
+			<int name="1" value="220040300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000115"/>
+			<int name="1" value="2002006"/>
+			<int name="2" value="4010006"/>
+			<int name="3" value="4004002"/>
+			<int name="4" value="4010001"/>
+			<int name="5" value="2043702"/>
+			<int name="6" value="4006000"/>
+			<int name="7" value="4130022"/>
+			<int name="8" value="4007000"/>
+			<int name="9" value="4007005"/>
+			<int name="10" value="4130000"/>
+			<int name="11" value="4130010"/>
+			<int name="12" value="4130019"/>
+			<int name="13" value="2022355"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2001002"/>
+			<int name="16" value="1051054"/>
+			<int name="17" value="2043301"/>
+			<int name="18" value="2049401"/>
+			<int name="19" value="1332022"/>
+		</imgdir>
+    <imgdir name="3230307">
+		<string name="episode" value="等级 :  31\\n形态 : 鸟\\n\\n一种以戴着头盔和护目镜的鸟的形态出现的怪物。它骚扰来埃奥斯塔参观的冒险者。有人说它是Omega Sector某人的逃跑宠物，但没有人知道Chirppy实际上属于谁。"/>
+		<imgdir name="map">
+			<int name="0" value="221022300"/>
+			<int name="1" value="221022400"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000123"/>
+			<int name="1" value="4130014"/>
+			<int name="2" value="4004001"/>
+			<int name="3" value="4020008"/>
+			<int name="4" value="4010001"/>
+			<int name="5" value="4003004"/>
+			<int name="6" value="4000003"/>
+			<int name="7" value="2022053"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="4007001"/>
+			<int name="11" value="4007005"/>
+			<int name="12" value="4280004"/>
+			<int name="13" value="4001473"/>
+			<int name="14" value="2022003"/>
+			<int name="15" value="1092014"/>
+			<int name="16" value="2044312"/>
+			<int name="17" value="2049301"/>
+			<int name="18" value="1472019"/>
+		</imgdir>
+    <imgdir name="3230308">
+		<string name="episode" value="等级 :  39\\n形态 : 鸟\\n\\n一种以戴着头盔和护目镜的鸟的形态出现的怪物。它骚扰来埃奥斯塔参观的冒险者。粉色的鸟妈妈Tweeter由于冲动个性容易贸然攻击，但不擅长防御。"/>
+		<imgdir name="map">
+			<int name="0" value="221020800"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000116"/>
+			<int name="1" value="2002008"/>
+			<int name="2" value="4020008"/>
+			<int name="3" value="4004002"/>
+			<int name="4" value="4020001"/>
+			<int name="5" value="4130005"/>
+			<int name="6" value="4003005"/>
+			<int name="7" value="4000003"/>
+			<int name="8" value="2022054"/>
+			<int name="9" value="2022055"/>
+			<int name="10" value="2022057"/>
+			<int name="11" value="4007000"/>
+			<int name="12" value="4007006"/>
+			<int name="13" value="4280004"/>
+			<int name="14" value="4001473"/>
+			<int name="15" value="2001002"/>
+			<int name="16" value="1072148"/>
+			<int name="17" value="2048000"/>
+			<int name="18" value="2049301"/>
+			<int name="19" value="1342004"/>
+		</imgdir>
+    <imgdir name="3230400">
+		<string name="episode" value="等级 :  31\\n形态 : 附魔\\n\\n在埃奥斯塔周围区域发现的怪物。即使没有电池，也会不懈地敲打挂在肩上的进行鼓。这个怪物的电池显然早已耗尽了。"/>
+		<imgdir name="map">
+			<int name="0" value="221021700"/>
+			<int name="1" value="221021800"/>
+			<int name="2" value="221021900"/>
+			<int name="3" value="221022000"/>
+			<int name="4" value="221022100"/>
+			<int name="5" value="221023401"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000127"/>
+			<int name="1" value="4010001"/>
+			<int name="2" value="4020007"/>
+			<int name="3" value="4006001"/>
+			<int name="4" value="4130012"/>
+			<int name="5" value="4130013"/>
+			<int name="6" value="4004004"/>
+			<int name="7" value="1302013"/>
+			<int name="8" value="2022053"/>
+			<int name="9" value="2022054"/>
+			<int name="10" value="2022055"/>
+			<int name="11" value="2044414"/>
+			<int name="12" value="4007002"/>
+			<int name="13" value="4007004"/>
+			<int name="14" value="4001431"/>
+			<int name="15" value="4280004"/>
+			<int name="16" value="4001473"/>
+			<int name="17" value="2000002"/>
+			<int name="18" value="1050058"/>
+			<int name="19" value="2041001"/>
+			<int name="20" value="2049401"/>
+			<int name="21" value="1472018"/>
+		</imgdir>
+    <imgdir name="3230405">
+		<string name="episode" value="等级 :  38\\n形态 : 哺乳动物\\n特殊特性 : -50% 火属性伤害。\\n\\n性别尚未确定的小海豹怪物。它们在冒险者中很受欢迎，水路上的冒险者都喜欢它们闪亮的眼睛和小小的鳍。它们现在可能是可爱的海豹宝宝，但成熟后会变成冰冻者和电击者。"/>
+		<imgdir name="map">
+			<int name="0" value="230010000"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4000154"/>
+			<int name="1" value="4131005"/>
+			<int name="2" value="4010001"/>
+			<int name="3" value="4010000"/>
+			<int name="4" value="4020002"/>
+			<int name="5" value="2040302"/>
+			<int name="6" value="2022054"/>
+			<int name="7" value="2022055"/>
+			<int name="8" value="2022057"/>
+			<int name="9" value="4007005"/>
+			<int name="10" value="4007007"/>
+			<int name="11" value="4280004"/>
+			<int name="12" value="4001473"/>
+			<int name="13" value="2060000"/>
+			<int name="14" value="1082059"/>
+			<int name="15" value="2040421"/>
+			<int name="16" value="2049401"/>
+			<int name="17" value="1472029"/>
+		</imgdir>
+    <imgdir name="3300000">
+		<imgdir name="map">
+			<int name="0" value="106020100"/>
+			<int name="1" value="106020200"/>
+			<int name="2" value="106020300"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4010005"/>
+			<int name="1" value="4020000"/>
+			<int name="2" value="4130005"/>
+			<int name="3" value="4130009"/>
+			<int name="4" value="4130021"/>
+			<int name="5" value="4000499"/>
+			<int name="6" value="2043216"/>
+			<int name="7" value="2043311"/>
+			<int name="8" value="4001473"/>
+			<int name="9" value="2061000"/>
+			<int name="10" value="1040059"/>
+			<int name="11" value="2040400"/>
+			<int name="12" value="2049301"/>
+			<int name="13" value="1422006"/>
+		</imgdir>
+    <imgdir name="3300001">
+		<imgdir name="map">
+			<int name="0" value="106020100"/>
+			<int name="1" value="106020200"/>
+			<int name="2" value="106020300"/>
+			<int name="3" value="106020400"/>
+			<int name="4" value="106020401"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4010005"/>
+			<int name="1" value="4020000"/>
+			<int name="2" value="4010007"/>
+			<int name="3" value="4130005"/>
+			<int name="4" value="4130009"/>
+			<int name="5" value="4130021"/>
+			<int name="6" value="4000500"/>
+			<int name="7" value="4000507"/>
+			<int name="8" value="2044024"/>
+			<int name="9" value="2044116"/>
+			<int name="10" value="4001431"/>
+			<int name="11" value="4001473"/>
+			<int name="12" value="2060000"/>
+			<int name="13" value="1051009"/>
+			<int name="14" value="2048001"/>
+			<int name="15" value="2049301"/>
+			<int name="16" value="1332011"/>
+		</imgdir>
+    <imgdir name="3300002">
+		<imgdir name="map">
+			<int name="0" value="106020401"/>
+			<int name="1" value="106020402"/>
+		</imgdir>
+    <imgdir name="reward">
+			<int name="0" value="4131003"/>
+			<int name="1" value="4010001"/>
+			<int name="2" value="4020000"/>
+			<int name="3" value="4004001"/>
+			<int name="4" value="1002013"/>
+			<int name="5" value="4000501"/>
+			<int name="6" value="2044216"/>
+			<int name="7" value="2044316"/>
+			<int name="8" value="4001473"/>
+			<int name="9" value="2000003"/>
+			<int name="10" value="1051027"/>
+			<int name="11" value="2044312"/>
+			<int name="12" value="2049401"/>
+			<int name="13" value="1492005"/>
+		</imgdir>
+    <imgdir name="3300003">
+		<imgdir name="map">
+			<int name="0" value="106020700"/>
+			<int name="1" value="106020800"/>
+			<int name="2" value="106021000"/>
+			<int name="3" value="106021001"/>
+			<int name="4" value="106021100"/>
+		</imgdir>
+</imgdir>

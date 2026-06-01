@@ -1,0 +1,5 @@
+<imgdir name="4100011">
+        <string name="name" value="暗杀印记" />
+        <string name="desc" value="使用此技能攻击时有几率在敌人身上留下暗杀印记。下次攻击被标记的敌人时，会在该敌人身上形成飞星攻击附近其他敌人~" />
+        <string name="h" value="攻击时以#prop%几率留下印记。再次攻击将产生#bulletCount个飞星，造成#damage% + 玩家等级的#x%伤害。" />
+    </imgdir>

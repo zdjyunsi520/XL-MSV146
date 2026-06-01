@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8890000">
+		<string name="name" value="黑魔法师的手下A"/>
+	</imgdir>
+    <imgdir name="8890001">
+		<string name="name" value="黑魔法师的手下A"/>
+	</imgdir>
+    <imgdir name="8890002">
+		<string name="name" value="黑魔法师的手下B"/>
+	</imgdir>
+    <imgdir name="9001015">
+		<string name="name" value="暗影双刀"/>
+	</imgdir>
+    <imgdir name="9001016">
+		<string name="name" value="巨型暗影刃"/>
+	</imgdir>
+    <imgdir name="9001017">
+		<string name="name" value="暗影刃领主"/>
+	</imgdir>
+    <imgdir name="9001018">
+		<string name="name" value="巨型刀大师"/>
+	</imgdir>
+    <imgdir name="9001019">
+		<string name="name" value="密室守护玩偶"/>
+	</imgdir>
+    <imgdir name="9001020">
+		<string name="name" value="稻草训练人偶"/>
+	</imgdir>
+    <imgdir name="9001021">
+		<string name="name" value="木制训练人偶"/>
+	</imgdir>
+    <imgdir name="9001022">
+		<string name="name" value="训练罐"/>
+	</imgdir>
+    <imgdir name="9001023">
+		<string name="name" value="训练桔梗花"/>
+	</imgdir>
+    <imgdir name="9001024">
+		<string name="name" value="原始盗贼野猪"/>
+	</imgdir>
+    <imgdir name="9001025">
+		<string name="name" value="健太的冰箱"/>
+	</imgdir>
+    <imgdir name="9001026">
+		<string name="name" value="健太的塞鲁夫"/>
+	</imgdir>
+    <imgdir name="9001027">
+		<string name="name" value="腐朽苦力僵尸"/>
+	</imgdir>
+    <imgdir name="9001028">
+		<string name="name" value="秘密大师灵魂泰迪"/>
+	</imgdir>
+    <imgdir name="9001029">
+		<string name="name" value="船长"/>
+	</imgdir>
+    <imgdir name="9001030">
+		<string name="name" value="克鲁船长"/>
+	</imgdir>
+    <imgdir name="9001031">
+		<string name="name" value="席勒"/>
+	</imgdir>
+</imgdir>

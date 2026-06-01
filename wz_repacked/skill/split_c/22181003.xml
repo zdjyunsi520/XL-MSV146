@@ -1,0 +1,5 @@
+<imgdir name="22181003">
+        <string name="name" value="灵魂之石" />
+        <string name="desc" value="施展持有灵魂的增益。被持有灵魂的角色死亡时会立即在原地复活。此增益随机施加给队员。[冷却时间：6分钟]" />
+        <string name="h" value="MP消耗：#mpCon，灵魂之石增益施加给#y名队员，持续#time 秒，以#x% HP复活" />
+    </imgdir>

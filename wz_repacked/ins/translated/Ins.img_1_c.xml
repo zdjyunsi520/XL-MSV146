@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010001">
+		<string name="name" value="天蓝色木椅"/>
+		<string name="desc" value="一把特别制作的天蓝色木椅，仅在丽娜港有售。每10秒恢复35 HP。"/>
+	</imgdir>
+    <imgdir name="3010002">
+		<string name="name" value="绿色椅子"/>
+		<string name="desc" value="一把舒适的绒毛绿色椅子，带有扶手。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010003">
+		<string name="name" value="红色椅子"/>
+		<string name="desc" value="一把舒适的绒毛红色椅子，带有扶手。。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010004">
+		<string name="name" value="黄色休闲椅"/>
+		<string name="desc" value="坐在椅子上休息恢复精力，每10秒恢复50 HP。非常适合训练中短暂休息。"/>
+	</imgdir>
+    <imgdir name="3010005">
+		<string name="name" value="红色休闲椅"/>
+		<string name="desc" value="坐在椅子上休息恢复精力，每10秒恢复50 HP。非常适合训练中短暂休息。"/>
+	</imgdir>
+    <imgdir name="3010006">
+		<string name="name" value="黄色椅子"/>
+		<string name="desc" value="一把舒适的绒毛黄色椅子，带有扶手。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010007">
+		<string name="name" value="粉色海豹坐垫"/>
+		<string name="desc" value="一个可爱的粉色坐垫，看起来像海豹。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010008">
+		<string name="name" value="蓝色海豹坐垫"/>
+		<string name="desc" value="一个可爱的蓝色坐垫，看起来像海豹。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010009">
+		<string name="name" value="红色圆椅"/>
+		<string name="desc" value="据说是阿莫利亚特制的椅子，也被称为爱之椅。每10秒恢复20 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010010">
+		<string name="name" value="白色海豹坐垫"/>
+		<string name="desc" value="一个可爱的白色坐垫，看起来像海豹。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010011">
+		<string name="name" value="阿莫利亚休闲椅"/>
+		<string name="desc" value="由雅各布制作的椅子。每10秒恢复75 HP。\n#c不可交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010012">
+		<string name="name" value="战士王座"/>
+		<string name="desc" value="战场上常用的强力椅子。每10秒恢复60 HP。\n#c不可交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010013">
+		<string name="name" value="沙滩椅"/>
+		<string name="desc" value="来自弗洛里纳海滩放松专家的椅子。每10秒恢复20 HP。"/>
+	</imgdir>
+    <imgdir name="3010014">
+		<string name="name" value="星辰椅"/>
+		<string name="desc" value="一把轻盈时尚的椅子，仿佛来自天堂。每10秒恢复30 HP和30 MP。"/>
+	</imgdir>
+    <imgdir name="3010015">
+		<string name="name" value="红色休闲椅"/>
+		<string name="desc" value="在魔法密林制作的具有魔法属性的椅子。坐在上面每10秒恢复35 MP。"/>
+	</imgdir>
+    <imgdir name="3010016">
+		<string name="name" value="灰色海豹坐垫"/>
+		<string name="desc" value="一个可爱的灰色坐垫，看起来像海豹。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010017">
+		<string name="name" value="金色海豹坐垫"/>
+		<string name="desc" value="一个可爱的金色坐垫，看起来像海豹。每10秒恢复60 MP。"/>
+	</imgdir>
+    <imgdir name="3010018">
+		<string name="name" value="棕榈树沙滩椅"/>
+		<string name="desc" value="在艾利安椰子树下遮阴处的沙滩椅。坐在上面每10秒恢复40 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010019">
+		<string name="name" value="门松"/>
+		<string name="desc" value="仅在蘑菇神社有售的特别椅子。每10秒恢复60 MP。"/>
+	</imgdir>
+    <imgdir name="3010021">
+		<string name="name" value="木桶"/>
+		<string name="desc" value="在这个宽敞的木桶里泡澡放松，每10秒恢复40 HP和20 MP。"/>
+	</imgdir>
+</imgdir>

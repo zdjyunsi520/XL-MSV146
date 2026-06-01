@@ -1,0 +1,7 @@
+<imgdir name="22161003">
+        <string name="name" value="Recovery Aura" />
+        <string name="desc" value="Creates a recovery aura around you for a short time. The HP and MP of all party members within the aura will be continuously restored." />
+        <string name="h" value="HP Cost: #hpCon, MP Cost: #mpCon, #x%HP &amp; MP restored every #time sec\nCooldown: 1 min" />
+        <string name="pdesc" value="Creates a recovery aura around you for a set period. The MP of all party members inside the aura will be continuously restored." />
+        <string name="ph" value="HP Cost: #hpCon, MP Cost: #mpCon, #x%HP &amp; MP restored every #time sec\nCooldown: 1 min" />
+    </imgdir>

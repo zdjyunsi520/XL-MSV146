@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="丛林空地"/>
+			</imgdir>
+    <imgdir name="103050300">
+			<imgdir name="0">
+				<string name="Title" value="秘密花园1楼"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="培训中心/杂货店/武器店"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="培训中心1"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="培训中心2"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="培训中心3"/>
+			</imgdir>
+    <imgdir name="271000300">
+			<imgdir name="0">
+				<string name="Title" value="通往骑士团要塞"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="通往赫内西"/>
+			</imgdir>
+    <imgdir name="273020000">
+			<imgdir name="0">
+				<string name="Title" value="炽热峡谷"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="黄昏佩里昂"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="荒凉岩石路"/>
+			</imgdir>
+    <imgdir name="273020300">
+			<imgdir name="0">
+				<string name="Title" value="孤独岩石路"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="暴风雨坟墓"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="被遗弃的挖掘现场1"/>
+			</imgdir>
+    <imgdir name="273040000">
+			<imgdir name="0">
+				<string name="Title" value="风化岩石区域"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="部落难民营地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="被遗弃的挖掘现场2"/>
+			</imgdir>
+    <imgdir name="300000100">
+			<imgdir name="0">
+				<string name="Title" value="鲁陀里乌姆:时间控制室"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="阿尔泰尔营地"/>
+			</imgdir>
+    <imgdir name="910001000">
+			<imgdir name="0">
+				<string name="Title" value="炼金书"/>
+				<string name="Desc" value="在炼金书附近可以使用炼金术合成道具。"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431505">
+		<string name="name" value="Low Rider Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Low Rider] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431506">
+		<string name="name" value="Leonardo the Lion 30 Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Leonardo] mount skill for #c30 days#."/>
+	</imgdir>
+    <imgdir name="2431507">
+		<string name="name" value="Mysterious Chaos Box Package"/>
+		<string name="desc" value="Contains a mysterious amount of Chaos Boxes! #cDouble-click# to receive 3 to 10 Chaos Boxes."/>
+	</imgdir>
+    <imgdir name="2431525">
+		<string name="name" value="Hephaestus Gift Box"/>
+		<string name="desc" value="A gift for challengers of the blacksmith god Hephaestus in reaching 13 star enhancements. Double-click to receive a Lv. 150 Tyrant equipment item."/>
+	</imgdir>
+    <imgdir name="2431526">
+		<string name="name" value="Hephaestus Gift Box"/>
+		<string name="desc" value="A gift for challengers of the blacksmith god Hephaestus in reaching 13 star enhancements. Double-click to receive a Lv. 150 Tyrant equipment item."/>
+	</imgdir>
+    <imgdir name="2431554">
+		<string name="desc" value="A memory fragment made by fusing Slumbering Fragments."/>
+		<string name="name" value="Piece of Memory"/>
+	</imgdir>
+    <imgdir name="2001552">
+		<string name="desc" value="A well-baked pie with golden crust filled with delicious ripe apples. Restores 10,000 HP."/>
+		<string name="name" value="Apple Pie"/>
+	</imgdir>
+    <imgdir name="2001553">
+		<string name="desc" value="Making fairies sad is easy, collecting their tiny tears is the hard part. Recovers 10,000 MP."/>
+		<string name="name" value="Fairy Tears"/>
+	</imgdir>
+    <imgdir name="2001554">
+		<string name="desc" value="A bottle of dew that somehow managed to avoid drying out by evening. Recovers 5000 MP."/>
+		<string name="name" value="Sunset Dew"/>
+	</imgdir>
+    <imgdir name="2028182">
+		<string name="desc" value="Contains a Level 80 Warrior weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 80 Warrior Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028183">
+		<string name="desc" value="Contains a Level 80 Magician weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 80 Magician Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028184">
+		<string name="desc" value="Contains a Level 80 Bowman weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 80 Bowman Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028185">
+		<string name="desc" value="Contains a Level 80 Thief weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 80 Thief Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028186">
+		<string name="desc" value="Contains a Level 80 Pirate weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 80 Pirate Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028187">
+		<string name="desc" value="Contains a Level 100 Warrior weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 100 Warrior Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028188">
+		<string name="desc" value="Contains a Level 100 Magician weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 100 Magician Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028189">
+		<string name="desc" value="Contains a Level 100 Bowman weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 100 Bowman Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028190">
+		<string name="desc" value="Contains a Level 100 Thief weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 100 Thief Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028191">
+		<string name="desc" value="Contains a Level 100 Pirate weapon.\r\n#cDouble-click to open.#"/>
+		<string name="name" value="Monster Life Lv. 100 Pirate Weapon Box"/>
+	</imgdir>
+    <imgdir name="2028179">
+		<string name="desc" value="Contains Jewel Craft items. #cDouble-click# to see what's inside."/>
+		<string name="name" value="Jewel Crafting Kit"/>
+	</imgdir>
+</imgdir>

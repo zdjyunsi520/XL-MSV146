@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290874">
+		<string name="name" value="神射手神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本神射手职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290875">
+		<string name="name" value="箭神神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本箭神职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290876">
+		<string name="name" value="暗影双刀神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本暗影双刀职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290877">
+		<string name="name" value="夜行者神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本夜行者职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290878">
+		<string name="name" value="刀客神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本刀客职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290879">
+		<string name="name" value="冲锋队长神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本冲锋队长职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290880">
+		<string name="name" value="船长神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本船长职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290881">
+		<string name="name" value="大副神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本大副职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290882">
+		<string name="name" value="战神神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本战神职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290883">
+		<string name="name" value="龙魔导士神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本龙魔导士职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290884">
+		<string name="name" value="Mercedes神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本Mercedes职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290885">
+		<string name="name" value="恶魔猎手神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本恶魔猎手职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290886">
+		<string name="name" value="战斗法师神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本战斗法师职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290887">
+		<string name="name" value="猎人神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本猎人职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290888">
+		<string name="name" value="机械师神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本机械师职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290889">
+		<string name="name" value="幻影神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本幻影职业的能手册。"/>
+	</imgdir>
+    <imgdir name="2290890">
+		<string name="name" value="夜光神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本夜光职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290891">
+		<string name="name" value="凯撒神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本凯撒职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290892">
+		<string name="name" value="天使破坏者神秘能手册"/>
+		<string name="desc" value="双击使用后随机获得一本天使破坏者职业的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2290893">
+		<string name="name" value="[能手册]神秘能手册"/>
+		<string name="desc" value="使用后随机变成一本技能能手册。"/>
+	</imgdir>
+</imgdir>

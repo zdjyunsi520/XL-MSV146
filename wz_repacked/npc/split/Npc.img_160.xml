@@ -1,0 +1,73 @@
+<imgdir name="Npc.img">
+    <imgdir name="1514006">
+		<string name="name" value="Young Dachi"/>
+	</imgdir>
+    <imgdir name="1514007">
+		<string name="name" value="Possibly-Evil Seal"/>
+	</imgdir>
+    <imgdir name="1514008">
+		<string name="name" value="Possibly-Evil Walrus"/>
+	</imgdir>
+    <imgdir name="1514009">
+		<string name="name" value="Putan"/>
+	</imgdir>
+    <imgdir name="1102201">
+		<string name="name" value="10 Boogies"/>
+		<string name="n0" value="Wait... where's the rest of my report?"/>
+		<string name="n1" value="Somebody needs to help me out right this second."/>
+		<string name="d0" value="Yeesh, how's a girl supposed to have fun with all this work?!"/>
+		<string name="d1" value="I know tons about Perion now. Super tons."/>
+	</imgdir>
+    <imgdir name="1102203">
+		<string name="name" value="Ereve Investigation Permit"/>
+		<string name="d0" value="(This must be the documents 10 Boogies dropped.)"/>
+		<string name="d1" value="(This must be the documents 10 Boogies dropped.)"/>
+	</imgdir>
+    <imgdir name="2159434">
+		<string name="name" value="Shabby Payphone"/>
+		<string name="n0" value="Brrzztt--brrzzt"/>
+		<string name="d0" value="Brrzztt--brrzzt"/>
+	</imgdir>
+    <imgdir name="3001032">
+		<string name="name" value="Tyrant's Throne Entrance"/>
+	</imgdir>
+    <imgdir name="2042010">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="If you wanna see something special, come on down to the Monster Carnival!"/>
+		<string name="n1" value="Show your friends who's the toughest at the Monster Carnival!"/>
+	</imgdir>
+    <imgdir name="2135000">
+		<string name="name" value="Battle Statue"/>
+	</imgdir>
+    <imgdir name="2135001">
+		<string name="name" value="Battle Statue"/>
+	</imgdir>
+    <imgdir name="2135002">
+		<string name="name" value="Master Warrior"/>
+	</imgdir>
+    <imgdir name="2135003">
+		<string name="name" value="Master Mage"/>
+	</imgdir>
+    <imgdir name="2135004">
+		<string name="name" value="Master Bowman"/>
+	</imgdir>
+    <imgdir name="2135005">
+		<string name="name" value="Master Thief"/>
+	</imgdir>
+    <imgdir name="2135006">
+		<string name="name" value="Master Pirate"/>
+	</imgdir>
+    <imgdir name="2135007">
+		<string name="name" value="Red Nirg's Rune"/>
+	</imgdir>
+    <imgdir name="2135008">
+		<string name="name" value="Margana's Rune"/>
+	</imgdir>
+    <imgdir name="2135009">
+		<string name="name" value="Rellik's Rune"/>
+	</imgdir>
+    <imgdir name="2135010">
+		<string name="name" value="Hsalf's Rune"/>
+	</imgdir>
+</imgdir>

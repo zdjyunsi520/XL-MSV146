@@ -1,0 +1,5 @@
+<imgdir name="31201009">
+        <string name="name" value="超越：恶魔打击" />
+        <string name="desc" value="向前冲锋并斩穿敌人！\r\n#c超越#：逐渐提升伤害并减少HP。最终阶段时攻击范围会增加。" />
+        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,9 @@
+<imgdir name="100001274">
+        <string name="name" value="时间静止" />
+        <string name="desc" value="释放时间洪流，重置技能冷却时间，使你进入无敌状态，获得无限HP和时间之力。" />
+        <string name="h" value="时间之力消耗: #forceCon, 无敌持续#time秒，重置所有零技能的冷却时间 \n#c冷却时间: #cooltime秒#" />
+        <imgdir name="lock">
+            <string name="name" value="???" />
+            <string name="desc" value="此技能在Lv.120时解锁。" />
+        </imgdir>
+    </imgdir>

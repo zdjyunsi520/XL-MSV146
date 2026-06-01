@@ -1,0 +1,184 @@
+<imgdir name="Map.img">
+    <imgdir name="HalloweenGL">
+			<imgdir name="682000000">
+				<string name="streetName" value="幽灵森林"/>
+				<string name="mapName" value="鬼屋"/>
+			</imgdir>
+			<imgdir name="682000001">
+				<string name="streetName" value="幽灵森林"/>
+				<string name="mapName" value="荒芜之地"/>
+			</imgdir>
+			<imgdir name="682000100">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="大厅"/>
+			</imgdir>
+			<imgdir name="682000200">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="幽灵烟囱"/>
+			</imgdir>
+			<imgdir name="682000300">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="走廊"/>
+			</imgdir>
+			<imgdir name="682000301">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="索菲莉亚卧室"/>
+			</imgdir>
+			<imgdir name="682000302">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="梳妆间"/>
+			</imgdir>
+			<imgdir name="682000303">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="书房"/>
+			</imgdir>
+			<imgdir name="682000304">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="钢琴室"/>
+			</imgdir>
+			<imgdir name="682000305">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="玩具房"/>
+			</imgdir>
+			<imgdir name="682000306">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="荒芜之室"/>
+			</imgdir>
+			<imgdir name="682000400">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="走廊 - 我在哪？"/>
+			</imgdir>
+			<imgdir name="682000401">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="索菲莉亚卧室"/>
+			</imgdir>
+			<imgdir name="682000402">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="梳妆间"/>
+			</imgdir>
+			<imgdir name="682000403">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="书房"/>
+			</imgdir>
+			<imgdir name="682000404">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="钢琴室"/>
+			</imgdir>
+			<imgdir name="682000405">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="玩具房"/>
+			</imgdir>
+			<imgdir name="682000406">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="荒芜之室"/>
+			</imgdir>
+			<imgdir name="682000500">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="走廊 - 你在哪？"/>
+			</imgdir>
+			<imgdir name="682000501">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="索菲莉亚卧室"/>
+			</imgdir>
+			<imgdir name="682000502">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="梳妆间"/>
+			</imgdir>
+			<imgdir name="682000503">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="书房"/>
+			</imgdir>
+			<imgdir name="682000504">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="钢琴室"/>
+			</imgdir>
+			<imgdir name="682000505">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="玩具房"/>
+			</imgdir>
+			<imgdir name="682000506">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="荒芜之室"/>
+			</imgdir>
+			<imgdir name="682000600">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="走廊 - 又来了？"/>
+			</imgdir>
+			<imgdir name="682000601">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="索菲莉亚卧室"/>
+			</imgdir>
+			<imgdir name="682000602">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="梳妆间"/>
+			</imgdir>
+			<imgdir name="682000603">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="书房"/>
+			</imgdir>
+			<imgdir name="682000604">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="钢琴室"/>
+			</imgdir>
+			<imgdir name="682000605">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="玩具房"/>
+			</imgdir>
+			<imgdir name="682000606">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="荒芜之室"/>
+			</imgdir>
+			<imgdir name="682000700">
+				<string name="streetName" value="隐藏街道"/>
+				<string name="mapName" value="南瓜金库"/>
+			</imgdir>
+			<imgdir name="682000800">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="图书馆"/>
+			</imgdir>
+			<imgdir name="682000900">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="玩具工坊"/>
+			</imgdir>
+			<imgdir name="682010000">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="宅邸隐藏走廊1"/>
+			</imgdir>
+			<imgdir name="682010100">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="奥利维亚密室1"/>
+			</imgdir>
+			<imgdir name="682010001">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="宅邸隐藏走廊2"/>
+			</imgdir>
+			<imgdir name="682010101">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="奥利维亚密室2"/>
+			</imgdir>
+			<imgdir name="682010002">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="宅邸隐藏走廊3"/>
+			</imgdir>
+			<imgdir name="682010102">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="奥利维亚密室3"/>
+			</imgdir>
+			<imgdir name="682010200">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="宅邸主烟囱"/>
+			</imgdir>
+			<imgdir name="682010201">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="骷髅附身的烟囱"/>
+			</imgdir>
+			<imgdir name="682010202">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="稻草人附身的烟囱"/>
+			</imgdir>
+			<imgdir name="682010203">
+				<string name="streetName" value="鬼屋"/>
+				<string name="mapName" value="小丑附身的烟囱"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

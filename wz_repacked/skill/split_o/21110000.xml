@@ -1,0 +1,7 @@
+<imgdir name="21110000">
+        <string name="name" value="Advanced Combo Ability" />
+        <string name="desc" value="Status Ailment Resistance Rate, Stance Rate, Crit Rate, and Max Crit Damage is increased. For every 10 combo counts Status Ailment Resistance Rate, Stance Rate, Crit Rate, Attack is additionally increased.\nRequired : #cCombo Ability Lv. 10#" />
+        <string name="h" value="Status Ailment Resistance: #asrR%, Stance: #u%, Crit Rate: #cr%, Max Crit Damage increased by #criticaldamageMax%, Additional Increase For every 10 Combo count - Status Ailment Resistance : #w%, Stance #q%, Crit Rate #y%, Attack: #s, Total increase: #x" />
+        <string name="pdesc" value="Status Ailment Resistance Rate, Stance Rate, Crit Rate, and Max Crit Damage is increased. For every 10 combo counts Status Ailment Resistance Rate, Stance Rate, Crit Rate, Attack is additionally increased.\nRequired : #cCombo Ability Lv. 10#" />
+        <string name="ph" value="Status Ailment Resistance: #asrR%, Stance: #u%, Crit Rate: #cr%, Max Crit Damage increased by #criticaldamageMax%, Additional Increase For every 10 Combo count - Status Ailment Resistance : #w%, Stance #q%, Crit Rate #y%, Attack: #s, Total increase: #x" />
+    </imgdir>

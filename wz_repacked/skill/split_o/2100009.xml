@@ -1,0 +1,5 @@
+<imgdir name="2100009">
+        <string name="name" value="Elemental Drain" />
+        <string name="desc" value="Increases total damage based on the number of nearby enemies that are hit with your #cdamage over time effects#." />
+        <string name="h" value="#cFor each Damage Over Time#, Total Damage: +#x%. Applied up to #y." />
+    </imgdir>

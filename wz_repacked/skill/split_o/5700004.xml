@@ -1,0 +1,7 @@
+<imgdir name="5700004">
+        <string name="name" value="Triple Fire" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 3" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 3" />
+        <string name="desc" value="Increases the potency and the number of bullets fired when using Double Shot.\nRequired Skill: #cDouble Shot Lv. 10#" />
+        <string name="pdesc" value="Increases the potency and the number of bullets fired when using Double Shot.\nRequired Skill: #cDouble Shot Lv. 10#" />
+    </imgdir>

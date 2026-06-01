@@ -1,0 +1,8 @@
+<imgdir name="1221009">
+        <string name="name" value="Blast" />
+        <string name="desc" value="Inflicts massive damage on a single target. #cIf all the Elemental Charges are charged, you will receive a powerful effect# temporarily." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount.\nWhen all the Elemental Charges are charged: Critical Rate #cr% for #time sec, DEF Ignored: #ignoreMobpdpR%, Total Damage: +#damR%" />
+        <string name="pdesc" value="Inflicts massive damage on a single target. #cIf all the Elemental Charges are charged, you will receive a powerful effect# temporarily." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount.\nWhen all the Elemental Charges are charged: Critical Rate #cr% for #time sec, DEF Ignored: #ignoreMobpdpR%, Total Damage: +#damR%" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount.\nWhen all the Elemental Charges are charged: Critical Rate #cr% for #time sec, DEF Ignored: #ignoreMobpdpR%, Total Damage: +#damR%" />
+    </imgdir>

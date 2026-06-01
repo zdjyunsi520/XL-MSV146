@@ -1,0 +1,5 @@
+<imgdir name="41120010">
+        <string name="name" value="反击" />
+        <string name="desc" value="从拔刀术宗师传承的秘技。有概率格挡敌人的攻击并予以还击。" />
+        <string name="h" value="反击概率：#prop%，\n反击伤害：#damage% " />
+    </imgdir>

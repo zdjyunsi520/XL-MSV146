@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022276">
+		<string name="name" value="巧克力威化饼"/>
+		<string name="desc" value="层层叠着巧克力奶油脆的威化饼。\n物理攻击+40，持续3分钟。"/>
+	</imgdir>
+    <imgdir name="2022277">
+		<string name="name" value="防晒霜"/>
+		<string name="desc" value="SPF 1000。能阻挡所有有害射线，包括魔法的。\n魔法防御+200，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022278">
+		<string name="name" value="一块煤"/>
+		<string name="desc" value="恢复1 HP和1 MP。"/>
+	</imgdir>
+    <imgdir name="2022279">
+		<string name="name" value="雪蛋糕块"/>
+		<string name="desc" value="由雪白生奶油和樱桃组成的蛋糕块。恢复300 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022280">
+		<string name="name" value="风雪"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022281">
+		<string name="name" value="中国鞭炮"/>
+		<string name="desc" value="一串据说能吓跑恶鬼的中国鞭炮。"/>
+	</imgdir>
+    <imgdir name="2022282">
+		<string name="name" value="纳瑞坎的恶魔精华素"/>
+		<string name="desc" value="一种烈性的黑色液体，饮用后给予用户千军万马的力量。[物理攻击+140，持续8分钟]"/>
+	</imgdir>
+    <imgdir name="2022283">
+		<string name="name" value="苏巴尼的神秘坩埚"/>
+		<string name="desc" value="喝下这个小型铁锅里旋转的蓝色液体，让用户充满散发防护光环的能量。[总防御+100、魔法攻击+200，持续10分钟]"/>
+	</imgdir>
+    <imgdir name="2022284">
+		<string name="name" value="路障助推器"/>
+		<string name="desc" value="John Barricade的特殊配方，用于让他摆脱困境。紧急使用！[回避率+50、命中+50、跳跃+10，持续5分钟]"/>
+	</imgdir>
+    <imgdir name="2022285">
+		<string name="name" value="甜蜜之心"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022296">
+		<string name="name" value="力量呐喊"/>
+		<string name="desc" value="来自冒险岛管理员的力量呐喊。物理攻击+8、魔法攻击+12，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022302">
+		<string name="name" value="派对熊"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022305">
+		<string name="name" value="塔鲁脸彩"/>
+		<string name="desc" value="这种神秘伪装让用户能够融入周围环境。[回避率+100，持续5分钟。]"/>
+	</imgdir>
+    <imgdir name="2022306">
+		<string name="name" value="原始酿造"/>
+		<string name="desc" value="根据古老的塔鲁萨满配方混合而成。赋予战士丛林之灵的原初力量。[物理攻击+35、命中+10，持续20分钟。]"/>
+	</imgdir>
+    <imgdir name="2022307">
+		<string name="name" value="灵魂草药"/>
+		<string name="desc" value="古老塔鲁萨满用于与丛林之灵交流仪式的特殊香。[魔法攻击+90，持续20分钟。]"/>
+	</imgdir>
+    <imgdir name="2022308">
+		<string name="name" value="丛林果汁"/>
+		<string name="desc" value="用丛林水果、花朵、树根和藤蔓的秘密配方制成的美味天然饮料。是让塔鲁勇士完成漫长丛林跋涉的完美燃料！[恢复1000 HP和2000 MP。]"/>
+	</imgdir>
+    <imgdir name="2022309">
+		<string name="name" value="寻宝笔记"/>
+		<string name="desc" value="在冒险岛4周年期间遍布冒险世界的这张纸条，包含着当你找到它时会赢得的奖品。"/>
+	</imgdir>
+    <imgdir name="2022310">
+		<string name="name" value="巧克力奶油纸杯蛋糕"/>
+		<string name="desc" value="美味的巧克力纸杯蛋糕，内有香草奶油馅。一口，你就会上瘾！[恢复300 HP和MP，命中+30、速度+30、跳跃+30，持续3分钟。]"/>
+	</imgdir>
+    <imgdir name="2022311">
+		<string name="name" value="大奶油泡芙"/>
+		<string name="desc" value="一种稀有的美味甜点。被称为\"战士的甜点\"，对另一些人来说是\"发胖的美味\"。[物理攻击+30，持续3分钟。]"/>
+	</imgdir>
+    <imgdir name="2022323">
+		<string name="name" value="装有渔获的渔网"/>
+		<string name="desc" value="渔网似乎捕到了什么东西。让我们双击查看里面的东西。"/>
+	</imgdir>
+</imgdir>

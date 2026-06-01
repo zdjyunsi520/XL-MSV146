@@ -1,0 +1,7 @@
+<imgdir name="35121006">
+        <string name="name" value="卫星护卫" />
+        <string name="desc" value="永久提升卫星攻击伤害。当你受到致命一击时，卫星可以吸收部分伤害来减轻你受到的伤害。之后卫星会消失，技能进入冷却。\n按技能键#c开启/关闭#。\n前置技能：#c卫星 Lv. 10#" />
+        <string name="h" value="卫星攻击伤害：+#damR%\n当你受到超过最大HP#x%的伤害时触发，吸收受到伤害的#y%，冷却时间：#cooltime秒" />
+        <string name="pdesc" value="当你受到致命一击时，卫星可以吸收部分伤害来减轻你受到的伤害。之后卫星会消失，技能进入冷却。\n按技能键#c开启/关闭#。\n前置技能：#c卫星 Lv. 10#" />
+        <string name="ph" value="吸收超过最大HP#x%的伤害中的#y%\n#c冷却时间：#cooltime秒#" />
+    </imgdir>

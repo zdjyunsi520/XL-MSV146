@@ -1,0 +1,7 @@
+<imgdir name="15101005">
+        <string name="name" value="能量爆发" />
+        <string name="desc" value="释放能量球一次攻击多个怪物。只有在#c能量充满#时才能使用此技能。\n需要技能：#c能量蓄积 Lv. 1#" />
+        <string name="h" value="伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount" />
+        <string name="pdesc" value="释放能量球一次攻击多个怪物。只有在#c能量充满#时才能使用此技能。\n需要技能：#c能量蓄积 Lv. 1#" />
+        <string name="ph" value="伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount" />
+    </imgdir>

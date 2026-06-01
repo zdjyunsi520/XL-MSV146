@@ -1,0 +1,5 @@
+<imgdir name="15121052">
+        <string name="name" value="Deep Rising" />
+        <string name="desc" value="Summons the great sea god, damaging enemies on land." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

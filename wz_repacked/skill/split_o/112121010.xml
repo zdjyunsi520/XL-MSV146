@@ -1,0 +1,5 @@
+<imgdir name="112121010">
+        <string name="name" value="Meow Cure" />
+        <string name="desc" value="Removes Abnormal Status and Magic Effects of nearby party members." />
+        <string name="h" value="MP Cost: #mpCon, Chance to nullify magic effects and remove abnormal status: #prop%, Cooldown: #cooltime sec" />
+    </imgdir>

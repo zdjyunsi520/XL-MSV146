@@ -1,0 +1,5 @@
+<imgdir name="65111007">
+        <string name="name" value="Soul Seeker" />
+        <string name="desc" value="Extracts the essence of Eskalade&apos;s power and sends it flying at enemies. Deals damage continuously until it disappears." />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Respawn Essence That Attacks Same Target: #prop% " />
+    </imgdir>

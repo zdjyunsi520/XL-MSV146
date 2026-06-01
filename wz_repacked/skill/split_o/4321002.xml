@@ -1,0 +1,8 @@
+<imgdir name="4321002">
+        <string name="name" value="Flashbang" />
+        <string name="desc" value="Throws a flashbang to temporarily blind multiple monsters, with a chance to decrease Accuracy. Also works on boss monsters at half the duration." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Blind Chance: #prop%, Accuracy: -#x% for #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Throws a flashbang to temporarily blind multiple monsters, with a chance to decrease Accuracy." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Blind Chance: #prop%, Accuracy: -#x% for #time sec, Cooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Blind Chance: #prop%, Accuracy: -#x%, Duration: #hcTime sec, Cooldown: #cooltime sec" />
+    </imgdir>

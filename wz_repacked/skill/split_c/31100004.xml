@@ -1,0 +1,5 @@
+<imgdir name="31100004">
+        <string name="name" value="武器精通" />
+        <string name="desc" value="提升单手钝器和斧头类武器的熟练度和命中率。" />
+        <string name="h" value="单手钝器和斧头熟练度：+#mastery%，命中率：+#accX" />
+    </imgdir>

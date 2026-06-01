@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046964">
+		<string name="name" value="Unleashed Scroll for One-Handed Weapon for ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +5\r\nINT: +5\r\nDEX: +5\r\nLUK: +5\r\nWeapon Attack +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046965">
+		<string name="name" value="Unleashed Scroll for One-Handed Weapon for Magic ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +5\r\nINT: +5\r\nDEX: +5\r\nLUK: +5\r\nMagic Attack +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047000">
+		<string name="name" value="Tablet for One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047001">
+		<string name="name" value="Tablet for One-Handed Weapon for Accuracy"/>
+		<string name="desc" value="Improves Accuracy on One-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon Attack: +2\r\nAccuracy: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047002">
+		<string name="name" value="Tablet for One-Handed Weapon for Magic Attack"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047003">
+		<string name="name" value="Tablet for Explorer's One-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Weapon Attack and Magic Attack on One-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +3\r\nMagic Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047100">
+		<string name="name" value="Tablet for Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Weapon Attack on Two-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047101">
+		<string name="name" value="Tablet for Two-Handed Weapon for Accuracy "/>
+		<string name="desc" value="Improves Accuracy on Two-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon Attack: +2\r\nAccuracy: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047102">
+		<string name="name" value="Tablet for Two-Handed Weapon for Magic Attack"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047103">
+		<string name="name" value="Tablet for Explorer's Two-Handed Weapon for ATT"/>
+		<string name="desc" value="Improves Weapon Attack and Magic Attack on Two-Handed weapons with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +3\r\nMagic Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047200">
+		<string name="name" value="Tablet for Armor for STR"/>
+		<string name="desc" value="Improves Strength on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047201">
+		<string name="name" value="Tablet for Armor for INT"/>
+		<string name="desc" value="Improves Intelligence on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047202">
+		<string name="name" value="Tablet for Armor for DEX"/>
+		<string name="desc" value="Improves Dexterity on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047203">
+		<string name="name" value="Tablet for Armor for LUK"/>
+		<string name="desc" value="Improves Luck on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047204">
+		<string name="name" value="Tablet for Armor for Diligence"/>
+		<string name="desc" value="Improves Diligence on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDiligence: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2047205">
+		<string name="name" value="Tablet for Armor for HP"/>
+		<string name="desc" value="Improves Max HP on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMax HP: +80\r\n#"/>
+	</imgdir>
+    <imgdir name="2047206">
+		<string name="name" value="Tablet for Armor for MP"/>
+		<string name="desc" value="Improves Max MP on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMax MP: +80\r\n#"/>
+	</imgdir>
+    <imgdir name="2047207">
+		<string name="name" value="Tablet for Armor for DEF"/>
+		<string name="desc" value="Improves Defense on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon Defense: +50\r\nMagic Defense: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047208">
+		<string name="name" value="Tablet for Armor for Accuracy"/>
+		<string name="desc" value="Improves Accuracy on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nAccuracy: +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047209">
+		<string name="name" value="Tablet for Explorer's Armor for DEF"/>
+		<string name="desc" value="Improves All Stats and Defense on Armors with Durability."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Defense +30\r\nMagic Defense: +30\r\n#"/>
+	</imgdir>
+</imgdir>

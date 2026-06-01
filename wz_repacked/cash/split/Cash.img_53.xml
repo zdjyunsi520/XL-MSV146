@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5530434">
+		<string name="name" value="Happy Time Gift Box"/>
+		<string name="desc" value="Double-click to receive a #csurprising gift#!"/>
+	</imgdir>
+    <imgdir name="5530435">
+		<string name="name" value="Happy Time Gift Box"/>
+		<string name="desc" value="Double-click to receive a #csurprising gift#!"/>
+	</imgdir>
+    <imgdir name="5530436">
+		<string name="name" value="Happy Time Gift Box"/>
+		<string name="desc" value="Double-click to receive a #csurprising gift#!"/>
+	</imgdir>
+    <imgdir name="5530439">
+		<string name="name" value="Golden Hammer 50% Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive a #cGolden Hammer 50%#."/>
+	</imgdir>
+    <imgdir name="5530440">
+		<string name="name" value="Surprising 8-Slot Expander Box Coupon"/>
+		<string name="desc" value="Use this voucher to get one Surprising 8-Slot Expander Box, which gives you a coupon to increase the capacity of your Equip, Use, Set-up, or Etc inventory tab. The gift box will be available for use until TKTKTK.  "/>
+	</imgdir>
+    <imgdir name="5530441">
+		<string name="name" value="Surprising Growth Crystal Coupon"/>
+		<string name="desc" value="Use this voucher to get a small crystal that immediately grants you a random amount of extra EXP. \n#cThe Mysterious Growth Blessing item acquired through the coupon can be used until TKTKTK and level capped users will not see any effects.#"/>
+	</imgdir>
+    <imgdir name="5530442">
+		<string name="name" value="Premium Scroll for Pet Equip for Weapon ATT 100%"/>
+		<string name="desc" value="Adds Weapon ATT to pet equipment, premium-style. \r\n#cSuccess rate: 100%#, #cWeapon ATT +4 to +5#. \r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab.# \r\n#cCannot be used with a Lucky Day Scroll.#"/>
+	</imgdir>
+    <imgdir name="5530443">
+		<string name="name" value="Premium Scroll for Pet Equip for Magic ATT 100%"/>
+		<string name="desc" value="Adds Magic ATT to pet equipment, premium-style. \r\n#cSuccess rate: 100%#, #cMagic ATT +4 to +5#. \r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab.# \r\n#cCannot be used with a Lucky Day Scroll.#"/>
+	</imgdir>
+    <imgdir name="5530444">
+		<string name="name" value="Sweet Sugar Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Sweet Sugar Chair, and about a hundred cavities. Recovers 100 HP and MP every 10 seconds.\n#cThis chair moves with the sitter due to its bottom-hugging construction.#"/>
+	</imgdir>
+    <imgdir name="5530445">
+		<string name="name" value="10 Power Elixirs"/>
+		<string name="desc" value="Double-click to receive 10 Power Elixirs."/>
+	</imgdir>
+    <imgdir name="5530446">
+		<string name="name" value="50 Power Elixirs"/>
+		<string name="desc" value="Double-click to receive 50 Power Elixirs."/>
+	</imgdir>
+    <imgdir name="5530447">
+		<string name="name" value="100 Power Elixirs"/>
+		<string name="desc" value="Double-click to receive 100 Power Elixirs."/>
+	</imgdir>
+    <imgdir name="5530448">
+		<string name="name" value="300 Power Elixirs"/>
+		<string name="desc" value="Double-click to receive 300 Power Elixirs."/>
+	</imgdir>
+    <imgdir name="5530455">
+		<string name="name" value="Scroll for Armor for Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon ATT on Armor. #cSuccess rate: 100%#, #cWeapon ATT +2#. \r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab. Item can be destroyed upon failure.#"/>
+	</imgdir>
+    <imgdir name="5530456">
+		<string name="name" value="Scroll for Armor for Magic ATT 100%"/>
+		<string name="desc" value="Scroll for Armor Magic ATT 100% improves Magic ATT on Armor. #cSuccess rate: 100%#, #cMagic ATT +2#. \r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab. Item can be destroyed upon failure.#"/>
+	</imgdir>
+    <imgdir name="5530457">
+		<string name="name" value="Premium Scroll for Accessory for Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon ATT on Accessories. #cSuccess rate: 100%#, #cWeapon ATT +4 to +5.#\r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab.# \r\n#cCannot be used with a Lucky Day Scroll.#"/>
+	</imgdir>
+    <imgdir name="5530458">
+		<string name="name" value="Premium Scroll for Accessory for Magic ATT 100%"/>
+		<string name="desc" value="Improves Magic ATT on Accessories. #cSuccess rate: 100%#, #cMagic ATT +4 to +5.#\r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab.# \r\n#cCannot be used with a Lucky Day Scroll.#"/>
+	</imgdir>
+    <imgdir name="5530459">
+		<string name="name" value="Cryptic Chest Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Cryptic Chest. Open the chest with a Cryptic Stone to acquire one amazing item."/>
+	</imgdir>
+    <imgdir name="5530460">
+		<string name="name" value="[Mastery Book] Beam Dance 20 Coupon"/>
+		<string name="desc" value="Double-click to exchange for [Mastery Book] Beam Dance 20."/>
+	</imgdir>
+    <imgdir name="5530461">
+		<string name="name" value="[Mastery Book] Beam Dance 30 Coupon"/>
+		<string name="desc" value="Double-click to exchange for [Mastery Book] Beam Dance 30."/>
+	</imgdir>
+</imgdir>

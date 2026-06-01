@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431705">
+		<string name="name" value="8th Anniversary Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to celebrate 8th Anniversary.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431706">
+		<string name="name" value="8th Anniversary Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to celebrate 8th Anniversary.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2431707">
+		<string name="name" value="8th Anniversary Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to celebrate 8th Anniversary.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2291020">
+		<string name="name" value="Kanna's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Kanna when double-clicked."/>
+	</imgdir>
+    <imgdir name="2291021">
+		<string name="name" value="Hayato's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Hayato when double-clicked."/>
+	</imgdir>
+    <imgdir name="2431708">
+		<string name="name" value="8th Anniversary weapon box"/>
+		<string name="desc" value="Contains Lv. 99 8th Anniversary weapon."/>
+	</imgdir>
+    <imgdir name="2431713">
+		<string name="name" value="Blue Dragon Adventure Pack"/>
+		<string name="desc" value="A box for new users to celebrate 8th Anniversary.\n#cDouble-click to see what's inside.#"/>
+	</imgdir>
+    <imgdir name="2046400">
+		<string name="name" value="Speed Connection Cell"/>
+		<string name="desc" value="Can be purchased with OSSS Medals. Increase Speed +1 on Bing Machine-Alpha Equipment and Visitor Equipment.."/>
+	</imgdir>
+    <imgdir name="2046401">
+		<string name="name" value="Jump Connection Cell"/>
+		<string name="desc" value="Can be purchased with OSSS Medals. Increases Jump +1 on Bing Machine-Alpha Equipment and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046402">
+		<string name="name" value="Avoidability Connection Cell"/>
+		<string name="desc" value="Can be purchased with OSSS Medals. Increases Avoidability +1 on Bing Machine-Alpha Equipment and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046403">
+		<string name="name" value="Accuracy Connection Cell"/>
+		<string name="desc" value="Can be purchased with OSSS Medals. Increases Accuracy +1 on Bing Machine-Alpha Equipment and Visitor Equipment."/>
+	</imgdir>
+    <imgdir name="2046404">
+		<string name="name" value="Secret Scroll for Mu Gong's Belt"/>
+		<string name="desc" value="Improves all stats on Mu Gong's Belts."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2431473">
+		<string name="desc" value="#cDouble-click# to gain a permanent #cPink Bean Balloon Mount#, which can use the High Altitude Flight skill in towns."/>
+		<string name="name" value="Permanent Pink Bean Balloon Mount Coupon"/>
+	</imgdir>
+    <imgdir name="2431474">
+		<string name="desc" value="#cDouble-click# to gain a permanent #cBlack Bean Balloon Mount#, which can use the High Altitude Flight skill in towns."/>
+		<string name="name" value="Permanent Black Bean Balloon Mount Coupon"/>
+	</imgdir>
+    <imgdir name="2431476">
+		<string name="name" value="Glowing Ghost's Bundle"/>
+		<string name="desc" value="A bundle full of the Glowing Ghost's stolen items. It usually contains shoes, but who knows what that thing picked up?! #c Double-click# to see what's inside."/>
+	</imgdir>
+    <imgdir name="2431477">
+		<string name="name" value="Valentine's Card"/>
+		<string name="desc" value="A Valentine's day card. What do you think it says? Maybe a confession of love? It's hard being so popular."/>
+	</imgdir>
+    <imgdir name="2431478">
+		<string name="name" value="Valentine's Card"/>
+		<string name="desc" value="A Valentine's day card. What do you think it says? Maybe a confession of love? It's hard being so popular."/>
+	</imgdir>
+    <imgdir name="2431479">
+		<string name="name" value="Valentine's Card"/>
+		<string name="desc" value="A Valentine's day card. What do you think it says? Maybe a confession of love? It's hard being so popular."/>
+	</imgdir>
+    <imgdir name="2431469">
+		<string name="desc" value="This box contains something precious to either Pink Bean or Black Bean. Not sure what though. Nobody bothered to look inside before it was packed.\r\n#cDouble-click to see what's inside.#"/>
+		<string name="name" value="Bean-Related Box"/>
+	</imgdir>
+    <imgdir name="2431470">
+		<string name="desc" value="Good for one free Monster Box in Monster Life! #cDouble-click to use#."/>
+		<string name="name" value="[Monster Life] Monster Voucher"/>
+	</imgdir>
+</imgdir>

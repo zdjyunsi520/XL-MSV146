@@ -1,0 +1,8 @@
+<imgdir name="23121004">
+        <string name="name" value="古代守护" />
+        <string name="desc" value="在一定时间内获得古代精灵的庇护，提升伤害和HP。此外，永久提升烈焰怒吼的回避率概率。\n前置技能：#c烈焰怒吼 Lv. 5#" />
+        <string name="h" value="主动效果：MP消耗：#mpCon，伤害：+#damR%，HP：+#emhp，持续时间：#time\n被动效果：烈焰怒吼回避率概率：+#prop%" />
+        <string name="pdesc" value="在一定时间内获得古代精灵的庇护，提升伤害和HP。此外，永久提升烈焰怒吼的回避率概率。\n前置技能：#c烈焰怒吼 Lv. 5#" />
+        <string name="ph" value="主动效果：MP消耗：#mpCon，伤害：+#damR%，HP：+#emhp，持续时间：#time\n被动效果：烈焰怒吼回避率概率：+#prop%" />
+        <string name="hch" value="主动效果 - MP消耗：#mpCon，伤害：+#damR%，HP：+#u，持续时间：#time秒\n被动效果：烈焰怒吼回避率概率：+#prop%" />
+    </imgdir>

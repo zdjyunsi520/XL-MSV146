@@ -1,0 +1,5 @@
+<imgdir name="13101023">
+        <string name="name" value="弓加速" />
+        <string name="desc" value="短时间内提升武器的攻击速度。需装备弓。\n前置技能：#c弓熟练度Lv. 5#" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒" />
+    </imgdir>

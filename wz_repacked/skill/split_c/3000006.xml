@@ -1,0 +1,7 @@
+<imgdir name="3000006">
+        <string name="name" value="自然平衡" />
+        <string name="pdesc" value="攻击时有几率恢复HP/MP。每次攻击恢复量不超过10%。" />
+        <string name="ph" value="Chance: #prop% per attack, HP/MP Recovery: #x% of damage dealt" />
+        <string name="desc" value="攻击时有几率恢复HP/MP。每次最多恢复10%。" />
+        <string name="h" value="Chance: #prop% per attack, HP/MP Recovery: #x% of damage dealt" />
+    </imgdir>

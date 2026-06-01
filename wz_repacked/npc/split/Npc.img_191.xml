@@ -1,0 +1,126 @@
+<imgdir name="Npc.img">
+    <imgdir name="2440007">
+		<string name="name" value="No Gong"/>
+		<string name="d0" value="Self-doubt is the most dangerous enemy of all trainees."/>
+		<string name="d1" value="Good job training. You have a long way to go."/>
+		<string name="n0" value="Let your body feel the flow of yin and yang."/>
+		<string name="n1" value="Do you want to learn how to achieve spiritual enlightenment?"/>
+	</imgdir>
+    <imgdir name="2440008">
+		<string name="name" value="Naran"/>
+		<string name="d0" value="I'm the fashionista of Mu Lung!"/>
+		<string name="d1" value="My style is nothing without my pretty face. I'm born pretty, so I'm sorry--I can't share my fashion tips."/>
+		<string name="n0" value="The HOT items for the next season are..."/>
+		<string name="n1" value="If you want to become pretty, just follow my tips."/>
+	</imgdir>
+    <imgdir name="2440009">
+		<string name="name" value="Mu Tan"/>
+		<string name="d0" value="D-do you have business with me?"/>
+		<string name="d1" value="I've decided to fast for a month as a way of repentance."/>
+	</imgdir>
+    <imgdir name="2440010">
+		<string name="name" value="Milo"/>
+		<string name="func" value="Knight"/>
+		<string name="d0" value="(Milo is kneeling on the ground.)"/>
+		<string name="d1" value="(Milo is kneeling on the ground.)"/>
+	</imgdir>
+    <imgdir name="2440011">
+		<string name="name" value="Mr. Ku"/>
+		<string name="d0" value="Tsk, tsk. Youngsters these days are not patient enough."/>
+		<string name="d1" value="Lan Ming and my daughter? Hell no, I won't approve of him!"/>
+		<string name="n0" value="My daughter Lilishu is the best in the world!"/>
+		<string name="n1" value="I can die happily, knowing Lilishu has grown into a great person."/>
+	</imgdir>
+    <imgdir name="2440012">
+		<string name="name" value="Mr. Gong"/>
+		<string name="d0" value="I'm busy! I've got so many orders to fulfill!"/>
+		<string name="d1" value="Nothing beats bellflower root juice for low energy levels."/>
+		<string name="n0" value="Mu Lung bellflower roots sell for a high price."/>
+		<string name="n1" value="Care for a cup of warm bellflower juice?"/>
+	</imgdir>
+    <imgdir name="2440013">
+		<string name="name" value="Crane"/>
+		<string name="n0" value="I epitomize elegance."/>
+		<string name="n1" value="Look at my long, slender legs and slick wings."/>
+	</imgdir>
+    <imgdir name="2440014">
+		<string name="name" value="Tae Sang"/>
+		<string name="d0" value="It costs a lot of money to run the Mu Lung Training Center."/>
+		<string name="d1" value="With this, peace is back in Mu Lung."/>
+		<string name="n0" value="Don't slack off on your training."/>
+		<string name="n1" value="It's not easy to become a Master."/>
+	</imgdir>
+    <imgdir name="2440015">
+		<string name="name" value="Lan Ming"/>
+		<string name="d0" value="I know better than anyone else that I'm not yet ready."/>
+		<string name="d1" value="I'm glad Lilishu didn't take after Mr. Ku, especially his face."/>
+		<string name="n0" value="She's the only reason I can't stop training."/>
+		<string name="n1" value="If I didn't have her, I..."/>
+	</imgdir>
+    <imgdir name="2440016">
+		<string name="name" value="Mr. Do"/>
+		<string name="func" value="Master of Pharmaceuticals"/>
+		<string name="d0" value="I think I've created something amazing."/>
+		<string name="d1" value="I couldn't get this result if it weren't for you. Thank you."/>
+		<string name="n0" value="I'm Do, Mu Lung's genius pharmacist."/>
+		<string name="n1" value="My potions can cure every disease, and create a thousand more!"/>
+	</imgdir>
+    <imgdir name="2440017">
+		<string name="name" value="No Gong"/>
+		<string name="func" value="Master Instructor"/>
+		<string name="d0" value="Self-doubt is the most dangerous enemy of all trainees. Besides poison spike traps."/>
+		<string name="d1" value="Good job training. You have a long way to go."/>
+		<string name="n0" value="You will become a true Master only when your mind and body achieve harmony."/>
+		<string name="n1" value="Come. You should join our training."/>
+	</imgdir>
+    <imgdir name="2440018">
+		<string name="name" value="Do Gong"/>
+		<string name="func" value="Master Instructor"/>
+		<string name="d0" value="I teach people to cultivate their minds, but even I haven't attained perfection."/>
+		<string name="d1" value="That takes a lot of effort."/>
+		<string name="n0" value="The only way to achieve spiritual enlightenment is to fill your mind with good morals and virtues."/>
+		<string name="n1" value="Life is transitory. As time passes, the world will change."/>
+	</imgdir>
+    <imgdir name="2440019">
+		<string name="name" value="Tae Soo"/>
+	</imgdir>
+    <imgdir name="2440020">
+		<string name="name" value="Kidnapped Wu Gong and Tae Soo."/>
+	</imgdir>
+    <imgdir name="2440021">
+		<string name="name" value="So Gong"/>
+		<string name="func" value="Guide"/>
+	</imgdir>
+    <imgdir name="2440022">
+		<string name="name" value="Mu Tan"/>
+	</imgdir>
+    <imgdir name="2450000">
+		<string name="name" value="Arsen"/>
+		<string name="d0" value="(This man is radiating a subtle energy, but there's no mistake that it's the power of time.)"/>
+		<string name="d1" value="(This man is radiating a subtle energy, but there's no mistake that it's the power of time.)"/>
+		<string name="n0" value="Hehehe..."/>
+		<string name="n1" value="Soon, I'll be free. Free!"/>
+	</imgdir>
+    <imgdir name="2450001">
+		<string name="name" value="Belle"/>
+		<string name="func" value="Officer"/>
+		<string name="d0" value="W-what seems to be the problem? Let me know if you want to report a crime."/>
+		<string name="d1" value="W-what seems to be the problem? Let me know if you want to report a crime."/>
+		<string name="n0" value="Excuse me, I'll have to inspect you."/>
+		<string name="n1" value="What can I do to serve the public?"/>
+	</imgdir>
+    <imgdir name="2450002">
+		<string name="name" value="Wonny"/>
+		<string name="d0" value="The leaders of the council are so busy fighting each other, they're neglecting their obligations! "/>
+		<string name="d1" value="The leaders of the council are so busy fighting each other, they're neglecting their obligations! "/>
+		<string name="n0" value="This town is pathetic."/>
+		<string name="n1" value="What I can do is..."/>
+	</imgdir>
+    <imgdir name="2450003">
+		<string name="name" value="Gabrielle"/>
+		<string name="d0" value="Watch out--the abductor is on his way, and he's out of his mind!"/>
+		<string name="d1" value="Watch out--the abductor is on his way, and he's out of his mind!"/>
+		<string name="n0" value="Watch out--the"/>
+		<string name="n1" value="abductor is on his way!"/>
+	</imgdir>
+</imgdir>

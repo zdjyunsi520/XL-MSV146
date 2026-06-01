@@ -1,0 +1,5 @@
+<imgdir name="31211004">
+        <string name="name" value="恶魔恢复" />
+        <string name="desc" value="短时间内快速恢复HP。还能持续恢复HP哦～" />
+        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, Max HP: +#indieMhpR%, Interval: #w sec, HP Restored at Interval: #x%" />
+    </imgdir>

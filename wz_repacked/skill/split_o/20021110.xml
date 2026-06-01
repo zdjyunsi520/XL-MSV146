@@ -1,0 +1,5 @@
+<imgdir name="20021110">
+        <string name="name" value="Elven Blessing" />
+        <string name="desc" value="[Job Specialty Skill] Allows you to return to Elluel, in addition to permanently receiving extra EXP through the blessings of the ancient Elves." />
+        <string name="h" value="Returns you to Elluel (Cooldown: #cooltime sec)\nAdditional Effect: Permanently receive #expR% additional EXP" />
+    </imgdir>

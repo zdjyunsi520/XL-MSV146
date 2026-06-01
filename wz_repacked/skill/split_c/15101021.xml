@@ -1,0 +1,5 @@
+<imgdir name="15101021">
+        <string name="name" value="潮汐冲击" />
+        <string name="desc" value="如海浪般冲向前方，将范围内的敌人一扫而空！可以与除雷电和自身技能以外的所有技能连接。" />
+        <string name="h" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，攻击次数：#attackCount，伤害：#damage%，击退敌人。" />
+    </imgdir>

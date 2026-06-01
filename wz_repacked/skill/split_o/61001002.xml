@@ -1,0 +1,5 @@
+<imgdir name="61001002">
+        <string name="name" value="Air Lift" />
+        <string name="desc" value="Leap once more in the air. Also permanently increases Speed." />
+        <string name="h" value="MP Cost: #mpCon, Set Jump Distance, Max Speed: +#speedMax, Speed: +#psdSpeed" />
+    </imgdir>

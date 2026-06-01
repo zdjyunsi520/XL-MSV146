@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20011063"><string name="name" value="红彩飞奔"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011064"><string name="name" value="动力战甲"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011065"><string name="name" value="OS4穿梭机"/><string name="desc" value="[最高等级：1]\n可以骑乘OS4穿梭机哦。"/><string name="h1" value="MP -10，物理/魔法攻击力 +10，移动速度 180，跳跃力 120"/></imgdir>
+    <imgdir name="20011066"><string name="name" value="外星人近战攻击"/><string name="desc" value="外星人近战攻击"/><string name="h1" value="外星人近战攻击"/></imgdir>
+    <imgdir name="20011067"><string name="name" value="外星人远程攻击"/><string name="desc" value="外星人远程攻击"/><string name="h1" value="外星人远程攻击"/></imgdir>
+    <imgdir name="20011069"><string name="name" value="猫头鹰"/><string name="desc" value="[最高等级：1]\n可以骑乘猫头鹰飞翔哦。"/><string name="h1" value="MP -10，物理/魔法攻击力 +10，移动速度 180，跳跃力 120"/></imgdir>
+    <imgdir name="20011070"><string name="name" value="母舰"/><string name="desc" value="[最高等级：1]\n驾驶母舰翱翔天际吧～"/><string name="h1" value="MP -10，物理/魔法攻击力 +10，移动速度 180，跳跃力 120"/></imgdir>
+    <imgdir name="20011071"><string name="name" value="OS3A机体"/><string name="desc" value="[最高等级：1]\n可以骑乘OS3A机体哦。"/><string name="h1" value="MP -10，物理/魔法攻击力 +10，移动速度 180，跳跃力 120"/></imgdir>
+    <imgdir name="20011072"><string name="name" value="莱昂纳多狮子"/><string name="desc" value="[最高等级：1]\n骑上威武的狮子莱昂纳多吧～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140，跳跃力：+120"/></imgdir>
+    <imgdir name="20011081"><string name="name" value="魔女扫帚"/><string name="desc" value="[最高等级：1]\n骑上魔女扫帚飞起来吧～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：120，跳跃力：+120"/></imgdir>
+    <imgdir name="20011084"><string name="name" value="蓝色滑板车"/><string name="desc" value="[最高等级：1]\n骑上蓝色滑板车兜风吧～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：120%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011085"><string name="name" value="大天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20011087"><string name="name" value="暗黑天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在暗黑天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20011089"><string name="name" value="圣诞雪橇"/><string name="desc" value="[最高等级：1]\n坐上圣诞雪橇出发吧，叮叮当～"/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011090"><string name="name" value="大天使"/><string name="desc" value="[最高等级：1]\n召唤被封印在天使祝福中的大天使。"/><string name="h1" value="MP消耗：100"/></imgdir>
+    <imgdir name="20011096"><string name="name" value="巨兔"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011098"><string name="name" value="冰之二段跳"/><string name="pdesc" value="在空中进行第二次跳跃。"/><string name="ph" value="MP消耗：0，额外跳跃距离\n冷却时间：#cooltime 秒"/></imgdir>
+    <imgdir name="20011101"><string name="name" value="小兔子"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011102"><string name="name" value="兔子人力车"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011105"><string name="name" value="冰骑士"/><string name="pdesc" value="你已变身为冰骑士。击败挑战者们，坚持到时间结束吧！"/><string name="ph" value="你已变身为冰骑士。击败挑战者们，坚持到时间结束吧！"/></imgdir>
+</imgdir>

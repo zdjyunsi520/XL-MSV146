@@ -1,0 +1,5 @@
+<imgdir name="70000019">
+        <string name="name" value="命中转MP" />
+        <string name="desc" value="按命中率的比例提升最大MP。" />
+        <string name="h" value="#acc2mp% of Accuracy added to Max MP" />
+    </imgdir>

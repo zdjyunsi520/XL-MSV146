@@ -1,0 +1,7 @@
+<imgdir name="1320006">
+        <string name="name" value="狂暴" />
+        <string name="desc" value="当HP降到一定值以下时，沉睡的灵魂觉醒，提升伤害、移动速度、暴击率和最低暴击伤害！" />
+        <string name="h" value="HP Threshold: #x%, Damage: +#damage%, Movement Speed: +#psdSpeed, Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+        <string name="pdesc" value="当HP降到一定值以下时，沉睡的灵魂觉醒，提升伤害、移动速度、暴击率和最低暴击伤害！" />
+        <string name="ph" value="Damage: +#damage%, Movement Speed: +#psdSpeed, Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

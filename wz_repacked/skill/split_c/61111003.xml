@@ -1,0 +1,5 @@
+<imgdir name="61111003">
+        <string name="name" value="诅咒之咬" />
+        <string name="desc" value="短时间内提升所有状态和属性抗性，并对有状态异常的怪物造成额外伤害！" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Status Resistance: +#asrR%, Resistance to All Elements: +#terR%, #u% chance to deal #w% extra damage #s times against monsters with status ailments." />
+    </imgdir>

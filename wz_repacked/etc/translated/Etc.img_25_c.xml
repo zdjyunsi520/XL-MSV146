@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000546">
+			<string name="name" value="银色黏液"/>
+			<string name="desc" value="银史莱姆的果冻。看起来相当重"/>
+		</imgdir>
+    <imgdir name="4000547">
+			<string name="name" value="金色黏液"/>
+			<string name="desc" value="金史莱姆的果冻。看起来很贵"/>
+		</imgdir>
+    <imgdir name="4000548">
+			<string name="name" value="霸王A型雷达装置"/>
+			<string name="desc" value="可探测10米半径内任何物体的雷达"/>
+		</imgdir>
+    <imgdir name="4000549">
+			<string name="name" value="霸王B型雷达装置"/>
+			<string name="desc" value="可探测30米半径内任何物体的雷达"/>
+		</imgdir>
+    <imgdir name="4000550">
+			<string name="name" value="罗比的电子感应装置"/>
+			<string name="desc" value="使用最近感应材料进行通信的装置"/>
+		</imgdir>
+    <imgdir name="4000551">
+			<string name="name" value="伊鲁瓦塔激光剑"/>
+			<string name="desc" value="伊鲁瓦塔的激光剑，可以用作武器"/>
+		</imgdir>
+    <imgdir name="4000552">
+			<string name="name" value="后领主锁链轮胎"/>
+			<string name="desc" value="看起来足够耐用，可以在野外机动"/>
+		</imgdir>
+    <imgdir name="4000553">
+			<string name="name" value="原型领主推进系统"/>
+			<string name="desc" value="该推进系统使用氮能量作为推进剂"/>
+		</imgdir>
+    <imgdir name="4000554">
+			<string name="name" value="独行侠A型组件"/>
+			<string name="desc" value="独行侠A型的组件，由于人体工程学设计而具有耐磨性"/>
+		</imgdir>
+    <imgdir name="4000555">
+			<string name="name" value="独行侠S型激光枪"/>
+			<string name="desc" value="高科技激光枪，消耗最少能量却能释放最大威力"/>
+		</imgdir>
+    <imgdir name="4000556">
+			<string name="name" value="独行侠D型推进器"/>
+			<string name="desc" value="提供临时飞行推力增加的推进器"/>
+		</imgdir>
+    <imgdir name="4000557">
+			<string name="name" value="帝国卫队真空管"/>
+			<string name="desc" value="使用气压维持至少5吨输出的真空管"/>
+		</imgdir>
+    <imgdir name="4000558">
+			<string name="name" value="皇家卫队盔甲"/>
+			<string name="desc" value="采用特殊合金以实现最大耐用性的特殊盔甲"/>
+		</imgdir>
+    <imgdir name="4000559">
+			<string name="name" value="白猴宝宝尾巴"/>
+			<string name="desc" value="白猴宝宝的尾巴"/>
+		</imgdir>
+    <imgdir name="4000560">
+			<string name="name" value="白猴妈妈的毛"/>
+			<string name="desc" value="白猴妈妈的毛"/>
+		</imgdir>
+    <imgdir name="4000561">
+			<string name="name" value="香蕉皮"/>
+			<string name="desc" value="滑溜溜的香蕉皮"/>
+		</imgdir>
+    <imgdir name="4000562">
+			<string name="name" value="猴宝宝的奶瓶"/>
+			<string name="desc" value="猴妈妈总是为她的猴宝宝随身携带的奶瓶"/>
+		</imgdir>
+    <imgdir name="4000563">
+			<string name="name" value="红哥布林斧头"/>
+			<string name="desc" value="红哥布林携带这把斧头来显得强悍"/>
+		</imgdir>
+    <imgdir name="4000564">
+			<string name="name" value="蓝哥布林皇冠"/>
+			<string name="desc" value="蓝哥布林戴这顶皇冠来显得高贵"/>
+		</imgdir>
+    <imgdir name="4000565">
+			<string name="name" value="石哥布林的红色内裤"/>
+			<string name="desc" value="石哥布林穿的红色内裤"/>
+		</imgdir>
+</imgdir>

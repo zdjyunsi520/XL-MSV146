@@ -1,0 +1,103 @@
+<imgdir name="Npc.img">
+    <imgdir name="2042006">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+	</imgdir>
+    <imgdir name="2042007">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+	</imgdir>
+    <imgdir name="2042008">
+		<string name="name" value="Assistant Red"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="All of you will exit this place as soon as you talk to me."/>
+	</imgdir>
+    <imgdir name="2042009">
+		<string name="name" value="Assistant Blue"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="All of you will exit this place as soon as you talk to me."/>
+	</imgdir>
+    <imgdir name="2043000">
+		<string name="name" value="Papulatus"/>
+		<string name="n0" value="The crack in our dimension... When will the experiment end?"/>
+		<string name="n1" value="If only I can warp time..."/>
+	</imgdir>
+    <imgdir name="2050000">
+		<string name="name" value="Dr. San"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="I have lots of weapons for you. Pick one!"/>
+		<string name="n1" value="It is so hard to find material for weapons in these days. There are just too many monsters."/>
+	</imgdir>
+    <imgdir name="2050001">
+		<string name="name" value="Dr. Kim"/>
+		<string name="n0" value="We need to get going soon, but where is everyone?"/>
+		<string name="n1" value="Hmm... You guys are not strong enough to fight against aliens yet..."/>
+		<string name="d0" value="Oh... The greatest masterpiece of all time, by me! With this blueprint, I can make the most indestructible robot ever!"/>
+		<string name="d1" value="Hmmm... The fuel's fine, the parts are fine... And, by debugging this critical error of the Alpha system... Huh? Can I help you? I'm busy developing new machines, so unless you need me for something, talk to someone else. I need to get back to work now."/>
+	</imgdir>
+    <imgdir name="2050002">
+		<string name="name" value="Alien Gray"/>
+		<string name="n0" value="I'm Gray, from outer space..."/>
+		<string name="n1" value="I want to be your friend."/>
+		<string name="d0" value="The Omega Sector is busy attacking innocent aliens again... How unfortunate..."/>
+		<string name="d1" value="Hahaha, you fool! We're already deciphering the critical document you gave me. The Omega Sector has been impossible to attack because of their tight security, but I'm sure we'll be done soon. I don't need you anymore, so get away from me!"/>
+	</imgdir>
+    <imgdir name="2050003">
+		<string name="name" value="Spacen"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="We have lots of excellent armor in Omega Sector."/>
+		<string name="n1" value="You must have good armor to fight against the aliens."/>
+	</imgdir>
+    <imgdir name="2050014">
+		<string name="name" value="Meteorite 1"/>
+	</imgdir>
+    <imgdir name="2050015">
+		<string name="name" value="Meteorite 2"/>
+	</imgdir>
+    <imgdir name="2050016">
+		<string name="name" value="Meteorite 3"/>
+	</imgdir>
+    <imgdir name="2050017">
+		<string name="name" value="Meteorite 4"/>
+	</imgdir>
+    <imgdir name="2050018">
+		<string name="name" value="Meteorite 5"/>
+	</imgdir>
+    <imgdir name="2050019">
+		<string name="name" value="Meteorite 6"/>
+	</imgdir>
+    <imgdir name="2050020">
+		<string name="name" value="Dropship"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2051000">
+		<string name="name" value="Dr. Pepper"/>
+		<string name="func" value="Pharmacist"/>
+		<string name="n0" value="I hope these potions can help you out here."/>
+		<string name="n1" value="My potions are excellent! Completely different from other potions!"/>
+	</imgdir>
+    <imgdir name="2051001">
+		<string name="name" value="Kay"/>
+		<string name="n0" value="The Omega Sector contains many important mechanical parts."/>
+		<string name="n1" value="My job is to maintain these machines."/>
+		<string name="d0" value="Hi! I'm the head engineer of the Omega Sector, #b#p2051001##k. I don't have a whole lot of work, but I'm really busy because I don't have any assistants."/>
+		<string name="d1" value="Thanks for investigating the transporter last time. I still have no idea what happened to the pilot, but at least we found a letter that he wrote, so that'll do for now. Hopefully he's out there somewhere safe and sound, just like he said it in the letter."/>
+	</imgdir>
+    <imgdir name="2060007">
+		<string name="name" value="Calypso"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="s0" value="I have some nice weapons. Come take a look!"/>
+		<string name="s1" value="I put a lot of effort into these weapons, and you'll see what I mean the moment you use them."/>
+	</imgdir>
+    <imgdir name="2060008">
+		<string name="name" value="Gerrard"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="s0" value="Do you need to place your items and mesos somewhere safe? Then come to me!"/>
+		<string name="s1" value="Our storage is the safest you can find in town! No need to worry one bit!"/>
+	</imgdir>
+</imgdir>

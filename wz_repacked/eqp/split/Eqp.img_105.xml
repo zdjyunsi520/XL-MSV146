@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1680086"><string name="name" value="Defiance-Bit D"/></imgdir>
+    <imgdir name="1680087"><string name="name" value="Defiance-Bit E"/></imgdir>
+    <imgdir name="1680088"><string name="name" value="Defiance-Bit F"/></imgdir>
+    <imgdir name="1680089"><string name="name" value="Defiance-Special Bit A"/></imgdir>
+    <imgdir name="1680090"><string name="name" value="Defiance-Special Bit B"/></imgdir>
+    <imgdir name="1680091"><string name="name" value="Defiance-Special Bit C"/></imgdir>
+    <imgdir name="1680092"><string name="name" value="Defiance-Special Bit D"/></imgdir>
+    <imgdir name="1680093"><string name="name" value="Defiance-Special Bit E"/></imgdir>
+    <imgdir name="1680094"><string name="name" value="Defiance-Special Bit F"/></imgdir>
+    <imgdir name="Android"><imgdir name="1662000"><string name="name" value="Android (M)"/><string name="desc" value="A basic male android. Must have a #cSilver Heart, Iron Heart, Adamantium Heart, or Gold Heart, New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662001"><string name="name" value="Android (F)"/><string name="desc" value="A basic female android. Must have a #cSilver Heart, Iron Heart, Adamantium Heart, or Gold Heart, New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662002"><string name="name" value="Deluxe Android (M)"/><string name="desc" value="A deluxe male android. Must have a #cSilver Heart, Iron Heart, Adamantium Heart, Gold Heart, Garnet Heart, Crystal Heart, orNew Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662003"><string name="name" value="Deluxe Android (F)"/><string name="desc" value="A deluxe female android. Must have a #cSilver Heart, Iron Heart, Adamantium Heart, Gold Heart, Garnet Heart, Crystal Heart, or New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662004"><string name="name" value="Snowdrop Android (M)"/><string name="desc" value="A male android distributed during the Snowdrop Event. #cSnowdrop Heart# must be equipped for it to operate."/></imgdir>
+    <imgdir name="1662005"><string name="name" value="Snowdrop Android (F)"/><string name="desc" value="A female android distributed during the Snowdrop Event. #cSnowdrop Heart# must be equipped for it to operate."/></imgdir>
+    <imgdir name="1662006"><string name="name" value="Princessoid"/><string name="desc" value="A fancy female android. Must have a #cBeaded Heart, Silver Heart, Iron Heart, Adamantium Heart, Gold Heart, Garnet Heart, Crystal Heart, or New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662007"><string name="name" value="Android (M)"/><string name="desc" value="A basic male android. Must have a #cBeaded Heart, Silver Heart, Iron Heart, Adamantium Heart, and Gold Heart, or New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662008"><string name="name" value="Android (F)"/><string name="desc" value="A basic female android. Must have a #cBeaded Heart, Silver Heart, Iron Heart, Adamantium Heart, Gold Heart, or New Gold Heart# equipped to operate."/></imgdir>
+    <imgdir name="1662009"><string name="name" value="Valentine Android (M)"/><string name="desc" value="A male android created in lieu of Valentine&apos;s Day. #cValentine Heart# must be equipped for it to operate."/></imgdir>
+    <imgdir name="1662010"><string name="name" value="Valentine Android (F)"/><string name="desc" value="A female android created in lieu of Valentine&apos;s Day. #cValentine Heart# must be equipped for it to operate."/></imgdir>
+</imgdir>

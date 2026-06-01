@@ -1,0 +1,5 @@
+<imgdir name="32120052">
+        <string name="name" value="横扫之杖" />
+        <string name="desc" value="召唤魔法之杖横扫一切坏家伙。" />
+        <string name="h" value="消耗MP：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#x，必须在终结之击后使用。" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="22181004">
+        <string name="name" value="玛瑙意志" />
+        <string name="desc" value="在一定时间内减少受到的一部分伤害，并在被攻击时抵抗击退。" />
+        <string name="h" value="MP消耗：#mpCon，伤害吸收：#x%，持续#time 秒，击退抵抗率：#prop%" />
+        <string name="pdesc" value="在一定时间内减少受到的一部分伤害，并在被攻击时抵抗击退。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害吸收：#x%，持续#time 秒，击退抵抗率：#prop%" />
+    </imgdir>

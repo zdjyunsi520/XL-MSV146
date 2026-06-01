@@ -1,0 +1,7 @@
+<imgdir name="5921006">
+        <string name="name" value="战舰" />
+        <string name="desc" value="登上你所指挥的强大海盗战舰。舰上技能受限。\n可用技能：战舰技能、手榴弹、枪械加速器、火焰喷射器、冰分化器、海鸥、章鱼、枫叶战士、英雄意志" />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#epad, MaxHP +#emhp, MaxMP +#emmp, Weapon DEF: +#epdd, Magic ATT: +#emdd" />
+        <string name="pdesc" value="登上你所指挥的强大海盗战舰。舰上技能受限。\n可用技能：战舰技能、手榴弹、枪械加速器、火焰喷射器、冰分化器、海鸥、章鱼、枫叶战士、英雄意志" />
+        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, MaxHP +#emhp, MaxMP +#emmp, Weapon DEF: +#epdd, Magic ATT: +#emdd" />
+    </imgdir>

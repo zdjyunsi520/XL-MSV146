@@ -1,0 +1,5 @@
+<imgdir name="101110202">
+        <string name="name" value="Rolling Assault" />
+        <string name="desc" value="Advances forward while spinning at high speed. Attacks knock back enemies in your path. [Skill Requirement]: #cRolling Cross Lv. #[Command]: While Rolling Cross is active use #cRolling Cross# again" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

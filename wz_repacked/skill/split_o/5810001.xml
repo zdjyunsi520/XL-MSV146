@@ -1,0 +1,7 @@
+<imgdir name="5810001">
+        <string name="name" value="Energy Charge" />
+        <string name="desc" value="A set amount of energy is charged after every attack. When the energy is fully charged, you have a chance to automatically trigger the effects of Body Attack and Stance. This allows you to use energy-related skills." />
+        <string name="h" value="Energy per Attack: #x energy, Accuracy: +#acc, Avoidability: +#eva, Weapon ATT: +#pad, Duration: #time sec, Body Attack Damage: #damage%, Knock-back Resistance Rate: #prop%" />
+        <string name="pdesc" value="A set amount of energy is charged after every attack. When the energy is fully charged, you have a chance to automatically trigger the effects of Body Attack and Stance. This allows you to use energy-related skills." />
+        <string name="ph" value="Energy per Attack: #x, Accuracy: +#acc, Avoidability: +#eva, Battle Mode ATT: +#PVPdamage, Duration: #time sec, Body Attack Damage: #damage%, Knock-back Resistance: #prop%" />
+    </imgdir>

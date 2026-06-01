@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049019">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 5%\r\nRestores 1 previously lost upgrade slot\r\n#"/>
+		<string name="desc" value="Restores previously lost upgrade slots. Cannot be used on cash items."/>
+		<string name="name" value="Clean Slate Scroll 5%"/>
+	</imgdir>
+    <imgdir name="2049024">
+		<string name="autodesc" value="#cSuccess Rate: 20%\r\nRestores 1 previously lost upgrade slot\r\n"/>
+		<string name="desc" value="Restores previously lost upgrade slots. Cannot be used on cash items."/>
+		<string name="name" value="Clean Slate Scroll 20%"/>
+	</imgdir>
+    <imgdir name="2049215">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nStrength: +3 to 5\r\n#"/>
+		<string name="desc" value="Improves Strength on accessories (Pendants, Belts, Rings)."/>
+		<string name="name" value="Scroll for Accessory for STR 70%"/>
+	</imgdir>
+    <imgdir name="2049216">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDexterity: +3 to 5\r\n#"/>
+		<string name="desc" value="Improves Dexterity on accessories (Pendants, Belts, Rings)."/>
+		<string name="name" value="Scroll for Accessory for DEX 70%"/>
+	</imgdir>
+    <imgdir name="2049217">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nIntelligence: +3 to 5\r\n#"/>
+		<string name="desc" value="Improves Intelligence on accessories (Pendants, Belts, Rings)."/>
+		<string name="name" value="Scroll for Accessory for INT 70%"/>
+	</imgdir>
+    <imgdir name="2049218">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLuck: +3 to 5\r\n#"/>
+		<string name="desc" value="Improves Luck on accessories (Pendants, Belts, Rings)."/>
+		<string name="name" value="Scroll for Accessory for LUK 70%"/>
+	</imgdir>
+    <imgdir name="2049300">
+		<string name="name" value="Advanced Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 100%\n2 successes: 90%\n3 successes: 80%\n4 successes: 70%\n5 successes: 60%\n6 successes: 50%\n7 successes: 40%\n8 successes: 30%\n9 successes: 20%\n10 successes: 10%\n11+ successes: 5% or lower"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049301">
+		<string name="name" value="Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 80%\n2 successes: 70%\n3 successes: 60%\n4 successes: 50%\n5 successes: 40%\n6 successes: 30%\n7 successes: 20%\n8 successes: 10%\n9+ successes: 5% or lower"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049303">
+		<string name="name" value="Advanced Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 100%\n2 successes: 90%\n3 successes: 80%\n4 successes: 70%\n5 successes: 60%\n6 successes: 50%\n7 successes: 40%\n8 successes: 30%\n9 successes: 20%\n10+ successes: 10%"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049306">
+		<string name="name" value="Advanced Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgradedequipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 100%\n2 successes: 90%\n3 successes: 80%\n4 successes: 70%\n5 successes: 60%\n6 successes: 50%\n7 successes: 40%\n8 successes: 30%\n9 successes: 20%\n10+ successes: 10%"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049307">
+		<string name="name" value="Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 80%\n2 successes: 70%\n3 successes: 60%\n4 successes: 50%\n5 successes: 40%\n6 successes: 30%\n7 successes: 20%\n8 successes: 10%\n9+ successes: 5% or lower"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049323">
+		<string name="name" value="Advanced Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nSubsequent successes increase the chance of a good enhancement.\nNo chance of Item being destroyed on failure.\n\n#c[Enhancement Success Rate]#\n1 success: 100%\n2 successes: 90%\n3 successes: 80%\n4 successes: 70%\n5 successes: 60%\n6 successes: 50%\n7 successes: 40%\n8 successes: 30%\n9 successes: 20%\n10 successes: 10%\n11+ successes: 5% or lower"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049325">
+		<string name="name" value="Advanced Equip Enhancement Scroll"/>
+		<string name="desc" value="Enhances #cupgraded equipment#.\nMore successes increase the chance of a good enhancement.\nThe item is destroyed upon failure.\n\n#c[Enhancement Success Rate]#\n1 success: 100%\n2 successes: 90%\n3 successes: 80%\n4 successes: 70%\n5 successes: 60%\n6 successes: 50%\n7 successes: 40%\n8 successes: 30%\n9 successes: 20%\n10 successes: 10%\n11+ successes: 5% or lower"/>
+		<string name="autodesc" value="\r\n#cEnhances equipment with no remaining upgrades.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049330">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nChance to destroy item on failure: 100%\r\nEnhances equipment with no remaining upgrades by 2 additional ranks.\r\n#"/>
+		<string name="desc" value="Enhances #cequipment that has been fully upgraded#. The higher the enhancement count, the higher the chance of applying better stats."/>
+		<string name="name" value="2 Star Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2049400">
+		<string name="name" value="Advanced Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equipment items without deducting from the available upgrade count.\n#cCan only be used on regular items.#\nSuccess Rate: 90%. Item destroyed on failure."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049401">
+		<string name="name" value="Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equipment items without deducting from the available upgrade count.\n#cCan only be used on regular items.#\nSuccess Rate: 70%. Item destroyed on failure."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049402">
+		<string name="name" value="Special Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equip items without deducting the available upgrade count.\n#cIt can only be used on regular items.#\nSuccess Rate: 100%."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049406">
+		<string name="name" value="Special Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equip items without deducting the available upgrade count.\n#cIt can only be used on regular items.#\nSuccess Rate: 100%."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049407">
+		<string name="name" value="Advanced Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equipment items without deducting from the available upgrade count.\n#cCan only be used on regular items.#\nSuccess Rate: 90%. Item destroyed on failure."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+    <imgdir name="2049408">
+		<string name="name" value="Potential Scroll"/>
+		<string name="desc" value="Provides potential for regular equipment items without deducting from the available upgrade count.\n#cCan only be used on regular items.#\nSuccess Rate: 70%. Item destroyed on failure."/>
+		<string name="autodesc" value="\r\n#cPotentials given to regular equipment.\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009143">
+			<string name="name" value="Broken Hilt (Black)"/>
+			<string name="desc" value="This hilt feels terrible and threatening, despite not having anything dangerous attached to it."/>
+		</imgdir>
+    <imgdir name="4009144">
+			<string name="name" value="Broken Shaft (Black)"/>
+			<string name="desc" value="It's just a chain and a shaft, but they radiate such a sense of dread..."/>
+		</imgdir>
+    <imgdir name="4009145">
+			<string name="name" value="Broken Bow (Black)"/>
+			<string name="desc" value="You can feel the agony of lost souls shot through with this ancient bow. Creepy."/>
+		</imgdir>
+    <imgdir name="4009146">
+			<string name="name" value="Broken Feather (Black)"/>
+			<string name="desc" value="A feather that weighs much more than it looks. It's also totally evil."/>
+		</imgdir>
+    <imgdir name="4009147">
+			<string name="name" value="Basic Magician's Cloth"/>
+			<string name="desc" value="Even cheap cloth like this is infused with magic. You can't throw a rock without hitting a magical artifact, it seems."/>
+		</imgdir>
+    <imgdir name="4009148">
+			<string name="name" value="Intermediate Magician's Cloth"/>
+			<string name="desc" value="This dark fabric radiates mysterious power. That makes sense, considering its intended use."/>
+		</imgdir>
+    <imgdir name="4009149">
+			<string name="name" value="Advanced Magician's Cloth"/>
+			<string name="desc" value="A piece of mysterious fabric surrounded by black energy. Guess evil magic is pretty popular these days."/>
+		</imgdir>
+    <imgdir name="4011008">
+			<string name="name" value="Lidium"/>
+			<string name="desc" value="Lidium ore is formed naturally beneath the sand. Used for crafting equipment, accessory, and alchemy items at Level 10 or above."/>
+		</imgdir>
+    <imgdir name="4021021">
+			<string name="name" value="Philosopher's Stone"/>
+			<string name="desc" value="This odd stone looks solid but shifts like a liquid. It's chock full of Alchemical potential. There's a small chance of finding it by extracting Level 105 or higher equipment. The higher the equipment's level, the higher the chance."/>
+		</imgdir>
+    <imgdir name="4021022">
+			<string name="name" value="Primal Essence"/>
+			<string name="desc" value="They say this stone dates back to the very formation of the world. Then again, they say lots of things. Occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs."/>
+		</imgdir>
+    <imgdir name="4021031">
+			<string name="name" value="Twisted Time"/>
+			<string name="desc" value="This rock is so powerful, it can bend time and space. Normal rocks can do that too, but you have to throw them really hard. Used for making powerful equipment and potions. Can be obtained from all monsters at Level 95 or above."/>
+		</imgdir>
+    <imgdir name="4021032">
+			<string name="name" value="Mana Crystal"/>
+			<string name="desc" value="A mana crystal that can be extracted from scrolls, and Rebirth Flames. Used widely for crafting mana-intensive items."/>
+		</imgdir>
+    <imgdir name="4021033">
+			<string name="name" value="Basic Spell Essence"/>
+			<string name="desc" value="This is the stuff actual spells are made of. This one came from a botched spell. Can be extracted from scrolls and used in mana-intensive crafting."/>
+		</imgdir>
+    <imgdir name="4021034">
+			<string name="name" value="Fine Spell Essence"/>
+			<string name="desc" value="This is the stuff actual spells are made of. This one came from a pretty good spell. Can be extracted from scrolls and used in mana-intensive crafting."/>
+		</imgdir>
+    <imgdir name="4021035">
+			<string name="name" value="Grand Spell Essence"/>
+			<string name="desc" value="This is the stuff actual spells are made of. This one came from a top-shelf spell. Can be extracted from scrolls and used in mana-intensive crafting."/>
+		</imgdir>
+    <imgdir name="4021036">
+			<string name="name" value="Cube Fragment"/>
+			<string name="desc" value="A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman's Cubes, and by mining and from mob/boss drops and used to make Master Craftsman's Cubes and Renowned Master Craftsman's Cubes."/>
+		</imgdir>
+    <imgdir name="4021037">
+			<string name="name" value="Cube Crystal"/>
+			<string name="desc" value="The crystallized power of a mystic cube."/>
+		</imgdir>
+    <imgdir name="4021038">
+			<string name="name" value="Rebirth Fragment"/>
+			<string name="desc" value="A fragment that contains a trace amount of Rebirth Flame. Can be extracted from regular Rebirth Flames and used to make Powerful Rebirth Flames and Eternal Rebirth Flames."/>
+		</imgdir>
+    <imgdir name="4021039">
+			<string name="name" value="Rebirth Crystal"/>
+			<string name="desc" value="The crystallized power of Rebirth Flame. "/>
+		</imgdir>
+    <imgdir name="4021040">
+			<string name="name" value="Dimension Fragment"/>
+			<string name="desc" value="A fragment found in the space between Mirror World and Maple World. Used for making #cGold Label Knight Set# items."/>
+		</imgdir>
+</imgdir>

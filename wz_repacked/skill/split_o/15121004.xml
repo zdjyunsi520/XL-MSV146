@@ -1,0 +1,5 @@
+<imgdir name="15121004">
+        <string name="name" value="Arc Charger" />
+        <string name="desc" value="Gather electricity from your surroundings to make all of your attacks deal additional hits." />
+        <string name="h" value="MP Cost: #mpCon, All attacks have additional #x% hits for #time sec.\nCooldown: #cooltime Sec." />
+    </imgdir>

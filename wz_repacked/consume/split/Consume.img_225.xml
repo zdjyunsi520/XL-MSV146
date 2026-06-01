@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290994">
+		<string name="name" value="[Mastery Book] Ishtar's Ring 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cIshtar's Ring# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290995">
+		<string name="name" value="[Mastery Book] Spikes Royale 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cSpikes Royale# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290996">
+		<string name="name" value="[Mastery Book] Lightning Edge 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cLightning Edge# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290997">
+		<string name="name" value="[Mastery Book] Lightning Edge 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cLightning Edge# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290998">
+		<string name="name" value="[Mastery Book] Ancient Warding 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cAncient Warding# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290999">
+		<string name="name" value="[Mastery Book] Ancient Warding 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cAncient Warding# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291000">
+		<string name="name" value="[Mastery Book] Dual Bow Gun Expert 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cDual Bow Gun Expert# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291001">
+		<string name="name" value="[Mastery Book] Dual Bow Gun Expert 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cDual Bow Gun Expert# to 30.\nJob: Mercedes (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291002">
+		<string name="name" value="[Mastery Book] Defense Break 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cDefense Break# to 20.\nJob: Mercedes (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291003">
+		<string name="name" value="[Mastery Book] Infernal Concussion 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cInfernal Concussion# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291004">
+		<string name="name" value="[Mastery Book] Infernal Concussion 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cInfernal Concussion# to 30.\nJob: Demon Slayer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291005">
+		<string name="name" value="[Mastery Book] Demon Impact 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cDemon Impact# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291006">
+		<string name="name" value="[Mastery Book] Demon Impact 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cDemon Impact# to 30.\nJob: Demon Slayer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291007">
+		<string name="name" value="[Mastery Book] Demon Cry 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cDemon Cry# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291008">
+		<string name="name" value="[Mastery Book] Dark Metamorphosis 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cDark Metamorphosis# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291009">
+		<string name="name" value="[Mastery Book] Dark Metamorphosis 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cDark Metamorphosis# to 30.\nJob: Demon Slayer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291010">
+		<string name="name" value="[Mastery Book] Binding Darkness 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cBinding Darkness# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291011">
+		<string name="name" value="[Mastery Book] Barricade Mastery 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cBarricade Mastery# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2291012">
+		<string name="name" value="[Mastery Book] Barricade Mastery 30"/>
+		<string name="desc" value="60% chance of increasing the Master Level of #cBarricade Mastery# to 30.\nJob: Demon Slayer\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2291013">
+		<string name="name" value="[Mastery Book] Obsidian Skin 20"/>
+		<string name="desc" value="80% chance of increasing the Master Level of #cObsidian Skin# to 20.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

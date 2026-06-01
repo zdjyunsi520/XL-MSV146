@@ -1,0 +1,5 @@
+<imgdir name="31110006">
+        <string name="name" value="Insult to Injury" />
+        <string name="desc" value="Increases damage and critical rate when attacking enemies in abnormal status." />
+        <string name="h" value="When attacking enemies in abnormal status, Damage: +#x%, Critical Rate: +#y%" />
+    </imgdir>

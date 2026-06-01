@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="7130004">
+		<string name="name" value="汉基"/>
+	</imgdir>
+    <imgdir name="7130010">
+		<string name="name" value="死亡泰迪"/>
+	</imgdir>
+    <imgdir name="7130020">
+		<string name="name" value="戈比"/>
+	</imgdir>
+    <imgdir name="7130100">
+		<string name="name" value="牛头怪"/>
+	</imgdir>
+    <imgdir name="7130101">
+		<string name="name" value="牛头矛兵"/>
+	</imgdir>
+    <imgdir name="7130102">
+		<string name="name" value="雪人与佩佩"/>
+	</imgdir>
+    <imgdir name="7130103">
+		<string name="name" value="骷髅指挥官"/>
+	</imgdir>
+    <imgdir name="7130104">
+		<string name="name" value="队长"/>
+	</imgdir>
+    <imgdir name="7130200">
+		<string name="name" value="狼人"/>
+	</imgdir>
+    <imgdir name="7130300">
+		<string name="name" value="死亡泰迪大师"/>
+	</imgdir>
+    <imgdir name="7130400">
+		<string name="name" value="黄色哥布林王"/>
+	</imgdir>
+    <imgdir name="7130401">
+		<string name="name" value="蓝色哥布林王"/>
+	</imgdir>
+    <imgdir name="7130402">
+		<string name="name" value="绿色哥布林王"/>
+	</imgdir>
+    <imgdir name="7130500">
+		<string name="name" value="拉什"/>
+	</imgdir>
+    <imgdir name="7130501">
+		<string name="name" value="暗黑拉什"/>
+	</imgdir>
+    <imgdir name="7130600">
+		<string name="name" value="霍比"/>
+	</imgdir>
+    <imgdir name="7130601">
+		<string name="name" value="绿色霍比"/>
+	</imgdir>
+    <imgdir name="7130602">
+		<string name="name" value="荆棘藤"/>
+	</imgdir>
+    <imgdir name="7140000">
+		<string name="name" value="幽灵海盗"/>
+	</imgdir>
+    <imgdir name="7150000">
+		<string name="name" value="拉可可"/>
+	</imgdir>
+</imgdir>

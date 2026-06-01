@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1642000"><string name="name" value="青铜机体框架"/></imgdir>
+    <imgdir name="1642001"><string name="name" value="铁制机体框架"/></imgdir>
+    <imgdir name="1642002"><string name="name" value="黄金机体框架"/></imgdir>
+    <imgdir name="1642003"><string name="name" value="纯金机体框架"/></imgdir>
+    <imgdir name="1652000"><string name="name" value="铜制晶体管"/></imgdir>
+    <imgdir name="1652001"><string name="name" value="青铜晶体管"/></imgdir>
+    <imgdir name="1652002"><string name="name" value="铁制晶体管"/></imgdir>
+    <imgdir name="1652003"><string name="name" value="黄金晶体管"/></imgdir>
+    <imgdir name="1652004"><string name="name" value="纯金晶体管"/></imgdir>
+    <imgdir name="MonsterBook"><imgdir name="1172000"><string name="name" value="十字军卡片集"/></imgdir>
+    <imgdir name="Pants"><imgdir name="1060000"><string name="name" value="黑色杰克裤"/></imgdir>
+    <imgdir name="1060001"><string name="name" value="黑色西裤"/></imgdir>
+    <imgdir name="1060002"><string name="name" value="蓝色牛仔短裤"/></imgdir>
+    <imgdir name="1060003"><string name="name" value="军绿色短裤"/></imgdir>
+    <imgdir name="1060004"><string name="name" value="灰色厚运动裤"/></imgdir>
+    <imgdir name="1060005"><string name="name" value="战争长裤"/></imgdir>
+    <imgdir name="1060006"><string name="name" value="棕色棉质短裤"/></imgdir>
+    <imgdir name="1060007"><string name="name" value="牛仔七分裤"/></imgdir>
+    <imgdir name="1060008"><string name="name" value="棕色洛利可裤"/></imgdir>
+    <imgdir name="1060009"><string name="name" value="钢铁下士裤"/></imgdir>
+</imgdir>

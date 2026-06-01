@@ -1,0 +1,5 @@
+<imgdir name="42001000">
+        <string name="name" value="式神缠身" />
+        <string name="desc" value="召唤可怕的幽灵攻击前方的敌人。不消耗魔力。" />
+        <string name="h" value="伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount " />
+    </imgdir>

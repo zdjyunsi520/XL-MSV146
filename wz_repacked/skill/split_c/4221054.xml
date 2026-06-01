@@ -1,0 +1,5 @@
+<imgdir name="4221054">
+        <string name="name" value="硬币投掷" />
+        <string name="desc" value="抛出幸运硬币，召唤超凡祝福。" />
+        <string name="h" value="只有在暴击时才能使用。消耗MP：#mpCon，持续时间：#time秒，伤害：#indieDamR%，暴击率：#x%，最大伤害值：#indieMaxDamageOver，最大叠加次数：#y" />
+    </imgdir>

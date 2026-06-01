@@ -1,0 +1,5 @@
+<imgdir name="13121005">
+        <string name="name" value="锐利之眼" />
+        <string name="desc" value="让队伍成员发现敌人的弱点，发动暴击攻击。" />
+        <string name="h" value="MP消耗：#mpCon，暴击率：+#x%，最大暴击伤害：+#y%，持续时间：#time秒" />
+    </imgdir>

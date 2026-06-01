@@ -1,0 +1,5 @@
+<imgdir name="65001100">
+        <string name="name" value="星辰泡泡" />
+        <string name="desc" value="发射压缩的未精炼能量流。弹丸命中时造成范围伤害。" />
+        <string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Soul Battery Skill. Recharge Chance: #onActive%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="1321052">
+        <string name="name" value="Nightshade Explosion" />
+        <string name="desc" value="Releases your inner power to lay waste to nearby enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+    </imgdir>

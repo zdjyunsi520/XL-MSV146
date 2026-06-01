@@ -1,0 +1,68 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159350">
+		<string name="name" value="Lady of Mystery"/>
+		<string name="d0" value="...What is a human doing in a place like this...?!"/>
+		<string name="d1" value="Hmph..."/>
+	</imgdir>
+    <imgdir name="2159351">
+		<string name="name" value="Claudine"/>
+		<string name="d0" value="That's really tough."/>
+		<string name="d1" value="Enemy...and friend..."/>
+	</imgdir>
+    <imgdir name="2159352">
+		<string name="name" value="Eckhart"/>
+		<string name="d0" value="Hmm..."/>
+		<string name="d1" value="...Hmph!"/>
+	</imgdir>
+    <imgdir name="2159353">
+		<string name="name" value="Phantom"/>
+	</imgdir>
+    <imgdir name="2159354">
+		<string name="name" value="Guwaru"/>
+	</imgdir>
+    <imgdir name="2159355">
+		<string name="name" value="Magnus"/>
+	</imgdir>
+    <imgdir name="2159356">
+		<string name="name" value="Aran"/>
+	</imgdir>
+    <imgdir name="2159357">
+		<string name="name" value="Freud"/>
+	</imgdir>
+    <imgdir name="2159358">
+		<string name="name" value="Demon Slayer"/>
+	</imgdir>
+    <imgdir name="2159359">
+		<string name="name" value="Black Mage"/>
+	</imgdir>
+    <imgdir name="2159360">
+		<string name="name" value="Black Mage Minion"/>
+	</imgdir>
+    <imgdir name="2159361">
+		<string name="name" value="Black Mage Minion"/>
+	</imgdir>
+    <imgdir name="2159362">
+		<string name="name" value="Black Mage"/>
+	</imgdir>
+    <imgdir name="2159363">
+		<string name="name" value="Seal of Time"/>
+	</imgdir>
+    <imgdir name="2159364">
+		<string name="name" value="Seal of Time"/>
+	</imgdir>
+    <imgdir name="2159365">
+		<string name="name" value="Seal of Time"/>
+	</imgdir>
+    <imgdir name="2159366">
+		<string name="name" value="Seal of Time"/>
+	</imgdir>
+    <imgdir name="2159367">
+		<string name="name" value="Seal of Time"/>
+	</imgdir>
+    <imgdir name="2159368">
+		<string name="name" value="Childhood Self"/>
+	</imgdir>
+    <imgdir name="2159369">
+		<string name="name" value="Childhood Self"/>
+	</imgdir>
+</imgdir>

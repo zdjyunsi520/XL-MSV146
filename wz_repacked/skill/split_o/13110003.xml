@@ -1,0 +1,5 @@
+<imgdir name="13110003">
+        <string name="name" value="Bow Expert" />
+        <string name="desc" value="Increases Bow Mastery, Weapon Attack, and Minimum Critical Damage.\nRequired Skill: #cBow Mastery Lv. 20#" />
+        <string name="h" value="Bow Mastery: +#mastery%. Weapon ATT: +#x, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

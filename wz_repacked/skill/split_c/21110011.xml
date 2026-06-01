@@ -1,0 +1,8 @@
+<imgdir name="21110011">
+        <string name="name" value="连击审判" />
+        <string name="desc" value="对敌人降下巨大的审判之斧。有概率冰冻，被冰冻的敌人将持续受到伤害。只能在#c连击数达到60以上#时使用。\n[指令：#c上方向键+下方向键+攻击键#]\n前置技能：#c连击芬里尔 Lv. 10#" />
+        <string name="h" value="伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，持续伤害：#dot%伤害，每#dotInterval 秒，持续#dotTime 秒，冰冻持续时间：#time 秒" />
+        <string name="pdesc" value="对敌人降下巨大的审判之斧。有概率冰冻，被冰冻的敌人将持续受到伤害。只能在#c连击数达到40以上#时使用。\n[指令：#c上方向键+下方向键+攻击键#]\n前置技能：#c连击芬里尔 Lv. 10#" />
+        <string name="ph" value="伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，持续伤害：#dot%伤害，每#dotInterval 秒，持续#dotTime 秒，冰冻持续时间：#time 秒" />
+        <string name="hch" value="伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，持续伤害：#dot%伤害，每#dotInterval 秒，持续#dotTime 秒，冰冻概率：#hcProp%，冰冻持续时间：#hcTime 秒" />
+    </imgdir>

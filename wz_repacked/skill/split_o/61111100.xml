@@ -1,0 +1,5 @@
+<imgdir name="61111100">
+        <string name="name" value="Wing Beat" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Chance to SlowAttacked Monsters: #prop%\n#cDissipates when certain # of attacks are made, set distance is traveled, or duration expires#." />
+        <string name="desc" value="Create a whirlwind that attacks enemies until certain monsters are killed. The whirlwind will dissipate after a short distance or time.\n#cDragon Link Skill: During Attack + Jump Key + Dragon Link" />
+    </imgdir>

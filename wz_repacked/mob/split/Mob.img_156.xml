@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400781">
+		<string name="name" value="Pie monster"/>
+	</imgdir>
+    <imgdir name="9400783">
+		<string name="name" value="Cake monster"/>
+	</imgdir>
+    <imgdir name="9400784">
+		<string name="name" value="Cake monster"/>
+	</imgdir>
+    <imgdir name="9400785">
+		<string name="name" value="Cake monster"/>
+	</imgdir>
+    <imgdir name="9400786">
+		<string name="name" value="Pie monster"/>
+	</imgdir>
+    <imgdir name="9400787">
+		<string name="name" value="Pie monster"/>
+	</imgdir>
+    <imgdir name="9400788">
+		<string name="name" value="Pie monster"/>
+	</imgdir>
+    <imgdir name="9400789">
+		<string name="name" value="Barricade"/>
+	</imgdir>
+    <imgdir name="9400782">
+		<string name="name" value="Pie monster"/>
+	</imgdir>
+    <imgdir name="9101013">
+		<string name="name" value="Lv. 13 - 30 Monsters"/>
+	</imgdir>
+    <imgdir name="9101014">
+		<string name="name" value="Lv. 31 - 50 Monsters"/>
+	</imgdir>
+    <imgdir name="9101015">
+		<string name="name" value="Lv. 51 - 70 Monsters"/>
+	</imgdir>
+    <imgdir name="9101016">
+		<string name="name" value="Lv. 71 - 90 Monsters"/>
+	</imgdir>
+    <imgdir name="9101017">
+		<string name="name" value="Lv. 91 - 110 Monsters"/>
+	</imgdir>
+    <imgdir name="9101018">
+		<string name="name" value="Lv. 111 - 130 Monsters"/>
+	</imgdir>
+    <imgdir name="9101019">
+		<string name="name" value="Lv. 131 - 150 Monsters"/>
+	</imgdir>
+    <imgdir name="9101020">
+		<string name="name" value="Lv. 151+ Monsters"/>
+	</imgdir>
+    <imgdir name="9101023">
+		<string name="name" value="Monster Park Boss (Lv. 160+)"/>
+	</imgdir>
+    <imgdir name="9101024">
+		<string name="name" value="Lv. 10 - 30 Monsters"/>
+	</imgdir>
+    <imgdir name="9101025">
+		<string name="name" value="Monster Within Level Range"/>
+	</imgdir>
+</imgdir>

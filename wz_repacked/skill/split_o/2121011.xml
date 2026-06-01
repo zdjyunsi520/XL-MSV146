@@ -1,0 +1,5 @@
+<imgdir name="2121011">
+        <string name="name" value="Flame Haze" />
+        <string name="desc" value="#cSurrounds enemies with burning poisonous mist to make them untouchable# while slowing them down with continuous damage. In addition, if it hits an enemy, the Poison Mist will form at that location. If it does not hit an enemy, the Poison Mist will form at your location." />
+        <string name="h" value="MP Cost: #mpCon, Damage on a Single Target: #damage%, Number of Attacks: #attackCount, inflicts #dot% continuous damage at #prop% chance for #dotTime sec. #cMaintains untouchable status and slows enemy by #x%#. Upon hitting enemy, the Poison Mist forms on enemy location. If no enemy is hit, the Poison Mist forms on your location\nCooldown: #cooltime sec" />
+    </imgdir>

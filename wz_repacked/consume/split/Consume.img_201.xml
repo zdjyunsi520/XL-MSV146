@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290407">
+		<string name="name" value="[Special Mastery Book] Blaze 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBlaze# to 30.\nJob: Evan (10th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290408">
+		<string name="name" value="[Special Mastery Book] Dark Fog 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDark Fog# to 30.\nJob: Evan (10th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290409">
+		<string name="name" value="[Special Mastery Book] Soul Stone 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSoul Stone# to 20.\nJob: Evan (10th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290410">
+		<string name="name" value="[Special Mastery Book] Blessing of the Onyx 25"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBlessing of the Onyx# to 25.\nJob: Evan (10th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290411">
+		<string name="name" value="[Mastery Book] Advanced Final Attack 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAdvanced Final Attack# to 30.\nJob: Wild Hunter (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290412">
+		<string name="name" value="[Mastery Book] Claw Expert 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cClaw Expert# to 20.\nJob: Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290413">
+		<string name="name" value="[Mastery Book] Claw Expert 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cClaw Expert# to 30.\nJob: Night Lord\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290414">
+		<string name="name" value="[Mastery Book] Sudden Raid 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSudden Raid# to 20.\nJob: Night Lord, Shadower, Blade Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290415">
+		<string name="name" value="[Mastery Book] Sudden Raid 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSudden Raid# to 30.\nJob: Night Lord, Shadower, Blade Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290416">
+		<string name="name" value="[Mastery Book] Quad Star 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cQuadruple Throw# to 20.\nJob: Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290417">
+		<string name="name" value="[Mastery Book] Quad Star 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cQuadruple Throw# to 30.\nJob: Night Lord\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290418">
+		<string name="name" value="[Mastery Book] Dark Harmony 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDark Serenity# to 20.\nJob: Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290419">
+		<string name="name" value="[Mastery Book] Dark Harmony 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDark Serenity# to 30.\nJob: Night Lord\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290420">
+		<string name="name" value="[Mastery Book] Frailty Curse 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cFrailty Curse# to 20.\nJob: Night Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290421">
+		<string name="name" value="[Mastery Book] Frailty Curse 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cFrailty Curse# to 30.\nJob: Night Lord\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290422">
+		<string name="name" value="[Mastery Book] Sudden Raid 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSudden Raid# to 20.\nJob: Night Lord, Shadower, Blade Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290423">
+		<string name="name" value="[Mastery Book] Sudden Raid 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSudden Raid# to 30.\nJob: Night Lord, Shadower, Blade Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290424">
+		<string name="name" value="[Mastery Book] Dagger Expert 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDagger Expert# to 20.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290425">
+		<string name="name" value="[Mastery Book] Dagger Expert 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDagger Expert# to 30.\nJob: Shadower\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290426">
+		<string name="name" value="[Mastery Book] Shadower Instinct 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cShadower Instinct# to 20.\nJob: Shadower\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

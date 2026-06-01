@@ -1,0 +1,5 @@
+<imgdir name="101120202">
+        <string name="name" value="暴风斩" />
+        <string name="desc" value="攻击前方敌人，创建向前推进的旋涡，对路径上的敌人造成额外伤害~\n[前置技能]: #c风之突袭 Lv. 1#\n[指令]: 使用风之突袭后使用#c风之切割#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[旋涡]#: 最大敌人数: #x, 每0.5秒伤害: #y%, 攻击次数: #z, 持续时间: #s秒。" />
+    </imgdir>

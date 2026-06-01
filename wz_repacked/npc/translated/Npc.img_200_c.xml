@@ -1,0 +1,138 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390249">
+		<string name="name" value="长袍女士"/>
+		<string name="n0" value="我必须收集更多..."/>
+		<string name="n1" value="别烦我，好吗？"/>
+		<string name="d0" value="哼，那些低贱的人。"/>
+		<string name="d1" value="哼，那些低贱的人。"/>
+	</imgdir>
+    <imgdir name="9390250">
+		<string name="name" value="莱昂·丹尼尔"/>
+		<string name="n0" value="我将使丹尼尔商盟成为黎明之岛最好最大的商盟。"/>
+		<string name="n1" value="我准备好恋爱了..."/>
+		<string name="d0" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+		<string name="d1" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+	</imgdir>
+    <imgdir name="9390251">
+		<string name="name" value="长袍女士"/>
+		<string name="n0" value="我必须收集更多..."/>
+		<string name="n1" value="别烦我，好吗？"/>
+		<string name="d0" value="哼，那些低贱的人。"/>
+		<string name="d1" value="哼，那些低贱的人。"/>
+	</imgdir>
+    <imgdir name="9390200">
+		<string name="name" value="帕贝尔"/>
+		<string name="n0" value="一切都不对劲。"/>
+		<string name="n1" value="我的东西都去哪里了？它们长脚了吗？"/>
+		<string name="d0" value="你以为你是谁？走开。"/>
+		<string name="d1" value="你以为你是谁？走开。"/>
+	</imgdir>
+    <imgdir name="9390201">
+		<string name="name" value="贝瑞市长"/>
+		<string name="n0" value="欢迎来到贝瑞，商贸之都最快乐的地方。"/>
+		<string name="n1" value="我很担心这周围的海岸猫。"/>
+		<string name="d0" value="欢迎。我们的城镇虽小但很快乐。"/>
+		<string name="d1" value="欢迎。我们的城镇虽小但很快乐。"/>
+	</imgdir>
+    <imgdir name="9390202">
+		<string name="name" value="莱昂·丹尼尔"/>
+		<string name="n0" value="我将使丹尼尔商盟成为黎明之岛最好最大的商盟。"/>
+		<string name="n1" value="我准备好恋爱了..."/>
+		<string name="d0" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+		<string name="d1" value="我是莱昂·丹尼尔，丹尼尔商盟的负责人。"/>
+	</imgdir>
+    <imgdir name="9390203">
+		<string name="name" value="吉尔伯托·丹尼尔"/>
+		<string name="func" value="商贸之都总理"/>
+		<string name="n0" value="欢迎来到贝瑞，商贸之都最快乐的地方。"/>
+		<string name="n1" value="我很担心这周围的海岸猫。"/>
+		<string name="d0" value="我是吉尔伯托·丹尼尔，商贸之都的总理。"/>
+		<string name="d1" value="我是吉尔伯托·丹尼尔，商贸之都的总理。"/>
+	</imgdir>
+    <imgdir name="9390204">
+		<string name="name" value="长袍女士"/>
+		<string name="n0" value="我必须收集更多..."/>
+		<string name="n1" value="别烦我，好吗？"/>
+		<string name="d0" value="哼，那些低贱的人。"/>
+		<string name="d1" value="哼，那些低贱的人。"/>
+	</imgdir>
+    <imgdir name="9390205">
+		<string name="name" value="克莱尔·特雷米尔"/>
+		<string name="n0" value="我想成为世界上最好的魔法师。"/>
+		<string name="n1" value="如果我有机会展翅高飞..."/>
+		<string name="d0" value="我的名字是克莱尔·特雷米尔。"/>
+		<string name="d1" value="我的名字是克莱尔·特雷米尔。"/>
+	</imgdir>
+    <imgdir name="9390206">
+		<string name="name" value="沃恩·特雷米尔"/>
+		<string name="n0" value="有一天我的商盟将统治商贸之都。"/>
+		<string name="n1" value="不知道我的女儿克莱尔过得怎么样。"/>
+		<string name="d0" value="时间就是金钱，而你一文不值。"/>
+		<string name="d1" value="时间就是金钱，而你一文不值。"/>
+	</imgdir>
+    <imgdir name="9390207">
+		<string name="name" value="锡安"/>
+		<string name="func" value="天堂帝国使者"/>
+		<string name="d0" value="我是锡安，来自天堂帝国的和平使者。"/>
+		<string name="d1" value="我是锡安，来自天堂帝国的和平使者。"/>
+	</imgdir>
+    <imgdir name="9390208">
+		<string name="name" value="里弗森"/>
+		<string name="d0" value="消灭人类。"/>
+		<string name="d1" value="消灭人类。"/>
+	</imgdir>
+    <imgdir name="9390209">
+		<string name="name" value="布拉德船长"/>
+		<string name="func" value="黎明之岛海盗王"/>
+		<string name="d0" value="害怕吧，我是布拉德船长，黎明之岛卑鄙的海盗王！"/>
+		<string name="d1" value="害怕吧，我是布拉德船长，黎明之岛卑鄙的海盗王！"/>
+	</imgdir>
+    <imgdir name="9390210">
+		<string name="func" value="武器商人"/>
+		<string name="name" value="西尔巴伦"/>
+		<string name="n0" value="穿越这些海域，你需要一把好刀和一艘更好的船。"/>
+		<string name="n1" value="我制造的武器都是经过考验的。"/>
+		<string name="n2" value="我倒想看看巴利卡的盔甲能不能挡住我的刀。哈！"/>
+	</imgdir>
+    <imgdir name="9390211">
+		<string name="func" value="杂货店"/>
+		<string name="name" value="肯塔基"/>
+		<string name="n0" value="你需要的一切我都有。"/>
+		<string name="n1" value="不必买...整天看看我的东西就好..."/>
+		<string name="n2" value="你看，你买，我赢。结束！"/>
+	</imgdir>
+    <imgdir name="9390212">
+		<string name="func" value="盔甲商人"/>
+		<string name="name" value="巴利卡"/>
+		<string name="n0" value="盲目攻击只会导致战士失明。"/>
+		<string name="n1" value="来花点钱保住你的小命吧。"/>
+		<string name="n2" value="西尔巴伦的钝刀甚至刮不花我的盔甲。"/>
+	</imgdir>
+    <imgdir name="9390213">
+		<string name="name" value="时髦杰克"/>
+		<string name="func" value="理发店"/>
+		<string name="n0" value="是时候变得时髦起来了！"/>
+		<string name="n1" value="你需要一种能让你的造型更上一层楼的发型。"/>
+		<string name="n2" value="你所需要的只是一个新发型和一点自信。"/>
+	</imgdir>
+    <imgdir name="9390214">
+		<string name="name" value="宋夫人"/>
+		<string name="func" value="整形外科"/>
+		<string name="n0" value="为什么不让我给你一个新的人生呢？"/>
+		<string name="n1" value="从你自己的不安全感中解放出来，找到新的自己！"/>
+		<string name="n2" value="投资自己，这是唯一重要的事情。"/>
+	</imgdir>
+    <imgdir name="9390215">
+		<string name="name" value="丝滑伯纳德"/>
+		<string name="func" value="皮肤护理"/>
+		<string name="n0" value="我会让你的皮肤像雪一样白。"/>
+		<string name="n1" value="我会把你的皮肤晒成铜色的光泽。"/>
+		<string name="n2" value="我会让你的皮肤变成玫瑰粉色。"/>
+	</imgdir>
+    <imgdir name="9390216">
+		<string name="name" value="锡安"/>
+		<string name="func" value="天堂帝国使者"/>
+		<string name="d0" value="......"/>
+		<string name="d1" value="......"/>
+	</imgdir>
+</imgdir>

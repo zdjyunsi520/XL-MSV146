@@ -1,0 +1,8 @@
+<imgdir name="1211013">
+        <string name="name" value="威吓" />
+        <string name="desc" value="威吓敌人，有几率#c降低其攻击力、防御力和命中值#~" />
+        <string name="h" value="MP消耗: #mpCon, 成功率: #prop%, 敌人数量: #mobCount, 敌人#c攻击力和防御力: #x%持续#time秒，命中值: -#z%#，命中值减益持续时间: #subTime秒" />
+        <string name="pdesc" value="威吓敌人，有几率#c降低其攻击力、防御力和命中值#~" />
+        <string name="ph" value="MP消耗: #mpCon, 成功率: #prop%, 敌人数量: #mobCount, 敌人#c攻击力和防御力: #x%持续#time秒，命中值: -#z%#，命中值减益持续时间: #subTime秒" />
+        <string name="hch" value="MP消耗: #mpCon, 成功率: #prop%, 敌人数量: #mobCount, 敌人#c攻击力和防御力: #x%持续#time秒，命中值: -#z%#，命中值减益持续时间: #subTime秒" />
+    </imgdir>

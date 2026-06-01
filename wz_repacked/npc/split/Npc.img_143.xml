@@ -1,0 +1,123 @@
+<imgdir name="Npc.img">
+    <imgdir name="9070007">
+		<string name="name" value="Rebecca"/>
+		<string name="func" value="Cafe Weapon Rental"/>
+		<string name="n0" value="Hey you! Ask me about weapon rentals. I dare ya."/>
+		<string name="n1" value="Yeah, I've got a special deal just for you."/>
+	</imgdir>
+    <imgdir name="9070008">
+		<string name="name" value="Gaga"/>
+		<string name="n0" value="I'll give you 8th Anniversary Maple Leaves based on the score you accumulate in Battle Mode."/>
+		<string name="s0" value="I'll give you 8th Anniversary Maple Leaves based on the score you accumulate in Battle Mode."/>
+		<string name="s1" value="I'll give you 8th Anniversary Maple Leaves based on the score you accumulate in Battle Mode."/>
+		<string name="d0" value="I'll give you 8th Anniversary Maple Leaves based on the score you accumulate in Battle Mode."/>
+		<string name="d1" value="I'll give you 8th Anniversary Maple Leaves based on the score you accumulate in Battle Mode."/>
+	</imgdir>
+    <imgdir name="9070009">
+		<string name="name" value="Haktorius"/>
+		<string name="func" value="Training Instructor"/>
+		<string name="n0" value="To battle! To mode! To Battle Mode!"/>
+		<string name="n1" value="Only the strong can keep the peace."/>
+		<string name="d0" value="Get tough or get out or get me a sandwich!"/>
+		<string name="d1" value="Combined power is the only power that matters... unless you're alone."/>
+	</imgdir>
+    <imgdir name="9070010">
+		<string name="name" value="Mystic Gate"/>
+		<string name="d0" value="A strange energy is pouring off of this thing..."/>
+	</imgdir>
+    <imgdir name="9070011">
+		<string name="name" value="Mystic Gate"/>
+		<string name="d0" value="A strange energy is pouring off of this thing..."/>
+	</imgdir>
+    <imgdir name="9071000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="Welcome to Monster Park! You will have so much fun here."/>
+		<string name="n1" value="Aren't you curious as to what kinds of experiences you'll have here?"/>
+		<string name="d0" value="Welcome to Monster Park, a place full of happiness and monsters!"/>
+		<string name="d1" value="Aren't you curious as to what kinds of experiences you'll have here?"/>
+	</imgdir>
+    <imgdir name="9071001">
+		<string name="name" value="Laku"/>
+		<string name="s0" value="Just let me know if there is an item you want."/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="9071002">
+		<string name="name" value="Mary"/>
+		<string name="s0" value="You'll need an entry ticket to enter the Monster Park."/>
+		<string name="func" value="Ticket Exchange Agent"/>
+	</imgdir>
+    <imgdir name="9071003">
+		<string name="name" value="Monster Park Shuttle"/>
+	</imgdir>
+    <imgdir name="9071004">
+		<string name="name" value="Gate"/>
+	</imgdir>
+    <imgdir name="9071005">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="Just let me know if you want to leave."/>
+		<string name="n1" value="Aren't you curious as to what kinds of experiences you'll have here?"/>
+	</imgdir>
+    <imgdir name="9071006">
+		<string name="name" value="Spiegelette"/>
+		<string name="n0" value="Welcome to MY Monster Park. You won’t find a single gravy stain on any of my workers!"/>
+		<string name="n1" value="I'm glad I don't look anything like the mustard-breathed lummocks I call a brother."/>
+		<string name="d0" value="My brother did a pretty good job, despite his obvious problems."/>
+		<string name="d1" value="I'm glad I don't look anything like the mustard-breathed lummocks I call a brother."/>
+	</imgdir>
+    <imgdir name="9071007">
+		<string name="name" value="Spiegelette"/>
+		<string name="n0" value="You wanna see a boss? Have I got a boss for you!"/>
+		<string name="n1" value="My brother did a pretty good job, despite his obvious problems."/>
+	</imgdir>
+    <imgdir name="9072000">
+		<string name="name" value="Instructor Irvin"/>
+		<string name="n0" value="I will rent you a good airplane on the cheap. How about it?"/>
+		<string name="n1" value="This airplane and I have been through a lot together. I can't give you this one."/>
+		<string name="func" value="Airplane Rentals"/>
+		<string name="d0" value="Can you imagine how it feels to soar through the sky in your very own airplane?"/>
+		<string name="d1" value="You must always be cautious when flying your airplane."/>
+	</imgdir>
+    <imgdir name="9072100">
+		<string name="name" value="Neville"/>
+		<string name="func" value="Secondary Weapon Seller"/>
+		<string name="s0" value="I can't tell you where I got all this stuff... or else."/>
+		<string name="s1" value="Whose command is it? Well... That's a secret."/>
+		<string name="s2" value="Let's see... My inventory's nice and full."/>
+		<string name="s3" value="It doesn’t matter how good your weapon is if you don’t know how to use it."/>
+	</imgdir>
+    <imgdir name="9072101">
+		<string name="name" value="Neville"/>
+		<string name="func" value="Secondary Weapon Seller"/>
+		<string name="s0" value="I can't tell you where I got all this stuff... or else."/>
+		<string name="s1" value="Whose command is it? Well... That's a secret."/>
+		<string name="s2" value="Let's see... My inventory's nice and full."/>
+		<string name="s3" value="It doesn’t matter how good your weapon is if you don’t know how to use it."/>
+	</imgdir>
+    <imgdir name="9073000">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="Help! I injured my leg..."/>
+		<string name="d1" value="We have an interesting relationship. I am sure we will meet again."/>
+		<string name="n0" value="Hmm...there has been an increase of suspicious people lately."/>
+		<string name="n1" value="A vast darkness seems to be approaching. If we gather our forces, peace will last forever, won't it?"/>
+	</imgdir>
+    <imgdir name="9073001">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="What are these pillars with a blue glow supposed to be?"/>
+		<string name="d1" value="You are very skilled. There will come a day when we will need your strength."/>
+		<string name="n0" value="Strange things keep happening. What is going on around here?"/>
+	</imgdir>
+    <imgdir name="9073002">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Who are you? I'm busy, so don't bother me."/>
+		<string name="d1" value="Don't you think that you should at least be able to protect yourself? You need to train harder."/>
+		<string name="n0" value="What...is this..."/>
+		<string name="n1" value="You must find out what Mystic Gates truly are. Something smells fishy."/>
+	</imgdir>
+    <imgdir name="9073003">
+		<string name="name" value="Bastille"/>
+		<string name="n0" value="It's a nice weather, isn't it? It's a great day to enjoy a walk with my pet, Muffins."/>
+		<string name="n1" value="Don't be afraid of Muffins. He is cute and docile."/>
+		<string name="d0" value="What are you like? I like someone who is righteous and responsible. Hahaha."/>
+		<string name="d1" value="Don't reveal your identity so easily. You may be in danger."/>
+	</imgdir>
+</imgdir>

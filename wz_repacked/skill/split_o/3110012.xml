@@ -1,0 +1,5 @@
+<imgdir name="3110012">
+        <string name="name" value="Focused Fury" />
+        <string name="desc" value="Constant attacks focus your concentration, increasing your Abnormal Status Resistance. Resisting an Abnormal Status while this buff is in effect will trigger a cooldown on the skill. Also increases Abnormal Status Resistance and All Elemental Resistances permanently." />
+        <string name="h" value="While attacking Abnormal Status Resistance will increase by #x% for #time sec regularly. When an Abnormal Status is resisted,  Cooldown: #cooltime sec. \n[Passive Effects: Abnormal Status Resistance and all Elemental Resistances increase by #asrR%]" />
+    </imgdir>

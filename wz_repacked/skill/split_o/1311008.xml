@@ -1,0 +1,7 @@
+<imgdir name="1311008">
+        <string name="name" value="Dragon Strength" />
+        <string name="desc" value="Greatly increases STR for a fixed period of time." />
+        <string name="h" value="MP Cost: #mpCon, STR increased by #str for #time sec" />
+        <string name="pdesc" value="Greatly increases STR for a fixed period of time." />
+        <string name="ph" value="MP Cost: #mpCon, STR increased by #str for #time sec" />
+    </imgdir>

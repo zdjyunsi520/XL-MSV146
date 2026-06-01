@@ -1,0 +1,5 @@
+<imgdir name="3200009">
+        <string name="name" value="测距仪" />
+        <string name="desc" value="攻击近距离敌人时提升暴击率，攻击远距离敌人时提升总伤害~" />
+        <string name="h" value="根据距离#x，当距离近于#range时暴击率增加#cr%，最高#z%。距离越远，伤害增加#damR%，最高#y%" />
+    </imgdir>

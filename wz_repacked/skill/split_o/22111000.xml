@@ -1,0 +1,7 @@
+<imgdir name="22111000">
+        <string name="name" value="Lightning Bolt" />
+        <string name="desc" value="Drops thunderbolts on up to 8 enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Drops thunderbolts on up to #mobCount enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

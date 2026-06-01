@@ -1,0 +1,8 @@
+<imgdir name="5011002">
+        <string name="name" value="后座力炮击" />
+        <string name="desc" value="发射加农炮的同时快速后退！可以在一段时间内降低目标速度。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #time sec" />
+        <string name="pdesc" value="发射加农炮的同时快速后退！可以在一段时间内降低目标速度。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #hcTime sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="70000021">
+        <string name="name" value="力量转敏捷" />
+        <string name="desc" value="按分配给力量的AP比例提升敏捷。" />
+        <string name="h" value="#str2dex% of AP assigned to STR added to DEX" />
+    </imgdir>

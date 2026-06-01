@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3080007">
+		<string name="name" value="6称号持有框"/>
+		<string name="desc" value="在你的设置标签页中容纳6个称号。"/>
+	</imgdir>
+    <imgdir name="3080008">
+		<string name="name" value="8称号持有框"/>
+		<string name="desc" value="在你的设置标签页中容纳8个称号。"/>
+	</imgdir>
+    <imgdir name="3080009">
+		<string name="name" value="10称号持有框"/>
+		<string name="desc" value="在你的设置标签页中容纳10个称号。"/>
+	</imgdir>
+    <imgdir name="3080010">
+		<string name="name" value="12称号持有框"/>
+		<string name="desc" value="在你的设置标签页中容纳12个称号。"/>
+	</imgdir>
+    <imgdir name="3090000">
+		<string name="name" value="3x4比特盒"/>
+		<string name="desc" value="容纳12个比特片。\r\n#c尺寸：3x4"/>
+	</imgdir>
+    <imgdir name="3090001">
+		<string name="name" value="2x2比特盒"/>
+		<string name="desc" value="容纳4个比特片。\r\n#c尺寸：2x2"/>
+	</imgdir>
+    <imgdir name="3600000">
+		<string name="name" value="怪物等级核心 +3"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600001">
+		<string name="name" value="怪物等级核心 +4"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600002">
+		<string name="name" value="怪物等级核心 +5"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600003">
+		<string name="name" value="怪物等级核心 +7"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600004">
+		<string name="name" value="怪物等级核心 +9"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600005">
+		<string name="name" value="怪物等级核心 +10"/>
+		<string name="desc" value="改变进化系统的怪物等级。注意：怪物的等级不能超过160级。"/>
+	</imgdir>
+    <imgdir name="3600100">
+		<string name="name" value="怪物HP X1.2"/>
+		<string name="desc" value="增加进化系统怪物的HP。"/>
+	</imgdir>
+    <imgdir name="3600101">
+		<string name="name" value="怪物HP X1.5"/>
+		<string name="desc" value="增加进化系统怪物的HP。"/>
+	</imgdir>
+    <imgdir name="3600102">
+		<string name="name" value="怪物HP X5"/>
+		<string name="desc" value="增加进化系统怪物的HP。"/>
+	</imgdir>
+    <imgdir name="3600103">
+		<string name="name" value="怪物HP X10"/>
+		<string name="desc" value="增加进化系统怪物的HP。"/>
+	</imgdir>
+    <imgdir name="3600104">
+		<string name="name" value="怪物HP X20"/>
+		<string name="desc" value="增加进化系统怪物的HP。"/>
+	</imgdir>
+    <imgdir name="3600200">
+		<string name="name" value="怪物数量 +20%"/>
+		<string name="desc" value="增加进化系统中出现的怪物数量。"/>
+	</imgdir>
+    <imgdir name="3600201">
+		<string name="name" value="怪物数量 30%"/>
+		<string name="desc" value="增加进化系统中出现的怪物数量。"/>
+	</imgdir>
+    <imgdir name="3600202">
+		<string name="name" value="怪物数量 70%"/>
+		<string name="desc" value="增加进化系统中出现的怪物数量。"/>
+	</imgdir>
+</imgdir>

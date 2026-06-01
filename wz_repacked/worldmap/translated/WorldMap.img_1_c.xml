@@ -1,0 +1,62 @@
+<imgdir name="WorldMap.img">
+    <imgdir name="000">
+		<string name="name" value="冒险岛"/>
+	</imgdir>
+    <imgdir name="010">
+		<string name="name" value="维多利亚岛"/>
+	</imgdir>
+    <imgdir name="011">
+		<string name="name" value="诺特勒斯号"/>
+	</imgdir>
+    <imgdir name="012">
+		<string name="name" value="沉睡森林"/>
+	</imgdir>
+    <imgdir name="013">
+		<string name="name" value="克拉苏广场"/>
+	</imgdir>
+    <imgdir name="014">
+		<string name="name" value="蘑菇城堡"/>
+	</imgdir>
+    <imgdir name="015">
+		<string name="name" value="深渊入口"/>
+	</imgdir>
+    <imgdir name="016">
+		<string name="name" value="埃尔林精灵学院"/>
+	</imgdir>
+    <imgdir name="020">
+		<string name="name" value="埃尔纳斯"/>
+	</imgdir>
+    <imgdir name="021">
+		<string name="name" value="死亡矿坑"/>
+	</imgdir>
+    <imgdir name="022">
+		<string name="name" value="狮子王城"/>
+	</imgdir>
+    <imgdir name="023">
+		<string name="name" value="克里希"/>
+	</imgdir>
+    <imgdir name="030">
+		<string name="name" value="利多湖"/>
+	</imgdir>
+    <imgdir name="031">
+		<string name="name" value="钟楼底层"/>
+	</imgdir>
+    <imgdir name="032">
+		<string name="name" value="埃尔林森林"/>
+	</imgdir>
+    <imgdir name="040">
+		<string name="name" value="水下之路"/>
+	</imgdir>
+    <imgdir name="050">
+		<string name="name" value="米纳尔森林"/>
+	</imgdir>
+    <imgdir name="051">
+		<string name="name" value="新城市"/>
+	</imgdir>
+    <imgdir name="060">
+		<string name="name" value="武陵"/>
+	</imgdir>
+    <imgdir name="061">
+		<string name="name" value="黄金寺"/>
+	</imgdir>
+</imgdir>

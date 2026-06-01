@@ -1,0 +1,87 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023304">
+		<string name="name" value="2X Drop Coupon"/>
+		<string name="desc" value="Increases your item drop rate by #c2 times# for #c1 hour#."/>
+	</imgdir>
+    <imgdir name="2450083">
+		<string name="name" value="2x EXP Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive a #c2x EXP# buff for #c1 hour#."/>
+	</imgdir>
+    <imgdir name="2432313">
+		<string name="name" value="Invited All 4 One member Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432314">
+		<string name="name" value="All 4 One All member Gift Box"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432332">
+		<string name="name" value="RED Hot Time Box 1"/>
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432333">
+		<string name="name" value="RED Hot Time Box 2"/>
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2612016">
+		<string name="name" value="Evolution Two-handed Weapon Enchantment Scroll"/>
+		<string name="desc" value="Enchant Two-Handed Weapon."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMax HP +75\r\nAccuracy +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2612017">
+		<string name="name" value="Evolution Two-handed Weapon Magic ATT Scroll"/>
+		<string name="desc" value="Improves Magic Attack on Two-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic Attack: +8\r\n#"/>
+	</imgdir>
+    <imgdir name="2432336">
+		<string name="name" value="Sealed Cubic Blade"/>
+		<string name="desc" value="Use this to get a cubic blade. "/>
+	</imgdir>
+    <imgdir name="2432337">
+		<string name="name" value="Sealed Cubic Chaos Blade"/>
+		<string name="desc" value="Use this to get a powerful cubic chaos blade. "/>
+	</imgdir>
+    <imgdir name="2432310">
+		<string name="name" value="Christmas HOT Day Box"/>
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432321">
+		<string name="name" value="RED COOL Day Box 1"/>
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432322">
+		<string name="name" value="RED COOL Day Box 2"/>
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2532003">
+		<string name="name" value="Safety Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use."/>
+		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2531004">
+		<string name="name" value="Protection Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Effects disappear after a successful scroll and it #ccannot be used on items that have been successfully enhanced 12 or more times.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSafeguards your item against destruction 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2470011">
+		<string name="name" value="Golden Hammer 100%"/>
+		<string name="desc" value="Grants one additional chance to apply a scroll to your equipment item. Can only be used once per item."/>
+	</imgdir>
+    <imgdir name="2710004">
+		<string name="name" value="Meister's Cube"/>
+		<string name="desc" value="A miraculous cube that resets the potential of a piece of equipment. Has a greater chance of raising equipment rank than the Master Craftsman's Cube. \n#cOnly usable on items graded Rare to Legendary.# \n#cMax Result: Legendary #"/>
+		<string name="autodesc" value="\r\n#cResets existing potentials.\r\n#"/>
+	</imgdir>
+    <imgdir name="2432364">
+		<string name="name" value="Double Transformation Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Transformed Robot Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2432365">
+		<string name="name" value="Double Nightmare Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Nightmare Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2432366">
+		<string name="name" value="Double Shinsoo Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Shinsoo Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+</imgdir>

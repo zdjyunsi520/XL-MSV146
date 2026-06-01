@@ -1,0 +1,5 @@
+<imgdir name="80000028">
+        <string name="name" value="Lv.3小熊必备" />
+        <string name="desc" value="这只小熊想揍人。提升物理攻击力和魔法攻击力7点。" />
+        <string name="h" value="#物理攻击力：+#padX，魔法攻击力+#madX" />
+    </imgdir>

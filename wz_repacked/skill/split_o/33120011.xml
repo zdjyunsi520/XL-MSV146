@@ -1,0 +1,7 @@
+<imgdir name="33120011">
+        <string name="name" value="Advanced Final Attack" />
+        <string name="desc" value="Permanently increases ATT and Accuracy. Greatly increases the damage and activation rate of your Final Attack. Mastery Book is required to master the skill to level 30. \nRequired Skill: #cFinal Attack Lv. 20#" />
+        <string name="h" value="Permanently increases ATT by #padX and Accuracy by #ar%. Also has a #prop% chance of activating #damage% damage Final Attack" />
+        <string name="pdesc" value="Permanently increases ATT and Accuracy. Greatly increases the damage and activation rate of your Final Attack.\nRequired Skill: #cFinal Attack Lv. 20#" />
+        <string name="ph" value="Permanently increases ATT by #padX and Accuracy by #ar%. Also has a #prop% chance of activating #damage% damage Final Attack" />
+    </imgdir>

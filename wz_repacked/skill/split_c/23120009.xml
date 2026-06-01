@@ -1,0 +1,7 @@
+<imgdir name="23120009">
+        <string name="name" value="双弩枪专家" />
+        <string name="desc" value="提升双弩枪的熟练度、武器攻击力和最低暴击伤害。\n前置技能：#c双弩枪熟练度 Lv. 10#" />
+        <string name="h" value="双弩枪熟练度：+#mastery%，武器攻击力：+#x，最低暴击伤害：+#criticaldamageMin%" />
+        <string name="pdesc" value="提升双弩枪的熟练度、武器攻击力和最低暴击伤害。\n前置技能：#c双弩枪熟练度 Lv. 10#" />
+        <string name="ph" value="双弩枪熟练度：+#mastery%，武器攻击力：+#x，最低暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

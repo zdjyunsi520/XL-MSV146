@@ -1,0 +1,8 @@
+<imgdir name="4331006">
+        <string name="name" value="Chains of Hell" />
+        <string name="desc" value="Chains of Hell pulls an enemy close and deals 10 consecutive Critical strikes with a chance to stun. Stationary monsters must be in range." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
+        <string name="pdesc" value="Chains of Hell pulls an enemy close and deals 10 consecutive Critical strikes with a chance to stun. Stationary monsters must be in range." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Critical Rate: #cr%\nCooldown: #hcCooltime sec" />
+    </imgdir>

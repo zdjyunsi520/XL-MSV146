@@ -1,0 +1,86 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159019">
+		<string name="name" value="冰人"/>
+		<string name="n0" value="好冷...谁来解除我的诅咒..."/>
+	</imgdir>
+    <imgdir name="2159020">
+		<string name="name" value="冰骑士"/>
+	</imgdir>
+    <imgdir name="2159021">
+		<string name="name" value="冰人"/>
+	</imgdir>
+    <imgdir name="2159100">
+		<string name="name" value="席勒"/>
+	</imgdir>
+    <imgdir name="2159110">
+		<string name="name" value="布莱顿"/>
+		<string name="d0" value="呃...我不敢相信我被格里梅尔打败了..."/>
+		<string name="d1" value="我不能在这里停下来！"/>
+	</imgdir>
+    <imgdir name="2159111">
+		<string name="name" value="贝尔"/>
+		<string name="d0" value="呃...格里梅尔比我聪明。"/>
+		<string name="d1" value="我不能在这里停下来！"/>
+	</imgdir>
+    <imgdir name="2159112">
+		<string name="name" value="切奇"/>
+		<string name="d0" value="呃...我应该更谨慎一些..."/>
+		<string name="d1" value="我不能在这里停下来！"/>
+	</imgdir>
+    <imgdir name="2159200">
+		<string name="name" value="J"/>
+		<string name="d0" value="我听说反抗军有新成员要来..."/>
+		<string name="d1" value="哦，我不知道你就是新成员。我很惊讶！"/>
+	</imgdir>
+    <imgdir name="2159201">
+		<string name="name" value="瑟尔"/>
+		<string name="d0" value="哼...那些黑翼..."/>
+		<string name="d1" value="哼...那些黑翼..."/>
+	</imgdir>
+    <imgdir name="2159202">
+		<string name="name" value="王牌"/>
+	</imgdir>
+    <imgdir name="2159300">
+		<string name="name" value="法比奥"/>
+	</imgdir>
+    <imgdir name="2159301">
+		<string name="name" value="加布里埃尔的行李箱"/>
+	</imgdir>
+    <imgdir name="2159302">
+		<string name="name" value="乌尔里卡"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159303">
+		<string name="name" value="暴牙"/>
+		<string name="n0" value="入侵者将受到惩罚！"/>
+		<string name="n1" value="加布里埃尔永远逃不掉！"/>
+	</imgdir>
+    <imgdir name="2159304">
+		<string name="name" value="可疑入口"/>
+	</imgdir>
+    <imgdir name="2159305">
+		<string name="name" value="旺尼"/>
+	</imgdir>
+    <imgdir name="2159306">
+		<string name="name" value="科里的试剂瓶"/>
+	</imgdir>
+    <imgdir name="2159307">
+		<string name="name" value="玛斯提马"/>
+		<string name="func" value="部下"/>
+		<string name="d0" value="指挥官！很高兴看到你醒来！"/>
+		<string name="d1" value="指挥官！很高兴看到你醒来！"/>
+	</imgdir>
+    <imgdir name="2159308">
+		<string name="name" value="阿卡利姆"/>
+		<string name="func" value="指挥官"/>
+		<string name="d0" value="你有事找我吗？"/>
+		<string name="d1" value="你有事找我吗？"/>
+	</imgdir>
+    <imgdir name="2159309">
+		<string name="name" value="阿卡利姆"/>
+		<string name="func" value="指挥官"/>
+		<string name="d0" value="一切都应该如伟大者所愿..."/>
+		<string name="d1" value="一切都应该如伟大者所愿..."/>
+	</imgdir>
+</imgdir>

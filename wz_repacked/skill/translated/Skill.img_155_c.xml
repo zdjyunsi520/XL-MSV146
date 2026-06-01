@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="90000000"><string name="name" value="即死"/><string name="desc" value=""/><string name="h1" value="即死 "/></imgdir>
+    <imgdir name="90001001"><string name="name" value="击倒"/><string name="desc" value=""/><string name="h1" value="一击必杀 "/></imgdir>
+    <imgdir name="90001002"><string name="name" value="减速"/><string name="desc" value=""/><string name="h1" value="减速 "/></imgdir>
+    <imgdir name="90001003"><string name="name" value="中毒"/><string name="desc" value=""/><string name="h1" value="中毒 "/></imgdir>
+    <imgdir name="90001004"><string name="name" value="黑暗 "/><string name="desc" value=""/><string name="h1" value="黑暗 "/><string name="h2" value="黑暗 "/></imgdir>
+    <imgdir name="90001005"><string name="name" value="封印 "/><string name="desc" value=""/><string name="h1" value="封印 "/></imgdir>
+    <imgdir name="90001006"><string name="name" value="冰冻"/><string name="desc" value=""/><string name="h1" value="冰冻 "/><string name="h2" value="冰冻"/></imgdir>
+    <imgdir name="91000000"><string name="name" value="灵巧旗帜"/><string name="desc" value="提升公会成员的命中率和回避率。"/><string name="h" value="命中率+#ar%，回避率+#er% "/></imgdir>
+    <imgdir name="91000001"><string name="name" value="经验旗帜"/><string name="desc" value="提升公会成员打猎怪物时获得的经验值。 "/><string name="h" value="经验值获取+#expR%"/></imgdir>
+    <imgdir name="91000002"><string name="name" value="坚韧旗帜"/><string name="desc" value="提升公会成员的物理防御和魔法防御。"/><string name="h" value="物理防御+#pddR%，魔法防御+#mddR%"/></imgdir>
+    <imgdir name="91000003"><string name="name" value="凶猛旗帜"/><string name="desc" value="提升公会成员的物理攻击力和魔法攻击力。"/><string name="h" value="物理攻击力+#padX，魔法攻击力+#madX"/></imgdir>
+    <imgdir name="91000004"><string name="name" value="机动旗帜"/><string name="desc" value="提升公会成员的移动速度和跳跃力。"/><string name="h" value="移动速度+#psdSpeed，跳跃力+#psdJump"/></imgdir>
+    <imgdir name="91000005"><string name="name" value="致命旗帜"/><string name="desc" value="提升公会成员的暴击率。"/><string name="h" value="暴击率+#cr%"/></imgdir>
+    <imgdir name="91000006"><string name="name" value="丰饶旗帜"/><string name="desc" value="每周一提供特殊药水，满满的福利！"/><string name="h" value="每周一提供#u瓶完全恢复HP和MP的药水 "/></imgdir>
+    <imgdir name="92000000"><string name="name" value="草药学"/><string name="desc" value="在草药旁边按空格键即可采集。需要装备草药学工具才能使用哦～"/></imgdir>
+    <imgdir name="92010000"><string name="name" value="采矿"/><string name="desc" value="在矿石旁边按空格键即可采集。需要装备采矿工具才能使用哦～"/></imgdir>
+    <imgdir name="92020000"><string name="name" value="锻造"/><string name="desc" value="可以制作各种装备哦，打造属于你的神兵利器！"/></imgdir>
+    <imgdir name="92030000"><string name="name" value="饰品制作"/><string name="desc" value="可以制作各种精美饰品，闪闪发光惹人爱～"/></imgdir>
+    <imgdir name="92040000"><string name="name" value="炼金术"/><string name="desc" value="可以进行炼金术，化腐朽为神奇～"/></imgdir>
+    <imgdir name="80001152"><string name="name" value="星岩融合"/><string name="desc" value="[最高等级：1]\n可以将2个不同的星岩融合为新的星岩，还有可能提升等级哦！"/></imgdir>
+</imgdir>

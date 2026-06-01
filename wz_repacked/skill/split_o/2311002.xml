@@ -1,0 +1,5 @@
+<imgdir name="2311002">
+        <string name="name" value="Mystic Door" />
+        <string name="desc" value="Creates a portal that leads to the nearest town. All members of the party can use it multiple times until the portal disappears. #cPress Up Key# to move.\nRequired Skill: #cDispell Lv. 3#" />
+        <string name="h" value="MP #mpCon, Portal Duration: #time sec" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="21100004">
+        <string name="name" value="Combo Smash" />
+        <string name="desc" value="Uses the polearm to fire a burst of energy at enemies in front of you. Can only be used when your #cCombo Count is 30 or higher#.\n[Command: #cDown Arrow Key and Right Arrow Key + Attack Key#]\nRequired Skill: #cCombo Ability Lv. 1#" />
+        <string name="h" value="Damage: #damage%, Max Monsters Hit: #mobCount" />
+    </imgdir>

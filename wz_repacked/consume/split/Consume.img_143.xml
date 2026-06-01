@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046929">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +5\r\nAccuracy: +15\r\n#"/>
+		<string name="desc" value="Improves Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046930">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\nAccuracy: +15\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046931">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+		<string name="desc" value="Improves Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046932">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\nAccuracy: +5\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046939">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+		<string name="desc" value="Improves Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046940">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack +5\r\nMagic DEF: +10\r\nAccuracy: +15\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046941">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+		<string name="desc" value="Improves Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046942">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\nAccuracy: +5\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+	</imgdir>
+    <imgdir name="2046943">
+		<string name="name" value="8th Anniversary Premium Scroll for One-Handed Weapon for M. ATT 10%"/>
+		<string name="desc" value="Improves Magic Attack on 8th Anniversary one-handed weapons. Success rate: 10%, Weapon Attack +9. If it fails, the item will be completely destroyed. "/>
+	</imgdir>
+    <imgdir name="2046944">
+		<string name="name" value="8th Anniversary Premium Scroll for One-Handed Weapon for ATT 10%"/>
+		<string name="desc" value="Improves Attack on 8th Anniversary one-handed weapons. Success rate: 10%, Weapon Attack +9. If it fails, the item will be completely destroyed. "/>
+	</imgdir>
+    <imgdir name="2046945">
+		<string name="name" value="8th Anniversary Premium Scroll for One-Handed Weapon for M. ATT 10%"/>
+		<string name="desc" value="Improves Magic Attack on Maple Amethysian and Grand Maple Amethysian One-Handed weapons. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMagic Attack: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046946">
+		<string name="name" value="8th Anniversary Premium Scroll for One-Handed Weapon for ATT 10%"/>
+		<string name="desc" value="Improves Attack on Maple Amethysian and Grand Maple Amethysian One-Handed weapons. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nWeapon Attack: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046947">
+		<string name="name" value="Premium Scroll for One-Handed Weapon for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7 to +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046948">
+		<string name="name" value="Scroll for One-Handed Weapon Magic ATT 10%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7 to +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046953">
+		<string name="name" value="Premium Scroll for One-Handed Weapon for ATT 25%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7 to +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046954">
+		<string name="name" value="Scroll for One-Handed Weapon Magic ATT 25%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7 to +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046955">
+		<string name="name" value="ES Scroll for One-Handed Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cCan be used on Lv.100 - 120 equipment\r\nSuccess Rate: 60%\r\nWeapon ATT +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046956">
+		<string name="name" value="ES Scroll for One-Handed Weapon Magic ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cCan be used on Lv.100 - 120 equipment\r\nSuccess Rate: 60%\r\nMagic ATT +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046962">
+		<string name="name" value="Scroll for One-Handed Weapon for ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046963">
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 40%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nMagic Attack: +5\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046335">
+		<string name="name" value="高贵饰品强化卷轴 幸运 50%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n幸运：+3\r\n最大生命值：+5\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046336">
+		<string name="name" value="高贵饰品强化卷轴 生命值 65%"/>
+		<string name="desc" value="强化饰品的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n最大生命值：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2046337">
+		<string name="name" value="高贵饰品强化卷轴 生命值 15%"/>
+		<string name="desc" value="强化饰品的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大生命值：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046338">
+		<string name="name" value="高贵饰品强化卷轴 魔法值 65%"/>
+		<string name="desc" value="强化饰品的最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n最大魔法值：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2046339">
+		<string name="name" value="高贵饰品强化卷轴 魔法值 15%"/>
+		<string name="desc" value="强化饰品的最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大魔法值：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2046340">
+		<string name="name" value="欢乐7周年暗黑饰品强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046341">
+		<string name="name" value="欢乐7周年暗黑饰品强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046342">
+		<string name="name" value="传说饰品强化卷轴 力量 20%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+4\r\n最大生命值：+20\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046343">
+		<string name="name" value="传说饰品强化卷轴 智力 20%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n智力：+4\r\n最大生命值：+10\r\n最大魔法值：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046344">
+		<string name="name" value="传说饰品强化卷轴 敏捷 20%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n敏捷：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046345">
+		<string name="name" value="传说饰品强化卷轴 幸运 20%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n幸运：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046346">
+		<string name="name" value="传说暗黑饰品强化卷轴 力量 40%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+4\r\n最大生命值：+20\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046347">
+		<string name="name" value="传说暗黑饰品强化卷轴 智力 40%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n智力：+4\r\n最大生命值：+10\r\n最大魔法值：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046348">
+		<string name="name" value="传说饰品强化卷轴 敏捷 40%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n敏捷：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046349">
+		<string name="name" value="传说暗黑饰品强化卷轴 幸运 40%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n幸运：+4\r\n最大生命值：+10\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046350">
+		<string name="name" value="传说饰品强化卷轴 力量 70%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+2\r\n最大生命值：+10\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046351">
+		<string name="name" value="传说饰品强化卷轴 智力 70%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+2\r\n最大生命值：+5\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046352">
+		<string name="name" value="传说饰品强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+2\r\n最大生命值：+5\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046353">
+		<string name="name" value="传说饰品强化卷轴 幸运 70%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+2\r\n最大生命值：+5\r\n最大魔法值：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046354">
+		<string name="name" value="传说饰品强化卷轴 力量 20%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+4\r\n最大生命值：+20\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+</imgdir>

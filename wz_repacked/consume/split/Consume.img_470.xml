@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2432036">
+		<string name="desc" value="A gift box to commemorate Mexican Independence Day."/>
+		<string name="name" value="Mexican Independence Day Package"/>
+	</imgdir>
+    <imgdir name="2432037">
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+		<string name="name" value="Thunder Breaker Hot Day Gift Box 9/7"/>
+	</imgdir>
+    <imgdir name="2432038">
+		<string name="name" value="Wind Archer Hot Day Gift Box 9/8"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432080">
+		<string name="name" value="Dawn Warrior Hot Day Gift Box 9/14"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432081">
+		<string name="name" value="Cygnus Hot Day Gift Box 9/15"/>
+		<string name="desc" value="A box prepared by Cassandra to thank you for logging in today.\n#cDouble-click to open.#"/>
+	</imgdir>
+    <imgdir name="2432044">
+		<string name="name" value="Cassandra's Makeover Box 1"/>
+		<string name="desc" value="A gift for completing Cassandra's Makeover Mission Week 1. Isn't it time you had a makeover?"/>
+	</imgdir>
+    <imgdir name="2432045">
+		<string name="name" value="Cassandra's Makeover Box 2"/>
+		<string name="desc" value="A gift for completing Cassandra's Makeover Mission Week 2. Isn't it time you had a makeover?"/>
+	</imgdir>
+    <imgdir name="2432046">
+		<string name="name" value="Cassandra's Makeover Box 3"/>
+		<string name="desc" value="A gift for completing Cassandra's Makeover Mission Week 3. Isn't it time you had a makeover?"/>
+	</imgdir>
+    <imgdir name="2432047">
+		<string name="name" value="Cassandra's Makeover Box 4"/>
+		<string name="desc" value="A gift for completing Cassandra's Makeover Mission Week 4. Isn't it time you had a makeover?"/>
+	</imgdir>
+    <imgdir name="2432048">
+		<string name="name" value="August Makeover Gift Box 1"/>
+		<string name="desc" value="Double-click to get an August Makeover Event gift!\nPet equipment is given out once a week, and a random avatar item will be given out once a day!"/>
+	</imgdir>
+    <imgdir name="2432049">
+		<string name="name" value="August Makeover Pet Gift Box"/>
+		<string name="desc" value="A one-of-a-kind August Makeover Pet Gift Box!\nContains a pet snack, along with a permanent pet and pet food of your choice!"/>
+	</imgdir>
+    <imgdir name="2432050">
+		<string name="name" value="August Makeover Gift Box 2"/>
+		<string name="desc" value="Double-click to get an August Makeover Event gift!\nPet equipment is given out once a week, and a random avatar item will be given out once a day!"/>
+	</imgdir>
+    <imgdir name="2432051">
+		<string name="name" value="August Makeover Gift Box 3"/>
+		<string name="desc" value="Double-click to get an August Makeover Event gift!\nPet equipment is given out once a week, and a random avatar item will be given out once a day!"/>
+	</imgdir>
+    <imgdir name="2432052">
+		<string name="name" value="August Makeover Gift Box 4"/>
+		<string name="desc" value="Double-click to get an August Makeover Event gift!\nPet equipment is given out once a week, and a random avatar item will be given out once a day!"/>
+	</imgdir>
+    <imgdir name="2023168">
+		<string name="desc" value="It is a very spicy Kebab. The directional keys are reversed after consumption. Does not stack."/>
+		<string name="name" value="Spicy Kebab"/>
+	</imgdir>
+    <imgdir name="2023169">
+		<string name="desc" value="This Han Gwa is twice as tasty. Speed is doubled after consumption. Does not stack."/>
+		<string name="name" value="Super Han Gwa"/>
+	</imgdir>
+    <imgdir name="2023170">
+		<string name="desc" value="Spoiled Rice Drop Soup. Screen will go dark after consumption. Does not stack."/>
+		<string name="name" value="Spoiled Rice Drop Soup"/>
+	</imgdir>
+    <imgdir name="2023172">
+		<string name="desc" value="Power up with Rice Drop Soup!\n#cDuration: 30 min\nWeapon ATT: +15\nMagic ATT: +15#"/>
+		<string name="name" value="Delicious Rice Drop Soup"/>
+	</imgdir>
+    <imgdir name="2023174">
+		<string name="desc" value="The powers of January has become stronger!\n#cDuration: 30 min\nHP and MP Buff#"/>
+		<string name="name" value="Powers of January"/>
+	</imgdir>
+    <imgdir name="2023180">
+		<string name="desc" value="Rice cake soup's the best for new year! 200 HP &amp; Mana for 30 minutes. Can be stacked with other buffs."/>
+		<string name="name" value="Ancestorial Powers"/>
+	</imgdir>
+</imgdir>

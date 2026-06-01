@@ -1,0 +1,5 @@
+<imgdir name="41110006">
+        <string name="name" value="Willow Dodge" />
+        <string name="h" value="Attack Boost Chance: #prop%, Evasion: #y%, Damage: +#damR%. Damage Boost can be stacked #x times." />
+        <string name="desc" value="Hayato&apos;s secret technique. After dodging an attack, gain a chance to get boosted attack damage. Stacks up to 5 times." />
+    </imgdir>

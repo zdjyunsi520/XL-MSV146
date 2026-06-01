@@ -1,0 +1,126 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
+					<string name="Title" value="Min Crit"/>
+					<string name="Desc" value="The minimum damage bonus for Critical attacks. You can enhance this value by using skills or items. This value does not affect normal damage."/>
+				</imgdir>
+    <imgdir name="3">
+					<vector name="lt" x="107" y="76"/>
+					<vector name="rb" x="165" y="92"/>
+					<string name="Title" value="Max Crit"/>
+					<string name="Desc" value="The maximum damage bonus for Critical attacks. You can enhance this value by using skills or items. This value does not affect normal damage."/>
+				</imgdir>
+    <imgdir name="4">
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
+					<string name="Title" value="Boss ATT"/>
+					<string name="Desc" value="The higher your Boss ATT, the greater your damage on Boss monsters. This value does not affect normal damage. It is determined by the total Boss ATT of your skills and equipment items."/>
+				</imgdir>
+    <imgdir name="5">
+					<vector name="lt" x="107" y="95"/>
+					<vector name="rb" x="165" y="110"/>
+					<string name="Title" value="Ignore Defense"/>
+					<string name="Desc" value="The higher your Defense Ignore value, the less enemy defenses will reduce your attack damage. It is determined by the total Defense Ignore amount of your skills and equipment items."/>
+				</imgdir>
+    <imgdir name="6">
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
+					<string name="Title" value="Status Resistance"/>
+					<string name="Desc" value="Your chance of resisting abnormal status effects. The higher it is, the lower your chance of being affected by harmful effects. You can enhance this value by using skills or items. \r\nUp to 100%"/>
+				</imgdir>
+    <imgdir name="7">
+					<vector name="lt" x="107" y="113"/>
+					<vector name="rb" x="165" y="128"/>
+					<string name="Title" value="Power Stance"/>
+					<string name="Desc" value="Your chance of being pushed back by monster attacks. You can enhance this value by using skills. \r\nUp to 100%"/>
+				</imgdir>
+    <imgdir name="8">
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
+					<string name="Title" value="Weapon Defense"/>
+					<string name="Desc" value="The higher your Weapon Defense, the less weapon damage you will receive from enemies. It is determined by adding your stat to the Weapon DEF of items equipped."/>
+				</imgdir>
+    <imgdir name="9">
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="163"/>
+					<string name="Title" value="Magic Defense"/>
+					<string name="Desc" value="The higher your Magic Defense, the less magic damage you will receive from enemies. It is determined by adding your Magic Defense stat to that of all equipped armor items."/>
+				</imgdir>
+    <imgdir name="10">
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="181"/>
+					<string name="Title" value="Weapon Accuracy"/>
+					<string name="Desc" value="Stat that determines the accuracy of your Weapon Attack. The higher it is, the better chance you will have at landing eapon attacks. Determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="11">
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Magic Accuracy"/>
+					<string name="Desc" value="Stat that determines the accuracy of your Magic Attack. The higher it is, the better chance you will have at landingmagic attacks. Determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="12">
+					<vector name="lt" x="12" y="202"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="Weapon Avoidability"/>
+					<string name="Desc" value="Stat that determines your chance of avoiding weapon attacks. The higher it is, the better chance you will have at avoiding weapon attacks. Determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="13">
+					<vector name="lt" x="11" y="220"/>
+					<vector name="rb" x="69" y="235"/>
+					<string name="Title" value="Magic Avoidability"/>
+					<string name="Desc" value="Stat that determines your chance of avoiding magic attacks. The higher it is, the better chance you will have at avoiding magic attacks. Determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="14">
+					<vector name="lt" x="11" y="238"/>
+					<vector name="rb" x="69" y="254"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed cannot be increased beyond 140%. Skills and equipment can be used to increase or decrease your speed. Speed can be increased to 190% while riding a mount."/>
+				</imgdir>
+    <imgdir name="15">
+					<vector name="lt" x="107" y="238"/>
+					<vector name="rb" x="165" y="253"/>
+					<string name="Title" value="Jump"/>
+					<string name="Desc" value="How high you can jump. It cannot be increased beyond 123%. Skills and equipment can be used to increase or decrease your Jump."/>
+				</imgdir>
+    <imgdir name="16">
+					<vector name="lt" x="11" y="293"/>
+					<vector name="rb" x="69" y="308"/>
+					<string name="Title" value="Honor Level"/>
+					<string name="Desc" value="Accumulate Honor EXP to increase your character's Honor Level. You will receive a Circulator with each level-up, up to Lv. 31, when you will gain Circulators for earning set amounts of Honor EXP."/>
+				</imgdir>
+    <imgdir name="17">
+					<vector name="lt" x="11" y="311"/>
+					<vector name="rb" x="69" y="326"/>
+					<string name="Title" value="Honor EXP"/>
+					<string name="Desc" value="Once you reach 100% Honor EXP, you will gain a new Honor Level. Honor EXP can be acquired from Medals of Honor in the Fight for Azwan."/>
+				</imgdir>
+    <imgdir name="18">
+					<vector name="lt" x="12" y="339"/>
+					<vector name="rb" x="200" y="363"/>
+					<string name="Title" value="Ability"/>
+					<string name="Desc" value="Your latent abilities. The powers are opened in order when reaching Lv. 30, Lv. 50, and Lv. 70, and can be reset with a Circulator."/>
+				</imgdir>
+    <imgdir name="DisabledZero">
+				<imgdir name="gaugeGuide">
+					<imgdir name="0">
+						<string name="Title" value="Waiting Zero"/>
+						<string name="Desc" value="Zero's HP and TF during the Tag standby mode."/>
+						<vector name="lt" x="0" y="0"/>
+						<vector name="rb" x="50" y="72"/>
+					</imgdir>
+    <imgdir name="hpGauge">
+					<imgdir name="0">
+						<string name="Title" value="Health Point"/>
+						<string name="Desc" value="Zero's HP during the Tag standby mode. 16% Max HP is restored every 4 seconds."/>
+						<vector name="lt" x="50" y="45"/>
+						<vector name="rb" x="152" y="55"/>
+					</imgdir>
+    <imgdir name="tfGauge">
+					<imgdir name="0">
+						<string name="Title" value="Time Force"/>
+						<string name="Desc" value="Zero's Time Force (TF) during the Tag standby mode. 20 TF is restored every second."/>
+						<vector name="lt" x="50" y="55"/>
+						<vector name="rb" x="152" y="65"/>
+					</imgdir>
+</imgdir>

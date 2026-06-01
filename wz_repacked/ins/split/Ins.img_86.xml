@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010538">
+		<string name="name" value="Mechanical Chair"/>
+		<string name="desc" value="A mechanical chair that recovers HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010539">
+		<string name="name" value="Red Dragon Chair"/>
+		<string name="desc" value="It's a little on the hot side, but at least it comes with a wicked red dragon! Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010540">
+		<string name="name" value="Blue Dragon Chair"/>
+		<string name="desc" value="It's a little on the cold side, but at least it comes with a wicked blue dragon! Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010541">
+		<string name="name" value="Big Money Chair"/>
+		<string name="desc" value="Everybody's a billionaire in this chair! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010542">
+		<string name="name" value="Cool Cat Chair "/>
+		<string name="desc" value="Let's fool around with a cat next to a fan. Because, why not? Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010543">
+		<string name="name" value="Pink Bean's Magic Chair"/>
+		<string name="desc" value="Smells a whole lot like sweat and cotton candy... MAGIC! Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010544">
+		<string name="name" value="Tropical Cooler Chair"/>
+		<string name="desc" value="Filled with refreshing fruit, guaranteed to soak your bottom! Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010545">
+		<string name="name" value="Rainy Fox Chair"/>
+		<string name="desc" value="You're going to get a little wet and you'll probably be covered in fur. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010546">
+		<string name="name" value="Black Dragon Devil Throne"/>
+		<string name="desc" value="Cool people always wear black. ALWAYS. Even at night on their bicycles.  Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010547">
+		<string name="name" value="Magical Book"/>
+		<string name="desc" value="You just feel so much smarter than everybody else. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010548">
+		<string name="name" value="Beautiful Music Chair"/>
+		<string name="desc" value="A lovely chair for lovely couples. Lonely people may also sit in it, but it won't be fun. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010549">
+		<string name="name" value="Sheep Sprout Chair"/>
+		<string name="desc" value="Is it just me, or is it sleepy in here? Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010550">
+		<string name="name" value="Bunny Moon Homecoming Chair"/>
+		<string name="desc" value="It said it would return the day after tomorrow with rice cakes. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010551">
+		<string name="name" value="Devil Black Dog Throne"/>
+		<string name="desc" value="A chair with an overwhelming stare. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010552">
+		<string name="name" value="Free Hug Cat Chair"/>
+		<string name="desc" value="Gives lousy hugs, but you get what you pay for. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010553">
+		<string name="name" value="Devil Sheep Chair"/>
+		<string name="desc" value="A truly devilish sheep. Napping not advised. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010554">
+		<string name="name" value="Pink Gamepad Chair"/>
+		<string name="desc" value="Girl gamers are real, and they’re made of marshmallows, and they smell like unicorns. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010555">
+		<string name="name" value="Bright Night Owl Chair"/>
+		<string name="desc" value="Just hoo’in around. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010556">
+		<string name="name" value="Skin Empress Chair"/>
+		<string name="desc" value="The chair isn’t made of skin, but it sure is nice on yours! Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010557">
+		<string name="name" value="Sleepy Bird Chair"/>
+		<string name="desc" value="Drowse among the baby birds without a worry. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+</imgdir>

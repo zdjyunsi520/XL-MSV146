@@ -1,0 +1,8 @@
+<imgdir name="1121016">
+        <string name="name" value="Magic Crash" />
+        <string name="desc" value="Has a chance to #ccancel all buffs# on nearby enemies and restrict them from acquiring new buffs for a short time." />
+        <string name="h" value="MP Cost: #mpCon, at #prop% chance, #ccancels all buffs#. For #time sec, restrict buff of #mobCount enemies\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Has a chance to #ccancel all buffs# on nearby enemies and restrict them from acquiring new buffs for a short time." />
+        <string name="ph" value="MP Cost: #mpCon, at #prop% chance, #ccancels all buffs#. For #time sec, restrict buff of #mobCount enemies\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, at #prop% chance, #ccancels all buffs#. For #time sec, restrict buff of #mobCount enemies\nCooldown: #cooltime sec" />
+    </imgdir>

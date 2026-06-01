@@ -1,0 +1,7 @@
+<imgdir name="31111000">
+        <string name="name" value="审判" />
+        <string name="desc" value="严厉地审判你的敌人吧！攻击附近多个敌人，造成暴击伤害并有概率追加暴击。" />
+        <string name="h" value="HP消耗：#hpCon，怒气消耗：#forceCon，最大攻击怪物数：#mobCount，攻击次数：#attackCount，伤害：#damage%，暴击率：+#cr%" />
+        <string name="pdesc" value="严厉地审判你的敌人吧！攻击附近多个敌人，造成暴击伤害并有概率追加暴击。" />
+        <string name="ph" value="HP消耗：#hpCon，怒气消耗：#forceCon，最大攻击怪物数：#mobCount，攻击次数：#attackCount，伤害：#damage%，暴击率：+#cr%" />
+    </imgdir>

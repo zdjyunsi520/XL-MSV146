@@ -1,0 +1,73 @@
+<imgdir name="Consume.img">
+    <imgdir name="2870530">
+		<string name="name" value="Oda Samurai Captain Familiar"/>
+	</imgdir>
+    <imgdir name="2870531">
+		<string name="name" value="Oda Warrior Familiar"/>
+	</imgdir>
+    <imgdir name="2870532">
+		<string name="name" value="Oda Advanced Scout Familiar"/>
+	</imgdir>
+    <imgdir name="2870533">
+		<string name="name" value="Conjureye Familiar"/>
+	</imgdir>
+    <imgdir name="2870534">
+		<string name="name" value="Oda Onmyouji"/>
+	</imgdir>
+    <imgdir name="2870535">
+		<string name="name" value="Floateye Familiar"/>
+	</imgdir>
+    <imgdir name="2870536">
+		<string name="name" value="Onieye Familiar"/>
+	</imgdir>
+    <imgdir name="2870537">
+		<string name="name" value="Oda Scout Familiar"/>
+	</imgdir>
+    <imgdir name="2870538">
+		<string name="name" value="Oda Guardsman Familiar"/>
+	</imgdir>
+    <imgdir name="2023189">
+		<string name="name" value="Lightning God's Blessing"/>
+		<string name="desc" value="Grants you Weapon/Magic ATT +16. Stacks with other Weapon/Magic ATT buffs."/>
+	</imgdir>
+    <imgdir name="2431007">
+		<string name="name" value="Rank 7 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431008">
+		<string name="name" value="Rank 6 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431009">
+		<string name="name" value="Rank 5 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431010">
+		<string name="name" value="Rank 4 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431011">
+		<string name="name" value="Rank 3 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431012">
+		<string name="name" value="Rank 2 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431023">
+		<string name="name" value="Rank 1 Red Leaf High Box"/>
+		<string name="desc" value="A present from the Homeroom Teacher for helping with the ghosts of Red Leaf High. Are you curious to what's inside? \n#Double-click# and find out."/>
+	</imgdir>
+    <imgdir name="2431024">
+		<string name="name" value="Unidentified Crayons"/>
+		<string name="desc" value="Crayons stolen by Cat Burglar. Pick it up to see what color it is."/>
+	</imgdir>
+    <imgdir name="2431025">
+		<string name="name" value="Double Rabbit Rickshaw 7-Day Coupon"/>
+		<string name="desc" value="Double-click to get a 7-day [Double Rabbit Rickshaw] mount.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2431026">
+		<string name="name" value="Five Colored Pouch"/>
+		<string name="desc" value="Pouch woven together with five colors of cloth.#cDouble-click to open#\nMust use before 6/12/2013."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022579">
+		<string name="name" value="King Pepe Pirate Armor Box"/>
+		<string name="desc" value="King Pepe's box containing armor for Pirates."/>
+	</imgdir>
+    <imgdir name="2022580">
+		<string name="name" value="King Pepe Warrior Box"/>
+		<string name="desc" value="King Pepe's box containing an equipment item for Warriors."/>
+	</imgdir>
+    <imgdir name="2022581">
+		<string name="name" value="King Pepe Magician Box"/>
+		<string name="desc" value="King Pepe's box containing an equipment item for Magicians."/>
+	</imgdir>
+    <imgdir name="2022582">
+		<string name="name" value="King Pepe Bowman Box"/>
+		<string name="desc" value="King Pepe's box containing an equipment item for Bowmen."/>
+	</imgdir>
+    <imgdir name="2022583">
+		<string name="name" value="King Pepe Thief Box"/>
+		<string name="desc" value="King Pepe's box containing an equipment item for Thieves."/>
+	</imgdir>
+    <imgdir name="2022584">
+		<string name="name" value="King Pepe Pirate Box"/>
+		<string name="desc" value="King Pepe's box containing an equipment item for Pirates."/>
+	</imgdir>
+    <imgdir name="2022585">
+		<string name="name" value="Pharaoh's Blessing Lv. 1"/>
+		<string name="desc" value="100% Damage, Attack Speed +1"/>
+	</imgdir>
+    <imgdir name="2022586">
+		<string name="name" value="Pharaoh's Blessing Lv. 2"/>
+		<string name="desc" value="200% Damage, Attack Speed +2"/>
+	</imgdir>
+    <imgdir name="2022587">
+		<string name="name" value="Pharaoh's Blessing Lv. 3"/>
+		<string name="desc" value="300% Damage, Attack Speed +3"/>
+	</imgdir>
+    <imgdir name="2022588">
+		<string name="name" value="Pharaoh's Blessing Lv. 4"/>
+		<string name="desc" value="400% Damage, Attack Speed +4"/>
+	</imgdir>
+    <imgdir name="2022613">
+		<string name="name" value="Pharaoh's Treasure Chest"/>
+		<string name="desc" value="A treasure chest containing Pharaoh's treasured items. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2022614">
+		<string name="name" value="Bingo Gift Box"/>
+		<string name="desc" value="A surprise gift box received after completing a line on the Bingo Board. Open it to discover what's inside!"/>
+	</imgdir>
+    <imgdir name="2022615">
+		<string name="name" value="Subway Lost and Found"/>
+		<string name="desc" value="A Lost and Found box accidentally ingested by Bubbling. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2022616">
+		<string name="name" value="Power Buff Lv. 1"/>
+		<string name="desc" value="100% Damage, Attack Speed +1"/>
+	</imgdir>
+    <imgdir name="2022617">
+		<string name="name" value="Power Buff Lv. 2"/>
+		<string name="desc" value="200% Damage, Attack Speed +2"/>
+	</imgdir>
+    <imgdir name="2022618">
+		<string name="name" value="Pharaoh's Treasure Chest"/>
+		<string name="desc" value="A treasure chest containing Pharaoh's precious items. Double-click to open."/>
+	</imgdir>
+    <imgdir name="2022620">
+		<string name="name" value="Handmade Sandwich"/>
+		<string name="desc" value="A sandwich made personally by Anna. Eat it in the morning to guarantee a sense of satisfaction all throughout the day."/>
+	</imgdir>
+    <imgdir name="2022621">
+		<string name="name" value="Tasty Milk"/>
+		<string name="desc" value="Fresh milk produced at the farm. \nRecovers around 100 HP."/>
+	</imgdir>
+    <imgdir name="2022622">
+		<string name="name" value="Squeezed Juice"/>
+		<string name="desc" value="Fresh juice produced at the farm. \nRecovers around 50 MP."/>
+	</imgdir>
+    <imgdir name="2022623">
+		<string name="name" value="Seasoned Frog Eggs and Mushrooms"/>
+		<string name="desc" value="A stinky dish made with Cursed Frog Eggs. Restore 400 HP if eaten."/>
+	</imgdir>
+</imgdir>

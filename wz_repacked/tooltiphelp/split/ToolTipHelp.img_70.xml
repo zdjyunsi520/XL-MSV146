@@ -1,0 +1,65 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="Armor Shop"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Cab Station"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Ticket Price Guideline"/>
+				<string name="Desc" value="\nPerion, Ellinia: 1200 Mesos, Henesys: 800 Mesos, Kerning City: 1000 Mesos\n\n\n- 90% Discount for Beginners!!"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Weapon Store"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="World Tour Info Desk"/>
+			</imgdir>
+    <imgdir name="690000030">
+			<imgdir name="0">
+				<string name="Title" value="Hotel"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Damp Forest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Dungeon"/>
+			</imgdir>
+    <imgdir name="690000025">
+			<imgdir name="0">
+				<string name="Title" value="Cab Station"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Henesys Market"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Henesys Park"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Dungeon"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="The Hill East of Henesys"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Henesys Hunting Ground"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Henesys"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="Maya's House"/>
+			</imgdir>
+    <imgdir name="10">
+				<string name="Title" value="World Tour Info Desk"/>
+			</imgdir>
+    <imgdir name="11">
+				<string name="Title" value="Dungeon (Towards Sleepywood)"/>
+			</imgdir>
+</imgdir>

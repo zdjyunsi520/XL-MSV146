@@ -1,0 +1,7 @@
+<imgdir name="3101003">
+        <string name="name" value="二段跳" />
+        <string name="desc" value="在空中进行第二次跳跃！" />
+        <string name="h" value="MP Cost: #mpCon, jumps a certain distance" />
+        <string name="pdesc" value="伤害附近敌人并击退它们。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Knock-back Chance: #prop%, Max Enemies Hit: #mobCount, Distance: #x.\nCooldown: #cooltime sec" />
+    </imgdir>

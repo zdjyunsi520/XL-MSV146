@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9990062">
+		<string name="name" value="10级武器"/>
+	</imgdir>
+    <imgdir name="9990063">
+		<string name="name" value="20级武器"/>
+	</imgdir>
+    <imgdir name="9990064">
+		<string name="name" value="30级武器"/>
+	</imgdir>
+    <imgdir name="9990065">
+		<string name="name" value="40级武器"/>
+	</imgdir>
+    <imgdir name="9990066">
+		<string name="name" value="50级武器"/>
+	</imgdir>
+    <imgdir name="9990067">
+		<string name="name" value="60级武器"/>
+	</imgdir>
+    <imgdir name="9990068">
+		<string name="name" value="70级武器"/>
+	</imgdir>
+    <imgdir name="9990069">
+		<string name="name" value="80级武器"/>
+	</imgdir>
+    <imgdir name="9990070">
+		<string name="name" value="90级武器"/>
+	</imgdir>
+    <imgdir name="9990071">
+		<string name="name" value="100级武器"/>
+	</imgdir>
+    <imgdir name="9990072">
+		<string name="name" value="110级武器"/>
+	</imgdir>
+    <imgdir name="9990073">
+		<string name="name" value="10级护甲"/>
+	</imgdir>
+    <imgdir name="9990074">
+		<string name="name" value="20级护甲"/>
+	</imgdir>
+    <imgdir name="9990075">
+		<string name="name" value="30级护甲"/>
+	</imgdir>
+    <imgdir name="9990076">
+		<string name="name" value="40级护甲"/>
+	</imgdir>
+    <imgdir name="9990077">
+		<string name="name" value="50级护甲"/>
+	</imgdir>
+    <imgdir name="9990078">
+		<string name="name" value="60级护甲"/>
+	</imgdir>
+    <imgdir name="9990079">
+		<string name="name" value="70级护甲"/>
+	</imgdir>
+    <imgdir name="9990080">
+		<string name="name" value="80级护甲"/>
+	</imgdir>
+    <imgdir name="9990081">
+		<string name="name" value="90级护甲"/>
+	</imgdir>
+</imgdir>

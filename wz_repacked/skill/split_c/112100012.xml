@@ -1,0 +1,5 @@
+<imgdir name="112100012">
+        <string name="name" value="高级雷电冲刺" />
+        <string name="desc" value="在#c雷电冲刺#中移动更远，造成更大伤害。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 冷却时间: #cooltime秒" />
+    </imgdir>

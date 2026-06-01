@@ -1,0 +1,68 @@
+<imgdir name="Map.img">
+    <imgdir name="chinese">
+		<imgdir name="744000000">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Homeroom"/>
+		</imgdir>
+		<imgdir name="744000001">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="School Roof"/>
+		</imgdir>
+		<imgdir name="744000002">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Custodian Closet"/>
+		</imgdir>
+		<imgdir name="744000003">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Principal's Office"/>
+		</imgdir>
+		<imgdir name="744000004">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Art Club Room"/>
+		</imgdir>
+		<imgdir name="744000005">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="School Infirmary"/>
+		</imgdir>
+		<imgdir name="744000006">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Ruined Classroom"/>
+		</imgdir>
+		<imgdir name="744000007">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Career Counseling"/>
+		</imgdir>
+		<imgdir name="744000008">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Pop Quiz Closet"/>
+		</imgdir>
+		<imgdir name="744000009">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Home Ec. Room"/>
+		</imgdir>
+		<imgdir name="744000010">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Gymnasium"/>
+		</imgdir>
+		<imgdir name="744000011">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Science Lab"/>
+		</imgdir>
+		<imgdir name="744000012">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Library"/>
+		</imgdir>
+		<imgdir name="744000013">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Empty Classroom"/>
+		</imgdir>
+		<imgdir name="744000014">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Judo Dojo"/>
+		</imgdir>
+		<imgdir name="744000015">
+			<string name="streetName" value="Red Leaf High School"/>
+			<string name="mapName" value="Band Hall"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

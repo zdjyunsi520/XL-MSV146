@@ -1,0 +1,7 @@
+<imgdir name="24120006">
+        <string name="name" value="手杖专家" />
+        <string name="desc" value="提升手杖熟练度、物理攻击力和最低暴击伤害。\n前置技能：#c手杖精通 Lv.10#" />
+        <string name="h" value="Cane Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
+        <string name="pdesc" value="提升手杖熟练度、物理攻击力和最低暴击伤害。\n前置技能：#c手杖精通 Lv.10#" />
+        <string name="ph" value="Cane Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

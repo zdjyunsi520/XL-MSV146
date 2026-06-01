@@ -1,0 +1,98 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046202">
+		<string name="name" value="防具强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046203">
+		<string name="name" value="防具强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046204">
+		<string name="name" value="防具强化卷轴 力量 50%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046205">
+		<string name="name" value="防具强化卷轴 智力 50%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046206">
+		<string name="name" value="防具强化卷轴 敏捷 50%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046207">
+		<string name="name" value="防具强化卷轴 幸运 50%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046208">
+		<string name="name" value="暗黑防具强化卷轴 力量 40%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046209">
+		<string name="name" value="暗黑防具强化卷轴 智力 40%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046210">
+		<string name="name" value="暗黑防具强化卷轴 敏捷 40%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046211">
+		<string name="name" value="暗黑防具强化卷轴 幸运 40%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046212">
+		<string name="name" value="暗黑防具强化卷轴 生命值 40%"/>
+		<string name="desc" value="强化防具的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：70%\r\n最大生命值+150\r\n#"/>
+	</imgdir>
+    <imgdir name="2046213">
+		<string name="name" value="【6周年】防具强化卷轴 20%"/>
+		<string name="desc" value="强化防具的最大生命值和最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n最大生命值：+200\r\n最大魔法值：+200\r\n#"/>
+	</imgdir>
+    <imgdir name="2046214">
+		<string name="name" value="【6周年】防具强化卷轴 提升 20%"/>
+		<string name="desc" value="强化防具的力量、智力、敏捷和幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046215">
+		<string name="name" value="Roora核心"/>
+		<string name="desc" value="可用战略勋章购买。在冰冻机器Alpha和访客装备上力量+1，生命值+1，物理防御+1。"/>
+	</imgdir>
+    <imgdir name="2046216">
+		<string name="name" value="Hase核心"/>
+		<string name="desc" value="可用战略勋章购买。在冰冻机器Alpha和访客装备上敏捷+1，生命值+1，物理防御+3，魔法防御+1。"/>
+	</imgdir>
+    <imgdir name="2046217">
+		<string name="name" value="Dada核心"/>
+		<string name="desc" value="可用战略勋章购买。在冰冻机器Alpha和访客装备上智力+1，生命值+1，物理防御+2，魔法防御+2。"/>
+	</imgdir>
+    <imgdir name="2046218">
+		<string name="name" value="Urene核心"/>
+		<string name="desc" value="可用战略勋章购买。在冰冻机器Alpha和访客装备上幸运+1，生命值+1，物理防御+3，魔法防御+1。"/>
+	</imgdir>
+    <imgdir name="2046223">
+		<string name="name" value="防具强化卷轴 力量 60%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046224">
+		<string name="name" value="防具强化卷轴 智力 60%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046225">
+		<string name="name" value="防具强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n#"/>
+	</imgdir>
+</imgdir>

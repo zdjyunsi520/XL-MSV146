@@ -1,0 +1,5 @@
+<imgdir name="13111024">
+        <string name="name" value="翡翠之花" />
+        <string name="desc" value="召唤翡翠水晶花吸引附近敌人。被花香陶醉的敌人会减速～" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒。水晶花HP：#x 使被影响的敌人减速。" />
+    </imgdir>

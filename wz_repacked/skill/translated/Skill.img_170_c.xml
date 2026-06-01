@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="1120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="1120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="1120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="1120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="1120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="1120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="1120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="1120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="1120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="1120043"><string name="name" value="进阶斗气-强化"/><string name="desc" value="每个额外的斗气球都会增加伤害。"/><string name="h" value="每个额外斗气球伤害增加#damR%。"/></imgdir>
+    <imgdir name="1120044"><string name="name" value="进阶斗气-机率"/><string name="desc" value="提升一次充能2个斗气球的概率。"/><string name="h" value="额外#prop%概率充能第二个斗气球"/></imgdir>
+    <imgdir name="1120045"><string name="name" value="进阶斗气-Boss冲刺"/><string name="desc" value="根据斗气数量暂时提升Boss攻击力。"/><string name="h" value="根据斗气数量提升Boss攻击力#w%。"/></imgdir>
+    <imgdir name="1120046"><string name="name" value="进阶终极攻击-命中"/><string name="desc" value="提升进阶终极攻击的命中值加成。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="1120047"><string name="name" value="进阶终极攻击-猛攻"/><string name="desc" value="提升进阶终极攻击的物理攻击力加成。"/><string name="h" value="物理攻击力+#padX"/></imgdir>
+    <imgdir name="1120048"><string name="name" value="进阶终极攻击-机率"/><string name="desc" value="提升进阶终极攻击的发动概率。"/><string name="h" value="发动概率+#prop%"/></imgdir>
+    <imgdir name="1120049"><string name="name" value="狂怒-强化"/><string name="desc" value="提升狂怒的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="1120050"><string name="name" value="狂怒-扩散"/><string name="desc" value="增加狂怒可攻击的怪物数量。"/><string name="h" value="攻击怪物数+#targetPlus"/></imgdir>
+    <imgdir name="1120051"><string name="name" value="狂怒-额外攻击"/><string name="desc" value="增加狂怒的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="1121052"><string name="name" value="升龙怒"/><string name="desc" value="将内心的怒火压缩成一颗强大的能量球。"/><string name="h" value="消耗MP：#mpCon，伤害：#damage%，攻击次数：#attackCount，攻击敌人数：#mobCount\n冷却时间：#cooltime秒 "/></imgdir>
+</imgdir>

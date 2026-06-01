@@ -1,0 +1,5 @@
+<imgdir name="70000041">
+        <string name="name" value="物防转伤害" />
+        <string name="desc" value="按物理防御的比例提升最终伤害。" />
+        <string name="h" value="#pdd2dam% of Weapon DEF added as additional damage" />
+    </imgdir>

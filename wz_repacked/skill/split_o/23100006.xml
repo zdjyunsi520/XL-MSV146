@@ -1,0 +1,7 @@
+<imgdir name="23100006">
+        <string name="name" value="Final Attack: Dual Bowguns" />
+        <string name="desc" value="Grants a chance to deal additional damage after an attack. Must have Dual Bowguns equipped.\nRequired Skill: #cDual Bowguns Mastery Lv. 3#" />
+        <string name="h" value="Final Attack Chance: #prop%, Final Attack Damage: #damage%, Number of Hits: #attackCount" />
+        <string name="pdesc" value="Grants a chance to deal additional damage after an attack. Must have Dual Bowguns equipped.\nRequired Skill: #cDual Bowguns Mastery Lv. 3#" />
+        <string name="ph" value="Final Attack Chance: #prop%, Final Attack Damage: #damage%, Number of Hits: #attackCount" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="22120002">
+        <string name="name" value="魔法精通" />
+        <string name="desc" value="提升魔法熟练度、魔法攻击力和暴击率。" />
+        <string name="h" value="魔法熟练度：+#mastery%，魔法攻击力：+#x，暴击率：+#cr%" />
+    </imgdir>

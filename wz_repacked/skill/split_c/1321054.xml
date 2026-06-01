@@ -1,0 +1,5 @@
+<imgdir name="1321054">
+        <string name="name" value="暗黑渴望" />
+        <string name="desc" value="激发内在的吸血鬼之力，短时间内提升物理攻击力并从敌人身上吸取生命。" />
+        <string name="h" value="消耗MP：#mpCon，额外物理攻击力：#indiePad，持续时间：#time秒，吸取比例：#x%，上限为当前最大HP。\n冷却时间：#cooltime秒" />
+    </imgdir>

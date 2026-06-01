@@ -1,0 +1,7 @@
+<imgdir name="33121012">
+        <string name="name" value="猎杀辅助装置" />
+        <string name="desc" value="利用抵抗组织的技术启动支援装置！" />
+        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount \n冷却时间: #cooltime秒" />
+        <string name="pdesc" value="利用抵抗组织的技术启动支援装置！" />
+        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount \n冷却时间: #cooltime秒" />
+    </imgdir>

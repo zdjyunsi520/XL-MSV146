@@ -1,0 +1,5 @@
+<imgdir name="22170001">
+        <string name="name" value="Magic Mastery" />
+        <string name="desc" value="Enhances Magic Mastery, Magic Attack, and Minimum Critical Damage.\nRequired Skill: #cSpell Mastery Lv. 10#" />
+        <string name="h" value="Magic Mastery: +#mastery%. Magic ATT: +#x, Minimum Critical Damage +#criticaldamageMin% " />
+    </imgdir>

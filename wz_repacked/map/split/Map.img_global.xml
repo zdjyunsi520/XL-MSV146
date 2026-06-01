@@ -1,0 +1,12 @@
+<imgdir name="Map.img">
+    <imgdir name="global">
+		<imgdir name="680000900">
+			<string name="streetName" value="Wedding Village"/>
+			<string name="mapName" value="New Wedding Hall"/>
+		</imgdir>
+		<imgdir name="692000000">
+			<string name="streetName" value="Ballroom"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5801007">
+        <string name="name" value="Oak Barrel" />
+        <string name="desc" value="Disguises you as an Oak Barrel to safely navigate through monsters without being recognized. There is a small chance you&apos;ll be caught. More effective when you&apos;re lying down." />
+        <string name="h" value="MP Cost: #mpCon, Oak Barrel Duration: #time sec , #prop% chance to get caught, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Disguise yourself as an Oak Barrel. You cannot attack or be attacked while disguised." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

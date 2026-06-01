@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290625">
+		<string name="name" value="[能手册]空袭 20"/>
+		<string name="desc" value="70%概率将#c空袭#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290626">
+		<string name="name" value="[能手册]空袭 30"/>
+		<string name="desc" value="50%概率将#c空袭#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290627">
+		<string name="name" value="[能手册]快速射击 20"/>
+		<string name="desc" value="70%概率将#c快速射击#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290628">
+		<string name="name" value="[能手册]快速射击 30"/>
+		<string name="desc" value="50%概率将#c快速射击#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290629">
+		<string name="name" value="[能手册]战列舰炮击 20"/>
+		<string name="desc" value="70%概率将#c战列舰炮击#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290630">
+		<string name="name" value="[能手册]战列舰炮击 30"/>
+		<string name="desc" value="50%概率将#c战列舰炮击#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290631">
+		<string name="name" value="[能手册]战列舰鱼雷 20"/>
+		<string name="desc" value="70%概率将#c战列舰鱼雷#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290632">
+		<string name="name" value="[能手册]战列舰鱼雷 30"/>
+		<string name="desc" value="50%概率将#c战列舰鱼雷#的最高等级提升到30级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290633">
+		<string name="name" value="[能手册]催眠 20"/>
+		<string name="desc" value="70%概率将#c催眠#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290634">
+		<string name="name" value="[能手册]靶心 20"/>
+		<string name="desc" value="70%概率将#c靶心#的最高等级提升到20级。\n职业：船长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290635">
+		<string name="name" value="[能手册]快速射击 20"/>
+		<string name="desc" value="70%概率将#c快速射击#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290636">
+		<string name="name" value="[能手册]快速射击 30"/>
+		<string name="desc" value="50%概率将#c快速射击#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290637">
+		<string name="name" value="[能手册]英雄之力 20"/>
+		<string name="desc" value="70%概率将#c英雄之力#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290638">
+		<string name="name" value="[能手册]英雄之力 30"/>
+		<string name="desc" value="50%概率将#c英雄之力#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290639">
+		<string name="name" value="[能手册]强力陨石 20"/>
+		<string name="desc" value="70%概率将#c强力陨石#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290641">
+		<string name="name" value="[能手册]天火 20"/>
+		<string name="desc" value="70%概率将#c天火#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290642">
+		<string name="name" value="[能手册]天火 30"/>
+		<string name="desc" value="50%概率将#c天火#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290645">
+		<string name="name" value="[能手册]大脑搅拌器 20"/>
+		<string name="desc" value="70%概率将#c大脑搅拌器#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290646">
+		<string name="name" value="[能手册]大脑搅拌器 30"/>
+		<string name="desc" value="50%概率将#c大脑搅拌器#的最高等级提升到30级。\n职业：杰特\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290647">
+		<string name="name" value="[能手册]亚轨道轰炸 20"/>
+		<string name="desc" value="70%概率将#c亚轨道轰炸#的最高等级提升到20级。\n职业：杰特\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

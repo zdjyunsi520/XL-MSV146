@@ -1,0 +1,5 @@
+<imgdir name="13111020">
+        <string name="name" value="Sentient Arrow" />
+        <string name="desc" value="Shoot off a frigid arrow to attack indiscriminately. #cHold down the key button and use direction keys# to steer." />
+        <string name="h" value="MP Cost: #mpCon. Attack #mobCount enemies with #damage% damage. #cSteer by holding the skill key and using ←,→.# Maximum Range: #y. Does not activate with Trifling Wind and Storm Bringer." />
+    </imgdir>

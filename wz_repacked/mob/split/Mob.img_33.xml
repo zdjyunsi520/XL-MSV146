@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8140100">
+		<string name="name" value="Dark Yeti and Pepe"/>
+	</imgdir>
+    <imgdir name="8140101">
+		<string name="name" value="Black Kentaurus"/>
+	</imgdir>
+    <imgdir name="8140102">
+		<string name="name" value="Red Kentaurus"/>
+	</imgdir>
+    <imgdir name="8140103">
+		<string name="name" value="Blue Kentaurus"/>
+	</imgdir>
+    <imgdir name="8140110">
+		<string name="name" value="Birk"/>
+	</imgdir>
+    <imgdir name="8140111">
+		<string name="name" value="Dual Birk"/>
+	</imgdir>
+    <imgdir name="8140200">
+		<string name="name" value="Klock"/>
+	</imgdir>
+    <imgdir name="8140300">
+		<string name="name" value="Dark Klock"/>
+	</imgdir>
+    <imgdir name="8140500">
+		<string name="name" value="Bain"/>
+	</imgdir>
+    <imgdir name="8140555">
+		<string name="name" value="Bombing Fish House"/>
+	</imgdir>
+    <imgdir name="8140600">
+		<string name="name" value="Bone Fish"/>
+	</imgdir>
+    <imgdir name="8140700">
+		<string name="name" value="Blue Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="8140701">
+		<string name="name" value="Red Dragon Turtle"/>
+	</imgdir>
+    <imgdir name="8140702">
+		<string name="name" value="Rexton"/>
+	</imgdir>
+    <imgdir name="8140703">
+		<string name="name" value="Brexton"/>
+	</imgdir>
+    <imgdir name="8141000">
+		<string name="name" value="Spirit Viking"/>
+	</imgdir>
+    <imgdir name="8141100">
+		<string name="name" value="Gigantic Spirit Viking"/>
+	</imgdir>
+    <imgdir name="8141300">
+		<string name="name" value="Squid"/>
+	</imgdir>
+    <imgdir name="8142000">
+		<string name="name" value="Phantom Watch"/>
+	</imgdir>
+    <imgdir name="8142100">
+		<string name="name" value="Risell Squid"/>
+	</imgdir>
+</imgdir>

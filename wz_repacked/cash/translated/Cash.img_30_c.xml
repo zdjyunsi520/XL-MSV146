@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5222008">
+		<string name="name" value="奖励盒"/>
+		<string name="desc" value="送给商城用户的礼物。打开盒子可获得1件随机道具。可能获得的道具包括6种从未发布过的武器外观！双击看看里面有什么吧！"/>
+	</imgdir>
+    <imgdir name="5222015">
+		<string name="name" value="小型生日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5222016">
+		<string name="name" value="中型生日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5222017">
+		<string name="name" value="大型生日惊喜盒"/>
+		<string name="desc" value="打开盒子可获得随机商城道具。来试试运气吧！购买后，在商城背包中双击即可打开。请注意，只能在商城背包中打开哦。"/>
+	</imgdir>
+    <imgdir name="5222020">
+		<string name="name" value="功能宠物装备盒"/>
+		<string name="desc" value="一个活泼的宠物装备盒，打开后可获得随机功能宠物装备。"/>
+	</imgdir>
+    <imgdir name="5222027">
+		<string name="name" value="万圣节惊喜盒"/>
+		<string name="desc" value="万圣节主题的全新商城惊喜盒。"/>
+	</imgdir>
+    <imgdir name="5222057">
+		<string name="name" value="剑豪惊喜盒"/>
+		<string name="desc" value="包含10种#c剑豪#专属或战国主题的随机90天道具中的1种。未装备且剩余超过10天的道具可以与冒险岛管理员兑换惊喜造型印章，也可以交易给其他玩家。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="5222058">
+		<string name="name" value="阴阳师惊喜盒"/>
+		<string name="desc" value="包含10种#c阴阳师#专属或战国主题的随机90天道具中的1种。未装备且剩余超过10天的道具可以与冒险岛管理员兑换惊喜造型印章，也可以交易给其他玩家。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="5222059">
+		<string name="name" value="宠物香水包"/>
+		<string name="desc" value="包含一瓶随机宠物香水的礼包。让最臭臭的宠物也能变得香喷喷~"/>
+	</imgdir>
+    <imgdir name="5222060">
+		<string name="name" value="高级惊喜造型盒"/>
+		<string name="desc" value="打开盒子可获得1件随机装备。盒子里的道具全部为永久道具，可以交易给其他玩家。必须在商城背包中打开。"/>
+	</imgdir>
+    <imgdir name="5222063">
+		<string name="name" value="荣誉印记帽子盒"/>
+		<string name="desc" value="可获得一顶来自日本军队指挥官的随机头盔。购买后在商城标签页中双击打开。"/>
+	</imgdir>
+    <imgdir name="5222064">
+		<string name="name" value="万圣节服装盒"/>
+		<string name="desc" value="打开盒子可获得1件万圣节主题的随机装备。如果未装备且剩余超过10天，可以交易给其他人。"/>
+	</imgdir>
+    <imgdir name="5222074">
+		<string name="name" value="新年幸运盒"/>
+		<string name="desc" value="这个盒子被新年的幸运祝福了！打开后可一次获得最多6件道具。你可能获得两个方块、一只宠物、一张省时券、一件装备或随机奖励。奖励有几率超级稀有，快来试试吧！"/>
+	</imgdir>
+    <imgdir name="5230000">
+		<string name="name" value="智慧之枭"/>
+		<string name="desc" value="#c智慧之枭#象征智慧，可以用来搜索自由市场中正在买卖的特定道具。#c显示搜索结果后消失。最多显示200条结果#。"/>
+	</imgdir>
+    <imgdir name="5230001">
+		<string name="name" value="新手智慧之枭"/>
+		<string name="desc" value="#c智慧之枭#象征智慧，可以用来搜索自由市场中正在买卖的特定道具。#c显示搜索结果后消失。最多显示200条结果#。"/>
+	</imgdir>
+    <imgdir name="5240000">
+		<string name="name" value="猴子香蕉"/>
+		<string name="desc" value="看起来好好吃的猴子香蕉。只有猴子宠物才能吃哦。\n完全恢复饱食度。\n增加100点亲密度。"/>
+	</imgdir>
+    <imgdir name="5240001">
+		<string name="name" value="微型芯片"/>
+		<string name="desc" value="一套崭新的电池。只有机器人宠物才能使用。\n完全恢复饱食度。\n增加100点亲密度。"/>
+	</imgdir>
+    <imgdir name="5240002">
+		<string name="name" value="狗狗骨头"/>
+		<string name="desc" value="包装精美的狗狗骨头。只有小狗狗、哈士奇和银色哈士奇宠物才能吃。\n完全恢复饱食度。\n增加100点亲密度。"/>
+	</imgdir>
+    <imgdir name="5240003">
+		<string name="name" value="竹子"/>
+		<string name="desc" value="从魔法密林森林中采摘的新鲜竹子。只有熊猫宠物才能吃。\n完全恢复饱食度。\n增加100点亲密度。"/>
+	</imgdir>
+    <imgdir name="5240004">
+		<string name="name" value="鲷鱼"/>
+		<string name="desc" value="刚从明珠港捞上来的新鲜鲷鱼。只有猫咪、黑猪和企鹅宠物才能吃。\n完全恢复饱食度。\n增加100点亲密度。"/>
+	</imgdir>
+</imgdir>

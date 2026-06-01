@@ -1,0 +1,5 @@
+<imgdir name="80000029">
+        <string name="name" value="Lv. 1 Pumpkin Peril" />
+        <string name="desc" value="Join the pack! Increases Weapon Attack and Magic Attack by 3." />
+        <string name="h" value="#Weapon ATT: +#padX, Magic ATT: +#madX" />
+    </imgdir>

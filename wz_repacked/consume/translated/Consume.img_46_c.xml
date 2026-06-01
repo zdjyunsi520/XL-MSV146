@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022442">
+		<string name="name" value="迷宫奖励"/>
+		<string name="desc" value="完成由Richie Gold创建的迷宫所奖励的经验值。"/>
+	</imgdir>
+    <imgdir name="2022443">
+		<string name="name" value="烟花"/>
+		<string name="desc" value="庆祝MV被打败的烟花。速度+5、物理和魔法攻击+5，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022444">
+		<string name="name" value="米哈尔的祝福"/>
+		<string name="desc" value="使用撕破的天鹅之书后，神秘力量充满你体内。"/>
+	</imgdir>
+    <imgdir name="2022445">
+		<string name="name" value="Oz的祝福"/>
+		<string name="desc" value="使用撕破的天鹅之书后，神秘力量充满你体内。"/>
+	</imgdir>
+    <imgdir name="2022446">
+		<string name="name" value="伊莲娜的祝福"/>
+		<string name="desc" value="使用撕破的天鹅之书后，神秘力量充满你体内。"/>
+	</imgdir>
+    <imgdir name="2022447">
+		<string name="name" value="埃克哈特的祝福"/>
+		<string name="desc" value="使用撕破的天鹅之书后，神秘力量充满你体内。"/>
+	</imgdir>
+    <imgdir name="2022448">
+		<string name="name" value="霍克霍克的祝福"/>
+		<string name="desc" value="使用撕破的天鹅之书后，神秘力量充满你体内。"/>
+	</imgdir>
+    <imgdir name="2022449">
+		<string name="name" value="粉豆小队：胜利"/>
+		<string name="desc" value="武器攻击+35、魔法攻击+45、武器防御+300、魔法防御+500，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022450">
+		<string name="name" value="经验值增加（S）"/>
+		<string name="desc" value="提供50额外经验值。"/>
+	</imgdir>
+    <imgdir name="2022451">
+		<string name="name" value="经验值增加（M）"/>
+		<string name="desc" value="提供200额外经验值。"/>
+	</imgdir>
+    <imgdir name="2022452">
+		<string name="name" value="经验值增加（L）"/>
+		<string name="desc" value="提供500额外经验值。"/>
+	</imgdir>
+    <imgdir name="2022453">
+		<string name="name" value="烟花"/>
+		<string name="desc" value="庆祝MV被打败的烟花。速度+5、物理和魔法攻击+5，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022454">
+		<string name="name" value="天鹅之灵的祝福"/>
+		<string name="desc" value="完成天鹅之书后，精神力量充满你。武器攻击+10、武器防御+400、移动速度+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022455">
+		<string name="name" value="新年快乐！"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022456">
+		<string name="name" value="精华素"/>
+		<string name="desc" value="这个药水真的很传奇。\n恢复最大HP和MP各50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022457">
+		<string name="name" value="力量精华素"/>
+		<string name="desc" value="这个药水真的很传奇。\n恢复所有最大HP和MP，如果你的最大HP和MP超过99,999，则限制为99,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022458">
+		<string name="name" value="申子的祝福"/>
+		<string name="desc" value="武器攻击+5、魔法攻击+10、武器防御+100、魔法防御+100，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022459">
+		<string name="name" value="卡桑德拉的奖励 1"/>
+		<string name="desc" value="1小时内，金币掉落率+30%。"/>
+	</imgdir>
+    <imgdir name="2022460">
+		<string name="name" value="卡桑德拉的奖励 2"/>
+		<string name="desc" value="40分钟内，金币掉落率+50%。"/>
+	</imgdir>
+    <imgdir name="2022461">
+		<string name="name" value="卡桑德拉的奖励 3"/>
+		<string name="desc" value="30分钟内，金币掉落率2倍。"/>
+	</imgdir>
+</imgdir>

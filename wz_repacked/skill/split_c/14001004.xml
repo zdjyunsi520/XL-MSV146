@@ -1,0 +1,7 @@
+<imgdir name="14001004">
+        <string name="name" value="幸运七飞镖" />
+        <string name="desc" value="投掷2枚飞镖，伤害基于LUK，不受拳甲精通度影响。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%" />
+        <string name="pdesc" value="投掷2枚飞镖，伤害基于LUK，不受拳甲精通度影响。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：2" />
+    </imgdir>

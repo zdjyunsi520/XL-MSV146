@@ -1,0 +1,5 @@
+<imgdir name="2111011">
+        <string name="name" value="Elemental Adaptation (Fire, Poison)" />
+        <string name="desc" value="Cover yourself with a veil of fire and poison to defend against critical Abnormal Status at the cost of a portion of Max MP. #cHas a chance to regenerate when successful#. Cooldown only applies when regeneration fails." />
+        <string name="h" value="MP Cost: #mpCon, upon defending critical Abnormal Status, consumes up to #x% of Max MP and regenerate the barrier up to #y times at #c#prop% chance#. Cooldown: #cooltime sec\n[Passive Effect: Increases Abnormal Status and all Elemental Resistances by #asrR%]" />
+    </imgdir>

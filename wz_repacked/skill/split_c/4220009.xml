@@ -1,0 +1,5 @@
+<imgdir name="4220009">
+        <string name="name" value="金币精通" />
+        <string name="desc" value="增加怪物掉落金币数量。使用金币的技能变得更高效。" />
+        <string name="h" value="Mesos Dropped (by monsters): #mesoR%, PickPocket Meso Drop Rate: #u%, Meso Guard Damage Guard Rate: #v%, Mesos Consumed by Meso Guard: -#w%, Meso Explosion Damage (per shot): +#x%" />
+    </imgdir>

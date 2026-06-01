@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="20011033"><string name="name" value="F1赛车"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011034"><string name="name" value="老虎"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011035"><string name="name" value="迷雾巴洛古"/><string name="desc" value="[最高等级：1]\n可以骑乘迷雾巴洛古哦。"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 140，跳跃力 +120"/></imgdir>
+    <imgdir name="20011036"><string name="name" value="狮子"/><string name="desc" value="[最高等级：1]\n骑上威风凛凛的狮子去冒险吧～"/><string name="h1" value="消耗 10 MP，物理/魔法防御力 +10，移动速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20011037"><string name="name" value="独角兽"/><string name="desc" value="[最高等级：1]\n骑上梦幻独角兽奔跑吧～"/><string name="h1" value="消耗 10 MP，物理/魔法防御力 +10，移动速度 170，跳跃力 120"/></imgdir>
+    <imgdir name="20011038"><string name="name" value="低底盘车"/><string name="desc" value="[最高等级：1]\n骑上酷炫的低底盘车兜风吧～"/><string name="h1" value="消耗 10 MP，物理/魔法防御力 +10，移动速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20011039"><string name="name" value="红色卡车"/><string name="desc" value="[最高等级：1]\n驾驶红色卡车出发吧～"/><string name="h1" value="消耗 10 MP，物理/魔法防御力 +10，移动速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20011040"><string name="name" value="石像鬼"/><string name="desc" value="[最高等级：1]\n骑上石像鬼飞翔吧～"/><string name="h1" value="消耗 10 MP，物理/魔法防御力 +10，移动速度 140，跳跃力 120"/></imgdir>
+    <imgdir name="20011042"><string name="name" value="神兽"/><string name="desc" value="[最高等级：1]\n可以骑乘神兽哦。"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 140，跳跃力 +120"/></imgdir>
+    <imgdir name="20011044"><string name="name" value="橙色蘑菇"/><string name="desc" value="[最高等级：1]\n骑上可爱的橙色蘑菇蹦蹦跳跳吧～"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 140，跳跃力 +120"/></imgdir>
+    <imgdir name="20011045"><string name="name" value="直升机"/><string name="desc" value="[最高等级：1]\n坐上直升机在天空中翱翔吧～"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 +140，跳跃力 +120"/></imgdir>
+    <imgdir name="20011046"><string name="name" value="宇宙飞船"/><string name="desc" value="[最高等级：1]\n连按左右方向键可以提升移动和跳跃能力。#c可用至2010年6月15日午夜# "/><string name="h1" value="消耗 10 MP。物理/魔法防御力 +10，移动速度 150，跳跃力 120"/><string name="h2" value="消耗 10 MP。物理/魔法防御力 +10，移动速度 150，跳跃力 120"/></imgdir>
+    <imgdir name="20011047"><string name="name" value="太空冲刺"/><string name="desc" value="[最高等级：1]\n连按左右方向键可以提升移动和跳跃能力。#c可用至2010年6月15日午夜# "/></imgdir>
+    <imgdir name="20011048"><string name="name" value="太空光束"/><string name="desc" value="[最高等级：1]\n连按左右方向键可以提升移动和跳跃能力。#c可用至2010年6月15日午夜# "/></imgdir>
+    <imgdir name="20011049"><string name="name" value="梦魇"/><string name="desc" value="[最高等级：1]\n骑上黑暗梦魇驰骋吧，超酷的！"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 +170，跳跃力 +120"/></imgdir>
+    <imgdir name="20011050"><string name="name" value="雪人"/><string name="desc" value="[最高等级：1]\n骑上毛茸茸的雪人出发吧～"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 +170，跳跃力 +120"/></imgdir>
+    <imgdir name="20011051"><string name="name" value="鸵鸟"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011052"><string name="name" value="粉色熊热气球"/><string name="desc" value="[最高等级：1]\n坐上粉色熊热气球升空吧～"/><string name="h1" value="MP -10，物理/魔法防御力 +10，移动速度 +170，跳跃力 +120"/></imgdir>
+    <imgdir name="20011053"><string name="name" value="变形金刚"/><string name="desc" value="[最高等级：1] \n骑乘坐骑到处旅行吧。 "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：140%，跳跃力：120%"/></imgdir>
+    <imgdir name="20011054"><string name="name" value="小鸡"/><string name="desc" value="[最高等级：1] \n骑上咕咕叫的小鸡出发吧～ "/><string name="h1" value="MP消耗：10，物理/魔法防御力：+10，移动速度：150%，跳跃力：120%"/></imgdir>
+</imgdir>

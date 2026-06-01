@@ -1,0 +1,7 @@
+<imgdir name="4330001">
+        <string name="name" value="Advanced Dark Sight" />
+        <string name="desc" value="Learning Stealth allows you to attack in Dark Sight, with a chance of not ending Dark Sight. There is a chance to automatically trigger Dark Sight on attack and attacking in Dark Sight will increase damage.\nRequired Skill: #cDark Sight Lv. 10#" />
+        <string name="h" value="Maintain Dark Sight Chance: #prop%. Dark Sight Trigger Chance: #x%, Dark Sight Damage Bonus: #y%" />
+        <string name="pdesc" value="Learning Stealth allows you to attack in Dark Sight, with a chance of not ending Dark Sight. There is a chance to automatically trigger Dark Sight on attack and attacking in Dark Sight will increase damage.\nRequired Skill: #cDark Sight Lv. 10#" />
+        <string name="ph" value="Maintain Dark Sight Chance: #prop%. Dark Sight Trigger Chance: #x%, Dark Sight Damage Bonus: #y%" />
+    </imgdir>

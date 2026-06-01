@@ -1,0 +1,82 @@
+<imgdir name="Familiar.img">
+    <imgdir name="802">
+			<string name="name" value="诱惑"/>
+			<string name="desc" value="攻击时有60%几率拉近2个敌人。"/>
+		</imgdir>
+    <imgdir name="803">
+			<string name="name" value="树皮"/>
+			<string name="desc" value="攻击时有60%几率眩晕2个敌人2秒。"/>
+		</imgdir>
+    <imgdir name="804">
+			<string name="name" value="观察"/>
+			<string name="desc" value="攻击时有60%几率使2个敌人减速3秒。"/>
+		</imgdir>
+    <imgdir name="805">
+			<string name="name" value="中毒"/>
+			<string name="desc" value="攻击时有60%几率使2个敌人中毒3秒。"/>
+		</imgdir>
+    <imgdir name="806">
+			<string name="name" value="冲锋"/>
+			<string name="desc" value="攻击时有80%几率击退3个敌人。"/>
+		</imgdir>
+    <imgdir name="807">
+			<string name="name" value="挑衅"/>
+			<string name="desc" value="攻击时有80%几率拉近3个敌人。"/>
+		</imgdir>
+    <imgdir name="808">
+			<string name="name" value="咆哮"/>
+			<string name="desc" value="攻击时有80%几率眩晕3个敌人4秒。"/>
+		</imgdir>
+    <imgdir name="809">
+			<string name="name" value="审视"/>
+			<string name="desc" value="攻击时有80%几率使3个敌人减速6秒。"/>
+		</imgdir>
+    <imgdir name="810">
+			<string name="name" value="剧毒"/>
+			<string name="desc" value="攻击时有80%几率使3个敌人中毒6秒。"/>
+		</imgdir>
+    <imgdir name="811">
+			<string name="name" value="猴王诅咒"/>
+			<string name="desc" value="攻击时有80%几率使4个敌人中毒6秒。"/>
+		</imgdir>
+    <imgdir name="812">
+			<string name="name" value="毒蛇毒液"/>
+			<string name="desc" value="攻击时有80%几率使3个敌人中毒8秒。"/>
+		</imgdir>
+    <imgdir name="813">
+			<string name="name" value="蜗牛摇篮曲"/>
+			<string name="desc" value="攻击时有80%几率使4个敌人减速6秒。"/>
+		</imgdir>
+    <imgdir name="814">
+			<string name="name" value="穿透凝视"/>
+			<string name="desc" value="攻击时有80%几率使3个敌人减速8秒。"/>
+		</imgdir>
+    <imgdir name="815">
+			<string name="name" value="苹果果冻气味"/>
+			<string name="desc" value="攻击2次，有80%几率拉近4个敌人。"/>
+		</imgdir>
+    <imgdir name="816">
+			<string name="name" value="海洋漩涡"/>
+			<string name="desc" value="攻击3次，有80%几率击退3个敌人。"/>
+		</imgdir>
+    <imgdir name="817">
+			<string name="name" value="鬼叫"/>
+			<string name="desc" value="攻击时有80%几率使4个敌人减速8秒。"/>
+		</imgdir>
+    <imgdir name="818">
+			<string name="name" value="黄金雪人咆哮"/>
+			<string name="desc" value="攻击2次，有80%几率眩晕4个敌人6秒。"/>
+		</imgdir>
+    <imgdir name="819">
+			<string name="name" value="巨型鳄鱼咆哮"/>
+			<string name="desc" value="攻击2次，有80%几率眩晕4个敌人4秒。"/>
+		</imgdir>
+    <imgdir name="820">
+			<string name="name" value="独眼凝视"/>
+			<string name="desc" value="攻击时有100%几率使3个敌人减速10秒。"/>
+		</imgdir>
+    <imgdir name="821">
+			<string name="name" value="致命毒液"/>
+			<string name="desc" value="攻击时有100%几率使3个敌人中毒8秒。"/>
+		</imgdir>
+</imgdir>

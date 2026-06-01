@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2000001">
+		<string name="name" value="橙色药水"/>
+		<string name="desc" value="由红色药草制成的浓缩药水。\n恢复150 HP。"/>
+	</imgdir>
+    <imgdir name="2000002">
+		<string name="name" value="白色药水"/>
+		<string name="desc" value="由红色药草制成的高度浓缩药水。\n恢复300 HP。"/>
+	</imgdir>
+    <imgdir name="2000003">
+		<string name="name" value="蓝色药水"/>
+		<string name="desc" value="由蓝色药草制成的药水。\n恢复100 MP。"/>
+	</imgdir>
+    <imgdir name="2000004">
+		<string name="name" value="精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复最大HP和MP的50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000005">
+		<string name="name" value="力量精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复所有最大HP和MP，如果你的最大HP和MP超过99,999，则限制为99,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000006">
+		<string name="name" value="魔力精华素"/>
+		<string name="desc" value="一个传奇般的药水。\n恢复约300 MP。"/>
+	</imgdir>
+    <imgdir name="2000007">
+		<string name="name" value="红色药丸"/>
+		<string name="desc" value="浓缩红色药水的药丸，恢复50 HP。你可以携带比药水更多的药丸，因为它们更小。"/>
+	</imgdir>
+    <imgdir name="2000008">
+		<string name="name" value="橙色药丸"/>
+		<string name="desc" value="浓缩橙色药水的药丸，恢复150 HP。你可以携带比药水更多的药丸，因为它们更小。"/>
+	</imgdir>
+    <imgdir name="2002078">
+		<string name="name" value="灵魂链接第1天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。攻击+10，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002079">
+		<string name="name" value="灵魂链接第3天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。1.2倍经验，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002080">
+		<string name="name" value="灵魂链接第5天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。20攻击，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002081">
+		<string name="name" value="灵魂链接第7天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。1.4倍经验，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002082">
+		<string name="name" value="灵魂链接第10天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。1.5倍经验，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002083">
+		<string name="name" value="灵魂链接第12天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。1.5倍经验和攻击+30，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2002084">
+		<string name="name" value="灵魂链接第14天药水"/>
+		<string name="desc" value="在灵魂链接活动期间玩新职业获得的药水。2倍经验和攻击+30，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2000009">
+		<string name="name" value="白色药丸"/>
+		<string name="desc" value="浓缩白色药水的药丸，恢复300 HP。你可以携带比药水更多的药丸，因为它们更小。"/>
+	</imgdir>
+    <imgdir name="2000010">
+		<string name="name" value="蓝色药丸"/>
+		<string name="desc" value="浓缩蓝色药水的药丸，恢复100 MP。你可以携带比药水更多的药丸，因为它们更小。"/>
+	</imgdir>
+    <imgdir name="2000011">
+		<string name="name" value="魔力精华素药丸"/>
+		<string name="desc" value="浓缩魔力精华素的药丸，恢复300 MP。你可以携带比药水更多的药丸，因为它们更小。"/>
+	</imgdir>
+    <imgdir name="2000012">
+		<string name="name" value="精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复最大HP和MP的50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000013">
+		<string name="name" value="新手红色药水"/>
+		<string name="desc" value="专为新手制作的红色药草药水。\n恢复40 HP。"/>
+	</imgdir>
+</imgdir>

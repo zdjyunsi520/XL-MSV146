@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010595">
+		<string name="name" value="知识椅子"/>
+		<string name="desc" value="托特知道怎么教，这椅子让它永远持续下去。\n坐在知识椅子上，每10秒恢复50 HP和50 MP。\n#c无法交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010606">
+		<string name="name" value="未完成杰作椅子"/>
+		<string name="desc" value="空白画布不就是炫目的邀请吗？\n坐在未完成杰作椅子上，每10秒恢复10 HP和10 MP。\n#c无法交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010607">
+		<string name="name" value="半成品画作椅子"/>
+		<string name="desc" value="这幅画可以再多一点爱。\n坐在半成品画作椅子上，每10秒恢复30 HP和30 MP。\n#c无法交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010608">
+		<string name="name" value="终极杰作椅子"/>
+		<string name="desc" value="天哪看这作品！线条重量、笔触、明暗对比！\n坐在终极杰作椅子上，每10秒恢复50 HP和50 MP。\n#c无法交易或丢弃。#"/>
+	</imgdir>
+    <imgdir name="3010602">
+		<string name="name" value="心形云椅子"/>
+		<string name="desc" value="坐在云里就是这样吗？可能不是，云只是冷冻气体水分聚集！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010651">
+		<string name="name" value="红色金币机器人"/>
+		<string name="desc" value="红色金币机器人充当强大巨型超级机器人金币机器人V的头！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010652">
+		<string name="name" value="黑色金币机器人"/>
+		<string name="desc" value="黑色金币机器人充当强大巨型超级机器人金币机器人V的身体！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010653">
+		<string name="name" value="蓝色金币机器人"/>
+		<string name="desc" value="蓝色金币机器人充当强大巨型超级机器人金币机器人V的左臂！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010654">
+		<string name="name" value="粉色金币机器人"/>
+		<string name="desc" value="粉色金币机器人充当强大巨型超级机器人金币机器人V的右臂！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010655">
+		<string name="name" value="黄色金币机器人"/>
+		<string name="desc" value="黄色金币机器人充当强大巨型超级机器人金币机器人V的左腿！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010656">
+		<string name="name" value="绿色金币机器人"/>
+		<string name="desc" value="绿色金币机器人充当强大巨型超级机器人金币机器人V的右腿！#c以正确配置#组合所有六个金币机器人召唤强大的超级机甲！"/>
+	</imgdir>
+    <imgdir name="3010670">
+		<string name="name" value="绝对戒指椅子"/>
+		<string name="desc" value="每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3994727">
+		<string name="name" value="黑暗羽毛"/>
+		<string name="desc" value="未识别鸟的黑色羽毛。观察30分钟它会变成明亮羽毛。\n#c退出游戏后会消失。#"/>
+	</imgdir>
+    <imgdir name="3994728">
+		<string name="name" value="明亮羽毛"/>
+		<string name="desc" value="未识别鸟的明亮羽毛。交给枫之谷管理员。"/>
+	</imgdir>
+    <imgdir name="3010592">
+		<string name="name" value="黑花椅子"/>
+		<string name="desc" value="可拥抱的黑花椅子。完全安全，除了放射性铅基聚酯填充物。那东西会杀死你。每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3994712">
+		<string name="name" value="蜗牛雕像"/>
+		<string name="desc" value="收藏家的蜗牛雕像。拖入卡珊德拉的收藏。"/>
+	</imgdir>
+    <imgdir name="3994713">
+		<string name="name" value="史莱姆雕像"/>
+		<string name="desc" value="收藏家的史莱姆雕像。拖入卡珊德拉的收藏。"/>
+	</imgdir>
+    <imgdir name="3994714">
+		<string name="name" value="猪雕像"/>
+		<string name="desc" value="收藏家的猪雕像。拖入卡珊德拉的收藏。"/>
+	</imgdir>
+    <imgdir name="3994715">
+		<string name="name" value="小企鹅雕像"/>
+		<string name="desc" value="收藏家的小企鹅雕像。拖入卡珊德拉的收藏。"/>
+	</imgdir>
+    <imgdir name="3994716">
+		<string name="name" value="沙漠兔雕像"/>
+		<string name="desc" value="收藏家的沙漠兔雕像。拖入卡珊德拉的收藏。"/>
+	</imgdir>
+</imgdir>

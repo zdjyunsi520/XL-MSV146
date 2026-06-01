@@ -1,0 +1,7 @@
+<imgdir name="11101008">
+        <string name="name" value="Brandish" />
+        <string name="desc" value="Perform a double attack on enemies in front of you." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Perform a double attack that ignores defense on the monsters in front of you." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="31111001">
+        <string name="name" value="末日漩涡" />
+        <string name="desc" value="在你体内创造暗黑能量漩涡，吸引附近敌人并进行攻击和眩晕。" />
+        <string name="h" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击怪物数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
+        <string name="pdesc" value="在你体内创造暗黑能量漩涡，吸引附近敌人并进行攻击和眩晕。" />
+        <string name="ph" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击怪物数：#mobCount，眩晕概率：#subProp%，眩晕持续时间：#time秒" />
+        <string name="hch" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击怪物数：#mobCount，眩晕概率：#hcSubProp%，眩晕持续时间：#hcTime秒" />
+    </imgdir>

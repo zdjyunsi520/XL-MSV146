@@ -1,0 +1,7 @@
+<imgdir name="5201002">
+        <string name="name" value="Grenade" />
+        <string name="desc" value="Attacks multiple monsters with a grenade. The distance the grenade travels depends on how long you hold the skill key." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Attacks multiple monsters with a grenade. The distance the grenade travels depends on how long you hold the skill key." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

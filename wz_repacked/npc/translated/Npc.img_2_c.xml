@@ -1,0 +1,104 @@
+<imgdir name="Npc.img">
+    <imgdir name="1012005">
+		<string name="name" value="克罗伊"/>
+		<string name="func" value="宠物大师"/>
+		<string name="n0" value="你有关于宠物的问题吗？尽管问我任何问题..."/>
+		<string name="n1" value="你在养宠物吗？如果你有任何问题，请随时问。"/>
+	</imgdir>
+    <imgdir name="1012006">
+		<string name="name" value="宠物训练师巴托斯"/>
+		<string name="func" value="宠物训练师"/>
+		<string name="n0" value="什么？你的宠物变成玩偶了？当然...它本来就是通过特殊魔法活过来的玩偶。"/>
+		<string name="n1" value="嘿嘿...如果你需要训练你的宠物，我来处理..."/>
+	</imgdir>
+    <imgdir name="1012009">
+		<string name="name" value="李先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="需要地方存放你的物品和金币吗？这里正是你需要的地方！"/>
+		<string name="n1" value="我的仓库安全可靠，所以不用担心！"/>
+	</imgdir>
+    <imgdir name="1012103">
+		<string name="name" value="娜塔莉"/>
+		<string name="func" value="理发店老板"/>
+		<string name="n0" value="你喜欢我的发型吗？我们理发师必须跟上最新潮流！"/>
+		<string name="n1" value="厌倦你的发型了？来，让我帮你弄漂亮..."/>
+	</imgdir>
+    <imgdir name="1012110">
+		<string name="name" value="安妮"/>
+		<string name="n0" value="妈妈忙吗...？"/>
+		<string name="n1" value="我只能自己做这么久..."/>
+		<string name="d0" value="我是安妮，贝蒂医生的女儿"/>
+		<string name="d1" value="嘿，你想和我一起玩吗？"/>
+		<string name="f0" value="嗯..."/>
+	</imgdir>
+    <imgdir name="1012115">
+		<string name="name" value="赫尼斯森林"/>
+	</imgdir>
+    <imgdir name="1012116">
+		<string name="name" value="赫尼斯森林"/>
+	</imgdir>
+    <imgdir name="1022001">
+		<string name="name" value="普通出租车"/>
+	</imgdir>
+    <imgdir name="1022005">
+		<string name="name" value="王先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="需要地方存放你的物品和金币吗？这里正是你需要的地方！"/>
+		<string name="n1" value="我的仓库安全可靠，所以不用担心！"/>
+	</imgdir>
+    <imgdir name="1022008">
+		<string name="name" value="烧焦的剑"/>
+		<string name="d0" value="(有一把烧焦的剑...)"/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="1022102">
+		<string name="name" value="挖掘者公告板"/>
+		<string name="d0" value="未经挖掘者营地同意，在本公告板上张贴任何形式的广告将被罚款3,000,000金币。"/>
+		<string name="d1" value="未经挖掘者营地同意，在本公告板上张贴任何形式的广告将被罚款3,000,000金币。"/>
+	</imgdir>
+    <imgdir name="1022103">
+		<string name="name" value="喷泉雕像"/>
+	</imgdir>
+    <imgdir name="1031001">
+		<string name="name" value="妖精塞拉比"/>
+		<string name="func" value="防具商人"/>
+		<string name="n0" value="我们这里卖各种防具..."/>
+		<string name="n1" value="来看看。"/>
+	</imgdir>
+    <imgdir name="1032000">
+		<string name="name" value="普通出租车"/>
+	</imgdir>
+    <imgdir name="1032004">
+		<string name="name" value="路易斯"/>
+		<string name="n0" value="如果你想离开这个地方，来跟我谈谈。"/>
+	</imgdir>
+    <imgdir name="1032005">
+		<string name="name" value="VIP出租车"/>
+	</imgdir>
+    <imgdir name="1032006">
+		<string name="name" value="朴先生"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="n0" value="需要地方存放你的物品和金币吗？这里正是你需要的地方！"/>
+		<string name="n1" value="我的仓库安全可靠，所以不用担心！"/>
+	</imgdir>
+    <imgdir name="1032009">
+		<string name="name" value="普林"/>
+		<string name="func" value="船员"/>
+		<string name="n0" value="这次旅行有什么困扰你的吗？希望你享受这次旅程。"/>
+		<string name="n1" value="任何想下船返回起点的人，请过来跟我谈谈。"/>
+		<string name="n2" value="船即将出发，请稍等片刻。"/>
+	</imgdir>
+    <imgdir name="1032103">
+		<string name="name" value="埃尔莫斯"/>
+		<string name="func" value="卷轴商人"/>
+		<string name="n0" value="我可以轻松制作卷轴！"/>
+		<string name="n1" value="我完全知道你想要什么样的卷轴。"/>
+	</imgdir>
+    <imgdir name="1032104">
+		<string name="name" value="贝蒂"/>
+		<string name="s0" value="工作很多，人手不够..."/>
+		<string name="n0" value="嘿，如果你有时间，能帮我一下吗？"/>
+		<string name="d0" value="我是生物学家贝蒂。有这么多事情要做，但我总是没时间。"/>
+		<string name="d1" value="非常感谢你的帮助！来得正是时候！"/>
+	</imgdir>
+</imgdir>

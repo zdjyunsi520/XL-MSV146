@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290814">
+		<string name="name" value="[能手册]挑衅 20"/>
+		<string name="desc" value="100%概率将#c挑衅#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290815">
+		<string name="name" value="[能手册]飞镖专家 20"/>
+		<string name="desc" value="100%概率将#c飞镖专家#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290816">
+		<string name="name" value="[能手册]四连星 20"/>
+		<string name="desc" value="100%概率将#c四连星#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290817">
+		<string name="name" value="[能手册]黑暗和谐 20"/>
+		<string name="desc" value="100%概率将#c黑暗和谐#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290818">
+		<string name="name" value="[能手册]虚弱诅咒20"/>
+		<string name="desc" value="100%概率将#c虚弱诅咒#的最高等级提升到20级。\n职业：夜行者\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290819">
+		<string name="name" value="[能手册]狂战士20"/>
+		<string name="desc" value="100%概率将#c狂战士#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290820">
+		<string name="name" value="[能手册]被守护者光环 20"/>
+		<string name="desc" value="100%概率将#c被守护者光环#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290821">
+		<string name="name" value="[能手册]被守护者诅咒 20"/>
+		<string name="desc" value="100%概率将#c被守护者诅咒#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290822">
+		<string name="name" value="[能手册]黑暗穿刺 20"/>
+		<string name="desc" value="100%概率将#c黑暗穿刺#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290823">
+		<string name="name" value="[能手册]龙之冲击 20"/>
+		<string name="desc" value="100%概率将#c龙之冲击#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290824">
+		<string name="name" value="[能手册]速度注入 20"/>
+		<string name="desc" value="100%概率将#c速度注入#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290825">
+		<string name="name" value="[能手册]时间跳跃 20"/>
+		<string name="desc" value="100%概率将#c时间跳跃#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290826">
+		<string name="name" value="[能手册]台风粉碎 20"/>
+		<string name="desc" value="100%概率将#c台风粉碎#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290827">
+		<string name="name" value="[能手册]冲锋队长冲击波 20"/>
+		<string name="desc" value="100%概率将#c冲锋队长冲击波#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290828">
+		<string name="name" value="[能手册]交叉骨头 20"/>
+		<string name="desc" value="100%概率将#c交叉骨头#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290829">
+		<string name="name" value="[能手册]八爪鱼拳击 20"/>
+		<string name="desc" value="100%概率将#c八爪鱼拳击#的最高等级提升到20级。\n职业：冲锋队长\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290830">
+		<string name="name" value="[能手册]弓专家 20"/>
+		<string name="desc" value="100%概率将#c弓专家#的最高等级提升到20级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290831">
+		<string name="name" value="[能手册]暴风箭雨 20"/>
+		<string name="desc" value="100%概率将#c暴风箭雨#的最高等级提升到20级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290832">
+		<string name="name" value="[能手册]凤凰灵链 20"/>
+		<string name="desc" value="100%概率将#c凤凰灵链#的最高等级提升到20级。\n职业：神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290833">
+		<string name="name" value="[能手册]高级祝福 20"/>
+		<string name="desc" value="100%概率将#c高级祝福#的最高等级提升到20级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

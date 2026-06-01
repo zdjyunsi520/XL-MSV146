@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2043804">
+		<string name="name" value="暗黑长杖强化卷轴 魔法攻击 70%"/>
+		<string name="desc" value="强化长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043805">
+		<string name="name" value="暗黑长杖强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043806">
+		<string name="name" value="长杖强化卷轴 魔法攻击 65%"/>
+		<string name="desc" value="强化长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043807">
+		<string name="name" value="长杖强化卷轴 魔法攻击 15%"/>
+		<string name="desc" value="强化长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043808">
+		<string name="name" value="【6周年】长杖强化卷轴 魔法攻击 40%"/>
+		<string name="desc" value="强化冒险岛周年纪念长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n智力：+2\r\n魔法攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2043811">
+		<string name="name" value="佩佩国王 60% 长杖强化卷轴 魔法攻击"/>
+		<string name="desc" value="强化佩佩国王花瓣长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043812">
+		<string name="name" value="长杖强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化长杖的魔法攻击。\n成功率100%，魔法攻击+2，智力+2"/>
+	</imgdir>
+    <imgdir name="2043813">
+		<string name="name" value="长杖强化卷轴 魔法攻击 50%"/>
+		<string name="desc" value="强化长杖的魔法攻击。\n成功率50%，魔法攻击+5，智力+3，幸运+1"/>
+	</imgdir>
+    <imgdir name="2043814">
+		<string name="name" value="长杖强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化长杖的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044000">
+		<string name="name" value="双手剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2044001">
+		<string name="name" value="双手剑强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044002">
+		<string name="name" value="双手剑强化卷轴 攻击 10%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044003">
+		<string name="name" value="双手剑强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044004">
+		<string name="name" value="暗黑双手剑强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044005">
+		<string name="name" value="暗黑双手剑强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044006">
+		<string name="name" value="双手剑强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2044007">
+		<string name="name" value="双手剑强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化双手剑的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n武器攻击：+5\r\n物理防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2044008">
+		<string name="name" value="【6周年】双手剑强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化冒险岛周年纪念双手剑的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：30%\r\n力量：+2\r\n武器攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2044010">
+		<string name="name" value="双手剑强化卷轴 命中 100%"/>
+		<string name="desc" value="强化双手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2044011">
+		<string name="name" value="双手剑强化卷轴 命中 70%"/>
+		<string name="desc" value="强化双手剑的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n武器攻击：+1\r\n命中：+60\r\n#"/>
+	</imgdir>
+</imgdir>

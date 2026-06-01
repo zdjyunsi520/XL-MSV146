@@ -1,0 +1,5 @@
+<imgdir name="33100009">
+        <string name="name" value="终极攻击" />
+        <string name="desc" value="攻击后有概率造成额外伤害。需要装备弩。\n前置技能：#c弩箭精通 Lv. 3#" />
+        <string name="h" value="发动概率：#prop%，伤害：#damage%" />
+    </imgdir>

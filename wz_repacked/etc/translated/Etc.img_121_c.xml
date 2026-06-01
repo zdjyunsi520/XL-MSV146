@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032148">
+			<string name="name" value="探测器"/>
+			<string name="desc" value="专门为探测傀儡师行动而制造的探测器。我们好好地使用了它，所以让我们把它还给奈因哈特"/>
+		</imgdir>
+    <imgdir name="4032149">
+			<string name="name" value="10布吉的任务报告"/>
+			<string name="desc" value="佩里恩特工10布吉写的任务报告。这汇编了最近发生的事件列表"/>
+		</imgdir>
+    <imgdir name="4032176">
+			<string name="name" value="调皮雪人块"/>
+			<string name="desc" value="那些太想破坏大家圣诞节的人掉落的雪人块"/>
+		</imgdir>
+    <imgdir name="4032178">
+			<string name="name" value="黑客尝试"/>
+			<string name="desc" value="显示灰首领试图黑入系统的记录"/>
+		</imgdir>
+    <imgdir name="4032179">
+			<string name="name" value="埃雷夫调查许可证"/>
+			<string name="desc" value="允许调查埃雷夫每个部分的许可证。当红色警报响起时，这个许可证是你可以在埃雷夫自由走动的唯一方式"/>
+		</imgdir>
+    <imgdir name="4032185">
+			<string name="name" value="第1名奖牌"/>
+			<string name="desc" value="从圣诞高跳地图获得的奖牌"/>
+		</imgdir>
+    <imgdir name="4032186">
+			<string name="name" value="第2名奖牌"/>
+			<string name="desc" value="从圣诞高跳地图获得的奖牌"/>
+		</imgdir>
+    <imgdir name="4032187">
+			<string name="name" value="第3名奖牌"/>
+			<string name="desc" value="从圣诞高跳地图获得的奖牌"/>
+		</imgdir>
+    <imgdir name="4032190">
+			<string name="name" value="蘑菇娃娃"/>
+			<string name="desc" value="以蘑菇为模型的可爱娃娃，但有些地方不对劲…"/>
+		</imgdir>
+    <imgdir name="4032196">
+			<string name="name" value="浓缩配方：第1步"/>
+			<string name="desc" value="用有效强效成分浓缩的配方。用来养育米米安娜和米米奥的第一个配方"/>
+		</imgdir>
+    <imgdir name="4032197">
+			<string name="name" value="浓缩配方：第2步"/>
+			<string name="desc" value="用有效强效成分浓缩的配方。用来养育米米安娜和米米奥的第二个配方"/>
+		</imgdir>
+    <imgdir name="4032198">
+			<string name="name" value="浓缩配方：第3步"/>
+			<string name="desc" value="用有效强效成分浓缩的配方。用来养育米米安娜和米米奥的第三个配方"/>
+		</imgdir>
+    <imgdir name="4032199">
+			<string name="name" value="透明图标1"/>
+			<string name="desc" value="一个透明的物品"/>
+		</imgdir>
+    <imgdir name="4032200">
+			<string name="name" value="透明图标2"/>
+			<string name="desc" value="一个透明的物品"/>
+		</imgdir>
+    <imgdir name="4032206">
+			<string name="name" value="埃林尼亚高山植物"/>
+			<string name="desc" value="只在埃林尼亚生长的植物。它们非常像蕨菜"/>
+		</imgdir>
+    <imgdir name="4032208">
+			<string name="name" value="奈因哈特的信"/>
+			<string name="desc" value="奈因哈特的介绍信。把这个交给坐骑训练师基里杜，你将学会骑乘骑士专属的坐骑"/>
+		</imgdir>
+    <imgdir name="4032233">
+			<string name="name" value="冒险岛项链链"/>
+			<string name="desc" value="这可以用来制作冒险岛之心项链"/>
+		</imgdir>
+    <imgdir name="4032234">
+			<string name="name" value="勇气碎片"/>
+			<string name="desc" value="代表勇气的碎片"/>
+		</imgdir>
+    <imgdir name="4032235">
+			<string name="name" value="智慧碎片"/>
+			<string name="desc" value="代表智慧的碎片"/>
+		</imgdir>
+    <imgdir name="4032236">
+			<string name="name" value="精准碎片"/>
+			<string name="desc" value="代表精准的碎片"/>
+		</imgdir>
+</imgdir>

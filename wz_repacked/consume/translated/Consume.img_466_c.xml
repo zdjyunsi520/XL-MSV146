@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431705">
+		<string name="name" value="8周年礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝8周年准备的盒子。\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431706">
+		<string name="name" value="8周年礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝8周年准备的盒子。\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2431707">
+		<string name="name" value="8周年礼盒"/>
+		<string name="desc" value="卡珊德拉为庆祝8周年准备的盒子。\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2291020">
+		<string name="name" value="阴阳师神秘能手册"/>
+		<string name="desc" value="双击时随机产生一本阴阳师的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2291021">
+		<string name="name" value="剑豪神秘能手册"/>
+		<string name="desc" value="双击时随机产生一本剑豪的神秘能手册。"/>
+	</imgdir>
+    <imgdir name="2431708">
+		<string name="name" value="8周年武器盒"/>
+		<string name="desc" value="包含99级8周年武器。"/>
+	</imgdir>
+    <imgdir name="2431713">
+		<string name="name" value="蓝龙冒险包"/>
+		<string name="desc" value="为新用户准备的8周年庆祝盒子。\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2046400">
+		<string name="name" value="速度连接单元"/>
+		<string name="desc" value="可使用OSSS勋章购买。在Bing Machine-Alpha装备和访客装备上增加速度+1。"/>
+	</imgdir>
+    <imgdir name="2046401">
+		<string name="name" value="跳跃连接单元"/>
+		<string name="desc" value="可使用OSSS勋章购买。在Bing Machine-Alpha装备和访客装备上增加跳跃+1。"/>
+	</imgdir>
+    <imgdir name="2046402">
+		<string name="name" value="回避连接单元"/>
+		<string name="desc" value="可使用OSSS勋章购买。在Bing Machine-Alpha装备和访客装备上增加回避率+1。"/>
+	</imgdir>
+    <imgdir name="2046403">
+		<string name="name" value="命中连接单元"/>
+		<string name="desc" value="可使用OSSS勋章购买。在Bing Machine-Alpha装备和访客装备上增加命中率+1。"/>
+	</imgdir>
+    <imgdir name="2046404">
+		<string name="name" value="武功腰带神秘卷轴"/>
+		<string name="desc" value="提升武功腰带的所有属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时50%摧毁物品\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2431473">
+		<string name="desc" value="#c双击#获得永久#c粉红豆气球坐骑#，可在城镇中使用高空飞行技能。"/>
+		<string name="name" value="永久粉红豆气球坐骑券"/>
+	</imgdir>
+    <imgdir name="2431474">
+		<string name="desc" value="#c双击#获得永久#c黑豆气球坐骑#，可在城镇中使用高空飞行技能。"/>
+		<string name="name" value="永久黑豆气球坐骑券"/>
+	</imgdir>
+    <imgdir name="2431476">
+		<string name="name" value="发光幽灵的包裹"/>
+		<string name="desc" value="装满发光幽灵偷来物品的包裹。通常包含鞋子，但谁知道那个东西捡了什么？！#c双击#查看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2431477">
+		<string name="name" value="情人节卡片"/>
+		<string name="desc" value="情人节卡片。你觉得上面写了什么？也许是爱的告白？太受欢迎真让人烦恼。"/>
+	</imgdir>
+    <imgdir name="2431478">
+		<string name="name" value="情人节卡片"/>
+		<string name="desc" value="情人节卡片。你觉得上面写了什么？也许是爱的告白？太受欢迎真让人烦恼。"/>
+	</imgdir>
+    <imgdir name="2431479">
+		<string name="name" value="情人节卡片"/>
+		<string name="desc" value="情人节卡片。你觉得上面写了什么？也许是爱的告白？太受欢迎真让人烦恼。"/>
+	</imgdir>
+    <imgdir name="2431469">
+		<string name="desc" value="这个盒子里装着粉红豆或黑豆珍贵的东西。不过不确定是什么。打包前没人费心看里面。\r\n#c双击查看里面有什么。#"/>
+		<string name="name" value="豆子相关盒子"/>
+	</imgdir>
+    <imgdir name="2431470">
+		<string name="desc" value="可免费获得一个怪物生活怪物盒！#c双击使用#。"/>
+		<string name="name" value="[怪物生活]怪物券"/>
+	</imgdir>
+</imgdir>

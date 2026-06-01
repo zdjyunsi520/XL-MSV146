@@ -1,0 +1,81 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430537">
+		<string name="name" value="兔子伙伴马车15日券"/>
+		<string name="desc" value="双击使用坐骑技能[兔子伙伴马车]15天。"/>
+	</imgdir>
+    <imgdir name="2430539">
+		<string name="name" value="丰满南瓜盒子"/>
+		<string name="desc" value="一个形状像丰满南瓜的好盒子。#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2430540">
+		<string name="name" value="蒙面绅士的袋子"/>
+		<string name="desc" value="蒙面绅士的袋子。在打开之前你不会知道里面有什么。\n#c可以使用至TKTKTK。#"/>
+	</imgdir>
+    <imgdir name="2430542">
+		<string name="name" value="镜子碎片"/>
+		<string name="desc" value="来自中央大厅的破碎镜子的一块碎片。"/>
+	</imgdir>
+    <imgdir name="2430544">
+		<string name="name" value="7天巫婆扫帚券"/>
+		<string name="desc" value="一个诡异的券。#c双击#使用#巫婆扫帚#骑乘技能#c7天#，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430545">
+		<string name="name" value="魔法万圣节糖果"/>
+		<string name="desc" value="让你充满疯狂的万圣节魔法。根据等级增加经验值。你每天最多只能吃10个，否则胃会爆炸，万圣节结束后就会消失。"/>
+	</imgdir>
+    <imgdir name="2430548">
+		<string name="name" value="万圣节大师券"/>
+		<string name="desc" value="为庆祝万圣节创建的大师券。使用它可以将你的专业提升到下一个等级。"/>
+	</imgdir>
+    <imgdir name="2430556">
+		<string name="name" value="_maximus坐骑15天券"/>
+		<string name="desc" value="双击使用坐骑技能[_maximus坐骑]15天。"/>
+	</imgdir>
+    <imgdir name="2430557">
+		<string name="name" value="_maximus坐骑1年券"/>
+		<string name="desc" value="双击使用坐骑技能[_maximus坐骑]1年。"/>
+	</imgdir>
+    <imgdir name="2430558">
+		<string name="name" value="Ani的盒子"/>
+		<string name="desc" value="给击败Ani的人作为奖励的盒子。打开盒子可以获得各种卷轴。但是，140级或以上的人无法获得卷轴。"/>
+	</imgdir>
+    <imgdir name="2430559">
+		<string name="name" value="鲁登的精通书"/>
+		<string name="desc" value="来自狮子王的忠诚骑士鲁登的训练指南。授予用户一本增强技能的精通书。"/>
+	</imgdir>
+    <imgdir name="2430560">
+		<string name="name" value="传奇大奖礼包"/>
+	</imgdir>
+    <imgdir name="2430561">
+		<string name="name" value="传奇明日盒子"/>
+		<string name="desc" value="只能在收到后的第二天打开的盒子。你每天可以从管理员那里收到一个。"/>
+	</imgdir>
+    <imgdir name="2430562">
+		<string name="name" value="假日礼物盒子"/>
+		<string name="desc" value="装有各种圣诞物品的节日礼物盒子。"/>
+	</imgdir>
+    <imgdir name="2430563">
+		<string name="name" value="小圣诞树"/>
+		<string name="desc" value="你自己种植的小树。把它带给Gaga。"/>
+	</imgdir>
+    <imgdir name="2430564">
+		<string name="name" value="光亮精华"/>
+		<string name="desc" value="净化的光芒之容器。它的力量应该足以摧毁阿尔卡里姆在维度裂缝周围放置的魔法屏障。"/>
+	</imgdir>
+    <imgdir name="2430565">
+		<string name="name" value="暴风雨的神奇祝福"/>
+		<string name="desc" value="暴风雨节日周日魔法的结晶体现。使用它可以获得大量经验。\n#c满级角色无法获得收益。#"/>
+	</imgdir>
+    <imgdir name="2430566">
+		<string name="name" value="骑士战车坐骑券"/>
+		<string name="desc" value="30天骑士战车坐骑券。\n#c双击使用骑士战车骑乘技能30天。#"/>
+	</imgdir>
+    <imgdir name="2430567">
+		<string name="name" value="训练袋"/>
+		<string name="desc" value="怪物训练者掉落的随机道具袋子。"/>
+	</imgdir>
+    <imgdir name="2430576">
+		<string name="name" value="幸运传奇盒子"/>
+		<string name="desc" value="为那些将被铭记为传奇的人准备的盒子。\n#c双击查看内容。#"/>
+	</imgdir>
+</imgdir>

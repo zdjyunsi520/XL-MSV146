@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="2120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="2120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="2120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="2120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="2120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="2120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="2120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="2120043"><string name="name" value="毒雾术-强化"/><string name="desc" value="提升毒雾术的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="2120044"><string name="name" value="毒雾术-余毒"/><string name="desc" value="延长毒雾术持续伤害的时间。"/><string name="h" value="额外#dotTime秒的持续伤害"/></imgdir>
+    <imgdir name="2120045"><string name="name" value="毒雾术-残废"/><string name="desc" value="提升毒雾术的持续伤害。"/><string name="h" value="额外#dot%持续伤害"/></imgdir>
+    <imgdir name="2120046"><string name="name" value="麻痹-强化"/><string name="desc" value="提升麻痹的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="2120047"><string name="name" value="麻痹-残废"/><string name="desc" value="提升麻痹的持续伤害。"/><string name="h" value="额外#dot%持续伤害"/></imgdir>
+    <imgdir name="2120048"><string name="name" value="麻痹-额外攻击"/><string name="desc" value="增加麻痹的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="2120049"><string name="name" value="迷雾爆发-额外攻击"/><string name="desc" value="增加迷雾爆发的攻击次数。"/><string name="h" value="攻击次数：+#attackCount	"/></imgdir>
+    <imgdir name="2120050"><string name="name" value="迷雾爆发-破甲"/><string name="desc" value="提升迷雾爆发无视防御的效果。"/><string name="h" value="额外无视#ignoreMobpdpR%怪物防御"/></imgdir>
+    <imgdir name="2120051"><string name="name" value="迷雾爆发-冷却缩减"/><string name="desc" value="缩短迷雾爆发的冷却时间。"/><string name="h" value="冷却时间：-#coolTimeR%"/></imgdir>
+    <imgdir name="2121052"><string name="name" value="梅杰多火焰"/><string name="desc" value="喷射蓝色火焰，将敌人烧到灵魂深处。"/><string name="h" value="消耗MP：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，每#dotInterval秒造成#dot%伤害，持续#dotTime秒。无视攻击无视和攻击反射效果。\n#c冷却时间：#cooltime秒#"/></imgdir>
+    <imgdir name="2121053"><string name="name" value="史诗冒险"/><string name="desc" value="唤起内心深处的勇气，提升伤害和最大伤害值。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。适用于队伍中的所有冒险家职业"/></imgdir>
+    <imgdir name="2121054"><string name="name" value="地狱火环"/><string name="desc" value="引导火之脉轮爆发成烈焰，伤害附近敌人。"/><string name="h" value="消耗MP：#mpCon，间隔伤害：#damage%，无视攻击无视和攻击反射效果"/></imgdir>
+    <imgdir name="2121055"><string name="name" value="梅杰多火焰(替身)"/><string name="desc" value="喷射蓝色火焰，将敌人烧到灵魂深处。"/><string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。"/></imgdir>
+</imgdir>

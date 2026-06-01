@@ -1,0 +1,5 @@
+<imgdir name="61111004">
+        <string name="name" value="Catalyze" />
+        <string name="desc" value="Uses the Dragon Crystal as a catalyst to maximize damage." />
+        <string name="h" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec" />
+    </imgdir>

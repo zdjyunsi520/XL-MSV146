@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290046">
+		<string name="name" value="[Mastery Book] Blizzard"/>
+		<string name="desc" value="This increases the master level of #cBlizzard# up to 20 with 70% of chance.\r\nClass : Arch Mage(Ice,Lightning)\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290047">
+		<string name="name" value="[Mastery Book] Blizzard"/>
+		<string name="desc" value="This increases the master level of #cBlizzard# up to 30 with 50% of chance.\r\nClass : Arch Mage(Ice,Lightning)\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290048">
+		<string name="name" value="[Mastery Book] Genesis"/>
+		<string name="desc" value="This increases the master level of #cGenesis# up to 20 with 70% of chance.\r\nClass : Bishop\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290049">
+		<string name="name" value="[Mastery Book] Genesis"/>
+		<string name="desc" value="This increases the master level of #cGenesis# up to 30 with 50% of chance.\r\nClass : Bishop\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290050">
+		<string name="name" value="[Mastery Book] Angel Ray"/>
+		<string name="desc" value="This increases the master level of #cAngel Ray# up to 20 with 70% of chance.\r\nClass : Bishop\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290051">
+		<string name="name" value="[Mastery Book] Angel Ray"/>
+		<string name="desc" value="This increases the master level of #cAngel Ray# up to 30 with 50% of chance.\r\nClass : Bishop\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290052">
+		<string name="name" value="[Mastery Book] Sharp Eyes 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSharp Eyes# to 20.\nJob: Bowman 4th Job, Wild Hunter\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290053">
+		<string name="name" value="[Mastery Book] Sharp Eyes 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSharp Eyes# to 30.\nJob: Bowman 4th Job, Wild Hunter\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290054">
+		<string name="name" value="[Mastery Book] Sharp Eyes 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSharp Eyes# to 20.\nJob: Bowman 4th Job, Wild Hunter\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290055">
+		<string name="name" value="[Mastery Book] Sharp Eyes 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSharp Eyes# to 30.\nJob: Bowman 4th Job, Wild Hunter\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290056">
+		<string name="name" value="[Mastery Book] Bow Expert"/>
+		<string name="desc" value="This increases the master level of #cBow Expert# up to 20 with 70% of chance.\r\nClass : Bow Master\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290057">
+		<string name="name" value="[Mastery Book] Bow Expert"/>
+		<string name="desc" value="This increases the master level of #cBow Expert # up to 30 with 50% of chance.\r\nClass : Bow Master\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290058">
+		<string name="name" value="[Mastery Book] Illusion Step 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cIllusion Step# to 20.\nJob: Bowman 4th Job\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290059">
+		<string name="name" value="[Mastery Book] Illusion Step 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cIllusion Step# to 30.\nJob: Bowman 4th Job\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290060">
+		<string name="name" value="[Mastery Book] Hurricane"/>
+		<string name="desc" value="This increases the master level of #cHurricane# up to 20 with 70% of chance.\r\nClass : Bow Master\r\nCondition : Skill level above 5"/>
+	</imgdir>
+    <imgdir name="2290061">
+		<string name="name" value="[Mastery Book] Hurricane"/>
+		<string name="desc" value="This increases the master level of #cHurricane# up to 30 with 50% of chance.\r\nClass : Bow Master\r\nCondition : Skill level above 15"/>
+	</imgdir>
+    <imgdir name="2290062">
+		<string name="name" value="[Mastery Book] Spirit Link: Phoenix 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cSpirit Link: Phoenix# to 20.\nJob: Bow Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290063">
+		<string name="name" value="[Mastery Book] Spirit Link: Phoenix 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cSpirit Link: Phoenix# to 30.\nJob: Bow Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290064">
+		<string name="name" value="[Mastery Book] Advanced Final Attack 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAdvanced Final Attack# to 20.\nJob: Hero, Bow Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290065">
+		<string name="name" value="[Mastery Book] Advanced Final Attack 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAdvanced Final Attack# to 30.\nJob: Hero, Bow Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+</imgdir>

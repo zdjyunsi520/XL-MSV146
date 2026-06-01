@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000201">
+			<string name="name" value="猴子独轮车"/>
+			<string name="desc" value="马戏团猴子骑的独轮车"/>
+		</imgdir>
+    <imgdir name="4000202">
+			<string name="name" value="摩托车头盔"/>
+			<string name="desc" value="摩托车猴子戴的头盔"/>
+		</imgdir>
+    <imgdir name="4000204">
+			<string name="name" value="骷髅狗骨头"/>
+			<string name="desc" value="从骷髅狗身上掉下来的骨头"/>
+		</imgdir>
+    <imgdir name="4000205">
+			<string name="name" value="脏绷带"/>
+			<string name="desc" value="缠绕在木乃伊狗身上的一串脏绷带"/>
+		</imgdir>
+    <imgdir name="4000206">
+			<string name="name" value="肋骨"/>
+			<string name="desc" value="骷髅士兵的肋骨"/>
+		</imgdir>
+    <imgdir name="4000207">
+			<string name="name" value="骨盆"/>
+			<string name="desc" value="骷髅军官的骨盆"/>
+		</imgdir>
+    <imgdir name="4000208">
+			<string name="name" value="马头骨"/>
+			<string name="desc" value="骷髅指挥官的马的头骨"/>
+		</imgdir>
+    <imgdir name="4000209">
+			<string name="name" value="可乐史莱姆铃铛"/>
+			<string name="desc" value="可乐史莱姆取下的铃铛"/>
+		</imgdir>
+    <imgdir name="4000210">
+			<string name="name" value="可乐猪丝带"/>
+			<string name="desc" value="可乐猪丝带的一部分"/>
+		</imgdir>
+    <imgdir name="4000211">
+			<string name="name" value="可口可乐方块"/>
+			<string name="desc" value="上面画着可口可乐瓶的方块"/>
+		</imgdir>
+    <imgdir name="4000212">
+			<string name="name" value="CokePLAY方块"/>
+			<string name="desc" value="带有CokePLAY标志的方块"/>
+		</imgdir>
+    <imgdir name="4000213">
+			<string name="name" value="可口可乐卡片"/>
+			<string name="desc" value="画着可口可乐的卡片"/>
+		</imgdir>
+    <imgdir name="4000214">
+			<string name="name" value="可口可乐宝石"/>
+			<string name="desc" value="刻有可口可乐标志的红色宝石"/>
+		</imgdir>
+    <imgdir name="4000215">
+			<string name="name" value="斧头"/>
+			<string name="desc" value="卡在树干里的斧头"/>
+		</imgdir>
+    <imgdir name="4000216">
+			<string name="name" value="可口可乐罐"/>
+			<string name="desc" value="曾经装满甜酸可口可乐的空罐"/>
+		</imgdir>
+    <imgdir name="4000217">
+			<string name="name" value="健怡可口可乐罐"/>
+			<string name="desc" value="曾经装满零卡路里饮料健怡可乐的空罐"/>
+		</imgdir>
+    <imgdir name="4000218">
+			<string name="name" value="冰壳"/>
+			<string name="desc" value="冰制成的形状像冰屋的龟壳"/>
+		</imgdir>
+    <imgdir name="4000219">
+			<string name="name" value="可乐冰块"/>
+			<string name="desc" value="曾经是可乐傀儡坚硬身体一部分的方块。看起来像冰冻可乐"/>
+		</imgdir>
+    <imgdir name="4000220">
+			<string name="name" value="冰块"/>
+			<string name="desc" value="曾经是冰傀儡坚硬身体一部分的方块"/>
+		</imgdir>
+    <imgdir name="4000221">
+			<string name="name" value="可乐瓶盖"/>
+			<string name="desc" value="可乐蘑菇曾经戴在头上的瓶盖"/>
+		</imgdir>
+</imgdir>

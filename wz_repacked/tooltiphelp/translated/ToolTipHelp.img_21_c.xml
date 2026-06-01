@@ -1,0 +1,72 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="武器店"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="仓库"/>
+			</imgdir>
+    <imgdir name="230000003">
+			<imgdir name="0">
+				<string name="Title" value="BS"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="白牙和雪人"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="猪和缎带猪"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="水族馆动物园"/>
+			</imgdir>
+    <imgdir name="230010000">
+			<imgdir name="0">
+				<string name="Title" value="神Station塔"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="水晶峡谷"/>
+			</imgdir>
+    <imgdir name="230010001">
+			<imgdir name="0">
+				<string name="Title" value="海洋I.C"/>
+			</imgdir>
+    <imgdir name="230010400">
+			<imgdir name="0">
+				<string name="Title" value="水族馆"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="贝壳山丘"/>
+			</imgdir>
+    <imgdir name="230020000">
+			<imgdir name="0">
+				<string name="Title" value="水族馆"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="海藻塔"/>
+			</imgdir>
+    <imgdir name="230020100">
+			<imgdir name="0">
+				<string name="Title" value="岔路:东海"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="沙堡游乐场"/>
+			</imgdir>
+    <imgdir name="230020101">
+			<imgdir name="0">
+				<string name="Title" value="海藻塔"/>
+			</imgdir>
+    <imgdir name="230030000">
+			<imgdir name="0">
+				<string name="Title" value="大鱼山谷"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="蘑菇珊瑚山丘"/>
+			</imgdir>
+    <imgdir name="230030001">
+			<imgdir name="0">
+				<string name="Title" value="蓝色海藻路"/>
+			</imgdir>
+    <imgdir name="230030100">
+			<imgdir name="0">
+				<string name="Title" value="蓝色海藻路"/>
+			</imgdir>
+</imgdir>

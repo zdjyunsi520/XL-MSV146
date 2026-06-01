@@ -1,0 +1,119 @@
+<imgdir name="Npc.img">
+    <imgdir name="1102112">
+		<string name="name" value="鹰眼"/>
+		<string name="func" value="雷之骑士团长"/>
+		<string name="n0" value="好表演，好表演！"/>
+		<string name="n1" value="来打我！"/>
+		<string name="d0" value="你感觉到肚子里的雷声了吗，伙计？你可能就是个雷霆战士！"/>
+		<string name="d1" value="我们将与黑魔法师战斗，并唱一首胜利之歌！"/>
+	</imgdir>
+    <imgdir name="1102200">
+		<string name="name" value="十个布吉"/>
+		<string name="n0" value="等等...我的报告剩下的部分在哪里？"/>
+		<string name="n1" value="有人需要马上帮我一把。"/>
+		<string name="d0" value="哎呀，一个女孩要怎么在这么多工作中找到乐趣啊？！"/>
+		<string name="d1" value="我现在对佩里奥了解很多。超级多。"/>
+	</imgdir>
+    <imgdir name="1102202">
+		<string name="name" value="十个布吉"/>
+		<string name="n0" value="等等...我的报告剩下的部分在哪里？"/>
+		<string name="n1" value="有人需要马上帮我一把。"/>
+		<string name="d0" value="哎呀，一个女孩要怎么在这么多工作中找到乐趣啊？！"/>
+		<string name="d1" value="我现在对佩里奥了解很多。超级多。"/>
+	</imgdir>
+    <imgdir name="1102103">
+		<string name="name" value="基努"/>
+		<string name="func" value="训练导师"/>
+		<string name="n0" value="怎么可能？"/>
+		<string name="n1" value="一定有更多关于冒险岛世界历史的书籍。"/>
+		<string name="d0" value="要变强就得努力！"/>
+		<string name="d1" value="其他导师怎么样？"/>
+	</imgdir>
+    <imgdir name="1102105">
+		<string name="name" value="纪莎"/>
+		<string name="func" value="新手引导"/>
+		<string name="n0" value="我确定女皇在等..."/>
+		<string name="n1" value="我这里有未来骑士的名单。"/>
+		<string name="d0" value="天鹅骑士们都是从贵族开始，成长起来保护冒险岛世界。"/>
+		<string name="d1" value="天鹅骑士们都是从贵族开始，成长起来保护冒险岛世界。"/>
+	</imgdir>
+    <imgdir name="1102108">
+		<string name="name" value="米哈尔"/>
+		<string name="func" value="光之骑士团长"/>
+		<string name="n0" value="愿女皇永远繁荣昌盛。"/>
+		<string name="n1" value="专注于你面前的目标。"/>
+		<string name="d0" value="你行走在光明中吗？那是黎明勇士的道路。"/>
+		<string name="d1" value="我对女皇的忠诚永远不会动摇。"/>
+	</imgdir>
+    <imgdir name="1102109">
+		<string name="name" value="奥兹"/>
+		<string name="func" value="火之骑士团长"/>
+		<string name="n0" value="我对和平充满热情。"/>
+		<string name="n1" value="我们需要一些优秀的新兵。"/>
+		<string name="d0" value="如果你喜欢放火，成为烈焰巫师就是你的归宿！"/>
+		<string name="d1" value="我会照亮任何挡在女皇路上的怪物。放心！"/>
+	</imgdir>
+    <imgdir name="1102115">
+		<string name="name" value="基丹"/>
+		<string name="func" value="骑士训练师"/>
+		<string name="n0" value="很多人和你想要同样的东西。你有这个能力吗？"/>
+		<string name="n1" value="成为保护女皇的剑和盾需要奉献精神。"/>
+	</imgdir>
+    <imgdir name="9000185">
+		<string name="name" value="艾琳"/>
+		<string name="func" value="冒险岛聊天助手"/>
+		<string name="n0" value="艾琳在这里！我很想告诉你所有关于冒险岛聊天的事情！"/>
+		<string name="n1" value="艾琳在这里！结交新朋友，与人交谈。冒险岛聊天！"/>
+		<string name="s0" value="艾琳在这里！聊聊天怎么样？"/>
+		<string name="s1" value="艾琳在这里！当你聊天时，冒险岛世界会变得更好！"/>
+		<string name="s2" value="艾琳在这里！我以前很孤独，然后我找到了冒险岛聊天！"/>
+		<string name="d0" value="艾琳在这里！我知道所有关于冒险岛聊天的事情！"/>
+		<string name="d1" value="艾琳在这里！每天都要使用冒险岛聊天！"/>
+	</imgdir>
+    <imgdir name="9000188">
+		<string name="name" value="瓦莱里奥"/>
+		<string name="func" value="卷轴大师"/>
+		<string name="d0" value="我是瓦莱里奥，卷轴大师！"/>
+		<string name="n0" value="告诉我你的烦恼，我会告诉你如何使用卷轴。这是个好交易！"/>
+		<string name="n1" value="是的。我就是那个瓦莱里奥。"/>
+		<string name="n2" value="我会帮你使用任何卷轴。"/>
+	</imgdir>
+    <imgdir name="9133080">
+		<string name="name" value="奈奥"/>
+	</imgdir>
+    <imgdir name="9133081">
+		<string name="name" value="白鸡"/>
+	</imgdir>
+    <imgdir name="9133082">
+		<string name="name" value="暴躁鸡"/>
+	</imgdir>
+    <imgdir name="9133083">
+		<string name="name" value="自信鸡"/>
+	</imgdir>
+    <imgdir name="9133084">
+		<string name="name" value="CHICKEN4"/>
+	</imgdir>
+    <imgdir name="9133085">
+		<string name="name" value="CHICKEN5"/>
+	</imgdir>
+    <imgdir name="9133086">
+		<string name="name" value="黑羊"/>
+	</imgdir>
+    <imgdir name="9133087">
+		<string name="name" value="白羊"/>
+	</imgdir>
+    <imgdir name="9330277">
+		<string name="name" value="织田信长"/>
+		<string name="d0" value="别指望我手下留情。"/>
+		<string name="d1" value="你准备好训练了吗？"/>
+		<string name="n0" value="活着回来。"/>
+		<string name="n1" value="杀不死你的会让你更强大。"/>
+		<string name="func" value="校长"/>
+	</imgdir>
+    <imgdir name="9330278">
+		<string name="name" value="明智五右卫门"/>
+		<string name="func" value="图腾商人"/>
+		<string name="n0" value="听听战国武士的故事。"/>
+		<string name="n1" value="这是战国武士图腾。"/>
+	</imgdir>
+</imgdir>

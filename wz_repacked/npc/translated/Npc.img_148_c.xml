@@ -1,0 +1,111 @@
+<imgdir name="Npc.img">
+    <imgdir name="9031004">
+		<string name="name" value="Intaglio"/>
+		<string name="func" value="饰品制作大师"/>
+		<string name="d0" value="你不想被闪闪发光的珠宝包围吗？"/>
+		<string name="d1" value="是的，我可以教你成为一名出色的珠宝匠！"/>
+	</imgdir>
+    <imgdir name="9031005">
+		<string name="name" value="Ally"/>
+		<string name="func" value="炼金术大师"/>
+		<string name="d0" value="炼金术士不仅仅是酿造药水。我们还从装备中提取材料并将它们融合在一起。"/>
+		<string name="d1" value="您好！我是Ardentmill的Grant长老。"/>
+	</imgdir>
+    <imgdir name="9031007">
+		<string name="name" value="Nack"/>
+		<string name="func" value="材料商人"/>
+		<string name="n0" value="没有合适的材料？在这里找找看。"/>
+		<string name="n1" value="没有我，没有人能成为大师级工匠。"/>
+	</imgdir>
+    <imgdir name="9031008">
+		<string name="name" value="Grant"/>
+	</imgdir>
+    <imgdir name="9031009">
+		<string name="name" value="Tespia助手"/>
+		<string name="func" value="临时助理商人"/>
+	</imgdir>
+    <imgdir name="9031010">
+		<string name="name" value="草药采集"/>
+	</imgdir>
+    <imgdir name="9031011">
+		<string name="name" value="采矿机"/>
+	</imgdir>
+    <imgdir name="9031012">
+		<string name="name" value="锻造铁砧"/>
+	</imgdir>
+    <imgdir name="9031013">
+		<string name="name" value="珠宝加工机"/>
+	</imgdir>
+    <imgdir name="9031014">
+		<string name="name" value="炼金术之书"/>
+	</imgdir>
+    <imgdir name="9031015">
+		<string name="name" value="Angelica"/>
+		<string name="func" value="炼金配方商人"/>
+		<string name="n0" value="没有好的配方，炼金术士就寸步难行。"/>
+		<string name="n1" value="在找什么特别的东西吗？让我看看我的清单..."/>
+	</imgdir>
+    <imgdir name="9031016">
+		<string name="name" value="Mikkim"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="嗨！想存点东西吗？"/>
+		<string name="s1" value="当然，这不便宜。但生活中很少有好东西是便宜的。"/>
+	</imgdir>
+    <imgdir name="9900002">
+		<string name="name" value="信用合作社"/>
+		<string name="n0" value="我们将继续尽最大努力支持您。"/>
+	</imgdir>
+    <imgdir name="9900003">
+		<string name="name" value="Spinel"/>
+		<string name="n0" value="谢谢你。"/>
+		<string name="n1" value="告诉我你的愿望。"/>
+	</imgdir>
+    <imgdir name="9120205">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="维多利亚"/>
+		<string name="n0" value="维多利亚岛真小。"/>
+		<string name="n1" value="我什么都不怕！...除了沉睡森林。"/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120206">
+		<string name="name" value="Wence"/>
+		<string name="func" value="维多利亚"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="保持状态！必须领先于怪物。"/>
+		<string name="d0" value="我有给维多利亚岛特工的特殊任务。"/>
+		<string name="d1" value="你完成了维多利亚岛的特殊任务。"/>
+	</imgdir>
+    <imgdir name="9120207">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="埃德尔斯坦"/>
+		<string name="n0" value="哦天哪这里太冷了。"/>
+		<string name="n1" value="我愿意去任何地方！...除了死亡矿井。"/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120208">
+		<string name="name" value="Wence"/>
+		<string name="func" value="埃德尔斯坦"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="有些怪物相当漂亮，但不要放松警惕。"/>
+		<string name="d0" value="我有给埃德尔斯坦特工的特殊任务。"/>
+		<string name="d1" value="你完成了埃德尔斯坦的特殊任务。"/>
+	</imgdir>
+    <imgdir name="9120209">
+		<string name="name" value="Sodane"/>
+		<string name="func" value="玩具城"/>
+		<string name="n0" value="这地方太棒了！"/>
+		<string name="n1" value="从没想过我要打玩具..."/>
+		<string name="d0" value="在世界各地与怪物战斗...这就是沉默十字军。"/>
+		<string name="d1" value="今天的任务完成了！"/>
+	</imgdir>
+    <imgdir name="9120210">
+		<string name="name" value="Wence"/>
+		<string name="func" value="玩具城"/>
+		<string name="n0" value="这是你的任务。"/>
+		<string name="n1" value="你有与技能匹配的装备吗？"/>
+		<string name="d0" value="我有给玩具城特工的特殊任务。"/>
+		<string name="d1" value="你完成了玩具城的特殊任务。"/>
+	</imgdir>
+</imgdir>

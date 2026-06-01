@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591035">
+		<string name="name" value="活力霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：最大HP+200\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591036">
+		<string name="name" value="充沛霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：最大MP+200\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591037">
+		<string name="name" value="华丽霸王龙之魂"/>
+		<string name="desc" value="霸王龙的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c霸王龙技能和额外潜能#。\r\n#c额外潜能：全属性+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591038">
+		<string name="name" value="强健武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：力量+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591039">
+		<string name="name" value="敏捷武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：敏捷+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591040">
+		<string name="name" value="聪慧武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：智力+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591041">
+		<string name="name" value="幸运武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：运气+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591042">
+		<string name="name" value="活力武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：最大HP+300\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591043">
+		<string name="name" value="充沛武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：最大MP+300\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591044">
+		<string name="name" value="华丽武公之魂"/>
+		<string name="desc" value="武公的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c武公技能和额外潜能#。\r\n#c额外潜能：全属性+5\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591045">
+		<string name="name" value="强健巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：力量+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591046">
+		<string name="name" value="敏捷巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：敏捷+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591047">
+		<string name="name" value="聪慧巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：智力+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591048">
+		<string name="name" value="幸运巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：运气+10\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591049">
+		<string name="name" value="华丽巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：全属性+7\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591050">
+		<string name="name" value="强力巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：攻击力+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591051">
+		<string name="name" value="光辉巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：魔法攻击力+3\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591052">
+		<string name="name" value="活力巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：最大HP+400\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591053">
+		<string name="name" value="锋利巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：防御力无视+5%\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+    <imgdir name="2591054">
+		<string name="name" value="毁灭巴洛古之魂"/>
+		<string name="desc" value="巴洛古的灵魂水晶。\r\n为#c受到灵魂附魔器影响的武器#赋予#c巴洛古技能和额外潜能#。\r\n#c额外潜能：BOSS攻击力+5%\r\n成功率：100%#\r\n可用于75级以上装备"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n用怪物灵魂附魔你的黎明武器。\r\n#"/>
+	</imgdir>
+</imgdir>

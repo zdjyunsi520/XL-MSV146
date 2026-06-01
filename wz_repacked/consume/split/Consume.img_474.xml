@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2048800">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon ATT: +1 to +4\r\n"/>
+		<string name="desc" value="Improves Weapon Attack on Pet equipment."/>
+		<string name="name" value="Miracle Scroll for Pet Equip. for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2048801">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic ATT: +1 to +4\r\n"/>
+		<string name="desc" value="Improves Magic Attack on Pet equipment."/>
+		<string name="name" value="Miracle Scroll for Pet Equip. for M ATT 50%"/>
+	</imgdir>
+    <imgdir name="2048802">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon ATT: +1 to +2\r\n"/>
+		<string name="desc" value="Improves Weapon Attack on Pet equipment."/>
+		<string name="name" value="Scroll for Pet Equip. for ATT 70%"/>
+	</imgdir>
+    <imgdir name="2048803">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMagic ATT: +1 to +2\r\n"/>
+		<string name="desc" value="Improves Magic Attack on Pet equipment."/>
+		<string name="name" value="Scroll for Pet Equip. for Magic ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046859">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nWeapon ATT: +1\r\n100% chance of destruction upon failure#"/>
+		<string name="desc" value="Improves Weapon Attack on New Years accessories."/>
+		<string name="name" value="New Year's Scroll for Accessory for Weapon ATT 80%"/>
+	</imgdir>
+    <imgdir name="2046860">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nMagic ATT: +1\r\n100% chance of destruction upon failure#"/>
+		<string name="desc" value="Improves Magic Attack on New Years accessories."/>
+		<string name="name" value="New Year's Scroll for Accessory for Magic ATT 80%"/>
+	</imgdir>
+    <imgdir name="2046870">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon ATT: +1 to +2\r\n"/>
+		<string name="desc" value="Improves Weapon Attack on accessories."/>
+		<string name="name" value="Scroll for Accessory for ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046871">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMagic ATT: +1 to +2\r\n"/>
+		<string name="desc" value="Improves Magic Attack on accessories."/>
+		<string name="name" value="Scroll for Accessory Magic ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046872">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon ATT: +7 to Magic ATT+2\r\n#"/>
+		<string name="desc" value="A scroll for the Singles Army Signet. Increases ATT and Magic ATT by 2."/>
+		<string name="name" value="Singles Army Signet Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2046873">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nChance to destroy item on failure: 100%\r\nSTR: +4\r\nDEX: +4\r\nINT: +4\r\nLUK: +4\r\n#"/>
+		<string name="desc" value="A scroll for the Singles Army Pendant. Increases all stats by 4."/>
+		<string name="name" value="Singles Army Pendant Enhancement Scroll"/>
+	</imgdir>
+    <imgdir name="2046981">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nWeapon ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Weapon ATT and adds all stats to One-Handed weapons."/>
+		<string name="name" value="Scroll for One-handed Weapon ATT 90%"/>
+	</imgdir>
+    <imgdir name="2046982">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nWeapon ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Weapon ATT and adds all stats to One-Handed weapons."/>
+		<string name="name" value="Scroll for One-handed Weapon ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046983">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nMagic ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Magic ATT and adds all stats to One-Handed weapons."/>
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 90%"/>
+	</imgdir>
+    <imgdir name="2046984">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nMagic ATT: +9\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK +3\r\n"/>
+		<string name="desc" value="Improves Magic ATT and adds all stats to One-Handed weapons."/>
+		<string name="name" value="Scroll for One-Handed Weapon for Magic ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046991">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +9 to +11\r\nAll Stats: +3\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="name" value="Magical Scroll for One-Handed Weapon for ATT"/>
+	</imgdir>
+    <imgdir name="2046992">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic ATT: +9 to +11\r\nAll Stats: +3\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="name" value="Magical Scroll for One-Handed Weapon for Magic ATT"/>
+	</imgdir>
+    <imgdir name="2047935">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAll Stats: +1\r\nMax HP: +50\r\nMax MP: +50\r\nAvoidability: +10\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="Armor Boost Scroll 100%"/>
+	</imgdir>
+    <imgdir name="2047936">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nMax HP: +100\r\nMax MP: +100\r\nAvoidability: +20\r\n#"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="name" value="Armor Boost Scroll 50%"/>
+	</imgdir>
+    <imgdir name="2046862">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nAll Stats: +1\r\nMax HP: +50\r\nMax MP: +50\r\nAccuracy: +10\r\n#"/>
+		<string name="desc" value="Improves accessory stats."/>
+		<string name="name" value="Accessory Boost Scroll 100%"/>
+	</imgdir>
+    <imgdir name="2046863">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nMax HP: +100\r\nMax MP: +100\r\nAccuracy: +20\r\n#"/>
+		<string name="desc" value="Improves accessory stats."/>
+		<string name="name" value="Accessory Boost Scroll 50%"/>
+	</imgdir>
+</imgdir>

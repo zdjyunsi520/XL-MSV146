@@ -1,0 +1,7 @@
+<imgdir name="21000000">
+        <string name="name" value="连击能力" />
+        <string name="desc" value="每10连击数提升攻击力、防御力和速度。\n前置技能：#c双重挥击 Lv. 1#" />
+        <string name="h" value="攻击力：+#y，物理防御力：+#z，魔法防御力：+#z，速度：+#w，最大叠加层数：#x" />
+        <string name="pdesc" value="战斗模式下攻击力、速度和跳跃力永久提升。#c双重挥击 Lv. 1#" />
+        <string name="ph" value="攻击力 +#padX，速度 +#psdSpeed，跳跃力 +#psdJump" />
+    </imgdir>

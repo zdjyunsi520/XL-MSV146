@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2386017">
+		<string name="name" value="Jr. Newtie卡"/>
+		<string name="desc" value="以Jr. Newtie为主题的卡片。\n#c在龙森林狩猎时回避率+5#"/>
+	</imgdir>
+    <imgdir name="2386018">
+		<string name="name" value="梦幻幽灵卡"/>
+		<string name="desc" value="以梦幻幽灵为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386019">
+		<string name="name" value="男性Boss A卡"/>
+		<string name="desc" value="以男性Boss A为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386020">
+		<string name="name" value="樱花人头卡"/>
+		<string name="desc" value="以人头忍者为主题的卡片。\n#c在樱花城狩猎时回避率+5#"/>
+	</imgdir>
+    <imgdir name="2386021">
+		<string name="name" value="记忆僧侣卡"/>
+		<string name="desc" value="以记忆僧侣为主题的卡片。\n#c在记忆之街狩猎时回避率+5#"/>
+	</imgdir>
+    <imgdir name="2386022">
+		<string name="name" value="记忆僧侣学徒卡"/>
+		<string name="desc" value="以记忆僧侣学徒为主题的卡片。\n#c在记忆之街狩猎时命中率+5#"/>
+	</imgdir>
+    <imgdir name="2386023">
+		<string name="name" value="记忆守护者卡"/>
+		<string name="desc" value="以记忆守护者为主题的卡片。\n#c在记忆之街狩猎时跳跃力+5#"/>
+	</imgdir>
+    <imgdir name="2386024">
+		<string name="name" value="首席记忆守护者卡"/>
+		<string name="desc" value="以首席记忆守护者为主题的卡片。\n#c在记忆之街狩猎时移动速度+5#"/>
+	</imgdir>
+    <imgdir name="2386031">
+		<string name="name" value="Slygie卡"/>
+		<string name="desc" value="以Slygie为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386032">
+		<string name="name" value="Montrecer卡"/>
+		<string name="desc" value="以Montrecer为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386033">
+		<string name="name" value="皇家侍卫卡"/>
+		<string name="desc" value="以皇家侍卫为主题的卡片。\n#c在2503年新广州市狩猎时DEX+5"/>
+	</imgdir>
+    <imgdir name="2386034">
+		<string name="name" value="皇家护卫卡"/>
+		<string name="desc" value="以贝雅莫为主题的卡片。\n#c在2503年新广州市狩猎时STR+5"/>
+	</imgdir>
+    <imgdir name="2386035">
+		<string name="name" value="罐子卡"/>
+		<string name="desc" value="以罐子为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386036">
+		<string name="name" value="Goby卡"/>
+		<string name="desc" value="以Goby为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386037">
+		<string name="name" value="霍姆卡"/>
+		<string name="desc" value="以霍姆为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386038">
+		<string name="name" value="桃猴卡"/>
+		<string name="desc" value="以桃猴为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386040">
+		<string name="name" value="人参罐卡"/>
+		<string name="desc" value="以人参罐为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386041">
+		<string name="name" value="AF安卓卡"/>
+		<string name="desc" value="以AF安卓为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386042">
+		<string name="name" value="风铃草根卡"/>
+		<string name="desc" value="以风铃草根为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2386043">
+		<string name="name" value="Saitie卡"/>
+		<string name="desc" value="以Saitie为主题的卡片。"/>
+	</imgdir>
+</imgdir>

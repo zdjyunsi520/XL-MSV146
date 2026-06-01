@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2386017">
+		<string name="name" value="Jr. Newtie Card"/>
+		<string name="desc" value="A card that features Jr. Newtie.\n#cIf hunting at the Dragon ForestnAvoidability +5#"/>
+	</imgdir>
+    <imgdir name="2386018">
+		<string name="name" value="Dreamy Ghost Card"/>
+		<string name="desc" value="A card that features Dreamy Ghost."/>
+	</imgdir>
+    <imgdir name="2386019">
+		<string name="name" value="Male Boss A Card"/>
+		<string name="desc" value="A card that features Male Boss A."/>
+	</imgdir>
+    <imgdir name="2386020">
+		<string name="name" value="Sakura Ninto Card"/>
+		<string name="desc" value="A card that features Head Ninja.\n#cIncreases Avoidability +5 when you hunt at Sakura Castle.#"/>
+	</imgdir>
+    <imgdir name="2386021">
+		<string name="name" value="Memory Monk Card"/>
+		<string name="desc" value="A card with a picture of the Memory Monk.\n#cWhen hunting on Memory LanenEvasion rate +5#"/>
+	</imgdir>
+    <imgdir name="2386022">
+		<string name="name" value="Memory Monk Trainee Card"/>
+		<string name="desc" value="A card with a picture of the Memory Monk Trainee.\n#cWhen hunting on Memory LanenAccuracy +5#"/>
+	</imgdir>
+    <imgdir name="2386023">
+		<string name="name" value="Memory Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Memory Guardian.\n#cWhen hunting on Memory LanenJump +5#"/>
+	</imgdir>
+    <imgdir name="2386024">
+		<string name="name" value="Chief Memory Guardian Card"/>
+		<string name="desc" value="A card with a picture of the Chief Memory Guardian.\n#cWhen hunting on Memory LanenSpeed +5#"/>
+	</imgdir>
+    <imgdir name="2386031">
+		<string name="name" value="Slygie Card"/>
+		<string name="desc" value="A card that features Slygie."/>
+	</imgdir>
+    <imgdir name="2386032">
+		<string name="name" value="Montrecer Card"/>
+		<string name="desc" value="A card that features Montrecer."/>
+	</imgdir>
+    <imgdir name="2386033">
+		<string name="name" value="Imperial Guard Card"/>
+		<string name="desc" value="A card featuring the Imperial Guard.\n\cDEX +5 when hunting in Year 2503 Neo City#"/>
+	</imgdir>
+    <imgdir name="2386034">
+		<string name="name" value="Royal Guard Card"/>
+		<string name="desc" value="A card featuring the Bergamot.\n\cSTR +5 when hunting in Year 2503 Neo City#"/>
+	</imgdir>
+    <imgdir name="2386035">
+		<string name="name" value="Jar Card"/>
+		<string name="desc" value="A card that features Jar."/>
+	</imgdir>
+    <imgdir name="2386036">
+		<string name="name" value="Goby Card"/>
+		<string name="desc" value="A card that features Goby."/>
+	</imgdir>
+    <imgdir name="2386037">
+		<string name="name" value="Homun Card"/>
+		<string name="desc" value="A card that features Homun."/>
+	</imgdir>
+    <imgdir name="2386038">
+		<string name="name" value="Peach Monkey Card"/>
+		<string name="desc" value="A card that features Peach Monkey."/>
+	</imgdir>
+    <imgdir name="2386040">
+		<string name="name" value="Ginseng Jar Card"/>
+		<string name="desc" value="A card that features Ginseng Jar."/>
+	</imgdir>
+    <imgdir name="2386041">
+		<string name="name" value="AF Android Card"/>
+		<string name="desc" value="A card that features AF Android."/>
+	</imgdir>
+    <imgdir name="2386042">
+		<string name="name" value="Bellflower Root Card"/>
+		<string name="desc" value="A card that features Bellflower Root."/>
+	</imgdir>
+    <imgdir name="2386043">
+		<string name="name" value="Saitie Card"/>
+		<string name="desc" value="A card that features Saitie."/>
+	</imgdir>
+</imgdir>

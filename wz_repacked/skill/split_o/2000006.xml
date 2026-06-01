@@ -1,0 +1,5 @@
+<imgdir name="2000006">
+        <string name="name" value="MP Boost" />
+        <string name="desc" value="Increases Max MP permanently. Also increases MP proportional to your level." />
+        <string name="h" value="Max MP: +#mmpR%, MP increases by #lv2mmp per level" />
+    </imgdir>

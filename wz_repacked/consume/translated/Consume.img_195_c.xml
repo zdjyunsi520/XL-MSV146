@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290290">
+		<string name="name" value="[能手册]高级终极攻击 20"/>
+		<string name="desc" value="70%概率将#c高级终极攻击#的最高等级提升到20级。\n职业：英雄、神射手、梅赛德斯、猎人、米哈尔\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290291">
+		<string name="name" value="[能手册]高级终极攻击 30"/>
+		<string name="desc" value="50%概率将#c高级终极攻击#的最高等级提升到30级。\n职业：英雄、神射手、梅赛德斯、猎人、米哈尔\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290292">
+		<string name="name" value="[能手册]黑暗穿刺 20"/>
+		<string name="desc" value="70%概率将#c黑暗穿刺#的最高等级提升到20级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290293">
+		<string name="name" value="[能手册]黑暗穿刺 30"/>
+		<string name="desc" value="50%概率将#c黑暗穿刺#的最高等级提升到30级。\n职业：黑骑士\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290294">
+		<string name="name" value="[特殊能手册]高级终极攻击 30"/>
+		<string name="desc" value="100%概率将#c高级终极攻击#的最高等级提升到30级。\n职业：英雄、神射手\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290295">
+		<string name="name" value="[特殊能手册]勇猛劈斩 30"/>
+		<string name="desc" value="100%概率将#c勇猛劈斩#的最高等级提升到30级。\n职业：英雄\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290296">
+		<string name="name" value="[特殊能手册]突进 30"/>
+		<string name="desc" value="100%概率将#c突进#的最高等级提升到30级。\n职业：战士4转\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290297">
+		<string name="name" value="[特殊能手册]怪物磁铁 30"/>
+		<string name="desc" value="100%概率将#c怪物磁铁#的最高等级提升到30级。\n职业：所有战士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290298">
+		<string name="name" value="[特殊能手册]稳如泰山 30"/>
+		<string name="desc" value="100%概率将#c稳如泰山#的最高等级提升到30级。\n职业：战士4转\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290299">
+		<string name="name" value="[特殊能手册]爆破 30"/>
+		<string name="desc" value="100%概率将#c爆破#的最高等级提升到30级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290300">
+		<string name="name" value="[特殊能手册]守护 30"/>
+		<string name="desc" value="100%概率将#c守护#的最高等级提升到30级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290301">
+		<string name="name" value="[特殊能手册]天堂之锤 30"/>
+		<string name="desc" value="100%概率将#c天堂之锤#的最高等级提升到30级。\n职业：圣骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290302">
+		<string name="name" value="[特殊能手册]黑暗穿刺 30"/>
+		<string name="desc" value="100%概率将#c黑暗穿刺#的最高等级提升到30级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290303">
+		<string name="name" value="[特殊能手册]黑暗迷雾 30"/>
+		<string name="desc" value="100%概率将#c黑暗迷雾#的最高等级提升到30级。\n职业：黑骑士\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290304">
+		<string name="name" value="[特殊能手册]麻痹 30"/>
+		<string name="desc" value="100%概率将#c麻痹#的最高等级提升到30级。\n职业：魔导师（火、毒）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290305">
+		<string name="name" value="[特殊能手册]迷雾爆发 30"/>
+		<string name="desc" value="100%概率将#c迷雾爆发#的最高等级提升到30级。\n职业：魔导师（火、毒）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290306">
+		<string name="name" value="[特殊能手册]无限 30"/>
+		<string name="desc" value="100%概率将#c无限#的最高等级提升到30级。\n职业：法师4转\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290307">
+		<string name="name" value="[特殊能手册]奥术瞄准 30"/>
+		<string name="desc" value="100%概率将#c奥术瞄准#的最高等级提升到30级。\n职业：4转法师\n条件：技能等级：5级以上"/>
+	</imgdir>
+    <imgdir name="2290308">
+		<string name="name" value="[特殊能手册]伊夫利特 30"/>
+		<string name="desc" value="100%概率将#c伊夫利特#的最高等级提升到30级。\n职业：魔导师（火、毒）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290309">
+		<string name="name" value="[特殊能手册]连环闪电 30"/>
+		<string name="desc" value="100%概率将#c连环闪电#的最高等级提升到30级。\n职业：魔导师（冰、雷）\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

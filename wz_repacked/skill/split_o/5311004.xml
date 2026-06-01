@@ -1,0 +1,8 @@
+<imgdir name="5311004">
+        <string name="name" value="Barrel Roulette" />
+        <string name="desc" value="Explodes a Oak Barrel to receive a random buff. When the buff is active, attacking an enemy has a fixed chance of causing abnormal status on them." />
+        <string name="h" value="MP Cost: #mpCon, Buff Duration: #time sec, Attacks have #w% chance to debuff enemy with darkness, stun, freeze, or slow for #v sec.\nPassive effect: Damage: +#damR% \n#cCooldown time:  #cooltime sec.#" />
+        <string name="pdesc" value="Explodes a Oak Barrel to receive a random buff. When the buff is active, attacking an enemy has a fixed chance of causing abnormal status on them." />
+        <string name="ph" value="MP Cost: #mpCon, Buff Duration: #time sec, Attacks have #w% chance to debuff enemy with darkness, stun, freeze, or slow for #v sec.\nPassive effect: Damage: +#damR% \n#cCooldown time:  #cooltime sec.#" />
+        <string name="hch" value="MP Cost: #mpCon, Buff Duration: #time sec, When attacking, darkness, stun, freeze, or slow status will be applied to target with #hcProp% chance for #hcSubTime sec.\n#cCooldown time:  #cooltime sec#" />
+    </imgdir>

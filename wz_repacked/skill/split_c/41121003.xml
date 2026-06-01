@@ -1,0 +1,5 @@
+<imgdir name="41121003">
+        <string name="name" value="铁皮" />
+        <string name="desc" value="暂时提升异常状态抗性和属性抗性。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，异常状态抗性：+#x%，属性抗性：+#y%" />
+    </imgdir>

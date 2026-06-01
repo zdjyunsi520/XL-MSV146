@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2023238">
+		<string name="name" value="守护"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2023239">
+		<string name="name" value="高级祝福"/>
+		<string name="desc" value=""/>
+	</imgdir>
+    <imgdir name="2023240">
+		<string name="desc" value=""/>
+		<string name="name" value="冥想"/>
+	</imgdir>
+    <imgdir name="2023241">
+		<string name="desc" value=""/>
+		<string name="name" value="鹰眼"/>
+	</imgdir>
+    <imgdir name="2023242">
+		<string name="desc" value=""/>
+		<string name="name" value="加速"/>
+	</imgdir>
+    <imgdir name="2023243">
+		<string name="desc" value=""/>
+		<string name="name" value="速度注入"/>
+	</imgdir>
+    <imgdir name="2023244">
+		<string name="desc" value="来自冒险岛女神的祝福，帮助你抵抗无形的黑暗。"/>
+		<string name="name" value="枫叶祝福"/>
+	</imgdir>
+    <imgdir name="2023245">
+		<string name="desc" value=""/>
+		<string name="name" value="复活"/>
+	</imgdir>
+    <imgdir name="2023246">
+		<string name="desc" value=""/>
+		<string name="name" value="冲击护盾"/>
+	</imgdir>
+    <imgdir name="2023248">
+		<string name="name" value="经验熵"/>
+		<string name="desc" value="在克里蒂亚斯狩猎怪物时，经验值奖励增加1.5倍。此物品的效果可与其他经验值奖励物品叠加。"/>
+	</imgdir>
+    <imgdir name="2023249">
+		<string name="name" value="反魔法熵"/>
+		<string name="desc" value="临时增加从怪物掉落的反魔法碎片和每日任务获得的反魔法石的反魔法奖励。"/>
+	</imgdir>
+    <imgdir name="2023250">
+		<string name="name" value="时尚之神增益"/>
+		<string name="desc" value="时尚之神奖励你在大头怪无尽的解说中存活下来。武器/魔法攻击力增加10，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2028205">
+		<string name="desc" value="#c双击#这个未识别的10周年卷轴来查明它是什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="未识别的10周年卷轴"/>
+	</imgdir>
+    <imgdir name="2028208">
+		<string name="desc" value="此盒子包含一个10周年白色武器。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年白色武器盒"/>
+	</imgdir>
+    <imgdir name="2028209">
+		<string name="desc" value="此盒子包含一个10周年白色防具。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年白色防具盒"/>
+	</imgdir>
+    <imgdir name="2028210">
+		<string name="desc" value="此盒子包含10周年Bits。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年Bits盒"/>
+	</imgdir>
+    <imgdir name="2028211">
+		<string name="desc" value="送给最强者的盒子。#c双击#获得随机物品。"/>
+		<string name="name" value="最强者盒"/>
+	</imgdir>
+    <imgdir name="2028212">
+		<string name="desc" value="送给最强中之最强者的盒子。#c双击#获得随机物品。"/>
+		<string name="name" value="最强中之最强盒"/>
+	</imgdir>
+    <imgdir name="2028213">
+		<string name="desc" value="送给真正最强中之最强者的盒子。#c双击#获得随机物品。"/>
+		<string name="name" value="真正最强中之最强盒"/>
+	</imgdir>
+    <imgdir name="2028214">
+		<string name="desc" value="此盒子包含一个10周年黑色武器。#c双击#查看里面有什么。\n#cTKTKTK过期。#"/>
+		<string name="name" value="10周年黑色武器盒"/>
+	</imgdir>
+</imgdir>

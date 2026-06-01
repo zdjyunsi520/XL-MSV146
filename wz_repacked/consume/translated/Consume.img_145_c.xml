@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2047300">
+		<string name="name" value="饰品强化石板 力量"/>
+		<string name="desc" value="强化有耐久度的饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047301">
+		<string name="name" value="饰品强化石板 智力"/>
+		<string name="desc" value="强化有耐久度的饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047302">
+		<string name="name" value="饰品强化石板 敏捷"/>
+		<string name="desc" value="强化有耐久度的饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047303">
+		<string name="name" value="饰品强化石板 幸运"/>
+		<string name="desc" value="强化有耐久度的饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n幸运：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047304">
+		<string name="name" value="饰品强化石板 勤劳"/>
+		<string name="desc" value="强化有耐久度的饰品的勤劳。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n勤劳：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2047305">
+		<string name="name" value="饰品强化石板 跳跃"/>
+		<string name="desc" value="强化有耐久度的饰品的跳跃力。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n跳跃：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047306">
+		<string name="name" value="饰品强化石板 命中"/>
+		<string name="desc" value="强化有耐久度的饰品的命中。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n命中：+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047307">
+		<string name="name" value="饰品强化石板 回避"/>
+		<string name="desc" value="强化有耐久度的饰品的回避。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n回避：+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2047308">
+		<string name="name" value="饰品强化石板 生命值"/>
+		<string name="desc" value="强化有耐久度的饰品的最大生命值。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n最大生命值：+80\r\n#"/>
+	</imgdir>
+    <imgdir name="2047309">
+		<string name="name" value="饰品强化石板 魔法值"/>
+		<string name="desc" value="强化有耐久度的饰品的最大魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n最大魔法值：+80\r\n#"/>
+	</imgdir>
+    <imgdir name="2047900">
+		<string name="name" value="ES防具强化卷轴 力量 60%"/>
+		<string name="desc" value="强化防具的力量。"/>
+		<string name="autodesc" value="\r\n#c可用于100-120级装备\r\n成功率：60%\r\n力量+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2047901">
+		<string name="name" value="ES防具强化卷轴 智力 60%"/>
+		<string name="desc" value="强化防具的智力。"/>
+		<string name="autodesc" value="\r\n#c可用于100-120级装备\r\n成功率：60%\r\n智力+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2047902">
+		<string name="name" value="ES防具强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化防具的敏捷。"/>
+		<string name="autodesc" value="\r\n#c可用于100-120级装备\r\n成功率：60%\r\n敏捷+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2047903">
+		<string name="name" value="ES防具强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化防具的幸运。"/>
+		<string name="autodesc" value="\r\n#c可用于100-120级装备\r\n成功率：60%\r\n幸运+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2047904">
+		<string name="name" value="防具强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化防具的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047905">
+		<string name="name" value="防具强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化防具的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2048000">
+		<string name="name" value="宠物装备强化卷轴 速度 100%"/>
+		<string name="desc" value="强化宠物装备的速度。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n速度：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2048001">
+		<string name="name" value="宠物装备强化卷轴 速度 60%"/>
+		<string name="desc" value="强化宠物装备的速度。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n速度：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2048002">
+		<string name="name" value="宠物装备强化卷轴 速度 10%"/>
+		<string name="desc" value="强化宠物装备的速度。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n速度：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2048003">
+		<string name="name" value="宠物装备强化卷轴 跳跃 100%"/>
+		<string name="desc" value="强化宠物装备的跳跃力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n跳跃：+1\r\n#"/>
+	</imgdir>
+</imgdir>

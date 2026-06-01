@@ -1,0 +1,5 @@
+<imgdir name="15121002">
+        <string name="name" value="Thunderbolt" />
+        <string name="desc" value="Call down a destructive bolt of electricity in front of you. Can be linked with all skills excluding Thunder and self-skills." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

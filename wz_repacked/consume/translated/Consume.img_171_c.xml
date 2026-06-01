@@ -1,0 +1,78 @@
+<imgdir name="Consume.img">
+    <imgdir name="2101090">
+		<string name="name" value="怪物袋（圣诞07_11）"/>
+		<string name="desc" value="怪物袋（圣诞07_11）"/>
+	</imgdir>
+    <imgdir name="2101091">
+		<string name="name" value="怪物袋（圣诞07_12）"/>
+		<string name="desc" value="怪物袋（圣诞07_12）"/>
+	</imgdir>
+    <imgdir name="2101092">
+		<string name="name" value="怪物袋（圣诞07_13）"/>
+		<string name="desc" value="怪物袋（圣诞07_13）"/>
+	</imgdir>
+    <imgdir name="2101093">
+		<string name="name" value="怪物袋（圣诞07_14）"/>
+		<string name="desc" value="怪物袋（圣诞07_14）"/>
+	</imgdir>
+    <imgdir name="2101110">
+		<string name="name" value="怪物召唤袋（利维亚）"/>
+		<string name="desc" value="召唤1只利维亚。"/>
+	</imgdir>
+    <imgdir name="2101124">
+		<string name="name" value="巨型雪人（1级）-简单袋"/>
+		<string name="desc" value="召唤巨型雪人的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101125">
+		<string name="name" value="巨型雪人（1级）-中等袋"/>
+		<string name="desc" value="召唤巨型雪人的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101126">
+		<string name="name" value="巨型雪人（1级）-困难袋"/>
+		<string name="desc" value="召唤巨型雪人的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101127">
+		<string name="name" value="十字（简单）袋"/>
+		<string name="desc" value="召唤十字的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101128">
+		<string name="name" value="十字（中等）袋"/>
+		<string name="desc" value="召唤十字的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101129">
+		<string name="name" value="十字（困难）袋"/>
+		<string name="desc" value="召唤十字的怪物袋。"/>
+	</imgdir>
+    <imgdir name="2101130">
+		<string name="name" value="召唤圣诞袜"/>
+		<string name="desc" value="召唤圣诞袜怪物。"/>
+	</imgdir>
+    <imgdir name="2101131">
+		<string name="name" value="召唤运气袋"/>
+		<string name="desc" value="召唤运气袋。"/>
+	</imgdir>
+    <imgdir name="2101137">
+		<string name="name" value="神秘之地召唤袋-丛林果酱"/>
+		<string name="desc" value="一个神秘的黑色袋子，召唤来自克拉基安丛林的怪物。"/>
+	</imgdir>
+    <imgdir name="2101138">
+		<string name="name" value="神秘之地召唤袋-腐化军团"/>
+		<string name="desc" value="一个神秘的黑色袋子，召唤来自深红木山的怪物。"/>
+	</imgdir>
+    <imgdir name="2101139">
+		<string name="name" value="神秘之地召唤袋-BOSS"/>
+		<string name="desc" value="一个神秘的黑色袋子，召唤来自神秘之地的强大怪物。不适合心脏不好的人！大脚会踩扁几乎任何人！"/>
+	</imgdir>
+    <imgdir name="2101140">
+		<string name="name" value="神秘之地副本召唤袋1"/>
+	</imgdir>
+    <imgdir name="2101141">
+		<string name="name" value="神秘之地副本召唤袋2"/>
+	</imgdir>
+    <imgdir name="2101142">
+		<string name="name" value="神秘之地副本召唤袋3"/>
+	</imgdir>
+    <imgdir name="2101143">
+		<string name="name" value="神秘之地副本召唤袋4"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2020019">
+		<string name="name" value="Chocolate Cake"/>
+		<string name="desc" value="MapleStory 6th Anniversary Cake. Recovers 1800 HP and MP."/>
+	</imgdir>
+    <imgdir name="2020020">
+		<string name="name" value="Wedding Cake"/>
+		<string name="desc" value="A Wedding cake that coming  Recovers 2000 HP and MP."/>
+	</imgdir>
+    <imgdir name="2020021">
+		<string name="name" value="Nemi's Lunch Box"/>
+		<string name="desc" value="A fresh-made lunch box made by Nemi of Ludibrium for her dad, Kaho of the Toy Factory. Recovers 10 HP."/>
+	</imgdir>
+    <imgdir name="2020022">
+		<string name="name" value="White Chocolate"/>
+		<string name="desc" value="A very delicious, home-made white chocolate. Attack + 5 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2020023">
+		<string name="name" value="Dark Chocolate"/>
+		<string name="desc" value="A very delicious, home-made dark chocolate. Magic Attack + 5 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2020024">
+		<string name="name" value="Chocolate Basket"/>
+		<string name="desc" value="A chocolate basket decorated with ribbons and marbles. Accuracy +200, Avoidability +200, and Movement Speed +10 for 30 min."/>
+	</imgdir>
+    <imgdir name="2020025">
+		<string name="name" value="Pineapple Candy"/>
+		<string name="desc" value="A very sweet, home-made pineapple candy. Attack +5 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2020026">
+		<string name="name" value="Strawberry Candy"/>
+		<string name="desc" value="A very sweet, home-made strawberry candy. Magic Attack +5 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2020027">
+		<string name="name" value="Candy Basket"/>
+		<string name="desc" value="A fruit candy basket decorated with ribbons and marbles. Accuracy +200, Avoidability +200, and Movement Speed +10 for 30min."/>
+	</imgdir>
+    <imgdir name="2020028">
+		<string name="name" value="Chocolate"/>
+		<string name="desc" value="Milk chocolate that has a strong sweet scent. This is used to make the chocolate-dipped cookie stick.\nRecovers each of HP and MP by 1000."/>
+	</imgdir>
+    <imgdir name="2020029">
+		<string name="name" value="Corn"/>
+		<string name="desc" value="A fresh corn plucked right off the stalk.\nRecovers 100 MP."/>
+	</imgdir>
+    <imgdir name="2020030">
+		<string name="name" value="Roasted Turkey"/>
+		<string name="desc" value="A well-roasted turkey enough to feed the whole family.\nRecovers 100 HP."/>
+	</imgdir>
+    <imgdir name="2020031">
+		<string name="name" value="Coca_Cola"/>
+		<string name="desc" value="Sweet and fizzy #cCoca-Cola#. \nRecovers 30% of Max HP and MP, with a limit of 30,000 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2020032">
+		<string name="name" value="Birthday Cake"/>
+		<string name="desc" value="A tasty-looking cake full of whipped cream and fruit toppings.\nRecovers 365 MP and HP."/>
+	</imgdir>
+    <imgdir name="2020033">
+		<string name="name" value="Gingerbread Man Cookie"/>
+		<string name="desc" value="A tasty Gingerbread Man Cookie made with Black Tea.\nRecovers around 500 HP."/>
+	</imgdir>
+    <imgdir name="2020034">
+		<string name="name" value="Gingerbread Woman Cookie"/>
+		<string name="desc" value="A tasty Gingerbread Woman Cookie made with Black Tea.\nRecovers around 1200 HP."/>
+	</imgdir>
+    <imgdir name="2020035">
+		<string name="name" value="Candy Cane"/>
+		<string name="desc" value="A cane-shaped treat with red and white stripes.\nRecovers around 800 MP."/>
+	</imgdir>
+    <imgdir name="2020045">
+		<string name="name" value="Sunrise Dew"/>
+		<string name="desc" value="Dew collected in the early morning. Recovers 4000 MP."/>
+	</imgdir>
+    <imgdir name="2020046">
+		<string name="name" value="Sunset Dew"/>
+		<string name="desc" value="A bottle of dew that somehow managed to avoid drying out by evening. Recovers 5000 MP."/>
+	</imgdir>
+    <imgdir name="2022000">
+		<string name="name" value="Pure Water"/>
+		<string name="desc" value="Very clean water.\nRecovers up to 800 MP."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,287 @@
+<imgdir name="5000025">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Oink~"/>
+		<string name="c1_s2" value="Oink Oink~"/>
+		<string name="c1_f1" value="What the..Oink?"/>
+		<string name="c1_f2" value="...?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="You mean like this, master? Oink~"/>
+		<string name="c2_s2" value="Yes master! I'll do whatever you wish...Oink~"/>
+		<string name="c2_s3" value="Am I sitting right, master?...Oink!"/>
+		<string name="c2_s4" value="I must sit now! Oink~"/>
+		<string name="c2_f1" value="Humph! Oink~"/>
+		<string name="c2_f2" value="Next time perhaps...Oink~"/>
+		<string name="c2_f3" value="What are ya trying to say, master? Oink~"/>
+		<string name="c2_f4" value="Feed me? Oink~"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Yes, my master! Oink Oink~"/>
+		<string name="c3_s2" value="Oooink!! Oink will be a good boy/girl! Oink!~"/>
+		<string name="c3_s3" value="Do I sit like this? Oink!"/>
+		<string name="c3_s4" value="Gooooood Oink!"/>
+		<string name="c3_f1" value="Try again later, master. Oink~"/>
+		<string name="c3_f2" value="Try harder, master! Oink~"/>
+		<string name="c3_f3" value="Sit where? Why?"/>
+		<string name="c3_f4" value="It's not like I'll be getting a prize for doing this... Oink~"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="I was born ready...to sit!"/>
+		<string name="c4_s2" value="I needed to rest.. Thank you master."/>
+		<string name="c4_s3" value="Let's sit down and chat all you want!"/>
+		<string name="c4_s4" value="What a relief! Oink~"/>
+		<string name="c4_f1" value="Sit? You mean babysit? Good one!"/>
+		<string name="c4_f2" value="Wow... nice try... you almost had me."/>
+		<string name="c4_f3" value="LEAVE ME ALONE!"/>
+		<string name="c4_f4" value="No mud, no deal!"/>
+		<string name="c5" value="bad|no|badgirl|badboy"/>
+		<string name="c5_s1" value="Oink's crying now! Oooink~"/>
+		<string name="c5_s2" value="O...i....n...k!~"/>
+		<string name="c5_f1" value="But Oink is in happy mood! Oink~"/>
+		<string name="c5_f2" value="Oink tried but failed...Oink~"/>
+		<string name="c6" value="bad|no|badgirl|badboy"/>
+		<string name="c6_s1" value="Awwwww! Oink Oink~"/>
+		<string name="c6_s2" value="Awwwww! Oink is so sorry,master! Oink Oink~"/>
+		<string name="c6_s3" value="Oink will not do it again, master!! Oooink~~"/>
+		<string name="c6_s4" value="Give me a second chance.... Oink..."/>
+		<string name="c6_f1" value="Arrrghh... OINK!"/>
+		<string name="c6_f2" value="So what? Oink~"/>
+		<string name="c6_f3" value="Not really.... Oink."/>
+		<string name="c6_f4" value="What now? Oink~"/>
+		<string name="c7" value="bad|no|badgirl|badboy"/>
+		<string name="c7_s1" value="I admit... I have been bad..."/>
+		<string name="c7_s2" value="I won't do that again... Oink..."/>
+		<string name="c7_s3" value="Please forgive me master... Oink.."/>
+		<string name="c7_s4" value="I regret it!...."/>
+		<string name="c7_f1" value="Whatever....."/>
+		<string name="c7_f2" value="Oh really?"/>
+		<string name="c7_f3" value="You are cruel. Take out a rib next time, it'll hurt less!"/>
+		<string name="c7_f4" value="BAD TO THE BONE!"/>
+		<string name="c8" value="bad|no|badgirl|badboy"/>
+		<string name="c8_s1" value="But I still love you... Oink..."/>
+		<string name="c8_s2" value="So... scare... Oink..."/>
+		<string name="c8_s3" value="I will be a good pet from now on.. Oink..."/>
+		<string name="c8_s4" value="No, I'm sorry! Put away the BBQ sauce!"/>
+		<string name="c8_f1" value="Me?  Are you talking to me?"/>
+		<string name="c8_f2" value="Seriously, I didn't do anything wrong."/>
+		<string name="c8_f3" value="I see your lips moving, but you aren't saying anything!"/>
+		<string name="c8_f4" value="Innocent I tell you! Innocent!"/>
+		<string name="c9" value="poop"/>
+		<string name="c9_s1" value="Oink~!"/>
+		<string name="c9_s2" value="Oink~~~~"/>
+		<string name="c9_f1" value="Oink??"/>
+		<string name="c9_f2" value="...you didn't feed me, genius."/>
+		<string name="c10" value="poop"/>
+		<string name="c10_s1" value="Well, here you go~ Oink."/>
+		<string name="c10_s2" value="That feels good. Oink!"/>
+		<string name="c10_s3" value="You didn't see this, did you? Oink~!"/>
+		<string name="c10_s4" value="It is about time~ Oink."/>
+		<string name="c10_f1" value="Ermm, right here? Oink?"/>
+		<string name="c10_f2" value="Ermm.. Right now? Oink?"/>
+		<string name="c10_f3" value="Don't think so~ Oink!"/>
+		<string name="c10_f4" value="So Uncivilized~ Oink!"/>
+		<string name="c11" value="poop"/>
+		<string name="c11_s1" value="That felt great!... Oink~"/>
+		<string name="c11_s2" value="Hmmm, it stinks! Oink Oink~"/>
+		<string name="c11_s3" value="Oink... Poooooooooop! Ahhhh. Oink~"/>
+		<string name="c11_s4" value="O....O....Oink!~"/>
+		<string name="c11_f1" value="Too many people here! Oink~"/>
+		<string name="c11_f2" value="Please feed me first! Oink~"/>
+		<string name="c11_f3" value="After you master! Oink~"/>
+		<string name="c11_f4" value="I can hold it! Oink~"/>
+		<string name="c12" value="poop"/>
+		<string name="c12_s1" value="Oink pooooooooooop!!~"/>
+		<string name="c12_s2" value="Poo poo~ Poo poo~! Oooink!"/>
+		<string name="c12_s3" value="How did master know I needa to poop? Ahhh... Oink~"/>
+		<string name="c12_s4" value="Ah...booty air!"/>
+		<string name="c12_f1" value="*Ugh* I got nothing!"/>
+		<string name="c12_f2" value="Not at the moment, master... Oink~"/>
+		<string name="c12_f3" value="Stop forcing me! Oink~"/>
+		<string name="c12_f4" value="Oof...I only farted! Oink!"/>
+		<string name="c13" value="talk|chat|say"/>
+		<string name="c13_s1" value="I'm saying, though. Oink."/>
+		<string name="c13_s2" value="I can chat 24/7~ Sure you want to get me going?"/>
+		<string name="c13_s3" value="Word to the Oinker."/>
+		<string name="c13_s4" value="Let's go hunt down some monsters!"/>
+		<string name="c13_f1" value="Shhhh.... Quiet now..."/>
+		<string name="c13_f2" value="Have you ever seen a talking golden pig? Oink."/>
+		<string name="c13_f3" value="Talk to someone else, Oink."/>
+		<string name="c13_f4" value="No friends? Sad. Oink~"/>
+		<string name="c14" value="talk|chat|say"/>
+		<string name="c14_s1" value="Hey, can I call you when you are offline? Oink~"/>
+		<string name="c14_s2" value="Don't leave me offline so much~ I will miss you so much!"/>
+		<string name="c14_s3" value="I am probably the best serving pet ever in your life Oink~"/>
+		<string name="c14_s4" value="How sweeeeet you are... You want to have a word with me!!! Oink."/>
+		<string name="c14_f1" value="I can spell N-O!"/>
+		<string name="c14_f2" value="You mean in English? Oink~"/>
+		<string name="c14_f3" value="Oink. I only speak pig latin!"/>
+		<string name="c14_f4" value="What are you talking about Master?? Oink~"/>
+		<string name="c15" value="talk|chat|say"/>
+		<string name="c15_s1" value="If I ever turn back into a doll, please get me a water of life so I can keep hanging out with you."/>
+		<string name="c15_s2" value="Can I be with you forever?  I will never want to leave you~ Oink~"/>
+		<string name="c15_s3" value="Let's go to Ludi!"/>
+		<string name="c15_s4" value="Let's visit Omega Sector for a field trip! YAY!!"/>
+		<string name="c15_f1" value="Blah, Blah, Blah..."/>
+		<string name="c15_f2" value="YOU talk, and I'll listen."/>
+		<string name="c15_f3" value="I feel like sleeping now.... Oink."/>
+		<string name="c15_f4" value="Put away your fork. You're not going to use it!"/>
+		<string name="c16" value="loveme|hugme"/>
+		<string name="c16_s1" value="Oooink Oooink!~"/>
+		<string name="c16_s2" value="Oink loves ya! Oink~"/>
+		<string name="c16_s3" value="Giving out much love~! Oink!"/>
+		<string name="c16_s4" value="Oink's O stands for Only you~!"/>
+		<string name="c16_f1" value="Huh??? Oink?"/>
+		<string name="c16_f2" value="Nah, I don't feel like it~ Oink!"/>
+		<string name="c16_f3" value="Go take a shower first~ Oink~"/>
+		<string name="c16_f4" value="Let me eat first will you? Oink~"/>
+		<string name="c17" value="loveme|hugme"/>
+		<string name="c17_s1" value="Like this, master? Oink~"/>
+		<string name="c17_s2" value="Master is so warm! Oooink~"/>
+		<string name="c17_s3" value="Oooink Oooink!!~"/>
+		<string name="c17_s4" value="Oink hugs Master! Oooink~"/>
+		<string name="c17_f1" value="No way! Oink~"/>
+		<string name="c17_f2" value="Oink not ready for it yet... Oink~"/>
+		<string name="c17_f3" value="Please bathe first, master? Oink~"/>
+		<string name="c17_f4" value="Oink is too dirty now!... Oink~"/>
+		<string name="c18" value="loveme|hugme"/>
+		<string name="c18_s1" value="Love me tender~ Love me sweet~ Oink~"/>
+		<string name="c18_s2" value="And never let me go~ Oink~"/>
+		<string name="c18_s3" value="You've got the whole world~ Oink~"/>
+		<string name="c18_s4" value="Master loves me..And I love master! Oink Oink~~"/>
+		<string name="c18_f1" value="Love me to love you! Oink!"/>
+		<string name="c18_f2" value="What did you expect? Oink~"/>
+		<string name="c18_f3" value="LOL, like I am gonna buy it!"/>
+		<string name="c18_f4" value="Not you!"/>
+		<string name="c19" value="sleep|sleepy|gotobed"/>
+		<string name="c19_s1" value="Good night master!! Oink~"/>
+		<string name="c19_s2" value="Oooink! Zzzzzzzzzzz..Ooink!!"/>
+		<string name="c19_s3" value="Oink loves it! Oink~"/>
+		<string name="c19_s4" value="Yes! Immediately! Oooink~"/>
+		<string name="c19_f1" value="Sleep often? Don't think so! Oink~"/>
+		<string name="c19_f2" value="Told ya master, Oink doesn't sleep often~"/>
+		<string name="c19_f3" value="Sleep is for the weak. Oink!"/>
+		<string name="c19_f4" value="Can Oink have his supper instead? Oink~"/>
+		<string name="c20" value="sleep|sleepy|gotobed"/>
+		<string name="c20_s1" value="Oink is sleepy as well! Oink~"/>
+		<string name="c20_s2" value="Yawnzzzz...Oink Oink~"/>
+		<string name="c20_s3" value="Master yawns with Oink! Oink~"/>
+		<string name="c20_s4" value="Master's mouth is as big as mine! Oink~"/>
+		<string name="c20_f1" value="Bed with no dinner? Think again! "/>
+		<string name="c20_f2" value="Must poop! Oink~"/>
+		<string name="c20_f3" value="Me? Sleepy? No way! Oink~"/>
+		<string name="c20_f4" value="The night is still young, master...Oink~"/>
+		<string name="c21" value="iloveyou"/>
+		<string name="c21_s1" value="I love you too! Oink Oink!"/>
+		<string name="c21_s2" value="Really? I'm so happy! Oooink~"/>
+		<string name="c21_f1" value="Oink... Oink... NOPE!"/>
+		<string name="c21_f2" value="...Oink..."/>
+		<string name="c22" value="iloveyou"/>
+		<string name="c22_s1" value="Master loves me! Oink~"/>
+		<string name="c22_s2" value="I'm so touched! Oink~"/>
+		<string name="c22_s3" value="Your love is one in a million!"/>
+		<string name="c22_s4" value="Oooooink Oooooink!!~"/>
+		<string name="c22_f1" value="Do you think I care? Oink~"/>
+		<string name="c22_f2" value="When can I get my sleep? Oink~"/>
+		<string name="c22_f3" value="Don't kiss me, I bite! Oink!"/>
+		<string name="c22_f4" value="Zzzzzzzz! Oink~"/>
+		<string name="c23" value="iloveyou"/>
+		<string name="c23_s1" value="I love only you, master!"/>
+		<string name="c23_s2" value="Yes! I have waited 6 months and 8 days to hear that!"/>
+		<string name="c23_s3" value="I love you too, master! Oink~!"/>
+		<string name="c23_s4" value="The happiest pig ever! Oink~!"/>
+		<string name="c23_f1" value="What? Lies. "/>
+		<string name="c23_f2" value="Oink...O Rly?"/>
+		<string name="c23_f3" value="What did you say? Oink?"/>
+		<string name="c23_f4" value="Mean it when you say it! Oink!"/>
+		<string name="c24" value="iloveyou"/>
+		<string name="c24_s1" value="How lovely am I? "/>
+		<string name="c24_s2" value="I will love you like crazy~ Oink~"/>
+		<string name="c24_s3" value="Me, me me!!!"/>
+		<string name="c24_s4" value="Love you too~ Oink~"/>
+		<string name="c24_f1" value="Not smooth. At All."/>
+		<string name="c24_f2" value="You must earn my love!"/>
+		<string name="c24_f3" value="I miss my mom~ Oink..."/>
+		<string name="c24_f4" value="LIAR!"/>
+		<string name="c25" value="ignore"/>
+		<string name="c25_s1" value="As you wish, master... Oink!~"/>
+		<string name="c25_s2" value="&quot;Add ignore.&quot; I win!"/>
+		<string name="c25_s3" value="I was just about to do that! Oink~"/>
+		<string name="c25_f1" value="Why? Oink~"/>
+		<string name="c25_f2" value="I'm too tired to ignore... Oink..."/>
+		<string name="c25_f3" value="Why Oink must listen to ya? Oink~"/>
+		<string name="c26" value="ignore"/>
+		<string name="c26_s1" value="Humph! Oink~"/>
+		<string name="c26_s2" value="Like this, master? Oink Oink~"/>
+		<string name="c26_s3" value="It's all about ignoring! Oink!"/>
+		<string name="c26_f1" value="Zzzzzzz...Oink~"/>
+		<string name="c26_f2" value="Stop bothering Oink! Oink~"/>
+		<string name="c26_f3" value="Whatever.....blehhhh Oink!"/>
+		<string name="c27" value="ignore"/>
+		<string name="c27_s1" value="It's like that huh?"/>
+		<string name="c27_s2" value="Hoa~  I can do this all day~"/>
+		<string name="c27_s3" value="Total ignorance..."/>
+		<string name="c27_f1" value="Ignore who? you?"/>
+		<string name="c27_f2" value="Try harder!"/>
+		<string name="c27_f3" value="Who do you think you are!!!"/>
+		<string name="c28" value="impressed"/>
+		<string name="c28_s1" value="NICE."/>
+		<string name="c28_s2" value="Oink Oink Oink!~"/>
+		<string name="c28_s3" value="So proud of myself! Ooink~"/>
+		<string name="c28_f1" value="Yawnz! Oink~"/>
+		<string name="c28_f2" value="Are ya sure, master? Oink~"/>
+		<string name="c28_f3" value="I'm so tired of it, master...Oink~"/>
+		<string name="c29" value="impressed"/>
+		<string name="c29_s1" value="Impressive indeed! Oooooink!!~"/>
+		<string name="c29_s2" value="*Wink* Ooink Ooink~~"/>
+		<string name="c29_s3" value="!!OoOoink!!!"/>
+		<string name="c29_s4" value="You are not the first one~ Oink!"/>
+		<string name="c29_f1" value="You? Impressive? Give me a break."/>
+		<string name="c29_f2" value="Not me...no way."/>
+		<string name="c29_f3" value="Cut it out, master! Oink~"/>
+		<string name="c29_f4" value="Exciting as a watching paint dry..."/>
+		<string name="c30" value="outofhere"/>
+		<string name="c30_s1" value="Huh... I have been so loyal to you!"/>
+		<string name="c30_s2" value="Why master..why! Oink~"/>
+		<string name="c30_s3" value="No master...Noooo! Oink~"/>
+		<string name="c30_s4" value="Leaving me? T.T"/>
+		<string name="c30_f1" value="As if I care? Oink~"/>
+		<string name="c30_f2" value="Fine, me and my beautiful fat are out of here!"/>
+		<string name="c30_f3" value="No! Oink~"/>
+		<string name="c30_f4" value="Why should Oink? Oink~"/>
+		<string name="c31" value="outofhere"/>
+		<string name="c31_s1" value="After all these years...."/>
+		<string name="c31_s2" value="This is how you pay back my loyalty?"/>
+		<string name="c31_s3" value="O.O...WTH!"/>
+		<string name="c31_s4" value="Master don't love me anymore? Oink~"/>
+		<string name="c31_f1" value="I am afraid that I can~"/>
+		<string name="c31_f2" value="No, you out of here!"/>
+		<string name="c31_f3" value="Too much TV, son... Too much Tv..."/>
+		<string name="c31_f4" value="LOL, who is ordering who? Get yourself together!"/>
+		<string name="c32" value="roll|showmethemoney"/>
+		<string name="c32_s1" value="Okie dokie, master... Oink Oink~"/>
+		<string name="c32_s2" value="This is what others can't do! Oooooink!!!"/>
+		<string name="c32_s3" value="Watch me get my roll on!"/>
+		<string name="c32_s4" value="Dollars make the Maple World go round!"/>
+		<string name="c32_f1" value="Money..Me...? Oink? Hee...?"/>
+		<string name="c32_f2" value="I ain't got it! Oink!"/>
+		<string name="c32_f3" value="What is master trying to do to me? Oink!~"/>
+		<string name="c32_f4" value="Eh hee hee? Oink~"/>
+		<string name="c33" value="roll|showmethemoney"/>
+		<string name="c33_s1" value="Of course, master!"/>
+		<string name="c33_s2" value="All about the benjamins!"/>
+		<string name="c33_s3" value="More bounce...to the Oink!"/>
+		<string name="c33_s4" value="You see my skillz, huh?"/>
+		<string name="c33_f1" value="Go Hunt and you will get some!"/>
+		<string name="c33_f2" value="Short arms, deep pockets. Life isn't fair!"/>
+		<string name="c33_f3" value="Go see the goose for golden eggs, sucker!"/>
+		<string name="c33_f4" value="You for got to say the magic word! PLEASE~"/>
+		<string name="f1_s" value="Oink Oink~"/>
+		<string name="f1_f" value="Eeek~"/>
+		<string name="f2_s" value="Ooooink Ooooink~"/>
+		<string name="f2_f" value="Get it away from Oink~"/>
+		<string name="f3_s" value="Yummy! Ooink!!!~"/>
+		<string name="f3_f" value="On a diet!"/>
+		<string name="f4_s" value="Smells heavenly! Oink oink~"/>
+		<string name="f4_f" value="Is this safe? Oink!"/>
+		<string name="s1" value="Ooooink~"/>
+		<string name="s2" value="Golden pig for Golden words~"/>
+		<string name="s3" value="I only speak the fortune~ Oink~"/>
+		<string name="s4" value="I am disappointed T.T Oink~"/>
+	</imgdir>

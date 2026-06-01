@@ -1,0 +1,8 @@
+<imgdir name="35101003">
+        <string name="name" value="原子锤" />
+        <string name="desc" value="机甲使用内置原子力量猛击地面。对前方敌人造成巨大伤害，可能使其眩晕。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒，无视防御：#ignoreMobpdpR%" />
+        <string name="pdesc" value="机甲使用内置原子力量猛击地面。对前方敌人造成巨大伤害，可能使其眩晕。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒，无视防御：#ignoreMobpdpR%" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime秒，无视防御：#ignoreMobpdpR%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="14110003">
+        <string name="name" value="Alchemist" />
+        <string name="desc" value="Increases the effect of the recovery items like potions and lengthens their duration. Percentage based recover items, like Elixirs, do not count." />
+        <string name="h" value="Recovery Rate: +#x%, Duration: +#y%" />
+    </imgdir>

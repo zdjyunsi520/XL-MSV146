@@ -1,0 +1,7 @@
+<imgdir name="35101004">
+        <string name="name" value="Rocket Booster" />
+        <string name="desc" value="Uses rocket power to jump. When you land, you deal damage to enemies in range. Consumes MP when you launch and when you land." />
+        <string name="h" value="MP Cost: #mpCon each (launch and land), Damage: #damage%, Max Monsters Hit (upon landing): #mobCount" />
+        <string name="pdesc" value="Uses rocket power to jump. When you land, you deal damage to enemies in range. Consumes MP when you launch and when you land." />
+        <string name="ph" value="MP Cost: #mpCon each (launch and land), Damage: #damage%, Max Enemies Hit (upon landing): #mobCount" />
+    </imgdir>

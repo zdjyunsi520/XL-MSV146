@@ -1,0 +1,5 @@
+<imgdir name="61121100">
+        <string name="name" value="吉加斯波动" />
+        <string name="h" value="MP Cost: #mpCon, Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\r\nFinal Form: MP Cost: #v, Mobs Hit: #z, Damage: #y%, Number of Attacks: #w" />
+        <string name="desc" value="用强力的剑刃斩击轰击敌人！所有敌人，包括Boss在内，被命中后都会被减速。" />
+    </imgdir>

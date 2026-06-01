@@ -1,0 +1,5 @@
+<imgdir name="2000010">
+        <string name="name" value="魔法铠甲" />
+        <string name="desc" value="将魔法凝聚在铠甲周围，按魔法防御力的百分比提升物理防御力~\n前置技能: #c魔法盾 Lv. 3以上#" />
+        <string name="h" value="物理防御力按魔法防御力的#mdd2pdd%提升。" />
+    </imgdir>

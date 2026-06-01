@@ -1,0 +1,83 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033990">
+			<string name="name" value="帕贝尔的祖母绿"/>
+			<string name="desc" value="帕贝尔丢失的一颗祖母绿。"/>
+		</imgdir>
+    <imgdir name="4009194">
+			<string name="name" value="血海盗徽章"/>
+			<string name="desc" value="从击败血海盗船长获得的一枚徽章。
+"/>
+		</imgdir>
+    <imgdir name="4009195">
+			<string name="name" value="塞壬的利爪"/>
+			<string name="desc" value="塞壬留下的爪子。非常锋利。"/>
+		</imgdir>
+    <imgdir name="4009196">
+			<string name="name" value="珊瑚碎屑"/>
+			<string name="desc" value="从珊瑚礁断裂的一点珊瑚。"/>
+		</imgdir>
+    <imgdir name="4009197">
+			<string name="name" value="海洋岩石"/>
+			<string name="desc" value="从礁石断裂的海洋岩石碎片。"/>
+		</imgdir>
+    <imgdir name="4033993">
+			<string name="name" value="德尔菲诺藏身处地图碎片"/>
+			<string name="desc" value="德尔菲诺藏身处地图的一片。"/>
+		</imgdir>
+    <imgdir name="4033994">
+			<string name="name" value="德尔菲诺藏身处地图"/>
+			<string name="desc" value="德尔菲诺藏身处的完整地图。"/>
+		</imgdir>
+    <imgdir name="4033995">
+			<string name="name" value="伊尔卡波文件"/>
+			<string name="desc" value="伊尔卡波·卡尼斯正在携带的一份文件。"/>
+		</imgdir>
+    <imgdir name="4033996">
+			<string name="name" value="机密文件"/>
+			<string name="desc" value="一份无法辨认的加密文件。"/>
+		</imgdir>
+    <imgdir name="4009203">
+			<string name="name" value="猫面具"/>
+			<string name="desc" value="海岸猫佩戴的面具。"/>
+		</imgdir>
+    <imgdir name="4009204">
+			<string name="name" value="猫爪"/>
+			<string name="desc" value="灰公猫的爪子。"/>
+		</imgdir>
+    <imgdir name="4009205">
+			<string name="name" value="破损的德尔菲诺剑"/>
+			<string name="desc" value="一把破损的单手德尔菲诺剑。"/>
+		</imgdir>
+    <imgdir name="4009206">
+			<string name="name" value="破损的德尔菲诺护目镜"/>
+			<string name="desc" value="一副破损的德尔菲诺护目镜。"/>
+		</imgdir>
+    <imgdir name="4009207">
+			<string name="name" value="破损的德尔菲诺杖"/>
+			<string name="desc" value="一把破损的德尔菲诺杖。"/>
+		</imgdir>
+    <imgdir name="4009208">
+			<string name="name" value="破损的德尔菲诺爪"/>
+			<string name="desc" value="一把破损的德尔菲诺爪。"/>
+		</imgdir>
+    <imgdir name="4009209">
+			<string name="name" value="破损的德尔菲诺矛"/>
+			<string name="desc" value="一把破损的德尔菲诺矛。"/>
+		</imgdir>
+    <imgdir name="4009210">
+			<string name="name" value="撕裂的斗篷"/>
+			<string name="desc" value="来自里弗森斗篷的一块碎片。"/>
+		</imgdir>
+    <imgdir name="4009211">
+			<string name="name" value="棕色毛球"/>
+			<string name="desc" value="来自棕色狼的一团毛。"/>
+		</imgdir>
+    <imgdir name="4009212">
+			<string name="name" value="蓝色毛球"/>
+			<string name="desc" value="来自蓝色狼的一团毛。"/>
+		</imgdir>
+    <imgdir name="4009214">
+			<string name="name" value="红海盗帽"/>
+			<string name="desc" value="唐维尔海盗佩戴的红色帽子。"/>
+		</imgdir>
+</imgdir>

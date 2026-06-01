@@ -1,0 +1,7 @@
+<imgdir name="23001002">
+        <string name="name" value="滑翔冲击" />
+        <string name="desc" value="跳跃中翻滚向前移动。技能等级越高移动距离越远。" />
+        <string name="h" value="MP消耗：#mpCon，跳跃一定距离" />
+        <string name="pdesc" value="跳跃中翻滚向前移动。技能等级越高移动距离越远。" />
+        <string name="ph" value="MP消耗：#mpCon，跳跃一定距离" />
+    </imgdir>

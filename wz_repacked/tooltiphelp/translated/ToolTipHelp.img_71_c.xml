@@ -1,0 +1,72 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="690000060">
+			<imgdir name="0">
+				<string name="Title" value="智慧森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="猴子森林II"/>
+			</imgdir>
+    <imgdir name="690000063">
+			<imgdir name="0">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地IV"/>
+			</imgdir>
+    <imgdir name="690000053">
+			<imgdir name="0">
+				<string name="Title" value="邪恶森林I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="猴子森林I"/>
+			</imgdir>
+    <imgdir name="690000033">
+			<imgdir name="0">
+				<string name="Title" value="布吉的石板"/>
+				<string name="Desc" value="在击败布吉之前，你需要先摧毁资源"/>
+			</imgdir>
+    <imgdir name="690000036">
+			<imgdir name="0">
+				<string name="Title" value="赫内西狩猎场III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="赫内西狩猎场I"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="赫内西狩猎场III"/>
+			</imgdir>
+    <imgdir name="690000037">
+			<imgdir name="0">
+				<string name="Title" value="深林狩猎场I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深林沼泽地(往昏昏欲睡森林)"/>
+			</imgdir>
+    <imgdir name="690000054">
+			<imgdir name="0">
+				<string name="Title" value="Lith Harbor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="海滩周围灌木丛I(往维多利亚路)"/>
+			</imgdir>
+    <imgdir name="690000055">
+			<imgdir name="0">
+				<string name="Title" value="赫内西狩猎场II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="赫内西"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="赫内西西部山丘(往Lith Harbor/凯恩城)"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="赫内西狩猎场II"/>
+			</imgdir>
+    <imgdir name="690000057">
+			<imgdir name="0">
+				<string name="Title" value="深谷II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+</imgdir>

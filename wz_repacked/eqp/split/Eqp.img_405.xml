@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1052890"><string name="name" value="AbsoLab Pirate Suit"/></imgdir>
+    <imgdir name="1053067"><string name="name" value="Arcane Umbra Pirate Suit"/></imgdir>
+    <imgdir name="1053063"><string name="name" value="Arcane Umbra Knight Suit"/></imgdir>
+    <imgdir name="1053064"><string name="name" value="Arcane Umbra Mage Suit"/></imgdir>
+    <imgdir name="1053065"><string name="name" value="Arcane Umbra Archer Suit"/></imgdir>
+    <imgdir name="1053066"><string name="name" value="Arcane Umbra Bandit Suit"/></imgdir>
+    <imgdir name="Mechanic"><imgdir name="1612000"><string name="name" value="Copper Engine"/></imgdir>
+    <imgdir name="1612001"><string name="name" value="Bronze Engine"/></imgdir>
+    <imgdir name="1612002"><string name="name" value="Iron Engine"/></imgdir>
+    <imgdir name="1612003"><string name="name" value="Gold Engine"/></imgdir>
+    <imgdir name="1612004"><string name="name" value="Pure Gold Engine"/></imgdir>
+    <imgdir name="1622000"><string name="name" value="Copper Machine Arm"/></imgdir>
+    <imgdir name="1622001"><string name="name" value="Bronze Machine Arm"/></imgdir>
+    <imgdir name="1622002"><string name="name" value="Iron Machine Arm"/></imgdir>
+    <imgdir name="1622003"><string name="name" value="Gold Machine Arm"/></imgdir>
+    <imgdir name="1622004"><string name="name" value="Pure Gold Machine Arm"/></imgdir>
+    <imgdir name="1632000"><string name="name" value="Bronze Machine Leg"/></imgdir>
+    <imgdir name="1632001"><string name="name" value="Iron Machine Leg"/></imgdir>
+    <imgdir name="1632002"><string name="name" value="Gold Machine Leg"/></imgdir>
+    <imgdir name="1632003"><string name="name" value="Pure Gold Machine Leg"/></imgdir>
+</imgdir>

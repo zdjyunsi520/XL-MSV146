@@ -1,0 +1,7 @@
+<imgdir name="1301006">
+        <string name="name" value="Iron Will" />
+        <string name="desc" value="Increases the Weapon Defense and Magic Defense of party members for a fixed period of time." />
+        <string name="h" value="MP Cost: -#mpCon, Party Weapon DEF: +#pdd, Party Magic DEF: +#mdd, Duration: #time sec" />
+        <string name="pdesc" value="Increases Weapon Magic Defense of team members." />
+        <string name="ph" value="MP Cost: -#mpCon, Party Weapon DEF: +#pdd, Party Magic DEF: +#mdd, Duration: #time sec" />
+    </imgdir>

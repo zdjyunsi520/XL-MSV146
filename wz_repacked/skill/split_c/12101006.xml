@@ -1,0 +1,7 @@
+<imgdir name="12101006">
+        <string name="name" value="火焰柱" />
+        <string name="desc" value="在附近引发多次爆炸，攻击多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="在附近引发多次爆炸，攻击多个敌人！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

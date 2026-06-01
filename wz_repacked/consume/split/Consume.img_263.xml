@@ -1,0 +1,85 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388009">
+		<string name="name" value="Nine-Tailed Fox Card"/>
+		<string name="desc" value="A card that features Nine-Tailed Fox.\n#cIf hunting around the area of Korean Folk TownnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388010">
+		<string name="name" value="Tae Roon Card"/>
+		<string name="desc" value="A card that features Tae Roon.\n#cIf hunting around the area of Sky ForestnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388011">
+		<string name="name" value="Lord Pirate Card"/>
+		<string name="desc" value="A card that features Lord Pirate.\n#cIf hunting around the area of Herb TownnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388012">
+		<string name="name" value="Papa Pixie Card"/>
+		<string name="desc" value="A card that features Papa Pixie.\n#cIf hunting around the area of Cloud TownnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388013">
+		<string name="name" value="King Sage Cat Card"/>
+		<string name="desc" value="A card that features King Sage Cat.\n#cIf hunting around the area of Peach FarmnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388014">
+		<string name="name" value="Frankenroid Card"/>
+		<string name="desc" value="A card that features Frankenroid.\n#cIf hunting around the area of MagatianItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388015">
+		<string name="name" value="Elliza Card"/>
+		<string name="desc" value="A card that features Elliza.\n#cIf hunting around the area of Orbis gardennItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388016">
+		<string name="name" value="Snowman Card"/>
+		<string name="desc" value="A card that features Snowman.\n#cIf hunting around the area of SnowfieldsnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388017">
+		<string name="name" value="Crimson Balrog Card"/>
+		<string name="desc" value="A card that features Crimson Balrog.\n#cIf hunting at El Nath / OrbisnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388018">
+		<string name="name" value="Manon Card"/>
+		<string name="desc" value="A card that features Manon.\n#cIf hunting at Leafre ForestnMeso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388019">
+		<string name="name" value="Griffey Card"/>
+		<string name="desc" value="A card that features Griffey.\n#cIf hunting at Leafre ForestnItem drop rates are increased#"/>
+	</imgdir>
+    <imgdir name="2388020">
+		<string name="name" value="Pianus Card"/>
+		<string name="desc" value="A card that features Pianus.\n#cIf hunting around the Aqua Road areanItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388022">
+		<string name="name" value="Papulatus Card"/>
+		<string name="desc" value="A card that features Papulatus.\n#cIf hunting at the lower levels of the ClocktowernItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388023">
+		<string name="name" value="Zakum Card"/>
+		<string name="desc" value="A card that features Zakum.\n#cIf hunting around the area of the Dead MinenItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388024">
+		<string name="name" value="Horned Tail Card"/>
+		<string name="desc" value="A card that features Horned Tail.\n#cIf hunting around the area of Minar ForestnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388025">
+		<string name="name" value="Stumpy Card"/>
+		<string name="desc" value="A card that features Stumpyn#cIf hunting around the area of PerionnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388026">
+		<string name="name" value="Jr. Balrog Card"/>
+		<string name="desc" value="A card that features Jr. Balrog.\n#cIf hunting around the area of SleepywoodnItem/Meso drop rate is increased#"/>
+	</imgdir>
+    <imgdir name="2388027">
+		<string name="name" value="Rudolph Card"/>
+		<string name="desc" value="A card that features Santa's favorite, Rudolph."/>
+		<imgdir name="2390001">
+			<string name="name" value="Athena Pierce's Marble"/>
+			<string name="desc" value="A marble given by Athena Pierce. Use this to communicate with her regardless of the place. This item is good for one-time use only..."/>
+		</imgdir>
+    <imgdir name="2388028">
+		<string name="name" value="Kid Snowman Card"/>
+		<string name="desc" value="A card that features the little rascal that is the Kid Snowman."/>
+	</imgdir>
+    <imgdir name="2388029">
+		<string name="name" value="Deo Card"/>
+		<string name="desc" value="A card that features Deo.\n#cIf hunting around the desert areanItem/Meso drop rate will be increased#"/>
+	</imgdir>
+</imgdir>

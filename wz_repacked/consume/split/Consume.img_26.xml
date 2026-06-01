@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004240">
+		<string name="name" value="Excavated Magic ATT Potion"/>
+		<string name="desc" value="A potion found inside a Mysterious Artifact. Increases Magic ATT by 5 for 20 min."/>
+	</imgdir>
+    <imgdir name="2004241">
+		<string name="name" value="Excavated ATT Potion"/>
+		<string name="desc" value="A potion found inside a Mysterious Artifact. Increases ATT by 5 for 20 min."/>
+	</imgdir>
+    <imgdir name="2010000">
+		<string name="name" value="Apple"/>
+		<string name="desc" value="A red, ripe, and tasty apple.\nRecovers around 30 HP"/>
+	</imgdir>
+    <imgdir name="2010001">
+		<string name="name" value="Meat"/>
+		<string name="desc" value="A tasty-looking meat. .\nRecovers around 100 HP."/>
+	</imgdir>
+    <imgdir name="2010002">
+		<string name="name" value="Egg"/>
+		<string name="desc" value="A nutritious egg.\nImproves around 50 HP."/>
+	</imgdir>
+    <imgdir name="2010003">
+		<string name="name" value="Orange"/>
+		<string name="desc" value="A sweet, tasty orange.\nRecovers around 50 MP."/>
+	</imgdir>
+    <imgdir name="2010004">
+		<string name="name" value="Lemon"/>
+		<string name="desc" value="Very sour.\nRecovers around 150 MP."/>
+	</imgdir>
+    <imgdir name="2010005">
+		<string name="name" value="Honey"/>
+		<string name="desc" value="Collected from a hive full of very self-obsessed bees. \nRecovers 30% of Max HP and MP, with a limit of 30,000 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2010006">
+		<string name="name" value="Pot of Honey"/>
+		<string name="desc" value="Collected from a hive full of very health-conscious bees. \nRecovers 50% of Max HP and MP, with a limit of 49,999 HP and MP if your Max HP and MP is over 99,999."/>
+	</imgdir>
+    <imgdir name="2010007">
+		<string name="name" value="Roger's Apple"/>
+		<string name="desc" value="A perfectly ripened red apple.\nRecovers 30 HP.\n\n#cDouble-click Roger's Apple in your Use tab to eat it.#"/>
+	</imgdir>
+    <imgdir name="2010009">
+		<string name="name" value="Green Apple"/>
+		<string name="desc" value="Sour and crunchy green apple.\nRecovers MP +30."/>
+	</imgdir>
+    <imgdir name="2010010">
+		<string name="name" value="Roger's Apple"/>
+		<string name="desc" value="A ripe, red apple. recovers HP 30. To eat Roger's Apple, simply double-click on it in your use inventory."/>
+	</imgdir>
+    <imgdir name="2011000">
+		<string name="name" value="Poisonous Mushroom"/>
+		<string name="desc" value="A very poisonous mushroom."/>
+	</imgdir>
+    <imgdir name="2012000">
+		<string name="name" value="Drake's Blood"/>
+		<string name="desc" value="Drake's blood. \nAttack +8 for 5 min."/>
+	</imgdir>
+    <imgdir name="2012001">
+		<string name="name" value="Fairy's Honey"/>
+		<string name="desc" value="This honey is a fairy favorite.\nAvoidability +200 for 5 min."/>
+	</imgdir>
+    <imgdir name="2012002">
+		<string name="name" value="Ancient Tree Sap"/>
+		<string name="desc" value="Sap of a thousands-of-years-old tree. \nMagic Attack +10 for 5 min."/>
+	</imgdir>
+    <imgdir name="2012003">
+		<string name="name" value="Drake's Meat"/>
+		<string name="desc" value="Yummy drake meat.\nWeapon DEF +100 for 5 min."/>
+	</imgdir>
+    <imgdir name="2012004">
+		<string name="name" value="Purified Honey"/>
+		<string name="desc" value="Fairies favorite purified honey.\nAvoidability +40 for 5 min. (Modification Request)"/>
+	</imgdir>
+    <imgdir name="2012005">
+		<string name="name" value="Angel Apple"/>
+		<string name="desc" value="A red, ripe apple.\nRecovers 200 HP."/>
+	</imgdir>
+    <imgdir name="2012006">
+		<string name="name" value="Angel Lemon"/>
+		<string name="desc" value="A very sour fruit.\nRecovers 200 MP."/>
+	</imgdir>
+</imgdir>

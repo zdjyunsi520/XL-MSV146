@@ -1,0 +1,98 @@
+<imgdir name="Npc.img">
+    <imgdir name="9270063">
+		<string name="name" value="Mutu"/>
+		<string name="n0" value="Hey! What are you looking at?"/>
+		<string name="n1" value="Do I look good with Bunny Ears?"/>
+	</imgdir>
+    <imgdir name="9270064">
+		<string name="name" value="Theme Park Owner"/>
+		<string name="n0" value="Welcome to the Theme Park!"/>
+		<string name="n1" value="Feel free to play around."/>
+	</imgdir>
+    <imgdir name="9270066">
+		<string name="name" value="MY Maple TV"/>
+	</imgdir>
+    <imgdir name="9300000">
+		<string name="name" value="Tang San Zang"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9300001">
+		<string name="name" value="Fa Hai"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9300002">
+		<string name="name" value="Di Zang Wang"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+	</imgdir>
+    <imgdir name="9300003">
+		<string name="name" value="Yue Lao"/>
+		<string name="n0" value="Dialogue 1"/>
+		<string name="n1" value="Dialogue 2"/>
+		<string name="func" value="Wedding Planner"/>
+	</imgdir>
+    <imgdir name="9300004">
+		<string name="name" value="Wu Yuan"/>
+	</imgdir>
+    <imgdir name="9300005">
+		<string name="name" value="Hong Niang"/>
+	</imgdir>
+    <imgdir name="9300006">
+		<string name="name" value="Banquet Master"/>
+	</imgdir>
+    <imgdir name="9300007">
+		<string name="name" value="Tian Bing"/>
+	</imgdir>
+    <imgdir name="9300008">
+		<string name="name" value="Tian Sha Gu Xing"/>
+	</imgdir>
+    <imgdir name="9300009">
+		<string name="name" value="Mi Le"/>
+	</imgdir>
+    <imgdir name="9310000">
+		<string name="name" value="Hong the Pilot"/>
+		<string name="n0" value="Sky... the road of my life..."/>
+		<string name="n1" value="Wanna become a pilot?"/>
+	</imgdir>
+    <imgdir name="9310001">
+		<string name="name" value="Lady Li"/>
+		<string name="n0" value="If you don't have enough money to buy weapons here, then go away!"/>
+		<string name="n1" value="This is cheap to begin with. Don't  you ever try bargaining with me!"/>
+		<string name="func" value="Weapon Seller"/>
+	</imgdir>
+    <imgdir name="9310004">
+		<string name="name" value="Officer Lim"/>
+		<string name="n0" value="Sir, sir! You cannot throw trash away like that, or I'll have to fine you!"/>
+		<string name="n1" value="The laws are there to be followed."/>
+		<string name="d0" value="Hello there? I'm Officer Lim."/>
+		<string name="d1" value="Is there anything I can help you with?"/>
+	</imgdir>
+    <imgdir name="9310005">
+		<string name="name" value="Officer Chung"/>
+		<string name="n0" value="It's off-limits beyond this point. Please turn around."/>
+		<string name="n1" value="I'm on duty. Please don't try me."/>
+		<string name="d0" value="(Salute) I'll have to stop you here. I'm Officer Chung, in charge of the security to this premise."/>
+		<string name="d1" value="Please leave. If you do not cooperate, then I'll have to forcefully make you leave this premise."/>
+	</imgdir>
+    <imgdir name="9310006">
+		<string name="name" value="Officer Huh"/>
+		<string name="n0" value="If you need any help, feel free to contact us!"/>
+		<string name="n1" value="We are here to serve you!"/>
+		<string name="d0" value="Hello there? I'm Officer Huh."/>
+		<string name="d1" value="How can I help you?"/>
+	</imgdir>
+    <imgdir name="9310014">
+		<string name="name" value="TMS"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n1" value="Dialogue 2"/>
+		<string name="n0" value="Dialogue 1"/>
+	</imgdir>
+    <imgdir name="9310015">
+		<string name="name" value="TMS"/>
+		<string name="func" value="Physician Assistant"/>
+		<string name="n1" value="Dialogue 2"/>
+		<string name="n0" value="Dialogue 1"/>
+	</imgdir>
+</imgdir>

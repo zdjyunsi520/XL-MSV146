@@ -1,0 +1,7 @@
+<imgdir name="4341003">
+        <string name="name" value="Monster Bomb" />
+        <string name="desc" value="Sticks an explosive charm on 1 monster to create a powerful explosion. The explosion occurs 3 seconds after the charm is activated, and anyone in range takes damage, enemy and ally alike.\n#cLv.11 or above: Mastery Book required#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% explosion damage after #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Sticks an explosive charm on 1 monster to create a powerful explosion. The explosion occurs 3 seconds after the charm is activated, and anyone in range takes damage, enemy and ally alike.\n#cLv.11 or above: Mastery Book required#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% explosion damage after #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

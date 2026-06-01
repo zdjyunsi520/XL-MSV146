@@ -1,0 +1,103 @@
+<imgdir name="Npc.img">
+    <imgdir name="9073024">
+		<string name="name" value="Wence"/>
+		<string name="n0" value="I never imagined that a day would come again when I would have to step in."/>
+		<string name="n1" value="Finally doing a mission after all these years... I feel nostalgic."/>
+	</imgdir>
+    <imgdir name="9073025">
+		<string name="name" value="Doctor Moon"/>
+		<string name="n0" value="I’ve got to get to the bottom of the Mystic Fields..."/>
+		<string name="n1" value="Ultra Bauss is showing up all over... How did that happen?"/>
+		<string name="d0" value="Mystic Fields are appearing all over Maple World! Defeat the powerful enemies that emerge!"/>
+		<string name="d1" value="Mystic Fields are appearing all over Maple World! Defeat the powerful enemies that emerge!"/>
+	</imgdir>
+    <imgdir name="9073026">
+		<string name="name" value="Mystic Gate"/>
+	</imgdir>
+    <imgdir name="9074000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="d0" value="Immerse yourself in these beautiful works of art!"/>
+		<string name="d1" value="My memories have become a painting."/>
+	</imgdir>
+    <imgdir name="9074001">
+		<string name="name" value="Seasonal Series: Spring"/>
+	</imgdir>
+    <imgdir name="9074002">
+		<string name="name" value="Seasonal Series: Summer"/>
+	</imgdir>
+    <imgdir name="9074003">
+		<string name="name" value="Seasonal Series: Fall"/>
+	</imgdir>
+    <imgdir name="9074004">
+		<string name="name" value="Seasonal Series: Winter"/>
+	</imgdir>
+    <imgdir name="9074005">
+		<string name="name" value="Unpublished Work"/>
+	</imgdir>
+    <imgdir name="9074006">
+		<string name="name" value="Strange Picture Frame"/>
+	</imgdir>
+    <imgdir name="9074100">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="What a fine day it is today, don't you agree?"/>
+		<string name="n1" value="I'll have to change my looks a bit to accommodate to this season!"/>
+		<string name="d0" value="See this mustache, full of luster? No fashion is complete without it!"/>
+		<string name="d1" value="Have you seen the bristles I sport? Bow down before the 'stache!"/>
+	</imgdir>
+    <imgdir name="9074101">
+		<string name="name" value="Public Phone"/>
+		<string name="d0" value="Dial the number you wish to call."/>
+		<string name="d1" value="This phone is currently available for use."/>
+	</imgdir>
+    <imgdir name="9074200">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="I can't believe such beauty exists!"/>
+		<string name="n1" value="Researcher that researches beauty... that's me, Spiegelmann!"/>
+		<string name="d0" value="Seeing what's beautiful, feeling it, and then making it... isn't that true bliss?"/>
+		<string name="d1" value="Seeing what's beautiful, feeling it, and then making it... isn't that true bliss?"/>
+	</imgdir>
+    <imgdir name="9074201">
+		<string name="name" value="Areda"/>
+		<string name="n0" value="The heat from this scorching desert... Not good for a fairy!"/>
+		<string name="n1" value="I AM the queen, after all. Isn't there anything fun to do?"/>
+		<string name="d0" value="Ha, none can match my flawless beauty. In this desert, at least."/>
+		<string name="d1" value="Ha, none can match my flawless beauty. In this desert, at least."/>
+	</imgdir>
+    <imgdir name="9074202">
+		<string name="name" value="Abdullah VIII"/>
+		<string name="n0" value="*Smacks lips*"/>
+		<string name="n1" value="Do you what you wish to do, my queen."/>
+		<string name="d0" value="Zzzz..."/>
+		<string name="d1" value="*Smacks lips* Do you what you wish to do, my queen."/>
+	</imgdir>
+    <imgdir name="9074203">
+		<string name="name" value="Karcasa"/>
+		<string name="n0" value="The perfect item for the desert is..."/>
+		<string name="n1" value="Well, my items are a tad expensive, but I can guarantee their quality!"/>
+		<string name="d0" value="What item are you looking for? I am Karcasa, the only merchant good enough to bring ICE to this SCORCHING desert!"/>
+		<string name="d1" value="What item are you looking for? I am Karcasa, the only merchant good enough to bring ICE to this SCORCHING desert!"/>
+	</imgdir>
+    <imgdir name="9074204">
+		<string name="name" value="Magic Loom"/>
+		<string name="d0" value="(A luxurious loom. Looks like you can make some fine silk with it if you have the right materials.)"/>
+		<string name="d1" value="(A luxurious loom. Looks like you can make some fine silk with it if you have the right materials.)"/>
+	</imgdir>
+    <imgdir name="9074300">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="My collection is becoming more complete with each day."/>
+		<string name="n1" value="How can I make it grow faster..."/>
+		<string name="d0" value="I love all lifeforms. Heh heh heh..."/>
+		<string name="d1" value="I love all lifeforms. Heh heh heh..."/>
+	</imgdir>
+    <imgdir name="9074301">
+		<string name="name" value="Manon's Egg"/>
+		<string name="d0" value="(There's no response.)"/>
+		<string name="d1" value="(You can feel a bit of movement.)"/>
+	</imgdir>
+    <imgdir name="9074302">
+		<string name="name" value="White Tiger"/>
+		<string name="n0" value="Grr..."/>
+		<string name="d0" value="(Looks like the adorable White Tiger wants something.)"/>
+		<string name="d1" value="(White Tiger looks quite satisfied.)"/>
+	</imgdir>
+</imgdir>

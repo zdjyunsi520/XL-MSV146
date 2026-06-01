@@ -1,0 +1,5 @@
+<imgdir name="80001282">
+        <string name="name" value="Snake Bite" />
+        <string name="desc" value="He&apos;s always watching... When summoned by a soul weapon, Arkarium stuns and damages nearby monsters." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Duration: #time sec \nCooldown: #cooltime sec" />
+    </imgdir>

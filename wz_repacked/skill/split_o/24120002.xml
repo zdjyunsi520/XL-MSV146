@@ -1,0 +1,7 @@
+<imgdir name="24120002">
+        <string name="name" value="Carte Noir" />
+        <string name="desc" value="Each critical attack has a chance to produce a card that attacks nearby enemy automatically. #cThis card is added to your deck.#\nAlso permanently increases Avoidability chance." />
+        <string name="h" value="Upon a successful critical attack, card appears at #prop% chance, Damage: #damage%, #cDeck +1#\nAdditional Avoidability Chance +#subProp%" />
+        <string name="pdesc" value="Each critical attack has a chance to produce a card that attacks nearby enemy automatically. #cThis card is added to your deck.#\nAlso permanently increases Avoidability chance." />
+        <string name="ph" value="Upon a successful critical attack, card appears at #prop% chance, Damage: #damage%, #cDeck +1#\nAdditional Avoidability Chance +#subProp%" />
+    </imgdir>

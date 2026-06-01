@@ -1,0 +1,5 @@
+<imgdir name="24121054">
+        <string name="name" value="Final Judgment Draw" />
+        <string name="desc" value="Casts all of Judgment Draw&apos;s effects at once. Stacks with Judgment Draw." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Critical Rate +#v%, Item Drop Rate +#w%, Abnormal Status Resistance/Elemental Resistance +#x%. Absorb #z% of damage absorbed as HP.\nCooldown: #cooltime sec." />
+    </imgdir>

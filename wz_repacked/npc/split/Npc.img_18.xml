@@ -1,0 +1,126 @@
+<imgdir name="Npc.img">
+    <imgdir name="2041000">
+		<string name="name" value="Tian"/>
+		<string name="func" value="Cabin Crew"/>
+		<string name="n2" value="Please be aware that if you go into the Cash Shop while on board, you'll be sent back to Ludibrium. "/>
+		<string name="n0" value="If you want board the ship to Orbis, please hand me your ticket."/>
+		<string name="n1" value="We've only got limited room, so please get on board! We're about to take off!"/>
+	</imgdir>
+    <imgdir name="2041001">
+		<string name="name" value="Rosey"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n2" value="Please be aware that if you go into the Cash Shop while on board, you'll be sent back to where you were before. "/>
+		<string name="n0" value="Can I help you with anything? Enjoy your trip!"/>
+		<string name="n1" value="Anyone that wants to leave the ship and head back to where we started, talk to me."/>
+	</imgdir>
+    <imgdir name="2041002">
+		<string name="name" value="Hid"/>
+		<string name="func" value="Weapon Seller"/>
+		<string name="n0" value="There are places in Ludibrium where the monsters pop out of nowhere."/>
+		<string name="n1" value="We have a weapon JUST FOR YOU!"/>
+	</imgdir>
+    <imgdir name="2041003">
+		<string name="name" value="Miru"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="Welcome! Look around, see what you like."/>
+		<string name="n1" value="Tough armor is necessary, for the monsters may pop up anywhere inside the castle."/>
+	</imgdir>
+    <imgdir name="2041004">
+		<string name="name" value="Marcel"/>
+		<string name="n0" value="Make sure you don't get lost inside the castle."/>
+		<string name="n1" value="Welcome to Ludibrium!"/>
+		<string name="d0" value="Hello there! I'm #b#p2041004##k, in charge of the security of Ludibrium. Lately there have been some filthy creatures dirtying up Eos Tower, and I don't like it one bit."/>
+		<string name="d1" value="Hey! You're the one that cleaned out Eos Tower for me! How have you been? I'm thrilled the number of monsters has decreased, and they aren't as wild as they were before. I really appreciate all your hard work. Oh well, hope you have a great day in Ludibrium!"/>
+	</imgdir>
+    <imgdir name="2041005">
+		<string name="name" value="Nemi"/>
+		<string name="n0" value="Hey, there! How's it going?"/>
+		<string name="n1" value="Isn't it beautiful today? I would like nothing more than to just go somewhere..."/>
+		<string name="d0" value="Oh, hi! I don't think I've met you before... Have you been traveling around? I'm #b#p2041005##k, a resident here in Ludibrium, and my father is the manager of the Toy Factory. If you have time, you should go see that place."/>
+		<string name="d1" value="Hello! Thanks to you, my dad got his appetite back. He really enjoys it. How can I help you today? Oh no! You shouldn't enter this place with your shoes on! I cleaned up this place just now, you know! If you don't have much else to do, then please come back some other time!"/>
+	</imgdir>
+    <imgdir name="2041006">
+		<string name="name" value="Misky"/>
+		<string name="func" value="Pharmacist"/>
+		<string name="n0" value="We sell stuff that you can't find anywhere else!"/>
+		<string name="n1" value="Need potions or some food? You've come to the right place."/>
+		<string name="a0" value="You! You aren't jacking anything from here, right?"/>
+		<string name="a1" value="Touch anything here, and I'll be very very angry with you!"/>
+		<string name="g0" value="It's tougher than you think, making new potions"/>
+		<string name="g1" value="Hah! Just making new potions here..."/>
+	</imgdir>
+    <imgdir name="2041007">
+		<string name="name" value="Miyu"/>
+		<string name="func" value="Owner"/>
+		<string name="n1" value="If you want to try a different hair style, then just talk to me!"/>
+		<string name="n0" value="Oh my, you still have that hairdo? That's sooo yesterday..."/>
+	</imgdir>
+    <imgdir name="2041008">
+		<string name="name" value="Seppy"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="Looking for a place to store your mesos or items? Then look no further!"/>
+		<string name="n1" value="Our storage is safe as a lock, so feel free to leave your stuff here!"/>
+	</imgdir>
+    <imgdir name="2041009">
+		<string name="name" value="Mini"/>
+		<string name="func" value="Assistant"/>
+		<string name="n1" value="It's a tough act being a hair stylist..."/>
+		<string name="n0" value="Welcome to our hair salon! I may still be in training, but how about letting me do your hair?"/>
+		<string name="d0" value="Welcome to our Hair Salon! I'm still learning, but would you let me do your hair?"/>
+		<string name="d1" value="Strong explorers are awesome! But good-looking once are even better!"/>
+	</imgdir>
+    <imgdir name="2041010">
+		<string name="name" value="Ellie"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n0" value="Wanna change your face into something... Much more beautiful?"/>
+		<string name="n1" value="You look fine now, but with a little touch here and there, you'll look FANTABULOUS!"/>
+	</imgdir>
+    <imgdir name="2041011">
+		<string name="name" value="Yellow Mesoranger"/>
+		<string name="n0" value="Worried about monsters? Let us handle them!"/>
+		<string name="n1" value="It's our job to protect everyone here!"/>
+		<string name="d0" value="Hi. I'm #b#p2041011##k, and I'm leading a special mission here. Have you seen any aliens around here? Apparently they trick innocent strangers by sweet-talking them, so please be on guard."/>
+		<string name="d1" value="Hi. I'm #b#p2041011##k, and I'm leading a special mission here. Have you seen any aliens around here? Apparently they trick innocent strangers by sweet-talking them, so please be on guard."/>
+	</imgdir>
+    <imgdir name="2041012">
+		<string name="name" value="Pink Mesoranger"/>
+		<string name="n0" value="It's so hard to wake up early each morning. I should stop being late..."/>
+		<string name="n1" value="I'm more than happy to protect you all, except for the fact that I sleep waaay too much..."/>
+		<string name="d0" value="Hello, there. I'm #b#p2041012##k of the Omega Sector, currently on a secret mission to stop the alien invasion here. I've been really busy these days taking care of important missions. This place is very dangerous, so I suggest you get out of here and go to a safer place."/>
+		<string name="d1" value="You're back! I've been getting up on time these days, and I'm never late to missions. I'm also glad the people upstairs are noticing. It's all thanks to you. Now, I have something important to do, so please excuse me!"/>
+	</imgdir>
+    <imgdir name="2041013">
+		<string name="name" value="Gina"/>
+		<string name="func" value="Dermatologist"/>
+		<string name="n0" value="You want to have a slim body like me? I will make your skin beautiful!"/>
+		<string name="n1" value="Wow... You must be traveling all around. Your skin's really damaged."/>
+	</imgdir>
+    <imgdir name="2041014">
+		<string name="name" value="Patricia"/>
+		<string name="func" value="Pet Food Merchant"/>
+		<string name="n0" value="Are you looking for pet food?"/>
+		<string name="n1" value="Aren't your pets hungry? I got some food for them!"/>
+	</imgdir>
+    <imgdir name="2041024">
+		<string name="name" value="Tombstone"/>
+	</imgdir>
+    <imgdir name="2041025">
+		<string name="name" value="Machine Apparatus"/>
+	</imgdir>
+    <imgdir name="2042003">
+		<string name="name" value="Assistant Red"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="All of you will exit this place as soon as you talk to me."/>
+	</imgdir>
+    <imgdir name="2042004">
+		<string name="name" value="Assistant Blue"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="All of you will exit this place as soon as you talk to me."/>
+	</imgdir>
+    <imgdir name="2042005">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+	</imgdir>
+</imgdir>

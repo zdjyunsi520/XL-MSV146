@@ -1,0 +1,5 @@
+<imgdir name="41110008">
+        <string name="name" value="拔刀之魂" />
+        <string name="desc" value="强化拔刀姿势并伤害附近的敌人。" />
+        <string name="h" value="拔刀姿势：暴击率：#y%，眩晕概率：#prop%，对附近敌人的伤害：#damage%。永久效果：攻击力：+#padX。" />
+    </imgdir>

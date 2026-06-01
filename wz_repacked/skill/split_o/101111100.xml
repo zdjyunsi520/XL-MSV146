@@ -1,0 +1,5 @@
+<imgdir name="101111100">
+        <string name="name" value="Spin Driver" />
+        <string name="desc" value="Uses your Great Sword’s weight to revolve in place, creating a whirlwhind that pulls enemies in." />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount\n#cCooldown: #cooltime sec#" />
+    </imgdir>

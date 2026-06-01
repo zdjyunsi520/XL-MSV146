@@ -1,0 +1,62 @@
+<imgdir name="MonString.img">
+    <imgdir name="001">
+		<string name="name" value="蘑菇"/>
+	</imgdir>
+    <imgdir name="002">
+		<string name="name" value="猪"/>
+	</imgdir>
+    <imgdir name="003">
+		<string name="name" value="雪人和 Pepe"/>
+	</imgdir>
+    <imgdir name="004">
+		<string name="name" value="奇怪生物"/>
+	</imgdir>
+    <imgdir name="005">
+		<string name="name" value="史莱姆和蜗牛"/>
+	</imgdir>
+    <imgdir name="006">
+		<string name="name" value="植物"/>
+	</imgdir>
+    <imgdir name="007">
+		<string name="name" value="石魔像"/>
+	</imgdir>
+    <imgdir name="008">
+		<string name="name" value="龙"/>
+	</imgdir>
+    <imgdir name="009">
+		<string name="name" value="猫和猫科动物"/>
+	</imgdir>
+    <imgdir name="010">
+		<string name="name" value="犬科、浣熊和雪貂"/>
+	</imgdir>
+    <imgdir name="011">
+		<string name="name" value="鸟类"/>
+	</imgdir>
+    <imgdir name="012">
+		<string name="name" value="牛类"/>
+	</imgdir>
+    <imgdir name="013">
+		<string name="name" value="爬行动物"/>
+	</imgdir>
+    <imgdir name="014">
+		<string name="name" value="猴子和熊"/>
+	</imgdir>
+    <imgdir name="015">
+		<string name="name" value="妖精和小精灵"/>
+	</imgdir>
+    <imgdir name="016">
+		<string name="name" value="恶魔类"/>
+	</imgdir>
+    <imgdir name="017">
+		<string name="name" value="士兵和水手"/>
+	</imgdir>
+    <imgdir name="018">
+		<string name="name" value="玩具"/>
+	</imgdir>
+    <imgdir name="019">
+		<string name="name" value="外星人和类人猿"/>
+	</imgdir>
+    <imgdir name="020">
+		<string name="name" value="不死族"/>
+	</imgdir>
+</imgdir>

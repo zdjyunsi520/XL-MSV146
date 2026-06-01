@@ -1,0 +1,8 @@
+<imgdir name="4121015">
+        <string name="name" value="虚弱诅咒" />
+        <string name="desc" value="在你周围召唤结界。降低踏入结界的敌人的攻击力、移动速度和防御力。同时允许对BOSS怪物造成更多伤害~" />
+        <string name="h" value="MP消耗: #mpCon，持续#time秒。攻击力和防御力降低#w%，移动速度降低#y\n[被动效果: BOSS攻击伤害增加#bdR%]" />
+        <string name="pdesc" value="在你周围召唤结界。降低踏入结界的敌人的攻击力、移动速度和防御力。同时允许对BOSS怪物造成更多伤害~" />
+        <string name="ph" value="MP消耗: #mpCon，持续#time秒。攻击力和防御力降低#w%，移动速度降低#y\n[被动效果: BOSS攻击伤害增加#bdR%]" />
+        <string name="hch" value="MP消耗: #mpCon，持续#time秒。攻击力和防御力降低#w%，移动速度降低#y" />
+    </imgdir>

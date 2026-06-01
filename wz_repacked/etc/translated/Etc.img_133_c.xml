@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032559">
+			<string name="name" value="比空气还轻的绒毛"/>
+			<string name="desc" value="可能比空气还轻的绒毛。它主要用于制作精灵的冬衣。它太轻了，漂浮在周围，经常被挂在高高的树枝上"/>
+		</imgdir>
+    <imgdir name="4032560">
+			<string name="name" value="燃烧的木柴"/>
+			<string name="desc" value="还在燃烧的木柴。它经常可以在被闪电击中的黑暗斧树桩里面找到"/>
+		</imgdir>
+    <imgdir name="4032561">
+			<string name="name" value="暖手包"/>
+			<string name="desc" value="一个在冬天温暖你冰冷手脚的物品。揉搓包会触发热反应"/>
+		</imgdir>
+    <imgdir name="4032562">
+			<string name="name" value="燃烧的熔岩"/>
+			<string name="desc" value="滚烫的熔岩，极其炎热和危险。你可以把它带到被雪覆盖的岩石上来冷却它"/>
+		</imgdir>
+    <imgdir name="4032563">
+			<string name="name" value="火焰花"/>
+			<string name="desc" value="在蚂蚁隧道中发现的稀有植物。它从花瓣散发热量，即使在最严酷的冬天也不会结冰"/>
+		</imgdir>
+    <imgdir name="4032564">
+			<string name="name" value="红茶包"/>
+			<string name="desc" value="装满红茶叶的小茶包。把它泡在热水里，享受红茶的美妙风味"/>
+		</imgdir>
+    <imgdir name="4032565">
+			<string name="name" value="温热的熔岩"/>
+			<string name="desc" value="被空气冷却到完美温度的熔岩。它有刚好足够的热量来温暖你的房间"/>
+		</imgdir>
+    <imgdir name="4032566">
+			<string name="name" value="毛毡片"/>
+			<string name="desc" value="一块厚的缠结羊毛。它因其质地和各种颜色而被广泛用于制作各种物品"/>
+		</imgdir>
+    <imgdir name="4032567">
+			<string name="name" value="套头衫内层"/>
+			<string name="desc" value="提供出色保暖效果的军用套头衫的底层"/>
+		</imgdir>
+    <imgdir name="4032568">
+			<string name="name" value="绗缝棉"/>
+			<string name="desc" value="在两块织物之间以正方形编织的棉花"/>
+		</imgdir>
+    <imgdir name="4032569">
+			<string name="name" value="温暖的气泡"/>
+			<string name="desc" value="来自海底火山、包含暖空气的气泡"/>
+		</imgdir>
+    <imgdir name="4032570">
+			<string name="name" value="热石头"/>
+			<string name="desc" value="在米纳尔森林中发现的、散发热量的神秘石头"/>
+		</imgdir>
+    <imgdir name="4032571">
+			<string name="name" value="温度秘诀"/>
+			<string name="desc" value="包含如何散发热量以在寒冷中生存的秘诀的卷轴"/>
+		</imgdir>
+    <imgdir name="4032572">
+			<string name="name" value="黄色桔梗花蕾"/>
+			<string name="desc" value="稀有的桔梗花蕾，可以在煮沸后或作为药丸服用，增强你的健康和对寒冷的抵抗力"/>
+		</imgdir>
+    <imgdir name="4032573">
+			<string name="name" value="火焰沙"/>
+			<string name="desc" value="在阿里安特沙漠中发现的红沙。它是暖手包的主要成分，因为当它在表面上摩擦时会触发热反应"/>
+		</imgdir>
+    <imgdir name="4032574">
+			<string name="name" value="铸铁"/>
+			<string name="desc" value="一块极其坚硬的铁，不会快速冷却。它用于建造取暖装置"/>
+		</imgdir>
+    <imgdir name="4032575">
+			<string name="name" value="1度"/>
+			<string name="desc" value="一度温暖的温度"/>
+		</imgdir>
+    <imgdir name="4032576">
+			<string name="name" value="绿色狂欢节羽毛"/>
+			<string name="desc" value="用于狂欢节面具的美丽鲜艳的羽毛"/>
+		</imgdir>
+    <imgdir name="4032577">
+			<string name="name" value="紫色狂欢节羽毛"/>
+			<string name="desc" value="用于狂欢节面具的美丽鲜艳的羽毛"/>
+		</imgdir>
+    <imgdir name="4032578">
+			<string name="name" value="红色狂欢节羽毛"/>
+			<string name="desc" value="用于狂欢节面具的美丽鲜艳的羽毛"/>
+		</imgdir>
+</imgdir>

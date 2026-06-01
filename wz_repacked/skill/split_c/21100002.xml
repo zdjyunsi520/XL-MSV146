@@ -1,0 +1,8 @@
+<imgdir name="21100002">
+        <string name="name" value="最终冲锋" />
+        <string name="desc" value="向前冲锋，击退路径上的敌人。只能在三重挥击后发动。有概率眩晕敌人。\n[指令：三重挥击 + #c左方向键+右方向键+攻击键#]\n前置技能：#c三重挥击 Lv. 20#" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#prop%，持续时间：#time 秒" />
+        <string name="pdesc" value="向前冲锋，击退路径上的敌人。只能在三重挥击后发动。\n[指令：三重挥击 + #c左方向键+右方向键+攻击键#]\n前置技能：#c三重挥击 Lv. 20#" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大推动目标数：#mobCount" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#hcProp%，持续时间：#hcTime 秒" />
+    </imgdir>

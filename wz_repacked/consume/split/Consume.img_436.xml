@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046838">
+		<string name="name" value="Rebecca's Scroll for Accessory for Magic ATT 40%"/>
+		<string name="desc" value="Scroll that can only be used on Rebecca's special accessory. Improves Magic ATT."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 100%\r\nMagic ATT: +2 to 7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046839">
+		<string name="name" value="Scroll for Accessory for ATT 30%"/>
+		<string name="desc" value="Improves Weapon Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2 to 4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046840">
+		<string name="name" value="Scroll for Accessory Magic ATT 30%"/>
+		<string name="desc" value="Improves Magic Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMagic ATT: +2 to 4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046841">
+		<string name="name" value="Pinnacle Scroll for Accessory for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046842">
+		<string name="name" value="Pinnacle Scroll for Accessory for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046843">
+		<string name="name" value="Accessory Enchant Scroll 50%"/>
+		<string name="desc" value="Enchant Accessory."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate 50%\r\nChance to destroy item on failure: 100%\r\nHP +50\r\nMP +50\r\n#"/>
+	</imgdir>
+    <imgdir name="2046856">
+		<string name="name" value="Premium Scroll for Accessory for Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon ATT on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +4 to +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046857">
+		<string name="name" value="Premium Scroll for Accessory for Magic ATT 100%"/>
+		<string name="desc" value="Improves Magic ATT on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic ATT: +4 to +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047906">
+		<string name="name" value="Occult Scroll for Armor for ATT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves Weapon Attack on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nWeapon Attack +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047907">
+		<string name="name" value="Occult Scroll for Armor for M. ATT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves Magic Attack on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nMagic Attack +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047908">
+		<string name="name" value="Occult Scroll for Armor for STR 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves STR on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nSTR +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047909">
+		<string name="name" value="Occult Scroll for Armor for INT 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves INT on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nINT +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047910">
+		<string name="name" value="Occult Scroll for Armor for DEX 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves DEX on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nDEX +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047911">
+		<string name="name" value="Occult Scroll for Armor for LUK 90%"/>
+		<string name="desc" value="A rare scroll from the depths of the dark realm. Improves LUK on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 90%\r\nDestroys item on failure\r\nLUK +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047912">
+		<string name="name" value="Scroll for Armor for ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047913">
+		<string name="name" value="Scroll for Armor for Magic ATT 40%"/>
+		<string name="desc" value="Improves Magic ATT on armors."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2047914">
+		<string name="name" value="Unleashed Scroll for Armor Boost 50%"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2047915">
+		<string name="name" value="Unleashed Armor Enhancement Scroll 50%"/>
+		<string name="desc" value="Improves stats on armor."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMax HP: +100\r\nMax MP: +100\r\nAvoidability: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2023132">
+		<string name="name" value="3X Drop Coupon"/>
+		<string name="desc" value="Triples your item drop rate for one hour when used."/>
+	</imgdir>
+    <imgdir name="2023133">
+		<string name="name" value="Gold Beach Chef's Special"/>
+		<string name="desc" value="Gold Beach Restaurant's top dish is not only delicious, it's also good for you!  Increases Ambition, Empathy, Insight, Will, Diligence, and Charm.\n#cDouble-click to use.#"/>
+	</imgdir>
+</imgdir>

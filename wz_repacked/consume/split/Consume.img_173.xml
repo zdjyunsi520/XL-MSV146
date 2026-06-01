@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2101236">
+		<string name="name" value="GMEvent_Pink Bean2"/>
+		<string name="desc" value="GMEvent_Pink Bean2"/>
+	</imgdir>
+    <imgdir name="2101250">
+		<string name="name" value="Summon Ravana"/>
+		<string name="desc" value="Summon Ravana mirror mode"/>
+	</imgdir>
+    <imgdir name="2102000">
+		<string name="name" value="Monster Attack Lvl 1"/>
+		<string name="desc" value="Summons 3 Slimes, Pigs, Orange Mushrooms, Bubblings, Octopuses, Green Mushrooms, and Horny Mushrooms each."/>
+	</imgdir>
+    <imgdir name="2102001">
+		<string name="name" value="Monster Attack Lvl 2"/>
+		<string name="desc" value="Summons 3 Drumming Bunnies, Ligators, Ratz, Star Pixie's, Jr. Wraith's, and Jr. Pepe's each."/>
+	</imgdir>
+    <imgdir name="2102002">
+		<string name="name" value="Monster Attack Lvl 3"/>
+		<string name="desc" value="Summons 3 Panda Teddy's, King Bloctopuses, Lorangs, Zombie Lupins, Hellies, and Tweeters each."/>
+	</imgdir>
+    <imgdir name="2102003">
+		<string name="name" value="Monster Attack Lvl 4"/>
+		<string name="desc" value="Summons 3 Toy Trojans, King Block Golems, Wraiths, Cheif Grey's, and Mixed Golems each."/>
+	</imgdir>
+    <imgdir name="2102004">
+		<string name="name" value="Monster Attack Lvl 5"/>
+		<string name="desc" value="Summons 3 Mushmoms, Red Drakes, Ice Drakes, Master Soul Teddy's, and Dark Yeti's each."/>
+	</imgdir>
+    <imgdir name="2102005">
+		<string name="name" value="Monster Attack Lvl 6"/>
+		<string name="desc" value="Summons 3 Taurospears, King Blue Goblins, Lucidas, Werewolves, and Yeti &amp; Pepes each."/>
+	</imgdir>
+    <imgdir name="2102006">
+		<string name="name" value="Monster Attack Lvl 7"/>
+		<string name="desc" value="Summons 3 Lycanthropes, Death Teddy's, Gigantic Spirit Vikings, and G. Phantom Watches each."/>
+	</imgdir>
+    <imgdir name="2102007">
+		<string name="name" value="Monster Attack Lvl 8"/>
+		<string name="desc" value="Summons 5 Bains, 2 Jr. Balrogs, and 1 Crimson Balrog."/>
+	</imgdir>
+    <imgdir name="2102008">
+		<string name="name" value="Monster Attack Package 1"/>
+		<string name="desc" value="Summons one of each monsters featured in Monster Attack Level 1 ~ Level 3."/>
+	</imgdir>
+    <imgdir name="2102009">
+		<string name="name" value="Monster Attack Package 2"/>
+		<string name="desc" value="Summons one of each monsters featured in Monster Attack Level 4 ~ Level 7."/>
+	</imgdir>
+    <imgdir name="2103000">
+		<string name="name" value="Golden Monster Bell"/>
+		<string name="desc" value="#cDouble-click# to ring the bell and summon a marvelous monster.\nCannot be used near portals, in town, or any maps where Teleport and Summon are prohibited."/>
+	</imgdir>
+    <imgdir name="2103001">
+		<string name="name" value="Ghostly Glow Bell"/>
+		<string name="desc" value="#Double-click# to summon the glowing ghost that lives in this bell.\nCannot be used in town or near portals."/>
+	</imgdir>
+    <imgdir name="2109000">
+		<string name="name" value="Monster Marble"/>
+		<string name="desc" value="A marble that contains poisoned monsters. Use it to bring out the poisoned monster from the marble."/>
+	</imgdir>
+    <imgdir name="2109001">
+		<string name="name" value="1st Monster Marble"/>
+		<string name="desc" value="A marble that contains poisoned monsters on the 1st floor. Use it to bring out the poisoned monster from the marble."/>
+	</imgdir>
+    <imgdir name="2109002">
+		<string name="name" value="2nd Monster Marble"/>
+		<string name="desc" value="A marble that contains poisoned monsters on the 2nd floor. Use it to bring out the poisoned monster from the marble."/>
+	</imgdir>
+    <imgdir name="2109003">
+		<string name="name" value="3rd Monster Marble"/>
+		<string name="desc" value="A marble that contains poisoned monsters on the 3rd floor. Use it to bring out the poisoned monster from the marble."/>
+	</imgdir>
+    <imgdir name="2109004">
+		<string name="name" value="Steal Sheep Wool"/>
+		<string name="desc" value="Summons a bomb to steel wool from sheep."/>
+	</imgdir>
+    <imgdir name="2109005">
+		<string name="name" value="Plant a Rose Thorn"/>
+		<string name="desc" value="Plants a Rose Thorn Bush to keep Wolves away."/>
+	</imgdir>
+</imgdir>

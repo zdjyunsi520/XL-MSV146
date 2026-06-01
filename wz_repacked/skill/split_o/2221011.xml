@@ -1,0 +1,5 @@
+<imgdir name="2221011">
+        <string name="name" value="Freezing Breath" />
+        <string name="desc" value="Freeze yourself and enemies with powerful cold air #cto stun them and continually reduce their Defense#." />
+        <string name="h" value="MP Cost: #mpCon, you become invincible. #cStun up to #mobCount enemies and reduce Magic Defense by #y%, Weapon Defense by #x%#. When press and hold down the key, it lasts up to #time sec. Cooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,109 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="in01">
+				<string name="Title" value="Tiru's Forest"/>
+				<imgdir name="Mob">
+					<string name="0" value="0100123"/>
+				</imgdir>
+    <imgdir name="130010200">
+			<string name="west00" value="Drill Hall Entrance"/>
+		</imgdir>
+    <imgdir name="240020101">
+			<imgdir name="in00">
+				<string name="Title" value="Isolated Forest"/>
+				<imgdir name="Npc">
+					<string name="0" value="Nix"/>
+				</imgdir>
+    <imgdir name="240020102">
+			<imgdir name="in00">
+				<string name="Title" value="Isolated Forest"/>
+				<imgdir name="Npc">
+					<string name="0" value="Nix"/>
+				</imgdir>
+    <imgdir name="240020401">
+			<imgdir name="in00">
+				<string name="Title" value="Isolated Forest"/>
+				<imgdir name="Npc">
+					<string name="0" value="Nix"/>
+				</imgdir>
+    <imgdir name="240020402">
+			<imgdir name="in00">
+				<string name="Title" value="Isolated Forest"/>
+				<imgdir name="Npc">
+					<string name="0" value="Nix"/>
+				</imgdir>
+    <imgdir name="130020000">
+			<string name="in00" value="The 1st Drill Hall"/>
+			<string name="in01" value="The 2nd Drill Hall"/>
+			<string name="in02" value="The 3rd Drill Hall"/>
+			<string name="in03" value="The 4th Drill Hall"/>
+		</imgdir>
+    <imgdir name="130030001">
+			<imgdir name="west00">
+				<string name="Title" value="Forest of Beginning 3"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kizan"/>
+				</imgdir>
+    <imgdir name="Mob">
+					<string name="0" value="0100122"/>
+				</imgdir>
+    <imgdir name="130030002">
+			<imgdir name="west00">
+				<string name="Title" value="Forest of Beginning 4"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kinu"/>
+				</imgdir>
+    <imgdir name="Mob">
+					<string name="0" value="0100121"/>
+				</imgdir>
+    <imgdir name="130030003">
+			<imgdir name="west00">
+				<string name="Title" value="Forest of Beginning 5"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kia"/>
+				</imgdir>
+    <imgdir name="Mob">
+					<string name="0" value="0100121"/>
+				</imgdir>
+    <imgdir name="130030004">
+			<imgdir name="west00">
+				<string name="Title" value="Way out of the Forest of Beginning"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kisha"/>
+				</imgdir>
+    <imgdir name="240020600">
+			<string name="out00" value="Griffey Forest"/>
+			<string name="out01" value="Manon Forest"/>
+		</imgdir>
+    <imgdir name="106021000">
+			<string name="in00" value="Castle Security Room"/>
+		</imgdir>
+    <imgdir name="106021400">
+			<string name="TD_MC_enterboss1" value="Wedding Hall"/>
+			<imgdir name="left00">
+				<string name="Title" value="Castle Wall 6"/>
+				<imgdir name="Mob">
+					<string name="0" value="3300004"/>
+				</imgdir>
+    <imgdir name="130000000">
+			<imgdir name="west00">
+				<string name="Title" value="Knights' Chamber"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kidan"/>
+				</imgdir>
+    <imgdir name="130000100">
+			<imgdir name="east00">
+				<string name="Title" value="Ereve"/>
+				<imgdir name="Npc">
+					<string name="0" value="Cygnus"/>
+					<string name="1" value="Shinsoo"/>
+					<string name="2" value="Neinheart"/>
+					<string name="3" value="Mihile"/>
+					<string name="4" value="Oz"/>
+					<string name="5" value="Irena"/>
+					<string name="6" value="Eckhart"/>
+					<string name="7" value="Hawkeye"/>
+				</imgdir>
+    <imgdir name="222020400">
+			<string name="in00" value="To the Past"/>
+		</imgdir>
+</imgdir>

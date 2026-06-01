@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010123">
+		<string name="name" value="Spring Flower Corsage Chair"/>
+		<string name="desc" value="Feel and Enjoy the Flower!!\nRecovers 50 HP, MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010124">
+		<string name="name" value="Dunas Jet Chair"/>
+		<string name="desc" value="A futuristic chair that people in Neo City ride. It recovers 40 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010125">
+		<string name="name" value="Nibelung Battleship Chair"/>
+		<string name="desc" value="A futuristic chair that people in Neo City ride. It recovers 40 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010126">
+		<string name="name" value="Balrog Chair"/>
+		<string name="desc" value="A chair that resembles Balrog, an ancient demon that is rumored to be found deep inside Sleepywood Dungeon. When you sit in this menacing chair, 60 HP and 60 MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010127">
+		<string name="name" value="Zakum Chair"/>
+		<string name="desc" value=" A chair that resembles Zakum, a monster that is worshipped by residents near the volcanic area. When you sit in this chair, you'll feel the power of Zakum. 80 HP and 50 MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010128">
+		<string name="name" value="Horntail Chair"/>
+		<string name="desc" value="A chair that resembles Horntail, an evil three-headed dragon that lives in Leafre's Dragon Forest. When you sit on a Horntail Chair, your injuries will heal quicker. 100 HP and 40 MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010129">
+		<string name="name" value="Chief Chair"/>
+		<string name="desc" value="A chair that symbolizes the authority of a chief. You can recover 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010130">
+		<string name="name" value="Rose Chair"/>
+		<string name="desc" value="A chair with the romantic scent of roses. You can recover 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010131">
+		<string name="name" value="Chewing Panda Chair"/>
+		<string name="desc" value="A chair with an adorable yet lazy panda chewing a bamboo stick. You can recover 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010132">
+		<string name="name" value="Fuzzy Kitty Chair"/>
+		<string name="desc" value="A chair with a fuzzy kitty rubbing its face on its body. You can recover 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010133">
+		<string name="name" value="Tent Chair"/>
+		<string name="desc" value="A chair that provides you the full wilderness experience. You can recover 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010134">
+		<string name="name" value="Underneath the Maple Tree..."/>
+		<string name="desc" value="A white chair made to commemorate the beginning of MapleStory. You can recover 35 HP and 10 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010136">
+		<string name="name" value="6th Anniversary Chair"/>
+		<string name="desc" value="60 HP and 60 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010137">
+		<string name="name" value="Dragon Lord Chair"/>
+		<string name="desc" value="A special chair shaped like the Dragon Lord. Recovers 100 HP and 100 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010138">
+		<string name="name" value="Settee Chair"/>
+		<string name="desc" value="Moment of elegance. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010139">
+		<string name="name" value="Your Throne"/>
+		<string name="desc" value="Need some privacy? Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010140">
+		<string name="name" value="Hospital Bed"/>
+		<string name="desc" value="Time to heal your wound. Recovers 100 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010141">
+		<string name="name" value="Cake Chair"/>
+		<string name="desc" value="30 HP and 30 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010142">
+		<string name="name" value="Fish Tank Chair"/>
+		<string name="desc" value="Recovers 30 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010145">
+		<string name="name" value="Maple Crystal Chair"/>
+		<string name="desc" value="If you sit in the crystal chair made to commemorate the creation of Maple Story, 50 HP and 30 MP are recovered every 10 seconds."/>
+	</imgdir>
+</imgdir>

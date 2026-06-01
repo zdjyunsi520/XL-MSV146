@@ -1,0 +1,5 @@
+<imgdir name="112121004">
+        <string name="name" value="Fire Kitty!" />
+        <string name="desc" value="Arby rolls forward to attack. Targets temporarily have less DEF." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Enemy DEF: -#x%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="42111006">
+        <string name="name" value="冰结式神缠" />
+        <string name="desc" value="引导水之神建御名方，将冰冻能量注入式神缠中。" />
+        <string name="h" value="主动效果：精气消耗：#epCon，持续时间：#time秒，式神缠冰冻概率：#prop%，冰冻持续时间：#subTime秒。如果目标受到#x次伤害则冰冻破碎，并受到#y%伤害。\n被动效果：式神缠伤害：#damR%（总伤害：+#z%）" />
+    </imgdir>

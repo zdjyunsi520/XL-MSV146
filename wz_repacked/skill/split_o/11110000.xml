@@ -1,0 +1,5 @@
+<imgdir name="11110000">
+        <string name="name" value="Self Recovery" />
+        <string name="desc" value="Restores some HP and MP every 4 seconds, even in combat." />
+        <string name="h" value="#hp HP and #mp MP recovered every 4 seconds." />
+    </imgdir>

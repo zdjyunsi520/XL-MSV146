@@ -1,0 +1,5 @@
+<imgdir name="31121052">
+        <string name="name" value="Cerberus Chomp" />
+        <string name="desc" value="Utilize the power of the nether world to damage enemies and rob them of their souls." />
+        <string name="h" value="HP Cost: #hpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Boss damage: +#bdR%, Monster DEF Ignored: #ignoreMobpdpR%. Additional Fury Absorption: #x.\nCooldown: #cooltime sec." />
+    </imgdir>

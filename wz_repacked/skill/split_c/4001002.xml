@@ -1,0 +1,7 @@
+<imgdir name="4001002">
+        <string name="name" value="混乱术" />
+        <string name="desc" value="暂时降低敌人的武器攻击力和防御力，最终使怪物的攻击无效化。不能对同一怪物重复使用。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Enemy ATT: -#x, Enemy DEF: -#y%" />
+        <string name="pdesc" value="暂时降低目标的攻击力和防御力，并无视目标100%的攻击。" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Enemy ATT: -#x, Enemy DEF: -#y%. Target cannot attack you.\nCooldown: #cooltime sec" />
+    </imgdir>

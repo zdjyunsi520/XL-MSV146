@@ -1,0 +1,8 @@
+<imgdir name="32111010">
+        <string name="name" value="Teleport Mastery" />
+        <string name="desc" value="When activated, enemies at the teleport location will take damage and become Stunned. Also permanently increases teleport distance. \nThis skill can be toggled on and off with the skill key. \nRequired Skill: #cTeleport Lv. 5#" />
+        <string name="h" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
+        <string name="pdesc" value="When activated, enemies at the teleport location will take damage and become Stunned. Also permanently increases teleport distance. \nThis skill can be toggled on and off with the skill key. \nRequired Skill: #cTeleport Lv. 5#" />
+        <string name="ph" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
+        <string name="hch" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcSubProp%, Stun Duration: #hcTime sec, Teleport Distance: +#x" />
+    </imgdir>

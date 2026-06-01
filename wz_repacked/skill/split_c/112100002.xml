@@ -1,0 +1,5 @@
+<imgdir name="112100002">
+        <string name="name" value="豹之突袭" />
+        <string name="desc" value="向前冲刺撕裂敌人。\r\n[前置技能]: #c豹之爪 Lv. 1#\r\n[指令]: #c豹之爪#2次攻击后触发" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

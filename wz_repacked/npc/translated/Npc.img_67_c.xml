@@ -1,0 +1,117 @@
+<imgdir name="Npc.img">
+    <imgdir name="1032205">
+		<string name="name" value="拉尼亚"/>
+		<string name="n0" value="今天天气真好。"/>
+		<string name="n1" value="晚餐？是的，是的，晚餐。"/>
+		<string name="d0" value="有时候，我感到很紧张。"/>
+		<string name="d1" value="和你在一起我感觉更安全。"/>
+	</imgdir>
+    <imgdir name="1032206">
+		<string name="name" value="佩妮"/>
+		<string name="n0" value="我现在很忙，喵。"/>
+		<string name="n1" value="我的鱼在哪里？"/>
+		<string name="d0" value="晒日光浴非常重要。"/>
+		<string name="d1" value="你见过这么漂亮的猫咪吗？"/>
+	</imgdir>
+    <imgdir name="1032207">
+		<string name="name" value="洛洛"/>
+		<string name="n0" value="我是洛洛，魔法图书馆的学生。"/>
+		<string name="n1" value="你在找什么书？"/>
+		<string name="d0" value="格兰德尔真的很老，而且非常干净。"/>
+		<string name="d1" value="我们应该尽快清理这个地方。"/>
+	</imgdir>
+    <imgdir name="1032208">
+		<string name="name" value="洛洛"/>
+		<string name="n0" value="我是洛洛，魔法图书馆的学生。"/>
+		<string name="n1" value="你在找什么书？"/>
+		<string name="d0" value="格兰德尔真的很老，而且非常干净。"/>
+		<string name="d1" value="我们应该尽快清理这个地方。"/>
+	</imgdir>
+    <imgdir name="1032209">
+		<string name="name" value="维伦"/>
+		<string name="n0" value="那是很久以前的事了。"/>
+		<string name="n1" value="我可能是一个灵魂，但我仍然可以帮助露米诺斯。"/>
+		<string name="d0" value="独自度过数百年并不是那么美好。"/>
+		<string name="d1" value="我怀念和露米诺斯、露西亚一起学习的时光。"/>
+	</imgdir>
+    <imgdir name="1032210">
+		<string name="name" value="维伦"/>
+		<string name="n0" value="那是很久以前的事了。"/>
+		<string name="n1" value="我可能是一个灵魂，但我仍然可以帮助露米诺斯。"/>
+		<string name="d0" value="独自度过数百年并不是那么美好。"/>
+		<string name="d1" value="我怀念和露米诺斯、露西亚一起学习的时光。"/>
+	</imgdir>
+    <imgdir name="1032211">
+		<string name="name" value="森特罗伯"/>
+		<string name="n0" value="哔，啵。"/>
+		<string name="n1" value="我负责保护这个区域。哔。"/>
+		<string name="d0" value="今天没有异常情况。哔。"/>
+		<string name="d1" value="我很耐用，但外观不太美观。哔。"/>
+	</imgdir>
+    <imgdir name="1032212">
+		<string name="name" value="特工N"/>
+	</imgdir>
+    <imgdir name="1032213">
+		<string name="name" value="特工O"/>
+		<string name="func" value="出差的特工需要赚点外快。"/>
+		<string name="n0" value="我去组织告诉我的地方。"/>
+		<string name="n1" value="我的职责不仅仅是提供日常必需品。"/>
+		<string name="d0" value="这个地方太和平了。有时候我都忘了自己在值班。"/>
+		<string name="d1" value="我的职责不仅仅是提供日常必需品。"/>
+	</imgdir>
+    <imgdir name="1032214">
+		<string name="name" value="第二光明大师"/>
+		<string name="n0" value="我将永远赎罪。"/>
+		<string name="n1" value="如果我再多做一点努力，也许我本可以阻止它。"/>
+		<string name="d0" value="即使我的灵魂永远被困在这里，我也没有遗憾。"/>
+		<string name="d1" value="黑暗永远不能再被召唤到这个世界上。"/>
+	</imgdir>
+    <imgdir name="1032215">
+		<string name="name" value="森特罗伯"/>
+		<string name="n0" value="哔，啵。"/>
+		<string name="n1" value="我负责保护这个区域。哔。"/>
+		<string name="d0" value="今天没有异常情况。哔。"/>
+		<string name="d1" value="我很耐用，但外观不太美观。哔。"/>
+	</imgdir>
+    <imgdir name="1032216">
+		<string name="name" value="拉尼亚"/>
+	</imgdir>
+    <imgdir name="1032217">
+		<string name="name" value="拉尼亚"/>
+	</imgdir>
+    <imgdir name="1032218">
+		<string name="name" value="魔法图书馆检查员"/>
+	</imgdir>
+    <imgdir name="1032219">
+		<string name="name" value="魔法图书馆检查员"/>
+	</imgdir>
+    <imgdir name="1032220">
+		<string name="name" value="魔法图书馆检查员"/>
+	</imgdir>
+    <imgdir name="1033000">
+		<string name="name" value="赫尔墨斯"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="..."/>
+		<string name="s1" value="呼呼呼...."/>
+	</imgdir>
+    <imgdir name="1033001">
+		<string name="name" value="埃索斯"/>
+		<string name="func" value="武器/盔甲商人"/>
+		<string name="s0" value="..."/>
+		<string name="s1" value="呼呼呼...."/>
+	</imgdir>
+    <imgdir name="1033002">
+		<string name="name" value="欧文"/>
+		<string name="func" value="商人"/>
+		<string name="s0" value="..."/>
+		<string name="s1" value="呼呼呼...."/>
+	</imgdir>
+    <imgdir name="1033100">
+		<string name="name" value="菲利乌斯"/>
+		<string name="func" value="魔法长老"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="精灵魔法集中了自然的力量。你知道的，自然不容小觑。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5060005">
+		<string name="name" value="Incubator"/>
+		<string name="desc" value="A device needed to #chatch a Pygmy Egg#. You can hatch a Pygmy Egg by double clicking on the Incubator. The Incubator will give you a better chance of obtaining valuable items."/>
+	</imgdir>
+    <imgdir name="5060006">
+		<string name="name" value="Magic Music Box"/>
+		<string name="desc" value="A jeweled music box that once belonged to a legendary hero of the past. Can be opened with a #cHero's Key#, dropped by monsters and sold at Elluel General Store. Use by double-clicking on the music box."/>
+	</imgdir>
+    <imgdir name="5060007">
+		<string name="name" value="Crystal Scale"/>
+		<string name="desc" value="An enchanted crystalline sale. Acquire a Renegades Gem from defeated monsters and place it on the scale to obtain a special item."/>
+	</imgdir>
+    <imgdir name="5060008">
+		<string name="name" value="Magical Teapot"/>
+		<string name="desc" value="A magical tea pot. Add #cEnchanted Teabags#, dropped by monsters, or brew up special items. Double click on the tea pot to add teabags!"/>
+	</imgdir>
+    <imgdir name="5060012">
+		<string name="name" value="Mermaid Mirror"/>
+		<string name="desc" value="A fancy hand mirror frame, missing the mirror glass. Find #cClear Mirror Glass# on monsters or purchase it from any General Store, and then place it on the frame to obtain a special item. Double-click on the Mermaid Mirror to place the glass."/>
+	</imgdir>
+    <imgdir name="5060013">
+		<string name="name" value="Emerald Mirror"/>
+		<string name="desc" value="An amazing mirror which contains a few #cpopular equipment items and rare scrolls#. If you double-click on the Emerald Mirror, you can place #cEmerald Mirror Glass# on it to obtain a special item. You can get #cEmerald Mirror Glass# either from monster drops or by buying it at General Stores."/>
+	</imgdir>
+    <imgdir name="5060014">
+		<string name="name" value="Spinel's Mirror"/>
+		<string name="desc" value="A magical mirror that contains a marvelous assortment of #cchairs and Jag Jump Riding items#. If you double-click on the Spinel's Mirror, you can place #cSpinel's Mirror Glass# in it, which you can purchase from General Stores, to obtain a special item."/>
+	</imgdir>
+    <imgdir name="5060016">
+		<string name="name" value="Magical Book"/>
+		<string name="desc" value="Open this magical book to acquire #cpopular equipment, rare scrolls, and other rare items#. Double-click to open the book, or use a #cMagical Quill Pen# from the General Store."/>
+	</imgdir>
+    <imgdir name="5060017">
+		<string name="name" value="Philosopher's Book"/>
+		<string name="desc" value="Put a Philosopher's Quill Pen on the Philosopher's Book to receive various scrolls."/>
+	</imgdir>
+    <imgdir name="5060018">
+		<string name="name" value="Infinity Book"/>
+		<string name="desc" value="Open this Infinity Book to acquire #cone of several surprising items#. Combine with an #cInfinity Quill Pen#, available at the General Store or dropped by monsters, to open."/>
+	</imgdir>
+    <imgdir name="5060019">
+		<string name="name" value="Stone Seal Breaker"/>
+		<string name="desc" value="This Stone Seal Breaker can open the Magi-Stone Box, revealing #cone of several rare items#.  You can acquire a #cMagi-Stone Box# via quests or by hunting monsters."/>
+	</imgdir>
+    <imgdir name="5060022">
+		<string name="name" value="Fairy Vial"/>
+		<string name="desc" value="Fill with Fairy Tears to gain one rare item. Double-click on the Fairy Vial to open the item window and drop in Fairy Tears. Fairy Tears can be acquired from monsters or from General Store in town."/>
+	</imgdir>
+    <imgdir name="5060023">
+		<string name="name" value="Chaos Purification Stone"/>
+		<string name="desc" value="Combine this Chaos Purification Stone with the Chaos Box to acquire #cone of several rare items#. You can acquire a #cChaos Box# via quests or by hunting monsters."/>
+	</imgdir>
+    <imgdir name="5060024">
+		<string name="name" value="Cryptic Stone"/>
+		<string name="desc" value="Combine with the Cryptic Chest to acquire #cone of many amazing items#!"/>
+	</imgdir>
+    <imgdir name="5061000">
+		<string name="name" value="Item Guard : 7 Days"/>
+		<string name="desc" value="Double-click the lock and choose a non-quest item to prevent it from being #cvendor traded, exchanged, dropped, scrolled, or used by cash items#. #cItems cannot be unsealed for 7 days.# You cannot delete a character that is currently using an Item Guard. The Fusion Anvil can still be used on a locked item."/>
+	</imgdir>
+    <imgdir name="5061001">
+		<string name="name" value="Item Guard : 30 Days"/>
+		<string name="desc" value="Double-click the lock and choose a non-quest item to prevent it from being #cvendor traded, exchanged, dropped, scrolled, or used by cash items#. #cItems cannot be unsealed for 30 days.# You cannot delete a character that is currently using an Item Guard. The Fusion Anvil can still be used on a locked item."/>
+	</imgdir>
+    <imgdir name="5061002">
+		<string name="name" value="Item Guard : 90 days"/>
+		<string name="desc" value="Double-click the lock and choose a non-quest item to prevent it from being #cvendor traded, exchanged, dropped, scrolled, or used by cash items#. #cItems cannot be unsealed for 90 days.# You cannot delete a character that is currently using an Item Guard. The Fusion Anvil can still be used on a locked item."/>
+	</imgdir>
+    <imgdir name="5061003">
+		<string name="name" value="Item Guard : 365 Days"/>
+		<string name="desc" value="Double-click the lock and choose a non-quest item to prevent it from being #cvendor traded, exchanged, dropped, scrolled, or used by cash items#. #cItems cannot be unsealed for 365 days.# You cannot delete a character that is currently using an Item Guard. The Fusion Anvil can still be used on a locked item."/>
+	</imgdir>
+    <imgdir name="5062000">
+		<string name="name" value="Miracle Cube"/>
+		<string name="desc" value="A mysterious cube, said to bring out the hidden potential of equipment. \n#cOnly usable on items graded Rare to Unique# \n#cMax Result: Unique#"/>
+	</imgdir>
+    <imgdir name="5062001">
+		<string name="name" value="Premium Miracle Cube"/>
+		<string name="desc" value="A miraculous cube that resets #cthe potential and number of potential stats# on any piece of equipment that is Rare, Epic, or Unique.\nThis cube #ccannot be used on Legendary items.#This cube can only be used on items with revealed potentials."/>
+	</imgdir>
+</imgdir>

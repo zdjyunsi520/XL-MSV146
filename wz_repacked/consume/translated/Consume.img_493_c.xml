@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2047966">
+		<string name="name" value="进化防具附魔卷轴"/>
+		<string name="desc" value="附魔防具。"/>
+		<string name="autodesc" value="\r\n#c\r\n成功率：50%\r\n最大HP+75\r\n回避率+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047967">
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量+2\r\n物理防御力+10\r\n#"/>
+		<string name="desc" value="提升防具的力量属性。"/>
+		<string name="name" value="防具力量卷轴60%"/>
+	</imgdir>
+    <imgdir name="2047968">
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n力量+2\r\n#"/>
+		<string name="desc" value="提升防具的力量属性。"/>
+		<string name="name" value="防具力量卷轴80%"/>
+	</imgdir>
+    <imgdir name="2047969">
+		<string name="name" value="进化防具强化卷轴"/>
+		<string name="desc" value="提升防具属性。"/>
+		<string name="autodesc" value="\r\n#c\r\n成功率：50%\r\n力量+3\r\n敏捷+3\r\n智力+3\r\n运气+3\r\n回避率+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047970">
+		<string name="name" value="进化防具附魔卷轴"/>
+		<string name="desc" value="附魔防具。"/>
+		<string name="autodesc" value="\r\n#c\r\n成功率：50%\r\n最大HP+75\r\n回避率+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2047971">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n武器攻击力：+1\r\n魔法攻击力：+1\r\n"/>
+		<string name="desc" value="提升防具的武器/魔法攻击力。"/>
+		<string name="name" value="RED防具强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2048214">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n#"/>
+		<string name="desc" value="#c双击#为已有3条或更少附加潜能的装备添加一条额外的附加潜能。"/>
+		<string name="name" value="高级潜能槽雕刻刀"/>
+	</imgdir>
+    <imgdir name="2048315">
+		<string name="autodesc" value="\r\n成功率：100%\r\n"/>
+		<string name="desc" value="为没有附加潜能的装备添加附加潜能。不扣除可用升级次数。\n#c只能用于无法拥有附加潜能的物品。#"/>
+		<string name="name" value="特殊附加潜能卷轴"/>
+	</imgdir>
+    <imgdir name="2048700">
+		<string name="autodesc" value="\r\n#c用于110级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰110级"/>
+	</imgdir>
+    <imgdir name="2048701">
+		<string name="autodesc" value="\r\n#c为120级以下装备添加随机属性\r\n成功率：100%#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰120级"/>
+	</imgdir>
+    <imgdir name="2048702">
+		<string name="autodesc" value="\r\n#c用于130级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰130级"/>
+	</imgdir>
+    <imgdir name="2048703">
+		<string name="autodesc" value="\r\n#c用于140级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰140级"/>
+	</imgdir>
+    <imgdir name="2048704">
+		<string name="autodesc" value="\r\n#c用于150级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰150级"/>
+	</imgdir>
+    <imgdir name="2048705">
+		<string name="autodesc" value="\r\n#c为120级以下装备添加随机属性\r\n成功率：100%#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰120级"/>
+	</imgdir>
+    <imgdir name="2048706">
+		<string name="autodesc" value="\r\n#c用于130级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰130级"/>
+	</imgdir>
+    <imgdir name="2048707">
+		<string name="autodesc" value="\r\n#c用于140级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰140级"/>
+	</imgdir>
+    <imgdir name="2048708">
+		<string name="autodesc" value="\r\n#c用于150级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰150级"/>
+	</imgdir>
+    <imgdir name="2048709">
+		<string name="autodesc" value="\r\n#c用于110级以下装备\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于装备赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="重生火焰110级"/>
+	</imgdir>
+    <imgdir name="2048710">
+		<string name="autodesc" value="\r\n#c仅限烙印边缘\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于烙印边缘物品赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="烙印边缘重生火焰"/>
+	</imgdir>
+    <imgdir name="2048711">
+		<string name="autodesc" value="\r\n#c仅限灾难二极管\r\n成功率：100%\r\n随机属性赋予装备\r\n#"/>
+		<string name="desc" value="用于灾难二极管物品赋予附加属性。如果在已有附加属性的装备上使用重生火焰，则该物品的附加属性将被重新选择。\r\n没有剪刀次数的装备将添加5次剪刀使用次数。"/>
+		<string name="name" value="灾难二极管重生火焰"/>
+	</imgdir>
+</imgdir>

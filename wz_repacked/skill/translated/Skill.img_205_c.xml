@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="13120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP +#mmpR%"/></imgdir>
+    <imgdir name="13120038"><string name="name" value="超级愤怒"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF +50"/></imgdir>
+    <imgdir name="13120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力 +#pddX"/></imgdir>
+    <imgdir name="13120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力 +#mddX"/></imgdir>
+    <imgdir name="13120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度 +#psdSpeed"/></imgdir>
+    <imgdir name="13120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力 +#psdJump"/></imgdir>
+    <imgdir name="13120043"><string name="name" value="微风之风 - 强化"/><string name="desc" value="提升微风之风的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="13120044"><string name="name" value="微风之风 - 增效"/><string name="desc" value="提升微风之风的发动概率。"/><string name="h" value="发动概率：+#prop%"/></imgdir>
+    <imgdir name="13120045"><string name="name" value="微风之风 - 双重机会"/><string name="desc" value="可以对微风之风的一个目标追加一次攻击。"/><string name="h" value="一个目标最多可受到2次攻击。"/></imgdir>
+    <imgdir name="13120046"><string name="name" value="螺旋风暴 - 强化"/><string name="desc" value="提升螺旋风暴的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="13120047"><string name="name" value="螺旋风暴 - 扩散"/><string name="desc" value="增加螺旋风暴的攻击怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+    <imgdir name="13120048"><string name="name" value="螺旋风暴 - 额外打击"/><string name="desc" value="增加螺旋风暴的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="13120049"><string name="name" value="天籁之音 - 强化"/><string name="desc" value="提升天籁之音的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="13120050"><string name="name" value="天籁之音 - 破防"/><string name="desc" value="增加天籁之音的无视防御力。"/><string name="h" value="无视怪物防御力增加 #ignoreMobpdpR%"/></imgdir>
+    <imgdir name="13120051"><string name="name" value="天籁之音 - BOSS冲锋"/><string name="desc" value="提升天籁之音的BOSS攻击力。"/><string name="h" value="对BOSS造成额外伤害 #bdR%"/></imgdir>
+    <imgdir name="13121052"><string name="name" value="季风"/><string name="desc" value="召唤季节风暴，席卷整个世界！"/><string name="h" value="MP消耗：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，持续伤害：#dot%。\n冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="13121053"><string name="name" value="守护者的荣耀"/><string name="desc" value="女皇骑士团的庄严仪式，以证明对女皇的忠诚。"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，伤害上限：+#indieMaxDamageOver\n冷却时间：#cooltime秒。对队伍中所有女皇职业生效"/></imgdir>
+    <imgdir name="13121054"><string name="name" value="风暴使者"/><string name="desc" value="召唤暴风骤雨倾泻在敌人头上！"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，攻击时召唤巨箭概率：#prop%，巨箭额外伤害：#damage%"/></imgdir>
+    <imgdir name="15001020"><string name="name" value="雷电之拳"/><string name="desc" value="挥出蕴含雷电之力的拳击！可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount"/></imgdir>
+    <imgdir name="15001021"><string name="name" value="闪光"/><string name="desc" value="冲入敌阵造成伤害。没有敌人时向前冲刺。可以与除雷电和自身技能以外的所有技能连接。"/><string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount。范围内没有敌人时瞬移 #range 距离。"/></imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5920002">
+        <string name="name" value="Wrath of the Octopi" />
+        <string name="desc" value="An additional octopus is summoned, increasing the fire rate and the damage.\nRequired Skill: #cOctopus Lv. 30#" />
+        <string name="h" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="An additional octopus is summoned, increasing the fire rate and the damage.\nRequired Skill: #cOctopus Lv. 30#" />
+        <string name="ph" value="MP Cost: #mpCon, Octopus Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

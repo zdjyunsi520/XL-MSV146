@@ -1,0 +1,5 @@
+<imgdir name="31221053">
+        <string name="name" value="For Liberty" />
+        <string name="desc" value="Materializes the will of the Resistance to increase attack power." />
+        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to Resistance classes within the party" />
+    </imgdir>

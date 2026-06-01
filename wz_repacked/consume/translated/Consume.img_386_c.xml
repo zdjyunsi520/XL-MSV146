@@ -1,0 +1,62 @@
+<imgdir name="Consume.img">
+    <imgdir name="2870001">
+		<string name="name" value="蓝蜗牛宠物"/>
+	</imgdir>
+    <imgdir name="2870002">
+		<string name="name" value="蘑菇宠物"/>
+	</imgdir>
+    <imgdir name="2870003">
+		<string name="name" value="树桩宠物"/>
+	</imgdir>
+    <imgdir name="2870004">
+		<string name="name" value="红蜗牛宠物"/>
+	</imgdir>
+    <imgdir name="2870005">
+		<string name="name" value="盆栽幼苗宠物"/>
+	</imgdir>
+    <imgdir name="2870006">
+		<string name="name" value="盆栽牵牛花宠物"/>
+	</imgdir>
+    <imgdir name="2870007">
+		<string name="name" value="葡萄汁瓶宠物"/>
+	</imgdir>
+    <imgdir name="2870008">
+		<string name="name" value="史莱姆宠物"/>
+	</imgdir>
+    <imgdir name="2870009">
+		<string name="name" value="绿蘑菇宠物"/>
+	</imgdir>
+    <imgdir name="2870010">
+		<string name="name" value="黑暗树桩宠物"/>
+	</imgdir>
+    <imgdir name="2870011">
+		<string name="name" value="沮丧的绿蘑菇宠物"/>
+	</imgdir>
+    <imgdir name="2870012">
+		<string name="name" value="章鱼宠物"/>
+	</imgdir>
+    <imgdir name="2870013">
+		<string name="name" value="斧头树桩宠物"/>
+	</imgdir>
+    <imgdir name="2870014">
+		<string name="name" value="幽灵树桩宠物"/>
+	</imgdir>
+    <imgdir name="2870015">
+		<string name="name" value="坏笑幽灵树桩宠物"/>
+	</imgdir>
+    <imgdir name="2870016">
+		<string name="name" value="巡逻机器人宠物"/>
+	</imgdir>
+    <imgdir name="2870017">
+		<string name="name" value="奇怪的标志宠物"/>
+	</imgdir>
+    <imgdir name="2870018">
+		<string name="name" value="蛇宠物"/>
+	</imgdir>
+    <imgdir name="2870019">
+		<string name="name" value="猪宠物"/>
+	</imgdir>
+    <imgdir name="2870020">
+		<string name="name" value="丝带猪宠物"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="22140000">
+        <string name="name" value="魔法暴击" />
+        <string name="desc" value="提升暴击率和最小暴击伤害。\n需要技能手册才能解锁下一级技能。" />
+        <string name="h" value="暴击率：+#prop%，最小暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

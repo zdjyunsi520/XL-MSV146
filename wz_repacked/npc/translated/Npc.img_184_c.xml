@@ -1,0 +1,90 @@
+<imgdir name="Npc.img">
+    <imgdir name="40504">
+				<imgdir name="2">
+					<string name="0" value="他怎么能那样做？"/>
+					<string name="1" value="我-我不明白。"/>
+				</imgdir>
+    <imgdir name="40505">
+				<imgdir name="2">
+					<string name="0" value="卡修斯..."/>
+					<string name="1" value="对不起。"/>
+				</imgdir>
+    <imgdir name="40506">
+				<imgdir name="2">
+					<string name="0" value="我会弥补他的。我保证。"/>
+					<string name="1" value="寺庙似乎一天比一天大。"/>
+				</imgdir>
+    <imgdir name="2400008">
+		<string name="name" value="卡修斯"/>
+		<string name="n0" value="我们尽我们所能为超越者服务。"/>
+		<string name="n1" value="我能为你做些什么吗？"/>
+		<string name="d0" value="我们是时间的祭司。如果我们能帮到你，请告诉我们。"/>
+		<string name="d1" value="我们是时间的祭司。如果我们能帮到你，请告诉我们。"/>
+	</imgdir>
+    <imgdir name="2400009">
+		<string name="name" value="拉皮斯"/>
+		<string name="n0" value="我好无聊啊。"/>
+		<string name="n1" value="不知道新的超越者会是什么样子..."/>
+		<string name="d0" value="哟，我是拉皮斯。我为时间超越者工作，现在我可以用一块好的牛排了。"/>
+		<string name="d1" value="哟，我是拉皮斯。我为时间超越者工作，现在我可以用一块好的牛排了。"/>
+	</imgdir>
+    <imgdir name="2400010">
+		<string name="name" value="拉祖利"/>
+		<string name="n0" value="哼，我还要等多久？"/>
+		<string name="n1" value="新的超越者最好不要长得丑。"/>
+		<string name="d0" value="我是拉祖利。我是时间的遗物...是时候让我刺点什么了。"/>
+		<string name="d1" value="我是拉祖利。我是时间的遗物...是时候让我刺点什么了。"/>
+	</imgdir>
+    <imgdir name="2400011">
+		<string name="name" value="Zero"/>
+		<string name="d0" value="（女神之子将接任新的时间超越者。）"/>
+		<string name="d1" value="（女神之子将接任新的时间超越者。）"/>
+	</imgdir>
+    <imgdir name="2400012">
+		<string name="name" value="皮埃塔"/>
+		<string name="func" value="记录员"/>
+	</imgdir>
+    <imgdir name="2400013">
+		<string name="name" value="德洛"/>
+		<string name="func" value="训练"/>
+	</imgdir>
+    <imgdir name="2400014">
+		<string name="name" value="科拉斯"/>
+		<string name="func" value="仓库管理员"/>
+	</imgdir>
+    <imgdir name="2400015">
+		<string name="name" value="塞洛"/>
+		<string name="func" value="军需官"/>
+	</imgdir>
+    <imgdir name="2400016">
+		<string name="name" value="拉贡"/>
+		<string name="func" value="美容师"/>
+	</imgdir>
+    <imgdir name="2400017">
+		<string name="name" value="本尼迪克特"/>
+	</imgdir>
+    <imgdir name="2400018">
+		<string name="name" value="卡修斯"/>
+	</imgdir>
+    <imgdir name="2400019">
+		<string name="name" value="Zero"/>
+	</imgdir>
+    <imgdir name="2400020">
+		<string name="name" value="书架"/>
+	</imgdir>
+    <imgdir name="2400021">
+		<string name="name" value="浮石"/>
+	</imgdir>
+    <imgdir name="2400022">
+		<string name="name" value="奥科"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="我这里有各种各样的东西。随便看看。"/>
+		<string name="n1" value="我从一个城镇到另一个城镇旅行，卖东西。"/>
+	</imgdir>
+    <imgdir name="2400023">
+		<string name="name" value="地牢入口"/>
+	</imgdir>
+    <imgdir name="2400026">
+		<string name="name" value="时空之门入口"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430096">
+		<string name="name" value="龙王礼物盒"/>
+		<string name="desc" value="龙王赠送的特别礼物。盒子里很可能有贵重物品。"/>
+	</imgdir>
+    <imgdir name="2430097">
+		<string name="name" value="6周年宝图"/>
+		<string name="desc" value="枫叶管理员在怪物中散布的宝图之一，以庆祝6周年。如果你找到一张写有礼物名称的宝图，去找枫叶管理员。"/>
+	</imgdir>
+    <imgdir name="2430098">
+		<string name="name" value="10级平行装备盒子"/>
+		<string name="desc" value="装有10级装备的盒子，能帮助使用平行券创建的角色成长。"/>
+	</imgdir>
+    <imgdir name="2430099">
+		<string name="name" value="20级平行装备盒子"/>
+		<string name="desc" value="装有20级装备的盒子，能帮助使用平行券创建的角色成长。"/>
+	</imgdir>
+    <imgdir name="2430100">
+		<string name="name" value="30级平行装备盒子"/>
+		<string name="desc" value="装有30级装备的盒子，能帮助使用平行券创建的角色成长。"/>
+	</imgdir>
+    <imgdir name="2430101">
+		<string name="name" value="粉色熊热气球坐骑券"/>
+		<string name="desc" value="双击使用骑乘技能[粉色熊热气球]10天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430102">
+		<string name="name" value="变形机器人坐骑券"/>
+		<string name="desc" value="双击使用骑乘技能[变形机器人]10天，从今天开始。"/>
+	</imgdir>
+    <imgdir name="2430103">
+		<string name="name" value="小鸡(30日)"/>
+		<string name="desc" value="双击使用[小鸡]骑乘技能30天，从今天开始"/>
+	</imgdir>
+    <imgdir name="2430112">
+		<string name="name" value="奇迹立方碎片"/>
+		<string name="desc" value="奇迹立方的碎片。双击使用此道具。\n收集5个碎片可获得潜力卷轴，收集10个可获得高级潜力卷轴。"/>
+	</imgdir>
+    <imgdir name="2430115">
+		<string name="name" value="维度通行证"/>
+		<string name="desc" value="击败怪物获得的通行证。你必须持有通行证才能进入下一阶段。"/>
+	</imgdir>
+    <imgdir name="2430116">
+		<string name="name" value="加油胜利足球"/>
+		<string name="desc" value="为太极战士加油的足球。收集20个然后双击可以获得礼物或经验值。"/>
+	</imgdir>
+    <imgdir name="2430117">
+		<string name="name" value="狮子(1年)"/>
+		<string name="desc" value="双击使用[狮子]骑乘技能1年。"/>
+	</imgdir>
+    <imgdir name="2430118">
+		<string name="name" value="红色卡车(1年)"/>
+		<string name="desc" value="双击使用[红色卡车]骑乘技能1年。"/>
+	</imgdir>
+    <imgdir name="2430119">
+		<string name="name" value="石像鬼(1年)"/>
+		<string name="desc" value="双击使用[石像鬼]骑乘技能1年。"/>
+	</imgdir>
+    <imgdir name="2430120">
+		<string name="name" value="独角兽(1年)"/>
+		<string name="desc" value="双击使用[独角兽]骑乘技能1年，从今天开始"/>
+	</imgdir>
+    <imgdir name="2432504">
+		<string name="name" value="独角兽坐骑券"/>
+		<string name="desc" value="#c双击#获得永久的#c独角兽#坐骑。"/>
+	</imgdir>
+    <imgdir name="2430121">
+		<string name="name" value="定时炸弹"/>
+		<string name="desc" value="一个定时炸弹。双击后经过一定时间会爆炸。"/>
+	</imgdir>
+    <imgdir name="2430122">
+		<string name="name" value="猫头鹰贴纸"/>
+		<string name="desc" value="双击贴纸可以进入奖品活动。只有双刀可以赢得幸运NX/现实道具。"/>
+	</imgdir>
+    <imgdir name="2430123">
+		<string name="name" value="NPC召唤"/>
+		<string name="desc" value="召唤NPC的道具。"/>
+	</imgdir>
+    <imgdir name="2430124">
+		<string name="name" value="管理员测试"/>
+		<string name="desc" value="管理员测试道具"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="2101005">
+        <string name="name" value="Poison Breath" />
+        <string name="desc" value="Sends a poisonous droplet at an enemy, also striking enemies near the target. The enemies will take damage for a short time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="Sends a poisonous droplet at an enemy, also striking enemies near the target. The enemies will take damage for a short time." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

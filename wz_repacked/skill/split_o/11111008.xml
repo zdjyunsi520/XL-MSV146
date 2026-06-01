@@ -1,0 +1,7 @@
+<imgdir name="11111008">
+        <string name="name" value="Magic Crash" />
+        <string name="desc" value="Has a chance to cancel all enemy buffs and prevent them from casting new buffs. [Cooldown: 1 min]\Required Skill: #cRadiant Charge Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
+        <string name="pdesc" value="Has a chance to cancel all enemy buffs and prevent them from casting new buffs.\nRequired Skill: #cRadiant Charge Lv. 3#" />
+        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

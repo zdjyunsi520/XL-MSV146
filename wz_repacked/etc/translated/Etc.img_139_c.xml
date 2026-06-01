@@ -1,0 +1,84 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032716">
+			<string name="name" value="OSSS任务3：命令"/>
+			<string name="desc" value="完成OSSS任务3所需的命令"/>
+		</imgdir>
+    <imgdir name="4032717">
+			<string name="name" value="OSSS任务4：命令"/>
+			<string name="desc" value="完成OSSS任务4所需的命令"/>
+		</imgdir>
+    <imgdir name="4032718">
+			<string name="name" value="OSSS任务1：完成证书"/>
+			<string name="desc" value="确认你完成了OSSS任务1的证书"/>
+		</imgdir>
+    <imgdir name="4032719">
+			<string name="name" value="OSSS任务2：完成证书"/>
+			<string name="desc" value="确认你完成了OSSS任务2的证书"/>
+		</imgdir>
+    <imgdir name="4032720">
+			<string name="name" value="OSSS任务3：完成证书"/>
+			<string name="desc" value="确认你完成了OSSS任务3的证书"/>
+		</imgdir>
+    <imgdir name="4032721">
+			<string name="name" value="OSSS任务4：完成证书
+"/>
+			<string name="desc" value="确认你完成了OSSS任务4的证书"/>
+		</imgdir>
+    <imgdir name="4032722">
+			<string name="name" value="深海黑洞启动器"/>
+			<string name="desc" value="打开通往过去深海的黑洞"/>
+		</imgdir>
+    <imgdir name="4032723">
+			<string name="name" value="矿山黑洞启动器"/>
+			<string name="desc" value="打开通往过去矿山的黑洞"/>
+		</imgdir>
+    <imgdir name="4032724">
+			<string name="name" value="配送路线黑洞启动器"/>
+			<string name="desc" value="打开通往过去加工厂配送路线的黑洞"/>
+		</imgdir>
+    <imgdir name="4032725">
+			<string name="name" value="防线黑洞启动器"/>
+			<string name="desc" value="打开通往过去加工厂防线的黑洞"/>
+		</imgdir>
+    <imgdir name="4032726">
+			<string name="name" value="深海黑洞关闭器"/>
+			<string name="desc" value="关闭通往过去深海的黑洞"/>
+		</imgdir>
+    <imgdir name="4032727">
+			<string name="name" value="矿山黑洞关闭器"/>
+			<string name="desc" value="关闭通往过去矿山的黑洞"/>
+		</imgdir>
+    <imgdir name="4032728">
+			<string name="name" value="配送路线黑洞关闭器"/>
+			<string name="desc" value="关闭通往过去加工厂配送路线的黑洞"/>
+		</imgdir>
+    <imgdir name="4032729">
+			<string name="name" value="防线黑洞关闭器"/>
+			<string name="desc" value="关闭通往过去加工厂防线的黑洞"/>
+		</imgdir>
+    <imgdir name="4032730">
+			<string name="name" value="立方体转换装置"/>
+			<string name="desc" value="允许你从母舰进入未来冰医生房间的入口装置"/>
+		</imgdir>
+    <imgdir name="4032734">
+			<string name="name" value="丢失的蛋"/>
+			<string name="desc" value="内米丢失的蛋。你可以用它做美味的东西"/>
+		</imgdir>
+    <imgdir name="4032735">
+			<string name="name" value="OSSS计时器（0分钟）"/>
+			<string name="desc" value="OSSS给你的计时器。当放置1小时后变成60分钟计时器。
+#c如果你登出就消失。#"/>
+		</imgdir>
+    <imgdir name="4032736">
+			<string name="name" value="OSSS计时器（60分钟）"/>
+			<string name="desc" value="OSSS给你的计时器。显示60分钟。把它交给冒险岛管理员"/>
+		</imgdir>
+    <imgdir name="4032737">
+			<string name="name" value="黑翼报告"/>
+			<string name="desc" value="黑翼成员席勒写的报告。它有关于他在其他地区做的事情的信息"/>
+		</imgdir>
+    <imgdir name="4032738">
+			<string name="name" value="黑翼报告"/>
+			<string name="desc" value="黑翼成员席勒写的报告。它有关于他在其他地区做的事情的信息"/>
+		</imgdir>
+</imgdir>

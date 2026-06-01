@@ -1,0 +1,5 @@
+<imgdir name="80001213">
+        <string name="name" value="The One and Only" />
+        <string name="desc" value="Ani&apos;s got tunnel vision. When summoned by a soul weapon, Ani deals a large amount of damage to a single target." />
+        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\nCooldown: #cooltime sec" />
+    </imgdir>

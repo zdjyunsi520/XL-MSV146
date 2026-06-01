@@ -1,0 +1,5 @@
+<imgdir name="32120013">
+        <string name="name" value="Advanced Dark Aura" />
+        <string name="desc" value="Permanently increases Magic ATT and upgrades the function of Dark Aura. Also gives dot damage to the object of your attack at a set chance.\nRequired Skill: #cDark Aura Lv.20 and above#" />
+        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: +#x% with Dark Aura, Chance: #prop%, Duration: #dotTime sec. DoT damage every #dotInterval sec. DoT Damage: #dot%. Can stack up to #dotSuperpos times.\nPassive Effect: permanently increases Magic ATT #madX" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="112111003">
+        <string name="name" value="Formation Attack" />
+        <string name="desc" value="Baby hawks attack in formation. Can be directed left or right. Can&apos;t be used while #cairborne#." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: 1" />
+    </imgdir>

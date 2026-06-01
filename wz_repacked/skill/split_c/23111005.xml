@@ -1,0 +1,7 @@
+<imgdir name="23111005">
+        <string name="name" value="水之盾" />
+        <string name="desc" value="借助精灵的力量，在你周围升起一道水之屏障，持续一定时间。屏障能吸收你受到的部分伤害，并提升对异常状态和所有属性攻击的抗性。" />
+        <string name="h" value="MP消耗：#mpCon，吸收#x%的伤害，持续#time秒，提升异常状态抗性和所有属性抗性#terR%。" />
+        <string name="pdesc" value="借助精灵的力量，在你周围升起一道水之屏障，持续一定时间。屏障能吸收你受到的部分伤害，并提升对异常状态和所有属性攻击的抗性。" />
+        <string name="ph" value="MP消耗：#mpCon，吸收#x%的伤害，持续#time秒，提升异常状态抗性和所有属性抗性#terR%。" />
+    </imgdir>

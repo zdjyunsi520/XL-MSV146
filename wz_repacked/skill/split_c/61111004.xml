@@ -1,0 +1,5 @@
+<imgdir name="61111004">
+        <string name="name" value="催化" />
+        <string name="desc" value="以龙之水晶为催化剂，将伤害最大化。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: +#indieDamR%, 持续时间: #time秒" />
+    </imgdir>

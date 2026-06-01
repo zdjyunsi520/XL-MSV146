@@ -1,0 +1,5 @@
+<imgdir name="110000012">
+        <string name="name" value="Blessing of the Fairy" />
+        <string name="desc" value="Grants 1 skill level for every 10 levels your highest level character has. Blessing of the Fairy and Empress&apos;s Blessing do not stack, so only the stronger skill will be active." />
+        <string name="h" value="Weapon ATT: +#x, Magic ATT: +#y, Accuracy, Avoidability: +#z" />
+    </imgdir>

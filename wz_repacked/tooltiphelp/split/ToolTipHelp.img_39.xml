@@ -1,0 +1,65 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Korean Folk Town"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Black Mountain"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Black Mountain"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Weapon / Armor Shop"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Helios Tower &lt;Library&gt;"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Entrance to Black Mountain"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Free Market Entrance"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="222010300">
+			<imgdir name="0">
+				<string name="Title" value="Top of Black Mountain"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Tiger Ridge"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Tower"/>
+				<string name="Desc" value="All those that pass Fox Valley should throw Samiho's tail from the top of the tower to pay off it's scores"/>
+			</imgdir>
+    <imgdir name="261000000">
+			<imgdir name="0">
+				<string name="Title" value="Sahel"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Alcadno Society - General Store"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Zenumist Society - Weapon &amp; Armor Shop"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Magatia Bank"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Stan's Workroom"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Weapon &amp; Armor Shop"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Zenumist Society"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Alcadno Society"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="23001002">
+        <string name="name" value="Glide Blast" />
+        <string name="desc" value="Move forward during a jump by tumbling. Movement distance increases as the skill level increases." />
+        <string name="h" value="MP Cost: #mpCon, jumps a certain distance" />
+        <string name="pdesc" value="Move forward during a jump by tumbling. Movement distance increases as the skill level increases." />
+        <string name="ph" value="MP Cost: #mpCon, jumps a certain distance" />
+    </imgdir>

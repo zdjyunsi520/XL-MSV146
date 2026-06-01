@@ -1,0 +1,8 @@
+<imgdir name="21110006">
+        <string name="name" value="Rolling Spin" />
+        <string name="desc" value="Jump in place and attack surrounding enemies. Has a chance to stun targets.\n[Command: #c Up and Up Arrow Key + ATT Key#]" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x#attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="Jump in place and attack surrounding enemies. Has a chance to stun targets.\n[Command: #cUp and Up Arrow Key + ATT Key#]" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% x#attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
+    </imgdir>

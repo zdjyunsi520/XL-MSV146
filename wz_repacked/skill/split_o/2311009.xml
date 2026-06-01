@@ -1,0 +1,8 @@
+<imgdir name="2311009">
+        <string name="name" value="Holy Magic Shell" />
+        <string name="desc" value="Fully restores an ally&apos;s HP and grants them a holy shield which will absorb up to 10 hits. The shield can last up to 20 seconds, and when it&apos;s activated once, it will not be reactivated for a short time even if a different character uses Holy Magic Shell." />
+        <string name="h" value="MP Cost: #mpCon, HP Recovery: #z%, Duration: #time sec, Max Number of Attacks Absorbed: #x, Time to Next Shield Available: #y sec, Cooldown: 90 sec" />
+        <string name="pdesc" value="For a set duration, the holy shield will absorb all damage up to 5 times. The shield can be maintained up to 20 seconds, and when it&apos;s activated once, it will not be reactivated for a set duration even when a different character uses Holy Magic Shell.\n[Cooldown: 60 sec]" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Max Number of Attacks Absorbed: #x, Time to Next Shield Available: #y sec" />
+        <string name="hch" value="MP Cost: #mpCon, HP Recovered: #hcHp%, Duration: #time sec, Max Number of Attacks Absorbed: #x, Time until Next Shield: #y sec" />
+    </imgdir>

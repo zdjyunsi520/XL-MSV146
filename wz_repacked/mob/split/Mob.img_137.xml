@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9990062">
+		<string name="name" value="Lv. 10 Weapon"/>
+	</imgdir>
+    <imgdir name="9990063">
+		<string name="name" value="Lv. 20 Weapon"/>
+	</imgdir>
+    <imgdir name="9990064">
+		<string name="name" value="Lv. 30 Weapon"/>
+	</imgdir>
+    <imgdir name="9990065">
+		<string name="name" value="Lv. 40 Weapon"/>
+	</imgdir>
+    <imgdir name="9990066">
+		<string name="name" value="Lv. 50 Weapon"/>
+	</imgdir>
+    <imgdir name="9990067">
+		<string name="name" value="Lv. 60 Weapon"/>
+	</imgdir>
+    <imgdir name="9990068">
+		<string name="name" value="Lv. 70 Weapon"/>
+	</imgdir>
+    <imgdir name="9990069">
+		<string name="name" value="Lv. 80 Weapon"/>
+	</imgdir>
+    <imgdir name="9990070">
+		<string name="name" value="Lv. 90 Weapon"/>
+	</imgdir>
+    <imgdir name="9990071">
+		<string name="name" value="Lv. 100 Weapon"/>
+	</imgdir>
+    <imgdir name="9990072">
+		<string name="name" value="Lv. 110 Weapon"/>
+	</imgdir>
+    <imgdir name="9990073">
+		<string name="name" value="Lv. 10 Armor"/>
+	</imgdir>
+    <imgdir name="9990074">
+		<string name="name" value="Lv. 20 Armor"/>
+	</imgdir>
+    <imgdir name="9990075">
+		<string name="name" value="Lv. 30 Armor"/>
+	</imgdir>
+    <imgdir name="9990076">
+		<string name="name" value="Lv. 40 Armor"/>
+	</imgdir>
+    <imgdir name="9990077">
+		<string name="name" value="Lv. 50 Armor"/>
+	</imgdir>
+    <imgdir name="9990078">
+		<string name="name" value="Lv. 60 Armor"/>
+	</imgdir>
+    <imgdir name="9990079">
+		<string name="name" value="Lv. 70 Armor"/>
+	</imgdir>
+    <imgdir name="9990080">
+		<string name="name" value="Lv. 80 Armor"/>
+	</imgdir>
+    <imgdir name="9990081">
+		<string name="name" value="Lv. 90 Armor"/>
+	</imgdir>
+</imgdir>

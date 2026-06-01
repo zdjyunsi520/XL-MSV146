@@ -1,0 +1,7 @@
+<imgdir name="5801007">
+        <string name="name" value="橡木桶" />
+        <string name="desc" value="伪装成橡木桶，安全穿越怪物而不被发现。有小概率会被识破哦。趴下时效果更好。" />
+        <string name="h" value="MP Cost: #mpCon, Oak Barrel Duration: #time sec , #prop% chance to get caught, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="伪装成橡木桶。伪装时无法攻击也不会被攻击。" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Cooldown: #cooltime sec" />
+    </imgdir>

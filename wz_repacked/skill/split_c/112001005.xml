@@ -1,0 +1,5 @@
+<imgdir name="112001005">
+        <string name="name" value="超级深呼吸" />
+        <string name="desc" value="熊用力吸气从左右两侧将敌人拉近。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+    </imgdir>

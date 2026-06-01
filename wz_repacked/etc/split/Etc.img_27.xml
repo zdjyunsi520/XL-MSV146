@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000586">
+			<string name="name" value="Tae Roon's Tail"/>
+			<string name="desc" value="Tail of Tae Roon, the notoriously dangerous fighter at Mu Lung. Some use it to make medicine."/>
+		</imgdir>
+    <imgdir name="4000587">
+			<string name="name" value="Gachapon Stamp 2"/>
+			<string name="desc" value="Can be traded for an awesome gift based on the number of stamps collected."/>
+		</imgdir>
+    <imgdir name="4000588">
+			<string name="name" value="Straw Training Doll Remnant"/>
+			<string name="desc" value="A doll made out of straw."/>
+		</imgdir>
+    <imgdir name="4000589">
+			<string name="name" value="Wooden Training Doll Remnant"/>
+			<string name="desc" value="A doll that was carved from wood."/>
+		</imgdir>
+    <imgdir name="4000590">
+			<string name="name" value="Training Jar Fragment"/>
+			<string name="desc" value="A fragment from a broken Training Jar."/>
+		</imgdir>
+    <imgdir name="4000591">
+			<string name="name" value="Healthy Bellflower"/>
+			<string name="desc" value="A rare Bellflower that is good for health."/>
+		</imgdir>
+    <imgdir name="4000592">
+			<string name="name" value="Kenta's Freezer Leather"/>
+			<string name="desc" value="A seal's leather that has been processed from Freezer's leather."/>
+		</imgdir>
+    <imgdir name="4000593">
+			<string name="name" value="Decaying Zombie Molar"/>
+			<string name="desc" value="A Decaying Zombie's molar. It has been severely rotted, and seems very fragile."/>
+		</imgdir>
+    <imgdir name="4000594">
+			<string name="name" value="Secret Master Soul Teddy Ghost"/>
+			<string name="desc" value="A spirit that is attached to the back of the Secret Master Soul Teddy. The free spirit looks very happy."/>
+		</imgdir>
+    <imgdir name="4000595">
+			<string name="name" value="Sprout"/>
+			<string name="desc" value="A sprout that fell out of a pot."/>
+		</imgdir>
+    <imgdir name="4000596">
+			<string name="name" value="Morning Glory"/>
+			<string name="desc" value="A Morning Glory that fell out of a pot."/>
+		</imgdir>
+    <imgdir name="4000597">
+			<string name="name" value="Cork Stopper"/>
+			<string name="desc" value="A cork stopper from a bottle of grape juice."/>
+		</imgdir>
+    <imgdir name="4000598">
+			<string name="name" value="Patrol Robot Memory Chip"/>
+			<string name="desc" value="The Patrol Robot's memory chip. Various video clips are recorded on it."/>
+		</imgdir>
+    <imgdir name="4000599">
+			<string name="name" value="Wooden Board"/>
+			<string name="desc" value="A wooden board from the Strange Sign."/>
+		</imgdir>
+    <imgdir name="4000600">
+			<string name="name" value="Serpent Tail"/>
+			<string name="desc" value="A serpent's chubby tail."/>
+		</imgdir>
+    <imgdir name="4000601">
+			<string name="name" value="Water Thief's Bottle"/>
+			<string name="desc" value="The water bottle carried around by the Water Thief."/>
+		</imgdir>
+    <imgdir name="4000602">
+			<string name="name" value="Dust Ball"/>
+			<string name="desc" value="A dust ball that came out of a Dust Box."/>
+		</imgdir>
+    <imgdir name="4000603">
+			<string name="name" value="Streetlight Bulb"/>
+			<string name="desc" value="A bulb from a streetlight."/>
+		</imgdir>
+    <imgdir name="4000604">
+			<string name="name" value="Patrol Robot S Memory Chip"/>
+			<string name="desc" value="The Patrol Robot S's memory chip. Various voice recordings are on it."/>
+		</imgdir>
+    <imgdir name="4000605">
+			<string name="name" value="Safety First Sign"/>
+			<string name="desc" value="A sign carried by Safety First."/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2381038">
+		<string name="name" value="Fire Sentinel Card"/>
+		<string name="desc" value="A card that features Fire Sentinel."/>
+	</imgdir>
+    <imgdir name="2381039">
+		<string name="name" value="Crow Card"/>
+		<string name="desc" value="A card that features Crow."/>
+	</imgdir>
+    <imgdir name="2381040">
+		<string name="name" value="Fire Raccoon Card"/>
+		<string name="desc" value="A card that features Fire Raccoon."/>
+	</imgdir>
+    <imgdir name="2381041">
+		<string name="name" value="Cloud Fox Card"/>
+		<string name="desc" value="A card that features Cloud Fox."/>
+	</imgdir>
+    <imgdir name="2381042">
+		<string name="name" value="Genin Card"/>
+		<string name="desc" value="A card that features Genin."/>
+	</imgdir>
+    <imgdir name="2381043">
+		<string name="name" value="Ashigaru Card"/>
+		<string name="desc" value="A card featuring Ashigaru."/>
+	</imgdir>
+    <imgdir name="2381082">
+		<string name="name" value="Smiling Ghost Stump Card"/>
+		<string name="desc" value="A card featuring the Smiling Ghost Stump."/>
+	</imgdir>
+    <imgdir name="2381083">
+		<string name="name" value="Annoyed Zombie Mushroom Card"/>
+		<string name="desc" value="A card featuring the Annoyed Zombie Mushroom."/>
+	</imgdir>
+    <imgdir name="2381084">
+		<string name="name" value="Crying Blue Mushroom Card "/>
+		<string name="desc" value="A card featuring the Crying Blue Mushroom."/>
+	</imgdir>
+    <imgdir name="2381085">
+		<string name="name" value="Terrified Wild Boar Card"/>
+		<string name="desc" value="A card featuring the Terrified Wild Boar."/>
+	</imgdir>
+    <imgdir name="2381086">
+		<string name="name" value="Strange Sign Card"/>
+		<string name="desc" value="A card that features Strange Sign."/>
+	</imgdir>
+    <imgdir name="2381087">
+		<string name="name" value="Serpent Card"/>
+		<string name="desc" value="A card that features Serpent."/>
+	</imgdir>
+    <imgdir name="2381088">
+		<string name="name" value="Curse Eye Card"/>
+		<string name="desc" value="A card that features Curse Eye."/>
+	</imgdir>
+    <imgdir name="2381089">
+		<string name="name" value="Stone Golem Card"/>
+		<string name="desc" value="A card that features Stone Golem."/>
+	</imgdir>
+    <imgdir name="2381090">
+		<string name="name" value="Water Thief Monster Card"/>
+		<string name="desc" value="A card that features Water Thief Monster."/>
+	</imgdir>
+    <imgdir name="2381092">
+		<string name="name" value="Ligator Card"/>
+		<string name="desc" value="A card that features Ligator."/>
+	</imgdir>
+    <imgdir name="2381093">
+		<string name="name" value="Cold Eye Card"/>
+		<string name="desc" value="A card that features Cold Eye."/>
+	</imgdir>
+    <imgdir name="2381094">
+		<string name="name" value="Iron Hog Card"/>
+		<string name="desc" value="A card that features Iron Hog."/>
+	</imgdir>
+    <imgdir name="2381095">
+		<string name="name" value="Dust Box Card"/>
+		<string name="desc" value="A card that features Dust Box."/>
+	</imgdir>
+    <imgdir name="2381096">
+		<string name="name" value="Dark Stone Golem Card"/>
+		<string name="desc" value="A card that features Dark Stone Golem."/>
+	</imgdir>
+</imgdir>

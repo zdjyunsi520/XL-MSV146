@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022041">
+		<string name="name" value="Fried shrimp"/>
+		<string name="desc" value="Recovers 500 of HP and MP."/>
+	</imgdir>
+    <imgdir name="2022042">
+		<string name="name" value="Cookie"/>
+		<string name="desc" value="Crispy on the outside, marshmellow-soft on the inside, this cookie can be traced from afar by its sweet smell.\nWeapon &amp; Magic Attack +20 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022043">
+		<string name="name" value="Fruity Candy"/>
+		<string name="desc" value="Multi-colored, fruity-flavored candies.\nSpeed +10 for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2022044">
+		<string name="name" value="New Year Rice Cake"/>
+		<string name="desc" value="Attack +20 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022045">
+		<string name="name" value="New Year Lunchbox"/>
+		<string name="desc" value="Recovers 2000 HP &amp; MP"/>
+	</imgdir>
+    <imgdir name="2022046">
+		<string name="name" value="Seaweed"/>
+		<null name="desc"/>
+	</imgdir>
+    <imgdir name="2022047">
+		<string name="name" value="Cooked Sea Bream"/>
+		<string name="desc" value="Magic Attack +35 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022048">
+		<string name="name" value="New Year Rice Soup"/>
+		<string name="desc" value="Accuracy +30 for 5 min."/>
+	</imgdir>
+    <imgdir name="2022049">
+		<string name="name" value="Steamed Crab"/>
+		<string name="desc" value="Weapon DEF +100 for 5 min."/>
+	</imgdir>
+    <imgdir name="2022050">
+		<string name="name" value="Roasted pork"/>
+		<string name="desc" value="A piece of roasted pork that is favorite of Yellow King Goblin. Marinated just right, and it even looks delicious enough for one to salivate over it. Recovers 800 HP."/>
+	</imgdir>
+    <imgdir name="2022051">
+		<string name="name" value="Buckwheat paste"/>
+		<string name="desc" value="A buckwheat paste that is the favorite of Green King Goblin. Bouncy like jelly, yet very nutritious. Recovers 800 MP."/>
+	</imgdir>
+    <imgdir name="2022052">
+		<string name="name" value="Rice Wine"/>
+		<string name="desc" value="A cup of wine made out of fermented rice that is the favorite of Blue King Goblin. An aroma of a combination of vinegar-like spike and smoothness of a tea tickles the nose of those near it. Recovers 400 each of HP and MP."/>
+	</imgdir>
+    <imgdir name="2022053">
+		<string name="name" value="Jujube"/>
+		<string name="desc" value="A ripe, red jujube.\nRecovers 30 HP."/>
+	</imgdir>
+    <imgdir name="2022054">
+		<string name="name" value="Pear"/>
+		<string name="desc" value="A big, juicy-looking pear.\nRecovers 30 HP."/>
+	</imgdir>
+    <imgdir name="2022055">
+		<string name="name" value="Persimmon"/>
+		<string name="desc" value="A ripe, orangy Persimmon.\nRecovers 30 HP."/>
+	</imgdir>
+    <imgdir name="2022056">
+		<string name="name" value="Chestnut"/>
+		<string name="desc" value="A ripe, brown chestnut just picked out of a tree.\nRecovers 30 HP."/>
+	</imgdir>
+    <imgdir name="2022057">
+		<string name="name" value="Tofu"/>
+		<string name="desc" value="Made out of soy beans, it is one healthy food recommended for everyone.\nRecovers 50 HP."/>
+	</imgdir>
+    <imgdir name="2022058">
+		<string name="name" value="Dumpling"/>
+		<string name="desc" value="A mixture of pork and vegetable wrapped up in a thin layer of wheat.\nRecovers 1500 HP."/>
+	</imgdir>
+    <imgdir name="2022060">
+		<string name="name" value="Lotus Perfume"/>
+		<string name="desc" value="Perfume with an invigorating aroma.\nWeapon ATT +10, Magic ATT +10, and Weapon DEF +100 for 20 min."/>
+	</imgdir>
+    <imgdir name="2022061">
+		<string name="name" value="Oriental Perfume"/>
+		<string name="desc" value="Perfume with an invigorating aroma.\nWeapon ATT 15, Magic ATT +10, and Weapon DEF 150 for 20 min."/>
+	</imgdir>
+</imgdir>

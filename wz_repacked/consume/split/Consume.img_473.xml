@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2044329">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Spears."/>
+		<string name="name" value="Miracle Scroll for Spear for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044429">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Polearms."/>
+		<string name="name" value="Miracle Scroll for Polearm for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044520">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Bows."/>
+		<string name="name" value="Miracle Scroll for Bow for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044620">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Crossbows."/>
+		<string name="name" value="Miracle Scroll for Crossbow for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044720">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Claws."/>
+		<string name="name" value="Miracle Scroll for Claw for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044829">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Knuckles."/>
+		<string name="name" value="Miracle Scroll for Knuckle for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2044920">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Guns."/>
+		<string name="name" value="Miracle Scroll for Gun for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2045215">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Dual Bowguns."/>
+		<string name="name" value="Miracle Scroll for Dual Bow Gun for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2045315">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon Attack on Hand Cannons."/>
+		<string name="name" value="Miracle Scroll for Hand Cannon for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2042108">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nMagic Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Magic Attack on Shining Rods."/>
+		<string name="name" value="Miracle Scroll for M Attack 50%"/>
+	</imgdir>
+    <imgdir name="2042208">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Soul Shooters."/>
+		<string name="name" value="Miracle Scroll for Soul Shooter for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2042308">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Desperados."/>
+		<string name="name" value="Miracle Scroll for Desperado Weapon ATT 50%"/>
+	</imgdir>
+    <imgdir name="2042408">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nAll Stats: +3\r\nWeapon Attack: +2 to +5\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="name" value="Miracle Scroll for Whip Blade for Weapon ATT 50%"/>
+	</imgdir>
+    <imgdir name="2040872">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon ATT: +2 to +3\r\n"/>
+		<string name="desc" value="Improves Attack on gloves."/>
+		<string name="name" value="Miracle Scroll for Gloves for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2040873">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic ATT: +2 to +3\r\n"/>
+		<string name="desc" value="Improves Magic Attack on gloves."/>
+		<string name="name" value="Miracle Scroll for Gloves for M ATT 50%"/>
+	</imgdir>
+    <imgdir name="2047939">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon ATT: +2 to +3\r\n"/>
+		<string name="desc" value="Improves Weapon Attack on armor."/>
+		<string name="name" value="Miracle Scroll for Armor for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2047940">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic ATT: +2 to +3\r\n"/>
+		<string name="desc" value="Improves Magic Attack on armor."/>
+		<string name="name" value="Miracle Scroll for Armor for M ATT 50%"/>
+	</imgdir>
+    <imgdir name="2047941">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +5\r\nMagic Attack: +5\r\n#"/>
+		<string name="desc" value="Improves Weapon ATT and Magic ATT on armor."/>
+		<string name="name" value="Scroll for Armor for ATT 70%"/>
+	</imgdir>
+    <imgdir name="2046864">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nWeapon ATT: +1 to +4\r\n"/>
+		<string name="desc" value="Improves Weapon Attack on accessories."/>
+		<string name="name" value="Miracle Scroll for Accessory for ATT 50%"/>
+	</imgdir>
+    <imgdir name="2046865">
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nMagic ATT: +1 to +4\r\n"/>
+		<string name="desc" value="Improves Magic Attack on accessories."/>
+		<string name="name" value="Miracle Scroll for Accessory for M ATT 50%"/>
+	</imgdir>
+</imgdir>

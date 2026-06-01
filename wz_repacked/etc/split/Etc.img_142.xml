@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4032784">
+			<string name="name" value="Energy Cartridge"/>
+			<string name="desc" value="An energy cartridge received from Android Zechtok-2000. Take it to Dolcetta-2000."/>
+		</imgdir>
+    <imgdir name="4032791">
+			<string name="name" value="Diver Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the Mainboard collection mission."/>
+		</imgdir>
+    <imgdir name="4032792">
+			<string name="name" value="Vegetable Oil Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the Vegetable Oil collection mission."/>
+		</imgdir>
+    <imgdir name="4032793">
+			<string name="name" value="Mine Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the Fossil Mineral collection mission."/>
+		</imgdir>
+    <imgdir name="4032794">
+			<string name="name" value="Carnivorous Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the Animal Gas collection mission."/>
+		</imgdir>
+    <imgdir name="4032795">
+			<string name="name" value="Delivery Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the processing material delivery mission."/>
+		</imgdir>
+    <imgdir name="4032796">
+			<string name="name" value="Defense Mission Completion Certificate"/>
+			<string name="desc" value="A certificate that confirms you've completed the Processing Plant defense mission."/>
+		</imgdir>
+    <imgdir name="4032797">
+			<string name="name" value="Robot Manual"/>
+			<string name="desc" value="A machine that has a robot's blueprint drawn on it. You cannot view it if you do not know how to activate it."/>
+		</imgdir>
+    <imgdir name="4032798">
+			<string name="name" value="Robot Manual"/>
+			<string name="desc" value="A machine that has a robot's blueprint drawn on it. You cannot view it if you do not know how to activate it."/>
+		</imgdir>
+    <imgdir name="4032799">
+			<string name="name" value="Robot Manual"/>
+			<string name="desc" value="A machine that has a robot's blueprint drawn on it. You cannot view it if you do not know how to activate it."/>
+		</imgdir>
+    <imgdir name="4032801">
+			<string name="name" value="Fairy Research Report"/>
+			<string name="desc" value="A fairy research report written by Betty. It is written with complex wording, and you cannot understand it."/>
+		</imgdir>
+    <imgdir name="4032802">
+			<string name="name" value="Orange Brick"/>
+			<string name="desc" value="An orange brick made by JM from Mud Clumps. Take it to the Dark Lord."/>
+		</imgdir>
+    <imgdir name="4032803">
+			<string name="name" value="Gold Richie's Box"/>
+			<string name="desc" value="Gold Richie's delivery box that has a diamond Emblem engraved on it, and is wrapped with golden tape. The insides are unknown, since it is so tightly sealed.\n#Disappears if you log out.#"/>
+		</imgdir>
+    <imgdir name="4032804">
+			<string name="name" value="Megran's Pomegranate Seed"/>
+			<string name="desc" value="A red fruit from Megran. Unlike its sweet appearance, it is very bitter and is used as a rare medicine ingredient."/>
+		</imgdir>
+    <imgdir name="4032805">
+			<string name="name" value="Stumpy's Old Ribbon"/>
+			<string name="desc" value="A red ribbon worn by Stumpy. It is old and worn out."/>
+		</imgdir>
+    <imgdir name="4032806">
+			<string name="name" value="Dyle Skin"/>
+			<string name="desc" value="A green alligator leather from Dyle. Unlike other alligator leather, it is very big."/>
+		</imgdir>
+    <imgdir name="4032807">
+			<string name="name" value="Faust's Tail"/>
+			<string name="desc" value="A long black tail from Faust."/>
+		</imgdir>
+    <imgdir name="4032808">
+			<string name="name" value="Giant King Clang Claw"/>
+			<string name="desc" value="A claw from King Clang. It is sharp and bumpy."/>
+		</imgdir>
+    <imgdir name="4032809">
+			<string name="name" value="Nine-Tailed Fox Necklace"/>
+			<string name="desc" value="A necklace from the Nine-Tailed Fox. It is decorated with a very fine jade."/>
+		</imgdir>
+    <imgdir name="4032810">
+			<string name="name" value="Zeno's Gloves"/>
+			<string name="desc" value="Gloves that were worn by Zeno. They're made from unknown material that is very light, yet strong."/>
+		</imgdir>
+</imgdir>

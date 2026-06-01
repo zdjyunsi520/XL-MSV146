@@ -1,0 +1,7 @@
+<imgdir name="5721004">
+        <string name="name" value="Starfall" />
+        <string name="desc" value="Order your spaceship to attack multiple enemies at once." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount \nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Order your spaceship to attack multiple enemies at once." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount \nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="27120037"><string name="name" value="Hyper Mana"/><string name="desc" value="Permanently increases Max MP."/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="27120038"><string name="name" value="Hyper Fury"/><string name="desc" value="Permanently increases Max DF."/><string name="h" value="Max DF +50"/></imgdir>
+    <imgdir name="27120039"><string name="name" value="Hyper Weapon Defense"/><string name="desc" value="Permanently increases Weapon DEF."/><string name="h" value="Weapon DEF +#pddX"/></imgdir>
+    <imgdir name="27120040"><string name="name" value="Hyper Magic Defense"/><string name="desc" value="Permanently increases Magic DEF."/><string name="h" value="Magic DEF +#mddX"/></imgdir>
+    <imgdir name="27120041"><string name="name" value="Hyper Speed"/><string name="desc" value="Permanently increases Movement Speed."/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="27120042"><string name="name" value="Hyper Jump"/><string name="desc" value="Permanently increases Jump."/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="27120043"><string name="name" value="Reflection - Reinforce"/><string name="desc" value="Increases Reflection&apos;s damage."/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="27120044"><string name="name" value="Reflection - Spread"/><string name="desc" value="When Reflection spreads, damage no longer gets reduced."/><string name="h" value="Increases split damage reduction rate to 0%."/></imgdir>
+    <imgdir name="27120045"><string name="name" value="Reflection - Range Up"/><string name="desc" value="Increases Reflection&apos;s range."/><string name="h" value="Range +50"/></imgdir>
+    <imgdir name="27120046"><string name="name" value="Apocalypse - Reinforce"/><string name="desc" value="Increases Apocalypse&apos;s damage."/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="27120047"><string name="name" value="Apocalypse - Recharge"/><string name="desc" value="Increase the gauge increase amount from Apocalypse."/><string name="h" value="Increases gauge fill amount"/></imgdir>
+    <imgdir name="27120048"><string name="name" value="Apocalypse - Extra Target"/><string name="desc" value="Increases the number of monsters that Apocalypse hits."/><string name="h" value="Max Enemies Hit +#targetPlus"/></imgdir>
+    <imgdir name="27120049"><string name="name" value="Ender - Reinforce"/><string name="desc" value="Increases Ender&apos;s damage."/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="27120050"><string name="name" value="Ender - Extra Target"/><string name="desc" value="Increases the number of monsters that Ender hits."/><string name="h" value="Max Enemies Hit +#targetPlus"/></imgdir>
+    <imgdir name="27120051"><string name="name" value="Ender - Range Up"/><string name="desc" value="Increases Ender&apos;s range."/><string name="h" value="Range 40"/></imgdir>
+    <imgdir name="27121052"><string name="name" value="Armageddon"/><string name="desc" value="Uses the Black Mage&apos;s power to render all enemies immobile and deal damage."/><string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Immobile Duration: #time sec.\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="27121053"><string name="name" value="Heroic Memories"/><string name="desc" value="Recalls the oath of the Maple Heroes to increase damage and max damage cap."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to hero classes within the party"/></imgdir>
+    <imgdir name="27121054"><string name="name" value="Equalize"/><string name="desc" value="Puts you in Equilibrium mode immediately upon use."/><string name="h" value="MP Cost: #mpCon, Equilibrium status begins.\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="80000002"><string name="name" value="Phantom Instinct"/><string name="desc" value="Uses phenomenal insight to locate an enemy&apos;s critical weakness."/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="80000005"><string name="name" value="Light Wash"/><string name="desc" value="The power of light breaks down enemy DEF, allowing your attacks to penetrate."/><string name="h" value="#ignoreMobpdpR% of enemy DEF ignored"/></imgdir>
+</imgdir>

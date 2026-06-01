@@ -1,0 +1,125 @@
+<imgdir name="Npc.img">
+    <imgdir name="2420035">
+		<string name="name" value="Aldin"/>
+	</imgdir>
+    <imgdir name="2420036">
+		<string name="name" value="SagaT"/>
+	</imgdir>
+    <imgdir name="2420037">
+		<string name="name" value="Shati"/>
+	</imgdir>
+    <imgdir name="2420038">
+		<string name="name" value="Slyn"/>
+	</imgdir>
+    <imgdir name="2420039">
+		<string name="name" value="Gold Richie"/>
+	</imgdir>
+    <imgdir name="2420040">
+		<string name="name" value="Shah Mar"/>
+		<string name="func" value="Prime Minister"/>
+	</imgdir>
+    <imgdir name="2420041">
+		<string name="name" value="Secret Gate"/>
+	</imgdir>
+    <imgdir name="2430000">
+		<string name="name" value="Larelle"/>
+		<string name="func" value="Goddess Teardrop"/>
+		<string name="d0" value="(This blue-haired boy is radiating the power of time. He must be the Goddess Teardrop.)"/>
+		<string name="d1" value="(This blue-haired boy is emanating subtle energy, but there's no mistake that it's the power of time. He's the Goddess Teardrop.)"/>
+		<string name="n0" value="I'm ...okay."/>
+		<string name="n1" value="I hope Maya is safe."/>
+	</imgdir>
+    <imgdir name="2430001">
+		<string name="name" value="Chief Stan"/>
+		<string name="d0" value="We have to protect our village."/>
+		<string name="d1" value="We have to protect our village."/>
+	</imgdir>
+    <imgdir name="2430002">
+		<string name="name" value="Rina"/>
+		<string name="d0" value="I'm worried about Maya. Those wounds were pretty bad..."/>
+		<string name="d1" value="I'm worried about Maya. Those wounds were pretty bad..."/>
+	</imgdir>
+    <imgdir name="2430003">
+		<string name="name" value="Evan"/>
+		<string name="d0" value="I don't think I'm meant to herd pigs. I feel like there's more out there for me..."/>
+		<string name="d1" value="I don't think I'm meant to herd pigs. I feel like there's more out there for me..."/>
+		<string name="n0" value="I think I had a bad dream last night."/>
+		<string name="n1" value="I wonder what my brother is doing."/>
+	</imgdir>
+    <imgdir name="2430004">
+		<string name="name" value="Mark"/>
+		<string name="func" value="Security Guard"/>
+		<string name="d0" value="I may look like I'm dozing, but that's just because of my helm. I never close my eyes and dream of a bed made of cotton candy..."/>
+		<string name="d1" value="I may look like I'm dozing, but that's just because of my helm. I never close my eyes and dream of a bed made of cotton candy..."/>
+	</imgdir>
+    <imgdir name="2430005">
+		<string name="name" value="Camila"/>
+		<string name="d0" value="Utah is so playful. He can be a handful sometimes."/>
+		<string name="d1" value="I'll see if I can help Utah and Heena can be friends."/>
+		<string name="n0" value="The rumor's already spreading in school."/>
+		<string name="n1" value="I wonder if Evan has heard yet."/>
+	</imgdir>
+    <imgdir name="2430006">
+		<string name="name" value="Mrs. Ming Ming"/>
+		<string name="func" value="Master Homemaker"/>
+		<string name="d0" value="My husband fooled me into this marriage. I shouldn't have bought all those sweet nothings!"/>
+		<string name="d1" value="Soon it'll be my birthday. My husband had better remember it."/>
+		<string name="n0" value="Men. How could they be so clueless about women?"/>
+		<string name="n1" value="This time, I'm not going to let him get away with this."/>
+		<imgdir name="bubble">
+			<imgdir name="41102">
+				<imgdir name="2">
+					<string name="0" value="Tonight's dinner is spicy fried mushrooms."/>
+					<string name="1" value="Nothing's worse than an old lovers' quarrel."/>
+				</imgdir>
+    <imgdir name="2430007">
+		<string name="name" value="Jay"/>
+		<string name="d0" value="Henesys is quiet and peaceful... with a few exceptions."/>
+		<string name="d1" value="Henesys is quiet and peaceful."/>
+		<string name="n0" value="I love reading books."/>
+		<string name="n1" value="I think my front yard needs some cleaning."/>
+	</imgdir>
+    <imgdir name="2430008">
+		<string name="name" value="Maya"/>
+		<string name="d0" value="I'm running a little fever, but it's nothing serious."/>
+		<string name="d1" value="I'm well now."/>
+		<string name="n0" value="I want to go for a walk."/>
+		<string name="n1" value="I want to sit in the sun..."/>
+	</imgdir>
+    <imgdir name="2430009">
+		<string name="name" value="Heena"/>
+		<string name="d0" value="Camila betrayed me--she's with someone else now!"/>
+		<string name="d1" value="All this was because of Utah's prank."/>
+		<string name="n0" value="Something bad happened at school."/>
+		<string name="n1" value="We promised our friendship would last forever..."/>
+		<imgdir name="bubble">
+			<imgdir name="41103">
+				<imgdir name="2">
+					<string name="0" value="It was Utah's fault."/>
+					<string name="1" value="Utah was in the wrong! "/>
+				</imgdir>
+    <imgdir name="2430010">
+		<string name="name" value="Dr. Feeble"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n0" value="I'm the best doc you'll find in Henesys, Dr. Feeble."/>
+		<string name="n1" value="If you want to become beautiful, well... I'll do my best."/>
+	</imgdir>
+    <imgdir name="2430011">
+		<string name="name" value="Denma the Owner"/>
+		<string name="func" value="Plastic Surgeon"/>
+		<string name="n0" value="I'll help you become beautiful. Or at least a little bit more beautiful."/>
+		<string name="n1" value="Hey, you. You should do something about your face."/>
+	</imgdir>
+    <imgdir name="2430012">
+		<string name="name" value="Anne"/>
+		<string name="d0" value="What are friends?"/>
+		<string name="d1" value="I want to play dolls with Arum!"/>
+		<string name="n0" value="It's boring to play alone all the time."/>
+		<string name="n1" value="Do you want to play dolls with me?"/>
+		<imgdir name="bubble">
+			<imgdir name="41115">
+				<imgdir name="2">
+					<string name="0" value="I wonder what kind of doll Arum has."/>
+					<string name="1" value="Do you think Arum likes princess stories?"/>
+				</imgdir>
+</imgdir>

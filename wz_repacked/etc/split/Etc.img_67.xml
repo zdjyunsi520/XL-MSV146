@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4011010">
+			<string name="name" value="Ore Fragment"/>
+			<string name="desc" value="A fragment of ore."/>
+		</imgdir>
+    <imgdir name="4020000">
+			<string name="name" value="Garnet Ore"/>
+			<string name="desc" value="Red jewel ore. It can be refined to obtain rare magic powder (red)."/>
+		</imgdir>
+    <imgdir name="4020001">
+			<string name="name" value="Amethyst Ore"/>
+			<string name="desc" value="The ore of a purple jewel."/>
+		</imgdir>
+    <imgdir name="4020002">
+			<string name="name" value="AquaMarine Ore"/>
+			<string name="desc" value="Blue jewel ore. It can be refined to obtain rare magic powder (white)."/>
+		</imgdir>
+    <imgdir name="4020003">
+			<string name="name" value="Emerald Ore"/>
+			<string name="desc" value="Green jewel ore. It can be refined to obtain rare magic powder (green)."/>
+		</imgdir>
+    <imgdir name="4020004">
+			<string name="name" value="Opal Ore"/>
+			<string name="desc" value="The ore of a jewel with many colors."/>
+		</imgdir>
+    <imgdir name="4020005">
+			<string name="name" value="Sapphire Ore"/>
+			<string name="desc" value="Blue, transparent jewel ore. It can be refined to obtain rare magic powder (blue)."/>
+		</imgdir>
+    <imgdir name="4020006">
+			<string name="name" value="Topaz Ore"/>
+			<string name="desc" value="Yellow jewel ore. It can be refined to obtain rare magic powder (yellow)."/>
+		</imgdir>
+    <imgdir name="4020007">
+			<string name="name" value="Diamond Ore"/>
+			<string name="desc" value="Transparent jewel ore. It can be refined to obtain rare magic powder (white)."/>
+		</imgdir>
+    <imgdir name="4020008">
+			<string name="name" value="Black Crystal Ore"/>
+			<string name="desc" value="An ore of a crystal that contains dark power. It can be refined to obtain rare magic powder (black)."/>
+		</imgdir>
+    <imgdir name="4020009">
+			<string name="name" value="Piece of Time"/>
+			<string name="desc" value="A raw ore of a gem that contains the power of time."/>
+		</imgdir>
+    <imgdir name="4020013">
+			<string name="name" value="Dream Fragment"/>
+			<string name="desc" value="A fragment filled with dreams."/>
+		</imgdir>
+    <imgdir name="4021000">
+			<string name="name" value="Garnet"/>
+			<string name="desc" value="A red jewel. Used for level 8 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021001">
+			<string name="name" value="Amethyst"/>
+			<string name="desc" value="A purple jewel. Used for level 2 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021002">
+			<string name="name" value="AquaMarine"/>
+			<string name="desc" value="A blue jewel. Used for level 7 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021003">
+			<string name="name" value="Emerald"/>
+			<string name="desc" value="A green jewel. Used for level 5 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021004">
+			<string name="name" value="Opal"/>
+			<string name="desc" value="A jewel with many colors. Used for level 1 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021005">
+			<string name="name" value="Sapphire"/>
+			<string name="desc" value="A blue, transparent jewel. Used for level 3 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021006">
+			<string name="name" value="Topaz"/>
+			<string name="desc" value="A yellow jewel. Used for level 6 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4021007">
+			<string name="name" value="Diamond"/>
+			<string name="desc" value="A transparent jewel. Used for level 7 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+</imgdir>

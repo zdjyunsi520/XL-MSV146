@@ -1,0 +1,90 @@
+<imgdir name="Cash.img">
+    <imgdir name="5064300">
+		<string name="name" value="Guardian Scroll"/>
+		<string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of equipment will allow you to keep the #cnext scroll used on it# when it fails #c1 time#. The protection effect disappears even after a successful scroll use.\nCan be used along with #cShielding Wards and Shield Scrolls#."/>
+		<string name="autodesc" value="\r\n#cPreserves a scroll when it fails.\r\n#"/>
+	</imgdir>
+    <imgdir name="5064301">
+		<string name="name" value="Guardian Scroll Lite"/>
+		<string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of #level 105 or below# equipment protects the #cnext scroll from failure# #c1 time#. The protective aura also disappears after one use, even if the scroll is successful.\nCan be used along with #cShielding Wards and Shield Scrolls#."/>
+		<string name="autodesc" value="\r\n#cPreserves a scroll when it fails.\r\n#"/>
+	</imgdir>
+    <imgdir name="5064400">
+		<string name="name" value="Return Scroll"/>
+		<string name="desc" value="If you use a scroll after #cdragging &amp; dropping# the Return Scroll, depending on your choice, you can restore #call of the item options to their pre-scroll values, excluding Potentials#. \nWhen you use Return Scroll, you can only return item options that were changed by the #cscroll which deducted the number of available upgrades#. The Return Scroll effect disappears upon use, regardless of the result. The scroll is restricted to use on #csupplied Tutorial Equipment Items# and some other items. Cannot be used along with #cShield Scroll#. "/>
+		<string name="autodesc" value="\r\n#cAllows you to choose between the before and after effects of a scroll upon using it.\r\n#"/>
+	</imgdir>
+    <imgdir name="5068000">
+		<string name="name" value="Pet Lucky Day Scroll"/>
+		<string name="desc" value="Increases the success rate of your next scroll by 10%.\nOnly usable on #cpet equipment#."/>
+		<string name="autodesc" value="\r\n#cIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="5068100">
+		<string name="name" value="Pet Shield Scroll"/>
+		<string name="desc" value="A magic ward that protects an item. Using this on a piece of #cpet equipment# protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use. \nCan be used with a #cGuardian Scroll#."/>
+		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="5068200">
+		<string name="name" value="Pet Guardian Scroll"/>
+		<string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of #cpet equipment# will allow you to keep the #cnext scroll used on it# when it fails #c1 time#. The protection effect disappears even after a successful scroll use.\nCan be used with a #cShield Scroll#."/>
+		<string name="autodesc" value="\r\n#cPrevents a used scroll from disappearing.\r\n#"/>
+	</imgdir>
+    <imgdir name="5080001">
+		<string name="name" value="Heart Balloon"/>
+		<string name="desc" value="A balloon full of love that stays afloat for #c1 hour#. You can give it a message if you want."/>
+		<string name="msg" value="A love message from you."/>
+		<string name="msgIn" value="Confess your love (you can enter a message in each row)."/>
+	</imgdir>
+    <imgdir name="5150090">
+		<string name="name" value="Grand Prix Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# Grand Prix Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150091">
+		<string name="name" value="Romantic Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# Romantic Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150093">
+		<string name="name" value="April Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# April Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150094">
+		<string name="name" value="Trendy Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#! \r\n#cThe Trendy Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.#"/>
+	</imgdir>
+    <imgdir name="5150096">
+		<string name="name" value="May Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# May Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150099">
+		<string name="name" value="June Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# June Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150101">
+		<string name="name" value="July Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# July Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150104">
+		<string name="name" value="RED Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# RED Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5150106">
+		<string name="name" value="August Royal Hair Coupon"/>
+		<string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# August Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5152086">
+		<string name="name" value="Grand Prix Royal Face Coupon"/>
+		<string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5152087">
+		<string name="name" value="Romantic Royal Face Coupon"/>
+		<string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5152089">
+		<string name="name" value="April Royal Face Coupon"/>
+		<string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+	</imgdir>
+    <imgdir name="5152091">
+		<string name="name" value="Trendy Royal Face Coupon"/>
+		<string name="desc" value="Bring this to #cOrbis Plastic Surgery's Plastic Roy#, and you can get 1 #crandom# face makeover. Double-click a coupon in the Cash Shop to #cpreview#. \r\n#cThe Trendy Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.#"/>
+	</imgdir>
+</imgdir>

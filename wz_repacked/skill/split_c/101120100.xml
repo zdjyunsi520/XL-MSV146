@@ -1,0 +1,5 @@
+<imgdir name="101120100">
+        <string name="name" value="坠星" />
+        <string name="desc" value="跳入空中，用一记决定性的剑击刺入地面。冲击时产生冲击波造成伤害~\n[前置技能]: #c巨能崩裂 Lv. 1#\n[指令]: 巨能崩裂激活时再次使用#c巨能崩裂#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[冲击波]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z。" />
+    </imgdir>

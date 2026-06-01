@@ -1,0 +1,5 @@
+<imgdir name="11111121">
+        <string name="name" value="Moon Cross" />
+        <string name="desc" value="Cuts down distant enemies at an angle before pulling them toward you.\nRequired Skill: #cFalling Moon Lv.1#" />
+        <string name="h" value="MP Cost: #mpCon, While pulling: Damage: #damage%, Number of Attacks: #attackCount, Enemies Hit: #mobCount" />
+    </imgdir>

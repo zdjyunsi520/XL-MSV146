@@ -1,0 +1,5 @@
+<imgdir name="11001021">
+        <string name="name" value="Hand of Light" />
+        <string name="desc" value="Empowers your weapon with your own fighting spirit." />
+        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Duration: #time sec, Accuracy: +#x%" />
+    </imgdir>

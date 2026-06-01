@@ -1,0 +1,7 @@
+<imgdir name="21000002">
+        <string name="name" value="双重挥击" />
+        <string name="desc" value="连按攻击键两次，对最多8个敌人进行双重攻击。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%" />
+        <string name="pdesc" value="连按攻击键两次，对最多6个敌人进行双重攻击。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：2" />
+    </imgdir>

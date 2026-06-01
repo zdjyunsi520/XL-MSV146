@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="150000">
+			<imgdir name="0">
+				<string name="Title" value="Amherst"/>
+			</imgdir>
+    <imgdir name="241000000">
+			<imgdir name="0">
+				<string name="Title" value="Northeastern Road"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southern Road"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Northwestern Road"/>
+			</imgdir>
+    <imgdir name="241000100">
+			<imgdir name="0">
+				<string name="Title" value="Northern Barracks"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Northwestern Road"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Northeastern Road"/>
+			</imgdir>
+    <imgdir name="241000110">
+			<imgdir name="0">
+				<string name="Title" value="Northeastern Road"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southeastern Barracks"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Southern Road"/>
+			</imgdir>
+    <imgdir name="241000120">
+			<imgdir name="0">
+				<string name="Title" value="Southern Road"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Northwestern Road"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Southwestern Barracks"/>
+			</imgdir>
+    <imgdir name="241000130">
+			<imgdir name="0">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="241000140">
+			<imgdir name="0">
+				<string name="Title" value="Ranheim Academy"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241000150">
+			<imgdir name="0">
+				<string name="Title" value="Mayor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Town Hall"/>
+			</imgdir>
+    <imgdir name="241000200">
+			<imgdir name="0">
+				<string name="Title" value="Forest of Sorrows 1"/>
+			</imgdir>
+</imgdir>

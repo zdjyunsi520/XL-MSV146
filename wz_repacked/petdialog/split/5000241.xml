@@ -1,0 +1,209 @@
+<imgdir name="5000241">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Baa!"/>
+		<string name="c1_s2" value="Baa baa!"/>
+		<string name="c1_f1" value="Baa?"/>
+		<string name="c1_f2" value="(Pretends to be indifferent.)"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="I'm a nice lamb that obeys well!"/>
+		<string name="c2_s2" value="I was going to sit, baa!"/>
+		<string name="c2_s3" value="(It sits down quietly.)"/>
+		<string name="c2_s4" value="I was actually planning to rest, baa!"/>
+		<string name="c2_f1" value="I'm going to play more, baa!"/>
+		<string name="c2_f2" value="I can't hear you, baa!"/>
+		<string name="c2_f3" value="Speak louder, baa!"/>
+		<string name="c2_f4" value="(You've been ignored...)"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Baa, I'm tired..."/>
+		<string name="c3_s2" value="Flying is tiring too, Baa!"/>
+		<string name="c3_s3" value="Baa baa, you should sit down too."/>
+		<string name="c3_s4" value="My fluff aches, baa!"/>
+		<string name="c3_f1" value="Baa baa? What did you say?"/>
+		<string name="c3_f2" value="I can't hear you, I can't hear you, baa baa!"/>
+		<string name="c3_f3" value="I'm going to fly around more, baa baa!"/>
+		<string name="c3_f4" value="No, baa baa."/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Should we rest a bit? Baa baa."/>
+		<string name="c4_s2" value="Baa baa, let's rest together."/>
+		<string name="c4_s3" value="Baa baa! What a peaceful feeling!"/>
+		<string name="c4_s4" value="Baa! Let's rest a bit."/>
+		<string name="c4_f1" value="Baa baa? Are you talking to me?"/>
+		<string name="c4_f2" value="I don't hear anything, baa baa!"/>
+		<string name="c4_f3" value="What are you saying, baa?"/>
+		<string name="c4_f4" value="Baa? What's with you all of sudden?"/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="Baa..."/>
+		<string name="c5_s2" value="Baa baa..."/>
+		<string name="c5_f1" value="Baa!!"/>
+		<string name="c5_f2" value="Baa baa!!!"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="*Cries*"/>
+		<string name="c6_s2" value="I'm sorry, baa!"/>
+		<string name="c6_s3" value="Baah! (It appears to be calling its mother...)"/>
+		<string name="c6_s4" value="Baa! Don't do this to me..."/>
+		<string name="c6_f1" value="Don't make me too angry."/>
+		<string name="c6_f2" value="Baa... maybe I should change owners."/>
+		<string name="c6_f3" value="You are so UN-caring. Baa."/>
+		<string name="c6_f4" value="I don't even wanna hear it..."/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="Bahhhhhhh!!"/>
+		<string name="c7_s2" value="Baa baa! It's all my fault!"/>
+		<string name="c7_s3" value="Baa! Did I really mess up that badly?"/>
+		<string name="c7_s4" value="Baa... I won't do that again..."/>
+		<string name="c7_f1" value="Hmph, I'll be the bigger ram."/>
+		<string name="c7_f2" value="My patience has limits, baa baa."/>
+		<string name="c7_f3" value="Are you going to keep this up, baa?"/>
+		<string name="c7_f4" value="If only I had a nicer owner..."/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="Baa!! *Cries*"/>
+		<string name="c8_s2" value="Why do you always yell at me... *Cries*"/>
+		<string name="c8_s3" value="I'm going to tell my mommy, baa baa..."/>
+		<string name="c8_s4" value="Wahhhh! You're just mean because you're bigger than me!"/>
+		<string name="c8_f1" value="I really wish I could just smack you, baa baa."/>
+		<string name="c8_f2" value="I'm gonna call animal protective services!"/>
+		<string name="c8_f3" value="I can get scary when I'm angry, baa..."/>
+		<string name="c8_f4" value="Baa baa... THAT does it! (Veins popping.)"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Baa!"/>
+		<string name="c9_s2" value="Baa! (Looks happy.)"/>
+		<string name="c9_f1" value="Baa baa?"/>
+		<string name="c9_f2" value="…???"/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="Baa! You're embarrassing me."/>
+		<string name="c10_s2" value="You sure are nice!"/>
+		<string name="c10_s3" value="Baa baa! I like, I like!"/>
+		<string name="c10_s4" value="I like you very much also!"/>
+		<string name="c10_f1" value="Baa? What did you say?"/>
+		<string name="c10_f2" value="Baa baa. You aren't supposed to joke around like that."/>
+		<string name="c10_f3" value="... (You've been ignored.)"/>
+		<string name="c10_f4" value="Treat me well when you have the chance, baa."/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="Baa baa baa! "/>
+		<string name="c11_s2" value="Baa! I'm always on your side!"/>
+		<string name="c11_s3" value="Baa! I love it!"/>
+		<string name="c11_s4" value="Meeheeheehee!"/>
+		<string name="c11_f1" value="I can't hear you."/>
+		<string name="c11_f2" value="I said... I can't hear you!"/>
+		<string name="c11_f3" value="Baa Baa! I got it, I got it! "/>
+		<string name="c11_f4" value="Baa?"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="Baa! I love hanging out with you!"/>
+		<string name="c12_s2" value="What a happy day!"/>
+		<string name="c12_s3" value="Meehee! I like you too!"/>
+		<string name="c12_s4" value="Baa! Affectionate actions make Pufframs dance!"/>
+		<string name="c12_f1" value="Hmm..."/>
+		<string name="c12_f2" value="Baa! Say it louder."/>
+		<string name="c12_f3" value="Baa baa. I already know your feelings."/>
+		<string name="c12_f4" value="So what do you want me to do, baa baa?"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Hahh! Baahhh!!!"/>
+		<string name="c13_s2" value="*Grunt*"/>
+		<string name="c13_s3" value="Hyah!!"/>
+		<string name="c13_s4" value="First things first!!"/>
+		<string name="c13_f1" value="Why are you so rude?"/>
+		<string name="c13_f2" value="I'm shocked, I don't even have words."/>
+		<string name="c13_f3" value="(Little veins are popping out on its forehead.)"/>
+		<string name="c13_f4" value="Do you KNOW what you are saying?"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Baa! Baa Baa Baa..."/>
+		<string name="c14_s2" value="Hahh! That felt nice..."/>
+		<string name="c14_s3" value="Baa... Now's the time!!"/>
+		<string name="c14_s4" value="*Grunt* Whew..."/>
+		<string name="c14_f1" value="Something needs to go in for something to come out!"/>
+		<string name="c14_f2" value="You talk nonsense, Baa Baa."/>
+		<string name="c14_f3" value="Hmph! Baa Baa."/>
+		<string name="c14_f4" value="Baa Baa, don't push it..."/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="Baa baa! Every day is a healthy day!!"/>
+		<string name="c15_s2" value="*Grunt* Baa..."/>
+		<string name="c15_s3" value="Hyaahh!"/>
+		<string name="c15_s4" value="Baa baa... it's coming out!!"/>
+		<string name="c15_f1" value="It's not going to come out just because you whine!"/>
+		<string name="c15_f2" value="Baa... let's have some common sense, shall we?"/>
+		<string name="c15_f3" value="Baa baa... You want to get smacked?"/>
+		<string name="c15_f4" value="I'll let you off for today..."/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="(Already asleep.)"/>
+		<string name="c16_s2" value="Baa baa..."/>
+		<string name="c16_s3" value="Baa... *smacks lips*"/>
+		<string name="c16_s4" value="See you tomorrow, baa baa..."/>
+		<string name="c16_f1" value="I can't hear you!"/>
+		<string name="c16_f2" value="(It's ignoring you...)"/>
+		<string name="c16_f3" value="No! I want to play more!"/>
+		<string name="c16_f4" value="I want to play more, baa baa!"/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="(It's out cold.)"/>
+		<string name="c17_s2" value="Baa... I'm tired..."/>
+		<string name="c17_s3" value="*Snores* Baa..."/>
+		<string name="c17_s4" value="Baa baa... I'm tired..."/>
+		<string name="c17_f1" value="What's that noise?"/>
+		<string name="c17_f2" value="The sun's still up!"/>
+		<string name="c17_f3" value="Don't joke around, okay?"/>
+		<string name="c17_f4" value="Not sleepy!"/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Baa... someday I'll soar higher than a dragon. Baa..."/>
+		<string name="c18_s2" value="(It passed right out.)"/>
+		<string name="c18_s3" value="Good night... baa baa..."/>
+		<string name="c18_s4" value="Baa baa..."/>
+		<string name="c18_f1" value="Can't you see that my eyes are still WIDE open?"/>
+		<string name="c18_f2" value="Baa baa? What are you saying?"/>
+		<string name="c18_f3" value="I just woke up..."/>
+		<string name="c18_f4" value="I'm not that lazy, baa baa."/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Baa Baa! So today, I'm going to... (Now it won't stop talking.)"/>
+		<string name="c19_s2" value="Are you amazed by flying lambs? So the secret of our race is..."/>
+		<string name="c19_s3" value="Maple World is a pretty nice place to live, baa baa."/>
+		<string name="c19_s4" value="When we were living up in the sky, angels mistook us for clouds."/>
+		<string name="c19_f1" value="Is it strange that I talk?"/>
+		<string name="c19_f2" value="Baa baa, how annoying!"/>
+		<string name="c19_f3" value="I'm tired right now."/>
+		<string name="c19_f4" value="Baa? Weren't we talking just a second ago?"/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="Have you every had a Cloud Candy? It's the baaaaa-st."/>
+		<string name="c20_s2" value="I want some Cloud Candy!"/>
+		<string name="c20_s3" value="If there's one thing I hate, it's wolves."/>
+		<string name="c20_s4" value="We are called Pufframs because we live above the clouds."/>
+		<string name="c20_f1" value="Baa baa... just leave me alone..."/>
+		<string name="c20_f2" value="I don't want to talk right now, baa."/>
+		<string name="c20_f3" value="Mmm... are you hungry for a conversation?"/>
+		<string name="c20_f4" value="(It pretends not to hear you.)"/>
+		<string name="c21" value="talk|chat|say"/>
+		<string name="c21_s1" value="Baa baa, would it be better to walk or fly?"/>
+		<string name="c21_s2" value="Baa baa, you want to hear something interesting?"/>
+		<string name="c21_s3" value="Which one of us do you think can fly faster? Me or the eagle?"/>
+		<string name="c21_s4" value="To the Pufframs, the Golden Horn is a symbol of adulthood."/>
+		<string name="c21_f1" value="You look bored... too bad I'm not!"/>
+		<string name="c21_f2" value="I'm too hungry to talk!"/>
+		<string name="c21_f3" value="(It appears to be thinking about something.)"/>
+		<string name="c21_f4" value="What if I say no, baa baa?"/>
+		<string name="c22" value="showoff|trick|perform"/>
+		<string name="c22_s1" value="Meeeheehee!"/>
+		<string name="c22_s2" value="Baa baa!"/>
+		<string name="c22_s3" value="This is the Puffram booty dance!! "/>
+		<string name="c22_s4" value="Ta-da!!"/>
+		<string name="c22_f1" value="Sounds annoying, Baa Baa."/>
+		<string name="c22_f2" value="Am I in the circus or something, baa baa?"/>
+		<string name="c22_f3" value="Baa baa... I said, it sounds annoying..."/>
+		<string name="c22_f4" value="I actually have this super cool trick... but I don't feel like it right now."/>
+		<string name="c23" value="showoff|trick|perform"/>
+		<string name="c23_s1" value="(Jumps up and down.) Baa! Baa! Baa! Baa!"/>
+		<string name="c23_s2" value="Meehee! You likey, baa baa?"/>
+		<string name="c23_s3" value="Puffram-only special... booty dance!!"/>
+		<string name="c23_s4" value="It's super fun when you do it above the clouds, baa baa."/>
+		<string name="c23_f1" value="Baa... maybe next time..."/>
+		<string name="c23_f2" value="Can't I just be your pet?"/>
+		<string name="c23_f3" value="Too hungry... no strength... baa baa."/>
+		<string name="c23_f4" value="How embarrassing, baa baa."/>
+		<string name="f1_s" value="Baa!"/>
+		<string name="f1_f" value="Baa baa..."/>
+		<string name="f2_s" value="Looks delicious!"/>
+		<string name="f2_f" value="I ate a lot today..."/>
+		<string name="f3_s" value="Baa baa, eating time's my favorite time!!"/>
+		<string name="f3_f" value="I'm full..."/>
+		<string name="f4_s" value="Thank you for the food!"/>
+		<string name="f4_f" value="I'm full now, baa baa."/>
+		<string name="s1" value="Baa!!!"/>
+		<string name="s2" value="You want to get reported, baa baa?"/>
+		<string name="s3" value="Be nice, baa baa!"/>
+		<string name="s4" value="I'm so disappointed in you, baa baa!!"/>
+	</imgdir>

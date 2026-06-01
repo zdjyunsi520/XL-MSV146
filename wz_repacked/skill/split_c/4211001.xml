@@ -1,0 +1,7 @@
+<imgdir name="4211001">
+        <string name="name" value="查克拉" />
+        <string name="desc" value="消耗MP恢复HP。仅在HP低于50%时生效。" />
+        <string name="h" value="MP Cost: #mpCon, #y% Recovery Rate: #x% of the damage taken" />
+        <string name="pdesc" value="消耗MP恢复HP。仅在HP低于50%时生效。" />
+        <string name="ph" value="MP Cost: #mpCon, #y% Recovery Rate: #x% of the damage taken" />
+    </imgdir>

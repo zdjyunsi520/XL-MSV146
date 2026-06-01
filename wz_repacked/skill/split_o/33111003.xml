@@ -1,0 +1,8 @@
+<imgdir name="33111003">
+        <string name="name" value="Wild Trap" />
+        <string name="desc" value="Summons a trap that attacks nearby enemies. The trap is so alluring that monsters attack it instead of you." />
+        <string name="h" value="MP Cost: #mpCon, Trap Damage: #damage%, Trap HP: #x, Trap Duration: #time sec" />
+        <string name="pdesc" value="Summons a trap for nearby enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Trap Damage: #damage%, Trap HP: #x, Trap Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Trap Damage: #damage%, Trap HP: #hcSummonHp, Trap Duration: #time sec" />
+    </imgdir>

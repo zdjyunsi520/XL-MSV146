@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9501035">
+		<string name="name" value="Never Stop (135)"/>
+	</imgdir>
+    <imgdir name="9501036">
+		<string name="name" value="Blind (136)"/>
+	</imgdir>
+    <imgdir name="9501037">
+		<string name="name" value="Frozen (137)"/>
+	</imgdir>
+    <imgdir name="9501038">
+		<string name="name" value="Hidden Potential Nullified (138)"/>
+	</imgdir>
+    <imgdir name="9501039">
+		<string name="name" value="Hard Skin (142)"/>
+	</imgdir>
+    <imgdir name="9501040">
+		<string name="name" value="Immune to Weapon Counter Attack (143)"/>
+	</imgdir>
+    <imgdir name="9501041">
+		<string name="name" value="Immune to Magic Counter Attack (144)"/>
+	</imgdir>
+    <imgdir name="9501042">
+		<string name="name" value="Immune to Weapon and Magic Counter Attack (145)"/>
+	</imgdir>
+    <imgdir name="9501043">
+		<string name="name" value="Change PAD (150)"/>
+	</imgdir>
+    <imgdir name="9501044">
+		<string name="name" value="Change MAD (151)"/>
+	</imgdir>
+    <imgdir name="9501045">
+		<string name="name" value="Change PDD (152)"/>
+	</imgdir>
+    <imgdir name="9501046">
+		<string name="name" value="Change MDD (153)"/>
+	</imgdir>
+    <imgdir name="9501047">
+		<string name="name" value="Change ACC (154)"/>
+	</imgdir>
+    <imgdir name="9501048">
+		<string name="name" value="Change EVA (155)"/>
+	</imgdir>
+    <imgdir name="9501049">
+		<string name="name" value="Change Speed (156)"/>
+	</imgdir>
+    <imgdir name="9501050">
+		<string name="name" value="Teleport (170)"/>
+	</imgdir>
+    <imgdir name="9501051">
+		<string name="name" value="Summon (200)"/>
+	</imgdir>
+    <imgdir name="9300383">
+		<string name="name" value="Tutorial Muru"/>
+	</imgdir>
+    <imgdir name="2100103">
+		<string name="name" value="Cactus"/>
+	</imgdir>
+    <imgdir name="2100104">
+		<string name="name" value="Royal Cactus"/>
+	</imgdir>
+</imgdir>

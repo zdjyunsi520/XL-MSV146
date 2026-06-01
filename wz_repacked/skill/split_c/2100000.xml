@@ -1,0 +1,7 @@
+<imgdir name="2100000">
+        <string name="name" value="MP吞噬" />
+        <string name="desc" value="使用魔法技能攻击时吸收敌人的MP，直到敌人MP降为0~\n前置技能: #c魔法熟练 Lv. 5#" />
+        <string name="h" value="MP吸收几率: #prop%, 吸收量: 敌人最大MP的#x%" />
+        <string name="pdesc" value="使用魔法技能攻击时吸收敌人的MP，直到敌人MP降为0~\n前置技能: #c魔法熟练 Lv. 5#" />
+        <string name="ph" value="MP吸收几率: #prop%, 吸收量: 敌人最大MP的#x%" />
+    </imgdir>

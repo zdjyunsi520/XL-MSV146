@@ -1,0 +1,104 @@
+<imgdir name="Npc.img">
+    <imgdir name="1012005">
+		<string name="name" value="Cloy"/>
+		<string name="func" value="Pet Master"/>
+		<string name="n0" value="Do you have any questions about pets? Ask me anything you want..."/>
+		<string name="n1" value="Are you raising a pet? If you have any questions, feel free to ask."/>
+	</imgdir>
+    <imgdir name="1012006">
+		<string name="name" value="Trainer Bartos"/>
+		<string name="func" value="Pet Trainer"/>
+		<string name="n0" value="What? Your pet turned into a doll? Of course... It was originally a doll that came to life through a special magic."/>
+		<string name="n1" value="Heheheh... If you need to train your pet, I'll take care of it..."/>
+	</imgdir>
+    <imgdir name="1012009">
+		<string name="name" value="Mr. Lee"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? This is just the place for you!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+    <imgdir name="1012103">
+		<string name="name" value="Natalie"/>
+		<string name="func" value="Hair Salon Owner"/>
+		<string name="n0" value="Do you like my hairstyle? We hairdressers have to keep up with the latest trends!"/>
+		<string name="n1" value="Tired of your hairdo? Here, let me make it look nice and pretty for you..."/>
+	</imgdir>
+    <imgdir name="1012110">
+		<string name="name" value="Anne"/>
+		<string name="n0" value="Is mom busy...?"/>
+		<string name="n1" value="I can only do this by myself for so long..."/>
+		<string name="d0" value="I'm Anne, the daughter of Dr. Betty"/>
+		<string name="d1" value="Hey, you wanna hang out with me?"/>
+		<string name="f0" value="Hmmm..."/>
+	</imgdir>
+    <imgdir name="1012115">
+		<string name="name" value="Henesys Forest"/>
+	</imgdir>
+    <imgdir name="1012116">
+		<string name="name" value="Henesys Forest"/>
+	</imgdir>
+    <imgdir name="1022001">
+		<string name="name" value="Regular Cab"/>
+	</imgdir>
+    <imgdir name="1022005">
+		<string name="name" value="Mr. Wang"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? This is just the place for you!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+    <imgdir name="1022008">
+		<string name="name" value="Burnt Sword"/>
+		<string name="d0" value="(There's a burnt sword...)"/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="1022102">
+		<string name="name" value="The Excavator Board"/>
+		<string name="d0" value="Any form of advertisement attached to this board without the consent of the Excavator Camp will be fined 3,000,000 mesos."/>
+		<string name="d1" value="Any form of advertisement attached to this board without the consent of the Excavator Camp will be fined 3,000,000 mesos."/>
+	</imgdir>
+    <imgdir name="1022103">
+		<string name="name" value="Fountain Statue"/>
+	</imgdir>
+    <imgdir name="1031001">
+		<string name="name" value="Serabi the Fairy"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="We sell various kinds of armors here..."/>
+		<string name="n1" value="Come take a look."/>
+	</imgdir>
+    <imgdir name="1032000">
+		<string name="name" value="Regular Cab"/>
+	</imgdir>
+    <imgdir name="1032004">
+		<string name="name" value="Louis"/>
+		<string name="n0" value="If you want to leave this place, come talk to me."/>
+	</imgdir>
+    <imgdir name="1032005">
+		<string name="name" value="VIP Cab"/>
+	</imgdir>
+    <imgdir name="1032006">
+		<string name="name" value="Mr. Park"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? This is just the place for you!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+    <imgdir name="1032009">
+		<string name="name" value="Purin"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n0" value="Is anything bothering you on this trip? I hope you enjoy the ride."/>
+		<string name="n1" value="Anyone that wants to leave the ship and return to the starting point, please come talk to me."/>
+		<string name="n2" value="The ship is about to leave. Please wait one moment."/>
+	</imgdir>
+    <imgdir name="1032103">
+		<string name="name" value="El Moth"/>
+		<string name="func" value="Scroll Seller"/>
+		<string name="n0" value="I can make scrolls easily!"/>
+		<string name="n1" value="I know exactly what kind of scrolls you want."/>
+	</imgdir>
+    <imgdir name="1032104">
+		<string name="name" value="Betty"/>
+		<string name="s0" value="Lots of work, not enough help..."/>
+		<string name="n0" value="Hey, if you got some time, can you help me out here?"/>
+		<string name="d0" value="I'm Betty the biologist. There are so many things to work on, but I'm always lacking time."/>
+		<string name="d1" value="Thank you so much for your help! Couldn't have come at a better time!"/>
+	</imgdir>
+</imgdir>

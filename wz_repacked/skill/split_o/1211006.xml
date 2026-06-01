@@ -1,0 +1,8 @@
+<imgdir name="1211006">
+        <string name="name" value="Blizzard Charge" />
+        <string name="desc" value="Temporarily charges your weapon with the Ice Attribute, increasing its attack. When Charge Blow is used, you have a chance to freeze your enemy." />
+        <string name="h" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%, Freeze Chance when Charge Blow is used: #prop%, Freeze Duration: #y sec" />
+        <string name="pdesc" value="Temporarily charges your weapon with the Ice Attribute, increasing its attack. When Charge Blow is used, you have a chance to freeze your enemy." />
+        <string name="ph" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%" />
+        <string name="hch" value="MP Cost: #mpCon, Ice Attribute Duration: #time sec, Damage: #damage%, Freeze Chance when Charge Blow is used: #hcProp%, Freeze Duration: #hcSubTime sec" />
+    </imgdir>

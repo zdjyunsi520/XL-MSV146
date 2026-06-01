@@ -1,0 +1,5 @@
+<imgdir name="61110010">
+        <string name="name" value="攻击模式II" />
+        <string name="desc" value="强化重构：攻击模式。强化效果可以叠加。\n前置技能：#c攻击模式1次强化 Lv.1#" />
+        <string name="h" value="Attack: + #padX, Crit Chance: +#cr%, Damage Against Bosses: +#bdR%" />
+    </imgdir>

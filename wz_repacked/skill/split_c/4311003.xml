@@ -1,0 +1,7 @@
+<imgdir name="4311003">
+        <string name="name" value="斩击风暴" />
+        <string name="desc" value="向前移动的同时攻击多个敌人！\n#c需要技能手册才能解锁6级。\n20级时解锁三转的血腥风暴。#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="向前移动的同时攻击多个敌人！\n#c需要技能手册才能解锁6级。\n20级时解锁三转的血腥风暴。#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,220 @@
+<imgdir name="Map.img">
+    <imgdir name="masteria">
+		<imgdir name="863000000">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 1"/>
+		</imgdir>
+		<imgdir name="863000001">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 2"/>
+		</imgdir>
+		<imgdir name="863000002">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 3"/>
+		</imgdir>
+		<imgdir name="863000003">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 4"/>
+		</imgdir>
+		<imgdir name="863000004">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 5"/>
+		</imgdir>
+		<imgdir name="863000005">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 6"/>
+		</imgdir>
+		<imgdir name="863000006">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 7"/>
+		</imgdir>
+		<imgdir name="863000007">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 8"/>
+		</imgdir>
+		<imgdir name="863000008">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 9"/>
+		</imgdir>
+		<imgdir name="863000009">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 10"/>
+		</imgdir>
+		<imgdir name="863000010">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 11"/>
+		</imgdir>
+		<imgdir name="863000011">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 12"/>
+		</imgdir>
+		<imgdir name="863000012">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 13"/>
+		</imgdir>
+		<imgdir name="863000013">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 14"/>
+		</imgdir>
+		<imgdir name="863000014">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 15"/>
+		</imgdir>
+		<imgdir name="863000015">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth 16"/>
+		</imgdir>
+		<imgdir name="863000016">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth's End"/>
+		</imgdir>
+		<imgdir name="863000017">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Labyrinth Entrance"/>
+		</imgdir>
+		<imgdir name="863100000">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Demon Refuge"/>
+		</imgdir>
+		<imgdir name="863100001">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 1"/>
+		</imgdir>
+		<imgdir name="863100002">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 2"/>
+		</imgdir>
+		<imgdir name="863100003">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 3"/>
+		</imgdir>
+		<imgdir name="863100004">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 4"/>
+		</imgdir>
+		<imgdir name="863100005">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 5"/>
+		</imgdir>
+		<imgdir name="863100008">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Crimsonheart Ruins Exterior"/>
+		</imgdir>
+		<imgdir name="863100100">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Cryptic Crimsonheart 1"/>
+		</imgdir>
+		<imgdir name="863100101">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Cryptic Crimsonheart 2"/>
+		</imgdir>
+		<imgdir name="863100102">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Cryptic Crimsonheart 3"/>
+		</imgdir>
+		<imgdir name="863100103">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Cryptic Crimsonheart 4"/>
+		</imgdir>
+		<imgdir name="863100104">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Cryptic Crimsonheart 3"/>
+		</imgdir>
+		<imgdir name="863100006">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 6"/>
+		</imgdir>
+		<imgdir name="863100007">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Shadow Veil Forest 7"/>
+		</imgdir>
+		<imgdir name="863000100">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Heart Tree Guardian Grove"/>
+		</imgdir>
+		<imgdir name="863000900">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Head"/>
+		</imgdir>
+		<imgdir name="863000920">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Head"/>
+		</imgdir>
+		<imgdir name="863010000">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Memories of the Heart Tree"/>
+		</imgdir>
+		<imgdir name="863010100">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Road to Gollux"/>
+		</imgdir>
+		<imgdir name="863010200">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Lower Right Leg"/>
+		</imgdir>
+		<imgdir name="863010210">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Right Leg"/>
+		</imgdir>
+		<imgdir name="863010220">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Lower Left Leg"/>
+		</imgdir>
+		<imgdir name="863010230">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Left Leg"/>
+		</imgdir>
+		<imgdir name="863010240">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Abdomen"/>
+		</imgdir>
+		<imgdir name="863010300">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Lower Right Torso"/>
+		</imgdir>
+		<imgdir name="863010310">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Right Torso"/>
+		</imgdir>
+		<imgdir name="863010320">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Right Arm"/>
+		</imgdir>
+		<imgdir name="863010330">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Right Shoulder"/>
+		</imgdir>
+		<imgdir name="863010400">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Lower Left Torso"/>
+		</imgdir>
+		<imgdir name="863010410">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Left Torso"/>
+		</imgdir>
+		<imgdir name="863010420">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Upper Left Arm"/>
+		</imgdir>
+		<imgdir name="863010430">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Left Shoulder"/>
+		</imgdir>
+		<imgdir name="863010500">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Heart"/>
+		</imgdir>
+		<imgdir name="863010600">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Head"/>
+		</imgdir>
+		<imgdir name="863010700">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Gollux: Heart"/>
+		</imgdir>
+		<imgdir name="863100105">
+			<string name="streetName" value="Tynerum"/>
+			<string name="mapName" value="Hidden Crimsonheart 6"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

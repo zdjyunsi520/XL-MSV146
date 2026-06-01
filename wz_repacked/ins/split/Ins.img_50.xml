@@ -1,0 +1,63 @@
+<imgdir name="Ins.img">
+    <imgdir name="3800015">
+		<string name="name" value="Subway Ticketing Booth"/>
+	</imgdir>
+    <imgdir name="3800030">
+		<string name="name" value="Balrog Treasure Bag"/>
+	</imgdir>
+    <imgdir name="3800031">
+		<string name="name" value="Zakum Treasure Bag"/>
+	</imgdir>
+    <imgdir name="3800032">
+		<string name="name" value="Horntail Treasure Bag"/>
+	</imgdir>
+    <imgdir name="3800033">
+		<string name="name" value="Pink Bean Treasure Bag"/>
+	</imgdir>
+    <imgdir name="3800087">
+		<string name="name" value="Recorded Information"/>
+	</imgdir>
+    <imgdir name="3800088">
+		<string name="name" value="???"/>
+		<string name="desc" value="It's hard to tell what kind of item this is. Read the information window carefully to find a clue."/>
+	</imgdir>
+    <imgdir name="3800089">
+		<string name="name" value="Abandoned Construction Site"/>
+	</imgdir>
+    <imgdir name="3800090">
+		<string name="name" value="Fruit Trees with Acorns"/>
+	</imgdir>
+    <imgdir name="3800091">
+		<string name="name" value="Caged Baby Ore Muncher"/>
+	</imgdir>
+    <imgdir name="3800164">
+		<string name="name" value="Lovebirds Wedding Ring"/>
+	</imgdir>
+    <imgdir name="3800165">
+		<string name="name" value="Promise Wedding Ring"/>
+	</imgdir>
+    <imgdir name="3800166">
+		<string name="name" value="Mano"/>
+	</imgdir>
+    <imgdir name="3800167">
+		<string name="name" value="Stumpy"/>
+	</imgdir>
+    <imgdir name="3800168">
+		<string name="name" value="Dyle"/>
+	</imgdir>
+    <imgdir name="3800169">
+		<string name="name" value="Faust"/>
+	</imgdir>
+    <imgdir name="3800170">
+		<string name="name" value="Lord Skeleton"/>
+	</imgdir>
+    <imgdir name="3800171">
+		<string name="name" value="King Clang"/>
+	</imgdir>
+    <imgdir name="3800172">
+		<string name="name" value="Pixiemom"/>
+	</imgdir>
+    <imgdir name="3800173">
+		<string name="name" value="Eliza"/>
+	</imgdir>
+</imgdir>

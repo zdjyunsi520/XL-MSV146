@@ -1,0 +1,5 @@
+<imgdir name="80000080">
+        <string name="name" value="甜蜜白色情人节" />
+        <string name="desc" value="爱的力量提升你的武器攻击力和魔法攻击力~" />
+        <string name="h" value="#武器攻击力: +#padX, 魔法攻击力: +#madX, 全属性: +#dexX" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000432">
+			<string name="name" value="Moss Rock"/>
+			<string name="desc" value="A moss-covered granite rock from a Petrifighter."/>
+		</imgdir>
+    <imgdir name="4000433">
+			<string name="name" value="Oil Canister"/>
+			<string name="desc" value="An oil canister that holds gasoline."/>
+		</imgdir>
+    <imgdir name="4000434">
+			<string name="name" value="Rafflesia"/>
+			<string name="desc" value="A huge flower that emits an awful stench."/>
+		</imgdir>
+    <imgdir name="4000435">
+			<string name="name" value="Union Key"/>
+			<string name="desc" value="A mysterious golden key that unlocks a hidden secret."/>
+		</imgdir>
+    <imgdir name="4000436">
+			<string name="name" value="Moss Snail Shell"/>
+			<string name="desc" value="A snail shell from Moss Snail. Very tough and solid, as if made with rocks."/>
+		</imgdir>
+    <imgdir name="4000437">
+			<string name="name" value="Black Mushroom Spore"/>
+			<string name="desc" value="A black mushroom spore from Moss Mushroom. It's quite dark."/>
+		</imgdir>
+    <imgdir name="4000438">
+			<string name="name" value="Tree Trunk"/>
+			<string name="desc" value="A strange tree trunk that's wrapped all over Lord Tree."/>
+		</imgdir>
+    <imgdir name="4000439">
+			<string name="name" value="Rubble"/>
+			<string name="desc" value="A piece of rubble from Stone Bug."/>
+		</imgdir>
+    <imgdir name="4000440">
+			<string name="name" value="Tough Leather"/>
+			<string name="desc" value="A tough, stiff leather from an animal."/>
+		</imgdir>
+    <imgdir name="4000443">
+			<string name="name" value="Cracked Hourglass"/>
+			<string name="desc" value="Cracked hourglass.  It looks broken but it still functions."/>
+		</imgdir>
+    <imgdir name="4000444">
+			<string name="name" value="Green Cloth"/>
+			<string name="desc" value="A piece of clothing from the Memory Monk."/>
+		</imgdir>
+    <imgdir name="4000445">
+			<string name="name" value="Green Cone Hat"/>
+			<string name="desc" value="Hat worn by the Memory Monk Trainee"/>
+		</imgdir>
+    <imgdir name="4000446">
+			<string name="name" value="Smiley Mask"/>
+			<string name="desc" value="A mask made from a smiley face."/>
+		</imgdir>
+    <imgdir name="4000447">
+			<string name="name" value="Green Helmet"/>
+			<string name="desc" value="Helmet worn by the Memory Guardian"/>
+		</imgdir>
+    <imgdir name="4000448">
+			<string name="name" value="Green Heart"/>
+			<string name="desc" value="Heart of the Chief Memory Guardian"/>
+		</imgdir>
+    <imgdir name="4000449">
+			<string name="name" value="Blue Cloth"/>
+			<string name="desc" value="A piece of clothing from the Qualm Monk"/>
+		</imgdir>
+    <imgdir name="4000450">
+			<string name="name" value="Blue Cone Hat"/>
+			<string name="desc" value="Hat worn by the Qualm Monk Trainee."/>
+		</imgdir>
+    <imgdir name="4000451">
+			<string name="name" value="Neutral Mask"/>
+			<string name="desc" value="A mask made from an expressionless face."/>
+		</imgdir>
+    <imgdir name="4000452">
+			<string name="name" value="Blue Helmet"/>
+			<string name="desc" value="Helmet worn by the Qualm Guardian"/>
+		</imgdir>
+    <imgdir name="4000453">
+			<string name="name" value="Blue Heart"/>
+			<string name="desc" value="Heart of the Chief Qualm Guardian"/>
+		</imgdir>
+</imgdir>

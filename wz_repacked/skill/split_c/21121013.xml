@@ -1,0 +1,7 @@
+<imgdir name="21121013">
+        <string name="name" value="终极大招" />
+        <string name="desc" value="挥舞战斧对敌人造成巨大伤害，还能无视部分防御力！通过龙之连接发动时不消耗连击数，但伤害会降低哦~\r\n[指令: #c下方向键 + 攻击#]" />
+        <string name="h" value="连击消耗: #comboConAran, MP消耗: #mpCon, 伤害: #damage%, 敌人数量: #mobCount, 攻击次数: #attackCount, 无视防御: #ignoreMobpdpR%" />
+        <string name="pdesc" value="挥动战斧对多个敌人发动强力一击！终极大招必定暴击，只能在#c三连挥击之后#使用哦~\n[指令: 三连挥击 + #c下方向键 + 攻击键#]\n前置技能: #三连挥击 Lv. 20#" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage% 最大敌人数: #mobCount, 暴击率: +#cr%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="3221014">
+        <string name="name" value="箭矢幻影" />
+        <string name="desc" value="短时间内召唤箭矢幻影吸引敌人并造成伤害。在技能持续期间被击中时，将发动强力反击~" />
+        <string name="h" value="MP消耗: #mpCon，召唤#x HP的箭矢幻影持续#time秒\n对周围敌人造成#damage%伤害。吸引后以#prop%几率眩晕#subTime秒。受到伤害时反射#y%" />
+    </imgdir>

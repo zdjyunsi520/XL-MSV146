@@ -1,0 +1,5 @@
+<imgdir name="36111003">
+        <string name="name" value="Hybrid Defenses" />
+        <string name="desc" value="Additional Avoidability: 100%, Any hit/avoids after reduces the Avoidability and damage. Permanently increases the DEF.\n[Required Skill] : #cLv. 5 Perspective Shift#" />
+        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Additional Avoidability: +#prop%, Additional Avoidability when hit: -#y%, Damage received when hit: -#z%. Effects removed after #x evasions.\n[Passive Effects] : All Stats: +#strX, Weapon DEF/ Magic DEF: +#pddX" />
+    </imgdir>

@@ -1,0 +1,8 @@
+<imgdir name="22111001">
+        <string name="name" value="魔法盾" />
+        <string name="h" value="MP消耗：#mpCon，受到的伤害：-#y%，伤害转移：受到伤害的#x%转移到MP，持续时间：#time 秒" />
+        <string name="pdesc" value="对你造成的伤害由MP代替HP承受。如果MP降到0，HP将承受全部伤害。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害转移：MP的#x%，持续时间：#time 秒" />
+        <string name="hch" value="MP消耗：#mpCon，MP的1/300中的伤害转移：#x%，持续时间：#time 秒" />
+        <string name="desc" value="减少受到的伤害，将一部分伤害转移到MP。如果MP降到0，HP将承受全部伤害。\n需要技能手册才能解锁下一级技能。" />
+    </imgdir>

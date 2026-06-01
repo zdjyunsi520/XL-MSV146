@@ -1,0 +1,5 @@
+<imgdir name="41120006">
+        <string name="name" value="迅风步" />
+        <string name="desc" value="剑豪的秘技。成功闪避攻击后，有概率在一定时间内减少受到的伤害。" />
+        <string name="h" value="闪避后触发概率：#t%，伤害减少：#y%，持续时间：#time秒。永久提升回避值#prop%" />
+    </imgdir>

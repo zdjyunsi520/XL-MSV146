@@ -1,0 +1,5 @@
+<imgdir name="61121009">
+        <string name="name" value="Grand Armor" />
+        <string name="desc" value="Reduces damage taken from monsters for you and your party." />
+        <string name="h" value="MP Cost: MP #mpCon, Duration: #time, Damage Taken: -#v%, Party&apos;s Damage Taken: -#w%" />
+    </imgdir>

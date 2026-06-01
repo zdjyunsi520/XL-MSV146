@@ -1,0 +1,7 @@
+<imgdir name="11001004">
+        <string name="name" value="灵魂" />
+        <string name="desc" value="召唤灵魂攻击你正在战斗的敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+        <string name="pdesc" value="召唤灵魂攻击你正在战斗的敌人！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
+    </imgdir>

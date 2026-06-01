@@ -1,0 +1,7 @@
+<imgdir name="5811002">
+        <string name="name" value="能量冲击波" />
+        <string name="desc" value="发射能量球同时攻击多个怪物，有几率使其眩晕。只有在#c能量充满#时才能使用。\n需要技能：#c能量充能 Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Duration: #time sec" />
+        <string name="pdesc" value="发射能量球同时攻击多个怪物，有几率使其眩晕。只有在#c能量充满#时才能使用。\n需要技能：#c能量充能 Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Duration: #time sec" />
+    </imgdir>

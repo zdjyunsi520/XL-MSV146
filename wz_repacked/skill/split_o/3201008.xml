@@ -1,0 +1,5 @@
+<imgdir name="3201008">
+        <string name="name" value="Net Toss" />
+        <string name="desc" value="Throws a net on enemies, limiting their movements and inflicting damage." />
+        <string name="h" value="MP Cost: #mpCon, Attack up to #mobCount enemies with #damage% damage #attackCount times. At #prop% chance, enemies can&apos;t be moved for #time sec. For bosses, it only lasts for half as long and movement speed will be reduced by 50%" />
+    </imgdir>

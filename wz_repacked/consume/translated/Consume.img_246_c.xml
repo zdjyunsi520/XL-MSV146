@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2383085">
+		<string name="name" value="打鼓兔子卡"/>
+		<string name="desc" value="以打鼓兔子为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383086">
+		<string name="name" value="Roloduck卡"/>
+		<string name="desc" value="以Roloduck为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383087">
+		<string name="name" value="Seacle卡"/>
+		<string name="desc" value="以Seacle为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383088">
+		<string name="name" value="熊猫泰迪卡"/>
+		<string name="desc" value="以熊猫泰迪为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383089">
+		<string name="name" value="Bloctopus卡"/>
+		<string name="desc" value="以Bloctopus为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383090">
+		<string name="name" value="Lucida卡"/>
+		<string name="desc" value="以Lucida为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383091">
+		<string name="name" value="月兔卡"/>
+		<string name="desc" value="以月兔为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383092">
+		<string name="name" value="Krappy卡"/>
+		<string name="desc" value="以Krappy为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383093">
+		<string name="name" value="Helly卡"/>
+		<string name="desc" value="以Helly为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383094">
+		<string name="name" value="冰龙卡"/>
+		<string name="desc" value="以冰龙为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383095">
+		<string name="name" value="Propelly卡"/>
+		<string name="desc" value="以Propelly为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383096">
+		<string name="name" value="玩具木马卡"/>
+		<string name="desc" value="以玩具木马为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383097">
+		<string name="name" value="Cico卡"/>
+		<string name="desc" value="以Cico为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383098">
+		<string name="name" value="大王乌贼卡"/>
+		<string name="desc" value="以大王乌贼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383099">
+		<string name="name" value="黑暗龙卡"/>
+		<string name="desc" value="以黑暗龙为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383100">
+		<string name="name" value="泡泡鱼卡"/>
+		<string name="desc" value="以泡泡鱼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383101">
+		<string name="name" value="Planey卡"/>
+		<string name="desc" value="以Planey为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2383102">
+		<string name="name" value="野生卡尔戈卡"/>
+		<string name="desc" value="以野生卡尔戈为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384000">
+		<string name="name" value="Buffy卡"/>
+		<string name="desc" value="以Buffy为主题的卡片。\n#c在钟楼的下层狩猎时跳跃力+3#"/>
+	</imgdir>
+    <imgdir name="2384001">
+		<string name="name" value="野生卡尔戈卡"/>
+		<string name="desc" value="以野生卡尔戈为主题的卡片。\n#c在维多利亚岛狩猎时跳跃力+3#"/>
+	</imgdir>
+</imgdir>

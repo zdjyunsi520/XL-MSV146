@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4009143">
+			<string name="name" value="破剑柄（黑）"/>
+			<string name="desc" value="尽管没有附任何危险的东西，这个剑柄感觉很可怕和有威胁。"/>
+		</imgdir>
+    <imgdir name="4009144">
+			<string name="name" value="破杖身（黑）"/>
+			<string name="desc" value="只是一条链子和杖身，但它们散发着如此恐怖的感觉..."/>
+		</imgdir>
+    <imgdir name="4009145">
+			<string name="name" value="破弓（黑）"/>
+			<string name="desc" value="你可以感受到被这把古老的弓射过的迷失灵魂的痛苦。诡异。"/>
+		</imgdir>
+    <imgdir name="4009146">
+			<string name="name" value="破羽毛（黑）"/>
+			<string name="desc" value="一根比看起来重得多的羽毛。而且完全是邪恶的。"/>
+		</imgdir>
+    <imgdir name="4009147">
+			<string name="name" value="初级魔法师布"/>
+			<string name="desc" value="即使是这样便宜的布也注入了魔法。看起来你扔块石头都能打到魔法神器。"/>
+		</imgdir>
+    <imgdir name="4009148">
+			<string name="name" value="中级魔法师布"/>
+			<string name="desc" value="这种深色的布料散发着神秘的力量。考虑到它的预期用途，这说得通。"/>
+		</imgdir>
+    <imgdir name="4009149">
+			<string name="name" value="高级魔法师布"/>
+			<string name="desc" value="一块被黑色能量包围的神秘布料。我猜邪恶魔法如今很流行。"/>
+		</imgdir>
+    <imgdir name="4011008">
+			<string name="name" value="锂"/>
+			<string name="desc" value="锂矿石在沙子下自然形成。用于10级及以上制作装备、饰品和炼金术物品。"/>
+		</imgdir>
+    <imgdir name="4021021">
+			<string name="name" value="贤者之石"/>
+			<string name="desc" value="这块奇怪的石头看起来是固体但像液体一样流动。它充满了炼金术潜力。通过提取105级或更高等级的装备有小几率发现它。装备等级越高，几率越高。"/>
+		</imgdir>
+    <imgdir name="4021022">
+			<string name="name" value="原始精华"/>
+			<string name="desc" value="他们说这块石头可以追溯到世界的最初形成。不过，他们说很多事情。偶尔从心石、金花、神秘矿脉、神秘传说矿脉、神秘草药和神秘传说草药获得。"/>
+		</imgdir>
+    <imgdir name="4021031">
+			<string name="name" value="扭曲时间"/>
+			<string name="desc" value="这块石头非常强大，它可以弯曲时间和空间。普通的石头也能做到，但你必须非常用力地扔它们。用于制作强大的装备和药水。可以从95级或以上的所有怪物获得。"/>
+		</imgdir>
+    <imgdir name="4021032">
+			<string name="name" value="魔力水晶"/>
+			<string name="desc" value="可以从卷轴和重生火焰提取的魔力水晶。广泛用于制作魔力密集型物品。"/>
+		</imgdir>
+    <imgdir name="4021033">
+			<string name="name" value="初级咒语精华"/>
+			<string name="desc" value="这是真实咒语组成的东西。这个来自一个搞砸了的咒语。可以从卷轴提取并用于魔力密集型制作。"/>
+		</imgdir>
+    <imgdir name="4021034">
+			<string name="name" value="高级咒语精华"/>
+			<string name="desc" value="这是真实咒语组成的东西。这个来自一个相当好的咒语。可以从卷轴提取并用于魔力密集型制作。"/>
+		</imgdir>
+    <imgdir name="4021035">
+			<string name="name" value="顶级咒语精华"/>
+			<string name="desc" value="这是真实咒语组成的东西。这个来自一个顶级咒语。可以从卷轴提取并用于魔力密集型制作。"/>
+		</imgdir>
+    <imgdir name="4021036">
+			<string name="name" value="方块碎片"/>
+			<string name="desc" value="保留着方块能量痕迹的方块碎片，管理所有方块的力量。可以通过提取工匠方块、采矿和怪物/boss掉落获得，并用于制作工匠方块和著名工匠方块。"/>
+		</imgdir>
+    <imgdir name="4021037">
+			<string name="name" value="方块水晶"/>
+			<string name="desc" value="神秘方块的结晶力量。"/>
+		</imgdir>
+    <imgdir name="4021038">
+			<string name="name" value="重生碎片"/>
+			<string name="desc" value="包含微量重生火焰的碎片。可以从普通重生火焰提取并用于制作强力重生火焰和永恒重生火焰。"/>
+		</imgdir>
+    <imgdir name="4021039">
+			<string name="name" value="重生水晶"/>
+			<string name="desc" value="重生火焰的结晶力量。"/>
+		</imgdir>
+    <imgdir name="4021040">
+			<string name="name" value="次元碎片"/>
+			<string name="desc" value="在镜世界和枫之谷之间的空间发现的碎片。用于制作#c金标签骑士套装#物品。"/>
+		</imgdir>
+</imgdir>

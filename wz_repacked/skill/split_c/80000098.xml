@@ -1,0 +1,5 @@
+<imgdir name="80000098">
+        <string name="name" value="Lv.1 邪恶之力" />
+        <string name="desc" value="恶魔的邪恶力量提升你的武器攻击力和魔法攻击力各3点。" />
+        <string name="h" value="#武器攻击力：+#padX，魔法攻击力：+#madX" />
+    </imgdir>

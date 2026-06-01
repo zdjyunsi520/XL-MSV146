@@ -1,0 +1,241 @@
+<imgdir name="5000046">
+			<string name="c1" value="sit"/>
+			<string name="c1_s1" value="阿鲁~♪"/>
+			<string name="c1_s2" value="阿鲁呜~♪"/>
+			<string name="c1_f1" value="？？？"/>
+			<string name="c1_f2" value="啊阿鲁~"/>
+			<string name="c2" value="sit"/>
+			<string name="c2_s1" value="这样吗？阿鲁~"/>
+			<string name="c2_s2" value="啊~奇诺要休息了呀！"/>
+			<string name="c2_s3" value="阿鲁~♪好舒服~"/>
+			<string name="c2_s4" value="主人也坐下试试呀~"/>
+			<string name="c2_f1" value="不知道不知道~奇诺不知道这些呀~"/>
+			<string name="c2_f2" value="不要！不要！奇诺不想坐下嘛！"/>
+			<string name="c2_f3" value="现在不想休息呢~~♪"/>
+			<string name="c2_f4" value="好无聊呀~阿鲁鲁~♪"/>
+			<string name="c3" value="sit"/>
+			<string name="c3_s1" value="主人也要来一杯凉凉的果汁吗？"/>
+			<string name="c3_s2" value="果然休闲椅最舒服了呢~♪"/>
+			<string name="c3_s3" value="阿鲁鲁~舒服呀♪♪"/>
+			<string name="c3_s4" value="坐在休闲椅上来杯果汁吗？"/>
+			<string name="c3_f1" value="奇诺不会随便找个地方就坐的！"/>
+			<string name="c3_f2" value="奇诺要跟着主人走呢！"/>
+			<string name="c3_f3" value="阿鲁鲁~不要呢！"/>
+			<string name="c3_f4" value="现在不想坐呀？"/>
+			<string name="c4" value="sit"/>
+			<string name="c4_s1" value="奇诺要稍微休息一下呢！主人也坐下呀~"/>
+			<string name="c4_s2" value="啊哈好舒服~要不要来杯果汁呢？"/>
+			<string name="c4_s3" value="奇诺先喝杯果汁啦！"/>
+			<string name="c4_s4" value="舒舒服服地睡个午觉吧~"/>
+			<string name="c4_f1" value="阿鲁鲁~不要呢！"/>
+			<string name="c4_f2" value="奇诺不想坐呀？"/>
+			<string name="c4_f3" value="不做！不做！奇诺不想坐嘛！"/>
+			<string name="c4_f4" value="阿鲁鲁~你说什么呀？"/>
+			<string name="c5" value="slap | no | bad | don't"/>
+			<string name="c5_s1" value="阿鲁鲁..."/>
+			<string name="c5_s2" value="..阿鲁.."/>
+			<string name="c5_f1" value="嗯？"/>
+			<string name="c5_f2" value "嗯嗯？"/>
+			<string name="c6" value="slap | no | bad | don't"/>
+			<string name="c6_s1" value="呜哇哇~阿鲁呜~"/>
+			<string name="c6_s2" value="可爱的奇诺做错了什么呀！！呜呜~"/>
+			<string name="c6_s3" value="不要责怪奇诺了~阿鲁QAQ"/>
+			<string name="c6_s4" value="阿鲁鲁~对不起嘛！"/>
+			<string name="c6_f1" value="嗯？"/>
+			<string name="c6_f2" value="阿鲁鲁！你说什么呀？"/>
+			<string name="c6_f3" value="别惹奇诺生气呀！"/>
+			<string name="c6_f4" value="阿鲁鲁！那奇诺要发脾气了！"/>
+			<string name="c7" value="slap | no | bad | don't"/>
+			<string name="c7_s1" value="啊呀！打人会很痛的呀！"/>
+			<string name="c7_s2" value="呜哇哇！对不起嘛。"/>
+			<string name="c7_s3" value="好痛呀！"/>
+			<string name="c7_s4" value="奇诺会讨厌你的！打人是不对的！"/>
+			<string name="c7_f1" value="阿鲁鲁！不要这样对奇诺呀！"/>
+			<string name="c7_f2" value "你怎么敢对偶大喊大叫呢？"/>
+			<string name="c7_f3" value="阿鲁鲁！奇诺做错了什么呀！！"/>
+			<string name="c7_f4" value="呜哇！竟然对偶发脾气！！奇诺要讨厌你了！"/>
+			<string name="c8" value="slap | no | bad | don't"/>
+			<string name="c8_s1" value="请不要惩罚偶嘛？"/>
+			<string name="c8_s2" value="不要生偶气了嘛...拜托..."/>
+			<string name="c8_s3" value="奇诺很抱歉呢。"/>
+			<string name="c8_s4" value="呜哇！请不要生气嘛。"/>
+			<string name="c8_f1" value="你刚才在跟偶大喊大叫吗？你怎么能这样？？？"/>
+			<string name="c8_f2" value "奇诺做错了什么呀？"/>
+			<string name="c8_f3" value="别惹偶生气呀！"/>
+			<string name="c8_f4" value "你怎么敢对偶大喊大叫呢？"/>
+			<string name="c9" value="poop"/>
+			<string name="c9_s1" value="嗯哼..."/>
+			<string name="c9_s2" value="嗯..."/>
+			<string name="c9_f1" value="嗯？"/>
+			<string name="c9_f2" value "嗯嗯？"/>
+			<string name="c10" value="poop"/>
+			<string name="c10_s1" value="阿鲁！好舒服呀~♬"/>
+			<string name="c10_s2" value="嗯哼！"/>
+			<string name="c10_s3" value="阿鲁鲁~有点害羞呢~"/>
+			<string name="c10_s4" value="阿鲁！好舒服呀！"/>
+			<string name="c10_f1" value="不能到处乱拉屎的呀！"/>
+			<string name="c10_f2" value="奇诺只会在厕所里拉屎哒！"/>
+			<string name="c10_f3" value="奇诺不想拉呢。"/>
+			<string name="c10_f4" value "奇诺只想喝杯果汁呢！"/>
+			<string name="c11" value="poop"/>
+			<string name="c11_s1" value="啊呀~好舒服呢~♪"/>
+			<string name="c11_s2" value="嗯嗯！舒服呀~♪"/>
+			<string name="c11_s3" value="阿鲁鲁~奇诺好舒服呀~"/>
+			<string name="c11_s4" value="拉~屎~啊呀好舒服呀♬"/>
+			<string name="c11_f1" value="奇诺没吃多少东西拉不出来呢。"/>
+			<string name="c11_f2" value "拉什么屎呀~还是喝杯凉凉的果汁吧！"/>
+			<string name="c11_f3" value="奇诺不会随便拉屎的呢~"/>
+			<string name="c11_f4" value "太害羞了做不到呀~阿鲁鲁~"/>
+			<string name="c12" value="poop"/>
+			<string name="c12_s1" value "正好也想拉了呢！阿鲁~"/>
+			<string name="c12_s2" value="虽然害羞但还是来一次~嗯！"/>
+			<string name="c12_s3" value="阿鲁鲁~好舒服呢！"/>
+			<string name="c12_s4" value "嗯！主人太让人害羞了呀~"/>
+			<string name="c12_f1" value "奇诺不要拉屎！"/>
+			<string name="c12_f2" value "那么害羞怎么能在随便什么地方拉屎嘛！"/>
+			<string name="c12_f3" value "这里又不是厕所呀！"/>
+			<string name="c12_f4" value "主人先来试试看吧！"/>
+			<string name="c13" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c13_s1" value="zz.Zzz..阿鲁鲁~"/>
+			<string name="c13_s2" value="嗯嗯"/>
+			<string name="c13_f1" value="阿鲁呜？"/>
+			<string name="c13_f2" value="？？"/>
+			<string name="c14" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c14_s1" value="奇诺想睡觉了呢。"/>
+			<string name="c14_s2" value="奇诺本来就想睡了呢。阿鲁鲁~"/>
+			<string name="c14_s3" value="奇诺想在梦里见到主人呢。"/>
+			<string name="c14_s4" value="奇诺是个瞌睡虫~嗯嗯嗯~"/>
+			<string name="c14_f1" value "什么？"/>
+			<string name="c14_f2" value="奇诺听不懂在说什么呀！"/>
+			<string name="c14_f3" value "你在说什么呀~"/>
+			<string name="c14_f4" value "嗯？"/>
+			<string name="c15" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c15_s1" value="阿鲁鲁~好困呀~"/>
+			<string name="c15_s2" value="阿鲁~奇诺好困呀~"/>
+			<string name="c15_s3" value "啊，柔软的被子呀。"/>
+			<string name="c15_s4" value "温暖的被窝太棒了呀~阿鲁鲁~"/>
+			<string name="c15_f1" value "啊哈~好舒服呢。"/>
+			<string name="c15_f2" value "奇诺不困呢！"/>
+			<string name="c15_f3" value "奇诺要坐着休息呢！"/>
+			<string name="c15_f4" value "要来一杯凉凉的果汁吗？"/>
+			<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+			<string name="c16_s1" value="奇诺要睡觉了哟~♡"/>
+			<string name="c16_s2" value "要在梦里见到主人呢~阿鲁鲁~"/>
+			<string name="c16_s3" value "盖上暖暖的被子奇诺就...去梦乡啦~"/>
+			<string name="c16_s4" value "奇诺要睡了不要叫醒呀~阿鲁~zzZ"/>
+			<string name="c16_f1" value "呼~好舒服~阿鲁鲁~"/>
+			<string name="c16_f2" value "果然休闲椅最舒服了呀~♪"/>
+			<string name="c16_f3" value "坐在舒适的椅子上喝凉凉的果汁~阿鲁~"/>
+			<string name="c16_f4" value "奇诺不困的嘛~"/>
+			<string name="c17" value="talk | chat | say"/>
+			<string name="c17_s1" value="猜猜奇诺的包里有什么？阿鲁~"/>
+			<string name="c17_s2" value="世界树种子是什么呀？"/>
+			<string name="c17_s3" value="奇诺想在舒适的休闲椅上休息呢~"/>
+			<string name="c17_s4" value="阿鲁！阿鲁鲁！出发去冒险吧~♪"/>
+			<string name="c17_f1" value "♪♪♪"/>
+			<string name="c17_f2" value "不知道不知道！！奇诺不知道那些啦！"/>
+			<string name="c17_f3" value "不要！不要！绝对不要！"/>
+			<string name="c17_f4" value "什么呀？你在说什么呀？奇诺不知道呢~阿鲁鲁"/>
+			<string name="c18" value="talk | chat | say"/>
+			<string name="c18_s1" value="奇诺想跟主人一起出发去冒险呢~♬"/>
+			<string name="c18_s2" value "阿鲁鲁~今天有点累呢。主人怎么样呀？"/>
+			<string name="c18_s3" value "主人怎么那么帅气呀？"/>
+			<string name="c18_s4" value "奇诺好像有一点点饿了呢。"/>
+			<string name="c18_f1" value "奇诺以为主人自己能搞定的呢！"/>
+			<string name="c18_f2" value "你在说什么呀~阿鲁鲁~"/>
+			<string name="c18_f3" value "不知道！不知道！奇诺不知道啦！"/>
+			<string name="c18_f4" value "奇诺不想说话呢~"/>
+			<string name="c19" value="talk | chat | say"/>
+			<string name="c19_s1" value "坐在休闲椅上喝一杯凉凉的果汁呢~"/>
+			<string name="c19_s2" value "阿鲁~阿鲁鲁~奇诺跟主人在一起好~幸福呀♡"/>
+			<string name="c19_s3" value "阿鲁！主人要奇诺讲有趣的故事吗？哈哈那个下次再说~"/>
+			<string name="c19_s4" value "奇诺超级超级喜欢闪闪发光的石头呢♡"/>
+			<string name="c19_f1" value "不要！不要！"/>
+			<string name="c19_f2" value "不做不做！奇诺不说了啦！"/>
+			<string name="c19_f3" value "要说话的话...是奇诺该说的吗？"/>
+			<string name="c19_f4" value "奇诺还是去睡觉吧~"/>
+			<string name="c20" value="iloveyou"/>
+			<string name="c20_s1" value "阿鲁鲁~好害羞呀~"/>
+			<string name="c20_s2" value "阿鲁~奇诺也...喜欢主人...♡"/>
+			<string name="c20_s3" value "真的吗？阿鲁鲁~♡"/>
+			<string name="c20_s4" value "奇诺也~爱你哟~♡"/>
+			<string name="c20_f1" value "略略略~抓不到~"/>
+			<string name="c20_f2" value "这种话不是对谁都说的呀~"/>
+			<string name="c20_f3" value "什么爱不爱的~嗬~~略"/>
+			<string name="c20_f4" value "要表白的话好歹准备一颗闪闪发光的漂亮石头嘛！"/>
+			<string name="c21" value="iloveyou"/>
+			<string name="c21_s1" value "奇诺好幸福呀♡"/>
+			<string name="c21_s2" value "奇诺今天心情超好的呢^^"/>
+			<string name="c21_s3" value "其实奇诺也...喜欢主人呢阿鲁鲁~♡"/>
+			<string name="c21_s4" value="阿鲁鲁~"/>
+			<string name="c21_f1" value "爱？爱是什么呀？"/>
+			<string name="c21_f2" value "你在骗偶的对吧？"/>
+			<string name="c21_f3" value "什么？！认真的吗？"/>
+			<string name="c21_f4" value "你一定是在开玩笑...对吧？"/>
+			<string name="c22" value="iloveyou"/>
+			<string name="c22_s1" value "奇诺的心怦怦跳呢~阿鲁鲁"/>
+			<string name="c22_s2" value "奇诺满脑子都是主人呢！"/>
+			<string name="c22_s3" value "奇诺太激动了不知道怎么办才好呀~"/>
+			<string name="c22_s4" value "主人的话总是那么甜蜜呢。"/>
+			<string name="c22_f1" value "什么爱不爱的~喝杯果汁吧？"/>
+			<string name="c22_f2" value "呼~坐下歇歇吧。"/>
+			<string name="c22_f3" value "果汁还是橙汁最好喝呢~"/>
+			<string name="c22_f4" value "够了啦。偶们还是喝果汁吧。"/>
+			<string name="c23" value="메롱 "/>
+			<string name="c23_s1" value "略略~略略~"/>
+			<string name="c23_s2" value "略！阿鲁鲁~"/>
+			<string name="c23_s3" value "奇诺又可爱~又俏皮地~略~略！"/>
+			<string name="c23_s4" value "抓不到~略略~"/>
+			<string name="c23_f1" value "哼！那是什么意思呀！"/>
+			<string name="c23_f2" value "不要惹奇诺生气呀！"/>
+			<string name="c23_f3" value "奇诺不想做这个呢。"/>
+			<string name="c23_f4" value "阿鲁鲁~今天不想做呢！"/>
+			<string name="c24" value="메롱 "/>
+			<string name="c24_s1" value "略略~略略~"/>
+			<string name="c24_s2" value "略~略~奇诺连略略都很可爱呢！"/>
+			<string name="c24_s3" value "略！抓不到~阿鲁鲁"/>
+			<string name="c24_s4" value "奇诺也很擅长做略略呢！略~略"/>
+			<string name="c24_f1" value "今天有点累呢。"/>
+			<string name="c24_f2" value "哼！那种话奇诺不听呢。"/>
+			<string name="c24_f3" value "先给偶好吃的再让偶做那些嘛~"/>
+			<string name="c24_f4" value "不做！不做！奇诺不略略！"/>
+			<string name="c25" value="메롱 "/>
+			<string name="c25_s1" value "略略~抓不到~略"/>
+			<string name="c25_s2" value "奇诺可爱地~略~略"/>
+			<string name="c25_s3" value "奇诺的撒娇必杀技！略~略"/>
+			<string name="c25_s4" value "略略~阿鲁鲁"/>
+			<string name="c25_f1" value "不做！阿鲁鲁~"/>
+			<string name="c25_f2" value "哼！那种事不是什么时候都能做的呀！"/>
+			<string name="c25_f3" value "现在不做了呢！"/>
+			<string name="c25_f4" value "不要！不要！奇诺不略略！"/>
+			<string name="c26" value="transform"/>
+			<string name="c26_s1" value "阿鲁鲁鲁鲁~铛铛！"/>
+			<string name="c26_s2" value "阿鲁~阿鲁！变！"/>
+			<string name="c26_s3" value "阿鲁鲁~要变身了吗？"/>
+			<string name="c26_s4" value "不要惊讶哟~变！"/>
+			<string name="c26_f1" value "变什么身嘛..."/>
+			<string name="c26_f2" value "今天好累让偶歇歇吧。"/>
+			<string name="c26_f3" value "空口说白话可不行呢~"/>
+			<string name="c26_f4" value "你以为那很容易吗？"/>
+			<string name="c27" value="transform"/>
+			<string name="c27_s1" value "阿鲁鲁鲁~变身！"/>
+			<string name="c27_s2" value "阿鲁鲁鲁~变成僵尸蘑菇！"/>
+			<string name="c27_s3" value "集中所有力量~阿鲁鲁鲁！变身成功！"/>
+			<string name="c27_s4" value "不许偷看哟！阿鲁！"/>
+			<string name="c27_f1" value "变身不能随便做不然就不好玩了呀~"/>
+			<string name="c27_f2" value "那种东西不能随便给别人看的呀！"/>
+			<string name="c27_f3" value "随时都做就没意思了吧？"/>
+			<string name="c27_f4" value "就坐着休息一下怎么样？"/>
+			<string name="f1_s" value "好开心！"/>
+			<string name="f1_f" value "嗯嗯？"/>
+			<string name="f2_s" value "啊呜啊呜！真好吃！！"/>
+			<string name="f2_f" value "咿！好难吃！"/>
+			<string name="f3_s" value "哇！好美味！奇诺好开心！"/>
+			<string name="f3_f" value "呸呸！太难吃了！"/>
+			<string name="f4_s" value "哇呀！好好吃的饭！！阿鲁鲁~"/>
+			<string name="f4_f" value "呸呸，你怎么能给偶这么难吃的东西呀"/>
+			<string name="s1" value="阿鲁鲁！阿鲁鲁！"/>
+			<string name="s2" value="阿鲁！那种话不好呀！"/>
+			<string name="s3" value="不能说坏话呢！"/>
+			<string name="s4" value "主人！那种话很不好的呀！阿鲁鲁！"/>
+	</imgdir>

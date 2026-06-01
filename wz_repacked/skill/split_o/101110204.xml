@@ -1,0 +1,5 @@
+<imgdir name="101110204">
+        <string name="name" value="Advanced Rolling Assault Blade" />
+        <string name="desc" value="Produced by the Advanced Rolling Assault. Travels in a straight line and pierces enemies." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount" />
+    </imgdir>

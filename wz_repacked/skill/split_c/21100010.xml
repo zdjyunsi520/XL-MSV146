@@ -1,0 +1,5 @@
+<imgdir name="21100010">
+        <string name="name" value="最终攻击" />
+        <string name="desc" value="攻击后有概率造成额外伤害。需要装备战矛。\n前置技能：#c战矛精通 Lv. 3#" />
+        <string name="h" value="发动概率：#prop%，伤害：#damage%" />
+    </imgdir>

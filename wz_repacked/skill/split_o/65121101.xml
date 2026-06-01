@@ -1,0 +1,5 @@
+<imgdir name="65121101">
+        <string name="name" value="Trinity" />
+        <string name="desc" value="Condenses Eskalade&apos;s power to attack one enemy continuously. Additionally, the Damage and Ignore DEF ratio is increased." />
+        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Can deal up to 3 hits with additional input afterwards. +#x% Trinity damage on hit and DEF ignore buff stacked up to #y times. Soul Battery skill. Recharge Chance: #onActive%.\n[Passive Effect: Damage: +#damR%, Ignore DEF Ratio: +#ignoreMobpdpR%]" />
+    </imgdir>

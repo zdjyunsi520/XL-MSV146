@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="1100003">
+		<string name="name" value="基里鲁"/>
+		<string name="func" value="车站向导"/>
+		<string name="n0" value="如果你要去维多利亚岛，请告诉我。"/>
+		<string name="n1" value="水流很有利。我们应该能快速航行。"/>
+	</imgdir>
+    <imgdir name="1100004">
+		<string name="name" value="基鲁"/>
+		<string name="func" value="车站向导"/>
+		<string name="n1" value="划够了。我需要休息一下。"/>
+		<string name="n0" value="如果你要去奥比斯，跟我说话。"/>
+	</imgdir>
+    <imgdir name="1100005">
+		<string name="name" value="基里鲁"/>
+		<string name="func" value="船员"/>
+		<string name="n1" value="请不要在船上使用技能。"/>
+		<string name="n0" value="水流很有利。我们应该能快速航行。"/>
+		<string name="d0" value="请不要在船上乱跑或使用技能。如果你掉下去，我们概不负责。现在小心点。"/>
+		<string name="d1" value="请不要在船上乱跑或使用技能。如果你掉下去，我们概不负责。现在小心点。"/>
+	</imgdir>
+    <imgdir name="1100006">
+		<string name="name" value="基鲁"/>
+		<string name="func" value="船员"/>
+		<string name="n1" value="嘿，小心！船在摇晃！"/>
+		<string name="d0" value="飞行时不要移动太多。也不要使用技能。非常危险。"/>
+		<string name="d1" value="飞行时不要移动太多。也不要使用技能。非常危险。"/>
+		<string name="n0" value="如果有人掉下去，我不会负责的。"/>
+	</imgdir>
+    <imgdir name="1100007">
+		<string name="name" value="基里鲁"/>
+		<string name="func" value="车站向导"/>
+		<string name="n0" value="如果你要去艾琳维尔，请告诉我。"/>
+		<string name="n1" value="不知道新苏最近怎么样..."/>
+	</imgdir>
+    <imgdir name="1100008">
+		<string name="name" value="基鲁"/>
+		<string name="func" value="车站向导"/>
+		<string name="n0" value="如果你要去艾琳维尔，跟我说话。"/>
+		<string name="n1" value=" sigh... 我需要有人加入我的船员。"/>
+	</imgdir>
+    <imgdir name="1101000">
+		<string name="name" value="希纳斯"/>
+		<string name="func" value="女皇"/>
+		<string name="d0" value="欢迎来到艾琳维尔。"/>
+		<string name="d1" value="成为勇敢和智慧的骑士，希望有一天你能打败黑魔法师。"/>
+	</imgdir>
+    <imgdir name="1101001">
+		<string name="name" value="新苏"/>
+		<string name="d0" value="(新苏的眼睛闭着，好像睡着了。)"/>
+		<string name="d1" value="女皇的意志就是全世界的意志。"/>
+	</imgdir>
+    <imgdir name="1101002">
+		<string name="name" value="内恩哈特"/>
+		<string name="func" value="战术家"/>
+		<string name="n1" value="骑士们本季度的预算是..."/>
+		<string name="n0" value="无论如何，仔细观察对手的动作。"/>
+		<string name="d0" value="你能为了女皇做必要的事情吗？"/>
+		<string name="d1" value="如果你是希纳斯骑士，那么你有必须履行的职责。"/>
+	</imgdir>
+    <imgdir name="1101003">
+		<string name="name" value="米哈尔"/>
+		<string name="func" value="光之首席骑士"/>
+		<string name="n0" value="我的忠诚属于女皇。"/>
+		<string name="n1" value="永远不要放松警惕！"/>
+		<string name="d1" value="我对女皇的忠诚永远不会动摇。"/>
+		<string name="d0" value="你有兴趣成为黎明勇士，光之骑士吗？"/>
+	</imgdir>
+    <imgdir name="1101008">
+		<string name="func" value="新手向导"/>
+		<string name="name" value="米莫"/>
+	</imgdir>
+    <imgdir name="1102001">
+		<string name="name" value="基里科"/>
+		<string name="func" value="训练馆门卫"/>
+		<string name="d0" value="你是来训练的吗？"/>
+		<string name="n0" value="哎呀！那叮当声肯定会让我睡不着！"/>
+		<string name="n1" value="嗯？你想进去吗？"/>
+		<string name="d1" value="哎呀！那叮当声肯定会让我睡不着！"/>
+	</imgdir>
+    <imgdir name="1102004">
+		<string name="name" value="基姆"/>
+		<string name="func" value="新手向导"/>
+		<string name="n0" value="欢迎来到冒险岛世界！"/>
+		<string name="d0" value="欢迎！这是艾琳维尔，希纳斯女皇统治的浮空岛。这是整个冒险岛世界最安全的地方！"/>
+		<string name="d1" value="欢迎！这是艾琳维尔，希纳斯女皇统治的浮空岛。这是整个冒险岛世界最安全的地方！"/>
+		<string name="n1" value="不知道新苏和女皇过得怎么样。"/>
+	</imgdir>
+    <imgdir name="1102005">
+		<string name="name" value="基赞"/>
+		<string name="func" value="新手向导"/>
+		<string name="n0" value="你想变得强大吗？"/>
+		<string name="n1" value="骑士太酷了！"/>
+		<string name="d0" value="训练是变得强大的唯一途径。"/>
+		<string name="d1" value="最基本的攻击，不消耗任何HP或MP，是使用Ctrl键的普通攻击。"/>
+	</imgdir>
+    <imgdir name="1102006">
+		<string name="name" value="基努"/>
+		<string name="func" value="新手向导"/>
+		<string name="d1" value="当你熟练使用各种技能时，你将成为一名强大的骑士。"/>
+		<string name="n0" value="哦天啊！我不知道有这样的技能..."/>
+		<string name="n1" value="我很想找到更多关于技能的书。"/>
+		<string name="d0" value="虽然普通攻击是必要的，但技能也是必不可少的。"/>
+	</imgdir>
+    <imgdir name="1102007">
+		<string name="name" value="基亚"/>
+		<string name="func" value="新手向导"/>
+		<string name="n1" value="这次我应该做什么样的椅子？"/>
+		<string name="n0" value="嘿嘿...做东西太有趣了！"/>
+		<string name="d0" value="狩猎怪物并拾取它们掉落的东西是获取新物品的方式。"/>
+		<string name="d1" value="你可以用普通攻击从容器中获取物品，但你大部分的物品将通过狩猎获得。"/>
+	</imgdir>
+    <imgdir name="1102008">
+		<string name="name" value="基莎"/>
+		<string name="func" value="新手向导"/>
+		<string name="n0" value="女皇在等待..."/>
+		<string name="n1" value="选择成为骑士的人员名单正在核实中。"/>
+		<string name="d0" value="希纳斯骑士与希纳斯女皇一起保卫冒险岛世界。你从贵族开始，但可以通过训练成为骑士！"/>
+		<string name="d1" value="希纳斯骑士与希纳斯女皇一起保卫冒险岛世界。你从贵族开始，但可以通过训练成为骑士！"/>
+	</imgdir>
+    <imgdir name="1102009">
+		<string name="name" value="内恩哈特"/>
+		<string name="func" value="战术家"/>
+	</imgdir>
+    <imgdir name="1103000">
+		<string name="name" value="杜纳米斯"/>
+		<string name="func" value="骑士中士"/>
+		<string name="n0" value="我们必须追踪黑翼组织。"/>
+		<string name="n1" value="很好...年轻的骑士们正在尽自己的一份力。"/>
+		<string name="d0" value="我们必须时刻保持警惕，以防黑翼组织行动。"/>
+		<string name="d1" value="我们必须时刻保持警惕，以防黑翼组织行动...但过一会儿可能会很无聊。"/>
+	</imgdir>
+    <imgdir name="1103001">
+		<string name="name" value="罗卡"/>
+		<string name="func" value="非可疑人士"/>
+		<string name="n0" value="我不是可疑人物！"/>
+		<string name="n1" value="哈哈哈...这应该足以让我升职了！"/>
+		<string name="d0" value="是的，我正在收集信息，但我发誓，我这样做不是为了伤害任何人！这是为了冒险岛世界的利益...等等，我不应该大声说出来。"/>
+		<string name="d1" value="我总是可以向像你这样的骑士提供有价值的信息。是的，只要内恩哈特允许我这样做。"/>
+	</imgdir>
+</imgdir>

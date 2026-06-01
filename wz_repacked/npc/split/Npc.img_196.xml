@@ -1,0 +1,79 @@
+<imgdir name="Npc.img">
+    <imgdir name="2470013">
+		<string name="name" value="Roly-Poly 3"/>
+	</imgdir>
+    <imgdir name="2470014">
+		<string name="name" value="Roly-Poly 4"/>
+	</imgdir>
+    <imgdir name="2470015">
+		<string name="name" value="Roly-Poly 5"/>
+	</imgdir>
+    <imgdir name="2470016">
+		<string name="name" value="Roly-Poly 6"/>
+	</imgdir>
+    <imgdir name="2470017">
+		<string name="name" value="Tigun the Advisor"/>
+		<string name="d0" value="Welcome to Ludibrium, where children's dreams come true!"/>
+		<string name="d1" value="Welcome to Ludibrium, where children's dreams come true!"/>
+	</imgdir>
+    <imgdir name="2470018">
+		<string name="name" value="Rhinne"/>
+		<string name="func" value="Goddess of Time"/>
+	</imgdir>
+    <imgdir name="2470019">
+		<string name="name" value="Herr &amp; Mera"/>
+	</imgdir>
+    <imgdir name="2470020">
+		<string name="name" value="Hera"/>
+		<string name="d0" value="Ludibrium, the village suspended in time. Its past has stopped."/>
+		<string name="d1" value="Ludibrium, the village suspended in time. Its past has stopped."/>
+		<string name="n0" value="The past has stopped."/>
+		<string name="n1" value="What did the goddess want?"/>
+	</imgdir>
+    <imgdir name="2470021">
+		<string name="name" value="Mera"/>
+		<string name="d0" value="Ludibrium, the village suspended in time. It's waiting for a future that never comes."/>
+		<string name="d1" value="Ludibrium, the village suspended in time. It's waiting for a future that never comes."/>
+		<string name="n0" value="Time runs like a river."/>
+		<string name="n1" value="The endless wait..."/>
+	</imgdir>
+    <imgdir name="2470022">
+		<string name="name" value="Rhinne"/>
+		<string name="func" value="Goddess of Time"/>
+		<string name="d0" value="(This Goddess is beautiful and serene.)"/>
+		<string name="d1" value="(This Goddess is beautiful and serene.)"/>
+	</imgdir>
+    <imgdir name="2470023">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="2470024">
+		<string name="name" value="Will"/>
+	</imgdir>
+    <imgdir name="2470025">
+		<string name="name" value="Mr. Noh"/>
+		<string name="d0" value="Hai"/>
+		<string name="d1" value="Hairung"/>
+		<string name="n0" value="Nandayo"/>
+	</imgdir>
+    <imgdir name="2470026">
+		<string name="name" value="Bung's Mama"/>
+	</imgdir>
+    <imgdir name="2470027">
+		<string name="name" value="Moki"/>
+	</imgdir>
+    <imgdir name="2470028">
+		<string name="name" value="Dori"/>
+	</imgdir>
+    <imgdir name="2470029">
+		<string name="name" value="Chumji"/>
+	</imgdir>
+    <imgdir name="2470030">
+		<string name="name" value="Hongbu"/>
+	</imgdir>
+    <imgdir name="2470031">
+		<string name="name" value="Nolbu"/>
+	</imgdir>
+    <imgdir name="2470032">
+		<string name="name" value="Chil Nam"/>
+	</imgdir>
+</imgdir>

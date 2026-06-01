@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1492020"><string name="name" value="Maple Gun"/></imgdir>
+    <imgdir name="1492021"><string name="name" value="Maple Storm Pistol"/></imgdir>
+    <imgdir name="1492022"><string name="name" value="Maple Cannon Shooter"/></imgdir>
+    <imgdir name="1492023"><string name="name" value="Timeless Blindness"/><string name="h1" value="#cRapid Fire +1 Level\nMetal Armor: Missile Tank +1 Level#"/></imgdir>
+    <imgdir name="1492024"><string name="name" value="Tempest"/><string name="desc" value="\n Can only use exclusive scrolls."/></imgdir>
+    <imgdir name="1492025"><string name="name" value="Reverse Blindness"/><string name="h1" value="#cRapid Fire +1 Level\nMetal Armor: Missile Tank +1 Level#"/></imgdir>
+    <imgdir name="1492026"><string name="name" value="Pink Flower Tube"/></imgdir>
+    <imgdir name="1492030"><string name="name" value="Seraphim Gun"/></imgdir>
+    <imgdir name="1492032"><string name="name" value="Kyrin&apos;s Pistol"/></imgdir>
+    <imgdir name="1492035"><string name="name" value="Balrog&apos;s Infinity"/></imgdir>
+    <imgdir name="1492036"><string name="name" value="Balrog&apos;s The Peacemaker"/></imgdir>
+    <imgdir name="1492037"><string name="name" value="Bain Shooter"/><string name="h1" value="#cHas a 5% chance to deal 120 additional damage every 30 seconds.#\n #cHas a 10% chance to freeze for 5 seconds.#"/></imgdir>
+    <imgdir name="1492038"><string name="name" value="King Pepe Shooting Star"/></imgdir>
+    <imgdir name="1492042"><string name="name" value="Maple Gun"/><string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/></imgdir>
+    <imgdir name="1492043"><string name="name" value="Maple Storm Pistol"/><string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/></imgdir>
+    <imgdir name="1492044"><string name="name" value="Maple Cannon Shooter"/><string name="desc" value="#cInternet Cafe-only item. Disappears after exiting the game.\n#"/></imgdir>
+    <imgdir name="1492048"><string name="name" value="Astaroth Gun"/><string name="desc" value="#cYou can feel Astaroth&apos;s dark energy.#"/></imgdir>
+    <imgdir name="1492053"><string name="name" value="Cold Mind"/></imgdir>
+    <imgdir name="1492054"><string name="name" value="Mr. Rasfelt"/></imgdir>
+    <imgdir name="1492055"><string name="name" value="Burning Hell"/></imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="1311003">
+        <string name="name" value="龙之狂暴" />
+        <string name="desc" value="以大幅度挥舞武器攻击附近的敌人！一次最多命中8个敌人。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="以大幅度挥舞武器攻击附近的敌人！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

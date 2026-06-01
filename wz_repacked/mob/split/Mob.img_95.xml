@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9600007">
+		<string name="name" value="Plow Ox"/>
+	</imgdir>
+    <imgdir name="9600008">
+		<string name="name" value="Black Sheep"/>
+	</imgdir>
+    <imgdir name="9600065">
+		<string name="name" value="Holiday Super Sock"/>
+	</imgdir>
+    <imgdir name="9600066">
+		<string name="name" value="New Year's Party Pouch"/>
+	</imgdir>
+    <imgdir name="9999999">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="9101036">
+		<string name="name" value="Rookie Orange Mushroom"/>
+	</imgdir>
+    <imgdir name="9390000">
+		<string name="name" value="Antoinette"/>
+	</imgdir>
+    <imgdir name="9390001">
+		<string name="name" value="Charlotte"/>
+	</imgdir>
+    <imgdir name="9390002">
+		<string name="name" value="Bourbon"/>
+	</imgdir>
+    <imgdir name="9390003">
+		<string name="name" value="Savage Squid"/>
+	</imgdir>
+    <imgdir name="9390004">
+		<string name="name" value="Savage Risell Squid"/>
+	</imgdir>
+    <imgdir name="9390005">
+		<string name="name" value="Savage Seashell Octopus Slime"/>
+	</imgdir>
+    <imgdir name="9390006">
+		<string name="name" value="Savage Stone Bug"/>
+	</imgdir>
+    <imgdir name="9390007">
+		<string name="name" value="Savage Shark"/>
+	</imgdir>
+    <imgdir name="9390008">
+		<string name="name" value="Savage Cold Shark"/>
+	</imgdir>
+    <imgdir name="9390009">
+		<string name="name" value="Savage Seaman Recruit Ghost"/>
+	</imgdir>
+    <imgdir name="9390010">
+		<string name="name" value="Savage Lieutenant Commander Ghost"/>
+	</imgdir>
+    <imgdir name="9390011">
+		<string name="name" value="Savage Platoon Chronos"/>
+	</imgdir>
+    <imgdir name="9390012">
+		<string name="name" value="Savage Bone Fish"/>
+	</imgdir>
+    <imgdir name="9390013">
+		<string name="name" value="Savage Ghost Pirate"/>
+	</imgdir>
+</imgdir>

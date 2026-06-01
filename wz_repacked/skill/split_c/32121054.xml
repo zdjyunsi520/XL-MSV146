@@ -1,0 +1,5 @@
+<imgdir name="32121054">
+        <string name="name" value="统一光环" />
+        <string name="desc" value="同时释放所有已知光环的力量。" />
+        <string name="h" value="消耗MP：#mpCon，叠加所有已学光环效果，最大伤害值：+#indieMaxDamageOver，黑暗光环和黄色光环的身体强化持续时间：+#x秒。蓝色光环的身体强化持续时间：+#y秒。" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000041">
+			<string name="name" value="马拉迪的实验青蛙"/>
+			<string name="desc" value="装有马拉迪用于各种实验的青蛙的瓶子"/>
+		</imgdir>
+    <imgdir name="4000042">
+			<string name="name" value="蝙蝠翅膀"/>
+			<string name="desc" value="从蝙蝠身上切下的翅膀"/>
+		</imgdir>
+    <imgdir name="4000043">
+			<string name="name" value="洛朗之爪"/>
+			<string name="desc" value="从洛朗身上切下的巨大爪子"/>
+		</imgdir>
+    <imgdir name="4000044">
+			<string name="name" value="克兰之爪"/>
+			<string name="desc" value="从克兰身上切下的巨大爪子"/>
+		</imgdir>
+    <imgdir name="4000045">
+			<string name="name" value="龟壳"/>
+			<string name="desc" value="从乌龟背上切下的壳"/>
+		</imgdir>
+    <imgdir name="4000046">
+			<string name="name" value="陶罗斯皮尔之角"/>
+			<string name="desc" value="陶罗斯皮尔身上非常坚韧沉重的角"/>
+		</imgdir>
+    <imgdir name="4000047">
+			<string name="name" value="鼠标"/>
+			<string name="desc" value="可能从网吧拿来的电脑鼠标"/>
+		</imgdir>
+    <imgdir name="4000048">
+			<string name="name" value="小雪人皮"/>
+			<string name="desc" value="从小雪人身上切下的皮。非常柔软，长满白毛"/>
+		</imgdir>
+    <imgdir name="4000049">
+			<string name="name" value="雪人角"/>
+			<string name="desc" value="从雪人身上切下的角。非常坚固，难以折断"/>
+		</imgdir>
+    <imgdir name="4000050">
+			<string name="name" value="佩佩之喙"/>
+			<string name="desc" value="从佩佩身上切下的喙。坚固且呈金色"/>
+		</imgdir>
+    <imgdir name="4000051">
+			<string name="name" value="赫克托尾巴"/>
+			<string name="desc" value="从赫克托身上切下的尾巴。棕色，有点粗糙"/>
+		</imgdir>
+    <imgdir name="4000052">
+			<string name="name" value="白牙尾巴"/>
+			<string name="desc" value="从白牙身上切下的尾巴。非常柔软的白色毛发"/>
+		</imgdir>
+    <imgdir name="4000053">
+			<string name="name" value="狼人脚趾甲"/>
+			<string name="desc" value="从狼人身上切下的脚趾甲。要小心，因为非常锋利"/>
+		</imgdir>
+    <imgdir name="4000054">
+			<string name="name" value="狼人王脚趾甲"/>
+			<string name="desc" value="从狼人王身上切下的脚趾甲。要小心，不仅锋利，而且几乎坚不可摧"/>
+		</imgdir>
+    <imgdir name="4000055">
+			<string name="name" value="暗黑小雪人皮"/>
+			<string name="desc" value="从暗黑小雪人身上切下的皮。由粗糙的黑色毛发组成"/>
+		</imgdir>
+    <imgdir name="4000056">
+			<string name="name" value="暗黑雪人角"/>
+			<string name="desc" value="从暗黑雪人身上切下的角。非常坚固，难以折断"/>
+		</imgdir>
+    <imgdir name="4000057">
+			<string name="name" value="暗黑佩佩之喙"/>
+			<string name="desc" value="从暗黑佩佩身上切下的喙。坚固且呈黑色"/>
+		</imgdir>
+    <imgdir name="4000058">
+			<string name="name" value="死亡藤蔓种子"/>
+			<string name="desc" value="从死亡藤蔓身上切下的种子。有毒，不能掉以轻心"/>
+		</imgdir>
+    <imgdir name="4000059">
+			<string name="name" value="星星精灵的星片"/>
+			<string name="desc" value="星星精灵掉落的星星碎片。美丽地发光"/>
+		</imgdir>
+    <imgdir name="4000060">
+			<string name="name" value="月亮精灵的月片"/>
+			<string name="desc" value="月亮精灵掉落的月亮碎片。美丽地发光"/>
+		</imgdir>
+</imgdir>

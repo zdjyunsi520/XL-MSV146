@@ -1,0 +1,146 @@
+<imgdir name="Npc.img">
+    <imgdir name="2020003">
+		<string name="name" value="中士Fox"/>
+		<string name="n0" value="啊...我的部下去哪了？！"/>
+		<string name="n1" value="我得快点找到他们。嘿你！能帮我个忙吗？"/>
+		<string name="d0" value="我的所有部下在一次事故中被分散了。我希望他们都平安无事。"/>
+		<string name="d1" value="哦...谢谢你前几天帮我找到了所有部下。从那以后你遇到过他们吗？如果没有，你应该去看看他们。他们可能会请你帮忙。"/>
+	</imgdir>
+    <imgdir name="2020005">
+		<string name="name" value="Alcaster"/>
+		<string name="n0" value="嗯...另一组新数据...我越研究，距离终点似乎越远..."/>
+		<string name="n1" value="我发现了一些非常有趣的东西，但这不是我能一个人研究的..."/>
+		<string name="d0" value="我是术士Alcaster，我在这里研究各种法术和魔法已经300多年了。"/>
+		<string name="d1" value="嘿，你好吗？多亏了你，我现在可以平静地度过余生了。我现在只想研究人生中的事物。"/>
+	</imgdir>
+    <imgdir name="2020006">
+		<string name="name" value="Jade"/>
+		<string name="n0" value="我的一个老朋友突然不见了踪影...不知道她最近怎么样了... "/>
+		<string name="n1" value="最近我一直在镇上调查，发现了一些非常有趣的事实..."/>
+		<string name="d0" value="我一直在研究这个岛的地形，但仍然不知道很多事情。我需要更多数据。总之，我担心我在Orbis的那个突然消失的朋友。不知道她发生了什么事。"/>
+		<string name="d1" value="我不知道Hella在哪里，也不知道她在做什么，但我确信她在那边过得很好。我会在这里好好的，等待再次见到她的那一天。"/>
+	</imgdir>
+    <imgdir name="2020007">
+		<string name="name" value="Scadur"/>
+		<string name="n0" value="嘿，想当年，如果我想的话，我可以干掉一些雪人..."/>
+		<string name="n1" value="最近狩猎不容易了...外面的怪物变得相当凶猛..."/>
+		<string name="d0" value="最近怪物变得更加凶猛了。已经到了我担心在外面被杀的程度。我以前每天都能猎杀不少雪人，但那些日子已经一去不复返了。我老了。"/>
+		<string name="d1" value="最近怪物变得更加凶猛了。已经到了我担心在外面被杀的程度。我以前每天都能猎杀不少雪人，但那些日子已经一去不复返了。我老了。"/>
+	</imgdir>
+    <imgdir name="2020008">
+		<string name="name" value="Tylus"/>
+		<string name="func" value="三转 - 战士导师"/>
+		<string name="n1" value="这是神圣的土地，所以尽量保持冷静。"/>
+		<string name="d0" value="只有最强者才配得上进阶和转职。"/>
+		<string name="d1" value="我简直能感觉到你身上散发出的力量。"/>
+		<string name="n0" value="你想成为比以往更强大的战士吗？"/>
+	</imgdir>
+    <imgdir name="2020009">
+		<string name="name" value="Robeira"/>
+		<string name="func" value="三转 - 魔法师导师"/>
+		<string name="n1" value="有人能通过我的测试吗...?"/>
+		<string name="d0" value="只有那些追求进一步探索真理的人才配得上转职。"/>
+		<string name="d1" value="仅凭看你的眼睛，我就能感受到你对真理的渴望。"/>
+		<string name="n0" value="你想成为世界上最优秀的魔法师，就得来找我。"/>
+	</imgdir>
+    <imgdir name="2020010">
+		<string name="name" value="Rene"/>
+		<string name="func" value="三转 - 弓箭手导师"/>
+		<string name="n1" value="请保持安静，这样我们才能集中精力工作。"/>
+		<string name="d0" value="只有那些拥有洞察真理之眼的人才配得上转职。"/>
+		<string name="d1" value="我能从你的眼睛中看出你的技艺。"/>
+		<string name="n0" value="弓箭手的道路漫长而险恶。"/>
+	</imgdir>
+    <imgdir name="2020011">
+		<string name="name" value="Arec"/>
+		<string name="func" value="三转 - 飞侠导师"/>
+		<string name="n1" value="请尽量不要在这里发出任何噪音。"/>
+		<string name="d0" value="只有那些追求深入黑暗的人才配得上转职。"/>
+		<string name="d1" value="我能清晰地看到你内心的黑暗。"/>
+		<string name="n0" value="你想成为强大的飞侠？那你就找对人了。"/>
+	</imgdir>
+    <imgdir name="2020012">
+		<string name="name" value="雪人雕像的灵魂"/>
+		<string name="d0" value="（一个破损的雕像。尖锐的冰块到处突出，残留的部分勉强能看出是个结构。）"/>
+		<string name="d1" value="（一个破损的雕像。它曾被修复过一次，但又被人打碎了。）"/>
+	</imgdir>
+    <imgdir name="2020013">
+		<string name="name" value="Pedro"/>
+		<string name="func" value="三转 - 海盗导师"/>
+		<string name="n1" value="请保持安静。这是神圣的地方。"/>
+		<string name="d0" value="只有那些将手伸入最深黑暗的人才有资格转职。"/>
+		<string name="d1" value="我能看到你内心的黑暗。"/>
+		<string name="n0" value="如果你是想获得惊人力量的海盗，来找我。"/>
+	</imgdir>
+    <imgdir name="2022000">
+		<string name="name" value="Rumi"/>
+		<string name="func" value="防具商"/>
+		<string name="n0" value="我亲自欢迎你来到El Nath...为此，看看我的防具怎么样？"/>
+		<string name="n1" value="没有防具，你可能会在对付怪物时遇到麻烦。四处看看，看看你喜欢哪个。"/>
+	</imgdir>
+    <imgdir name="2022001">
+		<string name="name" value="Hana"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="你好！我是Hana，这个镇的炼金术士。看看有什么你喜欢的。"/>
+		<string name="n1" value="欢迎！不管你的旅程需要什么，我这里都有。"/>
+	</imgdir>
+    <imgdir name="2022004">
+		<string name="name" value="Tylus"/>
+		<string name="s0" value="谢谢你保护我。"/>
+		<string name="s1" value="我就知道可以依靠像你这样的人。"/>
+		<string name="n0" value="从红色扎昆到狼人...我很担忧这些怪物越来越强大。"/>
+		<string name="n1" value="知道有人愿意与这些怪物战斗，我感到很欣慰。"/>
+	</imgdir>
+    <imgdir name="2022003">
+		<string name="name" value="Shammos"/>
+		<string name="s0" value="哈 har..."/>
+		<string name="s1" value="不久之后...我就能逃离这个黑暗的地方..."/>
+		<string name="d0" value="我必须聚集我的力量！"/>
+		<string name="d1" value="一切都在按计划进行..."/>
+		<string name="g0" value="我将使用秘密通道到达峡谷。你们为什么不走冰之谷呢？"/>
+	</imgdir>
+    <imgdir name="2030000">
+		<string name="name" value="Jeff"/>
+		<string name="func" value="地下城指南"/>
+		<string name="n0" value="别想进入这里...这不是任何人都能大步走进的地方..."/>
+		<string name="n1" value="只有最强者才能进入这里...如果你想进去，跟我说"/>
+	</imgdir>
+    <imgdir name="2030001">
+		<string name="name" value="中士Bravo"/>
+		<string name="n0" value="我在哪里？Fox中士在哪里？"/>
+		<string name="n1" value="啊哈...这里好冷，但我不会停下！"/>
+		<string name="d0" value="这里好冷！我是#b#p2030001##k，阿尔法排的成员。我们在飞行途中发生事故，在这里紧急降落，但我找不到其他人。不过我很有信心他们都还好。"/>
+		<string name="d1" value="你把#b#t4031049##k交给#b#p2020003##k了吗？我需要什么吗？嗯，现在不需要。但之后来找我，好吗？"/>
+	</imgdir>
+    <imgdir name="2030002">
+		<string name="name" value="下士Easy"/>
+		<string name="n0" value="中士和上士去哪了？"/>
+		<string name="n1" value="嗯...我不认为这是我应该降落的地方..."/>
+		<string name="d0" value="这是个奇怪的地方。看起来像座废弃的塔。哦，我是#b#p2030002##k，阿尔法排的成员。我们在飞行途中发生事故，在这里紧急降落，但我找不到其他人。不过我很有信心他们都还好。"/>
+		<string name="d1" value="这是个奇怪的地方。看起来像座废弃的塔。哦，我是#b#p2030002##k，阿尔法排的成员。我们在飞行途中发生事故，在这里紧急降落，但我找不到其他人。不过我很有信心他们都还好。"/>
+	</imgdir>
+    <imgdir name="2030008">
+		<string name="name" value="Adobis"/>
+		<string name="n0" value="这曾经是一个和平的小镇，直到有一天怪物开始到处都是。"/>
+		<string name="n1" value="在扎昆地下城最深处，沉睡着最强的敌人。"/>
+		<string name="n2" value="有人想接扎昆任务吗？"/>
+	</imgdir>
+    <imgdir name="2041015">
+		<string name="name" value="Korin"/>
+		<string name="n0" value="...嗯..."/>
+		<string name="f0" value="我觉得我见证了一些不可思议的事情。"/>
+		<string name="f1" value="...我不记得...过去几个月...我失踪了..."/>
+		<string name="f2" value="我一直在试图回忆，但很难。"/>
+		<string name="f3" value="有什么可怕的事发生在我身上吗？"/>
+		<string name="w0" value="每当我想到那一天...我就会被恐惧席卷，泪水开始涌出。"/>
+		<string name="w1" value="请...有人能帮我恢复失去的记忆吗。"/>
+		<string name="d0" value="嗯...我不认为我们见过面。你在我家做什么？如果你没什么要说的，那就请离开吧。"/>
+		<string name="d1" value="你是帮我找回失去记忆的人。我非常感谢你的努力。最近我一直在努力过正常的生活。"/>
+	</imgdir>
+    <imgdir name="2041016">
+		<string name="name" value="Vega"/>
+		<string name="func" value="卷轴商"/>
+		<string name="n0" value="我承认，我偶尔会在制作卷轴时失败，但那是少数情况！"/>
+		<string name="n1" value="我制作这些卷轴时犯过一些错误，但别担心，我很擅长这个！"/>
+	</imgdir>
+</imgdir>

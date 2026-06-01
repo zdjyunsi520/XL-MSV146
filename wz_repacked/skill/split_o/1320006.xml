@@ -1,0 +1,7 @@
+<imgdir name="1320006">
+        <string name="name" value="Berserk" />
+        <string name="desc" value="When your HP drops past a set amount, the dormant spirit within you awakens to increase your damage, movement speed, Critical Rate, and Minimum Critical Damage" />
+        <string name="h" value="HP Threshold: #x%, Damage: +#damage%, Movement Speed: +#psdSpeed, Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+        <string name="pdesc" value="When your HP drops past a set amount, the dormant spirit within you awakens to increase your damage, movement speed, Critical Rate, and Minimum Critical Damage" />
+        <string name="ph" value="Damage: +#damage%, Movement Speed: +#psdSpeed, Critical Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

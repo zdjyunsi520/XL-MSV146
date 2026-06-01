@@ -1,0 +1,5 @@
+<imgdir name="112111009">
+        <string name="name" value="鸟瞰视野" />
+        <string name="desc" value="艾卡利用锐利的视力提升附近队员的暴击率、物理防御力、魔法防御力、命中值和回避值。" />
+        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒，暴击率: +#indieCr%，物理防御力: +#epdd，魔法防御力: +#emdd，命中值: +#acc，回避值: +#eva" />
+    </imgdir>

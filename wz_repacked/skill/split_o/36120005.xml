@@ -1,0 +1,5 @@
+<imgdir name="36120005">
+        <string name="name" value="Instant Shock" />
+        <string name="desc" value="Grants an additional evasion chance. Also increases the attack power of Aegis System missiles.\n[Required Skill]: #cLv. 10 Aegis System#" />
+        <string name="h" value="Additional evasion chance: #prop%, Aegis System Missile Damage: +#damR%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="41111003">
+        <string name="name" value="旋风斩" />
+        <string name="desc" value="拔刀术第三奥义。化为死亡旋风向前冲锋。在升龙斩后使用可将敌人击飞到空中。\n前置技能：#c断空斩15级以上#" />
+        <string name="h" value="主动效果：消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，与升龙斩组合时暴击率：100%\n被动效果：升龙斩、断空斩伤害：+#damR%	" />
+    </imgdir>

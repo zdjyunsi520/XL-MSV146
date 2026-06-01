@@ -1,0 +1,138 @@
+<imgdir name="Npc.img">
+    <imgdir name="1500001">
+		<string name="name" value="Headmistress Ivana"/>
+		<string name="n0" value="My students are my top priority."/>
+		<string name="n1" value="The pupils here will become the future leaders of our people."/>
+		<string name="d0" value="The Ellinel Fairy Academy is dedicated to educating fairies in the traditional fashion."/>
+		<string name="d1" value="The Ellinel Fairy Academy is dedicated to educating fairies in the traditional fashion."/>
+	</imgdir>
+    <imgdir name="1500002">
+		<string name="name" value="Faculty Head Kalayan"/>
+		<string name="n0" value="Outsiders can never be trusted."/>
+		<string name="n1" value="As long as the students are safe."/>
+		<string name="d0" value="Yes, I am Faculty Head Kalayan"/>
+		<string name="d1" value="Yes, I am Faculty Head Kalayan"/>
+	</imgdir>
+    <imgdir name="1500003">
+		<string name="name" value="Woonie the Fairy"/>
+		<string name="n0" value="Ellinel is my home away from home..."/>
+		<string name="n1" value="Let's go play!"/>
+		<string name="d0" value="I'm Woonie."/>
+		<string name="d1" value="I'm Woonie."/>
+	</imgdir>
+    <imgdir name="1500004">
+		<string name="name" value="Tosh the Fairy"/>
+		<string name="n0" value="Do you know any stories about heroes?"/>
+		<string name="n1" value="Thanks for rescuing me!"/>
+		<string name="d0" value="Tosh is my name!"/>
+		<string name="d1" value="Tosh is my name!"/>
+	</imgdir>
+    <imgdir name="1500005">
+		<string name="name" value="Tracy the Fairy"/>
+		<string name="n0" value="I'm too popular for my own good!"/>
+		<string name="n1" value="So cooool!"/>
+		<string name="d0" value="My name is Tracy."/>
+		<string name="d1" value="My name is Tracy."/>
+	</imgdir>
+    <imgdir name="1500006">
+		<string name="name" value="Ephony the Fairy"/>
+		<string name="n0" value="The show must go on!"/>
+		<string name="n1" value="The vice principle's lectures are boring."/>
+		<string name="d0" value="My name is Ephony."/>
+		<string name="d1" value="My name is Ephony."/>
+	</imgdir>
+    <imgdir name="1500007">
+		<string name="name" value="Phiny the Fairy"/>
+		<string name="n0" value="I've learned that adventures should be done in moderation."/>
+		<string name="n1" value="Thank you for the rescue."/>
+		<string name="d0" value="I'm Phiny!"/>
+		<string name="d1" value="I'm Phiny!"/>
+	</imgdir>
+    <imgdir name="1500008">
+		<string name="name" value="Arwen the Fairy"/>
+		<string name="n0" value="It brings back memories to be back here, away from the humans."/>
+		<string name="n1" value="Ellinel is the closest thing we fairies have to home."/>
+	</imgdir>
+    <imgdir name="1500009">
+		<string name="name" value="Rowen the Fairy"/>
+		<string name="n0" value="I'm a graduate of the Fairy Academy too."/>
+		<string name="n1" value="I can't believe how exactly the same all the teachers are!"/>
+	</imgdir>
+    <imgdir name="1500010">
+		<string name="name" value="Fanzy"/>
+		<string name="n0" value="Meow"/>
+		<string name="n1" value="Meooooow"/>
+		<string name="d0" value="Meooooow"/>
+		<string name="d1" value="Meooooow"/>
+	</imgdir>
+    <imgdir name="1500011">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="There has to be a clue somewhere, chum!"/>
+		<string name="n1" value="I am going to be a fairy hero!"/>
+		<string name="d0" value="Those precious fairies are in danger!"/>
+		<string name="d1" value="Those precious fairies are in danger!"/>
+	</imgdir>
+    <imgdir name="1500012">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="There has to be a clue somewhere, chum!"/>
+		<string name="n1" value="I am going to be a fairy hero!"/>
+		<string name="d0" value="Those precious fairies are in danger!"/>
+		<string name="d1" value="Those precious fairies are in danger!"/>
+	</imgdir>
+    <imgdir name="1500013">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="Uh... you just take care of all the fighting..."/>
+		<string name="n1" value="With our combined powers, those kids are as good as saved!"/>
+		<string name="d0" value="Those precious fairies are in danger!"/>
+		<string name="d1" value="Those precious fairies are in danger!"/>
+	</imgdir>
+    <imgdir name="1500014">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="Uh... you just take care of all the fighting..."/>
+		<string name="n1" value="With our combined powers, those kids are as good as saved!"/>
+		<string name="d0" value="Those precious fairies are in danger!"/>
+		<string name="d1" value="Those precious fairies are in danger!"/>
+	</imgdir>
+    <imgdir name="1500015">
+		<string name="name" value="Cootie the Really Small"/>
+		<string name="n0" value="Uh... you just take care of all the fighting..."/>
+		<string name="n1" value="With our combined powers, those kids are as good as saved!"/>
+		<string name="d0" value="I think it is almost done."/>
+		<string name="d1" value="I think it is almost done."/>
+	</imgdir>
+    <imgdir name="1500016">
+		<string name="name" value="Woonie the Fairy"/>
+		<string name="n0" value="I'm so scared!"/>
+		<string name="n1" value="I want to go home..."/>
+		<string name="d0" value="I'm Woonie."/>
+		<string name="d1" value="I'm Woonie."/>
+	</imgdir>
+    <imgdir name="1500017">
+		<string name="name" value="Tosh the Fairy"/>
+		<string name="n0" value="Sob...sob..."/>
+		<string name="n1" value="Help me.. Sob..."/>
+		<string name="d0" value="Tosh is my name!"/>
+		<string name="d1" value="Tosh is my name!"/>
+	</imgdir>
+    <imgdir name="1500018">
+		<string name="name" value="Tracy the Fairy"/>
+		<string name="n0" value="Sob... No... That's enough now..."/>
+		<string name="n1" value="Sorry... I won't..."/>
+		<string name="d0" value="My name is Tracy."/>
+		<string name="d1" value="My name is Tracy."/>
+	</imgdir>
+    <imgdir name="1500019">
+		<string name="name" value="Ephony the Fairy"/>
+		<string name="n0" value="I will not be scared... I will not be scared..."/>
+		<string name="n1" value="Ack!"/>
+		<string name="d0" value="My name is Ephony."/>
+		<string name="d1" value="My name is Ephony."/>
+	</imgdir>
+    <imgdir name="1500020">
+		<string name="name" value="Phiny the Fairy"/>
+		<string name="n0" value="I knew I should have stayed inside!"/>
+		<string name="n1" value="I'm scared!"/>
+		<string name="d0" value="I'm Phiny!"/>
+		<string name="d1" value="I'm Phiny!"/>
+	</imgdir>
+</imgdir>

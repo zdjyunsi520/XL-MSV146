@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="405">
+				<string name="title" value="5. 伪装大师" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="根据你最新的线索，你终于觉得自己在拼凑这个谜题的碎片。" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="Sugar、Tess、Rondo和Olive在冰封雪域水晶通道与你汇合，一起追踪伪装大师。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="在那里，Rondo无意中听到一些黑翼人说他们的首领们正在收集封印石，虽然他们不确定原因。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="在Sugar的帮助下，你成功击败了伪装大师！你这次亲自把封印石交还给了雅典娜·皮尔斯。" />
+					</imgdir>
+					<imgdir name="4">
+						<string name="text" value="一切最终都解决了，但疑问仍然挥之不去。" />
+					</imgdir>
+					<imgdir name="5">
+						<string name="text" value="封印石到底是什么？黑翼人的最终目标是什么？" />
+					</imgdir>
+					<imgdir name="6">
+						<string name="text" value="最重要的是，黑魔法师是否直接参与其中？" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

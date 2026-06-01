@@ -1,0 +1,5 @@
+<imgdir name="27001005">
+        <string name="name" value="Magic Theft" />
+        <string name="pdesc" value="Your attack makes enemies vulnerable to Magic attacks, increasing all magical damage while they are debuffed." />
+        <string name="ph" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
+    </imgdir>

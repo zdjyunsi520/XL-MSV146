@@ -1,0 +1,7 @@
+<imgdir name="4200010">
+        <string name="name" value="Shield Mastery" />
+        <string name="desc" value="Increases Weapon Defense, Magic Defense, Avoidability, and Weapon ATT when a shield is equipped." />
+        <string name="h" value="When shield is equipped - Weapon/Magic DEF: +#x%, Avoidability: +#er%, Weapon ATT: + #y" />
+        <string name="pdesc" value="Increases Weapon Defense, Magic Defense, Avoidability when a shield is equipped." />
+        <string name="ph" value="Weapon/Magic DEF: +#x%, Avoidability: +#er%" />
+    </imgdir>

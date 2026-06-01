@@ -1,0 +1,5 @@
+<imgdir name="70000042">
+        <string name="name" value="魔防转伤害" />
+        <string name="desc" value="按魔法防御的比例提升最终伤害。" />
+        <string name="h" value="#mdd2dam% of Magic DEF added as additional damage" />
+    </imgdir>

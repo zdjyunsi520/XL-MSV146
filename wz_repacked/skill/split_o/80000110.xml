@@ -1,0 +1,5 @@
+<imgdir name="80000110">
+        <string name="name" value="Rhinne&apos;s Blessing" />
+        <string name="desc" value="[Link Skill] Receive the Goddess Rinne’s blessings, reducing the damage taken from enemies while ignoring a portion of their defense. \n#cStrengthen this skill by collecting Goddess Teardrops.#" />
+        <string name="h" value="Incoming damage reduced: #damAbsorbShieldR%, defense ignored: #ignoreMobpdpR%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3992028">
+		<string name="name" value="Blue Candle"/>
+		<string name="desc" value="A blue candle for the tree."/>
+	</imgdir>
+    <imgdir name="3992029">
+		<string name="name" value="Yellow Candle"/>
+		<string name="desc" value="A yellow candle for the tree."/>
+	</imgdir>
+    <imgdir name="3992030">
+		<string name="name" value="Red Candy Canes"/>
+		<string name="desc" value="Red candy canes for the tree."/>
+	</imgdir>
+    <imgdir name="3992031">
+		<string name="name" value="Blue Candy Canes"/>
+		<string name="desc" value="Blue candy canes for the tree."/>
+	</imgdir>
+    <imgdir name="3992032">
+		<string name="name" value="Yellow Candy Canes"/>
+		<string name="desc" value="Yellow candy canes for the tree."/>
+	</imgdir>
+    <imgdir name="3992033">
+		<string name="name" value="Red Fruit Leaves"/>
+		<string name="desc" value="Red fruit leaves for the tree."/>
+	</imgdir>
+    <imgdir name="3992034">
+		<string name="name" value="Yellow Fruit Leaves"/>
+		<string name="desc" value="Yellow fruit leaves for the tree."/>
+	</imgdir>
+    <imgdir name="3992035">
+		<string name="name" value="Red-Ribboned Giftbox"/>
+		<string name="desc" value="A red-ribboned giftbox for the tree."/>
+	</imgdir>
+    <imgdir name="3992036">
+		<string name="name" value="Blue-Ribboned Giftbox"/>
+		<string name="desc" value="A blue-ribboned giftbox for the tree."/>
+	</imgdir>
+    <imgdir name="3992037">
+		<string name="name" value="Yellow-Ribboned Giftbox"/>
+		<string name="desc" value="A yellow-ribboned giftbox for the tree."/>
+	</imgdir>
+    <imgdir name="3992038">
+		<string name="name" value="Ruldolph Santa Boots"/>
+		<string name="desc" value="A Rudolph Santa Boots for the tree."/>
+	</imgdir>
+    <imgdir name="3992039">
+		<string name="name" value="Marker of Heroism"/>
+		<string name="desc" value="A small figurine embedded with a gem that emanates heroism.  This item allows you to activate and use the Heroic Statues in the Valley of Heroes."/>
+	</imgdir>
+    <imgdir name="3992040">
+		<string name="name" value="Map of Phantom Forest"/>
+		<string name="desc" value="This map marks the hidden paths of Phantom Forest, which  are now open to you."/>
+	</imgdir>
+    <imgdir name="3992041">
+		<string name="name" value="Crimsonwood Keystone"/>
+		<string name="desc" value="A magical stone that unlocks the gates to the Inner Sanctum of Crimsonwood Keep. "/>
+	</imgdir>
+    <imgdir name="3993000">
+		<string name="name" value="Lucky Dish"/>
+		<string name="desc" value="A pair of luck dish out of bamboos. Common in Korean culture"/>
+	</imgdir>
+    <imgdir name="3993001">
+		<string name="name" value="Luck Sack"/>
+		<string name="desc" value="A red luck sack common in Korean culture."/>
+	</imgdir>
+    <imgdir name="3993002">
+		<string name="name" value="Bamboo Luck Sack"/>
+		<string name="desc" value="A pair of luck sack made of bamboo."/>
+	</imgdir>
+    <imgdir name="3993003">
+		<string name="name" value="Red Luck Sack"/>
+		<string name="desc" value="A red luck sack with 'luck' written on it."/>
+	</imgdir>
+    <imgdir name="3994000">
+		<string name="name" value="Alphabet Soup Pasta &quot;A&quot;"/>
+		<string name="desc" value="An alphabet &quot;A&quot; made out of pasta. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+    <imgdir name="3994001">
+		<string name="name" value="Alphabet Soup Pasta &quot;E&quot;"/>
+		<string name="desc" value="An alphabet &quot;E&quot; made out of pasta. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+</imgdir>

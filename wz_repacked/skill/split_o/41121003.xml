@@ -1,0 +1,5 @@
+<imgdir name="41121003">
+        <string name="name" value="Iron Skin" />
+        <string name="desc" value="Temporarily increases Abnormal Status Resistance and Elemental Resistances." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time Sec, Abnormal Status Resistance: +#x%, Elemental Resistance: +#y%" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="4211004">
+        <string name="name" value="盗贼团" />
+        <string name="desc" value="召唤同伴攻击附近的多个怪物！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="召唤同伴攻击附近的多个怪物！" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="24121010">
+        <string name="name" value="半影突袭" />
+        <string name="desc" value="半影突袭的追加攻击" />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+        <string name="pdesc" value="半影突袭的追加攻击" />
+        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+    </imgdir>

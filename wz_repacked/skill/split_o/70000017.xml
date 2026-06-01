@@ -1,0 +1,5 @@
+<imgdir name="70000017">
+        <string name="name" value="Weapon DEF to Magic DEF Conversion" />
+        <string name="desc" value="Increases Magic DEF in proportion to Weapon DEF." />
+        <string name="h" value="#pdd2mdd% of Weapon DEF added to Magic DEF" />
+    </imgdir>

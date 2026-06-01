@@ -1,0 +1,5 @@
+<imgdir name="1110009">
+        <string name="name" value="Chance Attack" />
+        <string name="desc" value="Deals greater damage when attacking enemies that are stunned, blinded, or frozen." />
+        <string name="h" value="Damage (to stunned, blinded, frozen enemies): #damage%" />
+    </imgdir>

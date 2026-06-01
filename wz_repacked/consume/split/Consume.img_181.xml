@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2240008">
+		<string name="name" value="Ring of Shining Star: 2 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Star Rock and 2 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240009">
+		<string name="name" value="Ring of Shining Star: 3 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Star Rock and 3 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240010">
+		<string name="name" value="Gold Heart Ring"/>
+		<string name="desc" value="An engagement ring crafted out of Gold and Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240011">
+		<string name="name" value="Gold Heart Ring: 2 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Gold and 2 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240012">
+		<string name="name" value="Gold Heart Ring: 3 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Gold and 3 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240013">
+		<string name="name" value="Ring of Silver Wing"/>
+		<string name="desc" value="An engagement ring crafted out of Silver and Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240014">
+		<string name="name" value="Ring of Silver Wing: 2 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Silver and 2 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240015">
+		<string name="name" value="Ring of Silver Wing: 3 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Silver and 3 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2260000">
+		<string name="name" value="Revitalizer"/>
+		<string name="desc" value="Restores tamed monster's fatigue level by 30."/>
+	</imgdir>
+    <imgdir name="2270000">
+		<string name="name" value="Pheromone Perfume"/>
+		<string name="desc" value="Pheremone perfume created by Kenta. Use it to tame a Wild Pig at Korean Folk Town."/>
+	</imgdir>
+    <imgdir name="2270001">
+		<string name="name" value="Pouch"/>
+		<string name="desc" value="A pouch with a jewel on the surface. Possesses a special power in that double-clicking the pouch will suck up the surrounding ghosts in the area."/>
+	</imgdir>
+    <imgdir name="2270002">
+		<string name="name" value="Element Rock"/>
+		<string name="desc" value="A special alchemist tool that converts an absorbed power of monster into a jewel. The inner part seems to be slightly transparent."/>
+	</imgdir>
+    <imgdir name="2270003">
+		<string name="name" value="Cliff's Magic Cane"/>
+		<string name="desc" value="Cliff's magic cane. Can be used to tame a Lost Rudolph."/>
+	</imgdir>
+    <imgdir name="2270004">
+		<string name="name" value="Purification Marble"/>
+		<string name="desc" value="It's a special magic marble that can contain and purify a monster."/>
+	</imgdir>
+    <imgdir name="2270005">
+		<string name="name" value="Arec's Calabash"/>
+		<string name="desc" value="The calabash Arec gave you along with the mission. When the King Sage Cat's HP is below 30%, double-click the calabash to seal the King Sage Cat inside."/>
+	</imgdir>
+    <imgdir name="2270006">
+		<string name="name" value="OSSS Camera"/>
+		<string name="desc" value="Can be used near aliens to take photos of them."/>
+	</imgdir>
+    <imgdir name="2270007">
+		<string name="name" value="3rd Transparent Marble"/>
+		<string name="desc" value="A special magic marble that can contain a poisoned monster on the 3rd floor."/>
+	</imgdir>
+    <imgdir name="2270008">
+		<string name="name" value="Fish Net"/>
+		<string name="desc" value="A fish net intended to catch something. Can be used with Gaga."/>
+	</imgdir>
+    <imgdir name="2270009">
+		<string name="name" value="Red Ribbon Pig"/>
+		<string name="desc" value="A red ribbon that helps catch Maze Pig."/>
+	</imgdir>
+    <imgdir name="2270010">
+		<string name="name" value="Green Ribbon Pig"/>
+		<string name="desc" value="A green ribbon that helps catch Maze Pig."/>
+	</imgdir>
+</imgdir>

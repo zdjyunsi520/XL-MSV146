@@ -1,0 +1,77 @@
+<imgdir name="Consume.img">
+    <imgdir name="2101144">
+		<string name="name" value="神秘之地副本召唤袋5"/>
+	</imgdir>
+    <imgdir name="2101145">
+		<string name="name" value="神秘之地副本召唤袋6"/>
+	</imgdir>
+    <imgdir name="2101146">
+		<string name="name" value="神秘之地副本召唤袋7"/>
+	</imgdir>
+    <imgdir name="2101147">
+		<string name="name" value="神秘之地副本召唤袋8"/>
+	</imgdir>
+    <imgdir name="2101148">
+		<string name="name" value="神秘之地副本召唤袋9"/>
+	</imgdir>
+    <imgdir name="2101158">
+		<string name="name" value="大泡爹袋"/>
+		<string name="desc" value="一个装满大泡爹的袋子"/>
+	</imgdir>
+    <imgdir name="2101200">
+		<string name="name" value="GM活动_龙头左头"/>
+		<string name="desc" value="GM活动_龙头左头"/>
+	</imgdir>
+    <imgdir name="2101201">
+		<string name="name" value="GM活动_龙头右头"/>
+		<string name="desc" value="GM活动_龙头右头"/>
+	</imgdir>
+    <imgdir name="2101202">
+		<string name="name" value="GM活动_粉豆"/>
+		<string name="desc" value="GM活动_粉豆"/>
+	</imgdir>
+    <imgdir name="2101203">
+		<string name="name" value="可疑黑色袋子"/>
+		<string name="desc" value="卡桑德拉作为礼物送给你的袋子。上面有一张纸条写着&quot;与朋友一起打开&quot;。"/>
+	</imgdir>
+    <imgdir name="2101204">
+		<string name="name" value="奥利维亚（30）怪物袋"/>
+		<string name="desc" value="装有30级奥利维亚的袋子。"/>
+	</imgdir>
+    <imgdir name="2101205">
+		<string name="name" value="奥利维亚（50）怪物袋"/>
+		<string name="desc" value="装有50级奥利维亚的袋子。"/>
+	</imgdir>
+    <imgdir name="2101206">
+		<string name="name" value="奥利维亚（70）怪物袋"/>
+		<string name="desc" value="装有70级奥利维亚的袋子。"/>
+	</imgdir>
+    <imgdir name="2101207">
+		<string name="name" value="寄生虫召唤袋"/>
+		<string name="desc" value="召唤寄生虫"/>
+	</imgdir>
+    <imgdir name="2101208">
+		<string name="name" value="安德拉斯的召唤袋"/>
+		<string name="desc" value="召唤安德拉斯"/>
+	</imgdir>
+    <imgdir name="2101209">
+		<string name="name" value="马尔巴斯召唤袋"/>
+		<string name="desc" value="召唤马尔巴斯"/>
+	</imgdir>
+    <imgdir name="2101210">
+		<string name="name" value="阿姆杜西亚斯召唤袋"/>
+		<string name="desc" value="召唤阿姆杜西亚斯"/>
+	</imgdir>
+    <imgdir name="2101211">
+		<string name="name" value="瓦莱福召唤袋"/>
+		<string name="desc" value="召唤瓦莱福"/>
+	</imgdir>
+    <imgdir name="2101212">
+		<string name="name" value="克罗塞尔召唤袋"/>
+		<string name="desc" value="召唤克罗塞尔"/>
+	</imgdir>
+    <imgdir name="2101213">
+		<string name="name" value="阿斯塔罗斯召唤袋"/>
+		<string name="desc" value="召唤阿斯塔罗斯"/>
+	</imgdir>
+</imgdir>

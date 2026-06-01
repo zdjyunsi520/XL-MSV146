@@ -1,0 +1,80 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159410">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159411">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159412">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159413">
+		<string name="name" value=""/>
+	</imgdir>
+    <imgdir name="2159414">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159415">
+		<string name="name" value="熟悉的吊坠"/>
+	</imgdir>
+    <imgdir name="2159416">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="2159417">
+		<string name="name" value="贝丽尔"/>
+		<string name="d0" value="你好像已经习惯我跟着你了。"/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2159418">
+		<string name="name" value="贝丽尔"/>
+		<string name="d0" value="..."/>
+	</imgdir>
+    <imgdir name="2159419">
+		<string name="name" value="爆炸屏障"/>
+	</imgdir>
+    <imgdir name="2159420">
+		<string name="name" value="炼金术实验室"/>
+	</imgdir>
+    <imgdir name="2159421">
+		<string name="name" value="斯蒂芬"/>
+		<string name="func" value="黑翼守卫"/>
+		<string name="n0" value="哼！"/>
+		<string name="n1" value="不要用琐碎的事情打扰我！"/>
+		<string name="d0" value="钱很重要！这就是我为黑翼工作的原因。其他原因？没有，没有。"/>
+		<string name="d1" value="钱很重要！这就是我为黑翼工作的原因。其他原因？没有，没有。"/>
+	</imgdir>
+    <imgdir name="2159422">
+		<string name="name" value="守卫机器人"/>
+	</imgdir>
+    <imgdir name="2159423">
+		<string name="name" value="警示灯"/>
+	</imgdir>
+    <imgdir name="2159424">
+		<string name="name" value="监视器"/>
+	</imgdir>
+    <imgdir name="2159426">
+		<string name="name" value="通知"/>
+	</imgdir>
+    <imgdir name="2159427">
+		<string name="name" value="守卫机器人"/>
+	</imgdir>
+    <imgdir name="2160000">
+		<string name="name" value="穆尔特"/>
+		<string name="d0" value="狮子王的诅咒让我变成了鬼魂。但如果你把我寻找的宝藏带给我，我会给你一些有用的东西..."/>
+		<string name="d1" value="狮子王的诅咒让我变成了鬼魂。但如果你把我寻找的宝藏带给我，我会给你一些有用的东西..."/>
+	</imgdir>
+    <imgdir name="2161000">
+		<string name="name" value="冯·莱昂"/>
+		<string name="func" value="狮子王"/>
+		<string name="n0" value="...我们必须说话吗？剩下要做的就是战斗..."/>
+		<string name="n1" value="攻击我！来吧！把你的言语和逻辑抛在脑后！"/>
+		<string name="d0" value="言语毫无意义。只有行动才重要...这是岁月教会我的。"/>
+		<string name="d1" value="言语毫无意义。只有行动才重要...这是岁月教会我的。"/>
+	</imgdir>
+    <imgdir name="2161001">
+		<string name="name" value="伊菲娅"/>
+		<string name="func" value="王后"/>
+		<string name="d0" value="花、蝴蝶和人都消失了。只剩下燃烧的火焰...我们美丽的城堡变成了什么样子？"/>
+		<string name="d1" value="他会恢复原来的样子。我知道。他真的是一个善良、温柔、热心的国王..."/>
+	</imgdir>
+</imgdir>

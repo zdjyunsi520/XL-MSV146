@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="112000010"><string name="name" value="天生好运"/><string name="desc" value="在熊之模式下提升站率和防御力。"/><string name="h" value="被动效果: 站率 +#prop%, 防御力: +#pddX"/></imgdir>
+    <imgdir name="112000011"><string name="name" value="吃饱饱"/><string name="desc" value="在熊之模式下提升最大HP和智力。"/><string name="h" value="被动效果: 最大HP: +#mhpR%, 智力: +#intX"/></imgdir>
+    <imgdir name="112000012"><string name="name" value="无视防御"/><string name="desc" value="在熊之模式下无视部分敌人防御并提升攻击速度。"/><string name="h" value="被动效果: 无视敌人防御: #ignoreMobpdpR%, 攻击速度: +#q"/></imgdir>
+    <imgdir name="112000013"><string name="name" value="福特之勇"/><string name="desc" value="在熊之模式下永久提升魔法攻击力。"/><string name="h" value="被动效果: 魔法攻击力: +#madR%"/></imgdir>
+    <imgdir name="112000014"><string name="name" value="熊之力"/><string name="desc" value="在熊之模式下永久提升暴击率、最低伤害、最高伤害和魔法攻击力。"/><string name="h" value="被动效果: 暴击率: +#cr%, 最低暴击伤害: +#criticaldamageMin%, 最高暴击伤害: +#criticaldamageMax%, 魔法攻击力: +#madX"/></imgdir>
+    <imgdir name="112000015"><string name="name" value="小福特追击"/><string name="desc" value="每4次攻击后小福特出现进行追加攻击。\n[指令]: 使用#c熊之模式主动技能#攻击4次"/><string name="h" value="追加伤害: #damage%, 攻击次数: 1"/></imgdir>
+    <imgdir name="112000016"><string name="name" value="熊之重生"/><string name="desc" value="在熊之模式下允许复活。HP恢复期间处于无敌状态。\n当技能图标显示在右上角时可使用复活。"/><string name="h" value="复活冷却时间: #z秒, 复活无敌时间: #x秒"/></imgdir>
+    <imgdir name="112000019"><string name="name" value="熊3.5击"/></imgdir>
+    <imgdir name="112000020"><string name="name" value="怒焰号角"/><string name="desc" value="增强华丽号角的火花，形成地狱般的烈焰。"/><string name="h" value="魔法攻击力: +#madX, #华丽号角#持续伤害: +#damR%。"/></imgdir>
+    <imgdir name="112001004"><string name="name" value="深呼吸"/><string name="desc" value="熊吸气将敌人拉近。"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount"/></imgdir>
+    <imgdir name="112001005"><string name="name" value="超级深呼吸"/><string name="desc" value="熊用力吸气从左右两侧将敌人拉近。"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount"/></imgdir>
+    <imgdir name="112001006"><string name="name" value="华丽号角"/><string name="desc" value="熊利用自然之力点燃火焰。被火焰笼罩的敌人将受到伤害。"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 持续时间: #time秒。"/></imgdir>
+    <imgdir name="112001007"><string name="name" value="小福特"/><string name="desc" value="召唤玩具熊疯狂攻击敌人。"/><string name="h" value="MP消耗: #mpCon \n- 熊伤害: #damage%\n- 熊持续时间: #time秒。"/></imgdir>
+    <imgdir name="112001008"><string name="name" value="鱼之掌掴"/><string name="desc" value="按住技能键用鱼拍打敌人。"/><string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 技能持续时间: #time秒, 冷却时间: #cooltime秒"/></imgdir>
+    <imgdir name="112001009"><string name="name" value="熊之突击"/><string name="desc" value="集中攻击力。命中的敌人数减少但伤害更高。同时提升最大HP和MP并无视部分怪物防御。"/><string name="h" value="#c主动效果# - MP消耗: #mpCon, 伤害: +#x%, 暴击率: +#z%, 最低暴击伤害: +#y%, 所有技能最大目标数: #mobCount, 持续时间: #q秒 冷却时间: #cooltime秒\n#c被动效果# - 最大HP: +#mhpR%, 最大MP: +#mmpR%, 物理防御力: +#pddR%, 魔法防御力: +#mddR%, 无视敌人防御: #ignoreMobpdpR%"/></imgdir>
+    <imgdir name="112001018"><string name="name" value="掀桌"/><string name="desc" value="熊暴怒起来朝敌人掀桌子。"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount\n冷却时间: #cooltime秒"/></imgdir>
+    <imgdir name="112100000"><string name="name" value="豹之爪"/><string name="h" value="伤害: #damage%（前两次攻击），最大敌人数: #mobCount，攻击次数: #attackCount。 \r\n第2次攻击MP消耗: #y "/><string name="desc" value="借助莱的力量击退路径上的敌人。 \r\n[指令]: 2次攻击后，与#c豹之突袭#连招\r\n[追加指令]: 与#c豹之咆哮#连招"/></imgdir>
+    <imgdir name="112100002"><string name="name" value="豹之突袭"/><string name="desc" value="向前冲刺撕裂敌人。\r\n[前置技能]: #c豹之爪 Lv. 1#\r\n[指令]: #c豹之爪#2次攻击后触发"/><string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount"/></imgdir>
+    <imgdir name="112100003"><string name="name" value="豹之咆哮"/><string name="desc" value="在#c豹之突袭#后咆哮造成追加伤害。同时提升#c豹之爪#和#c豹之突袭#的伤害和命中敌人数。\r\n[指令] 使用#c豹之突袭#后按键"/><string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount\r\n#c豹之爪#和#c豹之突袭#伤害: +#damR%, 最大敌人数: +#targetPlus"/></imgdir>
+    <imgdir name="112100006"><string name="name" value="猛男化身"/><string name="desc" value="在#c猛男猛击#后莱展现真身，震惊并眩晕附近所有敌人。同时提升#c猛男之舞和猛男猛击#的最大敌人数。"/><string name="h" value="伤害: #damage%, 最大敌人数: #mobCount, 持续时间: #time秒，攻击次数: #attackCount，眩晕几率: #prop%。 \r\n#c猛男之舞、猛男猛击#命中敌人数: +#targetPlus，伤害: +#damR%"/></imgdir>
+</imgdir>

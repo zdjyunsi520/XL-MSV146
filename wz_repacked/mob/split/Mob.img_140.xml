@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8800104">
+		<string name="name" value="Chaos Zakum Arm 2"/>
+	</imgdir>
+    <imgdir name="8800105">
+		<string name="name" value="Chaos Zakum Arm 3"/>
+	</imgdir>
+    <imgdir name="8800106">
+		<string name="name" value="Chaos Zakum Arm 4"/>
+	</imgdir>
+    <imgdir name="8800107">
+		<string name="name" value="Chaos Zakum Arm 5"/>
+	</imgdir>
+    <imgdir name="8800108">
+		<string name="name" value="Chaos Zakum Arm 6"/>
+	</imgdir>
+    <imgdir name="8800109">
+		<string name="name" value="Chaos Zakum Arm 7"/>
+	</imgdir>
+    <imgdir name="8800110">
+		<string name="name" value="Chaos Zakum Arm 8"/>
+	</imgdir>
+    <imgdir name="8800111">
+		<string name="name" value="Chaos Boogie"/>
+	</imgdir>
+    <imgdir name="8800112">
+		<string name="name" value="Chaos Puko"/>
+	</imgdir>
+    <imgdir name="8800113">
+		<string name="name" value="Chaos Poonko"/>
+	</imgdir>
+    <imgdir name="8800114">
+		<string name="name" value="Chaos Kusko"/>
+	</imgdir>
+    <imgdir name="8800115">
+		<string name="name" value="Chaos Ooparts"/>
+	</imgdir>
+    <imgdir name="8800116">
+		<string name="name" value="Chaos Patz"/>
+	</imgdir>
+    <imgdir name="8800200">
+		<string name="name" value="Ravana"/>
+	</imgdir>
+    <imgdir name="8800201">
+		<string name="name" value="Blue Goblin"/>
+	</imgdir>
+    <imgdir name="8800202">
+		<string name="name" value="Red Goblin"/>
+	</imgdir>
+    <imgdir name="8800203">
+		<string name="name" value="Stone Goblin"/>
+	</imgdir>
+    <imgdir name="8810100">
+		<string name="name" value="Chaos Horntail's Left Head"/>
+	</imgdir>
+    <imgdir name="8810101">
+		<string name="name" value="Chaos Horntail's Right Head"/>
+	</imgdir>
+    <imgdir name="8810102">
+		<string name="name" value="Chaos Horntail's Head A"/>
+	</imgdir>
+</imgdir>

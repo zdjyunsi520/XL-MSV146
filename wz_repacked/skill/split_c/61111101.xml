@@ -1,0 +1,5 @@
+<imgdir name="61111101">
+        <string name="name" value="压力锁链" />
+        <string name="desc" value="发射穿透性的剑波，然后拉回敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Penetrates then pulls #mobCount enemies dealing #damage% damage #attackCount times, Stun Chance: #prop%" />
+    </imgdir>

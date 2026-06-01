@@ -1,0 +1,8 @@
+<imgdir name="33111004">
+        <string name="name" value="致盲" />
+        <string name="desc" value="瞄准，然后射击敌人的眼睛。你的攻击有概率降低目标的命中率和防御力。Boss怪物只会降低命中率。" />
+        <string name="h" value="MP消耗：#mpCon，增益持续时间：#time秒，命中率：-#x%，敌人防御力：-#v，致盲持续时间：#y秒，致盲概率：#prop%" />
+        <string name="pdesc" value="瞄准敌人的眼睛射击。目标可能被致盲，命中率受到惩罚。" />
+        <string name="ph" value="MP消耗：#mpCon，增益持续时间：#time秒，命中率：-#x%，敌人防御力：-#v，致盲持续时间：#y秒，致盲概率：#prop%" />
+        <string name="hch" value="MP消耗：#mpCon，增益持续时间：#time秒，命中率：-#x%，敌人防御力：-#v，致盲持续时间：#hcSubTime秒，致盲概率：#prop%" />
+    </imgdir>

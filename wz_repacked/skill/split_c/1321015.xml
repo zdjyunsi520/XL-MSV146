@@ -1,0 +1,5 @@
+<imgdir name="1321015">
+        <string name="name" value="献身" />
+        <string name="desc" value="吸收邪眼恢复HP。允许无视敌人防御并增加BOSS攻击伤害。冈格尼尔之矛的冷却时间将被忽略。同时永久增加#c无视防御效果#~" />
+        <string name="h" value="MP消耗: #mpCon，施展时立即回复最大HP的#y%，无视敌人防御#x%持续#time秒，BOSS攻击伤害: +#indieBDR%，无视冈格尼尔之矛冷却时间\n[被动效果: #c无视怪物防御率#ignoreMobpdpR%#]" />
+    </imgdir>

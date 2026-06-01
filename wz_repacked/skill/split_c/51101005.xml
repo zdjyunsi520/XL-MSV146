@@ -1,0 +1,7 @@
+<imgdir name="51101005">
+        <string name="name" value="灵魂驱动" />
+        <string name="desc" value="使用灵魂之力对多个敌人进行4次攻击！" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%,  Number of Attacks: 4, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="使用灵魂之力对多个敌人进行4次攻击。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec" />
+    </imgdir>

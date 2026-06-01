@@ -1,0 +1,5 @@
+<imgdir name="101100201">
+        <string name="name" value="高级旋转切割" />
+        <string name="desc" value="更强力的旋转切割攻击。提升伤害并增加两侧穿透刀刃造成额外伤害。\n[前置技能]: #c旋转切割 Lv. 10#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[刀刃]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z。" />
+    </imgdir>

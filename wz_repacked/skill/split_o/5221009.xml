@@ -1,0 +1,5 @@
+<imgdir name="5221009">
+        <string name="name" value="Hypnotize" />
+        <string name="desc" value="Hypnotizes monsters to temporarily make them attack other monsters instead of you." />
+        <string name="h" value="MP Cost: #mpCon, Hyptonize Chance: #prop%, Hypnotize Duration: #time sec" />
+    </imgdir>

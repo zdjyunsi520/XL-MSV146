@@ -1,0 +1,73 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="赫内西狩猎场III"/>
+			</imgdir>
+    <imgdir name="104040002">
+			<imgdir name="0">
+				<string name="Title" value="赫内西狩猎场II"/>
+			</imgdir>
+    <imgdir name="105020400">
+			<imgdir name="0">
+				<string name="Title" value="德雷克洞穴"/>
+				<string name="Desc" value="&lt;迷你副本&gt;"/>
+			</imgdir>
+    <imgdir name="105030000">
+			<imgdir name="0">
+				<string name="Title" value="仅限45级以上的探险者进入。"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="副本(往佩里昂方向)"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="深林沼泽地(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="105040100">
+			<imgdir name="0">
+				<string name="Title" value="深林狩猎场I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深林沼泽地(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="105040304">
+			<imgdir name="0">
+				<string name="Title" value="迷你副本:倒塌石巨人遗迹"/>
+			</imgdir>
+    <imgdir name="105050100">
+			<imgdir name="0">
+				<string name="Title" value="迷你副本:蘑菇生长洞穴"/>
+			</imgdir>
+    <imgdir name="106000000">
+			<imgdir name="0">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="深谷II(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="深谷II(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="106000001">
+			<imgdir name="0">
+				<string name="Title" value="深谷I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="危险谷II"/>
+			</imgdir>
+    <imgdir name="106000100">
+			<imgdir name="0">
+				<string name="Title" value="深谷3(往昏昏欲睡森林方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地1"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="深谷I(往佩里昂方向)"/>
+			</imgdir>
+    <imgdir name="106000101">
+			<imgdir name="0">
+				<string name="Title" value="深谷II"/>
+			</imgdir>
+</imgdir>

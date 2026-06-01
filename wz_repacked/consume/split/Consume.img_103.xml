@@ -1,0 +1,101 @@
+<imgdir name="Consume.img">
+    <imgdir name="2042303">
+		<string name="name" value="Scroll for Desperado for Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon ATT on Desperado."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nMHP: +50\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042304">
+		<string name="name" value="Scroll for Desperado for Weapon ATT 30%"/>
+		<string name="desc" value="Improves Weapon ATT on Desperado."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMHP: +150\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042305">
+		<string name="name" value="Scroll for Desperado for Weapon ATT 65%"/>
+		<string name="desc" value="Improves Weapon ATT on Desperado."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMHP: +50\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042306">
+		<string name="name" value="Scroll for Desperado for Weapon ATT 15%"/>
+		<string name="desc" value="Improves Weapon ATT on Desperado."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate 15%\r\nMHP +150\r\nWeapon ATT +5\r\nWeapon DEF +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042307">
+		<string name="name" value="King Pepe Scroll for Desperado Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon ATT on King Pepe Desperado."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMHP: +50\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042400">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2042401">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042402">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 10%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +5\r\nWeapon DEF: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042403">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042404">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 30%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack: +5\r\nWeapon DEF: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042405">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 65%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2042406">
+		<string name="name" value="Scroll for Whip Blade for Weapon ATT 15%"/>
+		<string name="desc" value="Improves Weapon ATT on Whip Blades."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +5\r\nWeapon DEF: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2042407">
+		<string name="name" value="Scroll for King Pepe Whip Blade for Weapon ATT 60%"/>
+		<string name="desc" value="Improves Weapon ATT on King Pepe Whip Blade."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon ATT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043000">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2043001">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043002">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 10%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043003">
+		<string name="name" value="Scroll for One-Handed Sword for ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043004">
+		<string name="name" value="Dark scroll for One-Handed Sword for ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2043005">
+		<string name="name" value="Dark scroll for One-Handed Sword for ATT 30%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed Swords."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nWeapon Attack: +5\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2043006">
+		<string name="name" value="Dark Scroll for One-Handed Sword for Magic Attack 70%"/>
+		<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 70%, magic attack+1, INT+1\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+</imgdir>

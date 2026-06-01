@@ -1,0 +1,7 @@
+<imgdir name="4301001">
+        <string name="name" value="三重刺击" />
+        <string name="desc" value="快速攻击最多2个敌人3次！\n需要技能：#c双重刺击 Lv. 10#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x3 on up to two enemies" />
+        <string name="pdesc" value="快速攻击最多2个敌人3次！\n需要技能：#c双重刺击 Lv. 10#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 3, Max Enemies Hit: 2" />
+    </imgdir>

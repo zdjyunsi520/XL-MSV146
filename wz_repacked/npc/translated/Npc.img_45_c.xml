@@ -1,0 +1,95 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000003">
+		<string name="name" value="维坎"/>
+		<string name="n0" value="我们是维京人的后代，海上之王。"/>
+	</imgdir>
+    <imgdir name="9000004">
+		<string name="name" value="维康"/>
+		<string name="n0" value="我们是维京人的后代，海上之王。"/>
+	</imgdir>
+    <imgdir name="9000008">
+		<string name="name" value="皮卡先生"/>
+		<string name="func" value="开锁大师"/>
+		<string name="n0" value="世界上没有我打不开的锁...！"/>
+		<string name="d0" value="有打不开的盒子？拿给我！世界上没有皮卡先生打不开的盒子！"/>
+		<string name="d1" value="有打不开的盒子？拿给我！世界上没有皮卡先生打不开的盒子！"/>
+	</imgdir>
+    <imgdir name="9000009">
+		<string name="name" value="维金"/>
+		<string name="d1" value="哈哈哈！我是真正的海上绅士！"/>
+		<string name="n0" value="我们是维京人的后代，海上之王。"/>
+		<string name="d0" value="哈哈哈！我是海上之王！"/>
+	</imgdir>
+    <imgdir name="9000010">
+		<string name="name" value="彼埃特拉"/>
+		<string name="n0" value="点击我，你会回到原来的地方。"/>
+		<string name="n1" value="下次活动再来。"/>
+	</imgdir>
+    <imgdir name="9000016">
+		<string name="name" value="杰斯特"/>
+	</imgdir>
+    <imgdir name="9000041">
+		<string name="name" value="捐款箱"/>
+	</imgdir>
+    <imgdir name="9000046">
+		<string name="name" value="天空精神"/>
+		<string name="n0" value="天空精神"/>
+		<string name="n1" value="天空精神"/>
+	</imgdir>
+    <imgdir name="9000048">
+		<string name="name" value="童话杰克"/>
+		<string name="n0" value="你可以用温暖的阳光培育豆茎。"/>
+		<string name="n1" value="如果你有金蛋，我可以和你交换！"/>
+	</imgdir>
+    <imgdir name="9000049">
+		<string name="name" value="童话饼干"/>
+		<string name="n0" value="收集大量钥匙可以获得额外经验值！"/>
+		<string name="n1" value="你想要粉豆帽子吗？"/>
+	</imgdir>
+    <imgdir name="9000050">
+		<string name="name" value="鲸鱼内部标志"/>
+	</imgdir>
+    <imgdir name="9000051">
+		<string name="name" value="跳跃翅膀"/>
+	</imgdir>
+    <imgdir name="9000052">
+		<string name="name" value="勇敢的小羊"/>
+	</imgdir>
+    <imgdir name="9000053">
+		<string name="name" value="大灰狼"/>
+	</imgdir>
+    <imgdir name="9000054">
+		<string name="name" value="牧场主"/>
+		<string name="s0" value="哦呵呵！"/>
+		<string name="s1" value="哈哈哈！"/>
+	</imgdir>
+    <imgdir name="9000055">
+		<string name="name" value="阿拉米亚"/>
+		<string name="s0" value="树需要阳光。"/>
+		<string name="s1" value="他们说当枫树长大时，金枫叶会落到地上..."/>
+		<string name="d1" value="去年这个时候，枫树长满了叶子..."/>
+		<string name="d0" value="为什么枫树不长了？"/>
+	</imgdir>
+    <imgdir name="9000056">
+		<string name="name" value="小礼盒"/>
+		<string name="s0" value="你需要1个饼干钥匙才能打开我。"/>
+		<string name="s1" value="你需要1个饼干钥匙才能打开我。"/>
+	</imgdir>
+    <imgdir name="9000057">
+		<string name="name" value="糖果礼盒"/>
+		<string name="s0" value="你可以使用2个钥匙打开我。"/>
+		<string name="s1" value="你可以使用2个钥匙打开我。"/>
+	</imgdir>
+    <imgdir name="9000058">
+		<string name="name" value="蛋糕礼盒"/>
+		<string name="s0" value="使用4个钥匙打开我。"/>
+		<string name="s1" value="使用4个钥匙打开我。"/>
+	</imgdir>
+    <imgdir name="9000059">
+		<string name="name" value="姜饼人"/>
+		<string name="n0" value="宝箱里装满了珍贵的东西。"/>
+		<string name="n1" value="宝箱里装满了珍贵的东西。"/>
+		<string name="d0" value="宝箱里装满了珍贵的东西。"/>
+		<string name="d1" value="宝箱里装满了珍贵的东西。"/>
+	</imgdir>
+</imgdir>

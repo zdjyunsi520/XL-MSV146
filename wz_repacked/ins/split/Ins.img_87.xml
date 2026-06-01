@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010558">
+		<string name="name" value="Bubble Bath Chair"/>
+		<string name="desc" value="Makes you feel clean. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010559">
+		<string name="name" value="Dragon Egg Chair"/>
+		<string name="desc" value="It is the cracked egg that recovers 50 HP and 50 MP every 10 seconds, if your butt is in the right place. "/>
+	</imgdir>
+    <imgdir name="3010560">
+		<string name="name" value="Baby Dragon Swing"/>
+		<string name="desc" value="A swing that is moved by a baby dragon. Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010561">
+		<string name="name" value="Lord Zakum Throne"/>
+		<string name="desc" value="Challenge the limits of your nerves. You could get high-fived at any moment! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010562">
+		<string name="name" value="Ten Week Stay Chair"/>
+		<string name="desc" value="What’s better than recreating that time you broke your spine in half at band camp? Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010563">
+		<string name="name" value="Moon and Star Cushion"/>
+		<string name="desc" value="A pretty moon cushion. Recovers 60 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010564">
+		<string name="name" value="Arkarium Storytime Chair"/>
+		<string name="desc" value="Old guys tell the best stories. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010565">
+		<string name="name" value="Oh My Empress"/>
+		<string name="desc" value="A chair that embodies the huge popularity of Cygnus. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010566">
+		<string name="name" value="Demonic Birthday"/>
+		<string name="desc" value="How does a Demon Slayer celebrate a birthday? Do they even have them? 100 HP and 50 MP restored every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010567">
+		<string name="name" value="Elluel Concerto"/>
+		<string name="desc" value="Enjoy a special performance by the one and only Mercedes! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010568">
+		<string name="name" value="Hilla's Style Maker"/>
+		<string name="desc" value="Sit on this chair to become more beautiful with Hilla! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010569">
+		<string name="name" value="Drill Machine Chair"/>
+		<string name="desc" value="Sit on this drill machine chair to recover 50 HP and MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010570">
+		<string name="name" value="Mini Shinsoo Chair"/>
+		<string name="desc" value="Sit on this Mini Shinsoo chair to recover 50 HP and MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010571">
+		<string name="name" value="Shroom Buddy Chair"/>
+		<string name="desc" value="They're seriously fun guys! They are also fungi. That was the joke. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010572">
+		<string name="name" value="Elize Chair"/>
+		<string name="desc" value="FINALLY, you can be Elize's best friend. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010573">
+		<string name="name" value="The Porcelain Throne"/>
+		<string name="desc" value="A luxurious toilet chair. Don't forget to put the seat down! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010574">
+		<string name="name" value="Starry Night Chair"/>
+		<string name="desc" value="Sit on this and enjoy the respite of the quiet starry night! Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010575">
+		<string name="name" value="Mysterious Power Elixir Chair"/>
+		<string name="desc" value="Power Elixir chair emitting mysterious light. Let's you recover HP &amp; MP slightly faster than from other potion chairs. Restores 110 HP and 60 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010576">
+		<string name="name" value="Passionate Red Potion Chair"/>
+		<string name="desc" value="A red potion chair that makes you feel like you'll recover HP slighter faster than from other chairs. Recovers 110 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010577">
+		<string name="name" value="Refreshing Blue Potion Chair"/>
+		<string name="desc" value="A blue potion chair that makes you feel like you'll recover MP slighter faster than from other chairs. Recovers 100 HP and 60 MP every 10 seconds. "/>
+	</imgdir>
+</imgdir>

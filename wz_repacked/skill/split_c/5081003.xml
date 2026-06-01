@@ -1,0 +1,7 @@
+<imgdir name="5081003">
+        <string name="name" value="滑翔爆裂" />
+        <string name="desc" value="跳跃中翻滚向前移动。技能等级越高，移动距离越远。" />
+        <string name="h" value="MP Cost: #mpCon, jumps a certain distance" />
+        <string name="pdesc" value="跳跃中翻滚向前移动。技能等级越高，移动距离越远。" />
+        <string name="ph" value="MP Cost: #mpCon, jumps a certain distance" />
+    </imgdir>

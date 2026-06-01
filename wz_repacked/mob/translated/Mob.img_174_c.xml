@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9303064">
+		<string name="name" value="陶洛马奇斯"/>
+	</imgdir>
+    <imgdir name="2400000">
+		<string name="name" value="困倦的格罗布勒"/>
+	</imgdir>
+    <imgdir name="2400001">
+		<string name="name" value="警觉的格罗布勒"/>
+	</imgdir>
+    <imgdir name="2400002">
+		<string name="name" value="暴躁的格罗布勒"/>
+	</imgdir>
+    <imgdir name="2400003">
+		<string name="name" value="石灰石托卡"/>
+	</imgdir>
+    <imgdir name="2400004">
+		<string name="name" value="紫水晶托卡"/>
+	</imgdir>
+    <imgdir name="2400005">
+		<string name="name" value="拉隆"/>
+	</imgdir>
+    <imgdir name="2400006">
+		<string name="name" value="卡隆"/>
+	</imgdir>
+    <imgdir name="2400007">
+		<string name="name" value="邪恶僧侣新手"/>
+	</imgdir>
+    <imgdir name="2400008">
+		<string name="name" value="邪恶僧侣学徒"/>
+	</imgdir>
+    <imgdir name="2400009">
+		<string name="name" value="邪恶僧侣大师"/>
+	</imgdir>
+    <imgdir name="2400010">
+		<string name="name" value="异端僧侣新手"/>
+	</imgdir>
+    <imgdir name="2400011">
+		<string name="name" value="异端僧侣学徒"/>
+	</imgdir>
+    <imgdir name="2400012">
+		<string name="name" value="异端领袖"/>
+	</imgdir>
+    <imgdir name="2400013">
+		<string name="name" value="缟玛瑙斯通加"/>
+	</imgdir>
+    <imgdir name="2400014">
+		<string name="name" value="重力斯通加"/>
+	</imgdir>
+    <imgdir name="2400015">
+		<string name="name" value="褪色幽灵战犬"/>
+	</imgdir>
+    <imgdir name="2400016">
+		<string name="name" value="褪色幽灵持盾者"/>
+	</imgdir>
+    <imgdir name="2400017">
+		<string name="name" value="褪色游击幽灵"/>
+	</imgdir>
+    <imgdir name="2400018">
+		<string name="name" value="褪色战士幽灵"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,442 @@
+<imgdir name="5000036">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Well, what do you know!"/>
+		<string name="c1_s2" value="Awesome. I don't even need a chair!"/>
+		<string name="c1_s3" value="This is nice..."/>
+		<string name="c1_s4" value="This spot isn't that bad..."/>
+		<string name="c1_f1" value="No way!"/>
+		<string name="c1_f2" value="Are you serious?"/>
+		<string name="c1_f3" value="I don't think so."/>
+		<string name="c1_f4" value="Nah, I'm good."/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="This is the perfect spot!"/>
+		<string name="c2_s2" value="Nice, nice."/>
+		<string name="c2_s3" value="How did you know I needed some rest?"/>
+		<string name="c2_s4" value="I was dead tired. Thanks!"/>
+		<string name="c2_f1" value="Yea...no."/>
+		<string name="c2_f2" value="Nah. You get no respect."/>
+		<string name="c2_f3" value="Not a Husky, dude. Try again."/>
+		<string name="c2_f4" value="I'll stand, thanks."/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Lotus position ok?"/>
+		<string name="c3_s2" value="The ground is a bit cold...perfect!"/>
+		<string name="c3_s3" value="Resting in peace feels good."/>
+		<string name="c3_s4" value="Time to kick my feet up and chill."/>
+		<string name="c3_f1" value="My feet are going to be nothing but bones--wait. Never mind."/>
+		<string name="c3_f2" value="Let me know how that works out for you."/>
+		<string name="c3_f3" value="You want to play &quot;let's count sand'? No thanks."/>
+		<string name="c3_f4" value="These feet were made for stalkin'!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="Lotus position ok?"/>
+		<string name="c4_s2" value="The ground is a bit cold...perfect!"/>
+		<string name="c4_s3" value="Resting in peace feels good."/>
+		<string name="c4_s4" value="Time to kick my feet up and chill."/>
+		<string name="c4_f1" value="My feet are going to be nothing but bones--wait. Never mind."/>
+		<string name="c4_f2" value="Let me know how that works out for you."/>
+		<string name="c4_f3" value="You want to play &quot;let's count sand'? No thanks."/>
+		<string name="c4_f4" value="These feet were made for stalkin'!"/>
+		<string name="c5" value="bad|no|badgirl|badboy"/>
+		<string name="c5_s1" value="Sorry!"/>
+		<string name="c5_s2" value="My bad."/>
+		<string name="c5_s3" value="Ok, that's my fault."/>
+		<string name="c5_s4" value="I'll fix it!"/>
+		<string name="c5_f1" value="Nope. This is your fault."/>
+		<string name="c5_f2" value="You make me laugh, master."/>
+		<string name="c5_f3" value="So, how will you fix this?"/>
+		<string name="c5_f4" value="I thought I taught you better..."/>
+		<string name="c6" value="bad|no|badgirl|badboy"/>
+		<string name="c6_s1" value="I'm sorry!"/>
+		<string name="c6_s2" value="You got me there. I apologize."/>
+		<string name="c6_s3" value="My bad, master."/>
+		<string name="c6_s4" value="My fault!"/>
+		<string name="c6_f1" value="Back to the drawing board!"/>
+		<string name="c6_f2" value="There's no way to pin this on me!"/>
+		<string name="c6_f3" value="I can't believe you!"/>
+		<string name="c6_f4" value="No, you suck!"/>
+		<string name="c7" value="bad|no|badgirl|badboy"/>
+		<string name="c7_s1" value="Man...I feel bad."/>
+		<string name="c7_s2" value="My sincerest apologies, master."/>
+		<string name="c7_s3" value="But all the cool kids are doing it!"/>
+		<string name="c7_s4" value="Did you say something? I didn't think so."/>
+		<string name="c7_f1" value="How about you sit down for a change?"/>
+		<string name="c7_f2" value="Are you talking to me? ARE YOU TALKING TO ME?"/>
+		<string name="c7_f3" value="Too bad, so sad."/>
+		<string name="c7_f4" value="Finish yapping and let's get out of here."/>
+		<string name="c8" value="bad|no|badgirl|badboy"/>
+		<string name="c8_s1" value="Man...I feel bad."/>
+		<string name="c8_s2" value="My sincerest apologies, master."/>
+		<string name="c8_s3" value="But all the cool kids are doing it!"/>
+		<string name="c8_s4" value="Did you say something? I didn't think so."/>
+		<string name="c8_f1" value="How about you sit down for a change?"/>
+		<string name="c8_f2" value="Are you talking to me? ARE YOU TALKING TO ME?"/>
+		<string name="c8_f3" value="Too bad, so sad."/>
+		<string name="c8_f4" value="Finish yapping and let's get out of here."/>
+		<string name="c9" value="playdead"/>
+		<string name="c9_s1" value="I win."/>
+		<string name="c9_s2" value="Too easy."/>
+		<string name="c9_s3" value="It's time..."/>
+		<string name="c9_s4" value="I'm positive I've played this before..."/>
+		<string name="c9_f1" value="Are you sure you want to play this game?"/>
+		<string name="c9_f2" value="You're not ready."/>
+		<string name="c9_f3" value="I don't know that song."/>
+		<string name="c9_f4" value="Give me a challenge, if you can think of one."/>
+		<string name="c10" value="playdead"/>
+		<string name="c10_s1" value="Yes, you. Watch your step."/>
+		<string name="c10_s2" value="I'd be more careful if I were you..."/>
+		<string name="c10_s3" value="The person behind you is next."/>
+		<string name="c10_s4" value="That guy? No problem."/>
+		<string name="c10_f1" value="A tad out of touch, I see."/>
+		<string name="c10_f2" value="To think I woke up this morning for this..."/>
+		<string name="c10_f3" value="Think it over. Hard."/>
+		<string name="c10_f4" value="Take out &quot;play&quot; and you have a deal."/>
+		<string name="c11" value="playdead"/>
+		<string name="c11_s1" value="Let me show you how to &quot;kill-steal&quot; someone..."/>
+		<string name="c11_s2" value="I see what you did there."/>
+		<string name="c11_s3" value="Time...is on my side."/>
+		<string name="c11_s4" value="Wait for it..."/>
+		<string name="c11_f1" value="I'll let you think about that for a moment."/>
+		<string name="c11_f2" value="The time for jokes has ended."/>
+		<string name="c11_f3" value="Keep joking and see what happens."/>
+		<string name="c11_f4" value="Don't feel like &quot;playing.&quot;"/>
+		<string name="c12" value="playdead"/>
+		<string name="c12_s1" value="Let me show you how to &quot;kill-steal&quot; someone..."/>
+		<string name="c12_s2" value="I see what you did there."/>
+		<string name="c12_s3" value="Time...is on my side."/>
+		<string name="c12_s4" value="Wait for it..."/>
+		<string name="c12_f1" value="I'll let you think about that for a moment."/>
+		<string name="c12_f2" value="The time for jokes has ended."/>
+		<string name="c12_f3" value="Keep joking and see what happens."/>
+		<string name="c12_f4" value="Don't feel like &quot;playing.&quot;"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="It happens."/>
+		<string name="c13_s2" value="I can honestly say mine doesn't stink. Much."/>
+		<string name="c13_s3" value="Ah~ I needed that."/>
+		<string name="c13_s4" value="It came out smooth!"/>
+		<string name="c13_f1" value="Nasty!"/>
+		<string name="c13_f2" value="Uh, you first!"/>
+		<string name="c13_f3" value="No, thanks. I'm good."/>
+		<string name="c13_f4" value="All stuffed up and no place to go..."/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="That was a fantastic dump."/>
+		<string name="c14_s2" value="Time to drop the kids off!"/>
+		<string name="c14_s3" value="So nice."/>
+		<string name="c14_s4" value="Behold the power of bran muffins."/>
+		<string name="c14_f1" value="No, I don't feel like it."/>
+		<string name="c14_f2" value="It's been a long time since I've had to do that."/>
+		<string name="c14_f3" value="And they say the dead don't have dignity..."/>
+		<string name="c14_f4" value="Why are you looking at me?"/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="I guess there are some things even the dead have to do."/>
+		<string name="c15_s2" value="Oops, I almost stepped on it!"/>
+		<string name="c15_s3" value="It's ALIVE~~ ALIVE!"/>
+		<string name="c15_s4" value="Okay, THAT felt good."/>
+		<string name="c15_f1" value="If I did, you might go blind."/>
+		<string name="c15_f2" value="Hey, look at that...it's...just gas. Sorry."/>
+		<string name="c15_f3" value="And they say I'M the crazy one."/>
+		<string name="c15_f4" value="Not in public!"/>
+		<string name="c16" value="poop"/>
+		<string name="c16_s1" value="I guess there are some things even the dead have to do."/>
+		<string name="c16_s2" value="Oops, I almost stepped on it!"/>
+		<string name="c16_s3" value="It's ALIVE~~ ALIVE!"/>
+		<string name="c16_s4" value="Okay, THAT felt good."/>
+		<string name="c16_f1" value="If I did, you might go blind."/>
+		<string name="c16_f2" value="Hey, look at that...it's...just gas. Sorry."/>
+		<string name="c16_f3" value="And they say I'M the crazy one."/>
+		<string name="c16_f4" value="Not in public!"/>
+		<string name="c17" value="talk|chat|say"/>
+		<string name="c17_s1" value="What would you ask of me?"/>
+		<string name="c17_s2" value="No lips, but I talk anyway. AMAZING!"/>
+		<string name="c17_s3" value="You should pay a visit to the Haunted House!"/>
+		<string name="c17_s4" value="I can tell that you like...no, never mind."/>
+		<string name="c17_f1" value="I don't feel like talking to you~"/>
+		<string name="c17_f2" value="Why would I want to talk to you?"/>
+		<string name="c17_f3" value="Don't you have a quest to do or something?"/>
+		<string name="c17_f4" value="I've had more intelligent conversations with snails."/>
+		<string name="c18" value="talk|chat|say"/>
+		<string name="c18_s1" value="So, this guy walks into a potion shop..."/>
+		<string name="c18_s2" value="I'd really like a Prendergast toy~"/>
+		<string name="c18_s3" value="For some reason, I feel right at home in the Vanished Village."/>
+		<string name="c18_s4" value="I don't just talk, I chatter!"/>
+		<string name="c18_f1" value="Bored to death!"/>
+		<string name="c18_f2" value="Words are meaningless to me."/>
+		<string name="c18_f3" value="..."/>
+		<string name="c18_f4" value="They say it's better to say nothing if you have nothing nice to say."/>
+		<string name="c19" value="talk|chat|say"/>
+		<string name="c19_s1" value="Next guy to say &quot;mesos pl0x&quot; gets a scythe to the face."/>
+		<string name="c19_s2" value="Who just said &quot;cc plz&quot;?"/>
+		<string name="c19_s3" value="Don't fear the Reaper."/>
+		<string name="c19_s4" value="Fear the Junior Reaper."/>
+		<string name="c19_f1" value="CC Plz"/>
+		<string name="c19_f2" value="lol no"/>
+		<string name="c19_f3" value="Brain dead. Oh well."/>
+		<string name="c19_f4" value="No more chatter today."/>
+		<string name="c20" value="talk|chat|say"/>
+		<string name="c20_s1" value="Next guy to say &quot;mesos pl0x&quot; gets a scythe to the face."/>
+		<string name="c20_s2" value="Who just said &quot;cc plz&quot;?"/>
+		<string name="c20_s3" value="Don't fear the Reaper."/>
+		<string name="c20_s4" value="Fear the Junior Reaper."/>
+		<string name="c20_f1" value="CC Plz"/>
+		<string name="c20_f2" value="lol no"/>
+		<string name="c20_f3" value="Brain dead. Oh well."/>
+		<string name="c20_f4" value="No more chatter today."/>
+		<string name="c21" value="iloveyou"/>
+		<string name="c21_s1" value="I don't know what to say..."/>
+		<string name="c21_s2" value="I'm falling for you..."/>
+		<string name="c21_s3" value="I can feel it in my bones!"/>
+		<string name="c21_s4" value="Ok, ok. I'll give this a shot."/>
+		<string name="c21_f1" value="You have some issues."/>
+		<string name="c21_f2" value="I don't think you know the meaning of love."/>
+		<string name="c21_f3" value="You won't be saying that for long."/>
+		<string name="c21_f4" value="Um, ok?"/>
+		<string name="c22" value="iloveyou"/>
+		<string name="c22_s1" value="Love? Love is for the living. ~ MUH HA HA"/>
+		<string name="c22_s2" value="Oh~ stop it! Your making me blush."/>
+		<string name="c22_s3" value="We'll be together till the end. ~ MUH HA HA"/>
+		<string name="c22_s4" value="You won't be able to resist me in the end."/>
+		<string name="c22_f1" value="You're weird. ~ MUH HA HA"/>
+		<string name="c22_f2" value="I think I'm gonna be sick..."/>
+		<string name="c22_f3" value="Feed me or stop lying."/>
+		<string name="c22_f4" value="I'm not ready for that kind of commitment."/>
+		<string name="c23" value="iloveyou"/>
+		<string name="c23_s1" value="I'm going to stick with you till the end!"/>
+		<string name="c23_s2" value="I guess you can't help it."/>
+		<string name="c23_s3" value="HAHA! My plan is working... I mean--I love you too."/>
+		<string name="c23_s4" value="Your life is very precious to me."/>
+		<string name="c23_f1" value="What's love got to do with it?"/>
+		<string name="c23_f2" value="I don't know the meaning of love~"/>
+		<string name="c23_f3" value="I love you as much as you like doing chores."/>
+		<string name="c23_f4" value="My love for you is a like a car that has just run out of gas."/>
+		<string name="c24" value="iloveyou"/>
+		<string name="c24_s1" value="I'm going to stick with you till the end!"/>
+		<string name="c24_s2" value="I guess you can't help it."/>
+		<string name="c24_s3" value="HAHA! My plan is working... I mean--I love you too."/>
+		<string name="c24_s4" value="Your life is very precious to me."/>
+		<string name="c24_f1" value="What's love got to do with it?"/>
+		<string name="c24_f2" value="I don't know the meaning of love~"/>
+		<string name="c24_f3" value="I love you as much as you like doing chores."/>
+		<string name="c24_f4" value="My love for you is a like a car that has just run out of gas."/>
+		<string name="c25" value="hug"/>
+		<string name="c25_s1" value="You will soon feel my grip around you. ~ MUH HA HA"/>
+		<string name="c25_s2" value="As long as we don't touch. ~ MUH HA HA"/>
+		<string name="c25_s3" value="I feel touched. Eww~!"/>
+		<string name="c25_s4" value="You feel all lively. Can you give some of that to me?"/>
+		<string name="c25_f1" value="How about we shake hands instead?"/>
+		<string name="c25_f2" value="Let's shake hands instead. ~ MUH HA HA"/>
+		<string name="c25_f3" value="I don't do hugs. ~ MUH HA HA"/>
+		<string name="c25_f4" value="I don't feel like hugging."/>
+		<string name="c26" value="hug"/>
+		<string name="c26_s1" value="Strange, but I think I like it."/>
+		<string name="c26_s2" value="Your body is warm..."/>
+		<string name="c26_s3" value="I feel this odd sensation deep within me..."/>
+		<string name="c26_s4" value="I'm beginning to like you."/>
+		<string name="c26_f1" value="How about we shake hands instead...?"/>
+		<string name="c26_f2" value="What is a &quot;hug&quot;?"/>
+		<string name="c26_f3" value="I don't think so~"/>
+		<string name="c26_f4" value="Let's not~"/>
+		<string name="c27" value="hug"/>
+		<string name="c27_s1" value="Your enemies shall feel my touch."/>
+		<string name="c27_s2" value="I'll warn you when danger is near!"/>
+		<string name="c27_s3" value="That made me feel good..."/>
+		<string name="c27_s4" value="As long as no one is looking!"/>
+		<string name="c27_f1" value="Ewww... I don't want to touch you~!"/>
+		<string name="c27_f2" value="My touch is not one of friendship."/>
+		<string name="c27_f3" value="Only with a ten foot pole~"/>
+		<string name="c27_f4" value="You will feel my touch soon enough."/>
+		<string name="c28" value="hug"/>
+		<string name="c28_s1" value="Your enemies shall feel my touch."/>
+		<string name="c28_s2" value="I'll warn you when danger is near!"/>
+		<string name="c28_s3" value="That made me feel good..."/>
+		<string name="c28_s4" value="As long as no one is looking!"/>
+		<string name="c28_f1" value="Ewww... I don't want to touch you~!"/>
+		<string name="c28_f2" value="My touch is not one of friendship."/>
+		<string name="c28_f3" value="Only with a ten foot pole~"/>
+		<string name="c28_f4" value="You will feel my touch soon enough."/>
+		<string name="c29" value="smellmyfeet"/>
+		<string name="c29_s1" value="Give me something good to eat!"/>
+		<string name="c29_s2" value="Mine smell like roses. ~ MUH HA HA"/>
+		<string name="c29_s3" value="Let's go to the haunted house!"/>
+		<string name="c29_s4" value="I love Halloween ~ MUH HA HA"/>
+		<string name="c29_f1" value="You're a weird one. ~ MUH HA HA"/>
+		<string name="c29_f2" value="How about you smell mine~!"/>
+		<string name="c29_f3" value="I don't want to do that~!   ~ MUH HA HA"/>
+		<string name="c29_f4" value="No, that's nasty~!   ~ MUH HA HA"/>
+		<string name="c30" value="smellmyfeet"/>
+		<string name="c30_s1" value="Let's go trick or treat"/>
+		<string name="c30_s2" value="Halloween reminds me of home."/>
+		<string name="c30_s3" value="Let's go put on our Halloween costumes!"/>
+		<string name="c30_s4" value="You can kill people with that smell!"/>
+		<string name="c30_f1" value="You could wash your feet once in a while~!"/>
+		<string name="c30_f2" value="You give &quot;bring the funk&quot; a whole new meaning."/>
+		<string name="c30_f3" value="Ewww... why would I want to do that?!?"/>
+		<string name="c30_f4" value="You have a weird sense of humor."/>
+		<string name="c31" value="smellmyfeet"/>
+		<string name="c31_s1" value="Halloween reminds me of home."/>
+		<string name="c31_s2" value="Give me something good to eat~!"/>
+		<string name="c31_s3" value="The haunted house is fun~!"/>
+		<string name="c31_s4" value="Why don't we go get some costumes?"/>
+		<string name="c31_f1" value="Ewww... why would I want to do that?!?"/>
+		<string name="c31_f2" value="You have ugly feet~!"/>
+		<string name="c31_f3" value="You could wash your feet once in a while~!"/>
+		<string name="c31_f4" value="You're weird~!"/>
+		<string name="c32" value="smellmyfeet"/>
+		<string name="c32_s1" value="Halloween reminds me of home."/>
+		<string name="c32_s2" value="Give me something good to eat~!"/>
+		<string name="c32_s3" value="The haunted house is fun~!"/>
+		<string name="c32_s4" value="Why don't we go get some costumes?"/>
+		<string name="c32_f1" value="Ewww... why would I want to do that?!?"/>
+		<string name="c32_f2" value="You have ugly feet~!"/>
+		<string name="c32_f3" value="You could wash your feet once in a while~!"/>
+		<string name="c32_f4" value="You're weird~!"/>
+		<string name="c33" value="trickortreat"/>
+		<string name="c33_s1" value="I can eat all the candy I want--my teeth will never fall out!"/>
+		<string name="c33_s2" value="Give me something good to eat!"/>
+		<string name="c33_s3" value="I've treats AND tricks!"/>
+		<string name="c33_s4" value="Give me all your candy to sneak!"/>
+		<string name="c33_f1" value="Maybe next year."/>
+		<string name="c33_f2" value="Lame. Truly lame."/>
+		<string name="c33_f3" value="Grow up."/>
+		<string name="c33_f4" value="My best trick is to make someone disappear."/>
+		<string name="c34" value="trickortreat"/>
+		<string name="c34_s1" value="I wish everyday was Halloween!"/>
+		<string name="c34_s2" value="What should I wear for Halloween?"/>
+		<string name="c34_s3" value="Halloween is the BEST~!"/>
+		<string name="c34_s4" value="I wonder what the zombies are doing?"/>
+		<string name="c34_f1" value="I hope this isn't a trick because I want a treat."/>
+		<string name="c34_f2" value="Zombies are cooler than you are."/>
+		<string name="c34_f3" value="Why don't you go and play by yourself?~"/>
+		<string name="c34_f4" value="I need an Everlasting Heartstopper."/>
+		<string name="c35" value="trickortreat"/>
+		<string name="c35_s1" value="I heard there's a Pumpkin Vault in the Prendergast Estate..."/>
+		<string name="c35_s2" value="What should I wear for Halloween?"/>
+		<string name="c35_s3" value="Halloween is the BEST~!"/>
+		<string name="c35_s4" value="Chocolates, candy, bubble gum, taffy... I want it ALL!!"/>
+		<string name="c35_f1" value="That candy you gave me? I ate it."/>
+		<string name="c35_f2" value="I sold your candy, sorry."/>
+		<string name="c35_f3" value="Only thing I have left is an Everlasting Heartstopper...and no, you can't have it."/>
+		<string name="c35_f4" value="More like &quot;Tricked&quot;, am I right?"/>
+		<string name="c36" value="trickortreat"/>
+		<string name="c36_s1" value="I heard there's a Pumpkin Vault in the Prendergast Estate..."/>
+		<string name="c36_s2" value="What should I wear for Halloween?"/>
+		<string name="c36_s3" value="Halloween is the BEST~!"/>
+		<string name="c36_s4" value="Chocolates, candy, bubble gum, taffy... I want it ALL!!"/>
+		<string name="c36_f1" value="That candy you gave me? I ate it."/>
+		<string name="c36_f2" value="I sold your candy, sorry."/>
+		<string name="c36_f3" value="Only thing I have left is an Everlasting Heartstopper...and no, you can't have it."/>
+		<string name="c36_f4" value="More like &quot;Tricked&quot;, am I right?"/>
+		<string name="c37" value="monstermash"/>
+		<string name="c37_s1" value="It was a graveyard smash~!"/>
+		<string name="c37_s2" value="Let's Boogie Oogie~!"/>
+		<string name="c37_s3" value="We should AUDITION~!"/>
+		<string name="c37_s4" value="Stand back--Dead man dancing!"/>
+		<string name="c37_f1" value="Dead man walking, so no dancing for me!"/>
+		<string name="c37_f2" value="The only thing I can pop, lock and drop are my bones..."/>
+		<string name="c37_f3" value="Look around you, this is a rhythmless nation!"/>
+		<string name="c37_f4" value="Horrible. Just horrible."/>
+		<string name="c38" value="monstermash"/>
+		<string name="c38_s1" value="Put on your red shoes and dance the blues"/>
+		<string name="c38_s2" value="Dance, dance!  Too much Boogie in the pants~!"/>
+		<string name="c38_s3" value="It's close to midnight..."/>
+		<string name="c38_s4" value="Movin' and groovin'!"/>
+		<string name="c38_f1" value="I don't feel like it~"/>
+		<string name="c38_f2" value="I don't see the point of that~"/>
+		<string name="c38_f3" value="Ooh my aching bones~"/>
+		<string name="c38_f4" value="Let's do something else~"/>
+		<string name="c39" value="monstermash"/>
+		<string name="c39_s1" value="I've got the moves, but where are yours?"/>
+		<string name="c39_s2" value="Party up!"/>
+		<string name="c39_s3" value="Something scary's lurking in the dark..."/>
+		<string name="c39_s4" value="Let's get down!"/>
+		<string name="c39_f1" value="I've seen zombies with better moves"/>
+		<string name="c39_f2" value="I don't want to feel silly~!"/>
+		<string name="c39_f3" value="I would if you fed me once in a while~!"/>
+		<string name="c39_f4" value="It's hard enough following you around~!"/>
+		<string name="c40" value="monstermash"/>
+		<string name="c40_s1" value="I've got the moves, but where are yours?"/>
+		<string name="c40_s2" value="Party up!"/>
+		<string name="c40_s3" value="Something scary's lurking in the dark..."/>
+		<string name="c40_s4" value="Let's get down!"/>
+		<string name="c40_f1" value="I've seen zombies with better moves"/>
+		<string name="c40_f2" value="I don't want to feel silly~!"/>
+		<string name="c40_f3" value="I would if you fed me once in a while~!"/>
+		<string name="c40_f4" value="It's hard enough following you around~!"/>
+		<string name="c41" value="rockout"/>
+		<string name="c41_s1" value="Bad to the bone~"/>
+		<string name="c41_s2" value="Devil with a cause!"/>
+		<string name="c41_s3" value="Rock &amp; Roll!"/>
+		<string name="c41_s4" value="I'm rockin'!"/>
+		<string name="c41_f1" value="Without a guitar, I cannot rock. Sad but true."/>
+		<string name="c41_f2" value="Take a moment and look at what I've done."/>
+		<string name="c41_f3" value="Ask me again and you'll find that I disappear..."/>
+		<string name="c41_f4" value="One more time?"/>
+		<string name="c42" value="rockout"/>
+		<string name="c42_s1" value="It's my time to shine--I stand alone!"/>
+		<string name="c42_s2" value="Rock till you drop!"/>
+		<string name="c42_s3" value="Once I start rockin', I'm here to stay!"/>
+		<string name="c42_s4" value="Wherever I may roam...I'm ready to rock!"/>
+		<string name="c42_f1" value="You just killed the mood."/>
+		<string name="c42_f2" value="You think you can be a rock star? ...HAHAHA"/>
+		<string name="c42_f3" value="Can we pretend we don't know each other for a second?"/>
+		<string name="c42_f4" value="Why don't you go party over there... alone."/>
+		<string name="c43" value="rockout"/>
+		<string name="c43_s1" value="PARTY like a ROCK STAR!!"/>
+		<string name="c43_s2" value="The sandman...he comes!"/>
+		<string name="c43_s3" value="Time to release the demons!"/>
+		<string name="c43_s4" value="Rockin' makes me bad..."/>
+		<string name="c43_f1" value="Let's play a game called &quot;I Don't Know You.&quot;"/>
+		<string name="c43_f2" value="I've seen rocks with more talent."/>
+		<string name="c43_f3" value="No drums? Pfft!"/>
+		<string name="c43_f4" value="...I'm gonna pretend like I didn't hear that."/>
+		<string name="c44" value="rockout"/>
+		<string name="c44_s1" value="PARTY like a ROCK STAR!!"/>
+		<string name="c44_s2" value="The sandman...he comes!"/>
+		<string name="c44_s3" value="Time to release the demons!"/>
+		<string name="c44_s4" value="Rockin' makes me bad..."/>
+		<string name="c44_f1" value="Let's play a game called &quot;I Don't Know You.&quot;"/>
+		<string name="c44_f2" value="I've seen rocks with more talent."/>
+		<string name="c44_f3" value="No drums? Pfft!"/>
+		<string name="c44_f4" value="...I'm gonna pretend like I didn't hear that."/>
+		<string name="c45" value="boo"/>
+		<string name="c45_s1" value="Okay... MUH HA HA"/>
+		<string name="c45_s2" value="BOO!"/>
+		<string name="c45_s3" value="Scared yet?"/>
+		<string name="c45_s4" value="Prepare to meet the creeper!"/>
+		<string name="c45_f1" value="..."/>
+		<string name="c45_f2" value="No."/>
+		<string name="c45_f3" value="Abracadabra? No, that's not it..."/>
+		<string name="c45_f4" value="Hocus Pocus! No, that's not it..."/>
+		<string name="c46" value="boo"/>
+		<string name="c46_s1" value="I'll show you something to be scared of! ~ MUH HA HA"/>
+		<string name="c46_s2" value="BOO! Times Two!"/>
+		<string name="c46_s3" value="Be afraid, be very afraid."/>
+		<string name="c46_s4" value="I can sense you..."/>
+		<string name="c46_f1" value="Are you kidding me?"/>
+		<string name="c46_f2" value="Was that supposed to scare me?"/>
+		<string name="c46_f3" value="HAHA, you're funny... FUNNY LOOKING!"/>
+		<string name="c46_f4" value="Uh, right..."/>
+		<string name="c47" value="boo"/>
+		<string name="c47_s1" value="Never, ever try to Ghostride the whip. Look what happened to me!"/>
+		<string name="c47_s2" value="There are things you can't run away from even in death."/>
+		<string name="c47_s3" value="Death isn't scary... for me!"/>
+		<string name="c47_s4" value="Are you afraid of me? Well then, you just wait until I get a little bigger!"/>
+		<string name="c47_f1" value="I'm the Reaper! Nothing scares me."/>
+		<string name="c47_f2" value="Were you trying to scare me?"/>
+		<string name="c47_f3" value="You know, you remind me of a young Frankenstein!"/>
+		<string name="c47_f4" value="I don't think you understand the concept of scary."/>
+		<string name="c48" value="boo"/>
+		<string name="c48_s1" value="Never, ever try to Ghostride the whip. Look what happened to me!"/>
+		<string name="c48_s2" value="There are things you can't run away from even in death."/>
+		<string name="c48_s3" value="Death isn't scary... for me!"/>
+		<string name="c48_s4" value="Are you afraid of me? Well then, you just wait until I get a little bigger!"/>
+		<string name="c48_f1" value="I'm the Reaper! Nothing scares me."/>
+		<string name="c48_f2" value="Were you trying to scare me?"/>
+		<string name="c48_f3" value="You know, you remind me of a young Frankenstein!"/>
+		<string name="c48_f4" value="I don't think you understand the concept of scary."/>
+		<string name="f1_s" value="Sweet!"/>
+		<string name="f1_f" value="...ugh. Did you even cook it?"/>
+		<string name="f2_s" value="Wow...looks GOOD~~  &quot;.&quot;!"/>
+		<string name="f2_f" value="I feel like throwing up... "/>
+		<string name="f3_s" value="Tastes like chicken...or Balrog..."/>
+		<string name="f3_f" value="I can't eat anymore..."/>
+		<string name="f4_s" value="WoW! It's delicious! Yay~"/>
+		<string name="f4_f" value="But I'm not hungry..I don't want to eat!! Waahhh!!"/>
+	</imgdir>

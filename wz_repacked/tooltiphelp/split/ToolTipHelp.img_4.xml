@@ -1,0 +1,126 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="14">
+					<vector name="lt" x="12" y="104"/>
+					<vector name="rb" x="70" y="119"/>
+					<string name="Title" value="Weapon Defense"/>
+					<string name="Desc" value="The higher your Weapon Defense, the less weapon damage you will receive from enemies. It is determined by adding your Weapon Defense stat to that of all equipped armor items."/>
+				</imgdir>
+    <imgdir name="15">
+					<vector name="lt" x="133" y="104"/>
+					<vector name="rb" x="191" y="119"/>
+					<string name="Title" value="Magic Defense"/>
+					<string name="Desc" value="The higher your Magic Defense, the less magic damage you will receive from enemies. It is determined by adding your Magic Defense stat to that of all equipped armor items."/>
+				</imgdir>
+    <imgdir name="16">
+					<vector name="lt" x="12" y="122"/>
+					<vector name="rb" x="70" y="137"/>
+					<string name="Title" value="Weapon Accuracy"/>
+					<string name="Desc" value="Stat that determines the accuracy of your Weapon Attack. The higher it is, the better chance you will have at accurately aiming your weapon attacks. It is determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="17">
+					<vector name="lt" x="133" y="122"/>
+					<vector name="rb" x="191" y="137"/>
+					<string name="Title" value="Magic Accuracy"/>
+					<string name="Desc" value="Stat that determines the accuracy of your Magic Attack. The higher it is, the better chance you will have at accurately aiming your magic attacks. It is determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="18">
+					<vector name="lt" x="12" y="140"/>
+					<vector name="rb" x="70" y="155"/>
+					<string name="Title" value="Weapon Avoidability"/>
+					<string name="Desc" value="Stat that determines your chance of avoiding weapon attacks. The higher it is, the better chance you will have at avoiding weapon attacks. It is determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="19">
+					<vector name="lt" x="133" y="140"/>
+					<vector name="rb" x="191" y="155"/>
+					<string name="Title" value="Magic Avoidability"/>
+					<string name="Desc" value="Stat that determines your chance of avoiding magic attacks. The higher it is, the better chance you will have at avoiding magic attacks. It is determined by adding your stat to the options of items equipped."/>
+				</imgdir>
+    <imgdir name="20">
+					<vector name="lt" x="12" y="158"/>
+					<vector name="rb" x="70" y="173"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed cannot be increased beyond 140%. Skills and equipment can be used to increase or decrease your speed. Speed can be increased to 190% while riding a mount."/>
+				</imgdir>
+    <imgdir name="21">
+					<vector name="lt" x="133" y="158"/>
+					<vector name="rb" x="191" y="173"/>
+					<string name="Title" value="Jump"/>
+					<string name="Desc" value="How high you can jump. It cannot be increased beyond 123%. Skills and equipment can be used to increase or decrease your Jump."/>
+				</imgdir>
+    <imgdir name="Stat_Xenon">
+				<imgdir name="0">
+					<vector name="lt" x="13" y="31"/>
+					<vector name="rb" x="69" y="47"/>
+					<string name="Title" value="Character Name"/>
+					<string name="Desc" value="No changes can be made after creation."/>
+				</imgdir>
+    <imgdir name="1">
+					<vector name="lt" x="13" y="50"/>
+					<vector name="rb" x="69" y="63"/>
+					<string name="Title" value="Character Job"/>
+					<string name="Desc" value="You can take a Job Advancement once you reach milestone levels.\n1st Job Advancement: Lv. 10\n2nd Job Advancement: Lv. 30\n3rd Job Advancement: Lv. 60\n4th Job Advancement: Lv. 100."/>
+				</imgdir>
+    <imgdir name="2">
+					<vector name="lt" x="13" y="68"/>
+					<vector name="rb" x="68" y="83"/>
+					<string name="Title" value="Character Level"/>
+					<string name="Desc" value="Gain experience to increase your character's level."/>
+				</imgdir>
+    <imgdir name="3">
+					<vector name="lt" x="12" y="86"/>
+					<vector name="rb" x="69" y="99"/>
+					<string name="Title" value="EXP"/>
+					<string name="Desc" value="When this reaches 100%, your level will increase. You can obtain EXP by hunting monsters or completing quests."/>
+				</imgdir>
+    <imgdir name="4">
+					<vector name="lt" x="12" y="105"/>
+					<vector name="rb" x="69" y="117"/>
+					<string name="Title" value="Honor Level"/>
+					<string name="Desc" value="Accumulate Honor EXP to increase your character's Honor Level. You will receive a Circulator with each level-up, up to Lv. 31, when you will gain Circulators for earning set amounts of Honor EXP."/>
+				</imgdir>
+    <imgdir name="5">
+					<vector name="lt" x="12" y="122"/>
+					<vector name="rb" x="69" y="133"/>
+					<string name="Title" value="Honor EXP"/>
+					<string name="Desc" value="Once you reach 100% Honor EXP, you will gain a new Honor Level. Honor EXP can be acquired from Medals of Honor in the Fight for Azwan."/>
+				</imgdir>
+    <imgdir name="6">
+					<vector name="lt" x="12" y="141"/>
+					<vector name="rb" x="69" y="152"/>
+					<string name="Title" value="Guild"/>
+					<string name="Desc" value="This is your current Guild. Press the G key to see your Guild’s information."/>
+				</imgdir>
+    <imgdir name="7">
+					<vector name="lt" x="12" y="158"/>
+					<vector name="rb" x="69" y="171"/>
+					<string name="Title" value="Health Point"/>
+					<string name="Desc" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. Max HP: 500,000"/>
+					<string name="DescAvenger" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. This is the most important stat for the Demon Avenger's attacks. Max HP: 500,000"/>
+				</imgdir>
+    <imgdir name="8">
+					<vector name="lt" x="12" y="176"/>
+					<vector name="rb" x="69" y="189"/>
+					<string name="Title" value="Mana Points"/>
+					<string name="Desc" value="Required for many skills. Max: 500,000"/>
+					<string name="TitleDemon" value="Demon Fury"/>
+					<string name="DescDemon" value="Used for all Demon Slayer skills. This stat can only be increased through the use of a Demon Aegis."/>
+				</imgdir>
+    <imgdir name="9">
+					<vector name="lt" x="12" y="194"/>
+					<vector name="rb" x="69" y="207"/>
+					<string name="Title" value="Fame"/>
+					<string name="Desc" value="Your fame increases or decreases based on other users. Some equipment and quests require a certain level of fame."/>
+				</imgdir>
+    <imgdir name="10">
+					<vector name="lt" x="8" y="213"/>
+					<vector name="rb" x="96" y="271"/>
+					<string name="Title" value="AP (Ability Point)"/>
+					<string name="Desc" value="Used to increase STR, DEX, INT, LUK, HP, and MP. For STR, DEX, INT, and LUK, every 1 AP used will increase the stat by 1. For HP and MP, the increase will differ based on your character and job. You will receive 5 AP each time you level up."/>
+				</imgdir>
+    <imgdir name="11">
+					<vector name="lt" x="12" y="276"/>
+					<vector name="rb" x="69" y="292"/>
+					<string name="Title" value="STR"/>
+					<string name="Desc" value="Strength determines the attack strength of Xenon's melee weapon."/>
+				</imgdir>
+</imgdir>

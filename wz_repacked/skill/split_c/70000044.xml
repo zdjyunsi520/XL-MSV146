@@ -1,0 +1,5 @@
+<imgdir name="70000044">
+        <string name="name" value="受击减伤（物攻）" />
+        <string name="desc" value="受到物理攻击时，按魔法防御的比例减少伤害。" />
+        <string name="h" value="When hit with a physical attack, damage equal to #mdd2pdx% of Magic DEF is ignored" />
+    </imgdir>

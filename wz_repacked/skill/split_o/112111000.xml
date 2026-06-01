@@ -1,0 +1,5 @@
+<imgdir name="112111000">
+        <string name="name" value="Fly" />
+        <string name="h" value="Flight Duration: #z sec, Cooldown: #cooltime sec." />
+        <string name="desc" value="Launch into the air with Eka to unlock additional attacks.\r\n[Command]: Press and hold [up] + [jump] to fly. Press [down] +[jump] to land." />
+    </imgdir>

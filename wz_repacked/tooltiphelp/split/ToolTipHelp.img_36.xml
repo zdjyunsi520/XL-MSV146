@@ -1,0 +1,75 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="Clinic"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Camp Conference Room"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Barrier Stone"/>
+			</imgdir>
+    <imgdir name="300010000">
+			<imgdir name="0">
+				<string name="Title" value="Altaire Camp"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Western Region of Mossy Tree Forest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Mushroom Hill Entrance"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Southern Region of Mossy Tree Forest"/>
+			</imgdir>
+    <imgdir name="300010200">
+			<imgdir name="0">
+				<string name="Title" value="Boulder Mountain Entrance"/>
+				<string name="Desc" value="If you're a lost adventurer, go this way..."/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Western Region of Mossy Tree Forest 1"/>
+			</imgdir>
+    <imgdir name="300010300">
+			<imgdir name="0">
+				<string name="Title" value="Western Region of Mossy Tree Forest"/>
+				<string name="Desc" value="The camp is beyond the western region of the forest. -Rios-"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southern Region of Mossy Tree Forest"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Toward the Boulder Mountain"/>
+			</imgdir>
+    <imgdir name="300020000">
+			<imgdir name="0">
+				<string name="Title" value="Mossy Tree Forest Entrance"/>
+				<string name="Desc" value="If you're a lost adventurer, go this way..."/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Southern Region of Mossy Tree Forest 2"/>
+			</imgdir>
+    <imgdir name="300020210">
+			<imgdir name="0">
+				<string name="Title" value="Mushroom Hill Entrance"/>
+			</imgdir>
+    <imgdir name="300030000">
+			<imgdir name="0">
+				<string name="Title" value="Danger Zone.  Explorations Not Allowed!"/>
+				<string name="Desc" value="Due to strange occurrences as of late, explorations are not being allowed. -Athena Pierce-"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Altaire Camp"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Mossy Tree Forest Trail"/>
+			</imgdir>
+    <imgdir name="300030300">
+			<imgdir name="0">
+				<string name="Title" value="Queen's Hiding Place"/>
+				<string name="Desc" value="Hiding place of Ephenia, the queen of fairies."/>
+			</imgdir>
+    <imgdir name="310000000">
+			<imgdir name="0">
+				<string name="Title" value="Edelstein Police Station"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430369">
+		<string name="name" value="Nightmare Mount 10-Day Coupon"/>
+		<string name="desc" value="A 10-day Nightmare mount coupon.\r\n#cDouble-click on it to use the Nightmare riding skill for 10 days.#"/>
+	</imgdir>
+    <imgdir name="2430370">
+		<string name="name" value="Mystery Recipe"/>
+		<string name="desc" value="A mysterious old recipe that could be for any of the Professions you have learned. Remember, curiosity got the cat a great new set of cat-shoes!\r\n#cIf you have not learned a Profession, a random recipe will appear.#"/>
+	</imgdir>
+    <imgdir name="2430371">
+		<string name="name" value="Knights of Virtue Teleport Rock"/>
+		<string name="desc" value="Use it to teleport to a Lv. 50-70 hunting ground where you can fill up the Stone of Virtue Gauge. It may only be used by players that are Lv. 50-70. #cCan be used up to 10 times.#"/>
+	</imgdir>
+    <imgdir name="2430373">
+		<string name="name" value="Rookie Pirate Mark"/>
+		<string name="desc" value="A mark that signifies that the owner is in the lower ranks among the pirates."/>
+	</imgdir>
+    <imgdir name="2430374">
+		<string name="name" value="Rising Pirate Mark"/>
+		<string name="desc" value="A mark that signifies that the owner is in the middle ranks among the pirates."/>
+	</imgdir>
+    <imgdir name="2430375">
+		<string name="name" value="Veteran Pirate Mark"/>
+		<string name="desc" value="A mark that signifies that the owner is in the top ranks among the pirates."/>
+	</imgdir>
+    <imgdir name="2430376">
+		<string name="name" value="Dragon Rider's Warrior Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Warrior weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2430377">
+		<string name="name" value="Dragon Rider's Magician Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Magician weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2430378">
+		<string name="name" value="Dragon Rider's Thief Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Thief weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2430379">
+		<string name="name" value="Dragon Rider's Bowman Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Bowman weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2430380">
+		<string name="name" value="Dragon Rider's Pirate Box"/>
+		<string name="desc" value="A box dropped by the Dragon Rider. Contains a Pirate weapon. #cYou can open it by double-clicking on it."/>
+	</imgdir>
+    <imgdir name="2430381">
+		<string name="name" value="Gaga's First Tasty Watermelon"/>
+		<string name="desc" value="A tasty watermelon obtained from the Tasty Watermelon Pot. Better enjoy it before it goes bad!\n#cDouble-click on it to obtain\nan Alarm Clock (Right) and one of the following buffs:\n-Lv. 30 or below-\nATT/M. ATT +20\nWeapon/Magic DEF+200\nHP+500\n-Lv. 31-70-\nATT/M. ATT +30\nWeapon/Magic DEF +300\nHP +1000\n-Lv. 71 or higher-\nATT/M. ATT +40\nWeapon/Magic DEF +400\nHP +1500\nBuffs can be stacked with other buffs, aside from additional watermelon buffs.#"/>
+	</imgdir>
+    <imgdir name="2430382">
+		<string name="name" value="Tasty Watermelon Necklace Box"/>
+		<string name="desc" value="A fragrant box obtained by diligently filling out the Tasty Watermelon Farming Journal. Contains a Tasty Watermelon Necklace.\n#cYou can open it by double-clicking on it.#"/>
+	</imgdir>
+    <imgdir name="2430383">
+		<string name="name" value="3rd Small Fragment"/>
+		<string name="desc" value="A small piece among the pieces that formed the third piece of the Statue of Goddess."/>
+	</imgdir>
+    <imgdir name="2430385">
+		<string name="name" value="Special Fruit Sundae"/>
+		<string name="desc" value="A fruity sundae that will keep you cool in the summer heat. When consumed, it will increase the amount of EXP you gain based on your character level. #cThis item may be transferred between characters on the same account.#"/>
+	</imgdir>
+    <imgdir name="2430386">
+		<string name="name" value="Thief's Star Level 10 Equipment Box"/>
+		<string name="desc" value="An equipment box given to those who chose the path of a Thief when the Thief's Star was shining in the sky."/>
+	</imgdir>
+    <imgdir name="2430387">
+		<string name="name" value="Thief's Star Level 20 Equipment Box"/>
+		<string name="desc" value="An advanced equipment box given to those who chose the path of a Thief when the Thief's Star was shining in the sky."/>
+	</imgdir>
+    <imgdir name="2430388">
+		<string name="name" value="Thief's Star Level 25 Equipment Box"/>
+		<string name="desc" value="A more advanced equipment box given to those who chose the path of a Thief when the Thief's Star was shining in the sky."/>
+	</imgdir>
+    <imgdir name="2430389">
+		<string name="name" value="Pirate's Star Level 10 Equipment Box"/>
+		<string name="desc" value="An equipment box given to those who chose the path of a Pirate when the Pirate's Star was shining in the sky."/>
+	</imgdir>
+    <imgdir name="2430390">
+		<string name="name" value="Pirate's Star Level 20 Equipment Box"/>
+		<string name="desc" value="An advanced equipment box given to those who chose the path of a Pirate when the Pirate's Star was shining in the sky."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,79 @@
+<imgdir name="Consume.img">
+    <imgdir name="2101018">
+		<string name="name" value="Summon Black Boogie"/>
+	</imgdir>
+    <imgdir name="2101019">
+		<string name="name" value="Summon Pachinko Monster"/>
+	</imgdir>
+    <imgdir name="2101020">
+		<string name="name" value="Halloween Monster Sack"/>
+		<string name="desc" value="Summon Halloween monsters."/>
+	</imgdir>
+    <imgdir name="2101021">
+		<string name="name" value="Monster Sack (Jr. Mimick)"/>
+		<string name="desc" value="Summons 1 Jr. Mimick"/>
+	</imgdir>
+    <imgdir name="2101022">
+		<string name="name" value="Monster Sack (Golden Egg)"/>
+	</imgdir>
+    <imgdir name="2101023">
+		<string name="name" value="Monster Sack (Slime Gold)"/>
+		<string name="desc" value="Summons 3 Slime Gold."/>
+	</imgdir>
+    <imgdir name="2101024">
+		<string name="name" value="Monster Sack (Slime Silver)"/>
+		<string name="desc" value="Summons 1 Slime Silver."/>
+	</imgdir>
+    <imgdir name="2101025">
+		<string name="name" value="Monster Sack (Slime Red)"/>
+		<string name="desc" value="Summons 5 Slime Red."/>
+	</imgdir>
+    <imgdir name="2101026">
+		<string name="name" value="Monster Sack (Mushmom Blue)"/>
+		<string name="desc" value="Summons 1 Mushmom Blue."/>
+	</imgdir>
+    <imgdir name="2101039">
+		<string name="name" value="Monster Summoning Sack(Alishar)"/>
+		<string name="desc" value="Summons 1 Alishar."/>
+	</imgdir>
+    <imgdir name="2101043">
+		<string name="name" value="Amoria Penalty Monster Sack1"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101044">
+		<string name="name" value="Amoria Penalty Monster Sack2"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101045">
+		<string name="name" value="Amoria Penalty Monster Sack3"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101046">
+		<string name="name" value="Amoria Penalty Monster Sack4"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101047">
+		<string name="name" value="Amoria Penalty Monster Sack5"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101048">
+		<string name="name" value="Amoria Penalty Monster Sack6"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101049">
+		<string name="name" value="Amoria Penalty Monster Sack7"/>
+		<string name="desc" value="Summons some monsters."/>
+	</imgdir>
+    <imgdir name="2101050">
+		<string name="name" value="GM event Sack1"/>
+		<string name="desc" value="Summons some monsters. Slime Storm."/>
+	</imgdir>
+    <imgdir name="2101051">
+		<string name="name" value="GM event Sack2"/>
+		<string name="desc" value="Summons some monsters. Mushroom Boom"/>
+	</imgdir>
+    <imgdir name="2101052">
+		<string name="name" value="GM event Sack3"/>
+		<string name="desc" value="Summons some monsters. Pigs in a Blanket"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9300379">
+		<string name="name" value="黑魔法师飞龙"/>
+	</imgdir>
+    <imgdir name="9300380">
+		<string name="name" value="黑魔法师科尼安"/>
+	</imgdir>
+    <imgdir name="9300381">
+		<string name="name" value="黑魔法师骷髅龙"/>
+	</imgdir>
+    <imgdir name="9300382">
+		<string name="name" value="???"/>
+	</imgdir>
+    <imgdir name="9400000">
+		<string name="name" value="乌鸦"/>
+	</imgdir>
+    <imgdir name="9400001">
+		<string name="name" value="火焰浣熊"/>
+	</imgdir>
+    <imgdir name="9400002">
+		<string name="name" value="云狐"/>
+	</imgdir>
+    <imgdir name="9400003">
+		<string name="name" value="夜鬼"/>
+	</imgdir>
+    <imgdir name="9400004">
+		<string name="name" value="大云狐"/>
+	</imgdir>
+    <imgdir name="9400005">
+		<string name="name" value="红幽灵"/>
+	</imgdir>
+    <imgdir name="9400006">
+		<string name="name" value="蓝幽灵"/>
+	</imgdir>
+    <imgdir name="9400007">
+		<string name="name" value="绿幽灵"/>
+	</imgdir>
+    <imgdir name="9400008">
+		<string name="name" value="黑幽灵"/>
+	</imgdir>
+    <imgdir name="9400009">
+		<string name="name" value="乌鸦"/>
+	</imgdir>
+    <imgdir name="9400010">
+		<string name="name" value="燃烧浣熊"/>
+	</imgdir>
+    <imgdir name="9400011">
+		<string name="name" value="纸灯笼鬼"/>
+	</imgdir>
+    <imgdir name="9400012">
+		<string name="name" value="水哥布林"/>
+	</imgdir>
+    <imgdir name="9400013">
+		<string name="name" value="梦幻幽灵"/>
+	</imgdir>
+    <imgdir name="9400014">
+		<string name="name" value="黑乌鸦"/>
+	</imgdir>
+    <imgdir name="9400100">
+		<string name="name" value="额外A"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591137">
+		<string name="name" value="Potent Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: ATT +4\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591138">
+		<string name="name" value="Radiant Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: M ATT +4\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591139">
+		<string name="name" value="Hearty Von Leon's Soul"/>
+		<string name="desc" value="Von Leon's Soul Crystal.\r\nGrants the #cVon Leon skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +600\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591140">
+		<string name="name" value="Beefy Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +20\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591141">
+		<string name="name" value="Swift Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +20\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591142">
+		<string name="name" value="Clever Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +20\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591143">
+		<string name="name" value="Fortuitous  Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +20\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591144">
+		<string name="name" value="Flashy Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591145">
+		<string name="name" value="Potent Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: ATT +5\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591146">
+		<string name="name" value="Radiant Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: M ATT +5\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591147">
+		<string name="name" value="Hearty Pink Bean Soul"/>
+		<string name="desc" value="Pink Bean's Soul Crystal.\r\nGrants the #cPink Bean skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +800\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591148">
+		<string name="name" value="Beefy Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591149">
+		<string name="name" value="Swift Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591150">
+		<string name="name" value="Clever Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591151">
+		<string name="name" value="Fortuitous  Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591152">
+		<string name="name" value="Hearty Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +150\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591153">
+		<string name="name" value="Ample Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max MP +150\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591154">
+		<string name="name" value="Ornate Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +2\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591155">
+		<string name="name" value="Beefy Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591156">
+		<string name="name" value="Swift Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+</imgdir>

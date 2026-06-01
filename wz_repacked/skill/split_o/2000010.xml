@@ -1,0 +1,5 @@
+<imgdir name="2000010">
+        <string name="name" value="Magic Armor" />
+        <string name="desc" value="Condenses magic around your armor to increase Weapon Defense by a percentage of your Magic Defense.\nRequired Skill: #cMagic Guard Lv. 3 or above#" />
+        <string name="h" value="Increases Weapon DEF by #mdd2pdd% of Magic DEF." />
+    </imgdir>

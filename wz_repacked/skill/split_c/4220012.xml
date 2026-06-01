@@ -1,0 +1,7 @@
+<imgdir name="4220012">
+        <string name="name" value="短刀专家" />
+        <string name="desc" value="提升短刀熟练度、武器攻击力和最低暴击伤害~\n前置技能: #c短刀精通 Lv. 10#" />
+        <string name="h" value="短刀熟练度: +#mastery%，武器攻击力: +#x，最低暴击伤害: +#criticaldamageMin%" />
+        <string name="pdesc" value="提升短刀熟练度、武器攻击力和最低暴击伤害~\n前置技能: #c短刀精通 Lv. 10#" />
+        <string name="ph" value="短刀熟练度: +#mastery%，武器攻击力: +#x，最低暴击伤害: +#criticaldamageMin%" />
+    </imgdir>

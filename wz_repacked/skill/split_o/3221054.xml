@@ -1,0 +1,5 @@
+<imgdir name="3221054">
+        <string name="name" value="Bullseye Shot" />
+        <string name="desc" value="Hone in on the enemy&apos;s weak spot for a devastating shot." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Bonus Critical Rate: #x%, Bonus Max Critical Damage: #y%, Bonus Monster DEF Ignored: #ignoreMobpdpR%\nCooldown: #cooltime sec" />
+    </imgdir>

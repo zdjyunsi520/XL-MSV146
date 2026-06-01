@@ -1,0 +1,5 @@
+<imgdir name="2221012">
+        <string name="name" value="冰冻之球" />
+        <string name="desc" value="制造并投掷冰冻之球，向四周发射冰碎片造成伤害。球遇到敌人时会大幅减速~" />
+        <string name="h" value="MP消耗: #mpCon，制造冰冻之球以冰碎片对最多#mobCount个敌人造成#damage%伤害，冷却时间: #cooltime秒" />
+    </imgdir>

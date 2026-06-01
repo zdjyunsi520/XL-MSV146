@@ -1,0 +1,83 @@
+<imgdir name="Consume.img">
+    <imgdir name="2431426">
+		<string name="name" value="星月坐骑券"/>
+		<string name="desc" value="#c双击#获得临时#c星月坐骑#，可在城镇中使用高空飞行技能。"/>
+	</imgdir>
+    <imgdir name="2431427">
+		<string name="name" value="铂金奇迹魔方碎片"/>
+		<string name="desc" value="真正的铂金奇迹魔方的碎片。双击兑换有用的物品。"/>
+	</imgdir>
+    <imgdir name="2431428">
+		<string name="name" value="变身药水"/>
+		<string name="desc" value="#c双击#将你的外观变成稀有怪物。"/>
+	</imgdir>
+    <imgdir name="2431429">
+		<string name="name" value="神奇魔法石盒子礼包"/>
+		<string name="desc" value="一包魔法石盒子。#c双击#获得3到10个魔法石盒子。"/>
+	</imgdir>
+    <imgdir name="2431440">
+		<string name="name" value="卡珊德拉收藏盒子"/>
+		<string name="desc" value="完成卡珊德拉收藏的超级特别礼物！里面有什么惊喜在等待你？#c必须在2014年3月7日00:00:00活动结束前打开！"/>
+	</imgdir>
+    <imgdir name="2431445">
+		<string name="name" value="记忆魔方碎片"/>
+		<string name="desc" value="从记忆魔方上破碎下来的碎片。你还记得吗？双击兑换有用的物品。"/>
+	</imgdir>
+    <imgdir name="2431466">
+		<string name="name" value="回收巧克力卷轴盒"/>
+		<string name="desc" value="这个盒子是用情人节巧克力制成的。似乎不是存放卷轴的理想方式。#c双击#获得一个#c回收巧克力手套卷轴#。"/>
+	</imgdir>
+    <imgdir name="2431467">
+		<string name="name" value="回收巧克力礼盒"/>
+		<string name="desc" value="这个盒子是用情人节巧克力制成的。谁会把东西放在这里面？#c双击#获得一个随机礼物。"/>
+	</imgdir>
+    <imgdir name="2101301">
+		<string name="name" value="希拉召唤者袋子"/>
+		<string name="desc" value="可以召唤希拉召唤者的袋子。"/>
+	</imgdir>
+    <imgdir name="2432091">
+		<string name="desc" value="将你传送到格尔多头部的石头。"/>
+		<string name="name" value="格尔多头部传送石"/>
+	</imgdir>
+    <imgdir name="2432092">
+		<string name="desc" value="将你传送到格尔多左肩的石头。"/>
+		<string name="name" value="格尔多左肩传送石"/>
+	</imgdir>
+    <imgdir name="2432093">
+		<string name="desc" value="将你传送到格尔多右肩的石头。"/>
+		<string name="name" value="格尔多右肩传送石"/>
+	</imgdir>
+    <imgdir name="2003048">
+		<string name="name" value="格尔多蓝宝石穿刺药水"/>
+		<string name="desc" value="含有蓝色星碎片的传说仙女药水。两小时内攻击可无视怪物20%的防御力。\n#c警告#\n与其他药水不叠加。\n效果仅对格尔多有效。"/>
+	</imgdir>
+    <imgdir name="2003049">
+		<string name="name" value="格尔多红宝石支配药水"/>
+		<string name="desc" value="含有红色星碎片的传说仙女药水。一小时内对Boss伤害增加20%。\n#c警告#\n与其他药水不叠加。\n效果仅对格尔多有效。"/>
+	</imgdir>
+    <imgdir name="2615000">
+		<string name="name" value="基础格尔多卷轴"/>
+		<string name="desc" value="蕴含生命树力量的卷轴。只能强化120-130级格尔多饰品。"/>
+		<string name="autodesc" value="\r\n#c所有属性：+1\r\n武器攻击力：+2\r\n魔法攻击力：+2\r\n#成功率：60%"/>
+	</imgdir>
+    <imgdir name="2615001">
+		<string name="name" value="高级格尔多卷轴"/>
+		<string name="desc" value="蕴含生命树力量的卷轴。只能强化140-150级格尔多饰品。"/>
+		<string name="autodesc" value="\r\n#c所有属性：+3\r\n武器攻击力：+4\r\n魔法攻击力：+4\r\n#成功率：60%"/>
+	</imgdir>
+    <imgdir name="2431468">
+		<string name="name" value="怪物收藏顶级盒子"/>
+		<string name="desc" value="在怪物收藏小游戏中匹配6张卡片获得的盒子。包含惊人的礼物！\r\n#双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2023183">
+		<string name="name" value="心跳盒子"/>
+		<string name="desc" value="一个没人知道里面有什么的盒子。如果运气站在你这边，可能会有一份漂亮的礼物。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2431552">
+		<string name="name" value="公主的礼物"/>
+		<string name="desc" value="樱姬送给你的礼物。里面肯定有一些有用的武器...也许甚至有一把稀有的！\n#c双击查看里面有什么。#"/>
+	</imgdir>
+    <imgdir name="2870529">
+		<string name="name" value="滝川一益精灵"/>
+	</imgdir>
+</imgdir>

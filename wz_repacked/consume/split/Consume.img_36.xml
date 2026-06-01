@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022164">
+		<string name="name" value="Mini Cube of Darkness"/>
+		<string name="desc" value="One of the members in the opposing party will have their buffs nullified."/>
+	</imgdir>
+    <imgdir name="2022165">
+		<string name="name" value="Cube of Darkness"/>
+		<string name="desc" value="Everyone in the opposing party will have their buffs nullified."/>
+	</imgdir>
+    <imgdir name="2022166">
+		<string name="name" value="Stunner"/>
+		<string name="desc" value="One of the members of the opposing party will be stunned."/>
+	</imgdir>
+    <imgdir name="2022174">
+		<string name="name" value="White Potion"/>
+		<string name="desc" value="A highly-concentrated potion made out of red herbs.\nRecovers 300 HP."/>
+	</imgdir>
+    <imgdir name="2022175">
+		<string name="name" value="Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers 50% of HP and MP, with a limit of 49,999 HP and MP if your Max HP and MP is over 99,999. Used in Monster Carnival."/>
+	</imgdir>
+    <imgdir name="2022176">
+		<string name="name" value="Power Elixir"/>
+		<string name="desc" value="This potion is truly legendary. \nRecovers all HP and MP, with a limit of 99,999 HP and MP if your Max HP and MP is over 99,999. Used in Monster Carnival."/>
+	</imgdir>
+    <imgdir name="2022177">
+		<string name="name" value="Mana Elixir"/>
+		<string name="desc" value="A legendary potion.\nRecovers about 300 MP. (Exclusively for Monster Carnival)"/>
+	</imgdir>
+    <imgdir name="2022178">
+		<string name="name" value="All-Cure Potion"/>
+		<string name="desc" value="Recovers the character from any abnormal state. (Exclusively for Monster Carnival)"/>
+	</imgdir>
+    <imgdir name="2022179">
+		<string name="name" value="Onyx Apple"/>
+		<string name="desc" value="A rare, ripe apple imbued with power. Recovers 90% HP &amp; MP, and provides +100 W.Att, +100 M.Att, +20 Def for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022180">
+		<string name="name" value="Amorian Rice Cookie"/>
+		<string name="desc" value="A special Rice Cookie from Amos. Recovers 3000 HP and MP."/>
+	</imgdir>
+    <imgdir name="2022181">
+		<string name="name" value="Victoria's Amorian Basket"/>
+		<string name="desc" value="Victoria's special basket, made just for Amos. Provides a boost of +40 to Avoidability, speed and accuracy for 10 minutes"/>
+	</imgdir>
+    <imgdir name="2022182">
+		<string name="name" value="Crystalized Pineapple Chew"/>
+		<string name="desc" value="A very sweet, home-made pineapple chew. Provides a bonus of +20 ATT for 7 minutes."/>
+	</imgdir>
+    <imgdir name="2022183">
+		<string name="name" value="Flower Shower"/>
+		<string name="desc" value="Increases physical attack by 20, Magic attack by 30 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022184">
+		<string name="name" value="Maple BBQ"/>
+		<string name="desc" value="Delicious, succulent BBQ meat. Take a big bite--you know you want to.  Weapon attack +13, Magic Attack +13 for 20 min."/>
+	</imgdir>
+    <imgdir name="2022185">
+		<string name="name" value="Fireworks"/>
+		<string name="desc" value="The fireworks for celebrating MV's defeat. Attack +20, Magic Attack +20 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022186">
+		<string name="name" value="Soft White Bun"/>
+		<string name="desc" value="Freshly baked bread, hot from the oven!  Makes you warm inside and prevents HP loss for 30 minutes in the El Nath region."/>
+	</imgdir>
+    <imgdir name="2022187">
+		<string name="name" value="Cassandra's Magic"/>
+		<string name="desc" value="Breathe comfortably underwater for 30 minutes with Cassandra's magic.  Prevents the constant HP damage you receive for every 10 seconds underwater."/>
+	</imgdir>
+    <imgdir name="2022189">
+		<string name="name" value="Grilled Cheese"/>
+		<string name="desc" value="A tasty, golden brown, grilled cheese sandwich. Recovers 500 HP &amp; MP and gives a boost of +20 Def for 30 mins."/>
+	</imgdir>
+    <imgdir name="2022190">
+		<string name="name" value="Cherry Pie"/>
+		<string name="desc" value="A piping hot pie that warrants eating. Recovers 2000 HP/MP and has a bonus of +2 ATT for 8 minutes."/>
+	</imgdir>
+    <imgdir name="2022191">
+		<string name="name" value="Supreme Pizza"/>
+		<string name="desc" value="A piping hot pizza with all toppings. Recovers 900 HP and 600 MP."/>
+	</imgdir>
+</imgdir>

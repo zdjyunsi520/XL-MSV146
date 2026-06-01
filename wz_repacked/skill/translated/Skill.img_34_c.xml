@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="71000321"><string name="name" value="反抗者魔法师-唤灵斗师"/><string name="desc" value="减少受到的伤害。"/><string name="h" value="Damage received from enemies -#ignoreMobDamR%"/></imgdir>
+    <imgdir name="71000331"><string name="name" value="反抗者弓箭手-狂豹猎人"/><string name="desc" value="攻击时有概率即死敌人。"/><string name="h1" value="0.5%概率攻击时即死。"/><string name="h2" value="1%概率攻击时即死。"/><string name="h3" value="1.5%概率攻击时即死。"/><string name="h4" value="2%概率攻击时即死。"/></imgdir>
+    <imgdir name="71000351"><string name="name" value="反抗者海盗-机械师"/><string name="desc" value="延长增益持续时间。"/><string name="h" value="Buff duration +#bufftimeR%"/></imgdir>
+    <imgdir name="71000361"><string name="name" value="反抗者混合-尖兵"/><string name="desc" value="提升力量、敏捷、运气"/><string name="h1" value="力量、敏捷、运气提升5"/><string name="h2" value="力量、敏捷、运气提升10"/><string name="h3" value="力量、敏捷、运气提升20"/><string name="h4" value="力量、敏捷、运气提升40"/></imgdir>
+    <imgdir name="71000211"><string name="name" value="英雄战士-战神"/><string name="desc" value="攻击时有概率恢复HP。"/><string name="h" value="70% chance to recover #onHitHpRecoveryR% of Max HP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)."/></imgdir>
+    <imgdir name="71000221"><string name="name" value="英雄魔法师-龙神"/><string name="desc" value="攻击敌人时有概率恢复MP。"/><string name="h" value="70% chance to recover #onHitMpRecoveryR% of Max MP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)."/></imgdir>
+    <imgdir name="71000231"><string name="name" value="英雄弓箭手-梅赛德斯"/><string name="desc" value="缩短技能冷却时间。"/><string name="h" value="Skill Cooldown: -#coolTimeR% (Up to 5-sec reduction)"/></imgdir>
+    <imgdir name="71000241"><string name="name" value="英雄飞侠-幻影"/><string name="desc" value="增加发现的金币量。"/><string name="h" value="Mesos obtained +#mesoR%"/></imgdir>
+    <imgdir name="71000271"><string name="name" value="英雄魔法师-夜光"/><string name="desc" value="提升智力。"/><string name="h1" value="智力提升10"/><string name="h2" value="智力提升20"/><string name="h3" value="智力提升40"/><string name="h4" value="智力提升80"/></imgdir>
+    <imgdir name="71000111"><string name="name" value="骑士团-魂骑士"/><string name="desc" value="提升物理防御。"/><string name="h" value="Weapon DEF +#pddR%"/></imgdir>
+    <imgdir name="71000121"><string name="name" value="骑士团-炎术士"/><string name="desc" value="每角色等级提升魔法伤害。"/><string name="h1" value="每角色等级魔法伤害+0.5"/><string name="h2" value="每角色等级魔法伤害+1"/></imgdir>
+    <imgdir name="71000131"><string name="name" value="骑士团-风铃使者"/><string name="desc" value="提升命中率。"/><string name="h" value="Accuracy +#accR%"/></imgdir>
+    <imgdir name="71000141"><string name="name" value="骑士团-夜行者"/><string name="desc" value="提升回避率。"/><string name="h" value="Avoidability +#evaR%"/></imgdir>
+    <imgdir name="71000151"><string name="name" value="骑士团-奇袭者"/><string name="desc" value="每等级追加伤害。"/><string name="h" value="#lv2damX additional damage per character level"/></imgdir>
+    <imgdir name="71000511"><string name="name" value="光之骑士-米哈尔"/><string name="desc" value="提升物理防御。"/><string name="h" value="Weapon DEF +#pdr%"/></imgdir>
+    <imgdir name="71000611"><string name="name" value="诺巴战士-凯撒"/><string name="desc" value="提升力量。"/><string name="h1" value="力量提升10"/><string name="h2" value="力量提升20"/><string name="h3" value="力量提升40"/><string name="h4" value="力量提升80"/></imgdir>
+    <imgdir name="71000651"><string name="name" value="诺巴海盗-天使破坏者"/><string name="desc" value="提升敏捷。"/><string name="h1" value="敏捷提升10"/><string name="h2" value="敏捷提升20"/><string name="h3" value="敏捷提升40"/><string name="h4" value="敏捷提升80"/></imgdir>
+    <imgdir name="71001000"><string name="name" value="强力冲锋"/><string name="desc" value="3张战士卡牌"/><string name="h" value="#mhp2damX% of Max HP added as additional damage"/></imgdir>
+    <imgdir name="71001001"><string name="name" value="魔力风暴"/><string name="desc" value="3张魔法师卡牌"/><string name="h" value="#mmp2damX% of Max MP added as additional damage"/></imgdir>
+    <imgdir name="71001002"><string name="name" value="精准瞄准"/><string name="desc" value="3张弓箭手卡牌"/><string name="h" value="Additional damage from Final Attack skills +#finalAttackDamR%"/></imgdir>
+</imgdir>

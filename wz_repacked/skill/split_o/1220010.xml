@@ -1,0 +1,8 @@
+<imgdir name="1220010">
+        <string name="name" value="Advanced Charge" />
+        <string name="desc" value="Increases the attack range, number of hits, and Blast attack count for the Charge skill of each attribute. Grants a chance to eliminate an enemy instantly when attacking with a Charge Skill." />
+        <string name="h" value="Total Damage Per Charge: #x%, Weapon ATT: increase up to #y, Charge Skills&apos; Max Number of Targets: +#targetPlus, Blast and Charge Skill&apos;s Attack Count: +#attackCount, A #prop% chance to eliminite an enemy instantly when attacking with a Charge Skill" />
+        <string name="pdesc" value="Increases the attack range, number of hits, and Blast attack count for the Charge skill of each attribute. Grants a chance to eliminate an enemy instantly when attacking with a Charge Skill." />
+        <string name="ph" value="Total Damage Per Charge: #x%, Weapon ATT: increase up to #y, Charge Skills&apos; Max Number of Targets: +#targetPlus, Blast and Charge Skill&apos;s Attack Count: +#attackCount, A #prop% chance to eliminite an enemy instantly when attacking with a Charge Skill" />
+        <string name="hch" value="Total Damage Per Charge: #x%, Weapon ATT: increase up to #y, Charge Skills&apos; Max Number of Targets: +#targetPlus, Blast and Charge Skill&apos;s Attack Count: +#attackCount, A #prop% chance to eliminite an enemy instantly when attacking with a Charge Skill" />
+    </imgdir>

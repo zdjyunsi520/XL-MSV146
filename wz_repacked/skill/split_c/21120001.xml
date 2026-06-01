@@ -1,0 +1,5 @@
+<imgdir name="21120001">
+        <string name="name" value="高级精通" />
+        <string name="desc" value="将战矛熟练度提升至最大，同时提升最小暴击伤害和武器攻击力。\n前置技能：#c战矛精通 Lv. 10#" />
+        <string name="h" value="战矛熟练度：+#mastery%。物理攻击力：+#x，最小暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="21121003">
+        <string name="name" value="Freeze Standing" />
+        <string name="desc" value="Uses the power of Ice to hold your ground when struck, enabling you to resist being knocked back." />
+        <string name="h" value="MP Cost: #mpCon, Knock-back Resist Chance: #prop%, Duration: #time sec" />
+    </imgdir>

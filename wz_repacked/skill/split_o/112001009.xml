@@ -1,0 +1,5 @@
+<imgdir name="112001009">
+        <string name="name" value="Bear Assault" />
+        <string name="desc" value="Focuses your attacks. You&apos;ll hit fewer enemies but deal more damage. Also increases Max HP and MP and ignores some monster defense." />
+        <string name="h" value="#cActive Effect# - MP Cost: #mpCon, Damage: +#x%, Critical Rate: +#z%, Min Critical Damage: +#y%, Max Enemies Hit by Any Skill: #mobCount, Duration: #q sec Cooldown: #cooltime sec\n#cPassive Effects# - Max HP: +#mhpR%, Max MP: +#mmpR%, Weapon DEF: +#pddR%, Magic DEF: +#mddR%, Ignore Enemy DEF: #ignoreMobpdpR%" />
+    </imgdir>

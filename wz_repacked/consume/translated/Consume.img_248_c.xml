@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384022">
+		<string name="name" value="蓝色国王妖精卡"/>
+		<string name="desc" value="以蓝色国王妖精为主题的卡片。\n#c在黑山狩猎时对冰属性攻击的防御力+9%#"/>
+	</imgdir>
+    <imgdir name="2384023">
+		<string name="name" value="绿色国王妖精卡"/>
+		<string name="desc" value="以绿色国王妖精为主题的卡片。\n#c在黑山狩猎时对毒属性攻击的防御力+9%#"/>
+	</imgdir>
+    <imgdir name="2384024">
+		<string name="name" value="Rash卡"/>
+		<string name="desc" value="以Rash为主题的卡片。\n#c在利捕森林狩猎时对诅咒的防御力+15%#"/>
+	</imgdir>
+    <imgdir name="2384025">
+		<string name="name" value="船长卡"/>
+		<string name="desc" value="以船长为主题的卡片。\n#c在草药小镇狩猎时跳跃力+3#"/>
+	</imgdir>
+    <imgdir name="2384026">
+		<string name="name" value="地狱犬卡"/>
+		<string name="desc" value="以地狱犬为主题的卡片。\n#c在死亡矿井狩猎时命中率+3#"/>
+	</imgdir>
+    <imgdir name="2384027">
+		<string name="name" value="甲虫卡"/>
+		<string name="desc" value="以甲虫为主题的卡片。\n#c在利捕森林狩猎时回避率+3#"/>
+	</imgdir>
+    <imgdir name="2384028">
+		<string name="name" value="Hobi卡"/>
+		<string name="desc" value="以Hobi为主题的卡片。\n#c在利捕森林狩猎时对毒属性攻击的防御力+15%#"/>
+	</imgdir>
+    <imgdir name="2384029">
+		<string name="name" value="骷髅指挥官卡"/>
+		<string name="desc" value="以骷髅指挥官为主题的卡片。\n#c在贝利乌斯狩猎时命中率+3/回避率+3#"/>
+	</imgdir>
+    <imgdir name="2384030">
+		<string name="name" value="Lucida卡"/>
+		<string name="desc" value="以Lucida为主题的卡片。\n#c在奥里哈斯廷花园狩猎时对黑暗的防御力+15%#"/>
+	</imgdir>
+    <imgdir name="2384031">
+		<string name="name" value="霍姆凯尔卡"/>
+		<string name="desc" value="以霍姆凯尔为主题的卡片。\n#c在神商人研究基地狩猎时回避率+3#"/>
+	</imgdir>
+    <imgdir name="2384033">
+		<string name="name" value="黑暗Rash卡"/>
+		<string name="desc" value="以黑暗Rash为主题的卡片。\n#c在利捕森林狩猎时对诅咒的防御力+15%#"/>
+	</imgdir>
+    <imgdir name="2384034">
+		<string name="name" value="D.Roy卡"/>
+		<string name="desc" value="以D. Roy为主题的卡片。\n#c在阿尔卡德诺研究基地狩猎时命中率+3/回避率+3#"/>
+	</imgdir>
+    <imgdir name="2384035">
+		<string name="name" value="狼人卡"/>
+		<string name="desc" value="以狼人为主题的卡片。\n#c在雪原狩猎时命中率+3#"/>
+	</imgdir>
+    <imgdir name="2384036">
+		<string name="name" value="牛头怪卡"/>
+		<string name="desc" value="以牛头怪为主题的卡片。\n#c在维多利亚岛狩猎时命中率+3#"/>
+	</imgdir>
+    <imgdir name="2384037">
+		<string name="name" value="雪之女巫卡"/>
+		<string name="desc" value="以雪之女巫为主题的卡片。\n#c在雪原狩猎时对冰属性攻击的防御力+9%#"/>
+	</imgdir>
+    <imgdir name="2384038">
+		<string name="name" value="监控摄像头卡"/>
+		<string name="desc" value="以监控摄像头为主题的卡片。\n#c在阿尔卡德诺研究基地狩猎时移动速度+3#"/>
+	</imgdir>
+    <imgdir name="2384039">
+		<string name="name" value="学者幽灵卡"/>
+		<string name="desc" value="以学者幽灵为主题的卡片。\n#c在黑山狩猎时道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2384040">
+		<string name="name" value="Rurumo卡"/>
+		<string name="desc" value="以Rurumo为主题的卡片。\n#c在阿尔卡德诺研究基地狩猎时道具掉率增加#"/>
+	</imgdir>
+    <imgdir name="2384041">
+		<string name="name" value="Extra D卡"/>
+		<string name="desc" value="以Extra D为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2384042">
+		<string name="name" value="领袖A卡"/>
+		<string name="desc" value="以领袖A为主题的卡片。"/>
+	</imgdir>
+</imgdir>

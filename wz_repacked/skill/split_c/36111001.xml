@@ -1,0 +1,5 @@
+<imgdir name="36111001">
+        <string name="name" value="对角追击" />
+        <string name="desc" value="激活全身推进器，以爆发力冲上天空并击退敌人！可在重力柱期间使用。" />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies hit: #mobCount, Damage: #damage%, Knock Back" />
+    </imgdir>

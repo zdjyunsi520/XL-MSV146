@@ -1,0 +1,278 @@
+<imgdir name="5000254">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="Health care!"/>
+		<string name="c1_s2" value="Elect me!"/>
+		<string name="c1_f1" value="Time for change!"/>
+		<string name="c1_f2" value="I'm uh, not sure...?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="I guess I have been working pretty hard."/>
+		<string name="c2_s2" value="Will that make the constituents like me more?"/>
+		<string name="c2_s3" value="I've got a few bills to review anyway..."/>
+		<string name="c2_s4" value="Look at me!"/>
+		<string name="c2_f1" value="I prefer to stand."/>
+		<string name="c2_f2" value="Sitting confers weakness."/>
+		<string name="c2_f3" value="I just had these slacks pressed."/>
+		<string name="c2_f4" value="That's no way to win a campaign!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="Maybe I'll look more relaxed."/>
+		<string name="c3_s2" value="Maybe I need a rocking chair..."/>
+		<string name="c3_s3" value="My voters really love when I sit down."/>
+		<string name="c3_s4" value="That's just a swell idea."/>
+		<string name="c3_f1" value="Can we do something else, please?"/>
+		<string name="c3_f2" value="That doesn't seem very presidential."/>
+		<string name="c3_f3" value="What will the people think?"/>
+		<string name="c3_f4" value="I don't like to sit down, I like to work!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="It's as easy as fair taxation!"/>
+		<string name="c4_s2" value="A good sit helps the mind focus!"/>
+		<string name="c4_s3" value="I could do this all day."/>
+		<string name="c4_s4" value="Whatever America needs."/>
+		<string name="c4_f1" value="Where is my seat?"/>
+		<string name="c4_f2" value="You repeat yourself quite a bit."/>
+		<string name="c4_f3" value="Not happening."/>
+		<string name="c4_f4" value="I can't afford to look silly."/>
+		<string name="c5" value="rest"/>
+		<string name="c5_s1" value="I suppose I could use some rest."/>
+		<string name="c5_s2" value="That'll give me time to think about my next bill."/>
+		<string name="c5_f1" value="Huh? "/>
+		<string name="c5_f2" value="...?"/>
+		<string name="c6" value="rest"/>
+		<string name="c6_s1" value="I'll give it a go."/>
+		<string name="c6_s2" value="Maybe a little..."/>
+		<string name="c6_s3" value="How do I..."/>
+		<string name="c6_s4" value="Look at me! I'm resting!"/>
+		<string name="c6_f1" value="I don't know the meaning of the word!"/>
+		<string name="c6_f2" value="That's not how you win elections, friend."/>
+		<string name="c6_f3" value="Here? It's so dirty."/>
+		<string name="c6_f4" value="Is my opponent resting?!"/>
+		<string name="c7" value="rest"/>
+		<string name="c7_s1" value="I could use a little time off..."/>
+		<string name="c7_s2" value="What's happening on the news?"/>
+		<string name="c7_s3" value="Just going to run over my speech a few times..."/>
+		<string name="c7_s4" value="Rest does a body good."/>
+		<string name="c7_f1" value="Huh?"/>
+		<string name="c7_f2" value="...?"/>
+		<string name="c7_f3" value="My advisors told me to look busy!"/>
+		<string name="c7_f4" value="No way, no how, no sirree."/>
+		<string name="c8" value="rest"/>
+		<string name="c8_s1" value="I'm on it."/>
+		<string name="c8_s2" value="When I set my mind to something, it happens."/>
+		<string name="c8_s3" value="Four more minutes of relaxing!"/>
+		<string name="c8_s4" value="I like that, makes me seem more down-to-earth."/>
+		<string name="c8_f1" value="That's not a can-do attitude!"/>
+		<string name="c8_f2" value="Can we do something else?"/>
+		<string name="c8_f3" value="There are hands to shake somewhere!"/>
+		<string name="c8_f4" value="No, no, no! No way!"/>
+		<string name="c9" value="bad|no|badboy|badgirl"/>
+		<string name="c9_s1" value="I'll consider that."/>
+		<string name="c9_s2" value="Vote for me anyway!"/>
+		<string name="c9_f1" value="Huh?"/>
+		<string name="c9_f2" value="...?"/>
+		<string name="c10" value="bad|no|badboy|badgirl"/>
+		<string name="c10_s1" value="Now, I didn't mean that!"/>
+		<string name="c10_s2" value="I hope I've still got your vote."/>
+		<string name="c10_s3" value="My record is clean!"/>
+		<string name="c10_s4" value="Don’t take that out of context."/>
+		<string name="c10_f1" value="That's not on my agenda."/>
+		<string name="c10_f2" value="That's just muckracking!"/>
+		<string name="c10_f3" value="Bah!"/>
+		<string name="c10_f4" value="Hmph!"/>
+		<string name="c11" value="bad|no|badboy|badgirl"/>
+		<string name="c11_s1" value="I apologize for my actions."/>
+		<string name="c11_s2" value="You can be pretty scary."/>
+		<string name="c11_s3" value="Don't give up on me yet!"/>
+		<string name="c11_s4" value="I was wrong about that, and I admit it."/>
+		<string name="c11_f1" value="My opponent is just as bad as me!"/>
+		<string name="c11_f2" value="I've never done anything wrong."/>
+		<string name="c11_f3" value="I'm going to ignore that."/>
+		<string name="c11_f4" value="Don't care!"/>
+		<string name="c12" value="bad|no|badboy|badgirl"/>
+		<string name="c12_s1" value="I'll try harder."/>
+		<string name="c12_s2" value="I know that wasn't he best result, but I can fix it."/>
+		<string name="c12_s3" value="Sorry, sorry, sorry... "/>
+		<string name="c12_s4" value="Please don't hit me in front of the cameras... "/>
+		<string name="c12_f1" value="I am always right."/>
+		<string name="c12_f2" value="Why are you blaming me? It was one of my aides!"/>
+		<string name="c12_f3" value="Do your research!"/>
+		<string name="c12_f4" value="I don't need this."/>
+		<string name="c13" value="pee"/>
+		<string name="c13_s1" value="Oh golly..."/>
+		<string name="c13_s2" value="Here it comes!"/>
+		<string name="c13_f1" value="...?"/>
+		<string name="c13_f2" value="Huh?"/>
+		<string name="c14" value="pee"/>
+		<string name="c14_s1" value="Vote for pee!"/>
+		<string name="c14_s2" value="I'm letting it rip!"/>
+		<string name="c14_s3" value="Behold my stream of patriotism!"/>
+		<string name="c14_s4" value="Finally..."/>
+		<string name="c14_f1" value="Not in public!"/>
+		<string name="c14_f2" value="I'm holding it."/>
+		<string name="c14_f3" value="That doesn't create jobs!"/>
+		<string name="c14_f4" value="...?"/>
+		<string name="c15" value="pee"/>
+		<string name="c15_s1" value="I suppose we all have to relieve ourselves."/>
+		<string name="c15_s2" value="For the good of the country!"/>
+		<string name="c15_s3" value="Drinking lots of water is good for you."/>
+		<string name="c15_s4" value="Ah ha!"/>
+		<string name="c15_f1" value="Where's the toilet?"/>
+		<string name="c15_f2" value="Wouldn't be prudent."/>
+		<string name="c15_f3" value="No deal!"/>
+		<string name="c15_f4" value="I'm bone dry."/>
+		<string name="c16" value="pee"/>
+		<string name="c16_s1" value="I'm feeling a little exposed, but here we go."/>
+		<string name="c16_s2" value="That's just downright American."/>
+		<string name="c16_s3" value="Keep it out of the media, okay?"/>
+		<string name="c16_s4" value="Don't step in it!"/>
+		<string name="c16_f1" value="That won't poll very well."/>
+		<string name="c16_f2" value="Never in public!"/>
+		<string name="c16_f3" value="You can't coerce me!"/>
+		<string name="c16_f4" value="I'm the boss, I don't have to listen!"/>
+		<string name="c17" value="iloveyou"/>
+		<string name="c17_s1" value="I don't know what to say..."/>
+		<string name="c17_s2" value="Then, I've got your vote?"/>
+		<string name="c17_f1" value="Well now..."/>
+		<string name="c17_f2" value="...?"/>
+		<string name="c18" value="iloveyou"/>
+		<string name="c18_s1" value="I feel pretty strongly about you too."/>
+		<string name="c18_s2" value="We'll win this together!"/>
+		<string name="c18_s3" value="It's a good day!"/>
+		<string name="c18_s4" value="Really? Yeah! "/>
+		<string name="c18_f1" value="Don't flip-flop now, I need your vote!"/>
+		<string name="c18_f2" value="I know a fibber when I hear one."/>
+		<string name="c18_f3" value="I don't know if this is the right time..."/>
+		<string name="c18_f4" value="I'll have to run that past my advisors."/>
+		<string name="c19" value="iloveyou"/>
+		<string name="c19_s1" value="Goodness gracious!"/>
+		<string name="c19_s2" value="Remember that in November!"/>
+		<string name="c19_s3" value="You're a real American!"/>
+		<string name="c19_s4" value="The whole world is going to know!"/>
+		<string name="c19_f1" value="This is a scandal just waiting to happen."/>
+		<string name="c19_f2" value="Get outta here before the press gets wind of this!"/>
+		<string name="c19_f3" value="Uh, maybe another time?"/>
+		<string name="c19_f4" value="Well, uh, you wanna talk about the economy?"/>
+		<string name="c20" value="iloveyou"/>
+		<string name="c20_s1" value="You're the best."/>
+		<string name="c20_s2" value="That's nice to hear."/>
+		<string name="c20_s3" value="You're a real pal."/>
+		<string name="c20_s4" value="Can you tell that to the reporters?"/>
+		<string name="c20_f1" value="Hmph!"/>
+		<string name="c20_f2" value="I'd rather have your vote."/>
+		<string name="c20_f3" value="Really? Because I haven't seen a buffet in weeks."/>
+		<string name="c20_f4" value="Fool me once..."/>
+		<string name="c21" value="up|stand|rise"/>
+		<string name="c21_s1" value="Standing tall!"/>
+		<string name="c21_s2" value="How's my posture?"/>
+		<string name="c21_f1" value="Huh?"/>
+		<string name="c21_f2" value="...?"/>
+		<string name="c22" value="up|stand|rise"/>
+		<string name="c22_s1" value="Call a press conference!"/>
+		<string name="c22_s2" value="The economy!"/>
+		<string name="c22_s3" value="Deregulation!"/>
+		<string name="c22_s4" value="Keep our firearms safe!"/>
+		<string name="c22_f1" value="No sir, I don't like it."/>
+		<string name="c22_f2" value="Huh?"/>
+		<string name="c22_f3" value="My blood sugar's too low."/>
+		<string name="c22_f4" value="I'm perfectly comfortable where I am."/>
+		<string name="c23" value="up|stand|rise"/>
+		<string name="c23_s1" value="Too easy!"/>
+		<string name="c23_s2" value="What looks better? One leg, or two?"/>
+		<string name="c23_s3" value="This is my hero shot."/>
+		<string name="c23_s4" value="People love a good stand."/>
+		<string name="c23_f1" value="This is boring... "/>
+		<string name="c23_f2" value="Shouldn't we be campaigning?"/>
+		<string name="c23_f3" value="I need a power nap."/>
+		<string name="c23_f4" value="You do it!"/>
+		<string name="c24" value="up|stand|rise"/>
+		<string name="c24_s1" value="In the blink of an eye, I stand."/>
+		<string name="c24_s2" value="We're going to hit the issues!"/>
+		<string name="c24_s3" value="Look what a perfect candidate I am."/>
+		<string name="c24_s4" value="I can walk and talk with the best of them."/>
+		<string name="c24_f1" value="Think harder!"/>
+		<string name="c24_f2" value="It's been done."/>
+		<string name="c24_f3" value="I should be working on my speech."/>
+		<string name="c24_f4" value="Can we get a little food first?"/>
+		<string name="c25" value="talk|say|chat"/>
+		<string name="c25_s1" value="Let me tell you about my recovery plans."/>
+		<string name="c25_s2" value="We need to bring our troops home!"/>
+		<string name="c25_s3" value="The military isn't strong enough yet."/>
+		<string name="c25_s4" value="It's time to get real about family values!"/>
+		<string name="c25_f1" value="I need some more time to fix this speech."/>
+		<string name="c25_f2" value="I haven't prepared a statement."/>
+		<string name="c25_f3" value="I don't know what to say... "/>
+		<string name="c25_f4" value="I'm pooped."/>
+		<string name="c26" value="talk|say|chat"/>
+		<string name="c26_s1" value="America is the best nation on the planet!"/>
+		<string name="c26_s2" value="I'm bringing the stars and stripes back!"/>
+		<string name="c26_s3" value="Jobs, jobs, jobs!"/>
+		<string name="c26_s4" value="What do you know about income tax regulation?"/>
+		<string name="c26_f1" value="I've said enough already."/>
+		<string name="c26_f2" value="I need to talk with my advisors first."/>
+		<string name="c26_f3" value="Don't you have friends? "/>
+		<string name="c26_f4" value="What if somebody's listening?"/>
+		<string name="c27" value="talk|say|chat"/>
+		<string name="c27_s1" value="I believe in hard work and good people!"/>
+		<string name="c27_s2" value="It's good to be on the right side."/>
+		<string name="c27_s3" value="Remember to take care of yourself and your country!"/>
+		<string name="c27_s4" value="I love America!"/>
+		<string name="c27_f1" value="Everything you need to know is on my campaign website."/>
+		<string name="c27_f2" value="The debates aren't for another few days!"/>
+		<string name="c27_f3" value="Not without my notes."/>
+		<string name="c27_f4" value="Where's the teleprompter?"/>
+		<string name="c28" value="play"/>
+		<string name="c28_s1" value="I can be fun, like normal people!"/>
+		<string name="c28_s2" value="Hard work and no play is un-American."/>
+		<string name="c28_s3" value="This is a real hootinanny."/>
+		<string name="c28_s4" value="I can do this all day!"/>
+		<string name="c28_f1" value="There's too much work to do."/>
+		<string name="c28_f2" value="Shouldn't we be campaigning?"/>
+		<string name="c28_f3" value="I need a power nap."/>
+		<string name="c28_f4" value="We still need to talk about the important issues!"/>
+		<string name="c29" value="play"/>
+		<string name="c29_s1" value="Have I shown you my fastball?"/>
+		<string name="c29_s2" value="Let's play... With the federal deficit!"/>
+		<string name="c29_s3" value="I love a good bit of fun!"/>
+		<string name="c29_s4" value="Can't wait to see how fun this looks on the news."/>
+		<string name="c29_f1" value="Let's talk about homelessness instead."/>
+		<string name="c29_f2" value="Playing alone is just no fun."/>
+		<string name="c29_f3" value="Can't we just watch eagles for a  while?"/>
+		<string name="c29_f4" value="Well that's just not prudent."/>
+		<string name="c30" value="play"/>
+		<string name="c30_s1" value="You know what's fun? Balanced budgets."/>
+		<string name="c30_s2" value="Come help me find an alternative energy source! Wooo!"/>
+		<string name="c30_s3" value="Let's clean up the government!"/>
+		<string name="c30_s4" value="I'm going to pretend I'm president already!"/>
+		<string name="c30_f1" value="We're running out of games here."/>
+		<string name="c30_f2" value="People aren't going to take us seriously."/>
+		<string name="c30_f3" value="Let me check with my advisors first."/>
+		<string name="c30_f4" value="I think the people want to see me being more serious."/>
+		<string name="c31" value="sleep|sleepy|gotobed"/>
+		<string name="c31_s1" value="Oh, thank goodness."/>
+		<string name="c31_s2" value="It's been days..."/>
+		<string name="c31_s3" value="...Zzz"/>
+		<string name="c31_s4" value="A little shut-eye is good for the complexion."/>
+		<string name="c31_f1" value="Just a little more work, okay?"/>
+		<string name="c31_f2" value="There's no time! I need to prepare a statement."/>
+		<string name="c31_f3" value="I can't let the delegates see me sleeping!"/>
+		<string name="c31_f4" value="I'm not ready to rest! I'm ready to fight!"/>
+		<string name="c32" value="sleep|sleepy|gotobed"/>
+		<string name="c32_s1" value="Time for sweet dreams of my heroes..."/>
+		<string name="c32_s2" value="George Washington, visit me tonight!"/>
+		<string name="c32_s3" value="Just a few z's."/>
+		<string name="c32_s4" value="I could use some shut-eye."/>
+		<string name="c32_f1" value="You're just waiting to get a funny picture of me for the papers."/>
+		<string name="c32_f2" value="There's a whole lot of meeting and greeting to do!"/>
+		<string name="c32_f3" value="I should be kissing babies right now!"/>
+		<string name="c32_f4" value="Now's not the time to be slacking off."/>
+		<string name="f1_s" value="Not bad!"/>
+		<string name="f1_f" value="This is terrible."/>
+		<string name="f2_s" value="All American!"/>
+		<string name="f2_f" value="Disgusting."/>
+		<string name="f3_s" value="Yummy in my tummy!"/>
+		<string name="f3_f" value="Totally inedible."/>
+		<string name="f4_s" value="Bon Appetit!"/>
+		<string name="f4_f" value="Absolutely horrible."/>
+		<string name="s1" value="What would I even say?"/>
+		<string name="s2" value="That's not really appropriate."/>
+		<string name="s3" value="This aggression will not stand."/>
+		<string name="s4" value="I didn't do it."/>
+	</imgdir>

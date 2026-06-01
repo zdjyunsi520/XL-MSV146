@@ -1,0 +1,80 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010257">
+		<string name="name" value="枫树之下..."/>
+		<string name="desc" value="为纪念返校节而制作的椅子。每10秒恢复35 HP和10 MP。"/>
+	</imgdir>
+    <imgdir name="3010279">
+		<string name="name" value="万圣节南瓜椅子"/>
+		<string name="desc" value="为庆祝万圣节制作的南瓜形状椅子。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010282">
+		<string name="name" value="鹳鸟秋千"/>
+		<string name="desc" value="小心！不要摇动太多，否则鹳会把你摔下去！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010283">
+		<string name="name" value="地毯椅子"/>
+		<string name="desc" value="乘坐地毯飞行。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010284">
+		<string name="name" value="南瓜椅子"/>
+		<string name="desc" value="形状像南瓜的舒适椅子。每10秒恢复50 HP和MP。"/>
+	</imgdir>
+    <imgdir name="3010285">
+		<string name="name" value="传奇奖椅子"/>
+		<string name="desc" value="每10秒恢复100 HP和MP。"/>
+	</imgdir>
+    <imgdir name="3010286">
+		<string name="name" value="鹦鹉螺椅子"/>
+		<string name="desc" value="求救，求救！每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010287">
+		<string name="name" value="皇家竖琴"/>
+		<string name="desc" value="以崇高音色著称的精灵皇家竖琴。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010288">
+		<string name="name" value="珍珠贝壳椅子"/>
+		<string name="desc" value="形状像抱着闪亮珍珠的贝壳的椅子。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010289">
+		<string name="name" value="故事时间椅子"/>
+		<string name="desc" value="和奶奶一起讲故事总是很放松，但小心...骗子可能随时出现！每10秒恢复50 HP和50 MP。#c注意：用户可能会体验到极致老人味。#"/>
+	</imgdir>
+    <imgdir name="3010290">
+		<string name="name" value="恶魔王座"/>
+		<string name="desc" value="适合黑暗之主使用的威严王座。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010296">
+		<string name="name" value="薄荷王座"/>
+		<string name="desc" value="整个冒险世界中最美味、最薄荷味的王座。每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010297">
+		<string name="name" value="水晶之梦"/>
+		<string name="desc" value="一把仅够史上最伟大小偷使用的奢华椅子。每10秒恢复HP。"/>
+	</imgdir>
+    <imgdir name="3010298">
+		<string name="name" value="北极熊椅子"/>
+		<string name="desc" value="在这个舒适北极熊椅子里依偎，每10秒恢复40 HP和20 MP。"/>
+	</imgdir>
+    <imgdir name="3010299">
+		<string name="name" value="恐龙蛋椅子"/>
+	</imgdir>
+    <imgdir name="3010301">
+		<string name="name" value="精华椅子"/>
+		<string name="desc" value="每10秒恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="3010302">
+		<string name="name" value="强力精华椅子"/>
+		<string name="desc" value="每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010307">
+		<string name="name" value="粉雪人椅子"/>
+		<string name="desc" value="一个你可以坐的可爱粉雪人。完全安全！每10秒恢复60 HP。"/>
+	</imgdir>
+    <imgdir name="3010308">
+		<string name="name" value="三叶草椅子"/>
+		<string name="desc" value="每10秒恢复70 HP和40 MP。"/>
+	</imgdir>
+    <imgdir name="3010311">
+		<string name="name" value="黑龙王座"/>
+	</imgdir>
+</imgdir>

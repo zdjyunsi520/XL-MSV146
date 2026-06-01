@@ -1,0 +1,5 @@
+<imgdir name="101100201">
+        <string name="name" value="Advanced Spin Cutter" />
+        <string name="desc" value="An even more powerful Blade Ring attack. Increase the Blade Ring&apos;s damage and adds a blade that pierces through on both sides for additional damage. \n[Skill Requirements]: #cSpin Cutter Lv. 10 #" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Blade]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z." />
+    </imgdir>

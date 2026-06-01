@@ -1,0 +1,5 @@
+<imgdir name="13120003">
+        <string name="name" value="微风之风 Ⅲ" />
+        <string name="desc" value="以狂风之力不断骚扰敌人。\n前置技能：#c微风之风ⅠLv. 20#" />
+        <string name="h" value="最大灵魂能量生成数：#x，生成能量概率：#prop%，随机伤害敌人：#damage%，生成强化灵魂能量概率：#subProp%，强化灵魂能量伤害：#y%" />
+    </imgdir>

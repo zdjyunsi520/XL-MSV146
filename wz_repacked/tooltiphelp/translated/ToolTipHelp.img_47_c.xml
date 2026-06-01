@@ -1,0 +1,67 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="盔甲野猪之地"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="102030200">
+			<imgdir name="0">
+				<string name="Title" value="灼热"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="灼热"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="102030300">
+			<imgdir name="0">
+				<string name="Title" value="灰烬覆盖之地"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="盔甲野猪之地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="灰烬覆盖之地"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="盔甲野猪之地"/>
+			</imgdir>
+    <imgdir name="102030400">
+			<imgdir name="0">
+				<string name="Title" value="灼热"/>
+			</imgdir>
+    <imgdir name="102040000">
+			<imgdir name="0">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="挖掘完成区域"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="挖掘完成区域"/>
+			</imgdir>
+    <imgdir name="102040100">
+			<imgdir name="0">
+				<string name="Title" value="初始挖掘区域"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="遗迹挖掘营地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="初始挖掘区域"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="遗迹挖掘营地"/>
+			</imgdir>
+</imgdir>

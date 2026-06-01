@@ -1,0 +1,136 @@
+<imgdir name="Npc.img">
+    <imgdir name="9270027">
+		<string name="name" value="Alwyn"/>
+		<string name="func" value="本地特色"/>
+		<string name="n0" value="尝尝本地美食！"/>
+		<string name="n1" value="在新加坡你可以尽情看和吃！"/>
+	</imgdir>
+    <imgdir name="9270028">
+		<string name="name" value="Adrian"/>
+		<string name="n0" value="禁止乱扔垃圾、闲逛或...抽奖！"/>
+		<string name="n1" value="嘿，别让我抓到你在这里扔垃圾。"/>
+		<string name="d0" value="法律是唯一可靠的防御..."/>
+		<string name="d1" value="多亏了你，我们正在保护CBD的街道安全。"/>
+	</imgdir>
+    <imgdir name="9270029">
+		<string name="name" value="Johnson"/>
+		<string name="n0" value="作业太多了！"/>
+		<string name="n1" value="阿嚏！我想我得了流感！"/>
+		<string name="d0" value="阿嚏！真不敢相信在这么暖和的天气里我感冒了。"/>
+		<string name="d1" value="希望我明天考试能得A+！"/>
+	</imgdir>
+    <imgdir name="9270030">
+		<string name="name" value="流浪者Ralph"/>
+		<string name="n0" value="事情就是这样，伙计。"/>
+		<string name="n1" value="我们什么都不怕。绝对什么都不怕。"/>
+		<string name="d0" value="我怀念过去的日子，伙计。"/>
+		<string name="d1" value="我仍然怀念过去的日子，伙计。"/>
+	</imgdir>
+    <imgdir name="9270031">
+		<string name="name" value="Dave & Iris"/>
+		<string name="n0" value="哈哈哈！我们相爱了...如此相爱..."/>
+		<string name="n1" value="有人给我们拍照吧！"/>
+		<string name="d0" value="你好！我们看起来怎么样？我们是不是天生一对？"/>
+		<string name="d1" value="哇，我们没想到会再见到你。让我们一起拍张照吧！"/>
+	</imgdir>
+    <imgdir name="9270032">
+		<string name="name" value="Angie"/>
+		<string name="n0" value="嘿，你穿的是什么？我要借鉴你的风格！"/>
+		<string name="n1" value="你能不能穿得好一点？我的眼睛。"/>
+		<string name="d0" value="这就是你所有的时尚品味吗？振作点！"/>
+		<string name="d1" value="我会让你看看我的衣橱，但我想你的脑子会爆炸！"/>
+	</imgdir>
+    <imgdir name="9270033">
+		<string name="name" value="Bob"/>
+		<string name="func" value="幽灵船守护者"/>
+		<string name="n0" value="没人知道幽灵船里面会发生什么..."/>
+		<string name="n1" value="进入这艘船后回来的人不多。"/>
+		<string name="d0" value="过去从来不是这样的..."/>
+		<string name="d1" value="希望现在船上的幽灵少一点..."/>
+	</imgdir>
+    <imgdir name="9270034">
+		<string name="name" value="Airu"/>
+		<string name="n0" value="好的，同学们！明天考试！不见不散！"/>
+		<string name="n1" value="每天在家多学习8小时，你就会像我一样！"/>
+		<string name="d0" value="学生们！你们最好好好学习！我能帮你什么吗？"/>
+		<string name="d1" value="嘿，你是帮助Johnson的人。他怎么样了？请告诉他别忘了明天的考试！"/>
+	</imgdir>
+    <imgdir name="9270035">
+		<string name="name" value="Eunice"/>
+		<string name="func" value="纪念品服务员"/>
+		<string name="n0" value="欢迎来到新加坡！"/>
+		<string name="n1" value="你想要给你的朋友带些纪念品吗？"/>
+	</imgdir>
+    <imgdir name="9270036">
+		<string name="name" value="Eric"/>
+		<string name="func" value="发型师"/>
+		<string name="n0" value="没错！看看我著名的快手！"/>
+		<string name="n1" value="我可以让你看起来像个电影明星！"/>
+	</imgdir>
+    <imgdir name="9270037">
+		<string name="name" value="Jimmy"/>
+		<string name="func" value="发型助理"/>
+		<string name="n0" value="Eric有镇上最快的手...我羡慕他。"/>
+		<string name="n1" value="我想自己剪头发练习一下。"/>
+	</imgdir>
+    <imgdir name="9270038">
+		<string name="name" value="Shalon"/>
+		<string name="func" value="票务招待员"/>
+		<string name="n0" value="请到相应的登机口报到。我们现在开始登机！"/>
+		<string name="n1" value="祝您购物愉快！"/>
+	</imgdir>
+    <imgdir name="9270039">
+		<string name="name" value="Sureen"/>
+		<string name="n0" value="家，甜蜜的家！没有什么比回家更好的了！"/>
+		<string name="n1" value="你觉得世界上最美丽的国家新加坡怎么样？"/>
+		<string name="d0" value="我们需要保持新加坡尽可能干净！"/>
+		<string name="d1" value="有你这样的公民，城市将像我们自己的家一样干净...记住这一点。"/>
+	</imgdir>
+    <imgdir name="9270041">
+		<string name="name" value="Irene"/>
+		<string name="func" value="票务招待员"/>
+		<string name="n0" value="请到相应的登机口报到！我们现在开始登机！"/>
+		<string name="n1" value="祝您在免税店购物愉快！"/>
+	</imgdir>
+    <imgdir name="9270058">
+		<string name="name" value="Hurliza"/>
+		<string name="n0" value="我希望我爸爸没事..."/>
+		<string name="n1" value="他最近看起来很担心..."/>
+		<string name="d0" value="你知道，保持时尚真的很重要。"/>
+		<string name="d1" value="有人说我是派对女孩，他们说得对。我喜欢派对！"/>
+	</imgdir>
+    <imgdir name="9270059">
+		<string name="name" value="Nuri"/>
+		<string name="n0" value="我最近一直很想吃东西..."/>
+		<string name="n1" value="我想吃得好，看起来漂亮。"/>
+		<string name="d0" value="哦，天哪，我还饿。"/>
+		<string name="d1" value="我太饿了。我要去吃点东西。"/>
+	</imgdir>
+    <imgdir name="9270060">
+		<string name="name" value="Chee Wee"/>
+		<string name="n0" value="我可怜的Blondie！"/>
+		<string name="n1" value="Blondie是我的金发猫咪。"/>
+		<string name="d0" value="今天不是很棒吗？"/>
+		<string name="d1" value="Blondie是我养过的最酷的猫。"/>
+	</imgdir>
+    <imgdir name="9270061">
+		<string name="name" value="村长Malek"/>
+		<string name="n0" value="天热的时候，椰子汁真的能帮你降温！"/>
+		<string name="n1" value="舒缓的音乐让甘榜村的生活很棒！"/>
+		<string name="d0" value="欢迎，游客们。我是Malek，附近甘榜村的村长。"/>
+		<string name="d1" value="所有这些游客都在用他们的钱让我的小镇变得更好...！"/>
+	</imgdir>
+    <imgdir name="9270062">
+		<string name="name" value="Lam"/>
+		<string name="n0" value="好像我永远被困在这里了。"/>
+		<string name="n1" value="我有一些梦想去的地方。"/>
+		<string name="d0" value="在甘榜过着老式的生活方式很好，但是..."/>
+		<string name="d1" value="我想看看这个村子外面的世界，"/>
+	</imgdir>
+    <imgdir name="9270065">
+		<string name="name" value="Ali"/>
+		<string name="n0" value="需要药水吗？"/>
+		<string name="n1" value="我这里有你需要的一切。"/>
+		<string name="func" value="本地特色"/>
+	</imgdir>
+</imgdir>

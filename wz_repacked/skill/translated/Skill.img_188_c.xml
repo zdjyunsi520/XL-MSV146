@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="31120049"><string name="name" value="恶魔冲击-强化"/><string name="desc" value="提升恶魔冲击的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="31120050"><string name="name" value="恶魔冲击-额外攻击"/><string name="desc" value="增加恶魔冲击的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="31120051"><string name="name" value="恶魔冲击-减怒"/><string name="desc" value="降低恶魔冲击的恶魔之力消耗。"/><string name="h" value="恶魔之力消耗：-#reduceForceR%"/></imgdir>
+    <imgdir name="31121052"><string name="name" value="地狱犬噬咬"/><string name="desc" value="利用冥界之力伤害敌人并掠夺其灵魂。"/><string name="h" value="消耗HP：#hpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，Boss伤害：+#bdR%，无视怪物防御：#ignoreMobpdpR%。额外恶魔之力吸收：#x。\n冷却时间：#cooltime秒。"/></imgdir>
+    <imgdir name="31121053"><string name="name" value="为了自由"/><string name="desc" value="凝聚反抗军的意志，提升攻击力。"/><string name="h" value="恶魔之力消耗：#forceCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。适用于队伍中所有反抗军职业"/></imgdir>
+    <imgdir name="31121054"><string name="name" value="蓝色血脉"/><string name="desc" value="觉醒内在的皇族血脉。"/><string name="h" value="消耗HP：#hpCon，恶魔之力消耗：#forceCon，#time秒内所有攻击额外攻击：+#x%。\n冷却时间：#cooltime秒。被动效果：最大伤害+#MDamageOver，所有技能恶魔之力消耗：-#reduceForceR%"/></imgdir>
+    <imgdir name="31121002"><string name="name" value="吸血光环"/><string name="desc" value="利用与世间黏滑生物的联系，每次攻击都吸取敌人的HP。你和队友将在短时间内每次攻击都回复生命，一次最多回复3%。"/><string name="h" value="恶魔之力消耗：#forceCon，#time秒内将#x%伤害转化为队友HP，不能超过最大HP的50%。冷却时间15秒。"/><string name="pdesc" value="利用与世间黏滑生物的联系，每次攻击都吸取敌人的HP。你和队友将在短时间内每次攻击都回复生命，一次最多回复3%。"/><string name="ph" value="恶魔之力消耗：#forceCon，#time秒内将#x%伤害转化为队友HP。"/></imgdir>
+    <imgdir name="31121005"><string name="name" value="黑暗变形"/><string name="desc" value="释放两个幽灵幻影加入你并攻击视线内的一切。灵力通道还会在一定时间内提升你的伤害和HP。"/><string name="h" value="消耗HP：#hpCon，恶魔之力消耗：#forceCon，#time秒内伤害：#damR%，最大HP提升：#indieMhpR%，自动攻击附近敌人造成#damage%伤害。\n冷却时间：#cooltime秒。"/><string name="pdesc" value="释放两个幽灵幻影加入你并攻击视线内的一切。灵力通道还会在一定时间内提升你的伤害和HP。"/><string name="ph" value="消耗HP：#hpCon，恶魔之力消耗：#forceCon，#time秒内伤害：#damR%，最大HP提升：#indieMhpR%，自动攻击附近敌人造成#damage%伤害。\n冷却时间：#cooltime秒。"/></imgdir>
+    <imgdir name="32120030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="力量+#strX"/></imgdir>
+    <imgdir name="32120031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="敏捷+#dexX"/></imgdir>
+    <imgdir name="32120032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="智力+#intX"/></imgdir>
+    <imgdir name="32120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="32120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="32120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="32120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="32120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="32120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="32120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="32120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="32120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+</imgdir>

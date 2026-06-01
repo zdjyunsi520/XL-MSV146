@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2382103">
+		<string name="name" value="Blue Perfume Card "/>
+		<string name="desc" value="A card featuring Blue Perfume.\n\cAvoidability +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382104">
+		<string name="name" value="Yellow Perfume Card"/>
+		<string name="desc" value="A card featuring Yellow Perfume.\n\cAccuracy +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382105">
+		<string name="name" value="Pink Perfume Card"/>
+		<string name="desc" value="A card featuring Pink Perfume.\n\cWeapon DEF +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382106">
+		<string name="name" value="Kid Mannequin Card"/>
+		<string name="desc" value="A card featuring the Kid Mannequin.\n\cMagic DEF +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382107">
+		<string name="name" value="Female Mannequin Card "/>
+		<string name="desc" value="A card featuring the Female Mannequin.\n\cSTR +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382108">
+		<string name="name" value="Male Mannequin Card"/>
+		<string name="desc" value="A card featuring the Male Mannequin.\n\cINT +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382109">
+		<string name="name" value="Latest Hits Compilation Card"/>
+		<string name="desc" value="A card featuring the Latest Hits Compilation.\n\cDEX +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382110">
+		<string name="name" value="Greatest Oldies Card"/>
+		<string name="desc" value="A card featuring the Greatest Oldies.\n\cLUK +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382111">
+		<string name="name" value="Cheap Amplifier Card"/>
+		<string name="desc" value="A card featuring the Cheap Amplifier.\n\cJump +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382112">
+		<string name="name" value="Fancy Amplifier Card"/>
+		<string name="desc" value="A card featuring the Fancy Amplifier.\n\cSpeed +1 when hunting in Kerning Square#"/>
+	</imgdir>
+    <imgdir name="2382113">
+		<string name="name" value="Poison Mushroom Card"/>
+		<string name="desc" value="A card that features Poison Mushroom."/>
+	</imgdir>
+    <imgdir name="2382114">
+		<string name="name" value="Safety First Card"/>
+		<string name="desc" value="A card that features Safety First."/>
+	</imgdir>
+    <imgdir name="2382115">
+		<string name="name" value="Baby Boulder Muncher Card"/>
+		<string name="desc" value="A card that features Baby Boulder Muncher."/>
+	</imgdir>
+    <imgdir name="2382116">
+		<string name="name" value="Skeleton Soldier Card"/>
+		<string name="desc" value="A card that features Skeleton Soldier."/>
+	</imgdir>
+    <imgdir name="2382117">
+		<string name="name" value="Jr. Sentinel Card"/>
+		<string name="desc" value="A card that features Jr. Sentinel."/>
+	</imgdir>
+    <imgdir name="2382118">
+		<string name="name" value="Officer Skeleton Card"/>
+		<string name="desc" value="A card that features Officer Skeleton."/>
+	</imgdir>
+    <imgdir name="2382119">
+		<string name="name" value="Big Boulder Muncher Card"/>
+		<string name="desc" value="A card that features Big Boulder Muncher."/>
+	</imgdir>
+    <imgdir name="2382120">
+		<string name="name" value="Commander Skeleton Card"/>
+		<string name="desc" value="A card that features Commander Skeleton."/>
+	</imgdir>
+    <imgdir name="2382121">
+		<string name="name" value="Clang Card"/>
+		<string name="desc" value="A card that features Clang."/>
+	</imgdir>
+    <imgdir name="2382122">
+		<string name="name" value="Sentinel Card"/>
+		<string name="desc" value="A card that features Sentinel."/>
+	</imgdir>
+</imgdir>

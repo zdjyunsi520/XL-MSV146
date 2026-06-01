@@ -1,0 +1,5 @@
+<imgdir name="27101100">
+        <string name="name" value="光之长矛" />
+        <string name="desc" value="[光之魔法]\n投掷光之长矛攻击多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #bulletCount." />
+    </imgdir>

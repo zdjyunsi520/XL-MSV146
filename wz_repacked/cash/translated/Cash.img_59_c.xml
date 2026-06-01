@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5550000">
+			<string name="name" value="额外吊坠栏位"/>
+			<string name="desc" value="有效期30天。\r\n购买此道具后，可以装备一个额外的吊坠。#c但是，角色无法装备超过1件特殊装备道具#"/>
+		</imgdir>
+    <imgdir name="5550001">
+			<string name="name" value="增加吊坠栏位：7天"/>
+			<string name="desc" value="7天内可额外装备1个吊坠。#c但是，同一种唯一装备仍然只能佩戴1件。#"/>
+		</imgdir>
+    <imgdir name="5550002">
+			<string name="name" value="额外吊坠栏位"/>
+			<string name="desc" value="购买此道具后，可以装备一个额外的吊坠。#c但是，角色无法装备超过1件特殊装备道具#"/>
+		</imgdir>
+    <imgdir name="5570000">
+			<string name="name" value="匠人之锤"/>
+			<string name="desc" value="使用匠人之锤锻造装备，可增加1次可升级次数。每件装备最多可使用2次。注意：不可用于暗黑龙王项链。"/>
+		</imgdir>
+    <imgdir name="5590000">
+			<string name="name" value="高级装备印章"/>
+			<string name="desc" value="可以装备比你当前等级高5级的道具。"/>
+		</imgdir>
+    <imgdir name="5610000">
+			<string name="name" value="维加的咒语（10%）"/>
+			<string name="desc" value="维加的必胜咒语，可将10%卷轴的成功率提升至30%。请先确认你要使用的卷轴是否支持维加的咒语。"/>
+		</imgdir>
+    <imgdir name="5610001">
+			<string name="name" value="维加的咒语（60%）"/>
+			<string name="desc" value="维加的必胜咒语，可将60%卷轴的成功率提升至90%。请先确认你要使用的卷轴是否支持维加的咒语。"/>
+		</imgdir>
+    <imgdir name="5620000">
+			<string name="name" value="斩风暴20技能书"/>
+			<string name="desc" value="100%概率将#c斩风暴#的技能上限提升至20，使用时技能等级+1。\n职业：刀客\n要求：技能等级5以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620001">
+			<string name="name" value="飞袭20技能书"/>
+			<string name="desc" value="100%概率将#c飞袭#的技能上限提升至20，使用时技能等级+1。\n职业：双刀精锐\n要求：技能等级5以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620002">
+			<string name="name" value="镜像分身20技能书"/>
+			<string name="desc" value="100%概率将#c镜像分身#的技能上限提升至20，使用时技能等级+1。\n职业：双刀领主\n要求：技能等级10以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620003">
+			<string name="name" value="暗影融合20技能书"/>
+			<string name="desc" value="100%概率将#c暗影融合#的技能上限提升至20，使用时技能等级+1。\n职业：双刀领主\n要求：技能等级10以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620004">
+			<string name="name" value=" blade风暴30技能书"/>
+			<string name="desc" value="100%概率将#cBlade风暴#的技能上限提升至30，使用时技能等级+1。\n职业：双刀\n要求：技能等级10以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620005">
+			<string name="name" value="荆棘30技能书"/>
+			<string name="desc" value="100%概率将#c荆棘#的技能上限提升至30，使用时技能等级+1。\n职业：双刀大师\n要求：技能等级10以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620006">
+			<string name="name" value="魔法盾技能书"/>
+			<string name="desc" value="100%概率将#c魔法盾#的技能上限提升至20。\n职业：龙神\n条件：技能等级5以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620007">
+			<string name="name" value="魔法加速器技能书"/>
+			<string name="desc" value="100%概率将#c魔法加速器#的技能上限提升至20。\n职业：龙神\n条件：技能等级5以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5620008">
+			<string name="name" value="魔法暴击技能书"/>
+			<string name="desc" value="100%概率将#c魔法暴击#的技能上限提升至15。\n职业：龙神\n条件：技能等级5以上\n#c每个角色只能使用一次。"/>
+		</imgdir>
+    <imgdir name="5640000">
+			<string name="name" value="帕姆之歌"/>
+			<string name="desc" value="当卷轴使用失败时，可以使用此道具防止升级次数被消耗。"/>
+		</imgdir>
+    <imgdir name="5660000">
+			<string name="name" value="任务快递员托马斯"/>
+			<string name="desc" value="无论你离任务发布者有多远，托马斯都能把可接取的任务送到你面前！（部分任务不适用。）"/>
+		</imgdir>
+    <imgdir name="5660001">
+			<string name="name" value="任务完成者爱丽丝"/>
+			<string name="desc" value="即使你离NPC很远，爱丽丝也能帮你提交已完成的任务！（部分任务不适用。）"/>
+		</imgdir>
+    <imgdir name="5660002">
+			<string name="name" value="任务快递员托马斯"/>
+			<string name="desc" value="无论你离任务发布者有多远，托马斯都能把可接取的任务送到你面前！（部分任务不适用。）"/>
+		</imgdir>
+	</imgdir>

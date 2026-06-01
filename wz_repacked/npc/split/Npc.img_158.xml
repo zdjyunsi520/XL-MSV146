@@ -1,0 +1,117 @@
+<imgdir name="Npc.img">
+    <imgdir name="1064029">
+		<string name="name" value="Quest Map Exit"/>
+	</imgdir>
+    <imgdir name="1064031">
+		<string name="name" value="Havis"/>
+	</imgdir>
+    <imgdir name="1064032">
+		<string name="name" value="Neglected Garden Entrance"/>
+	</imgdir>
+    <imgdir name="9390003">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="Tactician"/>
+		<string name="n0" value="We need to keep tabs on their movement."/>
+		<string name="n1" value="The army equipment budget for this quarter is..."/>
+		<string name="d0" value="Can you do what the Empress requires of you?"/>
+		<string name="d1" value="If you are a true Cygnus Knight, then you have duties you must perform."/>
+	</imgdir>
+    <imgdir name="9390004">
+		<string name="name" value="Wynn"/>
+		<string name="n0" value="Hey you! What are you looking at?"/>
+		<string name="n1" value="What happened to this place?"/>
+	</imgdir>
+    <imgdir name="9390005">
+		<string name="name" value="Principal Researcher Bass"/>
+		<string name="n0" value="I am Bass, the Principal Researcher here."/>
+		<string name="n1" value="I want to get started with my work, but the monsters..."/>
+	</imgdir>
+    <imgdir name="9390006">
+		<string name="name" value="Wynn"/>
+		<string name="n0" value="Hey you! What are you looking at?"/>
+		<string name="n1" value="What happened to this place?"/>
+	</imgdir>
+    <imgdir name="9390007">
+		<string name="name" value="Wynn"/>
+		<string name="n0" value="Hey you! What are you looking at?"/>
+		<string name="n1" value="What happened to this place?"/>
+	</imgdir>
+    <imgdir name="9061000">
+		<string name="name" value="Tutorial Admin"/>
+	</imgdir>
+    <imgdir name="9061001">
+		<string name="name" value="Tutorial Admin"/>
+	</imgdir>
+    <imgdir name="9061002">
+		<string name="name" value="Tutorial Cassandra"/>
+	</imgdir>
+    <imgdir name="1510000">
+		<string name="name" value="Putan"/>
+		<string name="d0" value="I am Putan, mightiest of penguins."/>
+		<string name="d1" value="I am Putan, mightiest of penguins."/>
+		<string name="n0" value="I am Putan, mightiest of penguins."/>
+		<string name="n1" value="The seas have grown fat as fat orca, yes?"/>
+	</imgdir>
+    <imgdir name="1510001">
+		<string name="name" value="Pushki"/>
+		<string name="d0" value="Don't be the only sardine out of the school, that's what I say!"/>
+		<string name="d1" value="Don't be the only sardine out of the school, that's what I say!"/>
+		<string name="n0" value="I used to hate seaweed, but then it grew on me."/>
+		<string name="n1" value="I'm on a see-food diet right now."/>
+	</imgdir>
+    <imgdir name="1510002">
+		<string name="name" value="Alviola"/>
+		<string name="d0" value="I can't stand by here watchin' good folks run outta food, don't ya know?"/>
+		<string name="d1" value="I can't stand by here watchin' good folks run outta food, don't ya know?"/>
+		<string name="n0" value="Ya do things good the first time, and ya don't have ta do 'em again."/>
+		<string name="n1" value="That smell in the air sure does make the fur stand up, don't it?"/>
+	</imgdir>
+    <imgdir name="1510003">
+		<string name="name" value="Alvesh"/>
+		<string name="d0" value="I am the watcher in the snow..."/>
+		<string name="d1" value="I am the watcher in the snow..."/>
+		<string name="n0" value="When our glaciers melt, who will be our hero?"/>
+		<string name="n1" value="We must be vigilant."/>
+	</imgdir>
+    <imgdir name="1510004">
+		<string name="name" value="Dabo"/>
+		<string name="d0" value="We must keep our eyes open, or somebody else'll do it for us, won't they?"/>
+		<string name="d1" value="We must keep our eyes open, or somebody else'll do it for us, won't they?"/>
+		<string name="n0" value="Doesn't this telescope make me look cool? I saw a dog what had one an' thought I should get me own."/>
+		<string name="n1" value="I spend lots of time makin' sure I don' look silly."/>
+	</imgdir>
+    <imgdir name="1510005">
+		<string name="name" value="Dachi"/>
+		<string name="d0" value="I love voyages almost as much as I love a fatty tuna."/>
+		<string name="d1" value="I love voyages almost as much as I love a fatty tuna."/>
+		<string name="n0" value="Let's make ourselves a trip!"/>
+		<string name="n1" value="The sea is where me heart is."/>
+	</imgdir>
+    <imgdir name="1510006">
+		<string name="name" value="Helmsman Tanya"/>
+		<string name="n0" value="Let's make ourselves a trip!"/>
+		<string name="n1" value="Ahoy, little squid! Ready to cast off?"/>
+	</imgdir>
+    <imgdir name="1510007">
+		<string name="name" value="Nora the Explorer"/>
+		<string name="d0" value="This whole glacier is like one big history book! Let's read it together!"/>
+		<string name="d1" value="This whole glacier is like one big history book! Let's read it together!"/>
+		<string name="n0" value="The only way to learn is to dive right in!"/>
+		<string name="n1" value="Let's research together!"/>
+	</imgdir>
+    <imgdir name="1510008">
+		<string name="name" value="Frostwitch Barbara"/>
+		<string name="d0" value="You don't even got the sense to eat before you go out adventurin', do ya?"/>
+		<string name="d1" value="You don't even got the sense to eat before you go out adventurin', do ya?"/>
+		<string name="n0" value="Eat somethin' before ya freeze, ya knucklehead."/>
+		<string name="n1" value="You idiots belong up Zakum's behind!"/>
+		<string name="n2" value="Ya wouldn't know what to do with a weapon enhancement if it bit ya."/>
+		<string name="n3" value="I'll fix you bird-brains somethin' to eat..."/>
+		<string name="n4" value="I ain't no witch! Let an ol' broad enjoy her fancy hat in peace."/>
+		<string name="n5" value="Me a witch? Might as well call the snow a sundae and get yerself a spoon."/>
+		<string name="n6" value="Ya been jammin' white potions up yer nosehole?"/>
+		<string name="n7" value="Finish yer food and get back in yer canoe!"/>
+		<string name="n8" value="This old bird's just as tough as she ever was."/>
+		<string name="n9" value="Life's too short to be squabblin'."/>
+	</imgdir>
+</imgdir>

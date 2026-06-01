@@ -1,0 +1,5 @@
+<imgdir name="61111111">
+        <string name="name" value="Wing Beat (Transfiguration)" />
+        <string name="desc" value="Create a whirlwind that attacks enemies until certain monsters are killed. Whirlwind will dissipate after a short distance or time." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Chance to SlowAttacked Monsters: #prop%\n#cDissipates when certain # of attacks are made, set distance is traveled, or duration expires#." />
+    </imgdir>

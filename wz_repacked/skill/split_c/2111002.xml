@@ -1,0 +1,7 @@
+<imgdir name="2111002">
+        <string name="name" value="爆炸" />
+        <string name="desc" value="在你附近制造火焰爆炸攻击周围敌人~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+        <string name="pdesc" value="在你附近制造火焰爆炸攻击周围敌人~" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

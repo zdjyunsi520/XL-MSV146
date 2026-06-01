@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049107">
+		<string name="name" value="[6th Anniversary] Scroll for Gloves for STR 70%"/>
+		<string name="desc" value="Improves Strength on Maple Gages."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nSTR: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049108">
+		<string name="name" value="[6th Anniversary] Scroll for Gloves for LUK 70%"/>
+		<string name="desc" value="Improves Luck on Maple Gages."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049109">
+		<string name="name" value="[6th Anniversary] Scroll for Gloves for INT 70%"/>
+		<string name="desc" value="Improves Intelligence on Maple Gages."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049110">
+		<string name="name" value="[6th Anniversary] Scroll for Gloves for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on Maple Gages."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +1\r\nAccuracy: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2049112">
+		<string name="name" value="King Pepe's 100% Scroll for Weapons"/>
+		<string name="desc" value="Improves or decreases the effectiveness of King Pepe weapons.\nSuccess Rate: 100%"/>
+	</imgdir>
+    <imgdir name="2049113">
+		<string name="name" value="Normal Witch Scroll"/>
+		<string name="desc" value="A scroll that, depending on chance, will either improve or worsen the Talking Witch Hat or Broomstick obtained from the Witch."/>
+	</imgdir>
+    <imgdir name="2049114">
+		<string name="name" value="Witch's Belt Scroll"/>
+		<string name="desc" value="A scroll that, depending on chance, will either improve or worsen the Witch's Belts obtained from the Witch."/>
+	</imgdir>
+    <imgdir name="2049115">
+		<string name="name" value="Scroll for Ravana Helmet of Chaos 50%"/>
+		<string name="desc" value="Alters Ravana Helmet for better or worse. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nChance to destroy item on failure: 20%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049116">
+		<string name="name" value="Miraculous Chaos Scroll 60%"/>
+		<string name="desc" value="Alters equipment for better or worse stats than the Chaos Scroll. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049117">
+		<string name="name" value="Chaos Scroll 60%"/>
+		<string name="desc" value="Alters equipment for better or worse. Cannot be used on Cash items. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049118">
+		<string name="name" value="Chaos Scroll 60%"/>
+		<string name="desc" value="Alters equipment for better or worse. Cannot be used on Cash items. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049119">
+		<string name="name" value="Incredible Chaos Scroll 60%"/>
+		<string name="desc" value="Alters equipment for better or worse stats than the Chaos Scroll. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049120">
+		<string name="name" value="Golden Pig Dream Chaos Scroll 60%"/>
+		<string name="desc" value="Alters Golden Pig Dream Belt for better or worse. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049121">
+		<string name="name" value="Homecoming Armor Chaos Scroll 40%"/>
+		<string name="desc" value="Alters Sports Day Victory armors for better or worse. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049122">
+		<string name="name" value="Chaos Scroll of Goodness 50%"/>
+		<string name="desc" value="Reconfigures equipment stats. Overall power will not decrease. Cannot be used on cash items."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049123">
+		<string name="name" value="Spiegelmann's Belt Chaos Scroll 30%"/>
+		<string name="desc" value="Alters Spiegelmann Belt for better or worse. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 70%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049125">
+		<string name="name" value="8th Anniversary Chaos Scroll 60%"/>
+		<string name="desc" value="Alters Maple Amethysian and Grand Maple Amethysian Equipment for better or worse. Some stats are not affected."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+	</imgdir>
+    <imgdir name="2049126">
+		<string name="name" value="Battle Mode Chaos Scroll 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 100%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Alters Battle Mode equipment for better or worse. Can also be used on Grand Weapons and Armors, Larson Accessories, Crescent Moon Accessories, Halfmoon Accessories, Rising Sun Accessories, and Blazing Sun Accessories. Some stats are not affected."/>
+	</imgdir>
+    <imgdir name="2049127">
+		<string name="name" value="Mesoranger Chaos Scroll of Goodness 5%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 5%\r\nReconfigures equipment stats\r\nImproves equipment\r\n#"/>
+		<string name="desc" value="Readjusts the Mesoranger armor's current stats without decreasing its stats. Some stats are not affected."/>
+	</imgdir>
+    <imgdir name="2049128">
+		<string name="name" value="Mesoranger Miraculous Chaos Scroll 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nReconfigures equipment stats\r\n#"/>
+		<string name="desc" value="Alters Mesoranger armor for better or worse stats than the Chaos Scroll. Some stats are not affected."/>
+	</imgdir>
+</imgdir>

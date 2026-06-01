@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430130">
+		<string name="name" value="Resistance Energy Capsule"/>
+		<string name="desc" value="A special Energy Capsule for Resistance members. It can only be used by Resistance members Level 30 or above, and may be used up to 7 times. A large amount of EXP will be gained when used.\n#cExpires: Jan 18th#"/>
+	</imgdir>
+    <imgdir name="2430131">
+		<string name="name" value="Energy Charge"/>
+		<string name="desc" value="A special Energy Capsule. Starting on Jan 19, it can be used by anyone Level 30 or above, and may be used up to 7 times (Including the number of times the Resistance Energy Capsule is used). A large amount of EXP will be gained when used.\n#cExpires: Feb 28th#"/>
+	</imgdir>
+    <imgdir name="2430132">
+		<string name="name" value="Resistance Weapon Box"/>
+		<string name="desc" value="A box that contains secret weapons for the Resistance. It is locked with a secret password. It can only be opened by #cResistance members#. It can be used until #cFeb 28th#."/>
+	</imgdir>
+    <imgdir name="2430133">
+		<string name="name" value="Cassandra's Supply Box"/>
+		<string name="desc" value="A box that contains supplies prepared by Cassandra."/>
+	</imgdir>
+    <imgdir name="2430134">
+		<string name="name" value="Resistance Secret Box"/>
+		<string name="desc" value="A secret box, with something hidden inside. It's locked with a password. It can be opened after #cDecember 20th#. It doesn't seem like it can just be opened by anyone though..."/>
+	</imgdir>
+    <imgdir name="2430135">
+		<string name="name" value="OS4 Shuttle Driving License"/>
+		<string name="desc" value="Double-click on it to use the [OS4 Shuttle] riding skill for 15 days starting from today."/>
+	</imgdir>
+    <imgdir name="2430136">
+		<string name="name" value="Owl 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Owl] for 30 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430137">
+		<string name="name" value="Owl 1-Year Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Owl] for 1 year, starting from today."/>
+	</imgdir>
+    <imgdir name="2430142">
+		<string name="name" value="Cassandra's Premium Supply Box"/>
+		<string name="desc" value="A box that contains supplies prepared by Cassandra. It is said to contain important items."/>
+	</imgdir>
+    <imgdir name="2430143">
+		<string name="name" value="Unidentified Love Letter"/>
+		<string name="desc" value="A letter sent to you by an anonymous admirer. You can feel how much love was put into it...maybe you should open it..."/>
+	</imgdir>
+    <imgdir name="2430144">
+		<string name="name" value="Secret Mastery Book"/>
+		<string name="desc" value="Use it, and it will change into a Skill Mastery Book. However, you won't know what Skill Mastery Book it will become until you use it."/>
+	</imgdir>
+    <imgdir name="2430145">
+		<string name="name" value="Mothership 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Mothership] for 30 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430146">
+		<string name="name" value="Mothership 1-Year Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Mothership] for 1 year, starting from today."/>
+	</imgdir>
+    <imgdir name="2430147">
+		<string name="name" value="OS3A Robot 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [OS3A Robot] for 30 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430148">
+		<string name="name" value="OS3A Robot 1-Year Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [OS3A Robot] for 1 year, starting from today."/>
+	</imgdir>
+    <imgdir name="2430149">
+		<string name="name" value="Leonardo the Lion 30 Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the [Leonardo the Lion] riding skill for 30 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430150">
+		<string name="name" value="Five Colored Pouch"/>
+		<string name="desc" value="A pouch created by combining cloths of five different colors.#cDouble-click to see what is inside.#"/>
+	</imgdir>
+    <imgdir name="2430158">
+		<string name="name" value="Lion King Medal"/>
+		<string name="desc" value="A medal containing special powers of the Lion King. Although it's gray at the moment, it can be purified into a Noble Lion King Medal with 50 Purification Totems, or into a Royal Lion King Medal with 100 Purification Totems."/>
+	</imgdir>
+    <imgdir name="2430159">
+		<string name="name" value="Alcaster's Crystal"/>
+		<string name="desc" value="A crystal containing Alcaster's magic. Use it to lift the Lion King's curse from the villagers."/>
+	</imgdir>
+    <imgdir name="2430160">
+		<string name="name" value="Strawberry Icecream Bar 15-Day Coupon"/>
+		<string name="desc" value="Double-click to use the Strawberry Icecream Bar for 15 Day, starting from today."/>
+	</imgdir>
+</imgdir>

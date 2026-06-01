@@ -1,0 +1,7 @@
+<imgdir name="4100000">
+        <string name="name" value="Claw Mastery" />
+        <string name="desc" value="Increases the weapon mastery and accuracy of Throwing Stars, and enhances the max number of charges." />
+        <string name="h" value="Claw Master: +#mastery%, Accuracy: +#x, Throwing Stars: +#y" />
+        <string name="pdesc" value="Increases the weapon mastery and accuracy of Throwing Stars, and increases the max number of charges. Also increases the damage of Lucky Seven." />
+        <string name="ph" value="Claw Mastery: +#mastery%, Accuracy: +#x, Throwing Stars: +#y\nLucky Seven Damage: + #damR%" />
+    </imgdir>

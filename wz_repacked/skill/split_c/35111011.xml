@@ -1,0 +1,8 @@
+<imgdir name="35111011">
+        <string name="name" value="治疗机器人H-LX" />
+        <string name="desc" value="召唤固定型机器人H-LX，通过其内置特殊感应器治疗附近队伍成员。治疗一次后，队伍成员5秒内无法再次接受治疗。H-LX在能量耗尽后会自爆。" />
+        <string name="h" value="MP消耗：#mpCon，召唤持续时间：#time秒，队伍HP治疗：#hp%，自爆伤害：#selfDestruction%，冷却时间：#cooltime秒" />
+        <string name="pdesc" value="召唤固定型机器人H-LX，通过其内置特殊感应器治疗附近队伍成员。治疗一次后，队伍成员5秒内无法再次接受治疗。H-LX在能量耗尽后会自爆。" />
+        <string name="ph" value="MP消耗：#mpCon，召唤持续时间：#time秒，队伍HP治疗：#hp%，自爆伤害：#selfDestruction%\n#c冷却时间：#cooltime秒#" />
+        <string name="hch" value="MP消耗：#mpCon，召唤持续时间：#time秒，队伍HP治疗：#hcHp%，自爆伤害：#selfDestruction%\n#c冷却时间：#hcCooltime秒#" />
+    </imgdir>

@@ -1,0 +1,123 @@
+<imgdir name="Npc.img">
+    <imgdir name="9250156">
+		<string name="name" value="OSSS研究员"/>
+		<string name="n0" value="一艘不明宇宙飞船出现在冒险岛世界了！"/>
+		<string name="n1" value="我来给你带路。"/>
+		<string name="d0" value="这艘宇宙飞船是从哪里来的？"/>
+		<string name="d1" value="一艘不明宇宙飞船出现在冒险岛世界了！"/>
+	</imgdir>
+    <imgdir name="9250157">
+		<string name="name" value="Bing博士"/>
+		<string name="n1" value="它看起来很熟悉..."/>
+		<string name="d1" value="它看起来很熟悉... "/>
+		<string name="n0" value="为什么宇宙飞般会在这种地方？"/>
+		<string name="d0" value="为什么宇宙飞般会在这种地方？"/>
+	</imgdir>
+    <imgdir name="9110101">
+		<string name="name" value="Sentsu"/>
+		<string name="func" value="防具商"/>
+		<string name="n0" value="那件，对！试试看！"/>
+		<string name="n1" value="我自己都说，我这里有很棒的防具待售。"/>
+	</imgdir>
+    <imgdir name="9110106">
+		<string name="name" value="Suzume公主"/>
+		<string name="n0" value="篡位者必须为他们的罪行付出代价。"/>
+		<string name="n1" value="我只想享受一杯茶。这要求过分吗，茶杯？！"/>
+		<string name="d0" value="我是Suzume公主。啊，你不必那样的。"/>
+		<string name="d1" value="谢谢你上次的帮助。关于那个青蛙的事。"/>
+	</imgdir>
+    <imgdir name="9110107">
+		<string name="name" value="轿子"/>
+		<string name="n0" value="我们是骄傲的轿夫！"/>
+		<string name="n1" value="需要坐轿吗？"/>
+	</imgdir>
+    <imgdir name="9110108">
+		<string name="name" value="Fuji"/>
+		<string name="n0" value="美丽的事物是稀有的，应该珍惜。这是Fujihawk的智慧。"/>
+		<string name="n1" value="啊，纯粹的灵魂能飞多高呢？"/>
+		<string name="d0" value="Fujihawk，你的存在就是一种激励。"/>
+		<string name="d1" value="Fujihawk，你的存在就是一种激励。"/>
+	</imgdir>
+    <imgdir name="9110111">
+		<string name="name" value="Daisuke"/>
+		<string name="d0" value="我想辞职回家。"/>
+		<string name="d1" value="我想辞职回家。"/>
+		<string name="n0" value="嗯？发生什么事了？"/>
+		<string name="n1" value="该回家了吗？"/>
+	</imgdir>
+    <imgdir name="9120026">
+		<string name="name" value="水晶"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="（这是一块巨大的水晶。）"/>
+		<string name="d1" value="（这是一块巨大的水晶。）"/>
+	</imgdir>
+    <imgdir name="9270044">
+		<string name="name" value="突击队Jim"/>
+		<string name="n0" value="我是Ulu巡逻队的队长。加入我们吧！"/>
+		<string name="n1" value="干得好，击败了Dukus。但还没结束..."/>
+		<string name="d0" value="发生什么事了？这里很危险。"/>
+		<string name="d1" value="发生什么事了？这里很危险。"/>
+	</imgdir>
+    <imgdir name="9270045">
+		<string name="name" value="突击队Jim"/>
+		<string name="n0" value="帮我们击败Ulu城里的所有怪物！"/>
+		<string name="n1" value="干得好，击败了Dukus。但还没结束..."/>
+	</imgdir>
+    <imgdir name="9110110">
+		<string name="name" value="Sasuke"/>
+		<string name="n0" value="可疑人物不允许通过这里！"/>
+		<string name="n1" value="我会用生命来守护这个地方！"/>
+		<string name="d0" value="从此处起仅允许授权人员通行。"/>
+		<string name="d1" value="从此处起仅允许授权人员通行。"/>
+	</imgdir>
+    <imgdir name="9201150">
+		<string name="name" value="Ogard"/>
+		<string name="func" value="驯龙师"/>
+		<string name="n0" value="你怎么能把你的龙弄丢呢？"/>
+		<string name="n1" value="好好照顾他...否则！"/>
+	</imgdir>
+    <imgdir name="9270072">
+		<string name="name" value="小鸟嘴"/>
+		<string name="n0" value="你想离开白色圣诞山吗？"/>
+		<string name="n1" value="如果你想回城，告诉我！"/>
+	</imgdir>
+    <imgdir name="9270073">
+		<string name="name" value="黑鼻毛"/>
+		<string name="n0" value="收集很多圣诞装饰品吧！"/>
+		<string name="n1" value="当圣诞树完成后，会有美妙的事情发生！"/>
+	</imgdir>
+    <imgdir name="9270074">
+		<string name="name" value="毛球"/>
+		<string name="n0" value="我用雪结晶兑换物品！"/>
+		<string name="n1" value="把雪结晶带给我！"/>
+	</imgdir>
+    <imgdir name="9270075">
+		<string name="name" value="小鸟嘴"/>
+		<string name="n0" value="你想去白色圣诞山吗？"/>
+		<string name="n1" value="我带你去圣诞树那里！"/>
+	</imgdir>
+    <imgdir name="9270076">
+		<string name="name" value="白色毛球"/>
+		<string name="n0" value="金色雪结晶可以兑换稀有物品。"/>
+		<string name="n1" value="我超喜欢金色雪结晶！"/>
+	</imgdir>
+    <imgdir name="1002102">
+		<string name="name" value="鳗鱼"/>
+		<string name="n0" value="我得完成清洁工作。"/>
+		<string name="n1" value="嗯...你今天需要做的是..."/>
+		<string name="d0" value="清洁工作没有看起来那么简单。"/>
+		<string name="d1" value="你需要什么？我只是个扫街的。"/>
+	</imgdir>
+    <imgdir name="1011100">
+		<string name="name" value="Luna"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="*打哈欠* 我好累...你想要什么就选什么吧..."/>
+	</imgdir>
+    <imgdir name="1012007">
+		<string name="name" value="训练师Frod"/>
+		<string name="func" value="宠物训练师"/>
+		<string name="n0" value="嗯...我哥哥一直让我做这些无聊的任务..."/>
+		<string name="n1" value="和你的宠物在城里散步...那不是世上最美好的感觉吗？"/>
+	</imgdir>
+</imgdir>

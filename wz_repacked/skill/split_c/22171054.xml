@@ -1,0 +1,5 @@
+<imgdir name="22171054">
+        <string name="name" value="狂暴之魂" />
+        <string name="desc" value="提升队伍（包括自己）的伤害。" />
+        <string name="h" value="MP消耗：#mpCon，持续时间：#time 秒，伤害：+#indieDamR%。\n冷却时间：#cooltime 秒" />
+    </imgdir>

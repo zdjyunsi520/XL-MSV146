@@ -1,0 +1,7 @@
+<imgdir name="35111010">
+        <string name="name" value="Satellite" />
+        <string name="desc" value="Summons &lt;Satellites&gt;, tiny attack devices controlled remotely. They attack the monsters you&apos;re attacking. Up to 3 Satellites can be summoned. Cancel the summons be pressing the skill key again." />
+        <string name="h" value="MP Cost: #mpCon, Max Satellites: #x, Damage: #damage%" />
+        <string name="pdesc" value="Summons Satellites, tiny attack devices controlled remotely. They attack the monsters you&apos;re attacking. Up to 3 Satellites can be summoned. Cancel the summon be pressing the skill key again." />
+        <string name="ph" value="MP Cost: #mpCon, Max Satellites: #x, Damage: #damage%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290568">
+		<string name="name" value="[Special Mastery Book] Barricade Mastery 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBarricade Mastery# to 30.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290569">
+		<string name="name" value="[Special Mastery Book] Obsidian Skin 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cObsidian Skin# to 30.\nJob: Demon Slayer\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290570">
+		<string name="name" value="[Special Mastery Book] Defense Break 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDefense Break# to 20.\nJob: Mercedes\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290571">
+		<string name="name" value="Phantom's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Phantom when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290572">
+		<string name="name" value="[Special Mastery Book] Carte Noire 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCarte Noire# to 20.\nJob: Phantom\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290573">
+		<string name="name" value="[Special Mastery Book] Vol D'Ame 20"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cVol D'Ame# to 20.\nJob: Phantom\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290574">
+		<string name="name" value="[Mastery Book] Dual Wield Expert 30"/>
+		<string name="desc" value="50% chance of increasing the max level of #cDual Wield Expert# to 30.\nJob: Blade Master\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2290575">
+		<string name="name" value="[Special Mastery Book] Dual Wield Expert 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cDual Wield Expert# to 30.\nJob: Blade Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290576">
+		<string name="name" value="[Special Mastery Book] Slash Storm 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cSlash Storm# to 20.\nJob: Blade Acolyte\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290577">
+		<string name="name" value="[Special Mastery Book] Flying Assaulter 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cFlying Assaulter# to 20.\nJob: Blade Specialist\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290578">
+		<string name="name" value="[Special Mastery Book] Mirror Image 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cMirror Image# to 20.\nJob: Blade Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290579">
+		<string name="name" value="[Special Mastery Book] Shadow Meld 20"/>
+		<string name="desc" value="100% chance of increasing the max level of #cShadow Meld# to 20.\nJob: Blade Lord\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290580">
+		<string name="name" value="[Mastery Book] Shadow Meld 20"/>
+		<string name="desc" value="50% chance of increasing the max level of #cShadow Meld# to 20.\nJob: Blade Lord\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2290581">
+		<string name="name" value="[Mastery Book] Mystery Mastery Book"/>
+		<string name="desc" value="Transforms into a random Skill Mastery Book upon use."/>
+	</imgdir>
+    <imgdir name="2290582">
+		<string name="name" value="[Special Mastery Book] Expert Sword Mastery 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cExpert Sword Mastery# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290583">
+		<string name="name" value="[Special Mastery Book] Advanced Final Attack 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cAdvanced Final Attack# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290584">
+		<string name="name" value="[Special Mastery Book] Soul Asylum 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cSoul Asylum# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290585">
+		<string name="name" value="[Special Mastery Book] Power Stance 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cPower Stance# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290586">
+		<string name="name" value="[Special Mastery Book] Roiling Soul 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cRoiling Soul# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290587">
+		<string name="name" value="[Special Mastery Book] Four-Point Assault 30"/>
+		<string name="desc" value="100% chance of increasing the max level of #cFour-Point Assault# to 30.\nJob: Mihile (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

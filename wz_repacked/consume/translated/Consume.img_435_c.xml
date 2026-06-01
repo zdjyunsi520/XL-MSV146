@@ -1,0 +1,97 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040862">
+		<string name="name" value="回收巧克力手套魔法攻击卷轴"/>
+		<string name="desc" value="增加所有手套的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040863">
+		<string name="name" value="回收巧克力手套力量卷轴"/>
+		<string name="desc" value="增加所有手套的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040864">
+		<string name="name" value="回收巧克力手套智力卷轴"/>
+		<string name="desc" value="增加所有手套的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n智力：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040865">
+		<string name="name" value="回收巧克力手套敏捷卷轴"/>
+		<string name="desc" value="增加所有手套的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n敏捷：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040866">
+		<string name="name" value="回收巧克力手套运气卷轴"/>
+		<string name="desc" value="增加所有手套的运气。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n运气：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040867">
+		<string name="name" value="回收巧克力手套能量卷轴"/>
+		<string name="desc" value="增加所有手套的最大生命值和魔法值。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n最大生命值：+50\r\n最大魔法值：+50\r\n#"/>
+	</imgdir>
+    <imgdir name="2040868">
+		<string name="name" value="回收巧克力手套防御卷轴"/>
+		<string name="desc" value="增加所有手套的防御。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n武器防御：+3\r\n魔法防御：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040869">
+		<string name="name" value="回收巧克力手套精通卷轴"/>
+		<string name="desc" value="增加所有手套的命中率和回避率。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n命中率：+10\r\n回避率：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2431763">
+		<string name="desc" value="泰纳鲁姆祭坛组队任务天气消息测试"/>
+		<string name="name" value="泰纳鲁姆祭坛天气消息"/>
+	</imgdir>
+    <imgdir name="2431748">
+		<string name="desc" value="收集100个碎片可获得完美的掠夺者印记。"/>
+		<string name="name" value="掠夺者碎片"/>
+	</imgdir>
+    <imgdir name="2550014">
+		<string name="desc" value="#c双击#获得一枚哈尔芬格远征徽章。"/>
+		<string name="name" value="哈尔芬格远征徽章盒"/>
+	</imgdir>
+    <imgdir name="2431733">
+		<string name="desc" value="教你库珀的骑乘坐骑技能。"/>
+		<string name="name" value="库珀的骑乘券"/>
+	</imgdir>
+    <imgdir name="2431745">
+		<string name="desc" value="双击获得永久的[库珀的骑乘]坐骑技能。"/>
+		<string name="name" value="库珀的骑乘永久券"/>
+	</imgdir>
+    <imgdir name="2046831">
+		<string name="name" value="饰品武器攻击秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n武器攻击+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046832">
+		<string name="name" value="饰品魔法攻击秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n魔法攻击+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046833">
+		<string name="name" value="饰品力量秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n力量+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046834">
+		<string name="name" value="饰品智力秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n智力+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046835">
+		<string name="name" value="饰品敏捷秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n敏捷+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046836">
+		<string name="name" value="饰品运气秘卷90%"/>
+		<string name="desc" value="来自黑暗深渊的稀有卷轴。提升饰品的运气。"/>
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n失败时摧毁物品\r\n运气+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046837">
+		<string name="name" value="丽贝卡的饰品武器攻击卷轴40%"/>
+		<string name="desc" value="只能用于丽贝卡特殊饰品的卷轴。提升武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时100%摧毁物品\r\n武器攻击：+2至7\r\n#"/>
+	</imgdir>
+</imgdir>

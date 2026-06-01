@@ -1,0 +1,7 @@
+<imgdir name="13111007">
+        <string name="name" value="Wind Shot" />
+        <string name="desc" value="Fires 3 arrows to inflict damage on monsters. Available only as Eagle Eye. \nRequired skill: #cEagle Eye Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="Fires 3 arrows to inflict damage on enemies. Only available as Eagle Eye. \nRequired Skill: #cEagle Eye Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
+    </imgdir>

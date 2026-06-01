@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2441006">
+		<string name="name" value="Pounding Heart (Left)"/>
+		<string name="desc" value="Put this item in your item pot to increase the creature on the left's likability by 10."/>
+	</imgdir>
+    <imgdir name="2441007">
+		<string name="name" value="Pounding Heart (Right)"/>
+		<string name="desc" value="Put this item in your item pot to increase the creature on the right's likability by 10."/>
+	</imgdir>
+    <imgdir name="2450000">
+		<string name="name" value="Hunter's Luck"/>
+		<string name="desc" value="For 30 minutes, doubles your EXP from hunting."/>
+	</imgdir>
+    <imgdir name="2450017">
+		<string name="name" value="Premium PC Cafe Privilege"/>
+		<string name="desc" value="Receive 2x EXP for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2450018">
+		<string name="name" value="Dual Blade: 2x EXP!"/>
+		<string name="desc" value="Receive 2x EXP for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2450019">
+		<string name="name" value="Maple Booster 2x"/>
+		<string name="desc" value="Multiplies your EXP by 2 for 30 min."/>
+	</imgdir>
+    <imgdir name="2450020">
+		<string name="name" value="Maple Booster 1.5x"/>
+		<string name="desc" value="Multiplies your EXP by 1.5 for 30 min."/>
+	</imgdir>
+    <imgdir name="2450021">
+		<string name="name" value="Blessing for the Returned Friend"/>
+		<string name="desc" value="Increases EXP 1.5X for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450022">
+		<string name="name" value="Lucky Gift: EXP Increase Coupon"/>
+		<string name="desc" value="Lucky Gift given by the Administrator. Increases EXP 2X for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450023">
+		<string name="name" value="Blessing for the Prodigal Son"/>
+		<string name="desc" value="Multiplies your EXP by 3 for 60 min."/>
+	</imgdir>
+    <imgdir name="2450026">
+		<string name="name" value="Admin's Heart"/>
+		<string name="desc" value="Admin's apologies for the events of January 1st. Use it to receive EXP x2 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450027">
+		<string name="name" value="Dreamer's Drive"/>
+		<string name="desc" value="Weekend benefit for people who have played more than 3 times from Monday through Friday. Can only be used until midnight.\n#cDouble-click# to activate the buff.\n#cDuration: 1 Hour\nEffect: EXP x2"/>
+	</imgdir>
+    <imgdir name="2450028">
+		<string name="name" value="Warrior's Star"/>
+		<string name="desc" value="The energy flowing from the Warrior's Star will place a 1.5x EXP buff on you for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450029">
+		<string name="name" value="Wise Man's Star"/>
+		<string name="desc" value="The energy flowing from the Wise Man's Star will place a 1.5x EXP buff on you for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450030">
+		<string name="name" value="Returning Member Blessing"/>
+		<string name="desc" value="A blessing given to users who've returned to MapleStory during the Maple Return Event. 1.5x EXP buff for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2450031">
+		<string name="name" value="New Member Blessing"/>
+		<string name="desc" value="A blessing given to users who've started MapleStory during the Maple New Member Event. 2x EXP buff for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450032">
+		<string name="name" value="Hunter's Star"/>
+		<string name="desc" value="The energy flowing from the Hunter's Star will place a 1.5x EXP buff on you for 1 hour."/>
+	</imgdir>
+    <imgdir name="2450033">
+		<string name="name" value="Saturday Blessing"/>
+		<string name="desc" value="A blessing that will help you have a happy day by increasing your EXP by 1.5x for 1 hour.#cCan only be used on a Saturday.#"/>
+	</imgdir>
+    <imgdir name="2450034">
+		<string name="name" value="Sunday Blessing"/>
+		<string name="desc" value="A blessing that will help you have a happy day by increasing your EXP by 1.5x for 1 hour.#cCan only be used on a Sunday.#"/>
+	</imgdir>
+    <imgdir name="2450035">
+		<string name="name" value="Hakuna Matata Saturday Blessings"/>
+		<string name="desc" value="A blessing that will rid your worries and problems by increasing your EXP by 1.5x for 1 hour.#cCan only be used on a Saturday.#"/>
+	</imgdir>
+</imgdir>

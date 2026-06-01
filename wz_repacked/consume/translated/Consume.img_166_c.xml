@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2100170">
+		<string name="name" value="拉瓦纳召唤"/>
+		<string name="desc" value="召唤90级的拉瓦纳。"/>
+	</imgdir>
+    <imgdir name="2100171">
+		<string name="name" value="拉瓦纳召唤"/>
+		<string name="desc" value="召唤120级的拉瓦纳。"/>
+	</imgdir>
+    <imgdir name="2100172">
+		<string name="name" value="沙姆斯召唤"/>
+		<string name="desc" value="第1-4阶段护送"/>
+	</imgdir>
+    <imgdir name="2100173">
+		<string name="name" value="沙姆斯召唤"/>
+		<string name="desc" value="第5阶段展示"/>
+	</imgdir>
+    <imgdir name="2100174">
+		<string name="name" value="雷克斯召唤袋"/>
+		<string name="desc" value="护送任务用"/>
+	</imgdir>
+    <imgdir name="2100180">
+		<string name="name" value="席勒召唤袋"/>
+		<string name="desc" value="席勒召唤袋"/>
+	</imgdir>
+    <imgdir name="2100182">
+		<string name="name" value="安妮召唤袋"/>
+		<string name="desc" value="安妮召唤袋"/>
+	</imgdir>
+    <imgdir name="2100186">
+		<string name="name" value="西格纳斯召唤袋"/>
+		<string name="desc" value="西格纳斯召唤袋"/>
+	</imgdir>
+    <imgdir name="2100187">
+		<string name="name" value="西格纳斯骑士召唤袋"/>
+		<string name="desc" value="西格纳斯骑士召唤袋"/>
+	</imgdir>
+    <imgdir name="2100188">
+		<string name="name" value="西格纳斯骑士召唤袋"/>
+		<string name="desc" value="西格纳斯骑士召唤袋"/>
+	</imgdir>
+    <imgdir name="2100189">
+		<string name="name" value="神秘袋子"/>
+		<string name="desc" value="卡桑德拉说无法知道这个袋子会召唤出什么怪物，但可能会召唤出特殊的、难以找到的怪物。"/>
+	</imgdir>
+    <imgdir name="2100190">
+		<string name="name" value="召唤蘑菇妈妈"/>
+		<string name="desc" value="召唤蘑菇妈妈。"/>
+	</imgdir>
+    <imgdir name="2100191">
+		<string name="name" value="召唤深红血蝴蝶"/>
+		<string name="desc" value="召唤深红血蝴蝶。"/>
+	</imgdir>
+    <imgdir name="2100192">
+		<string name="name" value="召唤狼人"/>
+		<string name="desc" value="召唤狼人。"/>
+	</imgdir>
+    <imgdir name="2100193">
+		<string name="name" value="召唤血蝴蝶"/>
+		<string name="desc" value="召唤血蝴蝶。"/>
+	</imgdir>
+    <imgdir name="2100194">
+		<string name="name" value="召唤月亮兔子"/>
+		<string name="desc" value="召唤月亮兔子。"/>
+	</imgdir>
+    <imgdir name="2100195">
+		<string name="name" value="召唤肯特"/>
+		<string name="desc" value="召唤肯特。"/>
+	</imgdir>
+    <imgdir name="2100196">
+		<string name="name" value="凶恶霍布林召唤袋"/>
+		<string name="desc" value="召唤凶恶霍布林。"/>
+	</imgdir>
+    <imgdir name="2100197">
+		<string name="name" value="圣救世主迷你地牢召唤袋"/>
+		<string name="desc" value="圣救世主迷你地牢召唤袋"/>
+	</imgdir>
+    <imgdir name="2100198">
+		<string name="name" value="美德迷你地牢召唤袋"/>
+		<string name="desc" value="美德迷你地牢召唤袋"/>
+	</imgdir>
+</imgdir>

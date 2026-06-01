@@ -1,0 +1,75 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="220000300">
+			<string name="scr00" value="青蛙屋"/>
+		</imgdir>
+    <imgdir name="221040000">
+			<string name="MD00" value="迷你副本:警告!发现外星人"/>
+		</imgdir>
+    <imgdir name="220011000">
+			<string name="in00" value="天空露台"/>
+		</imgdir>
+    <imgdir name="900030000">
+			<string name="out00" value="黑魔法师远征军据点"/>
+		</imgdir>
+    <imgdir name="105000000">
+			<imgdir name="east00">
+				<string name="Title" value="寂静沼泽"/>
+				<imgdir name="Mob">
+					<string name="0" value="4130100"/>
+				</imgdir>
+    <imgdir name="105030000">
+			<imgdir name="under00">
+				<string name="Title" value="通往地下神殿的楼梯"/>
+				<imgdir name="Npc">
+					<string name="0" value="Suspicious Man"/>
+				</imgdir>
+    <imgdir name="105100100">
+			<imgdir name="in00">
+				<string name="Title" value="特里斯坦的坟墓"/>
+			</imgdir>
+    <imgdir name="914100010">
+			<string name="in00" value="沉默洞穴"/>
+		</imgdir>
+    <imgdir name="100020200">
+			<imgdir name="east00">
+				<string name="Title" value="魔像神殿入口"/>
+				<imgdir name="Mob">
+					<string name="0" value="5130101"/>
+				</imgdir>
+    <imgdir name="100020500">
+			<imgdir name="out00">
+				<string name="Title" value="鬼蘑菇路"/>
+				<imgdir name="Mob">
+					<string name="0" value="2230101"/>
+				</imgdir>
+    <imgdir name="271000300">
+			<string name="in00" value="骑士团据点入口"/>
+		</imgdir>
+    <imgdir name="271010400">
+			<string name="north" value="六道十字路口"/>
+		</imgdir>
+    <imgdir name="271030000">
+			<string name="in00" value="骑士区域1"/>
+		</imgdir>
+    <imgdir name="271030010">
+			<string name="in00" value="骑士区域1"/>
+		</imgdir>
+    <imgdir name="271030100">
+			<string name="out00" value="骑士团据点入口"/>
+		</imgdir>
+    <imgdir name="271030400">
+			<string name="in00" value="秘密花园"/>
+		</imgdir>
+    <imgdir name="271030600">
+			<string name="in00" value="希纳斯花园"/>
+		</imgdir>
+    <imgdir name="271040000">
+			<string name="in00" value="希纳斯的房间"/>
+		</imgdir>
+    <imgdir name="222020100">
+			<string name="in00" value="赫利俄斯塔99楼"/>
+		</imgdir>
+    <imgdir name="222020200">
+			<string name="in00" value="赫利俄斯塔2楼"/>
+		</imgdir>
+</imgdir>

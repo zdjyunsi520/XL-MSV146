@@ -1,0 +1,114 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201124">
+		<string name="name" value="Bowman Statue"/>
+		<string name="d0" value="Do you want to be a Bowman?"/>
+		<string name="d1" value="Do you want to be a Bowman?"/>
+		<string name="n0" value="I will send you to Henesys if you want to be a Bowman."/>
+		<string name="n1" value="Come to me if you want to be a Bowman."/>
+	</imgdir>
+    <imgdir name="9201125">
+		<string name="name" value="Magician Statue"/>
+		<string name="d0" value="Do you want to be a Magician?"/>
+		<string name="d1" value="Do you want to be a Magician?"/>
+		<string name="n0" value="I will send you to Ellinia if you want to be a Magician."/>
+		<string name="n1" value="Come to me if you want to be a Magician."/>
+	</imgdir>
+    <imgdir name="9201126">
+		<string name="name" value="Thief Statue"/>
+		<string name="d0" value="Do you want to be a Thief?"/>
+		<string name="d1" value="Do you want to be a Thief?"/>
+		<string name="n0" value="I will send you to Kerning City if you want to be a Thief."/>
+		<string name="n1" value="Come to me if you want to be a Thief."/>
+	</imgdir>
+    <imgdir name="9201127">
+		<string name="name" value="Pirate Statue"/>
+		<string name="d0" value="Do you want to be a Pirate?"/>
+		<string name="d1" value="Do you want to be a Pirate?"/>
+		<string name="n0" value="I will send you to Nautilus if you want to be a Pirate."/>
+		<string name="n1" value="Come to me if you want to be a Pirate."/>
+	</imgdir>
+    <imgdir name="9201146">
+		<string name="name" value="Cake Boss Daniel"/>
+	</imgdir>
+    <imgdir name="9201147">
+		<string name="name" value="Pie Lord Tiara"/>
+	</imgdir>
+    <imgdir name="9201139">
+		<string name="name" value="Olivia's Mirror1"/>
+	</imgdir>
+    <imgdir name="9201140">
+		<string name="name" value="Olivia's Mirror2"/>
+	</imgdir>
+    <imgdir name="9201141">
+		<string name="name" value="Olivia's Mirror3"/>
+	</imgdir>
+    <imgdir name="9209006">
+		<string name="name" value="Hanako"/>
+		<string name="func" value="Special Item Merchant"/>
+		<string name="n0" value="My hats are only for people with elegant taste! "/>
+		<string name="n1" value="I make the most exquisite hats. "/>
+	</imgdir>
+    <imgdir name="9209100">
+		<string name="name" value="Santa"/>
+		<string name="func" value="Entrance - Holiday PQ Map"/>
+	</imgdir>
+    <imgdir name="9209101">
+		<string name="name" value="Santa"/>
+		<string name="n0" value="Happy Holidays!"/>
+		<string name="n1" value="Select the present you want."/>
+		<string name="func" value="PQ Reward"/>
+	</imgdir>
+    <imgdir name="9220000">
+		<string name="name" value="Milla"/>
+		<string name="n0" value="Hey there? I'm Milla."/>
+		<string name="n1" value="You've met my sister, Camila before, right?"/>
+		<string name="d0" value="Are you having fun in here?"/>
+		<string name="d1" value="Are you having fun in here?"/>
+	</imgdir>
+    <imgdir name="9250000">
+		<string name="name" value="Ponlaa"/>
+		<string name="n0" value="I wish my eyes were a little bigger..."/>
+		<string name="n1" value="What can I do to make myself look more beautiful?"/>
+		<string name="d0" value="My eyes are slanted, and my nose is crooked. Why am I so ugly? "/>
+		<string name="d1" value="Mirror mirror on the wall, who is the prettiest of them all?"/>
+	</imgdir>
+    <imgdir name="9250005">
+		<string name="name" value="Pond"/>
+		<string name="n0" value="The Floating Market is full of energy! I love it!"/>
+		<string name="n1" value="Hey, I don't think we've ever met..."/>
+		<string name="d1" value="By the way, are you aware that the Floating Market offers numerous types of delicious food? It's so good that you'll want to bring your family and your relatives here to share the love!"/>
+		<string name="d0" value="Why do you come to see me?"/>
+	</imgdir>
+    <imgdir name="9250007">
+		<string name="name" value="Dang"/>
+		<string name="func" value="Weapon Store"/>
+		<string name="n0" value="Our town offers weapons you have NEVER seen from anywhere else!"/>
+		<string name="n1" value=" Come check it out."/>
+	</imgdir>
+    <imgdir name="9250008">
+		<string name="name" value="Parn"/>
+		<string name="func" value="Potion Store"/>
+		<string name="n0" value="We at the Floating Market pride ourselves in using the finest materials to create medicines of excellent quality. I'm pretty sure you have never heard of some of them."/>
+		<string name="n1" value="Come check it out."/>
+	</imgdir>
+    <imgdir name="9250009">
+		<string name="name" value="Noi-nha"/>
+		<string name="func" value="Armor Store"/>
+		<string name="n0" value="You must be a traveler. I don't think I've ever seen you around here."/>
+		<string name="n1" value="It's really dangerous once you step out of this town. Please prepare yourself with armors you can count on."/>
+	</imgdir>
+    <imgdir name="9250010">
+		<string name="name" value="Pornsak"/>
+		<string name="n0" value="We won't wait for you if you're late."/>
+		<string name="n1" value="It's so hot today. A day like this should be spent under the palm trees, enjoying the summer breeze."/>
+		<string name="d0" value="What do you want with me?"/>
+		<string name="d1" value="Whew... So hot!"/>
+	</imgdir>
+    <imgdir name="9250011">
+		<string name="name" value="Chut"/>
+		<string name="n0" value="It's much cooler to stand underneath the palm tree!"/>
+		<string name="n1" value="I would love to have some watermelon shake!"/>
+		<string name="d0" value="Hi there? I'm #bChut#k."/>
+		<string name="d1" value="Thank you sooo much for your help last time."/>
+	</imgdir>
+</imgdir>

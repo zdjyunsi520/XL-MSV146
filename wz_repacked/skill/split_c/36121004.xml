@@ -1,0 +1,5 @@
+<imgdir name="36121004">
+        <string name="name" value="攻击矩阵" />
+        <string name="desc" value="激活攻击矩阵，短时间内无视敌人防御和击退！" />
+        <string name="h" value="MP Cost: #mpCon, Duration #time, Power Stance: #x%, Enemy Defenses: #y% ignored" />
+    </imgdir>

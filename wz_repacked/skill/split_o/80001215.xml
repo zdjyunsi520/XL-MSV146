@@ -1,0 +1,5 @@
+<imgdir name="80001215">
+        <string name="name" value="Kitty Claws" />
+        <string name="desc" value="Meeowr! When summoned by a soul weapon, Von Leon uses a kittenish combat style." />
+        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\nCooldown: #cooltime sec" />
+    </imgdir>

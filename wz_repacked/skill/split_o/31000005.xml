@@ -1,0 +1,5 @@
+<imgdir name="31000005">
+        <string name="name" value="Guardian Armor" />
+        <string name="pdesc" value="Increase Battle Mode ATT based on DEF." />
+        <string name="ph" value="Battle Mode ATT: +1 per #x DEF" />
+    </imgdir>

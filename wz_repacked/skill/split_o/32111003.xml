@@ -1,0 +1,7 @@
+<imgdir name="32111003">
+        <string name="name" value="Dark Shock" />
+        <string name="desc" value="Summons two dark orbs and creates a magnetic field between them, which attacks multiple enemies. Increases Critical Hit Rate. Cooldown decreases as your skill level increases." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Max Monsters Hit: #mobCount, Additional Critical Hit Rate: #cr%, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Summons two dark orbs and creates a magnetic field between them, which attacks multiple enemies with an increased Critical Rate. Cooldown decreases as your skill level increases." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% Max Monsters Hit: #mobCount, Critical Rate: +#cr%, Cooldown: #cooltime sec" />
+    </imgdir>

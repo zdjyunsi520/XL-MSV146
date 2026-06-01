@@ -1,0 +1,5 @@
+<imgdir name="2111005">
+        <string name="name" value="法术加速器" />
+        <string name="desc" value="消耗MP暂时将魔法攻击速度翻倍。\n需要技能：#c元素放大 Lv. 3#" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
+    </imgdir>

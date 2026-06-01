@@ -1,0 +1,444 @@
+<imgdir name="Map.img">
+    <imgdir name="thai">
+		<imgdir name="502010000">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="OSSS秘密基地"/>
+		</imgdir>
+		<imgdir name="502010100">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="秘密基地地下通道"/>
+		</imgdir>
+		<imgdir name="502010200">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="深海飞船坠毁地"/>
+		</imgdir>
+		<imgdir name="502010300">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="化石矿物矿山"/>
+		</imgdir>
+		<imgdir name="502010400">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="加工厂输送路线"/>
+		</imgdir>
+		<imgdir name="502010500">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="加工厂防线"/>
+		</imgdir>
+		<imgdir name="502040000">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="冰博士的立方体"/>
+		</imgdir>
+		<imgdir name="502040100">
+			<string name="streetName" value="那一天过去"/>
+			<string name="mapName" value="秘密基地地下通道"/>
+		</imgdir>
+		<imgdir name="502040200">
+			<string name="streetName" value="那一天过去"/>
+			<string name="mapName" value="化石矿物矿山"/>
+		</imgdir>
+		<imgdir name="502040300">
+			<string name="streetName" value="那一天过去"/>
+			<string name="mapName" value="加工厂输送路线"/>
+		</imgdir>
+		<imgdir name="502040400">
+			<string name="streetName" value="那一天过去"/>
+			<string name="mapName" value="加工厂防线"/>
+		</imgdir>
+		<imgdir name="502010600">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="地下通道集合区"/>
+		</imgdir>
+		<imgdir name="502010010">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="地下通道入口"/>
+		</imgdir>
+		<imgdir name="502010020">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="OSSS秘密基地中央指挥室"/>
+		</imgdir>
+		<imgdir name="502010030">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="OSSS秘密基地冰博士的房间"/>
+		</imgdir>
+		<imgdir name="502010040">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="OSSS秘密基地实验室"/>
+		</imgdir>
+		<imgdir name="502029000">
+			<string name="streetName" value="坠毁飞船入口"/>
+			<string name="mapName" value="坠毁飞船入口"/>
+		</imgdir>
+		<imgdir name="502030000">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="入口立方体"/>
+		</imgdir>
+		<imgdir name="502030001">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="次元立方体"/>
+		</imgdir>
+		<imgdir name="502030002">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="生产立方体"/>
+		</imgdir>
+		<imgdir name="502030003">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="能量立方体"/>
+		</imgdir>
+		<imgdir name="502030004">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="增殖立方体"/>
+		</imgdir>
+		<imgdir name="502030005">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="选择立方体"/>
+		</imgdir>
+		<imgdir name="502030007">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="禁忌立方体"/>
+		</imgdir>
+		<imgdir name="502030008">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="控制立方体"/>
+		</imgdir>
+		<imgdir name="502030009">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="毁灭者立方体"/>
+		</imgdir>
+		<imgdir name="502030010">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="指挥官立方体"/>
+		</imgdir>
+		<imgdir name="502030011">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="代表立方体"/>
+		</imgdir>
+		<imgdir name="502030012">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="复活立方体"/>
+		</imgdir>
+		<imgdir name="502030013">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030014">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030015">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502021010">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="未来射手村郊外"/>
+		</imgdir>
+		<imgdir name="502022010">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023000">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023020">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023030">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023040">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023050">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023060">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023070">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023080">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502023090">
+			<string name="streetName" value="未来某一天"/>
+			<string name="mapName" value="能量研究所"/>
+		</imgdir>
+		<imgdir name="502030006">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="再生立方体"/>
+		</imgdir>
+		<imgdir name="502010700">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="输送路线尽头"/>
+		</imgdir>
+		<imgdir name="502010800">
+			<string name="streetName" value="某一天的现在"/>
+			<string name="mapName" value="坚固防线"/>
+		</imgdir>
+		<imgdir name="502030016">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="入口立方体"/>
+		</imgdir>
+		<imgdir name="502030017">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="次元立方体"/>
+		</imgdir>
+		<imgdir name="502030018">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="生产立方体"/>
+		</imgdir>
+		<imgdir name="502030019">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="能量立方体"/>
+		</imgdir>
+		<imgdir name="502030020">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="增殖立方体"/>
+		</imgdir>
+		<imgdir name="502030021">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="选择立方体"/>
+		</imgdir>
+		<imgdir name="502030022">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="再生立方体"/>
+		</imgdir>
+		<imgdir name="502030023">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="禁忌立方体"/>
+		</imgdir>
+		<imgdir name="502030024">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="控制立方体"/>
+		</imgdir>
+		<imgdir name="502030025">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="毁灭者立方体"/>
+		</imgdir>
+		<imgdir name="502030026">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="指挥官立方体"/>
+		</imgdir>
+		<imgdir name="502030027">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="代表立方体"/>
+		</imgdir>
+		<imgdir name="502030028">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="复活立方体"/>
+		</imgdir>
+		<imgdir name="502030029">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030030">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030031">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030032">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="入口立方体"/>
+		</imgdir>
+		<imgdir name="502030033">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="次元立方体"/>
+		</imgdir>
+		<imgdir name="502030034">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="生产立方体"/>
+		</imgdir>
+		<imgdir name="502030035">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="能量立方体"/>
+		</imgdir>
+		<imgdir name="502030036">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="增殖立方体"/>
+		</imgdir>
+		<imgdir name="502030037">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="选择立方体"/>
+		</imgdir>
+		<imgdir name="502030038">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="再生立方体"/>
+		</imgdir>
+		<imgdir name="502030039">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="禁忌立方体"/>
+		</imgdir>
+		<imgdir name="502030040">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="控制立方体"/>
+		</imgdir>
+		<imgdir name="502030041">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="毁灭者立方体"/>
+		</imgdir>
+		<imgdir name="502030042">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="指挥官立方体"/>
+		</imgdir>
+		<imgdir name="502030043">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="代表立方体"/>
+		</imgdir>
+		<imgdir name="502030044">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="复活立方体"/>
+		</imgdir>
+		<imgdir name="502030045">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030046">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030047">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030048">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="入口立方体"/>
+		</imgdir>
+		<imgdir name="502030049">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="次元立方体"/>
+		</imgdir>
+		<imgdir name="502030050">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="生产立方体"/>
+		</imgdir>
+		<imgdir name="502030051">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="能量立方体"/>
+		</imgdir>
+		<imgdir name="502030052">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="增殖立方体"/>
+		</imgdir>
+		<imgdir name="502030053">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="选择立方体"/>
+		</imgdir>
+		<imgdir name="502030054">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="再生立方体"/>
+		</imgdir>
+		<imgdir name="502030055">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="禁忌立方体"/>
+		</imgdir>
+		<imgdir name="502030056">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="控制立方体"/>
+		</imgdir>
+		<imgdir name="502030057">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="毁灭者立方体"/>
+		</imgdir>
+		<imgdir name="502030058">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="指挥官立方体"/>
+		</imgdir>
+		<imgdir name="502030059">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="代表立方体"/>
+		</imgdir>
+		<imgdir name="502030060">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="复活立方体"/>
+		</imgdir>
+		<imgdir name="502030061">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030062">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030063">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030064">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="入口立方体"/>
+		</imgdir>
+		<imgdir name="502030065">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="次元立方体"/>
+		</imgdir>
+		<imgdir name="502030066">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="生产立方体"/>
+		</imgdir>
+		<imgdir name="502030067">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="能量立方体"/>
+		</imgdir>
+		<imgdir name="502030068">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="增殖立方体"/>
+		</imgdir>
+		<imgdir name="502030069">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="选择立方体"/>
+		</imgdir>
+		<imgdir name="502030070">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="再生立方体"/>
+		</imgdir>
+		<imgdir name="502030071">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="禁忌立方体"/>
+		</imgdir>
+		<imgdir name="502030072">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="控制立方体"/>
+		</imgdir>
+		<imgdir name="502030073">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="毁灭者立方体"/>
+		</imgdir>
+		<imgdir name="502030074">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="指挥官立方体"/>
+		</imgdir>
+		<imgdir name="502030075">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="代表立方体"/>
+		</imgdir>
+		<imgdir name="502030076">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="复活立方体"/>
+		</imgdir>
+		<imgdir name="502030077">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030078">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+		<imgdir name="502030079">
+			<string name="streetName" value="母舰"/>
+			<string name="mapName" value="中立立方体"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

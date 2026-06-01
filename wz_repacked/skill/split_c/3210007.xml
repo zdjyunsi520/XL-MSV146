@@ -1,0 +1,7 @@
+<imgdir name="3210007">
+        <string name="name" value="回避提升" />
+        <string name="desc" value="获得躲避敌人攻击的几率。成功躲避后1秒内的所有攻击都会造成暴击！" />
+        <string name="h" value="Dodge Chance: #er%, all attacks following a successful dodge for #time sec will be criticals." />
+        <string name="pdesc" value="获得躲避敌人攻击的几率。成功躲避后1秒内的所有攻击都会造成暴击！" />
+        <string name="ph" value="Dodge Chance: #er%, all attacks following a successful dodge for #time sec will be criticals." />
+    </imgdir>

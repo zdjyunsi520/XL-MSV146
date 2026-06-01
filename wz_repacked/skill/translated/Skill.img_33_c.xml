@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="70000059"><string name="name" value="运气和力量提升"/><string name="desc" value="提升运气和力量。"/><string name="h" value="LUK +#lukFX, STR +#strFX"/></imgdir>
+    <imgdir name="70000060"><string name="name" value="智力和敏捷提升"/><string name="desc" value="提升智力和敏捷。"/><string name="h" value="INT +#intFX, DEX +#dexFX"/></imgdir>
+    <imgdir name="70000061"><string name="name" value="运气和敏捷提升"/><string name="desc" value="提升运气和敏捷。"/><string name="h" value="LUK +#lukFX, DEX +#dexFX"/></imgdir>
+    <imgdir name="70000062"><string name="name" value="运气和智力提升"/><string name="desc" value="提升运气和智力。"/><string name="h" value="LUK +#lukFX, INT +#intFX"/></imgdir>
+    <imgdir name="71000011"><string name="name" value="冒险家战士-英雄"/><string name="desc" value="提升物理防御。"/><string name="h" value="Weapon DEF +#pddR%"/></imgdir>
+    <imgdir name="71000012"><string name="name" value="冒险家战士-圣骑士"/><string name="desc" value="每角色等级提升武器伤害。"/><string name="h1" value="每角色等级武器伤害+0.5"/><string name="h2" value="每角色等级武器伤害+1"/><string name="h3" value="每角色等级武器伤害+1.5"/><string name="h4" value="每角色等级武器伤害+2"/></imgdir>
+    <imgdir name="71000013"><string name="name" value="冒险家战士-黑骑士"/><string name="desc" value="提升最大HP。"/><string name="h" value="Max HP +#mhpR%"/></imgdir>
+    <imgdir name="71000021"><string name="name" value="冒险家魔法师-火毒大魔导士"/><string name="desc" value="提升最大MP。"/><string name="h" value="Max MP +#mmpR%"/></imgdir>
+    <imgdir name="71000022"><string name="name" value="冒险家魔法师-冰雷大魔导士"/><string name="desc" value="每角色等级提升魔法伤害。"/><string name="h1" value="每角色等级魔法伤害+0.5"/><string name="h2" value="每角色等级魔法伤害+1"/><string name="h3" value="每角色等级魔法伤害+1.5"/><string name="h4" value="每角色等级魔法伤害+2"/></imgdir>
+    <imgdir name="71000023"><string name="name" value="冒险家魔法师-主教"/><string name="desc" value="提升MP药水的效果。"/><string name="h" value="MP Potion item&apos;s effect +#mpConEff%"/></imgdir>
+    <imgdir name="71000031"><string name="name" value="冒险家弓箭手-神射手"/><string name="desc" value="提升命中率。"/><string name="h" value="Accuracy +#accR%"/></imgdir>
+    <imgdir name="71000032"><string name="name" value="冒险家弓箭手-神弩手"/><string name="desc" value="提升暴击率。"/><string name="h" value="Critical Rate: +#cr%"/></imgdir>
+    <imgdir name="71000041"><string name="name" value="冒险家飞侠-夜使者"/><string name="desc" value="提升跳跃力。"/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="71000042"><string name="name" value="冒险家飞侠-暗影神偷"/><string name="desc" value="提升移动速度。"/><string name="h" value="Movement Speed +#psdSpeed"/></imgdir>
+    <imgdir name="71000043"><string name="name" value="冒险家飞侠-双刀"/><string name="desc" value="提升回避率。"/><string name="h" value="Avoidability +#evaR%"/></imgdir>
+    <imgdir name="71000051"><string name="name" value="冒险家海盗-武僧"/><string name="desc" value="每等级追加伤害。"/><string name="h" value="#lv2damX additional damage per character level"/></imgdir>
+    <imgdir name="71000052"><string name="name" value="冒险家海盗-船长"/><string name="desc" value="延长召唤兽持续时间。"/><string name="h" value="Summon creature&apos;s duration +#summonTimeR%"/></imgdir>
+    <imgdir name="71000053"><string name="name" value="冒险家海盗-炮术大师"/><string name="desc" value="减少死亡时经验损失。"/><string name="h" value="EXP loss at death -#expLossReduceR%"/></imgdir>
+    <imgdir name="71000311"><string name="name" value="反抗者战士-恶魔猎手"/><string name="desc" value="提升异常状态抗性。"/><string name="h" value="Abnormal Status Resistance +#asrR%"/></imgdir>
+    <imgdir name="71000312"><string name="name" value="反抗者战士-恶魔复仇者"/><string name="desc" value="提升最大HP。"/><string name="h" value="#bdR% additional damage against bosses"/></imgdir>
+</imgdir>

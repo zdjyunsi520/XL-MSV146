@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2041104">
+		<string name="name" value="Scroll for Rings for INT 60%"/>
+		<string name="desc" value="Improves Intelligence on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041105">
+		<string name="name" value="Scroll for Rings for INT 10%"/>
+		<string name="desc" value="Improves Intelligence on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041106">
+		<string name="name" value="Scroll for Rings for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041107">
+		<string name="name" value="Scroll for Rings for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041108">
+		<string name="name" value="Scroll for Rings for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041109">
+		<string name="name" value="Scroll for Rings for LUK 100%"/>
+		<string name="desc" value="Improves Luck on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nLUK: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2041110">
+		<string name="name" value="Scroll for Rings for LUK 60%"/>
+		<string name="desc" value="Improves Luck on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041111">
+		<string name="name" value="Scroll for Rings for LUK 10%"/>
+		<string name="desc" value="Improves Luck on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041112">
+		<string name="name" value="Dark Scroll for Rings for STR 70%"/>
+		<string name="desc" value="Improves Strength on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to be destroyed on failure: 50%\r\nSTR: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041113">
+		<string name="name" value="Dark Scroll for Rings for STR 30%"/>
+		<string name="desc" value="Improves Strength on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to be destroyed on failure: 50%\r\nSTR: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041114">
+		<string name="name" value="Dark Scroll for Rings for INT 70%"/>
+		<string name="desc" value="Improves Intelligence on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041115">
+		<string name="name" value="Dark Scroll for Rings for INT 30%"/>
+		<string name="desc" value="Improves Intelligence on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041116">
+		<string name="name" value="Scroll for Rings for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041117">
+		<string name="name" value="Scroll for Rings for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041118">
+		<string name="name" value="Dark Scroll for Rings for LUK 70%"/>
+		<string name="desc" value="Improves Luck on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041119">
+		<string name="name" value="Dark Scroll for Rings for LUK 30%"/>
+		<string name="desc" value="Improves Luck on rings."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2041134">
+		<string name="name" value="8th Anniversary Scroll for Ring for ATT 10%"/>
+		<string name="desc" value="Improves Attack on Maple Amethysian and Grand Maple Amethysian Rings. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 50%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041135">
+		<string name="name" value="8th Anniversary Scroll for Ring for M. ATT 10%"/>
+		<string name="desc" value="Improves Magic Attack on Maple Amethysian and Grand Maple Amethysian Rings. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nChance to destroy item on failure: 50%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2041200">
+		<string name="name" value="Dragon Stone"/>
+		<string name="desc" value="A stone containing the power of dragons. Can only be used on Horntail Necklaces and Chaos Horntail Necklaces #cwithout upgrades#."/>
+		<string name="autodesc" value="\r\n#cRequirement: At least 3 upgrade slots remaining\r\nSuccess Rate: 100%\r\nSTR: +15\r\nINT: +15\r\nDEX: +15\r\nLUK: +15\r\nWeapon Defense: +350\r\nMagic Defense: +350\r\nAvoidability: +150\r\n#"/>
+	</imgdir>
+    <imgdir name="2041211">
+		<string name="name" value="Spiegelmann's Marble"/>
+		<string name="desc" value="Can only be used on Spiegelmann's Necklace."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMax HP: +150\r\nMax MP: +150\r\n#"/>
+	</imgdir>
+</imgdir>

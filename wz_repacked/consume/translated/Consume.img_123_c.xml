@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046113">
+		<string name="name" value="双手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046114">
+		<string name="name" value="高贵双手武器强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046115">
+		<string name="name" value="高贵双手武器强化卷轴 攻击 65%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046116">
+		<string name="name" value="高贵双手武器强化卷轴 攻击 15%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046117">
+		<string name="name" value="高贵双手武器强化卷轴 攻击 50%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n武器攻击+3\r\n命中：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046118">
+		<string name="name" value="战士双手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+3\r\n敏捷：+1\r\n武器攻击+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046119">
+		<string name="name" value="欢乐第7季暗黑双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n武器攻击：+7至8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046120">
+		<string name="name" value="欢乐第7季暗黑双手武器强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化双手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+7至8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046121">
+		<string name="name" value="猎人双手武器强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n敏捷：+3\r\n武器攻击+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046122">
+		<string name="name" value="传说双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046123">
+		<string name="name" value="传说暗黑双手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046124">
+		<string name="name" value="传说双手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n命中：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046125">
+		<string name="name" value="传说双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046126">
+		<string name="name" value="传说暗黑双手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046127">
+		<string name="name" value="传说双手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n命中：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046128">
+		<string name="name" value="传说枫叶双手武器强化卷轴 攻击 25%"/>
+		<string name="desc" value="强化传说枫叶双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：25%\r\n失败时破坏物品概率：50%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击：+6\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046129">
+		<string name="name" value="回归双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n武器攻击+4\r\n命中：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046130">
+		<string name="name" value="回归双手武器强化卷轴 攻击 40%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n力量：+2\r\n智力：+2\r\n敏捷：+2\r\n幸运：+2\r\n武器攻击+2\r\n命中：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046131">
+		<string name="name" value="狮子王双手武器强化卷轴 攻击"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n武器攻击+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046138">
+		<string name="name" value="叛逆者双手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化双手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+</imgdir>

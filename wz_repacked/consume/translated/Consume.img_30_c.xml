@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022021">
+		<string name="name" value="鱼糕（串）"/>
+		<string name="desc" value="一份还有大量蔬菜的鱼糕串。\n恢复250 MP。"/>
+	</imgdir>
+    <imgdir name="2022022">
+		<string name="name" value="鱼糕（盘）"/>
+		<string name="desc" value="一盘美味的鱼糕。\n恢复500 MP。"/>
+	</imgdir>
+    <imgdir name="2022023">
+		<string name="name" value="三色团子"/>
+		<string name="desc" value="一份包含多种美味团子的三色团子。\nHP和MP各恢复400。"/>
+	</imgdir>
+    <imgdir name="2022024">
+		<string name="name" value="章鱼烧（章鱼丸）"/>
+		<string name="desc" value="看起来很美味的热腾腾的章鱼烧。\n攻击+8，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022025">
+		<string name="name" value="章鱼烧（超大）"/>
+		<string name="desc" value="两份分量的章鱼烧。\n攻击+8，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022026">
+		<string name="name" value="炒面"/>
+		<string name="desc" value="一份包含蔬菜、海鲜和面条的炒面，拌着美味的酱汁。\n魔法攻击+10，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022027">
+		<string name="name" value="炒面（x2）"/>
+		<string name="desc" value="双份炒面，包含蔬菜、海鲜和面条，拌着美味的酱汁。\n魔法攻击+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022028">
+		<string name="name" value="情人节巧克力（黑）"/>
+		<string name="desc" value="在情人节送给爱人的甜蜜巧克力。恢复HP和MP各50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022029">
+		<string name="name" value="情人节巧克力（草莓）"/>
+		<string name="desc" value="在情人节送给爱人的草莓巧克力。恢复HP和MP各100%，如果你的最大HP和MP超过99,999，则限制为99,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022030">
+		<string name="name" value="情人节巧克力（白）"/>
+		<string name="desc" value="送给情人节爱人的白巧克力。命中+200，持续5分钟。"/>
+	</imgdir>
+    <imgdir name="2022031">
+		<string name="name" value="饼干"/>
+		<string name="desc" value="外脆内软的饼干，绝对值得一试。"/>
+	</imgdir>
+    <imgdir name="2022032">
+		<string name="name" value="棉花糖"/>
+		<string name="desc" value="软绵绵的看起来很好吃的棉花糖。"/>
+	</imgdir>
+    <imgdir name="2022033">
+		<string name="name" value="糖果"/>
+		<string name="desc" value="带有热带水果香味的闪亮糖果。"/>
+	</imgdir>
+    <imgdir name="2022034">
+		<string name="name" value="粽子"/>
+		<string name="desc" value="一个小果实。\n恢复50 HP。"/>
+	</imgdir>
+    <imgdir name="2022035">
+		<string name="name" value="冒险岛可乐"/>
+		<string name="desc" value="无"/>
+	</imgdir>
+    <imgdir name="2022036">
+		<string name="name" value="糖果篮"/>
+		<string name="desc" value="防御和回避率增加300，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022037">
+		<string name="name" value="粉色年糕"/>
+		<string name="desc" value="恢复500 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022038">
+		<string name="name" value="米饼干"/>
+		<string name="desc" value="HP和MP各恢复1500。"/>
+	</imgdir>
+    <imgdir name="2022039">
+		<string name="name" value="毒花蜜"/>
+		<string name="desc" value="HP和MP各恢复100。"/>
+	</imgdir>
+    <imgdir name="2022040">
+		<string name="name" value="空气泡"/>
+		<string name="desc" value="空气泡可以在水中呼吸15分钟。"/>
+	</imgdir>
+</imgdir>

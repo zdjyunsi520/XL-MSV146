@@ -1,0 +1,121 @@
+<imgdir name="Npc.img">
+    <imgdir name="1520001">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="没有充分的理由请不要跟我说话。"/>
+		<string name="d1" value="嗯..."/>
+		<string name="n0" value="该怎么办，该怎么办？"/>
+		<string name="n1" value="我需要时间做心理准备。"/>
+		<imgdir name="dialogue">
+			<string name="32248" value="什么...？你太闲了吧！"/>
+		</imgdir>
+    <imgdir name="1520002">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="这是格兰蒂斯吗？在我看来有点奇怪。"/>
+		<string name="d1" value="我真的能在这里找到像我一样的人吗？"/>
+		<string name="n0" value="这是格兰蒂斯吗？看起来很奇特。"/>
+		<string name="n1" value="我真的能在这里找到像我一样的人吗？"/>
+	</imgdir>
+    <imgdir name="1520003">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="探险家应该互相帮助。"/>
+		<string name="d1" value="不管你说什么，你看起来还是像高。"/>
+		<string name="n0" value="探险家应该互相帮助。"/>
+		<string name="n1" value="嘿，高！哈？你不是高吗？"/>
+	</imgdir>
+    <imgdir name="1520004">
+		<string name="name" value="蒙面兔"/>
+	</imgdir>
+    <imgdir name="1520005">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="我就在这里等着。给我带好消息回来。"/>
+		<string name="d1" value="哦，闪亮的珠宝。无论你去哪里，我都会跟着。"/>
+		<string name="n0" value="我就在这里等着。给我带好消息回来。"/>
+		<string name="n1" value="哦，闪亮的珠宝。无论你去哪里，我都会跟着。"/>
+	</imgdir>
+    <imgdir name="1520006">
+		<string name="name" value="奥利夫"/>
+	</imgdir>
+    <imgdir name="1520007">
+		<string name="name" value="奥利夫？"/>
+	</imgdir>
+    <imgdir name="1520008">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="我要抓住陷害我的人，让他们付出代价。"/>
+		<string name="d1" value="我只是因为被陷害才躲起来的！我是无辜的！"/>
+		<string name="n0" value="我要抓住陷害我的人，让他们付出代价。"/>
+		<string name="n1" value="我只是因为被陷害才躲起来的！我是无辜的！"/>
+	</imgdir>
+    <imgdir name="1520009">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="天鹅骑士战术家奈尔哈特一定知道一些能帮助我的事情！"/>
+		<string name="d1" value="你知道吗，他有点可爱，但他让我感到不安..."/>
+		<string name="n0" value="你愿意代表我和奈尔哈特谈谈吗？"/>
+		<string name="n1" value="我需要你澄清我的名声！求求你！我是无辜的！"/>
+	</imgdir>
+    <imgdir name="1520010">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="我正在执行一项非常重要的抓贼任务。"/>
+		<string name="d1" value="不要干扰我的任务。"/>
+		<string name="n0" value="我正在执行一项非常重要的抓贼任务。"/>
+		<string name="n1" value="不要干扰我的任务。"/>
+		<imgdir name="dialogue">
+			<string name="32279" value="你怎么能这样？！我以为你会保守我的秘密！"/>
+		</imgdir>
+    <imgdir name="1520011">
+		<string name="name" value="次元传送门"/>
+		<string name="func" value="万神殿传送门"/>
+	</imgdir>
+    <imgdir name="1520012">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="雅典娜·皮尔斯变化不大。话又说回来，她毕竟是精灵。"/>
+		<string name="d1" value="等等，如果我计算这里每个人的平均年龄..."/>
+		<string name="n0" value="让我们找出黑翼在搞什么鬼，高。"/>
+		<string name="n1" value="哦，对了。我忘了。你'不是'高。"/>
+	</imgdir>
+    <imgdir name="1520013">
+		<string name="name" value="苔丝"/>
+	</imgdir>
+    <imgdir name="1520014">
+		<string name="name" value="氙"/>
+		<string name="func" value="路过的黑翼"/>
+		<imgdir name="dialogue">
+			<string name="32283" value="'黑翼先生'？你在跟我说话吗？"/>
+			<string name="32284" value="除非你必须猎杀几百只怪物才能获得信息，否则信息就没有价值。对吗？"/>
+		</imgdir>
+    <imgdir name="1520015">
+		<string name="name" value="舒格"/>
+		<string name="d0" value="再次见到你我太高兴了！"/>
+		<string name="d1" value="你觉得黑翼在这里搞什么鬼？"/>
+		<string name="n0" value="再次见到你我太高兴了！"/>
+		<string name="n1" value="你觉得黑翼在这里搞什么鬼？"/>
+	</imgdir>
+    <imgdir name="1520016">
+		<string name="name" value="苔丝"/>
+		<string name="d0" value="别跟我说话了。太烦人了。"/>
+		<string name="d1" value="伪装大师，不管他是谁，是黑翼的成员..."/>
+		<string name="n0" value="别跟我说话了。太烦人了。"/>
+		<string name="n1" value="伪装大师，不管他是谁，是黑翼的成员..."/>
+	</imgdir>
+    <imgdir name="1520017">
+		<string name="name" value="奥利夫"/>
+		<string name="d0" value="我永远不会原谅伪装大师！"/>
+		<string name="d1" value="因为他，我一直在逃亡！"/>
+		<string name="n0" value="我永远不会原谅伪装大师！"/>
+		<string name="n1" value="因为他，我一直在逃亡！"/>
+	</imgdir>
+    <imgdir name="1520018">
+		<string name="name" value="朗多"/>
+		<string name="d0" value="我还有未解答的问题。我要盯着他们一段时间。"/>
+		<string name="d1" value="为什么我戴不同的帽子？因为我不想闻起来像脏油腻的头发。废话。"/>
+		<string name="n0" value="我要盯着他们一段时间。"/>
+		<string name="n1" value="我还有未解答的问题。"/>
+	</imgdir>
+    <imgdir name="1520019">
+		<string name="name" value="巴罗克"/>
+		<string name="func" value="伪装大师"/>
+	</imgdir>
+    <imgdir name="1520020">
+		<string name="name" value="希维尔"/>
+		<string name="func" value="黑翼首领"/>
+	</imgdir>
+</imgdir>

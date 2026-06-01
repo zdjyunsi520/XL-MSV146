@@ -1,0 +1,8 @@
+<imgdir name="2311005">
+        <string name="name" value="Doom" />
+        <string name="desc" value="Turns multiple enemies into snails.  Changes the look, attack capacity, and movement speed of those enemies. Cannot be used against boss monsters." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time, Transform Chance: #prop%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Turns multiple enemies into snails.  Changes the look, attack capacity, and movement speed of those enemies. Cannot be used against boss monsters." />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time, Transform Chance: #prop%\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Transformation Chance: #hcProp%, Duration: #hcTime sec\nCooldown: #cooltime sec" />
+    </imgdir>

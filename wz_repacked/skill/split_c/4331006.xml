@@ -1,0 +1,8 @@
+<imgdir name="4331006">
+        <string name="name" value="地狱锁链" />
+        <string name="desc" value="地狱锁链拉住敌人并造成10次连续暴击，有几率使其眩晕。固定怪物必须在范围内。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
+        <string name="pdesc" value="地狱锁链拉住敌人并造成10次连续暴击，有几率使其眩晕。固定怪物必须在范围内。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%\nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Critical Rate: #cr%\nCooldown: #hcCooltime sec" />
+    </imgdir>

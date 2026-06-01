@@ -1,0 +1,7 @@
+<imgdir name="35001001">
+        <string name="name" value="Flame Launcher" />
+        <string name="desc" value="Launches flames that engulf multiple enemies. You can use this skill for up to #c12 seconds#.\nRequired Skill: #cGatling Gun Lv. 10#" />
+        <string name="h" value="MP Cost: #mpCon per attack, Damage: #damage%, Max Monsters Hit: #mobCount, Max Duration (hold down skill key): 12 sec" />
+        <string name="pdesc" value="Launches flames that engulf multiple enemies. You can use this skill for up to #c12 seconds#.\nRequired Skill: #cGatling Gun Lv. 10#" />
+        <string name="ph" value="MP Cost: #mpCon per second, Damage: #damage%, Max Monsters Hit: #mobCount, Max Duration (hold down skill key): 12 sec" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000142">
+		<string name="name" value="Puffram"/>
+		<string name="desc" value="A fluffy Puffram with a bright personality and a huggable belly."/>
+		<string name="descD" value="A pet whose life will never expire.\r\n"/>
+	</imgdir>
+    <imgdir name="5000143">
+		<string name="name" value="Craw"/>
+		<string name="desc" value="Craw is a chatty parrot who keeps watch from the crow's nest of pirate ships."/>
+		<string name="descD" value="Your chatty parrot, Craw, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000144">
+		<string name="name" value="Adriano"/>
+		<string name="desc" value="Adriano is a surly pirate otter of few words."/>
+		<string name="descD" value="Your taciturn otter, Adriano, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000145">
+		<string name="name" value="Bonkey"/>
+		<string name="desc" value="Bonkey the gorilla acts as helmsman and powder monkey aboard a pirate ship."/>
+		<string name="descD" value="Your reliable powder monkey/gorilla, Bonkey, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000146">
+		<string name="name" value="Harp Seal"/>
+		<string name="desc" value="Cute and cuddly Harp Seal. It's still a baby, so you'll have to take extra care not to hurt its feelings."/>
+		<string name="descD" value="A pet whose life will never expire.\r\n"/>
+	</imgdir>
+    <imgdir name="5000147">
+		<string name="name" value="Penguin"/>
+		<string name="desc" value="Penguins are always energetic and in good spirits. Use the Meso Magnet and Item Pouch on the Penguin to pick up the mesos and items on the ground."/>
+		<string name="descD" value="A pet whose life will never expire.\r\n"/>
+	</imgdir>
+    <imgdir name="5000148">
+		<string name="name" value="White Duck"/>
+		<string name="desc" value="Silly and foolish, but hard working and easy-going by nature, White Duck is easy to please, and enjoys good food and a swim."/>
+		<string name="descD" value="A pet whose life will never expire.\r\n"/>
+	</imgdir>
+    <imgdir name="5000149">
+		<string name="name" value="Silver Husky"/>
+		<string name="desc" value="Active, yet calm at times. Can be moderately fed. Very smart in general. "/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000150">
+		<string name="name" value="Pink Yeti"/>
+		<string name="desc" value="A trustworthy pet that quietly watches everyone's back. Quiet, but smart and gets a lot of things done."/>
+		<string name="descD" value="It was a cute little Mini Pink Yeti, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+	</imgdir>
+    <imgdir name="5000151">
+		<string name="name" value="Bandit"/>
+		<string name="desc" value="A well-fed Bandit that loves to eat, especially Ramen. "/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000152">
+		<string name="name" value="Miracle Cat"/>
+		<string name="desc" value="Magic is what powers this lovely feline. Meow! \n#cSkill: Meso Magnet, Item Pouch#"/>
+		<string name="descD" value="Your lovely Miracle Cat has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000201">
+		<string name="name" value="Pink Bean"/>
+		<string name="desc" value="Behold, the cute and talented Pink Bean! There are many secrets beneath its adorable surface…"/>
+		<string name="descD" value="Your cute Pink Bean has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000202">
+		<string name="name" value="Corgi Pup"/>
+		<string name="desc" value="The spunky little Corgi Pup! It sure loves that Blue Birdy."/>
+		<string name="descD" value="Your energetic Corgi Pup has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000203">
+		<string name="name" value="Craw"/>
+		<string name="desc" value="Craw is a chatty parrot who keeps watch from the crow's nest of pirate ships."/>
+		<string name="descD" value="Your chatty parrot, Craw, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000204">
+		<string name="name" value="Adriano"/>
+		<string name="desc" value="Adriano is a surly pirate otter of few words."/>
+		<string name="descD" value="Your taciturn otter, Adriano, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000205">
+		<string name="name" value="Bonkey"/>
+		<string name="desc" value="Bonkey the gorilla acts as helmsman and powder monkey aboard a pirate ship."/>
+		<string name="descD" value="Your reliable powder monkey/gorilla, Bonkey, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000206">
+		<string name="name" value="Fennec Fox"/>
+		<string name="desc" value="A romantic little Fennec Fox that claims to have come from Planet B612."/>
+		<string name="descD" value="Your Fennec Fox has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000207">
+		<string name="name" value="Corgi Pup"/>
+		<string name="desc" value="The spunky little Corgi Pup! It sure loves that Blue Birdy."/>
+		<string name="descD" value="Your energetic Corgi Pup has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000209">
+		<string name="name" value="Storm Dragon"/>
+		<string name="desc" value="A great and regal dragon who carries the legendary Dragon Orb. "/>
+		<string name="descD" value="Your Storm Dragon has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000210">
+		<string name="name" value="Penguin"/>
+		<string name="desc" value="It may waddle a lot, but this Penguin sure is as diligent and affectionate as they come!"/>
+		<string name="descD" value="Your diligent Penguin has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+</imgdir>

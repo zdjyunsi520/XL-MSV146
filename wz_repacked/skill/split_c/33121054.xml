@@ -1,0 +1,5 @@
+<imgdir name="33121054">
+        <string name="name" value="寂静暴走" />
+        <string name="desc" value="用猎人的寂静之力包裹全身。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，终极攻击概率：#x%。被动效果：异常状态抗性：+#asrR%" />
+    </imgdir>

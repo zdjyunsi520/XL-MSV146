@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290716">
+		<string name="name" value="[Special Mastery Book] Rapid Fire 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cRapid Fire# to 30.\nJob: Jett's\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290717">
+		<string name="name" value="[Special Mastery Book] Starfall 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cStarfall# to 30.\nJob: Jett's\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290718">
+		<string name="name" value="[Special Mastery Book] Brain Scrambler 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBrain Scrambler# to 30.\nJob: Jett's\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290719">
+		<string name="desc" value="100% chance of increasing the Master Level of #cEight-Legs Easton# to 30.\nJob: Jett's\nCondition: Skill Level 5+"/>
+		<string name="name" value="[Special Mastery Book] Suborbital Bombadier 30"/>
+	</imgdir>
+    <imgdir name="2290721">
+		<string name="name" value="Jett's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mastery Book meant for Jetts when double-clicked."/>
+	</imgdir>
+    <imgdir name="2310000">
+		<string name="name" value="The Owl of Minerva"/>
+		<string name="desc" value="#cThe Owl of Minerva#, which represents wisdom, can be used to search for items sold at the Free Market. #cDisappears right after showing the results of the item search#."/>
+	</imgdir>
+    <imgdir name="2320000">
+		<string name="name" value="Teleport Rock"/>
+		<string name="desc" value="Remembers 5 maps of your choice. This rock will enable you to #cteleport to the map you remembered#. It can even allow you to #cmove to the map where a certain character is#, provided that the person is in the same channel at the same world."/>
+	</imgdir>
+    <imgdir name="2323001">
+		<string name="name" value="Teleport Rock"/>
+		<string name="desc" value="Allows you to #cteleport to most other locations through the World Map [W]#. \nAlso allows you to #cmove to a map where a specified character is# if they are in the same world and channel. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#."/>
+	</imgdir>
+    <imgdir name="2330000">
+		<string name="name" value="Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +10"/>
+	</imgdir>
+    <imgdir name="2330001">
+		<string name="name" value="Split Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +12"/>
+	</imgdir>
+    <imgdir name="2330002">
+		<string name="name" value="Mighty Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +14"/>
+	</imgdir>
+    <imgdir name="2330003">
+		<string name="name" value="Vital Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +16"/>
+	</imgdir>
+    <imgdir name="2330004">
+		<string name="name" value="Shiny Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +18"/>
+	</imgdir>
+    <imgdir name="2330005">
+		<string name="name" value="Eternal Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +20"/>
+	</imgdir>
+    <imgdir name="2330006">
+		<string name="name" value="Bullet for Novice Pirates"/>
+		<string name="desc" value="Bullets made of steel. \n\nAttack +10"/>
+	</imgdir>
+    <imgdir name="2330008">
+		<string name="name" value="Giant Bullet"/>
+		<string name="desc" value="Bullets made of steel. Once they run out, they need to be recharged.\n\nAttack +22"/>
+	</imgdir>
+    <imgdir name="2330016">
+		<string name="name" value="White Gold Bullet"/>
+		<string name="desc" value="Bullets made of White Gold. Once they run out, they need to be recharged.\n\nAttack 22"/>
+	</imgdir>
+    <imgdir name="2331000">
+		<string name="name" value="Blaze Capsule"/>
+		<string name="desc" value="A capsule used for fire-elemental attacks."/>
+	</imgdir>
+    <imgdir name="2332000">
+		<string name="name" value="Glaze Capsule"/>
+		<string name="desc" value="A capsule used for ice-elemental attacks."/>
+	</imgdir>
+    <imgdir name="2340000">
+		<string name="name" value="White Scroll"/>
+		<string name="desc" value="One of Subani's sacred Scrolls. If used in conjunction with a normal or Dark Scroll, the number of item upgrade slots will not be deducted if the scroll fails. However, if using a Dark Scroll, there is still a chance that your weapon will be destroyed."/>
+	</imgdir>
+</imgdir>

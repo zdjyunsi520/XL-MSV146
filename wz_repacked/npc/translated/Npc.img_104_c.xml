@@ -1,0 +1,131 @@
+<imgdir name="Npc.img">
+    <imgdir name="2071003">
+		<string name="name" value="Chil Nam"/>
+		<string name="n0" value="我非常担心我的弟弟。他太担心我了，我担心他可能没有照顾好自己..."/>
+		<string name="n1" value="作为我的弟弟是一项艰巨的任务，还要照顾我的父母..."/>
+		<string name="d0" value="你好！我是Chil Nam。"/>
+		<string name="d1" value="不知道我弟弟最近怎么样了...希望他没生病。"/>
+	</imgdir>
+    <imgdir name="2071004">
+		<string name="name" value="Kong Ji"/>
+		<string name="n0" value="哦不，我得在继母来之前完成这个..."/>
+		<string name="n1" value="天啊，这没完没了。希望有人能帮帮我..."/>
+		<string name="d0" value="你在路上有没有看到我继母？哦不...我的工作还没完成呢..."/>
+		<string name="d1" value="嘿，谢谢你上次的帮助！"/>
+	</imgdir>
+    <imgdir name="2071005">
+		<string name="name" value="Chil Sung"/>
+		<string name="n0" value="不知道我弟弟Chil Nam过得怎么样。我很担心。"/>
+		<string name="n1" value="我弟弟几个月前才搬走，不知道他在那边过得开心吗..."/>
+		<string name="d0" value="哦，你一定是从国外来的...很高兴认识你！"/>
+		<string name="d1" value="希望我的弟弟Chil Nam一切安好。"/>
+	</imgdir>
+    <imgdir name="2071006">
+		<string name="name" value="Swallow"/>
+		<string name="n0" value="我需要在寒冷的冬天到来之前回到南方，但是我的翅膀...我的翅膀..."/>
+		<string name="n1" value="嗯...我的翅膀看起来还好吗？你觉得我能用这些翅膀飞吗？"/>
+		<string name="d0" value="我应该更小心的。看看我的翅膀。你觉得这些会在冬天到来之前愈合吗？"/>
+		<string name="d1" value="我需要我的翅膀愈合，这样我才能及时飞往南方躲避寒冷的天气。"/>
+	</imgdir>
+    <imgdir name="2071007">
+		<string name="name" value="Yeon奶奶"/>
+		<string name="n0" value="我把这个罐子放在一起，防止食物变质。"/>
+		<string name="n1" value="我丈夫总是在外面一边钓鱼一边冥想。"/>
+		<string name="d0" value="我丈夫去海边钓鱼了...希望他一切都好！"/>
+		<string name="d1" value="如果你在找一个好罐子，我就在这里！"/>
+	</imgdir>
+    <imgdir name="2071009">
+		<string name="name" value="Shim先生"/>
+		<string name="n0" value="无论如何，我的女儿Shim Chung是镇上最漂亮的女孩。"/>
+		<string name="n1" value="不过有没有人见过Shim Chung...?"/>
+		<string name="d0" value="这些天我的视力越来越差了..."/>
+		<string name="d1" value="戴上眼镜我看得清楚多了。"/>
+	</imgdir>
+    <imgdir name="2071010">
+		<string name="name" value="山神"/>
+		<string name="n0" value="这把金斧头是你的吗？还是这把银斧头？"/>
+		<string name="n1" value="我是这个地区的神。我也是这座黑山的神。"/>
+		<string name="d0" value="真不敢相信有人会拒绝金斧头和银斧头..."/>
+		<string name="d1" value="你把钢斧头还给伐木工了吗？"/>
+	</imgdir>
+    <imgdir name="2071011">
+		<string name="name" value="伐木工"/>
+		<string name="n0" value="请找到我的钢斧头..."/>
+		<string name="n1" value="我需要我的斧头去砍些木头..."/>
+		<string name="d0" value="你有没有把刻有我名字的钢斧头带回来？"/>
+		<string name="d1" value="非常感谢你找到我的钢斧头！"/>
+	</imgdir>
+    <imgdir name="2071012">
+		<string name="name" value="一位熟悉的女士"/>
+		<string name="n0" value="*抽鼻子抽鼻子。*"/>
+		<string name="n1" value="请帮帮我...*抽鼻子。*"/>
+		<string name="d0" value="我该怎么办？"/>
+		<string name="d1" value="谢谢你来...真的。"/>
+	</imgdir>
+    <imgdir name="2071013">
+		<string name="name" value="黄王地精"/>
+		<string name="n0" value="这些天黑山太危险了，我晚上甚至不能在那里走路。"/>
+		<string name="n1" value="如果九尾狐来这里怎么办？"/>
+		<string name="d0" value="嗯...我饿了...今晚应该吃个人类吗？"/>
+		<string name="d1" value="嗯...猪肉...好吃..."/>
+	</imgdir>
+    <imgdir name="2071014">
+		<string name="name" value="蓝王地精"/>
+		<string name="n0" value="那些该死的狐狸让我睡不着觉！"/>
+		<string name="n1" value="甚至黑山之神也被袭击了还是怎么了..."/>
+		<string name="d0" value="嗯哼！我觉得今天外面有太多鲁莽的人类了！"/>
+		<string name="d1" value="我应该喝点茶吗？"/>
+	</imgdir>
+    <imgdir name="2071015">
+		<string name="name" value="绿王地精"/>
+		<string name="n0" value="黑山已经不是以前的样子了..."/>
+		<string name="n1" value="我想要点好吃的..."/>
+		<string name="d0" value="我应该去虎岭还是月岭？有谁擅长摔跤吗？"/>
+		<string name="d1" value="我应该多要点荞麦酱的..."/>
+	</imgdir>
+    <imgdir name="2072000">
+		<string name="name" value="Chil Sung的米堆"/>
+		<string name="d0" value="(这些是Chil Sung的米堆。)"/>
+		<string name="d1" value="(这些是Chil Sung的米堆。)"/>
+	</imgdir>
+    <imgdir name="2072001">
+		<string name="name" value="Chil Nam的米堆"/>
+		<string name="d0" value="(这些是Chil Nam的米堆。)"/>
+		<string name="d1" value="(这些是Chil Nam的米堆。)"/>
+	</imgdir>
+    <imgdir name="2073000">
+		<string name="name" value="Park Chum Ji"/>
+		<string name="n0" value="Hogul保护着美味的西瓜"/>
+		<string name="n1" value="小心不要被Hogul抓住。如果你被Hogul抓住，你将被驱逐！"/>
+	</imgdir>
+    <imgdir name="2080001">
+		<string name="name" value="Sly"/>
+		<string name="func" value="商人"/>
+		<string name="s0" value="如果你在找重要的东西，我这里有！"/>
+		<string name="s1" value="药水对于穿越危险区域的旅行者来说是必需的。"/>
+	</imgdir>
+    <imgdir name="2080002">
+		<string name="name" value="Max"/>
+		<string name="func" value="防具商"/>
+		<string name="s0" value="在保护这片伟大土地的和平方面，没有任何武器能胜过真正伟大的防具。"/>
+		<string name="s1" value="这些防具是用来保护你免受伤害的。"/>
+	</imgdir>
+    <imgdir name="2080003">
+		<string name="name" value="Norman"/>
+		<string name="func" value="卷轴商"/>
+		<string name="s0" value="如果你想为你的装备获得额外提升，卷轴很重要。"/>
+		<string name="s1" value="看看它们不花你一分钱；只是要小心对待它们！"/>
+	</imgdir>
+    <imgdir name="2080004">
+		<string name="name" value="Moodie"/>
+		<string name="func" value="宠物食品商人"/>
+		<string name="s0" value="啊...那么，你的宠物饿了？那别再找了。"/>
+		<string name="s1" value="我这里有你宠物需要的一切。看看吧。"/>
+	</imgdir>
+    <imgdir name="2080005">
+		<string name="name" value="Koscu"/>
+		<string name="func" value="仓库管理员"/>
+		<string name="s0" value="哈哈...Koscu会照顾你的物品和金币。"/>
+		<string name="s1" value="相信Koscu，哈哈。没什么好担心的。"/>
+	</imgdir>
+</imgdir>

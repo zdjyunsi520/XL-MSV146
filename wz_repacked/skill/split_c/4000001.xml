@@ -1,0 +1,7 @@
+<imgdir name="4000001">
+        <string name="name" value="锐利之眼" />
+        <string name="desc" value="提升飞镖和匕首等投掷武器的射程。\n需要技能：#c灵巧 Lv. 3#" />
+        <string name="h" value="Range: +#range" />
+        <string name="pdesc" value="提升飞镖和匕首等投掷武器的射程。\n需要技能：#c灵巧 Lv. 3#" />
+        <string name="ph" value="Range: +#range" />
+    </imgdir>

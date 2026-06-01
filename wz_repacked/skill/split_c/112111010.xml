@@ -1,0 +1,5 @@
+<imgdir name="112111010">
+        <string name="name" value="艾卡快递" />
+        <string name="desc" value="创建通往最近城镇的传送门。所有队员都可以使用。" />
+        <string name="h" value="MP消耗: #mpCon，传送门持续时间: #time秒。冷却时间: #cooltime秒。" />
+    </imgdir>

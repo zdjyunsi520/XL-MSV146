@@ -1,0 +1,5 @@
+<imgdir name="80001339">
+        <string name="name" value="Pink Poison Fog" />
+        <string name="desc" value="A gigantic octopus that spews poisonous fog. After being summoned by a Dawn Weapon, Captain Darkgoo will spread a poisonous fog to deal Poison damage on nearby monsters." />
+        <string name="h" value="Max Enemy Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430880">
+		<string name="name" value="Renegades Gift Box"/>
+		<string name="desc" value="A gift box celebrating the arrival of Renegades. The box can be opened on June 30, 2012 and it will disappear if you don’t open the box on that day."/>
+	</imgdir>
+    <imgdir name="2430881">
+		<string name="name" value="Phantom Gift Box"/>
+		<string name="desc" value="A gift box celebrating the arrival of Phantom. The box can be opened on July 14, 2012 and it will disappear if you don’t open the box on that day."/>
+	</imgdir>
+    <imgdir name="2430882">
+		<string name="name" value="Unidentified Love Letter"/>
+		<string name="desc" value="A letter sent to you by an anonymous admirer. You can feel how much love was put into it...maybe you should open it..."/>
+	</imgdir>
+    <imgdir name="2430915">
+		<string name="name" value="Super Carved Slot Miracle Cube"/>
+		<string name="desc" value="This fragment broke away from the Super Carved Slot Miracle Cube. Double-click to trade for useful items."/>
+	</imgdir>
+    <imgdir name="2430916">
+		<string name="name" value="Tempest Coin Pouch"/>
+		<string name="desc" value="A coin pouch in honor of Tempest. Open it to obtain Tempest Coins. If you are lucky, you can possibly obtain other treasures. It can only be opened until 2/12/13 when the event ends."/>
+	</imgdir>
+    <imgdir name="2430917">
+		<string name="name" value="Tempest Commemorative Box"/>
+		<string name="desc" value="A box in honor of Tempest. Open it to obtain great goods. However, it can only be opened until 2/12/13 when the event ends."/>
+	</imgdir>
+    <imgdir name="2430921">
+		<string name="name" value="Tempest Transform Potion"/>
+		<string name="desc" value="A Transform Potion made by an Alchemist in honor of Tempest. Not even he knows what you'll turn into! However, it can only be used until TKTKTK when the event ends."/>
+	</imgdir>
+    <imgdir name="2430924">
+		<string name="name" value="Kaiser Epic Set"/>
+		<string name="desc" value="A box that contains the previous Kaiser's helmet, armor, and shoes. "/>
+	</imgdir>
+    <imgdir name="2430925">
+		<string name="name" value="Kaiser Advanced Epic Set "/>
+		<string name="desc" value="A box that contains the previous Kaiser's helmet, armor, shoes, and Tempest Claymore. "/>
+	</imgdir>
+    <imgdir name="2430926">
+		<string name="name" value="Kaiser Superior Epic Set "/>
+		<string name="desc" value="A box that contains the previous Kaiser's helmet, armor, shoes, Tempest Claymore, and special title. "/>
+	</imgdir>
+    <imgdir name="2430927">
+		<string name="name" value="Double Transformation Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Double Transformed Robot Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430928">
+		<string name="name" value="Double Nightmare Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Double Nightmare Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430929">
+		<string name="name" value="Double Shinsoo Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Double Shinsoo Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430930">
+		<string name="name" value="Double Owl Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Double Owl Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430931">
+		<string name="name" value="Double Bear Hot-Air Balloon Mount 30-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Doubler Bear Hot-Air Balloon Mount] for 30 days from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430932">
+		<string name="name" value="Double Transformation Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Transformed Robot Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430933">
+		<string name="name" value="Double Nightmare Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Nightmare Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430934">
+		<string name="name" value="Double Shinsoo Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Shinsoo Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430935">
+		<string name="name" value="Double Owl Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Owl Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+    <imgdir name="2430936">
+		<string name="name" value="Double Bear Hot-Air Balloon Mount Permanent Coupon"/>
+		<string name="desc" value="Double-click to use [Double Bear Hot-Air Balloon Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don't have the skill. "/>
+	</imgdir>
+</imgdir>

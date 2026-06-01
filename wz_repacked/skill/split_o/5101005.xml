@@ -1,0 +1,7 @@
+<imgdir name="5101005">
+        <string name="name" value="MP Recovery" />
+        <string name="desc" value="Consumes HP to instantly restore MP. Cannot be used when HP is below 20%." />
+        <string name="h" value="MaxHP: -#x%, MP Restored: #y% of consumed HP, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Restores MP by using up a bit of HP." />
+        <string name="ph" value="MaxHP: -#x%, MP Restored: #y% of consumed HP, Cooldown: #cooltime sec" />
+    </imgdir>

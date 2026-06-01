@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="1">
+				<string name="Title" value="Six Path Crossway"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Caution Falling Down"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Six Path Crossway"/>
+			</imgdir>
+    <imgdir name="103020000">
+			<imgdir name="0">
+				<string name="Title" value="Kerning City Construction Site (Towards Kerning City)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="L Forest II (Towards Henesys/Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="103020100">
+			<imgdir name="0">
+				<string name="Title" value="L Forest I (Towards Kerning City)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="L Forest III (Towards Henesys/Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="103020200">
+			<imgdir name="0">
+				<string name="Title" value="Kerning City Middle Forest I (Towards Henesys/Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="L Forest II (Towards Kerning City)"/>
+			</imgdir>
+    <imgdir name="103030100">
+			<imgdir name="0">
+				<string name="Title" value="Kerning City Middle Forest III"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Kerning City Middle Forest I"/>
+			</imgdir>
+    <imgdir name="104000100">
+			<imgdir name="0">
+				<string name="Title" value="Lith Harbor"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Thicket Around the Beach I (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="104000200">
+			<imgdir name="0">
+				<string name="Title" value="Right Around Lith Harbor (Towards Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Thicket Around the Beach II (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="104000300">
+			<imgdir name="0">
+				<string name="Title" value="Thicket Around the Beach I (Towards Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Thicket Around the Beach III (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="104000400">
+			<imgdir name="0">
+				<string name="Title" value="Thicket Around the Beach II (Towards Lith Harbor)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="3-Way Road-Split (Towards Victoria Road)"/>
+			</imgdir>
+    <imgdir name="104020000">
+			<imgdir name="0">
+				<string name="Title" value="Abandoned Construction Site"/>
+			</imgdir>
+</imgdir>

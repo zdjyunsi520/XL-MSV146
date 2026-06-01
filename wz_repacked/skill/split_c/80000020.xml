@@ -1,0 +1,5 @@
+<imgdir name="80000020">
+        <string name="name" value="Lv.1 龙之祝福" />
+        <string name="desc" value="以龙之力量同时提升物理攻击力和魔法攻击力3点。" />
+        <string name="h" value="#物理攻击力：+#padX，魔法攻击力：+#madX" />
+    </imgdir>

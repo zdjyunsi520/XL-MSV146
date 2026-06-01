@@ -1,0 +1,7 @@
+<imgdir name="1301007">
+        <string name="name" value="极限体力" />
+        <string name="desc" value="短时间内提升队员的最大HP和最大MP~\n前置技能: #c钢铁意志 Lv. 3#" />
+        <string name="h" value="MP消耗: #mpCon, 最大HP和最大MP: +#x%, 持续时间: #time秒" />
+        <string name="pdesc" value="短时间内提升队员的最大HP和最大MP~\n前置技能: #c钢铁意志 Lv. 3#" />
+        <string name="ph" value="MP消耗: #mpCon, 队员最大HP和最大MP: +#x%, 持续时间: #time秒" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049129">
+		<string name="name" value="善良混沌卷轴 50%"/>
+		<string name="desc" value="重新配置装备属性。整体能力不会下降。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049130">
+		<string name="name" value="善良混沌卷轴 30%"/>
+		<string name="desc" value="重新配置装备属性。整体能力不会下降。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049131">
+		<string name="name" value="善良混沌卷轴 20%"/>
+		<string name="desc" value="重新配置装备属性。整体能力不会下降。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049132">
+		<string name="name" value="奇迹混沌卷轴 30%"/>
+		<string name="desc" value="使装备获得比混沌卷轴更好或更差的属性。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049133">
+		<string name="name" value="奇迹混沌卷轴 50%"/>
+		<string name="desc" value="使装备获得比混沌卷轴更好或更差的属性。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049134">
+		<string name="name" value="奇迹混沌卷轴 70%"/>
+		<string name="desc" value="使装备获得比混沌卷轴更好或更差的属性。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049135">
+		<string name="name" value="惊人善良混沌卷轴 20%"/>
+		<string name="desc" value="在不削弱装备的情况下，比善良混沌卷轴提供更多提升。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049136">
+		<string name="name" value="惊人善良混沌卷轴 20%"/>
+		<string name="desc" value="在不削弱装备的情况下，比善良混沌卷轴提供更多提升。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049137">
+		<string name="name" value="惊人善良混沌卷轴 40%"/>
+		<string name="desc" value="在不削弱装备的情况下，比善良混沌卷轴提供更多提升。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049138">
+		<string name="name" value="混沌卷轴 80%"/>
+		<string name="desc" value="使装备变得更好或更差。无法用于现金物品。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049139">
+		<string name="name" value="宝石戒指混沌卷轴 60%"/>
+		<string name="desc" value="使宝石戒指变得更好或更差。部分属性不受影响。无法用于现金物品。\n成功率：60%"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049140">
+		<string name="name" value="宝石戒指奇迹混沌卷轴 40%"/>
+		<string name="desc" value="使宝石戒指获得比混沌卷轴更好或更差的属性。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049141">
+		<string name="name" value="宝石戒指善良混沌卷轴 30%"/>
+		<string name="desc" value="在不降低属性的情况下重新调整装备的当前属性。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049142">
+		<string name="name" value="奇迹混沌卷轴 40%"/>
+		<string name="desc" value="使装备获得比混沌卷轴更好或更差的属性。部分属性不受影响。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049143">
+		<string name="name" value="混沌卷轴 70%"/>
+		<string name="desc" value="使装备变得更好或更差。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049144">
+		<string name="name" value="宝石工艺混沌卷轴 60%"/>
+		<string name="desc" value="使使用宝石工艺制作的装备变得更好或更差。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049145">
+		<string name="name" value="宝石工艺奇迹混沌卷轴 40%"/>
+		<string name="desc" value="使使用宝石工艺制作的装备获得比混沌卷轴更好或更差的属性。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049146">
+		<string name="name" value="宝石工艺善良混沌卷轴 30%"/>
+		<string name="desc" value="在不降低属性的情况下重新调整使用宝石工艺制作的装备的当前属性。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049200">
+		<string name="name" value="暗之饰品强化卷轴 力量 70%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏概率：50%\r\n力量：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2049201">
+		<string name="name" value="暗之饰品强化卷轴 力量 30%"/>
+		<string name="desc" value="强化饰品（项链、腰带、戒指）的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏概率：50%\r\n力量：+3\r\n#"/>
+	</imgdir>
+</imgdir>

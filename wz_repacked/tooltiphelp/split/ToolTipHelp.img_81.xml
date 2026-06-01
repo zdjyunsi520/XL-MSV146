@@ -1,0 +1,77 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="866101000">
+			<imgdir name="0">
+				<string name="Title" value="Eastern Outskirts"/>
+			</imgdir>
+    <imgdir name="866103000">
+			<imgdir name="0">
+				<string name="Title" value="Warning: Watch out for wolves!"/>
+			</imgdir>
+    <imgdir name="866105000">
+			<imgdir name="0">
+				<string name="Title" value="Warning: Watch out for wolves!"/>
+			</imgdir>
+    <imgdir name="866102000">
+			<imgdir name="0">
+				<string name="Title" value="Wolf Woods"/>
+			</imgdir>
+    <imgdir name="866107000">
+			<imgdir name="0">
+				<string name="Title" value="Warning: Watch out for wolves!"/>
+			</imgdir>
+    <imgdir name="866108000">
+			<imgdir name="0">
+				<string name="Title" value="Wolf Woods"/>
+			</imgdir>
+    <imgdir name="866190000">
+			<imgdir name="0">
+				<string name="Title" value="Eastern Outskirts"/>
+			</imgdir>
+    <imgdir name="866191000">
+			<imgdir name="0">
+				<string name="Title" value="Wolf Woods"/>
+			</imgdir>
+    <imgdir name="866192000">
+			<imgdir name="0">
+				<string name="Title" value="Warning: Watch out for wolves!"/>
+			</imgdir>
+    <imgdir name="PortalTooltip">
+		<imgdir name="100000000">
+			<imgdir name="Achter00">
+				<string name="Title" value="Bowman Instructional School"/>
+				<imgdir name="Npc">
+					<string name="0" value="Athena Pierce"/>
+				</imgdir>
+    <imgdir name="mistic00">
+				<string name="Title" value="Henesys Mystic Field"/>
+				<imgdir name="Npc">
+					<string name="0" value="Doctor Moon"/>
+				</imgdir>
+    <imgdir name="100030000">
+			<string name="quest00" value="Utah's Pig Farm"/>
+		</imgdir>
+    <imgdir name="211042300">
+			<string name="ps00" value="Zakum Altar"/>
+		</imgdir>
+    <imgdir name="211042301">
+			<string name="ps00" value="Zakum's Altar"/>
+		</imgdir>
+    <imgdir name="230040410">
+			<string name="boss00" value="Pianus Cave"/>
+		</imgdir>
+    <imgdir name="231010000">
+			<string name="out00" value="Exit"/>
+		</imgdir>
+    <imgdir name="231000000">
+			<string name="in00" value="Sakura Castle Garden 1"/>
+		</imgdir>
+    <imgdir name="231040400">
+			<string name="SC_boss_enter" value="Daimyo's Chambers (sakura castle)"/>
+		</imgdir>
+    <imgdir name="231050000">
+			<string name="SC_boss_out00" value="Tsukino Tower 5th Floor"/>
+		</imgdir>
+    <imgdir name="231050001">
+			<string name="SC_boss_out00" value="Tsukino Tower 5th Floor"/>
+		</imgdir>
+</imgdir>

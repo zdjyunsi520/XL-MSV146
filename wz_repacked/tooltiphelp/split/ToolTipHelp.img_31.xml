@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="7">
+				<string name="Title" value="Utah's Pig Farm"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="The Forest South of Ellinia (Towards Ellinia)"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="On the Way to the Harbor (Towards the Nautilus) "/>
+			</imgdir>
+    <imgdir name="10">
+				<string name="Title" value="The Rain-Forest East of Henesys (Towards Henesys) "/>
+			</imgdir>
+    <imgdir name="101040001">
+			<imgdir name="0">
+				<string name="Title" value="Stone plate of Boogi"/>
+				<string name="Desc" value="You will need to destroy the resource first before you defeated Boogi "/>
+			</imgdir>
+    <imgdir name="101050000">
+			<imgdir name="0">
+				<string name="Title" value="The Sacred Tree"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Weapon / Armor Store"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="General Store"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Storage"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="Corridor of Knowledge"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="King's Seat"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Elf School"/>
+			</imgdir>
+    <imgdir name="101050030">
+			<imgdir name="0">
+				<string name="Title" value="Elven Elementary"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Elven Middle School"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Elven High School"/>
+			</imgdir>
+    <imgdir name="101050300">
+			<imgdir name="0">
+				<string name="Title" value="Outer Elluel"/>
+			</imgdir>
+    <imgdir name="101050400">
+			<imgdir name="0">
+				<string name="Title" value="Elluel, the Town of Elves"/>
+			</imgdir>
+    <imgdir name="104030000">
+			<imgdir name="0">
+				<string name="Title" value="Henesys hunting ground 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Henesys Western forest"/>
+			</imgdir>
+    <imgdir name="200000150">
+			<imgdir name="0">
+				<string name="Title" value="Orbis Station waiting room"/>
+			</imgdir>
+</imgdir>

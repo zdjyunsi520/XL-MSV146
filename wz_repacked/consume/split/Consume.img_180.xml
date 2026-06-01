@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2213041">
+		<string name="name" value="Wild Boar Transform Potion"/>
+		<string name="desc" value="An alchemical potion that transforms you into a Wild Boar. Lasts for 10 min.\n#c* Warning: You can't use ladders or ropes while transformed.#"/>
+	</imgdir>
+    <imgdir name="2213042">
+		<string name="name" value="Special Von Leon Transform Potion"/>
+		<string name="desc" value="An alchemical potion that transforms you into a Von Leon the Lion King. Lasts for 10 min.\n#c* Warning: You can't use ladders or ropes while transformed.#"/>
+	</imgdir>
+    <imgdir name="2213043">
+		<string name="name" value="Special Papulatus Transform Potion"/>
+		<string name="desc" value="An alchemical potion that transforms you into a Papulatus. Lasts for 10 min.\n#c* Warning: You can't use ladders or ropes while transformed.#"/>
+	</imgdir>
+    <imgdir name="2230000">
+		<string name="name" value="EXP Lv. 30"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 1 to level 30. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230001">
+		<string name="name" value="EXP Lv. 70"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 30 to level 70. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230002">
+		<string name="name" value="Exp 30"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 1 to level 30. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230003">
+		<string name="name" value="Exp 70"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 30 to level 70. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230004">
+		<string name="name" value="Gaston's EXP Potion"/>
+		<string name="desc" value="An EXP elixir that Gaston created. Will it really get you to Lv. 70 in one-go?"/>
+	</imgdir>
+    <imgdir name="2230005">
+		<string name="name" value="Exp 30"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 1 to level 30. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230006">
+		<string name="name" value="Exp 70"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 30 to level 70. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2230007">
+		<string name="name" value="Exp 30"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 1 to level 30. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use.\n#cCannoneer only.#"/>
+	</imgdir>
+    <imgdir name="2230008">
+		<string name="name" value="Exp 30"/>
+		<string name="desc" value="Contains enough EXP to take a character from level 1 to level 30. If you level up after using it and there's still EXP left in the item, you can use it again. #cDouble-click# to use."/>
+	</imgdir>
+    <imgdir name="2240000">
+		<string name="name" value="Moonstone Engagement Ring Box"/>
+		<string name="desc" value="Engagement Ring made of Moon Rock. The ring will be inside a wrapped box. Required for proposal."/>
+	</imgdir>
+    <imgdir name="2240001">
+		<string name="name" value="Star gem Engagement Ring Box"/>
+		<string name="desc" value="Engagement Ring made of Star Rock. The ring will be inside a wrapped box. Required for proposal."/>
+	</imgdir>
+    <imgdir name="2240002">
+		<string name="name" value="Golden Heart Engagement Ring Box"/>
+		<string name="desc" value="Engagement Ring made of gold. The ring will be inside a wrapped box. Required for proposal."/>
+	</imgdir>
+    <imgdir name="2240003">
+		<string name="name" value="Silver Swan Engagement Ring Box"/>
+		<string name="desc" value="Engagement Ring made of silver. The ring will be inside a wrapped box. Required for proposal."/>
+	</imgdir>
+    <imgdir name="2240004">
+		<string name="name" value="Ring of Moon Stone"/>
+		<string name="desc" value="An engagement ring crafted out of Moon Rock and Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240005">
+		<string name="name" value="Ring of Moon Stone: 2 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Moon Rock and 2 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240006">
+		<string name="name" value="Ring of Moon Stone: 3 Carats"/>
+		<string name="desc" value="An engagement ring crafted out of Moon Rock and 3 carats of Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+    <imgdir name="2240007">
+		<string name="name" value="Ring of Shining Star"/>
+		<string name="desc" value="An engagement ring crafted out of Star Rock and Diamond. Use this to propose to your loved one."/>
+	</imgdir>
+</imgdir>

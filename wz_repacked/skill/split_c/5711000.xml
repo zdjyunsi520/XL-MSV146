@@ -1,0 +1,7 @@
+<imgdir name="5711000">
+        <string name="name" value="太阳阵列" />
+        <string name="desc" value="发射散射弹，伤害多个敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Damage: #damage%" />
+        <string name="pdesc" value="发射散射弹，伤害多个敌人！" />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Damage: #damage%" />
+    </imgdir>

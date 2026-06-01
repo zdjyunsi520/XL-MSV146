@@ -1,0 +1,8 @@
+<imgdir name="21110011">
+        <string name="name" value="Combo Judgment" />
+        <string name="desc" value="Drops a giant axe of judgment on the enemies. Has a chance to freeze, and frozen enemies will receive damage over time. Can only be used when #cCombo Count is 60 or higher.#\n[Command : #cUp and Down Arrow Key + Attack Key#]\nRequired Skill: #cCombo Fenrir Lv. 10#" />
+        <string name="h" value="Damage:  #damage%, Max Enemies Hit: #mobCount, Attack Count: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec" />
+        <string name="pdesc" value="Drops a giant axe of judgment on the enemies. Has a chance to freeze, and frozen enemies will receive damage over time. Can only be used when #cCombo Count is 40 or higher.#\n[Command : #cUp and Down Arrow Key + Attack Key#]\nRequired Skill: #cCombo Fenrir Lv. 10#" />
+        <string name="ph" value="Damage:  #damage%, Max Enemies Hit: #mobCount, Attack Count: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #time sec" />
+        <string name="hch" value="Damage:  #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec" />
+    </imgdir>

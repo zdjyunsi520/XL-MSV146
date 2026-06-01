@@ -1,0 +1,5 @@
+<imgdir name="65001100">
+        <string name="name" value="Star Bubble" />
+        <string name="desc" value="Fires a condensed stream of unrefined energy. Deals area damage when projectile hits." />
+        <string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Soul Battery Skill. Recharge Chance: #onActive%" />
+    </imgdir>

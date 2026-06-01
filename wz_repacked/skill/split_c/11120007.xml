@@ -1,0 +1,5 @@
+<imgdir name="11120007">
+        <string name="name" value="剑道学徒" />
+        <string name="desc" value="提升单手剑和双手剑的熟练度、武器攻击力和最低暴击伤害。\n前置技能：#c剑熟练度Lv. 10#" />
+        <string name="h" value="单手剑和双手剑熟练度：+#mastery%，武器攻击力：+#x，最低暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="15101020">
+        <string name="name" value="Shark Sweep" />
+        <string name="desc" value="Tap the power of sharks to sweep up nearby mobs. Can be linked with all skills excluding Thunder and self-skills." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+    </imgdir>

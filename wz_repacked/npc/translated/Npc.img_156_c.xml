@@ -1,0 +1,104 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201245">
+		<string name="name" value="十轮卡车"/>
+	</imgdir>
+    <imgdir name="9201239">
+		<string name="name" value="Cole"/>
+		<string name="d0" value="是的，我是一头大象！"/>
+		<string name="d1" value="是的，我是一头大象！"/>
+	</imgdir>
+    <imgdir name="9201240">
+		<string name="name" value="Stew"/>
+		<string name="d0" value="人人自由！"/>
+		<string name="d1" value="人人自由！"/>
+	</imgdir>
+    <imgdir name="9201246">
+		<string name="name" value="隐藏点Cole"/>
+	</imgdir>
+    <imgdir name="9201247">
+		<string name="name" value="Cole"/>
+	</imgdir>
+    <imgdir name="9201248">
+		<string name="name" value="Stew"/>
+	</imgdir>
+    <imgdir name="9201249">
+		<string name="name" value="隐藏点Stew"/>
+	</imgdir>
+    <imgdir name="9201250">
+		<string name="name" value="George Washington"/>
+		<string name="d0" value="你站在那里干什么？去投票！"/>
+		<string name="d1" value="你站在那里干什么？去投票！"/>
+	</imgdir>
+    <imgdir name="9201251">
+		<string name="name" value="进入大厅"/>
+	</imgdir>
+    <imgdir name="9201252">
+		<string name="name" value="Pretty护士"/>
+		<string name="func" value="旅行整形医生"/>
+		<string name="n0" value="如果你不喜欢镜子里的自己，我可以让你变漂亮。"/>
+		<string name="n1" value="只要在这里捏一下，那里收一下，我就能让你变得相当迷人。"/>
+	</imgdir>
+    <imgdir name="9201254">
+		<string name="name" value="黑色星期五女仆"/>
+		<string name="n0" value="黑色星期五商品现已上市！"/>
+	</imgdir>
+    <imgdir name="1064000">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="战术家"/>
+	</imgdir>
+    <imgdir name="1064001">
+		<string name="name" value="神秘女孩"/>
+		<string name="d0" value="我想离开这里，现在就要！"/>
+		<string name="d1" value="真的有办法离开这里吗？"/>
+		<string name="n0" value="我想现在就离开这里！"/>
+		<string name="n1" value="我被困在这里太久了..."/>
+	</imgdir>
+    <imgdir name="1064002">
+		<string name="name" value="Alicia"/>
+		<string name="func" value="生命火花"/>
+		<string name="d0" value="打破封印，把我弄出去！"/>
+		<string name="d1" value="我想知道现在世界是什么样子...我真的很好奇！"/>
+		<string name="n0" value="有值得信赖的盟友，你一定能做到！"/>
+		<string name="n1" value="你必须消灭封印守护者才能解除封印。"/>
+	</imgdir>
+    <imgdir name="1064003">
+		<string name="name" value="Oko"/>
+		<string name="func" value="前旅行商人"/>
+		<string name="n0" value="我把各种各样的东西都塞进了我的袋子里。"/>
+		<string name="n1" value="我以为背着这些东西会死掉。"/>
+	</imgdir>
+    <imgdir name="1064004">
+		<string name="name" value="Havis"/>
+		<string name="func" value="钥匙匠"/>
+		<string name="n0" value="世界上没有我打不开的锁！"/>
+		<string name="n1" value="粗糙木钥匙只能打开一次门..."/>
+	</imgdir>
+    <imgdir name="1064005">
+		<string name="name" value="Pooki"/>
+		<string name="d0" value="东花园在时间法师Von Bon的控制下，时间已经停止。"/>
+		<string name="d1" value="一定不要陷入时间法师Von Bon的催眠。"/>
+		<string name="n0" value="嘘！小鬼会找到我的！"/>
+		<string name="n1" value="个人伪装是我的专长。"/>
+	</imgdir>
+    <imgdir name="1064006">
+		<string name="name" value="Tricky"/>
+		<string name="d0" value="Pierre在这个世界上最爱我。"/>
+		<string name="d1" value="我的主人喜欢有趣和刺激的东西。"/>
+		<string name="n0" value="我的主人是世界上最强的！"/>
+		<string name="n1" value="我是Tricky，Pierre主人的猫！"/>
+	</imgdir>
+    <imgdir name="1064007">
+		<string name="name" value="Countess Porkina"/>
+		<string name="d0" value="花园需要保持清洁才能得到女王的青睐。"/>
+		<string name="d1" value="我曾经是一头猪，直到整个魔法事件发生..."/>
+		<string name="n0" value="我管理着深红女王的花园。"/>
+		<string name="n1" value="你不为我的美丽所倾倒吗？"/>
+	</imgdir>
+    <imgdir name="1064008">
+		<string name="name" value="Laviola"/>
+		<string name="d0" value="从Vellum的暴政中拯救我的蜥蜴同胞！"/>
+		<string name="d1" value="我想见我亲爱的朋友和家人。"/>
+		<string name="n0" value="我父亲是酋长。"/>
+		<string name="n1" value="一旦Vellum出现，我就只是一顿零食。"/>
+	</imgdir>
+</imgdir>

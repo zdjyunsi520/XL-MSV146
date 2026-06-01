@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2500643">
+		<string name="name" value="不祥巨型弩炮"/>
+	</imgdir>
+    <imgdir name="2500650">
+		<string name="name" value="巨型弩炮"/>
+	</imgdir>
+    <imgdir name="2500651">
+		<string name="name" value="巨型弩炮"/>
+	</imgdir>
+    <imgdir name="2500652">
+		<string name="name" value="巨型弩炮"/>
+	</imgdir>
+    <imgdir name="2500653">
+		<string name="name" value="巨型弩炮"/>
+	</imgdir>
+    <imgdir name="2500700">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500701">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500702">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500703">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500710">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500711">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500712">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500713">
+		<string name="name" value="铁心血牙"/>
+	</imgdir>
+    <imgdir name="2500800">
+		<string name="name" value="血牙"/>
+	</imgdir>
+    <imgdir name="2500801">
+		<string name="name" value="血牙"/>
+	</imgdir>
+    <imgdir name="2500802">
+		<string name="name" value="血牙"/>
+	</imgdir>
+    <imgdir name="2500803">
+		<string name="name" value="血牙"/>
+	</imgdir>
+    <imgdir name="2500810">
+		<string name="name" value="精英血牙"/>
+	</imgdir>
+    <imgdir name="2500811">
+		<string name="name" value="精英血牙"/>
+	</imgdir>
+    <imgdir name="2500812">
+		<string name="name" value="精英血牙"/>
+	</imgdir>
+</imgdir>

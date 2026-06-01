@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001132">
+			<string name="name" value="可疑液体"/>
+			<string name="desc" value="装有经过特殊化学处理的绿色液体的瓶子"/>
+		</imgdir>
+    <imgdir name="4001133">
+			<string name="name" value="卡钥匙"/>
+			<string name="desc" value="允许进入尤雷克特殊实验室的卡钥匙"/>
+		</imgdir>
+    <imgdir name="4001134">
+			<string name="name" value="阿尔卡德诺实验档案"/>
+			<string name="desc" value="关于阿尔卡德诺被盗原料的研究信息"/>
+		</imgdir>
+    <imgdir name="4001135">
+			<string name="name" value="泽努米斯特实验档案"/>
+			<string name="desc" value="关于泽努米斯特被盗原料的研究信息"/>
+		</imgdir>
+    <imgdir name="4001136">
+			<string name="name" value="卷轴碎片"/>
+			<string name="desc" value="卷轴的一块碎片。你应该在2007年9月19日之前收集碎片并交给卡桑德拉"/>
+		</imgdir>
+    <imgdir name="4001141">
+			<string name="name" value="雪人树枝"/>
+			<string name="desc" value="用于制作雪人手臂的树枝。代表着制作雪人的孩子们的纯真"/>
+		</imgdir>
+    <imgdir name="4001142">
+			<string name="name" value="赫尼西亚"/>
+			<string name="desc" value="赫尼西亚"/>
+		</imgdir>
+    <imgdir name="4001143">
+			<string name="name" value="艾莉尼亚"/>
+			<string name="desc" value="艾莉尼亚"/>
+		</imgdir>
+    <imgdir name="4001144">
+			<string name="name" value="佩里昂"/>
+			<string name="desc" value="佩里昂"/>
+		</imgdir>
+    <imgdir name="4001145">
+			<string name="name" value="坎特城"/>
+			<string name="desc" value="坎特城"/>
+		</imgdir>
+    <imgdir name="4001146">
+			<string name="name" value="利斯港"/>
+			<string name="desc" value="利斯港"/>
+		</imgdir>
+    <imgdir name="4001147">
+			<string name="name" value="鹦鹉螺号的召唤"/>
+			<string name="desc" value="鹦鹉螺号"/>
+		</imgdir>
+    <imgdir name="4001148">
+			<string name="name" value="沉睡森林"/>
+			<string name="desc" value="沉睡森林"/>
+		</imgdir>
+    <imgdir name="4001149">
+			<string name="name" value="水族馆"/>
+			<string name="desc" value="水族馆"/>
+		</imgdir>
+    <imgdir name="4001150">
+			<string name="name" value="白草村"/>
+			<string name="desc" value="白草村"/>
+		</imgdir>
+    <imgdir name="4001151">
+			<string name="name" value="欢乐谷"/>
+			<string name="desc" value="欢乐谷"/>
+		</imgdir>
+    <imgdir name="4001152">
+			<string name="name" value="阿里安特"/>
+			<string name="desc" value="阿里安特"/>
+		</imgdir>
+    <imgdir name="4001153">
+			<string name="name" value="玛加蒂亚"/>
+			<string name="desc" value="玛加蒂亚"/>
+		</imgdir>
+    <imgdir name="4001154">
+			<string name="name" value="埃尔纳斯死亡矿洞"/>
+			<string name="desc" value="埃尔纳斯死亡矿洞"/>
+		</imgdir>
+    <imgdir name="4001155">
+			<string name="name" value="龙之森林"/>
+			<string name="desc" value="龙之森林"/>
+		</imgdir>
+</imgdir>

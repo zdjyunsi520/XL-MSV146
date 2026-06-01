@@ -1,0 +1,5 @@
+<imgdir name="112111010">
+        <string name="name" value="Eka Express" />
+        <string name="desc" value="Creates a portal to the nearest town. All party members can use it to travel." />
+        <string name="h" value="MP Cost: #mpCon, Portal Duration: #time sec. Cooldown: #cooltime sec." />
+    </imgdir>

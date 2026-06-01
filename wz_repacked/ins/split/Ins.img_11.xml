@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010313">
+		<string name="name" value="Pink Zakum Chair"/>
+		<string name="desc" value=" A chair that resembles Pink Zakum, a monster that is worshipped by residents near the volcanic area. When you sit in this chair, you'll feel the power of Pink Zakum. 80 HP and 50 MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010314">
+		<string name="name" value="Red-Hat Moon Bunny Cushion"/>
+		<string name="desc" value="Sit on the cushion to see a cute Moon Bunny with a red hat do its thing!"/>
+	</imgdir>
+    <imgdir name="3010315">
+		<string name="name" value="Blue-Hat Moon Bunny Cushion"/>
+		<string name="desc" value="Sit on the cushion to see a cute Moon Bunny with a blue hat do its thing!"/>
+	</imgdir>
+    <imgdir name="3010316">
+		<string name="name" value="Fan-Dance Moon Bunny Cushion"/>
+		<string name="desc" value="Sit on the cushion to see a Moon Bunny doing a fan dance!"/>
+	</imgdir>
+    <imgdir name="3010317">
+		<string name="name" value="Trumpeting Moon Bunny Cushion"/>
+		<string name="desc" value="Sit on the cushion to see a Moon Bunny playing a trumpet with all its soul!"/>
+	</imgdir>
+    <imgdir name="3010318">
+		<string name="name" value="Oh My Empress"/>
+		<string name="desc" value="A chair that embodies the huge popularity of Cygnus. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010319">
+		<string name="name" value="Teddy Bear Bed"/>
+		<string name="desc" value="Relax in this cozy teddy bear bed to recover 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010320">
+		<string name="name" value="Storytime Chair"/>
+		<string name="desc" value="Grandma sure does have a lot of crazy stories, but that cat smell is kind of overpowering. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010321">
+		<string name="name" value="Arkarium Storytime Chair"/>
+		<string name="desc" value="Old guys tell the best stories. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010322">
+		<string name="name" value="Lovely V Chair"/>
+		<string name="desc" value="Turns every day into Valentine's Day. Recovers 40 HP and 20 MP every 10 seconds. Sit face-to-face with someone you love to complete a heart shape!"/>
+	</imgdir>
+    <imgdir name="3010354">
+		<string name="name" value="Teatime With Madeleine"/>
+		<string name="desc" value="Have some sweet teatime with Madeleine the maid. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010355">
+		<string name="name" value="Galacto-Drill Chair\r\n"/>
+		<string name="desc" value="The Galacto-Drill Chair is surprisingly comfortable, despite the fact that it was made for alien bottoms. Recovers 50 HP and 50 MP every 10 seconds.\r\n"/>
+	</imgdir>
+    <imgdir name="3010358">
+		<string name="name" value="It's a Hoot! Chair"/>
+		<string name="desc" value="When you sit in It's a Hoot! Chair, 50 HP and 50 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010359">
+		<string name="name" value="Stork Swing"/>
+		<string name="desc" value="Careful! Don't wiggle too much or the stork'll drop you! Restores 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010360">
+		<string name="name" value="Knight of Light Chair"/>
+		<string name="desc" value="Given to the lightest of all knights. Recovers 50 HP and 50 MP every 10 seconds.  "/>
+	</imgdir>
+    <imgdir name="3010364">
+		<string name="name" value="Teatime With Sharyl"/>
+		<string name="desc" value="Have some sweet teatime with Prince Sharyl. Recovers 100 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010365">
+		<string name="name" value="Spiegelmann's Ancient Rock Chair"/>
+		<string name="desc" value="Ancient rock chair from the 2013 Artifact Hunt. Doesn't look very comfortable, but it looks beautiful! Recovers 50 HP and MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010368">
+		<string name="name" value="Polar Bear Chair"/>
+		<string name="desc" value="Sit on this and you'll feel like you're getting a bear hug from a polar bear! Recovers 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010369">
+		<string name="name" value="Lord Pirate Chair"/>
+		<string name="desc" value="Sit on this and you'll feel like you're one of Lord Pirate's hostages! Recovers 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010370">
+		<string name="name" value="Jeweled Maple Chair"/>
+		<string name="desc" value="Radiant maple leaf chair made from jewels. Recovers 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+</imgdir>

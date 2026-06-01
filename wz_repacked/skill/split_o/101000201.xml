@@ -1,0 +1,5 @@
+<imgdir name="101000201">
+        <string name="name" value="Shadow Strike" />
+        <string name="desc" value="Quickly move to the nearest enemy and attack, \nunleashing a strike that penetrates and deals additional damage. [Skill Requirements]: #cPiercing Thrust Lv. 1# \n[Command]: Activate #cMoon Strike# after Piercing Thrust" />
+        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Blade]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z." />
+    </imgdir>

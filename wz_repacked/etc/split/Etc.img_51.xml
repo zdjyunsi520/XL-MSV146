@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001232">
+			<string name="name" value="White Gift Box"/>
+			<string name="desc" value="A white gift box that can be found inside the New Year's Lucky Pouch. Bring it to the Game Administrator to receive a gift from the box."/>
+		</imgdir>
+    <imgdir name="4001233">
+			<string name="name" value="Red Gift Box"/>
+			<string name="desc" value="A red gift box that can be found inside the New Year's Lucky Pouch. Bring it to the Game Administrator to receive a gift from the box."/>
+		</imgdir>
+    <imgdir name="4001234">
+			<string name="name" value="Blue Gift Box"/>
+			<string name="desc" value="A blue gift box that can be found inside the New Year's Lucky Pouch. Bring it to the Game Administrator to receive a gift from the box."/>
+		</imgdir>
+    <imgdir name="4001235">
+			<string name="name" value="Purple Gift Box"/>
+			<string name="desc" value="A purple gift box that can be found inside the New Year's Lucky Pouch. Bring it to the Game Administrator to receive a gift from the box."/>
+		</imgdir>
+    <imgdir name="4001237">
+			<string name="name" value="Slightly Polluted Rock"/>
+			<string name="desc" value="This rock has a slight hint of that unmistakable force of darkness."/>
+		</imgdir>
+    <imgdir name="4001238">
+			<string name="name" value="Polluted Rock"/>
+			<string name="desc" value="This rock really has the force of Black Mage stored in it."/>
+		</imgdir>
+    <imgdir name="4001239">
+			<string name="name" value="Heavily Polluted Rock"/>
+			<string name="desc" value="This rock contains a powerful force of Black Mage stored in it."/>
+		</imgdir>
+    <imgdir name="4001240">
+			<string name="name" value="Polluted Item"/>
+			<string name="desc" value="A piece of rock that has been irreparable damaged because of the force of the Black Mage."/>
+		</imgdir>
+    <imgdir name="4001241">
+			<string name="name" value="Targa's Foot"/>
+			<string name="desc" value="Targa's magical foot."/>
+		</imgdir>
+    <imgdir name="4001242">
+			<string name="name" value="Scarlion Boss's Foot"/>
+			<string name="desc" value="Scarlion Boss's magical foot."/>
+		</imgdir>
+    <imgdir name="4001245">
+			<string name="name" value="Pigmy's Golden Egg  "/>
+			<string name="desc" value="Pigmy's Golden Egg. It can only be hatched by a fairy from a fairytale. "/>
+		</imgdir>
+    <imgdir name="4001246">
+			<string name="name" value="Warm Sunlight"/>
+			<string name="desc" value="Drop the Warm Sunlight in front of the Bean Stalk to make it grow.  "/>
+		</imgdir>
+    <imgdir name="4001247">
+			<string name="name" value="Story Treasure Box  "/>
+			<string name="desc" value="A Treasure Box hidden in the Dungeon. "/>
+		</imgdir>
+    <imgdir name="4001249">
+			<string name="name" value="Maple Necklace Gem"/>
+			<string name="desc" value="A beautiful gem that can be set on the Mind of Maple Necklace."/>
+		</imgdir>
+    <imgdir name="4001250">
+			<string name="name" value="Maple Necklace Pendant"/>
+			<string name="desc" value="This can be used to create the Mind of Maple Necklace."/>
+		</imgdir>
+    <imgdir name="4001252">
+			<string name="name" value="Horntail Ticket"/>
+			<string name="desc" value="A ticket used to confront Horntail."/>
+		</imgdir>
+    <imgdir name="4001254">
+			<string name="name" value="Shiny Maple Coin"/>
+			<string name="desc" value="An octagonal gold coin with a maple mark. The Shiny Maple Coins can be traded for items from Spiegelmann."/>
+		</imgdir>
+    <imgdir name="4001255">
+			<string name="name" value="Golden Pig's Hard Egg"/>
+			<string name="desc" value="It's too hard to open. It may be a good idea to bring it to Gold Richie. "/>
+		</imgdir>
+    <imgdir name="4001256">
+			<string name="name" value="Primal Claw"/>
+			<string name="desc" value="A symbolic weapon of Thief mastery.  Although it can't be equipped, its power is palpable.  This item must be placed in the Altar of Mastery to activate it."/>
+		</imgdir>
+    <imgdir name="4001257">
+			<string name="name" value="Staff of First Magic"/>
+			<string name="desc" value="A symbolic weapon of Mage mastery.  Although it can't be equipped, its power is palpable.  This item must be placed in the Altar of Mastery to activate it."/>
+		</imgdir>
+</imgdir>

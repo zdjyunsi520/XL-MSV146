@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2045501">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045502">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045503">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045504">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时50%摧毁物品\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045505">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045506">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n智力：+3\r\n魔法攻击：+5\r\n魔法防御：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2045507">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045508">
+		<string name="name" value="扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时50%摧毁物品\r\n智力：+3\r\n魔法攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2045509">
+		<string name="name" value="佩佩王扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升佩佩王扇子的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2045511">
+		<string name="name" value="9周年扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2045512">
+		<string name="name" value="9周年扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n失败时50%摧毁物品\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气：+3\r\n魔法攻击：+5\r\n命中率：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2045513">
+		<string name="name" value="9周年扇子魔法攻击卷轴"/>
+		<string name="desc" value="提升扇子的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n运气：+1\r\n魔法攻击+2\r\n命中率：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046174">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+1\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046175">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+2\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046176">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n武器攻击：+3\r\n魔法攻击：+3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046177">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时50%摧毁物品\r\n武器攻击：+4\r\n魔法攻击：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046178">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n武器攻击：+5\r\n魔法攻击：+5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046179">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n武器攻击：+6\r\n魔法攻击：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046180">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n武器攻击：+7\r\n魔法攻击：+7\r\n#"/>
+	</imgdir>
+    <imgdir name="2046181">
+		<string name="name" value="传说双手武器攻击卷轴"/>
+		<string name="desc" value="提升#c天照/大山津见/天钿女命/月读/须佐之男#系列双手武器的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时100%摧毁物品\r\n武器攻击：+8\r\n魔法攻击：+8\r\n#"/>
+	</imgdir>
+</imgdir>

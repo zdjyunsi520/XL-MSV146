@@ -1,0 +1,5 @@
+<imgdir name="80001267">
+        <string name="name" value="Hellfire Sneeze" />
+        <string name="desc" value="Even Lord Balrog&apos;s sneezes are terrifying. When summoned by a soul weapon, Balrog damages all monsters on the screen." />
+        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\nCooldown: #cooltime sec" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="930100310">
+			<imgdir name="out00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="930100320">
+			<imgdir name="out00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="930100330">
+			<imgdir name="out00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="930100340">
+			<imgdir name="out00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="930100350">
+			<imgdir name="out00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="930100400">
+			<imgdir name="next00">
+				<string name="Title" value="秘密储藏室"/>
+			</imgdir>
+    <imgdir name="930100500">
+			<imgdir name="next00">
+				<string name="Title" value="底层"/>
+			</imgdir>
+    <imgdir name="102020300">
+			<imgdir name="ps01">
+				<string name="Title" value="鬼树桩领地"/>
+				<imgdir name="Mob">
+					<string name="0" value="9300738"/>
+				</imgdir>
+    <imgdir name="240090000">
+			<string name="pt_mid" value="库波的骑行:往上的路"/>
+		</imgdir>
+    <imgdir name="240091000">
+			<string name="pt_west" value="库波的骑行:往下的路"/>
+		</imgdir>
+    <imgdir name="240091300">
+			<imgdir name="pt_south">
+				<string name="Title" value="虫群据点"/>
+				<imgdir name="Mob">
+					<string name="0" value="8147012"/>
+					<string name="1" value="8147013"/>
+					<string name="2" value="8146014"/>
+				</imgdir>
+    <imgdir name="240091500">
+			<string name="pt_up" value="奇诺的电梯:往上的路"/>
+		</imgdir>
+    <imgdir name="240092000">
+			<string name="pt_down" value="奇诺的电梯:往下的路"/>
+			<imgdir name="pt_east">
+				<string name="Title" value="石巨人手臂"/>
+				<imgdir name="Npc">
+					<string name="0" value="Stone Colossus"/>
+				</imgdir>
+    <imgdir name="240092100">
+			<imgdir name="pt_in">
+				<string name="Title" value="石巨人内部1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8147010"/>
+				</imgdir>
+    <imgdir name="240092200">
+			<imgdir name="pt_down">
+				<string name="Title" value="石巨人手臂"/>
+				<imgdir name="Npc">
+					<string name="0" value="Stone Colossus"/>
+				</imgdir>
+    <imgdir name="240092300">
+			<imgdir name="pt_west">
+				<string name="Title" value="石巨人躯干3"/>
+				<imgdir name="Mob">
+					<string name="0" value="8147009"/>
+				</imgdir>
+    <imgdir name="240093000">
+			<imgdir name="pt_out">
+				<string name="Title" value="石巨人手臂"/>
+				<imgdir name="Npc">
+					<string name="0" value="Stone Colossus"/>
+				</imgdir>
+    <imgdir name="240093200">
+			<imgdir name="pt_in">
+				<string name="Title" value="石巨人心脏"/>
+				<imgdir name="Mob">
+					<string name="0" value="8800400"/>
+				</imgdir>
+    <imgdir name="240093300">
+			<imgdir name="pt_out">
+				<string name="Title" value="石巨人内部3"/>
+				<imgdir name="Mob">
+					<string name="0" value="8147011"/>
+				</imgdir>
+    <imgdir name="240093310">
+			<imgdir name="pt_out">
+				<string name="Title" value="石巨人手臂"/>
+				<imgdir name="Npc">
+					<string name="0" value="Stone Colossus"/>
+				</imgdir>
+</imgdir>

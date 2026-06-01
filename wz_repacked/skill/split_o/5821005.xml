@@ -1,0 +1,7 @@
+<imgdir name="5821005">
+        <string name="name" value="Snatch" />
+        <string name="desc" value="Damages an enemy that&apos;s far away and drags it to you. Only available when in a state of #cSuper Transformation#.\nRequired Skill: #cSuper Transformation Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount enemies, Stun Duration: #time sec" />
+        <string name="pdesc" value="Damages an enemy that&apos;s far away and drags it to you. Only available when in a state of #cSuper Transformation#.\nRequired Skill: #cSuper Transformation Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Duration: #time sec\nCooldown: #cooltime sec" />
+    </imgdir>

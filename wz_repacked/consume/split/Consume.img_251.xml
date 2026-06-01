@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384098">
+		<string name="name" value="Platoon Chronos Card"/>
+		<string name="desc" value="A card that features Platoon Chronos."/>
+	</imgdir>
+    <imgdir name="2384099">
+		<string name="name" value="Cart Bear Card"/>
+		<string name="desc" value="A card that features Cart Bear."/>
+	</imgdir>
+    <imgdir name="2384100">
+		<string name="name" value="Master Chronos Card"/>
+		<string name="desc" value="A card that features Master Chronos."/>
+	</imgdir>
+    <imgdir name="2384101">
+		<string name="name" value="Chief Gray Card"/>
+		<string name="desc" value="A card that features Chief Gray."/>
+	</imgdir>
+    <imgdir name="2385000">
+		<string name="name" value="Dark Klock Card"/>
+		<string name="desc" value="A card that features Dark Klock.\n#cIf hunting at the lower levels of the ClocktowernAvoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385001">
+		<string name="name" value="Dual Beetle Card"/>
+		<string name="desc" value="A card that features Dual Beetle.\n#cIf hunting at Leafre ForestnAvoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385002">
+		<string name="name" value="Green Hobi Card"/>
+		<string name="desc" value="A card that features Green Hobi.\n#cIf hunting at Minar ForestnAccuracy +4/Avoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385003">
+		<string name="name" value="Deep Buffoon Card"/>
+		<string name="desc" value="A card that features Deep Buffoon.\n#cIf hunting at the lower levels of the ClocktowernSpeed +4#"/>
+	</imgdir>
+    <imgdir name="2385004">
+		<string name="name" value="Yeti and Pepe Card"/>
+		<string name="desc" value="A card that features Yeti and Pepe.\n#cIf hunting at the SnowfieldnAvoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385005">
+		<string name="name" value="Hankie Card"/>
+		<string name="desc" value="A card that features Hankie.\n#cIf hunting at Leafre ForestnJump +4#"/>
+	</imgdir>
+    <imgdir name="2385006">
+		<string name="name" value="Lycanthrope Card"/>
+		<string name="desc" value="A card that features Lycanthrope.\n#cIf hunting at the SnowfieldnAccuracy +4#"/>
+	</imgdir>
+    <imgdir name="2385007">
+		<string name="name" value="Harp Card"/>
+		<string name="desc" value="A card that features Harp.\n#cIf hunting at Minar ForestnAvoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385008">
+		<string name="name" value="Homunscullo Card"/>
+		<string name="desc" value="A card that features Homunscullo.\n#cIf hunting at the Zenumist InstitutenJump +4#"/>
+	</imgdir>
+    <imgdir name="2385009">
+		<string name="name" value="Dark Yeti and Pepe Card"/>
+		<string name="desc" value="A card that features Dark Yeti and Pepe.\n#cIf hunting at the SnowfieldnAvoidability +4#"/>
+	</imgdir>
+    <imgdir name="2385010">
+		<string name="name" value="Pirate Card"/>
+		<string name="desc" value="A card that features Pirate.\n#cIf hunting at the lower levels of the ClocktowernAccuracy +4#"/>
+	</imgdir>
+    <imgdir name="2385011">
+		<string name="name" value="Blood Harp Card"/>
+		<string name="desc" value="A card that features Blood Harp.\n#cIf hunting at Minar ForestnAccuracy +4#"/>
+	</imgdir>
+    <imgdir name="2385012">
+		<string name="name" value="Death Teddy Card"/>
+		<string name="desc" value="A card that features Death Teddy.\n#cIf hunting at the lower levels of the ClocktowernAccuracy +4#"/>
+	</imgdir>
+    <imgdir name="2385013">
+		<string name="name" value="Goby Card"/>
+		<string name="desc" value="A card that features Goby.\n#cIf hunting at Aqua Roadn15% chance of breaking through the monster's magic defense#"/>
+	</imgdir>
+    <imgdir name="2385014">
+		<string name="name" value="Birk Card"/>
+		<string name="desc" value="A card that features Birk.\n#cIf hunting at Leafre ForestnSpeed +4#"/>
+	</imgdir>
+    <imgdir name="2385015">
+		<string name="name" value="Dual Pirate Card"/>
+		<string name="desc" value="A card that features Dual Pirate.\n#cIf hunting at the lower levels of the ClocktowernAccuracy +4#"/>
+	</imgdir>
+</imgdir>

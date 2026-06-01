@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2048800">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n武器攻击力：+1至+4\r\n"/>
+		<string name="desc" value="提升宠物装备的武器攻击力。"/>
+		<string name="name" value="奇迹宠物装备攻击卷轴50%"/>
+	</imgdir>
+    <imgdir name="2048801">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n魔法攻击力：+1至+4\r\n"/>
+		<string name="desc" value="提升宠物装备的魔法攻击力。"/>
+		<string name="name" value="奇迹宠物装备魔法攻击卷轴50%"/>
+	</imgdir>
+    <imgdir name="2048802">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n武器攻击力：+1至+2\r\n"/>
+		<string name="desc" value="提升宠物装备的武器攻击力。"/>
+		<string name="name" value="宠物装备攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2048803">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n魔法攻击力：+1至+2\r\n"/>
+		<string name="desc" value="提升宠物装备的魔法攻击力。"/>
+		<string name="name" value="宠物装备魔法攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2046859">
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n武器攻击力：+1\r\n失败时100%摧毁物品#"/>
+		<string name="desc" value="提升新年饰品的武器攻击力。"/>
+		<string name="name" value="新年饰品武器攻击卷轴80%"/>
+	</imgdir>
+    <imgdir name="2046860">
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n魔法攻击力：+1\r\n失败时100%摧毁物品#"/>
+		<string name="desc" value="提升新年饰品的魔法攻击力。"/>
+		<string name="name" value="新年饰品魔法攻击卷轴80%"/>
+	</imgdir>
+    <imgdir name="2046870">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n武器攻击力：+1至+2\r\n"/>
+		<string name="desc" value="提升饰品的武器攻击力。"/>
+		<string name="name" value="饰品攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2046871">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n魔法攻击力：+1至+2\r\n"/>
+		<string name="desc" value="提升饰品的魔法攻击力。"/>
+		<string name="name" value="饰品魔法攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2046872">
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时100%摧毁物品\r\n武器攻击力：+7至魔法攻击力+2\r\n#"/>
+		<string name="desc" value="单身军徽记卷轴。攻击力和魔法攻击力增加2。"/>
+		<string name="name" value="单身军徽记强化卷轴"/>
+	</imgdir>
+    <imgdir name="2046873">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n失败时100%摧毁物品\r\n力量：+4\r\n敏捷：+4\r\n智力：+4\r\n运气：+4\r\n#"/>
+		<string name="desc" value="单身军项链卷轴。所有属性增加4。"/>
+		<string name="name" value="单身军项链强化卷轴"/>
+	</imgdir>
+    <imgdir name="2046981">
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n武器攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升单手武器的武器攻击力并增加所有属性。"/>
+		<string name="name" value="单手武器攻击卷轴90%"/>
+	</imgdir>
+    <imgdir name="2046982">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n武器攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升单手武器的武器攻击力并增加所有属性。"/>
+		<string name="name" value="单手武器攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2046983">
+		<string name="autodesc" value="\r\n#c成功率：90%\r\n魔法攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升单手武器的魔法攻击力并增加所有属性。"/>
+		<string name="name" value="单手武器魔法攻击卷轴90%"/>
+	</imgdir>
+    <imgdir name="2046984">
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n魔法攻击力：+9\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n运气+3\r\n"/>
+		<string name="desc" value="提升单手武器的魔法攻击力并增加所有属性。"/>
+		<string name="name" value="单手武器魔法攻击卷轴70%"/>
+	</imgdir>
+    <imgdir name="2046991">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击力：+9至+11\r\n所有属性：+3\r\n#"/>
+		<string name="desc" value="提升单手武器的武器攻击力。"/>
+		<string name="name" value="魔法单手武器攻击卷轴"/>
+	</imgdir>
+    <imgdir name="2046992">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击力：+9至+11\r\n所有属性：+3\r\n#"/>
+		<string name="desc" value="提升单手武器的魔法攻击力。"/>
+		<string name="name" value="魔法单手武器魔法攻击卷轴"/>
+	</imgdir>
+    <imgdir name="2047935">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n回避率：+10\r\n#"/>
+		<string name="desc" value="提升防具属性。"/>
+		<string name="name" value="防具强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2047936">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n回避率：+20\r\n#"/>
+		<string name="desc" value="提升防具属性。"/>
+		<string name="name" value="防具强化卷轴50%"/>
+	</imgdir>
+    <imgdir name="2046862">
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n所有属性：+1\r\n最大HP：+50\r\n最大MP：+50\r\n命中率：+10\r\n#"/>
+		<string name="desc" value="提升饰品属性。"/>
+		<string name="name" value="饰品强化卷轴100%"/>
+	</imgdir>
+    <imgdir name="2046863">
+		<string name="autodesc" value="\r\n#c成功率：50%\r\n所有属性：+3\r\n最大HP：+100\r\n最大MP：+100\r\n命中率：+20\r\n#"/>
+		<string name="desc" value="提升饰品属性。"/>
+		<string name="name" value="饰品强化卷轴50%"/>
+	</imgdir>
+</imgdir>

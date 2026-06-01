@@ -1,0 +1,7 @@
+<imgdir name="4120010">
+        <string name="name" value="Expert Throwing Star Handling" />
+        <string name="desc" value="#cIncreases the damage# for Lucky Seven, Drain, Avenger and Shadow Meso.\nAlso, there is a chance that throwing stars will not be consumed, and a chance to #crecharge 1 throwing star#.\n(You cannot recharge beyond the maximum number of throwing stars. Does not apply to Spirit Javelins.)\nWhen Expert Throwing Star Handling is activated, #cthe next attack will always be a Critical Attack#.\nRequired Skill: #cSpirit Javelin Lv. 5#" />
+        <string name="h" value="Damage Bonus: #damR% (for Lucky Seven, Drain, Avenger, Shadow Meso), Recharge Chance: #prop%" />
+        <string name="pdesc" value="#cIncreases the damage# for Lucky Seven, Drain, Avenger and Shadow Meso.\nAlso, there is a chance that throwing stars will not be consumed, and a chance to #crecharge 1 throwing star#.\n(You cannot recharge beyond the maximum number of throwing stars. Does not apply to Spirit Javelins.)\nWhen Expert Throwing Star Handling is activated, #cthe next attack will always be a Critical Attack#.\nRequired Skill: #cSpirit Javelin Lv. 5#" />
+        <string name="ph" value="Damage Bonus: #damR% (for Lucky Seven, Drain, Avenger, Shadow Meso), Recharge Chance: #prop%" />
+    </imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="11120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="11120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中率。"/><string name="h" value="命中率 +#ar%"/></imgdir>
+    <imgdir name="11120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="11120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP +#mmpR%"/></imgdir>
+    <imgdir name="11120038"><string name="name" value="超级愤怒"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF +50"/></imgdir>
+    <imgdir name="11120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力 +#pddX"/></imgdir>
+    <imgdir name="11120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力 +#mddX"/></imgdir>
+    <imgdir name="11120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度 +#psdSpeed"/></imgdir>
+    <imgdir name="11120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力 +#psdJump"/></imgdir>
+    <imgdir name="11120043"><string name="name" value="真实之眼 - 持续"/><string name="desc" value="增加真实之眼的持续时间。"/><string name="h" value="持续时间：+#time秒"/></imgdir>
+    <imgdir name="11120044"><string name="name" value="真实之眼 - 强化"/><string name="desc" value="增加真实之眼的属性抗性降低量。"/><string name="h" value="属性抗性：额外-#w%"/></imgdir>
+    <imgdir name="11120045"><string name="name" value="真实之眼 - 破防"/><string name="desc" value="增加真实之眼的防御力降低量。"/><string name="h" value="防御力：额外-#w%"/></imgdir>
+    <imgdir name="11120046"><string name="name" value="新月穿刺 - 强化"/><string name="desc" value="提升新月斩和日曜穿刺的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="11120047"><string name="name" value="新月穿刺 - 扩散"/><string name="desc" value="增加新月斩和日曜穿刺的攻击怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+    <imgdir name="11120048"><string name="name" value="新月穿刺 - 额外打击"/><string name="desc" value="增加新月斩和日曜穿刺的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="11120049"><string name="name" value="疾舞 - 强化"/><string name="desc" value="提升月之舞者和疾速落日的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="11120050"><string name="name" value="疾舞 - 破防"/><string name="desc" value="增加月之舞者和疾速落日的无视防御力。"/><string name="h" value="无视怪物防御力增加 #ignoreMobpdpR%"/></imgdir>
+    <imgdir name="11120051"><string name="name" value="疾舞 - BOSS冲锋"/><string name="desc" value="提升月之舞者和疾速落日的BOSS攻击力。"/><string name="h" value="对BOSS造成额外伤害 #bdR%"/></imgdir>
+    <imgdir name="11121052"><string name="name" value="冥河渡者"/><string name="desc" value="集中灵魂之力，发出分隔生死的绝命一击！"/><string name="h" value="MP消耗：#mpCon，最大攻击怪物数：#mobCount，伤害：#damage%，攻击次数：#attackCount。最大蓄力时：伤害：#x%，攻击次数：#y\n冷却时间：#cooltime秒。"/></imgdir>
+    <imgdir name="11121053"><string name="name" value="守护者的荣耀"/><string name="desc" value="女皇骑士团的庄严仪式，以证明对女皇的忠诚。"/><string name="h" value="MP消耗：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，伤害上限：+#indieMaxDamageOver\n冷却时间：#cooltime秒。对队伍中所有女皇职业生效"/></imgdir>
+</imgdir>

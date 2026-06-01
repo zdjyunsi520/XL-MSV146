@@ -1,0 +1,80 @@
+<imgdir name="Cash.img">
+    <imgdir name="5120066">
+		<string name="name" value="给伊卡的留言"/>
+	</imgdir>
+    <imgdir name="5120067">
+		<string name="name" value="给北野先生的留言"/>
+	</imgdir>
+    <imgdir name="5120068">
+		<string name="name" value="给黑暗领主的留言"/>
+	</imgdir>
+    <imgdir name="5120069">
+		<string name="name" value="给格雷德尔老爷爷的留言"/>
+	</imgdir>
+    <imgdir name="5120070">
+		<string name="name" value="给雅典娜·皮尔斯的留言"/>
+	</imgdir>
+    <imgdir name="5120071">
+		<string name="name" value="给巴尔罗格新手的留言"/>
+	</imgdir>
+    <imgdir name="5120072">
+		<string name="name" value="给凯琳的留言"/>
+	</imgdir>
+    <imgdir name="5120073">
+		<string name="name" value="给穆公的留言"/>
+	</imgdir>
+    <imgdir name="5120074">
+		<string name="name" value="给流浪艺人的留言"/>
+	</imgdir>
+    <imgdir name="5120075">
+		<string name="name" value="给鹅鹅的留言"/>
+	</imgdir>
+    <imgdir name="5120076">
+		<string name="name" value="给奥洛夫先生的留言"/>
+	</imgdir>
+    <imgdir name="5120079">
+		<string name="name" value="万圣节"/>
+		<string name="desc" value="万圣节"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5121000">
+		<string name="name" value="斗志昂扬"/>
+		<string name="desc" value="输入你想要说的话吧~"/>
+		<string name="msg" value="%s的斗志 : %s"/>
+	</imgdir>
+    <imgdir name="5121001">
+		<string name="name" value="韩式足球助威"/>
+		<string name="desc" value="输入你想要说的话吧~"/>
+		<string name="msg" value="%s的助威 : %s"/>
+	</imgdir>
+    <imgdir name="5121002">
+		<string name="name" value="足球热潮"/>
+		<string name="desc" value="给地图上所有人增加速度+20、跳跃+10，持续10分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的足球热潮 : %s"/>
+	</imgdir>
+    <imgdir name="5121003">
+		<string name="name" value="鸡汤"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的鸡汤 : %s"/>
+	</imgdir>
+    <imgdir name="5121004">
+		<string name="name" value="松饼"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的松饼 : %s"/>
+	</imgdir>
+    <imgdir name="5121005">
+		<string name="name" value="韩式油果"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的油果 : %s"/>
+	</imgdir>
+    <imgdir name="5121006">
+		<string name="name" value="魔女成群"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的魔女群 : %s"/>
+	</imgdir>
+    <imgdir name="5121007">
+		<string name="name" value="圣诞树装饰"/>
+		<string name="desc" value="给地图上所有人增加物理攻击+30和魔法攻击+30，持续15分钟。输入你想要说的话吧~"/>
+		<string name="msg" value="%s的圣诞装饰 : %s"/>
+	</imgdir>
+</imgdir>

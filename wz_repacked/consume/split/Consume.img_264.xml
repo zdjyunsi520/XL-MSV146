@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2388030">
+		<string name="name" value="Seruf Card"/>
+		<string name="desc" value="A card that features Seruf.\n#cIf hunting at a shallow seanItem/Meso drop rate will be increased#"/>
+	</imgdir>
+    <imgdir name="2388031">
+		<string name="name" value="Zeno Card"/>
+		<string name="desc" value="A card that features Zeno.\n#cIf hunting around the area of Omega SectornItem/Meso drop rate will be increased#"/>
+	</imgdir>
+    <imgdir name="2388032">
+		<string name="name" value="Kimera Card"/>
+		<string name="desc" value="A card that features Kimera.\n#cIf hunting around the lab areanItem/meso drop rate increases#"/>
+	</imgdir>
+    <imgdir name="2388033">
+		<string name="name" value="Leviathan Card"/>
+		<string name="desc" value="A card that features Leviathan.\n#cIf hunting around the area of Dragon ForestnItem/Meso drop rate will be increased#"/>
+	</imgdir>
+    <imgdir name="2388034">
+		<string name="name" value="Blue Mushmom Card"/>
+		<string name="desc" value="A card that features Blue Mushmom."/>
+	</imgdir>
+    <imgdir name="2388035">
+		<string name="name" value="Black Crow Card"/>
+		<string name="desc" value="A card that features Black Crow."/>
+	</imgdir>
+    <imgdir name="2388036">
+		<string name="name" value="Female Boss Card"/>
+		<string name="desc" value="A card that features Female Boss."/>
+	</imgdir>
+    <imgdir name="2388037">
+		<string name="name" value="The Boss Card"/>
+		<string name="desc" value="A card that features The Boss."/>
+	</imgdir>
+    <imgdir name="2388038">
+		<string name="name" value="Daimyo Card"/>
+		<string name="desc" value="A card that features Daimyo.\n#cIncreases Meso Drop Rate when you hunt at Sakura Castle.#"/>
+	</imgdir>
+    <imgdir name="2388039">
+		<string name="name" value="Poison Golme Card"/>
+		<string name="desc" value="A picture of Poison Golem is on this card.\n#cWhile hunting in Ellin ForestnDrop rate of item and meso increase#"/>
+	</imgdir>
+    <imgdir name="2388040">
+		<string name="name" value="Dodo Card"/>
+		<string name="desc" value="A card with a picture of Dodo.\n#cWhen hunting on Memory LanenItem/Meso Drop rate increase#"/>
+	</imgdir>
+    <imgdir name="2388041">
+		<string name="name" value="Lilynouch Card"/>
+		<string name="desc" value="A card with a picture of Lilynouch.\n#cWhen hunting on the Road of RegretsnItem/Meso Drop rate increase#"/>
+	</imgdir>
+    <imgdir name="2388042">
+		<string name="name" value="Lyka Card"/>
+		<string name="desc" value="A card with a picture of Lyka.\n#cWhen hunting on the Road to OblivionnItem/Meso Drop rate increase#"/>
+	</imgdir>
+    <imgdir name="2388043">
+		<string name="name" value="Pink Bean"/>
+		<string name="desc" value="A card with a picture of Pink Bean.\n#cWhen hunting at the Temple of TimenItem/Meso Drop rate increase#"/>
+	</imgdir>
+    <imgdir name="2388046">
+		<string name="name" value="Mu Gong Card"/>
+		<string name="desc" value="A card with a drawing of Moo Gong on it.\n#cWhen hunting in Mu Lungnincrease Item/Meso drop rate.#"/>
+	</imgdir>
+    <imgdir name="2388052">
+		<string name="name" value="Giant Centipede Card"/>
+		<string name="desc" value="A card that features Giant Centipede.\n#ctem drop rates are increased at Herb Town#"/>
+	</imgdir>
+    <imgdir name="2388053">
+		<string name="name" value="Blue Mushmom Card"/>
+		<string name="desc" value="A card that features Blue Mushmom.\n#c#tem drop rates are increased at Korean Folk Town#"/>
+	</imgdir>
+    <imgdir name="2388054">
+		<string name="name" value="Snack Bar Card"/>
+		<string name="desc" value="A card that features Snack Bar.\n#ctem drop rates are increased at Drake's area#"/>
+	</imgdir>
+    <imgdir name="2388055">
+		<string name="name" value="Balrog Card"/>
+		<string name="desc" value="A card featuring Balrog.\ncIncreases item/meso drop rates in the central dungeon of Victoria#"/>
+	</imgdir>
+    <imgdir name="2388056">
+		<string name="name" value="Male Boss B Card"/>
+		<string name="desc" value="A card that features Male Boss B."/>
+	</imgdir>
+</imgdir>

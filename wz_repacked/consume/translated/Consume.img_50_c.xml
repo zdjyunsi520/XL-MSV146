@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022548">
+		<string name="name" value="狼铃的声音"/>
+		<string name="desc" value="羊暂时无法移动。"/>
+	</imgdir>
+    <imgdir name="2022549">
+		<string name="name" value="狼的威胁"/>
+		<string name="desc" value="恐吓羊，使它们变弱。"/>
+	</imgdir>
+    <imgdir name="2022550">
+		<string name="name" value="绵羊牧场金色问号蛋"/>
+		<string name="desc" value="只有在绵羊牧场才能获得的金蛋。上面刻着一个问号。双击看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2022552">
+		<string name="name" value="5周年礼物盒"/>
+		<string name="desc" value="这是冒险岛6周年礼物盒。里面会有什么？\n\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022553">
+		<string name="name" value="爆炸者的buff"/>
+		<string name="desc" value="爆炸者放在女巫宝藏上的buff。武器和魔法攻击+10、防御+20、命中+20、回避率+20，持续40分钟。"/>
+	</imgdir>
+    <imgdir name="2022554">
+		<string name="name" value="独立日鞭炮 1"/>
+		<string name="desc" value="这个鞭炮是特别为庆祝1776年7月4日我们的独立日而制作的。速度和跳跃+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022555">
+		<string name="name" value="独立日鞭炮 2"/>
+		<string name="desc" value="这个鞭炮是特别为庆祝1776年7月4日我们的独立日而制作的。攻击和魔法+5，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022556">
+		<string name="name" value="独立日鞭炮 3"/>
+		<string name="desc" value="这个鞭炮是特别为庆祝1776年7月4日我们的独立日而制作的。防御和魔法防御+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022562">
+		<string name="name" value="神器狩猎鼓励buff"/>
+		<string name="desc" value="你获得了超过1000分。人群沸腾了！武器攻击+5、魔法攻击+5，持续40分钟。"/>
+	</imgdir>
+    <imgdir name="2022563">
+		<string name="name" value="神器狩猎鼓励buff"/>
+		<string name="desc" value="你获得了超过5000分。你势不可挡！武器攻击+10、魔法攻击+10，持续40分钟。"/>
+	</imgdir>
+    <imgdir name="2022564">
+		<string name="name" value="阿拉尼斯纸盒"/>
+		<string name="desc" value="装着纪念阿拉尼斯发布特别礼物的纸盒。包装很好，可能需要#c双击#打开。"/>
+	</imgdir>
+    <imgdir name="2022570">
+		<string name="name" value="佩佩国王战士武器盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有战士武器。"/>
+	</imgdir>
+    <imgdir name="2022571">
+		<string name="name" value="佩佩国王魔法师武器盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有魔法师武器。"/>
+	</imgdir>
+    <imgdir name="2022572">
+		<string name="name" value="佩佩国王弓箭手武器盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有弓箭手武器。"/>
+	</imgdir>
+    <imgdir name="2022573">
+		<string name="name" value="佩佩国王飞侠武器盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有飞侠武器。"/>
+	</imgdir>
+    <imgdir name="2022574">
+		<string name="name" value="佩佩国王海盗武器盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有海盗武器。"/>
+	</imgdir>
+    <imgdir name="2022575">
+		<string name="name" value="佩佩国王战士防具盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有战士防具。"/>
+	</imgdir>
+    <imgdir name="2022576">
+		<string name="name" value="佩佩国王魔法师防具盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有魔法师防具。"/>
+	</imgdir>
+    <imgdir name="2022577">
+		<string name="name" value="佩佩国王弓箭手防具盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有弓箭手防具。"/>
+	</imgdir>
+    <imgdir name="2022578">
+		<string name="name" value="佩佩国王飞侠防具盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有飞侠防具。"/>
+	</imgdir>
+</imgdir>

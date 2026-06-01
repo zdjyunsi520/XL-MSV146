@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022660">
+		<string name="name" value="龙骑将buff区域恢复道具"/>
+		<string name="desc" value="恢复400 HP和200 MP。"/>
+	</imgdir>
+    <imgdir name="2022661">
+		<string name="name" value="龙骑将buff区域恢复道具"/>
+		<string name="desc" value="HP -550"/>
+	</imgdir>
+    <imgdir name="2022662">
+		<string name="name" value="埃文纸盒"/>
+		<string name="desc" value="装着纪念埃文发布礼物的纸盒。双击打开。"/>
+	</imgdir>
+    <imgdir name="2022663">
+		<string name="name" value="温暖冬日盒"/>
+		<string name="desc" value="装满帮助你度过寒冷冬季的惊喜的盒子。双击看看里面有什么。"/>
+	</imgdir>
+    <imgdir name="2022669">
+		<string name="name" value="探险家归来"/>
+		<string name="desc" value="武器攻击+10、魔法攻击+15，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022671">
+		<string name="name" value="墨水井的选择盒"/>
+		<string name="desc" value="墨水井的选择盒，有时包含椅子、腰带、项链等随机物品。\n#c双击打开。#"/>
+	</imgdir>
+    <imgdir name="2022680">
+		<string name="name" value="高级网吧特权"/>
+		<string name="desc" value="掉落率1小时增加2倍。"/>
+	</imgdir>
+    <imgdir name="2022694">
+		<string name="name" value="双刀：2倍掉落率！"/>
+		<string name="desc" value="获得2倍掉落率30分钟。"/>
+	</imgdir>
+    <imgdir name="2022695">
+		<string name="name" value="玛瑙龙宝箱"/>
+		<string name="desc" value="刻有守护龙的宝箱。据传说，这属于一位古老的龙大师。\n双击获得龙大师的宝藏。"/>
+	</imgdir>
+    <imgdir name="2022696">
+		<string name="name" value="痛苦的真相"/>
+		<string name="desc" value="这是绝对的事实，但真的很痛。不知道真相可能更好，因为不知道就不会受伤。在愤怒状态下提供武器攻击+10和魔法攻击+8，但因精神创伤损失-50 MP。"/>
+	</imgdir>
+    <imgdir name="2022697">
+		<string name="name" value="善意的谎言"/>
+		<string name="desc" value="不知道就不会受伤。如果真相太难处理，避免它可能是明智的。它在体谅他人时提供暴击+10，但因撒谎后的焦虑损失-80 HP。"/>
+	</imgdir>
+    <imgdir name="2022698">
+		<string name="name" value="古老冰川水"/>
+		<string name="desc" value="从埃尔德纳特的冰崖收集的古老冰川水。无论多冷都不会结冰，有恢复Hoblins健康的能力。\n恢复夏莫斯的健康。"/>
+	</imgdir>
+    <imgdir name="2022701">
+		<string name="name" value="加速"/>
+		<string name="desc" value="#c用于广告气球狩猎。#\n\n为你和你的队伍增加攻击速度和移动速度10秒。"/>
+	</imgdir>
+    <imgdir name="2022702">
+		<string name="name" value="减速"/>
+		<string name="desc" value="#c用于广告气球狩猎。#\n\n减少对方队伍的攻击速度和移动速度10秒。"/>
+	</imgdir>
+    <imgdir name="2022703">
+		<string name="name" value="炸弹攻击"/>
+		<string name="desc" value="#c用于广告气球狩猎。#\n\n在狩猎场放置定时炸弹。受影响的对手将眩晕3秒。"/>
+	</imgdir>
+    <imgdir name="2022704">
+		<string name="name" value="龙之领主的祝福"/>
+		<string name="desc" value="武器攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022706">
+		<string name="name" value="2010胜利欢呼"/>
+		<string name="desc" value="地图内所有角色获得物理防御+250和魔法防御+250，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022708">
+		<string name="name" value="幸运礼物：传奇buff"/>
+		<string name="desc" value="攻击+15、魔法攻击+15、移动速度+15、跳跃+15，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022709">
+		<string name="name" value="幸运礼物：掉落率提升券"/>
+		<string name="desc" value="管理员赠送的幸运礼物。掉落率2倍，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022710">
+		<string name="name" value="维塔的药"/>
+		<string name="desc" value="维塔制作的药。武器攻击+3、魔法攻击+5、速度+10，持续10分钟。"/>
+	</imgdir>
+</imgdir>

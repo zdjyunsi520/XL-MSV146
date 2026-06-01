@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="2041017">
+		<string name="name" value="Ace of Hearts"/>
+		<string name="func" value="Patissier"/>
+		<string name="n0" value="Sweet chocolate can go a long way toward telling your beloved 'I LOVE YOU!'"/>
+		<string name="n1" value="I, the Ace of Hearts, will let you in on the sweet, chocolaty secret recipe of love!"/>
+		<string name="d0" value="I'm here to bake lovely treats! Doesn't it smell scrumptious here? Mmm hmmm!"/>
+		<string name="d1" value="I can only make so much of it by myself. Bear with me. I can only make you one per hour."/>
+	</imgdir>
+    <imgdir name="2041018">
+		<string name="name" value="Hans the Assembler"/>
+		<string name="n0" value="What should I make today?"/>
+		<string name="f0" value="I am the best at assembling toys here at the Toy Factory."/>
+		<string name="f1" value="Gather the materials I ask of you, and I'll make something nice for you in return!"/>
+		<string name="d0" value="I just need a few things to make a fun toy to play with, but I don't know if I'm even allowed to make this."/>
+		<string name="d1" value="Hey, what's going on? Have you tried using the stuff I gave you the other day? That item had some experimental elements to it, and therefore it's a little dangerous, but it was fun making something I've always wanted to make. I have to get back to work now!"/>
+	</imgdir>
+    <imgdir name="2041019">
+		<string name="name" value="Rocky the Repairman"/>
+		<string name="n0" value="Why does this keep breaking down?"/>
+		<string name="d0" value="It's broken again... And I just fixed this not too long ago! Who did this?! If only I could get my hands on whoever's responsible for this... ARRGH!"/>
+		<string name="d1" value="Oh no, it must be the monsters again. As soon as I fix this, they come rushing back and break it again. Hey, how long have you been there? Thanks to the parts you got me, I've been fixing machines here and there, but they seem to break every other day, so I have no time to rest. I gotta go! Bye!"/>
+	</imgdir>
+    <imgdir name="2041020">
+		<string name="name" value="Mac the Mechanic"/>
+		<string name="n0" value="These machines need daily care..."/>
+		<string name="d0" value="Great weather today. I'm #b#p2041020##k, and I work here at the Toy Factory. I'm in charge of making blueprints for the machines around here, as well as fixing them if necessary."/>
+		<string name="d1" value="You're back. I've been busy here working thanks to the documents you got me. Oh, and this time, I hid it in a safe just in a case. I have to get back to work now. See you around!"/>
+	</imgdir>
+    <imgdir name="2041021">
+		<string name="name" value="Mr. Bouffon"/>
+		<string name="n0" value="We need to find the source of power for the time sphere at the center of Ludibrium."/>
+		<string name="n1" value="We need an energy replacement for the time sphere. Please gather up Tachions."/>
+		<string name="s0" value="We have to seal the Dimensional Schism."/>
+		<string name="s1" value="If you break the time sphere, you'll see the source of all evil face to face!"/>
+		<string name="d0" value="I'm Mr. Bouffon, in charge of protecting the Path of Time."/>
+		<string name="d1" value="Thanks to you the root of all evil in Ludibrium is gone forever! Only peaceful days lay ahead."/>
+	</imgdir>
+    <imgdir name="2041022">
+		<string name="name" value="Tigun the Advisor"/>
+		<string name="s0" value="Are you here to deliver the history book? Let's see..."/>
+		<string name="d0" value="I, Tigun the Advisor, am responsible for helping the King of Ludibrium run this place as smoothly as possible. Hmmm..."/>
+		<string name="d1" value="Aren't you the honorable traveler? Did you meet with #t1012109#? You remind me of my own traveling days... I was one fearless kid back then..."/>
+	</imgdir>
+    <imgdir name="2041023">
+		<string name="name" value="Flo"/>
+		<string name="s0" value="Time for a magic show!"/>
+		<string name="s1" value="Check out this eye-popping magic!"/>
+		<string name="m0" value="Boom!"/>
+		<string name="d0" value="I'm Flo, in charge of protecting the Path of Time. Would you like to see me work my magic?"/>
+		<string name="d1" value="Showtime! Am I good or what?"/>
+	</imgdir>
+    <imgdir name="2041026">
+		<string name="name" value="Ghosthunter Bob"/>
+		<string name="s0" value="When was the last time I had a decent meal? Urgh..."/>
+		<string name="s1" value="They're hard to handle!"/>
+		<string name="t0" value="Hey who do you think you are, roaming around this place so easily?"/>
+		<string name="d0" value="Hmmm... Gotta concentrate!"/>
+		<string name="d1" value="I feel a negative vibe around here..."/>
+	</imgdir>
+    <imgdir name="2041027">
+		<string name="name" value="Mason the Collector"/>
+		<string name="m0" value="Look, but don't touch! These items are precious!"/>
+		<string name="m1" value="I need to collect, collect, and collect..."/>
+		<string name="d0" value="I want this, this, this, and that..."/>
+		<string name="d1" value="Anything else to collect?!"/>
+	</imgdir>
+    <imgdir name="2041028">
+		<string name="name" value="Unknown Thief"/>
+		<string name="n0" value="If you want something, you'll need to pay a price for it."/>
+		<string name="n1" value="Do you want something from me?"/>
+		<string name="d0" value="I can't believe I'm here doing chores like this. I understand it's an order, but that doesn't make this any easier to do."/>
+		<string name="d1" value="For Hellin to look out for someone like you... It is indeed quite surprising. Well, I'm sure it's not all that fun to be paid attention to. He's quite ruthless, to say the least."/>
+	</imgdir>
+    <imgdir name="2041029">
+		<string name="name" value="Karen"/>
+		<string name="n0" value="This is the time control room for Ludibrium. Only authorized personnel may enter."/>
+		<string name="n1" value="I can't believe time controller's security device is broken. What should I do...?"/>
+		<string name="d0" value="Oh no, someone destroyed the security device for the time controller!"/>
+		<string name="d1" value="Ahhh... I can't believe you just skipped time like that. The goddess will not forgive you for it."/>
+	</imgdir>
+    <imgdir name="2042000">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+	</imgdir>
+    <imgdir name="2042001">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+	</imgdir>
+    <imgdir name="2042002">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Monster Carnival"/>
+		<string name="n0" value="If you're an adventurer looking for a challenge, participate in the Monster Carnival!"/>
+		<string name="n1" value="Aren't you curious to see who the strongest adventurer is amongst your friends?"/>
+	</imgdir>
+    <imgdir name="2050004">
+		<string name="name" value="Kubo the Storageman"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="Are you looking for a storage place?"/>
+		<string name="n1" value="My storage is totally safe! I guarantee it..."/>
+	</imgdir>
+    <imgdir name="2050005">
+		<string name="name" value="Chury"/>
+		<string name="n0" value="Tsk, tsk... I'll be late if I don't get going!"/>
+		<string name="n1" value="As long as I am here, this place is safe!"/>
+		<string name="d0" value="This is my first break in a long time. I've been up the past few days on missions. The aliens always make noise after dark... Anyway, I need to enjoy this as much as I can. But then again, I should still be on guard..."/>
+		<string name="d1" value="You're the one that brought #b#p2050001#'s#k #b#t4031100##k here and showed it to me. I can't thank you enough for that. How's the robot coming along? I can't wait for the day I get my hands on that robot. Now, I need to finish the training, so please excuse me."/>
+	</imgdir>
+    <imgdir name="2050006">
+		<string name="name" value="Hoony"/>
+		<string name="n0" value="Where is Mirol...?"/>
+		<string name="n1" value="I'm getting tired of going on missions every day."/>
+		<string name="d0" value="I'm #b#p2050006##k of the Omega Sector, currently on a secret mission. You look like a traveler, and even though you seem to be on our side, I can't divulge any information regarding my mission."/>
+		<string name="d1" value="You're the one that brought #b#p2050001#'s#k #b#t4031100##k here and showed it to me. I can't thank you enough for that. How's the robot coming along? I can't wait for the day I get to have my hands on that robot. Now I need to get back to work..."/>
+	</imgdir>
+    <imgdir name="2050007">
+		<string name="name" value="Gunny"/>
+		<string name="n0" value="Hoon is always whining."/>
+		<string name="n1" value="We need some female pilots."/>
+		<string name="d0" value="I'm #b#p2050007##k of the Omega Sector, currently on a secret mission. You look like a traveler, and even though you seem to be on our side, I can't divulge any information regarding this mission."/>
+		<string name="d1" value="You're the one that brought #b#p2050001#'s#k #b#t4031100##k here and showed it to me. I can't thank you enough for that. How's the robot coming along? I can't wait for the day I get to have my hands on that robot. Now I need to get back to work..."/>
+	</imgdir>
+    <imgdir name="2050008">
+		<string name="name" value="General Maestro"/>
+		<string name="n0" value="My army is here to protect this place, yesterday, today, and tomorrow."/>
+		<string name="n1" value="I have no time to talk, for I am in the middle of an important operation."/>
+		<string name="d0" value="Thanks for coming to the Omega Sector. Please stay on your toes, because the aliens may attack any minute. Oh, by the way, someone in the Sector needs your help. If you're interested, go see that person."/>
+		<string name="d1" value="The weather is just perfect outside. This place is secure and protected from the aliens. It's been awfully quiet these past few days, which troubles me, but I can't stand pat. Oh, by the way, the work you did for me the other day, that's going great now."/>
+	</imgdir>
+    <imgdir name="2050009">
+		<string name="name" value="Jr. Officer Medin"/>
+		<string name="n0" value="I'm in charge of protecting the general as well as directing the army."/>
+		<string name="n1" value="I am not going to tolerate anyone slacking off!"/>
+		<string name="d0" value="A-ten-hut! Can you help me perhaps?"/>
+		<string name="d1" value="Good job. I will work harder to assist General Maestro."/>
+	</imgdir>
+</imgdir>

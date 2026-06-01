@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290894">
+		<string name="name" value="[Mastery Book] Exceed: Execution 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cExceed: Execution# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290895">
+		<string name="name" value="[Mastery Book] Exceed: Execution 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cExceed: Execution# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290896">
+		<string name="name" value="[Mastery Book] Nether Shield 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cNether Shield# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290897">
+		<string name="name" value="[Mastery Book] Nether Shield 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cNether Shield# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290898">
+		<string name="name" value="[Mastery Book] Nether Slice 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cNether Slice# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290899">
+		<string name="name" value="[Mastery Book] Nether Slice 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cNether Slice# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290900">
+		<string name="name" value="[Mastery Book] Bloody Prison 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBlood Prison# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290901">
+		<string name="name" value="[Mastery Book] Overwhelming Power 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cOverwhelming Power# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290902">
+		<string name="name" value="[Mastery Book] Overwhelming Power 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cOverwhelming Power# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290903">
+		<string name="name" value="[Mastery Book] Defense Expertise 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDefense Expertise# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290904">
+		<string name="name" value="[Mastery Book] Defense Expertise 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDefense Expertise# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290905">
+		<string name="name" value="[Mastery Book] Advanced Desperado Mastery 20"/>
+		<string name="desc" value="70% chance of increasing the Master level of #cAdvanced Desperado Mastery# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290906">
+		<string name="name" value="[Mastery Book] Advanced Desperado Mastery 30"/>
+		<string name="desc" value="50% chance of increasing the Master level of #cAdvanced Desperado Mastery# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290907">
+		<string name="name" value="[Mastery Book] Infernal Exceed 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cInfernal Exceed# to 20.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290908">
+		<string name="name" value="[Special Mastery Book] Exceed: Execution 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cExceed: Execution# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290909">
+		<string name="name" value="[Special Mastery Book] Possessed Shield 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cPossessed Shield# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290910">
+		<string name="name" value="[Special Mastery Book] Nether Slice 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cNether Slice# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290911">
+		<string name="name" value="[Special Mastery Book] Overwhelming Power 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cOverwhelming Power# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290912">
+		<string name="name" value="[Special Mastery Book] Defense Expertise 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDefense Expertise# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290913">
+		<string name="name" value="[Special Mastery Book] Advanced Desperado Mastery 30"/>
+		<string name="desc" value="100% chance of increasing the Master level of #cAdvanced Desperado Mastery# to 30.\nJob: Demon Avenger (4th)\nRequirement: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

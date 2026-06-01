@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290106">
+		<string name="name" value="[能手册] 连续攻击"/>
+		<string name="desc" value="70%概率将#c连续攻击#的最高等级提升到20级。\n职业：冲锋队长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290107">
+		<string name="name" value="[能手册] 连续攻击"/>
+		<string name="desc" value="50%概率将#c连续攻击#的最高等级提升到30级。\n职业：冲锋队长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290108">
+		<string name="name" value="[能手册] 急速射"/>
+		<string name="desc" value="70%概率将#c急速射#的最高等级提升到20级。\n职业：冲锋队长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290109">
+		<string name="name" value="[能手册] 风之加速"/>
+		<string name="desc" value="50%概率将#c风之加速#的最高等级提升到30级。\n职业：冲锋队长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290110">
+		<string name="name" value="[能手册] 时间跳跃"/>
+		<string name="desc" value="70%概率将#c时间跳跃#的最高等级提升到20级。\n职业：冲锋队长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290111">
+		<string name="name" value="[能手册] 时间跳跃"/>
+		<string name="desc" value="50%概率将#c时间跳跃#的最高等级提升到30级。\n职业：冲锋队长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290112">
+		<string name="name" value="[能手册] 元素强化"/>
+		<string name="desc" value="70%概率将#c元素强化#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290113">
+		<string name="name" value="[能手册] 元素强化"/>
+		<string name="desc" value="50%概率将#c元素强化#的最高等级提升到30级。\n职业：船长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290114">
+		<string name="name" value="[能手册] 章鱼炮击"/>
+		<string name="desc" value="70%概率将#c章鱼炮击#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290115">
+		<string name="name" value="[能手册] 空中打击"/>
+		<string name="desc" value="70%概率将#c空中打击#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290116">
+		<string name="name" value="[能手册] 空中打击"/>
+		<string name="desc" value="50%概率将#c空中打击#的最高等级提升到30级。\n职业：船长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290117">
+		<string name="name" value="[能手册] 急速射击"/>
+		<string name="desc" value="70%概率将#c急速射击#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290118">
+		<string name="name" value="[能手册] 急速射击"/>
+		<string name="desc" value="50%概率将#c急速射击#的最高等级提升到30级。\n职业：船长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290119">
+		<string name="name" value="[能手册] 战舰大炮"/>
+		<string name="desc" value="70%概率将#c战舰大炮#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290120">
+		<string name="name" value="[能手册] 战舰大炮"/>
+		<string name="desc" value="50%概率将#c战舰大炮#的最高等级提升到30级。\n职业：船长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290121">
+		<string name="name" value="[能手册] 战舰鱼雷"/>
+		<string name="desc" value="70%概率将#c战舰鱼雷#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290122">
+		<string name="name" value="[能手册] 战舰鱼雷"/>
+		<string name="desc" value="50%概率将#c战舰鱼雷#的最高等级提升到30级。\n职业：船长\n条件：该技能至少15级"/>
+	</imgdir>
+    <imgdir name="2290123">
+		<string name="name" value="[能手册] 催眠术"/>
+		<string name="desc" value="70%概率将#c催眠术#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290124">
+		<string name="name" value="[能手册] 精准射击"/>
+		<string name="desc" value="70%概率将#c精准射击#的最高等级提升到20级。\n职业：船长\n条件：该技能至少5级"/>
+	</imgdir>
+    <imgdir name="2290125">
+		<string name="name" value="[能手册] 冒险岛勇士 30"/>
+		<string name="desc" value="50%概率将#c冒险岛勇士#的最高等级提升到30级。\r\n职业：所有4转职业\r\n条件：技能等级15级以上"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5311005">
+        <string name="name" value="Luck of the Die" />
+        <string name="desc" value="Try your luck! Roll dice to get a random buff. Roll a 1, and you get nothing." />
+        <string name="h" value="MP Cost: #mpCon, Buff Duration: #time sec\n#cCooldown: #cooltime sec#" />
+        <string name="pdesc" value="Try your luck! Roll dice to get a random buff. Roll a 1, and you get nothing." />
+        <string name="ph" value="MP Cost: #mpCon, Buff Duration: #time, Cooldown: #cooltime sec" />
+    </imgdir>

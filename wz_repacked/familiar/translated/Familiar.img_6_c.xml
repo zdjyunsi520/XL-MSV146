@@ -1,0 +1,10 @@
+<imgdir name="Familiar.img">
+    <imgdir name="870">
+			<string name="name" value="雪人打嗝"/>
+			<string name="desc" value="攻击时有100%几率击倒4个敌人8秒。"/>
+		</imgdir>
+    <imgdir name="871">
+			<string name="name" value="不可侵犯防御"/>
+			<string name="desc" value="攻击时有80%几率使4个敌人减速4秒。"/>
+		</imgdir>
+</imgdir>

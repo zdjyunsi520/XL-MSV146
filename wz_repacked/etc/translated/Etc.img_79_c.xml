@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4031117">
+			<string name="name" value="陨石样本"/>
+			<string name="desc" value="最近在库兰田发现的陨石样本"/>
+		</imgdir>
+    <imgdir name="4031118">
+			<string name="name" value="解码的存储卡"/>
+			<string name="desc" value="波特解码的机器人的存储卡"/>
+		</imgdir>
+    <imgdir name="4031119">
+			<string name="name" value="黑色玩具希娜"/>
+			<string name="desc" value="黑色玩具希娜；无法知道它最初的样子"/>
+		</imgdir>
+    <imgdir name="4031120">
+			<string name="name" value="玩具希娜"/>
+			<string name="desc" value="像某人的玩具"/>
+		</imgdir>
+    <imgdir name="4031121">
+			<string name="name" value="贝壳"/>
+			<string name="desc" value="轻的贝壳"/>
+		</imgdir>
+    <imgdir name="4031122">
+			<string name="name" value="糖"/>
+			<string name="desc" value="用于制作糖果。融化变成糖浆，然后撒在水果上制作美味的水果糖"/>
+		</imgdir>
+    <imgdir name="4031123">
+			<string name="name" value="菠萝"/>
+			<string name="desc" value="切成三角形。用于制作美味的水果糖"/>
+		</imgdir>
+    <imgdir name="4031124">
+			<string name="name" value="草莓"/>
+			<string name="desc" value="非常成熟的红草莓。用于制作美味的水果糖"/>
+		</imgdir>
+    <imgdir name="4031125">
+			<string name="name" value="木签"/>
+			<string name="desc" value="用于穿水果的长木签"/>
+		</imgdir>
+    <imgdir name="4031126">
+			<string name="name" value="波特的信"/>
+			<string name="desc" value="欧米茄区波特的信。我需要准时把这个送给应该在欧米茄区筒仓的工程师凯"/>
+		</imgdir>
+    <imgdir name="4031127">
+			<string name="name" value="飞行员的信"/>
+			<string name="desc" value="从损坏的运输机上找回的信件，似乎是失踪飞行员写的。需要把这个送给应该在欧米茄区筒仓的工程师凯"/>
+		</imgdir>
+    <imgdir name="4031128">
+			<string name="name" value="织工的信"/>
+			<string name="desc" value="助理织工的信。需要把这个送给内尔"/>
+		</imgdir>
+    <imgdir name="4031129">
+			<string name="name" value="美味奶酪"/>
+			<string name="desc" value="软得不能再软了。我可以用这个做汤"/>
+		</imgdir>
+    <imgdir name="4031130">
+			<string name="name" value="维护手册"/>
+			<string name="desc" value="包含玩具工厂机器蓝图的维护手册。机械师麦克原本丢失了它"/>
+		</imgdir>
+    <imgdir name="4031131">
+			<string name="name" value="蓝色鲤鱼旗"/>
+			<string name="desc" value="儿童节使用的蓝色鲤鱼旗"/>
+		</imgdir>
+    <imgdir name="4031132">
+			<string name="name" value="红色鲤鱼旗"/>
+			<string name="desc" value="儿童节使用的红色鲤鱼旗"/>
+		</imgdir>
+    <imgdir name="4031133">
+			<string name="name" value="绿色小鲤鱼旗"/>
+			<string name="desc" value="儿童节使用的绿色鲤鱼旗"/>
+		</imgdir>
+    <imgdir name="4031134">
+			<string name="name" value="弗洛里纳海滩VIP门票"/>
+			<string name="desc" value="前往弗洛里纳海滩所需。如果持有门票，你可以终身免费前往弗洛里纳海滩"/>
+		</imgdir>
+    <imgdir name="4031135">
+			<string name="name" value="暗淡水晶"/>
+			<string name="desc" value="没有闪闪发光的水晶，因为它的力量在鼓兔体内时已经耗尽"/>
+		</imgdir>
+    <imgdir name="4031136">
+			<string name="name" value="格雷的文件"/>
+			<string name="desc" value="格雷的文件，似乎是外星人的文字。难以破译"/>
+		</imgdir>
+</imgdir>

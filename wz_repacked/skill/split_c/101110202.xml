@@ -1,0 +1,5 @@
+<imgdir name="101110202">
+        <string name="name" value="旋转突击" />
+        <string name="desc" value="高速旋转向前推进。击退路径上的敌人~[前置技能]: #c旋转十字 Lv. #[指令]: 旋转十字激活时再次使用#c旋转十字#" />
+        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
+    </imgdir>

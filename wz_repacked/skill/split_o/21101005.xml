@@ -1,0 +1,8 @@
+<imgdir name="21101005">
+        <string name="name" value="Combo Drain" />
+        <string name="desc" value="Activates a buff that absorbs a portion of damage received as HP. Can only absorb up to 20% of your Max HP. Can only be used when your #cCombo Count is 30 or higher#.\nRequired Skill: #cCombo Ability Lv. 1#" />
+        <string name="h" value="Combo Count Cost: #comboConAran, HP Recovery per #time sec: #x%" />
+        <string name="pdesc" value="Activates a buff that absorbs a portion of damage received as HP. Can only absorb up to 20% of your Max HP. Can only be used when your #cCombo Count is 15 or higher#.\n[Command: #c↓↓ + Attack Key#]\nRequired Skill: #cCombo Ability Lv. 1#" />
+        <string name="ph" value="Restored HP: #x%, Chance: #prop%, Duration: #time sec" />
+        <string name="hch" value="#hcProp% chance to restore #x% of damage for #time sec" />
+    </imgdir>

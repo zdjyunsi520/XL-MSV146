@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400312">
+		<string name="name" value="Toe (Easy)"/>
+	</imgdir>
+    <imgdir name="9400313">
+		<string name="name" value="Tic (Medium)"/>
+	</imgdir>
+    <imgdir name="9400314">
+		<string name="name" value="Tac (Medium)"/>
+	</imgdir>
+    <imgdir name="9400315">
+		<string name="name" value="Toe (Medium)"/>
+	</imgdir>
+    <imgdir name="9400316">
+		<string name="name" value="Tic (Hard)"/>
+	</imgdir>
+    <imgdir name="9400317">
+		<string name="name" value="Tac (Hard)"/>
+	</imgdir>
+    <imgdir name="9400318">
+		<string name="name" value="Toe (Hard)"/>
+	</imgdir>
+    <imgdir name="9400319">
+		<string name="name" value="Cross (Easy)"/>
+	</imgdir>
+    <imgdir name="9400320">
+		<string name="name" value="Cross (Medium)"/>
+	</imgdir>
+    <imgdir name="9400321">
+		<string name="name" value="Cross (Hard)"/>
+	</imgdir>
+    <imgdir name="9400322">
+		<string name="name" value="Giant Snowman (Lvl 1) - Easy"/>
+	</imgdir>
+    <imgdir name="9400323">
+		<string name="name" value="Giant Snowman (Lvl 2) - Easy"/>
+	</imgdir>
+    <imgdir name="9400324">
+		<string name="name" value="Giant Snowman (Lvl 3) - Easy"/>
+	</imgdir>
+    <imgdir name="9400325">
+		<string name="name" value="Giant Snowman (Lvl 4) - Easy"/>
+	</imgdir>
+    <imgdir name="9400326">
+		<string name="name" value="Giant Snowman (Lvl 5) - Easy"/>
+	</imgdir>
+    <imgdir name="9400327">
+		<string name="name" value="Giant Snowman (Lvl 1) - Medium"/>
+	</imgdir>
+    <imgdir name="9400328">
+		<string name="name" value="Giant Snowman (Lvl 2) - Medium"/>
+	</imgdir>
+    <imgdir name="9400329">
+		<string name="name" value="Giant Snowman (Lvl 3) - Medium"/>
+	</imgdir>
+    <imgdir name="9400330">
+		<string name="name" value="Giant Snowman (Lvl 4) - Medium"/>
+	</imgdir>
+    <imgdir name="9400331">
+		<string name="name" value="Giant Snowman (Lvl 5) - Medium"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="112100000">
+        <string name="name" value="Leopard&apos;s Paw" />
+        <string name="h" value="Damage: #damage% (first two hits), Max Enemies Hit: #mobCount, Number of Attacks:  #attackCount. \r\nMP Cost at 2nd Hit: #y " />
+        <string name="desc" value="Get a dose of Lai&apos;s muscles to knock back enemies in your path. \r\n[Command]: After 2 hits, combo with #cLeopard&apos;s Pounce#\r\n[Extra Command]: Combo with #cLeopard&apos;s Roar#" />
+    </imgdir>

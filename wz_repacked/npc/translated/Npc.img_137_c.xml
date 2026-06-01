@@ -1,0 +1,131 @@
+<imgdir name="Npc.img">
+    <imgdir name="1012131">
+		<string name="name" value="通缉：蓝色蘑菇妈妈"/>
+		<string name="d0" value="蓝色蘑菇妈妈的通缉令。"/>
+		<string name="d1" value="蓝色蘑菇妈妈的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012132">
+		<string name="name" value="通缉：僵尸蘑菇妈妈"/>
+		<string name="d0" value="僵尸蘑菇妈妈的通缉令。"/>
+		<string name="d1" value="僵尸蘑菇妈妈的通缉令。"/>
+	</imgdir>
+    <imgdir name="1012133">
+		<string name="name" value="邮箱"/>
+		<string name="d0" value="一个邮箱。盖子半开着。"/>
+		<string name="d1" value="一个邮箱。盖子半开着。"/>
+	</imgdir>
+    <imgdir name="1012134">
+		<string name="name" value="Athena Pierce"/>
+		<string name="d0" value="我应该做出哪个选择...？"/>
+		<string name="d1" value="我应该做出哪个选择...？"/>
+	</imgdir>
+    <imgdir name="2142000">
+		<string name="name" value="Maya"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="*咳...咳...* 哦...我的头..."/>
+		<string name="n1" value="你在找什么特定的物品吗？"/>
+	</imgdir>
+    <imgdir name="2142001">
+		<string name="name" value="Alex酋长"/>
+		<string name="n0" value="我很担心我的儿子..."/>
+		<string name="n1" value="嘿，你！你最好不要惹麻烦！"/>
+		<string name="d0" value="不知道世界其他地方发生了什么..."/>
+		<string name="d1" value="请帮助我们的城镇。"/>
+	</imgdir>
+    <imgdir name="2142002">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="我能感受到变革之风。"/>
+		<string name="n1" value="我祈祷和平..."/>
+		<string name="d0" value="什么事？"/>
+		<string name="d1" value="我们需要聚集力量。"/>
+	</imgdir>
+    <imgdir name="2142003">
+		<string name="name" value="大头沃德"/>
+		<string name="n0" value="大头王国变成了什么样子...？"/>
+		<string name="n1" value="无论情况多么严峻，别忘了打理你的发型！"/>
+		<string name="d0" value="我们必须保护我们的城镇！"/>
+		<string name="d1" value="谢谢你的帮助！哦，你的头...你是大头王国的人吗？"/>
+	</imgdir>
+    <imgdir name="2142004">
+		<string name="name" value="Camila"/>
+		<string name="n0" value="希望和平能回来...总有一天..."/>
+		<string name="n1" value="啊！缎带猪！"/>
+		<string name="d0" value="嗨...我是Camila..."/>
+		<string name="d1" value="哦！谢谢你早些时候的帮助。"/>
+	</imgdir>
+    <imgdir name="2142005">
+		<string name="name" value="Utah"/>
+		<string name="n0" value="嗯...我们什么时候能有好运？"/>
+		<string name="n1" value="有没有办法驯服这些缎带猪？"/>
+		<string name="d0" value="救命！"/>
+		<string name="d1" value="感谢你早些时候的帮助。希望能再见到你！"/>
+	</imgdir>
+    <imgdir name="2142006">
+		<string name="name" value="Jay"/>
+		<string name="n0" value="我从没想过这种事会发生在哈里斯..."/>
+		<string name="n1" value="我需要变得更强。"/>
+		<string name="d0" value="我太弱了。我无法保护我的家人。"/>
+		<string name="d1" value="我会变得足够强大来摧毁他们所有人。不惜一切代价！"/>
+	</imgdir>
+    <imgdir name="2142007">
+		<string name="name" value="前酋长Stan"/>
+		<string name="n0" value="我担心我的儿子..."/>
+		<string name="n1" value="不要惹麻烦...否则我会缠着你！"/>
+		<string name="d0" value="我甚至不能安息。"/>
+		<string name="d1" value="请拯救哈里斯。"/>
+	</imgdir>
+    <imgdir name="2142008">
+		<string name="name" value="Anne"/>
+		<string name="n0" value="我们需要密切关注他们的动向。"/>
+		<string name="n1" value="我...我不想孤单一人。"/>
+		<string name="d0" value="谁在那里？！我是Anne，这片森林的守卫！"/>
+		<string name="d1" value="嘘！我正在执行一项重要任务。"/>
+	</imgdir>
+    <imgdir name="2142009">
+		<string name="name" value="Utah"/>
+		<string name="n0" value="啊！我的弹珠去哪了？"/>
+		<string name="n1" value="怪物怎么变得这么有攻击性？"/>
+		<string name="d0" value="救命！"/>
+		<string name="d1" value="感谢你早些时候的帮助。希望能再见到你！"/>
+	</imgdir>
+    <imgdir name="2142010">
+		<string name="name" value="Rina"/>
+		<string name="n0" value="*咳...咳...* 哈里斯外面的世界发生了什么？你觉得Ronnie还好吗？"/>
+		<string name="n1" value="我怀念过去的日子..."/>
+	</imgdir>
+    <imgdir name="2142100">
+		<string name="name" value="Christopher"/>
+		<string name="n0" value="渴...口渴..."/>
+		<string name="n1" value="水！水！"/>
+		<string name="d0" value="唉...这就是我辉煌探险生涯的终结吗？"/>
+		<string name="d1" value="谢谢你，我不渴了。"/>
+	</imgdir>
+    <imgdir name="2142101">
+		<string name="name" value="River"/>
+		<string name="n0" value="我怀念我的商人日子..."/>
+		<string name="n1" value="要不是他们...！"/>
+		<string name="d0" value="Perion发生了什么？"/>
+		<string name="d1" value="你必须在他们不知道的情况下训练。"/>
+	</imgdir>
+    <imgdir name="2142102">
+		<string name="name" value="Harry"/>
+		<string name="n0" value="哦，我的背。"/>
+		<string name="n1" value="小心那些无情的叛徒。"/>
+		<string name="d0" value="嘘。他们还在监视。"/>
+		<string name="d1" value="Perion的战士必须始终努力训练。"/>
+	</imgdir>
+    <imgdir name="2142103">
+		<string name="name" value="与公牛并肩"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="前面很危险。小心。"/>
+		<string name="d0" value="我想知道Hard as Stone过得怎么样。"/>
+		<string name="d1" value="我无法保护Perion战士的骄傲，但我必须保护我的女儿。"/>
+	</imgdir>
+    <imgdir name="2142104">
+		<string name="name" value="Sophia"/>
+		<string name="n0" value="我怀念过去繁荣的Perion。"/>
+		<string name="n1" value="我们还能回到过去吗？"/>
+		<string name="d0" value="自从我叔叔去世后，我每天都在这里制作药水。要是他在这里就好了..."/>
+		<string name="d1" value="谢谢你的帮助。市民们都很满意。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2000014">
+		<string name="name" value="新手蓝色药水"/>
+		<string name="desc" value="专为新手制作的蓝色药草药水。\n恢复80 MP。"/>
+	</imgdir>
+    <imgdir name="2000015">
+		<string name="name" value="新手橙色药水"/>
+		<string name="desc" value="由红色药草制成的浓缩药水。\n恢复150 HP。"/>
+	</imgdir>
+    <imgdir name="2000016">
+		<string name="name" value="白色药水"/>
+		<string name="desc" value="由红色药草制成的高度浓缩药水。\n恢复300 HP。"/>
+	</imgdir>
+    <imgdir name="2000017">
+		<string name="name" value="蓝色药水"/>
+		<string name="desc" value="由蓝色药草制成的药水。\n恢复100 MP。"/>
+	</imgdir>
+    <imgdir name="2000018">
+		<string name="name" value="魔力精华素"/>
+		<string name="desc" value="一个传奇般的药水。\n恢复约300 MP。"/>
+	</imgdir>
+    <imgdir name="2000019">
+		<string name="name" value="力量精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复所有最大HP和MP，如果你的最大HP和MP超过99,999，则限制为99,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000020">
+		<string name="name" value="贵族红色药水"/>
+		<string name="desc" value="一种由只在Ereve生长的药草制成的特殊药水。专为贵族制作。\nHP +50。"/>
+	</imgdir>
+    <imgdir name="2000021">
+		<string name="name" value="贵族蓝色药水"/>
+		<string name="desc" value="一种由只在Ereve生长的药草制成的特殊药水。专为贵族制作。\nMP +100。"/>
+	</imgdir>
+    <imgdir name="2000022">
+		<string name="name" value="特殊利恩红色药水"/>
+		<string name="desc" value="一种由只在利恩生长的药草制成的特殊药水。\n恢复HP +100。"/>
+	</imgdir>
+    <imgdir name="2000023">
+		<string name="name" value="特殊利恩蓝色药水"/>
+		<string name="desc" value="一种由只在利恩生长的药草制成的特殊药水。\n恢复MP +50。"/>
+	</imgdir>
+    <imgdir name="2000024">
+		<string name="name" value="十字军守护者"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复2000 HP。"/>
+	</imgdir>
+    <imgdir name="2000025">
+		<string name="name" value="强效十字军守护者"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复4000 HP。"/>
+	</imgdir>
+    <imgdir name="2000026">
+		<string name="name" value="上级十字军守护者"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复6000 HP。"/>
+	</imgdir>
+    <imgdir name="2000027">
+		<string name="name" value="十字军提神剂"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复2000 MP。"/>
+	</imgdir>
+    <imgdir name="2000028">
+		<string name="name" value="强效十字军提神剂"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复4000 MP。"/>
+	</imgdir>
+    <imgdir name="2000029">
+		<string name="name" value="上级十字军提神剂"/>
+		<string name="desc" value="分发给沉默 Crusade成员的药水。\n恢复6000 MP。"/>
+	</imgdir>
+    <imgdir name="2000030">
+		<string name="name" value="顶级价值药水"/>
+		<string name="desc" value="用贵重材料制成的药水。\n恢复5000 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000031">
+		<string name="name" value="精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复最大HP和MP的50%，如果你的最大HP和MP超过99,999，则限制为49,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2000032">
+		<string name="name" value="力量精华素"/>
+		<string name="desc" value="这个药水确实是传奇般的。\n恢复所有最大HP和MP，如果你的最大HP和MP超过99,999，则限制为99,999 HP和MP。"/>
+	</imgdir>
+    <imgdir name="2001000">
+		<string name="name" value="西瓜"/>
+		<string name="desc" value="一个非常成熟的西瓜。\n恢复约1000 HP和1000 MP。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="42101021">
+        <string name="name" value="Foxfire" />
+        <string name="desc" value="Haku summons several foxfires. Each foxfire can be used to nullify an enemy spell or reflect damage back." />
+        <string name="h" value="Foxfires Summoned: #y, Duration: #time sec, Magic Nullification Chance: #prop%, Damage Reflected: #x%. 1 fire used per attack." />
+    </imgdir>

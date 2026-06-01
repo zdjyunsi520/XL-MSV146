@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010001">
+		<string name="name" value="Sky-blue Wooden Chair"/>
+		<string name="desc" value="A specially-made sky-blue wooden chair that's only available in Lith Harbor. Recover 35 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010002">
+		<string name="name" value="Green Chair"/>
+		<string name="desc" value="A comfortable, plush green chair, complete with arm-rests. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010003">
+		<string name="name" value="Red Chair"/>
+		<string name="desc" value="A comfortable, plush red chair, complete with arm-rests.. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010004">
+		<string name="name" value="The Yellow Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds. Perfect for a quick break from training."/>
+	</imgdir>
+    <imgdir name="3010005">
+		<string name="name" value="The Red Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds.  Perfect for a quick break from training."/>
+	</imgdir>
+    <imgdir name="3010006">
+		<string name="name" value="Yellow Chair"/>
+		<string name="desc" value="A comfortable, plush yellow chair, complete with arm-rests. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010007">
+		<string name="name" value="Pink Seal Cushion"/>
+		<string name="desc" value="An adorable pink cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010008">
+		<string name="name" value="Blue Seal Cushion"/>
+		<string name="desc" value="An adorable blue cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010009">
+		<string name="name" value="Red Round Chair"/>
+		<string name="desc" value="Rumored to be crafted in Amoria, this special chair is also known as the Love Seat. Recover 20 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010010">
+		<string name="name" value="White Seal Cushion"/>
+		<string name="desc" value="An adorable white cushion that resembles a seal.  Recovers HP 50 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010011">
+		<string name="name" value="Amorian Relaxer"/>
+		<string name="desc" value="A chair crafted by Jacob. Recovers 75 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010012">
+		<string name="name" value="Warrior Throne"/>
+		<string name="desc" value="A powerful chair used often on the battlefield. Recovers 60 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+    <imgdir name="3010013">
+		<string name="name" value="Beach Chair"/>
+		<string name="desc" value="A chair straight from the relaxation experts in Florina Beach. Recover 20 HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010014">
+		<string name="name" value="Moon Star Chair"/>
+		<string name="desc" value="A light, stylish chair that seems to be sent from the heavens. Recover 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010015">
+		<string name="name" value="The Red Relaxer"/>
+		<string name="desc" value="A chair with magical properties crafted in Ellinia. Restores 35 MP per 10 Seconds while sitting."/>
+	</imgdir>
+    <imgdir name="3010016">
+		<string name="name" value="Grey Seal Cushion"/>
+		<string name="desc" value="An adorable grey cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010017">
+		<string name="name" value="Gold Seal Cushion"/>
+		<string name="desc" value="An adorable gold cushion that resembles a seal.  Recovers MP 60 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010018">
+		<string name="name" value="Palm Tree Beach Chair"/>
+		<string name="desc" value="A beach chair placed in the shades under the palm tree at Ariant. Sit on it to recover HP 40 and MP 20 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010019">
+		<string name="name" value="Kadomatsu"/>
+		<string name="desc" value="A specially-made chair that's only available in Mushroom Shrine. Recover 60 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010021">
+		<string name="name" value="Wooden Tub"/>
+		<string name="desc" value="Enjoy a bath and relax in this spacious wooden tub to recover 40 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="20000103">
+        <string name="name" value="冰霜劈砍" />
+        <string name="pdesc" value="猛击敌人并有几率使其眩晕。冰量表达到#c5以上#时可用。\n[指令：#c下方向键 + 攻击键#]" />
+        <string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
+    </imgdir>

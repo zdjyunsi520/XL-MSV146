@@ -1,0 +1,99 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040838">
+		<string name="name" value="[5th Anniversary] Dark Scroll for Maple Gage for LUK 70%"/>
+		<string name="desc" value="Improves LUK on a Maple Gage. \nSuccess rate: 70%, Accuracy +2, LUK +1\nIf unsuccessful, item has a 50% chance of being destroyed."/>
+	</imgdir>
+    <imgdir name="2040839">
+		<string name="name" value="[5th Anniversary] Dark Scroll for Maple Gage for INT 70%"/>
+		<string name="desc" value="Improves INT on a Maple Gage. \nSuccess rate: 70%, Accuracy +2, INT +1\nIf unsuccessful, item has a 50% chance of being destroyed."/>
+	</imgdir>
+    <imgdir name="2040840">
+		<string name="name" value="[5th Anniversary] Dark Scroll for Maple Gage for DEX 70%"/>
+		<string name="desc" value="Improves DEX on a Maple Gage. \nSuccess rate: 70%, Accuracy +2, DEX +1\nIf unsuccessful, item has a 50% chance of being destroyed."/>
+	</imgdir>
+    <imgdir name="2040845">
+		<string name="name" value="Scroll for Gloves for Magic ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040846">
+		<string name="name" value="Scroll for 3x3 Gloves for ATT 30%"/>
+		<string name="desc" value="Improves Attack on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040847">
+		<string name="name" value="Scroll for 3x3 Gloves for M. ATT 30%"/>
+		<string name="desc" value="Improves Magic Attack on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040848">
+		<string name="name" value="Scroll for 3x3 Gloves for STR 70%"/>
+		<string name="desc" value="Improves Strength on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to be destroyed on failure: 70%\r\nSTR: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040849">
+		<string name="name" value="Scroll for 3x3 Gloves for INT 70%"/>
+		<string name="desc" value="Improves Intelligence on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 70%\r\nINT: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040850">
+		<string name="name" value="Scroll for 3x3 Gloves for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 70%\r\nDEX: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040851">
+		<string name="name" value="Scroll for 3x3 Gloves for LUK 70%"/>
+		<string name="desc" value="Improves Luck on 3x3 gloves."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 70%\r\nLUK: +4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040900">
+		<string name="name" value="Scroll for Shield for DEF 100%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040901">
+		<string name="name" value="Scroll for Shield for DEF 60%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040902">
+		<string name="name" value="Scroll for Shield for DEF 10%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nMax HP: +50\r\nWeapon Defense: +50\r\nMagic Defense: +30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040903">
+		<string name="name" value="Scroll for Shield for DEF 100%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMax HP: +50\r\nWeapon Defense: +30\r\nMagic Defense: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2040904">
+		<string name="name" value="Dark scroll for Shield for DEF 70%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040905">
+		<string name="name" value="Dark scroll for Shield for DEF 30%"/>
+		<string name="desc" value="Improves Defense on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMax HP: +50\r\nWeapon Defense: +50\r\nMagic Defense: +30\r\n#"/>
+	</imgdir>
+    <imgdir name="2040906">
+		<string name="name" value="Dark scroll for Shield for LUK 70%"/>
+		<string name="desc" value="Improves Luck on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nLUK: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040907">
+		<string name="name" value="Dark scroll for Shield for LUK 30%"/>
+		<string name="desc" value="Improves Luck on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nLUK: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040908">
+		<string name="name" value="Dark scroll for Shield for HP 70%"/>
+		<string name="desc" value="Improves Max HP on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nMax HP +60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040909">
+		<string name="name" value="Dark scroll for Shield for HP 30%"/>
+		<string name="desc" value="Improves Max HP on shields."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nMax HP +120\r\n#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210085">
+		<string name="name" value="Strange Spirit Book"/>
+		<string name="desc" value="Become an Oda Soldier for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2210086">
+		<string name="name" value="Strange Spirit Book"/>
+		<string name="desc" value="Become an Oda Scout for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2290725">
+		<string name="name" value="[Mastery Book] Shinsoku 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cShinsoku# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290726">
+		<string name="name" value="[Mastery Book] Shinsoku 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cShinsoku# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290727">
+		<string name="name" value="[Mastery Book] Hitokiri Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cHitokiri Strike# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290728">
+		<string name="name" value="[Mastery Book] Hitokiri Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cHitokiri Strike# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290729">
+		<string name="name" value="[Mastery Book] Iron Skin 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cIron Skin# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290730">
+		<string name="name" value="[Mastery Book] Jinsoku 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cJinsoku# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290731">
+		<string name="name" value="[Mastery Book] Jinsoku 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cJinsoku# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290732">
+		<string name="name" value="[Mastery Book] Cleaver 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cCleaver# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290733">
+		<string name="name" value="[Mastery Book] Cleaver 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cCleaver# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290734">
+		<string name="name" value="[Mastery Book] Falcon Dive 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cFalcon Dive# to 20.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290735">
+		<string name="name" value="[Special Mastery Book] Shinsoku 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cShinsoku# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290736">
+		<string name="name" value="[Special Mastery Book] Hitokiri Strike 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHitokiri Strike# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290737">
+		<string name="name" value="[Special Mastery Book] Jinsoku 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cJinsoku# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290738">
+		<string name="name" value="[Special Mastery Book] Cleaver 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cCleaver# to 30.\nJob: Hayato (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290787">
+		<string name="name" value="[Mastery Book] Vanquisher's Charm 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cVanquisher's Charm# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290788">
+		<string name="name" value="[Mastery Book] Vanquisher's Charm 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cVanquisher's Charm# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290789">
+		<string name="name" value="[Mastery Book] Orochi 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cOrochi# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290790">
+		<string name="name" value="[Mastery Book] Orochi 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cOrochi# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+</imgdir>

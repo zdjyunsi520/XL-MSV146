@@ -1,0 +1,72 @@
+<imgdir name="Consume.img">
+    <imgdir name="2872038">
+		<string name="name" value="史莱姆宠物"/>
+	</imgdir>
+    <imgdir name="2872039">
+		<string name="name" value="丝带猪宠物"/>
+	</imgdir>
+    <imgdir name="2872040">
+		<string name="name" value="僵尸蘑菇宠物"/>
+	</imgdir>
+    <imgdir name="2872041">
+		<string name="name" value="星之小精灵宠物"/>
+	</imgdir>
+    <imgdir name="2872042">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2872043">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2872044">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2872045">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2872046">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2872047">
+		<string name="name" value="金猪宠物"/>
+	</imgdir>
+    <imgdir name="2900000">
+		<string name="name" value="30%生命值恢复"/>
+		<string name="desc" value="恢复30%生命值，如果最大生命值超过99,999，则限制为30,000生命值。"/>
+	</imgdir>
+    <imgdir name="2900001">
+		<string name="name" value="15%团队生命值恢复"/>
+		<string name="desc" value="恢复15%生命值，如果最大生命值超过99,999，则限制为15,000生命值。"/>
+	</imgdir>
+    <imgdir name="2900002">
+		<string name="name" value="30%魔法值恢复"/>
+		<string name="desc" value="恢复30%魔法值，如果最大魔法值超过99,999，则限制为30,000魔法值。"/>
+	</imgdir>
+    <imgdir name="2900003">
+		<string name="name" value="15%团队魔法值恢复"/>
+		<string name="desc" value="恢复15%魔法值，如果最大魔法值超过99,999，则限制为15,000魔法值。"/>
+	</imgdir>
+    <imgdir name="2900004">
+		<string name="name" value="30%生命值/魔法值恢复"/>
+		<string name="desc" value="恢复30%生命值和魔法值，如果最大生命值和魔法值超过99,999，则限制为30,000生命值和魔法值。"/>
+	</imgdir>
+    <imgdir name="2900005">
+		<string name="name" value="15%团队生命值/魔法值恢复"/>
+		<string name="desc" value="恢复15%生命值和魔法值，如果最大生命值和魔法值超过99,999，则限制为15,000生命值和魔法值。"/>
+	</imgdir>
+    <imgdir name="2900006">
+		<string name="name" value="力量"/>
+		<string name="desc" value="在一定时间内增加攻击力。"/>
+	</imgdir>
+    <imgdir name="2900007">
+		<string name="name" value="团队力量"/>
+		<string name="desc" value="在一定时间内增加攻击力。"/>
+	</imgdir>
+    <imgdir name="2900008">
+		<string name="name" value="护盾"/>
+		<string name="desc" value="在一定时间内增加防御力。"/>
+	</imgdir>
+    <imgdir name="2900009">
+		<string name="name" value="团队护盾"/>
+		<string name="desc" value="在一定时间内增加防御力。"/>
+	</imgdir>
+</imgdir>

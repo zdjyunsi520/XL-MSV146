@@ -1,0 +1,5 @@
+<imgdir name="42120003">
+        <string name="name" value="Monkey Spirits" />
+        <string name="desc" value="When you attack, a monkey might fall from the sky and hurl a massive jug of spirits at the enemy. The summoned monkey grants you extra EXP." />
+        <string name="h" value="Monkey Summon Chance: #u% when attacking, Max Enemies Hit: #mobCount, Damage: #damage, Number of Attacks: #attackCount. Extra EXP Chance: #prop%, EXP: +#expR%, has chance to drop unidentified item" />
+    </imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1902016"><string name="name" value="Werewolf"/></imgdir>
+    <imgdir name="1902017"><string name="name" value="Werewolf"/></imgdir>
+    <imgdir name="1902018"><string name="name" value="Ryko"/></imgdir>
+    <imgdir name="1902020"><string name="name" value="Hot Air Balloon"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1902021"><string name="name" value="Robot"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1902036"><string name="name" value="Maple Racing Car"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1902038"><string name="name" value="Pink Scooter"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1902039"><string name="name" value="Black Scooter"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1902040"><string name="name" value="Stage 1 Dragon"/></imgdir>
+    <imgdir name="1902041"><string name="name" value="Stage 2 Dragon"/></imgdir>
+    <imgdir name="1902042"><string name="name" value="Stage 3 Dragon"/></imgdir>
+    <imgdir name="1902047"><string name="name" value="Helicopter"/><string name="desc" value="You must be over level 70 in order to use this item and have an in-game mount to use this mount cover."/></imgdir>
+    <imgdir name="1902048"><string name="name" value="Rex&apos;s Hyena"/></imgdir>
+    <imgdir name="1902049"><string name="name" value="Napoleon Mount"/></imgdir>
+    <imgdir name="1902050"><string name="name" value="Low Rider "/></imgdir>
+    <imgdir name="1902061"><string name="name" value="Rabbit Mount"/></imgdir>
+    <imgdir name="1902063"><string name="name" value="The Decapatruck"/></imgdir>
+    <imgdir name="1912000"><string name="name" value="Saddle"/></imgdir>
+    <imgdir name="1912003"><string name="name" value="Frog Cover"/><string name="desc" value="Must have the in-game mount #cFrog# to use, and #cResistance# cannot use it."/></imgdir>
+    <imgdir name="1912004"><string name="name" value="Ostrich Cover"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="13101006">
+        <string name="name" value="风行术" />
+        <string name="desc" value="借助风的力量暂时隐身！在风行术状态下攻击会造成额外伤害并解除隐身。" />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Speed: -#y.\nDamage: #damage%" />
+        <string name="pdesc" value="借助风的力量暂时隐身！在风行术状态下攻击会造成额外伤害并解除隐身。" />
+        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Speed: -#y\nDamage: #damage%, Cooldown: #cooltime sec" />
+    </imgdir>

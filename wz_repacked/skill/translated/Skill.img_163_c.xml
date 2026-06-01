@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="40029000"><string name="name" value="猪的弱点"/><string name="desc" value="[最高等级：1]\n对猪造成150%的伤害。"/></imgdir>
+    <imgdir name="40029001"><string name="name" value="树桩的弱点"/><string name="desc" value="[最高等级：1]\n对树桩造成150%的伤害。"/></imgdir>
+    <imgdir name="40029002"><string name="name" value="史莱姆的弱点"/><string name="desc" value="[最高等级：1]\n对史莱姆造成150%的伤害。"/></imgdir>
+    <imgdir name="40021251"><string name="name" value="链接管理"/><string name="desc" value="可以管理你的链接技能，与其他角色分享，或选择在该角色上使用哪些技能。 "/><string name="h" value="管理你的链接技能"/></imgdir>
+    <imgdir name="42001000"><string name="name" value="式神缠身"/><string name="desc" value="召唤可怕的幽灵攻击前方的敌人。不消耗魔力。"/><string name="h" value="伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount "/></imgdir>
+    <imgdir name="42001001"><string name="name" value="土夜叉"/><string name="desc" value="召唤土精灵将敌人吸引过来。"/><string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount"/></imgdir>
+    <imgdir name="42001002"><string name="name" value="以太脉冲"/><string name="desc" value="按住技能键同时按方向键可以向该方向瞬移。瞬移路径上的敌人会受到伤害并有几率被眩晕。不按方向键直接按技能键会瞬移到随机位置。"/><string name="h" value="普通瞬移：魔力消耗：#epCon，水平移动距离：#x，垂直移动距离：#y，最大攻击数：#mobCount，伤害：#damage%。#prop%的几率眩晕#time秒。\n指令：[#c技能键+方向键#]\n随机瞬移：魔力消耗#5\n[指令：#c技能键#]"/></imgdir>
+    <imgdir name="4210"><string name="bookName" value="阴阳师"/></imgdir>
+    <imgdir name="42101000"><string name="name" value="岩夜叉"/><string name="desc" value="召唤土精灵将敌人推向你的方向。"/><string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount"/></imgdir>
+    <imgdir name="42101001"><string name="name" value="式神符咒"/><string name="desc" value="从敌人身旁掠过，留下一张符咒。符咒会吸引附近的敌人，使其减速并降低命中率。符咒在5秒后或使用式神缠身时爆炸。"/><string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount。召唤持续时间：#time秒，敌人速度：#x，敌人命中率：-#y，爆炸伤害：#selfDestruction% \n冷却时间#cooltime秒"/></imgdir>
+    <imgdir name="42101003"><string name="name" value="华丽的孔雀"/><string name="desc" value="消耗MP暂时将扇的攻击速度提升2级。"/><string name="h" value="魔力消耗：#epCon，攻击速度提升：#time秒"/></imgdir>
+    <imgdir name="42101004"><string name="name" value="灼热的式神缠身"/><string name="desc" value="引导火神加具土神之力，为式神缠身注入火焰能量。"/><string name="h" value="主动效果：魔力消耗：#epCon，持续时间：#time秒。式神缠身在3次攻击中有#prop%的几率造成#dot%伤害，持续#dotTime秒。\n被动效果：式神缠身伤害：+#damR%"/></imgdir>
+    <imgdir name="42101005"><string name="name" value="云之咒缚"/><string name="desc" value="召唤云朵笼罩敌人。云中的敌人将持续受到伤害。"/><string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount。\n召唤持续时间：#time秒，云朵伤害：每#dotInterval秒造成#dot%伤害，持续#dotTime秒。\n冷却时间#cooltime秒"/></imgdir>
+    <imgdir name="42100007"><string name="name" value="灵魂炸弹"/><string name="desc" value="当目标死亡时，其灵魂爆炸并对附近的敌人造成伤害。"/><string name="h" value="最大攻击数：#mobCount，伤害：#damage%"/></imgdir>
+    <imgdir name="42101020"><string name="name" value="白狐的礼物"/><string name="desc" value="恢复阴阳师的HP。"/><string name="h" value="恢复最大HP的#hp%"/></imgdir>
+    <imgdir name="42101021"><string name="name" value="狐火"/><string name="desc" value="白狐召唤数团狐火。每团狐火可以抵消敌人的魔法攻击或将伤害反射回去。"/><string name="h" value="召唤狐火数：#y，持续时间：#time秒，魔法无效几率：#prop%，伤害反射：#x%。每次攻击消耗1团狐火。"/></imgdir>
+    <imgdir name="42101022"><string name="name" value="白狐的祝福"/><string name="desc" value="白狐施展狐族古老的祝福，提升魔法攻击力和防御力。"/><string name="h" value="持续时间：#time秒，魔法防御：#indieMdd，物理防御：#indiePdd，魔法攻击力：扇类攻击力的#x%下限"/></imgdir>
+    <imgdir name="42101023"><string name="name" value="无形之息"/><string name="desc" value="只有狐灵才知道的秘传之力。可以无效化敌人的击退攻击，并无视部分敌人防御。"/><string name="h" value="持续时间：#time，无视敌人防御：#x%，击退抵抗几率：#prop%"/></imgdir>
+    <imgdir name="42111000"><string name="name" value="天狗突击"/><string name="desc" value="召唤天狗攻击两侧的敌人。"/><string name="h" value="魔力消耗：#epCon，伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount，天狗以雷攻击时必定暴击"/></imgdir>
+    <imgdir name="42111001"><string name="name" value="灵兽围栏"/><string name="desc" value="借用狐灵之力将敌人聚集到一处。"/><string name="h" value="魔力消耗：#epCon，最大攻击数：#mobCount，伤害：#damage%，攻击次数：#attackCount"/></imgdir>
+</imgdir>

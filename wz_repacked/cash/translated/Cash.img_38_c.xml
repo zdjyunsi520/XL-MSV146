@@ -1,0 +1,81 @@
+<imgdir name="Cash.img">
+    <imgdir name="5450006">
+		<string name="name" value="[1天]喵喵旅行商人"/>
+		<string name="desc" value="随时随地访问#c杂货店#！可以购买药水、补充飞镖和子弹。\n1天内#c无限使用#。"/>
+	</imgdir>
+    <imgdir name="5450007">
+		<string name="name" value="[7天]喵喵旅行商人"/>
+		<string name="desc" value="随时随地访问#c杂货店#！可以购买药水、补充飞镖和子弹。\n7天内#c无限使用#。"/>
+	</imgdir>
+    <imgdir name="5450008">
+		<string name="name" value="[1天]王先生的仓库马车"/>
+		<string name="desc" value="随时随地访问#c仓库管理员#！不用离开地图就能存放珍贵战利品。\n1天内无限使用。"/>
+	</imgdir>
+    <imgdir name="5450009">
+		<string name="name" value="[7天]王先生的仓库马车"/>
+		<string name="desc" value="随时随地访问#c仓库管理员#！不用离开地图就能存放珍贵战利品。\n7天内无限使用。"/>
+	</imgdir>
+    <imgdir name="5450010">
+		<string name="name" value="尼禄的完美购物宫殿"/>
+		<string name="desc" value="使用此道具可以进入一个非常特别的杂货店购物。可以购买尼禄的限定特殊道具和HP或MP恢复药水，还能补充飞镖和子弹。\n尼禄的限定特殊道具包括#c大幅折扣的强力万能药、大金币椅子、技能书融合器、高级觉醒印章和特级觉醒印章#。但是，#c特殊道具数量有限#，某些区域不能使用猫咪商人尼禄。\n每次使用的限定道具：#c强力万能药x2700、大金币椅子x1、技能书融合器x1、高级觉醒印章x1、特级觉醒印章x1#"/>
+	</imgdir>
+    <imgdir name="5450011">
+		<string name="name" value="商店目录"/>
+		<string name="desc" value="随身携带杂货店！使用商店目录可以远程购买HP &amp; MP药水、飞镖，以及补充子弹。部分地图限制使用。"/>
+	</imgdir>
+    <imgdir name="5450012">
+		<string name="name" value="喵喵商人"/>
+		<string name="desc" value="随时随地访问杂货店。可以购买HP &amp; MP药水、飞镖，以及补充子弹。部分地图限制使用。\n不能转移到商城背包。"/>
+	</imgdir>
+    <imgdir name="5450013">
+		<string name="name" value="[3天]喵喵旅行商人"/>
+		<string name="desc" value="随时随地访问#c杂货店#！可以购买药水、补充飞镖和子弹。\n3天内#c无限使用#。"/>
+	</imgdir>
+    <imgdir name="5451000">
+		<string name="name" value="远程转蛋券"/>
+		<string name="desc" value="双击此券可打开并使用伟大的嘎查皮罗特窗口。"/>
+	</imgdir>
+    <imgdir name="5460000">
+		<string name="name" value="宠物零食"/>
+		<string name="desc" value="宠物零食是同时操控多只宠物的秘密方法。"/>
+	</imgdir>
+    <imgdir name="5470000">
+		<string name="name" value="商店遥控器"/>
+		<string name="desc" value="可以在任何地方操控雇佣商店，只要商店在同一频道。"/>
+	</imgdir>
+    <imgdir name="5490000">
+		<string name="name" value="黄金万能钥匙"/>
+		<string name="desc" value="用这把万能钥匙打开黄金转蛋盒，获得稀有道具吧！"/>
+	</imgdir>
+    <imgdir name="5490001">
+		<string name="name" value="白银万能钥匙"/>
+		<string name="desc" value="用这把万能钥匙打开白银转蛋盒，获得稀有道具吧！"/>
+	</imgdir>
+    <imgdir name="5490002">
+		<string name="name" value="高级黄金万能钥匙"/>
+		<string name="desc" value="用这把高级万能钥匙打开高级黄金盒，获得稀有道具吧！"/>
+	</imgdir>
+    <imgdir name="5490003">
+		<string name="name" value="高级白银万能钥匙"/>
+		<string name="desc" value="用这把高级万能钥匙打开高级白银盒，获得稀有道具吧！"/>
+	</imgdir>
+    <imgdir name="5490008">
+		<string name="name" value="转蛋卷轴"/>
+	</imgdir>
+    <imgdir name="5490011">
+		<string name="name" value="冒险生活金钥匙"/>
+		<string name="desc" value="使用这把钥匙打开怪物身上掉落的冒险生活金锁。"/>
+	</imgdir>
+    <imgdir name="5490012">
+		<string name="name" value="冒险生活银钥匙"/>
+		<string name="desc" value="使用这把钥匙打开怪物身上掉落的冒险生活银锁。"/>
+	</imgdir>
+    <imgdir name="5500000">
+		<string name="name" value="沙漏"/>
+		<string name="desc" value="拖放到有有效期的已装备道具上，可将有效期延长#c1天#。#c不能用于商城道具，且不能超过当前日期365天。#"/>
+	</imgdir>
+    <imgdir name="5500001">
+		<string name="name" value="[7天]沙漏"/>
+		<string name="desc" value="拖放到有有效期的已装备道具上，可将有效期延长#c7天#。#c不能用于商城道具，且不能超过当前日期365天。#"/>
+	</imgdir>
+</imgdir>

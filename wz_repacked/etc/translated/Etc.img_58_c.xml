@@ -1,0 +1,80 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001523">
+			<string name="name" value="7周年枫叶"/>
+			<string name="desc" value="美丽的红色枫叶。#c仅在7周年活动期间可用#"/>
+		</imgdir>
+    <imgdir name="4001525">
+			<string name="name" value="7周年枫叶"/>
+		</imgdir>
+    <imgdir name="4001526">
+			<string name="name" value="7周年硬币"/>
+		</imgdir>
+    <imgdir name="4001527">
+			<string name="name" value="美德之石"/>
+			<string name="desc" value="蕴含美德力量之石。持有此石时，每次击中怪物都会填充一个计量槽。计量槽满时，可使用基础攻击键施放美德祝福，持续1小时，可与其他增益叠加。\r\n#c美德祝福生效期间，计量槽将不再填充。达到31级和71级时，美德祝福的强度也会增加#"/>
+		</imgdir>
+    <imgdir name="4001528">
+			<string name="name" value="监狱钥匙"/>
+			<string name="desc" value="可以打开空中监狱大门的钥匙"/>
+		</imgdir>
+    <imgdir name="4001529">
+			<string name="name" value="寒冰碎片"/>
+			<string name="desc" value="冰冷至极的冰块，触碰它可能会冻伤手指"/>
+		</imgdir>
+    <imgdir name="4001530">
+			<string name="name" value="霍布战士徽章"/>
+			<string name="desc" value="霍布战士携带的证明其勇气的徽章"/>
+		</imgdir>
+    <imgdir name="4001531">
+			<string name="name" value="黏糊糊的液体"/>
+			<string name="desc" value="黏糊糊的绿色液体。可在'第一次在一起<大厅>'的拉凯丽丝处兑换特殊物品"/>
+		</imgdir>
+    <imgdir name="4001532">
+			<string name="name" value="时钟发条"/>
+			<string name="desc" value="微小的时钟发条"/>
+		</imgdir>
+    <imgdir name="4001533">
+			<string name="name" value="披风碎片"/>
+			<string name="desc" value="海军船长披风的一块碎片"/>
+		</imgdir>
+    <imgdir name="4001534">
+			<string name="name" value="狱卒钥匙"/>
+			<string name="desc" value="骷髅形状的钥匙。在隐藏塔入口的珍妮处可以兑换特殊物品"/>
+		</imgdir>
+    <imgdir name="4001535">
+			<string name="name" value="皮安努斯鳞片"/>
+			<string name="desc" value="皮安努斯掉落的鳞片。在岔路口：危险海域<大厅>的海豚处可以兑换特殊物品"/>
+		</imgdir>
+    <imgdir name="4001536">
+			<string name="name" value="灵魂MP"/>
+			<string name="desc" value="怪物灵魂"/>
+		</imgdir>
+    <imgdir name="4001545">
+			<string name="name" value="天空之鳞"/>
+			<string name="desc" value="居住在绯红天空区域的巨龙的鳞片。可在马塔达处兑换石板"/>
+		</imgdir>
+    <imgdir name="4001547">
+			<string name="name" value="海盗王的金币"/>
+			<string name="desc" value="属于海盗王的闪亮金币。在商店可卖10000金币"/>
+		</imgdir>
+    <imgdir name="4001548">
+			<string name="name" value="海盗王的特大金币"/>
+			<string name="desc" value="属于海盗王的闪亮金币。在商店可卖50000金币"/>
+		</imgdir>
+    <imgdir name="4001549">
+			<string name="name" value="海盗王的超级金币"/>
+			<string name="desc" value="属于海盗王的闪亮金币。在商店可卖100000金币"/>
+		</imgdir>
+    <imgdir name="4001550">
+			<string name="name" value="海盗王的惊人金币"/>
+			<string name="desc" value="属于海盗王的闪亮金币。在商店可卖1000000金币"/>
+		</imgdir>
+    <imgdir name="4001551">
+			<string name="name" value="海盗王的完美金币"/>
+			<string name="desc" value="属于海盗王的闪亮金币。在商店可卖10000000金币"/>
+		</imgdir>
+    <imgdir name="4001569">
+			<string name="name" value="高级秘密矿洞入场券"/>
+			<string name="desc" value="#c制作更新折扣#\n柯尔送给5-6级矿工的特别礼物。允许你通过#c阿尔蒂米尔#下层的传送门进入秘密矿洞。矿洞有#c10分钟的时间限制#。\n每天可以进入三次"/>
+		</imgdir>
+</imgdir>

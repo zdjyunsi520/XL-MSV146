@@ -1,0 +1,5 @@
+<imgdir name="5091005">
+        <string name="name" value="Dash" />
+        <string name="desc" value="Tap left or right twice to temporarily boost Speed and Jump. [Dash activation: -&gt;-&gt; or &lt;-&lt;- with the arrow keys.] " />
+        <string name="h" value="MP Cost: #mpCon, Movement Speed: +#x, Jump: +#y, Duration: #time sec" />
+    </imgdir>

@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046800">
+		<string name="name" value="8周年高级饰品强化卷轴 智力 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n智力：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046801">
+		<string name="name" value="8周年高级饰品强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046802">
+		<string name="name" value="8周年高级饰品强化卷轴 幸运 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n幸运：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046817">
+		<string name="name" value="饰品强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046818">
+		<string name="name" value="饰品强化卷轴 魔法攻击 30%"/>
+		<string name="desc" value="强化饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n魔法攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046819">
+		<string name="name" value="饰品强化卷轴 攻击 60%"/>
+		<string name="desc" value="强化饰品的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n武器攻击：+1\r\n失败时100%破坏物品#"/>
+	</imgdir>
+    <imgdir name="2046820">
+		<string name="name" value="饰品强化卷轴 魔法攻击 60%"/>
+		<string name="desc" value="强化饰品的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n魔法攻击：+1\r\n失败时100%破坏物品#"/>
+	</imgdir>
+    <imgdir name="2046829">
+		<string name="name" value="饰品强化卷轴 攻击 100%"/>
+		<string name="desc" value="强化饰品武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n武器攻击：+2至+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046830">
+		<string name="name" value="饰品强化卷轴 魔法攻击 100%"/>
+		<string name="desc" value="强化饰品魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n魔法攻击：+2至+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2046900">
+		<string name="name" value="8周年高级单手武器强化卷轴 魔法攻击 10%"/>
+		<string name="desc" value="强化冒险岛紫水晶和伟大冒险岛紫水晶单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n失败时破坏物品概率：100%\r\n魔法攻击：+9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046901">
+		<string name="name" value="伟大单手武器强化卷轴 攻击 80%"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n武器攻击：+2\r\n#"/>
+		<string name="desc" value="强化伟大单手武器的武器攻击。"/>
+	</imgdir>
+    <imgdir name="2046902">
+		<string name="name" value="伟大单手武器强化卷轴 攻击 40%"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n武器攻击：+4\r\n#"/>
+		<string name="desc" value="强化伟大单手武器的武器攻击。"/>
+	</imgdir>
+    <imgdir name="2046903">
+		<string name="name" value="伟大单手武器强化卷轴 魔法攻击 80%"/>
+		<string name="autodesc" value="\r\n#c成功率：80%\r\n魔法攻击：+2\r\n#"/>
+		<string name="desc" value="强化伟大单手武器的魔法攻击。"/>
+	</imgdir>
+    <imgdir name="2046904">
+		<string name="name" value="伟大单手武器强化卷轴 魔法攻击 40%"/>
+		<string name="autodesc" value="\r\n#c成功率：40%\r\n魔法攻击：+4\r\n#"/>
+		<string name="desc" value="强化伟大单手武器的魔法攻击。"/>
+	</imgdir>
+    <imgdir name="2046905">
+		<string name="name" value="粉色花朵单手武器强化卷轴 攻击 20%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046906">
+		<string name="name" value="粉色花朵单手武器强化卷轴 魔法攻击 20%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n魔法攻击+5\r\n命中：+15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046925">
+		<string name="name" value="抵抗军单手武器强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化单手武器的武器攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n力量：+1\r\n敏捷：+1\r\n武器攻击+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046926">
+		<string name="name" value="抵抗军单手武器强化卷轴 魔法攻击 70%"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n智力：+1\r\n幸运：+1\r\n魔法攻击：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046927">
+		<string name="name" value="单手武器强化卷轴 攻击 20%"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n武器攻击+5\r\n命中：+15\r\n#"/>
+		<string name="desc" value="强化单手武器的攻击。"/>
+	</imgdir>
+    <imgdir name="2046928">
+		<string name="name" value="单手武器强化卷轴 魔法攻击 20%"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+3\r\n智力：+3\r\n敏捷：+3\r\n幸运：+3\r\n魔法攻击+5\r\n魔法防御：+10\r\n命中：+15\r\n#"/>
+		<string name="desc" value="强化单手武器的魔法攻击。"/>
+	</imgdir>
+</imgdir>

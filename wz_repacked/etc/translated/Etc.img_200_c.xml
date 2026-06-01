@@ -1,0 +1,102 @@
+<imgdir name="Etc.img">
+    <imgdir name="4250402">
+			<string name="name" value="高级紫水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+速度+5"/>
+		</imgdir>
+    <imgdir name="4250500">
+			<string name="name" value="初级海蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+跳跃+1"/>
+		</imgdir>
+    <imgdir name="4250501">
+			<string name="name" value="中级海蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+跳跃+2"/>
+		</imgdir>
+    <imgdir name="4250502">
+			<string name="name" value="高级海蓝宝石"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+跳跃+3"/>
+		</imgdir>
+    <imgdir name="4250600">
+			<string name="name" value="初级黄玉"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大生命值+10"/>
+		</imgdir>
+    <imgdir name="4250601">
+			<string name="name" value="中级黄玉"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大生命值+20"/>
+		</imgdir>
+    <imgdir name="4250602">
+			<string name="name" value="高级黄玉"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大生命值+30"/>
+		</imgdir>
+    <imgdir name="4250700">
+			<string name="name" value="初级翡翠"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大魔法值+10"/>
+		</imgdir>
+    <imgdir name="4250701">
+			<string name="name" value="中级翡翠"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大魔法值+20"/>
+		</imgdir>
+    <imgdir name="4250702">
+			<string name="name" value="高级翡翠"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+最大魔法值+30"/>
+		</imgdir>
+    <imgdir name="4250800">
+			<string name="name" value="初级力量水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+力量+2"/>
+		</imgdir>
+    <imgdir name="4250801">
+			<string name="name" value="中级力量水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+力量+3"/>
+		</imgdir>
+    <imgdir name="4250802">
+			<string name="name" value="高级力量水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+力量+5"/>
+		</imgdir>
+    <imgdir name="4250900">
+			<string name="name" value="初级智慧水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+智力+2"/>
+		</imgdir>
+    <imgdir name="4250901">
+			<string name="name" value="中级智慧水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+智力+3"/>
+		</imgdir>
+    <imgdir name="4250902">
+			<string name="name" value="高级智慧水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+智力+5"/>
+		</imgdir>
+    <imgdir name="4251000">
+			<string name="name" value="初级幸运水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+幸运+2"/>
+		</imgdir>
+    <imgdir name="4251001">
+			<string name="name" value="中级幸运水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+幸运+3"/>
+		</imgdir>
+    <imgdir name="4251002">
+			<string name="name" value="高级幸运水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+幸运+5"/>
+		</imgdir>
+    <imgdir name="4251100">
+			<string name="name" value="初级敏捷水晶"/>
+			<string name="desc" value="主要用于物品制作的宝石。
+敏捷+2"/>
+		</imgdir>
+</imgdir>

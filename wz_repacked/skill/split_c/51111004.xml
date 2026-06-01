@@ -1,0 +1,5 @@
+<imgdir name="51111004">
+        <string name="name" value="不屈精神" />
+        <string name="desc" value="在一定时间内大幅提升防御力、异常状态抗性和所有属性抗性。" />
+        <string name="h" value="MP Cost: #mpCon, DEF +#x%, Abnormal Status Resistance +#y%, All Elemental Resistance: +#z%, Duration: #time sec" />
+    </imgdir>

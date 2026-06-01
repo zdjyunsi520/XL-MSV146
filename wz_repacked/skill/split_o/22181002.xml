@@ -1,0 +1,7 @@
+<imgdir name="22181002">
+        <string name="name" value="Dark Fog" />
+        <string name="desc" value="Creates a dark, chilly fog that attacks multiple enemies. Increases your critical rate." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Crit Rate: +#cr%, Cooldown: #cooltime sec" />
+        <string name="pdesc" value="Creates a dark, chilly fog that attacks multiple enemies. Increases your critical rate." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Crit Rate: +#cr%, Cooldown: #cooltime sec" />
+    </imgdir>

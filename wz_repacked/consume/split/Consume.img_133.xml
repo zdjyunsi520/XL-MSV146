@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046355">
+		<string name="name" value="Legends Scroll for Accessory INT 20%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046356">
+		<string name="name" value="Legends Scroll for Accessory DEX 20%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046357">
+		<string name="name" value="Legends Scroll for Accessory LUK 20%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046358">
+		<string name="name" value="Legends Dark Scroll for Accessory STR 40%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nMax HP: +20\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046359">
+		<string name="name" value="Legends Dark Scroll for Accessory INT 40%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nMax HP: +10\r\nMax MP: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2046360">
+		<string name="name" value="Legends Scroll for Accessory DEX 40%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046361">
+		<string name="name" value="Legends Dark Scroll for Accessory LUK 40%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046362">
+		<string name="name" value="Legends Scroll for Accessory STR 70%"/>
+		<string name="desc" value="Improves Strength on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nMax HP: +10\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046363">
+		<string name="name" value="Legends Scroll for Accessory INT 70%"/>
+		<string name="desc" value="Improves Intelligence on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nINT: +2\r\nMax HP: +5\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046364">
+		<string name="name" value="Legends Scroll for Accessory DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nDEX: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046365">
+		<string name="name" value="Legends Scroll for Accessory LUK 70%"/>
+		<string name="desc" value="Improves Luck on accessories."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nLUK: +2\r\nMax HP: +5\r\nMax MP: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046366">
+		<string name="name" value="Legend Maple Buckle Strength Scroll 25%"/>
+		<string name="desc" value="Improves Strength on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nSTR: +5\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046367">
+		<string name="name" value="Legend Maple Buckle Intelligence Scroll 25%"/>
+		<string name="desc" value="Improves Intelligence on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nINT: +5\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046368">
+		<string name="name" value="Legend Maple Buckle Dexterity Scroll 25%"/>
+		<string name="desc" value="Improves Dexterity on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nDEX: +5\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046369">
+		<string name="name" value="Legend Maple Buckle Luck Scroll 25%"/>
+		<string name="desc" value="Improves Luck on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 25%\r\nChance to destroy item on failure: 50%\r\nLUK: +5\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046370">
+		<string name="name" value="Legend Maple Buckle Strength Scroll 70%"/>
+		<string name="desc" value="Improves Strength on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 25%\r\nSTR: +3\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046371">
+		<string name="name" value="Legend Maple Buckle Intelligence Scroll 70%"/>
+		<string name="desc" value="Improves Intelligence on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 25%\r\nINT: +3\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046372">
+		<string name="name" value="Legend Maple Buckle Dexterity Scroll 70%"/>
+		<string name="desc" value="Improves Dexterity on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 25%\r\nDEX: +3\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046373">
+		<string name="name" value="Legend Maple Buckle Luck Scroll 70%"/>
+		<string name="desc" value="Improves Luck on Legend Maple Buckles."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 25%\r\nLUK: +3\r\nMax HP: +10\r\nMax MP: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046374">
+		<string name="name" value="Fragment of Distorted Time"/>
+		<string name="desc" value="A stone imbued with the strength of the Goddess of Time. Improves stats on the Dominator Pendant."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 100%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMax HP: +40\r\nMax MP: +40\r\nWeapon Attack: +3\r\nMagic Attack: +3\r\nWeapon Defense: +25\r\nMagic Defense: +25\r\nAccuracy: +30\r\nAvoidability: +30\r\nSpeed: +3\r\nJump: +2\r\n#"/>
+	</imgdir>
+</imgdir>

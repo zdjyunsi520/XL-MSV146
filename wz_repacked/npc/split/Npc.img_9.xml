@@ -1,0 +1,141 @@
+<imgdir name="Npc.img">
+    <imgdir name="1100003">
+		<string name="name" value="Kiriru"/>
+		<string name="func" value="Station Guide"/>
+		<string name="n0" value="Please let me know if you are heading toward Victoria Island."/>
+		<string name="n1" value="The current is favorable. We should be able to travel quickly."/>
+	</imgdir>
+    <imgdir name="1100004">
+		<string name="name" value="Kiru"/>
+		<string name="func" value="Station Guide"/>
+		<string name="n1" value="Enough paddling. I need some rest."/>
+		<string name="n0" value="Talk to me if you're heading toward Orbis."/>
+	</imgdir>
+    <imgdir name="1100005">
+		<string name="name" value="Kiruru"/>
+		<string name="func" value="Crewman"/>
+		<string name="n1" value="Please refrain from using skills on board."/>
+		<string name="n0" value="The current is favorable. We should be able to travel quickly."/>
+		<string name="d0" value="Please refrain from running around or using skills on board. We will not be held responsible if you fall off. Be careful now."/>
+		<string name="d1" value="Please refrain from running around or using skills on board. We will not be held responsible if you fall off. Be careful now."/>
+	</imgdir>
+    <imgdir name="1100006">
+		<string name="name" value="Kiru"/>
+		<string name="func" value="Crewman"/>
+		<string name="n1" value="Hey, watch out! The ship is shaking!"/>
+		<string name="d0" value="Don't move too much while we're flying. Don't use skills either. It's very dangerous."/>
+		<string name="d1" value="Don't move too much while we're flying. Don't use skills either. It's very dangerous."/>
+		<string name="n0" value="I am not going to be responsible if anyone fall."/>
+	</imgdir>
+    <imgdir name="1100007">
+		<string name="name" value="Kiriru"/>
+		<string name="func" value="Station Guide"/>
+		<string name="n0" value="Please let me know if you're heading to Ereve."/>
+		<string name="n1" value="I wonder how the Shinsoo is doing these days..."/>
+	</imgdir>
+    <imgdir name="1100008">
+		<string name="name" value="Kiru"/>
+		<string name="func" value="Station Guide"/>
+		<string name="n0" value="Talk to me if you're going to Ereve."/>
+		<string name="n1" value="Sigh... I need people on my crew."/>
+	</imgdir>
+    <imgdir name="1101000">
+		<string name="name" value="Cygnus"/>
+		<string name="func" value="Empress"/>
+		<string name="d0" value="Welcome to Ereve."/>
+		<string name="d1" value="Become a knight of courage and wisdom, and hopefully you can slay the Black Mage one day."/>
+	</imgdir>
+    <imgdir name="1101001">
+		<string name="name" value="Shinsoo"/>
+		<string name="d0" value="(Shinsoo's eyes are closed as if asleep.)"/>
+		<string name="d1" value="The will of the Empress is the will of the whole world."/>
+	</imgdir>
+    <imgdir name="1101002">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="Tactician"/>
+		<string name="n1" value="The budget for the Knights this quarter is..."/>
+		<string name="n0" value="No matter what, watch your opponent's movements carefully."/>
+		<string name="d0" value="Can you do what's required for the sake of the Empress?"/>
+		<string name="d1" value="If you are a Cygnus Knight, then you have duties you must perform."/>
+	</imgdir>
+    <imgdir name="1101003">
+		<string name="name" value="Mihile"/>
+		<string name="func" value="The Chief Knight of Light"/>
+		<string name="n0" value="My loyalty is to the Empress."/>
+		<string name="n1" value="Never let your guard down!"/>
+		<string name="d1" value="My loyalty to the Empress will never waver."/>
+		<string name="d0" value="Are you interested in becoming a Dawn Warrior, a Knight of Light?"/>
+	</imgdir>
+    <imgdir name="1101008">
+		<string name="func" value="Tutorial Guide"/>
+		<string name="name" value="Mimo "/>
+	</imgdir>
+    <imgdir name="1102001">
+		<string name="name" value="Kiriko"/>
+		<string name="func" value="Drill Hall Gatekeeper"/>
+		<string name="d0" value="Are you here to train?"/>
+		<string name="n0" value="Yikes! That clanging noise is sure to keep me up!"/>
+		<string name="n1" value="Hmm? Do you want to go inside?"/>
+		<string name="d1" value="Yikes! That clanging noise is sure to keep me up!"/>
+	</imgdir>
+    <imgdir name="1102004">
+		<string name="name" value="Kimu"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="n0" value="Welcome to Maple World!"/>
+		<string name="d0" value="Welcome! This is Ereve, a floating island ruled by Empress Cygnus. It's the safest place in all of Maple World! "/>
+		<string name="d1" value="Welcome! This is Ereve, a floating island ruled by Empress Cygnus. It's the safest place in all of Maple World! "/>
+		<string name="n1" value="I wonder if Shinsoo and the Empress are doing well."/>
+	</imgdir>
+    <imgdir name="1102005">
+		<string name="name" value="Kizan"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="n0" value="Do you want to become strong?"/>
+		<string name="n1" value="Knights are so awesome!"/>
+		<string name="d0" value="Training is the only way to become strong."/>
+		<string name="d1" value="The most basic attack, which doesn't consume any HP or MP, is the regular attack using the Ctrl button. "/>
+	</imgdir>
+    <imgdir name="1102006">
+		<string name="name" value="Kinu"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="d1" value="When you become proficient at using various skills, you will be a strong Knight."/>
+		<string name="n0" value="Oh my! I didn't know there was a skill like this..."/>
+		<string name="n1" value="I'd love to find some more books about skills."/>
+		<string name="d0" value="While normal attacks are necessary, skills are also essential."/>
+	</imgdir>
+    <imgdir name="1102007">
+		<string name="name" value="Kia"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="n1" value="What kind of chair should I make this time?"/>
+		<string name="n0" value="Heheh... Making stuff is so much fun!"/>
+		<string name="d0" value="Hunting monsters and picking up the stuff they drop is how you obtain new items."/>
+		<string name="d1" value="You can get items out of containers using your normal attack, but you'll get most of your items through hunting."/>
+	</imgdir>
+    <imgdir name="1102008">
+		<string name="name" value="Kisha"/>
+		<string name="func" value="Tutorial Guide"/>
+		<string name="n0" value="The Empress awaits..."/>
+		<string name="n1" value="The list of people who have chosen to become Knights is being verified."/>
+		<string name="d0" value="Cygnus Knights defend Maple World alongside Empress Cygnus. You're starting out as a Noblesse but can become a Knight through training!"/>
+		<string name="d1" value="Cygnus Knights defend Maple World alongside Empress Cygnus. You're starting out as a Noblesse but can become a Knight through training!"/>
+	</imgdir>
+    <imgdir name="1102009">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="Tactician"/>
+	</imgdir>
+    <imgdir name="1103000">
+		<string name="name" value="Dunamis"/>
+		<string name="func" value="Knight Sergeant"/>
+		<string name="n0" value="We must track down the Black Wings."/>
+		<string name="n1" value="Good... The young Knights are pulling their weight."/>
+		<string name="d0" value="We must always be alert in case the Black Wings are on the move."/>
+		<string name="d1" value="We must always be alert in case the Black Wings are on the move... But it can get boring after a while."/>
+	</imgdir>
+    <imgdir name="1103001">
+		<string name="name" value="Roca"/>
+		<string name="func" value="Not a Suspicious Person"/>
+		<string name="n0" value="I'm NOT a suspicious individual!"/>
+		<string name="n1" value="Hahaha... This should be enough to get me a promotion!"/>
+		<string name="d0" value="Yes, I am gathering information, but I swear, I am not doing this to harm anyone! This is for the good of Maple World... Wait, I shouldn't have said that out loud."/>
+		<string name="d1" value="I can always provide valuable information to Knights like you. Yes, as long as Neinheart allows me to do so."/>
+	</imgdir>
+</imgdir>

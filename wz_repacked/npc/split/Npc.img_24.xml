@@ -1,0 +1,74 @@
+<imgdir name="Npc.img">
+    <imgdir name="2120021">
+		<string name="name" value="Empty Cabinet"/>
+	</imgdir>
+    <imgdir name="2120022">
+		<string name="name" value="Empty Cabinet"/>
+	</imgdir>
+    <imgdir name="2120023">
+		<string name="name" value="Empty Cabinet"/>
+	</imgdir>
+    <imgdir name="2120024">
+		<string name="name" value="Empty Cabinet"/>
+	</imgdir>
+    <imgdir name="2121002">
+		<string name="name" value="Nameless Grave"/>
+	</imgdir>
+    <imgdir name="2121003">
+		<string name="name" value="Unvisited Grave"/>
+	</imgdir>
+    <imgdir name="2121004">
+		<string name="name" value="Somebody's Grave"/>
+	</imgdir>
+    <imgdir name="2121005">
+		<string name="name" value="Piano"/>
+		<string name="d0" value="It's a giant grand piano."/>
+		<string name="d1" value="It's a giant grand piano."/>
+	</imgdir>
+    <imgdir name="2121006">
+		<string name="name" value="Someone's Picture Frame 1"/>
+	</imgdir>
+    <imgdir name="2121007">
+		<string name="name" value="Someone's Picture Frame 2"/>
+	</imgdir>
+    <imgdir name="2121008">
+		<string name="name" value="Someone's Picture Frame 3"/>
+	</imgdir>
+    <imgdir name="2121009">
+		<string name="name" value="Someone's Picture Frame 4"/>
+	</imgdir>
+    <imgdir name="2121010">
+		<string name="name" value="Someone's Picture Frame 5"/>
+	</imgdir>
+    <imgdir name="2121011">
+		<string name="name" value="Sophelia's Picture Frame"/>
+	</imgdir>
+    <imgdir name="2121012">
+		<string name="name" value="A Girl Dressed In Her Halloween Outfit"/>
+	</imgdir>
+    <imgdir name="2121013">
+		<string name="name" value="Old Newspaper"/>
+		<string name="d0" value="It's an old newspaper."/>
+		<string name="d1" value="It's an old newspaper."/>
+	</imgdir>
+    <imgdir name="2121014">
+		<string name="name" value="Mysterious Graffiti"/>
+		<string name="d0" value="It's some Mysterious Graffiti."/>
+		<string name="d1" value="It's some Mysterious Graffiti."/>
+	</imgdir>
+    <imgdir name="2121015">
+		<string name="name" value="Old Brooch"/>
+		<string name="d0" value="It's a brooch covered with dust."/>
+		<string name="d1" value="It's a brooch covered with dust."/>
+	</imgdir>
+    <imgdir name="2121016">
+		<string name="name" value="Faceless Photo"/>
+		<string name="d0" value="It's a picture of a man whose face has been deliberately erased."/>
+		<string name="d1" value="It's a picture of a man whose face has been deliberately erased."/>
+	</imgdir>
+    <imgdir name="2121017">
+		<string name="name" value="Broken Carriage"/>
+		<string name="d0" value="You can barely recognize the remains of a carriage."/>
+		<string name="d1" value="You can barely recognize the remains of a carriage."/>
+	</imgdir>
+</imgdir>

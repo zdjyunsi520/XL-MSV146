@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000883">
+			<string name="name" value="Dark Flora Petal"/>
+			<string name="desc" value="A large, dark-hued petal from a Flora."/>
+		</imgdir>
+    <imgdir name="4000885">
+			<string name="name" value="Hornet Stinger"/>
+			<string name="desc" value="A sharp stinger from a Hornet."/>
+		</imgdir>
+    <imgdir name="4000887">
+			<string name="name" value="Poison Hornet Stinger"/>
+			<string name="desc" value="A poisonous stinger from a Hornet."/>
+		</imgdir>
+    <imgdir name="4000889">
+			<string name="name" value="General Hornet Stinger"/>
+			<string name="desc" value="A powerful stinger from a General Hornet."/>
+		</imgdir>
+    <imgdir name="4000891">
+			<string name="name" value="Decaying Branch"/>
+			<string name="desc" value="This branch is contaminated with all kinds of pollutants."/>
+		</imgdir>
+    <imgdir name="4000892">
+			<string name="name" value="Rotting Branch"/>
+			<string name="desc" value="This branch is rotted through from long exposure to pollutants."/>
+		</imgdir>
+    <imgdir name="4000893">
+			<string name="name" value="Contaminated Moss"/>
+			<string name="desc" value="This moss died from being exposed to contaminants."/>
+		</imgdir>
+    <imgdir name="4000894">
+			<string name="name" value="Shaky Pebble"/>
+			<string name="desc" value="This little piece of rock moves like it's alive."/>
+		</imgdir>
+    <imgdir name="4000895">
+			<string name="name" value="Typhon Feather"/>
+			<string name="desc" value="A feather dropped by a Typhon."/>
+		</imgdir>
+    <imgdir name="4000896">
+			<string name="name" value="Thunder Spear"/>
+			<string name="desc" value="This spear holds a thunderous surprise."/>
+		</imgdir>
+    <imgdir name="4000897">
+			<string name="name" value="Rainbow Drop"/>
+			<string name="desc" value="Leprechaun's candy. Comes in various sizes..."/>
+		</imgdir>
+    <imgdir name="4000898">
+			<string name="name" value="Fiery Jewel"/>
+			<string name="desc" value="A jewel favored by Firebrands. Smokin' hot."/>
+		</imgdir>
+    <imgdir name="4000899">
+			<string name="name" value="Elderwraith Bone"/>
+			<string name="desc" value="A scary looking ghost bone."/>
+		</imgdir>
+    <imgdir name="4000900">
+			<string name="name" value="Hunter's Mask"/>
+			<string name="desc" value="A half-face mask preferred by Windraiders."/>
+		</imgdir>
+    <imgdir name="4000901">
+			<string name="name" value="Old Dust"/>
+			<string name="desc" value="This is some seriously antique dust."/>
+		</imgdir>
+    <imgdir name="4000902">
+			<string name="name" value="Predator Helm"/>
+			<string name="desc" value="A fearsome helm that scares the living daylights out of anyone who sees it."/>
+		</imgdir>
+    <imgdir name="4000903">
+			<string name="name" value="Red Guard Helm"/>
+			<string name="desc" value="Helm worn by the order of the Scarlet Phoenix."/>
+		</imgdir>
+    <imgdir name="4000904">
+			<string name="name" value="Blue Guard Helm"/>
+			<string name="desc" value="Helm worn by the order of the Azure Ocelot."/>
+		</imgdir>
+    <imgdir name="4000905">
+			<string name="name" value="Master Red Nirg Helm"/>
+			<string name="desc" value="A helm worn by Master Red Nirg. It smells like another world."/>
+		</imgdir>
+    <imgdir name="4000990">
+			<string name="name" value="Alluring Antenna"/>
+			<string name="desc" value="The brilliant color at the end of the antenna will make any creature lose their mind."/>
+		</imgdir>
+</imgdir>

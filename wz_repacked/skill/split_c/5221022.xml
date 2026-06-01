@@ -1,0 +1,5 @@
+<imgdir name="5221022">
+        <string name="name" value="舰炮" />
+        <string name="desc" value="按住技能键可连续发射炮弹。炮弹在命中敌人或短时间后爆炸。#c发射时可以左右移动#。此技能不需要SP，学习#c速射技能#后即可使用。每第5发为超强力炮弹~" />
+        <string name="h" value="MP消耗 #mpCon，发射的炮弹命中敌人或0.9秒后爆炸，对最多#mobCount个敌人造成#damage%伤害#attackCount次。每第5发炮弹可瞬间击杀敌人或对BOSS造成#w%伤害#u次攻击，额外#100%暴击率，无视#ignoreMobpdpR%怪物防御" />
+    </imgdir>

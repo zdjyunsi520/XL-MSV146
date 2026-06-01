@@ -1,0 +1,125 @@
+<imgdir name="Npc.img">
+    <imgdir name="9073004">
+		<string name="name" value="Lora"/>
+		<string name="n0" value="What's wrong, Jaguar? Are you bored? Be patient. We have things to do."/>
+		<string name="n1" value="Why did that strange gate have to appear everywhere?"/>
+		<string name="d0" value="Don't touch my jaguar. Jaguars are very sensitive."/>
+		<string name="d1" value="Why did that strange gate have to appear everywhere..."/>
+	</imgdir>
+    <imgdir name="9073005">
+		<string name="name" value="Krag"/>
+		<string name="n0" value="It's very cold today...The sky is getting dark."/>
+		<string name="n1" value="They have to be watched closely. You can't take your eyes off them."/>
+		<string name="d0" value="Name's Krag. What do you want? "/>
+		<string name="d1" value="I just keep doing my job. I can't leave here."/>
+	</imgdir>
+    <imgdir name="9073006">
+		<string name="name" value="Wence"/>
+		<string name="func" value="Supply Merchant"/>
+		<string name="n0" value="I take care of the supplies for the Silent Crusade."/>
+		<string name="n1" value="You better not touch the supplies or else."/>
+	</imgdir>
+    <imgdir name="9073007">
+		<string name="name" value="Sodane"/>
+		<string name="n0" value="I wonder what my brother is up to these days."/>
+		<string name="n1" value="How do you like my yo-yo skill? Are you envious?"/>
+		<string name="d0" value="A rookie should move quickly. I am your senior, so show your respect. Hehe."/>
+		<string name="d1" value="When a dangerous and difficult task is done, there is a certain excitement. However, be careful. You never know what kind of danger you may face."/>
+	</imgdir>
+    <imgdir name="9073008">
+		<string name="name" value="Mystic Gate"/>
+		<string name="d0" value="You feel a strange energy."/>
+	</imgdir>
+    <imgdir name="9073009">
+		<string name="name" value="Supply Box"/>
+	</imgdir>
+    <imgdir name="9073010">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Who are you? I'm busy, so don't bother me."/>
+		<string name="d1" value="Don't you think that you should at least be able to protect yourself? You need to train harder."/>
+		<string name="n0" value="What...is this..."/>
+		<string name="n1" value="You must find out what Mystic Gates truly are. Something smells fishy."/>
+	</imgdir>
+    <imgdir name="9073011">
+		<string name="name" value="Bastille"/>
+		<string name="n0" value="We have a very important mission."/>
+		<string name="n1" value="No matter how hard and dangerous that mission is, we must face it!"/>
+		<string name="d0" value="Keep your head clear and make your body swift! Rapid execution is important, but what's more important than speed is being CAUTIOUS always!"/>
+		<string name="d1" value="No matter how hard and dangerous that mission is, we must face it!"/>
+	</imgdir>
+    <imgdir name="9073012">
+		<string name="name" value="Starling"/>
+		<string name="n0" value="What is going on?"/>
+		<string name="n1" value="I am merely doing my best on every mission as a Silent Crusader."/>
+		<string name="d0" value="Is our biggest fear becoming a reality?"/>
+		<string name="d1" value="Our mission is to maintain the peace in Maple World."/>
+	</imgdir>
+    <imgdir name="9073013">
+		<string name="name" value="Mystic Gate"/>
+	</imgdir>
+    <imgdir name="9073014">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Who are you? I'm busy, so don't bother me."/>
+		<string name="d1" value="Don't you think that you should at least be able to protect yourself? You need to train harder."/>
+		<string name="n0" value="What...is this..."/>
+		<string name="n1" value="You must find out what Mystic Gates truly are. Something smells fishy."/>
+	</imgdir>
+    <imgdir name="9073015">
+		<string name="name" value="Starling"/>
+		<string name="n0" value="What is going on?"/>
+		<string name="n1" value="I am merely doing my best on every mission as a Silent Crusader."/>
+		<string name="d0" value="Is our biggest fear becoming a reality?"/>
+		<string name="d1" value="Our mission is to maintain the peace in Maple World."/>
+	</imgdir>
+    <imgdir name="9073016">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="What are these pillars with a blue glow supposed to be?"/>
+		<string name="d1" value="You are very skilled. There will come a day when we will need your strength."/>
+		<string name="n0" value="Strange things keep happening. What is going on around here?"/>
+	</imgdir>
+    <imgdir name="9073017">
+		<string name="name" value="Lora"/>
+		<string name="n0" value="What's wrong, Jaguar? Are you bored? Be patient. We have things to do."/>
+		<string name="n1" value="Why did that strange gate have to appear everywhere?"/>
+		<string name="d0" value="Don't touch my jaguar. Jaguars are very sensitive."/>
+		<string name="d1" value="Why did that strange gate have to appear everywhere..."/>
+	</imgdir>
+    <imgdir name="9073018">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Be quiet...I need to concentrate."/>
+		<string name="d1" value="Ha. I saved your life, didn't I? You have to try harder if you want to become a true Silent Crusader."/>
+		<string name="n0" value="What...is this..."/>
+		<string name="n1" value="My gut feeling has never been wrong. Something suspicious is going on."/>
+	</imgdir>
+    <imgdir name="9073019">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Who are you? I'm busy, so don't bother me."/>
+		<string name="d1" value="There is a new dimensional schism in the Temple of Time...There should be an answer there."/>
+	</imgdir>
+    <imgdir name="9073020">
+		<string name="name" value="Starling"/>
+		<string name="d0" value="Is our biggest fear becoming a reality?"/>
+		<string name="d1" value="I must find out more about Arkarium in the Temple of Time. Even if he is dangerous, we must face him."/>
+	</imgdir>
+    <imgdir name="9073021">
+		<string name="name" value="Starling"/>
+		<string name="n0" value="What is going on?"/>
+		<string name="n1" value="I am merely doing my best on every mission as a Silent Crusader."/>
+		<string name="d0" value="Is our biggest fear becoming a reality?"/>
+		<string name="d1" value="Our mission is to maintain the peace in Maple World."/>
+	</imgdir>
+    <imgdir name="9073022">
+		<string name="name" value="Crow"/>
+		<string name="d0" value="Be quiet...I need to concentrate."/>
+		<string name="d1" value="Ha. I saved your life, didn't I? You have to try harder if you want to become a true Silent Crusader."/>
+		<string name="n0" value="What... is this..."/>
+		<string name="n1" value="My gut is never wrong. Something suspicious is going on."/>
+	</imgdir>
+    <imgdir name="9073023">
+		<string name="name" value="Lora"/>
+		<string name="n0" value="What's wrong, Jaguar? Are you bored? Be patient. We have things to do."/>
+		<string name="n1" value="Why did that strange gate have to appear everywhere?"/>
+		<string name="d0" value="Don't touch my jaguar. Jaguars are very sensitive."/>
+		<string name="d1" value="Why did that strange gate have to appear everywhere..."/>
+	</imgdir>
+</imgdir>

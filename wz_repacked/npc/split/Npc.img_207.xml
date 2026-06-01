@@ -1,0 +1,77 @@
+<imgdir name="Npc.img">
+    <imgdir name="9390407">
+		<string name="name" value="Vicky"/>
+		<string name="d0" value="(This oughtta fool everybody!)"/>
+		<string name="d1" value="(This oughtta fool everybody!)"/>
+	</imgdir>
+    <imgdir name="9390408">
+		<string name="name" value="Croak"/>
+		<string name="d0" value="I'll show you what I'm made of!"/>
+		<string name="d1" value="I'll show you what I'm made of!"/>
+	</imgdir>
+    <imgdir name="9390409">
+		<string name="name" value="Johnny"/>
+		<string name="d0" value="I will not lose!"/>
+		<string name="d1" value="I will not lose!"/>
+	</imgdir>
+    <imgdir name="9390410">
+		<string name="name" value="Big Headward"/>
+		<string name="d0" value="The comb keeps me strong. It's a powerful relic from my kingdom!"/>
+		<string name="d1" value="The comb keeps me strong. It's a powerful relic from my kingdom!"/>
+	</imgdir>
+    <imgdir name="9390411">
+		<string name="name" value="(Dummy)"/>
+	</imgdir>
+    <imgdir name="9390412">
+		<string name="name" value="(Dummy)"/>
+	</imgdir>
+    <imgdir name="9390413">
+		<string name="name" value="(Dummy)"/>
+	</imgdir>
+    <imgdir name="9390414">
+		<string name="name" value="(Dummy)"/>
+	</imgdir>
+    <imgdir name="9390415">
+		<string name="name" value="(Dummy)"/>
+	</imgdir>
+    <imgdir name="9390416">
+		<string name="name" value="Element Unknown"/>
+		<string name="d0" value="Get lost, if you value your life."/>
+		<string name="d1" value="Buzz off!"/>
+	</imgdir>
+    <imgdir name="9390417">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="9390418">
+		<string name="name" value="Alchem V "/>
+	</imgdir>
+    <imgdir name="9390419">
+		<string name="name" value="Alchem V "/>
+	</imgdir>
+    <imgdir name="9390420">
+		<string name="name" value="Resonate Willpower"/>
+	</imgdir>
+    <imgdir name="9390377">
+		<string name="name" value="Alchem V"/>
+	</imgdir>
+    <imgdir name="9390378">
+		<string name="name" value="Alchem V"/>
+	</imgdir>
+    <imgdir name="9390379">
+		<string name="name" value="Apex"/>
+	</imgdir>
+    <imgdir name="9390380">
+		<string name="name" value="Hillatrooper"/>
+		<string name="d0" value="......."/>
+		<string name="d1" value="......."/>
+	</imgdir>
+    <imgdir name="9390421">
+		<string name="name" value="Ani "/>
+	</imgdir>
+    <imgdir name="9390422">
+		<string name="name" value="Stalinko"/>
+		<string name="func" value="Tournament of Heroes Announcer"/>
+		<string name="d0" value="WOW! This tournament is a tornado of TORMENT. A deluge of DOMINATION!"/>
+		<string name="d1" value="WOW! This tournament is a tornado of TORMENT. A deluge of DOMINATION!"/>
+	</imgdir>
+</imgdir>

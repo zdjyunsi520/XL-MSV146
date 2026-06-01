@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="2600420">
+		<string name="name" value="守卫机器人L"/>
+	</imgdir>
+    <imgdir name="2600421">
+		<string name="name" value="安全系统"/>
+	</imgdir>
+    <imgdir name="2600422">
+		<string name="name" value="增强安全系统"/>
+	</imgdir>
+    <imgdir name="2600423">
+		<string name="name" value="AF机器人"/>
+	</imgdir>
+    <imgdir name="2600424">
+		<string name="name" value="损坏的DF机器人"/>
+	</imgdir>
+    <imgdir name="2600425">
+		<string name="name" value="毒气发生器"/>
+	</imgdir>
+    <imgdir name="2600500">
+		<string name="name" value="立方体史莱姆"/>
+	</imgdir>
+    <imgdir name="2600501">
+		<string name="name" value="梅格兰"/>
+	</imgdir>
+    <imgdir name="2600502">
+		<string name="name" value="鲁莫"/>
+	</imgdir>
+    <imgdir name="2600503">
+		<string name="name" value="三重鲁莫"/>
+	</imgdir>
+    <imgdir name="2600504">
+		<string name="name" value="鲁鲁莫"/>
+	</imgdir>
+    <imgdir name="2600505">
+		<string name="name" value="铁穆泰"/>
+	</imgdir>
+    <imgdir name="2600506">
+		<string name="name" value="强化铁穆泰"/>
+	</imgdir>
+    <imgdir name="2600507">
+		<string name="name" value="秘银穆泰"/>
+	</imgdir>
+    <imgdir name="2600508">
+		<string name="name" value="强化秘银穆泰"/>
+	</imgdir>
+    <imgdir name="2600509">
+		<string name="name" value="安全摄像头"/>
+	</imgdir>
+    <imgdir name="2600510">
+		<string name="name" value="霍蒙斯"/>
+	</imgdir>
+    <imgdir name="2600511">
+		<string name="name" value="霍蒙库卢斯"/>
+	</imgdir>
+    <imgdir name="2600512">
+		<string name="name" value="霍蒙斯卡洛"/>
+	</imgdir>
+    <imgdir name="2600513">
+		<string name="name" value="赛蒂"/>
+	</imgdir>
+</imgdir>

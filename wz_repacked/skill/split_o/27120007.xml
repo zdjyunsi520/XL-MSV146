@@ -1,0 +1,5 @@
+<imgdir name="27120007">
+        <string name="name" value="Magic Mastery" />
+        <string name="desc" value="Magic Mastery and Magic ATT increase." />
+        <string name="h" value="Mastery: +#mastery%, Magic ATT: +#x, Minimum Critical Damage +#criticaldamageMin%" />
+    </imgdir>

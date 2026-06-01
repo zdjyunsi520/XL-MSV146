@@ -1,0 +1,8 @@
+<imgdir name="22151001">
+        <string name="name" value="火息" />
+        <string name="desc" value="释放猛烈火焰攻击多个怪物并使其眩晕。" />
+        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time 秒" />
+        <string name="pdesc" value="释放猛烈火焰攻击多个怪物并使其眩晕。" />
+        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time 秒" />
+        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，眩晕概率：#hcProp%，持续时间：#hcTime 秒" />
+    </imgdir>

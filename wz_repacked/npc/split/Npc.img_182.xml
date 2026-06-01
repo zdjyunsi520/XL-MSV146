@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000179">
+		<string name="name" value="Radiant Hua"/>
+		<string name="func" value="Defender of Kin"/>
+		<string name="n0" value="Do you know about Kinship Rings?"/>
+		<string name="n1" value="There is no stronger promise than a promise made in blood."/>
+		<string name="d0" value="You a traveler? What do you need from me?"/>
+		<string name="d1" value="Heavenly blessings! May your road be safe."/>
+	</imgdir>
+    <imgdir name="9000180">
+		<string name="name" value="Red Mesoranger"/>
+		<string name="d0" value="Show everyone the power of Omegas!"/>
+		<string name="d1" value="Go Go Mesoranger!!"/>
+	</imgdir>
+    <imgdir name="9000181">
+		<string name="name" value="Blue Mesoranger"/>
+		<string name="d0" value="Protecting love and peace from those space villains!"/>
+		<string name="d1" value="Go Blue Mesoranger! "/>
+	</imgdir>
+    <imgdir name="9000182">
+		<string name="name" value="Green Mesoranger"/>
+		<string name="d0" value="We will protect Maple World!"/>
+		<string name="d1" value="Green Mesoranger! "/>
+	</imgdir>
+    <imgdir name="9000183">
+		<string name="name" value="Yellow Mesoranger"/>
+		<string name="d0" value="Go!!"/>
+		<string name="d1" value="For a beautiful Maple World!!"/>
+	</imgdir>
+    <imgdir name="9000184">
+		<string name="name" value="Pink Mesoranger"/>
+		<string name="d0" value="Go, Pink Ranger!!"/>
+		<string name="d1" value="Our strength into one!"/>
+	</imgdir>
+    <imgdir name="9000186">
+		<string name="name" value="Dr. Kim"/>
+		<string name="n0" value="Guess it's time to send out Mesodizer X."/>
+		<string name="n1" value="I trust you all!! Only you guys can save Maple World!!"/>
+	</imgdir>
+    <imgdir name="9000187">
+		<string name="name" value="10 Year Old Maple Tree"/>
+		<string name="d0" value="It's not like Maple Trees are forbidden from talking."/>
+		<string name="n0" value="I'm a 10 year old maple tree!"/>
+		<string name="n1" value="Your love is what kept me growing!"/>
+		<string name="n2" value="I'll give you something if you come visit me every day at the right times."/>
+	</imgdir>
+    <imgdir name="9000190">
+		<string name="name" value="Dr. Kim"/>
+		<string name="n0" value="Guess it's time to send out Mesodizer X."/>
+		<string name="n1" value="I trust you all! Only you can save Maple World!"/>
+	</imgdir>
+    <imgdir name="9000191">
+		<string name="name" value="GM Haku"/>
+	</imgdir>
+    <imgdir name="9000192">
+		<string name="name" value="GM Sori"/>
+	</imgdir>
+    <imgdir name="9000193">
+		<string name="name" value="GM Nori"/>
+	</imgdir>
+    <imgdir name="9000194">
+		<string name="name" value="GM Daejang"/>
+	</imgdir>
+    <imgdir name="9000196">
+		<string name="name" value="Mesoranger"/>
+		<string name="n0" value="You are the Hero that will save the Earth!"/>
+		<string name="n1" value="Come with us! Go, go Mesoranger!"/>
+		<string name="n2" value="You're amazing for playing the Maple Marble! "/>
+	</imgdir>
+    <imgdir name="9000199">
+		<string name="name" value="Ranch Owner"/>
+		<string name="n0" value="You've got to help me! Something's going on at my ranch!"/>
+		<string name="n1" value="I swear, I don't know if I'm raising wolves or sheep!"/>
+	</imgdir>
+    <imgdir name="9000200">
+		<string name="name" value="Ranch Owner"/>
+		<string name="n0" value="You've got to help me! Something's going on at my ranch!"/>
+		<string name="n1" value="I swear, I don't know if I'm raising wolves or sheep!"/>
+	</imgdir>
+    <imgdir name="9000201">
+		<string name="name" value="Gale"/>
+		<string name="func" value="RED Coin Shop"/>
+		<string name="s0" value="You don't find stock like mine anywhere else."/>
+		<string name="s1" value="I only accept RED Coins. But if you've got some, I can hook you up."/>
+	</imgdir>
+    <imgdir name="9000202">
+		<string name="name" value="Spark"/>
+		<string name="func" value="RED Coin Shop"/>
+		<string name="s0" value="All my wares are strong and sharp. "/>
+		<string name="s1" value="If you don't make a purchase, you'll regret it for the rest of your life. Your ENTIRE life."/>
+	</imgdir>
+    <imgdir name="9000203">
+		<string name="name" value="Instructor Irvin"/>
+		<string name="func" value="New Businessman"/>
+	</imgdir>
+    <imgdir name="9000204">
+		<string name="name" value="Von Bon"/>
+		<string name="func" value="Enraged by the Dog Days"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5121004">
+        <string name="name" value="Demolition" />
+        <string name="desc" value="Deliver rapid-fire attacks that ignore part of your enemy&apos;s defense. Only available when in a state of #cSuper Transformation#.\nRequired Skill: #cSuper Transformation Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="Deliver rapid-fire attacks that decrease the enemy&apos;s Speed. Only available when in a state of #cSuper Transformation#.\nRequired Skill: #cSuper Transformation Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage, Number of Attacks: #attackCount, Movement Speed: -#x\nCooldown: #cooltime sec" />
+    </imgdir>

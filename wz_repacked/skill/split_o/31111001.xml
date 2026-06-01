@@ -1,0 +1,8 @@
+<imgdir name="31111001">
+        <string name="name" value="Vortex of Doom" />
+        <string name="desc" value="Creates a vortex of dark energy inside you that draws nearby enemies into your attack and stuns them." />
+        <string name="h" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="pdesc" value="Creates a vortex of dark energy inside you that draws nearby enemies into your attack and stuns them." />
+        <string name="ph" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec" />
+        <string name="hch" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #hcSubProp%, Stun Duration: #hcTime sec" />
+    </imgdir>

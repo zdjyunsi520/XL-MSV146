@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<imgdir name="AdventureLogbook.img"><imgdir name="403">
+				<string name="title" value="3. 被偷走的宝石" />
+				<int name="align" value="1" />
+				<imgdir name="0">
+					<imgdir name="0">
+						<string name="text" value="当你听到新闻快讯时，你正在适应新生活：一颗属于冒险家公会的重要宝石被一个戴面具的小偷偷走了！" />
+					</imgdir>
+					<imgdir name="1">
+						<string name="text" value="当你终于拦住小偷拿到宝石时，Olive出现了，说她才是原本应该把宝石送到雅典娜·皮尔斯那里的人。" />
+					</imgdir>
+					<imgdir name="2">
+						<string name="text" value="但你感觉有些不对劲。Olive从来不会这么友善……当你追问她时，她变成了一个男人跑掉了。" />
+					</imgdir>
+					<imgdir name="3">
+						<string name="text" value="当你把所有经过告诉雅典娜·皮尔斯时，她透露这颗宝石实际上是一块封印石，一件拥有巨大但神秘力量的神器。谁偷走了封印石？他们在冒险岛世界策划着什么邪恶计划？" />
+					</imgdir>
+				</imgdir>
+			</imgdir>
+			</imgdir>

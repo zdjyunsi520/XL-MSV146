@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2384002">
+		<string name="name" value="Peach Monkey Card"/>
+		<string name="desc" value="A card that features Peach Monkey.\n#cIf hunting at Mu LungnAccuracy +3#"/>
+	</imgdir>
+    <imgdir name="2384003">
+		<string name="name" value="Officer Skeleton Card"/>
+		<string name="desc" value="A card that features Officer Skeleton.\n#cIf hunting at PerionnAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384004">
+		<string name="name" value="Soul Teddy Card"/>
+		<string name="desc" value="A card that features Soul Teddy.\n#cIf hunting at the lower levels of the ClocktowernAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384005">
+		<string name="name" value="Jr. Lucida Card"/>
+		<string name="desc" value="A card that features Jr. Lucida.\n#cIf hunting at the Orbis GardennDefense against darkness +15%#"/>
+	</imgdir>
+    <imgdir name="2384006">
+		<string name="name" value="Ice Drake Card"/>
+		<string name="desc" value="A card that features Ice Drake.\n#cIf hunting at Victoria IslandnDefense against ice-based attacks +9%#"/>
+	</imgdir>
+    <imgdir name="2384007">
+		<string name="name" value="Dark Pepe Card"/>
+		<string name="desc" value="A card that features Dark Pepe.\n#cIf hunting at the SnowfieldnSpeed +3#"/>
+	</imgdir>
+    <imgdir name="2384008">
+		<string name="name" value="Mr. Alli Card"/>
+		<string name="desc" value="A card that features Mr. Alli.\n#cIf hunting at Herb TownnProtection against being knocked out +15%#"/>
+	</imgdir>
+    <imgdir name="2384009">
+		<string name="name" value="Yeti Card"/>
+		<string name="desc" value="A card that features Yeti.\n#cIf hunting at the SnowfieldnDefense against ice-based attacks +9%#"/>
+	</imgdir>
+    <imgdir name="2384010">
+		<string name="name" value="Riche Card"/>
+		<string name="desc" value="A card that features Riche.\n#cIf hunting at the SnowfieldnDefense against seal +15%#"/>
+	</imgdir>
+    <imgdir name="2384011">
+		<string name="name" value="Homun Card"/>
+		<string name="desc" value="A card that features Homun.\n#cIf hunting at the Zenumist InstitutenAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384012">
+		<string name="name" value="Lazy Buffy Card"/>
+		<string name="desc" value="A card that features Lazy Buffy.\n#cIf hunting at the lower levels of the ClocktowernAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384013">
+		<string name="name" value="Sage Cat Card"/>
+		<string name="desc" value="A card that features Sage Cat.\n#cIf hunting at Mu LungnAccuracy +3#"/>
+	</imgdir>
+    <imgdir name="2384014">
+		<string name="name" value="Master Soul Teddy Card"/>
+		<string name="desc" value="A card that features Master Soul Teddy.\n#cIf hunting at the lower levels of the ClocktowernAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384015">
+		<string name="name" value="Dark Drake Card"/>
+		<string name="desc" value="A card that features Dark Drake.\n#cIf hunting at Victoria IslandnDefense against darkness +15%#"/>
+	</imgdir>
+    <imgdir name="2384016">
+		<string name="name" value="Dark Yeti Card"/>
+		<string name="desc" value="A card that features Dark Yeti.\n#cIf hunting at the SnowfieldnDefense against ice-based attacks +9%#"/>
+	</imgdir>
+    <imgdir name="2384017">
+		<string name="name" value="Kru Card"/>
+		<string name="desc" value="A card that features Kru.\n#cIf hunting at Herb TownnSpeed +3#"/>
+	</imgdir>
+    <imgdir name="2384018">
+		<string name="name" value="Cyti Card"/>
+		<string name="desc" value="A card that features Cyti.\n#cIf hunting at the labnAvoidability +3#"/>
+	</imgdir>
+    <imgdir name="2384019">
+		<string name="name" value="Klock Card"/>
+		<string name="desc" value="A card that features Klock.\n#cIf hunting at the lower levels of the ClocktowernAccuracy +3#"/>
+	</imgdir>
+    <imgdir name="2384020">
+		<string name="name" value="Tauromacis Card"/>
+		<string name="desc" value="A card that features Tauromacis.\n#cIf hunting at Victoria IslandnDefense against poison-based attacks +9%#"/>
+	</imgdir>
+    <imgdir name="2384021">
+		<string name="name" value="Yellow King Goblin Card"/>
+		<string name="desc" value="A card that features Yellow King Goblin.\n#cIf hunting at the Black MountainnDefense against fire-based attacks +9%#"/>
+	</imgdir>
+</imgdir>

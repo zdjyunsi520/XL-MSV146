@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="4340042"><string name="name" value="Hyper Jump"/><string name="desc" value="Permanently increases Jump."/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="4340043"><string name="name" value="Bloody Storm - Reinforce"/><string name="desc" value="Increases Bloody Storm damage."/><string name="h" value="Damage: +#damR%"/></imgdir>
+    <imgdir name="4340044"><string name="name" value="Bloody Storm - Spread"/><string name="desc" value="Increases the number of monsters hit by Bloody Storm."/><string name="h" value="Monsters Hit: +#targetPlus"/></imgdir>
+    <imgdir name="4340045"><string name="name" value="Bloody Storm - Extra Strike"/><string name="desc" value="Increases Bloody Storm&apos;s attack count."/><string name="h" value="Number of Attacks: +#attackCount"/></imgdir>
+    <imgdir name="4340046"><string name="name" value="Phantom Blow - Reinforce"/><string name="desc" value="Increases Phantom Blow damage."/><string name="h" value="Damage: +#damR%"/></imgdir>
+    <imgdir name="4340047"><string name="name" value="Phantom Blow - Guardbreak"/><string name="desc" value="Increases Phantom Blow&apos;s Monster DEF debuff."/><string name="h" value="#ignoreMobpdpR% additional DEF ignored"/></imgdir>
+    <imgdir name="4340048"><string name="name" value="Phantom Blow - Extra Strike"/><string name="desc" value="Increases Phantom Blow&apos;s attack count."/><string name="h" value="Number of Attacks: +#attackCount"/></imgdir>
+    <imgdir name="4340049"><string name="name" value="Sudden Raid - Reinforce"/><string name="desc" value="Increases damage of Sudden Raid."/><string name="h" value="Damage: +#damR%"/></imgdir>
+    <imgdir name="4340050"><string name="name" value="Sudden Raid - Cripple"/><string name="desc" value="Buffs damage over time of Sudden Raid."/><string name="h" value="Additional #dot% damage over time"/></imgdir>
+    <imgdir name="4340051"><string name="name" value="Sudden Raid - Cooldown Cutter"/><string name="desc" value="Reduces Sudden Raid Cooldown."/><string name="h" value="Cooldown -#coolTimeR%"/></imgdir>
+    <imgdir name="4341052"><string name="name" value="Asura&apos;s Anger"/><string name="desc" value="Create a vortex of wind blades, damaging nearby enemies."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, DEF Ignored: #x%, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Can move while using the skill.\nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="4341053"><string name="name" value="Epic Adventure"/><string name="desc" value="Call upon the bravery deep within to increase damage output and max damage."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Explorer class within the party"/></imgdir>
+    <imgdir name="4341054"><string name="name" value="Blade Clone"/><string name="desc" value="Summon a hidden sword to make every attack deal additional damage."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Bonus Strike Chance: #prop%, Bonus Strike Damage: #damage%, Overall Damage Increase: 10%. \nCooldown: #cooltime sec"/></imgdir>
+    <imgdir name="5120030"><string name="name" value="Hyper Strength"/><string name="desc" value="Permanently increases STR."/><string name="h" value="STR +#strX"/></imgdir>
+    <imgdir name="5120031"><string name="name" value="Hyper Dexterity"/><string name="desc" value="Permanently increases DEX."/><string name="h" value="DEX +#dexX"/></imgdir>
+    <imgdir name="5120032"><string name="name" value="Hyper Intelligence"/><string name="desc" value="Permanently increases INT."/><string name="h" value="INT +#intX"/></imgdir>
+    <imgdir name="5120033"><string name="name" value="Hyper Luck"/><string name="desc" value="Permanently increases LUK."/><string name="h" value="LUK +#lukX"/></imgdir>
+    <imgdir name="5120034"><string name="name" value="Hyper Critical"/><string name="desc" value="Permanently increases Critical Rate."/><string name="h" value="Critical Rate: +#cr%"/></imgdir>
+    <imgdir name="5120035"><string name="name" value="Hyper Accuracy"/><string name="desc" value="Permanently increases Accuracy."/><string name="h" value="Accuracy +#ar%"/></imgdir>
+    <imgdir name="5120036"><string name="name" value="Hyper Health"/><string name="desc" value="Permanently increases Max HP."/><string name="h" value="Max HP: +#mhpR%"/></imgdir>
+</imgdir>

@@ -1,0 +1,101 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="12">
+					<vector name="lt" x="12" y="296"/>
+					<vector name="rb" x="69" y="309"/>
+					<string name="Title" value="敏捷"/>
+					<string name="Desc" value="敏捷决定尖兵的概率和闪避率，并影响尖兵的攻击强度。"/>
+				</imgdir>
+    <imgdir name="13">
+					<vector name="lt" x="12" y="313"/>
+					<vector name="rb" x="69" y="329"/>
+					<string name="Title" value="智力"/>
+					<string name="Desc" value="智力决定魔法攻击的强度和成功率，但不影响尖兵的攻击。"/>
+				</imgdir>
+    <imgdir name="14">
+					<vector name="lt" x="12" y="332"/>
+					<vector name="rb" x="69" y="347"/>
+					<string name="Title" value="运气"/>
+					<string name="Desc" value="运气决定尖兵的闪避率，并影响尖兵的攻击强度。"/>
+				</imgdir>
+    <imgdir name="DKtransForm">
+				<imgdir name="kaiserGaugeGuide">
+					<imgdir name="0">
+						<string name="Title" value="变形槽"/>
+						<string name="Desc" value="激活龙之联盟技能比使用普通技能更快填满变形槽。\n#c变形技能效果#将根据变形槽满的程度激活。"/>
+						<vector name="lt" x="0" y="0"/>
+						<vector name="rb" x="96" y="96"/>
+					</imgdir>
+    <imgdir name="kaiserTransformGuide">
+					<imgdir name="0">
+						<string name="Title" value="最终变形"/>
+						<string name="Desc" value="最终恍惚状态下只能使用特定技能。"/>
+						<vector name="lt" x="0" y="100"/>
+						<vector name="rb" x="97" y="185"/>
+					</imgdir>
+    <imgdir name="MonsterBattle">
+				<imgdir name="0">
+					<vector name="lt" x="330" y="85"/>
+					<vector name="rb" x="416" y="99"/>
+					<string name="Title" value="等级"/>
+					<string name="Desc" value="战斗怪物的等级。基础属性随等级提升而增加，怪物将可使用更多技能。"/>
+				</imgdir>
+    <imgdir name="1">
+					<vector name="lt" x="330" y="103"/>
+					<vector name="rb" x="416" y="117"/>
+					<string name="Title" value="经验值"/>
+					<string name="Desc" value="达到经验值目标可提升等级。击败怪物时主要战斗怪物将获得经验值。击败等级低的怪物获得的经验值较少，击败比你低20级以上的怪物不会获得经验值。"/>
+				</imgdir>
+    <imgdir name="2">
+					<vector name="lt" x="330" y="121"/>
+					<vector name="rb" x="416" y="135"/>
+					<string name="Title" value="HP"/>
+					<string name="Desc" value="战斗怪物的最大HP。如果你的怪物HP先归零你将失败。你可通过提升怪物等级和装备战斗怪物装备来提升它。"/>
+				</imgdir>
+    <imgdir name="3">
+					<vector name="lt" x="330" y="139"/>
+					<vector name="rb" x="416" y="153"/>
+					<string name="Title" value="攻击力"/>
+					<string name="Desc" value="这决定你在战斗中的伤害。你可通过提升怪物等级和装备战斗怪物装备来提升它。"/>
+				</imgdir>
+    <imgdir name="4">
+					<vector name="lt" x="330" y="157"/>
+					<vector name="rb" x="416" y="171"/>
+					<string name="Title" value="防御力"/>
+					<string name="Desc" value="这决定你在战斗中受到的伤害。装备防御装备来提升这个数值。"/>
+				</imgdir>
+    <imgdir name="5">
+					<vector name="lt" x="330" y="175"/>
+					<vector name="rb" x="416" y="189"/>
+					<string name="Title" value="技能消耗"/>
+					<string name="Desc" value="配置战斗怪物技能时攻击和防御技能的上限。上限将随怪物等级提升而增加。"/>
+				</imgdir>
+    <imgdir name="6">
+					<vector name="lt" x="330" y="193"/>
+					<vector name="rb" x="416" y="207"/>
+					<string name="Title" value="捕获怪物数"/>
+					<string name="Desc" value="你捕获的战斗怪物总数。60级战斗怪物的数量将决定给予所有战斗怪物的额外属性。\n每60级战斗怪物全属性+1%(最高+20%)"/>
+				</imgdir>
+    <imgdir name="7">
+					<vector name="lt" x="330" y="238"/>
+					<vector name="rb" x="416" y="252"/>
+					<string name="Title" value="组"/>
+					<string name="Desc" value="组别根据你的天梯点数决定。天梯点数要求如下。\n新手：1599或以下\n业余：1600-1699\n半职业：1700-1799\n职业：1800-1899\n全明星：1900-1999\n超级明星：2000-2199\n传奇：2200-2499\n神话：2500或以上"/>
+				</imgdir>
+    <imgdir name="8">
+					<vector name="lt"="330" y="256"/>
+					<vector name="rb" x="416" y="270"/>
+					<string name="Title" value="天梯点数"/>
+					<string name="Desc" value="你的联赛战斗分数。你将从1500点开始，根据胜负点数会增加或减少。战胜比你有更多点数的对手将获得更多点数，输给比你点数少的对手将失去更多点数。"/>
+				</imgdir>
+    <imgdir name="9">
+					<vector name="lt" x="330" y="274"/>
+					<vector name="rb" x="416" y="288"/>
+					<string name="Title" value="战斗充能"/>
+					<string name="Desc" value="每次进入联赛战斗你将消耗1个战斗充能。战斗充能上限为10个，每5分钟获得1个。"/>
+				</imgdir>
+    <imgdir name="10">
+					<vector name="lt" x="330" y="292"/>
+					<vector name="rb" x="416" y="306"/>
+					<string name="Title" value="PVP消耗"/>
+					<string name="Desc" value="请求目标进行联赛战斗的消耗。你每天最多可战斗3次。"/>
+</imgdir>

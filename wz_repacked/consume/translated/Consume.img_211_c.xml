@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290656">
+		<string name="name" value="[能手册]反射 20"/>
+		<string name="desc" value="70%概率将#c反射#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290657">
+		<string name="name" value="[能手册]反射 30"/>
+		<string name="desc" value="50%概率将#c反射#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290658">
+		<string name="name" value="[能手册]晨星 20"/>
+		<string name="desc" value="70%概率将#c晨星#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290659">
+		<string name="name" value="[能手册]晨星 30"/>
+		<string name="desc" value="50%概率将#c晨星#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290660">
+		<string name="name" value="[能手册]启示录 20"/>
+		<string name="desc" value="70%概率将#c启示录#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290661">
+		<string name="name" value="[能手册]启示录 30"/>
+		<string name="desc" value="50%概率将#c启示录#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290662">
+		<string name="name" value="[能手册]终焉 20"/>
+		<string name="desc" value="70%概率将#c终焉#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290663">
+		<string name="name" value="[能手册]终焉 30"/>
+		<string name="desc" value="50%概率将#c终焉#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290664">
+		<string name="name" value="[能手册]黑暗渐强 20"/>
+		<string name="desc" value="70%概率将#c黑暗渐强#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290665">
+		<string name="name" value="[能手册]黑暗渐强 30"/>
+		<string name="desc" value="50%概率将#c黑暗渐强#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290666">
+		<string name="name" value="[能手册]奥术音高 20"/>
+		<string name="desc" value="70%概率将#c奥术音高#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290667">
+		<string name="name" value="[能手册]奥术音高 30"/>
+		<string name="desc" value="50%概率将#c奥术音高#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290668">
+		<string name="name" value="[能手册]魔法精通 20"/>
+		<string name="desc" value="70%概率将#c魔法精通#的最高等级提升到20级。\n职业：夜光（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290669">
+		<string name="name" value="[能手册]魔法精通 30"/>
+		<string name="desc" value="50%概率将#c魔法精通#的最高等级提升到30级。\n职业：夜光（4转）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290670">
+		<string name="name" value="[特殊能手册]战斗狂怒 30"/>
+		<string name="desc" value="100%概率将#c战斗狂怒#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290671">
+		<string name="name" value="[特殊能手册]终结一击 30"/>
+		<string name="desc" value="100%概率将#c终结一击#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290672">
+		<string name="name" value="[特殊能手册]旋转龙卷 30"/>
+		<string name="desc" value="100%概率将#c旋转龙卷#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290673">
+		<string name="name" value="[特殊能手册]黑暗创世 30"/>
+		<string name="desc" value="100%概率将#c黑暗创世#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290674">
+		<string name="name" value="[特殊能手册]高级黄色光环 30"/>
+		<string name="desc" value="100%概率将#c高级黄色光环#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290675">
+		<string name="name" value="[特殊能手册]高级黑暗光环 30"/>
+		<string name="desc" value="100%概率将#c高级黑暗光环#的最高等级提升到30级。\n职业：战斗法师（4转）\n条件：技能等级5级以上"/>
+	</imgdir>
+</imgdir>

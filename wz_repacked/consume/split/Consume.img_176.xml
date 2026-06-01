@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2210036">
+		<string name="name" value="Penguin Transformation 2"/>
+		<string name="desc" value="Will transform you into a penguin."/>
+	</imgdir>
+    <imgdir name="2210037">
+		<string name="name" value="Penguin Transformation 3"/>
+		<string name="desc" value="Will transform you into a penguin."/>
+	</imgdir>
+    <imgdir name="2210038">
+		<string name="name" value="Penguin Transformation 4"/>
+		<string name="desc" value="Will transform you into a penguin."/>
+	</imgdir>
+    <imgdir name="2210039">
+		<string name="name" value="Penguin Transformation 5"/>
+		<string name="desc" value="Will transform you into a penguin."/>
+	</imgdir>
+    <imgdir name="2210043">
+		<string name="name" value="Leech Costume"/>
+		<string name="desc" value="An offensive-looking leech costume. Can be worn to trick your friends."/>
+	</imgdir>
+    <imgdir name="2210044">
+		<string name="name" value="Snowman Transformation"/>
+		<string name="desc" value="Transforms you into a little Snowman."/>
+	</imgdir>
+    <imgdir name="2210045">
+		<string name="name" value="Gustav Transformation"/>
+		<string name="desc" value="Transforms you into Gustav from Henesys Farm."/>
+	</imgdir>
+    <imgdir name="2210046">
+		<string name="name" value="Anna Transformation"/>
+		<string name="desc" value="Transforms you into Anna from Henesys Farm."/>
+	</imgdir>
+    <imgdir name="2210047">
+		<string name="name" value="Utah Transformation"/>
+		<string name="desc" value="Transforms you into Utah from Henesys Farm."/>
+	</imgdir>
+    <imgdir name="2210048">
+		<string name="name" value="Blue Mushroom Transformation"/>
+		<string name="desc" value="Transforms you into an Blue Mushroom from Henesys."/>
+	</imgdir>
+    <imgdir name="2210049">
+		<string name="name" value="Pig Transformation "/>
+		<string name="desc" value="Transforms you into a Pig from Henesys."/>
+	</imgdir>
+    <imgdir name="2210061">
+		<string name="name" value="Surl Transformation Potion"/>
+		<string name="desc" value="A potion that can transform you into Surl. For use during your Resistance mission."/>
+	</imgdir>
+    <imgdir name="2210062">
+		<string name="name" value="Diver Transformation"/>
+		<string name="desc" value="You've put on the Diving Equipment."/>
+	</imgdir>
+    <imgdir name="2210063">
+		<string name="name" value="Miner Transformation"/>
+		<string name="desc" value="You've put on the Mining Equipment."/>
+	</imgdir>
+    <imgdir name="2210064">
+		<string name="name" value="Shuttle Transformation"/>
+		<string name="desc" value="You've boarded the Shuttle."/>
+	</imgdir>
+    <imgdir name="2210065">
+		<string name="name" value="Machine Transformation"/>
+		<string name="desc" value="You've boarded the Machine."/>
+	</imgdir>
+    <imgdir name="2210066">
+		<string name="name" value="Boy Moon Bunny Idol"/>
+		<string name="desc" value="A statue that transforms you into a Boy Moon Bunny."/>
+	</imgdir>
+    <imgdir name="2210067">
+		<string name="name" value="Girl Moon Bunny Idol"/>
+		<string name="desc" value="A statue that transforms you into a Girl Moon Bunny."/>
+	</imgdir>
+    <imgdir name="2210068">
+		<string name="name" value="Ice Knight Transform Potion"/>
+		<string name="desc" value="A potion that can transform you into an Ice Knight."/>
+	</imgdir>
+    <imgdir name="2210069">
+		<string name="name" value="Jr. Ice Spirit Transform Potion"/>
+		<string name="desc" value="A potion that can transform you into a Jr. Ice Spirit."/>
+	</imgdir>
+</imgdir>

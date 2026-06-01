@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="8147012">
+		<string name="name" value="Hornet"/>
+	</imgdir>
+    <imgdir name="8147013">
+		<string name="name" value="Poison Hornet"/>
+	</imgdir>
+    <imgdir name="8147014">
+		<string name="name" value="General Hornet"/>
+	</imgdir>
+    <imgdir name="9100044">
+		<string name="name" value="Dark Eliza"/>
+	</imgdir>
+    <imgdir name="8800400">
+		<string name="name" value="Tarantulus"/>
+	</imgdir>
+    <imgdir name="8800401">
+		<string name="name" value="Poison Hornet"/>
+	</imgdir>
+    <imgdir name="8840007">
+		<string name="name" value="Von Leon"/>
+	</imgdir>
+    <imgdir name="8840008">
+		<string name="name" value="Prison Guard Boar"/>
+	</imgdir>
+    <imgdir name="8840009">
+		<string name="name" value="Prison Guard Rhino"/>
+	</imgdir>
+    <imgdir name="8840011">
+		<string name="name" value="Mini Castle Golem"/>
+	</imgdir>
+    <imgdir name="8840012">
+		<string name="name" value="Von Leon"/>
+	</imgdir>
+    <imgdir name="8840013">
+		<string name="name" value="Von Leon"/>
+	</imgdir>
+    <imgdir name="8860005">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="8860006">
+		<string name="name" value="Netherworld Monk"/>
+	</imgdir>
+    <imgdir name="8860007">
+		<string name="name" value="Arkarium"/>
+	</imgdir>
+    <imgdir name="8880010">
+		<string name="name" value="Magnus"/>
+	</imgdir>
+    <imgdir name="8880011">
+		<string name="name" value="Magnus's Soul"/>
+	</imgdir>
+    <imgdir name="9307000">
+		<string name="name" value="Hornet"/>
+	</imgdir>
+    <imgdir name="9307001">
+		<string name="name" value="Flora"/>
+	</imgdir>
+    <imgdir name="9307002">
+		<string name="name" value="Rock"/>
+	</imgdir>
+</imgdir>

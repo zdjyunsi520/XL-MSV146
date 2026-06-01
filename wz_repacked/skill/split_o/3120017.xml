@@ -1,0 +1,5 @@
+<imgdir name="3120017">
+        <string name="name" value="Enchanted Quiver" />
+        <string name="desc" value="Allows you to shoot without consuming your current quiver&apos;s #carrows for a short time#. The quiver cannot be changed. In addition, permanently increases each quiver&apos;s quantity and effect." />
+        <string name="h" value="MP Cost: #mpCon, current arrowheads will not be consumed for #time sec. Cooldown: #cooltime Sec\n[Passive Effects: Blood Arrow&apos;s HP drain rate: #x%, Poison Arrow Damage-Over-Time: #dot%, Magic Arrow Damage: Increased to #damage%]" />
+    </imgdir>

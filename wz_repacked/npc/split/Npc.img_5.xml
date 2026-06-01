@@ -1,0 +1,110 @@
+<imgdir name="Npc.img">
+    <imgdir name="1052108">
+		<string name="name" value="Knocked Trash Can"/>
+		<string name="d0" value="(A trash can that has been knocked down. Contains a piece of paper or two mixed with dirt.)"/>
+		<string name="d1" value="(A trash can that has been knocked down. Contains a piece of paper or two mixed with dirt.)"/>
+	</imgdir>
+    <imgdir name="1052109">
+		<string name="name" value="Subway Trash Can"/>
+		<string name="d0" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+		<string name="d1" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+	</imgdir>
+    <imgdir name="1052110">
+		<string name="name" value="Subway Trash Can"/>
+		<string name="d0" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+		<string name="d1" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+	</imgdir>
+    <imgdir name="1052111">
+		<string name="name" value="Subway Trash Can"/>
+		<string name="d0" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+		<string name="d1" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+	</imgdir>
+    <imgdir name="1052112">
+		<string name="name" value="Subway Trash Can"/>
+		<string name="d0" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+		<string name="d1" value="(A trash can in the subway. It is almost overflowing with trash and drinks. Not something you'd like your hands on.)"/>
+	</imgdir>
+    <imgdir name="1061000">
+		<string name="name" value="Chrishrama"/>
+		<string name="func" value="Item Creator"/>
+		<string name="n0" value="You need something...?"/>
+		<string name="d0" value="It's been years and years since Sabitrama and I first came to this place. Yet we still have not discovered the truth..."/>
+		<string name="d1" value="It's been years and years since Sabitrama and I first came to this place. Yet we still have not discovered the truth..."/>
+	</imgdir>
+    <imgdir name="1061001">
+		<string name="name" value="24 Hr Mobile Store"/>
+		<string name="n0" value="We have everything except for what we don't have!"/>
+		<string name="n1" value="All right, everyone come check it out!"/>
+	</imgdir>
+    <imgdir name="1061002">
+		<string name="name" value="Mr. Sweatbottom"/>
+		<string name="func" value="Sauna Manager"/>
+		<string name="n0" value="A few minutes in the sauna, and you'll feel much better. What do you think? Already working for you?"/>
+		<string name="n1" value="If you need an item, I have some available, so take a look..."/>
+	</imgdir>
+    <imgdir name="1061003">
+		<string name="name" value="Mr. Wetbottom"/>
+		<string name="func" value="Sauna Manager"/>
+		<string name="n0" value="Ah... You're using the VIP sauna. What do you think? Do you want to make a deal with me?"/>
+		<string name="d0" value="Welcome to the VIP sauna of the #m105040300# Hotel. Actually, I need some help here..."/>
+		<string name="d1" value="I'm so glad I got this book back safely. It's my number one treasure, you know. Am I not worried about #p1061004#? The fairies are taking care of him all right, so I'm not worried one bit."/>
+	</imgdir>
+    <imgdir name="1061005">
+		<string name="name" value="Sabitrama"/>
+		<string name="n0" value="I'm collecting herbs..."/>
+		<string name="d0" value="Lots of medicinal herbs in this forest. Nothing makes me happier than finding new herbs here!"/>
+		<string name="d1" value="It's you! Thanks to the herbs you got me, the medicine is well on its way. It should be done pretty soon. Thanks again for your help."/>
+	</imgdir>
+    <imgdir name="1061006">
+		<string name="name" value="Mysterious Statue"/>
+		<string name="d0" value="(A strange statue. You can't tell whether it is laughing or crying.)"/>
+		<string name="d1" value="(A strange statue. You can't tell whether it is laughing or crying.)"/>
+	</imgdir>
+    <imgdir name="1061007">
+		<string name="name" value="Crumbling Statue"/>
+	</imgdir>
+    <imgdir name="1061008">
+		<string name="name" value="Mr. Oh"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your items and mesos? This is just the place for you!"/>
+		<string name="n1" value="My storage is safe and secure, so no worries!"/>
+	</imgdir>
+    <imgdir name="1061009">
+		<string name="name" value="Door of Dimension"/>
+	</imgdir>
+    <imgdir name="1061010">
+		<string name="name" value="Sparkling Crystal"/>
+	</imgdir>
+    <imgdir name="1061011">
+		<string name="name" value="The Rememberer"/>
+		<string name="s0" value="The road to training is long and arduous."/>
+		<string name="s1" value="I'm mentally training right now."/>
+		<string name="d0" value="To train mentally, I need to concentrate 100%."/>
+		<string name="d1" value="If you study long enough, you'll be able to float on air."/>
+	</imgdir>
+    <imgdir name="1061013">
+		<string name="name" value="Gwin"/>
+		<string name="n0" value="...ouch..."/>
+		<string name="d0" value="...ouch..."/>
+		<string name="d1" value="...ouch..."/>
+	</imgdir>
+    <imgdir name="1061014">
+		<string name="name" value="Mu Young"/>
+		<string name="s0" value="Master will be worried..."/>
+		<string name="s1" value="Will I be able to do this alone...?"/>
+		<string name="d0" value="Never thought I'd run into another person in a place like this! I'm Mu Young, the apprentice of master Manji.  "/>
+		<string name="d1" value="The revival of Balrog must be stopped at all costs. Please help me. "/>
+	</imgdir>
+    <imgdir name="1061016">
+		<string name="name" value="Suspicious Man"/>
+		<string name="d0" value="How are you?"/>
+		<string name="n0" value="How long have I been here...that is..."/>
+		<string name="n1" value="I am a bit hungry."/>
+		<string name="d1" value="Nice weather today!"/>
+	</imgdir>
+    <imgdir name="1061017">
+		<string name="name" value="Tristan's Spirit"/>
+		<string name="d1" value="Ugh..."/>
+		<string name="d0" value="Ugh..."/>
+	</imgdir>
+</imgdir>

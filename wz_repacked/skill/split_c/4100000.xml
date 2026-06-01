@@ -1,0 +1,7 @@
+<imgdir name="4100000">
+        <string name="name" value="拳套精通" />
+        <string name="desc" value="提升飞镖的武器精通度和命中率，并增强最大充能数。" />
+        <string name="h" value="Claw Master: +#mastery%, Accuracy: +#x, Throwing Stars: +#y" />
+        <string name="pdesc" value="提升飞镖的武器精通度和命中率，并增加最大充能数。还提升幸运七飞镖的伤害。" />
+        <string name="ph" value="Claw Mastery: +#mastery%, Accuracy: +#x, Throwing Stars: +#y\nLucky Seven Damage: + #damR%" />
+    </imgdir>

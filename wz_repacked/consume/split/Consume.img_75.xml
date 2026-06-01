@@ -1,0 +1,96 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040013">
+		<string name="name" value="Dark Scroll for Helmet for INT 30%"/>
+		<string name="desc" value="Improves Intelligence on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040014">
+		<string name="name" value="Dark Scroll for Helmet for Accuracy 70%"/>
+		<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 70%, Dex+1, accuracy +2\nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040015">
+		<string name="name" value="Dark Scroll for Helmet for Accuracy 30%"/>
+		<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 30%, Dex+2, accuracy +4nIf failed, the item will be destroyed at a 50% rate."/>
+	</imgdir>
+    <imgdir name="2040016">
+		<string name="name" value="Scroll for Helmet for Accuracy 10%"/>
+		<string name="desc" value="Improves the helmet's accuracy option.\nSuccess Rate 10%, Dex+2, Accuracy +4. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040017">
+		<string name="name" value="Scroll for Helmet for Accuracy 60%"/>
+		<string name="desc" value="Improves the helmet's accuracy option.\nSuccess Rate 60%, Dex+1, Accuracy +2. The success rate of this scroll can be enhanced by Vega's Spell."/>
+	</imgdir>
+    <imgdir name="2040018">
+		<string name="name" value="Scroll for Helmet for Accuracy 100%"/>
+		<string name="desc" value="Improves the helmet's accuracy option.\nSuccess Rate 100%, Accuracy +1"/>
+	</imgdir>
+    <imgdir name="2040019">
+		<string name="name" value="Scroll for Helmet for DEF 65%"/>
+		<string name="desc" value="Improves Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nWeapon Defense: +15\r\nMagic Defense: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2040020">
+		<string name="name" value="Scroll for Helmet for DEF 15%"/>
+		<string name="desc" value="Improves Defense on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nWeapon Defense: +30\r\nMagic Defense: +20\r\nAccuracy: +20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040021">
+		<string name="name" value="Scroll for Helmet for MaxHP 65%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nMax HP: +40\r\n#"/>
+	</imgdir>
+    <imgdir name="2040022">
+		<string name="name" value="Scroll for Helmet for MaxHP 15%"/>
+		<string name="desc" value="Improves Max HP on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nMax HP: +100\r\n#"/>
+	</imgdir>
+    <imgdir name="2040023">
+		<string name="name" value="Scroll for Rudolph's Horn 60%"/>
+		<string name="desc" value="Improves Weapon Attack on Rudolph's Red Nose."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nWeapon Attack: +1\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040024">
+		<string name="name" value="Scroll for Helmet for INT 100%"/>
+		<string name="desc" value="Improves Intelligence on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nINT: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040025">
+		<string name="name" value="Scroll for Helmet for INT 60%"/>
+		<string name="desc" value="Improves Intelligence on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040026">
+		<string name="name" value="Scroll for Helmet for INT 10%"/>
+		<string name="desc" value="Improves Intelligence on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nINT: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040027">
+		<string name="name" value="Scroll for Helmet for DEX 100%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nDEX: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040028">
+		<string name="name" value="Scroll for Helmet for DEX 70%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nChance to destroy item on failure: 50%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040029">
+		<string name="name" value="Scroll for Helmet for DEX 60%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040030">
+		<string name="name" value="Scroll for Helmet for DEX 30%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 30%\r\nChance to destroy item on failure: 50%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040031">
+		<string name="name" value="Scroll for Helmet for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on helmets."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2040041">
+		<string name="name" value="Scroll for Helmet for DEF 100%"/>
+		<string name="desc" value="Improves helmet def.\nSuccess rate:100%, weapon def.+2, magic def., +3"/>
+	</imgdir>
+</imgdir>

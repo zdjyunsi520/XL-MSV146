@@ -1,0 +1,5 @@
+<imgdir name="101110101">
+        <string name="name" value="Wheel Wind" />
+        <string name="desc" value="Spin like a whirlwind for a short time and attack enemies nearby. \nUse the Left and Right arrow keys while spinning to move. \n[Skill Requirements]: #cSpin Driver Lv. 1# \n[Command]: While Spin Driver is activated use #cSpin Driver# again" />
+        <string name="h" value="Time Force Cost: #forceCon per 1 sec, Damage:  #damage% per 0.1 sec, Max Enemies Hit: #mobCount, Attack count: #attackCount, Duration: #time" />
+    </imgdir>

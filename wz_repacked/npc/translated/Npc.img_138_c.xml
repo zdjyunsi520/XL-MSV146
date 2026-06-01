@@ -1,0 +1,96 @@
+<imgdir name="Npc.img">
+    <imgdir name="2142105">
+		<string name="name" value="与狼搏斗"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2142106">
+		<string name="name" value="Elex"/>
+		<string name="func" value="抵抗组织"/>
+		<string name="n0" value="你！别偷懒了，回去工作！"/>
+		<string name="n1" value="一旦建设完成，这里将成为旅游热点。"/>
+		<string name="d0" value="少偷懒，多干活！"/>
+		<string name="d1" value="我们落后于计划了。必须加快速度。"/>
+	</imgdir>
+    <imgdir name="2142107">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="抵抗组织"/>
+		<string name="n0" value="抵抗组织准备在这里创造一些全新的东西..."/>
+		<string name="n1" value="大家开始工作吧。幸福就在眼前！"/>
+		<string name="d0" value="如果我们现在忍受一点困难，以后肯定会收获好处。"/>
+		<string name="d1" value="随着黑魔法师的消失，这座城市将成为新的顶级旅游目的地！"/>
+	</imgdir>
+    <imgdir name="2142108">
+		<string name="name" value="Blackbull"/>
+		<string name="n0" value="我以前没见过你。你最好小心点。"/>
+		<string name="n1" value="放松，我们不是食人族...*流口水*"/>
+		<string name="d0" value="唉，我没有足够的食材。"/>
+		<string name="d1" value="哦嘿，是你！非常感谢你上次的帮助。"/>
+	</imgdir>
+    <imgdir name="2142109">
+		<string name="name" value="Ayan"/>
+		<string name="s0" value="我是Ayan。"/>
+		<string name="s1" value="我被这里的人救了，所以留下来帮忙。"/>
+		<string name="d0" value="Perion，战士之城...我们什么时候才能在这里找到和平？"/>
+		<string name="d1" value="非常感谢你上次帮助我们。"/>
+	</imgdir>
+    <imgdir name="2142110">
+		<string name="name" value="坚如磐石"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+	</imgdir>
+    <imgdir name="2142111">
+		<string name="name" value="Manji"/>
+		<string name="n0" value="在受伤之前赶紧走吧。"/>
+		<string name="n1" value="别跟我说话。"/>
+		<string name="d0" value="我不会原谅任何挡我路的人。"/>
+		<string name="d1" value="我在想是谁在制造这样的场面...是你啊？也许我现在不应该再叫你孩子了，嘿嘿。"/>
+	</imgdir>
+    <imgdir name="2142112">
+		<string name="name" value="Cobie"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="汪汪"/>
+		<string name="n1" value="汪汪！"/>
+	</imgdir>
+    <imgdir name="2142900">
+		<string name="name" value="Stan酋长"/>
+	</imgdir>
+    <imgdir name="2142901">
+		<string name="name" value="Ming Ming夫人"/>
+	</imgdir>
+    <imgdir name="2142902">
+		<string name="name" value="Bruce"/>
+	</imgdir>
+    <imgdir name="2142903">
+		<string name="name" value="Camila"/>
+	</imgdir>
+    <imgdir name="2142904">
+		<string name="name" value="Pia"/>
+	</imgdir>
+    <imgdir name="2142910">
+		<string name="name" value="Kirium"/>
+		<string name="func" value="仓库管理员"/>
+	</imgdir>
+    <imgdir name="2142911">
+		<string name="name" value="Kiriwing"/>
+		<string name="func" value="商人"/>
+	</imgdir>
+    <imgdir name="2142912">
+		<string name="name" value="Kiryu"/>
+		<string name="func" value="武器/防具商人"/>
+	</imgdir>
+    <imgdir name="2142920">
+		<string name="name" value="Blackbull"/>
+	</imgdir>
+    <imgdir name="2142921">
+		<string name="name" value="与巴洛格共舞"/>
+	</imgdir>
+    <imgdir name="2142922">
+		<string name="name" value="与公牛并肩"/>
+	</imgdir>
+    <imgdir name="2142923">
+		<string name="name" value="Ayan"/>
+	</imgdir>
+</imgdir>

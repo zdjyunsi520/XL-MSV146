@@ -1,0 +1,5 @@
+<imgdir name="22131002">
+        <string name="name" value="Elemental Decrease" />
+        <string name="desc" value="Temporarily decreases the magic attributes of all attacks that you use." />
+        <string name="h" value="MP Cost: #mpCon, Elemental Attributes: -#x%, Duration: #time sec" />
+    </imgdir>

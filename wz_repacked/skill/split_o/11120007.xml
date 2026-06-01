@@ -1,0 +1,5 @@
+<imgdir name="11120007">
+        <string name="name" value="Student of the Blade" />
+        <string name="desc" value="Increases the Mastery, Weapon ATT, and Minimum Critical Damage of One-Handed and Two-Handed Swords.\nRequired Skill: #cSword Mastery Lv. 10#" />
+        <string name="h" value="One-Handed and Two-Handed Sword Mastery: +#mastery%, Weapon ATT: +#x, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

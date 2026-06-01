@@ -1,0 +1,209 @@
+<imgdir name="5000203">
+		<string name="c1" value="sit"/>
+		<string name="c1_s1" value="sit"/>
+		<string name="c1_s2" value="Sit? Sit!"/>
+		<string name="c1_f1" value="Rawk... "/>
+		<string name="c1_f2" value="Rawk?"/>
+		<string name="c2" value="sit"/>
+		<string name="c2_s1" value="If you say so..."/>
+		<string name="c2_s2" value="Why should I listen to you?"/>
+		<string name="c2_s3" value="Do I look like a dog to you? Sit, indeed!"/>
+		<string name="c2_s4" value="Yes, perhaps I shall rest my wings. RAWK!!"/>
+		<string name="c2_f1" value="Rawk!"/>
+		<string name="c2_f2" value="Rawk! Rawk rawk!"/>
+		<string name="c2_f3" value="Who are you to order me around? Hm?"/>
+		<string name="c2_f4" value="Birds can't sit, you featherless buffoon!"/>
+		<string name="c3" value="sit"/>
+		<string name="c3_s1" value="I'm sitting already! I'm sitting RIGHT NOW!"/>
+		<string name="c3_s2" value="Yes, yes, what is it?! I swear, if you tell me to sit one more time..."/>
+		<string name="c3_s3" value="I would be DELIGHTED if you joined me! Don't you have a chair?"/>
+		<string name="c3_s4" value="Very well. But what's this? No cushion?"/>
+		<string name="c3_f1" value="And if I say no?"/>
+		<string name="c3_f2" value="You dare tell me to sit? RAWK!"/>
+		<string name="c3_f3" value="Where shall I sit? On your shoulder? Or on your head?"/>
+		<string name="c3_f4" value="Hmph!"/>
+		<string name="c4" value="sit"/>
+		<string name="c4_s1" value="The dictionary defines 'sit' as resting with the torso vertical and the body supported on the buttocks. Correct?"/>
+		<string name="c4_s2" value="Yes, it's nice to sit with my intellectual equal. RAWK!"/>
+		<string name="c4_s3" value="Let's sit in silence, mm-hmm?"/>
+		<string name="c4_s4" value="Yes, I am quite tired. We've been on a long journey, and I fear I've talked myself into a stupor. RAWK!"/>
+		<string name="c4_f1" value="Why do you insist I sit?"/>
+		<string name="c4_f2" value="Don't you know any other commands?!"/>
+		<string name="c4_f3" value="How dull."/>
+		<string name="c4_f4" value="No. No, that's quite all right. Rawk!"/>
+		<string name="c5" value="slap|no|bad|don't"/>
+		<string name="c5_s1" value="No... Don't... Bad..."/>
+		<string name="c5_s2" value="Sorry!"/>
+		<string name="c5_f1" value="Rawk... "/>
+		<string name="c5_f2" value="Rawk?"/>
+		<string name="c6" value="slap|no|bad|don't"/>
+		<string name="c6_s1" value="Perhaps I was bad. But you'll hear no apology from me!"/>
+		<string name="c6_s2" value="Don't you think you're overreacting?"/>
+		<string name="c6_s3" value="Of course. It won't happen again. Whatever you say."/>
+		<string name="c6_s4" value="What can I say? My apologies."/>
+		<string name="c6_f1" value="Rawk... Rawk rawk rawk!"/>
+		<string name="c6_f2" value="Rawk... What did I do?"/>
+		<string name="c6_f3" value="I simply don't understand."/>
+		<string name="c6_f4" value="What is the meaning of this? Unbelievable..."/>
+		<string name="c7" value="slap|no|bad|don't"/>
+		<string name="c7_s1" value="I've nothing to say to a tyrant like you!"/>
+		<string name="c7_s2" value="How does throwing a temper tantrum help anything?"/>
+		<string name="c7_s3" value="There's no need to be so forceful."/>
+		<string name="c7_s4" value="I understand. But is this really my fault?"/>
+		<string name="c7_f1" value="What is it NOW?"/>
+		<string name="c7_f2" value="I'll hear you out. What did I do wrong this time?"/>
+		<string name="c7_f3" value="Hmph, you must be bored."/>
+		<string name="c7_f4" value="Rawk! Do you want an apology?"/>
+		<string name="c8" value="slap|no|bad|don't"/>
+		<string name="c8_s1" value="If you can explain to me what I did wrong, I will be more than happy to apologize."/>
+		<string name="c8_s2" value="Perhaps what I did was wrong, but will an apology REALLY make you feel better? "/>
+		<string name="c8_s3" value="I know what I did was wrong! I don't need you to remind me."/>
+		<string name="c8_s4" value="Yes, I'm a bad parrot. Does that make you feel better?"/>
+		<string name="c8_f1" value="Enough. I've had enough!"/>
+		<string name="c8_f2" value="I have nothing to say to you. RAWK!"/>
+		<string name="c8_f3" value="I don't know what you're talking about, and I don't care!"/>
+		<string name="c8_f4" value="Think this over. Don't you value our friendship? RAWK!"/>
+		<string name="c9" value="iloveyou"/>
+		<string name="c9_s1" value="Love you! Rawk!"/>
+		<string name="c9_s2" value="That's more like it!"/>
+		<string name="c9_f1" value="Rawk... "/>
+		<string name="c9_f2" value="Rawk?"/>
+		<string name="c10" value="iloveyou"/>
+		<string name="c10_s1" value="Love, love. Such a sweet word!"/>
+		<string name="c10_s2" value="You like me? You really like me?"/>
+		<string name="c10_s3" value="Is your love true? Oh, who cares!"/>
+		<string name="c10_s4" value="I'd blush, but parrots can't blush..."/>
+		<string name="c10_f1" value="Sorry, but my heart belongs to a little parakeet in Henesys."/>
+		<string name="c10_f2" value="How awkward."/>
+		<string name="c10_f3" value="But what will the other parrots think?"/>
+		<string name="c10_f4" value="RAWK! LIAR!"/>
+		<string name="c11" value="iloveyou"/>
+		<string name="c11_s1" value="The love between parrot and master is forever!"/>
+		<string name="c11_s2" value="Is it the color of my feathers that did it? Or the manly shape of my beak?"/>
+		<string name="c11_s3" value="Sh, keep your voice down! You're embarrassing me..."/>
+		<string name="c11_s4" value="Caaan you feeel the love tooooday..."/>
+		<string name="c11_f1" value="Prove it!"/>
+		<string name="c11_f2" value="No! I won't let you break this parrot heart!"/>
+		<string name="c11_f3" value="Sure, you say that now, but isn't this just a flight of fancy?"/>
+		<string name="c11_f4" value="Hee hee! RAWK!"/>
+		<string name="c12" value="iloveyou"/>
+		<string name="c12_s1" value="My melancholy heart, once dark like Kerning City's nighttime sky, is brightened by your affection! CRAAAAW!!"/>
+		<string name="c12_s2" value="Yes! Very good! Let's have fun! RAWK!"/>
+		<string name="c12_s3" value="Thank you. Not that I feel the same way, but it's nice to hear."/>
+		<string name="c12_s4" value="I know."/>
+		<string name="c12_f1" value="You find me attractive? Is that what you're telling me?"/>
+		<string name="c12_f2" value="Do you feel a special kinship for me? Or is it something more?"/>
+		<string name="c12_f3" value="Love? I simply can't understand it."/>
+		<string name="c12_f4" value="Love? Bah! Who needs it?"/>
+		<string name="c13" value="poop"/>
+		<string name="c13_s1" value="Rawk! How degrading!"/>
+		<string name="c13_s2" value="Good idea to lighten the load. Makes it easier to fly. Rawk!"/>
+		<string name="c13_s3" value="Rawk! You need a sample? I didn't know you were a doctor!"/>
+		<string name="c13_s4" value="I feel so refreshed. I feel like I can fly! Rawk!"/>
+		<string name="c13_f1" value="Sorry. Stomach's not feeling up to the task today!"/>
+		<string name="c13_f2" value="What a thing to say! Rawk!"/>
+		<string name="c13_f3" value="What a disgusting thing to say!"/>
+		<string name="c13_f4" value="I can't do...THAT on command!"/>
+		<string name="c14" value="poop"/>
+		<string name="c14_s1" value="Rawk! I'll just make a little room for lunch."/>
+		<string name="c14_s2" value="Rawk! I was going to do that, anyway!"/>
+		<string name="c14_s3" value="Very well. Fire main cannon!"/>
+		<string name="c14_s4" value="You can tell I've been eating the good stuff because it doesn't smell. Ha!"/>
+		<string name="c14_f1" value="Feed me first. Rawk!"/>
+		<string name="c14_f2" value="Stop asking me to do such base things! RAWK!"/>
+		<string name="c14_f3" value="I'm not a faucet, you know. It doesn't happen on command."/>
+		<string name="c14_f4" value="Think before you speak! Think!"/>
+		<string name="c15" value="poop"/>
+		<string name="c15_s1" value="That's a child's word. I prefer the word feces, myself."/>
+		<string name="c15_s2" value="Observe, as my body excretes the waste it's built up through the digestive process!"/>
+		<string name="c15_s3" value="I've got stage fright. Mind singing a song to help me relax?"/>
+		<string name="c15_s4" value="R-rawk! Wait for it..."/>
+		<string name="c15_f1" value="RAWK! That didn't feel right out. Maybe I should see a doctor..."/>
+		<string name="c15_f2" value="How did you know I had to go? That's a little unsettling..."/>
+		<string name="c15_f3" value="Why don't you look after your business, and I'll look after my own? Rawk!"/>
+		<string name="c15_f4" value="I seem to be having trouble. Do you have some yogurt I could eat? Rawk!"/>
+		<string name="c16" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c16_s1" value="Sweet dreams! Rawk!"/>
+		<string name="c16_s2" value="This is nice sleeping weather. Rawk!"/>
+		<string name="c16_s3" value="I may not have eyelids, but I can sleep with the best of them!"/>
+		<string name="c16_s4" value="Remember, even when I sleep, I'm watching you! Zzz..."/>
+		<string name="c16_f1" value="Not sleepy, not one bit!"/>
+		<string name="c16_f2" value="What will you do while I sleep? Rawk!"/>
+		<string name="c16_f3" value="It's much too early for that!"/>
+		<string name="c16_f4" value="You won't put ME to sleep!"/>
+		<string name="c17" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c17_s1" value="Perhaps I'll wake up early and get the worm... Rawk!"/>
+		<string name="c17_s2" value="I'm going to eat well and sleep right. Goodnight!"/>
+		<string name="c17_s3" value="Goodnight, and may you dream of many eagles."/>
+		<string name="c17_s4" value="Rawk! I can't sleep right after eating!"/>
+		<string name="c17_f1" value="No. I get headaches if I sleep too much."/>
+		<string name="c17_f2" value="I'll not sleep my life away! RAWK!"/>
+		<string name="c17_f3" value="I'll sleep when I please, thank you very much!"/>
+		<string name="c17_f4" value="Sometimes I get so busy counting sheep I forget to actually sleep."/>
+		<string name="c18" value="sleep|sleepy|zzz|goodnight"/>
+		<string name="c18_s1" value="Nothing like a good nap when you're feeling sleepy!"/>
+		<string name="c18_s2" value="I'll dream of pigs and slimes tonight. I just know it."/>
+		<string name="c18_s3" value="My friends say I talk to much. Makes it hard to sleep. That's not true, is it? RAWK!"/>
+		<string name="c18_s4" value="I can't sleep on the floor! Bring me some nice, comfortable branches to perch on."/>
+		<string name="c18_f1" value="I can't talk now. I'd rather chat! Rawk! Rawk! RAAAWK!"/>
+		<string name="c18_f2" value="You're going to hit me after I fall asleep, right? I'm on to you!"/>
+		<string name="c18_f3" value="That's okay. I slept yesterday."/>
+		<string name="c18_f4" value="You're just trying to get me to shut up, aren't you? Rawk!"/>
+		<string name="c19" value="talk|chat|say "/>
+		<string name="c19_s1" value="I thought you'd never ask!"/>
+		<string name="c19_s2" value="Sometimes the cap'n doesn't use good grammar! Rawk!"/>
+		<string name="c19_s3" value="Don't get me wrong, Adriano's a fine navigator. But isn't he a little too quiet?"/>
+		<string name="c19_s4" value="Bonkey is dumb as a brick. I wouldn't want to be on his bad side, though!"/>
+		<string name="c19_f1" value="..."/>
+		<string name="c19_f2" value="..."/>
+		<string name="c19_f3" value="..."/>
+		<string name="c19_f4" value="..."/>
+		<string name="c20" value="talk|chat|say "/>
+		<string name="c20_s1" value="Quick! Get me a navigator and a helmsman, and we'll set sail for Florina Beach!"/>
+		<string name="c20_s2" value="Secrets? No such thing. If you can tell one person, you can tell everybody!"/>
+		<string name="c20_s3" value="They say it's not good to talk too much, but I've never found this to be the case! Rawk!"/>
+		<string name="c20_s4" value="A pirate ship is blind without a good parrot in the crow's nest! Rawk!"/>
+		<string name="c20_f1" value="?"/>
+		<string name="c20_f2" value="??"/>
+		<string name="c20_f3" value="???"/>
+		<string name="c20_f4" value="?"/>
+		<string name="c21" value="talk|chat|say "/>
+		<string name="c21_s1" value="Here's a question! Why is it always night in Magatia and day in Ariant?"/>
+		<string name="c21_s2" value="Who're the strongest people in Maple World? First Cygnus, then Aran. Third would be the ruler of the Elves, but she's long gone..."/>
+		<string name="c21_s3" value="Is the Black Mage real? No one's seen him, have they? It all sounds made up to me!"/>
+		<string name="c21_s4" value="According to this, a pirate is someone who...attacks ships at sea and steals from others. Huh, go figure..."/>
+		<string name="c21_f1" value="1, 2, 3..."/>
+		<string name="c21_f2" value="Hello! Hello! Kraw want a cracker!"/>
+		<string name="c21_f3" value="A, B, C..."/>
+		<string name="c21_f4" value="Rawk! Rawk!"/>
+		<string name="c22" value="showoff|trick|perform"/>
+		<string name="c22_s1" value="Want to see something cool?"/>
+		<string name="c22_s2" value="Sit back, relax, and enjoy the show. Rawk!"/>
+		<string name="c22_s3" value="Welcome to the Parrot Show."/>
+		<string name="c22_s4" value="Dun, dun, DUN!"/>
+		<string name="c22_f1" value="Not until I've warmed up!"/>
+		<string name="c22_f2" value="I don't perform tricks. Do I look like a mere pet to you? RAWK!"/>
+		<string name="c22_f3" value="Wouldn't you rather have a deep conversation?"/>
+		<string name="c22_f4" value="Sorry, I only perform tricks for people I respect."/>
+		<string name="c23" value="showoff|trick|perform"/>
+		<string name="c23_s1" value="It may be the same trick as last time, but it's always exciting!"/>
+		<string name="c23_s2" value="Finally! I was getting sick of talking!"/>
+		<string name="c23_s3" value="For you, I can do this all day!"/>
+		<string name="c23_s4" value="I'll keep going 'til all my feathers fall off! Rawk!"/>
+		<string name="c23_f1" value="I'm all tricked out."/>
+		<string name="c23_f2" value="Want to see it again? Really?"/>
+		<string name="c23_f3" value="Forget it, all right? Just forget it!"/>
+		<string name="c23_f4" value="I'm all out of feathers here."/>
+		<string name="f1_s" value="Food! Food! Food!"/>
+		<string name="f1_f" value="Do I look like a pig to you? Knock it off with the food!"/>
+		<string name="f2_s" value="I was hungry enough to eat a shark! Thanks!"/>
+		<string name="f2_f" value="Keep this up and I'll be too heavy to fly! Rawk!"/>
+		<string name="f3_s" value="I could eat cherries for every meal. Rawk!"/>
+		<string name="f3_f" value="I'm stuffed! I don't think I could even eat another cherry."/>
+		<string name="f4_s" value="All this chattering has given me an appetite!"/>
+		<string name="f4_f" value="Rawk! You're not fattening me up, are you?"/>
+		<string name="s1" value="I may talk a lot, but even I wouldn't say that!"/>
+		<string name="s2" value="Let's keep it civil, shall we?"/>
+		<string name="s3" value="I know I didn't hear that right. Did I?"/>
+		<string name="s4" value="I see what kind of person you are."/>
+	</imgdir>

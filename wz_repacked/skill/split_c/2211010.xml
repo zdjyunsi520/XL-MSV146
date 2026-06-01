@@ -1,0 +1,5 @@
+<imgdir name="2211010">
+        <string name="name" value="冰锁链" />
+        <string name="desc" value="释放冰冻锁链，吸引并冻结敌人~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage% 攻击次数: #attackCount, 最大怪物数: #mobCount, 冻结时间: #time秒" />
+    </imgdir>

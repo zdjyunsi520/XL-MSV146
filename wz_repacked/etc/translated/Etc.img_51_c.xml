@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001232">
+			<string name="name" value="白色礼物盒"/>
+			<string name="desc" value="可以在新年福袋中找到的白色礼物盒。把它带给游戏管理员可以从盒中获得礼物"/>
+		</imgdir>
+    <imgdir name="4001233">
+			<string name="name" value="红色礼物盒"/>
+			<string name="desc" value="可以在新年福袋中找到的红色礼物盒。把它带给游戏管理员可以从盒中获得礼物"/>
+		</imgdir>
+    <imgdir name="4001234">
+			<string name="name" value="蓝色礼物盒"/>
+			<string name="desc" value="可以在新年福袋中找到的蓝色礼物盒。把它带给游戏管理员可以从盒中获得礼物"/>
+		</imgdir>
+    <imgdir name="4001235">
+			<string name="name" value="紫色礼物盒"/>
+			<string name="desc" value="可以在新年福袋中找到的紫色礼物盒。把它带给游戏管理员可以从盒中获得礼物"/>
+		</imgdir>
+    <imgdir name="4001237">
+			<string name="name" value="轻微污染的岩石"/>
+			<string name="desc" value="这块岩石有轻微的黑暗力量特征"/>
+		</imgdir>
+    <imgdir name="4001238">
+			<string name="name" value="受污染的岩石"/>
+			<string name="desc" value="这块岩石确实存储着黑魔法师的的力量"/>
+		</imgdir>
+    <imgdir name="4001239">
+			<string name="name" value="严重污染的岩石"/>
+			<string name="desc" value="这块岩石存储着强大的黑魔法师的力量"/>
+		</imgdir>
+    <imgdir name="4001240">
+			<string name="name" value="受污染物品"/>
+			<string name="desc" value="因黑魔法师的力量而受到无法修复的损坏的岩石碎片"/>
+		</imgdir>
+    <imgdir name="4001241">
+			<string name="name" value="塔尔加的脚"/>
+			<string name="desc" value="塔尔加的神奇脚"/>
+		</imgdir>
+    <imgdir name="4001242">
+			<string name="name" value="猩红狮老板的脚"/>
+			<string name="desc" value="猩红狮老板的神奇脚"/>
+		</imgdir>
+    <imgdir name="4001245">
+			<string name="name" value="皮格米的黄金蛋"/>
+			<string name="desc" value="皮格米的黄金蛋。只有童话中的精灵才能孵化它"/>
+		</imgdir>
+    <imgdir name="4001246">
+			<string name="name" value="温暖的阳光"/>
+			<string name="desc" value="把温暖的阳光扔在豆茎前面可以让它生长"/>
+		</imgdir>
+    <imgdir name="4001247">
+			<string name="name" value="故事宝箱"/>
+			<string name="desc" value="藏在地下城的宝箱"/>
+		</imgdir>
+    <imgdir name="4001249">
+			<string name="name" value="枫叶项链宝石"/>
+			<string name="desc" value="可以镶嵌在枫叶项链上的美丽宝石"/>
+		</imgdir>
+    <imgdir name="4001250">
+			<string name="name" value="枫叶项链吊坠"/>
+			<string name="desc" value="可以用来制作枫叶项链"/>
+		</imgdir>
+    <imgdir name="4001252">
+			<string name="name" value="利嘴龙入场券"/>
+			<string name="desc" value="用于挑战利嘴龙的入场券"/>
+		</imgdir>
+    <imgdir name="4001254">
+			<string name="name" value="闪亮枫叶硬币"/>
+			<string name="desc" value="八角形金币，上面有枫叶标记。闪亮枫叶硬币可以向斯皮格尔曼兑换物品"/>
+		</imgdir>
+    <imgdir name="4001255">
+			<string name="name" value="黄金猪的硬蛋"/>
+			<string name="desc" value="太硬了打不开。把它带给黄金里奇可能是个好主意"/>
+		</imgdir>
+    <imgdir name="4001256">
+			<string name="name" value="原始利爪"/>
+			<string name="desc" value="盗贼精通的象征武器。虽然无法装备，但它的力量是真实存在的。必须将此物品放置在精通祭坛才能激活它"/>
+		</imgdir>
+    <imgdir name="4001257">
+			<string name="name" value="初始魔法杖"/>
+			<string name="desc" value="法师精通的象征武器。虽然无法装备，但它的力量是真实存在的。必须将此物品放置在精通祭坛才能激活它"/>
+		</imgdir>
+</imgdir>

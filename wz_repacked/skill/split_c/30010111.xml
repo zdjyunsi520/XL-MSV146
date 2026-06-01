@@ -1,0 +1,5 @@
+<imgdir name="30010111">
+        <string name="name" value="愤怒诅咒" />
+        <string name="desc" value="攻击时，有概率触发无尽之怒。触发时恢复HP，消灭的敌人会返还一定量的怒气值。" />
+        <string name="h" value="无尽之怒触发概率：#prop%。触发时恢复#x%HP。从消灭的敌人处吸收怒气。" />
+    </imgdir>

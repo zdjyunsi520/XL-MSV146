@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000078">
+		<string name="name" value="Monkey"/>
+		<string name="desc" value="The always-curious monkey never rests, wanders around."/>
+		<string name="descD" value="It was a cute little monkey, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+	</imgdir>
+    <imgdir name="5000079">
+		<string name="name" value="Black Kitty"/>
+		<string name="desc" value="They are quiet and gentle in nature, so they don't go craving for food too often. They don't seem to be too obedient of their owners."/>
+		<string name="descD" value="It was a cute little kitty, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+	</imgdir>
+    <imgdir name="5000080">
+		<string name="name" value="Penguin"/>
+		<string name="desc" value="Penguins are always energetic and in good spirits. Use the Meso Magnet and Item Pouch on the Penguin to pick up the mesos and items on the ground."/>
+		<string name="descD" value="It was a cute little Penguin, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+	</imgdir>
+    <imgdir name="5000082">
+		<string name="name" value="Baby Tiger"/>
+		<string name="desc" value="Baby Tiger, the big star of 2010. "/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000083">
+		<string name="name" value="Persian Cat"/>
+		<string name="desc" value="An elegant and prim Persian Cat."/>
+		<string name="descD" value="Your lovely Persian Cat has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000084">
+		<string name="name" value="Esel"/>
+		<string name="desc" value="Esel is a mysterious unicorn looking for the right companion."/>
+		<string name="descD" value="Your lovely unicorn, Esel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000085">
+		<string name="name" value="Cake"/>
+		<string name="desc" value="A delicious cake, baked to celebrate MapleStory's Anniversary!"/>
+		<string name="descD" value="A cake doll that was once alive. The &quot;Water of Life&quot; which sustained it has dried up."/>
+	</imgdir>
+    <imgdir name="5000086">
+		<string name="name" value="Pie"/>
+		<string name="desc" value="A delicious pie, baked to celebrate MapleStory's Anniversary!"/>
+		<string name="descD" value="A pie doll that was once alive. The &quot;Water of Life&quot; which sustained it has dried up."/>
+	</imgdir>
+    <imgdir name="5000087">
+		<string name="name" value="Black Bunny"/>
+		<string name="desc" value="A black rabbit. Kind of rude and enjoys lecturing its owner.\n#cSkills: Meso Magnet#"/>
+		<string name="descD" value="Your black rabbit has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000088">
+		<string name="name" value="Black Bunny"/>
+		<string name="desc" value="A black rabbit. Kind of rude and enjoys lecturing its owner.\n#cSkills: Meso Magnet#"/>
+		<string name="descD" value="Your black rabbit has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000089">
+		<string name="name" value="Tiel"/>
+		<string name="desc" value="Tiel is an elegant unicorn that is looking for a good friend!"/>
+		<string name="descD" value="Your elegant unicorn, Tiel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000090">
+		<string name="name" value="Galiel"/>
+		<string name="desc" value="Galiel is a sweet unicorn always ready for fun! "/>
+		<string name="descD" value="Your lovely unicorn, Galiel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000091">
+		<string name="name" value="Esel"/>
+		<string name="desc" value="Esel is a mysterious unicorn looking for the right companion."/>
+		<string name="descD" value="Your lovely unicorn, Esel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000092">
+		<string name="name" value="Tiel"/>
+		<string name="desc" value="Tiel is an elegant Unicorn, waiting for a good friend along with Esel.\n#cSkills: Meso Magnet, Item Pouch #"/>
+		<string name="descD" value="Your elegant unicorn, Tiel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000093">
+		<string name="name" value="Galiel"/>
+		<string name="desc" value="Galiel is a lovely Unicorn who enjoys frolicking with Esel and Tiel.\n#cSkills: Meso Magnet, Item Pouch #"/>
+		<string name="descD" value="Your lovely unicorn, Galiel, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+    <imgdir name="5000098">
+		<string name="name" value="Shark"/>
+		<string name="desc" value="Shark in a bowl. Designed by Cristophery.\r\n #cMesos Pickup Skill learnt#\r\n"/>
+		<string name="descD" value="Your cuddly Shark has turned into a doll. You can revive it with the Water of Life.\r\n"/>
+	</imgdir>
+    <imgdir name="5000100">
+		<string name="name" value="Kino"/>
+		<string name="desc" value="A happy-go-lucky, orange mushroom that loves shiny stones.\n#cA pet whose life will never expire.#"/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000101">
+		<string name="name" value="White Tiger"/>
+		<string name="desc" value="They are very gentle and obedient in nature, easily becoming friendly with the owner, which in turn speeds up the level-up process.\n#cA pet whose life will never expire.#"/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000102">
+		<string name="name" value="Mini Yeti"/>
+		<string name="desc" value="A trustworthy pet that quietly watches everyone's back. Quiet, but smart and gets a lot of things done.\n#cA pet whose life will never expire.#"/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+    <imgdir name="5000105">
+		<string name="name" value="Baby Tiger"/>
+		<string name="desc" value="Baby Tiger, the big star of 2010. "/>
+		<string name="descD" value="A pet whose life will never expire."/>
+	</imgdir>
+</imgdir>

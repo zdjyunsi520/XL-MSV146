@@ -1,0 +1,5 @@
+<imgdir name="112101002">
+        <string name="name" value="Leopard&apos;s Pounce" />
+        <string name="desc" value="Charge the nearest enemy and jump attack, unleashing a devastating strike that deals extra damage. [Skill Requirements]: #cLeopard&apos;s Paw Lv. 1# \n[Command]: After 2 or more hits with  #cSnow Leopard Charge#" />
+        <string name="h" value="MP Cost:  #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Blade]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z" />
+    </imgdir>

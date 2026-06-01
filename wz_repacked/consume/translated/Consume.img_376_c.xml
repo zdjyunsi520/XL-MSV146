@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860211">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复队友HP。"/>
+	</imgdir>
+    <imgdir name="2860212">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复队友HP。"/>
+	</imgdir>
+    <imgdir name="2860213">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续少量恢复队友MP。"/>
+	</imgdir>
+    <imgdir name="2860214">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复队友MP。"/>
+	</imgdir>
+    <imgdir name="2860215">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续大量恢复队友MP。"/>
+	</imgdir>
+    <imgdir name="2860216">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续少量恢复队友HP和MP。"/>
+	</imgdir>
+    <imgdir name="2860217">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续恢复队友HP和MP。"/>
+	</imgdir>
+    <imgdir name="2860218">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时持续大量恢复队友HP和MP。"/>
+	</imgdir>
+    <imgdir name="2860219">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加队友移动速度。"/>
+	</imgdir>
+    <imgdir name="2860220">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加队友移动速度。"/>
+	</imgdir>
+    <imgdir name="2860221">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加队友移动速度。"/>
+	</imgdir>
+    <imgdir name="2860222">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加队友跳跃力。"/>
+	</imgdir>
+    <imgdir name="2860223">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加队友跳跃力。"/>
+	</imgdir>
+    <imgdir name="2860224">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加队友跳跃力。"/>
+	</imgdir>
+    <imgdir name="2860225">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加队友回避率。"/>
+	</imgdir>
+    <imgdir name="2860226">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加队友回避率。"/>
+	</imgdir>
+    <imgdir name="2860227">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加队友回避率。"/>
+	</imgdir>
+    <imgdir name="2860228">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时少量增加队友命中率。"/>
+	</imgdir>
+    <imgdir name="2860229">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时增加队友命中率。"/>
+	</imgdir>
+    <imgdir name="2860230">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时大量增加队友命中率。"/>
+	</imgdir>
+</imgdir>

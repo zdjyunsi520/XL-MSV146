@@ -1,0 +1,7 @@
+<imgdir name="35001002">
+        <string name="name" value="机甲：原型" />
+        <string name="desc" value="召唤并搭乘原型机甲，大幅提升最大HP、最大MP、移动速度、攻击力、防御力和下跳范围。被攻击时获得站姿效果。\n按技能键上下坐。" />
+        <string name="h" value="MP消耗：#mpCon，最大HP：+#emhp，最大MP：+#emmp，移动速度：+20，攻击力：+#epad，防御力：+#epdd" />
+        <string name="pdesc" value="召唤并搭乘原型机甲，大幅提升最大HP、最大MP、对战模式攻击力、防御力和下跳范围。被攻击时获得站姿效果。\n按技能键上下坐。" />
+        <string name="ph" value="MP消耗：#mpCon，最大HP：+#emhp，最大MP：+#emmp，移动速度：+20，对战模式攻击力：+#PVPdamage，防御力：+#epdd" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="11100000">
+        <string name="name" value="剑精通" />
+        <string name="desc" value="提升剑的武器精通度和命中率。" />
+        <string name="h" value="Weapon Mastery: #mastery%, Accuracy: +#x" />
+    </imgdir>

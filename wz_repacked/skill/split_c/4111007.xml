@@ -1,0 +1,8 @@
+<imgdir name="4111007">
+        <string name="name" value="暗黑闪光" />
+        <string name="desc" value="暂时召唤暗影领主的飞星。附近队员会反射敌人伤害。反射伤害不超过敌人最大HP的一半~" />
+        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒，持续期间造成#damage%伤害，区域内被击中时反射#x%敌人伤害，冷却时间: #cooltime秒" />
+        <string name="pdesc" value="暂时召唤暗影领主的飞星。附近队员会反射敌人伤害。反射伤害不超过敌人最大HP的一半~" />
+        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒, 反射#x%伤害, 冷却时间: #cooltime秒" />
+        <string name="hch" value="MP消耗: #mpCon, 持续时间: #hcTime秒, 反射伤害几率: #hcProp%, 反射伤害: #hcReflect%\n冷却时间: #cooltime秒" />
+    </imgdir>

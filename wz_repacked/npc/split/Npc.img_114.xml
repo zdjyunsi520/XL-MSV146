@@ -1,0 +1,135 @@
+<imgdir name="Npc.img">
+    <imgdir name="9000064">
+		<string name="name" value="Agent S"/>
+		<string name="d0" value="Shhh! Keep it confidential!"/>
+		<string name="d1" value="I can't just let anyone in on the secret."/>
+		<string name="n0" value="Shhh! Keep it confidential!"/>
+		<string name="n1" value="Where did the other Agents go?"/>
+	</imgdir>
+    <imgdir name="9000065">
+		<string name="name" value="Agent O"/>
+		<string name="d0" value="Shhh! Keep it confidential!"/>
+		<string name="d1" value="I can't just let anyone in on the secret."/>
+		<string name="n0" value="Shhh! Keep it confidential!"/>
+		<string name="n1" value="Where did the other Agents go?"/>
+	</imgdir>
+    <imgdir name="9000066">
+		<string name="name" value="Dalair"/>
+		<string name="n0" value="I am Dalair. I serve the God of Honor. Do you happen to know anything about titles?"/>
+		<string name="n1" value="People call me Dalair. I travel from town to town searching for adventurers chosen by the God of Honor."/>
+		<string name="s0" value="My task is to separate those who will receive honor.  "/>
+		<string name="s1" value="My task is to separate those who will receive honor.  "/>
+		<string name="d0" value="Come back to me once you have finished your test. I will judge whether you deserve to receive Honor."/>
+		<string name="d1" value="The right to gain a medal is not given to just anyone."/>
+		<string name="func" value="Emissary of Honor"/>
+	</imgdir>
+    <imgdir name="9000067">
+		<string name="name" value="Wolf Awaiting Its Owner"/>
+		<string name="d0" value="*Whimper. Whimper.*"/>
+		<string name="d1" value="*Whimper. Whimper.*"/>
+	</imgdir>
+    <imgdir name="9000068">
+		<string name="name" value="Ice Piece"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="(A cursed piece of ice that has yet to melt.)"/>
+	</imgdir>
+    <imgdir name="9001000">
+		<string name="name" value="Cokebear Operator"/>
+		<string name="s0" value="How about going to Coke Town to play?!"/>
+		<string name="s1" value="Always Coca-Cola!"/>
+	</imgdir>
+    <imgdir name="9001001">
+		<string name="name" value="Lolo"/>
+		<string name="n0" value="You can see beautiful stars and the aurora from here."/>
+		<string name="n1" value="Make a wish when you see a shooting star."/>
+		<string name="d0" value="Welcome to the Coke town! This is the land of beautiful stars!"/>
+		<string name="d1" value="Aren't they beautiful? The stars in the sky?"/>
+	</imgdir>
+    <imgdir name="9001002">
+		<string name="name" value="Polar Bear Poch"/>
+		<string name="s0" value="Hello!  "/>
+		<string name="s1" value="Sliding with the cold wind is exciting!"/>
+		<string name="d1" value="Isn't it freezing here in Coke town? Be careful not to catch a cold!"/>
+		<string name="d0" value="Hello! I am Poch. My brother's name is Pooch."/>
+	</imgdir>
+    <imgdir name="9001003">
+		<string name="name" value="Polar Bear Nell"/>
+		<string name="s0" value="Please visit me if you need anything."/>
+		<string name="s1" value="How was the cola?"/>
+		<string name="func" value="Merchant"/>
+	</imgdir>
+    <imgdir name="9001004">
+		<string name="name" value="Polar Bear Hoop"/>
+		<string name="s0" value="Do you need anything?"/>
+		<string name="s1" value="Do you want to look around for good weapons?"/>
+		<string name="func" value="Weapon Seller"/>
+	</imgdir>
+    <imgdir name="9001005">
+		<string name="name" value="Polar Bear Poch"/>
+		<string name="s0" value="It's been getting cooler lately, hasn't it?"/>
+		<string name="s1" value="Nothing's more exciting than snowboarding!"/>
+		<string name="d0" value="Poch and I love each other SO much!"/>
+		<string name="d1" value="Isn't it freezing here in Coke town? Be careful not to catch a cold!"/>
+	</imgdir>
+    <imgdir name="9001006">
+		<string name="name" value="Polar Bear Poch"/>
+		<string name="s0" value="It's been getting cooler lately, hasn't it?"/>
+		<string name="s1" value="Nothing's more exciting than snowboarding!"/>
+		<string name="d0" value="Wanna go snowboarding with me?"/>
+		<string name="d1" value="You ALWAYS need to be careful when snowboarding."/>
+	</imgdir>
+    <imgdir name="9001101">
+		<string name="name" value="Master Moon Bunny"/>
+		<string name="n0" value="Welcome to the Land of the Moon."/>
+		<string name="n1" value="Did you try my tasty rice cake?"/>
+		<string name="d0" value="I am the master, the master who has made rice cakes for 16 years."/>
+		<string name="d1" value="I am the master, the master who has made rice cakes for 16 years."/>
+	</imgdir>
+    <imgdir name="9001102">
+		<string name="name" value="Baby Moon Bunny"/>
+		<string name="n0" value="How does the moon look?"/>
+		<string name="n1" value="I wonder what my Uncle Moon Bunny's doing down below."/>
+		<string name="d0" value="I haven't been to the moon because they can get very overprotective of me. They keep telling me I'll learn with age. What will I learn, exactly?"/>
+		<string name="d1" value="Thank you, traveler. You've made me realize just how beautiful the moon really is. Thank you for letting me know that some places are still beautiful."/>
+	</imgdir>
+    <imgdir name="9001103">
+		<string name="name" value="Moon Bunny the Salesman"/>
+		<string name="n0" value="So cheap, so cheap! Enjoy your rice cake here!"/>
+		<string name="n1" value="*Sigh.* Business just hasn't been the same lately."/>
+		<string name="d0" value="So chewy, so sweet! You're human, but I bet you'll like it anyway. Taste the difference between the rice cake here and the rice cake up there!"/>
+		<string name="d1" value="You know, one day we'll figure out the secrets behind human-made rice cake."/>
+	</imgdir>
+    <imgdir name="9001104">
+		<string name="name" value="Smart Moon Bunny"/>
+		<string name="n0" value="A little more human food, and I think I'll be able to figure it out."/>
+		<string name="n1" value="(Talking to self.) Reports on the similarities between humans and Moon Bunnies are being written here."/>
+		<string name="d0" value="The humans of Maple World are just as sophisticated as the bunnies of the moon. I'm trying to figure out how the humans have made such striking improvements in such a short amount of time."/>
+		<string name="d1" value="If the Moon Bunnies have the rice cake, then the humans have it as well!"/>
+	</imgdir>
+    <imgdir name="9001105">
+		<string name="name" value="Grandpa Moon Bunny"/>
+		<string name="n0" value="I am a master who only ate flowers for 70 years."/>
+		<string name="n1" value="Hmmm... The moon seems bright. Wait, aren't we standing on the moon? Then what is that?"/>
+		<string name="d0" value="The Moon Bunnies' rice cakes are by far the best, and nothing else comes close! That being said, I've been eating that for the last 70 years. I'm ready to try other types of food."/>
+		<string name="d1" value="Wow! There are other restaurants out there, too. I didn't know eating could be such an enjoyable experience!"/>
+	</imgdir>
+    <imgdir name="9001106">
+		<string name="name" value="The Lost Grey"/>
+		<string name="n0" value="Where am I?"/>
+		<string name="n1" value="Nooo..."/>
+		<string name="d0" value="I want to go home! Mwahaha!"/>
+		<string name="d1" value="I want to go home! Mwahaha!"/>
+	</imgdir>
+    <imgdir name="9001107">
+		<string name="name" value="Guide Moon Bunny"/>
+		<string name="n0" value="Follow me this way if you wish to leave."/>
+		<string name="n1" value="Yeah, this is very clear!"/>
+	</imgdir>
+    <imgdir name="9010000">
+		<string name="name" value="Maple Administrator"/>
+		<string name="d0" value="Hello! Welcome to Maple World!"/>
+		<string name="n0" value="Are you enjoying the sights of Maple World?"/>
+		<string name="n1" value="Feel free to talk to me anytime if you need my help."/>
+		<string name="d1" value="Hello there! Hope you're have a great time playing MapleStory! I'll see you at the next great event!"/>
+	</imgdir>
+</imgdir>

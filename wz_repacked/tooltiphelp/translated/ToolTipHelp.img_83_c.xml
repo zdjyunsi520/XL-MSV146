@@ -1,0 +1,69 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="240050105">
+			<string name="in00" value="迷宫房间"/>
+		</imgdir>
+    <imgdir name="240050400">
+			<string name="temp00" value="生命洞穴入口"/>
+		</imgdir>
+    <imgdir name="240070202">
+			<string name="right00" value="&lt;2099年&gt;午夜港口码头"/>
+		</imgdir>
+    <imgdir name="240070302">
+			<string name="right00" value="&lt;2215年&gt;轰炸后的市中心商业区"/>
+		</imgdir>
+    <imgdir name="240070402">
+			<string name="right00" value="&lt;2216年&gt;废墟城市地标"/>
+		</imgdir>
+    <imgdir name="240070502">
+			<string name="top00" value="&lt;2230年&gt;危险塔顶层公寓"/>
+			<string name="right00" value="&lt;2230年&gt;危险塔顶层公寓"/>
+		</imgdir>
+    <imgdir name="240070602">
+			<string name="right00" value="&lt;2503年&gt;空中战舰船尾"/>
+		</imgdir>
+    <imgdir name="260000300">
+			<string name="in00" value="城堡花园"/>
+		</imgdir>
+    <imgdir name="260010100">
+			<string name="MD00" value="迷你副本:燃烧山丘"/>
+		</imgdir>
+    <imgdir name="260020100">
+			<string name="in00" value="阿兹旺方尖碑"/>
+		</imgdir>
+    <imgdir name="260020500">
+			<string name="piramid00" value="奈特的金字塔"/>
+		</imgdir>
+    <imgdir name="280010000">
+			<string name="ps01" value="悲剧房间"/>
+		</imgdir>
+    <imgdir name="925100000">
+			<string name="next00" value="穿过船头！"/>
+		</imgdir>
+    <imgdir name="925100100">
+			<string name="next00" value="穿过甲板I"/>
+		</imgdir>
+    <imgdir name="925100200">
+			<string name="next00" value="穿过甲板II"/>
+		</imgdir>
+    <imgdir name="925100300">
+			<string name="next00" value="消灭海盗！"/>
+		</imgdir>
+    <imgdir name="925100400">
+			<string name="next00" value="船长的尊严"/>
+		</imgdir>
+    <imgdir name="957000000">
+			<string name="out00" value="出口"/>
+		</imgdir>
+    <imgdir name="957010000">
+			<string name="link1_2" value="链接2"/>
+			<string name="link1_3" value="链接3"/>
+			<string name="link1_4" value="链接4"/>
+			<string name="link1_5" value="链接5"/>
+		</imgdir>
+    <imgdir name="957011000">
+			<string name="link2_1" value="链接1"/>
+			<string name="link2_3" value="链接3"/>
+			<string name="link2_5" value="链接5"/>
+			<string name="link2_6" value="链接6"/>
+		</imgdir>
+</imgdir>

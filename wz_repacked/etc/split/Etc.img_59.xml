@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001570">
+			<string name="name" value="Advanced Secret Herb Patch Ticket"/>
+			<string name="desc" value="#cCrafting Renewal Discount#\nA special gift from Saffron for level 5-6 herbalists. Lets you enter the secret herb patch through the portal in the lower level of #cArdentmill#. The herb patch has a #c10 minute time limit#.\nYou can enter three times a day."/>
+		</imgdir>
+    <imgdir name="4001571">
+			<string name="name" value="Expert Secret Mine Ticket"/>
+			<string name="desc" value="#cCrafting Renewal Discount#\nA special gift from Cole for level 7-8 miners. Lets you enter the secret mine through the portal in the lower level of #cArdentmill#. The mine has a #c10 minute time limit#.\nYou can enter three times a day."/>
+		</imgdir>
+    <imgdir name="4001572">
+			<string name="name" value="Expert Secret Herb Patch Ticket"/>
+			<string name="desc" value="#cCrafting Renewal Discount#\nA special gift from Saffron for level 7-8 herbalists. Lets you enter the secret herb patch through the portal in the lower level of #cArdentmill#. The herb patch has a #c10 minute time limit#.\nYou can enter three times a day."/>
+		</imgdir>
+    <imgdir name="4001618">
+			<string name="name" value="Legends Maple Leaf"/>
+			<string name="desc" value="A beautiful red Maple Leaf. Cassandra exchanges these Maple Leaves for Maple Coins."/>
+		</imgdir>
+    <imgdir name="4001620">
+			<string name="name" value="Mu Gong's Emblem"/>
+			<string name="desc" value="The emblem of Mu Gong, the founder of the Mu Lung Dojo. Obtained by clearing one area of Mu Lung Dojo. Take it to So Gong to exchange it for a belt."/>
+		</imgdir>
+    <imgdir name="4001621">
+			<string name="name" value="Spiegelmann's Autograph"/>
+			<string name="desc" value="Spiegelmann gave this autograph to those who missed out on the Monster Carnival. See if collecting 10 gets you anything..."/>
+		</imgdir>
+    <imgdir name="4001623">
+			<string name="name" value="Nett's Emerald"/>
+			<string name="desc" value="A jewel given to those who overcome Nett's trials."/>
+		</imgdir>
+    <imgdir name="4001628">
+			<string name="name" value="Mask Fragment"/>
+			<string name="desc" value="Collect all of these broken fragments to make the mask whole again."/>
+		</imgdir>
+    <imgdir name="4001629">
+			<string name="name" value="Mask Key"/>
+			<string name="desc" value="An engraved key obtained from the Guest Room. What mysterious door does it open?"/>
+		</imgdir>
+    <imgdir name="4001630">
+			<string name="name" value="Library Key"/>
+			<string name="desc" value="An engraved key obtained from the Haunted Mansion Library. What could it be used for?"/>
+		</imgdir>
+    <imgdir name="4001631">
+			<string name="name" value="Pumpkin Field Key"/>
+			<string name="desc" value="An engraved key obtained from the Haunted Mansion Pumpkin Field. What could it be used for?"/>
+		</imgdir>
+    <imgdir name="4001632">
+			<string name="name" value="Messed Up Center Hall Key"/>
+			<string name="desc" value="An engraved key obtained from the Haunted Mansion Messed Up Center Hall. What could it be used for?"/>
+		</imgdir>
+    <imgdir name="4001633">
+			<string name="name" value="Worn Yellow book"/>
+			<string name="desc" value="A worn out yellow book obtained from the Haunted Mansion Library. Place it in the right location."/>
+		</imgdir>
+    <imgdir name="4001634">
+			<string name="name" value="Worn Red Book"/>
+			<string name="desc" value="A worn out red book obtained from the Haunted Mansion Library. Place it in the right location."/>
+		</imgdir>
+    <imgdir name="4001635">
+			<string name="name" value="Worn Blue Book"/>
+			<string name="desc" value="A worn out blue book obtained from the Haunted Mansion Library. Place it in the right location."/>
+		</imgdir>
+    <imgdir name="4001636">
+			<string name="name" value="Scissors Card"/>
+			<string name="desc" value="A card with scissors drawn on it."/>
+		</imgdir>
+    <imgdir name="4001637">
+			<string name="name" value="Rock Card"/>
+			<string name="desc" value="A card with a rock drawn on it"/>
+		</imgdir>
+    <imgdir name="4001638">
+			<string name="name" value="Paper Card"/>
+			<string name="desc" value="A card with paper drawn on it."/>
+		</imgdir>
+    <imgdir name="4001639">
+			<string name="name" value="Lucky Cake "/>
+			<string name="desc" value="Looks sweet and oh-so-delicious!\r\nThere might be a rare item hidden in this cake. \r\n"/>
+		</imgdir>
+    <imgdir name="4001640">
+			<string name="name" value="Legendary Coin Cake"/>
+			<string name="desc" value="Looks sweet and oh-so-delicious!\r\nThere's a chance a Legends Coin is hidden in each Legendary Coin Cake you eat. Find the coin and get rewarded!"/>
+		</imgdir>
+</imgdir>

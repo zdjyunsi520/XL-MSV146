@@ -1,0 +1,5 @@
+<imgdir name="101120206">
+        <string name="name" value="Severe Storm Break (Shock Field)" />
+        <string name="desc" value="Remains on the path of the vortex summoned by Severe Storm Break. Continuously inflicts damage on enemies within the Shock Field." />
+        <string name="h" value="Damage: #damage% every #x sec, Max Enemies Hit: #mobCount, Duration: #time sec." />
+    </imgdir>

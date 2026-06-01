@@ -1,0 +1,5 @@
+<imgdir name="112121055">
+        <string name="name" value="群体熊炮" />
+        <string name="desc" value="帮助伙伴将熊弹射向敌人。疯狂至极！" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 冷却时间: #cooltime秒" />
+    </imgdir>

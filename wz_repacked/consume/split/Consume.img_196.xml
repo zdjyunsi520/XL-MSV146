@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290310">
+		<string name="name" value="[Special Mastery Book] Glacier Chain 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cGlacier Chain# to 30.\nJob: Arch Mage (Ice, Lightning)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290311">
+		<string name="name" value="[Special Mastery Book] Elquines 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cElquines# to 30.\nJob: Arch Mage (Ice, Lightning)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290312">
+		<string name="name" value="[Special Mastery Book] Angel's Ray 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAngel's Ray# to 30.\nJob: Bishop\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290313">
+		<string name="name" value="[Special Mastery Book] Advanced Blessing 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cAdvanced Blessing# to 30.\nJob: Bishop\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290314">
+		<string name="name" value="[Special Mastery Book] Bahamut 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cBahamut# to 30.\nJob: Bishop\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290315">
+		<string name="name" value="[Special Mastery Book] Sharp Eyes 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSharp Eyes# to 30.\nJob: Bowman 4th Job, Wild Hunter\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290316">
+		<string name="name" value="[Special Mastery Book] Hurricane 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cHurricane# to 30.\nJob: Bow Master\nCondition: Skill Level: 5+"/>
+	</imgdir>
+    <imgdir name="2290317">
+		<string name="name" value="[Special Mastery Book] Spirit Link: Phoenix 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSpirit Link: Phoenix# to 30.\nJob: Bow Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290318">
+		<string name="name" value="[Special Mastery Book] Spirit Link: Frostprey 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSpirit Link: Frostprey# to 30.\nJob: Marksman\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290319">
+		<string name="name" value="[Special Mastery Book] Illusion Step 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cIllusion Step# to 30.\nJob: Bowman 4th Job\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290320">
+		<string name="name" value="[Special Mastery Book] Piercing Arrow 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cPiercing Arrow# to 30.\nJob: Marksman\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290321">
+		<string name="name" value="[Special Mastery Book] Snipe 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cSnipe# to 30.\nJob: Marksman\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290322">
+		<string name="name" value="[Mastery Book] Cannon Bazooka 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cCannon Bazooka# to 20.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290323">
+		<string name="name" value="[Mastery Book] Cannon Bazooka 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cCannon Bazooka# to 30.\nJob: Cannon Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290324">
+		<string name="name" value="[Mastery Book] Nautilus Strike 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBattleship Nautilus# to 20.\nJob: Cannon Master, Buccaneer, Corsair\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290325">
+		<string name="name" value="[Mastery Book] Nautilus Strike 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cBattleship Nautilus# to 30.\nJob: Cannon Master, Buccaneer, Corsair\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290326">
+		<string name="name" value="[Mastery Book] Pirate's Spirit 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cPirate's Spirit# to 20.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290327">
+		<string name="name" value="[Mastery Book] Pirate's Spirit 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cPirate's Spirit# to 30.\nJob: Cannon Master\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290328">
+		<string name="name" value="[Mastery Book] Advanced Blue Aura 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAdvanced Blue Aura# to 20.\nJob: Battle Mage (4th)\nCondition: Skill Level 10+"/>
+	</imgdir>
+    <imgdir name="2290329">
+		<string name="name" value="[Mastery Book] Mega Monkey Magic 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMega Monkey Magic# to 20.\nJob: Cannon Master\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

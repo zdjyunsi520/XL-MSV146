@@ -1,0 +1,5 @@
+<imgdir name="13120006">
+        <string name="name" value="弓专家" />
+        <string name="desc" value="提升弓熟练度、武器攻击力和最低暴击伤害。\n前置技能：#c弓熟练度Lv. 10#" />
+        <string name="h" value="弓熟练度：+#mastery%。武器攻击力：+#x，最低暴击伤害：+#criticaldamageMin%" />
+    </imgdir>

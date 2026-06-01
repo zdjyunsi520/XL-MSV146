@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022144">
+		<string name="name" value="Body &amp; Physics Medicine"/>
+		<string name="desc" value="A hot, soup-like medicine made out of snake tails. Drinking this will revitalize the body to the tune of Attack +8 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022145">
+		<string name="name" value="Canned Peach"/>
+		<string name="desc" value="Homemade canned peach made by the weird pharmacist in Mu Lung, Dr. Do. Recovers around 1000 HP."/>
+	</imgdir>
+    <imgdir name="2022146">
+		<string name="name" value="Peach Juice"/>
+		<string name="desc" value="Peace juice made by the weird pharmacist in Mu Lung, Dr. DonRecovers around 500 MP."/>
+	</imgdir>
+    <imgdir name="2022147">
+		<string name="name" value="Bellflower Medicine Soup"/>
+		<string name="desc" value="A herb medicine made from bellflowers and snake.\nAttack + 6 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022148">
+		<string name="name" value="Pill of Tunnel Vision"/>
+		<string name="desc" value="A mixture of marksman potion and acorn powder.\nAccuracy +240 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022149">
+		<string name="name" value="Pill of Intelligence"/>
+		<string name="desc" value="A pill of powdered deer antler and wild ginseng.  Increases Magic Attack by +10 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022150">
+		<string name="name" value="Slithering Balm"/>
+		<string name="desc" value="Topical cream made from Mr. Alli skin.\nAvoidability +240 for 10 min."/>
+	</imgdir>
+    <imgdir name="2022151">
+		<string name="name" value="Cassandra's Magic"/>
+		<string name="desc" value="A blessing from Cassandra. Weapon/Magic ATT +20, Weapon/Magic DEF +400, Accuracy/Avoidability +200, and Movement Speed/Jump +10 for 1 hour."/>
+	</imgdir>
+    <imgdir name="2022152">
+		<string name="name" value="Cassandra's Magic"/>
+		<string name="desc" value="A blessing from Cassandra. Weapon/Magic ATT +10, Weapon/Magic DEF +150, Accuracy/Avoidability +100, and Movement Speed/Jump +3 for 20 min."/>
+	</imgdir>
+    <imgdir name="2022153">
+		<string name="name" value="Happy birthday"/>
+		<string name="desc" value="Gives +20 W. Att, +30 M. Att for 15 minutes to all the characters in the map when item was used."/>
+	</imgdir>
+    <imgdir name="2022154">
+		<string name="name" value="Petit Rose"/>
+		<string name="desc" value="Gives +20 Weapon Attack, +30 Magic Attack for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022155">
+		<string name="name" value="Desert Mist"/>
+		<string name="desc" value="Pure water extracted from cactus roots. Recovers 200 MP."/>
+	</imgdir>
+    <imgdir name="2022156">
+		<string name="name" value="Black Bean Noodle"/>
+		<string name="desc" value="The go-to dish for one-man armies. These noodles taste best when you're alone in the field, lonely and miserable. Weapon ATT +13, and Magic ATT +13 for 30 min."/>
+	</imgdir>
+    <imgdir name="2022157">
+		<string name="name" value="Carnival Point 1"/>
+		<string name="desc" value="Enhances CP 3."/>
+	</imgdir>
+    <imgdir name="2022158">
+		<string name="name" value="Carnival Point 2"/>
+		<string name="desc" value="Enhances CP 3."/>
+	</imgdir>
+    <imgdir name="2022159">
+		<string name="name" value="Carnival Point 3"/>
+		<string name="desc" value="Enhances CP 3."/>
+	</imgdir>
+    <imgdir name="2022160">
+		<string name="name" value="Party Mana Elixir"/>
+		<string name="desc" value="Recovers 300 MP for all members of your party."/>
+	</imgdir>
+    <imgdir name="2022161">
+		<string name="name" value="Party Elixir"/>
+		<string name="desc" value="Recovers 50% of HP and MP for all members of your party."/>
+	</imgdir>
+    <imgdir name="2022162">
+		<string name="name" value="Party Power Elixir"/>
+		<string name="desc" value="Recovers all HP and HP for all members of your party."/>
+	</imgdir>
+    <imgdir name="2022163">
+		<string name="name" value="Party All Cure Potion"/>
+		<string name="desc" value="Cures any abnormal state affecting any members of your party."/>
+	</imgdir>
+</imgdir>

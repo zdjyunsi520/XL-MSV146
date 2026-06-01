@@ -1,0 +1,5 @@
+<imgdir name="33120000">
+        <string name="name" value="Crossbow Expert" />
+        <string name="desc" value="Increases Crossbow Mastery, Weapon Attack, and Minimum Critical Damage.\nRequired Skill: #cCrossbow Mastery Lv. 10#" />
+        <string name="h" value="Crossbow Mastery: +#mastery%, Weapon ATT: +#x, Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

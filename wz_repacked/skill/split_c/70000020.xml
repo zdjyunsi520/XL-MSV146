@@ -1,0 +1,5 @@
+<imgdir name="70000020">
+        <string name="name" value="回避转HP" />
+        <string name="desc" value="按回避率的比例提升最大HP。" />
+        <string name="h" value="#eva2hp% of Avoidability added to Max HP" />
+    </imgdir>

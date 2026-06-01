@@ -1,0 +1,5 @@
+<imgdir name="42001002">
+        <string name="name" value="以太脉冲" />
+        <string name="desc" value="按住技能键同时按方向键可以向该方向瞬移。瞬移路径上的敌人会受到伤害并有几率被眩晕。不按方向键直接按技能键会瞬移到随机位置。" />
+        <string name="h" value="普通瞬移：魔力消耗：#epCon，水平移动距离：#x，垂直移动距离：#y，最大攻击数：#mobCount，伤害：#damage%。#prop%的几率眩晕#time秒。\n指令：[#c技能键+方向键#]\n随机瞬移：魔力消耗#5\n[指令：#c技能键#]" />
+    </imgdir>

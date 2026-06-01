@@ -1,0 +1,7 @@
+<imgdir name="24121005">
+        <string name="name" value="Tempest" />
+        <string name="desc" value="Creates an expanding tornado of cards to blast through enemies." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%\nCooldown: #cooltime sec" />
+        <string name="pdesc" value="Creates an expanding tornado of cards to blast through enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%\nCooldown: #cooltime sec" />
+    </imgdir>

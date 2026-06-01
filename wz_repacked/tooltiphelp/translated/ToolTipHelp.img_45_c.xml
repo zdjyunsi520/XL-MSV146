@@ -1,0 +1,71 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="101030401">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山I(往维多利亚路方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山III"/>
+			</imgdir>
+    <imgdir name="101030402">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山II(往维多利亚路方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山IV"/>
+			</imgdir>
+    <imgdir name="101030403">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山III(往维多利亚路方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山V"/>
+			</imgdir>
+    <imgdir name="101030404">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山IV(往维多利亚路方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山VI"/>
+			</imgdir>
+    <imgdir name="101030405">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山V(往维多利亚路方向)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山VII"/>
+			</imgdir>
+    <imgdir name="101040000">
+			<imgdir name="0">
+				<string name="Title" value="烟囱树顶"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="头目鲁品巢穴"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="烟囱树顶"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="头目鲁品巢穴"/>
+			</imgdir>
+    <imgdir name="101040100">
+			<imgdir name="0">
+				<string name="Title" value="鲁品森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="黑暗树森林"/>
+			</imgdir>
+    <imgdir name="101040200">
+			<imgdir name="0">
+				<string name="Title" value="污染之树"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="头目鲁品巢穴"/>
+			</imgdir>
+    <imgdir name="101040300">
+			<imgdir name="0">
+				<string name="Title" value="邪恶能量森林1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="黑暗树森林"/>
+			</imgdir>
+</imgdir>

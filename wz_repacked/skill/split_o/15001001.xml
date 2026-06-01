@@ -1,0 +1,7 @@
+<imgdir name="15001001">
+        <string name="name" value="Straight" />
+        <string name="desc" value="Rapidly punches enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
+        <string name="pdesc" value="Rapidly punch enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
+    </imgdir>

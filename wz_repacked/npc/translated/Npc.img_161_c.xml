@@ -1,0 +1,107 @@
+<imgdir name="Npc.img">
+    <imgdir name="2135011">
+		<string name="name" value="加维拉克的符文"/>
+	</imgdir>
+    <imgdir name="2135012">
+		<string name="name" value="战士武器假人"/>
+	</imgdir>
+    <imgdir name="2135013">
+		<string name="name" value="法师武器假人"/>
+	</imgdir>
+    <imgdir name="2135014">
+		<string name="name" value="弓箭手武器假人"/>
+	</imgdir>
+    <imgdir name="2135015">
+		<string name="name" value="盗贼武器假人"/>
+	</imgdir>
+    <imgdir name="2135016">
+		<string name="name" value="海盗武器假人"/>
+	</imgdir>
+    <imgdir name="2135017">
+		<string name="name" value="战斗雕像"/>
+	</imgdir>
+    <imgdir name="9900004">
+		<string name="name" value="深渊破坏者"/>
+		<string name="n0" value="在根源之渊测试中尽力而为...咳咳...咳！咳！咳！啊！喘！呃...一想到深渊我就窒息。"/>
+	</imgdir>
+    <imgdir name="9130000">
+		<string name="name" value="武田信玄"/>
+		<string name="d0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="d1" value="疾如风，静如林！烈如火，不动如山！"/>
+		<string name="n0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="n1" value="疾如风，静如林！烈如火，不动如山！"/>
+	</imgdir>
+    <imgdir name="9130001">
+		<string name="name" value="真田幸村"/>
+		<string name="d0" value="织田有百万士兵，却没有一个真正的男人。"/>
+		<string name="d1" value="我是刺穿黑暗的长矛！"/>
+		<string name="n0" value="织田有百万士兵，却没有一个真正的男人。"/>
+		<string name="n1" value="我是刺穿黑暗的长矛！"/>
+	</imgdir>
+    <imgdir name="9130002">
+		<string name="name" value="奈尔哈特"/>
+		<string name="d0" value="你有能力为了冒险岛世界的利益而冒生命危险吗？"/>
+		<string name="d1" value="作为天鹅骑士，你的职责是第一位的。"/>
+		<string name="n0" value="我不会抛弃他们。"/>
+		<string name="n1" value="本季度的军队装备预算是..."/>
+		<string name="func" value="首相"/>
+	</imgdir>
+    <imgdir name="9130003">
+		<string name="name" value="天鹅女皇"/>
+		<string name="d0" value="欢迎来到艾琳。"/>
+		<string name="d1" value="愿你找到击败黑魔法师的力量和智慧。"/>
+		<string name="func" value="女皇"/>
+	</imgdir>
+    <imgdir name="9130004">
+		<string name="name" value="武田信玄"/>
+		<string name="d0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="d1" value="疾如风，静如林！烈如火，不动如山！"/>
+		<string name="n0" value="呸！只有懦夫才躲在城堡墙后！"/>
+		<string name="n1" value="疾如风，静如林！烈如火，不动如山！"/>
+	</imgdir>
+    <imgdir name="9130005">
+		<string name="name" value="上杉谦信"/>
+		<string name="d0" value="站直。再直一点！"/>
+		<string name="d1" value="愿你有忠诚的朋友和值得尊敬的敌人。"/>
+		<string name="n0" value="站直。再直一点！"/>
+		<string name="n1" value="愿你有忠诚的朋友和值得尊敬的敌人。"/>
+	</imgdir>
+    <imgdir name="9130006">
+		<string name="name" value="毛利元就"/>
+		<string name="d0" value="织田可以拥有这个国家，只要他别烦我！"/>
+		<string name="d1" value="俭以防匮。"/>
+		<string name="n0" value="织田可以拥有这个国家，只要他别烦我！"/>
+		<string name="n1" value="俭以防匮。"/>
+	</imgdir>
+    <imgdir name="9130007">
+		<string name="name" value="土御门春明"/>
+		<string name="d0" value="嗯，嗯，嗯。该怎么办，该怎么办？"/>
+		<string name="d1" value="你不是普通的小狗，对吗？"/>
+		<string name="n0" value="嗯，嗯，嗯。该怎么办，该怎么办？"/>
+		<string name="n1" value="你不是普通的小狗，对吗？"/>
+	</imgdir>
+    <imgdir name="9130008">
+		<string name="name" value="毛利元就"/>
+		<string name="d0" value="织田可以拥有这个国家，只要他别烦我！"/>
+		<string name="d1" value="俭以防匮。"/>
+		<string name="n0" value="织田可以拥有这个国家，只要他别烦我！"/>
+		<string name="n1" value="俭以防匮。"/>
+	</imgdir>
+    <imgdir name="9130009">
+		<string name="name" value="上杉谦信"/>
+		<string name="d0" value="站直。再直一点！"/>
+		<string name="d1" value="愿你有忠诚的朋友和值得尊敬的敌人。"/>
+		<string name="n0" value="站直。再直一点！"/>
+		<string name="n1" value="愿你有忠诚的朋友和值得尊敬的敌人。"/>
+	</imgdir>
+    <imgdir name="9130010">
+		<string name="name" value="土御门春明"/>
+		<string name="d0" value="你好。"/>
+	</imgdir>
+    <imgdir name="9130011">
+		<string name="name" value="毛利补给员"/>
+		<string name="d0" value="....."/>
+		<string name="d1" value="....."/>
+		<string name="n0" value="来这里获取毛利家族的补给！"/>
+	</imgdir>
+</imgdir>

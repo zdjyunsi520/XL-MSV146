@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3994411">
+		<string name="name" value="金色松饼"/>
+		<string name="desc" value="用米粉和栀子提取物做的松饼。"/>
+	</imgdir>
+    <imgdir name="3994412">
+		<string name="name" value="空月光瓶子"/>
+		<string name="desc" value="可装月光空玻璃瓶。持有30分钟后关闭。"/>
+	</imgdir>
+    <imgdir name="3994413">
+		<string name="name" value="月光瓶子"/>
+		<string name="desc" value="按照嘎嘎说的，30分钟后关闭瓶子。你看到瓶子里的月光了吗？不管怎样，交给嘎嘎。"/>
+	</imgdir>
+    <imgdir name="3994414">
+		<string name="name" value="彩虹计时器"/>
+		<string name="desc" value="卡珊德拉给你的计时器。显示屏似乎坏了。最好还是持有1小时。"/>
+	</imgdir>
+    <imgdir name="3994415">
+		<string name="name" value="彩虹计时器"/>
+		<string name="desc" value="卡珊德拉给你的计时器。显示60分00秒。"/>
+	</imgdir>
+    <imgdir name="3994416">
+		<string name="name" value="周三蜡笔碎片"/>
+		<string name="desc" value="从怪物公园获得的蜡笔碎片。可能可以与其他碎片组合成完整蜡笔。"/>
+	</imgdir>
+    <imgdir name="3994417">
+		<string name="name" value="红色蜡笔"/>
+		<string name="desc" value="非常红。"/>
+	</imgdir>
+    <imgdir name="3994418">
+		<string name="name" value="橙色蜡笔"/>
+		<string name="desc" value="相当橙。"/>
+	</imgdir>
+    <imgdir name="3994419">
+		<string name="name" value="黄色蜡笔"/>
+		<string name="desc" value="相当黄。"/>
+	</imgdir>
+    <imgdir name="3994420">
+		<string name="name" value="绿色蜡笔"/>
+		<string name="desc" value="超级绿。"/>
+	</imgdir>
+    <imgdir name="3994421">
+		<string name="name" value="蓝色蜡笔"/>
+		<string name="desc" value="非常蓝。"/>
+	</imgdir>
+    <imgdir name="3994422">
+		<string name="name" value="靛蓝蜡笔"/>
+		<string name="desc" value="相当靛蓝。"/>
+	</imgdir>
+    <imgdir name="3994423">
+		<string name="name" value="紫罗兰蜡笔"/>
+		<string name="desc" value="非常紫罗兰。"/>
+	</imgdir>
+    <imgdir name="3994424">
+		<string name="name" value="蜡笔碎片"/>
+		<string name="desc" value="从组队任务获得的蜡笔碎片。可能可以与其他碎片组合成完整蜡笔。"/>
+	</imgdir>
+    <imgdir name="3994425">
+		<string name="name" value="周六蜡笔碎片"/>
+		<string name="desc" value="从怪物获得的蜡笔碎片。可能可以与其他碎片组合。"/>
+	</imgdir>
+    <imgdir name="3994426">
+		<string name="name" value="30分钟后进化成腰带的石头"/>
+		<string name="desc" value="金里奇给你的道具，声称他完全不知道这是什么。确保30分钟后装备背包留出1个空位。"/>
+	</imgdir>
+    <imgdir name="3994427">
+		<string name="name" value="神秘宝石"/>
+		<string name="desc" value="1小时后宝石变成可用于升级进化腰带的道具。确保1小时后消耗背包留出1个空位。"/>
+	</imgdir>
+    <imgdir name="3994428">
+		<string name="name" value="坚固笼子钥匙"/>
+		<string name="desc" value="打开关着小米沃克男孩笼子的钥匙。#c点击#笼子，背包中有此钥匙。"/>
+	</imgdir>
+    <imgdir name="3994429">
+		<string name="name" value="美味饭卷"/>
+		<string name="desc" value="用多种美味食材制成的美味饭卷。"/>
+	</imgdir>
+    <imgdir name="3994430">
+		<string name="name" value="辣鸡肉块"/>
+		<string name="desc" value="涂满红色辣酱的美味鸡肉块。"/>
+	</imgdir>
+</imgdir>

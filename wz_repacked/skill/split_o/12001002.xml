@@ -1,0 +1,5 @@
+<imgdir name="12001002">
+        <string name="name" value="Magic Armor" />
+        <string name="desc" value="Condenses magic into armor for a period of time to increase DEF. \nRequired Skill: \n#cMagic Guard Lv. 3#" />
+        <string name="h" value="MP Cost: -#mpCon, Weapon DEF: +#pdd, Magic DEF: +#mdd, Duration: #time sec" />
+    </imgdir>

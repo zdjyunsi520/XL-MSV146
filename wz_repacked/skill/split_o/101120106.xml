@@ -1,0 +1,5 @@
+<imgdir name="101120106">
+        <string name="name" value="Mega Groundbreaker Electric Field" />
+        <string name="desc" value="Lasts for a short time where Mega Groundbreaker hits. Continually inflicts damage on enemies touching the Shock Field." />
+        <string name="h" value="Inflicts #damage% DoT damage on up to #mobCount enemies every #x sec for #time sec." />
+    </imgdir>

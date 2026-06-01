@@ -1,0 +1,5 @@
+<imgdir name="31221002">
+        <string name="name" value="冥界斩裂" />
+        <string name="desc" value="攻击敌人并撕裂其护甲！被命中的敌人会获得减益效果，暂时降低防御力。" />
+        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Debuff Duration: #time sec, Enemy DEF: #y%" />
+    </imgdir>

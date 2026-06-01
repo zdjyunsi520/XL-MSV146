@@ -1,0 +1,127 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="12">
+					<vector name="lt" x="12" y="296"/>
+					<vector name="rb" x="69" y="309"/>
+					<string name="Title" value="DEX"/>
+					<string name="Desc" value="Dexterity determines Xenon’s Accuracy and Avoidability, and affects Xenon's attack strength."/>
+				</imgdir>
+    <imgdir name="13">
+					<vector name="lt" x="12" y="313"/>
+					<vector name="rb" x="69" y="329"/>
+					<string name="Title" value="INT"/>
+					<string name="Desc" value="Intelligence determines the power and success rate of magic attacks, but does not affect Xenon's attacks."/>
+				</imgdir>
+    <imgdir name="14">
+					<vector name="lt" x="12" y="332"/>
+					<vector name="rb" x="69" y="347"/>
+					<string name="Title" value="LUK"/>
+					<string name="Desc" value="Luck determines Xenon’s Avoidability, and affects Xenon's attack strength."/>
+				</imgdir>
+    <imgdir name="DKtransForm">
+				<imgdir name="kaiserGaugeGuide">
+					<imgdir name="0">
+						<string name="Title" value="Morph Gauge"/>
+						<string name="Desc" value="Activate the Dragon Link skill to fill up the Morph Gauge quicker than from using normal skills.\n#cTransfiguration skill effects# will activate, based on how full the Morph Gauge is."/>
+						<vector name="lt" x="0" y="0"/>
+						<vector name="rb" x="96" y="96"/>
+					</imgdir>
+    <imgdir name="kaiserTransformGuide">
+					<imgdir name="0">
+						<string name="Title" value="Final Transfiguration"/>
+						<string name="Desc" value="Only certain skills can be used while Final Trance is active."/>
+						<vector name="lt" x="0" y="100"/>
+						<vector name="rb" x="97" y="185"/>
+					</imgdir>
+    <imgdir name="MonsterBattle">
+				<imgdir name="0">
+					<vector name="lt" x="330" y="85"/>
+					<vector name="rb" x="416" y="99"/>
+					<string name="Title" value="Level"/>
+					<string name="Desc" value="The Battle Monster's level. Basic stats will increase at higher levels, and monsters will have access to more skills."/>
+				</imgdir>
+    <imgdir name="1">
+					<vector name="lt" x="330" y="103"/>
+					<vector name="rb" x="416" y="117"/>
+					<string name="Title" value="EXP"/>
+					<string name="Desc" value="Reach the EXP target to raise levels. The main Battle Monster will receive EXP when you defeat monsters. Less EXP will be gained if the defeated monster's level is low, and no EXP will be rewarded for hunting monsters that are 20 or more levels below you."/>
+				</imgdir>
+    <imgdir name="2">
+					<vector name="lt" x="330" y="121"/>
+					<vector name="rb" x="416" y="135"/>
+					<string name="Title" value="HP"/>
+					<string name="Desc" value="The Battle Monster's max HP. You will lose if your monster's HP reaches 0 first. You can raise this by increasing the monster's level and equipping Battle Monster equipment."/>
+				</imgdir>
+    <imgdir name="3">
+					<vector name="lt" x="330" y="139"/>
+					<vector name="rb" x="416" y="153"/>
+					<string name="Title" value="ATT"/>
+					<string name="Desc" value="This will determine the damage you deal in battles. You can raise this by increasing the monster's level and equipping Battle Monster equipment."/>
+				</imgdir>
+    <imgdir name="4">
+					<vector name="lt" x="330" y="157"/>
+					<vector name="rb" x="416" y="171"/>
+					<string name="Title" value="DEF"/>
+					<string name="Desc" value="This will determine the damage you receive in battles. Equip defensive equipment to raise this value."/>
+				</imgdir>
+    <imgdir name="5">
+					<vector name="lt" x="330" y="175"/>
+					<vector name="rb" x="416" y="189"/>
+					<string name="Title" value="Skill Cost"/>
+					<string name="Desc" value="The cap for your attack and defense skills when you configure Battle Monster skills. The cap will increase as you increase your monster's level."/>
+				</imgdir>
+    <imgdir name="6">
+					<vector name="lt" x="330" y="193"/>
+					<vector name="rb" x="416" y="207"/>
+					<string name="Title" value="Monster Captured"/>
+					<string name="Desc" value="The total number of Battle Monsters you've captured. The number of Level 60 Battle Monsters will determine the bonus stat given to all Battle Monsters.\r\n+1% to all stats per Level 60 Battle Monster (max +20%)"/>
+				</imgdir>
+    <imgdir name="7">
+					<vector name="lt" x="330" y="238"/>
+					<vector name="rb" x="416" y="252"/>
+					<string name="Title" value="Group"/>
+					<string name="Desc" value="Group placement is based on your Ladder Points. Ladder Point requirements are as follows.\nBeginner: 1599 or lower\nAmateur: 1600 - 1699\nSemi-pro: 1700 - 1799\nPro: 1800 - 1899\nAll-star: 1900 - 1999\nSuperstar: 2000 - 2199\nLegendary: 2200 - 2499\nMythical: 2500 or above"/>
+				</imgdir>
+    <imgdir name="8">
+					<vector name="lt" x="330" y="256"/>
+					<vector name="rb" x="416" y="270"/>
+					<string name="Title" value="Ladder Points"/>
+					<string name="Desc" value="Your League Battle score. You'll start off at 1500 points, and the points will either increase or decrease depending on your victories and losses. You'll earn more points for winning against opponents with more points than you, and lose more points for losing against opponents with less points than you."/>
+				</imgdir>
+    <imgdir name="9">
+					<vector name="lt" x="330" y="274"/>
+					<vector name="rb" x="416" y="288"/>
+					<string name="Title" value="Battle Charge"/>
+					<string name="Desc" value="You'll use up 1 Battle Charge every time you enter a League Battle. The cap for Battle Charges is 10, and you'll earn 1 every 5 minutes."/>
+				</imgdir>
+    <imgdir name="10">
+					<vector name="lt" x="330" y="292"/>
+					<vector name="rb" x="416" y="306"/>
+					<string name="Title" value="PVP Cost"/>
+					<string name="Desc" value="Cost for requesting a League Battle with a target. You can fight up to 3 times a day."/>
+				</imgdir>
+    <imgdir name="11">
+					<vector name="lt" x="330" y="337"/>
+					<vector name="rb" x="416" y="351"/>
+					<string name="Title" value="Unique Ability"/>
+					<string name="Desc" value="Affects Battle Monster stats in battles. Abilities are randomly set when you capture a Battle Monster. Other abilities may be added when you release and recapture the monster. Each Battle Monster will have 2 Unique Abilities."/>
+				</imgdir>
+    <imgdir name="12">
+					<vector name="lt" x="330" y="355"/>
+					<vector name="rb" x="416" y="369"/>
+					<string name="Title" value="Unique Ability"/>
+					<string name="Desc" value="Affects Battle Monster stats in battles. Abilities are randomly set when you capture a Battle Monster. Other abilities may be added when you release and recapture the monster. Each Battle Monster will have 2 Unique Abilities."/>
+				</imgdir>
+    <imgdir name="StatDetail">
+				<imgdir name="0">
+					<vector name="lt" x="12" y="41"/>
+					<vector name="rb" x="69" y="56"/>
+					<string name="Title" value="Stat ATT"/>
+					<string name="Desc" value="Where the actual Damage is displayed. Magic Attack is displayed when you're equipped with a Wand, Staff, or Shining Road, and Weapon Attack is displayed when you're equipped with other weapons."/>
+				</imgdir>
+    <imgdir name="1">
+					<vector name="lt" x="12" y="59"/>
+					<vector name="rb" x="69" y="74"/>
+					<string name="Title" value="Critical Activation"/>
+					<string name="Desc" value="Where Critical Rate is displayed. You can enhance this value by using skills or items. "/>
+				</imgdir>
+</imgdir>

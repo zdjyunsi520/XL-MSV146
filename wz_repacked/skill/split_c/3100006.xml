@@ -1,0 +1,5 @@
+<imgdir name="3100006">
+        <string name="name" value="体能训练" />
+        <string name="desc" value="通过体能训练永久提升STR和DEX。" />
+        <string name="h" value="Permanently increase STR by #strX and DEX by #dexX." />
+    </imgdir>

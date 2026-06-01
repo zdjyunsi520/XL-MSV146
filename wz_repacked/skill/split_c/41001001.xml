@@ -1,0 +1,5 @@
+<imgdir name="41001001">
+        <string name="name" value="拔刀姿势" />
+        <string name="desc" value="剑豪进入收刀架势，非常适合防守反击。\n这是#c开关技能#，激活或取消特定效果。" />
+        <string name="h" value="每秒消耗MP：#mpCon。拔刀姿势期间，暴击率提升：#y%，攻击速度提升，眩晕概率：#prop%，持续#time秒。" />
+    </imgdir>

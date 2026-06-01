@@ -1,0 +1,5 @@
+<imgdir name="15000000">
+        <string name="name" value="迅捷身法" />
+        <string name="desc" value="永久提升命中率、最大移动速度和跳跃力。" />
+        <string name="h" value="命中率：+#accX，最大移动速度：+#speedMax，跳跃力：+#psdJump" />
+    </imgdir>

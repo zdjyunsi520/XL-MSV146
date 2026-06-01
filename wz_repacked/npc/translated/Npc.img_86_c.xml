@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="1013105">
+		<string name="name" value="奶牛"/>
+		<string name="n0" value="哞哞哞。"/>
+		<string name="n1" value="哞噢噢！"/>
+		<string name="d0" value="哞噢噢噢。"/>
+		<string name="d1" value="哞？"/>
+	</imgdir>
+    <imgdir name="1013201">
+		<string name="name" value="卡米拉"/>
+		<string name="n0" value="救...救命。"/>
+		<string name="n1" value="*气喘吁吁*"/>
+	</imgdir>
+    <imgdir name="1013202">
+		<string name="name" value="黑色影子"/>
+	</imgdir>
+    <imgdir name="1013203">
+		<string name="name" value="Hiver"/>
+		<string name="func" value="黑翼队长"/>
+		<string name="n0" value="木莲的情况似乎进展顺利..."/>
+		<string name="d0" value="这一切都是为了复活他。"/>
+		<string name="d1" value="这一切都是为了复活他。"/>
+		<string name="n1" value="我需要更多能干的追随者！"/>
+	</imgdir>
+    <imgdir name="1011101">
+		<string name="name" value="茂将军"/>
+		<string name="func" value="街边小贩"/>
+		<string name="n0" value="战士、法师、弓手、飞贼、海盗！都过来看看我的绝世武器和防具！"/>
+		<string name="n1" value="哇！弓箭手村的人真多！做生意再合适不过了！"/>
+	</imgdir>
+    <imgdir name="1013106">
+		<string name="name" value="发光石碑"/>
+	</imgdir>
+    <imgdir name="1013204">
+		<string name="name" value="Hiver"/>
+	</imgdir>
+    <imgdir name="1013205">
+		<string name="name" value="Afrien"/>
+		<string name="d0" value="（这是一条巨大的玛玉龙，眼睛平静地闭着，仿佛在沉睡中。）"/>
+		<string name="d1" value="（这是一条巨大的玛玉龙，眼睛平静地闭着，仿佛在沉睡中。）"/>
+	</imgdir>
+    <imgdir name="1013206">
+		<string name="name" value="Hiver"/>
+	</imgdir>
+    <imgdir name="1013207">
+		<string name="name" value="奥拉夫"/>
+		<string name="s0" value="如果你决定要回来，告诉我一声。"/>
+		<string name="s1" value="真是个练习的好地方。我应该找个时间来这里的。"/>
+	</imgdir>
+    <imgdir name="2085000">
+		<string name="name" value="Matada "/>
+		<string name="func" value="半身人冒险家"/>
+		<string name="d0" value="我已经很久没回家了。"/>
+		<string name="d1" value="冒险总是充满乐趣的。"/>
+		<string name="n0" value="光是想到飞翔不就让你激动不已吗？"/>
+		<string name="n1" value="如果有机会，我想在天空翱翔。"/>
+	</imgdir>
+    <imgdir name="2085001">
+		<string name="name" value="深红天空之门"/>
+	</imgdir>
+    <imgdir name="2085002">
+		<string name="name" value="深红天空之门"/>
+	</imgdir>
+    <imgdir name="2085003">
+		<string name="name" value="龙骑将"/>
+		<string name="d0" value="我深深地为我的行为感到后悔..."/>
+		<string name="d1" value="请接受我的道歉..."/>
+	</imgdir>
+    <imgdir name="2092101">
+		<string name="name" value="波特"/>
+	</imgdir>
+    <imgdir name="9000071">
+		<string name="name" value="Keroben"/>
+		<string name="func" value="对决森林守门人"/>
+	</imgdir>
+    <imgdir name="9201145">
+		<string name="name" value="巨型双龙之卵"/>
+		<string name="d0" value="嗡嗡嗡嗡！"/>
+	</imgdir>
+    <imgdir name="9201148">
+		<string name="name" value="美丽护士"/>
+		<string name="func" value="巡回整形医生"/>
+		<string name="n0" value="如果你不喜欢镜子里的自己，我可以让你变漂亮。"/>
+		<string name="n1" value="只要稍微这里整一下那里修一下，我就能让你变得很有魅力。"/>
+	</imgdir>
+    <imgdir name="9000072">
+		<string name="name" value="Somchai"/>
+		<string name="d0" value="邪恶已经在神圣的训练森林中苏醒。"/>
+		<string name="d1" value="我们还能回到以前的嘉年华吗？"/>
+		<string name="n0" value="在寺庙里请保持尊敬。"/>
+		<string name="n1" value="走正道是不需要花钱的。"/>
+	</imgdir>
+    <imgdir name="9000073">
+		<string name="name" value="龙大师"/>
+		<string name="d0" value="你越谈论恐惧，恐惧就暴露得越多；你越不承认你的恐惧，恐惧就越无法束缚你。"/>
+		<string name="d1" value="你越谈论恐惧，恐惧就暴露得越多；你越不承认你的恐惧，恐惧就越无法束缚你。"/>
+		<string name="n0" value="红哥布林好可怕..."/>
+		<string name="n1" value="红哥布林不可怕..."/>
+	</imgdir>
+</imgdir>

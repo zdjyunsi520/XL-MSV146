@@ -1,0 +1,5 @@
+<imgdir name="101000102">
+        <string name="name" value="Air Riot Shock Wave" />
+        <string name="desc" value="Generates a large shockwave outside Air Riot&apos;s normal attack range. Enemies that are hit have a chance of being stunned." />
+        <string name="h" value="Attack up to #mobCount enemies at #damage% ATT #attackCount times.\nThe enemies have a #prop% chance of being Stunned for #time seconds." />
+    </imgdir>

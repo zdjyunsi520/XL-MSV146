@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2510165">
+		<string name="name" value="弓用锋利箭配方"/>
+		<string name="desc" value="弓用锋利箭的配方。"/>
+	</imgdir>
+    <imgdir name="2510166">
+		<string name="name" value="弩用锋利箭配方"/>
+		<string name="desc" value="弩用锋利箭的配方。"/>
+	</imgdir>
+    <imgdir name="2510167">
+		<string name="name" value="弓用钛箭配方"/>
+		<string name="desc" value="弓用钛箭的配方。"/>
+	</imgdir>
+    <imgdir name="2510168">
+		<string name="name" value="弩用钛箭配方"/>
+		<string name="desc" value="弩用钛箭的配方。"/>
+	</imgdir>
+    <imgdir name="2510169">
+		<string name="name" value="火焰飞镖配方"/>
+		<string name="desc" value="火焰飞镖的配方。"/>
+	</imgdir>
+    <imgdir name="2510170">
+		<string name="name" value="巨型子弹配方"/>
+		<string name="desc" value="巨型子弹的配方。"/>
+	</imgdir>
+    <imgdir name="2510171">
+		<string name="name" value="机器人(男)配方"/>
+		<string name="desc" value="机器人(男)的配方。"/>
+	</imgdir>
+    <imgdir name="2510172">
+		<string name="name" value="机器人(女)配方"/>
+		<string name="desc" value="机器人(女)的配方。"/>
+	</imgdir>
+    <imgdir name="2510173">
+		<string name="name" value="豪华机器人(男)配方"/>
+		<string name="desc" value="豪华机器人(男)的配方。"/>
+	</imgdir>
+    <imgdir name="2510174">
+		<string name="name" value="豪华机器人(女)配方"/>
+		<string name="desc" value="豪华机器人(女)的配方。"/>
+	</imgdir>
+    <imgdir name="2510175">
+		<string name="name" value="银心配方"/>
+		<string name="desc" value="银心的配方。"/>
+	</imgdir>
+    <imgdir name="2510176">
+		<string name="name" value="铁心配方"/>
+		<string name="desc" value="铁心的配方。"/>
+	</imgdir>
+    <imgdir name="2510177">
+		<string name="name" value="力量行者发带配方"/>
+		<string name="desc" value="力量行者发带的配方。"/>
+	</imgdir>
+    <imgdir name="2510178">
+		<string name="name" value="神秘行者发带配方"/>
+		<string name="desc" value="神秘行者发带的配方。"/>
+	</imgdir>
+    <imgdir name="2510179">
+		<string name="name" value="风行者发带配方"/>
+		<string name="desc" value="风行者发带的配方。"/>
+	</imgdir>
+    <imgdir name="2510180">
+		<string name="name" value="雾行者发带配方"/>
+		<string name="desc" value="雾行者发带的配方。"/>
+	</imgdir>
+    <imgdir name="2510181">
+		<string name="name" value="命运行者发带配方"/>
+		<string name="desc" value="命运行者发带的配方。"/>
+	</imgdir>
+    <imgdir name="2510182">
+		<string name="name" value="力量行者板甲配方"/>
+		<string name="desc" value="力量行者板甲的配方。"/>
+	</imgdir>
+    <imgdir name="2510183">
+		<string name="name" value="神秘行者板甲配方"/>
+		<string name="desc" value="神秘行者板甲的配方。"/>
+	</imgdir>
+    <imgdir name="2510184">
+		<string name="name" value="风行者板甲配方"/>
+		<string name="desc" value="风行者板甲的配方。"/>
+	</imgdir>
+</imgdir>

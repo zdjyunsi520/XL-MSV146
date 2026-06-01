@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="5721053"><string name="name" value="Epic Adventure"/><string name="desc" value="Call upon the bravery deep within to increase damage output and max damage."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Explorer class within the party"/></imgdir>
+    <imgdir name="5721054"><string name="name" value="Bionic Maximizer"/><string name="desc" value="Bioscans Jett to identify weaknesses and maximize defense."/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Max HP: +#x%, Status Ailment and Elemental Resistance: +#y%, Damage Intake: -#w%"/></imgdir>
+    <imgdir name="100001024"><string name="name" value="Follow the Lead"/><string name="desc" value="Allows one to lead up to 3 pets at once. (Passive skill)"/></imgdir>
+    <imgdir name="0000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="10000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20010223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="30000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20020223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="30010223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20030223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="20040223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="32000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="33000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="35000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="36000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="50000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="60000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="60010223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+    <imgdir name="100000223"><string name="name" value="Goddess&apos; Guard"/><string name="desc" value="When you wear the ring, the goddess of victory will appear to guard you"/></imgdir>
+</imgdir>

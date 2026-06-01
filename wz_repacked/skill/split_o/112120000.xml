@@ -1,0 +1,5 @@
+<imgdir name="112120000">
+        <string name="name" value="Friend Launcher" />
+        <string name="desc" value="Launch your pals at faraway enemies with up to 4 extra hits of the [Attack Key]." />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: 1" />
+    </imgdir>

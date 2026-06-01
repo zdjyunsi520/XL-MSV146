@@ -1,0 +1,7 @@
+<imgdir name="31000004">
+        <string name="name" value="恶魔鞭笞" />
+        <string name="desc" value="连按攻击键用黑暗之力鞭笞前方敌人4次。每次击中会回复部分恶魔之力。" />
+        <string name="h" value="第1、2击：伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount。\n第3击：伤害：#v%，最大攻击敌人数：#u，攻击次数：#w\n第4击：伤害：#y%，最大攻击敌人数：#x，攻击次数：#z" />
+        <string name="pdesc" value="连按攻击键用黑暗之力鞭笞前方敌人4次。每次击中会回复部分恶魔之力。" />
+        <string name="ph" value="第1、2击：伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount。\n第3击：伤害：#v%，最大攻击敌人数：#u，攻击次数：#w\n第4击：伤害：#y%，最大攻击敌人数：#x，攻击次数：#z" />
+    </imgdir>

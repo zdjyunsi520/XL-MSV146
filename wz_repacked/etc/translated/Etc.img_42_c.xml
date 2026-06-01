@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001032">
+			<string name="name" value="沙伦三世的鞋子"/>
+			<string name="desc" value="沙伦三世穿的鞋子"/>
+		</imgdir>
+    <imgdir name="4001033">
+			<string name="name" value="沙伦三世的上衣"/>
+			<string name="desc" value="沙伦三世穿的上衣"/>
+		</imgdir>
+    <imgdir name="4001034">
+			<string name="name" value="沙伦三世的皇冠"/>
+			<string name="desc" value="沙伦三世佩戴的华丽皇冠"/>
+		</imgdir>
+    <imgdir name="4001035">
+			<string name="name" value="邪恶印记"/>
+			<string name="desc" value="象征埃雷戈斯忠实信徒的印记。仅仅看着它就能感受到其纯粹的邪恶力量"/>
+		</imgdir>
+    <imgdir name="4001036">
+			<string name="name" value="."/>
+			<string name="desc" value="."/>
+		</imgdir>
+    <imgdir name="4001037">
+			<string name="name" value="生锈的钥匙"/>
+			<string name="desc" value="打开通往小型秘密房间之门的生锈钥匙"/>
+		</imgdir>
+    <imgdir name="4001038">
+			<string name="name" value="树桩橡皮"/>
+			<string name="desc" value="树桩形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001039">
+			<string name="name" value="蘑菇妈妈橡皮"/>
+			<string name="desc" value="蘑菇妈妈形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001040">
+			<string name="name" value="卢宾橡皮"/>
+			<string name="desc" value="卢宾形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001041">
+			<string name="name" value="幽灵橡皮"/>
+			<string name="desc" value="幽灵形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001042">
+			<string name="name" value="史莱姆橡皮"/>
+			<string name="desc" value="史莱姆形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001043">
+			<string name="name" value="章鱼橡皮"/>
+			<string name="desc" value="章鱼形状的橡皮。还有其他五种不同形状的橡皮。尝试收集全部！"/>
+		</imgdir>
+    <imgdir name="4001044">
+			<string name="name" value="女神雕像：第1块"/>
+			<string name="desc" value="女神雕像的第1块碎片。似乎是右翼底部的一块"/>
+		</imgdir>
+    <imgdir name="4001045">
+			<string name="name" value="女神雕像：第2块"/>
+			<string name="desc" value="女神雕像的第2块碎片。似乎是头发的一部分"/>
+		</imgdir>
+    <imgdir name="4001046">
+			<string name="name" value="女神雕像：第1块"/>
+			<string name="desc" value="女神雕像的第1块碎片。似乎是右翼的一块"/>
+		</imgdir>
+    <imgdir name="4001047">
+			<string name="name" value="女神雕像：第4块"/>
+			<string name="desc" value="女神雕像的第4块碎片。似乎是左翼底部的一块"/>
+		</imgdir>
+    <imgdir name="4001048">
+			<string name="name" value="女神雕像：第4块"/>
+			<string name="desc" value="女神雕像的第4块碎片。似乎是水晶球的一部分"/>
+		</imgdir>
+    <imgdir name="4001049">
+			<string name="name" value="女神雕像：第3块"/>
+			<string name="desc" value="女神雕像的第3块碎片。似乎是左翼的一块"/>
+		</imgdir>
+    <imgdir name="4001050">
+			<string name="name" value="第1小块"/>
+			<string name="desc" value="组成女神雕像第1块的小块之一"/>
+		</imgdir>
+    <imgdir name="4001051">
+			<string name="name" value="第2小块"/>
+			<string name="desc" value="组成女神雕像第2块的小块之一"/>
+		</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="1211014">
+        <string name="name" value="守护之盾" />
+        <string name="desc" value="暂时降低自身#c格挡几率和防御力#，减少周围队友被击中时受到的伤害。给队友一定几率进行格挡。暂时提升自身#c武器攻击力#~" />
+        <string name="h" value="MP消耗: #mpCon, 格挡几率: -#x%, 防御力: #z%，附近队员被击中时(除自己): 伤害 -#y%且格挡几率 +#x%，#c自身武器攻击力 +#indiePad#" />
+    </imgdir>

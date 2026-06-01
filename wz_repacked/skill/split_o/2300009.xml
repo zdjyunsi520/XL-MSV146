@@ -1,0 +1,5 @@
+<imgdir name="2300009">
+        <string name="name" value="Blessed Ensemble" />
+        <string name="desc" value="#cIncreases your total damage in proportion to the number of nearby party members you have buffed#. Obtains additional #cParty Bonus EXP# based on the number of Clerics, Priests, Bishops in the party. Bonus cannot be greater than 60% and does not apply if the level difference is too big between party members. Your own effects do not apply to you." />
+        <string name="h" value="#cIncreases total damage by #x% in proportion to the number of nearby party members you have buffed#. #c20% bonus EXP for each# Cleric in the party." />
+    </imgdir>

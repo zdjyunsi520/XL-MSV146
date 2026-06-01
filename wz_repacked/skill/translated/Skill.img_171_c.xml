@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1121053"><string name="name" value="史诗冒险"/><string name="desc" value="唤起内心深处的勇气，提升伤害和最大伤害值。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，伤害：+#indieDamR%，最大伤害值：+#indieMaxDamageOver\n冷却时间：#cooltime秒。适用于队伍中的所有冒险家职业"/></imgdir>
+    <imgdir name="1121054"><string name="name" value="瓦尔哈拉的呐喊"/><string name="desc" value="召唤远古之力来保护你。"/><string name="h" value="消耗MP：#mpCon，持续时间：#time秒，物理攻击力：+#indiePad，提升属性和异常状态防御力#x，冷却时间：#cooltime秒"/></imgdir>
+    <imgdir name="51120030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="力量+#strX"/></imgdir>
+    <imgdir name="51120031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="敏捷+#dexX"/></imgdir>
+    <imgdir name="51120032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="智力+#intX"/></imgdir>
+    <imgdir name="51120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="51120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="51120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="51120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="51120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="51120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="51120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="51120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="51120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="51120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="51120043"><string name="name" value="不朽精神-持久"/><string name="desc" value="延长不朽精神的持续时间。"/><string name="h" value="持续时间：+#time秒"/></imgdir>
+    <imgdir name="51120044"><string name="name" value="不朽精神-铁壁"/><string name="desc" value="提升不朽精神的防御力加成。"/><string name="h" value="额外#x%防御力"/></imgdir>
+    <imgdir name="51120045"><string name="name" value="不朽精神-准备"/><string name="desc" value="提升不朽精神的异常状态和属性抗性。"/><string name="h" value="额外#y%异常状态和所有属性抗性"/></imgdir>
+    <imgdir name="51120046"><string name="name" value="光辉爆破-强化"/><string name="desc" value="提升光辉爆破的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="51120047"><string name="name" value="光辉爆破-扩散"/><string name="desc" value="增加光辉爆破可攻击的怪物数量。"/><string name="h" value="攻击怪物数：+#targetPlus"/></imgdir>
+</imgdir>

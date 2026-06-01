@@ -1,0 +1,5 @@
+<imgdir name="21110010">
+        <string name="name" value="劈裂之击" />
+        <string name="desc" value="无视怪物一部分防御力，并对BOSS怪物造成额外伤害。" />
+        <string name="h" value="无视防御力：#ignoreMobpdpR%，对BOSS怪物伤害：+#bdR%" />
+    </imgdir>

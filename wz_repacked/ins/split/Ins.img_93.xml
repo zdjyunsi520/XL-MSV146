@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010020">
+		<string name="name" value="Kotats"/>
+		<string name="desc" value="Recovers 30 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3012007">
+		<string name="name" value="Fox God"/>
+		<string name="desc" value="Recovers 60 HP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010412">
+		<string name="name" value="Petronas Towers Chair"/>
+		<string name="desc" value="Recovers 50 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010583">
+		<string name="name" value="Ribbon Snake Chair"/>
+		<string name="desc" value="Recovers 150 HP/MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3700173">
+		<string name="name" value="Beginner Monster Battler"/>
+		<string name="desc" value="A title for Beginner Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF."/>
+	</imgdir>
+    <imgdir name="3700174">
+		<string name="name" value="Amateur Monster Battler"/>
+		<string name="desc" value="A title for Amateur Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+1#"/>
+	</imgdir>
+    <imgdir name="3700175">
+		<string name="name" value="Semi Pro Monster Battler"/>
+		<string name="desc" value="A title for Semi Pro Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+2#"/>
+	</imgdir>
+    <imgdir name="3700176">
+		<string name="name" value="Pro Monster Battler"/>
+		<string name="desc" value="A title for Pro Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+3#"/>
+	</imgdir>
+    <imgdir name="3700177">
+		<string name="name" value="All Star Monster Battler"/>
+		<string name="desc" value="A title for All Star Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+4#"/>
+	</imgdir>
+    <imgdir name="3700178">
+		<string name="name" value="Superstar Monster Battler"/>
+		<string name="desc" value="A title for Superstar Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+5#"/>
+	</imgdir>
+    <imgdir name="3700179">
+		<string name="name" value="Legendary Monster Battler"/>
+		<string name="desc" value="A title for Legendary Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+6#"/>
+	</imgdir>
+    <imgdir name="3700180">
+		<string name="name" value="Mythical Monster Battler"/>
+		<string name="desc" value="A title for Mythical Monster Battlers. It disappears when you log out, but you can always get it again. \r\n#cClick to turn ON/OFF.#\r\n#c&lt;Effects&gt;\n ATT/Magic ATT+7#"/>
+	</imgdir>
+    <imgdir name="3010724">
+		<string name="name" value="Gollux Chair"/>
+		<string name="desc" value="This chair is rocky, and more than a little uncomfortable. "/>
+	</imgdir>
+    <imgdir name="3010725">
+		<string name="name" value="Gollux Head Chair"/>
+		<string name="desc" value="Nothing is better than sitting on the head of a lordly entity."/>
+	</imgdir>
+    <imgdir name="3010726">
+		<string name="name" value="Roasted Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover HP+50/MP+30 every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010727">
+		<string name="name" value="Pumpkin Chair"/>
+		<string name="desc" value="A comfy chair shaped like a pumpkin. Recovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010728">
+		<string name="name" value="I Love MapleStory Chair"/>
+		<string name="desc" value="A gift for those who cherish MapleStory!"/>
+	</imgdir>
+    <imgdir name="3010086">
+		<string name="name" value="Dream Interpreter Chair"/>
+		<string name="desc" value="Relax on this couch and think hard about your dreams. Recovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010662">
+		<string name="name" value="Octopus Fish Tank Chair"/>
+		<string name="desc" value="A chair that looks like an octopus-shaped fish tank. Recovers 50 HP every 10 seconds.   "/>
+	</imgdir>
+    <imgdir name="3010672">
+		<string name="name" value="Explorer Flag Chair"/>
+		<string name="desc" value="A flag and a chair that symbolize Explorers. Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+</imgdir>

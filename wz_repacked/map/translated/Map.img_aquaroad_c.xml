@@ -1,0 +1,80 @@
+<imgdir name="Map.img">
+    <imgdir name="aquaroad">
+			<imgdir name="860000001">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="西侧浅海"/>
+			</imgdir>
+			<imgdir name="860000002">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="西侧浅海2"/>
+			</imgdir>
+			<imgdir name="860000003">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="西侧浅海3"/>
+			</imgdir>
+			<imgdir name="860000004">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="东侧浅海"/>
+			</imgdir>
+			<imgdir name="860000005">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="东侧浅海2"/>
+			</imgdir>
+			<imgdir name="860000020">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="深海峡谷"/>
+			</imgdir>
+			<imgdir name="860000021">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="深海峡谷2"/>
+			</imgdir>
+			<imgdir name="860000022">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="深海峡谷3"/>
+			</imgdir>
+			<imgdir name="860000030">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="危险深海"/>
+			</imgdir>
+			<imgdir name="860000031">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="危险深海2"/>
+			</imgdir>
+			<imgdir name="860000032">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="危险深海3"/>
+			</imgdir>
+			<imgdir name="860000040">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="安托瓦内特会客厅"/>
+			</imgdir>
+			<imgdir name="860000041">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="安托瓦内特寝宫"/>
+			</imgdir>
+			<imgdir name="860000010">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="西侧明亮海域"/>
+			</imgdir>
+			<imgdir name="860000011">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="西侧明亮海域2"/>
+			</imgdir>
+			<imgdir name="860000012">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="东侧明亮海域"/>
+			</imgdir>
+			<imgdir name="860000013">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="东侧明亮海域2"/>
+			</imgdir>
+			<imgdir name="860000014">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="东侧明亮海域3"/>
+			</imgdir>
+			<imgdir name="860000000">
+				<string name="streetName" value="水下世界"/>
+				<string name="mapName" value="扭曲水族馆"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

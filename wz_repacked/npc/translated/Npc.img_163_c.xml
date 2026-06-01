@@ -1,0 +1,72 @@
+<imgdir name="Npc.img">
+    <imgdir name="9130032">
+		<string name="name" value="兰道夫"/>
+		<string name="d0" value="来看看吧。我不咬人！"/>
+		<string name="d1" value="来这里获取超级稀有的战国收藏品！"/>
+		<string name="n0" value="战国祭典最好的部分？当然是奖品啦！"/>
+		<string name="n1" value="参加节日活动获取漂亮闪亮的战国金币！"/>
+		<string name="func" value="战国商店"/>
+	</imgdir>
+    <imgdir name="9130033">
+		<string name="name" value="露西亚"/>
+		<string name="d0" value="你拿到很多战国金币了吗？来，看看吧。"/>
+		<string name="d1" value="露西亚在此！我有各种各样的战国物品。"/>
+		<string name="n0" value="你拿到很多战国金币了吗？"/>
+		<string name="n1" value="没有我，你怎么享受战国祭典？"/>
+		<string name="func" value="战国商店"/>
+	</imgdir>
+    <imgdir name="9130034">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130035">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130036">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130037">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130038">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130039">
+		<string name="name" value="受伤的毛利士兵"/>
+	</imgdir>
+    <imgdir name="9130040">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130041">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130042">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130043">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130044">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130045">
+		<string name="name" value="受伤的武田士兵"/>
+	</imgdir>
+    <imgdir name="9130046">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+    <imgdir name="9130047">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+    <imgdir name="9130048">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+    <imgdir name="9130049">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+    <imgdir name="9130050">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+    <imgdir name="9130051">
+		<string name="name" value="受伤的上杉士兵"/>
+	</imgdir>
+</imgdir>

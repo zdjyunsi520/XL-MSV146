@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430096">
+		<string name="name" value="Dragon Lord Gift Box"/>
+		<string name="desc" value="A special gift from Dragon Lord. It is highly possible to have a valuable item in the box."/>
+	</imgdir>
+    <imgdir name="2430097">
+		<string name="name" value="6th Anniversary Treasure Note"/>
+		<string name="desc" value="One of the treasure notes the Maple Administrator spread among the monsters to celebrate the 6th anniversary. Go see the Maple Administrator if you find a note that has the name of a gift written on it."/>
+	</imgdir>
+    <imgdir name="2430098">
+		<string name="name" value="Level 10 Parallel Equipment Box"/>
+		<string name="desc" value="A box that includes a Lv. 10 equipment, which will help the growth of a character that has been created by a Parallel Coupon."/>
+	</imgdir>
+    <imgdir name="2430099">
+		<string name="name" value="Level 20 Parallel Equipment Box"/>
+		<string name="desc" value="A box that includes a Lv. 20 equipment, which will help the growth of a character that has been created by a Parallel Coupon."/>
+	</imgdir>
+    <imgdir name="2430100">
+		<string name="name" value="Level 30 Parallel Equipment Box"/>
+		<string name="desc" value="A box that includes a Lv. 30 equipment, which will help the growth of a character that has been created by a Parallel Coupon."/>
+	</imgdir>
+    <imgdir name="2430101">
+		<string name="name" value="Pink Bear Hot-Air Ballon Mount Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Pink Bear Hot-Air Ballon] for 10 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430102">
+		<string name="name" value="Transformation Robot Mount Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Transformation Robot] for 10 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430103">
+		<string name="name" value="Chicken (30-Day)"/>
+		<string name="desc" value="Double-click to use the [Chicken] mount skill for 30 days starting today"/>
+	</imgdir>
+    <imgdir name="2430112">
+		<string name="name" value="Miracle Cube Fragment"/>
+		<string name="desc" value="A fragment from Miracle Cube. Double-click it to use the item. \n Collecting 5 of these fragments will earn you a Potential Scroll, and collecting 10 will earn you an Advanced Potential Scroll."/>
+	</imgdir>
+    <imgdir name="2430115">
+		<string name="name" value="Dimensional Pass"/>
+		<string name="desc" value="A pass obtained by defeating a monster. You must have the pass to move onto the next stage."/>
+	</imgdir>
+    <imgdir name="2430116">
+		<string name="name" value="Cheer for Victory Soccer Ball"/>
+		<string name="desc" value="A soccer ball celebrating the Taeguk Warriors. Gather 20 and then double-click on them to receive a gift or EXP."/>
+	</imgdir>
+    <imgdir name="2430117">
+		<string name="name" value="Lion (1-year)"/>
+		<string name="desc" value="Double-click to use the [Lion] mount skill for a year."/>
+	</imgdir>
+    <imgdir name="2430118">
+		<string name="name" value="Red Truck  (1-year)"/>
+		<string name="desc" value="Double-click to use the [Red Truck] mount skill for a year."/>
+	</imgdir>
+    <imgdir name="2430119">
+		<string name="name" value="Gargoyle  (1-year)"/>
+		<string name="desc" value="Double-click to use the [Gargoyle] mount skill for a year."/>
+	</imgdir>
+    <imgdir name="2430120">
+		<string name="name" value="Unicorn  (1-year)"/>
+		<string name="desc" value="Double-click to use the [Unicorn] mount skill for a year starting today"/>
+	</imgdir>
+    <imgdir name="2432504">
+		<string name="name" value="Unicorn  Mount Coupon"/>
+		<string name="desc" value="#cDouble-click# to get the #cUnicorn# mount permanently."/>
+	</imgdir>
+    <imgdir name="2430121">
+		<string name="name" value="Time Bomb"/>
+		<string name="desc" value="A time bomb. Double-click on it and it will explode after a certain amount of time has passed."/>
+	</imgdir>
+    <imgdir name="2430122">
+		<string name="name" value="Owl Sticker"/>
+		<string name="desc" value="You can enter the prize event by double-clicking on the sticker. Only Dual Blades can win a lucky NX/Real Life item."/>
+	</imgdir>
+    <imgdir name="2430123">
+		<string name="name" value="NPC Summon"/>
+		<string name="desc" value="An item that summons NPCs."/>
+	</imgdir>
+    <imgdir name="2430124">
+		<string name="name" value="Admin Test"/>
+		<string name="desc" value="Admin test item"/>
+	</imgdir>
+</imgdir>

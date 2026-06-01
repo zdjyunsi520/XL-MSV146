@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022253">
+		<string name="name" value="Mushroom Candy"/>
+		<string name="desc" value="Delicious mushroom candy from Sen. This candy makes anyone feel good about themselves. So good, that it boosts Jump +3 for 3 minutes."/>
+	</imgdir>
+    <imgdir name="2022255">
+		<string name="name" value="Pumpkin Pieces"/>
+		<string name="desc" value="Pieces of pumpkin left over from making halloween Jack-o'-Lanterns. The pumpkin, perfectly ripe, has an aroma that is sweeter than ever. Each piece recovers 50 HP and 50 MP."/>
+	</imgdir>
+    <imgdir name="2022256">
+		<string name="name" value="Halloween Candy"/>
+		<string name="desc" value="A candy wrapped in stripes. Kids love it. Recovers 20 HP and MP."/>
+	</imgdir>
+    <imgdir name="2022257">
+		<string name="name" value="Power of the Glowing Rock"/>
+		<string name="desc" value="Received a mysterious power from the Glowing Rock. Boosts the weapon attack and magic attack slightly for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2022258">
+		<string name="name" value="Coconut Juice"/>
+		<string name="desc" value="A small hole is up on the top of the Coconut, where the straw goes in. Drink the juice with the straw for maximum refreshment. Recovers 100 HP."/>
+	</imgdir>
+    <imgdir name="2022259">
+		<string name="name" value="Attack Crystal"/>
+		<string name="desc" value="A red crystal with a mysterious power packed in. Attack +5 for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022260">
+		<string name="name" value="Accuracy Crystal"/>
+		<string name="desc" value="A blue crystal fragment filled with mysterious power. Accuracy +100 for 5 min."/>
+	</imgdir>
+    <imgdir name="2022261">
+		<string name="name" value="Stuffing Scoop"/>
+		<string name="desc" value="A delicious scoop of stuffing. This treat comes around only once in a while so eat it up before it gets cold. \n[Restores 600 HP/ 600 MP]"/>
+	</imgdir>
+    <imgdir name="2022262">
+		<string name="name" value="Cranberry Sauce"/>
+		<string name="desc" value="This delicious cranberry sauce complements almost any meal! \n[Gives + 30 Magic Attack for 3 minutes]"/>
+	</imgdir>
+    <imgdir name="2022263">
+		<string name="name" value="Mashed Potato"/>
+		<string name="desc" value="It looks like someone dropped this potato. \n[Restores 800 HP]"/>
+	</imgdir>
+    <imgdir name="2022264">
+		<string name="name" value="Gravy"/>
+		<string name="desc" value="The only thing better than a gravy boat is a gravy train. \n[Restores 800 MP]"/>
+	</imgdir>
+    <imgdir name="2022265">
+		<string name="name" value="Snowing Fishbread"/>
+		<string name="desc" value="Increases Physical Attack Power by 20 and Magic Attack Power by 30 for 15 minutes."/>
+	</imgdir>
+    <imgdir name="2022266">
+		<string name="name" value="Power Punch"/>
+		<string name="desc" value="A fist used during the Hunting Tournament. Boosts weapon and magic attack."/>
+	</imgdir>
+    <imgdir name="2022267">
+		<string name="name" value="Wing of the Wind"/>
+		<string name="desc" value="A set of wings used during the Hunting Tournament. Boosts speed and jump."/>
+	</imgdir>
+    <imgdir name="2022268">
+		<string name="name" value="Crazy Skull"/>
+		<string name="desc" value="An eyeball-rotating skull used during the Hunting Tournament. Inverts directions."/>
+	</imgdir>
+    <imgdir name="2022271">
+		<string name="name" value="Maplemas Ham"/>
+		<string name="desc" value="A delicious looking Christmas Ham with a sprig of mistletoe on top.\nRecovers 3000 HP and MP."/>
+	</imgdir>
+    <imgdir name="2022272">
+		<string name="name" value="Smoken Salmon"/>
+		<string name="desc" value="The traditional Versalmas dinner.  Smells... like fish. \nRecovers 2385 HP and 3791 MP."/>
+	</imgdir>
+    <imgdir name="2022273">
+		<string name="name" value="Ssiws Cheese"/>
+		<string name="desc" value="Cheese from the alternate dimension of Versal.  Looks funny but smells quite nice.  \nGives +220 Magic Attack for 2 minutes"/>
+	</imgdir>
+    <imgdir name="2022274">
+		<string name="name" value="Sugar-Coated Olives"/>
+		<string name="desc" value="Olives frosted with pink sugar -- a special treat beloved by children from Versal! \nGives +40 Speed and + 25 Jump for 5 minutes."/>
+	</imgdir>
+    <imgdir name="2022275">
+		<string name="name" value="Caramel Onion"/>
+		<string name="desc" value="O-Pongo's favorite treat!  Creamy caramel with a crunchy onion center! \nRestores 800 HP and MP."/>
+	</imgdir>
+</imgdir>

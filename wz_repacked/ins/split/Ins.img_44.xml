@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3064440">
+		<string name="name" value="[S] Nebulite (Meso Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Mesos Obtained : +10%#"/>
+	</imgdir>
+    <imgdir name="3064441">
+		<string name="name" value="[S] Nebulite (Meso Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Mesos Obtained : +15%#"/>
+	</imgdir>
+    <imgdir name="3064442">
+		<string name="name" value="[S] Nebulite (Meso Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Mesos Obtained : +20%#"/>
+	</imgdir>
+    <imgdir name="3064450">
+		<string name="name" value="[S] Nebulite (Reward Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Item Drop Rate : +10%#"/>
+	</imgdir>
+    <imgdir name="3064451">
+		<string name="name" value="[S] Nebulite (Reward Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Item Drop Rate : +15%#"/>
+	</imgdir>
+    <imgdir name="3064452">
+		<string name="name" value="[S] Nebulite (Reward Prop)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on accessories with an empty socket only.\n* Item Drop Rate : +20%#"/>
+	</imgdir>
+    <imgdir name="3064460">
+		<string name="name" value="[S] Nebulite (Auto Steal)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on gloves with an empty socket only.\n* 3% chance to apply Auto Steal.#"/>
+	</imgdir>
+    <imgdir name="3064461">
+		<string name="name" value="[S] Nebulite (Auto Steal)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on gloves with an empty socket only.\n* 4% chance to apply Auto Steal.#"/>
+	</imgdir>
+    <imgdir name="3064470">
+		<string name="name" value="[S] Nebulite (Skill)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on shoes with an empty socket only.\n* Able to use the &lt;Decent Combat Orders&gt; skill#"/>
+	</imgdir>
+    <imgdir name="3064480">
+		<string name="name" value="[S] Nebulite (Skill)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on hats with an empty socket only.\n* Able to use the &lt;Decent Advanced Blessing&gt; skill#"/>
+	</imgdir>
+    <imgdir name="3064490">
+		<string name="name" value="[S] Nebulite (Skill)"/>
+		<string name="desc" value="A mysterious stone infused with the power of the aliens. If you insert it into an item's open socket, the stats of the alien stone will be added to the item.\n\n#* Fits on gloves with an empty socket only.\n* Able to use the &lt;Decent Speed Infusion&gt; skill#"/>
+	</imgdir>
+    <imgdir name="3700000">
+		<string name="name" value="Lulu the Fairy's Friend"/>
+		<string name="desc" value="A title obtained by participating in the Henesys Cherry Blossom Tour. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700001">
+		<string name="name" value="Dolphin Lover!"/>
+		<string name="desc" value="A title obtained at Dolphin Island. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700002">
+		<string name="name" value="Virtue's Apprentice"/>
+		<string name="desc" value="A title obtained when you first received the Stone of Virtue.\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700003">
+		<string name="name" value="Virtue's Successor"/>
+		<string name="desc" value="A title obtained by participating in the Knights of Virtue event for 7 days.\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700004">
+		<string name="name" value="Virtue's Savior"/>
+		<string name="desc" value="A title obtained by participating in the Knights of Virtue event for 10 days.\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700005">
+		<string name="name" value="Watermelon Wrangler"/>
+		<string name="desc" value="A title obtained on the first day you cultivated a Tasty Watermelon.\r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700006">
+		<string name="name" value="Chill"/>
+		<string name="desc" value="A title obtained by participating in the First Cold Day of Winter Event. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700007">
+		<string name="name" value="Very Chill"/>
+		<string name="desc" value="A title obtained by participating in the Second Cold Day of Winter Event. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+    <imgdir name="3700008">
+		<string name="name" value="Super Chill"/>
+		<string name="desc" value="A title obtained by participating in the Coldest Day of Winter Event. \r\n#cClick on it to turn it ON/OFF.#"/>
+	</imgdir>
+</imgdir>

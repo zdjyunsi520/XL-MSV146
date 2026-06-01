@@ -1,0 +1,93 @@
+<imgdir name="Consume.img">
+    <imgdir name="2470010">
+		<string name="desc" value="A hammer that provides you a 100% chance to apply one additional scroll to your equipment item. Only 1 hammer can be used per item."/>
+		<string name="name" value="Golden Hammer 100%"/>
+	</imgdir>
+    <imgdir name="2510704">
+		<string name="desc" value="A recipe for a Gold Label Knight Hat."/>
+		<string name="name" value="Gold Label Knight Hat Recipe"/>
+	</imgdir>
+    <imgdir name="2510705">
+		<string name="desc" value="A recipe for a Gold Label Knight Suit."/>
+		<string name="name" value="Gold Label Knight Suit Recipe"/>
+	</imgdir>
+    <imgdir name="2510706">
+		<string name="desc" value="A recipe for a pair of Gold Label Knight Shoes."/>
+		<string name="name" value="Gold Label Knight Shoes Recipe"/>
+	</imgdir>
+    <imgdir name="2510707">
+		<string name="desc" value="A recipe for a pair of Gold Label Knight Gloves."/>
+		<string name="name" value="Gold Label Knight Gloves Recipe"/>
+	</imgdir>
+    <imgdir name="2510708">
+		<string name="desc" value="A recipe for a Gold Label Knight Cape."/>
+		<string name="name" value="Gold Label Knight Cape Recipe"/>
+	</imgdir>
+    <imgdir name="2511178">
+		<string name="desc" value="A recipe for a Gold Label Knight Belt."/>
+		<string name="name" value="Gold Label Knight Belt Recipe"/>
+	</imgdir>
+    <imgdir name="2511179">
+		<string name="desc" value="A recipe for a Gold Label Knight Shoulder."/>
+		<string name="name" value="Gold Label Knight Shoulder Recipe"/>
+	</imgdir>
+    <imgdir name="2530000">
+		<string name="name" value="Lucky Day Scroll"/>
+		<string name="desc" value="Increases the success chance of your next scroll by 10%.\n#cCannot be used with Potential Scrolls or Enhancement Scrolls.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="2530001">
+		<string name="name" value="Happy-Go-Lucky Scroll"/>
+		<string name="desc" value="Increases the success chance of your next scroll by 10%.\n#cCannot be used with Potential Scrolls or Enhancement Scrolls.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="2530002">
+		<string name="name" value="Lucky Day Scroll"/>
+		<string name="desc" value="Increases the success chance of your next scroll by 10%.\n#cCannot be used with Potential Scrolls or Enhancement Scrolls.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="2530003">
+		<string name="name" value="Pet Lucky Day Scroll"/>
+		<string name="desc" value="Increases the success rate of your next scroll by 10%.\n#cHas no effects on Potential Scrolls and Enhancement Scrolls.#Can be used only on Pet equipment."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="2530004">
+		<string name="name" value="Lucky Day Scroll"/>
+		<string name="desc" value="Increases the success chance of your next scroll by 10%.\n#cCannot be used with Potential Scrolls or Enhancement Scrolls.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nIncreases the success rate of your next scroll.\r\n#"/>
+	</imgdir>
+    <imgdir name="2531000">
+		<string name="name" value="Protection Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Effects disappear after a successful scroll and it #ccannot be used on items that have been successfully enhanced 12 or more times.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSafeguards your item against destruction 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2531001">
+		<string name="name" value="Protection Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Effects disappear after a successful scroll and it #ccannot be used on items that have been successfully enhanced 12 or more times.#"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nSafeguards your item against destruction 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2532000">
+		<string name="name" value="Safety Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use."/>
+		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2532001">
+		<string name="name" value="Pet Safety Scroll"/>
+		<string name="desc" value="Using this on a piece of #cpet equipment# protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use. \nCan be used along with a #cGuardian Scroll#."/>
+		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2532002">
+		<string name="name" value="Safety Scroll"/>
+		<string name="desc" value="Using this on a piece of equipment protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use."/>
+		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+	</imgdir>
+    <imgdir name="2533001">
+		<string name="name" value="Pet Recovery Scroll"/>
+		<string name="desc" value="Using this on a piece of #cpet equipment# prevents #cused scroll# from disappearing due to a failed scroll for #c1 time#. Protection disappears even after a successful scroll use. \nCan be used along with #cSafety Scrolls#."/>
+		<string name="autodesc" value="\r\n#cPreserves a scroll when it fails.\r\n#"/>
+	</imgdir>
+    <imgdir name="2540006">
+		<string name="desc" value="#cDouble-click# to change your hairstyle to #c[Perion Hair]#."/>
+		<string name="name" value="Perion Hair Coupon"/>
+	</imgdir>
+</imgdir>

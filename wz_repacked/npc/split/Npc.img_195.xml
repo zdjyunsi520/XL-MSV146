@@ -1,0 +1,114 @@
+<imgdir name="Npc.img">
+    <imgdir name="2460021">
+		<string name="name" value="Cello"/>
+		<string name="func" value="Quartermaster"/>
+	</imgdir>
+    <imgdir name="2460022">
+		<string name="name" value="Lagoon"/>
+		<string name="func" value="Beautician"/>
+	</imgdir>
+    <imgdir name="2460023">
+		<string name="name" value="Benedict"/>
+	</imgdir>
+    <imgdir name="2460024">
+		<string name="name" value="Cassius"/>
+		<string name="d0" value="I want only one thing..."/>
+		<string name="d1" value="I want only one thing..."/>
+	</imgdir>
+    <imgdir name="2460025">
+		<string name="name" value="Cassius's Things"/>
+		<string name="d0" value="(A small pile of clothes and items is all that's left.)"/>
+		<string name="d1" value="(A small pile of clothes and items is all that's left.)"/>
+	</imgdir>
+    <imgdir name="2460026">
+		<string name="name" value="Juliet"/>
+		<string name="d0" value="(Juliet is lying on the ground unconscious.)"/>
+		<string name="d1" value="(Juliet is lying on the ground unconscious.)"/>
+	</imgdir>
+    <imgdir name="2460027">
+		<string name="name" value="Humanoid A"/>
+		<string name="d0" value="(The humanoid has stopped working.)"/>
+		<string name="d1" value="(Humanoid A has stopped working.)"/>
+	</imgdir>
+    <imgdir name="2470000">
+		<string name="name" value="Hera"/>
+		<string name="d0" value="Ludibrium, the village suspended in time. Its past has stopped."/>
+		<string name="d1" value="Ludibrium, the village suspended in time. Its past has stopped."/>
+		<string name="n0" value="The past has stopped."/>
+		<string name="n1" value="What did the goddess want?"/>
+	</imgdir>
+    <imgdir name="2470001">
+		<string name="name" value="Mera"/>
+		<string name="d0" value="Ludibrium, the village suspended in time. It's waiting for a future that never comes."/>
+		<string name="d1" value="Ludibrium, the village suspended in time. It's waiting for a future that never comes."/>
+		<string name="n0" value="Time runs like a river."/>
+		<string name="n1" value="The endless wait..."/>
+	</imgdir>
+    <imgdir name="2470002">
+		<string name="name" value="Tigun the Advisor"/>
+		<string name="d0" value="Welcome to Ludibrium, where children's dreams come true!"/>
+		<string name="d1" value="Welcome to Ludibrium, where children's dreams come true!"/>
+	</imgdir>
+    <imgdir name="2470003">
+		<string name="name" value="Patricia"/>
+		<string name="n0" value="I want to be loved!"/>
+		<string name="n1" value="I don't look cute enough. I need more stuffing in my belly."/>
+		<string name="d0" value="Look at my hollow belly. I look like a skeleton!"/>
+		<string name="d1" value="I still don't feel full, but at least now I don't look like a skeleton!"/>
+	</imgdir>
+    <imgdir name="2470004">
+		<string name="name" value="Manager Karl"/>
+		<string name="d0" value="Nice to meet you. I'm Karl, the manager of this toy factory. I'm busy as usual."/>
+		<string name="d1" value="Nice to meet you. I'm Karl, the manager of this toy factory. I'm busy as usual."/>
+		<string name="n0" value="I'm Karl, the manager of this toy factory."/>
+		<string name="n1" value="Here we make toys that fulfill children's hopes and dreams."/>
+	</imgdir>
+    <imgdir name="2470005">
+		<string name="name" value="Robert Holly"/>
+		<string name="d0" value="My duty is to oversee toy production. Thanks to the rapidly rising market demand, I've never been busier."/>
+		<string name="d1" value="My duty is to oversee toy production. Thanks to the rapidly rising market demand, I've never been busier."/>
+		<string name="n0" value="The factory runs 24 hours a day without a break."/>
+		<string name="n1" value="Our machines haven't stopped running since the factory opened."/>
+	</imgdir>
+    <imgdir name="2470006">
+		<string name="name" value="Grandpa Clock"/>
+		<string name="d0" value="I... can't... move... any... longer..."/>
+		<string name="d1" value="Clocks tick tock, tick tock day and night."/>
+		<string name="n0" value="I'm Grandpa Clock, one of the oldest residents of Ludibrium."/>
+		<string name="n1" value="Maybe I should show temperature instead of time."/>
+		<imgdir name="dialogue">
+			<string name="41305" value="Clocks tick tock, tick tock day and night."/>
+		</imgdir>
+    <imgdir name="2470007">
+		<string name="name" value="Korin"/>
+		<string name="d0" value="I want to make Ludibrium's time move again."/>
+		<string name="d1" value="I've given up on the idea of moving Ludibrium's time. It's time I outgrow childhood."/>
+		<string name="n0" value="I want to grow up."/>
+		<string name="n1" value="I can no longer be a child, anyway."/>
+	</imgdir>
+    <imgdir name="2470008">
+		<string name="name" value="Nemi"/>
+		<string name="d0" value="Ugh, I spent all my allowance already."/>
+		<string name="d1" value="Strawberry Candies taste like real strawberries."/>
+		<string name="n0" value="Strawberry Candies, Strawberry Candies!"/>
+		<string name="n1" value="Sweet candies, delicious candies!"/>
+	</imgdir>
+    <imgdir name="2470009">
+		<string name="name" value="Gumball Machine"/>
+	</imgdir>
+    <imgdir name="2470010">
+		<string name="name" value="Mr. Pierre"/>
+		<string name="d0" value="My head is filled with ideas to entertain my audience."/>
+		<string name="d1" value="One day, I'm going to showcase the world's greatest magic trick."/>
+		<string name="n0" value="Do you want to see magic?"/>
+		<string name="n1" value="All right, keep your eyes on me!"/>
+	</imgdir>
+    <imgdir name="2470011">
+		<string name="name" value="Roly-Poly 1"/>
+		<string name="d0" value="We can't work like this anymore. We're not sweatshop workers!"/>
+		<string name="d1" value="Our demonstration is on schedule. We're going to show our united power!"/>
+	</imgdir>
+    <imgdir name="2470012">
+		<string name="name" value="Roly-Poly 2"/>
+	</imgdir>
+</imgdir>

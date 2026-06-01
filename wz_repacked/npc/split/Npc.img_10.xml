@@ -1,0 +1,102 @@
+<imgdir name="Npc.img">
+    <imgdir name="1103002">
+		<string name="name" value="Matthias"/>
+		<string name="d0" value="The back alley of Kerning City has all kinds of information floating around."/>
+		<string name="n0" value="So noisy here. Ugh."/>
+		<string name="n1" value="I don't feel like doing today what I can put off until tomorrow."/>
+		<string name="d1" value="For a Knight like you, I always have useful info."/>
+	</imgdir>
+    <imgdir name="1103003">
+		<string name="name" value="Hersha"/>
+		<string name="n0" value="Wait, don't come near me!"/>
+		<string name="n1" value="I can't help but be suspicious of so many things in Ellinia."/>
+		<string name="d0" value="Why are you trying to talk to me? Are you one of the Black Wings? Get away from me!"/>
+		<string name="d1" value="Based on Neinheart's policy, I can share up to Rank B info with a Knight."/>
+	</imgdir>
+    <imgdir name="1103004">
+		<string name="name" value="10 Boogies"/>
+		<string name="n1" value="Will anyone help me investigate?"/>
+		<string name="d0" value="Ahhh... So much work, so little time. Wait, when did you get here?"/>
+		<string name="d1" value="Any information you need? I know quite a bit about Perion..."/>
+		<string name="n0" value="Ahhh... Where did the report go?"/>
+	</imgdir>
+    <imgdir name="1103005">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+    <imgdir name="1103006">
+		<string name="name" value="Della"/>
+		<string name="n0" value="Brrrr... I'm scared. I admit it, I'm really scared!"/>
+		<string name="n1" value="Too many strong monsters here! Help!"/>
+		<string name="d0" value="I'll go anywhere to get information! Danger doesn't bother me!"/>
+		<string name="d1" value="I'll go anywhere to get information! Danger doesn't bother me!"/>
+	</imgdir>
+    <imgdir name="1104000">
+		<string name="name" value="Francis"/>
+		<string name="func" value="Puppeteer"/>
+		<string name="d1" value="Don't look at me like that. I am not serving the Empress!"/>
+		<string name="n0" value="Hmph."/>
+		<string name="n1" value="What the...? Don't talk to me."/>
+		<string name="d0" value="Hey, what are you looking at? Why am I here? Because I got kicked out of the Black Wings thanks to you!"/>
+	</imgdir>
+    <imgdir name="1104001">
+		<string name="name" value="Baroq"/>
+		<string name="func" value="Master of Disguise"/>
+		<string name="d0" value="I got kicked out of the Black Wings... Now what do I do?"/>
+		<string name="n0" value="Hmm... Hmmm..."/>
+		<string name="n1" value="Those darn Knights..."/>
+		<string name="d1" value="How's the queen? I'm not fighting her anymore, so I can ask questions like that, right?"/>
+	</imgdir>
+    <imgdir name="1104002">
+		<string name="name" value="Eleanor"/>
+		<string name="func" value="Black Witch"/>
+		<string name="n0" value="Hah..."/>
+		<string name="n1" value="Stupid Knights..."/>
+		<string name="d0" value="I have nothing to say to a Knight like you."/>
+		<string name="d1" value="I don't care about Black Wings or the Black Mage. Don't talk to me!"/>
+	</imgdir>
+    <imgdir name="1104201">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+    <imgdir name="1104202">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+    <imgdir name="1104203">
+		<string name="name" value="Mihile"/>
+	</imgdir>
+    <imgdir name="1104204">
+		<string name="name" value="Oz"/>
+	</imgdir>
+    <imgdir name="1104205">
+		<string name="name" value="Irena"/>
+	</imgdir>
+    <imgdir name="1104206">
+		<string name="name" value="Eckhart"/>
+	</imgdir>
+    <imgdir name="1104207">
+		<string name="name" value="Hawkeye"/>
+	</imgdir>
+    <imgdir name="1104208">
+		<string name="name" value="Shinsoo"/>
+		<string name="d0" value="(Shinsoo seems to be in pain.)"/>
+		<string name="d1" value="(Shinsoo seems to be finally in peace.)"/>
+	</imgdir>
+    <imgdir name="1104209">
+		<string name="name" value="Altar of Darkness Statue"/>
+	</imgdir>
+    <imgdir name="1104300">
+		<string name="name" value="Wightmare"/>
+		<string name="func" value="Black Mage's Minion"/>
+		<string name="d0" value="Anything to resurrect him..."/>
+		<string name="d1" value="Anything to resurrect him..."/>
+	</imgdir>
+    <imgdir name="1105000">
+		<string name="name" value="Cygnus"/>
+		<string name="n0" value="I hope peace comes to Maple World..."/>
+		<string name="n1" value="Everyone will be happy one day...right?"/>
+	</imgdir>
+    <imgdir name="1105001">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="In the end, all that matters is a strong will."/>
+		<string name="n1" value="If the world is in danger, I won't stand idly by."/>
+	</imgdir>
+</imgdir>

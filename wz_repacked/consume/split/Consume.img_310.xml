@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2510005">
+		<string name="name" value="Red Hunter Recipe"/>
+		<string name="desc" value="A recipe for a Red Hunter."/>
+	</imgdir>
+    <imgdir name="2510006">
+		<string name="name" value="Black Garina Hood Recipe"/>
+		<string name="desc" value="A recipe for a Black Garina Hood."/>
+	</imgdir>
+    <imgdir name="2510007">
+		<string name="name" value="Blue Dragon Helmet Recipe"/>
+		<string name="desc" value="A recipe for a Blue Dragon Helmet."/>
+	</imgdir>
+    <imgdir name="2510008">
+		<string name="name" value="Gold Dragon Crown Recipe"/>
+		<string name="desc" value="A recipe for a Gold Dragon Crown."/>
+	</imgdir>
+    <imgdir name="2510009">
+		<string name="name" value="Canopus Hat Recipe"/>
+		<string name="desc" value="A recipe for a Canopus Hat."/>
+	</imgdir>
+    <imgdir name="2510010">
+		<string name="name" value="Reverse Fennel Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Fennel."/>
+	</imgdir>
+    <imgdir name="2510011">
+		<string name="name" value="Reverse Coral Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Coral."/>
+	</imgdir>
+    <imgdir name="2510012">
+		<string name="name" value="Reverse Rapido Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Rapido."/>
+	</imgdir>
+    <imgdir name="2510013">
+		<string name="name" value="Reverse Chive Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Chive."/>
+	</imgdir>
+    <imgdir name="2510014">
+		<string name="name" value="Reverse Conrad Henkel Recipe"/>
+		<string name="desc" value="A recipe for a Reverse Conrad Henkel."/>
+	</imgdir>
+    <imgdir name="2510015">
+		<string name="name" value="Agares Bloody Gear Recipe"/>
+		<string name="desc" value="A recipe for a Agares Bloody Gear."/>
+	</imgdir>
+    <imgdir name="2510016">
+		<string name="name" value="Eligos Bloody Gear Recipe"/>
+		<string name="desc" value="A recipe for a Eligos Bloody Gear."/>
+	</imgdir>
+    <imgdir name="2510017">
+		<string name="name" value="Ipos Bloody Gear Recipe"/>
+		<string name="desc" value="A recipe for an Ipos Bloody Gear."/>
+	</imgdir>
+    <imgdir name="2510018">
+		<string name="name" value="Halphas Bloody Gear Recipe"/>
+		<string name="desc" value="A recipe for a Halphas Bloody Gear."/>
+	</imgdir>
+    <imgdir name="2510019">
+		<string name="name" value="Vepar Bloody Gear Recipe"/>
+		<string name="desc" value="A recipe for a Vepar Bloody Gear."/>
+	</imgdir>
+    <imgdir name="2510020">
+		<string name="name" value="Green Neos Recipe"/>
+		<string name="desc" value="A recipe for a Green Neos."/>
+	</imgdir>
+    <imgdir name="2510021">
+		<string name="name" value="Green Lucida Recipe"/>
+		<string name="desc" value="A recipe for a Green Lucida."/>
+	</imgdir>
+    <imgdir name="2510022">
+		<string name="name" value="Green Neos Pants Recipe"/>
+		<string name="desc" value="A recipe for a Green Neos Pants."/>
+	</imgdir>
+    <imgdir name="2510023">
+		<string name="name" value="Green Lucida Skirt Recipe"/>
+		<string name="desc" value="A recipe for a Green Lucida Skirt."/>
+	</imgdir>
+    <imgdir name="2510024">
+		<string name="name" value="Green Varuna Recipe"/>
+		<string name="desc" value="A recipe for a Green Varuna."/>
+	</imgdir>
+</imgdir>

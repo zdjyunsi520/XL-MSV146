@@ -1,0 +1,124 @@
+<imgdir name="Npc.img">
+    <imgdir name="2010003">
+		<string name="name" value="Neve"/>
+		<string name="func" value="Glove Maker"/>
+		<string name="n0" value="How about making a glove? I can take care of the rest..."/>
+		<string name="n1" value="You'll need a nice glove to handle your weapon better... How about making one here?"/>
+	</imgdir>
+    <imgdir name="2010004">
+		<string name="name" value="Corporal Wilson"/>
+		<string name="func" value="Pet Food Merchant"/>
+		<string name="n0" value="I'm here selling food for pets!"/>
+		<string name="n1" value="Don't you need some food for your pet?"/>
+	</imgdir>
+    <imgdir name="2010005">
+		<string name="name" value="Shuri"/>
+		<string name="func" value="Tour Guide"/>
+		<string name="d0" value="Don't you want to head off to Florina Beach?"/>
+		<string name="n0" value="How about heading over to the exotic island of Florina Beach?"/>
+		<string name="n1" value="Do you have a free pass by any chance? If so, let's go to Florina Beach right this minute!"/>
+		<string name="d1" value="You look exhausted. How about spending some time relaxing at Florina Beach?"/>
+	</imgdir>
+    <imgdir name="2010006">
+		<string name="name" value="Trina"/>
+		<string name="func" value="Storage Keeper"/>
+		<string name="n0" value="You need a place to store your mesos and items? Look no further!"/>
+		<string name="n1" value="Don't worry, my storage is safe and secure."/>
+	</imgdir>
+    <imgdir name="2010007">
+		<string name="name" value="Heracle"/>
+		<string name="s0" value="Do you want to form a guild?"/>
+		<string name="s1" value="Only the strong and the brave should come talk to me."/>
+	</imgdir>
+    <imgdir name="2010008">
+		<string name="name" value="Lea"/>
+		<string name="func" value="Guild Emblem Creator"/>
+		<string name="s1" value="I am always busy! I have too much stuff to do."/>
+		<string name="s0" value="Hello! My name is Lea, and I am in charge of Guild Emblems."/>
+	</imgdir>
+    <imgdir name="2010009">
+		<string name="name" value="Lenario"/>
+		<string name="func" value="Manager of Guild Union"/>
+		<string name="s0" value="Hey there! I'm Lenario."/>
+		<string name="s1" value="Hey there! I'm Lenario."/>
+	</imgdir>
+    <imgdir name="2010010">
+		<string name="name" value="Deia"/>
+		<string name="func" value="Guild Item Manager"/>
+	</imgdir>
+    <imgdir name="2010011">
+		<string name="name" value="Lea"/>
+		<string name="func" value="Guild Task Coordinator"/>
+		<string name="s0" value="Do you want to go to the Hall of Heroes to work on Guild tasks?"/>
+		<string name="s1" value="I have plenty of other work, but there's always something else..."/>
+	</imgdir>
+    <imgdir name="2012013">
+		<string name="name" value="Sunny"/>
+		<string name="func" value="Cabin Crew"/>
+		<string name="n0" value="We hope you enjoy your trip!"/>
+		<string name="n1" value="There's a set capacity for this trip, so please hurry! It's ready for takeoff really soon!"/>
+		<string name="n2" value="The ship is about to leave. Please wait one moment."/>
+		<string name="d0" value="Hello! Cabin Crew Sunny here!"/>
+		<string name="d1" value="I wonder if Ramini is doing okay..."/>
+	</imgdir>
+    <imgdir name="2012014">
+		<string name="name" value="Orbis Magic Spot"/>
+		<string name="func" value="Mr. Move-It"/>
+	</imgdir>
+    <imgdir name="2012015">
+		<string name="name" value="El Nath Magic Spot"/>
+	</imgdir>
+    <imgdir name="2012016">
+		<string name="name" value="Aileen"/>
+		<string name="func" value="Selling Ticket to Ludibrium"/>
+		<string name="n1" value="We sincerely hope you enjoy your trip!"/>
+		<string name="n0" value="Please purchase a ticket from me to get on board."/>
+	</imgdir>
+    <imgdir name="2012017">
+		<string name="name" value="Hughes the Fuse"/>
+		<string name="d0" value="I need to invent something else. This is going to be good..."/>
+		<string name="d1" value="What? What do you need?"/>
+		<string name="s0" value="HAHAHAHA!"/>
+		<string name="s1" value="I can make anything... I'm a genius! HAHA!"/>
+	</imgdir>
+    <imgdir name="2012020">
+		<string name="name" value="Alfonse Green"/>
+		<string name="s0" value="Hello! My name is Alfonse Green!"/>
+		<string name="s1" value="There are many delicious foods around the world! I love eating!"/>
+		<string name="d0" value="Have a nice day!"/>
+		<string name="d1" value="I just drank Nependeath juice! It is so good."/>
+	</imgdir>
+    <imgdir name="2012021">
+		<string name="name" value="Ramini"/>
+		<string name="func" value="Crewmember"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="Do you know of Leafre town?"/>
+		<string name="n1" value="So you want to head to Leafre, the town named for the fact that it's a 'Leaf Town?'"/>
+	</imgdir>
+    <imgdir name="2012022">
+		<string name="name" value="Pelace"/>
+		<string name="func" value="Crewmember"/>
+		<string name="n1" value="I recommend heading to Minar Forest near Leafre."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="..."/>
+		<string name="n0" value="Leafre? It's a town! There's a beautiful forest there..."/>
+	</imgdir>
+    <imgdir name="2012023">
+		<string name="name" value="Maple Leaf Marble"/>
+		<string name="d0" value="There's a red maple leaf inside a clear marble. "/>
+		<string name="d1" value="The red maple leaf within the clear marble is dormant. It awaits the hero of Maple World..."/>
+	</imgdir>
+    <imgdir name="2012024">
+		<string name="name" value="Egnet"/>
+		<string name="func" value="Crew"/>
+		<string name="n0" value="The genie is about to leave. Please stand behind the safety line."/>
+		<string name="n1" value="During our voyage, don't shout or run around."/>
+	</imgdir>
+    <imgdir name="2012025">
+		<string name="name" value="Geras"/>
+		<string name="func" value="Crew"/>
+		<string name="n0" value="Please line up in a single line."/>
+		<string name="n1" value="If you want to feel the heat of the desert, go to Ariant."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="5121054">
+        <string name="name" value="刺激对话" />
+        <string name="desc" value="释放内在力量加速充能并短时间内提升总伤害。同时永久提升BOSS攻击伤害~" />
+        <string name="h" value="激活时，MP消耗: #mpCon，持续时间: #time秒，伤害: +#indieDamR%，每隔一定间隔自动充能#x能量\n冷却时间: #cooltime秒\n[被动效果: BOSS攻击力: +#bdR%]" />
+    </imgdir>

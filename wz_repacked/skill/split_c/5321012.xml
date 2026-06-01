@@ -1,0 +1,7 @@
+<imgdir name="5321012">
+        <string name="name" value="加农炮弹幕" />
+        <string name="desc" value="集中火力轰击前方的敌人！额外提升暴击率。" />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
+        <string name="pdesc" value="集中火力轰击前方的敌人！额外提升暴击率。" />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
+    </imgdir>

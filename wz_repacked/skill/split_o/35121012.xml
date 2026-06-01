@@ -1,0 +1,8 @@
+<imgdir name="35121012">
+        <string name="name" value="Laser Blast" />
+        <string name="desc" value="Shoots a laser beam that attacks multiple enemies. This skill can only be used during a Missile Tank mode.\nRequired Skill: #cMech: Missile Tank Lv. 1#" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Attacks: #attackCount, Max Monsters Hit: #mobCount" />
+        <string name="pdesc" value="Shoots a laser beam that attacks multiple enemies. This skill can only be used during a Missile Tank mode.\nRequired Skill: #cMech: Missile Tank Lv. 1#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #hcCooltime sec" />
+    </imgdir>

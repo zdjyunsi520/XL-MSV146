@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290791">
+		<string name="name" value="[Mastery Book] Falling Sakura 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cFalling Sakura# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290792">
+		<string name="name" value="[Mastery Book] Monkey Spirits 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cMonkey Spirits# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290793">
+		<string name="name" value="[Mastery Book] Monkey Spirits 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cMonkey Spirits# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290794">
+		<string name="name" value="[Mastery Book] Bind 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBind# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290795">
+		<string name="name" value="[Mastery Book] Bellflower Barrier 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBellflower Barrier# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290796">
+		<string name="name" value="[Mastery Book] Kasen 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cKasen# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290797">
+		<string name="name" value="[Mastery Book] Kasen 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cKasen# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290798">
+		<string name="name" value="[Mastery Book] Illusion-Haku 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cIllusion-Haku# to 20.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290799">
+		<string name="name" value="[Special Mastery Book] Vanquisher's Charm 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cVanquisher's Charm# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290800">
+		<string name="name" value="[Special Mastery Book] Orochi 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cOrochi# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290801">
+		<string name="name" value="[Special Mastery Book] Monkey Spirits 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMonkey Spirits# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290802">
+		<string name="name" value="[Special Mastery Book] Kasen 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cKasen# to 30.\nJob: Kanna (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2430788">
+		<string name="name" value="Mori Clan Seal"/>
+		<string name="desc" value="A seal depicting the Mori clan's crest. Gain Reputation Points with the Mori by using it."/>
+	</imgdir>
+    <imgdir name="2430789">
+		<string name="name" value="Takeda Clan Seal"/>
+		<string name="desc" value="A seal depicting the Takeda clan's crest. Gain Reputation Points with the Takeda by using it."/>
+	</imgdir>
+    <imgdir name="2430790">
+		<string name="name" value="Uesugi Clan Seal"/>
+		<string name="desc" value="A seal depicting the Uesugi clan's crest. Gain Reputation Points with the Uesugi by using it."/>
+	</imgdir>
+    <imgdir name="2430791">
+		<string name="name" value="Scroll of Knowledge"/>
+		<string name="desc" value="This scroll looks like it has every bit of knowledge in the world written on it. You can understand enough to get some EXP out of it."/>
+	</imgdir>
+    <imgdir name="2430792">
+		<string name="name" value="Scroll of Ancient Knowledge"/>
+		<string name="desc" value="This scroll looks like it has every bit of knowledge in the world written on it, even really old stuff. You can understand enough to get some EXP out of it."/>
+	</imgdir>
+    <imgdir name="2430793">
+		<string name="name" value="Mysterious Onmyouji Scroll"/>
+		<string name="desc" value="This scroll sure is mysterious. What mysterious thing might happen if you use it?"/>
+	</imgdir>
+    <imgdir name="2430801">
+		<string name="name" value="Lv. 10 Equipment Box"/>
+		<string name="desc" value="A box awarded for reaching Lv. 10."/>
+	</imgdir>
+    <imgdir name="2430802">
+		<string name="name" value="Lv. 20 Equipment Box"/>
+		<string name="desc" value="A box awarded for reaching Lv. 20."/>
+	</imgdir>
+</imgdir>

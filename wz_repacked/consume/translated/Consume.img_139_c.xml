@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046703">
+		<string name="name" value="阿兹旺饰品强化卷轴 力量 40%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：40%\r\n力量：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046704">
+		<string name="name" value="阿兹旺饰品强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c使用3个可用升级插槽\r\n成功率：60%\r\n敏捷：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046705">
+		<string name="name" value="阿兹旺饰品强化卷轴 敏捷 50%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c使用4个可用升级插槽\r\n成功率：50%\r\n敏捷：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046706">
+		<string name="name" value="阿兹旺饰品强化卷轴 敏捷 40%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：40%\r\n敏捷：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046707">
+		<string name="name" value="阿兹旺饰品强化卷轴 智力 60%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c使用3个可用升级插槽\r\n成功率：60%\r\n智力：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046708">
+		<string name="name" value="阿兹旺饰品强化卷轴 智力 50%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c使用4个可用升级插槽\r\n成功率：50%\r\n智力：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046709">
+		<string name="name" value="阿兹旺饰品强化卷轴 智力 40%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：40%\r\n智力：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046710">
+		<string name="name" value="阿兹旺饰品强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c使用3个可用升级插槽\r\n成功率：60%\r\n幸运：+6\r\n#"/>
+	</imgdir>
+    <imgdir name="2046711">
+		<string name="name" value="阿兹旺饰品强化卷轴 幸运 50%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c使用4个可用升级插槽\r\n成功率：50%\r\n幸运：+8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046712">
+		<string name="name" value="阿兹旺饰品强化卷轴 幸运 40%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c使用5个可用升级插槽\r\n成功率：40%\r\n幸运：+10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046713">
+		<string name="name" value="木翁腰带强化卷轴 力量 60%"/>
+		<string name="desc" value="强化木翁腰带的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046714">
+		<string name="name" value="木翁腰带强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化木翁腰带的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046715">
+		<string name="name" value="木翁腰带强化卷轴 智力 60%"/>
+		<string name="desc" value="强化木翁腰带的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n智力：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046716">
+		<string name="name" value="木翁腰带强化卷轴 幸运 60%"/>
+		<string name="desc" value="强化木翁腰带的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046717">
+		<string name="name" value="木翁腰带神秘强化卷轴"/>
+		<string name="desc" value="强化木翁腰带的所有属性。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n力量：+1\r\n智力：+1\r\n敏捷：+1\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046718">
+		<string name="name" value="饰品强化卷轴 力量 100%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n力量：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046719">
+		<string name="name" value="饰品强化卷轴 智力 100%"/>
+		<string name="desc" value="强化饰品的智力。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n智力：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046720">
+		<string name="name" value="饰品强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化饰品的敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046721">
+		<string name="name" value="饰品强化卷轴 幸运 100%"/>
+		<string name="desc" value="强化饰品的幸运。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n幸运：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046739">
+		<string name="name" value="8周年饰品强化卷轴 力量 20%"/>
+		<string name="desc" value="强化饰品的力量。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n力量：+4\r\n最大生命值：+20\r\n最大魔法值：+10\r\n#"/>
+	</imgdir>
+</imgdir>

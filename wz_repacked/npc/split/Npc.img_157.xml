@@ -1,0 +1,75 @@
+<imgdir name="Npc.img">
+    <imgdir name="1064009">
+		<string name="name" value="Disenchanted Pig"/>
+		<string name="n0" value="Oink oink! Oink oink oink! (I thought they were gonna eat me!)"/>
+		<string name="n1" value="Oink oink! Oink oink oink! (My real face is pretty too, no?)"/>
+	</imgdir>
+    <imgdir name="1064010">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="Heh heh heh..."/>
+		<string name="n1" value="Don't you want to know about the rare treasures the dark realm holds?"/>
+	</imgdir>
+    <imgdir name="1064011">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="Heh heh heh..."/>
+		<string name="n1" value="Don't you want to know about the rare treasures the dark realm holds?"/>
+	</imgdir>
+    <imgdir name="1064012">
+		<string name="name" value="First Seal Door"/>
+	</imgdir>
+    <imgdir name="1064013">
+		<string name="name" value="Second Seal Door"/>
+	</imgdir>
+    <imgdir name="1064014">
+		<string name="name" value="Third Seal Door"/>
+	</imgdir>
+    <imgdir name="1064015">
+		<string name="name" value="Fourth Seal Door"/>
+	</imgdir>
+    <imgdir name="1064016">
+		<string name="name" value="Secluded Door"/>
+	</imgdir>
+    <imgdir name="1064017">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+    <imgdir name="1064018">
+		<string name="name" value="Kiku"/>
+	</imgdir>
+    <imgdir name="1064019">
+		<string name="name" value="Kiriko"/>
+	</imgdir>
+    <imgdir name="1064020">
+		<string name="name" value="Kiridu"/>
+	</imgdir>
+    <imgdir name="1064021">
+		<string name="name" value="Kidan"/>
+	</imgdir>
+    <imgdir name="1064022">
+		<string name="name" value="Shinsoo"/>
+	</imgdir>
+    <imgdir name="1064023">
+		<string name="name" value="Cygnus"/>
+		<string name="func" value="Empress"/>
+	</imgdir>
+    <imgdir name="1064024">
+		<string name="name" value="Alicia"/>
+		<string name="func" value="Life Spark"/>
+	</imgdir>
+    <imgdir name="1064025">
+		<string name="name" value="Havis"/>
+		<string name="n0" value="There's not a lock in the world I can't open!"/>
+		<string name="n1" value="The Gnarled Wooden Key will only open the door once..."/>
+	</imgdir>
+    <imgdir name="1064026">
+		<string name="name" value="Neinheart"/>
+		<string name="func" value="Tactician"/>
+	</imgdir>
+    <imgdir name="1064027">
+		<string name="name" value="Fedric de Blanc"/>
+		<string name="n0" value="Heh heh heh..."/>
+		<string name="n1" value="Don't you want to know about the rare treasures the dark realm holds?"/>
+	</imgdir>
+    <imgdir name="1064028">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+</imgdir>

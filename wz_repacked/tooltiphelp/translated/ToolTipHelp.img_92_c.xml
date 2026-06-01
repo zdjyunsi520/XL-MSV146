@@ -1,0 +1,76 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="272000000">
+			<imgdir name="west00">
+				<string name="Title" value="三扇门"/>
+				<imgdir name="Npc">
+					<string name="0" value="Temple Keeper"/>
+					<string name="1" value="Bastille"/>
+				</imgdir>
+    <imgdir name="680000000">
+			<string name="ou00" value="赫内西"/>
+		</imgdir>
+    <imgdir name="690000054">
+			<imgdir name="0">
+				<string name="Title" value="利特港"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="海滩周围灌木丛I(往维多利亚路)"/>
+			</imgdir>
+    <imgdir name="690000055">
+			<imgdir name="0">
+				<string name="Title" value="赫内西狩猎场II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="赫内西"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="赫内西西部山丘(往利特港/凯恩城)"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="赫内西狩猎场II"/>
+			</imgdir>
+    <imgdir name="690000056">
+			<imgdir name="0">
+				<string name="Title" value="东岩石山I(往维多利亚路)"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="东岩石山III"/>
+			</imgdir>
+    <imgdir name="690000057">
+			<imgdir name="0">
+				<string name="Title" value="深谷II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+    <imgdir name="690000060">
+			<imgdir name="0">
+				<string name="Title" value="智慧森林"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="猴子森林II"/>
+			</imgdir>
+    <imgdir name="690000063">
+			<imgdir name="0">
+				<string name="Title" value="烧毁之地II"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="烧毁之地IV"/>
+			</imgdir>
+    <imgdir name="690000053">
+			<imgdir name="0">
+				<string name="Title" value="邪恶森林I"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="猴子森林I"/>
+			</imgdir>
+    <imgdir name="807020100">
+			<string name="north00" value="本能寺方向"/>
+		</imgdir>
+    <imgdir name="301000000">
+			<imgdir name="in01">
+				<string name="Title" value="魔法大厅1"/>
+				<imgdir name="Mob">
+					<string name="0" value="8148003"/>
+				</imgdir>
+</imgdir>

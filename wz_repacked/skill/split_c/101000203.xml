@@ -1,0 +1,5 @@
+<imgdir name="101000203">
+        <string name="name" value="长剑精通" />
+        <string name="desc" value="提升长剑类型武器的熟练度、攻击力和攻击速度。使用长剑时还会提升伤害、攻击速度、移动速度和跳跃力。" />
+        <string name="h" value="永久提升长剑熟练度: #mastery%，攻击力: +#padX，移动速度: +#psdSpeed，跳跃力: +#psdJump，攻击速度: +3级，无视#ignoreMobpdpR%敌人防御。" />
+    </imgdir>

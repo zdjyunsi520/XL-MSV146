@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="5200000">
+		<string name="name" value="小哨兵"/>
+	</imgdir>
+    <imgdir name="5200001">
+		<string name="name" value="冰哨兵"/>
+	</imgdir>
+    <imgdir name="5200002">
+		<string name="name" value="火哨兵"/>
+	</imgdir>
+    <imgdir name="5220000">
+		<string name="name" value="克兰国王"/>
+	</imgdir>
+    <imgdir name="5220001">
+		<string name="name" value="克兰国王"/>
+	</imgdir>
+    <imgdir name="5220002">
+		<string name="name" value="浮士德"/>
+	</imgdir>
+    <imgdir name="5220003">
+		<string name="name" value="计时器"/>
+	</imgdir>
+    <imgdir name="5220004">
+		<string name="name" value="巨型蜈蚣"/>
+	</imgdir>
+    <imgdir name="5250000">
+		<string name="name" value="苔藓蘑菇"/>
+	</imgdir>
+    <imgdir name="5250001">
+		<string name="name" value="石虫"/>
+	</imgdir>
+    <imgdir name="5250002">
+		<string name="name" value="原始野猪"/>
+	</imgdir>
+    <imgdir name="5250003">
+		<string name="name" value="狂暴原始野猪"/>
+	</imgdir>
+    <imgdir name="5250004">
+		<string name="name" value="赵"/>
+	</imgdir>
+    <imgdir name="5250005">
+		<string name="name" value="远古精灵"/>
+	</imgdir>
+    <imgdir name="5250006">
+		<string name="name" value="闪亮精灵"/>
+	</imgdir>
+    <imgdir name="5250007">
+		<string name="name" value="艾菲尼亚"/>
+	</imgdir>
+    <imgdir name="5300000">
+		<string name="name" value="莱蒂"/>
+	</imgdir>
+    <imgdir name="5300001">
+		<string name="name" value="暗黑莱蒂"/>
+	</imgdir>
+    <imgdir name="5300100">
+		<string name="name" value="玛拉迪"/>
+	</imgdir>
+    <imgdir name="5400000">
+		<string name="name" value="小佩佩"/>
+	</imgdir>
+</imgdir>

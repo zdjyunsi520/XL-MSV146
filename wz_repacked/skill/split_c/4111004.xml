@@ -1,0 +1,7 @@
+<imgdir name="4111004">
+        <string name="name" value="金币攻击" />
+        <string name="desc" value="用金币攻击敌人而不消耗金币。伤害取决于投掷的金币数量。取消敌人的武器防御和魔法守护增益。\n需要技能：#c金钱诱惑 Lv. 5#" />
+        <string name="h" value="Mesos Consumed: #y to #z mesos, Bonus Damage Chance: #prop%, Damage: #x%" />
+        <string name="pdesc" value="用金币攻击敌人。伤害取决于投掷的金币数量。取消敌人的武器防御和魔法守护增益。\n需要技能：#c金钱诱惑 Lv. 5#" />
+        <string name="ph" value="Mesos Consumed: #y to #z, Bonus Damage Chance: #prop%, Damage: #x%" />
+    </imgdir>

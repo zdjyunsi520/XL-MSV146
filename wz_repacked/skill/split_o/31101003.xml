@@ -1,0 +1,8 @@
+<imgdir name="31101003">
+        <string name="name" value="Vengeance" />
+        <string name="desc" value="Returns damage taken from enemies to the dealer, along with a chance to stun them. Cannot return more than half of an enemy&apos;s HP at once." />
+        <string name="h" value="HP Cost: #hpCon, Returns #y% of damage received back to the enemy for #time sec, Paralysis Chance: #prop%, Paralysis Duration: #subTime sec" />
+        <string name="pdesc" value="Returns damage taken from enemies to the dealer, along with a chance to stun them. Cannot return more than half of an enemy&apos;s HP at once." />
+        <string name="ph" value="HP Cost: #hpCon, Returns #y% of damage received back to the enemy for #time sec, Paralysis Chance: #prop%, Paralysis Duration: #subTime sec" />
+        <string name="hch" value="HP Cost: #hpCon, Damage Reflected #y%, Duration: #time sec, Paralysis Chance: #hcProp%, Paralysis Duration: #hcSubTime sec\nCooldown: #hcCooltime sec" />
+    </imgdir>

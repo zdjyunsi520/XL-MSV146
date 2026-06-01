@@ -1,0 +1,7 @@
+<imgdir name="1301011">
+        <string name="name" value="穿透突刺" />
+        <string name="desc" value="对敌人发动强力一击。#c如果敌人距离近，还会提升暴击率#。#c如果距离远，还会提升总伤害#。" />
+        <string name="pdesc" value="对敌人发动强力一击。#c如果敌人距离近，还会提升暴击率#。#c如果距离远，还会提升总伤害#。" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount。#c矛杆范围内暴击率: +#cr%#，矛尖范围内伤害: +#damR%" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount。#c矛杆范围内暴击率: +#cr%#，矛尖范围内伤害: +#damR%" />
+    </imgdir>

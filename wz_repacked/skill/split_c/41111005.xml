@@ -1,0 +1,5 @@
+<imgdir name="41111005">
+        <string name="name" value="龙卷斩" />
+        <string name="desc" value="将刀化为钢铁龙卷，将周围所有敌人推向一边。" />
+        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，暴击伤害：#damage%，攻击次数：#attackCount，吸引敌人\n冷却时间：#cooltime秒" />
+    </imgdir>

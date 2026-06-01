@@ -1,0 +1,5 @@
+<imgdir name="41101004">
+        <string name="name" value="飞燕斩" />
+        <string name="desc" value="拔刀术的基础技法，在前飞的同时伤害多个敌人。技能等级越高，飞行距离越远。\n[指令：#c11#]" />
+        <string name="h" value="消耗MP：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击时跳跃" />
+    </imgdir>

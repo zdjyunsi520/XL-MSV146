@@ -1,0 +1,5 @@
+<imgdir name="13121054">
+        <string name="name" value="Storm Bringer" />
+        <string name="desc" value="Calls down a torrential storm on your enemies." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec., Chance to summon a large arrow on attack: #prop%, Additional Damage from Arrow: #damage%" />
+    </imgdir>

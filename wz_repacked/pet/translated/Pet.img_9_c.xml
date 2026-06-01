@@ -1,0 +1,102 @@
+<imgdir name="Pet.img">
+    <imgdir name="5000261">
+		<string name="name" value="蹦蹦王子"/>
+		<string name="desc" value="这只兔子是时尚派对的主角。只能通过冒险岛造型系统获得。\n#c技能：金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="时尚的蹦蹦王子已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000269">
+		<string name="name" value="刺猬"/>
+		<string name="desc" value="这只小刺猬很有主见，但非常忠诚哦~\n#c技能：金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那扎人的小刺猬已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000270">
+		<string name="name" value="耳廓狐"/>
+		<string name="desc" value="一只浪漫的小耳廓狐，声称自己来自B612星球。\n#c技能：自动增益、金币磁铁、道具收纳袋、移动范围增加#"/>
+		<string name="descD" value="你那浪漫的小耳廓狐已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000271">
+		<string name="name" value="呆萌考拉"/>
+		<string name="desc" value="一只超级无所谓的考拉。\n装备这只考拉可获得#c桉树小调#技能，装备的考拉宠物越多技能越强。这只考拉也会跟着你一起成长。最终它会变成巨型考拉，每5分钟给你施放一个超酷的增益效果！\n#c技能：桉树小调#"/>
+		<string name="descD" value="这只时尚考拉宠物因为失去了生命之水已经没有了生命。需要特殊的魔法才能复活。"/>
+	</imgdir>
+    <imgdir name="5000272">
+		<string name="name" value="暴躁考拉"/>
+		<string name="desc" value="一只超级暴躁的考拉。\n装备这只考拉可获得#c桉树小调#技能，装备的考拉宠物越多技能越强。这只考拉也会跟着你一起成长。最终它会变成巨型考拉，每5分钟给你施放一个超酷的增益效果！\n#c技能：桉树小调#"/>
+		<string name="descD" value="这只时尚考拉宠物因为失去了生命之水已经没有了生命。需要特殊的魔法才能复活。"/>
+	</imgdir>
+    <imgdir name="5000273">
+		<string name="name" value="书呆考拉"/>
+		<string name="desc" value="一只超级书呆子气的考拉。\n装备这只考拉可获得#c桉树小调#技能，装备的考拉宠物越多技能越强。这只考拉也会跟着你一起成长。最终它会变成巨型考拉，每5分钟给你施放一个超酷的增益效果！\n#c技能：桉树小调#"/>
+		<string name="descD" value="这只时尚考拉宠物因为失去了生命之水已经没有了生命。需要特殊的魔法才能复活。"/>
+	</imgdir>
+    <imgdir name="5000275">
+		<string name="name" value="活泼花栗鼠"/>
+		<string name="desc" value="一只活泼的花栗鼠。\n装备这只花栗鼠可获得#c强力松鼠#技能，装备的花栗鼠宠物越多技能越强。这只花栗鼠也会跟着你一起成长。最终它会变成巨型花栗鼠，每5分钟给你施放一个超酷的增益效果！\n#c技能：增肥、自动增益、金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那活泼的花栗鼠宠物已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000276">
+		<string name="name" value="贪吃花栗鼠"/>
+		<string name="desc" value="一只贪吃的花栗鼠。\n装备这只花栗鼠可获得#c强力松鼠#技能，装备的花栗鼠宠物越多技能越强。这只花栗鼠也会跟着你一起成长。最终它会变成巨型花栗鼠，每5分钟给你施放一个超酷的增益效果！\n#c技能：增肥、自动增益、金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那活泼的花栗鼠宠物已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000277">
+		<string name="name" value="胖墩花栗鼠"/>
+		<string name="desc" value="一只圆滚滚的花栗鼠。\n装备这只花栗鼠可获得#c强力松鼠#技能，装备的花栗鼠宠物越多技能越强。这只花栗鼠也会跟着你一起成长。最终它会变成巨型花栗鼠，每5分钟给你施放一个超酷的增益效果！\n#c技能：增肥、自动增益、金币磁铁、道具收纳袋#"/>
+		<string name="descD" value="你那活泼的花栗鼠宠物已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000281">
+		<string name="name" value="狂暴梅特斯"/>
+		<string name="desc" value="梅特斯，愤怒的恶魔回来了，而且比以前更想变大！\n装备这只恶魔可获得#c恶魔契约技能#，装备的恶魔宠物越多技能越强。这只恶魔也会跟着你一起成长。当它长到足够大时，还会给你施放超酷的增益效果。#c技能：恶魔契约#"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000282">
+		<string name="name" value="阴沉莫斯"/>
+		<string name="desc" value="莫斯，阴郁的恶魔回来了，而且比以前更想变大！\n装备这只恶魔可获得#c恶魔契约技能#，装备的恶魔宠物越多技能越强。这只恶魔也会跟着你一起成长。当它长到足够大时，还会给你施放超酷的增益效果。#c技能：恶魔契约#"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000283">
+		<string name="name" value="狂野因维迪亚"/>
+		<string name="desc" value="因维迪亚，嫉妒的恶魔回来了，而且比以前更想变大！\n装备这只恶魔可获得#c恶魔契约技能#，装备的恶魔宠物越多技能越强。这只恶魔也会跟着你一起成长。当它长到足够大时，还会给你施放超酷的增益效果。#c技能：恶魔契约#"/>
+		<string name="descD" value="你那可怕的恶魔已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000299">
+		<string name="name" value="姜饼人"/>
+		<string name="desc" value="一个甜甜的姜饼人，跟着人类走是为了不被吃掉~"/>
+		<string name="descD" value="你那甜甜的姜饼人已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000312">
+		<string name="name" value="蓝龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了蓝龙！"/>
+		<string name="descD" value="本来是一只酷酷的蓝龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。不过只要一点小小的魔法，就能让它重新活过来哦..."/>
+	</imgdir>
+    <imgdir name="5000293">
+		<string name="name" value="噜宝A"/>
+		<string name="desc" value="一个超级开朗的噜宝机器人，在杰利麦勒实验室里趁泽诺逃出时溜了出来。\n装备这只噜宝机器人可获得#c噜宝摇摆#技能，装备的噜宝宠物越多技能越强。这只噜宝会在你打等级相近的怪物时变得越来越大。最终它会变成巨型噜宝，每5分钟给你施放一个超酷的增益效果。\n#c技能：噜宝摇摆#"/>
+		<string name="descD" value="你那开朗的噜宝机器人已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000294">
+		<string name="name" value="噜宝B"/>
+		<string name="desc" value="一个胆小怕事的噜宝机器人，在杰利麦勒实验室里趁泽诺逃出时溜了出来。\n装备这只噜宝机器人可获得#c噜宝摇摆#技能，装备的噜宝宠物越多技能越强。这只噜宝会在你打等级相近的怪物时变得越来越大。最终它会变成巨型噜宝，每5分钟给你施放一个超酷的增益效果。\n#c技能：噜宝摇摆#"/>
+		<string name="descD" value="你那胆小的噜宝机器人已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000295">
+		<string name="name" value="噜宝C"/>
+		<string name="desc" value="一个又酷又聪明的噜宝机器人，在杰利麦勒实验室里趁泽诺逃出时溜了出来。\n装备这只噜宝机器人可获得#c噜宝摇摆#技能，装备的噜宝宠物越多技能越强。这只噜宝会在你打等级相近的怪物时变得越来越大。最终它会变成巨型噜宝，每5分钟给你施放一个超酷的增益效果。\n#c技能：噜宝摇摆#"/>
+		<string name="descD" value="你那机智的噜宝机器人已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000167">
+		<string name="name" value="星翼"/>
+		<string name="desc" value="又迷人又有礼貌，星翼走到哪里都是人气王！"/>
+		<string name="descD" value="你有礼貌的星翼已经变成了玩偶。用生命之水可以让它重新活过来。"/>
+	</imgdir>
+    <imgdir name="5000318">
+		<string name="name" value="雪人机器人"/>
+		<string name="desc" value="怎样让雪人变得更强？装上昂贵的半机械零件！这只机械兽更大、更强、更有机器范儿！"/>
+		<string name="descD" value="你那萌萌的雪人机器人已经变成了玩偶。无法用生命之水复活。"/>
+	</imgdir>
+    <imgdir name="5000329">
+		<string name="name" value="红龙"/>
+		<string name="desc" value="神秘的魔力汇聚，成功将龙宝宝进化成了红龙！"/>
+		<string name="descD" value="本来是一只酷酷的红龙，可惜&quot;生命之水&quot;干涸后，它又变回了玩偶。无法用生命之水复活。"/>
+	</imgdir>
+</imgdir>

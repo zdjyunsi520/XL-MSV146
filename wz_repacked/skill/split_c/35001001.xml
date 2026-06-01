@@ -1,0 +1,7 @@
+<imgdir name="35001001">
+        <string name="name" value="火焰发射器" />
+        <string name="desc" value="发射火焰吞噬多个敌人。此技能最多可持续使用#c12秒#。\n前置技能：#c加特林机枪 Lv. 10#" />
+        <string name="h" value="MP消耗：每次攻击#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，最大持续时间（按住技能键）：12秒" />
+        <string name="pdesc" value="发射火焰吞噬多个敌人。此技能最多可持续使用#c12秒#。\n前置技能：#c加特林机枪 Lv. 10#" />
+        <string name="ph" value="MP消耗：每秒#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，最大持续时间（按住技能键）：12秒" />
+    </imgdir>

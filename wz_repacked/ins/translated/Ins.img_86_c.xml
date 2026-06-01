@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010538">
+		<string name="name" value="机械椅子"/>
+		<string name="desc" value="每10秒恢复HP的机械椅子。"/>
+	</imgdir>
+    <imgdir name="3010539">
+		<string name="name" value="红龙椅子"/>
+		<string name="desc" value="有点热，但至少有邪恶的红龙！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010540">
+		<string name="name" value="蓝龙椅子"/>
+		<string name="desc" value="有点冷，但至少有邪恶的蓝龙！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010541">
+		<string name="name" value="大钱椅子"/>
+		<string name="desc" value="在这椅子上每个人都是亿万富翁！每10秒恢复100 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010542">
+		<string name="name" value="酷猫椅子"/>
+		<string name="desc" value="在风扇旁边和猫玩耍。因为为什么不呢？每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010543">
+		<string name="name" value="粉红花魔法椅子"/>
+		<string name="desc" value="闻起来很像汗水和棉花糖...魔法！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010544">
+		<string name="name" value="热带清凉椅子"/>
+		<string name="desc" value="充满清爽水果，保证弄湿你的屁股！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010545">
+		<string name="name" value="雨天狐狸椅子"/>
+		<string name="desc" value="你会淋湿，可能还会沾满毛。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010546">
+		<string name="name" value="黑龙恶魔宝座"/>
+		<string name="desc" value="酷人总是穿黑色。总是。即使晚上骑自行车。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010547">
+		<string name="name" value="魔法书"/>
+		<string name="desc" value="你感觉比别人聪明多了。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010548">
+		<string name="name" value="美丽音乐椅子"/>
+		<string name="desc" value="情侣的可爱椅子。孤独的人也可以坐，但不好玩。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010549">
+		<string name="name" value="羊芽椅子"/>
+		<string name="desc" value="是我还是这里很困？每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010550">
+		<string name="name" value="兔子月亮返乡椅子"/>
+		<string name="desc" value="它说后天会带着年糕回来。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010551">
+		<string name="name" value="恶魔黑狗宝座"/>
+		<string name="desc" value="有压倒性凝视的椅子。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010552">
+		<string name="name" value="免费拥抱猫椅子"/>
+		<string name="desc" value="拥抱很差，但你付多少钱就得到什么。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010553">
+		<string name="name" value="恶魔羊椅子"/>
+		<string name="desc" value="真正的恶魔羊。不建议午睡。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010554">
+		<string name="name" value="粉色游戏手柄椅子"/>
+		<string name="desc" value="女玩家是真实的，由棉花糖制成，闻起来像独角兽。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010555">
+		<string name="name" value="明亮夜猫椅子"/>
+		<string name="desc" value="就在那里咕咕叫。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010556">
+		<string name="name" value="皮肤女皇椅子"/>
+		<string name="desc" value="椅子不是用皮肤做的，但对你的皮肤很舒服！每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+    <imgdir name="3010557">
+		<string name="name" value="困倦鸟椅子"/>
+		<string name="desc" value="无忧无虑地在小鸟间打瞌睡。每10秒恢复50 HP和50 MP。"/>
+	</imgdir>
+</imgdir>

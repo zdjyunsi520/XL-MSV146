@@ -1,0 +1,5 @@
+<imgdir name="2311011">
+        <string name="name" value="Holy Fountain" />
+        <string name="desc" value="Summons the Holy Fountain to recover party member&apos;s HP using holy power. Even a party member in Undead status can use it. #cGo near the fountain and press the up arrow key to recover.# Cannot be summoned near a portal." />
+        <string name="h" value="MP Cost: #mpCon, restores #x% HP when used, able to use #y times total. Duration: #time sec. Cooldown: #cooltime sec" />
+    </imgdir>

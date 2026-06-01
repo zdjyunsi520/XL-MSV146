@@ -1,0 +1,7 @@
+<imgdir name="3201005">
+        <string name="name" value="铁甲箭" />
+        <string name="desc" value="发射可穿透敌人防御的钢铁箭矢~" />
+        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+        <string name="pdesc" value="发射可穿透敌人防御的钢铁箭矢~" />
+        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
+    </imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="2221053">
+        <string name="name" value="Epic Adventure" />
+        <string name="desc" value="Call upon the bravery deep within to increase damage output and max damage." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Applies to any Explorer class within the party" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5211001">
+		<string name="name" value="From NEXON"/>
+		<string name="desc" value="Please refrain from breaking Maplestory client apart."/>
+	</imgdir>
+    <imgdir name="5211002">
+		<string name="name" value="Special Coupon - 5 days"/>
+		<string name="desc" value="Hold on to this coupon to #cearn 2x EXP from all monsters#. This coupon is valid for 5 days after the initial possession, and please be aware that if the character has multiple coupons of the same kind, they will all kick in at once."/>
+	</imgdir>
+    <imgdir name="5211003">
+		<string name="name" value="one-time 2x EXP coupon"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)# for xx minutes after the purchaser activate the coupon."/>
+	</imgdir>
+    <imgdir name="5211004">
+		<string name="name" value="2x EXP Card Type 1 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 am to 11 am (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211005">
+		<string name="name" value="2x EXP Card Type 2 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 10 am to 02 pm (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211006">
+		<string name="name" value="2x EXP Card Type 3 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 01 pm to 05 pm (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211007">
+		<string name="name" value="2x EXP Card Type 4 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 04 pm to 08 pm (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211008">
+		<string name="name" value="2x EXP Card Type 5 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 pm to 11 pm (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211009">
+		<string name="name" value="2x EXP Card Type 1 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 am to 11 am (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211010">
+		<string name="name" value="2x EXP Card Type 2 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 10 am to 02 pm (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211011">
+		<string name="name" value="2x EXP Card Type 3 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 01 pm to 05 pm (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211012">
+		<string name="name" value="2x EXP Card Type 4 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 04 pm to 08 pm (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211013">
+		<string name="name" value="2x EXP Card Type 5 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 pm to 11 pm (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211014">
+		<string name="name" value="2x EXP Card Type 1 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 am to 11 am (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211015">
+		<string name="name" value="2x EXP Card Type 2 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 10 am to 02 pm (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211016">
+		<string name="name" value="2x EXP Card Type 3 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 01 pm to 05 pm (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211017">
+		<string name="name" value="2x EXP Card Type 4 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 04 pm to 08 pm (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211018">
+		<string name="name" value="2x EXP Card Type 5 - Everyday"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 07 pm to 11 pm (Pacific time) #ceveryday#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211037">
+		<string name="name" value="2x EXP Card Type 6 - Weekdays"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 12 am to 04 am (Pacific time) #cweekdays#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5211038">
+		<string name="name" value="2x EXP Card Type 6 - Weekends"/>
+		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 12 am to 04 am (Pacific time) #cweekends#. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="15110000">
+        <string name="name" value="Critical Punch" />
+        <string name="desc" value="Increases your Critical Rate and the minimum Critical Damage." />
+        <string name="h" value="Critical Attack Rate: +#prop%,  Minimum Critical Damage: +#criticaldamageMin%" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022579">
+		<string name="name" value="佩佩国王海盗防具盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有海盗防具。"/>
+	</imgdir>
+    <imgdir name="2022580">
+		<string name="name" value="佩佩国王战士盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有战士装备。"/>
+	</imgdir>
+    <imgdir name="2022581">
+		<string name="name" value="佩佩国王魔法师盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有魔法师装备。"/>
+	</imgdir>
+    <imgdir name="2022582">
+		<string name="name" value="佩佩国王弓箭手盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有弓箭手装备。"/>
+	</imgdir>
+    <imgdir name="2022583">
+		<string name="name" value="佩佩国王飞侠盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有飞侠装备。"/>
+	</imgdir>
+    <imgdir name="2022584">
+		<string name="name" value="佩佩国王海盗盒"/>
+		<string name="desc" value="佩佩国王的盒子，里面有海盗装备。"/>
+	</imgdir>
+    <imgdir name="2022585">
+		<string name="name" value="法老的祝福 Lv. 1"/>
+		<string name="desc" value="100%伤害，攻击速度+1"/>
+	</imgdir>
+    <imgdir name="2022586">
+		<string name="name" value="法老的祝福 Lv. 2"/>
+		<string name="desc" value="200%伤害，攻击速度+2"/>
+	</imgdir>
+    <imgdir name="2022587">
+		<string name="name" value="法老的祝福 Lv. 3"/>
+		<string name="desc" value="300%伤害，攻击速度+3"/>
+	</imgdir>
+    <imgdir name="2022588">
+		<string name="name" value="法老的祝福 Lv. 4"/>
+		<string name="desc" value="400%伤害，攻击速度+4"/>
+	</imgdir>
+    <imgdir name="2022613">
+		<string name="name" value="法老的宝箱"/>
+		<string name="desc" value="装着法老珍藏物品的宝箱。双击打开。"/>
+	</imgdir>
+    <imgdir name="2022614">
+		<string name="name" value="宾果礼物盒"/>
+		<string name="desc" value="在宾果板上完成一条线后获得的惊喜礼物盒。打开看看里面有什么！"/>
+	</imgdir>
+    <imgdir name="2022615">
+		<string name="name" value="地铁失物招领箱"/>
+		<string name="desc" value="被气泡意外吞下的失物招领箱。双击打开。"/>
+	</imgdir>
+    <imgdir name="2022616">
+		<string name="name" value="力量buff Lv. 1"/>
+		<string name="desc" value="100%伤害，攻击速度+1"/>
+	</imgdir>
+    <imgdir name="2022617">
+		<string name="name" value="力量buff Lv. 2"/>
+		<string name="desc" value="200%伤害，攻击速度+2"/>
+	</imgdir>
+    <imgdir name="2022618">
+		<string name="name" value="法老的宝箱"/>
+		<string name="desc" value="装着法老珍贵物品的宝箱。双击打开。"/>
+	</imgdir>
+    <imgdir name="2022620">
+		<string name="name" value="自制三明治"/>
+		<string name="desc" value="安娜亲手制作的三明治。早上吃可以保证一整天都有满足感。"/>
+	</imgdir>
+    <imgdir name="2022621">
+		<string name="name" value="美味牛奶"/>
+		<string name="desc" value="农场生产的新鲜牛奶。\n恢复约100 HP。"/>
+	</imgdir>
+    <imgdir name="2022622">
+		<string name="name" value="鲜榨果汁"/>
+		<string name="desc" value="农场生产的新鲜果汁。\n恢复约50 MP。"/>
+	</imgdir>
+    <imgdir name="2022623">
+		<string name="name" value="调味蛙卵和蘑菇"/>
+		<string name="desc" value="用受诅咒的蛙卵制成的臭菜肴。食用恢复400 HP。"/>
+	</imgdir>
+</imgdir>

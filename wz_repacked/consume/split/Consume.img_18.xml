@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2004080">
+		<string name="name" value="Defense Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +50 and Magic DEF +50 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004081">
+		<string name="name" value="Defense Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +70 and Magic DEF +70 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004082">
+		<string name="name" value="Defense Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +90 and Magic DEF +90 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004083">
+		<string name="name" value="Defense Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +110 and Magic DEF +110 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004084">
+		<string name="name" value="Defense Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +130 and Magic DEF +130 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004085">
+		<string name="name" value="Defense Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +150 and Magic DEF +150 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004086">
+		<string name="name" value="Defense Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +170 and Magic DEF +170 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004087">
+		<string name="name" value="Defense Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +190 and Magic DEF +190 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004088">
+		<string name="name" value="Defense Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +210 and Magic DEF +210 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004089">
+		<string name="name" value="Defense Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +230 and Magic DEF +230 for 15 min."/>
+	</imgdir>
+    <imgdir name="2004090">
+		<string name="name" value="Advanced Defense Potion I"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +50 and Magic DEF +50 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004091">
+		<string name="name" value="Advanced Defense Potion II"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +70 and Magic DEF +70 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004092">
+		<string name="name" value="Advanced Defense Potion III"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +90 and Magic DEF +90 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004093">
+		<string name="name" value="Advanced Defense Potion IV"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +110 and Magic DEF +110 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004094">
+		<string name="name" value="Advanced Defense Potion V"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +130 and Magic DEF +130 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004095">
+		<string name="name" value="Advanced Defense Potion VI"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +150 and Magic DEF +150 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004096">
+		<string name="name" value="Advanced Defense Potion VII"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +170 and Magic DEF +170 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004097">
+		<string name="name" value="Advanced Defense Potion VIII"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +190 and Magic DEF +190 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004098">
+		<string name="name" value="Advanced Defense Potion IX"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +210 and Magic DEF +210 for 30 min."/>
+	</imgdir>
+    <imgdir name="2004099">
+		<string name="name" value="Advanced Defense Potion X"/>
+		<string name="desc" value="A potion made through Alchemy.\nWeapon DEF +230 and Magic DEF +230 for 30 min."/>
+	</imgdir>
+</imgdir>

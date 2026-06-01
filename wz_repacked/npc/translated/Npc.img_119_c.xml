@@ -1,0 +1,142 @@
+<imgdir name="Npc.img">
+    <imgdir name="9201042">
+		<string name="name" value="Sandman先生"/>
+		<string name="n0" value="Sandman先生可以给你带来梦想，但前提是你要有愿望券！"/>
+		<string name="n1" value="拿一些来，我可以让你的梦想成真！"/>
+	</imgdir>
+    <imgdir name="9201068">
+		<string name="name" value="新叶城检票口"/>
+		<string name="n0" value="呼..."/>
+		<string name="n1" value="嘿..."/>
+	</imgdir>
+    <imgdir name="9201069">
+		<string name="name" value="V. Isage"/>
+		<string name="n0" value="你想做整形手术吗？让我来照顾你..."/>
+		<string name="n1" value="偶尔改变一下你的脸不是个坏主意。"/>
+		<string name="func" value="整形外科医生"/>
+	</imgdir>
+    <imgdir name="9201070">
+		<string name="name" value="Nerbit"/>
+		<string name="n0" value="我戴了这么久，几乎看不见眼前的东西了..."/>
+		<string name="n1" value="整形手术？让我来处理。哈哈...等等，你的脸在哪里？"/>
+		<string name="func" value="无证医生"/>
+	</imgdir>
+    <imgdir name="9201074">
+		<string name="name" value="Bob"/>
+		<string name="n0" value="你想杀了我，还威胁我到死！"/>
+		<string name="n1" value="整形手术？让我来处理。哈哈...等等，脸在哪里？"/>
+		<string name="func" value="蜗牛"/>
+	</imgdir>
+    <imgdir name="9201075">
+		<string name="name" value="Agent Falcon"/>
+		<string name="n0" value="*叹气。*也许我应该更仔细地阅读那些学院手册..."/>
+		<string name="n1" value="我来自MBI。冒险岛调查局。"/>
+		<string name="d0" value="很高兴认识你。我是Agent Falcon。我在冒险岛调查局工作。你能抽出一秒钟来帮忙进行超自然调查吗？"/>
+		<string name="d1" value="完成六页了！还剩665页...等等，不！还剩666页。我得在这里待一会儿..."/>
+		<string name="func" value="MBI特工"/>
+	</imgdir>
+    <imgdir name="9201076">
+		<string name="name" value="Ludmilla"/>
+		<string name="n0" value="家务对于像我这样美丽的人来说是不值得的。"/>
+		<string name="n1" value="能欣赏我光芒四射的美丽，你应该心存感激！"/>
+		<string name="d0" value="哟嗬！女仆们都去哪里了？"/>
+		<string name="d1" value="我等不及了，舞会将会非常激动人心！我只希望马不会闹事。"/>
+		<string name="func" value="继母"/>
+	</imgdir>
+    <imgdir name="9201077">
+		<string name="name" value="Jonas Prendergast"/>
+		<string name="n0" value="Sophilia？亲爱的，是你吗？"/>
+		<string name="n1" value="谁在打扰我？"/>
+		<string name="d0" value="谁在打扰我？Sophilia，我亲爱的女孩，是你吗？呃？你不是她！你是谁？为什么打扰我的工作？"/>
+		<string name="d1" value="再见。"/>
+		<string name="func" value="玩具制造商"/>
+	</imgdir>
+    <imgdir name="9201078">
+		<string name="name" value="Sophilia"/>
+		<string name="n0" value="你好。你没有在任何地方看到我的娃娃吧？"/>
+		<string name="n1" value="我想见我爸爸..."/>
+		<string name="d0" value="我的娃娃在哪里...？"/>
+		<string name="d1" value="我想自己见我爸爸..."/>
+	</imgdir>
+    <imgdir name="9201079">
+		<string name="name" value="Tom老人"/>
+		<string name="n0" value="别进去！你会后悔的！"/>
+		<string name="n1" value="那房子闹鬼！"/>
+		<string name="d0" value="嗯？你在这里干什么？你想要什么？你不是想进房子吧？"/>
+		<string name="d1" value="谢谢你，年轻人，让Prendergast家族的灵魂安息了。"/>
+	</imgdir>
+    <imgdir name="9201080">
+		<string name="name" value="Edmunds"/>
+		<string name="n0" value="一切都必须保持整洁！Ludmilla要求这样做，我必须服从..."/>
+		<string name="n1" value="这房子最近太冷清了..."/>
+		<string name="d0" value="啊...这房子最近太冷了..."/>
+		<string name="d1" value="我必须再次感谢你。你给我的果冻史莱姆又一次坐在食品储藏室里了。你让我的心重新平静下来。Sophilia的记忆永存..."/>
+		<string name="func" value="管家"/>
+	</imgdir>
+    <imgdir name="9201082">
+		<string name="name" value="Spindle"/>
+		<string name="s0" value="嘿，你听说过冒险岛集换式卡牌游戏吗？"/>
+		<string name="d0" value="嘿，你好。我叫Spindle。我擅长修理坏掉的东西，也擅长建造不会坏掉的东西。需要什么吗？如果不需要，我在这里有点忙..."/>
+	</imgdir>
+    <imgdir name="9201086">
+		<string name="name" value="Andy"/>
+		<string name="func" value="Target店员"/>
+		<string name="n0" value="这个假期...期待更多！"/>
+		<string name="n1" value="Karma Koins是你和朋友的绝佳礼物。"/>
+		<string name="d0" value="这个假期...期待更多！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个Karma Koin！你可能想在另一个城镇找找更多的Karma Koins！一定要先帮爸爸妈妈做完家务！"/>
+	</imgdir>
+    <imgdir name="9201087">
+		<string name="name" value="Kate"/>
+		<string name="func" value="Duane Reade店员"/>
+		<string name="n0" value="你需要的一切都在这里！"/>
+		<string name="n1" value="Karma Koins是你和朋友的绝佳礼物。"/>
+		<string name="d0" value="你需要的一切都在这里！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个Karma Koin！你可能想在另一个城镇找找更多的Karma Koins！一定要先帮爸爸妈妈做完家务！"/>
+	</imgdir>
+    <imgdir name="9201088">
+		<string name="name" value="Barry"/>
+		<string name="func" value="7-Eleven店员"/>
+		<string name="n0" value="哦，感谢上天！"/>
+		<string name="n1" value="Karma Koins是你和朋友的绝佳礼物。"/>
+		<string name="d0" value="哦，感谢上天！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个Karma Koin！你可能想在另一个城镇找找更多的Karma Koins！一定要先帮爸爸妈妈做完家务！"/>
+	</imgdir>
+    <imgdir name="9201089">
+		<string name="name" value="Alex"/>
+		<string name="func" value="Rite-Aid店员"/>
+		<string name="n0" value="与我们一起，这是个人化的！"/>
+		<string name="n1" value="Karma Koins是你和朋友的绝佳礼物。"/>
+		<string name="d0" value="与我们一起，这是个人化的！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个Karma Koin！你可能想在另一个城镇找找更多的Karma Koins！一定要先帮爸爸妈妈做完家务！"/>
+	</imgdir>
+    <imgdir name="9201090">
+		<string name="name" value="Jill"/>
+		<string name="func" value="Best Buy店员"/>
+		<string name="n0" value="祝你假期安全快乐！"/>
+		<string name="n1" value="Karma Koins是你和朋友的绝佳礼物。"/>
+		<string name="d0" value="祝你假期安全快乐！"/>
+		<string name="d1" value="该死！我刚卖掉了最后一个Karma Koin！你可能想在另一个城镇找找更多的Karma Koins！一定要先帮爸爸妈妈做完家务！"/>
+	</imgdir>
+    <imgdir name="9201091">
+		<string name="name" value="O-Pongo"/>
+		<string name="n0" value="Versalmas来了！愿你的日子充满光明！"/>
+		<string name="n1" value="哦嘿！Versalmas是最好的！比生日还好！"/>
+		<string name="d0" value="哦嘿！祝你Versalmas快乐！我被称为O-Pongo，Versalmas老鼠！你是来和我一起庆祝Versalmas精神的吗？"/>
+		<string name="d1" value="哦嘿，又来了！感谢你帮助我传播Versalmas的欢乐！"/>
+	</imgdir>
+    <imgdir name="9201092">
+		<string name="name" value="Mr. Grubber"/>
+		<string name="n0" value="咕噜！你！是的，我在跟你说话！"/>
+		<string name="n1" value="咕噜！你！是的，我在跟你说话！"/>
+		<string name="d0" value="你看起来像个聪明的孩子，聪明的孩子知道机会何时敲门。你想参与一个赚钱的商业机会吗？"/>
+		<string name="d1" value="你看起来像个聪明的孩子，聪明的孩子知道机会何时敲门。你想参与一个赚钱的商业机会吗？"/>
+	</imgdir>
+    <imgdir name="9201093">
+		<string name="name" value="小Suzy"/>
+		<string name="n0" value="打扰一下！我有个问题！我正在做一个非常重要的决定。"/>
+		<string name="n1" value="嗯...Maplemas还是Versalmas？"/>
+		<string name="d0" value="打扰一下！我有个问题！我正在做一个非常重要的决定。"/>
+		<string name="d1" value="我等不及想看看我会得到什么！"/>
+	</imgdir>
+</imgdir>

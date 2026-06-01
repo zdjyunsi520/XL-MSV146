@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290024">
+		<string name="name" value="[能手册] 奥术瞄准 20"/>
+		<string name="desc" value="70%概率将#c奥术瞄准#的最高等级提升到20级。\n职业：4转法师\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290025">
+		<string name="name" value="[能手册] 奥术瞄准 30"/>
+		<string name="desc" value="50%概率将#c奥术瞄准#的最高等级提升到30级。\n职业：4转法师\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290028">
+		<string name="name" value="[能手册] 无限"/>
+		<string name="desc" value="70%概率将#c无限#的最高等级提升到20级。\r\n职业：4转法师\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290029">
+		<string name="name" value="[能手册] 无限"/>
+		<string name="desc" value="50%概率将#c无限#的最高等级提升到30级。\r\n职业：4转法师\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290030">
+		<string name="name" value="[能手册] 麻痹"/>
+		<string name="desc" value="70%概率将#c麻痹#的最高等级提升到20级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290031">
+		<string name="name" value="[能手册] 麻痹"/>
+		<string name="desc" value="50%概率将#c麻痹#的最高等级提升到30级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290032">
+		<string name="name" value="[能手册] 连环闪电"/>
+		<string name="desc" value="70%概率将#c连环闪电#的最高等级提升到20级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290033">
+		<string name="name" value="[能手册] 连环闪电"/>
+		<string name="desc" value="50%概率将#c连环闪电#的最高等级提升到30级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290034">
+		<string name="name" value="[能手册] 高级祝福 20"/>
+		<string name="desc" value="70%概率将#c高级祝福#的最高等级提升到20级。\n职业：主教\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290035">
+		<string name="name" value="[能手册] 高级祝福 30"/>
+		<string name="desc" value="70%概率将#c高级祝福#的最高等级提升到30级。\n职业：主教\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290036">
+		<string name="name" value="[能手册] 迷雾爆发 20"/>
+		<string name="desc" value="70%概率将#c迷雾爆发#的最高等级提升到20级。\n职业：魔导师（火、毒）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290037">
+		<string name="name" value="[能手册] 迷雾爆发 30"/>
+		<string name="desc" value="50%概率将#c迷雾爆发#的最高等级提升到30级。\n职业：魔导师（火、毒）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290038">
+		<string name="name" value="[能手册] 伊夫利特"/>
+		<string name="desc" value="70%概率将#c伊夫利特#的最高等级提升到20级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290039">
+		<string name="name" value="[能手册] 伊夫利特"/>
+		<string name="desc" value="50%概率将#c伊夫利特#的最高等级提升到30级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290040">
+		<string name="name" value="[能手册] 流星雨"/>
+		<string name="desc" value="70%概率将#c流星雨#的最高等级提升到20级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290041">
+		<string name="name" value="[能手册] 流星雨"/>
+		<string name="desc" value="50%概率将#c流星雨#的最高等级提升到30级。\r\n职业：魔导师（火、毒）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290042">
+		<string name="name" value="[能手册] 冰川链 20"/>
+		<string name="desc" value="70%概率将#c冰川链#的最高等级提升到20级。\n职业：魔导师（冰、雷）\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290043">
+		<string name="name" value="[能手册] 冰川链 30"/>
+		<string name="desc" value="50%概率将#c冰川链#的最高等级提升到30级。\n职业：魔导师（冰、雷）\n条件：技能等级15级以上"/>
+	</imgdir>
+    <imgdir name="2290044">
+		<string name="name" value="[能手册] 埃尔奎尼斯"/>
+		<string name="desc" value="70%概率将#c埃尔奎尼斯#的最高等级提升到20级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级5级以上"/>
+	</imgdir>
+    <imgdir name="2290045">
+		<string name="name" value="[能手册] 埃尔奎尼斯"/>
+		<string name="desc" value="50%概率将#c埃尔奎尼斯#的最高等级提升到30级。\r\n职业：魔导师（冰、雷）\r\n条件：技能等级15级以上"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="1311015">
+        <string name="name" value="Cross Surge" />
+        <string name="desc" value="#cIncreases total damage proportional to current HP# for a short time. Also #creduces damage taken proportional to# reduced HP." />
+        <string name="h" value="MP Cost: #mpCon, For #time sec, the total damage increases by #c#x% of current HP ratio#. #cDamage received will be reduced by# #y% of reduced HP, up to a maximum of #z" />
+    </imgdir>

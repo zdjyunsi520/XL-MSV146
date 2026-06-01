@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4033394">
+			<string name="name" value="Romero's Gold Pouch"/>
+			<string name="desc" value="A gold pouch given by Romero in return for your clinical demonstration."/>
+		</imgdir>
+    <imgdir name="4033395">
+			<string name="name" value="Morrow Tree Sap"/>
+			<string name="desc" value="Morrow tree's clear sap. It could be good for your body."/>
+		</imgdir>
+    <imgdir name="4033396">
+			<string name="name" value="Merchant Junk Box"/>
+			<string name="desc" value="A box filled with all kinds of junk from the merchant crew."/>
+		</imgdir>
+    <imgdir name="4033397">
+			<string name="name" value="Yellow Seal Envelope"/>
+			<string name="desc" value="Merchant crew's black envelope. It has a yellow seal on it."/>
+		</imgdir>
+    <imgdir name="4033398">
+			<string name="name" value="Green Seal Envelope"/>
+			<string name="desc" value="Merchant crew's black envelope. It has a green seal on it."/>
+		</imgdir>
+    <imgdir name="4033399">
+			<string name="name" value="Red Seal Envelope"/>
+			<string name="desc" value="Merchant crew's black envelope. It has a red seal on it."/>
+		</imgdir>
+    <imgdir name="4033400">
+			<string name="name" value="Fine Firewood Pile"/>
+			<string name="desc" value="A pile of firewood that seems to burn pretty well."/>
+		</imgdir>
+    <imgdir name="4033401">
+			<string name="name" value="Sparkling Flower"/>
+			<string name="desc" value="A magical flower that emits a sparkling light."/>
+		</imgdir>
+    <imgdir name="4033402">
+			<string name="name" value="Popo's Special Spices"/>
+			<string name="desc" value="Eurenth's favorite red seasoning blend. What in the world is in there?"/>
+		</imgdir>
+    <imgdir name="4033403">
+			<string name="name" value="Velderoth's Relic"/>
+			<string name="desc" value="Velderoth's most cherished relic. It's a small piece shaped like the head of a dragon. There must be other parts."/>
+		</imgdir>
+    <imgdir name="4033404">
+			<string name="name" value="Victor's Relic"/>
+			<string name="desc" value="Victor's most cherished relic. It's a small piece shaped like the body of a dragon. There must be other parts."/>
+		</imgdir>
+    <imgdir name="4033405">
+			<string name="name" value="Treglow's Relic"/>
+			<string name="desc" value="Treglow's most cherished relic. It's a small piece shaped like the feet of a dragon. There must be other parts."/>
+		</imgdir>
+    <imgdir name="4033406">
+			<string name="name" value="Dragon King Relic"/>
+			<string name="desc" value="A royal seal created by combining the relics of Velderoth, Victor, and Treglow. It should open the door to Magnus."/>
+		</imgdir>
+    <imgdir name="4033407">
+			<string name="name" value="Blue Speeyor Fur Coat"/>
+			<string name="desc" value="It is Blue Speeyor's fur coat. It feels rough but you can still use it as blanket when you need it."/>
+		</imgdir>
+    <imgdir name="4033408">
+			<string name="name" value="Animal Oil"/>
+			<string name="desc" value="Speeyor fat burns really well."/>
+		</imgdir>
+    <imgdir name="4033409">
+			<string name="name" value="Yellow Speeyor Fur Coat"/>
+			<string name="desc" value="Yellow Speeyor's noble fur coat. Terribly soft."/>
+		</imgdir>
+    <imgdir name="4033410">
+			<string name="name" value="Dinogoth Shoulder Meat"/>
+			<string name="desc" value="Dinogoth's Shoulder Meat. Great for soup."/>
+		</imgdir>
+    <imgdir name="4033411">
+			<string name="name" value="Dinoram Tenderloin"/>
+			<string name="desc" value="Dinoram's Tenderloin. Pop it in a slow-roaster and enjoy."/>
+		</imgdir>
+    <imgdir name="4033412">
+			<string name="name" value="Dinodon Sharp Fang"/>
+			<string name="desc" value="Dinodon fangs are super sharp."/>
+		</imgdir>
+    <imgdir name="4033413">
+			<string name="name" value="Tamer's Whip"/>
+			<string name="desc" value="A whip used by tamer Specters."/>
+		</imgdir>
+</imgdir>

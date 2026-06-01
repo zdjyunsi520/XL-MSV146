@@ -1,0 +1,5 @@
+<imgdir name="15120008">
+        <string name="name" value="雷神" />
+        <string name="desc" value="获得对雷电和风暴的绝对掌控！" />
+        <string name="h" value="雷电增益发动概率：+#prop%，最大叠加次数：#v。暴击率：#cr%，最大暴击伤害：+#criticaldamageMax%" />
+    </imgdir>

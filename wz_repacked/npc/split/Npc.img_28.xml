@@ -1,0 +1,146 @@
+<imgdir name="Npc.img">
+    <imgdir name="2153001">
+		<string name="name" value="Harry Lion"/>
+		<string name="func" value="Portal Manager"/>
+		<string name="n0" value="I love peace and quiet."/>
+		<string name="n1" value="It's peaceful now that all the bosses have gone to other areas to work."/>
+		<string name="d0" value="This portal is for the Black Wing Bosses. Usually, no one else can use it."/>
+		<string name="d1" value="Well, rules are important, but there are always exceptions..."/>
+	</imgdir>
+    <imgdir name="2153002">
+		<string name="name" value="Bunny Large"/>
+		<string name="n0" value="You can't go past this point."/>
+		<string name="n1" value="Only the Black Wing members can enter."/>
+		<string name="d0" value="There's a Black Wing Hideout, which only the members of the Black Wings can enter. No one else!"/>
+		<string name="d1" value="There's a Black Wing Hideout, which only the members of the Black Wings can enter. No one else!"/>
+		<string name="func" value="Black Wing Gatekeeper"/>
+	</imgdir>
+    <imgdir name="2153003">
+		<string name="name" value="Von"/>
+		<string name="n0" value="Shhh! Quiet..."/>
+		<string name="n1" value="Evil Black Wings..."/>
+		<string name="d0" value="Hush! Be quiet! The Black Wings might find out about us. That bunny looks dense, but it's surprisingly sharp."/>
+		<string name="d1" value="Hush! Be quiet! The Black Wings might find out about us. That bunny looks dense, but it's surprisingly sharp."/>
+		<imgdir name="dialogue">
+			<string name="23007" value="Hush! Be quiet... Are you just getting here now? I won't go back until I rescue Gabrielle!"/>
+		</imgdir>
+    <imgdir name="2153004">
+		<string name="name" value="Black Portal"/>
+	</imgdir>
+    <imgdir name="2154000">
+		<string name="name" value="Chang"/>
+		<string name="func" value="Black Wing Boss"/>
+		<string name="n0" value="Zzzzzz..."/>
+		<string name="n1" value="It's dark... I'm getting sleepy..."/>
+		<string name="d0" value="All the bosses are busy, except for Wong and me."/>
+		<string name="d1" value="All the bosses are busy, except for Wong and me."/>
+	</imgdir>
+    <imgdir name="2154001">
+		<string name="name" value="Wong"/>
+		<string name="func" value="Black Wing Boss"/>
+		<string name="n0" value="I must train...but, I'm too busy."/>
+		<string name="n1" value="Intruders will be punished!"/>
+		<string name="d0" value="I have nothing to do since the last mission... Training is the perfect activity!"/>
+		<string name="d1" value="I have nothing to do since the last mission... Training is the perfect activity!"/>
+	</imgdir>
+    <imgdir name="2154002">
+		<string name="name" value="Le Tierre"/>
+		<string name="func" value="Black Wing Secretary"/>
+		<string name="n0" value="Hehe... I hope everything is going well for the bosses."/>
+		<string name="n1" value="Hiver seems to be the busiest, which means less work for me. Hehehe."/>
+		<string name="d0" value="I'm Le Tierre, the Black Wing secretary. I support other bosses here at the Hideout."/>
+		<string name="d1" value="I'm Le Tierre, the Black Wing secretary. I support other bosses here at the Hideout."/>
+	</imgdir>
+    <imgdir name="2154003">
+		<string name="name" value="Muscat-2000"/>
+		<string name="n0" value="On duty. No issues to report."/>
+		<string name="n1" value="Current Guard Rank, B."/>
+		<string name="d0" value="If you spot an intruder inside the Mine, please report it."/>
+		<string name="d1" value="If you spot an intruder inside the Mine, please report it."/>
+	</imgdir>
+    <imgdir name="2154004">
+		<string name="name" value="Gabrielle"/>
+		<string name="n0" value="Don't come this way. It's dangerous!"/>
+		<string name="n1" value="I wonder if everyone back home is doing well..."/>
+		<string name="d0" value="My name is Gabrielle. I'm the daughter of the former Council President, Albert."/>
+		<string name="d1" value="My name is Gabrielle. I'm the daughter of the former Council President, Albert."/>
+	</imgdir>
+    <imgdir name="2154005">
+		<string name="name" value="Buck Teeth"/>
+		<string name="n0" value="Intruders will be punished!"/>
+		<string name="n1" value="Gabrielle will never escape!"/>
+		<string name="d0" value="My job is to watch Gabrielle, so she doesn't escape. No room for mistakes!"/>
+		<string name="d1" value="My job is to watch Gabrielle, so she doesn't escape. No room for mistakes!"/>
+	</imgdir>
+    <imgdir name="2154006">
+		<string name="name" value="Kwan"/>
+		<string name="func" value="Black Wing Watchman"/>
+		<string name="n0" value="None of the researchers would run away at this point..."/>
+		<string name="n1" value="Yawn... How do they expect me to stay awake in this darkness?"/>
+		<string name="d0" value="My duty? It's boring. I make sure the researchers in the Mine don't run away."/>
+		<string name="d1" value="My duty? It's boring. I make sure the researchers in the Mine don't run away."/>
+	</imgdir>
+    <imgdir name="2154007">
+		<string name="name" value="Zechtok-2000"/>
+		<string name="n0" value="On duty."/>
+		<string name="n1" value="I'd like to kindly decline all unnecessary conversations."/>
+		<string name="d0" value="I am not an Android, built to be your chit-chat buddy. Do not talk to me only because you are bored."/>
+		<string name="d1" value="I am not an Android, built to be your chit-chat buddy. Do not talk to me only because you are bored."/>
+	</imgdir>
+    <imgdir name="2154008">
+		<string name="name" value="Cory"/>
+		<string name="func" value="Research Intern"/>
+		<string name="n0" value="Sigh... I'm bored. Why won't they just let me go?"/>
+		<string name="n1" value="What experiment? Who knows? Who cares?"/>
+		<string name="d0" value="I'm Cory! I only had one week on the job as a Research Intern! Why do they need me in here?"/>
+		<string name="d1" value="I'm Cory! I only had one week on the job as a Research Intern! Why do they need me in here?"/>
+	</imgdir>
+    <imgdir name="2154009">
+		<string name="name" value="Gelimer"/>
+		<string name="func" value="Black Wing Scientist"/>
+		<string name="n0" value="La la la... Experiments are fun. So fun!"/>
+		<string name="n1" value="Now, which test subject do I want for this experiment?"/>
+		<string name="d0" value="With experiments, small sacrifices must be made if you expect big success."/>
+		<string name="d1" value="With experiments, small sacrifices must be made if you expect big success."/>
+	</imgdir>
+    <imgdir name="2154010">
+		<string name="name" value="Allen"/>
+		<string name="func" value="Lead Researcher"/>
+		<string name="n0" value="I wonder if it's okay for me to conduct these experiments..."/>
+		<string name="n1" value="The town should be safe. They promised..."/>
+		<string name="d0" value="I was experimenting with Rue to find ways of generating energy, until the Back Wings came and took over this place. If the Black Wings hadn't threatened the safety of the townspeople, I wouldn't have agreed to help them."/>
+		<string name="d1" value="I was experimenting with Rue to find ways of generating energy, until the Back Wings came and took over this place. If the Black Wings hadn't threatened the safety of the townspeople, I wouldn't have agreed to help them."/>
+	</imgdir>
+    <imgdir name="2154011">
+		<string name="name" value="Sven"/>
+		<string name="func" value="Researcher"/>
+		<string name="n0" value="Which reagent shall I put in?"/>
+		<string name="n1" value="Results change drastically if the formula is incorrect. Hehehe."/>
+		<string name="d0" value="I was brought into the Black Wing experiments without a choice, but I don't have any complaints, as long as I get to experiment. Of course, Gelimer and I don't really see things eye to eye."/>
+		<string name="d1" value="I was brought into the Black Wing experiments without a choice, but I don't have any complaints, as long as I get to experiment. Of course, Gelimer and I don't really see things eye to eye."/>
+	</imgdir>
+    <imgdir name="2154012">
+		<string name="name" value="Dolcetta-2000"/>
+		<string name="n0" value="On... duty..."/>
+		<string name="n1" value="Correcting... error..."/>
+		<string name="d0" value="I only do as I'm told by Dr. Gelimer. I don't listen to anyone else."/>
+		<string name="d1" value="I only do as I'm told by Dr. Gelimer. I don't listen to anyone else."/>
+	</imgdir>
+    <imgdir name="2154013">
+		<string name="name" value="Big Daddy"/>
+		<string name="n1" value="I want to get out of here."/>
+		<string name="d0" value="I can't even remember how long I've been in this cave. What in the world am I doing here?"/>
+		<string name="d1" value="I can't even remember how long I've been in this cave. What in the world am I doing here?"/>
+		<string name="n0" value="Wooooooo..."/>
+	</imgdir>
+    <imgdir name="2154014">
+		<string name="name" value="Unnamed Skeleton"/>
+		<string name="d0" value="It is an unnamed Skeleton."/>
+		<string name="d1" value="It is an unnamed Skeleton."/>
+	</imgdir>
+    <imgdir name="2154015">
+		<string name="name" value="Elevator Control"/>
+		<string name="d0" value="Console that controls the elevator. It can now be used."/>
+		<string name="d1" value="Console that controls the elevator. It can now be used."/>
+	</imgdir>
+</imgdir>

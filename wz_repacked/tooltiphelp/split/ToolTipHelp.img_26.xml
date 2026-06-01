@@ -1,0 +1,69 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="4">
+				<string name="Title" value="Weapon Store"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="Mu Lung Skin Care"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="Mu Lung General Store"/>
+			</imgdir>
+    <imgdir name="7">
+				<string name="Title" value="Free Market Entrance"/>
+			</imgdir>
+    <imgdir name="8">
+				<string name="Title" value="Mu Lung Temple"/>
+			</imgdir>
+    <imgdir name="9">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="250010301">
+			<imgdir name="0">
+				<string name="Title" value="Snake Area"/>
+			</imgdir>
+    <imgdir name="250010500">
+			<imgdir name="0">
+				<string name="Title" value="Peach Farm 2"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Where the Sky Forest Ends"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Foggy Forest"/>
+			</imgdir>
+    <imgdir name="250010501">
+			<imgdir name="0">
+				<string name="Title" value="Virtuous Forest"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Peach Farm1"/>
+			</imgdir>
+    <imgdir name="250010700">
+			<imgdir name="0">
+				<string name="Title" value="Isolated Swamp"/>
+			</imgdir>
+    <imgdir name="251000000">
+			<imgdir name="0">
+				<string name="Title" value="Weapon Store"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Armor Shop"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Crafting Town"/>
+			</imgdir>
+    <imgdir name="251010400">
+			<imgdir name="0">
+				<string name="Title" value="Bellflower Valley"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Isolated Swamp"/>
+			</imgdir>
+    <imgdir name="251010500">
+			<imgdir name="0">
+				<string name="Title" value="Peach Farm 3"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Old Swamp"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,86 @@
+<imgdir name="Consume.img">
+    <imgdir name="2370009">
+		<string name="name" value="所罗门律法IV"/>
+		<string name="desc" value="一本收集了冒险岛世界中各位长老、智者和战士的智慧结晶的古老文献。阅读此书可在一瞬间获得他们的人生经验（EXP）。此版本提供500经验值。仅适用于51级以下的玩家。"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370010">
+		<string name="name" value="所罗门律法III"/>
+		<string name="desc" value="一本收集了冒险岛世界中各位长老、智者和战士的智慧结晶的古老文献。阅读此书可在一瞬间获得他们的人生经验（EXP）。此版本提供300经验值。仅适用于51级以下的玩家。"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370011">
+		<string name="name" value="所罗门律法II"/>
+		<string name="desc" value="一本收集了冒险岛世界中各位长老、智者和战士的智慧结晶的古老文献。阅读此书可在一瞬间获得他们的人生经验（EXP）。此版本提供200经验值。仅适用于51级以下的玩家。"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2370012">
+		<string name="name" value="所罗门律法I"/>
+		<string name="desc" value="一本收集了冒险岛世界中各位长老、智者和战士的智慧结晶的古老文献。阅读此书可在一瞬间获得他们的人生经验（EXP）。此版本提供100经验值。仅适用于51级以下的玩家。"/>
+		<null name="Level 51."/>
+	</imgdir>
+    <imgdir name="2380000">
+		<string name="name" value="蜗牛卡"/>
+		<string name="desc" value="以蜗牛为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380001">
+		<string name="name" value="蓝蜗牛卡"/>
+		<string name="desc" value="以蓝蜗牛为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380002">
+		<string name="name" value="孢子卡"/>
+		<string name="desc" value="以孢子为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380003">
+		<string name="name" value="树怪卡"/>
+		<string name="desc" value="以树怪为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380004">
+		<string name="name" value="红蜗牛卡"/>
+		<string name="desc" value="以红蜗牛为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380005">
+		<string name="name" value="史莱姆卡"/>
+		<string name="desc" value="以史莱姆为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380006">
+		<string name="name" value="小猪卡"/>
+		<string name="desc" value="以小猪为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380007">
+		<string name="name" value="橙汁蘑菇卡"/>
+		<string name="desc" value="以橙汁蘑菇为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380008">
+		<string name="name" value="黑暗树怪卡"/>
+		<string name="desc" value="以黑暗树怪为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380009">
+		<string name="name" value="粉水灵卡"/>
+		<string name="desc" value="以粉水灵为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380010">
+		<string name="name" value="章鱼卡"/>
+		<string name="desc" value="以章鱼为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380011">
+		<string name="name" value="绿蘑菇卡"/>
+		<string name="desc" value="以绿蘑菇为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380012">
+		<string name="name" value="泡泡怪卡"/>
+		<string name="desc" value="以泡泡怪为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380013">
+		String name="Cynical Orange Mushroom Card"/>
+		<string name="desc" value="以多疑橙汁蘑菇为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380014">
+		<string name="name" value="沮丧绿蘑菇卡"/>
+		<string name="desc" value="以沮丧绿蘑菇为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2380015">
+		<string name="name" value="木 Lok卡"/>
+		<string name="desc" value="以木 Lok为主题的卡片。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="4101008">
+        <string name="name" value="手里剑爆发" />
+        <string name="desc" value="投掷爆炸手里剑伤害目标和附近敌人！" />
+        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="投掷爆炸手里剑伤害目标和附近敌人！" />
+        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

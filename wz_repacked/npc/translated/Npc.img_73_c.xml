@@ -1,0 +1,74 @@
+<imgdir name="Npc.img">
+    <imgdir name="1402100">
+		<string name="name" value="天鹅"/>
+		<string name="func" value="女皇"/>
+	</imgdir>
+    <imgdir name="1402101">
+		<string name="name" value="宁海"/>
+		<string name="func" value="策略家"/>
+	</imgdir>
+    <imgdir name="1402102">
+		<string name="name" value="米哈埃"/>
+		<string name="func" value="首席骑士"/>
+	</imgdir>
+    <imgdir name="1402103">
+		<string name="name" value="奥斯"/>
+		<string name="func" value="首席骑士"/>
+	</imgdir>
+    <imgdir name="1402104">
+		<string name="name" value="艾琳"/>
+		<string name="func" value="首席骑士"/>
+	</imgdir>
+    <imgdir name="1402105">
+		<string name="name" value="埃克哈特"/>
+		<string name="func" value="首席骑士"/>
+	</imgdir>
+    <imgdir name="1402106">
+		<string name="name" value="霍克"/>
+		<string name="func" value="首席骑士"/>
+	</imgdir>
+    <imgdir name="1402200">
+		<string name="name" value="基里加"/>
+		<string name="func" value="议会成员"/>
+	</imgdir>
+    <imgdir name="1402201">
+		<string name="name" value="基蒂斯"/>
+		<string name="func" value="议会成员"/>
+	</imgdir>
+    <imgdir name="1402202">
+		<string name="name" value="基曼"/>
+		<string name="func" value="议会成员"/>
+	</imgdir>
+    <imgdir name="1402203">
+		<string name="name" value="基贝鲁"/>
+		<string name="func" value="议会成员"/>
+	</imgdir>
+    <imgdir name="1402300">
+		<string name="name" value="梅赛德斯"/>
+		<string name="func" value="英雄"/>
+	</imgdir>
+    <imgdir name="1402301">
+		<string name="name" value="雅典娜·皮尔斯"/>
+	</imgdir>
+    <imgdir name="1402400">
+		<string name="name" value="希拉"/>
+	</imgdir>
+    <imgdir name="1402401">
+		<string name="name" value="希拉的守卫"/>
+	</imgdir>
+    <imgdir name="1403000">
+		<string name="name" value="小柜子"/>
+	</imgdir>
+    <imgdir name="1403001">
+		<string name="name" value="宝箱"/>
+	</imgdir>
+    <imgdir name="1403002">
+		<string name="name" value="加迪欧"/>
+	</imgdir>
+    <imgdir name="1403003">
+		<string name="name" value="肖像画"/>
+	</imgdir>
+    <imgdir name="1403004">
+		<string name="name" value="灰尘矮人"/>
+	</imgdir>
+</imgdir>

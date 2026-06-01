@@ -1,0 +1,7 @@
+<imgdir name="35121005">
+        <string name="name" value="Mech: Missile Tank" />
+        <string name="desc" value="Activates &lt;Missile Tank&gt; mode during which your meach continuously consumes MP to gain an increased Critical Hit Rate. You can use Seige Mode during Missile Tank mode for increased damage. \nGet on/off your mount by pressing the skill key. \n[To shoot: [#cAttack key#]\n[Skills that can be used: #cLaser Blast, Siege Mode#]\nRequired Skill: #cMech: Siege Mode Lv. 10#" />
+        <string name="h" value="Tank Mode MP Cost: #mpCon plus #u MP every #v sec, Damage: #damage% \nBasic Attack Critical Rate: +#cr%, MP Cost: #w, Damage Bonus (Siege mode): +#z%" />
+        <string name="pdesc" value="Activates Missile Tank mode during which your mech continuously consumes MP to gain an increased Critical Hit Rate. You can use Siege Mode during Missile Tank mode for increased damage. \nGet on/off your mount by pressing the skill key. \n[To shoot: [#cAttack key#]\n[Skills that can be used: #cLaser Blast, Siege Mode#]\nRequired Skill: #cMech: Siege Mode Lv. 10#" />
+        <string name="ph" value="Tank Mode MP Cost: #mpCon plus #u MP every #v sec, Damage: #damage%, Max Enemies Hit: #mobCount \nBasic Attack Critical Rate: +#cr%, MP Cost: #w, Damage Bonus (Siege mode): +#z%" />
+    </imgdir>

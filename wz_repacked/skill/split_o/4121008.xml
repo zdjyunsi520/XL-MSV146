@@ -1,0 +1,7 @@
+<imgdir name="4121008">
+        <string name="name" value="Ninja Storm" />
+        <string name="desc" value="Summons ninjas who spin like tornadoes, pushing back surrounding monsters." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Knock-back Chance: #prop%, Range: #range" />
+        <string name="pdesc" value="Summons ninjas who spin like tornadoes, pushing back surrounding monsters." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Knock-back Chance: #prop%, Range: #range" />
+    </imgdir>

@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4000343">
+			<string name="name" value="蟾蜍油"/>
+			<string name="desc" value="装蟾蜍油的小容器"/>
+		</imgdir>
+    <imgdir name="4000344">
+			<string name="name" value="女忍匕首"/>
+			<string name="desc" value="女忍喜爱的武器"/>
+		</imgdir>
+    <imgdir name="4000345">
+			<string name="name" value="城主被盗的扶手"/>
+			<string name="desc" value="不知为何缝有“亀屋”字样的扶手"/>
+		</imgdir>
+    <imgdir name="4000346">
+			<string name="name" value="蟾蜍天皇钱包"/>
+			<string name="desc" value="蟾蜍天皇的钱包。里面装满了财富"/>
+		</imgdir>
+    <imgdir name="4000350">
+			<string name="name" value="木锤"/>
+			<string name="desc" value="捕捉沙鼠可以获得的木锤"/>
+		</imgdir>
+    <imgdir name="4000351">
+			<string name="name" value="蝎子毒刺"/>
+			<string name="desc" value="蝎子的毒刺。毒液位于锋利尾巴的尖端"/>
+		</imgdir>
+    <imgdir name="4000352">
+			<string name="name" value="烈焰沙漠"/>
+			<string name="desc" value="暗黑沙矮人携带的红色沙晶"/>
+		</imgdir>
+    <imgdir name="4000353">
+			<string name="name" value="凝胶"/>
+			<string name="desc" value="一块坚实透明的凝胶"/>
+		</imgdir>
+    <imgdir name="4000354">
+			<string name="name" value="烧杯"/>
+			<string name="desc" value="用于科学实验的烧杯"/>
+		</imgdir>
+    <imgdir name="4000355">
+			<string name="name" value="人造人的沙子"/>
+			<string name="desc" value="曾经是人造人身体一部分的沙子。有轻微的化学气味"/>
+		</imgdir>
+    <imgdir name="4000356">
+			<string name="name" value="烧瓶"/>
+			<string name="desc" value="用于科学实验的烧瓶"/>
+		</imgdir>
+    <imgdir name="4000357">
+			<string name="name" value="钢片"/>
+			<string name="desc" value="曾经是钢铁穆泰一部分的钢片"/>
+		</imgdir>
+    <imgdir name="4000358">
+			<string name="name" value="硬化钢片"/>
+			<string name="desc" value="曾经是升级钢铁穆泰一部分的硬化钢片"/>
+		</imgdir>
+    <imgdir name="4000359">
+			<string name="name" value="秘银片"/>
+			<string name="desc" value="曾经是秘银穆泰一部分的秘银片"/>
+		</imgdir>
+    <imgdir name="4000360">
+			<string name="name" value="硬化秘银片"/>
+			<string name="desc" value="曾经是升级秘银穆泰一部分的硬化秘银片"/>
+		</imgdir>
+    <imgdir name="4000361">
+			<string name="name" value="五月迷雾"/>
+			<string name="desc" value="用于捕捉人造人的成分"/>
+		</imgdir>
+    <imgdir name="4000362">
+			<string name="name" value="破碎的机械心脏"/>
+			<string name="desc" value="机械心脏。虽然目前已破碎，但如果修复，可能会有用"/>
+		</imgdir>
+    <imgdir name="4000363">
+			<string name="name" value="入场证"/>
+			<string name="desc" value="进入研究中心所需的通行证"/>
+		</imgdir>
+    <imgdir name="4000364">
+			<string name="name" value="电线"/>
+			<string name="desc" value="曾经是劳埃德身体一部分的线圈"/>
+		</imgdir>
+    <imgdir name="4000365">
+			<string name="name" value="插头"/>
+			<string name="desc" value="为新机器人供电的插座"/>
+		</imgdir>
+</imgdir>

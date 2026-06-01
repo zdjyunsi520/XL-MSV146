@@ -1,0 +1,5 @@
+<imgdir name="15101021">
+        <string name="name" value="Tidal Crash" />
+        <string name="desc" value="Charge forward like the ocean waves to sweep up enemies in range. Can be linked with all skills excluding Thunder and self-skills." />
+        <string name="h" value="MP Cost: #mpCon, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount, Damage: #damage%, moving enemies back." />
+    </imgdir>

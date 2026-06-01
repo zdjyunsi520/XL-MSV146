@@ -1,0 +1,5 @@
+<imgdir name="22181003">
+        <string name="name" value="Soul Stone" />
+        <string name="desc" value="Casts a buff that holds Souls. A character who dies whose Soul is being held will be resurrected immediately in the same location. This buff is randomly cast on party members. [Cooldown: 6 min]" />
+        <string name="h" value="MP Cost: #mpCon, Soul Stone buff applied to #y party member(s) for #time sec, revives with #x% HP" />
+    </imgdir>

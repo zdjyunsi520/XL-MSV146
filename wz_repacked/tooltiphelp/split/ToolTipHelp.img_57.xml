@@ -1,0 +1,70 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="Record Keeper's Room"/>
+			</imgdir>
+    <imgdir name="270030500">
+			<imgdir name="0">
+				<string name="Title" value="Toward the Temple Ruins"/>
+			</imgdir>
+    <imgdir name="930000800">
+			<imgdir name="0">
+				<string name="Title" value="          Spring of Purification            "/>
+				<string name="Desc" value="A spring of clean water. It appears to have the power to detoxify the Golem's Marble filled with poison inside. Let's try dropping the marble in front of the spring. poison which fills."/>
+			</imgdir>
+    <imgdir name="957010000">
+			<imgdir name="0">
+				<string name="Title" value="Link 2"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Link 3"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Link 4"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Link 5"/>
+			</imgdir>
+    <imgdir name="957011000">
+			<imgdir name="0">
+				<string name="Title" value="Link 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Link 3"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Link 5"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Link 6"/>
+			</imgdir>
+    <imgdir name="957012000">
+			<imgdir name="0">
+				<string name="Title" value="Link 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Link 2"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Link 4"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Link 8"/>
+			</imgdir>
+    <imgdir name="957013000">
+			<imgdir name="0">
+				<string name="Title" value="Link 1"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="Link 3"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="Link 5"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="Link 7"/>
+			</imgdir>
+    <imgdir name="957014000">
+			<imgdir name="0">
+				<string name="Title" value="Link 1"/>
+			</imgdir>
+</imgdir>

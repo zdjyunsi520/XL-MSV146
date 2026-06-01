@@ -1,0 +1,5 @@
+<imgdir name="36111009">
+        <string name="name" value="战斗切换：空中鞭打" />
+        <string name="desc" value="用鞭刃对角线挥斩，伤害空中的敌人。通过模式切换改变模式。" />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Additional damage on airborne enemies: #x%" />
+    </imgdir>

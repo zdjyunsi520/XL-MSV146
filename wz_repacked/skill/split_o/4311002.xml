@@ -1,0 +1,7 @@
+<imgdir name="4311002">
+        <string name="name" value="Fatal Blow" />
+        <string name="desc" value="Deals very quick consecutive attacks to a monster." />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+        <string name="pdesc" value="Deals very quick consecutive attacks to a monster." />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+    </imgdir>

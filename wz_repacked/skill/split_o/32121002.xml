@@ -1,0 +1,8 @@
+<imgdir name="32121002">
+        <string name="name" value="Finishing Blow" />
+        <string name="desc" value="Quickly deals 6 attacks on multiple enemies with a chance to stun.\nRequired Skill: #cQuintuple Blow Lv. 20 and above#" />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Chance to Stun: #prop%, Duration: #time sec, Additional Critical Rate: #cr%, Additional DEF Ignore: #ignoreMobpdpR%, Additional Boss ATT: #bdR%." />
+        <string name="pdesc" value="Quickly deals 6 attacks on multiple enemies.\nRequired Skill: #cQuintuple Blow Lv. 20#" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Critical Rate: #cr%" />
+    </imgdir>

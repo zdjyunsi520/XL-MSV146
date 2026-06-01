@@ -1,0 +1,99 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="914030000">
+			<string name="out00" value="Field of Wolves"/>
+		</imgdir>
+    <imgdir name="140010100">
+			<string name="in00" value="Rien Training Center"/>
+		</imgdir>
+    <imgdir name="104000000">
+			<imgdir name="in03">
+				<string name="Title" value="Lith Harbor Info Shop"/>
+				<imgdir name="Npc">
+					<string name="0" value="Tru"/>
+				</imgdir>
+    <imgdir name="104020100">
+			<imgdir name="in01">
+				<string name="Title" value="Station to Ereve"/>
+				<imgdir name="Npc">
+					<string name="0" value="Kiriru"/>
+				</imgdir>
+    <imgdir name="200060000">
+			<string name="in00" value="Neglected Strolling Path"/>
+		</imgdir>
+    <imgdir name="200080600">
+			<string name="in00" value="Orbis Tower &lt;Secret Room&gt; "/>
+		</imgdir>
+    <imgdir name="211042200">
+			<string name="east00" value="The Door to Zakum"/>
+		</imgdir>
+    <imgdir name="925040001">
+			<string name="out00" value="Back Alley of Mu Lung Dojo"/>
+		</imgdir>
+    <imgdir name="300000010">
+			<string name="in00" value="Library"/>
+		</imgdir>
+    <imgdir name="300010410">
+			<imgdir name="next00">
+				<string name="Title" value="Deep Inside the Cave"/>
+				<imgdir name="Mob">
+					<string name="0" value="5250004"/>
+				</imgdir>
+    <imgdir name="300030300">
+			<imgdir name="in00">
+				<string name="Title" value="Queen's Hiding Place"/>
+				<imgdir name="Mob">
+					<string name="0" value="5250007"/>
+				</imgdir>
+    <imgdir name="310000000">
+			<string name="in01" value="Mansion"/>
+			<imgdir name="in02">
+				<string name="Title" value="Edelstein Temporary Airport"/>
+				<imgdir name="Npc">
+					<string name="0" value="Ace"/>
+				</imgdir>
+    <imgdir name="in03">
+				<string name="Title" value="Edelstein Hair Salon"/>
+				<imgdir name="Npc">
+					<string name="0" value="Fabio"/>
+				</imgdir>
+    <imgdir name="310010010">
+			<string name="in00" value="Elevator"/>
+		</imgdir>
+    <imgdir name="310040200">
+			<imgdir name="east00">
+				<string name="Title" value="Power Plant Lobby"/>
+				<imgdir name="Npc">
+					<string name="0" value="Le Tierre"/>
+					<string name="1" value="Buck Teeth"/>
+					<string name="2" value="Gabrielle"/>
+				</imgdir>
+    <imgdir name="100030101">
+			<string name="in00" value="Small Attic"/>
+			<imgdir name="out00">
+				<string name="Title" value="Front Yard"/>
+				<imgdir name="Npc">
+					<string name="0" value="Utah"/>
+					<string name="1" value="Cerebes"/>
+					<string name="2" value="Hen"/>
+				</imgdir>
+    <imgdir name="100030102">
+			<string name="west00" value="Small Forest Trail"/>
+			<imgdir name="east00">
+				<string name="Title" value="Back Yard"/>
+				<imgdir name="Mob">
+					<string name="0" value="9300385"/>
+				</imgdir>
+    <imgdir name="100030300">
+			<string name="in00" value="Lush Forest"/>
+			<imgdir name="west00">
+				<string name="Title" value="Large Forest Trail"/>
+				<imgdir name="Mob">
+					<string name="0" value="1210100"/>
+				</imgdir>
+    <imgdir name="100030320">
+			<string name="west00" value="Farm Entrance"/>
+		</imgdir>
+    <imgdir name="100030400">
+			<string name="quest00" value="Utah's Pig Farm"/>
+		</imgdir>
+</imgdir>

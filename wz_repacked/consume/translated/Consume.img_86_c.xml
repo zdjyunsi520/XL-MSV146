@@ -1,0 +1,100 @@
+<imgdir name="Consume.img">
+    <imgdir name="2040618">
+		<string name="name" value="下装强化卷轴 跳跃 60%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n回避率：+20\r\n跳跃：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040619">
+		<string name="name" value="下装强化卷轴 跳跃 10%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n回避率：+40\r\n跳跃：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040620">
+		<string name="name" value="下装强化卷轴 HP 100%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n最大HP：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040621">
+		<string name="name" value="下装强化卷轴 HP 60%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n最大HP：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040622">
+		<string name="name" value="下装强化卷轴 HP 10%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n最大HP：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040623">
+		<string name="name" value="下装强化卷轴 敏捷 100%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n敏捷：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040624">
+		<string name="name" value="下装强化卷轴 敏捷 70%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n敏捷：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040625">
+		<string name="name" value="下装强化卷轴 敏捷 60%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n敏捷：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040626">
+		<string name="name" value="下装强化卷轴 敏捷 30%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：50%\r\n敏捷：+3\r\n命中：+40\r\n速度：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040627">
+		<string name="name" value="下装强化卷轴 敏捷 10%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n敏捷：+3\r\n命中：+40\r\n速度：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040629">
+		<string name="name" value="下装强化卷轴 防御 50%"/>
+		<string name="desc" value="强化下装物理防御。\n成功率：50%，物理防御+5，魔法防御+4"/>
+	</imgdir>
+    <imgdir name="2040630">
+		<string name="name" value="下装强化卷轴 防御 100%"/>
+		<string name="desc" value="强化下装物理防御。\n成功率：100%，物理防御+2，魔法防御+3"/>
+	</imgdir>
+    <imgdir name="2040631">
+		<string name="name" value="下装强化卷轴 跳跃 65%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n回避率：+20\r\n跳跃：+2\r\n#"/>
+	</imgdir>
+    <imgdir name="2040632">
+		<string name="name" value="下装强化卷轴 跳跃 15%"/>
+		<string name="desc" value="强化下装的跳跃。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n回避率：+40\r\n跳跃：+4\r\n#"/>
+	</imgdir>
+    <imgdir name="2040633">
+		<string name="name" value="下装强化卷轴 HP 65%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n最大HP：+60\r\n#"/>
+	</imgdir>
+    <imgdir name="2040634">
+		<string name="name" value="下装强化卷轴 HP 15%"/>
+		<string name="desc" value="强化下装最大HP。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n最大HP：+120\r\n#"/>
+	</imgdir>
+    <imgdir name="2040635">
+		<string name="name" value="下装强化卷轴 敏捷 65%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：65%\r\n敏捷：+2\r\n命中：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040636">
+		<string name="name" value="下装强化卷轴 敏捷 15%"/>
+		<string name="desc" value="强化下装敏捷。"/>
+		<string name="autodesc" value="\r\n#c成功率：15%\r\n敏捷：+3\r\n命中：+40\r\n速度：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2040700">
+		<string name="name" value="鞋子强化卷轴 回避 100%"/>
+		<string name="desc" value="强化鞋子的回避率。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n回避率：+20\r\n#"/>
+	</imgdir>
+    <imgdir name="2040701">
+		<string name="name" value="鞋子强化卷轴 回避 60%"/>
+		<string name="desc" value="强化鞋子的回避率。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n命中：+20\r\n回避率：+40\r\n#"/>
+	</imgdir>
+</imgdir>

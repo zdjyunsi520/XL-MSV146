@@ -1,0 +1,7 @@
+<imgdir name="11101004">
+        <string name="name" value="Soul Blade" />
+        <string name="desc" value="Summons and gives form to invisible Soul power to inflict damage to enemies." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+        <string name="pdesc" value="Summons and gives form to invisible Soul power to inflict damage to enemies." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
+    </imgdir>

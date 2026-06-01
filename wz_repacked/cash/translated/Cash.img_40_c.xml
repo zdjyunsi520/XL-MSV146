@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5502013">
+		<string name="name" value="30级武器越级钥匙"/>
+		<string name="desc" value="将#c越级钥匙#拖入装备栏（#c快捷键E#），可装备#c高于自身30级#以内的武器，持续#c30天#。\n不能与其他等级的#c越级钥匙#叠加。拥有#c女皇之力#技能的角色不能使用越级钥匙。只能用于装备道具。\n#c可用部位：武器、盾牌、副武器#"/>
+	</imgdir>
+    <imgdir name="5502014">
+		<string name="name" value="30级饰品越级钥匙"/>
+		<string name="desc" value="将#c越级钥匙#拖入装备栏（#c快捷键E#），可装备#c高于自身30级#以内的饰品，持续#c30天#。\n不能与其他等级的#c越级钥匙#叠加。拥有#c女皇之力#技能的角色不能使用越级钥匙。\n#c可用部位：坠子、戒指、眼饰、脸饰、耳环、口袋#"/>
+	</imgdir>
+    <imgdir name="5502015">
+		<string name="name" value="30级其他越级钥匙"/>
+		<string name="desc" value="将#c越级钥匙#拖入装备栏（#c快捷键E#），可装备#c高于自身30级#以内的其他装备，持续#c30天#。\n不能与其他等级的#c越级钥匙#叠加。拥有#c女皇之力#技能的角色不能使用越级钥匙。\n#c可用部位：勋章、徽章、龙装备、机械师装备#"/>
+	</imgdir>
+    <imgdir name="5502016">
+		<string name="name" value="10级防具越级钥匙"/>
+		<string name="desc" value="适用于除#c武器、徽章、骑兽、安卓相关栏位#之外所有栏位的越级钥匙。将#c越级钥匙#拖入装备栏（#c快捷键E#），可穿戴#c高于自身10级#以内的防具装备，持续#c30天#。\n不能与其他等级的#c越级钥匙#叠加。拥有#c女皇之力#技能的角色不能使用越级钥匙。"/>
+	</imgdir>
+    <imgdir name="5502017">
+		<string name="name" value="20级防具越级钥匙"/>
+		<string name="desc" value="适用于除#c武器、徽章、骑兽、安卓相关栏位#之外所有栏位的越级钥匙。将#c越级钥匙#拖入装备栏（#c快捷键E#），可穿戴#c高于自身20级#以内的防具装备，持续#c30天#。\n不能与其他等级的#c越级钥匙#叠加。拥有#c女皇之力#技能的角色不能使用越级钥匙。"/>
+	</imgdir>
+    <imgdir name="5510000">
+		<string name="name" value="命运之轮"/>
+		<string name="desc" value="角色复活时将你带回当前地图。在某些组队任务、活动地图和交通工具（船）中无法使用。"/>
+	</imgdir>
+    <imgdir name="5511000">
+		<string name="name" value="复活石"/>
+		<string name="desc" value="在原地复活角色，不减少经验值或装备耐久度。恢复100% HP和MP，并有一定概率获得特殊增益。使用后消失。"/>
+	</imgdir>
+    <imgdir name="5520000">
+		<string name="name" value="因果之剪"/>
+		<string name="desc" value="切断道具与原主人之间的纽带，使道具变为可交易。此道具只能用于特定道具，不能用于封印道具。"/>
+	</imgdir>
+    <imgdir name="5520001">
+		<string name="name" value="白金因果之剪"/>
+		<string name="desc" value="切断道具与原主人之间的纽带，使道具变为可交易。此道具只能用于特定道具，不能用于封印道具。"/>
+	</imgdir>
+    <imgdir name="5521000">
+		<string name="name" value="共享标签"/>
+		<string name="desc" value="用于不可交易的道具，使其可在同一账号的角色之间共享一次。\r\n只能用于特定不可交易道具。"/>
+	</imgdir>
+    <imgdir name="5530000">
+		<string name="name" value="DS彩蛋篮"/>
+		<string name="desc" value="双击可兑换DS彩蛋。"/>
+	</imgdir>
+    <imgdir name="5530001">
+		<string name="name" value="DS勋章篮"/>
+		<string name="desc" value="双击可兑换DS疯狂勋章。"/>
+	</imgdir>
+    <imgdir name="5530002">
+		<string name="name" value="5个黄金指南针"/>
+		<string name="desc" value="双击此道具可获得5个黄金指南针，用于进入黄金里奇的宝库。"/>
+	</imgdir>
+    <imgdir name="5530003">
+		<string name="name" value="10瓶嘎嘎变身药水"/>
+		<string name="desc" value="双击此道具可变身为嘎嘎，冒险岛世界最出名的明星。"/>
+	</imgdir>
+    <imgdir name="5530004">
+		<string name="name" value="100瓶万能药"/>
+		<string name="desc" value="双击此道具可获得100瓶万能药。"/>
+	</imgdir>
+    <imgdir name="5530005">
+		<string name="name" value="200瓶万能药"/>
+		<string name="desc" value="双击此道具可获得200瓶万能药。"/>
+	</imgdir>
+    <imgdir name="5530006">
+		<string name="name" value="100瓶强力万能药"/>
+		<string name="desc" value="双击此道具可获得100瓶强力万能药。"/>
+	</imgdir>
+    <imgdir name="5530007">
+		<string name="name" value="150瓶强力万能药"/>
+		<string name="desc" value="双击此道具可获得150瓶强力万能药。"/>
+	</imgdir>
+    <imgdir name="5530008">
+		<string name="name" value="200瓶强力万能药"/>
+		<string name="desc" value="双击此道具可获得200瓶强力万能药。"/>
+	</imgdir>
+    <imgdir name="5530009">
+		<string name="name" value="DS宝箱（铜）"/>
+		<string name="desc" value="双击此道具可兑换3个DS彩蛋。"/>
+	</imgdir>
+</imgdir>

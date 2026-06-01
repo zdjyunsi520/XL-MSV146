@@ -1,0 +1,82 @@
+<imgdir name="Cash.img">
+    <imgdir name="5660003">
+		<string name="name" value="Quest Completer Alice"/>
+		<string name="desc" value="Alice lets you turn in quests you've completed, even when you're nowhere near the NPC you're supposed to turn it in to! (Not available for certain quests.)"/>
+	</imgdir>
+    <imgdir name="5670000">
+		<string name="name" value="Summoning Sack"/>
+		<string name="desc" value="Can only be used in the Cake vs. Pie battle map #cwhen in the attacking faction.# Summons #c10 additional monsters# on the map."/>
+	</imgdir>
+    <imgdir name="5670001">
+		<string name="name" value="Mini Barricade"/>
+		<string name="desc" value="Can only be used in the Cake vs. Pie battle map #cwhen in the defending faction.# Summons #ca Mini Barricade# at the player's location to block monsters."/>
+	</imgdir>
+    <imgdir name="5680000">
+		<string name="name" value="Maple Returning Member Giftbox"/>
+		<string name="desc" value="A gift given to users who log into MapleStory during the Maple Return Event. You can obtain a gift by #cdouble-clicking# on it once a day. The more consecutive days you use it, the higher your chance will be of obtaining better gifts."/>
+	</imgdir>
+    <imgdir name="5680015">
+		<string name="name" value="Fatigue Reset Drink"/>
+		<string name="desc" value="Using this drink will reset your fatigue to 0%. You can only use it when you have more than 0% fatigue."/>
+	</imgdir>
+    <imgdir name="5680016">
+		<string name="name" value="EXP Booster (4 hrs)"/>
+		<string name="desc" value="A coupon that that can be exchanged for a 1.5x EXP coupon (4 hrs) when you double-click it. #cThis item is only available for purchase if you are level 200 or below.#"/>
+	</imgdir>
+    <imgdir name="5680019">
+		<string name="name" value="Starling Hair Coupon"/>
+		<string name="desc" value="Change your hairstyle to #cStarling Hair# by #cdouble-clicking# this item."/>
+	</imgdir>
+    <imgdir name="5680020">
+		<string name="name" value="Crow Hair Coupon"/>
+		<string name="desc" value="Change your hairstyle to #cCrow Hair# by #cdouble-clicking# this item."/>
+	</imgdir>
+    <imgdir name="5680021">
+		<string name="name" value="Chair Gachapon Ticket"/>
+		<string name="desc" value="By double-clicking Coupon, you can obtain various chair items. "/>
+	</imgdir>
+    <imgdir name="5680024">
+		<string name="name" value="Speed-Boomer Fireworks"/>
+		<string name="desc" value="These fireworks launch really fast. Seriously, it's ridiculous. Grants #cone of 5 effects# when used. Effects last #c30 minutes#. \r\nATT &amp; Magic ATT + 20\nATT &amp; Magic ATT + 40\nATT &amp; Magic ATT +80\nATT &amp; Magic ATT +90\nATT &amp; Magic ATT +100"/>
+	</imgdir>
+    <imgdir name="5680027">
+		<string name="name" value="Resistance Parallel Coupon"/>
+		<string name="desc" value="Allows you to create a Lv. 30 Resistance character in the same world.\n\n&lt;Selectable Jobs&gt;\nBattle Mage, Wild Hunter, Mechanic\n#cCan be used until QRQRQR on TKTKTK#\n\n#cEquipment items (Equip item, Use item, Mesos, and Pets) will be copied over.#\n#cCharacter slot expansion effect included. Character slot will not be expanded if it is already at its maximum.#"/>
+	</imgdir>
+    <imgdir name="5680029">
+		<string name="name" value="Orange Mushroom Surprise"/>
+		<string name="desc" value="A surprising gift from an Orange Mushroom. "/>
+	</imgdir>
+    <imgdir name="5680030">
+		<string name="name" value="Together Green Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680031">
+		<string name="name" value="Together Blue Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680032">
+		<string name="name" value="Together Red Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680033">
+		<string name="name" value="Together Silver Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680034">
+		<string name="name" value="Together Gold Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680035">
+		<string name="name" value="Together Black Box"/>
+		<string name="desc" value="A gift for players who participated in the Maple Togetherness event. #cDouble-click# to use it. \n#c- Maple Administrator"/>
+	</imgdir>
+    <imgdir name="5680036">
+		<string name="name" value="Extra Zakum Dungeon Ticket"/>
+		<string name="desc" value="Allows you to enter the Zakum dungeon #c1 more time# past the daily entrance limit. Can only be used if your character has fought Zakum at least once. Also grants a teleport scroll to the 'Entrance to Zakum's Altar'. #cMaximum 5 additional entries each day#. Can be used for both normal and Chaos Zakum."/>
+	</imgdir>
+    <imgdir name="5680037">
+		<string name="name" value="Extra Horntail Dungeon Ticket"/>
+		<string name="desc" value="Allows you to enter the Horntail dungeon #c1 more time# past the daily entrance limit. Can only be used if your character has fought Horntail at least once. Also grants a teleport scroll to the 'Entrance to Horntail's Cave'. #cMaximum 5 additional entries each day#. Can be used for both normal and Chaos Horntail."/>
+	</imgdir>
+</imgdir>

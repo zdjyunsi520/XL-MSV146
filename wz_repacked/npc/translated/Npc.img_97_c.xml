@@ -1,0 +1,143 @@
+<imgdir name="Npc.img">
+    <imgdir name="1061004">
+		<string name="name" value="Ronnie"/>
+		<string name="n0" value="我喜欢吃饭的时候看Drakes。"/>
+		<string name="n1" value="我在想我爸爸现在在读什么。我希望我也能读书..."/>
+		<string name="d0" value="我好无聊！我爸爸根本不在乎我怎么打发时间。我应该搬去和精灵们住！"/>
+		<string name="d1" value="我好无聊！我爸爸根本不在乎我怎么打发时间。我应该搬去和精灵们住！"/>
+	</imgdir>
+    <imgdir name="1061012">
+		<string name="name" value="卑微的存在"/>
+		<string name="s0" value="..."/>
+		<string name="s1" value="我能感受到远处的恶魔力量 ..."/>
+		<string name="d0" value="..."/>
+		<string name="d1" value="邪恶的力量完全消失了吗...?"/>
+	</imgdir>
+    <imgdir name="1061015">
+		<string name="name" value="Tristan的灵魂"/>
+		<string name="d0" value="呃..."/>
+		<string name="d1" value="呃..."/>
+		<string name="s0" value="Balrog..."/>
+		<string name="s1" value="黑暗王子..."/>
+	</imgdir>
+    <imgdir name="1061019">
+		<string name="name" value="Ilji"/>
+		<string name="n0" value="我真的很讨厌那些看起来可怕的怪物！"/>
+		<string name="n1" value="*抽泣。*照这样下去，我的训练什么时候才能结束？"/>
+		<string name="d0" value="Drake、红Drake、黑Drake...我最讨厌那个。"/>
+		<string name="d1" value="Drake、红Drake、黑Drake...我最讨厌那个。"/>
+	</imgdir>
+    <imgdir name="1061100">
+		<string name="name" value="酒店接待员"/>
+		<string name="n0" value="你好。欢迎来到 sleepywood 酒店。"/>
+		<string name="n1" value="如果你想恢复健康，请使用我们的酒店。"/>
+		<string name="a0" value="啊哈...和往常一样，今天有很多工作要做。"/>
+		<string name="s0" value="你的旅行怎么样？"/>
+		<string name="i0" value="今天会来什么样的人呢..."/>
+		<string name="l0" value="哇哦！"/>
+		<string name="h0" value="我的头发没有乱吧...对吧？"/>
+	</imgdir>
+    <imgdir name="1081100">
+		<string name="name" value="Riel"/>
+		<string name="n0" value="欢迎来到弗洛丽娜海滩！"/>
+		<string name="n1" value="我们漂亮吗？"/>
+		<string name="d0" value="欢迎来到弗洛丽娜海滩！有什么需要帮忙的？"/>
+		<string name="d1" value="你是出了名的工作能手。还在找活干吗？"/>
+	</imgdir>
+    <imgdir name="1081101">
+		<string name="name" value="Roel"/>
+		<string name="n0" value="欢迎来到弗洛丽娜海滩！"/>
+		<string name="n1" value="我们漂亮吗？"/>
+		<string name="d0" value="欢迎来到弗洛丽娜海滩！有什么需要帮忙的？"/>
+		<string name="d1" value="你是出了名的工作能手。还在找活干吗？"/>
+	</imgdir>
+    <imgdir name="1081102">
+		<string name="name" value="Rael"/>
+		<string name="n0" value="欢迎来到弗洛丽娜海滩！"/>
+		<string name="n1" value="我们漂亮吗？"/>
+		<string name="d0" value="欢迎来到弗洛丽娜海滩！有什么需要帮忙的？"/>
+		<string name="d1" value="你是出了名的工作能手。还在找活干吗？"/>
+	</imgdir>
+    <imgdir name="1082000">
+		<string name="name" value="Swanson"/>
+		<string name="n0" value="感谢你在最糟糕的时候来黄金海滩度假村。"/>
+		<string name="n1" value="如果你需要帮助，请告诉我，这样我就可以拒绝。"/>
+		<string name="func" value="度假村经理"/>
+		<string name="d0" value="欢迎来到黄金海滩。请离开吧。"/>
+		<string name="d1" value="这个度假村永远不会开业，不过没关系。"/>
+	</imgdir>
+    <imgdir name="1082001">
+		<string name="name" value="Mason"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="有客人了！这是最棒的一天！"/>
+		<string name="n1" value="我在这里满足你的一切需求！"/>
+	</imgdir>
+    <imgdir name="1082002">
+		<string name="name" value="小Richie"/>
+		<string name="n0" value="我那些宝贝小狗还要在没清理过的沙子里站多久？"/>
+		<string name="n1" value="世界上最幸运的彩票中奖者的儿子，那就是我！"/>
+		<string name="d0" value="这嘈杂的施工什么时候才能完？"/>
+		<string name="d1" value="我很忙。去找度假村经理Swanson吧。"/>
+	</imgdir>
+    <imgdir name="1082003">
+		<string name="name" value="Ralphio"/>
+		<string name="n0" value="我要怎么把那个戒指拿回来？"/>
+		<string name="n1" value="我受够了总是成为这个海滩上最抢眼的！"/>
+		<string name="d0" value="你知道我喜欢站在这里拿着这些文件的。"/>
+		<string name="d1" value="我男朋友/女朋友要气疯了！"/>
+	</imgdir>
+    <imgdir name="1082004">
+		<string name="name" value="豆腐"/>
+		<string name="n0" value="黄金海滩是我们民族的领地。 "/>
+		<string name="n1" value="我真的很喜欢...我是说，我的部落喜欢大自然。"/>
+		<string name="d0" value="（我还能假装多久呢？）"/>
+		<string name="d1" value="我欢迎你，奇怪的陌生人。"/>
+	</imgdir>
+    <imgdir name="1082005">
+		<string name="name" value="游泳圈球童"/>
+		<string name="d0" value="一些游泳圈似乎不见了。"/>
+		<string name="d1" value="游泳圈看起来整理得很好。"/>
+	</imgdir>
+    <imgdir name="1082100">
+		<string name="name" value="黄金Richie"/>
+		<string name="func" value="商人"/>
+		<string name="n0" value="人不能靠吝啬发财！"/>
+		<string name="n1" value="研究市场比任何半生不熟的快速致富计划都能让你赚更多钱。除了彩票..."/>
+		<string name="d0" value="你好！我是世界闻名的财富大师，黄金Richie！"/>
+		<string name="d1" value="你好！我感觉到北风在挠我的耳朵。这意味着有钱可赚。起航吧！"/>
+	</imgdir>
+    <imgdir name="1082101">
+		<string name="name" value="飞行员Irvin"/>
+		<string name="func" value="交通"/>
+		<string name="n0" value="你想回到维多利亚岛吗？"/>
+		<string name="n1" value="如果你想感受风吹过发丝的感觉，就告诉我！"/>
+		<string name="d0" value="你能想象驾驶自己的飞机在天空中翱翔是什么感觉吗？"/>
+		<string name="d1" value="黄金海滩度假村在你的右边。打听一个叫Swanson的家伙。"/>
+	</imgdir>
+    <imgdir name="1082102">
+		<string name="name" value="阴险的海滩入口"/>
+	</imgdir>
+    <imgdir name="1082200">
+		<string name="name" value="飞行员Irvin"/>
+		<string name="func" value="交通"/>
+		<string name="n0" value="你想回到维多利亚岛吗？"/>
+		<string name="n1" value="如果你想感受风吹过发丝的感觉，就告诉我！"/>
+		<string name="d0" value="你能想象驾驶自己的飞机在天空中翱翔是什么感觉吗？"/>
+		<string name="d1" value="驾驶飞机时你必须时刻小心。"/>
+	</imgdir>
+    <imgdir name="1082201">
+		<string name="name" value="Swanson"/>
+		<string name="n0" value="感谢你在最糟糕的时候来黄金海滩度假村。"/>
+		<string name="n1" value="如果你需要帮助，请告诉我，这样我就可以拒绝。"/>
+		<string name="func" value="度假村经理"/>
+		<string name="d0" value="欢迎来到黄金海滩。请离开吧。"/>
+		<string name="d1" value="这个度假村永远不会开业，不过没关系。"/>
+	</imgdir>
+    <imgdir name="1082202">
+		<string name="name" value="Ralphio"/>
+		<string name="n0" value="我要怎么把那个戒指拿回来？"/>
+		<string name="n1" value="我受够了总是成为这个海滩上最抢眼的！"/>
+		<string name="d0" value="你知道我喜欢站在这里拿着这些文件的。"/>
+		<string name="d1" value="我男朋友/女朋友要气疯了！"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9391013">
+		<string name="name" value="Stormbreaker"/>
+	</imgdir>
+    <imgdir name="9391014">
+		<string name="name" value="Deadly Scarecrow"/>
+	</imgdir>
+    <imgdir name="9391015">
+		<string name="name" value="Hilla's Summon 1"/>
+	</imgdir>
+    <imgdir name="9391016">
+		<string name="name" value="Hilla's Summoned 2"/>
+	</imgdir>
+    <imgdir name="9391017">
+		<string name="name" value="Hilla's Summoned 3"/>
+	</imgdir>
+    <imgdir name="9391018">
+		<string name="name" value="Hilla's Summoned 4"/>
+	</imgdir>
+    <imgdir name="9391019">
+		<string name="name" value="Hilla's Summoned 5"/>
+	</imgdir>
+    <imgdir name="9391020">
+		<string name="name" value="Mega Tough Headless Horseman"/>
+	</imgdir>
+    <imgdir name="9391021">
+		<string name="name" value="Hsalf Clone"/>
+	</imgdir>
+    <imgdir name="9391022">
+		<string name="name" value="Labyrinth Guardian"/>
+	</imgdir>
+    <imgdir name="9391023">
+		<string name="name" value="Phantom Crimson Tree"/>
+	</imgdir>
+    <imgdir name="9400944">
+		<string name="name" value="RED Pig"/>
+	</imgdir>
+    <imgdir name="9400945">
+		<string name="name" value="RED Cygnus Hastati"/>
+	</imgdir>
+    <imgdir name="9400946">
+		<string name="name" value="RED Yeti"/>
+	</imgdir>
+    <imgdir name="8630000">
+		<string name="name" value="Frozen Solitude"/>
+	</imgdir>
+    <imgdir name="8630001">
+		<string name="name" value="Frozen Terror"/>
+	</imgdir>
+    <imgdir name="8630002">
+		<string name="name" value="Frozen Rage"/>
+	</imgdir>
+    <imgdir name="8630003">
+		<string name="name" value="Frozen Anxiety"/>
+	</imgdir>
+    <imgdir name="8630004">
+		<string name="name" value="Frozen Vanity"/>
+	</imgdir>
+    <imgdir name="8630005">
+		<string name="name" value="Burning Solitude"/>
+	</imgdir>
+</imgdir>

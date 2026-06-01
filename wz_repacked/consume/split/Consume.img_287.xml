@@ -1,0 +1,81 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430537">
+		<string name="name" value="Bunny Buddy Buggy 15 Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Bunny Buddy Buggy] for 15 days."/>
+	</imgdir>
+    <imgdir name="2430539">
+		<string name="name" value="Plump Pumpkin Box"/>
+		<string name="desc" value="A nice, plump box shaped like a nice, plump pumpkin. #cDouble-click# on it to open."/>
+	</imgdir>
+    <imgdir name="2430540">
+		<string name="name" value="Masked Gentleman's Bag"/>
+		<string name="desc" value="The Masked Gentleman's bag. You won't know what's inside until you open it. \n#cCan be used until TKTKTK."/>
+	</imgdir>
+    <imgdir name="2430542">
+		<string name="name" value="Mirror Fragment"/>
+		<string name="desc" value="A piece of a broken mirror from the Center Hall."/>
+	</imgdir>
+    <imgdir name="2430544">
+		<string name="name" value="7-day Witch's Broomstick Coupon"/>
+		<string name="desc" value="A spooky coupon. #cDouble-click# on it to use the #Witch's Broomstick# riding skill for #c7 days#, starting from today."/>
+	</imgdir>
+    <imgdir name="2430545">
+		<string name="name" value="Magical Halloween Pop"/>
+		<string name="desc" value="Fills you up with crazy Halloween magic. Increases EXP based on level. You can only eat 10 a day without your stomach exploding, and it will go back right after Halloween."/>
+	</imgdir>
+    <imgdir name="2430548">
+		<string name="name" value="Halloween Master's Coupon"/>
+		<string name="desc" value="A Master's Coupon created to celebrate Halloween. Use it raise your Profession to the next level."/>
+	</imgdir>
+    <imgdir name="2430556">
+		<string name="name" value="Maximus Mount 15 day coupon "/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Maximus Mount] for 15 days."/>
+	</imgdir>
+    <imgdir name="2430557">
+		<string name="name" value="Maximus Mount 1 year coupon"/>
+		<string name="desc" value="Double-click on it to use the Mount skill [Maximus Mount] for 1 year."/>
+	</imgdir>
+    <imgdir name="2430558">
+		<string name="name" value="Ani's Box"/>
+		<string name="desc" value="A box given to the ones who have defeated Ani as a reward. Open the box to obtain various scrolls. However, those who are Lv. 140 or higher cannot obtain scrolls."/>
+	</imgdir>
+    <imgdir name="2430559">
+		<string name="name" value="Luden's Mastery Book"/>
+		<string name="desc" value="A training guide from Luden, the Lion King's loyal knight. Grants the user a Mastery Book to enhance their skills."/>
+	</imgdir>
+    <imgdir name="2430560">
+		<string name="name" value="Legends Awards Gift Box"/>
+	</imgdir>
+    <imgdir name="2430561">
+		<string name="name" value="Legends Awards Box of Tomorrow"/>
+		<string name="desc" value="A box that can only be opened on the day after it was received. You can receive one a day from the Admin."/>
+	</imgdir>
+    <imgdir name="2430562">
+		<string name="name" value="Holiday Gift Box"/>
+		<string name="desc" value="A festive gift box that contains various Christmas items."/>
+	</imgdir>
+    <imgdir name="2430563">
+		<string name="name" value="Small Christmas Tree"/>
+		<string name="desc" value="A small tree you grew yourself. Take it to Gaga."/>
+	</imgdir>
+    <imgdir name="2430564">
+		<string name="name" value="Lambent Essence"/>
+		<string name="desc" value="A vessel of purified light. Its power should be enough to destroy the magic barriers that Arkarium placed around the Dimensional Schism."/>
+	</imgdir>
+    <imgdir name="2430565">
+		<string name="name" value="Tempest's Amazing Blessing"/>
+		<string name="desc" value="A crystallized embodiment of Sunday magic for the Tempest festival. Use it to gain a considerable chunk of EXP.\n#cMax level characters will reap no benefits.#"/>
+	</imgdir>
+    <imgdir name="2430566">
+		<string name="name" value="Knight Chariot Mount Coupon"/>
+		<string name="desc" value="A 30-day Knight Chariot mount coupon.\r\n#cDouble-click on it to use the Knight Chariot riding skill for 30 days.#"/>
+	</imgdir>
+    <imgdir name="2430567">
+		<string name="name" value="Training Bag"/>
+		<string name="desc" value="A bag of random items, dropped by monster trainees."/>
+	</imgdir>
+    <imgdir name="2430576">
+		<string name="name" value="Lucky Legends Box"/>
+		<string name="desc" value="A box for those who will be remembered as legends. \n#cDouble-click to view the contents.#"/>
+	</imgdir>
+</imgdir>

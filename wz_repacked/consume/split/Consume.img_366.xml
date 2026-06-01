@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860011">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers a small amount of HP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860012">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860013">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers a large amount of HP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860014">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while on Victoria Island."/>
+	</imgdir>
+    <imgdir name="2860015">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Orbis."/>
+	</imgdir>
+    <imgdir name="2860016">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in El Nath."/>
+	</imgdir>
+    <imgdir name="2860017">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Ludibrium."/>
+	</imgdir>
+    <imgdir name="2860018">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Korean Folk Town."/>
+	</imgdir>
+    <imgdir name="2860019">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Omega Sector."/>
+	</imgdir>
+    <imgdir name="2860020">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Mu Lung."/>
+	</imgdir>
+    <imgdir name="2860021">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Aqua Road."/>
+	</imgdir>
+    <imgdir name="2860022">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Nihal Desert."/>
+	</imgdir>
+    <imgdir name="2860023">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Magatia."/>
+	</imgdir>
+    <imgdir name="2860024">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Minar Forest."/>
+	</imgdir>
+    <imgdir name="2860025">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers a small amount of MP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860026">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860027">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers a large amount of MP continuously while summoned."/>
+	</imgdir>
+    <imgdir name="2860028">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP and MP continuously while on Victoria Island."/>
+	</imgdir>
+    <imgdir name="2860029">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP and MP continuously while in Orbis."/>
+	</imgdir>
+    <imgdir name="2860030">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP and MP continuously while in El Nath."/>
+	</imgdir>
+</imgdir>

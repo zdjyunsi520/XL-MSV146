@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2003596">
+		<string name="desc" value="Alchemy Masters and Renowned Masters can make this potion that increases Boss ATT by 20% for 40 minutes.#cCaution:#\nNormally, only 1 Potion can be used at a time, but Alchemists can use 2 if they are of different kinds. Cooldown is 50 minutes."/>
+		<string name="name" value="Advanced Boss Rush Boost Potion"/>
+	</imgdir>
+    <imgdir name="2003597">
+		<string name="desc" value="Alchemy Masters and Renowned Masters can make this potion that increases Weapon ATT by 10% for 40 minutes.#cCaution:#\nNormally, only 1 Potion can be used at a time, but Alchemists can use 2 if they are of different kinds. Cooldown is 50 minutes."/>
+		<string name="name" value="Advanced Great Hero Boost Potion"/>
+	</imgdir>
+    <imgdir name="2003598">
+		<string name="desc" value="Alchemy Masters and Renowned Masters can make this potion that increases Ignore DEF Ratio by 20% for 40 minutes.#cCaution:#\nNormally, only 1 Potion can be used at a time, but Alchemists can use 2 if they are of different kinds. Cooldown is 50 minutes."/>
+		<string name="name" value="Advanced Penetrating Boost Potion"/>
+	</imgdir>
+    <imgdir name="2003599">
+		<string name="desc" value="Alchemy Masters and Renowned Masters can make this potion that increases all stats by 10% for 40 minutes.#cCaution:#\nNormally, only 1 Potion can be used at a time, but Alchemists can use 2 if they are of different kinds. Cooldown is 50 minutes."/>
+		<string name="name" value="Advanced Great Blessing Potion"/>
+	</imgdir>
+    <imgdir name="2003046">
+		<string name="desc" value="Special pill for a BigWigs member.\nReplenishes about 10000 HP. (It can only be used by a character 10 and higher.)"/>
+		<string name="name" value="BigWigs HP Recovery Pill"/>
+	</imgdir>
+    <imgdir name="2003047">
+		<string name="desc" value="Special pill for a BigWigs member.\nReplenishes about 10000 MP. (It can only be used by a character 10 and higher.)"/>
+		<string name="name" value="BigWigs MP Recovery Pill"/>
+	</imgdir>
+    <imgdir name="2022269">
+		<string name="desc" value="Used in the Coliseum, this shield protects Spirit Jewels against losses by bombs. (1 time)"/>
+		<string name="name" value="Shield"/>
+	</imgdir>
+    <imgdir name="2022540">
+		<string name="desc" value="Teleport away to escape from danger."/>
+		<string name="name" value="Danger Dodge"/>
+	</imgdir>
+    <imgdir name="2023125">
+		<string name="desc" value="Only available in Monster Park Extreme. Weapon ATT 30 for 30 minutes."/>
+		<string name="name" value="Extreme Red Potion"/>
+	</imgdir>
+    <imgdir name="2023127">
+		<string name="desc" value="Only available in Monster Park Extreme. Magic ATT 30 for 30 minutes."/>
+		<string name="name" value="Extreme Blue Potion"/>
+	</imgdir>
+    <imgdir name="2023201">
+		<string name="desc" value="Surrounds you with a strengthening aura. #cDuration: 30 min.# \n#cWeapon/Magic ATT: +30, Critical Rate: +20%#"/>
+		<string name="name" value="Best of the Bunch Buff"/>
+	</imgdir>
+    <imgdir name="2023202">
+		<string name="desc" value="Aura of the Uniquely Rad Buff surrounds you and gives you new found strength. #cDuration: 30 min.# \n#cWeapon/Magic ATT: +20, Critical Rate: 10%#"/>
+		<string name="name" value="Uniquely Rad Buff"/>
+	</imgdir>
+    <imgdir name="2023203">
+		<string name="desc" value="Aura of the Legit Best of the Bunch Buff surrounds you and gives you new found strength. #cDuration: 30 min.# \n#cWeapon/Magic ATT: +10, Critical Rate: 5%#"/>
+		<string name="name" value="Legit Best of the Bunch Buff"/>
+	</imgdir>
+    <imgdir name="2023204">
+		<string name="desc" value="Lovely Chocolate for the Best of the Bunch. Eat it for special powers. #cDuration: 10 min.#\n#cWeapon/Magic ATT: +50, Speed: +30#"/>
+		<string name="name" value="Best of the Bunch Love Chocolate"/>
+	</imgdir>
+    <imgdir name="2023205">
+		<string name="desc" value="Lovely Chocolate for the Uniquely Rad. Eat it for special powers. #cDuration: 10 min.#\n#cWeapon/Magic ATT: +30, Speed: +20#"/>
+		<string name="name" value="Uniquely Rad Love Chocolate"/>
+	</imgdir>
+    <imgdir name="2023206">
+		<string name="desc" value="Lovely Chocolate for the Legit Best of the Bunch. Eat it for special powers. #cDuration: 10 min.#\n#cWeapon/Magic ATT: +20, Speed: +15#"/>
+		<string name="name" value="Legit Best of the Bunch Love Chocolate"/>
+	</imgdir>
+    <imgdir name="2023207">
+		<string name="desc" value="This EXP coupon will increase your EXP earning by #c1.5 x# for #c30 min.# when it is #cdouble-clicked.#"/>
+		<string name="name" value="1.5X EXP Coupon"/>
+	</imgdir>
+    <imgdir name="2023208">
+		<string name="desc" value="Contains the mysterious magic power of the rainbow. Increases Weapon ATT by 20, Magic ATT by 20, Speed by 40, and Jump to maximum for 1 hour."/>
+		<string name="name" value="Rainbow Magic"/>
+	</imgdir>
+    <imgdir name="2023209">
+		<string name="desc" value="Contains the potent magic power of the rainbow. Increases Weapon ATT by 40, Magic ATT by 40, Speed by 40, and Jump to maximum for 30 minutes."/>
+		<string name="name" value="Hyper Rainbow Magic"/>
+	</imgdir>
+    <imgdir name="2023210">
+		<string name="desc" value="Causes Darkness status."/>
+		<string name="name" value="Cry of a Little Lamb 2"/>
+	</imgdir>
+</imgdir>

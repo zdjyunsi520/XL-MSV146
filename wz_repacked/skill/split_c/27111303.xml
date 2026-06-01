@@ -1,0 +1,5 @@
+<imgdir name="27111303">
+        <string name="name" value="死神镰刀" />
+        <string name="desc" value="[平衡状态]\n死神挥舞镰刀降临，消灭敌人！" />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount\n[Cooldown: #cooltime sec]" />
+    </imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="5710005">
+        <string name="name" value="Cutting Edge" />
+        <string name="desc" value="Borrows power from the core to increase Critical Rate and ignore a portion of enemy&apos;s DEF." />
+        <string name="h" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="Borrows power from the core to increase Critical Rate and ignore a portion of enemy&apos;s DEF." />
+        <string name="ph" value="Critical Rate: +#cr%, Enemy DEF Ignored: #ignoreMobpdpR%" />
+    </imgdir>

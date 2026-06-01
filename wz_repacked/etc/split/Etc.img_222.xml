@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4021041">
+			<string name="name" value="Cubic Blade"/>
+			<string name="desc" value="A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and used for making Master Craftsman's Cubes."/>
+		</imgdir>
+    <imgdir name="4021042">
+			<string name="name" value="Cubic Chaos Blade"/>
+			<string name="desc" value="A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman's Cubes."/>
+		</imgdir>
+    <imgdir name="4023023">
+			<string name="name" value="Dusk Essence"/>
+			<string name="desc" value="The magical essence of dusk itself, occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, and Mysterious Herbs. Used in all sorts of crafting."/>
+		</imgdir>
+    <imgdir name="4023024">
+			<string name="name" value="Brilliant Dusk Essence"/>
+			<string name="desc" value="A purified form of Dusk Essence, occasionally found from Mysterious Legendary Ore Veins and Mysterious Herbs. Used in all sorts of crafting."/>
+		</imgdir>
+    <imgdir name="4023025">
+			<string name="name" value="Unrelenting Flame"/>
+			<string name="desc" value="A strong flame occasionally found in Mysterious Herbs, used for making Powerful Rebirth Flames."/>
+		</imgdir>
+    <imgdir name="4023026">
+			<string name="name" value="Forever Unrelenting Flame"/>
+			<string name="desc" value="A perpetual flame occasionally found in Mysterious Legendary Herbs, used for making Eternal Rebirth Flames."/>
+		</imgdir>
+    <imgdir name="4025000">
+			<string name="name" value="Basic Abrasive"/>
+			<string name="desc" value="A chemical used to craft jewels and minerals. Used for making Level 40-60 items. \nPurchase it from Ramsey in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025001">
+			<string name="name" value="Intermediate Abrasive"/>
+			<string name="desc" value="A chemical used to craft jewels and minerals. Used for making Level 70-90 items. \nPurchase it from Ramsey in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025002">
+			<string name="name" value="Advanced Abrasive"/>
+			<string name="desc" value="A chemical used to craft jewels and minerals. Used for making Level 100-120 items. \nPurchase it from Ramsey in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4025003">
+			<string name="name" value="Superior Abrasive"/>
+			<string name="desc" value="A chemical used to craft jewels and minerals. Used for making items at Level 130 and above. \nPurchase it from Ramsey in Ardentmill."/>
+		</imgdir>
+    <imgdir name="4030021">
+			<string name="name" value="Night Mark"/>
+			<string name="desc" value="A badge that officially recognizes one as a Elite Nightshadow."/>
+		</imgdir>
+    <imgdir name="4030022">
+			<string name="name" value="Good Lumber"/>
+			<string name="desc" value="It's a little wet, but should be fine."/>
+		</imgdir>
+    <imgdir name="4030023">
+			<string name="name" value="Wind Change Report"/>
+			<string name="desc" value="A considerably long report on wind directions. Probably the most boring thing you could possibly read."/>
+		</imgdir>
+    <imgdir name="4030024">
+			<string name="name" value="Tracking Report"/>
+			<string name="desc" value="A considerably long report on foot tracking. And you thought the wind report was bad..."/>
+		</imgdir>
+    <imgdir name="4030025">
+			<string name="name" value="Garbled Command"/>
+			<string name="desc" value="There are definitely words here, but it's impossible to tell what they mean."/>
+		</imgdir>
+    <imgdir name="4030026">
+			<string name="name" value="Garbled Command Book"/>
+			<string name="desc" value="A bunch of garbled commands."/>
+		</imgdir>
+    <imgdir name="4030027">
+			<string name="name" value="Riena Small Fry"/>
+			<string name="desc" value="A small fish from the Riena area. Maybe you could pickle it."/>
+		</imgdir>
+    <imgdir name="4030028">
+			<string name="name" value="Riena Whopper"/>
+			<string name="desc" value="A large fish from the Riena area. Its belly tastes like heaven. "/>
+		</imgdir>
+    <imgdir name="4030029">
+			<string name="name" value="Barbara's Fishing Kit"/>
+			<string name="desc" value="Good enough to reel in the big ones."/>
+		</imgdir>
+    <imgdir name="4030030">
+			<string name="name" value="Glacier Core Fragment"/>
+			<string name="desc" value="A fragment of condensed glacier power."/>
+		</imgdir>
+</imgdir>

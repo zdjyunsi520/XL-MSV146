@@ -1,0 +1,5 @@
+<imgdir name="70000018">
+        <string name="name" value="魔防转物防" />
+        <string name="desc" value="按魔法防御的比例提升物理防御。" />
+        <string name="h" value="#mdd2pdd% of Magic DEF added to Weapon DEF" />
+    </imgdir>

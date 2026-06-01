@@ -1,0 +1,80 @@
+<imgdir name="Cash.img">
+    <imgdir name="5120066">
+		<string name="name" value="Message to Ika"/>
+	</imgdir>
+    <imgdir name="5120067">
+		<string name="name" value="Message to Mr. Kitano"/>
+	</imgdir>
+    <imgdir name="5120068">
+		<string name="name" value="Message to the Dark Lord"/>
+	</imgdir>
+    <imgdir name="5120069">
+		<string name="name" value="Message to Grendel the Really Old"/>
+	</imgdir>
+    <imgdir name="5120070">
+		<string name="name" value="Message to Athena Pierce"/>
+	</imgdir>
+    <imgdir name="5120071">
+		<string name="name" value="Message to Postulates with Balrog"/>
+	</imgdir>
+    <imgdir name="5120072">
+		<string name="name" value="Message to Kyrin"/>
+	</imgdir>
+    <imgdir name="5120073">
+		<string name="name" value="Message to Mu Gong"/>
+	</imgdir>
+    <imgdir name="5120074">
+		<string name="name" value="Message to Busker"/>
+	</imgdir>
+    <imgdir name="5120075">
+		<string name="name" value="Message to Geese"/>
+	</imgdir>
+    <imgdir name="5120076">
+		<string name="name" value="Message to Mr. Orlov"/>
+	</imgdir>
+    <imgdir name="5120079">
+		<string name="name" value="Halloween"/>
+		<string name="desc" value="Halloween"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
+    <imgdir name="5121000">
+		<string name="name" value="Fighting Spirit"/>
+		<string name="desc" value="You can enter the message of your choice. "/>
+		<string name="msg" value="%s's Fighting Spirit : %s"/>
+	</imgdir>
+    <imgdir name="5121001">
+		<string name="name" value="Korean Soccer Chant"/>
+		<string name="desc" value="You can enter the message of your choice. "/>
+		<string name="msg" value="%s's Chant : %s"/>
+	</imgdir>
+    <imgdir name="5121002">
+		<string name="name" value="Soccer Fever"/>
+		<string name="desc" value="Increases Speed +20, Jump +10 for 10 minutes to everyone in the map. Enter a message of your choice."/>
+		<string name="msg" value="%s's soccer fever : %s"/>
+	</imgdir>
+    <imgdir name="5121003">
+		<string name="name" value="Chicken Soup"/>
+		<string name="desc" value="Everyone in the map receives Weapon Attack +30 and Magic Attack +30 for 15 minutes. Enter a message of your choice."/>
+		<string name="msg" value="%s's chicken soup : %s"/>
+	</imgdir>
+    <imgdir name="5121004">
+		<string name="name" value="Song Pyun"/>
+		<string name="desc" value="Everyone in the map receives Weapon Attack +30 and Magic Attack +30 for 15 minutes. Enter a message of your choice."/>
+		<string name="msg" value="%s's Song Pyun : %s"/>
+	</imgdir>
+    <imgdir name="5121005">
+		<string name="name" value="Han Gwa"/>
+		<string name="desc" value="Everyone in the map receives Weapon Attack +30 and Magic Attack +30 for 15 minutes. Enter a message of your choice."/>
+		<string name="msg" value="%s's Han Gwa : %s"/>
+	</imgdir>
+    <imgdir name="5121006">
+		<string name="name" value="Flock of Witches"/>
+		<string name="desc" value="Everyone in the map receives Weapon Attack +30 and Magic Attack +30 for 15 minutes. Enter a message of your choice."/>
+		<string name="msg" value="%s's Flock of Witches : %s"/>
+	</imgdir>
+    <imgdir name="5121007">
+		<string name="name" value="Tree Decor"/>
+		<string name="desc" value="Everyone in the map receives Weapon Attack +30 and Magic Attack +30 for 15 minutes. Enter a message of your choice."/>
+		<string name="msg" value="%s's Tree Decor : %s"/>
+	</imgdir>
+</imgdir>

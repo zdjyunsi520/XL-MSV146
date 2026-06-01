@@ -1,0 +1,5 @@
+<imgdir name="11001022">
+        <string name="name" value="灵魂元素" />
+        <string name="desc" value="召唤风元素获得其力量。" />
+        <string name="h" value="消耗MP：#mpCon，持续时间：#time，无法移动异常概率：#prop%，异常持续时间：#subTime\n被动效果：无视怪物防御：-#ignoreMobpdpR%" />
+    </imgdir>

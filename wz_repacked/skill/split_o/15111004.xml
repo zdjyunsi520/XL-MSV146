@@ -1,0 +1,7 @@
+<imgdir name="15111004">
+        <string name="name" value="Octopunch" />
+        <string name="desc" value="Throws a barrage of punches with super human power." />
+        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+        <string name="pdesc" value="Throws a barrage of punches with super human power." />
+        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
+    </imgdir>

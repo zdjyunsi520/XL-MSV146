@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290475">
+		<string name="desc" value="100% chance of increasing the Master Level of #cBig Bang# to 30.\nJob: Bishop\nCondition: Skill Level 5+"/>
+		<string name="name" value="[Special Mastery Book] Big Bang 30"/>
+	</imgdir>
+    <imgdir name="2290811">
+		<string name="desc" value="100% chance of increasing the Master Level of #cBig Bang# to 20.\nJob: Bishop\nCondition: Skill Level 5+"/>
+		<string name="name" value="[Mastery Book] Big Bang 20"/>
+	</imgdir>
+    <imgdir name="2430079">
+		<string name="desc" value="Double-click on it to use the [Floaty Balloon] riding skill for 2 hours.\n#cEverybody in Event edition.#"/>
+		<string name="name" value="Floaty Balloon Everybody in Coupon"/>
+	</imgdir>
+    <imgdir name="2430227">
+		<string name="desc" value="Are you tired? Try the only energy drink with the refined essence of bear, Bear Power! Restores 50 Fatigue. Cooldown is 30 minutes."/>
+		<string name="name" value="Energy Drink - Bear Power"/>
+	</imgdir>
+    <imgdir name="2430220">
+		<string name="desc" value="Are you tired? Try this new drink--a mixture of Red Moo and Vita-C! Super Moo! Restores 30 Fatigue. Cooldown is 30 minutes."/>
+		<string name="name" value="Energy Drink - Super Moo"/>
+	</imgdir>
+    <imgdir name="2430442">
+		<string name="desc" value="Raises 1 Profession at Level 9 or below to the next level."/>
+		<string name="name" value="Profession Coupon"/>
+	</imgdir>
+    <imgdir name="2431347">
+		<string name="desc" value="A secret box sold by Rebecca. \n#cDouble-click# to receive 1 of many consumable items. \nRebecca's Secret Box can be opened until #TKTKTK#."/>
+		<string name="name" value="Rebecca's Secret Box"/>
+	</imgdir>
+    <imgdir name="2431535">
+		<string name="desc" value="#cDouble-click# to acquire a Buff Item appropriate to your level range."/>
+		<string name="name" value="Ancestral Wisdom"/>
+	</imgdir>
+    <imgdir name="2431673">
+		<string name="desc" value="A pouch from Murgoth. You can get a Soul Shard from here if you're lucky. Pouch can't be used after the event."/>
+		<string name="name" value="Murgoth's Pouch"/>
+	</imgdir>
+    <imgdir name="2431718">
+		<string name="desc" value="A pouch from Murgoth. You can get a Soul Shard from here if you're lucky. Pouch can't be used after the event."/>
+		<string name="name" value="Murgoth's Pouch"/>
+	</imgdir>
+    <imgdir name="2431719">
+		<string name="desc" value="A letter handed to you by a shy Murgoth. What's it say?"/>
+		<string name="name" value="Murgoth's Letter"/>
+	</imgdir>
+    <imgdir name="2431721">
+		<string name="desc" value="Double-click it to acquire 10th Anniversary Coins. You won't know how many until you open it, which you should do before TKTKTK."/>
+		<string name="name" value="Mysterious 10th Anniversary Coin Pouch"/>
+	</imgdir>
+    <imgdir name="2431722">
+		<string name="desc" value="#cDouble-click# to gain a temporary #cTogether with Angel Mount#, which can use the High Altitude Flight skill in towns for 90 Days."/>
+		<string name="name" value="Together with Angel Mount Coupon 90 Day"/>
+	</imgdir>
+    <imgdir name="2431724">
+		<string name="desc" value="This Mable Ranger box cantons mysterious and rare items!\n#cUse before TKTKTK."/>
+		<string name="name" value="Mable Ranger Box"/>
+	</imgdir>
+    <imgdir name="2431725">
+		<string name="desc" value="A box full of surprises from Cassandra.\n#cDouble-click to open.#"/>
+		<string name="name" value="Hot-Time Gift Box"/>
+	</imgdir>
+    <imgdir name="2431727">
+		<string name="desc" value="A lucky box made just for the 10th anniversary. #cDouble-Click# to open.\r\n#cExpires on TKTKTK."/>
+		<string name="name" value="10th Anniversary Lucky Boxy"/>
+	</imgdir>
+    <imgdir name="2431729">
+		<string name="desc" value="GM Hakgu's autograph."/>
+		<string name="name" value="GM Hakgu's Autograph"/>
+	</imgdir>
+    <imgdir name="2431730">
+		<string name="desc" value="GM Sori's autograph."/>
+		<string name="name" value="GM Sori's Autograph"/>
+	</imgdir>
+    <imgdir name="2431731">
+		<string name="desc" value="GM Nori's autograph."/>
+		<string name="name" value="GM Nori's Autograph"/>
+	</imgdir>
+    <imgdir name="2431732">
+		<string name="desc" value="GM Daejang's autograph."/>
+		<string name="name" value="GM Daejang's Autograph"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,184 @@
+<imgdir name="Map.img">
+    <imgdir name="HalloweenGL">
+		<imgdir name="682000000">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Haunted House"/>
+		</imgdir>
+		<imgdir name="682000001">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Hollowed Ground"/>
+		</imgdir>
+		<imgdir name="682000100">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Foyer"/>
+		</imgdir>
+		<imgdir name="682000200">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Ghost Chimney"/>
+		</imgdir>
+		<imgdir name="682000300">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Hallway"/>
+		</imgdir>
+		<imgdir name="682000301">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Sophilia's Bedroom"/>
+		</imgdir>
+		<imgdir name="682000302">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Vanity Room"/>
+		</imgdir>
+		<imgdir name="682000303">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Study"/>
+		</imgdir>
+		<imgdir name="682000304">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Piano Room"/>
+		</imgdir>
+		<imgdir name="682000305">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Toy Room"/>
+		</imgdir>
+		<imgdir name="682000306">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Barren Room"/>
+		</imgdir>
+		<imgdir name="682000400">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Hallway - Where am I?"/>
+		</imgdir>
+		<imgdir name="682000401">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Sophilia's Bedroom"/>
+		</imgdir>
+		<imgdir name="682000402">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Vanity Room"/>
+		</imgdir>
+		<imgdir name="682000403">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Study"/>
+		</imgdir>
+		<imgdir name="682000404">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Piano Room"/>
+		</imgdir>
+		<imgdir name="682000405">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Toy Room"/>
+		</imgdir>
+		<imgdir name="682000406">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Barren Room"/>
+		</imgdir>
+		<imgdir name="682000500">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Hallway - Where are you?"/>
+		</imgdir>
+		<imgdir name="682000501">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Sophilia's Bedroom"/>
+		</imgdir>
+		<imgdir name="682000502">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Vanity Room"/>
+		</imgdir>
+		<imgdir name="682000503">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Study"/>
+		</imgdir>
+		<imgdir name="682000504">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Piano Room"/>
+		</imgdir>
+		<imgdir name="682000505">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Toy Room"/>
+		</imgdir>
+		<imgdir name="682000506">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Barren Room"/>
+		</imgdir>
+		<imgdir name="682000600">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Hallway - This Again?"/>
+		</imgdir>
+		<imgdir name="682000601">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Sophilia's Bedroom"/>
+		</imgdir>
+		<imgdir name="682000602">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Vanity Room"/>
+		</imgdir>
+		<imgdir name="682000603">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Study"/>
+		</imgdir>
+		<imgdir name="682000604">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Piano Room"/>
+		</imgdir>
+		<imgdir name="682000605">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Toy Room"/>
+		</imgdir>
+		<imgdir name="682000606">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Barren Room"/>
+		</imgdir>
+		<imgdir name="682000700">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pumpkin Vault"/>
+		</imgdir>
+		<imgdir name="682000800">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Library"/>
+		</imgdir>
+		<imgdir name="682000900">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Toy Workshop"/>
+		</imgdir>
+		<imgdir name="682010000">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Mansion's Hidden Hall 1"/>
+		</imgdir>
+		<imgdir name="682010100">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Olivia's Secret Room 1"/>
+		</imgdir>
+		<imgdir name="682010001">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Mansion's Hidden Hall 2"/>
+		</imgdir>
+		<imgdir name="682010101">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Olivia's Secret Room 2"/>
+		</imgdir>
+		<imgdir name="682010002">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Mansion's Hidden Hall 3"/>
+		</imgdir>
+		<imgdir name="682010102">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Olivia's Secret Room 3"/>
+		</imgdir>
+		<imgdir name="682010200">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Mansion's Main Chimney"/>
+		</imgdir>
+		<imgdir name="682010201">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Chimney Possessed by the Skeletons"/>
+		</imgdir>
+		<imgdir name="682010202">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Chimney Possessed by the Scarecrow"/>
+		</imgdir>
+		<imgdir name="682010203">
+			<string name="streetName" value="Haunted House"/>
+			<string name="mapName" value="Chimney Possessed by the Clown"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

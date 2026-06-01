@@ -1,0 +1,7 @@
+<imgdir name="3221002">
+        <string name="name" value="锐利之眼" />
+        <string name="desc" value="暂时赋予队员发现敌人弱点的能力，造成致命伤害！" />
+        <string name="h" value="MP Cost: #mpCon, Critical Rate: +#x%, Max Critical Damage: +#y%, Duration: #time sec" />
+        <string name="pdesc" value="揭示敌人的弱点，提升队员对它造成的伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Critical Rate: +#x%, Max Critical Damage: +#y%, Duration: #time sec" />
+    </imgdir>

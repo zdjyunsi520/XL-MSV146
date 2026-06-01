@@ -1,0 +1,5 @@
+<imgdir name="61121104">
+        <string name="name" value="剑刃爆发" />
+        <string name="h" value="MP Cost: #mpCon, Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Explosion damage hits #y enemies for #w% damage #x times." />
+        <string name="desc" value="召唤多把剑刺入地面爆炸，造成额外伤害！\n#c龙之连结技能：攻击中+↓龙之连结" />
+    </imgdir>

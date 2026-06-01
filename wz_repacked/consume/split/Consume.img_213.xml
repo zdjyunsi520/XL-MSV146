@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2290696">
+		<string name="name" value="[Special Mastery Book] Dark Crescendo 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cDark Crescendo# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290697">
+		<string name="name" value="[Special Mastery Book] Arcane Pitch 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cArcane Pitch# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290698">
+		<string name="name" value="[Special Mastery Book] Magic Mastery 30"/>
+		<string name="desc" value="100% chance of increasing the Master Level of #cMagic Mastery# to 30.\nJob: Luminous (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290722">
+		<string name="name" value="Luminous's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Luminous when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290723">
+		<string name="name" value="Kaiser's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Kaiser when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290724">
+		<string name="name" value="Angelic Buster's Mystery Mastery Book"/>
+		<string name="desc" value="Produces one random Mystery Mastery Book for Angelic Buster when double-clicked."/>
+	</imgdir>
+    <imgdir name="2290739">
+		<string name="name" value="[Mastery Book] Gigas Wave 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cGigas Wave# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290740">
+		<string name="name" value="[Mastery Book] Gigas Wave 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cGigas Wave# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290741">
+		<string name="name" value="[Mastery Book] Dragon Barrage 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cDragon Barrage# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290742">
+		<string name="name" value="[Mastery Book] Dragon Barrage 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cDragon Barrage# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290743">
+		<string name="name" value="[Mastery Book] Advanced Tempest Blades 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cAdvanced Tempest Blades# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290744">
+		<string name="name" value="[Mastery Book] Advanced Tempest Blades 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cAdvanced Tempest Blades# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290745">
+		<string name="name" value="[Mastery Book] Unbreakable Will 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cUnbreakable Will# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290746">
+		<string name="name" value="[Mastery Book] Unbreakable Will 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cUnbreakable Will# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290747">
+		<string name="name" value="[Mastery Book] Expert Sword Mastery 20"/>
+		<string name="desc" value="70% chance of increasing the Master level of #cExpert Sword Mastery# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290748">
+		<string name="name" value="[Mastery Book] Expert Sword Mastery 30"/>
+		<string name="desc" value="50% chance of increasing the Master level of #cExpert Sword Mastery# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290749">
+		<string name="name" value="[Mastery Book] Nova Warrior 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cNova Warrior# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290750">
+		<string name="name" value="[Mastery Book] Nova Warrior 30"/>
+		<string name="desc" value="50% chance of increasing the Master Level of #cNova Warrior# to 30.\nJob: Kaiser (4th)\nCondition: Skill Level 15+"/>
+	</imgdir>
+    <imgdir name="2290751">
+		<string name="name" value="[Mastery Book] Grand Armor 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cGrand Armor# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+    <imgdir name="2290752">
+		<string name="name" value="[Mastery Book] Blade Burst 20"/>
+		<string name="desc" value="70% chance of increasing the Master Level of #cBlade Burst# to 20.\nJob: Kaiser (4th)\nCondition: Skill Level 5+"/>
+	</imgdir>
+</imgdir>

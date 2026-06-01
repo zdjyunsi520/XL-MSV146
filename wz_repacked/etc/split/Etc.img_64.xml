@@ -1,0 +1,82 @@
+<imgdir name="Etc.img">
+    <imgdir name="4001809">
+			<string name="name" value="Dented Steel Plate"/>
+			<string name="desc" value="This plate has taken a beating or ten."/>
+		</imgdir>
+    <imgdir name="4002000">
+			<string name="name" value="Snail Stamp"/>
+			<string name="desc" value="A stamp with a snail drawn on it."/>
+		</imgdir>
+    <imgdir name="4002001">
+			<string name="name" value="Blue Snail Stamp"/>
+			<string name="desc" value="A stamp with a blue snail drawn in."/>
+		</imgdir>
+    <imgdir name="4002002">
+			<string name="name" value="Stump Stamp"/>
+			<string name="desc" value="A stamp with a stump drawn in."/>
+		</imgdir>
+    <imgdir name="4002003">
+			<string name="name" value="Slime Stamp"/>
+			<string name="desc" value="A stamp with a slime drawn in."/>
+		</imgdir>
+    <imgdir name="4003000">
+			<string name="name" value="Screw"/>
+			<string name="desc" value="A small screw made out of steel. Used as a material to make weapons or armors."/>
+		</imgdir>
+    <imgdir name="4003001">
+			<string name="name" value="Processed Wood"/>
+			<string name="desc" value="A processed wood made out of tree branches. Used as a material to make weapons or armors."/>
+		</imgdir>
+    <imgdir name="4003002">
+			<string name="name" value="Piece of Ice"/>
+			<string name="desc" value="Water frozen through the power of magic. Doesn't melt easily."/>
+		</imgdir>
+    <imgdir name="4003003">
+			<string name="name" value="Fairy Wing"/>
+			<string name="desc" value="A piece of wing from a fairy. It's soft and brittle, so it should be handled with care."/>
+		</imgdir>
+    <imgdir name="4003004">
+			<string name="name" value="Stiff Feather"/>
+			<string name="desc" value="A feather that's stiff and rough. Used to make arrows."/>
+		</imgdir>
+    <imgdir name="4003005">
+			<string name="name" value="Soft Feather"/>
+			<string name="desc" value="A soft and light feather. Used to make arrows."/>
+		</imgdir>
+    <imgdir name="4004000">
+			<string name="name" value="Power Crystal Ore"/>
+			<string name="desc" value="Crystal ore that radiates power. It can be refined to obtain rare magic powder (red)."/>
+		</imgdir>
+    <imgdir name="4004001">
+			<string name="name" value="Wisdom Crystal Ore"/>
+			<string name="desc" value="Crystal ore that radiates wisdom. It can be refined to obtain rare magic powder (purple)."/>
+		</imgdir>
+    <imgdir name="4004002">
+			<string name="name" value="DEX Crystal Ore"/>
+			<string name="desc" value="Crystal ore that radiates dexterity. It can be refined to obtain rare magic powder (green)."/>
+		</imgdir>
+    <imgdir name="4004003">
+			<string name="name" value="LUK Crystal Ore"/>
+			<string name="desc" value="Crystal ore that radiates luck. It can be refined to obtain rare magic powder (purple)."/>
+		</imgdir>
+    <imgdir name="4004004">
+			<string name="name" value="Dark Crystal Ore"/>
+			<string name="desc" value="An ore of a crystal that possesses dark power. An incredible power lay asleep in it."/>
+		</imgdir>
+    <imgdir name="4005000">
+			<string name="name" value="Power Crystal"/>
+			<string name="desc" value="A mysterious crystal that holds great power. Used for level 8 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4005001">
+			<string name="name" value="Wisdom Crystal"/>
+			<string name="desc" value="A mysterious crystal that holds great wisdom. Used for level 10 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4005002">
+			<string name="name" value="DEX Crystal"/>
+			<string name="desc" value="A mysterious crystal that holds great dexterity. Used for level 5 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+    <imgdir name="4005003">
+			<string name="name" value="LUK Crystal"/>
+			<string name="desc" value="A mysterious crystal that holds great luck. Used for level 10 equipment, accessory, and alchemy crafting."/>
+		</imgdir>
+</imgdir>

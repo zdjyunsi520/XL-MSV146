@@ -1,0 +1,5 @@
+<imgdir name="70000045">
+        <string name="name" value="Chance for no cooldown." />
+        <string name="desc" value="Chance for no cooldown when using skills." />
+        <string name="h" value="#nocoolProp% chance to bypass cooldown when using skills." />
+    </imgdir>

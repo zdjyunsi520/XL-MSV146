@@ -1,0 +1,73 @@
+<imgdir name="Npc.img">
+    <imgdir name="1514006">
+		<string name="name" value="年轻的达奇"/>
+	</imgdir>
+    <imgdir name="1514007">
+		<string name="name" value="可能邪恶的海豹"/>
+	</imgdir>
+    <imgdir name="1514008">
+		<string name="name" value="可能邪恶的海象"/>
+	</imgdir>
+    <imgdir name="1514009">
+		<string name="name" value="普坦"/>
+	</imgdir>
+    <imgdir name="1102201">
+		<string name="name" value="10布吉"/>
+		<string name="n0" value="等等...我的报告其余部分在哪里？"/>
+		<string name="n1" value="有人需要马上帮我一下。"/>
+		<string name="d0" value="哎呀，有这么多工作，女孩子怎么玩得开心？！"/>
+		<string name="d1" value="我现在对佩里恩了解很多。超级多。"/>
+	</imgdir>
+    <imgdir name="1102203">
+		<string name="name" value="艾琳调查许可证"/>
+		<string name="d0" value="（这一定是10布吉掉落的文件。）"/>
+		<string name="d1" value="（这一定是10布吉掉落的文件。）"/>
+	</imgdir>
+    <imgdir name="2159434">
+		<string name="name" value="破旧的公用电话"/>
+		<string name="n0" value="滋滋——滋滋"/>
+		<string name="d0" value="滋滋——滋滋"/>
+	</imgdir>
+    <imgdir name="3001032">
+		<string name="name" value="暴君王座入口"/>
+	</imgdir>
+    <imgdir name="2042010">
+		<string name="name" value="斯皮格尔曼"/>
+		<string name="func" value="怪物嘉年华"/>
+		<string name="n0" value="如果你想看到特别的东西，就来怪物嘉年华吧！"/>
+		<string name="n1" value="在怪物嘉年华上向你的朋友展示谁是最强的！"/>
+	</imgdir>
+    <imgdir name="2135000">
+		<string name="name" value="战斗雕像"/>
+	</imgdir>
+    <imgdir name="2135001">
+		<string name="name" value="战斗雕像"/>
+	</imgdir>
+    <imgdir name="2135002">
+		<string name="name" value="战士大师"/>
+	</imgdir>
+    <imgdir name="2135003">
+		<string name="name" value="法师大师"/>
+	</imgdir>
+    <imgdir name="2135004">
+		<string name="name" value="弓箭手大师"/>
+	</imgdir>
+    <imgdir name="2135005">
+		<string name="name" value="盗贼大师"/>
+	</imgdir>
+    <imgdir name="2135006">
+		<string name="name" value="海盗大师"/>
+	</imgdir>
+    <imgdir name="2135007">
+		<string name="name" value="红尼尔格的符文"/>
+	</imgdir>
+    <imgdir name="2135008">
+		<string name="name" value="玛加纳的符文"/>
+	</imgdir>
+    <imgdir name="2135009">
+		<string name="name" value="雷利克的符文"/>
+	</imgdir>
+    <imgdir name="2135010">
+		<string name="name" value="哈萨尔夫的符文"/>
+	</imgdir>
+</imgdir>

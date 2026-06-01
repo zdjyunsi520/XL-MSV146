@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2591157">
+		<string name="name" value="Clever Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591158">
+		<string name="name" value="Fortuitous  Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591159">
+		<string name="name" value="Ornate Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +8\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591160">
+		<string name="name" value="Potent Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: ATT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591161">
+		<string name="name" value="Radiant Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: M ATT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591162">
+		<string name="name" value="Hearty Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +500\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591163">
+		<string name="name" value="Magnificent Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cMore powerful Zakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\n#cSuccess: 100%#\nCan be used on Lv 100+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591164">
+		<string name="name" value="Beefy Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591165">
+		<string name="name" value="Swift Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591166">
+		<string name="name" value="Clever Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591167">
+		<string name="name" value="Fortuitous  Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591168">
+		<string name="name" value="Hearty Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max HP +150\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591169">
+		<string name="name" value="Ample Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: Max MP +150\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591170">
+		<string name="name" value="Ornate Xerxes Soul"/>
+		<string name="desc" value="Xerxes's Soul Crystal.\r\nGrants the #cXerxes skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +2\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591171">
+		<string name="name" value="Beefy Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: STR +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591172">
+		<string name="name" value="Swift Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: DEX +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591173">
+		<string name="name" value="Clever Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: INT +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591174">
+		<string name="name" value="Fortuitous  Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: LUK +12\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591175">
+		<string name="name" value="Ornate Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: All Stat +8\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+    <imgdir name="2591176">
+		<string name="name" value="Potent Zakum Soul"/>
+		<string name="desc" value="Zakum's Soul Crystal.\r\nGrants the #cZakum skill and bonus Potential# to #cweapons under the effects of a Soul Enchanter#.\r\n#cBonus Potential: ATT +3\r\nSuccess: 100%#\r\nCan be used on Lv 75+ equipment"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nEnchant your Dawn weapon with a monster soul.\r\n#"/>
+	</imgdir>
+</imgdir>

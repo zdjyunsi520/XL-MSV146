@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9400811">
+		<string name="name" value="外星矿工"/>
+	</imgdir>
+    <imgdir name="9400812">
+		<string name="name" value="馅饼老板"/>
+	</imgdir>
+    <imgdir name="9400813">
+		<string name="name" value="蛋糕老板"/>
+	</imgdir>
+    <imgdir name="9999997">
+		<string name="name" value="馅饼老板"/>
+	</imgdir>
+    <imgdir name="9999996">
+		<string name="name" value="馅饼老板"/>
+	</imgdir>
+    <imgdir name="9409019">
+		<string name="name" value="红面具"/>
+	</imgdir>
+    <imgdir name="9409020">
+		<string name="name" value="僵尸伙伴"/>
+	</imgdir>
+    <imgdir name="9409021">
+		<string name="name" value="恶霸"/>
+	</imgdir>
+    <imgdir name="9410147">
+		<string name="name" value="冻伤僵尸"/>
+	</imgdir>
+    <imgdir name="9410148">
+		<string name="name" value="烤僵尸"/>
+	</imgdir>
+    <imgdir name="9410149">
+		<string name="name" value="毒僵尸"/>
+	</imgdir>
+    <imgdir name="9410150">
+		<string name="name" value="电击僵尸"/>
+	</imgdir>
+    <imgdir name="9410151">
+		<string name="name" value="诅咒僵尸"/>
+	</imgdir>
+    <imgdir name="9410165">
+		<string name="name" value="乔乔"/>
+	</imgdir>
+    <imgdir name="9410166">
+		<string name="name" value="赫敏尼"/>
+	</imgdir>
+    <imgdir name="9410167">
+		<string name="name" value="小龙"/>
+	</imgdir>
+    <imgdir name="9410168">
+		<string name="name" value="伊卡"/>
+	</imgdir>
+    <imgdir name="9410169">
+		<string name="name" value="学校护士"/>
+	</imgdir>
+    <imgdir name="9410170">
+		<string name="name" value="学校护士"/>
+	</imgdir>
+    <imgdir name="9410171">
+		<string name="name" value="老板久美"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,5 @@
+<imgdir name="42101001">
+        <string name="name" value="Shikigami Charm" />
+        <string name="desc" value="Zips past the enemies, leaving a paper charm behind. The charm draws enemies near, slowing them down and reducing their accuracy. The charm explodes after 5 seconds or after using Shikigami Haunting." />
+        <string name="h" value="Mana Cost: #epCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount. Summon Duration: #time seconds, Enemy Speed: #x, Enemy Accuracy: -#y, Explosion Damage: #selfDestruction% \nCooldown #cooltime Sec" />
+    </imgdir>

@@ -1,0 +1,100 @@
+<imgdir name="Npc.img">
+    <imgdir name="2420015">
+		<string name="name" value="怪盗幻影"/>
+		<string name="d0" value="（从华丽的帽子和更华丽的服装来看，这就是怪盗...幻影。）"/>
+		<string name="d1" value="（从华丽的帽子和更华丽的服装来看，这就是怪盗...幻影。）"/>
+	</imgdir>
+    <imgdir name="2420016">
+		<string name="name" value="茉莉"/>
+		<string name="d0" value="这一切都是因为我很穷。"/>
+		<string name="d1" value="我只希望我的儿子能过得好。"/>
+		<string name="n0" value="他们说讨好女王就能在城堡里谋得职位..."/>
+		<string name="n1" value="可怜的阿尔丁，我的儿子！"/>
+	</imgdir>
+    <imgdir name="2420017">
+		<string name="name" value="阿尔丁"/>
+		<string name="d0" value="如果我看着她的眼睛会愣住怎么办？"/>
+		<string name="d1" value="我会鼓起勇气表白的！"/>
+		<string name="n0" value="相思病无药可医。"/>
+		<string name="n1" value="哦，美丽的西琳！"/>
+	</imgdir>
+    <imgdir name="2420018">
+		<string name="name" value="萨加特"/>
+		<string name="d0" value="阿里安特并不总是这样。"/>
+		<string name="d1" value="也许有一天阿里安特会恢复原貌..."/>
+		<string name="n0" value="岁月带来智慧。"/>
+		<string name="n1" value="所见所闻皆为知识。"/>
+	</imgdir>
+    <imgdir name="2420019">
+		<string name="name" value="沙蒂"/>
+		<string name="d0" value="父亲的贪婪永无止境！"/>
+		<string name="d1" value="我要把父亲的财产分给穷人。"/>
+		<string name="n0" value="父亲真的需要停止贪婪..."/>
+		<string name="n1" value="我能听到这里人们的抱怨。"/>
+	</imgdir>
+    <imgdir name="2420020">
+		<string name="name" value="斯林"/>
+		<string name="d0" value="在沙漠里做生意不容易。"/>
+		<string name="d1" value="如果你想分到金字塔骗局的一杯羹，十年后再来。"/>
+		<string name="n0" value="我要成为世界上最富有的人！"/>
+		<string name="n1" value="我要积累财富超越黄金海滩。"/>
+	</imgdir>
+    <imgdir name="2420021">
+		<string name="name" value="沙盗的信"/>
+	</imgdir>
+    <imgdir name="2420022">
+		<string name="name" value="提贡的宝箱"/>
+	</imgdir>
+    <imgdir name="2420023">
+		<string name="name" value="罐子"/>
+	</imgdir>
+    <imgdir name="2420024">
+		<string name="name" value="幻影的信"/>
+	</imgdir>
+    <imgdir name="2420025">
+		<string name="name" value="城堡传送门"/>
+	</imgdir>
+    <imgdir name="2420026">
+		<string name="name" value="坚固的墙"/>
+	</imgdir>
+    <imgdir name="2420027">
+		<string name="name" value="阿尔丁"/>
+		<string name="d0" value="啊...真不敢相信莱斯三姐妹骗了我！"/>
+		<string name="d1" value="啊...真不敢相信莱斯三姐妹骗了我！"/>
+	</imgdir>
+    <imgdir name="2420028">
+		<string name="name" value="卡尔卡萨"/>
+		<string name="func" value="黑市小贩"/>
+		<string name="d0" value="欢迎来到卡尔卡萨商店！你要什么我都能弄到！"/>
+		<string name="d1" value="在阿里安特找不到比我更能干的商人。"/>
+		<string name="n0" value="我喜欢和女王做生意。无论什么珠宝什么价格我都能卖给她，她都会买！"/>
+		<string name="n1" value="我喜欢和女王做生意。无论什么珠宝什么价格我都能卖给她，她都会买！"/>
+	</imgdir>
+    <imgdir name="2420029">
+		<string name="name" value="卡尔卡萨"/>
+		<string name="d0" value="为什么没人来我的店？我得谋生啊？"/>
+		<string name="d1" value="为什么没人来我的店？我得谋生啊？"/>
+		<string name="n0" value="用背包里的绳子抓蝎子。"/>
+		<string name="n1" value="别费心抓满血的蝎子。"/>
+	</imgdir>
+    <imgdir name="2420030">
+		<string name="name" value="沙阿·马尔"/>
+		<string name="func" value="首相"/>
+		<string name="d0" value="（沙阿·马尔站在燃烧的观众厅中央。他看起来在等待什么。）"/>
+		<string name="d1" value="（沙阿·马尔站在燃烧的观众厅中央。他看起来在等待什么。）"/>
+	</imgdir>
+    <imgdir name="2420031">
+		<string name="name" value="提贡"/>
+		<string name="func" value="警卫队长"/>
+	</imgdir>
+    <imgdir name="2420032">
+		<string name="name" value="西琳"/>
+		<string name="func" value="舞者"/>
+	</imgdir>
+    <imgdir name="2420033">
+		<string name="name" value="吉尤尔"/>
+	</imgdir>
+    <imgdir name="2420034">
+		<string name="name" value="茉莉"/>
+	</imgdir>
+</imgdir>

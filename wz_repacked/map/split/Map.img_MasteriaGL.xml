@@ -1,0 +1,308 @@
+<imgdir name="Map.img">
+    <imgdir name="MasteriaGL">
+		<imgdir name="610030010">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Hall of Mastery"/>
+		</imgdir>
+		<imgdir name="610030011">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Tornado Corridor"/>
+		</imgdir>
+		<imgdir name="610030012">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="The Inferno Chamber"/>
+		</imgdir>
+		<imgdir name="610030013">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="The Wrath of Night"/>
+		</imgdir>
+		<imgdir name="610030014">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Stormhall"/>
+		</imgdir>
+		<imgdir name="610030015">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Eternal Vigilance"/>
+		</imgdir>
+		<imgdir name="610030020">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Hall to Inner Sanctum"/>
+		</imgdir>
+		<imgdir name="610030100">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Inner Sanctum Hallway"/>
+		</imgdir>
+		<imgdir name="610030200">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Forgotten Storage Chamber"/>
+		</imgdir>
+		<imgdir name="610030300">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="The Test of Agility"/>
+		</imgdir>
+		<imgdir name="610030400">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="The Test of Wit"/>
+		</imgdir>
+		<imgdir name="610030500">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="The Test of Unity"/>
+		</imgdir>
+		<imgdir name="610030510">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Warrior Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030520">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Mage Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030521">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Mage Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030522">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Mage Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030530">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Thief Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030540">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Bowman Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030550">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Pirate Mastery Room"/>
+		</imgdir>
+		<imgdir name="610030600">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Grandmaster Council Hall"/>
+		</imgdir>
+		<imgdir name="610030700">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Grandmaster Secret Chamber"/>
+		</imgdir>
+		<imgdir name="610030800">
+			<string name="streetName" value="Party Quest"/>
+			<string name="mapName" value="Crimsonwood Armory"/>
+		</imgdir>
+		<imgdir name="600000000">
+			<string name="streetName" value="New Leaf City"/>
+			<string name="mapName" value="NLC Town Center"/>
+		</imgdir>
+		<imgdir name="600000001">
+			<string name="streetName" value="New Leaf City"/>
+			<string name="mapName" value="NLC Mall"/>
+		</imgdir>
+		<imgdir name="600010000">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Right Outside Town"/>
+		</imgdir>
+		<imgdir name="600010001">
+			<string name="streetName" value="New Leaf City"/>
+			<string name="mapName" value="NLC Subway Station"/>
+		</imgdir>
+		<imgdir name="600010002">
+			<string name="streetName" value="New Leaf City"/>
+			<string name="mapName" value="Waiting Room(From NLC to KC)"/>
+		</imgdir>
+		<imgdir name="600010003">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Inside Subway(From NLC to KC)"/>
+		</imgdir>
+		<imgdir name="600010004">
+			<string name="streetName" value="Kerning City Town Street"/>
+			<string name="mapName" value="Waiting Room(From KC to NLC)"/>
+		</imgdir>
+		<imgdir name="600010005">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Inside Subway(From KC to NLC)"/>
+		</imgdir>
+		<imgdir name="600010100">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Jungle Clearing"/>
+		</imgdir>
+		<imgdir name="600010200">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Krakian Jungle Basin"/>
+		</imgdir>
+		<imgdir name="600010300">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Jungle Valley "/>
+		</imgdir>
+		<imgdir name="600010400">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="600010500">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Mountain Cliffs "/>
+		</imgdir>
+		<imgdir name="600010600">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Highlands 1"/>
+		</imgdir>
+		<imgdir name="600010700">
+			<string name="streetName" value="Masteria"/>
+			<string name="mapName" value="Jungle Pass"/>
+		</imgdir>
+		<imgdir name="600020000">
+			<string name="streetName" value="Bigger Ben"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="600020100">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Deity Room"/>
+		</imgdir>
+		<imgdir name="600020200">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Soul Corridor"/>
+		</imgdir>
+		<imgdir name="600020300">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Wolf Spider Cavern"/>
+		</imgdir>
+		<imgdir name="600020400">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Fire Chamber"/>
+		</imgdir>
+		<imgdir name="600020500">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Ice Chamber"/>
+		</imgdir>
+		<imgdir name="600020600">
+			<string name="streetName" value="MesoGears"/>
+			<string name="mapName" value="Enigma Chamber"/>
+		</imgdir>
+		<imgdir name="610010000">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Bent Tree"/>
+		</imgdir>
+		<imgdir name="610010001">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Haunted Hill"/>
+		</imgdir>
+		<imgdir name="610010002">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Swamp Bog"/>
+		</imgdir>
+		<imgdir name="610010003">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Phantom Road"/>
+		</imgdir>
+		<imgdir name="610010004">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Dead Man's Gorge"/>
+		</imgdir>
+		<imgdir name="610010005">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Forgotten Path"/>
+		</imgdir>
+		<imgdir name="610010010">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Hidden Evil"/>
+		</imgdir>
+		<imgdir name="610010011">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Creeping Evil"/>
+		</imgdir>
+		<imgdir name="610010012">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Evil Rising"/>
+		</imgdir>
+		<imgdir name="610010013">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="The Evil Dead"/>
+		</imgdir>
+		<imgdir name="610010100">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Twisted Paths"/>
+		</imgdir>
+		<imgdir name="610010101">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Twisted Paths"/>
+		</imgdir>
+		<imgdir name="610010102">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Twisted Paths"/>
+		</imgdir>
+		<imgdir name="610010103">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Twisted Paths"/>
+		</imgdir>
+		<imgdir name="610010104">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Twisted Paths"/>
+		</imgdir>
+		<imgdir name="610010200">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Crossroads"/>
+		</imgdir>
+		<imgdir name="610010201">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Crossroads"/>
+		</imgdir>
+		<imgdir name="610010202">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Crossroads"/>
+		</imgdir>
+		<imgdir name="610020000">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Valley of Heroes 1"/>
+		</imgdir>
+		<imgdir name="610020001">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Valley of Heroes 2"/>
+		</imgdir>
+		<imgdir name="610020002">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Lower Ascent"/>
+		</imgdir>
+		<imgdir name="610020003">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="The Path of Strength"/>
+		</imgdir>
+		<imgdir name="610020004">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="The Path of Peril"/>
+		</imgdir>
+		<imgdir name="610020005">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Upper Ascent "/>
+		</imgdir>
+		<imgdir name="610020006">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Crimsonwood Keep"/>
+		</imgdir>
+		<imgdir name="610020010">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Fear"/>
+		</imgdir>
+		<imgdir name="610020011">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Pain"/>
+		</imgdir>
+		<imgdir name="610020012">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Shame"/>
+		</imgdir>
+		<imgdir name="610020013">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Honor"/>
+		</imgdir>
+		<imgdir name="610020014">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Fortitude"/>
+		</imgdir>
+		<imgdir name="610020015">
+			<string name="streetName" value="Crimsonwood Mountain"/>
+			<string name="mapName" value="Cavern of Valor"/>
+		</imgdir>
+		<imgdir name="610030000">
+			<string name="streetName" value="Crimsonwood  Keep"/>
+			<string name="mapName" value="Courtyard"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

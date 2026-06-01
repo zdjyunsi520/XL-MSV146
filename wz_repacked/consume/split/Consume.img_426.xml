@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2930000">
+		<string name="name" value="Alien Socket Creator"/>
+		<string name="desc" value="This item is used to add a socket to and item so that an Alien Nebulite can be added to it."/>
+	</imgdir>
+    <imgdir name="2940000">
+		<string name="name" value="Star Dust"/>
+		<string name="desc" value="Sprinkle some of this dust on Jett's Core to randomly reconfigure its stats. If Jett is at least Lv. 120 and the Core has been completed, this dust also has a chance to randomly increase or decrease stat ranks."/>
+	</imgdir>
+    <imgdir name="2940001">
+		<string name="name" value="Condensed Star Dust"/>
+		<string name="desc" value="Sprinkle some of this dust on Jett's Core to randomly reconfigure its stats. Has a higher chance of granting better stats than regular Star Dust. If Jett is at least Lv. 120 and the Core has been completed, this dust also has a chance to randomly increase or decrease stat ranks."/>
+	</imgdir>
+    <imgdir name="2940002">
+		<string name="name" value="女媧的黃土抽出物"/>
+		<string name="desc" value="混有女媧的黃土的抽出物。往寶盒上灑的話，在寶盒灑上女媧的白土會設定為最高等級的能力值。比起女媧的黃土副產物有較高的機率調整到好的能力值。俠客的等級達120且寶盒的八卦是陽卦的話，等級會隨機上升或下降。"/>
+	</imgdir>
+    <imgdir name="2943000">
+		<string name="name" value="Cosmos Dust Solidifier"/>
+		<string name="desc" value="Solidifies the effects of Star or Supernova Dust by locking the Core's current stats for 7 days. Cosmic Dust Solidifier can only be used to lock the current configuration once.\r\n\r\n#cWarning: The stat lock will be overwritten if you use an item to reconfigure the Core's stats.#"/>
+	</imgdir>
+    <imgdir name="2945000">
+		<string name="name" value="女媧的血輪眼"/>
+		<string name="desc" value="含有女媧能量的碎片。寶盒的能力值會往順時針方向輪轉一格。"/>
+	</imgdir>
+    <imgdir name="2430154">
+		<string name="name" value="Tutorial Skip Scroll"/>
+		<string name="desc" value="Use this to skip the tutorial and move directly to the town for your job. Note: You will never be able to do to tutorial again with this character.\r\n"/>
+	</imgdir>
+    <imgdir name="2430234">
+		<string name="name" value="Maple Life Lv. 50 Box"/>
+		<string name="desc" value="A box with Lv. 50 equipment specifically tailored to a Maple Life Coupon character."/>
+	</imgdir>
+    <imgdir name="2430235">
+		<string name="name" value="Level-Up Tome (50)"/>
+		<string name="desc" value="Filled with enough knowledge to raise you one level. Does not have any effect after Lv. 50."/>
+	</imgdir>
+    <imgdir name="2430236">
+		<string name="name" value="Maple Life Lv. 100 Box"/>
+		<string name="desc" value="A box with Lv. 100 equipment specifically tailored to a Maple Life Coupon character."/>
+	</imgdir>
+    <imgdir name="2430237">
+		<string name="name" value="Level-Up Tome (100)"/>
+		<string name="desc" value="Filled with enough knowledge to raise you one level. Does not have any effect after Lv. 100."/>
+	</imgdir>
+    <imgdir name="2023073">
+		<string name="name" value="Spiderweb Cupcake"/>
+		<string name="desc" value="Cupcake made of spiderwebs from an old mansion. Strangely addictive...\n+15 STR for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023074">
+		<string name="name" value="Zombie Gut Chowder"/>
+		<string name="desc" value="Soup made of zombie guts. At least it looks pretty...?\n+15 DEX for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023075">
+		<string name="name" value="Gravestone Cookie"/>
+		<string name="desc" value="Creepy cookie. Don't bite too hard or you may lose your teeth!\n+15 INT for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023076">
+		<string name="name" value="Bat Candy"/>
+		<string name="desc" value="Candy shaped like a bat. Did somebody say this was made of guano?\n+15 LUK for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023077">
+		<string name="name" value="Haunted Mansion Cake"/>
+		<string name="desc" value="A cake that looks like a haunted mansion. Made of the most vile ingredients possible. The frightening shape and taste draws forth the power within!!\n+15 All stats, +10 physical attack and +10 Magic attack for 30 minutes."/>
+	</imgdir>
+    <imgdir name="2023078">
+		<string name="name" value="Restless Limb Potion"/>
+		<string name="desc" value="Potion that gives you the power of a restless zombie.\nIncreases ATT by 30, Jump by 30, and Movement Speed by 30 for 10 minutes."/>
+	</imgdir>
+    <imgdir name="2028149">
+		<string name="name" value="Masked Gentleman's Gift Box"/>
+		<string name="desc" value="A gift from the Masked Gentleman to the guests of the Halloween Masquerade. What could be inside?"/>
+	</imgdir>
+    <imgdir name="2028141">
+		<string name="name" value="Election Surprise Box"/>
+		<string name="desc" value="A box from Cole. No one knows what's inside."/>
+	</imgdir>
+    <imgdir name="2028150">
+		<string name="name" value="Election Surprise Box"/>
+		<string name="desc" value="A box from Stew. No one knows what's inside."/>
+	</imgdir>
+</imgdir>

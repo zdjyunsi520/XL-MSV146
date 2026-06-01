@@ -1,0 +1,5 @@
+<imgdir name="1221052">
+        <string name="name" value="制裁之盾" />
+        <string name="desc" value="召唤注入了不朽之力的盾牌，击倒附近的敌人。被击中的敌人将暂时失去所有增益效果。" />
+        <string name="h" value="消耗MP：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，眩晕持续时间：#time秒。\n冷却时间：#cooltime秒" />
+    </imgdir>

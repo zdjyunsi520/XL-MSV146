@@ -1,0 +1,5 @@
+<imgdir name="4341052">
+        <string name="name" value="Asura&apos;s Anger" />
+        <string name="desc" value="Create a vortex of wind blades, damaging nearby enemies." />
+        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, DEF Ignored: #x%, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Can move while using the skill.\nCooldown: #cooltime sec" />
+    </imgdir>

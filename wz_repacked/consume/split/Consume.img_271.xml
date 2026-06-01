@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2430068">
+		<string name="name" value="Amethyst Box"/>
+		<string name="desc" value="A box that contains an amethyst."/>
+	</imgdir>
+    <imgdir name="2430069">
+		<string name="name" value="Emerald Box"/>
+		<string name="desc" value="A box that contains an emerald."/>
+	</imgdir>
+    <imgdir name="2430070">
+		<string name="name" value="Sapphire Box"/>
+		<string name="desc" value="A box that contains a sapphire."/>
+	</imgdir>
+    <imgdir name="2430071">
+		<string name="name" value="Opalescent Glass Marble"/>
+		<string name="desc" value="An opalescent glass marble that you must double-click to break and see its contents. It may contain the Mirror of Insight."/>
+	</imgdir>
+    <imgdir name="2430072">
+		<string name="name" value="ZD Tiger 7-Day Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [ZD Tiger] for 7 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430073">
+		<string name="name" value="Lion (15-Day)"/>
+		<string name="desc" value="Double-click to use the [Lion] mount skill for 15 days."/>
+	</imgdir>
+    <imgdir name="2430074">
+		<string name="name" value="Unicorn (15-Day)"/>
+		<string name="desc" value="Double-click to use the [Unicorn] mount skill for 15 days starting today"/>
+	</imgdir>
+    <imgdir name="2430075">
+		<string name="name" value="Low Rider (15-Day)"/>
+		<string name="desc" value="Double-click to use the [Low Rider] mount skill for 15 days."/>
+	</imgdir>
+    <imgdir name="2430076">
+		<string name="name" value="Red Truck (15-Day)"/>
+		<string name="desc" value="Double-click to use the [Red Truck] mount skill for 15 days."/>
+	</imgdir>
+    <imgdir name="2430077">
+		<string name="name" value="Gargoyle (15-Day)"/>
+		<string name="desc" value="Double-click to use the [Gargoyle] mount skill for 15 days."/>
+	</imgdir>
+    <imgdir name="2430078">
+		<string name="name" value="Report Form"/>
+		<string name="desc" value="A form Dr. Kim requested.\nCollect 5 Environmental Samples and double-click to compose the report."/>
+	</imgdir>
+    <imgdir name="2430080">
+		<string name="name" value="Shinjo 20-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Shinjo], a mount that can only be used for 20 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430081">
+		<string name="name" value="Visitor Buff for Test"/>
+		<string name="desc" value="Tests Transformation + Attack + Skills"/>
+	</imgdir>
+    <imgdir name="2430082">
+		<string name="name" value="Orange Mushroom 7-Day Coupon"/>
+		<string name="desc" value="Double-click to use [Orange Mushroom] for 7 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430090">
+		<string name="name" value="Helicopter 15 Day Coupon"/>
+		<string name="desc" value="Double-click on it to use the Helicopter skill [Helicopter] for 15 days."/>
+	</imgdir>
+    <imgdir name="2430091">
+		<string name="name" value="Nightmare Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Nightmare] for 10 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430092">
+		<string name="name" value="Yeti Mount Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Yeti] for 10 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430093">
+		<string name="name" value="Ostrich Mount Coupon"/>
+		<string name="desc" value="Double-click to use the Mount skill [Ostrich] for 10 days, starting from today."/>
+	</imgdir>
+    <imgdir name="2430094">
+		<string name="name" value="Charge +1"/>
+		<string name="desc" value="#cAn item for Balloon Hunts#\n\nCharges your team's vertical jumper gauge by 1."/>
+	</imgdir>
+    <imgdir name="2430095">
+		<string name="name" value="Gauge Up"/>
+		<string name="desc" value="#cAn item for Balloon Hunts#\n\nIncreases the leading team's gauge by a fixed amount."/>
+	</imgdir>
+</imgdir>

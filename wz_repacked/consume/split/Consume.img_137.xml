@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046566">
+		<string name="name" value="8th Anniversary Premium Scroll for Armor for INT 10%"/>
+		<string name="desc" value="Improves Intelligence on Maple Amethysian and Grand Maple Amethysian armors. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nINT: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046567">
+		<string name="name" value="8th Anniversary Premium Scroll for Armor for DEX 10%"/>
+		<string name="desc" value="Improves Dexterity on Maple Amethysian and Grand Maple Amethysian armors. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nDEX: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046568">
+		<string name="name" value="8th Anniversary Premium Scroll for Armor for LUK 10%"/>
+		<string name="desc" value="Improves Luck on Maple Amethysian and Grand Maple Amethysian armors. "/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 10%\r\nLUK: +9\r\n#"/>
+	</imgdir>
+    <imgdir name="2046569">
+		<string name="name" value="Scroll for Grand Armors for STR 80%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nSTR: +2\r\n#"/>
+		<string name="desc" value="Improves Strength on Grand armors."/>
+	</imgdir>
+    <imgdir name="2046570">
+		<string name="name" value="Scroll for Grand Armors for INT 80%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nINT: +2\r\n#"/>
+		<string name="desc" value="Improves Intelligence on Grand armors."/>
+	</imgdir>
+    <imgdir name="2046571">
+		<string name="name" value="Scroll for Grand Armors for DEX 80%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nDEX: +2\r\n#"/>
+		<string name="desc" value="Improves Dexterity on Grand armors."/>
+	</imgdir>
+    <imgdir name="2046572">
+		<string name="name" value="Scroll for Grand Armors for LUK 80%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 80%\r\nLUK: +2\r\n#"/>
+		<string name="desc" value="Improves Luck on Grand armors."/>
+	</imgdir>
+    <imgdir name="2046629">
+		<string name="name" value="Mesoranger Scroll for Armor STR 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +4\r\n#"/>
+		<string name="desc" value="Improves Strength on Mesoranger armor."/>
+	</imgdir>
+    <imgdir name="2046630">
+		<string name="name" value="Mesoranger Scroll for Armor INT 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +4\r\n#"/>
+		<string name="desc" value="Improves Intelligence on Mesoranger armor."/>
+	</imgdir>
+    <imgdir name="2046631">
+		<string name="name" value="Mesoranger Scroll for armor DEX 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nDEX: +4\r\n#"/>
+		<string name="desc" value="Improves Dexterity on Mesoranger armor."/>
+	</imgdir>
+    <imgdir name="2046632">
+		<string name="name" value="Mesoranger Scroll for Armor LUK 60%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nLUK: +4\r\n#"/>
+		<string name="desc" value="Improves Luck on Mesoranger armor."/>
+	</imgdir>
+    <imgdir name="2046649">
+		<string name="name" value="Scroll for Armor for STR 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Strength on armors."/>
+	</imgdir>
+    <imgdir name="2046650">
+		<string name="name" value="Scroll for Armor for INT 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+	</imgdir>
+    <imgdir name="2046651">
+		<string name="name" value="Scroll for Armor for DEX 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+	</imgdir>
+    <imgdir name="2046652">
+		<string name="name" value="Scroll for Armor for LUK 20%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Luck on armors."/>
+	</imgdir>
+    <imgdir name="2046653">
+		<string name="name" value="Scroll for Armor for STR 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +4\r\nWeapon Defense: +20\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Strength on armors."/>
+	</imgdir>
+    <imgdir name="2046654">
+		<string name="name" value="Scroll for Armor for INT 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nINT: +4\r\nWeapon Defense: +10\r\nMagic Defense: +20\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Intelligence on armors."/>
+	</imgdir>
+    <imgdir name="2046655">
+		<string name="name" value="Scroll for Armor for DEX 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nDEX: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Dexterity on armors."/>
+	</imgdir>
+    <imgdir name="2046656">
+		<string name="name" value="Scroll for Armor for LUK 40%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nLUK: +4\r\nWeapon Defense: +10\r\nMagic Defense: +10\r\nAvoidability: +15\r\n#"/>
+		<string name="desc" value="Improves Luck on armors."/>
+	</imgdir>
+    <imgdir name="2046657">
+		<string name="name" value="Scroll for Armor for STR 70%"/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +2\r\nWeapon Defense: +10\r\nMagic Defense: +5\r\nAvoidability: +5\r\n#"/>
+		<string name="desc" value="Improves Strength on armors."/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,74 @@
+<imgdir name="Npc.img">
+    <imgdir name="2120021">
+		<string name="name" value="空柜子"/>
+	</imgdir>
+    <imgdir name="2120022">
+		<string name="name" value="空柜子"/>
+	</imgdir>
+    <imgdir name="2120023">
+		<string name="name" value="空柜子"/>
+	</imgdir>
+    <imgdir name="2120024">
+		<string name="name" value="空柜子"/>
+	</imgdir>
+    <imgdir name="2121002">
+		<string name="name" value="无名坟墓"/>
+	</imgdir>
+    <imgdir name="2121003">
+		<string name="name" value="无人探访的坟墓"/>
+	</imgdir>
+    <imgdir name="2121004">
+		<string name="name" value="某人的坟墓"/>
+	</imgdir>
+    <imgdir name="2121005">
+		<string name="name" value="钢琴"/>
+		<string name="d0" value="这是一架巨大的三角钢琴。"/>
+		<string name="d1" value="这是一架巨大的三角钢琴。"/>
+	</imgdir>
+    <imgdir name="2121006">
+		<string name="name" value="某人的相框1"/>
+	</imgdir>
+    <imgdir name="2121007">
+		<string name="name" value="某人的相框2"/>
+	</imgdir>
+    <imgdir name="2121008">
+		<string name="name" value="某人的相框3"/>
+	</imgdir>
+    <imgdir name="2121009">
+		<string name="name" value="某人的相框4"/>
+	</imgdir>
+    <imgdir name="2121010">
+		<string name="name" value="某人的相框5"/>
+	</imgdir>
+    <imgdir name="2121011">
+		<string name="name" value="索菲娅的相框"/>
+	</imgdir>
+    <imgdir name="2121012">
+		<string name="name" value="穿着万圣节服装的女孩"/>
+	</imgdir>
+    <imgdir name="2121013">
+		<string name="name" value="旧报纸"/>
+		<string name="d0" value="这是一份旧报纸。"/>
+		<string name="d1" value="这是一份旧报纸。"/>
+	</imgdir>
+    <imgdir name="2121014">
+		<string name="name" value="神秘涂鸦"/>
+		<string name="d0" value="这是一些神秘的涂鸦。"/>
+		<string name="d1" value="这是一些神秘的涂鸦。"/>
+	</imgdir>
+    <imgdir name="2121015">
+		<string name="name" value="旧胸针"/>
+		<string name="d0" value="这是一枚布满灰尘的胸针。"/>
+		<string name="d1" value="这是一枚布满灰尘的胸针。"/>
+	</imgdir>
+    <imgdir name="2121016">
+		<string name="name" value="无脸照片"/>
+		<string name="d0" value="这是一张一个男人的照片，他的脸被故意抹去了。"/>
+		<string name="d1" value="这是一张一个男人的照片，他的脸被故意抹去了。"/>
+	</imgdir>
+    <imgdir name="2121017">
+		<string name="name" value="破碎的马车"/>
+		<string name="d0" value="你几乎认不出马车的残骸。"/>
+		<string name="d1" value="你几乎认不出马车的残骸。"/>
+	</imgdir>
+</imgdir>

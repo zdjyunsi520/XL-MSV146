@@ -1,0 +1,83 @@
+<imgdir name="Etc.img">
+    <imgdir name="4034018">
+			<string name="name" value="第二把挖掘工具"/>
+			<string name="desc" value="这个工具被龙偷走了。卡纳里想要它们。"/>
+		</imgdir>
+    <imgdir name="4034019">
+			<string name="name" value="第三把挖掘工具"/>
+			<string name="desc" value="这个工具被龙偷走了。奥德丽想要它们。"/>
+		</imgdir>
+    <imgdir name="4034020">
+			<string name="name" value="特里斯坦的第一把钥匙"/>
+			<string name="desc" value="特里斯坦的门钥匙之一。把这个带给卡纳里。"/>
+		</imgdir>
+    <imgdir name="4034021">
+			<string name="name" value="特里斯坦的第二把钥匙"/>
+			<string name="desc" value="特里斯坦的门钥匙之一。把这个带给奥德丽。"/>
+		</imgdir>
+    <imgdir name="4034022">
+			<string name="name" value="特里斯坦的第三把钥匙"/>
+			<string name="desc" value="特里斯坦的门钥匙之一。把这个带给穆德里。"/>
+		</imgdir>
+    <imgdir name="4034023">
+			<string name="name" value="狼牙"/>
+			<string name="desc" value="农冯·莱昂想要这颗锋利的牙。"/>
+		</imgdir>
+    <imgdir name="4034024">
+			<string name="name" value="英雄奖杯"/>
+			<string name="desc" value="被薛西斯偷走的闪闪发光的奖杯。"/>
+		</imgdir>
+    <imgdir name="4034025">
+			<string name="name" value="维基的第五张羊皮纸"/>
+			<string name="desc" value="来自维基的一条消息。上面写着，#时间之路#。"/>
+		</imgdir>
+    <imgdir name="4034026">
+			<string name="name" value="维基的第四张羊皮纸"/>
+			<string name="desc" value="来自维基的一条消息。上面写着，#时间之路1#。"/>
+		</imgdir>
+    <imgdir name="4034027">
+			<string name="name" value="维基的第三张羊皮纸"/>
+			<string name="desc" value="来自维基的一条消息。上面写着，#时间十字路口#。"/>
+		</imgdir>
+    <imgdir name="4034028">
+			<string name="name" value="维基的第二张羊皮纸"/>
+			<string name="desc" value="来自维基的一条消息。上面写着，#玩具工厂处理2区5#。"/>
+		</imgdir>
+    <imgdir name="4034029">
+			<string name="name" value="维基的第一张羊皮纸"/>
+			<string name="desc" value="来自维基的一条消息。上面写着，#玩具工厂设备室#。"/>
+		</imgdir>
+    <imgdir name="4034030">
+			<string name="name" value="秘密便条"/>
+			<string name="desc" value="来自信息经纪人的一张便条。
+上面写着找到0，在城里从右边数第五个。"/>
+		</imgdir>
+    <imgdir name="4034031">
+			<string name="name" value="旧门卡"/>
+			<string name="desc" value="一张磨损的旧门卡。它能打开什么？"/>
+		</imgdir>
+    <imgdir name="4034032">
+			<string name="name" value="闪亮门卡"/>
+			<string name="desc" value="一张崭新的门卡。它能打开什么？"/>
+		</imgdir>
+    <imgdir name="4034033">
+			<string name="name" value="褪色门卡"/>
+			<string name="desc" value="一张洗旧的门卡。它能打开什么？"/>
+		</imgdir>
+    <imgdir name="4034034">
+			<string name="name" value="秘银门卡"/>
+			<string name="desc" value="一张由秘银制成的坚固门卡。它能打开什么？"/>
+		</imgdir>
+    <imgdir name="4034035">
+			<string name="name" value="第五张处方"/>
+			<string name="desc" value="泰尚写的一张处方卷轴，列出了神秘的配料..."/>
+		</imgdir>
+    <imgdir name="4034036">
+			<string name="name" value="圣贤猫王的胆囊"/>
+			<string name="desc" value="恶心，你为什么有这个？它闻起来很糟糕。"/>
+		</imgdir>
+    <imgdir name="4034037">
+			<string name="name" value="肌肉旅"/>
+			<string name="desc" value="泰尚的药之一。会让你像单人军队一样强大！"/>
+		</imgdir>
+</imgdir>

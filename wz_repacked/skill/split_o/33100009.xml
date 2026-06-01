@@ -1,0 +1,5 @@
+<imgdir name="33100009">
+        <string name="name" value="Final Attack" />
+        <string name="desc" value="Grants a chance to deal additional damage after an attack. Must have a crossbow equipped.\nRequired Skill: #cCrossbow Mastery Lv. 3#" />
+        <string name="h" value="Proc Rate: #prop%, Damage: #damage%" />
+    </imgdir>

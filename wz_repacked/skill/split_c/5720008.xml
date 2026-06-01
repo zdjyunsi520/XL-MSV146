@@ -1,0 +1,7 @@
+<imgdir name="5720008">
+        <string name="name" value="附带伤害" />
+        <string name="desc" value="提升暴击率和暴击伤害。对BOSS获得额外暴击率和伤害。" />
+        <string name="h" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%, Damage on Bosses: +#bdR%" />
+        <string name="pdesc" value="提升暴击率和暴击伤害。对BOSS获得额外暴击率和伤害。" />
+        <string name="ph" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%, Damage on Bosses: +#bdR%" />
+    </imgdir>

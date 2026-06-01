@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="24120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="Jump +#psdJump"/></imgdir>
+    <imgdir name="24120043"><string name="name" value="暴风卡牌-强化"/><string name="desc" value="提升暴风卡牌的伤害。"/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="24120044"><string name="name" value="暴风卡牌-冷却缩减"/><string name="desc" value="缩短暴风卡牌的冷却时间。"/><string name="h" value="Cooldown: -#coolTimeR%"/></imgdir>
+    <imgdir name="24120045"><string name="name" value="暴风卡牌-目标增加"/><string name="desc" value="增加暴风卡牌命中的怪物数量。"/><string name="h" value="Max Enemies Hit +#targetPlus"/></imgdir>
+    <imgdir name="24120046"><string name="name" value="千针穿刺-强化"/><string name="desc" value="提升千针穿刺的伤害。"/><string name="h" value="Damage +#damR%"/></imgdir>
+    <imgdir name="24120047"><string name="name" value="千针穿刺-目标增加"/><string name="desc" value="增加千针穿刺命中的怪物数量。"/><string name="h" value="Max Enemies Hit +#targetPlus"/></imgdir>
+    <imgdir name="24120048"><string name="name" value="千针穿刺-破防"/><string name="desc" value="提升千针穿刺的怪物防御减益效果。"/><string name="h" value="Bonus #ignoreMobpdpR% monster DEF ignored"/></imgdir>
+    <imgdir name="24120049"><string name="name" value="厄运退散-抗性强化"/><string name="desc" value="提升厄运退散的异常状态抗性和属性抗性增加量。"/><string name="h" value="Abnormal Status Resistance and Elemental Resistance +#x% in addition"/></imgdir>
+    <imgdir name="24120050"><string name="name" value="厄运退散-超级体力"/><string name="desc" value="提升厄运退散增加的最大HP。"/><string name="h" value="Max HP +#x% in addition"/></imgdir>
+    <imgdir name="24120051"><string name="name" value="厄运退散-超级魔力"/><string name="desc" value="提升厄运退散增加的最大MP。"/><string name="h" value="Max MP +#x% in addition"/></imgdir>
+    <imgdir name="24121053"><string name="name" value="英雄的记忆"/><string name="desc" value="回忆起枫叶英雄的誓言，提升伤害和最大伤害上限。"/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to hero classes within the party"/></imgdir>
+    <imgdir name="24121054"><string name="name" value="最终审判抽卡"/><string name="desc" value="一次性发动审判抽卡的所有效果。与审判抽卡叠加。"/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Critical Rate +#v%, Item Drop Rate +#w%, Abnormal Status Resistance/Elemental Resistance +#x%. Absorb #z% of damage absorbed as HP.\nCooldown: #cooltime sec."/></imgdir>
+    <imgdir name="24120055"><string name="name" value="蔷薇卡牌终曲"/><string name="desc" value="将一束卡牌抛向空中，然后落下在敌人身上爆炸！"/><string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount"/></imgdir>
+    <imgdir name="2004"><string name="bookName" value="光之掌控"/></imgdir>
+    <imgdir name="20041000"><string name="name" value="水晶投掷"/><string name="desc" value="向敌人投掷鲁埃碎片。"/><string name="h" value="MP Cost: #mpCon, Damage: #fixdamage"/></imgdir>
+    <imgdir name="20041001"><string name="name" value="潜行"/><string name="desc" value="隐藏自己，短时间内不被发现。\n#c冷却时间：1分钟#"/><string name="h" value="MP Cost: #mpCon, Duration: #time sec, Movement Speed: +#speed"/></imgdir>
+    <imgdir name="20040002"><string name="name" value="药水精通"/><string name="desc" value="学会更高效地使用药水，解决补给不足的问题！"/><string name="h" value="Recovery Rate: +#x%"/></imgdir>
+    <imgdir name="20041003"><string name="name" value="传说之魂"/><string name="desc" value="[大师等级：1]\n借助传说之魂的力量，可以对无法装备的物品使用卷轴。"/></imgdir>
+    <imgdir name="20041004"><string name="name" value="骑兽"/><string name="desc" value="[大师等级：1]\n骑上已驯服的怪物出发吧！"/></imgdir>
+    <imgdir name="20041005"><string name="name" value="英雄之回声"/><string name="desc" value="[大师等级：1]\n提升附近所有玩家的物理攻击力和魔法攻击力。\n#c冷却时间：2小时#"/><string name="h1" value="MP Cost: 30, Weapon ATT and Magic ATT: + 4%, Duration: 40 min"/></imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="24111008">
+        <string name="name" value="巧剑连击" />
+        <string name="desc" value="巧剑连击的追加攻击" />
+        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+        <string name="pdesc" value="巧剑连击的追加攻击" />
+        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount" />
+    </imgdir>

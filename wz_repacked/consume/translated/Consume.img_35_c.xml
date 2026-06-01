@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2022144">
+		<string name="name" value="身体与物理药"/>
+		<string name="desc" value="用蛇尾制成的热汤药。喝了这个会让身体恢复活力，攻击+8，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022145">
+		<string name="name" value="罐头桃子"/>
+		<string name="desc" value="木木地区奇怪的药剂师Do医生自制的罐头桃子。恢复约1000 HP。"/>
+	</imgdir>
+    <imgdir name="2022146">
+		<string name="name" value="桃子汁"/>
+		<string name="desc" value="木木地区奇怪的药剂师Do医生做的桃子汁。恢复约500 MP。"/>
+	</imgdir>
+    <imgdir name="2022147">
+		<string name="name" value="桔梗药汤"/>
+		<string name="desc" value="用桔梗和蛇制成的草药药汤。\n攻击+6，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022148">
+		<string name="name" value="隧道视野药丸"/>
+		<string name="desc" value="神射手药水和大蒜粉的混合物。\n命中+240，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022149">
+		<string name="name" value="智力药丸"/>
+		<string name="desc" value="鹿茸和野山参粉制成的药丸。魔法攻击+10，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022150">
+		<string name="name" value="滑行香膏"/>
+		<string name="desc" value="用阿里先生皮肤制成的外用乳霜。\n回避率+240，持续10分钟。"/>
+	</imgdir>
+    <imgdir name="2022151">
+		<string name="name" value="卡桑德拉的魔法"/>
+		<string name="desc" value="卡桑德拉的祝福。武器/魔法攻击+20、武器/魔法防御+400、命中/回避率+200、移动速度/跳跃+10，持续1小时。"/>
+	</imgdir>
+    <imgdir name="2022152">
+		<string name="name" value="卡桑德拉的魔法"/>
+		<string name="desc" value="卡桑德拉的祝福。武器/魔法攻击+10、武器/魔法防御+150、命中/回避率+100、移动速度/跳跃+3，持续20分钟。"/>
+	</imgdir>
+    <imgdir name="2022153">
+		<string name="name" value="生日快乐"/>
+		<string name="desc" value="使用时，地图内所有角色物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022154">
+		<string name="name" value="小玫瑰"/>
+		<string name="desc" value="物理攻击+20、魔法攻击+30，持续15分钟。"/>
+	</imgdir>
+    <imgdir name="2022155">
+		<string name="name" value="沙漠迷雾"/>
+		<string name="desc" value="从仙人掌根提取的纯水。恢复200 MP。"/>
+	</imgdir>
+    <imgdir name="2022156">
+		<string name="name" value="黑豆面"/>
+		<string name="desc" value="一人军团的必备菜肴。这些面条当你在战场上孤身一人、孤独凄凉时味道最好。武器攻击+13、魔法攻击+13，持续30分钟。"/>
+	</imgdir>
+    <imgdir name="2022157">
+		<string name="name" value="狂欢节点数 1"/>
+		<string name="desc" value="CP+3。"/>
+	</imgdir>
+    <imgdir name="2022158">
+		<string name="name" value="狂欢节点数 2"/>
+		<string name="desc" value="CP+3。"/>
+	</imgdir>
+    <imgdir name="2022159">
+		<string name="name" value="狂欢节点数 3"/>
+		<string name="desc" value="CP+3。"/>
+	</imgdir>
+    <imgdir name="2022160">
+		<string name="name" value="队伍魔力精华素"/>
+		<string name="desc" value="恢复队伍所有成员300 MP。"/>
+	</imgdir>
+    <imgdir name="2022161">
+		<string name="name" value="队伍精华素"/>
+		<string name="desc" value="恢复队伍所有成员HP和MP各50%。"/>
+	</imgdir>
+    <imgdir name="2022162">
+		<string name="name" value="队伍力量精华素"/>
+		<string name="desc" value="恢复队伍所有成员的HP和MP。"/>
+	</imgdir>
+    <imgdir name="2022163">
+		<string name="name" value="队伍全解药水"/>
+		<string name="desc" value="解除队伍所有成员的任何异常状态。"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,7 @@
+<imgdir name="1221016">
+        <string name="name" value="Guardian" />
+        <string name="desc" value="Revives #cone ally closest to you# and makes both your ally and yourself #cinvulnerable# for short time." />
+        <string name="h" value="MP #mpCon consumed, #cclosest ally revived and then invincible for #time sec#. [Cooldown: #cooltime sec]" />
+        <string name="pdesc" value="Revives #cone ally closest to you# and makes both your ally and yourself #cinvulnerable# for short time." />
+        <string name="ph" value="MP #mpCon consumed, #cclosest ally revived and then invincible for #time sec#. [Cooldown: #cooltime sec]" />
+    </imgdir>

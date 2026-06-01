@@ -1,0 +1,8 @@
+<imgdir name="22181001">
+        <string name="name" value="Blaze" />
+        <string name="desc" value="Strike the target with fire for high damage and a chance to stun. A portion of enemy&apos;s defense will be ignored." />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, DEF ignored: #ignoreMobpdpR%" />
+        <string name="pdesc" value="Strike the target with fire for high damage and a chance to stun." />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec" />
+        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Enemy DEF ignored: #ignoreMobpdpR%" />
+    </imgdir>

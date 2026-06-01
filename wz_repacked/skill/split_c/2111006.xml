@@ -1,0 +1,7 @@
+<imgdir name="2111006">
+        <string name="name" value="火魔" />
+        <string name="desc" value="使用火魔的火球同时攻击多个敌人。被火魔击中的怪物会在一段时间内持续受到伤害。" />
+        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+        <string name="pdesc" value="使用火魔的火球同时攻击多个敌人。被火魔击中的怪物会在一段时间内持续受到伤害。" />
+        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
+    </imgdir>

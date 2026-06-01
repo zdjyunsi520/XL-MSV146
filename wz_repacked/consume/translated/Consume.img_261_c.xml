@@ -1,0 +1,65 @@
+<imgdir name="Consume.img">
+    <imgdir name="2387079">
+		<string name="name" value="Jr. Newtie卡"/>
+		<string name="desc" value="以Jr. Newtie为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2387080">
+		<string name="name" value="记忆守护者卡"/>
+		<string name="desc" value="以记忆守护者为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2387081">
+		<string name="name" value="首席记忆守护者卡"/>
+		<string name="desc" value="以首席记忆守护者为主题的卡片。"/>
+	</imgdir>
+    <imgdir name="2387082">
+		<string name="name" value="守门人Crocky卡"/>
+	</imgdir>
+    <imgdir name="2387083">
+		<string name="name" value="驯鹿卡"/>
+	</imgdir>
+    <imgdir name="2387084">
+		<string name="name" value="血色驯鹿卡"/>
+	</imgdir>
+    <imgdir name="2387085">
+		<string name="name" value="熊狼卡"/>
+	</imgdir>
+    <imgdir name="2387086">
+		<string name="name" value="灰秃鹫卡"/>
+	</imgdir>
+    <imgdir name="2387087">
+		<string name="name" value="城堡魔像卡"/>
+	</imgdir>
+    <imgdir name="2387088">
+		<string name="name" value="变异蜗牛卡"/>
+	</imgdir>
+    <imgdir name="2387089">
+		<string name="name" value="变异橙汁蘑菇卡"/>
+	</imgdir>
+    <imgdir name="2387090">
+		<string name="name" value="变异史莱姆卡"/>
+	</imgdir>
+    <imgdir name="2387091">
+		<string name="name" value="变异粉水灵卡"/>
+	</imgdir>
+    <imgdir name="2387092">
+		<string name="name" value="变异Tino卡"/>
+	</imgdir>
+    <imgdir name="2387093">
+		<string name="name" value="变异Tiru卡"/>
+	</imgdir>
+    <imgdir name="2387094">
+		<string name="name" value="变异Tiguru卡"/>
+	</imgdir>
+    <imgdir name="2387095">
+		<string name="name" value="黎明卡"/>
+	</imgdir>
+    <imgdir name="2387096">
+		<string name="name" value="烈焰卡"/>
+	</imgdir>
+    <imgdir name="2387097">
+		<string name="name" value="疾风卡"/>
+	</imgdir>
+    <imgdir name="2387098">
+		<string name="name" value="夜晚卡"/>
+	</imgdir>
+</imgdir>

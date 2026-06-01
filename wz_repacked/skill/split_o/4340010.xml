@@ -1,0 +1,5 @@
+<imgdir name="4340010">
+        <string name="name" value="Sharpness" />
+        <string name="desc" value="Increases your Critical Hit Rate and minimum Critical Damage." />
+        <string name="h" value="Crit Rate: +#prop%, Minimum Crit Damage: +#criticaldamageMin%" />
+    </imgdir>

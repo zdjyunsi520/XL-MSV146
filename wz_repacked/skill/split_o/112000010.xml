@@ -1,0 +1,5 @@
+<imgdir name="112000010">
+        <string name="name" value="Dumb Luck" />
+        <string name="desc" value="Improves stance chance and DEF while in Bear Mode." />
+        <string name="h" value="Passive Effect: Stance Chance +#prop%, DEF: +#pddX" />
+    </imgdir>

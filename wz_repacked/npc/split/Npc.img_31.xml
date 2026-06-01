@@ -1,0 +1,122 @@
+<imgdir name="Npc.img">
+    <imgdir name="2159310">
+		<string name="name" value="Von Leon"/>
+		<string name="func" value="Commander"/>
+		<string name="d0" value="..."/>
+		<string name="d1" value=""/>
+	</imgdir>
+    <imgdir name="2159311">
+		<string name="name" value="Ferdi"/>
+		<string name="func" value="Headmaster"/>
+		<string name="d0" value="Nice weather today."/>
+		<string name="d1" value="Nice weather today."/>
+	</imgdir>
+    <imgdir name="2159312">
+		<string name="name" value="Elex"/>
+		<string name="func" value="Basic Training Instructor"/>
+		<string name="d0" value="Do you have business with me?"/>
+		<string name="d1" value="Do you have business with me?"/>
+	</imgdir>
+    <imgdir name="2159313">
+		<string name="name" value="Brighton"/>
+		<string name="func" value="Battle Mage Instructor"/>
+		<string name="d0" value="Interested in Battle Mages? I bet you are!"/>
+		<string name="d1" value="Interested in Battle Mages? I bet you are!"/>
+	</imgdir>
+    <imgdir name="2159314">
+		<string name="name" value="Belle"/>
+		<string name="func" value="Wild Hunter Instructor"/>
+		<string name="d0" value="Wild Hunters ride Jaguars! It's as awesome as it sounds!"/>
+		<string name="d1" value="Wild Hunters ride Jaguars! It's as awesome as it sounds!"/>
+	</imgdir>
+    <imgdir name="2159315">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="Resistance Instructor"/>
+		<string name="d0" value="The Resistance is fighting an uphill battle."/>
+		<string name="d1" value="The Resistance is fighting an uphill battle."/>
+	</imgdir>
+    <imgdir name="2159316">
+		<string name="name" value="Checky"/>
+		<string name="func" value="Mechanic Instructor"/>
+		<string name="d0" value="Stay back, if you know what's good for you."/>
+		<string name="d1" value="Stay back, if you know what's good for you."/>
+	</imgdir>
+    <imgdir name="2159317">
+		<string name="name" value="Smartie"/>
+		<string name="n0" value="Bah... I wanna go home...sob..."/>
+		<string name="n1" value="Sob...sob..."/>
+		<string name="d0" value="Who's there? Sniff... Sniff..."/>
+		<string name="d1" value="Who's there? Sniff... Sniff..."/>
+	</imgdir>
+    <imgdir name="2159318">
+		<string name="name" value="Mysterie"/>
+		<string name="n0" value="Sniff...sniff... Please, someone help me..."/>
+		<string name="n1" value="Waah...waaah!"/>
+		<string name="d0" value="I wanna go home! Wahh!"/>
+		<string name="d1" value="I wanna go home! Wahh!"/>
+	</imgdir>
+    <imgdir name="2159319">
+		<string name="name" value="Carson"/>
+		<string name="func" value="Zenumist President"/>
+		<string name="n0" value="Should the forbidden Book of Alchemy be used for evil..."/>
+		<string name="n1" value="Had we known this would happen, we would have destroyed it..."/>
+		<string name="d0" value="Our precious inheritance..."/>
+		<string name="d1" value="Our precious inheritance..."/>
+	</imgdir>
+    <imgdir name="2159320">
+		<string name="name" value="Maed"/>
+		<string name="func" value="Alcadno President"/>
+		<string name="n0" value="I will do all that is asked..."/>
+		<string name="d0" value="Topsy-turvy"/>
+		<string name="d1" value="Topsy-turvy"/>
+	</imgdir>
+    <imgdir name="2159321">
+		<string name="name" value="Maed"/>
+		<string name="func" value="Alcadno President"/>
+		<string name="n0" value="Aah... I am indeed a failure as president."/>
+		<string name="n1" value="The forbidden Book of Alchemy must be recovered."/>
+		<string name="d0" value="The Book of Alchemy must be recovered quickly."/>
+		<string name="d1" value="The Book of Alchemy must be recovered quickly."/>
+	</imgdir>
+    <imgdir name="2159322">
+		<string name="name" value="Mercedes"/>
+		<string name="d0" value="The Force of Darkness..."/>
+		<string name="d1" value="The Force of Darkness..."/>
+	</imgdir>
+    <imgdir name="2159323">
+		<string name="name" value="Orchid"/>
+		<string name="d0" value="Now all I need is Lotus."/>
+		<string name="d1" value="Now all I need is Lotus."/>
+	</imgdir>
+    <imgdir name="2159324">
+		<string name="name" value="Suspicious Magician"/>
+		<string name="d0" value="I want to be important, too."/>
+		<string name="d1" value="I want to be important, too."/>
+	</imgdir>
+    <imgdir name="2159325">
+		<string name="name" value="Suspicious Magician"/>
+		<string name="d0" value="I want to be important, too."/>
+		<string name="d1" value="I want to be important, too."/>
+	</imgdir>
+    <imgdir name="2159326">
+		<string name="name" value="Suspicious Magician"/>
+		<string name="func" value="Leader"/>
+		<string name="d0" value="I'll show Arkarium! I'll be honored! Ha ha!"/>
+		<string name="d1" value="I'll show Arkarium! I'll be honored! Ha ha!"/>
+	</imgdir>
+    <imgdir name="2159327">
+		<string name="name" value="Francis's Diary"/>
+		<string name="d0" value="The cover says 'Francis's Diary'."/>
+		<string name="d1" value="The cover says 'Francis's Diary'."/>
+	</imgdir>
+    <imgdir name="2159328">
+		<string name="name" value="Burnt Remains 1"/>
+		<string name="d0" value="There's nothing but ashes left."/>
+		<string name="d1" value="There's nothing but ashes left."/>
+	</imgdir>
+    <imgdir name="2159329">
+		<string name="name" value="Burnt Remains 2"/>
+		<string name="d0" value="There's nothing but ashes left."/>
+		<string name="d1" value="There's nothing but ashes left."/>
+	</imgdir>
+</imgdir>

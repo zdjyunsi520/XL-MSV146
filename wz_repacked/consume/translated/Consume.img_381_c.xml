@@ -1,0 +1,82 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860311">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加移动速度和跳跃力。"/>
+	</imgdir>
+    <imgdir name="2860312">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加回避率。"/>
+	</imgdir>
+    <imgdir name="2860313">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加命中率。"/>
+	</imgdir>
+    <imgdir name="2860314">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加回避率和命中率。"/>
+	</imgdir>
+    <imgdir name="2860315">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加物理防御力。"/>
+	</imgdir>
+    <imgdir name="2860316">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加魔法防御力。"/>
+	</imgdir>
+    <imgdir name="2860317">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加物理和魔法防御力。"/>
+	</imgdir>
+    <imgdir name="2860318">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加金币掉落率。"/>
+	</imgdir>
+    <imgdir name="2860319">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加物品掉落率。"/>
+	</imgdir>
+    <imgdir name="2860320">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="在埃德尔斯坦时增加金币和物品掉落率。"/>
+	</imgdir>
+    <imgdir name="2860321">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续少量恢复队友召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860322">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续恢复队友召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860323">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续大量恢复队友召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860324">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续少量恢复附近玩家召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860325">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续恢复附近玩家召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860326">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="持续大量恢复附近玩家召唤的宠物活力。"/>
+	</imgdir>
+    <imgdir name="2860327">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时，增加你拥有的蜗牛型宠物的活力恢复速度。"/>
+	</imgdir>
+    <imgdir name="2860328">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时，增加你拥有的鳄鱼型宠物的活力恢复速度。"/>
+	</imgdir>
+    <imgdir name="2860329">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时，增加你拥有的猴子型宠物的活力恢复速度。"/>
+	</imgdir>
+    <imgdir name="2860330">
+		<string name="name" value="独特宠物技能"/>
+		<string name="desc" value="召唤时，增加你拥有的仙人掌型宠物的活力恢复速度。"/>
+	</imgdir>
+</imgdir>

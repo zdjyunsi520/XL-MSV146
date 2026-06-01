@@ -1,0 +1,62 @@
+<imgdir name="Mob.img">
+    <imgdir name="9810102">
+		<string name="name" value="水贼怪物"/>
+	</imgdir>
+    <imgdir name="9810103">
+		<string name="name" value="推车熊"/>
+	</imgdir>
+    <imgdir name="9810200">
+		<string name="name" value="白沙漠兔"/>
+	</imgdir>
+    <imgdir name="9810201">
+		<string name="name" value="沙矮人"/>
+	</imgdir>
+    <imgdir name="9810202">
+		<string name="name" value="沙漠巨人"/>
+	</imgdir>
+    <imgdir name="9810300">
+		<string name="name" value="竖琴"/>
+	</imgdir>
+    <imgdir name="9810301">
+		<string name="name" value="霍比"/>
+	</imgdir>
+    <imgdir name="9810302">
+		<string name="name" value="拉什"/>
+	</imgdir>
+    <imgdir name="9810303">
+		<string name="name" value="巨型猪笼草"/>
+	</imgdir>
+    <imgdir name="9810304">
+		<string name="name" value="荆棘藤蔓"/>
+	</imgdir>
+    <imgdir name="9810305">
+		<string name="name" value="红龙龟"/>
+	</imgdir>
+    <imgdir name="9810400">
+		<string name="name" value="粗树枝"/>
+	</imgdir>
+    <imgdir name="9810401">
+		<string name="name" value="粗树枝"/>
+	</imgdir>
+    <imgdir name="9810402">
+		<string name="name" value="小雪人"/>
+	</imgdir>
+    <imgdir name="9810403">
+		<string name="name" value="狼人"/>
+	</imgdir>
+    <imgdir name="2100108">
+		<string name="name" value="猫鼬"/>
+	</imgdir>
+    <imgdir name="8300000">
+		<string name="name" value="翱翔之鹰"/>
+	</imgdir>
+    <imgdir name="8300001">
+		<string name="name" value="翱翔之雕"/>
+	</imgdir>
+    <imgdir name="8300002">
+		<string name="name" value="翱翔之红飞龙"/>
+	</imgdir>
+    <imgdir name="8300003">
+		<string name="name" value="翱翔之蓝飞龙"/>
+	</imgdir>
+</imgdir>

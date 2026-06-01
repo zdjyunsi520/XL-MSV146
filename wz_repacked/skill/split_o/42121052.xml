@@ -1,0 +1,5 @@
+<imgdir name="42121052">
+        <string name="name" value="Veritable Pandemonium" />
+        <string name="desc" value="Summons goblins to damage and stun all enemies." />
+        <string name="h" value="Mana Cost: #epCon, Max Enemies Hit: #mobCount, Damage: #damage%, Immobile Duration: #time sec.\nCooldown: #cooltime sec" />
+    </imgdir>

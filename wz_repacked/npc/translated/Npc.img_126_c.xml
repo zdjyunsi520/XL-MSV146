@@ -1,0 +1,115 @@
+<imgdir name="Npc.img">
+    <imgdir name="1203000">
+		<string name="name" value="铁匠先生"/>
+		<string name="func" value="老铁匠"/>
+		<string name="n0" value="哈哈哈..."/>
+		<string name="n1" value="好武器总是能认出好主人..."/>
+		<string name="d0" value="哈哈，我什么时候才能找到Maha的合法主人？"/>
+		<string name="d1" value="请帮我照顾好Maha。"/>
+	</imgdir>
+    <imgdir name="1203001">
+		<string name="name" value="Tititi"/>
+		<string name="func" value="珠宝大师雪人"/>
+		<string name="n0" value="雪人喜欢珠宝。"/>
+		<string name="n1" value="雪人...雪人..等等，雪人想说什么？"/>
+		<string name="d0" value="雪人难过。雪人讨厌小偷。"/>
+		<string name="d1" value="雪人感谢你。"/>
+	</imgdir>
+    <imgdir name="1204001">
+		<string name="name" value="Francis"/>
+		<string name="func" value="木偶师"/>
+		<string name="n0" value="嗯..."/>
+		<string name="n1" value="当我收集完所有..."/>
+	</imgdir>
+    <imgdir name="1204002">
+		<string name="name" value="Francis"/>
+		<string name="func" value="木偶师"/>
+		<string name="n0" value="嗯..."/>
+		<string name="n1" value="你好大的胆子！"/>
+	</imgdir>
+    <imgdir name="1204003">
+		<string name="name" value="Francis"/>
+		<string name="func" value="木偶师"/>
+		<string name="n0" value="嗯..."/>
+		<string name="n1" value="哦..."/>
+	</imgdir>
+    <imgdir name="1204006">
+		<string name="name" value="Francis"/>
+		<string name="func" value="木偶师"/>
+		<string name="n0" value="嗯..."/>
+		<string name="n1" value="永远不会原谅你！"/>
+	</imgdir>
+    <imgdir name="1204032">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="..."/>
+		<string name="n1" value="..."/>
+	</imgdir>
+    <imgdir name="1209006">
+		<string name="name" value="迷路的孩子"/>
+		<string name="d0" value="*抽泣抽泣.* 我迷路了。"/>
+	</imgdir>
+    <imgdir name="1300000">
+		<string name="name" value="蘑菇王"/>
+		<string name="s0" value="Violetta，Violetta！"/>
+		<string name="s1" value="Pepe国王，我不会让你得逞的！"/>
+		<string name="d0" value="*咳嗽，咳嗽.*"/>
+		<string name="d1" value="*咳嗽！*"/>
+	</imgdir>
+    <imgdir name="1300001">
+		<string name="name" value="Pepe国王"/>
+		<string name="s0" value="蘑菇王帝国总有一天会是我的！"/>
+		<string name="s1" value="这还没结束。"/>
+		<string name="d0" value="服从我的命令！"/>
+		<string name="d1" value="我是镇上的新国王！"/>
+	</imgdir>
+    <imgdir name="1300002">
+		<string name="name" value="Violetta"/>
+		<string name="func" value="公主"/>
+		<string name="d0" value="*抽泣抽泣.*"/>
+		<string name="d1" value="哦，父亲！*抽泣抽泣.*"/>
+	</imgdir>
+    <imgdir name="1300006">
+		<string name="name" value="Giuseppe王子"/>
+		<string name="d0" value="嘿嘿，这是什么？"/>
+		<string name="d1" value="爸爸，我现在该怎么办？"/>
+	</imgdir>
+    <imgdir name="2103013">
+		<string name="name" value="Duarte"/>
+		<string name="func" value="金字塔守护者"/>
+		<string name="n0" value="入侵者！停下脚步！"/>
+		<string name="n1" value="我是认真的。离开！"/>
+		<string name="d0" value="转过身去，入侵者！不要激怒混沌之神Nett！"/>
+		<string name="d1" value="转过身去，入侵者！不要激怒混沌之神Nett！"/>
+	</imgdir>
+    <imgdir name="9000022">
+		<string name="name" value="John"/>
+		<string name="n0" value="我通过买一把中提琴向我的妻子求婚..."/>
+	</imgdir>
+    <imgdir name="9000023">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n0" value="多么美丽的婚礼！"/>
+	</imgdir>
+    <imgdir name="9000024">
+		<string name="name" value="与巴洛格共舞"/>
+		<string name="n0" value="直到死亡将你们分开。"/>
+	</imgdir>
+    <imgdir name="9000026">
+		<string name="name" value="黑暗领主"/>
+		<string name="n0" value="恭喜..."/>
+	</imgdir>
+    <imgdir name="9000028">
+		<string name="name" value="Tae Gong"/>
+		<string name="n0" value="我记得我和我的夫人结婚的那一天.."/>
+	</imgdir>
+    <imgdir name="9000029">
+		<string name="name" value="精灵Winky"/>
+		<string name="n0" value="这里供应什么食物？我更喜欢牛排！"/>
+	</imgdir>
+    <imgdir name="9310058">
+		<string name="name" value="Santa "/>
+		<string name="n0" value="圣诞快乐！圣诞快乐！"/>
+		<string name="n1" value="啊！圣诞节来了。你一直在等我吗？"/>
+		<string name="d0" value="我听说如果你找到Rooney，你可以去快乐村。"/>
+		<string name="d1" value="Rooney可以在艾琳尼亚、冰峰雪域和玩具城找到。"/>
+	</imgdir>
+</imgdir>

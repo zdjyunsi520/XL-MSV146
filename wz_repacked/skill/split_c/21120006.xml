@@ -1,0 +1,8 @@
+<imgdir name="21120006">
+        <string name="name" value="连击暴风雪" />
+        <string name="desc" value="冰冻敌人使其变得脆弱。对BOSS怪物最多连续造成4次高额伤害。此外永久提升连击审判的伤害。#c只能在连击数达到100时使用。\n[指令：#c下方向键+右方向键+攻击键#]\n前置技能：#c连击审判 Lv. 10#" />
+        <string name="h" value="伤害：#damage%（对BOSS），最大攻击次数：#attackCount，冰冻普通怪物持续#time 秒，连击审判永久伤害：+#damR%" />
+        <string name="pdesc" value="对多个敌人造成高额伤害。此外永久提升连击审判的伤害。#c只能在#c连击数达到200时#使用。\n[指令：#c下方向键+右方向键+攻击键#]\n前置技能：#c连击审判 Lv. 10#" />
+        <string name="ph" value="伤害：#damage%，攻击次数：#attackCount，连击审判永久伤害：+#damR%" />
+        <string name="hch" value="对BOSS伤害：#damage%，攻击次数：#attackCount，冰冻普通怪物概率：#hcProp%，冰冻持续时间：#hcTime 秒，连击审判伤害：+#damR%" />
+    </imgdir>

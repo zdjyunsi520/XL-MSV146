@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2049004">
+		<string name="name" value="清洁石板卷轴 10%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049005">
+		<string name="name" value="清洁石板卷轴 20%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049006">
+		<string name="name" value="诅咒清洁石板卷轴 1%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：1%\r\n失败时破坏物品概率：2%\r\n恢复2个因卷轴失败而丢失的可用升级次数\r\n#"/>
+	</imgdir>
+    <imgdir name="2049007">
+		<string name="name" value="诅咒清洁石板卷轴 3%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：3%\r\n失败时破坏物品概率：6%\r\n恢复2个因卷轴失败而丢失的可用升级次数\r\n#"/>
+	</imgdir>
+    <imgdir name="2049008">
+		<string name="name" value="诅咒清洁石板卷轴 5%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：5%\r\n失败时破坏物品概率：10%\r\n恢复2个因卷轴失败而丢失的可用升级次数\r\n#"/>
+	</imgdir>
+    <imgdir name="2049009">
+		<string name="name" value="清洁石板卷轴 10%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049010">
+		<string name="name" value="清洁石板卷轴 5%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：5%\r\n失败时破坏物品概率：10%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049011">
+		<string name="name" value="清洁石板卷轴 10%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：10%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049012">
+		<string name="name" value="诅咒清洁石板卷轴 5%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：5%\r\n失败时破坏物品概率：10%\r\n恢复2个因卷轴失败而丢失的可用升级次数\r\n#"/>
+	</imgdir>
+    <imgdir name="2049013">
+		<string name="name" value="清洁石板卷轴 20%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049014">
+		<string name="name" value="8周年清洁石板卷轴 20%"/>
+		<string name="desc" value="恢复用于冒险岛紫水晶和伟大冒险岛紫水晶装备的卷轴所丢失的可用升级次数。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049015">
+		<string name="name" value="特殊清洁石板卷轴 1%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：1%\r\n失败时破坏物品概率：0%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049016">
+		<string name="name" value="清洁石板卷轴 20%"/>
+		<string name="desc" value="恢复之前丢失的升级插槽。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：20%\r\n恢复1个之前丢失的升级插槽\r\n#"/>
+	</imgdir>
+    <imgdir name="2049100">
+		<string name="name" value="混沌卷轴 60%"/>
+		<string name="desc" value="使装备变得更好或更差。部分属性不受影响。无法用于现金物品。"/>
+		<string name="autodesc" value="\r\n#c成功率：60%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049101">
+		<string name="name" value="骗子树汁 100%"/>
+		<string name="desc" value="使树枝鼻子变得更好或更差。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049102">
+		<string name="name" value="枫叶糖浆 100%"/>
+		<string name="desc" value="使枫叶变得更好或更差。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049103">
+		<string name="name" value="海滩凉鞋卷轴 100%"/>
+		<string name="desc" value="使白色和蓝色凉鞋变得更好或更差。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049104">
+		<string name="name" value="特工装备卷轴 100%"/>
+		<string name="desc" value="使特工装备变得更好或更差。"/>
+		<string name="autodesc" value="\r\n#c成功率：100%\r\n重新配置装备属性\r\n#"/>
+	</imgdir>
+    <imgdir name="2049105">
+		<string name="name" value="[6周年]手套强化卷轴 攻击 70%"/>
+		<string name="desc" value="强化冒险岛护掌的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：70%\r\n失败时破坏物品概率：50%\r\n武器攻击：+1\r\n#"/>
+	</imgdir>
+    <imgdir name="2049106">
+		<string name="name" value="[5周年]黑暗手套强化卷轴 攻击 30%"/>
+		<string name="desc" value="强化冒险岛护掌的攻击。"/>
+		<string name="autodesc" value="\r\n#c成功率：30%\r\n失败时破坏物品概率：80%\r\n武器攻击：+2\r\n#"/>
+	</imgdir>
+</imgdir>

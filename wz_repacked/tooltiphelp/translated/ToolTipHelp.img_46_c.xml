@@ -1,0 +1,68 @@
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="2">
+				<string name="Title" value="邪恶能量森林1"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="黑暗树森林"/>
+			</imgdir>
+    <imgdir name="4">
+				<string name="Title" value="邪恶能量森林2"/>
+			</imgdir>
+    <imgdir name="5">
+				<string name="Title" value="黑暗树森林"/>
+			</imgdir>
+    <imgdir name="6">
+				<string name="Title" value="邪恶能量森林2"/>
+			</imgdir>
+    <imgdir name="101040310">
+			<imgdir name="0">
+				<string name="Title" value="污染之树"/>
+			</imgdir>
+    <imgdir name="101040320">
+			<imgdir name="0">
+				<string name="Title" value="污染之树"/>
+			</imgdir>
+    <imgdir name="102010000">
+			<imgdir name="0">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="岩石荒地"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="岩石荒地"/>
+			</imgdir>
+    <imgdir name="102010100">
+			<imgdir name="0">
+				<string name="Title" value="佩里昂南脊"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="佩里昂南脊"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="六岔路口"/>
+			</imgdir>
+    <imgdir name="102030000">
+			<imgdir name="0">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="1">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="2">
+				<string name="Title" value="野猪之地"/>
+			</imgdir>
+    <imgdir name="3">
+				<string name="Title" value="佩里昂"/>
+			</imgdir>
+    <imgdir name="102030100">
+			<imgdir name="0">
+				<string name="Title" value="盔甲野猪之地"/>
+			</imgdir>
+</imgdir>

@@ -1,0 +1,22 @@
+<imgdir name="Eqp.img">
+    <imgdir name="1912005"><string name="name" value="Saddle"/></imgdir>
+    <imgdir name="1912006"><string name="name" value="Frog Cover"/><string name="desc" value="Must have the in-game mount #cFrog# to use, and #cResistance# cannot use it."/></imgdir>
+    <imgdir name="1912007"><string name="name" value="Turtle Mount"/><string name="desc" value="Must have the in-game mount #cTurtle# to use, and #cResistance# cannot use it."/></imgdir>
+    <imgdir name="1912008"><string name="name" value="Yeti Cover"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1912011"><string name="name" value="Wolf Saddle"/></imgdir>
+    <imgdir name="1912013"><string name="name" value="Hot Air Balloon Cover"/><string name="desc" value="This item must be used with the #cHot Air Ballon#."/></imgdir>
+    <imgdir name="1912014"><string name="name" value="Robot Cover"/><string name="desc" value="You must be over level 70 in order to use this item and have an in-game mount (Hog, Silver Mane, Red Draco) to use this mount cover."/></imgdir>
+    <imgdir name="1912029"><string name="name" value="Maple Racing Car Cover"/><string name="desc" value="You must have an in-game mount (Watch Hog, Silver Boar, etc) to use this mount cover."/></imgdir>
+    <imgdir name="1912031"><string name="name" value="Pink Scooter Key"/><string name="desc" value="This item must be used with the #cPink Scooter#."/></imgdir>
+    <imgdir name="1912032"><string name="name" value="Black Scooter Key"/><string name="desc" value="This item must be used with the #cBlack Scooter#."/></imgdir>
+    <imgdir name="1912033"><string name="name" value="Stage 1 Dragon Saddle"/></imgdir>
+    <imgdir name="1912034"><string name="name" value="Stage 2 Dragon Saddle"/></imgdir>
+    <imgdir name="1912035"><string name="name" value="Stage 3 Dragon Saddle"/></imgdir>
+    <imgdir name="1912040"><string name="name" value="Helicopter Saddle"/><string name="desc" value="Must be equipped with the #cHelicopter# in order to mount on it."/></imgdir>
+    <imgdir name="1912041"><string name="name" value="Rex&apos;s Hyena Saddle"/></imgdir>
+    <imgdir name="1912042"><string name="name" value="Napoleon Mount Cover"/><string name="desc" value="This item must be used with the #cNapoleon Mount#."/></imgdir>
+    <imgdir name="1912043"><string name="desc" value="This item must be used with the #cLow Rider#."/><string name="name" value="Blue Scooter"/></imgdir>
+    <imgdir name="1912054"><string name="name" value="Rabbit Mount Cover"/><string name="desc" value="This item must be used with the #cRabbit Mount#."/></imgdir>
+    <imgdir name="1932006"><string name="name" value="Wooden Horse"/></imgdir>
+    <imgdir name="1932007"><string name="name" value="Croking"/></imgdir>
+</imgdir>

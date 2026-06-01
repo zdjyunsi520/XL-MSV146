@@ -1,0 +1,7 @@
+<imgdir name="14111008">
+        <string name="name" value="影分身斩" />
+        <string name="desc" value="使用影分身术对附近敌人进行双重打击。" />
+        <string name="h" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+        <string name="pdesc" value="使用影分身术对附近敌人进行双重打击。" />
+        <string name="ph" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
+    </imgdir>

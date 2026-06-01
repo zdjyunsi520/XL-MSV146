@@ -1,0 +1,5 @@
+<imgdir name="27121201">
+        <string name="name" value="Morning Star" />
+        <string name="desc" value="[Dark Magic]\nDrops explosive meteors on enemies." />
+        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Knockback Damage: #damage%, Explosion Damage: #w%\n[Cooldown: #cooltime sec]" />
+    </imgdir>

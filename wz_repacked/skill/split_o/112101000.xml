@@ -1,0 +1,5 @@
+<imgdir name="112101000">
+        <string name="name" value="Leopard&apos;s Paw" />
+        <string name="desc" value="Attack distant enemies and pull them towards you. Multiple attacks will push both you and the enemy forward.\r\n[Command]: Chains into #cPantera Strike# after 2 hits\r\n[Additional Command]: Chains into #cLeopard&apos;s Roar#" />
+        <string name="h" value="1st and 2nd hit - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks:  #attackCount" />
+    </imgdir>

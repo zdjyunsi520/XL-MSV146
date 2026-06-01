@@ -1,0 +1,5 @@
+<imgdir name="20041239">
+        <string name="name" value="光暗模式切换" />
+        <string name="desc" value="使用光/暗点数来切换模式。在光模式下使用可切换为暗模式，反之亦然。" />
+        <string name="h" value="Uses up 1 point to change to the opposite mode." />
+    </imgdir>

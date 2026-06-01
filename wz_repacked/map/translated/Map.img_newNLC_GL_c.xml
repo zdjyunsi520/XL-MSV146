@@ -1,0 +1,176 @@
+<imgdir name="Map.img">
+    <imgdir name="newNLC_GL">
+			<imgdir name="610040000">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊1\r\n"/>
+			</imgdir>
+			<imgdir name="610040010">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊"/>
+			</imgdir>
+			<imgdir name="610040100">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊2"/>
+			</imgdir>
+			<imgdir name="610040200">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊3"/>
+			</imgdir>
+			<imgdir name="610040210">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊4"/>
+			</imgdir>
+			<imgdir name="610040220">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊5"/>
+			</imgdir>
+			<imgdir name="610040230">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地走廊6"/>
+			</imgdir>
+			<imgdir name="610040300">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040301">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040302">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040303">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040304">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040305">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040306">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040307">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040308">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040309">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人基地电梯\r\n"/>
+			</imgdir>
+			<imgdir name="610040400">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040401">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040402">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040403">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040404">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040405">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040406">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040407">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040408">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040409">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器\r\n"/>
+			</imgdir>
+			<imgdir name="610040500">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="将军囚禁室\r\n"/>
+			</imgdir>
+			<imgdir name="610040501">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="将军囚禁室\r\n"/>
+			</imgdir>
+			<imgdir name="610040600">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040601">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040602">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040603">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040604">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040605">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040606">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040607">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040608">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040609">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040710">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+			<imgdir name="610040800">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器入口\r\n"/>
+			</imgdir>
+			<imgdir name="610040810">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="外星人物质克隆器出口\r\n"/>
+			</imgdir>
+			<imgdir name="610040700">
+				<string name="streetName" value="外星人基地"/>
+				<string name="mapName" value="逃脱通道\r\n"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>

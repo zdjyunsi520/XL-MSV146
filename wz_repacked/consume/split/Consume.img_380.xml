@@ -1,0 +1,85 @@
+<imgdir name="Consume.img">
+    <imgdir name="2860291">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to occasionally produce a small amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860292">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to occasionally produce mesos."/>
+	</imgdir>
+    <imgdir name="2860293">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to occasionally produce a large amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860294">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to regularly produce a small amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860295">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to regularly produce mesos."/>
+	</imgdir>
+    <imgdir name="2860296">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to regularly produce a large amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860297">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to frequently produce a small amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860298">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to frequently produce mesos."/>
+	</imgdir>
+    <imgdir name="2860299">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to frequently produce a large amount of mesos."/>
+	</imgdir>
+    <imgdir name="2860300">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to occasionally produce items."/>
+	</imgdir>
+    <imgdir name="2860301">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to occasionally produce items."/>
+		<null name="Produces surprisingly good items once in a while."/>
+	</imgdir>
+    <imgdir name="2860302">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to regularly produce items."/>
+	</imgdir>
+    <imgdir name="2860303">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to regularly produce items."/>
+		<null name="Produces surprisingly good items once in a while."/>
+	</imgdir>
+    <imgdir name="2860304">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to frequently produce items."/>
+	</imgdir>
+    <imgdir name="2860305">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="While summoned, consumes Vitality to frequently produce items."/>
+		<null name="Produces surprisingly good items once in a while."/>
+	</imgdir>
+    <imgdir name="2860306">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP continuously while in Edelstein."/>
+	</imgdir>
+    <imgdir name="2860307">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers MP continuously while in Edelstein."/>
+	</imgdir>
+    <imgdir name="2860308">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Recovers HP and MP continuously while in Edelstein."/>
+	</imgdir>
+    <imgdir name="2860309">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases Speed while in Edelstein."/>
+	</imgdir>
+    <imgdir name="2860310">
+		<string name="name" value="Unique Familiar Skill"/>
+		<string name="desc" value="Increases Jump while in Edelstein."/>
+	</imgdir>
+</imgdir>

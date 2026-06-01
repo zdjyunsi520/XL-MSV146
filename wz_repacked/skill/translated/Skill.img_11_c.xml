@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="1211"><string name="bookName" value="高级火焰魔法"/></imgdir>
+    <imgdir name="1212"><string name="bookName" value="究极火焰魔法"/></imgdir>
+    <imgdir name="1300"><string name="bookName" value="风铃使者入门"/></imgdir>
+    <imgdir name="1310"><string name="bookName" value="风铃使者技能"/></imgdir>
+    <imgdir name="1311"><string name="bookName" value="风铃使者之路"/></imgdir>
+    <imgdir name="1312"><string name="bookName" value="风铃使者大成"/></imgdir>
+    <imgdir name="1400"><string name="bookName" value="夜行者指南"/></imgdir>
+    <imgdir name="1410"><string name="bookName" value="夜行者修炼"/></imgdir>
+    <imgdir name="1411"><string name="bookName" value="夜行者之路"/></imgdir>
+    <imgdir name="1412"><string name="bookName" value="夜行者秘籍"/></imgdir>
+    <imgdir name="1500"><string name="bookName" value="奇袭者入门"/></imgdir>
+    <imgdir name="1510"><string name="bookName" value="奇袭者修炼"/></imgdir>
+    <imgdir name="1511"><string name="bookName" value="奇袭者之路"/></imgdir>
+    <imgdir name="1512"><string name="bookName" value="奇袭者大成"/></imgdir>
+    <imgdir name="2000"><string name="bookName" value="传说技能"/></imgdir>
+    <imgdir name="2001"><string name="bookName" value="新手大师"/></imgdir>
+    <imgdir name="2002"><string name="bookName" value="精灵基础"/></imgdir>
+    <imgdir name="2100"><string name="bookName" value="战神"/></imgdir>
+    <imgdir name="2110"><string name="bookName" value="战神"/></imgdir>
+    <imgdir name="2111"><string name="bookName" value="战神"/></imgdir>
+</imgdir>

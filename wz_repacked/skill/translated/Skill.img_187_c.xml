@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="31000004"><string name="name" value="恶魔鞭笞"/><string name="desc" value="连按攻击键用黑暗之力鞭笞前方敌人4次。每次击中会回复部分恶魔之力。"/><string name="h" value="第1、2击：伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount。\n第3击：伤害：#v%，最大攻击敌人数：#u，攻击次数：#w\n第4击：伤害：#y%，最大攻击敌人数：#x，攻击次数：#z"/><string name="pdesc" value="连按攻击键用黑暗之力鞭笞前方敌人4次。每次击中会回复部分恶魔之力。"/><string name="ph" value="第1、2击：伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount。\n第3击：伤害：#v%，最大攻击敌人数：#u，攻击次数：#w\n第4击：伤害：#y%，最大攻击敌人数：#x，攻击次数：#z"/></imgdir>
+    <imgdir name="31120030"><string name="name" value="超级力量"/><string name="desc" value="永久提升力量。"/><string name="h" value="力量+#strX"/></imgdir>
+    <imgdir name="31120031"><string name="name" value="超级敏捷"/><string name="desc" value="永久提升敏捷。"/><string name="h" value="敏捷+#dexX"/></imgdir>
+    <imgdir name="31120032"><string name="name" value="超级智力"/><string name="desc" value="永久提升智力。"/><string name="h" value="智力+#intX"/></imgdir>
+    <imgdir name="31120033"><string name="name" value="超级运气"/><string name="desc" value="永久提升运气。"/><string name="h" value="运气+#lukX"/></imgdir>
+    <imgdir name="31120034"><string name="name" value="超级暴击"/><string name="desc" value="永久提升暴击率。"/><string name="h" value="暴击率：+#cr%"/></imgdir>
+    <imgdir name="31120035"><string name="name" value="超级命中"/><string name="desc" value="永久提升命中值。"/><string name="h" value="命中值+#ar%"/></imgdir>
+    <imgdir name="31120036"><string name="name" value="超级体力"/><string name="desc" value="永久提升最大HP。"/><string name="h" value="最大HP：+#mhpR%"/></imgdir>
+    <imgdir name="31120037"><string name="name" value="超级魔力"/><string name="desc" value="永久提升最大MP。"/><string name="h" value="最大MP+#mmpR%"/></imgdir>
+    <imgdir name="31120038"><string name="name" value="超级怒气"/><string name="desc" value="永久提升最大DF。"/><string name="h" value="最大DF+50"/></imgdir>
+    <imgdir name="31120039"><string name="name" value="超级防御"/><string name="desc" value="永久提升物理防御力。"/><string name="h" value="物理防御力+#pddX"/></imgdir>
+    <imgdir name="31120040"><string name="name" value="超级魔防"/><string name="desc" value="永久提升魔法防御力。"/><string name="h" value="魔法防御力+#mddX"/></imgdir>
+    <imgdir name="31120041"><string name="name" value="超级速度"/><string name="desc" value="永久提升移动速度。"/><string name="h" value="移动速度+#psdSpeed"/></imgdir>
+    <imgdir name="31120042"><string name="name" value="超级跳跃"/><string name="desc" value="永久提升跳跃力。"/><string name="h" value="跳跃力+#psdJump"/></imgdir>
+    <imgdir name="31120043"><string name="name" value="腐肉之息-强化"/><string name="desc" value="提升腐肉之息的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="31120044"><string name="name" value="腐肉之息-额外攻击"/><string name="desc" value="增加腐肉之息的攻击次数。"/><string name="h" value="攻击次数：+#attackCount"/></imgdir>
+    <imgdir name="31120045"><string name="name" value="腐肉之息-减怒"/><string name="desc" value="降低腐肉之息的恶魔之力消耗。"/><string name="h" value="恶魔之力消耗：-#reduceForceR%"/></imgdir>
+    <imgdir name="31120046"><string name="name" value="黑暗变形-强化"/><string name="desc" value="黑暗变形无视攻击反射，并在短时间内所有攻击无视攻击反射。"/><string name="h" value="所有攻击无视攻击反射#y秒\n被动效果：黑暗变形无视攻击反射。"/></imgdir>
+    <imgdir name="31120047"><string name="name" value="黑暗变形-强化"/><string name="desc" value="提升黑暗变形的伤害。"/><string name="h" value="伤害：+#damR%"/></imgdir>
+    <imgdir name="31120048"><string name="name" value="黑暗变形-减怒"/><string name="desc" value="降低黑暗变形的恶魔之力消耗。"/><string name="h" value="恶魔之力消耗：-#reduceForceR%"/></imgdir>
+</imgdir>

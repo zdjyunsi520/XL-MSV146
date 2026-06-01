@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="90000000"><string name="name" value="Instant Death"/><string name="desc" value=""/><string name="h1" value="Instant Death "/></imgdir>
+    <imgdir name="90001001"><string name="name" value="Knock Down"/><string name="desc" value=""/><string name="h1" value="One Shot Kill "/></imgdir>
+    <imgdir name="90001002"><string name="name" value="Slow"/><string name="desc" value=""/><string name="h1" value="Slow "/></imgdir>
+    <imgdir name="90001003"><string name="name" value="Poison"/><string name="desc" value=""/><string name="h1" value="Poison "/></imgdir>
+    <imgdir name="90001004"><string name="name" value="Darkness "/><string name="desc" value=""/><string name="h1" value="Darkness "/><string name="h2" value="Darkness "/></imgdir>
+    <imgdir name="90001005"><string name="name" value="Seal "/><string name="desc" value=""/><string name="h1" value="Seal "/></imgdir>
+    <imgdir name="90001006"><string name="name" value="Freeze"/><string name="desc" value=""/><string name="h1" value="Freeze "/><string name="h2" value="Freeze"/></imgdir>
+    <imgdir name="91000000"><string name="name" value="Banner of Nimbleness"/><string name="desc" value="Increases Accuracy and Avoidability of guild members."/><string name="h" value="Accuracy +#ar%, Avoidability +#er% "/></imgdir>
+    <imgdir name="91000001"><string name="name" value="Banner of Experience"/><string name="desc" value="Increases EXP received by guild members when hunting monsters. "/><string name="h" value="EXP Gain +#expR%"/></imgdir>
+    <imgdir name="91000002"><string name="name" value="Banner of Fortitude"/><string name="desc" value="Increases Weapon Defense and Magic Defense of guild members."/><string name="h" value="Weapon Defense +#pddR%, Magic Defense +#mddR%"/></imgdir>
+    <imgdir name="91000003"><string name="name" value="Banner of Ferocity"/><string name="desc" value="Increases Weapon ATT and Magic ATT of guild members."/><string name="h" value="Weapon ATT +#padX, Magic ATT +#madX"/></imgdir>
+    <imgdir name="91000004"><string name="name" value="Banner of Mobility"/><string name="desc" value="Increases Movement Speed and Jump of guild members."/><string name="h" value="Movement Speed +#psdSpeed, Jump +#psdJump"/></imgdir>
+    <imgdir name="91000005"><string name="name" value="Banner of Lethality"/><string name="desc" value="Increases Critical Hit Rate of guild members."/><string name="h" value="Critical Rate +#cr%"/></imgdir>
+    <imgdir name="91000006"><string name="name" value="Banner of Plenty"/><string name="desc" value="A special potion is provided every Monday."/><string name="h" value="Every Monday, provides #u potions that fully recover HP and MP "/></imgdir>
+    <imgdir name="92000000"><string name="name" value="Herbalism"/><string name="desc" value="Press Space Bar near herbs to gather them. Must have herbalism tools equipped to use."/></imgdir>
+    <imgdir name="92010000"><string name="name" value="Mining"/><string name="desc" value="Press Space Bar near minerals to gather them. Must have mining tools equipped to use."/></imgdir>
+    <imgdir name="92020000"><string name="name" value="Smithing"/><string name="desc" value="Lets you craft equipment."/></imgdir>
+    <imgdir name="92030000"><string name="name" value="Accessory Crafting"/><string name="desc" value="Lets you craft accessories."/></imgdir>
+    <imgdir name="92040000"><string name="name" value="Alchemy"/><string name="desc" value="Lets you perform alchemy."/></imgdir>
+    <imgdir name="80001152"><string name="name" value="Nebulite Fusion"/><string name="desc" value="[Master Level : 1]\nAllows you to combine 2 different Nebulites into a new Nebulite with the possibly of it gaining a rank."/></imgdir>
+</imgdir>

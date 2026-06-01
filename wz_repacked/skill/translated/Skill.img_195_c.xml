@@ -1,0 +1,22 @@
+<imgdir name="Skill.img">
+    <imgdir name="72000039"><string name="name" value="时钟之力"/><string name="desc" value="智力提升"/></imgdir>
+    <imgdir name="72000040"><string name="name" value="奥夫赫本之力"/><string name="desc" value="农场建筑产量提升"/></imgdir>
+    <imgdir name="72000041"><string name="name" value="守门人之力"/><string name="desc" value="终极攻击技能伤害+%"/></imgdir>
+    <imgdir name="72000042"><string name="name" value="红色蝙蝠怪之力"/><string name="desc" value="敌人攻击有5%概率触发短暂无敌"/></imgdir>
+    <imgdir name="72000043"><string name="name" value="小蝙蝠怪之力"/><string name="desc" value="被攻击时无敌时间延长"/></imgdir>
+    <imgdir name="72000044"><string name="name" value="神兽之力"/><string name="desc" value="攻击有10%概率回复HP和MP"/></imgdir>
+    <imgdir name="72000045"><string name="name" value="奥贝伦之力"/><string name="desc" value="所有属性提升"/></imgdir>
+    <imgdir name="72000046"><string name="name" value="品克缤之力"/><string name="desc" value="总伤害+%"/></imgdir>
+    <imgdir name="72000047"><string name="name" value="武公之影之力"/><string name="desc" value="物理攻击力1"/></imgdir>
+    <imgdir name="72000048"><string name="name" value="帕普拉图斯时钟之力"/><string name="desc" value="所有属性提升"/></imgdir>
+    <imgdir name="72000049"><string name="name" value="伊菲尼亚之力"/><string name="desc" value="魔法攻击力提升"/></imgdir>
+    <imgdir name="72000050"><string name="name" value="小扎昆之力"/><string name="desc" value="增加%概率格挡敌人攻击"/></imgdir>
+    <imgdir name="72000051"><string name="name" value="小凡雷恩之力"/><string name="desc" value="Boss攻击力+%"/></imgdir>
+    <imgdir name="72000052"><string name="name" value="小暗黑龙之力"/><string name="desc" value="暴击率+%"/></imgdir>
+    <imgdir name="72000053"><string name="name" value="小希纳斯之力"/><string name="desc" value="总伤害+%"/></imgdir>
+    <imgdir name="72000054"><string name="name" value="小麦格纳斯之力"/><string name="desc" value="无视怪物防御+%"/></imgdir>
+    <imgdir name="72000055"><string name="name" value="小希拉之力"/><string name="desc" value="最小暴击伤害+%"/></imgdir>
+    <imgdir name="72000056"><string name="name" value="小阿卡伊农之力"/><string name="desc" value="增益技能持续时间+%"/></imgdir>
+    <imgdir name="72000057"><string name="name" value="小兰花之力"/><string name="desc" value="角色经验奖励+%"/></imgdir>
+    <imgdir name="80000056"><string name="name" value="Lv.1桉树卡里普索"/><string name="desc" value="树叶吃货们团结起来！提升物理攻击力和魔法攻击力3点。"/><string name="h" value="#物理攻击力：+#padX，魔法攻击力：+#madX"/></imgdir>
+</imgdir>

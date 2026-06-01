@@ -1,0 +1,111 @@
+<imgdir name="Npc.img">
+    <imgdir name="9330178">
+		<string name="name" value="Boo"/>
+		<string name="n0" value="我怎么会成为班长？"/>
+		<string name="n1" value="我猜没人想要这份工作。"/>
+		<string name="func" value="班长"/>
+		<string name="d0" value="你对叫蘑菇当班长有意见吗？！"/>
+		<string name="d1" value="你对叫蘑菇当班长有意见吗？！"/>
+	</imgdir>
+    <imgdir name="9330179">
+		<string name="name" value="Busker"/>
+		<string name="n0" value="如果你在寻找浪漫..."/>
+		<string name="n1" value="加入乐队！"/>
+		<string name="func" value="乐队指挥"/>
+		<string name="d0" value="乐队成员需要的是激情！还有乐器..."/>
+		<string name="d1" value="乐队成员需要的是激情！还有乐器..."/>
+	</imgdir>
+    <imgdir name="9330180">
+		<string name="name" value="Geese"/>
+		<string name="n0" value="如果你在垫子上是野兽..."/>
+		<string name="n1" value="加入柔道俱乐部！"/>
+		<string name="d0" value="只有强者才能从事柔道！"/>
+		<string name="d1" value="只有强者才能从事柔道！"/>
+		<string name="func" value="柔道之王"/>
+	</imgdir>
+    <imgdir name="9330181">
+		<string name="name" value="Shumi"/>
+	</imgdir>
+    <imgdir name="9330182">
+		<string name="name" value="Mir"/>
+	</imgdir>
+    <imgdir name="9330183">
+		<string name="name" value="Laya"/>
+	</imgdir>
+    <imgdir name="9330184">
+		<string name="name" value="Mr. Orlov"/>
+		<string name="d0" value="谁...你是谁？"/>
+	</imgdir>
+    <imgdir name="9330185">
+		<string name="name" value="Boss Kumi"/>
+		<string name="n0" value="准备好今天的咨询了吗！？"/>
+		<string name="n1" value="我一直听到关于你的讨厌谣言。"/>
+		<string name="func" value="班主任"/>
+	</imgdir>
+    <imgdir name="9330186">
+		<string name="name" value="Boss Kumi"/>
+		<string name="n0" value="准备好今天的考试了吗！？"/>
+		<string name="n1" value="你这辈子从来没有学习过一天！"/>
+		<string name="func" value="班主任"/>
+	</imgdir>
+    <imgdir name="9330187">
+		<string name="name" value="与Balrog一起假设"/>
+		<string name="n0" value="强冲击造成巨大伤害。"/>
+		<string name="n1" value="弱冲击造成较小伤害。"/>
+		<string name="func" value="物理老师"/>
+	</imgdir>
+    <imgdir name="9330188">
+		<string name="name" value="Athena Pierce"/>
+		<string name="n1" value="很久很久以前..."/>
+		<string name="n0" value="...那是我吃掉一整头驴的时候。"/>
+		<string name="func" value="历史老师"/>
+	</imgdir>
+    <imgdir name="9330189">
+		<string name="name" value="Boss Kumi"/>
+		<string name="n0" value="又迟到了？！"/>
+		<string name="n1" value="你为什么还要假装去上学？"/>
+		<string name="func" value="班主任"/>
+		<string name="d0" value="你忘了今天是上学日吗？"/>
+		<string name="d1" value="你忘了今天是上学日吗？"/>
+	</imgdir>
+    <imgdir name="9330190">
+		<string name="name" value="Claudine"/>
+		<string name="func" value="校护"/>
+		<string name="n0" value="你害怕打针还是什么？"/>
+		<string name="n1" value="哦，忍一忍，好吗？"/>
+	</imgdir>
+    <imgdir name="9330191">
+		<string name="name" value="桔梗男"/>
+		<string name="n0" value="我...讨厌怪物..."/>
+		<string name="n1" value="我喜欢...武术...铅笔...口香糖..."/>
+	</imgdir>
+    <imgdir name="9330192">
+		<string name="name" value="Boss Kumi"/>
+		<string name="func" value="班主任"/>
+		<string name="n0" value="不错，对于一个懒鬼来说！"/>
+		<string name="n1" value="好。好。对于一个没脑子的土豆来说！"/>
+	</imgdir>
+    <imgdir name="9330193">
+		<string name="name" value="四大天柱"/>
+	</imgdir>
+    <imgdir name="9201241">
+		<string name="name" value="蒙面绅士"/>
+		<string name="n0" value="你会把僵尸赶出我的豪宅吗？求你了？"/>
+		<string name="d0" value="希望你有一个美妙的万圣节之夜。"/>
+		<string name="d1" value="这个万圣节变得多么烦人啊。"/>
+	</imgdir>
+    <imgdir name="9201242">
+		<string name="name" value="Jonas"/>
+		<string name="d0" value="那些该死的僵尸..."/>
+		<string name="d1" value="即使是一堆臭僵尸内脏也能变成有用的东西！"/>
+	</imgdir>
+    <imgdir name="9201243">
+		<string name="name" value="女仆"/>
+		<string name="d0" value="为什么总是有僵尸？"/>
+		<string name="d1" value="我敢打赌那个愚蠢的BOSS完好无损地逃出去了..."/>
+	</imgdir>
+    <imgdir name="9201244">
+		<string name="name" value="夜间商人"/>
+		<string name="n0" value="你对一些额外恐怖的万圣节商品感兴趣吗？"/>
+	</imgdir>
+</imgdir>

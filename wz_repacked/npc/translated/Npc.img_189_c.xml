@@ -1,0 +1,125 @@
+<imgdir name="Npc.img">
+    <imgdir name="2420035">
+		<string name="name" value="阿尔丁"/>
+	</imgdir>
+    <imgdir name="2420036">
+		<string name="name" value="萨加特"/>
+	</imgdir>
+    <imgdir name="2420037">
+		<string name="name" value="沙蒂"/>
+	</imgdir>
+    <imgdir name="2420038">
+		<string name="name" value="斯林"/>
+	</imgdir>
+    <imgdir name="2420039">
+		<string name="name" value="金里奇"/>
+	</imgdir>
+    <imgdir name="2420040">
+		<string name="name" value="沙阿·马尔"/>
+		<string name="func" value="首相"/>
+	</imgdir>
+    <imgdir name="2420041">
+		<string name="name" value="秘密之门"/>
+	</imgdir>
+    <imgdir name="2430000">
+		<string name="name" value="拉雷尔"/>
+		<string name="func" value="女神之泪"/>
+		<string name="d0" value="（这个蓝发男孩散发着时间的力量。他一定是女神之泪。）"/>
+		<string name="d1" value="（这个蓝发男孩散发着微妙的能量，但毫无疑问那是时间的力量。他就是女神之泪。）"/>
+		<string name="n0" value="我...没事。"/>
+		<string name="n1" value="希望玛雅平安。"/>
+	</imgdir>
+    <imgdir name="2430001">
+		<string name="name" value="斯坦酋长"/>
+		<string name="d0" value="我们必须保护我们的村庄。"/>
+		<string name="d1" value="我们必须保护我们的村庄。"/>
+	</imgdir>
+    <imgdir name="2430002">
+		<string name="name" value="莉娜"/>
+		<string name="d0" value="我很担心玛雅。那些伤很重..."/>
+		<string name="d1" value="我很担心玛雅。那些伤很重..."/>
+	</imgdir>
+    <imgdir name="2430003">
+		<string name="name" value="埃文"/>
+		<string name="d0" value="我觉得我不适合养猪。我感觉我还有更大的使命..."/>
+		<string name="d1" value="我觉得我不适合养猪。我感觉我还有更大的使命..."/>
+		<string name="n0" value="我昨晚好像做了个噩梦。"/>
+		<string name="n1" value="不知道我哥哥在做什么。"/>
+	</imgdir>
+    <imgdir name="2430004">
+		<string name="name" value="马克"/>
+		<string name="func" value="保安"/>
+		<string name="d0" value="我看起来可能在打瞌睡，但那只是因为我的头盔。我从不闭上眼睛梦想一张棉花糖做的床..."/>
+		<string name="d1" value="我看起来可能在打瞌睡，但那只是因为我的头盔。我从不闭上眼睛梦想一张棉花糖做的床..."/>
+	</imgdir>
+    <imgdir name="2430005">
+		<string name="name" value="卡米拉"/>
+		<string name="d0" value="犹他太顽皮了。有时他真让人头疼。"/>
+		<string name="d1" value="我看看能不能帮犹他和希娜成为朋友。"/>
+		<string name="n0" value="学校里已经传开谣言了。"/>
+		<string name="n1" value="不知道埃文有没有听说。"/>
+	</imgdir>
+    <imgdir name="2430006">
+		<string name="name" value="明明太太"/>
+		<string name="func" value="家庭主妇"/>
+		<string name="d0" value="我丈夫骗我结婚。我不该相信那些甜言蜜语！"/>
+		<string name="d1" value="很快就是我的生日了。我丈夫最好记得。"/>
+		<string name="n0" value="男人。他们怎么能对女人这么一无所知？"/>
+		<string name="n1" value="这次，我不会放过他的。"/>
+		<imgdir name="bubble">
+			<imgdir name="41102">
+				<imgdir name="2">
+					<string name="0" value="今晚的晚餐是辣炒蘑菇。"/>
+					<string name="1" value="没有什么比老情人吵架更糟的了。"/>
+				</imgdir>
+    <imgdir name="2430007">
+		<string name="name" value="杰伊"/>
+		<string name="d0" value="魔法密林安静祥和...除了一些例外。"/>
+		<string name="d1" value="魔法密林安静祥和。"/>
+		<string name="n0" value="我喜欢读书。"/>
+		<string name="n1" value="我想我的前院需要打扫一下。"/>
+	</imgdir>
+    <imgdir name="2430008">
+		<string name="name" value="玛雅"/>
+		<string name="d0" value="我有点发烧，但不严重。"/>
+		<string name="d1" value="我现在好了。"/>
+		<string name="n0" value="我想去散步。"/>
+		<string name="n1" value="我想坐在阳光下..."/>
+	</imgdir>
+    <imgdir name="2430009">
+		<string name="name" value="希娜"/>
+		<string name="d0" value="卡米拉背叛了我——她现在和别人在一起了！"/>
+		<string name="d1" value="这一切都是因为犹他的恶作剧。"/>
+		<string name="n0" value="学校里发生了坏事。"/>
+		<string name="n1" value="我们承诺过友谊永远不变..."/>
+		<imgdir name="bubble">
+			<imgdir name="41103">
+				<imgdir name="2">
+					<string name="0" value="都是犹他的错。"/>
+					<string name="1" value="犹他错了！"/>
+				</imgdir>
+    <imgdir name="2430010">
+		<string name="name" value="菲布尔医生"/>
+		<string name="func" value="整形医生"/>
+		<string name="n0" value="我是魔法密林最好的医生，菲布尔医生。"/>
+		<string name="n1" value="如果你想变漂亮，嗯...我会尽力的。"/>
+	</imgdir>
+    <imgdir name="2430011">
+		<string name="name" value="店主丹玛"/>
+		<string name="func" value="整形医生"/>
+		<string name="n0" value="我会帮你变漂亮。或者至少变得漂亮一点。"/>
+		<string name="n1" value="嘿，你。你该对你的脸做点什么了。"/>
+	</imgdir>
+    <imgdir name="2430012">
+		<string name="name" value="安妮"/>
+		<string name="d0" value="朋友是什么？"/>
+		<string name="d1" value="我想和阿鲁姆玩娃娃！"/>
+		<string name="n0" value="总是一个人玩很无聊。"/>
+		<string name="n1" value="你想和我玩娃娃吗？"/>
+		<imgdir name="bubble">
+			<imgdir name="41115">
+				<imgdir name="2">
+					<string name="0" value="不知道阿鲁姆有什么娃娃。"/>
+					<string name="1" value="你觉得阿鲁姆喜欢公主故事吗？"/>
+				</imgdir>
+</imgdir>

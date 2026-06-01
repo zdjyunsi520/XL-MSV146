@@ -1,0 +1,102 @@
+<imgdir name="Consume.img">
+    <imgdir name="2046016">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon ATT 100%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nWeapon Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046017">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon Magic ATT 100%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 100%\r\nMagic Attack: +1\r\n#"/>
+	</imgdir>
+    <imgdir name="2046018">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon ATT 65%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046019">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon Magic ATT 65%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 65%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\n#"/>
+	</imgdir>
+    <imgdir name="2046020">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon ATT 15%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046021">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon Magic ATT 15%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 15%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack +5\r\nAccuracy: +10\r\n#"/>
+	</imgdir>
+    <imgdir name="2046022">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon ATT 50%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\nWeapon Attack +3\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046023">
+		<string name="name" value="Gallant Scroll for One-Handed Weapon Magic ATT 50%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 50%\r\nSTR: +2\r\nINT: +2\r\nDEX: +2\r\nLUK: +2\r\nMagic Attack +3\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046024">
+		<string name="name" value="Warrior Scroll for One-Handed Weapon for ATT 60%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nSTR: +3\r\nDEX: +1\r\nWeapon Weapon: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046025">
+		<string name="name" value="Joyous 7th Dark Scroll for One-Handed Weapon for ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nWeapon Attack: +7 to 8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046026">
+		<string name="name" value="Joyous 7th Dark Scroll for One-Handed Weapon for Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nChance to destroy item on failure: 100%\r\nMagic Attack: +7 to 8\r\n#"/>
+	</imgdir>
+    <imgdir name="2046027">
+		<string name="name" value="Wizard Scroll for One-Handed Weapon for Magic ATT 60%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 60%\r\nINT: +3\r\nMagic Attack: +3\r\n#"/>
+	</imgdir>
+    <imgdir name="2046028">
+		<string name="name" value="Legends Scroll for One-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046029">
+		<string name="name" value="Legends Scroll for One-Handed Weapon Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack +5\r\nMagic DEF: +10\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046030">
+		<string name="name" value="Legends Dark Scroll for One-Handed Weapon ATT 40%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack: +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046031">
+		<string name="name" value="Legends Dark Scroll for One-Handed Weapon Magic ATT 40%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 40%\r\nChance to destroy item on failure: 50%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack: +5\r\nMagic Defense: +10\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046032">
+		<string name="name" value="Legends Scroll for One-Handed Weapon ATT 70%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nWeapon Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046033">
+		<string name="name" value="Legends Scroll for One-Handed Weapon Magic ATT 70%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 70%\r\nSTR: +1\r\nINT: +1\r\nDEX: +1\r\nLUK: +1\r\nMagic Attack +2\r\nAccuracy: +5\r\n#"/>
+	</imgdir>
+    <imgdir name="2046034">
+		<string name="name" value="Legends Scroll for One-Handed Weapon ATT 20%"/>
+		<string name="desc" value="Improves Weapon Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nWeapon Attack +5\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+    <imgdir name="2046035">
+		<string name="name" value="Legends Scroll for One-Handed Weapon Magic ATT 20%"/>
+		<string name="desc" value="Improves Magic Attack on One-Handed weapons."/>
+		<string name="autodesc" value="\r\n#cSuccess Rate: 20%\r\nSTR: +3\r\nINT: +3\r\nDEX: +3\r\nLUK: +3\r\nMagic Attack +5\r\nMagic DEF: +10\r\nAccuracy: +15\r\n#"/>
+	</imgdir>
+</imgdir>

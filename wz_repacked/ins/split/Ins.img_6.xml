@@ -1,0 +1,82 @@
+<imgdir name="Ins.img">
+    <imgdir name="3010149">
+		<string name="name" value="Cat lying in front of a Fan"/>
+		<string name="desc" value="Restores 10 HP and 10 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010151">
+		<string name="name" value="Desert Island Chair"/>
+		<string name="desc" value="50 HP and 50 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010152">
+		<string name="name" value="Yellow Tent Chair"/>
+		<string name="desc" value="A chair that will allow you to enjoy camping even more. It recovers 40 HP and MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010154">
+		<string name="name" value="Mechanical Chair"/>
+		<string name="desc" value="Mechanical chair that recovers HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010155">
+		<string name="name" value="Owl Chair"/>
+		<string name="desc" value="A special chair shaped like Owl. Recovers 30 HP and 30 MP every 10 seconds. "/>
+	</imgdir>
+    <imgdir name="3010156">
+		<string name="name" value="Visitor Representative Machine"/>
+		<string name="desc" value="A chair made by modifying the machine the Visitor Representative used to ride. Sit on it and 50 HP and MP will be restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010157">
+		<string name="name" value="Guild Chair"/>
+		<string name="desc" value="A mechanical chair that recovers HP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010161">
+		<string name="name" value="Squeep"/>
+		<string name="desc" value="This chair is shaped like the MWLB mascot. MWLB members can use this chair to regain 20 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010163">
+		<string name="name" value="Full Moon Chair"/>
+		<string name="desc" value="When you sit on Full Moon Chair, 35 HP and 10 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010164">
+		<string name="name" value="Full Moon Chair2"/>
+		<string name="desc" value="When you sit on Full Moon Chair, 35 HP and 10 MP are recovered every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010165">
+		<string name="name" value="Swing on the Persimmon Tree"/>
+		<string name="desc" value="There is a swing on the Persimmon Tree with ripe persimmons."/>
+	</imgdir>
+    <imgdir name="3010167">
+		<string name="name" value="Cake Chair"/>
+		<string name="desc" value="30 HP and 30 MP are restored every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010168">
+		<string name="name" value="Chair on the Range"/>
+		<string name="desc" value="Friends are always valuable. Recovers 40 HP and 40 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010169">
+		<string name="name" value="Kitten Chair"/>
+		<string name="desc" value="A lovely kitten makes you happy. Recover 40 HP and 40 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010170">
+		<string name="name" value="December Chair"/>
+		<string name="desc" value="Winter is coming. Recovers 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010171">
+		<string name="name" value="Cat's Love Chair"/>
+		<string name="desc" value="Hug me tightly. Recovers 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010172">
+		<string name="name" value="Sky Chair"/>
+		<string name="desc" value="Sitting this chair, you can count how many stars are in the sky. Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010173">
+		<string name="name" value="Psychic Chair"/>
+		<string name="desc" value="You can predict your future with this chair. Recover 40 HP and 40 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010174">
+		<string name="name" value="Scary Witch Chair"/>
+		<string name="desc" value="A scary witch follows you for trick or treat! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+    <imgdir name="3010175">
+		<string name="name" value="Easel Chair"/>
+		<string name="desc" value="You can be artistic with this chair. Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+</imgdir>
