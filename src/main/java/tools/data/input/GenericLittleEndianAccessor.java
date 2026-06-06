@@ -22,6 +22,7 @@ package tools.data.input;
 
 import java.awt.Point;
 import java.io.ByteArrayOutputStream;
+import java.nio.charset.Charset;
 
 /**
  * Provides a generic interface to a Little Endian stream of bytes.
@@ -32,6 +33,7 @@ import java.io.ByteArrayOutputStream;
  */
 public class GenericLittleEndianAccessor implements LittleEndianAccessor {
 
+    private static final Charset GBK = Charset.forName("GBK");
     private final ByteInputStream bs;
 
     /**
@@ -143,11 +145,11 @@ public class GenericLittleEndianAccessor implements LittleEndianAccessor {
      */
     @Override
     public final String readAsciiString(final int n) {
-        final char ret[] = new char[n];
+        final byte[] ret = new byte[n];
         for (int x = 0; x < n; x++) {
-            ret[x] = (char) readByte();
+            ret[x] = (byte) readByte();
         }
-        return new String(ret);
+        return new String(ret, GBK);
     }
 
     /**

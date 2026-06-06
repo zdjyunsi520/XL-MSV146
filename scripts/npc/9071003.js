@@ -7,7 +7,7 @@ function start() {
         m = 1;
         return;
     }
-    cm.sendYesNo("aaa想要去怪物公园吗？");
+    cm.sendYesNo("想要去怪物公园吗？");
 }
 
 function action(mode, type, selection) {

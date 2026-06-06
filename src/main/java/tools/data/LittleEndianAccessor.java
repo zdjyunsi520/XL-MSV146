@@ -22,6 +22,7 @@ package tools.data;
 
 import java.awt.Point;
 import java.io.IOException;
+import java.nio.charset.Charset;
 
 /**
  * Provides a interface to a Little Endian stream of bytes.
@@ -32,6 +33,7 @@ import java.io.IOException;
  */
 public class LittleEndianAccessor {
 
+    private static final Charset GBK = Charset.forName("GBK");
     private final ByteArrayByteStream bs;
 
     /**
@@ -138,11 +140,11 @@ public class LittleEndianAccessor {
      * @return The string read.
      */
     public final String readAsciiString(final int n) {
-        final char ret[] = new char[n];
+        final byte[] ret = new byte[n];
         for (int x = 0; x < n; x++) {
-            ret[x] = (char) readByte();
+            ret[x] = readByte();
         }
-        return new String(ret);
+        return new String(ret, GBK);
     }
 
     /**
@@ -276,11 +278,11 @@ public class LittleEndianAccessor {
         for (int y = 0; y < n; y++) {
             unReadByte();
         }
-        final char ret[] = new char[n];
+        final byte[] ret = new byte[n];
         for (int x = 0; x < n; x++) {
-            ret[x] = (char) readByte();
+            ret[x] = readByte();
         }
-        return new String(ret);
+        return new String(ret, GBK);
     }
 
     public final Point readLastPos() {

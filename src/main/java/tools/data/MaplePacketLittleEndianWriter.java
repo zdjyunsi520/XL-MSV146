@@ -14,7 +14,7 @@ import tools.HexTool;
 public class MaplePacketLittleEndianWriter {
 
     private final ByteArrayOutputStream baos;
-    private static final Charset ASCII = Charset.forName("US-ASCII"); // US-ASCII, ISO-8859-1, UTF-8, MS949
+    private static final Charset ASCII = Charset.forName("GBK");
 
     /**
      * Constructor - initializes this stream with a default size.
@@ -138,17 +138,19 @@ public class MaplePacketLittleEndianWriter {
      * @param s The ASCII string to use maple-convention to write.
      */
     public final void writeMapleAsciiString(final String s) {
-        writeShort((short) s.length());
-        writeAsciiString(s);
+        final byte[] bytes = s.getBytes(ASCII);
+        writeShort((short) bytes.length);
+        write(bytes);
     }
 
     public final void writeMapleAsciiString(String s, final int max) {
-        if (s.length() > max) {
-            s = s.substring(0, max);
+        final byte[] bytes = s.getBytes(ASCII);
+        final int len = Math.min(bytes.length, max);
+        writeShort((short) len);
+        for (int i = 0; i < len; i++) {
+            write(bytes[i]);
         }
-        writeShort((short) s.length());
-        write(s.getBytes(ASCII));
-        for (int i = s.length(); i < max; i++) {
+        for (int i = len; i < max; i++) {
             write(0);
         }
     }

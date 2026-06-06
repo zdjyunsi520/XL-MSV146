@@ -2,5 +2,5 @@
 @title Amoria v146.1
 Color 7
 set CLASSPATH=.;dist\*
-java -client -Dwzpath=wz server.Start
+java -client -Dwzpath=wz -Dfile.encoding=UTF-8 server.Start
 pause
