@@ -1,5 +1,0 @@
-<imgdir name="2001003">
-        <string name="name" value="Magic Armor" />
-        <string name="desc" value="Uses magic to temporarily increase DEF. \nRequired Skill: \n#cMagic Guard Lv. 3#" />
-        <string name="h" value="MP Cost: -#mpCon, Weapon DEF: +#pdd, Magic DEF: +#mdd, Duration: #time sec" />
-    </imgdir>

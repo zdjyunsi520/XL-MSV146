@@ -1,5 +1,0 @@
-<imgdir name="1101012">
-        <string name="name" value="Combo Fury" />
-        <string name="desc" value="Uses combo power to draw in enemies and has a chance to stun them. If any #cenemies are stunned#, the consumed combo count will be returned. There is only a chance to return the count against bosses." />
-        <string name="h" value="MP Cost: #mpCon, Combo Counter Cost: #y. Damage: #damage%, Max enemies Hit: #mobCount, Number of Attacks: #attackCount. Draws in enemies that are hit. #prop% chance of stunning enemies that are drawn in. Same chance for gaining back consumed combo count against bosses." />
-    </imgdir>

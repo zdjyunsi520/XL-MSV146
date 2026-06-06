@@ -8,17 +8,17 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		cm.sendNextNoESC("So, why do you want to go to Maple Island, anyway? Not many people head that way these days. Judging by your clothes, you're not a tourist either.");
+		cm.sendNextNoESC("那么，你为什么想去枫之岛呢？最近没多少人往那边走。看你的穿着，也不像是游客。");
 	} else if (status == 1) {
-		cm.sendPlayerToNpc("I'm going to Maple Island for training... After that, I'm headed to Victoria Island to become a great adventurer! That's how it works, right?");
+		cm.sendPlayerToNpc("我要去枫之岛训练……之后，我要去维多利亚岛成为一名伟大的冒险家！就是这样对吧？");
 	} else if (status == 2) {
-		cm.sendNextNoESC("It sure does! Maple Island is a great place to train, since there are no dangerous monsters there. Plus, you'll make plenty of friends and learn the basics. When you're ready, there's a big, wide world out there for you to explore!");
+		cm.sendNextNoESC("没错！枫之岛是一个训练的好地方，因为那里没有危险的怪物。而且，你会交到很多朋友，学到基础知识。等你准备好了，外面有一个广阔的世界等着你去探索！");
 	} else if (status == 3) {
-		cm.sendPlayerToNpc("Heh, I can't wait! I'm going to train really hard, and learn to take down all the powerful monsters. I'm completely prepared!");
+		cm.sendPlayerToNpc("嘿，我等不及了！我要努力训练，学会击败所有强大的怪物。我已经完全准备好了！");
 	} else if (status == 4) {
-		cm.sendNextNoESC("What a great attitude! That will help you succeed. You can't ever be sure of what will happen, though. Just remember, #beverything happens for a reason.#k");
+		cm.sendNextNoESC("态度真好！这会帮助你成功的。不过你永远无法确定会发生什么。只要记住，#b一切事物的发生都有原因。#k");
 	} else if (status == 5) {
-		cm.sendPlayerToNpc("Hey, did you hear something?");
+		cm.sendPlayerToNpc("嘿，你听到什么声音了吗？");
 	} else if (status == 6) {
 		cm.sendDirectionStatus(4, 0);
 		cm.sendDirectionStatus(3, 2);

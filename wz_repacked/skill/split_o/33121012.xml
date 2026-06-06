@@ -1,7 +1,0 @@
-<imgdir name="33121012">
-        <string name="name" value="Hunting Assistant Unit" />
-        <string name="desc" value="Utilize Resistance technology to activate a support unit." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
-        <string name="pdesc" value="Utilize Resistance technology to activate a support unit." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
-    </imgdir>

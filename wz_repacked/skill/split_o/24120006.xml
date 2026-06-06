@@ -1,7 +1,0 @@
-<imgdir name="24120006">
-        <string name="name" value="Cane Expert" />
-        <string name="desc" value="Increases Cane Mastery, Weapon Attack, and Minimum Critical Damage.\nRequired Skill: #cCane Mastery Lv. 10#" />
-        <string name="h" value="Cane Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
-        <string name="pdesc" value="Increases Cane Mastery, Weapon Attack, and Minimum Critical Damage.\nRequired Skill: #cCane Mastery Lv. 10#" />
-        <string name="ph" value="Cane Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
-    </imgdir>

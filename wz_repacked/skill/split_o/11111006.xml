@@ -1,7 +1,0 @@
-<imgdir name="11111006">
-        <string name="name" value="Soul Driver" />
-        <string name="desc" value="Uses Soul power to attack multiple enemies four times." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
-        <string name="pdesc" value="Use Soul power to attack multiple enemies four times." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec" />
-    </imgdir>

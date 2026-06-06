@@ -1,7 +1,0 @@
-<imgdir name="1301008">
-        <string name="name" value="Ground Smash" />
-        <string name="desc" value="Releases a shockwave that hits multiple enemies." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Releases a shockwave that hits multiple enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

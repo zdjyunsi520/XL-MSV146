@@ -1,8 +1,0 @@
-<imgdir name="35111015">
-        <string name="name" value="拳击发射器" />
-        <string name="desc" value="发射拳击命中多个敌人，可能使其眩晕。" />
-        <string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，穿透攻击次数：#attackCount。眩晕持续时间：#time秒" />
-        <string name="pdesc" value="发射拳击命中多个敌人，可能使其眩晕。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime秒" />
-    </imgdir>

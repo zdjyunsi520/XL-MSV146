@@ -22,27 +22,27 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-	cm.sendSimple ("#eMake a selection #h #,#n#d " +
-                 "#k\r\n#L81##rLow Rebirth Shop" +
-                 "#k\r\n#L80##rHigh Rebirth Shop#l" +
-				 "#k\r\n#L82##rCharacter Statistics#k");
+	cm.sendSimple ("#e请选择 #h #,#n#d " +
+                 "#k\r\n#L81##r低转生商店" +
+                 "#k\r\n#L80##r高转生商店#l" +
+				 "#k\r\n#L82##r角色属性#k");
 
             } else if (selection == 80) {
-                cm.sendSimple ("Hi, Which of the following would you like to purchase\r\n (#r#eMake sure you have enough room in your Inventory!#k#e)#d"+
-                 "#k\r\n#L0##bSpecial Job#k -  (#r250 Rebirths & 13337 Chickens#k)" +
-                 "#k\r\n#L1##b3K Stat Earrings#k - (#r45 Reborns & 1000 Chickens#k) " +
-                 "#k\r\n#L2##b5K stat Earrings#k - (#r75 Reborns & 5000 Chickens#k) " +
-                 "#k\r\n\r\n#L3##rBecome Beginner");
+                cm.sendSimple ("你好，你想购买以下哪个物品\r\n (#r#e请确保你的背包有足够的空间！#k#e)#d"+
+                 "#k\r\n#L0##b特殊职业#k -  (#r250次转生 & 13337小鸡#k)" +
+                 "#k\r\n#L1##b3000属性耳环#k - (#r45次转生 & 1000小鸡#k) " +
+                 "#k\r\n#L2##b5000属性耳环#k - (#r75次转生 & 5000小鸡#k) " +
+                 "#k\r\n\r\n#L3##r成为初心者");
 
             } else if (selection == 0) {
                 if (cm.getPlayer().getReborns() > 249 && cm.haveItem(4000252, 13337)) {
                     cm.gainItem (4000252, -13337);
                     cm.changeJobById(900);
                     cm.reloadChar();
-                    cm.sendOk ("Congratulations, You have purchased the Regular GM Job!");
+                    cm.sendOk ("恭喜，你已成功购买普通GM职业！");
                     cm.dispose();
                 } else {
-                    cm.sendOk ("#r#eYou don't have enough #v4000252# or you don't have enough reborns!");
+                    cm.sendOk ("#r#e你没有足够的 #v4000252# 或者你的转生次数不够！");
                     cm.dispose();
                     }
             } else if (selection == 1) {
@@ -56,7 +56,7 @@ function action(mode, type, selection) {
         cm.reloadChar();
         cm.dispose();
          } else {
-        cm.sendOk ("You don't have the Required ammount of Reborns, you already have the Item, or you don't have 1000 #v4000252#");
+        cm.sendOk ("你没有足够的转生次数，你已经拥有该物品，或者你没有1000个 #v4000252#");
         cm.dispose();
 }
             } else if (selection == 2) {
@@ -70,13 +70,13 @@ function action(mode, type, selection) {
         cm.reloadChar();
         cm.dispose();
          } else {
-        cm.sendOk ("You don't have the Required ammount of Reborns, you already have the Item, or you don't have 5000 #v4000252#");
+        cm.sendOk ("你没有足够的转生次数，你已经拥有该物品，或者你没有5000个 #v4000252#");
         cm.dispose();
 }
             } else if (selection == 81) {
-                cm.sendSimple ("Hi, Which of the following would you like to purchase\r\n (#r#eMake sure you have enough room in your Inventory!#e#k)#d" +
-                 "#k\r\n#L4##b500 Stat Ring#k - (#r15 Reborns & 500 Chickens#k)" +
-                 "#k\r\n#L5##b1000 Stat Earring#k - (#r25 Reborns & 1000 Chickens#k)");
+                cm.sendSimple ("你好，你想购买以下哪个物品\r\n (#r#e请确保你的背包有足够的空间！#e#k)#d" +
+                 "#k\r\n#L4##b500属性戒指#k - (#r15次转生 & 500小鸡#k)" +
+                 "#k\r\n#L5##b1000属性耳环#k - (#r25次转生 & 1000小鸡#k)");
             } else if (selection == 4) {
                 if (cm.getPlayer().getReborns() > 14 && !cm.haveItem(1032038) && cm.haveItem(4000252, 500)) {
          cm.gainItem (4000252, -500);
@@ -88,7 +88,7 @@ function action(mode, type, selection) {
         cm.reloadChar();
         cm.dispose();
          } else {
-        cm.sendOk ("You don't have the Required ammount of Reborns, you already have the Item, or you don't have 500 #v4000252#");
+        cm.sendOk ("你没有足够的转生次数，你已经拥有该物品，或者你没有500个 #v4000252#");
         cm.dispose();
 }
             } else if (selection == 5) {
@@ -102,21 +102,21 @@ function action(mode, type, selection) {
         cm.reloadChar();
         cm.dispose();
          } else {
-        cm.sendOk ("You don't have the Required ammount of Reborns, you already have the Item, or you don't have 1000 #v4000252#");
+        cm.sendOk ("你没有足够的转生次数，你已经拥有该物品，或者你没有1000个 #v4000252#");
         cm.dispose();
 }
 
 	} else if (selection == 82) {
-		cm.sendOk("#eCharacter Statistics#n\r\nCharacter Name: #e#r#h ##k#n\r\nRebirths: #e#r" +cm.getPlayer().getReborns() + "#n#k\r\nLevel: #e#r" +cm.getPlayer().getLevel()+"#n#k");
+		cm.sendOk("#e角色属性#n\r\n角色名称：#e#r#h ##k#n\r\n转生次数：#e#r" +cm.getPlayer().getReborns() + "#n#k\r\n等级：#e#r" +cm.getPlayer().getLevel()+"#n#k");
 		cm.dispose();
 		
             } else if (selection == 3) {
            if(cm.getJobId() == 900) {
                     cm.changeJobById(000);
-                    cm.sendOk ("Job: Beginner (#rAccepted#k).");
+                    cm.sendOk ("职业：初心者(#r已接受#k)。");
                     cm.dispose();
                   } else {
-                    cm.sendOk ("Job: Regular GM(#rDeclined#k).");
+                    cm.sendOk ("职业：普通GM(#r已拒绝#k)。");
                     cm.dispose();
 }
 }

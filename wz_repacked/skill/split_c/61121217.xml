@@ -1,5 +1,0 @@
-<imgdir name="61121217">
-        <string name="name" value="进阶暴风之刃（变身状态）" />
-        <string name="desc" value="强化暴风之刃。召唤5把飞剑。飞剑会自动追踪并攻击怪物。强化效果可以叠加。\n前置技能：#c暴风之刃 Lv.20#" />
-        <string name="h" value="MP Cost: #mpCon, # Swords Summoned: #bulletCount. #Use the skill again after summoning# to order the swords to attack for #damage% damage with #attackCount attacks.\nCooldown: #cooltime sec" />
-    </imgdir>

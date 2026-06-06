@@ -19,9 +19,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Hi, I pretty much shouldn't be doing this, but with a #b#t5152000##k, I will do it anyways for you. But don't forget, it will be random!");
+	cm.sendNext("嗨，我本来不应该这样做的，但凭一张#b#t5152000##k，我还是会为你做。但别忘了，结果是随机的！");
     } else if (status == 1) {
-	cm.sendYesNo("If you use the regular coupon, your face may transform into a random new look...do you still want to do it using #b#t5152000##k?");
+	cm.sendYesNo("如果你使用普通优惠券，你的脸可能会随机变成一个新造型……你确定要用#b#t5152000##k来做吗？");
     } else if (status == 2){
 	var face = cm.getPlayerStat("FACE");
 	var facetype;
@@ -36,9 +36,9 @@ function action(mode, type, selection) {
 	}
 
 	if (cm.setRandomAvatar(5152000, facetype) == 1) {
-	    cm.sendOk("Enjoy your new and improved face!");
+	    cm.sendOk("好好享受你焕然一新的容貌吧！");
 	} else {
-	    cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+	    cm.sendOk("嗯……看起来你没有本店专用的优惠券。很抱歉，没有优惠券的话，无法为你进行整形手术……");
 	}
 	cm.dispose();
     }

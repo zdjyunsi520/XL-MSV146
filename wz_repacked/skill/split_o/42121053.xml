@@ -1,5 +1,0 @@
-<imgdir name="42121053">
-        <string name="name" value="Princess&apos;s Vow" />
-        <string name="desc" value="Recalls the oath spoken to Princess Sakuno to increase damage and max damage cap." />
-        <string name="h" value="Mana Cost: #epCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to hero classes within the party" />
-    </imgdir>

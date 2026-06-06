@@ -7,8 +7,8 @@ function enter(pi) {
 	pi.playPortalSE();
 	pi.warp(866000230);
     } else {
-    pi.getPlayer().dropMessage(5, "The harbor is undergoing construction. Find another way...");
-	pi.topMsg("The harbor is undergoing construction. Find another way...");
+    pi.getPlayer().dropMessage(5, "港口正在施工中。请找其他路...");
+	pi.topMsg("港口正在施工中。请找其他路...");
 	}
 
 }

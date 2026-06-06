@@ -1,5 +1,0 @@
-<imgdir name="101000101">
-        <string name="name" value="Air Riot" />
-        <string name="desc" value="A more powerful Air Raid, increasing its damage and giving it a wide shockwave.\n[Skill Requirement]: #cAir Raid Lv. 10#" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Shock Wave]#: Damage: #z%, Number of Attacks: #s, Max Enemies Hit: #x. Chance of Stun: #u%, Duration: #q sec." />
-    </imgdir>

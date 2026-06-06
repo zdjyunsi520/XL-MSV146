@@ -8,9 +8,9 @@ function start(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	qm.sendYesNo("First off, we've got to find out what caused that earthquake! According to my egghead homies in #b#m600000000##k. this wasn't a natural phenomenon. I think you should take a look into it.");
+	qm.sendYesNo("首先，我们得搞清楚是什么引起了那场地震！根据我在#b#m600000000##k的那些书呆子朋友的说法，这不是自然现象。我觉得你应该去调查一下。");
     } else if (status == 1) {
-	qm.sendNext("Take this #v2430680# #b#z2430680##k thing. The guys who made it said you could 'activate it to find the earthquake's epicenter.' whatever that means. So, do that.");
+	qm.sendNext("拿着这个#v2430680# #b#z2430680##k。制造它的人说你"可以激活它来找到地震的震中"，不管那是什么意思。所以，去激活它吧。");
     } else if (status == 2) {
 	qm.forceStartQuest(28746);
 	qm.dispose();

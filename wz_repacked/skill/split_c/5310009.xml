@@ -1,6 +1,0 @@
-<imgdir name="5310009">
-        <string name="name" value="反击粉碎" />
-        <string name="desc" value="被攻击时有几率挥动加农炮进行反击！" />
-        <string name="h" value="#prop% chance of blocking an enemy attack and countering with #damage% damage. " />
-        <string name="hch" value="#hcProp% chance of blocking an enemy attack and countering with #damage% damage. " />
-    </imgdir>

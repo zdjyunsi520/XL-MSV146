@@ -1,7 +1,0 @@
-<imgdir name="2310008">
-        <string name="name" value="Holy Focus" />
-        <string name="desc" value="Permanently increases all magic attacks, Heal magic Critical Rates, Accuracy, and Magic Mastery.\nRequired Skill: #cSpell Mastery Lv. 10#" />
-        <string name="h" value="For all attacks and the Heal skill, Critical Rate: +#cr%, Accuracy: +#ar%, Magic Mastery: +#mastery%" />
-        <string name="pdesc" value="Permanently increases all magic attacks, Heal magic Critical Rate, Accuracy, Damage, and Magic Mastery.\nRequired Skill: #cSpell Mastery Lv. 10#" />
-        <string name="ph" value="For all attacks and the Heal skill, Critical Rate: +#cr%, Accuracy: +#ar%, Damage: +#damR%, Magic Mastery: +#mastery%" />
-    </imgdir>

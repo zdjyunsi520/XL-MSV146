@@ -1,8 +1,0 @@
-<imgdir name="1211013">
-        <string name="name" value="Threaten" />
-        <string name="desc" value="Intimidates enemies, with a chance to #cdecrease their Attack, Defense, and Accuracy#." />
-        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Number of Enemies: #mobCount, Enemy #cAttack and Defense: #x% for #time sec, Accuracy: -#z%#, Duration (Accuracy Debuff): #subTime sec" />
-        <string name="pdesc" value="Intimidates enemies, with a chance to #cdecrease their Attack, Defense, and Accuracy#." />
-        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Number of Enemies: #mobCount, Enemy #cAttack and Defense: #x% for #time sec, Accuracy: -#z%#, Duration (Accuracy Debuff): #subTime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Success Rate: #prop%, Number of Enemies: #mobCount, Enemy #cAttack and Defense: #x% for #time sec, Accuracy: -#z%#, Duration (Accuracy Debuff): #subTime sec" />
-    </imgdir>

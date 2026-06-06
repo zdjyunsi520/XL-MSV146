@@ -1,5 +1,0 @@
-<imgdir name="3111010">
-        <string name="name" value="Hookshot" />
-        <string name="desc" value="Fires a hook at the furthest enemy within range, dealing damage and pulling yourself along. While moving, you won&apos;t collide with monsters. Also increases your HP." />
-        <string name="h" value="MP Cost: #mpCon, after attacking with #damage% damage, moves by passing through enemies\n[Passive Effects: Max HP increases by #mhpR%]" />
-    </imgdir>

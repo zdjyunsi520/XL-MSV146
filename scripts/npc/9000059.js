@@ -3,7 +3,7 @@
 */
 
 function start() {
-    cm.sendSimple("Whoa, I'm all the way up to the top floor! \n\r #L0##bI want to get out of here#k#l");
+    cm.sendSimple("哇，我已经到最顶层了！\n\r #L0##b我想离开这里#k#l");
 }
 
 function action(mode, type, selection) {

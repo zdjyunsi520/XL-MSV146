@@ -1,7 +1,0 @@
-<imgdir name="21111013">
-        <string name="name" value="Final Toss" />
-        <string name="desc" value="Lifts multiples enemies in front of you into the air. Airborne enemies take more damage. Combo Count not used when this is done through the Dragon Link, but damage is penalized.\r\n[Command: #cDown and Up Arrow Key + Attack#]" />
-        <string name="h" value="Combo Count Cost: #comboConAran, MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Additional Damage (to airborne enemies): #x%" />
-        <string name="pdesc" value="Lifts multiples enemies in front of you into the air. Airborne enemies take more damage. Can only be used after using Triple Swing.\n[Command: Triple Swing + #cUp Arrow Key + Attack Key#]\nRequired Skill: #cTriple Swing Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Addition Damage (to airborne enemies): #x%, Lift Chance: #prop%" />
-    </imgdir>

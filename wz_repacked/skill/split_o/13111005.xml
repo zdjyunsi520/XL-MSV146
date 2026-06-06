@@ -1,7 +1,0 @@
-<imgdir name="13111005">
-        <string name="name" value="Eagle Eye" />
-        <string name="desc" value="Transforms you into Eagle Eye, a heroic figure who was able to use his bow more freely and skillfully than anyone else! This will enhance your Speed and Jump as well as give you access to the exclusive skills of Eagle Eye." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: +#indiePad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Speed: +#speed, Jump: +#jump. Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Transforms you into Eagle Eye, a heroic figure who was able to use his bow more freely and skillfully than anyone else! This will enhance your Speed and Jump as well as give you access to the exclusive skills of Eagle Eye." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Battle Mode ATT: +#PVPdamage, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
-    </imgdir>

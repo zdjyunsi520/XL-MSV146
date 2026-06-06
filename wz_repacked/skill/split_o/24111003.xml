@@ -1,7 +1,0 @@
-<imgdir name="24111003">
-        <string name="name" value="Bad Luck Ward" />
-        <string name="desc" value="Casts a sigil to ward off bad luck. Increases HP, MP, Elemental Resistance, and Abnormal Status Resistance." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time, Max HP: +#indieMhpR%, Max MP: +#indieMmpR%, Elemental Resistance +#x%, Abnormal Status Resistance +#y%" />
-        <string name="pdesc" value="Casts a sigil to ward off bad luck. Increases HP, MP, Elemental Resistance, and Abnormal Status Resistance." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time, Max HP: +#indieMhpR%, Max MP: +#indieMmpR%, Elemental Resistance +#x%, Abnormal Status Resistance +#y%" />
-    </imgdir>

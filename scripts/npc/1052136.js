@@ -1,4 +1,4 @@
-var names = Array("Kerning Square Lobby", "F1/F2: Bubble Tea Shop", "F3/F4: Doll Shop", "F5/F6: Costume & Perfume Shop", "F7/F8: Music Shop & VIP Zone", "Exit Kerning Square");
+var names = Array("废弃都市广场大厅", "1F/2F：泡泡茶店", "3F/4F：玩偶店", "5F/6F：服装香水店", "7F/8F：音乐商店和VIP专区", "离开废弃都市广场");
 var mid = Array("103040000", "103040100", "103040200", "103040300", "103040400", "103020020");
 
 function start() {
@@ -19,11 +19,11 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {                
-            text = "You can take the elevator to get around quick. Select a destination.\r\n"; 
+            text = "你可以乘坐电梯快速移动。请选择目的地。\r\n"; 
             for (var i = 0; i < names.length; text += "#L"+i+"##b"+names[i]+"#k\r\n#l", i++); 
             cm.sendSimple(text);
         } else if (status == 1) {
-            cm.sendNext("Moving to "+names[selection]+". Press Escape to cancel.");
+            cm.sendNext("正在前往 "+names[selection]+"。按Esc键取消。");
             map = mid[selection];
         } else if (status == 2) {
             cm.warp(map, "enter00");

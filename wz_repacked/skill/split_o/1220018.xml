@@ -1,5 +1,0 @@
-<imgdir name="1220018">
-        <string name="name" value="High Paladin" />
-        <string name="desc" value="Masters everything you have learned as a Paladin to increase Weapon Mastery, DEF, and Minimum Critical Damage. Increases Damage or DEF Ignored depend on the equipped weapon&apos;s type.\nBlunt Weapons: Ignores a certain % of enemy DEF\nSword Weapons: Increases Damage\nRequired Skill: #cWeapon Mastery Lv. 10 or above#" />
-        <string name="h" value="Mastery: +#mastery%, DEF: +#pddX, Minimum Critical Damage: +#criticaldamageMin%\nMaximum Critical Damage +10% when equipped with a Sword\nIgnores 5% of enemy DEF when equipped with a Blunt weapon" />
-    </imgdir>

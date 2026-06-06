@@ -1,7 +1,0 @@
-<imgdir name="32110001">
-        <string name="name" value="战斗精通" />
-        <string name="desc" value="你磨练了战斗技巧，现在永久提升伤害和最低暴击伤害。" />
-        <string name="h" value="伤害：#damR%，最低暴击伤害：+#criticaldamageMin%" />
-        <string name="pdesc" value="你磨练的战斗技巧永久提升伤害和最低暴击伤害。" />
-        <string name="ph" value="伤害：#damR%，最低暴击伤害：+#criticaldamageMin%" />
-    </imgdir>

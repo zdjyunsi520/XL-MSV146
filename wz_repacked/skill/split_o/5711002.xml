@@ -1,7 +1,0 @@
-<imgdir name="5711002">
-        <string name="name" value="Gamma Missile" />
-        <string name="desc" value="Summons a powerful explosive to knock enemies back." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: 6, Damage: #damage%, Knockback Range: #x, Explosion Damage: #w%" />
-        <string name="pdesc" value="Summons a powerful explosive to knock enemies back." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: 6, Damage: #damage%, Knockback Range: #x, Explosion Damage: #w%" />
-    </imgdir>

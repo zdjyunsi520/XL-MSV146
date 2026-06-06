@@ -1,5 +1,0 @@
-<imgdir name="36101003">
-        <string name="name" value="Efficiency Streamline" />
-        <string name="desc" value="Maximizes energy consumption efficiency to increase Max HP and MP. Also provides a passive boost to both HP and MP." />
-        <string name="h" value="MP Cost: #mpCon, HP and MP: +#indieMhpR% for #time sec \n[Passive Effect] : HP and MP: +#mhpX" />
-    </imgdir>

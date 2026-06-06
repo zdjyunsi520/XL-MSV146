@@ -1,5 +1,0 @@
-<imgdir name="36111003">
-        <string name="name" value="混合防御" />
-        <string name="desc" value="额外回避率：100%，被命中或回避后回避率和伤害会降低。永久提升防御力。\n[需要技能]：#c视角转换 Lv. 5#" />
-        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Additional Avoidability: +#prop%, Additional Avoidability when hit: -#y%, Damage received when hit: -#z%. Effects removed after #x evasions.\n[Passive Effects] : All Stats: +#strX, Weapon DEF/ Magic DEF: +#pddX" />
-    </imgdir>

@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("You want a pole arm? Hah! You don't look strong at all. Way outta your league. If you want a pole arm, prove me wrong by hunting #r#o9001012#s#k to the west of here, and find 30 #b#t4032311##k!");
+	qm.sendNext("你想要战锤？哈！你看起来一点都不强壮。差得远呢。如果你想要战锤，去西边狩猎#r#o9001012##k，找30个#b#t4032311##k来证明我错了！");
 	qm.forceStartQuest();
     qm.dispose();
 }
@@ -13,21 +13,21 @@ function end(mode, type, selection) {
 		status--;
 	}
 	if (status == 0) {
-		qm.sendNext("Hah! You have proven your worth.. and you shall get what you want; the best pole arm possible!");
+		qm.sendNext("哈！你证明了自己的实力...你将得到你想要的；最好的战锤！");
 	} else if (status == 1) {
 	if (qm.getPlayerStat("RSP") > (qm.getPlayerStat("LVL") - 30) * 3) {
-	    qm.sendNext("You still have way too much #bSP#k with you. You can't earn a new title like that. I strongly urge you to use more SP on your 1st and second level skills.");
+	    qm.sendNext("你身上还有太多的#bSP#k。你不能就这样获得新称号。我强烈建议你把更多的SP用在一级和二级技能上。");
 	    qm.dispose();
 	    return;
 	}
-		qm.sendNextS("My memories are returning...", 2);
+		qm.sendNextS("我的记忆正在恢复...", 2);
 		qm.changeJob(2110);
 		qm.gainItem(1142130, 1);
 		qm.gainItem(4032311, -30);
 		qm.forceCompleteQuest(21201);
 		qm.forceCompleteQuest();
 	} else if (status == 2) {
-		qm.sendOk("Haha! You've got what you want, now leave!");
+		qm.sendOk("哈哈！你已经得到了你想要的，现在离开吧！");
 		qm.dispose();
 	}
 }

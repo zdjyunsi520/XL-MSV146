@@ -23,7 +23,7 @@ if (mode == 1)
 else 
    status--;
     if (status == 0) { 
-	cm.sendSimple("Hi #r#h ##k, I am prisoner here just like you.\r\ I have a way of killing the evil wizard, but I will need your help \r\ Bring me this items: \r\ #i4000019# 10 Snail Shells \r\ #i4000016# 5 Red Snail Shells\r\ #i4000000# 3 Blue Snail Shells\r\n#b#L1#I got items!#l");
+	cm.sendSimple("毒药准备好了，现在去拿1个绿苹果，然后去找邪恶巫师，把毒苹果给他！");
 	}
 	if (selection == 1) {
 	if (cm.haveItem(4000019, 10)&& cm.haveItem(4000016,5) && cm.haveItem(4000000,3)){
@@ -31,10 +31,10 @@ else
 		cm.gainItem(4000016, -5);
 		cm.gainItem(4000000, -3);
 		cm.gainItem(4001162, 1);
-		cm.sendOk("Poison is ready, now go get 1 green apple and then talk to evil wizard and give him poisoned apple!");
+		cm.sendOk("我觉得你还差一些物品");
 		cm.dispose();
 	} else {
-        cm.sendOk("I think you are missing some items");
+        cm.sendOk("我觉得你还差一些物品");
 		cm.dispose();
 		}
 	}

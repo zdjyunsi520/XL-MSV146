@@ -1,7 +1,0 @@
-<imgdir name="5221016">
-        <string name="name" value="脑部扰乱" />
-        <string name="desc" value="瞄准怪物头部一击消灭！对无法一击必杀的怪物造成强大伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
-        <string name="pdesc" value="瞄准怪物头部一击消灭！对无法一击必杀的怪物造成强大伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Chance to Defeat Normal Enemies, Damage: #damage%, Max Attacks vs. Boss Monsters: #attackCount, DEF Ignored: #ignoreMobpdpR%, Bonus Critical Chance: #cr% \nCooldown: #cooltime sec" />
-    </imgdir>

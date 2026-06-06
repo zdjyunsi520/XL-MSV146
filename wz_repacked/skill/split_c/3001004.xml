@@ -1,7 +1,0 @@
-<imgdir name="3001004">
-        <string name="name" value="箭矢打击" />
-        <string name="desc" value="向多个敌人射出箭矢~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
-        <string name="pdesc" value="向多个敌人射出箭矢~" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
-    </imgdir>

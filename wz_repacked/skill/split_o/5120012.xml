@@ -1,7 +1,0 @@
-<imgdir name="5120012">
-        <string name="name" value="Double Down" />
-        <string name="desc" value="Try your luck! Roll two dice, and if both have the same number, you&apos;ll receive a very powerful buff: \nRequired Skill: #cLuck of the Die Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, #prop% chance of rolling a Double Down , Buff Duration: #time sec\n#cCooldown: #cooltime sec#" />
-        <string name="pdesc" value="Try your luck! Roll two dice, and if both have the same number, you&apos;ll receive a very powerful buff: \nRequired Skill: #cLuck of the Die Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, #prop% chance of rolling a Double Down , Buff Duration: #time sec\n#cCooldown: #cooltime sec#" />
-    </imgdir>

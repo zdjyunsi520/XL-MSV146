@@ -1,7 +1,0 @@
-<imgdir name="1211008">
-        <string name="name" value="Lightning Charge" />
-        <string name="desc" value="Instantly grants lightning attribute to your weapon to deal lightning damage to enemies and stun them. #cAttack enemies with Blizzard Charge first to inflict more damage# on them." />
-        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. A #prop% chance to stun for #time sec. Damage Over Time: #dot% for enemies that are not stunned. #cAttack slowed-down enemies with Blizzard Charge to deal #z% more damage# " />
-        <string name="pdesc" value="Instantly grants lightning attribute to your weapon to deal lightning damage to enemies and stun them. #cAttack enemies with Blizzard Charge first to inflict more damage# on them." />
-        <string name="ph" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. A #prop% chance to stun for #time sec. Damage Over Time: #dot% for enemies that are not stunned. #cAttack slowed-down enemies with Blizzard Charge to deal #z% more damage# " />
-    </imgdir>

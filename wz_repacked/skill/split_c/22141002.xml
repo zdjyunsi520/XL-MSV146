@@ -1,5 +1,0 @@
-<imgdir name="22141002">
-        <string name="name" value="魔法加速" />
-        <string name="desc" value="消耗MP在一定时间内提升魔法攻击速度2级。\n需要技能手册才能解锁下一级技能。" />
-        <string name="h" value="MP消耗：#mpCon，持续时间：#time 秒" />
-    </imgdir>

@@ -1,6 +1,0 @@
-<imgdir name="32101002">
-        <string name="name" value="Blue Aura" />
-        <string name="desc" value="You emanate a bright blue aura that absorbs the damage taken by party members. Cancel the aura by pressing the skill key again. Cannot be used simultaneously with other auras." />
-        <string name="h" value="MP Cost: #mpCon, Damage Distributed: #x%, with #y% of that absorbed" />
-        <string name="pdesc" value="You emanate a bright blue aura that absorbs the damage taken by team members. Cancel the aura by pressing the skill key again. Cannot be used simultaneously with other auras." />
-    </imgdir>

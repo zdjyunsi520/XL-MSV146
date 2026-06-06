@@ -1,7 +1,0 @@
-<imgdir name="2101001">
-        <string name="name" value="冥想" />
-        <string name="desc" value="通过冥想暂时提升附近全体队员的魔法攻击力~\n前置技能: #cMP吞噬 Lv. 3#" />
-        <string name="h" value="MP消耗: #mpCon, 队员魔法攻击力: +#indieMad, 持续时间: #time秒" />
-        <string name="pdesc" value="通过冥想暂时提升附近全体队员的战斗模式攻击力~\n前置技能: #cMP吞噬 Lv. 3#" />
-        <string name="ph" value="MP消耗: #mpCon, 队员战斗模式攻击力: +#PVPdamage, 持续时间: #time秒" />
-    </imgdir>

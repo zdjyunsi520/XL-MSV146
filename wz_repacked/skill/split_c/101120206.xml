@@ -1,5 +1,0 @@
-<imgdir name="101120206">
-        <string name="name" value="超级暴风斩(电场)" />
-        <string name="desc" value="超级暴风斩召唤的龙卷风路径上残留。持续伤害电场范围内的敌人。" />
-        <string name="h" value="每#x秒造成#damage%伤害，最大敌人数: #mobCount，持续时间: #time秒。" />
-    </imgdir>

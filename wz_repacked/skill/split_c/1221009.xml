@@ -1,8 +1,0 @@
-<imgdir name="1221009">
-        <string name="name" value="圣光强击" />
-        <string name="desc" value="对单体目标造成巨大伤害。#c如果所有元素冲锋都已充能，将暂时获得强力效果#~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount。\n所有元素冲锋充能时: 暴击率#cr%持续#time秒，无视防御: #ignoreMobpdpR%，总伤害: +#damR%" />
-        <string name="pdesc" value="对单体目标造成巨大伤害。#c如果所有元素冲锋都已充能，将暂时获得强力效果#~" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount。\n所有元素冲锋充能时: 暴击率#cr%持续#time秒，无视防御: #ignoreMobpdpR%，总伤害: +#damR%" />
-        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount。\n所有元素冲锋充能时: 暴击率#cr%持续#time秒，无视防御: #ignoreMobpdpR%，总伤害: +#damR%" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="24100003">
-        <string name="name" value="白卡" />
-        <string name="desc" value="每次暴击攻击有几率生成一张卡牌，自动攻击附近的敌人。#c这张卡牌会加入你的卡组。#" />
-        <string name="h" value="暴击成功时，以#prop%的几率生成卡牌，伤害：#damage%，#c卡组+1#" />
-    </imgdir>

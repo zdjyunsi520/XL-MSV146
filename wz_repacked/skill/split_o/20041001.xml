@@ -1,5 +1,0 @@
-<imgdir name="20041001">
-        <string name="name" value="Infiltrate" />
-        <string name="desc" value="Allows you to hide and remain undetected for a short time.\n#cCooldown: 1 min#" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Movement Speed: +#speed" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="3121013">
-        <string name="name" value="Arrow Blaster" />
-        <string name="desc" value="Shoots an arrow at a high angle. If you press and hold the skill key, it will fire continuously. While firing, #cuse the Up and Down arrow keys# to control the force of the shot. While the skill is casting, press Space Bar to set up Arrow Blaster at your location to fire arrows automatically. Also boosts the power of Hurricane." />
-        <string name="h" value="MP Cost: #mpCon, attack up to #mobCount enemies with #damage% damage. While casting, use Space Bar to set up Arrow Blaster, firing arrows that deal #v% damage for #u sec. When Hurricane is used, deals #s% damage. Other stats unchanged." />
-    </imgdir>

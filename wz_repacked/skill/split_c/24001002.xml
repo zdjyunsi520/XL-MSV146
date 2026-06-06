@@ -1,7 +1,0 @@
-<imgdir name="24001002">
-        <string name="name" value="幻影迅捷" />
-        <string name="desc" value="永久提升移动速度、最大移动速度和跳跃力。提升技能等级会增加跳跃距离。也可以用跳跃键使用。" />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Additional Jump distance \nPassive Effects - Movement Speed +#psdSpeed, Max Movement Speed +#speedMax, Jump +#psdJump" />
-        <string name="pdesc" value="永久提升移动速度、最大移动速度和跳跃力。提升技能等级会增加跳跃距离。也可以用跳跃键使用。" />
-        <string name="ph" value="Active Effects - MP Cost: #mpCon, Additional Jump distance \nPassive Effects - Movement Speed +#psdSpeed, Max Movement Speed +#speedMax, Jump +#psdJump" />
-    </imgdir>

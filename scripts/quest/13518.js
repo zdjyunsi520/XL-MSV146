@@ -9,13 +9,13 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 0) {
-	    qm.sendOk("Eh, I can't force you. You're missing out on some fantastic rewards, though!");
+	    qm.sendOk("呃，我不能勉强你。不过你会错过一些超棒的奖励哦！");
 	    qm.dispose();
 	}
 	status--
     }
     if (status == 0) {
-		qm.sendAcceptDeclineS("You're not alone! Now you can play the Game of Yut with your friends. You want to give it a shot now?",1);
+		qm.sendAcceptDeclineS("你不会孤单的！现在你可以和朋友一起玩尤茨游戏了。你想现在试试吗？",1);
     } else if (status == 1) {	   
 		qm.forceStartQuest();
 		qm.dispose();

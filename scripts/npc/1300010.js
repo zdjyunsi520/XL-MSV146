@@ -18,7 +18,7 @@ function action(mode, type, selection) {
         cm.dispose();
     } else {
 		if(status == 0 && mode == 0){
-			cm.sendNext("You have canceled the use of the item.");
+			cm.sendNext("你已取消使用该道具。");
 			cm.gainItem(2430014, 1);
 			cm.dispose();
 		}
@@ -28,11 +28,11 @@ function action(mode, type, selection) {
             status--;
 		}
 	if(status == 0){
-		cm.sendYesNo("Are you going to use the #bKiller Mushroom Spore#k?....#e#r* Take Note#n..Please do not apply directly on the body!..If swallowed, please see the nearest doctor!");
+		cm.sendYesNo("你要使用#b毒蘑菇孢子#k吗？....#e#r* 注意事项#n..请勿直接涂抹于身体！..如不慎吞食，请立即就医！");
 	}if(status == 1)
-		cm.PlayerToNpc("Awesome, the barrier is broken!!!");
+		cm.PlayerToNpc("太棒了，结界被打破了！！！");
 	if(status == 2){
-		cm.playerMessage("The Mushroom Forest Barrier has been removed, and penetrated.");
+		cm.playerMessage("蘑菇森林的结界已被移除并突破。");
 		cm.dispose();
 	}
 }

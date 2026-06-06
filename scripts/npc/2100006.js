@@ -30,7 +30,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple("Hahaha... it takes a lot of style and flair for someone to pay attention to his or her hairsyle in a desert. Someone like you...If you have #bAriant hair style coupon(VIP)#k or #bAriant hair color coupon(VIP)#k, I'll give your hair a fresh new look. \r\n#L0##bChange Hairstyle(VIP Coupon)#k#l \r\n#L1##bDye Hair(VIP Coupon)#k#l");
+			cm.sendSimple("哈哈哈……在沙漠里还能注意到自己发型的人，那得有多少品味和风采啊。像你这样的人……如果你有#b阿里安特发型优惠券（VIP）#k或#b阿里安特发色优惠券（VIP）#k，我来给你换个全新的造型。\r\n#L0##b更换发型（VIP优惠券）#k#l \r\n#L1##b染发（VIP优惠券）#k#l");
 		} else if (status == 1) {
 			if (selection == 0) {
 				beauty = 1;
@@ -47,7 +47,7 @@ function action(mode, type, selection) {
  % 10));
 					}
 				}
-				cm.sendStyle("Hahaha~all you need is #bAriant hair style coupon(VIP)#k to change up your hairstyle. Choose the new style, and let me do the rest.", hairnew);
+				cm.sendStyle("哈哈哈~你只需要#b阿里安特发型优惠券（VIP）#k就能改变发型。选择你想要的新风格，剩下的交给我。", hairnew);
 			} else if (selection == 1) {
 				beauty = 2;
 				haircolor = Array();
@@ -56,7 +56,7 @@ function action(mode, type, selection) {
 				for(var i = 0; i < 8; i++) {
 					haircolor.push(current + i);
 				}
-				cm.sendStyle("Every once in a while, it doesn't hurt to change up your hair color... it's fun. Allow me, the great Mazra, to dye your hair, so you just bring me #bAriant hair color coupon(VIP)#k, and choose your new hair color.", haircolor);
+				cm.sendStyle("偶尔换个发色也不错……很有趣的。让我——伟大的马兹拉——来为你染发，你只需要带上#b阿里安特发色优惠券（VIP）#k，然后选择你想要的新发色就行了。", haircolor);
 			}
 		}
 		else if (status == 2){
@@ -65,18 +65,18 @@ function action(mode, type, selection) {
 				if (cm.haveItem(5150027) == true){
 					cm.gainItem(5150027, -1);
 					cm.setHair(hairnew[selection]);
-					cm.sendOk("Enjoy your new and improved hairstyle!");
+					cm.sendOk("享受你全新的发型吧！");
 				} else {
-					cm.sendNext("I thought I told you, you need the coupon in order for me to work magic on your hair check again.");
+					cm.sendNext("我记得跟你说过，你需要优惠券我才能施展魔法，请再确认一下。");
 				}
 			}
 			if (beauty == 2){
 				if (cm.haveItem(5151022) == true){
 					cm.gainItem(5151022, -1);
 					cm.setHair(haircolor[selection]);
-					cm.sendOk("Enjoy your new and improved haircolor!");
+					cm.sendOk("享受你全新的发色吧！");
 				} else {
-					cm.sendNext("I thought I told you, you need the coupon in order for me to work magic on your hair check again.");
+					cm.sendNext("我记得跟你说过，你需要优惠券我才能施展魔法，请再确认一下。");
 				}
 			}
 		}

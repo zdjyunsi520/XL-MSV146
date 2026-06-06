@@ -27,7 +27,7 @@ function action(mode, type, selection) {
 			status--;
 		if (status == 0) {
 			cm.forceCompleteQuest(22015);
-			cm.playerMessage("You have rescued the Piglet.");
+			cm.playerMessage("你救出了小猪。");
 			cm.gainItem(4032449, 1);
 			cm.dispose();
 		}

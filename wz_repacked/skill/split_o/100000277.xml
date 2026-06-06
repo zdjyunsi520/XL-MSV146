@@ -1,5 +1,0 @@
-<imgdir name="100000277">
-        <string name="name" value="Doubletime Combat" />
-        <string name="desc" value="For every stack, gain 1% damage." />
-        <string name="h" value="When attacking, damage +#x% for #time sec. Max stacks: #maxLevel" />
-    </imgdir>

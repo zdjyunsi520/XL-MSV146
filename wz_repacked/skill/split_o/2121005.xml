@@ -1,7 +1,0 @@
-<imgdir name="2121005">
-        <string name="name" value="Ifrit" />
-        <string name="desc" value="Summons a Fire Ifrit that attacks multiple enemies for a short time. Also permanently increases mastery." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage% to up to 3 enemies. Permanently increases mastery by #mastery%" />
-        <string name="pdesc" value="Summons a Fire Ifrit that attacks multiple enemies for a short time. Also permanently increases mastery." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Damage: #damage% to up to 3 enemies. Permanently increases mastery by #mastery%" />
-    </imgdir>

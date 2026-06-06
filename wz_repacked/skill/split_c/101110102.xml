@@ -1,5 +1,0 @@
-<imgdir name="101110102">
-        <string name="name" value="高级暴风轮" />
-        <string name="desc" value="更强力的暴风轮，提升伤害并增加吸引怪物的能力。\n[前置技能]: #c暴风轮 Lv. 20#" />
-        <string name="h" value="时间之力消耗: 每秒#forceCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount, 持续时间: #time秒" />
-    </imgdir>

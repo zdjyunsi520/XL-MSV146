@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("I supposed you're about ready to become a Knight-in-Training. I'll send you to the Test Site, and remember, no slouching!");
+		qm.sendNext("我猜你差不多准备好成为见习骑士了。我会把你送到考场，记住，不要驼背！");
 	} else if (status == 1) {	
         qm.forceStartQuest();	
         qm.forceCompleteQuest();

@@ -1,7 +1,0 @@
-<imgdir name="5121007">
-        <string name="name" value="Octopunch" />
-        <string name="desc" value="Pummels enemies with supernatural punches. Damage increases when fully charged." />
-        <string name="h" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, when fully charged, damage increases by #damR%" />
-        <string name="pdesc" value="Pummels enemies with supernatural punches. Damage increases when fully charged." />
-        <string name="ph" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, when fully charged, damage increases by #damR%" />
-    </imgdir>

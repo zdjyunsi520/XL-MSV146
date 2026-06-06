@@ -1,5 +1,5 @@
 function start() {
-    cm.sendNextS("Huh? Who's that girl?", 17);
+    cm.sendNextS("嗯？那个女孩是谁？", 17);
 }
 
 function action(mode, type, selection) {

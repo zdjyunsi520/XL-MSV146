@@ -138,91 +138,91 @@ function start() {
         return;
     }
     //if (cm.getPlayerStat("LVL") >= 20 && cm.getPlayerStat("LVL") <= 30) {
-    //    text += "#0# Ariant Coliseum"; // Ariant Coliseum it got removed by nexon :(
+    //    text += "#0# 阿里安特竞技场"; // Ariant Coliseum it got removed by nexon :(
     //}
     if (cm.getPlayerStat("LVL") >= 90) {
-        text += "#1# Mu Lung Training Center";
+        text += "#1# 武陵修炼场";
     }
     //if (cm.getPlayerStat("LVL") >= 30) {
-    //    text += "#2# Monster Carnival 1";
+    //    text += "#2# 嘉年华1";
     //}
     //if (cm.getPlayerStat("LVL") >= 50) {
-    //    text += "#3# Monster Carnival 2";
+    //    text += "#3# 嘉年华2";
     //}
     if (cm.getPlayerStat("LVL") >= 95 && cm.getPlayerStat("LVL") <= 150) {
-        text += "#4# Sea of Fog";
+        text += "#4# 迷雾之海";
     }
     //if (cm.getPlayerStat("LVL") >= 40) {
-    //    text += "#5# Nett's Pyramid";
+    //    text += "#5# 奈特的金字塔";
     //}
     if (cm.getPlayerStat("LVL") >= 25 && cm.getPlayerStat("LVL") <= 30) {
-        text += "#6# Kerning Subway";
+        text += "#6# 废弃都市地铁";
     }
     if (EventConstants.Christmas) {
-        text += "#7# Happyville";
+        text += "#7# 快乐村";
     }
     if (EventConstants.Golden_Temple) {
-        text += "#8# Golden Temple";
+        text += "#8# 黄金神殿";
     }
     if (cm.getPlayerStat("LVL") >= 20) {
-        text += "#9# Moon Bunny";
+        text += "#9# 月兔";
     }
     if (cm.getPlayerStat("LVL") >= 20) {
-        text += "#10# First Time Together";
+        text += "#10# 初次相遇";
     }
     if (cm.getPlayerStat("LVL") >= 20) {
-        text += "#11# Dimensional Crack";
+        text += "#11# 次元裂缝";
     }
     if (cm.getPlayerStat("LVL") >= 70) {
-        text += "#12# Forest of Poison Haze";
+        text += "#12# 毒雾森林";
     }
     if (cm.getPlayerStat("LVL") >= 70) {
-        text += "#13# Remnant of the Goddess";
+        text += "#13# 女神的痕迹";
     }
     if (cm.getPlayerStat("LVL") >= 70) {
-        text += "#14# Lord Pirate";
+        text += "#14# 海盗王";
     }
     if (cm.getPlayerStat("LVL") >= 70) {
-        text += "#15# Romeo and Juliet";
+        text += "#15# 罗密欧与朱丽叶";
     }
     if (cm.getPlayerStat("LVL") >= 120) {
-        text += "#16# Resurrection of the Hoblin King";
+        text += "#16# 霍布林王复活";
     }
     if (cm.getPlayerStat("LVL") >= 120) {
-        text += "#17# Crimson Sky Dock"; // dragon rider pq
+        text += "#17# 绯红天空码头"; // dragon rider pq
     }
     if (EventConstants.Moon_Bunny) {
-        text += "#18# The Moon";
+        text += "#18# 月球";
     }
     if (EventConstants.Halloween) {
-        text += "#19# Haunted Mansion";
+        text += "#19# 鬼屋";
     }
     if (cm.getPlayerStat("LVL") >= 120) {
-        text += "#21# Kenta in Danger";
+        text += "#21# 肯塔的危险";
     }
     if (cm.getPlayerStat("LVL") >= 120) {
-        text += "#22# Escape"; //
+        text += "#22# 大逃亡"; //
     }
     if (cm.getPlayerStat("LVL") >= 30) {
-        text += "#23# Ice Knight"; //
+        text += "#23# 冰骑士"; //
     }
     if (cm.getPlayerStat("LVL") >= 75) {
-        text += "#25# Alliance Union";
+        text += "#25# 联盟";
     }
     if (EventConstants.Halloween) {
-        text += "#26# Halloween";
+        text += "#26# 万圣节";
     }
     if (cm.getPlayerStat("LVL") >= 13 && EventConstants.Old_Maple) {
-        text += "#87# Crack in the Dimensional Mirror";
+        text += "#87# 次元镜裂缝";
     }
     if (cm.getPlayerStat("LVL") >= 13 && cm.getMapId() != 600000000) {
-        text += "#88# New Leaf City";
+        text += "#88# 新叶城";
     }
     if (cm.getPlayerStat("LVL") >= 25 && cm.getPlayerStat("LVL") <= 40) {
-        text += "#98# Astaroth";
+        text += "#98# 阿斯塔罗斯";
     }
     if (EventConstants.Dragon_Nest) {
-        text += "#99# Nest of Dead dragon"; // 683010000
+        text += "#99# 死龙巢穴"; // 683010000
     }
     cm.sendSlideMenu(0, text);
 }

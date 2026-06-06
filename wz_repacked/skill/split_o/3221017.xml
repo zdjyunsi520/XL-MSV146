@@ -1,5 +1,0 @@
-<imgdir name="3221017">
-        <string name="name" value="Piercing Arrow" />
-        <string name="desc" value="Fires an arrow. Its effect increases with each enemy it hits." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Penetrated: #mobCount, Number of Attacks: #attackCount, damage increases by 1.2 times at every pierce" />
-    </imgdir>

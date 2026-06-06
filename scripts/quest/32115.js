@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendAcceptDecline("There's something weird over here. Should we check it out?");	
+	    qm.sendAcceptDecline("这里有些奇怪的东西。我们应该查看一下吗？");	
 	} else if (status == 1) { 
 		qm.forceStartQuest();
 		qm.gainItem(4033829,1);
@@ -28,9 +28,9 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("These costumes must be what the girls were working on in secret! I bet they were putting on that play we found! But how does this be into their disappearance?");
+	    qm.sendNext("这些服装一定是女孩们秘密制作的！我敢打赌她们正在排演我们找到的那个剧本！但这和她们的失踪有什么关系呢？");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Let's go back to the first floor and talk with the Headmistress.\r\n\r\n(#bGo to the 1st floor of Ellinel Fairy Academy.)");
+	    qm.sendNextPrev("我们回到一楼去和女校长谈谈吧。\r\n\r\n（#b前往艾丽涅精灵学院的一楼。）");
 	} else if (status == 2) {
 		qm.removeAll(4033829);
 		qm.forceCompleteQuest(32114);

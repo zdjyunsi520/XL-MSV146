@@ -1,5 +1,0 @@
-<imgdir name="100000276">
-        <string name="name" value="双倍时间侦查" />
-        <string name="desc" value="每层叠加获得3%暴击率。" />
-        <string name="h" value="攻击时暴击率+#x%，持续#time秒。最多叠加: #maxLevel层" />
-    </imgdir>

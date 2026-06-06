@@ -1,5 +1,0 @@
-<imgdir name="41110007">
-        <string name="name" value="无情之刃" />
-        <string name="desc" value="你的攻击会留下流血伤口，持续造成HP伤害。流血效果不会叠加，且不会使目标HP降至1以下。" />
-        <string name="h" value="状态异常概率：#prop%，每#dotInterval秒造成#dot%伤害，持续时间：#dotTime秒" />
-    </imgdir>

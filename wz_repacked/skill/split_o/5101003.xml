@@ -1,7 +1,0 @@
-<imgdir name="5101003">
-        <string name="name" value="Double Uppercut" />
-        <string name="desc" value="Performs 2 consecutive uppercuts and stuns the enemy." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
-        <string name="pdesc" value="Performs 2 consecutive uppercuts and stuns the enemy." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 2, Stun Chance: #prop%, Stun Duration: #time sec" />
-    </imgdir>

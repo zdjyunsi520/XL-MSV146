@@ -27,7 +27,7 @@ function action(mode, type, selection) {
     
     if (status == 0) {
         points = record.getCustomData() == null ? "0" : record.getCustomData();
-        cm.sendSimple("You currently have " + points + " Boss Party Quest points.\r\n\r\n #b#L0#Warp to Lobby#l  \r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0# \r\n#L2#Trade Bamboo Luck Sack for points(10000)#l\r\n#L3#Timeless Weapons#l\r\n#L4#Projectiles#l\r\n#L5#Other#l\r\n#L6#Abyss Armors#l\r\n#L7#Abyss Weapons#l\r\n#L8#Fearless Armors#l\r\n#L9#Fearless Weapons#l");
+        cm.sendSimple("Boss组队任务积分。\r\n\r\n#b#L0#传送到大厅#l\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#L2#用竹子福袋兑换积分（10000）#l\r\n#L3#永恒武器#l\r\n#L4#弹药#l\r\n#L5#其他#l\r\n#L6#深渊防具#l\r\n#L7#深渊武器#l\r\n#L8#无畏防具#l\r\n#L9#无畏武器#l " + points + "你要兑换多少");
     } else if (status == 1) {
         select = selection;
         switch (selection) {
@@ -37,7 +37,7 @@ function action(mode, type, selection) {
                 break;
             case 1:
             case 2:
-                cm.sendGetNumber("How many " + (selection == 1 ? "Enchanted Scrolls" : "Bamboo Luck Sacks") + " would you like to trade?\r\n", cm.itemQuantity(selection == 1 ? 5221001 : 3993002), 1, 100);
+                cm.sendGetNumber("附魔卷轴 " + (selection == 1 ? "竹子福袋" : "？\r\n") + "享受你的奖励 :P", cm.itemQuantity(selection == 1 ? 5221001 : 3993002), 1, 100);
                 break;
             case 3:
             case 4:
@@ -58,9 +58,9 @@ function action(mode, type, selection) {
                 intPoints += (pricemultipy * cm.itemQuantity(itemid));
                 record.setCustomData(""+intPoints+"");
                 cm.gainItem(itemid, -selection);
-                cm.sendOk("Enjoy your rewards :P");
+                cm.sendOk("请检查你是否有足够的物品或背包空间。");
             } else {
-                cm.sendOk("Please check if you have sufficient item, or inventory slot for it.");
+                cm.sendOk("从以下物品中选择：#b");
             }
         } else if (select >= 3 && select <= 9) {
             gainReward(intPoints, record, select - 3);
@@ -70,9 +70,9 @@ function action(mode, type, selection) {
 }
 
 function chooseItem(index) {
-    var choice = "Choose from any of the items below:#b";
+    var choice = "#兑换";
     for (var i = 0; i < items[index].length; i++)
-        choice += "\r\n#L" + i + "##i" + items[index][i][0] + "# Trade " + items[index][i][1] + " points (#z" + items[index][i][0] + "#)#l";
+        choice += "\r\n#L" + i + "##i" + items[index][i][0] + "积分（#z " + items[index][i][1] + "请检查你是否有足够的积分或背包空间。#b当前积分：" + items[index][i][0] + "#)#l";
     choice += "\r\n "
     cm.sendSimple(choice);
 }
@@ -82,9 +82,9 @@ function gainReward(intPoints, record, index) {
         intPoints -= items[index][sel][1];
         record.setCustomData(""+intPoints+"");
         cm.gainItem(items[index][sel][0], isProjectitle(items[index][sel][0]) ? (isBullet(items[index][sel][0]) ? 3000 : 1000) : 1); // 3000 for bullets, they're unrechargable
-        cm.sendOk("Enjoy your rewards :P");
+        cm.sendOk("请检查你是否有足够的物品或背包空间。");
     } else {
-        cm.sendOk("Please check if you have sufficient points, or inventory slot for it. #bCurrent Points : " + points);
+        cm.sendOk("请检查你是否有足够的积分或背包空间。#b当前积分： " + points);
     }
 }
 

@@ -1,7 +1,0 @@
-<imgdir name="31121001">
-        <string name="name" value="Demon Impact" />
-        <string name="desc" value="Call forth your inner demon to deal critical damage on multiple enemies in front of you. Your channel to the nether gives you a chance to ignore Enemy DEF and raises your chance for a critical. Final damage increases when fighting boss monsters." />
-        <string name="h" value="Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Additional Critical Rate: #cr%, Enemy Defense Ignored: #ignoreMobpdpR%, Final Damage against Boss Monster: +#bdR%" />
-        <string name="pdesc" value="Call forth your inner demon to deal critical damage on multiple enemies in front of you. Your channel to the nether gives you a chance to ignore Enemy DEF and raises your chance for a critical. Final damage increases when fighting boss monsters." />
-        <string name="ph" value="Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Additional Critical Rate: #cr%, Enemy Defense Ignored: #ignoreMobpdpR%, Final Damage against Boss Monster: +#bdR%" />
-    </imgdir>

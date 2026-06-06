@@ -1,7 +1,0 @@
-<imgdir name="3000002">
-        <string name="name" value="Archery Mastery" />
-        <string name="desc" value="Grants proficiency in the fundamentals of Archery. Increases Accuracy, Avoidability, Range, Speed, and Max Speed. You can use the skill without consuming arrows." />
-        <string name="h" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
-        <string name="pdesc" value="Grants proficiency in the fundamentals of Archery. Increases Accuracy, Avoidability, Range, Speed, and Max Speed. You can use the skill without consuming arrows." />
-        <string name="ph" value="Accuracy +#acc, Avoidability +#eva, Range +#range, Movement Speed +#speed, Max Movement Speed Increased to #u" />
-    </imgdir>

@@ -12,46 +12,46 @@ var choice, select, text, chargeType, hell;
 
 var options = Array("Common", "Cubes", "Equipments", "Effects");
 var common = [//Name, ID, Prepaid Price, Credit Price, Quantity
-["Super Megaphone", 5072000, 100, 350, 1], 
-["Mushroom House Elf", 5030000, 300, 300, 1],
-["The Robot Stand", 5030004, 300, 300, 1],
-["Scissors of Karma", 5520000, 2000, 2850, 1],
-["Platinum Scissors of Karma", 5520001, 2000, 3850, 1],
-["AP Reset", 5050000, 1200, 2500, 1],
-["Hyper Teleport Rock", 5040004, 1500, 2800, 1],
+["蘑菇房屋精灵", 5072000, 100, 350, 1], 
+["机器人支架", 5030000, 300, 300, 1],
+["命运之剪", 5030004, 300, 300, 1],
+["白金命运之剪", 5520000, 2000, 2850, 1],
+["Platinum 白金命运之剪", 5520001, 2000, 3850, 1],
+["高级传送石", 5050000, 1200, 2500, 1],
+["强化包", 5040004, 1500, 2800, 1],
 ["Chalkboard", 5370000, 150, 550, 1],
-["Booster Pack", 5220084, 5500, 10500, 1],
-["Tim's Lab", 5534000, 3500, 7500, 1],
-["Pam's song", 5640000, 25000, 55000, 1],
-["Protection Scroll", 2531000, 30500, 85000, 1],
+["蒂姆的实验室", 5220084, 5500, 10500, 1],
+["帕姆之歌", 5534000, 3500, 7500, 1],
+["保护卷轴", 5640000, 25000, 55000, 1],
+["外星插槽创造器", 2531000, 30500, 85000, 1],
 ["Microwave", 5060004, 2250, 3500, 1]
-["Alien Socket Creator", 2930000, 1000, 2000, 1]
+["奇迹方块（5个）", 2930000, 1000, 2000, 1]
 
 ];
 var cubes = [//Name, ID, Prepaid Price, Credit Price, Quantity
-["Miracle Cube (5)", 5062000, 3500, 9000, 5],
-["Premium Miracle Cube (3)", 5062001, 6150, 12000, 4],
-["Super Miracle Cube  (2) ", 5062002, 2500, 18350, 2],
-["Super Miracle Cube  (10) ", 5062002, 7500, 90650, 10],
-["Enlightening Miracle Cube (5)", 5062005, 8000, 60000, 5]
-["Alien Cube", 5750000, 15000, 8500, 1],
+["高级奇迹方块（3个）", 5062000, 3500, 9000, 5],
+["超级奇迹方块（2个）", 5062001, 6150, 12000, 4],
+["超级奇迹方块（10个） ", 5062002, 2500, 18350, 2],
+["启迪奇迹方块（5个） ", 5062002, 7500, 90650, 10],
+["Enlightening 高级奇迹方块（3个）", 5062005, 8000, 60000, 5]
+["石榴色渡鸦面具", 5750000, 15000, 8500, 1],
 ];
 var equipments = [//Name, ID, Prepaid Price, Credit Price, Quantity
 
-["Garnet Raven Persona", 1003422, 7500, 8500, 1],
-["Dark Force Horns (M)", 1000045, 3500, 4500, 1],
-["Dark Force Horns (F)", 1001068, 3500, 6500, 1],
-["Royal Crown", 1003084, 10000, 15000, 1],
-["Time Traveler's Luarel", 1003410, -1, 150000, 1],
-["Time Traveler Medal", 1142247, -1, 100000, 1],
-["100% Attack Scroll for Time Traveler Laurel", 2040051, 65000, -1, 1],
+["暗黑之力之角（男）", 1003422, 7500, 8500, 1],
+["暗黑之力之角（女）", 1000045, 3500, 4500, 1],
+["皇家王冠", 1001068, 3500, 6500, 1],
+["时空旅行者的桂冠", 1003084, 10000, 15000, 1],
+["时空旅行者勋章", 1003410, -1, 150000, 1],
+["时空旅行者桂冠100%攻击卷轴", 1142247, -1, 100000, 1],
+["摇滚乐队特效", 2040051, 65000, -1, 1],
 ];
 var effects = [//Name, ID, Prepaid Price, Credit Price, Quantity
-["Rock Band Effect", 5010064, 4000, 6000, 1],
-["Shining Star", 5010082, 4000, 6000, 1],
+["闪耀之星", 5010064, 4000, 6000, 1],
+["我的男朋友", 5010082, 4000, 6000, 1],
 ["Eyelighter", 5010043, 4000, 6000, 1],
-["My BoyFriend", 5010031, 2500, 5000, 1],
-["My GirlFriend", 5010032, 2500, 5000, 1]
+["我的女朋友", 5010031, 2500, 5000, 1],
+["你好 #e", 5010032, 2500, 5000, 1]
 ];
 
 function start() {
@@ -68,9 +68,9 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
         if (hell) {
-            text = "Hello #e" +colors[rand]+ "#h ##k!#n These monsters are extremely strong and you need my cash items or you shall perish with the rest!It is such a great day to buy my cash shop items!\r\nI have items you will not find anywhere else!\r\n#rI only accept #eNX Credit#n!#k\r\n";
+            text = "#h ##k！#n 这些怪物极其强大，你需要我的现金道具，否则就会和其他人一起灭亡！今天真是购买现金商城道具的好日子！\r\n我有你在其他地方找不到的道具！\r\n#r我只接受 #eNX点数#n！#k\r\n" +colors[rand]+ "#h ##k！#n 今天真是购买现金商城道具的好日子！\r\n我有你在其他地方找不到的道具！\r\n#r我只接受 #e预付NX#n！如果你想使用NX点数，请到10-12频道找我！#k\r\n";
         } else {
-            text = "Hello #e" +colors[rand]+ "#h ##k!#n It is such a great day to buy my cash shop items!\r\nI have items you will not find anywhere else!\r\n#rI only accept #ePrepaid NX#n! If you want to spend NX Credit talk to me in Channels 10-12!#k\r\n";
+            text = "#h ##k！#n 这些怪物极其强大，你需要我的现金道具，否则就会和其他人一起灭亡！今天真是购买现金商城道具的好日子！\r\n我有你在其他地方找不到的道具！\r\n#r我只接受 #eNX点数#n！#k\r\n" +colors[rand]+ "请选择你想要购买的商品：\r\n";
         }
         for (var i = 0; i < options.length; i++)
             text += colors[i]+ "#L" +i+ "#" +options[i]+ "#l\r\n";
@@ -90,29 +90,29 @@ function action(mode, type, selection) {
             case 3:
                 choice = effects;
         }
-        var text1 = "Please select what you wish you purchase:\r\n";
+        var text1 = "你确定要购买 #i";
         for (var i = 0; i < choice.length; i++) {
             if (choice[i][chargeType] < 0)
                 continue;
-            text1 += "#L" +i+ "##i" +choice[i][1]+ "# " +choice[i][0]+ " (" +numberWithCommas(choice[i][chargeType])+ " NX)#l\r\n";
+            text1 += "#L" +i+ "##i" +choice[i][1]+ "# " +choice[i][0]+ " (" +numberWithCommas(choice[i][chargeType])+ "你确定要购买 #i";
         }
         cm.sendSimple(text1);
     } else if (status == 2) {
         select = selection;
-        cm.sendYesNo("Are you sure you want to buy #i" +choice[selection][1]+ "# " +choice[selection][0]+ " (" +numberWithCommas(choice[selection][chargeType])+ " NX)?");
+        cm.sendYesNo(" NX) 吗？" +choice[selection][1]+ "# " +choice[selection][0]+ " (" +numberWithCommas(choice[selection][chargeType])+ "抱歉，你的NX不足。");
     } else if (status == 3) {
         var nxType = hell && cm.getPlayer().getCSPoints(1) > choice[select][chargeType] ? 1 : !hell && cm.getPlayer().getCSPoints(4) > choice[select][chargeType] ? 4 : 0;
         if (nxType == 0)
-            cm.sendOk("Sorry, you do not have enough NX.");
+            cm.sendOk("抱歉，你的背包空间不足。");
         else if (!cm.canHold(choice[select][1], choice[select][4])) {
-            cm.sendOk("Sorry, you do not have enough space.");
+            cm.sendOk("尽量别死在我面前！");
         } else {
             cm.getPlayer().modifyCSPoints(nxType, -choice[select][chargeType], true);
             cm.gainItem(choice[select][1], choice[select][4]);
             if (hell)
-                cm.sendOk("Try not to die on me!");
+                cm.sendOk("感谢你的购买！");
             else
-                cm.sendOk("Thank you for your purchase!");
+                cm.sendOk("感谢你的购买！");
         }
         cm.dispose();
     }

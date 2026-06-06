@@ -8,9 +8,9 @@ function start(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	qm.sendNext("Well hello my friend, I'm #bBjorn!#k, I need some help could you mind to help me?");
+	qm.sendNext("你好朋友，我是#b比约恩！#k，我需要一些帮助，你能帮帮我吗？");
     } else if (status == 1) {
-	qm.sendAcceptDecline("Oh right!, Thank you so much, but are you sure you are ready?");
+	qm.sendAcceptDecline("哦对了！非常感谢，但你确定你准备好了吗？");
     } else if (status == 2) {
 	qm.forceStartQuest();
 	qm.dispose();

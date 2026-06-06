@@ -1,8 +1,0 @@
-<imgdir name="2301002">
-        <string name="name" value="Heal" />
-        <string name="desc" value="Restores the HP of all surrounding party members. Monsters within the skill range are inflicted with the effect that increases incoming damage for a short duration. Undead monsters take additional damage." />
-        <string name="h" value="MP Cost: #mpCon, Recovery: #hp%, up to #u surrounding monsters receives #x% extra damage. Deals #damage% damage to up to #u Undead monsters" />
-        <string name="pdesc" value="Restores the HP of all surrounding party members. Monsters within the skill range are inflicted with the effect that increases incoming damage for a short duration. Undead monsters take additional damage." />
-        <string name="ph" value="MP Cost: #mpCon, Recovery: #hp%, up to #u surrounding monsters receives #x% extra damage. Deals #damage% damage to up to #u Undead monsters" />
-        <string name="hch" value="MP Cost: #mpCon, Recovery: #hp%, up to #u surrounding monsters receives #x% extra damage. Deals #damage% damage to up to #u Undead monsters" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="2321001">
-        <string name="name" value="Big Bang" />
-        <string name="desc" value="Gathers power to form an energy vortex, culminating in a powerful #cHoly# explosion that decreases enemy DEF if the skill is fully charged when cast. DEF reduction effect can be stacked." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemy Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, When casting the fully charged skill: DEF #x% for #time sec. Can be stacked up to #y time(s)." />
-        <string name="pdesc" value="Gathers power to form an energy vortex, culminating in a powerful #cHoly# explosion that decreases enemy DEF if the skill is fully charged when cast. DEF reduction effect can be stacked." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemy Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, When casting the fully charged skill: DEF #x% for #time sec. Can be stacked up to #y time(s)." />
-    </imgdir>

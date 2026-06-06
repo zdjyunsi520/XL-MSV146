@@ -1,7 +1,0 @@
-<imgdir name="4211004">
-        <string name="name" value="Band of Thieves" />
-        <string name="desc" value="Summons allies to attack multiple monsters nearby." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
-        <string name="pdesc" value="Summons allies to attack multiple monsters nearby." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

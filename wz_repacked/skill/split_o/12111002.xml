@@ -1,7 +1,0 @@
-<imgdir name="12111002">
-        <string name="name" value="Seal" />
-        <string name="desc" value="Seals up to 6 enemies nearby for a given duration.\nRequired Skill: #cElement Amplification Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Seal Chance: #prop%, Duration: #time sec" />
-        <string name="pdesc" value="Temporarily seals nearby enemies.\nRequired Skill: #cElement Amplification Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Seal Chance: #prop%, Seal Duration: #time sec, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec" />
-    </imgdir>

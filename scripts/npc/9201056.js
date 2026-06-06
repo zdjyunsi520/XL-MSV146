@@ -13,7 +13,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 2 && mode == 0) {
-	cm.sendOk("Alright, see you next time.");
+	cm.sendOk("去哪里，老板？ \r\n#L0#新叶城#l\r\n#L1#鬼屋#l");
 	cm.dispose();
 	return;
     }
@@ -26,15 +26,15 @@ function action(mode, type, selection) {
     }
     else if (cm.getMapId() == 682000000) {
 	if (status == 0) {
-	    cm.sendSimple ("Where to, boss? \r\n#L0#New Leaf City#l\r\n#L1#Haunted Mansion#l");
+	    cm.sendSimple ("你想去新叶城吗？");
 	}
 	else if (status == 1) {
 	    if (selection == 0) {
 		goToMansion = false;
-		cm.sendYesNo ("You want to go to New Leaf City?");
+		cm.sendYesNo ("你确定要进入鬼屋吗？");
 	    } else {
 		goToMansion = true;
-		cm.sendYesNo ("You're sure you want to enter the Mansion?");
+		cm.sendYesNo ("你想去鬼屋吗？");
 	    }
 	}
 	else if (status == 2) {
@@ -51,9 +51,9 @@ function action(mode, type, selection) {
 	
     else {
 	if (status == 0){
-	    cm.sendYesNo ("Would you like to go to the haunted mansion?");
+	    cm.sendYesNo ("你想去鬼屋吗？");
 	}	else if (status == 1){
-	    cm.sendNext ("Alright, see you next time.");
+	    cm.sendNext ("去哪里，老板？ \r\n#L0#新叶城#l\r\n#L1#鬼屋#l");
 	} else if (status == 2) {
 	    cm.warp (682000000, 0);
 	    cm.dispose();

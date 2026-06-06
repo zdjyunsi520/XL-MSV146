@@ -1,5 +1,0 @@
-<imgdir name="27001005">
-        <string name="name" value="魔法窃取" />
-        <string name="pdesc" value="你的攻击使敌人对魔法攻击变得脆弱，在被减益期间增加所有魔法伤害。" />
-        <string name="ph" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
-    </imgdir>

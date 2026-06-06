@@ -1,8 +1,0 @@
-<imgdir name="35111011">
-        <string name="name" value="Healing Robot H-LX" />
-        <string name="desc" value="Summons the stationary bot H-LX to heal nearby party members with its special built-in detection sensor. Once healed, party member cannot receive another heal for 5 seconds. The H-LX self-destructs when it runs out of power." />
-        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec, Party HP Healed: #hp%,  Self-Destruct Damage: #selfDestruction%, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons the stationary bot H-LX to heal nearby team members with its special built-in detection sensor. Once healed, team members cannot receive another heal for 5 seconds. The H-LX self-destructs when it runs out of power." />
-        <string name="ph" value="MP Cost: #mpCon, Summon Duration: #time sec, Party HP Healed: #hp%,  Self-Destruct Damage: #selfDestruction% d\n#cCooldown: #cooltime sec# sec" />
-        <string name="hch" value="MP Cost: #mpCon, Summon Duration: #time sec, Party HP Healed: #hcHp%,  Self-Destruct Damage: #selfDestruction% d\n#cCooldown: #hcCooltime sec#" />
-    </imgdir>

@@ -74,13 +74,13 @@ function monsterValue(eim, mobId) { // Killed monster.
        return;               // they've gotta kill pap yet ;D
 
     var map = getMap(eim);
-    map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[Event] " + "Congratulations on killing " + bossname[stage] + "."));
+    map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[活动] " + "恭喜击杀 " + bossname[stage] + "。"));
     stage++;
     if (stage > bossid.length - 1)   //arrays start at 0, length starts at 1
        finishEvent(eim);
     else
     {
-         map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[Event] " + "Next up: " + bossname[stage] + ", spawning in " + monsterdelay / 1000 + " seconds."));
+         map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[活动] " + "下一个: " + bossname[stage] + "，将在 " + monsterdelay / 1000 + " 秒后出现。"));
          //spawnNextBoss(eim);
          eim.schedule("spawnNextBoss", monsterdelay);
     }

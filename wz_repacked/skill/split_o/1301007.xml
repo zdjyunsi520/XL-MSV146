@@ -1,7 +1,0 @@
-<imgdir name="1301007">
-        <string name="name" value="Hyper Body" />
-        <string name="desc" value="Increases the Max HP and Max MP of party members for a short time.\nRequired Skill: #cIron Will Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Max HP and Max MP: +#x%, Duration: #time sec" />
-        <string name="pdesc" value="Increases the Max HP and Max MP of team members for a short time.\nRequired Skill: #cIron Will Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Max HP and Max MP for team members: +#x%, Duration: #time sec" />
-    </imgdir>

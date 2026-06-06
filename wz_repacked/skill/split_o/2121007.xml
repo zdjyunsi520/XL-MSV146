@@ -1,8 +1,0 @@
-<imgdir name="2121007">
-        <string name="name" value="Meteor Shower" />
-        <string name="desc" value="Summons meteorites from the sky to inflict powerful fire damage on multiple enemies. If you attack while Meteor Shower is in cooldown, #ca meteorite will fall on a single enemy to deal damage#." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with a meteorite#]" />
-        <string name="pdesc" value="Summons meteorites from the sky to inflict powerful fire damage on multiple enemies. If you attack while Meteor Shower is in cooldown, #ca meteorite will fall on a single enemy to deal damage#." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with a meteorite#]" />
-        <string name="hch" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with a meteorite#]" />
-    </imgdir>

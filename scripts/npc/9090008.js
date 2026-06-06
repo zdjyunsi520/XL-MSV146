@@ -4,6 +4,6 @@
  */
 
 function action(mode, type, selection) {
-    cm.sendOk("I can answer your questions on the wedding hall.");
+    cm.sendOk("我可以回答你关于结婚礼堂的问题。");
     cm.dispose();
 }

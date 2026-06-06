@@ -1,8 +1,0 @@
-<imgdir name="2211004">
-        <string name="name" value="封印术" />
-        <string name="desc" value="在一段时间内封印附近最多6个敌人。\n需要技能：#c元素放大 Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Seal Chance: #prop%, Duration: #time sec" />
-        <string name="pdesc" value="暂时封印附近的敌人。\n需要技能：#c元素放大 Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Seal Chance: #prop%, Seal Duration: #time sec, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Seal Chance: #hcProp%, Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

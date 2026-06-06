@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 			cm.sendDirectionInfo("Effect/Direction5.img/effect/mercedesQuest/merBalloon/0");
 			cm.sendDirectionStatus(1, 2000);
 			cm.sendDirectionInfo("Effect/Direction5.img/effect/mercedesQuest/merBalloon/1");
-			cm.sendPlayerToNpc("Wait... something doesn't feel right.. about.. my level? LEVEL 10?!");
+			cm.sendPlayerToNpc("等等……有什么不对劲……关于……我的等级？等级10？！");
 		} else {
 			cm.EnableUI(0);
 			cm.DisableUI(false);

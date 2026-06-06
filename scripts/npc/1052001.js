@@ -15,7 +15,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (mode == 0 && status == 2) {
-	cm.sendOk("You know there is no other choice...");
+	cm.sendOk("你知道没有其他选择……");
 	cm.dispose();
 	return;
     }
@@ -30,9 +30,9 @@ function action(mode, type, selection) {
 	}
 	if (cm.getJob() == 0) {
 	    if (cm.getPlayerStat("LVL") >= 10 && cm.getJob() == 0)
-		cm.sendNext("So you decided to become a #rThief#k?");
+		cm.sendNext("所以你决定成为一名#r飞侠#k了？");
 	    else {
-		cm.sendOk("Train a bit more and I can show you the way of the #rThief#k.")
+		cm.sendOk("再训练一段时间吧，然后我就可以指引你走上#r飞侠#k的道路。")
 		cm.dispose();
 	    }
 	} else {
@@ -41,36 +41,36 @@ function action(mode, type, selection) {
 		    cm.completeQuest(100011);
 		    if (cm.getQuestStatus(100011) == 2) {
 			status = 20;
-			cm.sendNext("I see you have done well. I will allow you to take the next step on your long road.");
+			cm.sendNext("我看你做得很好。我允许你在漫长的旅途中迈出下一步。");
 		    } else {
 			if (!cm.haveItem(4031011)) {
 			    cm.gainItem(4031011, 1);
 			}
-			cm.sendOk("Go and see the #rJob Instructor#k.")
+			cm.sendOk("去见#r职业教官#k吧。")
 			cm.dispose();
 		    }
 		} else {
 		    status = 10;
-		    cm.sendNext("The progress you have made is astonishing.");
+		    cm.sendNext("你取得的进步令人惊叹。");
 		}
 	    } else if (cm.getQuestStatus(100100) == 1) {
 		cm.completeQuest(100101);
 		if (cm.getQuestStatus(100101) == 2) {
-		    cm.sendOk("Alright, now take this to #bArec#k.");
+		    cm.sendOk("好的，现在把这个带给#b阿雷克#k。");
 		} else {
-		    cm.sendOk("Hey, #b#h0##k! I need a #bBlack Charm#k. Go and find the Door of Dimension.");
+		    cm.sendOk("嘿，#b#h0##k！我需要一枚#b黑色符咒#k。去找次元之门吧。");
 		    cm.startQuest(100101);
 		}
 		cm.dispose();
 	    } else {
-		cm.sendOk("You have chosen wisely.");
+		cm.sendOk("你做出了明智的选择。");
 		cm.dispose();
 	    }
 	}
     } else if (status == 1) {
-	cm.sendNextPrev("It is an important and final choice. You will not be able to turn back.");
+	cm.sendNextPrev("这是一个重要且最终的选择。你将无法回头。");
     } else if (status == 2) {
-	cm.sendYesNo("Do you want to become a #rThief#k?");
+	cm.sendYesNo("你想成为一名#r飞侠#k吗？");
     } else if (status == 3) {
 	if (cm.getJob() == 0) {
 	    cm.resetStats(4, 25, 4, 4);
@@ -85,20 +85,20 @@ function action(mode, type, selection) {
 	cm.gainItem(1332063,1);
 	cm.gainItem(1472000,1);
 	cm.gainItem(2070015, 500);
-	cm.sendNext("So be it! Now go, and go with pride.");
+	cm.sendNext("就这样吧！现在出发吧，带着荣耀前进。");
 	cm.fakeRelog();
 	cm.dispose();
     } else if (status == 11) {
-	cm.sendNextPrev("You may be ready to take the next step as a #rAssassin#k or #rBandit#k.");
+	cm.sendNextPrev("你可能准备好迈出下一步，成为#r刺客#k或#r侠客#k了。");
     } else if (status == 12) {
-	cm.askAcceptDecline("But first I must test your skills. Are you ready?");
+	cm.askAcceptDecline("但首先我必须考验你的实力。你准备好了吗？");
     } else if (status == 13) {
 	cm.startQuest(100009);
 	cm.gainItem(4031011, 1);
-	cm.sendOk("Go see the #bJob Instructor#k somewhere in the city. He will show you the way.");
+	cm.sendOk("去城里某处找#b职业教官#k吧。他会指引你的。");
 	cm.dispose();
     } else if (status == 21) {
-	cm.sendSimple("What do you want to become?#b\r\n#L0#Assassin#l\r\n#L1#Bandit#l#k");
+	cm.sendSimple("你想成为什么？#b\r\n#L0#刺客#l\r\n#L1#侠客#l#k");
     } else if (status == 22) {
 	var jobName;
 	if (selection == 0) {
@@ -108,11 +108,11 @@ function action(mode, type, selection) {
 	    jobName = "Bandit";
 	    job = 420; // BANDIT
 	}
-	cm.sendYesNo("Do you want to become a #r" + jobName + "#k?");
+	cm.sendYesNo("你想成为一名#r" + jobName + "#k?");
     } else if (status == 23) {
 	cm.changeJob(job);
 	cm.gainItem(4031012, -1);
-	cm.sendOk("So be it! Now go, my servant.");
+	cm.sendOk("就这样吧！现在出发吧，我的仆从。");
 	cm.dispose();
     }
 }	

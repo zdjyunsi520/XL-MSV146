@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendAcceptDecline("The girls dormitories are laid out just like the boys', on the end of each floor. I don't know if I'm supposed to be looking around in ladies' rooms though.?");	
+	    qm.sendAcceptDecline("女生宿舍的布局和男生一样，在每层的两端。不过我不知道该不该在女士房间里四处看……");	
 	} else if (status == 1) { 
-	    qm.sendNext("We must do what must be done to complete this investigation! (Cootie's blushing for some reason...)\r\n\r\nPlease look around the dormitories on the third floor for me.");
+	    qm.sendNext("为了完成调查，我们必须做该做的事！（库蒂不知为什么脸红了……）\r\n\r\n请帮我在三楼宿舍四处查看。");
 	} else if (status == 2) { 
 		qm.forceStartQuest();
 		qm.gainExp(4000);
@@ -30,9 +30,9 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("You found a script? Let me take a look at that.\r\n\r\n...Well, there are some obvious problems in the the first act, and the All-You-Can-Eat Sundae Bar scene seems a little tacked on, but this is a fine example of fairy entertainment. Why did the kids have this?");
+	    qm.sendNext("你找到了一个剧本？让我看看。\r\n\r\n……嗯，第一幕有一些明显的问题，那个自助冰淇淋圣代吧的场景看起来有点硬加上去的，但这是精灵娱乐的佳作。孩子们怎么会有这个？");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Let's investigate the third floor! Maybe we'll find something else.\r\n\r\n(#bTalk to #e#p1500000##k#n on the 3rd floor of Ellinel Fairy Academy.)");
+	    qm.sendNextPrev("让我们去三楼调查一下！也许我们会发现其他东西。\r\n\r\n（#b在艾丽涅精灵学院三楼与#e#p1500000##k#n交谈。）");
 	} else if (status == 2) {
 		qm.removeAll(4033828);
 		qm.forceCompleteQuest();

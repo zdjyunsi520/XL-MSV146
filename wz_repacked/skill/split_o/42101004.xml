@@ -1,5 +1,0 @@
-<imgdir name="42101004">
-        <string name="name" value="Burning Shikigami Haunting" />
-        <string name="desc" value="Channels Kagu-tsuchi, the god of fire, to add fire energy to Shikigami Haunting." />
-        <string name="h" value="Active Effect: Mana Cost: #epCon, Duration: #time sec. Shikigami Haunting has a #prop% chance to deal #dot% damage for #dotTime sec during the 3 hits.\nPassive Effect: Shikigami Haunting Damage: +#damR%" />
-    </imgdir>

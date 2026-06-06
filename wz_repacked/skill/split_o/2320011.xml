@@ -1,5 +1,0 @@
-<imgdir name="2320011">
-        <string name="name" value="Arcane Aim" />
-        <string name="desc" value="Ignores a portion of enemy Defense when attacking. Damage dealt increases with consecutive attacks. Stacks up to 5 times." />
-        <string name="h" value="Ignores #ignoreMobpdpR% of enemy DEF. When attacking enemy 3 or more times, damage will increase by #x% with #prop% probability. Damage increase effect will accumulate up to #y times." />
-    </imgdir>

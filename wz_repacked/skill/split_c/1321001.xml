@@ -1,8 +1,0 @@
-<imgdir name="1321001">
-        <string name="name" value="怪物磁铁" />
-        <string name="desc" value="攻击时将多个怪物拉向你。被拉来的怪物会在一段时间内眩晕。需要技能手册才能精通到30级。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Pulled: #mobCount, Stun Duration: #time sec" />
-        <string name="pdesc" value="攻击时将多个怪物拉向你。被拉来的怪物会在一段时间内眩晕。" />
-        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Damage: #damage%, Max Enemies Pulled: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Success Rate: #prop%, Damage: #damage%, Max Enemies Pulled: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

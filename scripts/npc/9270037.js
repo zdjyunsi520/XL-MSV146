@@ -26,30 +26,30 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-        var msg = "Hi what would you like to exchange?\r\n";
-        msg += "#b#L0#I would like to exchange Maple Leaf Gold.\r\n";
-        msg += "#L1#I would like to exchange Maple Points.\r\n";
-        msg += "#L2#I would like to exchange Golden Maple Leaf.\r\n";
-        msg += "#L3#I would like to exchange Mesos.#l";
+        var msg = "#b#L0#我想兑换枫叶金。\r\n";
+        msg += "#L1#我想兑换枫叶点数。\r\n";
+        msg += "#L2#我想兑换黄金枫叶。\r\n";
+        msg += "#L3#我想兑换金币。#l";
+        msg += "你想把多少枫叶金兑换成NX？";
 	    cm.sendSimple(msg)
     }
     else if(status == 1 && selection == 0){ // MLG to NX
         npcIndex = selection;
-        cm.sendGetNumber("How many maple leaf gold do you want to exchange to NX?", 1, 1, 200);
+        cm.sendGetNumber("你确定要兑换", 1, 1, 200);
     }
     else if(status == 2 && npcIndex == 0){
         amount = selection;
-        var confirm = "Are you sure you want to exchange " + amount + " MLGs? #i " + mlg + "#\r\n";
+        var confirm = "枚枫叶金吗？#i " + amount + "你没有足够的枫叶金来兑换那么多。 " + mlg + "#\r\n";
         cm.sendYesNo(confirm)
     }
     else if(status == 3 && npcIndex == 0){
         if(cm.getQuantityOfItem(mlg) < amount){
-            cm.sendOk("You do not have the necessary Maple Leaf Gold to exchange that much.");
+            cm.sendOk("兑换成功，你失去了");
             return cm.dispose();
         }
         cm.gainItem(mlg, -amount)
         cm.getChar().gainMaplePoints(1000000 * amount);
-        cm.sendOk("Exchange successful, you lost " + amount + " MLGs.");
+        cm.sendOk("枚枫叶金。 " + amount + "你想把多少枫叶金兑换成NX？");
         return cm.dispose();
     }
 
@@ -57,21 +57,21 @@ function action(mode, type, selection) {
 
     else if(status == 1 && selection == 1){ // NX to MLG
         npcIndex = selection;
-        cm.sendGetNumber("How many Maple Leaf Golds would you like to exchange for NX?", 1, 1, 200);
+        cm.sendGetNumber("NX来兑换", 1, 1, 200);
     }
     else if(status == 2 && npcIndex == 1){
         amount = selection;
-        var confirm = "Are you sure you want to exchange "+ 1200000 * amount + " NX for " + amount + " MLGs? #i " + mlg + "#\r\n#r20% Tax Rate";
+        var confirm = "枚枫叶金吗？#i "+ 1200000 * amount + "#\r\n#r20%税率 " + amount + "你没有足够的枫叶金来兑换那么多。 " + mlg + "你没有足够的NX来兑换那么多枫叶金。";
         cm.sendYesNo(confirm)
     }
     else if(status == 3 && npcIndex == 1){
         if(cm.getChar().getMaplePoints() <  1200000 * amount){
-            cm.sendOk("You do not have the enough NX to exchange for that much MLGs.");
+            cm.sendOk("You do not have the enough NX to exchange for that much你想把多少枫叶金兑换成NX？");
             return cm.dispose();
         }
         cm.getChar().gainMaplePoints(1200000 * -amount);
         cm.gainItem(mlg, amount)
-        cm.sendOk("Exchange successful, you lost " + amount * 1200000 + " NX.");
+        cm.sendOk("枚枫叶金。 " + amount * 1200000 + "你想把多少黄金枫叶兑换成金币？");
         return cm.dispose();
     }
 
@@ -79,21 +79,21 @@ function action(mode, type, selection) {
 
     else if(status == 1 && selection == 2){ // GML to Meso
         npcIndex = selection;
-        cm.sendGetNumber("How many Golden Maple Leaf would you like to exchange to Meso?", 1, 1, 200);
+        cm.sendGetNumber("枚黄金枫叶？#i", 1, 1, 200);
     }
     else if(status == 2 && npcIndex == 2){
             amount = selection;
-            var confirm = "Are you sure you want to exchange " + amount + " GMLs? #i " + gml + "#\r\n";
+            var confirm = "枚枫叶金吗？#i " + amount + "枚黄金枫叶。 " + gml + "#\r\n";
             cm.sendYesNo(confirm)
      }
     else if(status == 3 && npcIndex == 2){
         if(cm.getQuantityOfItem(gml) < amount){
-            cm.sendOk("You do not have the necessary Maple Leaf Gold to exchange that much.");
+            cm.sendOk("兑换成功，你失去了");
             return cm.dispose();
         }
         cm.gainItem(gml, -amount)
         cm.gainMeso(1000000000 * amount);
-        cm.sendOk("Exchange successful, you lost " + amount + " GMLs.");
+        cm.sendOk("枚枫叶金。 " + amount + "你想把多少黄金枫叶兑换成金币？");
         return cm.dispose();
     }
 
@@ -101,21 +101,21 @@ function action(mode, type, selection) {
 
     else if(status == 1 && selection == 3){ // Meso to GML
          npcIndex = selection;
-         cm.sendGetNumber("How many Golden Maple Leaf would you like to exchange for Meso?", 1, 1, 200)
+         cm.sendGetNumber("金币来兑换", 1, 1, 200)
     }
     else if(status == 2 && npcIndex == 3){
             amount = selection;
-            var confirm = "Are you sure you want to exchange "+ 1200000000 * amount + " Mesos for " + amount + " GMLs? #i " + gml + "#\r\n#r20% Tax Rate";
+            var confirm = "枚枫叶金吗？#i "+ 1200000000 * amount + "你没有足够的金币来兑换那么多黄金枫叶。 " + amount + "枚黄金枫叶。 " + gml + "你没有足够的NX来兑换那么多枫叶金。";
             cm.sendYesNo(confirm)
     }
     else if(status == 3 && npcIndex == 3){
         if(cm.getMeso() <  1200000000 * amount){
-            cm.sendOk("You do not have the enough Mesos to exchange for that much GMLs.");
+            cm.sendOk("You do not have the enough Mesos to exchange for that much你想把多少黄金枫叶兑换成金币？");
             return cm.dispose();
         }
         cm.gainMeso(1200000000 * -amount);
         cm.gainItem(gml, amount)
-        cm.sendOk("Exchange successful, you lost " + amount * 1200000000 + " Mesos.");
+        cm.sendOk("枚枫叶金。 " + amount * 1200000000 + "金币。");
         return cm.dispose();
     }
 }

@@ -14,9 +14,9 @@ function start(mode, type, selection) {
 	    status--;
 
 	if (status == 0) {
-	    qm.sendYesNo("Mihile, cau thuc su manh me. Cau da san sang nhan suc manh moi roi chu?");
+	    qm.sendYesNo("米哈逸，你真的很强大。你准备好接受新的力量了吗？");
 	} else if (status==1){
-            qm.sendNext("Hay su dung suc manh 1 cach thong minh va giup do nhung nguoi khac nua nhe!");
+            qm.sendNext("请明智地使用你的力量，并继续帮助其他人！");
             qm.forceCompleteQuest();
             qm.changeJob(5110);
         }

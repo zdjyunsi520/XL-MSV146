@@ -1,8 +1,0 @@
-<imgdir name="1221004">
-        <string name="name" value="神圣冲锋" />
-        <string name="desc" value="瞬间赋予武器神圣属性，对敌人造成神圣伤害并使其沉默。#c用闪电冲锋攻击被击倒的敌人可造成更多伤害#~" />
-        <string name="pdesc" value="瞬间赋予武器神圣属性，对敌人造成神圣伤害并使其沉默。#c用闪电冲锋攻击被击倒的敌人可造成更多伤害#~" />
-        <string name="h" value="MP消耗: #mpCon。最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。#prop%几率使敌人沉默#time秒。#c用闪电冲锋攻击被击倒的敌人造成#z%额外伤害#。" />
-        <string name="ph" value="MP消耗: #mpCon。最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。#prop%几率使敌人沉默#time秒。#c用闪电冲锋攻击被击倒的敌人造成#z%额外伤害#。" />
-        <string name="hch" value="MP消耗: #mpCon。最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。#prop%几率使敌人沉默#time秒。#c用闪电冲锋攻击被击倒的敌人造成#z%额外伤害#。" />
-    </imgdir>

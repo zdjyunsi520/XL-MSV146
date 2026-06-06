@@ -1,5 +1,0 @@
-<imgdir name="27000003">
-        <string name="name" value="Standard Magic Guard" />
-        <string name="desc" value="Converts a portion of damage dealt to you so it affects your MP instead of your HP. Permanently increases Physical and Magic DEF." />
-        <string name="h" value="#x% of damage affects MP instead of HP. If your MP reaches 0, your HP takes the full amount of damage.\nPassive affect: Physical/Magic DEF increased by #pddX" />
-    </imgdir>

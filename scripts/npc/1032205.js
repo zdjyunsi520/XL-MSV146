@@ -8,11 +8,11 @@ function start(mode, type, selection) {
 	if (mode == 1)
 	    status++;
 	if (status == 0) {
-	    cm.sendNext("(I feel the Light and Dark within me coming together, merging into a new kind of energy)");
+	    cm.sendNext("（我感觉体内的光与暗正在融合，汇聚成一种全新的能量）");
     } else if (status == 1) {
-	    cm.sendNext("(I've reached a new level of balance between Light and Dark)");
+	    cm.sendNext("（我已经达到了光与暗之间新的平衡境界）");
     } else if (status == 2) {
-	   // qm.sendPrev("The Dark and Light magic that run thou");
+	   // qm.sendPrev("流经你的暗与光的魔法");
 	    cm.forceStartQuest();
 	    cm.forceCompleteQuest();
 	//	qm.gainItem(2430874, 1);

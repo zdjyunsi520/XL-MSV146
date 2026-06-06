@@ -1,5 +1,0 @@
-<imgdir name="100001275">
-        <string name="name" value="Drop Time" />
-        <string name="desc" value="Damages enemies while stopping time to immobilize them." />
-        <string name="h" value="Time Force Cost: #forceCon.,Damage:  #damage%, Max Enemies Hit: #mobCount, Attack count: #attackCount\nTargets immobilized for:  #time" />
-    </imgdir>

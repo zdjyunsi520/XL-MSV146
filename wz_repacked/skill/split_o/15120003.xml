@@ -1,5 +1,0 @@
-<imgdir name="15120003">
-        <string name="name" value="Typhoon" />
-        <string name="desc" value="Maximizes energy collection from using linked skills, transforming it into a devastating typhoon. Passive skill that enhances Gale.\nRequired Skill: #cGale Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Available only after #x accumulated Lightning Buff. Damage increase for every Lightning Buff: #y%, Duration: #time sec.This skill does not activate Lightning buff.\nCooldown: #cooltime sec." />
-    </imgdir>

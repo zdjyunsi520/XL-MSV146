@@ -1,5 +1,0 @@
-<imgdir name="61121105">
-        <string name="name" value="Inferno Breath" />
-        <string name="desc" value="Summons an ancient dragon that breathes fire, leaving a a trail of fire that deals continuous damage to those on it." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Continuous Damage Dealt Afterwards\nCooldown: #cooltime sec" />
-    </imgdir>

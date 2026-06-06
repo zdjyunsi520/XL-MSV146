@@ -15,15 +15,15 @@ function action(mode, type, selection) {
 	if (mode == 1)
 		status++;
 	else if (status >= 1 && mode == 0) {
-		cm.sendOk("No? Talk to me when you're willing to #eredeem#n your #ranime box#k.");
+		cm.sendOk("哦嘿，我可以用#r动漫箱子#k兑换里面的物品！\r\n#r动漫箱子#k长这样：\r\n\r\n");
 		cm.dispose();
 		return;
 	} else
 		status--;
 	if (status == 0) {
-		menu = "Oh hey there, I can trade #rAnime boxes#k for their items inside!\r\n#rAnime boxes#k look like this:\r\n\r\n";
+		menu = "\r\n\r\n#L0#兑换 #b佐助咒印箱子#k\r\n#L1#兑换 #b九尾鸣人箱子#k";
 		for (var i = 0; i < itemRequired.length; menu += "#v" + itemRequired[i] + "#", i++); 
-		menu += "\r\n\r\n#L0#Redeem #bCursed Sasuke Box#k\r\n#L1#Redeem #bKyuubi Naruto Box#k"; //\r\n#L2#Redeem #bKirito Box#k\r\n#L3#Redeem #bAsuna Box#k";
+		menu += ";"; //\r\n#L2#Redeem #bKirito Box#k\r\n#L3#Redeem #bAsuna Box#k";
 		cm.sendSimple(menu); 
 	} else if (status == 1) {
 		if (selection == 0) {

@@ -17,7 +17,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("Well well well, welcome to the Orbis Plastic Surgery! Would you like to transform your face into something new? With a #b#t5152005##k, you can let us take care of the rest and have the face you've always wanted~!");
+	cm.sendNext("哎哟哎哟，欢迎来到天空之城整形医院！你想把脸变成全新的样子吗？有了#b#t5152005##k，让我们来为你服务，打造你梦寐以求的面容~！");
     } else if (status == 1) {
 	var face = cm.getPlayerStat("FACE");
 
@@ -29,13 +29,13 @@ function action(mode, type, selection) {
 	for (var i = 0; i < facetype.length; i++) {
 	    facetype[i] = facetype[i] + face % 1000 - (face % 100);
 	}
-	cm.askAvatar("I can totally transform your face into something new... how about giving us a try? For #b#t5152005##k, you can get the face of your liking...take your time in choosing the face of your preference.", facetype);
+	cm.askAvatar("我可以彻底改变你的面貌……要不要试试？用#b#t5152005##k，你可以得到你喜欢的面容……慢慢选择你想要的面貌吧。", facetype);
 
     } else if (status == 2) {
 	if (cm.setAvatar(5152005, facetype[selection]) == 1) {
-	    cm.sendOk("Enjoy your new and improved face!");
+	    cm.sendOk("享受你的全新面容吧！");
 	} else {
-	    cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+	    cm.sendOk("嗯……看起来你没有这个地方专用的优惠券。很抱歉，没有优惠券的话，无法为你进行整形手术……");
 	}
 	cm.dispose();
     }

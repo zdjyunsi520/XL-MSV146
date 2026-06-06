@@ -10,19 +10,19 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("So, #b#h0##k. You from around here?");
+	  qm.sendNext("那么，#b#h0##k。你是这附近的人吗？");
 	} else if (status == 1) {
-	  qm.sendNextPrevS("Yeah, I live with my Granny. Just that way.",14);
+	  qm.sendNextPrevS("是啊，我和奶奶住在一起。就在那边。",14);
 	} else if  (status == 2)  {
-	  qm.sendAcceptDecline("Great! You go back and wait there while #bI go gather up my friends#k. Sound good?");
+	  qm.sendAcceptDecline("太好了！你回去在那里等着，我去#b召集我的朋友们#k。听起来不错吧？");
 	} else if  (status == 3)  {
-	  qm.sendNextS("All right, little kitty. I'll warm a fish for you, too!",14);
+	  qm.sendNextS("好的，小猫咪。我也会给你热一条鱼的！",14);
 	} else if  (status == 4)  {
-	  qm.sendNextPrev("My name is #bArby#k, not kitty! And save the fish for #bFort#k. I'm a vegetarian.");
+	  qm.sendNextPrev("我的名字叫#b阿比#k，不是小猫咪！把鱼留给#b福特#k吧。我是素食主义者。");
 	} else if  (status == 5)  {
-	  qm.sendNextPrevS("#bFort#k? Is he another one of the Critter Champs?",14);
+	  qm.sendNextPrevS("#b福特#k？他是动物冠军团的另一个成员吗？",14);
 	} else if  (status == 6)  {
-	  qm.sendNextPrev("Yup! You'll like #bFort#k. He's really strong!");
+	  qm.sendNextPrev("没错！你会喜欢#b福特#k的。他真的很强壮！");
 	} else if  (status == 7)  {
 	  qm.forceStartQuest();
 	  qm.gainExp(58);

@@ -1,5 +1,0 @@
-<imgdir name="101110200">
-        <string name="name" value="Grand Rolling Cross" />
-        <string name="desc" value="An even more powerful Rolling Cross attack. Increases damage and produces 3 blades at once that pierce multiple enemies. \n[Skill Requirement]: #cRolling Cross Lv. 20#" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Blade]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z.\n#cCooldown: #cooltime sec#" />
-    </imgdir>

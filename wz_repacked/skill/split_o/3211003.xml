@@ -1,8 +1,0 @@
-<imgdir name="3211003">
-        <string name="name" value="Snapfreeze Shot" />
-        <string name="desc" value="Fires an Ice arrow that damages multiple enemies. The enemy you targeted will be Frozen." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: 6, Freeze Duration: #time sec" />
-        <string name="pdesc" value="Fires an Ice arrow that damages multiple enemies, with a chance to freeze your victims." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #prop%, Freeze Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec" />
-    </imgdir>

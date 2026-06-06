@@ -1,5 +1,0 @@
-<imgdir name="70000044">
-        <string name="name" value="Damage Ignored When Hit" />
-        <string name="desc" value="When hit with a physical attack, damage is reduced in proportion to Magic DEF." />
-        <string name="h" value="When hit with a physical attack, damage equal to #mdd2pdx% of Magic DEF is ignored" />
-    </imgdir>

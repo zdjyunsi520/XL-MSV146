@@ -81,7 +81,7 @@ function clearPQ(eim) {
 }
 
 function allMonstersDead(eim) {
-    eim.broadcastPlayerMsg(5, "Enter the Portal to your left, to leave.");
+    eim.broadcastPlayerMsg(5, "进入左侧传送门离开。");
 }
 
 function leftParty (eim, player) {}

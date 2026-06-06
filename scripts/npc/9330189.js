@@ -1,5 +1,5 @@
 function start() {
-    cm.sendSimple("Go to school already!\r\n#L0#Go to school#l\r\n#L1#View my friendship status#l");
+    cm.sendSimple("快去上学吧！\r\n#L0#去上学#l\r\n#L1#查看我的好感状态#l");
 }
 
 function action(mode, type, selection) {

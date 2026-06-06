@@ -1,7 +1,0 @@
-<imgdir name="22001001">
-        <string name="name" value="Magic Missile" />
-        <string name="desc" value="Continuously attacks the enemy by consuming MP." />
-        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
-        <string name="pdesc" value="Continuously attacks the enemy by consuming MP." />
-        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
-    </imgdir>

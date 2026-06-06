@@ -1,5 +1,0 @@
-<imgdir name="27101101">
-        <string name="name" value="Blinding Pillar" />
-        <string name="desc" value="[Light Magic]\nDetonates a pillar of light that knocks back enemies and has a chance to stun." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Distance: #x, Knockback Chance: #prop%." />
-    </imgdir>

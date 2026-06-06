@@ -1,7 +1,0 @@
-<imgdir name="23101003">
-        <string name="name" value="Spirit Surge" />
-        <string name="desc" value="Increases Damage and Critical Chance for a fixed period of time." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Critical Chance: +#x%" />
-        <string name="pdesc" value="Increases Damage and Critical Chance for a fixed period of time." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Critical Chance: +#x%" />
-    </imgdir>

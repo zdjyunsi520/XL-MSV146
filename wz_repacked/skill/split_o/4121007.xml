@@ -1,7 +1,0 @@
-<imgdir name="4121007">
-        <string name="name" value="Triple Throw" />
-        <string name="desc" value="Attacks a single monster by simultaneously throwing 3 stars that ignores the enemy&apos;s Weapon DEF. " />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, DEF Ignored: #ignoreMobpdpR%" />
-        <string name="pdesc" value="Rapidly throw 3 throwing stars." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 3" />
-    </imgdir>

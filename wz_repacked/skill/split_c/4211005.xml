@@ -1,7 +1,0 @@
-<imgdir name="4211005">
-        <string name="name" value="金币护盾" />
-        <string name="desc" value="使用金币抵挡最多50%的伤害。技能激活后，存入一定量的金币。受到的伤害将从存款中扣除。\n需要技能：#c查克拉 Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Damage Blocked: #x%, Duration: #time sec" />
-        <string name="pdesc" value="在一定时间内抵挡50%伤害。在战斗模式下无需消耗金币。\n需要技能：#c查克拉 Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Guard 50% of damage for #time sec." />
-    </imgdir>

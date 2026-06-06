@@ -1,7 +1,0 @@
-<imgdir name="22161004">
-        <string name="name" value="Onyx Shroud" />
-        <string name="desc" value="Temporarily increases Avoidability rate for entire party. " />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Avoidability: +#x%\r\nPassive: +#asrR% Status Ailment Resistance" />
-        <string name="pdesc" value="Temporarily increases the Avoidability of party members. " />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Avoidability: +#x%\r\nPassive: +#asrR% Status Ailment Resistance" />
-    </imgdir>

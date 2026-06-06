@@ -1,8 +1,0 @@
-<imgdir name="3201007">
-        <string name="name" value="Golden Eagle" />
-        <string name="desc" value="Summons a gold eagle that hovers around you, attacking and possibly Stunning monsters nearby." />
-        <string name="h" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #prop%" />
-        <string name="pdesc" value="Summons a gold eagle that hovers around you, attacking and possibly Stunning monsters nearby." />
-        <string name="ph" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #prop%" />
-        <string name="hch" value="MP Cost: #mpCon, Summon Damage: #damage%, Summon Duration: #time sec, Stun Chance: #hcProp%" />
-    </imgdir>

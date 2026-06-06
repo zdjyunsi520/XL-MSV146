@@ -1,5 +1,0 @@
-<imgdir name="36101001">
-        <string name="name" value="离子推进" />
-        <string name="desc" value="使用盈余能量召唤离子推进器，对敌人造成伤害并击退。按住技能键可以持续压制敌人。" />
-        <string name="h" value="#c[Supply ]#\nEnergy Cost: #powerCon, MP Cost: #mpCon, Max Enemies: #mobCount Damage: #damage%, Knocks back enemies. Duration: #time. Energy is consumed only when the Ion Thrust is summoned." />
-    </imgdir>

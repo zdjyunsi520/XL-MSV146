@@ -1,5 +1,0 @@
-<imgdir name="5110000">
-        <string name="name" value="眩晕精通" />
-        <string name="desc" value "攻击眩晕状态的敌人时暴击率提升。攻击也有几率使目标眩晕。" />
-        <string name="h" value="Critical Rate when attacking stunned enemies: +#prop%, Stun Rate: #subProp%" />
-    </imgdir>

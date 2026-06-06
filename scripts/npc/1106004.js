@@ -7,26 +7,26 @@ function start() {
 
 function action(mode, type, selection) {
     if (mode == 0 || mode == -1 && status == 0) {
-        cm.sendNextS("This has gotta be the box...", 2);
+        cm.sendNextS("这应该就是那个箱子了……", 2);
         cm.dispose();
         return;
     }
     mode == 1 ? status++ : status--;
     if (status == 0) {
         if (cm.itemQuantity(4033194) || cm.itemQuantity(4033195) >= 1) {
-            cm.sendOk("I'd better get back downstairs with the potion box before old-man Limber'ts heart finally explodes with rage.");
+            cm.sendOk("我得赶紧带着药水箱回到楼下，免得林伯特老头的心脏终于承受不住怒火。");
             cm.dispose();
         }
         if (cm.isQuestActive(20031))
-            cm.sendYesNo("All these potions are disgusting! Should we even be selling them?\r\nTake the Potion Box?");
+            cm.sendYesNo("这些药水真难喝！我们真的要卖这些吗？\r\n拿取药水箱？");
         else {
-            cm.sendOk("It doesn't look like you need my potions!");
+            cm.sendOk("看起来你不需要我的药水！");
             cm.dispose();
         }
     } else if (status == 1) {
         cm.gainItem(4033194,1);
         cm.gainItem(4033195,1);
-        cm.sendPlayerToNpc("Is this a letter? Must be held together by all the dust...\r\nFrom 'Chromile'... It doesn't say who it's for... Maybe Limbert will want it.");
+        cm.sendPlayerToNpc("这是一封信吗？一定被灰尘粘在一起的……\r\n来自'克洛米勒'……上面没写收件人……也许林伯特会想要它。");
         cm.dispose();
     }
 }

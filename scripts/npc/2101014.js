@@ -3,7 +3,7 @@ var points;
 function start() {
     var record = cm.getCData("bossQuest");
     points = record == null ? "0" : record;
-    cm.sendSimple("Would you like to have a taste of a relentless boss battle?\n\r\n\r #b#L3#Current points#l#k \r\n\r\n #b#L0# #v03994115##l #L1# #v03994116##l #L2# #v03994117##l #L28# #v03994118##l");
+    cm.sendSimple("你想体验一场激烈的BOSS战斗吗？\n\r\n\r #b#L3#当前积分#l#k \r\n\r\n #b#L0# #v03994115##l #L1# #v03994116##l #L2# #v03994117##l #L28# #v03994118##l");
 }
 
 function action(mode, type, selection) {
@@ -29,18 +29,18 @@ function action(mode, type, selection) {
 	  	    if (next) {
 			var q = cm.getEventManager("BossQuestEASY");
 			if (q == null) {
-			    cm.sendOk("Unknown error occured");
+			    cm.sendOk("发生未知错误。");
 			} else {
 			    q.startInstance(cm.getParty(), cm.getMap());
 			}
 		    } else {
-			cm.sendOk("All players must be in map and above level 70.");
+			cm.sendOk("所有玩家必须在此地图且等级达到70级以上。");
 		    }
 		} else {
-		    cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+		    cm.sendOk("你不是队伍的队长，请让你们的队长来找我。");
 		}
 		} else {
-		    cm.sendOk("Please form a party first.");
+		    cm.sendOk("请先组建一个队伍。");
 		}
 		break;
 	    case 1:
@@ -63,18 +63,18 @@ function action(mode, type, selection) {
 	  	    if (next) {
 			var q = cm.getEventManager("BossQuestMed");
 			if (q == null) {
-			    cm.sendOk("Unknown error occured");
+			    cm.sendOk("发生未知错误。");
 			} else {
 			    q.startInstance(cm.getParty(), cm.getMap());
 			}
 		    } else {
-			cm.sendOk("All players must be in map and above level 100.");
+			cm.sendOk("所有玩家必须在此地图且等级达到100级以上。");
 		    }
 		    } else {
-			cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+			cm.sendOk("你不是队伍的队长，请让你们的队长来找我。");
 		    }
 		} else {
-		    cm.sendOk("Please form a party first.");
+		    cm.sendOk("请先组建一个队伍。");
 		}
 		break;
 	    case 2:
@@ -97,18 +97,18 @@ function action(mode, type, selection) {
 	  	    if (next) {
 			var q = cm.getEventManager("BossQuestHARD");
 			if (q == null) {
-			    cm.sendOk("Unknown error occured");
+			    cm.sendOk("发生未知错误。");
 			} else {
 			    q.startInstance(cm.getParty(), cm.getMap());
 			}
 		    } else {
-			cm.sendOk("All players must be in map and above level 120.");
+			cm.sendOk("所有玩家必须在此地图且等级达到120级以上。");
 		    }
 		    } else {
-			cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+			cm.sendOk("你不是队伍的队长，请让你们的队长来找我。");
 		    }
 		} else {
-		    cm.sendOk("Please form a party first.");
+		    cm.sendOk("请先组建一个队伍。");
 		}
 		break;
 	    case 28:
@@ -131,22 +131,22 @@ function action(mode, type, selection) {
 	  	    if (next) {
 			var q = cm.getEventManager("BossQuestHELL");
 			if (q == null) {
-			    cm.sendOk("Unknown error occured");
+			    cm.sendOk("发生未知错误。");
 			} else {
 			    q.startInstance(cm.getParty(), cm.getMap());
 			}
 		    } else {
-			cm.sendOk("All players must be in map and above level 160.");
+			cm.sendOk("所有玩家必须在此地图且等级达到160级以上。");
 		    }
 		    } else {
-			cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+			cm.sendOk("你不是队伍的队长，请让你们的队长来找我。");
 		    }
 		} else {
-		    cm.sendOk("Please form a party first.");
+		    cm.sendOk("请先组建一个队伍。");
 		}
 		break;
 	    case 3:
-		cm.sendOk("#bCurrent Points : " + points);
+		cm.sendOk("#b当前积分： " + points);
 		break;
 	}
     }

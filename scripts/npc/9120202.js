@@ -8,9 +8,9 @@ function start() {
     flash = cm.haveItem(4000141);
 
     if (!flash) {
-	cm.sendNext("Once you eliminate the boss, you'll have to show me the boss's flashlight as evidence. I won't believe it until you show me the flashlight! What? You want to leave this room?");
+	cm.sendNext("嘿，嘿！那样拿着手电筒很危险！会引起火灾的！我来帮你保管吧。在这里不能太不小心...");
     } else {
-	cm.sendNext("Hey, hey! It's dangerous to carry around a flashlight like that! It's going to cause a fire! I'll take care of it. cant' be too careful around here...")
+	cm.sendNext("我真的很佩服你的勇气！如果你想返回昭和村的话，告诉我就好～！")
     }
 }
 
@@ -24,6 +24,6 @@ function action(mode, type, selection) {
 	    cm.dispose();
 	}
     } else {
-	cm.sendOk("I really admire your toughness! Well, if you decide to return to Showa Town, let me know~!");
+	cm.sendOk("我真的很佩服你的勇气！如果你想返回昭和村的话，告诉我就好～！");
     }
 }

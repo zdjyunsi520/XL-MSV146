@@ -1,8 +1,0 @@
-<imgdir name="23120013">
-        <string name="name" value="震击强化" />
-        <string name="desc" value="强化震击箭的威力~\n前置技能: #c震击箭 Lv. 20#" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 箭矢数: #bulletCount, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕时间: #time秒, 对眩晕敌人额外伤害: #x%" />
-        <string name="pdesc" value="强化震击箭的威力~\n前置技能: #c震击箭 Lv. 20#" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 箭矢数: #bulletCount, 最大怪物数: #mobCount, 眩晕几率: #prop%, 眩晕时间: #time秒, 对眩晕敌人额外伤害: #x%" />
-        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 箭矢数: #bulletCount, 最大怪物数: #mobCount, 眩晕几率: #hcProp%, 眩晕时间: #hcTime秒, 对眩晕敌人额外伤害: #x%" />
-    </imgdir>

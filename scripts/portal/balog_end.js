@@ -1,6 +1,6 @@
 function enter(pi) {
 	if (!pi.canHold(4001261,1)) {
-		pi.playerMessage(5, "Please make 1 ETC room.");
+		pi.playerMessage(5, "请创建1个ETC房间。");
 		return false;
 	}
 	pi.gainExpR(pi.getPlayer().getMapId() == 105100301 ? 130000 : 260000);

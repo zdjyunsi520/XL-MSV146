@@ -1,5 +1,0 @@
-<imgdir name="36110005">
-        <string name="name" value="Triangulation" />
-        <string name="desc" value="Grants a chance to attach Airframes to enemies. Attached Airframes will reduce enemy Accuracy and Avoidability, and deal damage when an enemy with 3 attached Airframes is attacked." />
-        <string name="h" value="Chance to attach Airframe on attack: #prop%, Max Airframes: 3, Damage when enemy with 3 Airframes is attacked: #damage%, Number of Attacks: 3, Enemy Accuracy and Avoidability for each Airframe: - #x%" />
-    </imgdir>

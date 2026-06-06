@@ -1,5 +1,0 @@
-<imgdir name="42121021">
-        <string name="name" value="狐火" />
-        <string name="desc" value="白狐召唤数个狐火。每个狐火可以用来无效化敌人的法术或反弹伤害。" />
-        <string name="h" value="召唤狐火数：#y，持续时间：#tine秒，魔法无效化概率：#prop%，反弹伤害：#x%。每次攻击消耗1个火焰。" />
-    </imgdir>

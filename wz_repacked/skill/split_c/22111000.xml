@@ -1,7 +1,0 @@
-<imgdir name="22111000">
-        <string name="name" value="闪电箭" />
-        <string name="desc" value="对最多8个敌人降下雷电。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount" />
-        <string name="pdesc" value="对最多#mobCount个敌人降下雷电。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount" />
-    </imgdir>

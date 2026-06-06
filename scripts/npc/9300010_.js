@@ -13,19 +13,19 @@ function action(mode, type, selection) {
   }
     if (status == 0) {
       if (cm.getLevel() > 199) {
-	cm.sendSimple("#gCongratulations#k on your #brebirth!#k\r\nHere's how it works, I will reborn you into a beginner.\r\nYou keep your stats, items, etc.\r\nYou might lose #rSOME NON-COMPATIBLE#k skills.\r\nThis means no Shadow Partner on Bowmasters, stuff like that.\r\nSo, would you like to #bRebirth?#k\r\n\r\n#L1337#Yes\r\n#L1336#No");
+	cm.sendSimple("你还没有证明你的实力。\r\n请先达到#r200级#k再来找我。");
     } else {
-        cm.sendOk("You have not proven your strength.\r\nPlease become #rLEVEL 200#k before you talk to me.");
+        cm.sendOk("你已经转生了！当你想#r转职#k时来找我。");
 	cm.safeDispose();
     }
  }
   if (selection == 1337) {
 	cm.getPlayer().doReborn();
 	cm.getPlayer().levelUp();
-        cm.sendOk("You have rebirthed! Talk to me when you want a #rJob Advancement#k.");
+        cm.sendOk("等你觉得自己足够强大可以#b转生#k时再来找我吧。");
         cm.dispose();
    } else if (selection == 1336) {
-	cm.sendOk("Please come back to me once you think you are strong enough to #bRebirth.#k");
+	cm.sendOk("等你觉得自己足够强大可以#b转生#k时再来找我吧。");
         cm.dispose();
    }
 }

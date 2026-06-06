@@ -1,5 +1,0 @@
-<imgdir name="3221052">
-        <string name="name" value="High Speed Shot" />
-        <string name="desc" value="Fires off a focused shot that pierces all enemies within range." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%\nCooldown: #cooltime sec" />
-    </imgdir>

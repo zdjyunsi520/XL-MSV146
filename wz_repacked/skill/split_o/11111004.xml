@@ -1,7 +1,0 @@
-<imgdir name="11111004">
-        <string name="name" value="Intrepid Slash" />
-        <string name="desc" value="Deal 3 consecutive attacks on multiple enemies in front of you." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Deal 3 consecutive attacks on multiple enemies in front of you." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

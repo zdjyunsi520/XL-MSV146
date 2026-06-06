@@ -1,5 +1,0 @@
-<imgdir name="70000023">
-        <string name="name" value="INT to LUK Conversion" />
-        <string name="desc" value="Increases LUK in proportion to AP assigned to INT." />
-        <string name="h" value="#int2luk% of AP assigned to INT added to LUK" />
-    </imgdir>

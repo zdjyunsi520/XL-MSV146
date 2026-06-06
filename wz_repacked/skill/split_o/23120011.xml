@@ -1,7 +1,0 @@
-<imgdir name="23120011">
-        <string name="name" value="Rolling Moonsault" />
-        <string name="desc" value="A combo skill used after lifting enemies into the air using Rising Rush. Spin enemies in the air while attacking them. In addition, the damage caused by Rising Rush will be permanently increased." />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount\nPassive Effects - Rising Rush Damage: +#damR%" />
-        <string name="pdesc" value="A combo skill used after lifting enemies into the air using Rising Rush. Spin enemies in the air while attacking them. In addition, the damage caused by Rising Rush will be permanently increased." />
-        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount\nPassive Effects - Rising Rush Damage: +#damR%" />
-    </imgdir>

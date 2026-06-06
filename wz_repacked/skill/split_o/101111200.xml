@@ -1,5 +1,0 @@
-<imgdir name="101111200">
-        <string name="name" value="Rolling Cross" />
-        <string name="desc" value="Spins at very high speed, leaping forward and up, cutting through enemies in your path." />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount\n#cCooldown: #cooltime sec#" />
-    </imgdir>

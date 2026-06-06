@@ -1,7 +1,0 @@
-<imgdir name="23121003">
-        <string name="name" value="Lightning Edge" />
-        <string name="desc" value="Dashes through multiple enemies. Ignores collision with bosses while attacking." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks while moving forward: #attackCount, Debuff while attacking boss: Ishtar&apos;s Ring Damage: +#x%, Duration: #time sec." />
-        <string name="pdesc" value="Dashes through multiple enemies. Ignores collision with bosses while attacking." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks while moving forward: #attackCount, Debuff while attacking boss: Ishtar&apos;s Ring Damage: +#x%, Duration: #time sec." />
-    </imgdir>

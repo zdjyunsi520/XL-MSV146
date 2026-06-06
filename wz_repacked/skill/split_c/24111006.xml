@@ -1,7 +1,0 @@
-<imgdir name="24111006">
-        <string name="name" value="利剑机敏" />
-        <string name="desc" value="用卡牌组成巨剑，冲锋并进行多次攻击。\n连接千刃卡牌可以减少攻击后的僵直时间。永久提升千刃卡牌的伤害。" />
-        <string name="h" value="主动效果 - MP消耗：#mpCon，移动中 - 伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount，移动后 - 以#v%的伤害攻击#w次\n被动效果 - 千刃卡牌伤害提升#damR%" />
-        <string name="pdesc" value="用卡牌组成巨剑，冲锋并进行多次攻击。\n连接千刃卡牌可以减少攻击后的僵直时间。永久提升千刃卡牌的伤害。" />
-        <string name="ph" value="主动效果 - MP消耗：#mpCon，移动中 - 伤害：#damage%，最大攻击数：#mobCount，攻击次数：#attackCount，移动后 - 以#v%的伤害攻击#w次\n被动效果 - 千刃卡牌伤害提升#damR%" />
-    </imgdir>

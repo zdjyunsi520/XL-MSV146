@@ -1,5 +1,0 @@
-<imgdir name="31221011">
-        <string name="name" value="Exceed: Execution" />
-        <string name="desc" value="Uses the true powers of the Demon to deal a powerful slash, ignoring a portion of enemy defense.\r\n#cExceed#: Attack speed gradually increases, along with HP cost. Slashes one more time at the final level." />
-        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, DEF Ignored: #ignoreMobpdpR%" />
-    </imgdir>

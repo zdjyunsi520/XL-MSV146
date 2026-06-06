@@ -18,7 +18,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("Hello, I'm Dr. Rhomes, head of the cosmetic lens department here at the Orbis Plastic Surgery Shop.\r\nMy goal here is to add personality to everyone's eyes through the wonders of cosmetic lenses, and with #b#t5152011##k or #b#t5152014##k, I can do the same for you, too! Now, what would you like to use?\r\n#L0#Cosmetic Lenses: #i5152011##t5152011##l\r\n#L1#Cosmetic Lenses: #i5152014##t5152014##l");
+	cm.sendSimple("如果你使用普通优惠券，将随机获得一副隐形眼镜。你确定要使用#b#t5152011##k来改变你的双眼吗？");
     } else if (status == 1) {
 	hair_Colo_new = [];
 
@@ -39,24 +39,24 @@ function action(mode, type, selection) {
 
 	if (selection == 0) {
 	    beauty = 1;
-	    cm.sendYesNo("If you use the regular coupon, you'll be awarded a random pair of cosmetic lenses. Are you going to use a #b#t5152011##k and really make the change to your eyes?");
+	    cm.sendYesNo("通过我们的新电脑程序，你可以提前看到治疗后的效果。你想戴哪种隐形眼镜呢？请选择你喜欢的款式。");
 	} else if (selection == 1) {
 	    beauty = 2;
 	    
-	    cm.askAvatar("With our new computer program, you can see yourself after the treatment in advance. What kind of lens would you like to wear? Please choose the style of your liking.", hair_Colo_new);
+	    cm.askAvatar("享受你的全新隐形眼镜吧！", hair_Colo_new);
 	}
     } else if (status == 2){
 	if (beauty == 1){
 	    if (cm.setRandomAvatar(5152011, hair_Colo_new) == 1) {
-		cm.sendOk("Enjoy your new and improved cosmetic lenses!");
+		cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	    } else {
-		cm.sendOk("I'm sorry, but I don't think you have our cosmetic lens coupon with you right now. Without the coupon, I'm afraid I can't do it for you..");
+		cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	    }
 	} else {
 	    if (cm.setAvatar(5152014, hair_Colo_new[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved cosmetic lenses!");
+		cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	    } else {
-		cm.sendOk("I'm sorry, but I don't think you have our cosmetic lens coupon with you right now. Without the coupon, I'm afraid I can't do it for you..");
+		cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	    }
 	}
 	cm.dispose();

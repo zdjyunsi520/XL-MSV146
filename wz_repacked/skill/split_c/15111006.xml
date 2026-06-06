@@ -1,7 +1,0 @@
-<imgdir name="15111006">
-        <string name="name" value="电火花" />
-        <string name="desc" value="使用闪电之灵进行额外攻击。附近的怪物也会受到伤害。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，持续时间：#time秒，最大攻击敌人数：#mobCount" />
-        <string name="pdesc" value="使用闪电之灵进行额外攻击。附近的怪物也会受到伤害。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，持续时间：#time秒，最大攻击敌人数：#mobCount" />
-    </imgdir>

@@ -5,6 +5,6 @@
 */
 
 function start(){
-	cm.sendOk("Hmmm... baby formula? Don't you think you're past that age?");
+	cm.sendOk("嗯……婴儿奶粉？你不觉得自己已经过了那个年纪吗？");
 	cm.dispose();
 	}

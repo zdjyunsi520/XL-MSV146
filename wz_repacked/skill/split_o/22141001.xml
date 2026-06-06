@@ -1,8 +1,0 @@
-<imgdir name="22141001">
-        <string name="name" value="Dragon Thrust " />
-        <string name="desc" value="A fierce dragon deals damage to enemies while knocking them back." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x #attackCount, Max Enemies Hit: #mobCount, Knock-back Chance: #prop%" />
-        <string name="pdesc" value="A fierce dragon deals damage to enemies while knocking them back." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Knock-back Chance: #prop%\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Knock-back Chance: #hcProp%" />
-    </imgdir>

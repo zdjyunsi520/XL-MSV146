@@ -1,7 +1,0 @@
-<imgdir name="1310009">
-        <string name="name" value="Lord of Darkness" />
-        <string name="desc" value="Increases Critical Rate and minimum Critical Damage. Has a chance to convert a portion of damage to HP, up to #chalf of Max HP#." />
-        <string name="h" value="Crit Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%, #prop% chance to convert #x% of damage to HP" />
-        <string name="pdesc" value="Increases Critical Rate and minimum Critical Damage. Has a chance to convert a portion of damage to HP, up to #chalf of Max HP#." />
-        <string name="ph" value="Crit Rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%, #prop% chance to convert #x% of damage to HP" />
-    </imgdir>

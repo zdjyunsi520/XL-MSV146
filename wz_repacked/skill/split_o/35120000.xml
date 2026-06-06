@@ -1,7 +1,0 @@
-<imgdir name="35120000">
-        <string name="name" value="Extreme Mech" />
-        <string name="desc" value="Further enhances the ATT, DEF, Max HP, Max MP, and Weapon Mastery of your Mech.\nRequired Skill: #cMech: Prototype Lv. 10# " />
-        <string name="h" value="ATT: +#epad, Defense: +#epdd, Max HP: +#emhp, Max MP: +#emmp, Weapon Mastery: +#mastery" />
-        <string name="pdesc" value="Further enhances the Battle Mode ATT, DEF, Max HP, Max MP, and Weapon Mastery of your Mech.\nRequired Skill: #cMech: Prototype Lv. 10# " />
-        <string name="ph" value="Battle Mode ATT: +#PVPdamage, Defense: +#epdd, MaxHP: +#emhp, MaxMP: +#emmp, Weapon Mastery: +#mastery" />
-    </imgdir>

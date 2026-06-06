@@ -8,7 +8,7 @@ function enter(pi) {
 
     } else {
 
-	pi.playerMessage(5, "You must accept the quest before proceeding to the next map.");
+	pi.playerMessage(5, "在前往下一个地图之前，你必须先接受任务。");
     }
 
 }

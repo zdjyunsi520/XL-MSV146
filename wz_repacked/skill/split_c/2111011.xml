@@ -1,5 +1,0 @@
-<imgdir name="2111011">
-        <string name="name" value="元素适应(火、毒)" />
-        <string name="desc" value="用火和毒的面纱覆盖自己，以消耗部分最大MP为代价抵御致命异常状态。#c成功时有几率再生#。冷却只在再生失败时适用~" />
-        <string name="h" value="MP消耗: #mpCon，抵御致命异常状态时，消耗最多#x%最大MP并以#c#prop%几率#再生屏障最多#y次。冷却时间: #cooltime秒\n[被动效果: 提升异常状态和所有属性抗性#asrR%]" />
-    </imgdir>

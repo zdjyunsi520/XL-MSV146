@@ -7,7 +7,7 @@ function action(mode, type, selection) {
     }
     status++;
     if (status == 0)
-        cm.sendNextS("This will be a cakewalk. I hope...", 17);
+        cm.sendNextS("这简直是轻而易举。但愿如此……", 17);
     else if (status == 1) {
         cm.warp(915000301, 0);
         cm.dispose();

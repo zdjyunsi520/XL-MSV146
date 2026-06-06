@@ -1,7 +1,0 @@
-<imgdir name="4110012">
-        <string name="name" value="Expert Throwing Star Handling" />
-        <string name="desc" value="#cIncreases total damage# .\nGrants an additional chance to cast without consuming throwing stars or MP, and a chance to #crecharge 1 throwing star#.\n(Will not generate more than the maximum throwing star limit.)\nWhen Expert Throwing Star Handling is activated, the #cnext attack will always be a Critical Attack#. (Critical is applied for Spirit of the Star, but throwing stars will not be recharged.)\nRequired Skill: #cSpirit of the Star Lv. 5#" />
-        <string name="h" value="Damage Increase: #pdR%, Recharge Chance: #prop%" />
-        <string name="pdesc" value="#cIncreases total damage# .\nGrants an additional chance to cast without consuming throwing stars or MP, and a chance to #crecharge 1 throwing star#.\n(Will not generate more than the maximum throwing star limit.)\nWhen Expert Throwing Star Handling is activated, the #cnext attack will always be a Critical Attack#. (Critical is applied for Spirit of the Star, but throwing stars will not be recharged.)\nRequired Skill: #cSpirit of the Star Lv. 5#" />
-        <string name="ph" value="Damage Increase: #pdR%, Recharge Chance: #prop%" />
-    </imgdir>

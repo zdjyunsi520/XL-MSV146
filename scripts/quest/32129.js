@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendAcceptDecline("Not bad, #h #. You really thought like a fairy out there. Let's return to the Headmistress in Ellinel.\r\n#b(You will be moved to Ellinel if you accept)");	
+	    qm.sendAcceptDecline("干得不错，#h #。你刚才真的像精灵一样思考了。我们回艾丽涅找女校长吧。\r\n#b（如果你接受，将被传送到艾丽涅。）");	
 	} else if (status == 1) { 
-	    qm.sendNext("Great. All the kids must be back by now, right?");
+	    qm.sendNext("太好了。所有的孩子们现在应该都回来了吧？");
 	} else if (status == 2) { 
 		qm.warp(101072000,0);
 		qm.gainExp(10190);

@@ -1,8 +1,0 @@
-<imgdir name="2211006">
-        <string name="name" value="冰魔" />
-        <string name="desc" value="使用冰魔的冰碎片同时攻击并冻结多个敌人。被冰魔击中的怪物会在一段时间内持续受到伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #x sec" />
-        <string name="pdesc" value="使用冰魔的冰碎片同时攻击并冻结多个敌人。被冰魔击中的怪物会在一段时间内持续受到伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Duration: #x sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Freeze Chance: #hcProp%, Freeze Duration: #x sec" />
-    </imgdir>

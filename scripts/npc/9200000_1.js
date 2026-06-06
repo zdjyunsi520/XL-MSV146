@@ -8,7 +8,7 @@ var chosenMap = -1;
 var chosenSection = -1;
 
 function start() {
-    cm.sendSimple("#fUI/UIWindow.img/QuestIcon/3/0#\r\n#L1#Job Advance#l");
+    cm.sendSimple("嘿，最近怎么样？我在这边过得还不错。");
 }
 
 function action(mode, type, selection) {
@@ -32,15 +32,15 @@ function jobAdv(selection){
     if (status == 0) {
         newJob = cm.getJobId() + 1;
         if (cm.getJobId() % 10 == 2) {
-            cm.sendOk("Hey, how's it going? I've been doing well here.");
+            cm.sendOk("恭喜你达到了等级");
             cm.dispose();
         } else if (cm.getJobId() % 10 >= 0 && cm.getJobId() % 100 != 0) {
             var secondJob = cm.getJobId() % 10 == 0;
             if ((secondJob && cm.getLevel() < 70) || (!secondJob && cm.getLevel() < 120)) {
-                cm.sendOk("Hey, how's it going? I've been doing well here.");
+                cm.sendOk("恭喜你达到了等级");
                 cm.dispose();
             } else
-                cm.sendYesNo("Great job getting to level " + cm.getLevel() + ". Would you like to become a #b"+cm.getJobName(newJob)+"#k ?");
+                cm.sendYesNo("。你想成为一名#b " + cm.getLevel() + "以下是你可选择的职业#b"+cm.getJobName(newJob)+"#k ?");
         } else {
             if (cm.getJobId() % 1000 == 0) {
                 if (cm.getLevel() >= 10) 
@@ -74,10 +74,10 @@ function jobAdv(selection){
                 }
             }
             if (possibleJobs.length == 0) {
-                cm.sendOk("Hey, how's it going? I've been doing well here.");
+                cm.sendOk("恭喜你达到了等级");
                 cm.dispose();
             } else {
-                var text = "There are the available jobs you can take#b";
+                var text = "你确定要转职吗？";
                 for (var j = 0; j < possibleJobs.length; j++)
                     text += "\r\n#L"+j+"#"+cm.getJobName(possibleJobs[j])+"#l";
                 cm.sendSimple(text);
@@ -93,7 +93,7 @@ function jobAdv(selection){
             cm.dispose();
     } else if (status == 2) {
         job = selection;
-        cm.sendYesNo("Are you sure you want to job advance?");
+        cm.sendYesNo("你确定要转职吗？");
     } else if (status == 3) {
         cm.changeJobById(possibleJobs[job]);
         cm.dispose();

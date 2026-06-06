@@ -18,7 +18,7 @@ var fhair;
 
 function start() {                    
         if (cm.getPlayer().getAndroid() == null) {
-        cm.sendOk("You must have an Android to use me, also make sure that your android is spawned / equipped.");
+        cm.sendOk("你必须拥有安卓才能使用我，同时请确保你的安卓已经召唤/装备。");
         cm.dispose();
         } else {
     status = -1;
@@ -47,7 +47,7 @@ function action(mode, type, selection) {
     else
     status--;
     if (status == 0) {    
-        cm.sendSimple("Hi, i am the Android Styler. I can change the way your Android looks, what do you want to change?\r\n#L0##bHair#k#l\r\n#L1##bHair Color#k#l\r\n#L2##bFace#k#l\r\n#L3##bEye Color#k#l");
+        cm.sendSimple("你好，我是安卓造型师。我可以改变你的安卓外观，你想改变什么？\r\n#L0##b发型#k#l\r\n#L1##b发色#k#l\r\n#L2##b脸型#k#l\r\n#L3##b瞳色#k#l");
     } else if (status == 1) {
     if (cm.getAndroidStat("GENDER") == 0) {
         if (selection == 0) {
@@ -60,7 +60,7 @@ function action(mode, type, selection) {
             hairnew.push(mhair[i] + parseInt(cm.getAndroidStat("HAIR") % 10));
             }
         }
-        cm.sendAndroidStyle("Pick a hairstyle that you would like.", hairnew);
+        cm.sendAndroidStyle("选择一个你喜欢的发型。", hairnew);
         } else if (selection == 1) {
         beauty = 2;
         haircolor = Array();
@@ -72,7 +72,7 @@ function action(mode, type, selection) {
             haircolor.push(current + i);
             }
         }
-        cm.sendAndroidStyle("Pick a hair color that you would like.", haircolor);
+        cm.sendAndroidStyle("选择一个你喜欢的发色。", haircolor);
         } else if (selection == 2) {
         beauty = 3;
         facenew = Array();
@@ -83,7 +83,7 @@ function action(mode, type, selection) {
             facenew.push(mface[i] + cm.getAndroidStat("FACE") % 1000 - (cm.getAndroidStat("FACE") % 100));
             }
         }
-        cm.sendAndroidStyle("Pick a new face that you would like.", facenew);
+        cm.sendAndroidStyle("选择一个你想要的新脸型。", facenew);
         } else if (selection == 3) {
         beauty = 4;
         var current = cm.getAndroidStat("FACE") % 100 + 20000;
@@ -93,7 +93,7 @@ function action(mode, type, selection) {
         } else {
             colors = Array(current, current + 100, current + 200, current + 300, current + 400, current + 500, current + 600, current + 700, current + 800);
         }
-        cm.sendAndroidStyle("Pick a eye color that you would like.", colors);
+        cm.sendAndroidStyle("选择一个你喜欢的瞳色。", colors);
         }
     
     } else {
@@ -107,7 +107,7 @@ function action(mode, type, selection) {
                 hairnew.push(fhair[i] + parseInt(cm.getAndroidStat("HAIR") % 10));
             }
         }
-        cm.sendAndroidStyle("Pick a hairstyle that you would like.", hairnew);
+        cm.sendAndroidStyle("选择一个你喜欢的发型。", hairnew);
         } else if (selection == 1) {
         beauty = 2;
         haircolor = Array();
@@ -119,7 +119,7 @@ function action(mode, type, selection) {
                     haircolor.push(current + i);
             }
         }
-        cm.sendAndroidStyle("Pick a hair color that you would like.", haircolor);
+        cm.sendAndroidStyle("选择一个你喜欢的发色。", haircolor);
         } else if (selection == 2) {
         beauty = 3;
         facenew = Array();
@@ -130,7 +130,7 @@ function action(mode, type, selection) {
                 facenew.push(fface[i] + cm.getAndroidStat("FACE") % 1000 - (cm.getAndroidStat("FACE") % 100));
             }
         }
-        cm.sendAndroidStyle("Pick new eyes that you would like.", facenew);
+        cm.sendAndroidStyle("选择你想要的新眼睛。", facenew);
          } else if (selection == 3) {
         beauty = 4;
         var current = cm.getAndroidStat("FACE") % 100 + 21000;
@@ -140,7 +140,7 @@ function action(mode, type, selection) {
         } else {
             colors = Array(current, current + 100, current + 200, current + 300, current + 400, current + 500, current + 600, current + 700, current + 800);
         }
-        cm.sendAndroidStyle("Pick a eye color that you would like.", colors);
+        cm.sendAndroidStyle("选择一个你喜欢的瞳色。", colors);
                 }
     }
     } else if (status == 2) {

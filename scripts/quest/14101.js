@@ -10,7 +10,7 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendOk("You can participate in Maple Bingo 10 times each day per account. That means you can play #b10 more times#k today, #h0#! Match it up!");
+	    qm.sendOk("每个账号每天可以参加10次枫之谷宾果。也就是说你今天还可以再玩#b10次#k，#h0#! 来匹配吧！");
 	    qm.dispose();
 	}
 }

@@ -1,7 +1,0 @@
-<imgdir name="21120005">
-        <string name="name" value="最终一击" />
-        <string name="desc" value="挥动战矛对多个敌人进行强力攻击。无视一定量的敌人防御力，所有攻击变为暴击。\n只能在#c使用三重挥击后#使用。\n[指令：三重挥击 + #c下方向键+攻击键#]\n前置技能：#三重挥击 Lv. 20#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，额外暴击率：#cr%，无视敌人防御力：#ignoreMobpdpR%" />
-        <string name="pdesc" value="挥动战矛对多个敌人进行强力攻击。最终一击必定暴击，只能在#c使用三重挥击后#使用。\n[指令：三重挥击 + #c下方向键+攻击键#]\n前置技能：#三重挥击 Lv. 20#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，暴击率：+#cr%" />
-    </imgdir>

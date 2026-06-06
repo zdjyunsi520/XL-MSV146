@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.showInstruction("Press the #e#b[Up]#k arrow#n to use the portal and move to the next map.", 230, 5);
+    pi.showInstruction("按#e#b[上]方向键#n使用传送门前往下一个地图。", 230, 5);
 }

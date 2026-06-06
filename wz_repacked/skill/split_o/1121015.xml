@@ -1,5 +1,0 @@
-<imgdir name="1121015">
-        <string name="name" value="Puncture" />
-        <string name="desc" value="Leave a wound on enemy that deals continuous damage for a short time. While taking continuous damage, the enemy will #ctake more critical damage#.\nRequired Skill: #cAdvnaced Combo Attack Lv. 20#" />
-        <string name="h" value="Cost: #mpCon MP and #y combo orb. Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. For #dotTime sec, attacked enemies will take #dot% damage at every #dotInterval sec at #prop% chance. #cEnemy will take #x% more critical damage#. When a party member attacks, increases by #u%" />
-    </imgdir>

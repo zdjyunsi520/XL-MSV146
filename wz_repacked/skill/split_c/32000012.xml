@@ -1,5 +1,0 @@
-<imgdir name="32000012">
-        <string name="name" value="元素弱点" />
-        <string name="pdesc" value="有概率削弱敌人对魔法的抗性。" />
-        <string name="ph" value="持续时间：#time秒，成功率：#prop%，额外魔法伤害：+#x%" />
-    </imgdir>

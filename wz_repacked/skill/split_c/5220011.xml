@@ -1,7 +1,0 @@
-<imgdir name="5220011">
-        <string name="name" value="精准射击" />
-        <string name="desc" value="提升追踪信标的伤害。对被追踪信标标记的怪物造成额外伤害。\n需要技能：#c追踪信标 Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage (to affected monsters): +#x%" />
-        <string name="pdesc" value="提升追踪信标的伤害。对被追踪信标标记的怪物造成额外伤害。\n需要技能：#c追踪信标 Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: +#x%" />
-    </imgdir>

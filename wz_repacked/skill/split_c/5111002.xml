@@ -1,8 +1,0 @@
-<imgdir name="5111002">
-        <string name="name" value="能量爆发" />
-        <string name="desc" value="点燃能量攻击附近多个敌人。有几率使敌人眩晕。#c能量充满时#可使用射程和速度更好的强化刺猬冲击~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
-        <string name="pdesc" value="点燃能量攻击附近多个敌人。有几率使敌人眩晕。#c能量充满时#可使用射程和速度更好的强化刺猬冲击~" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
-        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
-    </imgdir>

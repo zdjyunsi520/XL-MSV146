@@ -1,8 +1,0 @@
-<imgdir name="33111003">
-        <string name="name" value="野性陷阱" />
-        <string name="desc" value="召唤一个攻击附近敌人的陷阱。这个陷阱太有吸引力了，怪物会攻击它而不是你。" />
-        <string name="h" value="MP消耗：#mpCon，陷阱伤害：#damage%，陷阱HP：#x，陷阱持续时间：#time秒" />
-        <string name="pdesc" value="为附近敌人召唤陷阱。" />
-        <string name="ph" value="MP消耗：#mpCon，陷阱伤害：#damage%，陷阱HP：#x，陷阱持续时间：#time秒" />
-        <string name="hch" value="MP消耗：#mpCon，陷阱伤害：#damage%，陷阱HP：#hcSummonHp，陷阱持续时间：#time秒" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="112101007">
-        <string name="name" value="雷电冲刺" />
-        <string name="desc" value="你的雪豹伙伴冲向敌人，造成伤害。" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 冷却时间: #cooltime秒" />
-    </imgdir>

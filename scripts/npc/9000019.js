@@ -5,7 +5,7 @@ var isWeapon = false;
 var itemSelected;
 var mesoBag = 5200002;
 
-var options = ["I want to exchange maple leaves for Pearl Maple Gear.", "I want to exchange maple leaves for Onyx Maple Gear."];
+var options = ["我想用枫叶兑换珍珠枫叶装备。", "我想用枫叶兑换黑玛瑙枫叶装备。"];
 
 var onyxWep = [
 	1532100, // Onyx Maple Cannon
@@ -93,7 +93,7 @@ function action(mode, type, selection) {
 	
 	if(status == 0)
 	{
-		var msg = "Hi, I am the maple leaves exchanger NPC, what would you like to do?\r\n#b";
+		var msg = "你好，我是枫叶兑换NPC，你想要做什么？\r\n#b";
 		
 		for(var i = 0; i < options.length; i++){ // List of options
 			msg += "#L" + i + "#" +options[i] + "\r\n";
@@ -105,15 +105,15 @@ function action(mode, type, selection) {
 	else if(status == 1 && selection == 0)
 	{
 		optionSelected = selection; // Pearl Eqp
-		var pearlDiag = "Which type of pearl maple gear would you like to trade for\r\n";
-		pearlDiag += "#L2##bTrade for weapons.\r\n";
-		pearlDiag += "#L3#Trade for equipments.#l";
+		var pearlDiag = "你想兑换哪种类型的珍珠枫叶装备？\r\n";
+		pearlDiag += "#L2##b兑换武器。\r\n";
+		pearlDiag += "#L3#兑换装备。#l";
 		cm.sendSimple(pearlDiag);
 	}
 	else if(status == 2 && optionSelected == 0 && selection == 2) // Weapons
 	{
 		isWeapon = true;
-		var wepDiag = "Which weapon would you like to trade for?\r\n"
+		var wepDiag = "你想兑换哪种武器？\r\n"
 		for(var i = 0; i < pearlWep.length; i++){
 			wepDiag += "#L" + i + "##b#i" + pearlWep[i] + "##z" + pearlWep[i] + "#\r\n";
 		}
@@ -121,7 +121,7 @@ function action(mode, type, selection) {
 	}
 	else if(status == 2 && optionSelected == 0 && selection == 3) // Equips
 	{
-		var eqpDiag = "Which equipment would you like to trade for?\r\n"
+		var eqpDiag = "你想兑换哪种装备？\r\n"
 		for(var i = 0; i < pearlEqp.length; i++){
 			eqpDiag += "#L" + i + "##b#i" + pearlEqp[i] + "##z" + pearlEqp[i] + "#\r\n";
 		}
@@ -130,8 +130,8 @@ function action(mode, type, selection) {
 	else if(status == 3 && optionSelected == 0 && isWeapon)
 	{
 		itemSelected = selection;
-		var confirmDiag = "This is the item you want to buy?#i" + pearlWep[itemSelected] + "#\r\n\r\n"
-		confirmDiag += "Here is the required materials needed to buy it.\r\n";
+		var confirmDiag = "这是你想要购买的物品吗？#i" + pearlWep[itemSelected] + "#\r\n\r\n"
+		confirmDiag += "这是购买所需的材料。\r\n";
 		confirmDiag += "#i" + mapleLeaf + "# 2500\r\n";
 		confirmDiag += "#i" + mesoBag + "# 3,000,000";
 		
@@ -140,8 +140,8 @@ function action(mode, type, selection) {
 	else if(status == 3 && optionSelected == 0 && !isWeapon)
 	{
 		itemSelected = selection;
-		var confirmDiag = "This is the item you want to buy?#i" + pearlEqp[itemSelected] + "#\r\n\r\n"
-		confirmDiag += "Here is the required materials needed to buy it.\r\n";
+		var confirmDiag = "这是你想要购买的物品吗？#i" + pearlEqp[itemSelected] + "#\r\n\r\n"
+		confirmDiag += "这是购买所需的材料。\r\n";
 		confirmDiag += "#i" + mapleLeaf + "# 2500\r\n";
 		confirmDiag += "#i" + mesoBag + "# 3,000,000";
 		
@@ -150,42 +150,42 @@ function action(mode, type, selection) {
 	else if(status == 4 && optionSelected == 0 && isWeapon)
 	{
 	    if(cm.getEquipInventory(cm.getChar()).getNumFreeSlot() <= 0){
-                cm.sendOk("Your inventory is full.");
+                cm.sendOk("你的背包已满。");
                 return cm.dispose();
          }
 		if(cm.getQuantityOfItem(mapleLeaf) < 2500){
-			cm.sendOk("You do not have enough maple leaves, come back again later.");
+			cm.sendOk("你没有足够的枫叶，请稍后再来。");
 			return cm.dispose();
 		}
 		if(cm.getMeso() < 3000000){
-			cm.sendOk("You do not have enough mesos, come back again later.");
+			cm.sendOk("你没有足够的枫币，请稍后再来。");
 			return cm.dispose();
 		}
 		
 		cm.gainItem(mapleLeaf, -2500);
 		cm.getChar().gainMeso(-3000000, true);
 		cm.gainItem(pearlWep[itemSelected], 1);
-		cm.sendOk("Successfully purchased a #i" + pearlWep[itemSelected] + "#");
+		cm.sendOk("成功购买了 #i" + pearlWep[itemSelected] + "#");
 		return cm.dispose();
 	}
 	else if(status == 4 && optionSelected == 0 && !isWeapon)
 	{
 	    if(cm.getEquipInventory(cm.getChar()).getNumFreeSlot() <= 0){
-                cm.sendOk("Your inventory is full.");
+                cm.sendOk("你的背包已满。");
                 return cm.dispose();
          }
 		if(cm.getQuantityOfItem(mapleLeaf) < 2500){
-			cm.sendOk("You do not have enough maple leaves, come back again later.");
+			cm.sendOk("你没有足够的枫叶，请稍后再来。");
 			return cm.dispose();
 		}
 		if(cm.getMeso() < 3000000){
-			cm.sendOk("You do not have enough mesos, come back again later.");
+			cm.sendOk("你没有足够的枫币，请稍后再来。");
 			return cm.dispose();
 		}
 		cm.gainItem(mapleLeaf, -2500);
 		cm.getChar().gainMeso(-3000000, true)
 		cm.gainItem(pearlEqp[itemSelected], 1);
-		cm.sendOk("Successfully purchased a #i" + pearlEqp[itemSelected] + "#");
+		cm.sendOk("成功购买了 #i" + pearlEqp[itemSelected] + "#");
 		return cm.dispose();
 	}
 	
@@ -193,15 +193,15 @@ function action(mode, type, selection) {
 	else if(status == 1 && selection == 1)
 	{
 		optionSelected = selection; // Onyx Eqp
-		var onyxDiag = "Which type of onyx maple gear would you like to trade for?\r\n";
-		onyxDiag += "#L2##bTrade for weapons.\r\n";
-		onyxDiag += "#L3#Trade for equipments.#l";
+		var onyxDiag = "你想兑换哪种类型的黑玛瑙枫叶装备？\r\n";
+		onyxDiag += "#L2##b兑换武器。\r\n";
+		onyxDiag += "#L3#兑换装备。#l";
 		cm.sendSimple(onyxDiag);
 	}
 	else if(status == 2 && optionSelected == 1 && selection == 2) // Weapons
 	{
 		isWeapon = true;
-		var wepDiag = "Which weapon would you like to trade for?\r\n"
+		var wepDiag = "你想兑换哪种武器？\r\n"
 		for(var i = 0; i < onyxWep.length; i++){
 			wepDiag += "#L" + i + "##b#i" + onyxWep[i] + "##z" + onyxWep[i] + "#\r\n";
 		}
@@ -209,7 +209,7 @@ function action(mode, type, selection) {
 	}
 	else if(status == 2 && optionSelected == 1 && selection == 3) // Equips
 	{
-		var eqpDiag = "Which equipment would you like to trade for?\r\n"
+		var eqpDiag = "你想兑换哪种装备？\r\n"
 		for(var i = 0; i < onyxEqp.length; i++){
 			eqpDiag += "#L" + i + "##b#i" + onyxEqp[i] + "##z" + onyxEqp[i] + "#\r\n";
 		}
@@ -218,8 +218,8 @@ function action(mode, type, selection) {
 	else if(status == 3 && optionSelected == 1 && isWeapon)
 	{
 		itemSelected = selection;
-		var confirmDiag = "This is the item you want to buy?#i" + onyxWep[itemSelected] + "#\r\n\r\n"
-		confirmDiag += "Here is the required materials needed to buy it.\r\n";
+		var confirmDiag = "这是你想要购买的物品吗？#i" + onyxWep[itemSelected] + "#\r\n\r\n"
+		confirmDiag += "这是购买所需的材料。\r\n";
 		confirmDiag += "#i" + mapleLeaf + "# 5000\r\n";
 		confirmDiag += "#i" + mesoBag + "# 5,000,000\r\n";
 		confirmDiag += "#i" + pearlWep[itemSelected] + "# 1";
@@ -229,8 +229,8 @@ function action(mode, type, selection) {
 	else if(status == 3 && optionSelected == 1 && !isWeapon)
 	{
 		itemSelected = selection;
-		var confirmDiag = "This is the item you want to buy?#i" + onyxEqp[itemSelected] + "#\r\n\r\n"
-		confirmDiag += "Here is the required materials needed to buy it.\r\n";
+		var confirmDiag = "这是你想要购买的物品吗？#i" + onyxEqp[itemSelected] + "#\r\n\r\n"
+		confirmDiag += "这是购买所需的材料。\r\n";
 		confirmDiag += "#i" + mapleLeaf + "# 5000\r\n";
 		confirmDiag += "#i" + mesoBag + "# 5,000,000\r\n";
 		confirmDiag += "#i" + pearlEqp[itemSelected] + "# 1";
@@ -240,21 +240,21 @@ function action(mode, type, selection) {
 	else if(status == 4 && optionSelected == 1 && isWeapon)
 	{
 	    if(cm.getEquipInventory(cm.getChar()).getNumFreeSlot() <= 0){
-                cm.sendOk("Your inventory is full.");
+                cm.sendOk("你的背包已满。");
                 return cm.dispose();
          }
 		if(cm.getQuantityOfItem(mapleLeaf) < 5000){
-			cm.sendOk("You do not have enough maple leaves, come back again later.");
+			cm.sendOk("你没有足够的枫叶，请稍后再来。");
 			return cm.dispose();
 		}
 		
 		if(cm.getQuantityOfItem(pearlWep[itemSelected]) <= 0){
-			cm.sendOk("You do not have the neccessary materials, come back again later.");
+			cm.sendOk("你没有所需的材料，请稍后再来。");
 			return cm.dispose();
 		}
 		
 		if(cm.getMeso() < 5000000){
-			cm.sendOk("You do not enough mesos, come back again later.");
+			cm.sendOk("你没有足够的枫币，请稍后再来。");
 			return cm.dispose();
 		}
 		
@@ -262,25 +262,25 @@ function action(mode, type, selection) {
 		cm.getChar().gainMeso(-5000000, true)
 		cm.gainItem(pearlWep[itemSelected], -1);
 		cm.gainItem(onyxWep[itemSelected], 1);
-		cm.sendOk("Successfully purchased a #i" + onyxWep[itemSelected] + "#");
+		cm.sendOk("成功购买了 #i" + onyxWep[itemSelected] + "#");
 		return cm.dispose();
 	}
 	else if(status == 4 && optionSelected == 1 && !isWeapon)
 	{
 	    if(cm.getEquipInventory(cm.getChar()).getNumFreeSlot() <= 0){
-                cm.sendOk("Your inventory is full.");
+                cm.sendOk("你的背包已满。");
                 return cm.dispose();
          }
 		if(cm.getQuantityOfItem(mapleLeaf) < 5000){
-			cm.sendOk("You do not have enough maple leaves, come back again later.");
+			cm.sendOk("你没有足够的枫叶，请稍后再来。");
 			return cm.dispose();
 		}
 		if(cm.getQuantityOfItem(pearlEqp[itemSelected]) <= 0){
-			cm.sendOk("You do not have the neccessary materials, come back again later.");
+			cm.sendOk("你没有所需的材料，请稍后再来。");
 			return cm.dispose();
 		}
 		if(cm.getMeso() < 5000000){
-			cm.sendOk("You do not enough mesos, come back again later.");
+			cm.sendOk("你没有足够的枫币，请稍后再来。");
 			return cm.dispose();
 		}
 		
@@ -288,7 +288,7 @@ function action(mode, type, selection) {
 		cm.gainItem(pearlEqp[itemSelected], -1);
 		cm.getChar().gainMeso(-5000000, true)
 		cm.gainItem(onyxEqp[itemSelected], 1);
-		cm.sendOk("Successfully purchased a #i" + onyxEqp[itemSelected] + "#");
+		cm.sendOk("成功购买了 #i" + onyxEqp[itemSelected] + "#");
 		return cm.dispose();
 	}
 }

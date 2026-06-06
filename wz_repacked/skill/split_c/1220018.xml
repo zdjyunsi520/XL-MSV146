@@ -1,5 +1,0 @@
-<imgdir name="1220018">
-        <string name="name" value="高阶圣骑士" />
-        <string name="desc" value="精通圣骑士所学到的一切，提升武器熟练度、防御力和最低暴击伤害。根据装备武器类型提升伤害或无视防御~\n钝器: 无视一定%的敌人防御\n剑类: 提升伤害\n前置技能: #c武器精通 Lv. 10以上#" />
-        <string name="h" value="熟练度: +#mastery%，防御力: +#pddX，最低暴击伤害: +#criticaldamageMin%\n装备剑时最大暴击伤害 +10%\n装备钝器时无视5%敌人防御力" />
-    </imgdir>

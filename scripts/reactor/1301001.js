@@ -6,5 +6,5 @@
 function act(){
         rm.spawnMonster(9300732);
 	    rm.dropItems();
-		rm.mapMessage("Look, you got a Timu for training!");
+		rm.mapMessage("看，你获得了一只训练用的提穆！");
 }

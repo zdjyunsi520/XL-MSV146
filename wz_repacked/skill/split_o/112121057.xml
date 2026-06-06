@@ -1,5 +1,0 @@
-<imgdir name="112121057">
-        <string name="name" value="Cat&apos;s Cradle Blitzkrieg" />
-        <string name="desc" value="Whenever a party member successfully attacks an enemy, all enemies in range take damage." />
-        <string name="h" value="Damage from Party Member: #damage%, Number of Hits: #attackCount, Duration: #time, Cooldown: #cooltime sec" />
-    </imgdir>

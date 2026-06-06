@@ -1,7 +1,0 @@
-<imgdir name="23120010">
-        <string name="name" value="Defense Break" />
-        <string name="desc" value="Ignores enemy DEF and Elemental Resistance, and increases maximum critical damage on your attqacks. Also applies to Boss monsters." />
-        <string name="h" value="Ignored Enemy DEF: #ignoreMobpdpR%, Ignored Elemental Resistance: #x%, Critical Damge: +#criticaldamageMax%, Boss ATT: +#bdR%" />
-        <string name="pdesc" value="Ignores enemy DEF and Elemental Resistance, and increases maximum critical damage on your attqacks. Also applies to Boss monsters." />
-        <string name="ph" value="Ignored Enemy DEF: #ignoreMobpdpR%, Ignored Elemental Resistance: #x%, Critical Damge: +#criticaldamageMax%, Boss ATT: +#bdR%" />
-    </imgdir>

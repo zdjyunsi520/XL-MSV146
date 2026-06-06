@@ -1,7 +1,0 @@
-<imgdir name="1001004">
-        <string name="name" value="Power Strike" />
-        <string name="desc" value="Consumes MP to deliver powerful damage to enemies." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
-        <string name="pdesc" value="Consumes MP to deliver powerful damage to enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
-    </imgdir>

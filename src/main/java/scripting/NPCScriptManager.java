@@ -59,7 +59,7 @@ public class NPCScriptManager extends AbstractScriptManager {
         final Lock lock = c.getNPCLock();
         lock.lock();
         if(c.getPlayer().isGM()){
-            c.getPlayer().dropMessage(6,"NPC ID: " + npc);
+            c.getPlayer().dropMessage(6,"NPC ID: " + npc + ";script : " + script);
         }
         try {
             if (!cms.containsKey(c) && c.canClickNPC()) {

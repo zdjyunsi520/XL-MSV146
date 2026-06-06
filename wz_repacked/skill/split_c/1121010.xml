@@ -1,7 +1,0 @@
-<imgdir name="1121010">
-        <string name="name" value="狂暴" />
-        <string name="desc" value="消耗连击球#c聚焦特定敌人#造成额外伤害。消耗1个连击球~\n可通过技能键切换开/关\n前置技能: #c高级连击攻击 Lv. 30以上#" />
-        <string name="h" value="消耗: #mpCon MP和1个连击球，伤害: +#x%，暴击率: +#z%，最低暴击伤害: +#y%，持续时间: #time秒，#c最大目标敌人数: #mobCount#" />
-        <string name="pdesc" value="消耗连击球#c聚焦特定敌人#造成额外伤害。消耗1个连击球~\n前置技能: #c高级连击攻击 Lv. 30以上#" />
-        <string name="ph" value="消耗: #mpCon MP和1个连击球，伤害: +#x%，暴击率: +#z%，最低暴击伤害: +#y%，持续时间: #time秒，#c最大目标敌人数: #mobCount#" />
-    </imgdir>

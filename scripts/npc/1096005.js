@@ -8,7 +8,7 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		cm.sendNextNoESC("Alright! Let's go!");
+		cm.sendNextNoESC("好！出发吧！");
 	} else if (status == 1) {
 		cm.forceCompleteQuest(2572);
 		cm.sendDirectionInfo("Effect/Direction4.img/effect/cannonshooter/flying/0");

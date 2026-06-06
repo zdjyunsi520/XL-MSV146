@@ -26,6 +26,6 @@
 
 
 function start() {
-	cm.sendNext("Home is so boring... my parents ignore me so much it's unbearable. And ever since we moved from #rAriant#k, they've been trying to get a new palace built so they don't have to live outdoors. But I love the outdoors...");
+	cm.sendNext("家里好无聊……我父母忽视我到了令人难以忍受的地步。自从我们搬离#r阿里安特#k后，他们就一直想建一座新宫殿，这样就不用住在户外了。但我喜欢户外……");
 	cm.dispose();
 }

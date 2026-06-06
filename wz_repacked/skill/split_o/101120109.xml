@@ -1,5 +1,0 @@
-<imgdir name="101120109">
-        <string name="name" value="Immune Barrier" />
-        <string name="desc" value="Generates a protective shield that has a chance to absorb damage for a short time. \n#cYou are invincible at the moment the shield is created." />
-        <string name="h" value="Respond to enemy attacks with a #prop% chance of creating a barrier that blocks up to #x% Max HP for #time sec." />
-    </imgdir>

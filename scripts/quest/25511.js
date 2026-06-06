@@ -8,23 +8,23 @@ function start(mode, type, selection) {
 	if (mode == 1)
 	    status++;
 	if (status == 0) {
-	    qm.sendNext("Luminous, I've gathered the power of all the Auguries");
+	    qm.sendNext("夜光法师，我已经聚集了所有奥古里的力量。");
     } else if (status == 1) {
-	    qm.sendNext("I'll use this power to melt the Dark right out of you.");
+	    qm.sendNext("我会用这股力量将你体内的黑暗驱散。");
 	} else if (status == 2) {
-	    qm.sendNext("Remember it's upto you to conquer your darkness. The Auguries will only help so much.");
+	    qm.sendNext("记住，征服你的黑暗只能靠你自己。奥古里只能帮到这里。");
 	}	else if (status == 3) {
-	    qm.sendPlayerToNpc("Have faith. I won't let the Dark take me again!");
+	    qm.sendPlayerToNpc("相信我。我不会让黑暗再次吞噬我！");
 	} else if (status == 4) {
-	    qm.sendNext("Focus on this saying #b<The Light shines brightest in the deepest Dark >#k Okay, here we go!");
+	    qm.sendNext("专注于这句话#b<在最深的黑暗中光芒最为耀眼>#k 好了，开始吧！");
 	}	else if (status == 5) {
 	    qm.sendPlayerToNpc("AAAUGH");
 	} else if (status == 6) {
-	    qm.sendNext("You did it! That wasn't so bad, was it?");
+	    qm.sendNext("你做到了！没那么糟糕，对吧？");
 	}	else if (status == 7) {
-	    qm.sendPlayerToNpc("(What is this new energy that courses through my body? It's as though the Light and Dark merged into one..)");
+	    qm.sendPlayerToNpc("（这股涌过我全身的新能量是什么？就好像光与暗融为一体了……）");
 	} else if (status == 8) {
-	    qm.sendNext("You should rest up for now. We can talk later");
+	    qm.sendNext("你现在应该好好休息。我们以后再谈。");
 	} else if (status == 9) {
         if (qm.canHold(1142481,1)) {	
 	    qm.forceStartQuest();
@@ -35,7 +35,7 @@ function start(mode, type, selection) {
         qm.changeJob(2711);
 	    qm.dispose();
 	}  else {
-	 qm.sendSimple("Please make sure you have available slots in your EQUIP tab");
+	 qm.sendSimple("请确保你的装备栏有空余的格子。");
 	 qm.dispose();
 	}
 	}

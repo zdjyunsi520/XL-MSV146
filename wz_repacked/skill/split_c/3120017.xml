@@ -1,5 +1,0 @@
-<imgdir name="3120017">
-        <string name="name" value="附魔箭袋" />
-        <string name="desc" value="短时间内允许不消耗当前箭袋的#c箭矢#进行射击。箭袋无法切换。同时永久提升每种箭袋的数量和效果~" />
-        <string name="h" value="MP消耗: #mpCon，当前箭头#time秒内不消耗。冷却时间: #cooltime秒\n[被动效果: 血之箭HP吸取率: #x%，毒之箭持续伤害: #dot%，魔之箭伤害: 提升至#damage%]" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="101120202">
-        <string name="name" value="Storm Break" />
-        <string name="desc" value="Attacks the enemies in front of you, creating a whirlpool which pushes forward and deals additional damage to enemies in its path. \n[Required Skill]: #cWind Striker Lv. 1# \n[Command]: After using Wind Striker, use #cWind Cutter#" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Vortex]#: Max Enemies Hit: #x, Damage: #y% per 0.5 sec, Number of Attacks: #z, Duration: #s sec." />
-    </imgdir>

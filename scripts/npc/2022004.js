@@ -12,7 +12,7 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.getQuestStatus(6192) == 1) {
-	    cm.sendOk("Thank you for guarding me. I could do my mission thanks to you. Talk to me when you're out.");
+	    cm.sendOk("感谢你的护卫。多亏了你我才能完成任务。出来后和我说话。");
 	} else {
 	    cm.warp(211000001, 0);
 	    cm.dispose();
@@ -24,7 +24,7 @@ function action(mode, type, selection) {
 		cm.warp(211000001, 0);
 		cm.dispose();
 	    } else {
-		cm.sendOk("You're not given items as there's no blank in Others box. Make a blank and talk to me again.");
+		cm.sendOk("由于其他物品栏没有空位，无法获得物品。请腾出空间后再来和我说话。");
 		cm.safeDispose();
 	    }
 	} else {

@@ -1,8 +1,0 @@
-<imgdir name="31101001">
-        <string name="name" value="黑暗冲击" />
-        <string name="desc" value="以可怕的狂暴之力向前冲锋，拖拽多个可怜的敌人一起前进。" />
-        <string name="h" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount" />
-        <string name="pdesc" value="以可怕的狂暴之力向前冲锋，拖拽多个可怜的敌人一起前进。" />
-        <string name="ph" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount\n冷却时间：#cooltime秒" />
-        <string name="hch" value="怒气消耗：#forceCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount\n冷却时间：#hcCooltime秒" />
-    </imgdir>

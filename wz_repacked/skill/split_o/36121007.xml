@@ -1,5 +1,0 @@
-<imgdir name="36121007">
-        <string name="name" value="Temporal Pod" />
-        <string name="desc" value="A Temporal Pod that twists the flow of the time to quickly reduce the skill cooldown of nearby party members. The pod will be destroyed when hit. Hyper Skills of one&apos;s own are affected, but some skills are not." />
-        <string name="h" value="MP Cost: #mpCon, Duration of party cooldown reduction effect: #time. Cooldown: #cooltime sec" />
-    </imgdir>

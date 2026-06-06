@@ -1,7 +1,0 @@
-<imgdir name="11101003">
-        <string name="name" value="Rage" />
-        <string name="desc" value="Increases the Weapon ATT of your party members for a short time. Stacks with other buffs." />
-        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Duration: #time sec" />
-        <string name="pdesc" value="Momentarily increases the Battle Mode ATT of allies." />
-        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, Duration: #time sec" />
-    </imgdir>

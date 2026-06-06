@@ -1,8 +1,0 @@
-<imgdir name="22141004">
-        <string name="name" value="龙之瞬移" />
-        <string name="desc" value="瞬移到地图的随机位置。技能等级越高MP消耗和冷却时间越短。" />
-        <string name="h" value="MP消耗：#mpCon，冷却时间：#cooltime 秒" />
-        <string name="pdesc" value="瞬移到地图的随机位置。技能等级越高MP消耗和冷却时间越短。" />
-        <string name="ph" value="MP消耗：#mpCon，冷却时间：#cooltime 秒" />
-        <string name="hch" value="MP消耗：#mpCon，冷却时间：#hcCooltime 秒" />
-    </imgdir>

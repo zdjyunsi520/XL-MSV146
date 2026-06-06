@@ -8,7 +8,7 @@ var status = -1;
 function start(mode, type, selection) {
 	status++;
 	if (status == 0) {
-		qm.sendYesNo("Chin up! No slouching! I'm going to whip you into shape.");
+		qm.sendYesNo("抬头挺胸！不要驼背！我要把你训练成型。");
 	} else if (status == 1) {
 		qm.AranTutInstructionalBubble("Effect/OnUserEff.img/guideEffect/cygnusTutorial/3");
 		qm.spawnMonster(9300730,3);

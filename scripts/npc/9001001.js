@@ -1,5 +1,5 @@
 function start() {
-    cm.sendSimple("#b\r\n#L0#Sweet Cake Hill 1#l\r\n#L1#Sweet Cake Hill 2#l#k");
+    cm.sendSimple("#b\r\n#L0#甜蜜蛋糕山1#l\r\n#L1#甜蜜蛋糕山2#l#k");
 }
 
 function action(mode,type,selection) {

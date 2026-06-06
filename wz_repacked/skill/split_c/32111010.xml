@@ -1,8 +1,0 @@
-<imgdir name="32111010">
-        <string name="name" value="瞬间移动精通" />
-        <string name="desc" value="激活后，传送地点的敌人将受到伤害并被眩晕。永久提升传送距离~\n可通过技能键切换开/关。\n前置技能: #c瞬间移动 Lv. 5#" />
-        <string name="h" value="MP消耗: #y, 伤害: #damage%, 最大敌人数: #mobCount, 眩晕几率: #subProp%, 眩晕时间: #time秒, 传送距离: +#x" />
-        <string name="pdesc" value="激活后，传送地点的敌人将受到伤害并被眩晕。永久提升传送距离~\n可通过技能键切换开/关。\n前置技能: #c瞬间移动 Lv. 5#" />
-        <string name="ph" value="MP消耗: #y, 伤害: #damage%, 最大敌人数: #mobCount, 眩晕几率: #subProp%, 眩晕时间: #time秒, 传送距离: +#x" />
-        <string name="hch" value="MP消耗: #y, 伤害: #damage%, 最大敌人数: #mobCount, 眩晕几率: #hcSubProp%, 眩晕时间: #hcTime秒, 传送距离: +#x" />
-    </imgdir>

@@ -7,9 +7,9 @@
 
 function start() {
     if (cm.haveItem(4031061)) {
-	cm.sendNext( "Great job clearing level 1! Alright ... I'll send you off to where #b#p2030008##k is. Before that!! Please be aware that the various, special items you have acquired here will not be carried out of here. I'll be taking away those items from your item inventory, so remember that. See ya!" );
+	cm.sendNext( "干得好，通过了第1阶段！好的……我会把你送到#b#p2030008##k那里。在此之前！！请注意，你在这里获得的各种特殊物品不会被带出去。我会从你的物品栏中收回这些物品，请记住这一点。再见！" );
     } else {
-	cm.sendNext("Must have quit midway through. Alright, I'll send you off right now. Before that!! Please be aware that the various, special items you have acquired here will not be carried out of here. I'll be taking away those items from your item inventory, so remember that. See ya!");
+	cm.sendNext("一定是中途退出了吧。好的，我现在就把你送出去。在此之前！！请注意，你在这里获得的各种特殊物品不会被带出去。我会从你的物品栏中收回这些物品，请记住这一点。再见！");
     }
 }
 

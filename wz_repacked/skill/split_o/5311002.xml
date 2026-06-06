@@ -1,8 +1,0 @@
-<imgdir name="5311002">
-        <string name="name" value="Monkey Wave" />
-        <string name="desc" value="Creates a large noise that deals damage to nearby enemies. The longer your gather your strength, the louder the noise will be. When critical is hit, it can be used immediately at full strength." />
-        <string name="h" value="MP Cost: #mpCon, Max Damage: #damage%, Stun Chance: #prop%, After Critical: #w% chance of full strength.\nPassive effect: Critical Rate: +#cr%" />
-        <string name="pdesc" value="Creates a large noise that deals damage to nearby enemies. The longer your gather your strength, the louder the noise will be. When critical is hit, it can be used immediately at full strength." />
-        <string name="ph" value="MP Cost: #mpCon, Max Damage: #damage%, Stun Chance: #prop%, After Critical: #w% chance of full strength.\nPassive effect: Critical Rate: +#cr%" />
-        <string name="hch" value="MP Cost: #mpCon, Max Damage: #damage%, Stun Chance: #hcprop%, When Critical is hit: #w% chance of full strength.\nPassive effect: Critical Rate: +#cr%" />
-    </imgdir>

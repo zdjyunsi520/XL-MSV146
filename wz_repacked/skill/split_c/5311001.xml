@@ -1,8 +1,0 @@
-<imgdir name="5311001">
-        <string name="name" value="猴子疯狂" />
-        <string name="desc" value="引爆大量特殊炸弹，对附近多个敌人造成伤害并使其眩晕！此外，学习猴子疯狂后会永久提升木桶炸弹的伤害。" />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-        <string name="pdesc" value="引爆大量特殊炸弹，对附近多个敌人造成伤害并使其眩晕！此外，学习猴子疯狂后会永久提升木桶炸弹的伤害。" />
-        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-    </imgdir>

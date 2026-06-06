@@ -1,5 +1,0 @@
-<imgdir name="15001022">
-        <string name="name" value="Lightning Elemental" />
-        <string name="desc" value="Summons a thunder elemental to bolster your powers." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec. Lightning Buff Chance: #prop%, Buff Duration: #y, Monster DEF Ignored: #x%. Max Accumulation: #v time(s)." />
-    </imgdir>

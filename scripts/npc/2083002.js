@@ -12,9 +12,9 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.getMapId() == 240050400) {
-	    cm.sendYesNo("Do you want to go back to #m240050000#?");
+	    cm.sendYesNo("你想回到#m240050000#吗？");
 	} else {
-	    cm.sendYesNo("Do you want to go back to #m240050400#?");
+	    cm.sendYesNo("你想回到#m240050400#吗？");
 	}
     } else if (status == 1) {
 	if (cm.getMapId() == 240050400) {

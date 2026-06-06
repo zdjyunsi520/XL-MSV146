@@ -18,9 +18,9 @@ function enter(pi) {
 					pi.warpParty(pi.getMapId() + 100);
 					pi.playPortalSE();
 				} else {
-					pi.playerMessage(5,"This portal is not available yet.");
+					pi.playerMessage(5,"此传送门暂不可用。");
 				}
         } else {
-                pi.playerMessage(5,"This portal is not available.");
+                pi.playerMessage(5,"此传送门不可用。");
         }
 }

@@ -1,5 +1,0 @@
-<imgdir name="20040220">
-        <string name="name" value="Equilibrium" />
-        <string name="desc" value="Has a chance to activate Power Stance. All damage received will be reduced to 1. No cooldown. Increases skill damage output. All light skills will recover 1% of your HP. Uses 0 MP." />
-        <string name="h" value="#prop% chance for Power Stance to activate for #time sec. #damage% bonus damage dealt with spells. 100% bonus dealt when Equilibrum is used. Cooldowns not applied. 0 MP used for Dark spells. #x% HP restored with Light spells.\n#cLight and Darkness applied for combination spells.#" />
-    </imgdir>

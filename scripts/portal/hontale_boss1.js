@@ -5,7 +5,7 @@ function enter(pi) {
 	var prop = em.getProperty("preheadCheck");
 
 	if (prop != null && prop.equals("0")) {
-	    pi.mapMessage(6, "The enromous creature is approaching from the deep cave.")
+	    pi.mapMessage(6, "巨大的生物正从深洞中靠近。")
 	    em.setProperty("preheadCheck", "1");
 	}
     }

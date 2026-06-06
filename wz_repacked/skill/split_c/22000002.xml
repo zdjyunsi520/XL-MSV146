@@ -1,5 +1,0 @@
-<imgdir name="22000002">
-        <string name="name" value="元素弱点" />
-        <string name="pdesc" value="有概率使敌人对魔法变得脆弱。" />
-        <string name="ph" value="持续时间：#time 秒，成功率：#prop%，额外魔法伤害：+#x%" />
-    </imgdir>

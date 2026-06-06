@@ -1,5 +1,0 @@
-<imgdir name="112000000">
-        <string name="name" value="Paw Swipe" />
-        <string name="desc" value="Attacks several enemies 3 times.\n[Command]: Tap #cAttack Key# multiple times" />
-        <string name="h" value="First 3 Hits: Damage: #damage%, Max Enemies Hit: #mobCount, Max Hits: #attackCount \n 2nd and 3rd: MP Cost: #y" />
-    </imgdir>

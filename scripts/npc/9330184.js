@@ -19,14 +19,14 @@ function action(mode, type, selection) {
         status--;
     }
     if (status == 0) {
-        cm.sendNext("the zombies are still there!wat are you dooooing?");
+        cm.sendNext("谢谢你的帮助！我得复习一下我的亡灵术！哇啊啊..");
     } else if (status == 1) {
 		if(cm.getChar().getMap().getAllMonstersThreadsafe().size()==0){
 			if(cm.getfsblog("totem")==0){
 				cm.setbosslog("totem");
 				cm.makeitem(1202042+(Math.floor(Math.random()*4)+1),0,0,0,0,0,0,1,7,"");
 			}
-			cm.sendOk("Thank you for your help!I need to brush up on my necromancy!blaah..");
+			cm.sendOk("谢谢你的帮助！我得复习一下我的亡灵术！哇啊啊..");
 		}
 		cm.dispose();
 	}

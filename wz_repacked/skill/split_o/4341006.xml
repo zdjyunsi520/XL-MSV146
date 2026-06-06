@@ -1,8 +1,0 @@
-<imgdir name="4341006">
-        <string name="name" value="Mirrored Target" />
-        <string name="desc" value="Permanently increases your Defense and Avoidability. Also turns your Mirror Image into a dummy that draws enemy attacks and absorbs damage. This skill can only be used when Mirror Image is active.\nRequired Skill: #cLv. 20 Mirror Image#\n#cMastery Book required to unlock Lv. 11#" />
-        <string name="h" value="Active Effect: MP Cost: #mpCon, Duration: #time sec, HP of Summoned Dummy: #x, Summoned Dummy absorbs #y% of damage\n[Passive Effect: Avoid enemy&apos;s attack at #er% chance, Weapon Defense: +#pddR%, Magic Defense: +#mddR%]" />
-        <string name="pdesc" value="Permanently increases your Defense and Avoidability. Also turns your Mirror Image into a dummy that draws enemy attacks and absorbs damage. This skill can only be used when Mirror Image is active.\nRequired Skill: #cLv. 20 Mirror Image#\n#cMastery Book required to unlock Lv. 11# (String)" />
-        <string name="ph" value="Active Effect: MP Cost: #mpCon, Duration: #time sec, HP of Summoned Dummy: #x, Summoned Dummy absorbs #y% of damage\n[Passive Effect: Avoid enemy&apos;s attack at #er% chance, Weapon Defense: +#pddR%, Magic Defense: +#mddR%]" />
-        <string name="hch" value="Active Effect: MP Cost: #mpCon, Duration: #time sec, HP of Summoned Dummy: #hcSummonHp, Summoned Dummy absorbs #y% of damage\n[Passive Effect: Avoid enemy&apos;s attack at #er% chance, Weapon Defense: +#pddR%, Magic Defense: +#mddR%]" />
-    </imgdir>

@@ -25,7 +25,7 @@
   */
   
 function act() {
-    rm.mapMessage(5, "As the light flickers, someone appears out of the light.");
+    rm.mapMessage(5, "光芒闪烁中，有人从光芒中现身。");
     rm.spawnNpc(2013001);
 	var em = rm.getEventManager("OrbisPQ");
 	if (em != null) {

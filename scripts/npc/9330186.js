@@ -1,4 +1,4 @@
-load("nashorn:mozilla_compat.js");
+load("让我给你一个测试：#b\r\n");
 importPackage(Packages.tools);
 var status = 0;
 var selStr;
@@ -34,15 +34,15 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 		if(cm.getbosslog("haogandt")==0){
-			selStr = "Let me give you a test:#b\r\n";
+			selStr = "好的。请提升他/她的好感度！\r\n#e#k(可用好感点数 #r";
 			selStr+=d+" + "+b+" x "+c+" + "+a+" = ?";
 			cm.sendGetNumber(selStr,1,1,9999);
 		}else{
-			selStr = "okay.Please raise his/her FriendShip level!\r\n#e#k(FriendShip points available #r"+haogan+"#k )please choose:#n#b\r\n";
-			selStr+="#L0##eJoe(DEX)#n (Got #r"+cm.getChar().getgetschool(0)+"#b Friendship Points.)#l\r\n";
-			selStr+="#L1##eHermoninny(INT)#n (Got #r"+cm.getChar().getgetschool(1)+"#b Friendship Points.)#l\r\n";
-			selStr+="#L2##eLittle Dragon(STR)#n (Got #r"+cm.getChar().getgetschool(2)+"#b Friendship Points.)#l\r\n";
-			selStr+="#L3##eIka(LUK)#n (Got #r"+cm.getChar().getgetschool(3)+"#b Friendship Points.)#l\r\n";
+			selStr = "#k )请选择：#n#b\r\n"+haogan+"#L0##e乔(敏捷)#n (已获得 #r";
+			selStr+="#b 好感点数。)#l\r\n"+cm.getChar().getgetschool(0)+"#L1##e赫蒙妮(智力)#n (已获得 #r";
+			selStr+="#L2##e小龙(力量)#n (已获得 #r"+cm.getChar().getgetschool(1)+"#L1##e赫蒙妮(智力)#n (已获得 #r";
+			selStr+="#L3##e伊卡(运气)#n (已获得 #r"+cm.getChar().getgetschool(2)+"#L1##e赫蒙妮(智力)#n (已获得 #r";
+			selStr+="不错。我觉得你的智商不低..哈哈！"+cm.getChar().getgetschool(3)+"#L1##e赫蒙妮(智力)#n (已获得 #r";
 			cm.sendSimple(selStr);
 		}
     } else if (status == 1) {
@@ -50,22 +50,22 @@ function action(mode, type, selection) {
 			if(selection==ass){
 				status=-1;
 				cm.setbosslog("haogandt");
-				cm.getPlayer().getMap().startSimpleMapEffect("Good.I think your IQ is not low..lmao!", 5120067);
-				cm.sendNext("Correct! You get a point, so you pass!");
+				cm.getPlayer().getMap().startSimpleMapEffect("正确！你获得1分，通过了测试！", 5120067);
+				cm.sendNext("哦。答案不对！");
 			}else{
-				cm.sendOk("oh.The answer is wrong!");
+				cm.sendOk("好感点数已分配！请前往下一张地图！");
 				cm.dispose();
 			}
 		}else{
 			if(cm.getbosslog("haogan"+cm.getChar().getMapId())==0){
 				cm.setbosslog("haogan"+cm.getChar().getMapId());
 				cm.getChar().setgetschool(selection,haogan+cm.getChar().getgetschool(selection));
-				cm.sendOk("FriendShip points has been allocated!please move to next map!");
+				cm.sendOk("好感点数已分配！请前往下一张地图！");
 			}else{
 				if(cm.getChar().getMapId()==744000001){
 					cm.warp(744000000,0);
 				}else{
-					cm.sendOk("FriendShip points has been allocated!please move to next map!");
+					cm.sendOk("好感点数已分配！请前往下一张地图！");
 				}
 			}
 			cm.dispose();

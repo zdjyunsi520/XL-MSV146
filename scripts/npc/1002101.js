@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to head straight to Island of Sleeping Dragon?");
+	cm.sendYesNo("你想直接前往沉睡龙之岛吗？");
     } else if (status == 1) {
 	cm.warp(914100000);
 	cm.dispose();

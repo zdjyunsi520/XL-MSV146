@@ -1,5 +1,0 @@
-<imgdir name="15000023">
-        <string name="name" value="带电体质" />
-        <string name="desc" value="利用雷电之力让身体更加灵活敏捷。" />
-        <string name="h" value="雷电增益概率：+#prop%，最大叠加次数：+#v，速度：#psdSpeed，跳跃：+#psdJump，速度上限：+#speedMax。" />
-    </imgdir>

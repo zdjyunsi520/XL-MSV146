@@ -1,7 +1,0 @@
-<imgdir name="1211004">
-        <string name="name" value="火焰充能" />
-        <string name="desc" value="暂时为武器注入火属性，提升攻击力。使用属性攻击时有概率造成持续火焰伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Fire Attribute Duration: #time sec, Damage: #damage%, When Charge Blow is used, inflicts continuous #dot% fire damage for #dotTime sec with #prop% chance." />
-        <string name="pdesc" value="暂时为武器注入火属性，提升攻击力。使用属性攻击时有概率造成持续火焰伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Fire Attribute Duration: #time sec, Damage: +#damage%" />
-    </imgdir>

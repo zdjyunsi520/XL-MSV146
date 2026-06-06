@@ -13,7 +13,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("Hey, I'm Pata, and I am a cosmetic lens expert here in Mu Lung. I believe your eyes are the most important feature in your body, and with #b#t5152042##k or #b#t5152041##k, I can prescribe the right kind of cosmetic lenses for you. Now, what would you like to use? \r\n#L0#Cosmetic Lenses: #i5152042##t5152042##l\r\n#L1#Cosmetic Lenses: #i5152041##t5152041##l");
+	cm.sendSimple("嘿，我是帕塔，武陵的美瞳专家。我相信眼睛是你身上最重要的特征，有了#b#t5152042##k或#b#t5152041##k，我可以为你配到合适的美瞳。你想用哪种？\r\n#L0#美瞳：#i5152042##t5152042##l\r\n#L1#美瞳：#i5152041##t5152041##l");
     } else if (status == 1) {
 	facetype = [];
 
@@ -34,23 +34,23 @@ function action(mode, type, selection) {
 
 	if (selection == 0) {
 	    beauty = 1;
-	    cm.sendYesNo("If you use the regular coupon, you'll be awarded a random pair of cosmetic lenses. Are you going to use a #b#t5152042##k and really make the change to your eyes?");
+	    cm.sendYesNo("如果你使用普通优惠券，你将随机获得一副美瞳。你确定要使用#b#t5152042##k来改变你的眼型吗？");
 	} else if (selection == 1) {
 	    beauty = 2;
-	    cm.askAvatar("With our new computer program, you can see yourself after the treatment in advance. What kind of lens would you like to wear? Please choose the style of your liking.", facetype);
+	    cm.askAvatar("通过我们的全新电脑程序，你可以提前看到护理后的效果。你想戴什么样的美瞳呢？请选择你喜欢的风格。", facetype);
 	}
     } else if (status == 2){
 	if (beauty == 1){
 	    if (cm.setRandomAvatar(5152042, facetype) == 1) {
-		cm.sendOk("Enjoy your new and improved face!");
+		cm.sendOk("享受你全新的面容吧！");
 	    } else {
-		cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+		cm.sendOk("嗯……看起来你没有这里专用的优惠券。很抱歉，没有优惠券的话，是无法进行整形手术的……");
 	    }
 	} else {
 	    if (cm.setAvatar(5152041, facetype[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved face!");
+		cm.sendOk("享受你全新的面容吧！");
 	    } else {
-		cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+		cm.sendOk("嗯……看起来你没有这里专用的优惠券。很抱歉，没有优惠券的话，是无法进行整形手术的……");
 	    }
 	}
 	cm.safeDispose();

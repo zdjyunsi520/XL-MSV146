@@ -1,7 +1,0 @@
-<imgdir name="4111005">
-        <string name="name" value="复仇者" />
-        <string name="desc" value="投掷一枚飞镖。飞镖会穿透敌人并攻击后面的敌人！" />
-        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="投掷一枚飞镖。飞镖会穿透敌人并攻击后面的敌人！" />
-        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

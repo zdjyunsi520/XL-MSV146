@@ -9,16 +9,16 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 1) {
-		    qm.sendOk("Let me know if you want to hear any more of my heroic tales!");
+		    qm.sendOk("如果你想听更多我的英雄故事，就告诉我！");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("So there I was, one man against ELEVEN #o9390927#s! Bam! Boom! POW! I made 'em all scramble for the hills all by myself! They even whimpered the location of their hideout while they ran!");
+	    qm.sendNext("当时就我一个人，面对十一只#o9390927#！砰！嘭！啪！我把它们全打到抱头鼠窜！它们逃跑的时候甚至呜咽着说出了它们巢穴的位置！");
 	} else if (status == 1) {
-	    qm.sendYesNoS("(Tom is so full of squirrel poop. Anyway, guess I should tell Woodrock about the #m866000130#.)",16);
+	    qm.sendYesNoS("（汤姆满嘴跑火车。不管了，看来应该把#m866000130#的事告诉岩石。）",16);
 	} else if (status == 2) {
-	    qm.sendNext("You're not gonna tell Woodrock again, are you?");	
+	    qm.sendNext("你不会又去告诉岩石了吧？");	
 	} else if (status == 3) {
 	    qm.forceStartQuest();
 	    qm.dispose();	

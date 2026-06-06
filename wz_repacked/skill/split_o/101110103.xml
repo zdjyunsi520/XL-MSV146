@@ -1,5 +1,0 @@
-<imgdir name="101110103">
-        <string name="name" value="Armor Split" />
-        <string name="desc" value="Strengthens the Heavy Sword. Grants a chance to split enemy armor and decrease enemy defense rate when attacking." />
-        <string name="h" value="When Beta attacks there is a #prop% chance of dropping the target&apos;s defense rate by #y% for the #time sec\n#cCan be stacked up to #x times#" />
-    </imgdir>

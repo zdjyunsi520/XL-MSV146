@@ -1,7 +1,0 @@
-<imgdir name="12110000">
-        <string name="name" value="魔法暴击" />
-        <string name="desc" value="永久提升攻击暴击率和最低暴击伤害。" />
-        <string name="h" value="Critical rate: +#cr%, Minimum Critical Damage: +#criticaldamageMin%" />
-        <string name="pdesc" value="提升你的属性攻击抗性，减少受到的伤害。" />
-        <string name="ph" value="Elemental Resistance: +#x%" />
-    </imgdir>

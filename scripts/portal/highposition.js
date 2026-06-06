@@ -29,8 +29,8 @@ function enter(pi) {
     if (changedd) {
 	pi.updateInfoQuest(27017, new_quest);
 	pi.forceStartQuest(27018, number+1, true);
-	pi.getPlayer().dropMessage(-1, (number+1) +"/5 completed");
-	pi.getPlayer().dropMessage(-1, "Currently taking on the Title - The One Who Stood On Top");
-	pi.showQuestMsg("Currently taking on the Title - The One Who Stood On Top " + (number+1) + "/5 completed");
+	pi.getPlayer().dropMessage(-1, (number+1) +"/5 已完成");
+	pi.getPlayer().dropMessage(-1, "正在挑战称号 - 站在顶端之人");
+	pi.showQuestMsg("正在挑战称号 - 站在顶端之人 " + (number+1) + "/5 已完成");
     }
 }

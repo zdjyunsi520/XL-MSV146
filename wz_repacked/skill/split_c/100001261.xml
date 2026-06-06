@@ -1,9 +1,0 @@
-<imgdir name="100001261">
-        <string name="name" value="时间扭曲" />
-        <string name="desc" value="召唤超越者的力量扭曲局部时间。" />
-        <string name="h" value="时间之力消耗: #forceCon, 持续#time秒创建时间领域 \n#c[领域内的敌人]#: 每隔#subTime秒，取消增益，受到伤害增加#x%，并眩晕 \n#c[领域内的队员]#: 每4秒，消除魔法并解除异常状态 \n#c冷却时间: #cooltime秒#" />
-        <imgdir name="lock">
-            <string name="name" value="???" />
-            <string name="desc" value="此技能在Lv.110时解锁。" />
-        </imgdir>
-    </imgdir>

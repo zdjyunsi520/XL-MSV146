@@ -1,7 +1,0 @@
-<imgdir name="4201011">
-        <string name="name" value="金币守护" />
-        <string name="desc" value="消耗金币来吸收最多50%受到的伤害。消耗的金币数量取决于技能等级和伤害减少率~" />
-        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒，使用最多#y金币防御#x%的守护伤害" />
-        <string name="pdesc" value="短时间内抵挡50%的所有伤害。战斗模式下可以不消耗金币进行防御~" />
-        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒，使用最多#y金币防御#x%的守护伤害" />
-    </imgdir>

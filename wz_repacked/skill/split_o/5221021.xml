@@ -1,5 +1,0 @@
-<imgdir name="5221021">
-        <string name="name" value="Quickdraw" />
-        <string name="desc" value="Attacks with a chance for the next skill attack to have increased damage. When used while activated, the next skill&apos;s Attack Power is enhanced." />
-        <string name="h" value="When used, the damage of the next skill increases by #damR%\n[Passive Effect: Attack with a #prop% chance to activate the #cQuickdraw effect#. Skill can be used when effect is activated.]" />
-    </imgdir>

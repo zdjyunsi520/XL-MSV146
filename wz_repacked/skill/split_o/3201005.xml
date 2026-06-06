@@ -1,7 +1,0 @@
-<imgdir name="3201005">
-        <string name="name" value="Iron Arrow" />
-        <string name="desc" value="Fires a steel arrow that can penetrate enemy defenses. " />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Fires a steel arrow that can penetrate enemy defenses. " />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

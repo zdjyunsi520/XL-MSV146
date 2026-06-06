@@ -10,13 +10,13 @@ function action(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	//    cm.sendNextS("Uhhhhhh. You can use my power if you need it.",5,9390301);
+	//    cm.sendNextS("我也一样，小家伙。",5,9390301);
 	//} else if (status == 1) {	
-	//    cm.sendNextPrevS("Same goes for me, kiddo.",5,9390302);
+	//    cm.sendNextPrevS("Eka和Arby给了你新的力量！打开技能窗口可以查看关于我们的更多信息，小家伙。",5,9390302);
 	//} else if (status == 2) {	
-    //    cm.sendNextPrevS("Eka and Arby gave you new powers! Check out your skill window if you want more info about us, kiddo.",5,9390302);
+    //    cm.sendNextPrevS("你的动物伙伴们让你可以使用守护跳跃和回归之力。",5,9390302);
 	//} else if (status == 3) {
-	    cm.topMsg("Your animal friends gave you access to Guardian Leap and Homeward Bound.");
+	    cm.topMsg("你的动物伙伴们让你可以使用守护跳跃和回归之力。");
 		cm.OpenUI(192);
 	    cm.dispose();
 	}

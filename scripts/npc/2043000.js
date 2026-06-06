@@ -1,7 +1,7 @@
 /*Coded By Tim (Vote)*/
 
 var status = 0;
-var Error = "#rHmmm ... You don't have enough #eVotePoints!#n";
+var Error = "#r嗯……你没有足够的#e投票点数！#n";
 
 function start() {
     status = -1;
@@ -21,23 +21,23 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-    cm.sendSimple ("Hello #r#h ##k, Welcome to the #rAmoria VotePoint Exchanger. \r\n You have #r[" + cm.getVPoints() +"]#k Votepoints#k. \r\n #e#rTHERE ARE NO REFUNDS." +
-                "\r\n#L1##e#bNexon Cash#l" + 
-                "\r\n#L2##rMiracle Cubes#l");
+    cm.sendSimple ("你好#r#h ##k，欢迎来到#r阿摩里亚投票点数兑换处。\r\n 你拥有#r[" + cm.getVPoints() +"]#k投票点数#k。\r\n #e#r概不退款。" +
+                "\r\n#L1##e#bNexon点券#l" + 
+                "\r\n#L2##r奇迹方块#l");
         } else if (selection == 1) {
-                cm.sendSimple ("You Currently have#r [" + cm.getVPoints() + "]#k Vote Points."+
-                "#k\r\nChoose Carefully!" +
-                "#k\r\n#L3##i5200009# #e#b5k #rNX #gCash #d~ #r(2) #bVotePoint(s) #i5200009#" +
-                "#k\r\n#L4##i5200009# #e#b10k #rNX #gCash #d~ #r(3) #bVotePoint(s) #i5200009#" +
-                "#k\r\n#L5##i5200009# #e#b15k #rNX #gCash #d~ #r(4) #bVotePoint(s) #i5200009#" +
-                "#k\r\n#L6##i5200009# #e#b20k #rNX #gCash #d~ #r(5) #bVotePoint(s) #i5200009#" +
-                "#k\r\n#L7##i5200009# #e#b25k #rNX #gCash #d~ #r(6) #bVotePoint(s) #i5200009#");
+                cm.sendSimple ("你目前拥有#r[" + cm.getVPoints() + "]#k投票点数。"+
+                "#k\r\n请谨慎选择！" +
+                "#k\r\n#L3##i5200009# #e#b5k #rNX #g点券 #d~ #r(2) #b投票点数 #i5200009#" +
+                "#k\r\n#L4##i5200009# #e#b10k #rNX #g点券 #d~ #r(3) #b投票点数 #i5200009#" +
+                "#k\r\n#L5##i5200009# #e#b15k #rNX #g点券 #d~ #r(4) #b投票点数 #i5200009#" +
+                "#k\r\n#L6##i5200009# #e#b20k #rNX #g点券 #d~ #r(5) #b投票点数 #i5200009#" +
+                "#k\r\n#L7##i5200009# #e#b25k #rNX #g点券 #d~ #r(6) #b投票点数 #i5200009#");
         } else if (selection == 2) {
-                cm.sendSimple ("You Currently have#r [" + cm.getVPoints() + "]#k Vote Points."+
-                "#k\r\nChoose Carefully!" +
-                "#k\r\n#L8##b#i5062002# #e#bMiracle #rCube #g10 #d~ #b(2) #rVotePoint(s)" +
-		"#k\r\n#L9##b#i5062000# #eMiracle #rCube #gx15 #d~ #b(3) #rVotePoint(s)" +
-		"#k\r\n#L10##b#i5062009# #e#bMiracle #rCube #gx5 #d~ #b(4) #rVotePoint(s)");
+                cm.sendSimple ("你目前拥有#r[" + cm.getVPoints() + "]#k投票点数。"+
+                "#k\r\n请谨慎选择！" +
+                "#k\r\n#L8##b#i5062002# #e#b奇迹 #r方块 #gx10 #d~ #b(2) #r投票点数" +
+		"#k\r\n#L9##b#i5062000# #e奇迹 #r方块 #gx15 #d~ #b(3) #r投票点数" +
+		"#k\r\n#L10##b#i5062009# #e#b奇迹 #r方块 #gx5 #d~ #b(4) #r投票点数");
 	
     } else if (selection == 3) {
 

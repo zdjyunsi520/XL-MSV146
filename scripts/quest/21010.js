@@ -10,26 +10,26 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 3) {
-	    qm.sendNext("No no no, you don't have to say no. It's just a potion, anyway. Besides, for a hero like you, I can give you these all day! Let me know when you change your mind.");
+	    qm.sendNext("不不不，你不必拒绝。反正只是一瓶药水而已。而且，对于像你这样的英雄，我可以整天给你这些！你改变主意的时候告诉我。");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("Hmmm? What's human doing here? Wait, hey there #p1201000#. What brought you here? Oh and... do you know this person, #p1201000#? What? A hero?");
+	qm.sendNext("嗯？人类在这里做什么？等等，嘿，#p1201000#。什么风把你吹来了？哦还有...你认识这个人吗，#p1201000#？什么？英雄？");
     } else if (status == 1) {
 	qm.sendNextPrev("     #i4001170#");
     } else if (status == 2) {
-	qm.sendNextPrev("Wait, so I am looking at the very person that your race has been waiting for hundreds of years? Wow!! I could tell the hero looked a bit different from the rest...");
+	qm.sendNextPrev("等等，我正在看着的就是你们这个种族等了几百年的那个人？哇！！我能看出来英雄看起来和其他人有点不一样...");
     } else if (status == 3) {
-	qm.askAcceptDecline("But because of that curse of the Black Wizard that got you trapped in ice for hundreds of years, you do look quite weak. #bHere's a potion for recovery. Please take it#k.");
+	qm.askAcceptDecline("但因为黑魔法师的诅咒让你被困在冰中数百年，你看起来确实很虚弱。#b这是一瓶恢复药水。请收下#k。");
     } else if (status == 4) { // TODO HP set to half
-	qm.sendNext("Just drink it up first, then we'll continue our talk!");
+	qm.sendNext("先把药水喝了，然后我们继续聊！");
 	qm.gainItem(2000022, 1);
 	qm.forceStartQuest();
     } else if (status == 5) {
-	qm.sendNextPrevS("#b(Wait, how do I drink this? I don't remember...)#k", 3);
+	qm.sendNextPrevS("#b(等等，我怎么喝这个？我不记得了...)#k", 3);
     } else if (status == 6) {
 	qm.summonMsg(0xE);
 	qm.dispose();
@@ -43,11 +43,11 @@ function end(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("I've been searching through blocks of ice inside the cave in hopes of finding our hero, but... I didn't think I'd actually see one in front of me right now! The prophecy is correct! #p1201000#, you were right! Now that the hero has been resurrected, we won't have to worry about the Black Wizard anymore, right?");
+	qm.sendNext("我一直在洞穴里的冰块中寻找，希望能找到我们的英雄，但...没想到真的会在面前看到！预言是正确的！#p1201000#，你是对的！既然英雄已经复活了，我们就不用再担心黑魔法师了，对吧？");
     } else if (status == 1) {
-	qm.sendNextPrev("Wait, I have been holding onto you for too long. I'm sorry, but I bet you other penguins will react the same way as I did. I know you're busy and all, but on your way to town, #bplease go strike up a conversation with other penguins#k. Everyone will be shocked if the hero is the one initiating a conversation with them! \n\r #fUI/UIWindow.img/QuestIcon/4/0# \r #i2000022# #t2000022# 5 \r #i2000023# #t2000023# 5 \n\r #fUI/UIWindow.img/QuestIcon/8/0# 16 exp");
+	qm.sendNextPrev("等等，我拉着你说太久了。对不起，但我猜其他企鹅的反应会和我一样。我知道你很忙，但在去镇上的路上，#b请去和其他企鹅搭搭话#k。如果英雄主动找他们聊天，大家都会很震惊的！\n\r #fUI/UIWindow.img/QuestIcon/4/0# \r #i2000022# #t2000022# 5 \r #i2000023# #t2000023# 5 \n\r #fUI/UIWindow.img/QuestIcon/8/0# 16 经验值");
     } else if (status == 2) {
-	qm.sendNextPrev("Wow, you managed to level up! That means you may have acquired skill points too. In the world of Maple, every level up means 3 skill points. Press #bK#k to open the skill window and find out.");
+	qm.sendNextPrev("哇，你升级了！那意味着你可能获得了技能点。在枫之谷世界中，每次升级意味着3个技能点。按#bK键#k打开技能窗口看看吧。");
 	if (qm.getQuestStatus(21010) == 1) {
 	    qm.gainExp(16);
 	    qm.gainItem(2000022, 5);
@@ -55,7 +55,7 @@ function end(mode, type, selection) {
 	    qm.forceCompleteQuest();
 	}
     } else if (status == 3) {
-	qm.sendNextPrevS("#b(These penguins are so nice to me in every way possible, yet I don't remember them one bit. I better check the skill window first... but how do I do that?)#k");
+	qm.sendNextPrevS("#b(这些企鹅对我非常好，但我对他们一点印象都没有。我最好先查看技能窗口...但是怎么做来着？)#k");
     } else if (status == 4) {
 	qm.summonMsg(0xF);
 	qm.dispose();

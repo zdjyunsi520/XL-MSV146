@@ -1,7 +1,0 @@
-<imgdir name="5920012">
-        <string name="name" value="海盗复仇" />
-        <string name="desc" value="被攻击时有几率提升攻击伤害。技能等级越高，增益持续时间越长。海盗复仇每50秒只能触发一次。" />
-        <string name="h" value="Chance: #prop%, Damage: +#damR%, Duration: #time sec" />
-        <string name="pdesc" value="被攻击时有几率提升攻击伤害。技能等级越高，增益持续时间越长。海盗复仇每20秒只能触发一次。" />
-        <string name="ph" value="Chance: #prop%, Damage: +#damR%, Duration: #time sec" />
-    </imgdir>

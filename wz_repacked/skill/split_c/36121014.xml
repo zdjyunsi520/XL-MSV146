@@ -1,5 +1,0 @@
-<imgdir name="36121014">
-        <string name="name" value="全息力场：支援" />
-        <string name="desc" value="能量场启动后，其中的队友会获得HP和回避率提升。队友成功回避攻击时会充能能量。通过模式切换改变模式。" />
-        <string name="h" value="MP Cost: #mpCon, Duration of hypogram field: #time, Ally HP Boost: #indieMhpR%, Ally Avoidability Boost: +#evaR%, Power units recharged when allies evade: +1.\nCooldown: #cooltime sec" />
-    </imgdir>

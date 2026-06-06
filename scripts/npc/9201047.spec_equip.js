@@ -20,17 +20,17 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) { // first interaction with NPC
-            cm.sendNext("Special Job Items. Would you like to know more?");
+            cm.sendNext("#d特殊职业道具#k，我真的需要解释吗？想买一些吗？\r\n#b#L0#为什么不呢？#l#k");
         } else if (status == 1) {
-            cm.sendSimple("#dSpecial Job Items#k, do I really have to explain that? Want to buy some?\r\n#b#L0#Why not?#l#k");
+            cm.sendSimple("太棒了！记住它们每件都要#b100万金币#k。");
         } else if (status == 2) {
             if (selection == 0) {
-                cm.sendNext("Terrific! Remember that they all cost #b1 million mesos#k each.");
+                cm.sendNext("你想买哪种#d特殊职业道具#k？");
             }
         } else {
             var items = new Array (5010069, 1492074, 1452099, 5010068, 1099000, 1099002, 1099003, 1099004); 
             if (status == 3) {
-                var selStr = "Which #dSpecial Job Item#k to you want to buy?";
+                var selStr = "你的金币不够。";
                 for (var i = 0; i < items.length; i++){
                     selStr += "\r\n#b#L" + i + "# #v" + items[i] + "# #l#k";
                 }
@@ -38,7 +38,7 @@ function action(mode, type, selection) {
             }
             if (status == 4) {
                 if (cm.getMeso() < 1000000) {
-                    cm.sendOk("You do not have enough mesos.");
+                    cm.sendOk("你的金币不够。");
                     cm.dispose();
                 } else {
                     cm.gainMeso(-1000000);

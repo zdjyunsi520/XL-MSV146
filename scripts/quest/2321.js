@@ -17,16 +17,16 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("You don't seem to follow instructions well. Come see me when you are ready.");
+			qm.sendOk("你似乎不太会听从指示。准备好了再来找我。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("Now you'll be able to penetrate the spiny vine barrier of Mushroom Forest, but before that, #bMinister of Home Affairs#k wants to have a word with you. Please go see him immediately.");
+		qm.sendAcceptDecline("现在你可以突破蘑菇森林的荆棘藤蔓屏障了，但在此之前，#b内政大臣#k想和你谈谈。请立即去见他。");
 	if (status == 1){
 		qm.forceStartQuest();
-		qm.sendOk("Good luck.");
+		qm.sendOk("祝你好运。");
 		qm.dispose();
 	}
 }
@@ -42,10 +42,10 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("I have been keeping up on your fabulour work. I am aware that you have successfully created the #bKiller Mushroom Spores#k, which penetrates through the unpenetrable barrier of the forest. Congratulations!");
+		qm.sendOk("我一直在关注你出色的工作。我知道你已经成功制造了#b杀手蘑菇孢子#k，可以穿透森林中那道不可穿越的屏障。恭喜！");
 	if (status == 1){
 		qm.gainExp(2500);
-		qm.sendOk("The problem now is to figure out how to enter the castle.");
+		qm.sendOk("现在的问题是想办法如何进入城堡。");
 		qm.forceCompleteQuest();
 		qm.dispose();
 	}

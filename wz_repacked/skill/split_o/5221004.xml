@@ -1,7 +1,0 @@
-<imgdir name="5221004">
-        <string name="name" value="Rapid Fire" />
-        <string name="desc" value="Quickly fires rounds. Continuously fires when you hold down the skill key, and you can move left and right while shooting. If you learn the Rapid Fire skill, you can #cuse Broadside#.\nRequired Skill: #cTriple Fire Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% per shot" />
-        <string name="pdesc" value="Quickly fires rounds. Continuously fires when you hold down the skill key. If you learn the Rapid Fire skill, you can #cuse Broadside#.\nRequired Skill: #cTriple Fire Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% per shot" />
-    </imgdir>

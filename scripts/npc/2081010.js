@@ -15,25 +15,25 @@ function action(mode, type, selection){
 	    cm.warp(240010400, 0);
 	    cm.dispose();
 	} else if (cm.getMapId() == 924000000) { // At start map
-	    cm.sendNext("I have to let you know one thing before sending you to the training field. You have to hold #b#t1092041##k that I gave you in shield training field. Otherwise, you're dead.");
+	    cm.sendNext("在送你去训练场之前，我必须告诉你一件事。在盾牌训练场你必须装备我给你的#b#t1092041##k。否则，你会死的。");
 	} else {
 	    cm.warp(924000002, 0);
 	    cm.dispose();
 	}
     } else if (status == 1) {
-	cm.sendSimple("Don't forget #rto hold shield#k before you get there! \r\n #b#L0# I want to get #t1092041#.#l \r\n #b#L1# Let me go in to #m924000001#.#l \r\n #b#L2# Let me out.#l");
+	cm.sendSimple("别忘了一到达就#r装备盾牌#k！\r\n #b#L0# 我想要#t1092041#。#l \r\n #b#L1# 让我进入#m924000001#。#l \r\n #b#L2# 让我出去。#l");
 
     } else if (status == 2) {
 	if (selection == 0) {
 	    if (!cm.haveItem(1092041)) {
 		if (cm.canHold(1092041)) {
 		    cm.gainItem(1092041, 1);
-		    cm.sendOk("I gave you #t1092041#. Check inventory. You have to be equipped with it!");
+		    cm.sendOk("我已经给你了#t1092041#。检查背包。你必须装备上它！");
 		} else {
-		    cm.sendOk("I couldn...t give you #t1092041##k as there's no blank in Equipment box. Make a blank and try again." );
+		    cm.sendOk("我无法给你#t1092041##k，因为装备栏没有空位。腾出空位后再试一次吧。" );
 		}
 	    } else {
-		cm.sendOk("You already have #t1092041##k. No need more.");
+		cm.sendOk("你已经拥有#t1092041##k了。不需要更多了。");
 	    }
 	    cm.safeDispose();
 	} else if (selection == 1) {

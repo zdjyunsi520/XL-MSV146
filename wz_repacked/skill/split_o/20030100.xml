@@ -1,5 +1,0 @@
-<imgdir name="20030100">
-        <string name="name" value="Ice Tempest" />
-        <string name="pdesc" value="Damage enemies over time with a blast of icy power. Usable when Ice Gauge is charged to #c40 or higher#.\n[Command: #c↓-&gt; + Attack Key#]" />
-        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage% every #dotInterval sec for #dotTime sec (Up to #attackCount times), Max Monsters Hit: #mobCount," />
-    </imgdir>

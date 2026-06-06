@@ -1,7 +1,0 @@
-<imgdir name="4000010">
-        <string name="name" value="Magic Theft" />
-        <string name="pdesc" value="Chance to steal a target&apos;s buff for yourself." />
-        <string name="ph" value="Proc Chance: #prop%, Buff Duration: #time" />
-        <string name="desc" value="Chance to steal a target&apos;s buff for yourself." />
-        <string name="h" value="Proc Chance: #prop%, Buff Duration: #time" />
-    </imgdir>

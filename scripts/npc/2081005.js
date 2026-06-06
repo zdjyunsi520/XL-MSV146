@@ -15,7 +15,7 @@ function action(mode, type, selection) {
     if (status == 0) {
 	morph = cm.getMorphState();
 	if (morph == 2210003 || cm.isQuestFinished(7301)) {
-	    cm.sendNext("Oh, my Brother! Don't worry about human's invasion. I'll protect you all. Come in.");
+	    cm.sendNext("哦，我的兄弟！不用担心人类的入侵。我会保护你们的。进来吧。");
 	} else {
 	    var hp = cm.getPlayerStat("HP");
 	    if (hp > 500) {
@@ -23,7 +23,7 @@ function action(mode, type, selection) {
 	    } else if (hp > 1 && hp <= 500) {
 		cm.addHP(-(hp - 1));
 	    }
-	    cm.sendNext("That's far enough, human! No one is allowed beyond this point. Get away from here!");
+	    cm.sendNext("够了，人类！任何人都不允许通过这里。快离开！");
 	}
     } else if (status == 1) {
 	if (morph == 2210003 || cm.isQuestFinished(7301)) {

@@ -143,7 +143,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 0) {
-	    cm.sendOk("Really? Let me know if you ever change your mind.");
+	    cm.sendOk("如果你在寻找能够精确辨别各种物品特征的人，那你找对人了。我目前正在寻找一些东西。你想听听我的故事吗？");
 	    cm.safeDispose();
 	    return;
 	}
@@ -151,7 +151,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendYesNo("If you're looking for someone that can pinpoint the characteristics of various items, you're looking at one right now. I'm currently looking for something. Would you like to hear my story?");
+	cm.sendYesNo("什么？如果你的装备、消耗品或其他物品栏满了，我可给不了你奖励。现在就去看看吧。");
     } else if (status == 1) {
 	var eQuestChoice = makeChoices(eQuestChoices);
 	cm.sendSimple(eQuestChoice);
@@ -162,20 +162,20 @@ function action(mode, type, selection) {
 	prizeItem = reward[itemSet][0];
 	prizeQuantity = reward[itemSet][1];
 	if (!cm.canHold(prizeItem)){
-	    cm.sendNext("What? I can't give you the reward if your equip., use, or etc. inventory is full. Please go take a look right now.");
+	    cm.sendNext("嗯……要不是这道划痕……唉。恐怕我只能认为这是一件普通品质的物品了。好吧，这是\r\n#t");
 	} else if (checkQuantity(requiredItem) >= 100){   // check they have >= 100 in Inventory
 	    cm.gainItem(requiredItem,-100);
 	    cm.gainItem(prizeItem,prizeQuantity);
-	    cm.sendOk("Hmmm ... if not for this minor scratch ... sigh. I'm afaird I can only deem this a standard-quality item. Well, here's \r\n#t"+ prizeItem +"# for you.");
+	    cm.sendOk("# 给你。"+ prizeItem +"嘿，你在干什么？去找个不懂行的人骗吧。别来找我！");
 	} else{
-	    cm.sendOk("Hey, what do you think you're doing? Go lie someone that DOESN'T know what he's talking about. Not me!");
+	    cm.sendOk("我要找的东西有1、2、3……呼，太多了\r\n说不完。总之，如果你收集了100个相同的物品，\r\n我可能会用类似的东西来交换。什么？你可能\r\n不知道这个，但我说话算数，所以你\r\n不必担心。现在，我们来交易吧？\r\n");
 	}
 	cm.safeDispose();
     }
 }
 
 function makeChoices(a){
-    var result  = "The items I'm looking for are 1,2,3 ... phew, too many to\r\nmention. Anyhow, if you gather up 100 of the same items,\r\nthen i may trade it with something similiar. What? You may\r\nnot know this, but i keep my end of the promise, so you\r\nneed not worry. Now, shall we trade?\r\n";
+    var result  = "我要找的东西有1、2、3……呼，太多了\r\n说不完。总之，如果你收集了100个相同的物品，\r\n我可能会用类似的东西来交换。什么？你可能\r\n不知道这个，但我说话算数，所以你\r\n不必担心。现在，我们来交易吧？\r\n";
     for (var x = 0; x< a.length; x++){
 	result += " #L" + x + "##v" + a[x] + "##t" + a[x] + "##l\r\n";
     }

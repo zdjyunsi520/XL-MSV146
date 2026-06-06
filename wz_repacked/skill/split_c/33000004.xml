@@ -1,5 +1,0 @@
-<imgdir name="33000004">
-        <string name="name" value="自然平衡" />
-        <string name="desc" value="攻击时有概率恢复HP/MP。每次攻击恢复量不超过10%。" />
-        <string name="h" value="概率：每次攻击#prop%，HP/MP恢复：造成伤害的#x%" />
-    </imgdir>

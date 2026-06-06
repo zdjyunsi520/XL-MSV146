@@ -1,7 +1,0 @@
-<imgdir name="5211006">
-        <string name="name" value="Homing Beacon" />
-        <string name="desc" value="Sends a parrot that&apos;ll mark a target on a monster. From then on out, all attacks will be focused on that monster." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
-        <string name="pdesc" value="Sends a parrot that&apos;ll mark a target on a monster. From then on out, all attacks will be focused on that monster." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%" />
-    </imgdir>

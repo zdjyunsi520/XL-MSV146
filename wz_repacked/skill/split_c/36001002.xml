@@ -1,5 +1,0 @@
-<imgdir name="36001002">
-        <string name="name" value="回路涌流" />
-        <string name="desc" value="增加能量输出以提升伤害。" />
-        <string name="h" value="#c[供给]#\n能量消耗: #powerCon, 武器攻击力: +#indiePad, 持续时间: #time秒" />
-    </imgdir>

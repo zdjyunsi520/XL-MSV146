@@ -1,7 +1,0 @@
-<imgdir name="5211009">
-        <string name="name" value="交叉弹药" />
-        <string name="desc" value="短时间内标记子弹使其更加强力~" />
-        <string name="h" value="MP消耗: #mpCon, 武器攻击力: +#indiePad, 持续时间: #time秒" />
-        <string name="pdesc" value="短时间内标记子弹使其更加强力~" />
-        <string name="ph" value="MP消耗: #mpCon, 武器攻击力: +#indiePad, 持续时间: #time秒" />
-    </imgdir>

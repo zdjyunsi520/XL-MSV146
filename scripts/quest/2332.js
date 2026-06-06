@@ -3,7 +3,7 @@ var status = -1;
 function start(mode, type, selection) {
 	qm.getMap().killAllMonsters(true);
 	qm.spawnMonster(3300008,1);
-	qm.sendNext("Please, eliminate the Prime Minister!!!");
+	qm.sendNext("请，消灭宰相！！！");
 	qm.forceStartQuest(2333);
 	qm.forceCompleteQuest();
 	qm.dispose();

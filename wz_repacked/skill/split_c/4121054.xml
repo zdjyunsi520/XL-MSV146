@@ -1,5 +1,0 @@
-<imgdir name="4121054">
-        <string name="name" value="出血飞镖" />
-        <string name="desc" value="在飞星上涂抹致命毒药使其出血，提升武器攻击力并对敌人造成持续伤害~" />
-        <string name="h" value="MP消耗: #mpCon，持续时间: #time秒，武器攻击力: +#indiePad，以#prop%几率，每秒造成#dot%出血伤害持续#dotTime秒。\n冷却时间: #cooltime秒" />
-    </imgdir>

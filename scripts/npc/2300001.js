@@ -17,13 +17,13 @@ function action(mode, type, selection) {
     } 
     if (status == 0) { 
         if (cm.getPlayer().getLevel() >= 180) {
-            cm.sendYesNo("Oh hello there! Have you heard about Hyper skills?\r\n\r\nThey are really usefull and I could max them out for you if you want."); 
+            cm.sendYesNo("你好！你听说过超级技能吗？\r\n\r\n它们非常有用，如果你想要的话，我可以帮你把它们全部点满。"); 
         } else { 
-            cm.sendOk("Oh Hi. Looks like you aren't level 180 yet. I'm doing research in Hyper Skills. Come back to me if you reach such a highe level as 180 and we could talk."); 
+            cm.sendOk("你好。看来你还没到180级。我正在研究超级技能。等你达到180级这样的高等级后再来找我吧，我们可以聊聊。"); 
             cm.dispose(); 
         } 
     } else if (status == 1) { 
-        cm.sendOk("Allright, here you go!");
+        cm.sendOk("好的，给你！");
 	cm.dispose()
 	}
 }

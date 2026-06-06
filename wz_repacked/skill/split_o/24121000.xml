@@ -1,7 +1,0 @@
-<imgdir name="24121000">
-        <string name="name" value="Mille Aiguilles" />
-        <string name="desc" value="Fly into a stabbing frenzy, jabbing your enemies with blinding speed. This attack can be executed repeatedly." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount\nWhile pressing the skill key, use the #cdirectional keys# to #cmove#" />
-        <string name="pdesc" value="Fly into a stabbing frenzy, jabbing your enemies with blinding speed. This attack can be executed repeatedly." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount\nWhile pressing the skill key, use the #cdirectional keys# to #cmove#" />
-    </imgdir>

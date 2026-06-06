@@ -116,7 +116,7 @@ function monsterValue(eim, mobid) {
     // Invoked when a monster that's registered has been killed
     // return x amount for this player - "Saved Points"
 	if (em.getProperty("balrogState").equals("1") && eim.getMapInstance(0).getMonsterById(8830000) == null && eim.getMapInstance(0).getMonsterById(8830001) == null && eim.getMapInstance(0).getMonsterById(8830002) == null) {
-		eim.broadcastPlayerMsg(6, "Balrog has been beaten!");
+		eim.broadcastPlayerMsg(6, "蛤蟆已被击败！");
 		eim.getMapInstance(0).changeEnvironment("balog/clear/stone", 3);
     		eim.restartEventTimer(605000); //10 mins + 5 sec
     		eim.schedule("warpWinnersOut", 5000);
@@ -184,7 +184,7 @@ function checkHP(eim) {
 		map.spawnMonsterOnGroundBelow(mob3, new java.awt.Point(416, 258));
 em.setProperty("balrogState", "1");
 	} else {
-		eim.broadcastPlayerMsg(6, "Balrog was too strong and has overcome you.");
+		eim.broadcastPlayerMsg(6, "蛤蟆太强了，已经击败了你们。");
 		end(eim);
 	}
 }

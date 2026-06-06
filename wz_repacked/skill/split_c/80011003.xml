@@ -1,5 +1,0 @@
-<imgdir name="80011003">
-        <string name="name" value="魔法箭雨" />
-        <string name="desc" value="魔法箭矢如雨般从天空落下。" />
-        <string name="h" value="对#mobCount个敌人造成#damage伤害。\n冷却时间: #cooltime秒" />
-    </imgdir>

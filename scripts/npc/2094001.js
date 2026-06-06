@@ -15,11 +15,11 @@ function action(mode, type, selection) {
 	cm.removeAll(4001120);
 	cm.removeAll(4001121);
 	cm.removeAll(4001122);
-	cm.sendSimple("#b#L0#Get me out of here.#l\r\n#L1#Give me Pirate Hat.#l#k");
+	cm.sendSimple("#b#L0#带我离开这里。#l\r\n#L1#给我海盗帽子。#l#k");
     } else if (status == 1) {
 	if (selection == 0) {
 		if (!cm.canHold(4001455, 1)) {
-			cm.sendOk("Please make room in ETC.");
+			cm.sendOk("请在其他栏腾出空间。");
 			cm.dispose();
 			return;
 		}
@@ -31,19 +31,19 @@ function action(mode, type, selection) {
 	    cm.warp(251010404,0);
 	} else { //TODO JUMP
 		if (cm.haveItem(cm.isGMS() ? 1003267 : 1002573, 1)) {
-			cm.sendOk("You have the best hat.");
+			cm.sendOk("你已拥有最高级的帽子。");
 		} else if (cm.haveItem(1002573, 1)) {
 		    if (cm.haveItem(4001455, 20)) {	
 				if (cm.canHold(1003267,1)) {
 					cm.gainItem(1002573, -1);
 					cm.gainItem(4001455, -20);
 		    	    cm.gainItem(1003267,1);
-					cm.sendOk("I have given you the hat.");
+					cm.sendOk("我已经把帽子给你了。");
 		    	} else {
-					cm.sendOk("Please make room.");
+					cm.sendOk("请腾出背包空间。");
 		        } 
 		    } else {
-				cm.sendOk("You need 20 Pirate PQ to get the next hat.");
+				cm.sendOk("你需要完成20次海盗任务才能获得下一顶帽子。");
 		    }
 		} else if (cm.haveItem(1002572, 1)) {
 		    if (cm.haveItem(4001455, 20)) {	
@@ -51,24 +51,24 @@ function action(mode, type, selection) {
 					cm.gainItem(1002572, -1);
 					cm.gainItem(4001455, -20);
 		    	    cm.gainItem(1002573,1);
-					cm.sendOk("I have given you the hat.");
+					cm.sendOk("我已经把帽子给你了。");
 		    	} else {
-					cm.sendOk("Please make room.");
+					cm.sendOk("请腾出背包空间。");
 		        } 
 		    } else {
-				cm.sendOk("You need 20 Pirate PQ to get the next hat.");
+				cm.sendOk("你需要完成20次海盗任务才能获得下一顶帽子。");
 		    }
 		} else {
 		    if (cm.haveItem(4001455, 20)) {	
 				if (cm.canHold(1002572,1)) {
 					cm.gainItem(4001455, -20);
 		    	    cm.gainItem(1002572,1);
-					cm.sendOk("I have given you the hat.");
+					cm.sendOk("我已经把帽子给你了。");
 		    	} else {
-					cm.sendOk("Please make room.");
+					cm.sendOk("请腾出背包空间。");
 		        } 
 		    } else {
-				cm.sendOk("You need 20 Pirate PQ to get the next hat.");
+				cm.sendOk("你需要完成20次海盗任务才能获得下一顶帽子。");
 		    }
 		}
 	}

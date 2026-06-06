@@ -2,26 +2,26 @@ var state;
 
 function start() {
     state = -1;
-    cm.sendNextS("Now, let me tell you how to enter another user's farm.", 5);
+    cm.sendNextS("看看我的轻蔑名单里有谁……啊，兰花！我们去参观她的农场吧。", 5);
 }
 
 function action(mode, type, selection) {
     state++;
     switch (state) {
         case 0:
-            cm.sendNextS("Let's see who's in my People to Belittle book... Ah, Orchid! Let's go pay her farm a visit.", 5);
+            cm.sendNextS("当窗口弹出时，按确定即可移动。", 5);
             break;
         case 1:
             cm.enter_931060120();
             break;
         case 2:
-            cm.sendNextS("When the window pops up, press OK to move.", 5);
+            cm.sendNextS("如果你按否，那我想我们的关系就到此为止了。", 5);
             break;
         case 3:
-            cm.sendNextPrevS("If you press No, I guess you and I are through.", 5);
+            cm.sendNextPrevS("你都听清楚了吗？我讨厌重复解释。\r\n（按是返回你原来的位置。）", 5);
             break;
         case 4:
-            cm.sendYesNoS("Did you get all that? I hate explaining things multiple times.\r\n(Press Yes to return your original location.)", 5);
+            cm.sendYesNoS("你都听清楚了吗？我讨厌重复解释。\r\n（按是返回你原来的位置。）", 5);
             break;
         case 5:
             if (mode == 1) {

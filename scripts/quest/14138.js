@@ -9,12 +9,12 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendNext("This gift is no longer available after #bLv. 14#k, so come see me before then!");
+		    qm.sendNext("这份礼物在#b14级#k之后就不再发放了，所以一定要在那之前来找我！");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	  qm.sendYesNo("11#k?! You already got your level that high?\r\nWell, I'm giving away equipment to help out you Pirate-type people! Do you want yours now?");
+	  qm.sendYesNo("#b11#k级？！你的等级已经那么高了吗？\r\n嗯，我正在发放装备来帮助你们海盗系的玩家！你现在就要你的吗？");
 	} else if (status == 1) {
       qm.gainItem(2430443,1);
 	  qm.forceStartQuest();

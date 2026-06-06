@@ -6,6 +6,6 @@ var status = -1;
 var firstsel = 0;
 
 function action(mode, type, selection) {
-	cm.sendOk("Happy Holidays~");
+	cm.sendOk("节日快乐～");
 	cm.safeDispose();
 }

@@ -1,5 +1,0 @@
-<imgdir name="80001040">
-        <string name="name" value="Elven Blessing" />
-        <string name="desc" value="[Link Skill] Whisks you back to Elluel and blesses you with extra EXP gains through the power of Elven lore." />
-        <string name="h" value="Returns you to Elluel (Cooldown: #cooltime sec)\nAdditional Effect: Permanently receive #expR% additional EXP" />
-    </imgdir>

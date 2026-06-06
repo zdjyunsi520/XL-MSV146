@@ -1,7 +1,0 @@
-<imgdir name="5221003">
-        <string name="name" value="空袭" />
-        <string name="desc" value="利用海鸥的手榴弹攻击伤害多个怪物！\n需要技能：#c海鸥 Lv. 15#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Max Monsters Hit: 10, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="利用海鸥的手榴弹攻击伤害多个敌人！\n需要技能：#c海鸥 Lv. 15#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% Max Enemies Hit: #mobCount, Cooldown: #cooltime sec" />
-    </imgdir>

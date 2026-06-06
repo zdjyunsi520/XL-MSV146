@@ -1,7 +1,0 @@
-<imgdir name="23100004">
-        <string name="name" value="离别之射" />
-        <string name="desc" value="对被升龙突击抛到空中的敌人射出箭矢。只能在升龙突击后使用。\n前置技能：#c升龙突击 Lv. 1#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount" />
-        <string name="pdesc" value="对被升龙突击抛到空中的敌人射出箭矢。只能在升龙突击后使用。\n前置技能：#c升龙突击 Lv. 1#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount" />
-    </imgdir>

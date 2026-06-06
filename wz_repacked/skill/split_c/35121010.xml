@@ -1,7 +1,0 @@
-<imgdir name="35121010">
-        <string name="name" value="增幅机器人AF-11" />
-        <string name="desc" value="召唤固定式增幅机器人AF-11来增强所有队伍成员的伤害。AF-11在能量耗尽时会自爆。" />
-        <string name="h" value="消耗MP：#mpCon，机器人持续时间：#time秒，伤害增益：+#x%，自爆伤害：#selfDestruction%\n#c冷却时间：#cooltime秒#" />
-        <string name="pdesc" value="固定式增幅机器人AF-11增强附近所有队友的伤害。AF-11在能量耗尽时会自爆。" />
-        <string name="ph" value="消耗MP：#mpCon，机器人持续时间：#time秒，伤害增益：+#x%，自爆伤害：#selfDestruction%\n#c冷却时间：#cooltime秒#" />
-    </imgdir>

@@ -18,16 +18,16 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("Please do not forget our plea for help.");
+			qm.sendOk("请不要忘记我们的求助。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("A powerful barrier of magic, huh? Then what should we do...? If we can't find a way to break that barrier, then we can't save the princess. If it's impossible to physically break through, as you mentioned, then how about requesting help from our #bMinister of Magic#k?");
+		qm.sendAcceptDecline("一道强大的魔法屏障吗？那我们该怎么办……？如果我们找不到打破屏障的方法，就无法营救公主。如果如你所说物理上无法突破的话，那向我们的#b魔法大臣#k求助怎么样？");
 	if (status == 1){
 		qm.forceStartQuest();
-		qm.sendOk("Please go see him immediately. The #bMinister of Magic#k may seem a bit on the edge, but he's very knowledgeable, and I'm sure he'll know what to do.");
+		qm.sendOk("请立即去见他。#b魔法大臣#k可能看起来有点急躁，但他非常博学，我相信他一定知道该怎么办。");
 		qm.dispose();
 	}
 }
@@ -43,10 +43,10 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("What? You investigated the barrier at the Mushroom Forest?");
+		qm.sendOk("什么？你调查了蘑菇森林的屏障？");
 	if (status == 1){
 		qm.gainExp(4000);
-		qm.sendOk("Hmmm...this is interesting. It's a barrier set up by someone with a powerful force of magic, which means there's no way we can manually break through it.");
+		qm.sendOk("嗯……真有意思。这是一个由拥有强大魔力的人设置的屏障，这意味着我们无法以物理方式突破它。");
 		qm.forceCompleteQuest(); 
 		qm.dispose();
 	}

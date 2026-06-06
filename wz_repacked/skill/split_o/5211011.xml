@@ -1,7 +1,0 @@
-<imgdir name="5211011">
-        <string name="name" value="All Aboard" />
-        <string name="desc" value="Randomly summons one of the brave crewmen of Nautilus. Summoned crewman will move around freely and attack enemies." />
-        <string name="h" value="MP Cost: #mpCon, Crewman Damage: #damage%, Duration: #time sec, Cooldown #cooltime sec" />
-        <string name="pdesc" value="Randomly summons one of the brave crewmen of Nautilus. Summoned crewman will move around freely and attack enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Crewman Damage: #damage%, Duration: #time sec, Cooldown #cooltime sec" />
-    </imgdir>

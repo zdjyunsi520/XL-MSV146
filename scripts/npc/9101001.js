@@ -12,9 +12,9 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("You have finished all your trainings. Good job. You seem to be ready to start with the journey right away! Good, I will let you move on to the next place.");
+	cm.sendNext("但是请记住，一旦离开这里，你就会进入一个满是怪物的村庄。那么，再见了！");
     } else if (status == 1) {
-	cm.sendNextPrev("But remember, once you get out of here, you will enter a village full with monsters. Well them, good bye!");
+	cm.sendNextPrev("但是请记住，一旦离开这里，你就会进入一个满是怪物的村庄。那么，再见了！");
     } else if (status == 2) {
 	cm.warp(40000, 0);
 	cm.gainExp(3);

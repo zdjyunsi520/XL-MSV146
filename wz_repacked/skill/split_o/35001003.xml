@@ -1,7 +1,0 @@
-<imgdir name="35001003">
-        <string name="name" value="ME-07 Drillhands" />
-        <string name="desc" value="Uses drill arms to push and attack enemies.\nRequired Skill: #cMech Protoype Lv. 1#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount" />
-        <string name="pdesc" value="Uses drill arms to push and attack enemies.\nRequired Skill: #cMech Protoype Lv. 1#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount\nCooldown: #cooltime sec" />
-    </imgdir>

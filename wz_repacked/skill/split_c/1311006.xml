@@ -1,8 +1,0 @@
-<imgdir name="1311006">
-        <string name="name" value="龙之咆哮" />
-        <string name="desc" value="攻击多个敌人并有几率使其眩晕。\n需要技能：#c祭品 Lv. 3#" />
-        <string name="h" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="攻击多个敌人并有几率使其眩晕。\n需要技能：#c祭品 Lv. 3#" />
-        <string name="ph" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-        <string name="hch" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-    </imgdir>

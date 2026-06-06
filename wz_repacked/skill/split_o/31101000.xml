@@ -1,8 +1,0 @@
-<imgdir name="31101000">
-        <string name="name" value="Soul Eater" />
-        <string name="desc" value="Snares and pulls multiple enemies towards you, where they suffer the full force of your might." />
-        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, When skill key is pressed down - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
-        <string name="pdesc" value="Snares and pulls multiple enemies towards you, where they suffer the full force of your might." />
-        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, When skill key is pressed down - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Chance of Pulling Enemy: #prop%" />
-        <string name="hch" value="HP Cost: #hpCon, Fury Cost: #forceCon, When skill key is pressed down - Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Chance of Pulling Enemy: #hcProp%" />
-    </imgdir>

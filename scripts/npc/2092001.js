@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to head to the special Pirate Map?");
+	cm.sendYesNo("你想前往特殊海盗地图吗？");
     } else if (status == 1) {
 	cm.warp(925110001);
 	cm.dispose();

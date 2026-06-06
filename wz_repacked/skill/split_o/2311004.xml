@@ -1,8 +1,0 @@
-<imgdir name="2311004">
-        <string name="name" value="Shining Ray" />
-        <string name="desc" value="Attacks multiple enemies at once with a ray of holy light. Deals massive damage to the Undead and Devil-type monsters." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Damages enemies using the Ray of Holy Light and stuns them by a certain rate" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
-    </imgdir>

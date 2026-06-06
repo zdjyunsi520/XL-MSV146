@@ -1,5 +1,0 @@
-<imgdir name="80001281">
-        <string name="name" value="蛇之眼" />
-        <string name="desc" value="他一直在注视着你...被灵魂武器召唤时，阿卡伊农使附近怪物中毒并造成伤害~" />
-        <string name="h" value="最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 持续伤害: 每#dotInterval秒 #dot%伤害，持续#dotTime秒\n冷却时间: #cooltime秒" />
-    </imgdir>

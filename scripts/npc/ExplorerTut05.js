@@ -10,12 +10,12 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNext("Let me know when you're ready to board.");
+		    cm.sendNext("多亏了你，我们准备好起航了。你准备好登船了吗？");
             cm.dispose();
         status--;
     }
     if (status == 0) {
-	    cm.sendYesNo("Thanks to you, we're ready to set sail. You ready to board?");
+	    cm.sendYesNo("多亏了你，我们准备好起航了。你准备好登船了吗？");
 	} else if (status == 1) {
         cm.warp(4000032,0);
         cm.dispose();

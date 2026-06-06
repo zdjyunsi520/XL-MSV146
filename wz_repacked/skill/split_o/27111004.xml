@@ -1,5 +1,0 @@
-<imgdir name="27111004">
-        <string name="name" value="Shadow Shell" />
-        <string name="desc" value="Deflect all abnormal status effects. The shell breaks and must cooldown after a certain number of deflected status effects. Passively increases resistance to all elemental and abnormal status effects." />
-        <string name="h" value="MP Cost: #mpCon. Ignore abnormal status #3 times. Cooldown: #cooltime sec when broken.\n[Passive effect: Increase resistance to all elemental and abnormal status effects by #terR%]" />
-    </imgdir>

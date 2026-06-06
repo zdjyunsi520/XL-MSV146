@@ -1,5 +1,0 @@
-<imgdir name="4111001">
-        <string name="name" value="Meso Up" />
-        <string name="desc" value="For a certain amount of time, everyone in the party can make enemies drop more mesos than usual. This only applies to mesos dropped by monsters." />
-        <string name="h" value="MP Cost: #mpCon, Meso Increase: +#x%, Duration: #time sec" />
-    </imgdir>

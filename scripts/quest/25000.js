@@ -3,7 +3,7 @@ var status = -1;
 function start(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -12,13 +12,13 @@ function start(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendPlayerToNpc("I've only just begun to restore my former powers from all those years ago. However, while I am still not a Great Thief, I must prepare to make my entrance.");
+	qm.sendPlayerToNpc("我才刚刚开始恢复多年前的那份力量。然而，虽然我还不是一个伟大的盗贼，但我必须准备登场了。");
     } else if (status == 1) {
-	qm.sendNextS("Every hero has to take their first slep, #h #, Your first slep will be into Ereve, All preparations are complete, you only need to exit the ship and descent down.", 1);
+	qm.sendNextS("每个英雄都要迈出他们的第一步，#h #。你的第一步将踏入埃雷岛。一切准备就绪，你只需离开飞船然后降落。", 1);
     } else if (status == 2) {
-	qm.sendPlayerToNpc("This is no problem for the world's greatest thief!");
+	qm.sendPlayerToNpc("对世界上最伟大的盗贼来说这不成问题！");
     } else if (status == 3) {
-	qm.sendNextPrevS("You may leave now, Your journey begins here.", 1);
+	qm.sendNextPrevS("你现在可以出发了，你的旅程从这里开始。", 1);
     } else if (status == 4) {
 	qm.forceStartQuest();
 	qm.dispose();

@@ -1,7 +1,0 @@
-<imgdir name="32111004">
-        <string name="name" value="Conversion" />
-        <string name="desc" value="Consumes MP to rapidly increase your Max HP for a fixed period of time." />
-        <string name="h" value="MP Cost: #mpCon, MaxHP +#x%, Duration: #time sec" />
-        <string name="pdesc" value="Consumes MP to increase your Max HP for a period of time." />
-        <string name="ph" value="MP Cost: #mpCon, MaxHP +#x%, Duration: #time sec" />
-    </imgdir>

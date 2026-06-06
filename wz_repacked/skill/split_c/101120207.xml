@@ -1,5 +1,0 @@
-<imgdir name="101120207">
-        <string name="name" value="神圣凝视" />
-        <string name="desc" value="提升阿尔法的最低和最高暴击伤害。攻击时还有几率对目标造成流血效果并恢复HP。" />
-        <string name="h" value="永久提升阿尔法的最低暴击伤害: +#criticaldamageMin%, 最高暴击伤害: +#criticaldamageMax% \n攻击时#prop%几率造成每#dotInterval秒#dot%伤害，持续#dotTime秒，并恢复最大HP的#x%" />
-    </imgdir>

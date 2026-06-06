@@ -3,7 +3,7 @@ random=Math.floor(Math.random() * prizes.length++);
 var gayrobby=0;  
 
 function start() {
-    cm.sendYesNo("Would you like to use your 100 donorpoints?");
+    cm.sendYesNo("你想使用你的100捐赠积分吗？");
 }
 
 function action(m,t,s){
@@ -18,11 +18,11 @@ function action(m,t,s){
             cm.gainMeso(100);
             cm.gainItem(5680021, -1);  // if you changed the above ID, make sure you change this one too
         }else{
-            cm.sendOk("Come back when you have a Gachapon Ticket");
+            cm.sendOk("等你有扭蛋券了再来吧。");
             cm.dispose();
         }
     }else{
-        cm.sendOk("Come back when your ready to take a chance at fortune!");
+        cm.sendOk("等你准备好试试运气了再来吧！");
         cm.dispose();
     }
 }  

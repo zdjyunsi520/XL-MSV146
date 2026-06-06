@@ -10,9 +10,9 @@ function start(mode, type, selection) {
 	    status--;
 	
 	if (status == 0) {
-	    qm.sendNext("Cac gia lang van dang chim sau trong giac ngu," + qm.getPlayer().getName()+"!");
+	    qm.sendNext("各位长老仍深陷沉睡之中，" + qm.getPlayer().getName()+"!");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Hay tap luyen them nua, 1 ngay nao do hay cuu ho...");
+	    qm.sendNextPrev("请继续修炼，总有一天要去拯救他们……");
 	} else if (status == 2) {
 	    qm.sendNext("Mercedes...");
 	} else if (status == 3) {

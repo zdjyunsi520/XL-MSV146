@@ -47,7 +47,7 @@ function action(mode, type, selection) {
         		cm.TimeMoveMap(310030211, 310030200, 18);
         		
     		} else {
-			cm.getPlayer().dropMessage(5, "Someone is already in Elevator.");
+			cm.getPlayer().dropMessage(5, "已经有人在电梯里了。");
 			
     		}
 		cm.dispose();

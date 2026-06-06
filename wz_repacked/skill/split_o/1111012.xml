@@ -1,7 +1,0 @@
-<imgdir name="1111012">
-        <string name="name" value="Rush" />
-        <string name="desc" value="Dash forward and push back multiple monsters." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Pushed: #mobCount" />
-        <string name="pdesc" value="Dash forward and push back multiple monsters. Slows enemies for a certain amount of time." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Speed: #x\nCooldown: #cooltime sec" />
-    </imgdir>

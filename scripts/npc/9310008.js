@@ -34,43 +34,43 @@ function action(mode, type, selection) {
     if (status == 0) {
         if (!cm.haveItem(1142073, 1, true, true) && cm.canHold(1142073, 1) && cm.getPlayer().getGMLevel() < 3) {
             cm.gainItem(1142073, 1);
-            cm.sendOk("Welcome! As a complementary gift, I present to you this medal for your journey! If you wish to buy Cash related items, please visit the Cash Shop");
+            cm.sendOk("你好#r#h ##k！。\r\n#b#L1#我想学习技能#l \r\n#L122#改变你的外貌！l#k\r\n#b#L3#万能传送#l#k\r\n#L11#万能商店#l#k\r\n#L150#转职#l#k\r\n#L250#学习最后技能（150级以上）#l#k\r\n#L102#BossPQ#l#k");
             cm.dispose();
             return;
         }
-        cm.sendSimple("Hello #r#h ##k!. \r\n#b#L1#I would like to learn a skill#l \r\n#L122#Change Your Look!l#k\r\n#b#L3#Universal Warp#l#k\r\n#L11#Universal Shop#l#k\r\n#L150#Job Advance#l#k\r\n#L250#Learn your last skills (lvl. 150+)#l#k\r\n#L102#Boss PQ#l#k");
+        cm.sendSimple("#b#L1#跟随引路#l\r\n#L4#骑兽技能#l\r\n#L5#骑兽商店#l#k");
     } else if (status == 1) {
         if (selection == 1) {
             status = 5;
-            cm.sendSimple("#b#L1#Follow the Lead#l\r\n#L4#Monster Rider#l\r\n#L5#Monster Rider Shop#l#k");
+            cm.sendSimple("#b#L0#城镇地图#l\r\n#L1#怪物地图和组队任务地图（50级以上）#l\r\n#L2#次元之镜#l\r\n#L3#网咖#l#k");
         } else if (selection == 150) {
             cm.dispose();
             cm.openNpc(2161006);
         } else if (selection == 3) {
-            cm.sendSimple("#b#L0#Town maps#l\r\n#L1#Monster maps and PQ Maps(Meant for level 50+) #l\r\n#L2#Dimensional Mirror#l\r\n#L3#Internet Cafe#l#k");
+            cm.sendSimple("进行交易前你必须有足够的金币空间。");
         } else if (selection == 5) {
             if (cm.getMeso() >= 1147483647) {
-                cm.sendOk("You must have room for mesos before doing the trade.");
+                cm.sendOk("你没有黄金枫叶。");
             } else if (!cm.haveItem(4001168, 1)){
-                cm.sendOk("You do not have a Golden Maple Leaf.");
+                cm.sendOk("感谢你的交易，我已用枫叶兑换给你10亿金币。");
             } else {
                 if (cm.removeItem(4001168)) {
                     cm.gainMeso(1000000000);
-                    cm.sendOk("Thank you for the trade, I have given you 1 billion for the Maple Leaf.");
+                    cm.sendOk("请先解锁你的物品。");
                 } else {
-                    cm.sendOk("Please unlock your item.");
+                    cm.sendOk("进行交易前你必须有1,030,000,000金币。");
                 }
             }
             cm.dispose();
         } else if (selection == 6) {
             if (cm.getMeso() < 1030000000) {
-                cm.sendOk("You must have 1,030,000,000 mesos before doing the trade.");
+                cm.sendOk("请腾出空间。");
             } else if (!cm.canHold(4001168,1)) {
-                cm.sendOk("Please make room.");
+                cm.sendOk("感谢你的交易，我已用1,030,000,000金币（10亿+0.03%税）兑换给你黄金枫叶。");
             } else {
                 cm.gainItem(4001168, 1);
                 cm.gainMeso(-1030000000);
-                cm.sendOk("Thank you for the trade, I have given you Golden Maple Leaf for 1,030,000,000 meso (1 billion + 0.03% tax).");
+                cm.sendOk("你还没有达到150级，所以我还不能帮你满级职业技能。");
             }
             cm.dispose();
         
@@ -102,12 +102,12 @@ function action(mode, type, selection) {
             cm.dispose();
 			
 		} else if (selection == 250 && cm.getPlayer().getLevel() < 150) {
-			cm.sendOk("You are not yet level 150, so I can not max your Jobskills for you just yet.");
+			cm.sendOk("选择你的目的地。#b");
 			cm.dispose();
 			}
 			
     } else if (status == 2) {
-        var selStr = "Select your destination.#b";
+        var selStr = "所以你在这里没什么事要做了？你想去#m";
         if (selection == 0) {
             for (var i = 0; i < maps.length; i++) {
                 selStr += "\r\n#L" + i + "##m" + maps[i] + "# #l";
@@ -129,7 +129,7 @@ function action(mode, type, selection) {
 
         cm.sendSimple(selStr);
     } else if (status == 3) {
-        cm.sendYesNo("So you have nothing left to do here? Do you want to go to #m" + (selectedArea == 0 ? maps[selection] : pqMaps[selection]) + "#?");
+        cm.sendYesNo("你已经拥有这个技能了。" + (selectedArea == 0 ? maps[selection] : pqMaps[selection]) + "#?");
         selectedMap = selection;
 
     } else if (status == 4) {
@@ -140,7 +140,7 @@ function action(mode, type, selection) {
     } else if (status == 6) {
         if (selection == 1) {
             if (cm.getPlayer().getSkillLevel(8) > 0 || cm.getPlayer().getSkillLevel(10000018) > 0 || cm.getPlayer().getSkillLevel(20000024) > 0 || cm.getPlayer().getSkillLevel(20011024) > 0 || cm.getPlayer().getSkillLevel(30001024) > 0 || cm.getPlayer().getSkillLevel(30011024) > 0 || cm.getPlayer().getSkillLevel(20021024) > 0) {
-                cm.sendOk("You already have this skill.");
+                cm.sendOk("我已经教会你跟随引路技能了。");
             } else {
                 if (cm.getJob() == 3001 || (cm.getJob() >= 3100 && cm.getJob() <= 3112)) {
                     cm.teachSkill(30011024, 1, 0); // Maker
@@ -159,20 +159,20 @@ function action(mode, type, selection) {
                 } else {
                     cm.teachSkill(8, 1, 0); // Maker
                 }
-                cm.sendOk("I have taught you Follow the Lead skill.");
+                cm.sendOk("抱歉，抵抗者角色不能学习骑兽技能。");
             }
             cm.dispose();
         } else if (selection == 4) {
             if (cm.getPlayer().getSkillLevel(80001000) > 0 || cm.getPlayer().getSkillLevel(cm.getPlayer().getStat().getSkillByJob(1004, cm.getPlayer().getJob()))) {
-                cm.sendOk("You already have this skill.");
+                cm.sendOk("我已经教会你跟随引路技能了。");
             } else {
                 if (cm.getJob() >= 3000) {
-                    cm.sendOk("Sorry but Resistance characters may not get the Monster Riding skill.");
+                    cm.sendOk("我已经教会你骑兽技能了。");
                     cm.dispose();
                     return;
                 }
                 cm.teachSkill(cm.isGMS() ? 80001000 : cm.getPlayer().getStat().getSkillByJob(1004, cm.getPlayer().getJob()), 1, 0); // Maker
-                cm.sendOk("I have taught you Monster Rider skill.");
+                cm.sendOk("我已经教会你骑兽技能了。");
             }
             cm.dispose();
         } else if (selection == 5) {

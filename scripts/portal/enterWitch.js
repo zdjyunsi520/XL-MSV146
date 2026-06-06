@@ -6,6 +6,6 @@ function enter(pi) {
     } else if (pi.isQuestFinished(20404)) {
 	pi.warp(924010000,0);
     } else {
-	pi.playerMessage(5, "I shouldn't go here.. it's creepy!");
+	pi.playerMessage(5, "我不应该去那里..好可怕！");
     }
 }

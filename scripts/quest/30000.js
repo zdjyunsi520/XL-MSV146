@@ -20,9 +20,9 @@ function start(mode, type, selection) {
             status--;
         
         if (status == 0) {
-            qm.sendAcceptDecline("#b#h ##k! Your presence is needed in Ereve right away. We haven't a second to lose.");
+            qm.sendAcceptDecline("#b#h ##k！你需要在耶雷弗待命，立刻。我们一刻也不能耽误。");
         } else if (status == 1) {	   
-        qm.sendNext("I will transport you here.");
+        qm.sendNext("我将把你传送过来。");
         } else if (status == 2) {
             qm.warp(913080000,0);
             qm.forceStartQuest();

@@ -1,8 +1,0 @@
-<imgdir name="32101004">
-        <string name="name" value="血液吸收" />
-        <string name="desc" value="施加增益，使你恢复相当于对敌人造成伤害一部分的HP。每次攻击最多恢复最大HP的10%。" />
-        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒，恢复相当于造成伤害#x%的HP" />
-        <string name="pdesc" value="施加增益，使你恢复相当于对敌人造成伤害一部分的HP。每次攻击最多恢复最大HP的10%。" />
-        <string name="ph" value="MP消耗：#mpCon，持续时间：#time秒，发动概率：#prop%，恢复#x%伤害" />
-        <string name="hch" value="MP消耗：#mpCon，持续时间：#time秒，发动概率：#hcProp%，恢复#x%伤害" />
-    </imgdir>

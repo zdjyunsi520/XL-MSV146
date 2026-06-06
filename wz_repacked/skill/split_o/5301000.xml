@@ -1,7 +1,0 @@
-<imgdir name="5301000">
-        <string name="name" value="Scatter Shot" />
-        <string name="desc" value="Attack multiple enemies at once by firing a multitude of small bombs." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #bulletCount" />
-        <string name="pdesc" value="Attack multiple enemies at once by firing a multitude of small bombs." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #bulletCount" />
-    </imgdir>

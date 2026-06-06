@@ -16,17 +16,17 @@ function action(mode, type, selection) {
 	   else
 			status--;
 		if (status == 0) {
-			cm.sendNext("You've manage to complete my tutorial, congratulation, now it's time for you to go on your own and have an adventure. However it's dangerous to go without protection, allow me to give you a little something.");
+			cm.sendNext("选择你的新手帽子\r\n\r\n#L0##i");
 		} else if (status == 1) {
-			cm.sendSimple("Select your starter hat\r\n\r\n#L0##i" + optionA + "# - Blue Starter Hat (Defense)#l\r\n#L1##i" + optionB + "# - Red Starter Hat (Attack)#l");
+			cm.sendSimple("# - 蓝色新手帽子(防御)#l\r\n#L1##i" + optionA + "# - 红色新手帽子(攻击)#l" + optionB + "给你，现在乘我身后的太空电梯吧，它会带你去一个叫银河自由市场的地方，出事了我再联系你");
 		} else if (status == 2) {
 			if (selection == 0) {
-				cm.sendOk("Here you go, now take the space elevator behind me, it will take you to a place called Galaxy Free Market, I'll contact you again when trouble happen");
+				cm.sendOk("给你，现在乘我身后的太空电梯吧，它会带你去一个叫银河自由市场的地方，出事了我再联系你");
 				cm.gainItem(optionA, 1); 
 				cm.warp(mapid, 0);
 				cm.dispose();
 			} else if (selection == 1) {
-				cm.sendOk("Here you go, now take the space elevator behind me, it will take you to a place called Galaxy Free Market, I'll contact you again when trouble happen");
+				cm.sendOk("给你，现在乘我身后的太空电梯吧，它会带你去一个叫银河自由市场的地方，出事了我再联系你");
 				cm.gainItem(optionB, 1);
 				cm.warp(mapid, 0);
 				cm.dispose(); 

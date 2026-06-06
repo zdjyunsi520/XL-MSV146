@@ -1,7 +1,0 @@
-<imgdir name="13111007">
-        <string name="name" value="风之射击" />
-        <string name="desc" value="发射3支箭矢攻击怪物。仅在鹰眼状态下可用。\n需要技能：#c鹰眼 Lv. 1#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%" />
-        <string name="pdesc" value="发射3支箭矢攻击敌人。仅在鹰眼状态下可用。\n需要技能：#c鹰眼 Lv. 1#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%" />
-    </imgdir>

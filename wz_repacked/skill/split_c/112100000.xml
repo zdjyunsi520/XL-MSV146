@@ -1,5 +1,0 @@
-<imgdir name="112100000">
-        <string name="name" value="豹之爪" />
-        <string name="h" value="伤害: #damage%（前两次攻击），最大敌人数: #mobCount，攻击次数: #attackCount。 \r\n第2次攻击MP消耗: #y " />
-        <string name="desc" value="借助莱的力量击退路径上的敌人。 \r\n[指令]: 2次攻击后，与#c豹之突袭#连招\r\n[追加指令]: 与#c豹之咆哮#连招" />
-    </imgdir>

@@ -9,14 +9,14 @@ function action(mode, type, selection) {
 	}
 	if (status == 0) {
 	    cm.EnableUI(1);
-		cm.sendPlayerToNpc("Hey did you see a big black guy go by here?");
+		cm.sendPlayerToNpc("他应该就在森林深处，我已经检查过这边了");
 	} else if (status == 1) {
 	     cm.EnableUI(1);
-		cm.sendNextNoESC("He should be just a bit further in the forest I've got this sector checked");
+		cm.sendNextNoESC("好的，我继续前进！");
 	} else if (status == 2) {
-		cm.sendPlayerToNpc("Alright I'll keep going!");
+		cm.sendPlayerToNpc("祝你好运！");
 	} else if (status == 3) {
-		cm.sendNextNoESC("Good Luck!");
+		cm.sendNextNoESC("祝你好运！");
 	} else if (status == 4) {
 		cm.sendPlayerToNpc("Thanks");
 	} else if (status == 5) {

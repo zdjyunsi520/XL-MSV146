@@ -95,7 +95,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (mode == 0) {
-	cm.sendOk("If you wish to receive your rewards and return to Ludibrium, please let me know!");
+	cm.sendOk("你的队伍表现非常出色，收集了至少30张优惠券。因此，我为你们每个人准备了一份礼物。领取礼物后，你将被送回玩具城。现在，你想领取礼物吗？");
 	cm.dispose();
 
     } else {
@@ -105,7 +105,7 @@ function action(mode, type, selection) {
 	    status--;
 		
 	if (status == 0) {
-	    cm.sendYesNo("Your party gave a stellar effort and gathered up at least 30 coupons. For that, i have a present for each and every one of you. After receiving the present, you will be sent back to Ludibrium. Now, would you like to receive the present right now?");
+	    cm.sendYesNo("你的队伍表现非常出色，收集了至少30张优惠券。因此，我为你们每个人准备了一份礼物。领取礼物后，你将被送回玩具城。现在，你想领取礼物吗？");
 
 	} else if (status == 1) {
 	    cm.warp(809050017);

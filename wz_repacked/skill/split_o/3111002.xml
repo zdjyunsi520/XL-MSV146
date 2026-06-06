@@ -1,6 +1,0 @@
-<imgdir name="3111002">
-        <string name="name" value="Puppet" />
-        <string name="desc" value="Summons a Puppet (doppelganger) for a given duration. When the Puppet is summoned, monsters will attack the Puppet instead of you." />
-        <string name="h" value="MP Cost: #mpCon, Puppet HP: #x, Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Puppet HP: #hcSummonHp, Duration: #time sec" />
-    </imgdir>

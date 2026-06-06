@@ -1,5 +1,0 @@
-<imgdir name="2001003">
-        <string name="name" value="魔法铠甲" />
-        <string name="desc" value="使用魔法暂时提升防御力。\n前置技能:\n#c魔法盾 Lv. 3#" />
-        <string name="h" value="MP消耗: -#mpCon, 物理防御力: +#pdd, 魔法防御力: +#mdd, 持续时间: #time秒" />
-    </imgdir>

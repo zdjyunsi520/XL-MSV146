@@ -1,8 +1,0 @@
-<imgdir name="1320008">
-        <string name="name" value="Aura of the Beholden" />
-        <string name="desc" value="The black spirit periodically restores the your HP. The amount of healing increases as the skill level increases.\nRequired Skill: #cBeholden Lv. 1#" />
-        <string name="h" value="#hp restored every #x sec" />
-        <string name="pdesc" value="The black spirit periodically restores your HP. The amount of healing increases as the skill level increases.\nRequired Skill: #cBeholden Lv. 1#" />
-        <string name="ph" value="#hp restored every #x sec" />
-        <string name="hch" value="#hcHp restored every #x sec" />
-    </imgdir>

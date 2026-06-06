@@ -1,12 +1,12 @@
 //Angelic Buster Hot Time 1
-var extra = 
+var extra =
 [1132174, 1132175, 1132176, 1132177, 1132178, 1102481, 1102482, 1102483, 1102484,
 1102485, 1072743, 1072744, 1072745, 1072746, 1072747];
 
 function start() {
     if (im.getInventory(1).getNumFreeSlot() < 2 || im.getInventory(2).getNumFreeSlot() < 3
         || im.getInventory(3).getNumFreeSlot() < 1) {
-        im.sendOk("Please make more inventory space.");
+        im.sendOk("请预留更多背包空间。");
         im.dispose();
         return;
     }

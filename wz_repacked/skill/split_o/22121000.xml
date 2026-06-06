@@ -1,8 +1,0 @@
-<imgdir name="22121000">
-        <string name="name" value="Ice Breath" />
-        <string name="desc" value="Gathers chilling ice energy to attack multiple monsters." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount enemies, Freeze Chance: #prop% chance, Freeze Duration: #time sec" />
-        <string name="pdesc" value="Gathers chilling ice energy to attack multiple monsters." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #prop%, Freeze Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec" />
-    </imgdir>

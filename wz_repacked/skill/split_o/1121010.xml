@@ -1,7 +1,0 @@
-<imgdir name="1121010">
-        <string name="name" value="Enrage" />
-        <string name="desc" value="#cFocuses on a specific enemy# using a combo orb to deal increased damage. Consumes 1 combo orb.\nThis skill can be toggled on and off with the skill key\nRequired Skill: #cAdvanced Combo Attack Lv. 30 or above#" />
-        <string name="h" value="Cost: #mpCon MP and 1 Combo Orbs, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, #cMax Enemies Targeted: #mobCount#" />
-        <string name="pdesc" value="#cFocuses on a specific enemy# using a combo orb to deal increased damage. Consumes 1 combo orb.\nRequired Skill: #cAdvanced Combo Attack Lv. 30 or above#" />
-        <string name="ph" value="Cost: #mpCon MP and 1 Combo Orbs, Damage: +#x%, Critical Rate: +#z%, Minimum Critical Damage: +#y%, Duration: #time sec, #cMax Enemies Targeted: #mobCount#" />
-    </imgdir>

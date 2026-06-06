@@ -32,7 +32,7 @@ function enter(pi) {
         pi.getPlayer().changeMap(target, target.getPortal("st00"));
         return true;
     } else {
-        pi.playerMessage("The warp is currently unavailable.");
+        pi.playerMessage("传送目前不可用。");
         return false;
     }
 }

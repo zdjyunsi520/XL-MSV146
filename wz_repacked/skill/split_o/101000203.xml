@@ -1,5 +1,0 @@
-<imgdir name="101000203">
-        <string name="name" value="Long Sword Mastery" />
-        <string name="desc" value="Increases the Mastery, Attack Power, and Attack Speed of Long Sword type weapons. Damage, Attack Speed, Speed and Jump are also increased when a Long Sword is used." />
-        <string name="h" value="Permanent Long Sword Mastery Increase: #mastery%, Attack Power: +#padX, Speed: +#psdSpeed, Jump: +#psdJump, Attack Speed: +3 step, Ignores #ignoreMobpdpR% of enemy defense." />
-    </imgdir>

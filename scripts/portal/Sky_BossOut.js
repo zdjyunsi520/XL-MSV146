@@ -18,6 +18,6 @@ function enter(pi) {
 		pi.warpParty(240080050);
 		pi.playPortalSE();
 	} else {
-		pi.playerMessage(5,"This portal is not available.");
+		pi.playerMessage(5,"此传送门不可用。");
 	}
 }

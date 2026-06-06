@@ -1,5 +1,0 @@
-<imgdir name="11001001">
-        <string name="name" value="Iron Body" />
-        <string name="desc" value="Increases your Weapon Defense for a fixed amount of time." />
-        <string name="h" value="MP Cost: #mpCon, Weapon DEF: +#pdd, Duration: #time sec" />
-    </imgdir>

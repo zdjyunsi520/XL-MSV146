@@ -96,7 +96,7 @@ function start() {
 	    cm.dispose();
 	    break;
 	default:
-	    cm.sendSimple("I am responsible for expanding Asia's vast strengths. If you have received permission from Asia on time warp, then I will send you to the past or future of Zipangu. \r #b#L0#Future - Odaiba, Tokyo, 2100#l \r #L1#Future - Tokyo Park, 2095#l \r #L2#Future - Akihabara, Tokyo, 2102#l \r #L3#Future - Tokyo Skies, 2102#l \r #L4#Future - Shibuya, Tokyo, 2102#l \r #L5#Future - Top Floor of Roppongi Mall, Tokyo, 2102#l  \r #L7#Future - 2102 Roppongi Mall - Top Floor#l \r #L6#Past - Ninja Castle#l");
+	    cm.sendSimple("我认为亚洲还没有允许你使用时间旅行。请先完成你的任务，再向亚洲报告。");
 	    break;
     }
 }
@@ -146,7 +146,7 @@ function action(mode, type, selection) {
 	if (questid && mapid > 0) {
 	    cm.warp(mapid, portal);
 	} else {
-	    cm.sendOk("I don't think Asia has permitted you to use the Time Warp just yet. Complete your mission first before reporting to Asia");
+	    cm.sendOk("我认为亚洲还没有允许你使用时间旅行。请先完成你的任务，再向亚洲报告。");
 	}
     } else {
 	cm.warp(800040000,0);

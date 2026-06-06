@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.showInstruction("Press #e#b[W]#k#n to view the World Map.", 250, 5);
+    pi.showInstruction("按#e#b[W]#k#n查看世界地图。", 250, 5);
 }

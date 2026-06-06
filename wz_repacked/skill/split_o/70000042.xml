@@ -1,5 +1,0 @@
-<imgdir name="70000042">
-        <string name="name" value="Magic DEF to Damage Conversion" />
-        <string name="desc" value="Increases final damage in proportion to Magic DEF." />
-        <string name="h" value="#mdd2dam% of Magic DEF added as additional damage" />
-    </imgdir>

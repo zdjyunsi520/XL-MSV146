@@ -1,5 +1,0 @@
-<imgdir name="3111005">
-        <string name="name" value="Phoenix" />
-        <string name="desc" value="Temporarily summons a Phoenix to deal Fire damage to up to 4 enemies. Has a chance to Stun enemies. Also permanently increases Weapon/Magic Defense." />
-        <string name="h" value="MP Cost: #mpCon, summon Phoenix for #time sec. Attack up to 4 enemies at once with #damage% damage. #prop% chance to Stun\n[Passive Effects: Increase Weapon/Magic Defense by #pddR%]" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="24001002">
-        <string name="name" value="Phantom Swiftness" />
-        <string name="desc" value="Permanently increases Movement Speed, Max Movement Speed, and Jump. Increasing the Skill Level will increase Jump distance. Can also be used with jump key." />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Additional Jump distance \nPassive Effects - Movement Speed +#psdSpeed, Max Movement Speed +#speedMax, Jump +#psdJump" />
-        <string name="pdesc" value="Permanently increases Movement Speed, Max Movement Speed, and Jump. Increasing the Skill Level will increase Jump distance. Can also be used with jump key." />
-        <string name="ph" value="Active Effects - MP Cost: #mpCon, Additional Jump distance \nPassive Effects - Movement Speed +#psdSpeed, Max Movement Speed +#speedMax, Jump +#psdJump" />
-    </imgdir>

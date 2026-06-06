@@ -1,7 +1,0 @@
-<imgdir name="35121006">
-        <string name="name" value="Satellite Safety" />
-        <string name="desc" value="Permanently increases Satellite attack damage. When you take a fatal blow, a Satellite can minimize the damage you take by absorbing some of the damage. The Satellite will then disappear and the skill will be on cooldown. \nToggle this skill #cOn/Off# by pressing the skill key.\nRequired Skill: #cSatellite Lv. 10#" />
-        <string name="h" value="Satellite Attack Damage: +#damR% \nProcs when you take damage more than #x% of your Max HP, Absorbs #y% of the damage received, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="When you take a fatal blow, a Satellite can minimize the damage you take by absorbing some of the damage. The Satellite will then disappear and the skill will be on cooldown. \nToggle this skill #cOn/Off# by pressing the skill key.\nRequired Skill: #cSatellite Lv. 10#" />
-        <string name="ph" value="Absorbs #y% of damage greater than #x% of your MaxHP\n#cCooldown: #cooltime sec#" />
-    </imgdir>

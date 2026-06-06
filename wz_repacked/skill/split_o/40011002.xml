@@ -1,5 +1,0 @@
-<imgdir name="40011002">
-        <string name="name" value="Summer Rain" />
-        <string name="desc" value="The ultimate Battoujutsu technique. Blades rain from the sky, carrying the heat of the summer sun." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, +#indieDamR% Continuous damage for #time. Cooldown: #cooltime sec" />
-    </imgdir>

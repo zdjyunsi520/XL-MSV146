@@ -1,8 +1,0 @@
-<imgdir name="5321003">
-        <string name="name" value="Anchors Aweigh" />
-        <string name="desc" value="Places an anchor that creates a strong magnetic field. The magnetic field pulls enemies toward it. When the anchor disappears, it explodes, dealing critical damage to all nearby enemies." />
-        <string name="h" value="MP Cost: #mpCon, Summon Duration: #time sec. Pulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage" />
-        <string name="pdesc" value="Places an anchor that creates a strong magnetic field. The magnetic field pulls enemies toward it. When the anchor disappears, it explodes, dealing critical damage to all nearby enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Summon Duration: #time sec. Pulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage\n#cCooldown: #cooltime sec#" />
-        <string name="hch" value="MP Cost: #mpCon, Summon Duration: #time sec. Stun Chance: #hcProp%, Stun Duration: #hcSubTime.\nPulls the enemy forward while dealing #damage% damage at fixed intervals. When duration has run out, will explode to deal #selfDestruction% additional damage\n#cCooldown: #hcCooltime sec#" />
-    </imgdir>

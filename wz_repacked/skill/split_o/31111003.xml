@@ -1,8 +1,0 @@
-<imgdir name="31111003">
-        <string name="name" value="Raven Storm" />
-        <string name="desc" value="Summons a flock of really angry ravens that peck the faces off of any enemies in front of you. The ravens then return the enemies&apos; HP to you as thanks for letting them take out their aggression." />
-        <string name="h" value="Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Recovers up to #x% of HP\nCooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons a flock of really angry ravens that peck the faces off of any enemies in front of you. The ravens then return the enemies&apos; HP to you as thanks for letting them take out their aggression." />
-        <string name="ph" value="Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Recovers up to #x% of HP\nCooldown: #cooltime sec" />
-        <string name="hch" value="Fury Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Recovers up to #hcHp% of HP\nCooldown: #cooltime sec" />
-    </imgdir>

@@ -8,19 +8,19 @@ function start(mode, type, selection) {
 //        else
 //            status--;
 //        if (status == 0) {
-//            qm.sendNext("La cau day ak, co viec gi the",2040050);
+//            qm.sendNext("是你啊，有什么事？",2040050);
 //        } else if (status == 1) {
-//            qm.sendPlayerToNpc("Toi muon biet nguoi dua cho anh buc thu la ai!");
+//            qm.sendPlayerToNpc("我想知道是谁给你的那封信！");
 //        } else if (status == 2) {
-//            qm.sendNext("Anh ay la nguoi mac ao den, co 2 mat, 1 mui, 2 tai...blah blah!",2040050);
+//            qm.sendNext("他是一个穿黑色衣服，有两只眼睛，一个鼻子，两只耳朵……的人……废话！",2040050);
 //        } else if (status == 3) {
-//            qm.sendPlayerToNpc("Dung dua toi nua! Noi cho biet anh ay la ai");
+//            qm.sendPlayerToNpc("别再跟我开玩笑了！告诉我他是谁");
 //        } else if (status == 4) {
-//            qm.sendNext("Anh that chang biet dua! Tai sao toi phai giup anh nhi?her",2040050);
+//            qm.sendNext("我真的不知道啊！为什么要帮你呢？",2040050);
 //        } else if (status == 5) {
-//            qm.sendPlayerToNpc("Toi xin loi. Thuc su dieu do rat quan trong doi voi toi luc nay.");
+//            qm.sendPlayerToNpc("对不起。这对我来说真的很重要。");
 //        } else if (status == 6) {
-//            qm.sendNext("Cau muon gap anh ay chu?");//,2040050);
+//            qm.sendNext("你想见他吗？");//,2040050);
 //        } else if (status == 7) {
 //            //qm.forceStartQuest();
 //            qm.warp(552000074);

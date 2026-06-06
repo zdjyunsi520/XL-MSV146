@@ -8,9 +8,9 @@ var status = -1;
 function start(mode, type, selection) {
 	status++;
 	if (status == 0) {
-		qm.sendNext("This is the ceremony where we welcome all the newbie knights. We need to find Training Instructor Kiku. He's gotta be around here somewhere...");
+		qm.sendNext("这是欢迎所有新骑士的仪式。我们需要找到训练教官奇库。他一定在这附近某个地方...");
 	} else if (status == 1) {
-      qm.sendNext("Having a hard time finding Kiku? You should use that NPC button next to your map! Just click on Kiku and you'll see an arrow!\r\nHurry up and go say hi before he gets grumpy!");
+      qm.sendNext("找不到奇库吗？你应该用地图旁边的NPC按钮！点击奇库，你就会看到一个箭头！\r\n趁他还没发脾气赶紧去打个招呼！");
 	} else if (status == 2) {
 	  qm.forceStartQuest();
 	  qm.dispose();
@@ -25,7 +25,7 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("I wish they'd start sending over some decent sized fighters, but I guess you'll work.");
+	    qm.sendNext("我希望他们能送来些体型大一点的战士，不过我想你也凑合了。");
 		qm.dispose();
 	}
   }

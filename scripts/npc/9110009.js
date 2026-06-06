@@ -36,25 +36,25 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple("Tons and tons of treasures! Straight from the back of store all the way to your hands!\r\n#b#L0#Uh.. what?#l\r\n#L2#What can I win?#l\r\n#L1#Let's give it a run!#l");
+			cm.sendSimple("我从商场小巷的后面偷了些东西然后……哎呀……也许不该说出来。\r\n总之，我在用#r投票点数#k交换随机物品，你可以通过#e投票#n获得投票点数！");
 		} else if (status == 1) {
 			if (selection == 0) {
-				cm.sendOk("I stole some things from a back of a shopping mall alley and.. woops.. probably shouldn't have said that.\r\nWell, I'm exchanging #rVote Points#k in which you can obtain via #evoting#n, for a random item!");
+				cm.sendOk("抱歉，看起来你没有超过1个投票点数。");
 				cm.dispose();
 			} else if (selection == 1) {
 			if (!cm.getPlayer().getVPoints() >= 1) { 
-				cm.sendOk("Sorry, but it does not appear that you have more than 1 Vote Point.");
+				cm.sendOk("感谢你的投票！\r\n你想试试获取一些精美物品吗？");
 				cm.dispose();
 			} else {
-				cm.sendYesNo("Thank you for voting!\r\nWould you like a chance to try out for some amazing items?");
+				cm.sendYesNo("有大量物品可供选择，因为我昨晚从巷子后面偷了一些回来。\r\n");
 			}
 			} else if (selection == 2) {
-				text = "Tons and tons of items are available, because I stole some from the back of an alley last night.\r\n"; 
-				text+= "#rCommon:#k\r\n";
+				text = "#r普通：#k\r\n"; 
+				text+= "\r\n#r普通：#k\r\n";
 				for (var i = 0; i < common.length; text += " #k#b#v"+common[i]+"##l", i++); 
-				text+= "\r\n#rNormal:#k\r\n";
+				text+= "\r\n#r稀有：#k\r\n";
 				for (var i = 0; i < normal.length; text += " #k#b#v"+normal[i]+"##l", i++); 
-				text+= "\r\n#rRare:#k\r\n";
+				text+= "别忘了你每6小时可以投票一次！";
 				for (var i = 0; i < rare.length; text += " #k#b#v"+rare[i]+"##l", i++); 
 				cm.sendOk(text);
 				cm.dispose();
@@ -68,7 +68,7 @@ function action(mode, type, selection) {
 			} else {
 				cm.gainItem(irare, 1);
 			}
-			cm.sendOk("Don't forget you can vote once every 6 hours!");
+			cm.sendOk("别忘了你每6小时可以投票一次！");
 			cm.dispose();
 		}
 	}

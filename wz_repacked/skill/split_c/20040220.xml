@@ -1,5 +1,0 @@
-<imgdir name="20040220">
-        <string name="name" value="平衡" />
-        <string name="desc" value="有概率发动稳如泰山。受到的所有伤害降为1。无冷却时间。提升技能伤害。所有光之技能恢复1%HP。消耗0 MP。" />
-        <string name="h" value="#prop% chance for Power Stance to activate for #time sec. #damage% bonus damage dealt with spells. 100% bonus dealt when Equilibrum is used. Cooldowns not applied. 0 MP used for Dark spells. #x% HP restored with Light spells.\n#cLight and Darkness applied for combination skills.#" />
-    </imgdir>

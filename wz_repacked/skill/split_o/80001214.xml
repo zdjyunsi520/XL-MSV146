@@ -1,5 +1,0 @@
-<imgdir name="80001214">
-        <string name="name" value="Wind Palm" />
-        <string name="desc" value="Laser palms! When summoned by a soul weapon, the Dragon Rider damages the area in front." />
-        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec\nCooldown: #cooltime sec" />
-    </imgdir>

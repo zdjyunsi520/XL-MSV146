@@ -10,10 +10,10 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to head to Chryse?");
+	cm.sendYesNo("你想前往克里塞吗？");
     } else if (status == 1) {
 	if (cm.getMap(200100000) == null) {
-	    cm.sendOk("Chryse is not available yet.");
+	    cm.sendOk("克里塞尚未开放。");
 	} else {
 	    cm.warp(200100000, 0);
 	}

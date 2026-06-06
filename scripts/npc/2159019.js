@@ -1,4 +1,4 @@
 function action(mode, type, selection) {
-    cm.sendNext("Please save me!");
+    cm.sendNext("请救救我！");
     cm.dispose();
 }

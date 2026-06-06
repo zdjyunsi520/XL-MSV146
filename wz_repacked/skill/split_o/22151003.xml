@@ -1,7 +1,0 @@
-<imgdir name="22151003">
-        <string name="name" value="Magic Resistance" />
-        <string name="desc" value="Temporarily increases the magic resistance and Magic DEF for all party members nearby." />
-        <string name="h" value="MP Cost: #mpCon, Magic Resistance: +#x%, Magic DEF: +#mdd, Duration: #time sec" />
-        <string name="pdesc" value="Temporarily increases the magic resistance for all nearby team members." />
-        <string name="ph" value="MP Cost: #mpCon, Magic Resistance: +#x%, Duration: #time sec" />
-    </imgdir>

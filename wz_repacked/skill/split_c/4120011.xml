@@ -1,7 +1,0 @@
-<imgdir name="4120011">
-        <string name="name" value="剧毒之液" />
-        <string name="desc" value="提升毒液的中毒几率并永久提升中毒伤害。\n需要技能：#c毒液 Lv. 10#" />
-        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec, Can be stacked #dotSuperpos times" />
-        <string name="pdesc" value="提升毒液的中毒几率并永久提升中毒伤害。\n需要技能：#c毒液 Lv. 10#" />
-        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec, Can be stacked #dotSuperpos times" />
-    </imgdir>

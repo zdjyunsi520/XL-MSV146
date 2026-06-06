@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNextS("Would you like to skip the tutorial cutscenes??",5,9010000);
+	    cm.sendNextS("你想跳过教程过场动画吗？？",5,9010000);
 	} else if (status == 1) {	
         cm.dispose();
     }

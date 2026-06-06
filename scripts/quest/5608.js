@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendAcceptDecline("It's a gift-giving festival, and have I got some gifts for you?\r\nThat was a rhetorical question, OF COURSE I DO!\r\nHelp me brighten up the mood around Maple World, and take this gift.");
+		qm.sendAcceptDecline("这是一个送礼的节日，而我准备了一些礼物给你？\r\n那是反问句，我当然有准备！\r\n帮我照亮冒险岛世界的心情，收下这份礼物吧。");
     } else if (status == 1) {	   
-        qm.sendOk("I can always count on you to bring the fun.\r\nAnd also the guacemole, which I totally meant to tell you to bring. We'll just leave chips off the menu this time around. Check your Cash tab for the gift!");	
+        qm.sendOk("我总是能指望你来带来欢乐。\r\n还有鳄梨酱，我完全忘了叫你带了。这次我们就不准备薯片了。去现金栏查收礼物吧！");	
 	} else if (status == 2) {	   
 		qm.forceStartQuest();
 		qm.forceCompleteQuest();

@@ -1,7 +1,0 @@
-<imgdir name="5920001">
-        <string name="name" value="Elemental Boost" />
-        <string name="desc" value="Increases the potency of Flamethrower and Ice Splitter." />
-        <string name="h" value="MP Cost: #mpCon, Damage Bonus (for both skills): +#damage%, Flamethrower DoT Damage: +#x%, Ice Splitter Freeze Duration: +#y sec" />
-        <string name="pdesc" value="Increases the potency of Flamethrower and Ice Splitter." />
-        <string name="ph" value="MP Cost: #mpCon, Damage Bonus (for both skills): +#damage%, Flamethrower DoT Damage: +#x%, Ice Splitter Freeze Duration: +#y sec" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="51001004">
-        <string name="name" value="灵魂之刃" />
-        <string name="desc" value="召唤并赋予无形的灵魂之力以形态，对敌人造成伤害！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="召唤并赋予无形的灵魂之力以形态，对敌人造成伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="31211011">
-        <string name="name" value="盾牌冲锋" />
-        <string name="desc" value="用盾牌冲向敌人并将其击退！冲锋结束后释放强力爆炸进一步击退敌人，并有几率造成眩晕。" />
-        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount.\r\nEnemies Hit After Charge: #z, Damage After Charge: #x%" />
-    </imgdir>

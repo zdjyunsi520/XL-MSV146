@@ -1,7 +1,0 @@
-<imgdir name="5811006">
-        <string name="name" value="冲击波" />
-        <string name="desc" value="猛击地面产生冲击波，伤害多个敌人。只有在#c变身或超级变身#状态下才能使用。\n需要技能：#c变身 Lv. 1#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="猛击地面产生冲击波，伤害多个敌人。只有在#c变身或超级变身#状态下才能使用。\n需要技能：#c变身 Lv. 1#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

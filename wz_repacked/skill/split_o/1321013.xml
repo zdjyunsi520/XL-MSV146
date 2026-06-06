@@ -1,5 +1,0 @@
-<imgdir name="1321013">
-        <string name="name" value="Gungnir&apos;s Descent" />
-        <string name="desc" value="Drops an enormous, mythical spear from the heavens to deal damage. You can deal #chigher damage with greater Max HP#." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% + #x% of Max HP, Number of Attacks: #attackCount, Enemy Defense Ignored: #ignoreMobpdpR%, cooldown: #cooltime sec. However, ignores cooldown while in Final Pact or when Sacrifice is cast" />
-    </imgdir>

@@ -1,5 +1,5 @@
 function start() {
-    cm.sendPlayerToNpc("It was like... a small shining light...");
+    cm.sendPlayerToNpc("那就像是……一道小小的闪光……");
 }
 
 function action(mode, type, selection) {

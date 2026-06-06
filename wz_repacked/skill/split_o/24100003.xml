@@ -1,5 +1,0 @@
-<imgdir name="24100003">
-        <string name="name" value="Carte Blanche" />
-        <string name="desc" value="Each critical attack has a chance to produce a card that attacks nearby enemy automatically. #cThis card is added to your deck.#" />
-        <string name="h" value="Upon a successful critical attack, card appears at #prop% chance, Damage: #damage%, #cDeck +1#" />
-    </imgdir>

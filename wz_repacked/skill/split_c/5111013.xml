@@ -1,5 +1,0 @@
-<imgdir name="5111013">
-        <string name="name" value="刺猬冲击" />
-        <string name="desc" value="点燃能量攻击附近多个敌人。有几率使敌人眩晕~" />
-        <string name="h" value="能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount, 眩晕几率: #prop%, 眩晕时间: #time秒" />
-    </imgdir>

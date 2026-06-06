@@ -1,5 +1,0 @@
-<imgdir name="31010004">
-        <string name="name" value="Exceed: Double Slash" />
-        <string name="desc" value="Slashes enemies in front two times.\r\n#cExceed#: Gradually increases attack speed and decreases HP. Range increased during final stage." />
-        <string name="h" value="HP Cost: #hpRCon%, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount		" />
-    </imgdir>

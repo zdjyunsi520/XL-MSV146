@@ -1,7 +1,0 @@
-<imgdir name="15101003">
-        <string name="name" value="螺旋冲拳" />
-        <string name="desc" value="用充满能量的拳头同时击打多个怪物~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount" />
-        <string name="pdesc" value="用充满能量的拳头同时击打多个怪物~" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 最大敌人数: #mobCount, 冷却时间: #cooltime秒" />
-    </imgdir>

@@ -18,7 +18,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("Welcome to the Showa hair shop. If you have a #b#t5150009##k, or a #b#t5151009##k, allow me to take care of your hairdo. Please choose the one you want. \r\n#L0#Haircut: #i5150009##t5150009##l\r\n#L1#Dye your hair: #i5151009##t5151009##l");
+	cm.sendSimple("我可以完全改变你的发型，让你看起来非常棒。要不要换个新发型呢？有了#b#t5150009##k，剩下的交给我吧。选择你喜欢的发型吧！");
     } else if (status == 1) {
 	if (selection == 0) {
 	    var hair = cm.getPlayerStat("HAIR");
@@ -33,7 +33,7 @@ function action(mode, type, selection) {
 	    for (var i = 0; i < hair_Colo_new.length; i++) {
 		hair_Colo_new[i] = hair_Colo_new[i] + (hair % 10);
 	    }
-	    cm.askAvatar("I can totally change up your hairstyle and make it look so good. Why don't you change it up a bit? With #b#t5150009##k, I'll take care of the rest for you. Choose the style of your liking!", hair_Colo_new);
+	    cm.askAvatar("我可以完全改变你的发色，让你看起来非常棒。要不要换个新发色呢？有了#b#t5151009##k，剩下的交给我吧。选择你喜欢的颜色吧！", hair_Colo_new);
 	} else if (selection == 1) {
 	    var currenthaircolo = Math.floor((cm.getPlayerStat("HAIR") / 10)) * 10;
 	    hair_Colo_new = [];
@@ -42,20 +42,20 @@ function action(mode, type, selection) {
 	    for (var i = 0; i < 8; i++) {
 		hair_Colo_new[i] = currenthaircolo + i;
 	    }
-	    cm.askAvatar("I can totally change your haircolor and make it look so good. Why don't you change it up a bit? With #b#t5151009##k, I'll take care of the rest. Choose the color of your liking!", hair_Colo_new);
+	    cm.askAvatar("享受你的全新发型吧！", hair_Colo_new);
 	}
     } else if (status == 2) {
 	if (beauty == 1) {
 	    if (cm.setAvatar(5150009, hair_Colo_new[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved hairstyle!");
+		cm.sendOk("嗯...看来你没有我们指定的优惠券...没有优惠券的话恐怕没办法给你剪发。抱歉...");
 	    } else {
-		cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't give you a haircut without it. I'm sorry...");
+		cm.sendOk("享受你的全新发色吧！");
 	    }
 	} else {
 	    if (cm.setAvatar(5151009, hair_Colo_new[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved hair colour!");
+		cm.sendOk("嗯...看来你没有我们指定的优惠券...没有优惠券的话恐怕没办法给你染发。抱歉...");
 	    } else {
-		cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't dyle your hair without it. I'm sorry...");
+		cm.sendOk("嗯...看来你没有我们指定的优惠券...没有优惠券的话恐怕没办法给你染发。抱歉...");
 	    }
 	}
 	cm.dispose();

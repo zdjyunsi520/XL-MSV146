@@ -1,7 +1,0 @@
-<imgdir name="1101013">
-        <string name="name" value="连击攻击" />
-        <string name="desc" value="激活后，每次攻击有几率增加连击数，最多可积攒5个~" />
-        <string name="pdesc" value="激活后，每次攻击有几率增加连击数，最多可积攒5个~" />
-        <string name="h" value="激活后，#prop%几率将攻击加入连击数。最大连击数: #x" />
-        <string name="ph" value="激活后，#prop%几率将攻击加入连击数。最大连击数: #x" />
-    </imgdir>

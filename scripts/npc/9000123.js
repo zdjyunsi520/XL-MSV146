@@ -15,17 +15,17 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	    cm.sendSimple("Hi. I'm Big Head Kingdom's #b#p1012117##k. If you have a #bSpecial Hair Coupon#k or #b#t05150040##k, #b#t05150087##k why not let me take care of your hair?\r\n#b#L1# Change Hairstyle (Royal Hair Coupon)#l\r\n#b#L2# Change Hairstyle (All Stars Hair coupon)#l\r\n#b#L16# Change Hairstyle (Crazy Hair coupon)#l#k");		
+	    cm.sendSimple("你好。我是大头王国的#b#p1012117##k。如果你有#b特殊发型券#k或#b#t05150040##k、#b#t05150087##k，不如让我来为你打理发型？\r\n#b#L1# 改变发型（皇家发型券）#l\r\n#b#L2# 改变发型（全明星发型券）#l\r\n#b#L16# 改变发型（疯狂发型券）#l#k");		
     } else if (status == 1) {
         sel = selection;
 	  if (selection == 0) {		
-	    cm.sendYesNo("When you use the Royal Hair Coupon, you get a new, random hairdo. Are you sure you want to use #b#t05150040##k and change your hair?");
+	    cm.sendYesNo("使用皇家发型券，你将获得一个全新的随机发型。你确定要使用 #b#t05150040##k 更改发型吗？");
         cm.dispose();		
      } else if (selection == 1) {
-		cm.sendYesNo("When you use the All Stars Hair coupon, you get a new, random hairdo. Are you sure you want to use #b#t05150061##k and change your hair?");
+		cm.sendYesNo("使用全明星发型券，你将获得一个全新的随机发型。你确定要使用 #b#t05150061##k 更改发型吗？");
         cm.dispose();	   
      } else if (selection == 2) {
-		cm.sendYesNo("When you use the Messed-Up Hair coupon, you get a new, random hairdo. Are you sure you want to use #b#t05150087##k and change your hair?");
+		cm.sendYesNo("使用凌乱发型券，你将获得一个全新的随机发型。你确定要使用 #b#t05150087##k 更改发型吗？");
         cm.dispose();	  
 	   }
 	    cm.dispose();

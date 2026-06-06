@@ -1,5 +1,0 @@
-<imgdir name="3211011">
-        <string name="name" value="Pain Killer" />
-        <string name="desc" value="Consumes a prepared Herb to remove Abnormal Status immediately. Additionally, increases all Elemental Resistances and Abnormal Status Resistances permanently." />
-        <string name="h" value="MP Cost: #mpCon, Clear Status and make you immune to it for #time sec. Cooldown: #cooltime sec.\n[Passive Effect : Increase Abnormal Status Resistance and all Elemental Resistance by #asrR%]" />
-    </imgdir>

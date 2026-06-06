@@ -1,7 +1,0 @@
-<imgdir name="15111007">
-        <string name="name" value="Shark Wave" />
-        <string name="desc" value="Attack multiple monsters in front of you." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Attack multiple enemies in front of you." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

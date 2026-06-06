@@ -4,7 +4,7 @@
 
 function start() {
     if (cm.getMapId() != 802000310) {
-	cm.sendSimple("Waaaaaaaahhh! \r\n#b#L0#Hand in the energy transmitter device#l \r\n#b#L1#Just Run away for now#l");
+	cm.sendSimple("请收集10个能量传送装置！");
     }
 }
 
@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 		cm.gainItem(4032192, -10);
 		cm.warp(802000313, 0);
 	    } else {
-		cm.sendOk("Please collect 10 Energy Transmitter device!");
+		cm.sendOk("请收集10个能量传送装置！");
 	    }
 	} else if (selection == 1) {
 	    cm.warp(802000310, 0);

@@ -11,15 +11,15 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Boo! Hey I got a #blittle something#k for all our Halloween Maplers. To be honest, I bought a ton of costumes and now I need to get rid of them. my cat is super allergic. Which one should I hand out today?");
+		qm.sendNext("嘻！嘿，我为所有万圣节枫之谷玩家准备了#b一些小东西#k。说实话，我买了一大堆服装，现在需要处理掉。我的猫超级过敏。今天我应该发哪一套呢？");
 	} else if (status == 1) {		
-	    qm.sendNextPrev("Come see me during the Halloween Event, and I'll give you #bone of 6 Halloween outfits!#k\r\nYou can #bonly wear it today#k, though. You don't want to be behind the times.");	
+	    qm.sendNextPrev("在万圣节活动期间来找我，我会给你#b6套万圣节服装中的1套！#k\r\n不过你#b只能在今天穿上它#k。你可不想落伍吧。");	
     } else if (status == 2) {	
-	    qm.sendNextPrev("Also, you MUST be wearing a #rHalloween outfit#k to enter #e#bMaple Castle#k, which is only accessible during the Halloween event!");	
+	    qm.sendNextPrev("此外，你必须穿着#r万圣节服装#k才能进入#e#b枫之城堡#k，这里只在万圣节活动期间开放！");	
 	} else if (status == 3) {
-	    qm.sendNextPrev("Here's your Halloween costume! The #rcostume festival#k will last throughout the #bHalloween Event#k, so keep it spooky!");
+	    qm.sendNextPrev("这是你的万圣节服装！#r服装狂欢节#k将持续整个#b万圣节活动#k期间，保持恐怖气氛吧！");
     } else if (status == 4) {	
-	    qm.sendSimple("#fUI/UIWindow2.img/QuestIcon/4/0#\r\n#i1002877##bCow Mask x1#k\r\n#i1052179##bCow Costume x1#k\r\n\r\nEnjoy your gifts!");
+	    qm.sendSimple("#fUI/UIWindow2.img/QuestIcon/4/0#\r\n#i1002877##b奶牛面具 x1#k\r\n#i1052179##b奶牛服装 x1#k\r\n\r\n享受你的礼物吧！");
 	} else if (status == 5) {
 		qm.forceStartQuest();
 		qm.forceCompleteQuest();

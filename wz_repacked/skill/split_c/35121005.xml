@@ -1,7 +1,0 @@
-<imgdir name="35121005">
-        <string name="name" value="机甲：导弹坦克" />
-        <string name="desc" value="激活&lt;导弹坦克&gt;模式，期间机甲持续消耗MP以获得提升的暴击率。导弹坦克模式下可使用攻城模式以获得额外伤害。\n按技能键上下坐。\n[射击方式：#c攻击键#]\n[可使用技能：#c激光爆破、攻城模式#]\n前置技能：#c机甲攻城模式 Lv. 10#" />
-        <string name="h" value="坦克模式MP消耗：#mpCon加上每#v秒#uMP，伤害：#damage%\n基本攻击暴击率：+#cr%，MP消耗：#w，伤害加成（攻城模式）：+#z%" />
-        <string name="pdesc" value="激活导弹坦克模式，期间机甲持续消耗MP以获得提升的暴击率。导弹坦克模式下可使用攻城模式以获得额外伤害。\n按技能键上下坐。\n[射击方式：#c攻击键#]\n[可使用技能：#c激光爆破、攻城模式#]\n前置技能：#c机甲攻城模式 Lv. 10#" />
-        <string name="ph" value="坦克模式MP消耗：#mpCon加上每#v秒#uMP，伤害：#damage%，最大攻击敌人数：#mobCount\n基本攻击暴击率：+#cr%，MP消耗：#w，伤害加成（攻城模式）：+#z%" />
-    </imgdir>

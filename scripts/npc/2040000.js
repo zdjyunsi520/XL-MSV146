@@ -9,6 +9,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-    cm.sendOk("Hope you enjoy your stay at Ludibrium.");
+    cm.sendOk("希望你在玩具城过得愉快。");
     cm.dispose();
 }

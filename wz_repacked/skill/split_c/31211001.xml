@@ -1,5 +1,0 @@
-<imgdir name="31211001">
-        <string name="name" value="生命之幕" />
-        <string name="desc" value="按住技能键打击敌人，绝望刀会吸收HP。松开按键会释放额外的爆炸攻击！" />
-        <string name="h" value="HP Cost: #hpCon, Enemies Hit with Key Pressed: #mobCount, Damage: #damage%, HP Restored: #y%.\r\nExplosion Damage: #x%\nCooldown: #cooltime sec" />
-    </imgdir>

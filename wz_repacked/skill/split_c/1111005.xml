@@ -1,8 +1,0 @@
-<imgdir name="1111005">
-        <string name="name" value="气绝" />
-        <string name="desc" value="同时对多个敌人造成伤害并以一定概率使其眩晕。连击数达到1以上时才能使用。\n前置技能：#c连击 Lv.1#" />
-        <string name="h" value="#mpCon MP and #y combo orbs are used to deal #damage% on #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="同时对多个敌人造成伤害并以一定概率使其眩晕。连击数达到1以上时才能使用。\n前置技能：#c连击 Lv.1#" />
-        <string name="ph" value="#mpCon MP and #y combo orbs are used to deal #damage% damage to #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time\nCooldown: #cooltime sec" />
-        <string name="hch" value="#mpCon MP and #y combo orbs are used to deal #damage% damage to #mobCount enemies, Stun Chance: #prop%, Stun Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

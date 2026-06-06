@@ -1,5 +1,0 @@
-<imgdir name="70000045">
-        <string name="name" value="无冷却概率" />
-        <string name="desc" value="使用技能时有概率不触发冷却时间。" />
-        <string name="h" value="#nocoolProp% chance to bypass cooldown when using skills." />
-    </imgdir>

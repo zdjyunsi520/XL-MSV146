@@ -26,12 +26,12 @@ else
 
 
 if (cm.getPlayer().getReborns() >= 500) {
-	cm.sendSimple("You have enough rebirths and you have just obtained GM job.");
+	cm.sendSimple("[GM职业]恭喜");
 	cm.changeJobById(900)
-	cm.msiMessage("[GM Job] Congratulations to "+cm.getPlayer().getName()+" on getting GM job.");
+	cm.msiMessage("获得GM职业。 "+cm.getPlayer().getName()+"你需要至少500次转生才能获得GM职业。");
 	cm.dispose();
 	}else {
-	cm.sendOk("You need at least 500 rebirths to get GM job.");
+	cm.sendOk("你需要至少500次转生才能获得GM职业。");
 	cm.dispose();
 }
 }

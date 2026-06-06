@@ -1,7 +1,0 @@
-<imgdir name="1311005">
-        <string name="name" value="祭品" />
-        <string name="desc" value="利用龙的隐藏力量牺牲自身HP，对单个敌人发动无视防御的攻击。不会无视BOSS的防御。HP在20%以上才能使用。" />
-        <string name="h" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Number of Attacks: #attackCount" />
-        <string name="pdesc" value="利用龙的隐藏力量牺牲自身HP，对单个敌人发动无视防御的攻击。不会无视BOSS的防御。HP在20%以上才能使用。" />
-        <string name="ph" value="Cost: #mpCon MP and #x% HP, Damage: #damage%" />
-    </imgdir>

@@ -32,7 +32,9 @@ import client.MapleClient;
 import java.io.FileNotFoundException;
 import javax.script.ScriptException;
 import tools.FileoutputUtil;
-
+import java.io.InputStreamReader;
+import java.io.FileInputStream;
+import java.nio.charset.StandardCharsets;
 /**
  *
  * @author Matze
@@ -46,7 +48,7 @@ public abstract class AbstractScriptManager {
     }
 
     protected Invocable getInvocable(String path, MapleClient c, boolean npc) {
-        FileReader fr = null;
+        InputStreamReader  fr = null;
         try {
             path = "scripts/" + path;
             ScriptEngine engine = null;
@@ -66,7 +68,8 @@ public abstract class AbstractScriptManager {
                 if (c != null) {
                     c.setScriptEngine(path, engine);
                 }
-                fr = new FileReader(scriptFile);
+//                fr = new FileReader(scriptFile);
+                fr = new InputStreamReader(new FileInputStream(scriptFile), StandardCharsets.UTF_8);
                 engine.eval(fr);
             } else if (c != null && npc) {
                 //c.getPlayer().dropMessage(-1, "You already are talking to this NPC. Use @ea if this is not intended.");

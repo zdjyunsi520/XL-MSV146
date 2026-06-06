@@ -2,7 +2,7 @@ var status = -1;
 
 function start(mode, type, selection) {
 	if (status == -1) {
-		qm.sendNext("Did the curse do this to me? This must be a nightmare.");
+		qm.sendNext("是诅咒让我变成这样的吗？这一定是一场噩梦。");
 		qm.forceCompleteQuest();
 		status++;
 	} else {
@@ -15,7 +15,7 @@ function start(mode, type, selection) {
 }
 function end(mode, type, selection) {
 	if (status == -1) {
-		qm.sendNext("Did the curse do this to me? This must be a nightmare.");
+		qm.sendNext("是诅咒让我变成这样的吗？这一定是一场噩梦。");
 		qm.forceCompleteQuest();
 		status++;
 	} else {

@@ -1,5 +1,0 @@
-<imgdir name="31221054">
-        <string name="name" value="Forbidden Contract" />
-        <string name="desc" value="Rapidly recovers HP for a short time. Skills will not consume HP while this is active." />
-        <string name="h" value="HP Cost: #hpCon , Duration: #time sec, Max HP: #indieMhpR%, Skill HP Usage: 0\nCooldown: #cooltime sec" />
-    </imgdir>

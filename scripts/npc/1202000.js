@@ -16,7 +16,7 @@ function action(mode, type, selection) {
     }
 if (cm.getPlayer().getMapId() != 140090000) {
 if (status == 0) {
-	cm.sendSimple("Wait! The information listed below can all be obtained simply by playing through Level 10, so it's not something you'll need to learn way in advance. Only the ones that would like to learn these in advance should continue from here on out. \n\r Okay, which of these would you like to learn more of?  \n\r #b#L1#Minimap#l \n\r #b#L2#Quest window#l \n\r #b#L3#Inventory#l \n\r #b#L4#Regular attacks#l \n\r #b#L5#Picking up items#l \n\r #b#L6#Equipping an item#l \n\r #b#L7#Skill window#l \n\r #b#L8#How to use Quick Slot#l \n\r #b#L9#Breaking the box#l \n\r #b#L10#Sitting on a chair#l \n\r #b#L11#Raising stats#l");
+	cm.sendSimple("等等！下面列出的信息只要玩到10级就能全部获得，所以不需要提前了解。只有想提前了解的人再继续往下看。\n\r 好了，你想了解更多哪方面的内容？ \n\r #b#L1#小地图#l \n\r #b#L2#任务窗口#l \n\r #b#L3#物品栏#l \n\r #b#L4#普通攻击#l \n\r #b#L5#拾取物品#l \n\r #b#L6#装备物品#l \n\r #b#L7#技能窗口#l \n\r #b#L8#如何使用快捷栏#l \n\r #b#L9#打破箱子#l \n\r #b#L10#坐在椅子上#l \n\r #b#L11#提升属性#l");
 } else {
     cm.summonMsg(selection);
     cm.dispose();
@@ -24,15 +24,15 @@ if (status == 0) {
 } else {
     if (cm.getInfoQuest(21019).equals("")) {
 	if (status == 0) {
-	    cm.sendNext("You... are finally awake!");
+	    cm.sendNext("你……终于醒了！");
 	} else if (status == 1) {
-	    cm.sendNextPrevS("...who are you?", 2);
+	    cm.sendNextPrevS("……你是谁？", 2);
 	} else if (status == 2) {
-	    cm.sendNextPrev("I've been waiting for you. Waiting for the hero that fought the Black Wizard to finally wake up...!");
+	    cm.sendNextPrev("我一直在等你。等待与黑魔法师战斗的英雄终于醒来……！");
 	} else if (status == 3) {
-	    cm.sendNextPrevS("Wait, what are you saying? And who are you...?", 2);
+	    cm.sendNextPrevS("等等，你在说什么？你又是谁……？", 2);
 	} else if (status == 4) {
-	    cm.sendNextPrevS("Wait... who am I...? I don't remember a thing from the past. Ouch... and I have a terrible headache!", 2);
+	    cm.sendNextPrevS("等等……我是谁……？我什么都不记得了。哎哟……而且我头疼得厉害！", 2);
 	} else if (status == 5) {
 	    cm.updateInfoQuest(21019, "helper=clear");
 	    cm.showWZEffect("Effect/Direction1.img/aranTutorial/face");
@@ -42,19 +42,19 @@ if (status == 0) {
 	}
     } else {
 	if (status == 0) {
-	    cm.sendNext("Are you okay?");
+	    cm.sendNext("你没事吧？");
 	} else if (status == 1) {
-	    cm.sendNextPrevS("I... really don't remember a thing... Where am I? And who are you?", 2);
+	    cm.sendNextPrevS("我……真的什么都不记得了……这是哪里？你是谁？", 2);
 	} else if (status == 2) {
-	    cm.sendNextPrev("Relax. The curse of the Black Wizard is the reason why you don't have any memories with you. There's no need to worry about what happened in the past. I'll explain it to you in detail.");
+	    cm.sendNextPrev("冷静点。黑魔法师的诅咒是导致你失去记忆的原因。不必担心过去发生了什么。我会详细给你解释的。");
 	} else if (status == 3) {
-	    cm.sendNextPrev("You're a bonafide hero here. A few hundred years ago, you and your friends battled the Black Wizard and saved the world of Maple from a certain destruction. But at the last possible moment, the Black Wizard gave you a curse, which had you frozen in ice for a long time while completely wiping out your memory.");
+	    cm.sendNextPrev("你是一个真正的英雄。几百年前，你和你的伙伴们与黑魔法师战斗，将枫之谷的世界从毁灭中拯救出来。但在最后一刻，黑魔法师对你施加了诅咒，让你被冰封了很长时间，并彻底抹去了你的记忆。");
 	} else if (status == 4) {
-	    cm.sendNextPrev("You are currently at an island called Rien, and it's the island the Black Wizard chose to trap you for hundreds of years. Because of his curse, this island is always covered in snow and ice, even though the weather is nothing close to that level. You were found somewhere deep in the cave.");
+	    cm.sendNextPrev("你现在在一个叫做瑞恩的岛上，这是黑魔法师选择将你囚禁数百年的岛屿。因为他的诅咒，这座岛终年被冰雪覆盖，尽管实际的气候远没有这么严寒。你是在洞穴深处被发现的。");
 	} else if (status == 5) {
-	    cm.sendNextPrev("And my name is Lirin, a member of the Rien race. The Rien race has been holding hope for your return for centuries, and now... the hope has finally paid off. You are here, standing right in front of me, the living breathing legend.");
+	    cm.sendNextPrev("我的名字叫莉琳，是瑞恩族的成员。瑞恩族数百年来一直抱着你归来的希望，现在……这个希望终于实现了。你就站在我面前，活生生的传奇。");
 	} else if (status == 6) {
-	    cm.sendNextPrev("I may have given you too much information all at once. If you have yet to catch on to everything, then that's okay. You'll find out, sooner or later. In the mean time, #byou should head over to town#k. If you have any questions before getting to town, please feel free to ask me.");
+	    cm.sendNextPrev("我可能一次给了你太多信息了。如果你还没有完全理解，没关系。你迟早会知道的。现在，#b你应该前往城镇#k。在去城镇之前如果你有任何问题，请随时问我。");
 	} else if (status == 7) {
 	    cm.playerSummonHint(true);
 	    cm.warp(140090100, 1);

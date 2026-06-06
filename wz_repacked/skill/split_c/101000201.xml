@@ -1,5 +1,0 @@
-<imgdir name="101000201">
-        <string name="name" value="暗影斩" />
-        <string name="desc" value="快速移动到最近的敌人并攻击，释放穿透性斩击造成额外伤害。[前置技能]: #c穿透刺击 Lv. 1#\n[指令]: 穿透刺击后使用#c月光斩#" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[刀刃]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z。" />
-    </imgdir>

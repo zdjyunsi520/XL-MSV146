@@ -1,5 +1,0 @@
-<imgdir name="5201012">
-        <string name="name" value="Scurvy Summons" />
-        <string name="desc" value="Randomly summons a brave crewman from the Nautilus. The summoned crewman will move around freely and attack your enemies." />
-        <string name="h" value="MP Cost: #mpCon, Crewman Damage: #damage%, Duration: #time sec, Cooldown #cooltime sec" />
-    </imgdir>

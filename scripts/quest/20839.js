@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Hey, you're looking pretty good. #h #. I think I'll promote you to Knight-in-Training.\r\nJust follow the arrows, and they'll lead you straight to the Empress.");
+		qm.sendNext("嘿，你看起来不错。#h #。我觉得可以把你晋升为见习骑士了。\r\n只要跟着箭头走，它们会带你直接去女皇那里。");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Prove me right, #h #.");
+	    qm.sendNextPrev("证明我是对的，#h #。");
 	} else if (status == 2) {
         qm.forceStartQuest();	
 		qm.gainExp(3348);

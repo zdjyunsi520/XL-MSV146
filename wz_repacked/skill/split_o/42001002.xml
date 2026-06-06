@@ -1,5 +1,0 @@
-<imgdir name="42001002">
-        <string name="name" value="Ether Pulse" />
-        <string name="desc" value="Tap the skill key along with an arrow key to teleport in that direction. Any enemies between your start and end path will be damaged with a chance to stun. Teleport to a random spot by tapping the skill key without any direction keys." />
-        <string name="h" value="Normal Teleport: Mana Cost: #epCon, Move Horizontal: #x, Move Vertical: #y, Max Enemies Hit: #mobCount, Damage: #damage%. #prop% chance to Stun for #time sec.\nCommand:[#cSkill Key + Directional Key#]\nRandom Teleport: Mana Cost #5\n[Command：#cSkill Key#]" />
-    </imgdir>

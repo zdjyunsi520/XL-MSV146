@@ -1,7 +1,0 @@
-<imgdir name="14001003">
-        <string name="name" value="隐身术" />
-        <string name="desc" value="隐藏在暗影之中。隐身术激活期间，你既无法攻击也不会被攻击。" />
-        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒，移动速度：-#speed" />
-        <string name="pdesc" value="隐藏在暗影之中。隐身术激活期间，你既无法攻击也不会被攻击。" />
-        <string name="ph" value="MP消耗：#mpCon，持续时间：#time秒，移动速度：-#speed\n冷却时间：#cooltime秒" />
-    </imgdir>

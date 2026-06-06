@@ -39,7 +39,7 @@ function enter(pi) {
                 target = eim.getMapInstance(240050310); //dark
             }
         } else {
-            pi.playerMessage(5, "Hit the Lightbulb to determine your fate!");
+            pi.playerMessage(5, "点击灯泡来决定你的命运！");
             return false;
         }
         var targetPortal = target.getPortal("sp");
@@ -50,7 +50,7 @@ function enter(pi) {
         }
         return true;
     } else {
-        pi.playerMessage(6, "You are not the party leader. Only the party leader may proceed through this portal.");
+        pi.playerMessage(6, "你不是队伍队长。只有队长才能通过此传送门。");
         return false;
     }
 }

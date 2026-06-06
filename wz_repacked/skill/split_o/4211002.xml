@@ -1,5 +1,0 @@
-<imgdir name="4211002">
-        <string name="name" value="Phase Dash" />
-        <string name="desc" value="Dashes at the enemy with blinding speed, damaging and knocking them back. Also pushes Mesos on the ground in the direction of the attack." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Number of Mesos pushed: #x" />
-    </imgdir>

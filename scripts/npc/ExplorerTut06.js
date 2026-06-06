@@ -11,9 +11,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendSelfTalk("Who was that girl? Why did she run away when she saw me?");
+	    cm.sendSelfTalk("也许我跟上去看看..");
 	} else if (status == 1) {	
-	    cm.sendSelfTalk("Maybe I'll follow her..");
+	    cm.sendSelfTalk("也许我跟上去看看..");
 	} else if (status == 2) {
         cm.introEnableUI(0);
         cm.introDisableUI(false);

@@ -9,7 +9,7 @@ function enter(pi) {
 			pi.warpParty(((pi.getPlayer().getMapId() / 100) + 1) * 100 - (pi.getPlayer().getMapId() % 100)); // this is actually JUST (pi.getPlayer().getMapId() + 100), but we'll stick to this.
 			pi.playPortalSE();
 		} else {
-			pi.playerMessage(5, "You cannot go to the next map because Shammos has not arrived. Shammos must arrive before you can be transported.");
+			pi.playerMessage(5, "你无法前往下一个地图，因为沙姆斯还没有到达。沙姆斯必须到达后你才能被传送。");
 		}
 	} catch (e) {
 		pi.playerMessage(5, "Error: " + e);

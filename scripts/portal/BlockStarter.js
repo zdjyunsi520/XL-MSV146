@@ -1,3 +1,3 @@
 function enter(pi) { 
-    pi.playerMessage(5, "This portal is blocked.Please Complete the QuestLine"); 
+    pi.playerMessage(5, "此传送门已被封锁，请完成任务线。"); 
 }  

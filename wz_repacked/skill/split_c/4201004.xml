@@ -1,7 +1,0 @@
-<imgdir name="4201004">
-        <string name="name" value="偷窃" />
-        <string name="desc" value="快速攻击多个敌人，有几率偷取目标掉落物品中的一种和立即回复HP或MP的药水。每种物品和药水只能从单个敌人偷取一次。可反复尝试直到成功。从BOSS偷取的药水可完全回复HP和MP并短时间提升武器攻击力~" />
-        <string name="h" value="MP消耗: #mpCon, 偷窃几率: #prop%, 最大敌人数: #mobCount, 伤害: #damage%, 眩晕时间: #time秒。使用从BOSS偷取的药水时，回复HP/MP并激活武器攻击力+30增益，持续3分钟" />
-        <string name="pdesc" value="快速攻击多个敌人，有几率偷取目标掉落物品中的一种和立即回复HP或MP的药水。每种物品和药水只能从单个敌人偷取一次。可反复尝试直到成功。从BOSS偷取的药水可完全回复HP和MP并短时间提升武器攻击力~" />
-        <string name="ph" value="MP消耗: #mpCon, 偷窃几率: #prop%, 最大敌人数: #mobCount, 伤害: #damage%, 眩晕时间: #time秒。使用从BOSS偷取的药水时，回复HP/MP并激活武器攻击力+30增益，持续3分钟" />
-    </imgdir>

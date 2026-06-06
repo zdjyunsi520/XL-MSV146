@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 	if (status == 0 && mode == 0) {
-		cm.sendNext("You don't wanna be a Mercedes?.. Oh Well");
+		cm.sendNext("你不想成为梅赛德斯吗？..随你便吧。");
 		cm.dispose();
 		return;
 	}
@@ -23,9 +23,9 @@ function action(mode, type, selection) {
 	else
 		status--;
 	if(status == 0){
-		cm.sendYesNo("Hey I'm Mercedes! Would you like to become a master of the Dual Bowgun like me? \r\n#rIf you choose yes you will become a mercedes and be moved to Henesys");
+		cm.sendYesNo("嘿，我是梅赛德斯！你想成为像我一样精通双弩枪的大师吗？ \r\n#r如果你选择是，你将成为梅赛德斯并被传送到射手村");
    }else if(status == 1){
-		cm.sendNext("I now bestow my power upon you!");
+		cm.sendNext("现在我赐予你我的力量！");
 	 	cm.changeJob(2002);
 		cm.gainExp(15);
 		cm.gainExp(40);

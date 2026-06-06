@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     if (em != null) {
 	var itemid = 4001159;
 	if (!cm.canHold(itemid, 1)) {
-	    cm.sendOk("Please clear 1 ETC slot.");
+	    cm.sendOk("请腾出1个其他栏空位。");
 	    cm.dispose();
 	    return;
 	}
@@ -42,7 +42,7 @@ cm.gainExp_PQ(120, 1.0);
 	    cm.removeAll(4001133);
 	    cm.removeAll(4001134);
 	    cm.removeAll(4001135);
-	cm.sendSimple("#b#L0#Get me out of here#l\r\n#L1#Get me Proof of Love.#l#k");
+	cm.sendSimple("#b#L0#带我离开这里#l\r\n#L1#给我爱的证明。#l#k");
     } else {
 	if (selection == 0) {
     	    cm.warp(926110600,0);
@@ -52,7 +52,7 @@ cm.gainExp_PQ(120, 1.0);
 		cm.gainItem(4001160,-10);
 		cm.gainItem(4001159,-10);
 	    } else {
-		cm.sendOk("You will need 10 Alcadno Marble and 10 Zenumist Marble to get Proof of Love, as well as have EQP space.");
+		cm.sendOk("你需要10个阿尔卡德诺弹珠和10个泽尼密斯特弹珠才能获得爱的证明，同时需要有装备栏空间。");
 	    }
 	}
     	cm.dispose();

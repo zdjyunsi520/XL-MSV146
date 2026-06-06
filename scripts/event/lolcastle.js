@@ -49,7 +49,7 @@ function setup() {
 function announce() {
     em.setProperty("entryPossible", "true");
     if (i == 0) i = 5;
-    em.getChannelServer().broadcastPacket(tools.MaplePacketCreator.serverNotice(6, "[Event] Field of Judgement will open in " + i + " minutes"));
+    em.getChannelServer().broadcastPacket(tools.MaplePacketCreator.serverNotice(6, "[活动] 审判之地将在 " + i + " 分钟后开放"));
     i--;
 }
 
@@ -63,7 +63,7 @@ function mesoDistribution() {
 	    var randWinner = Math.floor(Math.random() * eim.getPlayerCount());
 	    var winner = eim.getPlayers().get(randWinner);
 	    var map = eim.getMapInstance(mapId);
-	    map.broadcastMessage(tools.MaplePacketCreator.serverNotice(6, "[Event] " + winner.getName() + " wins " + meso + " meso"));
+	    map.broadcastMessage(tools.MaplePacketCreator.serverNotice(6, "[活动] " + winner.getName() + " 获胜，获得 " + meso + " 金币"));
 	    winner.gainMeso(meso, true, true, true);
 	}
     }
@@ -72,7 +72,7 @@ function mesoDistribution() {
 function start() {
     scheduleNew();
     em.getChannelServer().broadcastPacket(
-	tools.MaplePacketCreator.serverNotice(6, "[Event] Field of Judgement is now open"));
+	tools.MaplePacketCreator.serverNotice(6, "[活动] 审判之地现已开放"));
     var iter = em.getInstances().iterator();
     while (iter.hasNext()) {
 	var eim = iter.next();
@@ -269,7 +269,7 @@ function playerDead(eim, player) {
     player.setHp(1);
     player.changeMap(returnMap, returnMap.getPortal(0));
     eim.unregisterPlayer(player);
-    player.getClient().getSession().write(tools.MaplePacketCreator.serverNotice(1, "You lost with " + eim.getKillCount(player) + " points."));
+    player.getClient().getSession().write(tools.MaplePacketCreator.serverNotice(1, "你失败了，获得 " + eim.getKillCount(player) + " 积分。"));
 }
 
 function playerDisconnected(eim, player) {
@@ -506,7 +506,7 @@ function allMonstersDead(eim) {
     var iter = eim.getPlayers().iterator();
     while (iter.hasNext()) {
 	var winner = iter.next();
-	winner.getClient().getSession().write(tools.MaplePacketCreator.serverNotice(1, "You win with " + eim.getKillCount(winner) + " points. You will be warped out in 2 minutes."));
+	winner.getClient().getSession().write(tools.MaplePacketCreator.serverNotice(1, "你获胜了，获得 " + eim.getKillCount(winner) + " 积分。你将在 2 分钟后被传送出去。"));
 	winner.getClient().getSession().write(tools.MaplePacketCreator.getClock(120));
 	eim.saveWinner(winner);
     }

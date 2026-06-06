@@ -1,5 +1,0 @@
-<imgdir name="31110008">
-        <string name="name" value="附魔盾牌" />
-        <string name="desc" value="赋予恶魔盾牌格挡敌人攻击的概率。格挡成功时，恢复少量怒气和HP。" />
-        <string name="h" value="攻击时，#x%概率格挡。格挡成功时，恢复#y%的HP和#z怒气。" />
-    </imgdir>

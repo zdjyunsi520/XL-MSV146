@@ -1,5 +1,0 @@
-<imgdir name="1201012">
-        <string name="name" value="暴风冲锋" />
-        <string name="desc" value="瞬间赋予武器冰属性，对敌人造成冰属性伤害并使其减速。#c攻击正在受火焰冲锋持续伤害的敌人时，可造成更多伤害#。" />
-        <string name="h" value="MP消耗: #mpCon。最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。#prop%几率，降低敌人移动速度#time秒。#c攻击灼烧中的敌人时，额外伤害#z%#" />
-    </imgdir>

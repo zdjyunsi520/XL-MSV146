@@ -1,7 +1,0 @@
-<imgdir name="22151002">
-        <string name="name" value="杀戮之翼" />
-        <string name="desc" value="用龙之印记标记敌人。之后的攻击会集中攻击该敌人，被标记的敌人将持续受到伤害。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，持续伤害：#dot%伤害，每#dotInterval 秒，持续#dotTime 秒" />
-        <string name="pdesc" value="用龙之印记标记敌人。之后的攻击会集中攻击该敌人，被标记的敌人将持续受到伤害。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，持续伤害：#dot%伤害，每#dotInterval 秒，持续#dotTime 秒" />
-    </imgdir>

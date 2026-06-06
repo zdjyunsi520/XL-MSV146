@@ -1,8 +1,0 @@
-<imgdir name="2221007">
-        <string name="name" value="Blizzard" />
-        <string name="desc" value="Summons spears of ice from the sky, showering multiple enemies with a nasty blizzard to freeze them. Attack during Blizzard&apos;s cooldown: #ca chance to deal damage on a single enemy with Blizzard#." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with Blizzard#]" />
-        <string name="pdesc" value="Summons spears of ice from the sky, showering multiple enemies with a nasty blizzard to freeze them. Attack during Blizzard&apos;s cooldown: #ca chance to deal damage on a single enemy with Blizzard#." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with Blizzard#]" />
-        <string name="hch" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Cooldown: #cooltime sec\n[Passive Effect: Attack during Cooldown: #c#prop% chance to deal #x% damage on a single enemy with Blizzard#]" />
-    </imgdir>

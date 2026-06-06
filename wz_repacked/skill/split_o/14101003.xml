@@ -1,6 +1,0 @@
-<imgdir name="14101003">
-        <string name="name" value="Haste" />
-        <string name="desc" value="Temporarily boosts the Speed and Jump of the entire party." />
-        <string name="h" value="MP Cost: #mpCon, Movement Speed: +#speed, Jump: +#jump, Duration: #time sec" />
-        <string name="pdesc" value="Temporarily boosts Speed and Jump of the entire team." />
-    </imgdir>

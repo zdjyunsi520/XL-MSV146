@@ -6,7 +6,7 @@ function start() {
     if (cm.getQuestStatus(100101) == 1 && !cm.haveItem(4031059)) {
 	var em = cm.getEventManager("3rdjob");
 	if (em == null) {
-	    cm.sendOk("Sorry, but everything is broken.");
+	    cm.sendOk("抱歉，一切都坏了。");
 	} else {
 	    em.newInstance(cm.getName()).registerPlayer(cm.getChar());
 	}

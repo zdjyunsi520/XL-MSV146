@@ -1,7 +1,0 @@
-<imgdir name="12111003">
-        <string name="name" value="流星雨" />
-        <string name="desc" value="从天空召唤流星对多个敌人施加强力火焰攻击！被击中的目标将持续受到火焰伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="从天空召唤流星对多个敌人施加强力火焰攻击！被击中的目标将持续受到火焰伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec, Duration: #dotTime sec, Cooldown: #cooltime sec" />
-    </imgdir>

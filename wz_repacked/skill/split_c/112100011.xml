@@ -1,5 +1,0 @@
-<imgdir name="112100011">
-        <string name="name" value="豹之隐蔽" />
-        <string name="desc" value="攻击时有几率恢复HP。每次攻击最多恢复10%。" />
-        <string name="h" value="触发几率: #prop%，恢复伤害的#x%作为HP" />
-    </imgdir>

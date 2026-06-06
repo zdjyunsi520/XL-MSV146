@@ -1,7 +1,0 @@
-<imgdir name="1111002">
-        <string name="name" value="连击" />
-        <string name="desc" value="在一定时间内，每次攻击积累连击球。最多可积累5个连击球。每个连击球增加你的伤害。" />
-        <string name="h" value="MP Cost: #mpCon , Duration: #time sec, Max Combo Orbs: #x, Damage: +#damR% per combo orb" />
-        <string name="pdesc" value="在一定时间内，每次攻击积累连击球。最多可积累5个连击球。每个连击球增加你的伤害。" />
-        <string name="ph" value="MP Cost: #mpCon , Duration: #time sec, Max Combo Orbs: #x, Damage: +#damR% per combo orb" />
-    </imgdir>

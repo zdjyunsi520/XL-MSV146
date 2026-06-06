@@ -1,7 +1,0 @@
-<imgdir name="5901001">
-        <string name="name" value="Invisible Shot" />
-        <string name="desc" value="Attacks 3 monsters by quickly firing bullets faster than can be seen by the naked eye." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% to 3 monsters" />
-        <string name="pdesc" value="Attacks 3 monsters by quickly firing bullets faster than can be seen by the naked eye." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

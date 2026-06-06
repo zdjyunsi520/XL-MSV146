@@ -1,5 +1,0 @@
-<imgdir name="21111009">
-        <string name="name" value="连击充能" />
-        <string name="desc" value="消耗HP和MP立即提升连击数。HP低于50%时无法使用。" />
-        <string name="h" value="消耗：#x% HP和#mpCon MP，连击数：+#y，冷却时间：#cooltime 秒" />
-    </imgdir>

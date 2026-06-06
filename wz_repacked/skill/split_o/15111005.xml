@@ -1,6 +1,0 @@
-<imgdir name="15111005">
-        <string name="name" value="Speed Infusion" />
-        <string name="desc" value="Uses HP and MP to temporarily increase the attack speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attack speed doubled.\nRequired Skill: #cKnuckle Booster Lv. 20#" />
-        <string name="h" value="Cost: -#hpCon HP and #mpCon MP, Duration: #time sec" />
-        <string name="pdesc" value="Uses HP and MP to double your team&apos;s attack speed. This can be combined with other boosters.\nRequired Skill: #cKnuckle Booster Lv. 20#" />
-    </imgdir>

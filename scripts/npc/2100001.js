@@ -28,7 +28,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 		if (mode == 0 && status == 0) {
-			cm.sendNext("If you aren't in a hurry, then please come back in a bit. As you can see, there's so much work going on right now that I can't possibly give them to you on time.");
+			cm.sendNext("如果你不着急的话，请稍后再来。如你所见，现在工作太多了，我不可能按时交付。");
 			cm.dispose();
 			return;
 		}
@@ -41,10 +41,10 @@ function action(mode, type, selection) {
 		else
 			status--;
 	if(status == 0)
-		cm.sendYesNo("Are you here to refine the ores of a mineral or a jewel? It doesn't matter how many ores you have, if you don't have them refined by a master like me, then they won't see the light of day. What do you think, do you want to refine them right now?");
+		cm.sendYesNo("你是来提炼矿石或宝石的吗？不管你有多少矿石，如果不经过像我这样的大师提炼，它们就见不了天日。你觉得呢，现在想提炼吗？");
 	if (status == 1 && mode == 1) {
-		var selStr = "I like your attitude! Let's just take care of this right now. What kind of ores would you like to refine? #b";
-		var options = new Array("Refine mineral ore","Refine jewel ores","Refine crystal ores");
+		var selStr = "我喜欢你的态度！我们现在就处理吧。你想提炼哪种矿石？#b";
+		var options = new Array("提炼矿物矿石","提炼宝石矿石","提炼水晶矿石");
 		for (var i = 0; i < options.length; i++){
 			selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 		}
@@ -53,8 +53,8 @@ function action(mode, type, selection) {
 	else if (status == 2 && mode == 1) {
 		selectedType = selection;
 		if (selectedType == 0){ //mineral refine
-			var selStr = "Which mineral would you like to refine?#b";
-			var minerals = new Array ("Bronze Plate","Steel Plate","Mithril Plate","Adamantium Plate","Silver Plate","Orihalcon Plate","Gold Plate","Lithium");
+			var selStr = "你想提炼哪种矿物？#b";
+			var minerals = new Array ("青铜板","钢铁板","秘银板","精钢板","银板","锂板","金板","Lithium");
 			for (var i = 0; i < minerals.length; i++){
 				selStr += "\r\n#L" + i + "# " + minerals[i] + "#l";
 			}
@@ -62,8 +62,8 @@ function action(mode, type, selection) {
 			equip = false;
 		}
 		else if (selectedType == 1){ //jewel refine
-			var selStr = "Which jewel would you like to refine?#b";
-			var jewels = new Array ("Garnet","Amethyst","Aquamarine","Emerald","Opal","Sapphire","Topaz","Diamond","Black Crystal");
+			var selStr = "你想提炼哪种宝石？#b";
+			var jewels = new Array ("Garnet","Amethyst","Aquamarine","Emerald","Opal","Sapphire","Topaz","Diamond","黑暗水晶");
 			for (var i = 0; i < jewels.length; i++){
 				selStr += "\r\n#L" + i + "# " + jewels[i] + "#l";
 			}
@@ -71,8 +71,8 @@ function action(mode, type, selection) {
 			equip = false;
 		}
 		else if (selectedType == 2){ //Crystal refine
-			var selStr = "A crystal? That's a rare item indeed. Don't worry, I can refine it just as well as others. Which crystal would you like to refine? #b";
-			var crystals = new Array("Power Crystal","Wisdom Crystal","DEX Crystal","LUK Crystal");
+			var selStr = "水晶？那确实是稀有物品。别担心，我提炼它跟提炼其他的一样在行。你想提炼哪种水晶？#b";
+			var crystals = new Array("力量水晶","智慧水晶","敏捷水晶","幸运水晶");
 			for (var i = 0; i < crystals.length; i++){
 				selStr += "\r\n#L" + i + "# " + crystals[i] + "#l";
 			}
@@ -120,7 +120,7 @@ function action(mode, type, selection) {
 			matQty = matQtySet[selectedItem];
 			cost = costSet[selectedItem];
 		}			
-		var prompt = "To make #t" + item + "#s, I'll need the following materials. How many do you want to make?";
+		var prompt = "要制作#t" + item + "#，我需要以下材料。你想制作多少个？";
 		
 		if (mats instanceof Array){
 			for(var i = 0; i < mats.length; i++){
@@ -132,7 +132,7 @@ function action(mode, type, selection) {
 		}
 		
 		if (cost > 0)
-			prompt += "\r\n#i4031138# " + cost * qty + " meso";
+			prompt += "\r\n#i4031138# " + cost * qty + " 枫币";
 			
 		cm.sendGetNumber(prompt,1,1,100)
 	}
@@ -140,7 +140,7 @@ function action(mode, type, selection) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost * qty) {
-	    cm.sendOk("I'm afraid you cannot afford my services.")
+	    cm.sendOk("恐怕你付不起我的服务费。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -157,7 +157,7 @@ function action(mode, type, selection) {
         }
 			
 			if (!complete) 
-				cm.sendNext("Please check and see if you have all the necessary items with you. If so, then please check your etc. inventory and see if.");
+				cm.sendNext("请检查你是否携带了所有必需的物品。如果是的话，请检查你的其他栏背包看看是否有空位。");
 			else {
 				if (mats instanceof Array) {
 					for (var i = 0; i < mats.length; i++){
@@ -169,7 +169,7 @@ function action(mode, type, selection) {
 					
 				cm.gainMeso(-cost * qty);
 				cm.gainItem(item,qty);
-				cm.sendOk("There, finished. What do you think, a piece of art, isn't it? Well, if you need anything else, you nkow where to find me.");
+				cm.sendOk("好了，完成了。你觉得怎么样，是不是一件艺术品？如果你还需要什么，你知道在哪里找到我。");
 			}
 		cm.dispose();
 	}

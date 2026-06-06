@@ -1,8 +1,0 @@
-<imgdir name="4211007">
-        <string name="name" value="Dark Flare" />
-        <string name="desc" value="Temporarily summons the Dark Lord&apos;s throwing star. Party members nearby will reflect enemy damage. Cannot reflect more than half of the enemy&apos;s Max HP." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Inflicts #damage% for the duration, Reflects #x% enemy damage when hit within the zone, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Temporarily summons the Dark Lord&apos;s throwing star. Team members nearby will reflect enemy damage. Cannot reflect more than half of the enemy&apos;s Max HP." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Reflects #x% damage, Cooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Duration: #hcTime sec, Chance to Reflect Damage: #hcProp%, Damage Reflected: #hcReflect%, Cooldown: #cooltime sec" />
-    </imgdir>

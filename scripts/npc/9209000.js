@@ -25,7 +25,7 @@ var sel;
 var pickup = -1;
 
 function start() {
-    cm.sendSimple("I'm Abdula, and I am a merchant intermediary who deals with rare goods. What do you have for me?#b\r\n#L0#I want to sell goods.\r\n#L1#I want to know about current market prices.\r\n#L2#A merchant intermediary? What is that?");
+    cm.sendSimple("你现在不想卖吗？你可以以后再卖，但记住特殊物品只有一周的保值期。");
 }
 
 function action(mode, type, selection) {
@@ -35,7 +35,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         }else if(mode == 0 && sel == 0 && status == 2){
-            cm.sendNext("You don't want to sell it right now? You can sell it later, but remember the Special Items are only valuable for a week.");
+            cm.sendNext("让我看看你带来了什么...#b");
             cm.dispose();
             return;
         }else if(mode == 0 && sel == 2)
@@ -45,41 +45,41 @@ function action(mode, type, selection) {
         if(sel == undefined)
             sel = selection;
         if (selection == 0){
-            var text = "Let's see what you brought...#b";
+            var text = "#t";
             for(var i = 0; i < 5; i++)
                 text += "\r\n#L" + i + "##t" + (3994090 + i) + "#";
             cm.sendSimple(text);
         }else if (selection == 1){
             var text = "";
             for(var i = 0; i < 5; i++)
-                text += "The current market price for #t" + (i + 3994090) + "# is #rNOT DONE#k mesos\r\n";
+                text += "#目前的市场价格是#r未完成#k金币\r\n" + (i + 3994090) + "我在枫之谷第七日集市收购产品，然后在其他城镇出售。我交易纪念品、香料、鲨鱼标本等等...但不收懒虫黛西的蛋。";
             cm.sendNext(text);
             cm.dispose();
         }else
-            cm.sendNext("I buy the products at the Maple 7th Day Market and sell them in other towns. I trade memorabilia, spices, taxidermy shark, and more... but no Lazy Daisy's eggs.");
+            cm.sendNext("目前的价格是180金币。你想现在卖掉吗？");
     }else if(status == 1){
         if(sel == 0){
             if(cm.haveItem(3994090 + selection)){
                 pickup = 3994090 + selection;
-                cm.sendYesNo("The current price is 180 mesos. Would you like to sell it now?"); //Make a price changer by hour.
+                cm.sendYesNo("你什么都没有。别浪费我的时间了...我是个忙人。"); //Make a price changer by hour.
             }else{
-                cm.sendNext("You don't have anything. Stop wasting my time... I'm a busy person.");
+                cm.sendNext("枫之谷第七日集市星期天是我的休息日。如果需要找我，你只能周一到周五来...");
                 cm.dispose();
             }
         }else
-            cm.sendNextPrev("Maple 7th Day Market Sundays are my days off. If you need to see me, you're going to have to come Monday to Friday...");
+            cm.sendNextPrev("你想卖多少个？");
     }else if(status == 2){
         if(sel == 0)
-            cm.sendGetNumber("How many would you like to sell?", 0, 0, 200);
+            cm.sendGetNumber("哦，价格可能会有变动。我可不能吃亏，我还得继续做生意呢！经常回来看看，我的价格每小时都在变！", 0, 0, 200);
         else{
-            cm.sendPrev("Oh, and the prices are subject to change. I can't get the short end of the stick, I have to stay in business! Check back with me frequently, my prices change by the hour!");
+            cm.sendPrev("有些不对劲。请再检查一下。");
         }
     }else if(status == 3){
         if(sel == 0)
             if(selection != 1)
-                cm.sendNext("Something's not right. Check again.");
+                cm.sendNext("交易已完成。下次见。");
             else{
-                cm.sendNext("The transaction has been completed. See you next time.");
+                cm.sendNext("交易已完成。下次见。");
                 cm.gainMeso(180);
                 cm.gainItem(pickup, -1);
             }

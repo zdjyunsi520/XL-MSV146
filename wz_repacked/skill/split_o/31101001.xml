@@ -1,8 +1,0 @@
-<imgdir name="31101001">
-        <string name="name" value="Dark Thrust" />
-        <string name="desc" value="Charge forward with terrifying rage, dragging multiple unfortunate enemies with you." />
-        <string name="h" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Charge forward with terrifying rage, dragging multiple unfortunate enemies with you." />
-        <string name="ph" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
-        <string name="hch" value="Fury Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #hcCooltime sec" />
-    </imgdir>

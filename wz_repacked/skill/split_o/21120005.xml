@@ -1,7 +1,0 @@
-<imgdir name="21120005">
-        <string name="name" value="Final Blow" />
-        <string name="desc" value="Swings the polearm to deal a powerful attack on many enemies. The attack ignores a fixed about of enemy DEF and all attacks will become critical hits.\nCan only be used #cafter using Triple Swing#.\n[Command: Triple Swing + #cDown Arrow Key + Attack Key#]\nRequired Skill: #Triple Swing Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Additional Critical Rate: #cr%, Enemy Defense Ignored: #ignoreMobpdpR%" />
-        <string name="pdesc" value="Swings the polearm to deal a powerful attack on multiple enemies. Final Blows always land critical and only can be used #cafter using Triple Swing#.\n[Command: Triple Swing + #cDown Arrow Key + Attack Key#]\nRequired Skill: #Triple Swing Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% Max Enemies Hit: #mobCount, Critical Rate: +#cr%" />
-    </imgdir>

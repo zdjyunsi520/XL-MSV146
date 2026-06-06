@@ -1,5 +1,0 @@
-<imgdir name="5121052">
-        <string name="name" value="Power Unity" />
-        <string name="desc" value="Focuses fully-charged energy at one spot to create a condensed sphere of energy. Can only be used when the energy is draining after #ca full charge#. After use, a special buff exclusive to this skill will be granted." />
-        <string name="h" value="Energy Cost: #forceCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Can only be used when the energy is draining after #ca full charge#. For #time sec, the exclusive buff that increases Min Critical Damage and Max Damage by #x will be activated. Able to stack up to 3 times.\nCooldown: #cooltime sec" />
-    </imgdir>

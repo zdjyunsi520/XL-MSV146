@@ -1,7 +1,0 @@
-<imgdir name="22001001">
-        <string name="name" value="魔法导弹" />
-        <string name="desc" value="消耗MP持续攻击敌人。" />
-        <string name="h" value="MP消耗：#mpCon，攻击次数：#attackCount，伤害：#damage%" />
-        <string name="pdesc" value="消耗MP持续攻击敌人。" />
-        <string name="ph" value="MP消耗：#mpCon，攻击次数：#attackCount，伤害：#damage%" />
-    </imgdir>

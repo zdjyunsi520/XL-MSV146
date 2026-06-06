@@ -12,7 +12,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 0 && mode == 0) {
-	cm.sendOk("The power of Science is needed...");
+	cm.sendOk("你想使用我的时光机吗？");
 	cm.dispose();
 	return;
     }
@@ -21,9 +21,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendYesNo("Would you like to use my time Machine?");
+	cm.sendYesNo("太好了！");
     } else if (status == 1) {
-	cm.sendNext("Splendid!");
+	cm.sendNext("太好了！");
     } else if (status == 2) {
 	cm.warp(502010010, 0);
 	cm.dispose();

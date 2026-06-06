@@ -1,7 +1,0 @@
-<imgdir name="15111008">
-        <string name="name" value="海盗爆破" />
-        <string name="desc" value="释放强力能量爆破。只有在能量充满时才能使用。被动效果可额外蓄积能量。" />
-        <string name="h" value="伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount\n被动效果：每次攻击蓄积#x点能量" />
-        <string name="pdesc" value="释放强力能量爆破。只有在能量充满时才能使用。被动效果可额外蓄积能量。" />
-        <string name="ph" value="伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount\n被动效果：每次攻击蓄积#x点能量" />
-    </imgdir>

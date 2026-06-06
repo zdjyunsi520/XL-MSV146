@@ -1,5 +1,0 @@
-<imgdir name="13110009">
-        <string name="name" value="致命一击" />
-        <string name="desc" value="有一定概率一击必杀敌人，并恢复HP和MP。" />
-        <string name="h" value="对HP低于#x%的敌人有#y%的概率一击必杀。成功后恢复#z%的HP和MP。" />
-    </imgdir>

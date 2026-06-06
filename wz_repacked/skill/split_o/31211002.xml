@@ -1,5 +1,0 @@
-<imgdir name="31211002">
-        <string name="name" value="Shield Charge" />
-        <string name="desc" value="Charge through enemies and knock them back with your shield. When the charge finishes, you unleash a powerful blast that knocks them back further, and has a chance to stun." />
-        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount.\r\nEnemies Hit After Charge: #z, Damage After Charge: #x%" />
-    </imgdir>

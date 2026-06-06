@@ -1,5 +1,0 @@
-<imgdir name="41101002">
-        <string name="name" value="断空斩" />
-        <string name="desc" value="以致命的精准度穿越多个敌人。在升龙斩后使用可自动锁定空中敌人。断空斩需要15级才能学习旋风斩。\n前置技能：#c升龙斩1级以上#" />
-        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，向前移动。与升龙斩组合时额外增加20%伤害且100%暴击" />
-    </imgdir>

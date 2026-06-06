@@ -1,8 +1,0 @@
-<imgdir name="2311001">
-        <string name="name" value="净化" />
-        <string name="desc" value="消除目标区域内所有敌人的魔法效果，同时解除附近队友的所有异常状态。根据治疗的队员数量减少神圣守护的冷却时间。净化技能可消除致命异常状态，包括击倒、诱惑、混乱和僵尸化~" />
-        <string name="h" value="MP消耗: #mpCon，以#prop%几率消除魔法和异常状态后，根据治疗人数减少神圣守护冷却时间#time秒" />
-        <string name="pdesc" value="消除目标区域内所有敌人的魔法效果，同时解除附近队友的所有异常状态。根据治疗的队员数量减少神圣守护的冷却时间。净化技能可消除致命异常状态，包括击倒、诱惑、混乱和僵尸化~" />
-        <string name="ph" value="MP消耗: #mpCon，以#prop%几率消除魔法和异常状态后，根据治疗人数减少神圣守护冷却时间#time秒" />
-        <string name="hch" value="MP消耗: #mpCon，以#prop%几率消除魔法和异常状态后，根据治疗人数减少神圣守护冷却时间#time秒" />
-    </imgdir>

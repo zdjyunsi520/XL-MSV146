@@ -1,5 +1,0 @@
-<imgdir name="42111002">
-        <string name="name" value="Soul Shear" />
-        <string name="desc" value="Shear a piece of your target&apos;s soul off with each attack. Use the skill to detonate any fallen soul fragments. Can be stacked up to 10 times on normal monsters and 15 times on boss monsters." />
-        <string name="h" value="Active Effect: Mana Cost: #epCon, Explosive Damage: #damage% per soul fragment, Max Enemies Hit: #mobCount, able to explode #attackCount fragments\nPassive Effect: #prop% chance to drop soul fragments" />
-    </imgdir>

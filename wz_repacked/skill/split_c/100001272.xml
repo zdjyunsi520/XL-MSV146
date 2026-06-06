@@ -1,9 +1,0 @@
-<imgdir name="100001272">
-        <string name="name" value="倒带" />
-        <string name="desc" value="将此刻记录在沙漏中。如果你被击倒，时间将倒流到记录的时刻。" />
-        <string name="h" value="时间之力消耗: #forceCon, 被击倒时消耗增益代替，恢复全部HP \n#c冷却时间: #cooltime秒#" />
-        <imgdir name="lock">
-            <string name="name" value="???" />
-            <string name="desc" value="此技能在Lv.140时解锁。" />
-        </imgdir>
-    </imgdir>

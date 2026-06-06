@@ -1,7 +1,0 @@
-<imgdir name="32111003">
-        <string name="name" value="暗黑震荡" />
-        <string name="desc" value="召唤两个暗黑球体并在它们之间形成磁场，攻击多个敌人。提升暴击率。技能等级越高冷却时间越短。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，额外暴击率：#cr%，冷却时间：#cooltime秒" />
-        <string name="pdesc" value="召唤两个暗黑球体并在它们之间形成磁场，攻击多个敌人并提升暴击率。技能等级越高冷却时间越短。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，暴击率：+#cr%，冷却时间：#cooltime秒" />
-    </imgdir>

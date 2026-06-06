@@ -1,7 +1,0 @@
-<imgdir name="32101000">
-        <string name="name" value="Quad Blow" />
-        <string name="desc" value="Quickly deals 4 attacks on multiple enemies.\nRequired Skill: #cTriple Blow lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Attacks: #attackCount, Max Monsters Hit: #mobCount" />
-        <string name="pdesc" value="Quickly deals 4 attacks on multiple enemies.\nRequired Skill: #cTriple Blow lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

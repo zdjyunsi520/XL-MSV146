@@ -1,5 +1,0 @@
-<imgdir name="31221001">
-        <string name="name" value="Nether Shield" />
-        <string name="desc" value="Enchants your shield with a tracking spirit, which hits an enemy, then bounces to the next target. If there are no other enemies nearby, the shield will attack the first enemy it hit." />
-        <string name="h" value="HP Cost: #hpCon, Shields: #bulletCount, Enemies Hit: #mobCount, Damage: #damage%, Attacks per Shield: #z.\nCooldown: #cooltime sec" />
-    </imgdir>

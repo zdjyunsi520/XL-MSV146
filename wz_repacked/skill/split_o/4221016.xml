@@ -1,5 +1,0 @@
-<imgdir name="4221016">
-        <string name="name" value="Assassinate" />
-        <string name="desc" value="Attack an enemy&apos;s vital points over and over to deal tremendous damage. Cast the Assassinate skill once more after the first three strikes to deal huge critical damage. You will no longer be hidden after dealing critical damage. When used while hidden,Assassinate damage increases. Also does more damage when Body Count is 5." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Consecutive Attacks: #attackCount, Press skill key once more to deal #s% damage as the final blow, critical hit is guaranteed for the final blow. When Dark Sight is used, #x% extra damage. When Body Count is 5, deals 1.5 times more damage" />
-    </imgdir>

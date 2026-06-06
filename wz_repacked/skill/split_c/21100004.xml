@@ -1,5 +1,0 @@
-<imgdir name="21100004">
-        <string name="name" value="连击粉碎" />
-        <string name="desc" value="用战矛向前方发射能量波攻击敌人。只能在#c连击数达到30以上#时使用。\n[指令：#c下方向键+右方向键+攻击键#]\n前置技能：#c连击能力 Lv. 1#" />
-        <string name="h" value="伤害：#damage%，最大攻击目标数：#mobCount" />
-    </imgdir>

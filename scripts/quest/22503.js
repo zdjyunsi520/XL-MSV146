@@ -9,21 +9,21 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 2) {
-	    qm.sendNext("How can you starve me like this. I'm just a baby. This is wrong!");
+	    qm.sendNext("你怎么能这样饿着我。我只是个宝宝。这样做是不对的！");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("No, no, no. This isn't what I need. I need something more nutritious, master!");
+	qm.sendNext("不，不，不。这不是我需要的。我需要更有营养的东西，主人！");
     } else if (status == 1) {
-	qm.sendNextPrevS("#bHm... So you're not a herbivore. You might be a carnivore. You're a Dragon, after all. How does some Pork sound?#k", 2);
+	qm.sendNextPrevS("#b嗯……所以你不是食草动物。你可能是食肉动物。毕竟你是一条龙。来点猪肉怎么样？#k", 2);
     } else if (status == 2) {
-	qm.askAcceptDecline("What's a...Pork? Never heard of it, but if it's yummy, I accept! Just feed me something tasty. Anything but plants!");
+	qm.askAcceptDecline("什么是……猪肉？从来没听说过，但如果是好吃的，我接受！只要喂我好吃的东西就行。除了植物什么都行！");
     } else if (status == 3) {
 	qm.forceStartQuest();
-	qm.sendOkS("#b(Try giving Mir some Pork. You have to hunt a few Pigs at the farm. Ten should be plenty...)#k", 2);
+	qm.sendOkS("#b(试着给米尔一些猪肉。你必须去农场猎杀几只猪。十只应该就够了……)#k", 2);
 	qm.dispose();
     }
 }
@@ -35,14 +35,14 @@ function end(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	qm.sendOk("Oh, is this what you brought me to eat? So this is the Pork you were taking about? Let me try.");
+	qm.sendOk("哦，这就是你给我带的食物吗？这就是你说的猪肉？让我试试。");
     } else if (status == 1) {
 	qm.gainExp(1850);
 	qm.gainItem(4032453, -10);
-	qm.sendNext("(Chomp, chomp, gulp...)");
+	qm.sendNext("(大口大口，咕咚咕咚……)");
 	qm.forceCompleteQuest();
     } else if (status == 2) {
-	qm.sendPrev("Uggh... This doesn't taste too bad but I don't think I can digest it. This isn't for me...");
+	qm.sendPrev("嗯……味道倒不差，但我觉得我消化不了。这不适合我……");
 	qm.dispose();
     }
 }

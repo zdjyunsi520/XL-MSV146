@@ -25,10 +25,10 @@ function action(mode, type, selection) {
 			status--;
 		if(status == 0){
 			if(cm.isQuestActive(22007)){
-				cm.sendNext("#b(You have obtained an Egg. Deliver it to Utah.)#k");
+				cm.sendNext("#b(你获得了一颗蛋。把它交给尤他吧。)#k");
 				cm.gainItem(4032451, 1);
 			}else{
-				cm.sendOk("#bYou don't need to take an egg now.#k");
+				cm.sendOk("#b你现在不需要拿蛋。#k");
 			}
 			cm.dispose();
 		}

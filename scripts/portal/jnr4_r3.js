@@ -12,7 +12,7 @@ function enter(pi) {
 			pi.warp(926110303, 0);
 			em.setProperty("stage6_2", "1");
 		} else {
-			pi.playerMessage(5, "Someone has already gone in this portal.");
+			pi.playerMessage(5, "已经有人进入这个传送门了。");
 		}
 	} catch (e) {
 		pi.getPlayer().dropMessage(5, "Error: " + e);

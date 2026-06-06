@@ -1,5 +1,0 @@
-<imgdir name="101111200">
-        <string name="name" value="旋转十字" />
-        <string name="desc" value="高速旋转，向上方跃起，切割路径上的敌人~" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount\n#c冷却时间: #cooltime秒#" />
-    </imgdir>

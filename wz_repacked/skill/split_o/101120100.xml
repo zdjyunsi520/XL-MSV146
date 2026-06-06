@@ -1,5 +1,0 @@
-<imgdir name="101120100">
-        <string name="name" value="Falling Star" />
-        <string name="desc" value="Jumps into the air, driving your sword into the ground in one decisive blow.\nCreates a shockwave on impact that does damage. \n[Skill Requirements]: #cGiga Crash Lv. 1# \n[Command]: While Giga Crash is active use #cGiga Crash# again" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount.\n#c[Shock Wave]#: Max Enemies Hit: #x, Damage: #y%, Number of Attacks: #z." />
-    </imgdir>

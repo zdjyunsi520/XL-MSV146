@@ -1,7 +1,0 @@
-<imgdir name="13111006">
-        <string name="name" value="风之穿透" />
-        <string name="desc" value="对多个敌人造成巨大伤害，并将部分伤害转化为HP吸收。吸收量不超过最大HP的一半或敌人的最大HP。仅在鹰眼状态下可用。\n需要技能：#c鹰眼 Lv. 1#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，吸收伤害的#x%，最大穿透敌人数：#mobCount" />
-        <string name="pdesc" value="对多个敌人造成巨大伤害。仅在鹰眼状态下可用。\n需要技能：#c鹰眼 Lv. 1#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大穿透敌人数：#mobCount" />
-    </imgdir>

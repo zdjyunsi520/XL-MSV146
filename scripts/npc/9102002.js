@@ -12,7 +12,7 @@ function start() {
     if (mounts != null) {
         sendMountSelection();
     } else {
-        cm.sendNext("Sorry but I can't give you any mounts.");
+        cm.sendNext("你好！我出售骑兽！看来你有资格获得以下骑兽：\r\n");
     }
 }
 
@@ -75,7 +75,7 @@ function loadMounts(job) {
 }
 
 function sendMountSelection() {
-    var selStr = "Hello! I sell Mounts! It seems that you are eligible for the following:\r\n";
+    var selStr = "你已经拥有这个骑兽了。";
     for (var i = 0; i < mounts.length; i++) {
         if (mounts[i][1] == 0) {
             selStr += "#L" + i + "##s" + mounts[i][0] + "##q" + mounts[i][0] + "##l\r\n";
@@ -88,20 +88,20 @@ function sendMountSelection() {
 
 function sendPrice(mount) {
     if (hasMount(mount[0])) {
-        cm.sendOk("You already have this mount.");
+        cm.sendOk("你确定要这个骑兽吗？你需要以下材料……\r\n\r\n#r");
         cm.dispose();
         return;
     }
-    var selStr = "Are you sure you want this mount? You will need the following...\r\n\r\n#r";
+    var selStr = "# 技能已获得\r\n";
     if (getItemPrice(mount[0]) != 0) {
         if (getItemPrice(mount[0])[1] == 0) {
-            selStr += "#s" + getItemPrice(mount[0])[0] + "# skill obtained\r\n";
+            selStr += "#s" + getItemPrice(mount[0])[0] + " 金币\r\n";
         } else {
             selStr += "#i" + getItemPrice(mount[0])[0] + "# x1\r\n";
             selStr += "#i" + getItemPrice(mount[0])[1] + "# x1\r\n";
         }
     }
-    selStr += "" + getPrice(mount) + " mesos\r\n";
+    selStr += "" + getPrice(mount) + "很简单，不是吗？";
     cm.sendYesNo(selStr);
 }
 
@@ -139,6 +139,6 @@ function giveMount(mount) {
         cm.gainItem(mount[0], 1);
         cm.gainItem(mount[1], 1);
     }
-    cm.sendOk("That was easy, wasn't it?");
+    cm.sendOk("很简单，不是吗？");
     cm.dispose();
 }

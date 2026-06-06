@@ -1,7 +1,0 @@
-<imgdir name="15111007">
-        <string name="name" value="鲨鱼波" />
-        <string name="desc" value="在前方攻击多个怪物。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount" />
-        <string name="pdesc" value="在前方攻击多个敌人。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount" />
-    </imgdir>

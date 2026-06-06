@@ -1,5 +1,0 @@
-<imgdir name="36121003">
-        <string name="name" value="OOPArts Code" />
-        <string name="desc" value="Overrides safety protocols for a short time to increase total damage and boss attack damage." />
-        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Duration: #time, Total damage: #indieDamR%, Boss Attack damage: +#x%" />
-    </imgdir>

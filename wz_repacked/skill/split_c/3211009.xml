@@ -1,5 +1,0 @@
-<imgdir name="3211009">
-        <string name="name" value="爆裂箭矢" />
-        <string name="desc" value="发射命中后向四周散射多支箭矢的箭。被初始箭矢击中的敌人受到额外伤害~" />
-        <string name="h" value="MP消耗: #mpCon，以#damage%伤害攻击最多#mobCount个敌人。对首个目标敌人额外伤害#x%" />
-    </imgdir>

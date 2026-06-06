@@ -13,7 +13,7 @@ function start(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("Oh my gosh, you've grown so much since we first met! You've lost your memories? I'll take care of that.");
+	    qm.sendNext("天哪，自从我们第一次见面以来你成长了这么多！你失去了记忆？这个交给我来处理。");
 	    qm.forceCompleteQuest();
 	    qm.forceCompleteQuest(3507);
 	    qm.dispose();

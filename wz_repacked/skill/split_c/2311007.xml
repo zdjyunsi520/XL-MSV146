@@ -1,8 +1,0 @@
-<imgdir name="2311007">
-        <string name="name" value="瞬间移动精通" />
-        <string name="desc" value="激活后，瞬间移动目的地的敌人将受到伤害并被眩晕。同时永久提升瞬间移动距离。\n按技能键可以切换开关。\n需要技能：#c瞬间移动 Lv. 5#" />
-        <string name="h" value="MP Cost: #y, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
-        <string name="pdesc" value="激活后，瞬间移动目的地的敌人将受到伤害并被眩晕。同时永久提升瞬间移动距离。\n按技能键可以切换开关。\n需要技能：#c瞬间移动 Lv. 5#" />
-        <string name="ph" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #subProp%, Stun Duration: #time sec, Teleport Distance: +#x" />
-        <string name="hch" value="MP Cost: #y, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcSubProp%, Stun Duration: #hcTime sec, Teleport Distance: +#x" />
-    </imgdir>

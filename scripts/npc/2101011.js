@@ -4,7 +4,7 @@
 
 
 function start() {
-    cm.sendNext("The light and dark always coexist...");
+    cm.sendNext("光明与黑暗永远共存……");
 }
 
 function action() {

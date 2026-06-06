@@ -9,24 +9,24 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 2) {
-		    qm.sendNext("I thought I smelled a hoodlum. I didn't want to waste my time on you anyway.");
+		    qm.sendNext("切，行吧。反正我也不想在你身上浪费时间。");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendNext("You there. I'm sure you've heard of my amazing Auto-pilot system that I INVENTED. Did I mention that I invented it?");
+	    qm.sendNext("你。你一定听说过我那惊人的自动驾驶系统吧，那可是我发明的。我提过是我发明的吗？");
 	} else if (status == 1) {
-		qm.sendNextPrev("Auto-pilot is now available on #bVictoria Island AND El Nath#k! Did I mention that I invented the system? It just came to me one day. No big deal.");
+		qm.sendNextPrev("自动驾驶现在已在#b维多利亚岛和奥斯伊尔#k上线！我提过是我发明了这个系统吗？有一天我突然灵光一闪。没什么大不了的。");
 	} else if (status == 2) {
-	    qm.sendYesNo("I'm sure you want to hear me explain how to use Auto-pilot in El Nath.");
+	    qm.sendYesNo("我确信你想听我讲解如何在奥斯伊尔使用自动驾驶。");
 	} else if (status == 3) {
-	    qm.sendNext("My Auto-pilot system is currently available in El Nath, Rien, and Ereve. You have no idea how much work I had to put in to make that happen. You ready for the details? Of course, it'll cost you...");
+	    qm.sendNext("我的自动驾驶系统目前在奥斯伊尔、瑞恩和埃雷岛可用。你不知道我为了让这一切成为现实付出了多少努力。你准备好听详情了吗？当然，这是要收费的……");
 	} else if (status == 4) {
-	    qm.sendNextPrev("Hey, I'm saving for retirement! Anyway, I'll let you use Auto-pilot for 900 mesos in Victoria Island, Rien, and Ereve.");
+	    qm.sendNextPrev("嘿，我在存退休金！不管怎样，我让你在维多利亚岛、瑞恩和埃雷岛以900金币使用自动驾驶。");
 	} else if (status == 5) {
-	    qm.sendNextPrev("To use Auto-pilot in El Nath, you'll need to buy an #bEl Nath Flight Permit#k. Hey, what luck! I just so happen to be holding a special deal right now! Buy a permit, and you'll also get special service for free!");
+	    qm.sendNextPrev("要在奥斯伊尔使用自动驾驶，你需要购买一张#b奥斯伊尔飞行许可证#k。嘿，真巧！我正好有一个特别优惠！购买许可证，你还能免费获得特别服务！");
 	} else if (status == 6) {
-	    qm.sendOk("Why are you hesitating? Don't you want special service? Anyway, I'll be waiting for you at the Station in each continent, as usual, so buy an #bEl Nath Flight Permit#k from me and then talk to me again.");
+	    qm.sendOk("你在犹豫什么？你不想获得特别服务吗？不管怎样，我会像往常一样在每个大陆的车站等你，所以从我这里买一张#b奥斯伊尔飞行许可证#k然后再和我对话。");
 	} else if (status == 7) {
         qm.forceStartQuest();
         qm.dispose();

@@ -16,7 +16,7 @@ function action(mode, type, selection) {
         cm.warpMapAutoJQers(910000000); // warps the entire WORLD of ONLY people in the JQ map! :D
 		cm.gainCurrency(150);
         cm.setEventMap(0);
-        cm.serverNotice("Congratulations to " + cm.getName() + " on Channel " + cm.getPlayer().getClient().getChannel() + " for winning the JQ and receiving 150 Wiz Coins!");
+        cm.serverNotice("在频道 " + cm.getName() + "赢得了JQ并获得了150个Wiz硬币！ " + cm.getPlayer().getClient().getChannel() + "你在这里做什么？\r\n目前没有正在进行的#r自动JQ#k！");
         cm.dispose();
     } else { 
 	  if (cm.getPlayer().isGM()) {
@@ -28,7 +28,7 @@ function action(mode, type, selection) {
 		cm.gainJQExp(MapleCharacter.rand(10, 100));
         cm.dispose();
 	    } else {
-		cm.sendOk("What the fuck are you doing here?\r\nThere are currently no #rAuto JQs#k going on!");
+		cm.sendOk("你在这里做什么？\r\n目前没有正在进行的#r自动JQ#k！");
 		cm.dispose();
 		}
     }

@@ -1,7 +1,0 @@
-<imgdir name="5211008">
-        <string name="name" value="Blunderbuster" />
-        <string name="desc" value="Fires a scatter shot that damages multiple enemies." />
-        <string name="h" value="MP Cost: #mpCon and #bulletConsume bullets, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
-        <string name="pdesc" value="Fires a scatter shot that damages multiple enemies." />
-        <string name="ph" value="MP Cost: #mpCon and #bulletConsume bullets, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="5001005">
-        <string name="name" value="冲刺" />
-        <string name="desc" value="双击左/右方向键进行冲刺或跳跃冲刺。同时取消所有击退。[冲刺激活：方向键→→或←←] 在冲刺中使用螺旋打击或三重射击可造成额外伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Movement Speed: +#x, Jump: +#y, Additional Damage when using Triple Fire or Corkscrew Blow during the dash: #z%" />
-    </imgdir>

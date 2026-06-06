@@ -5,6 +5,6 @@
 
 
 function enter(pi) {
-    pi.getPlayer().message(5, "You can not get out using this portal ! Please talk to NPC Utah.");
+    pi.getPlayer().message(5, "你不能通过这个传送门出去！请和NPC犹他对话。");
     return false;
 }

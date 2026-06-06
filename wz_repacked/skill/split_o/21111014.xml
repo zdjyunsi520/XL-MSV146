@@ -1,8 +1,0 @@
-<imgdir name="21111014">
-        <string name="name" value="Rolling Spin" />
-        <string name="desc" value="Jump and spin to attack nearby enemies. Chance to stun. Combo Count not used when this is done through the Dragon Link, but damage is penalized.\r\n[Command: #cUp and Up Arrow Key + Attack#]" />
-        <string name="h" value="Combo Count Cost: #comboConAran, MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Jump in place and attack surrounding enemies. Has a chance to stun targets.\n[Command: #cUp and Up Arrow Key + ATT Key#]" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
-    </imgdir>

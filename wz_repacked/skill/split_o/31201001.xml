@@ -1,5 +1,0 @@
-<imgdir name="31201001">
-        <string name="name" value="Bat Swarm" />
-        <string name="desc" value="Summons a cloud of infernal bats that follow you and attack enemies. You can change the bats’ flight direction by pressing the skill key again." />
-        <string name="h" value="HP Cost: #hpCon, Damage: #damage%, Number of Attacks: #attackCount.\n#cThe cloud expires once you finish attacking, move a certain distance, or their timer runs out. Press the skill key again to switch direction.#" />
-    </imgdir>

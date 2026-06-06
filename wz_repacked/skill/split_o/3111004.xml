@@ -1,8 +1,0 @@
-<imgdir name="3111004">
-        <string name="name" value="Arrow Rain" />
-        <string name="desc" value="Fires a volley of arrows into the sky, attacking multiple monsters at once with a chance to stun.\nRequired Skill: #cMortal Blow Lv. 5#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Fires a volley of arrows into the sky, attacking multiple monsters at once with a chance to stun.\nRequired Skill: #cMortal Blow Lv. 5#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
-    </imgdir>

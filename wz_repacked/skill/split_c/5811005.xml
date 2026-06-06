@@ -1,7 +1,0 @@
-<imgdir name="5811005">
-        <string name="name" value="变身" />
-        <string name="desc" value="变身180秒。变身期间部分技能无法使用。\n[技能例外：双发射击、橡木桶、毁灭、掠夺]" />
-        <string name="h" value="MP Cost: #mpCon, Transform Duration: #time sec, Weapon ATT: +#epad, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="变身180秒。变身期间部分技能无法使用。\n[技能例外：双发射击、橡木桶、毁灭、掠夺]" />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Battle Mode ATT: +#PVPdamage, Weapon DEF: +#epdd, Magic DEF: +#emdd, Movement Speed: +#speed, Jump: +#jump, Cooldown: #cooltime sec" />
-    </imgdir>

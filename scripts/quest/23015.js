@@ -1,13 +1,13 @@
 var status = -1;
 
 function end(mode, type, selection) {
-	qm.sendNextPrev("If you want to capture a Jaguar, please talk to Black Jack.");
+	qm.sendNextPrev("如果你想捕捉一只美洲豹，请和黑杰克谈谈。");
 	qm.forceCompleteQuest();
 	qm.safeDispose();
 }
 
 function start(mode, type, selection) {
-	qm.sendNextPrev("If you want to capture a Jaguar, please talk to Black Jack.");
+	qm.sendNextPrev("如果你想捕捉一只美洲豹，请和黑杰克谈谈。");
 	qm.forceCompleteQuest();
 	qm.safeDispose();
 }

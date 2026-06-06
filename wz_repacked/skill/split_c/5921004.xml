@@ -1,7 +1,0 @@
-<imgdir name="5921004">
-        <string name="name" value="速射" />
-        <string name="desc" value="极快速地发射子弹。按住技能键可以持续射击。\n需要技能：#c三重射击 Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% per shot" />
-        <string name="pdesc" value="极快速地发射子弹。按住技能键可以持续射击。\n需要技能：#c三重射击 Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% per shot" />
-    </imgdir>

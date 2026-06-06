@@ -1,5 +1,0 @@
-<imgdir name="101120203">
-        <string name="name" value="暴风斩(龙卷风)" />
-        <string name="desc" value="暴风斩激活时创建的龙卷风向前推进，伤害路径上的敌人~" />
-        <string name="h" value="每0.5秒伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount，\n持续时间: #time秒" />
-    </imgdir>

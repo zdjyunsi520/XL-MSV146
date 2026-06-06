@@ -1,5 +1,0 @@
-<imgdir name="3221014">
-        <string name="name" value="Arrow Illusion" />
-        <string name="desc" value="Summons an arrow illusion for a short time to draw enemies in and damage them. If you get hit during the skill, you will launch a powerful counterattack." />
-        <string name="h" value="MP Cost: #mpCon, summon Arrow Illusion with #x HP for #time sec\nDeal #damage% to surrounding enemies. After pulling in, Stun at #prop% chance for #subTime sec. When damage is taken, reflect #y%" />
-    </imgdir>

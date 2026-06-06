@@ -1,7 +1,0 @@
-<imgdir name="5000006">
-        <string name="name" value="幸运眷顾" />
-        <string name="pdesc" value="攻击时有几率造成暴击伤害。" />
-        <string name="ph" value="Proc Chance: #prop%, Damage: +#damage%" />
-        <string name="desc" value="攻击时有几率造成暴击伤害。" />
-        <string name="h" value="Chance: #prop%, Damage: +#damage%" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="2121003">
-        <string name="name" value="迷雾爆发" />
-        <string name="desc" value="永久提升毒雾的持续伤害。使用技能时，附近的毒雾爆炸，对敌人造成致命伤害。伤害与目标身上的持续伤害效果数量成正比。无法引爆他人设置的毒雾。伤害加成最多适用到第5个效果。如果毒雾成功爆炸，火焰迷雾的冷却时间将重置~\n前置技能: #c毒雾 Lv. 20#" />
-        <string name="h" value="主动效果: MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%，爆炸次数: #attackCount次，无视怪物防御率: #ignoreMobpdpR%，伤害修正(第2次以后每次爆炸): #z%，同时最多爆炸毒雾数: #y，冷却时间: #cooltime秒\n[被动效果: 永久提升毒雾持续伤害至#x%]" />
-        <string name="pdesc" value="永久提升毒雾的持续伤害。使用技能时，附近的毒雾爆炸，对敌人造成致命伤害。伤害与目标身上的持续伤害效果数量成正比。无法引爆他人设置的毒雾。伤害加成最多适用到第5个效果。如果毒雾成功爆炸，火焰迷雾的冷却时间将重置~\n前置技能: #c毒雾 Lv. 20#" />
-        <string name="ph" value="主动效果: MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%，爆炸次数: #attackCount次，无视怪物防御率: #ignoreMobpdpR%，伤害修正(第2次以后每次爆炸): #z%，同时最多爆炸毒雾数: #y，冷却时间: #cooltime秒\n[被动效果: 永久提升毒雾持续伤害至#x%]" />
-    </imgdir>

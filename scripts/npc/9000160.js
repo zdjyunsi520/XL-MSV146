@@ -1,14 +1,14 @@
 
 var job = [ 
 [[100, "Warrior"], [200, "Magician"], [300, "Bowman"], [400, "Thief"], [500, "Pirate"]], 
-[[1100, "Dawn Warrior"], [1200, "Blaze Wizard"], [1300, "Wind Archer"], [1400, "Night Walker"], [1500, "Thunder Breaker"]], 
-[[3200, "Battle Mage"], [3300, "Wild Hunter"], [3500, "Mechanic"]], 
+[[1100, "魂骑士"], [1200, "炎术士"], [1300, "风灵使者"], [1400, "夜行者"], [1500, "奇袭者"]], 
+[[3200, "战法"], [3300, "豹弩游侠"], [3500, "Mechanic"]], 
 [[110, "Fighter"], [120, "Page"], [130, "Spearman"]], 
-[[210, "Wizard (F/P)"], [220, "Wizard (I/L)"], [230, "Cleric"]], 
-[[310, "Hunter"], [320, "Crossbow Man"]], 
+[[210, "法师（火毒）"], [220, "法师（冰雷）"], [230, "Cleric"]], 
+[[310, "Hunter"], [320, "弩弓手"]], 
 [[410, "Assassin"], [420, "Bandit"]], 
 [[510, "Brawler"], [520, "Gunslinger"]],
-[[3100, "Demon Slayer"], [3101, "Demon Avenger"]]]; 
+[[3100, "恶魔猎手"], [3101, "恶魔复仇者"]]]; 
 var status = 0; 
 var select; 
 
@@ -30,9 +30,9 @@ function action(mode, type, selection) {
     } 
     if (status == 0) { 
         if (cm.getPlayer().getLevel() >= 10 && (cm.getPlayer().getJob() % 1000 == 0 || cm.getPlayer().getJob() == 501 || cm.getPlayer().getJob() == 507 || cm.getPlayer().getJob() == 3001 || cm.getPlayer().getJob() == 6001 || cm.getPlayer().getJob() == 3002 || cm.getPlayer().getJob() == 4001 || cm.getPlayer().getJob() == 4002 || cm.getPlayer().getJob() >= 2001 && cm.getPlayer().getJob() <= 2004) || cm.getPlayer().getLevel() >= 30 && (cm.getPlayer().getJob() % 1000 > 0 && cm.getPlayer().getJob() % 100 == 0 || cm.getPlayer().getJob() == 508) || cm.getPlayer().getLevel() >= 60 && cm.getPlayer().getJob() % 10 == 0 && cm.getPlayer().getJob() % 100 != 0 || cm.getPlayer().getLevel() >= 100 && cm.getPlayer().getJob() % 10 == 1 || cm.getPlayer().getLevel() >= 55 && cm.getPlayer().getJob() == 431) 
-            cm.sendYesNo("Would you like to job advance?"); 
+            cm.sendYesNo("你想进行转职吗？"); 
         else { 
-            cm.sendOk("You may not advance at the current state."); 
+            cm.sendOk("你目前的状态无法转职。"); 
             cm.dispose(); 
         } 
     } else if (status == 1) { 
@@ -114,11 +114,11 @@ function action(mode, type, selection) {
                 cm.getPlayer().changeJob(2710); 
                 cm.dispose(); 
                 break; 
-            case 3001: // Demon Slayer 
+            case 3001: // 恶魔猎手 
                 cm.getPlayer().changeJob(3100); 
                 cm.dispose(); 
                 break;
-            case 3101: // Demon Avenger 
+            case 3101: // 恶魔复仇者 
                 cm.getPlayer().changeJob(3120); 
                 cm.dispose(); 
                 break;
@@ -158,17 +158,17 @@ function action(mode, type, selection) {
              //Nova coming soon....
                 
             //1st Job 
-            case 1100: // Dawn Warrior 
-            case 1200: // Blaze Wizard 
-            case 1300: // Wind Archer 
-            case 1400: // Night Walker 
-            case 1500: // Thunder Breaker 
+            case 1100: // 魂骑士 
+            case 1200: // 炎术士 
+            case 1300: // 风灵使者 
+            case 1400: // 夜行者 
+            case 1500: // 奇袭者 
             case 2100: // Aran 
             case 2300: // Mercedes 
             case 2400: // Phantom 
-            case 3100: // Demon Slayer 
-            case 3200: // Battle Mage 
-            case 3300: // Wild Hunter 
+            case 3100: // 恶魔猎手 
+            case 3200: // 战法 
+            case 3300: // 豹弩游侠 
             case 3500: // Mechanic 
             case 5100: // Mihile 
             case 10000: // Zero
@@ -195,18 +195,18 @@ function action(mode, type, selection) {
             case 520: // Gunslinger 
             case 530: // Cannoneer 
             case 570: // Jett 
-            case 1110: // Dawn Warrior 
-            case 1210: // Blaze Wizard 
-            case 1310: // Wind Archer 
-            case 1410: // Night Walker 
-            case 1510: // Thunder Breaker 
+            case 1110: // 魂骑士 
+            case 1210: // 炎术士 
+            case 1310: // 风灵使者 
+            case 1410: // 夜行者 
+            case 1510: // 奇袭者 
             case 2110: // Aran 
             case 2310: // Mercedes 
             case 2410: // Phantom 
-            case 3110: // Demon Slayer
-            case 3120: // Demon Avenger 
-            case 3210: // Battle Mage 
-            case 3310: // Wild Hunter 
+            case 3110: // 恶魔猎手
+            case 3120: // 恶魔复仇者 
+            case 3210: // 战法 
+            case 3310: // 豹弩游侠 
             case 3510: // Mechanic 
             case 5110: // Mihile
             case 10010: // Zero
@@ -232,18 +232,18 @@ function action(mode, type, selection) {
             case 521: // Outlaw 
             case 531: // Cannon Trooper 
             case 571: // Jett 
-            case 1111: // Dawn Warrior 
-            case 1211: // Blaze Wizard 
-            case 1311: // Wind Archer 
-            case 1411: // Night Walker 
-            case 1511: // Thunder Breaker 
+            case 1111: // 魂骑士 
+            case 1211: // 炎术士 
+            case 1311: // 风灵使者 
+            case 1411: // 夜行者 
+            case 1511: // 奇袭者 
             case 2111: // Aran 
             case 2311: // Mercedes 
             case 2411: // Phantom 
-            case 3111: // Demon Slayer
-            case 3121: // Demon Avenger
-            case 3211: // Battle Mage 
-            case 3311: // Wild Hunter 
+            case 3111: // 恶魔猎手
+            case 3121: // 恶魔复仇者
+            case 3211: // 战法 
+            case 3311: // 豹弩游侠 
             case 3511: // Mechanic 
             case 5111: // Mihile
             case 10011: // Zero
@@ -259,12 +259,12 @@ function action(mode, type, selection) {
                 cm.dispose(); 
                 break; 
             default: 
-                cm.sendOk("An error occured, or a new job found.\r\nPlease report to the Admins on the forums at www.aetherstory.com/forum Thanks~.\r\nYour job id: " + cm.getPlayer().getJob() + ""); 
+                cm.sendOk("发生了一个错误，或发现了新职业。\r\n请在论坛上向管理员报告 www.aetherstory.com/forum 谢谢~。\r\n你的职业ID： " + cm.getPlayer().getJob() + ""); 
                 cm.dispose(); 
         } 
     } else if (status == 2) { 
         select = selection; 
-        cm.sendYesNo("Are you sure you want to Job Advance?"); 
+        cm.sendYesNo("你确定要转职吗？"); 
     } else if (status == 3) { 
         cm.getPlayer().changeJob(select); 
         cm.dispose(); 
@@ -273,7 +273,7 @@ function action(mode, type, selection) {
 
 
 function jobSelection(index) { 
-    var choose = "Please, select your job:" 
+    var choose = "请选择你的职业：" 
     for (var i = 0; i < job[index].length; i++) 
         choose += "\r\n#L" + job[index][i][0] + "#" + job[index][i][1] + "#l"; 
     cm.sendSimple(choose); 

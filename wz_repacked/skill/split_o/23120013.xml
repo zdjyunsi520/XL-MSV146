@@ -1,8 +1,0 @@
-<imgdir name="23120013">
-        <string name="name" value="Staggering Strikes" />
-        <string name="desc" value="Enhances the strength of your Stunning Strikes.\nRequired Skill: #cStunning Strikes Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Damage to Stunned Enemies:  #x%" />
-        <string name="pdesc" value="Enhances the strength of your Stunning Strikes.\nRequired Skill: #cStunning Strikes Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Damage to Stunned Enemies:  #x%" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Damage to Stunned Enemies:  #x%" />
-    </imgdir>

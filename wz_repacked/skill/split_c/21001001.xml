@@ -1,5 +1,0 @@
-<imgdir name="21001001">
-        <string name="name" value="战斗步伐" />
-        <string name="desc" value="连按方向键快速移动一小段距离。被动效果永久提升移动速度和移动速度上限。\n[指令：#c右方向键+右方向键#]\n前置技能：#c双重挥击 Lv.1#" />
-        <string name="h" value="MP消耗：#mpCon，移动一小段距离\n移动速度 +#psdSpeed，最大移动速度 +#speedMax" />
-    </imgdir>

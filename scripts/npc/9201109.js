@@ -3,16 +3,16 @@
 
 function start() {
 if (cm.getPlayer().getMap().getId() == 610030500) {
-        cm.sendOk("As a powerful Elite Mage, Ridly knew the value of intelligence, the hallmark quality of a wizard. Thus, the Mage Chamber is a twisting maze of devious conception--the Teleport skill is the only skill you can use inside to get around, and Magic Claw is the only skill that will break the statues. You must also kill numerous monsters within. After you solve the maze and defeat all the foes within it, deduce which Mage Statue hides the Staff of First Magic and break it open to claim it! Good luck!");
+        cm.sendOk("一个永远被铭记的名字，拉斐尔是一位技艺超群的术士，也是精神魔法力量——念力和心灵感应的大师。此外，他还是掌握了所有元素的"精英法师"之一。他最后一次出现是在寻找"元素神殿"以扭转入侵的克拉基亚军队的局势...");
 	cm.dispose();
 } else if (cm.getPlayer().getMap().getId() == 610030000) {
-	cm.sendOk("A name forever remembered, Rafael was an exceptionally skilled sorcerer, and the foremost master of mental magic powers, telekinesis and telepathy. In addition to that, he was one of the 'Elite Mages' who mastered all the elements. He was last seen looking for the 'Temple of the Elementals' to turn the tide against the invading Krakian Army...");
+	cm.sendOk("消灭所有怪物。");
 	cm.dispose();
 } else if (cm.getPlayer().getMapId() == 610030521) {
 	if (cm.getPlayer().getMap().getAllMonstersThreadsafe().size() == 0) {
 		cm.warp(610030522,0);
 	} else {
-		cm.sendOk("Eliminate all of the monsters.");
+		cm.sendOk("消灭所有怪物。");
 	}
 	cm.dispose();
 } else if (cm.getPlayer().getMapId() == 610030522) {
@@ -22,7 +22,7 @@ if (cm.getPlayer().getMap().getId() == 610030500) {
 		}
 		cm.warp(610030500,0);
 	} else {
-		cm.sendOk("Eliminate all of the monsters.");
+		cm.sendOk("消灭所有怪物。");
 	}
 	cm.dispose();
 }

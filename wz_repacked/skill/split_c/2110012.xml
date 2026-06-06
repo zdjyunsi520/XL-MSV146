@@ -1,5 +1,0 @@
-<imgdir name="2110012">
-        <string name="name" value="法力燃烧" />
-        <string name="desc" value="使用火属性攻击时，#c有几率燃烧敌人的MP造成无视防御的额外伤害#。敌人MP极低时无效~" />
-        <string name="h" value="施展火系魔法时，以#c#prop%几率#燃烧敌人当前MP的#x%。#w倍消耗MP将作为额外伤害#。敌人MP低于#z%时无法激活" />
-    </imgdir>

@@ -20,7 +20,7 @@ function enter(pi) {
 	    pi.warp(220080001, "st00");
 	    return true;
 	} else {
-	    pi.playerMessage(5, "The battle against Papulatus has already begun, so you may not enter this place.");
+	    pi.playerMessage(5, "与帕普拉图斯的战斗已经开始，你不能进入此地。");
 	    return false;
 	}
     }
@@ -52,7 +52,7 @@ function enter(pi) {
 	return false;
     }
     if (!canEnter) {
-	pi.playerMessage(5, "You may only enter the Origin of Clocktower twice per day.");
+	pi.playerMessage(5, "每天只能进入钟楼之源两次。");
 	return false;
     }*/
 }

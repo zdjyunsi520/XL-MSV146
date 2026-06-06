@@ -1,8 +1,0 @@
-<imgdir name="21120006">
-        <string name="name" value="Combo Tempest" />
-        <string name="desc" value="Freezes the enemy to make them vulnerable to damage. Inflicts high damage against boss monsters up to 4 consecutive times. In addition, damage of Combo Judgment will increase permanently. #cCan only be used when #Combo Count reaches 100.\n[Command: #cDown Arrow and Right Arrow key + Attack Key#]\nRequired Skill: #cCombo Judgment Lv. 10#" />
-        <string name="h" value="Damage: #damage% vs. Boss Monsters, Max Hits: #attackCount, Freezes normal monsters for #time sec, Combo Judgment permanent damage: +#damR%" />
-        <string name="pdesc" value="Inflicts high damage against many enemies. In addition, damage of Combo Judgment will increase permanently. #cCan only be used when #cCombo Count reaches 200#.\n[Command: #cDown Arrow and Right Arrow key + Attack Key#]\nRequired Skill: #cCombo Judgment Lv. 10#" />
-        <string name="ph" value="Damage: #damage%, Number of Attacks: #attackCount, Combo Judgment Permanent Damage: +#damR%" />
-        <string name="hch" value="Damage Against Bosses: #damage%, Number of Attacks: #attackCount, Freeze Chance against Normal Mobs: #hcProp%, Freeze Duration: #hcTime sec, Combo Judgment Damage: +#damR%" />
-    </imgdir>

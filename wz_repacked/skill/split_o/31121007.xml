@@ -1,5 +1,0 @@
-<imgdir name="31121007">
-        <string name="name" value="Boundless Rage" />
-        <string name="desc" value="Consumes all remaining Fury to send yourself into a raging berserker mode. All Fury-based attacks will be free for a short period, however the skill has a long cooldown." />
-        <string name="h" value="Fury Cost: #forceCon, Use skills without consuming Fury, Duration: #time sec\nCooldown: #cooltime sec" />
-    </imgdir>

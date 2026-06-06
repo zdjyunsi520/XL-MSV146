@@ -1,8 +1,0 @@
-<imgdir name="23111008">
-        <string name="name" value="Elemental Knights" />
-        <string name="desc" value="Randomly summons an Ice Spirit, Fire Spirit, or Shadow Spirit to aid you in battle.\nIce Spirit: Has a chance to freeze enemies.\nFire Spirit: Deals continuous fire damage to enemies.\nShadow Spirit: Deals increased damage." />
-        <string name="h" value="MP Cost: #mpCon, 1 random Spirit summoned for #time sec.\nIce Spirit - Damage: #damage%, Freeze Chance: #prop%, Freeze Duration: #subTime sec\nFire Spirit - Damage Over Time: #v% chance of causing #y% damage every #x sec for #w sec\nShadow Spirit: Damage: #z%\nCooldown: #cooltime sec" />
-        <string name="pdesc" value="Randomly summons an Ice Spirit, Fire Spirit, or Shadow Spirit to aid you in battle.\nIce Spirit: Has a chance to freeze enemies.\nFire Spirit: Deals continuous fire damage to enemies.\nShadow Spirit: Deals increased damage." />
-        <string name="ph" value="MP Cost: #mpCon, 1 random Spirit summoned for #time sec.\nIce Spirit - Damage: #damage%, Freeze Chance: #prop%, Freeze Duration: #subTime sec\nFire Spirit - Damage Over Time: #v% chance of causing #y% damage every #x sec for #w sec\nShadow Spirit: Damage: #z%\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, 1 random Spirit summoned for #time sec.\nIce Spirit - Damage: #damage%, Freeze Chance: #hcProp%, Freeze Duration: #hcSubTime sec\nFire Spirit - Damage Over Time: #v% chance of causing #y% damage every #x sec for #w sec\nShadow Spirit: Damage: #z%\nCooldown: #cooltime sec" />
-    </imgdir>

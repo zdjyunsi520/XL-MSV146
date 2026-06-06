@@ -11,21 +11,21 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNextS("#e#bOne for all, all for one! Gather up a Crew Boss and 3 Members to form your Crew!#k#n\r\n\r\nAny players with a character over level 100 before 12/4 can participate in the #e#bAll 4 One Event#k#n as a Crew Boss.\r\nDon't be too sad if you didn't qualify to be a Crew Boss. Any characters created after 12/4 can join the festivities as a Crew Member instead!",5);
+		qm.sendNextS("#e#b人人为我，我为人人！召集一名队长和3名队员组成你的小队！#k#n\r\n\r\n在12月4日之前拥有100级以上角色的玩家都可以作为队长参加#e#b四合一活动#k#n。\r\n如果你没有资格成为队长也不要太难过。在12月4日之后创建的角色可以作为队员参加活动！",5);
     } else if (status == 1) {	   
-        qm.sendNextPrevS("The Crew Boss can invite any characters created\r\nbetween 12/4 and 12/31 to their Crew, then help them reach Level 100 (Lv. 180 for Zero) to earn #i4310088:# #e#b#t4310088#(50)#k#n.\r\nIf the Crew Member reaches their target on time, they'll earn\r\n1. #i4310088:# #e#b#t4310088#(25)#k#n\r\n2. #i5150052:# #e#b#t5150052##k#n\r\n3. #i5150056:# #e#b#t5150056##k#n\r\n4. #i5151035:# #e#b#t5151035##k#n",5);	
+        qm.sendNextPrevS("队长可以邀请12月4日至12月31日之间创建的角色加入小队，然后帮助他们达到100级（零职业为180级）来获得#i4310088:# #e#b#t4310088#(50)#k#n。\r\n如果队员按时达到目标，他们将获得\r\n1. #i4310088:# #e#b#t4310088#(25)#k#n\r\n2. #i5150052:# #e#b#t5150052##k#n\r\n3. #i5150056:# #e#b#t5150056##k#n\r\n4. #i5151035:# #e#b#t5151035##k#n",5);	
 	} else if (status == 2) {	
-	    qm.sendNextPrevS("The Crew Boss can invite up to 3 members to join their Crew, and if everyone reaches their target level by 01/31/2014, the Crew Boss will get an immediate boost of #e#bMaple Point : 10000#k#n Amazing, right?",5);	
+	    qm.sendNextPrevS("队长最多可以邀请3名成员加入小队，如果所有人在2014年1月31日之前都达到了目标等级，队长将立即获得#e#b冒险币：10000#k#n的奖励。太棒了吧？",5);	
 	} else if (status == 3) {	
-	    qm.sendNextPrevS("On top of that, all 4 members of the Crew will get these awesome rewards!\r\n1. #i1114000:# #e#b#t1114000##k#n\r\n2. #i1142668:# #e#b#t1142668##k#n\r\n3. #i5010115:# #e#b#t5010115##k#n",5);
+	    qm.sendNextPrevS("此外，小队的全部4名成员都将获得这些超级奖励！\r\n1. #i1114000:# #e#b#t1114000##k#n\r\n2. #i1142668:# #e#b#t1142668##k#n\r\n3. #i5010115:# #e#b#t5010115##k#n",5);
 	} else if (status == 4) {	
-        qm.sendNextPrevS("Oh, and if the Crew Boss succeed in inviting a Mapler that has never participated in the #e#bAll 4 One Event#k#n,\r\n the Crew Member will get #i2450067:# #e#b#t2450067#(3)#k#n. It pays to help a newbie!",5);	
+        qm.sendNextPrevS("哦，如果队长成功邀请了一个从未参加过#e#b四合一活动#k#n的冒险家，\r\n 队员将获得#i2450067:# #e#b#t2450067#(3)#k#n。帮助新手是有回报的！",5);	
 	} else if (status == 5) {	
-        qm.sendNextPrevS("Cool, huh? You should get your own Crew together and do your best to help each other win! All for one!",5);		
+        qm.sendNextPrevS("很酷吧？你应该组建自己的小队，尽最大努力互相帮助赢得胜利！人人为我！",5);		
 	} else if (status == 6) {	
-        qm.sendNextPrevS("You are eligible to be a Crew Member!\r\nFind yourself a Crew Boss and team up with your fellow Maplers to earn excellent rewards!",5);		
+        qm.sendNextPrevS("你有资格成为队员！\r\n找一个队长，与你的冒险家伙伴们组队赢取丰厚的奖励吧！",5);		
 	} else if (status == 7) {	
-        qm.sendPrevS("Only characters created AFTER 12/4/2013 get to be Crew Members.\r\nThis is a great time to make a new character, and join in the All 4 One Event!",5);			
+        qm.sendPrevS("只有在2013年12月4日之后创建的角色才能成为队员。\r\n这是创建新角色并参加四合一活动的好时机！",5);			
 	} else if (status == 8) {	
 	    qm.dispose();
 	}

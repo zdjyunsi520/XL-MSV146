@@ -3,7 +3,7 @@ var status = -1;
 function start(mode, type, selection) {
 }
 function end(mode, type, selection) {
-	qm.sendNext("Snail Roon is no longer available.");
+	qm.sendNext("蜗牛鲁恩已不再可用。");
 	qm.forceCompleteQuest();
 	qm.dispose();
 /*	if (mode == -1) {
@@ -15,24 +15,24 @@ function end(mode, type, selection) {
 			status--;
 		
 		if (status == 0)
-			qm.sendSimple("Hello, traveler... You have finally come to see me. Have you fulfilled your duties? \r\n #b#L0#What duties? Who are you?#l#k");
+			qm.sendSimple("你好，旅行者……你终于来看我了。你完成你的使命了吗？\r\n #b#L0#什么使命？你是谁？#l#k");
 		else if (status == 1) {
-			qm.sendNext("Have you found a small egg in your pocket? That egg is your duty, your responsibility. Life is hard when you're all by yourself. In times like this, there's nothing quite like having a friend that will be there for you at all times. Have you heard of a #bpet#k?\r\nPeople raise pets to ease the burden, sorrow, and loneliness, because knowing that you have someone, or something in this matter, on your side will really bring a peace of mind. But everything has consequences, and with it comes responsibility...");
+			qm.sendNext("你在口袋里发现了一颗小蛋吗？那颗蛋就是你的使命，你的责任。独自一人的生活很辛苦。在这样的时刻，没有什么比拥有一个随时陪伴你的朋友更好的了。你听说过#b宠物#k吗？\r\n人们养宠物来减轻负担、悲伤和孤独，因为知道有某个——或者说某物——站在你这边会给你带来真正的内心安宁。但一切都有后果，随之而来的是责任……");
 		} else if (status == 2) {
-			qm.sendNextPrev("Raising a pet requires a huge amount of responsibility. Remember a pet is a form of life, as well, so you'll need to feed it, name it, share your thoughts with it, and ultimately form a bond. That's how the owners get attached to these pets.");
+			qm.sendNextPrev("养宠物需要极大的责任感。记住宠物也是一种生命形式，所以你需要喂养它，给它取名字，与它分享你的想法，最终建立一种纽带。这就是主人与宠物之间的感情。");
 		} else if (status == 3) {
-			qm.sendNextPrev("I wanted to instill this in you, and that's why I sent you a baby that I cherish. The egg you have brought is #bRune Snail#k, a creature that is born through the power of Mana. Since you took great care of it as you brought the egg here, the egg will hatch soon.");
+			qm.sendNextPrev("我想把这个道理灌输给你，这就是为什么我送给你一个我珍视的宝宝。你带来的那颗蛋是#b符文蜗牛#k，一种通过魔力诞生的生物。因为你在把蛋带到这里的过程中好好照顾了它，蛋很快就要孵化了。");
 		} else if (status == 4) {
-			qm.sendNextPrev("Rune Snail is a pet of many skills. It'll pick up items, feed you with potions, and do other things that will astound you. The downside is that since Rune Snail was born out of power of Mana, it's lifespan is very short. Once it turns into a doll, it'll never be able to be revived.");
+			qm.sendNextPrev("符文蜗牛是一种多才多艺的宠物。它会捡起物品，用药水喂养你，还会做其他让你惊讶的事情。缺点是，由于符文蜗牛是由魔力诞生的，它的寿命非常短。一旦变成布偶，就再也无法复活了。");
 		} else if (status == 5) {
-			qm.sendYesNo("Now do you understand? Every action comes with consequences, and pets are no exception. The egg of the snail shall hatch soon.");
+			qm.sendYesNo("现在你明白了吗？每个行为都有后果，宠物也不例外。蜗牛的蛋很快就要孵化了。");
 		} else if (status == 6) {
-			qm.gainPet(5000054, "Snail Roon", 1, 0, 100, 18000, 0); // rune snail * 1
+			qm.gainPet(5000054, "蜗牛鲁恩", 1, 0, 100, 18000, 0); // rune snail * 1
 			if (qm.haveItem(4032086,1)) {
 				qm.gainItem(4032086, -1); // Mysterious Egg * -1
 			}
 			qm.forceCompleteQuest();
-			qm.sendNext("This snail will only be alive for #b5 hours#k. Shower it with love. Your love will be reciprocated in the end.");
+			qm.sendNext("这只蜗牛只会存活#b5个小时#k。请给它满满的爱。你的爱最终会得到回报的。");
 			qm.dispose();
 		}
 	}

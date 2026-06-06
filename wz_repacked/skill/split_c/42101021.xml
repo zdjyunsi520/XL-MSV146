@@ -1,5 +1,0 @@
-<imgdir name="42101021">
-        <string name="name" value="狐火" />
-        <string name="desc" value="白狐召唤数团狐火。每团狐火可以抵消敌人的魔法攻击或将伤害反射回去。" />
-        <string name="h" value="召唤狐火数：#y，持续时间：#time秒，魔法无效几率：#prop%，伤害反射：#x%。每次攻击消耗1团狐火。" />
-    </imgdir>

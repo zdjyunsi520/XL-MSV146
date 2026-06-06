@@ -1,7 +1,0 @@
-<imgdir name="22161002">
-        <string name="name" value="幻影印记" />
-        <string name="desc" value="生成五芒星对目标敌人施加诅咒。被诅咒的敌人暂时受到更多伤害。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，额外伤害：#x%，持续#time 秒" />
-        <string name="pdesc" value="生成五芒星对目标敌人施加诅咒。被诅咒的敌人暂时受到更多伤害。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，额外伤害：#x%，持续#time 秒" />
-    </imgdir>

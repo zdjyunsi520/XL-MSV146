@@ -1,10 +1,10 @@
 function start() {
     if (cm.getMap().getAllMonstersThreadsafe().size() <= 0) {
-        cm.sendOk("There are no monsters in this map.");
+        cm.sendOk("选择你想查看掉落的怪物。\r\n\r\n#b");
         cm.dispose();
         return;
     }
-    var selStr = "Select which monster you wish to check.\r\n\r\n#b";
+    var selStr = "选择你想查看掉落的怪物。\r\n\r\n#b";
     var monsterIterator = cm.getMap().getAllUniqueMonsters().iterator();
     while (monsterIterator.hasNext()) {
         var nextMonster = monsterIterator.next();

@@ -1,5 +1,0 @@
-<imgdir name="13121002">
-        <string name="name" value="Spiraling Vortex" />
-        <string name="desc" value="Fires a spiraling shot that drives enemies back." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Knocked Back: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Splash Damage at this time: #x% Number of attacks with splash damage: #y." />
-    </imgdir>

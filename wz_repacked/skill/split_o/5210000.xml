@@ -1,7 +1,0 @@
-<imgdir name="5210000">
-        <string name="name" value="Burst Fire" />
-        <string name="desc" value="Increases the potency and the number of bullets fired when using Double Shot.\nRequired Skill: #cDouble Shot Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Range: 350" />
-        <string name="pdesc" value="Increases the potency and the number of bullets fired when using Double Shot.\nRequired Skill: #cDouble Shot Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Range: 350" />
-    </imgdir>

@@ -3,6 +3,6 @@ function enter(pi) {
 		pi.warpParty(920010600);
 		pi.playPortalSE();
 	} else {
-		pi.playerMessage(5,"Please get the leader in this portal.");
+		pi.playerMessage(5,"请让队长进入此传送门。");
 	}
 }

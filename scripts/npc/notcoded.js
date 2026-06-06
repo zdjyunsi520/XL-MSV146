@@ -1,8 +1,8 @@
 function action(mode, type, selection) {
 	if (cm.getNpc() >= 9901000) {
-		cm.sendNext("Hello #h0#, I am in the Hall of Fame for reaching LEVEL 200.");
+		cm.sendNext("抱歉，我尚未被编写。");
 	} else {
-		cm.sendNext("Sorry, I am not coded yet.");
+		cm.sendNext("抱歉，我尚未被编写。");
 	}
 	cm.safeDispose();
 }

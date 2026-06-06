@@ -9,12 +9,12 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNext("We are just a few miles away from our destination. Just chat with the other passengers while we prepare for landing.");
+		    cm.sendNext("我们离目的地只有几英里了。在我们准备降落的时候，和其他乘客聊聊天吧。");
             cm.dispose();
         status--;
     }
     if (status == 0) {
-	    cm.sendYesNo("Are you getting off? The ship is going to depart soon. If you leave, you must wait for the next one to come.");
+	    cm.sendYesNo("你要下车了吗？船很快就要出发了。如果你离开，就必须等下一班了。");
 	} else if (status == 1) {
 	    cm.warp(2000100,0);
 		cm.dispose();

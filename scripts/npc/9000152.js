@@ -3,7 +3,7 @@ random=Math.floor(Math.random() * prizes.length++);
 var gayrobby=0;  
 
 function start() {
-    cm.sendYesNo("Would you like to use a #i4031544# for a try at the #rChair Gachapon#k?");
+    cm.sendYesNo("你想使用 #i4031544# 来试试 #r椅子转蛋#k 吗？");
 }
 
 function action(m,t,s){
@@ -19,11 +19,11 @@ function action(m,t,s){
             cm.gainItem(4031544, -1);
             cm.gainItem(prizes[random],1);			// if you changed the above ID, make sure you change this one too
         }else{
-            cm.sendOk("Come back when you have a #i4031544#!");
+            cm.sendOk("等你有了 #i4031544# 再来吧！");
             cm.dispose();
         }
     }else{
-        cm.sendOk("Come back when your ready to take a chance at fortune!");
+        cm.sendOk("等你准备好碰碰运气时再来吧！");
         cm.dispose();
     }
 }  

@@ -13,13 +13,13 @@ function start(mode, type, selection) {
 	status--;
     }
 	if (status == 0) {
-	qm.sendNext("Why do I look like this, you ask? I don't want to talk about it, but I suppose I can't hide from you since you're my master...");
+	qm.sendNext("你问我为什么变成这个样子？我不想说，但既然你是我的主人，我猜我也瞒不住你……");
 	} else if (status == 1) {
-    qm.sendNextPrev("While you were trapped inside ice for hundreds of years, I, too was frozen. It was a long time to be away from you. That's when the seed of darkness was planted in my heart.");
+    qm.sendNextPrev("当你被困在冰中数百年的时候，我也被冻结了。那是一段漫长的与你的分离时光。就在那时，黑暗的种子在我心中被种下了。");
 	} else if (status == 2) {
-    qm.sendNextPrev("But since you awoke. I thought the darkness had gone away. I thought things would return to the way they were, but I was mistaken");
+    qm.sendNextPrev("但自从你苏醒后，我以为黑暗已经消散了。我以为一切都会恢复如初，但我错了。");
 	} else if (status == 3) {
-		qm.sendAcceptDecline("Please. Aran. Please stop me from becoming enraged. Only you can control me. It's out of my hands now. Please do whatever it takes to #rstop me from going berserk");
+		qm.sendAcceptDecline("求你了，战神。请阻止我陷入暴怒。只有你能控制我。我已经无力控制自己了。请不惜一切代价#r阻止我暴走");
 	} else if (status == 4) {
 		qm.warp(914020000);
 		qm.spawnMonster(9001014, 1, 124, 86);
@@ -41,21 +41,21 @@ function end(mode, type, selection) {
 	status--;
     }
 	if (status == 0) {
-	qm.sendNext("Thank you. Aran If it weren't for you. I would have become enraged and who knows what could have happened. Thank you. NOT! it's only your duty as my master...");
+	qm.sendNext("谢谢你，战神。如果不是你，我一定会暴走，天知道会发生什么。谢谢你。才怪！这只是你作为我主人的职责而已……");
 	} else if (status == 1) {
-	qm.sendYesNo("Anyway, I just noticed how high of a level you've reached. if you were able to control me in my state of rage. I think you're ready to handle more abilities.");
+	qm.sendYesNo("话说回来，我刚刚注意到你的等级已经达到了这么高。如果你能在我的暴怒状态下控制住我，我觉得你已经准备好掌握更多能力了。");
 	} else if (status == 2) {
 	qm.changeJob(2112);
 	qm.gainItem(1142132, 1);
 	qm.gainItem(1702475, 1);
     qm.gainSp(qm.getPlayer().getLevel() * 3 - 100 - 100 - 100);
     qm.forceCompleteQuest();	
-	qm.sendNext("Your skills have been restored. Those skills have been dormant for so long that you'll have to re-train yourself, but you'll be as good as new once you complete your training.");	
+	qm.sendNext("你的技能已经恢复了。这些技能沉睡了太久，你需要重新训练自己，但一旦完成训练，你就会恢复如初。");	
 	}
 	else if (status == 3) {
-    qm.sendNext("Oh, and I've taught you Maple Hero. It isn't one of the skills you had in the past, but it could come in handy some day.");
+    qm.sendNext("哦，我还教了你枫叶英雄。这不是你过去拥有的技能之一，但说不定有一天会派上用场。");
 	} else if (status == 4) {
-	qm.sendNext("Even with all that, however, you still have a long way to go until you return to the old you. I heard the skills you have forgotten are floating around in the form of Skill Books You'll be able to return to the old you if you find and train all those skills");
+	qm.sendNext("然而，尽管如此，你离恢复从前的自己还有很长的路要走。我听说你遗忘的技能以技能手册的形式散落在各处。如果你能找到并训练所有这些技能，你就能恢复从前的自己。");
     qm.dispose();	
 	}
 }

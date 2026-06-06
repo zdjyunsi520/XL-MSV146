@@ -22,14 +22,14 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Congratulations on getting this far!  Well, I suppose I'd better give you your #bBreath of Fire#k.  You've certainly earned it!");
+	cm.sendNext("恭喜你走到了这一步！好吧，我想我应该给你你的#b火焰之息#k。你绝对配得上它！");
     }
     else if (status == 1) {
-	cm.sendNextPrev("Well, time for you to head off.");
+	cm.sendNextPrev("好了，你该出发了。");
     }
     else if (status == 2) {
 	if (!cm.canHold(4031062,1)) {
-	    cm.sendNext("Please clear inventory space.");
+	    cm.sendNext("请清理背包空间。");
 	    cm.dispose();
 	    return;
 	}

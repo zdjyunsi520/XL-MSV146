@@ -1,5 +1,0 @@
-<imgdir name="101121101">
-        <string name="name" value="飓风之力" />
-        <string name="desc" value="两个零合力制造巨大的飓风！\n以飓风形态移动，吸引敌人同时造成伤害，伤害随时间增加~" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobcount, 持续时间: #time\n飓风攻击: 每2秒 +#q%。 \n雷击几率: #prop%, 雷击最大敌人数: #s, 雷击伤害: #z%, 雷击攻击次数: #u。" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="2201008">
-        <string name="name" value="Cold Beam" />
-        <string name="desc" value="Drops sharp ice shards on enemies to deal damage. Enemies that are hit will freeze and slow down. Able to deal great damage to fire attribute enemies." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Freeze Duration: #time" />
-    </imgdir>

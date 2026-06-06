@@ -1,7 +1,0 @@
-<imgdir name="5720012">
-        <string name="name" value="反击" />
-        <string name="desc" value="被攻击时暂时提升伤害。技能等级越高持续时间越长。反击效果每50秒只能触发一次。" />
-        <string name="h" value="被攻击时，以#prop%的几率伤害+#indieDamR%，持续时间：#time秒。" />
-        <string name="pdesc" value="被攻击时暂时提升伤害。技能等级越高持续时间越长。反击效果每20秒只能触发一次。" />
-        <string name="ph" value="被攻击时，以#prop%的几率伤害#indieDamR%，持续时间：#time秒" />
-    </imgdir>

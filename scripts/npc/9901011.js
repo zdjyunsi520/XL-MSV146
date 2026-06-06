@@ -18,7 +18,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendOk ("Newbies Guide ~~~ \r\n@blade for All in one NPCs\r\nDon't forget occupation, @occupation\r\nRates 500x/250x/4x\r\n@commands / @help / @commands to view all commands\r\nTrade button warps you to the FM\r\nVote for Points!!\r\n\r\nHehehehe Have fun noobs <3\r\nPot Seller, @shop");
+			cm.sendOk ("新手指南 ~~~ \r\n@blade 查看全能NPC\r\n别忘了职业系统，@occupation\r\n经验倍率 500x/250x/4x\r\n@commands / @help / @commands 查看所有指令\r\n交易按钮传送到自由市场\r\n投票获取点数！！\r\n\r\n嘿嘿嘿祝你们玩得开心，菜鸟们 <3\r\n药水商人，@shop");
 cm.dispose();
 			}
 			}

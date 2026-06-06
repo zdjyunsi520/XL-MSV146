@@ -1,9 +1,0 @@
-<imgdir name="100000267">
-        <string name="name" value="Doubletime" />
-        <string name="desc" value="When you attack the enemy with a skill, the duration is adjusted and the cooldown is reduced. Grants a special buff effect depending on the attacker." />
-        <string name="h" value="Reduces Zero&apos;s attack skill cooldown by 4 seconds.\n#c[Detect]#: When Alpha attacks, Critical Rate increases by 3% for 20 seconds. Can stack up to 10 times.\n#c[Strength]#: When Beta attacks, damage increases by 1% for 20 seconds. Can stack up to 10 times\n#cEffect for [Detect] and [Strength] remains even when tagged.#" />
-        <imgdir name="lock">
-            <string name="name" value="???" />
-            <string name="desc" value="This skill is unlocked at Lv. 100." />
-        </imgdir>
-    </imgdir>

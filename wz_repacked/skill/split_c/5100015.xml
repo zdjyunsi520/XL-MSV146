@@ -1,5 +1,0 @@
-<imgdir name="5100015">
-        <string name="name" value="能量充能" />
-        <string name="desc" value="攻击时充能能量。能量充满后身体强化并有几率进入站立状态。使用大部分攻击技能时用能量代替MP。充能期间只获得一半效果~" />
-        <string name="h" value="最大能量: #z, 攻击时充能: #x，能量充能激活时，命中值: #acc, 移动速度: #speed, 物理/魔法防御力: #pdd, #prop%几率免疫击退。充能期间获得一半效果" />
-    </imgdir>

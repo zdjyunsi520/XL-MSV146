@@ -1,7 +1,0 @@
-<imgdir name="2321007">
-        <string name="name" value="Angel Ray" />
-        <string name="desc" value="Attacks with a holy arrow, dealing tremendous holy damage. Very effective against Undead or Devil type monsters. #cRestores allies&apos; HP#. Restores Undead allies as well." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemy Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Restores your and your party members&apos; HPat the #cRecovery rate of #hp%#." />
-        <string name="pdesc" value="Attacks with a holy arrow, dealing tremendous holy damage. Very effective against Undead or Devil type monsters. #cRestores allies&apos; HP#. Restores Undead allies as well." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemy Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Restores your and your party members&apos; HPat the #cRecovery rate of #hp%#." />
-    </imgdir>

@@ -3,7 +3,7 @@ function start() {
     if (cm.getMapId() == 540010101) {
 	cm.dispose();
     } else {
-	cm.sendYesNo("The plane will be taking off soon, Will you leave now? You will have buy the plane ticket again to come in here.");
+	cm.sendYesNo("飞机即将起飞，你现在要离开吗？你再次进入需要重新购买机票。");
     }
 }
 

@@ -1,7 +1,0 @@
-<imgdir name="24121007">
-        <string name="name" value="Vol D&apos;Ame" />
-        <string name="desc" value="Steals buffs from nearby monsters. If you steal more than one buff, the most powerful will be applied. This skill only works of monsters have been buffed." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies: #mobCount, Buffs applied:\n#cAttack#: Attack +#epad\n#cDamage Ignored#: Damage Received -#x%\n#cDamage Reflect#: Reflects #y% of Damage Received\n#cInvincibility#: Temporary Invincibility\nCooldown: #cooltime sec" />
-        <string name="pdesc" value="Removes all positive status effects from nearby enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies: #mobCount" />
-    </imgdir>

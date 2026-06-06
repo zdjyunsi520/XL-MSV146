@@ -6,6 +6,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-    cm.sendOk("Hello, I'm Big Headward!");
+    cm.sendOk("你好，我是大头先生！");
     cm.dispose();
 }

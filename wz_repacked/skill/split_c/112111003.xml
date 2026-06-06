@@ -1,5 +1,0 @@
-<imgdir name="112111003">
-        <string name="name" value="编队攻击" />
-        <string name="desc" value="小鹰编队攻击。可向左右方向操控。#c空中#时无法使用。" />
-        <string name="h" value="伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: 1" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="35111005">
-        <string name="name" value="Acceleration Bot EX-7" />
-        <string name="desc" value="You summon bot EX-7 to increase the Movement Speed of all monsters on the map but decrease their DEF. EX-7 will self-destruct when it runs out of power." />
-        <string name="h" value="MP Cost: #mpCon, Buff Duration: #time sec, Enemy Speed: +#x, Enemy Defense: #y%, Self-Destruct Damage: #selfDestruction%" />
-    </imgdir>

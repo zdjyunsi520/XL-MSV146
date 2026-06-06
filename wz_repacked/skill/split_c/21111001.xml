@@ -1,7 +1,0 @@
-<imgdir name="21111001">
-        <string name="name" value="力量" />
-        <string name="desc" value="暂时提升攻击力和防御力，即使造成很小的伤害也能击退敌人。" />
-        <string name="h" value="MP消耗：#mpCon，持续时间：#time 秒，物理攻击力：+#epad，物理防御力：+#epdd，魔法防御力：+#emdd，击退伤害要求：-#x%" />
-        <string name="pdesc" value="暂时提升战斗模式攻击力和防御力，即使造成很小的伤害也能击退敌人。" />
-        <string name="ph" value="MP消耗：#mpCon，战斗模式攻击力：+#PVPdamage，持续时间：#time 秒，物理防御力：+#epdd，魔法防御力：+#emdd，击退伤害要求：-#x%" />
-    </imgdir>

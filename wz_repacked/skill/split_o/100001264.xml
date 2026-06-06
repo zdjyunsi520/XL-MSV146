@@ -1,5 +1,0 @@
-<imgdir name="100001264">
-        <string name="name" value="Divine Speed" />
-        <string name="desc" value="Channels the power of the Transcendents to increase Attack Speed, Movement Speed, Avoidability, and Accuracy of nearby party members. \nPress the #cSkill Key one more time to cancel the skill. Cannot be used with Divine Force.#" />
-        <string name="h" value="Time Force Cost: #forceCon, increases Movement Speed by #indieSpeed, Jump by #indieJump, Avoidability by #indieEva, Accuracy by #indieAcc, and Attack Speed by 1 level" />
-    </imgdir>

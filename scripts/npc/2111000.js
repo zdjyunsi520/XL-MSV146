@@ -3,7 +3,7 @@
 */
 
 function start() {
-    cm.sendNext("Alchemy... and the alchemist...they both are important. But the most important of all is this town, Magatia, where all that will be fully embraced. The pride and fame of Magatia must be continued. Do you have the power to do that?");
+    cm.sendNext("炼金术……以及炼金术师……他们都很重要。但最重要的是这座城镇——玛加提亚，在这里一切都将得到充分的发展。玛加提亚的荣耀和声望必须延续下去。你有力量做到这一点吗？");
 }
 
 function action() {

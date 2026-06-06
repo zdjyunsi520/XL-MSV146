@@ -1,5 +1,0 @@
-<imgdir name="27111100">
-        <string name="name" value="Spectral Light" />
-        <string name="desc" value="[Light Magic]\nFires controllable beams of light. You can #csteer the beams by holding the skill button and using the directional keys.#" />
-        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. #Steer the beams by holding the skill key and pressing ↑,↓.#" />
-    </imgdir>

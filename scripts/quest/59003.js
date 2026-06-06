@@ -10,19 +10,19 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("Yoohoo! Stranger walking in the dangerous woods who I trust unconditionally? Can you help me?");
+	  qm.sendNext("哟呼！在危险的森林中行走并且我无条件信任的陌生人？你能帮帮我吗？");
 	} else if (status == 1) {
-      qm.sendNextPrevS("A talking cat! Just the type of thing true heroes stumble upon in the woods!",14);
+      qm.sendNextPrevS("一只会说话的猫！真正的英雄在森林中遇到的果然就是这样的事！",14);
 	} else if  (status == 2)  {
-	  qm.sendNextPrev("My name is Arby, and I'm in a bit of a pickle. Mmmm, pickles... with mayonnaise!");
+	  qm.sendNextPrev("我的名字叫阿比，我遇到了点麻烦。嗯嗯，泡菜……加蛋黄酱的！");
 	} else if  (status == 3)  {
-	  qm.sendNextPrev("I've been stuck in this trap for days, and I've been passing the time daydreaming about my favorite foods. Mm, shrimp pizza... cucumber skin salad...");
+	  qm.sendNextPrev("我被困在这个陷阱里好几天了，一直靠幻想我最爱的食物来打发时间。嗯，虾仁披萨……黄瓜皮沙拉……");
 	} else if  (status == 4)  {
-	  qm.sendAcceptDecline("But now I'm really, really, super starving. Mind whacking the trap by pressing #e#b[Ctrl]#k#n a few times and setting me free so I can get some good eats?");
+	  qm.sendAcceptDecline("但现在我真的、真的、超级饿了。能不能按几次#e#b[Ctrl]#k#n来砸开陷阱把我放出来，让我去找点好吃的？");
 	} else if  (status == 5)  {
-	  qm.sendNextS("Sure. #e#b[Ctrl]#k#n, by the trap. Easy sauce for an aspiring hero!",14);
+	  qm.sendNextS("没问题。在陷阱旁边按#e#b[Ctrl]#k#n。对一个有志英雄来说小菜一碟！",14);
 	} else if  (status == 6)  {
-	  qm.sendNextPrev("Mmmm, sauce... mango chutney..");
+	  qm.sendNextPrev("嗯嗯，酱汁……芒果酸辣酱……");
 	} else if  (status == 7)  {
 	  qm.forceStartQuest();
 	  qm.forceCompleteQuest();

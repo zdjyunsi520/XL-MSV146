@@ -1,5 +1,0 @@
-<imgdir name="5210015">
-        <string name="name" value="全员登船" />
-        <string name="desc" value="随机召唤两名船员协助你战斗。如果你受到致命状态效果攻击，船员会替你挡下~" />
-        <string name="h" value="消耗#mpCon MP，召唤两名勇敢的船员协助战斗。船员召唤时间#time秒，冷却时间#cooltime秒。如果你受到异常状态效果攻击，船员会替你挡下。挡下异常状态后，该船员直到重新召唤前无法再次挡下状态效果。" />
-    </imgdir>

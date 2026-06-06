@@ -29,6 +29,6 @@
 */
 
 function start() {
-    cm.sendOk("Almost all Magatian people are Alchemists. Everyone concentrates on Alchemy. So...Magatia is always quiet.");
+    cm.sendOk("几乎所有玛加提亚人都是炼金术师。每个人都专注于炼金术。所以……玛加提亚总是很安静。");
     cm.dispose();
 }

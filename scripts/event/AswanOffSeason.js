@@ -17,7 +17,7 @@ function playerEntry(eim, player) {
     player.changeMap(map, map.getPortal(0));
     eim.broadcastPacket(CField.showEffect("aswan/stageEff/stage"));
 	eim.broadcastPacket(CField.showEffect("aswan/stageEff/number/1"));
-	player.getMap().startMapEffect("Destroy the Guardian Tower and it's minions throughout the map to continue.", 5120059);
+	player.getMap().startMapEffect("摧毁地图上的守护塔及其爪牙以继续。", 5120059);
 }
 
 
@@ -39,7 +39,7 @@ function scheduledTimeout(eim) {
 		eim.unregisterPlayer(player);
 		var map = em.getChannelServer().getMapFactory().getMap(262010000);
 		player.changeMap(map, map.getPortal(0));
-		player.dropMessage(5, "[Azwan] You have failed to defeat her gang in the time limit.");
+		player.dropMessage(5, "[阿斯旺] 您未能在时间限制内击败她的队伍。");
 	if (eim.disposeIfPlayerBelow(0, 0)) {
 		em.setProperty("state", "0");
 		em.setProperty("leader", "true");
@@ -54,7 +54,7 @@ function playerDead(eim, player) {
 }
 
 function playerRevive(eim, player) {
-	player.dropMessage(5, "[Hilla] You are weak! You will never defeat me!!");
+	player.dropMessage(5, "[希拉] 你太弱了！你永远无法击败我！！");
     player.addHP(50);
 	var mapToSpawnId = player.getMapId();
     var map = eim.getMapFactory().getMap(mapToSpawnId);

@@ -1,5 +1,0 @@
-<imgdir name="50001214">
-        <string name="name" value="骑士之守望" />
-        <string name="desc" value="接受光之守护，在一定时间内不会被敌人的攻击击退。" />
-        <string name="h" value="Duration: #time sec, Knock-back Resistance Rate: 100% (Cooldown: #cooltime sec)" />
-    </imgdir>

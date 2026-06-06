@@ -1,5 +1,0 @@
-<imgdir name="10000099">
-        <string name="name" value="冰冻粉碎" />
-        <string name="pdesc" value="将斧头变成巨剑冰冻多个敌人！冰冻槽充能到#c20以上#时可使用。\n[指令：#c上+上方向键+攻击键#]" />
-        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Chance: #prob%, Freeze Duration: #time sec" />
-    </imgdir>

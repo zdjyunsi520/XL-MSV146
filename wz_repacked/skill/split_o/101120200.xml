@@ -1,5 +1,0 @@
-<imgdir name="101120200">
-        <string name="name" value="Wind Cutter (Twister)" />
-        <string name="desc" value="A twister, created on a target&apos;s location for a set duration, inflicts damage on surrounding enemies." />
-        <string name="h" value="Damage: #damage% per 0.5 sec, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, \nDuration: #time sec" />
-    </imgdir>

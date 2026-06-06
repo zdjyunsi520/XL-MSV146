@@ -1,7 +1,0 @@
-<imgdir name="5211007">
-        <string name="name" value="Roll of the Dice" />
-        <string name="desc" value="Test your luck! Roll a dice to get a random Buff. Roll a 1 and you get nothing." />
-        <string name="h" value="MP Cost: #mpCon, Buff Duration: #time, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Test your luck! Roll a dice to get a random Buff. Roll a 1 and you get nothing." />
-        <string name="ph" value="MP Cost: #mpCon, Buff Duration: #time, Cooldown: #cooltime sec" />
-    </imgdir>

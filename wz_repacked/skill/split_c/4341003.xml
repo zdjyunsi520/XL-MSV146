@@ -1,7 +1,0 @@
-<imgdir name="4341003">
-        <string name="name" value="怪物炸弹" />
-        <string name="desc" value="在1个怪物身上贴上爆裂符咒产生强力爆炸！符咒激活3秒后爆炸，范围内所有人都会受到伤害，包括敌人和队友。\n#c11级以上需要技能手册#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% explosion damage after #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="在1个怪物身上贴上爆裂符咒产生强力爆炸！符咒激活3秒后爆炸，范围内所有人都会受到伤害，包括敌人和队友。\n#c11级以上需要技能手册#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% explosion damage after #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

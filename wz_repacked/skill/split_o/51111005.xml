@@ -1,8 +1,0 @@
-<imgdir name="51111005">
-        <string name="name" value="Magic Crash" />
-        <string name="desc" value="Has a chance to cancel all enemy buffs and prevent them from casting new buffs.\n[Cooldown: 60 sec]" />
-        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
-        <string name="pdesc" value="Has a chance to cancel all enemy buffs and prevent them from casting new buffs.\n[Cooldown: 60 sec]" />
-        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Chance to Remove All Buffs: #hcProp%, Buff Block Duration: #hcTime sec" />
-    </imgdir>

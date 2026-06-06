@@ -10,12 +10,12 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNext("Not interested? Oh well...");
+		    cm.sendNext("不感兴趣？那就算了……");
             cm.dispose();
         status--;
     }
     if (status == 0) {
-	    cm.sendYesNo("This ship will head towards #b#m130000000##k, an island where you'll find crimson leaves soaking up the sun, the gentle breeze that glides past the stream, and the Empress of Maple, Cygnus. If you're interested in joining the Cygnus Knights, then you should definitely pay a visit there. Are you interested in visiting #m130000000#?\r\n\r\nThe trip will cost you #b1000#k Mesos.");
+	    cm.sendYesNo("这艘船将驶向#b#m130000000##k，那是一个有着绯红落叶沐浴阳光、清风掠过溪流的岛屿，也是枫之谷的女皇西格诺斯所在之处。如果你有兴趣加入西格诺斯骑士团，那一定要去看看。你想去#m130000000#吗？\r\n\r\n旅途将花费你#b1000#k金币。");
 	} else if (status == 1) {	
         cm.warp(130000210,0);	
 	    cm.dispose(); 

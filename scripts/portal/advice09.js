@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.showInstruction("Press #e#b[Down]#k on the arrow key#n and#e#b[Alt]#k#n at the same time to jump downwards.", 450, 6);
+    pi.showInstruction("同时按#e#b[下]方向键#n和#e#b[Alt]#k#n向下跳跃。", 450, 6);
 }

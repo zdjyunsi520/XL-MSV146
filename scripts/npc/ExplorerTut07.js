@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	//    cm.sendNextS("The ship is ready to set sail!",1);
+	//    cm.sendNextS("船已准备好起航！",1);
 	    cm.warp(4000004);
 		cm.gainExp(1242);
 		cm.forceStartQuest(17901);

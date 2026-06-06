@@ -1,5 +1,0 @@
-<imgdir name="31211004">
-        <string name="name" value="Diabolic Recovery" />
-        <string name="desc" value="Rapidly recover HP for a short time. Also lets you recover HP over time." />
-        <string name="h" value="HP Cost: #hpCon, Duration: #time sec, Max HP: +#indieMhpR%, Interval: #w sec, HP Restored at Interval: #x%" />
-    </imgdir>

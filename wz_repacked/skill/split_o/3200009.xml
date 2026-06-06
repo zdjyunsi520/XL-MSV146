@@ -1,5 +1,0 @@
-<imgdir name="3200009">
-        <string name="name" value="Rangefinder" />
-        <string name="desc" value="When attacking nearby enemies, increases your Critical Rate; when attacking far away enemies, increases your total damage." />
-        <string name="h" value="Based on distance #x, when closer than #range the Critical Rate increases by #cr% up to a max of #z%. The farther the distance, damage increases by #damR% up to a max of #y%" />
-    </imgdir>

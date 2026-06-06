@@ -7,7 +7,7 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-    	cm.sendNext("D'oh! You found me. But I''m tiny! Are you a professional at this game or something?\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 3 exp");
+    	cm.sendNext("啊！你找到我了。但我这么小！你是这个游戏的专家吗？\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 3 经验值");
     } else if (status == 1) {
 	cm.gainExp(3);
 	if (cm.getInfoQuest(23999).equals("")) {

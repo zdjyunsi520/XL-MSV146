@@ -1,8 +1,0 @@
-<imgdir name="4121015">
-        <string name="name" value="Frailty Curse" />
-        <string name="desc" value="Summons a barrier around you. Decreases the Attack Power, Movement Speed, and Defense of enemies that step into the barrier. Also allows you to deal more damage to boss monsters." />
-        <string name="h" value="MP Cost: #mpCon, lasts for #time sec. Attack Power and Defense reduced by #w%, Movement Speed by #y\n[Passive Effect: Increases Boss Attack Damage by #bdR%]" />
-        <string name="pdesc" value="Summons a barrier around you. Decreases the Attack Power, Movement Speed, and Defense of enemies that step into the barrier. Also allows you to deal more damage to boss monsters." />
-        <string name="ph" value="MP Cost: #mpCon, lasts for #time sec. Attack Power and Defense reduced by #w%, Movement Speed by #y\n[Passive Effect: Increases Boss Attack Damage by #bdR%]" />
-        <string name="hch" value="MP Cost: #mpCon, lasts for #time sec. Reduces Attack Power and Defense by #w%, Movement Speed by #y" />
-    </imgdir>

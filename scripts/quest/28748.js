@@ -8,13 +8,13 @@ function start(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	qm.sendYesNo("We cannot let those aliens take out precious ore! We need to. I don't know, sabotage them? That sounds right. doesn't it! Go sabotage the heck out of them!");
+	qm.sendYesNo("我们不能让那些外星人拿走珍贵的矿石！我们需要，我不知道，破坏它们？听起来对。是不是！去狠狠地搞破坏吧！");
     } else if (status == 1) {
-	qm.sendNext("Alright, a good sabotage job needs a good sabotage plan! I've got four really great sabo-ideas.");
+	qm.sendNext("好了，一个出色的破坏行动需要一个出色的破坏计划！我有四个非常棒的破坏点子。");
     } else if (status == 2) {
-	qm.sendNext("Your first sabo-mission is in Jungle Valey. They've got Gunpowder Mounds meant for blasting. Light one of those up. While you're at it, I think you could take out one of those Galacto-Drills. They look really flimsy. Heck, I bet they'd blow up if you chucked some rocks into those holes they're digging'.");
+	qm.sendNext("你的第一个破坏任务在丛林山谷。那里有用来爆破的火药堆。引爆一个。顺便的话，我觉得你可以顺便干掉一个银河钻头。它们看起来很不结实。嗐，我打赌如果你往它们挖的洞里扔些石头进去就能炸掉。");
 	} else if (status == 3) {
-	qm.sendNext("Oh, I just thought of another thing that'll really cheese 'em off! Go steal some of their stampies and mess up their computers! If I were an alien, I'd put that stuff right near the entrance to my intergalactic mining base. Let's just hope those aliens use the same operating system as us...");
+	qm.sendNext("哦，我刚想到另一件能让它们气得跳脚的事！去偷它们的印章然后搞乱它们的电脑！如果我是外星人，我会把那些东西放在我的银河采矿基地入口附近。就希望那些外星人和我们用一样的操作系统吧……");
 	} else if (status == 4) {
 	qm.forceStartQuest();
 	qm.dispose();
@@ -30,18 +30,18 @@ function end(mode, type, selection) {
 	return;
     }
 if (status == 0) {
-	qm.sendNext("How are the sabo-missions going? Are you sabotaging up a storm?");
+	qm.sendNext("破坏任务进展如何？你在疯狂搞破坏吗？");
     } else if (status == 1) {
 	if(qm.itemQuantity(4033192) < 1){
-	qm.sendPrev("You haven't sabotaged enough! There's still so much to do!\r\n\r\n#bSteal 1 #v4033192# from aliens#k: (" + qm.getPlayer().getItemQuantity(4033192, false) + "/1)");
+	qm.sendPrev("你破坏得还不够！还有很多事要做！\r\n\r\n#b从外星人那里偷1个 #v4033192##k: (" + qm.getPlayer().getItemQuantity(4033192, false) + "/1)");
     qm.dispose();
 	} else {
-	qm.sendNextPrev("I knew you'd mess up their operations!");
+	qm.sendNextPrev("我就知道你会搞砸它们的行动！");
 	}
 	} else if (status == 2) {
-	qm.sendPlayerToNpc("The aliens are holding a bunch of people hostage! I'm not sure why yet, but I have a very strong theory that people-eating is involved! They must be interstellar space chefs!");
+	qm.sendPlayerToNpc("外星人劫持了很多人质！我还不确定为什么，但我有一个非常强烈的理论认为涉及吃人！他们一定是星际太空厨师！");
 	} else if (status == 3) {
-	qm.sendNextPrev("Hmm, your theory is both ludicrous and implausible, but it's the best we've got! At least we know the people are still alive.");
+	qm.sendNextPrev("嗯，你的理论既荒谬又站不住脚，但这是我们目前最好的了！至少我们知道人质还活着。");
 	} else if (status == 4) {
 	qm.gainExp(2000000);
 	qm.forceCompleteQuest(28748);

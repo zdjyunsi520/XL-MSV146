@@ -1,5 +1,0 @@
-<imgdir name="1100002">
-        <string name="name" value="最终攻击" />
-        <string name="h" value="发动率: #prop%, 伤害: #damage%" />
-        <string name="desc" value="攻击后有几率追加额外伤害。需要装备剑或斧~\n前置技能: #c武器精通 Lv. 3#" />
-    </imgdir>

@@ -3,11 +3,11 @@ var m;
 
 function start() {
     if (cm.getMapId() == 951000000) {
-        cm.sendYesNo("Would you like to go back?");
+        cm.sendYesNo("想要回去吗？");
         m = 1;
         return;
     }
-    cm.sendYesNo("Would you like to go to the Monster Park?");
+    cm.sendYesNo("aaa想要去怪物公园吗？");
 }
 
 function action(mode, type, selection) {
@@ -15,8 +15,8 @@ function action(mode, type, selection) {
         if (m == 1) {
             cm.warp(cm.getSavedLocation("MONSTER_PARK"));
         } else {
-            cm.warp(951000000);
             cm.saveReturnLocation("MONSTER_PARK");
+            cm.warp(951000000);
         }
     }
     cm.dispose();

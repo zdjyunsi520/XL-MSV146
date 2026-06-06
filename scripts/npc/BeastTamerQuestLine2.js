@@ -10,9 +10,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-		cm.sendNext("You used the Kobold Musk! Your powerful stench is quite remarkable!");
+		cm.sendNext("快去！去找Woodrock谈谈关于#o9390915#的事。");
     } else if (status == 1) {
-        cm.sendPrevS("Hurry! Talk to Woodrock about #o9390915#.",5);
+        cm.sendPrevS("快去！去找Woodrock谈谈关于#o9390915#的事。",5);
 		cm.gainItem(2432251, -1);
 		cm.dispose();
 	}

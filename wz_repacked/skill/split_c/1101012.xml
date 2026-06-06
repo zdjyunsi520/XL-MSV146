@@ -1,5 +1,0 @@
-<imgdir name="1101012">
-        <string name="name" value="连击风暴" />
-        <string name="desc" value="使用连击力量吸引敌人，并有几率使其眩晕。如果#c敌人被眩晕#，消耗的连击数将返还。对BOSS只有一定几率返还~" />
-        <string name="h" value="MP消耗: #mpCon, 连击消耗: #y。伤害: #damage%, 最大敌人数: #mobCount, 攻击次数: #attackCount。吸引被击中的敌人。#prop%几率使被吸引的敌人眩晕。对BOSS有相同几率返还消耗的连击数。" />
-    </imgdir>

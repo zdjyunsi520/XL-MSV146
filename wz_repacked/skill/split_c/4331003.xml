@@ -1,7 +1,0 @@
-<imgdir name="4331003">
-        <string name="name" value="猫头鹰之灵" />
-        <string name="desc" value "召唤猫头鹰之灵尝试一击必杀1个敌人！如果成功，接下来一定次数的攻击攻击力会提升。" />
-        <string name="h" value="MP Cost: #mpCon, Instant Kill Chance: #prop%, Damage Bonus: #y% for next #x attacks when Instant Kill is successful, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="召唤猫头鹰之灵攻击敌人，有几率造成巨大伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%\nCooldown: #cooltime sec" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="5091002">
-        <string name="name" value="Somersault Kick" />
-        <string name="desc" value="A devastating kick that accompanies a backward somersault. Attacks all enemies in the vicinity." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="A devastating kick that accompanies a backward somersault. Attacks all enemies in the vicinity." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

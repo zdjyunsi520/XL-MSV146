@@ -1,8 +1,0 @@
-<imgdir name="51121007">
-        <string name="name" value="四方突击" />
-        <string name="desc" value="释放四道灵魂之刃，有概率使敌人失明。最后一击必定暴击！对所有怪物造成失明，但Boss怪物的持续时间减半。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #time, Critical Hit on final attack" />
-        <string name="pdesc" value="释放四道灵魂之刃，有概率使敌人失明。最后一击必定暴击！对所有怪物造成失明，但Boss怪物的持续时间减半。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #time, Critical Hit on final attack" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #hcTime, Critical Hit on Final Attack" />
-    </imgdir>

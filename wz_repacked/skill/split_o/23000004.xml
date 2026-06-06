@@ -1,5 +1,0 @@
-<imgdir name="23000004">
-        <string name="name" value="Nature&apos;s Balance" />
-        <string name="pdesc" value="Chance to recover HP/MP when attacking. You cannot recover more than 10% per attack." />
-        <string name="ph" value="Chance: #prop% per attack, HP/MP Recovery: #x% of damage dealt" />
-    </imgdir>

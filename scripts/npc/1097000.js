@@ -29,9 +29,9 @@ function start() {
 
     if (status == 0) {
 	if (cm.getPlayer().getMapId() != 910002000) { // not in pq lobby
-		cm.sendSimple("Do you want to make some delicious dishes for the crew of the Nautilus? I can teach you how.#b\r\n#L0#Go to the Party Quest Lobby.")
+		cm.sendSimple("你想为诺特勒斯的船员们做些美味的菜肴吗？我可以教你。#b\r\n#L0#前往组队任务大厅。")
 	} else if (cm.getPlayer().getMapId() == 910002000) { // Normal
-		cm.sendSimple("Do you want to make some delicious dishes for the crew of the Nautilus? I can teach you how.\r\n #b#L1# Start Cooking with Tangyoon.#l \r\n #b#L4# Get Tangyoon's Chef Outfit.#l \r\n #L3# Listen to the explanation about Cooking with Tangyoon.#l \r\n #L5# Check today's remaning challenge count.#l");
+		cm.sendSimple("你想为诺特勒斯的船员们做些美味的菜肴吗？我可以教你。\r\n #b#L1# 和唐允一起开始烹饪。#l \r\n #b#L4# 获取唐允的厨师服装。#l \r\n #L3# 听取关于唐允烹饪的说明。#l \r\n #L5# 查看今天剩余的挑战次数。#l");
 	} else {
 	    cm.dispose();
 	}
@@ -42,16 +42,16 @@ function start() {
         cm.dispose();
 	} else if (selection == 1) {
      if (cm.getParty() == null) { // No Party
-     	cm.sendSimple("This place is surrounded by the mysterious aura of the full moon, so you can't enter by yourself. If you want to enter, your party leader must talk to me.");
+     	cm.sendSimple("这个地方被满月的神秘气息所环绕，你无法独自进入。如果你想进入，必须让你的队伍队长和我对话。");
      	cm.dispose();
     } else if (!cm.isLeader()) { // Not Party Leader
-		cm.sendOk("It is up to your party leader to proceed.");
+		cm.sendOk("这由你的队伍队长来决定。");
         cm.dispose();
 	} else if (cm.getPQLog(PQ) >= 10){ // Done for today
-        cm.sendOk("Sorry. You have exceeded the maximum number of tries for today. Please come back tomorrow.");
+        cm.sendOk("抱歉。你今天已经超过了最大尝试次数。请明天再来。");
         cm.dispose();
     } else if (!cm.allMembersHere()) { // Check for members
-    	cm.sendSimple("I'm sorry, but the party you're a member of does NOT consist of at least 2 members. Please adjust your party to make sure that your party consists of at least 2 members that are all at Level 30 or higher. Let me know when you're done.");
+    	cm.sendSimple("抱歉，你所在的队伍不足2名成员。请调整你的队伍，确保至少有2名等级在30以上的成员。准备好了告诉我。");
         cm.dispose();
     } else {
 
@@ -68,7 +68,7 @@ function start() {
 	if (cPlayer.getLevel() >= minLevel && cPlayer.getLevel() <= maxLevel) {
 		levelValid += 1;
 	} else {
-        cm.sendOk("You need to be between level " + minLevel + " and " + maxLevel + " to take on this epic challenge!");
+        cm.sendOk("你的等级需要在 " + minLevel + " 到 " + maxLevel + " 之间才能接受这项挑战！");
         cm.dispose();
 		next = false;
     } 
@@ -82,61 +82,61 @@ function start() {
 	if (next) {
 	    var em = cm.getEventManager("CookingPQ");
 	if (em == null || open == false) {
-		cm.sendSimple("This PQ is currently not open.");
+		cm.sendSimple("此组队任务目前未开放。");
         cm.dispose();
 	} else {
 	var prop = em.getProperty("state");
 	if (prop == null || prop.equals("0")) {
 		em.startInstance(cm.getParty(),cm.getMap(), 70);
 	} else {
-		cm.sendSimple("Someone is already attempting the PQ. Please wait for them to finish, or find another channel.");
+		cm.sendSimple("已有人在尝试此组队任务。请等待他们完成，或换一个频道。");
 	}
 		cm.removeAll(4001453);
         cm.setPQLog(PQ);
         cm.dispose();
 	} 
     } else { // Not correct lvl or members
-	    cm.sendYesNo("Your party is not a party between " + minPlayers + " and " + maxPlayers + " party members. Please come back when you have between " + minPlayers + " and " + maxPlayers + " party members.");
+	    cm.sendYesNo("你的队伍人数不在 " + minPlayers + " 到 " + maxPlayers + "名队员之间。请调整到 " + minPlayers + " 到 " + maxPlayers + "名队员后再来。");
 	} 
     }
 	} else if (selection == 3) {
-        cm.sendOk("#e <Party Quest: Moon Bunny's Rice Cake>#n \r\n A mysterious Moon Bunny that only appears in #b#m910010000##k durning full moons. #b#p1012112##k of #b#m100000200##k is looking for Maplers to find #rMoon Bunny's Rice Cake#k for #b#p1012114##k. If you want to meet the Moon Bunny, plant Primrose Seeds in the designated locations and summon forth a full moon. Protect the Moon Bunny from wild animals until all #r10 Rice Cakes#k are made.\r\n #e - Level:#n 10 or above #r (Recommended Level: 10 - 20)#k \r\n #e - Time Limit:#n 10 min \r\n #e - Number of Participants:#n 3 to 6 \r\n #e - Reward:#n #i1003266:# Rice Cake Topper #b \r\n(obtained by giving Tory 100 Rice Cakes)#k \r\n #e - Items:#n #i1002798:# A Rice Cake on Top of My Head #b \r\n(obtained by giving Tory 10 Rice Cakes).");
+        cm.sendOk("#e <Party Quest: Moon Bunny's Rice Cake>#n \r\n A mysterious Moon Bunny that only appears in #b#m910010000##k durning full moons. #b#p1012112##k of #b#m100000200##k is looking for Maplers to find #rMoon Bunny's Rice Cake#k for #b#p1012114##k. If you want to meet the Moon Bunny, plant Primrose Seeds in the designated locations 到 summon forth a full moon. Protect the Moon Bunny from wild animals until all #r10 Rice Cakes#k are made.\r\n #e - Level:#n 10 or above #r (Recommended Level: 10 - 20)#k \r\n #e - Time Limit:#n 10 min \r\n #e - Number of Participants:#n 3 to 6 \r\n #e - Reward:#n #i1003266:# Rice Cake Topper #b \r\n(obtained by giving Tory 100 Rice Cakes)#k \r\n #e - Items:#n #i1002798:# A Rice Cake on Top of My Head #b \r\n(obtained by giving Tory 10 Rice Cakes).");
         cm.dispose();
 	} else if (selection == 4) {
-		cm.sendOk("Oh, my! You brought Moon Bunny's Rice Cakes for me? Well, I've prepared some gifts to show you my appreciation. How many rice cakes do you want to give me?#b\r\n#L10#Moon Bunny's Rice Cake x10 - A Rice Cake on Top of My Head#l\r\n#L11#Moon Bunny's Rice Cake x100 - Rice Cake Topper");
+		cm.sendOk("哦，天哪！你给我带来了月妙的年糕？我准备了一些礼物表示感谢。你想给我多少个年糕？#b\r\n#L10#月妙年糕 x10 - 我头上的年糕#l\r\n#L11#月妙年糕 x100 - 年糕头饰");
 	} else if (selection == 5) {
     var pqtry = 10 - cm.getPQLog(PQ);
     if (pqtry >= 10){
-        cm.sendOk("Sorry you have exceeded the maximum number of tries for today. Please come back tomorrow.");
+        cm.sendOk("抱歉，你今天已经超过了最大尝试次数。请明天再来。");
         cm.dispose();   
 	} else {
-        cm.sendOk("You can do this quest 10 times a day. You have done it " + pqtry + " time(s) today.");
+        cm.sendOk("此任务每天可做10次。你今天已经做了 " + pqtry + " 次。");
 		cm.dispose();
 	}
 	}
     } else if (status == 2) { 
 	if (selection == 10) {
 		if (!cm.canHold(1002798,1)) {
-		cm.sendOk("Make room for this Hat.");
+		cm.sendOk("请为这顶帽子腾出空间。");
 	}else if (cm.haveItem(4001101,10)) {
 		cm.gainItem(1002798, 1);
 		cm.gainItem(4001101, -10);
-		cm.sendOk("Thank you so much. I'm really going to enjoy these cakes!");
+		cm.sendOk("非常感谢。我真的会很享受这些年糕的！");
 		cm.dispose();
 	}else{
-        cm.sendOk("Please make sure you have the amount of cakes needed.");
+        cm.sendOk("请确保你有足够数量的年糕。");
 		cm.dispose();
 	}  
 	} else if (selection == 11) {
 	if (!cm.canHold(1003266,1)) {
-		cm.sendOk("Make room for this Hat.");
+		cm.sendOk("请为这顶帽子腾出空间。");
 	}else if (cm.haveItem(4001101,100)) {
 		cm.gainItem(1003266, 1);
 		cm.gainItem(4001101, -100);
-		cm.sendOk("Thank you so much. I'm really going to enjoy these cakes!");
+		cm.sendOk("非常感谢。我真的会很享受这些年糕的！");
 		cm.dispose();
 	} else{
-        cm.sendOk("Please make sure you have the amount of cakes needed.");
+        cm.sendOk("请确保你有足够数量的年糕。");
 		cm.dispose();
 	}
 	} if (mode == 0) { 

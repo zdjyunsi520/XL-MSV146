@@ -1,7 +1,0 @@
-<imgdir name="21110000">
-        <string name="name" value="高级连击能力" />
-        <string name="desc" value="提升异常状态抗性、站桩率、暴击率和最大暴击伤害。每10连击数额外提升异常状态抗性、站桩率、暴击率和攻击力。\n前置技能：#c连击能力 Lv. 10#" />
-        <string name="h" value="异常状态抗性：#asrR%，站桩率：#u%，暴击率：#cr%，最大暴击伤害提升#criticaldamageMax%，每10连击额外提升 - 异常状态抗性：#w%，站桩率：#q%，暴击率：#y%，攻击力：#s，总提升：#x" />
-        <string name="pdesc" value="提升异常状态抗性、站桩率、暴击率和最大暴击伤害。每10连击数额外提升异常状态抗性、站桩率、暴击率和攻击力。\n前置技能：#c连击能力 Lv. 10#" />
-        <string name="ph" value="异常状态抗性：#asrR%，站桩率：#u%，暴击率：#cr%，最大暴击伤害提升#criticaldamageMax%，每10连击额外提升 - 异常状态抗性：#w%，站桩率：#q%，暴击率：#y%，攻击力：#s，总提升：#x" />
-    </imgdir>

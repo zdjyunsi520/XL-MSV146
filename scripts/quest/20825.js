@@ -8,9 +8,9 @@ var status = -1;
 function start(mode, type, selection) {
 	status++;
 	if (status == 0) {
-	  qm.sendYesNo("I am Kinu. I will get you up to speed on Ereve's history. Now, go on and sit! I teach best when my students are shorter than me!");
+	  qm.sendYesNo("我是基努。我会让你了解埃雷布的历史。现在，去坐下！我的学生在比我矮的时候我教得最好！");
 	} else if (status == 1) {
-      qm.sendNext("Press X in front of any chair to sit down. If you own one, its the same deal. X marks the butt.");
+      qm.sendNext("在任何椅子前按X键坐下。如果你自己有一把，也是一样。X标记你的屁股。");
 	} else if (status == 2) {
 	  qm.forceStartQuest();
 	  qm.AranTutInstructionalBubble("Effect/OnUserEff.img/guideEffect/cygnusTutorial/10");

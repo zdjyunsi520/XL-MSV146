@@ -18,7 +18,7 @@ function action(mode, type, selection) {
 
 function startChat() {
     if (chat == 0) {
-        cm.sendNextPrev("blah blah");
+        cm.sendNextPrev("废话废话");
     } else {
         cm.MovieClipIntroUI(false);
         cm.dispose();

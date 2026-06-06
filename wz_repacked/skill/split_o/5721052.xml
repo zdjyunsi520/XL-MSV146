@@ -1,5 +1,0 @@
-<imgdir name="5721052">
-        <string name="name" value="Airframe Beacon" />
-        <string name="desc" value="Summons an aircraft to drop bombs" />
-        <string name="h" value="MP Cost: #mpCon, Max monsters hit: #mobCount, Damage: #damage%, Number of hits: #attackCount. Buff effect upon use: Max damage: +#x Duration: #time sec. Stacks 3 times.\nCooldown: #cooltime sec" />
-    </imgdir>

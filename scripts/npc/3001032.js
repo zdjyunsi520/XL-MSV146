@@ -34,11 +34,11 @@ function action(mode, type, selection) {
     }
 	var time = parseInt(data);
 			      if (time + (12 * 3600000) >= cm.getCurrentTime() && !cm.getPlayer()) {
-                cm.sendOk("You have already went to Cygnus in the past 12 hours. Time left: " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
+                cm.sendOk("你在过去12小时内已经挑战过女皇了。剩余时间： " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
                 cm.dispose();
                 return;
             }
-        cm.sendSimple("#b#L100#Magnus simulator#l");
+        cm.sendSimple("#b#L100#麦格纳斯模拟器#l");
     }else if (status == 1) {
         if (mode == 1) {
             switch (selection) {
@@ -62,7 +62,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		        if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("已经有人在里面了。");
             cm.dispose();
             return;
 			}
@@ -76,7 +76,7 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("EasyMagnus");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("发生了未知错误。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
@@ -84,15 +84,15 @@ function action(mode, type, selection) {
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("所有玩家必须在地图中且等级达到150以上。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("你不是队长，请让你的队长来和我交谈。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("请先组建一个队伍。");
                         cm.dispose();
                     }
                     break;
@@ -103,7 +103,7 @@ function action(mode, type, selection) {
             c = selection; 
             for (var i = 0; i < rewards[c].length; i++) 
                 talk+="#L"+i+"##e#i"+rewards[c][i]+":##k#l"; 
-            cm.sendSimple("You can exchange your points for these "+rewards[c].length+" items\r\n#r#eYou have to click any of these items to recieve it.#k#n\r\n"+talk);
+            cm.sendSimple("你可以用积分兑换以下物品 "+rewards[c].length+" 物品\r\n#r#e你需要点击这些物品中的任意一件来获取它。#k#n\r\n"+talk);
             one = false;
         }
     }else if (status == 3) {
@@ -116,15 +116,15 @@ function action(mode, type, selection) {
                 intPoints -= id[1];
                 record.setCustomData(""+intPoints+"");
                 cm.gainItem(id[0], id[2]);
-                //cm.sendOk("id "+id[0]+" price "+id[1]+" amount "+id[2]);         
-                cm.sendOk("Enjoy your reward");
+                //cm.sendOk("id "+id[0]+" 价格 "+id[1]+" 数量 "+id[2]);         
+                cm.sendOk("享受你的奖励吧。");
                 cm.dispose();
             } else {
-                cm.sendOk("Please check if you have sufficient inventory slot for it.");
+                cm.sendOk("请检查你是否有足够的物品栏空间。");
                 cm.dispose();
             }
         } else {
-		        	    var Error = "You don't have enough #rBossPQ Points#k,\r\n#b#t"+id[0]+"##k costs #b"+id[1]+"#k Bosspq Points";
+		        	    var Error = "你没有足够的#rBossPQ积分#k，\r\n#b#t"+id[0]+"##k 需要#b"+id[1]+"#k BossPQ积分";
 	
             cm.sendOk(Error);
             cm.dispose();

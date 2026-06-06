@@ -4,7 +4,7 @@
 
 
 function start() {
-    cm.sendOk ("Hi, I'm Garnox the Pet Scientist. Have you heard of the evolution of special pets?");
+    cm.sendOk ("嗨，我是宠物科学家加诺克斯。你听说过特殊宠物的进化吗？");
 }
 
 function action() {

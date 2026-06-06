@@ -22,7 +22,7 @@ function end(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("A knight's gotta be strong, right? I mean, you guys have some really tough missions. So, you ready for your next training session?");
+		qm.sendNext("骑士得强壮，对吧？我是说，你们有些任务真的很艰难。所以，你准备好进行下一次训练了吗？");
 	} else if (status == 1) {
 		qm.warp(130030105);
 		qm.forceStartQuest();

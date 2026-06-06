@@ -1,7 +1,0 @@
-<imgdir name="4321000">
-        <string name="name" value="Tornado Spin" />
-        <string name="desc" value="Quickly dashes forward with a spinning attack to deal damage to multiple enemies.\n[Dash Activation: Arrow keys #c-&gt;-&gt;# or #c&lt;-&lt;-#, Spin Attack: #cHit attack key while dashing#]\nLevel 20 effects: Links to Flying Assaulter Lv. 10\nRequired: #cthe Level 6: Mastery Book#" />
-        <string name="h" value="MP Cost: #mpCon, Dash Speed: #x%, With extra MP Cost: #z, Spin Attack Damage: #u%, Max Enemies Hit: #v" />
-        <string name="pdesc" value="Quickly dashes forward with a spinning attack to deal damage to multiple enemies.\n[Dash Activation: Arrow keys #cRight and Right Arrow Key# or #cLeft and Left Arrow Key#, Spin Attack: #cHit attack key while dashing#]\nLevel 20 effects: Links to Flying Assaulter Lv. 10\nRequired: #cthe Level 6: Mastery Book#" />
-        <string name="ph" value="MP Cost: #mpCon, Dash Speed: #x%, With extra MP Cost: #z, Spin Attack Damage: #u%, Max Enemies Hit: #v\nCooldown: #cooltime sec" />
-    </imgdir>

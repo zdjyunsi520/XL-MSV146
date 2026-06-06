@@ -1,8 +1,0 @@
-<imgdir name="5301001">
-        <string name="name" value="Barrel Bomb" />
-        <string name="desc" value="Rolls an Oak Barrel full of bombs. The Oak Barrel will travel a certain distance, knocking back enemies in its path, before exploding." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Knockback Chance: #prop%, Explode dealing #w% damage after moving a fixed distance." />
-        <string name="pdesc" value="Rolls an Oak Barrel full of bombs. The Oak Barrel will travel a certain distance, knocking back enemies in its path, before exploding. " />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Knockback Chance: #prop%, Explode dealing #w% damage after moving a fixed distance." />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Knockback Chance: #hcProp%, Explosion Damage Dealt after Moving Certain Distance: #w%." />
-    </imgdir>

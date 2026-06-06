@@ -1,5 +1,0 @@
-<imgdir name="80001281">
-        <string name="name" value="Snake Eye" />
-        <string name="desc" value="He&apos;s always watching... When summoned by a soul weapon, Arkarium poisons and damages nearby monsters." />
-        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec\nCooldown: #cooltime sec" />
-    </imgdir>

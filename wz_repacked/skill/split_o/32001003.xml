@@ -1,7 +1,0 @@
-<imgdir name="32001003">
-        <string name="name" value="Dark Aura" />
-        <string name="desc" value="Produces a mysterious aura that increases the damage done by your party members. Cancel the aura by pressing the skill key again. Can be used simultaneously with other auras." />
-        <string name="h" value="MP Cost: #mpCon, Damage Done: +#x%" />
-        <string name="pdesc" value="Produces a mysterious aura that increases the damage done by your party members. Cancel the aura by pressing the skill key again. Can be used simultaneously with other auras." />
-        <string name="ph" value="MP Cost: #mpCon, Damage Done: +#x%" />
-    </imgdir>

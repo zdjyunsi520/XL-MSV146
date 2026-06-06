@@ -1,8 +1,0 @@
-<imgdir name="23111000">
-        <string name="name" value="Stunning Strikes" />
-        <string name="desc" value="Fires a volley of arrows at several enemies with a chance to stun. Any enemies who are already stunned will receive additional damage." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Damage to Stunned Enemies:  #x%" />
-        <string name="pdesc" value="Quickly fire multiple arrows at enemies in front of you. Enemies who are hit have a chance to be stunned." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Damage to Stunned Enemies:  #x%" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Arrows: #bulletCount, Max Monsters Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Damage to Stunned Enemies:  #x%" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="30020232">
-        <string name="name" value="Supply Surplus" />
-        <string name="desc" value="Recharges 1 unit of power at set intervals, and gives you a chance to recharge on hit or evade. Your stats will also increase, based on your current level of charge. This skill may use up power." />
-        <string name="h" value="One power unit recharged every 4 sec, and #prop% chance to recharge one unit on hit/evade. #strR% all stats per extra power unit." />
-    </imgdir>

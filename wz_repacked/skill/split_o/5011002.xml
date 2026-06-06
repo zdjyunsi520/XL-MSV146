@@ -1,8 +1,0 @@
-<imgdir name="5011002">
-        <string name="name" value="Blast Back" />
-        <string name="desc" value="Fires the cannon while quickly moving backwards. Can decrease the speed of target for a fixed period of time." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #time sec" />
-        <string name="pdesc" value="Fires the cannon while quickly moving backwards. Can decrease the speed of target for a fixed period of time." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, #prop% chance of decreasing the Movement Speed of target by #z for #hcTime sec" />
-    </imgdir>

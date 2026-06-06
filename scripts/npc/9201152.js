@@ -4,7 +4,7 @@ random=Math.floor(Math.random() * prizes.length++);
 var gayrobby=0;  
 
 function start() {
-    cm.sendYesNo("Would you like to use your 100 donorpoints?");
+    cm.sendYesNo("当你有转蛋券时再来吧");
 }
 
 function action(m,t,s){
@@ -19,11 +19,11 @@ function action(m,t,s){
             cm.gainMeso(100);
            (cm.getPlayer().getPoints() - 100);  // if you changed the above ID, make sure you change this one too
         }else{
-            cm.sendOk("Come back when you have a Gachapon Ticket");
+            cm.sendOk("当你准备好试试运气时再来吧！");
             cm.dispose();
         }
     }else{
-        cm.sendOk("Come back when your ready to take a chance at fortune!");
+        cm.sendOk("当你准备好试试运气时再来吧！");
         cm.dispose();
     }
 }  

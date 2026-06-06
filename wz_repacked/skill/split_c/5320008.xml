@@ -1,5 +1,0 @@
-<imgdir name="5320008">
-        <string name="name" value="超级猴子魔法" />
-        <string name="desc" value="升级猴子魔法，在一段时间内提升附近所有队员的HP、MP、所有属性、移动速度、跳跃力、命中率和回避率。可以与其他增益叠加。\n需要技能：#c猴子魔法 Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, HP: +#indieMhp, MP: +#indieMmp, All Stats: +#indieAllStat, Speed: +#indieSpeed, Jump +#indieJump, Accuracy: +#indieAcc, Avoidability +#indieEva" />
-    </imgdir>

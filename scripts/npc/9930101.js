@@ -20,37 +20,37 @@ function start() {
 function action(mode, t, s) {
 	(mode == 1 ? status++ : mode == 0 ? status-- : cm.dispose());
 	if (status == 0) {
-		cm.sendNext("H-Hello, I'm Missi, the #rC-Custom Equipment Vender#k....nya..");
+		cm.sendNext("请-请选择你想要的..#b\r\n#L0#帽子\r\n#L1#脸饰\r\n#L2#眼饰\r\n#L3#披风\r\n#L4#特殊");
 	} else if (status == 1) {
-		cm.sendSimple("C-Choose what you would like..#b\r\n#L0#Hats\r\n#L1#Face Accessories\r\n#L2#Eye Accessories\r\n#L3#Capes\r\n#L4#Special");
+		cm.sendSimple("你-你想买什么？#b");
 	} else if (status == 2) {
-		text = "W-What would you like to buy?#b";
+		text = "萌币";
 		switch(s) {
 			case 0:
 				type = 1;
-				for (var iH = 0; iH < hats.length; text+= "\r\n#L"+iH+"#" + "#z" + hats[iH][0] + "# - " + hats[iH][1] + " Munny", iH++);
+				for (var iH = 0; iH < hats.length; text+= "\r\n#L"+iH+"#" + "#z" + hats[iH][0] + "# - " + hats[iH][1] + "我暂时卖完了...对-对不起..", iH++);
 				break;
 			case 1:
 				type = 2;
-				for (var iFA = 0; iFA < faceAccs.length; text+= "\r\n#L"+iFA+"# " + "#z" + faceAccs[iFA][0] + "# - " + faceAccs[iFA][1] + " Munny", iFA++);
+				for (var iFA = 0; iFA < faceAccs.length; text+= "\r\n#L"+iFA+"# " + "#z" + faceAccs[iFA][0] + "# - " + faceAccs[iFA][1] + "我暂时卖完了...对-对不起..", iFA++);
 				break;
 			case 2:
 				type = 3;
-				cm.sendOk("I'm all sold out for now...s-sorry..");
+				cm.sendOk("请-请再来..");
 				cm.dispose();
 				return;
 				//for (var iEA = 0; iEA < eyeAccs.length; text+= "\r\n#L"+iEA+"# " + "#z" + eyeAccs[iEA][0] + "#"; iEA++)
 				//break;
 			case 3:
 				type = 4;
-				cm.sendOk("I'm all sold out for now...s-sorry..");
+				cm.sendOk("请-请再来..");
 				cm.dispose();
 				return;
 				for (var iC = 0; iC < capes.length; text+= "\r\n#L"+iC+"# " + "#z" + capes[iC][0] + "#", iC++);
 				//break;
 			case 4:
 				type = 5;
-				cm.sendOk("I'm all sold out for now...s-sorry..");
+				cm.sendOk("请-请再来..");
 				cm.dispose();
 				return;
 				//for (var iS = 0; iS < specials.length; text+= "\r\n#L"+iS+"# " + "#z" + specials[iS][0] + "#"; iS++)
@@ -66,55 +66,55 @@ function action(mode, t, s) {
 					if (cm.canHold(hats[toBuy][0])) {
 						cm.gainItem(currency, -hats[toBuy][1]);
 						cm.gainItem(hats[toBuy][0], 1);
-						cm.sendOk("P-please come a-again..");
+						cm.sendOk("请-请至少留一个空位！");
 					} else
-						cm.sendOk("P-please have at least one free slot!");
+						cm.sendOk("啊，你的不够！");
 				} else
-					cm.sendOk("Kyaa, you don't have enough!");
+					cm.sendOk("啊，你的不够！");
 				break;
 			case 1:
 				if (cm.haveItem(currency, faceAccs[toBuy][1])) {
 					if (cm.canHold(faceAccs[toBuy][0])) {
 						cm.gainItem(currency, -faceAccs[toBuy][1]);
 						cm.gainItem(faceAccs[toBuy][0], 1);
-						cm.sendOk("P-please come a-again..");
+						cm.sendOk("请-请至少留一个空位！");
 					} else
-						cm.sendOk("P-please have at least one free slot!");
+						cm.sendOk("啊，你的不够！");
 				} else
-					cm.sendOk("Kyaa, you don't have enough!");
+					cm.sendOk("啊，你的不够！");
 				break;
 			case 2:
 				if (cm.haveItem(currency, eyeAccs[toBuy][1])) {
 					if (cm.canHold(eyeAccs[toBuy][0])) {
 						cm.gainItem(currency, -eyeAccs[toBuy][1]);
 						cm.gainItem(eyeAccs[toBuy][0], 1);
-						cm.sendOk("P-please come a-again..");
+						cm.sendOk("请-请至少留一个空位！");
 					} else
-						cm.sendOk("P-please have at least one free slot!");
+						cm.sendOk("啊，你的不够！");
 				} else
-					cm.sendOk("Kyaa, you don't have enough!");
+					cm.sendOk("啊，你的不够！");
 				break;
 			case 3:
 				if (cm.haveItem(currency, capes[toBuy][1])) {
 					if (cm.canHold(capes[toBuy][0])) {
 						cm.gainItem(currency, -capes[toBuy][1]);
 						cm.gainItem(capes[toBuy][0], 1);
-						cm.sendOk("P-please come a-again..");
+						cm.sendOk("请-请至少留一个空位！");
 					} else
-						cm.sendOk("P-please have at least one free slot!");
+						cm.sendOk("啊，你的不够！");
 				} else
-					cm.sendOk("Kyaa, you don't have enough!");
+					cm.sendOk("啊，你的不够！");
 				break;
 			case 4:
 				if (cm.haveItem(currency, specials[toBuy][1])) {
 					if (cm.canHold(specias[toBuy][0])) {
 						cm.gainItem(currency, -specials[toBuy][1]);
 						cm.gainItem(specials[toBuy][0], 1);
-						cm.sendOk("P-please come a-again..");
+						cm.sendOk("请-请至少留一个空位！");
 					} else
-						cm.sendOk("P-please have at least one free slot!");
+						cm.sendOk("啊，你的不够！");
 				} else
-					cm.sendOk("Kyaa, you don't have enough!");
+					cm.sendOk("啊，你的不够！");
 				break;
 		}
 		cm.dispose();

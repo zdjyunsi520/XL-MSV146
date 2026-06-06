@@ -5,7 +5,7 @@ var mhair = Array(30000, 30010, 30020, 30030, 30040, 30050, 30060, 30070, 30080,
 var skin = Array(0, 1, 2, 3, 4, 5, 9, 10, 11);
  
 function start() {
-    cm.sendYesNo("This will permanently change the look of your character. Are you sure you want to proceed?");
+    cm.sendYesNo("这将永久改变你的角色外观。你确定要继续吗？");
 }
  
 function action(mode,type,selection) {

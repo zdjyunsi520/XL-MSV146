@@ -1,7 +1,0 @@
-<imgdir name="35111010">
-        <string name="name" value="卫星" />
-        <string name="desc" value="召唤&lt;卫星&gt;——小型遥控攻击装置。它们会攻击你正在攻击的怪物。最多可召唤3个卫星。再次按技能键取消召唤。" />
-        <string name="h" value="MP消耗：#mpCon，最大卫星数：#x，伤害：#damage%" />
-        <string name="pdesc" value="召唤卫星——小型遥控攻击装置。它们会攻击你正在攻击的怪物。最多可召唤3个卫星。再次按技能键取消召唤。" />
-        <string name="ph" value="MP消耗：#mpCon，最大卫星数：#x，伤害：#damage%" />
-    </imgdir>

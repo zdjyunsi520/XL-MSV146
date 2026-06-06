@@ -10,21 +10,21 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("What is it with you and that hero thing? Do you really think you're cut out to be a hero?");
+	  qm.sendNext("你和那个英雄的事是怎么回事？你真的觉得自己适合当英雄吗？");
 	} else if (status == 1) {
-      qm.sendNextPrevS("Sure, I'm going to be a legend, just like the five Maple Heroes!",14);
+      qm.sendNextPrevS("当然，我要成为一个传奇，就像五位冒险岛英雄一样！",14);
 	} else if  (status == 2)  {
-	  qm.sendNextPrev("Yeah. *snort* Sure.");
+	  qm.sendNextPrev("是啊。*哼* 当然了。");
 	} else if  (status == 3)  {
-	  qm.sendNextPrevS("You don't believe me? That's okay. What can I do to prove it to you?",14);
+	  qm.sendNextPrevS("你不信我？没关系。我该怎么做才能向你证明？",14);
 	} else if  (status == 4)  {
-	  qm.sendAcceptDecline("You know #bWolf Forest#k to the east? The place even grown-ups are afraid of? Go there... ALONE. Then maybe I'll believe you'll be a hero someday.");
+	  qm.sendAcceptDecline("你知道东边的#b狼之森林#k吗？连大人们都害怕的地方？去那里……一个人去。也许那样我就会相信你有朝一日能成为英雄。");
 	} else if  (status == 5)  {
-	  qm.sendNextS("You got it! Be back in a jiffy!",14);
+	  qm.sendNextS("没问题！马上回来！",14);
 	} else if  (status == 6)  {
-	  qm.sendNextPrev("W-wait! Really? Are you sure?");
+	  qm.sendNextPrev("等，等等！真的？你确定？");
 	} else if  (status == 7)  {
-	  qm.sendNextPrevS("Bah, a hero like me ain't scared of no forest!",14);
+	  qm.sendNextPrevS("哈，像我这样的英雄才不怕什么森林！",14);
 	} else if  (status == 8)  {
 	  qm.forceStartQuest();
 	  qm.dispose();

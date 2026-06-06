@@ -1,6 +1,6 @@
 function enter(pi) {
 	if (!pi.isLeader()) {
-		pi.playerMessage("Only the leader can go in this portal.");
+		pi.playerMessage("只有队长才能进入此传送门。");
 		return;
 	}
 	var ei = pi.getPlayer().getEventInstance();
@@ -18,7 +18,7 @@ function enter(pi) {
 			}
 		}
 		if (!canPass) {
-			pi.playerMessage("The portal is locked. All monsters must be defeated.");
+			pi.playerMessage("传送门被锁住了，必须消灭所有怪物。");
 		} else {
 			var nextMap = (pi.getMapId() + 1);
 			switch(pi.getMapId() - zeroMap) {

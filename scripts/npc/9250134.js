@@ -1,10 +1,10 @@
 function start() { 
-	cm.sendSimple("#rWelcome#k. Alien Fields are infested with aliens who have silver coins...Good Luck... \n #b\r\n\r\n#L0#Go to Alien field 1 #l\r\n#L1#Go to Alien field 2");
+	cm.sendSimple("抱歉，你必须达到120级以上才能进入这些地图。");
 } 
 
 function action(mode, type, selection) {
 	if (cm.getPlayer().getLevel() <  120) {
-		cm.sendOkay("Sorry., but you must be 120+ to enter the maps.");
+		cm.sendOkay("抱歉，你必须达到120级以上才能进入这些地图。");
 		cm.dispose();
 		return;
 	}

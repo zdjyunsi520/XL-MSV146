@@ -13,25 +13,25 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("What do you want to do?#b\n\r #L0#Go to Fishing Map#l\r\n#L1#Buy fishing nets#l#k");
+	cm.sendSimple("120张渔网需要300000金币。你想购买吗？");
     } else if (status == 1) {
 		if (selection == 0) {
 			cm.warp(cm.getMapId() == 970020000 ? 970020005 : 970020000, 0);
 			cm.dispose();
 		} else {
-			cm.sendYesNo("It requires 300000 meso for 120 nets. Do you want to purchase?");
+			cm.sendYesNo("祝你钓鱼愉快~");
 		}
     } else if (status == 2) {
 	    if (cm.canHold(2270008,120) && cm.getMeso() >= 300000) {
 		if (!cm.haveItem(2270008)) {
 		    cm.gainMeso(-300000);
 		    cm.gainItem(2270008, 120);
-		    cm.sendNext("Happy Fishing~");
+		    cm.sendNext("你已经有鱼饵了。");
 		} else {
-		    cm.sendNext("You already have fishing bait.");
+		    cm.sendNext("请检查你是否有足够的金币或充足的背包空间。");
 		}
 	    } else {
-		cm.sendOk("Please check if you have the required meso or sufficient inventory slot.");
+		cm.sendOk("请检查你是否有足够的金币或充足的背包空间。");
 	    }
 	    cm.safeDispose();
     }

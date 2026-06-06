@@ -1,7 +1,0 @@
-<imgdir name="4331000">
-        <string name="name" value="Bloody Storm" />
-        <string name="desc" value="A superior form of Slash Storm. Attacks multiple enemies at a very high speed with elaborate movements. Also provides passive damage increases for Tornado Spin and Flying Assaulter.\nRequired skill: #cLv. 20 Slash Storm#\nLv. 10 effect: Links to Lv. 10 Flying Assaulter" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount\n[Passive Effect: Increases damage of Tornado Spin and Flying Assaulter by #damR%]" />
-        <string name="pdesc" value="A superior form of Slash Storm. Attacks multiple enemies at a very high speed with elaborate movements. Also provides passive damage increases for Tornado Spin and Flying Assaulter.\nRequired skill: #cLv. 20 Slash Storm#\nLv. 10 effect: Links to Lv. 10 Flying Assaulter" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount\n[Passive Effect: Increases damage of Tornado Spin and Flying Assaulter by #damR%]" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="3210013">
-        <string name="name" value="Aggressive Resistance" />
-        <string name="desc" value="When attacking, create a barrier for a short time that absorbs a percentage of incoming damage. Every attack creates a new barrier." />
-        <string name="h" value="When attacking, for #time sec, #y% of dealt damage will be created as barrier. Absorbs #x% of incoming damage. Able to absorb up to #z% of Max HP" />
-    </imgdir>

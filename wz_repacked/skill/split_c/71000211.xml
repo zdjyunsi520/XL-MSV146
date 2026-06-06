@@ -1,5 +1,0 @@
-<imgdir name="71000211">
-        <string name="name" value="英雄战士-战神" />
-        <string name="desc" value="攻击时有概率恢复HP。" />
-        <string name="h" value="70% chance to recover #onHitHpRecoveryR% of Max HP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)." />
-    </imgdir>

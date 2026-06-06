@@ -1,7 +1,0 @@
-<imgdir name="5211002">
-        <string name="name" value="海鸥" />
-        <string name="desc" value="召唤训练有素的海鸥，它会向怪物投掷手榴弹！海鸥会自动寻找怪物，找到目标后投掷手榴弹并消失。" />
-        <string name="h" value="MP Cost: #mpCon, Gaviota Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="召唤训练有素的海鸥，它会向怪物投掷手榴弹！海鸥会自动寻找怪物，找到目标后投掷手榴弹并消失。" />
-        <string name="ph" value="MP Cost: #mpCon, Gaviota Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

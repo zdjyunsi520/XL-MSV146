@@ -1,7 +1,0 @@
-<imgdir name="1101006">
-        <string name="name" value="Rage" />
-        <string name="desc" value="Improves the Weapon ATT of allies for a short time, and reflects a multiple of the damage that you received. #cCan be stacked with other buffs#." />
-        <string name="pdesc" value="Improves the Weapon ATT of allies for a short time, and reflects a multiple of the damage that you received. #cCan be stacked with other buffs#." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT of Allies: +#indiePad. Damagae Absorbtion Rate: #x%, Damage Reflection: #y% of damage received." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT of Allies: +#indiePad. Damagae Absorbtion Rate: #x%, Damage Reflection: #y% of damage received." />
-    </imgdir>

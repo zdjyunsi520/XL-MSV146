@@ -1,5 +1,0 @@
-<imgdir name="20041226">
-        <string name="name" value="光谱之光" />
-        <string name="desc" value="[光之魔法]\n发射可控的光束。你可以#c按住技能键并使用方向键来控制光束的方向#。" />
-        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. #Steer the beams by holding the skill key and pressing ↑,↓.#" />
-    </imgdir>

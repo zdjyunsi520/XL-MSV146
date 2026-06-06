@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendSelfTalk("Where am I? I better walk a bit to the right to find out where I am.");
+	    cm.sendSelfTalk("我在哪里？我最好往右走一点，看看这是什么地方。");
         cm.dispose();
     }
 }

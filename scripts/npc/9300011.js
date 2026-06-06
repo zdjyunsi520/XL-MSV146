@@ -13,9 +13,9 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("The Gachapon machine is now ready. Each of the machine that are set up in different towns will give out different items.");
+	cm.sendNext("你甚至可能获得稀有物品。转蛋券可在商城购买。你想试试运气吗？");
     } else if (status == 1) {
-	cm.sendPrev("You may even acquire items that are hard to find. The Gachapon coupon is available in cash shop. Would you like to try your hands on it?");
+	cm.sendPrev("你甚至可能获得稀有物品。转蛋券可在商城购买。你想试试运气吗？");
     } else if (status == 2) {
 	cm.dispose();
     }

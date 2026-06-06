@@ -1,7 +1,0 @@
-<imgdir name="5311003">
-        <string name="name" value="Cannon Jump" />
-        <string name="desc" value="Fires the cannon at the ground, and uses the recoil to jump high into the air. As you jump up into the air, nearby enemies will receive damage." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Fires the cannon at the ground, and uses the recoil to jump high into the air. As you jump up into the air, nearby enemies will receive damage." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

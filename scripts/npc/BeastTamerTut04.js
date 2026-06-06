@@ -14,13 +14,13 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendNextS("Anything else an aspiring hero can do for you, kitty cat?",15);
+		cm.sendNextS("有的！只要转过身去一下。很快就好。我得，呃，做点事。",15);
     } else if (status == 1) {
-		cm.sendNextPrevS("Yup! Just turn around for a second. Real quick. I gotta, uh, do something.",1);
+		cm.sendNextPrevS("好了没？",1);
     } else if (status == 2) {
-	    cm.sendNextPrevS("Done yet?",15);
+	    cm.sendNextPrevS("不许偷看。先别转身！再给我一秒钟",15);
 	} else if (status == 3) {
-	    cm.sendNextPrevS("NO PEEKING. Don't turn around yet! Give me another second",1);
+	    cm.sendNextPrevS("不许偷看。先别转身！再给我一秒钟",1);
 	} else if (status == 4) {
 		cm.dispose();
 	}

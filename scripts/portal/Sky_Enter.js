@@ -5,7 +5,7 @@ function enter(pi) {
 		return true;
 	}
     if (pi.getPlayer().getParty() == null || !pi.isLeader()) {
-	pi.playerMessage(5, "The leader of the party must be here.");
+	pi.playerMessage(5, "队伍队长必须在这里。");
 	return false;
     }
 	var party = pi.getPlayer().getParty().getMembers();
@@ -27,17 +27,17 @@ function enter(pi) {
 	if (next && size >= 2) {
 		var em = pi.getEventManager("Dragonica");
 		if (em == null) {
-			pi.playerMessage(5, "This event is currently not available.");
+			pi.playerMessage(5, "此活动目前不可用。");
 		} else {
 			var prop = em.getProperty("state");
 			if (prop == null || prop.equals("0")) {
 				em.startInstance(pi.getParty(), pi.getMap(), 200);
 			} else {
-				pi.playerMessage(5, "Someone is already attempting this boss.");
+				pi.playerMessage(5, "已经有人在挑战这个BOSS了。");
 			}
 		}
 	} else {
-		pi.playerMessage(5, "Make sure all 2+ party members are in this map and level 120+ and have Soaring skill.");
+		pi.playerMessage(5, "请确保所有2名以上队员在本地图且等级达到120级以上并拥有飞行技能。");
 		return false;
 	}
         return true;

@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("I don't know.. maybe you can go #bHunt the Zombies#k for a clue. Maybe an item or something will lead you to it.");
+	qm.sendNext("我不太清楚..也许你可以去#b狩猎僵尸#k找线索。也许会有什么物品或东西能引导你找到它。");
 	qm.forceStartQuest();
 	qm.forceCompleteQuest();
 	qm.dispose();

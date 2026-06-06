@@ -1,7 +1,0 @@
-<imgdir name="4000010">
-        <string name="name" value="魔法盗窃" />
-        <string name="pdesc" value="有几率偷取目标的增益效果！" />
-        <string name="ph" value="Proc Chance: #prop%, Buff Duration: #time" />
-        <string name="desc" value="有几率偷取目标的增益效果！" />
-        <string name="h" value="Proc Chance: #prop%, Buff Duration: #time" />
-    </imgdir>

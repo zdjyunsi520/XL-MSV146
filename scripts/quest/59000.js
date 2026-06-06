@@ -10,13 +10,13 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("#b#h0##k, are you responsible for this? I know it's fun to pick on #b#p9390305##k, but it's really not very nice.");
+	  qm.sendNext("#b#h0##k，这是你干的吗？我知道捉弄#b#p9390305##k很有趣，但这真的不太好。");
 	} else if (status == 1) {
-      qm.sendNextPrev("I'm ashamed of you. Go apologize to #b#p9390305##k!");
+      qm.sendNextPrev("我为你感到羞愧。去跟#b#p9390305##k道歉！");
 	} else if  (status == 2)  {
-	  qm.sendAcceptDecline("A true hero is never afraid to apologize!");
+	  qm.sendAcceptDecline("一个真正的英雄从不害怕道歉！");
 	} else if  (status == 3)  {
-	  qm.sendNextS("I'm going to give the most epic apology ever!",15); 
+	  qm.sendNextS("我要做一个史上最史诗级的道歉！",15); 
 	} else if  (status == 4)  {
 	  qm.forceStartQuest();
 	  qm.sendQuestWindow();
@@ -33,13 +33,13 @@ function end(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-		qm.sendNextS("Hilga, I am truly, deeply, totally, completely sorry.",14); 
+		qm.sendNextS("希尔加，我真心地、深深地、彻底地、完全地感到抱歉。",14); 
 	} else if (status == 1) {
-	    qm.sendNextPrevS("You pulled this prank on me, #h0#?",0,9390305); 
+	    qm.sendNextPrevS("是你对我恶作剧的，#h0#？",0,9390305); 
 	} else if (status == 2) {
-	    qm.sendNextPrevS("I thought everyone would find it entertaining, but I was wrong. I'm epically, heroically, massively sorry. Will you forgive me?",14); 
+	    qm.sendNextPrevS("我以为大家会觉得这很有趣，但我错了。我史诗级地、英雄般地、超级地抱歉。你能原谅我吗？",14); 
 	} else if (status == 3) {
-	    qm.sendNextPrevS("Sigh. You're still young, so I suppose I have to let it slide. Don't do it again, okay?",0,9390305); 
+	    qm.sendNextPrevS("唉。你还小，所以我就不跟你计较了。别再这样了，好吗？",0,9390305); 
 	} else if (status == 4) {
 	    qm.forceCompleteQuest();
 	    qm.dispose();

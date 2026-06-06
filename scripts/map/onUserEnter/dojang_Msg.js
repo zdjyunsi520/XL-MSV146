@@ -24,13 +24,13 @@
 	Map(s):	Mu Lung Dojo Entrance
 	Desc:   Sends the entrance message or the taunt message from that dojo guy
 */
-var messages = Array("Your courage for challenging the Mu Lung Dojo is commendable!", "If you want to taste the bitterness of defeat, come on in!", "I will make you thoroughly regret challenging the Mu Lung Dojo! Hurry up!");
+var messages = Array("你挑战武陵道场的勇气值得称赞！", "如果你想尝尝失败的滋味，进来吧！", "我会让你彻底后悔挑战武陵道场！快点！");
 
 function start(ms) {
     if (ms.getPlayer().getMap().getId() == 925020000) {
         ms.getPlayer().startMapEffect(messages[(Math.random() * messages.length) | 0], 5120024);
     } else {
         ms.getPlayer().resetEnteredScript(); //in case the person dcs in here we set it at dojang_tuto portal
-        ms.getPlayer().startMapEffect("Ha! Let's see what you got! I won't let you leave unless you defeat me first!", 5120024);
+        ms.getPlayer().startMapEffect("哈！让我看看你的本事！除非你先打败我，否则我不会让你离开！", 5120024);
     }
 }

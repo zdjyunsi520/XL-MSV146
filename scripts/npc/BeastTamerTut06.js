@@ -12,11 +12,11 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		cm.sendNextNoESC("Now, go ahead and play fetch with the friendly wolves using that tree branch! Or were you gonna smack 'em? I forget.");
+		cm.sendNextNoESC("哇哦，你真聪明！嘿，屏幕底部那个红色条是什么？上面写着'HP'...如果那个条变低了就告诉我，我会帮你补满的，因为红色是我最喜欢的颜色！\r\n#i03800626#");
 		cm.forceStartQuest(59005);
 		cm.dispose();
 	//} else if (status == 2) {
-	//	cm.sendNextNoESC("Wowzers, you're clever! Hey, what's that red bar at the bottom of your screen? It says 'HP'... Let me know if that bar gets low and I'll fill it back up, because red is my favorite color!\r\n#i03800626#");
+	//	cm.sendNextNoESC("哇哦，你真聪明！嘿，屏幕底部那个红色条是什么？上面写着'HP'...如果那个条变低了就告诉我，我会帮你补满的，因为红色是我最喜欢的颜色！\r\n#i03800626#");
 	//} else if (status == 3) {
      //   cm.forceStartQuest(59005);
 	//	cm.dispose();

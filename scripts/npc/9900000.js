@@ -43,16 +43,16 @@ function action(mode, type, selection) {
 	status--;
     if (status == 0) {
 	if (cm.getPlayerStat("GM") == 0) {
-	    cm.sendOk("Sorry, but only Game Masters with a GM Level of 5 or more can use this.");
+	    cm.sendOk("嘿！我可以改变你的外貌！你想改变什么？\r\n#L0##b肤色#k#l\r\n#L1##b发型#k#l\r\n#L2##b发色#k#l\r\n#L3##b脸型#k#l\r\n#L4##b瞳色#k#l");
 	    cm.dispose();
 	} else {
-	    cm.sendSimple("Hey there! I could change the way you look! What would you like to change?\r\n#L0##bSkin#k#l\r\n#L1##bHair#k#l\r\n#L2##bHair Color#k#l\r\n#L3##bFace#k#l\r\n#L4##bEye Color#k#l");
+	    cm.sendSimple("选择一个你喜欢的肤色。");
 	}
     } else if (status == 1) {
 	if (cm.getPlayerStat("GENDER") == 0) {
 	    if (selection == 0) {
 		beauty = 1;
-		cm.sendStyle("Pick a skin color that you would like.", skin);
+		cm.sendStyle("选择一个你喜欢的发型。", skin);
 	    } else if (selection == 1) {
 		beauty = 2;
 		hairnew = Array();
@@ -63,7 +63,7 @@ function action(mode, type, selection) {
 			hairnew.push(mhair[i] + parseInt(cm.getPlayerStat("HAIR") % 10));
 		    }
 		}
-		cm.sendStyle("Pick a hairstyle that you would like.", hairnew);
+		cm.sendStyle("选择一个你喜欢的发色。", hairnew);
 	    } else if (selection == 2) {
 		beauty = 3;
 		haircolor = Array();
@@ -75,7 +75,7 @@ function action(mode, type, selection) {
 			haircolor.push(current + i);
 		    }
 		}
-		cm.sendStyle("Pick a hair color that you would like.", haircolor);
+		cm.sendStyle("选择一个你喜欢的新脸型。", haircolor);
 	    } else if (selection == 3) {
 		beauty = 4;
 		facenew = Array();
@@ -86,7 +86,7 @@ function action(mode, type, selection) {
 			facenew.push(mface[i] + cm.getPlayerStat("FACE") % 1000 - (cm.getPlayerStat("FACE") % 100));
 		    }
 		}
-		cm.sendStyle("Pick a new face that you would like.", facenew);
+		cm.sendStyle("选择一个你喜欢的瞳色。", facenew);
 	    } else if (selection == 4) {
 		beauty = 5;
 		var current = cm.getPlayerStat("FACE") % 100 + 20000;
@@ -96,12 +96,12 @@ function action(mode, type, selection) {
 		} else {
 		    colors = Array(current, current + 100, current + 200, current + 300, current + 400, current + 500, current + 600, current + 700, current + 800);
 		}
-		cm.sendStyle("Pick a eye color that you would like.", colors);
+		cm.sendStyle("选择你想要的新眼睛。", colors);
 	    }
 	} else {
 	    if (selection == 0) {
 		beauty = 1;
-		cm.sendStyle("Pick a skin color that you would like.", skin);
+		cm.sendStyle("选择一个你喜欢的发型。", skin);
 	    } else if (selection == 1) {
 		if (cm.getJob() == 10112) {
 		beauty = 6;
@@ -119,7 +119,7 @@ function action(mode, type, selection) {
 		    	hairnew.push(fhair[i] + parseInt(cm.getPlayerStat("HAIR") % 10));
 		    }
 		}
-		cm.sendStyle("Pick a hairstyle that you would like.", hairnew);
+		cm.sendStyle("选择一个你喜欢的发色。", hairnew);
 	    } else if (selection == 2) {
 		beauty = 3;
 		haircolor = Array();
@@ -131,7 +131,7 @@ function action(mode, type, selection) {
 		    		haircolor.push(current + i);
 			}
 		}
-		cm.sendStyle("Pick a hair color that you would like.", haircolor);
+		cm.sendStyle("选择一个你喜欢的新脸型。", haircolor);
 	    } else if (selection == 3) {
 		beauty = 4;
 		facenew = Array();
@@ -142,7 +142,7 @@ function action(mode, type, selection) {
 		    	facenew.push(fface[i] + cm.getPlayerStat("FACE") % 1000 - (cm.getPlayerStat("FACE") % 100));
 		    }
 		}
-		cm.sendStyle("Pick new eyes that you would like.", facenew);
+		cm.sendStyle("选择你想要的新眼睛。", facenew);
 	    } else if (selection == 4) {
 		beauty = 5;
 		var current = cm.getPlayerStat("FACE") % 100 + 21000;
@@ -152,7 +152,7 @@ function action(mode, type, selection) {
 		} else {
 			colors = Array(current, current + 100, current + 200, current + 300, current + 400, current + 500, current + 600, current + 700, current + 800);
 		}
-		cm.sendStyle("Pick a eye color that you would like.", colors);
+		cm.sendStyle("选择你想要的新眼睛。", colors);
 	    }
 	}
     } else if (status == 2) {

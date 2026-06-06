@@ -6,7 +6,7 @@
 
 function start(){
 	if (cm.getQuestStatus(2214) == 1 && !cm.haveItem(4031894)) { 
-		cm.sendOk("You have found a Crumpled Piece of Paper.");
+		cm.sendOk("你找到了一张皱巴巴的纸条。");
 		cm.gainItem(4031894,1);
 	} else {
 	cm.sendOk("...");

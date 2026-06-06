@@ -1,7 +1,0 @@
-<imgdir name="22131001">
-        <string name="name" value="Magic Shield" />
-        <string name="desc" value="Creates a protective shield that absorbs a fixed amount of damage received by party members for a set duration." />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage Absorption: #x%, DEF: +#pdd, Duration: #time sec\nCooldown: #cooltime sec\nPassive Effects - Max HP: +#mhpR%" />
-        <string name="pdesc" value="Creates a protective shield that absorbs a fixed amount of damage received by party members for a set duration. [Cooldown: 90 sec]" />
-        <string name="ph" value="MP Cost: #mpCon, Damage Absorbed: #x%, Duration: #time sec\nCooldown: #cooltime sec" />
-    </imgdir>

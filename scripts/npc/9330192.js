@@ -20,10 +20,10 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 		if(cm.getChar().getMapId()==744000000){
-			selStr = "What's the hold up!?Let's go to School start challenge.#k.#b\r\n";
-			selStr+="#L1##eEnter School#n(Successful challenge reward NX)#l\r\n";
-			selStr+="#L3##eReceive#n #z5252017# (Free)#l\r\n";
-			selStr+="#L2#I just wanted to see.lol.#l";
+			selStr = "#L1##e进入学校#n(挑战成功奖励NX)#l\r\n";
+			selStr+="#L3##e领取#n #z5252017# (免费)#l";
+			selStr+="#L2#我只是来看看的。哈哈。#l";
+			selStr+="请向管理员报告。";
 			cm.sendSimple(selStr);
 		}else{
 			cm.dispose();
@@ -35,7 +35,7 @@ function action(mode, type, selection) {
 			if(cm.haveItem(5252017)){
 				var em = cm.getEventManager("study");
 				if (em == null) {
-					cm.sendOk("please Report to GM.");
+					cm.sendOk(" 开始在");
 				} else {
 					var prop = em.getProperty("started");
 					if (prop == null || prop.equals("false")) {//prop.equals("false") || 
@@ -46,13 +46,13 @@ function action(mode, type, selection) {
 							cm.delbosslog("haogan"+(744000000+i));
 						}
 						cm.gainItem(5252017,-1);
-						cm.laba(-3,cm.getChar().getName()+" began to challenge HighSchool in "+cm.getC().getChannel()+" channel.");
+						cm.laba(-3,cm.getChar().getName()+" 频道挑战高校。 "+cm.getC().getChannel()+"该频道已开始挑战，请稍后再试。");
 					} else {
-						cm.sendOk("This channel has begun to challenge,please try again later.");
+						cm.sendOk("你无法进入，因为你没有钥匙！");
 					}
 				}
 			}else{
-				cm.sendOk("You maynot enter.because you donnt have key!");
+				cm.sendOk("恭喜，领取成功。");
 			}
 			cm.dispose();
 		}
@@ -63,9 +63,9 @@ function action(mode, type, selection) {
 			if(cm.getbosslog("study")<=2){
 				cm.setbosslog("study");
 				cm.gainItem(5252017,1);
-				cm.sendOk("Congratulations, to receive success.");
+				cm.sendOk("今天你无法领取钥匙了！请明天再来，或进入现金商城购买。");
 			}else{
-				cm.sendOk("Today you cannt receive keys!please Come tomorrow or Enter CashShop to buy.");
+				cm.sendOk("今天你无法领取钥匙了！请明天再来，或进入现金商城购买。");
 			}
 			cm.dispose();
 		}

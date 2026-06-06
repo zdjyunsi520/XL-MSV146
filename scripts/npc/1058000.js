@@ -27,10 +27,10 @@ if (mode == 1)
 else 
    status--;
     if (cm.haveItem(4033178)) {
-		cm.sendOk("Hoot! Hoooot!");
+		cm.sendOk("咕！咕咕！");
 		cm.dispose();
 	} else {
-		cm.sendOk("Hoot.. hoot");
+		cm.sendOk("咕.. 咕");
 		cm.gainItem(4033178,1);
 		cm.dispose();
 	} 

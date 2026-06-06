@@ -1,5 +1,0 @@
-<imgdir name="3101008">
-        <string name="name" value="掩护射击" />
-        <string name="desc" value="向后跳跃的同时射出箭矢。长按技能键可在空中快速连射~" />
-        <string name="h" value="MP消耗: #mpCon, 向后跳跃一定距离后长按技能键，在空中以最高#damage%的伤害攻击敌人，持续#time秒" />
-    </imgdir>

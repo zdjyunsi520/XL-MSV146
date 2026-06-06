@@ -1,7 +1,0 @@
-<imgdir name="4340001">
-        <string name="name" value="Venom" />
-        <string name="desc" value="Your dagger is permanently coated with venom. Enemies have a chance to be poisoned by the venom and continuously take damage. Can stack up to 3 times. The enemy&apos;s HP will not go below 1 through Venom.\n#cLv.11 or above: Mastery Book required##" />
-        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-        <string name="pdesc" value="Your dagger is permanently coated with venom. Enemies have a chance to be poisoned by the venom and continuously take damage. Can stack up to 3 times. The enemy&apos;s HP will not go below 1 through Venom.\n#cLv.11 or above: Mastery Book required##" />
-        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-    </imgdir>

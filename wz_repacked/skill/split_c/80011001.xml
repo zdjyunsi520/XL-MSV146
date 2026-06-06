@@ -1,5 +1,0 @@
-<imgdir name="80011001">
-        <string name="name" value="火炮" />
-        <string name="desc" value="使用船上安装的火炮进行射击。" />
-        <string name="h" value="攻击最多#mobCount个敌人。\n冷却时间: #cooltime秒" />
-    </imgdir>

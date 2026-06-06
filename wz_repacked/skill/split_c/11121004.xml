@@ -1,5 +1,0 @@
-<imgdir name="11121004">
-        <string name="name" value="天降圣剑" />
-        <string name="desc" value="召唤神圣之剑从天而降刺穿敌人，对BOSS怪物有效。" />
-        <string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，造成无法行动概率：#prop% 无法行动持续时间：#time秒 异常状态后伤害：+#x%\n冷却时间：#cooltime秒" />
-    </imgdir>

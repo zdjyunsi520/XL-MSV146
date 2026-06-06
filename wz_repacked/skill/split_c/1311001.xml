@@ -1,7 +1,0 @@
-<imgdir name="1311001">
-        <string name="name" value="龙碎击" />
-        <string name="desc" value="对前方的敌人进行多次突刺！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% to 3 enemies, Number of Stabs: #attackCount" />
-        <string name="pdesc" value="MP Cost: #mpCon, Damage: #d%, Max Enemies Hit: 3" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: 3, Number of Attacks: #attackCount" />
-    </imgdir>

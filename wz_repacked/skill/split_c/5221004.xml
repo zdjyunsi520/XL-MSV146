@@ -1,7 +1,0 @@
-<imgdir name="5221004">
-        <string name="name" value="速射" />
-        <string name="desc" value="快速发射子弹。按住技能键可连续射击，射击时可以左右移动。学习速射技能后可以#c使用舰炮#~\n前置技能: #c三连射击 Lv. 20#" />
-        <string name="h" value="MP消耗: #mpCon，每发伤害: #damage%" />
-        <string name="pdesc" value="快速发射子弹。按住技能键可连续射击。学习速射技能后可以#c使用舰炮#~\n前置技能: #c三连射击 Lv. 20#" />
-        <string name="ph" value="MP消耗: #mpCon，每发伤害: #damage%" />
-    </imgdir>

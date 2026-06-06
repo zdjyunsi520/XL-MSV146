@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else 
 	status--;
     if (status == 0) {
-    	cm.sendOkS("Help me! I'm totally stuck 'cuz of all the monsters!\r\n\r\n#b(Defeat all nearby monsters.)",4);
+    	cm.sendOkS("救命啊！我被这些怪物困住了！\r\n\r\n#b（击败附近所有怪物。）",4);
     	cm.dispose();
     }
 }

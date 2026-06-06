@@ -1,5 +1,0 @@
-<imgdir name="1210016">
-        <string name="name" value="神圣之盾" />
-        <string name="desc" value="被击中时生成保护之盾，#c最多吸收10次攻击并提升武器攻击力#。护盾持续90秒，冷却后才能再次激活。不会被敌人攻击打破~" />
-        <string name="h" value="护盾触发几率(被击中时): #prop%，持续#time秒，#c武器攻击力: +#epad，吸收敌人攻击次数: #x#，对按最大HP一定比例造成伤害的攻击伤害 -#y%，激活后#cooltime秒内无法再次生成护盾。" />
-    </imgdir>

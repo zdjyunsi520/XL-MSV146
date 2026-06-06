@@ -8,9 +8,9 @@ function start(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		qm.sendNext("Greetings! Isn't this just the perfect weather for a journey? I'm SKipper, the captain of this fine ship. You must be a new Explorer, eh? Nice to meet you.");
+		qm.sendNext("你好！这不是出门旅行的完美天气吗？我是斯基普，这艘好船的船长。你一定是一位新冒险者，嗯？很高兴认识你。");
 	} else if (status == 1) {
-		qm.sendAcceptDecline("We're not quite ready to leave, so feel free to look around the ship while we're waiting.");
+		qm.sendAcceptDecline("我们还没准备好出发，所以在等候期间随意在船上逛逛吧。");
 	} else if (status == 2) {
 		qm.forceCompleteQuest();
 		qm.warp(3000000,0);

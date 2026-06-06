@@ -20,7 +20,7 @@ function action(mode, type, selection) {
 	status--;
 
     if (status == 0) {
-	cm.sendSimple("If you had wings, I'm sure you could go there.  But, that alone won't be enough.  If you want to fly though the wind that's sharper than a blade, you'll need tough scales as well.  I'm the only Halfling left that knows the way back... If you want to go there, I can transform you.  No matter what you are, for this moment, you will become a #bDragon#k...\r\n #L0##bI want to become a dragon.#k#l");
+	cm.sendSimple("如果你有翅膀的话，我相信你能飞到那里。但是，光有翅膀还不够。如果你想穿越比刀刃还锋利的风，你还需要坚硬的鳞片。我是仅存的知道回去之路的半龙人……如果你想去那里，我可以将你变形。无论你是什么，在这一刻，你将成为一条#b龙#k……\r\n #L0##b我想变成一条龙。#k#l");
     } else if (status == 1) {
 	cm.useItem(2210016);
 	cm.warp(200090500, 0);

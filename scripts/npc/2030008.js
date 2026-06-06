@@ -40,25 +40,25 @@ function action(mode, type, selection) {
 	if (cm.getPlayerStat("LVL") >= 50) {
 	    if (cm.getQuestStatus(100200) != 2 && cm.getQuestStatus(100200) != 1) {
 		cm.startQuest(100200);
-		cm.sendOk("You want to be permitted to do the Zakum Dungeon Quest?  Well, I, #bAdobis#k... judge you to be suitable.  You should be safe roaming around the dungeon.  Just be careful...");
+		cm.sendOk("你想获得扎昆地下城任务的许可？好吧，我#b阿多比斯#k……认为你有资格。你在地下城里应该是安全的。但要小心……");
 		cm.dispose();
 		return;
 	    } else if (cm.getQuestStatus(100201) == 1) {
 		// if they have gold teeth and the other items, they are good to go
 		teethmode = 1;
-		cm.sendNext("Have you got the items I asked for?  This ain't no charity.");
+		cm.sendNext("你带了我要的物品了吗？这不是慈善机构。");
 	    } else {
 		if (cm.haveItem(4001109)) {
-		    cm.sendSimple("Well... alright. You seem more than qualified for this.\n\rWhich one of these tasks do you want to tackle on? #b\r\n#L0#Explore the Dead Mine. (Level 1)#l\r\n#L1#Observe the Zakum Dungeon. (Level 2)#l\r\n#L2#Request for a refinery. (Level 3)#l\r\n#L3#Enter the center of Lava.#l\r\n#L4#Skip the Quest.#l");
+		    cm.sendSimple("嗯……好吧。你看起来完全有资格。\n\r你想先处理哪项任务？ #b\r\n#L0#探索死亡矿山。（第1阶段）#l\r\n#L1#观察扎昆地下城。（第2阶段）#l\r\n#L2#请求精炼。（第3阶段）#l\r\n#L3#进入熔岩中心。#l\r\n#L4#跳过任务。#l");
 		} else {
-		    cm.sendSimple("Well... alright. You seem more than qualified for this.\n\rWhich one of these tasks do you want to tackle on? #b\r\n#L0#Explore the Dead Mine. (Level 1)#l\r\n#L1#Observe the Zakum Dungeon. (Level 2)#l\r\n#L2#Request for a refinery. (Level 3)#l\r\n#L4#Skip the Quest.#l");
+		    cm.sendSimple("嗯……好吧。你看起来完全有资格。\n\r你想先处理哪项任务？ #b\r\n#L0#探索死亡矿山。（第1阶段）#l\r\n#L1#观察扎昆地下城。（第2阶段）#l\r\n#L2#请求精炼。（第3阶段）#l\r\n#L4#跳过任务。#l");
 		}
 	    }
 	    if (cm.getQuestStatus(100201) == 2) { // They're done the quests
 		teethmode = 2;
 	    }
 	} else {
-	    cm.sendOk("Please come back to me when you've become stronger.  I've seen a few adventurers in my day, and you're far too weak to complete my tasks.");
+	    cm.sendOk("等你变得更强了再来找我吧。我见过不少冒险者，你还太弱了，无法完成我的任务。");
 	    cm.dispose();
 	}
     } else if (status == 1) {
@@ -72,27 +72,27 @@ function action(mode, type, selection) {
 		    cm.removeAll(4031062);
 		    cm.gainItem(4000082, -30);
 		    cm.gainItem(4001017, 5);
-		    cm.sendNext("Here it is. You will now be able to enter the alter of the Zakum Dungeon when the door on the left is open.. You'll need #b#t4001017##k with you in order to go through the door and enter the stage. Now, let's see how many can enter this place ...?");
+		    cm.sendNext("就是这个。当左边的门打开时，你将能够进入扎昆地下城的祭坛。你需要带着#b#t4001017##k才能通过那扇门进入下一阶段。现在，让我看看能有多少人进入这个地方……？");
 		    cm.completeQuest(100201);
 		    cm.completeQuest(100200);
 		} else {
-		    cm.sendNext("Hmmm... are you sure you have all the items required to make #rEye of Fire#k with you? If so, then please check and see if your etc. inventory is full or not.");
+		    cm.sendNext("嗯……你确定你有制作#r火焰之眼#k所需的所有材料吗？如果是的话，请检查一下你的其他物品栏是否满了。");
 		}
 		cm.dispose();
 	    } else { // go get more
-		cm.sendNext("You shtill didn't get me my teef! Howsh a man shupposhed to conshentrate wifout teef?");
+		cm.sendNext("你还没把我的牙齿拿来！一个男人没有牙齿怎么集中精神啊？");
 		cm.dispose();
 	    }
 	    return;
 	}
 	if (selection == 0) { //ZPQ
 	    if (cm.getParty() == null) { //no party
-		cm.sendNext("You are not currently in a party right now. You may only tackle this assignment as a party.");
+		cm.sendNext("你现在没有组队。你只能以队伍的形式执行此任务。");
 		cm.safeDispose();
 		return;
 	    }
 	    else if (!cm.isLeader()) { //not party leader
-		cm.sendNext("Please have the leader of your party speak with me.");
+		cm.sendNext("请让你的队伍队长来和我说话。");
 		cm.safeDispose();
 		return;
 	    }
@@ -113,18 +113,18 @@ function action(mode, type, selection) {
 		    //all requirements met, make an instance and start it up
 		    var em = cm.getEventManager("ZakumPQ");
 		    if (em == null) {
-			cm.sendOk("I can't let you in for unknown reasons. Please try again later.");
+			cm.sendOk("由于未知原因我无法让你进入。请稍后再试。");
 		    } else {
 			var prop = em.getProperty("state");
 			if (prop.equals("0") || prop == null) {
 			    em.startInstance(cm.getParty(), cm.getMap());
 			} else {
-			    cm.sendOk("Another party has already started this quest. Please try again later.");
+			    cm.sendOk("另一个队伍已经开始此任务了。请稍后再试。");
 			}
 		    }
 		    cm.dispose();
 		} else {
-		    cm.sendNext("Please make sure all of your members are qualified to begin my trials...");
+		    cm.sendNext("请确保你的所有成员都符合开始试炼的条件……");
 		    cm.dispose();
 		}
 	    }
@@ -132,25 +132,25 @@ function action(mode, type, selection) {
 	    stage = 1;
 	    if (cm.haveItem(4031061) && !cm.haveItem(4031062)) {
 		// good to go
-		cm.sendYesNo("You have safely cleared the 1st stage. There's still a long way to go before meeting the boss of Zakum Dungeon, however. So, what do you think? Are you ready to move on to the next stage?");
+		cm.sendYesNo("你已安全通过第1阶段。不过要见到扎昆地下城的BOSS还有很长的路要走。那么，怎么样？准备好进入下一阶段了吗？");
 	    } else {
 		if (cm.haveItem(4031062))
-		    cm.sendNext("You've already got the #bBreath of Lava#k, you don't need to do this stage.");
+		    cm.sendNext("你已经有#b火焰之息#k了，不需要再做这个阶段。");
 		else
-		    cm.sendNext("It doesn't look like you have cleared the previous stage, yet. Please beat the previous stage before moving onto the next level.");
+		    cm.sendNext("看起来你还没有通过前一个阶段。请先通过前一个阶段再进入下一关。");
 		cm.dispose();
 	    }
 	} else if (selection == 2) { //Golden Tooth Collection
 	    stage = 2;
 	    if (teethmode == 2 && cm.haveItem(4031061) && cm.haveItem(4031062)) {
 		// Already done it once, they want more
-		cm.sendYesNo("If you want more #bEyes of Fire#k, you need to bring me the same #b30 Zombie's Lost Gold Tooth#k.  Turns out gold dentures don't last long, and I need a new one.\r\nDo you have those teeth for me?");
+		cm.sendYesNo("如果你想要更多#b火焰之眼#k，你需要给我同样数量的#b30颗僵尸丢失的金牙#k。事实证明金假牙也不耐用，我需要一副新的。\r\n你带牙齿来了吗？");
 	    } else if (cm.haveItem(4031061) && cm.haveItem(4031062)) {
 		// check if quest is complete, if so reset it (NOT COMPLETE)
-		cm.sendYesNo("Okay, you've completed the earlier trials.  Now, with a little hard work I can get you the #bseeds of Zakum#k necessary to enter combat.  But first, my teeths are not as good as they used to be.  You ever seen a dentist in Maple Story?  Well, I heard the Miner Zombies have gold teeth.  I'd like you to collect #b30 Zombie's Lost Gold Tooth#k so I can build myself some dentures.  Then I'll be able to get you the items you desire.\r\nRequired:\r\n#i4000082##b x 30");
+		cm.sendYesNo("好的，你已经完成了之前的试炼。现在，只要稍加努力，我就能给你进入战斗所需的#b扎昆种子#k。但首先，我的牙齿不如从前了。你在枫之谷见过牙医吗？我听说矿工僵尸有金牙。我希望你收集#b30颗僵尸丢失的金牙#k，这样我就能做一副假牙了。然后我就能给你你想要的东西了。\r\n所需材料：\r\n#i4000082##b x 30");
 				
 	    } else {
-		cm.sendNext("Please complete the earlier trials before attempting this one.");
+		cm.sendNext("请先完成之前的试炼再尝试这个。");
 		cm.dispose();
 	    }
 	} else if (selection == 3) { // Enter the center of Lava, quest
@@ -158,15 +158,15 @@ function action(mode, type, selection) {
 	    if (dd != null && cm.haveItem(4001109)) {
 		dd.startInstance(cm.getPlayer());
 	    } else {
-		cm.sendOk("An unknown error occured.");
+		cm.sendOk("发生了未知错误。");
 	    }
 	    cm.dispose();
 	} else if (selection == 4) {
 	    if (cm.getQuestStatus(100200) == 2) {
-		cm.sendOk("You're already done my quests.");
+		cm.sendOk("你已经完成了我的所有任务。");
 		cm.dispose();
 	    } else {
-	    	cm.sendYesNo("So, you wish to bribe me? Ha, I do not take them lightly. You will have to pay up #e300,000,000#n mesos for me to let you through!");
+	    	cm.sendYesNo("哦，你想贿赂我？哈，我可不会轻易接受。你需要支付#e3亿#n金币我才能让你通过！");
 		status = 3;
 	    }
 	}
@@ -183,15 +183,15 @@ function action(mode, type, selection) {
 			cm.gainItem(4031062, -1);
 			cm.gainItem(4000082, -30);
 			cm.gainItem(4001017, 5);
-			cm.sendNext("Here it is. You will now be able to enter the alter of the Zakum Dungeon when the door on the left is open.. You'll need #b#t4001017##k with you in order to go through the door and enter the stage. Now, let's see how many can enter this place ...?");
+			cm.sendNext("就是这个。当左边的门打开时，你将能够进入扎昆地下城的祭坛。你需要带着#b#t4001017##k才能通过那扇门进入下一阶段。现在，让我看看能有多少人进入这个地方……？");
 			cm.completeQuest(100201);
 			cm.completeQuest(100200);
 		    } else {
-			cm.sendNext("Hmmm... are you sure you have all the items required to make #rEye of Fire#k with you? If so, then please check and see if your etc. inventory is full or not.");
+			cm.sendNext("嗯……你确定你有制作#r火焰之眼#k所需的所有材料吗？如果是的话，请检查一下你的其他物品栏是否满了。");
 		    }
 		    cm.dispose();
 		} else {
-		    cm.sendNext("I don't think you have #b30 Zombie's Lost Gold Teeth#k yet. Gather them all up and I may be able to refine them and make a special item for you ..." );
+		    cm.sendNext("我想你还没有#b30颗僵尸丢失的金牙#k。收集齐全后我也许能精炼它们，为你制作一件特殊的物品……" );
 		    cm.dispose();
 		}
 	    } else {
@@ -201,16 +201,16 @@ function action(mode, type, selection) {
 	}
     } else if (status == 4) { //bribe
 	if (cm.getPlayer().getMeso() < 300000000) {
-	    cm.sendNext("You do not have enough money.");
+	    cm.sendNext("你的金币不够。");
 	} else if (!cm.canHold(4001017,5)) {
-	    cm.sendNext("Please make room in ETC.");
+	    cm.sendNext("请在其他物品栏腾出空间。");
 	} else {
 	    cm.gainItem(4001017,5);
 	    cm.completeQuest(100201);
 	    cm.completeQuest(100200);
 	    cm.forceCompleteQuest(7000);
 	    cm.completeQuest(100203);
-	    cm.sendOk("Alright, go through.");
+	    cm.sendOk("好的，通过吧。");
 	    cm.gainMeso(-300000000);
 	}
 	cm.dispose();

@@ -1,5 +1,0 @@
-<imgdir name="3110001">
-        <string name="name" value="致命打击" />
-        <string name="desc" value="有几率一击终结敌人，并恢复HP和MP！" />
-        <string name="h" value="#y% chance to instantly kill enemy below #x% HP. #z% HP &amp; MP recovered upon instant kill effect." />
-    </imgdir>

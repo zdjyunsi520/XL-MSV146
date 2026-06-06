@@ -1,7 +1,7 @@
 var status = -1;
 //this quest is SECRET ORGANIZATION 3
 function start(mode, type, selection) {
-	qm.sendNext("Talk to Hiver in Ludibrium Village.");
+	qm.sendNext("和玩具城村的哈波谈谈。");
 	qm.forceStartQuest();
 	qm.dispose();
 }

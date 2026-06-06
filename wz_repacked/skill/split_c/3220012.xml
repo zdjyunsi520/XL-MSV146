@@ -1,8 +1,0 @@
-<imgdir name="3220012">
-        <string name="name" value="精英傀儡" />
-        <string name="desc" value="召唤强力精英傀儡。精英傀儡会自动攻击附近敌人，并吸收召唤者受到的部分伤害。\n需要技能：#c傀儡 Lv. 10#" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #x, Damage: #damage%, Damage Absorbed: #y%" />
-        <string name="pdesc" value="召唤强力精英傀儡。精英傀儡会自动攻击附近敌人，并吸收召唤者受到的部分伤害。\n需要技能：#c傀儡 Lv. 10#" />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #x, Damage: #damage%, Damage Absorbed: #y%" />
-        <string name="hch" value="MP Cost: #mpCon, Duration: #time sec, Puppet&apos;s HP: #hcSummonHp, Damage: #damage%, Damage Absorbed: #y%" />
-    </imgdir>

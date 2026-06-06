@@ -1,5 +1,0 @@
-<imgdir name="101000103">
-        <string name="name" value="Heavy Sword Mastery" />
-        <string name="desc" value="Increases the Mastery, Attack Power, and Attack Speed of Heavy Sword type weapons. When attacking with a Heavy Sword type weapon, damage increase as the number of enemies hit decreases." />
-        <string name="h" value="Permanent Heavy Sword Mastery Increase #mastery%, Boss ATT: +#bdR%, Attack Power: +#padX, Attack Speed: +2 step.\nThe fewer monsters hit, the more damage it will do (#mobCountDamR% per monster)." />
-    </imgdir>

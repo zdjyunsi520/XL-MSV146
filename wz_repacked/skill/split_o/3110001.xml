@@ -1,5 +1,0 @@
-<imgdir name="3110001">
-        <string name="name" value="Mortal Blow" />
-        <string name="desc" value="Has a chance to finish off an enemy with a single blow, and recover HP &amp; MP." />
-        <string name="h" value="#y% chance to instantly kill enemy below #x% HP. #z% HP &amp; MP recovered upon instant kill effect." />
-    </imgdir>

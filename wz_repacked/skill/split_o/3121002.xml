@@ -1,7 +1,0 @@
-<imgdir name="3121002">
-        <string name="name" value="Sharp Eyes" />
-        <string name="desc" value="Temporarily grants party members the ability to locate an enemy&apos;s weak spot to deal fatal damage to that enemy." />
-        <string name="h" value="MP Cost: #mpCon, Critical Rate: +#x%, Max Critical Damage: +#y%, Duration: #time sec" />
-        <string name="pdesc" value="Reveals the enemy&apos;s weaknesses, increasing the damage team members deal to it." />
-        <string name="ph" value="MP Cost: #mpCon, Critical Rate: +#x%, Max Critical Damage: +#y%, Duration: #time sec" />
-    </imgdir>

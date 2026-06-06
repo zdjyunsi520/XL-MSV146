@@ -1,7 +1,0 @@
-<imgdir name="33111007">
-        <string name="name" value="狂豹之怒" />
-        <string name="desc" value="你的美洲豹暂时长出炽热的红色翅膀。大幅提升最大HP、攻击力和移动速度。攻击速度提升1级。敌人攻击不会取消增益。" />
-        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，最大HP：#x%，攻击力：#z%，移动速度：+#y，攻击速度：+#w级" />
-        <string name="pdesc" value="美洲豹暂时获得红色翅膀，提升最大HP和攻击力。" />
-        <string name="ph" value="消耗MP：#mpCon，最大HP：+#x%，攻击力：+#z%，持续时间：#time秒" />
-    </imgdir>

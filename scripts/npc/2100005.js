@@ -20,7 +20,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 		if (mode == 0 && status >= 0) {
-			cm.sendNext("I guess you aren't ready to make the change yet. Let me know when you are!");
+			cm.sendNext("我想你还没准备好做改变。准备好了告诉我！");
 			cm.dispose();
 			return;
 		}
@@ -29,7 +29,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple("Hey there! I'm Shatti, and I'm Mazra's apprentice. If you have #bAriant hair style coupon(REG)#k or #bAriant hair color coupon(REG)#k with you, how about allowing me to work on your hair? \r\n#L0##bChange Hairstyle (Reg Coupon) \r\n#L1##bDye Hair(Reg. coupon)");
+			cm.sendSimple("你好！我是莎蒂，马兹拉的学徒。如果你有#b阿里安特发型优惠券（普通）#k或#b阿里安特发色优惠券（普通）#k，不如让我来帮你打理头发？\r\n#L0##b更换发型（普通优惠券）\r\n#L1##b染发（普通优惠券）");
 		} else if (status == 1) {
 			if (selection == 0) {
 				beauty = 1;
@@ -46,7 +46,7 @@ function action(mode, type, selection) {
  % 10));
 					}
 				}
-				cm.sendYesNo("If you use the Reg. coupon, your hairstyle will be changed to a random new look. You'll also have access to new hairstyles I worked on that's not available for VIP coupons. Would you like to use #bAriant hair style coupon(REG)#k for a fabulous new look?");
+				cm.sendYesNo("如果你使用普通优惠券，你的发型将随机变成一个新造型。你还可以使用我研发的、VIP优惠券无法获得的新发型。你想用#b阿里安特发型优惠券（普通）#k来换一个全新的造型吗？");
 			} else if (selection == 1) {
 				beauty = 2;
 				haircolor = Array();
@@ -55,7 +55,7 @@ function action(mode, type, selection) {
 				for(var i = 0; i < 8; i++) {
 					haircolor.push(current + i);
 				}
-				cm.sendYesNo("If you use the regular coupon, your hair color will change to a random new color. Are you sure you want to use #b#t5151021##k and randomly change your hair color?");
+				cm.sendYesNo("如果你使用普通优惠券，你的发色将随机变成一种新颜色。你确定要使用#b#t5151021##k来随机改变你的发色吗？");
 			}
 		}
 		else if (status == 2){
@@ -64,18 +64,18 @@ function action(mode, type, selection) {
 				if (cm.haveItem(5150026) == true){
 					cm.gainItem(5150026, -1);
 					cm.setHair(hairnew[Math.floor(Math.random() * hairnew.length)]);
-					cm.sendOk("Enjoy your new and improved hairstyle!");
+					cm.sendOk("享受你全新的发型吧！");
 				} else {
-					cm.sendNext("I can only change your hairstyle if you bring me the coupon. You didn't forget that, did you?");
+					cm.sendNext("我只有在你带来优惠券时才能帮你换发型。你没忘记吧？");
 				}
 			}
 			if (beauty == 2){
 				if (cm.haveItem(5151021) == true){
 					cm.gainItem(5151021, -1);
 					cm.setHair(haircolor[Math.floor(Math.random() * haircolor.length)]);
-					cm.sendOk("Enjoy your new and improved haircolor!");
+					cm.sendOk("享受你全新的发色吧！");
 				} else {
-					cm.sendNext("I can only change your hairstyle if you bring me the coupon. You didn't forget that, did you?");
+					cm.sendNext("我只有在你带来优惠券时才能帮你换发型。你没忘记吧？");
 				}
 			}
 		}

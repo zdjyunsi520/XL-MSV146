@@ -13,7 +13,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("What do you want to do?\n\r #b#L0#Enter the Fishing Lagoon#l \n\r #L1#Buy fishing baits#l \n\r #L2#Buy fishing chair#l \n\r #L3#Use the delicious Bait Can#l \n\r #L4#Guide on fishing#l \n\r #L5##i1142146:#Trade 500 Golden Fish Egg (Medal of Fishing King [Period : 30 days])#l");
+	cm.sendSimple("你必须拥有钓鱼椅才能钓鱼！");
     } else if (status == 1) {
 	sel = selection;
 	if (sel == 0) {
@@ -23,25 +23,25 @@ function action(mode, type, selection) {
 		    cm.warp(741000200);
 		    cm.dispose();
 		} else {
-		    cm.sendNext("You must have the fishing chair in order to fish!");
+		    cm.sendNext("你必须拥有钓竿才能钓鱼！");
 		    cm.safeDispose();
 		}
 	    } else {
-		cm.sendNext("You must have the fishing rod in order to fish!");
+		cm.sendNext("120个鱼饵需要3000金币。你想购买吗？");
 		cm.safeDispose();
 	    }
 	} else if (sel == 1) {
-	    cm.sendYesNo("It requires 3000 meso for 120 baits. Do you want to purchase?");
+	    cm.sendYesNo("你已经有一把钓鱼椅了。每个角色只能拥有一把钓鱼椅。");
 	} else if (sel == 2) {
 	    if (cm.haveItem(3011000)) {
-		cm.sendNext("You already have a fishing chair. Each character can only have 1 fishing chair.");
+		cm.sendNext("祝你钓鱼愉快~");
 	    } else {
 		if (cm.canHold(3011000) && cm.getMeso() >= 50000) {
 		    cm.gainMeso(-50000);
 		    cm.gainItem(3011000, 1);
-		    cm.sendNext("Happy Fishing~");
+		    cm.sendNext("请检查你是否有足够的金币或充足的背包空间。");
 		} else {
-		    cm.sendOk("Please check if you have the required meso or sufficient inventory slot.");
+		    cm.sendOk("你已经有鱼饵了。");
 		}
 	    }
 	    cm.safeDispose();
@@ -50,28 +50,28 @@ function action(mode, type, selection) {
 		if (!cm.haveItem(2300001)) {
 		    cm.gainItem(2300001, 120);
 		    cm.gainItem(5350000,-1);
-		    cm.sendNext("Happy Fishing~");
+		    cm.sendNext("请检查你是否有足够的金币或充足的背包空间。");
 		} else {
-		    cm.sendNext("You already have fishing bait.");
+		    cm.sendNext("请检查你是否有足够的背包空间以及是否携带了从商城购买的美味饵罐。");
 		}
 	    } else {
-		cm.sendOk("Please check if you have sufficient inventory slot and the Delicious Bait Can from cash shop with you.");
+		cm.sendOk("你需要达到10级以上，并拥有钓竿、鱼饵和钓鱼椅才能进入钓鱼湖。你将每1分钟钓上一条鱼。和钓鱼湖的NPC马德里克交谈查看你的捕获记录！");
 	    }
 	    cm.safeDispose();
 	} else if (sel == 4) {
-	    cm.sendOk("You need to be above level 10, with a fishing rod, fishing baits and a fishing chair in order to enter the Fishing Lagoon. You will reel in a catch every 1 minute. Talk to lagoon's NPC Madrick to check out your catch record!");
+	    cm.sendOk("哇，看来你一定在钓鱼湖花了不少功夫钓这些鱼卵。来，拿着。这是#b钓鱼王勋章#k！");
 	    cm.safeDispose();
 	} else if (sel == 5) {
 	    if (cm.haveItem(4000518, 500)) {
 		if (cm.canHold(1142146)) {
 		    cm.gainItem(4000518, -500);
 		    cm.gainItemPeriod(1142146, 1, 30);
-		    cm.sendOk("Woah, I guess you must have spend quite a lot of effort in the Fishing Lagoon fishing for these eggs. Here, take it. The #bFishing King Medal#k!")
+		    cm.sendOk("请检查你是否有足够的背包空间。")
 		} else {
-		    cm.sendOk("Please check if you have sufficient inventory slot for it.");
+		    cm.sendOk("请给我500个#i4000518:#金鱼卵来换取钓鱼王勋章！");
 		}
 	    } else {
-		cm.sendOk("Please get me 500 #i4000518:# Golden Fish Egg in exchange for a Fishing King medal!")
+		cm.sendOk("请给我500个#i4000518:#金鱼卵来换取钓鱼王勋章！")
 	    }
 	    cm.safeDispose();
 	}
@@ -81,12 +81,12 @@ function action(mode, type, selection) {
 		if (!cm.haveItem(2300000)) {
 		    cm.gainMeso(-3000);
 		    cm.gainItem(2300000, 120);
-		    cm.sendNext("Happy Fishing~");
+		    cm.sendNext("请检查你是否有足够的金币或充足的背包空间。");
 		} else {
-		    cm.sendNext("You already have fishing bait.");
+		    cm.sendNext("请检查你是否有足够的背包空间以及是否携带了从商城购买的美味饵罐。");
 		}
 	    } else {
-		cm.sendOk("Please check if you have the required meso or sufficient inventory slot.");
+		cm.sendOk("你已经有鱼饵了。");
 	    }
 	    cm.safeDispose();
 	}

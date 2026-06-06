@@ -1,5 +1,0 @@
-<imgdir name="20031210">
-        <string name="name" value="审判抽牌" />
-        <string name="desc" value="消耗全部卡组来抽取一张卡牌，赋予该卡牌攻击额外的效果。只有卡组满牌时才能使用。" />
-        <string name="h" value="MP消耗：#mpCon，以黑卡攻击敌人#u次。同时赋予以下效果之一，持续#time秒。\n#c命运牌#：暴击率+#v%\n#c厄运牌#：物品掉落率+#w%\n#c坚韧牌#：异常状态抗性+#x%，属性抗性+#y%\n#c吸血牌#：将所造成伤害的#z%吸收为HP" />
-    </imgdir>

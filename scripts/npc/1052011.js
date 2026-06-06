@@ -25,7 +25,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendYesNo("This device is connected to the outside. Are you going to give up and leave this place? You'll have to start from\r\nscratch the next time you come in...");
+	cm.sendYesNo("这个装置连接着外面。你要放弃并离开这里吗？下次再来的时候，你将不得不从头开始……");
     } else if (status == 1) {
 	cm.warp(103000000, 0);
 	cm.dispose();

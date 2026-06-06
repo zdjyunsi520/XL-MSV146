@@ -1,7 +1,0 @@
-<imgdir name="5101012">
-        <string name="name" value="Tornado Uppercut" />
-        <string name="desc" value="Performs a fast uppercut that creates a wild tornado and attacks enemies. When the energy is charged fully, you create a stronger Energy Vortex that travels further." />
-        <string name="h" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Performs a super-fast uppercut, creating a tornado that attacks enemies." />
-        <string name="ph" value="MP Cost: #mpCon or Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

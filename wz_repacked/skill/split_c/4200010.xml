@@ -1,7 +1,0 @@
-<imgdir name="4200010">
-        <string name="name" value="盾牌精通" />
-        <string name="desc" value="装备盾牌时提升物理防御力、魔法防御力、回避率和武器攻击力~" />
-        <string name="h" value="装备盾牌时 - 物理/魔法防御力: +#x%, 回避率: +#er%, 武器攻击力: +#y" />
-        <string name="pdesc" value="装备盾牌时提升物理防御力、魔法防御力、回避率~" />
-        <string name="ph" value="物理/魔法防御力: +#x%, 回避率: +#er%" />
-    </imgdir>

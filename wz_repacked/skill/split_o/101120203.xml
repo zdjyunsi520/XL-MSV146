@@ -1,5 +1,0 @@
-<imgdir name="101120203">
-        <string name="name" value="Storm Break (Twister)" />
-        <string name="desc" value="A twister, created upon the Storm Break activation, moves forward, inflicting damage on enemies in its way." />
-        <string name="h" value="Damage: #damage% per 0.5 sec, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, \nDuration: #time sec" />
-    </imgdir>

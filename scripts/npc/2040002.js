@@ -9,11 +9,11 @@ function start() {
 
 function action(mode, type, selection) {
     if(mode == 0 && status == 0) {
-	cm.sendNext("I see. It's very understandable, considering the fact that you'll be facing a very dangerous monster inside. If you ever feel a change of heart, then please come talk to me. I sure can use help from someone like you.");
+	cm.sendNext("我明白了。考虑到你将面对里面非常危险的怪物，这完全可以理解。如果你改变主意了，请来找我谈谈。我确实需要像你这样的人的帮助。");
 	cm.dispose();
 	return;
     } else if(mode == 0 && status == 2) {
-	cm.sendNext("I see. Please talk to me when you're ready to take on this task. I advise you not to take too much time, through, for the monster may turn into something totally different. We have to act like we don't know anything.");
+	cm.sendNext("我明白了。请在你准备好接受这项任务时来找我。我建议你不要花太多时间，因为那只怪物可能会变成完全不同的样子。我们必须装作什么都不知道。");
 	cm.dispose();
 	return;
     }
@@ -24,21 +24,21 @@ function action(mode, type, selection) {
     }
     if(cm.getQuestStatus(3230) == 1) {
 	if(status == 0) {
-	    cm.sendYesNo("Hmmm...I've heard a lot about you through #b#p2040001##k. You got him a bunch of #b#t4031093##k so he can fight off boredom at work. Well ... alright, then. There's a dangerous, dangerous monster inside. I want to ask you for help in regards to locating it. Would you like to help me out?");
+	    cm.sendYesNo("嗯……我通过#b#p2040001##k听说了很多关于你的事。你给他弄了一堆#b#t4031093##k，好让他在工作中打发无聊。好吧……好的。里面有一只非常、非常危险的怪物。我想请你帮忙找到它。你愿意帮我吗？");
 	} else if(status == 1) {
-	    cm.sendNext("Thank you so much. Actually, #b#t4031093##k asked you to get #b#p2040001##k as a way of testing your abilities to see if you can handle this, so don't think of it as a random request. I think someone like you can handle adversity well.");
+	    cm.sendNext("非常感谢。其实，#b#t4031093##k让你去拿#b#p2040001##k是为了测试你的能力，看看你能否应对这个挑战，所以不要把它当作随便的请求。我觉得像你这样的人能够很好地应对困难。");
 	} else if(status == 2) {
-	    cm.sendYesNo("A while ago, a monster came here from another dimension thanks to a crack in dimensions, and it stole the pendulum of the clock. It hid itself inside the room over there camouflaged as a dollhouse. It all looks the same to me, so there's no way to find it. Would you help us locate it?");
+	    cm.sendYesNo("不久前，一只来自异次元的怪物通过次元裂缝来到了这里，偷走了时钟的钟摆。它把自己藏在那个房间里，伪装成洋娃娃屋的样子。对我来说它们看起来都一样，所以没办法找到它。你愿意帮我们找到它吗？");
 	    if (dh != null && dh.getProperty("noEntry").equals("true")) {
 		entry = false;
 	    }
 	} else if(status == 3) {
-	    cm.sendNext("Alright! I'll take you to a room, where you'll find a number of dollhouses all over the place. One of them will look slightly different from the others. Your job is to locate it and break its door. If you break a wrong dollhouse, however, you'll be sent out here without warning, so please be careful on that.");
+	    cm.sendNext("好的！我会带你去一个房间，那里到处都是洋娃娃屋。其中一个看起来会和其他的略有不同。你的任务是找到它并打破它的门。但是，如果你打破了错误的洋娃娃屋，你会被立刻传送出来，所以请小心。");
 	} else if(status == 4) {
-	    cm.sendNextPrev("You'll also find monsters in there, and they have gotten so powerful thanks to the monster from the other dimension that you won't able to take them down. Please find #b#t4031094##k within the time limit and then notify #b#p2040028##k, who should be inside. Let's get this started!");
+	    cm.sendNextPrev("你在里面还会遇到怪物，它们因为那只异次元怪物而变得非常强大，你无法击败它们。请在时间限制内找到#b#t4031094##k，然后通知里面的#b#p2040028##k。让我们开始吧！");
 	} else if(status == 5) {
 	    if(dh == null || entry == false) {
-		cm.sendPrev("Someone else must be inside looking for the dollhouse. Unfortunately I can only let in one person at a time, so please wait for your turn.");
+		cm.sendPrev("一定有其他人正在里面寻找洋娃娃屋。很遗憾我一次只能让一个人进去，所以请排队等候。");
 	    } else {
 		cm.removeAll(4031093);
 		dh.startInstance(cm.getChar());
@@ -46,10 +46,10 @@ function action(mode, type, selection) {
 	    cm.dispose();
 	}
     } else if(cm.getQuestStatus(3230) == 2) {
-	cm.sendNext("Thanks to #h #, we got the #b#t4031094##k back and destroyed the monster from the other dimension. Thankfully we haven't found one like that since. I can't thank you enough for helping us out. Hope you enjoy your stay here at #m220000000#!");
+	cm.sendNext("多亏了#h #，我们找回了#b#t4031094##k，并消灭了那只来自异次元的怪物。谢天谢地，从那以后我们再也没发现过类似的怪物。对你的帮助感激不尽。希望你在这里#m220000000#玩得愉快！");
 	cm.dispose();
     } else {
-	cm.sendOk("We are the toy soldiers here guarding this room, preventing anyone else from entering. I cannot inform you of the reasoning behind this policy. Now, if you'll excuse me, I am working here.");
+	cm.sendOk("我们是守卫这个房间的玩具士兵，防止其他人进入。我无法告知你这项规定的原因。那么，失陪了，我正在工作。");
 	cm.dispose();
     }
 }

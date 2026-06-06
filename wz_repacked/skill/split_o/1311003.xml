@@ -1,7 +1,0 @@
-<imgdir name="1311003">
-        <string name="name" value="Dragon Fury" />
-        <string name="desc" value="Swings your weapon in a large arc to attack nearby enemies. Hits up to 8 enemies at a time." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Swing your weapon in a large radius to damage multiple enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="15100004">
-        <string name="name" value="能量蓄积" />
-        <string name="desc" value="每次攻击后蓄积能量。能量充满时，命中率、攻击力、防御力和移动速度都会提升，同时有几率激活姿态并使用能量系技能。攻击BOSS时能量蓄积速度翻倍。" />
-        <string name="h" value="每次攻击蓄积能量：#x，持续时间：#time秒，命中率：+#acc，武器攻击力：+#pad，武器/魔法防御力：+#pdd，移动速度：+#speed，击退抵抗率：#prop%，攻击BOSS时能量蓄积翻倍" />
-        <string name="pdesc" value="每次攻击后蓄积能量。能量充满时，命中率、攻击力、防御力和移动速度都会提升，同时有几率激活姿态并使用能量系技能。" />
-        <string name="ph" value="每次攻击蓄积能量：#x，持续时间：#time秒，命中率：+#acc，武器攻击力：+#pad，武器/魔法防御力：+#pdd，移动速度：+#speed，击退抵抗率：#prop%，攻击BOSS时能量蓄积翻倍" />
-    </imgdir>

@@ -13,29 +13,29 @@ function action(mode, type, selection) {
     } 
     if (status == 0) { 
     if (cm.getPlayer().getJob() == 0) { 
-        cm.sendNext("Welcome, Beginning Explorer! In Maple Story,you can\r\nchoose a #rjob#k when you reach #rLv 8#k.\r\n\r\nIn other words, you'll be choosing your own future path!\r\nWhen you get a job,you get to use various skills and magic nwhice will make your experience in Maple Story more enjoyable.So,work hard to carve your own destiny"); 
+        cm.sendNext("看起来你已经转职了！\r\n传送服务只能由新手使用"); 
     } else { 
-        cm.sendOk("It looks like you've already made a job advancement!\r\nTransportation can only be used by beginners"); 
+        cm.sendOk("我的职责是帮助你成为#r魔法师#k。\r\n\r\n追求古老的知识是他们毕生的任务，因此成为魔法师需要很高的智力。虽然他们的力量和防御力与其他职业相比偏低，但魔法师使用元素魔法技能可以创造奇迹般的效果，辅助魔法技能在组队狩猎时也非常有用。元素魔法技能可以在二转时学会，能对具有相反属性的敌人造成巨大伤害。"); 
         cm.dispose(); 
     } 
     } else if (status == 1) { 
-        cm.sendNextPrev("My role is to help you become a #rMagician.#k\r\n\r\nPursuing ancient knowledge is their lifelong task, therefore high intelligence is required to become a Magician. While their strength and defense is low compared to other job classes, Magicians use elemental magic skills that create wondrous displays and secondary magic skills that can be useful while hunting in a party. Elemental magic skills can be learned with the 2nd job advancement, which can cause great damage to enemies with opposiing elemental natures."); 
+        cm.sendNextPrev("使用的武器包括#b短杖#k和#b长杖#k\r\n\r\n所需等级：#r8级以上#k\r\n地点：#b魔法森林#k的#r魔法图书馆#k\r\n转职教官：#r马斯特利尔#k"); 
     } else if (status == 2) { 
-        cm.sendNextPrev("Weapons used include the #bWands#k and #bStaffs#k\r\n\r\nRequired Level: #rOver Lv 8#k\r\nLocation: #rMagic Library#k in #bEllinia#k\r\nJob Instructor: #rGrendel the Really Old#k"); 
+        cm.sendNextPrev("你想成为#r魔法师#k吗？\r\n#b#L0#是的#l\r\n#L1#不#l#k"); 
     } else if (status == 3) { 
-        cm.sendSimple("Would you like to become a #rMagician?#k\r\n#b#L0#Yes#l\r\n#L1#No#l#k"); 
+        cm.sendSimple("要转职的话，你必须前往#b魔法森林#k的#r魔法图书馆#k找#r马斯特利尔#k。要我现在送你过去吗？-转职后无法再使用传送服务-\r\n\r\n#b#L0#是的#l\r\n#L1#不#l#k"); 
     } else if (status == 4) { 
       if (selection == 0) { 
-        cm.sendSimple("In order to make the job advancement, you must visit #rGrendel the Really Old#k at the #rMagic Library#k in #bEllinia#k.Would you like to be trasported there now?-The transportation service cannot be used once you make the job advancement-\r\n\r\n#b#L0#Yes#l\r\n#L1#No#l#k"); 
+        cm.sendSimple("如果你有任何问题，请再来和我交谈。"); 
     } else if (selection == 1) { 
-        cm.sendNext("Please talk to me again if you have any questions."); 
+        cm.sendNext("好的。我现在就送你去#b魔法森林#k的#r魔法师#k那里。"); 
         cm.dispose(); 
     } 
     } else if (status == 5) { 
       if (selection == 0) { 
-        cm.sendNext("Alright.I will now take you to the #rMagician#k in #bEllinia.#k"); 
+        cm.sendNext("好的。我现在就送你去#b魔法森林#k的#r魔法师#k那里。"); 
     } else if (selection == 1) { 
-        cm.sendNext("Please talk to me again if you have any questions."); 
+        cm.sendNext("好的。我现在就送你去#b魔法森林#k的#r魔法师#k那里。"); 
         cm.dispose(); 
     } 
   } else if (status == 6) { 

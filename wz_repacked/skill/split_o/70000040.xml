@@ -1,5 +1,0 @@
-<imgdir name="70000040">
-        <string name="name" value="Accuracy to Damage Conversion" />
-        <string name="desc" value="Increases final damage in proportion to Accuracy." />
-        <string name="h" value="#acc2dam% of Weapon Accuracy or Magic Accuracy (whichever&apos;s higher) added to additional damage" />
-    </imgdir>

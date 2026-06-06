@@ -1,5 +1,0 @@
-<imgdir name="65111100">
-        <string name="name" value="灵魂探求者" />
-        <string name="desc" value="提取埃斯卡莱德力量的精华，飞向敌人。持续造成伤害直到达到上限或消失。" />
-        <string name="h" value="召唤精华数：#bulletCount，随机攻击的最大敌人数：#mobCount。每个精华的伤害：#damage%，攻击次数：#attackCount。精华重新生成概率：#s%，最大精华重生成数：#z。灵魂电池技能：充能概率：#onActive%" />
-    </imgdir>

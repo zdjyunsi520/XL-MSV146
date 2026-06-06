@@ -23,29 +23,29 @@ if (mode == 1)
 else 
    status--;
     if (status == 0) { 
-cm.sendAcceptDecline("You currently have #b"+cm.getJQPoints()+" JQ Points#k.\r\nI see you beat the JumpQuest, I can give you #r1#k JQ Point");
+cm.sendAcceptDecline("JQ积分#k。\r\n我看到你通过了跳跳任务，我可以给你#r1#k点JQ积分"+cm.getJQPoints()+"未知地图ID");
 }else if (status == 1) {
 if (cm.haveItem(4033039,1)) {
  var map = cm.getPlayer().getMapId();
- var mapname = "Unknown MapID";
+ var mapname = "熔岩之息";
  if (map == 280020001) {//lava
- mapname = "Breath of Lava"
+ mapname = "幽灵烟囱"
  }else if (map == 682000200) {//chimney
- mapname = "Ghost Chimney";
+ mapname = "体能测试";
  }else if (map == 109050000) {//fitness
- mapname = "Fitness Test";
+ mapname = "毅力之森";
  }else if (map == 910530001) {//Tenacity
- mapname = "Forest of Tenacity";
+ mapname = "忍耐之森";
  }else if (map == 690000070) {//Patiance
- mapname = "Forest of Patience";
+ mapname = "[JQ公告] 恭喜";
  }
     cm.warp(910000000,0);
 	cm.gainItem(4033039,-1);
 	cm.gainJQPoints(1);
-	cm.msiMessage("[JQ Notice] Congratulations to "+cm.getPlayer().getName()+" for beating the "+mapname+" JumpQuest.");
+	cm.msiMessage("通过了 "+cm.getPlayer().getName()+"跳跳任务。 "+mapname+"试图在没有所需物品的情况下通过跳跳任务");
 	cm.dispose();
 }else {
-	cm.msiMessage("[JQ Notice] Congratulations to "+cm.getPlayer().getName()+" for trying to beat the JumpQuest without the required item");
+	cm.msiMessage("通过了 "+cm.getPlayer().getName()+"试图在没有所需物品的情况下通过跳跳任务");
 	cm.dispose();
 }
 }

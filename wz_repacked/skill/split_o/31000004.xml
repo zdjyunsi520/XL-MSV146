@@ -1,7 +1,0 @@
-<imgdir name="31000004">
-        <string name="name" value="Demon Lash" />
-        <string name="desc" value="Mash the attack key to whip enemies in front of you 4 times with dark power. Hits return some Fury to you." />
-        <string name="h" value="1st, 2nd: Damage: #damage%, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount.\n3rd: Damage: #v%, Max Monsters Hit: #u, Number of Attacks: #w\n4th: Damage: #y%, Max Monsters Hit: #x, Number of Attacks: #z" />
-        <string name="pdesc" value="Mash the attack key to whip enemies in front of you 4 times with dark power. Hits return some Fury to you." />
-        <string name="ph" value="1st, 2nd: Damage: #damage%, Max Monsters Hit: #mobCount, Number of Attacks: #attackCount.\n3rd: Damage: #v%, Max Monsters Hit: #u, Number of Attacks: #w\n4th: Damage: #y%, Max Monsters Hit: #x, Number of Attacks: #z" />
-    </imgdir>

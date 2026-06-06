@@ -1,5 +1,0 @@
-<imgdir name="112001008">
-        <string name="name" value="鱼之掌掴" />
-        <string name="desc" value="按住技能键用鱼拍打敌人。" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 技能持续时间: #time秒, 冷却时间: #cooltime秒" />
-    </imgdir>

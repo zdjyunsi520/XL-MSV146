@@ -1,5 +1,0 @@
-<imgdir name="31010002">
-        <string name="name" value="生命汲取" />
-        <string name="desc" value="吸取敌人的生命力来恢复自己的HP～" />
-        <string name="h" value="#prop% chance to recover #x% HP on hit" />
-    </imgdir>

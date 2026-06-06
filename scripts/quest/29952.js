@@ -10,11 +10,11 @@ function start(mode, type, selection) {
 	    status--;
 	
 	if (status == 0) {
-	    qm.sendNext("Oh, chang phai" + qm.getPlayer().getName()+" day sao!");
+	    qm.sendNext("哦，你好" + qm.getPlayer().getName()+"做得好！");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Tot lam, ban da chung to duoc suc manh cua minh.");
+	    qm.sendNextPrev("太棒了，你已经证明了自己的实力。");
 	} else if (status == 2) {
-	    qm.sendNext("Hay den gap #p1101000# va nhan phan thuong cho huyen thoai!");
+	    qm.sendNext("去见#p1101000#并领取英雄的奖励吧！");
 	} else if (status == 3) {
             qm.forceStartQuest();
             qm.gainItem(1142336,1);

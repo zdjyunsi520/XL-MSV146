@@ -1,5 +1,0 @@
-<imgdir name="21110004">
-        <string name="name" value="连击芬里尔" />
-        <string name="desc" value="凝聚狼之能量向前方敌人攻击2次。只能在#c连击数达到100以上#时使用。\n[指令：#c下方向键+右方向键+攻击键#]\n前置技能：#c连击粉碎 Lv. 10#" />
-        <string name="h" value="对#mobCount个敌人造成#damage%伤害，攻击2次" />
-    </imgdir>

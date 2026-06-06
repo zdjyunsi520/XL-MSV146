@@ -1,6 +1,0 @@
-<imgdir name="2221000">
-        <string name="name" value="枫叶战士" />
-        <string name="desc" value="提升所有队员的属性值。需要技能手册才能精通到30级。" />
-        <string name="h" value="MP Cost: #mpCon, All Stats: +#x%, Duration: #time sec" />
-        <string name="pdesc" value="在一定时间内按百分比提升所有队员的属性值。" />
-    </imgdir>

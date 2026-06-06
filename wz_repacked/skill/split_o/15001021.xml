@@ -1,5 +1,0 @@
-<imgdir name="15001021">
-        <string name="name" value="Flash" />
-        <string name="desc" value="Charges into enemies to deal damage. Charges forward if there are no enemies. Can be linked with all skills excluding Thunder and self-skills." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount Damage: #damage%, Number of Attacks: #attackCount. Teleports  the distance of #range when there are no enemies in range." />
-    </imgdir>

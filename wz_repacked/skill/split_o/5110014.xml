@@ -1,5 +1,0 @@
-<imgdir name="5110014">
-        <string name="name" value="Supercharge" />
-        <string name="desc" value="Enhances the effects of Energy Charge like energy charge amount and max energy when attacking. Also charges twice the energy when attacking a boss." />
-        <string name="h" value="Max Energy: #z. Energy Charged when attacking: #x, Max Energy increase by 2 times, when Energy Charge is activated, Weapon ATT: +#pad, Accuracy: +#acc, Movement Speed: +#speed, Weapon/Magic Defense: +#pdd, Immune to Knock-back at #prop% chance. When not activated, applies half of the effect, charges twice the energy when attacking bosses" />
-    </imgdir>

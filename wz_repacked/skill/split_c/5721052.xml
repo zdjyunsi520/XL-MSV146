@@ -1,5 +1,0 @@
-<imgdir name="5721052">
-        <string name="name" value="机体信标" />
-        <string name="desc" value="召唤飞机投掷炸弹。" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。使用后增益效果: 最大伤害: +#x，持续时间: #time秒。最多叠加3次。\n冷却时间: #cooltime秒" />
-    </imgdir>

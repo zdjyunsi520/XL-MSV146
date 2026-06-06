@@ -1,5 +1,0 @@
-<imgdir name="36101001">
-        <string name="name" value="Ion Thrust" />
-        <string name="desc" value="Uses your Surplus Power to summon the Ion Thruster, which damages and pushes back enemies. Hold down the skill key to keep enemies at bay." />
-        <string name="h" value="#c[Supply ]#\nEnergy Cost: #powerCon, MP Cost: #mpCon, Max Enemies: #mobCount Damage: #damage%, Knocks back enemies. Duration: #time. Energy is consumed only when the Ion Thrust is summoned." />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="101110100">
-        <string name="name" value="Spin Driver" />
-        <string name="desc" value="Hit the skill key multiple times after the Turning Swing attack to turn the body in place to attack with even greater range before pulling the enemies towards you.\n[Required Skill]: #cTurning Swing Lv. 1#" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

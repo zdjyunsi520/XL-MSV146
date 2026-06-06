@@ -1,5 +1,0 @@
-<imgdir name="21111009">
-        <string name="name" value="Combo Recharge" />
-        <string name="desc" value="Consumes HP and MP to instantly boost Combo Count. Cannot be used when HP is below 50%." />
-        <string name="h" value="Cost: #x% HP and #mpCon MP, Combo Count: +#y, Cooldown: #cooltime sec" />
-    </imgdir>

@@ -9,7 +9,7 @@ function start() {
 function action(mode, type, selection) {
     status++;
     if(mode == 0) {
-	cm.sendNext("You must have some business to take care of here, right?");
+	cm.sendNext("看来这趟列车还有很多空位。请准备好你的车票让我检票，旅程会比较长，但你会顺利到达目的地。怎么样？要上车吗？");
 	cm.dispose();
 	return;
     }
@@ -17,17 +17,17 @@ function action(mode, type, selection) {
 	if(sw == null) {
 	    cm.dispose();
 	} else if(sw.getProperty("entry").equals("true")) {
-	    cm.sendYesNo("It looks like there's plenty of room for this ride. Please have your ticket ready so I can let you in, The ride will be long, but you'll get to your destination just fine. What do you think? Do you want to get on this ride?");
+	    cm.sendYesNo("地铁正在准备发车。很抱歉，你只能等下一班了。列车时刻表可以在售票处的乘务员那里查询。");
 	} else if(sw.getProperty("entry").equals("false") && sw.getProperty("docked").equals("true")) {
-	    cm.sendNext("The subway is getting ready for takeoff. I'm sorry, but you'll have to get on the next ride. The ride schedule is available through the usher at the ticketing booth.");
+	    cm.sendNext("我们将在发车前1分钟开始检票。请耐心等待几分钟。请注意地铁将准时发车，我们在发车前1分钟停止检票，所以请务必准时到达。");
 	    cm.dispose();
 	} else {
-	    cm.sendNext("We will begin boarding 1 minutes before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
+	    cm.sendNext("哦不...我觉得你没有带车票。没有车票我不能让你进去。请到售票处购买车票。");
 	    cm.dispose();
 	}
     } else if(status == 1) {
 	if(!cm.haveItem(4031713)) {
-	    cm.sendNext("Oh no ... I don't think you have the ticket with you. I can't let you in without it. Please buy the ticket at the ticketing booth.");
+	    cm.sendNext("哦不...我觉得你没有带车票。没有车票我不能让你进去。请到售票处购买车票。");
 	} else {
 	    cm.gainItem(4031713,-1);
 	    cm.warp(600010002);

@@ -1,7 +1,0 @@
-<imgdir name="4221013">
-        <string name="name" value="Shadower Instinct" />
-        <string name="desc" value="Awakens the Shadower&apos;s merciless instincts to increase Attack and ignore enemy DEF. As a passive effect, this skill allows you to rack up a Body Count with each attack, which can be used to further enhance your other attacks." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Weapon ATT: +#x, additional #kp each point of Body Count (uses entire Body Count).\n[Passive Effects: Enemy DEF Ignored: #ignoreMobpdpR%, Accumulate Kill Body Count upon attack]" />
-        <string name="pdesc" value="Awakens the Shadower&apos;s instinct to increase Attack." />
-        <string name="ph" value="MP Cost: #mpCon, Weapon ATT: +#indiePad" />
-    </imgdir>

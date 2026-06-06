@@ -1,7 +1,0 @@
-<imgdir name="4110012">
-        <string name="name" value="飞星操控专家" />
-        <string name="desc" value="#c提升总伤害#。\n额外获得不消耗飞星和MP的施放几率，并有几率#c充能1枚飞星#。\n(不会超过飞星上限。)\n飞星操控专家激活时，#c下次攻击必定暴击#。(星光之灵适用暴击但不充能飞星。)\n前置技能: #c星光之灵 Lv. 5#" />
-        <string name="h" value="伤害增加: #pdR%, 充能几率: #prop%" />
-        <string name="pdesc" value="#c提升总伤害#。\n额外获得不消耗飞星和MP的施放几率，并有几率#c充能1枚飞星#。\n(不会超过飞星上限。)\n飞星操控专家激活时，#c下次攻击必定暴击#。(星光之灵适用暴击但不充能飞星。)\n前置技能: #c星光之灵 Lv. 5#" />
-        <string name="ph" value="伤害增加: #pdR%, 充能几率: #prop%" />
-    </imgdir>

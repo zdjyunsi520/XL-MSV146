@@ -1,5 +1,0 @@
-<imgdir name="15110000">
-        <string name="name" value="暴击拳" />
-        <string name="desc" value="提升你的暴击率和最低暴击伤害。" />
-        <string name="h" value="暴击率：+#prop%，最低暴击伤害：+#criticaldamageMin%" />
-    </imgdir>

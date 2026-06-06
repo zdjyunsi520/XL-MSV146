@@ -39,19 +39,19 @@ function action(mode, type, selection) {
 			return;
 		}*/
 		if (mode == 0) {
-			cm.sendOk("Alright, see you next time.");
+			cm.sendOk("好的，下次再见。");
 			cm.dispose();
 			return;
 		}
 		status++;
 		if (status == 0) {
-			cm.sendNext("I am some random NPC Simon hasn't properly decided on yet. I can send you to the #rTime Temple PQ#k.");
+			cm.sendNext("我是一个Simon还没完全决定好的随机NPC。我可以送你去#r时间神殿组队任务#k。");
 		} else if (status == 1) {
-			cm.sendYesNo("Do you wish to enter the #rTime Temple PQ#k now?");
+			cm.sendYesNo("你想现在进入#r时间神殿组队任务#k吗？");
 		} else if (status == 2) {
 			var em = cm.getEventManager("TTPQ");
 			if (em == null || !em.getProperty("TTPQOpen").equals("true")) {
-				cm.sendOk("Sorry, but #rTime Temple PQ#k is currently unavailable.");
+				cm.sendOk("抱歉，#r时间神殿组队任务#k目前不可用。");
 			}
 	//		} else if (cm.getChar().getLevel() >= 21 && cm.getChar().getLevel() < 31) {
 		//		cm.gainMeso(-1000000);

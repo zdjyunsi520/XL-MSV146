@@ -9,14 +9,14 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 1) {
-		    qm.sendOk("If you don't want to hear about it, fine. You can always reconsider");
+		    qm.sendOk("如果你不想听，那就算了。你随时可以重新考虑");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendNext("You chose the path of a Shadower. So, how much do you know about the Explorer's abilities?");
+	    qm.sendNext("你选择了暗影双刀的道路。那么，你对冒险家的能力了解多少？");
 	} else if (status == 1) {
-	    qm.sendYesNo("Do you want to learn more about the new Explorer basics? I've got time.\r\n#r(Click Yes to move to the tutorial.)#k");
+	    qm.sendYesNo("你想了解更多关于冒险家基础的新知识吗？我有时间。\r\n#r（点击是进入教程。）#k");
 	} else if (status == 2) {
         qm.forceStartQuest();
 	    qm.forceCompleteQuest();

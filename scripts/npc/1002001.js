@@ -2,7 +2,7 @@
 */
 
 function start() {
-    cm.sendOk("Hello. I'm Cody. Nice to meet you! =)");
+    cm.sendOk("你好。我是科迪。很高兴见到你！ =)");
 }
 
 function action(mode, type, selection) {

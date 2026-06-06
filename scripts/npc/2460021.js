@@ -8,7 +8,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 	if (status == 0 && mode == 0) {
-		cm.sendNext("Alright this is optional!");
+		cm.sendNext("好了这是可选的！");
 		cm.dispose();
 		return;
 	}
@@ -17,10 +17,10 @@ function action(mode, type, selection) {
 	else
 		status--;
 	if(status == 0) {
-		cm.sendYesNo("Hey, Do you want your skills maxed?\r\n#rIt will cost you 1,000,000 Meso");
+		cm.sendYesNo("嘿，你想把技能全部点满吗？\r\n#r需要花费1,000,000枫币");
 	}
 	if (status == 1 && cm.getMeso() < 1000000) {
-	    cm.sendNext("I think you're lacking mesos. There are many ways to gather up some money,#gSelling Drugs#k you know, like... selling your armor... defeating monsters... doing quests... you know what I'm talking about.");
+	    cm.sendNext("我觉得你的枫币不够。有很多方法可以攒钱，#g卖药#k 你懂的，比如...卖掉你的装备...打怪...做任务...你明白我在说什么吧。");
 	    cm.dispose();
 	} if (status == 1 && cm.getMeso() > 1000000) {
 	    cm.gainMeso(-1000000);

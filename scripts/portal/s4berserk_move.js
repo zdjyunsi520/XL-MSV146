@@ -6,6 +6,6 @@ function enter(pi) {
 	pi.warp(910500200, "pt00");
 	return true;
     }
-    pi.playerMessage("Portal is sealed now.");
+    pi.playerMessage("传送门现在被封印了。");
     return true;
 }

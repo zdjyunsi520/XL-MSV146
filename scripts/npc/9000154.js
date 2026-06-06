@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNext("Christmas Tree decorating will take place every day. Talk to #bCassandra#k for more details.");
+	    cm.sendNext("圣诞树装饰活动每天都会举行。详情请咨询#b卡珊德拉#k。");
 		cm.dispose();
     }
 }

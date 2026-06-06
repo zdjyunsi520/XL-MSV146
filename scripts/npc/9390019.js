@@ -44,7 +44,7 @@ status++;
 else
 status--;
 if (status == 0) {
-cm.sendOk("Eterna is my bitch");
+cm.sendOk("Eterna是我的人");
 cm.dispose();
 }
 }

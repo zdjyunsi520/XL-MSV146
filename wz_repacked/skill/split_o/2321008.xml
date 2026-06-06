@@ -1,7 +1,0 @@
-<imgdir name="2321008">
-        <string name="name" value="Genesis" />
-        <string name="desc" value="A holy ray of light shines down from the sky, burning up to 15 monsters at once. An additional Critical Rate will be applied. If Genesis is on #ccooldown, Big Bang will be cast immediately#." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemy Hit: 15, Damage: #damage%, Number of Attacks: #attackCount, Additional Critical Rate: #cr%, Cooldown: #cooltime sec. #cBig Bang will be casted immediately during the cooldown#." />
-        <string name="pdesc" value="A holy ray of light shines down from the sky, burning up to 15 monsters at once. An additional Critical Rate will be applied. If Genesis is on #ccooldown, Big Bang will be cast immediately#." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemy Hit: 15, Damage: #damage%, Number of Attacks: #attackCount, Additional Critical Rate: #cr%, Cooldown: #cooltime sec. #cBig Bang will be casted immediately during the cooldown#." />
-    </imgdir>

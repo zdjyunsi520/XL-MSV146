@@ -9,6 +9,6 @@ function enter(pi) {
 		pi.warp(921120001);
         pi.playPortalSE();
     } else {
-        pi.playerMessage(5, "Energy from the ice is preventing you from entering.");
+        pi.playerMessage(5, "冰之力量阻止你进入。");
     }
 }

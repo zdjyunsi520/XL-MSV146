@@ -1,5 +1,0 @@
-<imgdir name="1000009">
-        <string name="name" value="战士精通" />
-        <string name="desc" value="修炼战士基础，提升移动速度、跳跃力、最大HP和最大移动速度。还有几率抵抗击退~" />
-        <string name="h" value="移动速度 +#psdSpeed, 跳跃力 +#psdJump, 最大速度 +#speedMax, 每级最大HP +#lv2mhp。#stanceProp%几率发动站立效果。" />
-    </imgdir>

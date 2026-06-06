@@ -1,7 +1,0 @@
-<imgdir name="5221018">
-        <string name="name" value="Jolly Roger" />
-        <string name="desc" value="Your pirate pride kicks in, boosting Attack, Abnormal Status Resistance, and Elemental Resistance, but lowering Avoidability. Also has a chance to trigger a Stance effect." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Attack: +#damR%, Abnormal Status/Elemental Resistance: +#x%, Stance Chance: #z%, Avoidability -#eva" />
-        <string name="pdesc" value="Your pirate pride kicks in, boosting Attack, Abnormal Status Resistance, and Elemental Resistance, but lowering Avoidability. Also has a chance to trigger a Stance effect." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Attack: +#damR%, Abnormal Status/Elemental Resistance: +#x%, Stance Chance: #z%, Avoidability -#eva" />
-    </imgdir>

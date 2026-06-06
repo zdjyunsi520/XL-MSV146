@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to head back?");
+	cm.sendYesNo("你想回去吗？");
     } else if (status == 1) {
 	cm.warp(910000000);
 	cm.dispose();

@@ -21,18 +21,18 @@ function action(mode, type, selection) {
 	status--;
     if (status == 0) {
 	if (cm.haveItem(4031035)) {
-	    cm.sendNext("Eh, that's my brother's letter! Probably scolding me for thinking I'm not working and stuff...Eh? Ahhh...you followed my brother's advice and trained your pet and got up here, huh? Nice!! Since you worked hard to get here, I'll boost your intimacy level with your pet.");
+	    cm.sendNext("呃，那是我兄弟的信！大概又在训斥我不干活什么的……呃？啊……你按我兄弟的建议训练了你的宠物并来到了这里，是吗？不错！！既然你辛苦来到了这里，我就提升你和宠物的亲密度吧。");
 	} else {
-	    cm.sendOk("My brother told me to take care of the pet obstacle course, but ... since I'm so far away from him, I can't help but wanting to goof around ...hehe, since I don't see him in sight, might as well just chill for a few minutes.");
+	    cm.sendOk("我兄弟让我管理宠物障碍训练场，但是……因为我离他很远，就忍不住想偷懒……嘿嘿，既然看不见他，就偷闲几分钟吧。");
 	    cm.dispose();
 	}
     } else if (status == 1) {
 	if (cm.getPlayer().getPet(0) == null) {
-	    cm.sendNextPrev("Hmmm ... did you really get here with your pet? These obstacles are for pets. What are you here for without it?? Get outta here!");
+	    cm.sendNextPrev("嗯……你真的是带着宠物来的吗？这些障碍是给宠物准备的。你不带宠物来干嘛？？出去！");
 	} else {
 	    cm.gainItem(4031035, -1);
 	    cm.gainClosenessAll(2);
-	    cm.sendNextPrev("What do you think? Don't you think you have gotten much closer with your pet? If you have time, train your pet again on this obstacle course...of course, with my brother's permission.");
+	    cm.sendNextPrev("你觉得怎么样？你是不是觉得和宠物更亲近了？如果你有时间，再在这个障碍训练场上训练一下你的宠物吧……当然，要经过我兄弟的同意。");
 	}
 	cm.dispose();
     }

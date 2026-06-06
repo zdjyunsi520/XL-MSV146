@@ -1,8 +1,0 @@
-<imgdir name="21101005">
-        <string name="name" value="连击吸收" />
-        <string name="desc" value="激活增益，将受到伤害的一部分吸收为HP。最多只能吸收最大HP的20%。只能在#c连击数达到30以上#时使用~\n前置技能: #c连击能力 Lv. 1#" />
-        <string name="h" value="连击消耗: #comboConAran, 每#time秒HP回复: #x%" />
-        <string name="pdesc" value="激活增益，将受到伤害的一部分吸收为HP。最多只能吸收最大HP的20%。只能在#c连击数达到15以上#时使用~\n[指令: #c↓↓ + 攻击键#]\n前置技能: #c连击能力 Lv. 1#" />
-        <string name="ph" value="回复HP: #x%，几率: #prop%，持续时间: #time秒" />
-        <string name="hch" value="#hcProp%几率回复伤害的#x%持续#time秒" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="13110008">
-        <string name="name" value="Evasion Boost" />
-        <string name="desc" value="Grants you a chance to dodge enemy attacks. When you succeed, attacks made by you in the following 1 second will result in Critical Hits." />
-        <string name="h" value="Dodge Chance: #er%, all attacks following a successful dodge for #time sec will be criticals." />
-        <string name="pdesc" value="Grants you a chance to dodge enemy attacks. When you succeed, attacks made by you in the following 1 second will result in Critical Hits." />
-        <string name="ph" value="Dodge Chance: #er%, all attacks following a successful dodge for #time sec will be criticals." />
-    </imgdir>

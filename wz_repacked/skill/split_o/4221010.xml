@@ -1,7 +1,0 @@
-<imgdir name="4221010">
-        <string name="name" value="Sudden Raid" />
-        <string name="desc" value="Calls in a horde of friends to set the stage on fire." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: 15, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Calls in a horde of friends to set the stage on fire." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: 15, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec, Cooldown: #cooltime sec" />
-    </imgdir>

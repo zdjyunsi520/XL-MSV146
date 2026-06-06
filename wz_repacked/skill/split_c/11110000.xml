@@ -1,5 +1,0 @@
-<imgdir name="11110000">
-        <string name="name" value="自我恢复" />
-        <string name="desc" value="每4秒恢复一定量的HP和MP，战斗中也会恢复哦！" />
-        <string name="h" value="#hp HP and #mp MP recovered every 4 seconds." />
-    </imgdir>

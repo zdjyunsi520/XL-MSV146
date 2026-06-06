@@ -1,5 +1,0 @@
-<imgdir name="36121002">
-        <string name="name" value="Hypogram Field: Penetrate" />
-        <string name="desc" value="Forms a Hypogram Field to encapsulate enemies, then assaults them with a bouncing orb of energy.The energy orb is not affected by Attack Reflect. Change mode with Modal Shift." />
-        <string name="h" value="MP Cost: #mpCon, Hypogram Field Duration: #time, Damage on contact: #damage% \nCooldown: #cooltime sec" />
-    </imgdir>

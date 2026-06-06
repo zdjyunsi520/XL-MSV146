@@ -30,17 +30,17 @@ var status = -1;
 
 function start(mode, type, selection) {
     if (mode == -1) {
-        qm.sendNext("Come back when you're ready.");
+        qm.sendNext("准备好了再来。");
         qm.dispose();
     } else {
         if (mode > 0)
             status++;
         else
             status--;
-        if (status == 0) {// Picture of Celebrity Medal(+blue text "Celebrity Medal"
-            qm.sendAcceptDecline("#v1142003# #e#b#t1142003##k \r\n- Time Limit 30 Days \r\n- Popularity 1000Increase \r\n#nDo you want to test your skills to see if you're worthy of this title?");
+        if (status == 0) {// Picture of 名人勋章(+blue text "名人勋章"
+            qm.sendAcceptDecline("#v1142003# #e#b#t1142003##k \r\n- 时间限制 30天 \r\n- 人气度 1000提升 \r\n#n你想测试你的能力看看你是否配得上这个称号吗？");
         } else if (status == 1) {
-            qm.sendNext("I'll give you 30 days to reach your goal.  Once you're finished, come back and see me.  Remember that you have to come back and see me within the time limit in order for it to be approved.  Also, unless you complete this challenge or quit first, you can't try out for another title.");
+            qm.sendNext("我给你30天的时间来达成你的目标。一旦完成，回来见我。记住你必须在时间限制内回来见我才能获得批准。另外，除非你先完成这个挑战或放弃，否则你不能尝试其他称号。");
             qm.forceStartQuest();
         }
 

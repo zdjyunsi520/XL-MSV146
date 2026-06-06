@@ -1,5 +1,0 @@
-<imgdir name="21110010">
-        <string name="name" value="Cleaving Blows" />
-        <string name="desc" value="Ignores a portion of a monster&apos;s defense and allows you to deal additional damage to boss monsters." />
-        <string name="h" value="Defense Ignored: #ignoreMobpdpR%, Damage Against Boss Monster: +#bdR%" />
-    </imgdir>

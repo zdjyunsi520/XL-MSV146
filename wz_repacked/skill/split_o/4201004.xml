@@ -1,7 +1,0 @@
-<imgdir name="4201004">
-        <string name="name" value="Steal" />
-        <string name="desc" value="Quickly attack multiple enemies, and get a chance to steal one of the items that the target drops and a potion that recovers HP or MP immediately. You can steal each item and potion only once from a single enemy. Can attempt repeatedly until you succeed. Potions stolen from bosses recover HP and MP fully and boost Weapon ATT for a short time." />
-        <string name="h" value="MP Cost: #mpCon, Steal Chance: #prop%, Max Enemies Hit: #mobCount, Damage: #damage%, Stun Duration: #time sec. When consuming a potion that was stolen from a boss, it recovers HP/MP and activates Weapon ATT +30 buff for 3 minutes" />
-        <string name="pdesc" value="Quickly attack multiple enemies, and get a chance to steal one of the items that the target drops and a potion that recovers HP or MP immediately. You can steal each item and potion only once from a single enemy. Can attempt repeatedly until you succeed. Potions stolen from bosses recover HP and MP fully and boost Weapon ATT for a short time." />
-        <string name="ph" value="MP Cost: #mpCon, Steal Chance: #prop%, Max Enemies Hit: #mobCount, Damage: #damage%, Stun Duration: #time sec. When consuming a potion that was stolen from a boss, it recovers HP/MP and activates Weapon ATT +30 buff for 3 minutes" />
-    </imgdir>

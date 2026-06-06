@@ -1,7 +1,0 @@
-<imgdir name="5911002">
-        <string name="name" value="Gaviota" />
-        <string name="desc" value="Summons Gaviota, who&apos;s trained to throw grenades at monsters. Gaviota will seek a monster, and when it finds one, it&apos;ll toss the grenade and disappear." />
-        <string name="h" value="MP Cost: #mpCon, Gaviota Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons Gaviota, who&apos;s trained to throw grenades at monsters. Gaviota will seek a monster, and when it finds one, it&apos;ll toss the grenade and disappear." />
-        <string name="ph" value="MP Cost: #mpCon, Gaviota Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

@@ -1,8 +1,0 @@
-<imgdir name="1111007">
-        <string name="name" value="魔法碰撞" />
-        <string name="desc" value="有概率取消敌人所有增益效果并阻止其施放新的增益。[冷却：1分钟] 前置技能：#c怒吼 Lv.3#" />
-        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
-        <string name="pdesc" value="有概率取消敌人所有增益效果并阻止其施放新的增益。\n前置技能：#c怒吼 Lv.3#" />
-        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Chance to Remove All Buffs: #hcProp%, Buff Block Duration: #hcTime sec" />
-    </imgdir>

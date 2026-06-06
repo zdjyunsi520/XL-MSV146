@@ -9,14 +9,14 @@ function end(mode, type, selection) {
     else 
     {
 		if (status == 0) {
-			qm.sendNext("Wence has more to tell you. Go lend an ear`");
+			qm.sendNext("文斯还有话要告诉你。去听他说吧`");
 			qm.dispose();
 			return;
 		}
 		status--;
     }
     if (status == 0) {
-		qm.askAcceptDecline("You're received the Superior Hunter title!");
+		qm.askAcceptDecline("你获得了高级猎人称号！");
     } else if (status == 1) {
 		qm.forceCompleteQuest();
         qm.gainItem(2043602,5);

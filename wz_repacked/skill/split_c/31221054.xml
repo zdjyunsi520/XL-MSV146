@@ -1,5 +1,0 @@
-<imgdir name="31221054">
-        <string name="name" value="禁忌契约" />
-        <string name="desc" value="短时间内快速恢复HP。激活期间技能不消耗HP哦！" />
-        <string name="h" value="HP Cost: #hpCon , Duration: #time sec, Max HP: #indieMhpR%, Skill HP Usage: 0\nCooldown: #cooltime sec" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="61110211">
-        <string name="name" value="Tempest Blades (Transfiguration)" />
-        <string name="desc" value="Summon 3 of your swords to search for monsters, leaving tracers behind." />
-        <string name="h" value="MP Cost: #mpCon, # Swords Summoned: #bulletCount. #Use the skill again after summoning# to order the swords to attack for #damage% damage with #attackCount attacks.\nCooldown: #cooltime sec" />
-    </imgdir>

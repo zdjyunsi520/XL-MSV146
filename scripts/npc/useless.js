@@ -5,7 +5,7 @@ var fromYuanBaoMap;
 function start() {
     if (cm.getMapId() == 749040000) {
 	fromYuanBaoMap = true;
-	cm.sendSimple("Is this place too spooky for you? \n\r #b#L0#Yes, bring me back to where I came from.#l");
+	cm.sendSimple(");");
     } else if (cm.getMapId() == 749040001) {
 	cm.warp(cm.getSavedLocation("DONGDONGCHIANG"), 0);
 	cm.dispose();
@@ -56,7 +56,7 @@ function action(mode, type, selection) {
 	}
     } else {
 	if (mode == 1) {
-	    cm.warp(cm.getSavedLocation("DONGDONGCHIANG") < 0 ? 100000000 : cm.getSavedLocation("DONGDONGCHIANG"), 0);
+	    cm.warp(cm.getSavedLocation("DONGDONGCHIANG"), 0);"DONGDONGCHIANG"), 0);
 	    cm.clearSavedLocation("DONGDONGCHIANG");
 	}
     }

@@ -1,7 +1,0 @@
-<imgdir name="31001000">
-        <string name="name" value="死神镰刀" />
-        <string name="desc" value="召唤恶魔镰刀，撕裂前方多个敌人。\n前置技能：#c恶魔鞭笞 Lv.1#" />
-        <string name="h" value="HP消耗：#hpCon，怒气消耗：#forceCon，按住技能键时 - 伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount" />
-        <string name="pdesc" value="召唤恶魔镰刀，撕裂前方多个敌人。\n前置技能：#c恶魔鞭笞 Lv.1#" />
-        <string name="ph" value="HP消耗：#hpCon，怒气消耗：#forceCon，按住技能键时 - 伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount" />
-    </imgdir>

@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-		cm.sendNextS("I'll let you go this time, but just you wait. Those animals will be mine!",5);
+		cm.sendNextS("这次先放过你，但你等着。那些动物迟早是我的！",5);
     } else if (status == 1) {
 	    cm.forceCompleteQuest(59070);
 		cm.levelUp();

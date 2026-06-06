@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-    cm.sendNext("Auf Haven the angel is defeated...");
+    cm.sendNext("天使奥夫·海文被击败了……");
     cm.forceCompleteQuest(50019);
     cm.forceStartQuest();
     cm.dispose();

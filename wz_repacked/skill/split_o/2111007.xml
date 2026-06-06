@@ -1,5 +1,0 @@
-<imgdir name="2111007">
-        <string name="name" value="Teleport Mastery" />
-        <string name="desc" value="When activated, instead of consuming extra MP, enemies at the teleport location will take damage and become Stunned. Also has a chance to apply more damage over time. Also permanently increases teleport distance. \nThis skill can be toggled on and off with the skill key. \nRequired Skill: #cTeleport Lv. 5#" />
-        <string name="h" value="Additional MP Cost: #y, Max Enemies Hit: #mobCount, Damage: #damage%, Stun Chance: #subProp%, Stun Duration: #time. For #dotTime sec, #dot% damage at every #dotInterval sec. Permanently increases Teleport distance by #x" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="23121000">
-        <string name="name" value="Ishtar&apos;s Ring" />
-        <string name="desc" value="Borrows the power of Ishtar, a legendary weapon, to rapidly fire arrows at enemies ahead of you. Hold down the skill key to fire arrows continuously. In addition, damage from Stunning Strikes will be increased permanently.\nRequired Skill: #cStunning Strikes Lv. 20#" />
-        <string name="h" value="Active Effect: MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount\nPassive Effect: Stunning Strikes Damage: +#damR%" />
-        <string name="pdesc" value="Borrows the power of Ishtar, a legendary weapon, to rapidly fire arrows at enemies ahead of you. Hold down the skill key to fire arrows continuously. In addition, damage from Stunning Strikes will be increased permanently.\nRequired Skill: #cStunning Strikes Lv. 20#" />
-        <string name="ph" value="Active Effect: MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount\nPassive Effect: Stunning Strikes Damage: +#damR%" />
-    </imgdir>

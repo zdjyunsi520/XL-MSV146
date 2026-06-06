@@ -1,7 +1,0 @@
-<imgdir name="2311006">
-        <string name="name" value="Magic Booster" />
-        <string name="desc" value="Consumes MP to increase Magic Attack Speed by two steps for set duration." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
-        <string name="pdesc" value="Summons a holy dragon for a certain amount of time." />
-        <string name="ph" value="MP Cost: #mpCon, Mine Damage: #damage%, Duration: #time sec" />
-    </imgdir>

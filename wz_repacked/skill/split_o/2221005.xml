@@ -1,7 +1,0 @@
-<imgdir name="2221005">
-        <string name="name" value="Elquines" />
-        <string name="desc" value="Summons Elquines for a short time. Elquines can attack multiple enemies at once and upon learning the Elquines skill, the mastery will permanently increase. \nRequired skill: #cSpell Mastery Lv. 10 or above#" />
-        <string name="h" value="MP Cost: #mpCon, Summon Elquines Duration: #time sec, Damage: #damage% to up to 3 enemies simultaneously.\n[Passive Effect: Permanently increases Mastery by #mastery%]" />
-        <string name="pdesc" value="Summons Elquines for a short time. Elquines can attack multiple enemies at once and upon learning the Elquines skill, the mastery will permanently increase. \nRequired skill: #cSpell Mastery Lv. 10 or above#" />
-        <string name="ph" value="MP Cost: #mpCon, Summon Elquines Duration: #time sec, Damage: #damage% to up to 3 enemies simultaneously.\n[Passive Effect: Permanently increases Mastery by #mastery%]" />
-    </imgdir>

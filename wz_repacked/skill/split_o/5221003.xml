@@ -1,7 +1,0 @@
-<imgdir name="5221003">
-        <string name="name" value="Air Strike" />
-        <string name="desc" value="Uses the grenade attack of Gaviota to damage multiple monsters. \nRequired Skill: #cGaviota Lv. 15#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Max Monsters Hit: 10, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Uses the grenade attack of Gaviota to damage multiple enemies. \nRequired Skill: #cGaviota Lv. 15#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% Max Enemies Hit: #mobCount, Cooldown: #cooltime sec" />
-    </imgdir>

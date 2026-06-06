@@ -21,14 +21,14 @@ function end(mode, type, selection) {
 	if (status == 0) {
 	    if (qm.haveItem(4031059, 1) ) {//black charm
                 qm.removeAll(4031059);
-                qm.sendOk("Congratiulations! You have become a Marauder!");
+                qm.sendOk("恭喜！你已经成为一名武僧了！");
                 qm.changeJob(521);
 				qm.gainSp(3);
                 qm.forceCompleteQuest();
                 qm.dispose();
             }
 	}else{
-            qm.sendOk("Please go find the Black Charm.");
+            qm.sendOk("请去找黑色护身符。");
             qm.dispose();
         }
     }

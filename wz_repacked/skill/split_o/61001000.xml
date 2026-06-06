@@ -1,5 +1,0 @@
-<imgdir name="61001000">
-        <string name="name" value="Dragon Slash" />
-        <string name="desc" value="Mash the attack key to whip enemies in front of you up to 3 times. Can be used with basic attack key while in Final Form." />
-        <string name="h" value="1-hit: Attack up to #mobCount enemies for #damage% damage #attackCount times\n2-hit: Up to #s enemies attack for #u% damage #v times\n3-hit  Up to #w enemies attacked for #y% damage #z times" />
-    </imgdir>

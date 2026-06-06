@@ -1,5 +1,0 @@
-<imgdir name="4341052">
-        <string name="name" value="阿修罗之怒" />
-        <string name="desc" value="创造一个风刃旋涡，伤害附近的敌人。" />
-        <string name="h" value="消耗MP：#mpCon，持续时间：#time秒，无视防御：#x%，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，使用技能时可移动。\n冷却时间：#cooltime秒" />
-    </imgdir>

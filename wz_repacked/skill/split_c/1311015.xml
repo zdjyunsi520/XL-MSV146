@@ -1,5 +1,0 @@
-<imgdir name="1311015">
-        <string name="name" value="十字激涌" />
-        <string name="desc" value="短时间内#c根据当前HP比例提升总伤害#。同时#c根据减少的HP比例减少受到的伤害#~" />
-        <string name="h" value="MP消耗: #mpCon，持续#time秒，总伤害按#c当前HP比例的#x%#增加。#c受到的伤害将按#减少HP的#y%减少，最多#z" />
-    </imgdir>

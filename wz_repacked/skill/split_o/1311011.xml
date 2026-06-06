@@ -1,7 +1,0 @@
-<imgdir name="1311011">
-        <string name="name" value="La Mancha Spear" />
-        <string name="desc" value="Wields your spear like a windmill to deal damage and pierce nearby enemies." />
-        <string name="pdesc" value="Wields your spear like a windmill to deal damage and pierce nearby enemies." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. If you continuously press and hold the key, lasts up to #time sec. Attack with #y% damage when you release the key" />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. If you continuously press and hold the key, lasts up to #time sec. Attack with #y% damage when you release the key" />
-    </imgdir>

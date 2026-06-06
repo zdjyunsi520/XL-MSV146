@@ -42,19 +42,19 @@ function start() {
             break;
         }
     if (hasRing)
-        cm.sendNext("You've reached the end of the wedding. You will recieve an Onyx Chest for Bride and Groom and an Onyx Chest. Exchange them at Pila, she is at the top of Amoria.");
+        cm.sendNext("哇，婚礼这么快就结束了？那就再见啦！");
     else if (cm.haveItem(4000313)) {
-        cm.sendNext("Wow the end of the wedding already ? Good bye then.!");
+        cm.sendNext("你没有金色枫叶也没有婚礼戒指，所以我将带你回到阿莫利亚。");
         status = 20;
     } else {
-        cm.sendNext("You do not have the Gold Maple Leaf and you do not have a wedding ring so I will take you to Amoria.");
+        cm.sendNext("那就再见啦");
         status = 21;
     }
 }
 
 function action(mode, type, selection) {
     if (mode < 1) {
-        cm.sendOk("Goodbye then");
+        cm.sendOk("那就再见啦");
         cm.dispose();
     } else {
         status++;

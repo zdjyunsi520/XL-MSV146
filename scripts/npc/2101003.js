@@ -5,7 +5,7 @@
 
 
 function start() {
-    cm.sendNext ("Hey hey, don't try to start trouble with anyone. I want nothing to do with you.");
+    cm.sendNext ("嘿，别跟任何人惹事。我不想跟你有任何瓜葛。");
 }
 
 function action() {

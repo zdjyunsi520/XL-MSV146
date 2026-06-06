@@ -1,5 +1,0 @@
-<imgdir name="61121102">
-        <string name="name" value="Dragon Barrage" />
-        <string name="h" value="MP Cost: #mpCon, Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Instant KO Chance: #prop%\r\nFinal Form: MP Cost: #v, Mobs Hit: #z, Damage: #y%, Number of Attacks: #w, Instant KO Chance: #x%" />
-        <string name="desc" value="Quickly move and attack enemies with chance to instantly KO them.\n#cDragon Link: During Attack + ← Dragon Link" />
-    </imgdir>

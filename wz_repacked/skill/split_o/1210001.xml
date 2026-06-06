@@ -1,7 +1,0 @@
-<imgdir name="1210001">
-        <string name="name" value="Shield Mastery" />
-        <string name="desc" value="Increases Elemental Resistance, Status Ailment Resistance, Weapon DEF, Magic DEF, and Weapon ATT when a shield is equipped. Gives your shield a chance to block and stun enemies." />
-        <string name="h" value="When shield is equipped - Status Ailment and Elemental Resistance: +#asrR%, Weapon and Magic DEF: +#x%, Weapon DEF: +#y, Guard Chance: #prop%, Stun Chance on Guard: #subProp%" />
-        <string name="pdesc" value="Increases Elemental Resistance, Status Ailment Resistance, Weapon DEF, Magic DEF, and Weapon ATT when a shield is equipped. Gives your shield a chance to block and stun enemies." />
-        <string name="ph" value="When shield is equipped - Status Ailment and Elemental Resistance: +#asrR%, Weapon and Magic DEF: +#x%, Weapon DEF: +#y, Guard Chance: #prop%, Stun Chance on Guard: #subProp%" />
-    </imgdir>

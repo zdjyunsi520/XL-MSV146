@@ -1,8 +1,0 @@
-<imgdir name="5311001">
-        <string name="name" value="Monkey Madness" />
-        <string name="desc" value="Explodes a large number of special bombs that deals damage on multiple nearby enemies and stuns them for a fixed period of time. In addition, when Monkey Madness is learned, damage from Barrel Bomb will increase permanently." />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-        <string name="pdesc" value="Explodes a large number of special bombs that deals damage on multiple nearby enemies and stuns them for a fixed period of time. In addition, when Monkey Madness is learned, damage from Barrel Bomb will increase permanently." />
-        <string name="ph" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-        <string name="hch" value="Active Effects - MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Cooldown: #cooltime sec\nPassive Effects - Barrel Bomb: +#damR%" />
-    </imgdir>

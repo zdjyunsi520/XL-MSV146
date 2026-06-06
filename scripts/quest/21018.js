@@ -5,16 +5,16 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    qm.sendNext("Oh, is 5 not enough? If you feel the need to train further, please feel free to slay more than that. If you slay all of them, I''ll just have to look the other way even if it breaks my heart, since they will have been sacrificed for a good cause...");
+	    qm.sendNext("哦，5只不够吗？如果你觉得需要更多训练，请随意多打一些。如果你把它们全部打完了，我也只能视而不见，即使我很心疼，因为它们将是为了正义的事业而牺牲...");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("Now, you will undergo a test that will determine whether you''re fit or not. All you have to do is take on the most powerful monster on this island, #o0100134#s. About #r50#k of them would suffice, but...");
+	qm.sendNext("现在，你将接受一项测试来决定你是否合格。你所要做的就是对抗这个岛上最强大的怪物——#o0100134#。大约#r50只#k就够了，但是...");
     } else if (status == 1) {
-	qm.askAcceptDecline("We can't have you wipe out the entire population of #o0100134#s, since they aren't many of them out there. How about 5 of them? You're here to train, not to destroy the ecosystem.");
+	qm.askAcceptDecline("我们不能让你把#o0100134#全部消灭，因为它们的数量本来就不多。5只怎么样？你是来训练的，不是来破坏生态系统的。");
     } else if (status == 2) {
 	qm.forceStartQuest();
 	qm.AranTutInstructionalBubble("Effect/OnUserEff.img/guideEffect/aranTutorial/tutorialArrow1");

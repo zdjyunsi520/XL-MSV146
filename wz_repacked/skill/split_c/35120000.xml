@@ -1,7 +1,0 @@
-<imgdir name="35120000">
-        <string name="name" value="极限机甲" />
-        <string name="desc" value="进一步增强机甲的攻击力、防御力、最大HP、最大MP和武器熟练度。\n前置技能：#c机甲原型 Lv. 10#" />
-        <string name="h" value="攻击力：+#epad，防御力：+#epdd，最大HP：+#emhp，最大MP：+#emmp，武器熟练度：+#mastery" />
-        <string name="pdesc" value="进一步增强机甲的对战模式攻击力、防御力、最大HP、最大MP和武器熟练度。\n前置技能：#c机甲原型 Lv. 10#" />
-        <string name="ph" value="对战模式攻击力：+#PVPdamage，防御力：+#epdd，最大HP：+#emhp，最大MP：+#emmp，武器熟练度：+#mastery" />
-    </imgdir>

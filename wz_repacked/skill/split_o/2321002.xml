@@ -1,7 +1,0 @@
-<imgdir name="2321002">
-        <string name="name" value="Mana Reflection" />
-        <string name="desc" value="By drawing on incredible inner strength, you reverse the Mana flow of a monster, reflecting the damage the monster dealt. The returned damage cannot exceed 20% of Max HP of the monster." />
-        <string name="h" value="MP Cost: #mpCon, Damage Reflected: #x%, Proc Rate: #prop%, Duration: #time sec" />
-        <string name="pdesc" value="By drawing on incredible inner strength, you reverse the Mana flow of a monster, reflecting the damage the monster dealt. The returned damage cannot exceed 20% of Max HP of the monster." />
-        <string name="ph" value="MP Cost: #mpCon, Damage Reflected: #x%, Proc Rate: #prop%, Duration: #time sec" />
-    </imgdir>

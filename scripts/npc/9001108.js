@@ -27,19 +27,19 @@ var selected = 0;
 
 function start() {
 	if (cm.getPlayer().getMapId() == 100000000) {
-		cm.sendNext("There! Did you see that? You didn't? A UFO  just passed... there!! Look, someone is getting dragged into the UFO... arrrrrrgh, it's Gaga! #rGaga just got kidnapped by a UFO!#k");
+		cm.sendNext("那里！你看到了吗？没看到？一个UFO刚刚飞过...在那！！看，有人被UFO拖走了...啊啊啊，是卡卡！#r卡卡刚刚被UFO绑架了！#k");
 	} else if (cm.getPlayer().getMapId() == 922240200) {
-		cm.sendSimple("Did you have something to say...? #b\b\r\n#L0#I want to rescue Gaga.#l\r\n#L1#I want to go to the Space Mine.#l");
+		cm.sendSimple("你有什么要说的吗...？#b\b\r\n#L0#我想去营救卡卡。#l\r\n#L1#我想去太空矿场。#l");
 	} else if (cm.getPlayer().getMapId() >= 922240000 && cm.getPlayer().getMapId() <= 922240019) {
-		cm.sendYesNo("Don't worry if you fail. You'll have 3 chances. Do you still want to give up?"); 
+		cm.sendYesNo("失败了也没关系。你有3次机会。你确定要放弃吗？"); 
 	} else if (cm.getPlayer().getMapId() >= 922240100 && cm.getPlayer().getMapId() <= 922240119) {
-		var text = "You went through so much trouble to rescue Gaga, but it looks like we're back to square one. ";				
+		var text = "你费了很大力气去营救卡卡，但看来我们又回到了起点。 ";				
 		var rgaga = cm.getPlayer().getEvents().getGagaRescue();
 		if (rgaga.getCompleted() == 10 || rgaga.getCompleted() == 20) {
-			text += "Please don't give up untill Gaga is rescued. To show you my appreciation for what you've accomplished thus far, I've given you a Spaceship. It's rather worn out, but it should still be operational. Check your #bSkill Window#k.";
+			text += "请不要在卡卡被救出之前放弃。为了感谢你到目前为止的付出，我给了你一艘太空飞船。虽然有些破旧，但应该还能用。请查看你的#b技能窗口#k。";
 			rgaga.giveSkill(cm.getPlayer());
 		} else 
-			text += "Let's go back now.";
+			text += "我们回去吧。";
 					
 		cm.sendNext(text); 
 	}
@@ -51,12 +51,12 @@ function action(m,t,s) {
 		if (cm.getPlayer().getMapId() == 100000000) { // warper completed
 			if (status == 1) {
 				if (cm.getPlayer().getLevel() >= 12) 
-					cm.sendYesNo("What do we do now? It's just a rumor yet, but... I've heard that scary things happen to you if you get kidnapped by aliens... may be that's what happenning to Gaga right now! Please, please rescue Gaga! \r\n #bGaga may be a bit indetermined and clueless, but#k he has a really good heart. I can't let something terrible happen to him. Right! Grandpa from the moon might know how to rescue him! I will send you to the moon, so please go meet Grandpa and rescue Gaga");
+					cm.sendYesNo("现在怎么办？虽然还只是传言，但...我听说被外星人绑架后会发生可怕的事情...也许卡卡正在经历这些！拜托，请一定要救救卡卡！\r\n #b卡卡可能有点优柔寡断和迷糊，但#k他真的有一颗善良的心。我不能让他遭遇不测。对了！月亮上的爷爷可能知道怎么救他！我会把你送到月球上，请去找爷爷并营救卡卡");
 				else 
-					cm.sendOk("Oh! it seems you don't reach the level requirements to save Gaga. Please come back when you are level 12 or higher.");
+					cm.sendOk("哦！看来你还达不到救卡卡的等级要求。请在达到12级或以上后再来。");
           
 			} else if (status == 2)
-				cm.sendNext("Thank you so much. Please rescue Gaga! Grandpa from the moon will help you.");
+				cm.sendNext("非常感谢。请营救卡卡！月亮上的爷爷会帮助你的。");
 			else if (status == 3) {
 				cm.warp(922240200); 
 				cm.dispose();
@@ -65,16 +65,16 @@ function action(m,t,s) {
 			if (status == 1) {
 				if(s == 0) {
 					selected = 1;
-					cm.sendNext("Welcome! I heard what happened from Baby Moon Bunny I'm glad you came since I was Planning on requesting some help. Gaga is a friend of mine who has helped me before and often stops by to say hello. Unfortunaley, he was kidnapped by aliens."); 
+					cm.sendNext("欢迎！我从月兔宝宝那里听说了发生的事情，我很高兴你来了，因为我正计划请求帮助。卡卡是我的朋友，他以前帮助过我，也经常来问候。不幸的是，他被外星人绑架了。"); 
 				} else {
 					selected = 2;
-					cm.sendYesNo("At the Space Mine, you can find special ores called #bKrypto Crystals#k that contain the mysterious power of space. #bKrypto Crystals#l are usually emerald in color, but will turn brown if hit with the Spaceship's #bSpace Beam#k. Remember, in order to thwart this alien conspracy, #b10 Brown Krypto Crystal's and 10 Emerald Krypto Crystal's are needed. But since even #b1 Krypto Crystal#k can be of help, brign me as many as possible. Oh, and one more thing! The Space Mines are protected by the Space Mateons. They are extemely strong due to the power of the #Krypto Crystals#k, so don't try to defeat them. Simply concentrate on quickly collecting the crystals."); 
+					cm.sendYesNo("在太空矿场，你可以找到一种叫做#b加密水晶#k的特殊矿石，它蕴含着太空的神秘力量。#b加密水晶#l通常是翠绿色的，但如果被太空飞船的#b太空光束#k击中就会变成棕色。记住，为了挫败这个外星阴谋，#b需要10颗棕色加密水晶和10颗翠绿加密水晶#k。但即使只有#b1颗加密水晶#k也能帮上忙，请尽可能多地带给我。哦，还有一件事！太空矿场由太空变形怪守护。它们因为#b加密水晶#k的力量变得极其强大，所以不要试图击败它们。只需专注于快速收集水晶。"); 
 				} 
 			} else if (status == 2) {
 				if(selected == 1) {
-					cm.sendYesNo("If we just leave Gaga with the aliens, something terrible will happen to him! I'll let you borrow a spaceship that the Moon Bunnies use for traveling so that you can rescue Gaga.#b Although he might appear a bit indecieve, slow, and immature at times#k, he's really a nice young man. Do you want to go rescue him now?");
+					cm.sendYesNo("如果我们就这样把卡卡留给外星人，他会遭遇可怕的事情！我借给你一艘月兔们用于旅行的太空飞船，这样你就可以去营救卡卡了。#b虽然他有时可能显得有些优柔寡断、迟钝和不成熟#k，但他真的是个好人。你想现在去营救他吗？");
 				} else if(selected == 2) { 
-					cm.sendOk("Not coded yet, f4."); 
+					cm.sendOk("尚未编写，f4。"); 
 					cm.dispose();
 				}
 			} else  if (status == 3) {
@@ -89,7 +89,7 @@ function action(m,t,s) {
 				if (number > -1) 
 					cm.warp(922240000 + number);
 				else 
-					cm.sendOk("There are currently no empty maps, please try again later.");
+					cm.sendOk("目前没有空闲的地图，请稍后再试。");
 				
 				cm.dispose();
 			}
@@ -100,7 +100,7 @@ function action(m,t,s) {
 	} else if (m < 1) {
 		if(m == 0) {
 			if (cm.getPlayer().getMapId() == 922240200)  {
-				cm.sendOk("That's a shame, come back when your ready.");
+				cm.sendOk("太遗憾了，等你准备好了再来吧。");
 			}
 		}
 		cm.dispose();

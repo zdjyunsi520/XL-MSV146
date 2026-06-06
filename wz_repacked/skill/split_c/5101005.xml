@@ -1,7 +1,0 @@
-<imgdir name="5101005">
-        <string name="name" value="MP回复" />
-        <string name="desc" value="消耗HP立即恢复MP。HP低于20%时无法使用~" />
-        <string name="h" value="最大HP: -#x%, MP回复: 消耗HP的#y%, 冷却时间: #cooltime秒" />
-        <string name="pdesc" value="通过消耗少量HP来恢复MP~" />
-        <string name="ph" value="最大HP: -#x%, MP回复: 消耗HP的#y%, 冷却时间: #cooltime秒" />
-    </imgdir>

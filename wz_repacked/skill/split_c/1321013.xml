@@ -1,5 +1,0 @@
-<imgdir name="1321013">
-        <string name="name" value="冈格尼尔之矛" />
-        <string name="desc" value="从天空中降下巨大的神话之矛造成伤害。#c最大HP越高伤害越高#~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage% + 最大HP的#x%，攻击次数: #attackCount，无视敌人防御: #ignoreMobpdpR%，冷却时间: #cooltime秒。但在最终契约或献身状态下无视冷却时间" />
-    </imgdir>

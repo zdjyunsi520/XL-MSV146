@@ -1,5 +1,0 @@
-<imgdir name="101101100">
-        <string name="name" value="闪光斩" />
-        <string name="desc" value="用力挥动长剑攻击前方多个敌人。" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount\n#c冷却时间: #cooltime秒#" />
-    </imgdir>

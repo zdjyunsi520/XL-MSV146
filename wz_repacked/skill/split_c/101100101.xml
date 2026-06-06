@@ -1,5 +1,0 @@
-<imgdir name="101100101">
-        <string name="name" value="高级投掷武器" />
-        <string name="desc" value="更强力的投掷武器攻击。提升伤害并增加击退效果。\n[前置技能]: #c投掷武器 Lv. 10#" />
-        <string name="h" value="时间之力消耗: #forceCon, 每0.3秒伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount, 持续时间: #time秒" />
-    </imgdir>

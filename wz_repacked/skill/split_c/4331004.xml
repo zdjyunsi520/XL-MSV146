@@ -1,5 +1,0 @@
-<imgdir name="4331004">
-        <string name="name" value="上挑攻击" />
-        <string name="desc" value="将多个敌人挑飞到空中！攻击空中敌人可造成额外伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Bonus Damage (to airborne enemies): #x%" />
-    </imgdir>

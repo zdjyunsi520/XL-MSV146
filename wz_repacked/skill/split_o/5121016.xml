@@ -1,7 +1,0 @@
-<imgdir name="5121016">
-        <string name="name" value="Buccaneer Blast" />
-        <string name="desc" value="Focuses your energy into powerful bolts that shoot at enemies. #cWhen fully charged,# Double Blast does more damage and travels further." />
-        <string name="h" value="MP Cost: #mpCon, Number of Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, when energy is fully charged, the damage of Double Blast increases by #damR%" />
-        <string name="pdesc" value="Focuses your energy into powerful bolts that shoot at enemies. #cWhen fully charged,# Double Blast does more damage and travels further." />
-        <string name="ph" value="MP Cost: #mpCon, Number of Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, when energy is fully charged, the damage of Double Blast increases by #damR%" />
-    </imgdir>

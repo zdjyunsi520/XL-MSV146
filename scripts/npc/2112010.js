@@ -9,7 +9,7 @@ function action(mode, type, selection) {
     }
     if (em.getProperty("stage").equals("1") && em.getProperty("stage5").equals("0")) {
 	//advance to angry!
-	cm.sendOk("What... a suspicious conspiracy? This can't be...");
+	cm.sendOk("什么……一个可疑的阴谋？这不可能……");
 	em.setProperty("stage", "2");
     } else if (em.getProperty("stage5").equals("1") && cm.getMap().getAllMonstersThreadsafe().size() == 0) {
 	cm.sendOk("Continue.");	

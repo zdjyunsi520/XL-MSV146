@@ -1,5 +1,0 @@
-<imgdir name="36110004">
-        <string name="name" value="神盾系统" />
-        <string name="desc" value="被敌人攻击或成功回避后有几率发射防御导弹。导弹会对敌人造成伤害，并无视攻击反射。激活后需要短暂待机才能发射。" />
-        <string name="h" value="Chance to fire missiles when hit or evading: #prop%, Damage:  #damage%, Number of Missiles: #x, Cooldown: 1.5 sec." />
-    </imgdir>

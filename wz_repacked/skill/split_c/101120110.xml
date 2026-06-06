@@ -1,5 +1,0 @@
-<imgdir name="101120110">
-        <string name="name" value="暴击束缚" />
-        <string name="desc" value="贝塔攻击时有几率束缚敌人。被束缚的敌人会流血，更易受到阿尔法的攻击~" />
-        <string name="h" value="贝塔攻击束缚几率: #prop%，持续时间: #time\n阿尔法攻击时目标额外暴击率: #x%。\n束缚效果在造成与剩余效果时间成比例的伤害后过期\n#c此技能效果的目标将免疫暴击束缚15秒#" />
-    </imgdir>

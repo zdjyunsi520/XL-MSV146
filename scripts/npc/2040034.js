@@ -22,9 +22,9 @@ function action(mode, type, selection) {
 	cm.removeAll(4001022);
 	cm.removeAll(4001023);
 	if (cm.getParty() == null) { // No Party
-	    cm.sendOk("How about you and your party members collectively beating a quest? Here you'll find obstacles and problems where you won't be able to beat it unless with great teamwork. If you want to try it, please tell the #bleader of your party#k to talk to me.\r\n\r\n#rRequirements: " + minPartySize + " Party Members, all between level " + minLevel + " and level " + maxLevel + ".#b");
+	    cm.sendOk("要不要和你的组队成员一起挑战一个任务？在这里你会遇到各种障碍和难题，没有出色的团队合作是无法通过的。如果你想尝试，请让你们的#b队长#k来找我谈话。\r\n\r\n#r要求： " + minPartySize + " 组队成员，等级在 " + minLevel + " 和 " + maxLevel + ".#b");
 	} else if (!cm.isLeader()) { // Not Party Leader
-	    cm.sendOk("If you want to try the quest, please tell the #bleader of your party#k to talk to me.");
+	    cm.sendOk("如果你想尝试任务，请让你们的#b队长#k来找我谈话。");
 	} else {
 	    // Check if all party members are within PQ levels
 	    var party = cm.getParty().getMembers();
@@ -51,7 +51,7 @@ function action(mode, type, selection) {
 	    if (next) {
 		var em = cm.getEventManager("LudiPQ");
 		if (em == null) {
-		    cm.sendOk("The Ludibrium PQ has encountered an error. Please report this on the forums, with a screenshot.");
+		    cm.sendOk("玩具城组队任务出现错误。请在论坛上提交截图报告此问题。");
 		} else {
 		    var prop = em.getProperty("state");
 		    if (prop.equals("0") || prop == null) {
@@ -61,11 +61,11 @@ function action(mode, type, selection) {
 			cm.dispose();
 			return;
 		    } else {
-			cm.sendOk("Another party has already entered the #rParty Quest#k in this channel. Please try another channel, or wait for the current party to finish.");
+			cm.sendOk("另一个队伍已经在此频道进入了#r组队任务#k。请尝试其他频道，或等待当前队伍完成。");
 		    }
 		}
 	    } else {
-		cm.sendOk("Your party is invalid. Please adhere to the following requirements:\r\n\r\n#rRequirements: " + minPartySize + " Party Members, all between level " + minLevel + " and level " + maxLevel + ".");
+		cm.sendOk("你的队伍不符合要求。请遵守以下条件：\r\n\r\n#r要求： " + minPartySize + " 组队成员，等级在 " + minLevel + " 和 " + maxLevel + ".");
 	    }
 	}
 	cm.dispose();

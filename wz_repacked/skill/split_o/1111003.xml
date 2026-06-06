@@ -1,8 +1,0 @@
-<imgdir name="1111003">
-        <string name="name" value="Panic" />
-        <string name="desc" value="Deals damage to multiple enemies and decreases their attack power, with a chance to inflict blindness. Only possible with a combo count of 2 or more. Panic&apos;s blindness effect is applicable to all monsters, #cbut its duration is cut in half against bosses#." />
-        <string name="h" value="By using #mpCon MP and #y combo orb, Max Enemies Hit: #mobCount, Damage: #damage%, Enemy&apos;s Attack Power: -#z%. When Shadow Attack and Blind effect activates at #prop% chance, Enemy&apos;s Accuracy: -#x% for #time sec. When it&apos;s used within #subTime sec, 1 additional combo orb will be consumed" />
-        <string name="pdesc" value="Deals damage to multiple enemies and decreases their attack power, with a chance to inflict blindness. Only possible with a combo count of 2 or more. Panic&apos;s blindness effect is applicable to all monsters, #cbut its duration is cut in half against bosses#." />
-        <string name="ph" value="By using #mpCon MP and #y combo orb, Max Enemies Hit: #mobCount, Damage: #damage%, Enemy&apos;s Attack Power: -#z%. When Shadow Attack and Blind effect activates at #prop% chance, Enemy&apos;s Accuracy: -#x% for #time sec. When it&apos;s used within #subTime sec, 1 additional combo orb will be consumed" />
-        <string name="hch" value="By using #mpCon MP and #y combo orb, Max Enemies Hit: #mobCount, Damage: #damage%, Enemy&apos;s Attack Power: -#z%. When Shadow Attack and Blind effect activates at #prop% chance, Enemy&apos;s Accuracy: -#x% for #time sec. When it&apos;s used within #subTime sec, 1 additional combo orb will be consumed" />
-    </imgdir>

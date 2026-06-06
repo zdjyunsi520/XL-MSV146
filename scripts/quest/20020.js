@@ -11,13 +11,13 @@ function start(mode, type, selection) {
 	status--;
 
     if (status == 0) {
-	qm.sendNext("I can tell you've worked really hard by seeing that you're already at Level 10. I think it's time now for you to break out as a Nobless and officially become the Knight-in-Training. Before doing that, however, I want to ask you one thing. Have you decided which Knight you'd want to beome?");
+	qm.sendNext("看你已经10级了，能看出你真的很努力。我觉得是时候让你脱离初心者的身份，正式成为见习骑士了。不过在此之前，我想问你一件事。你决定好要成为哪种骑士了吗？");
     } else if (status == 1) {
-	qm.sendNext("There isn't a single path to becoming a Knight. In fact, there are five of them laid out for you. It's up to you to choose which path you'd like to take, but it should definitely be something you will not regret. That's why... I am offering to show you what you'll look like once you become a Knight.");
+	qm.sendNext("成为骑士不只有一条路。事实上，有五条路摆在你面前。由你来选择你想走哪条路，但一定不要选你会后悔的那一条。所以...我提议让你看看成为骑士后的样子。");
     } else if (status == 2) {
-	qm.sendNext("What do you think? Are you interested in seeing yourself as the leader of the Knights? If you have already decided what kind of Knight you'd like to become, then you won't necessarily have to look at it...#b#L0#Show me how I'd look like as the leader of the Knights.#l ..#b#L1#No, I'm okay.");
+	qm.sendNext("怎么样？你有兴趣看看自己成为骑士领袖的样子吗？如果你已经决定了要成为哪种骑士，那你就不一定要看了...#b#L0#让我看看我作为骑士领袖的样子。#l ..#b#L1#不，不用了。");
     } else if (status == 3) {
-	qm.sendYesNo("Would you like to see for it yourself right now? A short clip will come out soon. Be prepared for what you are about to witness.");
+	qm.sendYesNo("你想现在亲眼看看吗？短片马上就会播放。准备好迎接你即将看到的画面。");
     // IF selected no
     //Talk to me after you have decided what you really want to do. Whatever you choose, you will not miss out or lose privileges, so don't take this too seriously...
     } else if (status == 4) {

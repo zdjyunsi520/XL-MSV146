@@ -16,84 +16,84 @@ function action(mode, type, selection) {
     } else {
 	if (status > 2) {
 	    if(section == 0) {
-		cm.sendOk("Please think carefully. Once you have made your decision, let me know.");
+		cm.sendOk("请仔细考虑。做出决定后，请告诉我。");
 	    } else {
-		cm.sendOk("Think about it, and then let me know of your decision.");
+		cm.sendOk("好好考虑，然后告诉我你的决定。");
 	    }
 	    cm.safeDispose();
 	}
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("...Can I help you?\r\n#L0##bBuy the Magic Seed#k#l\r\n#L1##bDo something for Leafre#k#l\r\n#L2##bI want the Dragon Moss Extract#k#l");
+	cm.sendSimple("……有什么可以帮你的？\r\n#L0##b购买魔法种子#k#l\r\n#L1##b为神木村做点什么#k#l\r\n#L2##b我想要龙苔提取物#k#l");
     } else if(status == 1) {
 	section = selection;
 	if(section == 0) {
-	    cm.sendSimple("You don't seem to be from out town. How can I help you?#L0##bI would like some #t4031346#.#k#l");
+	    cm.sendSimple("你看起来不是本镇的人。有什么可以帮你的？#L0##b我想要一些#t4031346#。#k#l");
 	} else if (section == 1) {
-	    cm.sendNext("It is the chief's duty to make the town more hospitable for people to live in, and carrying out the duty will require lots of items. If you have collected items around Leafre, are you interested in donating them?");
+	    cm.sendNext("让城镇更适合人们居住是村长的职责，而履行职责需要大量的物品。如果你在神木村周围收集了物品，有兴趣捐赠吗？");
 	} else {
 		if (cm.isQuestActive(3759)) {
 			if (cm.haveItem(4032531)) {
-				cm.sendNext("Dragon Moss Extract...? I already gave you that!");
+				cm.sendNext("龙苔提取物……？我已经给过你了！");
 			} else {
-				cm.sendNext("Dragon Moss Extract...Ah, I see. I will give it to you in this situation.");
+				cm.sendNext("龙苔提取物……啊，我明白了。在这种情况下我会给你的。");
 				cm.gainItem(4032531,1);
 			}
 		} else {
-			cm.sendNext("What are you talking about? Dragon Moss Extract...?");
+			cm.sendNext("你在说什么？龙苔提取物……？");
 		}
 		cm.dispose();
 	}
     } else if(status == 2) {
 	if(section == 0) {
-	    cm.sendGetNumber("#b#t4031346##k is a precious iteml I cannot give it to you just like that. How about doing me a little favor? Then I'll give it to you. I'll sell the #b#t4031346##k to you for #b30,000 mesos#k each. Are you willing to make the purchase? How many would you like, then?",0,0,99);
+	    cm.sendGetNumber("#b#t4031346##k是珍贵的物品！我不能就这样给你。帮我做点小事怎么样？然后我就给你。我将以#b30,000金币#k每个的价格卖给你#b#t4031346##k。你愿意购买吗？那么，你想要多少个？",0,0,99);
 	} else {
 	    for (var i=0; i < itemID.length; i++) {
 		menu += "\r\n#L"+i+"##b#t"+itemID[i]+"##k#l";
 	    }
-	    cm.sendNext("Which item would you like to donate?"+menu);
+	    cm.sendNext("你想捐赠哪个物品？"+menu);
 	    cm.safeDispose();
 	}
     } else if(status == 3) {
 	if(section == 0) {
 	    if(selection == 0) {
-		cm.sendOk("I can't sell you 0.");
+		cm.sendOk("我不能卖给你0个。");
 		cm.safeDispose();
 	    } else {
 		temp = selection;
 		cost = temp * 30000;
-		cm.sendYesNo("Buying #b"+temp+" #t4031346#(s)#k will cost you #b"+cost+" mesos#k. Are you sure you want to make the purchase?");
+		cm.sendYesNo("购买#b"+temp+" 个#t4031346##k将花费你#b"+cost+" 金币#k。你确定要购买吗？");
 	    }
 	} else {
 	    temp = selection;
 	    if(!cm.haveItem(itemID[temp])) {
-		cm.sendNext("I don't think you have the item.");
+		cm.sendNext("我觉得你没有这个物品。");
 		cm.safeDispose();
 	    } else {
-		cm.sendGetNumber("How many #b#t"+itemID[temp]+"#k's would you like to donate?\r\n#b< Owned : #c"+itemID[temp]+"# >#k",0,0,"#c"+itemID[temp]+"#");
+		cm.sendGetNumber("你想捐赠多少个#b#t"+itemID[temp]+"#k？\r\n#b< 持有数量：#c"+itemID[temp]+"# >#k",0,0,"#c"+itemID[temp]+"#");
 	    }
 	}
     } else if(status == 4) {
 	if(section == 0) {
 	    if(cm.getMeso() < cost || !cm.canHold(4031346)) {
-		cm.sendOk("Please check and see if you have enough mesos to make the purchase. Also, I suggest you check the etc. inventory and see if you have enough space available to make the purchase.");
+		cm.sendOk("请检查你是否有足够的金币购买。另外，我建议你检查其他背包是否有足够的空间来完成购买。");
 	    } else {
-		cm.sendOk("See you again~");
+		cm.sendOk("再见~");
 		cm.gainItem(4031346, temp);
 		cm.gainMeso(-cost);
 	    }
 	    cm.safeDispose();
 	} else {
 	    count = selection;
-	    cm.sendYesNo("Are you sure you want to donate #b"+count+" #t"+itemID[temp]+"##k?");
+	    cm.sendYesNo("你确定要捐赠#b"+count+" #t"+itemID[temp]+"##k?");
 	}
     } else if(status == 5) {
 	if (count == 0 || !cm.haveItem(itemID[temp],count)) {
-	    cm.sendNext("Please check and see if you have enough of the item.");
+	    cm.sendNext("请检查你是否有足够的该物品。");
 	} else {
 	    cm.gainItem(itemID[temp],-count);
-	    cm.sendNext("Thank you very much.");
+	    cm.sendNext("非常感谢。");
 	}
 	cm.safeDispose();
     }

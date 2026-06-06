@@ -8,6 +8,6 @@
 
 
 function enter(pi) {
-    pi.getPlayer().message(5, "You cannot leave this portal.");
+    pi.getPlayer().message(5, "你不能离开这个传送门。");
     return false;
 }

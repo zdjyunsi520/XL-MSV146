@@ -1,14 +1,14 @@
 function enter(pi) {
     if (!pi.isLeader()) {
-	pi.playerMessage(5, "The leader must be here");
+	pi.playerMessage(5, "队长必须在这里");
     } else {
 	if (pi.getMap().getAllMonstersThreadsafe().size() != 0) {
-	    pi.playerMessage(5, "Please, clear all of the monsters!");
+	    pi.playerMessage(5, "请消灭所有怪物！");
 	    return;
 	}
 	if (((pi.getMapId() % 10) | 0) == 4) { //last stage
 	    //if (pi.getMap().getReactorByName("switch0").getState() < 1 || pi.getMap().getReactorByName("switch1").getState() < 1) {
-		//pi.playerMessage(5, "Both switches must be turned on. (Switch 0: " + (pi.getMap().getReactorByName("switch0").getState()) + ") (Switch 1: " + (pi.getMap().getReactorByName("switch1").getState()) + ")");
+		//pi.playerMessage(5, "两个开关都必须打开。（开关0： " + (pi.getMap().getReactorByName("switch0").getState()) + ") （开关1： " + (pi.getMap().getReactorByName("switch1").getState()) + ")");
 		//return;
 	    //}
 	    var bossroom = pi.getMapId() + 66;//90-14 = 76, 90-24=66

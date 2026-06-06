@@ -1,7 +1,0 @@
-<imgdir name="33001001">
-        <string name="name" value="美洲豹骑乘" />
-        <string name="desc" value="召唤驯服的美洲豹供你骑乘。提升最大HP、暴击率、最低暴击伤害、回避率和移动速度。骑乘玛瑙美洲豹或白雪美洲豹时#c50%几率发动站立效果#~" />
-        <string name="h" value="主动效果: MP消耗: #mpCon，骑乘时最大HP: #z%，暴击率: #w%，回避值: #y，移动速度: +#x\n[被动效果: 最低暴击伤害: +#criticaldamageMin%]" />
-        <string name="pdesc" value="召唤驯服的美洲豹供你骑乘。提升最大HP、暴击率、最低暴击伤害、回避率和移动速度~" />
-        <string name="ph" value="主动效果: MP消耗: #mpCon，骑乘时最大HP: #z%，暴击率: #w%，回避值: #y，移动速度: +#x\n[被动效果: 最低暴击伤害: +#criticaldamageMin%]" />
-    </imgdir>

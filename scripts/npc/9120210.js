@@ -14,16 +14,16 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.haveItem(baseid, 1, true, true)) { //grand champion
-	    cm.sendNext("You are the highest rank.");
+	    cm.sendNext("你目前的等级是 #i");
 	    cm.dispose();
 	} else {
 	    for (var i = 0; i < (points.length - 1); i++) {
 		if (cm.haveItem(baseid - (i+1), 1, true, true)) {
-		    cm.sendYesNo("You are at rank #i" + (baseid - (i+1)) + "#. \r\nWould you like to get the next rank? #i" + (baseid - i) + "#\r\nCost: " + points[i] + " coins");
+		    cm.sendYesNo("#。 \r\n你想要升级到下一等级吗？ #i" + (baseid - (i+1)) + "#\r\n费用:" + (baseid - i) + " 枚硬币 " + points[i] + "你没有勋章。 \r\n你想要获得一个吗？ #i");
 		    return;
 		}
 	    } 
-	    cm.sendYesNo("You do not have a medal. \r\nWould you like to get one? #i" + (baseid - (points.length - 1)) + "#\r\nCost: " + points[points.length - 1] + " coins");
+	    cm.sendYesNo("你没有" + (baseid - (points.length - 1)) + " 枚硬币 " + points[points.length - 1] + "你没有勋章。 \r\n你想要获得一个吗？ #i");
  	}
     } else if (status == 1) {
 	for (var i = 0; i < (points.length - 1); i++) {
@@ -38,11 +38,11 @@ function action(mode, type, selection) {
 
 function giveItem(stat) {
      if (!cm.haveItem(coin, points[stat])) {
-	cm.sendOk("You do not have " + points[stat] + " coins.");
+	cm.sendOk(" 枚硬币。 " + points[stat] + "你没有勋章。 \r\n你想要获得一个吗？ #i.");
      } else if (!cm.canHold(baseid - stat, 1)) {
-	cm.sendOk("Please make some space.");
+	cm.sendOk("请先取下你的勋章。");
      } else if (cm.getPlayer().hasEquipped(baseid - (stat+1))) {
-	cm.sendOk("Please take off your medal.");
+	cm.sendOk("请先取下你的勋章。");
      } else {
 	cm.gainItem(coin, -points[stat]);
 	cm.gainItem(baseid - stat, 1);

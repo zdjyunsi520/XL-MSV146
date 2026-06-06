@@ -1,5 +1,0 @@
-<imgdir name="31221002">
-        <string name="name" value="Nether Slice" />
-        <string name="desc" value="Attacks enemies and rips through armor. Any enemies hit will receive a debuff which temporarily reduces their armor." />
-        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Debuff Duration: #time sec, Enemy DEF: #y%" />
-    </imgdir>

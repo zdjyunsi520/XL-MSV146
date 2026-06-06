@@ -1,5 +1,0 @@
-<imgdir name="41120007">
-        <string name="name" value="嗜血之刃" />
-        <string name="desc" value="增强无情之刃造成的流血效果。\n前置技能：#c无情之刃10级以上#" />
-        <string name="h" value="状态异常概率：#prop%，每#dotInterval秒造成#dot%伤害，持续时间：#dotTime秒" />
-    </imgdir>

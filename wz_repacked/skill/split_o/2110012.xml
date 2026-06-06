@@ -1,5 +1,0 @@
-<imgdir name="2110012">
-        <string name="name" value="Mana Burn" />
-        <string name="desc" value="When attacking with fire, #cgrants a chance to burn out the enemy&apos;s MP to deal extra damage that ignores enemy defenses#. Does not work if the enemy&apos;s MP is extremely low." />
-        <string name="h" value="Upon casting fire magic, burn #x% of enemy&apos;s current MP at #c#prop% chance. #w times of consumed MP will be dealt as extra damage#. If enemy&apos;s MP is under #z%, activation will be restricted" />
-    </imgdir>

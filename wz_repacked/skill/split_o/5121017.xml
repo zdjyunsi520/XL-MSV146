@@ -1,5 +1,0 @@
-<imgdir name="5121017">
-        <string name="name" value="Double Blast" />
-        <string name="desc" value="Focuses you energy to fire powerful bolts. The damage and range are greater than Energy Blast." />
-        <string name="h" value="Energy Cost: #forceCon, Number of Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount" />
-    </imgdir>

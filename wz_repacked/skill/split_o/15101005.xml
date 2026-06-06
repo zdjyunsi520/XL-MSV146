@@ -1,7 +1,0 @@
-<imgdir name="15101005">
-        <string name="name" value="Energy Blast" />
-        <string name="desc" value="Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when your #cenergy is fully charged#.\nRequired Skill: #cEnergy Charge Lv. 1#" />
-        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
-        <string name="pdesc" value="Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when your #cenergy is fully charged#.\nRequired Skill: #cEnergy Charge Lv. 1#" />
-        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount" />
-    </imgdir>

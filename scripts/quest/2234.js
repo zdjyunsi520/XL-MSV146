@@ -4,9 +4,9 @@ function start(mode, type, selection) {
 	if (qm.getPlayer().getCurrentRep() > 0 && qm.getPlayer().getTotalRep() > qm.getPlayer().getCurrentRep()) {
 		qm.forceCompleteQuest();
 		qm.gainExp(3000);
-		qm.sendNext("Good job!");
+		qm.sendNext("干得好！");
 	} else {
-		qm.sendNext("Please, use some Rep!");
+		qm.sendNext("请使用一些声望！");
 	}
 	qm.dispose();
 }
@@ -14,9 +14,9 @@ function end(mode, type, selection) {
 	if (qm.getPlayer().getCurrentRep() > 0 && qm.getPlayer().getTotalRep() > qm.getPlayer().getCurrentRep()) {
 		qm.forceCompleteQuest();
 		qm.gainExp(3000);
-		qm.sendNext("Good job!");
+		qm.sendNext("干得好！");
 	} else {
-		qm.sendNext("Please, use some Rep!");
+		qm.sendNext("请使用一些声望！");
 	}
 	qm.dispose();
 }

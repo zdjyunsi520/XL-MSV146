@@ -1,7 +1,0 @@
-<imgdir name="5711001">
-        <string name="name" value="Turret Deployment" />
-        <string name="desc" value="Summons an upgraded turret to unleash a barrage of shots on nearby enemies." />
-        <string name="h" value="MP Cost: #mpCon, Turret Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons an upgraded turret to unleash a barrage of shots on nearby enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Turret Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

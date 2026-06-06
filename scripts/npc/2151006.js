@@ -8,6 +8,6 @@ function start() {
 
 function action(mode, type, selection) {
     cm.getPlayer().getStat().heal(cm.getPlayer());
-    cm.sendNext("Please, continue fighting! I have healed you.");
+    cm.sendNext("请继续战斗！我已经为你治疗了。");
     cm.safeDispose();
 }

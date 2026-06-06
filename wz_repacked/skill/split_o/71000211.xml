@@ -1,5 +1,0 @@
-<imgdir name="71000211">
-        <string name="name" value="Hero Warrior Aran" />
-        <string name="desc" value="Chance to recover HP when attacking." />
-        <string name="h" value="70% chance to recover #onHitHpRecoveryR% of Max HP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)." />
-    </imgdir>

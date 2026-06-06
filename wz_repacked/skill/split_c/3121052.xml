@@ -1,5 +1,0 @@
-<imgdir name="3121052">
-        <string name="name" value="狂风之怒" />
-        <string name="desc" value="用狂风轰击附近的敌人，将它们撕裂。" />
-        <string name="h" value="消耗MP：#mpCon，攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，每#dotTime秒造成#dot%伤害。\n冷却时间：#cooltime秒" />
-    </imgdir>

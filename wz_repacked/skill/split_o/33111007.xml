@@ -1,7 +1,0 @@
-<imgdir name="33111007">
-        <string name="name" value="Feline Berserk" />
-        <string name="desc" value="Your jaguar will temporarily grow a set of blazing red wings. Greatly increases Max HP, ATT, and Movement Speed. Attack Speed will increase by 1. Enemy attacks will not cancel the buff." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Max HP: #x%, Attack: #z%, Movement Speed: +#y, Attack Speed: + #w level" />
-        <string name="pdesc" value="The Jaguar temporarily gains red wings, increasing your Max HP and ATT." />
-        <string name="ph" value="MP Cost: #mpCon, MaxHP: +#x%, ATT: +#z%, Duration: #time sec" />
-    </imgdir>

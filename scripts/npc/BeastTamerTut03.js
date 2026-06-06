@@ -10,9 +10,9 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendPlayerToNpc("BOOYA! The future hero of Maple World walks through Wolf Forest, alone and unafraid, humming the strains of their very own theme song. Dunnn dun dun do daaaa.");
+		cm.sendPlayerToNpc("英雄发现了一个陷阱！有什么东西被困在里面了吗？难道是...晚餐？！");
     } else if (status == 1) {
-		cm.sendPlayerToNpc("The hero spies a trap! Is something caught inside? Could it be... DINNER?!");
+		cm.sendPlayerToNpc("英雄发现了一个陷阱！有什么东西被困在里面了吗？难道是...晚餐？！");
     } else if (status == 2) {
 	    cm.EnableUI(0);
 		cm.forceCompleteQuest(59002);

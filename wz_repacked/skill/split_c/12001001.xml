@@ -1,7 +1,0 @@
-<imgdir name="12001001">
-        <string name="name" value="魔法盾" />
-        <string name="desc" value="受到的伤害由MP代替HP承受！如果MP降到0，HP将承受全部伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Damage Displaced: #x% of your HP, Duration: #time sec" />
-        <string name="pdesc" value="受到的伤害由MP代替HP承受！如果MP降到0，HP将承受全部伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage Displaced: #x% of your HP, Duration: #time sec" />
-    </imgdir>

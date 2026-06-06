@@ -3,7 +3,7 @@ var status = -1;
 function start(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -12,11 +12,11 @@ function start(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendNext("Why aren't you in school yet? You should be studying!");
+	qm.sendNext("你怎么还没去上学？你应该好好学习！");
     } else if (status == 1) {
-	qm.sendNextPrev("I'll be in every town. Come find me if you wanna go to school!");
+	qm.sendNextPrev("我会出现在每个城镇。想去上学的话就来找我！");
     } else if (status == 2) {
-	qm.sendNextPrev("Come out to the school today and i'll give you a tour!");
+	qm.sendNextPrev("今天来学校吧，我带你参观一下！");
     } else if (status == 3) {
 	qm.forceStartQuest();
 	qm.dispose();
@@ -26,7 +26,7 @@ function start(mode, type, selection) {
 function end(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -35,17 +35,17 @@ function end(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendNext("Here's the deal kid. This school's like a maze. The classrooms are a big jumble. You never know where you're gonna end up when you go through a door.");
+	qm.sendNext("听好了孩子。这所学校就像一个迷宫。教室乱七八糟的。你永远不知道穿过一扇门会到哪里。");
     } else if (status == 1) {
-	qm.sendNextPrev("If you want to make the most of your time here, keep moving through classrooms to get more EXP and raise your Friendship with Four Pilars of Heaven... when you meet them.");
+	qm.sendNextPrev("如果你想充分利用在这里的时间，就不断穿行教室来获得更多经验值，并提升你与天之四灵的好感度……当你遇到他们的时候。");
     } else if (status == 2) {
-	qm.sendNextPrev("Don't get too gready, though. Each consecutive classroom will become more challenging! But don't worry about losing EXP from getting knocked out. The school nurse is great!");
+	qm.sendNextPrev("但不要太贪心。连续通过教室会变得越来越难！不过不用担心被击倒会损失经验值。学校的护士很厉害！");
     } else if (status == 3) {
-	qm.sendNextPrev("Work on your Friendship with the Four Pilars of Heaven and I hear you can buy stuff from their lockers.");
+	qm.sendNextPrev("提升你与天之四灵的好感度，我听说你可以从他们的储物柜里买东西。");
     } else if (status == 4) {
-	qm.sendNextPrev("You can always get back here if you get to the roof and take the door on the left.");
+	qm.sendNextPrev("如果你到了屋顶，从左边的门出去就能回到这里。");
     } else if (status == 5) {
-	qm.sendNextPrev("And take this keym I'll get you past the lock on the Eastern door.");
+	qm.sendNextPrev("还有拿着这把钥匙，我帮你打开东门的锁。");
     } else if (status == 6) {
 	if(qm.getPlayer().getLevel() <= 30) {
 	qm.gainExp(15000 * 2);

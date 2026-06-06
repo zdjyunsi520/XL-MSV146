@@ -1,5 +1,0 @@
-<imgdir name="5220043">
-        <string name="name" value="Double Down - Saving Grace" />
-        <string name="desc" value="Grants a chance for the Cooldown to not apply when Double Down does not activate. After this, you can activate at least 4 Double Downs." />
-        <string name="h" value="When Double Down does not activate, there is a #prop% chance for the Cooldown to not apply. The next cast after this will activate Double Down at least 4 times." />
-    </imgdir>

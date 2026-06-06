@@ -1,7 +1,0 @@
-<imgdir name="2000007">
-        <string name="name" value="Elemental Weakness" />
-        <string name="pdesc" value="Chance to weaken enemies against magic." />
-        <string name="ph" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
-        <string name="desc" value="Your attack makes enemies vulnerable to Magic attacks, increasing all magical damage while they are debuffed." />
-        <string name="h" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
-    </imgdir>

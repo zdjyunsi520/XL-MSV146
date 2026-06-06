@@ -1,5 +1,0 @@
-<imgdir name="65101001">
-        <string name="name" value="Pink Pummel" />
-        <string name="desc" value="Rushes through enemies, causing knockback. Has a chance to recharge." />
-        <string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Recharge Chance: #onActive%" />
-    </imgdir>

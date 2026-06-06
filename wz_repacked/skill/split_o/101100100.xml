@@ -1,5 +1,0 @@
-<imgdir name="101100100">
-        <string name="name" value="Throwing Weapon" />
-        <string name="desc" value="Throws your Great Sword with all of your might, cleaving through all enemies in its path. \n[Skill Requirement]: #cFront Slash Lv. 1# \n[Command]: While Flash Cut is active use #cFlash Cut# again" />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

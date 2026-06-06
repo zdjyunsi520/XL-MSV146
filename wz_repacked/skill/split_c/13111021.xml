@@ -1,5 +1,0 @@
-<imgdir name="13111021">
-        <string name="name" value="精准穿刺" />
-        <string name="desc" value="射出两支箭矢精准打击同一个敌人。" />
-        <string name="h" value="MP消耗：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#bulletCount。连续攻击同一敌人可激活伤害增益 #x%。" />
-    </imgdir>

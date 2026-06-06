@@ -1,8 +1,0 @@
-<imgdir name="33101004">
-        <string name="name" value="地雷暴雨" />
-        <string name="desc" value="移动时以固定间隔投放地雷。地雷会在一段时间后爆炸，对附近敌人倾泻伤害。" />
-        <string name="h" value="MP消耗：#mpCon，地雷伤害：#y%，持续时间：#time秒" />
-        <string name="pdesc" value="移动时以固定间隔投放地雷。地雷会在一段时间后爆炸，对附近敌人倾泻伤害。" />
-        <string name="ph" value="MP消耗：#mpCon，地雷伤害：#y%，持续时间：#time秒\n冷却时间：#cooltime秒" />
-        <string name="hch" value="MP消耗：#mpCon，地雷伤害：#y%，持续时间：#time秒\n冷却时间：#hcCooltime秒" />
-    </imgdir>

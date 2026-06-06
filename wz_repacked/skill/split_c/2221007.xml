@@ -1,8 +1,0 @@
-<imgdir name="2221007">
-        <string name="name" value="暴风雪" />
-        <string name="desc" value="从天空召唤冰枪，用恐怖的暴风雪冻结多个敌人。暴风雪冷却中时攻击: #c有几率用暴风雪对单个敌人造成伤害#~" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以暴风雪对单个敌人造成#x%伤害#]" />
-        <string name="pdesc" value="从天空召唤冰枪，用恐怖的暴风雪冻结多个敌人。暴风雪冷却中时攻击: #c有几率用暴风雪对单个敌人造成伤害#~" />
-        <string name="ph" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以暴风雪对单个敌人造成#x%伤害#]" />
-        <string name="hch" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以暴风雪对单个敌人造成#x%伤害#]" />
-    </imgdir>

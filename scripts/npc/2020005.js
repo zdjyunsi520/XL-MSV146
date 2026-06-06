@@ -16,7 +16,7 @@ var amount;
 var totalcost;
 var item = new Array(2050003,2050004,4006000,4006001);
 var cost = new Array(300,400,5000,5000);
-var msg = new Array("that cures the state of being sealed and cursed","that cures all",", possessing magical power, that is used for high-quality skills",", possessing the power of summoning that is used for high-quality skills");
+var msg = new Array("可治愈被封印和诅咒状态","可治愈所有状态","，拥有魔法力量，用于高级技能","，拥有召唤之力，用于高级技能");
 var status = -1;
 
 function action(mode, type, selection) {
@@ -24,7 +24,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 2) {
-	    cm.sendNext("I see. Understand that I have many different items here. Take a look around. I'm only selling these items to you, so I won't be ripping you off in any way shape or form.");
+	    cm.sendNext("我明白了。了解我这里有很多不同的物品。到处看看吧。我只把这些物品卖给你，所以我不会以任何方式欺骗你。");
 	    cm.safeDispose();
 	    return;
 	}
@@ -35,31 +35,31 @@ function action(mode, type, selection) {
 	if (cm.getQuestStatus(3035) == 2) {
 	    var selStr;
 	    for (var i = 0; i < item.length; i++){
-		selStr += "\r\n#L" + i + "# #b#t" + item[i] + "# (Price: "+cost[i]+" mesos)#k#l";
+		selStr += "\r\n#L" + i + "# #b#t" + item[i] + "#（价格： "+cost[i]+" 金币）#k#l";
 	    }
-	    cm.sendSimple("Thanks to you #b#t4031056##k is safely sealed. Of course, also as a result, I used up about half of the power I have accumulated over the last 800 years or so...but now I can die in peace. Oh, by the way... are you looking for rare items by any chance? As a sign of appreciation for your hard work, I'll sell some items I have to you, and ONLY you. Pick out the one you want!"+selStr);
+	    cm.sendSimple("多亏了你，#b#t4031056##k已被安全封印。当然，作为代价，我消耗了大约800年来积累的一半力量……但现在我可以安心离世了。对了……你需要稀有物品吗？作为对你辛勤工作的感谢，我会把我拥有的一些物品卖给你，而且只卖给你。挑选你想要的吧！"+selStr);
 	}
 	else {
-	    cm.sendNext("If you decide to help me out, then in return, I'll make the item available for sale.");
+	    cm.sendNext("如果你决定帮助我，作为回报，我会开放该物品的购买权限。");
 	    cm.safeDispose();
 	}
     } else if (status == 1) {
 	selected = selection;
-	cm.sendGetNumber("Is #b#t"+item[selected]+"##k really the item that you need? It's the item "+msg[selected]+". It may not be the easiest item to acquire, but I'll give you a good deal on it. It'll cost you #b"+cost[selected]+" mesos#k per item. How many would you like to purchase?", 0, 1, 100);
+	cm.sendGetNumber("#b#t"+item[selected]+"##k真的是你需要的物品吗？这是一种 "+msg[selected]+"的道具。这可能不是最容易获得的物品，但我会给你一个好价钱。每个#b"+cost[selected]+" 金币#k。你想买多少？", 0, 1, 100);
     } else if (status == 2) {
 	amount = selection;
 	totalcost = cost[selected] * amount;
 	if (amount == 0) {
-	    cm.sendOk("If you're not going to buy anything, then I've got nothing to sell neither.");
+	    cm.sendOk("如果你不打算买任何东西，那我也没有什么可卖的。");
 	    cm.dispose();
 	}
-	cm.sendYesNo("Are you sure you want to buy #r"+amount+" #t"+item[selected]+"(s)##k? It'll cost you "+cost[selected]+" mesos per #t"+item[selected]+"#, which will cost you #r"+totalcost+" mesos#k in total.");
+	cm.sendYesNo("你确定要购买#r"+amount+" #t"+item[selected]+"(个)##k？每个#t "+cost[selected]+"#售价"+item[selected]+" 金币，总共需要#r"+totalcost+" 金币#k。");
     } else if(status == 3) {
 	if(cm.getMeso() < totalcost || !cm.canHold(item[selected])) {
-	    cm.sendNext("Are you sure you have enough mesos? Please check and see if your etc. or use inventory is full, or if you have at least #r"+totalcost+"#k mesos.");
+	    cm.sendNext("你确定你有足够的金币吗？请检查一下你的其他或消耗品栏是否已满，以及你是否至少有#r"+totalcost+"#k 金币。");
 	    cm.dispose();
 	}
-	cm.sendNext("Thank you. If you ever find yourself needing items down the road, make sure to drop by here. I may have gotten old over the years, but I can still make magic items with ease.");
+	cm.sendNext("谢谢。如果你以后需要物品，记得来这里。虽然我年事已高，但我仍然能轻松制作魔法物品。");
 	cm.gainMeso(-totalcost);
 	cm.gainItem(item[selected], amount);
 	cm.safeDispose();

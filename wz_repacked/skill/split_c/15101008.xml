@@ -1,7 +1,0 @@
-<imgdir name="15101008">
-        <string name="name" value="暗黑之眼" />
-        <string name="desc" value="平心静气，暂时提升武器攻击力和命中率。" />
-        <string name="h" value="MP消耗：#mpCon，武器攻击力：+#indiePad，命中率：#acc，持续时间：#time秒" />
-        <string name="pdesc" value="平心静气，暂时提升武器攻击力和命中率。" />
-        <string name="ph" value="MP消耗：#mpCon，武器攻击力：+#PVPdamage，命中率：#acc，持续时间：#time秒" />
-    </imgdir>

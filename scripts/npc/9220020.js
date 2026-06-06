@@ -7,7 +7,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (!cm.isLeader()) {
-	cm.sendNext("I wish for your leader to talk to me.");
+	cm.sendNext("嘿！从这里找到17张通往MV巢穴的地图吧！");
 	cm.dispose();
 	return;
     }
@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 	cm.warpParty(674030200);
 	cm.gainItem(4032248,-17);
     } else {
-	cm.sendOk("Hey! Find the 17 Maps to MV's Lair from the rocks here!");
+	cm.sendOk("嘿！从这里找到17张通往MV巢穴的地图吧！");
     }
     cm.dispose();
 }

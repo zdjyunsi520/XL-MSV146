@@ -1,5 +1,0 @@
-<imgdir name="36120048">
-        <string name="name" value="机械清除-扩散" />
-        <string name="desc" value="提升机械清除命中的怪物数量。狙击模式下不增加。" />
-        <string name="h" value="Number of monsters hit: +#targetPlus. No increases during Snipe." />
-    </imgdir>

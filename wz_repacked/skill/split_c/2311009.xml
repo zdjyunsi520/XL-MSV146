@@ -1,8 +1,0 @@
-<imgdir name="2311009">
-        <string name="name" value="神圣魔法盾" />
-        <string name="desc" value="完全回复队友的HP并赋予神圣之盾，最多吸收10次攻击。护盾最多持续20秒，激活后短时间内即使其他角色使用神圣魔法盾也不会再次激活~" />
-        <string name="h" value="MP消耗: #mpCon, HP回复: #z%, 持续时间: #time秒, 最大吸收攻击次数: #x, 下次护盾可用时间: #y秒, 冷却时间: 90秒" />
-        <string name="pdesc" value="一定时间内，神圣之盾可吸收所有伤害最多5次。护盾最多维持20秒，激活后短时间内即使其他角色使用神圣魔法盾也不会再次激活~\n[冷却时间: 60秒]" />
-        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒, 最大吸收攻击次数: #x, 下次护盾可用时间: #y秒" />
-        <string name="hch" value="MP消耗: #mpCon, HP回复: #hcHp%, 持续时间: #time秒, 最大吸收攻击次数: #x, 下次护盾间隔: #y秒" />
-    </imgdir>

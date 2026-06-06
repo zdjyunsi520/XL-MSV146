@@ -1,5 +1,0 @@
-<imgdir name="70000041">
-        <string name="name" value="Weapon DEF to Damage Conversion" />
-        <string name="desc" value="Increases final damage in proportion to Weapon DEF." />
-        <string name="h" value="#pdd2dam% of Weapon DEF added as additional damage" />
-    </imgdir>

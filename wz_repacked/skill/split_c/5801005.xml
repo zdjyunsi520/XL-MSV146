@@ -1,7 +1,0 @@
-<imgdir name="5801005">
-        <string name="name" value="MP恢复" />
-        <string name="desc" value="消耗HP来立即恢复MP。HP低于20%时无法使用。" />
-        <string name="h" value="MaxHP: -#x%, MP Restored: #y% of consumed HP, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="消耗少量HP来恢复MP。" />
-        <string name="ph" value="MaxHP: -#x%, MP Restored: #y% of consumed HP, Cooldown: #cooltime sec" />
-    </imgdir>

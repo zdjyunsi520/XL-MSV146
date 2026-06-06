@@ -1,7 +1,0 @@
-<imgdir name="31121001">
-        <string name="name" value="恶魔冲击" />
-        <string name="desc" value="唤醒内心的恶魔，对前方多个敌人造成暴击伤害。你与冥界的连接使你有机会无视敌人防御并提高暴击率。对Boss怪物时最终伤害增加。" />
-        <string name="h" value="怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，额外暴击率：#cr%，无视敌人防御：#ignoreMobpdpR%，对Boss怪物的最终伤害：+#bdR%" />
-        <string name="pdesc" value="唤醒内心的恶魔，对前方多个敌人造成暴击伤害。你与冥界的连接使你有机会无视敌人防御并提高暴击率。对Boss怪物时最终伤害增加。" />
-        <string name="ph" value="怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，额外暴击率：#cr%，无视敌人防御：#ignoreMobpdpR%，对Boss怪物的最终伤害：+#bdR%" />
-    </imgdir>

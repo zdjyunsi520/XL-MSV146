@@ -1,7 +1,0 @@
-<imgdir name="51111003">
-        <string name="name" value="Radiant Charge" />
-        <string name="desc" value="Temporarily increases damage. " />
-        <string name="h" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec" />
-        <string name="pdesc" value="Temporarily increases damage. " />
-        <string name="ph" value="MP Cost: #mpCon, Damage: +#indieDamR%, Duration: #time sec" />
-    </imgdir>

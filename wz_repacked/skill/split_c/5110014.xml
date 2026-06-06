@@ -1,5 +1,0 @@
-<imgdir name="5110014">
-        <string name="name" value="超级充能" />
-        <string name="desc" value="强化能量充能效果，如攻击时充能量和最大能量。攻击BOSS时充能双倍~" />
-        <string name="h" value="最大能量: #z。攻击时充能: #x，最大能量增加2倍。能量充能激活时，武器攻击力: +#pad，命中值: +#acc，移动速度: +#speed，物理/魔法防御力: +#pdd，#prop%几率免疫击退。未激活时获得一半效果，攻击BOSS时充能双倍" />
-    </imgdir>

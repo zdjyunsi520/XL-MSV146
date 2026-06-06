@@ -9,7 +9,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 2 && mode == 0) {
-	cm.sendOk("Alright, see you next time.");
+	cm.sendOk("好的，下次再见。");
 	cm.dispose();
 	return;
     }

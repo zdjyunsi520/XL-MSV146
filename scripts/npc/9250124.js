@@ -1,5 +1,5 @@
 function start() { 
-	cm.sendOk("Hello, if you would like to battle the #rbiggest of the alien scum#k, you must first prove you are worthy by bringing me 1000 Silver Coins.                                                                     Talk to the #gResearcher#k to enter alien field, where silver coins drop."); 
+	cm.sendOk("带1000枚银币来，我才会认为你有资格..."); 
 } 
 
 function action(mode, type, selection) {
@@ -9,7 +9,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	}
 	else{ //if they dont have 1000 silver coins then...
-		cm.sendOk("Bring me 1,000 silver coins and I will consider you worthy...");
+		cm.sendOk("带1000枚银币来，我才会认为你有资格...");
 		cm.dispose();
 	}
 }

@@ -1,5 +1,0 @@
-<imgdir name="1101004">
-        <string name="name" value="武器加速" />
-        <string name="desc" value="使武器攻击速度翻倍。需要装备剑或斧。\n前置技能：#c武器精通 Lv.5#" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
-    </imgdir>

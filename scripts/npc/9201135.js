@@ -11,9 +11,9 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 		if (cm.getPlayer().getMapId() == 551000000) {
-			cm.sendYesNo("Would you like to head back to #rCBD#k?\r\nIt will cost you another #e20,000#n mesos.");
+			cm.sendYesNo("你想前往#r乌鲁城#k观光吗？\r\n只需要#e20,000#n金币！");
 		} else {
-			cm.sendYesNo("Would you like to take a tour to #rUlu City#k?\r\nIt will only cost you #e20,000#n mesos!");
+			cm.sendYesNo("你没有#e20,000#n金币！");
 		}
 	} else if (status == 1) {
 		if (mode > 0) {
@@ -26,7 +26,7 @@ function action(mode, type, selection) {
 				cm.gainMeso(-20000);
 				cm.dispose();
 		  } else {
-			cm.sendOk("You don't have #e20,000#n mesos!");
+			cm.sendOk("你没有#e20,000#n金币！");
 			cm.dispose();
 		  }
 		}

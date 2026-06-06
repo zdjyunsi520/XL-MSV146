@@ -1,5 +1,0 @@
-<imgdir name="4100011">
-        <string name="name" value="Assassin&apos;s Mark" />
-        <string name="desc" value="While attacking with this skill, you have a chance to leave an assassin&apos;s mark on the enemy. The next attack on a marked enemy will cause throwing stars to form on that enemy and attack other enemies nearby." />
-        <string name="h" value="Leave a mark on attack at #prop% chance. Attacking again will produce #bulletCount Throwing Stars to deal #damage% + #x% damage of player&apos;s level." />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="36121013">
-        <string name="name" value="Hypogram Field: Force Field" />
-        <string name="desc" value="A Hypogram Field is called upon to create an energy ball to inflict damage on enemies every time the ball touches the field. The energy ball is not damage by Attack Reflect. Change mode with Modal Shift." />
-        <string name="h" value="MP Cost: #mpCon, Duration of hypogram field: #time, Max enemies hit when ball touches field: #mobCount, Damage: #damage%, Cooldown: #cooltime sec" />
-    </imgdir>

@@ -1,8 +1,0 @@
-<imgdir name="33101002">
-        <string name="name" value="Jaguar Rawr" />
-        <string name="desc" value="Deals damage to multiple enemies in front of you. Any enemies knocked back by your Jaguar&apos;s RAWR will also be Stunned. Good kitty." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Duration: #time sec" />
-        <string name="pdesc" value="Nearby enemies take damage and are knocked back by the Jaguar&apos;s roar." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount\n#Cooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Knock-Back Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

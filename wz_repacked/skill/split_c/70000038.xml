@@ -1,5 +1,0 @@
-<imgdir name="70000038">
-        <string name="name" value="阿斯旺补给模式普通怪物即死" />
-        <string name="desc" value="在阿斯旺解放补给模式中攻击普通怪物时有概率即死。" />
-        <string name="h" value="#minionDeathProp% chance to instant-kill when attacking normal monsters in Aswan Liberation Supply Mode" />
-    </imgdir>

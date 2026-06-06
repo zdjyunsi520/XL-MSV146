@@ -1,7 +1,0 @@
-<imgdir name="23111001">
-        <string name="name" value="Leap Tornado" />
-        <string name="desc" value="Spin in mid-air and fire a hail of arrows all around you. This skill can only be used while in mid-air, and requires 120 or more Jump." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Spin in mid-air and fire a hail of arrows all around you. This skill can only be used while in mid-air, and requires 120 or more Jump." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

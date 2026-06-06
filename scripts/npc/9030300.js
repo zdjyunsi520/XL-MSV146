@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendOkS("The Maple Auction is not available now. We're sorry for the inconvenience.",4);
+	    cm.sendOkS("枫之谷拍卖行目前暂未开放。给您带来的不便，敬请谅解。",4);
 		cm.dispose();
     }
 }

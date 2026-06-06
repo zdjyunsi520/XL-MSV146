@@ -11,19 +11,19 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Ah, #b#h #,#k isn't it? I am #p1102107#, strategist for our young Empress. You will be seeing much more of me in the future.");
+		qm.sendNext("啊，是#b#h #，#k对吧？我是#p1102107#，年轻女皇的军师。你以后会经常见到我的。");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Shouldn't you be in training? What urgent matter brings you here, #h #? Did Kiku send you with clire news?");
+	    qm.sendNextPrev("你不是应该在训练吗？什么紧急事务把你带到这里的，#h #？奇库派你来传达什么消息吗？");
 	} else if (status == 2) {
-      qm.sendNextPrevS("Nah. A bird told me to follow it, and I ended up here!");
+      qm.sendNextPrevS("没有。一只鸟让我跟着它，然后我就到这里了！");
 	} else if (status == 3) {
-	   qm.sendNextPrevS("#h #, are ye sure ye didn't follow me here to collect yer welcome muffins? I'm sorry, but someone ate them.", 1,0,1101007);
+	   qm.sendNextPrevS("#h #，你确定不是跟着我来拿你的欢迎松饼吗？抱歉，有人把它们吃了。", 1,0,1101007);
 	} else if (status == 4) {
-        qm.sendNextPrevS("And they were delicious. But enough chatter, we have work to do, Hawkeye. Let us go.", 1,0,1101006);
+        qm.sendNextPrevS("而且很好吃。但别闲聊了，我们有工作要做，鹰眼。我们走吧。", 1,0,1101006);
 	} else if (status == 5) {
-	    qm.sendNextPrevS("It was lovely to meet you, #h #. I sincerely hope that you become a knight of courage and wisdom.", 1,0,1404008);
+	    qm.sendNextPrevS("很高兴认识你，#h #。我真诚地希望你能成为一名兼具勇气和智慧的骑士。", 1,0,1404008);
 	} else if (status == 6) {
-        qm.sendNextPrev("I have my doubts. Not even promoted to knight-in-training and already nosing about the Empress's quarters for no good reason. Unacceptable!");
+        qm.sendNextPrev("我很怀疑。连见习骑士都还没升上，就已经毫无理由地在女皇住所周围瞎转。不可接受！");
 	} else if (status == 7) {	
         qm.forceStartQuest();    
 		qm.dispose();
@@ -38,19 +38,19 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("Don't listen to ol' Neinheart, #h #. Ye may as well introduce yerself to the other Chief Knights while yer here.");
+	    qm.sendNext("别听老奈因哈特的，#h #。你既然来了，不妨认识一下其他首席骑士。");
 	} else if (status == 1) {
-	    qm.sendNextPrevS("Oh, um, sure. My name's #h #. I'm here to become a knight, defeat the Black Mage, save Maple World, and, just recently, be a spokesperson for bird-kind.");
+	    qm.sendNextPrevS("哦，嗯，好的。我的名字叫#h #。我来这里是为了成为一名骑士，打败黑魔法师，拯救枫之谷世界，还有，最近新增的——成为鸟类的代言人。");
 	} else if (status == 2) {
-	    qm.sendNextPrevS("Big aspirations for such meager amounts of skill. May the shadows keep you safe until you learn some humility.", 1,0,1101006);	
+	    qm.sendNextPrevS("这么微薄的技能却有这么大的志向。愿暗影保护你，直到你学会谦虚。", 1,0,1101006);	
 	} else if (status == 3) {
-	    qm.sendNextPrevS("Oh, give the kid a break! Welcome to Ereve! We'll meet again more formally soon.", 1,0,1102109);
+	    qm.sendNextPrevS("哦，给这孩子一个机会吧！欢迎来到埃雷布！我们很快会再正式见面的。", 1,0,1102109);
 	} else if (status == 4) {
-	    qm.sendNextPrevS("Not if the kid doesn't finish training first... Becoming a knight takes a lot of hard work and dedication.", 1,0,1102110);
+	    qm.sendNextPrevS("除非这孩子先完成训练...成为骑士需要很多努力和奉献。", 1,0,1102110);
 	} else if (status == 5) {
-	    qm.sendNextPrevS("I hate to break up the party, but we have a meeting to get to. Sorry, kid. I'm sure we'll get a chance to talk more later.", 1,0,1101003);
+	    qm.sendNextPrevS("我不想扫兴，但我们有个会议要参加。抱歉，孩子。我相信我们以后会有机会再聊的。", 1,0,1101003);
 	} else if (status == 6) {
-	    qm.sendNextPrev("Yer right. Mihile. We've got to get goin', #h #. Keep up with yer trainin'.");	
+	    qm.sendNextPrev("你说得对。米哈逸。我们得走了，#h #。继续你的训练。");	
 	} else if (status == 7) {
 	  qm.forceCompleteQuest();
 	  qm.dispose();		

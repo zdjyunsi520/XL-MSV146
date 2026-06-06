@@ -1,8 +1,0 @@
-<imgdir name="33101001">
-        <string name="name" value="跳弹" />
-        <string name="desc" value="发射装有炸弹的穿透箭攻击多个敌人。有概率使敌人眩晕。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大穿透敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
-        <string name="pdesc" value="发射装有炸弹的穿透箭攻击多个敌人。有概率使敌人眩晕。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大穿透敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大穿透敌人数：#mobCount，眩晕概率：#hcProp%，持续时间：#hcTime秒" />
-    </imgdir>

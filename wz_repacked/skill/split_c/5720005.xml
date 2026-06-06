@@ -1,7 +1,0 @@
-<imgdir name="5720005">
-        <string name="name" value="双倍下注" />
-        <string name="desc" value="试试你的运气！掷两颗骰子，如果点数相同，你将获得超强增益！\n需要技能：#c掷骰子 Lv. 10#" />
-        <string name="h" value="MP Cost: #mpCon, #prop% chance of rolling a Double Down , Buff Duration: #time sec\n#cCooldown: #cooltime sec#" />
-        <string name="pdesc" value="试试你的运气！掷两颗骰子，如果点数相同，你将获得超强增益！\n需要技能：#c掷骰子 Lv. 10#" />
-        <string name="ph" value="MP Cost: #mpCon, #prop% chance of rolling a Double Down , Buff Duration: #time sec\n#cCooldown: #cooltime sec#" />
-    </imgdir>

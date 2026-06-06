@@ -1,5 +1,0 @@
-<imgdir name="65101002">
-        <string name="name" value="Power Transfer" />
-        <string name="desc" value="Generates a shield that absorbs a portion of damage dealt by the enemy." />
-        <string name="h" value="Duration: #time sec, Damage Absorbed: #y%, Damage Reduced with Shield: #x%" />
-    </imgdir>

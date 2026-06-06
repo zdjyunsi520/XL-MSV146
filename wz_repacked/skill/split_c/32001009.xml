@@ -1,7 +1,0 @@
-<imgdir name="32001009">
-        <string name="name" value="终结者" />
-        <string name="desc" value="向前方敌人发射一道光之刃。只能在打击类技能后使用。搭配更高级的打击类技能使用时伤害更高，无视更多防御。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，无视敌人防御：#ignoreMobpdpR%" />
-        <string name="pdesc" value="向前方敌人发射一道光之刃。只能在打击类技能后使用。搭配更高级的打击类技能使用时伤害更高。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，无视敌人防御：#ignoreMobpdpR%" />
-    </imgdir>

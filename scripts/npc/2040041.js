@@ -3,7 +3,7 @@
 */
 
 function start() {
-    cm.sendNext("Hello, and welcome to the 3rd stage of the Ludibrium Party Quest. Look here, and you'll see a number of boxes. All you have to do, is find the right combination, and press up on it to teleport up. But, if you get it wrong, you will be teleported back down to the bottom. Good luck!");
+    cm.sendNext("你好，欢迎来到玩具城组队任务的第3阶段。看这里，你会看到一些箱子。你所要做的就是找到正确的组合，然后按上键传送上去。但是，如果你选错了，你将被传送回底部。祝你好运！");
 }
 
 function action(mode, type, selection) {

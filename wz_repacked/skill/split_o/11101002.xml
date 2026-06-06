@@ -1,5 +1,0 @@
-<imgdir name="11101002">
-        <string name="name" value="Final Attack" />
-        <string name="desc" value="Grants a chance to deal additional damage after an attack. Must have a sword equipped. \nRequired Skill: #cSword Mastery Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Proc Rage: #prop%, Duration: #time sec" />
-    </imgdir>

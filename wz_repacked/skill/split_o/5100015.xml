@@ -1,5 +1,0 @@
-<imgdir name="5100015">
-        <string name="name" value="Energy Charge" />
-        <string name="desc" value="Charges up your energy while attacking. When the energy is fully charged, your body strengthens and you have a chance to enter Power Stance. Uses energy instead of MP when using most attack skills. Receives only half the effect when charging energy." />
-        <string name="h" value="Max Energy: #z, Energy Charged upon attack: #x, Upon Energy Charge activation, Accuracy: #acc, Movement Speed: #speed, Weapon/Magic Defense: #pdd, Immune to Knock-back at #prop% chance. Half of the effect while charging enemy" />
-    </imgdir>

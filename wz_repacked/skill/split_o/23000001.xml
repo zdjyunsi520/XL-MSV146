@@ -1,7 +1,0 @@
-<imgdir name="23000001">
-        <string name="name" value="Potential Power" />
-        <string name="desc" value="Activates hidden powers within. Increases movement speed and maximum movement speed. Grants a fixed chance of avoiding enemy attacks." />
-        <string name="h" value="Movement Speed: +#psdSpeed, Max Movement Speed Limit: +#u, Enemy Attack Avoidance Rate: #er%" />
-        <string name="pdesc" value="Activates hidden powers within. Increases movement speed and maximum movement speed. Grants a fixed chance of avoiding enemy attacks." />
-        <string name="ph" value="Movement Speed: +#psdSpeed, Max Movement Speed Limit: +#u, Enemy Attack Avoidance Rate: #er%" />
-    </imgdir>

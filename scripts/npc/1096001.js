@@ -1,6 +1,6 @@
 var status = -1;
 
 function action(mode, type, selection) {
-	cm.sendNext("I hate cleaning...");
+	cm.sendNext("我讨厌打扫……");
 	cm.dispose();
 }

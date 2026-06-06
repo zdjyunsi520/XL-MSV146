@@ -1,5 +1,0 @@
-<imgdir name="112111006">
-        <string name="name" value="Raptor Talons" />
-        <string name="desc" value="Eka&apos;s talon becomes so sharp, your ATT increases. \r\nPassive Effects: Adding bleeding damage to all attacks while in hawk mode." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Magic ATT: +#indieMad \r\n Passive Effects: Bleed Chance: #prop%, Bleed Damage: #dot% per sec, Bleed Duration: #dotTime sec\nCooldown: #cooltime sec" />
-    </imgdir>

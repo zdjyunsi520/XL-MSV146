@@ -1,7 +1,0 @@
-<imgdir name="21000000">
-        <string name="name" value="Combo Ability" />
-        <string name="desc" value="Gain increased ATT, DEF, and Speed for every 10 Combo Count. \nRequired Skill: #cDouble Swing Lv. 1#" />
-        <string name="h" value="ATT: +#y, Weapon DEF: +#z, Magic DEF: +#z, Speed: +#w, Max Stacks: #x" />
-        <string name="pdesc" value="Battle Mode ATT, Speed, and Jump permanently increase. #cDouble Swing Lv. 1#" />
-        <string name="ph" value="ATT +#padX, Speed +#psdSpeed, Jump +#psdJump" />
-    </imgdir>

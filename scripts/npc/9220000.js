@@ -1,5 +1,5 @@
 function start() {
-    cm.sendYesNo("Would you like to go back?");
+    cm.sendYesNo("你想回去吗？");
 }
 
 function action(mode,type,selection) {

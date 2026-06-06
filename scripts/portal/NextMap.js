@@ -33,13 +33,13 @@ try {
 	    time = 460000;
 	    break;
 	default:
-	    pi.playerMessage("Error: Invalid mapid " + pi.getPlayer().getMapId());
+	    pi.playerMessage("错误：无效的地图ID " + pi.getPlayer().getMapId());
 	    return;
     }
     var eventinstance = pi.getEventManager(instance).getInstance(pi.getName());
     if (eventinstance != null) {
 	if (eventinstance.getTimeLeft() > time) {
-	    pi.playerMessage(5, "You have been moved to another location due to usage of illegal 3rd party programme.");
+	    pi.playerMessage(5, "由于使用了非法第三方程序，你已被转移到其他位置。");
 	    pi.warp(980040000, 0);
 	    return true;
 	}
@@ -59,7 +59,7 @@ try {
 	    return true;
 	}
     }
-    pi.playerMessage(5, "All of the maps are currently in use.");
+    pi.playerMessage(5, "所有地图目前都在使用中。");
     return false;
 } catch (e) {
     pi.playerMessage(5, "Error: " + e);

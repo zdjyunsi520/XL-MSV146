@@ -1,5 +1,0 @@
-<imgdir name="27121053">
-        <string name="name" value="Heroic Memories" />
-        <string name="desc" value="Recalls the oath of the Maple Heroes to increase damage and max damage cap." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Damage: +#indieDamR%, Max Damage: +#indieMaxDamageOver\nCooldown: #cooltime sec. Only applies to hero classes within the party" />
-    </imgdir>

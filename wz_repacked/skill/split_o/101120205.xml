@@ -1,5 +1,0 @@
-<imgdir name="101120205">
-        <string name="name" value="Advanced Storm Break (Twister)" />
-        <string name="desc" value="A vortex that is even more powerful than the Storm Break vortex. When the vortex moves, it creates a Shock Field in its path, inflicting damage on enemies." />
-        <string name="h" value="Damage:  #damage% per 0.5 sec, Max Enemies Hit: #mobCount, Max Hits: #attackCount\nDuration: #time sec\nFor a maximum of 8 enemies in the path of the vortex inflicts #q% damage per #z sec. Attacks occur every #v sec. Duration: #y sec." />
-    </imgdir>

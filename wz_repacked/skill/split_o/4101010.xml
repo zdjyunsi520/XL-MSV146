@@ -1,8 +1,0 @@
-<imgdir name="4101010">
-        <string name="name" value="Gust Charm" />
-        <string name="desc" value="Solidifies the wind to damage and knock back enemies." />
-        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Range: #range" />
-        <string name="pdesc" value="Solidifies the wind to damage and knock back enemies." />
-        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Chance: #prop%, Knockback Range: #range" />
-        <string name="hch" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount, Knockback Chance: #hcProp%, Knockback Range: #range" />
-    </imgdir>

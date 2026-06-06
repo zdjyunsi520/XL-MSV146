@@ -1,8 +1,0 @@
-<imgdir name="2211003">
-        <string name="name" value="Thunder Spear" />
-        <string name="desc" value="Creates a spear imbued with the power of lightning that attacks one enemy. The spear inflicts multiple hits on an enemy at an incredibly quick speed, possibly Stunning the enemy." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Creates a spear imbued with the power of lightning that attacks one enemy. The spear inflicts multiple hits on an enemy at an incredibly quick speed, possibly Stunning the enemy." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec" />
-    </imgdir>

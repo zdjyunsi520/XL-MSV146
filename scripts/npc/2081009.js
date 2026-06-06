@@ -13,7 +13,7 @@ function action(mode, type, selection) {
 
     if (status == 0) {
 	if (cm.getQuestStatus(6180) == 1) {
-	    cm.sendOk("Good. I'll send you to shield training field. Talk to me again." );
+	    cm.sendOk("好的。我会送你到盾牌训练场。再来和我说话吧。" );
 	} else {
 	    cm.dispose();
 	}

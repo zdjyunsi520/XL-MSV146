@@ -1,5 +1,0 @@
-<imgdir name="101120102">
-        <string name="name" value="大地碎裂" />
-        <string name="desc" value="高高地跳入空中，将巨剑狠狠劈下足以撕裂脚下的大地。冲击时产生冲击波造成伤害~\n[前置技能]: #c坠星 Lv. 1#\n[指令]: 巨能崩裂激活时使用#c坠星#" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[冲击波]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z。" />
-    </imgdir>

@@ -1,8 +1,0 @@
-<imgdir name="33101004">
-        <string name="name" value="It&apos;s Raining Mines" />
-        <string name="desc" value="You drop mines at fixed intervals while moving. The mines explode after a while, showering damage to nearby enemies." />
-        <string name="h" value="MP Cost: #mpCon, Mine Damage: #y%, Duration: #time sec" />
-        <string name="pdesc" value="Drop mines at fixed intervals while moving. The mines explode after a while, showering damage on nearby enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Mine Damage: #y%, Duration: #time sec\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Mine Damage: #y%, Duration: #time sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

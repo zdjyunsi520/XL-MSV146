@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.showInstruction("Press #e#b[Alt]#k#n to\r\\ JUMP.", 100, 5);
+    pi.showInstruction("按#e#b[Alt]#k#n\r\\跳跃。", 100, 5);
 }

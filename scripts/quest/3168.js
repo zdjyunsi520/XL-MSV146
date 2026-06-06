@@ -4,7 +4,7 @@ var status = -1;
 function start(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}

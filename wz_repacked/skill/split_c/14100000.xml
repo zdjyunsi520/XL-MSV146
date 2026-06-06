@@ -1,7 +1,0 @@
-<imgdir name="14100000">
-        <string name="name" value="拳甲精通" />
-        <string name="desc" value="提升飞镖武器的精通度和命中率，并增加最大携带数量。" />
-        <string name="h" value="拳甲精通度：+#mastery%，命中率：+#x，飞镖数量：+#y" />
-        <string name="pdesc" value="提升飞镖武器的精通度和命中率，并增加最大携带数量。同时增加幸运七飞镖的伤害。" />
-        <string name="ph" value="拳甲精通度：+#mastery%，命中率：+#x，飞镖数量：+#y\n幸运七飞镖伤害：+#damR%" />
-    </imgdir>

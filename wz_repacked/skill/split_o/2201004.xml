@@ -1,8 +1,0 @@
-<imgdir name="2201004">
-        <string name="name" value="Cold Beam" />
-        <string name="desc" value="Creates an ice fragment to attack and Freeze an enemy. Can deal great damage to fire attribute enemies." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Attack Count: #attackCount, Freeze Duration: #time sec" />
-        <string name="pdesc" value="Creates an ice fragment to attack and Freeze an enemy. Can deal great damage to fire attribute enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Attack Count: #attackCount, Freeze Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Attack Count: #attackCount, Freeze Chance: #hcProp%, Freeze Duration: #time sec" />
-    </imgdir>

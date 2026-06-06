@@ -1,5 +1,5 @@
 function start() {
-    cm.sendSimple("#b\r\n#L0#Training Room A#l\r\n#L1#Training Room B#l\r\n#L2#Training Room C#l\r\n#L3#Training Room D#l#k");
+    cm.sendSimple("#b\r\n#L0#训练室A#l\r\n#L1#训练室B#l\r\n#L2#训练室C#l\r\n#L3#训练室D#l#k");
 }
 
 function action(mode,type,selection) {

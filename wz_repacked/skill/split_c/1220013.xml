@@ -1,7 +1,0 @@
-<imgdir name="1220013">
-        <string name="name" value="神圣之盾" />
-        <string name="desc" value="被攻击时生成保护之盾，#c最多吸收10次攻击并提升武器攻击力#。护盾持续90秒，需要冷却后才能再次激活。不会被敌人攻击打破。" />
-        <string name="h" value="Shield Proc Chance (when hit): #prop%, Weapon ATT: +#epad, Duration: #time sec, Enemy Blows Absorbed: #x, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="被攻击时有几率生成保护屏障。" />
-        <string name="ph" value="Barrier Chance: #prop% when hit, Barrier Duration: #time sec, Attacks Absorbed: #x, Cooldown: #cooltime sec" />
-    </imgdir>

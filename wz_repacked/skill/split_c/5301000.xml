@@ -1,7 +1,0 @@
-<imgdir name="5301000">
-        <string name="name" value="散弹炮击" />
-        <string name="desc" value="发射大量小型炸弹同时攻击多个敌人！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #bulletCount" />
-        <string name="pdesc" value="发射大量小型炸弹同时攻击多个敌人！" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #bulletCount" />
-    </imgdir>

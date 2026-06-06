@@ -1,5 +1,5 @@
 function start() {
-    cm.sendNextS("Did you just get that transmission?! That bounty is ludicrous! We're going to have every hunter from here to Zorg on our tails. We can't waste a second.", 9);
+    cm.sendNextS("你刚收到那条传输了吗？！那赏金简直荒唐！从这儿到佐格的每个猎人都会追杀我们。一秒都不能浪费。", 9);
 	cm.np_tuto_0_2();
 }
 

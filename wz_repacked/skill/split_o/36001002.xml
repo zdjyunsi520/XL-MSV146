@@ -1,5 +1,0 @@
-<imgdir name="36001002">
-        <string name="name" value="Circuit Surge" />
-        <string name="desc" value="Increases power output to increase damage." />
-        <string name="h" value="#c[Supply]#\nEnergy Cost: #powerCon, Weapon ATT: +#indiePad, Duration: #time sec" />
-    </imgdir>

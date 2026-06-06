@@ -13,7 +13,7 @@ function enter(pi) {
 				if (em.getProperty("finished").equals("1")) {
 					pi.warp(921100301, 0);
 				} else {
-					pi.playerMessage("Please protect Tylus from kidnappers!");
+					pi.playerMessage("请保护泰勒斯不被绑架者带走！");
 					return;
 				}
 			}

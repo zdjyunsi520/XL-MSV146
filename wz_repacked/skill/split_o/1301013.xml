@@ -1,7 +1,0 @@
-<imgdir name="1301013">
-        <string name="name" value="Evil Eye" />
-        <string name="desc" value="Summons an Evil Eye that heals you regularly when it is near." />
-        <string name="h" value="MP Cost: #mpCon, for every #x sec, casts the heal that restores #hp HP. Duration: #time sec. Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons an Evil Eye that heals you regularly when it is near." />
-        <string name="ph" value="MP Cost: #mpCon, for every #x sec, casts the heal that restores #hp HP. Duration: #time sec. Cooldown: #cooltime sec" />
-    </imgdir>

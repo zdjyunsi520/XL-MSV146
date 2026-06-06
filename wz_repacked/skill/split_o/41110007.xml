@@ -1,5 +1,0 @@
-<imgdir name="41110007">
-        <string name="name" value="Merciless Blade" />
-        <string name="desc" value="Your attacks leave bleeding wounds, dealing HP damage over time. Bleeding doesn&apos;t stack and can&apos;t cause the target&apos;s HP to go below 1." />
-        <string name="h" value="Status Chance: #prop%, #dot% damage every #dotInterval sec, Duration: #dotTime sec" />
-    </imgdir>

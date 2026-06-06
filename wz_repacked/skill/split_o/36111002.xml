@@ -1,5 +1,0 @@
-<imgdir name="36111002">
-        <string name="name" value="Gravity Pillar" />
-        <string name="desc" value="Opens a field of anti-gravitational force to lift enemies into the air. Distant enemies are lifted even higher, and enemies in the energy field drop at a slower rate." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Launches enemies into the air." />
-    </imgdir>

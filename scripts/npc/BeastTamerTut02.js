@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-         cm.sendZeroTalk("Uh oh, what's this? I smell... the need for a hero!");
+         cm.sendZeroTalk("哦不，这是什么？我闻到了...英雄的气息！");
      } else if (status == 1) {
 	    cm.warp(866101000,0);
             cm.dispose();

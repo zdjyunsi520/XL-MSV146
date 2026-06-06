@@ -1,5 +1,0 @@
-<imgdir name="2321054">
-        <string name="name" value="Righteously Indignant" />
-        <string name="desc" value="Fuels your body with the fury of an avenging angel." />
-        <string name="h" value="#cWhen deactivated#, damage +#z%\n#cWhen activated#: MP Cost: #mpCon, Magic ATT: #indieMad, Enemy DEF Ignored: #ignoreMobpdpR%, Angel Ray Attack Count: #y, Max Damage: #indieMaxDamageOver, Attack Speed increased by 1 stage, Recovery: #hp%. Decreases the number of targets to #mobCount.\n#cCan be used only by Teleport, buff skills, Angel Ray." />
-    </imgdir>

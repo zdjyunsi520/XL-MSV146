@@ -1,5 +1,0 @@
-<imgdir name="35111002">
-        <string name="name" value="震荡电击" />
-        <string name="desc" value="安装最多3个&lt;特斯拉线圈&gt;，持续攻击并可能眩晕敌人。能量耗尽时会自爆。" />
-        <string name="h" value="MP消耗：#mpCon，特斯拉线圈持续时间：#y秒，伤害：#damage%，最大攻击怪物数：#mobCount，自爆伤害：#selfDestruction%，冷却时间：#cooltime秒" />
-    </imgdir>

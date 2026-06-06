@@ -1,7 +1,0 @@
-<imgdir name="32111011">
-        <string name="name" value="进阶黑暗锁链" />
-        <string name="desc" value="使用更强的黑暗锁链将敌人拉向你。被拉的敌人受到伤害并有概率被击倒。\n前置技能：#c黑暗锁链 Lv. 20#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，击倒持续时间：#time秒" />
-        <string name="pdesc" value="使用更强的黑暗锁链将敌人拉向你。被拉的敌人受到伤害并有概率被击倒。\n前置技能：#c黑暗锁链 Lv. 20#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒\n冷却时间：#cooltime秒" />
-    </imgdir>

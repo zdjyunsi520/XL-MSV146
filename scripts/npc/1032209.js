@@ -9,27 +9,27 @@ function action(mode, type, selection) {
 	}
 	if (status == 0) {
 	    //cm.EnableUI(1);
-		cm.sendPlayerToNpc("So uh.. Where am I?");
+		cm.sendPlayerToNpc("呃……我在哪里？");
 	} else if (status == 1) {
-		cm.sendNextNoESC("You've entered the world of OurStory.");
+		cm.sendNextNoESC("你已经进入了OurStory的世界。");
 	} else if (status == 2) {
-		cm.sendPlayerToNpc("What's an OurStory?... is it some kind of fruit ._.?");
+		cm.sendPlayerToNpc("OurStory是什么？……是某种水果吗 ._.");
 	} else if (status == 3) {
-		cm.sendNextNoESC("Uhm no. It's not a type of fruit it's an online video game...");
+		cm.sendNextNoESC("呃不是。它不是水果，是一个在线网络游戏……");
 	} else if (status == 4) {
-		cm.sendPlayerToNpc("WHAT?! I'M IN A VIDEO GAME?!.");
+		cm.sendPlayerToNpc("什么？！我在一个网络游戏里？！");
 	} else if (status == 5) {
-		cm.sendNextNoESC("o.o Holy shit like calm the hell down it's not like you're gonna die or anything you'll be just fine as long as you follow some simple guidelines...");
+		cm.sendNextNoESC("o.o 我的天啊，冷静一点好吗，你又不会死什么的，只要你遵循一些简单的指引就没事了……");
 	} else if (status == 6) {
 		//cm.warp(180000001,0);
-		cm.sendPlayerToNpc("Let me guess.. I have to be some kind of hero and #r SAAAAVVVEEEE TTTHHHHEEE WOOOORRRLLLDDDD");
+		cm.sendPlayerToNpc("让我猜猜……我得成为某种英雄然后#r 拯～～～救～～～世～～～界～～～");
 	} else if (status == 7) {
-		cm.sendNextNoESC("haha.. Yeah.. \r\n\r\n\r\n\r\n #b Just then your hear a big bang");
+		cm.sendNextNoESC("哈哈……是啊……\r\n\r\n\r\n\r\n #b 就在这时你听到了一声巨响");
 	} else if (status == 8) {
-		cm.sendPlayerToNpc("...! What was that?!");
+		cm.sendPlayerToNpc("……！那是什么？！");
 	} else if (status == 9) {
 	    cm.EnableUI(1);
-		cm.sendNextNoESC("Hm.. I think it's time for me to send you to another place, please meet up with a friend of mine he can help you more");
+		cm.sendNextNoESC("嗯……我想现在是时候送你去另一个地方了，请去找我的一位朋友，他能更好地帮助你");
 	} else if (status == 10) {
 			cm.warp(910142060,0);
 	//		cm.spawnMobOnPoint(1210104, 10, 55, 85);

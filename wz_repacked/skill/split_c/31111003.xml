@@ -1,8 +1,0 @@
-<imgdir name="31111003">
-        <string name="name" value="乌鸦风暴" />
-        <string name="desc" value="召唤一群超愤怒的乌鸦，啄食前方所有敌人的脸。然后乌鸦会将敌人的HP还给你，感谢你让它们发泄怒火。" />
-        <string name="h" value="怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，最多恢复#x%HP\n冷却时间：#cooltime秒" />
-        <string name="pdesc" value="召唤一群超愤怒的乌鸦，啄食前方所有敌人的脸。然后乌鸦会将敌人的HP还给你，感谢你让它们发泄怒火。" />
-        <string name="ph" value="怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，最多恢复#x%HP\n冷却时间：#cooltime秒" />
-        <string name="hch" value="怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount，最多恢复#hcHp%HP\n冷却时间：#cooltime秒" />
-    </imgdir>

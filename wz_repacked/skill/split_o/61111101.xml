@@ -1,5 +1,0 @@
-<imgdir name="61111101">
-        <string name="name" value="Pressure Chain" />
-        <string name="desc" value="Shoot a sword wave that penetrates, then pulls enemies." />
-        <string name="h" value="MP Cost: #mpCon, Penetrates then pulls #mobCount enemies dealing #damage% damage #attackCount times, Stun Chance: #prop%" />
-    </imgdir>

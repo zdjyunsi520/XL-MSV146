@@ -17,9 +17,9 @@ function action(mode, type, selection) {
         return;
     }
     if (status == 0) {
-        cm.sendOk("Welcome!\r\nAs a starting gift, i would like to give you a nx code which contains 5,000 NX Cash.\r\nThe code will be sent to you in a note from MapleGM as soon as you login, change channel or enter the cash shop. \r\n" + random[randomizer[0]] + random[randomizer[1]] + random[randomizer[2]] + random[randomizer[3]] + random[randomizer[4]] + random[randomizer[5]] + "");
+        cm.sendOk("你的NX兑换码是：\r\n" + random[randomizer[0]] + random[randomizer[1]] + random[randomizer[2]] + random[randomizer[3]] + random[randomizer[4]] + random[randomizer[5]] + "");
         cm.getPlayer().addNXCode(random[randomizer[0]] + random[randomizer[1]] + random[randomizer[2]] + random[randomizer[3]] + random[randomizer[4]] + random[randomizer[5]], null, 1, 5000);
-        cm.getPlayer().sendNote(cm.getPlayer().getName(), "MapleGM", "Your NX Code is:\r\n" + random[randomizer[0]] + random[randomizer[1]] + random[randomizer[2]] + random[randomizer[3]] + random[randomizer[4]] + random[randomizer[5]] + "\r\nTo activate this code, go to the Cash Shop and press the Code button, then enter your code.");
+        cm.getPlayer().sendNote(cm.getPlayer().getName(), "MapleGM", "\r\n要激活此兑换码，请前往点券商城并按下兑换按钮，然后输入你的兑换码。" + random[randomizer[0]] + random[randomizer[1]] + random[randomizer[2]] + random[randomizer[3]] + random[randomizer[4]] + random[randomizer[5]] + "\r\n要激活此兑换码，请前往点券商城并按下兑换按钮，然后输入你的兑换码。");
         cm.dispose();
     }
 }

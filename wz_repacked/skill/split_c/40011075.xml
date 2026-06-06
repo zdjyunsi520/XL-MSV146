@@ -1,7 +1,0 @@
-<imgdir name="40011075">
-        <string name="name" value="米哈逸的灵魂驱动" />
-        <string name="desc" value="召唤米哈逸，以四记强力攻击横扫多个敌人。技能等级可以根据自身等级提升。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount" />
-        <string name="pdesc" value="猛击地面连续攻击周围敌人4次。 " />
-        <string name="ph" value="MP消耗：#mpCon，最大攻击怪物数#mobCount，伤害：#damage%，攻击次数：4\n冷却时间：#cooltime秒" />
-    </imgdir>

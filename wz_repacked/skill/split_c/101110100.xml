@@ -1,5 +1,0 @@
-<imgdir name="101110100">
-        <string name="name" value="旋转驱动" />
-        <string name="desc" value="在回旋挥击后多次按技能键，原地旋转身体以更大范围攻击，然后将敌人拉向你~\n[前置技能]: #c回旋挥击 Lv. 1#" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount" />
-    </imgdir>

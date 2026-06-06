@@ -15,7 +15,7 @@ function action(mode, type, selection) {
     else if (mode == 0) //Previous/No/Delience
         chat--;
     if (cm.getMapId() == 300000012) {
-        cm.sendOk("I don't trust you, but It isn't in my control.");
+        cm.sendOk("我不信任你，但这不在我的掌控之中。");
         cm.dispose();
     } else
         cm.dispose();

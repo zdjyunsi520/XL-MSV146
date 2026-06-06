@@ -1,5 +1,0 @@
-<imgdir name="1001003">
-        <string name="name" value="Iron Body" />
-        <string name="desc" value="Temporarily boosts Weapon Defense. Permanently increases Max HP by a percentage. Decreases damage taken when hit by enemies within range." />
-        <string name="h" value="MP Cost: #mpCon,  Weapon Defense: +#indiePdd, Duration : #time,  Damage when hit by enemy in range: -#x%\n[Passive Effects: Max HP +#mhpR%]" />
-    </imgdir>

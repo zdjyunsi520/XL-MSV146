@@ -1,7 +1,0 @@
-<imgdir name="2121005">
-        <string name="name" value="伊弗利特" />
-        <string name="desc" value="召唤火焰伊弗利特短时间内攻击多个敌人。同时永久提升熟练度~" />
-        <string name="h" value="MP消耗: #mpCon，持续时间: #time秒，对最多3个敌人造成#damage%伤害。永久提升熟练度#mastery%" />
-        <string name="pdesc" value="召唤火焰伊弗利特短时间内攻击多个敌人。同时永久提升熟练度~" />
-        <string name="ph" value="MP消耗: #mpCon，持续时间: #time秒，对最多3个敌人造成#damage%伤害。永久提升熟练度#mastery%" />
-    </imgdir>

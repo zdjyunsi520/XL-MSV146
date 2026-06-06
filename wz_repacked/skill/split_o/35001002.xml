@@ -1,7 +1,0 @@
-<imgdir name="35001002">
-        <string name="name" value="Mech: Prototype" />
-        <string name="desc" value="Allows you to summon and mount the Prototype Mech, which greatly increases your Max HP, Max MP, Speed, ATT, DEF, and the range of your downward jumps. When attacked, you will gain a Stance effect.\nHit the skill key to mount/unmount." />
-        <string name="h" value="MP Cost: #mpCon, Max HP: +#emhp, Max MP: +#emmp, Speed: +20, ATT: +#epad, DEF: +#epdd" />
-        <string name="pdesc" value="Allows you to summon and mount the Prototype Mech, which greatly increases your Max HP, Max MP, Battle Mode ATT, DEF, and the range of your downward jumps. When attacked, you will gain a Stance effect. \nHit the skill key to mount/unmount." />
-        <string name="ph" value="MP Cost: #mpCon, Max HP: +#emhp, Max MP: +#emmp, Speed: +20, Battle Mode ATT: +#PVPdamage, DEF: +#epdd" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="1121008">
-        <string name="name" value="怒之狂击" />
-        <string name="desc" value="对前方多个敌人进行多次打击。#c最后一击必定暴击#。狂暴状态下单体攻击更加强力~" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount，#c最后一击为暴击#\n#c狂暴状态下#，伤害: +#damR%，#c最后两击为暴击#" />
-        <string name="pdesc" value="对前方多个敌人进行多次打击。#c最后一击必定暴击#。狂暴状态下单体攻击更加强力~" />
-        <string name="ph" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount，#c最后一击为暴击#\n#c狂暴状态下#，伤害: +#damR%，#c最后两击为暴击#" />
-    </imgdir>

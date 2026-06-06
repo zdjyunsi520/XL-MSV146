@@ -67,7 +67,7 @@ function startEvent() {
 
 function changeRates() {
     em.DoubleRateEvent(true);
-    em.broadcastServerMsg(5120014, "2x EXP and drop event has started!", true);
+    em.broadcastServerMsg(5120014, "2倍经验和掉落活动已开始！", true);
 }
 
 function refreshDates(calendar) {

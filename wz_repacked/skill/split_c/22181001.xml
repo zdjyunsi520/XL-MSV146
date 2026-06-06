@@ -1,8 +1,0 @@
-<imgdir name="22181001">
-        <string name="name" value="烈焰" />
-        <string name="desc" value="用火焰攻击目标造成高额伤害并有概率眩晕。无视一部分敌人防御力。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，眩晕概率：#prop%，眩晕持续时间：#time 秒，无视防御力：#ignoreMobpdpR%" />
-        <string name="pdesc" value="用火焰攻击目标造成高额伤害并有概率眩晕。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，眩晕概率：#prop%，眩晕持续时间：#time 秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime 秒，无视敌人防御力：#ignoreMobpdpR%" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="11110005">
-        <string name="name" value="Advanced combo" />
-        <string name="desc" value="Increases the damage dealt per combo orb and enables you to charge more orbs. Also, grants a chance to charge orbs twice as quickly.\nRequired skill: #c Combo Attack Lv. 20#" />
-        <string name="h" value="Damage: +#v% per combo orb, Max Combo Orbs: #x, Double Charge Speed Proc Rate: #prop%" />
-        <string name="pdesc" value="Increases your max combo orbs and gives you a chance to gain combo orbs twice as quickly.\nRequired Skill: #cCombo Attack Lv. 20#" />
-        <string name="ph" value="Max Combo Orbs: +#x, Double Combo Orb Chance: #prop%" />
-    </imgdir>

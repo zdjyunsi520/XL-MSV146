@@ -1,7 +1,0 @@
-<imgdir name="4301001">
-        <string name="name" value="Triple Stab" />
-        <string name="desc" value="Quickly deals 3 attacks to a maximum of 2 enemies.\nRequired Skill: #cDouble Stab lv. 10#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage% x3 on up to two enemies" />
-        <string name="pdesc" value="Quickly deals 3 attacks to a maximum of 2 enemies.\nRequired Skill: #cDouble Stab lv. 10#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 3, Max Enemies Hit: 2" />
-    </imgdir>

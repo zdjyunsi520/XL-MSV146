@@ -1,8 +1,0 @@
-<imgdir name="1320008">
-        <string name="name" value="侍从光环" />
-        <string name="desc" value="暗黑之灵定期恢复你的HP。技能等级越高，恢复量越大。\n需要技能：#c侍从 Lv. 1#" />
-        <string name="h" value="#hp restored every #x sec" />
-        <string name="pdesc" value="暗黑之灵定期恢复你的HP。技能等级越高，恢复量越大。\n需要技能：#c侍从 Lv. 1#" />
-        <string name="ph" value="#hp restored every #x sec" />
-        <string name="hch" value="#hcHp restored every #x sec" />
-    </imgdir>

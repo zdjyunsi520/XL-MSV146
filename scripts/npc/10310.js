@@ -9,21 +9,21 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNextS("Nope, too scary...",16);
+		    cm.sendNextS("不，太可怕了……",16);
             cm.dispose();
         status--;
     }
     if(cm.isAllReactorState(1008010, 0) == false){
 		if (status == 0) {
-	    cm.sendYesNo("Do you want to exit this place and go to a new world?");
+	    cm.sendYesNo("你想离开这里前往新世界吗？");
     } else if (status == 1) {	
-	    cm.sendNextS("Onward, ho!",16);
+	    cm.sendNextS("出发吧！",16);
 	} else if (status == 2) {	
 	    cm.warp(4000002,0);
         cm.dispose();
     }
 	}else{
-		cm.topMsg("You cannot exit if you do not break the chains.");
+		cm.topMsg("如果你不打破锁链，你就无法离开。");
 		cm.dispose();
     
     }

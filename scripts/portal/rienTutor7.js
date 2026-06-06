@@ -3,6 +3,6 @@ function enter(pi) {
 	pi.playPortalSE();
 	pi.warp(140010100, 2);
     } else {
-	pi.playerMessage(5, "The town of Rien is to the right. Take the portal on the right and go into town to meet Lilin.");
+	pi.playerMessage(5, "利恩镇在右边。走右边的传送门进入镇子去找莉莉。");
     }
 }

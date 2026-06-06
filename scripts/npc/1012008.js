@@ -15,34 +15,34 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	    cm.sendSimple("You want to learn more about the minigames? Awesome! Ask me anything. Which minigame do you want to know more about?\r\n#b#L0#Omok#l\r\n#b#L1#Match Cards#l");		
+	    cm.sendSimple("你想了解更多关于小游戏的信息？太棒了！尽管问我吧。你想了解哪个小游戏？\r\n#b#L0#五子棋#l\r\n#b#L1#翻牌配对#l");		
     } else if (status == 1) {
         sel = selection;
 	  if (selection == 0) {		
-	    cm.sendNext("Here are the rules for Omok, so listen carefully. Omok is a game in which you and your opponent take turns laying a piece on the table until someone finds a way to lay 5 consecutive pieces in a line, be it horizontal, diagonal, or vertical. For starters, only the ones with an #bOmok Set#k can open a game room.");	
+	    cm.sendNext("这是五子棋的规则，请仔细听好。五子棋是你和对手轮流在棋盘上放置棋子的游戏，谁先在水平、对角线或垂直方向上连成5个棋子就获胜。首先，只有拥有#b五子棋套装#k的人才能开游戏房间。");	
      } else if (selection == 1) {
-		cm.sendNext("You want #b#t4080100##k? Hmm...to make #t4080100#, you'll need some #b#t4030012#s#k. #t4030012# can be obtained by taking out the monsters all around the island. Collect 15 #t4030012#s and you can make a set of #t4080100#.");
+		cm.sendNext("你想要#b#t4080100##k？嗯……要制作#t4080100#，你需要一些#b#t4030012#s#k。#t4030012#可以通过打倒岛上各处的怪物获得。收集15个#t4030012#就能制作一套#t4080100#。");
         cm.dispose();	   
 	   }
 	} else if (status == 2) {
 	  if (sel == 0) {		
-	    cm.sendNextPrev("Every game of Omok will cost you #r100 mesos#k. Even if you don't have an #bOmok Set#k, you can enter the room and play. However, if you don't possess 100 mesos, then you won't be allowed in the room at all. The person opening the game room also needs 100 mesos to open the room (or else there's no game). If you run out of mesos during the game, then you're automatically kicked out of the room!");	
+	    cm.sendNextPrev("每局五子棋需要花费你#r100金币#k。即使你没有#b五子棋套装#k，也可以进入房间游戏。但是，如果你没有100金币，就根本不允许进入房间。开房间的人也需要100金币才能开房间（否则就没有游戏可玩）。如果你在游戏中金币用完了，你会被自动踢出房间！");	
 	    }
     } else if (status == 3) {
 	  if (sel == 0) {		
-	    cm.sendNextPrev("Enter the room, and when you're ready to play, click on #bReady#k. Once the visitor clicks on #bReady#k, the room owner can press #bStart#k to begin the game. If an unwanted visitor walks in, and you don't want to play with that person, the room owner has the right to kick the visitor out of the room. There will be a square box with x written on the right of that person. Click on that for a cold goodbye, okay?");	
+	    cm.sendNextPrev("进入房间后，当你准备好游戏时，点击#b准备#k。一旦访客点击了#b准备#k，房主可以按#b开始#k来开始游戏。如果有不想要的访客进来了，而你不想和那个人玩，房主有权把访客踢出房间。在那个人右边会有一个带x的方框。点击那个就可以来个冷酷的告别了，好吗？");	
         }
     } else if (status == 4) {
 	  if (sel== 0) {		
-	    cm.sendNextPrev("When the first game starts, #bthe room owner goes first#k. Beware that you'll be given a time limit, and you may lose your turn if you don't make your move on time. Normally, 3 x 3 is not allowed, but if there comes a point that it's absolutely necessary to put your piece there or face ending the game, then you can put it there. 3 x 3 is allowed as the last line of defense! Oh, and it won't count if it's #r6 or 7 straight#k. Only 5!");	
+	    cm.sendNextPrev("第一局游戏开始时，#b房主先手#k。注意你有时间限制，如果你不按时落子，可能会失去你的回合。通常三三禁手是不允许的，但如果到了必须落子否则就结束游戏的时刻，你可以落子。三三可以作为最后的防线！哦，如果是#r6连或7连#k是不算的。只有5连才算！");	
    	    }
 	} else if (status == 5) {
 	  if (sel == 0) {		
-	    cm.sendNextPrev("If you know your back is against the wall, you can request a #bRedo#k. If the opponent accepts your request, then you and your opponent's last moves will cancel out. If you ever feel the need to go to the bathroom, or take an extended break, you can request a #btie#k. The game will end in a tie if the opponent accepts the request. Tip: this may be a good way to keep your friendships in tact.");	
+	    cm.sendNextPrev("如果你知道自己的处境很困难，可以请求#b悔棋#k。如果对手接受了你的请求，你和你对手的最后一步都会取消。如果你需要去洗手间或者休息更长时间，可以请求#b和棋#k。如果对手接受请求，游戏将以平局结束。提示：这可能是保持友谊的好方法。");	
    	    }
     } else if (status == 6) {
 	   if (sel == 0) {		
-	    cm.sendNextPrev("When the next game starts, the loser will go first. Also, no one is allowed to leave in the middle of a game. If you do, you may need to request either a #bforfeit or tie#k. (Of course, if you request a forfeit, you'll lose the game.) And if you click on 'Leave' in the middle of the game and call to leave after the game, you'll leave the room right after the game is over. This will be a much more useful way to leave.");		
+	    cm.sendNextPrev("下一局游戏开始时，输的人先手。另外，游戏中途不允许任何人离开。如果你要离开，可能需要请求#b认输或和棋#k。（当然，如果你请求认输，你会输掉比赛。）如果你在游戏中点击‘离开’并在游戏结束后离开，你会在游戏结束后立即离开房间。这是更好的离开方式。");		
 		cm.dispose();
 	   }
 	    cm.dispose();

@@ -1,8 +1,0 @@
-<imgdir name="23110006">
-        <string name="name" value="空中扫射" />
-        <string name="desc" value="升龙突击将敌人抛到空中后的连招技能。飞向空中敌人进行迅速攻击。同时永久提升升龙突击的伤害。" />
-        <string name="h" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，即死概率：#prop%\n被动效果 - 升龙突击伤害：+#damR%" />
-        <string name="pdesc" value="升龙突击将敌人抛到空中后的连招技能。飞向空中敌人进行迅速攻击。同时永久提升升龙突击的伤害。" />
-        <string name="ph" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，即死概率：#prop%\n被动效果 - 升龙突击伤害：+#damR%" />
-        <string name="hch" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount\n被动效果 - 升龙突击伤害：+#damR%" />
-    </imgdir>

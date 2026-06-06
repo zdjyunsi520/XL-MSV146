@@ -72,7 +72,7 @@ function monsterValue(eim, mobId) {
 }
 
 function allMonstersDead(eim) {
-eim.broadcastPlayerMsg(6, "The Visitor is Dead, enter the Portal below you, to leave.");
+eim.broadcastPlayerMsg(6, "访客已死亡，请进入你下方的传送门离开。");
 }
 
 function playerRevive(eim, player) {

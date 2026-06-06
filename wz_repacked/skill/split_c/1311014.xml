@@ -1,7 +1,0 @@
-<imgdir name="1311014">
-        <string name="name" value="邪眼之震" />
-        <string name="desc" value="让邪眼尖叫，眩晕并伤害附近的敌人。#c初次遇到敌人时自动施展#~" />
-        <string name="h" value="最大敌人数: #mobCount, 伤害: #damage%, 眩晕几率: #prop%, 眩晕时间: #time秒, 冷却时间: #cooltime秒" />
-        <string name="pdesc" value="让邪眼尖叫，眩晕并伤害附近的敌人。#c初次遇到敌人时自动施展#~" />
-        <string name="ph" value="最大敌人数: #mobCount, 伤害: #damage%, 眩晕几率: #prop%, 眩晕时间: #time秒, 冷却时间: #cooltime秒" />
-    </imgdir>

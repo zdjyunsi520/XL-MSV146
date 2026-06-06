@@ -1,7 +1,7 @@
 // Phantom Warper : To Henesys
 
 function start() {
-	cm.sendYesNo("Do you want to go to #bHenesys#k?");
+	cm.sendYesNo("你想去#b射手村#k吗？");
 }
 
 function action (m, t, s) {

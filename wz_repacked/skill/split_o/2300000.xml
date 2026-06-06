@@ -1,7 +1,0 @@
-<imgdir name="2300000">
-        <string name="name" value="MP  Eater" />
-        <string name="desc" value="Absorbs the enemy&apos;s MP when attacking with Magic skills until the enemy&apos;s MP reaches 0.\nRequired Skill: #cSpell Mastery Lv. 5#" />
-        <string name="h" value="MP Absorb Chance: #prop%, Amount Absorbed: #x% of the enemy&apos;s Max MP" />
-        <string name="pdesc" value="Absorbs the enemy&apos;s MP when attacking with Magic skills until the enemy&apos;s MP reaches 0.\nRequired Skill: #cSpell Mastery Lv. 5#" />
-        <string name="ph" value="MP Absorb Chance: #prop%, Amount Absorbed: #x% of the enemy&apos;s Max MP" />
-    </imgdir>

@@ -23,20 +23,20 @@ if (mode == 1)
 else 
    status--;
     if (status == 0) { 
-	cm.sendSimple("Hi #r#h ##k, I am the Starter NPC for ViciousMS.\r\ You need 15 Red snail shells to get out of here\r\n#b#L1#Let me out of here#l");
+	cm.sendSimple("大家请注意，欢迎");
 	}
 	if (selection == 1) {
 	if (cm.haveItem(4000016, 15)) {
 		cm.gainItem(4000016, -15);
 		cm.gainExp(800);
         cm.gainMeso(1000000);
-                	cm.msiMessage("Everyone, Please Welcome "+cm.getPlayer().getName()+", the newest player of ViciousMS.");
+                	cm.msiMessage("，ViciousMS的最新玩家。 "+cm.getPlayer().getName()+"祝你ViciousMS游戏愉快！输入 @help 查看所有指令。");
 
-		cm.sendOk("Enjoy ViciousMS! Type @help for all our commands.");
+		cm.sendOk("抱歉，我想你没有15个红蜗牛壳 #i4000016#");
 		cm.warp(910000000, 0);
 		cm.dispose();
 	} else {
-        cm.sendOk("Sorry, I don't think you have the 15 Red Snail Shells #i4000016#");
+        cm.sendOk("抱歉，我想你没有15个红蜗牛壳 #i4000016#");
 		cm.dispose();
 		}
 	}

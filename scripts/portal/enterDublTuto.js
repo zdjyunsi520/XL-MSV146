@@ -13,7 +13,7 @@ function enter(pi) {
 	pi.playPortalSE();
 	return true;
     } else {
-	pi.getPlayer().dropMessage(5, "You can't enter since door is locked.");
+	pi.getPlayer().dropMessage(5, "门锁着，你无法进入。");
 	return false;
     }
     

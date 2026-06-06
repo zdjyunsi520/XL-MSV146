@@ -8,7 +8,7 @@ function start(mode, type, selection) {
     status++;
 
     if (status == 0) {
-	qm.askAcceptDecline("#h0#. Have you been slacking off on training since reaching Level 100? We all know how powerful you are, but the training is not complete. Take a look at these Knight Commanders. They train day and night, preparing themselves for the possible encounter with the Black Wizard.");
+	qm.askAcceptDecline("#h0#。你达到100级后就一直在偷懒训练吗？我们都知道你有多强大，但训练还没有完成。看看这些骑士指挥官。他们日夜训练，为可能遭遇黑魔法师的情况做着准备。");
     } else {
 	if (mode == 1) {
 	    qm.forceStartQuest();

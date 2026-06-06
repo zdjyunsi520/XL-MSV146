@@ -23,118 +23,118 @@ function action(mode, type, selection) {
         else
             status--;
 			if(status == 0){
-				cm.sendSimple("Hello there, I'm #bMar the Fairy#k of Victoria Island's main disciple. Mar the Fairy summoned me here to see if the pets are being taken care of here in Ludibrium. What can I do for you? \r\n#L0##bMy pet has turned back into a doll\r\nPlease help me make it move again!#k#l \r\n#L1##bTell me more about Pets.#k#l \r\n#L2##bHow do I raise Pets?#k#l \r\n#L3##bDo Pets die too?#k#l \r\n#L4##bWhat are the commands for brown and black kitty?#k#l \r\n#L5##bWhat are the commands for brown puppy?#k#l \r\n#L6##bWhat are the commands for pink and white bunny?#k#l \r\n#L7##bWhat are the commands for Mini Cargo?#k#l \r\n#L8##bWhat are the commands for Husky?#k#l \r\n#L9##bWhat are the commands for Black Pig?#k#l \r\n#L10##bWhat are the commands for Black Pig?#k#l \r\n#L11##bWhat are the commands for Panda#k#l \r\n#L12##bWhat are the commands for Dino Boy & Girl?#k#l \r\n#L13##bWhat are the commands for Rudolph?#k#l \r\n#L14##bWhat are the commands for Monkey?#k#l \r\n#L15##bWhat are the commands for Robot?#k#l \r\n#L16##bWhat are the commands for Elephant?#k#l \r\n#L17##bWhat are the commands for Golden Pig?#k#l \r\n#L18##bWhat are the commands for Penguin?#k#l \r\n#L19##bWhat are the commands for Mini Yeti?#k#l \r\n#L20##bWhat are the commands for Jr. Balrog? \r\n#L21##bWhat are the commands for Baby Dragon?#k#l \r\nL#22##bWhat are the commands for Green/Red/Blue Dragon#k#l \r\n#L23##bWhat are the commands for Black Dragon?#k#l \r\n#L24##bWhat are the commands for Snowman?#k#l \r\n#L25##bWhat are the commands for Sun Wu Kong?#k#l \r\n#L26##bWhat are the commands for Jr. Reaper?#k#l \r\n#L27##bWhat are the commands for Crystal Rudolph?#k#l \r\n#L28##bWhat are the commands for Kino?#k#l \r\n#L29##bWhat are the commands for White Duck?#k#l \r\n#L30##bWhat are the commands for Pink Bean?#k#l \r\n#L31##bWhat are the commands for Porcupine?#k#l");
+				cm.sendSimple("你好，我是维多利亚岛#b妖精玛尔#k的大弟子。妖精玛尔把我召唤到这里来照看宠物在玩具城是否受到妥善照料。有什么可以帮你的？\r\n#L0##b我的宠物变回了玩偶\r\n请帮我让它重新动起来！#k#l \r\n#L1##b告诉我更多关于宠物的信息。#k#l \r\n#L2##b如何饲养宠物？#k#l \r\n#L3##b宠物也会死吗？#k#l \r\n#L4##b棕色小猫和黑色小猫的指令是什么？#k#l \r\n#L5##b棕色小狗的指令是什么？#k#l \r\n#L6##b粉色和白色兔子的指令是什么？#k#l \r\n#L7##b迷你货物的指令是什么？#k#l \r\n#L8##b哈士奇的指令是什么？#k#l \r\n#L9##b黑猪的指令是什么？#k#l \r\n#L10##b黑猪的指令是什么？#k#l \r\n#L11##b熊猫的指令是什么？#k#l \r\n#L12##b恐龙男孩和恐龙女孩的指令是什么？#k#l \r\n#L13##b鲁道夫的指令是什么？#k#l \r\n#L14##b猴子的指令是什么？#k#l \r\n#L15##b机器人的指令是什么？#k#l \r\n#L16##b大象的指令是什么？#k#l \r\n#L17##b金猪的指令是什么？#k#l \r\n#L18##b企鹅的指令是什么？#k#l \r\n#L19##b迷你雪人的指令是什么？#k#l \r\n#L20##b小巴洛古的指令是什么？ \r\n#L21##b幼龙的指令是什么？#k#l \r\nL#22##b绿龙/红龙/蓝龙的指令是什么#k#l \r\n#L23##b黑龙的指令是什么？#k#l \r\n#L24##b雪人的指令是什么？#k#l \r\n#L25##b孙悟空的指令是什么？#k#l \r\n#L26##b小死神的指令是什么？#k#l \r\n#L27##b水晶鲁道夫的指令是什么？#k#l \r\n#L28##b基诺的指令是什么？#k#l \r\n#L29##b白色鸭子的指令是什么？#k#l \r\n#L30##b粉红宾的指令是什么？#k#l \r\n#L31##b豪猪的指令是什么？#k#l");
 				}
 			else if(status == 1){
 				if(selection == 0){
-					cm.sendNext("I'm Wisp, continuing on with the studies that my Master Mar the Fairy assigned me. There seems to be a lot of pets even her in Ludibrium. I need to get back to my studies, so if you'll excuse me...");
+					cm.sendNext("我是威斯普，正在继续完成我的师父妖精玛尔交给我的学习任务。即使在玩具城这里似乎也有很多宠物。我需要回去学习了，失陪了……");
 					cm.dispose();
 				} else if(selection == 1){
-					cm.sendNext("Hmmmm,you must have a lot of questions regarding the pets. Long ago, a person by the name #bCloy#k, sprayed Water of Life on it, and cast spell on it to create a magical animal. I know it sounds unbelievable, but it's a doll that became an actual living thing. They understand and follow people very well.");
+					cm.sendNext("嗯……你一定对宠物有很多疑问。很久以前，一个名叫#b克洛伊#k的人在玩偶上喷洒了生命之水，并对其施了咒语，创造出了有魔力的动物。我知道这听起来难以置信，但它是一个玩偶变成了真正的活物。它们非常通人性，能很好地跟随主人。");
 				} else if(selection == 2){
-					cm.sendNext("Depending on the command you give, pets can love it, hate, and display other kinds of reactions to it. If you give the pet a command and it follows you well, your closeness goes up. Double click on the pet and you can check the closeness, level, fullness and etc...");
+					cm.sendNext("根据你给出的指令，宠物可能会喜欢、讨厌，或者做出其他各种反应。如果你给宠物一个指令并且它很好地服从了，你们的亲密度就会上升。双击宠物可以查看亲密度、等级、饱食度等信息……");
 				} else if(selection == 3){
-					cm.sendNext("Dying... well, they aren't technically ALIVE per se, so I don't know if dying is the right term to use. They are dolls with my magical power and the power of Water of Life to become a live object. Of course while it's alive, it's just like a live animal...");
+					cm.sendNext("死亡……嗯，严格来说它们并不算"活着"，所以我不知道用"死亡"来形容是否合适。它们是玩偶，通过我的魔力和生命之水的力量变成了活的物体。当然，在它活着的时候，它就像一只真正的动物……");
 				} else if(selection == 4){
-					cm.sendNext("These are the commands for #rBrown Kitty and Black Kitty#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bstupid, ihateyou, dummy#k (level 1 ~ 30)\r\n#biloveyou#k (level 1~30)\r\n#bpoop#k (level 1 ~ 30)\r\n#btalk, say, chat#k (level 10 ~ 30)\r\n#bcutie#k (level 10 ~ 30)\r\n#bup, stand, rise#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r棕色小猫和黑色小猫#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bstupid, ihateyou, dummy#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1~30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 10 ~ 30）\r\n#bcutie#k（等级 10 ~ 30）\r\n#bup, stand, rise#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 5){
-					cm.sendNext("These are the commands for #rBrown Puppy#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bstupid, ihateyou, baddog, dummy#k (level 1 ~ 30)\r\n#biloveyou#k (level 1~30)\r\n#bpee#k (level 10 ~ 30)\r\n#btalk, say, chat, bark#k (level 10 ~ 30)\r\n#bdown#k (level 10 ~ 30)\r\n#bup, stand, rise#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r棕色小狗#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bstupid, ihateyou, baddog, dummy#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1~30）\r\n#bpee#k（等级 10 ~ 30）\r\n#btalk, say, chat, bark#k（等级 10 ~ 30）\r\n#bdown#k（等级 10 ~ 30）\r\n#bup, stand, rise#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 6){
-					cm.sendNext("These are the commands for #rPink Bunny and White Bunny#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bup, stand#k (level 1 ~ 30)\r\n#biloveyou#k (level 1~30)\r\n#bpoop#k (level 1 ~ 30)\r\n#btalk, say, chat#k (level 10 ~ 30)\r\n#bhug#k (level 10 ~ 30)\r\n#bsleep, sleepy, gotobed#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r粉色兔子和白色兔子#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bup, stand#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1~30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 10 ~ 30）\r\n#bhug#k（等级 10 ~ 30）\r\n#bsleep, sleepy, gotobed#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 7){
-					cm.sendNext("These are the commands for #rMini Cargo#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bup, stand#k (level 1 ~ 30)\r\n#biloveyou#k (level 1~30)\r\n#bpee#k (level 1 ~ 30)\r\n#btalk, say, chat#k (level 10 ~ 30)\r\n#bthelook, charisma#k (level 10 ~ 30)\r\n#bgoodboy, good#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r迷你货物#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bup, stand#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1~30）\r\n#bpee#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 10 ~ 30）\r\n#bthelook, charisma#k（等级 10 ~ 30）\r\n#bgoodboy, good#k（等级 20 ~ 30）");
 					cm.dispose();				
 				} else if(selection == 8){
-					cm.sendNext("These are the commands for #rHusky#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bstupid, ihateyou, baddog, dummy#k (level 1 ~ 30)\r\n#biloveyou#k (level 1 ~ 30)\r\n#bpee#k (level 1 ~ 30)\r\n#btalk, say, chat, bark#k (level 10 ~ 30)\r\n#bdown#k (level 10 ~ 30)\r\n#bup, stand, rise#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r哈士奇#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bstupid, ihateyou, baddog, dummy#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1 ~ 30）\r\n#bpee#k（等级 1 ~ 30）\r\n#btalk, say, chat, bark#k（等级 10 ~ 30）\r\n#bdown#k（等级 10 ~ 30）\r\n#bup, stand, rise#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 9){
-					cm.sendNext("These are the commands for #rBlack Pig#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#biloveyou#k (level 1~30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bhand, up, stand#k (level 1 ~ 30)\r\n#btalk, say, chat, hug#k (level 10 ~ 30)\r\n#bsmile#k (level 10 ~ 30)\r\n#blaugh, smile#k (level 10 ~ 30)\r\n#bcharisma, sleep, sleepy, gotobed#k(level 20~30)");
+					cm.sendNext("以下是#r黑猪#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1~30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bhand, up, stand#k（等级 1 ~ 30）\r\n#btalk, say, chat, hug#k（等级 10 ~ 30）\r\n#bsmile#k（等级 10 ~ 30）\r\n#blaugh, smile#k（等级 10 ~ 30）\r\n#bcharisma, sleep, sleepy, gotobed#k（等级 20~30）");
 					cm.dispose();
 				} else if(selection == 10){
-					cm.sendNext("These are the commands for #rPanda#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#biloveyou#k (level 1 ~ 30)\r\n#bpee#k(level 1 ~ 30)\r\n#bup, stand, hug#k (level 1 ~ 30)\r\n#btalk, chat#k (level 10 ~ 30)\r\n#bplay#k (level 20 ~ 30)\r\n#bmeh, bleh#k (level 10 ~ 30)\r\n#bsleep, sleepy, gotobed#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r熊猫#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1 ~ 30）\r\n#bpee#k（等级 1 ~ 30）\r\n#bup, stand, hug#k（等级 1 ~ 30）\r\n#btalk, chat#k（等级 10 ~ 30）\r\n#bplay#k（等级 20 ~ 30）\r\n#bmeh, bleh#k（等级 10 ~ 30）\r\n#bsleep, sleepy, gotobed#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 11){
-					cm.sendNext("These are the commands for #rDino Boy and Dino Girl#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no,, stupid, ihateyou, badboy, badgirl#k (evel 1 ~ 30)\r\n#biloveyou, dummy#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#btalk, chat(level 10 ~ 30)\r\n#bsmile, laugh#k (level 1 ~ 30)\r\n#bcutie#k (level 10 ~ 30)\r\n#bsleep, nap, sleepy#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r恐龙男孩和恐龙女孩#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, , stupid, ihateyou, badboy, badgirl#k（等级 1 ~ 30）\r\n#biloveyou, dummy#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#btalk, chat（等级 10 ~ 30）\r\n#bsmile, laugh#k（等级 1 ~ 30）\r\n#bcutie#k（等级 10 ~ 30）\r\n#bsleep, nap, sleepy#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if(selection == 12){
-					cm.sendNext("These are the commands for #rRudolph#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k(level 1 ~30) \r\n#bbad, no, badgirl, badboy#k(level 1~30)\r\n#bup, stand#k(level 1 ~ 30) \r\n#bstupid, ihateyou, dummy#k(level 1 ~ 30) \r\n#bmerryxmas, merrychristmas#k(level 11 ~ 30)\r\n#biloveyou#k(level 1 ~ 30)\r\n#bpoop#k(level 1 ~ 30)\r\n#btalk, say, chat#k(level 11 ~ 30)\r\n#blonely, alone, down, rednose#k(level 11~30),\r\n#bcutie#k(level 11 ~ 30)\r\n#bmush, go#k(level 21 ~ 30)");
+					cm.sendNext("以下是#r鲁道夫#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~30）\r\n#bbad, no, badgirl, badboy#k（等级 1~30）\r\n#bup, stand#k（等级 1 ~ 30）\r\n#bstupid, ihateyou, dummy#k（等级 1 ~ 30）\r\n#bmerryxmas, merrychristmas#k（等级 11 ~ 30）\r\n#biloveyou#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 11 ~ 30）\r\n#blonely, alone, down, rednose#k（等级 11~30），\r\n#bcutie#k（等级 11 ~ 30）\r\n#bmush, go#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 13) {
-					cm.sendNext("These are the commands for #rMonkey#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit, rest#k (level 1 ~ 30)\r\n#bbad, no, badboy, badgirl#k (level 1 ~ 30)\r\n#bup, stand#k(level 1 ~ 30)\r\n#biloveyou, pee#k (level 1 ~ 30)\r\n#btalk, say, chat#k (level 11 ~ 30)\r\n#bplay, melong#k (level 11 ~ 30)\r\n#bsleep, sleepy, gotobed#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r猴子#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit, rest#k（等级 1 ~ 30）\r\n#bbad, no, badboy, badgirl#k（等级 1 ~ 30）\r\n#bup, stand#k（等级 1 ~ 30）\r\n#biloveyou, pee#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 11 ~ 30）\r\n#bplay, melong#k（等级 11 ~ 30）\r\n#bsleep, sleepy, gotobed#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 14) {
-					cm.sendNext("These are the commands for #rRobot#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit, stand, rise#k (level 1 ~ 30)\r\n#battack, bad, no, badboy#k (level 1 ~ 30)\r\n#bstupid, ihateyou, dummy#k (level 1 ~ 30)\r\n#biloveyou, good#k (level 1 ~ 30)\r\n#bspeak, disguise#k (level 11 ~ 30)");
+					cm.sendNext("以下是#r机器人#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit, stand, rise#k（等级 1 ~ 30）\r\n#battack, bad, no, badboy#k（等级 1 ~ 30）\r\n#bstupid, ihateyou, dummy#k（等级 1 ~ 30）\r\n#biloveyou, good#k（等级 1 ~ 30）\r\n#bspeak, disguise#k（等级 11 ~ 30）");
 					cm.dispose();
 				} else if (selection == 15) {
-					cm.sendNext("These are the commands for #rElephant#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit, rest#k (level 1 ~ 30)\r\n#bbad, no, badboy, badgirl#k (level 1 ~ 30)\r\n#bup, stand, rise#k(level 1 ~ 30)\r\n#biloveyou, pee#k (level 1 ~ 30)\r\n#btalk, say, chat, play#k (level 11 ~ 30)\r\n#bsleep, sleepy, gotobed#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r大象#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit, rest#k（等级 1 ~ 30）\r\n#bbad, no, badboy, badgirl#k（等级 1 ~ 30）\r\n#bup, stand, rise#k（等级 1 ~ 30）\r\n#biloveyou, pee#k（等级 1 ~ 30）\r\n#btalk, say, chat, play#k（等级 11 ~ 30）\r\n#bsleep, sleepy, gotobed#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 16) {
-					cm.sendNext("These are the commands for #rGolden Pig#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badboy, badgirl#k (level 1 ~ 30)\r\n#bpoop, iloveyou#k (level 1 ~ 30)\r\n#btalk, say, chat#k (level 11 ~ 30)\r\n#bloveme, hugme#k (level 11 ~ 30)\r\n#bsleep, sleepy, gotobed#k (level 21 ~ 30)\r\n#bimpressed, outofhere#k (level 21 ~ 30)\r\n#broll, showmethemoney#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r金猪#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badboy, badgirl#k（等级 1 ~ 30）\r\n#bpoop, iloveyou#k（等级 1 ~ 30）\r\n#btalk, say, chat#k（等级 11 ~ 30）\r\n#bloveme, hugme#k（等级 11 ~ 30）\r\n#bsleep, sleepy, gotobed#k（等级 21 ~ 30）\r\n#bimpressed, outofhere#k（等级 21 ~ 30）\r\n#broll, showmethemoney#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 17) {
-					cm.sendNext("These are the commands for #rPenguin#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badboy, badgirl#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bup, stand, rise#k (level 1 ~ 30)\r\n#biloveyou#k (level 1 ~ 30)\r\n#btalk, chat, say#k (level 10 ~ 30)\r\n#bhug, hugme#k (level 10 ~ 30)\r\n#bwing, hand#k (level 10 ~ 30)\r\n#bsleep#k (level 20 ~ 30)\r\n#bkiss, smooch, muah#k (level 20 ~ 30)\r\n#bfly#k (level 20 ~ 30)\r\n#bcute, adorable#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r企鹅#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badboy, badgirl#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bup, stand, rise#k（等级 1 ~ 30）\r\n#biloveyou#k（等级 1 ~ 30）\r\n#btalk, chat, say#k（等级 10 ~ 30）\r\n#bhug, hugme#k（等级 10 ~ 30）\r\n#bwing, hand#k（等级 10 ~ 30）\r\n#bsleep#k（等级 20 ~ 30）\r\n#bkiss, smooch, muah#k（等级 20 ~ 30）\r\n#bfly#k（等级 20 ~ 30）\r\n#bcute, adorable#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 18) {
-					cm.sendNext("These are the commands for #rMini Yeti#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad, no, badboy, badgirl#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bdance, boogie, shakeit#k (level 1 ~ 30)\r\n#bcute, cutie, pretty, adorable#k (level 1 ~ 30)\r\n#biloveyou, likeyou, mylove#k (level 1 ~ 30)\r\n#btalk, chat, say#k (level 10 ~ 30)\r\n#bsleep, nap#k (level 10 ~ 30)");
+					cm.sendNext("以下是#r迷你雪人#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad, no, badboy, badgirl#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bdance, boogie, shakeit#k（等级 1 ~ 30）\r\n#bcute, cutie, pretty, adorable#k（等级 1 ~ 30）\r\n#biloveyou, likeyou, mylove#k（等级 1 ~ 30）\r\n#btalk, chat, say#k（等级 10 ~ 30）\r\n#bsleep, nap#k（等级 10 ~ 30）");
 					cm.dispose();
 				} else if (selection == 19) {
-					cm.sendNext("These are the commands for #rJr. Balrog#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bliedown#k (level 1 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 1 ~ 30)\r\n#biloveyou|mylove|likeyou#k (level 1 ~ 30)\r\n#bcute|cutie|pretty|adorable#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bsmirk|crooked|laugh#k (level 1 ~ 30)\r\n#bmelong#k (level 11 ~ 30)\r\n#bgood|thelook|charisma#k (level 11 ~ 30)\r\n#bspeak|talk|chat|say#k (level 11 ~ 30)\r\n#bsleep|nap|sleepy#k (level 11 ~ 30)\r\n#bgas#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r小巴洛古#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bliedown#k（等级 1 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 1 ~ 30）\r\n#biloveyou|mylove|likeyou#k（等级 1 ~ 30）\r\n#bcute|cutie|pretty|adorable#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bsmirk|crooked|laugh#k（等级 1 ~ 30）\r\n#bmelong#k（等级 11 ~ 30）\r\n#bgood|thelook|charisma#k（等级 11 ~ 30）\r\n#bspeak|talk|chat|say#k（等级 11 ~ 30）\r\n#bsleep|nap|sleepy#k（等级 11 ~ 30）\r\n#bgas#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 20) {
-					cm.sendNext("These are the commands for #rBaby Dragon#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 1 ~ 30)\r\n#biloveyou|loveyou#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bstupid|ihateyou|dummy#k (level 1 ~ 30)\r\n#bcutie#k (level 11 ~ 30)\r\n#btalk|chat|say#k (level 11 ~ 30)\r\n#bsleep|sleepy|gotobed#k (level 11 ~ 30)");
+					cm.sendNext("以下是#r幼龙#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 1 ~ 30）\r\n#biloveyou|loveyou#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bstupid|ihateyou|dummy#k（等级 1 ~ 30）\r\n#bcutie#k（等级 11 ~ 30）\r\n#btalk|chat|say#k（等级 11 ~ 30）\r\n#bsleep|sleepy|gotobed#k（等级 11 ~ 30）");
 					cm.dispose();
 				} else if (selection == 21) {
-					cm.sendNext("These are the commands for #rGreen/Red/Blue Dragon#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 15 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 15 ~ 30)\r\n#biloveyou|loveyou#k (level 15 ~ 30)\r\n#bpoop#k (level 15 ~ 30)\r\n#bstupid|ihateyou|dummy#k (level 15 ~ 30)\r\n#btalk|chat|say#k (level 15 ~ 30)\r\n#bsleep|sleepy|gotobed#k (level 15 ~ 30)\r\n#bchange#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r绿龙/红龙/蓝龙#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 15 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 15 ~ 30）\r\n#biloveyou|loveyou#k（等级 15 ~ 30）\r\n#bpoop#k（等级 15 ~ 30）\r\n#bstupid|ihateyou|dummy#k（等级 15 ~ 30）\r\n#btalk|chat|say#k（等级 15 ~ 30）\r\n#bsleep|sleepy|gotobed#k（等级 15 ~ 30）\r\n#bchange#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 22) {
-					cm.sendNext("These are the commands for #rBlack Dragon#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 15 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 15 ~ 30)\r\n#biloveyou|loveyou#k (level 15 ~ 30)\r\n#bpoop#k (level 15 ~ 30)\r\n#bstupid|ihateyou|dummy#k (level 15 ~ 30)\r\n#btalk|chat|say#k (level 15 ~ 30)\r\n#bsleep|sleepy|gotobed#k (level 15 ~ 30)\r\n#bcutie, change#k (level 21 ~ 30)");
+					cm.sendNext("以下是#r黑龙#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 15 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 15 ~ 30）\r\n#biloveyou|loveyou#k（等级 15 ~ 30）\r\n#bpoop#k（等级 15 ~ 30）\r\n#bstupid|ihateyou|dummy#k（等级 15 ~ 30）\r\n#btalk|chat|say#k（等级 15 ~ 30）\r\n#bsleep|sleepy|gotobed#k（等级 15 ~ 30）\r\n#bcutie, change#k（等级 21 ~ 30）");
 					cm.dispose();
 				} else if (selection == 23) {
-					cm.sendNext("These are the commands for #rSnowman#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bstupid, ihateyou, dummy#k (level 1 ~ 30)\r\n#bloveyou, mylove, ilikeyou#k (level 1 ~ 30)\r\n#bmerrychristmas#k (level 1 ~ 30)\r\n#bcutie, adorable, cute, pretty#k (level 1 ~ 30)\r\n#bbad, no, badgirl, badboy#k (level 1 ~ 30)\r\n#btalk, chat, say/sleep, sleepy, gotobed#k (level 10 ~ 30)\r\n#bchang#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r雪人#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bstupid, ihateyou, dummy#k（等级 1 ~ 30）\r\n#bloveyou, mylove, ilikeyou#k（等级 1 ~ 30）\r\n#bmerrychristmas#k（等级 1 ~ 30）\r\n#bcutie, adorable, cute, pretty#k（等级 1 ~ 30）\r\n#bbad, no, badgirl, badboy#k（等级 1 ~ 30）\r\n#btalk, chat, say/sleep, sleepy, gotobed#k（等级 10 ~ 30）\r\n#bchang#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 24) {
-					cm.sendNext("These are the commands for #rSun Wu Kong#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k(level 1 ~ 30)\r\n#bno,bad,badgirl,badboy#k(level 1 ~ 30) \r\n#bpoope#k(level 1 ~ 30) \r\n#bcutie,adorable,cute,pretty#k(level 1 ~ 30) \r\n#biloveyou,loveyou,luvyou,ilikeyou,mylove#k(level 1 ~ 30) \r\n#btalk,chat,say/sleep,sleepy,gotobed#k(level 10 ~ 30) \r\n#btransform#k(level 20 ~ 30)");
+					cm.sendNext("以下是#r孙悟空#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bno, bad, badgirl, badboy#k（等级 1 ~ 30）\r\n#bpoope#k（等级 1 ~ 30）\r\n#bcutie, adorable, cute, pretty#k（等级 1 ~ 30）\r\n#biloveyou, loveyou, luvyou, ilikeyou, mylove#k（等级 1 ~ 30）\r\n#btalk, chat, say/sleep, sleepy, gotobed#k（等级 10 ~ 30）\r\n#btransform#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 25) {
-					cm.sendNext("These are the commands for #rJr. Reaper#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 1 ~ 30)\r\n#bplaydead, poop#k (level 1 ~ 30)\r\n#btalk|chat|say#k (level 1 ~ 30)\r\n#biloveyou, hug#k (level 1 ~ 30)\r\n#bsmellmyfeet, rockout, boo#k (level 1 ~ 30)\r\n#btrickortreat#k (level 1 ~ 30)\r\n#bmonstermash#k (level 1 ~ 30)");
+					cm.sendNext("以下是#r小死神#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 1 ~ 30）\r\n#bplaydead, poop#k（等级 1 ~ 30）\r\n#btalk|chat|say#k（等级 1 ~ 30）\r\n#biloveyou, hug#k（等级 1 ~ 30）\r\n#bsmellmyfeet, rockout, boo#k（等级 1 ~ 30）\r\n#btrickortreat#k（等级 1 ~ 30）\r\n#bmonstermash#k（等级 1 ~ 30）");
 					cm.dispose();
 				} else if (selection == 26) {
-					cm.sendNext("These are the commands for #rCrystal Rudolph#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bno|badgirl|badboy#k (level 1 ~ 30)\r\n#bbleh|joke#k(level 1~30)\r\n#bdisguise|transform#k(level 1 ~ 30) \r\n#bawesome|feelgood|lalala#k(level 1 ~ 30) \r\n#bloveyou|heybabe#k(level 1 ~ 30) \r\n#btalk|say|chat#k(level 10 ~ 30) \r\n#bsleep|sleepy|nap|gotobed#k(level 20 ~ 30)");
+					cm.sendNext("以下是#r水晶鲁道夫#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bno|badgirl|badboy#k（等级 1 ~ 30）\r\n#bbleh|joke#k（等级 1~30）\r\n#bdisguise|transform#k（等级 1 ~ 30）\r\n#bawesome|feelgood|lalala#k（等级 1 ~ 30）\r\n#bloveyou|heybabe#k（等级 1 ~ 30）\r\n#btalk|say|chat#k（等级 10 ~ 30）\r\n#bsleep|sleepy|nap|gotobed#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 27) {
-					cm.sendNext("These are the commands for #rKino#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bbad|no|badgirl|badboy#k (level 1 ~ 30)\r\n#bpoop#k (level 1 ~ 30)\r\n#bsleep|nap|sleepy|gotobed#k(level 1 ~ 30) \r\n#btalk|say|chat#k(level 10 ~ 30) \r\n#biloveyou|mylove|likeyou#k(level 10 ~ 30) \r\n#bmeh|bleh#k(level 10 ~ 30) \r\n#bdisguise|change|transform#k(level 20 ~ 30)");
+					cm.sendNext("以下是#r基诺#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad|no|badgirl|badboy#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#bsleep|nap|sleepy|gotobed#k（等级 1 ~ 30）\r\n#btalk|say|chat#k（等级 10 ~ 30）\r\n#biloveyou|mylove|likeyou#k（等级 10 ~ 30）\r\n#bmeh|bleh#k（等级 10 ~ 30）\r\n#bdisguise|change|transform#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 28) {
-					cm.sendNext("These are the commands for #rWhite Duck#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k(level 1 ~ 30) \r\n#bbad|no|badgirl|badboy#k(level 1 ~ 30) \r\n#bup|stand#k(level 1 ~ 30) \r\n#bpoop#k(level 1 ~ 30) \r\n#btalk|chat|say#k(level 1 ~ 30) \r\n#bhug#k(level 1 ~ 30) \r\n#bloveyou#k(level 1 ~ 30) \r\n#bcutie#k(level 1 ~ 30) \r\n#bsleep#k(level 1 ~ 30) \r\n#bsmarty(level 10 ~ 30) \r\n#bdance#k (level 20 ~ 30) \r\n#bswan#k(level 20 ~ 30)");
+					cm.sendNext("以下是#r白色鸭子#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad|no|badgirl|badboy#k（等级 1 ~ 30）\r\n#bup|stand#k（等级 1 ~ 30）\r\n#bpoop#k（等级 1 ~ 30）\r\n#btalk|chat|say#k（等级 1 ~ 30）\r\n#bhug#k（等级 1 ~ 30）\r\n#bloveyou#k（等级 1 ~ 30）\r\n#bcutie#k（等级 1 ~ 30）\r\n#bsleep#k（等级 1 ~ 30）\r\n#bsmarty（等级 10 ~ 30）\r\n#bdance#k（等级 20 ~ 30）\r\n#bswan#k（等级 20 ~ 30）");
 					cm.dispose();
 				} else if (selection == 29){
-					cm.sendNext("These are the commands for #rPink Bean#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k(level 1 ~ 30) \r\n#bbad|no|badgirl|badboy|poop#k(level 1 ~ 30) \r\n#blazy|dummy|ihateyoutalk|chat|say|mumbleiloveyou|hugme|loveyou|#k(level 1 ~ 30) \r\n#bshake|music|charmbleh|joke|boo#k(level 20 ~ 30) \r\n#bgotobed|sleep|sleepypoke|stinky|dummy|ihateyou#k(level 20 ~ 30)\r\n#bkongkong#k(level 30)");
+					cm.sendNext("以下是#r粉红宾#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bbad|no|badgirl|badboy|poop#k（等级 1 ~ 30）\r\n#blazy|dummy|ihateyoutalk|chat|say|mumbleiloveyou|hugme|loveyou|#k（等级 1 ~ 30）\r\n#bshake|music|charmbleh|joke|boo#k（等级 20 ~ 30）\r\n#bgotobed|sleep|sleepypoke|stinky|dummy|ihateyou#k（等级 20 ~ 30）\r\n#bkongkong#k（等级 30）");
 					cm.dispose();
 				} else if (selection == 30){
-					cm.sendNext("These are the commands for #rPorcupine#k. The level mentioned next to the command shows the pet level required for it to respond.\r\n#bsit#k (level 1 ~ 30)\r\n#bno|bad|badgirl|badboy#k (level 1 ~ 30)\r\n#bhugcushion|sleep|knit|poop#k (level 1 ~ 30)\r\n#bcomb|beach#k (level 10 ~ 30)\r\n#btreeninja|dart#k (level 20 ~ 30)");
+					cm.sendNext("以下是#r豪猪#k的指令。指令旁边标注的等级表示宠物响应所需的等级。\r\n#bsit#k（等级 1 ~ 30）\r\n#bno|bad|badgirl|badboy#k（等级 1 ~ 30）\r\n#bhugcushion|sleep|knit|poop#k（等级 1 ~ 30）\r\n#bcomb|beach#k（等级 10 ~ 30）\r\n#btreeninja|dart#k（等级 20 ~ 30）");
 					cm.dispose();
 				}
 			} else if(status == 2){
-				cm.sendNextPrev("But Water of Life only comes out little at the very bottom of the World Tree, so those babies can't be alive forever... I know, it's very unfortunate... but even if it becomes a doll again they can be brought back to life so be good to it while you're with it.");
+				cm.sendNextPrev("但是生命之水只有在世界树的最底部才会少量产出，所以这些小家伙们不可能永远活着……我知道这很不幸……但即使它变回了玩偶，也可以再次被复活，所以在和它在一起的时候好好待它吧。");
 			} else if(status == 3){
-				cm.sendNextPrev("Oh yeah, they'll react when you give them special commands. You can scold them, love them.. it all depends on how you take care of them. They are afraid to leave their masters so be nice to them, show them love. They can get sad and lonely fast..");
+				cm.sendNextPrev("对了，它们会对特殊指令做出反应。你可以训斥它们，也可以宠爱它们……这完全取决于你怎么照顾它们。它们害怕离开主人，所以对它们好一点，多给它们一些爱。它们很容易感到悲伤和孤独……");
 				cm.dispose();
 			} else if(status == 4){
-				cm.sendNextPrev("Talk to the pet, pay attention to it and its closeness level will go up and eventually his overall level will go up too. As the closeness rises, the pet's overall level will rise soon after. As the overall level rises, one day the pet may even talk like a person a little bit, so try hard raising it. Of course it won't be easy doing so...");
+				cm.sendNextPrev("多和宠物说话，多关注它，亲密度就会上升，最终它的整体等级也会提升。随着亲密度的提高，宠物的整体等级很快就会跟上。当整体等级提高后，有一天宠物甚至可能像人一样说话，所以努力饲养它吧。当然这并不容易……");
 			} else if(status == 5){
-				cm.sendNextPrev("It may be a live doll but they also have life so they can feel the hunger too. #bFullness#k shows the level of hunger the pet's in. 100 is the max, and the lower it gets, it means that the pet is getting hungrier. After a while, it won't even follow your command and be on the offensive, so watch out over that.");
+				cm.sendNextPrev("虽然它是活着的玩偶，但它们也有生命，所以也会感到饥饿。#b饱食度#k表示宠物的饥饿程度。100是最高值，数值越低，说明宠物越饿。过一段时间后，它甚至不会听从你的指令，还会变得暴躁，所以要注意。");
 			} else if(status == 6){
-				cm.sendNextPrev("That's right! Pets can't eat the normal human food. Instead a teddy bear in Ludibrium called #bPatricia#k sells #bPet Food#k so if you need food for your pet, find #bPatricia#k It'll be a good idea to buy the food in advance and feed the pet before it gets really hungry.");
+				cm.sendNextPrev("没错！宠物不能吃人类的食物。玩具城有一只名叫#b帕特丽夏#k的泰迪熊出售#b宠物食品#k，如果你需要宠物食物，去找#b帕特丽夏#k吧。建议提前买好食物，在宠物非常饿之前就喂它。");
 			} else if(status == 7){
-				cm.sendNextPrev("Oh, and if you don't feed the pet for a long period of time, it goes back home by itself. You can take it out of its home and feed it but it's not really good for the pet's health, so try feeding him on a regular basis so it doesn't go down to that level, alright? I think this will do.");
+				cm.sendNextPrev("哦，还有，如果你长时间不喂宠物，它会自己回家。你可以把它从家里拿出来再喂它，但这样对宠物的健康不太好，所以尽量定期喂它，不要让它饿到那种程度，好吗？我想说的就是这些了。");
 				cm.dispose();
 			} else if(status == 8){
-				cm.sendNextPrev("After some time... that's correct, they stop moving. They just turn back to being a doll, after the effect of magic dies down and Water of Life dries out. But that doesn't mean it's stopped forever, because once you pour Water of Life over, it's going to be back alive.");
+				cm.sendNextPrev("一段时间后……没错，它们会停止活动。当魔法的效力消退、生命之水干涸后，它们就会变回玩偶。但这并不意味着永远停止，因为只要再倒上生命之水，它就会重新活过来。");
 			} else if(status == 9){
-				cm.sendNextPrev("Even if it someday moves again, it's sad to see them stop altogether. Please be nice to them while they are alive and moving. Feed them well, too. Isn't it nice to know that there's something alive that follows and listens to only you?");
+				cm.sendNextPrev("即使有一天它又能动了，看到它们完全停下来还是很令人伤心的。请在它们活着、能动的时候好好对待它们。也要好好喂它们。知道有一个只跟随你、只听你话的小生命在你身边，不是一件很美好的事吗？");
 				cm.dispose();
 			}
 	}

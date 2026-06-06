@@ -1,7 +1,0 @@
-<imgdir name="12001003">
-        <string name="name" value="魔法爪" />
-        <string name="desc" value="消耗MP连续攻击前方的敌人！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="消耗MP连续攻击前方的敌人！" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

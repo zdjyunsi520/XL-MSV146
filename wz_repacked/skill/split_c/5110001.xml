@@ -1,7 +1,0 @@
-<imgdir name="5110001">
-        <string name="name" value="能量充能" />
-        <string name="desc" value "每次攻击后充能能量。能量充满时，命中率、攻击力、防御力和移动速度提升。还有几率激活站立效果，可以使用能量类技能。攻击BOSS时能量充能速度翻倍。" />
-        <string name="h" value="Energy charged at attack: #x, Duration: #time sec, Accuracy: +#acc, Weapon ATT: +#pad, Weapon/Magic DEF: +#pdd, Movement Speed: +#speed, Knock-back Resistance Rate: #prop%, Double energy charged when attacking bosses" />
-        <string name="pdesc" value="每次攻击后充能能量。能量充满时，命中率、攻击力、防御力和移动速度提升。还有几率激活站立效果，可以使用能量类技能。" />
-        <string name="ph" value="Energy charged at attack: #x, Duration: #time sec, Accuracy: +#acc, Weapon ATT: +#pad, Weapon/Magic DEF: +#pdd, Movement Speed: +#speed, Knock-back Resistance Rate: #prop%, Double energy charged when attacking bosses" />
-    </imgdir>

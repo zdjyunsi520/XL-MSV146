@@ -1,7 +1,0 @@
-<imgdir name="5011000">
-        <string name="name" value="加农炮轰击" />
-        <string name="desc" value="发射火焰炸弹攻击多个敌人！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="发射火焰炸弹攻击多个敌人！" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

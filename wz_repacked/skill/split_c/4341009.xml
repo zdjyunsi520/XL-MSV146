@@ -1,7 +1,0 @@
-<imgdir name="4341009">
-        <string name="name" value="幻影之击" />
-        <string name="desc" value="对一个敌人进行连续穿刺攻击！无视部分敌人防御。" />
-        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%, Enemy DEF Ignored: #ignoreMobpdpR%" />
-        <string name="pdesc" value="对前方一个敌人持续造成暴击伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
-    </imgdir>

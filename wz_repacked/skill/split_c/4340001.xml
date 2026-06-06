@@ -1,7 +1,0 @@
-<imgdir name="4340001">
-        <string name="name" value="毒液" />
-        <string name="desc" value="匕首上永久涂有毒液。敌人有几率被毒液感染并持续受到伤害。最多可叠加3次。敌人的HP不会通过毒液降到1以下。\n#c11级以上需要技能手册##" />
-        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-        <string name="pdesc" value="匕首上永久涂有毒液。敌人有几率被毒液感染并持续受到伤害。最多可叠加3次。敌人的HP不会通过毒液降到1以下。\n#c11级以上需要技能手册##" />
-        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-    </imgdir>

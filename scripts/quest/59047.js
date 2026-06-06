@@ -23,18 +23,18 @@ if (mode == -1) {
         status++;
     } else 
         if (status == 3) {
-		    qm.sendOk("I'm scared to go alone. Won't you come with me? Tom would...");
+		    qm.sendOk("我一个人去害怕。你愿意陪我吗？汤姆会……");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNextS("Oh, about time! You must be here to save me!",0,9390316);
+	    qm.sendNextS("哦，终于来了！你一定是来救我的！",0,9390316);
 	} else if (status == 1) {
-	    qm.sendNextPrevS("Bluffing Tom said his mom should be around here. That you?",14);
+	    qm.sendNextPrevS("吹牛汤姆说他妈妈应该就在这附近。是你吗？",14);
 	} else if (status == 2) {
-	    qm.sendNextPrevS("What? My precious Tommy-boy is the one who rescued me? Oh, dear, sweet, precious, perfect boy!",0,9390316);
+	    qm.sendNextPrevS("什么？我珍贵的汤米宝贝是救了我的人？哦，亲爱的、甜甜的、珍贵的、完美的孩子！",0,9390316);
 	} else if (status == 3) {
-		qm.sendYesNoS("Come on. Let's get out of here. (You will be moved to a different map if you accept.)",0,9390313);
+		qm.sendYesNoS("走吧。我们离开这里。（如果你接受，将被传送到另一个地图。）",0,9390313);
 	} else if (status == 4) {
 	    qm.forceCompleteQuest();
 		qm.gainExp(764);

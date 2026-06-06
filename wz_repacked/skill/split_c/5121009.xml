@@ -1,5 +1,0 @@
-<imgdir name="5121009">
-        <string name="name" value="极速" />
-        <string name="desc" value "消耗HP和MP将队伍的攻击速度翻倍。可以与其他加速器叠加。\n需要技能：#c拳甲加速器 Lv. 10#" />
-        <string name="h" value="Cost: -#hpCon HP and #mpCon MP, Duration: #time sec" />
-    </imgdir>

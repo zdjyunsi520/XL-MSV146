@@ -1,7 +1,0 @@
-<imgdir name="2101001">
-        <string name="name" value="Meditation" />
-        <string name="desc" value="Temporarily enhances the Magic Attack of all party members nearby through meditation.\nRequired Skill: #cMP Eater Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Party Member Magic ATT: +#indieMad, Duration: #time sec" />
-        <string name="pdesc" value="Temporarily enhances the Battle Mode ATT of all nearby team members through meditation.\nRequired Skill: #cMP Eater Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Team Member Battle Mode ATT: +#PVPdamage, Duration: #time sec" />
-    </imgdir>

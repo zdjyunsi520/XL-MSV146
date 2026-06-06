@@ -1,8 +1,0 @@
-<imgdir name="33101011">
-        <string name="name" value="银鹰" />
-        <string name="desc" value="召唤银鹰在你身边盘旋，攻击附近怪物并可能使其眩晕。" />
-        <string name="h" value="MP消耗：#mpCon，召唤伤害：#damage%，召唤持续时间：#time秒，眩晕概率：#prop%" />
-        <string name="pdesc" value="召唤银鹰在你身边盘旋，攻击附近怪物并可能使其眩晕。" />
-        <string name="ph" value="MP消耗：#mpCon，召唤伤害：#damage%，召唤持续时间：#time秒，眩晕概率：#prop%" />
-        <string name="hch" value="MP消耗：#mpCon，召唤伤害：#damage%，召唤持续时间：#time秒，眩晕概率：#hcProp%" />
-    </imgdir>

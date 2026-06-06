@@ -1,5 +1,0 @@
-<imgdir name="4301003">
-        <string name="name" value="自我加速" />
-        <string name="desc" value="暂时提升移动速度和跳跃力。永久提升最大移动速度~" />
-        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒, 速度: +#speed, 跳跃力: +#jump\n[被动效果 - 最大移动速度: +#speedMax]" />
-    </imgdir>

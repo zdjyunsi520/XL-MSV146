@@ -1,8 +1,0 @@
-<imgdir name="1311006">
-        <string name="name" value="Dragon Roar" />
-        <string name="desc" value="Attacks multiple enemies with a chance to stun.\nRequired Skill: #cSacrifice Lv.3#" />
-        <string name="h" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Attacks multiple enemies and with a chance to stun.\\nRequired Skill: #cSacrifice Lv.3#" />
-        <string name="ph" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-        <string name="hch" value="Cost: #mpCon MP and #x% HP, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Must have at least #y% HP to use, Cooldown: #cooltime sec" />
-    </imgdir>

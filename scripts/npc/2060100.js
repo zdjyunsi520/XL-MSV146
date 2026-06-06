@@ -10,10 +10,10 @@ function start() {
 		cm.warpParty(923000000);
 	    }
 	} else {
-	    cm.sendOk("In order to open the crack of dimension you will have to posess one piece of Miniature Pianus. Those could be gained by defeating a Pianus.");
+	    cm.sendOk("要打开次元裂缝，你必须拥有一块迷你比安奴斯碎片。这些碎片可以通过击败比安奴斯获得。");
 	}
     } else {
-	cm.sendOk("I'm #bCarta the sea-witch.#k Don't fool around with me, as I'm known for my habit of turning people into worms.");
+	cm.sendOk("我是#b海之魔女卡塔#k。别在我面前耍花样，我可出了名地喜欢把人变成虫子。");
     }
     cm.dispose();
 }

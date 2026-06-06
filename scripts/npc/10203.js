@@ -15,16 +15,16 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    cm.sendNext("If you wish to experience what it's like to be a Thief, come see me again.");
+	    cm.sendNext("如果你想体验飞侠的感觉，再来找我吧。");
 	    cm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("Thieves are a perfect blend of luck, dexterity, and power that are adept at surprise attacks against helpless enemies. A high level of avoidability and speed allows the thieves to attack enemies with various angles.");
+	cm.sendNext("飞侠是运气、灵巧和力量的完美结合，擅长对毫无防备的敌人发动突袭。高回避和速度让飞侠可以从各种角度攻击敌人。");
     } else if (status == 1) {
-	cm.sendYesNo("Would you like to experience what it's like to be a Thief?");
+	cm.sendYesNo("你想体验一下飞侠的感觉吗？");
     } else if (status == 2) {
 	cm.MovieClipIntroUI(true);
 	cm.warp(1020400, 0); // Effect/Direction3.img/rouge/Scene00

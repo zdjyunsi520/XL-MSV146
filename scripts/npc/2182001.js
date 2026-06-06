@@ -10,7 +10,7 @@ function action(mode, type, selection) {
         status--;
     }
     if (status == 0) {
-        //cm.sendYesNo("Would you like to go to Hilla's Tower Entrance?");
+        //cm.sendYesNo("你想前往希拉之塔入口吗？");
         //} else if (status == 1) {
         //cm.warp(262030000);
         cm.dispose();

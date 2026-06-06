@@ -1,8 +1,0 @@
-<imgdir name="32121003">
-        <string name="name" value="Twister Spin" />
-        <string name="desc" value="Spin around in a twister of violence, attacking nearby enemies. Higher skill levels will shorten the cooldown time." />
-        <string name="h" value="MP Cost: #mpCon, Max Monsters Hit: #mobCount, Damage: #damage%, Cooldown: #cooltime sec." />
-        <string name="pdesc" value="Spin around in a twister of violence, attacking nearby enemies. Higher skill levels will shorten the cooldown time." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon. When holding the skill key, Max Enemies Hit: #mobCount, Chance: #hcProp%, Damage: #damage%, Cooldown: #cooltime sec." />
-    </imgdir>

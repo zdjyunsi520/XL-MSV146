@@ -40,7 +40,7 @@ function action(mode, type, selection) {
             status--;
         if (status == 0) {
 		
-		cm.sendOk("You can ride a boat from right side.");
+		cm.sendOk("你可以从右侧乘船。");
 		cm.dispose();
 
 	}

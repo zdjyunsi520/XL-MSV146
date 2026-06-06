@@ -3,8 +3,8 @@
 */
 
 function act() {
-    rm.playerMessage(6, "Vellum has spawned! Be ready to fight!");
-	rm.getMap().startMapEffect("You ignore my warnings? I will show you no mercy!", 5120103);
+    rm.playerMessage(6, "贝伦已出现！准备战斗！");
+	rm.getMap().startMapEffect("你无视我的警告？我不会手下留情！", 5120103);
 	
     rm.spawnMonster(8930100);
 }

@@ -1,8 +1,0 @@
-<imgdir name="24101002">
-        <string name="name" value="Mille Cartes" />
-        <string name="desc" value="Launches a torrent of cards that knocks back enemies." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Knocks back enemies" />
-        <string name="pdesc" value="Launches a torrent of cards that knocks back enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Knocks back enemies" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Knock-back Chance: #hcProp%" />
-    </imgdir>

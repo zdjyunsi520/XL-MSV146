@@ -1,8 +1,0 @@
-<imgdir name="2321004">
-        <string name="name" value="无限魔力" />
-        <string name="desc" value="让你无需消耗MP就能使用技能，被攻击时有几率触发站立效果。持续恢复HP和MP，并提升所有攻击魔法的伤害。敌人的攻击不会取消此效果。[冷却时间：3分钟]" />
-        <string name="h" value="MP Cost: #mpCon, Recovers HP and MP by #y% every 4 secs, Increases damage by Magic ATT by #damage% every 4 sec, Chance of Activation Power Stance Effect: #prop%, Duration: #time sec" />
-        <string name="pdesc" value="让你无需消耗MP就能使用技能，被攻击时有几率触发站立效果。持续恢复HP和MP，并提升所有攻击魔法的伤害。[冷却时间：3分钟]" />
-        <string name="ph" value="MP Cost: #mpCon, Recovers HP and MP by #y% every 4 secs, Increases damage by Magic ATT by #damage% every 4 sec, Chance of Activating Stance Effect: #prop%, Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Recovers #hcHp% of HP and #y% of MP every 4 secs, Magic Damage: +#damage% every 4 sec, Chance of Activating Power Stance Effect: #prop%, Duration: #time sec" />
-    </imgdir>

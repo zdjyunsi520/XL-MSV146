@@ -11,25 +11,25 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("So, you came.");
+	  qm.sendNext("你来了。");
 	} else if (status == 1) {
-      qm.sendNextPrevS("...Hilla?",16);
+      qm.sendNextPrevS("...希拉？",16);
     } else if (status == 2) {	 
-	  qm.sendNextPrev("I told you to go away, but you wouldn't listen.");
+	  qm.sendNextPrev("我叫你走，你不听。");
     } else if (status == 3) {		
-	  qm.sendNextPrevS("YOU're the one behind all the nonsense!",16);
+	  qm.sendNextPrevS("你就是这一切胡作非为的幕后黑手！",16);
 	} else if (status == 4) {	
-	  qm.sendNextPrev("What of it?");
+	  qm.sendNextPrev("那又怎样？");
 	} else if (status == 5) {	
-	  qm.sendNextPrevS("What are you scheming?!",16);
+	  qm.sendNextPrevS("你在策划什么？！",16);
 	} else if (status == 6) {	
-	  qm.sendNextPrev("Scheming? I'm not scheming. I'm working on getting what I want.");
+	  qm.sendNextPrev("策划？我没有在策划什么。我在争取我想要的东西。");
 	} else if (status == 7) {
-	  qm.sendNextPrevS("I'll stop whatever horrible ritual you've got cooked up!",16);
+	  qm.sendNextPrevS("我会阻止你正在进行的任何可怕仪式！",16);
 	} else if (status == 8) {
-	  qm.sendYesNo("You really don't have to beg me to destroy you. I'll happily oblige.");
+	  qm.sendYesNo("你真的不必求我毁灭你。我会很乐意奉陪。");
 	} else if (status == 9) {
-	  qm.sendNext("Are you ready to join my undead army? It'll only take a minute.");
+	  qm.sendNext("你准备好加入我的亡灵大军了吗？只需要一分钟。");
 	} else if (status == 10) {
 	  qm.warp(863100105);
       qm.forceStartQuest();

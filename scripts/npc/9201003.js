@@ -46,13 +46,13 @@ function action(mode, type, selection) {
         if (cm.getPlayer().getMarriageQuestLevel() == 51) {
             if (status == 0) {
                 if (cm.getPlayer().getGender() == 0) {
-                    cm.sendYesNo("Hello my child. Are you sure that you want to get married to this girl? I believe in love at first sight, but this is rather sudden... I don't think we are ready for this. Lets think about it. Do you really love this girl?");
+                    cm.sendYesNo("你好，我的孩子。你确定要和这位男士结婚吗？我相信一见钟情，但这未免太突然了...我觉得我们还没准备好。让我们再想想吧。你真的爱这个男士吗？");
                 } else {
-                    cm.sendYesNo("Hello my child. Are you sure that you want to get married to this man? I believe in love at first sight, but this is rather sudden... I don't think we are ready for this. Lets think about it. Do you really love this man?");
+                    cm.sendYesNo("好的，那么。回到城里再去收集两枚#b爱情证明#k来证明你的心意吧。");
                 }
             } else if (status == 1) {
                 cm.getPlayer().addMarriageQuestLevel();
-                cm.sendNext("Okay then. Go back to town and collect two more #bProof of Loves#k to prove it.");
+                cm.sendNext("哇，你是认真的！好的，这是我们的祝福。");
                 cm.dispose();
             }
         } else if (cm.getPlayer().getMarriageQuestLevel() == 52) {
@@ -64,9 +64,9 @@ function action(mode, type, selection) {
                 numberOfLoves += cm.getPlayer().countItem(4031371);
                 numberOfLoves += cm.getPlayer().countItem(4031372);
                 if (numberOfLoves >= 2) {
-                    cm.sendNext("Wow, you really are serious! Okay then, here is our blessing.");
+                    cm.sendNext("拿到两枚#b爱情证明#k后再来吧。");
                 } else {
-                    cm.sendNext("Come back when you get two #bProof of Loves#k.");
+                    cm.sendNext("你好，我们是爸爸妈妈...");
                     cm.dispose();
                 }
             } else if (status == 1) {
@@ -81,7 +81,7 @@ function action(mode, type, selection) {
                 cm.dispose();
             }
         } else {
-            cm.sendOk("Hello we're Mom and Dad...");
+            cm.sendOk("你好，我们是爸爸妈妈...");
             cm.dispose();
         }
     }

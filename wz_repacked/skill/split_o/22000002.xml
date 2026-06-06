@@ -1,5 +1,0 @@
-<imgdir name="22000002">
-        <string name="name" value="Elemental Weakness" />
-        <string name="pdesc" value="Chance to weaken enemies against magic." />
-        <string name="ph" value="Duration: #time sec, Success Rate: #prop%, Additional Magic Damage: +#x%" />
-    </imgdir>

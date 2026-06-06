@@ -1,5 +1,0 @@
-<imgdir name="5121052">
-        <string name="name" value="力量合一" />
-        <string name="desc" value="将充满的能量集中于一点，制造压缩能量球。只能在#c充满后#能量消耗期间使用。使用后获得此技能专属的特殊增益~" />
-        <string name="h" value="能量消耗: #forceCon, 最大敌人数: #mobCount，伤害: #damage%，攻击次数: #attackCount。只能在#c充满后#能量消耗期间使用。持续#time秒，激活提升最低暴击伤害和最大伤害#x的专属增益。最多叠加3次。\n冷却时间: #cooltime秒" />
-    </imgdir>

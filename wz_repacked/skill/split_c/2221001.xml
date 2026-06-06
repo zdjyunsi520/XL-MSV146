@@ -1,8 +1,0 @@
-<imgdir name="2221001">
-        <string name="name" value="大爆炸" />
-        <string name="desc" value="聚集能量形成能量旋涡，最终爆发出强力的#c冰冻#爆炸冻结目标！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Freeze Duration: #time sec" />
-        <string name="pdesc" value="聚集能量形成能量旋涡，最终爆发出强力的#c冰冻#爆炸冻结目标！" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Freeze Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Freeze Chance: #hcProp%, Freeze Duration: #hcTime sec" />
-    </imgdir>

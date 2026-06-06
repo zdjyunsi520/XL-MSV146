@@ -1,7 +1,0 @@
-<imgdir name="1220013">
-        <string name="name" value="Divine Shield" />
-        <string name="desc" value="Generates a protective shield when hit that #cabsorbs up to 10 blows and increases Weapon Attack#. The shield lasts for 90 seconds and must cool down before reactivation. Cannot be broken by enemy attacks." />
-        <string name="h" value="Shield Proc Chance (when hit): #prop%, Weapon ATT: +#epad, Duration: #time sec, Enemy Blows Absorbed: #x, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Chance to create a protective barrier when hit." />
-        <string name="ph" value="Barrier Chance: #prop% when hit, Barrier Duration: #time sec, Attacks Absorbed: #x, Cooldown: #cooltime sec" />
-    </imgdir>

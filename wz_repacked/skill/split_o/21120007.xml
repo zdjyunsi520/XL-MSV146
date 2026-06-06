@@ -1,6 +1,0 @@
-<imgdir name="21120007">
-        <string name="name" value="Combo Barrier" />
-        <string name="desc" value="Casts a party buff that temporarily decreases damage taken and increases defense. Can only be used when #cCombo Count is 150 or more#.\n[Command: #cUp Arrow KeyRight Arrow Key + Attack Key#]\nRequired Skill: #cCombo Drain Lv. 10#" />
-        <string name="h" value="Damage Absorbed: #t%, Weapon DEF: +#pdd, Magic DEF: +#mdd, Duration: #time sec" />
-        <string name="pdesc" value="Casts a team buff that temporarily decreases damage taken. Can only be used when #cCombo Count is 60 or more#.\n[Command: #cUp Arrow KeyRight Arrow Key + Attack Key#]\nRequired Skill: #cCombo Drain Lv. 10#" />
-    </imgdir>

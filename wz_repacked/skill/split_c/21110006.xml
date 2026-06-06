@@ -1,8 +1,0 @@
-<imgdir name="21110006">
-        <string name="name" value="旋转冲击" />
-        <string name="desc" value="原地跳跃攻击周围敌人。有概率眩晕目标。\n[指令：#c上方向键+上方向键+攻击键#]" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage% x#attackCount，最大攻击目标数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time 秒" />
-        <string name="pdesc" value="原地跳跃攻击周围敌人。有概率眩晕目标。\n[指令：#c上方向键+上方向键+攻击键#]" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage% x#attackCount，最大攻击目标数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time 秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime 秒" />
-    </imgdir>

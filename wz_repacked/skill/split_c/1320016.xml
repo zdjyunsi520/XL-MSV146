@@ -1,5 +1,0 @@
-<imgdir name="1320016">
-        <string name="name" value="最终契约" />
-        <string name="desc" value="#c当HP降为0时#，黑暗契约让你短暂存活并#c在无敌期间可以使用冈格尼尔之矛而无需冷却#。但你必须在时间耗尽前消灭指定数量的怪物，否则将被拖入暗影深渊。重新激活冷却期间会显示沙漏~\n[被动效果: HP高于限制时，伤害、移动速度、暴击率和最低暴击伤害提升]" />
-        <string name="h" value="#c当HP降为0时#，完全恢复HP和MP，无敌持续时间: #time秒，无视敌人攻击反射，#c无视冈格尼尔之矛冷却时间#。在无敌期间击杀#z个敌人后，在持续时间结束后复活。冷却时间: #cooltime秒\n[被动效果: HP在#x%以上时，伤害: +#damage%，移动速度: +#psdSpeed，暴击率: +#cr%，最低暴击伤害: +#criticaldamageMin%]" />
-    </imgdir>

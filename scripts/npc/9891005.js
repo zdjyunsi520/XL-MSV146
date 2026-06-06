@@ -5,7 +5,7 @@ var item_gain = 4000115; // item they gain if they click yes
 var item_amount = 1; // amount of this ^^^
 
 function start() {
-   cm.sendYesNo("Oh? Ho ho What do we have here? Do you perhaps have #bWiz Coins#k? How about we do a little trade? One #bWiz Coin#k for my #dCog#k. What do you say?");
+   cm.sendYesNo("嚯嚯嚯！明智的选择！享受你的新#d齿轮#k吧！下次再来哦，嘿嘿嘿...");
 }
 
 function action(mode, type, selection) {
@@ -13,14 +13,14 @@ function action(mode, type, selection) {
 			if (cm.haveItem(item, amount)) {
 				cm.removeAll(item);
 				cm.gainItem(item_gain, item_amount); 
-				cm.sendOk("Ho ho ho! A wise choice indeed! Enjoy your new #dCog#k! Come again soon heh heh heh...");
+				cm.sendOk("嗯？我没看到你身上有#b巫师硬币#k。\r\n\r\n没有东西交易就别来烦我。");
 				cm.dispose();
 			} else {
-				cm.sendOk("Huh? I don't see any #bWiz Coins#k on you.\r\n\r\nDon't bother me if you have nothing to trade.");
+				cm.sendOk("嗯？你可是错过了一笔好买卖哦！你或许应该重新考虑一下...");
 				cm.dispose();
 			}
 	   } else {
-	     cm.sendOk("Huh? You're missing out on a great deal here! You might wanna reconsider...");
+	     cm.sendOk("嗯？你可是错过了一笔好买卖哦！你或许应该重新考虑一下...");
 		 cm.dispose();
 	   }
 }

@@ -1,7 +1,0 @@
-<imgdir name="21100007">
-        <string name="name" value="Combo Fenrir" />
-        <string name="desc" value="Fires the condensed energy of the wolves to attack enemies in front of you twice. Can only be used when #cCombo Count is 40 or higher#.\n[Command: #cDown and Right Arrow Key + Attack Key#]\nRequired Skill: #cCombo Smash Lv. 10#" />
-        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: 2" />
-        <string name="pdesc" value="Fires the condensed energy of the wolves to attack enemies in front of you twice. Can only be used when #cCombo Count is 20 or higher#.\n[Command: #cDown and Right Arrow Key + Attack Key#]\nRequired Skill: #cCombo Smash Lv. 10#" />
-        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: 2" />
-    </imgdir>

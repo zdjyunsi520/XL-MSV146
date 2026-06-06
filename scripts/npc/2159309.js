@@ -14,23 +14,23 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendNextNoESC("Oh, look, it's #h0#? How was your trip? Was it worth disobeying orders? And how was your family? Heh heh...", 2159308);
+		cm.sendNextNoESC("哦，看，是#h0#？你的旅行怎么样？不服从命令值得吗？你的家人怎么样了？嘿嘿...", 2159308);
     } else if (status == 1) {
-		cm.sendPlayerToNpc("I don't have time for you. Move aside.");
+		cm.sendPlayerToNpc("我没时间理你。让开。");
     } else if (status == 2) {
 		cm.sendDirectionInfo("Effect/Direction6.img/effect/tuto/balloonMsg1/14");
 		cm.sendDirectionStatus(0, 325);
 		cm.showMapEffect("demonSlayer/31111003");
 		cm.sendDirectionInfo("Skill/3111.img/skill/31111003/effect");
 		cm.sendDirectionStatus(1, 1000);
-		cm.sendNextNoESC("Really? This is treason, you know! Are you really so weak that losing your family makes you do this? Pathetic!", 2159308);
+		cm.sendNextNoESC("真的吗？你知道这是叛国罪！你真的如此软弱，失去家人就让你做出这种事？可悲！", 2159308);
 	} else if (status == 3) {
 		cm.sendDirectionInfo("Effect/Direction6.img/effect/tuto/balloonMsg1/15");
 		cm.sendDirectionStatus(0, 365);
 		cm.showMapEffect("demonSlayer/31121001");
 		cm.sendDirectionInfo("Skill/3112.img/skill/31121001/effect");
 		cm.sendDirectionStatus(1, 1000);
-		cm.sendNextNoESC("You disappoint me. You don't understand the Black Mage! Eliminate the traitor!", 2159308);
+		cm.sendNextNoESC("你让我失望。你不了解黑魔法师！消灭叛徒！", 2159308);
 	} else if (status == 4) {
 		cm.sendDirectionStatus(4, 0);
 		cm.EnableUI(0);

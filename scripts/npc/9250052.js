@@ -1,4 +1,4 @@
 function start() {
-cm.sendOk("#r~RoyalMS News 1/20/12~#k Welcome to RoyalMS. We are currently a v117.1 low rate server, who wishes to please its players. This is a fun and friendly server. Here at RoyalMS we live to make your gaming expierience more enjoyable. We are open to any suggestions you may have for the server. Post any suggestions you may have under the suggestions section on the forums. Information:Our website is RoyalMS.co. We are a new server. We are getting a website make-over soon. Please support us by voting and donating to the server! Remember to have fun!!!!!");
+cm.sendOk("#r~RoyalMS新闻 1/20/12~#k 欢迎来到RoyalMS。我们目前是一个v117.1低倍率服务器，致力于让玩家满意。这是一个有趣而友好的服务器。在RoyalMS，我们的宗旨是让你的游戏体验更加愉快。我们欢迎你对服务器提出任何建议。请在论坛的建议区发表你的建议。信息：我们的网站是RoyalMS.co。我们是一个新服务器。我们的网站即将改版。请通过投票和捐赠来支持我们的服务器！记住要玩得开心！！！！！");
 cm.dispose();  
 }

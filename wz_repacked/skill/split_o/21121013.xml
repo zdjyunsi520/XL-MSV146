@@ -1,7 +1,0 @@
-<imgdir name="21121013">
-        <string name="name" value="Final Blow" />
-        <string name="desc" value="Swing your polearm around to deal massive damage to your enemies. Ignores some DEF.Combo Count not used when this is done through the Dragon Link, but damage is penalized.\r\n[Command: #cDown Arrow Key + Attack#]" />
-        <string name="h" value="Combo Count Cost: #comboConAran, MP Cost: #mpCon, Damage: #damage%, Enemies Hit: #mobCount, Number of Attacks: #attackCount, DEF Ignored: #ignoreMobpdpR%" />
-        <string name="pdesc" value="Swings the polearm to deal a powerful attack on multiple enemies. Final Blows always land critical and only can be used #cafter using Triple Swing#.\n[Command: Triple Swing + #cDown Arrow Key + Attack Key#]\nRequired Skill: #Triple Swing Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage% Max Enemies Hit: #mobCount, Critical Rate: +#cr%" />
-    </imgdir>

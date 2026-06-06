@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to protect Deli?");
+	cm.sendYesNo("你想保护黛丽吗？");
     } else if (status == 1) {
 	cm.warp(925010000,0);
 	cm.dispose();

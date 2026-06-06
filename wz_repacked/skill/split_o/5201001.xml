@@ -1,7 +1,0 @@
-<imgdir name="5201001">
-        <string name="name" value="Rapid Blast" />
-        <string name="desc" value="Shoot enemies with super speed." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Triple blast enemies with super speed." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

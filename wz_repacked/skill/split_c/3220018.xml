@@ -1,6 +1,0 @@
-<imgdir name="3220018">
-        <string name="name" value="生命猎人" />
-        <string name="desc" value="距离敌人越远，其防御力越低~" />
-        <string name="h" value="最低距离无视#x%防御。每#range距离增加#ignoreMobpdpR%。最多无视#y%" />
-        <string name="pdesc" value="距离敌人越远，其防御力越低~" />
-    </imgdir>

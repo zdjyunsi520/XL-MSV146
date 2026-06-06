@@ -1,5 +1,0 @@
-<imgdir name="101000104">
-        <string name="name" value="Advanced Earth Stomp" />
-        <string name="desc" value="Enemies hit with the Advanced Earth Stomp have the chance of becoming stunned." />
-        <string name="h" value="Chance: #prop%, Stun time: #time sec." />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="21100001">
-        <string name="name" value="三重挥击" />
-        <string name="desc" value="连按攻击键三次，对最多8个敌人进行三重攻击。\n前置技能：#c双重挥击 Lv. 20#" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%" />
-        <string name="pdesc" value="连按攻击键三次，对最多6个敌人进行三重攻击。\n前置技能：#c双重挥击 Lv. 20#" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：2" />
-    </imgdir>

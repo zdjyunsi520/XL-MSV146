@@ -1,6 +1,0 @@
-<imgdir name="2210000">
-        <string name="name" value="风暴魔法" />
-        <string name="desc" value="有几率一击杀死低HP的怪物。攻击受到持续伤害、眩晕、冻结或致盲效果的敌人时伤害增加~" />
-        <string name="h" value="对HP低于#x%的怪物以#y%几率一击必杀。攻击受到持续伤害、眩晕、冻结、致盲或麻痹效果的怪物时伤害增加#z%。" />
-        <string name="hch" value="对有以下效果的敌人造成#z%额外伤害: 持续伤害、冻结、眩晕、致盲或麻痹。" />
-    </imgdir>

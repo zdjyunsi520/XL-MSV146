@@ -1,7 +1,0 @@
-<imgdir name="31121005">
-        <string name="name" value="黑暗变形" />
-        <string name="desc" value="释放两个幽灵幻影加入你并攻击视线内的一切。灵力通道还会在一定时间内提升你的伤害和HP。" />
-        <string name="h" value="消耗HP：#hpCon，恶魔之力消耗：#forceCon，#time秒内伤害：#damR%，最大HP提升：#indieMhpR%，自动攻击附近敌人造成#damage%伤害。\n冷却时间：#cooltime秒。" />
-        <string name="pdesc" value="释放两个幽灵幻影加入你并攻击视线内的一切。灵力通道还会在一定时间内提升你的伤害和HP。" />
-        <string name="ph" value="消耗HP：#hpCon，恶魔之力消耗：#forceCon，#time秒内伤害：#damR%，最大HP提升：#indieMhpR%，自动攻击附近敌人造成#damage%伤害。\n冷却时间：#cooltime秒。" />
-    </imgdir>

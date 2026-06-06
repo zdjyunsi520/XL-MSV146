@@ -12,7 +12,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 0 && mode == 0) {
-	cm.sendOk("The power of Science is needed...");
+	cm.sendOk("你想使用我的时光机吗？");
 	cm.dispose();
 	return;
     }
@@ -21,9 +21,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendYesNo("Would you like to use my time Machine?");
+	cm.sendYesNo("太好了！去和它谈谈，它就能把你带到过去，哈！你甚至不需要和我说话！");
     } else if (status == 1) {
-	cm.sendNext("Splendid! Just go talk to it and it can bring you to the past ha! You didn't even need to talk to me!");
+	cm.sendNext("太好了！去和它谈谈，它就能把你带到过去，哈！你甚至不需要和我说话！");
     } else if (status == 2) {
 	//cm.getNpc(9250144);
 	cm.dispose();

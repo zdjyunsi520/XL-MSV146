@@ -1,7 +1,0 @@
-<imgdir name="11111008">
-        <string name="name" value="魔法碰撞" />
-        <string name="desc" value="有几率取消敌人所有增益效果并阻止其使用新增益！[冷却时间：1分钟]\n需要技能：#c光辉充能 Lv. 3#" />
-        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec" />
-        <string name="pdesc" value="有几率取消敌人所有增益效果并阻止其使用新增益。\n需要技能：#c光辉充能 Lv. 3#" />
-        <string name="ph" value="MP Cost: #mpCon, Success Rate: #prop%, Buff Block Duration: #time sec\nCooldown: #cooltime sec" />
-    </imgdir>

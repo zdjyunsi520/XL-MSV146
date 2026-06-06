@@ -12,13 +12,13 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("How interesting. New recruit, you didn't even bat an eyelash at Shibo's insults... It was all a setup, you see. We wanted to see how you would react. You did quite well.");
+		qm.sendNext("真有趣。新成员，你对希波的侮辱毫不动容……这其实是一个圈套，你知道。我们想看看你的反应。你做得相当好。");
 	} else if (status == 1) {
-      qm.sendNextPrev("You have a knack for our Dual Blade ways. #bI recommend you for the special mission!");
+      qm.sendNextPrev("你有双刀的天赋。#b我推荐你执行特别任务！");
     } else if (status == 2) {	   
-        qm.sendNextPrev("I can't tell you what kind of mission it is. That's up to #bLady Syl#k, IF she agrees that you're worthy. If not, you'll train the same way as everyone else. So, try not to tick Lady Syl off.");	
+        qm.sendNextPrev("我不能告诉你那是什么样的任务。这由#b希拉女大人#k决定，前提是她认为你有资格。如果没有，你将和所有人一样接受相同的训练。所以，尽量不要惹恼希拉女大人。");	
 	} else if (status == 3) {	
-	    qm.sendYesNo("When you accept, I'll send you to Lady Syl.");	
+	    qm.sendYesNo("当你接受时，我会把你送到希拉女大人那里。");	
 	} else if (status == 4) {		
 		qm.warp(103050101);
 		qm.removeNpc(103050910,1057001);

@@ -1,8 +1,0 @@
-<imgdir name="33111004">
-        <string name="name" value="Blind" />
-        <string name="desc" value="Aim, then fire your shot into an enemy&apos;s eye. Your attack has a chance to decrease the target&apos;s Accuracy and DEF. Boss monsters will only have their Accuracy impaired." />
-        <string name="h" value="MP Cost: #mpCon, Buff Duration: #time sec, Accuracy: -#x%, Enemy DEF: -#v, Blind Duration: #y sec, Blind Chance: #prop%" />
-        <string name="pdesc" value="Aim your shots at your enemies&apos; eyes. Your targets may go Blind, suffering a penalty to Accuracy." />
-        <string name="ph" value="MP Cost: #mpCon, Buff Duration: #time sec, Accuracy: -#x%, Enemy DEF: -#v, Blind Duration: #y sec, Blind Chance: #prop%" />
-        <string name="hch" value="MP Cost: #mpCon, Buff Duration: #time sec, Accuracy: -#x%, Enemy DEF: -#v, Blind Duration: #hcSubTime sec, Blind Chance: #prop%" />
-    </imgdir>

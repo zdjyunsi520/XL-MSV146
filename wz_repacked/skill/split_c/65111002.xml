@@ -1,5 +1,0 @@
-<imgdir name="65111002">
-        <string name="name" value="天之冲击" />
-        <string name="desc" value="猛击地面产生冲击波，攻击范围内的敌人并将其击飞！" />
-        <string name="h" value="Mobs Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Attacked mobs lifted upwards. Recharge Chance: #onActive%" />
-    </imgdir>

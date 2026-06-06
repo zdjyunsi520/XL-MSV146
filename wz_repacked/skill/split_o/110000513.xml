@@ -1,6 +1,0 @@
-<imgdir name="110000513">
-        <string name="name" value="Growth Spurt" />
-        <string name="desc" value="The Beast Tamer&apos;s abilities increase with each level.\r\nCan be obtained at level 60." />
-        <string name="pdesc" value="Growth Spurt increases by 200% for 30 minutes whenever the Beast Tamer levels.\r\nLikewise, EXP gain doubles whenever Growth Spurt levels.\r\nThese two effects can stack." />
-        <string name="h" value="#cINT:# +#intX , #cLUK:# +#lukX, #cCritical Rate:# +#cr%, #cMax HP:# +#mhpR%, #cMax MP# +#mmpR%, #cBoss ATT# +#bdR%, #cMagic ATT:# +#madR%, #cWeapon DEF:# +#pddX, #cMagic DEF:# +#mddX, #cAll Abnormal Status and Elemental Resistance:# +#asrR%" />
-    </imgdir>

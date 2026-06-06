@@ -1,7 +1,0 @@
-<imgdir name="15111008">
-        <string name="name" value="Buccaneer Blast" />
-        <string name="desc" value="Unleashes a powerful energy blast. Can only be used when energy is fully charged. Allows you to charge additional energy as passive effect." />
-        <string name="h" value="Damage: #damage%, Max Enemies Hit: #mobCount. Number of Attacks: #attackCount\nPassive Effects: Charges #x energy with each attack" />
-        <string name="pdesc" value="Unleashes a powerful energy blast. Can only be used when energy is fully charged. Allows you to charge additional energy as passive effect." />
-        <string name="ph" value="Damage: #damage%, Max Enemies Hit: #mobCount. Number of Attacks: #attackCount\nPassive Effects: Charges #x energy with each attack" />
-    </imgdir>

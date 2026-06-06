@@ -24,13 +24,13 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNextS("Did you know...",0,9390313);
+	    qm.sendNextS("你知道吗……",0,9390313);
 	} else if (status == 1) {
-	    qm.sendNextPrevS("There are kobolds in the nearby forests?",0,9390313);
+	    qm.sendNextPrevS("附近的森林里有狗头人？",0,9390313);
 	} else if (status == 2) {
-	    qm.sendNextPrevS("I've met a kobold or two... Vile beasts.",14);	
+	    qm.sendNextPrevS("我见过一两个狗头人……邪恶的野兽。",14);	
 	} else if (status == 3) {
-		qm.sendNextPrevS("Really? And here I thought kobolds were just a legend. Never met anyone's that seen one in person before.",0,9390313);
+		qm.sendNextPrevS("真的吗？我还以为狗头人只是传说呢。以前从来没见过谁亲眼见过。",0,9390313);
 	} else if (status == 4) {
 	    qm.forceCompleteQuest();
 		qm.gainExp(246);

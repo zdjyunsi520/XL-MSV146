@@ -1,7 +1,0 @@
-<imgdir name="5011000">
-        <string name="name" value="Cannon Blaster" />
-        <string name="desc" value="Shoots a flame bomb that attacks multiple enemies." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Shoots a flame bomb that attacks multiple enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

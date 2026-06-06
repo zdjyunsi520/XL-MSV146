@@ -1,7 +1,7 @@
 function action(mode, type, selection) {
     var em = cm.getEventManager("Juliet");
     if (em == null) {
-	cm.sendOk("Please try again later.");
+	cm.sendOk("请稍后再试。");
 	cm.dispose();
 	return;
     }
@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 	    cm.removeAll(4001134);
 	    cm.removeAll(4001135);
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.sendOk("The leader of the party must be here.");
+		cm.sendOk("队伍队长必须在这里。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -35,45 +35,45 @@ function action(mode, type, selection) {
 		    if (prop.equals("0") || prop == null) {
 			em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap(), 120);
 		    } else {
-			cm.sendOk("Another party quest has already entered this channel.");
+			cm.sendOk("此频道已有另一个队伍任务正在进行。");
 		    }
 		} else {
-			cm.sendOk("All 4 members of your party must be here and above level 70.");
+			cm.sendOk("你队伍中的所有4名成员都必须在这里，且等级达到70级以上。");
 		}
 	    }
 	    break;
 	case 926110000:
-	    cm.sendOk("You should try investigating around here. Look at the files in the Library until you can find the entrance to the Lab.");
+	    cm.sendOk("你应该在附近调查一下。查看图书馆里的文件，直到找到实验室的入口。");
 	    break;
 	case 926110001:
-	    cm.sendOk("Please, eliminate all the monsters! I'll come right behind you.");
+	    cm.sendOk("请消灭所有怪物！我紧跟在你后面。");
 	    break;
 	case 926110100:
-	    cm.sendOk("These beakers have leaks in them. We must pour the Suspicious Liquid to the beakers' brims so we can continue.");
+	    cm.sendOk("这些烧杯有泄漏。我们必须将可疑液体倒入烧杯至满，才能继续前进。");
 	    break;
 	case 926110200:
 	    if (cm.haveItem(4001131,1)) {
-		cm.sendOk("Oh, the Letter I wrote! Thank you!");
+		cm.sendOk("哦，我写的信！谢谢你！");
 		cm.gainItem(4001131,-1);
 		em.setProperty("stage", "1");
 	    } else if (cm.haveItem(4001134,1)) {
 		cm.gainItem(4001134,-1);
-		cm.sendOk("Thank you! Now please find the Zenumist files.");
+		cm.sendOk("谢谢！现在请找到泽尼密斯特文件。");
 		em.setProperty("stage4", "1");
 	    } else if (cm.haveItem(4001135,1)) {
 		cm.gainItem(4001135,-1);
-		cm.sendOk("Thank you! Now please continue.");
+		cm.sendOk("谢谢！现在请继续前进。");
 		em.setProperty("stage4", "2");
 		cm.getMap().getReactorByName("jnr3_out3").hitReactor(cm.getClient());
 	    } else {
-	    	cm.sendOk("We must stop the conflict between Alcadno and Zenumist! Find me Alcadno files first, then Zenumist!");
+	    	cm.sendOk("我们必须阻止阿尔卡德诺和泽尼密斯特之间的冲突！先找到阿尔卡德诺文件，再找泽尼密斯特文件！");
 	    }
 	    break;
 	case 926110300:
-	    cm.sendOk("We must get to the top of the Lab, each of your members.");
+	    cm.sendOk("我们必须到达实验室的顶层，每个队员都要到达。");
 	    break;
 	case 926110400:
-	    cm.sendOk("Whenever you are ready, we shall go and save my love.");
+	    cm.sendOk("当你准备好时，我们就去救我的爱人。");
 	    break;
 	case 926110401:
 	    cm.warpParty(926110500); //urete

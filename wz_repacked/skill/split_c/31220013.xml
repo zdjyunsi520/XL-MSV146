@@ -1,5 +1,0 @@
-<imgdir name="31220013">
-        <string name="name" value="冥界之盾" />
-        <string name="desc" value="用追踪之灵附魔盾牌，命中敌人后会弹射到下一个目标。如果附近没有其他敌人，盾牌会攻击第一个命中的敌人哦。" />
-        <string name="h" value="HP Cost: #hpCon, Shields: #bulletCount, Enemies Hit: #mobCount, Damage: #damage%, Attacks per Shield: #z.\nCooldown: #cooltime sec" />
-    </imgdir>

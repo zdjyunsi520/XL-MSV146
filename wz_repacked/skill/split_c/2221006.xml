@@ -1,8 +1,0 @@
-<imgdir name="2221006">
-        <string name="name" value="链环闪电" />
-        <string name="desc" value="用高压闪电攻击目标并使其眩晕！获得额外暴击率，链环闪电还可以连锁攻击目标附近的敌人。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
-        <string name="pdesc" value="用高压闪电攻击目标并使其眩晕！获得额外暴击率，链环闪电还可以连锁攻击目标附近的敌人。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec, Additional Critical Rate: #cr%" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec, Additional Critical Rate: #cr%" />
-    </imgdir>

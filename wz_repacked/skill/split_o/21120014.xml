@@ -1,5 +1,0 @@
-<imgdir name="21120014">
-        <string name="name" value="Boss Reverse Combo" />
-        <string name="desc" value="Combo Count increased by 1 every so often during boss fights. Also, damage against normal monsters increased." />
-        <string name="h" value="Combo Count increased automatically until #x, +#nbdR% damage against normal monsters." />
-    </imgdir>

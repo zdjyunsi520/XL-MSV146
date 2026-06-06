@@ -1,5 +1,0 @@
-<imgdir name="30020232">
-        <string name="name" value="能量盈余" />
-        <string name="desc" value="每隔一定时间充能1单位能量，并有几率在命中或回避时充能。你的属性也会根据当前充能等级提升。此技能可能会消耗能量哦。" />
-        <string name="h" value="One power unit recharged every 4 sec, and #prop% chance to recharge one unit on hit/evade. #strR% all stats per extra power unit." />
-    </imgdir>

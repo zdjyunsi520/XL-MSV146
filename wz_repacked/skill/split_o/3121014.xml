@@ -1,5 +1,0 @@
-<imgdir name="3121014">
-        <string name="name" value="Binding Shot" />
-        <string name="desc" value="Wound enemies to #creduce their HP Recovery and Movement Speed#." />
-        <string name="h" value="MP Cost: #mpCon, After dealing #damage% damage, reduces HP Recovery effect by #x% and Movement Speed by #s% for #time sec\nCooldown: #cooltime sec" />
-    </imgdir>

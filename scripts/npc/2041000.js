@@ -14,21 +14,21 @@ function start() {
 function action(mode, type, selection) {
     status++;
     if(mode == 0) {
-	cm.sendNext("You must have some business to take care of here, right?");
+	cm.sendNext("你在这里一定有事要办吧？");
 	cm.dispose();
 	return;
     }
     if (status == 0) {
 	if(train == null) {
-	    cm.sendNext("The boats are currently down.");
+	    cm.sendNext("目前船已停运。");
 	    cm.dispose();
 	} else if(train.getProperty("entry").equals("true")) {
-	    cm.sendYesNo("It looks like there's plenty of room for this ride. Please have your ticket ready so I can let you in, The ride will be long, but you'll get to your destination just fine. What do you think? Do you want to get on this ride?");
+	    cm.sendYesNo("看起来这次行程还有不少空位。请准备好你的票，我好让你进去。旅途会很长，但你会顺利到达目的地的。怎么样？你要上车吗？");
 	} else if(train.getProperty("entry").equals("false") && train.getProperty("docked").equals("true")) {
-	    cm.sendNext("The train is getting ready for takeoff. I'm sorry, but you'll have to get on the next ride. The ride schedule is available through the usher at the ticketing booth.");
+	    cm.sendNext("列车正在准备出发。很抱歉，你只能等下一班了。班次时刻表可以在售票处的服务员那里查看。");
 	    cm.dispose();
 	} else {
-	    cm.sendNext("We will begin boarding 1 minutes before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
+	    cm.sendNext("我们将在出发前1分钟开始检票。请耐心等待几分钟。请注意，地铁将准时出发，我们在出发前1分钟停止检票，所以请务必准时到达。");
 	    cm.dispose();
 	}
     } else if(status == 1) {

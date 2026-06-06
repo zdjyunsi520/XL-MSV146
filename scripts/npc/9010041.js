@@ -1,9 +1,9 @@
 function start() {
     if(cm.getLevel() >= 30) {
-    cm.sendSimple("Looking to get a gander at the fruits of your labor? All help for Part-Time Jobs will be handled by me, #bMs. Appropriation#k.\r\n#b#e#L0# Accept Part-Time Job Reward. #l");
+    cm.sendSimple("想看看你劳动成果吗？所有兼职工作的奖励都由我 #b拨款小姐#k 来处理。\r\n#b#e#L0# 领取兼职工作奖励。#l");
        }
     else {
-    cm.sendOk ("Hello. I am Miss Appropriation, and I'm in charge of the Part-Time Jobs. I'm afraid you have to reach #eLv. 30#n before I can give you any work, but come see me when you hit that mark.");
+    cm.sendOk ("你好。我是拨款小姐，负责兼职工作。恐怕你需要达到 #e30级#n 我才能给你安排工作，等你达到那个等级后再来找我吧。");
     }
 
 function action(mode, type, selection) {
@@ -12,10 +12,10 @@ function action(mode, type, selection) {
         return;
     }
     if (cm.getPlayer().getPartTime(cm.getPlayer().getId()).getJob() > 0) {
-        cm.sendNext("The fruits of labors are always sweet. I hope to see you again.");
+        cm.sendNext("劳动的果实总是甜的。希望再次见到你。");
         //cm.partTimeReward();
     } else {
-        cm.sendOk("Hmm... Are you sure you completed the Part-Time Job? There are no rewards available right now.");
+        cm.sendOk("嗯...你确定完成了兼职工作吗？目前没有可领取的奖励。");
     }
     cm.dispose();
   }

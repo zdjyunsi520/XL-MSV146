@@ -1,5 +1,0 @@
-<imgdir name="27110007">
-        <string name="name" value="Lunar Tide" />
-        <string name="desc" value="Increase either Critical Rate or ATT, depending on your HP and MP." />
-        <string name="h" value="When MP is greater than HP, damage increases by #x%. When MP lower than HP, Critical Rate increases by #prop%." />
-    </imgdir>

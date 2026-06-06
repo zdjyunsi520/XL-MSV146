@@ -1,8 +1,0 @@
-<imgdir name="31121006">
-        <string name="name" value="暗黑束缚" />
-        <string name="desc" value="有概率击倒多个敌人并在其倒地时造成持续伤害。该攻击还会无视固定量的敌人防御。暗黑束缚的效果对Boss和普通怪物均适用。" />
-        <string name="h" value="主动效果 - 怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，持续伤害：#prop%概率每#dotInterval秒造成#dot%伤害，持续#time秒\n冷却时间：#cooltime秒\n被动效果 - 永久无视敌人防御#ignoreMobpdpR%" />
-        <string name="pdesc" value="有概率击倒多个敌人并在其倒地时造成持续伤害。该攻击还会无视固定量的敌人防御。暗黑束缚的效果对Boss和普通怪物均适用。" />
-        <string name="ph" value="主动效果 - 怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，持续伤害：#prop%概率每#dotInterval秒造成#dot%伤害，持续#time秒\n冷却时间：#cooltime秒\n被动效果 - 永久无视敌人防御#ignoreMobpdpR%" />
-        <string name="hch" value="主动效果 - 怒气消耗：#forceCon，伤害：#damage%，最大攻击敌人数：#mobCount，持续伤害：#prop%概率每#dotInterval秒造成#dot%伤害，持续#hcTime秒，击倒概率：#hcProp%，击倒持续时间：#hcSubTime秒\n冷却时间：#cooltime秒\n被动效果 - 永久无视敌人防御#ignoreMobpdpR%" />
-    </imgdir>

@@ -1,8 +1,0 @@
-<imgdir name="1201006">
-        <string name="name" value="威吓" />
-        <string name="desc" value="威吓敌人，有概率降低其攻击力、防御力和命中率。" />
-        <string name="h" value="MP Cost: #mpCon, Success Rate: #prop%, Enemy Attack and Defense: -#x%, Accuracy: -#z%, Duration (accuracy debuff): #subTime sec" />
-        <string name="pdesc" value="威吓敌人，有概率降低其攻击力、防御力和命中率。" />
-        <string name="ph" value="MP Cost: #mpCon, Enemy ATT and DEF: -#x%, Duration: #time sec, Accuracy: -#z%, Duration (Accuracy): #subTime sec\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Success Rate: #prop%, Enemy ATT and DEF: -#x%, Duration: #hcTime sec, Accuracy: -#z%, Duration (Accuracy): #subTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

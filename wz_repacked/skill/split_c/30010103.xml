@@ -1,5 +1,0 @@
-<imgdir name="30010103">
-        <string name="name" value="冰斩" />
-        <string name="pdesc" value="猛烈打击敌人，有概率使其眩晕。冰量表达到#c5及以上#时可使用。\n[指令：#c下方向键+攻击键#]" />
-        <string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
-    </imgdir>

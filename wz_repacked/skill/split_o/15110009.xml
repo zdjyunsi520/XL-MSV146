@@ -1,7 +1,0 @@
-<imgdir name="15110009">
-        <string name="name" value="Precision Strikes" />
-        <string name="desc" value="Increases Critical Rate and critical damage. Additional Critical Rate against bosses." />
-        <string name="h" value="Critical Rate: +#cr%, Critical Damage: +#criticaldamageMin%, Additional Critical Rate on Bosses: #prop%" />
-        <string name="pdesc" value="Increases critical damage." />
-        <string name="ph" value="Critical rate: +#cr%, Critical Damage: +#criticaldamageMin%" />
-    </imgdir>

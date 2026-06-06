@@ -1,5 +1,0 @@
-<imgdir name="31120008">
-        <string name="name" value="Barricade Mastery" />
-        <string name="desc" value="Become a master of melee. Maxes out the Mastery of One Handed Blunt and Axe type weapons while increasing Minimum Critical Damage and Weapon ATT. \nRequired Skill: #cWeapon Mastery Lv. 10#" />
-        <string name="h" value="One Handed Blunt and Axe type weapon Mastery: +#mastery%, Weapon ATT: +#padX, Minimum Critical Damage: +#criticaldamageMin%" />
-    </imgdir>

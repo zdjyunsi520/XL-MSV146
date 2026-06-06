@@ -1,8 +1,0 @@
-<imgdir name="35101007">
-        <string name="name" value="完美装甲" />
-        <string name="desc" value="你的机甲升级了两个新能力。\n可通过按技能键#c开启/关闭#。\n前置技能：#c机甲原型 Lv. 10#" />
-        <string name="h" value="能力一 - 搭乘机甲时，有#prop%概率格挡攻击（永久）\n能力二 - 反弹#x%伤害给敌人（技能激活时）" />
-        <string name="pdesc" value="你的机甲升级了两个新能力。\n可通过按技能键#c开启/关闭#。\n前置技能：#c机甲原型 Lv. 10#" />
-        <string name="ph" value="能力一 - 搭乘机甲时，有#prop%概率格挡攻击（永久）\n能力二 - 反弹#x%伤害给敌人（技能激活时）" />
-        <string name="hch" value="能力一 - 搭乘机甲时，有#prop%概率格挡攻击（永久）\n能力二 - 反弹#hcReflect%伤害给敌人（技能激活时）" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="22181000">
-        <string name="name" value="Blessing of the Onyx" />
-        <string name="desc" value="Increases Weapon Defense, Magic Defense, and Magic Attack." />
-        <string name="h" value="MP Cost: #mpCon, Weapon DEF: +#epdd, Magic DEF: +#emdd, Magic ATT: +#emad, Duration: #time sec" />
-        <string name="pdesc" value="Increases Weapon Defense, Magic Defense, and Battle Mode Attack." />
-        <string name="ph" value="MP Cost: #mpCon, Weapon DEF: +#epdd, Magic DEF: +#emdd, Battle Mode ATT: +#emad, Duration: #time sec" />
-    </imgdir>

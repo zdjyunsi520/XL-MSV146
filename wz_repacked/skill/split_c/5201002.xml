@@ -1,7 +1,0 @@
-<imgdir name="5201002">
-        <string name="name" value="手榴弹" />
-        <string name="desc" value "用手榴弹攻击多个怪物。手榴弹飞行的距离取决于按住技能键的时间。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
-        <string name="pdesc" value="用手榴弹攻击多个怪物。手榴弹飞行的距离取决于按住技能键的时间。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
-    </imgdir>

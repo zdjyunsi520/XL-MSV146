@@ -1,5 +1,0 @@
-<imgdir name="42121002">
-        <string name="name" value="Falling Sakura" />
-        <string name="desc" value="Summons a sakura tree that damages nearby enemies while healing party members." />
-        <string name="h" value="Mana Cost: #epCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Party Members&apos; HP: #x% of HP\nCooldown: #cooltime sec" />
-    </imgdir>

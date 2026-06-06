@@ -1,5 +1,0 @@
-<imgdir name="3120018">
-        <string name="name" value="Armor Break" />
-        <string name="desc" value="Grants a chance while attacking to #cignore enemy defenses by a small amount#, and deals #cextra damage in proportion to enemy defense rate#. Every time the effect does not trigger, the #cchance to trigger increases#." />
-        <string name="h" value="When attacking, ignores enemy&apos;s defense by #z% at #prop% chance and deals #x% of enemy&apos;s defense rate as additional damage. Stacks activation chance up to #w times if effect does not trigger" />
-    </imgdir>

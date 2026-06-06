@@ -10,11 +10,11 @@ function action(mode, type, selection) {
     }
     if (cm.getInfoQuest(23007).indexOf("vel00=1") == -1 && cm.getInfoQuest(23007).indexOf("vel01=1") == -1) {
     	if (status == 0) {
-    	    cm.sendNext("Stay back!");
+    	    cm.sendNext("退后！");
     	} else if (status == 1) {
-	    cm.sendNextPrevS("Whos talking?! Where are you?!", 2);
+	    cm.sendNextPrevS("谁在说话？！你在哪里？！", 2);
         } else if (status == 2) {
-	    cm.sendNextPrev("Look up.");
+	    cm.sendNextPrev("往上看。");
         } else if (status == 3) {
 	    cm.updateInfoQuest(23007, "vel00=1");
 	    cm.showWZEffect("Effect/Direction4.img/Resistance/ClickVel");
@@ -22,11 +22,11 @@ function action(mode, type, selection) {
 	}
     } else if (cm.getInfoQuest(23007).indexOf("vel00=1") != -1 && cm.getInfoQuest(23007).indexOf("vel01=1") == -1) {
     	if (status == 0) {
-    	    cm.sendNext("My name is #bVita#k. I''m one of #rDoctor Gelimer''s#k test subjects. But that''s not important right now. You have to get out of here before someone sees you!");
+    	    cm.sendNext("我的名字叫#b维塔#k。我是#r杰利麦罗医生#k的实验对象之一。但现在这不重要。你必须趁着有人看到你之前离开这里！");
     	} else if (status == 1) {
-	    cm.sendNextPrevS("Wait, what are you talking about? Someone''s doing experiments on you?! And who''s Gelimer?", 2);
+	    cm.sendNextPrevS("等等，你在说什么？有人在你身上做实验？！杰利麦罗是谁？", 2);
         } else if (status == 2) {
-	    cm.sendNextPrev("Shhh! Did you hear that? Someone''s coming! It''s got to be Doctor Gelimer! Oh no!");
+	    cm.sendNextPrev("嘘！你听到了吗？有人来了！一定是杰利麦罗医生！不好了！");
         } else if (status == 3) {
 	    cm.updateInfoQuest(23007, "vel00=2");
 	    cm.warp(931000011,0);
@@ -34,11 +34,11 @@ function action(mode, type, selection) {
 	}
     } else if (cm.getInfoQuest(23007).indexOf("vel01=1") != -1) {
     	if (status == 0) {
-    	    cm.sendNext("Whew, something must have distracted them. Now''s your chance. GO!");
+    	    cm.sendNext("呼，一定是有什么东西分散了他们的注意力。现在是你逃跑的机会。快走！");
     	} else if (status == 1) {
-	    cm.sendNextPrevS("#b(Vita closes her eyes like she''s given up. What should you do? How about trying to break open the vat?)#k", 2);
+	    cm.sendNextPrevS("#b（维塔闭上了眼睛，似乎已经放弃了。你该怎么办？要不要试着打破容器？）#k", 2);
         } else if (status == 2) {
-	    cm.sendNextPrev("#b(You tried to hit the vat with all your might, but your hand slipped!)#k");
+	    cm.sendNextPrev("#b（你用尽全力试图击打容器，但手滑了！）#k");
         } else if (status == 3) {
 	    cm.gainExp(60);
 	    cm.warp(931000013,0);

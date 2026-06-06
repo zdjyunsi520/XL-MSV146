@@ -1,8 +1,0 @@
-<imgdir name="1111005">
-        <string name="name" value="Coma" />
-        <string name="desc" value="Deals damage to multiple enemies at once and stuns them at a fixed rate. Only possible when the combo count is at 1 or more.\nRequired Skill: #cCombo Attack Lv. 1#" />
-        <string name="h" value="#mpCon MP and #y combo orbs are used to deal #damage% on #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Deals damage to multiple enemies at once and stuns them at a fixed rate. Only possible when the combo count is at 1 or more.\nRequired Skill: #cCombo Attack Lv. 1#" />
-        <string name="ph" value="#mpCon MP and #y combo orbs are used to deal #damage% damage to #mobCount enemies, Stun Chance: #prop%, Stun Duration: #time\nCooldown: #cooltime sec" />
-        <string name="hch" value="#mpCon MP and #y combo orbs are used to deal #damage% damage to #mobCount enemies, Stun Chance: #prop%, Stun Duration: #hcTime sec\nCooldown: #hcCooltime sec" />
-    </imgdir>

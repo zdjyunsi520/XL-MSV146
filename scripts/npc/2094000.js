@@ -6,7 +6,7 @@ function action(mode, type, selection) {
 	cm.removeAll(4001121);
 	cm.removeAll(4001122);
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.sendOk("The leader of the party must be here.");
+		cm.sendOk("队伍队长必须在这里。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -25,17 +25,17 @@ function action(mode, type, selection) {
 		if (next && size >= 2) {
 			var em = cm.getEventManager("Pirate");
 			if (em == null) {
-				cm.sendOk("Please try again later.");
+				cm.sendOk("请稍后再试。");
 			} else {
 		    var prop = em.getProperty("state");
 		    if (prop.equals("0") || prop == null) {
 			em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap(), 120);
 		    } else {
-			cm.sendOk("Another party quest has already entered this channel.");
+			cm.sendOk("此频道已有另一个队伍任务正在进行。");
 		    }
 			}
 		} else {
-			cm.sendOk("All 2+ members of your party must be here and above level 70.");
+			cm.sendOk("你队伍中的所有2名以上成员都必须在这里，且等级达到70级以上。");
 		}
 	    }
 	cm.dispose();

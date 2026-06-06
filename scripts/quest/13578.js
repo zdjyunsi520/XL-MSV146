@@ -9,13 +9,13 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 0) {
-	    qm.sendOk("Figures. Young 'uns! Well, let me know if you change your mind. *grumble grumble*");
+	    qm.sendOk("果然。年轻人！好吧，如果你改变主意就告诉我。*嘟嘟囔囔*");
 	    qm.dispose();
 	}
 	status--
     }
     if (status == 0) {
-		qm.sendAcceptDeclineS("*grumble grumble* Stupid crows! They've stolen all the food people made for the town festival. Young Mapler, will you help get the food back?\r\n#b(Press Yes to get on the waiting list)",1);
+		qm.sendAcceptDeclineS("*嘟嘟囔囔* 该死的乌鸦！它们偷走了镇上节日准备的所有食物。年轻的冒险者，你愿意帮忙把食物拿回来吗？\r\n#b（点击"是"加入等待列表）",1);
     } else if (status == 1) {	   
 		qm.forceStartQuest();
 		qm.dispose();

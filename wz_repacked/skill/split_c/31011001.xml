@@ -1,5 +1,0 @@
-<imgdir name="31011001">
-        <string name="name" value="过载释放" />
-        <string name="desc" value="取消超越的过载减益效果，提升最大HP并恢复HP。\r\n#c只能在过载达到最大值时使用。#" />
-        <string name="h" value="Resets Overload to 0. Duration: #time sec, Max HP: +#indieMhpR%, HP Restored: #x%" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="23111003">
-        <string name="name" value="Gust Dive" />
-        <string name="desc" value="Uses the power of wind to dive down onto multiple enemies, dealing damage to all of them. Requires 120 or more Jump." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Uses the power of wind to dive down onto multiple enemies, dealing damage to all of them. Weakened enemies take additional damage. Requires 120 or more Jump." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount \nCooldown: #cooltime sec" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="21100001">
-        <string name="name" value="Triple Swing" />
-        <string name="desc" value="Press the attack key three times to deal a triple attack on up to 8 enemies.\nRequired Skill: #cDouble Swing Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%" />
-        <string name="pdesc" value="Press the attack key three times to deal a triple attack on up to 6 enemies.\nRequired Skill: #cDouble Swing Lv. 20#" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 2" />
-    </imgdir>

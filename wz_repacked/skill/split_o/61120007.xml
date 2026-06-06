@@ -1,5 +1,0 @@
-<imgdir name="61120007">
-        <string name="name" value="Advanced Tempest Blades" />
-        <string name="desc" value="Enhances Tempest Blades. Summons 5 of your current swords. Swords will home in and attack monsters. Also permanently increases Attack Power.\nRequired Skill: #cTempest Blades Lv. 20#" />
-        <string name="h" value="MP Cost: #mpCon, # of Your Swords Summoned: #bulletCount. #Use the skill again after summoning# to send the swords at the enemy and deal #damage% damage with #attackCount attacks.\nCooldown: #cooltime sec\nPermanently increases Attack Power by #padX" />
-    </imgdir>

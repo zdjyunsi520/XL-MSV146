@@ -1,5 +1,0 @@
-<imgdir name="65121003">
-        <string name="name" value="Soul Resonance" />
-        <string name="desc" value="Resonates with Eskalade&apos;s soul and brings him to life." />
-        <string name="h" value="Key-down Skill. Mobs Hit: #mobCount, Damage Dealt Per Attack: #damage%, Duration: 8 sec, Max Finishing Blow Based on Remaining Duration: #x%, Damage Against Bosses: +#bdR%\nCooldown: #cooltime sec. #cMax Damage: #MDamageOver#" />
-    </imgdir>

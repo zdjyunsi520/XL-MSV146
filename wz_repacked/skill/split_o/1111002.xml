@@ -1,7 +1,0 @@
-<imgdir name="1111002">
-        <string name="name" value="Combo Attack" />
-        <string name="desc" value="For a fixed amount of time, accumulates combo orbs with each attack. Allows you to charge 5 combo orbs max. Each combo orb increases the damage you deal." />
-        <string name="h" value="MP Cost: #mpCon , Duration: #time sec, Max Combo Orbs: #x, Damage: +#damR% per combo orb" />
-        <string name="pdesc" value="For a fixed amount of time, accumulates combo orbs with each attack. Allows you to charge 5 combo orbs max. Each combo orb increases the damage you deal." />
-        <string name="ph" value="MP Cost: #mpCon , Duration: #time sec, Max Combo Orbs: #x, Damage: +#damR% per combo orb" />
-    </imgdir>

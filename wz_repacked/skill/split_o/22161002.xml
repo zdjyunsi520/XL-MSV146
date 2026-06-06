@@ -1,7 +1,0 @@
-<imgdir name="22161002">
-        <string name="name" value="Phantom Imprint " />
-        <string name="desc" value="Creates a pentacle that puts a curse on a target enemy. Cursed enemies temporarily take more damage." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: #x% for #time sec" />
-        <string name="pdesc" value="Creates a pentacle that puts a curse on a target enemy. Cursed enemies temporarily take more damage." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: #x% for #time sec" />
-    </imgdir>

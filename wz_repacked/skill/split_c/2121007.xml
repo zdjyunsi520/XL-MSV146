@@ -1,8 +1,0 @@
-<imgdir name="2121007">
-        <string name="name" value="流星雨" />
-        <string name="desc" value="从天空召唤陨石对多个敌人造成强大的火焰伤害。如果流星雨在冷却中时进行攻击，#c会有一枚陨石落在单个敌人身上造成伤害#~" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以陨石对单个敌人造成#x%伤害#]" />
-        <string name="pdesc" value="从天空召唤陨石对多个敌人造成强大的火焰伤害。如果流星雨在冷却中时进行攻击，#c会有一枚陨石落在单个敌人身上造成伤害#~" />
-        <string name="ph" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以陨石对单个敌人造成#x%伤害#]" />
-        <string name="hch" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冷却时间: #cooltime秒\n[被动效果: 冷却期间攻击时: #c#prop%几率以陨石对单个敌人造成#x%伤害#]" />
-    </imgdir>

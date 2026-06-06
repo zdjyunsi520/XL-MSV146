@@ -1,5 +1,0 @@
-<imgdir name="24111002">
-        <string name="name" value="最终假死" />
-        <string name="desc" value="使用此技能后会对所有敌人的攻击做好准备，被击倒时会立即复活并恢复部分HP。此技能还永久提升运气。" />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Upon death, you revive with #x% of Max HP. Makes you invincible for #y sec #\nPassive Effects: Permanently increases LUK by #lukX\n#cAfter using buff:# #cooltime sec Cooldown " />
-    </imgdir>

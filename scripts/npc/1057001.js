@@ -1,12 +1,12 @@
 function action(mode, type, selection) {
 	if (cm.getPlayer().getLevel() < 20) {	
 		if (cm.getPlayer().getSubcategory() != 1) {
-			cm.sendOk("You must have selected Dual Blader in character selection to talk to me.");
+			cm.sendOk("你必须在角色选择界面选中双刀才能和我对话。");
 		} else {
-			cm.sendOk("You must have accepted the quests at level 2 and 9 to talk to me.");
+			cm.sendOk("你必须先完成2级和9级的任务才能和我对话。");
 		}
 	} else {
-		cm.sendOk("I guard the entrance to the Secret Garden... oops, not so secret anymore, is it?");
+		cm.sendOk("我把守着秘密花园的入口……哎呀，不再秘密了，是吧？");
 	}
 	cm.safeDispose();
 }

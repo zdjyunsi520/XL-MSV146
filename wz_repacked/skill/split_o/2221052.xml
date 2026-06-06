@@ -1,5 +1,0 @@
-<imgdir name="2221052">
-        <string name="name" value="Lightning Orb" />
-        <string name="desc" value="Creates a large, unstable sphere of electricity to continuously zap enemies." />
-        <string name="h" value="Key-down skill. MP Cost: #mpCon, Enemies Hit: #mobCount, Damage per Hit: #damage%, Max Duration: 8 sec, Final Damage based on Duration: #x%.\nCooldown: #cooltime sec" />
-    </imgdir>

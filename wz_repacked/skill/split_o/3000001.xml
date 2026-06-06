@@ -1,6 +1,0 @@
-<imgdir name="3000001">
-        <string name="name" value="Critical Shot" />
-        <string name="desc" value="Increases Critical Hit Rate." />
-        <string name="h" value="Critical Hit Rate: +#prop%" />
-        <string name="h20" value="40% success rate, critical damage 200%" />
-    </imgdir>

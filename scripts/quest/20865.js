@@ -14,7 +14,7 @@ function start(mode, type, selection) {
 function end(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -23,9 +23,9 @@ function end(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendYesNo("Have ye made yer decision? The decision will be final, so think carefully before deciding what to do. Are ye sure ye want to become a Thunder Breaker?");
+	qm.sendYesNo("你做出决定了吗？这个决定将是最终的，所以在决定之前请三思。你确定要成为一名闪雷奇侠吗？");
     } else if (status == 1) {
-	qm.sendNext("I have just molded yer body to make it perfect for a Thunder Breaker. If ye wish to become more powerful, use Stat Window (S) to raise the appropriate stats. If ye arn't sure what to raise, just click on #bAuto#k.");
+	qm.sendNext("我刚刚重塑了你的身体，使其完美适合闪雷奇侠。如果你想变得更强大，使用属性窗口（S）来提升相应的属性。如果你不确定要提升什么，只需点击#b自动#k。");
 	if (qm.getJob() != 1500) {
 	    qm.gainItem(1482014, 1);
 	    qm.gainItem(1142066, 1);
@@ -37,13 +37,13 @@ function end(mode, type, selection) {
 	}
 	qm.forceCompleteQuest();
     } else if (status == 2) {
-	qm.sendNextPrev("I have also expanded yer inventory slot counts for yer equipment and etc. inventory. Use those slots wisely and fill them up with items required for Knights to carry.");
+	qm.sendNextPrev("我也扩展了你的装备和其他物品栏的槽位数量。明智地使用这些槽位，填满骑士需要携带的物品。");
     } else if (status == 3) {
-	qm.sendNextPrev("I have also given ye a hint of #bSP#k, so open the #bSkill Menu#k to acquire new skills. Of course, ye can't raise them at all once, and there are some skills out there where ye won't be able to acquire them unless ye master the basic skills first.");
+	qm.sendNextPrev("我还给了你一些#bSP#k，所以打开#b技能菜单#k来学习新技能。当然，你不能一次性全部提升，而且有些技能你需要先掌握基础技能才能学习。");
     } else if (status == 4) {
-	qm.sendNextPrev("Unlike yer time as a Noblesse, once ye become the Thunder Breaker, ye will lost a portion of yer EXP when ye run out of HP, okay?");
+	qm.sendNextPrev("与你做初心者的时期不同，一旦你成为闪雷奇侠，当你HP耗尽时，你将损失一部分经验值，明白吗？");
     } else if (status == 5) {
-	qm.sendNextPrev("Now... I want ye to go out there and show the world how the Knights of Cygnus operate.");
+	qm.sendNextPrev("现在...我希望你出去向世界展示骑士团的行动方式。");
 	qm.safeDispose();
     }
 }

@@ -1,5 +1,0 @@
-<imgdir name="31221003">
-        <string name="name" value="血之牢笼" />
-        <string name="desc" value="将周围的敌人囚禁在血之牢笼中，使其短暂眩晕！" />
-        <string name="h" value="HP Cost: #hpCon, Enemies Hit: #mobCount, Damage: #damage%, Stun Duration: #time sec.\nCooldown: #cooltime sec" />
-    </imgdir>

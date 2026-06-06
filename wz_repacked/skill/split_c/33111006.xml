@@ -1,7 +1,0 @@
-<imgdir name="33111006">
-        <string name="name" value="挥爪" />
-        <string name="desc" value="你的美洲豹连续挥爪攻击附近敌人，吸收部分伤害转化为HP。每次吸收不超过最大HP的15%或敌人最大HP。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击怪物数：#mobCount，吸收#x%伤害转化为HP" />
-        <string name="pdesc" value="你的美洲豹连续挥爪攻击附近敌人，吸收部分伤害转化为HP。每次吸收不超过最大HP的15%或敌人最大HP。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击敌人数：#mobCount，吸收#x%伤害转化为HP" />
-    </imgdir>

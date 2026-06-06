@@ -1,7 +1,0 @@
-<imgdir name="4101008">
-        <string name="name" value="Shuriken Burst" />
-        <string name="desc" value="Throws an exploding shuriken to damage the target and nearby enemies." />
-        <string name="h" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Throws an exploding shuriken to damage the target and nearby enemies." />
-        <string name="ph" value="MP Cost: #mpCon and #bulletConsume throwing stars, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

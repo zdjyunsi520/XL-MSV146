@@ -1,7 +1,0 @@
-<imgdir name="24001000">
-        <string name="name" value="双重暗语" />
-        <string name="desc" value="快速对敌人进行两次攻击！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="快速对敌人进行两次攻击。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

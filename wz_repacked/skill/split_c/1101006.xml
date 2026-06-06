@@ -1,7 +1,0 @@
-<imgdir name="1101006">
-        <string name="name" value="狂怒" />
-        <string name="desc" value="短时间内提升队友的武器攻击力，并反射受到的伤害倍数。#c可与其他增益叠加#。" />
-        <string name="pdesc" value="短时间内提升队友的武器攻击力，并反射受到的伤害倍数。#c可与其他增益叠加#。" />
-        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒, 队友武器攻击力: +#indiePad。伤害吸收率: #x%, 伤害反射: 反射所受伤害的#y%。" />
-        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒, 队友武器攻击力: +#indiePad。伤害吸收率: #x%, 伤害反射: 反射所受伤害的#y%。" />
-    </imgdir>

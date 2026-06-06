@@ -1,7 +1,0 @@
-<imgdir name="5221006">
-        <string name="name" value="Battleship" />
-        <string name="desc" value="You board a pirate ship. You will have limited skills when you are on board. \n[Available Skills: Battleship Skills, Grenades, Gun Booster, Flamethrower, Ice Splitter, Gaviota, Octopus, Maple Warrior, Hero&apos;s Will]" />
-        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#epad, MaxHP +#emhp, MaxMP +#emmp, Weapon DEF: +#epdd, Magic ATT: +#emdd" />
-        <string name="pdesc" value="You board a pirate ship. You will have limited skills when you are on board. \n[Available Skills: Battleship Skills, Grenades, Gun Booster, Flamethrower, Ice Splitter, Gaviota, Octopus, Maple Warrior, Hero&apos;s Will]" />
-        <string name="ph" value="MP Cost: #mpCon, Battle Mode ATT: +#PVPdamage, MaxHP +#emhp, MaxMP +#emmp, Weapon DEF: +#epdd, Magic ATT: +#emdd" />
-    </imgdir>

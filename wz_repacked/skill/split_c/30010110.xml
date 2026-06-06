@@ -1,8 +1,0 @@
-<imgdir name="30010110">
-        <string name="name" value="暗黑之翼" />
-        <string name="desc" value="可以使用翅膀进行各种跳跃技能" />
-        <string name="h" value="高跳：跳跃中按两次上方向键\n美洲豹跳：跳跃中按两次右或左方向键\n滑翔：跳跃键（持续按住）" />
-        <string name="pdesc" value="可以使用恶魔翅膀进行各种跳跃技能。" />
-        <string name="ph" value="美洲豹跳：跳跃中按两次右或左方向键。" />
-        <string name="hch" value="美洲豹跳：跳跃中→→或←←" />
-    </imgdir>

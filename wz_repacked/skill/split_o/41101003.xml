@@ -1,5 +1,0 @@
-<imgdir name="41101003">
-        <string name="name" value="Military Might" />
-        <string name="desc" value="Temporarily increases Max HP, Max MP, Physical Attack Power, Speed, and Jump." />
-        <string name="h" value="MP Cost: #mpCon, For #time sec, Max HP and Max MP: +#x%, Physical Attack Power: +#padX, Speed: +#speed, Jump: +#jump" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="5101011">
-        <string name="name" value="暗之清明" />
-        <string name="desc" value="平静心神，短时间内提升武器攻击力和命中值~" />
-        <string name="h" value="MP消耗: #mpCon, 武器攻击力: +#indiePad, 命中值: +#indieAcc, 持续时间: #time秒" />
-        <string name="pdesc" value="平静心神，短时间内提升武器攻击力和命中值~" />
-        <string name="ph" value="MP消耗: #mpCon, 武器攻击力: +#indiePad, 命中值: +#indieAcc, 持续时间: #time秒" />
-    </imgdir>

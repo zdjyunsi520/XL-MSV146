@@ -1,7 +1,0 @@
-<imgdir name="24121007">
-        <string name="name" value="灵魂窃取" />
-        <string name="desc" value="偷取附近怪物的增益效果。如果偷到多个增益，将应用最强大的那个。此技能只在怪物身上有增益时才有效。" />
-        <string name="h" value="MP消耗：#mpCon，最大敌人数：#mobCount，获得的增益：\n#c攻击#：攻击力+#epad\n#c无视伤害#：受到的伤害-#x%\n#c伤害反射#：反射#y%受到的伤害\n#c无敌#：暂时无敌\n冷却时间：#cooltime秒" />
-        <string name="pdesc" value="移除附近敌人的所有增益状态。" />
-        <string name="ph" value="MP消耗：#mpCon，最大敌人数：#mobCount" />
-    </imgdir>

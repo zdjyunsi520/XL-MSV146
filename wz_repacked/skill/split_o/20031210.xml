@@ -1,5 +1,0 @@
-<imgdir name="20031210">
-        <string name="name" value="Judgment Draw" />
-        <string name="desc" value="Uses up your entire stack of cards to pull out one card and grant additional effects to that card&apos;s attack. Can only been used when your deck is full." />
-        <string name="h" value="MP Cost: #mpCon, Attacks enemies with Carte Noir #u times. Also grants one of the following effects for #time sec.\n#cDestin Card:# Critical Rate +#v%\n#cMalheur Card:# Item Drop Rate +#w%\n#cEndurance Card:# Abnormal Status Resistance +#x%, Elemental Resistance +#y%\n#cDrain Card:# #z% of the damage dealt is absorbed as HP" />
-    </imgdir>

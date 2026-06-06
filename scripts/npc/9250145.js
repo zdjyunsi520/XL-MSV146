@@ -22,11 +22,11 @@ function start() {
 function action(mode, type, selection) {
 	status++;
 	if (status == 0) {
-		cm.sendSimple("Black Mages Hell BPQ will be opening soon! The bosses will be stronger, give more EXP, and give more Battle Points. This will be available only on hell channels, ch 10-12. Start training.... You will need all your power");
+		cm.sendSimple("也许你可以和我交换一些#r点卷#k？我有很多好东西给你...#b\r\n\r\n");
 	} else if (status == 1) {
-		var selStr = "Maybe you could trade me some #rCash#k? I have lots of great items for you...#b\r\n\r\n";
+		var selStr = "点卷)#b#l\r\n";
 		for (var i = 0; i < items.length; i++) {
-			selStr += "#L" + i + "##v" + items[i] + "##t" + items[i] + "# x " + itemsq[i] + " #r(" + (cm.isGMS() ? (itemsa[i] / 2) : itemsa[i]) + " Cash)#b#l\r\n";
+			selStr += "#L" + i + "##v" + items[i] + "##t" + items[i] + "# x " + itemsq[i] + " #r(" + (cm.isGMS() ? (itemsa[i] / 2) : itemsa[i]) + "点卷)#b#l\r\n";
 		}
 		cm.dispose();
 	}

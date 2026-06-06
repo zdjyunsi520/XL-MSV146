@@ -1,7 +1,0 @@
-<imgdir name="5121019">
-        <string name="name" value="龙击" />
-        <string name="desc" value="从枫叶世界深处召唤沉睡的龙对多个敌人造成伤害。充满能量时伤害增加~" />
-        <string name="h" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount。充满时伤害增加#damR%" />
-        <string name="pdesc" value="从枫叶世界深处召唤沉睡的龙对多个敌人造成伤害~" />
-        <string name="ph" value="MP消耗: #mpCon或能量消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="60010103">
-        <string name="name" value="冰之劈砍" />
-        <string name="pdesc" value="猛烈打击敌人，有几率使其眩晕！冰之能量槽充能到#c5及以上#时可使用。\n[指令：#c↓ + 攻击键#]" />
-        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-    </imgdir>

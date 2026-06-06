@@ -30,7 +30,7 @@ function action(mode, type, selection) {
     } else {
         status++;
         if (status == 0) {
-            cm.sendYesNo("Gamble? Meso.");
+            cm.sendYesNo("享受你的物品吧。");
         } else if (status == 1) {
             if (cm.haveItem(5220010, 5)) {
                 if (Math.random() < 0.75) {
@@ -41,17 +41,17 @@ function action(mode, type, selection) {
                         if (a < b) {
                             cm.giveRandItem(stuff[i][0]);
                             cm.gainItem(5220010, 5);
-                            cm.sendOk("Enjoy your item.");
+                            cm.sendOk("糟糕！你什么都没得到！");
                             cm.dispose();
                             break;
                         }
                     }
                 } else {
-                    cm.sendOk("Oh no! You got nothing!");
+                    cm.sendOk("你没有足够的#i5220010#。");
                     cm.dispose();
                 }
             } else {
-                cm.sendOk("You don't have enough #i5220010#.");
+                cm.sendOk("你没有足够的#i5220010#。");
                 cm.dispose();
             }
         } else {

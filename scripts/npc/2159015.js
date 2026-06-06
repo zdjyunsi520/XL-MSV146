@@ -7,7 +7,7 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-    	cm.sendNext("Aw shucks. You found me. Wow, you''re really good at this game!\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 3 exp");
+    	cm.sendNext("哎呀，你找到我了。哇，你真的很擅长这个游戏！\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 3 经验值");
     } else if (status == 1) {
 	cm.gainExp(3);
 	if (cm.getInfoQuest(23999).equals("")) {

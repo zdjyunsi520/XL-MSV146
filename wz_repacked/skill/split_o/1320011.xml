@@ -1,7 +1,0 @@
-<imgdir name="1320011">
-        <string name="name" value="Revenge of the Evil Eye" />
-        <string name="desc" value="When hit, the Evil Eye has a chance to launch a counterattack toward the attacker. The attack has a chance to be an instant KO, and returns some of the damage to the Dark Knight as HP. However, it does not return more than 5% of Max HP at once. Does not return HP on instant KOs. #cDoes not activate during Free Attack mode.#" />
-        <string name="h" value="When hit, Counterattack Chance: #prop%, Damage: #damage%, Instant KO Chance: #z%, Recover #x% of damage to HP, Counterattack Cooldown: #cooltime sec" />
-        <string name="pdesc" value="When hit, the Evil Eye has a chance to launch a counterattack toward the attacker. The attack has a chance to be an instant KO, and returns some of the damage to the Dark Knight as HP. However, it does not return more than 5% of Max HP at once. Does not return HP on instant KOs. #cDoes not activate during Free Attack mode.#" />
-        <string name="ph" value="When hit, Counterattack Chance: #prop%, Damage: #damage%, Instant KO Chance: #z%, Recover #x% of damage to HP, Counterattack Cooldown: #cooltime sec" />
-    </imgdir>

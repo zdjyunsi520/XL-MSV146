@@ -8,13 +8,13 @@ function enter(pi) {
 	    if (em.getProperty("state").equals("2")) {
 		em.warpAllPlayer(240060000, 240060100);
 	    } else {
-		pi.playerMessage("The portal is blocked.");
+		pi.playerMessage("传送门被封锁了。");
 	    }
 	} else if (map == 240060100) {
 	    if (em.getProperty("state").equals("3")) {
 		em.warpAllPlayer(240060100, 240060200);
 	    } else {
-		pi.playerMessage("The portal is blocked.");
+		pi.playerMessage("传送门被封锁了。");
 	    }
 	}
     }

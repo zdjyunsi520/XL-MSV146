@@ -1,5 +1,0 @@
-<imgdir name="61111003">
-        <string name="name" value="Cursebite" />
-        <string name="desc" value="Increases resistance to all status and elemental effects for a short time, and deals extra damage on monsters with status ailments. " />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Status Resistance: +#asrR%, Resistance to All Elements: +#terR%, #u% chance to deal #w% extra damage #s times against monsters with status ailments." />
-    </imgdir>

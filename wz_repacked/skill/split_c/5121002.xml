@@ -1,7 +1,0 @@
-<imgdir name="5121002">
-        <string name="name" value="能量球" />
-        <string name="desc" value "用强大的能量冲击波攻击怪物。如果被命中的怪物周围有其他怪物，它们也会受到这个强力能量球的影响。只有在#c能量充满#时才能使用。\n需要技能：#c能量充能 Lv. 1#" />
-        <string name="h" value=" Damage: #damage%, Max Monsters Hit: #mobCount" />
-        <string name="pdesc" value="用强大的能量冲击波攻击怪物。如果被命中的怪物周围有其他怪物，它们也会受到这个强力能量球的影响。只有在#c能量充满#时才能使用。\n需要技能：#c能量充能 Lv. 1#" />
-        <string name="ph" value=" Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

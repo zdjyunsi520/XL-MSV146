@@ -1,5 +1,0 @@
-<imgdir name="1201011">
-        <string name="name" value="火焰冲锋" />
-        <string name="desc" value="瞬间赋予武器火焰属性，对敌人造成火焰伤害并使其灼烧~" />
-        <string name="h" value="MP消耗: #mpCon。最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount。#prop%几率，造成#dot%火焰伤害，持续#dotTime秒" />
-    </imgdir>

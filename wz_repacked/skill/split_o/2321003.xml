@@ -1,7 +1,0 @@
-<imgdir name="2321003">
-        <string name="name" value="Bahamut" />
-        <string name="desc" value="Temporarily summons Bahamut to deal Holy damage. Bahamut can attack multiple enemies at the same time." />
-        <string name="h" value="MP Cost: #mpCon, Bahamut Summon Duration: #time sec, Damage: #damage%, Max Enemy Hit: #mobCount at once" />
-        <string name="pdesc" value="Temporarily summons Bahamut to deal Holy damage. Bahamut can attack multiple enemies at the same time." />
-        <string name="ph" value="MP Cost: #mpCon, Bahamut Summon Duration: #time sec, Damage: #damage%, Max Enemy Hit: #mobCount at once" />
-    </imgdir>

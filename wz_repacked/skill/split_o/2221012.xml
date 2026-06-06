@@ -1,5 +1,0 @@
-<imgdir name="2221012">
-        <string name="name" value="Frozen Orb" />
-        <string name="desc" value="Create and throw a Frozen Orb that fires ice shards everywhere to deal damage. The orb slows significantly when it encounters an enemy." />
-        <string name="h" value="MP Cost: #mpCon, create a Frozen Orb that deals #damage% damage with ice shards to up to #mobCount enemies, Cooldown: #cooltime sec" />
-    </imgdir>

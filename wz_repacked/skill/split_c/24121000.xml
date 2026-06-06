@@ -1,7 +1,0 @@
-<imgdir name="24121000">
-        <string name="name" value="千针穿刺" />
-        <string name="desc" value="疯狂地刺向前方，以眼花缭乱的速度反复突刺敌人！可连续执行此攻击。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount\nWhile pressing the skill key, use the #cdirectional keys# to #cmove#" />
-        <string name="pdesc" value="疯狂地刺向前方，以眼花缭乱的速度反复突刺敌人！可连续执行此攻击。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount\nWhile pressing the skill key, use the #cdirectional keys# to #cmove#" />
-    </imgdir>

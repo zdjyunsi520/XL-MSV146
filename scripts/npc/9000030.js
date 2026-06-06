@@ -12,22 +12,22 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("What do you want to change?\r\n#b#L0#Auto HP#l\r\n#L1#Auto MP#l");
+	cm.sendSimple("你想更改什么？\r\n#b#L0#自动HP#l\r\n#L1#自动MP#l");
     } else if (status == 1) {
 	firstSel = selection;
 	if (selection == 0) {
 	    if (!cm.getPlayer().getStat().hasHP) {
-		cm.sendOk("You have no Auto HP Pot.");
+		cm.sendOk("你没有自动HP药水。");
 		cm.safeDispose();
 	    } else {
-		cm.sendGetNumber("Enter what % HP you want the Auto Potion to activate. (1-100)", 50, 1, 100);
+		cm.sendGetNumber("请输入你想让自动药水触发的HP百分比。（1-100）", 50, 1, 100);
 	    }
 	} else {
 	    if (!cm.getPlayer().getStat().hasMP) {
-		cm.sendOk("You have no Auto MP Pot.");
+		cm.sendOk("你没有自动MP药水。");
 		cm.safeDispose();
 	    } else {
-		cm.sendGetNumber("Enter what % MP you want the Auto Potion to activate. (1-100)", 50, 1, 100);
+		cm.sendGetNumber("请输入你想让自动药水触发的MP百分比。（1-100）", 50, 1, 100);
 	    }
 	}
 	
@@ -50,13 +50,13 @@ function action(mode, type, selection) {
 			selStr += "#L" + i + "##v" + itemid + "##t" + itemid + "##l";
 		}
 		if (selStr.length <= 0) {
-		    cm.sendOk("The Percent has been set, but you have no items worth setting to the potion.");
+		    cm.sendOk("百分比已设置，但你没有可以设置为药水的物品。");
 		    cm.safeDispose();
 		} else {
-		    cm.sendSimple("The Percent has been set. Please choose what item to set as the Potion:\r\n" + selStr);
+		    cm.sendSimple("百分比已设置。请选择要设置为药水的物品：\r\n" + selStr);
 		}
 	    } else {
-		cm.sendOk("The number was invalid. (1-100)");
+		cm.sendOk("输入的数字无效。（1-100）");
 		cm.safeDispose();
 	    }
 	} else {
@@ -77,39 +77,39 @@ function action(mode, type, selection) {
 			selStr += "#L" + i + "##v" + itemid + "##t" + itemid + "##l";
 		}
 		if (selStr.length <= 0) {
-		    cm.sendOk("The Percent has been set, but you have no items worth setting to the potion.");
+		    cm.sendOk("百分比已设置，但你没有可以设置为药水的物品。");
 		    cm.safeDispose();
 		} else {
-		    cm.sendSimple("The Percent has been set. Please choose what item to set as the Potion:\r\n" + selStr);
+		    cm.sendSimple("百分比已设置。请选择要设置为药水的物品：\r\n" + selStr);
 		}
 	    } else {
-		cm.sendOk("The number was invalid. (1-100)");
+		cm.sendOk("输入的数字无效。（1-100）");
 		cm.safeDispose();
 	    }
 	}
     } else if (status == 3) {
 	var inzz = cm.getInventory(2).getItem(slot[selection]);
 	if (inzz == null) {
-	    cm.sendOk("Error, please try again.");
+	    cm.sendOk("出错，请重试。");
 	    cm.safeDispose();
 	    return;
 	}
 	var itt = cm.getEffect(inzz.getItemId());
 	if (firstSel == 0) {
 	    if (itt == null || itt.getHp() <= 0 || itt.getHpR() <= 0) {
-	        cm.sendOk("Error, please try again.");
+	        cm.sendOk("出错，请重试。");
 	    } else {
 	        cm.getQuestRecord(122221).setCustomData(selection);
 		cm.getPlayer().updatePetAuto();
-		cm.sendOk("#v" + inzz.getItemId() + "##t" + inz.getItemId() + "# has been set as the potion.");
+		cm.sendOk("#v" + inzz.getItemId() + "##t" + inz.getItemId() + "# 已被设置为药水。");
 	    }
 	} else {
 	    if (itt == null || itt.getMp() <= 0 || itt.getMpR() <= 0) {
-	        cm.sendOk("Error, please try again.");
+	        cm.sendOk("出错，请重试。");
 	    } else {
 	        cm.getQuestRecord(122223).setCustomData(selection);
 		cm.getPlayer().updatePetAuto();
-		cm.sendOk("#v" + inzz.getItemId() + "##t" + inz.getItemId() + "# has been set as the potion.");
+		cm.sendOk("#v" + inzz.getItemId() + "##t" + inz.getItemId() + "# 已被设置为药水。");
 	    }
 	}
 	cm.safeDispose();

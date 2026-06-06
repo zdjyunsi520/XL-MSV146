@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 }
 
 function end(mode, type, selection) {
-	    qm.sendNext("Then wait for awhile. I'll go and get the stuff to help you pass the test of Chief Alcadno.");
+	    qm.sendNext("那就等一下。我去拿东西帮你通过阿尔卡诺族长的测试。");
 	    qm.forceCompleteQuest();
 	    qm.dispose();
 }

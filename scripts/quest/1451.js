@@ -14,16 +14,16 @@ function start(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-            qm.sendNext("Countless Warriors wander Maple World, but only a few are worthy of meeting with me. You have obtained incredible strength... But do not confuse strength with greatness.");
+            qm.sendNext("无数战士在枫之谷世界流浪，但只有少数人有资格见到我。你获得了惊人的力量...但不要把力量和伟大混为一谈。");
         }else if(status == 1) {
-            qm.sendNextPrev("The #b4th Job Advancement#k will grant you even greater power, but it also comes with new responsibility. You must use your strength for justice. It will be your duty to #blead Maple World into the future.#k");
+            qm.sendNextPrev("#b第四次转职#k将赋予你更大的力量，但也伴随着新的责任。你必须用你的力量维护正义。你的职责是#b引领枫之谷世界走向未来#k。");
         }else if(status == 2) {
-            qm.sendNextPrev("Perhaps you've travelled the world, carefree, only having fun. Now it's time to become #ba hero#k and help those around you.");
+            qm.sendNextPrev("也许你一直在世界各地无忧无虑地旅行，只为寻找乐趣。现在是时候成为#b一名英雄#k，帮助身边的人了。");
         }else if(status == 3) {
-            qm.sendAcceptDecline("Now, it is time for your test. #rGriffey#k and #rManon#k have the power to recognize a true hero. Your task is to defeat them and obtain #b The Heroic Pentagon#k and #bThe Heroic Star.#k");
+            qm.sendAcceptDecline("现在，轮到你接受考验了。#r格瑞菲#k和#r玛农#k拥有辨识真正英雄的力量。你的任务是击败他们并获得#b英雄五角星#k和#b英雄之星#k。");
         }else if(status == 4) {
             qm.forceStartQuest();
-            qm.sendOk("Heroes are not born, but made. What can you do to help Maple World?");
+            qm.sendOk("英雄不是天生的，而是历练而成的。你能为枫之谷世界做些什么？");
             qm.dispose();
         }
     }
@@ -38,13 +38,13 @@ function end(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-            qm.sendYesNo("You proved that everything you need to be a true hero exists within yourself. There is nothing left for you to prove. Are you ready to realize your full potential?");
+            qm.sendYesNo("你证明了成为一名真正英雄所需的一切都存在于你自己内心。你已经没有什么需要证明的了。你准备好释放你的全部潜能了吗？");
         }else if(status == 1) {
             if (qm.haveItem(4031343, 1) || qm.haveItem(4031344, 1) ) {
                 qm.removeAll(4031343);//Heroic Pentagon
                 qm.removeAll(4031344);//Heroic Star
                 qm.gainItem(1142110, 1);//Master Adventure medal
-                qm.sendNext("You started your journey as a simple adventurer... But you have grown so much since then. You possess great strength, willpower, and courage.");
+                qm.sendNext("你以一个普通冒险者的身份开始了旅程...但从那以后你已经成长了很多。你拥有巨大的力量、意志力和勇气。");
                 if(qm.getJob() == 111){
                     qm.changeJob(112);
                 }else if (qm.getJob() == 121){
@@ -52,19 +52,19 @@ function end(mode, type, selection) {
                 }else if (qm.getJob() == 131){
                     qm.changeJob(132);
                 }else{
-                    qm.sendOk("Something went wrong, please report it.");
+                    qm.sendOk("出了点问题，请报告此问题。");
                     qm.dispose();
                 }
 				qm.gainSp(2);//1 is auto so it only gets 3 i think?
                 qm.forceCompleteQuest();
             }
 	}else if(status == 2){
-            qm.sendNextPrev("If one who possesses all of these qualities cannot be called a hero, then who can?");
+            qm.sendNextPrev("如果拥有所有这些品质的人都不能被称为英雄，那谁还能呢？");
         }else if (status == 3){
-            qm.sendOk("A hero is not born, but is created through struggle. Accept your destiny, and lead Maple World to a brighter future.");
+            qm.sendOk("英雄不是天生的，而是在磨难中诞生的。接受你的命运，引领枫之谷世界走向更光明的未来。");
             qm.dispose();
         }else{
-            qm.sendOk("Please go find The Heroic Pentagon & The Heroic Star.");
+            qm.sendOk("请去找英雄五角星和英雄之星。");
             qm.dispose();
         }
     }

@@ -1,7 +1,0 @@
-<imgdir name="32110001">
-        <string name="name" value="Battle Mastery" />
-        <string name="desc" value="You&apos;ve honed your skills in battle and have now permanently increase your Damage and your Minimum Critical Damage." />
-        <string name="h" value="Damage: #damR%, Minimum Critical Damage: +#criticaldamageMin%" />
-        <string name="pdesc" value="Your honed combat skills permanently increase your Damage and Minimum Critical Damage." />
-        <string name="ph" value="Damage: #damR%, Minimum Critical Damage: +#criticaldamageMin%" />
-    </imgdir>

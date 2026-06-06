@@ -1,7 +1,7 @@
 var status = -1;
 
 function start() {
-    cm.askAcceptDecline("Are you the warriors who came to defeat me? Or are you from the Anti Black Mage Alliance? It doesn't matter who you are ... There's no need for chitchatting if we are sure about each other's purpose...\r\nBring it on, you fools!");
+    cm.askAcceptDecline("你们是来打败我的勇士吗？还是反黑魔法师联盟的人？不管你们是谁...既然彼此的目的都很明确了，就不需要废话了...\r\n放马过来吧，蠢货们！");
 }
 
 function action(mode, type, selection) {

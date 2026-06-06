@@ -1,5 +1,0 @@
-<imgdir name="112101002">
-        <string name="name" value="豹之突袭" />
-        <string name="desc" value="冲向最近的敌人并跳跃攻击，释放毁灭性打击造成额外伤害。[前置技能]: #c豹之爪 Lv. 1#\n[指令]: #c雪豹冲锋#2次或以上攻击后触发" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[刀刃]#: 最大敌人数: #x, 伤害: #y%, 攻击次数: #z" />
-    </imgdir>

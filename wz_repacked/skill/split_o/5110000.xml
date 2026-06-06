@@ -1,5 +1,0 @@
-<imgdir name="5110000">
-        <string name="name" value="Stun Mastery" />
-        <string name="desc" value="Critical Rate increases when attacking stunned enemies. Attacks also have a chance to stun targets." />
-        <string name="h" value="Critical Rate when attacking stunned enemies: +#prop%, Stun Rate: #subProp%" />
-    </imgdir>

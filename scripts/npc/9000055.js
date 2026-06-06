@@ -11,21 +11,21 @@ function action(mode, type, selection) {
 	} else {
 		status++;
 		if (cm.getClient().getChannel() == 1) {
-			cm.sendNext("The event may not be attempted in channel 1.");
+			cm.sendNext("该活动不能在第1频道进行。");
 			cm.dispose();
 			return;
 		}
-		cm.sendNext("The event is not taking place at the moment.");
+		cm.sendNext("该活动目前未在进行中。");
 		cm.dispose();
 		/*if(status == 0){
-			cm.sendNext("Hi There~ It's the #bMaple Anniversary#k right now, do you wish to plant the Maple Tree with me? With the Sunlight from #bWarm Sun#k it can allow the tree to grow healthy! Please gather all the Warm Sun that you get from the monsters...");
+			cm.sendNext("你好~ 现在是#b枫之谷周年庆#k，你愿意和我一起种植枫树吗？用来自#b温暖阳光#k的阳光可以让树健康成长！请收集你从怪物那里获得的所有温暖阳光...");
 		} else if (status == 1) {
-			cm.sendSimple("Each time users collect the required warm sun, we can set the tree to grow to its maximum!\r\n#b#L0#Here, I brought the Warm Sun.#l#k\r\n#b#L1# Please show me the current status on collecting the Warm Sun.#l#k");
+			cm.sendSimple("每次玩家收集到所需的温暖阳光，我们就能让树成长到最大！\r\n#b#L0#给你，我带来了温暖阳光。#l#k\r\n#b#L1#请给我看看收集温暖阳光的当前进度。#l#k");
 		} else if (status == 2) {
 			if (selection == 0) {
-				cm.sendGetNumber("Did you bring the Warm Sun with you? Then please give me the #bWarm Sun#k you have. I will make a nice firecracker. How many are you willing to give me?", cm.itemQuantity(4001246), 0, cm.itemQuantity(4001246));
+				cm.sendGetNumber("你带温暖阳光来了吗？那么请把你收集的#b温暖阳光#k交给我。我会做一个漂亮的爆竹。你愿意给我多少？", cm.itemQuantity(4001246), 0, cm.itemQuantity(4001246));
 			} else {
-				cm.sendOk("Status of the tree's growth\r\n#B" + cm.getSunshines() + "#\r\nIf we collect them all, the tree would grow to it's fullest.");
+				cm.sendOk("枫树成长状态\r\n#B" + cm.getSunshines() + "#\r\n如果我们全部收集齐，树就会成长到最茂盛的状态。");
 				cm.dispose();
 			}
 		} else if (status == 3) {
@@ -33,11 +33,11 @@ function action(mode, type, selection) {
 				selection = cm.itemQuantity(4001246);
 			}
 			if (selection == 0) {
-				cm.sendOk("Please come back with some Warm Sun.");
+				cm.sendOk("请带着温暖阳光再来。");
 			} else {
 				cm.addSunshines(selection);
 				cm.gainItem(4001246, -selection);
-				cm.sendOk("Thank you for the Warm Sun.");
+				cm.sendOk("谢谢你的温暖阳光。");
 			}
 			cm.dispose();
 		}*/

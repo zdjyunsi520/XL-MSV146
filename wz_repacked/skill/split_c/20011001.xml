@@ -1,7 +1,0 @@
-<imgdir name="20011001">
-        <string name="name" value="恢复" />
-        <string name="desc" value="[最高等级：3]\n30秒内持续恢复一定量的HP。\n#c冷却时间：10分钟#" />
-        <string name="h1" value="MP -5，30秒内恢复24 HP" />
-        <string name="h2" value="MP -10，30秒内恢复48 HP" />
-        <string name="h3" value="MP -15，30秒内恢复72 HP。" />
-    </imgdir>

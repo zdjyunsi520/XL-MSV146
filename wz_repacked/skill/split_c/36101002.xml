@@ -1,5 +1,0 @@
-<imgdir name="36101002">
-        <string name="name" value="视角转换" />
-        <string name="desc" value="通过激活扫描器观察敌人弱点，暂时提升暴击率。消耗能量。" />
-        <string name="h" value="#x[供给]#\n能量消耗: #powerCon, 持续时间: #time秒, 暴击率: +#x%" />
-    </imgdir>

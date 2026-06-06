@@ -1,5 +1,0 @@
-<imgdir name="32111006">
-        <string name="name" value="Summon Reaper Buff" />
-        <string name="desc" value="Has a chance to summon a Reaper when you attack a  monster. The Reaper will attack nearby monsters when summoned. Does not affect bosses and some monsters." />
-        <string name="h" value="MP Cost: #mpCon, Summon Chance: #prop%, Buff Duration: #time sec\n- Reaper&apos;s Damage: #damage%\n- Reaper Duration: #x sec" />
-    </imgdir>

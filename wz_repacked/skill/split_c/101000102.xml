@@ -1,5 +1,0 @@
-<imgdir name="101000102">
-        <string name="name" value="空中暴动冲击波" />
-        <string name="desc" value="在空中暴动的普通攻击范围外产生大型冲击波。被击中的敌人有几率被眩晕。" />
-        <string name="h" value="对最多#mobCount个敌人造成#damage%伤害，攻击#attackCount次。\n敌人有#prop%几率被眩晕#time秒。" />
-    </imgdir>

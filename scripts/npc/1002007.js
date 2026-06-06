@@ -18,31 +18,31 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status >= 2) {
-	    cm.sendNext("There's a lot to see in this town, too. Come back and find us when you need to go to a different town.");
+	    cm.sendNext("这个城镇也有很多值得看的地方。需要去其他城镇的时候再来找我们吧。");
 	    cm.safeDispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("Hi! I drive the Lith Harbor Regular Cab. Would you like to travel to a different town? If so, try using my cab. I can take you to a different town for a cheap price.");
+	cm.sendNext("你好！我是里本港普通出租车的司机。你想去其他城镇吗？如果是的话，试试搭乘我的出租车吧。我可以低价送你去其他城镇。");
     } else if (status == 1) {
 	if (!cm.haveItem(4032313)) {
 	    var job = cm.getJob();
 	    if (job == 0 || job == 1000 || job == 2000) {
-		var selStr = "We have a special 90% discount for beginners. Choose your destination, for fees will change from place to place.#b";
+		var selStr = "我们对新手有九折优惠。请选择你的目的地，不同地方的收费不同。#b";
 		for (var i = 0; i < maps.length; i++) {
-		    selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + costBeginner[i] + " mesos)#l";
+		    selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + costBeginner[i] + " 金币)#l";
 		}
 	    } else {
-		var selStr = "Choose your destination, for fees will change from place to place.#b";
+		var selStr = "请选择你的目的地，不同地方的收费不同。#b";
 		for (var i = 0; i < maps.length; i++) {
-		    selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + cost[i] + " mesos)#l";
+		    selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + cost[i] + " 金币)#l";
 		}
 	    }
 	    cm.sendSimple(selStr);
 	} else {
-	    cm.sendNextPrev("Hey, since you have a Taxi Coupon, I can take you to the town indicated on the pass for free. It looks like your destination is #bHenesys#k!");
+	    cm.sendNextPrev("嘿，既然你有出租车优惠券，我可以免费送你到券上指定的城镇。看起来你的目的地是#b射手村#k！");
 	}
     } else if (status == 2) {
 	if (!cm.haveItem(4032313)) {
@@ -54,7 +54,7 @@ function action(mode, type, selection) {
 		sCost = rCost[selection];
 		show = cost[selection];
 	    }
-	    cm.sendYesNo("You don't have anything else to do here, huh? Do you really want to go to #b#m" + maps[selection] + "##k? It'll cost you #b" + show + " mesos#k.");
+	    cm.sendYesNo("你在这里没有其他事要做了吧？你真的想去#b#m" + maps[selection] + "##k吗？那要花费你#b" + show + " 金币#k。");
 	    selectedMap = selection;
 	} else {
 	    cm.gainItem(4032313, -1);
@@ -63,7 +63,7 @@ function action(mode, type, selection) {
 	}
     } else if (status == 3) {
 	if (cm.getMeso() < sCost) {
-	    cm.sendNext("You don't have enough mesos. Sorry to say this, but without them, you won't be able to ride the cab.");
+	    cm.sendNext("你没有足够的金币。很抱歉这么说，但没有金币你无法搭乘出租车。");
 	    cm.safeDispose();
 	} else {
 	    cm.gainMeso(-sCost);

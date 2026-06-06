@@ -1,8 +1,0 @@
-<imgdir name="1220006">
-        <string name="name" value="Guardian" />
-        <string name="desc" value="Increases your tolerance to all elemental attacks and abnormal status effects. Also has a chance to block enemy attacks when you&apos;re #cequipped with a shield#. When you block close-range attacks, you Stun the attacker." />
-        <string name="h" value="All Attribute Attack Tolerance: +#terR%, Abnormal Status Tolerance: +#asrR%, Block Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Increases your tolerance to all attribute attacks and abnormal statuses. Also has a chance to block enemy attacks when you&apos;re #cequipped with a shield#. When you block close-range attacks, you Stun the attacker." />
-        <string name="ph" value="All Attribute Attack Tolerance: +#terR%, Abnormal Status Tolerance: +#asrR%, Block Chance: #prop%, Stun Duration: #time sec" />
-        <string name="hch" value="All Attribute Attack Tolerance: +#terR%, Abnormal Status Tolerance: +#asrR%, Block Chance: #prop%, Chance to Stun Upon Blocking: #hcSubProp%, Duration: #hcTime sec" />
-    </imgdir>

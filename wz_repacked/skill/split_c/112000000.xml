@@ -1,5 +1,0 @@
-<imgdir name="112000000">
-        <string name="name" value="掌击" />
-        <string name="desc" value="攻击多个敌人3次。\n[指令]: 连续按#c攻击键#多次" />
-        <string name="h" value="前3次攻击: 伤害: #damage%, 最大敌人数: #mobCount, 最大攻击次数: #attackCount \n 第2、3次: MP消耗: #y" />
-    </imgdir>

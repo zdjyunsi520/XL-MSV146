@@ -21,15 +21,15 @@ function action(mode, type, selection) {
 				cm.getPlayer().unequipStarter();
 				cm.removeAll(optionB);
 			}
-			cm.sendNext("Congratulations! You've completed my tutorial. Now, it's time for you to embark on your epic journey. A whole world of adventure awaits you! It will dangerous to go unprotected so, as a parting gift, let me give you a little something to aid you on your journey.");
+			cm.sendNext("选择你的新手帽子\r\n\r\n#L0##i");
 		} else if (status == 1) {
-			cm.sendSimple("Select your starter hat\r\n\r\n#L0##i" + optionA + "# - Blue Starter Hat (Defense)#l\r\n#L1##i" + optionB + "# - Red Starter Hat (Attack)#l");
+			cm.sendSimple("# - 蓝色新手帽子(防御)#l\r\n#L1##i" + optionA + "# - 红色新手帽子(攻击)#l" + optionB + "给你。当你有需要时我一定会再联系你的。现在，看到我身后的电梯了吗？乘坐它就能到达银河自由市场。今天是一个特殊的日子，一个全新开始的日子。你是拥抱光明还是被黑暗吞噬？你的旅程现在开始！");
 		} else if (status == 2) {
 			if (selection == 0) {
-				cm.sendOk("Here you go. I will be sure to contact you again when the need arises. Now, see the elevator behind me? Take it and it will bring you to the Galaxy Free Market. Today marks a special day, a day of new beginnings. Will you embrace the comfort of light or be swallowed by the temptation of darkness? Your journey begins now!");
+				cm.sendOk("给你。当你有需要时我一定会再联系你的。现在，看到我身后的电梯了吗？乘坐它就能到达银河自由市场。今天是一个特殊的日子，一个全新开始的日子。你是拥抱光明还是被黑暗吞噬？你的旅程现在开始！");
 				cm.gainItem(optionA, 1); 
 			} else if (selection == 1) {
-				cm.sendOk("Here you go. I will be sure to contact you again when the need arises. Now, see the elevator behind me? Take it and it will bring you to the Galaxy Free Market. Today marks a special day, a day of new beginnings. Will you embrace the comfort of light or be swallowed by the temptation of darkness? Your journey begins now!");
+				cm.sendOk("给你。当你有需要时我一定会再联系你的。现在，看到我身后的电梯了吗？乘坐它就能到达银河自由市场。今天是一个特殊的日子，一个全新开始的日子。你是拥抱光明还是被黑暗吞噬？你的旅程现在开始！");
 				cm.gainItem(optionB, 1);
 			}
 		} else if (status == 3) {

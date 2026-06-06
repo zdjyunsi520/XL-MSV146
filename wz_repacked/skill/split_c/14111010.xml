@@ -1,8 +1,0 @@
-<imgdir name="14111010">
-        <string name="name" value="暗黑闪光" />
-        <string name="desc" value="暂时召唤暗黑领主的飞镖。附近的队员将反弹敌人伤害。反弹伤害不超过敌人最大HP的一半。" />
-        <string name="h" value="MP消耗：#mpCon，持续时间：#time秒，反弹伤害：#x%，冷却时间：#cooltime秒" />
-        <string name="pdesc" value="暂时召唤暗黑领主的飞镖。附近的队员将反弹敌人伤害。反弹伤害不超过敌人最大HP的一半。" />
-        <string name="ph" value="MP消耗：#mpCon，持续时间：#time秒，反弹伤害：#x%，冷却时间：#cooltime秒" />
-        <string name="hch" value="MP消耗：#mpCon，持续时间：#hcTime秒，反弹伤害概率：#hcProp%，反弹伤害：#hcReflect%，冷却时间：#cooltime秒" />
-    </imgdir>

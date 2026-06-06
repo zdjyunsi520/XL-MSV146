@@ -5,7 +5,7 @@
 
 function enter(pi) {
     if (pi.getPlayer().getKeyValue("1stJobTrialStatus") == null) {
-	pi.getPlayer().message("Please talk to Yuri first !");
+	pi.getPlayer().message("请先和尤莉对话！");
         return false;
     } else {
         pi.warp(219000000, "in03");

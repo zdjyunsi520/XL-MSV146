@@ -1,8 +1,0 @@
-<imgdir name="4321006">
-        <string name="name" value="Flying Assaulter" />
-        <string name="desc" value="Fly down through the sky to slash nearby enemies with a chance to stun.\nLv. 10 effect: Links to Lv. 15 Tornado Spin and Lv. 10 Bloody Storm\n#cMastery Book required to unlock Lv. 6#" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Monsters Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-        <string name="pdesc" value="Fly down through the sky to slash nearby enemies with a chance to stun.\nLv. 10 effect: Links to Lv. 15 Tornado Spin and Lv. 10 Bloody Storm\n#cMastery Book required to unlock Lv. 6# " />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #prop%, Stun Duration: #time sec\nCooldown: #cooltime sec" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount, Stun Chance: #hcProp%, Stun Duration: #hcTime sec\nCooldown: #cooltime sec" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="3101009">
-        <string name="name" value="Quiver Cartridge" />
-        <string name="desc" value="Lets you use 3 different special arrowheads. The quiver fills up again when you use all 3. #cPress the skill key to change the current arrowhead#. You will switch to the next arrowhead #cautomatically# if you use all of your current ones.\nBlood Arrow: Absorbs some damage as HP\nPoison Arrow: Does poison damage over time, stackable up to 3 times\nMagic Arrow: Shoots an additional magic arrow when attacking" />
-        <string name="h" value="Able to use #y3 Special Arrowheads. Automatically recharges.\nBlood Arrow: At #w% chance, absorbs #x% of damage dealt as HP\nPoison Arrow: At #dot% damage, deals damage-over-time for #dotTime sec. Stackable up to #dotSuperpos times\nMagic Arrow: Has a #u% chance to shoot a magic arrow of that does #damage% damage" />
-    </imgdir>

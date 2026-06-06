@@ -1,5 +1,5 @@
 function start() {
-	cm.sendYesNo("Do you want to really go out and abandon your duty?");
+	cm.sendYesNo("你真的要出去放弃你的任务吗？");
 }
 
 function action(mode, type, selection) {
@@ -33,7 +33,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         }
-        cm.sendYesNo("Do you want to really go out?");
+        cm.sendYesNo("你真的要出去吗？");
         
     } else if (status == 1) {
         var eim = cm.getPlayer().getEventInstance();

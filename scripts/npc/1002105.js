@@ -1,7 +1,7 @@
 var status = 0;
 
 function start() {
-    cm.sendYesNo("Would you like to go to Pantheon?");
+    cm.sendYesNo("你想前往万神殿吗？");
 }
 
 function action(mode, type, selection) {

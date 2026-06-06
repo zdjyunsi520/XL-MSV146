@@ -1,6 +1,0 @@
-<imgdir name="5310009">
-        <string name="name" value="Counter Crush" />
-        <string name="desc" value="When hit, there is a chance of countering the attack by swinging the cannon." />
-        <string name="h" value="#prop% chance of blocking an enemy attack and countering with #damage% damage. " />
-        <string name="hch" value="#hcProp% chance of blocking an enemy attack and countering with #damage% damage. " />
-    </imgdir>

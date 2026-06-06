@@ -1,7 +1,0 @@
-<imgdir name="4221001">
-        <string name="name" value="Assassinate" />
-        <string name="desc" value="Strikes an enemy&apos;s vital spot 4 times for extreme damage. The last hit will always be critical. Use during Dark Sight to deal additional damage. Use when your Body Count reaches 5 for even more damage." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Additional damage while using Dark Sight: #x%, x2.5 damage when you have a Body Count of 5" />
-        <string name="pdesc" value="Attacks enemy&apos;s vital spot 4 times consecutively to deal incredible damage. The last hit will always be critical. Use during Dark Sight to deal additional damage." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: 4, Additional damage while using Dark Sight: #x%" />
-    </imgdir>

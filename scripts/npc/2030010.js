@@ -3,7 +3,7 @@
  */
 
 function start() {
-    cm.sendYesNo("If you leave now, you'll have to start over. Are you sure you want to leave?");
+    cm.sendYesNo("如果你现在离开，就必须从头开始。你确定要离开吗？");
 }
 
 function action(mode, type, selection) {

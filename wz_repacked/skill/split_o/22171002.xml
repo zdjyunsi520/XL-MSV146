@@ -1,8 +1,0 @@
-<imgdir name="22171002">
-        <string name="name" value="Illusion" />
-        <string name="desc" value="The Dragon&apos;s clone attacks a monster consecutive times. A portion of the enemy&apos;s defense will be ignored." />
-        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%, Enemy DEF Ignored: #ignoreMobpdpR%, Stun Chance: #prop%" />
-        <string name="pdesc" value="The dragon&apos;s clone attacks a monster consecutive times." />
-        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%" />
-        <string name="hch" value="MP Cost: #mpCon, Number of Attacks: #attackCount, Damage: #damage%, Enemy DEF Ignored: #ignoreMobpdpR%, Stun Chance: #hcProp%" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="2201008">
-        <string name="name" value="冰冻光线" />
-        <string name="desc" value="向敌人降下尖锐的冰碎片造成伤害。被击中的敌人会冻结并减速。对火属性敌人可造成巨大伤害~" />
-        <string name="h" value="MP消耗: #mpCon, 最大敌人数: #mobCount, 伤害: #damage%, 攻击次数: #attackCount, 冻结时间: #time" />
-    </imgdir>

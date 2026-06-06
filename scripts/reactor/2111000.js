@@ -4,6 +4,6 @@
 */
 
 function act(){
-	rm.playerMessage(5, "Oh noes! Monsters in the chest!");
+	rm.playerMessage(5, "糟糕！宝箱里出现了怪物！");
 	rm.spawnMonster(9300004,3);
 }

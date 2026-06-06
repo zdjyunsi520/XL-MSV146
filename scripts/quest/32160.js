@@ -10,18 +10,18 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 2) {
-		    qm.sendNext("Are you too busy?");
+		    qm.sendNext("你太忙了吗？");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-		qm.sendNext("Something's wrong with Rien. The glaciers are melting!");
+		qm.sendNext("里恩出了问题。冰川正在融化！");
 	} else if (status == 1) {
         qm.sendNextPrev("...");
     } else if (status == 2) {	  
-	    qm.sendAcceptDecline("I need your help! Come visit me!\r\n\r\n#b#e(Press Accept to move to Rien.)#n#k");
+	    qm.sendAcceptDecline("我需要你的帮助！来找我吧！\r\n\r\n#b#e（点击接受传送到里恩。）#n#k");
     } else if (status == 3) {	 
-        qm.sendNext("I will meet you in Rien.");    
+        qm.sendNext("我们在里恩见。");    
     } else if (status == 4) {	 	   	
 		qm.warp(140000000,0);
 		qm.forceStartQuest();

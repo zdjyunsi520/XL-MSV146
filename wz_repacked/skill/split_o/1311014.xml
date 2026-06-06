@@ -1,7 +1,0 @@
-<imgdir name="1311014">
-        <string name="name" value="Evil Eye Shock" />
-        <string name="desc" value="Makes your Evil Eye scream, stunning and damaging nearby enemies. #cCasts automatically when first encountering enemies#." />
-        <string name="h" value="Max Enemies Hit: #mobCount, Damage: #damage%, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Makes your Evil Eye scream, stunning and damaging nearby enemies. #cCasts automatically when first encountering enemies#." />
-        <string name="ph" value="Max Enemies Hit: #mobCount, Damage: #damage%, Stun Chance: #prop%, Stun Duration: #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

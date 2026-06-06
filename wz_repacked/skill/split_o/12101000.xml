@@ -1,7 +1,0 @@
-<imgdir name="12101000">
-        <string name="name" value="Meditation" />
-        <string name="desc" value="Through meditation, you temporarily enhance the Magic Attack of all party members nearby." />
-        <string name="h" value="MP Cost: #mpCon, Magic ATT: +#indieMad, Duration: #time sec" />
-        <string name="pdesc" value="Through meditation, you temporarily enhance the Battle Mode Attack of all nearby team members." />
-        <string name="ph" value="MP Cost: #mpCon, Team Member Battle Mode ATT: +#PVPdamage, Duration: #time sec" />
-    </imgdir>

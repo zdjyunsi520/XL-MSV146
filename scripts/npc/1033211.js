@@ -19,9 +19,9 @@ function action(mode, type, selection) {
             status--;
             if (status == 0) {
 			if (cm.getPlayer().getLevel() >= 200 && cm.getPlayer().getJob() == 2312) {
-				cm.sendYesNo("Hi #r#h ##k, I see you dont have your #blevel 200 medal#k and #bEcho Of the Hero#k");
+				cm.sendYesNo("你好#r#h ##k，我看到你还没有#b200级勋章#k和#b英雄回响#k");
 			}else {
-				cm.sendOk("You are not a mercedes or level 200 silly.");
+				cm.sendOk("你不是一个梅塞德斯或者200级，别闹了。");
 				cm.dispose();
 			}
 			}else if (status == 1) {
@@ -32,11 +32,11 @@ function action(mode, type, selection) {
 			
 			} else {
 				if (cm.getPlayer().getSkillLevel(10001005) > 0) {
-				cm.sendOk("You already have this skill.");
+				cm.sendOk("你已经拥有这个技能了。");
                 } else {
 				cm.gainItem(1142340,1);//Medal
                 cm.teachSkill(10001005, 1, 1); // Echo of hero
-				cm.sendOk("Congratulations to you #r#h ##k");
+				cm.sendOk("恭喜你#r#h ##k");
 				}
 			cm.dispose();
 		}

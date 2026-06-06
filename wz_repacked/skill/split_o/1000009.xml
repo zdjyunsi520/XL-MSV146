@@ -1,5 +1,0 @@
-<imgdir name="1000009">
-        <string name="name" value="Warrior Mastery" />
-        <string name="desc" value="Trains up your warrior basics to increase Movement Speed, Jump, Max HP, and Max Movement Speed. Also grants a chance to resist knockback." />
-        <string name="h" value="Speed +#psdSpeed, Jump +#psdJump, Max Speed +#speedMax, Max HP per level +#lv2mhp. #stanceProp% chance to activate Power Stance effect." />
-    </imgdir>

@@ -11,21 +11,21 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNextS("Gelimer! Why did you move Lotus here without my authorization?",1);
+	    cm.sendNextS("兰-兰花夫人。你……来早了……",1);
 	} else if (status == 1) {
-	    cm.sendNextPrevS("M-madame Orchid. You are... early...", 1,0,9075004);
+	    cm.sendNextPrevS("闭上你的嘴，你这个油腻的老书呆子！没有我的允许，你不能动我弟弟！我的小洛特斯需要待在我身边，不然他会害怕的！", 1,0,9075004);
 	} else if (status == 2) {
-	    cm.sendNextPrevS("Shut your trap, you greasy old nerd! You don't move my brother unless I tell you to move my brother! My little Lotus needs to be near me or he'll get scared!",1);
+	    cm.sendNextPrevS("请小声点，亲爱的。有一些新的进展……",1);
 	} else if (status == 3) {
-	    cm.sendNextPrevS("Please lower your voice, dear. There have been some developments...", 1,0,9075004);
+	    cm.sendNextPrevS("我正在发展一种想烧掉你胡须的冲动，格里梅尔。你觉得你还能拖延这些实验多久？洛特斯几个月前就该醒了。你知道如果你不成功我会怎么对你吧？", 1,0,9075004);
 	} else if (status == 4) {
-	    cm.sendNextPrevS("I'm developing a need to set your mustache on fire, Gelimer. How long do you think you can keep delaying these experiments? Lotus should have been awake months ago. You know what I'm going to do to you if you don't succeed, don't you?",1);
+	    cm.sendNextPrevS("洛特斯很快就会苏醒，我向你保证。他会醒来的，很快……",1);
 	} else if (status == 5) {
-	    cm.sendNextPrevS("Lotus will awaken soon, I assure you. He will wake up, very soon...", 1,0,9075004);
+	    cm.sendNextPrevS("你想要更多时间？那就去买块新表！我现在就要我弟弟醒来！", 1,0,9075004);
 	} else if (status == 6) {
-	    cm.sendNextPrevS("You want more time? Then buy a new watch! I want my brother awake now!",1);
+	    cm.sendNextPrevS("也许他只需要听到你的声音……来，看看吧。",1);
 	} else if (status == 7) {
-	     cm.sendNextPrevS("Perhaps he only needs to hear your voice... Come, take a look.", 1,0,9075004);
+	     cm.sendNextPrevS("也许他只需要听到你的声音……来，看看吧。", 1,0,9075004);
    } else if (status == 8) {
 	    cm.warp(957020002);
         cm.dispose();

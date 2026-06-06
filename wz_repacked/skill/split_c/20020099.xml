@@ -1,5 +1,0 @@
-<imgdir name="20020099">
-        <string name="name" value="冰霜粉碎" />
-        <string name="pdesc" value="将斧头变为巨剑冻结多个敌人。冰量表充能到#c20以上#时可用。\n[指令：#c上方向键+攻击键#]" />
-        <string name="ph" value="冰量表消耗：#iceGageCon，伤害：#damage%，最大攻击目标数：#mobCount，冰冻概率：#prob%，冰冻持续时间：#time 秒" />
-    </imgdir>

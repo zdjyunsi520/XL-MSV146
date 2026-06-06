@@ -1,5 +1,0 @@
-<imgdir name="101120204">
-        <string name="name" value="高级暴风斩" />
-        <string name="desc" value="更强力的暴风斩。提升伤害并有几率一击必杀。同时创建移动旋涡带电场，持续伤害附近敌人~\n[前置技能]: #c暴风斩 Lv. 20#" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 最大敌人数: #mobCount, 最大攻击次数: #attackCount, 一击必杀几率: #prop%\n#c[旋涡]#: 最大敌人数: #x, 每0.5秒伤害: #y%, 攻击次数: #z, 旋涡持续时间: #t秒。\n#c[电场]#: 最大敌人数: #u 持续时间: #v 伤害: 每#w秒#s%" />
-    </imgdir>

@@ -1,8 +1,0 @@
-<imgdir name="1111003">
-        <string name="name" value="恐慌" />
-        <string name="desc" value="对多个敌人造成伤害并降低其攻击力，有几率使其致盲。需要连击数2以上才能使用。恐慌的致盲效果适用于所有怪物，#c但对BOSS持续时间减半#。" />
-        <string name="h" value="消耗#mpCon MP和#y个连击球，最大敌人数: #mobCount, 伤害: #damage%, 敌人攻击力: -#z%。暗影攻击和致盲效果以#prop%几率发动时，敌人命中值: -#x%持续#time秒。在#subTime秒内使用时，额外消耗1个连击球" />
-        <string name="pdesc" value="对多个敌人造成伤害并降低其攻击力，有几率使其致盲。需要连击数2以上才能使用。恐慌的致盲效果适用于所有怪物，#c但对BOSS持续时间减半#。" />
-        <string name="ph" value="消耗#mpCon MP和#y个连击球，最大敌人数: #mobCount, 伤害: #damage%, 敌人攻击力: -#z%。暗影攻击和致盲效果以#prop%几率发动时，敌人命中值: -#x%持续#time秒。在#subTime秒内使用时，额外消耗1个连击球" />
-        <string name="hch" value="消耗#mpCon MP和#y个连击球，最大敌人数: #mobCount, 伤害: #damage%, 敌人攻击力: -#z%。暗影攻击和致盲效果以#prop%几率发动时，敌人命中值: -#x%持续#time秒。在#subTime秒内使用时，额外消耗1个连击球" />
-    </imgdir>

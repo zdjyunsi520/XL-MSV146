@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("Please go find Jane in El Nath for more information.");
+	qm.sendNext("请去冰原雪域找简了解更多信息。");
 	qm.forceStartQuest();
 	qm.forceCompleteQuest();
 	qm.dispose();

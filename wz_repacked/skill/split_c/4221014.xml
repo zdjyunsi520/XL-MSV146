@@ -1,5 +1,0 @@
-<imgdir name="4221014">
-        <string name="name" value="暗杀" />
-        <string name="desc" value="反复攻击敌人要害造成巨大伤害。前三击后再次使用技能键造成巨大暴击伤害。暴击后将不再隐身。隐身时使用暗杀伤害增加。杀戮计分为5时造成更多伤害~" />
-        <string name="h" value="MP消耗: #mpCon，伤害: #damage%，连续攻击次数: #attackCount，再次按技能键以#s%伤害进行最后一击，最后一击必定暴击。使用隐身术时额外伤害#x%。杀戮计分为5时伤害提升1.5倍" />
-    </imgdir>

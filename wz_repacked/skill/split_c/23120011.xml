@@ -1,7 +1,0 @@
-<imgdir name="23120011">
-        <string name="name" value="旋转月瀑" />
-        <string name="desc" value="在用升龙突刺将敌人挑飞后使用的连击技能。在空中旋转攻击敌人。此外，永久提升升龙突刺的伤害。" />
-        <string name="h" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount\n被动效果 - 升龙突刺伤害：+#damR%" />
-        <string name="pdesc" value="在用升龙突刺将敌人挑飞后使用的连击技能。在空中旋转攻击敌人。此外，永久提升升龙突刺的伤害。" />
-        <string name="ph" value="主动效果 - MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount，攻击次数：#attackCount\n被动效果 - 升龙突刺伤害：+#damR%" />
-    </imgdir>

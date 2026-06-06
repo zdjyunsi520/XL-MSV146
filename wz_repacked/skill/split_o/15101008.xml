@@ -1,7 +1,0 @@
-<imgdir name="15101008">
-        <string name="name" value="Dark Clarity" />
-        <string name="desc" value="Calms your heart to provide a temporary increase to Weapon Attack and Accuracy." />
-        <string name="h" value="MP Cost: #mpCon, Weapon ATT: +#indiePad, Accuracy: #acc, Duration: #time sec" />
-        <string name="pdesc" value="Calms your heart to provide a temporary increase to Weapon Attack and Accuracy." />
-        <string name="ph" value="MP Cost: #mpCon, Weapon ATT: +#PVPdamage, Accuracy: #acc, Duration: #time sec" />
-    </imgdir>

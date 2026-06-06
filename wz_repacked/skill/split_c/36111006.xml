@@ -1,5 +1,0 @@
-<imgdir name="36111006">
-        <string name="name" value="投影发生器" />
-        <string name="desc" value="创建一个你的投影，能造成部分你的伤害。当投影受到与你HP成比例的伤害时会消失。投影无法复制精确弹幕或神盾系统。" />
-        <string name="h" value="MP Cost: #mpCon, Creates a clone hologram. Projection Damage: #y%. Projection disappears after losing #x00% of your max HP." />
-    </imgdir>

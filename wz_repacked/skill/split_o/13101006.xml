@@ -1,7 +1,0 @@
-<imgdir name="13101006">
-        <string name="name" value="Wind Walk" />
-        <string name="desc" value="Borrows the power of the wind to temporarily hide yourself. Attacking in Wind Walk state will deal bonus damage additional damage as well as make you visible." />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec, Speed: -#y.\nDamage: #damage%" />
-        <string name="pdesc" value="Borrows the power of the wind to temporarily hide yourself. Attacking in Wind Walk state will deal bonus damage additional damage as well as make you visible." />
-        <string name="ph" value="MP Cost: #mpCon, Duration: #time sec, Speed: -#y\nDamage: #damage%, Cooldown: #cooltime sec" />
-    </imgdir>

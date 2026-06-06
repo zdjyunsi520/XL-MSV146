@@ -1,7 +1,0 @@
-<imgdir name="33111006">
-        <string name="name" value="Swipe" />
-        <string name="desc" value="Your Jaguar consecutively swipes nearby enemies, absorbing some of the damage dealt as HP for you. You cannot absorb more than 15% of your Max HP or more than the enemy&apos;s Max HP." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Hits: #attackCount, Max Monsters Hit: #mobCount, absorbs #x% of the damage as HP" />
-        <string name="pdesc" value="Your Jaguar consecutively swipes at nearby enemies, absorbing some of the damage dealt as HP for you. You cannot absorb more than 15% of your Max HP or more than the enemy&apos;s Max HP." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Absorbs #x% of the damage as HP" />
-    </imgdir>

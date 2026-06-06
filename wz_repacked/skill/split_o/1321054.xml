@@ -1,5 +1,0 @@
-<imgdir name="1321054">
-        <string name="name" value="Dark Thirst" />
-        <string name="desc" value="Channels your inner vampire to increase Weapon ATT and sap life from enemies for a short time." />
-        <string name="h" value="MP Cost: #mpCon, Bonus Weapon ATT: #indiePad, Duration: #time sec, Drained:  #x%, capped at current Max HP. \nCooldown: #cooltime sec" />
-    </imgdir>

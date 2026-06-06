@@ -1,7 +1,0 @@
-<imgdir name="2221005">
-        <string name="name" value="艾尔奎因斯" />
-        <string name="desc" value="短时间内召唤艾尔奎因斯。艾尔奎因斯可同时攻击多个敌人，学习此技能后永久提升熟练度~\n前置技能: #c魔法熟练 Lv. 10以上#" />
-        <string name="h" value="MP消耗: #mpCon，召唤艾尔奎因斯持续时间: #time秒，对最多3个敌人同时造成#damage%伤害。\n[被动效果: 永久提升熟练度#mastery%]" />
-        <string name="pdesc" value="短时间内召唤艾尔奎因斯。艾尔奎因斯可同时攻击多个敌人，学习此技能后永久提升熟练度~\n前置技能: #c魔法熟练 Lv. 10以上#" />
-        <string name="ph" value="MP消耗: #mpCon，召唤艾尔奎因斯持续时间: #time秒，对最多3个敌人同时造成#damage%伤害。\n[被动效果: 永久提升熟练度#mastery%]" />
-    </imgdir>

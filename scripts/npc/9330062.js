@@ -11,7 +11,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status == 1 && mode == 0) {
-	cm.sendNext("Well I understand if you are scared. Just don't hesitate to look for me if you ever want to head to Ximending");
+	cm.sendNext("由于恶魔史莱姆的入侵，火车服务已暂停。不过如果你愿意，你可以进入并穿过火车车厢前往西门町。");
 	cm.dispose();
 	return;
     }
@@ -20,9 +20,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Due to an invasion of Devil Slimes, the train service has been halted. However if you wish to, you can enter and walk through the train cabins to Ximending.");
+	cm.sendNext("你想进入吗？");
     } else if (status == 1) {
-	    cm.sendYesNo("Would you like to enter?");
+	    cm.sendYesNo("你想进入吗？");
     } else if (status == 2) {
 	cm.warp(742000101, 4);
 	cm.dispose();

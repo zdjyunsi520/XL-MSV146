@@ -1,5 +1,0 @@
-<imgdir name="101101200">
-        <string name="name" value="Flash Assault" />
-        <string name="desc" value="Instantly moves forward, damaging enemies in your path." />
-        <string name="h" value="Time Force Cost: #forceCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount\n#cCooldown: #cooltime sec#" />
-    </imgdir>

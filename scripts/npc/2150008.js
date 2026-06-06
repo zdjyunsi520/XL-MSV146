@@ -1,11 +1,11 @@
 function start() {
     if (cm.isQuestActive(23121)) {
-	cm.sendOk("Quest complete.");
+	cm.sendOk("任务完成。");
 	cm.forceCompleteQuest(23121);
 	cm.dispose();
 	return;
     }
-    cm.sendSimple("#b\r\n#L0#Victoria Island#l\r\n#L1#Orbis#l#k");
+    cm.sendSimple("#b\r\n#L0#维多利亚岛#l\r\n#L1#天空之城#l#k");
 }
 
 function action(mode,type,selection) {

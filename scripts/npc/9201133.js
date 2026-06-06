@@ -8,7 +8,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else if (cm.getPlayer().getMapId() == 677000013) { //warp to another astaroth map.
 			if (cm.getParty() == null) {
-				cm.sendOk("You must be in a party to enter.");
+				cm.sendOk("已经有人在尝试击败亚斯塔罗了。");
 			} else {
 				var party = cm.getParty().getMembers();
 				var mapId = cm.getMapId();
@@ -27,12 +27,12 @@ function action(mode, type, selection) {
 				}
 				if (next) {
 					if (cm.getMap(677000012).getCharactersSize() > 0) {
-						cm.sendOk("There are people attempting to defeat Astaroth already.");
+						cm.sendOk("你需要至少两名在同一地图的队伍成员。");
 					} else {
 						cm.warpParty(677000012);
 					}
 				} else {
-					cm.sendOk("You need a party of at least two in the same map.");
+					cm.sendOk("你需要至少两名在同一地图的队伍成员。");
 				}
 			}
 		cm.dispose();

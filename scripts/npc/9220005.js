@@ -3,7 +3,7 @@
 */
 
 function start() {
-    cm.sendYesNo("Do you want to go to the Extra Frosty Snow Zone ?");
+    cm.sendYesNo("你想前往超级冰雪区域吗？");
 }
 
 function action(mode, type, selection) {

@@ -8,7 +8,7 @@ status = -1;
 sel = -1;
 
 function start() {
-    cm.sendNext("#eWelcome to Instagram !Here you can to upload photos from the internet and other peoples from the server can see them!\r\n#r(!! Based of XxОsirisxX System !!)\r\n(!! Made by MechAviv(avivii12345) !!)#k");
+    cm.sendNext("你想做什么？\r\n\r\n#b#L0#查看我的留言板，如果我有朋友的话。#l\r\n#L1#在我的留言板上发照片，好让别人羡慕我。#l\r\n#L2#偷窥朋友的留言板。#l");
 }
 
 function action(mode, type, selection) {
@@ -19,12 +19,12 @@ function action(mode, type, selection) {
     }
     switch (status) {
     case 0x00:
-        cm.sendSimple("What do you want to do?\r\n\r\n#b#L0#Check my wall if I ever have any friend.#l\r\n#L1#Post photo in my wall, so I can brag about myself to others.#l\r\n#L2#Stalk a friend wall.#l");
+        cm.sendSimple("#h #的留言板！\r\n");
         break;
     case 0x01:
         sel = selection;
         if (sel == 0) {
-            var wall = "#h # wall!\r\n";
+            var wall = "#b#L0#我想回到主菜单！#l";
             for (var i = 0; i < cm.getPlayer().getInstagram().getMessages().size(); i++) {
                 wall += "\r\n----------------------------------------------\r\n";
                 wall += "\t\t\t\t\t\t\t\t\t\t\t\t#L-1" + cm.getPlayer().getInstagram().getMessages().get(i).getPostId() + "##i3991023##l\r\n"
@@ -32,14 +32,14 @@ function action(mode, type, selection) {
                 wall += "\r\n\r\n";
             }
             wall += "\r\n----------------------------------------------\r\n";
-            wall += "#b#L0#I wanna go back to main menu!#l";
+            wall += "在这里输入照片网址";
             cm.sendSimple(wall);
         } else if (sel == 1) {
-            cm.sendGetText("Type photo url here");
+            cm.sendGetText("输入你想偷窥的'朋友'的名字（他不是你朋友，他在说谎）。");
         } else if (sel == 2) {
-            cm.sendGetText("Type the name of the 'friend' (He is not your friend, he lies) you wants to stalk.");
+            cm.sendGetText("去吃培根吧，再见！");
         } else {
-            cm.sendNext("Go eat a bacon, bye!");
+            cm.sendNext("照片已成功删除。");
             cm.dispose();
         }
         break;
@@ -56,7 +56,7 @@ function action(mode, type, selection) {
                 switch (act) {
                     case 0x01: //Remove
                         cm.removePhoto(postid);
-                        cm.sendNext("Photo removed succesfully.");
+                        cm.sendNext("你的照片已成功上传！");
                         break;
                     default:
                         cm.sendNext("Bacon.");
@@ -67,24 +67,24 @@ function action(mode, type, selection) {
         } else if (sel == 1) {
             if(cm.isExists(cm.getText())) {
             cm.postPhoto(cm.getText());
-            cm.sendNext("Your photo was uploaded succesfully!");
+            cm.sendNext("未找到该照片...");
             status = -1;
             } else {
-                cm.sendNext("The photo was not found...");
+                cm.sendNext("未找到该用户名...");
             }
         } else if (sel == 2) {
             if (cm.checkWall(cm.getText())) {
-                var wall = "#h # wall!\r\n";
+                var wall = "#b#L0#我想回到主菜单！#l";
                 for (var i = 0; i < cm.getPlayer().getInstagram().getStalk().getMessages().size(); i++) {
                     wall += "\r\n----------------------------------------------\r\n";
                     wall += cm.getPlayer().getInstagram().getStalk().getMessages().get(i).getMessage();
                     wall += "\r\n\r\n";
                 }
                 wall += "\r\n----------------------------------------------\r\n";
-                wall += "#b#L0#I wanna go back to main menu!#l";
+                wall += "在这里输入照片网址";
                 cm.sendSimple(wall);
             } else {
-                cm.sendNext("The username was not found...");
+                cm.sendNext("未找到该用户名...");
             }
             status = -1;
         }

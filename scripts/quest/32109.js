@@ -26,21 +26,21 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("You think YOU can find the missing children? How do you propose to do that?");
+	    qm.sendNext("你觉得你能找到失踪的孩子？你打算怎么做？");
 	} else if (status == 1) {
-	    qm.sendNextPrevS("#bI'd like to look through the childrens' rooms.",6);	
+	    qm.sendNextPrevS("#b我想看看孩子们的房间。",6);	
     } else if (status == 2) {	 
-	    qm.sendNext("Do you think you can find some clues in their things? That might actually work...");
+	    qm.sendNext("你觉得能在他们的物品中找到线索吗？这可能行得通……");
     } else if (status == 3) {
-	    qm.sendNextPrevS("You're just looking for a way to steal from us! Headmistress Ivana, we must not listen to these cunning strangers!",4,1500002);	
+	    qm.sendNextPrevS("你只是想找机会偷我们的东西！伊万娜女校长，我们绝不能听信这些狡猾的陌生人！",4,1500002);	
     } else if (status == 4) {
-	    qm.sendNextPrev("I have not given them my full trust, but the safety of those students must be our top priority. We have no choice but to allow them some leeway.");
+	    qm.sendNextPrev("我还没有完全信任他们，但这些学生的安全必须是我们最优先考虑的。我们没有选择，只能给他们一些自由。");
     } else if (status == 5) {
-	    qm.sendNextPrev("#b#h ##k. I will grant you permission to search the academy. You shall be restricted to the dormitories on the second and third floors. And do be careful. The academy was constructed with a number of defenses to ward off intruders and I do not feel the need to have them deactivated, considering the situation.");
+	    qm.sendNextPrev("#b#h ##k。我允许你搜查学院。你只能在二楼的宿舍和三楼活动。请务必小心。学院建造时设置了许多防御机关来抵御入侵者，考虑到目前的情况，我觉得没有必要关闭它们。");
 	} else if (status == 6) {
-	    qm.sendNextPrevS("I've got my eye on you, outsider.",4,1500002);	
+	    qm.sendNextPrevS("我会盯着你的，外人。",4,1500002);	
  	} else if (status == 7) {
-	    qm.sendNextPrevS("We'll find those precious children, no matter what it takes! I'll meet you on the second floor.\r\n#b(Head to the 2nd floor of Ellinel Fairy Academy and meet Cootie the Really Small.)",4,1500000);	
+	    qm.sendNextPrevS("不惜一切代价我们也要找到那些珍贵的孩子们！我在二楼等你。\r\n#b（前往艾丽涅精灵学院的二楼，找到真的很小的库蒂。）",4,1500000);	
 	} else if (status == 8) {
 		qm.forceCompleteQuest();
 		qm.gainExp(1600);

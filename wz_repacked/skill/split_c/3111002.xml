@@ -1,6 +1,0 @@
-<imgdir name="3111002">
-        <string name="name" value="傀儡" />
-        <string name="desc" value="在一段时间内召唤一个傀儡（分身）。傀儡存在时，怪物会攻击傀儡而不是你。" />
-        <string name="h" value="MP Cost: #mpCon, Puppet HP: #x, Duration: #time sec" />
-        <string name="hch" value="MP Cost: #mpCon, Puppet HP: #hcSummonHp, Duration: #time sec" />
-    </imgdir>

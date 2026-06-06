@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 			break;
 		default:
 			if (!cm.canHold(4001158,1)) {
-				cm.sendOk("Please make one ETC room.");
+				cm.sendOk("请腾出一个其他物品栏的空间。");
 				cm.dispose();
 				return;
 			}

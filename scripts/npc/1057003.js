@@ -27,7 +27,7 @@ if (mode == 1)
 else 
    status--;
     if (status == 0) { 
-		cm.sendOk("Hoot.. hoot");
+		cm.sendOk("咕.. 咕");
 		
 	}
 }

@@ -1,7 +1,0 @@
-<imgdir name="2201005">
-        <string name="name" value="Thunder Bolt" />
-        <string name="desc" value="Creates a powerful magnetic field that fires down lightning bolts on up to 6 enemies. " />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Creates a powerful magnetic field that fires lightning bolts at multiple enemies." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

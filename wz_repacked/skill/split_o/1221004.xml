@@ -1,8 +1,0 @@
-<imgdir name="1221004">
-        <string name="name" value="Divine Charge" />
-        <string name="desc" value="Instantly grants the Holy Attribute to your weapon to deal Holy damage to enemies and silence them. #cAttack Knocked Out enemies with the Lightning Charge skill to inflict more damage# on them." />
-        <string name="pdesc" value="Instantly grants the Holy Attribute to your weapon to deal Holy damage to enemies and silence them. #cAttack Knocked Out enemies with the Lightning Charge skill to inflict more damage# on them." />
-        <string name="h" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. A #prop% chance to silence enemies for #time sec. #cAttack Knocked Out enemies with Lightning Charge to deal #z% more damage# on them." />
-        <string name="ph" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. A #prop% chance to silence enemies for #time sec. #cAttack Knocked Out enemies with Lightning Charge to deal #z% more damage# on them." />
-        <string name="hch" value="MP Cost: #mpCon. Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. A #prop% chance to silence enemies for #time sec. #cAttack Knocked Out enemies with Lightning Charge to deal #z% more damage# on them." />
-    </imgdir>

@@ -25,51 +25,51 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-    cm.sendSimple ("#bHey! I'm the skill maxer of Maple Blade. I max skills by job :)! What skills do you want to max?" +
+    cm.sendSimple ("#k\r\n#L6##r炎术师" +
                  "#k\r\n#L1##rMagician" +
                  "#k\r\n#L2##rThief" +
                  "#k\r\n#L3##rWarrior" +
                  "#k\r\n#L4##rArcher" +
                  "#k\r\n#L5##rPirate" +
-                 "#k\r\n#L6##rBlaze Wizard" +
-                 "#k\r\n#L7##rNight Walker" +
-                 "#k\r\n#L8##rDawn Warrior" +
-                 "#k\r\n#L9##rWind Breaker" +
-                 "#k\r\n#L10##rThunder Breaker" +
+                 "#k\r\n#L7##r夜行者" +
+                 "#k\r\n#L8##r魂骑士" +
+                 "#k\r\n#L9##r风灵使者" +
+                 "#k\r\n#L10##r奇袭者" +
+                 "你确定吗？" +
                  "#k\r\n#L11##rAran");
       } else if (selection == 1) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L12##rYes");
       } else if (selection == 2) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L13##rYes");
       } else if (selection == 3) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L14##rYes");
       } else if (selection == 4) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L15##rYes");
       } else if (selection == 5) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L16##rYes");
                   } else if (selection == 6) {
-      cm.sendSimple ("Are you sure?" +
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
             "#k\r\n#L17##rYes");
       } else if (selection == 7) {
-      cm.sendSimple ("Are you sure?" +
-            "#k\r\n#L18##r Yes");
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
+            "#k\r\n#L19##r 是的");
       } else if (selection == 8) {
-      cm.sendSimple ("Are you sure?" +
-            "#k\r\n#L19##r Yes");
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
+            "#k\r\n#L20##r 是的");
       } else if (selection == 9) {
-      cm.sendSimple ("Are you sure?" +
-            "#k\r\n#L20##r Yes");
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
+            "#k\r\n#L21##r 是的");
       } else if (selection == 10) {
-      cm.sendSimple ("Are you sure?" +
-            "#k\r\n#L21##r Yes");
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
+            "#k\r\n#L22##r 是的");
                   } else if (selection == 11) {
-      cm.sendSimple ("Are you sure?" +
-            "#k\r\n#L22##r Yes");
+      cm.sendSimple ("#k\r\n#L18##r 是的" +
+            "你的技能已满级！ :)");
       } else if (selection == 12) {
 //Start of Beginner Skills
 cm.teachSkill(1000,3,3); //Three Snails
@@ -171,7 +171,7 @@ cm.teachSkill(2321008,30,30); //Genesis
 cm.teachSkill(2321009,5,5); //Hero's Will
 //End of Bishop Skills
 //End of Magician Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();                       
             } else if (selection == 13) {
                 //Start of Beginner Skills
@@ -245,7 +245,7 @@ cm.teachSkill(4221001,30,30); //Assassinate
 cm.teachSkill(4221008,5,5); //Hero's Will
 //End of Shadower Skills
 //End of Rouge Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 14) {
                 //Start of Beginner Skills
@@ -362,7 +362,7 @@ cm.teachSkill(1320009,25,25); //Beholder's Buff
 cm.teachSkill(1321010,5,5); //Hero's Will
 //End of Dark Knight Skills
 //End of Swordsman Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 15) {
                 //Start of Beginner Skills
@@ -436,7 +436,7 @@ cm.teachSkill(3221007,30,30); //Sniping - Crossbow
 cm.teachSkill(3221008,5,5); //Hero's Will - Crossbow
 //End of Marksman Skills
 //End of Archer Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 16) {
                 //Start of Beginner Skills
@@ -512,7 +512,7 @@ cm.teachSkill(5221009,20,20); //Hypnotize
 cm.teachSkill(5221010,5,5); //Speed Infusion
 //End of Crosair Skills
 //End of Pirate Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
             } else if (selection == 17) {
 //Start of Noblesse Skills
@@ -546,7 +546,7 @@ cm.teachSkill(12111004,20,20); // Ifrit
 cm.teachSkill(12111005,30,30); // Flame Gear
 cm.teachSkill(12111006,30,30); // Fire Strike
 //End of Blaze Wizard Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 18) {
         //Start of Noblesse Skills
@@ -581,7 +581,7 @@ cm.teachSkill(14110004,20,20); // Venom
 cm.teachSkill(14111005,20,20); // Triple Throw
 cm.teachSkill(14111006,30,30); // Poison Bomb
 //End of Night Walker Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
             } else if (selection == 19) {
         //Start of Noblesse Skills
@@ -615,7 +615,7 @@ cm.teachSkill(11110005,20,20); // Advance Combo
 cm.teachSkill(11111006,30,30); // Soul Blow
 cm.teachSkill(11111007,20,20); // Soul Charge
 //End of Dawn Warrior Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 20) {
         //Start of Noblesse Skills
@@ -648,7 +648,7 @@ cm.teachSkill(13111005,10,10); // Eagle Eye
 cm.teachSkill(13111006,20,20); // Wind Piercing 
 cm.teachSkill(13111007,20,20); // Wind Shot 
 //End of Wind Breaker Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
                   } else if (selection == 21) {
         //Start of Noblesse Skills
@@ -682,11 +682,11 @@ cm.teachSkill(15111005,20,20); // Speed Infusion
 cm.teachSkill(15111006,20,20); // Spark
 cm.teachSkill(15111007,30,30); // Shark Wave
 //End of Thunder Breaker Skills
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       } else if (selection == 22) {
         cm.maxAranskills();
-        cm.sendOk("Your skills are maxed now! :)");
+        cm.sendOk("你的技能已满级！ :)");
         cm.dispose();
       
       }

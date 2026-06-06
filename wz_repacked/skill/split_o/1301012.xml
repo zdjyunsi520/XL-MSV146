@@ -1,7 +1,0 @@
-<imgdir name="1301012">
-        <string name="name" value="Spear Sweep" />
-        <string name="pdesc" value="Swings your weapon far to pull in enemies and have a chance to stun them." />
-        <string name="desc" value="Swings your weapon far to pull in enemies and stun them for a moment." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount, pull enemies in your direction and stun them" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Hits: #attackCount, pull enemies in your direction and stun them" />
-    </imgdir>

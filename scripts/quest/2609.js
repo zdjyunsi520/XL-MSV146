@@ -26,11 +26,11 @@ function end(mode, type, selection) {
           return;
         }
        if (status == 0) {
-           qm.sendNext("you look rather green. Are you ill? You're poisoned? Did Ryden tell you that? The potion was just apple juice. Couldn't you tell? Anyway, Ryden was just meaking a point...");
+           qm.sendNext("你看起来脸色不太好。你生病了吗？你中毒了？莱登告诉你的？那药水只是苹果汁。你尝不出来吗？不管怎样，莱登只是想说明一点……");
        }else if (status == 1){
-           qm.sendNextPrev("Don't even THINK about betraying us. The Dual Blades do not forgive their enemies...");
+           qm.sendNextPrev("想都别想背叛我们。双刀不会原谅他们的敌人……");
        }else if (status == 2){
-           qm.sendYesNo("The look in your eyes, the lift in your shoulders. You seem ready. Do you wish to advance to Rouge? Once you do, you can begin your REAL missions.");
+           qm.sendYesNo("你眼中的神采，你肩膀的姿态。你看起来准备好了。你想进阶为盗贼吗？一旦进阶，你就可以开始你真正的任务了。");
            qm.forceCompleteQuest();
            qm.changeJob(400);
            qm.getItem(1332063);

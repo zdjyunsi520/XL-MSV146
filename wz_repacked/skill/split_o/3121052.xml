@@ -1,5 +1,0 @@
-<imgdir name="3121052">
-        <string name="name" value="Gritty Gust" />
-        <string name="desc" value="Blasts nearby enemies with a gust of wind to tear them apart." />
-        <string name="h" value="MP Cost: #mpCon, Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, #dot% damage every #dotTime sec.\nCooldown: #cooltime sec" />
-    </imgdir>

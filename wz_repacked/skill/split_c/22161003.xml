@@ -1,7 +1,0 @@
-<imgdir name="22161003">
-        <string name="name" value="恢复光环" />
-        <string name="desc" value="短暂地在周围生成恢复光环。光环内所有队员的HP和MP将持续恢复。" />
-        <string name="h" value="HP消耗：#hpCon，MP消耗：#mpCon，每#time 秒恢复#x%HP和MP\n冷却时间：1分钟" />
-        <string name="pdesc" value="在一定时间内生成恢复光环。光环内所有队员的MP将持续恢复。" />
-        <string name="ph" value="HP消耗：#hpCon，MP消耗：#mpCon，每#time 秒恢复#x%HP和MP\n冷却时间：1分钟" />
-    </imgdir>

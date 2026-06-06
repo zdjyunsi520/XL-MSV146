@@ -1,7 +1,0 @@
-<imgdir name="4001003">
-        <string name="name" value="隐身术" />
-        <string name="desc" value="暂时隐入暗影之中~隐身术激活期间无法攻击也不会被攻击，但可以使用闪跃技能。再次按技能键解除隐身术。" />
-        <string name="h" value="MP消耗: #mpCon, 持续时间: #time秒。" />
-        <string name="pdesc" value="暂时隐入暗影之中~隐身术激活期间无法攻击也不会被攻击，但可以使用闪跃技能。再次按技能键解除隐身术。" />
-        <string name="ph" value="MP消耗: #mpCon, 持续时间: #time秒。" />
-    </imgdir>

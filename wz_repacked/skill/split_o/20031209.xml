@@ -1,5 +1,0 @@
-<imgdir name="20031209">
-        <string name="name" value="Judgment Draw" />
-        <string name="desc" value="Uses up your entire stack of cards to pull out one card and grant additional effects to that card&apos;s attack. Can only been used when your deck is full." />
-        <string name="h" value="MP Cost: #mpCon, Attacks with Carte Blanche #u times. Grants one of the following effects:\n#cDestin Card:# Critical Rate +#v%\n#cMalheur Card:# Item Drop Rate +#w%" />
-    </imgdir>

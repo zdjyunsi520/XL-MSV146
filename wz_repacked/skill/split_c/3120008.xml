@@ -1,7 +1,0 @@
-<imgdir name="3120008">
-        <string name="name" value="高级终极攻击" />
-        <string name="desc" value="永久提升攻击力和命中率，大幅提升终极攻击的伤害和发动率。需要技能手册才能精通到30级。\n需要技能：#c终极攻击 Lv. 20#" />
-        <string name="h" value="Permanently increases ATT by #padX and Accuracy by #ar%. Upon attacking, has #prop% chance of activating #damage% damage Final Attack" />
-        <string name="pdesc" value="永久提升攻击力和命中率。大幅提升终极攻击的伤害和发动率。\n需要技能：#c终极攻击 Lv. 20#" />
-        <string name="ph" value="Permanently increases ATT by #padX and Accuracy by #ar%. Also has a #prop% chance of activating #damage% Final Attack" />
-    </imgdir>

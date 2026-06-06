@@ -7,7 +7,7 @@ var selected;
 
 function start() {
     status = 0;
-    cm.sendSimple("Get on an airplane to fly far and wide. It's quite refreshing. I'm retired now, but I can still give you some flying tips. #b\r\n\r\n#L0# I want to rent an Airplane.#l\r\n#L1# Explain more about the Airplane.#l\r\n#L2# What kinds of Airplanes are available?#l\r\n#L3# I want to buy an Auto-Pilot Continental Permit!#l");
+    cm.sendSimple("你想租用哪架飞机？\r\n#b\r\n#L0# #fSkill/8000.img/skill/80001027/iconMouseOver# 木质飞机（1天） #r10,000金币#b#l\r\n#L1# #fSkill/8000.img/skill/80001027/iconMouseOver# 木质飞机（7天） #r50,000金币#b#l\r\n#L2# #fSkill/8000.img/skill/80001028/iconMouseOver# 红色飞机（1天） #r30,000金币#b#l\r\n#L3# #fSkill/8000.img/skill/80001028/iconMouseOver# 红色飞机（7天） #r150,000金币#b#l");
 }
 
 function action(mode, type, selection) {
@@ -20,21 +20,21 @@ function action(mode, type, selection) {
         case 1:
             selected = selection;
             if (selected == 0) {
-                cm.sendSimple("Which airplane would you like to rent?\r\n#b\r\n#L0# #fSkill/8000.img/skill/80001027/iconMouseOver# Wooden Airplane (1 day) #r10,000 mesos#b#l\r\n#L1# #fSkill/8000.img/skill/80001027/iconMouseOver# Wooden Airplane (7 days) #r50,000 mesos#b#l\r\n#L2# #fSkill/8000.img/skill/80001028/iconMouseOver# Red Airplane (1 day) #r30,000 mesos#b#l\r\n#L3# #fSkill/8000.img/skill/80001028/iconMouseOver# Red Airplane (7 days) #r150,000 mesos#b#l");//todo handle this
+                cm.sendSimple("你……你不知道飞机是什么？嗯，这也算是新事物。它嘛，有点像你拥有的坐骑，但可以带你飞很远，比如到其他大陆。");//todo handle this
             } else if (selected == 1) {
-                cm.sendNext("You... You don't know what an airplane is? Well, I guess it is a little new. It's, er, a bit like the mounts that you have, but can take you long distances, like to other continents.");
+                cm.sendNext("有两种飞机可供租用。第一种是#b木质飞机#k，价格便宜且可靠。另一种是#b红色飞机#k，价格较贵，但速度更快，能比木质飞机快2分钟到达目的地。");
             } else if (selected == 2) {
-                cm.sendOk("There are two airplanes that can be rented. The first is the #bWooden Airplane#k. It's inexpensive and reliable. The other is the #bRed Airplane#k. This one is more pricey, but flies faster, and will get you to your destination 2 minutes quicker.");
+                cm.sendOk("你想购买哪种许可证？\r\n#b\r\n#L0# 冰雪峡谷飞行许可证（永久） #r10000金币#b#l\r\n#L2# 鲁德斯湖飞行许可证（永久） #r100000金币#b#l\r\n#L3# 水下世界飞行许可证（永久） #r500000金币#b#l\r\n#L1# 米纳尔森林飞行许可证（永久） #r2000000金币#b#l");
                 cm.dispose();            
 			} else if (selected == 3) {
-                cm.sendSimple("Which permit you want to purchase?\r\n#b\r\n#L0# El Nath Flight Permit (Permanent) #r10000 mesos#b#l\r\n#L2# Ludus Lake Flight Permit (Permanent) #r100000 mesos#b#l\r\n#L3# Aqua Road Flight Permit (Permanent) #r500000 mesos#b#l\r\n#L1# Minar Forest Flight Permit (Permanent) #r2000000 mesos#b#l");
+                cm.sendSimple("当然你不能飞到所有大陆。你可以从#b天空之城#k搭乘飞机飞往#b维多利亚岛、耶雷弗、埃德尔斯坦、玩具城、阿里安特、武陵或神木村#k。当然也可以反向飞行。最后，你还可以从#b埃德尔斯坦#k飞往#b维多利亚岛#k，反之亦然。这些是你目前可以搭乘飞机前往的目的地……其他地方还太危险了……");
             }
             break;
         case 2:
             if (selected == 0) {//handle
                 cm.dispose();
             } else if (selected == 1) {
-                cm.sendNextPrev("'Course you can't fly to any continent. You can fly to #bVictoria Island, Ereve, Edelstein, Ludibrium, Ariant, Mu Lung, or Leafre#k from #bOrbis#k, using the airplane. You can also fly the opposite route, of course. Lastly, you can fly to #bVictoria Island#k from #bEdelstein#k, and vice-versa. These are the only locations you can take an airplane to... The others are a bit too dangerous yet...");
+                cm.sendNextPrev("如果你想搭乘飞机前往某地，可以和各种运营洲际航班的工作人员对话，比如#b天空之城车站的车站向导伊莎#k或#b前往天空之城车站的樱桃乘务员#k。");
             } else if (selected == 3) {//handle
                 cm.dispose();
             }
@@ -43,14 +43,14 @@ function action(mode, type, selection) {
             if (selected == 0) {//handle
                 cm.dispose();
             } else if (selected == 1) {
-                cm.sendNextPrev("If you want to go somewhere using an airplane, talk to the various people running the Intercontinental flights like #bIsa the Station Guide#k at Orbis Station or #bCherry Cabin Crew#k at Station to Orbis.");
+                cm.sendNextPrev("就是这些了。还有什么问题吗？");
 			}
             break;
         case 4:
             if (selected == 0) {
                 cm.dispose();
 			} else if (selected == 1) {
-                cm.sendOk("That's it. Any more questions?");
+                cm.sendOk("就是这些了。还有什么问题吗？");
 				cm.dispose();
 			}	
             break;

@@ -1,8 +1,0 @@
-<imgdir name="22171003">
-        <string name="name" value="火焰轮" />
-        <string name="desc" value="生成火焰轮旋入前方怪物，造成火属性伤害。被命中的敌人持续受到伤害。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount，持续伤害：#dot%伤害，持续#dotTime 秒。" />
-        <string name="pdesc" value="生成火焰轮一次攻击前方大量怪物，造成火属性伤害。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击目标数：#mobCount，攻击次数：#attackCount，冷却时间：#cooltime 秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，攻击次数：#attackCount，最大攻击目标数：#mobCount，持续伤害：#dot%伤害，持续#dotTime 秒。\n冷却时间：#hcCooltime 秒" />
-    </imgdir>

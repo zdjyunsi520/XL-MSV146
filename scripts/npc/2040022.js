@@ -26,9 +26,9 @@ function action(mode, type, selection) {
     else
 	cm.dispose();
     if (status == 0 && mode == 1) {
-	var selStr = "Ah, you've found me! I spend most of my time here, working on weapons to make for travellers like yourself. Did you have a request?#b"
-	var options = new Array("What's a stimulator?","Create a Warrior weapon","Create a Bowman weapon","Create a Magician weapon","Create a Thief weapon",
-	    "Create a Warrior weapon with a Stimulator","Create a Bowman weapon with a Stimulator","Create a Magician weapon with a Stimulator","Create a Thief weapon with a Stimulator");
+	var selStr = "啊，你找到我了！我大部分时间都待在这里，为像你这样的旅行者制作武器。你有什么需求吗？#b"
+	var options = new Array("什么是刺激剂？","制作战士武器","制作弓箭手武器","制作魔法师武器","制作飞侠武器",
+	    "制作战士武器 with a Stimulator","制作弓箭手武器 with a Stimulator","制作魔法师武器 with a Stimulator","制作飞侠武器 with a Stimulator");
 	for (var i = 0; i < options.length; i++){
 	    selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 	}
@@ -47,33 +47,33 @@ function action(mode, type, selection) {
 	else
 	    stimulator = false;
 	if (selectedType == 0) { //What's a stim?
-	    cm.sendNext("A stimulator is a special potion that I can add into the process of creating certain items. It gives it stats as though it had dropped from a monster. However, it is possible to have no change, and it is also possible for the item to be below average. There's also a 10% chance of not getting any item when using a stimulator, so please choose wisely.")
+	    cm.sendNext("刺激剂是一种特殊的药水，我可以在制作某些物品的过程中加入它。它会让物品获得像怪物掉落时一样的属性。但是，有可能不会产生任何变化，也有可能物品属性低于平均值。使用刺激剂还有10%的几率制作失败，所以请谨慎选择。")
 	    cm.dispose();
 	}
 	else if (selectedType == 1){ //warrior weapon
-	    selStr = "Very well, then which Warrior weapon shall I work on?#b";
-	    weapon = new Array ("Gladius#k - Lv. 30 One-Handed Sword#b","Cutlus#k - Lv. 35 One-Handed Sword#b","Traus#k - Lv. 40 One-Handed Sword#b","Jeweled Katar#k - Lv. 50 One-Handed Sword#b","Fireman's Axe#k - Lv. 30 One-Handed Axe#b","Dankke#k - Lv. 35 One-Handed Axe#b","Blue Counter#k - Lv. 40 One-Handed Axe#b","Buck#k - Lv. 50 One-Handed Axe#b",
-		"War Hammer#k - Lv. 30 One-Handed BW#b","Heavy Hammer#k - Lv. 35 One-Handed BW#b","Jacker#k - Lv. 40 One-Handed BW#b","Knuckle Mace#k - Lv. 50 One-Handed BW#b","Scimitar#k - Lv. 30 Two-Handed Sword#b","Lionheart#k - Lv. 35 Two-Handed Sword#b","Zard#k - Lv. 40 Two-Handed Sword#b","Lion's Fang#k - Lv. 50 Two-Handed Sword#b",
-		"Blue Axe#k - Lv. 30 Two-Handed Axe#b","Niam#k - Lv. 35 Two-Handed Axe#b","Sabretooth#k - Lv. 40 Two-Handed Axe#b","The Rising#k - Lv. 50 Two-Handed Axe#b","Mithril Maul#k - Lv. 30 Two-Handed BW#b","Sledgehammer#k - Lv. 35 Two-Handed BW#b","Titan#k - Lv. 40 Two-Handed BW#b","Golden Mole#k - Lv. 50 Two-Handed BW#b",
-		"Forked Spear#k - Lv. 30 Spear#b","Nakimaki#k - Lv. 35 Spear#b","Zeco#k - Lv. 40 Spear#b","Serpent's Tongue#k - Lv. 50 Spear#b","Mithril Polearm#k - Lv. 30 Polearm#b","Axe Polearm#k - Lv. 35 Polearm#b","Crescent Polearm#k - Lv. 40 Polearm#b","The Nine Dragons#k - Lv. 50 Polearm#b");
+	    selStr = "好的，那么你要制作哪把战士武器呢？#b";
+	    weapon = new Array ("格拉迪乌斯#k - Lv. 30 单手剑#b","卡特鲁斯#k - Lv. 35 单手剑#b","特劳斯#k - Lv. 40 单手剑#b","宝石卡塔#k - Lv. 50 单手剑#b","消防斧#k - Lv. 30 单手斧#b","丹克#k - Lv. 35 单手斧#b","蓝色反击斧#k - Lv. 40 单手斧#b","巴克#k - Lv. 50 单手斧#b",
+		"战锤#k - Lv. 30 单手钝器#b","重锤#k - Lv. 35 单手钝器#b","杰克锤#k - Lv. 40 单手钝器#b","拳头锤#k - Lv. 50 单手钝器#b","弯刀#k - Lv. 30 双手剑#b","狮心#k - Lv. 35 双手剑#b","扎德#k - Lv. 40 双手剑#b","狮牙#k - Lv. 50 双手剑#b",
+		"蓝色战斧#k - Lv. 30 双手斧#b","尼亚姆#k - Lv. 35 双手斧#b","剑齿斧#k - Lv. 40 双手斧#b","崛起#k - Lv. 50 双手斧#b","秘银大锤#k - Lv. 30 双手钝器#b","大锤#k - Lv. 35 双手钝器#b","泰坦#k - Lv. 40 双手钝器#b","黄金鼹鼠锤#k - Lv. 50 双手钝器#b",
+		"分叉矛#k - Lv. 30 枪#b","中卷#k - Lv. 35 枪#b","泽科#k - Lv. 40 枪#b","蛇舌#k - Lv. 50 枪#b","秘银 polearm #k - Lv. 30 polearm#b","斧枪#k - Lv. 35 polearm#b","新月枪#k - Lv. 40 polearm#b","九龙头枪#k - Lv. 50 polearm#b");
 	}
 	else if (selectedType == 2){ //bowman weapon
-	    selStr = "Very well, then which Bowman weapon shall I work on?#b";
-	    weapon = new Array ("Ryden#k - Lv. 30 Bow#b","Red Viper#k - Lv. 35 Bow#b","Vaulter 2000#k - Lv. 40 Bow#b","Olympus#k - Lv. 50 Bow#b","Eagle Crow#k - Bowman Lv. 32#b","Heckler#k - Bowman Lv. 38#b","Silver Crow#k - Bowman Lv. 42#b","Rower#k - Bowman Lv. 50#b");
+	    selStr = "好的，那么你要制作哪把弓箭手武器呢？#b";
+	    weapon = new Array ("瑞登#k - Lv. 30 弓#b","红蝰蛇#k - Lv. 35 弓#b","沃尔特2000#k - Lv. 40 弓#b","奥林帕斯#k - Lv. 50 弓#b","鹰鸦弩#k - 弓箭手 Lv. 32#b","黑勒弩#k - 弓箭手 Lv. 38#b","银鸦弩#k - 弓箭手 Lv. 42#b","罗威尔弩#k - 弓箭手 Lv. 50#b");
 	}
 	else if (selectedType == 3){ //magician weapon
-	    selStr = "Very well, then which Magician weapon shall I work on?#b";
-	    weapon = new Array ("Mithril Wand#k - Lv. 28 Wand#b","Wizard Wand#k - Lv. 33 Wand#b","Fairy Wand#k - Lv. 38 Wand#b","Cromi#k - Lv. 48 Wand#b","Wizard Staff#k - Lv. 25 Staff#b","Arc Staff#k - Lv. 45 Staff#b","Thorns#k - Lv. 55 Staff#b");
+	    selStr = "好的，那么你要制作哪把魔法师武器呢？#b";
+	    weapon = new Array ("秘银短杖#k - Lv. 28 短杖#b","巫师短杖#k - Lv. 33 短杖#b","精灵短杖#k - Lv. 38 短杖#b","克罗米#k - Lv. 48 短杖#b","巫师长杖#k - Lv. 25 长杖#b","奥术长杖#k - Lv. 45 长杖#b","荆棘长杖#k - Lv. 55 长杖#b");
 	}
 	else if (selectedType == 4){ //thief weapon; claws vary depending if stimulator is being used
-	    selStr = "Very well, then which Thief weapon shall I work on?#b";
+	    selStr = "好的，那么你要制作哪把飞侠武器呢？#b";
 	    if (!stimulator)
-		weapon = new Array ("Reef Claw#k - Lv. 30 LUK Dagger#b","Cass#k - Lv. 30 STR Dagger#b","Gephart#k - Lv. 35 LUK Dagger#b","Bazlud#k - Lv. 40 STR Dagger#b","Sai#k - Lv. 50 STR Dagger#b","Shinkita#k - Lv. 50 LUK Dagger#b",
-		    "Steel Guards#k - Lv. 30 Claw#b","Bronze Guardian#k - Lv. 35 Claw#b","Steel Avarice#k - Lv. 40 Claw#b","Steel Slain#k - Lv. 50 Claw#b");
+		weapon = new Array ("礁石爪#k - Lv. 30 LUK匕首#b","卡斯#k - Lv. 30 STR匕首#b","格法特#k - Lv. 35 LUK匕首#b","巴兹路德#k - Lv. 40 STR匕首#b","萨伊#k - Lv. 50 STR匕首#b","新木刀#k - Lv. 50 LUK匕首#b",
+		    "钢制护手#k - Lv. 30 拳套#b","青铜守护者#k - Lv. 35 拳套#b","钢铁贪婪#k - Lv. 40 拳套#b","钢铁杀手#k - Lv. 50 拳套#b");
 	    else
-		weapon = new Array ("Reef Claw#k - Lv. 30 LUK Dagger#b","Cass#k - Lv. 30 STR Dagger#b","Gephart#k - Lv. 35 LUK Dagger#b","Bazlud#k - Lv. 40 STR Dagger#b","Sai#k - Lv. 50 STR Dagger#b","Shinkita#k - Lv. 50 LUK Dagger#b",
-		    "Mithril Guards#k - Lv. 30 Claw#b","Adamantium Guards#k - Lv. 30 Claw#b","Silver Guardian#k - Lv. 35 Claw#b","Dark Guardian#k - Lv. 35 Claw#b","Blood Avarice#k - Lv. 40 Claw#b","Adamantium Avarice#k - Lv. 40 Claw#b",
-		    "Dark Avarice#k - Lv. 40 Claw#b","Blood Slain#k - Lv. 50 Claw#b","Sapphire Slain#k - Lv. 50 Claw#b","Dark Slain#k - Lv. 50 Claw#b");
+		weapon = new Array ("礁石爪#k - Lv. 30 LUK匕首#b","卡斯#k - Lv. 30 STR匕首#b","格法特#k - Lv. 35 LUK匕首#b","巴兹路德#k - Lv. 40 STR匕首#b","萨伊#k - Lv. 50 STR匕首#b","新木刀#k - Lv. 50 LUK匕首#b",
+		    "秘银护手#k - Lv. 30 拳套#b","adamantium护手#k - Lv. 30 拳套#b","银色守护者#k - Lv. 35 拳套#b","暗色守护者#k - Lv. 35 拳套#b","血色贪婪#k - Lv. 40 拳套#b","adamantium贪婪#k - Lv. 40 拳套#b",
+		    "暗色贪婪#k - Lv. 40 拳套#b","血色杀手#k - Lv. 50 拳套#b","蓝宝石杀手#k - Lv. 50 拳套#b","暗色杀手#k - Lv. 50 拳套#b");
 	}
 		
 	if (selectedType != 0)
@@ -154,7 +154,7 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "You want me to make a #t" + item + "#? In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
+	var prompt = "你想让我制作#t" + item + "#？那样的话，我需要你提供特定的材料才能制作。请确保你的背包有足够的空间！#b";
 
 	if(stimulator){
 	    stimID = mats[0] - 998; //stim ID for a weapon = manual ID for weapon - 998
@@ -171,14 +171,14 @@ function action(mode, type, selection) {
 	}
 		
 	if (cost > 0)
-	    prompt += "\r\n#i4031138# " + cost + " meso";
+	    prompt += "\r\n#i4031138# " + cost + " 金币";
 		
 	cm.sendYesNo(prompt);
     } else if (status == 3 && mode == 1) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost) {
-	    cm.sendOk("I'm afraid you cannot afford my services.")
+	    cm.sendOk("恐怕你付不起我的服务费用。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -201,7 +201,7 @@ function action(mode, type, selection) {
 	}
 			
 	if (!complete)
-	    cm.sendOk("Sorry, but you're missing a required item. Possibly a manual? Or one of the ores?");
+	    cm.sendOk("抱歉，你缺少了一个必需的材料。可能是手册？或者是某种矿石？");
 	else {
 	    if (mats instanceof Array) {
 		for (var i = 0; i < mats.length; i++){
@@ -217,13 +217,13 @@ function action(mode, type, selection) {
 		var deleted = Math.floor(Math.random() * 10);
 		if (deleted != 0) {
 		    cm.gainItem(item, 1, true);
-		    cm.sendOk("Heeere you go! What do you think? Marvellous, isn't it?");
+		    cm.sendOk("给你！觉得怎么样？很棒吧？");
 		} else {
-		    cm.sendOk("...ACK! My attention wandered, and before I knew it... Uh, sorry, but there's nothing I can do for you now.");
+		    cm.sendOk("……啊！我一走神，等我反应过来就……呃，抱歉，我无能为力了。");
 		}
 	    } else { //just give basic item
 		cm.gainItem(item, 1);
-		cm.sendOk("Heeere you go! What do you think? Marvellous, isn't it?");
+		cm.sendOk("给你！觉得怎么样？很棒吧？");
 	    }
 	}
 	cm.dispose();

@@ -1,5 +1,0 @@
-<imgdir name="101111100">
-        <string name="name" value="旋转突击" />
-        <string name="desc" value="利用巨剑的重量在原地旋转，产生旋风吸引敌人。" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount\n#c冷却时间: #cooltime秒#" />
-    </imgdir>

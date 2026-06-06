@@ -6,18 +6,18 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendNext("Oh, what? Aren't you going to have breakfast? Breakfast is the most important meal of the day! Talk to me again if you change your mind. If you don't, I'm going to eat it myself.");
+			qm.sendNext("哦，什么？你不吃早餐吗？早餐是一天中最重要的一餐！如果你改变主意了再和我对话。如果你不吃，我就自己吃了。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendNext("Did you feed #p1013102#? You should have some breakfast now then, Evan. Today's breakfast is a #t2022620#. I've brought it with me. Hee hee. I was going to eat it myself if you didn't agree to feed #p1013102#.");
+		qm.sendNext("你喂完#p1013102#了吗？那你现在应该吃早餐了，埃文。今天的早餐是#t2022620#。我带来了。嘻嘻。本来如果你不同意去喂#p1013102#的话我就打算自己吃了。");
 	else if (status == 1)
-		qm.sendAcceptDecline("Here, I'll give you this #bSandwich#k, so #bgo talk to mom when you finish eating#k. She says she has something to tell you.");
+		qm.sendAcceptDecline("来，我给你这个#b三明治#k，所以#b吃完后去和妈妈说话#k。她说有话要跟你说。");
 	else if (status == 2){
 		qm.forceStartQuest();
-		qm.PlayerToNpc("#b(Mom has something to say? Eat your #t2022620# and head back inside the house.)#k");
+		qm.PlayerToNpc("#b(妈妈有话说？吃掉你的#t2022620#然后回屋里去。)#k");
 		qm.gainItem(2022620, 1);
 	}else if (status == 3){
 		qm.evanTutorial("UI/tutorial/evan/3/0" , 1);
@@ -36,7 +36,7 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendNext("Did you eat your breakfast, Evan? Then, will you do me a favor?\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#i1003028# 1 #t1003028#  \r\n#i2022621# 5 #t2022621#s \r\n#i2022622# 5 #t2022622# \r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 60 exp");
+		qm.sendNext("你吃早餐了吗，埃文？那么，你能帮我一个忙吗？\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#i1003028# 1个 #t1003028#  \r\n#i2022621# 5个 #t2022621# \r\n#i2022622# 5个 #t2022622# \r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 60 经验");
 	 if (status == 1){
 		qm.forceCompleteQuest();
 		qm.evanTutorial("UI/tutorial/evan/4/0" , 1);

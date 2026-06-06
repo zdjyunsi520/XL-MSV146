@@ -1,7 +1,0 @@
-<imgdir name="0001197">
-        <string name="name" value="Oz&apos;s Flame" />
-        <string name="desc" value="Summons a spirit that automatically performs an area attack on the enemies you are fighting. Skill level increases by 1 every 15 levels." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
-        <string name="pdesc" value="Summons a spirit to attack nearby monsters." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Duration: #time sec" />
-    </imgdir>

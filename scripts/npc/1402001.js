@@ -7,53 +7,53 @@ function action(mode, type, selection) {
     //}
     status++;
     if (status == 0)
-        cm.sendNextS("Kidan! Old pa! You really don't remember me? We say hello all the time!", 2);
+        cm.sendNextS("基丹！老大爷！你真的不记得我了吗？我们天天打招呼的！", 2);
     else if (status == 1)
-        cm.sendNextPrev("Oh, um, sorry about that...");
+        cm.sendNextPrev("哦，嗯，对不起……");
     else if (status == 2)
-        cm.sendNextPrevS("It's okay old chum, I know you're seeing countless people coming through. It can't be easy to remember all of them, but I was hoping you'd ad least remember ME.", 2);
+        cm.sendNextPrevS("没关系老伙计，我知道你每天看到无数人从这里经过。记住所有人确实不容易，但我还是希望你能至少记得我。", 2);
     else if (status == 3)
-        cm.sendNextPrev("H-hey! I said I was sorry! This place is like a madhouse right now.\r\nYou can't blame a guy for missing a few faces.");
+        cm.sendNextPrev("嘿-嘿！我都说了对不起了！这里现在简直像个疯人院。\r\n你不能因为漏记了几张面孔就怪我嘛。");
     else if (status == 4)
-        cm.sendNextPrevS("It's really that bad?", 2);
+        cm.sendNextPrevS("真的那么糟糕吗？", 2);
     else if (status == 5)
-        cm.sendNextPrev("Of course! We've got some new royal lady claiming that Empress Cygnus may be a fake! How could anyone feel at ease?!");
+        cm.sendNextPrev("当然了！有个新的皇室女人声称女皇丝格娜可能是假的！这种事谁能安心？！");
     else if (status == 6)
-        cm.sendNextPrevS("That's a good point. That's why I'm here!", 2);
+        cm.sendNextPrevS("说得也是。所以我才来这里！", 2);
     else if (status == 7)
-        cm.sendNextPrev("It's got me pretty worried too. Even the Empress looked worried.\r\nShe was white as a ghost when I saw her...");
+        cm.sendNextPrev("我也挺担心的。连女皇看起来也很忧虑。\r\n我见到她时，她脸色苍白如鬼……");
     else if (status == 8)
-        cm.sendNextPrevS("Not looking forward to having a new empress, Kidan?", 2);
+        cm.sendNextPrevS("不想迎来一位新女皇吗，基丹？", 2);
     else if (status == 9)
-        cm.sendNextPrev("I would never wish ill of Empress Cygnus! We could not be where we are today without her leadership. But if this new woman's claims are true...");
+        cm.sendNextPrev("我绝不会对女皇丝格娜有丝毫不敬！没有她的领导，我们不可能走到今天。但如果这个新女人的说法是真的……");
     else if (status == 10)
-        cm.sendNextPrevS("Do you really think there is another member of the Empress's bloodline?", 2);
+        cm.sendNextPrevS("你真的认为女皇血脉中还有其他人吗？", 2);
     else if (status == 11)
-        cm.sendNextPrev("This Hilla woman insisted that she was a descendant to the last Empress.");
+        cm.sendNextPrev("那个叫希拉的女人坚称自己是末代女皇的后裔。");
     else if (status == 12)
-        cm.sendNextPrevS("That would explain the foul mood.", 2);
+        cm.sendNextPrevS("难怪气氛这么紧张。", 2);
     else if (status == 13)
-        cm.sendNextPrev("Indeed. If Shinsoo were here, she could clear this up.\r\nUnfortunately she is not.");
+        cm.sendNextPrev("确实如此。如果神兽在这里，她就能澄清一切。\r\n可惜她不在。");
     else if (status == 14)
-        cm.sendNextPrev("Why did that woman insist on holding the conference today of all days?!");
+        cm.sendNextPrev("为什么那个女人偏偏选在今天召开会议？！");
     else if (status == 15)
-        cm.sendNextPrevS("It seems awfully convenient, doesn't it?", 2);
+        cm.sendNextPrevS("看起来时机也太巧了吧，不是吗？", 2);
     else if (status == 16)
-        cm.sendNextPrev("I hope this works out. What are we going to do if Cygnus isn't the real empress? I have devoted myself to her.");
+        cm.sendNextPrev("我希望事情能顺利解决。如果丝格娜不是真正的女皇，我们该怎么办？我已经把自己的一切都奉献给她了。");
     else if (status == 17)
-        cm.sendNextPrev("Ereve can't split into two. It would be chaos.");
+        cm.sendNextPrev("艾琳不能分裂成两派。那样会天下大乱的。");
     else if (status == 18)
-        cm.sendNextPrevS("Don't worry too much, Kidan. I have a feeling these things will all work out.", 2);
+        cm.sendNextPrevS("别太担心了，基丹。我有预感一切都会好起来的。", 2);
     else if (status == 19)
-        cm.sendNextPrev("I wish I had your optimism. At any rate, this Hilla character must be quite confident to call all these people here.");
+        cm.sendNextPrev("我要是有你那种乐观就好了。不管怎样，这个叫希拉的人一定很有信心才敢把所有人都召集到这里来。");
     else if (status == 20)
-        cm.sendNextPrevS("Confidence is required of both truthsayers and liars. You never know. Maybe someone INCREDIBLE will come swooping in to clear this up.", 2);
+        cm.sendNextPrevS("说真话的人和说谎的人都需要自信。谁知道呢。也许会有什么了不起的人出现来澄清一切。", 2);
     else if (status == 21)
-        cm.sendNextPrev("What does that mean? Why are you talking like that?");
+        cm.sendNextPrev("那是什么意思？你为什么那样说话？");
     else if (status == 22)
-        cm.sendNextPrevS("Don't worry yourself! I'm sure I'll see you after everything is said and done.", 2);
+        cm.sendNextPrevS("别担心！我确信一切尘埃落定后我们还会再见的。", 2);
     else if (status == 23)
-        cm.sendPrev("Uh...okay, see you.");
+        cm.sendPrev("呃……好吧，再见。");
     else
         cm.dispose();
 }

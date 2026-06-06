@@ -1,8 +1,0 @@
-<imgdir name="1220010">
-        <string name="name" value="高级冲锋" />
-        <string name="desc" value="提升各属性冲锋技能的攻击范围、攻击次数和圣光强击攻击次数。使用冲锋技能时有几率瞬间消灭敌人~" />
-        <string name="h" value="每个冲锋的总伤害: #x%, 武器攻击力: 最多提升#y，冲锋技能最大目标数: +#targetPlus，圣光强击和冲锋技能攻击次数: +#attackCount，使用冲锋技能攻击时#prop%几率瞬间消灭敌人" />
-        <string name="pdesc" value="提升各属性冲锋技能的攻击范围、攻击次数和圣光强击攻击次数。使用冲锋技能时有几率瞬间消灭敌人~" />
-        <string name="ph" value="每个冲锋的总伤害: #x%, 武器攻击力: 最多提升#y，冲锋技能最大目标数: +#targetPlus，圣光强击和冲锋技能攻击次数: +#attackCount，使用冲锋技能攻击时#prop%几率瞬间消灭敌人" />
-        <string name="hch" value="每个冲锋的总伤害: #x%, 武器攻击力: 最多提升#y，冲锋技能最大目标数: +#targetPlus，圣光强击和冲锋技能攻击次数: +#attackCount，使用冲锋技能攻击时#prop%几率瞬间消灭敌人" />
-    </imgdir>

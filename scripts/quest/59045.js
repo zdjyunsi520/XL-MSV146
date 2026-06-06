@@ -9,16 +9,16 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 1) {
-		    qm.sendOk("Psssh. Chicken. Unlike me, you must be TERRIFIED of kobolds.");
+		    qm.sendOk("切。胆小鬼。和我不同，你一定很怕狗头人。");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("Remember that kobold hideout I mentioned last time? I've got a favor to ask. I lost something there... I think one of them must've picked it up and stashed it in their pouch.");
+	    qm.sendNext("还记得上次我提到的那个狗头人巢穴吗？我有件事想请你帮忙。我在那里丢了东西……我想一定是它们中的一个捡到了，塞进了它们的袋子里。");
 	} else if (status == 1) {
-	    qm.sendYesNo("(Can you get 30 #t4034003# items from #o9390914# monsters in #m866000130#?\r\n(You'll be moved there if you accept.)");
+	    qm.sendYesNo("（你能从#m866000130#的#o9390914#怪物那里获得30个#t4034003#吗？\r\n（如果你接受，将被传送到那里。）");
 	} else if (status == 2) {
-	    qm.sendNext("Thanks! I promise I'll tout great tales of your marvelous deeds if you find the thing I'm looking for!");	
+	    qm.sendNext("谢谢！如果你找到了我要的东西，我保证会到处宣扬你的丰功伟绩！");	
 	} else if (status == 3) {
 	    qm.forceStartQuest();
 		qm.forceCompleteQuest();

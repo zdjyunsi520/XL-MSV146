@@ -26,11 +26,11 @@ function action(mode, type, selection) {
         status++;
     }
     if (status == 0) {
-        cm.sendSimple("#e<Fight for Azwan>#n\r\n\r\nWould you like to join the Fight for Azwan?\r\n\r\n\r\n#L0#Challenge Hilla. (Lv. 120+)#l\r\n#L1#Join the Fight for Azwan.#l\r\n#L2#Stop the enemy force.#l");
+        cm.sendSimple("#e<阿斯旺之战>#n\r\n\r\n你想参加阿斯旺之战吗？\r\n\r\n\r\n#L0#挑战希拉。（120级以上）#l\r\n#L1#参加阿斯旺之战。#l\r\n#L2#阻止敌军。#l");
     } else if (status == 1) {
         if (selection == 0) {
             if (cm.getPlayer().getLevel() < 120) {
-                cm.sendOk("I admire your spirit, but Hilla's powers are too great. You must reach Lv. 120 before you attempt to challenge her.")
+                cm.sendOk("我钦佩你的勇气，但希拉的力量太强大了。你必须达到120级才能挑战她。")
             } else {
                 cm.warp(262030000);
             }
@@ -38,7 +38,7 @@ function action(mode, type, selection) {
             return;
         } else if (selection == 1) {
             cm.warp(262000300, 0);
-            cm.getPlayer().dropMessage(-1, "Please enter through NPC Longorias.");
+            cm.getPlayer().dropMessage(-1, "请通过NPC隆戈里亚斯进入。");
             cm.dispose();
             return;
         }
@@ -52,29 +52,29 @@ function action(mode, type, selection) {
         }
         if (selection == 1) {
             if (cm.getMap(955000100).getCharactersSize() >= 1 || cm.getMap(955000200).getCharactersSize() >= 1 || cm.getMap(955000300).getCharactersSize() >= 1) {
-                cm.sendNext("Someone already took the challange, please wait untill he finish.");
+                cm.sendNext("已经有人在接受挑战了，请等待他完成。");
                 cm.dispose();
                 return;
             }
             if (cm.getPlayer().getLevel() < 40) {
-                cm.sendOk("One of the party members is lower than level 40.");
+                cm.sendOk("队伍中有成员低于40级。");
                 cm.dispose();
                 return;
             }
             if (cm.getQuestCustomData(7963).equals("5") && !cm.getPlayer().isGM()) {
-                cm.sendOk("One of the party members already done this 5 times today, please, tell him come back tomorrow!");
+                cm.sendOk("队伍中有成员今天已经完成5次了，请让他明天再来！");
                 cm.dispose();
                 return;
             }
             /*if (cm.getPlayer().getParty() != null) {
                 var em = cm.getEventManager("AswanOffSeason");
                 if (!cm.isLeader()) {
-                    cm.sendOk("Only the party leader can begin.");
+                    cm.sendOk("只有队长可以开始。");
                     cm.dispose();
                     return;
                 }
                 if (!cm.allMembersHere()) {
-                    cm.sendOk("You need all your members here!");
+                    cm.sendOk("你的所有成员都必须在这里！");
                     cm.dispose();
                     return;
                 }
@@ -93,12 +93,12 @@ function action(mode, type, selection) {
                     }
                 }
                 if (!levelPass) {
-                   cm.sendOk("You must be between level 40 and 200 to play.");
+                   cm.sendOk("你的等级必须在40到200之间才能参与。");
                     cm.dispose();
                     return;
                 }
                 if (!limitPass) {
-                    cm.sendOk("You already did it 5 times today");
+                    cm.sendOk("你今天已经完成5次了。");
                     cm.dispose();
                     return;
                 }
@@ -114,7 +114,7 @@ function action(mode, type, selection) {
                 //eim.setProperty("Global_RewardMap", 262000000+"");
                // eim.setProperty("CurrentStage", "1");
                // eim.startEventTimer(1200000);
-			   //cm.sendOk("You have already went to Horntail in the past 24 hours. Time left: " + cm.getReadableMillis(cm.getCurrentTime(), time + (24 * 3600000)));
+			   //cm.sendOk("你在过去24小时内已经挑战过暗黑龙王了。剩余时间： " + cm.getReadableMillis(cm.getCurrentTime(), time + (24 * 3600000)));
               /*  cm.prepareAswanMob(955000100, em);
 				cm.prepareAswanMob(955000200, em);
 				cm.prepareAswanMob(955000300, em);
@@ -122,20 +122,20 @@ function action(mode, type, selection) {
                 var quest = MapleQuest.getInstance(7963);
                     var count = Integer.parseInt(chr.getQuestNAdd(quest).getCustomData());
                     quest.forceStartHillaGang(it2, 2100, (count+1)+"");
-cm.worldMessage(6, "[Azwan] " + cm.getPlayer().getName() + "'s party has started the Azwan Liberation of Hilla's Gang in Channel "+ cm.getClient().getChannel() +".");
+cm.worldMessage(6, "[阿斯旺] " + cm.getPlayer().getName() + "的队伍已在频道开始了阿斯旺解放希拉团伙的行动。 "+ cm.getClient().getChannel() +".");
 					cm.warpPartyWithExp(955000100, 100);      
                                 cm.prepareAswanMob(955000100, em);
 				cm.prepareAswanMob(955000200, em);// i shouldn't be doing this, but im to lazy 
 				cm.prepareAswanMob(955000300, em);// to add it into portal script lols
                 //eim.registerPlayer(cm.getPlayer());
                 cm.forceStartQuest(7963, (Integer.parseInt(cm.getQuestCustomData(7963))+1)+"");
-				cm.worldMessage(6, "[Azwan] " + cm.getPlayer().getName() + " has started the Azwan Liberation of Hilla's Gang in Channel "+ cm.getClient().getChannel() +".");
+				cm.worldMessage(6, "[阿斯旺] " + cm.getPlayer().getName() + " 已在频道开始了阿斯旺解放希拉团伙的行动。 "+ cm.getClient().getChannel() +".");
 				cm.warp(955000100,0);
 				cm.dispose();
             } else {
                 */
             if (!checkLevel(cm.getPlayer().getLevel(), 40, 255)) {
-                cm.sendOk("You must reach Lv. 40 before you can join the Fight for Azwan.");
+                cm.sendOk("你必须达到40级才能参加阿斯旺之战。");
                 cm.dispose();
                 return;
             }
@@ -155,12 +155,12 @@ cm.worldMessage(6, "[Azwan] " + cm.getPlayer().getName() + "'s party has started
             //cm.resetMap(955000300);
             eim.registerPlayer(cm.getPlayer());
             cm.forceStartQuest(7963, (Integer.parseInt(cm.getQuestCustomData(7963))+1)+"");
-            cm.worldMessage(6, "[Azwan] " + cm.getPlayer().getName() + " has enetered the Azwan Liberation of Hilla's Gang in Channel "+ cm.getClient().getChannel() +".");
+            cm.worldMessage(6, "[阿斯旺] " + cm.getPlayer().getName() + " 已进入频道开始了阿斯旺解放希拉团伙行动。 "+ cm.getClient().getChannel() +".");
             //cm.warp(955000100, 0);
             cm.dispose();
         }
     } else {
-        cm.sendOk("Unfinished state, ERROR.");
+        cm.sendOk("未完成状态，错误。");
         cm.dispose();
     }
 }

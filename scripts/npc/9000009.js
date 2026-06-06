@@ -19,7 +19,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendOk("Hey hey!!! Find the Treasure Scroll! I lost the map\r\nsomewhere and I can't leave without it.");
+	cm.sendOk("嘿！！！找到宝物卷轴！我把地图\r\n弄丢了，没有它我走不了。");
 	cm.dispose();
     }
 }

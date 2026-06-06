@@ -15,7 +15,7 @@ function action(mode, type, selection) {
         status--;
     }
 	if (status == 0) {
-        cm.sendSimple("This is the perfect place to train your basic skills. Where do you want to train?\r\n#b#L0#Adventurer Training Center 1#l\r\n#b#L1# Adventurer Training Center 2#l\r\n#b#L2#Adventurer Training Center 3#l\r\n#b#L3#Adventurer Training Center 4#l\r\n"); 
+        cm.sendSimple("这里是训练基本技能的最佳场所。你想去哪里训练？\r\n#b#L0#冒险家训练中心1#l\r\n#b#L1#冒险家训练中心2#l\r\n#b#L2#冒险家训练中心3#l\r\n#b#L3#冒险家训练中心4#l\r\n"); 
     } else if (status == 1) {
         sel = selection;
 	if (selection == 0) {		

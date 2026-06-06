@@ -1,5 +1,0 @@
-<imgdir name="24111002">
-        <string name="name" value="Final Feint" />
-        <string name="desc" value="Using this skill will increase your preparedness for all enemy attacks, reviving you instantly with some HP if you reach KO status. This skill increases also increases LUK permanently." />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, Upon death, you revive with #x% of Max HP. Makes you invincible for #y sec #\nPassive Effects: Permanently increases LUK by #lukX\n#cAfter using buff:# #cooltime sec Cooldown " />
-    </imgdir>

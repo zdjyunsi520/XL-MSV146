@@ -10,13 +10,13 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("#b#L2#Go to Ice Ravine with a party.#l\r\n#L1#Go to Ice Ravine myself. (Quest)#l\r\n\r\n#L3#Upgrade Red Rex Earring#l\r\n#L4#Upgrade Blue Rex Earring#l\r\n#L5#Upgrade Green Rex Earring#l#k");
+	cm.sendSimple("#b#L2#和队伍一起前往冰之峡谷。#l\r\n#L1#独自前往冰之峡谷。（任务）#l\r\n\r\n#L3#升级红色雷克斯耳环#l\r\n#L4#升级蓝色雷克斯耳环#l\r\n#L5#升级绿色雷克斯耳环#l#k");
     } else if (status == 1) {
 	if (selection == 1) {
 		cm.warp(921120000, 0);
 	} else if (selection == 2) {
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.sendOk("The leader of the party must be here.");
+		cm.sendOk("队伍队长必须在这里。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -35,57 +35,57 @@ function action(mode, type, selection) {
 		if (next && size >= 2) {
 			var em = cm.getEventManager("Rex");
 			if (em == null) {
-				cm.sendOk("I don't wanna see Rex at the moment. Please try again later.");
+				cm.sendOk("我现在不想见到雷克斯。请稍后再试。");
 			} else {
 		    var prop = em.getProperty("state");
 		    if (prop.equals("0") || prop == null) {
 			em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap(), 200);
 		    } else {
-			cm.sendOk("Another party quest has already entered this channel.");
+			cm.sendOk("已经有其他队伍进入了这个频道。");
 		    }
 			}
 		} else {
-			cm.sendOk("All 2+ members of your party must be here and level 120 or greater.");
+			cm.sendOk("你的队伍必须有2名或以上成员在此，且等级达到120或以上。");
 		}
 	    }
 	} else if (selection == 3) {
 	if (cm.haveItem(1032078,1)) {
 		if (!cm.canHold(1032103,1)) {
-			cm.sendOk("Make room in Equip.");
+			cm.sendOk("请在装备栏腾出空间。");
 		} else if (cm.haveItem(4001530,20) && cm.isGMS()) { //TODO JUMP
 			cm.gainItem(1032103, 1);
 			cm.gainItem(4001530, -20);
 		} else {
-			cm.sendOk("Come back with 20 Hobb Warrior Proof.");
+			cm.sendOk("带上20个霍布勇士的证明后再来。");
 		}
 	} else {
-	    cm.sendOk("Come back when you have Red Rex Earring.");
+	    cm.sendOk("带上红色雷克斯耳环后再来。");
 	}
 	} else if (selection == 4) {
 	if (cm.haveItem(1032079,1)) {
 		if (!cm.canHold(1032104,1)) {
-			cm.sendOk("Make room in Equip.");
+			cm.sendOk("请在装备栏腾出空间。");
 		} else if (cm.haveItem(4001530,20) && cm.isGMS()) { //TODO JUMP
 			cm.gainItem(1032104, 1);
 			cm.gainItem(4001530, -20);
 		} else {
-			cm.sendOk("Come back with 20 Hobb Warrior Proof.");
+			cm.sendOk("带上20个霍布勇士的证明后再来。");
 		}
 	} else {
-	    cm.sendOk("Come back when you have Blue Rex Earring.");
+	    cm.sendOk("带上蓝色雷克斯耳环后再来。");
 	}
 	} else if (selection == 5) {
 	if (cm.haveItem(1032077,1)) {
 		if (!cm.canHold(1032102,1)) {
-			cm.sendOk("Make room in Equip.");
+			cm.sendOk("请在装备栏腾出空间。");
 		} else if (cm.haveItem(4001530,20) && cm.isGMS()) { //TODO JUMP
 			cm.gainItem(1032102, 1);
 			cm.gainItem(4001530, -20);
 		} else {
-			cm.sendOk("Come back with 20 Hobb Warrior Proof.");
+			cm.sendOk("带上20个霍布勇士的证明后再来。");
 		}
 	} else {
-	    cm.sendOk("Come back when you have Green Rex Earring.");
+	    cm.sendOk("带上绿色雷克斯耳环后再来。");
 	}
 	}
 	cm.dispose();

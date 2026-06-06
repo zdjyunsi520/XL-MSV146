@@ -1,5 +1,0 @@
-<imgdir name="5091005">
-        <string name="name" value="冲刺" />
-        <string name="desc" value="快速按两次左或右方向键暂时提升速度和跳跃力。[冲刺激活：方向键→→或←←]" />
-        <string name="h" value="MP Cost: #mpCon, Movement Speed: +#x, Jump: +#y, Duration: #time sec" />
-    </imgdir>

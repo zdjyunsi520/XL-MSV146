@@ -1,5 +1,5 @@
 var status = 0;
-var occupationName = ["Leprechaun", "NX Addict", "Hacker #b(Does nothing)#k", "The Transformers AutoBots #b(Does nothing)#k", "Smega Whore"];
+var occupationName = ["Leprechaun", "NX上瘾者", "黑客 #b（无功能）#k", "变形金刚汽车人 #b（无功能）#k", "广播狂人"];
 var occupationId = [200, 300, 400, 600, 700];
 
 function start() {
@@ -14,81 +14,81 @@ function action(mode, type, selection) {
 	status--;
     if (status == 0) { // allow GMs unlimited changes if they don't know about !occ :o
 	  if (cm.getPlayer().getOccId() == 1 || cm.getPlayer().getOccId() == 0 || cm.getPlayer().isGM()) { // 0 = null (None) | 1 = Noob
-		cm.sendNext("#rHaha, Occupations you say?#k\r\nThey are only for the #eskilled#n.\r\nIf you want one, you'll need to meet my #rrequirements#k.\r\nI'd like to see you reach #e10 Rebirths#n and earn #e100,000,000 mesos#n.\r\n\r\n#bIf you have my requirements, lets talk business.#k");
+		cm.sendNext("#r哈哈，你说职业？#k\r\n那是只有#e高手#n才能拥有的。\r\n如果你想要一个，你需要满足我的#r条件#k。\r\n我希望你达到#e10次转生#n并拥有#e1亿金币#n。\r\n\r\n#b如果你满足了我的条件，我们来谈正事。#k");
 	  } else {
-		cm.sendOk("You already have an #eOccupation#n.");
+		cm.sendOk("你已经拥有了一个#e职业#n。");
 		cm.dispose();
 	  }
 	  } else if (status == 1) {
 	 if (cm.getPlayer().getReborns() >= 10 && cm.getMeso() >= 100000000) {
-	     cm.sendNext("#b*talks business*#k\r\n\r\n#eAre you sure you want to trade up 100,000,000 mesos#n?");
+	     cm.sendNext("#b*谈正事*#k\r\n\r\n#e你确定要花费1亿金币吗？#n");
 	   } else if (cm.getPlayer().getReborns() < 10 && cm.getMeso() < 100000000) {
-	    cm.sendOk("Ha! You don't even have #e10 Rebirths#n and #e100,000,000 mesos#n.");
+	    cm.sendOk("哈！你连#e10次转生#n和#e1亿金币#n都没有。");
 		cm.dispose();
 	   } else if (cm.getPlayer().getReborns() < 10) {
-		cm.sendOk("Ha! You don't even have #e10 Rebirths#n.");
+		cm.sendOk("哈！你连#e10次转生#n都没有。");
 		cm.dispose();
 		} else {
-		cm.sendOk("Ha! You don't even have #e100,000,000 mesos#n.");
+		cm.sendOk("哈！你连#e1亿金币#n都没有。");
 		cm.dispose();
 	}
     } else if (status == 2) {
      if (cm.getPlayer().getReborns() >= 10 && cm.getMeso() >= 100000000) {
 	// lol @ packet editing, doubt this is going to happen and not necessary 
 		if (cm.getPlayer().isDonator()) { // Donator
-			occupationName = ["Sniper", "Leprechaun", "NX Addict", "Hacker #b(Does nothing)#k", "The Transformers AutoBots #b(Does nothing)#k", "Smega Whore", "Terrorist"];
+			occupationName = ["Sniper", "Leprechaun", "NX上瘾者", "黑客 #b（无功能）#k", "变形金刚汽车人 #b（无功能）#k", "广播狂人", "Terrorist"];
 			occupationId = [100, 200, 300, 400, 600, 700, 800];
 		}
-		var occscript = "Nice job! You have matched my #rrequirements#k.\r\n\r\nChoose a(n) #gOccupation#k:"; 
+		var occscript = "干得好！你满足了我的#r条件#k。\r\n\r\n选择一个#g职业#k："; 
 		for (var i = 0; i < occupationId.length; occscript += "\r\n #L" + i + "# " + occupationName[i] + "#l", i++); 
 			cm.sendSimple(occscript); 
 	 } else {
 	  status = 1337; // unexistant status so they don't status++
-	  cm.sendOk("y u packet edit la . zzzz ..");
+	  cm.sendOk("你为什么修改封包啊。啧啧……");
 	  cm.dispose();
 	 }
 	 } else if (status == 3) {
 	   //var selection = occupationId[selection] + 1; // 101++
 	   if (cm.getPlayer().isDonator()) {
 	   if (selection == 0) {
-	     cm.sendSimple("#rOccupation : #eSniper#n#k\r\n\r\n#bDescription: A #eSniper#n Occupation allows players to snipe victims, killing them instantly with a BOOM HEADSHOT! effect.#k\r\n#L1#I want to become a Sniper\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e狙击手#n#k\r\n\r\n#b描述：#e狙击手#n职业允许玩家狙击目标，一击毙命并产生爆头特效！#k\r\n#L1#我想成为狙击手\r\n#L99#返回");
 	   } else if (selection == 1) {
-	     cm.sendSimple("#rOccupation : #eLeprechaun#n#k\r\n\r\n#bDescription: A #eLeprechaun#n Occupation allows players to clone themselves! You can clone up to #e3#n times.#k\r\n#L2#I want to become a Leprechaun\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e矮妖#n#k\r\n\r\n#b描述：#e矮妖#n职业允许玩家克隆自己！你最多可以克隆#e3#n次。#k\r\n#L2#我想成为矮妖\r\n#L99#返回");
 	   } else if (selection == 2) {
-	     cm.sendSimple("#rOccupation : #eNX Addict#n#k\r\n\r\n#bDescription: A #eNX Addict#n Occupation allows players to gain random amounts of NX after killing monsters! \r\n- Higher Occupation Level means more NX gained at random!#k\r\n#L3#I want to become a NX Addict\r\n#L99#Go back");
+	     cm.sendSimple("#rOccupation : #eNX上瘾者#n#k\r\n\r\n#bDescription: A #eNX上瘾者#n Occupation allows players to gain random amounts of NX after killing monsters! \r\n- Higher Occupation Level means more NX gained at random!#k\r\n#L3#I want to become a NX上瘾者\r\n#L99#Go back");
 	   } else if (selection == 3) {
-	     cm.sendSimple("#rOccupation : #eHacker#n#k\r\n\r\n#bDescription: A #eHacker#n Occupation allows players to ...#k\r\n#L4#I want to become a Hacker\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e黑客#n#k\r\n\r\n#b描述：#e黑客#n职业允许玩家……#k\r\n#L4#我想成为黑客\r\n#L99#返回");
 	   } else if (selection == 4) {
-	     cm.sendSimple("#rOccupation : #eThe Transformers AutoBots#n#k\r\n\r\n#bDescription: A #eTransformers AutoBot#n Occupation allows players to ...#k\r\n#L5#I want to become a Transformers AutoBot\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e变形金刚汽车人#n#k\r\n\r\n#b描述：#e变形金刚汽车人#n职业允许玩家……#k\r\n#L5#我想成为变形金刚汽车人\r\n#L99#返回");
 	   } else if (selection == 5) {
-	     cm.sendSimple("#rOccupation : #eSmega Whore#n#k\r\n\r\n#bDescription: A #eSmega Whore#n Occupation allows players to Smega without using smegas via @smega! \r\n- Higher Occupation Level will allow you to use @avi and others!#k\r\n#L6#I want to become a Smega Whore\r\n#L99#Go back");
+	     cm.sendSimple("#rOccupation : #e广播狂人#n#k\r\n\r\n#bDescription: A #e广播狂人#n Occupation allows players to Smega without using smegas via @smega! \r\n- Higher Occupation Level will allow you to use @avi and others!#k\r\n#L6#I want to become a 广播狂人\r\n#L99#Go back");
 	   } else if (selection == 6) {
-		 cm.sendSimple("#rOccupation : #eTerrorist#n#k\r\n\r\n#bDescription: A #eTerrorist#n Occupation allows players to spawn bombs that will detonate and possibly bounce players away!#k\r\n#L7#I want to become a Terrorist\r\n#L99#Go back");
+		 cm.sendSimple("#r职业：#e恐怖分子#n#k\r\n\r\n#b描述：#e恐怖分子#n职业允许玩家生成炸弹，炸弹会爆炸并可能将玩家弹飞！#k\r\n#L7#我想成为恐怖分子\r\n#L99#返回");
 	     }
 	   } else {
 	   if (selection == 0) {
-	     cm.sendSimple("#rOccupation : #eLeprechaun#n#k\r\n\r\n#bDescription: A #eLeprechaun#n Occupation allows players to clone themselves! You can clone up to #e3#n times.#k\r\n#L2#I want to become a Leprechaun\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e矮妖#n#k\r\n\r\n#b描述：#e矮妖#n职业允许玩家克隆自己！你最多可以克隆#e3#n次。#k\r\n#L2#我想成为矮妖\r\n#L99#返回");
 	   } else if (selection == 1) {
-	     cm.sendSimple("#rOccupation : #eNX Addict#n#k\r\n\r\n#bDescription: A #eNX Addict#n Occupation allows players to gain random amounts of NX after killing monsters! \r\n- Higher Occupation Level means more NX gained at random!#k\r\n#L3#I want to become a NX Addict\r\n#L99#Go back");
+	     cm.sendSimple("#rOccupation : #eNX上瘾者#n#k\r\n\r\n#bDescription: A #eNX上瘾者#n Occupation allows players to gain random amounts of NX after killing monsters! \r\n- Higher Occupation Level means more NX gained at random!#k\r\n#L3#I want to become a NX上瘾者\r\n#L99#Go back");
 	   } else if (selection == 2) {
-	     cm.sendSimple("#rOccupation : #eHacker#n#k\r\n\r\n#bDescription: A #eHacker#n Occupation allows players to ...#k\r\n#L4#I want to become a Hacker\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e黑客#n#k\r\n\r\n#b描述：#e黑客#n职业允许玩家……#k\r\n#L4#我想成为黑客\r\n#L99#返回");
 	   } else if (selection == 3) {
-	     cm.sendSimple("#rOccupation : #eThe Transformers AutoBots#n#k\r\n\r\n#bDescription: A #eTransformers AutoBot#n Occupation allows players to ...#k\r\n#L5#I want to become a Transformers AutoBot\r\n#L99#Go back");
+	     cm.sendSimple("#r职业：#e变形金刚汽车人#n#k\r\n\r\n#b描述：#e变形金刚汽车人#n职业允许玩家……#k\r\n#L5#我想成为变形金刚汽车人\r\n#L99#返回");
 	   } else if (selection == 4) {
-	     cm.sendSimple("#rOccupation : #eSmega Whore#n#k\r\n\r\n#bDescription: A #eSmega Whore#n Occupation allows players to Smega without using smegas via @smega! \r\n- Higher Occupation Level will allow you to use @avi and others!#k\r\n#L6#I want to become a Smega Whore\r\n#L99#Go back");
+	     cm.sendSimple("#rOccupation : #e广播狂人#n#k\r\n\r\n#bDescription: A #e广播狂人#n Occupation allows players to Smega without using smegas via @smega! \r\n- Higher Occupation Level will allow you to use @avi and others!#k\r\n#L6#I want to become a 广播狂人\r\n#L99#Go back");
 	     } 
 	   }
 	 } else if (status == 4) {
-		if (selection < 99) { // "Choose occ"
-			cm.sendOk(" You're occupation is now a(n) " + occupationName[selection - (cm.getPlayer().isDonator() ? 1 : 2)] + ".\r\n\r\n#dYou can type @occinfo for more information about your #eOccupation#n.#k");
+		if (selection < 99) { // "选择职业"
+			cm.sendOk(" 你的职业现在是 " + occupationName[selection - (cm.getPlayer().isDonator() ? 1 : 2)] + "。\r\n\r\n#d你可以输入@occinfo查看你的#e职业#n的更多信息。#k");
 			cm.getPlayer().setOccupation(occupationId[selection - (cm.getPlayer().isDonator() ? 1 : 2)]);
 			cm.gainMeso(-100000000);
 			cm.dispose();
 		} else if (selection == 99) {
 			status = 1;
-			cm.sendNext("Let's go back, shall we?");
+			cm.sendNext("我们回去吧，好吗？");
 		} else { 
-			cm.sendOk("Report this problem to #rforums#k.");
+			cm.sendOk("请将此问题报告到#r论坛#k。");
 			cm.dispose();
 	  }
     }

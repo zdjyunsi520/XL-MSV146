@@ -9,12 +9,12 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendNext("Psh, FINE. I'll be here whenever you find the time.");
+		    qm.sendNext("切，好吧。你有空的时候再来吧。");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendYesNo("Finally! I need help! Can you come meet me?\r\n#r(Click Yes to teleport to the Victoria Tree Platform where Instructor Irvin is.)#k");
+	    qm.sendYesNo("终于！我需要帮助！你能来见我吗？\r\n#r（点击是传送到维多利亚树平台，教官欧文在那里。）#k");
 	} else if (status == 1) {
         qm.forceStartQuest();
 		qm.forceCompleteQuest();

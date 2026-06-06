@@ -1,7 +1,0 @@
-<imgdir name="35121003">
-        <string name="name" value="Giant Robot SG-88 " />
-        <string name="desc" value="Summons giant robot SG-88 to attack all nearby enemies. An activation gauge pops up when this robot is summoned, and damage can be charged and amplified (up to two times the base amount) by hitting the regular attack key." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Monsters Hit: #mobCount, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="Summons giant robot SG-88 to attack all nearby enemies. An activation gauge pops up when this robot is summoned, and damage can be charged and amplified (up to two times the base amount) by hitting the regular attack key." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount \n#cCooldown: #cooltime sec#" />
-    </imgdir>

@@ -4,7 +4,7 @@ function start() {
         eim.registerPlayer(cm.getPlayer());
     }
     if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-        cm.sendOk("The leader of the party must be here.");
+        cm.sendOk("队伍队长必须在这里。");
         cm.dispose();
         return;
     }
@@ -27,17 +27,17 @@ function start() {
     if (next && size >= 2) {
         var em = cm.getEventManager("Dragon_Nest");
         if (em == null) {
-            cm.sendOk("This event is currently not available.");
+            cm.sendOk("该活动目前不可用。");
         } else {
             var prop = em.getProperty("state");
             if (prop == null || prop.equals("0")) {
                 em.startInstance(cm.getParty(), cm.getMap(), 200);
             } else {
-                cm.sendOk("Someone is already attempting this boss.");
+                cm.sendOk("已经有人在挑战这个BOSS了。");
             }
         }
     } else {
-        cm.sendOk("Make sure all 2+ party members are in this map and level 120+ and have Soaring skill.");
+        cm.sendOk("确保所有2名以上的队伍成员都在此地图且等级达到120级以上，并且拥有飞行技能。");
     }
     cm.dispose();
 }

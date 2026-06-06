@@ -1,5 +1,0 @@
-<imgdir name="41101003">
-        <string name="name" value="军神之力" />
-        <string name="desc" value="暂时提升最大HP、最大MP、物理攻击力、移动速度和跳跃力。" />
-        <string name="h" value="消耗MP：#mpCon，#time秒内，最大HP和最大MP：+#x%，物理攻击力：+#padX，移动速度：+#speed，跳跃力：+#jump" />
-    </imgdir>

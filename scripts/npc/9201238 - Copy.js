@@ -19,26 +19,26 @@ function action(mode, type, selection) {
     }
     mode == 1 ? status++ : status--;
     if (status == 0) {
-        cm.sendSimple("Try out the new and improved Great Gachapierrot! Which service would you like to use?\r\n#b#L0#Use a Gachapon Ticket.#k.#l\r\n#L1##bUse a Gachapon Food Coupon#n.#l\r\n#L2##bNebulite Gachapon Ticket Exchange#n.#l\r\n#L3##bMount Gachapon Ticket Exchange#n.#l\r\n#L4##rUse a Powergacha Ticket.(Event Quest)#n");
+        cm.sendSimple("你没有可以使用的转蛋券。请购买转蛋券后再来。");
     } else if (status == 1) {
     if (selection == 0) {
-        cm.sendNext("You do not have a Gachapon Ticket you can use. Please return after purchasing a Gachapon Ticket.");
+        cm.sendNext("你没有转蛋食品券。请在获得转蛋食品券后再来。");
         cm.dispose();
 		return;
     } else if (selection == 1) {		
-		 cm.sendNext("You do not have a Gachapon Food Coupon. Please return after acquiring a Gachapon Food Coupon.");
+		 cm.sendNext("你没有星云石转蛋券。");
          cm.dispose();
 		 return;
 	} else if (selection == 2) {		
-		 cm.sendNext("You do not have a Nebulite Gachapon Ticket.");
+		 cm.sendNext("你没有坐骑转蛋券。");
          cm.dispose();
 		 return;	 
 	} else if (selection == 3) {		
-		 cm.sendNext("You do not have a Mount Gachapon Ticket.");
+		 cm.sendNext("你没有可以使用的超级转蛋券。使用20张转蛋券即可获得一张超级转蛋券。");
          cm.dispose();
 		 return;	 
 	} else if (selection == 4) {		
-		 cm.sendNext("You do not have a Powergacha Ticket you can use. Use 20 tickets in the newly revamped gachapon to receive a Powergacha Ticket.");
+		 cm.sendNext("你没有可以使用的超级转蛋券。使用20张转蛋券即可获得一张超级转蛋券。");
          cm.dispose();
 		 return;	 
         }

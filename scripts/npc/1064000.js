@@ -13,7 +13,7 @@ function action(mode, type, selection) {
     }
 	if (status == 0) {
         cm.mihileMove913070050();
-		cm.sendPlayerToNpc("Woah!.");
+		cm.sendPlayerToNpc("哇！");
 		//chat++
 	//	status++;
 		//cm.dispose();

@@ -1,7 +1,0 @@
-<imgdir name="12101006">
-        <string name="name" value="Fire Pillar" />
-        <string name="desc" value="Detonates multiple explosions near you, attacking multiple enemies. " />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Detonates multiple explosions near you, attacking multiple enemies. " />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-    </imgdir>

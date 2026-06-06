@@ -12,7 +12,7 @@ function enter(pi) {
         pi.warp(990000640, 1);
         return true;
     } else {
-        pi.playerMessage("You cannot proceed past this point.");
+        pi.playerMessage("你无法通过此处。");
         return false;
     }
 }

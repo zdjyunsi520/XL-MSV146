@@ -1,5 +1,5 @@
 function start() {
-    cm.sendNextS("H-hey! Where did he go?!\r\nUgh, who cares?! I gotta get that stuff out of here before Limbert starts raising a ruckus again...", 3);
+    cm.sendNextS("嘿-嘿！他到哪去了？！\r\n唉，管他呢！我得在林伯特又开始大吵大闹之前把那些东西弄出去……", 3);
 }
 
 function action(mode, type, selection) {

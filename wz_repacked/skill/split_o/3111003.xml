@@ -1,7 +1,0 @@
-<imgdir name="3111003">
-        <string name="name" value="Flame Surge" />
-        <string name="desc" value="Fires arrows imbued with flame power to attack up to 6 enemies. Hit enemies continue to take damage after they&apos;re hit." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
-        <string name="pdesc" value="Fires arrows imbued with flame power to attack up to 6 enemies. Hit enemies continue to take damage after they&apos;re hit." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Damage Over Time: #dot% damage every #dotInterval sec for #dotTime sec" />
-    </imgdir>

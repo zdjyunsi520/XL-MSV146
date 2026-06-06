@@ -231,16 +231,16 @@ function allMonstersDead(eim) {
 
     eim.setProperty("points", totalp);
 
-    eim.broadcastPlayerMsg(5, "Your team've gained "+num+" points! With a total of "+totalp+".");
+    eim.broadcastPlayerMsg(5, "您的队伍获得了 "+num+" 积分！总计 "+totalp+"。");
     
     eim.saveBossQuest(num);
 
     if (mobnum < monster.length) {
-        eim.broadcastPlayerMsg(6, "Prepare! The next boss will appear in a glimpse of an eye!");
+        eim.broadcastPlayerMsg(6, "准备！下一个BOSS瞬间出现！");
     } else {
         eim.saveBossQuest(100000);
         eim.saveNX(300000);
-        eim.broadcastPlayerMsg(5, "Your team've beaten the Chaos mode and have gained an extra 100,000 points and extra 150,000 Cash!");
+        eim.broadcastPlayerMsg(5, "您的队伍已通关CHAOS模式，额外获得100,000积分和150,000现金！");
         eim.giveAchievement(22);
     }
 // When invoking unregisterMonster(MapleMonster mob) OR killed

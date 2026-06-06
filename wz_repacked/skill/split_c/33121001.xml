@@ -1,8 +1,0 @@
-<imgdir name="33121001">
-        <string name="name" value="爆裂之箭" />
-        <string name="desc" value="召唤一个巨大的锯齿轮攻击多个敌人。有概率眩晕。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，最大攻击次数：#y，爆炸伤害：#x%，眩晕概率：#prop%，冷却时间：#cooltime秒" />
-        <string name="pdesc" value="召唤一个巨大的锯齿轮攻击多个敌人。有概率眩晕。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，最大攻击次数：#y，爆炸伤害：#x%，眩晕概率：#prop%，冷却时间：#cooltime秒" />
-        <string name="hch" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，最大攻击次数：#y，爆炸伤害：#x%，眩晕概率：#hcProp，冷却时间：#cooltime秒" />
-    </imgdir>

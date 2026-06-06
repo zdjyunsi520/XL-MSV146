@@ -1,6 +1,0 @@
-<imgdir name="32110000">
-        <string name="name" value="Advanced Blue Aura" />
-        <string name="desc" value="Permanently increases your Abnormal Status and Elemental resistances while increasing the power of your Blue Aura. Also increases the DEF of nearby party members when you&apos;re using Blue Aura.\nRequired Skill: #cBlue Aura Lv. 20#" />
-        <string name="h" value="Active Effects - MP Cost: #mpCon, absorbs #y% of the distributed damage, Defense: +#z%\nPassive Effects - Abnormal Status Resistance: +#asrR%, Elemenatal Resistance: +#terR%" />
-        <string name="pdesc" value="Permanently increases your Status and Elemental resistances while increasing the power of your Blue Aura. Also increases the DEF of nearby team members when you&apos;re using Blue Aura.\nRequired Skill: #cBlue Aura Lv. 20#" />
-    </imgdir>

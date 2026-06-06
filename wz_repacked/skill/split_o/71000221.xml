@@ -1,5 +1,0 @@
-<imgdir name="71000221">
-        <string name="name" value="Hero Magician Evan" />
-        <string name="desc" value="Upon attacking an enemy, recovers MP at chance." />
-        <string name="h" value="70% chance to recover #onHitMpRecoveryR% of Max MP with each attack. 2x effect takes place when activated multiple times (activates once every 60 seconds)." />
-    </imgdir>

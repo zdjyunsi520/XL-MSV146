@@ -1,6 +1,0 @@
-<imgdir name="21121007">
-        <string name="name" value="连击屏障" />
-        <string name="desc" value="施展队伍增益，暂时减少受到的伤害并增加防御力。只能在#c连击数达到60以上#时使用~\r\n前置技能: #c连击吸收 Lv. 10#" />
-        <string name="h" value="连击消耗: #comboConAran, 吸收伤害: #t%, 物理防御力: +#pdd, 魔法防御力: #mdd, 持续时间: #time秒" />
-        <string name="pdesc" value="施展队伍增益，暂时减少受到的伤害。只能在#c连击数达到60以上#时使用~\n[指令: #c↑→ + 攻击键#]\n前置技能: #c连击吸收 Lv. 10#" />
-    </imgdir>

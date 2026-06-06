@@ -1,5 +1,0 @@
-<imgdir name="61001000">
-        <string name="name" value="龙之斩击" />
-        <string name="desc" value="连按攻击键，最多3次斩击前方的敌人！最终形态下可以用基础攻击键使用。" />
-        <string name="h" value="1-hit: Attack up to #mobCount enemies for #damage% damage #attackCount times\n2-hit: Up to #s enemies attack for #u% damage #v times\n3-hit  Up to #w enemies attacked for #y% damage #z times" />
-    </imgdir>

@@ -10,11 +10,11 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("#b#L2#Go protect Kenta with a party.#l\r\n#L3#Kenta Goggles (50 Pianus Scale)#l\r\n#L4#Random Pet Equipment Scroll (5 Pianus Scale)#l#k");
+	cm.sendSimple("#b#L2#组队保护肯塔。#l\r\n#L3#肯塔护目镜（50个比努斯鳞片）#l\r\n#L4#随机宠物装备卷轴（5个比努斯鳞片）#l#k");
     } else if (status == 1) {
 	if (selection == 2) {
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.sendOk("The leader of the party must be here.");
+		cm.sendOk("队伍队长必须在这里。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -33,36 +33,36 @@ function action(mode, type, selection) {
 		if (next && size >= 2) {
 			var em = cm.getEventManager("Kenta");
 			if (em == null) {
-				cm.sendOk("Kenta is fine at the moment. Please try again later.");
+				cm.sendOk("肯塔目前很安全。请稍后再试。");
 			} else {
 		    var prop = em.getProperty("state");
 		    if (prop.equals("0") || prop == null) {
 			em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap(), 200);
 		    } else {
-			cm.sendOk("Another party quest has already entered this channel.");
+			cm.sendOk("此频道已经有一个队伍任务在进行中。");
 		    }
 			}
 		} else {
-			cm.sendOk("All 2+ members of your party must be here and level 120 or greater.");
+			cm.sendOk("你的队伍必须有2名以上成员在此且等级达到120级以上。");
 		}
 	    }
 	} else if (selection == 3) {
 		if (!cm.canHold(1022123,1)) {
-			cm.sendOk("Make room in Equip.");
+			cm.sendOk("请在装备栏腾出空间。");
 		} else if (cm.haveItem(4001535,50)) { //TODO JUMP
 			cm.gainItem(1022123, 1);
 			cm.gainItem(4001535, -50);
 		} else {
-			cm.sendOk("Come back with 50 Pianus Scale.");
+			cm.sendOk("请带50个比努斯鳞片再来。");
 		}
 	} else if (selection == 4) {
 		if (!cm.canHold(2048010,1) || !cm.canHold(2048011,1) || !cm.canHold(2048012,1) || !cm.canHold(2048013,1)) {
-			cm.sendOk("Make room in Use.");
+			cm.sendOk("请在消耗栏腾出空间。");
 		} else if (cm.haveItem(4001535,5)) { //TODO JUMP
 			cm.gainItem(2048010 + java.lang.Math.floor(java.lang.Math.random() * 4) | 0, 1);
 			cm.gainItem(4001535, -5);
 		} else {
-			cm.sendOk("Come back with 5 Pianus Scale.");
+			cm.sendOk("请带5个比努斯鳞片再来。");
 		}
 	}
 	cm.dispose();

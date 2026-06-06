@@ -1,5 +1,0 @@
-<imgdir name="41121002">
-        <string name="name" value="人斩" />
-        <string name="desc" value="破坏力的极致。攻击多个敌人并必定暴击。可瞬间击败敌人，使用后剑豪的暴击率将在短时间内提升。" />
-        <string name="h" value="消耗MP：#mpCon，最大攻击敌人数：#mobCount，伤害：#damage%，攻击次数：#attackCount，必定暴击，暴击率提升：#prop%，持续#time秒，\n冷却时间#cooltime秒" />
-    </imgdir>

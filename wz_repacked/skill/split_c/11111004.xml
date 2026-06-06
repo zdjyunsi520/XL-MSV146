@@ -1,7 +1,0 @@
-<imgdir name="11111004">
-        <string name="name" value="勇猛斩击" />
-        <string name="desc" value="对前方的多个敌人进行连续3次攻击！" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="对前方的多个敌人进行连续3次攻击！" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount" />
-    </imgdir>

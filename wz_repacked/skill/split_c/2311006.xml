@@ -1,7 +1,0 @@
-<imgdir name="2311006">
-        <string name="name" value="魔法加速器" />
-        <string name="desc" value="消耗MP在一定时间内将魔法攻击速度提升两阶段。" />
-        <string name="h" value="MP Cost: #mpCon, Duration: #time sec" />
-        <string name="pdesc" value="召唤一条圣龙持续一段时间。" />
-        <string name="ph" value="MP Cost: #mpCon, Mine Damage: #damage%, Duration: #time sec" />
-    </imgdir>

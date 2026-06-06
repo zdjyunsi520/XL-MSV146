@@ -1,7 +1,0 @@
-<imgdir name="5201008">
-        <string name="name" value="Infinity Blast" />
-        <string name="desc" value="Uses multiple bullets and lets you attack without using any ammo for a short time." />
-        <string name="h" value="MP Cost: #mpCon and #bulletConsume bullets, Duration: #time sec" />
-        <string name="pdesc" value="Uses multiple bullets and lets you attack without using any ammo for a short time." />
-        <string name="ph" value="MP Cost: #mpCon and #bulletConsume bullets, Duration: #time sec" />
-    </imgdir>

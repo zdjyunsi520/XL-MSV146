@@ -1,7 +1,0 @@
-<imgdir name="5321012">
-        <string name="name" value="Cannon Barrage" />
-        <string name="desc" value="Focus your firepower on enemies ahead of you. Additional critical chance is applied." />
-        <string name="h" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
-        <string name="pdesc" value="Focus your firepower on enemies ahead of you. Additional critical chance is applied." />
-        <string name="ph" value="MP Cost: #mpCon, Number of Attacks: #bulletCount, Damage: #damage%, Bonus Critical Rate: #cr%" />
-    </imgdir>

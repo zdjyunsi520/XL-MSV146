@@ -1,7 +1,0 @@
-<imgdir name="3001005">
-        <string name="name" value="双发射击" />
-        <string name="desc" value="向敌人发射两支箭！" />
-        <string name="h" value="MP Cost: #mpCon, Shots Fired: #bulletCount, Damage: #damage%" />
-        <string name="pdesc" value="向敌人发射多支箭！" />
-        <string name="ph" value="MP Cost: #mpCon, Shots Fired: #bulletCount, Damage: #damage%" />
-    </imgdir>

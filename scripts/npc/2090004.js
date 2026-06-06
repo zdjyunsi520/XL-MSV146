@@ -25,12 +25,12 @@ function action(mode, type, selection) {
 	if (status == 0 && mode == 1) {
 		if (cm.isQuestActive(3821)) {
 			cm.forceCompleteQuest(3821);
-			cm.sendNext("Quest complete.");
+			cm.sendNext("任务完成。");
 			cm.dispose();
 			return;
 		}
-		var selStr = "I am a man of many talents. Let me know what you'd like to do. #b"
-		var options = new Array("Make a medicine","Make a scroll","Donate medicine ingredients","I want to forfeit the restoration of Portrait Scroll...");
+		var selStr = "我是一个多才多艺的人。请告诉我你想做什么。#b"
+		var options = new Array("制作药品","制作卷轴","捐赠药品材料","我想放弃恢复画卷……");
 		for (var i = 0; i < options.length; i++){
 			selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 		}
@@ -40,25 +40,25 @@ function action(mode, type, selection) {
 		selectedType = selection;
 		var selStr;
 		var items;
-		if (selectedType == 0){ //Make a medicine
-			cm.sendNext("If you want to make a medicine, you must study the Book on Herbal Medicine first. Nothing is more dangerous than practicing a medicine without proper knowledge.");
+		if (selectedType == 0){ //制作药品
+			cm.sendNext("如果你想制作药品，你必须先学习草药医学书籍。没有正确的知识就擅自行医是非常危险的。");
 			cm.dispose();
 			return;
 		} 
-		else if(selectedType == 1){//Make a scroll
-			selStr = "What kind of scrolls are you interested in making?#b";
-			items = new Array("Scroll for One-Handed Sword for ATT", "Scroll for One-Handed Axe for ATT", "Scroll for One-Handed BW for ATT",
-								  "Scroll for Dagger for ATT","Scroll for Wand for Magic Att.","Scroll for Staff for Magic Att.",
-								  "Scroll for Two-handed Sword for ATT.","Scroll for Two-handed Axe for ATT","Scroll for Two-handed BW for ATT",
-								  "Scroll for Spear for ATT","Scroll for Pole Arm for ATT","Scroll for Bow for ATT","Scroll for Crossbow for ATT ",
-								  "Scroll for Claw for ATT","Knuckle Attack Power Scroll","Gun Attack Power Scroll#k");
+		else if(selectedType == 1){//制作卷轴
+			selStr = "你对制作哪种卷轴感兴趣？#b";
+			items = new Array("单手剑攻击力卷轴", "单手斧攻击力卷轴", "单手钝器攻击力卷轴",
+								  "短剑攻击力卷轴","短杖魔法攻击力卷轴","长杖魔法攻击力卷轴",
+								  "双手剑攻击力卷轴","双手斧攻击力卷轴","双手钝器攻击力卷轴",
+								  "枪攻击力卷轴","矛攻击力卷轴","弓攻击力卷轴","弩攻击力卷轴 ",
+								  "拳套攻击力卷轴","指节攻击力卷轴","枪械攻击力卷轴#k");
 		} 
-		else if(selectedType == 2){//Donate medicine ingredients
-			selStr = "So you wish to donate some medicine ingredients? This is great news! Donations will be accepted in the unit of #b100#k. The donator will receive a marble that enables one to make a scroll. Which of these would you like to donate? #b";
-			items = new Array("Acorn","Thimble","Needle Pouch","Necki Flower","Necki Swimming Cap","Broken Piece of Pot","Ginseng-Boiled Water","Straw Doll","Wooden Doll","Bellflower Root","100-Year-Old Bellflower",
-							  "Old Paper","Yellow Belt","Broken Deer Horn","Red Belt","Peach Seed","Mr. Alli's Leather","Cat Doll","Mark of the Pirate","Captain Hat#k");
+		else if(selectedType == 2){//捐赠药品材料
+			selStr = "所以你想捐赠药品材料？这真是个好消息！捐赠将以#b100#个为单位进行。捐赠者将获得一颗可以用来制作卷轴的弹珠。你想捐赠以下哪种材料？#b";
+			items = new Array("Acorn","Thimble","针线包","尼奇花","尼奇泳帽","破陶片","人参熬制水","稻草人偶","木偶","桔梗根","百年桔梗",
+							  "旧纸张","黄带","碎鹿角","红带","桃核","鳄鱼先生的皮革","猫偶","海盗印记","船长帽#k");
 		}
-		else {//I want to forfeit the restoration of Portrait Scroll...
+		else {//我想放弃恢复画卷……
 			cm.dispose();
 			return;
 		}
@@ -80,14 +80,14 @@ function action(mode, type, selection) {
 			item = itemSet[selectedItem];
 			mats = matSet[selectedItem];
 			matQty = matQtySet[selectedItem];
-			var prompt = "You want to make #t" + item + "#? In order to make #t" + item +"#,You'll need #b100 Dr. Do's Marbles#k and #b10 Steel Ores.#k";
+			var prompt = "你想制作#t" + item + "#吗？要制作#t" + item +"#，你需要#b100个杜博士的弹珠#k和#b10个钢铁矿石#k。";
 			if (mats instanceof Array){
 			for(var i = 0; i < mats.length; i++){
 				prompt += "\r\n#i"+mats[i]+"# " + matQty[i] + " #t" + mats[i] + "#";
 			}
 		}
 		else {
-			prompt += "\r\n#i"+mats+"# " + matQty + " #t" + mats + "#What do you think? Would you like to make on right now?";
+			prompt += "\r\n#i"+mats+"# " + matQty + " #t" + mats + "#你觉得怎么样？现在就制作一个吗？";
 		}
 			cm.sendYesNo(prompt);
 		} 
@@ -95,7 +95,7 @@ function action(mode, type, selection) {
 			status = 3;
 			var itemSet = new Array(4000276,4000277,4000278,4000279,4000280,4000291,4000292,4000286,4000287,4000293, 4000294,4000298,4000284,4000288,4000285,4000282,4000295,4000289,4000296,4031435);
 			item = itemSet[selectedItem];
-			var prompt = "Are you sure you want to donate #b100 #t " + item + "##k";
+			var prompt = "你确定要捐赠#b100个#t " + item + "##k";
 			cm.sendYesNo(prompt);
 			}
 	}else if (status == 3 && mode == 1) {
@@ -131,7 +131,7 @@ function action(mode, type, selection) {
 				}
 			
 			if (!complete || !cm.canHold(2044900))
-				cm.sendOk("Please make sure you are neither lacking ingredients or lacking space in your use inventory.");
+				cm.sendOk("请确认你的材料是否齐全，或者消耗品背包是否有空位。");
 			else {
 				if (mats instanceof Array) {
 					for (var i = 0; i < mats.length; i++){

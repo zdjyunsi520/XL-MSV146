@@ -5,6 +5,6 @@
 */
 
 function start(){
-	cm.sendNext("You're not ready for this yet.");
+	cm.sendNext("你还没有准备好。");
 	cm.dispose();
 	}

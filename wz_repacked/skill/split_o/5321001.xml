@@ -1,7 +1,0 @@
-<imgdir name="5321001">
-        <string name="name" value="Nautilus Strike" />
-        <string name="desc" value="Order the Nautilus to attack multiple enemies at once." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount \n#cCooldown: #cooltime sec#" />
-        <string name="pdesc" value="Order the Nautilus to attack multiple enemies at once." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Number of Attacks: #attackCount \n#cCooldown: #cooltime sec#" />
-    </imgdir>

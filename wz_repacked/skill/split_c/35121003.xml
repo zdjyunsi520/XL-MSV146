@@ -1,7 +1,0 @@
-<imgdir name="35121003">
-        <string name="name" value="巨型机器人SG-88" />
-        <string name="desc" value="召唤巨型机器人SG-88攻击附近所有敌人。召唤机器人时会弹出激活量表，通过按普通攻击键可以蓄力并放大伤害（最多为基础量的两倍）。" />
-        <string name="h" value="MP消耗：#mpCon，伤害：#damage%，最大攻击怪物数：#mobCount，冷却时间：#cooltime秒" />
-        <string name="pdesc" value="召唤巨型机器人SG-88攻击附近所有敌人。召唤机器人时会弹出激活量表，通过按普通攻击键可以蓄力并放大伤害（最多为基础量的两倍）。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害：#damage%，最大攻击敌人数：#mobCount\n#c冷却时间：#cooltime秒#" />
-    </imgdir>

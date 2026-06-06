@@ -1,5 +1,0 @@
-<imgdir name="112121006">
-        <string name="name" value="喵喵卡牌" />
-        <string name="desc" value="抽取随机卡牌增益队伍。" />
-        <string name="h" value="MP消耗: #mpCon，\n#红卡# - 伤害: +#indieDamR%\n#蓝卡# - 防御力: +#pdd\n#黄卡# - 攻击速度: +#indieBooster，移动速度: +#indieSpeed\n持续时间: #time秒，冷却时间: #cooltime秒" />
-    </imgdir>

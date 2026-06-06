@@ -1,8 +1,0 @@
-<imgdir name="4321002">
-        <string name="name" value="闪光弹" />
-        <string name="desc" value="投掷闪光弹暂时致盲多个怪物，有几率降低命中值。对BOSS怪物也有效，但持续时间减半~" />
-        <string name="h" value="MP消耗: #mpCon, 伤害: #damage%, 致盲几率: #prop%, 命中值: -#x%持续#time秒, 冷却时间: #cooltime秒" />
-        <string name="pdesc" value="投掷闪光弹暂时致盲多个怪物，有几率降低命中值。" />
-        <string name="ph" value="MP消耗: #mpCon, 伤害: #damage%, 致盲几率: #prop%, 命中值: -#x%持续#time秒, 冷却时间: #cooltime秒" />
-        <string name="hch" value="MP消耗: #mpCon, 伤害: #damage%, 致盲几率: #prop%, 命中值: -#x%, 持续时间: #hcTime秒, 冷却时间: #cooltime秒" />
-    </imgdir>

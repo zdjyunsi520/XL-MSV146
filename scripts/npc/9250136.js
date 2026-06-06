@@ -1,5 +1,5 @@
 function start() {
-	cm.sendYesNo("Do you want to go to the Alien PQ?");
+	cm.sendYesNo("你想前往外星人组队任务吗？");
 }
 
 function action(mode, type, selection) {

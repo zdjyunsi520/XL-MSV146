@@ -39,10 +39,10 @@ function action(mode, type, selection) {
 			    stage = parseInt(eim.getProperty("stage1phase"));
 			}
 			if (stage == 1) {
-			    cm.sendOk("In this challenge, I shall show a pattern on the statues around me. When I give the word, repeat the pattern to me to proceed.");
+			    cm.sendOk("现在我来展示一个更难的谜题。祝好运。");
 			}
 			else {
-			    cm.sendOk("I shall now present a more difficult puzzle for you. Good luck.")
+			    cm.sendOk("做得好。请进入下一阶段。")
 			}
 		    }
 		    else if (eim.getProperty("stage1status").equals("active")) {
@@ -50,7 +50,7 @@ function action(mode, type, selection) {
 			if (eim.getProperty("stage1combo").equals(eim.getProperty("stage1guess"))) {
 			    if (stage == 3) {
 				cm.getMap().getReactorByName("statuegate").hitReactor(cm.getClient());
-				cm.sendOk("Excellent work. Please proceed to the next stage.");
+				cm.sendOk("很好。不过你还有更多要完成的。准备好后再来和我对话。");
 				cm.showEffect(true, "quest/party/clear");
 				cm.playSound(true, "Party1/Clear");
 				var prev = eim.setProperty("stage1clear","true",true);
@@ -59,21 +59,21 @@ function action(mode, type, selection) {
 				}
 			    } else {
                                                                         
-				cm.sendOk("Very good. You still have more to complete, however. Talk to me again when you're ready.");
+				cm.sendOk("你已经完成了第");
 				eim.setProperty("stage1phase", stage + 1);
-				cm.mapMessage("You have completed part " + stage + " of the Gatekeeper Test.");
+				cm.mapMessage("部分的守门者测试。 " + stage + "你没有通过这次测试。");
 			    }
                                                                 
 			} else {
-			    cm.sendOk("You have failed this test.");
-			    cm.mapMessage("You have failed the Gatekeeper Test.");
+			    cm.sendOk("你没有通过守门者测试。");
+			    cm.mapMessage("请稍等。");
 			    eim.setProperty("stage1phase","1")
 			}
 			eim.setProperty("stage1status", "waiting");
 			cm.safeDispose();
 		    }
 		    else {
-			cm.sendOk("Please wait.");
+			cm.sendOk("调试信息：地图中的反应堆：");
 			cm.safeDispose();
 		    }
 		}
@@ -81,17 +81,17 @@ function action(mode, type, selection) {
 		    //only applicable for "waiting"
 		    var reactors = getReactors();
 		    var combo = makeCombo(reactors);
-		    /*/var reactorString = "Debug: Reactors in map: ";
+		    /*/var reactorString = "调试信息：组合中的反应堆： ";
                                                 for (var i = 0; i < reactors.length; i++) {
                                                         reactorString += reactors[i] + " ";
                                                 }
                                                 cm.playerMessage(reactorString);
-                                                reactorString = "Debug: Reactors in combo: ";
+                                                reactorString = "正在展示组合，请稍等。 ";
                                                 for (var i = 0; i < combo.length; i++) {
                                                         reactorString += combo[i] + " ";
                                                 }
                                                 cm.playerMessage(reactorString);*/
-		    cm.mapMessage("Please wait while the combination is revealed.");
+		    cm.mapMessage("我需要你们队伍的队长来和我对话，其他人不行。");
                                                 
 		    var delay = 5000;
 		    for (var i = 0; i < combo.length; i++) {
@@ -104,7 +104,7 @@ function action(mode, type, selection) {
 	    }
 
 	} else {
-	    cm.sendOk("I need the leader of your party to speak with me, nobody else.");
+	    cm.sendOk("调试信息：已选择的反应堆");
 	    cm.safeDispose();
 	}
     }
@@ -130,21 +130,21 @@ function makeCombo(reactors) {
         
     while (combo.length < (stage + 3)) {
 	var chosenReactor = reactors[Math.floor(Math.random() * reactors.length)];
-	//cm.log("Debug: Chosen Reactor " + chosenReactor)
+	//cm.log("调试信息：重复反应堆： " + chosenReactor)
 	var repeat = false;
                 
 	if (combo.length > 0) {
 	    for (var i = 0; i < combo.length; i++) {
 		if (combo[i] == chosenReactor) {
 		    repeat = true;
-		    //cm.log("Debug: repeat reactor: " + chosenReactor);
+		    //cm.log("调试信息：唯一反应堆： " + chosenReactor);
 		    break;
 		}
 	    }
 	}
                 
 	if (!repeat) {
-	    //cm.log("Debug: unique reactor: " + chosenReactor);
+	    //cm.log("调试信息：唯一反应堆： " + chosenReactor);
 	    combo.push(chosenReactor);
 	}
     }

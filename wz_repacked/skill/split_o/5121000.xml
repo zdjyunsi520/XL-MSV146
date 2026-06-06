@@ -1,6 +1,0 @@
-<imgdir name="5121000">
-        <string name="name" value="Maple Warrior" />
-        <string name="desc" value="Increases the stats of all party members. Mastery Book is required to master the skill to level 30." />
-        <string name="h" value="MP Cost: #mpCon, All Stats: +#x%, Duration: #time sec" />
-        <string name="pdesc" value="Increases all team members&apos; stats." />
-    </imgdir>

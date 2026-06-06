@@ -1,5 +1,0 @@
-<imgdir name="36111008">
-        <string name="name" value="Emergency Resupply" />
-        <string name="desc" value="Uses MP to recharge surplus power supplies." />
-        <string name="h" value="MP Cost: #mpCon, Extra power unit charged: #x. Cooldown: #cooltime sec" />
-    </imgdir>

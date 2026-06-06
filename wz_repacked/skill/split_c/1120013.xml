@@ -1,5 +1,0 @@
-<imgdir name="1120013">
-        <string name="name" value="进阶终极攻击" />
-        <string name="desc" value="永久提升物理攻击和命中率，大幅提升终极攻击的伤害和发动概率。需要技能手册才能精通到30级。\n前置技能：#c终极攻击 Lv.20#" />
-        <string name="h" value="Permanently increases ATT by #padX and Accuracy by #ar%. Also has a #prop% chance of activating #damage% damage Final Attack #attackCount times." />
-    </imgdir>

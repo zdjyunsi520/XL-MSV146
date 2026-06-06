@@ -1,5 +1,5 @@
 function start() {
-	cm.sendYesNo("Would you like to leave this place?");
+	cm.sendYesNo("你想离开这个地方吗？");
 }
 
 function action(mode, type, selection) {

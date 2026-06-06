@@ -1,8 +1,0 @@
-<imgdir name="31121003">
-        <string name="name" value="Demon Cry" />
-        <string name="desc" value="Releases your inner demons to intimidate and deal damage on multiple nearby enemies. Enemies will suffer a hit to DEF, ATT, and Accuracy while your EXP and item drop rate increase." />
-        <string name="h" value="HP Cost: #hpCon, Fury Cost: #forceCon, Attack Count: #attackCount, Damage: #damage%, Max Monsters Hit: #mobCount. For #subTime sec, Enemy Attack and Defense -#x%, Accuracy -#x%. EXP and item drop rate: +#w%." />
-        <string name="pdesc" value="Releases your inner demons to intimidate and deal damage on multiple nearby enemies. Enemies will suffer a hit to DEF, ATT, and Accuracy while your EXP and item drop rate increase." />
-        <string name="ph" value="HP Cost: #hpCon, Fury Cost: #forceCon, Attack Count: #attackCount, Damage: #damage%, Max Monsters Hit: #mobCount. For #subTime sec, Enemy Attack and Defense: -#x%, Accuracy -#x%. EXP and Item Drop Rate: +#w%.\nCooldown: #cooltime sec" />
-        <string name="hch" value="HP Cost: #hpCon, Fury Cost: #forceCon, Attack Count: #attackCount, Damage: #damage%, Max Monsters Hit: #mobCount. For #subTime sec, Enemy Attack and Defense: -#x%, Accuracy -#x%. EXP and Item Drop Rate: +#w%.\nCooldown: #hcCooltime sec" />
-    </imgdir>

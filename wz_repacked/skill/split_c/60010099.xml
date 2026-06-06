@@ -1,5 +1,0 @@
-<imgdir name="60010099">
-        <string name="name" value="冰之重击" />
-        <string name="pdesc" value="将斧头变成巨剑，冻结多个敌人！冰之能量槽充能到#c20及以上#时可使用。\n[指令：#c↑↑ + 攻击键#]" />
-        <string name="ph" value="Ice Gauge Cost: #iceGageCon, Damage: #damage%, Max Monsters Hit: #mobCount, Freeze Chance: #prob%, Freeze Duration: #time sec" />
-    </imgdir>

@@ -1,7 +1,0 @@
-<imgdir name="1320011">
-        <string name="name" value="邪眼之复仇" />
-        <string name="desc" value="被击中时，邪眼有几率对攻击者发动反击。攻击有几率一击必杀，并将部分伤害转化为暗黑骑士的HP。但一次回复不超过最大HP的5%。一击必杀时不回复HP。#c自由攻击模式下不激活#~" />
-        <string name="h" value="被击中时，反击几率: #prop%，伤害: #damage%，一击必杀几率: #z%，回复伤害的#x%为HP，反击冷却时间: #cooltime秒" />
-        <string name="pdesc" value="被击中时，邪眼有几率对攻击者发动反击。攻击有几率一击必杀，并将部分伤害转化为暗黑骑士的HP。但一次回复不超过最大HP的5%。一击必杀时不回复HP。#c自由攻击模式下不激活#~" />
-        <string name="ph" value="被击中时，反击几率: #prop%，伤害: #damage%，一击必杀几率: #z%，回复伤害的#x%为HP，反击冷却时间: #cooltime秒" />
-    </imgdir>

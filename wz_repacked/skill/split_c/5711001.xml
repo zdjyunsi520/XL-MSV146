@@ -1,7 +1,0 @@
-<imgdir name="5711001">
-        <string name="name" value="炮塔部署" />
-        <string name="desc" value="召唤升级版炮塔，向周围敌人倾泻弹幕！" />
-        <string name="h" value="MP Cost: #mpCon, Turret Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-        <string name="pdesc" value="召唤升级版炮塔，向周围敌人倾泻弹幕！" />
-        <string name="ph" value="MP Cost: #mpCon, Turret Damage: #damage%, Summon Duration: #time sec, Cooldown: #cooltime sec" />
-    </imgdir>

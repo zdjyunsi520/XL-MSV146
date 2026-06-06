@@ -1,7 +1,0 @@
-<imgdir name="35101004">
-        <string name="name" value="火箭推进器" />
-        <string name="desc" value="使用火箭力量跳跃。着陆时对范围内敌人造成伤害。发射和着陆时各消耗MP。" />
-        <string name="h" value="MP消耗：每次#mpCon（发射和着陆），伤害：#damage%，最大攻击怪物数（着陆时）：#mobCount" />
-        <string name="pdesc" value="使用火箭力量跳跃。着陆时对范围内敌人造成伤害。发射和着陆时各消耗MP。" />
-        <string name="ph" value="MP消耗：每次#mpCon（发射和着陆），伤害：#damage%，最大攻击敌人数（着陆时）：#mobCount" />
-    </imgdir>

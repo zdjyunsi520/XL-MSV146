@@ -1,7 +1,0 @@
-<imgdir name="1120003">
-        <string name="name" value="高级连击" />
-        <string name="desc" value="提升每个连击球的伤害并允许充能更多球。还有几率双倍速度充能。此外还提升熟练度~\n前置技能: #c武器精通 Lv. 10以上，连击协同 Lv. 20以上#" />
-        <string name="h" value="伤害: 每个连击球 +#v%, 最大连击球: 2, 双倍充能速率: #prop%, 武器熟练度: #mastery%" />
-        <string name="pdesc" value="提升每个连击球的伤害并允许充能更多球。还有几率双倍速度充能。此外还提升熟练度~\n前置技能: #c武器精通 Lv. 10以上，连击协同 Lv. 20以上#" />
-        <string name="ph" value="伤害: 每个连击球 +#v%, 最大连击球: 2, 双倍充能速率: #prop%, 武器熟练度: #mastery%" />
-    </imgdir>

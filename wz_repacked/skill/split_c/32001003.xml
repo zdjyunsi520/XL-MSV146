@@ -1,7 +1,0 @@
-<imgdir name="32001003">
-        <string name="name" value="黑暗光环" />
-        <string name="desc" value="产生神秘光环，增加队伍成员造成的伤害。再次按技能键取消光环。可与其他光环同时使用。" />
-        <string name="h" value="MP消耗：#mpCon，伤害提升：+#x%" />
-        <string name="pdesc" value="产生神秘光环，增加队伍成员造成的伤害。再次按技能键取消光环。可与其他光环同时使用。" />
-        <string name="ph" value="MP消耗：#mpCon，伤害提升：+#x%" />
-    </imgdir>

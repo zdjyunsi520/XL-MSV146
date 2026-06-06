@@ -1,5 +1,0 @@
-<imgdir name="65101001">
-        <string name="name" value="粉色猛击" />
-        <string name="desc" value="冲向敌人并造成击退！有几率触发充能。" />
-        <string name="h" value="Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Recharge Chance: #onActive%" />
-    </imgdir>

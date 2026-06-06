@@ -56,7 +56,7 @@ function monsterValue(eim, mobId) { // Killed monster.
     {
        if(stage < 2)
        {
-          map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "Congratulations on defeating wave " + (wave + 1) + " of stage " + (stage + 1) + "!"));
+          map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "恭喜击败第 " + (stage + 1) + " 阶段第 " + (wave + 1) + " 波！"));
           waveEnd(eim);
        } else if (stage == 2) {
      //    spawnNextBoss(eim);
@@ -253,12 +253,12 @@ function waveEnd(eim)
    wave++;
    if(wave > stages[stage].length) //completed a stage
    {
-     map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "Congratulations on completing stage" + stage + "! You will be warped to the next stage in 5 seconds."));
+     map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "恭喜完成第 " + stage + " 阶段！将在 5 秒后传送至下一阶段。"));
      wave = 0;
      stage++;
      eim.schedule("warpToNextStage", 5000);
    } else {
-     map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "The next wave will be spawned in 5 seconds."));
+     map.broadcastMessage(MaplePacketCreator.serverNotice(6, "[PQ] " + "下一波将在 5 秒后出现。"));
      eim.schedule("spawnWave", 5000);
    }
 }

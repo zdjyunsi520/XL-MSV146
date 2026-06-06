@@ -1,7 +1,0 @@
-<imgdir name="4101005">
-        <string name="name" value="吸取" />
-        <string name="desc" value="将对敌人造成的部分伤害吸收为HP。吸收量不能超过最大HP的一半或敌人的最大HP。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Absorbs #x% of the damage" />
-        <string name="pdesc" value="将对敌人造成的部分伤害吸收为HP。吸收量不能超过最大HP的一半或敌人的最大HP。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Absorbs #x% of the damage as HP\nCooldown: #cooltime sec" />
-    </imgdir>

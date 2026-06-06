@@ -1,8 +1,0 @@
-<imgdir name="51121007">
-        <string name="name" value="Four-Point Assault" />
-        <string name="desc" value="Unleashes four soul blades with a chance to blind enemies. The final hit will always be a Critical Hit.\t Inflicts Blind on all monsters, but its duration is cut in half on boss monsters." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #time, Critical Hit on final attack" />
-        <string name="pdesc" value="Unleashes four soul blades with a chance to blind enemies. The final hit will always be a Critical Hit.\t Inflicts Blind on all monsters, but its duration is cut in half on boss monsters." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #time, Critical Hit on final attack" />
-        <string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Blind Chance: #prop%, Accuracy: -#x%, Duration: #hcTime, Critical Hit on Final Attack" />
-    </imgdir>

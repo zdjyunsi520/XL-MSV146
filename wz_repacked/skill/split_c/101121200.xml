@@ -1,5 +1,0 @@
-<imgdir name="101121200">
-        <string name="name" value="风之切割" />
-        <string name="desc" value="攻击前方敌人，并在目标位置创建旋涡造成额外伤害~" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[旋涡]#: 最大敌人数: #x, 每0.5秒伤害: #y%, 攻击次数: #z, 持续时间: #s秒。\n#c冷却时间: #cooltime秒#" />
-    </imgdir>

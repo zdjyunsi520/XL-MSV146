@@ -1,7 +1,0 @@
-<imgdir name="33120011">
-        <string name="name" value="进阶终极攻击" />
-        <string name="desc" value="永久提升攻击力和命中率。大幅提升终极攻击的伤害和发动概率。需要技能手册才能将技能修炼至30级。\n前置技能：#c终极攻击 Lv. 20#" />
-        <string name="h" value="永久提升攻击力#padX，命中率#ar%。另外有#prop%概率发动#damage%伤害的终极攻击" />
-        <string name="pdesc" value="永久提升攻击力和命中率。大幅提升终极攻击的伤害和发动概率。\n前置技能：#c终极攻击 Lv. 20#" />
-        <string name="ph" value="永久提升攻击力#padX，命中率#ar%。另外有#prop%概率发动#damage%伤害的终极攻击" />
-    </imgdir>

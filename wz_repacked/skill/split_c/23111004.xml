@@ -1,7 +1,0 @@
-<imgdir name="23111004">
-        <string name="name" value="烈焰怒吼" />
-        <string name="desc" value="召唤火精灵的力量，在一段时间内大幅提升攻击力。同时永久提升回避率。" />
-        <string name="h" value="主动效果：MP消耗：#mpCon，攻击力：+#indiePad，持续时间：#time秒\n被动效果：回避率：+#prop%" />
-        <string name="pdesc" value="召唤火精灵的力量，在对战模式下大幅提升攻击力一段时间。同时永久提升回避率。" />
-        <string name="ph" value="主动效果：MP消耗：#mpCon，对战模式攻击力：+#PVPdamage，持续时间：#time秒\n被动效果：回避率：+#prop%" />
-    </imgdir>

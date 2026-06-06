@@ -47,15 +47,15 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-            cm.sendSimple("Well, hello! Welcome to Amoria Plastic Surgery! Would you like to transform your face into something new? With a #b#t5152022##k, you can let us take care of the rest and have the face you've always wanted~!\r\n#L1#I would like to buy a #b#t5152022##k for " + price + " mesos, please!#l\r\n\#L2#I already have a Coupon!#l");
+            cm.sendSimple(" 金币！#l\r\n\#L2#我已经有优惠券了！#l " + price + "请慢用！");
         } else if (status == 1) {
             if (selection == 1) {
                 if(cm.getMeso() >= price) {
                     cm.gainMeso(-price);
                     cm.gainItem(5152022, 1);
-                    cm.sendOk("Enjoy!");
+                    cm.sendOk("你的金币不够购买优惠券！");
                 } else {
-                    cm.sendOk("You don't have enough mesos to buy a coupon!");
+                    cm.sendOk("让我看看...我可以完全把你的脸变成全新的样子。不想试试吗？使用#b#t5152022##k，你可以选择你喜欢的脸型。慢慢选择你喜欢的脸型吧。");
                 }
                 cm.dispose();
             } else if (selection == 2) {
@@ -70,16 +70,16 @@ function action(mode, type, selection) {
                         facenew.push(fface[i] + cm.getPlayer().getFace() % 1000 - (cm.getPlayer().getFace() % 100));
                     }
                 }
-                cm.sendStyle("Let's see... I can totally transform your face into something new. Don't you want to try it? For #b#t5152022##k, you can get the face of your liking. Take your time in choosing the face of your preference.", facenew);
+                cm.sendStyle("享受你的全新面容吧！", facenew);
             }
         }
         else if (status == 2){			
             if (cm.haveItem(5152022) == true){
                 cm.gainItem(5152022, -1);
                 cm.setFace(facenew[selection]);
-                cm.sendOk("Enjoy your new and improved face!");
+                cm.sendOk("嗯...看来你没有这个地方专用的优惠券。很抱歉，没有优惠券的话就无法为你做整形手术...");
             } else {
-                cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+                cm.sendOk("嗯...看来你没有这个地方专用的优惠券。很抱歉，没有优惠券的话就无法为你做整形手术...");
                 cm.dispose();
             }
         }

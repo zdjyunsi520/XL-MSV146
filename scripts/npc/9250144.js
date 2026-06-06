@@ -12,7 +12,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 0 && mode == 0) {
-	cm.sendOk("Shutting Down.");
+	cm.sendOk("你想前往过去吗？");
 	cm.dispose();
 	return;
     }
@@ -23,9 +23,9 @@ function action(mode, type, selection) {
     if (status == 0) {
 	cm.sendNext("Booting...");
 	} else if (status == 1) {
-	cm.sendYesNo("Would you like to proceed to the past?");
+	cm.sendYesNo("正在传送至过去..");
     } else if (status == 2) {
-	cm.sendNext("Sending to past..");
+	cm.sendNext("正在传送至过去..");
 	//cm.showWZEffect("Effect/DirectionVisitor.img/effect/TimeTravel");
     } else if (status == 3) {
 	cm.warp(502021010, 0);

@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNextS("I should complete Mai's quest first.",16);
+	    cm.sendNextS("我应该先完成Mai的任务。",16);
 		cm.dispose();
     }
 }

@@ -1,7 +1,0 @@
-<imgdir name="14101009">
-        <string name="name" value="疾风符咒" />
-        <string name="desc" value="凝风为刃，对敌人造成伤害并将其击退。" />
-        <string name="h" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，最大攻击敌人数：#mobCount，击退距离：#range" />
-        <string name="pdesc" value="凝风为刃，对敌人造成伤害并将其击退。" />
-        <string name="ph" value="MP消耗：#mpCon，消耗飞镖#bulletConsume枚，伤害：#damage%，最大攻击敌人数：#mobCount，击退距离：#range" />
-    </imgdir>

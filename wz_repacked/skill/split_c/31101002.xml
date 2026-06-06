@@ -1,8 +1,0 @@
-<imgdir name="31101002">
-        <string name="name" value="混沌锁链" />
-        <string name="desc" value="锁定并攻击离你最近的敌人。有概率使敌人眩晕。可以使用方向键进行瞬移。" />
-        <string name="h" value="怒气消耗：#forceCon，瞬移后 - 伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒" />
-        <string name="pdesc" value="锁定并攻击离你最近的敌人。有概率使敌人眩晕。可以使用方向键进行瞬移。" />
-        <string name="ph" value="怒气消耗：#forceCon，瞬移后 - 伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#prop%，眩晕持续时间：#time秒\n冷却时间：#cooltime秒" />
-        <string name="hch" value="怒气消耗：#forceCon，瞬移后 - 伤害：#damage%，最大攻击怪物数：#mobCount，眩晕概率：#hcProp%，眩晕持续时间：#hcTime秒\n冷却时间：#hcCooltime秒" />
-    </imgdir>

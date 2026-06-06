@@ -1,7 +1,0 @@
-<imgdir name="3000002">
-        <string name="name" value="弓术精通" />
-        <string name="desc" value="掌握弓术基础要领，提升命中值、回避值、射程、速度和最大速度。使用技能不需要消耗箭矢~" />
-        <string name="h" value="命中值 +#acc, 回避值 +#eva, 射程 +#range, 移动速度 +#speed, 最大移动速度提升至 #u" />
-        <string name="pdesc" value="掌握弓术基础要领，提升命中值、回避值、射程、速度和最大速度。使用技能不需要消耗箭矢~" />
-        <string name="ph" value="命中值 +#acc, 回避值 +#eva, 射程 +#range, 移动速度 +#speed, 最大移动速度提升至 #u" />
-    </imgdir>

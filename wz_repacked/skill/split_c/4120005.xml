@@ -1,7 +1,0 @@
-<imgdir name="4120005">
-        <string name="name" value="毒液飞镖" />
-        <string name="desc" value="拳套上永久涂有毒液，所有攻击有几率使敌人中毒。毒不可叠加，敌人的HP不会降到1以下。" />
-        <string name="h" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-        <string name="pdesc" value="匕首上永久涂有毒液，你可以选择使敌人中毒。毒不可叠加，敌人的HP不会降到1以下。" />
-        <string name="ph" value="Poison Chance: #prop%, #dot% damage every #dotInterval sec for #dotTime sec" />
-    </imgdir>

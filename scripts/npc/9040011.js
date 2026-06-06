@@ -8,6 +8,6 @@
 
 
 function action(mode, type, selection) {
-    cm.sendOk("<Notice> \r\n Are you part of a Guild that possesses an ample amount of courage and trust? Then take on the Guild Quest and challenge yourselves!\r\n\r\n#bTo Participate :#k\r\n1. The Guild must consist of at least 6 people!\r\n2. The leader of the Guild Quest must be a Master or a Jr. Master of the Guild!\r\n3. The Guild Quest may end early if the number of guild members participating falls below 6, or if the leader decides to end it early!");
+    cm.sendOk("<公告> \r\n 你的公会是否拥有充足的勇气和信任？那就来挑战公会任务吧！\r\n\r\n#b参与条件：#k\r\n1. 公会必须至少有6名成员！\r\n2. 公会任务的领导者必须是公会会长或副会长！\r\n3. 如果参与成员少于6人，或领导者决定提前结束，公会任务将提前结束！");
     cm.safeDispose();
 }

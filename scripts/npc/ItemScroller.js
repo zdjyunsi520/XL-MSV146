@@ -22,7 +22,7 @@ function action(mode, type, selection) {
     status++;
     switch (status) {
         case 0:
-            var selStr = "I can help you scroll an item:\r\n\r\n#b";
+            var selStr = "错误，请重试。";
             var inv = cm.getInventory(1);
             for (var i = 0; i <= inv.getSlotLimit(); i++) {
                 slot.push(i);
@@ -40,20 +40,20 @@ function action(mode, type, selection) {
             selected = (selection % 1000) | 0;
             var inzz = cm.getInventory(invv);
             if (selected >= inzz.getSlotLimit()) { 
-                cm.sendOk("Error, please try again.");
+                cm.sendOk("你想给#v");
                 cm.dispose();
                 return;
             }
             statsSel = inzz.getItem(slot[selected]);
             if (statsSel == null) {
-                cm.sendOk("Error, please try again.");
+                cm.sendOk("你想给#v");
                 cm.dispose();
                 return;
             }
-            cm.sendYesNo("You want to scroll #v" + statsSel.getItemId() + "##t" + statsSel.getItemId() + "#?");
+            cm.sendYesNo("选择你的卷轴：\r\n\r\n#b" + statsSel.getItemId() + "##t" + statsSel.getItemId() + "#?");
             break;
         case 2:
-            var selStr2 = "Choose your scroll:\r\n\r\n#b";
+            var selStr2 = "你想使用#v";
             var inv2 = cm.getInventory(1);
             for (var i2 = 0; i2 <= inv2.getSlotLimit(); i2++) {
                 slot2.push(i2);
@@ -71,23 +71,23 @@ function action(mode, type, selection) {
             selected2 = (selection % 1000) | 0;
             var inzz2 = cm.getInventory(invv2);
             if (selected2 >= inzz2.getSlotLimit()) { 
-                cm.sendOk("Error, please try again.");
+                cm.sendOk("你想给#v");
                 cm.dispose();
                 return;
             }
             statsSel2 = inzz2.getItem(slot2[selected2]);
             if (statsSel2 == null) {
-                cm.sendOk("Error, please try again.");
+                cm.sendOk("你想给#v");
                 cm.dispose();
                 return;
             }
-            cm.sendYesNo("You want to use #v" + statsSel2.getItemId() + "##t" + statsSel2.getItemId() + "#?");
+            cm.sendYesNo("物品成功使用了卷轴！" + statsSel2.getItemId() + "##t" + statsSel2.getItemId() + "#?");
             break;
         case 4:
             if (cm.scrollItem(slot2[selected2], slot1[selected1])) {
-                cm.sendOk("Item Scrolled Successfully!");
+                cm.sendOk("你不能在那件物品上使用那张卷轴。");
             } else {
-                cm.sendOk("You cannot use that scroll on that item.");
+                cm.sendOk("你不能在那件物品上使用那张卷轴。");
             }
             cm.dispose();
             break;

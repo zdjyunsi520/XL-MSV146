@@ -1,7 +1,0 @@
-<imgdir name="5721003">
-        <string name="name" value="强力陨石" />
-        <string name="desc" value="向敌人投掷爆炸陨石，削弱敌人。之后所有攻击都会集中在该怪物上，且所有攻击造成额外伤害。" />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: +#x%" />
-        <string name="pdesc" value="向敌人投掷爆炸陨石，削弱敌人。之后所有攻击都会集中在该怪物上，且所有攻击造成额外伤害。" />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Bonus Damage: +#x%" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="101000101">
-        <string name="name" value="空中暴动" />
-        <string name="desc" value="更强力的空袭，提升伤害并附带大范围冲击波。\n[前置技能]: #c空袭 Lv. 10#" />
-        <string name="h" value="时间之力消耗: #forceCon, 伤害: #damage%, 攻击次数: #attackCount, 最大敌人数: #mobCount。\n#c[冲击波]#: 伤害: #z%, 攻击次数: #s, 最大敌人数: #x。眩晕几率: #u%, 持续时间: #q秒。" />
-    </imgdir>

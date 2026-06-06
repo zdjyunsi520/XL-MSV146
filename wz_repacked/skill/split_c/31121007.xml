@@ -1,5 +1,0 @@
-<imgdir name="31121007">
-        <string name="name" value="无尽之怒" />
-        <string name="desc" value="消耗所有剩余怒气，让自己进入狂暴的狂战士模式。短时间内所有消耗怒气的技能免费使用，但冷却时间很长。" />
-        <string name="h" value="怒气消耗：#forceCon，使用技能不消耗怒气，持续时间：#time秒\n冷却时间：#cooltime秒" />
-    </imgdir>

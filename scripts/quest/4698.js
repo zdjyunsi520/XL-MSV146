@@ -12,7 +12,7 @@ function start(mode, type, selection) {
 	    status++;
 	}
 	if (status == 0) {
-	    qm.sendNext("I don't think you can escape from here now. If you do plan on battling here, you'll need more teammates to make it an even fight. What do you want to do? Do you still want to battle?");
+	    qm.sendNext("我觉得你现在逃不掉。如果你打算在这里战斗，你需要更多的队友才能势均力敌。你想怎么做？你还想战斗吗？");
 	} else if (status == 1) {
 	    qm.warp(802000109, 0);
 	    //qm.forceStartQuest();

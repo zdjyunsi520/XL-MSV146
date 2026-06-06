@@ -1,7 +1,0 @@
-<imgdir name="5321010">
-        <string name="name" value="Pirate&apos;s Spirit" />
-        <string name="desc" value="Permanently increase the chance of a successful counterattack, and allows you resist being knocked back for a fixed period of time." />
-        <string name="h" value="Active Effect - MP Cost: #mpCon, Duration: #time sec, Stance Chance: #x%\nPassive Effect - Permanently increases chance of counterattack by #prop%" />
-        <string name="pdesc" value="Permanently increase the chance of a successful counterattack, and allows you resist being knocked back for a fixed period of time." />
-        <string name="ph" value="Active Effect - MP Cost: #mpCon, Duration: #time sec, Stance Chance: #x%\nPassive Effect - Permanently increases chance of counterattack by #prop%" />
-    </imgdir>

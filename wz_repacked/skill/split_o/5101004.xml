@@ -1,7 +1,0 @@
-<imgdir name="5101004">
-        <string name="name" value="Corkscrew Blow" />
-        <string name="desc" value="Allows you to punch multiple monsters at once with energized fist." />
-        <string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount" />
-        <string name="pdesc" value="Allows you to punch multiple monsters at once with energized fist." />
-        <string name="ph" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Cooldown: #cooltime sec" />
-    </imgdir>

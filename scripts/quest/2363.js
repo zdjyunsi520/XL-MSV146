@@ -9,7 +9,7 @@ function end(mode, type, selection) {
 	    qm.expandInventory(3, 4);
 	    qm.expandInventory(4, 4);
 	    qm.gainItem(1342000, 1);
-	    qm.sendNext("You are now a Dual Blader.");
+	    qm.sendNext("你现在是一名双刀了。");
 	}
 	qm.dispose();
 }

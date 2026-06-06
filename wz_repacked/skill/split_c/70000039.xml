@@ -1,5 +1,0 @@
-<imgdir name="70000039">
-        <string name="name" value="异常状态目标额外伤害" />
-        <string name="desc" value="攻击处于异常状态的目标时增加伤害。" />
-        <string name="h" value="+#abnormalDamR% damage when attacking targets inflicted with Stun, Blindness, or Freeze status" />
-    </imgdir>

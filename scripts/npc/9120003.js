@@ -12,15 +12,15 @@ function action(mode, type, selection) {
     if (mode == 1)
 	status++;
     else {
-	cm.sendOk("Please come back some other time.");
+	cm.sendOk("你想进入浴场吗？需要");
 	cm.dispose();
 	return;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to enter the bathhouse? That'll be "+300+" mesos for you");
+	cm.sendYesNo("金币 "+300+"请确认你是否有");
     } else if (status == 1) {
 	if (cm.getMeso() < 300) {
-	    cm.sendOk("Please check and see if you have "+300+" mesos to enter this place.");
+	    cm.sendOk("金币来进入这个地方。 "+300+"金币来进入这个地方。");
 	} else {
 	    cm.gainMeso(-300);
 	    if (cm.getPlayerStat("GENDER") == 0) {

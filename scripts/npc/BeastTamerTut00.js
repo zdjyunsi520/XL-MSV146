@@ -15,7 +15,7 @@ function action(mode, type, selection) {
         status--;
     }
     if (status == 0) {
-	    cm.sendYesNoS("Would you like to skip the tutorial cutscenes?",5,9010000);
+	    cm.sendYesNoS("你想跳过教程过场动画吗？",5,9010000);
 	} else if (status == 1) {	
 	    cm.warp(866191000,0);
         cm.dispose();

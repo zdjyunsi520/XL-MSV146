@@ -1,7 +1,0 @@
-<imgdir name="5321010">
-        <string name="name" value="海盗之魂" />
-        <string name="desc" value="永久提升反击成功率，并在一段时间内抵抗击退效果！" />
-        <string name="h" value="Active Effect - MP Cost: #mpCon, Duration: #time sec, Stance Chance: #x%\nPassive Effect - Permanently increases chance of counterattack by #prop%" />
-        <string name="pdesc" value="永久提升反击成功率，并在一段时间内抵抗击退效果！" />
-        <string name="ph" value="Active Effect - MP Cost: #mpCon, Duration: #time sec, Stance Chance: #x%\nPassive Effect - Permanently increases chance of counterattack by #prop%" />
-    </imgdir>

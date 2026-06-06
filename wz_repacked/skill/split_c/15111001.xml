@@ -1,7 +1,0 @@
-<imgdir name="15111001">
-        <string name="name" value="能量汲取" />
-        <string name="desc" value="吸收怪物的一部分HP来恢复自身的HP。只有在#c能量充满#时才能使用。\\n需要技能：#c能量蓄积 Lv. 1#" />
-        <string name="h" value="伤害：#damage%，吸收量：#x%" />
-        <string name="pdesc" value="吸收怪物的一部分HP来恢复自身的HP。只有在#c能量充满#时才能使用。\\n需要技能：#c能量蓄积 Lv. 1#" />
-        <string name="ph" value="伤害：#damage%，吸收伤害的#x%转化为HP\n冷却时间：#cooltime秒" />
-    </imgdir>

@@ -13,7 +13,7 @@ function action(mode, type, selection) {
 		cm.sendDirectionStatus(4, 2159307);
 		cm.sendDirectionInfo("Effect/Direction6.img/effect/tuto/balloonMsg1/4");
 		cm.EnableUI(1);
-		cm.sendPlayerToNpc("This is....");
+		cm.sendPlayerToNpc("这是....");
     } else if (status == 1) {
 		cm.showMapEffect("demonSlayer/pendant");
 		cm.sendDirectionStatus(1, 4200);

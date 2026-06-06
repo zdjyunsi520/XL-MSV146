@@ -1,7 +1,0 @@
-<imgdir name="1121008">
-        <string name="name" value="Raging Blow" />
-        <string name="desc" value="Deals multiple blows to multiple enemies in front of you. #cThe final blow will always be a critical#. While you are Enraged, your single attacks are more powerful." />
-        <string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, #cFinal attack is critical#\n#cWhen in Enrage#, Damage: +#damR%, #cthe final two attacks are criticals#" />
-        <string name="pdesc" value="Deals multiple blows to multiple enemies in front of you. #cThe final blow will always be a critical#. While you are Enraged, your single attacks are more powerful." />
-        <string name="ph" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, #cFinal attack is critical#\n#cWhen in Enrage#, Damage: +#damR%, #cthe final two attacks are criticals#" />
-    </imgdir>

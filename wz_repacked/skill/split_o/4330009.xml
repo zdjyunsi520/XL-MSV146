@@ -1,7 +1,0 @@
-<imgdir name="4330009">
-        <string name="name" value="Shadow Meld" />
-        <string name="desc" value="Increases your chance to dodge incoming attacks. A successful dodge will also put you into a 7 second frenzy, where your attack power increases and every hit becomes a Critical.\n#cMastery Book required to unlock Lv. 11#" />
-        <string name="h" value="Dodge Chance: #er%, Upon successful dodge, ATT +#indiePad and all attacks performed afterwards will be Critical Hits for #time sec. Cooldown upon successful dodge: 5 Sec." />
-        <string name="pdesc" value="Increases your chance to dodge incoming attacks. A successful dodge will also put you into a 7 second frenzy, where your attack power increases and every hit becomes a Critical.\n#cMastery Book required to unlock Lv. 11#" />
-        <string name="ph" value="Dodge Chance: #er%, Upon successful dodge, ATT +#indiePad and all attacks performed afterwards will be Critical Hits for #time sec. Cooldown upon successful dodge: 5 Sec." />
-    </imgdir>

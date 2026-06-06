@@ -1,7 +1,0 @@
-<imgdir name="32120000">
-        <string name="name" value="进阶黑暗光环" />
-        <string name="desc" value="永久提升魔法攻击力并升级黑暗光环功能。还有一定概率对攻击目标造成持续伤害。\n前置技能：#c黑暗光环 Lv.20及以上#" />
-        <string name="h" value="主动效果 - MP消耗：#mpCon，伤害：+#x%（黑暗光环），概率：#prop%，持续时间：#dotTime秒。每#dotInterval秒造成持续伤害。持续伤害：#dot%。最多叠加#dotSuperpos次。\n被动效果：永久提升魔法攻击力#madX" />
-        <string name="pdesc" value="永久提升魔法攻击力并升级黑暗光环技能。使用黑暗光环时，附近敌人将持续受到伤害直到HP降至1。\n前置技能：#c黑暗光环 Lv. 20#" />
-        <string name="ph" value="主动效果 - MP消耗：#mpCon，+#x%，黑暗光环伤害：+#damage%/秒\n被动效果 - 魔法攻击力：+#madX" />
-    </imgdir>

@@ -1,5 +1,0 @@
-<imgdir name="5111013">
-        <string name="name" value="Hedgehog Buster" />
-        <string name="desc" value="Ignites the energy to attack multiple nearby enemies. Has a chance to stun enemies." />
-        <string name="h" value="Energy Cost: #forceCon, Damage: #damage%, Max Enemies Hit: #mobCount, Stun Chance: #prop%, Stun Duration: #time sec" />
-    </imgdir>

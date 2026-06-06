@@ -14,21 +14,21 @@ function action(mode, type, selection) {
     }
     
     if (status == 0) {
-        cm.sendGetText("Password?")
+        cm.sendGetText("#r错误#k：密码无效。")
     } else if (status == 1) {
         if (cm.getText() != "Pokemon") {
-            cm.sendOk("#rError#k: Invalid password.");
+            cm.sendOk("#g验证通过#k。请输入你想要的内容。");
             cm.dispose();
         }
-        cm.sendGetNumber("#gVerified#k. Enter what you want.", 0, 0, 99999999);
+        cm.sendGetNumber("请输入数量。", 0, 0, 99999999);
     } else if (status == 2) {
         id = selection;
-        cm.sendGetNumber("Enter the amount.", 1, 1, 999999);
+        cm.sendGetNumber("#r错误#k：空间不足。", 1, 1, 999999);
     } else if (status == 3) {
         if (cm.canHold(id, selection))
             cm.gainItem(id, selection);
         else
-            cm.sendOk("#rError#k: Not enough space.");
+            cm.sendOk("#r错误#k：空间不足。");
         cm.dispose();
     }
 }

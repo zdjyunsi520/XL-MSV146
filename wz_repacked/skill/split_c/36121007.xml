@@ -1,5 +1,0 @@
-<imgdir name="36121007">
-        <string name="name" value="时空舱" />
-        <string name="desc" value="扭曲时间流动的时空舱，快速减少附近队员的技能冷却时间。时空舱被攻击会被破坏。自己的超级技能会受到影响，但部分技能除外。" />
-        <string name="h" value="MP Cost: #mpCon, Duration of party cooldown reduction effect: #time. Cooldown: #cooltime sec" />
-    </imgdir>

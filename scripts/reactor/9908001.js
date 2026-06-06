@@ -9,6 +9,6 @@ function act() {
 	var keys = eim.getProperty("goldkey");
 	keys++
 	eim.setProperty("goldkey", keys);
-	rm.playerMessage("Acquired key "+keys+".");
+	rm.playerMessage("获得了钥匙 "+keys+".");
     }
 }

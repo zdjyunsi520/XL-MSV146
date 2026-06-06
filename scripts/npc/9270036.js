@@ -18,7 +18,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("Welcome to the Quick-Hand Hair-Salon! Do you, by any chance, have #b#t5150033##k or #b#t5151028 ##k? If so, how about letting me take care of your hair? Please what you want to do with it.\r\n#L1#Haircut: #i5150033##t5150033##l\r\n#L2#Dye your hair: #i5151028##t5151028##l");
+	cm.sendSimple("我可以完全改变你的发型。不想改变一下吗？用#b#t5150033##k，我来帮你打理。选择你喜欢的风格吧！");
     } else if (status == 1) {
 	if (selection == 1) {
 	    var hair = cm.getPlayerStat("HAIR");
@@ -33,7 +33,7 @@ function action(mode, type, selection) {
 	    for (var i = 0; i < hair_Colo_new.length; i++) {
 		hair_Colo_new[i] = hair_Colo_new[i] + (hair % 10);
 	    }
-	    cm.askAvatar("I can completely change the look of your hair. Aren't you ready for a change? With #b#t5150033##k, I'll take care of the rest for you. Choose the style of your liking!", hair_Colo_new);
+	    cm.askAvatar("我可以完全改变你的发色。不想改变一下吗？用#b#t5151028##k，我来帮你打理。选择你喜欢的颜色吧！", hair_Colo_new);
 	} else if (selection == 2) {
 	    var currenthaircolo = Math.floor((cm.getPlayerStat("HAIR") / 10)) * 10;
 	    hair_Colo_new = [];
@@ -42,20 +42,20 @@ function action(mode, type, selection) {
 	    for (var i = 0; i < 8; i++) {
 		hair_Colo_new[i] = currenthaircolo + i;
 	    }
-	    cm.askAvatar("I can completely change the look of your hair. Aren't you ready for a change? With #b#t5151028##k, I'll take care of the rest. Choose the color of your liking!", hair_Colo_new);
+	    cm.askAvatar("享受你全新改进的发型吧！", hair_Colo_new);
 	}
     } else if (status == 2){
 	if (beauty == 1){
 	    if (cm.setAvatar(5150033, hair_Colo_new[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved hairstyle!");
+		cm.sendOk("嗯...看起来你没有我们指定的券...恐怕没有券我无法给你理发。抱歉...");
 	    } else {
-		cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't give you a haircut without it. I'm sorry...");
+		cm.sendOk("享受你全新改进的发色吧！");
 	    }
 	} else {
 	    if (cm.setAvatar(5151028, hair_Colo_new[selection]) == 1) {
-		cm.sendOk("Enjoy your new and improved haircolor!");
+		cm.sendOk("嗯...看起来你没有我们指定的券...恐怕没有券我无法给你染发。抱歉...");
 	    } else {
-		cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't dye your hair without it. I'm sorry...");
+		cm.sendOk("嗯...看起来你没有我们指定的券...恐怕没有券我无法给你染发。抱歉...");
 	    }
 	}
 	cm.dispose();

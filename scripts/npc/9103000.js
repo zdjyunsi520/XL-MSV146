@@ -17,18 +17,18 @@ function action(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-	    cm.sendNext("Great job escaping the maze! Did you collect the coupons from the monsters standing in your way at the maze?");
+	    cm.sendNext("做得好！你收集了#b");
 
 	} else if (status == 1) {
 	    if (cm.getParty() != null && isLeader()) {
 		if (cm.itemQuantity(4001106) >= 30) {
-		    cm.sendOk("Good job! you collected #b" + cm.itemQuantity(4001106) + " #t4001106#'s\r\n#kYou may pass on to get your reward");
+		    cm.sendOk("个#t4001106#\r\n#k你可以领取奖励了" + cm.itemQuantity(4001106) + "请去收集更多的优惠券。\r\n你至少需要#b30张优惠券");
 		} else {
-		    cm.sendOk("Please go collect more coupons.\r\nyou need at least #b30 Coupons");
+		    cm.sendOk("请告诉#b你们的队长#k，收集完所有队员的优惠券后前来和我对话。");
 		    cm.dispose();
 		}
 	    } else {
-		cm.sendPrev("Please tell #byour party leader#k to speak to me after gathering all the coupons from the party members.");
+		cm.sendPrev("请告诉#b你们的队长#k，收集完所有队员的优惠券后前来和我对话。");
 		cm.dispose();
 	    }
 
