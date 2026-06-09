@@ -6,9 +6,9 @@ function enter(pi) {
 	    map.respawn(true);
 	    pi.warp(913020300, 0);
 	} else {
-	    pi.playerMessage("Someone is already attempting to defeat the boss. Better come back later.");
+	    pi.playerMessage("已经有人在挑战BOSS了，请稍后再来。");
 	}
     } else {
-	pi.playerMessage("Hall #4 is only available to those that are training for Level 110 skill.");
+	pi.playerMessage("大厅#4只对修炼110级技能的人开放。");
     }
 }

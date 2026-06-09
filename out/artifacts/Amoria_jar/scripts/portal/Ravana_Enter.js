@@ -7,7 +7,7 @@ function enter(pi) {
 	} else if (pi.getPlayer().getLevel() > 90) {
 		to_spawn = 9500391;
 	} else if (pi.getPlayer().getLevel() < 50) {
-		pi.playerMessage(5, "You must be atleast level 50.");
+		pi.playerMessage(5, "你的等级必须达到50级。");
 		return false;
 	}
 	var rav = "EASY";
@@ -24,7 +24,7 @@ function enter(pi) {
 		return true;
 	}
     if (pi.getPlayer().getParty() == null || !pi.isLeader()) {
-	pi.playerMessage(5, "The leader of the party must be here.");
+	pi.playerMessage(5, "队伍队长必须在这里。");
 	return false;
 }
 	//9500390 = level 50-90, 9500391 = level 90-120, 9500392 = level 120+
@@ -61,26 +61,26 @@ function enter(pi) {
 		var em3 = pi.getEventManager("Ravana_HARD");
 		var em = pi.getEventManager("Ravana_" + rav);
 		if (em == null || em1 == null || em2 == null || em3 == null) {
-			pi.playerMessage(5, "This event is currently not available.");
+			pi.playerMessage(5, "此活动目前不可用。");
 		} else {
 			var prop1 = em1.getProperty("state");
 			var prop2 = em2.getProperty("state");
 			var prop3 = em3.getProperty("state");
 			var prop = em.getProperty("state");
 			if (prop1 != null && !prop1.equals("0")) {
-				pi.playerMessage(5, "Someone is already attempting this boss.");
+				pi.playerMessage(5, "已经有人在挑战这个BOSS了。");
 			} else if (prop2 != null && !prop2.equals("0")) {
-				pi.playerMessage(5, "Someone is already attempting this boss.");
+				pi.playerMessage(5, "已经有人在挑战这个BOSS了。");
 			} else if (prop3 != null && !prop3.equals("0")) {
-				pi.playerMessage(5, "Someone is already attempting this boss.");
+				pi.playerMessage(5, "已经有人在挑战这个BOSS了。");
 			} else if (prop != null && !prop.equals("0")) {
-				pi.playerMessage(5, "Someone is already attempting this boss.");
+				pi.playerMessage(5, "已经有人在挑战这个BOSS了。");
 			} else {
 				em.startInstance(pi.getParty(), pi.getMap());
 			}
 		}
 	} else {
-		pi.playerMessage(5, "All of your party members require 30 Sunbursts! Come back to me when you have met my requirements. They also have be in the same level range as you (level ranges: 50-90, 91-120, 121+, 141+)");
+		pi.playerMessage(5, "你的所有队员需要30个日光！满足我的要求后再来找我。他们还需要和你处于相同的等级范围（等级范围：50-90，91-120，121+，141+）");
 		return false;
 	}
     return true;

@@ -97,15 +97,15 @@ function allMonstersDead(eim) {
 
     eim.setProperty("points", totalp);
 
-    eim.broadcastPlayerMsg(5, "Your team gained "+num+" points! With a total of "+totalp+".");
+    eim.broadcastPlayerMsg(5, "您的队伍获得了 "+num+" 积分！总计 "+totalp+"。");
 
     eim.saveBossQuest(num);
 
     if (mobnum < monster.length) {
-	eim.broadcastPlayerMsg(6, "Prepare! The next boss will appear in a glimpse of an eye!");
+	eim.broadcastPlayerMsg(6, "准备！下一个BOSS瞬间出现！");
 } else {
 	eim.saveBossQuest(200);
-	eim.broadcastPlayerMsg(5, "Your team beaten the EASY mode and have gained an extra 200 points!");
+	eim.broadcastPlayerMsg(5, "您的队伍已通关EASY模式，额外获得200积分！");
 	    while(iter.hasNext()){
             var chr = iter.next();
             chr.gainMaplePoints(25000);

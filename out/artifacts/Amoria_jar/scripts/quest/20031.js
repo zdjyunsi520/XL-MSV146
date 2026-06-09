@@ -13,17 +13,17 @@ function end(mode, type, selection) {
         return;
     }
     if (status == 0) {
-        qm.sendNext("What took so long?! You better not have been rooting through my things!\r\n\r\n#b#L0#I wasn't, but I found this letter up there by the potion box... It's from some guy named Chromile.#l");
+        qm.sendNext("怎么去了这么久？！你最好没在翻我的东西！\r\n\r\n#b#L0#我没有，但我在上面药箱旁边发现了这封信...是一个叫克罗米勒的人写的。#l");
     } else if (status == 1) {	
-        qm.sendNext("What?! Who told you could touch that?!");
+        qm.sendNext("什么？！谁让你碰那个的？！");
     } else if (status == 2) {
         qm.introEnableUI(1);
-        qm.sendPlayerToNpc("Another great day with the old man...");
+        qm.sendPlayerToNpc("又是和老头子在一起的美好一天...");
         while (qm.getPlayer().getLevel() < 4)
             qm.getPlayer().levelUp();
         qm.getPlayer().setExp(0);
     } else if (status == 3) {
-        qm.sendPlayerToNpc("Huh? What's that?");
+        qm.sendPlayerToNpc("嗯？那是什么？");
     } else if (status == 4) {
         qm.forceCompleteQuest();
         qm.dispose();

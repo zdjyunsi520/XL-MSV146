@@ -3,12 +3,12 @@
 */
 
 function start() {
-    cm.sendYesNo("Wanna ride to Rien, you stanky ho?");
+    cm.sendYesNo("想去瑞恩岛吗，你这个小鬼？");
 }
 
 function action(mode, type, selection) {
     if (mode == 0) {
-	cm.sendOk("FUUUUUU!, COME WITH ME!");
+	cm.sendOk("嗷！跟我走吧！");
     } else {
 	cm.warp(140000000,0);
     }

@@ -1,5 +1,5 @@
 function start() {
-	cm.sendNext("Hello, I'm #bSerge#k!\r\nI sell #rCanes#k. Do you want one?");
+	cm.sendNext("你好，我是#b塞尔日#k！\r\n我出售#r手杖#k。你需要一把吗？");
 }
 
 function action (m, t, s) {

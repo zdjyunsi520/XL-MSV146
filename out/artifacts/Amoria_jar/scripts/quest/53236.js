@@ -10,15 +10,15 @@ function start(mode, type, selection) {
             status--;
 
         if (status == 0) {
-            qm.sendNext("Thoi gian kho luyen the nao "+qm.getPlayer().getName()+", thu vi chu?",1072008);
+            qm.sendNext("经过一段时间的修炼 "+qm.getPlayer().getName()+"很有趣吧？",1072008);
         } else if (status == 1) {
-            qm.sendPlayerToNpc("Cam on Kyrin, toi thay minh cung manh len kha kha. Toi can 1 suc manh lon hon!");
+            qm.sendPlayerToNpc("谢谢凯琳，我觉得自己也变强了不少。我需要更大的力量！");
         } else if (status == 2) {
-            qm.sendNext("Toi nhin thay dieu do trong mat cau. Hay tim gap #p9270091#, anh ta se giup cau. Anh ay da sua giup toi khau sung, that tot bung ^^!",1072008);
+            qm.sendNext("我在你眼中看到了这一点。快去找#p9270091#，他会帮你的。他已经修好了我的枪，真是太好了^^！",1072008);
         } else if (status == 3) {
-            qm.sendNext("Toi se dua cau di gap anh ta. The nao, di luon nhe!",1072008);
+            qm.sendNext("我带你去见他。怎么样，现在就走吧！",1072008);
         } else if (status == 4) {
-            qm.sendPlayerToNpc("Oh, vay thi tot qua. Cam on co Kyrin.");
+            qm.sendPlayerToNpc("哦，那太好了。谢谢凯琳姐姐。");
         } else if (status == 5) {
             qm.forceStartQuest();
             qm.warp(552000071,1);

@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
- 	qm.sendOk("Come to Mu Lung.");
+ 	qm.sendOk("来武陵。");
 	qm.forceCompleteQuest();
 	qm.dispose();
 }

@@ -24,9 +24,9 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if(status == 0)
-			cm.sendNext("You, who are destined to be a Dragon Master...You have finally arrived.");
+			cm.sendNext("命中注定成为龙之主的你……终于到了。");
 		if(status == 1)
-			cm.sendNextPrev("Go and fulfill your duties as the Dragon Master...");
+			cm.sendNextPrev("去履行你作为龙之主的职责吧……");
 		if(status == 2){
 			cm.warp(900090101);
 			cm.dispose();

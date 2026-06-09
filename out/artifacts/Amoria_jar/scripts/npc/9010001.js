@@ -4,6 +4,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-	cm.sendNext("Hi, I'm Tia.");
+	cm.sendNext("你好，我是蒂亚。");
 	cm.safeDispose();
 }

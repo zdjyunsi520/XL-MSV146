@@ -5,6 +5,6 @@
 */
 
 function start(){
-	cm.sendNext("Thanks to you, the Toy Factory is running smoothly again. I'm so glad you came to help us out. We've been keeping an extra eye on all of our partys, so don't worry about it. Well then, I need to get back to work!");
+	cm.sendNext("多亏了你，玩具工厂又恢复了正常运转。很高兴你能来帮忙。我们一直在密切关注所有的生产线，所以不用担心。好了，我得回去工作了！");
 	cm.dispose();
 	}

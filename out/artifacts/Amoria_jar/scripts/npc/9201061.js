@@ -17,9 +17,9 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("Hi, there~! I'm Bomack. If you have a #b#t5152035##k, I can prescribe the right kind of cosmetic lenses for you. Now, what would you like to do?");
+	cm.sendNext("如果你使用普通优惠券，将随机获得一副隐形眼镜。你确定要使用#b#t5152035##k来改变你的双眼吗？");
     } else if (status == 1) {
-	cm.sendYesNo("If you use the regular coupon, you'll be awarded a random pair of cosmetic lenses. Are you going to use #b#t5152035##k and really make the change to your eyes?");
+	cm.sendYesNo("享受你的全新隐形眼镜吧！");
     } else if (status == 2){
 	hair_Colo_new = [];
 
@@ -39,9 +39,9 @@ function action(mode, type, selection) {
 	hair_Colo_new[6] = teye + 700;
 
 	if (cm.setRandomAvatar(5152035, hair_Colo_new) == 1) {
-	    cm.sendOk("Enjoy your new and improved cosmetic lenses!");
+	    cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	} else {
-	    cm.sendOk("I'm sorry, but I don't think you have our cosmetic lens coupon with you right now. Without the coupon, I'm afraid I can't do it for you..");
+	    cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	}
 	cm.dispose();
     }

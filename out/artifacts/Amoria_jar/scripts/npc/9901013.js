@@ -17,7 +17,7 @@ function action(mode, type, selection) {
         cm.dispose();
     
     }else if (mode == 0){
-        cm.sendOk ("#eOkay, talk to me when you got enough Maple Leaves!");
+        cm.sendOk ("#e嘿，我是#rKazMS!#k的神力枫叶系统");
         cm.dispose();
 
     }else{             
@@ -28,61 +28,61 @@ function action(mode, type, selection) {
         
         if (status == 0) {
         Rebirths = cm.getChar().getReborns();
-        cm.sendNext ("#eHey, I'm the Godly Maple Leaves system of #rKazMS!#k");
+        cm.sendNext ("好的，如果你有足够的枫叶#e#d");
         }else if (status == 1) { 
-          cm.sendSimple ("Alright, if you got enough Maple Leaves#e#d" +
-                 "#k\r\n#L10#2000 Maple Leaves Shop" +
-                 "#k\r\n#L11#4000 Maple Leaves Shop" +
-				 "#k\r\n#L82#8000 Maple Leaves Shop" +
-                 "#k\r\n#L14#16000 Maple Leaves Shop" +
-                 "#k\r\n#L15#20000 Maple Leaves Shop" +
-				 "#k\r\n#L90##b[New]#k4 #i4000313# Shop" +
-				 "#k\r\n#L80##b[New]#kExchange 10,000 #i4001126# for 1 #i4000313#"+
-				 "#k\r\n#L81##b[New]#kExchange 1 #i4000313# for 10,000 Maple Leaves");
+          cm.sendSimple ("#k\r\n#L10#2000枫叶商店" +
+                 "#k\r\n#L11#4000枫叶商店" +
+                 "#k\r\n#L82#8000枫叶商店" +
+				 "#k\r\n#L14#16000枫叶商店" +
+                 "#k\r\n#L15#20000枫叶商店" +
+                 "#k\r\n#L90##b[新]#k4 #i4000313# 商店" +
+				 "#k\r\n#L80##b[新]#k兑换10,000 #i4001126# 换取 1 #i4000313#" +
+				 "#k\r\n#L81##b[新]#k兑换1 #i4000313# 换取10,000枫叶"+
+				 "好的，这是2000 #i4001126# 商店！#e#d");
             } else if (selection == 10) {  
-          cm.sendSimple ("Okay, this is 2000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L16#Make STR + 50 #i1122001##k" +
-                 "#k\r\n#L17#Make DEX + 50 #i1122001##k" +
-                 "#k\r\n#L18#Make INT + 50 #i1122001##k" +
-                 "#k\r\n#L19#Make LUK + 50 #i1122001##k");
+          cm.sendSimple ("#k\r\n#L16#制作 STR + 50 #i1122001##k" +
+                 "#k\r\n#L17#制作 DEX + 50 #i1122001##k" +
+                 "#k\r\n#L18#制作 INT + 50 #i1122001##k" +
+                 "#k\r\n#L19#制作 LUK + 50 #i1122001##k" +
+                 "好的，这是4000 #i4001126# 商店！#e#d");
             } else if (selection == 11) {  
-          cm.sendSimple ("Okay, this is 4000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L21#Make STR + 100, W.Att + 5 #i1082149#" +
-                 "#k\r\n#L22#Make DEX + 100, W.Att + 5 #i1082148#" +
-                 "#k\r\n#L23#Make INT + 100, M.Att + 10 #i1082145#" +
-                 "#k\r\n#L24#Make LUK + 100, W.Att + 5 #i1082147#");
+          cm.sendSimple ("#k\r\n#L21#制作 STR + 100, 物攻 + 5 #i1082149#" +
+                 "#k\r\n#L22#制作 DEX + 100, 物攻 + 5 #i1082148#" +
+                 "#k\r\n#L23#制作 INT + 100, 魔攻 + 10 #i1082145#" +
+                 "#k\r\n#L24#制作 LUK + 100, 物攻 + 5 #i1082147#" +
+                 "好的，这是8000 #i4001126# 商店！#e#d");
             } else if (selection == 12) {  
-          cm.sendSimple ("Okay, this is 8000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L25#Make STR + 250, W.Att + 10 #i1003026#" +
-                 "#k\r\n#L26#Make DEX + 250, W.Att + 10 #i1003025#" +
-                 "#k\r\n#L27#Make INT + 250, M.Att + 20 #i1003023#" +
-                 "#k\r\n#L28#Make LUK + 250, W.Att + 10 #i1003024#");
+          cm.sendSimple ("#k\r\n#L25#制作 STR + 250, 物攻 + 10 #i1003026#" +
+                 "#k\r\n#L26#制作 DEX + 250, 物攻 + 10 #i1003025#" +
+                 "#k\r\n#L27#制作 INT + 250, 魔攻 + 20 #i1003023#" +
+                 "#k\r\n#L28#制作 LUK + 250, 物攻 + 10 #i1003024#" +
+                 "好的，这是6000 #i4001126# 商店！#e#d");
             } else if (selection == 13) {  
-          cm.sendSimple ("Okay, this is 6000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L29#Make STR + 500, W.Att + 20 #i1102172#" +
-                 "#k\r\n#L30#Make DEX + 500, W.Att + 20 #i1102172#" +
-                 "#k\r\n#L31#Make INT + 500, M.Att + 40 #i1102172#" +
-                 "#k\r\n#L32#Make LUK + 500, W.Att + 20 #i1102172#");
+          cm.sendSimple ("#k\r\n#L29#制作 STR + 500, 物攻 + 20 #i1102172#" +
+                 "#k\r\n#L30#制作 DEX + 500, 物攻 + 20 #i1102172#" +
+                 "#k\r\n#L31#制作 INT + 500, 魔攻 + 40 #i1102172#" +
+                 "#k\r\n#L32#制作 LUK + 500, 物攻 + 20 #i1102172#" +
+                 "好的，这是16000 #i4001126# 商店！#e#d");
             } else if (selection == 14) {  
-          cm.sendSimple ("Okay, this is 16000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L33#Make STR + 1000, W.Att + 30 #i1142100#" +
-                 "#k\r\n#L34#Make DEX + 1000, W.Att + 30 #i1142100#" +
-                 "#k\r\n#L35#Make INT + 1000, M.Att + 50 #i1142100#" +
-                 "#k\r\n#L36#Make LUK + 1000, W.Att + 30 #i1142100#");
+          cm.sendSimple ("#k\r\n#L33#制作 STR + 1000, 物攻 + 30 #i1142100#" +
+                 "#k\r\n#L34#制作 DEX + 1000, 物攻 + 30 #i1142100#" +
+                 "#k\r\n#L35#制作 INT + 1000, 魔攻 + 50 #i1142100#" +
+                 "#k\r\n#L36#制作 LUK + 1000, 物攻 + 30 #i1142100#" +
+                 "好的，这是20000 #i4001126# 商店！#e#d");
             } else if (selection == 15) {  
-          cm.sendSimple ("Okay, this is 20000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L37#Make All Stats + 1000, W.Att + 25 #i1032061#" +
-                 "#k\r\n#L38#Make All Stats + 1000, W.Att + 25 #i1072344#" +
-                 "#k\r\n#L39#Make All Stats + 1000, M.Att + 35 #i1022060#" +
-                 "#k\r\n#L40#Make All Stats + 1000, W.Att + 25 #i1012108#" +
-                 "#k\r\n#L41#Make STR + 2000, W.Att + 40 #i1142064#" +
-                 "#k\r\n#L42#Make DEX + 2000, W.Att + 40 #i1142064#" +
-                 "#k\r\n#L43#Make INT + 2000, M.Att + 65 #i1142064#" +
-                 "#k\r\n#L44#Make LUK + 2000, W.Att + 40 #i1142064#");
+          cm.sendSimple ("#k\r\n#L37#制作全属性 + 1000, 物攻 + 25 #i1032061#" +
+                 "#k\r\n#L38#制作全属性 + 1000, 物攻 + 25 #i1072344#" +
+                 "#k\r\n#L39#制作全属性 + 1000, 魔攻 + 35 #i1022060#" +
+                 "#k\r\n#L40#制作全属性 + 1000, 物攻 + 25 #i1012108#" +
+                 "#k\r\n#L41#制作 STR + 2000, 物攻 + 40 #i1142064#" +
+                 "#k\r\n#L42#制作 DEX + 2000, 物攻 + 40 #i1142064#" +
+                 "#k\r\n#L43#制作 INT + 2000, 魔攻 + 65 #i1142064#" +
+                 "#k\r\n#L44#制作 LUK + 2000, 物攻 + 40 #i1142064#" +
+                 "好的，这是4 #i4000313# 商店！#e#d");
 		   } else if (selection == 90) {
-		   cm.sendSimple ("Okay, this is 4 #i4000313# Shop!#e#d" +
-                 "#k\r\n#L91#Make All Stats + 5000, W.Att + 50 #i1112401#"+
-				 "#k\r\n#L92#Make All Stats + 5000, W.att + 50 #i1112000#");
+		   cm.sendSimple ("#k\r\n#L91#制作全属性 + 5000, 物攻 + 50 #i1112401#" +
+                 "#k\r\n#L92#制作全属性 + 5000, 物攻 + 50 #i1112000#"+
+				 "你必须拥有4个黄金枫叶才能获得此物品！");
 		   } else if (selection == 91) {  
             if(cm.haveItem(4000313, 4) && cm.canHold(1112401)) {
            cm.gainItem(4000313, -4);
@@ -95,7 +95,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4 Golden Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有20000枫叶才能获得此物品！");
              cm.dispose();
              }
 			 } else if (selection == 92) {  
@@ -110,7 +110,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4 Golden Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有20000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 38) {  
@@ -125,7 +125,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
             } else if (selection == 39) {  
@@ -140,7 +140,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
             } else if (selection == 40) {  
@@ -155,7 +155,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
 			} else if (selection == 80) { 
@@ -164,7 +164,7 @@ function action(mode, type, selection) {
 			cm.gainItem(4000313, 1);
 			cm.dispose();
 			} else {
-			cm.sendOk("You don't have enough Maple Leaves!");
+			cm.sendOk("你的黄金枫叶不够！");
 			cm.dispose();
 			}
 			} else if (selection == 81) { 
@@ -173,15 +173,15 @@ function action(mode, type, selection) {
 			cm.gainItem(4001126, 10000);
 			cm.dispose();
 			} else {
-			cm.sendOk("You don't have enough Golden Maple Leaves!");
+			cm.sendOk("#k\r\n#L83#制作 STR + 750, 物攻 + 20 #i1022082#");
 			cm.dispose();
 			}
 			} else if (selection == 82) { 
-			cm.sendSimple ("Okay, this is 8000 #i4001126# Shop!#e#d" +
-                 "#k\r\n#L83#Make STR + 750, W.Att + 20 #i1022082#" +
-                 "#k\r\n#L84#Make DEX + 750, W.Att + 20 #i1022082#" +
-                 "#k\r\n#L85#Make INT + 750, M.Att + 30 #i1022082#" +
-                 "#k\r\n#L86#Make LUK + 750, W.Att + 20 #i1022082#");
+			cm.sendSimple ("#k\r\n#L25#制作 STR + 250, 物攻 + 10 #i1003026#" +
+                 "#k\r\n#L84#制作 DEX + 750, 物攻 + 20 #i1022082#" +
+                 "#k\r\n#L85#制作 INT + 750, 魔攻 + 30 #i1022082#" +
+                 "#k\r\n#L86#制作 LUK + 750, 物攻 + 20 #i1022082#" +
+                 "祝你玩得开心！ :)");
 				 } else if (selection == 83) {  
             if(cm.haveItem(4001126, 8000) && cm.canHold(1022082)) {
             cm.gainItem(4001126, -8000);
@@ -189,10 +189,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "str", 750);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 84) {  
@@ -202,10 +202,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "dex", 750);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
 			 } else if (selection == 85) {  
@@ -215,10 +215,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "int", 750);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "matk", 30);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
 			 } else if (selection == 86) {  
@@ -228,10 +228,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "luk", 750);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1022082, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 16) {  
@@ -240,10 +240,10 @@ function action(mode, type, selection) {
             cm.gainItem(1122001);
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1122001, "str", 50);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 17) {  
@@ -252,10 +252,10 @@ function action(mode, type, selection) {
             cm.gainItem(1122001);
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1122001, "dex", 50);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 18) {  
@@ -264,10 +264,10 @@ function action(mode, type, selection) {
             cm.gainItem(1122001);
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1122001, "int", 50);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 19) {  
@@ -276,10 +276,10 @@ function action(mode, type, selection) {
             cm.gainItem(1122001);
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1122001, "luk", 50);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 1000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有4000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 21) {  
@@ -289,10 +289,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082149, "str", 100);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082149, "watk", 5);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有8000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 22) {  
@@ -302,10 +302,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082148, "dex", 100);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082148, "watk", 5);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有8000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 23) {  
@@ -315,10 +315,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082145, "int", 100);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082145, "matk", 10);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有8000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 24) {  
@@ -328,10 +328,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082147, "luk", 100);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1082147, "watk", 5);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 4000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有8000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 25) {  
@@ -341,10 +341,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003026, "str", 250);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003026, "watk", 10);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 8000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有12000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 26) {  
@@ -354,10 +354,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003025, "dex", 250);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003025, "watk", 10);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 8000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有12000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 27) {  
@@ -367,10 +367,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003023, "int", 250);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003023, "matk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 8000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有12000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 28) {  
@@ -380,10 +380,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003024, "luk", 250);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1003024, "watk", 10);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 8000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有12000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 29) {  
@@ -393,10 +393,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "str", 500);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 12000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有6000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 30) {  
@@ -406,10 +406,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "dex", 500);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 6000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有16000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 31) {  
@@ -419,10 +419,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "int", 500);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "matk", 40);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 12000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有6000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 32) {  
@@ -432,10 +432,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "luk", 500);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1102172, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 12000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有6000枫叶才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 33) {  
@@ -445,10 +445,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "str", 1000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "watk", 30);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 16000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 34) {  
@@ -458,10 +458,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "dex", 1000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "watk", 30);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 16000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 35) {  
@@ -471,10 +471,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "int", 1000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "matk", 50);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 16000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 36) {  
@@ -484,10 +484,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "luk", 1000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142100, "watk", 20);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 16000 Maple Leaves to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
             } else if (selection == 37) {  
@@ -502,7 +502,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
             } else if (selection == 38) {  
@@ -517,7 +517,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
             } else if (selection == 39) {  
@@ -532,7 +532,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
             } else if (selection == 40) {  
@@ -547,7 +547,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
              } else if (selection == 41) {  
@@ -557,10 +557,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "str", 2000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "watk", 40);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
              } else if (selection == 42) {  
@@ -570,10 +570,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "dex", 2000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "watk", 40);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
              } else if (selection == 43) {  
@@ -583,10 +583,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "int", 2000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "matk", 65);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
 			 } else if (selection == 44) {  
@@ -596,10 +596,10 @@ function action(mode, type, selection) {
             Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "luk", 2000);
 			Packages.server.MapleInventoryManipulator.editEquipById(cm.getPlayer(), 1, 1142064, "watk", 40);
             cm.reloadChar();
-			cm.sendOk("Have fun with your new item! :)");
+			cm.sendOk("你必须拥有1000枫叶才能获得此物品！");
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 20000 Maple Leaves to get this item!");
+             cm.sendOk ("你的枫叶不够！");
              cm.dispose();
              }
 
@@ -615,7 +615,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 46) {  
@@ -630,7 +630,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 47) {  
@@ -645,7 +645,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 48) {  
@@ -660,7 +660,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 49) {  
@@ -675,7 +675,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 50) {  
@@ -690,7 +690,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 51) {  
@@ -705,7 +705,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 52) {  
@@ -720,7 +720,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
              } else if (selection == 53) {  
@@ -735,7 +735,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 2000 Rebirths to get this item!");
+             cm.sendOk ("你必须拥有2000次转生才能获得此物品！");
              cm.dispose();
              }
 }

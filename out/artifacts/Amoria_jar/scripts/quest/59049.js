@@ -9,16 +9,16 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 1) {
-		    qm.sendOk("Our town's in danger. If only a great hero would help us...");
+		    qm.sendOk("我们的城镇有危险。如果有位伟大的英雄能帮助我们就好了……");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("There's only one thing to do: hunt #o9390915#!");
+	    qm.sendNext("只有一件事可以做：猎杀#o9390915#！");
 	} else if (status == 1) {
-	   qm.sendYesNo("The others will scatter if their leader is taken out. Can you do it?\r\n(You'll be moved to a nearby map if you accept.)");
+	   qm.sendYesNo("除掉首领后其他的就会四散。你能做到吗？\r\n（如果你接受，将被传送到附近的地图。）");
 	} else if (status == 2) {
-	   qm.sendNext("Defeating #o9390915# won't be easy.");
+	   qm.sendNext("击败#o9390915#可不容易。");
 	} else if (status == 3) {
 	    qm.forceStartQuest();
 		qm.warp(866000150,0);

@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendOk("You can get professions from the various NPCs in Ardentmill.\r\n\r\n1. Herbalism + Alchemy\r\n2. Mining + Smithing\r\n3. Mining + Accessory Crafting");
+	cm.sendOk("你可以从射手村各个NPC那里学习专业技术。\r\n\r\n1. 草药学 + 炼金术\r\n2. 采矿 + 铸造术\r\n3. 采矿 + 饰品制造");
 	cm.safeDispose();
     }
 }

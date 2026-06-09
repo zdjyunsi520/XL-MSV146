@@ -15,25 +15,25 @@ function action(mode, type, selection) {
         return;
     }
 	/* order:
-	TOWN_0(0, "Six Path Crossway", 0, 0),
+	TOWN_0(0, "六岔路口", 0, 0),
             TOWN_1(1, "Henesys", 0, 0),
             TOWN_2(2, "Ellinia", 0, 0),
             TOWN_3(3, "Perion", 0, 0),
-            TOWN_4(4, "Kerning City", 0, 0),
-            TOWN_5(5, "Lith Harbor", 0, 0),
+            TOWN_4(4, "废弃都市", 0, 0),
+            TOWN_5(5, "明珠港", 0, 0),
             TOWN_6(6, "Sleepywood", 0, 0),
             TOWN_7(7, "Nautilus", 0, 0),
             TOWN_8(8, "Ereve", 0, 0),
             TOWN_9(9, "Rien", 0, 0),
             TOWN_10(10, "Orbis", 0, 0),
-            TOWN_11(11, "El Nath", 0, 0),
+            TOWN_11(11, "冰雪峡谷", 0, 0),
             TOWN_12(12, "Ludibrium", 0, 0),
-            TOWN_13(13, "Omega Sector", 0, 0),
-            TOWN_14(14, "Korean Folk Town", 0, 0),
+            TOWN_13(13, "地球防御本部", 0, 0),
+            TOWN_14(14, "童话村", 0, 0),
             TOWN_15(15, "Aquarium", 0, 0),
             TOWN_16(16, "Leafre", 0, 0),
-            TOWN_17(17, "Mu Lung", 0, 0),
-            TOWN_18(18, "Herb Town", 0, 0),
+            TOWN_17(17, "武陵", 0, 0),
+            TOWN_18(18, "百草堂", 0, 0),
             TOWN_19(19, "Ariant", 0, 0),
             TOWN_20(20, "Magatia", 0, 0),
             TOWN_21(21, "Edelstein", 0, 0),
@@ -53,7 +53,7 @@ function action(mode, type, selection) {
         case 3: // Perion
             mapid = 102000000, portal = 1;
             break;
-        case 4: // Kerning City
+        case 4: // 废弃都市
             mapid = 103000000, portal = 1;
             break;
         case 5: // lith harbor
@@ -92,10 +92,10 @@ function action(mode, type, selection) {
 		case 16: // Leafre
             mapid = 240000000, portal = 1;
             break;
-		case 17: // Mu Lung
+		case 17: // 武陵
             mapid = 250000000, portal = 1;
             break;
-		case 18: // Herb Town
+		case 18: // 百草堂
             mapid = 251000000, portal = 1;
             break;
 		case 19: // ariant

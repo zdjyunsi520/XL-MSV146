@@ -9,10 +9,10 @@ function start() {
 	//cm.start_DojoAgent(false, false);
 	//cm.dispose();
     //} else if (cm.getMapId() == 910000000) {
-	//cm.sendYesNo("Do you want to go to Special Training Camp for Agent?")
+	//cm.sendYesNo("你想前往特工特别训练场吗？")
 	//type = 1;
     //} else {
-	cm.sendYesNo("Do you want to get out now?");
+	cm.sendYesNo("你想现在出去吗？");
 	//type = 2;
     //}
 }

@@ -5,13 +5,13 @@ function action(mode, type, selection) {
 				cm.warpParty(923040400,0);
 				cm.dispose();
 			} else {
-				cm.sendOk("Please, save me!");
+				cm.sendOk("请救救我！");
 				cm.safeDispose();
 			}
 		} else if (cm.getMapId() / 100 == 9230404) {
 			if (cm.getMap().getAllMonstersThreadsafe().size() == 0) {
 				if (!cm.canHold(4001535, 1)) {
-					cm.sendOk("Please make ETC room.");
+					cm.sendOk("请在其他栏腾出空间。");
 					cm.dispose();
 					return;
 				}
@@ -23,7 +23,7 @@ function action(mode, type, selection) {
 				cm.warp(923040000,0);
 				cm.dispose();
 			} else {
-				cm.sendOk("Please, destroy Pianus!");
+				cm.sendOk("请击败比努斯！");
 				cm.safeDispose();
 			}
 		}

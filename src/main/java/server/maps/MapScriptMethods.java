@@ -1782,7 +1782,7 @@ public class MapScriptMethods {
             case root_secret: {
                 c.getSession().write(CField.UIPacket.IntroEnableUI(1));
                 c.getSession().write(CField.UIPacket.IntroDisableUI(true));
-                c.getSession().write(CField.UIPacket.moveScreen(800));
+//                c.getSession().write(CField.UIPacket.moveScreen(800));
                 NPCScriptManager.getInstance().start(c, 1064000, null);
                 break;
             }

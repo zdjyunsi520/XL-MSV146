@@ -17,33 +17,33 @@ function action(mode, type, selection) {
 	status--;
 
     if (status == 0)
-	cm.sendSimple("What would you like to do?\r\n#b#L0#Create a Guild#l\r\n#L1#Disband your Guild#l\r\n#L2#Increase your Guild's capacity (limited to 100)#l\r\n#L3#Increase your Guild's capacity (limited to 200)#l#k");
+	cm.sendSimple("你想做什么？\r\n#b#L0#创建公会#l\r\n#L1#解散公会#l\r\n#L2#扩大公会容量（上限100）#l\r\n#L3#扩大公会容量（上限200）#l#k");
     else if (status == 1) {
 	sel = selection;
 	if (selection == 0) {
 	    if (cm.getPlayerStat("GID") > 0) {
-		cm.sendOk("You may not create a new Guild while you are in one.");
+		cm.sendOk("你已经在一个公会中，无法创建新的公会。");
 		cm.dispose();
 	    } else
-		cm.sendYesNo("Creating a Guild costs #b500,000 mesos#k, are you sure you want to continue?");
+		cm.sendYesNo("创建公会需要#b50万金币#k，你确定要继续吗？");
 	} else if (selection == 1) {
 	    if (cm.getPlayerStat("GID") <= 0 || cm.getPlayerStat("GRANK") != 1) {
-		cm.sendOk("You can only disband a Guild if you are the leader of that Guild.");
+		cm.sendOk("只有公会会长才能解散公会。");
 		cm.dispose();
 	    } else
-		cm.sendYesNo("Are you sure you want to disband your Guild? You will not be able to recover it afterward and all your GP will be gone.");
+		cm.sendYesNo("你确定要解散你的公会吗？解散后你将无法恢复它，所有的GP也将消失。");
 	} else if (selection == 2) {
 	    if (cm.getPlayerStat("GID") <= 0 || cm.getPlayerStat("GRANK") != 1) {
-		cm.sendOk("You can only increase your Guild's capacity if you are the leader.");
+		cm.sendOk("只有公会会长才能扩大公会容量。");
 		cm.dispose();
 	    } else
-		cm.sendYesNo("Increasing your Guild capacity by #b5#k costs #b500,000 mesos#k, are you sure you want to continue?");
+		cm.sendYesNo("扩大公会容量#b5人#k需要#b50万金币#k，你确定要继续吗？");
 	} else if (selection == 3) {
 	    if (cm.getPlayerStat("GID") <= 0 || cm.getPlayerStat("GRANK") != 1) {
-		cm.sendOk("You can only increase your Guild's capacity if you are the leader.");
+		cm.sendOk("只有公会会长才能扩大公会容量。");
 		cm.dispose();
 	    } else
-		cm.sendYesNo("Increasing your Guild capacity by #b5#k costs #b25,000 GP#k, are you sure you want to continue?");
+		cm.sendYesNo("扩大公会容量#b5人#k需要#b25,000 GP#k，你确定要继续吗？");
 	}
     } else if (status == 2) {
 	if (sel == 0 && cm.getPlayerStat("GID") <= 0) {

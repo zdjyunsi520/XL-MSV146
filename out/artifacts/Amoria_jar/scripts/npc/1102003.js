@@ -5,6 +5,6 @@
 */
 
 function start(){
-	cm.sendOk("Welcome to the Hall of Knights.");
+	cm.sendOk("欢迎来到骑士大厅。");
 	cm.dispose();
 }

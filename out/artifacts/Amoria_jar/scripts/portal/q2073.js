@@ -3,7 +3,7 @@ function enter(pi) {
 		pi.warp(900000000,0);
 		return true;
 	} else {
-		pi.playerMessage(5,"You can't seem to be able to go inside...");
+		pi.playerMessage(5,"你似乎无法进去...");
 		return false;
 	}
 }

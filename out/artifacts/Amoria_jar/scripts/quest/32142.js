@@ -11,13 +11,13 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendAcceptDecline("You seem to be in good condition. How about another mission? I've received an urgent request from the #bEllinel Fairy Academy");
+		qm.sendAcceptDecline("你看起来状态不错。要不要再接一个任务？我收到了来自#b艾丽涅精灵学院");
     } else if (status == 1) {	   
-        qm.sendNext("A young human entered the #bEllinel Fairy Academy#k and it's caused quite a disturbance.");
+        qm.sendNext("一个年轻的人类进入了#b艾丽涅精灵学院#k，引起了不小的骚动。");
     } else if (status == 2) {
-        qm.sendNextPrev("I don't know all the details, but I know our relationship with the fairies is strained enough as it is. Will you go to the North Forest near Ellinia and meet with #bFanzy#k?");	
+        qm.sendNextPrev("我不清楚所有细节，但我知道我们和精灵的关系已经很紧张了。你愿意去魔法森林附近的北部森林找#b范奇#k吗？");	
 	} else if (status == 3) {	
-	    qm.sendYesNo("Fanzy will take you into the land of the fairies. I can send you to him directly, if you'd like.'");	
+	    qm.sendYesNo("范奇会带你进入精灵的国度。如果你愿意，我可以直接把你送到他那里。");	
 	} else if (status == 4) {
 		qm.warp(101030000,0);
 		qm.forceStartQuest();
@@ -35,11 +35,11 @@ function end(mode, type, selection) {
         status++; 
     } 
     if (status == 0) {
-	    qm.sendNext("Are you the one I invited to help with the ruckus at the Ellinel Fairy Academy?");
+	    qm.sendNext("你就是我叫来帮忙处理艾丽涅精灵学院骚动的人吗？");
     } else if (status == 1) {
-	    qm.sendNextPrevS("Um, of course?",15);
+	    qm.sendNextPrevS("嗯，当然？",15);
 	} else if (status == 2) {	
-	    qm.sendNextPrev("You don't look as strong as I'd hoped. But, you're famous, so i'll leave it to you.");
+	    qm.sendNextPrev("你看起来没有我期望的那么强壮。不过，你很有名气，所以这件事就交给你了。");
 	} else if (status == 3) {
 	    qm.forceCompleteQuest();
 		qm.dispose(); 

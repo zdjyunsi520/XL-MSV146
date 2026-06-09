@@ -11,9 +11,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendSelfTalk("Am I... atop a Maple Tree?");
+	    cm.sendSelfTalk("唯一的路就是往下走。");
 	} else if (status == 1) {	
-	    cm.sendSelfTalk("Only way to go is down.");
+	    cm.sendSelfTalk("唯一的路就是往下走。");
 	} else if (status == 2) {	
       //  cm.introEnableUI(0);
      //   cm.introDisableUI(false);

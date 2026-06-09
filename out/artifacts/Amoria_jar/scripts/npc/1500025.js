@@ -10,12 +10,12 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNextS("Enjoy your adventure.",5);
+		    cm.sendNextS("祝你的冒险之旅愉快。",5);
             cm.dispose();
         status--;
     }
     if (status == 0) {
-	    cm.sendAcceptDecline("Chase after #bEphony the Fairy#k and #bPhiny the Fairy#k.\r\n\r\n#b(Must be in a party (1 - 6 people) / Level: At least 30)");
+	    cm.sendAcceptDecline("追上#b妖精伊芙妮#k和#b妖精菲妮#k。\r\n\r\n#b（必须组队（1-6人）/ 等级：至少30级）");
 	} else if (status == 1) {
 	    cm.warp(101073110,0);
         cm.dispose();

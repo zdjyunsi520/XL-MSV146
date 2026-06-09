@@ -10,15 +10,15 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendNextS("To be honest, I never thought I'd see the day you'd be strong enough to handle my power. I suppose I have to let you summon me now...",5,9390303);
+	    qm.sendNextS("说实话，我从没想过有一天你会强大到能够驾驭我的力量。我想我现在不得不让你召唤我了……",5,9390303);
 	} else if (status == 1) {
-	    qm.sendNextPrevS("Press #b[up]#k when you change modes to activate me.",5,9390303);
+	    qm.sendNextPrevS("切换模式时按#b[上]#k来激活我。",5,9390303);
 	} else if (status == 2) {
-	    qm.sendNextPrevS("I'm sure you already know how to-- Ugh. Why do you always look so lost?",5,9390303);
+	    qm.sendNextPrevS("我确定你已经知道怎么——呃。为什么你总是一副迷茫的样子？",5,9390303);
 	} else if (status == 3) {
-	    qm.sendNextPrevS("Fine, fine. I'll explain. You can only use my skills when you activate my mode, so remember to #bhotkey my hawk skills#k for #bmy mode#k.",5,9390303);
+	    qm.sendNextPrevS("好吧好吧。我来解释。你只有在激活我的模式时才能使用我的技能，所以记得把#b我的鹰技能#k设置在#b我的模式#k的快捷键上。",5,9390303);
 	} else if (status == 4) {
-	    qm.sendNextPrevS("Take this. Remember, this does NOT mean I like you.\r\n#i1142674:##b#t1142674:##k",5,9390303);
+	    qm.sendNextPrevS("拿着这个。记住，这绝不代表我喜欢你。\r\n#i1142674:##b#t1142674:##k",5,9390303);
 	} else if (status == 5) {
 	    qm.forceStartQuest();
 		qm.forceCompleteQuest();

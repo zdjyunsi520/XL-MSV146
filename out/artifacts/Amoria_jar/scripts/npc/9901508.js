@@ -20,22 +20,22 @@ function startChat(type, selection)
 {
     if (cm.getMapId() == 180000001) {
         if (chat == 0)
-            cm.sendYesNo("Do you want to get out?");
+            cm.sendYesNo("你好，我可以带你去一个可以丢弃不可交易物品的地图。\r\n#L0#我想去那里#l\r\n#L1#我以后再来#l");
         else if (chat == 1) {
             cm.warp(100000000);
             cm.dispose();
         }
     } else {
         if (chat == 0)
-            cm.sendSimple("Hello, I can bring you to a map where you can drop untradable items.\r\n#L0#I want to go there#l\r\n#L1#I might come back later#l");
+            cm.sendSimple("好的，再见。");
         else if (chat == 1) {
             switch (selection) {
                 case 1:
-                    cm.sendOk("Okay, see you later.");
+                    cm.sendOk("请输入你伙伴的名字：\r\n");
                     cm.dispose();
                     break;
                 case 0:
-                    cm.sendGetText("Please enter your partner's name: \r\n");
+                    cm.sendGetText("你们必须在同一地图。");
             }
         } else if (chat == 2) {
             if (cm.getPlayerCount(180000001) < 1) {
@@ -46,16 +46,16 @@ function startChat(type, selection)
                             cm.warpByName(180000001, cm.getText());
                             cm.mapChangeTimer(180000001, 100000000, 120);
                         } else {
-                            cm.sendOk("You must be in the same map.");
+                            cm.sendOk("你不能输入自己的名字。");
                         }
                     } else {
-                        cm.sendOk("You can't enter your name.");
+                        cm.sendOk("玩家不在同一频道，或不存在。");
                     }
                 } else {
-                    cm.sendOk("Player isn't in the same channel, or doesn't exists.");
+                    cm.sendOk("抱歉，有其他人正在使用这个地图。");
                 }
             } else {
-                cm.sendOk("I'm sorry, but someone else is using the map.");
+                cm.sendOk("抱歉，有其他人正在使用这个地图。");
             }
             cm.dispose();
         }

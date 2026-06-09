@@ -3,7 +3,7 @@
 */
 
 function start() {
-	    cm.sendSimple("\r #b#L0#Year 2021 - Average Town Entrance#l \r #L1#Year 2099 - Midnight Harbor Entrance#l \r #L2#Year 2215 - Bombed City Center Retail District#l \r #L3#Year 2216 - Ruined City Intersection#l \r #L4#Year 2230 - Dangerous Tower Lobby#l \r #L5#Year 2503 - Air Battleship Bow#l  \r #L6#Year 2227 - Dangerous City Intersection#l");
+	    cm.sendSimple("\r #b#L0#2021年 - 普通城镇入口#l \r #L1#2099年 - 午夜港湾入口#l \r #L2#2215年 - 轰炸市中心商业区#l \r #L3#2216年 - 废墟城市十字路口#l \r #L4#2230年 - 危险塔楼大厅#l \r #L5#2503年 - 空战战舰舰首#l  \r #L6#2227年 - 危险城市十字路口#l");
 }
 
 function action(mode, type, selection) {
@@ -35,7 +35,7 @@ function action(mode, type, selection) {
 	if (mapid > 0) {
 	    cm.warp(mapid, 0);
 	} else {
-	    cm.sendOk("Complete your mission first");
+	    cm.sendOk("请先完成你的任务。");
 	}
     cm.dispose();
 }

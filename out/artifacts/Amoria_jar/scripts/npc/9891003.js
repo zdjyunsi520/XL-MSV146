@@ -5,9 +5,9 @@ var amount = 15; // amount of the required item
 
 function start() {
 	if (cm.haveItem(item, amount)) {
-		cm.sendOk("Is that what I think it is? Well done! I just love eating these Rice Cakes. Shame you only can get them from killing these poor bunnies... Oh well. Lets move on!");
+		cm.sendOk("看来是时候测试你的实力了！看到那边那些凶猛的兔子了吗？我需要你宰了它们，因为我需要它们美味的年糕。\r\n\r\n我需要");
 	} else {
-		cm.sendOk("Looks like its time to test your strength! You see see those monstrous bunnies over there? I need you to slaughter them for I require their delicious Rice Cakes.\r\n\r\nI need " + amount + " #v" + item + "# #t" + item + "#.\r\n\r\nTalk to me as soon as you're done...I'm really hungry...");
+		cm.sendOk("#个。\r\n\r\n完成后立即来找我...我真的好饿... " + amount + " #v" + item + "# #t" + item + "#个。\r\n\r\n完成后立即来找我...我真的好饿...");
 		cm.dispose();
 	}
 }

@@ -17,19 +17,19 @@ function start() {
 	case 701000000:
 	case 740000000:
 	    map = cm.getSavedLocation("WORLDTOUR");
-	    cm.sendSimple("How's the traveling? Are you enjoying it? \n\r #b#L0# Can I go somewhere else?#l \n\r #L1# I'm done with traveling. Can I go back to #m"+map+"#?#l");
+	    cm.sendSimple("旅行怎么样？玩得开心吗？\n\r #b#L0# 我可以去别的地方吗？#l\n\r #L1# 我旅行够了。我想回到#m"+map+"#?#l");
 	    break;
 	case 950000100:
 	    map = 193000000;
-	    cm.sendSimple("How's the traveling? Are you enjoying it? \n\r #b#L1# I'm done with traveling. Can I go back to #m"+map+"#?#l");
+	    cm.sendSimple("旅行怎么样？玩得开心吗？\n\r #b#L1# 我旅行够了。我想回到#m"+map+"#?#l");
 	    break;
 	default:
 	    back = false;
 	    if (cm.getJob() == 0) {
-		cm.sendNext("If you're tired of the monotonous daily life, how about getting out for a change? There's nothing quite like soaking up a new culture, learning something new by the minute! It's time for you to get out and travel. We recommend a\r\n#bWorld Tour#k! Are you worried about the travel expense? No need to worry! The #bMaple Travel Agency#k offers first class travel accommodation for the low price of #b300 mesos#k.");
+		cm.sendNext("如果你厌倦了单调的日常生活，不如出去走走怎么样？感受一下新的文化，每分钟都学到新东西！是时候出门旅行了。我们推荐\r\n#b环球旅行#k！你担心旅行费用？不用担心！#b枫之谷旅行社#k以#b300枫币#k的低廉价格提供头等旅行服务。");
 		cost = 300;
 	    } else {
-		cm.sendNext("If you're tired of the monotonous daily life, how about getting out for a change? There's nothing quite like soaking up a new culture, learning something new by the minute! It's time for you to get out and travel. We, at the Maple Travel Agency recommend you going on a #bWorld Tour#k! Are you worried about the travel expense? You shouldn't be! We, the #bMaple Travel Agency#k, have carefully come up with a plan to let you travel for ONLY #b3,000 mesos!#k");
+		cm.sendNext("如果你厌倦了单调的日常生活，不如出去走走怎么样？感受一下新的文化，每分钟都学到新东西！是时候出门旅行了。我们枫之谷旅行社推荐你来一场#b环球旅行#k！你担心旅行费用？不用担心！我们#b枫之谷旅行社#k精心策划了一个方案，让你只需#b3,000枫币#k就能旅行！");
 		cost = 3000;
 	    }
 	    break;
@@ -51,14 +51,14 @@ function action(mode, type, selection) {
 
 	if (!back) {
 	    if (status == 0) {
-		cm.sendSimple("We currently offer this place for your traveling pleasure:\r\n#bMushroom Shrine of Japan#k. I'll be there serving you as the travel guide. Rest assured, the number of destinations will increase over time. Now, would you like to head over to the Mushroom Shrine?\r\n#L0##b Yes, take me to Mushroom Shrine (Japan)#k#l");
+		cm.sendSimple("我们目前提供这个旅行目的地：\r\n#b日本蘑菇神社#k。我将在那里担任你的导游。请放心，目的地的数量会随时间增加。那么，你想前往蘑菇神社吗？\r\n#L0##b 是的，带我去蘑菇神社（日本）#k#l");
 	    } else if (status == 1) {
-		cm.sendYesNo("Would you like to travel to the #bMushroom Shrine of Japan#k?\r\nIf you desire to feel the essence of Japan, there's nothing like visiting the Shrine, a Japanese cultural melting pot. Mushroom Shrine is a mythical place that serves the incomparable Mushroom God from ancient times.");
+		cm.sendYesNo("你想前往#b日本蘑菇神社#k吗？如果你想感受日本的精髓，没有比参拜神社更好的了，这里是日本文化的大熔炉。蘑菇神社是一个神话般的地方，自古以来供奉着无与伦比的蘑菇之神。");
 	    } else if (status == 2) {
-		cm.sendNext("Check out the female shaman serving the Mushroom God, and I strongly recommend trying Takoyaki, Yakisoba, and other delicious food sold in the streets of Japan. Now, let's head over to #bMushroom Shrine#k, a mythical place if there ever was one.");
+		cm.sendNext("去看看侍奉蘑菇之神的女巫吧，我还强烈推荐你品尝日本街头出售的章鱼烧、炒面和其他美食。那么，让我们出发前往#b蘑菇神社#k吧，一个如神话般的地方。");
 	    } else if (status == 3) {
 		if (cm.getMeso() < cost) {
-		    cm.sendPrev("Please check and see if you have enough mesos to go.");
+		    cm.sendPrev("请确认你有足够的枫币前往。");
 		} else {
 		    cm.gainMeso(-cost);
 		    cm.saveLocation("WORLDTOUR");
@@ -93,7 +93,7 @@ function action(mode, type, selection) {
 			    cm.dispose();
 			    return;
 		    }
-		    cm.sendSimple("Where would you like to travel? \n\r #b#L0##m"+togo1+"# (3,000 mesos)#l \n\r #L1##m"+togo2+"# (3,000 mesos)#l \n\r #L2##m"+togo3+"# (3,000 mesos)#l");
+		    cm.sendSimple("你想去哪里旅行？\n\r #b#L0##m"+togo1+"# （3,000枫币）#l\n\r #L1##m"+togo2+"# （3,000枫币）#l\n\r #L2##m"+togo3+"# （3,000枫币）#l");
 
 		} else if (selection == 1) {
 		    cm.warp(map == -1 ? 100000000 : map);
@@ -103,11 +103,11 @@ function action(mode, type, selection) {
 	    } else if (status == 1) {
 		sel = selection;
 		if (sel == 0) {
-		    cm.sendNext("Would you like to travel to #b#m"+togo1+"##k? To head over, it'll cost you only #b3,000 mesos#k. Would you like to go right now?");
+		    cm.sendNext("你想前往#b#m"+togo1+"##k吗？前往那里只需要#b3,000枫币#k。你现在想去吗？");
 		} else if (sel == 1) {
-		    cm.sendNext("Would you like to travel to #b#m"+togo2+"##k? To head over, it'll cost you only #b3,000 mesos#k. Would you like to go right now?");
+		    cm.sendNext("你想前往#b#m"+togo2+"##k吗？前往那里只需要#b3,000枫币#k。你现在想去吗？");
 		} else if (sel == 2) {
-		    cm.sendNext("Would you like to travel to #b#m"+togo3+"##k? To head over, it'll cost you only #b3,000 mesos#k. Would you like to go right now?");
+		    cm.sendNext("你想前往#b#m"+togo3+"##k吗？前往那里只需要#b3,000枫币#k。你现在想去吗？");
 		}
 	    } else if (status == 2) {
 		if (sel == 0) {

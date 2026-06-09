@@ -11,11 +11,11 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendAcceptDecline("My goodness! My goodness! Always so busy. If you help me, out of the graciousness of your big heart, I may be able to give you something that you'll find useful--in the name of the Witch Malady!");
+		qm.sendAcceptDecline("天哪！天哪！总是这么忙。如果你帮我的话，出于你宽宏大量之心的善意，也许我能给你一些你会发现有用的东西——以魔女玛拉迪之名！");
     } else if (status == 1) {	   
-        qm.sendNext("Kekeke! I knew from the moment you spoke that you would be lending me a hand.");	
+        qm.sendNext("嘿嘿嘿！我从你开口的那一刻就知道你会向我伸出援手。");	
 	} else if (status == 2) {	   
-	    qm.sendPrevOk("Talk to me if you want to know more about the things you can do for me.");	
+	    qm.sendPrevOk("如果你想了解更多你能为我做的事情，请和我谈谈。");	
 	} else if (status == 3) {	   
 		qm.forceStartQuest();
 		qm.forceCompleteQuest();

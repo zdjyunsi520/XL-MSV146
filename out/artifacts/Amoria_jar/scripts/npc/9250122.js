@@ -21,11 +21,11 @@ function startChat(type, selection)
     if (type == 1) {
         if (cm.getMap().getAllMonstersThreadsafe().size() >= 1) { // Might be -1?
             if (chat == 0)
-                cm.sendOk("If Pink Zakum is dead\r\nPlease wait patiently while the server registers Pink Zakum's death\r\nClick me again shortly\r\nIf Pink Zakum is Alive click me some time after he dies");
+                cm.sendOk("你想去领取你的奖励吗？");
                 cm.dispose();
         } else {
             if (chat == 0)
-                cm.sendYesNo("Would you like to go to receive your rewards?");
+                cm.sendYesNo("你想出去吗？");
             else if (chat == 1) {
                 cm.warp(689012000, 0);
                 cm.dispose();
@@ -33,7 +33,7 @@ function startChat(type, selection)
         }
     } else if (type == 2) {
         if (chat == 0)
-            cm.sendYesNo("Would you like to go out?");
+            cm.sendYesNo("你想出去吗？");
         else if (chat == 1) {
             cm.warp(cm.getSavedLocation("PINK_ZAKUM"), 0);
             cm.getPlayer().dispelBuff(2022939);

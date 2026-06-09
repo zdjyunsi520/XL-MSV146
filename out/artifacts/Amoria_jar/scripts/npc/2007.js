@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendSimple("#b#L3#Head to Lith Harbor#l\r\n#L4#Stay in Maple Island#l");
+		cm.sendSimple("#b#L3#前往里本港#l\r\n#L4#留在枫之岛#l");
     } else if (status == 1) {
 	if (selection == 3) {
 	    cm.warp(104000000);

@@ -5,7 +5,7 @@
 var status = -1;
 
 function start() {
-    cm.sendSimple("How can I help you? \r #b#L0#I want to release seal on Sealed Warrior Stone.#l \r #L1#I want to create item.#l");
+    cm.sendSimple("我的名字是诺兰，技术人员。在这里，每个人都在谈论你。如果你能击败机械怪物，我也想帮助你。利用烈焰技术，可以制造更强大的物品。");
 }
 
 function action(mode, type, selection) {
@@ -22,17 +22,17 @@ function action(mode, type, selection) {
     switch (status) {
 	case 0:
 	    if (selection == 0) {
-		cm.sendNext("My name is Noran, technical personnel. Here, everyone is talking about you. If you could defeat mechanic monster, I wish to help you too. With blaze technology, more powerful item can be created.")
+		cm.sendNext("有什么可以帮你的？ \r #b#L0#魔法飞刀#l \r #L1#穿甲弹#l")
 	    } else {
 		status = 9;
-		cm.sendSimple("How can I help you? \r #b#L0#Magic Throwing Knife#l \r #L1#Armor-Piercing Bullet#l");
+		cm.sendSimple("据说烈焰已经成功收集了漂浮在宇宙中的能量。如果这是真的，就能获得巨大的能量。少部分能量可以从封印勇士之石中提取，但必须先解除封印才能使用。把它交给我，我来解除封印。");
 	    }
 	    break;
 	case 1:
-	    cm.sendNextPrev("It's been said that Blaze has succeeded to collect energy floating in universe. If this is true, massive energy can be obtained. Small portion of this energy can be extracted from Sealed Warrior Stone but it must be unsealed in order to be used. Bring it to me and i will release it's seal.");
+	    cm.sendNextPrev("把封印石交给我 \r #b#L0#交出封印勇士之石和服务费。1000枚银币#l \r #L1#交出封印贤者之石和服务费。1000枚银币#l \r #L2#交出封印圣人之石和服务费。1000枚银币#l");
 	    break;
 	case 2:
-	    cm.sendSimple("Give me the sealed stone \r #b#L0#Give Sealed Warrior Stone and service fee. 1,000 Silver Coin#l \r #L1#Give Sealed Wiseman Stone and service fee. 1,000 Silver Coin#l \r #L2#Give Sealed Saint Stone and service fee. 1,000 Silver Coin#l");
+	    cm.sendSimple("嗯？你没有所需材料。\n\r 你需要封印勇士之石和1000枚银币来制作勇士之石。");
 	    break;
 	case 3:
 	    if (selection == 0) {
@@ -41,7 +41,7 @@ function action(mode, type, selection) {
 		    cm.gainItem(4020010, -1);
 		    cm.gainItem(4032181, -1000);
 		} else {
-		    cm.sendNext("Eh? You don't have required materials. \n\r You need Sealed Warrior Stone and 1,000 Silver Coin to create Warrior Stone.");
+		    cm.sendNext("嗯？你没有所需材料。\n\r 你需要封印贤者之石和1000枚银币来制作贤者之石。");
 		}
 	    } else if (selection == 1) {
 		if (cm.haveItem(4020011, 1) && cm.haveItem(4032181, 1000)) {
@@ -49,7 +49,7 @@ function action(mode, type, selection) {
 		    cm.gainItem(4020011, -1);
 		    cm.gainItem(4032181, -1000);
 		} else {
-		    cm.sendNext("Eh? You don't have required materials. \n\r You need Sealed Wiseman Stone and 1,000 Silver Coin to create Wiseman Stone.");
+		    cm.sendNext("嗯？你没有所需材料。\n\r 你需要封印圣人之石和1000枚银币来制作圣人之石。");
 		}
 	    } else {
 		if (cm.haveItem(4020012, 1) && cm.haveItem(4032181, 1000)) {
@@ -57,7 +57,7 @@ function action(mode, type, selection) {
 		    cm.gainItem(4020011, -1);
 		    cm.gainItem(4032181, -1000);
 		} else {
-		    cm.sendNext("Eh? You don't have required materials. \n\r You need Sealed Saint Stone and 1,000 Silver Coin to create Saint stone.");
+		    cm.sendNext("嗯？你没有所需材料。\n\r 你需要纳米植物（奥米茄）、贤者之石、1个雪花镖、2500枚银币和1.5亿金币来制作魔法飞刀。");
 		}
 	    }
 	    cm.dispose();
@@ -72,7 +72,7 @@ function action(mode, type, selection) {
 		    cm.gainMeso(-150000000);
 		    cm.gainItem(2070019, 1);
 		} else {
-		    cm.sendNext("Eh? You don't have required materials.\n\r You need Nano Plant (Omega), Wiseman Stone, 1 Ilbi Throwing-Stars, Silver Coin 2,500 Pieces and 150,000,000 meso to create Magic Throwing Knife.");
+		    cm.sendNext("嗯？你没有所需材料。\n\r 你需要纳米植物（奥米茄）、圣人之石、1个生命弹、2500枚银币和1.5亿金币来制作穿甲弹。");
 		}
 	    } else {
 		if (cm.haveItem(4032168, 1) && cm.haveItem(4032181, 2500) && cm.haveItem(4032170, 1) && cm.haveItem(2330003, 1) && (cm.getMeso() >= 150000000)) {
@@ -83,7 +83,7 @@ function action(mode, type, selection) {
 		    cm.gainMeso(-150000000);
 		    cm.gainItem(2330007, 1);
 		} else {
-		    cm.sendNext("Eh? You don't have required materials.\n\r You need Nano Plant (Omega), Saint Stone, 1 Vital Bullet, Silver Coin 2,500 Pieces and 150,000,000 meso to create Armor Piercing bullet.");
+		    cm.sendNext("嗯？你没有所需材料。\n\r 你需要纳米植物（奥米茄）、圣人之石、1个生命弹、2500枚银币和1.5亿金币来制作穿甲弹。");
 		}
 	    }
 	    cm.dispose();

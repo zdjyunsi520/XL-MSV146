@@ -11,11 +11,11 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.getMap().getAllMonstersThreadsafe().size() <= 0) {
-	    cm.sendOk("There are no monsters in this map.");
+	    cm.sendOk("此地图中没有怪物。");
 	    cm.dispose();
 	    return;
 	}
-	var selStr = "Select which monster you wish to check.\r\n\r\n#b";
+	var selStr = "选择你想查看的怪物。\r\n\r\n#b";
 	var iz = cm.getMap().getAllUniqueMonsters().iterator();
 	while (iz.hasNext()) {
 	    var zz = iz.next();

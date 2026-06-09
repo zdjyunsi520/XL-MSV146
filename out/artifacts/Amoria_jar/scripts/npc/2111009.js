@@ -29,6 +29,6 @@
 */
 
 function start() {
-    cm.sendOk("Definitely Alcadno is excluded.....Huhuhuhu.....Stupid people....cannot see the real important things..");
+    cm.sendOk("阿尔卡德诺绝对被排除了……呵呵呵……愚蠢的人们……看不到真正重要的东西……");
     cm.dispose();
 }

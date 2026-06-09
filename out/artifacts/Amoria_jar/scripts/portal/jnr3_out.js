@@ -9,10 +9,10 @@ function enter(pi) {
 		var em = pi.getEventManager("Juliet");
 		if (em != null && em.getProperty("stage4").equals("2")) {
 			pi.warp(926110203, 0);
-			pi.getPlayer().dropMessage(6, "A mysterious scientist hurriedly left the lab, but not before summoning some monsters.");
-			pi.getPlayer().dropNPC(2112010, "Who is it that's barging into my lab without permission!! My lab report is not for any one of you!!!");
+			pi.getPlayer().dropMessage(6, "一位神秘的科学家匆忙离开了实验室，但在此之前召唤了一些怪物。");
+			pi.getPlayer().dropNPC(2112010, "是谁不经过允许就闯进我的实验室！！我的实验报告不是给你们的！！！");
 		} else {
-			pi.playerMessage(5, "The portal has not opened yet.");
+			pi.playerMessage(5, "传送门还没有开启。");
 		}
 	} catch (e) {
 		pi.getPlayer().dropMessage(5, "Error: " + e);

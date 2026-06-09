@@ -4,7 +4,7 @@
 
 
 function start() {
-    cm.sendOk("Acheww~~~ I can't believe I got a cold in this warm weather.");
+    cm.sendOk("阿嚏~~~真不敢相信这么暖和的天气我居然感冒了。");
 }
 
 function action() {

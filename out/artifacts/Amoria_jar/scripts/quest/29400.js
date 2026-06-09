@@ -30,17 +30,17 @@ var status = -1;
 function start(mode, type, selection) {
     status++;
 	if (mode != 1) {
-			qm.sendNext("Come back when you're ready.");
+			qm.sendNext("准备好了再来。");
 		
 		    qm.dispose();
 		    return;
 	}
 		if (status == 0)
-			qm.sendAcceptDecline("#v1142004# #e#b#t1142004##k\r\n\r - Time Limit 30 Days\r - Hunt 100,000 Monsters\r #n *Only monsters that are at your level or higher are approved.\r\nDo you want to test your skills to see if you're worthy of this title?");
+			qm.sendAcceptDecline("#v1142004# #e#b#t1142004##k\r\n\r - 时间限制 30天\r - 狩猎100,000只怪物\r #n *只计算与你等级相同或更高的怪物。\r\n你想测试你的能力看看你是否配得上这个称号吗？");
 		else if (status == 1) {
-			qm.sendNext("Current Ranking \r\n1. #bMoople#k : #r538,673#k monsters\r\n2. #bZeroQuanta#k : #r111,421#k monsters\r\nDon't forget that the record resets at the beginning of each month.");//TODO
+			qm.sendNext("当前排名 \r\n1. #bMoople#k : #r538,673#k 只怪物\r\n2. #bZeroQuanta#k : #r111,421#k 只怪物\r\n别忘了记录会在每月初重置。");//TODO
 	        } else if (status == 2) {
-			qm.sendNextPrev("I'll give you 30 days to reach your hunting goal. Once you are finished, come back and see me. Remember, you have to come back and see me within the time limit in order to be approved. Also, you are prohibited from trying out for another title unless you first complete or forfeit this challenge.");
+			qm.sendNextPrev("我给你30天的时间来达成你的狩猎目标。一旦完成，回来见我。记住你必须在时间限制内回来见我才能获得批准。另外，除非你先完成或放弃这个挑战，否则禁止尝试其他称号。");
 		} else if (status == 3) {
 			qm.forceStartQuest();
 			qm.dispose();
@@ -57,7 +57,7 @@ function end(mode, type, selection) {
 			return;
 		}		
 		if (status == 0) {
-			qm.sendOk("Not coded yet.");
+			qm.sendOk("尚未编写。");
 			qm.dispose();
 		}
 	}

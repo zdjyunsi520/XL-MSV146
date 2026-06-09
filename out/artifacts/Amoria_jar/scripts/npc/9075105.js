@@ -16,7 +16,7 @@ function action(mode, type, selection) {
     }
     mode == 1 ? chat++ : chat--;
     if (chat == 0) {
-	    cm.sendNext("Evolution System Initiating...");	
+	    cm.sendNext("进化系统启动中……");	
 	//	cm.introEnableUI(0);
     //    cm.introDisableUI(false);
 	  //  cm.warp(310010000,0);

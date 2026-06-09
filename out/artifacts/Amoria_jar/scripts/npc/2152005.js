@@ -10,9 +10,9 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("Whoa..! Are you here for job advance? \n\r #L0##bI would like to be a Mechanic!#k#l#l");
+	cm.sendSimple("哇..！你是来转职的吗？\n\r #L0##b我想成为机械师！#k#l#l");
     } else if (status == 1) {
-	cm.sendOk("Please talk to me in the Resistance hideout.");
+	cm.sendOk("请在反抗军秘密基地与我交谈。");
 	cm.safeDispose();
     }
 }

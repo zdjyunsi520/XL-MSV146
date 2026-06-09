@@ -14,9 +14,9 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("You don't look well, my friend.");
+	    qm.sendNext("你看起来不太好，我的朋友。");
 	} else if (status == 1) {
-	    qm.sendYesNo("I will take you to the others. We have established a temporary base of operations, hidden in the forest at the top of this hill. You will see that I speak the truth.");
+	    qm.sendYesNo("我带你去见其他人。我们已经建立了一个临时行动基地，隐藏在这座山上的森林里。你会看到我说的是真的。");
 	} else if (status == 2) {
 			qm.forceCompleteQuest();
 	    qm.dispose();

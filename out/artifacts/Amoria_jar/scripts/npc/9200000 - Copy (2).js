@@ -10,10 +10,10 @@ var stimulator;
 var cost;
 var getNewWep;
 var sel;
-var reward_msg = "Here is your new, #ecool#n, stylish Maple Weapon.\r\n\r\nTreat it with care.";
+var reward_msg = "欢迎来到#bWizStory#k!!\r\n我是#bWizStory#k的主程序员#rEric#k。\r\n如果需要什么就来找我吧！\r\n另外，请向我们报告任何BUG以便修复。\r\n\r\n#g谢谢！#k";
 
 function start() {
-    cm.sendNext("Welcome to #bWizStory#k!!\r\nI'm #bWizStory's#k Head Coder, #rEric#k.\r\nChat me if you need anything!\r\nAlso, report any bugs to us so we can fix them.\r\n\r\n#gThanks!#k");
+    cm.sendNext("想看些酷的东西吗？\r\n输入密语#e哦，我很酷是吧？谢谢夸奖！<3\r\n选择你想要的#e武器等级#n吧！\r\n\r\n#b#L0#35级武器#l\r\n#L1#43级武器#l\r\n#L2#64级武器#l\r\n#L4#77级武器#l#n就能获得武器哦！");
 }
 
 function action(mode, type, selection) {
@@ -24,458 +24,458 @@ function action(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	   cm.sendGetText("Want to see something cool?\r\nEnter the secret message #eEric is cool#n to get a weapon!");
+	   cm.sendGetText("哦，我很酷是吧？谢谢夸奖！<3\r\n选择你想要的#e武器等级#n吧！\r\n\r\n#b#L0#35级武器#l\r\n#L1#43级武器#l\r\n#L2#64级武器#l\r\n#L4#77级武器#l");
 	   } else if (status == 1) {
-	    if (cm.getText().equalsIgnoreCase("Eric is cool")) {
+	    if (cm.getText().equalsIgnoreCase("哦，我很酷是吧？谢谢夸奖！<3\r\n选择你想要的#e武器等级#n吧！\r\n\r\n#b#L0#35级武器#l\r\n#L1#43级武器#l\r\n#L2#64级武器#l\r\n#L4#77级武器#l")) {
 		  status = 1; 
-		  cm.sendSimple("Oh, Im cool huh? Why, thank you! <3\r\nChoose the #elevel#n of the weapon you want!\r\n\r\n#b#L0#Level 35 Weapon#l\r\n#L1#Level 43 Weapon#l\r\n#L2#Level 64 Weapon#l\r\n#L4#Level 77 Weapon#l");
-		 // cm.sendNext("Oh, I'm cool huh? Why, thank you! <3\r\nClick next for a weapon. :)");
+		  cm.sendSimple("哦，我很酷是吧？谢谢夸奖！<3\r\n点击下一步获取武器。:)");
+		 // cm.sendNext("好吧，随你便。 :(");
 		  } else {
 		  if (cm.getPlayer().gmLevel() < 3) { // oh i'm such a troll. ;P
-		    cm.getPlayer().dropMessage(1, "Okay, have it your way. :(");
+		    cm.getPlayer().dropMessage(1, "#r哇啊啊啊啊啊啊？！#k");
 		    cm.getPlayer().unequipEverything();
 			cm.dispose();
 			} else {
-			cm.sendOk("#rWAAAAAAAAAAAAAAAAAH?!#k");
+			cm.sendOk("\r\n选择一把#b35级武器 :\r\n#L0#枫叶剑#l \r\n#b#L2#枫叶法杖#l \r\n#b#L3#枫叶弓#l \r\n#b#L4#枫叶弩#l \r\n#b#L5#枫叶拳套#l \r\n#b#L6#枫叶手枪#l \r\n#b#L7#枫叶指节#l \r\n#b#L8#枫叶盾牌#l \r\n#b#L9#枫叶短刀#l");
 			cm.dispose();
 			}
 		  }
 		  } else if (status == 2) {
 		sel = selection;
 	if (sel == 0) {
-	    cm.sendSimple("\r\nChoose a #bLevel 35 Weapon :\r\n#L0#Maple Sword#l \r\n#b#L2#Maple Staff#l \r\n#b#L3#Maple Bow#l \r\n#b#L4#Maple Crow#l \r\n#b#L5#Maple Claw#l \r\n#b#L6#Maple Gun#l \r\n#b#L7#Maple Knuckle#l \r\n#b#L8#Maple Shield#l \r\n#b#L9#Maple Katara#l");
+	    cm.sendSimple("\r\n选择一把#b43级武器 :\r\n#L0#枫叶荣耀之剑 (单手剑)#l\r\n#L1#枫叶灵魂罗恩 (双手剑)#l\r\n#L2#枫叶钢斧 (单手斧)#l\r\n#L3#枫叶恶魔斧 (双手斧)#l\r\n#L4#枫叶破坏之锤 (单手钝器)#l\r\n#L5#枫叶贝尔扎特 (双手钝器)#l\r\n#L6#枫叶坎迪瓦之弓 (弓)#l\r\n#L7#枫叶尼沙达 (弩)#l\r\n#L8#枫叶斯坎达 (拳套)#l\r\n#L9#枫叶阿修罗短刀 (短刀)#l\r\n#L10#枫叶暗之伴侣 (短刀)#l\r\n#L11#枫叶灵魂之枪 (枪)#l\r\n#L12#枫叶卡斯檀 (矛)#l\r\n#L13#枫叶光辉之杖 (短杖)#l\r\n#L14#枫叶智慧之杖 (长杖)#l\r\n#L15#枫叶黄金拳套 (指节)#l\r\n#L16#枫叶加农炮 (手枪)#l\r\n#L17#枫叶战士盾牌 (战士盾牌)#l\r\n#L18#枫叶法师盾牌 (法师盾牌)#l\r\n#L19#枫叶飞侠盾牌 (飞侠盾牌)#l\r\n#L20#枫叶铆钉短刀#l");
 	} else if (sel == 2) {
-	    cm.sendSimple("\r\nChoose a #bLevel 43 Weapon :\r\n#L0#Maple Glory Sword (One-Handed Sword)#l\r\n#L1#Maple Soul Rohen (Two-Handed Sword)#l\r\n#L2#Maple Steel Axe (One-Handed Axe)#l\r\n#L3#Maple Demon Axe (Two-Handed Axe)#l\r\n#L4#Maple Havoc Hammer (One-Handed Mace)#l\r\n#L5#Maple Belzet (Two-Handed Mace)#l\r\n#L6#Maple Kandiva Bow (Bow)#l\r\n#L7#Maple Nishada (Crossbow)#l\r\n#L8#Maple Skanda (Claw)#l\r\n#L9#Maple Asura Dagger (Dagger)#l\r\n#L10#Maple Dark Mate (Dagger)#l\r\n#L11#Maple Soul Spear (Spear)#l\r\n#L12#Maple Karstan (Polearm)#l\r\n#L13#Maple Shine Wand (Wand)#l\r\n#L14#Maple Wisdom Staff (Staff)#l\r\n#L15#Maple Golden Claw (Knuckler)#l\r\n#L16#Maple Cannon Shooter (Gun)#l\r\n#L17#Maple Warrior Shield (Warrior Shield)#l\r\n#L18#Maple Magician Shield (Magician Shield)#l\r\n#L19#Maple Thief Shield (Thief Shield)#l\r\n#L20#Maple Cleat Katara#l");
+	    cm.sendSimple("\r\n选择一把#b64级武器 :\r\n#L0#枫叶灵魂之歌#l \r\n#b#L1#枫叶喇嘛之杖#l \r\n#b#L2#枫叶龙斧#l \r\n#b#L3#枫叶末日之歌#l \r\n#b#L4#枫叶穿刺者#l \r\n#b#L5#枫叶天蝎#l \r\n#b#L6#枫叶灵魂搜索者#l \r\n#b#L7#枫叶十字弩#l \r\n#b#L8#枫叶坎度约#l \r\n#b#L9#枫叶风暴手枪#l \r\n#b#L10#枫叶风暴指节#l \r\n#b#L11#枫叶公爵短刀#l  \r\n#b#L12#枫叶瓦格纳#l");
 	} else if (sel == 1) {
-	    cm.sendSimple("\r\nChoose a#bLevel 64 Weapon :\r\n#L0#Maple Soul Singer#l \r\n#b#L1#Maple Lama Staff#l \r\n#b#L2#Maple Dragon Axe#l \r\n#b#L3#Maple Doom Singer#l \r\n#b#L4#Maple Impaler#l \r\n#b#L5#Maple Scorpio#l \r\n#b#L6#Maple Soul Searcher#l \r\n#b#L7#Maple Crossbow#l \r\n#b#L8#Maple Kanduyo#l \r\n#b#L9#Maple Storm Pistol#l \r\n#b#L10#Maple Storm Finger#l \r\n#b#L11#Maple Duke Katara#l  \r\n#b#L12#Maple Wagner#l");
+	    cm.sendSimple("\r\n选择一把#b77级武器 :\r\n#L0#枫叶红榴石之剑#l \r\n#b#L1#枫叶红榴石之斧#l \r\n#b#L2#枫叶红榴石之锤#l \r\n#b#L3#枫叶红榴石半月#l \r\n#b#L4#枫叶红榴石短杖#l \r\n#b#L5#枫叶红榴石长杖#l \r\n#b#L6#枫叶红榴石罗恩#l \r\n#b#L7#枫叶红榴石战斧#l \r\n#b#L8#枫叶红榴石大锤#l \r\n#b#L9#枫叶红榴石之枪#l \r\n#b#L10#枫叶红榴石地狱使者#l \r\n#b#L11#枫叶红榴石之弓#l \r\n#b#L12#枫叶红榴石弩#l \r\n#b#L13#枫叶红榴石斯坎达#l \r\n#b#L14#枫叶红榴石指节#l \r\n#b#L15#枫叶红榴石射手#l \r\n#b#L16#枫叶红榴石短刀#l");
 	} else if (sel == 4) {
-	    cm.sendSimple("\r\nChoose a #bLevel 77 Weapon :\r\n#L0#Maple Pyrope Sword#l \r\n#b#L1#Maple Pyrope Axe#l \r\n#b#L2#Maple Pyrope Hammer#l \r\n#b#L3#Maple Pyrope Halfmoon#l \r\n#b#L4#Maple Pyrope Wand#l \r\n#b#L5#Maple Pyrope Staff#l \r\n#b#L6#Maple Pyrope Rohen#l \r\n#b#L7#Maple Pyrope Battle Axe#l \r\n#b#L8#Maple Pyrope Maul#l \r\n#b#L9#Maple Pyrope Spear#l \r\n#b#L10#Maple Pyrope Hellslayer#l \r\n#b#L11#Maple Pyrope Bow#l \r\n#b#L12#Maple Pyrope Crow#l \r\n#b#L13#Maple Pyrope Skanda#l \r\n#b#L14#Maple Pyrope Knuckle#l \r\n#b#L15#Maple Pyrope Shooter#l \r\n#b#L16#Maple Pyrope Katara#l");
+	    cm.sendSimple("枫叶剑");
 	}
     } else if (status == 3) {
 	if (sel == 0) {
 	    if (selection == 0) {
-		newWepName = "Maple Sword";
+		newWepName = "枫叶法杖";
 		newWepId = 1302020;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 2) {
-		newWepName = "Maple Staff";
+		newWepName = "枫叶弓";
 		newWepId = 1382009;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 3) {
-		newWepName = "Maple Bow";
+		newWepName = "枫叶弩";
 		newWepId = 1452016;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 4) {
-		newWepName = "Maple Crow";
+		newWepName = "枫叶拳套";
 		newWepId = 1462014;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 5) {
-		newWepName = "Maple Claw";
+		newWepName = "枫叶手枪";
 		newWepId = 1472030;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 6) {
-		newWepName = "Maple Gun";
+		newWepName = "枫叶指节";
 		newWepId = 1492020;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 7) {
-		newWepName = "Maple Knuckle";
+		newWepName = "枫叶盾牌";
 		newWepId = 1482020;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 8) {
-		newWepName = "Maple Shield";
+		newWepName = "枫叶短刀";
 		newWepId = 1092030;
 		leaves = 100;
 		cost = 50000;
 	    } else if (selection == 9) {
-		newWepName = "Maple Katara";
+		newWepName = "你确定要获得#b";
 		newWepId = 1342025;
 		leaves = 100;
 		cost = 50000;
 	    }
-	    cm.sendYesNo("Are you sure you want a #b" + newWepName + "#k?");
+	    cm.sendYesNo("枫叶灵魂之歌" + newWepName + "#k?");
 	// 1482020
 	} else if (sel == 2) {
 	    if (selection == 0) {
-		oldWepName = "Maple Soul Singer";
+		oldWepName = "枫叶荣耀之剑";
 		oldWepId = 1302030;
-		newWepName = "Maple Glory Sword";
+		newWepName = "枫叶灵魂罗恩";
 		newWepId = 1302064;
 		leaves = 100;
 		cost = 300000;
 		stimulator = 4130002;
 	    } else if (selection == 1) {
-		oldWepName = "Maple Soul Singer";
+		oldWepName = "枫叶荣耀之剑";
 		oldWepId = 1302030;
-		newWepName = "Maple Soul Rohen";
+		newWepName = "枫叶龙斧";
 		newWepId = 1402039;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130005;
 	    } else if (selection == 2) {
-		oldWepName = "Maple Dragon Axe";
+		oldWepName = "枫叶钢斧";
 		oldWepId = 1412011;
-		newWepName = "Maple Steel Axe";
+		newWepName = "枫叶恶魔斧";
 		newWepId = 1312032;
 		leaves = 100;
 		cost = 300000;
 		stimulator = 4130003;
 	    } else if (selection == 3) {
-		oldWepName = "Maple Dragon Axe";
+		oldWepName = "枫叶钢斧";
 		oldWepId = 1412011;
-		newWepName = "Maple Demon Axe";
+		newWepName = "枫叶末日之歌";
 		newWepId = 1412027;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130006;
 	    } else if (selection == 4) {
-		oldWepName = "Maple Doom Singer";
+		oldWepName = "枫叶破坏之锤";
 		oldWepId = 1422014;
-		newWepName = "Maple Havoc Hammer";
+		newWepName = "枫叶贝尔扎特";
 		newWepId = 1322054;
 		leaves = 100;
 		cost = 300000;
 		stimulator = 4130004;
 	    } else if (selection == 5) {
-		oldWepName = "Maple Doom Singer";
+		oldWepName = "枫叶破坏之锤";
 		oldWepId = 1422014;
-		newWepName = "Maple Belzet";
+		newWepName = "枫叶灵魂搜索者";
 		newWepId = 1422029;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130007;
 	    } else if (selection == 6) {
-		oldWepName = "Maple Soul Searcher";
+		oldWepName = "枫叶坎迪瓦之弓";
 		oldWepId = 1452022;
-		newWepName = "Maple Kandiva Bow";
+		newWepName = "枫叶十字弩";
 		newWepId = 1452045;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130012;
 	    } else if (selection == 7) {
-		oldWepName = "Maple Crossbow";
+		oldWepName = "枫叶尼沙达";
 		oldWepId = 1462019;
-		newWepName = "Maple Nishada";
+		newWepName = "枫叶坎度约";
 		newWepId = 1462040;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130013;
 	    } else if (selection == 8) {
-		oldWepName = "Maple Kandayo";
+		oldWepName = "枫叶斯坎达";
 		oldWepId = 1472032;
-		newWepName = "Maple Skanda";
+		newWepName = "枫叶瓦格纳";
 		newWepId = 1472055;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130015;
 	    } else if (selection == 9 || selection == 10) {
-		oldWepName = "Maple Wagner";
+		oldWepName = "枫叶阿修罗短刀";
 		oldWepId = 1332025;
 		if (selection == 9) {
-		    newWepName = "Maple Asura Dagger";
+		    newWepName = "枫叶暗之伴侣";
 		    newWepId = 1332056;
 		} else {
-		    newWepName = "Maple Dark Mate";
+		    newWepName = "枫叶穿刺者";
 		    newWepId = 1332055;
 		}
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130014;
 	    } else if (selection == 11) {
-		oldWepName = "Maple Impaler";
+		oldWepName = "枫叶灵魂之枪";
 		oldWepId = 1432012;
-		newWepName = "Maple Soul Spear";
+		newWepName = "枫叶天蝎";
 		newWepId = 1432040;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130008;
 	    } else if (selection == 12) {
-		oldWepName = "Maple Scorpio";
+		oldWepName = "枫叶卡斯檀";
 		oldWepId = 1442024;
-		newWepName = "Maple Karstan";
+		newWepName = "枫叶喇嘛之杖";
 		newWepId = 1442051;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130009;
 	    } else if (selection == 13) {
-		oldWepName = "Maple Lama Staff";
+		oldWepName = "枫叶光辉之杖";
 		oldWepId = 1382012;
-		newWepName = "Maple Shine Wand";
+		newWepName = "枫叶智慧之杖";
 		newWepId = 1372034;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130010;
 	    } else if (selection == 14) {
-		oldWepName = "Maple Lama Staff";
+		oldWepName = "枫叶光辉之杖";
 		oldWepId = 1382012;
-		newWepName = "Maple Wisdom Staff";
+		newWepName = "枫叶风暴指节";
 		newWepId = 1382039;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130011;
 	    } else if (selection == 15){
-		oldWepName = "Maple Storm Finger";
+		oldWepName = "枫叶黄金拳套";
 		oldWepId = 1482021;
-		newWepName = "Maple Golden Claw";
+		newWepName = "枫叶风暴手枪";
 		newWepId = 1482022;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130016;
 	    } else if (selection == 16) {
-		oldWepName = "Maple Storm Pistol";
+		oldWepName = "枫叶加农炮";
 		oldWepId = 1492021;
-		newWepName = "Maple Cannon Shooter";
+		newWepName = "枫叶战士盾牌";
 		newWepId = 1492022;
 		leaves = 200;
 		cost = 500000;
 		stimulator = 4130017;
 	    } else if (selection == 17) {
-		oldWepName = "Maple Shield";
+		oldWepName = "枫叶短刀";
 		oldWepId = 1092030;
-		newWepName = "Maple Warrior Shield";
+		newWepName = "枫叶法师盾牌";
 		newWepId = 1092046;
 		leaves = 200;
 		cost = 500000;
 	    } else if (selection == 18) {
-		oldWepName = "Maple Shield";
+		oldWepName = "枫叶短刀";
 		oldWepId = 1092030;
-		newWepName = "Maple Magician Shield";
+		newWepName = "枫叶飞侠盾牌";
 		newWepId = 1092045;
 		leaves = 200;
 		cost = 500000;
 	    } else if (selection == 19) {
-		oldWepName = "Maple Shield";
+		oldWepName = "枫叶短刀";
 		oldWepId = 1092030;
-		newWepName = "Maple Thief Shield";
+		newWepName = "枫叶公爵短刀";
 		newWepId = 1092047;
 		leaves = 200;
 		cost = 500000;
 	    } else if (selection == 20) {
-		oldWepName = "Maple Duke Katara";
+		oldWepName = "枫叶铆钉短刀";
 		oldWepId = 1342026;
-		newWepName = "Maple Cleat Katara";
+		newWepName = "枫叶红榴石之剑";
 		newWepId = 1342027;
 		leaves = 200;
 		cost = 500000;
 	    }
-	    cm.sendYesNo("Are you sure you want a #b" + newWepName + "#k?");
+	    cm.sendYesNo("枫叶灵魂之歌" + newWepName + "#k?");
 	} else if (sel == 1) {
 	    if (selection == 0) {
-		newWepName = "Maple Soul Singer";
+		newWepName = "枫叶荣耀之剑";
 		newWepId = 1302030;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 1) {
-		newWepName = "Maple Lama Staff";
+		newWepName = "枫叶光辉之杖";
 		newWepId = 1382012;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 2) {
-		newWepName = "Maple Dragon Axe";
+		newWepName = "枫叶钢斧";
 		newWepId = 1412011;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 3) {
-		newWepName = "Maple Doom Singer";
+		newWepName = "枫叶破坏之锤";
 		newWepId = 1422014;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 4) {
-		newWepName = "Maple Impaler";
+		newWepName = "枫叶灵魂之枪";
 		newWepId = 1432012;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 5) {
-		newWepName = "Maple Scorpio";
+		newWepName = "枫叶卡斯檀";
 		newWepId = 1442024;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 6) {
-		newWepName = "Maple Soul Searcher";
+		newWepName = "枫叶坎迪瓦之弓";
 		newWepId = 1452022;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 7) {
-		newWepName = "Maple Crossbow";
+		newWepName = "枫叶尼沙达";
 		newWepId = 1462019;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 8) {
-		newWepName = "Maple Kandayo";
+		newWepName = "枫叶斯坎达";
 		newWepId = 1472032;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 9) {
-		newWepName = "Maple Storm Pistol";
+		newWepName = "枫叶加农炮";
 		newWepId = 1492021;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 10) {
-		newWepName = "Maple Storm Finger";
+		newWepName = "枫叶黄金拳套";
 		newWepId = 1482021;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 11) {
-		newWepName = "Maple Duke Katara";
+		newWepName = "枫叶铆钉短刀";
 		newWepId = 1342026;
 		leaves = 200;
 		cost = 50000;
 	    } else if (selection == 12) {
-		newWepName = "Maple Wagner";
+		newWepName = "枫叶阿修罗短刀";
 		newWepId = 1332025;
 		leaves = 200;
 		cost = 50000;
 	    }
-	    cm.sendYesNo("Are you sure you want a #b" + newWepName + "#k?");
+	    cm.sendYesNo("枫叶灵魂之歌" + newWepName + "#k?");
 	} else if (sel == 4) {
 	    if (selection == 0) {
-		oldWepName = "Maple Glory Sword";
+		oldWepName = "枫叶灵魂罗恩";
 		oldWepId = 1302064;
-		newWepName = "Maple Pyrope Sword";
+		newWepName = "枫叶红榴石罗恩";
 		newWepId = 1302142;
 		leaves = 250;
 		cost = 3000000;
 		stimulator = 4130002;
 	    } else if (selection == 6) {
-		oldWepName = "Maple Soul Rohen";
+		oldWepName = "枫叶龙斧";
 		oldWepId = 1402039;
-		newWepName = "Maple Pyrope Rohen";
+		newWepName = "枫叶红榴石之斧";
 		newWepId = 1402085;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130005;
 	    } else if (selection == 1) {
-		oldWepName = "Maple Steel Axe";
+		oldWepName = "枫叶恶魔斧";
 		oldWepId = 1312032;
-		newWepName = "Maple Pyrope Axe";
+		newWepName = "枫叶红榴石战斧";
 		newWepId = 1312056;
 		leaves = 250;
 		cost = 3000000;
 		stimulator = 4130003;
 	    } else if (selection == 7) {
-		oldWepName = "Maple Demon Axe";
+		oldWepName = "枫叶末日之歌";
 		oldWepId = 1412027;
-		newWepName = "Maple Pyrope Battle Axe";
+		newWepName = "枫叶红榴石之锤";
 		newWepId = 1412055;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130006;
 	    } else if (selection == 2) {
-		oldWepName = "Maple Havoc Hammer";
+		oldWepName = "枫叶贝尔扎特";
 		oldWepId = 1322054;
-		newWepName = "Maple Pyrope Hammer";
+		newWepName = "枫叶红榴石大锤";
 		newWepId = 1322084;
 		leaves = 250;
 		cost = 3000000;
 		stimulator = 4130004;
 	    } else if (selection == 8) {
-		oldWepName = "Maple Belzet";
+		oldWepName = "枫叶灵魂搜索者";
 		oldWepId = 1422029;
-		newWepName = "Maple Pyrope Maul";
+		newWepName = "枫叶红榴石之弓";
 		newWepId = 1422057;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130007;
 	    } else if (selection == 11) {
-		oldWepName = "Maple Kandiva Bow";
+		oldWepName = "枫叶十字弩";
 		oldWepId = 1452045;
-		newWepName = "Maple Pyrope Bow";
+		newWepName = "枫叶红榴石弩";
 		newWepId = 1452100;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130012;
 	    } else if (selection == 12) {
-		oldWepName = "Maple Nishada";
+		oldWepName = "枫叶坎度约";
 		oldWepId = 1462040;
-		newWepName = "Maple Pyrope Crow";
+		newWepName = "枫叶红榴石斯坎达";
 		newWepId = 1462085;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130013;
 	    } else if (selection == 13) {
-		oldWepName = "Maple Skanda";
+		oldWepName = "枫叶瓦格纳";
 		oldWepId = 1472055;
-		newWepName = "Maple PyropeSkanda";
+		newWepName = "枫叶红榴石半月";
 		newWepId = 1472111;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130015;
 	    } else if (selection == 3) {
-		oldWepName = "Maple Dark Mate";
+		oldWepName = "枫叶穿刺者";
 		oldWepId = 1332055;
-		newWepName = "Maple Pyrope Halfmoon";
+		newWepName = "枫叶红榴石之枪";
 		newWepId = 1332114;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130014;
 	    } else if (selection == 9) {
-		oldWepName = "Maple Soul Spear";
+		oldWepName = "枫叶天蝎";
 		oldWepId = 1432040;
-		newWepName = "Maple Pyrope Spear";
+		newWepName = "枫叶红榴石地狱使者";
 		newWepId = 1432075;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130008;
 	    } else if (selection == 10) {
-		oldWepName = "Maple Karstan";
+		oldWepName = "枫叶喇嘛之杖";
 		oldWepId = 1442051;
-		newWepName = "Maple Pyrope Hellslayer";
+		newWepName = "枫叶红榴石短杖";
 		newWepId = 1442104;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130009;
 	    } else if (selection == 4) {
-		oldWepName = "Maple Shine Wand";
+		oldWepName = "枫叶智慧之杖";
 		oldWepId = 1372034;
-		newWepName = "Maple Pyrope Wand";
+		newWepName = "枫叶红榴石长杖";
 		newWepId = 1372071;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130010;
 	    } else if (selection == 5) {
-		oldWepName = "Maple Wisdom Staff";
+		oldWepName = "枫叶风暴指节";
 		oldWepId = 1382039;
-		newWepName = "Maple Pyrope Staff";
+		newWepName = "枫叶红榴石指节";
 		newWepId = 1382093;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130011;
 	    } else if (selection == 14){
-		oldWepName = "Maple Golden Claw";
+		oldWepName = "枫叶风暴手枪";
 		oldWepId = 1482022;
-		newWepName = "Maple Pyrope Knuckle";
+		newWepName = "枫叶红榴石射手";
 		newWepId = 1482073;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130016;
 	    } else if (selection == 15) {
-		oldWepName = "Maple Cannon Shooter";
+		oldWepName = "枫叶战士盾牌";
 		oldWepId = 1492022;
-		newWepName = "Maple Pyrope Shooter";
+		newWepName = "枫叶红榴石短刀";
 		newWepId = 1492073;
 		leaves = 500;
 		cost = 5000000;
 		stimulator = 4130017;
 	    } else if (selection == 16) {
-		oldWepName = "Maple Cleat Katara";
+		oldWepName = "枫叶红榴石之剑";
 		oldWepId = 1342027;
-		newWepName = "Maple Pyrope Katara";
+		newWepName = "不要吗？也许你应该先想清楚。我会在这里等你的。";
 		newWepId = 1342028;
 		leaves = 500;
 		cost = 5000000;
 	    }
-	    cm.sendYesNo("Are you sure you want a #b" + newWepName + "#k?");
+	    cm.sendYesNo("枫叶灵魂之歌" + newWepName + "#k?");
 	}
     } else if (status == 4) {
 	if (sel == 2 || sel == 4) {
 	    if (mode != 1) {
-		cm.sendOk("No? Maybe you should make up your mind. I'll be here, waiting.");
+		cm.sendOk("你的背包似乎已满，请检查一下。");
 		cm.dispose();
 	    } else {
 		    if (cm.canHold(newWepId)) {
@@ -485,7 +485,7 @@ function action(mode, type, selection) {
 			cm.gainItem(newWepId,1);
 			cm.sendOk(reward_msg);
 		    } else {
-			cm.sendOk("It appears that you are currently in full inventory, please check.");
+			cm.sendOk("如果你不想交换叶子的话，就无法获得经验值。");
 		    }
 		    cm.dispose();
 	    }
@@ -496,7 +496,7 @@ function action(mode, type, selection) {
 		    cm.gainItem(newWepId, 1);
 		    cm.sendOk(reward_msg);
 		} else {
-		    cm.sendOk("It appears that you are currently in full inventory, please check.");
+		    cm.sendOk("如果你不想交换叶子的话，就无法获得经验值。");
 		}
 	    cm.dispose();
 	}
@@ -518,29 +518,29 @@ function action(mode, type, selection) {
 		    cm.sendOk(reward_msg);
 		}
 	    } else {
-		cm.sendOk("It appears that you are currently in full inventory, please check.");
+		cm.sendOk("如果你不想交换叶子的话，就无法获得经验值。");
 	    }
 	    cm.dispose();
 	}
 	} else if (status == 10) {
 		if (selection == 0) {
-			cm.sendOk("If you don't want to trade any leaves, then you won't get exp.");
+			cm.sendOk("你没有那么多叶子。");
 			cm.dispose();
 			return;
 		}
 		if (!cm.haveItem(4001126, selection)) {
-			cm.sendOk("You do not have that many leaves.");
+			cm.sendOk("你想交换的叶子太多了！");
 			cm.dispose();
 			return;
 		}
 		if (cm.getPlayerStat("EXP") >= (Integer.MAX_VALUE - 200 * selection)) {
-			cm.sendOk("You are trying to trade me too many leaves!");
+			cm.sendOk("给你！");
 			cm.dispose();
 			return;
 		}
 		cm.gainItem(4001126, -selection);
 		cm.gainExp(200 * selection);
-		cm.sendOk("There you go!");
+		cm.sendOk("给你！");
 		cm.dispose();
     }
 }

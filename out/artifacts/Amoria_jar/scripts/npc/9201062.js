@@ -13,7 +13,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("Hey, there~! I'm J.J.! I'm in charge of the cosmetic lenses here at NLC Shop! If you have a #b#t5152036##k, I can get you the best cosmetic lenses you have ever had! Now, what would you like to do?");
+	cm.sendNext("通过我们的专用设备，你可以提前看到治疗后的效果。你想戴哪种隐形眼镜呢？选择你喜欢的款式吧。");
     } else if (status == 1) {
 	hair_Colo_new = [];
 
@@ -32,13 +32,13 @@ function action(mode, type, selection) {
 	hair_Colo_new[5] = teye + 600;
 	hair_Colo_new[6] = teye + 700;
 	    
-	cm.askAvatar("With our specialized machine, you can see yourself after the treatment in advance. What kind of lens would you like to wear? Choose the style of your liking.", hair_Colo_new);
+	cm.askAvatar("享受你的全新隐形眼镜吧！", hair_Colo_new);
 
     } else if (status == 2){
 	if (cm.setAvatar(5152036, hair_Colo_new[selection]) == 1) {
-	    cm.sendOk("Enjoy your new and improved cosmetic lenses!");
+	    cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	} else {
-	    cm.sendOk("I'm sorry, but I don't think you have our cosmetic lens coupon with you right now. Without the coupon, I'm afraid I can't do it for you..");
+	    cm.sendOk("很抱歉，你身上似乎没有携带我们的隐形眼镜优惠券。没有优惠券的话，恐怕没办法为你服务..");
 	}
 	cm.safeDispose();
     }

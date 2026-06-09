@@ -5,6 +5,6 @@
 */
 
 function start(){
-	cm.sendOk("My name is Euryth... As you can see, I am a fairy. People tell me I do not act fairy-like, but... I like making things out of metal objects. Shhh, don't tell this to anyone, but I also like MMA.");
+	cm.sendOk("我的名字是尤里斯……如你所见，我是一个妖精。人们说我不像妖精，但……我喜欢用金属物品制作东西。嘘，别告诉任何人，我还喜欢综合格斗。");
 	cm.dispose();
 	}

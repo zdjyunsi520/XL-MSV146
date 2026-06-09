@@ -23,9 +23,9 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	var selStr = "Hello, and welcome to the Ludibrium Shoe Store. How can I help you today??#b"
-	var options = new Array("What's a stimulator?","Create Warrior shoes","Create Bowman shoes","Create Magician shoes","Create Thief shoes",
-	    "Create Warrior shoes with a Stimulator","Create Bowman shoes with a Stimulator","Create Magician shoes with a Stimulator","Create Thief shoes with a Stimulator");
+	var selStr = "你好，欢迎来到玩具城鞋子店。请问有什么可以帮你的？#b"
+	var options = new Array("什么是刺激剂？","制作战士鞋子","制作弓箭手鞋子","制作魔法师鞋子","制作飞侠鞋子",
+	    "制作战士鞋子 with a Stimulator","制作弓箭手鞋子 with a Stimulator","制作魔法师鞋子 with a Stimulator","制作飞侠鞋子 with a Stimulator");
 	for (var i = 0; i < options.length; i++){
 	    selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 	}
@@ -43,37 +43,37 @@ function action(mode, type, selection) {
 	else
 	    stimulator = false;
 	if (selectedType == 0){ // what is stim
-	    cm.sendNext("A stimulator is a special potion that I can add into the process of creating certain items. It gives it stats as though it had dropped from a monster. However, it is possible to have no change, and it is also possible for the item to be below average. There's also a 10% chance of not getting any item when using a stimulator, so please choose wisely.")
+	    cm.sendNext("刺激剂是一种特殊的药水，我可以在制作某些物品的过程中加入它。它会让物品获得像怪物掉落时一样的属性。但是，有可能不会产生任何变化，也有可能物品属性低于平均值。使用刺激剂还有10%的几率制作失败，所以请谨慎选择。")
 	    cm.dispose();
 	    return;
 	}
 	if (selectedType == 1){ //warrior shoe
-	    selStr = "Warrior shoes? Sure thing, which kind?#b";
-	    shoes = new Array ("Emerald Battle Grieve#k - Warrior Lv. 30#b","Mithril Battle Grieve#k - Warrior Lv. 30#b","Silver Battle Grieve#k - Warrior Lv. 30#b","Blood Battle Grieve#k - Warrior Lv. 30#b",
-		"Steel Trigger#k - Warrior Lv. 35#b","Mithril Trigger#k - Warrior Lv. 35#b","Dark Trigger#k - Warrior Lv. 35#b",
-		"Brown Jangoon Boots#k - Warrior Lv. 40#b","Maroon Jangoon Boots#k - Warrior Lv. 40#b","Blue Jangoon Boots#k - Warrior Lv. 40#b",
-		"Emerald Hildon Boots#k - Warrior Lv. 50#b","Mithril Hildon Boots#k - Warrior Lv. 50#b","Orihalcon Hildon Boots#k - Warrior Lv. 50#b","Gold Hildon Boots#k - Warrior Lv. 50#b");;
+	    selStr = "战士鞋子？没问题，你想要哪种？#b";
+	    shoes = new Array ("翡翠战靴#k - 战士 Lv. 30#b","秘银战靴#k - 战士 Lv. 30#b","银色战靴#k - 战士 Lv. 30#b","血色战靴#k - 战士 Lv. 30#b",
+		"钢铁战靴#k - 战士 Lv. 35#b","秘银战靴#k - 战士 Lv. 35#b","暗色战靴#k - 战士 Lv. 35#b",
+		"棕色剑靴#k - 战士 Lv. 40#b","褐红色剑靴#k - 战士 Lv. 40#b","蓝色剑靴#k - 战士 Lv. 40#b",
+		"翡翠希尔顿靴#k - 战士 Lv. 50#b","秘银希尔顿靴#k - 战士 Lv. 50#b","秘银希尔顿靴#k - 战士 Lv. 50#b","黄金希尔顿靴#k - 战士 Lv. 50#b");;
 	}
 	else if (selectedType == 2){ //bowman shoe
-	    selStr = "Bowman shoes? Sure thing, which kind?#b";
-	    shoes = new Array ("Red Hunter Boots#k - Bowman Lv. 30#b","Blue Hunter Boots#k - Bowman Lv. 30#b","Green Hunter Boots#k - Bowman Lv. 30#b","Black Hunter Boots#k - Bowman Lv. 30#b","Brown Hunter Boots#k - Bowman Lv. 30#b",
-		"Blue Silky Boots#k - Bowman Lv. 35#b","Green Silky Boots#k - Bowman Lv. 35#b","Red Silky Boots#k - Bowman Lv. 35#b",
-		"Red Pierre Shoes#k - Bowman Lv. 40#b","Yellow Pierre Shoes#k - Bowman Lv. 40#b","Brown Pierre Shoes#k - Bowman Lv. 40#b","Blue Pierre Shoes#k - Bowman Lv. 40#b",
-		"Brown Steel-Tipped Boots#k - Bowman Lv. 50#b","Green Steel-Tipped Boots#k - Bowman Lv. 50#b","Blue Steel-Tipped Boots#k - Bowman Lv. 50#b","Purple Steel-Tipped Boots#k - Bowman Lv. 50#b");
+	    selStr = "弓箭手鞋子？没问题，你想要哪种？#b";
+	    shoes = new Array ("红色猎人靴#k - 弓箭手 Lv. 30#b","蓝色猎人靴#k - 弓箭手 Lv. 30#b","绿色猎人靴#k - 弓箭手 Lv. 30#b","黑色猎人靴#k - 弓箭手 Lv. 30#b","棕色猎人靴#k - 弓箭手 Lv. 30#b",
+		"蓝色丝滑靴#k - 弓箭手 Lv. 35#b","绿色丝滑靴#k - 弓箭手 Lv. 35#b","红色丝滑靴#k - 弓箭手 Lv. 35#b",
+		"红色皮埃尔鞋#k - 弓箭手 Lv. 40#b","黄色皮埃尔鞋#k - 弓箭手 Lv. 40#b","棕色皮埃尔鞋#k - 弓箭手 Lv. 40#b","蓝色皮埃尔鞋#k - 弓箭手 Lv. 40#b",
+		"棕色钢头靴#k - 弓箭手 Lv. 50#b","绿色钢头靴#k - 弓箭手 Lv. 50#b","蓝色钢头靴#k - 弓箭手 Lv. 50#b","紫色钢头靴#k - 弓箭手 Lv. 50#b");
 	}
 	else if (selectedType == 3){ //magician shoe
-	    selStr = "Magician shoes? Sure thing, which kind?#b";
-	    shoes = new Array ("Red Magicshoes#k - Magician Lv. 30#b","Blue Magicshoes#k - Magician Lv. 30#b","White Magicshoes#k - Magician Lv. 30#b","Black Magicshoes#k - Magician Lv. 30#b",
-		"Purple Salt Shoes#k - Magician Lv. 35#b","Red Salt Shoes#k - Magician Lv. 35#b","Black Salt Shoes#k - Magician Lv. 35#b",
-		"Red Moon Shoes#k - Magician Lv. 40#b","Blue Moon Shoes#k - Magician Lv. 40#b","Gold Moon Shoes#k - Magician Lv. 40#b","Dark Moon Shoes#k - Magician Lv. 40#b",
-		"Pink Goldwind Shoes#k - Magician Lv. 50#b","Blue Goldwind Shoes#k - Magician Lv. 50#b","Purple Goldwind Shoes#k - Magician Lv. 50#b","Green Goldwind Shoes#k - Magician Lv. 50#b");
+	    selStr = "魔法师鞋子？没问题，你想要哪种？#b";
+	    shoes = new Array ("红色魔法鞋#k - 魔法师 Lv. 30#b","蓝色魔法鞋#k - 魔法师 Lv. 30#b","白色魔法鞋#k - 魔法师 Lv. 30#b","黑色魔法鞋#k - 魔法师 Lv. 30#b",
+		"紫色盐鞋#k - 魔法师 Lv. 35#b","红色盐鞋#k - 魔法师 Lv. 35#b","黑色盐鞋#k - 魔法师 Lv. 35#b",
+		"红色月鞋#k - 魔法师 Lv. 40#b","蓝色月鞋#k - 魔法师 Lv. 40#b","黄金月鞋#k - 魔法师 Lv. 40#b","暗色月鞋#k - 魔法师 Lv. 40#b",
+		"粉色金风鞋#k - 魔法师 Lv. 50#b","蓝色金风鞋#k - 魔法师 Lv. 50#b","紫色金风鞋#k - 魔法师 Lv. 50#b","绿色金风鞋#k - 魔法师 Lv. 50#b");
 	}
 	else if (selectedType == 4){ //thief shoe
-	    selStr = "Thief shoes? Sure thing, which kind?#b";
-	    shoes = new Array ("Bronze Chain Boots#k - Thief Lv. 30#b","Iron Chain Boots#k - Thief Lv. 30#b","Silver Chain Boots#k - Thief Lv. 30#b","Gold Chain Boots#k - Thief Lv. 30#b",
-		"Red White-Line Boots#k - Thief Lv. 35#b","Green White-Line Boots#k - Thief Lv. 35#b","Blue White-Line Boots#k - Thief Lv. 35#b",
-		"Black Red-Lined Shoes#k - Thief Lv. 40#b","Black Green-Lined Shoes#k - Thief Lv. 40#b","Black Yellow-Lined Shoes#k - Thief Lv. 40#b","Black Blue-Lined Shoes#k - Thief Lv. 40#b",
-		"Blue Goni Shoes#k - Thief Lv. 50#b","Red Goni Shoes#k - Thief Lv. 50#b","Green Goni Shoes#k - Thief Lv. 50#b","Purple Goni Shoes#k - Thief Lv. 50#b");
+	    selStr = "飞侠鞋子？没问题，你想要哪种？#b";
+	    shoes = new Array ("青铜链靴#k - 飞侠 Lv. 30#b","铁制链靴#k - 飞侠 Lv. 30#b","银色链靴#k - 飞侠 Lv. 30#b","黄金链靴#k - 飞侠 Lv. 30#b",
+		"红色白条纹靴#k - 飞侠 Lv. 35#b","绿色白条纹靴#k - 飞侠 Lv. 35#b","蓝色白条纹靴#k - 飞侠 Lv. 35#b",
+		"黑色红线条鞋#k - 飞侠 Lv. 40#b","黑色绿线条鞋#k - 飞侠 Lv. 40#b","黑色黄线条鞋#k - 飞侠 Lv. 40#b","黑色蓝线条鞋#k - 飞侠 Lv. 40#b",
+		"蓝色高尼鞋#k - 飞侠 Lv. 50#b","红色高尼鞋#k - 飞侠 Lv. 50#b","绿色高尼鞋#k - 飞侠 Lv. 50#b","紫色高尼鞋#k - 飞侠 Lv. 50#b");
 	}
 		
 	if (selectedType != 0)
@@ -144,7 +144,7 @@ function action(mode, type, selection) {
 	//Ludi fee is -10%, array not changed unlike 2040016 and 2040020
 	cost = cost * .9;
 		
-	var prompt = "You want me to make a #t" + item + "#? In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
+	var prompt = "你想让我制作#t" + item + "#？那样的话，我需要你提供特定的材料才能制作。请确保你的背包有足够的空间！#b";
 		
 	if(stimulator)
 	    prompt += "\r\n#i"+stimID+"# 1 #t" + stimID + "#";
@@ -159,14 +159,14 @@ function action(mode, type, selection) {
 	}
 		
 	if (cost > 0)
-	    prompt += "\r\n#i4031138# " + cost + " meso";
+	    prompt += "\r\n#i4031138# " + cost + " 金币";
 		
 	cm.sendYesNo(prompt);
     } else if (status == 3) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost) {
-	    cm.sendOk("I'm afraid you cannot afford my services.")
+	    cm.sendOk("恐怕你付不起我的服务费用。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -189,7 +189,7 @@ function action(mode, type, selection) {
 	}
 			
 	if (!complete)
-	    cm.sendOk("Sorry, but I have to have those items to get this exactly right. Perhaps next time.");
+	    cm.sendOk("抱歉，我必须有那些材料才能完美制作。也许下次吧。");
 	else {
 	    if (mats instanceof Array) {
 		for (var i = 0; i < mats.length; i++){
@@ -204,13 +204,13 @@ function action(mode, type, selection) {
 		var deleted = Math.floor(Math.random() * 10);
 		if (deleted != 0) {
 		    cm.gainItem(item, 1, true);
-		    cm.sendOk("There, the shoes are ready. Be careful, they're still hot.");
+		    cm.sendOk("好了，鞋子做好了。小心，它们还很烫。");
 		} else {
-		    cm.sendOk("Eek! I think I accidently added too much stimulator and, well, the whole thing is unusable now... Sorry, but I can't offer a refund.");
+		    cm.sendOk("哎呀！我想我不小心加了太多刺激剂，结果……整件东西都不能用了……抱歉，我无法退款。");
 		}
 	    } else { //just give basic item
 		cm.gainItem(item, 1);
-		cm.sendOk("There, the shoes are ready. Be careful, they're still hot.");
+		cm.sendOk("好了，鞋子做好了。小心，它们还很烫。");
 	    }
 	}
 	cm.safeDispose();

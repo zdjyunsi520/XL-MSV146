@@ -17,21 +17,21 @@ var losematch = false
 var drawmatch = false; 
 
 function start() { 
-    cm.sendNext(beta + "I am the Master of Rock, Paper, Scissors..."); 
+    cm.sendNext(beta + "我是石头剪刀布的大师..."); 
 } 
 
 function action(mode, type, selection) {
     if (mode != 1) {
         if (status == 1)
-            cm.sendOk("Why of course, you're tot chicken to face me in Rock, Paper, Scissors!"); 
+            cm.sendOk("当然了，你不敢和我玩石头剪刀布吧！"); 
         cm.dispose();
         return;
     } else
         status++;
     if (status == 0) { 
-            cm.askAcceptDecline("Would you like to challenge me to a game of Rock, Paper Scissors?"); 
+            cm.askAcceptDecline("你想和我来一局石头剪刀布吗？"); 
     } else if (status == 1) { 
-            cm.sendSimple("Choose one...\r\n" 
+            cm.sendSimple("选一个...\r\n" 
             + "#L0##fUI/UIWindow.img/RpsGame/Frock##l" 
             + "#L1##fUI/UIWindow.img/RpsGame/Fpaper##l" 
             + "#L2##fUI/UIWindow.img/RpsGame/Fscissor##l" 
@@ -52,7 +52,7 @@ function action(mode, type, selection) {
         } else if (random <= 4) { 
             compchoice = "scissor"; 
         } 
-        cm.sendNext("And the results are..."); 
+        cm.sendNext("结果是..."); 
     } else if (status == 3) { 
         if (playerchoice == "rock" && compchoice == "rock") { 
             cm.sendOk(Frock + spacing + rock + draw); 

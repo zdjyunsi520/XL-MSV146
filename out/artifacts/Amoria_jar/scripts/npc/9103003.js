@@ -19,7 +19,7 @@ function action(mode, type, selection) {
 	    status--;
 		
 	if (status == 0) {
-	    cm.sendNext("See you again~!");
+	    cm.sendNext("下次再见~！");
 
 	} else if (status == 1) {
 	    cm.warp(220000000);

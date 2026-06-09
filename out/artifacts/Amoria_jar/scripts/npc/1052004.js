@@ -17,7 +17,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("Well, hello! Welcome to the Henesys Plastic Surgery! Would you like to transform your face into something new? With a #b#t5152001##k, you can let us take care of the rest and have the face you've always wanted~!");
+	cm.sendNext("你好！欢迎来到射手村整形医院！想把脸变成全新的样子吗？凭一张#b#t5152001##k，剩下的交给我们，让你拥有梦寐以求的脸庞～！");
     } else if (status == 1) {
 	var face = cm.getPlayerStat("FACE");
 
@@ -29,12 +29,12 @@ function action(mode, type, selection) {
 	for (var i = 0; i < facetype.length; i++) {
 	    facetype[i] = facetype[i] + face % 1000 - (face % 100);
 	}
-	cm.askAvatar("Let's see... I can totally transform your face into something new. Don't you want to try it? For #b#t5152001##k, you can get the face of your liking. Take your time in choosing the face of your preference.", facetype);
+	cm.askAvatar("让我看看……我可以把你的脸完全变成新的样子。不想试试吗？凭一张#b#t5152001##k，你就能得到喜欢的脸型。慢慢选择你喜欢的脸吧。", facetype);
     } else if (status == 2){
 	if (cm.setAvatar(5152001, facetype[selection]) == 1) {
-	    cm.sendOk("Enjoy your new and improved face!");
+	    cm.sendOk("好好享受你焕然一新的容貌吧！");
 	} else {
-	    cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+	    cm.sendOk("嗯……看起来你没有本店专用的优惠券。很抱歉，没有优惠券的话，无法为你进行整形手术……");
 	}
 	cm.dispose();
     }

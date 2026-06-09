@@ -22,13 +22,13 @@ function end(mode, type, selection) {
     }
     if (status == 0) {
         if (qm.itemQuantity(4033196) >= 10)
-            qm.sendNext("Where's the eggs? I told you to get eggs. If you broke them... Wait a second, what happened to you?\r\n\r\n#b#L0#Uh, well, you know how you told me not to mess with Bigby? Well... I kinda... he got out.#l");
+            qm.sendNext("鸡蛋呢？我叫你去拿鸡蛋的。如果你打碎了...等等，你发生了什么事？\r\n\r\n#b#L0#嗯，那个，你知道你叫我别碰比格比的吧？嗯...我有点...它跑出来了。#l");
         else {
             qm.forceStartQuest();
             qm.dispose();
         }
     } else if (status == 1) {	
-        qm.sendNext("What?!! I swear to every deity I can think of, you will starve to death if that dog is not in my yard by dinnertime.");
+        qm.sendNext("什么？！我对天发誓，如果你在天黑前没把那条狗弄回院子里，你就饿着吧。");
     } else if (status == 2) {
         qm.gainItem(4033196, -10);
         while (qm.getPlayer().getLevel() < 8)

@@ -29,23 +29,23 @@ function action(mode, type, selection) {
 	return;
     }
 	if (status == -1) {
-		cm.sendSimple("Hello there~ If you are interested in upgrading or repairing your weapon, you have definitely come to the right place! I'm the best weapon maker in this great town of Leafre. Okay, what do you think about a weapon that is laden with the incredible power of the dragon? Are you interested?\r\n#L0# Create a Dragon weapon#l\r\n#L100# Repair Equipment#l");
+		cm.sendSimple("你好~如果你对升级或修理武器感兴趣，你来对地方了！我是这座伟大的神木村镇上最好的武器制作人。好了，你觉得承载着龙之不可思议力量的武器怎么样？感兴趣吗？\r\n#L0# 制作龙武器#l\r\n#L100# 修理装备#l");
     } else if (status == 0) {
 	if (selection == 0) {
 		if (cm.haveItem(4001079)) {
 		    bustedDagger = true;
-		    cm.sendNext("What is it? The busted dagger you have seems old, I'll need #i"+4011001+"# and #i"+4011002+"#.");
+		    cm.sendNext("什么？你那把破旧的匕首看起来有些年头了，我需要#i"+4011001+"#和#i"+4011002+"#.");
 		} else {
-		    var selStr = "A dragon's power is not to be underestimated. If you like, I can add its power to one of your weapons. However, the weapon must be powerful enough to hold its potential...#b";
-		    var options = new Array("What's a stimulator?","Create a Warrior weapon","Create a Bowman weapon","Create a Magician weapon","Create a Thief weapon","Create a Pirate Weapon",
-			"Create a Warrior weapon with a Stimulator","Create a Bowman weapon with a Stimulator","Create a Magician weapon with a Stimulator","Create a Thief weapon with a Stimulator","Create a Pirate Weapon with a Stimulator");
+		    var selStr = "龙的力量不可小觑。如果你愿意，我可以将龙的力量注入你的武器中。但是，武器必须足够强大才能承载这种潜能……#b";
+		    var options = new Array("什么是刺激剂？","制作战士武器","制作弓箭手武器","制作魔法师武器","制作飞侠武器","制作海盗武器",
+			"制作战士武器 with a Stimulator","制作弓箭手武器 with a Stimulator","制作魔法师武器 with a Stimulator","制作飞侠武器 with a Stimulator","制作海盗武器 with a Stimulator");
 		    for (var i = 0; i < options.length; i++){
 			selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 		    }
 		    cm.sendSimple(selStr);
 		}
 	} else {
-		cm.sendYesNo("Great! I'll show you what I'm capable of. You are aware that the service fee varies depending on the item's level and amount of Durability the item's lost, aren't you? Would you like to repair your equipment item now?");
+		cm.sendYesNo("好的！我让你见识一下我的本事。你知道服务费取决于物品的等级和耐久度损失量，对吧？你现在要修理你的装备吗？");
 		status = 99;
 	}
 
@@ -57,7 +57,7 @@ function action(mode, type, selection) {
 		cm.gainItem(4001079, -1);
 		cm.gainItem(4001078, 1);
 	    } else {
-		cm.sendOk("You do not have the required items.");
+		cm.sendOk("你没有所需的物品。");
 	    }
 	    cm.dispose();
 	} else {
@@ -69,45 +69,45 @@ function action(mode, type, selection) {
 	    else
 		stimulator = false;
 	    if (selectedType == 0) { //What's a stim?
-		cm.sendNext("A stimulator is a special potion that I can add into the process of creating certain items. It gives it stats as though it had dropped from a monster. However, it is possible to have no change, and it is also possible for the item to be below average. There's also a 10% chance of not getting any item when using a stimulator, so please choose wisely.")
+		cm.sendNext("刺激剂是一种特殊的药水，我可以在制作某些物品的过程中加入它。它会让物品获得像怪物掉落时一样的属性。但是，有可能不会产生任何变化，也有可能物品属性低于平均值。使用刺激剂还有10%的几率制作失败，所以请谨慎选择。")
 		cm.dispose();
 	    }
 	    else if (selectedType == 1){ //warrior weapon
-		var selStr = "Very well, then which Warrior weapon shall recieve a dragon's power?#b";
-		var weapon = new Array ("Dragon Carbella#k - Lv. 110 One-Handed Sword#b","Dragon Axe#k - Lv. 110 One-Handed Axe#b","Dragon Mace#k - Lv. 110 One-Handed BW#b","Dragon Claymore#k - Lv. 110 Two-Handed Sword#b","Dragon Battle Axe#k - Lv. 110 Two-Handed Axe#b","Dragon Flame#k - Lv. 110 Two-Handed BW#b",
-		    "Dragon Faltizan#k - Lv. 110 Spear#b","Dragon Chelbird#k - Lv. 110 Polearm#b");
+		var selStr = "好的，那么你要给哪把战士武器注入龙之力呢？#b";
+		var weapon = new Array ("龙之卡贝拉#k - Lv. 110 单手剑#b","龙之斧#k - Lv. 110 单手斧#b","龙之锤#k - Lv. 110 单手钝器#b","龙之双手剑#k - Lv. 110 双手剑#b","龙之战斧#k - Lv. 110 双手斧#b","龙之炎#k - Lv. 110 双手钝器#b",
+		    "龙之法尔蒂赞#k - Lv. 110 枪#b","龙之切尔伯德#k - Lv. 110 polearm#b");
 		for (var i = 0; i < weapon.length; i++){
 		    selStr += "\r\n#L" + i + "# " + weapon[i] + "#l";
 		}
 		cm.sendSimple(selStr);
 	    }
 	    else if (selectedType == 2){ //bowman weapon
-		var selStr = "Very well, then which Bowman weapon shall recieve a dragon's power?#b";
-		var weapon = new Array ("Dragon Shiner Bow#k - Lv. 110 Bow#b","Dragon Shiner Cross#k - Lv. 110 Crossbow#b");
+		var selStr = "好的，那么你要给哪把弓箭手武器注入龙之力呢？#b";
+		var weapon = new Array ("龙之闪弓#k - Lv. 110 弓#b","龙之闪弩#k - Lv. 110 弩#b");
 		for (var i = 0; i < weapon.length; i++){
 		    selStr += "\r\n#L" + i + "# " + weapon[i] + "#l";
 		}
 		cm.sendSimple(selStr);
 	    }
 	    else if (selectedType == 3){ //magician weapon
-		var selStr = "Very well, then which Magician weapon shall recieve a dragon's power?#b";
-		var weapon = new Array ("Dragon Wand#k - Lv. 108 Wand#b","Dragon Staff#k - Lv. 110 Staff#b");
+		var selStr = "好的，那么你要给哪把魔法师武器注入龙之力呢？#b";
+		var weapon = new Array ("龙之短杖#k - Lv. 108 短杖#b","龙之长杖#k - Lv. 110 长杖#b");
 		for (var i = 0; i < weapon.length; i++){
 		    selStr += "\r\n#L" + i + "# " + weapon[i] + "#l";
 		}
 		cm.sendSimple(selStr);
 	    }
 	    else if (selectedType == 4){ //thief weapon
-		var selStr = "Very well, then which Thief weapon shall recieve a dragon's power?#b";
-		var weapon = new Array ("Dragon Kanzir#k - Lv. 110 STR Dagger#b","Dragon Kreda#k - Lv. 110 LUK Dagger#b","Dragon Green Sleve#k - Lv. 110 Claw#b");
+		var selStr = "好的，那么你要给哪把飞侠武器注入龙之力呢？#b";
+		var weapon = new Array ("龙之坎齐尔#k - Lv. 110 STR匕首#b","龙之克雷达#k - Lv. 110 LUK匕首#b","龙之绿袖#k - Lv. 110 拳套#b");
 		for (var i = 0; i < weapon.length; i++){
 		    selStr += "\r\n#L" + i + "# " + weapon[i] + "#l";
 		}
 		cm.sendSimple(selStr);
 	    }
 	    else if (selectedType == 5){ //pirate weapon
-		var selStr = "Very well, then which Pirate weapon shall recieve a dragon's power?#b";
-		var weapon = new Array ("Dragon Slash Claw#k - Lv. 110 Knuckle#b","Dragonfire Revolver#k - Lv. 110 Gun#b");
+		var selStr = "好的，那么你要给哪把海盗武器注入龙之力呢？#b";
+		var weapon = new Array ("龙之裂爪#k - Lv. 110 指虎#b","龙火左轮#k - Lv. 110 枪#b");
 		for (var i = 0; i < weapon.length; i++){
 		    selStr += "\r\n#L" + i + "# " + weapon[i] + "#l";
 		}
@@ -168,7 +168,7 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "You want me to make a #t" + item + "#? In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
+	var prompt = "你想让我制作#t" + item + "#？那样的话，我需要你提供特定的材料才能制作。请确保你的背包有足够的空间！#b";
 		
 	if (stimulator){
 	    stimID = getStimID(item);
@@ -184,14 +184,14 @@ function action(mode, type, selection) {
 	}
 		
 	if (cost > 0)
-	    prompt += "\r\n#i4031138# " + cost + " meso";
+	    prompt += "\r\n#i4031138# " + cost + " 金币";
 		
 	cm.sendYesNo(prompt);
     } else if (status == 3 && mode == 1) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost) {
-	    cm.sendOk("I'm afraid you cannot afford my services.")
+	    cm.sendOk("恐怕你付不起我的服务费用。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -214,7 +214,7 @@ function action(mode, type, selection) {
 	}
 			
 	if (!complete)
-	    cm.sendOk("I'm afraid that without the correct items, the dragon's essence would... not make for a very reliable weapon. Please bring the correct items next time.");
+	    cm.sendOk("恐怕没有正确的材料，龙的精华会……无法打造出可靠的武器。请下次带来正确的材料。");
 	else {
 	    if (mats instanceof Array) {
 		for (var i = 0; i < mats.length; i++){
@@ -229,13 +229,13 @@ function action(mode, type, selection) {
 		var deleted = Math.floor(Math.random() * 10);
 		if (deleted != 0){
 		    cm.gainItem(item, 1, true)
-		    cm.sendOk("The process is complete. Treat your weapon well, lest you bring the wrath of the dragons upon you.");
+		    cm.sendOk("制作完成。好好对待你的武器，以免招来龙的怒火。");
 		} else {
-		    cm.sendOk("Unfortunately, the dragon's essence has... conflicted with your weapon. My apologies for your loss.");
+		    cm.sendOk("很遗憾，龙的精华……与你的武器产生了冲突。对你的损失深表歉意。");
 		}
 	    } else { //just give basic item
 		cm.gainItem(item, 1);
-		cm.sendOk("The process is complete. Treat your weapon well, lest you bring the wrath of the dragons upon you.");
+		cm.sendOk("制作完成。好好对待你的武器，以免招来龙的怒火。");
 	    }
 	}
 	cm.dispose();

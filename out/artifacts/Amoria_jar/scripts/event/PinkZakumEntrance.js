@@ -39,7 +39,7 @@ function setup() {
 function beginQuest(eim) { // Custom function
     if (eim != null) {
         eim.startEventTimer(45000); // After 60 seconds -> scheduledTimeout()
-		em.broadcastServerMsg(6, "[Pink Zakum] Entry has opened use @PinkZak to join", false);		
+		em.broadcastServerMsg(6, "[粉红扎昆] 入口已开放，使用 @PinkZak 加入", false);		
     }
 }
 
@@ -58,7 +58,7 @@ function changedMap(eim, player, mapid) {
 function scheduledTimeout(eim, player) {
     eim.disposeIfPlayerBelow(100, 689013000);
 //	eim.unregisterPlayer(player);
-    em.broadcastServerMsg(6, "[Pink Zakum] Entry has closed", false);
+    em.broadcastServerMsg(6, "[粉红扎昆] 入口已关闭", false);
 	em.setProperty("entryPossible", "false");
 	scheduleNew();
     eim.dispose();

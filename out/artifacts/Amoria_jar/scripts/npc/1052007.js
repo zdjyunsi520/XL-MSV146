@@ -15,20 +15,20 @@ function action(mode, type, selection) {
 	cm.dispose();
     } else {
 	if (mode == 0) {
-	    cm.sendNext("You must have some business to take care of here, right?");
+	    cm.sendNext("你到这里来一定有事要办吧？");
 	    cm.dispose();
 	    return;
 	}
 	if (mode == 1)
 	    status++;
 	if (status == 1) {
-	    menu = "Here's the ticket reader. You will be brought in immediately. Which ticket would like to use?\r\n";
+	    menu = "这里是检票口。你会被立刻送进去。你想使用哪种票？\r\n";
 	    for (i=0; i < itemid.length; i++) {
 		if(cm.haveItem(itemid[i])) {
 		    menu += "#L"+i+"##b#m"+mapid[i]+"##k#l\r\n";
 		}
 	    }
-		menu += "#L" + (itemid.length) + "##bSubway Line 1#k#l\r\n#L" + (itemid.length + 1) + "##bKerning Square#k#l\r\n";
+		menu += "#L" + (itemid.length) + "##b地铁1号线#k#l\r\n#L" + (itemid.length + 1) + "##b废弃都市广场#k#l\r\n";
 	    cm.sendSimple(menu);
 	} if (status == 2) {
 	    section = selection;
@@ -39,15 +39,15 @@ function action(mode, type, selection) {
 	    }
 	    else if (section == (itemid.length - 1)){
 		if(sw == null) {
-		    cm.sendNext("Trains are currently down.");
+		    cm.sendNext("列车目前停运中。");
 		    cm.dispose();
 		} else if(sw.getProperty("entry").equals("true")) {
-		    cm.sendYesNo("It looks like there's plenty of room for this ride. Please have your ticket ready so I can let you in, The ride will be long, but you'll get to your destination just fine. What do you think? Do you want to get on this ride?");
+		    cm.sendYesNo("看起来这趟车还有不少空位。请准备好你的车票，我就可以让你进去了。旅程会比较长，但你会顺利到达目的地的。怎么样？要上车吗？");
 		} else if(sw.getProperty("entry").equals("false") && sw.getProperty("docked").equals("true")) {
-		    cm.sendNext("The subway is getting ready for takeoff. I'm sorry, but you'll have to get on the next ride. The ride schedule is available through the usher at the ticketing booth.");
+		    cm.sendNext("地铁即将发车。很抱歉，你需要等下一班了。发车时间表可以在售票处的乘务员那里查看。");
 		    cm.dispose();
 		} else {
-		    cm.sendNext("We will begin boarding 1 minutes before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off right on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
+		    cm.sendNext("我们将在发车前1分钟开始检票。请耐心等待几分钟。请注意地铁会准时发车，我们会在发车前1分钟停止检票，所以请务必准时到达。");
 		    cm.dispose();
 		}
 	    } else {

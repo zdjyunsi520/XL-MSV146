@@ -9,6 +9,6 @@ function enter(pi) {
 	pi.playPortalSE();
 	pi.warp(914010200, 1);
     } else {
-	pi.playerMessage(5, "Only if you are recieving a lesson from Puo, you will be allowed to enter the Pengiun Training Ground.");
+	pi.playerMessage(5, "只有接受普奥的课程时，才能进入企鹅训练场。");
     }
 }

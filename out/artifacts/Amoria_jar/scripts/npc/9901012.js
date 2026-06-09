@@ -18,7 +18,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple ("Hey #r#h ##k Im the Custom Map Warper of Maple Blade! #b[Update]#k#rBosses Will Spawn Every 5 Minutes in the Boss Maps (Talk to Spinel)#k \r\n#L2#Skelegon Map No.1\r\n#L3#Skelegon Map No.2\r\n#L15#Skelegon Map No.3\r\n#L16#Skelegon Map No.4\r\n#L17#Skelegon Map No.5\r\n#L21##b[New]#kSkelosaurus Map No.1\r\n#L22##b[New]#kSkelosaurus Map No.2\r\n#L23##b[New]#kSkelosaurus Map No.3\r\n#L24##b[New]#kSkelosaurus Map No.4\r\n#L25##b[New]#kSkelosaurus Map No.5\r\n#L26##b[New]#kSkelosaurus Map No.6\r\n#L4#Level 60 ~ 80 Mobs Mixture No.1\r\n#L5#Level 60 ~ 80 Mobs Mixture No.2\r\n#L6#Mixed Golems No.1\r\n#L7#Mixed Golems No.2\r\n#L8#Newties Golems\r\n#L9#Viking Treasure hunt (Party Training Ground 1)\r\n#L18##b#kWar of Kentaurus (Party Training Ground2)\r\n#L13#Chief Knight's Barrack\r\n#L14#Rise of Retarded Penguins(Level 30+)\r\n#L19##r[HOT FOR PRIEST]#kBuddah's Revenge\r\n#L20##r[HOT FOR PRIEST]#kBuddah's Revenge2");
+			cm.sendSimple ("嘿 #r#h ##k 我是Maple Blade的自定义地图传送员！#b[更新]#k#rBoss将每5分钟在Boss地图刷新(与斯皮内尔对话)#k \r\n#L2#骷髅龙地图1号\r\n#L3#骷髅龙地图2号\r\n#L15#骷髅龙地图3号\r\n#L16#骷髅龙地图4号\r\n#L17#骷髅龙地图5号\r\n#L21##b[新]#k骷髅暴龙地图1号\r\n#L22##b[新]#k骷髅暴龙地图2号\r\n#L23##b[新]#k骷髅暴龙地图3号\r\n#L24##b[新]#k骷髅暴龙地图4号\r\n#L25##b[新]#k骷髅暴龙地图5号\r\n#L26##b[新]#k骷髅暴龙地图6号\r\n#L4#60 ~ 80级怪物混合地图1号\r\n#L5#60 ~ 80级怪物混合地图2号\r\n#L6#混合石头人地图1号\r\n#L7#混合石头人地图2号\r\n#L8#新迪利亚石头人\r\n#L9#维京寻宝(组队训练场1)\r\n#L18##b#k肯塔罗斯大战(组队训练场2)\r\n#L13#骑士队长营房\r\n#L14#蠢企鹅的崛起(30级以上)\r\n#L19##r[牧师推荐]#k佛陀的复仇\r\n#L20##r[牧师推荐]#k佛陀的复仇2");
 				} else if (selection == 1) {
 				  cm.warp(970010000);
 				  cm.dispose();

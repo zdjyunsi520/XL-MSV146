@@ -48,11 +48,11 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-            cm.sendSimple("I'm the head of Showa hair salon. If you have a #b#t5150009##k or a #b#t5151009##k allow me to take care of your hairdo. Please choose the one you want.\r\n#L0#I want to buy a coupon!#l\r\n#L1#Haircut: #i5150009##t5150009##l\r\n#L2#Dye your hair: #i5151009##t5151009##l");
+            cm.sendSimple("你想购买哪种优惠券？\r\n#L0#剪发券，价格");
         } else if (status == 1) {
             if (selection == 0) {
                 beauty = 0;
-                cm.sendSimple("Which coupon would you like to buy?\r\n#L0#Haircut for " + hairprice + " mesos: #i5150009##t5150009##l\r\n#L1#Dye your hair for " + haircolorprice + " mesos: #i5151009##t5151009##l");
+                cm.sendSimple(" 金币: #i5150009##t5150009##l\r\n#L1#染发券，价格 " + hairprice + " 金币: #i5151009##t5151009##l " + haircolorprice + "我可以完全改变你的发型，让你看起来非常棒。要不要换个新发型呢？如果你有#b#t5150009##k，我来帮你更换。选择你喜欢的发型吧～");
             } else if (selection == 1) {
                 beauty = 1;
                 hairnew = Array();
@@ -68,7 +68,7 @@ function action(mode, type, selection) {
                             % 10));
                     }
                 }
-                cm.sendStyle("I can totally change up your hairstyle and make it look so good. Why don't you change it up a bit? If you have #b#t5150009##k I'll change it for you. Choose the one to your liking~.", hairnew);
+                cm.sendStyle("我可以完全改变你的发色，让你看起来非常棒。要不要换个新发色呢？有了#b#t51051009##k，我来帮你更换。选择你喜欢的颜色吧。", hairnew);
             } else if (selection == 2) {
                 beauty = 2;
                 haircolor = Array();
@@ -77,7 +77,7 @@ function action(mode, type, selection) {
                 for(var i = 0; i < 8; i++) {
                     haircolor.push(current + i);
                 }
-                cm.sendStyle("I can totally change your haircolor and make it look so good. Why don't you change it up a bit? With #b#t51051009##k I'll change it for you. Choose the one to your liking.", haircolor);
+                cm.sendStyle("享受你的全新发型吧！", haircolor);
             }
         }
         else if (status == 2){
@@ -86,31 +86,31 @@ function action(mode, type, selection) {
                 if (cm.haveItem(5150009)){
                     cm.gainItem(5150009, -1);
                     cm.setHair(hairnew[selection]);
-                    cm.sendOk("Enjoy your new and improved hairstyle!");
+                    cm.sendOk("嗯...看来你没有我们指定的优惠券...没有优惠券的话恐怕没办法给你剪发。抱歉...");
                 } else {
-                    cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't give you a haircut without it. I'm sorry...");
+                    cm.sendOk("享受你的全新发色吧！");
                 }
             }
             if (beauty == 2){
                 if (cm.haveItem(5151009)){
                     cm.gainItem(5151009, -1);
                     cm.setHair(haircolor[selection]);
-                    cm.sendOk("Enjoy your new and improved haircolor!");
+                    cm.sendOk("嗯...看来你没有我们指定的优惠券...没有优惠券的话恐怕没办法给你染发。抱歉...");
                 } else {
-                    cm.sendOk("Hmmm...it looks like you don't have our designated coupon...I'm afraid I can't dye your hair without it. I'm sorry...");
+                    cm.sendOk("请慢用！");
                 }
             }
             if (beauty == 0){
                 if (selection == 0 && cm.getMeso() >= hairprice) {
                     cm.gainMeso(-hairprice);
                     cm.gainItem(5150009, 1);
-                    cm.sendOk("Enjoy!");
+                    cm.sendOk("你的金币不够购买优惠券！");
                 } else if (selection == 1 && cm.getMeso() >= haircolorprice) {
                     cm.gainMeso(-haircolorprice);
                     cm.gainItem(5151009, 1);
-                    cm.sendOk("Enjoy!");
+                    cm.sendOk("你的金币不够购买优惠券！");
                 } else {
-                    cm.sendOk("You don't have enough mesos to buy a coupon!");
+                    cm.sendOk("你的金币不够购买优惠券！");
                 }
             }
         }

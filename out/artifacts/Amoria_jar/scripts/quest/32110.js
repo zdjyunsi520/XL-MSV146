@@ -11,21 +11,21 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Isn't this place amazing, #h #. Let's have a look around.");
+		qm.sendNext("这地方真不错，#h #。让我们四处看看吧。");
     } else if (status == 1) {	   
-        qm.sendNextPrevS("What should we do first?",6);	 
+        qm.sendNextPrevS("我们先做什么好呢？",6);	 
     } else if (status == 2) {
-        qm.sendNextPrevS("You know what kids love the most? Secrets! I remember trading potion recipes with my friends behind the teacher's backs, hiding away my alchemy research in the nooks around school...",4);	
+        qm.sendNextPrevS("你知道孩子们最喜欢什么吗？秘密！我记得以前背着老师和朋友交换药水配方，把我的炼金术研究藏在学校各处的角落里……",4);	
 	} else if (status == 3) {	
-        qm.sendNextPrev("I bet these kids have hidden notes all around the school. But how would we find them?");	
+        qm.sendNextPrev("我敢打赌这些孩子们在学校各处都藏了纸条。但我们怎么找到呢？");	
 	} else if (status == 4) {
-	    qm.sendNextPrevS("#bThey must be nearby, we should look around.",6);	
+	    qm.sendNextPrevS("#b它们一定在附近，我们应该四处找找。",6);	
 	} else if (status == 5) {
-	    qm.sendNextPrev("Yeah, we'll find them if we search hard! I just now it.");	
+	    qm.sendNextPrev("对，只要仔细找就一定能找到！我就知道。");	
 	} else if (status == 6) {
-	    qm.sendAcceptDecline("I bet those #r#o3501004##k things got some of the notes... I saw you fighting a moment ago, and you were relatively good at it. Maybe you can get one or two of those #bSchoolboys' Note#k notes back?");	
+	    qm.sendAcceptDecline("我打赌那些#r#o3501004##k家伙手里有一些纸条……刚才我看到你在战斗，你打得还算不错。也许你能从它们那里弄回一两张#b男学生的纸条#k？");	
 	} else if (status == 7) { 
-	    qm.sendNext("Not all of these notes are going to be useful, but you'll have to read every single one to find the clues!\r\n\r\n(Defeat #r#o3501004##k monsters, gather #bSchoolboys' Note#k notes, and read them to find clues.) ");	
+	    qm.sendNext("并非所有纸条都有用，但每一张你都得仔细阅读才能找到线索！\r\n\r\n（击败#r#o3501004##k怪物，收集#b男学生的纸条#k，阅读它们以寻找线索。） ");	
 	} else if (status == 8) {
 		qm.forceStartQuest();
 		qm.forceCompleteQuest();

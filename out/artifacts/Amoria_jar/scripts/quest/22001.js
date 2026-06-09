@@ -7,23 +7,23 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendNext("Stop being lazy. Do you want to see your brother bitten by a dog? Hurry up! Talk to me again and accept the quest!");
+			qm.sendNext("别偷懒了。你想看你哥哥被狗咬吗？快点！再和我对话接受任务！");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendNext("Haha. I had a good laugh. Hahaha. But enough with that nonsense. Feed #p1013102#, would you?");
+		qm.sendNext("哈哈。我笑了个痛快。哈哈哈。但废话少说，喂一下#p1013102#好吗？");
 	else if (status == 1)
-		qm.PlayerToNpc("#bWhat? That's Utah's job!#k");
+		qm.PlayerToNpc("#b什么？那是乌塔的活！#k");
 	else if (status == 2)
-		qm.sendAcceptDecline("You little brat! I told you to call me Older Brother! You know how much #p1013102# hates me. He'll bite me if I go near him. You feed him. He likes you.");
+		qm.sendAcceptDecline("你这个小鬼！我告诉过你要叫我哥哥！你知道#p1013102#有多讨厌我。如果我靠近它，它就咬我。你去喂它。它喜欢你。");
 	else if (status == 3){
 		qm.gainItem(4032447,1);
-		qm.sendNext("Hurry up and head #bleft#k to feed #b#p1013102##k. He's been barking to be fed all morning.");
+		qm.sendNext("快往#b左边#k去喂#b#p1013102##k。它整个早上都在叫着要吃东西。");
 		qm.forceStartQuest();
    }else if (status == 4){
-		qm.sendPrev("Feed #p1013102# and come back to see me.");
+		qm.sendPrev("喂完#p1013102#后回来见我。");
 		qm.dispose();
 	}
 }
@@ -39,14 +39,14 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendNext("#b(You place food in Bulldog's bowl.)#k");
+		qm.sendNext("#b(你把食物放进斗牛犬的碗里。)#k");
 	if (status == 1)
-		qm.sendOk("#b(Bulldog is totally sweet. Utah is just a coward.)#k\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 35 exp");
+		qm.sendOk("#b(斗牛犬真的很温顺。乌塔只是个胆小鬼。)#k\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 35 经验");
 	if (status == 2){
 		qm.forceCompleteQuest();
 		qm.gainItem(4032447, -1);
 		qm.gainExp(35);
-		qm.sendOk("#b(Looks like Bulldog has finished eating. Return to Utah and let him know.)#k");
+		qm.sendOk("#b(看起来斗牛犬已经吃完了。回去告诉乌塔。)#k");
 		qm.dispose();
 		}
 	}

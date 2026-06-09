@@ -17,7 +17,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status == 0 && mode == 0) {
-	cm.sendNext("#b(I didn't touch this hidden item covered in grass)");
+	cm.sendNext("#b（这是什么……好恶心……里面有宠物的便便！）");
 	cm.dispose();
 	return;
     }
@@ -28,17 +28,17 @@ function action(mode, type, selection) {
     if (status == 0) {
 	if (cm.getQuestStatus(4646) == 1) {
 	    if (cm.haveItem(4031921)) {
-		cm.sendNext("#b(What's this... eww... a pet's poop was in there!)");
+		cm.sendNext("#b（我看到有东西被草盖住了。要把它拔出来吗？）");
 		cm.dispose();
 	    } else {
-		cm.sendYesNo("#b(I can see something covered in grass. Should I pull it out?)");
+		cm.sendYesNo("#b（我什么也没找到。）");
 	    }
 	} else {
-	    cm.sendOk("#b(I couldn't find anything.)");
+	    cm.sendOk("我找到了宠物训练师巴托斯藏起来的物品……这张纸条。");
 	    cm.dispose();
 	}
     } else if (status == 1) {
-	cm.sendNext("I found the item that Pet Trainer Bartos hid... this note.");
+	cm.sendNext("我找到了宠物训练师巴托斯藏起来的物品……这张纸条。");
 	cm.gainItem(4031921, 1);
 	cm.dispose();
     }

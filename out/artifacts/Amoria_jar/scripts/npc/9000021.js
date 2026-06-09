@@ -6,10 +6,10 @@ var itemprice;
 function start() {
     status = -1;
     loadMounts(cm.getJob());
-    if (mounts != null)  && (cm.getPlayer().getLevel() >= 70){
+    if (mounts != null&&cm.getPlayer().getLevel() >= 70){
         sendMountSelection();
     } else {
-        cm.sendNext("Hi there! My name is gaga. Come back to me when you are level 70 and you want to learn more about mounts.");
+        cm.sendNext("你好！我的名字叫嘎嘎。等你到70级想了解更多关于骑宠的事情时，回来找我吧。");
     }
 }
 
@@ -71,8 +71,8 @@ function loadMounts(job) {
     }
 }
 
-function sendMountSelection() 
-    var selStr = "Hello! I'm Gaga I can sell you Mounts along with teaching you Monster Rider! It seems that you are eligible for the following:\r\n";
+function sendMountSelection() {
+    var selStr = "你好！我是嘎嘎，我可以卖给你骑宠并教你骑宠技能！看来你有资格获得以下内容：\r\n";
     for (var i = 0; i < mounts.length; i++) {
         if (mounts[i][1] == 0) {
             selStr += "#L" + i + "##s" + mounts[i][0] + "##q" + mounts[i][0] + "##l\r\n";
@@ -85,20 +85,20 @@ function sendMountSelection()
 
 function sendPrice(mount) {
     if (hasMount(mount[0])) {
-        cm.sendOk("You already have this mount.");
+        cm.sendOk("你已经拥有这个骑宠了。");
         cm.dispose();
         return;
     }
-    var selStr = "Are you sure you want this mount? You will need the following...\r\n\r\n#r";
+    var selStr = "你确定要这个骑宠吗？你需要以下条件...\r\n\r\n#r";
     if (getItemPrice(mount[0]) != 0) {
         if (getItemPrice(mount[0])[1] == 0) {
-            selStr += "#s" + getItemPrice(mount[0])[0] + "# skill obtained\r\n";
+            selStr += "#s" + getItemPrice(mount[0])[0] + "# 技能已获得\r\n";
         } else {
             selStr += "#i" + getItemPrice(mount[0])[0] + "# x1\r\n";
             selStr += "#i" + getItemPrice(mount[0])[1] + "# x1\r\n";
         }
     }
-    selStr += "" + getPrice(mount) + " mesos\r\n";
+    selStr += "" + getPrice(mount) + " 枫币\r\n";
     cm.sendYesNo(selStr);
 }
 
@@ -136,6 +136,6 @@ function giveMount(mount) {
         cm.gainItem(mount[0], 1);
         cm.gainItem(mount[1], 1);
     }
-    cm.sendOk("That was easy, wasn't it?");
+    cm.sendOk("很简单，对吧？");
     cm.dispose();
 }

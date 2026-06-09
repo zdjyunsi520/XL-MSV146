@@ -17,11 +17,11 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("What do you want to do?\n\r #b#L0#Enter the Fishing Lagoon#l \n\r #L2#Return to old map#l");
+	cm.sendSimple("你想选择哪个？\r\n#b#L0#宇宙#l\r\n#L1#幻想#l\r\n#L2#仙境#l#k");
     } else if (status == 1) {
 	sel = selection;
 	if (sel == 0) {
-	    cm.sendSimple("Which one?\r\n#b#L0#Universe#l\r\n#L1#Fantasy#l\r\n#L2#Fairy#l#k");
+	    cm.sendSimple("你想选择哪个？\r\n#b#L0#宇宙#l\r\n#L1#幻想#l\r\n#L2#仙境#l#k");
 	} else if (sel == 2) {
 	    var returnMap = cm.getSavedLocation("FISHING");
 	    if (returnMap < 0 || cm.getMap(returnMap) == null) {

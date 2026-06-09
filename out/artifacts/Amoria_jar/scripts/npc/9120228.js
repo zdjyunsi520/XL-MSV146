@@ -15,13 +15,13 @@ function action(mode, type, selection) {
 	    }
 	    var time = parseInt(marr.getCustomData());
 	    if (time + (10 * 60000) > cm.getCurrentTime()) { //10 mins lewl
-		cm.sendOk("You can enter in " + (((time + (30 * 60000) - cm.getCurrentTime()) / 60000) | 0) + " min.");
+		cm.sendOk(" 分钟后进入。 " + (((time + (30 * 60000) - cm.getCurrentTime()) / 60000) | 0) + "请稍后再试，目前有其他玩家正在挑战首领。");
 	    } else if (cm.getMap(toMap).getCharactersThreadsafe().size() == 0 && (cm.getMap(toMap + 1) == null || cm.getMap(toMap + 1).getCharactersThreadsafe().size() == 0)) {
 		cm.getMap(toMap).resetFully();
 		cm.warp(toMap, 0);
 		marr.setCustomData(cm.getCurrentTime() + "");
 	    } else {
-		cm.sendOk("Please try again later, there exists some characters fighting the boss.");
+		cm.sendOk("请稍后再试，目前有其他玩家正在挑战首领。");
 	    }
 	    cm.dispose();
 	    return;

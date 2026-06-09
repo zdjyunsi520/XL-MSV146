@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	cm.sendYesNo("Do you want to enter the Wedding Hall?");
+	cm.sendYesNo("出了点问题：你还没有和任何人订婚。");
     } else if (status == 1) {
 
 	    var marr = cm.getQuestRecord(160001);
@@ -25,20 +25,20 @@ function action(mode, type, selection) {
 	    }
 	    if (data.equals("1")) {
 		if (cm.getPlayer().getMarriageId() <= 0) {
-		    cm.sendOk("Something wrong has happened: you aren't engaged with anybody.");
+		    cm.sendOk("请确保你的伴侣在同一个地图上。");
 		    cm.dispose();
 		    return;
 		}
 	    	var chr = cm.getMap().getCharacterById(cm.getPlayer().getMarriageId());
 	    	if (chr == null) {
-		    cm.sendOk("Make sure your partner is in the map.");
+		    cm.sendOk("已经有人正在举办婚礼，请稍后再来。");
 		    cm.dispose();
 		    return;
 	    	}
 		var maps = Array(680000110, 680000300, 680000401);
 		for (var i = 0; i < maps.length; i++) {
 		    if (cm.getMap(maps[i]).getCharactersSize() > 0) {
-			cm.sendNext("Someone is already having a wedding, please come later.");
+			cm.sendNext("<频道");
 			cm.dispose();
 			return;
 		    }
@@ -46,17 +46,17 @@ function action(mode, type, selection) {
 		var map = cm.getMap(680000110);
 		cm.getPlayer().changeMap(map, map.getPortal(0));
 		chr.changeMap(map, map.getPortal(0));
-		cm.worldMessage(5, "<Channel " + cm.getClient().getChannel() + "> " + cm.getPlayer().getName() + " and " + chr.getName() + "'s wedding is about to be started.");
+		cm.worldMessage(5, " 和 " + cm.getClient().getChannel() + "> " + cm.getPlayer().getName() + "的婚礼即将开始。 " + chr.getName() + "目前没有人正在举办婚礼，请稍后再来。");
 	    } else {
 		if (cm.getMap(680000110).getCharactersSize() == 0) {
-		    cm.sendNext("No one is already having a wedding, please come later.");
+		    cm.sendNext("你没有婚礼邀请函。");
 		    cm.dispose();
 		    return;
 		}
 		if (cm.haveItem(4150000)) {
 		    cm.warp(680000110,0);
 		} else {
-		    cm.sendOk("You do not have a wedding invitation.");
+		    cm.sendOk("你没有婚礼邀请函。");
 		}
 	    }
 	cm.dispose();

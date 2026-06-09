@@ -3,7 +3,7 @@ random=Math.floor(Math.random() * prizes.length++);
 var gayrobby=0;  
 
 function start() {
-    cm.sendYesNo("Would you like to spend 200 of your #r" + cm.getPlayer().getPoints() +"#k donorpoints for an awesome scroll?");
+    cm.sendYesNo("#k捐赠积分中的200来获得一张超棒卷轴吗？" + cm.getPlayer().getPoints() +"等你至少有200捐赠积分再来吧。");
 }
 
 function action(m,t,s){
@@ -18,7 +18,7 @@ function action(m,t,s){
             cm.gainItem(prizes[random],1);
             cm.getPlayer().setPoints(cm.getPlayer().getPoints() - 200);  // if you changed the above ID, make sure you change this one too
         }else{
-            cm.sendOk("Come back when you have at least 200 donor points.");
+            cm.sendOk("等你至少有200捐赠积分再来吧。");
             cm.dispose();
         }
     }

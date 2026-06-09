@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.playerMessage("Portal is not available.");
+    pi.playerMessage("传送门不可用。");
 }

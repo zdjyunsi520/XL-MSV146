@@ -4,7 +4,7 @@ var destinyweapons;
 function start() {
     destinyweapons = cm.getPlayer().getDestinyWeapons();
     a = 0;
-    cm.sendSimple("Hello, what may I do for you?\r\n#L0#Tell me about the #bDestiny Weapons#k.#l");
+    cm.sendSimple("#b命运武器#k是一种普通武器，会随着你的等级提升而增强。\r\n\r\n它们的新属性是未知的，可能在升级时获得之前没有的属性。这些属性也会随着你的等级提升而增强。\r\n\r\n#b属性增强上限#k：\r\n#gHP和MP#k：等级低于150时为500，否则为1000。\r\n#g速度和跳跃#k：等级低于150时为20，否则为40。\r\n#g攻击力和魔力#k：等级低于150时为150，否则为200。\r\n#g其他属性#k：等级低于150时为100，否则为150。\r\n\r\n你只能持有一把#b命运武器#k，且#r副手命运武器#k尚未被发现。\r\n\r\n只有一种方法可以判断一把武器是否为#b命运武器#k。\r\n#L0#我怎么知道我的武器是不是#b命运武器#k？#l\r\n");
 }
 
 function action(m, t, s) {
@@ -15,23 +15,23 @@ function action(m, t, s) {
     a++;
     switch (a) {
         case 1:
-            cm.sendSimple("The #bDestiny Weapons#k are regular weapons, which enhances as you level.\r\n\r\nTheir new stats are never known, and they may obtain stats which they do not have upon leveling. These stats will be enhanced as you level aswell. \r\n\r\n#bStat Enhancements Maximum#k:\r\n#gHp & Mp#k: If level is lower than 150, then 500 else, 1000.\r\n#gSpeed & Jump#k: If level is lower than 150, then 20 else, 40.\r\n#gAttack & Magic#k: If level is lower than 150, then 150 else, 200.\r\n#gOther Stats#k: If level is lower than 150, then 100 else, 150.\r\n\r\nYou may only hold one #bDestiny Weapon#k, and #rSecondary Destiny Weapons#k are not found yet.\r\n\r\nThere is only one way to know if a weapon is a #bDestiny Weapon#k.\r\n#L0#How do I know if my weapon is a #bDestiny Weapon#k?#l\r\n");
+            cm.sendSimple("有一份未完成的#b命运武器#k清单正在持续更新中。\r\n然而，这些武器看起来和普通武器一样。#b命运武器#k上会刻有制造者的名字，而只有一个能够锻造它们的人，那就是传说中的#r暗影骑士#k。\r\n#L0#我可以看看清单吗？#l");
             break;
         case 2:
-            cm.sendSimple("There is an uncompleted list of #bDestiny Weapons#k which is being updated.\r\nHowever, the weapons look like regular weapons. The #bDestiny Weapons#k will have their crafter's name signed on it, and there is only one person who can craft them, which is the legendary #rShadow Knight#k.\r\n#L0#May I see the list?#l");
+            cm.sendSimple("当然可以，");
             break;
         case 3:
-            var list = "Yes of course,";
+            var list = "\r\n#L0#我怎样才能获得#b命运武器#k？";
             for (var i = 0; i < destinyweapons.length; i++)
                 list += "\r\n#v" + destinyweapons[i] + "##t" + destinyweapons[i] + "#"
-            list += "\r\n#L0#How can I obtain the #bDestiny Weapons#k?";
+            list += "由于这些武器非常独特，获得它们的唯一途径是从唯一知道如何锻造它们的卖家——#r暗影骑士#k那里购买。\r\n他可以在#r自由市场#k找到，因为那是最好的交易场所。\r\n暗影骑士被发现与#r黑魔法师#k有一些可疑的活动，有人看到他与黑翼组织交易#i4251202#以获取锻造#b命运武器#k的材料...\r\n#L0#他接受什么作为报酬？#l";
             cm.sendSimple(list);
             break;
         case 4:
-            cm.sendSimple("Since these weapons are very unique, the only way to obtain them is to purchase them from the only seller who knows to craft them, #rThe Shadow Knight#k.\r\nHe can be found at the #rFree Market#k, since it is the best place to trade.\r\nThe Shadow Knight had been found to have some suspicious activities related to the #rBlack Mage#k, he was found trading #i4251202# with the Black Wings for some materials to craft the #bDestiny Weapons#k...\r\n#L0#What is the payment he accepts?#l");
+            cm.sendSimple("他出售这些武器，收取的是一些被怪物持有的古老硬币。你应该亲自去看看他！\r\n#L0#好的，谢谢你的帮助。#l");
             break;
         case 5:
-            cm.sendSimple("He sells them for some old coins which was found to be hold by monsters. You shall go and see him yourself!\r\n#L0#Alright, thanks for you help.#l");
+            cm.sendSimple("他出售这些武器，收取的是一些被怪物持有的古老硬币。你应该亲自去看看他！\r\n#L0#好的，谢谢你的帮助。#l");
             cm.dispose();
             break;
         default:

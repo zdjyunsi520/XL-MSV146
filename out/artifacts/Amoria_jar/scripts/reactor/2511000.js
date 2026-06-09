@@ -31,5 +31,5 @@ function act() {
     eim.setProperty("openedBoxes", nextNum);
     rm.spawnMonster(9300109, 3);
     rm.spawnMonster(9300110, 5);
-    rm.mapMessage(5, "Some monsters are summoned.");
+    rm.mapMessage(5, "一些怪物被召唤出来了。");
 }

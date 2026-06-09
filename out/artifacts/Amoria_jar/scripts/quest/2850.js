@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendYesNo("If you want to survive in Kerning City, you need to get stronger. Perhaps If you can complete my training, you'll stand a chance...");
+		qm.sendYesNo("如果你想在废弃都市生存下去，你需要变得更强。也许如果你能完成我的训练，你就有机会了……");
     } else if (status == 1) {	   
-        qm.sendYesNo("The training is simple enough. #bJust eliminate the Octopuses in the Thieves' Hideout. Shall we begin#k?");
+        qm.sendYesNo("训练很简单。#b只需消灭盗贼巢穴里的章鱼。我们开始吧#k？");
     } else if (status == 2) {	
 		qm.warp(910310100,0);
 		qm.forceStartQuest();
@@ -31,9 +31,9 @@ function end(mode, type, selection) {
         status++; 
     } 
     if (status == 0) {
-	    qm.sendNext("Eliminate all the Octopuses here. Even you should be able to handle this...");
+	    qm.sendNext("消灭这里所有的章鱼。连你也应该能应付……");
     } else if (status == 1) {
-	    qm.sendOk("Nevermind, I killed them for ye.");
+	    qm.sendOk("没关系，我帮你杀了。");
 	} else if (status == 2) {	
 		qm.warp(103000003);
 		qm.gainExp(1242);

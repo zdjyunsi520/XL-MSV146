@@ -25,8 +25,8 @@ function action(mode, type, selection) {
 	cm.dispose();
     }
     if (status == 0 && mode == 1) {
-	var selStr = "Hm? Who might you be? Oh, you've heard about my forging skills? In that case, I'd be glad to process some of your ores... for a fee.#b"
-	var options = new Array("Refine a mineral ore","Refine a jewel ore","Upgrade a helmet","Upgrade a shield");
+	var selStr = "嗯？你是谁？哦，你听说过我的锻造技术？那么，我很乐意为你加工一些矿石……当然要收费。#b"
+	var options = new Array("精炼矿物矿石","精炼宝石矿石","升级头盔","升级盾牌");
 	for (var i = 0; i < options.length; i++){
 	    selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 	}
@@ -36,7 +36,7 @@ function action(mode, type, selection) {
     else if (status == 1 && mode == 1) {
 	selectedType = selection;
 	if (selectedType == 0){ //mineral refine
-	    var selStr = "So, what kind of mineral ore would you like to refine?#b";
+	    var selStr = "那么，你想精炼哪种矿物矿石？#b";
 	    var minerals = new Array ("Bronze","Steel","Mithril","Adamantium","Silver","Orihalcon","Gold");
 	    for (var i = 0; i < minerals.length; i++){
 		selStr += "\r\n#L" + i + "# " + minerals[i] + "#l";
@@ -45,8 +45,8 @@ function action(mode, type, selection) {
 	    equip = false;
 	}
 	else if (selectedType == 1){ //jewel refine
-	    var selStr = "So, what kind of jewel ore would you like to refine?#b";
-	    var jewels = new Array ("Garnet","Amethyst","Aquamarine","Emerald","Opal","Sapphire","Topaz","Diamond","Black Crystal");
+	    var selStr = "那么，你想精炼哪种宝石矿石？#b";
+	    var jewels = new Array ("Garnet","Amethyst","Aquamarine","Emerald","Opal","Sapphire","Topaz","Diamond","黑水晶");
 	    for (var i = 0; i < jewels.length; i++){
 		selStr += "\r\n#L" + i + "# " + jewels[i] + "#l";
 	    }
@@ -54,11 +54,11 @@ function action(mode, type, selection) {
 	    equip = false;
 	}
 	else if (selectedType == 2){ //helmet refine
-	    var selStr = "Ah, you wish to upgrade a helmet? Then tell me, which one?#b";
-	    var helmets = new Array ("Blue Metal Gear#k - Common Lv. 15#b","Yellow Metal Gear#k - Common Lv. 15#b","Metal Koif#k - Warrior Lv. 10#b","Mithril Koif#k - Warrior Lv. 10#b","Steel Helmet#k - Warrior Lv. 12#b","Mithril Helmet#k - Warrior Lv. 12#b","Steel Full Helm#k - Warrior Lv. 15#b",
-		"Mithril Full Helm#k - Warrior Lv. 15#b","Iron Viking Helm#k - Warrior Lv. 20#b","Mithril Viking Helm#k - Warrior Lv. 20#b","Steel Football Helmet#k - Warrior Lv. 20#b","Mithrill Football Helmet#k - Warrior Lv. 20#b","Mithril Sharp Helm#k - Warrior Lv. 22#b","Gold Sharp Helm#k - Warrior Lv. 22#b",
-		"Orihalcon Burgernet Helm#k - Warrior Lv. 25#b","Gold Burgernet Helm#k - Warrior Lv. 25#b","Great Red Helmet#k - Warrior Lv. 35#b","Great Blue Helmet#k - Warrior Lv. 35#b","Mithril Nordic Helm#k - Warrior Lv. 40#b","Gold Nordic Helm#k - Warrior Lv. 40#b","Mithril Crusader Helm#k - Warrior Lv. 50#b",
-		"Silver Crusader Helm#k - Warrior Lv. 50#b","Old Steel Nordic Helm#k - Warrior Lv. 55#b","Old Mithril Nordic Helm#k - Warrior Lv. 55#b");
+	    var selStr = "啊，你想升级头盔？告诉我，哪一个？#b";
+	    var helmets = new Array ("蓝色金属头巾#k - 通用 Lv. 15#b","黄色金属头巾#k - 通用 Lv. 15#b","金属盔帽#k - 战士 Lv. 10#b","秘银盔帽#k - 战士 Lv. 10#b","钢铁头盔#k - 战士 Lv. 12#b","秘银头盔#k - 战士 Lv. 12#b","钢铁全盔#k - 战士 Lv. 15#b",
+		"秘银全盔#k - 战士 Lv. 15#b","铁质维京头盔#k - 战士 Lv. 20#b","秘银维京头盔#k - 战士 Lv. 20#b","钢铁橄榄头盔#k - 战士 Lv. 20#b","秘银橄榄头盔#k - 战士 Lv. 20#b","秘银尖盔#k - 战士 Lv. 22#b","黄金尖盔#k - 战士 Lv. 22#b",
+		"奥利哈康钢盔#k - 战士 Lv. 25#b","黄金钢盔#k - 战士 Lv. 25#b","大红色头盔#k - 战士 Lv. 35#b","大蓝色头盔#k - 战士 Lv. 35#b","秘银北欧头盔#k - 战士 Lv. 40#b","黄金北欧头盔#k - 战士 Lv. 40#b","秘银十字军头盔#k - 战士 Lv. 50#b",
+		"银色十字军头盔#k - 战士 Lv. 50#b","旧钢铁北欧头盔#k - 战士 Lv. 55#b","旧秘银北欧头盔#k - 战士 Lv. 55#b");
 	    for (var i = 0; i < helmets.length; i++){
 		selStr += "\r\n#L" + i + "# " + helmets[i] + "#l";
 	    }
@@ -66,8 +66,8 @@ function action(mode, type, selection) {
 	    equip = true;
 	}
 	else if (selectedType == 3){ //shield refine
-	    var selStr = "Ah, you wish to upgrade a shield? Then tell me, which one?#b";
-	    var shields = new Array ("Adamantium Tower Shield#k - Warrior Lv. 40#b","Mithril Tower Shield#k - Warrior Lv. 40#b","Silver Legend Shield#k - Warrior Lv. 60#b","Adamantium Legend Shield#k - Warrior Lv. 60#b");
+	    var selStr = "啊，你想升级盾牌？告诉我，哪一个？#b";
+	    var shields = new Array ("精金塔盾#k - 战士 Lv. 40#b","秘银塔盾#k - 战士 Lv. 40#b","银色传说之盾#k - 战士 Lv. 60#b","精金传说之盾#k - 战士 Lv. 60#b");
 	    for (var i = 0; i < shields.length; i++){
 		selStr += "\r\n#L" + i + "# " + shields[i] + "#l";
 	    }
@@ -100,7 +100,7 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "So, you want me to make some #t" + item + "#s? In that case, how many do you want me to make?";
+	var prompt = "所以，你想让我制作一些#t" + item + "#？那你想让我制作多少个呢？";
 		
 	cm.sendGetNumber(prompt,1,1,100)
     }
@@ -137,13 +137,13 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "You want me to make ";
+	var prompt = "你想让我制作 ";
 	if (qty == 1)
 	    prompt += "a #t" + item + "#?";
 	else
 	    prompt += qty + " #t" + item + "#?";
 			
-	prompt += " In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
+	prompt += " 那我需要你提供一些特定的材料。不过请确保你的背包有空间！#b";
 		
 	if (mats instanceof Array){
 	    for(var i = 0; i < mats.length; i++){
@@ -155,14 +155,14 @@ function action(mode, type, selection) {
 	}
 		
 	if (cost > 0)
-	    prompt += "\r\n#i4031138# " + cost * qty + " meso";
+	    prompt += "\r\n#i4031138# " + cost * qty + " 金币";
 		
 	cm.sendYesNo(prompt);
     } else if (status == 4 && mode == 1) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost * qty) {
-	    cm.sendOk("I'm afraid you cannot afford my services.");
+	    cm.sendOk("恐怕你付不起我的服务费。");
 	    cm.safeDispose();
 	} else {
 	    if (mats instanceof Array) {
@@ -181,7 +181,7 @@ function action(mode, type, selection) {
 	    }
 
 	    if (!complete)
-		cm.sendOk("I'm afraid you're missing something for the item you want. See you another time, yes?");
+		cm.sendOk("恐怕你缺少了制作所需物品的材料。下次再见吧，好吗？");
 	    else {
 		if (mats instanceof Array) {
 		    for (var i = 0; i < mats.length; i++){
@@ -193,7 +193,7 @@ function action(mode, type, selection) {
 
 		cm.gainMeso(-cost * qty);
 		cm.gainItem(item,qty);
-		cm.sendOk("There, finished. What do you think, a piece of art, isn't it? Well, if you need anything else, you nkow where to find me.");
+		cm.sendOk("好了，完成了。你觉得怎么样，一件艺术品吧？如果你还需要什么，你知道去哪里找我。");
 	    }
 	    cm.safeDispose();
 	}

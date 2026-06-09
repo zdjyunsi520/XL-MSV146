@@ -10,10 +10,10 @@ function start(mode, type, selection) {
 		}
 	}
 	if (status == 0){
-		qm.sendSimple("Welcome to Red Leaf High, new kid! Stick around a while and I bet you'll build up lots of Friendships. Not sure how Friendship works? Lemme spill the beans!#b\r\n#L0# What's Friendship? #l\r\n#L1# View current Friendship level#l\r\n#L2# End Conversation #l");
+		qm.sendSimple("欢迎来到红叶高校，新来的！在这里待上一阵子，我打赌你会建立起很多友谊。不确定友谊怎么运作？让我来给你讲讲！#b\r\n#L0# 什么是友谊？ #l\r\n#L1# 查看当前友谊等级#l\r\n#L2# 结束对话 #l");
 	}else if (status == 1){
 		if(selection==0){
-			qm.sendOk("Attend Red Leaf High School to gain Friendship with the popular students and build up your reputation as the toughest kid in class! Earning Friendship will also give you access to the Four Pillars of Heaven Cash Shop, where you can purchase Totems with mesos! Remember, you'll need Friendship if you want to unlock the good stuff! ");
+			qm.sendOk("进入红叶高中与受欢迎的学生建立友谊，提升你作为班上最强硬汉的声望！获得友谊还会让你进入四柱天之现金商店，在那里你可以用金币购买图腾！记住，你需要友谊才能解锁好东西！ ");
 			qm.dispose();
 		}
 		if(selection==1){

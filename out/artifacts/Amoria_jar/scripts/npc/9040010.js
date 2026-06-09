@@ -27,7 +27,7 @@ function action(mode, type, selection) {
 		}
 		eim.finishPQ();
 	    } else {
-		cm.sendOk("This is your final challenge. Defeat the evil lurking within the Rubian and return it to me. That is all.");
+		cm.sendOk("这是你最后的挑战。消灭隐藏在红宝石中的邪恶力量，将它带回给我。就这些。");
 	    }
 	}
     } else {

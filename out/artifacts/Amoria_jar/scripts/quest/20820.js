@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Welcome to Ereve! This is the safest and most peaceful place in all of Maple World. Empress Cygnus keeps it nice all the time!   You're#b #h ##k, right? Here to joint the #p1064023# Knights. I'm your guide, #p1102004#. All the Noblesses in town come to me first!");
+		qm.sendNext("欢迎来到埃雷布！这是整个枫之谷世界最安全、最和平的地方。女皇一直把它保持得很好！你是#b #h ##k，对吧？来加入#p1064023#骑士团的。我是你的向导#p1102004#。镇上所有的初心者都先来找我！");
 	} else if (status == 1) {
-      qm.sendNextPrev("You need to get over to the Knight's Orientation right away. They're getting started already. Follow me, okay?.");
+      qm.sendNextPrev("你赶紧去骑士迎新会吧。他们已经开始了。跟我来，好吗？。");
     } else if (status == 2) {	    
 		qm.warp(130030100);
 		qm.forceStartQuest();

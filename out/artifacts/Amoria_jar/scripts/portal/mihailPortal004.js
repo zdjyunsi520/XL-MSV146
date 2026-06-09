@@ -7,6 +7,6 @@ function enter(pi) {
             return false;
         }
     if (blocked)
-        pi.getPlayer().dropMessage(5, "Someone is already in this map.");
+        pi.getPlayer().dropMessage(5, "已经有人在这个地图里了。");
     return true;
 }

@@ -40,11 +40,11 @@ function action(mode, type, selection) {
         if (status == 0) {
 		if (cm.getMapId() == 222020200) {
 			cm.TimeMoveMap(222020210, 222020100, 13);
-			cm.getPlayer().dropMessage(6, "Your next stop is Elios 2nd Floor!.");
+			cm.getPlayer().dropMessage(6, "下一站是埃利奥斯2楼！");
 			cm.dispose();
 		} else {
 			cm.TimeMoveMap(222020110, 222020200, 13);
-			cm.getPlayer().dropMessage(6, "You next stop is Helios 99th Floor, Ludibrium.");
+			cm.getPlayer().dropMessage(6, "下一站是玩具城赫利奥斯99楼。");
 			cm.dispose();
 		}
 	}

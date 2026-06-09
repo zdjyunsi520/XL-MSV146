@@ -6,10 +6,10 @@ var maxAmt = 6;
 
 function start() {
     if (cm.getParty() == null) {
-        cm.sendOk("If you want to Zakum, #bthe leader of your party must talk to me#k. Level range 100 ~ 200, 2+ person party.");
+        cm.sendOk("如果你想尝试这个任务，请让#b你队伍的队长#k来与我对话。");
         cm.dispose();
     } else if (!cm.isLeader()) {
-        cm.sendOk("If you want to try the quest, please tell the #bleader of your party#k to talk to me.");
+        cm.sendOk("你的队伍人数不足。你需要一个#b");
         cm.dispose();
     }else{
         var party = cm.getParty().getMembers();
@@ -20,10 +20,10 @@ function start() {
             lvlOk++;
         }
         if (inMap < minAmt || inMap > maxAmt) {
-            cm.sendOk("You don't have enough people in your party. You need a party of #b"+minAmt+"#k - #r"+maxAmt+"#k members and they must be in the map with you. There are #b"+inMap+"#k members here.");
+            cm.sendOk("#k人的队伍，且他们必须与你同一地图。目前有#b"+minAmt+"#k - #r"+maxAmt+"#k名成员在此。"+inMap+"你的队伍中有人等级不符合要求。所有人需要达到#b");
             cm.dispose();
         } else if (lvlOk != inMap) {
-            cm.sendOk("Someone in your party isn't the proper level. Everyone needs to be Lvl. #b"+minLvl+"#k - #r"+maxLvl+"#k.");
+            cm.sendOk("你的队伍中有人等级不符合要求。所有人需要达到#b"+minLvl+"#k - #r"+maxLvl+"#k.");
             cm.dispose();
         }else{
             cm.warpParty(map);

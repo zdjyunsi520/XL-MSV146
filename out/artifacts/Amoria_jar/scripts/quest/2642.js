@@ -14,7 +14,7 @@ function start(mode, type, selection) {
 	else
 	    status--;
         if (qm.getQuestStatus(2642)!=1 && qm.getQuestStatus(2642)!=2){
-            qm.sendOk("Head to Sleepywood and defeat 99 #o6230600# #FMob/6230600.img/stand/0#");
+            qm.sendOk("前往勇士部落深处并消灭99个#o6230600# #FMob/6230600.img/stand/0#");
             qm.forceStartQuest();
             qm.dispose();
             status=-2;

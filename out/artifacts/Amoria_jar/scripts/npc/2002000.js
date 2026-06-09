@@ -4,13 +4,13 @@ function action(mode, type, selection) {
     if (mode == 1) {
 	status++;
     } else {
-	cm.sendNext("Oh, you still want to look around the new Happy Ville? Yup! That's probably the best idea to take a break in a town like this from the normal life~");
+	cm.sendNext("哦，你还想在新快乐镇逛逛？没错！在这样一个小镇里从日常生活中偷个闲确实是个好主意~");
 	cm.safeDispose();
     }
   
     // cm.safeDispose();
     if (status == 0) {
-	cm.sendYesNo("Oh, you have finished your business here? Would you like to get back to #bFree Market#k? I can send you have to Free Market any time you want. Would you like to go back now?");
+	cm.sendYesNo("哦，你在这里的事情办完了？想回到#b自由市场#k吗？我可以随时把你送到自由市场。你现在就想回去吗？");
     } else if (status == 1) {
 	cm.warp(910000000);
 	cm.dispose();

@@ -8,6 +8,6 @@ function enter(pi) {
 				}
 				pi.playPortalSE();
         } else {
-                pi.playerMessage(5,"This portal is not available. Kill all monsters.");
+                pi.playerMessage(5,"此传送门不可用。请消灭所有怪物。");
         }
 }

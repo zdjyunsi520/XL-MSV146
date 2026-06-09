@@ -5,7 +5,7 @@ function start(mode, type, selection) {
 }
 function end(mode, type, selection) {
 	if (!qm.canHold(4310018, 35) || !qm.canHold(1112613,1)) {
-	    qm.sendOk("Please make some EQP/ETC space.");
+	    qm.sendOk("请腾出一些装备/其他物品栏空间。");
 	} else {
 	    qm.gainItem(4310018, 35);
 	    qm.gainItem(1112613, 1);

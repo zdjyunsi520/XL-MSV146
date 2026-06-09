@@ -4,9 +4,9 @@
 
 function start() {
     if (cm.haveItem(2430008)) {
-	cm.sendNext("The Gold Compass is now ready.");
+	cm.sendNext("黄金罗盘已经准备好了。");
     } else {
-	cm.sendNext("Check and see if you have all the materials ready to make the Gold Compass. Making one requires 1 blank compass, along with 20 letter N's, 20 letter E's, 20 letter W's, and 20 letter S's for the compass");
+	cm.sendNext("请确认你是否已准备好制作黄金罗盘的所有材料。制作一个需要1个空白罗盘，以及20个字母N、20个字母E、20个字母W和20个字母S。");
     }
 }
 

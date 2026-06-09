@@ -12,7 +12,7 @@ function action(mode, type, selection) {
         status--;
 	
     if (status == 0) {
-        cm.sendOk("I can make just about anything! Uncle Pio taught me his trade all troughout my childhood.");
+        cm.sendOk("我什么都能做！皮奥叔叔从小教了我他所有的手艺。");
         cm.dispose();
     }
 }

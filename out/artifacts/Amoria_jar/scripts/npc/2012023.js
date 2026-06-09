@@ -6,10 +6,10 @@ function action(mode, type, selection) {
 		if (cm.canHold(4031456)) {
 		    cm.gainItem(4031456, 1);
 		    cm.gainItem(4031476, -1);
-		    cm.sendOk("Maple leaves were absorbed into sparkling glass marble." );
+		    cm.sendOk("枫叶被吸收进了闪闪发光的玻璃弹珠中。" );
 		    cm.safeDispose();
 		} else {
-		    cm.sendOk("Maple Marble can...t be earned as there's no blank on Others window. Make a blank and try again." );
+		    cm.sendOk("无法获得枫之弹珠，因为其他物品栏没有空位。请腾出空位后再试。" );
 		    cm.safeDispose();
 		}
 	    } else {

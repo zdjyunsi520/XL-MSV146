@@ -10,12 +10,12 @@ function action(mode, type, selection) {
 	status--;
     }
     if (cm.getPlayer().getLevel() < 50) {
-	cm.sendOk("Leave now.. before you get hurt.");
+	cm.sendOk("快走吧……免得受伤。");
 	cm.dispose();
 	return;
     }
     if (status == 0) {
-	cm.sendYesNo("You appear strong. Would you like to head to the Balrog Temple?");
+	cm.sendYesNo("你看起来很强。你想前往巴洛格神殿吗？");
     } else if (status == 1) {
 	cm.warp(105100100);
 	cm.dispose();

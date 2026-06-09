@@ -2,7 +2,7 @@
 var status = 0;
 
 function start() {
-    cm.sendYesNo("Would you like to return to the Lobby?");
+    cm.sendYesNo("你想返回大厅吗？");
 }
 
 function action(mode, type, selection) {

@@ -25,10 +25,10 @@ function action(mode, type, selection) {
         }    
             
         if (status == 0) {   
-            cm.sendNext("I summon for #bChickenMS#l. I summon 10 monsters at a time for free.");  
+            cm.sendNext("请记住我会召唤10只。 \r\n请选择#b\r\n#L0#蜗牛#l\r\n#L1#火鸡\r\n#L2#公鸡#l\r\n#L3#白公鸡#l\r\n#L4#公鸡#l\r\n#L5#火鸡突击兵#l\r\n#L7#清除掉落物#l\r\n#L8#消灭所有怪物#l");  
         }  
         else if (status == 1) {  
-   cm.sendSimple("Please remember I will summon 10. \r\nPlease choose #b\r\n#L0#Snail#l\r\n#L1#Turkey\r\n#L2#Rooster#l\r\n#L3#White Roosterl\r\n#L4#Rooster#l\r\n#L5#Turkey Comonddo#l\r\n#L7#Clear Drops#l\r\n#L8#Kill All Monsters#l");
+   cm.sendSimple("请记住我会召唤10只。 \r\n请选择#b\r\n#L0#蜗牛#l\r\n#L1#火鸡\r\n#L2#公鸡#l\r\n#L3#白公鸡#l\r\n#L4#公鸡#l\r\n#L5#火鸡突击兵#l\r\n#L7#清除掉落物#l\r\n#L8#消灭所有怪物#l");
         } 
         else if (status == 2) {
         

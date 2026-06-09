@@ -36,11 +36,11 @@ function enter(pi) {
 	var avail = eim.getProperty("4stageclear");
 	if (avail == null) {
 		// do nothing; send message to player
-		pi.getClient().getSession().write(MaplePacketCreator.serverNotice(6, "This door is closed."));
+		pi.getClient().getSession().write(MaplePacketCreator.serverNotice(6, "这扇门已关闭。"));
 		return false;	}
 	else {
 		pi.getPlayer().changeMap(target, targetPortal);
-		pi.getClient().getSession().write(MaplePacketCreator.serverNotice(6, "RUN TO THE RIGHT FOR YOUR LIFE!!!"));
+		pi.getClient().getSession().write(MaplePacketCreator.serverNotice(6, "快向右跑！逃命啊！！！"));
 		return true;
 	}
 }

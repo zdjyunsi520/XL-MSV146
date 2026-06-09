@@ -17,27 +17,27 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendSimple("...#b\r\n#L0#What am I supposed to do here?#l\r\n#L1#I brought items!#l\r\n#L2#I want to get out!#l");
+	cm.sendSimple("……#b\r\n#L0#我在这里应该做什么？#l\r\n#L1#我带来物品了！#l\r\n#L2#我想出去！#l");
     } else if (status == 1) {
 	selectedType = selection;
 	if (selection == 0) {
-	    cm.sendNext("To reveal the power of Zakum, you'll have to recreate its core. Hidden somewhere in this dungeon is a \"Fire Ore\" which is one of the necessary materials for that core. Find it, and bring it to me.\r\n\r\nOh, and could you do me a favour? There's also a number of Paper Documents lying under rocks around here. If you can get 30 of them, I can reward you for your efforts.")
+	    cm.sendNext("要唤醒扎昆的力量，你必须重新制作它的核心。在这座地下城的某处隐藏着一块"火焰矿石"，那是制作核心所需的材料之一。找到它并带给我。\r\n\r\n哦，能帮我个忙吗？这里的岩石下面还有一些纸质文件。如果你能收集到30份，我可以给你一些奖励。")
 	    cm.safeDispose();
 	} else if (selection == 1) {
 	    if (!cm.haveItem(4001018)) { //documents
-		cm.sendNext("Please bring the Fire Ore with you.")
+		cm.sendNext("请把火焰矿石带来。")
 		cm.safeDispose();
 	    } else {
 		if (!cm.haveItem(4001015, 30)) { //documents
-		    cm.sendYesNo("So, you brought the fire ore with you? In that case, I can give you and your party a piece of it that should be more than enough to make the core of Zakum. Make sure your whole party has room in their inventory before proceeding.");
+		    cm.sendYesNo("那么，你把火焰矿石带来了？这样的话，我可以给你和你的队伍每人一块，应该足够制作扎昆的核心了。在继续之前请确保你整个队伍的物品栏都有空间。");
 		    scrolls = false;
 		} else {
-		    cm.sendYesNo("So, you brought the fire ore and the documents with you? In that case, I can give you and your party a piece of it that should be more than enough to make the core of Zakum. As well, since you brought the documents with you, I can also give you a special item which will bring you to the mine's entrance at any time. Make sure your whole party has room in their inventory before proceeding.");
+		    cm.sendYesNo("那么，你把火焰矿石和文件都带来了？这样的话，我可以给你和你的队伍每人一块，应该足够制作扎昆的核心了。另外，既然你把文件也带来了，我还可以给你一件特殊物品，可以随时带你回到矿山入口。在继续之前请确保你整个队伍的物品栏都有空间。");
 		    scrolls = true;
 		}
 	    }
 	} else if (selection == 2) {
-	    cm.sendYesNo("Are you sure you want to exit? If you're the party leader, your party will also be removed from the mines.")
+	    cm.sendYesNo("你确定要退出吗？如果你是队伍队长，你的队伍也会被移出矿山。")
 	}
     } else if (status == 2) {
 	var eim = cm.getEventInstance();

@@ -12,9 +12,9 @@ function enter(pi) {
             mapp.respawn(true);
             pi.warp(map, 0);
         } else {
-            pi.playerMessage("Someone is already in this map.");
+            pi.playerMessage("已经有人在这个地图里了。");
         }
     } else {
-        pi.playerMessage("You may not enter yet.");
+        pi.playerMessage("你现在还不能进入。");
     }
 }

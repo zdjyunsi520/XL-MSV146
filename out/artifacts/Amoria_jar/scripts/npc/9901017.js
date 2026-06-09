@@ -18,121 +18,121 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple ("Hey, I'm the #rOccupation Level System#k of #rMaple Blade#k. Your current occupation level is: (#b" + cm.getPlayer().getOccupation() + "#k) #rAlso, please read the Occupation Level chart :). #k\r\n#L0#I would like to level up an Occupation Level!\r\n#L1#Uhh.. I'm not sure yet..\r\n#L3#View the Occupation Level chart!");
+			cm.sendSimple ("#k) #r另外，请阅读职业等级表 :)。 #k\r\n#L0#我想提升一个职业等级！\r\n#L1#呃..我还不确定..\r\n#L3#查看职业等级表！" + cm.getPlayer().getOccupation() + "你目前的职业等级是：(#b");
 				 } else if (selection == 0) {
-          cm.sendSimple ("Your current Occupation Level is:(#b" + cm.getPlayer().getOccupation() + "#k). For more info, read the Occupation Level chart. I would like to advance to...#e#d" +
-                 "#k\r\n#L45#Lv.1 #bNoob Blader#k #r[Req Level 70]" +
-                 "#k\r\n#L46#Lv.2 #bStorm Blader#k #r[Req RB 1]" +
-                 "#k\r\n#L47#Lv.3 #bSoul Blader#k #r[Req RBs 5]" +
-                 "#k\r\n#L48#Lv.4 #bBlade Reaper#k #r[Req RBs 15]" +
-                 "#k\r\n#L49#Lv.5 #bDevil Blader#k #r[Req RBs 30]#r (Different Quest)" +
-                 "#k\r\n#L50#Lv.6 #bNight Blader#k #r[Req RBs 70]#r (Different Quest)" +
-		         "#k\r\n#L51#Lv.7 #bBankai Blader#k #r[Req RBs 150]#r (Different Quest)" +
-                 "#k\r\n#L52#Lv.8 #bHoly Blader#k #r #r[Req RBs 450] (Different Quest)" +
-				 "#k\r\n#L53#Lv.9 #bLieutenant Blader#k #r[Req RBs 700] (Different Quest)" +
-                 "#k\r\n#L54#Lv.10 #bBlade Master#k #r[Req RBs 2000] (Different Quest)#k");
+          cm.sendSimple ("#k)。更多信息请阅读职业等级表。我想晋升到...#e#d" + cm.getPlayer().getOccupation() + "#k\r\n#L45#Lv.1 #b菜鸟之刃#k #r[需要等级70]" +
+                 "#k\r\n#L46#Lv.2 #b暴风之刃#k #r[需要1次转生]" +
+                 "#k\r\n#L47#Lv.3 #b灵魂之刃#k #r[需要5次转生]" +
+                 "#k\r\n#L48#Lv.4 #b死神之刃#k #r[需要15次转生]" +
+                 "#k\r\n#L49#Lv.5 #b恶魔之刃#k #r[需要30次转生]#r (不同任务)" +
+                 "#k\r\n#L50#Lv.6 #b暗夜之刃#k #r[需要70次转生]#r (不同任务)" +
+                 "#k\r\n#L51#Lv.7 #b卍解之刃#k #r[需要150次转生]#r (不同任务)" +
+		         "#k\r\n#L52#Lv.8 #b神圣之刃#k #r #r[需要450次转生] (不同任务)" +
+                 "#k\r\n#L53#Lv.9 #b副官之刃#k #r[需要700次转生] (不同任务)" +
+				 "#k\r\n#L54#Lv.10 #b剑圣#k #r[需要2000次转生] (不同任务)#k" +
+                 "恭喜，你现在是一名#b菜鸟之刃#k :) 你的经验倍率现在是300倍！");
 				 } else if (selection == 45) {
 				  if (cm.getLevel() > 69 && cm.HasOccupation0())  {
 				  cm.changeOccupationById(100);
 				  cm.gainItem(1142109, 1);
-				  cm.sendOk("Congratulations, you are now a #bNoob Blader#k :) Your exp rate is now 300x!");
+				  cm.sendOk("你的等级不够成为#b菜鸟之刃#k，或者你已经是#b菜鸟之刃#k或更高等级。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You're not a high enough level to be a #bNoob Blader#k, or you're already a #bNoob Blader#k or higher than #bNoob Blader#k. Please read the Occupation Level Chart.")
+				  cm.sendOk("恭喜，你现在是一名#b暴风之刃#k :) 你的经验倍率现在是350倍，金币倍率100倍。")
 				  cm.dispose();
 				  }
 				} else if (selection == 46) {
 				if(cm.getPlayer().getrebirths() > 0 && cm.HasOccupation1()) {
 				  cm.changeOccupationById(110);
-				  cm.sendOk("Congratulations, you are now a #bStorm Blader#k :) Your Exp rate is now 350x, and Meso rate 100x.");
+				  cm.sendOk("你的转生次数不够成为#b暴风之刃#k，或者你已经是#b暴风之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bStorm Blader#k, or you're already a #bStorm Blader#k or higher than #bStorm Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("恭喜，你现在是一名#b灵魂之刃#k :) 你的经验倍率现在是400倍，金币倍率200倍。");
 				  cm.dispose();
 				  }
 				} else if (selection == 47) {
 				if(cm.getPlayer().getrebirths() > 4 && cm.HasOccupation2()) {
 				  cm.changeOccupationById(120);
-				  cm.sendOk("Congratulations, you are now a #bSoul Blader#k :) Your Exp rate is now 400x, and Meso rate 200x.");
+				  cm.sendOk("你的转生次数不够成为#b灵魂之刃#k，或者你已经是#b灵魂之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bSoul Blader#k, or you're already a #bSoul Blader#k or higher than #bSoul Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("恭喜，你现在是一名#b死神之刃#k :) 你的经验倍率现在是450倍，金币倍率300倍。");
 				  cm.dispose();
 				  }
 				} else if (selection == 48) {
 				if(cm.getPlayer().getrebirths() > 14 && cm.HasOccupation3()) {
 				  cm.changeOccupationById(130);
-				  cm.sendOk("Congratulations, you are now a #bBlade Reaper#k :) Your Exp rate is now 450x, and Meso rate 300x.");
+				  cm.sendOk("你的转生次数不够成为#b死神之刃#k，或者你已经是#b死神之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bBlade Reaper#k, or you're already a #bBlade Reaper#k or higher than #bBlade Reaper#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("恭喜，你现在是一名#b恶魔之刃#k :) 你的经验倍率现在是500倍，金币倍率400倍。");
 				  cm.dispose();
 				  }
 				} else if (selection == 49) {
 				if(cm.getPlayer().getrebirths() > 29 && cm.HasOccupation4()) {
 				  cm.changeOccupationById(140);
-				  cm.sendOk("Congratulations, you are now a #bDevil Blader#k :) Your Exp rate is now 500x, and Meso rate 400x.");
+				  cm.sendOk("你的转生次数不够成为#b恶魔之刃#k，或者你已经是#b恶魔之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bDevil Blader#k, or you're already a #bDevil Blader#k or higher than #bDevil Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("如果你想晋升到下一个职业等级，请尝试与第6职业对话 :)");
 				  cm.dispose();
 				  }
 				} else if (selection == 50) {
 				if(cm.getPlayer().getrebirths() > 69 && cm.HasOccupation5()) {
 				  cm.warp(300000012);
-				  cm.sendOk("If you want to advance to next Occupation Level, please try talking to the 6th Occupation :)");
+				  cm.sendOk("你的转生次数不够成为#b暗夜之刃#k，或者你已经是#b暗夜之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bNight Blader#k, or you're already a #bNight Blader#k or higher than #bNight Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("如果你想晋升到下一个职业等级，请尝试与第7职业对话 :)");
 				  cm.dispose();
 				  }
 				  } else if (selection == 51) {
 				if(cm.getPlayer().getrebirths() > 149 && cm.HasOccupation6()) {
 				  cm.warp(541010100);
-				  cm.sendOk("If you want to advance to next Occupation Level, please try talking to the 7th Occupation :)");
+				  cm.sendOk("你的转生次数不够成为#b卍解之刃#k，或者你已经是#b卍解之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bBankai Blader#k, or you're already a #bBankai Blader#k or higher than #bBankai Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("如果你想晋升到下一个职业等级，请尝试与第8职业对话 :)");
 				  cm.dispose();
 				  }
 				  } else if (selection == 52) {
 				if(cm.getPlayer().getrebirths() > 449 && cm.HasOccupation7()) {
 				  cm.warp(970010000);
-				  cm.sendOk("If you want to advance to next Occupation Level, please try talking to the 8th Occupation :)");
+				  cm.sendOk("你的转生次数不够成为#b神圣之刃#k，或者你已经是#b神圣之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bHoly Blader#k, or you're already a #bHoly Blader#k or higher than #bHoly Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("如果你想晋升到下一个职业等级，请尝试与第9职业对话 :)");
 				  cm.dispose();
 				  }
 				  } else if (selection == 53) {
 				if(cm.getPlayer().getrebirths() > 699 && cm.HasOccupation8()) {
 				  cm.warp(261030000);
-				  cm.sendOk("If you want to advance to next Occupation Level, please try talking to the 9th Occupation :)");
+				  cm.sendOk("你的转生次数不够成为#b副官之刃#k，或者你已经是#b副官之刃#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bLieutenant Blader#k, or you're already a #bLieutenant Blader#k or higher than #bLieutenant Blader#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("如果你想晋升到下一个职业等级，请尝试与剑圣对话 :)");
 				  cm.dispose();
 				  }
 				  } else if (selection == 54) {
 				if(cm.getPlayer().getrebirths() > 1999 && cm.HasOccupation9()) {
 				  cm.warp(240050310);
-				  cm.sendOk("If you want to advance to next Occupation Level, please try talking to the Blade Master :)");
+				  cm.sendOk("你的转生次数不够成为#b剑圣#k，或者你已经是#b剑圣#k或更高等级，或者你的职业等级太低了。请阅读职业等级表。");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths to be a #bBlade Master#k, or you're already a #bBlade Master#k or higher than #bBlade Master#k, or your Occupation Level is way behind. Please read the Occupation Level Chart.");
+				  cm.sendOk("#e随着你的职业等级提升，你的经验和金币倍率也会同时增加。来看看职业等级表吧。(转生次数 = RBs) 当你达到下一个职业的要求时，请再来找我。\r\n \r\n等级0 - #r菜鸟#k\r\n等级1 - #r菜鸟之刃#k #b[需要等级70]#k (经验倍率300倍)\r\n等级2 - #r暴风之刃#k #b[需要1次转生]#k (经验倍率350倍，金币倍率100倍)\r\n等级3 - #r灵魂之刃#k #b[需要5次转生]#k (经验倍率400倍，金币倍率200倍)\r\n等级4 - #r死神之刃#k #b[需要15次转生]#k (经验倍率450倍，金币倍率300倍)\r\n等级5 - #r恶魔之刃#k #b[需要30次转生]#k (经验倍率500倍，金币倍率400倍)\r\n等级6 - #r暗夜之刃#k #b[需要70次转生]#k (经验倍率550倍，金币倍率500倍)\r\n等级7 - #r卍解之刃#k #b[需要150次转生]#k (经验倍率750倍，金币倍率600倍)\r\n等级8 - #r神圣之刃#k #b[需要450次转生]#k (经验倍率1000倍，金币倍率700倍)\r\n等级9 - #r副官之刃#k #b[需要700次转生]#k (经验倍率1250倍，金币倍率800倍) \r\n等级10 - #r剑圣#k #b[需要2000次转生]#k (经验倍率1750倍，金币倍率1000倍)");
 				  cm.dispose();
 				  }
 				} else if (selection == 3) {
-				  cm.sendNext("#eAs your Occupation Level increases, your Exp and Meso rate will increase at the same time. Take a look at the Occupation Level chart. (RBs = rebirths) When you have the following requirements for next occupation, please talk to me again.\r\n \r\nLevel 0 - #rNoob#k\r\nLevel 1 - #rNoob Blader#k #b[Req Level 70]#k (Exp rate 300x)\r\nLevel 2 - #rStorm Blader#k #b[Req RBs 1]#k (Exp rate 350x, Meso rate 100x)\r\nLevel 3 - #rSoul Blader#k #b[Req RBs 5]#k (Exp rate 400x, Meso rate 200x)\r\nLevel 4 - #rBlade Reaper#k #b[Req RBs 15]#k (Exp rate 450x, Meso rate 300x)\r\nLevel 5 - #rDevil Blader#k #b[Req RBs 30]#k (Exp rate 500x, Meso rate 400x)\r\nLevel 6 - #rNight Blader#k #b[Req RBs 70]#k (Exp rate 550x, Meso rate 500x)\r\nLevel 7 - #rBankai Blader#k #b[Req RBs 150]#k (Exp rate 750x, Meso rate 600x)\r\nLevel 8 - #rHoly Blader#k #b[Req RBs 450]#k (Exp rate 1000x, Meso rate 700x)\r\nLevel 9 - #rLieutenant Blader#k #b[Req RBs 700]#k (Exp rate 1250x, Meso rate 800x) \r\nLevel 10 - #rBlade Master#k #b[Req RBs 2000]#k (Exp rate 1750x, Meso rate 1000x)");
+				  cm.sendNext("#e好的，如果你有足够的转生次数。#e#d");
 				  cm.dispose();
 				} else if (selection == 4) {
 				if(!cm.HasOccupationM(0) && cm.HasOccupationM(1) && cm.HasOccupationM(200) && cm.HasOccupationM(210) && cm.HasOccupationM(220) && cm.HasOccupationM(230) && cm.HasOccupationM(220)) {
-                    cm.sendSimple ("#eAlright, If you have enough rebirths. #e#d" +
-                 "#k\r\n#L10#Advance to Corporal #rExp rate x3#k #bMeso rate x2#k (5 rebirths Required)#k" +
-                 "#k\r\n#L11#Advance to Sergeant #rExp rate x4#k #bMeso rate x2#k (15 rebirths Required)#k" +
-                 "#k\r\n#L12#Advance to Lieutenant #rExp rate x5#k #bMeso rate x3#k (50 rebirths Required)#k " +
-				 "#k\r\n#L13#Advance to Commander #rExp rate x7#k #bMeso rate x5#k (100 rebirths Required)#k" +
-                 "#k\r\n#L14#More options coming soon! :)" );
+                    cm.sendSimple ("#k\r\n#L10#晋升为下士 #r经验倍率x3#k #b金币倍率x2#k (需要5次转生)#k" +
+                 "#k\r\n#L11#晋升为中士 #r经验倍率x4#k #b金币倍率x2#k (需要15次转生)#k" +
+                 "#k\r\n#L12#晋升为少尉 #r经验倍率x5#k #b金币倍率x3#k (需要50次转生)#k" +
+                 "#k\r\n#L13#晋升为指挥官 #r经验倍率x7#k #b金币倍率x5#k (需要100次转生)#k " +
+				 "#k\r\n#L14#更多选项即将推出！ :)" +
+                 "恭喜，你现在是一名下士！你的经验倍率已设为450倍，金币倍率100倍！" );
 				} else {
           cm.sendOk ("Nope.");
 		  cm.dispose();
@@ -140,10 +140,10 @@ function action(mode, type, selection) {
 				} else if (selection == 10) {
 				if(cm.getPlayer().getrebirths() > 4 && !cm.HasOccupationM(100)) {
 				  cm.changeOccupationById(110);
-				  cm.sendNext("Congratulations, you are now a Corporal! Your exp rates has been set to 450x, and Meso 100x!");
+				  cm.sendNext("你的转生次数不够！");
 				  cm.dispose();
 				  } else {
-				  cm.sendOk("You don't have enough rebirths!");
+				  cm.sendOk("你的转生次数不够！");
 				  cm.dispose();
 				} 
 		    }

@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("Join the Silent Crusade...");
+	qm.sendNext("加入沉默远征队……");
 	qm.forceCompleteQuest();
 	qm.dispose();
 }

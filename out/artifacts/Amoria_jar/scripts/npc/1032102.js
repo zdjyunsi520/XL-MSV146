@@ -12,7 +12,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 		if (mode == 0) {
-			cm.sendOk("Alright, see you next time.");
+			cm.sendOk("好的，下次再见。");
 			cm.dispose();
 			return;
 		}
@@ -21,7 +21,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple("I am Mar the Fairy and I deal mostly with pets. #b\r\n#L0#Evolve my dragon.#l\r\n#L1#Evolve my robo.#l\r\n#L2#Revive my pet.#l#k");
+			cm.sendSimple("我是妖精玛丽，主要处理宠物相关的事情。#b\r\n#L0#让我的龙进化。#l\r\n#L1#让我的机器人进化。#l\r\n#L2#复活我的宠物。#l#k");
 		} else if (status == 1) {
 			if (selection == 0) {
 				var currentpet = null;
@@ -35,7 +35,7 @@ function action(mode, type, selection) {
 					}
 				}
 				if (pet == null || !cm.haveItem(5380000,1)) {
-					cm.sendOk("You do not meet the requirements. You need #i5380000##t5380000#, as well as either one of #d#i5000029##t5000029##k, #g#i5000030##t5000030##k, #r#i5000031##t5000031##k, #b#i5000032##t5000032##k, or #e#i5000033##t5000033##n equipped at level 15 or higher. Please come back when you do.");
+					cm.sendOk("你不满足要求。你需要#i5380000##t5380000#，同时需要装备以下之一且等级达到15级以上：#d#i5000029##t5000029##k、#g#i5000030##t5000030##k、#r#i5000031##t5000031##k、#b#i5000032##t5000032##k或#e#i5000033##t5000033##n。满足条件后再来吧。");
 					cm.dispose();
 				} else {
 					var id = pet.getPetItemId();
@@ -67,7 +67,7 @@ function action(mode, type, selection) {
 					cm.removeSlot(5, slot, 1);
 					cm.gainPet(after, name, level, closeness, fullness, 45, flag);
 					cm.getPlayer().spawnPet(slot);
-					cm.sendOk("Your dragon has now evolved!! It used to be a #i" + id + "##t" + id + "#, and now it's a #i" + after + "##t" + after + "#!");
+					cm.sendOk("你的龙已经进化了！！它以前是#i" + id + "##t" + id + "#，现在变成了#i" + after + "##t" + after + "#!");
 					cm.dispose();
 				}
 			} else if (selection == 1) {
@@ -82,7 +82,7 @@ function action(mode, type, selection) {
 					}
 				}
 				if (pet == null || !cm.haveItem(5380000,1)) {
-					cm.sendOk("You do not meet the requirements. You need #i5380000##t5380000#, as well as either one of #g#i5000048##t5000048##k, #r#i5000049##t5000049##k, #b#i5000050##t5000050##k, #d#i5000051##t5000051##k, #d#i5000052##t5000052##k, or #e#i5000053##t5000053##n equipped at level 15 or higher. Please come back when you do.");
+					cm.sendOk("你不满足要求。你需要#i5380000##t5380000#，同时需要装备以下之一且等级达到15级以上：#g#i5000048##t5000048##k、#r#i5000049##t5000049##k、#b#i5000050##t5000050##k、#d#i5000051##t5000051##k、#d#i5000052##t5000052##k或#e#i5000053##t5000053##n。满足条件后再来吧。");
 					cm.dispose();
 				} else {
 					var id = pet.getPetItemId();
@@ -116,7 +116,7 @@ function action(mode, type, selection) {
 					cm.removeSlot(5, slot, 1);
 					cm.gainPet(after, name, level, closeness, fullness, 45, flag);
 					cm.getPlayer().spawnPet(slot);
-					cm.sendOk("Your robo has now evolved!! It used to be a #i" + id + "##t" + id + "#, and now it's a #i" + after + "##t" + after + "#!");
+					cm.sendOk("你的机器人已经进化了！！它以前是#i" + id + "##t" + id + "#，现在变成了#i" + after + "##t" + after + "#!");
 					cm.dispose();
 				}
 			} else if (selection == 2) { //revive	
@@ -130,10 +130,10 @@ function action(mode, type, selection) {
 					}
 				}
 				if (theitems.length <= 0) {
-					cm.sendOk("You have no expired pets.");
+					cm.sendOk("你没有已过期的宠物。");
 					cm.dispose();
 				} else {
-					var selStr = "Please choose which pet to revive. You will need the Water of Life to revive it.#b\r\n";
+					var selStr = "请选择要复活的宠物。你需要生命之水来复活它。#b\r\n";
 					for (var i = 0; i < theitems.length; i++) {
 						selStr += "\r\n#L" + i + "##v" + theitems[i].getItemId() + "##i" + theitems[i].getItemId() + "##l";
 					}
@@ -142,13 +142,13 @@ function action(mode, type, selection) {
 			}
 		} else if (status == 2) {
 			if (theitems.length <= 0) {
-				cm.sendOk("You have no expired pets.");
+				cm.sendOk("你没有已过期的宠物。");
 			} else if (!cm.haveItem(5180000,1)) {
-				cm.sendOk("You will need the #v5180000##i5180000#.");
+				cm.sendOk("你需要#v5180000##i5180000#。");
 			} else {
 				theitems[selection].setExpiration(cm.getCurrentTime() + (45 * 24 * 60 * 60 * 1000));
 				cm.getPlayer().fakeRelog();
-				cm.sendOk("All done.. your pet's life has been extended to 45 days from today.");
+				cm.sendOk("完成了……你的宠物生命已从今天起延长45天。");
 				cm.gainItem(5180000,-1);
 			}
 			cm.dispose();

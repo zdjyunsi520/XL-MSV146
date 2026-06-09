@@ -11,16 +11,16 @@ function action(mode, type, selection) {
 	status--;
     }
     	if (status == 0) {
-	        cm.sendSimple("Hello~I am Witch Malady.#b\r\n\r\n#L0#Go to Defeat Olivia - Easy (Level 10)#l\r\n#L1#Go to Defeat Olivia - Medium (Level 30)#l\r\n#L2#Go to Defeat Olivia - Hard (Level 70)#l");
+	        cm.sendSimple("请稍后再试。");
     	    } else if (status == 1) {
    		    var em = cm.getEventManager("Olivia");
     		    if (em == null) {
-			cm.sendOk("Please try again later.");
+			cm.sendOk("队伍的队长必须在这里。");
 			cm.dispose();
 			return;
     		    }
 		    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-			cm.sendOk("The leader of the party must be here.");
+			cm.sendOk("已有其他队伍在此频道进入了组队任务。");
 		    } else {
 			var s = selection;
 			var party = cm.getPlayer().getParty().getMembers();
@@ -41,10 +41,10 @@ function action(mode, type, selection) {
 		    		if (em.getInstance("Olivia" + s) == null) {
 					em.startInstance_Party("" + s, cm.getPlayer());
 		    		} else {
-					cm.sendOk("Another party quest has already entered this channel.");
+					cm.sendOk("你队伍的所有成员必须都在这里。");
 		    		}
 			} else {
-				cm.sendOk("All members of your party must be here.");
+				cm.sendOk("你队伍的所有成员必须都在这里。");
 			}
 		    }
 	        cm.dispose();

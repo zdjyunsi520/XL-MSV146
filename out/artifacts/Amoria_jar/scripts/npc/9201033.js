@@ -10,10 +10,10 @@ function action(mode, type, selection) {
     } else {
 	if (status == 0) {
 	if (cm.getPlayer().getMapId() == 209000000) {
-	    cm.sendNext("I see. I guess you have some business to take care of around here. If you ever feel the need to visit the temple, let me know!");
+	    cm.sendNext("请随意待多久都行！这座神殿有一些很棒的拍照地点。祝你玩得开心！");
 	    cm.dispose();
 	} else {
-	    cm.sendNext("Feel free to stay as long as you like! This temple has some nice spots where you can take pictures in. Enjoy your stay!");
+	    cm.sendNext("沙洛姆神殿是一个与你见过的任何地方都不同的地方。那里也是拍照的好去处。你想去那里看看吗？");
 	    cm.dispose();
 	}
 	}
@@ -21,15 +21,15 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.getPlayer().getMapId() == 209000000) {
-	    cm.sendYesNo("Shalom Temple is a place that is unlike anything you've ever seen. It's a great place to take pictures, too. Would you like to go there?");
+	    cm.sendYesNo("希望你在这里逛得愉快。你准备好回到原来的地方了吗？");
 	} else {
-	    cm.sendYesNo("I hope you enjoyed looking around this temple. Are you ready to return to your original spot?");
+	    cm.sendYesNo("好的，我们走吧！");
 	}
 	} else if (status == 1) {
 	if (cm.getPlayer().getMapId() == 209000000) {
-	    cm.sendNext("Alright, let's go!");
+	    cm.sendNext("希望你再次光临神殿。保重！");
 	} else {
-	    cm.sendNext("Hope you visit the temple again. Take care!");
+	    cm.sendNext("希望你再次光临神殿。保重！");
 	}
     } else if (status == 2) {
 	cm.warp(cm.getPlayer().getMapId() == 209000000 ? 681000000 : 209000000);

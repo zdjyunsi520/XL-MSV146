@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("HUR DURRRR TULK 2 BLAYKE.");
+	qm.sendNext("哼哼嘟嘟 去找布雷克。");
 	//qm.gainItem(4033619,1);
 	qm.forceStartQuest();
 	qm.dispose();

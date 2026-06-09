@@ -9,7 +9,7 @@ function action(mode, type, selection) {
     switch(cm.getPlayer().getMapId()) {
 	case 930000500:
 	    if (!cm.haveItem(4001163)) {
-	    	cm.sendNext("Get me the Purple Stone of Magic from here.");
+	    	cm.sendNext("从这里给我找到紫色的魔法石。");
 	    } else {
 		cm.warpParty(930000600);
 	    }

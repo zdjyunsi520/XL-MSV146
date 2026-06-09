@@ -11,7 +11,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status == 1 && mode == 0) {
-	cm.sendNext("Well I understand if you are scared...");
+	cm.sendNext("一个零食摊突然活了起来开始发疯，正在攻击我们仓库里的一切！");
 	cm.dispose();
 	return;
     }
@@ -20,9 +20,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("A Snack Bar suddenly came to life and went beserk and is now attacking everything in our storage!");
+	cm.sendNext("你能帮我解决那个零食摊吗？");
     } else if (status == 1) {
-	    cm.sendYesNo("Can you help me take out the Snack Bar?");
+	    cm.sendYesNo("你能帮我解决那个零食摊吗？");
     } else if (status == 2) {
 	cm.warp(741020102);
 	cm.dispose();

@@ -1,4 +1,4 @@
 function action(mode, type, selection) {
-    cm.sendNext("Being young doesn't mean I'm any different from those guys. I'll show them!");
+    cm.sendNext("年纪小不代表我跟那些家伙有什么不同。我会证明给他们看的！");
     cm.dispose();
 }

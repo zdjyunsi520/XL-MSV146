@@ -6,18 +6,18 @@
 
 var job = [
 [[100, "Warrior"], [200, "Magician"], [300, "Bowman"], [400, "Thief"], [500, "Pirate"]],
-[[1100, "Dawn Warrior"], [1200, "Blaze Wizard"], [1300, "Wind Archer"], [1400, "Night Walker"], [1500, "Thunder Breaker"]],
-[[3200, "Battle Mage"], [3300, "Wild Hunter"], [3500, "Mechanic"]],
+[[1100, "炎术师"], [1200, "风灵使者"], [1300, "夜行者"], [1400, "奇袭者"], [1500, "唤灵斗师"]],
+[[3200, "豹弩游侠"], [3300, "法师(火毒)"], [3500, "Mechanic"]],
 [[110, "Fighter"], [120, "Page"], [130, "Spearman"]],
-[[210, "Wizard (F/P)"], [220, "Wizard (I/L)"], [230, "Cleric"]],
-[[310, "Hunter"], [320, "Crossbow Man"]],
+[[210, "法师(冰雷)"], [220, "弩弓手"], [230, "Cleric"]],
+[[310, "Hunter"], [320, "恶魔猎手"]],
 [[410, "Assassin"], [420, "Bandit"]],
 [[510, "Brawler"], [520, "Gunslinger"]],
-[[3100, "Demon Slayer"], [3101, "Demon Avenger"]]];
+[[3100, "恶魔复仇者"], [3101, "暗影双刀"]]];
 var extrajobs = [
 [2300, "Mercedes"]];
 var specialextrajobs = [
-[9400, "Dual Blade"], [9501, "Cannoneer"], [9508, "Jett"]
+[9400, "你必须用完所有SP点数才能转职。"], [9501, "Cannoneer"], [9508, "Jett"]
 ];
 var extra = true;
 var status = -1;
@@ -51,50 +51,50 @@ function action(mode, type, selection) {
         (cm.getPlayer().getJob() % 10 != 2 && cm.getPlayer().getJob() % 10 != 4 || cm.getPlayer().getJob() == 432)) {
             if (isExplorer(cm.getPlayer().getJob())) {
                // if (cm.getPlayer().getRemainingSp() > 0) {
-                 //   cm.sendOk("You have to use all of your SP points in order to job advance.");
+                 //   cm.sendOk("你想转职吗？");
                    // cm.dispose();
                    // return;
                // }
             }
-            cm.sendYesNo("Would you like to job advance?");
+            cm.sendYesNo("成功转职为1转火枪手。");
         }
         if(cm.getChar().getJob() == 0 && cm.getPlayer().getSubcategory() == 2) //Cannoneer
         {
            cm.getChar().changeMap(100000000, 0);
            cm.getChar().changeJob(501);
-           cm.sendOk("Successfully job advanced to 1st job Cannoneer.")
+           cm.sendOk("成功转职为1转阴阳师。")
            return cm.dispose();
         }
         if(cm.getChar().getJob() == 4002) // Kanna
         {
             cm.getChar().changeJob(4200);
-            cm.sendOk("Successfully job advanced to 1st job Kanna.")
+            cm.sendOk("成功转职为1转剑豪。")
             return cm.dispose();
         }
         if(cm.getChar().getJob() == 4001) // Hayato
         {
                 cm.getChar().changeJob(4100);
-                cm.sendOk("Successfully job advanced to 1st job Hayato.")
+                cm.sendOk("成功转职为1转尖兵")
                 return cm.dispose();
         }
         if(cm.getChar().getJob() == 3002) //Xwnon
         {
                cm.getChar().changeJob(3600);
-               cm.sendOk("Successfully job advanced to 1st job Xenon")
+               cm.sendOk("你目前的状态无法转职。")
                return cm.dispose();
         }
          else {
-            cm.sendOk("You may not advance at the current state.");
+            cm.sendOk("发生了错误，或发现了新职业。\r\n请联系管理员。\r\n你的职业ID：");
             cm.dispose();
         }
     }
      else if (status == 1) {
-        if (cm.getPlayer().getSubcategory() == 1 && cm.getPlayer().getJob() == 0) { //Dual Blade
+        if (cm.getPlayer().getSubcategory() == 1 && cm.getPlayer().getJob() == 0) { //你必须用完所有SP点数才能转职。
             cm.getPlayer().changeJob(400);
             cm.dispose();
             return;
         }
-        if (cm.getPlayer().getSubcategory() == 1 && cm.getPlayer().getJob() == 400) { //Dual Blade
+        if (cm.getPlayer().getSubcategory() == 1 && cm.getPlayer().getJob() == 400) { //你必须用完所有SP点数才能转职。
             cm.getPlayer().changeJob(430);
             cm.dispose();
             return;
@@ -137,7 +137,7 @@ function action(mode, type, selection) {
             case 500: // Pirate
                 jobSelection(7);
                 break;
-            case 3001: // Demon Slayer
+            case 3001: // 恶魔复仇者
                 jobSelection(8);
                 break;
             //Special Jobs
@@ -187,7 +187,7 @@ function action(mode, type, selection) {
                 cm.getPlayer().changeJob(6500);
                 cm.dispose();
                 return;
-            // Dual Blader
+            // 你必须用完所有SP点数才能转职。r
             case 430: // Blade Reqruit
             case 431: // Blade Acolyte
             case 432: // Blade Specialist
@@ -197,19 +197,19 @@ function action(mode, type, selection) {
                 return;
             //1st Job
             case 900:  // GM lol
-            case 1100: // Dawn Warrior
-            case 1200: // Blaze Wizard
-            case 1300: // Wind Archer
-            case 1400: // Night Walker
-            case 1500: // Thunder Breaker
+            case 1100: // 炎术师
+            case 1200: // 风灵使者
+            case 1300: // 夜行者
+            case 1400: // 奇袭者
+            case 1500: // 唤灵斗师
             case 2100: // Aran
             case 2300: // Mercedes
             case 2400: // Phantom
             case 2700: // Luminous
-            case 3100: // Demon Slayer
-            case 3101: // Demon Avenger
-            case 3200: // Battle Mage
-            case 3300: // Wild Hunter
+            case 3100: // 恶魔复仇者
+            case 3101: // 暗影双刀
+            case 3200: // 豹弩游侠
+            case 3300: // 法师(火毒)
             case 3500: // Mechanic
             case 4100: // Hayato
             case 4200: // Kanna
@@ -234,19 +234,19 @@ function action(mode, type, selection) {
             case 520: // Gunslinger
             case 530: // Cannoneer
             case 570: // Jett
-            case 1110: // Dawn Warrior
-            case 1210: // Blaze Wizard
-            case 1310: // Wind Archer
-            case 1410: // Night Walker
-            case 1510: // Thunder Breaker
+            case 1110: // 炎术师
+            case 1210: // 风灵使者
+            case 1310: // 夜行者
+            case 1410: // 奇袭者
+            case 1510: // 唤灵斗师
             case 2110: // Aran
             case 2310: // Mercedes
             case 2410: // Phantom
             case 2710: // Luminous
-            case 3110: // Demon Slayer
-            case 3120: // Demon Avenger
-            case 3210: // Battle Mage
-            case 3310: // Wild Hunter
+            case 3110: // 恶魔复仇者
+            case 3120: // 暗影双刀
+            case 3210: // 豹弩游侠
+            case 3310: // 法师(火毒)
             case 3510: // Mechanic
             case 5110: // Mihile
             case 6110: // Kaiser
@@ -266,19 +266,19 @@ function action(mode, type, selection) {
             case 521: // Outlaw
             case 531: // Cannon Trooper
             case 571: // Jett
-            case 1111: // Dawn Warrior
-            case 1211: // Blaze Wizard
-            case 1311: // Wind Archer
-            case 1411: // Night Walker
-            case 1511: // Thunder Breaker
+            case 1111: // 炎术师
+            case 1211: // 风灵使者
+            case 1311: // 夜行者
+            case 1411: // 奇袭者
+            case 1511: // 唤灵斗师
             case 2111: // Aran
             case 2311: // Mercedes
             case 2411: // Phantom
             case 2711: // Luminous
-            case 3111: // Demon Slayer
-            case 3121: // Demon Avenger
-            case 3211: // Battle Mage
-            case 3311: // Wild Hunter
+            case 3111: // 恶魔复仇者
+            case 3121: // 暗影双刀
+            case 3211: // 豹弩游侠
+            case 3311: // 法师(火毒)
             case 3511: // Mechanic
             case 5111: // Mihile
             case 6111: // Kaiser
@@ -287,14 +287,14 @@ function action(mode, type, selection) {
                 cm.dispose();
                 return;
             default:
-                cm.sendOk("An error occured, or a new job found.\r\nPlease report to the Admins.\r\nYour job id: " + cm.getPlayer().getJob() + "");
+                cm.sendOk("你确定要转职为 " + cm.getPlayer().getJob() + "");
                 cm.dispose();
                 return;
         }
     }
     else if (status == 2) {
         select = selection;
-        cm.sendYesNo("Are you sure you want to Job Advance"/* + selection <= job[jobindex].length ? (" into a(n) #b" + job[jobindex][selection][1] + "#k") : ""*/ + "?");
+        cm.sendYesNo(" #b"/* + selection <= job[jobindex].length ? ("作为恶魔猎手，你需要选择一个#b恶魔印记#k。\r\n#L1012276##i1012276##l\r\n#L1012277##i1012277##l\r\n#L1012278##i1012278##l\r\n#L1012279##i1012279##l\r\n#L1012280##i1012280##l" + job[jobindex][selection][1] + "#k") : ""*/ + "?");
     } else if (status == 3) {
         if (select != 3100) {
             cm.getPlayer().changeJob(getRealJob(select));
@@ -302,11 +302,11 @@ function action(mode, type, selection) {
                 cm.dispose();
             return;
         } else
-            cm.sendSimple("As a Demon Slayer, you will have to choose a #bDemon Marking#k.\r\n#L1012276##i1012276##l\r\n#L1012277##i1012277##l\r\n#L1012278##i1012278##l\r\n#L1012279##i1012279##l\r\n#L1012280##i1012280##l");
+            cm.sendSimple("As a 恶魔复仇者, you will have to choose a #bDemon Marking#k.\r\n#L1012276##i1012276##l\r\n#L1012277##i1012277##l\r\n#L1012278##i1012278##l\r\n#L1012279##i1012279##l\r\n#L1012280##i1012280##l");
         if (getSubcategory(select) != 0) {
             cm.getPlayer().changeJob(getRealJob(select));
             cm.getPlayer().setSubcategory(getSubcategory(select));
-            cm.getPlayer().dropMessage(0, "You will change channel now so the special job change will effect you. No worries, you will land on the same channel you were in before.");
+            cm.getPlayer().dropMessage(0, "作为恶魔猎手，你的魔法值(MP)将在登出后转变为恶魔之力(DF)。");
             cm.dispose();
             return;
         }
@@ -315,7 +315,7 @@ function action(mode, type, selection) {
         cm.getPlayer().setSkinColor(4);
         cm.getPlayer().changeJob(getRealJob(select));
         if (select == 3100) {
-            cm.sendOk("As a Demon Slayer, your Mana Points(MP) will turn into Demon Force (DF) as soon as you log off.");
+            cm.sendOk("As a 恶魔复仇者, your Mana Points(MP) will turn into Demon Force (DF) as soon as you log off.");
         }
         cm.dispose();
         return;
@@ -324,11 +324,11 @@ function action(mode, type, selection) {
 
 function jobSelection(index) {
     jobindex = index;
-    var choose = "Please, select your job:"
+    var choose = "\r\n\r\n#e#b额外职业#k#n: #e#r(新)#k#n"
     for (var i = 0; i < job[index].length; i++)
         choose += "\r\n#L" + job[index][i][0] + "#" + job[index][i][1] + "#l";
     if (extra == true && index <= 2/*Beginner Jobs Only*/) {
-        choose += "\r\n\r\n#e#bExtra Jobs#k#n: #e#r(New)#k#n";
+        choose += "\r\n\r\n#e#b额外职业#k#n: #e#r(新)#k#n";
         for (var e = 0; e < extrajobs.length; e++)
             choose += "\r\n#L" + extrajobs[e][0] + "#" + extrajobs[e][1] + "#l";
         for (var s = 0; s < specialextrajobs.length; s++)

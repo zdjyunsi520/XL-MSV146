@@ -1,14 +1,14 @@
 var status = -1;
 //this quest is POWER B FORE
 function start(mode, type, selection) {	
-	qm.sendNext("Please eliminate 100 Spores.");
+	qm.sendNext("请消灭100只孢子。");
 	qm.forceStartQuest();
 	qm.dispose();
 }
 
 function end(mode, type, selection) {
 	if (!qm.canHold(2000004, 20) || !qm.canHold(2000002, 20) || !qm.canHold(4032457,1)) {
-		qm.sendNext("Please make use/etc space.");
+		qm.sendNext("请腾出使用/其他栏空间。");
 		qm.dispose();
 		return;
 	}

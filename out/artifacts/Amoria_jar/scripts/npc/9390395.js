@@ -9,18 +9,18 @@ function action(mode, type, selection) {
 	}
 	if (status == 0) {
 	    cm.EnableUI(1);
-		cm.sendPlayerToNpc("Hey.. uh that other guy told me to talk to you?");
+		cm.sendPlayerToNpc("啊..你就是新来的，仔细听着，有人不知怎的移动了黑魔法师的封印..他目前就藏身在这片森林里..情况非常严重，他随时可能苏醒并毁灭我们所有人，我们#r必须#k找到他！");
 	} else if (status == 1) {
 	    // cm.EnableUI(1);
-		cm.sendNextNoESC("Ah.. So you're the new one listen very carefully someone somehow moved the Black Mage's seal.. He's currently residing in this forest.. It's very serious he could awaken at any moment and destroy us all we #r NEED #k to find him!");
+		cm.sendNextNoESC("哇哇哇兄弟！我刚来这儿你就让我去追杀什么大坏蛋？这是什么鬼！");
 	} else if (status == 2) {
-		cm.sendPlayerToNpc("Woah Woah Woah buddy! I'm like new here and you want me to hunt down some big bad black guy? What kind of crap is this?!");
+		cm.sendPlayerToNpc("呃..基本上是的，但是嗯..如果不找到他，我们可不仅仅是损失几台电视那么简单");
 	} else if (status == 3) {
-		cm.sendNextNoESC("Erm.. Yes essentially but uhm.. If he's not found we've got a lot more than lost TV's to worry about");
+		cm.sendNextNoESC("嘿..好吧，我帮你找他...");
 	} else if (status == 4) {
-		cm.sendPlayerToNpc("Heh.. Fine I'll help you look for him...");
+		cm.sendPlayerToNpc("太好了！我送你进入森林去找他，祝你好运！！");
 	} else if (status == 5) {
-		cm.sendNextNoESC("GREAT! I'll send you into the forest to find him Goodluck!!");
+		cm.sendNextNoESC("太好了！我送你进入森林去找他，祝你好运！！");
     } else if (status == 6) {
 			cm.warp(910142070,0);
 	//		cm.spawnMobOnPoint(1210104, 10, 55, 85);

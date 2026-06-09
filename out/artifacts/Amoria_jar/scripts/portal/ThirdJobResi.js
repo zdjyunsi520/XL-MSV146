@@ -5,7 +5,7 @@ function enter(pi) {
 		map.resetFully();
 		pi.warp(931000200, 0);
 	} else {
-	    pi.playerMessage("Being searched by someone else. Better come back later.");
+	    pi.playerMessage("其他人正在搜索中，请稍后再来。");
 	}
     }
 }

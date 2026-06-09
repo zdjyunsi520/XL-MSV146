@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("#b#L0#Exchange Medals#l\r\n#L1#Go to the Audience Room#l");
+	cm.sendSimple("#b#L0#兑换勋章#l\r\n#L1#前往觐见厅#l");
     } else if (status == 1) {
 	if (selection == 0) {
 	    cm.openShop(200);

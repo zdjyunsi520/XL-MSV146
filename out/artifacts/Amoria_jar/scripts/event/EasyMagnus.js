@@ -76,7 +76,7 @@ function monsterValue(eim, mobId) {
 
 function allMonstersDead(eim) {
 eim.finishPQ();
-eim.broadcastPlayerMsg(6, "Magnus is Dead, enter the Portal to your left, to leave.");
+eim.broadcastPlayerMsg(6, "麦格纳斯已死亡，进入左侧传送门离开。");
 }
 
 function playerRevive(eim, player) {

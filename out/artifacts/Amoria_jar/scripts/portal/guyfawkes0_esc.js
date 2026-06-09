@@ -2,11 +2,11 @@ function enter(pi) {
 	try {
 		switch(pi.getPlayer().getMapId()) {
 			case 674030100:
-				pi.playerMessage(5, "This portal is not available. Please talk to Charles.");
+				pi.playerMessage(5, "此传送门不可用。请和查尔斯对话。");
 				break;
 			case 674030000:
 				if (pi.getPlayer().gate[4] == false) {
-					pi.playerMessage(5, "This portal is not available. Please talk to Charles.");
+					pi.playerMessage(5, "此传送门不可用。请和查尔斯对话。");
 				} else {
 					pi.warp(674030100, 0);
 					pi.getPlayer().gate[4] = false;

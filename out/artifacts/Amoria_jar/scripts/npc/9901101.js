@@ -17,19 +17,19 @@ function action(mode, type, selection) {
 	}
 	status++;
 	if (status == 0) {
-		cm.sendSimple("Hello, #h0#. I am in charge of the Premium Minidungeons.\r\n\r\n#b#L0#Enter Premium Minidungeon#l#k\r\n#r#L1#Redeem Premium Minidungeon items#l#k");
+		cm.sendSimple("你好！我看到你有 #v5451000##t5451000#。你想进入高级迷你副本吗？ #e你将无法使用药水。请做好准备。#n");
 	} else if (status == 1) {
 		selected = selection;
 		if (selection == 0){
 			if (cm.haveItem(5451000)) {
-				cm.sendYesNo("Hello! I see you have #v5451000##t5451000#. Would you like to enter the Premium Minidungeon? #eYou will not be able to use potions. Be prepared.#n");
+				cm.sendYesNo("你需要30,000,000金币才能进入此地图。确定要继续吗？ #e你将在地图中持续失去HP，且无法使用药水。请做好准备。#n");
 			} else {
-				cm.sendYesNo("You will need 30,000,000 mesos to enter this map. Proceed? #eYou will lose HP periodically in the map and you will not be able to use potions. Be prepared.#n");
+				cm.sendYesNo("好的，这些是你可以用 #v5220020##t5220020#(稀有)和 #v5220010##t5220010#(普通)兑换的物品...\r\n\r\n#b");
 			}
 		} else {
-			var selStr = "Well, okay. These are what you can redeem using your #v5220020##t5220020#(Rare) and #v5220010##t5220010#(Normal)...\r\n\r\n#b";
+			var selStr = " 兑换需要 #r#v5220020# x";
 			for (var i = 0; i < itemids.length; i++) {
-				selStr += "#L" + i + "##i" + itemids[i] + "##z" + itemids[i] + "# x " + quantitys[i] + " for #r#v5220020# x " + ytickets[i] + "#k and #r#v5220010# x " + wtickets[i] + "#b" + (expires[i] > 0 ? (" (lasts for " + expires[i] + " days)") : "") + "#l\r\n";
+				selStr += "#L" + i + "##i" + itemids[i] + "##z" + itemids[i] + "# x " + quantitys[i] + "#k 和 #r#v5220010# x " + ytickets[i] + " (持续 " + wtickets[i] + "#b" + (expires[i] > 0 ? (" 天) " + expires[i] + "迷你副本目前不可用。") : "") + "#l\r\n";
 			}
 			cm.sendSimple(selStr);
 		}
@@ -37,9 +37,9 @@ function action(mode, type, selection) {
 		if (selected == 0) {
 			var em = cm.getEventManager("MiniDungeon");
 			if (em == null) {
-				cm.sendOk("The Minidungeon is currently not available.");
+				cm.sendOk("请检查你的金币。");
 			} else if (!cm.haveItem(5451000) && cm.getPlayer().getMeso() < 30000000) {
-				cm.sendOk("Please check your mesos.");
+				cm.sendOk("请腾出背包空间");
 			} else {
 				if (!cm.haveItem(5451000)) {
 					cm.gainMeso(-30000000);
@@ -49,9 +49,9 @@ function action(mode, type, selection) {
 			cm.dispose();
 		} else {
 			if (!cm.canHold(itemids[selection], quantitys[selection])) {
-				cm.sendOk("Please make room");
+				cm.sendOk("你的票券不够。");
 			} else if (cm.itemQuantity(5220020) < ytickets[selection] || cm.itemQuantity(5220010) < wtickets[selection]) {
-				cm.sendOk("You don't have enough tickets.");
+				cm.sendOk("感谢你的兑换~");
 			} else {
 				cm.gainItem(5220020, -ytickets[selection]);
 				cm.gainItem(5220010, -wtickets[selection]);
@@ -60,7 +60,7 @@ function action(mode, type, selection) {
 				} else {
 					cm.gainItem(itemids[selection], quantitys[selection]);
 				}
-				cm.sendOk("Thank you for your redemption~");
+				cm.sendOk("感谢你的兑换~");
 			}
 			cm.dispose();
 		}

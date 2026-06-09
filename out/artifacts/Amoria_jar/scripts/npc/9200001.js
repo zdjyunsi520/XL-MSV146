@@ -20,6 +20,6 @@
 */
 
 function start() {
-	cm.sendNext("Sup. Easter is over, but I still don't like it one bit, and now the people are aware of my plans. That's alright, though; my gang will do our best to bring it down next year, too. I'll be counting on you to help us take away more Easter Eggs from others. Peace..");
+	cm.sendNext("嘿。复活节虽然结束了，但我还是不太喜欢它，现在人们已经知道了我的计划。不过没关系；我和我的同伙明年也会尽全力搞破坏的。我会指望你帮我们从别人那里抢走更多复活节彩蛋的。再会..");
 	cm.dispose();
 }

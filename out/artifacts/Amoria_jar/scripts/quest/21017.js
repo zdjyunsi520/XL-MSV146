@@ -5,24 +5,24 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 5) {
-	    qm.sendNextS("#b(You declined out of fear, but it''s not like you can run away like this. Take a big breath, calm down, and try again.)#k", 2);
+	    qm.sendNextS("#b(你因为恐惧而拒绝了，但你不能就这样逃避。深呼吸，冷静下来，再试一次。)#k", 2);
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNextS("It seems like you''re warmed up now. This is when rigorous training can really help you build a strong foundation. Let''s proceed with the Basic Training, shall we?", 8);
+	qm.sendNextS("看来你已经热身好了。这时候严格的训练真的能帮你打下坚实的基础。让我们继续基础训练吧？", 8);
     } else if (status == 1) {
-	qm.sendNextPrevS("Go defeat some #r#o0100133#s#k in #b#m140020200##k this time. I think about  #r20#k should do it. Go on ahead and... Hm? Do you have something you''d like to say?", 8);
+	qm.sendNextPrevS("这次去#b#m140020200##k打败一些#r#o0100133##k吧。我觉得大约#r20只#k就够了。去吧...嗯？你有什么想说的吗？", 8);
     } else if (status == 2) {
-	qm.sendNextPrevS("Isn''t the number getting bigger and bigger?", 2);
+	qm.sendNextPrevS("数量不是越来越多了吗？", 2);
     } else if (status == 3) {
-	qm.sendNextPrevS("Of course it is. What, are you not happy with 20? Would you like to defeat 100 of them instead? Oh, how about 999 of them? Someone in Sleepywood would be able to do it easily. After all, we are training...", 8);
+	qm.sendNextPrevS("当然了。怎么，你对20只不满意？你想打败100只吗？哦，不如999只？在魔法密林的人就能轻松做到。毕竟我们在训练...", 8);
     } else if (status == 4) {
-	qm.sendNextPrevS("Oh no, no, no. Twenty is plenty", 2);
+	qm.sendNextPrevS("哦不不不。20只足够了", 2);
     } else if (status == 5) {
-	qm.askAcceptDecline("You don't have to be so modest. I understand your desire to quickly become the hero you once were. This sort of attitude is what makes you a hero.");
+	qm.askAcceptDecline("你不必这么谦虚。我理解你想尽快恢复曾经作为英雄的实力。这种态度正是你成为英雄的原因。");
     } else if (status == 6) {
 	qm.forceStartQuest();
 	qm.sendNextS('#b(You accepted, thinking you might end up having to 999 of them if you let her keep talking.)#k', 2);

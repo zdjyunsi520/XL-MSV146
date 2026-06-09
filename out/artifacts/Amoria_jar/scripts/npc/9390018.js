@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 	if (status == 0 && mode == 0) {
-		cm.sendNext("You cannot be part of our Community until you agree");
+		cm.sendNext("               欢迎来到 #b[刀剑神域]#k 副本！ \r\n\r\n很遗憾仍在开发中！你可以随时回来看看进度！\r\n\r\n第1层 #g100%#k\r\n第2层 #g100%#k\r\n第3层 #b50%#k\r\n第4层 #b50%#k\r\n第5层 #b50%#k\r\n第6层 #b50%#k\r\n第7层 #b50%#k\r\n第8层 #b50%#k\r\n第9层 #b50%#k\r\n第10层 #b50%#k\r\n第11层 #b50%#k\r\n第12层 #b50%#k\r\n第13层 #b50%#k\r\n第14层 #b50%#k\r\n第15层 #b50%#k\r\n第16层 #b50%#k\r\n第17层 #b50%#k\r\n第18层 #b50%#k\r\n第19层 #b50%#k\r\n第20层 #b50%#k\r\n第21 - 100层 #r0%#k");
 		cm.dispose();
 		return;
 	}
@@ -23,13 +23,13 @@ function action(mode, type, selection) {
 	else
 		status--;
 	if(status == 0){
-		cm.sendOk("               Welcome to the #b[Sword Art Online]#k Dungeon! \r\n\r\nSadly it's still in developement! you can come back anytime and view the pogress!\r\n\r\nFloor 1 #g100%#k\r\nFloor 2 #g100%#k\r\nFloor 3 #b50%#k\r\nFloor 4 #b50%#k\r\nFloor 5 #b50%#k\r\nFloor 6 #b50%#k\r\nFloor 7 #b50%#k\r\nFloor 8 #b50%#k\r\nFloor 9 #b50%#k\r\nFloor 10 #b50%#k\r\nFloor 11 #b50%#k\r\nFloor 12 #b50%#k\r\nFloor 13 #b50%#k\r\nFloor 14 #b50%#k\r\nFloor 15 #b50%#k\r\nFloor 16 #b50%#k\r\nFloor 17 #b50%#k\r\nFloor 18 #b50%#k\r\nFloor 19 #b50%#k\r\nFloor 20 #b50%#k\r\nFloor 21 - 100 #r0%#k");
+		cm.sendOk("好了，出发吧！");
 	}
 	 else if (status == 0 && selection == 0) {
     status = 4;
 	//cm.openNpc(1402300);
 	}	else if(status == 2){
-		//cm.sendNext("Alright Let's go!");
+		//cm.sendNext("好了，出发吧！");
 		//cm.warp(109090200);
 		cm.showSAO();
 		cm.dispose();

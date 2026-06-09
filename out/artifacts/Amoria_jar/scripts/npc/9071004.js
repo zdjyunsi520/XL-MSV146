@@ -3,9 +3,9 @@ var minLevel = Array(20, 45, 50, 55, 60, 70, 75, 85, 95, 100, 110, 120, 125, 130
 var maxLevel = Array(30, 55, 60, 65, 70, 80, 85, 95, 105, 110, 120, 130, 135, 140, 150, 165, 200);
 
 function start() {
-    var selStr = "Which dungeon would you like to enter?\r\n\r\n#b";
+    var selStr = "# （怪物等级";
     for (var i = 0; i < maps.length; i++) {
-	selStr += "#L" + i + "##m" + maps[i] + "# (Monsters Lv." + minLevel[i] + " - " + maxLevel[i] + ")#l\r\n";
+	selStr += "#L" + i + "##m" + maps[i] + "请让你们的队长走过来。" + minLevel[i] + " - " + maxLevel[i] + ")#l\r\n";
     }
     cm.sendSimple(selStr);
 }
@@ -13,7 +13,7 @@ function start() {
 function action(mode, type, selection) {
     if (mode == 1 && selection >= 0 && selection < maps.length) {
         if (cm.getParty() == null || !cm.isLeader()) {
-	    cm.sendOk("Please get your leader to walk through.");
+	    cm.sendOk("请确保所有队伍成员都在地图中且满足等级要求。");
 	} else {
 	    var party = cm.getParty().getMembers().iterator();
 	    var next = true;
@@ -24,11 +24,11 @@ function action(mode, type, selection) {
 		} 
 	    }
 	    if (!next) {
-		cm.sendOk("Please make sure all party members are in the map and have correct level requirements.");
+		cm.sendOk("已经有人在挑战怪物公园了。");
 	    } else {
 		var em = cm.getEventManager("MonsterPark");
 		if (em == null || em.getInstance("MonsterPark" + maps[selection]) != null) {
-		    cm.sendOk("Someone is already attempting Monster Park.");
+		    cm.sendOk("已经有人在挑战怪物公园了。");
 		} else {
 		    em.startInstance_Party("" + maps[selection], cm.getPlayer());
 		}

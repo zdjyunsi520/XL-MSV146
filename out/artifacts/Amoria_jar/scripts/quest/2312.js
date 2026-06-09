@@ -18,16 +18,16 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("Hmmm... you must be unsure of your combat skills. We'll be here waiting for you, so come see us when you're ready.");
+			qm.sendOk("嗯……你一定是对自己的战斗能力不太有信心。我们会在这里等你的，准备好了再来找我们。");
 		    qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("We need your help, noble explorer. Our kingdom is currently facing a big threat, and we are in desperate need of a courageous explorer willing to fight for us, and that's how you ended up here. Please understand, though, that since we need place our faith in you, we'll have to test your skills first before we can stand firmly behind you. Will it be okay for you to do this for us?");
+		qm.sendAcceptDecline("我们需要你的帮助，高尚的冒险者。我们的王国目前正面临巨大的威胁，我们急需一位勇敢的冒险者为我们而战，这就是为什么你会来到这里。但请理解，既然我们要将信任寄托于你，我们必须先测试一下你的能力才能坚定地站在你这边。你可以为我们做这件事吗？");
 	if (status == 1){
 		qm.forceStartQuest();
-		qm.sendOk("Keep moving forward, and you'll see #bRenegade Spores#k, the Spores that turned their backs on the Kingdom of Mushroom. We'd appreciate it if you can teach them a lesson or two, and bring back #b50 Mutated Spores#k in return.");
+		qm.sendOk("继续前进，你会看到#b叛变孢子#k，那些背叛了蘑菇王国的孢子。如果你能给它们一些教训，并带回#b50个变异孢子#k，我们将不胜感激。");
 		qm.dispose();
 	}
 }
@@ -43,12 +43,12 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("Did you teach those Renegade Spores a lesson?");
+		qm.sendOk("你教训了那些叛变孢子了吗？");
 	if (status == 1){
 		qm.forceCompleteQuest();
 		qm.gainExp(11500);
 		qm.gainItem(4000499, -50);
-		qm.sendOk("That was amazing. I apologize for doubting your abilities. Please save our Kingdom of Mushroom from this crisis!");
+		qm.sendOk("太厉害了。很抱歉我曾经怀疑你的能力。请从这场危机中拯救我们的蘑菇王国！");
 		qm.dispose();
 		}
 	}

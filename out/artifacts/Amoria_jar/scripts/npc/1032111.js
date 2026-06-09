@@ -5,6 +5,6 @@
 */
 
 function start() {
-	cm.sendOk("A sweet scent of tree bark tickles my nose.");
+	cm.sendOk("一股甜蜜的树皮香味钻进了我的鼻子。");
 	cm.dispose();
 	}

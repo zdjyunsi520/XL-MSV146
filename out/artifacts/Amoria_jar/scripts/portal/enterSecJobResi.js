@@ -5,7 +5,7 @@ function enter(pi) {
 		map.resetFully();
 		pi.warp(931000420, 0);
 	} else {
-	    pi.playerMessage("Being searched by someone else. Better come back later.");
+	    pi.playerMessage("其他人正在搜索中，请稍后再来。");
 	}
     } else if (pi.getQuestStatus(23023) == 1 || pi.getQuestStatus(23024) == 1 || pi.getQuestStatus(23025) == 1) {
 	if (pi.getPlayerCount(931000100) == 0) {
@@ -15,7 +15,7 @@ function enter(pi) {
 		map.spawnNpc(2159100, new java.awt.Point(-157, -23));
 		pi.warp(931000100, 0);
 	} else {
-	    pi.playerMessage("Being searched by someone else. Better come back later.");
+	    pi.playerMessage("其他人正在搜索中，请稍后再来。");
 	}
     } else {
 	pi.warp(310000010, 0);

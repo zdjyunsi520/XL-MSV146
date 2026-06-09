@@ -6,21 +6,21 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendNext("Good kids listen to their mothers. Now, Evan, be a good kid and talk to me again.");
+			qm.sendNext("好孩子要听妈妈的话。现在，埃文，做个好孩子再和我对话。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("Your #bDad#k forgot his Lunch Box when he left for the farm this morning. Will you #bdeliver this Lunch Box#k to your Dad in #b#m100030300##k, honey?");	
+		qm.sendAcceptDecline("你的#b爸爸#k今早去农场时忘了带午餐盒。你能帮我把这个#b午餐盒#k送到在#b#m100030300##k的爸爸#k那里吗，宝贝？");	
 	else if (status == 1){
 		qm.forceStartQuest();
-		qm.sendNext("Heehee, my Evan is such a good kid! Head #bleft after you exit the house#k. Rush over to your dad. I'm sure he's starving.");
+		qm.sendNext("嘻嘻，我的埃文真是个好孩子！#b出了门往左走#k。快跑去你爸爸那里。他一定饿坏了。");
 		if(!qm.haveItem(4032448))
 			qm.gainItem(4032448, 1);
                 qm.dispose();
 	}else if (status == 3)
-		qm.sendNextPrev("Come back to me if you happen to lose the Lunch Box. I'll make his lunch again.");
+		qm.sendNextPrev("如果你不小心弄丢了午餐盒就回来找我。我会重新做一份。");
 	else if (status == 4){
 		qm.evanTutorial("UI/tutorial/evan/5/0" , 1);
 		qm.dispose();

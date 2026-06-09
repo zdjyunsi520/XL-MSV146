@@ -5,20 +5,20 @@
 */
 var job = [ 
 [[100, "Warrior"], [200, "Magician"], [300, "Bowman"], [400, "Thief"], [500, "Pirate"]], 
-[[1100, "Dawn Warrior"], [1200, "Blaze Wizard"], [1300, "Wind Archer"], [1400, "Night Walker"], [1500, "Thunder Breaker"]], 
-[[3200, "Battle Mage"], [3300, "Wild Hunter"], [3500, "Mechanic"]], 
+[[1100, "魂骑士"], [1200, "炎术士"], [1300, "风灵使者"], [1400, "夜行者"], [1500, "雷神"]], 
+[[3200, "战斗法师"], [3300, "豹弩游侠"], [3500, "Mechanic"]], 
 [[110, "Fighter"], [120, "Page"], [130, "Spearman"]], 
-[[210, "Wizard (F/P)"], [220, "Wizard (I/L)"], [230, "Cleric"]], 
-[[310, "Hunter"], [320, "Crossbow Man"]], 
+[[210, "火毒法师"], [220, "冰雷法师"], [230, "Cleric"]], 
+[[310, "Hunter"], [320, "弩弓手"]], 
 [[410, "Assassin"], [420, "Bandit"]], 
 [[510, "Brawler"], [520, "Gunslinger"]],
-[[3100, "Demon Slayer"], [3101, "Demon Avenger"]]]; 
+[[3100, "恶魔猎手"], [3101, "恶魔复仇者"]]]; 
 var status = 0; 
 var select;
 var destination = 2010000; //Lith Harbor
 
 function jobSelection(index) { 
-    var choose = "Please, select your job:" 
+    var choose = "请选择你的职业：" 
     for (var i = 0; i < job[index].length; i++) 
         choose += "\r\n#L" + job[index][i][0] + "#" + job[index][i][1] + "#l"; 
     cm.sendSimple(choose); 
@@ -31,7 +31,7 @@ function starterpack() {
     cm.gainItem(2000005, 50); // 50 Power Elixir
     cm.gainItem(1082146, 1); // Yellow WG 
 	cm.warp(destination, 0);
-	cm.sendOk("Welcome to Victoria Island! Enjoy your stay!~");
+	cm.sendOk("欢迎来到维多利亚岛！祝你旅途愉快！~");
 	cm.dispose();
 }
 
@@ -89,7 +89,7 @@ function proccespackage() {
 			case 530:
 			case 507: 
 			case 508: //pirates (mech/ cannoneer included)
-				cm.sendOk("You are obliged to receive the Pirate package!");
+				cm.sendOk("你有资格领取海盗礼包！");
 				cm.gainItem(1482029, 1); // Seraphim Knuckles 
 				cm.gainItem(1492000, 1); // pistol
 				cm.gainItem(2300000, 100); // bullets
@@ -117,7 +117,7 @@ function proccespackage() {
 				starterpack();
 				break;
 			default:
-				cm.sendOk("Hi there! Something went wrong in giving you a starter package! This might be because you are a job that is currently unknown to us, if so, report it at the forums!")
+				cm.sendOk("你好！发放新手礼包时出了点问题！这可能是因为你的职业是我们目前未知的，如果是这样，请到论坛报告！")
 				cm.dispose();
 	 }
 }
@@ -139,15 +139,15 @@ function action(mode, type, selection) {
     } 
     if (status == 0) { 
         if (cm.getPlayer().getLevel() >= 10 && cm.getPlayer().getLevel() < 50 ) 
-            cm.sendYesNo("Oh hello there! Here comes a though decision:\r\n\r\nEither stay on your current path, or change it by selecting a different job."); 
+            cm.sendYesNo("你好！现在面临一个重要的决定：\r\n\r\n要么继续当前的道路，要么选择一个不同的职业来改变方向。"); 
         else { 
-            cm.sendOk("You may not advance yet. You must be at least lvl 10 and below lvl 50 to proceed."); 
+            cm.sendOk("你还不能转职。你必须至少达到10级且不超过50级才能继续。"); 
             cm.dispose(); 
         } 
     } else if (status == 1) { 
-        cm.sendSimple("Please, pick a job:\r\n\r\n" + 
+        cm.sendSimple("请选择一个职业：\r\n\r\n" + 
 		"#L0#Adventurer#l\r\n" +
-		"#L1000#Knight of Cygnus#l\r\n" +
+		"#L1000#骑士团#l\r\n" +
 		"#L3000#Resistance#l\r\n" +
 		"#L3001#Demon#l\r\n" +
 		"#L501#Cannoneer#l\r\n" +
@@ -158,14 +158,14 @@ function action(mode, type, selection) {
 		"#L2004#Luminous#l\r\n" +
 		"#L3002#Xenon#l\r\n" +
 	/*	"#L6000#Kaiser#l\r\n" + */
-		"#L6001#Angelic Buster#l\r\n" +
+		"#L6001#天使破坏者#l\r\n" +
 		"#L2000#Aran#l\r\n" +
 		"#L4001#Hayato#l\r\n" +
 		"#L4002#Kanna#l\r\n" +
 		"#L5000#Mihile#l\r\n" +
 		"#L2000#Aran#l\r\n" +
 		"#L10000#Zero#l\r\n" +
-		"#L2000#Dual Blade#l\r\n");
+		"#L2000#双刀#l\r\n");
 	}else if (status == 2) {
         switch (selection) { 
             case 0: // Adventurer
@@ -244,7 +244,7 @@ function action(mode, type, selection) {
 		}
     } else if (status == 3) { 
         select = selection; 
-        cm.sendYesNo("Are you sure you want to Job Advance?"); 
+        cm.sendYesNo("你确定要转职吗？"); 
     } else if (status == 4) { 
         cm.getPlayer().changeJob(select); 
         proccespackage();

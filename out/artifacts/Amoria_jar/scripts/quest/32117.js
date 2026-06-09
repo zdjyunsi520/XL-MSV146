@@ -11,9 +11,9 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendAcceptDecline("Do you know Arwen or Rowen from Ellinia? They are former Ellinel Fairy Academy graduates. They might know of some places we teachers do not.\r\n\r\n #b#e(You will be moved to Ellinia if you accept.)");	
+	    qm.sendAcceptDecline("你认识魔法森林的阿尔温或罗温吗？她们是艾丽涅精灵学院的毕业生。她们可能知道一些老师们不知道的地方。\r\n\r\n #b#e（如果你接受，将被传送到魔法森林。）");	
 	} else if (status == 1) { 
-	    qm.sendNext("Please meet Arwen the Fairy in Ellinia");
+	    qm.sendNext("请去魔法森林找精灵阿尔温");
 	} else if (status == 2) { 
 		qm.warp(101000000,0);
 		qm.forceStartQuest();
@@ -30,11 +30,11 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("What do you want? I'm busy...");
+	    qm.sendNext("你想要什么？我很忙……");
 	} else if (status == 1) {
-	    qm.sendNextPrevS("(You tell Arwen what's going on.)",2);
+	    qm.sendNextPrevS("（你告诉阿尔温发生了什么事。）",2);
 	} else if (status == 2) {
-	    qm.sendNextPrev("Missing students? That sounds dangerous... Ellinel isn't the safest place to go missing.");
+	    qm.sendNextPrev("失踪的学生？听起来很危险……在艾丽涅失踪可不是什么好事。");
 	} else if (status == 3) {
 	    qm.forceCompleteQuest();
 		qm.gainExp(1900);

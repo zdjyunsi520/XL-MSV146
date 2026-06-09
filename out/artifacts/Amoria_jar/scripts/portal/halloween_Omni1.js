@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.playerMessage("It seems to be locked.");
+    pi.playerMessage("似乎被锁上了。");
 }

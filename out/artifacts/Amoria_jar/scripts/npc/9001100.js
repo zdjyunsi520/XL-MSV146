@@ -6,11 +6,11 @@ var type = null;
 function start() {
     if (cm.getPlayer().getMapId() == 913010000) {
 	    //Spawner
-            talk = "I will summon mobs to help you train.\r\n\r\n";
+            talk = "我会召唤怪物来帮助你训练。\r\n\r\n";
             for (var i = 0; i < mob2[0].length; i++)
                 talk += "#b#L"+i+"##o"+mob2[0][i]+"##l\r\n#k";
 			
-            cm.sendSimple(talk + "#r#L100#Cleardrops#l\r\n#L101#Kill All Monsters#l#k");
+            cm.sendSimple(talk + "#r#L100#清除掉落物#l\r\n#L101#消灭所有怪物#l#k");
         type = true;
     }else {
         if (type != false) {
@@ -32,30 +32,30 @@ function start() {
                     if (next) {
                         var q = cm.getEventManager("SpawnRoom");
                         if (q == null) {
-                            cm.sendOk("Unknown error occured");
+                            cm.sendOk("发生了未知错误");
                         } else {
                             q.startInstance(cm.getParty(), cm.getMap());
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("All players must be in map and above level 10.");
+                        cm.sendOk("所有玩家必须在地图中且等级在10级以上。");
                         cm.dispose();
                     }
                 } else {
-                    cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                    cm.sendOk("你不是队伍的队长，请让你的队长来和我说话。");
                     cm.dispose();
                 }
             } else {// Solo Warp
                 if (cm.getPlayer().getLevel() >= 10) {
                     var q = cm.getEventManager("SpawnRoom");
                     if (q == null) {
-                        cm.sendOk("Unknown error occured");
+                        cm.sendOk("发生了未知错误");
                     } else {
                         q.startInstance(cm.getPlayer(), cm.getMap());
                         cm.dispose();
                     }
                 } else {
-                    cm.sendOk("You have to be above level 10.");
+                    cm.sendOk("你必须达到10级以上。");
                     cm.dispose();
                 }
             }
@@ -81,7 +81,7 @@ function action(m,t,s) {
                 cm.dispose();
             }else{
                 if (cm.getPlayer().getMap().getMonsterCount() > 0) {
-                    cm.sendOk("Sorry, there are some mobs already spawned. Kill them first.");
+                    cm.sendOk("抱歉，已经有一些怪物被召唤出来了。请先消灭它们。");
                     cm.dispose();
                 }else{
 				var spawn = mob2[0][s];

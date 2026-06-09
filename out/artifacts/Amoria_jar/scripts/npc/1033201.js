@@ -8,25 +8,25 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		cm.sendPlayerToNpc("Afrien? Freud! Are you okay?");
+		cm.sendPlayerToNpc("阿弗里恩？弗洛伊德！你没事吧？");
 	} else if (status == 1) {
-		cm.sendNextNoESC("Mercedes... you survived.");
+		cm.sendNextNoESC("梅塞德斯……你活下来了。");
 	} else if (status == 2) {
-		cm.sendPlayerToNpc("Of course. I managed to seal him away. I can't let myself die for that. What about you? And the others? Where are they?");
+		cm.sendPlayerToNpc("当然。我成功封印了他。我不能让自己因此而死。你呢？其他人呢？他们在哪里？");
 	} else if (status == 3) {
-		cm.sendNextNoESC("We may have defeated the Black Mage, but he sent everyone flying in different directions with that last spell. We're lucky we ended up in the same place.");
+		cm.sendNextNoESC("我们可能打败了黑魔法师，但他最后一招把所有人都打飞到了不同的方向。我们能落在同一个地方真是幸运。");
 	} else if (status == 4) {
-		cm.sendPlayerToNpc("I didn't realiez how far away we ended up. At least we're safe. I feel so weak... and cold... has it always been snowy here? It's hot, and yet snow is falling. Strange...");
+		cm.sendPlayerToNpc("我没想到我们飞了这么远。至少我们安全了。我觉得好虚弱……好冷……这里一直是雪天吗？明明很热，却在飘雪。真奇怪……");
 	} else if (status == 5) {
-		cm.sendNextNoESC("You can't feel it? Mercedes, the great curse... has been place upon you, Freud, and the others. An icy, cold curse, clinging to you. It looks like the Black Mage isn't letting us off so easily..");
+		cm.sendNextNoESC("你感觉不到吗？梅塞德斯，强大的诅咒……已经降临在你、弗洛伊德和其他人身上。一种冰冷刺骨的诅咒，紧紧缠绕着你。看来黑魔法师不会轻易放过我们……");
 	} else if (status == 6) {
-		cm.sendPlayerToNpc("A c-curse... you should be able to survive it, but what about Freud? He looks weak...");
+		cm.sendPlayerToNpc("诅……诅咒……你应该能撑过去，但弗洛伊德怎么办？他看起来很虚弱……");
 	} else if (status == 7) {
-		cm.sendNextNoESC("I'll take care of him. For now, I'm more worried about you. You're the #bruler of the Elves.#k If the curse is on you, it'll be placed on #rall of the Elves!#k Hurry back to #bElluel#k If the #bBlack Mage's curse is on all of the Elves#k, then you must return to  your people.");
+		cm.sendNextNoESC("我会照顾他的。现在，我更担心你。你是#b精灵族的统治者#k。如果诅咒在你身上，那它会降临在#r所有精灵身上！#k快回到#b埃鲁埃尔#k去，如果#b黑魔法师的诅咒降临在所有精灵身上#k，那你必须回到你的族人身边。");
 	} else if (status == 8) {
-		cm.sendPlayerToNpc("...! All right! Afrien, we'll meet again!");
+		cm.sendPlayerToNpc("……！好的！阿弗里恩，我们会再见的！");
 	} else if (status == 9) {
-		cm.sendPlayerToNpc("(The other heroes will make it through somehow. For now, I'll return to town using my skill.)");
+		cm.sendPlayerToNpc("（其他英雄们总会想办法挺过去的。现在，我用技能回到城镇吧。）");
 	} else if (status == 10) {
 		cm.warp(910150001,0);
 		cm.dispose();

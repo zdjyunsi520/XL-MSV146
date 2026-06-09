@@ -8,48 +8,48 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (cm.isQuestActive(24007) || cm.isQuestFinished(24007)) {
-		cm.sendNext("Please, save us.");
+		cm.sendNext("请救救我们。");
 		cm.dispose();
 		return;
 	}
 	if (status == 0) {
-		cm.sendPlayerToNpc("Elders! You survived! What happened?");
+		cm.sendPlayerToNpc("长老们！你们活下来了！发生了什么？");
 	} else if (status == 1) {
-		cm.sendNextNoESC("A fierce, freezing curse has fallen upon the town, and you too, your Highness. From you, most of all, in fact. Is this the power of the Black Mage?");
+		cm.sendNextNoESC("一股强烈的冰冻诅咒降临在城镇上，也包括你，殿下。事实上，你身上的诅咒最为严重。这就是黑魔法师的力量吗？");
 	} else if (status == 2) {
-		cm.sendNextNoESC("The children are already trapped in ice. The adults will follow them; it takes time to freeze stronger elves, which is why you're alright, but we're not.", 1033204);
+		cm.sendNextNoESC("孩子们已经被冰封了。大人们也会步其后尘；冰封更强的精灵需要更多时间，这就是为什么你还无恙，但我们不行。", 1033204);
 	} else if (status == 3) {
-		cm.sendPlayerToNpc("This is my fault. I let the Black Mage curse us anyway...");
+		cm.sendPlayerToNpc("这是我的错。我让黑魔法师诅咒了我们……");
 	} else if (status == 4) {
-		cm.sendNextNoESC("So it is his doing... I knew it.", 1033203);
+		cm.sendNextNoESC("果然是他的所作所为……我就知道。", 1033203);
 	} else if (status == 5) {
-		cm.sendNextNoESC("The Black Mage has cursed our sovereign, and the curse has spread...");
+		cm.sendNextNoESC("黑魔法师诅咒了我们的君主，诅咒因此蔓延开来……");
 	} else if (status == 6) {
-		cm.sendPlayerToNpc("Please, I didn't mean for this to happen. I should've been more careful...");
+		cm.sendPlayerToNpc("求你了，我不是故意的。我应该更加小心的……");
 	} else if (status == 7) {
-		cm.sendNextNoESC("Even beyond the seal, the Black Mage wields such power... It is a miracle you were able to seal him.");
+		cm.sendNextNoESC("即使被封印了，黑魔法师还拥有如此强大的力量……你能封印他简直是个奇迹。");
 	} else if (status == 8) {
-		cm.sendNextNoESC("It is not your fault. No one could have stopped this. You are a hero.", 1033204);
+		cm.sendNextNoESC("这不是你的错。没有人能阻止这一切。你是一位英雄。", 1033204);
 	} else if (status == 9) {
-		cm.sendPlayerToNpc("I shouldn't have fought him at all! If only I knew this would happen... I've failed my people...");
+		cm.sendPlayerToNpc("我根本不该和他战斗！要是我知道会发生这种事就好了……我辜负了我的族人……");
 	} else if (status == 10) {
-		cm.sendNextNoESC("Don't say such things! Even if you let him be, he would have come for us sooner or later.", 1033204);
+		cm.sendNextNoESC("别这么说！即使你不理他，他迟早也会来找我们的。", 1033204);
 	} else if (status == 11) {
-		cm.sendNextNoESC("It is our fault, we have failed you, your Highness.");
+		cm.sendNextNoESC("是我们的错，我们辜负了你，殿下。");
 	} else if (status == 12) {
-		cm.sendPlayerToNpc("No! This isn't your fault! I don't regret fighting... I just regret failing to protect you.");
+		cm.sendPlayerToNpc("不！这不是你们的错！我不后悔战斗……我只后悔没能保护好你们。");
 	} else if (status == 13) {
-		cm.sendNextNoESC("This is not your burden alone. The decision to fight was the decision of the Elves, and we all share the results, whatever they may be.", 1033204);
+		cm.sendNextNoESC("这不只是你一个人的重担。战斗的决定是全体精灵的决定，无论结果如何，我们共同承担。", 1033204);
 	} else if (status == 14) {
-		cm.sendPlayerToNpc("...Everyone...");
+		cm.sendPlayerToNpc("……大家……");
 	} else if (status == 15) {
-		cm.sendNextNoESC("Regardless, we will survive. We will overcome this together. The hope for the Elves lives on as long as your Highness is safe.");
+		cm.sendNextNoESC("无论如何，我们会活下去的。我们会一起克服这一切。只要殿下安全，精灵族的希望就还在。");
 	} else if (status == 16) {
-		cm.sendNextNoESC("We can't stop the curse, but we can outlive it. We should seal Elluel before the curse can spread beyond the village. #bWe Elves should all slumber here, undisturbed.#k Time is on our side and we have nothing to worry about.", 1033204);
+		cm.sendNextNoESC("我们阻止不了诅咒，但我们可以熬过它。我们应该在诅咒蔓延到村外之前封印埃鲁埃尔。#b我们精灵应该在这里沉睡，不受打扰。#k 时间在我们这边，我们没什么好担心的。", 1033204);
 	} else if (status == 17) {
-		cm.sendNextNoESC("Eventually we will all awaken together. Not even the curse will last forever; we will emerge victors.");
+		cm.sendNextNoESC("最终我们会一起醒来。就连诅咒也不会永远持续；我们会成为胜利者。");
 	} else if (status == 18) {
-		cm.sendPlayerToNpc("Okay. I'll seal the village with my remaining strength...");
+		cm.sendPlayerToNpc("好的。我用我剩余的力量封印村庄……");
 		cm.forceStartQuest(24007, "1");
 		cm.dispose();
 	}

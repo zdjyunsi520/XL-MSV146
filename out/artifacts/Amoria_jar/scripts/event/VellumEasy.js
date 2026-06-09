@@ -88,7 +88,7 @@ function clearPQ(eim) {
 }
 
 function allMonstersDead(eim) {
-em.broadcastServerMsg(6, "The SAO Event has not spawned!", false);
+em.broadcastServerMsg(6, "SAO活动尚未开始！", false);
 }
 
 //function playerRevive(eim, player) {

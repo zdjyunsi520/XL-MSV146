@@ -5,21 +5,21 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 2) {
-	    qm.sendNext("You still don't understand what's going on? I'll explain it to you again if you talk to me one more time.");
+	    qm.sendNext("你还不明白怎么回事吗？如果你再和我谈一次，我会再给你解释一遍。");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("#t4032315#... #rThis puppet is making a strange noise#k. You can't hear it with your ears, of course, since it can only be heard by the #o1210102#s. I believe it's this noise that changed the personality of the #o1210102#s.");
+	qm.sendNext("#t4032315#……#r这个傀儡正在发出奇怪的声音#k。你当然用耳朵听不到，因为只有#o1210102#s才能听到。我相信正是这个声音改变了#o1210102#s的性格。");
     } else if (status == 1) {
-	qm.askAcceptDecline("The #o1210102#s that have been affected by the noise have turned cynical. They've started fighting the non-affected #o1210102#s, which has made all #o1210102#s prepare for combat. #bThe reason for all these changes in the #o1210102#s is this puppet#k! Do you understand?");
+	qm.askAcceptDecline("受到声音影响的#o1210102#s变得愤世嫉俗了。它们开始与未受影响的#o1210102#s战斗，这使得所有#o1210102#s都进入了备战状态。#b所有这些#o1210102#s变化的罪魁祸首就是这个傀儡#k！你明白了吗？");
     } else if (status == 2) {
 	qm.forceStartQuest();
-	qm.sendNextS("I wonder what triggered this in the first place. There is no way this puppet was naturally created, which means someone planned this. I should keep an eye on the #o1210102#s.", 9);
+	qm.sendNextS("我想知道究竟是什么引发了这一切。这个傀儡不可能是自然产生的，这意味着有人策划了这一切。我应该继续关注#o1210102#s的动向。", 9);
     } else if (status == 3) {
-	qm.sendPrevS("#b(You were able to find out what caused the changes in the #o1210102#s. You should report to #p1002104# and deliver the information you''ve gathered.)#k", 2);
+	qm.sendPrevS("#b(你成功找到了导致#o1210102#s变化的原因。你应该向#p1002104#报告并传达你收集到的信息。)#k", 2);
 	qm.dispose();
     }
 }

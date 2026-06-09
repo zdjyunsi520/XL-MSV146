@@ -8,23 +8,23 @@ function action(mode, type, selection) {
     if (mode == 1) {
 	status++;
     } else {
-	cm.sendNext("#b(Once I hurried took my hand off the notice, the mystifying ayra disappeared as well.)");
+	cm.sendNext("#b（当我匆忙将手从告示上移开时，神秘的气息也随之消散了。）");
 	cm.safeDispose();
 	return;
     }
 
     if (status == 0) {
-	cm.sendSimple("#e<Notice>#n \r\nAnyone with the temerity to challange the Mu Lung Training Tower shall visit the Tower immediately. - Mu Gong - \r\n#b#L0#Challange the Mu Lung Training Tower#l\r\n#b#L1#Read the notice in detail.#l")
+	cm.sendSimple("#e<告示>#n \r\n任何有胆量挑战武陵修炼塔的人，请立即前往修炼塔。——武公——\r\n#b#L0#挑战武陵修炼塔#l\r\n#b#L1#详细阅读告示。#l")
     } else if (status == 1) {
 	sel = selection;
 	if (sel == 1) {
-	    cm.sendNext("#e< Notice : Challange issued! >#n\r\nThis is Mu Gong, the rightful owner of Mu Lung Training Tower. A long time ago, I came to Mu Lung hoping to become a master, and now I have reached the point where I know I have reached the point where I know all Martial Arts. The owner of Mu Lung Training Tower was a weak individual who detested combat. That is why from here onwards, I'll be taking over the Mu Lung Training Tower.\r\nMu Lung Training Tower should be rightfully owned by the strongest individual in Mu Lung.\r\nIf you wish to learn from the very best, then take on the challange! I do not care if you wish to directly face me as well. I'll make sure to imprint greatness in every part of your body.");
+	    cm.sendNext("#e<告示：挑战书！>#n\r\n我是武公，武陵修炼塔的合法主人。很久以前，我来到武陵希望能成为一代宗师，如今我已经达到了知晓所有武术的境界。武陵修炼塔的前主人是一个厌恶战斗的弱者。因此，从今往后，我将接管武陵修炼塔。\r\n武陵修炼塔理应由武陵最强之人拥有。\r\n如果你想向最强者学习，那就来挑战吧！我不在乎你是否想直接面对我。我会确保将伟大铭刻在你身体的每一个角落。");
 	} else {
-	    cm.sendYesNo("#b(Once I laid my hands on the notice, a mystifying force started to surround me from head to toe.)#k\r\n\r\nWould you like to be transfered to Mulung Training Tower?");
+	    cm.sendYesNo("#b（当我将手放在告示上时，一股神秘的力量开始从头到脚包围着我。）#k\r\n\r\n你想被传送到武陵修炼塔吗？");
 	}
     } else if (status == 2) {
 	if (sel == 1) {
-	    cm.sendNextPrev("PS : It doesn't matter if you come by yourself, but if you're indeed the coward that I think you are, then you may also come in with your friends.");
+	    cm.sendNextPrev("附注：你一个人来也无所谓，但如果你真的是我认为的那种胆小鬼，你也可以带上你的朋友一起来。");
 	} else {
 	    cm.saveLocation("MULUNG_TC");
 	    cm.warp(925020000, 0);

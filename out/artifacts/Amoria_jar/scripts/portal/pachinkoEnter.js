@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.playerMessage(5, "This portal is not available at the moment.");
+    pi.playerMessage(5, "此传送门目前不可用。");
 }

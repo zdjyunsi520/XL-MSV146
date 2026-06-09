@@ -5,25 +5,25 @@ function action(mode, type, selection) {
     else 
 	status--;
     if (status == 0) {
-    	cm.sendNextS("There you are, #h0#! You''re late. Get over here.", 8);
+    	cm.sendNextS("你终于来了，#h0#!你迟到了。快过来。", 8);
     } else if (status == 1) {
-	cm.sendNextPrevS("What was the hold up? You scared or something?", 4, 2159002);
+	cm.sendNextPrevS("怎么耽搁了？你害怕了吗？", 4, 2159002);
     } else if (status == 2) {
-	cm.sendNextPrevS("Don''t be ridiculous.", 2);
+	cm.sendNextPrevS("别闹了。", 2);
     } else if (status == 3) {
-	cm.sendNextPrevS("You''re not s-s-scared at all? I am, a little b-b-bit... The grown-ups warned us never to venture into the #bVerne Mines#k... Plus, there are all those #rBlack Wings#k around, watching us, I just know it.", 4, 2159000);
+	cm.sendNextPrevS("你一-一点都不害怕吗？我有一-一点点...大人们警告过我们绝对不要进入#b维伦矿井#k...而且周围还有那么多#r黑色之翼#k在监视我们，我就是知道。", 4, 2159000);
     } else if (status == 4) {
-	cm.sendNextPrevS("We snuck here, Jun. No one saw us. No one''s watching us, okay? Come on, when else would we have ever gotten the chance to leave #bEdelstein#k? Don''t be a chicken.", 4, 2159002);
+	cm.sendNextPrevS("我们是偷偷溜出来的，琼。没有人看到我们。没有人在监视我们，好吗？拜托，我们什么时候还有机会离开#b埃德尔斯坦#k？别当胆小鬼。", 4, 2159002);
     } else if (status == 5) {
-	cm.sendNextPrevS("But what if we get in trouble?", 4, 2159000);
+	cm.sendNextPrevS("但如果我们惹上麻烦怎么办？", 4, 2159000);
     } else if (status == 6) {
-	cm.sendNextPrevS("Jun, we''re already here. If we''re going to get in trouble, let''s at least have some fun first. Let''s play hide-and-seek!", 8);
+	cm.sendNextPrevS("琼，我们已经到这里了。如果要惹麻烦，至少先玩个痛快吧。我们来玩捉迷藏！", 8);
     } else if (status == 7) {
-	cm.sendNextPrevS("Hide and seek?", 2);
+	cm.sendNextPrevS("捉迷藏？", 2);
     } else if (status == 8) {
-	cm.sendNextPrevS("Ugh, la-ame.", 4, 2159002);
+	cm.sendNextPrevS("呃，好无聊。", 4, 2159002);
     } else if (status == 9) {
-	cm.sendNextPrevS("Don''t be a brat, Von. What? Are you scared to hide all by yourself in these big, bad caves? *snicker* \r\n#h0#, since you were late, you''re it. Count to 10 and then come find us. No peeking.", 8);
+	cm.sendNextPrevS("别耍小性子，冯。怎么？你不敢一个人藏在这些又大又恐怖的洞穴里吗？*偷笑*\r\n#h0#，既然你迟到了，你来当找人的。数到10然后来找我们。不许偷看。", 8);
     } else if (status == 10) {
 	cm.warp(931000001, 1);
     	cm.dispose();

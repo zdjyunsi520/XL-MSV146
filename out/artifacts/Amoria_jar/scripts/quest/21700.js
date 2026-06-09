@@ -5,27 +5,27 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 4) {
-	    qm.sendNext("No? Are you saying you can train on your own? I'm just letting you know that you'll get better results if you train with an instructor. You can't live in this world alone. You must learn to get along with other people.");
+	    qm.sendNext("不要？你是说你可以自己训练？我只是告诉你，如果跟着教官一起训练效果会更好。你不能独自一人生活在这个世界上。你必须学会与他人相处。");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNextS("It seems like you've started to remember things. Your Polearm must have recognized you. This means you are surely #bAran, the wielder of Polearms#k. Is there anything else you remember? Skills you used with the Polearm perhaps? Anything?", 8);
+	qm.sendNextS("看来你开始记起一些东西了。你的战戟一定认出了你。这意味着你肯定是#b战神，战戟的使用者#k。你还记得什么吗？也许是用战戟使用的技能？什么都可以？", 8);
     } else if (status == 1) {
-	qm.sendNextPrevS("#b(You tell her that you remember a few skills.)#k", 2);
+	qm.sendNextPrevS("#b(你告诉她你记起了一些技能。)#k", 2);
     } else if (status == 2) {
-	qm.sendNextPrevS("That's not a lot, but it's progress. Our focus, then, should be to get you back to the state before you were frozen. You may have lost your memory, but I'm sure it won't take long for you to recover the abilities that your body remembers.", 8);
+	qm.sendNextPrevS("虽然不多，但这是进步。那么我们的重点应该是让你恢复到被冰封之前的状态。你虽然失去了记忆，但我相信要恢复你身体记住的能力不会花太长时间。", 8);
     } else if (status == 3) {
 	qm.sendNextPrevS('How do I recover my abilities?', 2);
     } else if (status == 4) {
-	qm.askAcceptDecline("There is only one way to do that. Train! Train! Train! Train! If you continue to train, your body will instinctively remember its abilities. To help you through the process, I'll introduce you to an instructor.");
+	qm.askAcceptDecline("只有一种方法可以做到。训练！训练！训练！再训练！如果你持续训练，你的身体会本能地记住它的能力。为了帮助你完成这个过程，我给你介绍一位教官。");
     } else if (status == 5) {
 	qm.forceStartQuest();
-	qm.sendNext("I gave you a #bPolearm#k because I figured it would be best for you to use a weapon you're familiar with. It will be useful in your training.");
+	qm.sendNext("我给了你一把#b战戟#k，因为我觉得使用你熟悉的武器是最好的。它在你的训练中会很有用。");
     } else if (status == 6) {
-	qm.sendPrev("You'll find a Training Center if you exit to the #bleft#k. There, you''ll meet #b#p1202006##k. I'm a bit worried because I think he may be struggling with bouts of Alzheimer's, but he spent a long time researching skills to help you. I'm sure you'll learn a thing or two from him.");
+	qm.sendPrev("如果你往#b左边#k出口走，你会发现一个训练中心。在那里你会见到#b#p1202006##k。我有点担心，因为我觉得他可能在和老年痴呆症作斗争，但他花了很长时间研究能帮助你的技能。我相信你一定能从他那里学到一些东西。");
 	qm.dispose();
     }
 }

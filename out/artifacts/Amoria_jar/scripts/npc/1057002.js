@@ -27,7 +27,7 @@ if (mode == 1)
 else 
    status--;
     if (status == 0) { 
-		cm.sendYesNo("If you are a Blade Master, I can give you Phantom Blow and Final Cut if you don't already have them.\r\n\r\nWould you like to learn these skills?");
+		cm.sendYesNo("如果你是刀锋大师，我可以教你幻影打击和终结切割，如果你还没有的话。\r\n\r\n你想学习这些技能吗？");
 		
 	}
 }

@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 	return;
     } else if (mode == 0) {
 	if (status == 40) {
-	    qm.sendOk("I understand that you feel trepidations about helping out a strange town like Zipangu. I am the one that is unaffected by #bThe Spell of Acacia#k, which means I will have to risk my life to save this town from total destruction.");
+	    qm.sendOk("我理解你对帮助像桃花仙境这样的陌生城镇感到犹豫。我是唯一不受#b金合欢之咒#k影响的人，这意味着我必须冒着生命危险从毁灭中拯救这个城镇。");
 	    qm.dispose();
 	    return;
 	}
@@ -22,181 +22,181 @@ function start(mode, type, selection) {
     switch (status) {
 	case 0:
 	    if (qm.getQuestCustomData() != null) { // if (qm.getQuestCustomData().equals("readHistory")) {
-		qm.sendSimple("Good to see you back, Mapler. How did you fare against the goblin? #b \n\r #L0#I was able to defeat the monster of Ninja Castle!#l \n\r #L1#No, I wasn't able to.#l");
+		qm.sendSimple("很高兴你回来了，冒险家。你对那只鬼的结果如何？#b \n\r #L0#我打败了忍者城堡的怪物！#l \n\r #L1#不，我没打败。#l");
 		status = 99;
 	    } else {
-		qm.sendNext("My name is #p9120025#, and I am the protector of Zipangu at \n#m802000101#.");
+		qm.sendNext("我的名字是#p9120025#，我是桃花仙境在\n#m802000101#的守护者。");
 	    }
 	    break;
 	case 1:
-	    qm.sendNextPrev("(#p9120025# flashed a smile.)");
+	    qm.sendNextPrev("（#p9120025#露出了一丝微笑。）");
 	    break;
 	case 2:
-	    qm.sendNextPrev("Oh... I see that you have been making proper strides. \n\n&lt;Grit... you were right...&gt;");
+	    qm.sendNextPrev("哦……看来你一直在稳步前进。\n\n<格里特……你说得对……>");
 	    break;
 	case 3:
-	    qm.sendNextPrev("I remember when you first stepped into Maple Island, looking very green to say the least... and here you are, standing right in front of me looking every bit like a true Mapler. As someone that closely followed your path, I feel... a rush of satisfaction seeing you all grown up.\n\n(#p9120025# begins to well up)");
+	    qm.sendNextPrev("我还记得你第一次踏上枫之岛的时候，说实话当时看起来完全是个新手……而现在你站在我面前，看起来完全像一个真正的冒险家。作为一直关注你成长道路的人，看到你如此成长……我感到一阵满足。\n\n（#p9120025#开始眼眶湿润）");
 	    break;
 	case 4:
-	    qm.sendNextPrev("...I apologize for speaking in a way that makes you feel that I know you more than I really do. I'm sorry.");
+	    qm.sendNextPrev("……请原谅我以这种方式说话，让你觉得我比你想象的更了解你。对不起。");
 	    break;
 	case 5:
-	    qm.sendNextPrev("My task is to determine who actually has power, and who is in need of one.");
+	    qm.sendNextPrev("我的任务是判断谁真正拥有力量，谁需要力量。");
 	    break;
 	case 6:
-	    qm.sendNextPrev("And in the end, my ultimate goal is to find the person that is capable of rescuing Zipangu from destruction.");
+	    qm.sendNextPrev("而最终，我的最终目标是找到一个能够从毁灭中拯救桃花仙境的人。");
 	    break;
 	case 7:
-	    qm.sendNextPrev("This land right here is the lowest, most distant land you'll find in #m802000101#.");
+	    qm.sendNextPrev("这片土地是你在#m802000101#能找到的最低、最遥远的土地。");
 	    break;
 	case 8:
-	    qm.sendNextPrev("I will now give you a dose of truth on Zipangu.");
+	    qm.sendNextPrev("现在我要告诉你关于桃花仙境的真相。");
 	    break;
 	case 9:
 	    qm.sendNextPrev("Zipangu...");
 	    break;
 	case 10:
-	    qm.sendNextPrev("Zipangu... will be destroyed a 100 years from now.");
+	    qm.sendNextPrev("桃花仙境……将在100年后被毁灭。");
 	    break;
 	case 11:
-	    qm.sendNextPrev("...Yes, Zipangu will one day completely disappear from this world without a trace. I saw it with my own eyes how this ball of #bdistortion#k appeared from the sky and completely swallowed up Zipangu as a whole.");
+	    qm.sendNextPrev("……是的，桃花仙境总有一天会从这个世界上彻底消失，不留痕迹。我亲眼看到了那个#b扭曲#k球体从天而降，将整个桃花仙境完全吞噬。");
 	    break;
 	case 12:
-	    qm.sendNextPrev("Zipangu in the ancient days was a hotbed for black magic, and I am a magician in Zipangu who grew up learning the intricacies of the black magic.");
+	    qm.sendNextPrev("古代的桃花仙境是黑魔法的温床，我是在桃花仙境学习黑魔法的复杂奥秘中成长起来的魔法师。");
 	    break;
 	case 13:
-	    qm.sendNextPrev("At the time, Zipangu had strong ties with Magatia, sharing valuable informations with one another. You may be living in an age where science rules the world, but back in the day, Magatia was home to various studies regarding the black magic.");
+	    qm.sendNextPrev("当时，桃花仙境与玛加提亚关系密切，彼此分享宝贵的信息。你可能生活在一个科学主宰世界的时代，但在过去，玛加提亚是各种黑魔法研究的中心。");
 	    break;
 	case 14:
-	    qm.sendNextPrev("Magatia, the forefront of magic powers.\nThat's where I met a wizard, who taught me everything and... in the end... I was able to acquire a special power that allowed me to achieve #bimmortality#k.");
+	    qm.sendNextPrev("玛加提亚，魔法力量的前沿。\n在那里我遇到了一位巫师，他教会了我一切……最终……我获得了一种特殊的力量，让我实现了#b不朽#k。");
 	    break;
 	case 15:
-	    qm.sendNextPrev("It was the magic that no one could achieve until then. I used it wisely for the sake of Zipangu.\n As time went on, however, new generations came and went, and immortality became an outlawed practice. All of a sudden, I was considered an outcast, embraced by no one. I lost everything; fame, fortune, country, you name it, I lost it. In the end, I went into seclusion in the mountains of Zipangu, eager to use my power of immortality to view the apocalypse, the day the world ends for good.");
+	    qm.sendNextPrev("这是当时没有人能够实现的魔法。我为了桃花仙境明智地使用它。\n然而随着时间的推移，新一代来了又去，不朽成为了一种被禁止的修行。突然之间，我成了一个弃儿，无人接纳。我失去了一切；名声、财富、国家，你能想到的，我都失去了。最后，我隐居在桃花仙境的深山中，渴望用我不朽的力量去观看世界末日的景象。");
 	    break;
 	case 16:
-	    qm.sendNextPrev("But the apocalypse... came much, much sooner than I anticipated.");
+	    qm.sendNextPrev("但世界末日……来得比我预想的要快得多。");
 	    break;
 	case 17:
-	    qm.sendNextPrev("The moment Zipangu got swallowed up by a giant \n#bdistortion#k and vanished, I used a time-warp magic to enter the world after the vanishment. And that's where I found it.");
+	    qm.sendNextPrev("当桃花仙境被一个巨大的\n#b扭曲#k吞噬并消失的那一刻，我使用了时空扭曲魔法进入了消失后的世界。在那里我发现了真相。");
 	    break;
 	case 18:
-	    qm.sendNextPrev("That's where I found the truth of Zipangu.");
+	    qm.sendNextPrev("在那里我发现了桃花仙境的真相。");
 	    break;
 	case 19:
-	    qm.sendNextPrev("It turned out that the history of Zipangu is chronicled in a single book.");
+	    qm.sendNextPrev("原来桃花仙境的历史被记录在一本书中。");
 	    break;
 	case 20:
-	    qm.sendNextPrev("The history of Zipangu was just a reenactment of the contents listed in the book.");
+	    qm.sendNextPrev("桃花仙境的历史不过是书中内容的重演。");
 	    break;
 	case 21:
-	    qm.sendNextPrev("The fact that a supernatural book that chronicles every move of every resident of Zipangu exists... the book that's called #bAcacia Chronicle#k...");
+	    qm.sendNextPrev("一本记录桃花仙境每个居民一举一动的超自然书籍存在的事实……那本书叫做#b金合欢编年史#k……");
 	    break;
 	case 22:
-	    qm.sendNextPrev("I don't know about you, but I was furious. Furious at the thought of my life being pre-determined by this miniscule copy of a book...");
+	    qm.sendNextPrev("我不知道你怎么想，但我愤怒了。一想到我的人生被这本微不足道的书预先决定了……");
 	    break;
 	case 23:
-	    qm.sendNextPrev("In that world of distortion, I was able to get my hands on \n#bAcacia Chronicle#k, and started reading it.");
+	    qm.sendNextPrev("在那个扭曲的世界里，我弄到了\n#b金合欢编年史#k，开始阅读它。");
 	    break;
 	case 24:
-	    qm.sendNextPrev("And then I realized...");
+	    qm.sendNextPrev("然后我发现了……");
 	    break;
 	case 25:
-	    qm.sendNextPrev("I realized that #bAcacia Chronicle#k did not include informations about me.");
+	    qm.sendNextPrev("我发现#b金合欢编年史#k中并没有关于我的信息。");
 	    break;
 	case 26:
-	    qm.sendNextPrev("I was someone that did not exist, according to the book.");
+	    qm.sendNextPrev("按照书中的说法，我是一个不存在的人。");
 	    break;
 	case 27:
-	    qm.sendNextPrev("It might be that the reason why I was freed from the #bcurse of Acacia Chronicle#k was because I was able to form a close bond with someone outside Zipangu, which in the end led me to achieve #bimmortality#k.");
+	    qm.sendNextPrev("也许我之所以能从#b金合欢编年史的诅咒#k中解脱，是因为我能够与桃花仙境之外的人建立亲密的联系，最终让我获得了#b不朽#k。");
 	    break;
 	case 28:
-	    qm.sendNextPrev("It also remained to be seen whether #bAcacia Chronicle#k can be subject to change in contents for revised editions.");
+	    qm.sendNextPrev("此外，#b金合欢编年史#k的内容是否会在修订版中发生变化，还有待观察。");
 	    break;
 	case 29:
-	    qm.sendNextPrev("So my plan was to return to the past and alter the history myself, so the part where the #bdistortion#k appeared in the book would be destroyed at the last minute, and prevent Zipangu from a certain destruction.");
+	    qm.sendNextPrev("所以我的计划是回到过去，亲自改变历史，这样书中#b扭曲#k出现的部分会在最后一刻被销毁，从而防止桃花仙境遭受必然的毁灭。");
 	    break;
 	case 30:
-	    qm.sendNextPrev("But in the end, I realized that tampering with the past, even if it meant saving Zipangu, would be a foolish act.\nAltering the past through the book would most certainly wipe out the very existence of all those people that would be born in the future.");
+	    qm.sendNextPrev("但最终我意识到，篡改过去——即使是拯救桃花仙境——也是一种愚蠢的行为。\n通过书改变过去几乎肯定会抹去所有未来将会出生的人的存在。");
 	    break;
 	case 31:
-	    qm.sendNextPrev("In the end, I came to conclusion that the best course of action would be to alter the history of Zipangu RIGHT BEFORE the destruction.");
+	    qm.sendNextPrev("最终，我得出结论：最好的行动方案是在毁灭之前的那一刻改变桃花仙境的历史。");
 	    break;
 	case 32:
-	    qm.sendNextPrev("The problem is that altering the history is not a one-time deal. History has its ability to revise itself, so even if I alter a portion of it, the history would try to remedy that by returning to its pre-alteration stage.");
+	    qm.sendNextPrev("问题在于改变历史不是一次性的事情。历史有自我修正的能力，所以即使我改变了其中一部分，历史也会试图恢复到改变前的状态。");
 	    break;
 	case 33:
-	    qm.sendNextPrev("Today, I spend my days observing Zipangu which is right on the verge of destruction, with the starting point being #m802000101#.");
+	    qm.sendNextPrev("如今，我每天都在观察即将毁灭的桃花仙境，起点就在#m802000101#。");
 	    break;
 	case 34:
-	    qm.sendNextPrev("And... one more thing...");
+	    qm.sendNextPrev("还有……还有一件事……");
 	    break;
 	case 35:
-	    qm.sendNextPrev("I see a huge wave of history revision coming soon, and it's such that even I can't do anything about it.");
+	    qm.sendNextPrev("我看到一股巨大的历史修正浪潮即将来临，即使是我也无能为力。");
 	    break;
 	case 36:
-	    qm.sendNextPrev("I am fully aware that since this is all about Zipangu, it's only right that a resident of Zipangu should take care of this in-house.");
+	    qm.sendNextPrev("我很清楚既然这是关于桃花仙境的事，理应由桃花仙境的居民来内部解决。");
 	    break;
 	case 37:
-	    qm.sendNextPrev("Unfortunately, #bThe Spell of Acacia#k has prevented Zipanguans from directly altering the history themselves.");
+	    qm.sendNextPrev("不幸的是，#b金合欢之咒#k阻止了桃花仙境的人直接改变自己的历史。");
 	    break;
 	case 38:
-	    qm.sendNextPrev("For the future of Zipangu...");
+	    qm.sendNextPrev("为了桃花仙境的未来……");
 	    break;
 	case 39:
-	    qm.sendNextPrev("(#p9120025# suddenly gets down on her knees)");
+	    qm.sendNextPrev("（#p9120025#突然跪了下来）");
 	    break;
 	case 40:
-	    qm.sendYesNo("I would like for you to help us save Zipangu, the one that is unaffected by #bThe Spell of Acacia#k. Will you?");
+	    qm.sendYesNo("我希望你能帮助我们拯救桃花仙境，你是唯一不受#b金合欢之咒#k影响的人。你愿意吗？");
 	    break;
 	case 41:
 	    //	    qm.forceStartQuest();
 	    qm.setQuestCustomData("readHistory");
-	    qm.sendNextPrev("Thank you, Mapler... thank you...#p9120025# breathes a heavy sigh of relief)");
+	    qm.sendNextPrev("谢谢你，冒险家……谢谢……（#p9120025#如释重负地叹了口气）");
 	    break;
 	case 42:
-	    qm.sendNextPrev("With the kind of power you possess, I have no doubt in my mind that you are capable of holding your own against the powerful foes from era.");
+	    qm.sendNextPrev("以你拥有的力量，我毫不怀疑你能够对抗来自那个时代的强大敌人。");
 	    break;
 	case 43:
-	    qm.sendNextPrev("That being said... I want to see the extent of your power with my very own eyes.");
+	    qm.sendNextPrev("话虽如此……我想亲眼看看你的实力。");
 	    break;
 	case 44:
-	    qm.sendNextPrev("I had been in search of someone that possessed immense talent and power for the past few thousand years.\nThe era where Zipangu is on the verge of destruction is a scientifically-advanced era where the monsters you'll face against are beyond your wildest imagination.");
+	    qm.sendNextPrev("在过去的几千年里，我一直在寻找一个拥有巨大天赋和力量的人。\n桃花仙境即将毁灭的时代是一个科技高度发达的时代，你将面对的怪物超乎你的想象。");
 	    break;
 	case 45:
-	    qm.sendNextPrev("To find someone that's capable of battling those monsters, I formulated a test that'll weed out the bad candidates.");
+	    qm.sendNextPrev("为了找到能够与那些怪物战斗的人，我设计了一个测试来淘汰不合格的候选人。");
 	    break;
 	case 46:
-	    qm.sendNextPrev("Zipangu used to be divided by a number of forces, each hoping to conquer and unify the land.");
+	    qm.sendNextPrev("桃花仙境曾经被多个势力分割，每个势力都希望征服并统一这片土地。");
 	    break;
 	case 47:
-	    qm.sendNextPrev("The force that was the most prominent was the one that based itself on Ninja Castle. \nWith the outstanding soldiers they call Ninjas protecting the castle, Zipangu under the Ninja Castle was peaceful to say the least.");
+	    qm.sendNextPrev("其中最突出的势力是以忍者城为基地的那一支。\n有被称为忍者的杰出武士守卫着城堡，可以说忍者城统治下的桃花仙境至少是和平的。");
 	    break;
 	case 48:
-	    qm.sendNextPrev("This should have been the beginning of an era where peace and tranquility rule the land, but that wasn't the case. A goblin that noticed the immense power of ninjas decided to enter the body of the castle lord and wound up taking over the Ninja Castle.");
+	    qm.sendNextPrev("这本应是一个和平与安宁统治这片土地的时代的开始，但事实并非如此。一只注意到了忍者巨大力量的鬼怪决定进入城主的身体，最终夺取了忍者城的控制权。");
 	    break;
 	case 49:
-	    qm.sendNextPrev("For the next 10 years, the lord of the castle that was controlled by the goblin made life here miserable, but one day, a brave Samurai appeared in Zipangu and proceeded to defeat the goblin, bringing peace back to this place.");
+	    qm.sendNextPrev("在接下来的10年里，被鬼怪控制的城主让这里的生活苦不堪言，但有一天，一位勇敢的武士出现在桃花仙境，击败了鬼怪，为这个地方重新带来了和平。");
 	    break;
 	case 50:
-	    qm.sendNextPrev("In the history of Zipangu, monsters and goblins that possess the special powers of Ninjas have been notorious for their immense power.");
+	    qm.sendNextPrev("在桃花仙境的历史中，拥有忍者特殊力量的怪物和鬼怪以其巨大的力量而臭名昭著。");
 	    break;
 	case 51:
-	    qm.sendNextPrev("The goblin in the Ninja Castle, I believe, is a good indicator of gauging the powers of prospective candidates that will later battle the monsters of the future.");
+	    qm.sendNextPrev("我相信忍者城里的鬼怪是一个很好的标尺，可以衡量未来将与未来怪物战斗的候选人的实力。");
 	    break;
 	case 52:
-	    qm.sendNextPrev("I also realized that the goblin, which had reigned supreme for 10 years, does not affect the course of the future of Zipangu if defeated by an individual that is unaffected by \n#bThe Spell of Acacia#k.");
+	    qm.sendNextPrev("我还意识到，那只统治了10年的鬼怪，如果被一个不受\n#b金合欢之咒#k影响的人击败，并不会影响桃花仙境未来的进程。");
 	    break;
 	case 53:
-	    qm.sendNextPrev("I prepared the Worm Hole at Mushroom Shrine, which will allow one to travel to the past, and brought residents of the Maple World to the Ninja Castle to test out their strength and see whether they were strong enough to battle the monsters from the future.");
+	    qm.sendNextPrev("我在蘑菇神社准备了虫洞，可以让人穿越到过去，并把冒险岛世界的居民带到忍者城来测试他们的实力，看看他们是否足够强大来对抗未来的怪物。");
 	    break;
 	case 54:
-	    qm.sendNextPrev("If you cannot defeat the goblin in the castle, then you will not be able to even compete against those monsters from the future.");
+	    qm.sendNextPrev("如果你无法击败城堡中的鬼怪，那么你甚至无法与那些来自未来的怪物竞争。");
 	    break;
 	case 55:
-	    qm.sendNextPrev("I am sure you are plenty strong enough, but I want concrete proof that you can do it.");
+	    qm.sendNextPrev("我相信你已经足够强大了，但我需要确凿的证据证明你能做到。");
 	    break;
 	case 56:
-	    qm.sendNext("Please defeat the Ninja Goblin at the Ninja Castle and bring back the following items as proof: #b300 #t04000340#s, 1 #t04000342#, and 1 #t04000343#.");
+	    qm.sendNext("请击败忍者城的忍者鬼怪，并带回以下物品作为证明：#b300个#t04000340#，1个#t04000342#，和1个#t04000343#。");
 	    qm.dispose();
 	    break;
 	case 100:
@@ -205,7 +205,7 @@ function start(mode, type, selection) {
 		    status = 119;
 		    qm.sendNextPrev("Brilliant.");
 		} else {
-		    qm.sendNext("This isn't enough for me to gauge the extent of your power. I want you to defeat more monsters inside the castle and bring sufficient amount of evidence, okay? #b300 #t04000340#s, 1 #t04000342#, and 1 #t04000343#.");
+		    qm.sendNext("这还不足以让我评估你的实力。我希望你击败城堡里更多的怪物，带回足够的证据，好吗？#b300个#t04000340#，1个#t04000342#，和1个#t04000343#。");
 		    qm.dispose();
 		}
 	    } else {
@@ -214,28 +214,28 @@ function start(mode, type, selection) {
 		    qm.sendNextPrev("Brilliant.");
 		} else {
 		    status = 109;
-		    qm.sendNext("If you do not have evidence that you have defeated the goblin at the castle, then I can't send you to the future. The future is full of monsters that far exceeds that of the goblin.");
+		    qm.sendNext("如果你没有击败城堡鬼怪的证据，那我就不能把你送到未来。未来充满了远超鬼怪的怪物。");
 		}
 	    }
 	    break;
 	case 110:
-	    qm.sendNextPrev("Please defeat the goblin at Ninja Castle and bring me an evidence.");
+	    qm.sendNextPrev("请击败忍者城的鬼怪并给我带回证据。");
 	    break;
 	case 111:
-	    qm.sendPrev("I hear stories that you may buy your evidence at a place called Cash Shop... but if you are good at combat, then you really don't need to spend money on stuff like that. I already feel the wave of restoration hitting this place. I'll now leave it up to you.");
+	    qm.sendPrev("我听说你可以在一个叫做商城的地方买到证据……但如果你擅长战斗的话，你真的不需要在那上面花钱。我已经感受到了修复浪潮正在冲击这里。现在一切就交给你了。");
 	    qm.dispose();
 	    break;
 	case 120:
-	    qm.sendNextPrev("Now I know for sure that you are more than capable of battling the monsters of the future from Zipangu.");
+	    qm.sendNextPrev("现在我可以确定你完全有能力对抗桃花仙境未来的怪物。");
 	    break;
 	case 121:
-	    qm.sendNextPrev("I will now hand you a #bLv 1 Gate Pass#k. It's an evidence that you're from #m802000101#, and the pass is required for you to enter the future of Zipangu. Please do not lose this pass.");
+	    qm.sendNextPrev("现在我要给你一张#b1级通行证#k。这是你来自#m802000101#的证据，这张通行证是进入桃花仙境未来所必需的。请不要丢失这张通行证。");
 	    break;
 	case 122:
-	    qm.sendNextPrev("This will not enable you to open the door to Zipangu's future, and take part in altering the history of this great town.");
+	    qm.sendNextPrev("这将使你能够打开通往桃花仙境未来的大门，并参与改变这个伟大城镇的历史。");
 	    break;
 	case 123:
-	    qm.sendNextPrev("I have a mission for you right now that I'd like for you to accept immediately. Are you ready?");
+	    qm.sendNextPrev("我现在有一个任务需要你立即接受。你准备好了吗？");
 	    break;
 	case 124:
 	    qm.gainItem(4000343, -1);
@@ -245,16 +245,16 @@ function start(mode, type, selection) {
 	    qm.dispose();
 	    break;
 	case 130:
-	    qm.sendNextPrev("Now I know for sure that you are more than capable of battling the monsters of the future from Zipangu.");
+	    qm.sendNextPrev("现在我可以确定你完全有能力对抗桃花仙境未来的怪物。");
 	    break;
 	case 131:
-	    qm.sendNextPrev("I will now hand you a #bLv 1 Gate Pass#k. It's an evidence that you're from #m802000101#, and the pass is required for you to enter the future of Zipangu. Please do not lose this pass.");
+	    qm.sendNextPrev("现在我要给你一张#b1级通行证#k。这是你来自#m802000101#的证据，这张通行证是进入桃花仙境未来所必需的。请不要丢失这张通行证。");
 	    break;
 	case 132:
-	    qm.sendNextPrev("This will not enable you to open the door to Zipangu's future, and take part in altering the history of this great town.");
+	    qm.sendNextPrev("这将使你能够打开通往桃花仙境未来的大门，并参与改变这个伟大城镇的历史。");
 	    break;
 	case 133:
-	    qm.sendNextPrev("I have a mission for you right now that I'd like for you to accept immediately. Are you ready?");
+	    qm.sendNextPrev("我现在有一个任务需要你立即接受。你准备好了吗？");
 	    break;
 	case 134:
 	    qm.gainItem(5252002, -1);

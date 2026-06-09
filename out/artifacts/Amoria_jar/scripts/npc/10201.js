@@ -15,16 +15,16 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    cm.sendNext("If you wish to experience what it's like to be a Magician, come see me again.");
+	    cm.sendNext("如果你想体验魔法师的感觉，再来找我吧。");
 	    cm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("Magicians are armed with flashy element-based spells and secondary magic that aids party as a whole. After the 2nd job adv., the elemental-based magic will provide ample amount of damage to enemies of opposite element.");
+	cm.sendNext("魔法师拥有华丽的元素魔法和辅助整个队伍的次要魔法。在二转之后，元素魔法对相反属性的敌人将造成大量伤害。");
     } else if (status == 1) {
-	cm.sendYesNo("Would you like to experience what it's like to be a Magician?");
+	cm.sendYesNo("你想体验一下魔法师的感觉吗？");
     } else if (status == 2) {
 	cm.MovieClipIntroUI(true);
 	cm.warp(1020200, 0); // Effect/Direction3.img/magician/Scene00

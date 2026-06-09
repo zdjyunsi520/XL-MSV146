@@ -1,3 +1,6 @@
 function start() {
 	cm.sendOk("#r欢迎来到RoyalMS！#k                                                                          #b关于我们：#k                                                                                              我们目前是一个v117.1低倍率服务器，致力于让玩家满意。这是一个有趣友好的服务器。在RoyalMS，我们致力于让你的游戏体验更加愉快。我们对服务器的任何建议都持开放态度。请在论坛的建议板块发表你的建议。                                                                            #b信息：#k                                                                                             -我们的网站是RoyalMS.co                                                              -我们的论坛是Royalms.zapto.org/forum                                                                             #b当前活动：#k                                                                                         经验值双倍持续到2月20日！开始练级吧！                                                                                #b请记住：#k                                                                                                  我们正在招聘程序员、美术设计师和论坛管理员。请为我们投票/捐赠！                                                                                                #g祝你游戏愉快！#k                                                                                                       #r诚挚的，Royal团队#k");
 }
+function action(mode, type, selection) {
+    cm.dispose();
+}

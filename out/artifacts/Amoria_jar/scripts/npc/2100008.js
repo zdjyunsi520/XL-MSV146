@@ -43,16 +43,16 @@ function action(mode, type, selection) {
  % 100));
 					}
 				}
-				cm.sendStyle("Hmmm... Face of beauty glows even under cover and burning desert. With #bAriant face coupon(VIP)#k, I can make your face so much better. Choose the face you want, and I will pull out my outstanding skill for the great make over.", facenew);
+				cm.sendStyle("嗯……美丽的容颜即使在遮蔽和灼热的沙漠下也会发光。有了#b阿里安特整形优惠券（VIP）#k，我可以让你的脸变得更加美丽。选择你想要的脸型，我将用我精湛的技艺为你做一次华丽的改造。", facenew);
 			}
 		else if (status == 1){
 			cm.dispose();
 			if (cm.haveItem(5152030) == true){
 				cm.gainItem(5152030, -1);
 				cm.setFace(facenew[selection]);
-				cm.sendOk("Enjoy your new and improved face!");
+				cm.sendOk("享受你全新的面容吧！");
 			} else {
-				cm.sendNext("Erm... You don't seem to have the exclusive coupon for this hospital. Without the coupon, I'm afraid I can't do it for you.");
+				cm.sendNext("呃……你似乎没有这家医院的专用优惠券。没有优惠券的话，恐怕我无法为你服务。");
 			}
 		}
 	}

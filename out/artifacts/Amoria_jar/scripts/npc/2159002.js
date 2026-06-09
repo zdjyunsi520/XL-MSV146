@@ -2,9 +2,9 @@ var status = -1;
 function action(mode, type, selection) {
     status++;
     if (status == 0) {
-    	cm.sendNext("If Jun''s too chicken, let''s leave him here. But why''s it have to be hide-and-seek? Let''s play something cool...");
+    	cm.sendNext("如果琼太胆小了，我们就把他留在这里。但为什么非要玩捉迷藏？我们玩点酷的吧...");
     } else if (status == 1) {
-	cm.sendNext("That''s not what I said...");
+	cm.sendNext("我不是那个意思...");
     	cm.dispose();
     }
 }

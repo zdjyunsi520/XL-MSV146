@@ -20,26 +20,26 @@ function action(mode, type, selection) {
 	    if (stage2leader == "done") {
 
 		if (eim.getProperty("stage2").equals("10")) { // Clear stage
-		    cm.sendNext("Congratulations! You've passed the 2nd stage. Hurry on now, to the 3rd stage.");
+		    cm.sendNext("恭喜！你已通过第2阶段。快去吧，前往第3阶段。");
 		    cm.removeAll(4001022);
 		    clear(2, eim, cm);
 		    cm.givePartyExp(2520);
 		    cm.dispose();
 		} else { // Not done yet
-		    cm.sendNext("Are you sure you've brought me #r10 Passes of Dimension#k? Please check again.");
+		    cm.sendNext("你确定带来了#r10张次元通行证#k吗？请再检查一遍。");
 		}
 		cm.dispose();
 	    } else {
-		cm.sendOk("Welcome to the 2nd stage. Go around, and collect #rPasses of Dimension#k from the boxes in this map. Be careful, one of the boxes will lead you into a trap. Once you're done, get your party members to hand all the #rPasses#k to you, then talk to me again.");
+		cm.sendOk("欢迎来到第2阶段。在地图中四处寻找，从箱子中收集#r次元通行证#k。小心，其中一个箱子会将你引入陷阱。完成后，让所有队员将#r通行证#k交给你，然后再和我说话。");
 		eim.setProperty("stage2leader","done");
 		cm.dispose();
 	    }
 	} else { // Members
-	    cm.sendNext("Welcome to the 2nd stage. Go around, and collect #rPasses of Dimension#k from the boxes in this map. Be careful, one of the boxes will lead you into a trap. Once you're done, hand all the #rPasses#k to your party leader.");
+	    cm.sendNext("欢迎来到第2阶段。在地图中四处寻找，从箱子中收集#r次元通行证#k。小心，其中一个箱子会将你引入陷阱。完成后，将所有#r通行证#k交给你们的队长。");
 	    cm.dispose();
 	}
     } else {
-	cm.sendNext("Congratulations! You've passed the 2nd stage. Hurry on now, to the 3rd stage.");
+	cm.sendNext("恭喜！你已通过第2阶段。快去吧，前往第3阶段。");
 	cm.dispose();
     }
 }

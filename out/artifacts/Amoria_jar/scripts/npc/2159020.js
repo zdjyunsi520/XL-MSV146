@@ -1,4 +1,4 @@
 function action(mode, type, selection) {
-    cm.sendNext("Haha! FOOLS! Prepare to die!");
+    cm.sendNext("哈哈！蠢货们！准备受死吧！");
     cm.dispose();
 }

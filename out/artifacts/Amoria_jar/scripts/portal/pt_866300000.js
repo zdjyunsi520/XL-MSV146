@@ -4,7 +4,7 @@
 */
 function enter(pi) {
 	if (pi.getMap().getAllMonstersThreadsafe().size() != 0) {
-	    pi.playerMessage(5, "Please, eliminate Vicky first!");
+	    pi.playerMessage(5, "请先消灭维基！");
 	    return;
 	} else {
     pi.openNpc(9390336, "BeastTamerQuestLine5");

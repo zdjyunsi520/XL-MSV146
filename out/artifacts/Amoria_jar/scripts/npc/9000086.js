@@ -12,7 +12,7 @@ function action(mode, type, selection) {
     status++;
     if (status == 0) {
         var mapid = cm.getPlayer().getMapId();
-        cm.sendYesNo("The closest continental station to your location is #m" + mapid + "#. Would you like to move to #b#m" + mapid + "##k?");
+        cm.sendYesNo("距离你最近的城镇车站是 #m" + mapid + "#。你想移动到 #b#m" + mapid + "##k?");
     } else if (status == 1) {
         cm.warp(104020100);
         cm.dispose();

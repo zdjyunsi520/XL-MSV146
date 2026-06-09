@@ -70,7 +70,7 @@ function end(eim) {
     if (eim.disposeIfPlayerBelow(100, 262010000)) {
 	em.setProperty("state", "0");
 		em.setProperty("leader", "true");
-   // eim.broadcastPlayerMsg(5, "Enter the Portal to your left, to leave.");
+   // eim.broadcastPlayerMsg(5, "请进入左侧的传送门离开。");
     }
 }
 
@@ -79,7 +79,7 @@ function clearPQ(eim) {
 }
 
 function allMonstersDead(eim) {
-eim.broadcastPlayerMsg(5, "Enter the Portal to your left, to leave.");
+eim.broadcastPlayerMsg(5, "请进入左侧的传送门离开。");
 }
 
 function playerRevive(eim, player) {

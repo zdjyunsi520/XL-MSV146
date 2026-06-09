@@ -3,7 +3,7 @@
 function start() {
     if (im.getInventory(1).getNumFreeSlot() < 1 || im.getInventory(2).getNumFreeSlot() < 2
         || im.getInventory(4).getNumFreeSlot() < 1) {
-        im.sendOk("Please make more inventory space.");
+        im.sendOk("请预留更多背包空间。");
         im.dispose();
         return;
     }

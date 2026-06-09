@@ -11,7 +11,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    cm.sendNext("Wait, are you not going to ride this?");
+	    cm.sendNext("我们是轿子的轿夫~！让轿夫带你去任何地方，甚至是樱花的忍者城~！");
 	    cm.dispose();
 	    return;
 	}
@@ -20,11 +20,11 @@ function action(mode, type, selection) {
     switch (cm.getMapId()) {
 	case 800040000: {
 	    if (status == 0) {
-		cm.sendNext("We are the bearers of palankeen~! Let the bearers take you anywhere, even to Sakura's Ninja Castle~!");
+		cm.sendNext("哦，什么？怎么了？你想去蘑菇神社吗？");
 	    } else if (status == 1) {
-		cm.sendYesNo("Oh what? What is it? Do you want to go visit Mushroom Shrine?");
+		cm.sendYesNo("好的，我知道了！交给我们吧，你眨眼的功夫就到了！哦，这不会花你一分钱。今天我心情好，免费让你坐！现在，感觉不错吧？好了，出发！");
 	    } else if (status == 2) {
-		cm.sendNext("Okay, I got it! Just let us do the work, and you'll get there in the blink of an eye! Oh, and this won't cost you any money. Today's a good day for me, so I'll just let you get on it for free! Now, doesn't that make you feel good or what? Anyway, off we go!");
+		cm.sendNext("哦，什么？怎么了？你想去忍者城吗");
 	    } else if (status == 3) {
 		cm.warp(800000000);
 		cm.dispose();
@@ -33,11 +33,11 @@ function action(mode, type, selection) {
 	}
 	default: {
 	    if (status == 0) {
-		cm.sendNext("We are the bearers of palankeen~! Let the bearers take you anywhere, even to Sakura's Ninja Castle~!");
+		cm.sendNext("哦，什么？怎么了？你想去蘑菇神社吗？");
 	    } else if (status == 1) {
-		cm.sendYesNo("Oh what? What is it? Do you want to go visit Ninja Castle");
+		cm.sendYesNo("哦，什么？怎么了？你想去忍者城吗");
 	    } else if (status == 2) {
-		cm.sendNext("Okay, I got it! Just let us do the work, and you'll get there in the blink of an eye! Oh, and this won't cost you any money. Today's a good day for me, so I'll just let you get on it for free! Now, doesn't that make you feel good or what? Anyway, off we go!");
+		cm.sendNext("哦，什么？怎么了？你想去忍者城吗");
 	    } else if (status == 3) {
 		cm.warp(800040000);
 		cm.dispose();

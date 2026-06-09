@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else 
 	status--;
     if (status == 0) {
-    	cm.sendOkS("Help us! These monsters are gonna eeeeat us!\r\n\r\n#b(Defeat all nearby monsters.)",4);
+    	cm.sendOkS("救救我们！这些怪物要吃掉我们了！\r\n\r\n#b（击败附近所有怪物。）",4);
     	cm.dispose();
     }
 }

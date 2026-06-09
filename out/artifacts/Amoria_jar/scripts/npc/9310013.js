@@ -5,6 +5,6 @@
 */
 
 function start() {
-    cm.sendOk("Don't you wish to fly high so you can touch the sky?");
+    cm.sendOk("你不想飞得高高的，触碰天空吗？");
     cm.dispose();
 }

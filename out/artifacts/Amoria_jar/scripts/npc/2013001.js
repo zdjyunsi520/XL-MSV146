@@ -9,12 +9,12 @@ function action(mode, type, selection) {
     }
     var em = cm.getEventManager("OrbisPQ");
     if (em == null) {
-	cm.sendOk("Please try again later.");
+	cm.sendOk("请稍后再试。");
 	cm.dispose();
 	return;
     }
     if (!cm.isLeader()) {
-	cm.sendOk("I only wish to speak to your leader!");
+	cm.sendOk("我只想和你们的队长说话！");
 	cm.dispose();
 	return;
     }
@@ -22,7 +22,7 @@ function action(mode, type, selection) {
 	for (var i = 4001044; i < 4001064; i++) {
 		cm.removeAll(i); //holy
 	}
-	cm.sendNext("Please save me, I've been trapped in the seal by Papa Pixie, the terror of our tower! He's misplaced all of our Minerva Statue's parts and we have to get it all back! Oh pardon me, I am the tower's Chamberlain, Eak. I am Minerva's royal servant. Please, help me by placing 20 Cloud Pieces in the orb you see!");
+	cm.sendNext("请救救我，我被小精灵帕帕——我们塔中的恐怖存在——困在了封印中！他把我们弥涅尔瓦雕像的所有部件都弄丢了，我们必须全部找回来！哦，失礼了，我是这座塔的管家伊克。我是弥涅尔瓦的皇家仆人。请帮帮忙，将20个云朵碎片放入你看到的宝珠中！");
 	cm.dispose();
 	return;
     }
@@ -35,15 +35,15 @@ function action(mode, type, selection) {
 		if (em.getProperty("finished").equals("0")) {
 		    cm.warpParty(920010800); //GARDEN.	
 		} else {
-		    cm.sendOk("Thank you for saving Minerva! Please, talk to her!");
+		    cm.sendOk("感谢你救了弥涅尔瓦！请和她说话！");
 		}
 	    } else {
-		cm.sendOk("Please, save Minerva! Gather the six pieces of her statue and talk to me to retrieve the final piece!");
+		cm.sendOk("请拯救弥涅尔瓦！收集她雕像的六块碎片，然后和我对话以获取最后一块！");
 	    } 
 	    break;
 	case 920010200: //walkway
 	    if (!cm.haveItem(4001050,30)) {
-		cm.sendOk("Gather the 30 Statue Pieces from the monsters in this stage, and please bring them to me so I can put them together!");
+		cm.sendOk("从本关怪物身上收集30个雕像碎片，然后带给我，让我把它们拼起来！");
 	    } else {
 		cm.removeAll(4001050);
 		cm.gainItem(4001044,1); //first piece
@@ -53,7 +53,7 @@ function action(mode, type, selection) {
 	    break;
 	case 920010300: //storage
 	    if (!cm.haveItem(4001051,15)) {
-		cm.sendOk("Gather the 15 Statue Pieces from the monsters in this stage, and please bring them to me so I can put them together!");
+		cm.sendOk("从本关怪物身上收集15个雕像碎片，然后带给我，让我把它们拼起来！");
 	    } else {
 		cm.removeAll(4001051);
 		cm.gainItem(4001045,1); //second piece
@@ -63,7 +63,7 @@ function action(mode, type, selection) {
 	    break;
 	case 920010400: //lobby
 	    if (em.getProperty("stage3").equals("0")) {
-		cm.sendOk("Please, find the LP for the current day of week and place it on the music player.\r\n#v4001056#Sunday\r\n#v4001057#Monday\r\n#v4001058#Tuesday\r\n#v4001059#Wednesday\r\n#v4001060#Thursday\r\n#v4001061#Friday\r\n#v4001062#Saturday\r\n");
+		cm.sendOk("请找到对应今天星期几的LP唱片，放到音乐播放器上。\r\n#v4001056#星期日\r\n#v4001057#星期一\r\n#v4001058#星期二\r\n#v4001059#星期三\r\n#v4001060#星期四\r\n#v4001061#星期五\r\n#v4001062#星期六\r\n");
 	    } else if (em.getProperty("stage3").equals("1")) {
 		if (cm.canHold(4001046,1)) {
 		    cm.gainItem(4001046,1); //third piece
@@ -71,10 +71,10 @@ function action(mode, type, selection) {
 		    clear();
 		    em.setProperty("stage3", "2");
 		} else {
-		    cm.sendOk("Please make room!");
+		    cm.sendOk("请腾出空间！");
 		}
 	    } else {
-		cm.sendOk("Thank you so much!");
+		cm.sendOk("非常感谢你！");
 	    }
 	    break;
 	case 920010500: //sealed
@@ -87,7 +87,7 @@ function action(mode, type, selection) {
 		    total += z;
 		}
 		if (total != 3) {
-		    cm.sendOk("There needs to be 3 players OR items on the platforms.");
+		    cm.sendOk("平台上需要有3名玩家或物品。");
 		} else {
 		    var num_correct = 0;
 		    for (var i = 0; i < 3; i++) {
@@ -102,26 +102,26 @@ function action(mode, type, selection) {
 			    cm.givePartyExp(3500);
 	    		    em.setProperty("stage4", "1");
 			} else {
-			    cm.sendOk("Please make room!");
+			    cm.sendOk("请腾出空间！");
 			}
 		    } else {
     	    		cm.showEffect(true, "quest/party/wrong_kor");
     	    		cm.playSound(true, "Party1/Failed");
 			if (num_correct > 0) {
-			    cm.sendOk("One of the platforms is correct.");
+			    cm.sendOk("有一个平台是正确的。");
 			} else {
-			    cm.sendOk("All of the platforms are wrong.");
+			    cm.sendOk("所有平台都不对。");
 			}
 		    }
 		}
 	    } else {
-		cm.sendOk("The portal is opened! Go!");
+		cm.sendOk("传送门已开启！走吧！");
 	    }
 	    cm.dispose();
 	    break;
 	case 920010600: //lounge
 	    if (!cm.haveItem(4001052,30)) {
-		cm.sendOk("Gather the 30 Statue Pieces from the monsters in this stage, and please bring them to me so I can put them together!");
+		cm.sendOk("从本关怪物身上收集30个雕像碎片，然后带给我，让我把它们拼起来！");
 	    } else {
 		cm.removeAll(4001052);
 		cm.gainItem(4001048,1); //fifth piece
@@ -142,7 +142,7 @@ function action(mode, type, selection) {
 		    }
 	    	}
 		if (total != 2) {
-		    cm.sendOk("There needs to be 2 levers at the top of the map pushed on.");
+		    cm.sendOk("地图顶部的两个拉杆需要有2个被拉下。");
 		} else {
 		    var num_correct = 0;
 		    for (var i = 0; i < 3; i++) {
@@ -157,30 +157,30 @@ function action(mode, type, selection) {
 			    cm.givePartyExp(3500);
 	    		    em.setProperty("stage6", "1");
 			} else {
-			    cm.sendOk("Please make room!");
+			    cm.sendOk("请腾出空间！");
 			}
 		    } else {
     	    		cm.showEffect(true, "quest/party/wrong_kor");
     	    		cm.playSound(true, "Party1/Failed");
 			if (num_correct >= 1) { //this should always be true
-			    cm.sendOk("One of the levers is correct.");
+			    cm.sendOk("有一个拉杆是正确的。");
 			} else {
-			    cm.sendOk("Both of the levers are wrong.");
+			    cm.sendOk("两个拉杆都不对。");
 			}
 		    }
 		}
 	    } else {
-		cm.sendOk("Thank you!!");
+		cm.sendOk("谢谢你们！！");
 	    }
 	    break;
 	case 920010800:
-	    cm.sendNext("Please, find a way to defeat Papa Pixie! Once you've found the Dark Nependeath by placing seeds, you've found Papa Pixie! Defeat it, and get the Root of Life to save Minerva!!!"); 
+	    cm.sendNext("请想办法打败小精灵帕帕！通过种植种子找到暗黑奈佩图斯，你就找到了帕帕！打败它，获得生命之根来拯救弥涅尔瓦！！！"); 
 	    break;
 	case 920010900:
-	    cm.sendNext("This is the jail of the tower. You may find some goodies here, but other than that I don't think we have any pieces here."); 
+	    cm.sendNext("这是塔中的牢房。你可能会在这里找到一些好东西，但除此之外我觉得我们这里没有什么碎片。"); 
 	    break;
 	case 920011000:
-	    cm.sendNext("This is the hidden room of the tower. You may find some goodies here, but other than that I don't think we have any pieces here."); 
+	    cm.sendNext("这是塔中的密室。你可能会在这里找到一些好东西，但除此之外我觉得我们这里没有什么碎片。"); 
 	    break;
     }
     cm.dispose();

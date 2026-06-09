@@ -8,9 +8,9 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 		if (cm.getPlayer().getLevel() < 40) {
-			cm.sendYesNo("Would you like to move to Marbas's Strolling Place?");
+			cm.sendYesNo("你需要低于40级并且拥有玛尔巴斯的项链才能进入。");
 		} else {
-			cm.sendOk("You need to be less than level 40 and need the Marbas's Necklace to enter.");
+			cm.sendOk("你需要低于40级并且拥有玛尔巴斯的项链才能进入。");
 			cm.dispose();
 		}
 } else {

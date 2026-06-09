@@ -7,7 +7,7 @@ function action(mode, type, selection) {
 	return;
     }
     if (!cm.canHold(4001130,1)) {
-	cm.sendOk("I will need 1 ETC space.");
+	cm.sendOk("我需要1个其他栏空位。");
 	cm.dispose();
 	return;
     }

@@ -8,12 +8,12 @@ function start(mode, type, selection) {
     if (mode == 1) {
 	status++;
     } else {
-	qm.sendNext("...What is it? Ah, I see that he's coming really close!");
+	qm.sendNext("……什么事？啊，我看到他正在逼近！");
 	qm.dispose();
 	return;
     }
     if (status == 0) {
-	qm.askAcceptDecline("Watch out, because he seems... much more powerful than before. Do not underestimate him!");
+	qm.askAcceptDecline("小心，他看起来……比以前更强大了。不要轻敌！");
     } else if (status == 1) {
 	qm.forceStartQuest();
 	qm.dispose();

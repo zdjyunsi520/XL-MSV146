@@ -6,9 +6,9 @@ function enter(pi) {
 	    map.respawn(true);
 	    pi.warp(913010200, 0);
 	} else {
-	    pi.playerMessage("Someone is already attempting to defeat the boss. Better come back later.");
+	    pi.playerMessage("已经有人在挑战BOSS了，请稍后再来。");
 	}
     } else {
-	pi.playerMessage("The only way to enter the hall #3 is if you're training for the Level 100 skills.");
+	pi.playerMessage("只有修炼100级技能的人才能进入大厅#3。");
     }
 }

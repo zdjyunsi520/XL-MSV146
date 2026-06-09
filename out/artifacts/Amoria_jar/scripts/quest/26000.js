@@ -12,10 +12,10 @@ function start(mode, type, selection) {
 	    return;
 	}
 	if (status == 0) {
-	    qm.sendYesNo("The Guild supplies have arrived. Here, take them, and don't complain about the amount. You can always get more when your Guild level goes up.");
+	    qm.sendYesNo("公会物资已经到了。拿着，别抱怨数量。当你的公会等级提升时你总是可以获得更多的。");
         } else {
 	    if (!qm.canHold(2002037, qm.getGuild().getLevel() * 20)) {
-		qm.sendOk("Please make some space");
+		qm.sendOk("请腾出一些空间");
 	    } else {
 		qm.gainItemPeriod(2002037, qm.getGuild().getLevel() * 20, 7);
 	        qm.forceCompleteQuest();
@@ -35,10 +35,10 @@ function end(mode, type, selection) {
 	    return;
 	}
 	if (status == 0) {
-	    qm.sendYesNo("The Guild supplies have arrived. Here, take them, and don't complain about the amount. You can always get more when your Guild level goes up.");
+	    qm.sendYesNo("公会物资已经到了。拿着，别抱怨数量。当你的公会等级提升时你总是可以获得更多的。");
         } else {
 	    if (!qm.canHold(2002037, qm.getGuild().getLevel() * 20)) {
-		qm.sendOk("Please make some space");
+		qm.sendOk("请腾出一些空间");
 	    } else {
 		qm.gainItemPeriod(2002037, qm.getGuild().getLevel() * 20, 7);
 	        qm.forceCompleteQuest();

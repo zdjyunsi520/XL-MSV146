@@ -3,7 +3,7 @@ var status = -1;
 function start(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -12,15 +12,15 @@ function start(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendYesNo("Have you made your decision? The decision will be final, so think carefully before deciding what to do.");
+	qm.sendYesNo("你做出决定了吗？这个决定是最终的，所以在做决定之前请仔细考虑。");
     } else if (status == 1) {
-	qm.sendNext("I have just molded your body to make it perfect. If you wish to become more powerful, use Stat Window (S) to raise the appropriate stats. If you arn't sure what to raise, just click on #bAuto#k.");
+	qm.sendNext("我已经塑造了你的身体使其完美。如果你想变得更强大，使用属性窗口(S)来提升相应的属性。如果你不确定该提升什么，只需点击#b自动#k。");
 	if (qm.getJob() == 3511) {
 	    qm.changeJob(3512);
 	    qm.forceCompleteQuest();
 	}
     } else if (status == 2) {
-	qm.sendNextPrev("Now... I want you to go out there and show the world how the Resistance operate.");
+	qm.sendNextPrev("现在……我希望你走出去向世界展示反抗者是如何行动的。");
 	qm.safeDispose();
     }
 }
@@ -28,7 +28,7 @@ function start(mode, type, selection) {
 function end(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -37,15 +37,15 @@ function end(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendYesNo("Have you made your decision? The decision will be final, so think carefully before deciding what to do.");
+	qm.sendYesNo("你做出决定了吗？这个决定是最终的，所以在做决定之前请仔细考虑。");
     } else if (status == 1) {
-	qm.sendNext("I have just molded your body to make it perfect. If you wish to become more powerful, use Stat Window (S) to raise the appropriate stats. If you arn't sure what to raise, just click on #bAuto#k.");
+	qm.sendNext("我已经塑造了你的身体使其完美。如果你想变得更强大，使用属性窗口(S)来提升相应的属性。如果你不确定该提升什么，只需点击#b自动#k。");
 	if (qm.getJob() == 3511) {
 	    qm.changeJob(3512);
 	    qm.forceCompleteQuest();
 	}
     } else if (status == 2) {
-	qm.sendNextPrev("Now... I want you to go out there and show the world how the Resistance operate.");
+	qm.sendNextPrev("现在……我希望你走出去向世界展示反抗者是如何行动的。");
 	qm.safeDispose();
     }
 }

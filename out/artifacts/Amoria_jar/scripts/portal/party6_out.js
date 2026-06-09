@@ -7,6 +7,6 @@ function enter(pi) {
 		pi.gainNX(2000);
 		pi.gainItem(4001198,1);
 	} else {
-		pi.playerMessage(5, "Please eliminate the Poison Golem and have room");
+		pi.playerMessage(5, "请消灭毒液石像人并腾出空间");
 	}
 }

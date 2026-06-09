@@ -11,19 +11,19 @@ function enter(pi) {
 	if (map == 105200310) {
 			if (pi.getMap().getAllMonstersThreadsafe().size() == 1) {
 				pi.warp(105200000,0);
-			    pi.playerMessage("You have Run from the fight you pussy...");
+			    pi.playerMessage("你这个逃兵...从战斗中逃跑了...");
 			 } else { 
 		//	 pi.gainExp(12500000);
-		     pi.playerMessage("Congrats on defeating the Queen!");
+		     pi.playerMessage("恭喜击败了女王！");
 		     pi.warp(105200000,0);
 	         }
 	} else if (map == 105200210) {
 			if (pi.getMap().getAllMonstersThreadsafe().size() == 1) {
 				pi.warp(105200000,0);
-				pi.playerMessage("You run from the fight");
+				pi.playerMessage("你从战斗中逃跑了");
 			 } else {
 	  //       pi.gainExp(12500000);
-	      	pi.playerMessage("Congrats on defeating Pierre the Phyco Path!");
+	      	pi.playerMessage("恭喜击败了疯子皮埃尔！");
 	    	pi.warp(105200000,0);
 	        }
     }

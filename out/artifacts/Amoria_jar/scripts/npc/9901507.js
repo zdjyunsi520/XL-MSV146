@@ -23,15 +23,15 @@ function action(mode, type, selection) {
 
 function startChat(selection) {
     if (chat == 0)
-        cm.sendSimple("Ello there, I'm the ID Shop.\r\nWhat would you like me to do for you?\r\n#L0#Have an Item by it's ID#l\r\n#L1#Look up for an Item's ID");
+        cm.sendSimple("请输入物品ID：");
     else if (chat == 1) {
         switch (selection) {
             case 0:
-                cm.sendGetNumber("Enter Item's ID:", 0, 1002000, 6000000);
+                cm.sendGetNumber("请输入物品名称：", 0, 1002000, 6000000);
                 select = 0;
                 break;
             case 1:
-                cm.sendGetText("Enter Item's Name:");
+                cm.sendGetText("这是一个无效的物品。");
                 select = 1;
                 break;
         }
@@ -41,17 +41,17 @@ function startChat(selection) {
                 itemid = selection;
                 for (var i = 0; i < invalid.length; i++) {
                     if(itemid == invalid[i]){
-                        cm.sendOk("This is an invalid item.");
+                        cm.sendOk("请输入你需要的物品数量：");
                         cm.dispose();
                         return;
                     }
                 }
                 if (itemid >= 5000000 && itemid < 5010000 || itemid / 10000 == 210 || itemid >= 2003516 && itemid <= 2003520) {
-                    cm.sendOk("This is an invalid item.");
+                    cm.sendOk("请输入你需要的物品数量：");
                     cm.dispose();
                     return;
                 }
-                cm.sendGetNumber("Enter the amount you want for the item:", 1, 1, 100);
+                cm.sendGetNumber("看起来你无法持有该物品，请确认物品存在并确保你有足够的背包空间。", 1, 1, 100);
                 break;
             case 1:
                 cm.sendPrev(cm.searchId(4, cm.getText()));
@@ -65,7 +65,7 @@ function startChat(selection) {
                 if (cm.canHold(itemid, selection))
                     cm.gainItem(itemid, 1);
                 else {
-                    cm.sendOk("It seems that you can't hold the item, please check that the item exists and make sure you have enough inventory slots.");
+                    cm.sendOk("再见 :)");
                     cm.dispose();
                     return;
                 }
@@ -73,12 +73,12 @@ function startChat(selection) {
             if (cm.canHold(itemid, selection))
                 cm.gainItem(itemid, selection);
             else {
-                cm.sendOk("It seems that you can't hold the item, please check that the item exists and make sure you have enough inventory slots.");
+                cm.sendOk("再见 :)");
                 cm.dispose();
                 return;
             }
         }
-        cm.sendOk("Goodbye :)");
+        cm.sendOk("再见 :)");
     } else
         cm.dispose();
 }

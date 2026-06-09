@@ -9,6 +9,6 @@ function enter(pi) {
 		pi.gainItem(3994659,1);
         return;
 	} else {
-	pi.topMsg("You can't enter the Dining Chambers now.");
+	pi.topMsg("你现在不能进入餐厅。");
 	}
 }

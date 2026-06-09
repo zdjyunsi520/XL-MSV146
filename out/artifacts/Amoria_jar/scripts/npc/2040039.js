@@ -14,25 +14,25 @@ function action(mode, type, selection) {
 	    if (stage4leader == "done") {
 
 		if (cm.getMap(922010401).getAllMonstersThreadsafe().size() == 0 && cm.getMap(922010402).getAllMonstersThreadsafe().size() == 0 && cm.getMap(922010403).getAllMonstersThreadsafe().size() == 0 && cm.getMap(922010404).getAllMonstersThreadsafe().size() == 0 && cm.getMap(922010405).getAllMonstersThreadsafe().size() == 0) { // Clear stage
-		    cm.sendNext("Congratulations! You've passed the 2nd stage. Hurry on now, to the 3rd stage.");
+		    cm.sendNext("恭喜！你已通过第2阶段。快去吧，前往第3阶段。");
 		    cm.removeAll(4001022);
 		    clear(4,eim,cm);
 		    cm.givePartyExp(exp);
 		} else { // Not done yet
-		    cm.sendNext("Are you sure you've killed all the monsters? Please check again.");
+		    cm.sendNext("你确定已经消灭了所有怪物吗？请再检查一遍。");
 		}
 		cm.safeDispose();
 	    } else {
-		cm.sendOk("Welcome to the 2nd stage. Go around, and collect #rPasses of Dimension#k from the monsters in the dark maps. Once you're done, get your party members to hand all the #rPasses#k to you, then talk to me again.");
+		cm.sendOk("欢迎来到第2阶段。在地图中四处寻找，从黑暗地图中的怪物身上收集#r次元通行证#k。完成后，让所有队员将#r通行证#k交给你，然后再和我说话。");
 		eim.setProperty("stage4leader","done");
 		cm.safeDispose();
 	    }
 	} else { // Members
-	    cm.sendNext("Welcome to the 2nd stage. Go around, and collect #rPasses of Dimension#k from the monsters in the dark maps. Once you're done, hand all the #rPasses#k to your party leader.");
+	    cm.sendNext("欢迎来到第2阶段。在地图中四处寻找，从黑暗地图中的怪物身上收集#r次元通行证#k。完成后，将所有#r通行证#k交给你们的队长。");
 	    cm.safeDispose();
 	}
     } else {
-	cm.sendNext("Congratulations! You've passed the 2nd stage. Hurry on now, to the 3rd stage.");
+	cm.sendNext("恭喜！你已通过第2阶段。快去吧，前往第3阶段。");
 	cm.safeDispose();
     }
 }

@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("Go back to Erev to report about the situation.");
+	qm.sendNext("回埃雷布汇报情况。");
 	qm.forceStartQuest();
 	qm.forceCompleteQuest();
 	qm.dispose();

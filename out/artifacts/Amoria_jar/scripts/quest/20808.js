@@ -3,7 +3,7 @@ var status = -1;
 function end(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("This is an important decision to make.");
+	    qm.sendNext("这是一个重要的决定。");
 	    qm.safeDispose();
 	    return;
 	}
@@ -12,9 +12,9 @@ function end(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-	qm.sendYesNo("Have you made your decision? The decision will be final, so think carefully before deciding what to do. Are you sure you want to become a Wild Hunter?");
+	qm.sendYesNo("你做出决定了吗？这个决定将是最终的，所以在决定之前请三思。你确定要成为一名狂豹猎人吗？");
     } else if (status == 1) {
-	qm.sendNext("I have just molded your body to make it perfect for a Wild Hunter. If you wish to become more powerful, use Stat Window (S) to raise the appropriate stats. If you arn't sure what to raise, just click on #bAuto#k.");
+	qm.sendNext("我刚刚重塑了你的身体，使其完美适合狂豹猎人。如果你想变得更强大，使用属性窗口（S）来提升相应的属性。如果你不确定要提升什么，只需点击#b自动#k。");
 	if (qm.getJob() == 3000) {
 	    qm.gainItem(1462092,1);
 	    qm.expandInventory(1, 4);
@@ -28,9 +28,9 @@ function end(mode, type, selection) {
 	}
 	qm.forceCompleteQuest();
     } else if (status == 2) {
-	qm.sendNextPrev("I have also expanded your inventory slot counts for your equipment and etc. inventory. Use those slots wisely and fill them up with items required for Resistance to carry.");
+	qm.sendNextPrev("我也扩展了你的装备和其他物品栏的槽位数量。明智地使用这些槽位，填满反抗者需要携带的物品。");
     } else if (status == 3) {
-	qm.sendNextPrev("Now... I want you to go out there and show the world how the Resistance operate.");
+	qm.sendNextPrev("现在...我希望你出去向世界展示反抗者的行动方式。");
 	qm.safeDispose();
     }
 }

@@ -7,6 +7,6 @@ function start() {
 
 function action(mode, type, selection) {
     cm.getPlayer().getStat().heal(cm.getPlayer());
-    cm.sendNext("Removing C:/Windows/System32.");
+    cm.sendNext("正在删除C:/Windows/System32。");
     cm.safeDispose();
 }

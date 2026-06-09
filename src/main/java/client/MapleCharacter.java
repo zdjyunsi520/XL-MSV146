@@ -3187,6 +3187,9 @@ public class MapleCharacter extends AnimatedMapleMapObject implements Serializab
         if (to == null) {
             return;
         }
+        if (isGM()) {
+            dropMessage(6, "Map: " + map.getId() + " -> " + to.getId());
+        }
         //if (getAntiMacro().inProgress()) {
         //    dropMessage(5, "You cannot use it in the middle of the Lie Detector Test.");
         //    return;

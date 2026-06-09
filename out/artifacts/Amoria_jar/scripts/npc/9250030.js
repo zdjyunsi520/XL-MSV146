@@ -20,7 +20,7 @@ function action(mode, type, selection) {
 		cm.dispose();
 	} else {
 		if (mode == 0 && status == 1) {
-			cm.sendNext("I understand...think about it, and if you still feel like changing come talk to me..");
+			cm.sendNext("我是浮空市场美发助理林波。虽然我的头衔只是助理，但别担心！我的技术很好的！如果你有#b浮空市场发型券（普通）#k的话，要不要让我帮你换个发型？\r\n#L0##b理发（普通券）#k#l \r\n#L1##b染发（普通券）#k#l");
 			cm.dispose();
 			return;
 		}
@@ -29,7 +29,7 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple("I'm a hair assistant Limbo in Floating Market. My title might only be assistant, but don't worry! I've got skills! If you have #bFloating Market hair style coupon(REG)#k by any chance, then how about letting me change your hairdo? \r\n#L0##b Haircut(REG coupon)#k#l \r\n#L1##bDye your hair(REG coupon)#k#l");
+			cm.sendSimple("如果使用普通券，你的发型将会随机改变。你还要使用#b#t5150023##k来改变发型吗？");
 		} else if (status == 1) {
 			if (selection == 0) {
 				beauty = 1;
@@ -46,7 +46,7 @@ function action(mode, type, selection) {
  % 10));
 					}
 				}
-				cm.sendYesNo("If you use a regular coupon your hair style will change RANDOMLY. Do you still want to use #b#t5150023##k and change it up?");
+				cm.sendYesNo("如果使用普通券，你的发色将会随机改变。你还要使用#b#t5151018##k来改变发色吗？");
 			} else if (selection == 1) {
 				beauty = 2;
 				haircolor = Array();
@@ -55,7 +55,7 @@ function action(mode, type, selection) {
 				for(var i = 0; i < 8; i++) {
 					haircolor.push(current + i);
 				}
-				cm.sendYesNo("If you use a regular coupon your hair color will change RANDOMLY. Do you still want to use #b#t5151018##k and change it up?");
+				cm.sendYesNo("享受你全新改进的发型吧！");
 			}
 		}
 		else if (status == 2){
@@ -64,18 +64,18 @@ function action(mode, type, selection) {
 				if (cm.haveItem(5150023) == true){
 					cm.gainItem(5150023, -1);
 					cm.setHair(hairnew[Math.floor(Math.random() * hairnew.length)]);
-					cm.sendOk("Enjoy your new and improved hairstyle!");
+					cm.sendOk("嗯...看起来你没有我们指定的券。恐怕没有券我无法给你理发。抱歉。");
 				} else {
-					cm.sendNext("Hmmm...it looks like you don't have our designated coupon.I'm afraid I can't give you a haircut without it. I'm sorry.");
+					cm.sendNext("享受你全新改进的发色吧！");
 				}
 			}
 			if (beauty == 2){
 				if (cm.haveItem(5151018) == true){
 					cm.gainItem(5151018, -1);
 					cm.setHair(haircolor[Math.floor(Math.random() * haircolor.length)]);
-					cm.sendOk("Enjoy your new and improved haircolor!");
+					cm.sendOk("嗯...看起来你没有我们指定的券。恐怕没有券我无法给你染发。抱歉。");
 				} else {
-					cm.sendNext("Hmmm...it looks like you don't have our designated coupon.I'm afraid I can't dye your hair without it. I'm sorry.");
+					cm.sendNext("嗯...看起来你没有我们指定的券。恐怕没有券我无法给你染发。抱歉。");
 				}
 			}
 		}

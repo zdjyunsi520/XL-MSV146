@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNext("The ship isn't ready to set sail yet.");
+	    cm.sendNext("船还没有准备好启航。");
 		cm.dispose();
     }
 }

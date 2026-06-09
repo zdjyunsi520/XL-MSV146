@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendSelfTalk("Ouch! What is this place??? It looks like I am near the Golem Temple.. let's go to that portal over there on the left.");
+	    cm.sendSelfTalk("好痛！这是什么地方？？？看起来我在魔像神殿附近..让我们去左边那个传送口吧。");
         cm.spawnMonster(9390916,1,679,95);
 		cm.dispose();
     }

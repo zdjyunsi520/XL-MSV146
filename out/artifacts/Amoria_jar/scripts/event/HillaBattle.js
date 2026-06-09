@@ -81,7 +81,7 @@ function clearPQ(eim) {
 }
 
 function allMonstersDead(eim) {
-	eim.broadcastPlayerMsg(5, "You've..defeated Hilla..! You may exit at the left portal as you wish..");
+	eim.broadcastPlayerMsg(5, "你...击败了Hilla..! 你可以随意从左侧传送门离开..");
 }
 
 function leftParty (eim, player) {}

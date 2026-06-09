@@ -152,7 +152,7 @@ function playerDisconnected(eim, player) {
 function monsterValue(eim, mobId) {
     if (mobId == 9300137 || mobId == 9300138) {
 		em.setProperty("stage7", "1");
-		eim.broadcastPlayerMsg(5, "Romeo has been killed!"); // TODO: gms-like message xD
+		eim.broadcastPlayerMsg(5, "Romeo已被击杀！"); // TODO: gms-like message xD
 		//end(eim);
     } else if (mobId == 9300139 || mobId == 9300140) {
 			eim.getMapInstance(13).spawnNpc(2112003, new java.awt.Point(76, 150));

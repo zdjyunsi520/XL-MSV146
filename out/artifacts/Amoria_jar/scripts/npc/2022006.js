@@ -1,4 +1,4 @@
 function action(mode, type, selection) {
-    cm.sendNext("Haha! FOOLS! I have betrayed you and have unsealed Rex, the Hoblin King!");
+    cm.sendNext("哈哈！蠢货们！我背叛了你们，解开了霍布林王雷克斯的封印！");
     cm.dispose();
 }

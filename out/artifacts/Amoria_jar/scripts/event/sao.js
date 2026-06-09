@@ -68,7 +68,7 @@ function setup(chr) {
 function start() {
     setup();
 	scheduleNew();
-	//em.broadcastServerMsg(6, "Human Hunter July has spawned in [Golem's Temple Entrance] and is preparing to hunt you down!", false);
+	//em.broadcastServerMsg(6, "Human Hunter July 已出现在 [哥布林神殿入口] 并准备追捕你！", false);
 	em.broadcastServerMsg(6, "Hue\r\nHue", false);
     var iter = em.getInstances().iterator();
     while (iter.hasNext()) {

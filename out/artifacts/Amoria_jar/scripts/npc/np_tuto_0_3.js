@@ -1,14 +1,14 @@
 var status = -1;
 
 function start() {
-    cm.sendNextS("It's the guards from the royal palace! They must be buying time until the rest of the force gets here. We need to be gone before that happens!", 9);
+    cm.sendNextS("你派这些破铜烂铁来追我？我以为我的名声更好一些呢。", 9);
 }
 
 function action(mode, type, selection) {
     status++;
     switch (status) {
         case 1:
-            cm.sendNextPrevS("You're sending those pieces of junk after ME? I thought I had a better reputation than that.", 3);
+            cm.sendNextPrevS("你派这些破铜烂铁来追我？我以为我的名声更好一些呢。", 3);
             break;
         case 2:
             cm.dispose();

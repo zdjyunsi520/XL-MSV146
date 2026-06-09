@@ -5,7 +5,7 @@ Zakum Altar - Summons Zakum. 9999999
 function act() {
     rm.changeMusic("Bgm06/FinalFight");
 	rm.getMap().spawnZakum(-10, -215);
-    rm.mapMessage("Zakum is summoned by the force of eye of fire.");
+    rm.mapMessage("扎昆被火焰之眼的力量召唤出来了。");
 	if (!rm.getPlayer().isGM()) {
 		rm.getMap().startSpeedRun();
 	}

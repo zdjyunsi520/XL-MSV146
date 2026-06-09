@@ -18,17 +18,17 @@ function action(mode, type, selection) {
     }
      if (status == 0) {
 	 if (cm.getJob() == 312 || cm.getJob() == 322) {
-     cm.sendSimple("Hello again what can I do for you?\r\n\r\n#b#L2#I want to perform an open Job Advancement#l\r\n#L3#I would like some information about Open Job Advancement#l.");	 
+     cm.sendSimple("你好，有什么可以帮你的吗？\r\n\r\n#b#L2#我想要进行自由转职#l\r\n#L3#我想了解一些关于自由转职的信息#l。");	 
     } else if (cm.getQuestStatus(1455) == 1) { //1455 Bowman //1453 Mage //1451 Warrior //1457 Thief?
-     cm.sendSimple("I can take you to both of the places necessary for your fourth advancement \r\n\r\n\r\n#b#L0#Manon's Forest#l\r\n#L1#Griffey's Forest#l.");	 
+     cm.sendSimple("我可以带你前往第四次转职所需的两个地方。\r\n\r\n\r\n#b#L0#曼努斯的森林#l\r\n#L1#格里菲的森林#l。");	 
     } else {
-	 cm.sendSimple("Come see me if you want to make the 4th Advancement as a Bowman");
+	 cm.sendSimple("如果你想以弓箭手身份进行第四次转职，请来找我。");
 	 cm.dispose();
      }	
     }else if (status == 1) {
        if (selection == 0) {
 		   if (cm.getPlayerCount(924000200) >= 1) {
-	   cm.sendOk("There is already someone fighting the 4th job advancement boss try again later");
+	   cm.sendOk("已经有人在挑战第四次转职BOSS了，请稍后再试。");
 	   cm.dispose();
 	   } else {
 		   	   cm.warp(924000200);
@@ -37,7 +37,7 @@ function action(mode, type, selection) {
 	   }
     }  if (selection == 1) {
 		   if (cm.getPlayerCount(924000200) >= 1) {
-	   cm.sendOk("There is already someone fighting the 4th job advancement boss try again later");
+	   cm.sendOk("已经有人在挑战第四次转职BOSS了，请稍后再试。");
 	   cm.dispose();
 	   } else {
 		   	   cm.warp(924000201);
@@ -47,7 +47,7 @@ function action(mode, type, selection) {
     }  if (selection == 2) {
        cm.sendOpenJobChangeUI();
     }  if (selection == 3) {
-       cm.sendSimple("Here are the rules of open Job Advancement");
+       cm.sendSimple("以下是自由转职的规则。");
 	   cm.dispose();
     }
 	}

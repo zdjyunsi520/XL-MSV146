@@ -11,8 +11,72 @@
   <component name="ChangeListManager">
     <list default="true" id="b6018274-476e-40f5-ab0d-cc65796a609f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launch.bat" beforeDir="false" afterPath="$PROJECT_DIR$/launch.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/npc/9010022.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9010022.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GM_COMMANDS.md" beforeDir="false" afterPath="$PROJECT_DIR$/GM_COMMANDS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Amoria_jar/Amoria.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Amoria_jar/Amoria.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Amoria_jar/scripts/npc/9071003.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Amoria_jar/scripts/npc/9071003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1033002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1033002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1052108.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1052108.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1052116.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1052116.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1064000.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1064000.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1064002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1064002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1064024.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1064024.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1091002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1091002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1200001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1200001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1200002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1200002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/1301000.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/1301000.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2008.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2008.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2020001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2020001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2020009.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2020009.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2020010.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2020010.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2020011.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2020011.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2041003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2041003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2070002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2070002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2070003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2070003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2080001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2080001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2080002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2080002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2080004.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2080004.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2090001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2090001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2090002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2090002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2090003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2090003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2093000.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2093000.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2093001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2093001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2093002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2093002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2100002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2100002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2100003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2100003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2110001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2110001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2130000.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2130000.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2142000.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2142000.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2150002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2150002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/2159335.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/2159335.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9000081.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9000081.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9001003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9001003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9010041.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9010041.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9050009.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9050009.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9071001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9071001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9074005.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9074005.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9110100.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9110100.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9110102.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9110102.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9201182.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9201182.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9201238.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9201238.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9250007.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9250007.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9250008.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9250008.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9250009.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9250009.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270019.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270019.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270020.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270020.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270022.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270022.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270035.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270035.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270055.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270055.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9270056.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9270056.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9310001.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9310001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9310002.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9310002.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/9310003.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/9310003.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/npc/AbyssTut00.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/npc/AbyssTut00.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client/MapleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/MapleCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/handling/channel/handler/NPCHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/handling/channel/handler/NPCHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scripting/NPCScriptManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scripting/NPCScriptManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/maps/MapScriptMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/maps/MapScriptMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/shops/MapleShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/shops/MapleShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +105,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/github/MapleStoryV146/Service/SpiritMS/lib/slf4j-jdk14.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.23689139",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/github/MapleStoryV146/Service/SpiritMS/lib/slf4j-jdk14.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23689139&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Start" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre7" />
@@ -98,7 +162,8 @@
       <workItem from="1780231204329" duration="12092000" />
       <workItem from="1780318372004" duration="6790000" />
       <workItem from="1780567263838" duration="6487000" />
-      <workItem from="1780739405808" duration="1752000" />
+      <workItem from="1780739405808" duration="8707000" />
+      <workItem from="1780801177928" duration="6525000" />
     </task>
     <servers />
   </component>

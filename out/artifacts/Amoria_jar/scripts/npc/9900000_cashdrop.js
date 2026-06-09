@@ -23,7 +23,7 @@ function action(mode, type, selection) {
     status++;
     if (status == 1) {
         var bbb = false;
-        var selStr = "I can help you drop a cash item where you stand:\r\n\r\n#b";
+        var selStr = "你没有任何现金物品。";
         for (var x = 0; x < invs.length; x++) {
             var inv = cm.getInventory(invs[x]);
             for (var i = 0; i <= inv.getSlotLimit(); i++) {
@@ -45,7 +45,7 @@ function action(mode, type, selection) {
             }
         }
         if (!bbb) {
-            cm.sendOk("You don't have any cash items.");
+            cm.sendOk("出错了，请重试。");
             cm.dispose();
             return;
         }
@@ -55,7 +55,7 @@ function action(mode, type, selection) {
         selected = (selection % 1000) | 0;
         var inzz = cm.getInventory(invv);
         if (selected >= inzz.getSlotLimit()) { 
-            cm.sendOk("Error, please try again.");
+            cm.sendOk("你想要丢弃 #v");
             cm.dispose();
             return;
         }
@@ -65,14 +65,14 @@ function action(mode, type, selection) {
             statsSel = inzz.getItem(slot_2[selected]);
         }
         if (statsSel == null) {
-            cm.sendOk("Error, please try again.");
+            cm.sendOk("你想要丢弃 #v");
             cm.dispose();
             return;
         }
-        cm.sendGetNumber("You want to drop #v" + statsSel.getItemId() + "##t" + statsSel.getItemId() + "#.\r\nHow many?", 1, 1, statsSel.getQuantity());
+        cm.sendGetNumber("#。\r\n丢弃多少个？" + statsSel.getItemId() + "##t" + statsSel.getItemId() + "出错了，请重试！", 1, 1, statsSel.getQuantity());
     } else if (status == 3) {
         if (!cm.dropItem(selected, invv, selection)) {
-            cm.sendOk("Error, please try again!");
+            cm.sendOk("出错了，请重试！");
             cm.dispose();
         } else {
             status = 0;

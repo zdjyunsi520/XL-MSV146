@@ -175,13 +175,13 @@ function start() {
 function action(mode, type, selection) {
 
     if (mode == 0 && (status == 1 || status == 3)) {
-	cm.sendNext("Hmmm...it shouldn't be a bad deal for you. Come see me at the right time and you may get a much better item to be offered. Anyway, let me know when you have a change of heart.");
+	cm.sendNext("嗯……这对你来说应该不算亏。在对的时间来找我，你可能会得到更好的物品。总之，如果你改变主意了，随时告诉我。");
 	cm.dispose();
 	return;
     } else if (mode == 0 && status == 3) {
 	cm.dispose();
     } else if (mode == 0 && status == 4) {
-	cm.sendNext("Hmmm...it shouldn't be a bad deal for you. If you come at the right time I can hook you up with good items. Anyway if you feel like trading, feel free to come.");
+	cm.sendNext("嗯……这对你来说应该不算亏。如果你在对的时间来，我可以给你好东西。总之，如果你想交易，随时欢迎。");
 	cm.dispose();
 	return;
     }
@@ -190,37 +190,37 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) { // first interaction with NPC
-	cm.sendNext("Hey, got a little bit of time? Well, my job is to collect items here and sell them elsewhere, but these days the monsters have become much more hostile so it's been difficult to getting good items ... What do you think? Do you want to do some business with me?");
+	cm.sendNext("嘿，有空吗？我的工作是在这里收集物品然后到别处去卖，但最近怪物变得凶猛多了，很难弄到好东西……你觉得怎么样？想和我做点生意吗？");
     } else if (status == 1) {
-	cm.sendYesNo("The deal is simple. You get me something I need, I get you something you need. The problem is, I deal with a whole bunch of people, so the items I have to offer may change every time you see me. What do you think? Still want to do it?");
+	cm.sendYesNo("交易很简单。你给我我需要的东西，我给你你需要的东西。问题是，我和很多人做生意，所以我提供的物品可能每次都不一样。怎么样？还想做吗？");
     } else if (status == 2) {
 	var eQuestChoice = makeChoices(eQuestChoices);
 	cm.sendSimple(eQuestChoice);
     } else if (status == 3){
 	lastSelection = selection;
 	requiredItem = eQuestChoices[selection];
-	cm.sendYesNo("Let's see, you want to trade your #b100 #t" + requiredItem + "##k with my stuff right? Before trading make sure you have an empty slot available on your use or etc. inventory. Now, do you want to trade with me?");
+	cm.sendYesNo("让我看看，你想用你的#b100个#t" + requiredItem + "##k换我的东西对吧？交易之前请确保你的消耗品或其他物品栏有空位。那么，你想和我交易吗？");
     }else if (status == 4){
 	itemSet = (Math.floor(Math.random() * eQuestPrizes[lastSelection].length));
 	reward = eQuestPrizes[lastSelection];
 	prizeItem = reward[itemSet][0];
 	prizeQuantity = reward[itemSet][1];
 	if(!cm.haveItem(requiredItem,100)){
-	    cm.sendOk("Hmmm... are you sure you have #b100 #t" + requiredItem + "##k? If so, then please check and see if your item inventory is full or not.");
+	    cm.sendOk("嗯……你确定你有#b100个#t" + requiredItem + "##k吗？如果是的话，请检查一下你的物品栏是不是满了。");
 	} else if(!cm.canHold(prizeItem)){
-	    cm.sendNext("Your use and etc. inventory seems to be full. You need the free spaces to trade with me! Make room, and then find me.");
+	    cm.sendNext("你的消耗品和其他物品栏似乎已经满了。你需要留出空间才能和我交易！腾出空间后再来找我。");
 	} else {
 	    cm.gainItem(requiredItem,-100);
 	    cm.gainExp(500);
 	    cm.gainItem(prizeItem, prizeQuantity);
-	    cm.sendOk("For you #b100 #t"+requiredItem+"##k, here's my #b"+prizeQuantity+" #t"+prizeItem+"##k. What do you think? Do you like the items I gave you in return? I plan on being here for a while, so if you gather up more items, I'm always open for a trade ...");
+	    cm.sendOk("用你的#b100个#t"+requiredItem+"##k，这是我给你的#b"+prizeQuantity+" #t"+prizeItem+"##k。怎么样？你喜欢我给你的回报物品吗？我打算在这里待一段时间，如果你收集了更多物品，我随时都可以交易……");
 	}
 	cm.dispose();
     }
 }
 
 function makeChoices(a){
-    var result  = "Ok! First you need to choose the item that you'll trade with. The better the item, the more likely the chance that I'll give you something much nicer in return.\r\n";
+    var result  = "好的！首先你需要选择你要交易的物品。物品越好，我给你更好东西的可能性就越大。\r\n";
     for (var x = 0; x< a.length; x++){
 	result += " #L" + x + "##v" + a[x] + "#  #t" + a[x] + "##l\r\n";
     }

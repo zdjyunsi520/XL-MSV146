@@ -11,11 +11,11 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendNext("Hello there, #b#h ##k. What do you think of monsters? You probably think they're scary and they're going to eat your bones, huh?");
+		qm.sendNext("你好，#b#h ##k。你对怪物怎么看？你可能觉得它们很可怕，会啃你的骨头，对吧？");
 	} else if (status == 1) {
-      qm.sendNextPrev("What if I told you I knew a place where you could raise your own monsters that would eat OTHER people's bones... maybe? Don't you want to live the Monster Life?");
+      qm.sendNextPrev("如果我告诉你我知道一个地方，你可以养自己的怪物去啃别人的骨头……也许呢？你不想体验一下怪物生活吗？");
     } else if (status == 2) {	    
-	  qm.sendAcceptDecline("Do you want to listen to me give you instructions now? \r\n#r(Click Accept to move to the tutorial.)");
+	  qm.sendAcceptDecline("你想现在听我给你讲解说明吗？\r\n#r（点击接受进入教程。）");
     } else if (status == 3) {
 		qm.warp(100000000);
 		qm.forceStartQuest();

@@ -14,16 +14,16 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	var selStr = "Would you like to go into the Training Center?";
+	var selStr = "你想进入训练中心吗？";
 	for (var i = 0; i < num; i++) {
-		selStr += "\r\n#b#L" + i + "#Training Center " + i + " (" + cm.getPlayerCount(map + i) + "/" + maxp + ")#l#k";
+		selStr += "\r\n#b#L" + i + "#训练中心 " + i + " (" + cm.getPlayerCount(map + i) + "/" + maxp + ")#l#k";
 	}
 	cm.sendSimple(selStr);
     } else if (status == 1) {
 	if (selection < 0 || selection >= num) {
 		cm.dispose();
 	} else if (cm.getPlayerCount(map + selection) >= maxp) {
-		cm.sendNext("This training center is full.");
+		cm.sendNext("这个训练中心已满。");
 		status = -1;
 	} else {
 		cm.warp(map + selection, 0);

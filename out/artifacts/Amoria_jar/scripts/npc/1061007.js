@@ -22,9 +22,9 @@ function action(mode, type, selection) {
 	status--;
         
     if (status == 0) {
-	cm.sendNext("The crumbling statue makes you sad :(");
+	cm.sendNext("破碎的雕像让你感到悲伤 =(");
     } else if (status == 1) {
-	cm.sendYesNo("Would you like to escape the sadness?");
+	cm.sendYesNo("你想逃离这份悲伤吗？");
     } else if (status == 2) {
 	cm.warp(105000000);
 	cm.dispose();

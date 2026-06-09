@@ -1,5 +1,5 @@
 function start() {
-    cm.sendOk("Sorry, but the Duey service is unavailable at this time.");//openDuey();
+    cm.sendOk("抱歉，杜伊服务目前不可用。");//openDuey();
     cm.safeDispose();
 }
 

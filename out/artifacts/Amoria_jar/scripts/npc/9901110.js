@@ -28,7 +28,7 @@ var status = 0;
 var choice;
 
 function start() {
-    cm.sendNext("Hi, I'm the store banker.");
+    cm.sendNext("你想提取\r\n#b#L0#金币#l#L1#物品#l");
 } 
 
 function action(mode, type, selection) {
@@ -39,22 +39,22 @@ function action(mode, type, selection) {
         return;
     }
     if (status == 1)
-        cm.sendSimple("Would you like to withdraw\r\n#b#L0#Mesos#l#L1#Items#l");
+        cm.sendSimple("让我检查一下你是否有什么...");
     else if (status == 2) {
-        cm.sendNext("Let me check if you have any....");
+        cm.sendNext("你的商店已赚取");
         choice = selection;
     } else {
         if (choice == 0) {
             if (status == 3) {
                 var mesoEarnt = cm.getHiredMerchantMesos(false);
                 if (mesoEarnt > 0)
-                    cm.sendYesNo("You have made " + mesoEarnt + " mesos in your store so far. Would you like to withdraw them?");
+                    cm.sendYesNo(" 金币。你想提取吗？ " + mesoEarnt + "你还没有赚取任何金币");
                 else {
-                    cm.sendNext("You have not made any mesos");
+                    cm.sendNext("感谢使用我的服务，你的金币已收到");
                     cm.dispose();
                 }
             } else if (status == 4) {
-                cm.sendNext("Thank you for using my services, your mesos has been recieved");
+                cm.sendNext("请选择一个物品\r\n");
                 cm.gainMeso(cm.getHiredMerchantMesos(true));
                 cm.dispose();
             }
@@ -62,18 +62,18 @@ function action(mode, type, selection) {
             if (status == 3) {
                 var items = cm.getHiredMerchantItems();
                 if (items.size() > 0) {
-                    var text = "Please select an item\r\n";
+                    var text = "你的商店没有任何物品";
                     for (var i = 0; i < items.size(); i++)
                         text += "#L"+i+"##i"+items.get(i).getRight().getItemId()+"##l ";
                     cm.sendSimple(text);
                 } else {
-                    cm.sendNext("You do not have any items from your store");
+                    cm.sendNext("感谢使用我的服务，你的物品已收到");
                     cm.dispose();
                 }
             } else if (status == 4) {
                 var items = cm.getHiredMerchantItems();
                 MapleInventoryManipulator.addFromDrop(cm.getClient(), items.get(selection).getRight());
-                cm.sendNext("Thank you for using my services, your item has been recieved");
+                cm.sendNext("感谢使用我的服务，你的物品已收到");
                 cm.removeHiredMerchantItem(items.get(selection).getLeft());
                 cm.dispose();
             }

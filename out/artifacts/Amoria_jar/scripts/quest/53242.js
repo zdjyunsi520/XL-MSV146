@@ -9,31 +9,31 @@ function start(mode, type, selection) {
             status--;
 
         if (status == 0) {
-            qm.sendNext(qm.getPlayer().getName()+", toi can giup do. Sap den han cuoi phai hoan thanh, khach hang cua toi dang thuc giuc!.");
+            qm.sendNext(qm.getPlayer().getName()+"我需要帮助。快到截止日期了，客户一直在催！");
         } else if (status == 1) {
-            qm.sendPlayerToNpc("Binh tinh nao #p2111007#, anh dang lam gi the?.");
+            qm.sendPlayerToNpc("冷静点#p2111007#，你在做什么？");
         } else if (status == 2) {
-            qm.sendNext("Khong co gi lon lam dau. Nhung thuc su quanh day chang co ai ca. Cau se giup toi chu?.");
+            qm.sendNext("没什么大事。但这附近真的一个人都没有。你能帮我吗？");
         } else if (status == 3) {
-            qm.sendPlayerToNpc("Doi toi uong chut cafe va toi se suy nghi ve dieu nay...");
+            qm.sendPlayerToNpc("等我喝口咖啡再想想这件事……");
         } else if (status == 4) {
-            qm.sendAcceptDecline("Neu cau giup toi. Toi se ke cho cau moi chuyen toi biet. Cau se giup toi chu?");
+            qm.sendAcceptDecline("如果你帮我。我会告诉你我所知道的一切。你会帮我的对吧？");
         } else if (status == 5) {
-            qm.sendNext("Toi thay rang cau se khong the cuong lai su bat ngo nay dau.");
+            qm.sendNext("我觉得你肯定无法抵挡这份意外的惊喜。");
         } else if (status == 6) {
-            qm.sendNext("2 ngay truoc, toi nhan duoc 1 yeu cau tu 1 to chuc bi mat.");
+            qm.sendNext("两天前，我收到了一个秘密组织的请求。");
         } else if (status == 7) {
-            qm.sendPlayerToNpc("Va anh khong muon ai biet ve dieu do?");
+            qm.sendPlayerToNpc("而且你不想让任何人知道这件事？");
         } else if (status == 8) {
-            qm.sendNext("Toi muon giu bi mat cho khach hang cua minh. Ho muon toi lam #z4033250##i4033250#. Va ho tra tien rat hau hinh =p~");
+            qm.sendNext("我想为我的客户保密。他们要我制作#z4033250##i4033250#。而且他们付了很丰厚的报酬~！");
         } else if (status == 9) {
-            qm.sendPlayerToNpc("(#z4033250##i4033250#, nghe cai ten mon do nay lam minh cam thay co gi do nguy hiem...)");
+            qm.sendPlayerToNpc("（#z4033250##i4033250#，听这名字就让我觉得有危险……）");
         } else if (status == 10) {
-            qm.sendPlayerToNpc("Anh biet khach hang la ai khong?");
+            qm.sendPlayerToNpc("你知道客户是谁吗？");
         } else if (status == 11) {
-            qm.sendNext("Toi khong biet ho la ai va cung chang can biet dieu do lam gi. Ho giuc toi lam nhanh va se den trong vai ngay toi. Nguyen lieu can lam la 50 #z4000357##i4000357#, 50 #z4000358##i4000358# va 50 #z4000364##i4000364#.");
+            qm.sendNext("我不知道他们是谁也不太在乎。他们催我快点做，说几天内会来取。需要的材料是50个#z4000357##i4000357#，50个#z4000358##i4000358#和50个#z4000364##i4000364#。");
         } else if (status == 12) {
-            qm.sendPlayerToNpc("(Vi khach nay co dieu gi do dac biet. minh se hoi anh ta sau khi hoan thanh moi duoc!)");
+            qm.sendPlayerToNpc("（这个客户有些特别。我会在完成之后再问他！）");
         } else if (status == 13) {
             qm.forceStartQuest();
             qm.dispose();
@@ -50,7 +50,7 @@ function end(mode, type, selection) {
             status--;
 
         if (status == 0) {
-            qm.sendNext("Cau da ve sao. Nao, hay nhanh dua chung cho toi!.");
+            qm.sendNext("你回来了。来，快把它们给我！");
         } else if (status == 1) {
 //            qm.gainItem(4000357,-50);
 //            qm.gainItem(4000358,-50);

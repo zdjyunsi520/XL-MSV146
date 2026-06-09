@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendAcceptDecline("Calling the Alliance. The Black Wings are operation deep within the mines below Edelestein. Something foul is afoot. Need help in #m310010000# immediately. Please accept.");
+	    qm.sendAcceptDecline("呼叫联盟。黑色之翼正在埃德尔斯坦地下深处的矿井中行动。有令人不安的事情正在发生。需要在#m310010000#紧急求助。请接受。");
 	} else if (status == 1) {
 		qm.warp(310010000,0);
 		qm.forceStartQuest();

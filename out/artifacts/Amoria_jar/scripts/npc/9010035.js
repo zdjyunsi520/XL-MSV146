@@ -37,7 +37,7 @@
 //		cm.dispose();
 //	} else {
 //		if (mode == 0) {
-//			cm.sendOk("See you next time, when you try your luck here~!");
+//			cm.sendOk("下次再来试试你的运气吧~！");
 //			cm.dispose();
 //			return;
 //		} else if (mode == 1) {
@@ -45,13 +45,13 @@
 //		}
 //
 //		if (status == 0) {
-//			cm.sendNext("I am YourStory's Gachapon Chair NPC.\r\nThe tickets look like this: #i5680021#");
+//			cm.sendNext("我是YourStory的椅子转蛋NPC。\r\n门票长这样：#i5680021#");
 //		} else if (status == 1) {
 //			if (!cm.haveItem(5680021)) {
-//				cm.sendOk("You dont have any #bChair Gachapon Tickets#k.");
+//				cm.sendOk("你没有 #b椅子转蛋券#k。");
 //				cm.dispose();
 //			} else {
-//				cm.sendYesNo("I see you have a ticket of mine, do you wish to use it?");
+//				cm.sendYesNo("我看到你有我的门票，你想使用它吗？");
 //			}
 //		} else if (status == 2) {
 //			cm.gainItem(5680021, -1);
@@ -87,16 +87,16 @@ function action(mode, type, selection){
     }
 
     if(status == 0){
-        cm.sendSimple("Which equip would you like to add a bonus potential to?\r\n" + cm.EquipListVertical(cm.getChar().getClient()));
+        cm.sendSimple("你想给哪个装备添加附加潜能？\r\n" + cm.EquipListVertical(cm.getChar().getClient()));
     }
     else if(status == 1){
         bagIndex = selection;
         equipment = cm.getEquipInventory(cm.getChar()).getItem(bagIndex);
-        cm.sendYesNo("Are you sure you want to add a bonus potential on this item for 400k NX? #i" + equipment.getItemId() + "#?");
+        cm.sendYesNo("你确定要花费40万NX为这个物品添加附加潜能吗？#i" + equipment.getItemId() + "#?");
     }
     else if(status == 2){
         if(cm.getChar().getMaplePoints() < 400000){
-            cm.sendOk("You do not have enough NX to do this.");
+            cm.sendOk("你没有足够的NX来执行此操作。");
             return cm.dispose();
         }
         cm.getChar().gainMaplePoints(-400000);
@@ -104,7 +104,7 @@ function action(mode, type, selection){
         equipment.setBonusPotential2(10002);
         equipment.setBonusPotential3(10003);
         cm.updateEquipSlot(equipment);
-        cm.sendOk("Successfully added bonus potential on weapon.");
+        cm.sendOk("成功添加了武器附加潜能。");
         cm.dispose();
     }
 

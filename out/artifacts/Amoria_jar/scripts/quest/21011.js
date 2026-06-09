@@ -7,7 +7,7 @@ function start(mode, type, selection) {
     status++;
     if (mode != 1) {
 	if(type == 1 && mode == 0) {
-		qm.sendOk("Ah, okay. I understand. Heroes are very busy. *Sniff...* If you ever get any free time, though...");
+		qm.sendOk("啊，好的。我理解。英雄们很忙。*抽鼻子...*不过如果你有空的话...");
 		qm.dispose();
 		return;
  	}else{
@@ -17,16 +17,16 @@ function start(mode, type, selection) {
     }
 
     if (status == 0) 
-	qm.sendNext("Wait, are you... No way.... Are you the hero that #p1201000# has been talking about all this time?! #p1201000#! Don't just nod... Tell me! Is this the hero you've been waiting for?! ")		
+	qm.sendNext("等等，你是...不会吧...你就是#p1201000#一直在说的那个英雄？！#p1201000#！别光点头...告诉我！这就是你一直在等的英雄吗？！ ")		
     else if (status == 1) {
 	qm.sendNextPrev("   #i4001171#");
     } else if (status == 2) {
-	qm.sendNextPrev("I'm sorry. I'm just so overcome with emotions... *Sniff sniff* My goodness, I'm starting to tear up. You must be so happy, #p1201000#.");
+	qm.sendNextPrev("对不起。我只是太激动了...*抽鼻子抽鼻子* 天哪，我都开始流泪了。你一定很高兴，#p1201000#。");
     } else if (status == 3) {
-	qm.sendAcceptDecline("Wait a minute... You're not carrying any weapons. From what I've heard, each of the heroes had a special weapon. Oh, you must have lost it during the battle against the Black Mage.");
+	qm.sendAcceptDecline("等等...你没有携带任何武器。据我所知，每位英雄都有一把特殊武器。哦，你一定是在与黑魔法师的战斗中丢失了它。");
     } else if (status == 4) {
 	qm.forceStartQuest();
-	qm.sendOk("My brother #bPuir #kis just down the street, and he's been dying to meet you! I know you're busy, but could you please stop by and say hello to Puir? Please...");
+	qm.sendOk("我的弟弟#b普尔#k就在街那边，他一直渴望见到你！我知道你很忙，但能不能顺便去和普尔打个招呼？拜托了...");
     } else if (status == 5) {
 	qm.dispose();
     }
@@ -37,7 +37,7 @@ function end(mode, type, selection) {
 	status++;
     } else {
 	if (status == 4) {
-	    qm.sendNext("*sniff sniff* Isn''t this sword good enough for you, just for now? I''d be so honored...");
+	    qm.sendNext("*抽鼻子抽鼻子* 这把剑不是足够好吗，至少暂时用用？我会很荣幸的...");
 	    qm.dispose();
 	    return;
 	}
@@ -49,22 +49,22 @@ function end(mode, type, selection) {
 	    qm.dispose();
 	    return;
 	}
-	qm.sendNext("Wait, are you... No way... Are you the hero that #p1201000# has been talking about all this time?! #p1201000#! Don''t just nod... Tell me! Is this the hero you''ve been waiting for?!");
+	qm.sendNext("等等，你是...不会吧...你就是#p1201000#一直在说的那个英雄？！#p1201000#！别光点头...告诉我！这就是你一直在等的英雄吗？！");
     } else if (status == 1) {
 	qm.sendNextPrev("   #i4001171#");
     } else if (status == 2) {
-	qm.sendNextPrev("I''m sorry. I''m just so overcome with emotions... *Sniff sniff* My goodness, I''m starting to tear up. You must be so happy, #p1201000#.");
+	qm.sendNextPrev("对不起。我只是太激动了...*抽鼻子抽鼻子* 天哪，我都开始流泪了。你一定很高兴，#p1201000#。");
     } else if (status == 3) {
-	qm.sendNextPrev("Wait a minute... You''re not carrying any weapons. From what I''ve heard, each of the heroes had a special weapon. Oh, you must have lost it during the battle against the Black Mage.");
+	qm.sendNextPrev("等等...你没有携带任何武器。据我所知，每位英雄都有一把特殊武器。哦，你一定是在与黑魔法师的战斗中丢失了它。");
     } else if (status == 4) {
-	qm.sendYesNo("This isn''t good enough to replace your weapon, but #bcarry this sword with you for now#k. It''s my gift to you. A hero can''t be walking around empty-handed. \r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0# \r\n#i1302000# 1 #t1302000# \r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 35 exp");
+	qm.sendYesNo("这把剑不够好来替代你的武器，但#b暂时先用这把剑吧#k。这是送给你的礼物。英雄可不能空手到处走。\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0# \r\n#i1302000# 1 #t1302000# \r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 35 经验值");
     } else if (status == 5) {
 	if (qm.getQuestStatus(21011) == 1) {
 	    qm.gainItem(1302000, 1);
 	    qm.gainExp(35);
 	}
 	qm.forceCompleteQuest();
-	qm.sendNextPrevS("#b(Your skills are nowhere close to being hero-like... But a sword? Have you ever even held a sword in your lifetime? You can''t remember... How do you even equip it?)#k", 3);
+	qm.sendNextPrevS("#b(你的技能根本算不上英雄级别的...但是一把剑？你这辈子有没有拿过剑？你记不起来了...你甚至不知道怎么装备它？)#k", 3);
     } else if (status == 6) {
 	qm.summonMsg(16); // How to equip shiet
 	qm.dispose();

@@ -1,16 +1,16 @@
 function action(mode, type, selection) {
 	if (cm.isQuestActive(22530)) {
 		if (!cm.canHold(1952000,1)) {
-			cm.sendOk("You need inventory space..");
+			cm.sendOk("你需要背包空间……");
 		} else {
 			cm.forceCompleteQuest(22530);
 			cm.gainExp(710);
 			cm.gainItem(1952000,1);
 			cm.getPlayer().gainSP(1, 1);
-			cm.sendOk("You examine the sign. Finished the guard's request.");
+			cm.sendOk("你检查了标牌。完成了卫兵的请求。");
 		}
 	} else {
-		cm.sendOk("It's a sign.");
+		cm.sendOk("这是一块标牌。");
 	}
 	cm.dispose();
 }

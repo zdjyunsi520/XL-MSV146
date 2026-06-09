@@ -78,7 +78,7 @@ function monsterValue(eim, mobId) {
 }
 
 function allMonstersDead(eim) {
-eim.broadcastPlayerMsg(6, "That Fucking clown got what was comin' to him!");
+eim.broadcastPlayerMsg(6, "那个该死的小丑终于得到了应有的报应！");
 }
 
 function playerRevive(eim, player) {

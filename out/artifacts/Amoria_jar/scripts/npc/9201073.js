@@ -33,14 +33,14 @@
 var status = 0;
 
 function start() {
-    cm.sendYesNo("Are you sure you want to leave?");
+    cm.sendYesNo("好的，如果你想离开的话再和我说。");
 }
 
 function action(mode, type, selection) {
     if (mode == -1) //ExitChat
         cm.dispose();
     else if (mode == 0) {//No
-        cm.sendOk("OK, Talk to me again if you want to leave here.");
+        cm.sendOk("再见。");
         cm.dispose();
     } else {		    //Regular Talk
         if (mode == 1)
@@ -49,18 +49,18 @@ function action(mode, type, selection) {
             status--;
         if (cm.getPlayer().getMap().getId() == 109050001) {
             if(status == 0)
-                cm.sendNext("See ya.");
+                cm.sendNext("好的，再见！");
             else if (status == 1){
                 cm.warp(109060001);
                 cm.dispose();
             }
         } else {
             if (status == 1)
-                cm.sendNext("Ok, Bye!");
+                cm.sendNext("等等，嘿！你是怎么到这里来的？\r\n算了，你随时可以离开");
             else if (status == 2) {
                 var eim = cm.getPlayer().getEventInstance();
                 if (eim == null)
-                    cm.sendOk("Wait, Hey! how'd you get here?\r\nOh well you can leave anyways");
+                    cm.sendOk("等等，嘿！你是怎么到这里来的？\r\n算了，你随时可以离开");
                 else {
                     if(isLeader()){
                         eim.disbandParty();

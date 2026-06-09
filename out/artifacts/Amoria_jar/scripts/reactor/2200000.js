@@ -31,6 +31,6 @@
 **/
 
 function act(){
-	rm.playerMessage("You will be expelled from this map by an unknown force.");
+	rm.playerMessage("你将被一股未知的力量驱逐出此地图。");
 	rm.warp(221023200, 0);
 }

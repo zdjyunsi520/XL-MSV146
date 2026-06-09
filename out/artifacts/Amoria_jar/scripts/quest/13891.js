@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-		qm.sendSimple("The #rSurvivalism Challenge#k is a test of skill, where up to five players compete for the top spot in four mini-games. I'll send you an invitation between #rQRQRQR#k and #rQRQRQR#k, every #b10#k, #b30#k, and #b50#k minutes on the hour.\r\n\r\n(You can play #b10#k more games today.)");
+		qm.sendSimple("#r生存挑战赛#k是一项技能测试，最多五名玩家在四个迷你游戏中争夺第一名。我会在每小时的#b10#k分、#b30#k分和#b50#k分，在#rQRQRQR#k到#rQRQRQR#k之间给你发送邀请。\r\n\r\n（你今天还可以再玩#b10#k场。）");
 		qm.dispose();
 	}
 }

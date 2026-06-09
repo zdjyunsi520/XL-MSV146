@@ -14,13 +14,13 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendNextS("A stranger saved me? The world is a wonderful place!",1);
+		cm.sendNextS("谢谢你，好心的陌生人！我叫Arby，是动物冠军团的骄傲成员！",1);
     } else if (status == 1) {
-		cm.sendNextPrevS("Thank you, sweet stranger! My name's Arby, and I'm a proud member of the Critter Champs!",1);
+		cm.sendNextPrevS("动物冠军团？没听说过。",1);
     } else if (status == 2) {
-	    cm.sendNextPrevS("The Critter Champs? Never heard of 'em.",15);
+	    cm.sendNextPrevS("我们才刚刚起步，但很快我们就会壮大的！整个枫之谷世界都会呼喊我们的名字！'Arby！Arby！Arby！'就像那样",15);
 	} else if (status == 3) {
-	    cm.sendNextPrevS("We're just starting out, but soon we'll be big! All of Maple World will be chanting our names! 'Arby! Arby! Arby!' Just like that",1);
+	    cm.sendNextPrevS("我们才刚刚起步，但很快我们就会壮大的！整个枫之谷世界都会呼喊我们的名字！'Arby！Arby！Arby！'就像那样",1);
 	} else if (status == 4) {
 	    cm.warp(866107000,0);
 		cm.dispose();

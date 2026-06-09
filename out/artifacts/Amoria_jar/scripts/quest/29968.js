@@ -10,13 +10,13 @@ function start(mode, type, selection) {
 			status--;
 		
 		if (status == 0) {
-			qm.sendNext("Oh, chang phai" + qm.getPlayer().getName()+" day sao!");
+			qm.sendNext("哦，你好" + qm.getPlayer().getName()+"你好！");
 		} else if (status == 1) {
-			qm.sendNextPrev("Tot lam, ban da chung to duoc suc manh cua minh. Tuy nhien quang duong van con dai");
+			qm.sendNextPrev("太棒了，你已经证明了自己的实力。不过前方的路还很长");
 		} else if (status == 2) {
-			qm.sendNextPrev("Hay chuan bi hoan thanh nhiem vu cua minh!");
+			qm.sendNextPrev("准备好完成你的任务吧！");
 		} else if (status == 3) {
-			qm.sendNext("Doi toi mot chut nhe...");
+			qm.sendNext("请稍等一下……");
 		} else if (status == 4) {
 				qm.changeJob(2410);
 				qm.forceStartQuest();

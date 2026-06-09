@@ -12,7 +12,7 @@ function enter(pi) {
 	}
 	return true;
     } else {
-	pi.playerMessage("This door is closed.");
+	pi.playerMessage("这扇门已关闭。");
 	return false;
     }
 }

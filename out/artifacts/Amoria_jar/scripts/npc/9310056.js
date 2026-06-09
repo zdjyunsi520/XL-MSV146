@@ -11,11 +11,11 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("#b#L0#Answer question.#l\r\n#L1#Exit Map#l");
+	cm.sendSimple("请让你的队长来这里。");
     } else if (status == 1) {
 	if (selection == 0) {
 	    if (!cm.isLeader() || cm.getPlayer().getEventInstance() == null) {
-		cm.sendOk("Please get your party leader here.");
+		cm.sendOk("你有一个完全不属于答案的字母。#e回答错误！#n");
 	    } else {
 		//calculate letters needed
 		var letters = cm.getPlayer().getEventInstance().getProperty("answer");
@@ -56,9 +56,9 @@ function action(mode, type, selection) {
 		    }
 	        }
 		if (lettersNot > 0) {
-		    cm.sendNext("You have a letter which is not part of the answer at all. #eWrong answer!#n");
+		    cm.sendNext("你没有足够的字母。#e回答错误！#n");
 		} else if (done != needed.length) {
-		    cm.sendNext("You do not have enough letters. #eWrong answer!#n");
+		    cm.sendNext("你没有足够的字母。#e回答错误！#n");
 		} else { //correct
                     for (var i = 3994059; i < 3994085; i++) {
 	                cm.givePartyItems(i, 0, true);

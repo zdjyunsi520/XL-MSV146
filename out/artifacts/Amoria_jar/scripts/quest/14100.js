@@ -9,12 +9,12 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendOk("Let me know if you change your mind. You're missing out!");
+		    qm.sendOk("如果你改变主意就告诉我。你会后悔的！");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendAcceptDeclineS("Maple Mayhem Bingo is ready to play! Wanna give it a try now?",1);
+	    qm.sendAcceptDeclineS("枫之谷疯狂宾果已经准备好玩了！现在想试试吗？",1);
 	} else if (status == 1) {
 	    qm.dispose();
 	}

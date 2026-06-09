@@ -31,14 +31,14 @@ function action(mode, type, selection)
     }
 
     if(status == 0){
-        cm.sendSimple("Hi, I am the tinkerer's transfer NPC, what would you like to do?\r\n#b#L0#Trade my Tinkerer's Chest.");
+        cm.sendSimple("你好，我是工匠转移NPC，你想做什么？\r\n#b#L0#交易我的工匠之箱。");
     }
     else if(status == 1){
-        cm.sendYesNo("Are you sure you want to trade a tinkerer's chest for tinkerer's equipment?")
+        cm.sendYesNo("你确定要用工匠之箱交换工匠装备吗？")
     }
     else if(status == 2){
         if(cm.getQuantityOfItem(chest) < 1){
-            cm.sendOk("You do not have any tinkerer's chest.");
+            cm.sendOk("你没有任何工匠之箱。");
             return cm.dispose();
         }
         var randomTinker = [ // wheel of fortune solution cause i'm lazy :P
@@ -74,7 +74,7 @@ function action(mode, type, selection)
         var randomItem = randomTinker[Math.floor(Math.random() * randomTinker.length)];
         cm.gainItem(chest, -1);
         cm.gainItem(randomItem, 1)
-        cm.sendOk("Congratulations you got " + "#i" + randomItem + "#.")
+        cm.sendOk("恭喜你获得了 " + "#i" + randomItem + "#.")
         return cm.dispose();
     }
 }

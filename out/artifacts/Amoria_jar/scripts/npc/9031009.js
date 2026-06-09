@@ -23,9 +23,9 @@ function action(mode, type, selection) {
     var marr = cm.getQuestRecord(160150);
     var data = marr.getCustomData();
 	var time = parseInt(data);
-	//      cm.sendSimple("Vellum Will be available in OurStory v4.0!");
+	//      cm.sendSimple("欢迎来到EternalStory v144.3\r\n请在下方选择你的职业！ \r\n-#b选择职业后，系统会根据你的职业发放武器，部分职业可能不会获得武器\r\n感谢你的加入，祝你游戏愉快！\r\n#b#L100#冒险家#l\r\n#b#L101#反抗者#l\r\n#L102#暗影双刀#l\r\n#L103#幻影#l\r\n#L104#米哈尔#l\r\n#L105#骑士团#l\r\n#L106#凯撒#l\r\n#L107#夜光#l\r\n#L108#天使祝福者#l\r\n#L109#杰诺#l\r\n#L110#Mercedes#l\r\n#L111#Jett#l\r\n#L112#恶魔复仇者#l\r\n#L113#恶魔猎手#l\r\n#L114#花狐#l\r\n#L115#隼人#l\r\n#L116#阿兰#l\r\n#L117#埃文#l\r\n#L118#炮手#l");
 	//	  cm.dispose();
-        cm.sendSimple("Welcome to EternalStory v144.3\r\nPlease choose your class below! \r\n-#bWhen you choose your class you will be given a weapon depending on the class you chose some will not recieve a weapon\r\nThank you and enjoy your stay!\r\n#b#L100#Explorer#l\r\n#b#L101#Resistance#l\r\n#L102#Dual Blade#l\r\n#L103#Phantom#l\r\n#L104#Mihile#l\r\n#L105#Cygnus#l\r\n#L106#Kaiser#l\r\n#L107#Luminous#l\r\n#L108#Angellic Buster#l\r\n#L109#Xenon#l\r\n#L110#Mercedes#l\r\n#L111#Jett#l\r\n#L112#Demon Avenger#l\r\n#L113#Demon Slayer#l\r\n#L114#Kanna#l\r\n#L115#Hayato#l\r\n#L116#Aran#l\r\n#L117#Evan#l\r\n#L118#Cannoneer#l");
+        cm.sendSimple("使用地图右侧的传送口去练级吧！");
     }else if (status == 1) {
         if (mode == 1) {
             switch (selection) {
@@ -43,7 +43,7 @@ function action(mode, type, selection) {
 				   cm.gainExp(841);
 				   cm.gainExp(1243);  
 				   cm.warp(100000000);
-				 //  cm.sendNext("Use the portal on the right of the map to train!");
+				 //  cm.sendNext("你必须切换频道才能查看暗影双刀技能组 \r\n20级时去找 Lady Syl 进行职业转职");
 				   cm.dispose();
                     break;
 		        case 101: //Resistance
@@ -60,7 +60,7 @@ function action(mode, type, selection) {
 				   cm.gainExp(841);
 				   cm.gainExp(1243);  
 					 cm.warp(100000000);
-				//	 cm.sendNext("Use the portal on the right of the map to train!");
+				//	 cm.sendNext("你必须切换频道才能查看暗影双刀技能组 \r\n20级时去找 Lady Syl 进行职业转职");
 					 cm.dispose();
                     break;
 		        case 102: //DualBlade
@@ -80,7 +80,7 @@ function action(mode, type, selection) {
 				   cm.gainExp(1243);  
 					 cm.warp(100000000);
 				//	 cm.warp(100000000);
-					 cm.sendNext("You must change channel to view your Dual Blade Skill Set \r\nSee Lady Syl at Level 20 for you Job advancement");
+					 cm.sendNext("好了，别让任何人知道我让你直接跳到了30级，否则我打断你的腿，明白吗？");
 					 cm.dispose();
 					 break;
 			    case 103: //Phantom
@@ -322,7 +322,7 @@ function action(mode, type, selection) {
 				   cm.gainExp(20213); //30
 				   cm.maxSkillsByJob();
 					 cm.warp(100000000);
-					  cm.sendNext("Now you never let anyone know I let you jump to Level 30 or I'll break your legs got it?");
+					  cm.sendNext("好了，别让任何人知道我让你直接跳到了30级，否则我打断你的腿，明白吗？");
 					 cm.dispose();
 					 break;
 				 case 113: //Demon Slayer

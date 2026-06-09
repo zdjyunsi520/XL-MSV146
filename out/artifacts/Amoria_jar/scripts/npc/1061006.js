@@ -8,16 +8,16 @@ function action(mode, type, selection) {
         
     if (status == 0) {
 	if (cm.haveItem(4031025)) {
-	    cm.sendNext("I laid my hand on the statue but nothing had happened.\r\nProbably because of Pink Viola that I have, because it looks like it only interferes with the power of the statue.");
+	    cm.sendNext("我把手放在雕像上，但什么也没发生。\r\n大概是因为我身上带着粉色堇菜花，看起来它只会干扰雕像的力量。");
 	    cm.safeDispose();
 	} else if (cm.haveItem(4031028)) {
-	    cm.sendNext("I laid my hand on the statue but nothing had happened.\r\nProbably because of White Viola that I have, because it looks like it only interferes with the power of the statue.");
+	    cm.sendNext("我把手放在雕像上，但什么也没发生。\r\n大概是因为我身上带着白色堇菜花，看起来它只会干扰雕像的力量。");
 	    cm.safeDispose();
 	} else if (cm.haveItem(4031026)) {
-	    cm.sendNext("I laid my hand on the statue but nothing had happened.\r\nProbably because of Blue Viola that I have, because it looks like it only interferes with the power of the statue.");
+	    cm.sendNext("我把手放在雕像上，但什么也没发生。\r\n大概是因为我身上带着蓝色堇菜花，看起来它只会干扰雕像的力量。");
 	    cm.safeDispose();
 	} else {
-	    cm.sendYesNo("Once I lay my hand on the statue, a strange light covers me and it feels like I am being sucked into somewhere else. Is it okay to be moved to somewhere else randomly just like that?");
+	    cm.sendYesNo("我把手放在雕像上后，一道奇异的光芒笼罩了我，感觉像是被吸到某个地方去了。就这样被随机传送到别处，真的没问题吗？");
 	}
 
     } else if (status == 1) {

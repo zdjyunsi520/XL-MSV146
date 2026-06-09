@@ -129,12 +129,17 @@ public class NPCHandler {
             return;
         }
         final MapleNPC npc = chr.getMap().getNPCByOid(slea.readInt());
+
         if (npc == null) {
             return;
+        }
+        if (chr.isGM()) {
+            chr.dropMessage(6, "NPC ID: " + npc.getId() + " | hasShop: " + npc.hasShop() + " | hasScript: " + NPCScriptManager.getInstance().hasScript(c, npc.getId(), null));
         }
         if (chr.hasBlockedInventory()) {
             return;
         }
+
         if (NPCScriptManager.getInstance().hasScript(c, npc.getId(), null)) { //I want it to come before shop
             NPCScriptManager.getInstance().start(c, npc.getId(), null);
         } else if (npc.hasShop()) {

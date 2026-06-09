@@ -3,9 +3,9 @@ var coins = Array(10, 30, 50, 30, 50);
 var status = 0;
 
 function start() {
-    var selStr = "Welcome to Monster Park! You will have so much fun here. To enter, go to the Gate.\r\n\r\n#b";
+    var selStr = "# 个";
     for (var i = 0; i < items.length; i++) {
-	selStr += "#L" + i + "##i" + items[i] + "# for " + coins[i] + " Monster Park Coins (Permanent)#l\r\n";
+	selStr += "#L" + i + "##i" + items[i] + " 怪物公园硬币（永久）#l\r\n " + coins[i] + "请腾出空间。";
     }
     cm.sendSimple(selStr);
 }
@@ -13,9 +13,9 @@ function start() {
 function action(mode, type, selection) {
     if (mode == 1 && selection >= 0 && selection < items.length) {
 	if (!cm.canHold(items[selection])) {
-	    cm.sendOk("Please make room.");
+	    cm.sendOk("你的硬币不够。");
 	} else if (!cm.haveItem(4310020, coins[selection])) {
-	    cm.sendOk("You don't have enough coins.");
+	    cm.sendOk("你的硬币不够。");
 	} else {
 	    cm.gainItem(4310020, -coins[selection]);
 	    cm.gainItem(items[selection], 1);

@@ -16,25 +16,25 @@ function action(mode, type, selection) {
     }
     mode == 1 ? chat++ : chat--;
     if (chat == 0)
-	    cm.sendNextPrevS("Lotus? Lotus! Are you awake?!", 1,0,9075005);
+	    cm.sendNextPrevS("哦，哥哥，我太想你了！你一直在沉睡，而我不得不炸飞了好多人。", 1,0,9075005);
 	else if (chat == 1)	
 	    cm.sendNextPrevS("......", 1,0,9075001);
 	else if (chat == 2)
-        cm.sendNextPrevS("Oh, brother, I've missed you so much! You've been napping all this time and I've had to blow up SO many people.", 1,0,9075005);
+        cm.sendNextPrevS("现在我们又在一起了！我们可以征服这个星球上那些愚蠢的猴子，像应该的那样统治一切！", 1,0,9075005);
 	else if (chat == 3)
         cm.sendNextPrevS("......", 1,0,9075001);
 	else if (chat == 4)
-        cm.sendNextPrevS("Now we can be together again! We can take over this whole planet of stupid monkeys and rule it like we're supposed to!", 1,0,9075005);
+        cm.sendNextPrevS("莲花？你能听到我吗？还记得你的妹妹兰花吗？", 1,0,9075005);
 	else if (chat == 5)
         cm.sendNextPrevS("......", 1,0,9075001);
 	else if (chat == 6)
-	    cm.sendNextPrevS("Lotus? Can you hear me? Remember your sister, Orchid?", 1,0,9075005);
+	    cm.sendNextPrevS("我以为你说他快醒了，杰利麦！如果你把他的脑子搞坏了，我就把你翻过来从里到外撕碎！", 1,0,9075005);
 	else if (chat == 7)
 	     cm.sendNextPrevS("......", 1,0,9075001);
 	else if (chat == 8)
-	     cm.sendNextPrevS("I thought you said he was waking up, Gelimer! If you scrambled his brain, I'm going to turn you inside out!", 1,0,9075005);
+	     cm.sendNextPrevS("我向你保证，兰花指挥官。莲花非常健康。你想看看吗？来吧……执行Alpha-97程序。", 1,0,9075005);
 	else if (chat == 9)
-	     cm.sendNextPrevS("I assure you, Commander Orchid. Lotus is perfectly fine. Do you wish to see? Here... Execute Program Alpha-97.",1);
+	     cm.sendNextPrevS("我向你保证，兰花指挥官。莲花非常健康。你想看看吗？来吧……执行Alpha-97程序。",1);
     else if (chat == 10) {	
 		cm.introEnableUI(0);
         cm.introDisableUI(false);

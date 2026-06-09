@@ -24,11 +24,11 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	if (!(cm.getJob() == 310 || cm.getJob() == 320)) {
-	    cm.sendOk("你似乎有潜力，继续训练吧，也许有一天我会考虑训练你。");
-	    cm.dispose();
-	    return;
-	}
+	// if (!(cm.getJob() == 310 || cm.getJob() == 320)) {
+	//     cm.sendOk("你似乎有潜力，继续训练吧，也许有一天我会考虑训练你。");
+	//     cm.dispose();
+	//     return;
+	// }
 	if ((cm.getJob() == 310 || cm.getJob() == 320) && cm.getPlayerStat("LVL") >= 70) {
 	    if (cm.getPlayerStat("RSP") > (cm.getPlayerStat("LVL") - 70) * 3) {
 	        if (cm.getPlayer().getAllSkillLevels() > cm.getPlayerStat("LVL") * 3) { //player used too much SP means they have assigned to their skills.. conflict

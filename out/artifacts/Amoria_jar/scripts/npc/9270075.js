@@ -14,7 +14,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to head to White Christmas Hill?");
+	cm.sendYesNo("你想前往白色圣诞山丘吗？");
     } else if (status == 1) {
 	cm.saveLocation("CHRISTMAS");
 	cm.warp(555000000);

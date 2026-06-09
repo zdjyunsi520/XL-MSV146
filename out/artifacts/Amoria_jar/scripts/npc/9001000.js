@@ -11,7 +11,7 @@ function start() {
     var record = cm.getCData("bossQuest");
     points = record == null ? "0" : record;
 
-    cm.sendSimple("Would you like to have a taste of a relentless boss battle?\n\r\n\r #b#L3#Current points#l#k \n\r #b#L0#Warp to Lobby#l  \r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0# \n\r #b#L32#Trade points(1000) for Enchanted Scroll#l#k  \n\r #b#L33#Trade Enchanted Scroll for points(1000)#l#k \n\r #b#L36#Trade points(10000) for Bamboo Luck Sack#l#k  \n\r #b#L37#Trade Bamboo Luck Sack for points(10000)#l#k \n\r #b#L4##i1492023:#Trade 120,000 points (Timeless Blindness)#l#k \n\r #b#L5##i1472068:#Trade 120,000 points (Timeless Lampion)#l#k \n\r #b#L6##i1462050:#Trade 120,000 points (Timeless Black Beauty)#l#k \n\r #b#L7##i1452057:#Trade 120,000 points (Timeless Engaw)#l#k \n\r #b#L8##i1432047:#Trade 120,000 points (Timeless Alchupiz)#l#k \n\r #b#L9##i1382057:#Trade 120,000 points (Timeless Aeas Hand)#l#k \n\r #b#L10##i1372044:#Trade 120,000 points (Timeless Enreal Tear)#l#k \n\r #b#L11##i1332074:#Trade 120,000 points (Timeless Killic)#l#k \n\r #b#L12##i1332073:#Trade 120,000 points (Timeless Pescas)#l#k \n\r #b#L13##i1482023:#Trade 120,000 points (Timeless Equinox)#l#k \n\r #b#L14##i1442063:#Trade 120,000 points (Timeless Diesra)#l#k \n\r #b#L15##i1422037:#Trade 120,000 points (Timeless Bellocce)#l#k \n\r #b#L16##i1412033:#Trade 120,000 points (Timeless Tabarzin)#l#k \n\r #b#L17##i1402046:#Trade 120,000 points (Timeless Nibleheim)#l#k \n\r #b#L18##i1322060:#Trade 120,000 points (Timeless Allargando)#l#k \n\r #b#L19##i1312037:#Trade 120,000 points (Timeless Bardiche)#l#k \n\r #b#L20##i1302081:#Trade 120,000 points (Timeless Executioners)#l#k \n\r #b#L31##i1342011:#Trade 120,000 points (Timeless Katara)#l#k" + (cm.isGMS() ? "\n\r #b#L34##i1532015:#Trade 120,000 points (The Obliterator)#l#k" : "") + "\n\r #b#L21##i2070018:#Trade 125,000 points (Balanced Fury)#l#k \n\r #b#L35##i2070016:#Trade 75,000 points (Crystal Ilbi)#l#k \n\r #b#L22# #i1122017:#Trade 30,000 points (Fairy Pendant, lasts 1 day)#l#k \n\r #b#L27##i2340000:#Trade 75,000 points (White Scroll)#l#k \n\r #b#L29##i5490001:#Trade 15,000 points (Silver Key)#l#k \n\r #b#L30##i5490000:#Trade 30,000 points (Gold Key)#l\n\r #b#L38##i2530000:#Trade 75,000 points (Lucky Day)#l \n\r #b#L39##i2531000:#Trade 150,000 points (Protection Scroll)#l#k");
+    cm.sendSimple("你想体验一场激烈的Boss战吗？\n\r\n\r #b#L3#当前积分#l#k \n\r #b#L0#传送到大厅#l  \r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0# \n\r #b#L32#用积分(1000)兑换附魔卷轴#l#k  \n\r #b#L33#用附魔卷轴兑换积分(1000)#l#k  \n\r #b#L36#用积分(10000)兑换竹幸运袋#l#k  \n\r #b#L37#用竹幸运袋兑换积分(10000)#l#k  \n\r #b#L4##i1492023:#120000积分兑换（永恒盲目）#l#k \n\r #b#L5##i1472068:#120000积分兑换（永恒蓝光灯）#l#k \n\r #b#L6##i1462050:#120000积分兑换（永恒黑美人）#l#k \n\r #b#L7##i1452057:#120000积分兑换（永恒-engaw）#l#k \n\r #b#L8##i1432047:#120000积分兑换（永恒阿尔库皮兹）#l#k \n\r #b#L9##i1382057:#120000积分兑换（永恒艾斯之手）#l#k \n\r #b#L10##i1372044:#120000积分兑换（永恒恩瑞尔之泪）#l#k \n\r #b#L11##i1332074:#120000积分兑换（永恒基里克）#l#k \n\r #b#L12##i1332073:#120000积分兑换（永恒佩斯卡斯）#l#k \n\r #b#L13##i1482023:#120000积分兑换（永恒昼夜）#l#k \n\r #b#L14##i1442063:#120000积分兑换（永恒迪斯拉）#l#k \n\r #b#L15##i1422037:#120000积分兑换（永恒贝洛切）#l#k \n\r #b#L16##i1412033:#120000积分兑换（永恒塔巴津）#l#k \n\r #b#L17##i1402046:#120000积分兑换（永恒尼布尔海姆）#l#k \n\r #b#L18##i1322060:#120000积分兑换（永恒阿拉甘多）#l#k \n\r #b#L19##i1312037:#120000积分兑换（永恒巴迪什）#l#k \n\r #b#L20##i1302081:#120000积分兑换（永恒处刑者）#l#k \n\r #b#L31##i1342011:#120000积分兑换（永恒苦无）#l#k" + (cm.isGMS() ? "\n\r #b#L34##i1532015:#120000积分兑换（毁灭者）#l#k" : "") + "\n\r #b#L21##i2070018:#125000积分兑换（平衡飞镖）#l#k \n\r #b#L35##i2070016:#75000积分兑换（水晶冰李）#l#k \n\r #b#L22# #i1122017:#30000积分兑换（精灵吊坠，持续1天）#l#k \n\r #b#L27##i2340000:#75000积分兑换（白卷轴）#l#k \n\r #b#L29##i5490001:#15000积分兑换（银钥匙）#l#k \n\r #b#L30##i5490000:#30000积分兑换（金钥匙）#l\n\r #b#L38##i2530000:#75000积分兑换（幸运日）#l \n\r #b#L39##i2531000:#150000积分兑换（保护卷轴）#l#k");
 
 }
 
@@ -28,7 +28,7 @@ function action(mode, type, selection) {
 		cm.warp(980010000,0);
 		break;
 	    case 3:
-		cm.sendOk("#bCurrent Points : " + points);
+		cm.sendOk("#b当前积分： " + points);
 		break;
 	    case 4: // Timeless Blindness
 		var intPoints = parseInt(points);
@@ -38,12 +38,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1492023, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 5: // Timeless Lampion
@@ -54,12 +54,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1472068, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 6: // Timeless Black Beauty
@@ -70,12 +70,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1462050, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 7: // Timeless Engaw
@@ -86,12 +86,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1452057, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 8: // Timeless Alchupiz
@@ -102,12 +102,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1432047, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 9: // Timeless Aeas Hand
@@ -118,12 +118,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1382057, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
     	    case 10: // Timeless Enreal Tear
@@ -134,12 +134,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1372044, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
   	    case 11: // Timeless Killic
@@ -150,12 +150,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1332074, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 12: // Timeless Pescas
@@ -166,12 +166,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1332073, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 13: // Timeless Equinox
@@ -182,12 +182,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1482023, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 14: // Timeless Diesra
@@ -198,12 +198,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1442063, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 15: // Timeless Bellocce
@@ -214,12 +214,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1422037, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 16: // Timeless Tabarzin
@@ -230,12 +230,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1412033, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 17: // Timeless Nibleheim
@@ -246,12 +246,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1402046, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 18: // Timeless Allargando
@@ -262,12 +262,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1322060, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 19: // Timeless Bardiche
@@ -278,12 +278,12 @@ function action(mode, type, selection) {
 			intPoints -= 1312037;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2049100, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 20: // Timeless Executioners
@@ -294,12 +294,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1302081, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;		
 	    case 21: // Balanced Fury
@@ -310,12 +310,12 @@ function action(mode, type, selection) {
 			intPoints -= 125000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2070018, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 22: // Fairy Pendant
@@ -326,12 +326,12 @@ function action(mode, type, selection) {
 			intPoints -= 30000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItemPeriod(1122017, 1, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 	    case 27:
@@ -342,12 +342,12 @@ function action(mode, type, selection) {
 			intPoints -= 75000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2340000, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 29:
@@ -358,12 +358,12 @@ function action(mode, type, selection) {
 			intPoints -= 15000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(5490001, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 30:
@@ -374,12 +374,12 @@ function action(mode, type, selection) {
 			intPoints -= 30000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(5490000, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 31: // Timeless Katara
@@ -390,12 +390,12 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1342011, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 34: // Obliterator
@@ -406,48 +406,48 @@ function action(mode, type, selection) {
 			intPoints -= 120000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(1532015, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 32: //Enchanted Scroll
 		var intPoints = parseInt(points);
 	        if (intPoints < 1000) {
-		    cm.sendOk("You need at least 1000 points for an Enchanted Scroll.");
+		    cm.sendOk("你至少需要1000积分才能兑换一张附魔卷轴。");
 		    cm.dispose();
 	        } else {
-		    cm.sendGetNumber("How many would you like? (1 Enchanted Scroll = 1000 points) (Current Points: " + intPoints + ") (Current Scrolls: " + cm.getPlayer().itemQuantity(5221001) + ")", intPoints / 1000, 1, intPoints / 1000);
+		    cm.sendGetNumber("你想要多少张？（1张附魔卷轴 = 1000积分）（当前积分： " + intPoints + "）（当前卷轴： " + cm.getPlayer().itemQuantity(5221001) + ")", intPoints / 1000, 1, intPoints / 1000);
 	        }
 		break;
 	    case 33: //points
 		var intPoints = parseInt(points);
 	        if (!cm.getPlayer().haveItem(5221001)) {
-		    cm.sendOk("You need at least 1 Enchanted Scroll.");
+		    cm.sendOk("你至少需要1张附魔卷轴。");
 		    cm.dispose();
 	        } else {
-		    cm.sendGetNumber("How many would you like to redeem? (1 Enchanted Scroll = 1000 points) (Current Scrolls: " + cm.getPlayer().itemQuantity(5221001) + ") (Current Points: " + intPoints + ")", cm.getPlayer().itemQuantity(5221001), 1, cm.getPlayer().itemQuantity(5221001));
+		    cm.sendGetNumber("How many would you like to redeem? (1 Enchanted Scroll = 1000 points）（当前卷轴： " + cm.getPlayer().itemQuantity(5221001) + "）（当前积分： " + intPoints + ")", cm.getPlayer().itemQuantity(5221001), 1, cm.getPlayer().itemQuantity(5221001));
 	        }
 		break;
 	    case 36: //item
 		var intPoints = parseInt(points);
 	        if (intPoints < 10000) {
-		    cm.sendOk("You need at least 10000 points for a Bamboo Luck Sack.");
+		    cm.sendOk("你至少需要10000积分才能兑换一个竹幸运袋。");
 		    cm.dispose();
 	        } else {
-		    cm.sendGetNumber("How many would you like? (1 Bamboo Luck Sack = 10000 points) (Current Points: " + intPoints + ") (Current:  " + cm.getPlayer().itemQuantity(3993002) + ")", intPoints / 10000, 1, intPoints / 10000);
+		    cm.sendGetNumber("How many would you like? (1 Bamboo Luck Sack = 10000 points）（当前积分： " + intPoints + "）（当前：  " + cm.getPlayer().itemQuantity(3993002) + ")", intPoints / 10000, 1, intPoints / 10000);
 	        }
 		break;
 	    case 37: //points
 		var intPoints = parseInt(points);
 	        if (!cm.getPlayer().haveItem(3993002)) {
-		    cm.sendOk("You need at least 1 Bamboo Luck Sack.");
+		    cm.sendOk("你至少需要1个竹幸运袋。");
 		    cm.dispose();
 	        } else {
-		    cm.sendGetNumber("How many would you like to redeem? (1 Bamboo Luck Sack = 10000 points) (Current: " + cm.getPlayer().itemQuantity(3993002) + ") (Current Points: " + intPoints + ")", cm.getPlayer().itemQuantity(3993002), 1, cm.getPlayer().itemQuantity(3993002));
+		    cm.sendGetNumber("How many would you like to redeem? (1 Bamboo Luck Sack = 10000 points）（当前： " + cm.getPlayer().itemQuantity(3993002) + "）（当前积分： " + intPoints + ")", cm.getPlayer().itemQuantity(3993002), 1, cm.getPlayer().itemQuantity(3993002));
 	        }
 		break;
 	    case 38:
@@ -458,12 +458,12 @@ function action(mode, type, selection) {
 			intPoints -= 75000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2530000, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 39:
@@ -474,12 +474,12 @@ function action(mode, type, selection) {
 			intPoints -= 150000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2531000, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;	
 	    case 35: // Crystal Ilbi
@@ -490,12 +490,12 @@ function action(mode, type, selection) {
 			intPoints -= 75000;
 			cm.setCData("bossQuest", ""+intPoints+"");
 			cm.gainItem(2070016, 1);
-			cm.sendOk("Enjoy your rewards :P");
+			cm.sendOk("享受你的奖励 :P");
 		    } else {
-			cm.sendOk("Please check if you have sufficient inventory slot for it.")
+			cm.sendOk("请检查你是否有足够的背包空间。")
 		    }
 		} else {
-		    cm.sendOk("Please check if you have sufficient points for it, #bCurrent Points : " + points);
+		    cm.sendOk("Please check if you have sufficient points for it, #b当前积分： " + points);
 		}
 		break;
 		case 40:
@@ -510,49 +510,49 @@ function action(mode, type, selection) {
 	    if (sel == 32) {
 		if (selection >= 1 && selection <= (intPoints / 1000)) {
 			if (selection > (intPoints / 1000)) {
-				cm.sendOk("You can only get max " + (intPoints / 1000) + " Scrolls. 1 Scroll = 1000 points.");
+				cm.sendOk("你最多只能获得 " + (intPoints / 1000) + " 张卷轴。1张卷轴 = 1000积分。");
 			} else if (!cm.canHold(5221001, selection)) {
-				cm.sendOk("Please make space in CASH tab.");
+				cm.sendOk("请在商城栏腾出空间。");
 			} else {
 				cm.gainItem(5221001, selection);
 				intPoints -= selection * 1000;
 				cm.setCData("bossQuest", ""+intPoints+"");
-				cm.sendOk("You have gained " + selection + " Scrolls and lost " + (selection * 1000) + " points. Current Points: " + intPoints);
+				cm.sendOk("你获得了 " + selection + " 张卷轴，失去了 " + (selection * 1000) + " 积分。当前积分： " + intPoints);
 			}
 		}
 	    } else if (sel == 33) {
 		if (selection >= 1 && selection <= cm.getPlayer().itemQuantity(5221001)) {
 			if (intPoints > (2147483647 - (selection * 1000))) {
-				cm.sendOk("You have too many points.");
+				cm.sendOk("你的积分太多了。");
 			} else {
 				cm.gainItem(5221001, -selection);
 				intPoints += selection * 1000;
 				cm.setCData("bossQuest", ""+intPoints+"");
-				cm.sendOk("You have lost " + selection + " Scrolls and gained " + (selection * 1000) + " points. Current Points: " + intPoints);
+				cm.sendOk("你失去了 " + selection + " 张卷轴，获得了 " + (selection * 1000) + " 积分。当前积分： " + intPoints);
 			}
 		} 
 	    } else if (sel == 36) {
 		if (selection >= 1 && selection <= (intPoints / 10000)) {
 			if (selection > (intPoints / 10000)) {
-				cm.sendOk("You can only get max " + (intPoints / 10000) + ". 1 Item = 10000 points.");
+				cm.sendOk("你最多只能获得 " + (intPoints / 10000) + "。1个物品 = 10000积分。");
 			} else if (!cm.canHold(3993002, selection)) {
-				cm.sendOk("Please make space in SETUP tab.");
+				cm.sendOk("请在设置栏腾出空间。");
 			} else {
 				cm.gainItem(3993002, selection);
 				intPoints -= selection * 10000;
 				cm.setCData("bossQuest", ""+intPoints+"");
-				cm.sendOk("You have gained " + selection + " and lost " + (selection * 10000) + " points. Current Points: " + intPoints);
+				cm.sendOk("你获得了 " + selection + " 并失去了 " + (selection * 10000) + " 积分。当前积分： " + intPoints);
 			}
 		}
 	    } else if (sel == 37) {
 		if (selection >= 1 && selection <= cm.getPlayer().itemQuantity(3993002)) {
 			if (intPoints > (2147483647 - (selection *10000))) {
-				cm.sendOk("You have too many points.");
+				cm.sendOk("你的积分太多了。");
 			} else {
 				cm.gainItem(3993002, -selection);
 				intPoints += selection * 10000;
 				cm.setCData("bossQuest", ""+intPoints+"");
-				cm.sendOk("You have lost " + selection + " and gained " + (selection * 10000) + " points. Current Points: " + intPoints);
+				cm.sendOk("你失去了 " + selection + " 并获得了 " + (selection * 10000) + " 积分。当前积分： " + intPoints);
 			}
 		} 
 	    }

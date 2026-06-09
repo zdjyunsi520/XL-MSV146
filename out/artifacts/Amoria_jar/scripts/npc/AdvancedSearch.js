@@ -4,7 +4,7 @@ function start() {
     v1 = "0";
     v2 = "";
     v3 = -1;
-    v2 += "                      Advanced Search Generator                      ";
+    v2 += "名称：                      ";
     v2 += "\r\n#L1#Item";
     v2 += "\r\n#L2#NPC";
     v2 += "\r\n#L3#Map";
@@ -22,7 +22,7 @@ function action(mode, type, selection) {
     switch (v1) {
         case "0":
             v2 = selection;
-            cm.sendGetText("Name:");
+            cm.sendGetText("数量：");
             v1 = "1";
             break;
         case "1":
@@ -37,7 +37,7 @@ function action(mode, type, selection) {
             v3 = selection;
             switch (v2) {
                 case 1:
-                    cm.sendGetNumber("Amount:", 1, 1, 92);
+                    cm.sendGetNumber("\r\n#L0#开始任务#l\r\n#L1#结束任务#l", 1, 1, 92);
                     break;
                 case 2:
                     cm.dispose();
@@ -48,13 +48,13 @@ function action(mode, type, selection) {
                     cm.dispose();
                     break;
                 case 4:
-                    cm.sendGetNumber("Amount:", 1, 1, 100);
+                    cm.sendGetNumber("\r\n#L0#开始任务#l\r\n#L1#结束任务#l", 1, 1, 100);
                     break;
                 case 5:
-                    cm.sendSimple(" \r\n#L0#Start Quest#l\r\n#L1#End Quest#l");
+                    cm.sendSimple("技能等级：");
                     break;
                 case 6:
-                    cm.sendGetNumber("Skill Level:", 1, 1, 30);
+                    cm.sendGetNumber("技能等级：", 1, 1, 30);
                     break;
             }
             v1 = "3";

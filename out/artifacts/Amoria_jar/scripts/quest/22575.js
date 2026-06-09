@@ -9,7 +9,7 @@ function start(mode, type, selection) {
 		qm.getPlayer().gainSP(1, 4);
 	
 	} else {
-		qm.sendNext("Make ETC space.");
+		qm.sendNext("请腾出其他栏空间。");
 	}
 	qm.dispose();
 }
@@ -22,7 +22,7 @@ function end(mode, type, selection) {
 		qm.gainExp(7100);
 		qm.getPlayer().gainSP(1, 4);
 	} else {
-		qm.sendNext("Make ETC space.");
+		qm.sendNext("请腾出其他栏空间。");
 	}
 	qm.dispose();
 }

@@ -8,7 +8,7 @@ try {
 		//}
 		pi.playPortalSE();
 	} else {
-		pi.playerMessage(5,"Please get the leader in this portal, and make sure Ice Knight is here.");
+		pi.playerMessage(5,"请让队长进入此传送门，并确保冰骑士在这里。");
 	}
 } catch (e) {
 	pi.playerMessage(5, "Error: " + e);

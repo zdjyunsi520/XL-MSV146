@@ -93,7 +93,7 @@ function removePlayer(eim, player) {
 function getParty(eim, property) {
     var chr = em.getChannelServer().getPlayerStorage().getCharacterById(parseInt(eim.getProperty(property)));
     if (chr == null) {
-		eim.broadcastPlayerMsg(5, "The leader of the party " + property + " was not found.");
+		eim.broadcastPlayerMsg(5, "队伍 " + property + " 的队长未找到。");
 		disposeAll(eim);
 		return null;
     } else {
@@ -176,7 +176,7 @@ function playerRevive(eim, player) {
 
 function playerDisconnected(eim, player) {
     player.setMap(eim.getMapInstance(exitMap));
-	eim.broadcastPlayerMsg(5, "[" + player.getName() + "] of Team [" + (player.getCarnivalParty().getTeam() == 0 ? "Maple Red" : "Maple Blue") + "] has quit the Monster Carnival."); // forgot about the packet xD
+	eim.broadcastPlayerMsg(5, "[" + player.getName() + "] 队伍 [" + (player.getCarnivalParty().getTeam() == 0 ? "枫叶红" : "枫叶蓝") + "] 退出了怪物嘉年华。"); // forgot about the packet xD
     eim.unregisterPlayer(player);
 	if ((player.getCarnivalParty().getMembers().size() - 1) < 1) {
 		player.getCarnivalParty().removeMember(player);

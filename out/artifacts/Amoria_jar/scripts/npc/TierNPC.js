@@ -1,4 +1,4 @@
-load("nashorn:mozilla_compat.js");
+load("你好，我是 #b等级道具#k 商人。\r\n目前我们只提供2种可用道具类别。更多类别将很快推出！\r\n\r\n/chooseone #e#b\r\n\r\n#L0#帽子#l\r\n#L1#蝴蝶结#l\r\n#L69#查看需求树（高级）#l\r\n#L70#查看需求树（简易）#l");
 importPackage(Packages.client); 
 importPackage(Packages.server); 
 
@@ -11,7 +11,7 @@ var reqs, prizes;
 function start() { 
     prizes = initPrizes(); 
     reqs = initReqs(); 
-    cm.sendSimple("Hello, i am the #btier item#k vendor. \r\nRight now, we only offer 2 available item category. More will be available really soon though! \r\n\r\n/chooseone #e#b\r\n\r\n#L0#Hats#l\r\n#L1#Bow-tie#l\r\n#L69#See requirement tree (advanced)#l\r\n#L70#See requirement tree (simple)#l"); 
+    cm.sendSimple("#等级"); 
 } 
 
 function action(m,t,s) { 
@@ -22,10 +22,10 @@ function action(m,t,s) {
             sel = s; 
             if (s < 69) { 
                 e += "/chooseone\r\n\r\n#b#e"; 
-                for (i = 0; i < prizes[s].length; i++) e += "#L" + i + "#Tier "+i+" : #t" + prizes[s][i][0] + "# #v" + prizes[s][i][0] + "##l\r\n"; 
+                for (i = 0; i < prizes[s].length; i++) e += "#L" + i + "这是高级需求树，浏览速度更快。如果你看不懂，请选择简易需求树，可能更适合你。\r\n\r\n "+i+" : #t" + prizes[s][i][0] + "# #v" + prizes[s][i][0] + "##l\r\n"; 
             } else { 
-                if (s == 69) e += "This is the advanced requirement tree, it is faster to browse. If you do not understand it, please choose the simplified requirement tree instead, you may find it more suited to you.\r\n\r\n" + parseTree(true); 
-                else e += "Choose a category\r\n\r\n /chooseone \r\n\r\n" + parseSimpleTree(0, -1, -1); 
+                if (s == 69) e += "选择一个类别\r\n\r\n /chooseone \r\n\r\n" + parseTree(true); 
+                else e += "你具备获取此道具的条件了吗？让我提醒你，以下是你需要准备的材料：\r\n\r\n#e#b" + parseSimpleTree(0, -1, -1); 
             } 
             if (e.indexOf("#L") != -1) cm.sendSimple(e); 
             else { 
@@ -44,8 +44,8 @@ function action(m,t,s) {
                     if (percentage > 100) percentage = 100; 
                     ee += "#b#v" + reqs[sel][sel1][i][0] + "# x" + reqs[sel][sel1][i][1] + " #t" + reqs[sel][sel1][i][0] + "# #r(" + percentage + "%)\r\n"; 
                 } 
-                e += "Do you have the requirements for this item? May i remind you that these are what you need to obtain for this item:\r\n\r\n#e#b" + ee; 
-            } else e += "Choose a tier\r\n\r\n /chooseone \r\n\r\n" + parseSimpleTree(1, s, -1);
+                e += "选择一个等级\r\n\r\n /chooseone \r\n\r\n" + ee; 
+            } else e += "嘿！你还缺少以下条件" + parseSimpleTree(1, s, -1);
             if (sel >= 70) cm.sendSimple(e); 
             else cm.sendYesNo(e); 
         } else if (status == 2) { 
@@ -58,7 +58,7 @@ function action(m,t,s) {
                     } 
                 } 
                 if (missing.length > 0) { 
-                    e += "HEY! You are missing the following requirement " + (missing.length > 1 ? "s" : "") + "\r\n\r\n#e#b"; 
+                    e += "恭喜你获得了 #r#e等级 " + (missing.length > 1 ? "s" : "") + "\r\n\r\n#e#b"; 
                     missing.sort(sortMissingRequirements); 
                     for (j = 0; j < missing.length; j++) { 
                         var itemid = reqs[sel][sel1][missing[j][0]][0]; 
@@ -68,7 +68,7 @@ function action(m,t,s) {
                         e += "#v" + itemid + "##t" + itemid + "# (" + quantity + " / " + needed + ", #r" + percentage + "% #B" + (quantity / needed * 100).toFixed(0) + "##b)\r\n"; 
                     } 
                 } else { 
-                    e += "Congratulation on your #r#etier " + (sel1 + 1) + " " +  OPT_[sel] + " #k#n!"; 
+                    e += "以下是该道具的需求条件：\r\n#b#t " + (sel1 + 1) + " " +  OPT_[sel] + " #k#n!"; 
                     for (i = 0; i < reqs[sel][sel1].length; i++) { 
                         cm.gainItem(reqs[sel][sel1][i][0], -reqs[sel][sel1][i][1]); 
                     } 
@@ -80,7 +80,7 @@ function action(m,t,s) {
                     i.setWatk(prizes[sel][sel1][2]); 
                     MapleInventoryManipulator.addFromDrop(cm.getClient(), i, true); 
                 } 
-            } else e += "Here are the requirements for the following item: \r\n#b#t" + prizes[sel1][s][0] + "# #v" + prizes[sel1][s][0] + "# #r#e(tier " + (s + 1) + ")#k#n \r\n" + parseSimpleTree(2, sel1, s);     
+            } else e += "# #r#e(等级" + prizes[sel1][s][0] + "# #v" + prizes[sel1][s][0] + "#e#b类别 " + (s + 1) + ")#k#n \r\n" + parseSimpleTree(2, sel1, s);     
             cm.sendOk(e); 
         } else cm.dispose(); 
     } status++; 
@@ -100,10 +100,10 @@ function sortMissingRequirements(x, y) {
 function parseTree(gd) { 
     var e = ""; 
     for (i = 0; i < reqs.length; i++) { //for each categories 
-        e += "#e#bCategory " + i + ": " + OPT_[i] + "#k#n\r\n"; 
+        e += "                    #e#r等级 " + i + ": " + OPT_[i] + "#k#n\r\n"; 
         for (j = 0; j < reqs[i].length; j++) { //for each tiers 
-            e += "                    #e#rTier " + (j + 1) + ": " + (gd ? "#v" : "") + prizes[i][j][0] + (gd ? "#" : "") + "#k#n\r\n"; 
-            if (gd) e += "                                #dRequirements:#k \r\n"; 
+            e += "                                #d需求条件：#k \r\n " + (j + 1) + ": " + (gd ? "#v" : "") + prizes[i][j][0] + (gd ? "#" : "") + "#k#n\r\n"; 
+            if (gd) e += "                                #d需求条件：#k \r\n"; 
             for (k = 0; k < reqs[i][j].length; k++) { //for each requirements 
                 e += "                                 " + (gd ? "                " : "") + (gd ? "#v" : "") + reqs[i][j][k][0] + (gd ? "#" : "") +  ", "+reqs[i][j][k][1]+"\r\n"; 
             } 
@@ -123,7 +123,7 @@ function parseSimpleTree(step, data1, data2) {
         for (i = 0; i < prizes.length; i++) e += "#b#e#L" + i + "# " + OPT_[i] + "#l\r\n"; 
     } else if (step == 1) { 
         var ctgr = reqs[data1]; 
-        for (i = 0; i < ctgr.length; i++) e += "#b#e#L" + i + "#Tier " + (i + 1) + " #v" + prizes[data1][i][0] + "##l\r\n"; 
+        for (i = 0; i < ctgr.length; i++) e += "#b#e#L" + i + "这是高级需求树，浏览速度更快。如果你看不懂，请选择简易需求树，可能更适合你。\r\n\r\n " + (i + 1) + " #v" + prizes[data1][i][0] + "##l\r\n"; 
     } else if (step == 2) { 
         var reqq = reqs[data1][data2]; 
         for (i = 0; i < reqq.length; i++) e += "\r\n#b#e#v" + reqq[i][0] + "# x" + reqq[i][1] + " - #t" + reqq[i][0] + "#"; 

@@ -12,7 +12,7 @@ function enter(pi) {
 	}
 	return true;
     } else {
-	pi.playerMessage("This crack appears to be blocked off by the door nearby.");
+	pi.playerMessage("这条裂缝似乎被附近的门挡住了。");
 	return false;
     }
 }

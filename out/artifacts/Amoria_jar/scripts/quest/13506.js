@@ -9,22 +9,22 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendOk("You should make more of an effort to better yourself. I mean, your hands are the most important part of your body!");
+		    qm.sendOk("你应该更加努力地提升自己。我的意思是，你的双手是你身体最重要的部分！");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendAcceptDecline("Hi, #b#h0##k! Do you like your hands? I hope so, because people that use their hands a lot are smarter! I read that in a book, so it must be true! I've got a great plan to keep my hands busy this year. Are you curious?");
+	    qm.sendAcceptDecline("嗨，#b#h0##k！你喜欢你的双手吗？希望如此，因为经常用手的人更聪明！我是从书上看到的，所以一定是真的！今年我有一个让双手忙碌的绝佳计划。你好奇吗？");
 	} else if (status == 1) {
-	    qm.sendNextS("My new hobby may not sound grand, but it might be my best yet! I collect pebbles from different parts of Maple World, and then carve them into little monsters! Doesn't that sound fab? I'm using my hands AND flexing my creative juices.",1);
+	    qm.sendNextS("我的新爱好听起来可能不太宏大，但可能是最好的一个！我从枫之谷世界的不同地方收集鹅卵石，然后把它们雕刻成小怪物！听起来是不是很棒？我既用了双手又发挥了创意。",1);
 	} else if (status == 2) {
-	   	qm.sendNextPrevS("Since you're still listening, you must be very interested. Well, do you see that icon for Cassandra's Collection on the left? It'll be there until #b 03/06/14 #k, and it's your key to my magical world of monster statues.",1);
+	   	qm.sendNextPrevS("既然你还在听，你一定很感兴趣。那么，你看到左边卡桑德拉收藏的图标了吗？它会一直保留到#b 2014年6月3日 #k，这是通往我神奇的怪物雕像世界的关键。",1);
 	} else if (status == 3) {
-		qm.sendNextPrevS("All YOU have to do is fill those nice little spots with monster statues. If you want statues, I'll give you one whenever you #bcomplete a <Cassandra's Collection> quest#k through the Event Notifier on the left side of the screen. Sometimes, I might even give you #i3994717# #r#t3994717##k if I'm feeling extra fabulous. Those can go in any space! I just like them so much.",1);
+		qm.sendNextPrevS("你所要做的就是用怪物雕像填满那些漂亮的小空位。如果你想要雕像，只要你#b完成左侧活动提示中的一个<卡桑德拉的收藏>任务#k，我就会给你一个。有时候，如果我特别开心，可能还会给你#i3994717# #r#t3994717##k。那些可以放在任何位置！我就是太喜欢它们了。",1);
 	} else if (status == 4) {
-		qm.sendNextPrevS("#i3800451#\r\n\r\nIf you can line up #rthe monster statues horizontally, vertically, or diagonally#k, you'll complete a line! Complete #rthree lines#k, and you'll complete the whole collection! Complete as many as you want... I want to fill my living room with these!",1);
+		qm.sendNextPrevS("#i3800451#\r\n\r\n如果你能将怪物雕像#r横向、纵向或对角线排列成一条线#k，你就完成了一行！完成#r三行#k，你就完成了整个收藏！想完成多少就完成多少...我想用这些雕像填满我的客厅！",1);
 	} else if (status == 5) {
-		qm.sendNextPrevS("I'll give you a gift whenever you complete a line. You'll also get one when you complete three lines and finish the collection. Good luck!",1);
+		qm.sendNextPrevS("每当你完成一行，我就会送你一份礼物。当你完成三行并完成整个收藏时，你也会得到一份。祝你好运！",1);
 	} else if (status == 6) {
         qm.forceStartQuest();
 		qm.forceCompleteQuest();

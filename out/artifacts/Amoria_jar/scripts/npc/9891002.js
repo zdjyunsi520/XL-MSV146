@@ -8,12 +8,12 @@ var mapid = 90000003;
 
 function start() {
      if (cm.haveItem(item, amount)) {
-      cm.sendOk("Do you need another explanation? Click on the #rMerchant NPC#d while having the #bWiz Coin#k in your inventory. The #rMerchant#d will request a #bWiz Coin#k from you. He will then give you two options to pick from, Yes or No. Pick Yes to complete the trade then, talk to me again.");
+      cm.sendOk("你拿到物品了？做得好！如果你想知道1枚#b巫师硬币#k值多少，它正好值10亿金币。#b巫师硬币#k是我们这里的主要货币。你可以用它购买各种稀有物品，甚至是非常强力的装备。你也可以通过参与这个世界中的各种活动获得代币。好了，这些完成后，你刚刚学会了游戏中一些商店运作的基础知识。现在，让我们看看你面对凶猛怪物时的表现吧！出发！");
 	  cm.dispose();
    } else if (cm.haveItem(item_gain, item_amount)) {
-      cm.sendOk("You've got the item? Good job! Now if you were wondering how much value 1 #bWiz Coin#k is worth, it's exactly 1 Billion Mesos. #bWiz Coins#k are our main currency here. With it you can buy all sorts of rare items and perhaps even really strong equips. You are also able to get tokens from participating in various events in this world. Alright with that done, you have just learnt the basics on how some shops work in this game. Now, let's see how well you fare against ferocious monsters! Lets go!");
+      cm.sendOk("现在，我将向你展示这个世界的货币系统。\r\n\r\n看到那边那个#r商人#d了吗？点击他开始交易。你可以用这枚#b巫师硬币#k购买他出售的物品。");
    } else {
-     cm.sendOk("Now, I will show you how currency works in this world.\r\n\r\nSee that #rMerchant#d over there? Click on him to begin the trade. You can purchase the item he has on sale using this #bWiz Coin#k.");
+     cm.sendOk("现在，我将向你展示这个世界的货币系统。\r\n\r\n看到那边那个#r商人#d了吗？点击他开始交易。你可以用这枚#b巫师硬币#k购买他出售的物品。");
 	 cm.gainItem(item, amount);
 	 cm.dispose();
    }

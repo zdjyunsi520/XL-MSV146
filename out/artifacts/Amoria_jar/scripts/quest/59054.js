@@ -9,20 +9,20 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 2) {
-		    qm.sendNext("I feel like I can trust you now. Please help us.");
+		    qm.sendNext("我觉得我现在可以信任你了。请帮助我们。");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("Ah, there you are. I've been thinking...");
+	    qm.sendNext("啊，你来了。我一直在想……");
 	} else if (status == 1) {
-	    qm.sendNextPrev("The fact that both you and Bluffing Tom have been going on and on about kobolds is making me uneasy...");
+	    qm.sendNextPrev("你和吹牛汤姆一直在喋喋不休地谈论狗头人的事，这让我很不安……");
 	} else if (status == 2) {
-	    qm.sendYesNo("Would you mind checking on the kobolds in the forests outside town?");	
+	    qm.sendYesNo("你介意去城镇外的森林里查看一下狗头人的情况吗？");	
 	} else if (status == 3) {
-	    qm.sendNextS("FINALLY the truth is getting through your thick skull! I'll go right away!",14);	
+	    qm.sendNextS("真相终于要钻进你那榆木脑袋了！我马上就去！",14);	
 	} else if (status == 4) {
-	    qm.sendNextPrevS("(Dun, dun, dun! A hero rushes to the forest!)",14);	
+	    qm.sendNextPrevS("（当，当，当！英雄冲向森林！）",14);	
 	} else if (status == 5) {
 	    qm.forceStartQuest();
 		qm.forceCompleteQuest();

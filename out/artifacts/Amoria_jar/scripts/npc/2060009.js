@@ -18,17 +18,17 @@ function action(mode, type, selection) {
 	status--;
     if (status == 0) {
 	if (cm.haveItem(4031242)) {
-	    menu = "#L0##bI will use #t4031242##k to move to #b#m230030200##k.#l\r\n#L1#Go to #b#m251000000##k after paying #b10000mesos#k.#l";
+	    menu = "#L0##b我将使用#t4031242##k前往#b#m230030200##k。#l\r\n#L1#支付#b10000金币#k后前往#b#m251000000##k。#l";
 	} else {
-	    menu = "#L0#Go to #b#m230030200##k after paying #b1000mesos#k.#l\r\n#L1#Go to #b#m251000000##k after paying #b10000mesos#k.#l";
+	    menu = "#L0#支付#b1000金币#k后前往#b#m230030200##k。#l\r\n#L1#支付#b10000金币#k后前往#b#m251000000##k。#l";
 	    payment = true;
 	}
-	cm.sendSimple ("Ocean are all connected to each other. Place you can't reach by foot can easily reached oversea. How about taking #bDolphin Taxi#k with us today?\r\n"+menu);
+	cm.sendSimple ("海洋彼此相连。靠脚无法到达的地方可以轻松通过海路到达。今天要不要和我们一起乘坐#b海豚出租车#k呢？\r\n"+menu);
     } else if (status == 1) {
 	if (selection == 0) {
 	    if(payment == true) {
 		if(cm.getMeso() < 1000) {
-		    cm.sendOk("I don't think you have enough money...");
+		    cm.sendOk("我觉得你的钱不够……");
 		    cm.dispose();
 		} else {
 		    cm.gainMeso(-1000);
@@ -40,7 +40,7 @@ function action(mode, type, selection) {
 	    cm.dispose();
 	} else if (selection == 1) {
 	    if(cm.getMeso() < 10000) {
-		cm.sendOk("I don't think you have enough money...");
+		cm.sendOk("我觉得你的钱不够……");
 		cm.dispose();
 	    }
 	    cm.gainMeso(-10000);

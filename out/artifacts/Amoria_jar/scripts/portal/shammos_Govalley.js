@@ -1,6 +1,6 @@
 function enter(pi) {
     if (!pi.haveItem(4032649)) {
-		pi.playerMessage("Please get the Bottle for Ancient Glacial Water first.");
+		pi.playerMessage("请先获得古代冰川水瓶。");
     } else {
 		pi.warp(921120700,0);
     } //2022698

@@ -18,26 +18,26 @@ function end(mode, type, selection) {
             delay(2000);
             qm.sendDirectionInfo("Effect/DirectionNewPirate.img/effect/tuto/monAttack1");
             delay(5000);
-            qm.sendNext("Hay ra khoi day ngay truoc khi qua muon!",9270092);
+            qm.sendNext("趁现在还不算太晚，赶紧离开这里！",9270092);
         } else if (status == 1) {
-            qm.sendNext(qm.getPlayer().getName()+" di di...",9270092);
+            qm.sendNext(qm.getPlayer().getName()+"走吧……",9270092);
         } else if (status == 2) {
-            qm.sendPlayerToNpc("Hay roi khoi day cung toi, Burke. Co gang len");
+            qm.sendPlayerToNpc("跟我一起离开这里，伯克。加油");
         } else if (status == 3) {
-            qm.sendNext("Toi da sai lam. Toi da muon suc manh cua cau. Toi da muon giet cau! Chung...",9270092);
+            qm.sendNext("我犯了个错误。我贪图你的力量。我想要杀你！他们……",9270092);
         } else if (status == 4) {
-            qm.sendNext("Chung biet tat ca ve #bThe core#k. Toi da nham khi nghi rang toi co the co duoc suc manh tu chung! Xin loi "+qm.c.getPlayer().getName(),9270092);
+            qm.sendNext("他们知道关于#b核心#k的一切。我错误地以为我可以从他们那里获得力量！对不起 "+qm.c.getPlayer().getName(),9270092);
         } else if (status == 5) {
-            qm.sendPlayerToNpc("Vay tai sao anh de toi song, Burke?");
+            qm.sendPlayerToNpc("那你为什么让我活下来，伯克？");
         } else if (status == 6) {
-            qm.sendNext("Toi cam han suc manh do, khong phai anh!",9270092);
+            qm.sendNext("我感受到了那股力量，不是你的！",9270092);
         } else if (status == 7) {
-            qm.sendNext("Chay di, toi se o lai ngan chung lai, chung dinh hoi sinh...",9270092);
+            qm.sendNext("快走，我来挡住他们，他们要复活……",9270092);
         } else if (status == 8) {
             qm.sendDirectionInfo("Effect/DirectionNewPirate.img/newPirate/balloonMsg2/25");
             delay(2000);
             qm.sendDirectionInfo("Effect/DirectionNewPirate.img/newPirate/balloonMsg2/23");
-            qm.sendNext("#bThe core#k thuc su o #m240010300#, hay den do...",9270092);
+            qm.sendNext("#b核心#k确实在#m240010300#，去那里吧……",9270092);
         } else if (status == 9) {
             qm.sendDirectionInfo("Effect/DirectionNewPirate.img/newPirate/balloonMsg2/17");
             delay(3000);

@@ -14,25 +14,25 @@ function action(mode, type, selection) {
 	    if (stage5leader == "done") {
 
 		if (cm.haveItem(4001022,24)) { // Clear stage
-		    cm.sendNext("Congratulations! You've passed the 5th stage. Hurry on now, to the 6th stage.");
+		    cm.sendNext("恭喜！你已通过第5阶段。快去吧，前往第6阶段。");
 		    cm.removeAll(4001022);
 		    clear(5,eim,cm);
 		    cm.givePartyExp(exp, eim.getPlayers());
 		} else { // Not done yet
-		    cm.sendNext("Are you sure you've brought me #r24 Passes of Dimension#k? Please check again.");
+		    cm.sendNext("你确定带来了#r24张次元通行证#k吗？请再检查一遍。");
 		}
 		cm.safeDispose();
 	    } else {
-		cm.sendOk("Welcome to the 5th stage. Go around, and collect #r24 Passes of Dimension#k from the boxes in the other maps. Once you're done, get your party members to hand all the #rPasses#k to you, then talk to me again.");
+		cm.sendOk("欢迎来到第5阶段。前往其他地图的箱子中收集#r24张次元通行证#k。完成后，让所有队员将#r通行证#k交给你，然后再和我说话。");
 		eim.setProperty("stage5leader","done");
 		cm.safeDispose();
 	    }
 	} else { // Members
-	    cm.sendNext("Welcome to the 5th stage. Go around, and collect #rPasses of Dimension#k from the boxes in the other maps. Once you're done, hand all the #rPasses#k to your party leader.");
+	    cm.sendNext("欢迎来到第5阶段。前往其他地图的箱子中收集#r次元通行证#k。完成后，将所有#r通行证#k交给你们的队长。");
 	    cm.safeDispose();
 	}
     } else {
-	cm.sendNext("Congratulations! You've passed the 5th stage. Hurry on now, to the 6th stage.");
+	cm.sendNext("恭喜！你已通过第5阶段。快去吧，前往第6阶段。");
 	cm.safeDispose();
     }
 }

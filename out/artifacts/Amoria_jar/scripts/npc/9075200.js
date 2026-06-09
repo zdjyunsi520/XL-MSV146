@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     }
     mode == 1 ? chat++ : chat--;
     if (chat == 0) {
-	cm.sendYesNo("Terminate Evolution System?");
+	cm.sendYesNo("是否终止进化系统？");
     } else if (chat == 1) {
 	cm.warp(957000000);
 	cm.dispose();

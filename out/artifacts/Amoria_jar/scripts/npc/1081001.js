@@ -8,15 +8,15 @@ function action(mode, type, selection) {
     if (mode == 1) {
 	status++;
     } else {
-	cm.sendNext("You must have some business to take care of here. It's not a bad idea to take some rest at #m"+returnmap+"# Look at me; I love it here so much that I wound up living here. Hahaha anyway, talk to me when you feel like going back.");
+	cm.sendNext("你到这里来一定有事要办吧。在#m"+returnmap+"# 休息一下也不错。看看我，我太喜欢这里了，结果就住下来了。哈哈，总之，想回去的时候跟我说。");
 	cm.safeDispose();
 	return;
     }
     if (status == 0) {
 	returnmap = cm.getSavedLocation("FLORINA");
-	cm.sendNext("So you want to leave #b#m110000000##k? If you want, I can take you back to #b#m"+returnmap+"##k.");
+	cm.sendNext("所以你想离开#b#m110000000##k吗？如果你想的话，我可以带你回到#b#m"+returnmap+"##k.");
     } else if (status == 1) {
-	cm.sendYesNo("Are you sure you want to return to #b#m"+returnmap+"##k? Alright, we'll have to get going fast. Do you want to head back to #m"+returnmap+"# now?")
+	cm.sendYesNo("你确定要回到#b#m"+returnmap+"##k吗？好的，我们得赶紧出发了。你要现在回到#m"+returnmap+"# 吗？")
     } else if (status == 2) {
 	if (returnmap < 0) {
 		returnmap = 104000000;

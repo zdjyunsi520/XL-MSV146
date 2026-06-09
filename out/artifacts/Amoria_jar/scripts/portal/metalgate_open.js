@@ -9,6 +9,6 @@ function enter(pi) {
 	pi.warp(990000431, 0);
     }
     else {
-	pi.playerMessage("This way forward is not open yet.");
+	pi.playerMessage("此路前方尚未开启。");
     }
 }

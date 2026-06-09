@@ -9,14 +9,14 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendNext("Well, think again.");
+		    qm.sendNext("嗯，再想想吧。");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendAcceptDeclineNoESC("Hello, #b#h0##k! Now that RED is here, it's time to challenge yourself with some exciting achievements. Go the extra mile to earn your goodies! What do you say?");
+	    qm.sendAcceptDeclineNoESC("你好，#b#h0##k！既然RED已经来了，是时候用一些令人兴奋的成就来挑战自己了。再努力一点来赢取你的好东西吧！你觉得呢？");
 	} else if (status == 1) {
-	    qm.sendNext("Click on the #e#b#fEffect/BasicEff.img/MainNotice/Achieve/Default/0#Trophy Icon#k#n on the left side of your screen to check your Achievements!");
+	    qm.sendNext("点击屏幕左侧的#e#b#fEffect/BasicEff.img/MainNotice/Achieve/Default/0#奖杯图标#k#n来查看你的成就！");
 	} else if (status == 2) {
         qm.forceStartQuest();
 		qm.forceCompleteQuest();

@@ -21,61 +21,61 @@ function action(mode, type, selection) {
 
     if (status == 0) {
 	if (!(cm.getJob() == 111 || cm.getJob() == 121 || cm.getJob() == 131 || cm.getJob() == 2111)) {
-	    cm.sendOk("Why do you want to see me? There is nothing you want to ask me.");
+	    cm.sendOk("你为什么要见我？你没有什么想问我的。");
 	    cm.dispose();
 	    return;
 	} else if (cm.getPlayerStat("LVL") < 120) {
-	    cm.sendOk("You're still weak to go to warrior extreme road. If you get stronger, come back to me.");
+	    cm.sendOk("你还太弱，不能走上战士的极限之路。等你变强了再来找我吧。");
 	    cm.dispose();
 	    return;
 	} else {
 	    if (cm.getQuestStatus(6904) == 2 || cm.getJob() == 2111) {
 		if (cm.getJob() == 111)
-		    cm.sendSimple("You're qualified to be a true warrior. \r\nDo you want job advancement?\r\n#b#L0# I want to advance to Hero.#l\r\n#b#L1#  Let me think for a while.#l");
+		    cm.sendSimple("你有资格成为一名真正的战士。\r\n你想要转职吗？\r\n#b#L0# 我想转职为英雄。#l\r\n#b#L1# 让我再想想。#l");
 		else if (cm.getJob() == 121)
-		    cm.sendSimple("You're qualified to be a true warrior. \r\nDo you want job advancement?\r\n#b#L0# I want to advance to Paladin.#l\r\n#b#L1#  Let me think for a while.#l");
+		    cm.sendSimple("你有资格成为一名真正的战士。\r\n你想要转职吗？\r\n#b#L0# 我想转职为圣骑士。#l\r\n#b#L1# 让我再想想。#l");
 		else if (cm.getJob() == 131)
-		    cm.sendSimple("You're qualified to be a true warrior. \r\nDo you want job advancement?\r\n#b#L0# I want to advance to Dark Knight.#l\r\n#b#L1#  Let me think for a while.#l");
+		    cm.sendSimple("你有资格成为一名真正的战士。\r\n你想要转职吗？\r\n#b#L0# 我想转职为暗黑骑士。#l\r\n#b#L1# 让我再想想。#l");
 		else {
 		    if (cm.haveItem(4031348)) {
-		        cm.sendSimple("You're qualified to be a true warrior. \r\nDo you want job advancement?\r\n#b#L0# I want to advance to Aran.#l\r\n#b#L1#  Let me think for a while.#l");
+		        cm.sendSimple("你有资格成为一名真正的战士。\r\n你想要转职吗？\r\n#b#L0# 我想转职为战神。#l\r\n#b#L1# 让我再想想。#l");
 		    } else {
-			cm.sendNext("You need the Secret Scroll for 10 million meso.");
+			cm.sendNext("你需要花费1000万金币购买秘密卷轴。");
 			cm.dispose();
 			return;
 		    }
 		}
 	    } else {
-		cm.sendOk("You're not ready to make 4th job advancement. When you're ready, talk to me.");
+		cm.sendOk("你还没有准备好进行四转。等你准备好了再来找我。");
 		cm.dispose();
 		return;
 	    }
 	}
     } else if (status == 1) {
 	if (selection == 1) {
-	    cm.sendOk("You don't have to hesitate to be the best Warrior..Whenever you make your decision, talk to me. If you're ready, I'll let you make the 4th job advancement.");
+	    cm.sendOk("你不必犹豫成为最强的战士……无论你何时做出决定，都来找我。如果你准备好了，我将让你进行第四次转职。");
 	    cm.dispose();
 	    return;
 	}
 	if (cm.getPlayerStat("RSP") > cm.getPlayerStat("LVL") * 3) { //player have too much SP means they havent assigned to their skills
 	    if (cm.getPlayer().getAllSkillLevels() > ((cm.getPlayerStat("LVL") - 9) * 3)) { //player used too much SP means they have assigned to their skills.. conflict
-		cm.sendOk("It appears that you have a great number of SP yet you have used enough SP on your skills already. Your SP has been reset. #ePlease talk to me again to make the job advancement.#n");
+		cm.sendOk("看起来你还有大量的SP，但你已经在技能上使用了足够的SP。你的SP已被重置。#e请再次与我交谈以进行转职。#n");
 		cm.getPlayer().resetSP((cm.getPlayerStat("LVL") - 120) * 3);
 	    } else {
-	    	cm.sendOk("Hmm...You have too many #bSP#k. You can't make the 4th job advancement with too many SP left.");
+	    	cm.sendOk("嗯……你有太多的#bSP#k。SP太多的话是无法进行第四次转职的。");
 	    }
 	    cm.dispose();
 	    return;
 	} else {
 		if (cm.getJob() == 111) {
 		    cm.changeJob(112);
-		    cm.sendNext("You have become the best of warriors, my #bHero#k.You will gain the #bRush#k Skill which makes you attack mutiple enemies and give you indomitable will along with #bStance#k and #bAchilles#k");
+		    cm.sendNext("你已经成为了最强的战士，我的#b英雄#k。你将获得#b突进#k技能，可以攻击多个敌人并赋予你不屈的意志，同时还有#b稳如泰山#k和#b阿喀琉斯#k。");
 		} else if (cm.getJob() == 121) {
 		    cm.changeJob(122);
-		    cm.sendNext("You have become the best of warriors, my #bPaladint#k.You will gain the #bRush#k Skill which makes you attack mutiple enemies and give you indomitable will along with #bStance#k and #bAchilles#k");
+		    cm.sendNext("你已经成为了最强的战士，我的#b圣骑士#k。你将获得#b突进#k技能，可以攻击多个敌人并赋予你不屈的意志，同时还有#b稳如泰山#k和#b阿喀琉斯#k。");
 		} else if (cm.getJob() == 131) {
 		    cm.changeJob(132);
-		    cm.sendNext("You have become the best of warriors, my #bDark Knight#k.You will gain the #bRush#k Skill which makes you attack mutiple enemies and give you indomitable with along with #bStance#k and #bAchilles#k.");
+		    cm.sendNext("你已经成为了最强的战士，我的#b黑骑士#k。你将获得#b突进#k技能，可以攻击多个敌人并赋予你不屈的意志，同时还有#b稳如泰山#k和#b阿喀琉斯#k。");
 		} else {
 		    cm.gainItem(4031348, -1);
 		    cm.changeJob(2112);
@@ -83,11 +83,11 @@ function action(mode, type, selection) {
 		    cm.forceCompleteQuest(29927);
 		    cm.gainItem(1142132,1); //temp fix
 		}
-		    cm.sendNext("You have become the best of warriors, my #bAran#k.You will gain the #bOverswing#k Skill which makes you attack mutiple enemies and give you indomitable with along with #bAggression#k and #bFreezing Posture#k.");
+		    cm.sendNext("你已经成为了最强的战士，我的#b战神#k。你将获得#b双重 swing#k技能，可以攻击多个敌人并赋予你不屈的意志，同时还有#b战斗姿态#k和#b冰冻姿态#k。");
 		}
 	}
     } else if (status == 2) {
-	cm.sendNextPrev("Don't forget that it all depends on how much you train.");
+	cm.sendNextPrev("别忘了，一切取决于你训练的付出。");
 	cm.dispose();
     }
 }

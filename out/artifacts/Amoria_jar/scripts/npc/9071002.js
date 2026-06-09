@@ -7,6 +7,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-    cm.sendOk("Enjoy the Monster Park!");
+    cm.sendOk("祝你在怪物公园玩得愉快！");
     cm.dispose();
 }

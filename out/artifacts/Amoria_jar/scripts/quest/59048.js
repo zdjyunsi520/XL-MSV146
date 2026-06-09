@@ -9,20 +9,20 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 3) {
-		    qm.sendOk("Oh, is that all you wanted to ask about? Well, come back anytime you want to chat, especially if it's about my dear, precious Tommy-boy.");
+		    qm.sendOk("哦，你只是想问这个吗？好吧，随时欢迎你来聊天，尤其是关于我亲爱的、珍贵的汤米宝贝。");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("Yes?");
+	    qm.sendNext("怎么了？");
 	} else if (status == 1) {
-	    qm.sendNextPrevS("What can you tell me about the #b#o9390927##k at the #b#m866000150##k?",14);
+	    qm.sendNextPrevS("关于#b#m866000150##k的#b#o9390927##k你能告诉我什么？",14);
 	} else if (status == 2) {
-	   qm.sendNextPrev("Nothing... I saw their #b#o9390915##k at the end of the #b#m866000150##k, but I'm sure that's not useful at all.");
+	   qm.sendNextPrev("没什么……我在#b#m866000150##k的尽头看到了它们的#b#o9390915##k，但我确定那完全没用。");
 	} else if (status == 3) {
-	   qm.sendYesNoS("You're crazy! That's a HUGE help! If we get rid of their king, they'll be leaderless! Thanks, lady! (Woodrock'll definitely want to know about this!)",16);
+	   qm.sendYesNoS("你太棒了！这帮了大忙了！如果除掉它们的王，它们就群龙无首了！谢谢，女士！（岩石一定想知道这个！）",16);
 	} else if (status == 4) {
-	   qm.sendNext("See you later!");
+	   qm.sendNext("回头见！");
 	} else if (status == 5) {
 	    qm.forceStartQuest();
 	    qm.dispose();	

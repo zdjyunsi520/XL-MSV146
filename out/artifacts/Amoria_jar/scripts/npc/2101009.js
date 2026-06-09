@@ -26,6 +26,6 @@
 
 
 function start() {
-	cm.sendNext("Yawnnnn~!");
+	cm.sendNext("哈欠～～！");
 	cm.dispose();
 }

@@ -9,7 +9,7 @@ var status = -1;
 function start(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("Come back when you feel like you are fully prepared for this.");
+	    qm.sendNext("等你觉得自己完全准备好了再来。");
 	    qm.dispose();
 	    return;
 	} else if (status == 2) {
@@ -23,11 +23,11 @@ function start(mode, type, selection) {
     }
 
     if (status == 0) {
-	qm.askAcceptDecline("#v1142030# #e#b#t1142030##k\n\r\n\r - Time Limit: 1 hr\n\r - Donate the Most for this town....#nDo you want to test yourself and see if this Medal is for you?");
+	qm.askAcceptDecline("#v1142030# #e#b#t1142030##k\n\r\n\r - 时间限制：1小时\n\r - 为该城镇捐赠最多……#n你想测试自己看看这个勋章是否适合你吗？");
     } else if (status == 1) {
-	qm.sendNext("Current Rank \n\r\n\r1. #bMintLovePep#k : ???,???,??? mesos\n\r2. #bKelviinXD#k : 68,000,000 mesos\n\r3. #bxBabyRence#k : 49,999,999 mesos\n\r4. #bXxTrIStaArxx#k : 29,999,999 mesosn\n\r5. #bxBabyRence#k : 14,000,000 mesos\n\r\n\rUnderstand that we cannot divulge the exact number donated by the current King of Donation. \n\rAlso remember that all records will be reset every first of the month...");
+	qm.sendNext("当前排名 \n\r\n\r1. #bMintLovePep#k : ???,???,??? 金币\n\r2. #bKelviinXD#k : 68,000,000 金币\n\r3. #bxBabyRence#k : 49,999,999 金币\n\r4. #bXxTrIStaArxx#k : 29,999,999 金币\n\r5. #bxBabyRence#k : 14,000,000 金币\n\r\n\r请理解我们无法透露当前捐赠之王捐赠的确切金额。\n\r另外请记住所有记录将在每月1日重置……");
     } else if (status == 2) {
-	qm.sendNextPrev("Best of luck to you. There's no real set date for this, so if you feel like you qualify for this, then feel free to come see me so I can determine whether you qualify for it. And remember that you will not be able to challenge other Titles unless you either forfeit this challenge or complete it...");
+	qm.sendNextPrev("祝你好运。这个没有固定的截止日期，所以如果你觉得自己符合条件，随时来找我，我会确定你是否合格。记住，除非你放弃或完成这个挑战，否则你将无法挑战其他称号……");
 	qm.dispose();
     }
 }

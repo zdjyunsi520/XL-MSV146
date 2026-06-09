@@ -75,6 +75,9 @@ public class MapleShop {
 
     public void sendShop(MapleClient c) {
         c.getPlayer().setShop(this);
+        if (c.getPlayer().isGM()) {
+            c.getPlayer().dropMessage(6, "[Shop] ShopID: " + id + " | NPC: " + npcId);
+        }
         System.out.println("[Shop Open] ShopID: " + id + " | NPC: " + npcId);
         for (MapleShopItem si : items) {
             if (si.getReqItem() > 0) {
@@ -86,6 +89,9 @@ public class MapleShop {
 
     public void sendShop(MapleClient c, int customNpc) {
         c.getPlayer().setShop(this);
+        if (c.getPlayer().isGM()) {
+            c.getPlayer().dropMessage(6, "[Shop] ShopID: " + id + " | NPC: " + customNpc);
+        }
         System.out.println("[Shop Open] ShopID: " + id + " | NPC: " + customNpc);
         for (MapleShopItem si : items) {
             if (si.getReqItem() > 0) {

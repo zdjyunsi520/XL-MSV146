@@ -25,13 +25,13 @@ function action(mode, type, selection) {
 	    cm.warp(910540000);
 	    cm.dispose();
 	} else {
-	    cm.sendNext("Lulz, I am a stone.");
+	    cm.sendNext("哈哈，我是一块石头。");
 	}
     } else if (status == 1) {
-	cm.sendNextPrev("Give me a #bDark Crystal#k and I will allow you to obtain the #bNecklace of Wisdom#k.");
+	cm.sendNextPrev("给我一颗#b暗黑水晶#k，我就允许你获得#b智慧项链#k。");
     } else if (status == 2) {
 	if (!cm.haveItem(4005004)) {
-	    cm.sendOk("You don't have any #bDark Crystal#ks.");
+	    cm.sendOk("你没有#b暗黑水晶#k。");
 	    cm.dispose();
 	} else {
 	    cm.gainItem(4005004, -1);

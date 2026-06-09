@@ -10,15 +10,15 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("Looking at you, I'm reminded of those brave heroes who stood up to the Black Mage ages ago...");
+	    qm.sendNext("看着你，我想起了很久以前那些勇敢抵抗黑法师的英雄们……");
 	} else if (status == 1) {
-	    qm.sendNextPrevS("Sweet! Granny told me allllll about them. I hope I get to meet them someday!",14);
+	    qm.sendNextPrevS("太棒了！奶奶跟我说了很——多关于他们的事。希望有一天我能见到他们！",14);
 	} else if (status == 2) {
-	   qm.sendNextPrev("I imagine someone on Victoria Island would know how to get in touch with them.");
+	   qm.sendNextPrev("我想维多利亚岛上有人知道如何联系他们。");
 	} else if (status == 3) {
-	   qm.sendNextPrev("Why don't you head to the harbor outside town? There should be a boat headed for Victoria Island there.");
+	   qm.sendNextPrev("你为什么不去城镇外面的港口看看？那里应该有一艘开往维多利亚岛的船。");
 	} else if (status == 4) {
-	   qm.sendNextPrev("Best of luck on your travels, young one. I know you'll be a great hero someday.");
+	   qm.sendNextPrev("祝你的旅途好运，年轻人。我知道你总有一天会成为伟大的英雄。");
 	} else if (status == 5) {
 	    qm.forceStartQuest();
 		qm.gainExp(2758);

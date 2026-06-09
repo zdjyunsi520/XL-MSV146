@@ -3,7 +3,7 @@ var buy = false;
 var sel;
 
 function start() {
-    var selStr = "So, what do you want?\r\n\r\n#b";
+    var selStr = "你确定要制作#b#v";
     for (var i = 0; i < items.length; i++) {
         selStr += "#L" + i + "##v" + items[i][0] + "##t" + items[i][0] + "#\r\n";
     }
@@ -17,17 +17,17 @@ function action(mode, type, selection) {
     }
     if (!buy) {
         sel = selection;
-        cm.sendGetNumber("Are you sure you want to make a #b#v" + items[selection][0] + "##t" + items[selection][0] + "##k? The following items and materials will be required...\r\n\r\n" + items[selection][1] + " mesos", 1, 1, 200);
+        cm.sendGetNumber("##k吗？制作需要以下物品和材料...\r\n\r\n" + items[selection][0] + "##t" + items[selection][0] + " 金币" + items[selection][1] + "请腾出更多空间。", 1, 1, 200);
         buy = true;
     } else {
         if (!cm.canHold(items[sel][0], items[sel][1])) {
-            cm.sendOk("Please make more space.");
+            cm.sendOk("好了，全部完成！很快吧？如果你还需要其他物品，我就在这里等你。");
             cm.dispose();
             return;
         }
         cm.gainMeso(-(items[sel][1] * selection));
         cm.gainItem(items[sel][0], selection);
-        cm.sendOk("There, all done! That was quick, wasn't it? If you need any more items, I'll be waiting here.");
+        cm.sendOk("好了，全部完成！很快吧？如果你还需要其他物品，我就在这里等你。");
         cm.dispose();
         return;
     }

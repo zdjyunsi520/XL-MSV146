@@ -55,7 +55,7 @@ function boxStage(cm) {
     var nthtext = "eighth";
     var nthobj = "boxes";
     var nthverb = "stand";
-    var nthpos = "stand too close to the edges";
+    var nthpos = "站得太靠近边缘了";
     var curcombo = stage8answer;
     var currect = cm.getMap().getAreas();
     var objset = [0,0,0,0,0,0,0,0,0];
@@ -65,7 +65,7 @@ function boxStage(cm) {
 	    party = eim.getPlayers();
 	    preamble = eim.getProperty("leader" + nthtext + "preamble");
 	    if (preamble == null) {
-		cm.sendNext("Hi. Welcome to the 5th stage. Next to me, there are nine boxes. All you have to do, is have 2 people OR 2 items stand on them and then, the leader must click on me to see if it is correct. Good Luck!");
+		cm.sendNext("你好。欢迎来到第5阶段。我旁边有九个箱子。你所要做的是让2个人或2个物品站在上面，然后队长点击我看看是否正确。祝你好运！");
 		eim.setProperty("leader" + nthtext + "preamble","done");
 		var as = Math.floor(Math.random() * stage8answer.length);
 		eim.setProperty("stage" + nthtext + "combo", as);
@@ -76,7 +76,7 @@ function boxStage(cm) {
 		if (complete != null) {
 		    var mapClear = "8stageclear";
 		    eim.setProperty(mapClear,"true"); // Just to be sure
-		    cm.sendNext("Please hurry on to the next stage, the portal has opened!");
+		    cm.sendNext("请尽快前往下一阶段，传送门已经开启了！");
 		} else {
 		    var totplayers = 0;
 		    for (i = 0; i < objset.length; i++) {
@@ -109,14 +109,14 @@ function boxStage(cm) {
 			}
 		    } else {
 			if (debug) {
-			    var outstring = "Objects contain:"
+			    var outstring = "箱子上有："
 			    for (i = 0; i < objset.length; i++) {
 				outstring += "\r\n" + (i+1).toString() + ". " + objset[i].toString();
 			    }
 			    cm.sendNext(outstring);
 			    var combo = curcombo[parseInt(eim.getProperty("stage" + nthtext + "combo"))];
 			} else {
-			    cm.sendNext("It looks like you haven't found the 2 " + nthobj + " just yet. Please think of a different combination of " + nthobj + ". Only 2 are allowed to " + nthverb + " on " + nthobj + ", and if you " + nthpos + " it may not count as an answer, so please keep that in mind. Keep going!");
+			    cm.sendNext("看来你还没有找到那2个 " + nthobj + " 呢。请想想不同的 " + nthobj + " 组合。只允许2个 " + nthverb + " 站在 " + nthobj + " 上，如果你 " + nthpos + " 可能不算作答案，所以请记住这一点。继续加油！");
 			    cm.dispose();
 			}
 		    }
@@ -129,16 +129,16 @@ function boxStage(cm) {
 	if (status == 0) {
 	    var complete = eim.getProperty("8stageclear");
 	    if (complete != null) {
-		cm.sendNext("Please hurry on to the next stage, the portal has opened!");
+		cm.sendNext("请尽快前往下一阶段，传送门已经开启了！");
 		cm.dispose();
 	    } else {
-		cm.sendNext("Please have the party leader talk to me.");
+		cm.sendNext("请让队长来和我说话。");
 		cm.dispose();
 	    }
 	} else {
 	    var complete = eim.getProperty("8stageclear");
 	    if (complete != null) {
-		cm.sendNext("Please hurry on to the next stage, the portal has opened!");
+		cm.sendNext("请尽快前往下一阶段，传送门已经开启了！");
 		cm.dispose();
 	    }
 	    cm.dispose();

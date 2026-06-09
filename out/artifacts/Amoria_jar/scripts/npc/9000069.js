@@ -196,7 +196,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 2) {
-	    cm.sendOk("This is a serious matter! Don't bother me if you are unwilling to do it.");
+	    cm.sendOk("这是一件严肃的事情！如果你不想做就别来烦我。");
 	    cm.safeDispose();
 	    return;
 	} else if (status == 4 || status == 0 || status == 1) {
@@ -206,14 +206,14 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendNext("Scrolls are always regarded as the important aspect of Mapler's equipment upgrade process. Are you one of those who strive for achieving perfection in the crafted material?#b\r\n#L0#Create a 65% Scroll#l\r\n#L1#Create a 15% scroll#l#k");
+	cm.sendNext("卷轴一直被视为枫之谷玩家装备升级过程中的重要一环。你是那些追求完美制作材料的人之一吗？#b\r\n#L0#制作65%卷轴#l\r\n#L1#制作15%卷轴#l#k");
     } else if (status == 1) {
 	firstSel = selection;
-	cm.sendYesNo("Oh, hey there. You seems to be more interested than I do. I can always upgrade your scrolls with a little fee and some materials. Are you sure you want to do that? #bThere is a 10% chance that the scroll might be destroyed in the process of the creation.#k")
+	cm.sendYesNo("哦，你好。你似乎比我更感兴趣。我可以收取少量费用和一些材料来升级你的卷轴。你确定要这么做吗？#b在制作过程中有10%的概率卷轴会被销毁。#k")
     } else if (status == 2) {
-	cm.sendNext("Now here's the ingredients for resurrection of the ancient black magic scroll. \n\r #i4011006# #t4011006# x1 \n\r #i4021007# #t4021007# x1 \n\r #i4021008# #t4021008# x1 \n\r Mesos 500,000 \n\r\n\r Lastly, it will also require the 10% scroll.");
+	cm.sendNext("这是复活古代黑魔法卷轴所需的材料。\n\r #i4011006# #t4011006# x1 \n\r #i4021007# #t4021007# x1 \n\r #i4021008# #t4021008# x1 \n\r 枫币 500000 \n\r\n\r 最后，还需要一张10%卷轴。");
     } else if (status == 3) {
-	var message = "Here's the list of scrolls that are within my powers to be created : \n\r";
+	var message = "以下是我能制作的卷轴列表：\n\r";
 if (firstSel == 0) {
 	for (var i = 0; i < scroll_15.length; i++) {
 		if ((scroll_15[i] != 2045206 && scroll_15[i] != 2045306) || cm.isGMS()) { //TODO JUMP
@@ -259,22 +259,22 @@ if (firstSel == 0) {
 	    if (Math.floor(Math.random() * 100) < 90) {
 	if (firstSel == 0) {
 		cm.gainItem(scroll_15[selection]-1, 1);
-		cm.sendOk("#i"+(scroll_15[selection]-1)+"# #t"+(scroll_15[selection]-1)+"# \n\r Handle this with care! It's an ancient scroll with mystical magic powers.");
+		cm.sendOk("#i"+(scroll_15[selection]-1)+"# #t"+(scroll_15[selection]-1)+"# \n\r 请小心使用！这是一张蕴含神秘魔力的古代卷轴。");
 	} else if (firstSel == 1) {
 		cm.gainItem(scroll_15[selection], 1);
-		cm.sendOk("#i"+scroll_15[selection]+"# #t"+scroll_15[selection]+"# \n\r Handle this with care! It's an ancient scroll with mystical magic powers.");
+		cm.sendOk("#i"+scroll_15[selection]+"# #t"+scroll_15[selection]+"# \n\r 请小心使用！这是一张蕴含神秘魔力的古代卷轴。");
 	}
 	    } else {
-		cm.sendOk("Woops! The scroll is destroyed!")
+		cm.sendOk("糟了！卷轴被销毁了！")
 	    }
 	    cm.safeDispose();
 	} else {
 	    if (prompt == -2) {
-		cm.sendOk("It appears that you are short of 500,000 mesos.");
+		cm.sendOk("看来你的枫币不足500000。");
 	    } else if (prompt == -3) {
-		cm.sendOk("It seems that you do not have the appropriate USE space.");
+		cm.sendOk("看来你的消耗栏没有足够的空间。");
 	    } else {
-		cm.sendOk("It appears that you are short of #i"+prompt+"# #t"+prompt+"#.");
+		cm.sendOk("看来你的 #i"+prompt+"# #t"+prompt+"#.");
 	    }
 	    cm.safeDispose();
 	}

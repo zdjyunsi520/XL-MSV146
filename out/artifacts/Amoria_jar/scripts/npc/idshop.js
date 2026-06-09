@@ -35,27 +35,27 @@ function action(mode, type, selection) {
 
 function startChat(selection) {
     if (chat == 0)
-        cm.sendSimple("Ello there, I'm the ID Shop.\r\nWhat would you like me to do for you?\r\n#L0#Have an Item by it's ID#l\r\n#L1#Look up for an Item's ID"/* + "\r\n#L2#Max my skills#l"*/ + "\r\n#L3#Give me NX!#l");
+        cm.sendSimple("\r\n#L2#满级我的技能#l"/* + "\r\n#L3#给我点卷！#l"*/ + "输入道具ID：");
     else if (chat == 1) {
         switch (selection) {
             case 0:
-                cm.sendGetNumber("Enter Item's ID:", 0, 1002000, 6000000);
+                cm.sendGetNumber("输入道具名称：", 0, 1002000, 6000000);
                 select = 0;
                 break;
             case 1:
-                cm.sendGetText("Enter Item's Name:");
+                cm.sendGetText("你的技能等级正在被最大化。");
                 select = 1;
                 break;
             case 2:
                 if (cm.getPlayer().getLevel() >= 150) {
-                    cm.sendOk("Your skill(s) level is being maxed.");
+                    cm.sendOk("你需要达到150级以上才能满级技能 :)");
                     cm.maxAllSkills();
                 } else
-                    cm.sendOk("You have to be level 150+ in order to max skills :)");
+                    cm.sendOk("点卷数量：");
                 cm.dispose();
                 break;
             case 3:
-                cm.sendGetNumber("Amount of NX:", 1, 1, 49999);
+                cm.sendGetNumber("这是一个无效的道具。", 1, 1, 49999);
                 select = 3;
                 break;
         }
@@ -65,19 +65,19 @@ function startChat(selection) {
                 itemid = selection;
                 for (var i = 0; i < invalid.length; i++) {
                     if (itemid == invalid[i]) {
-                        cm.sendOk("This is an invalid item.");
+                        cm.sendOk("输入你想要的道具数量：");
                         cm.dispose();
                         return;
                     }
                 }
                 for (var a = 0; a < invalidarrays.length; a++) {
                     if (itemid >= invalidarrays[a][0] && itemid <= invalidarrays[a][1]) {
-                        cm.sendOk("This is an invalid item.");
+                        cm.sendOk("输入你想要的道具数量：");
                         cm.dispose();
                         return;
                     }
                 }
-                cm.sendGetNumber("Enter the amount you want for the item:", 1, 1, 100);
+                cm.sendGetNumber("看来你无法持有该道具，请检查道具是否存在并确保你有足够的背包空间。", 1, 1, 100);
                 break;
             case 1:
                 cm.sendPrev(cm.searchId(4, cm.getText()));
@@ -95,7 +95,7 @@ function startChat(selection) {
                 if (cm.canHold(itemid, selection))
                     cm.gainItem(itemid, 1);
                 else {
-                    cm.sendOk("It seems that you can't hold the item, please check that the item exists and make sure you have enough inventory slots.");
+                    cm.sendOk("希望你喜欢我的服务。");
                     cm.dispose();
                     return;
                 }
@@ -103,12 +103,12 @@ function startChat(selection) {
             if (cm.canHold(itemid, selection))
                 cm.gainItem(itemid, selection);
             else {
-                cm.sendOk("It seems that you can't hold the item, please check that the item exists and make sure you have enough inventory slots.");
+                cm.sendOk("希望你喜欢我的服务。");
                 cm.dispose();
                 return;
             }
         }
-        cm.sendOk("I hope you enjoy my services.");
+        cm.sendOk("希望你喜欢我的服务。");
     } else
         cm.dispose();
 }

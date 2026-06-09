@@ -25,15 +25,15 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNextS("You already got all #i3994660##bParty Outfix Box#k items from #o9300313#? Splendid! You took care of those unsightly #e#b#o9300313##n#k monsters. Thanks! Now, you want to know more about the #bSignature Tablet#k right?",1);
+	    qm.sendNextS("你已经从#o9300313#那里拿到了所有的#i3994660##b派对装饰箱#k物品？太棒了！你解决了那些难看的#e#b#o9300313##n#k怪物。谢谢！现在，你想了解更多关于#b签名石板#k的事，对吧？",1);
 	} else if (status == 1) {
-	    qm.sendNextPrevS("This stone tablet contains the signatures of #bMaple Castle#k students from thousands of years ago. The writing is ancient, but you can still make the signatures out. There's a message, as well:#b'We are destroying the magic scrolls and sealing up the castle to prevent the innocent and pure knowledge from falling into the hands of evil.'", 1);
+	    qm.sendNextPrevS("这块石板上刻有数千年前#b枫之城堡#k学生们的签名。文字已经很古老了，但你仍然可以辨认出那些签名。上面还有一段留言：#b'我们正在销毁魔法卷轴并封印城堡，以防止纯洁无辜的知识落入邪恶之手。'", 1);
 	} else if (status == 2) {
-	    qm.sendNextPrevS("What exactly were the students afraid of? Whatever it was, it was surely a #bhuge threat#k.",1);	
+	    qm.sendNextPrevS("学生们到底在害怕什么？不管是什么，那一定是一个#b巨大的威胁#k。",1);	
 	} else if (status == 3) {
-		qm.sendNextPrevS("Well, that's all I have for you. Here, the #bSignature Tablet#k is yours. Run along to Neinheart, and make sure he knows how I sacrificed to get him this information.",1);	
+		qm.sendNextPrevS("好了，这就是我能给你的全部了。来，这块#b签名石板#k归你了。快去找奈因哈特吧，确保他知道我是如何牺牲自己才得到这些情报的。",1);	
 	} else if (status == 4) {
-	    qm.sendPrevS("#fUI/UIWindow2.img/QuestIcon/4/0#\r\n#i3994658# #bSignature Tablet x1#k\r\n\r\nThanks for your help! Go tell Neinheart about the tablet!",1);
+	    qm.sendPrevS("#fUI/UIWindow2.img/QuestIcon/4/0#\r\n#i3994658# #b签名石板 x1#k\r\n\r\n谢谢你的帮助！去告诉奈因哈特关于石板的事吧！",1);
 	    qm.forceCompleteQuest();
 		qm.removeAll(3994660);
 	    qm.gainItem(3994658, 1);

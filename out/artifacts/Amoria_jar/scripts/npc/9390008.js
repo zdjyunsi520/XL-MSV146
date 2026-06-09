@@ -14,21 +14,21 @@ function action(mode, type, selection) {
 	if (mode == 1)
 	    status++;
 	if (status == 0) {
-	    cm.sendSimple ("Are you the brave hero who has come to end the invasion?\r #L0##bGather up some information on the Boss.#l\r\n#L1#Take me to the Fight!#l\r\n#L2#Fuck it!#l#k\r\n#L3#Take me to #bVPQ#k\r\n#L4#What Gear can I obtain from this?#k");
+	    cm.sendSimple ("据我们了解，如果没有使用宾服装备，就无法伤害Boss的手下，因为它是专门针对他们弱点而制作的。遗憾的是，获得这件装备的唯一方法是在#b访客组队任务#k中进行#r装备挑战#k");
 	} else if (status == 1) {
 	    if (selection == 0) {
-		cm.sendNext("We take it to our understanding that the Boss's Minion's Cannot be harmed without the use of the Bing Suit since it has been crafted specially to target their weaknesses. Sadly the only way to aquire this gear is by doing the #rEquipment Run#k at the #bVisitor PQ#k");
+		cm.sendNext("哦，勇敢的人啊。我一直在等你到来。如果这些\r\n恶棍不被制止，谁能知道这个社区将会\r\n发生什么事。在那之前，我希望\r\n你能消灭他们并打败住在5楼的Boss。\r\n你需要时刻保持警惕，因为\r\n即使是智者也无法对付这个Boss。\r\n不过，看着你的眼睛，我看到了\r\n虎一般的目光，那双眼睛告诉我你能做到。走吧！");
 	    } if (selection == 1) {
 		cm.dispose();
-		//cm.sendNext("Oh, the brave one. I've been awaiting your arrival. If these\r\nthugs are left unchecked, there's no telling what going to\r\nhappen in this neighborhood. Before that happens, I hope\r\nyou take care of all them and beat the boss, who resides\r\non the 5th floor. You'll need to be on alert at all times, since\r\nthe boss is too tough for even wisemen to handle.\r\nLooking at your eyes, however, I can see that eye of the\r\ntiger, the eyes that tell me you can do this. Let's go!");
+		//cm.sendNext("去你的？！你就只会说去你的吗？人命关天啊兄弟，帮帮忙吧");
 		cm.openNpc(9250132);
 	    } if (selection == 2) {
-		cm.sendOk("Fuck it?! ALL YOU CAN SAY IS FUCK IT? HUMAN LIVES ARE AT STAKE MAN HELP A BROVA OUT");
+		cm.sendOk("带我去#b访客组队任务#k，让我弄些打外星人的装备！");
 	    } if (selection == 3) {
-		cm.sendOk("Take me to #bVisitor PQ#k So I can get some Alien smashing gear!");
+		cm.sendOk("这些是你可以获得的装备！ \r\n\r\n#i1003893##z1003893#\r\n#i1032191##z1032191#\r\n#i1113038##z1113038#\r\n#i1122256##z1122256#\r\n#i1132230##z1132230#");
 	    }
         if (selection == 4) {
-		cm.sendOk("This is the Gear you can Obtain from this! \r\n\r\n#i1003893##z1003893#\r\n#i1032191##z1032191#\r\n#i1113038##z1113038#\r\n#i1122256##z1122256#\r\n#i1132230##z1132230#");
+		cm.sendOk("这些是你可以获得的装备！ \r\n\r\n#i1003893##z1003893#\r\n#i1032191##z1032191#\r\n#i1113038##z1113038#\r\n#i1122256##z1122256#\r\n#i1132230##z1132230#");
 	    }		if(selection != 1) {
 		cm.dispose();
 	    }

@@ -16,9 +16,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendOk("The #bMaple Art Online#k Dungeon is under construction. You have cleared upto floor #"+cm.getsaoclear()+"");
+	cm.sendOk("层。\r\n\r\n建设进度\r\n第1层 #r100%#k"+cm.getsaoclear()+"");
     } else if (status == 1) {
-	cm.sendNext("Construction progress\r\nFloor 1 #r100%#k");
+	cm.sendNext("层。\r\n\r\n建设进度\r\n第1层 #r100%#k");
     } else if (status == 2) {
 	cm.dispose();
     }

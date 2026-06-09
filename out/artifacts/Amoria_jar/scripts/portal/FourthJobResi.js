@@ -4,21 +4,21 @@ function enter(pi) {
 		pi.warp(931000300, 0);
 		return true;
 	} else {
-	    pi.playerMessage("Need a key card from Gelimer.");
+	    pi.playerMessage("需要从杰利麦尔那里获得钥匙卡。");
 	}
     } else if (pi.getQuestStatus(23044) == 1) {
 	if (pi.getQuestStatus(23047) == 2 || pi.haveItem(4032743,1)) {
 		pi.warp(931000301, 0);
 		return true;
 	} else {
-	    pi.playerMessage("Need a key card from Gelimer.");
+	    pi.playerMessage("需要从杰利麦尔那里获得钥匙卡。");
 	}
     } else if (pi.getQuestStatus(23045) == 1) {
 	if (pi.getQuestStatus(23048) == 2 || pi.haveItem(4032743,1)) {
 		pi.warp(931000302, 0);
 		return true;
 	} else {
-	    pi.playerMessage("Need a key card from Gelimer.");
+	    pi.playerMessage("需要从杰利麦尔那里获得钥匙卡。");
 	}
     }
     //if not done yet

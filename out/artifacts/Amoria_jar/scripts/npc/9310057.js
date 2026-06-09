@@ -22,28 +22,28 @@ function action(mode, type, selection) {
     switch(cm.getPlayer().getMapId()) {
 	case 520000000: //event map
     	    if (status == 0) {
-	        cm.sendSimple("Hello~I am Dr.P of #bEnglish School!\r\n\r\n#L0#Go to English School#l\r\n#L1#I wish to exchange Obedient Child Medal#l\r\n#L2#What is English School?#l");
+	        cm.sendSimple("也许你可以和我交换一些...\r\n\r\n#b");
     	    } else if (status == 1) {
 	        if (selection == 0) {
 		    cm.warp(702090400,0); //exit map lobby
 		    cm.dispose();
 		} else if (selection == 1) {
-		    var selStr = "Maybe you could trade me some...\r\n\r\n#b";
+		    var selStr = "枚勋章)#b#l\r\n";
 		    for (var i = 0; i < rewards.length; i++) {
-			selStr += "#L" + i + "##v" + rewards[i] + "##t" + rewards[i] + "# x " + quantity[i] + " #r(" + needed[i] + " Medals)#b#l\r\n";
+			selStr += "#L" + i + "##v" + rewards[i] + "##t" + rewards[i] + "# x " + quantity[i] + " #r(" + needed[i] + "英语学校是一个1-5人组队任务。有3个不同的测验等级：初级、中级和高级。在10分钟的时间限制内，收集所有需要的字母组成正确的答案！把字母交给你的队长，再传给#r#e大卫#n。#k你可以在时间限制内继续答题或兑换奖励。问题和奖励都是随机的。每答对一次，你将获得一个随机奖励和一个乖孩子勋章。收集并交换乖孩子勋章吧！";
 		    }
 		    cm.sendSimple(selStr);
 		} else if (selection == 2) {
-		    cm.sendNext("English School is a Party Quest for 1-5 party members. There are 3 different quiz levels, Beginner, Intermediate and Advanced. Within the 10 minutes time limit, collect all the required alphabets to form the correct answers to the questions given! Give the letters to your party leader to pass to #r#eDavid#n.#k You can continue on with the quiz or redeem rewards within the time limit. The questions and rewards will be random. Each time one is answered correctly, you will receive a random reward and a Obedient Child Medal. Collect and exchange Obedient Child Medal!");
+		    cm.sendNext("你没有所需的勋章。");
 		    cm.dispose();
 		}
 	    } else if (status == 2) {
 	        if (!cm.haveItem(4001137, needed[selection])) {
-		    cm.sendNext("You don't have the needed medals.");
+		    cm.sendNext("请腾出背包空间。");
 		} else if (!cm.canHold(rewards[selection], 1)) {
-		    cm.sendNext("Please make the inventory space.");
+		    cm.sendNext("你的性别不符合领取条件。");
 		} else if (gender[selection] != 2 && gender[selection] != cm.getPlayer().getGender()) {
-		    cm.sendNext("You are not the correct gender to receive this.");	
+		    cm.sendNext("你好~我是#b英语学校#k的P博士！\r\n\r\n#L0#前往英语学校 - 简单#l\r\n#L1#前往英语学校 - 普通#l\r\n#L2#前往英语学校 - 困难#l\r\n#L3#返回活动地图#l");	
 		} else {
 		    cm.gainItem(4001137, -needed[selection]);
 		    if (expires[selection] > 0) {
@@ -57,17 +57,17 @@ function action(mode, type, selection) {
 	    break;
 	case 702090400:
     	    if (status == 0) {
-	        cm.sendSimple("Hello~I am Dr.P of #bEnglish School!\r\n\r\n#L0#Go to English School - Easy#l\r\n#L1#Go to English School - Medium#l\r\n#L2#Go to English School - Hard#l\r\n#L3#Return to Event Map#l");
+	        cm.sendSimple("请稍后再试。");
     	    } else if (status == 1) {
 	        if (selection == 0 || selection == 1 || selection == 2) {
    		    var em = cm.getEventManager("English");
     		    if (em == null) {
-			cm.sendOk("Please try again later.");
+			cm.sendOk("队伍的队长必须在这里。");
 			cm.dispose();
 			return;
     		    }
 		    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-			cm.sendOk("The leader of the party must be here.");
+			cm.sendOk("已有其他队伍在此频道进入了组队任务。");
 		    } else {
 			var party = cm.getPlayer().getParty().getMembers();
 			var mapId = cm.getPlayer().getMapId();
@@ -87,10 +87,10 @@ function action(mode, type, selection) {
 		    		if (em.getInstance("English" + selection) == null) {
 					em.startInstance_Party("" + selection, cm.getPlayer());
 		    		} else {
-					cm.sendOk("Another party quest has already entered this channel.");
+					cm.sendOk("你队伍的所有成员必须都在这里。");
 		    		}
 			} else {
-				cm.sendOk("All members of your party must be here.");
+				cm.sendOk("你队伍的所有成员必须都在这里。");
 			}
 		    }
 		} else if (selection == 3) {

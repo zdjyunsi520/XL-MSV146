@@ -17,9 +17,9 @@ function action(mode, type, selection) {
 	}
 	cm.gainItem(item, 1);
 	if (item == 4031853) {
-	    cm.sendNext("I found Abel's glasses.");
+	    cm.sendNext("我找到了亚伯的眼镜。");
 	} else {
-	    cm.sendOk("I found a pair of glasses, but it doesn't seem to be Abel's. Abel's pair is horn-rimmed...");
+	    cm.sendOk("我找到了一副眼镜，但似乎不是亚伯的。亚伯的那副是角框的……");
 	}
     }
     cm.safeDispose();

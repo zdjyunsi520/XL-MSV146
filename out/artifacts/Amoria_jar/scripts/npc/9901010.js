@@ -5,7 +5,7 @@ Script by Alcandon
 function start() {
 
 
-	cm.sendSimple ("Hello there and welcome to MapleBlade! Please select your starter pack: (I will also max your skills :D) \r\n#L0##bWarrior Set#k #l\r\n#L1##bThief Set#k #l\r\n#L2##bMagician Set#k #l\r\n#L3##bArcher Set#k #l\r\n#L4##bPirate Set#k #l\r\n#L5##bAran Set#k\r\n#L6##bHaven't decided yet..#k");
+	cm.sendSimple ("好的，想好了再来找我。");
 }
 
 function action(mode, type, selection) {
@@ -696,7 +696,7 @@ cm.teachSkill(5001005,0,20); //Hypnotize
 cm.teachSkill(15001003,0,20); //Hypnotize
 		}
 	if (selection == 6) {
-	cm.sendOk ("Okay, tell me when you've decided what you want.");
+	cm.sendOk ("好的，想好了再来找我。");
 	cm.dispose();
 }
 }

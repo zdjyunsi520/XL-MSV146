@@ -14,21 +14,21 @@ function start() {
 function action(mode, type, selection) {
     status++;
     if(mode == 0) {
-	cm.sendNext("You must have some business to take care of here, right?");
+	cm.sendNext("你一定有什么事情要处理，对吧？");
 	cm.dispose();
 	return;
     }
     if (status == 0) {
 	if(geenie == null) {
-	    cm.sendNext("The boats are currently down.");
+	    cm.sendNext("目前船只停运中。");
 	    cm.dispose();
 	} else if (geenie.getProperty("entry").equals("true")) {
-	    cm.sendYesNo("It looks like there's plenty of room for this ride. Please have your ticket ready so I can let you in, The ride will be long, but you'll get to your destination just fine. What do you think? Do you want to get on this ride?");
+	    cm.sendYesNo("看起来这次航班还有很多空位。请准备好你的船票，以便我让你登船。旅途虽然漫长，但你一定能安全到达目的地。你觉得呢？你想搭这班船吗？");
 	} else if(geenie.getProperty("entry").equals("false") && geenie.getProperty("docked").equals("true")) {
-	    cm.sendNext("The geenie is getting ready for takeoff. I'm sorry, but you'll have to get on the next ride. The ride schedule is available through the usher at the ticketing booth.");
+	    cm.sendNext("飞毯正在准备起飞。很抱歉，你得搭乘下一班了。班次时刻表可以在售票处的引导员那里查看。");
 	    cm.dispose();
 	} else {
-	    cm.sendNext("We will begin boarding 1 minutes before the takeoff. Please be patient and wait for a few minutes. Be aware that the subway will take off on time, and we stop receiving tickets 1 minute before that, so please make sure to be here on time.");
+	    cm.sendNext("我们将在起飞前1分钟开始检票。请耐心等待几分钟。请注意，船只将准时起飞，起飞前1分钟停止检票，所以请务必准时到达。");
 	    cm.dispose();
 	}
     } else if(status == 1) {

@@ -9,14 +9,14 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    qm.sendOk("#b(You're too afraid to get closer. Come back later for the milk.)");
+	    qm.sendOk("#b(你太害怕了不敢靠近。以后再来拿牛奶吧。)");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNext("#b(You ask the Milk Cow to give you some milk.);
+	qm.sendNext("#b(你请奶牛给你一些牛奶。);
     } else if (status == 1) {
 	qm.askAcceptDecline("Moo...");
     } else if (status == 2) {

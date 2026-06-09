@@ -3,7 +3,7 @@
  */
 
 function start() {
-    cm.sendSimple("Hello~ I'm #p2001003#. You can enter the room which has the  humongous tree through me! For more information, talk to #b#p2001000##k. Which room will you enter? \n\r #b#L0#The room with the 1st tree#l \n\r #L1#The room with the 2nd tree#l \n\r #L2#The room with the 3rd tree#l \n\r #L3#The room with the 4th tree#l \n\r #L4#The room with the 5th tree#l");
+    cm.sendSimple("你好~我是#p2001003#。你可以通过我进入有超级大树的房间！详情请咨询#b#p2001000##k。你想进入哪个房间？ \n\r #b#L0#第一棵树的房间#l \n\r #L1#第二棵树的房间#l \n\r #L2#第三棵树的房间#l \n\r #L3#第四棵树的房间#l \n\r #L4#第五棵树的房间#l");
 }
 
 function action(mode, type, selection) {

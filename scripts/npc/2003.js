@@ -6,14 +6,20 @@
 var status = -1;
 var mainmenu = "现在……问我任何关于旅行的问题吧！！\r\n#L0##b如何移动？#l\r\n#L1#如何打倒怪物？#l\r\n#L2#如何拾取物品？#l\r\n#L3#死亡后会怎样？#l\r\n#L4#什么时候可以选择职业？#l\r\n#L5#告诉我更多关于这座岛的信息！#l\r\n#L6#如何成为战士？#l\r\n#L7#如何成为弓箭手？#l\r\n#L8#如何成为魔法师？#l\r\n#L9#如何成为飞侠？#l\r\n#L10#如何提升角色属性？（S）#l\r\n#L11#如何查看刚拾取的物品？#l\r\n#L12#如何穿戴物品？#l\r\n#L13#如何查看正在穿戴的物品？#l\r\n#L14#什么是技能？（K）#l\r\n#L15#如何前往维多利亚岛？#l\r\n#L16#什么是金币？#l#k";
 
+function start() {
+    status = -1;
+    action(1, 0, 0);
+}
+
 function action(mode, type, selection) {
     if (mode == 1) {
 	status++;
     } else {
-	if (status == 2) {
-	    cm.sendNext("以下是如何打倒怪物。每只怪物都有自己的HP，你需要用武器或魔法攻击来打倒它们。当然怪物越强，就越难打倒。");
-	}
 	status--;
+    }
+    if (status < 0) {
+	cm.dispose();
+	return;
     }
     if (status == 0) {
 	cm.sendSimple(mainmenu);

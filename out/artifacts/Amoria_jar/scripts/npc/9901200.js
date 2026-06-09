@@ -16,7 +16,7 @@ function action(mode, type, selection) {
 	if (status == 0) {
 		sr = cm.getSpeedRun("Pink_Bean");
 		if (sr.getLeft().equals("")) {
-			cm.sendOk("No speedruns have been done yet.");
+			cm.sendOk("目前还没有任何速通记录。");
 			cm.dispose();
 		} else {
 			cm.sendSimple(sr.getLeft());

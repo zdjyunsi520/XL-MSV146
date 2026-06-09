@@ -58,7 +58,7 @@ function enter(pi) {
             //if (pi.haveItem(4032002)) { // hahaha fuck quests.
 				pi.playPortalSE();
                 pi.warp(270040100, "out00");
-                pi.playerMessage("Now moving to a deep part of the temple.");
+                pi.playerMessage("正在移动到神殿深处。");
                 return true;
             break;
         default:

@@ -3,7 +3,7 @@
 function action(mode, type, selection) {
 	cm.removeAll(4032248);
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.sendOk("The leader of the party must be here.");
+		cm.sendOk("请稍后再试。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -22,17 +22,17 @@ function action(mode, type, selection) {
 		if (next && size >= 2) {
 			var em = cm.getEventManager("MV");
 			if (em == null) {
-				cm.sendOk("Please try again later.");
+				cm.sendOk("已有其他队伍在此频道进入了组队任务。");
 			} else {
 		    var prop = em.getProperty("state");
 		    if (prop.equals("0") || prop == null) {
 			em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap());
 		    } else {
-			cm.sendOk("Another party quest has already entered this channel.");
+			cm.sendOk("你的队伍必须有2名以上成员在场且等级在8级以上。");
 		    }
 			}
 		} else {
-			cm.sendOk("All 2+ members of your party must be here and above level 8.");
+			cm.sendOk("你的队伍必须有2名以上成员在场且等级在8级以上。");
 		}
 	    }
 	cm.dispose();

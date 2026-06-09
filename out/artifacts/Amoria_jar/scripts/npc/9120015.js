@@ -14,14 +14,14 @@ function action(mode, type, selection) {
 	if (mode == 1)
 	    status++;
 	if (status == 0) {
-	    cm.sendSimple ("What do you want from me?\r #L0##bGather up some information on the hideout.#l\r\n#L1#Take me to the hideout#l\r\n#L2#Nothing#l#k");
+	    cm.sendSimple ("我可以带你去据点，但那个地方到处都是找麻烦的暴徒。你需要非常强大和勇敢才能进入那里。在据点里，你会找到控制这附近所有老大的Boss老大。到据点很容易，但那个地方顶楼的房间每天只能进入一次。Boss的房间可不是闹着玩的。我建议你不要在里面待太久；一旦进去就要迅速解决。Boss本身就是一个难缠的对手，而且在去见Boss的路上你还会遇到非常强大的敌人！这可不容易。");
 	} else if (status == 1) {
 	    if (selection == 0) {
-		cm.sendNext("I can take you to the hideout, but the place is infested with thugs looking for trouble. You'll need to be both incredibly strong and brave to enter the premise. At the hideaway, you'll find the Boss that controls all the other bosses around this area. It's easy to get to the hideout, but the room on the top floor of the place can only be entered ONCE a day. The Boss's Room is not a place to mess around. I suggest you don't stay there for too long; you'll need to swiftly take care of the business once inside. The boss himself is a difficult foe, but you'll run into some incredibly powerful enemies on you way to meeting the boss! It ain't going to be easy.");
+		cm.sendNext("哦，勇敢的人啊。我一直在等你。如果这些\r\n暴徒继续为非作歹，谁知道这个街区\r\n会发生什么。在那之前，我希望\r\n你能解决他们所有人，打败住在\r\n5楼的老大。你必须时刻保持警惕，因为\r\n即使是智者也无法应对这个\r\n老大。不过，从你的眼中，我看到了\r\n虎一般的锐气，那种告诉我你能做到\r\n的眼神。走吧！");
 	    } if (selection == 1) {
-		cm.sendNext("Oh, the brave one. I've been awaiting your arrival. If these\r\nthugs are left unchecked, there's no telling what going to\r\nhappen in this neighborhood. Before that happens, I hope\r\nyou take care of all them and beat the boss, who resides\r\non the 5th floor. You'll need to be on alert at all times, since\r\nthe boss is too tough for even wisemen to handle.\r\nLooking at your eyes, however, I can see that eye of the\r\ntiger, the eyes that tell me you can do this. Let's go!");
+		cm.sendNext("我很忙的！如果就这点事，别来打扰我！");
 	    } if (selection == 2) {
-		cm.sendOk("I'm a busy person! Leave me alone if that's all you need!");
+		cm.sendOk("我很忙的！如果就这点事，别来打扰我！");
 	    } if(selection != 1) {
 		cm.dispose();
 	    }

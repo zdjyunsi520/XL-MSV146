@@ -30,8 +30,8 @@ function action(mode, type, selection) {
     else
 	cm.dispose();
     if (status == 0 && mode == 1) {
-	var selStr = "Hello. I am Vicious, retired Sniper. However, I used to be the top student of Athena Pierce. Though I no longer hunt, I can make some archer items that will be useful for you...#b"
-	var options = new Array("Create a bow","Create a crossbow","Make a glove","Upgrade a glove","Create materials","Create Arrows");
+	var selStr = "你好。我是维舍斯，退役的狙击手。不过，我曾经是雅典娜的首席弟子。虽然我不再打猎了，但我可以制作一些对你有用的弓箭手装备……#b"
+	var options = new Array("制作弓","制作弩","制作手套","升级手套","制作材料","制作箭矢");
 	for (var i = 0; i < options.length; i++) {
 	    selStr += "\r\n#L" + i + "# " + options[i] + "#l";
 	}
@@ -41,10 +41,10 @@ function action(mode, type, selection) {
     else if (status == 1 && mode == 1) {
 	selectedType = selection;
 	if (selectedType == 0) { //bow refine
-	    var selStr = "I may have been a Sniper, but bows and crossbows aren't too much different. Anyway, which would you like to make?#b";
+	    var selStr = "虽然我曾是狙击手，但弓和弩其实差别不大。你想制作哪种？#b";
 	    var items = new Array(1452002,1452003,1452001,1452000,1452005,1452006,1452007);
-	    var suffix = new Array (" - Bowman Lv. 10"," - Bowman Lv. 15"," - Bowman Lv. 20"," - Bowman Lv. 25"," - Bowman Lv. 30"," - Bowman Lv. 35",
-		" - Bowman Lv. 40");
+	    var suffix = new Array (" - 弓箭手 Lv. 10"," - 弓箭手 Lv. 15"," - 弓箭手 Lv. 20"," - 弓箭手 Lv. 25"," - 弓箭手 Lv. 30"," - 弓箭手 Lv. 35",
+		" - 弓箭手 Lv. 40");
 	    equip = true;
 	    for (var i = 0; i < items.length; i++) {
 		selStr += "\r\n#L" + i + "##z" + items[i] + "##k" + suffix[i] + "#l#b";
@@ -52,10 +52,10 @@ function action(mode, type, selection) {
 	    cm.sendSimple(selStr);
 	}
 	else if (selectedType == 1) { //xbow refine
-	    var selStr = "I was a Sniper. Crossbows are my specialty. Which would you like me to make for you?#b";
+	    var selStr = "我曾是狙击手，弩是我的专长。你想让我制作哪种？#b";
 	    var items = new Array(1462001,1462002,1462003,1462000,1462004,1462005,1462006,1462007);
-	    var suffix = new Array (" - Bowman Lv. 12"," - Bowman Lv. 18"," - Bowman Lv. 22"," - Bowman Lv. 28"," - Bowman Lv. 32"," - Bowman Lv. 38",
-		" - Bowman Lv. 42"," - Bowman Lv. 50");
+	    var suffix = new Array (" - 弓箭手 Lv. 12"," - 弓箭手 Lv. 18"," - 弓箭手 Lv. 22"," - 弓箭手 Lv. 28"," - 弓箭手 Lv. 32"," - 弓箭手 Lv. 38",
+		" - 弓箭手 Lv. 42"," - 弓箭手 Lv. 50");
 	    equip = true;
 	    for (var i = 0; i < items.length; i++) {
 		selStr += "\r\n#L" + i + "##z" + items[i] + "##k" + suffix[i] + "#l#b";
@@ -63,10 +63,10 @@ function action(mode, type, selection) {
 	    cm.sendSimple(selStr);
 	}
 	else if (selectedType == 2) { //glove refine
-	    var selStr = "Okay, so which glove do you want me to make?#b";
+	    var selStr = "好的，你想让我制作哪种手套？#b";
 	    var items = new Array(1082012,1082013,1082016,1082048,1082068,1082071,1082084,1082089);
-	    var suffix = new Array (" - Bowman Lv. 15"," - Bowman Lv. 20"," - Bowman Lv. 25"," - Bowman Lv. 30"," - Bowman Lv. 35",
-		" - Bowman Lv. 40"," - Bowman Lv. 50"," - Bowman Lv. 60");
+	    var suffix = new Array (" - 弓箭手 Lv. 15"," - 弓箭手 Lv. 20"," - 弓箭手 Lv. 25"," - 弓箭手 Lv. 30"," - 弓箭手 Lv. 35",
+		" - 弓箭手 Lv. 40"," - 弓箭手 Lv. 50"," - 弓箭手 Lv. 60");
 	    equip = true;
 	    for (var i = 0; i < items.length; i++) {
 		selStr += "\r\n#L" + i + "##z" + items[i] + "##k" + suffix[i] + "#l#b";
@@ -74,11 +74,11 @@ function action(mode, type, selection) {
 	    cm.sendSimple(selStr);
 	}
 	else if (selectedType == 3) { //glove upgrade
-	    var selStr = "Upgrade a glove? That shouldn't be too difficult. Which did you have in mind?#b";
+	    var selStr = "升级手套? That shouldn't be too difficult. Which did you have in mind?#b";
 	    var items = new Array (1082015,1082014,1082017,1082018,1082049,1082050,1082069,1082070,1082072,1082073,1082085,1082083,1082090,1082091);
-	    var suffix = new Array (" - Bowman Lv. 20"," - Bowman Lv. 20"," - Bowman Lv. 25"," - Bowman Lv. 25"," - Bowman Lv. 30",
-		" - Bowman Lv. 30"," - Bowman Lv. 35"," - Bowman Lv. 35"," - Bowman Lv. 40"," - Bowman Lv. 40"," - Bowman Lv. 50",
-		" - Bowman Lv. 50"," - Bowman Lv. 60"," - Bowman Lv. 60");
+	    var suffix = new Array (" - 弓箭手 Lv. 20"," - 弓箭手 Lv. 20"," - 弓箭手 Lv. 25"," - 弓箭手 Lv. 25"," - 弓箭手 Lv. 30",
+		" - 弓箭手 Lv. 30"," - 弓箭手 Lv. 35"," - 弓箭手 Lv. 35"," - 弓箭手 Lv. 40"," - 弓箭手 Lv. 40"," - 弓箭手 Lv. 50",
+		" - 弓箭手 Lv. 50"," - 弓箭手 Lv. 60"," - 弓箭手 Lv. 60");
 	    for (var i = 0; i < items.length; i++) {
 		selStr += "\r\n#L" + i + "##z" + items[i] + "##k" + suffix[i] + "#l#b";
 	    }
@@ -86,8 +86,8 @@ function action(mode, type, selection) {
 	    cm.sendSimple(selStr);
 	}
 	else if (selectedType == 4) { //material refine
-	    var selStr = "Materials? I know of a few materials that I can make for you...#b";
-	    var materials = new Array ("Make Processed Wood with Tree Branch","Make Processed Wood with Firewood","Make Screws (packs of 15)");
+	    var selStr = "材料？我知道几种可以为你制作的材料……#b";
+	    var materials = new Array ("用树枝制作加工木材","用木柴制作加工木材","制作螺丝（每组15个）");
 	    for (var i = 0; i < materials.length; i++) {
 		selStr += "\r\n#L" + i + "# " + materials[i] + "#l";
 	    }
@@ -95,8 +95,8 @@ function action(mode, type, selection) {
 	    cm.sendSimple(selStr);
 	}
 	else if (selectedType == 5) { //arrow refine
-	    var selStr = "Arrows? Not a problem at all.#b";
-	    var arrows = new Array ("Arrow for Bow","Arrow for Crossbow","Bronze Arrow for Bow","Bronze Arrow for Crossbow","Steel Arrow for Bow","Steel Arrow for Crossbow");
+	    var selStr = "箭矢？完全没问题。#b";
+	    var arrows = new Array ("弓用箭矢","弩用箭矢","Bronze 弓用箭矢","Bronze 弩用箭矢","Steel 弓用箭矢","Steel 弩用箭矢");
 	    for (var i = 0; i < arrows.length; i++) {
 		selStr += "\r\n#L" + i + "# " + arrows[i] + "#l";
 	    }
@@ -119,7 +119,7 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "So, you want me to make some #t" + item + "#s? In that case, how many do you want me to make?";
+	var prompt = "所以，你想让我制作一些#t" + item + "#？那你想让我制作多少个呢？";
 		
 	cm.sendGetNumber(prompt,1,1,100)
     }
@@ -190,13 +190,13 @@ function action(mode, type, selection) {
 	    cost = costSet[selectedItem];
 	}
 		
-	var prompt = "You want me to make ";
+	var prompt = "你想让我制作 ";
 	if (qty == 1)
 	    prompt += "a #t" + item + "#?";
 	else
 	    prompt += qty + " #t" + item + "#?";
 			
-	prompt += " In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
+	prompt += " 那我需要你提供一些特定的材料。不过请确保你的背包有空间！#b";
 		
 	if (mats instanceof Array) {
 	    for(var i = 0; i < mats.length; i++) {
@@ -208,7 +208,7 @@ function action(mode, type, selection) {
 	}
 		
 	if (cost > 0)
-	    prompt += "\r\n#i4031138# " + cost * qty + " meso";
+	    prompt += "\r\n#i4031138# " + cost * qty + " 金币";
 		
 	cm.sendYesNo(prompt);
     }
@@ -216,7 +216,7 @@ function action(mode, type, selection) {
 	var complete = false;
 		
 	if (cm.getMeso() < cost * qty) {
-	    cm.sendOk("I'm afraid you cannot afford my services.")
+	    cm.sendOk("恐怕你付不起我的服务费。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -233,7 +233,7 @@ function action(mode, type, selection) {
         }
 			
 	if (!complete)
-	    cm.sendOk("Surely you, of all people, would understand the value of having quality items? I can't do that without the items I require.");
+	    cm.sendOk("你当然应该理解拥有优质装备的价值吧？没有我需要的材料，我可做不出来。");
 	else {
 	    if (cm.canHold(item)) {
 		if (mats instanceof Array) {
@@ -255,10 +255,10 @@ function action(mode, type, selection) {
 		    cm.gainItem(4003000, 15 * qty);
 		else
 		    cm.gainItem(item, qty);
-		cm.sendOk("A perfect item, as usual. Come and see me if you need anything else.");
+		cm.sendOk("一如既往的完美之作。如果你还需要什么，来找我就好。");
 	    }
 	    else {
-		cm.sendOk("Please make sure you have room in your inventory, and talk to me again.");
+		cm.sendOk("请确保你的背包有空间，然后再来和我说话。");
 	    }
 	}
 	cm.dispose();

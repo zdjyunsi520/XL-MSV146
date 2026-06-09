@@ -5,15 +5,15 @@ function enter(pi) {
 	if (pi.isLeader() && pi.haveItem(4032248, 17)) {
 	if (pi.getPlayer().getParty() != null) {
 		pi.warpParty(674030200, 0);
-		pi.mapMessage(5, "Hammer the rock and defeat MV!");
+		pi.mapMessage(5, "敲碎岩石并击败MV！");
 		pi.removeAll(4032248);
 	} else {
 		pi.changeMap(674030200, 0);
-		pi.playerMessage(5, "Hammer the rock and defeat MV!");
+		pi.playerMessage(5, "敲碎岩石并击败MV！");
 		pi.removeAll(4032248);
 	}
 	} else {
-		pi.playerMessage(5, "Make sure you're the party leader and have 17 Maps to MV's Lair.");
+		pi.playerMessage(5, "确保你是队伍队长并拥有17张地图通往MV的巢穴。");
 	}
 	} catch (e) {
 		pi.playerMessage("Error: " + e);

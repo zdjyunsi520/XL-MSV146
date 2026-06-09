@@ -17,17 +17,17 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("I know it's not a tough task, so come back to me if you're ready.");
+			qm.sendOk("我知道这不是什么难事，所以准备好了就回来找我。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("Oh, I almost forgot! What was I thinking? I need you to hand this #bSample of Killer Mushroom Spores#k to #bMinister of Magic#k and report the results.");
+		qm.sendAcceptDecline("哦，我差点忘了！我在想什么呢？我需要你把这个#b杀手蘑菇孢子样本#k交给#b魔法大臣#k并报告结果。");
 	if (status == 1){
 		qm.forceStartQuest();
 		qm.gainItem(4032389, 1);
-		qm.sendOk("The #bMinister of Magic#k told me once the #bKiller Mushroom Spores#k is complete, that he'll want a sample of it as well. I'll give you the sample; now go please hand it in to our #bMinister of Magic.#k");
+		qm.sendOk("#b魔法大臣#k曾告诉过我，一旦#b杀手蘑菇孢子#k完成，他也想要一份样本。我把样本给你；现在去交给我们的#b魔法大臣#k吧。");
 		qm.dispose();
 	}
 }
@@ -43,11 +43,11 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("Are the #bKiller Mushroom Spores#k finally completed?");
+		qm.sendOk("#b杀手蘑菇孢子#k终于完成了吗？");
 	if (status == 1){
 		qm.gainExp(4200);
 		qm.gainItem(4032389, -1);
-		qm.sendOk("Okay, so this is the #bKiller Mushroom Spores.#k Thank you, thank you, and please tell #bScarrs#k the same.");
+		qm.sendOk("好的，这就是#b杀手蘑菇孢子#k。谢谢，谢谢，也请代我向#b斯卡斯#k道谢。");
 		qm.forceCompleteQuest();
 		qm.dispose();
 	}

@@ -7,7 +7,7 @@ function enter(pi) {
 
     // only let people through if the eim is ready
     if (eim.getProperty("3stageclear") == null) { // do nothing; send message to player
-	pi.playerMessage(5, "The portal is blocked.");
+	pi.playerMessage(5, "传送门被封锁了。");
     } else {
 	pi.warp(910340400, "st00");
     }

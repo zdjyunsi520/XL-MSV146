@@ -20,17 +20,17 @@ function action(mode, type, selection) {
 	}
 	status++;
 	if (status == 0) {
-	    cm.sendNext("I am the compensation NPC. If you have any pending reimbursements or items waiting for you from the staff, I can distribute it to you.");
+	    cm.sendNext("你没有待处理的赔偿。");
 	} else if (status == 1) {
 	    imburse = cm.getCompensation();
 	    if (imburse == null || imburse.left <= 0 || imburse.mid > 0) {
-		cm.sendOk("You have no pending reimbursements.");
+		cm.sendOk("请在所有背包中至少腾出10个空间。");
 		cm.safeDispose();
 	    } else if (!cm.canHoldSlots(10)) {
-		cm.sendOk("Please make at least 10 inventory space in ALL of your inventories.");
+		cm.sendOk("数据库显示你有一笔赔偿待领取！你想现在兑换吗？");
 		cm.safeDispose();
 	    } else {
-		cm.sendYesNo("The database specifies that you have a reimbursement waiting! Would you like to redeem it now?");
+		cm.sendYesNo("赔偿已发放。希望你喜欢~");
 	    }
 	} else if (status == 2) {
 	    var ourValue = imburse.left * 1000000; //billions!
@@ -80,7 +80,7 @@ function action(mode, type, selection) {
 		cm.gainItem(medal, 1);
 	    }
 	    cm.gainMeso(((ourValue % 1000000) * 1000) | 0);
-	    cm.sendOk("You have been reimbursed. Hope you enjoy~");
+	    cm.sendOk("赔偿已发放。希望你喜欢~");
 	    cm.safeDispose();
 	}
 }

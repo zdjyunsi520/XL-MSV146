@@ -1,7 +1,7 @@
 var status = -1;
 //this quest is NELLA INVESTIGATION
 function start(mode, type, selection) {
-	qm.sendNext("Let's talk to Nella of Kerning City.");
+	qm.sendNext("去和废弃都市的内拉谈谈。");
 	qm.forceStartQuest();
 	qm.dispose();
 }

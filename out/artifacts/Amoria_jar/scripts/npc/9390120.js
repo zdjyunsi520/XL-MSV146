@@ -19,18 +19,18 @@ function action(mode, type, selection) {
     }
     mode == 1 ? status++ : status--;
     if (status == 0) {
-        cm.sendSimpleS("#e#r<Road to Gollux>#n#k\r\nThis is where #rGollux#k, the Heart tree is located. Good luck on defeating him, #h #.\r\n\r\n#b#L0#Use #i4033981#Fragile Heart Tree Key to fight Gollux now. (Lv. 140 Required)#n#k #l\r\n#L1##bGo later#k#l",5);
+        cm.sendSimpleS("请确保你已达到#e#bLv.140#n#k并拥有#i4033981##e#r脆弱心之树钥匙#k。",5);
     } else if (status == 1) {
     if (selection == 0) {
 	    if (cm.getPlayer().getLevel() >= 140 && cm.haveItem(4033981, 1)) {
 		cm.warp(863000920);
 		cm.dispose();
 		}else
-         cm.sendOk("Make sure you are #e#bLv. 140#n#k and have a #i4033981##e#rFragile Heart Tree Key#k.");
+         cm.sendOk("改变主意了再回来找我吧。");
          cm.dispose();
 		return;
 	} else if (selection == 1) {		
-		 cm.sendNext("Come back to me when you have changed your mind.");
+		 cm.sendNext("改变主意了再回来找我吧。");
          cm.dispose();
 		 return;	 
      }

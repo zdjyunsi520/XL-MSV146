@@ -10,27 +10,27 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status <= 1) {
-	    cm.sendNext("You must have some business to take care of here. You must be tired from all that traveling and hunting. Go take some rest, and if you feel like changing your mind, then come talk to me.");
+	    cm.sendNext("你一定在这里有什么事情要办吧。旅行和打猎一定让你很累了吧。去休息一下吧，如果你改变主意了，再来找我。");
 	    cm.safeDispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	cm.sendSimple("Have you heard of the beach with a spectacular view of the ocean called #bFlorina Beach#k, located near Lith Harbor? I can take you there right now for either #b1500 mesos#k, or if you have a #bVIP Ticket to Florina Beach#k with you, in which case you'll be there for free.\r\n\r\n#L0##b I'll pay 1500 mesos.#l\r\n#L1# I have a VIP Ticket to Florina Beach.#l\r\n#L2# What is a VIP Ticket to Florina Beach#k?#l");
+	cm.sendSimple("你听说过在里本港附近有一个海景壮丽的海滩叫做#b弗洛里纳海滩#k吗？我现在就可以带你去，只需#b1500金币#k，或者如果你有#b弗洛里纳海滩VIP券#k的话，就可以免费过去。\r\n\r\n#L0##b 我付1500金币。#l\r\n#L1# 我有弗洛里纳海滩VIP券。#l\r\n#L2# 弗洛里纳海滩VIP券是什么？#k#l");
     } else if (status == 1) {
 	if (selection == 0) {
-	    cm.sendYesNo("So you want to pay #b1500 mesos#k and leave for Florina Beach? Alright, then, but just be aware that you may be running into some monsters around there, too. Okay, would you like to head over to Florina Beach right now?");
+	    cm.sendYesNo("所以你想支付#b1500金币#k前往弗洛里纳海滩？好的，不过请注意那里也可能会遇到怪物。那么，你现在想前往弗洛里纳海滩吗？");
 	} else if (selection == 1) {
 	    status = 2;
-	    cm.sendYesNo("So you have a #bVIP Ticket to Florina Beach#k? You can always head over to Florina Beach with that. Alright then, but just be aware that you may be running into some monsters there too. Okay, would you like to head over to Florina Beach right now?");
+	    cm.sendYesNo("你有#b弗洛里纳海滩VIP券#k？有了它你随时都可以前往弗洛里纳海滩。好的，不过请注意那里也可能会遇到怪物。那么，你现在想前往弗洛里纳海滩吗？");
 	} else if (selection == 2) {
 	    status = 4;
-	    cm.sendNext("You must be curious about a #bVIP Ticket to Florina Beach#k. Haha, that's very understandable. A VIP Ticket to Florina Beach is an item where as long as you have in possession, you may make your way to Florina Beach for free. It's such a rare item that even we had to buy those, but unfortunately I lost mine a few weeks ago during my precious summer break.");
+	    cm.sendNext("你一定对#b弗洛里纳海滩VIP券#k很好奇吧。哈哈，这完全可以理解。弗洛里纳海滩VIP券是一种物品，只要你拥有它，就可以免费前往弗洛里纳海滩。它是非常稀有的物品，就连我们都得花钱购买，可惜我在暑假期间把它弄丢了。");
 	}
     } else if (status == 2) {
 	if (cm.getMeso() < 1500) {
-	    cm.sendNext("I think you're lacking mesos. There are many ways to gather up some money, you know, like... selling your armor... defeating monsters... doing quests... you know what I'm talking about.");
+	    cm.sendNext("我觉得你的金币不够。有很多方法可以攒钱的，比如……卖掉装备……打倒怪物……做任务……你懂我在说什么吧。");
 	    cm.safeDispose();
 	} else {
 	    cm.gainMeso(-1500);
@@ -44,13 +44,13 @@ function action(mode, type, selection) {
 	    cm.warp(120030000, 0);
 	    cm.dispose();
 	} else {
-	    cm.sendNext("Hmmm, so where exactly is your #bVIP Ticket to Florina\r\nBeach#k? Are you sure you have one? Please double-check.");
+	    cm.sendNext("嗯，你的#b弗洛里纳海滩\r\nVIP券#k到底在哪里呢？你确定你有吗？请再仔细检查一下。");
 	    cm.safeDispose();
 	}
     } else if (status == 4) {
-	cm.sendNext("You must be curious about a #bVIP Ticket to Florina Beach#k. Haha, that's very understandable. A VIP Ticket to Florina Beach is an item where as long as you have in possession, you may make your way to Florina Beach for free. It's such a rare item that even we had to buy those, but unfortunately I lost mine a few weeks ago during my precious summer break.");
+	cm.sendNext("你一定对#b弗洛里纳海滩VIP券#k很好奇吧。哈哈，这完全可以理解。弗洛里纳海滩VIP券是一种物品，只要你拥有它，就可以免费前往弗洛里纳海滩。它是非常稀有的物品，就连我们都得花钱购买，可惜我在暑假期间把它弄丢了。");
     } else if (status == 5) {
-	cm.sendNextPrev("I came back without it, and it just feels awful not having it. Hopefully someone picked it up and put it somewhere safe. Anyway, this is my story and who knows, you may be able to pick it up and put it to good use. If you have any questions, feel free to ask.");
+	cm.sendNextPrev("我没带它就回来了，没有它的感觉真糟糕。希望有人捡到它并放好了。总之，这就是我的故事，谁知道呢，也许你能捡到它并好好利用。如果你有任何问题，尽管问吧。");
     } else if (status == 6) {
 	cm.dispose();
     }

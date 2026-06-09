@@ -24,13 +24,13 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-        cm.sendSimple("What would you like to do? If you have never participated in the Monster Carnival, you'll need to know a thing or two about it before joining.\r\n#b#L0# Go to the Monster Carnival Field.#l");
+        cm.sendSimple("你想做什么？如果你从未参加过怪物嘉年华，那么在加入之前你需要了解一些相关知识。\r\n#b#L0# 前往怪物嘉年华场地。#l");
     } else if (status == 1) {
         switch (selection) {
             case 0: {
                 var level = cm.getPlayerStat("LVL");
                 if ( level < 50) {
-                    cm.sendOk("I'm sorry, but only the users Level 50+ may participate in Monster Carnival.");
+                    cm.sendOk("抱歉，只有等级50以上的玩家才能参加怪物嘉年华。");
                 } else {
                     cm.warp( 980030000, "st00" );
                 }
@@ -59,9 +59,9 @@ function action(mode, type, selection) {
         }
 	cm.getPlayer().endPartyQuest(1302);
         if (carnivalparty.isWinner()) {
-            cm.sendOk("You won the battle, despite your amazing performance. Victory is yours. \r\n#bMonster Carnival Rank : " + rank);
+            cm.sendOk("你赢得了战斗，尽管你的表现非常出色。胜利属于你。\r\n#b怪物嘉年华排名： " + rank);
         } else {
-            cm.sendOk("Unfortunately, you have either tied or lost the battle, despite your amazing performance. Victory should be yours the next time up. \r\n#bMonster Carnival Rank : " + rank);
+            cm.sendOk("很遗憾，尽管你的表现非常出色，但你还是平局或输掉了战斗。下次胜利一定属于你。\r\n#b怪物嘉年华排名： " + rank);
         }
     } else if (status == 101) {
         var carnivalparty = cm.getCarnivalParty();

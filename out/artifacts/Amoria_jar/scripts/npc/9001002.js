@@ -1,5 +1,5 @@
 var status;
-var text = "Hey Quick Pick One Before I Shoot You!";
+var text = "嘿，快点选一个不然我要开枪了！";
 
 function start() {
     status = -1;
@@ -10,31 +10,31 @@ function action(mode, type, selection) {
     if (mode == 1)
         status++;
     else {
-        cm.sendOk("#e#kOk, see you next time!");
+        cm.sendOk("#e#k好的，下次见！");
         cm.dispose();
         return;
     }
     if (status == 0) {
-        cm.sendNext("#e#k Hello #r#h ##k. I am the All in One seller of Maple Blade!"); // enter your server name.
+        cm.sendNext("#e#k 你好 #r#h ##k。我是Maple Blade的全能卖家！"); // enter your server name.
     } else if (status == 1) {
-        cm.sendSimple("" + text + " \r\n\r\n#L0##e#rMagician#l\r\n#L1#Thief#l\r\n#L2#Warrior#l\r\n#L3#Archer#l\r\n#L4#Pirate#l\r\n#L5#Common#l");
+        cm.sendSimple("" + text + " \r\n\r\n#L0##e#r魔法师#l\r\n#L1#飞侠#l\r\n#L2#战士#l\r\n#L3#弓箭手#l\r\n#L4#海盗#l\r\n#L5#通用#l");
     } else if (status == 2) {
         if (selection == 0) { // Magician Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L0##e#rHats#l\r\n#L1#Overalls#l\r\n#L2#Gloves#l\r\n#L3#Shields#l\r\n#L4#Shoes#k#l\r\n#L5##rWands#l\r\n#L6#Staffs#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L0##e#r帽子#l\r\n#L1#套服#l\r\n#L2#手套#l\r\n#L3#盾牌#l\r\n#L4#鞋子#k#l\r\n#L5##r短杖#l\r\n#L6#长杖#l");
         } else if (selection == 1) { // Thief Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L7##e#bHats#l\r\n#L8#Tops#l\r\n#L9#Bottoms#l\r\n#L10#Overalls#l\r\n#L11#Gloves#l\r\n#L12#Shields#l\r\n#L13#Shoes#l\r\n#L14#Daggers#l\r\n#L15#Claws#l\r\n#L16#Throwing Stars#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L7##e#b帽子#l\r\n#L8#上衣#l\r\n#L9#下衣#l\r\n#L10#套服#l\r\n#L11#手套#l\r\n#L12#盾牌#l\r\n#L13#鞋子#l\r\n#L14#短刀#l\r\n#L15#拳套#l\r\n#L16#飞镖#l");
         } else if (selection == 2) { // Warrior Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L17##e#dHats#l\r\n#L18#Warrior Top#l\r\n#L19#Bottom#l\r\n#L20#Overalls#l\r\n#L21#Gloves#l\r\n#L22#Shields#l\r\n#L23#Shoes#l\r\n#L24#One-Handed Axes#l\r\n#L25#Two-Handed Axes#l\r\n#L26#One-Handed BWs#l\r\n#L27#Two-Handed BWs#l\r\n#L28#One-Handed Swords#l\r\n#L29#Two-Handed Swords#l\r\n#L30#Spears#l\r\n#L31#Pole Arms#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L17##e#d帽子#l\r\n#L18#战士上衣#l\r\n#L19#下衣#l\r\n#L20#套服#l\r\n#L21#手套#l\r\n#L22#盾牌#l\r\n#L23#鞋子#l\r\n#L24#单手斧#l\r\n#L25#双手斧#l\r\n#L26#单手钝器#l\r\n#L27#双手钝器#l\r\n#L28#单手剑#l\r\n#L29#双手剑#l\r\n#L30#枪#l\r\n#L31#矛#l");
         } else if (selection == 3) { // Archer Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L32##e#gHats#l\r\n#L33#Overalls#l\r\n#L34#Gloves#l\r\n#L35#Shoes#l\r\n#L36#Bows#l\r\n#L37#CrossBows#l\r\n#L38#Arrows#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L32##e#g帽子#l\r\n#L33#套服#l\r\n#L34#手套#l\r\n#L35#鞋子#l\r\n#L36#弓#l\r\n#L37#弩#l\r\n#L38#箭矢#l");
         } else if (selection == 4) { // Pirate Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L39##e#bHats#l\r\n#L40#Overalls#l\r\n#L41#Gloves#l\r\n#L42#Shoes#l\r\n#L43#Weapons#l\r\n#L44#Bullets and Capsules#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L39##e#b帽子#l\r\n#L40#套服#l\r\n#L41#手套#l\r\n#L42#鞋子#l\r\n#L43#武器#l\r\n#L44#子弹和胶囊#l");
         } else if (selection == 5) { // Common Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L53#Maple Weapons#l\r\n#L54#Level 0 Weapons#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L53#枫之谷武器#l\r\n#L54#0级武器#l");
         } else if (selection == 6) { // NX Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L55##e#bHats#l\r\n#L56#Earrings#l\r\n#L57#Face#l\r\n#L58#Tops#l\r\n#L59#Bottoms#l\r\n#L60#Capes#l\r\n#L61#Overalls#l\r\n#L62#Rings#l\r\n#L63#Gloves#l\r\n#L64#Shields#l\r\n#L65#Shoes#l\r\n#L66#Weapons#l\r\n#L67#Throwing Stars#l\r\n#L68#Pets#l\r\n#L69#Pet Misc#l\r\n#L70#Emotion#l\r\n#L71#Effects#l\r\n#L72#Accessories#l\r\n#L73#Player FM Stores#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L55##e#b帽子#l\r\n#L56#耳环#l\r\n#L57#脸饰#l\r\n#L58#上衣#l\r\n#L59#下衣#l\r\n#L60#披风#l\r\n#L61#套服#l\r\n#L62#戒指#l\r\n#L63#手套#l\r\n#L64#盾牌#l\r\n#L65#鞋子#l\r\n#L66#武器#l\r\n#L67#飞镖#l\r\n#L68#宠物#l\r\n#L69#宠物用品#l\r\n#L70#表情#l\r\n#L71#特效#l\r\n#L72#装饰品#l\r\n#L73#个人自由市场商店#l");
         } else if (selection == 7) { // ETC Choices
-            cm.sendSimple("" + text + " \r\n\r\n#L74##e#rMessengers#l\r\n#L75#Super Megaphones, Gachapon Tickets, Rocks, and Morphs#l\r\n#L76#Boss Pieces#l\r\n#L77#Buffs and Potions#l\r\n#L78#Scrolls#l\r\n#L80#Chairs#l\r\n#L81#Mounts#l");
+            cm.sendSimple("" + text + " \r\n\r\n#L74##e#r信使#l\r\n#L75#超级广播喇叭、转蛋券、岩石和变身道具#l\r\n#L76#Boss碎片#l\r\n#L77#增益道具和药水#l\r\n#L78#卷轴#l\r\n#L80#椅子#l\r\n#L81#坐骑#l");
         }
     } else if (status == 3) {
         cm.openShop(5000+selection);

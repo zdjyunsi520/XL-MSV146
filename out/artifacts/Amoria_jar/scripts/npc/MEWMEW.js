@@ -5,7 +5,7 @@
 */
 
 var status = 0;
-var jobs = [["Warrior", 100], ["Magician", 200], ["Bowman", 300], ["Thief", 400], ["Pirate", 500], ["Dawn Warrior", 1100], ["Blaze Wizard", 1200], ["Wind Archer", 1300], ["Night Walker", 1400], ["Thunder Breaker", 1500], ["Aran", 2000], ["Evan", 2200], ["Mercedes", 2300], ["Phantom", 2400], ["Dual Blade", 430], ["Cannoneer", 501], ["Jett", 508], ["Demon Slayer", 3100], ["Battle Mage", 3200], ["Wild Hunter", 3300], ["Mechanic", 3500], ["Mihile", 5100]];
+var jobs = [["Warrior", 100], ["Magician", 200], ["Bowman", 300], ["Thief", 400], ["Pirate", 500], ["炎术士", 1100], ["风灵使者", 1200], ["夜行者", 1300], ["奇袭者", 1400], ["双刀", 1500], ["Aran", 2000], ["Evan", 2200], ["Mercedes", 2300], ["Phantom", 2400], ["恶魔猎手", 430], ["Cannoneer", 501], ["Jett", 508], ["战斗法师", 3100], ["豹弩游侠", 3200], ["..嗯，我是MEWMEW..说，你看起来伤痕累累的..你还能走路吗？", 3300], ["Mechanic", 3500], ["Mihile", 5100]];
 
 function start() {
 	status = -1;
@@ -17,20 +17,20 @@ function action(mode, type, selection) {
 	if (cm.getMapId() == 2) {
 		switch (status) {
 			case 0:
-				cm.sendNextNoESC("..Well, I'm MEWMEW.. Say, you look beaten up.. Can you still walk?");
+				cm.sendNextNoESC("..呃，我想可以..");
 				break;
 			case 1:
-				cm.sendNextPrevS("..Ugh, I think so..");
+				cm.sendNextPrevS("好，我们先来热热身，然后再交换更多信息。");
 				break;
 			case 2:
-				cm.sendNextPrevS("Well, let's get your body warmed up before we exchange more information.", 1);
+				cm.sendNextPrevS("你看到右边那个悬崖区域了吗？穿过那个传送口。在那儿见。", 1);
 				break;
 			case 3:
-				cm.sendNextPrevS("You see that cliff area on the right? Go through that portal. See you there.", 1);
+				cm.sendNextPrevS("唉...我应该回去睡觉了。", 1);
 				cm.hideNpc(cm.getNpc());
 				break;
 			case 4:
-				cm.sendNextPrevS("Sigh...I should go back to sleep.");
+				cm.sendNextPrevS("喵！干得不错，小家伙。好吧，承诺就是承诺，进城堡来吧，我告诉你你需要知道的。");
 				cm.warp(cm.getMapId() + 1);
 				cm.dispose();
 				break;
@@ -40,23 +40,23 @@ function action(mode, type, selection) {
 			case 0:
 				if (cm.haveItem(2000000, 1) || cm.haveItem(2000003, 1) || cm.haveItem(4000253, 1)) { // Get ID for Milk Bottles
 					if (cm.haveItem(4000252, 10)) {
-						cm.sendOk("Nya! Good work there, small fry. Alright, a promise is a promise, come into the castle and I'll tell you what you need to know.");
+						cm.sendOk("完成我交给你的任务后再来吧。");
 						cm.hideNpc(cm.getNpc());
 					} else
-						cm.sendOk("Come back when you finish what I asked for.");
+						cm.sendOk("那么，你能告诉我这是什么地方了吗？");
 					cm.dispose();
 				} else
-					cm.sendNextS("So, can you tell me where I am now?", 2);
+					cm.sendNextS("等等，现在不行..你看到那些老鼠了吗..？那些混蛋把这里搞得一团糟。", 2);
 				break;
 			case 1:
-				cm.sendNextPrev("Hang on, not now... Do you see those mice..? Those fucks are responsible for making such a mess here.");
+				cm.sendNextPrev("我相信你还有力气攻击，对吧？你很弱，但我相信你能搞定它们。");
 				break;
 			case 2:
-				cm.sendNextPrev("I'm sure you still have strength to attack, right? You are pretty weak, but I'm sure you can take them out.");
+				cm.sendNextPrev("来，拿着这些药水。\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#b#i2000000:#红色药水\r\n#i2000003:#蓝色药水#k");
 				break;
 			case 3:
 				if (mode > 0) {
-					cm.sendNextPrev("Here, take these potions.\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#b#i2000000:# Red Potion\r\n#i2000003:# Blue Potion#k");
+					cm.sendNextPrev("如果你的HP或MP低了，打开背包（默认按键是\"I\"），把它拖到你想使用的快捷键上。\r\n双击背包中选中的物品也可以使用。");
 					if (!cm.haveItem(2000000, 1) && !cm.haveItem(2000003, 1)) {
 						cm.gainItem(2000000, 20); // Red Potion
 						cm.gainItem(2000003, 20); // Blue Potion
@@ -64,17 +64,17 @@ function action(mode, type, selection) {
 				}
 				break;
 			case 4:
-				cm.sendNextPrev("If you run low on HP or MP, just open up your inventory (the default key is \"I\") and drag it to the key you wish to use.\r\nDouble-clicking on the selected item in your inventory will also consume the item.");
+				cm.sendNextPrev("是啊..这些我都知道了。");
 				break;
 			case 5:
-				cm.sendNextPrevS("Yeah..Pretty sure I know all this already.", 2);
+				cm.sendNextPrevS("随便吧..我饿了。打死那些混蛋后偷走它们掉落的牛奶，之后我会告诉你你想知道的事。", 2);
 				break;
 			case 6:
-				cm.sendAcceptDecline("Whatever..I'm hungry. Steal the milk they drop once you clap one of those mother fuckers and I'll tell you what you want to know afterwards.");
+				cm.sendAcceptDecline("[MEWMEW]杀掉10只老鼠并带回来10瓶牛奶。");
 				break;
 			case 7:
 				if (mode > 0) {
-					cm.getPlayer().dropMessage(5, "[MEWMEW] Kill 10 Mice and bring me back 10 Milk Bottles.");
+					cm.getPlayer().dropMessage(5, "..好吧，我确定你很好奇发生了什么事..那就..坐好，让我告诉你怎么回事。");
 				}
 				cm.dispose();
 				break;
@@ -82,42 +82,42 @@ function action(mode, type, selection) {
 	} else if (cm.getMapId() == 4 && cm.getPlayer().getJobId() == 0 && !cm.haveItem(4000999, 1)) {
 		switch(status) {
 			case 0:
-				cm.sendNext("..Alright, I'm sure you are pretty curious on what is happening.. Just.. sit tight and let me tell you what's going on.");
+				cm.sendNext("好的，首先，在你说话之前..告诉我这是哪里！");
 				break;
 			case 1:
-				cm.sendNextPrevS("Okay, first of all, before you say anything.. TELL ME WHERE I AM!", 2);
+				cm.sendNextPrevS("..你在#eDevelopment#n，#h #..", 2);
 				break;
 			case 2:
-				cm.sendNextPrev("..You're in #eDevelopment#n, #h #.. ");
+				cm.sendNextPrev("#eDevelopment#n..这算什么世界名字？ ");
 				break;
 			case 3:
-				cm.sendNextPrevS("#eDevelopment#n.. What kind of world name is that?", 2);
+				cm.sendNextPrevS("..我们的世界叫做#eDevelopment#n，因为就像你自己和这个世界一样..它是不完整的，而且据我们所知，它永远不会完成..我们的三位创造者总是在为这个世界带来新的生命。", 2);
 				break;
 			case 4:
-				cm.sendNextPrev("..Our world is called #eDevelopment#n because just as yourself and this world in general.. It's incomplete, and as far as we know, it will never be completed.. Our three creators are always bringing us new life to this world.");
+				cm.sendNextPrev("..3位创造者？是我们身后的那三个吗？！那三座雕像？他们是谁，还有你是谁？");
 				break;
 			case 5:
-				cm.sendNextPrevS("..3 creators? Is that them behind us?! The three statues? Who are they, and and who are you?", 2);
+				cm.sendNextPrevS("我们的创造者", 2);
 				break;
 			case 6:
 				var rando = cm.getPlayer().rand(1, 10);
-				cm.sendNextPrev("Our creators " + ((rando >= 1 && rando <= 5) ? "Paul and Eric" : "Eric and Paul") + " created this world and are continuing to make it bigger. You might come across the creators in the future.");
+				cm.sendNextPrev("Paul和Eric " + ((rando >= 1 && rando <= 5) ? "Eric和Paul" : "创造了这个世界，并且正在继续扩大它。你将来可能会遇到创造者们。") + "至于我..我看起来可爱又毛茸茸的，但我是所有人的守护者。当有人进入这个世界时，我会引导他们度过最初的阶段，并在他们需要帮助时伸出援手。");
 				break;
 			case 7:
-				cm.sendNextPrev("As for me.. I may look cute and fluffy, but I am the guardian of everyone. When someone enters this world, I guide them through the beginning and when they need help.");
+				cm.sendNextPrev("好了#h #，我说得够多了。来，把这个当作奖励收下吧。\r\n\r\n#fUI/UIWindow.img/Quest/reward#\r\n\r\n#i1002000:#MEWMEW耳朵\r\n#i4000999:#萌币\r\n\r\n#fUI/UIWindow.img/QuestIcon/7/0#1,000,000枫币");
 				break;
 			case 8:
-				cm.sendNextPrev("Anyways #h #, I have spoken enough. Here, take this as a reward.\r\n\r\n#fUI/UIWindow.img/Quest/reward#\r\n\r\n#i1002000:# MEWMEW Ears\r\n#i4000999:# Munny\r\n\r\n#fUI/UIWindow.img/QuestIcon/7/0# 1,000,000 mesos");
+				cm.sendNextPrev("嗯..谢谢，我想..");
 				if (!cm.haveItem(4000999, 1) && cm.getMeso() < 1000000) {
 					cm.gainItem(1002000, 1); // MEWMEW Ears
 					cm.gainItem(4000999, 300); // Munny
 					cm.gainMeso(1000000); // 1,000,000 Mesos
 				}
 			case 9:
-				cm.sendNextPrevS("Uhm.. Thanks, I guess..", 2);
+				cm.sendNextPrevS("现在，你想走哪条路？你无法撤销你的决定，所以请慎重考虑。", 2);
 				break;
 			case 10:
-				var text = "Now, which path you would like to take? You can't take back your decision, so choose wisely.";
+				var text = "不错的选择。";
 				for (var i = 0; i < jobs.length; text += "\r\n#L" + i + "##b" + jobs[i][0] + "#k", i++);
 				cm.sendSimple(text);
 				break;
@@ -125,28 +125,28 @@ function action(mode, type, selection) {
 				if (mode > 0) {
 					cm.getPlayer().changeJob(jobs[selection][1]);
 				}
-				cm.sendNextS("Good choice.", 1);
+				cm.sendNextS("在你出发之前，你应该去找Kio或Kurry改变你的发型。你总能在自由市场找到他们。", 1);
 				break;
 			case 12:
-				cm.sendNextPrevS("Before you go, you should click on Kio or Kurry to change your hairstyle. You can always find them in the Free Market.", 1);
+				cm.sendNextPrevS("这里的事完成后，走进那个传送口，你会被传送到我们的主要目的地。", 1);
 				break;
 			case 13:
-				cm.sendOkS("When you are done here, go enter that portal and you'll transported to our main destination.", 1);
+				cm.sendOkS("哦，我差点忘了！输入@commands查看这个世界的命令。此外，每次你为#eDevelopment#n投票，你会获得150个#b#z4000999##k！", 1);
 				cm.dispose();
 		}
 	} else if (cm.getMapId() == 4 && cm.getPlayer().getJobId() > 0) {
 		switch(status) {
 			case 0:
-				cm.sendNextNoESC("OH, I almost forgot! Type @commands to view this worlds commands. Plus, each time you vote for #eDevelopment#n you receive 150 #b#z4000999##k!");
+				cm.sendNextNoESC("谢谢你的一切。");
 				break;
 			case 1:
-				cm.sendNextPrevS("Thank you for everything.");
+				cm.sendNextPrevS("我现在该去哪里？");
 				break;
 			case 2:
-				cm.sendNextPrevS("Where do I go now?");
+				cm.sendNextPrevS("随风而去吧。");
 				break;
 			case 3:
-				cm.sendNextPrevS("Just go where the wind blows you.", 1);
+				cm.sendNextPrevS("喵！我是MEWMEW！", 1);
 				break;
 			case 4:
 				cm.warp(cm.getMapId() + 1);
@@ -154,7 +154,7 @@ function action(mode, type, selection) {
 				break;
 		}
 	} else {
-		cm.sendOk("Nya! I'm MEWMEW!");
+		cm.sendOk("喵！我是MEWMEW！");
 		cm.dispose();
 	}
 }

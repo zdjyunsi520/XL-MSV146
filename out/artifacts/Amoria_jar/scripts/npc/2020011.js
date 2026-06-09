@@ -13,7 +13,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 1) {
-	    cm.sendOk("Make up your mind and visit me again.");
+	    cm.sendOk("想好了再来找我吧。");
 	    cm.safeDispose();
 	    return;
 	}
@@ -22,45 +22,45 @@ function action(mode, type, selection) {
 
     if (status == 0) {
 	if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432)) {
-	    cm.sendOk("You seem to have potential, train more and one day maybe I'll consider training you");
+	    cm.sendOk("你似乎有潜力，继续训练吧，也许有一天我会考虑训练你。");
 	    cm.safeDispose();
 	    return;
 	} if (cm.getJob() == 3612) {
-        cm.sendOk("Who the fuq're you?");
+        cm.sendOk("你是谁啊？");
 	    cm.safeDispose();
 	}if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432) && cm.getPlayerStat("LVL") >= 70) {
 	    if (cm.getJob() != 432 && cm.getPlayerStat("RSP") > (cm.getPlayerStat("LVL") - 70) * 3) {
 	        if (cm.getPlayer().getAllSkillLevels() > cm.getPlayerStat("LVL") * 3) { //player used too much SP means they have assigned to their skills.. conflict
-		    cm.sendOk("It appears that you have a great number of SP yet you have used enough SP on your skills already. Your SP has been reset. #ePlease talk to me again to make the job advancement.#n");
+		    cm.sendOk("看起来你有大量的SP，但你的技能已经使用了足够的SP。你的SP已被重置。#e请再次和我对话进行转职。#n");
 		    cm.getPlayer().resetSP((cm.getPlayerStat("LVL") - 70) * 3);
 	        } else {
-	    	    cm.sendOk("Hmm...You have too many #bSP#k. You can't make the job advancement with too many SP left.");
+	    	    cm.sendOk("嗯……你有太多的#bSP#k。SP太多的话无法进行转职。");
 	        }
 		cm.safeDispose();
 	    } else {
-	        cm.sendNext("You are indeed a strong one.");
+	        cm.sendNext("你确实是个强者。");
 	    }
 	} else {
-	    cm.sendOk("Please make sure that you are eligible for the job advancement. (level 70+)");
+	    cm.sendOk("请确保你符合转职条件。（70级以上）");
 	    cm.safeDispose();
 	}
     } else if (status == 1) {
 	    if (cm.getPlayerStat("LVL") >= 70 && (cm.getJob() == 432 || cm.getPlayerStat("RSP") <= (cm.getPlayerStat("LVL") - 70) * 3)) {
 	    	if (cm.getJob() == 410) { // ASSASIN
 			cm.changeJob(411); // HERMIT
-			cm.sendOk("You are now a #bHermit#k.");
+			cm.sendOk("你现在是一名#b隐士#k了。");
 			cm.safeDispose();
 	    	} else if (cm.getJob() == 420) { // BANDIT
 			cm.changeJob(421); // CDIT
-			cm.sendOk("You are now a #bChief Bandit#.");
+			cm.sendOk("你现在是一名#b神偷#k了。");
 			cm.safeDispose();
 		} else if (cm.getJob() == 432) { // 
 			cm.changeJob(433); // 
-			cm.sendOk("You are now a #bBlade Lord#k.");
+			cm.sendOk("你现在是一名#b刀刃领主#k了。");
 			cm.safeDispose();
 	    	}
 	    } else {
-		cm.sendOk("Come back when you are level 70 and used all your SP accordingly.");
+		cm.sendOk("等你达到70级并使用完所有SP后再来。");
 		cm.dispose();
 	    }
     }

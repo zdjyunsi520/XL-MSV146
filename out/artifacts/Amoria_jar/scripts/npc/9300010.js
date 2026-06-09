@@ -4,6 +4,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-	cm.sendNext("Lunar New Year is the best~");
+	cm.sendNext("新年最棒了~");
 	cm.safeDispose();
 }

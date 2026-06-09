@@ -6,23 +6,23 @@ function start() {
     if (cm.getQuestStatus(6225) == 1 || cm.getQuestStatus(6315) == 1) {
 	var ret = checkJob();
 	if (ret == -1) {
-	    cm.sendOk("Please form a party and talk to me again.");
+	    cm.sendOk("请组建队伍后再来和我说话。");
 	} else if (ret == 0) {
-	    cm.sendOk("Please make sure that your party is a size of 2.");
+	    cm.sendOk("请确保你的队伍人数为2人。");
 	} else if (ret == 1) {
-	    cm.sendOk("One of your party member's job is not eligible for entering the other world.");
+	    cm.sendOk("你的队伍中有成员的职业不符合进入异世界的条件。");
 	} else if (ret == 2) {
-	    cm.sendOk("One of your party member's level is not eligible for entering the other world.");
+	    cm.sendOk("你的队伍中有成员的等级不符合进入异世界的条件。");
 	} else {
 	    var dd = cm.getEventManager("ElementThanatos");
 	    if (dd != null) {
 		dd.startInstance(cm.getParty(), cm.getMap());
 	    } else {
-		cm.sendOk("An unknown error occured.");
+		cm.sendOk("发生了未知错误。");
 	    }
 	}
     } else {
-	cm.sendOk("You seems to have no reason to meet element-based Thanatos.");
+	cm.sendOk("你似乎没有理由去见基于元素的塔纳托斯。");
     }
     cm.dispose();
 }

@@ -3,6 +3,6 @@ function enter(pi) {
 		pi.warpParty(920010100);
 		pi.playPortalSE();
 	} else {
-		pi.playerMessage(5,"Please get the leader in this portal, make sure you have the Root of Life.");
+		pi.playerMessage(5,"请让队长进入此传送门，确保你拥有生命之根。");
 	}
 }

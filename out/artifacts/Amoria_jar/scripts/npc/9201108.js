@@ -3,10 +3,10 @@
 
 function start() {
 if (cm.getPlayer().getMap().getId() == 610030500) {
-        cm.sendOk("A legendary creature known as the Master Guardian awaits you. It was a Crimson Guardian that Ridley once experimented on, which resulted in its becoming highly resistant to magic attacks, spears, maces, everything--except arrows fired with exceptional power. Bowmen and women! As undisputed masters of the Bow and Arrow, you must use your most powerful attacks--everything from Strafe to Hurricane to Piercing Arrow to destroy this powerful creature and reach the Bowman Statue to claim The Ancestral Bow! Good luck!");
+        cm.sendOk("洛克伍德是已知仅有的神圣弓箭手之一，也是要塞最著名的英雄之一。特别值得一提的是他定制的白金战弓，据说由一位强大的女神赐福。他的瞄准在远距离上极为精准。以"创世之箭"和"末日凤凰"闻名，他曾一箭击落英雄谷中的六只提丰。");
 cm.dispose();
 } else if (cm.getPlayer().getMap().getId() == 610030000) {
-cm.sendOk("One of the only known Holy Archers, Lockewood is one of the Keep's most famous heroes. Of particular note is his custom white and gold battle barb, said to be blessed by a powerfull goddess. His aim was tremendously accurate over long distanes. Feared and respected for his 'Genesis Arrow' and 'Doom Phoenix', he once struck down six Typhons from the Valley of Heroes.");
+cm.sendOk("消灭所有大师守护者。");
 cm.dispose();
 } else if (cm.getPlayer().getMapId() == 610030540) {
 	if (cm.getPlayer().getMap().getAllMonstersThreadsafe().size() == 0) {
@@ -15,7 +15,7 @@ cm.dispose();
 		}
 		cm.warp(610030500,0);
 	} else {
-		cm.sendOk("Eliminate all of the Master Guardians.");
+		cm.sendOk("消灭所有大师守护者。");
 	}
 	cm.dispose();
 }

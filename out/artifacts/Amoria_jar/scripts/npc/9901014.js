@@ -17,7 +17,7 @@ function action(mode, type, selection) {
         cm.dispose();
     
     }else if (mode == 0){
-        cm.sendOk ("#eOkay, talk to me when you want to Super Scroll!");
+        cm.sendOk ("#e嘿，我是#rMaple Blade#k的腰带系统。");
         cm.dispose();
 
     }else{             
@@ -28,14 +28,14 @@ function action(mode, type, selection) {
         
         if (status == 0) {
         Rebirths = cm.getChar().getRebirths();
-        cm.sendNext("#eHey sup, I'm the Belt System of #rMaple Blade#k.");
+        cm.sendNext("如果你有足够的转生次数，就选一个吧！#e#d");
         }else if (status == 1) { 
-          cm.sendSimple ("If you got the sufficient amount of Rebirths, pick one!#e#d" +
-                 "#k\r\n#L0##r#v1132000# - Req. Level 120+, It gives all stats + 50, 5 W.att" +
-                 "#k\r\n#L1##r#v1132001# - Req. 1+ Rebirths It gives all stats + 120, 10 W.att" +
-                 "#k\r\n#L2##r#v1132002# - Req. 5+ Rebirths It gives all stats + 220, 15 W.att " +
-                 "#k\r\n#L3##r#v1132003# - Req. 10+ Rebirths It gives all stats + 420 20 W.att" +
-                 "#k\r\n#L4##r#v1132004# - Req. 20+ Rebirths It gives all stats + 777 30 W.att");
+          cm.sendSimple ("#k\r\n#L0##r#v1132000# - 需要等级120+，全属性+50，物攻+5" +
+                 "#k\r\n#L1##r#v1132001# - 需要1+次转生，全属性+120，物攻+10" +
+                 "#k\r\n#L2##r#v1132002# - 需要5+次转生，全属性+220，物攻+15" +
+                 "#k\r\n#L3##r#v1132003# - 需要10+次转生，全属性+420，物攻+20 " +
+                 "#k\r\n#L4##r#v1132004# - 需要20+次转生，全属性+777，物攻+30" +
+                 "你必须达到#r等级120以上#k才能获得此腰带，或者#r你已经拥有此物品#k，或者你的背包#r空间不足#k！");
 
             } else if (selection == 0) {  
             if(cm.getPlayer().getLevel() > 119  && !cm.haveItem(1132000) && cm.canHold(1132000)) {
@@ -49,7 +49,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must be #rLevel 120+#k to get this belt or #ryou already have the item#k or you don't have #renough space#k in your inventory!");
+             cm.sendOk ("你必须拥有#r1次以上转生#k才能获得此腰带，或者#r你已经拥有此物品#k，或者你的背包#r空间不足#k！");
              cm.dispose();
              }
             } else if (selection == 1) {  
@@ -64,7 +64,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have #r1 Rebirths+#k to get this belt or #ryou already have the item#k or you don't have #renough space#k in your inventory!");
+             cm.sendOk ("你必须拥有#r5次以上转生#k才能获得此腰带，或者#r你已经拥有此物品#k，或者你的背包#r空间不足#k！");
              cm.dispose();
              }
             } else if (selection == 2) {  
@@ -79,7 +79,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have #r5 Rebirths+#k to get this belt or #ryou already have the item#k or you don't have #renough space#k in your inventory!");
+             cm.sendOk ("你必须拥有#r10次以上转生#k才能获得此腰带，或者#r你已经拥有此物品#k，或者你的背包#r空间不足#k！");
              cm.dispose();
              }
             } else if (selection == 3) {  
@@ -94,7 +94,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have #r10 Rebirths+#k to get this belt or #ryou already have the item#k or you don't have #renough space#k in your inventory!");
+             cm.sendOk ("你必须拥有#r20次以上转生#k才能获得此腰带，或者#r你已经拥有此物品#k，或者你的背包#r空间不足#k！");
              cm.dispose();
              }
             } else if (selection == 4) {  
@@ -110,7 +110,7 @@ function action(mode, type, selection) {
             cm.gainItem(1132003, -1);
             cm.dispose();
                } else {
-             cm.sendOk ("You must have #r20 Rebirths+#k to get this belt or #ryou already have the item#k or you don't have #renough space#k in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 5) {  
@@ -125,7 +125,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 6) {  
@@ -141,7 +141,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 7) {  
@@ -156,7 +156,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 8) {  
@@ -171,7 +171,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 9) {  
@@ -186,7 +186,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 10) {  
@@ -201,7 +201,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 11) {  
@@ -216,7 +216,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 12) {  
@@ -231,7 +231,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 13) {  
@@ -246,7 +246,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 14) {  
@@ -261,7 +261,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 15) {  
@@ -276,7 +276,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
             } else if (selection == 16) {  
@@ -291,7 +291,7 @@ function action(mode, type, selection) {
             cm.reloadChar();
             cm.dispose();
                } else {
-             cm.sendOk ("You must have 50 Rebirths to use this item. Unless you already have the item or you don't have enough space in your inventory!");
+             cm.sendOk ("你需要50次转生才能使用此物品。除非你已经拥有此物品或背包空间不足！");
              cm.dispose();
              }
 }

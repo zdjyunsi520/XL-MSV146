@@ -14,18 +14,18 @@ status++;
     if (status == 0) {
 	if (cm.isPlayerInstance()) {
 		if (cm.getMapId() == 749040100) {
-			cm.sendSimple("What would you like to do? \r\n #L0#Leave the Mini Dungeon#l");
+			cm.sendSimple("你想做什么？\r\n #L0#离开迷你地下城#l");
 		} else {
-			cm.sendSimple("What would you like to do? \r\n #L0#Leave the Meso Map#l");
+			cm.sendSimple("你想做什么？\r\n #L0#离开金币地图#l");
 		}
 	} else {
-		cm.sendOk("Sorry, I am not coded yet.");
+		cm.sendOk("抱歉，我还没有被编写好。");
 		cm.safeDispose();
 		return;
 	}
     }
     else if (status == 1) {
-	cm.sendYesNo("Are you sure you want to do that? You won't be able to come back, and you won't be refunded either!");
+	cm.sendYesNo("你确定要这样做吗？你将无法再回来，而且也不会获得退款！");
     }
     else if (status == 2) {
 	if (cm.isPlayerInstance()) { 

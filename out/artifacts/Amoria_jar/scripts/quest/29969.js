@@ -12,13 +12,13 @@ function start(mode, type, selection) {
                 status--;
 
             if (status == 0) {
-                qm.sendNext("Lai la "+qm.getPlayer().getName()+" do ak?");
+                qm.sendNext("又是 "+qm.getPlayer().getName()+"的吗？");
             } else if (status == 1) {
-                qm.sendNextPrev("Ban da trai qua 1 doan duong dai de den day. Sao, thu vi chu?");
+                qm.sendNextPrev("你已经走过了漫长的旅途才来到这里。怎么样，很有趣吧？");
             } else if (status == 2) {
-                qm.sendNextPrev("Toi biet ban den day vi suc manh. No nam ben trong ban, gio toi se danh thuc no len 1 tam cao moi...");
+                qm.sendNextPrev("我知道你是凭借力量来到这里的。力量就在你的体内，现在我将它唤醒到一个新的高度……");
             } else if (status == 3) {
-                qm.sendSimple("Ban thuc su manh me. Hay su dung suc manh de giup do ban be...va hay cuu co ay...");
+                qm.sendSimple("你真的很强大。请用你的力量去帮助朋友们……还有请救救她……");
             } else if (status == 4) {
                 qm.forceStartQuest();
                 //qm.changeJob(2411);

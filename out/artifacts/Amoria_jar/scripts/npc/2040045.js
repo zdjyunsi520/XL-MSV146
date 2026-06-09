@@ -3,7 +3,7 @@
 */
 
 function start() {
-    cm.sendNext("This is the #rBonus Stage#k. Breaking the boxes will give you some rare equips and use items - you only have a minute, so what're you waiting for? Go break the boxes!");
+    cm.sendNext("这是#r奖励阶段#k。打破箱子可以获得一些稀有装备和消耗品——你只有一分钟时间，还等什么？快去打破箱子吧！");
 }
 
 function action(mode, type, selection) {

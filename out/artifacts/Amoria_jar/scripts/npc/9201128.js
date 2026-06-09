@@ -8,9 +8,9 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 		if (cm.getPlayer().getLevel() < 40) {
-			cm.sendYesNo("Would you like to move to Andras's Strolling Place?");
+			cm.sendYesNo("你需要低于40级并且拥有安德拉斯的项链才能进入。");
 		} else {
-			cm.sendOk("You need to be less than level 40 and need the Andras's Necklace to enter.");
+			cm.sendOk("你需要低于40级并且拥有安德拉斯的项链才能进入。");
 			cm.dispose();
 		}
 } else {

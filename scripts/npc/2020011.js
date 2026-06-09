@@ -21,14 +21,16 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432)) {
-	    cm.sendOk("你似乎有潜力，继续训练吧，也许有一天我会考虑训练你。");
-	    cm.safeDispose();
-	    return;
-	} if (cm.getJob() == 3612) {
+	// if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432)) {
+	//     cm.sendOk("你似乎有潜力，继续训练吧，也许有一天我会考虑训练你。");
+	//     cm.safeDispose();
+	//     return;
+	// } 
+	if (cm.getJob() == 3612) {
         cm.sendOk("你是谁啊？");
 	    cm.safeDispose();
-	}if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432) && cm.getPlayerStat("LVL") >= 70) {
+	}
+	if ((cm.getJob() == 410 || cm.getJob() == 420 || cm.getJob() == 432) && cm.getPlayerStat("LVL") >= 70) {
 	    if (cm.getJob() != 432 && cm.getPlayerStat("RSP") > (cm.getPlayerStat("LVL") - 70) * 3) {
 	        if (cm.getPlayer().getAllSkillLevels() > cm.getPlayerStat("LVL") * 3) { //player used too much SP means they have assigned to their skills.. conflict
 		    cm.sendOk("看起来你有大量的SP，但你的技能已经使用了足够的SP。你的SP已被重置。#e请再次和我对话进行转职。#n");
@@ -41,7 +43,7 @@ function action(mode, type, selection) {
 	        cm.sendNext("你确实是个强者。");
 	    }
 	} else {
-	    cm.sendOk("请确保你符合转职条件。（70级以上）");
+	    cm.sendOk("请确保你符合转职条件。（70级以上）"+cm.getJob());
 	    cm.safeDispose();
 	}
     } else if (status == 1) {

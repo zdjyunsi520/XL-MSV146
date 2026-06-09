@@ -2,7 +2,7 @@ var points;
 var one;
 var status = -1;
 var returnmap = 105200000;
-var menu = ["Useables","Ores","Equips(300,000 Each)"]; 
+var menu = ["Useables","Ores","装备（每个300,000金币）"]; 
 var talk = "\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\n\r##b"; 
 var rewards = [
 [[2070018,400000,1],[2070016,350000,1],[2340000,150000,5],[2530000,150000,4],[2531000,300000,3],[2049300,300000,3],[2049116,150000,1],[5750000,300000,8],[2049701,200000,1]],//Useables
@@ -39,9 +39,9 @@ function action(mode, type, selection) {
         data = "0";
     }
 	var time = parseInt(data);
-	//      cm.sendSimple("Von Bon Will be available in OurStory v4.0!");
+	//      cm.sendSimple("冯波将在OurStory v4.0中开放！");
 	//	  cm.dispose();
-        cm.sendSimple("#b#L101##v03994116#Normal Von Bon#l\r\n#b#L100##v03994442#Chaos Von Bon#l");
+        cm.sendSimple("#b#L101##v03994116#普通冯波#l\r\n#b#L100##v03994442#混沌冯波#l");
     }else if (status == 1) {
         if (mode == 1) {
             switch (selection) {
@@ -65,7 +65,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		        if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("已经有人在里面了。");
             cm.dispose();
             return;
 			}
@@ -79,28 +79,28 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("VonBonBattle");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("发生未知错误。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("所有玩家必须在地图中且等级达到150以上。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("你不是队伍的队长，请让队长和我对话。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("请先组建队伍。");
                         cm.dispose();
                     }
                     break;
 					                case 101:
 			            if (time + (12 * 3600000) >= cm.getCurrentTime() && !cm.getPlayer()) {
-		                cm.sendOk("You have already went to Horntail in the past 12 hours. Time left: " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
+		                cm.sendOk("你在过去12小时内已经去过黑龙了。剩余时间： " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
 		                cm.dispose();
 		                return;
 	                    }
@@ -123,7 +123,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		        if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("已经有人在里面了。");
             cm.dispose();
             return;
 			}
@@ -137,22 +137,22 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("VonBonEasy");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("发生未知错误。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 100.");
+                                cm.sendOk("所有玩家必须在地图中且等级达到100以上。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("你不是队伍的队长，请让队长和我对话。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("请先组建队伍。");
                         cm.dispose();
                     }
                     break;
@@ -163,7 +163,7 @@ function action(mode, type, selection) {
             c = selection; 
             for (var i = 0; i < rewards[c].length; i++) 
                 talk+="#L"+i+"##e#i"+rewards[c][i]+":##k#l"; 
-            cm.sendSimple("You can exchange your points for these "+rewards[c].length+" items\r\n#r#eYou have to click any of these items to recieve it.#k#n\r\n"+talk);
+            cm.sendSimple("你可以用你的积分兑换这些 "+rewards[c].length+" 物品\r\n#r#e你需要点击其中任意一个物品来领取。#k#n\r\n"+talk);
             one = false;
         }
     }else if (status == 3) {
@@ -176,15 +176,15 @@ function action(mode, type, selection) {
                 intPoints -= id[1];
                 record.setCustomData(""+intPoints+"");
                 cm.gainItem(id[0], id[2]);
-                //cm.sendOk("id "+id[0]+" price "+id[1]+" amount "+id[2]);         
-                cm.sendOk("Enjoy your reward");
+                //cm.sendOk("id "+id[0]+" 价格 "+id[1]+" 数量 "+id[2]);         
+                cm.sendOk("好好享受你的奖励吧。");
                 cm.dispose();
             } else {
-                cm.sendOk("Please check if you have sufficient inventory slot for it.");
+                cm.sendOk("请检查你是否有足够的背包空位。");
                 cm.dispose();
             }
         } else {
-		        	    var Error = "You don't have enough #rBossPQ Points#k,\r\n#b#t"+id[0]+"##k costs #b"+id[1]+"#k Bosspq Points";
+		        	    var Error = "你没有足够的#rBossPQ积分#k，\r\n#b#t"+id[0]+"##k 需要#b"+id[1]+"#k BossPQ积分";
 	
             cm.sendOk(Error);
             cm.dispose();

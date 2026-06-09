@@ -3,8 +3,8 @@
 */
 
 function act() {
-    rm.playerMessage(6, "Chaos Vellum has spawned! Be ready to fight!");
-    rm.getMap().startMapEffect("You ignore my warnings? I will show you no mercy!", 5120103);
+    rm.playerMessage(6, "混沌贝伦已出现！准备战斗！");
+    rm.getMap().startMapEffect("你无视我的警告？我不会手下留情！", 5120103);
 	var mob0 = rm.getMonster(8930000);
 	var map = rm.getMap(105200810);
 	var modified = rm.newMonsterStats();

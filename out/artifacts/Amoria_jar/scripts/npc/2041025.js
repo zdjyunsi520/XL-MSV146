@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Beep... beep... you can make your escape to a safer place through me. Beep... beep... would you like to leave this place?");
+	cm.sendYesNo("嘟嘟……嘟嘟……你可以通过我传送到一个更安全的地方。嘟嘟……嘟嘟……你想离开这里吗？");
     } else if (status == 1) {
 	cm.warp(220080000);
 	if (cm.getPlayerCount(220080001) == 0) {

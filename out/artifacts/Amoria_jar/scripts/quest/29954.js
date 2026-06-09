@@ -10,11 +10,11 @@ function start(mode, type, selection) {
 	    status--;
 	
 	if (status == 0) {
-	    qm.sendNext(qm.getPlayer().getName()+", cau co ve da manh len rat nhieu!");
+	    qm.sendNext(qm.getPlayer().getName()+"，你看起来变强了很多！");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Tuy nhien...nhu vay can chua du. Black Mage suc anh huong cua han con den tan bay gio.");
+	    qm.sendNextPrev("然而……这还不够。黑魔法师的影响至今仍在。");
 	} else if (status == 2) {
-	    qm.sendNext("...Mercedes...");
+	    qm.sendNext("……梅赛德斯……");
 	} else if (status == 3) {
             qm.forceStartQuest();
             qm.changeJob(2311);

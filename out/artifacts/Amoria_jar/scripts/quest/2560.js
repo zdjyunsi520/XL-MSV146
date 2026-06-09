@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("The monkey is gesturing to you..");
+	qm.sendNext("猴子正在向你打手势。。");
 	qm.forceCompleteQuest();
 	qm.dispose();
 }

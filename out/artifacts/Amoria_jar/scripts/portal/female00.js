@@ -28,7 +28,7 @@ function enter(pi) {
         pi.warp(670010200, 4);
         return true;
     } else {
-        pi.getPlayer().dropMessage(5, "You cannot proceed past here.");
+        pi.getPlayer().dropMessage(5, "你无法通过此处。");
         return false;
     }
 }

@@ -39,7 +39,7 @@ function action(mode, type, selection) {
             status--;
         if (status == 0) {
 		
-		cm.sendYesNo("Would you like to go back?");
+		cm.sendYesNo("你想回去吗？");
 
 		} else { 
 			cm.warp(cm.getPlayer().getMap().getId()-1);

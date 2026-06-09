@@ -20,15 +20,15 @@ function action(mode, type, selection) {
 	cm.dispose();
     if (status == 0 && mode == 1) {
 	if (cm.getQuestStatus(3034) == 2) {
-	    var selStr = "You've been so much of a help to me... If you have any Dark Crystal Ore, I can refine it for you for only #b500000 meso#k each."
+	    var selStr = "你帮了我很大的忙……如果你有任何暗黑水晶矿石，我可以只收#b50万金币#k一颗帮你精炼。"
 				
 	    cm.sendYesNo(selStr);
 	} else {
-	    cm.sendOk("Go away, I'm trying to meditate.");
+	    cm.sendOk("走开，我在冥想。");
 	    cm.dispose();
 	}
     } else if (status == 1 && mode == 1) {
-	cm.sendGetNumber("Okay, so how many do you want me to make?",1,1,100);
+	cm.sendGetNumber("好的，你要我做多少颗？",1,1,100);
     } else if (status == 2 && mode == 1) {
 	var complete = false;
 	var itemID = 4005004;
@@ -37,7 +37,7 @@ function action(mode, type, selection) {
 	var cost = 500000;
 		
 	if (cm.getMeso() < cost * selection) {
-	    cm.sendOk("I'm sorry, but I am NOT doing this for free.")
+	    cm.sendOk("抱歉，我可不会免费做。")
 	    cm.dispose();
 	    return;
 	} else {
@@ -45,12 +45,12 @@ function action(mode, type, selection) {
 	}
 			
 	if (!complete)
-	    cm.sendOk("I need that ore to refine the Crystal. No exceptions..");
+	    cm.sendOk("我需要那种矿石来精炼水晶。没有例外。");
 	else {
 	    cm.gainItem(matID, -matQty * selection);
 	    cm.gainMeso(-cost * selection);
 	    cm.gainItem(itemID, selection);
-	    cm.sendOk("Use it wisely.");
+	    cm.sendOk("好好使用它。");
 	}
 	cm.dispose();
     }

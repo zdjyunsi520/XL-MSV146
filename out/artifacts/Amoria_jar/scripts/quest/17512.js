@@ -11,13 +11,13 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("Who are you?");
+	  qm.sendNext("你是谁？");
 	} else if (status == 1) {
-      qm.sendNextPrev("This place looks ancient... who knows how long it's been since anyone set foot here?");
+      qm.sendNextPrev("这个地方看起来很古老...谁知道自从上次有人踏足这里已经过了多久了？");
     } else if (status == 2) {	 
-	  qm.sendYesNo("Who are you?");
+	  qm.sendYesNo("你是谁？");
     } else if (status == 3) {		
-	  qm.sendOk("This is no place for you. Get lost.");
+	  qm.sendOk("这里不是你该来的地方。走吧。");
 	} else if (status == 4) {	
 		qm.forceStartQuest();
 		qm.dispose();

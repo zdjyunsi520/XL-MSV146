@@ -17,18 +17,18 @@ function action(mode, type, selection) {
     }
     var em = cm.getEventManager("Pirate");
     if (em == null) {
-	cm.sendNext("The event isn't started...");
+	cm.sendNext("活动尚未开始……");
 	cm.dispose();
 	return;
     }
     if (!cm.isLeader()) {
-	cm.sendNext("I wish for your leader to talk to me.");
+	cm.sendNext("我希望你们的队长来和我交谈。");
 	cm.dispose();
 	return;
     }
     switch(cm.getPlayer().getMapId()) {
 	case 925100000:
-	   cm.sendNext("We are heading into the Pirate Ship now! To get in, we must destroy all the monsters guarding it.");
+	   cm.sendNext("我们现在要登上海盗船了！要进入的话，我们必须消灭所有守卫的怪物。");
 	   cm.dispose();
 	   break;
 	case 925100100:
@@ -39,35 +39,35 @@ function action(mode, type, selection) {
 	   }
 	   if (emp.equals("0")) {
 		if (cm.haveItem(4001120,20)) {
-		    cm.sendNext("Excellent! Now hunt me 20 Rising Medals.");
+		    cm.sendNext("太好了！现在去收集20枚新秀勋章。");
 		    cm.gainItem(4001120,-20);
 		    em.setProperty("stage2", "1");
 		} else {
-	   	    cm.sendNext("We are heading into the Pirate Ship now! To get in, we must qualify ourselves as noble pirates. Hunt me 20 Rookie Medals.");
+	   	    cm.sendNext("我们现在要登上海盗船了！要证明我们是高贵的海盗，去收集20枚新手勋章。");
 		}
 	   } else if (emp.equals("1")) {
 		if (cm.haveItem(4001121,20)) {
-		    cm.sendNext("Excellent! Now hunt me 20 Veteran Medals.");
+		    cm.sendNext("太好了！现在去收集20枚精锐勋章。");
 		    cm.gainItem(4001121,-20);
 		    em.setProperty("stage2", "2");
 		} else {
-	   	    cm.sendNext("We are heading into the Pirate Ship now! To get in, we must qualify ourselves as noble pirates. Hunt me 20 Rising Medals.");
+	   	    cm.sendNext("我们现在要登上海盗船了！要证明我们是高贵的海盗，去收集20枚新秀勋章。");
 		}
 	   } else if (emp.equals("2")) {
 		if (cm.haveItem(4001122,20)) {
-		    cm.sendNext("Excellent! Now let us go.");
+		    cm.sendNext("太好了！我们现在出发吧。");
 		    cm.gainItem(4001122,-20);
 		    em.setProperty("stage2", "3");
 		} else {
-	   	    cm.sendNext("We are heading into the Pirate Ship now! To get in, we must qualify ourselves as noble pirates. Hunt me 20 Veteran Medals.");
+	   	    cm.sendNext("我们现在要登上海盗船了！要证明我们是高贵的海盗，去收集20枚精锐勋章。");
 		}
 	   } else {
-		cm.sendNext("The next stage has opened. GO!");
+		cm.sendNext("下一阶段已开启。出发！");
 	   }
 	   cm.dispose();
 	   break;
 	case 925100200:
-	   cm.sendNext("To assault the pirate ship, we must destroy the guards first.");
+	   cm.sendNext("要攻击海盗船，我们必须先消灭守卫。");
 	   cm.dispose();
 	   break;
 	case 925100201:
@@ -78,7 +78,7 @@ function action(mode, type, selection) {
 		    em.setProperty("stage2a", "1");
 		}
 	   } else {
-	   	cm.sendNext("These bellflowers are in hiding. We must liberate them.");
+	   	cm.sendNext("这些桔梗花正在躲藏。我们必须解救它们。");
 	   }
 	   cm.dispose();
 	   break;
@@ -90,24 +90,24 @@ function action(mode, type, selection) {
 		    em.setProperty("stage3a", "1");
 		}
 	   } else {
-	   	cm.sendNext("These bellflowers are in hiding. We must liberate them.");
+	   	cm.sendNext("这些桔梗花正在躲藏。我们必须解救它们。");
 	   }
 	   cm.dispose();
 	   break;
 	case 925100202:
 	case 925100302:
-	   cm.sendNext("These are the Captains and Krus which devote their whole life to Lord Pirate. Kill them as you see fit.");
+	   cm.sendNext("这些是船长和克鲁，他们一生都在为海盗王效忠。尽情地消灭他们吧。");
 	   cm.dispose();
 	   break;
 	case 925100400:
-	   cm.sendNext("These are the sources of the ship's power. We must seal it by using the Old Metal Keys on the doors!");
+	   cm.sendNext("这些是船只的动力来源。我们必须用旧金属钥匙封印这些门！");
 	   cm.dispose();
 	   break;
 	case 925100500:
 	   if (cm.getMap().getAllMonstersThreadsafe().size() == 0) {
 		cm.warpParty(925100600);
 	   } else {
-	   	cm.sendNext("Defeat all monsters! Even Lord Pirate's minions!");
+	   	cm.sendNext("消灭所有怪物！连海盗王的爪牙也不放过！");
 	   }
 	   cm.dispose();
 	   break;

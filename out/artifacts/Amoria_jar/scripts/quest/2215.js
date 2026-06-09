@@ -2,7 +2,7 @@ var status = -1;
 
 function start(mode, type, selection) {
  	if (!qm.canHold(4031894, 1)) {
-	    qm.sendNext("Please make some space..");
+	    qm.sendNext("请腾出一些空间。。");
 	} else {
 	    qm.gainItem(4031894, 1);
 	    qm.forceCompleteQuest();
@@ -11,7 +11,7 @@ function start(mode, type, selection) {
 }
 function end(mode, type, selection) {
  	if (!qm.canHold(4031894, 1)) {
-	    qm.sendNext("Please make some space..");
+	    qm.sendNext("请腾出一些空间。。");
 	} else {
 	    qm.gainItem(4031894, 1);
 	    qm.forceCompleteQuest();

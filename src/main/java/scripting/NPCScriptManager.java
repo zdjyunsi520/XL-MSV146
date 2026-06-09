@@ -132,6 +132,9 @@ public class NPCScriptManager extends AbstractScriptManager {
         if (!MapleQuest.getInstance(quest).canStart(c.getPlayer(), null)) {
             return;
         }
+        if (c.getPlayer().isGM()) {
+            c.getPlayer().dropMessage(6, "NPC ID: " + npc + " | quest: " + quest + " | type: startQuest");
+        }
         final Lock lock = c.getNPCLock();
         lock.lock();
         try {
@@ -190,6 +193,9 @@ public class NPCScriptManager extends AbstractScriptManager {
         if (!customEnd && !MapleQuest.getInstance(quest).canComplete(c.getPlayer(), null)) {
             return;
         }
+        if (c.getPlayer().isGM()) {
+            c.getPlayer().dropMessage(6, "NPC ID: " + npc + " | quest: " + quest + " | type: endQuest");
+        }
         final Lock lock = c.getNPCLock();
         lock.lock();
         try {
@@ -241,6 +247,9 @@ public class NPCScriptManager extends AbstractScriptManager {
     }
 
     public final void startItemScript(final MapleClient c, final int npc, final String script) {
+        if (c.getPlayer().isGM()) {
+            c.getPlayer().dropMessage(6, "NPC ID: " + npc + " | script: " + script + " | type: itemScript");
+        }
         final Lock lock = c.getNPCLock();
         lock.lock();
         try {

@@ -29,14 +29,14 @@ var sel;
 
 function start() {
     if((cm.getPlayer().getLevel() < 19 || cm.getPlayer().getLevel() > 30) && !cm.getPlayer().isGM()){
-        cm.sendNext("You're not between level 20 and 30. Sorry, you may not participate.");
+        cm.sendNext("你的等级不在20到30之间。抱歉，你不能参加。");
         cm.dispose();
         return;
     }
     if(cm.getPlayer().getMapId() % 10 == 1)
-        cm.sendSimple("Do you have a request for me?\r\n#b#L0# Give me #t2270002# and #t2100067#.#l\r\n#L1# What should I do?#l\r\n#L2# Get me out of here.#l");
+        cm.sendSimple("你有什么请求吗？\r\n#b#L0# 给我#t2270002#和#t2100067#。#l\r\n#L1# 我该做什么？#l\r\n#L2# 带我离开这里。#l");
     else
-        cm.sendSimple(cm.getPlayer().getAriantRoomLeaderName(((cm.getPlayer().getMapId() / 100) % 10) - 1) == cm.getPlayer().getName() ? "Would you like to start the match?#b\r\n#b#L3# Ready to enter the Battle Arena!!#l\r\n#L1# I'd like to kick another character.#l\r\n#L2# Get me out of here.#l" : "What do you want?#b\r\n#L2# Get me out of here.#l");
+        cm.sendSimple(cm.getPlayer().getAriantRoomLeaderName(((cm.getPlayer().getMapId() / 100) % 10) - 1) == cm.getPlayer().getName() ? "你想开始比赛吗？#b\r\n#b#L3# 准备进入竞技场！！#l\r\n#L1# 我想踢出某个角色。#l\r\n#L2# 带我离开这里。#l" : "你想要什么？#b\r\n#L2# 带我离开这里。#l");
 }
 
 function action(mode, type, selection){
@@ -55,31 +55,31 @@ function action(mode, type, selection){
                 sel = selection;
             if(sel == 0){
                 if(cm.haveItem(2270002))
-                    cm.sendNext("You already have #b#t2270002##k.");
+                    cm.sendNext("你已经拥有#b#t2270002##k了。");
                 else if(cm.canHold(2270002) && cm.canHold(2100067)){
                     if(cm.haveItem(2100067))
                         cm.removeAll(2100067);
                     cm.gainItem(2270002, 32);
                     cm.gainItem(2100067, 5);
-                    cm.sendNext("Now lower the HP of the monsters, and use #b#t2270002##k to absorb their power!");
+                    cm.sendNext("现在降低怪物的HP，然后使用#b#t2270002##k来吸收它们的力量！");
                 }else
-                    cm.sendNext("Check and see if your Use inventory is full or not");
+                    cm.sendNext("请检查你的消耗品背包是否已满。");
                 cm.dispose();
             }else if(sel == 1)
-                cm.sendNext("What do you need to do? You must be new to this. Allow me explain in detail.");
+                cm.sendNext("你需要做什么？你一定是新来的。让我详细解释一下。");
             else
-                cm.sendYesNo("Are you sure you want to leave?"); //No GMS like.
+                cm.sendYesNo("你确定要离开吗？"); //No GMS like.
         } else if (status == 1){
             if(type == 1){
                 cm.warp(980010020);
                 cm.dispose();
                 return;
             }
-            cm.sendNextPrev("It's really simple, actually. You'll receive #b#t2270002##k from me, and your task is to eliminate a set amount of HP from the monster, then use #b#t2270002##k to absorb its monstrous power.");
+            cm.sendNextPrev("其实很简单。你将从我这里获得#b#t2270002##k，你的任务是消除怪物一定量的HP，然后使用#b#t2270002##k来吸收怪物的力量。");
         } else if (status == 2)
-            cm.sendNextPrev("It's simple. If you absorb the power of the monster #b#t2270002##k, then you'll make #b#t4031868##k, which is something Queen Areda loves. The combatant with the most jewels wins the match. It's actually a smart idea to prevent others from absorbing in order to win.");
+            cm.sendNextPrev("很简单。如果你用#b#t2270002##k吸收了怪物的力量，你就会制作出#b#t4031868##k，那是阿雷达女王最喜欢的东西。获得最多宝石的选手赢得比赛。阻止其他人吸收其实是个赢得比赛的好策略。");
         else if (status == 3)
-            cm.sendNextPrev("One thing. #rYou may not use pets for this.#k Understood?~!");
+            cm.sendNextPrev("还有一件事。#r这次任务中你不能使用宠物。#k明白了吗？~！");
         else if (status == 4)
             cm.dispose();
     }else{
@@ -89,7 +89,7 @@ function action(mode, type, selection){
                 sel = selection;
             if(sel == 1)
                 if(cm.getPlayerCount(cm.getPlayer().getMapId()) > 1){
-                    var text = "Who would you like to kick from room?"; //Not GMS like text
+                    var text = "你想踢出房间里的谁？"; //Not GMS like text
                     var name;
                     for(var i = 0; nextchar.hasNext(); i++){
                         name = nextchar.next().getName();
@@ -98,19 +98,19 @@ function action(mode, type, selection){
                     }
                     cm.sendSimple(text);
                 }else{
-                    cm.sendNext("There's no character that can be kicked right now.");
+                    cm.sendNext("目前没有可以被踢出的角色。");
                     cm.dispose();
                 }
             else if(sel == 2){
                 if(cm.getPlayer().getAriantRoomLeaderName(((cm.getPlayer().getMapId() / 100) % 10) - 1) == cm.getPlayer().getName())
-                    cm.sendYesNo("Are you sure you want to leave? You're the leader of the Arena, so if you leave, the whole Battle Arena will close.");
+                    cm.sendYesNo("你确定要离开吗？ You're the leader of the Arena, so if you leave, the whole Battle Arena will close.");
                 else
-                    cm.sendYesNo("Are you sure you want to leave?"); //No GMS like.
+                    cm.sendYesNo("你确定要离开吗？"); //No GMS like.
             }else if(sel == 3)
                 if(cm.getPlayerCount(cm.getPlayer().getMapId()) > 1)
-                    cm.sendYesNo("The room is all set, and no other character may join this Battle Arena. Do you want to start the game right now?");
+                    cm.sendYesNo("房间已准备就绪，其他角色不能再加入这个竞技场。你想现在开始比赛吗？");
                 else{
-                    cm.sendNext("You'll need at least 2 participants inside in order to start the match.");
+                    cm.sendNext("至少需要2名参赛者在场才能开始比赛。");
                     cm.dispose();
                 }
         }else if (status == 1){
@@ -121,13 +121,13 @@ function action(mode, type, selection){
                         break;
                     }else
                         nextchar.next();
-                cm.sendNext("Player have been kicked out of the Arena."); //Not GMS like
+                cm.sendNext("玩家已被踢出竞技场。"); //Not GMS like
             }else if(sel == 2){
                 if(cm.getPlayer().getAriantRoomLeaderName(((cm.getPlayer().getMapId() / 100) % 10) - 1) != cm.getPlayer().getName())
                     cm.warp(980010000);
                 else{
                     cm.getPlayer().removeAriantRoom((cm.getPlayer().getMapId() / 100) % 10);
-                    cm.mapMessage(6, cm.getPlayer().getName() + " has left the Arena, so the Arena will now close.");
+                    cm.mapMessage(6, cm.getPlayer().getName() + " 离开了竞技场，竞技场现在将关闭。");
                     cm.warpMap(980010000);
                 }
             }else{

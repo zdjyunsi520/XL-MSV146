@@ -9,12 +9,12 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendNext("Really? Aww... Well, talk to me again if you change your mind!");
+		    qm.sendNext("真的吗？哎呀...如果你改变主意再来找我吧！");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendYesNo("Hello, #b#h0##k!\r\nYou know that #e#bWinter Attendance Check Season 1#k#n is in progress, right? Wanna try now?");
+	    qm.sendYesNo("你好，#b#h0##k！\r\n你知道#e#b冬季签到第一季#k#n正在进行中，对吧？现在要试试吗？");
 	} else if (status == 1) {
         qm.forceStartQuest();
         qm.dispose();

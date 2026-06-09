@@ -7,6 +7,6 @@ function start() {
 }
 
 function action(mode, type, selection) {
-    cm.openShopNPC(35);
+    cm.openShopNPC(9270022);
     cm.dispose();
 }

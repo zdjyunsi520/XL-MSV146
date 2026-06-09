@@ -1,4 +1,4 @@
-load("nashorn:mozilla_compat.js");
+load("连一丝光都没有。");
 importPackage(Packages.tools.packet);
 
 var status = 42;
@@ -12,37 +12,37 @@ function action(mode, type, selection) {
     if (status == 43) {
         cm.sendNextS("Ah...", 5, 1402100);
     } else if (status == 44)
-        cm.sendNextPrevS("Not even a flicker.", 5, 1402400);
+        cm.sendNextPrevS("现在下结论还为时过早。", 5, 1402400);
     else if (status == 45)
         cm.sendNextPrevS("...", 5, 1402100);
     else if (status == 46)
-        cm.sendNextPrevS("It's too early to decide.", 5, 1402102);
+        cm.sendNextPrevS("没错。我们甚至还不确定那块石头是不是真的。", 5, 1402102);
     else if (status == 47)
-        cm.sendNextPrevS("That's right. We still don't even know if that stone is real.", 5, 1402106);
+        cm.sendNextPrevS("对-对啊！就算是我也能用魔法发光呢！", 5, 1402106);
     else if (status == 48)
-        cm.sendNextPrevS("R-right! Even I can make light with magic!", 5, 1402103);
+        cm.sendNextPrevS("等神兽回来，她会做出判断的。", 5, 1402103);
     else if (status == 49)
-        cm.sendNextPrevS("When Shinsoo returns, she'll decide.", 5, 1402104);
+        cm.sendNextPrevS("如果你动摇了，西格纳斯骑士团也会跟着动摇。坚强起来。", 5, 1402104);
     else if (status == 50)
-        cm.sendNextPrevS("If you faiter, the Cygnus Knights faiter as well. Stay strong.", 5, 1402105);
+        cm.sendNextPrevS("你的联盟是枫之谷新时代的基础。这一切可能只是一个阴谋，目的是动摇你的地位。在她拿出确凿的证据之前，我们不能听信她。", 5, 1402105);
     else if (status == 51)
-        cm.sendNextPrevS("Your alliance is the foundation for a new era in Maple World. This could all be a scheme to place doubt on your position. We cannot listen to her untill she presends solid proof.", 5, 1402101);
+        cm.sendNextPrevS("你的走狗们正在拼命地无视真相。", 5, 1402101);
     else if (status == 52)
         cm.sendNextPrevS("Everyone...", 5, 1402100);
     else if (status == 53)
-        cm.sendNextPrevS("Your hounds are trying desperately to ignore the truth.", 5, 1402400);
+        cm.sendNextPrevS("我不会否定你的努力，西格纳斯。作为一个年轻女孩，你表现出了惊人的智慧，但我恳请你做出正确的决定！", 5, 1402400);
     else if (status == 54)
-        cm.sendNextPrevS("I won't deny your hard work, Cygnus. You have been suprisingly wise for a young girl, but I ugre you to make the right decision!", 5, 1402400);
+        cm.sendNextPrevS("承认我是真正的女皇，在这场闹剧变得无法挽回之前退出来。", 5, 1402400);
     else if (status == 55)
-        cm.sendNextPrevS("Acknowledge me as the real empress and step away from this charade before it's too late.", 5, 1402400);
+        cm.sendNextPrevS("告诉联盟，从现在起他们将追随我。", 5, 1402400);
     else if (status == 56)
-        cm.sendNextPrevS("Tell the alliance that they will follow me now.", 5, 1402400);
+        cm.sendNextPrevS("当然，我对你的处境并非没有同情。我会给你一些时间来接受这一切。做任何你需要做的事来让自己面对真相。", 5, 1402400);
     else if (status == 57)
-        cm.sendNextPrevS("Of course, I'm not without sympathy to your situation. I'll give you some time to take all of this in. Do whatever you need to do to reconcile yourself with the truth.", 5, 1402400);
+        cm.sendNextPrevS("当你准备好了，你会发现枫之谷世界真正的女皇不是西格纳斯，而是希拉。", 5, 1402400);
     else if (status == 58)
-        cm.sendNextPrevS("When you are finished, you will find that the true Empress of Maple World is not Cygnus, but Hilla.", 5, 1402400);
+        cm.sendNextPrevS("（加斯东现在应该准备好了。是时候放手一搏了！）", 5, 1402400);
     else if (status == 59)
-        cm.sendNextPrevS("(Gaston should be ready about now. Time to take the plunge!)", 17);
+        cm.sendNextPrevS("（加斯东现在应该准备好了。是时候放手一搏了！）", 17);
     else if (status == 60) {
         cm.dispose();
         cm.showPhantomWait();

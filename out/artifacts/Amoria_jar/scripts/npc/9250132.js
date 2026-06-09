@@ -2,8 +2,8 @@ var points;
 var one;
 var status = -1;
 var returnmap = 502029000;
-var menu = ["Useables","Ores","Equips(300,000 Each)"]; 
-var talk = "\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\n\r##b"; 
+var menu = ["Useables","Ores","你在过去12小时内已经去找过女皇了。剩余时间："]; 
+var talk = "你在过去12小时内已经去找过女皇了。剩余时间："; 
 var rewards = [
 [[2070018,400000,1],[2070016,350000,1],[2340000,150000,5],[2530000,150000,4],[2531000,300000,3],[2049300,300000,3],[2049116,150000,1],[5750000,300000,8],[2049701,200000,1]],//Useables
 [[4011008,30000,1],[4005001,30000,1],[4005003,30000,1]],//Ores
@@ -40,11 +40,11 @@ function action(mode, type, selection) {
     }
 	var time = parseInt(data);
 			      if (time + (12 * 3600000) >= cm.getCurrentTime() && !cm.getPlayer()) {
-                cm.sendOk("You have already went to Cygnus in the past 12 hours. Time left: " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
+                cm.sendOk("#b#L100#终极访客BOSS#l " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
                 cm.dispose();
                 return;
             }
-        cm.sendSimple("#b#L100#Ultimate Visitor Boss#l");
+        cm.sendSimple("已经有人在里面了。");
     }else if (status == 1) {
         if (mode == 1) {
             switch (selection) {
@@ -68,7 +68,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		        if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("发生未知错误");
             cm.dispose();
             return;
 			}
@@ -82,22 +82,22 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("VisitorBoss");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("所有玩家必须在地图内且等级在150级以上。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("你不是队伍的队长，请让你的队长来和我交谈。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("请先组建一个队伍。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("你可以用积分兑换这些");
                         cm.dispose();
                     }
                     break;
@@ -108,7 +108,7 @@ function action(mode, type, selection) {
             c = selection; 
             for (var i = 0; i < rewards[c].length; i++) 
                 talk+="#L"+i+"##e#i"+rewards[c][i]+":##k#l"; 
-            cm.sendSimple("You can exchange your points for these "+rewards[c].length+" items\r\n#r#eYou have to click any of these items to recieve it.#k#n\r\n"+talk);
+            cm.sendSimple("物品\r\n#r#e你必须点击其中任何一个物品才能获得。#k#n\r\n "+rewards[c].length+"价格"+talk);
             one = false;
         }
     }else if (status == 3) {
@@ -121,15 +121,15 @@ function action(mode, type, selection) {
                 intPoints -= id[1];
                 record.setCustomData(""+intPoints+"");
                 cm.gainItem(id[0], id[2]);
-                //cm.sendOk("id "+id[0]+" price "+id[1]+" amount "+id[2]);         
-                cm.sendOk("Enjoy your reward");
+                //cm.sendOk("id "+id[0]+"数量 "+id[1]+"享受你的奖励吧 "+id[2]);         
+                cm.sendOk("请检查你是否有足够的背包空间。");
                 cm.dispose();
             } else {
-                cm.sendOk("Please check if you have sufficient inventory slot for it.");
+                cm.sendOk("你没有足够的#rBossPQ积分#k，\r\n#b#t");
                 cm.dispose();
             }
         } else {
-		        	    var Error = "You don't have enough #rBossPQ Points#k,\r\n#b#t"+id[0]+"##k costs #b"+id[1]+"#k Bosspq Points";
+		        	    var Error = "##k需要#b"+id[0]+"#kBossPQ积分"+id[1]+"#kBossPQ积分";
 	
             cm.sendOk(Error);
             cm.dispose();

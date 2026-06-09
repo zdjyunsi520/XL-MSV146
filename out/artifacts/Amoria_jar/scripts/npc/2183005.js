@@ -1,5 +1,5 @@
 function start() {
-    cm.sendYesNoS("So, you really want to leave?", 4);
+    cm.sendYesNoS("那么，你真的想离开？", 4);
 }
 
 function action(mode, type, selection) {

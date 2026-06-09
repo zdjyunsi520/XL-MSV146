@@ -24,6 +24,6 @@
  */
  
 function act() {
-    rm.mapMessage(5, "As Lord Pirate dies, Wu Yang is released!");
+    rm.mapMessage(5, "随着海盗大王死去，武阳被释放了！");
     rm.spawnNpc(2094001);
 }

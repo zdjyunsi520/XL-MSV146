@@ -27,7 +27,7 @@ function end(mode, type, selection) {
             qm.dispose();
             return;
         }
-        qm.sendNext("Are you done cleaning yet? I suppose it looks moderately\r\npresentable in here. what are you looking at? Go organize the shelves!");
+        qm.sendNext("你打扫完了没有？我猜这里看起来勉强\r\n还算体面。你在看什么？去整理书架！");
     } else if (status == 1) {
         while (qm.getPlayer().getLevel() < 6)
             qm.getPlayer().levelUp();

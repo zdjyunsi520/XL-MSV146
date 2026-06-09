@@ -19,9 +19,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Thanks for listening to my pleas.");
+	cm.sendNext("你想出去吗？");
     } else if (status == 1) {
-	    cm.sendYesNo("Would you like to get out?");
+	    cm.sendYesNo("你想出去吗？");
     } else if (status == 2) {
 	cm.warp(741020100);
 	cm.dispose();

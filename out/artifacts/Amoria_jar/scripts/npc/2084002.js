@@ -3,7 +3,7 @@ var select;
 
 function start() {
     property = "1";
-    cm.sendSimple("Hello great warrior! I am #bGold Richie#k, who keeps Hyperious's gold.\r\n#L0#Exchange Fire Soul Rocks for Icy Soul Rocks#l\r\n#L1#Buy special items with Icy Soul Rocks#l")
+    cm.sendSimple("你好，伟大的战士！我是#b金里奇#k，负责保管海佩里昂的黄金。\r\n#L0#用火焰灵魂石兑换冰霜灵魂石#l\r\n#L1#用冰霜灵魂石购买特殊物品#l")
 }
 
 function action(mode, type, selection) {
@@ -19,17 +19,17 @@ function action(mode, type, selection) {
                 if (icy > 0) {
                     cm.gainItem(4031469, -fire);
                     cm.gainItem(4031470, icy);
-                    cm.sendOk("Exchanged successfuly!");
+                    cm.sendOk("兑换成功！");
                 } else
-                    cm.sendOk("Make sure you have Fire Soul Rocks.");
+                    cm.sendOk("请确认你拥有火焰灵魂石。");
                 cm.dispose();
                 break;
             case 1:
                 cm.sendSimple(
-                    "\r\n#L0##i1102207# Goldensoul Cape - Special Stat: 9% ATT, 9% MAGIC, 30% Boss Damage#l" +
-                    "\r\n#L1##i1122080# Dragon Lord Necklace - Special Stat: 30% All Stat#l" +
-                    "\r\n#L2##i2041213# Dragon Lord Ruby - Special Scroll for the Dragon Lord Necklace#l" +
-                    "\r\n#L3##i2022704# Blessing of the Dragon Lord - Increase Weapon ATT +20 and Magic ATT +30 for 15 minutes#l"
+                    "\r\n#L0##i1102207# 黄金灵魂斗篷 - 特殊属性：9%攻击力，9%魔法攻击力，30%BOSS伤害#l" +
+                    "\r\n#L1##i1122080# 龙王项链 - 特殊属性：30%全属性#l" +
+                    "\r\n#L2##i2041213# 龙王红宝石 - 龙王项链专用卷轴#l" +
+                    "\r\n#L3##i2022704# 龙王祝福 - 15分钟内提升武器攻击力+20和魔法攻击力+30#l"
                     );
                 property = "2";
                 break;
@@ -39,15 +39,15 @@ function action(mode, type, selection) {
         }
     else if (property == "2") {
         select = selection;
-        cm.sendYesNo("Are you sure you want to buy " + (selection == 0 ? "#i1102207# Goldensoul Cape" : selection == 1 ? "#i1122080# Dragon Lord Necklace" : selection == 2 ? "#i2041213# Dragon Lord Ruby" : "#i2022704# Blessing of the Dragon Lord") + "?\r\nIt will cost you " + (selection == 0 ? "100" : selection == 1 ? "50" : selection == 2 ? "30" : "10") + " Icy Soul Rocks.");
+        cm.sendYesNo("你确定要购买 " + (selection == 0 ? "#i1102207# 黄金灵魂斗篷" : selection == 1 ? "#i1122080# 龙王项链" : selection == 2 ? "#i2041213# 龙王红宝石" : "#i2022704# 龙王祝福") + "吗？\r\n这将花费你 " + (selection == 0 ? "100" : selection == 1 ? "50" : selection == 2 ? "30" : "10") + " 个冰霜灵魂石。");
         property = "3";
     } else if (property == "3") {
         if (cm.itemQuantity(4031470) >=  (select == 0 ? 100 : select == 1 ? 50 : select == 2 ? 30 : 10)) {
             cm.gainItem(4031470, -(select == 0 ? 100 : select == 1 ? 50 : select == 2 ? 30 : 10))
             cm.dragonShoutReward(select);
-            cm.sendOk("Thanks for your purchase!\r\nBlack Mage has interest in these soul rocks... I'm sure I can sell him some.");
+            cm.sendOk("感谢你的购买！\r\n黑魔法师对这些灵魂石很感兴趣……我相信我可以卖给他一些。");
         } else
-            cm.sendOk("It seems that you don't have enough Icy Soul Rocks! I can't give you priceless equipment for nothing!\r\nBesides, Black Mage has interest in these soul rocks... I'm sure I can sell him some.");
+            cm.sendOk("看起来你没有足够的冰霜灵魂石！我可不能白送你无价的装备！\r\n而且，黑魔法师对这些灵魂石很感兴趣……我相信我可以卖给他一些。");
         cm.dispose();
     } else cm.dispose();
 }

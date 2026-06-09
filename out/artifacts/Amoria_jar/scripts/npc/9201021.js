@@ -5,7 +5,7 @@ function action(mode, type, selection) {
 	status++;
     } else {
 	if (status == 0) {
-	    cm.sendOk("Ok, feel free to hang around until you're ready to go!");
+	    cm.sendOk("我可以带你去奖励关卡。你准备好了吗？");
 	    cm.dispose();
 	    return;
 	}
@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 	var dat = parseInt(cm.getQuestRecord(160002).getCustomData());
 	if (dat > 30) {
 	    if (status == 0) {
-	    	cm.sendYesNo("I can take you to Bonus Stage. Are you ready to go?");
+	    	cm.sendYesNo("我可以带你去阿莫利亚村。你准备好了吗？");
 	    } else {
 		cm.warpMap(680000401,0);
 		cm.dispose();
@@ -24,7 +24,7 @@ function action(mode, type, selection) {
 	}
     }
     if (status == 0) {
-	cm.sendYesNo("I can take you to the Amoria Village. Are you ready to go?");
+	cm.sendYesNo("我可以带你去阿莫利亚村。你准备好了吗？");
     } else if (status == 1) {
 	cm.warp(680000500, 0);
 	cm.dispose();

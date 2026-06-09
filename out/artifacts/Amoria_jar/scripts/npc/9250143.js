@@ -10,17 +10,17 @@ function action(mode, type, selection) {
 	status--;
     }
     	    if (status == 0) {
-	        cm.sendSimple("Welcome.#b\r\n\r\n#L0#Go to Mothership - Easy (Level 30+)#l\r\n#L1#Go to Mothership - Medium (Level 60+)#l\r\n#L2#Go to Mothership - Hard(Level 120+)#l");
+	        cm.sendSimple("请稍后再试。");
     	    } else if (status == 1) {
 	        if (selection == 0 || selection == 1 || selection == 2) {
    		    var em = cm.getEventManager("Visitor");
     		    if (em == null) {
-			cm.sendOk("Please try again later.");
+			cm.sendOk("队伍的队长必须在这里。");
 			cm.dispose();
 			return;
     		    }
 		    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-			cm.sendOk("The leader of the party must be here.");
+			cm.sendOk("已有其他队伍在此频道进入了组队任务。");
 		    } else {
 			var party = cm.getPlayer().getParty().getMembers();
 			var mapId = cm.getPlayer().getMapId();
@@ -40,10 +40,10 @@ function action(mode, type, selection) {
 		    		if (em.getInstance("Visitor" + selection) == null) {
 					em.startInstance_Party("" + selection, cm.getPlayer());
 		    		} else {
-					cm.sendOk("Another party quest has already entered this channel.");
+					cm.sendOk("你队伍的所有成员必须都在这里。至少需要两人才能进入母舰。");
 		    		}
 			} else {
-				cm.sendOk("All members of your party must be here. At least two people are needed to enter the Mothership.");
+				cm.sendOk("你队伍的所有成员必须都在这里。至少需要两人才能进入母舰。");
 			}
 		    }
 		}

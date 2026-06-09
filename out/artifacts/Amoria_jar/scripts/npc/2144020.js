@@ -25,11 +25,11 @@ function action(mode, type, selection) {
             else if (cm.itemQuantity(4020009) > 0 && cm.getMonsterCount(cm.getMapId()) < 1)
                 Tutorial3();
             else {
-                cm.sendOk("You didn't kill the Powerful Snail yet.");
+                cm.sendOk("你还没有击败强力蜗牛。");
                 cm.dispose();
             }
         } else if (cm.getPlayer().getLevel() == 8) {
-            cm.sendOk("You must talk with Hilla!");
+            cm.sendOk("你必须先和希拉交谈！");
             cm.dispose();
         }
     } else
@@ -38,52 +38,52 @@ function action(mode, type, selection) {
 
 function Tutorial1() {
     if (chat == 0) {
-        cm.sendNext("You are awake!");
+        cm.sendNext("你醒了！");
     }else if (chat == 1)
-        cm.sendNextPrevS("Where am I?\r\nAm I dead?", 3);
+        cm.sendNextPrevS("我在哪里？\r\n我死了吗？", 3);
     else if (chat == 2)
-        cm.sendNextPrev("Not exactly... \r\nWhen you have defeated the Black Mage You've been cursed.\r\nYour soul is between two worlds.");
+        cm.sendNextPrev("不完全是……\r\n当你击败黑魔法师时，你被诅咒了。\r\n你的灵魂处于两个世界之间。");
     else if (chat == 3)
-        cm.sendNextPrevS("Doesn't it mean I'm stuck here forever?", 3);
+        cm.sendNextPrevS("这是不是意味着我永远被困在这里了？", 3);
     else if (chat == 4) {
-        cm.sendYesNo("Not at all... I've found a way to get you out of here.\r\nBut first, you have to prove me that I need to resurrect you.\r\nDo you accept the challange?");
+        cm.sendYesNo("并非毫无办法...我已经找到了让你离开这里的方法。\r\n但首先，你必须向我证明你有值得被复活的理由。\r\n你愿意接受挑战吗？");
         yesno = true;
     } else if (chat == 5) {
         yesno = false;
         while (cm.getPlayer().getLevel() < 4)
             cm.getPlayer().levelUp();
-        cm.getPlayer().getClient().getSession().write(CPacket.startMapEffect("Talk to me again when you are ready.", 5122005, true));
+        cm.getPlayer().getClient().getSession().write(CPacket.startMapEffect("准备好了再来找我。", 5122005, true));
         cm.dispose();
     }
 }
 
 function Tutorial2() {
     if (chat == 0)
-        cm.sendNext("First, you must defeat Power Snail to prove your power.\r\nPower Snail is a little more powerful then 10 snails, wouldn't be too hard.");
+        cm.sendNext("首先，你必须击败强力蜗牛来证明你的实力。\r\n强力蜗牛比10只普通蜗牛稍强一些，应该不会太难。");
     else {
         if (cm.canHold(1302000, 1) && cm.itemQuantity(1302000) == 0)
             cm.gainItem(1302000, 1);
         if (cm.canHold(4020009, 1) && cm.itemQuantity(4020009) == 0)
             cm.gainItem(4020009, 1);
         for (var p = 0; p < 5; p++)
-            cm.getPlayer().dropMessage(5, "What is it? HUH! It's a piece of time! Where did it came from?");
-        cm.getPlayer().getClient().getSession().write(CPacket.startMapEffect("I've gave you a Sword that will help you to fight. \r\nTalk to me again when you have defeated the Powerful Snail.", 5122005, true));
-        cm.spawnCustomMonster(100100, 100, 50, 1, 0, true, 1, 5, 0, "Powerful Snail", 47, 98);
+            cm.getPlayer().dropMessage(5, "这是什么？嗯！是一块时间碎片！它从哪里来的？");
+        cm.getPlayer().getClient().getSession().write(CPacket.startMapEffect("我给了你一把剑来帮助你战斗。\r\n击败强力蜗牛后再来找我。", 5122005, true));
+        cm.spawnCustomMonster(100100, 100, 50, 1, 0, true, 1, 5, 0, "强力蜗牛", 47, 98);
         cm.dispose();
     }
 }
 
 function Tutorial3() {
     if (chat == 0)
-        cm.sendNext("Congulations! You have killed him!");
+        cm.sendNext("恭喜！你已经击败了它！");
     else if (chat == 1)
-        cm.sendNextPrevS("Have I already proved you that you must resurrect me?", 3);
+        cm.sendNextPrevS("我已经向你证明了你必须复活我吗？", 3);
     else if (chat == 2)
-        cm.sendNextPrev("There's one more thing, In order to get out of here you must touch the darkness.");
+        cm.sendNextPrev("还有一件事，要离开这里你必须触碰黑暗。");
     else if (chat == 3)
-        cm.sendNextPrevS("HUH?! Touch the darkness? And how will I do that?");
+        cm.sendNextPrevS("什么？！触碰黑暗？我该怎么做？");
     else if (chat == 4) {
-        cm.sendYesNo("I am going to summon Hilla and everything you need to do is act like you are her #bGuard#k.\r\nDo you accept?");
+        cm.sendYesNo("我要召唤希拉，你所需要做的就是假装你是她的#b守卫#k。\r\n你愿意吗？");
         yesno = true;
     } else if (chat == 5) {
         yesno = false;

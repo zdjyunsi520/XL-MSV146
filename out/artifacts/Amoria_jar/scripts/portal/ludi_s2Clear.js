@@ -8,7 +8,7 @@ function enter(pi) {
 	try {
 		var eim = pi.getPlayer().getEventInstance();
 		if (eim.getProperty("stage4status") == null) {
-			pi.playerMessage(5, "The portal is blocked.");
+			pi.playerMessage(5, "传送门被封锁了。");
 		} else {
 			pi.warpParty(pi.getMapId() + 200, 0);
 		}

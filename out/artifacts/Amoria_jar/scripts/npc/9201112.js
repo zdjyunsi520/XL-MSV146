@@ -8,65 +8,65 @@ function action(mode, type, selection) {
     }
     var em = cm.getEventManager("CWKPQ");
     if (em == null) {
-	cm.sendNext("The event isn't started...");
+	cm.sendNext("我需要你们的队长来和我说话。");
 	cm.dispose();
 	return;
     }
     if (!cm.isLeader()) {
-	cm.sendNext("I wish for your leader to talk to me.");
+	cm.sendNext("啊，你们进来了。让我快速告诉你们：他们已经发现我们了。大师守护者大约一分钟后就会到这里。我们得赶紧了。");
 	cm.dispose();
 	return;
     }
     switch(cm.getPlayer().getMapId()) {
 	case 610030100:
 	    if (status == 0) {
-		cm.sendNext("Agh, you have made it in. Let me tell you real quick: they've caught us already. Master Guardians are about to come here in about a minute. We'd better hurry.");
+		cm.sendNext("通往扭曲大师的传送门坏了。我们得找另一条路，一条要穿过很多死亡陷阱的路。");
 	    } else if (status == 1) {
-		cm.sendNext("The portal to the Twisted Masters is busted. We have to find an alternate way, one that will take us through many death traps.");
+		cm.sendNext("你可以在这一带找到传送门...你最好快点找到它。我会跟上来的。");
 	    } else if (status == 2) {
-		cm.sendNext("You can find the portal somewhere around here... you'd better find it, quick. I'll catch up.");
+		cm.sendNext("成功了！那么，这条路我认为我们需要每种冒险家职业各一名才能通过。");
 		cm.dispose();
 		em.setProperty("glpq1", "1");
 	    }
 	    break;
 	case 610030200:
 	   if (status == 0) {
-		cm.sendNext("That was a success! Now, for this path, I do believe we need one of every Adventurer class to get past.");
+		cm.sendNext("他们需要在这些叫做符印的东西上使用各自的技能。五个都完成后，我们就能通过了。");
 	   } else if (status == 1) {
-		cm.sendNext("They need to use their skills on each of these things called Sigils. Once all five have been done, we can get past.");
+		cm.sendNext("现在这里有更多的符印。所有五名冒险家必须爬到最顶端并穿过传送门。");
 		cm.dispose();
 	   }
 	   break;
 	case 610030300:
 	   if (status == 0) {
-		cm.sendNext("Now what we have here are more Sigils. All five Adventurers have to climb to the very top and go through the portal.");
+		cm.sendNext("小心这些死亡陷阱：巨石。它们的冲击力可不小。");
 	   } else if (status == 1) {
-		cm.sendNext("Beware of these death traps: Menhirs. They really pack a punch.");
+		cm.sendNext("现在这里有更多的符印。不过，其中一些是不起作用的。");
 		cm.dispose();
 	   }
 	   break;
 	case 610030400:
 	   if (status == 0) {
-		cm.sendNext("Now what we have here are more Sigils. However, some of them don't work.");
+		cm.sendNext("这些蝙蝠怪会挡你的路，但它们只是干扰。试着对每一个符印进行操作直到它们生效。");
 	   } else if (status == 1) {
-		cm.sendNext("These Stirges will get in your way, but they're merely a distraction. Try every one of these Sigils until they work.");
+		cm.sendNext("没想到你能走到这一步！你在这里看到的是绯红木要塞的雕像，但没有它的武器。");
 		cm.dispose();
 	   }
 	   break;
 	case 610030500:
 	   if (status == 0) {
-		cm.sendNext("Surprised you made it this far! What you see here is the statue of Crimsonwood Keep, but without any of it's weapons.");
+		cm.sendNext("雕像周围有五个房间，每个房间附近有一座雕像标记。");
 	   } else if (status == 1) {
-		cm.sendNext("There are five rooms, marked by a statue near each of them, around the statue.");
+		cm.sendNext("我怀疑这些房间里各藏着雕像的五把武器之一。");
 	   } else if (status == 2) {
-		cm.sendNext("I suspect that each of these rooms have one of the statue's five weapons.");
+		cm.sendNext("把武器带回来并将它们放回精通遗物上！");
 	   } else if (status == 3) {
-		cm.sendNext("Bring back the weapons and restore them to the Relic of Mastery!");
+		cm.sendNext("做得不错！这条路通向扭曲大师的武器库。");
 		cm.dispose();
 	   }
 	   break;
 	case 610030700:
-	   cm.sendNext("That was some good work out there! This leads the way to the Twisted Masters' Armory.");
+	   cm.sendNext("做得不错！这条路通向扭曲大师的武器库。");
 	   cm.dispose();
 	   break;
     }

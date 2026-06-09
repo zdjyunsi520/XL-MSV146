@@ -17,22 +17,22 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("This will be the only way for you to enter the castle. Please think it through");
+			qm.sendOk("这可能是你进入城堡的唯一方法了。请仔细考虑。");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendNext("Ah! There might be a way... if you can utilize the spine vine that we have grown for the protection of our castle, then you just might be able to enter the premise!");
+		qm.sendNext("啊！也许有一个方法……如果你能利用我们为保护城堡而种植的荆棘藤蔓，你也许就能进入城堡！");
 	if (status == 1)
-		qm.sendAcceptDecline("If you can somehow eliminate the spines from the spine vine, then you'll be able to climb over the castle wall using the vine. Of course, that'll also require a Vine Remover...");
+		qm.sendAcceptDecline("如果你能消除荆棘藤蔓上的尖刺，你就可以用藤蔓攀爬城墙。当然，那也需要一把藤蔓去除器……");
 	if (status == 2)
-		qm.sendOk("The #bSpine Remover#k is created out of extracts from mysterious herbs at the highlands of El Naths. King Pepe used these herbs to intoxicate the pigs and take over the Mushroom Forest. #bIntoxicated Pig Tail#k is where you'll find the extracts of the herb. Please gather up #b100 Intoxicated Pig Tails#k and take them over to #bMinister of Magic.#k");
+		qm.sendOk("#b尖刺去除器#k是用奥斯伊尔高原神秘草药的提取物制成的。企鹅王用这些草药使猪猪中毒并占领了蘑菇森林。#b中毒猪尾巴#k就是你能找到这种草药提取物的地方。请收集#b100根中毒猪尾巴#k并送到#b魔法大臣#k那里。");
 	if (status == 3){
 		//qm.forceStartQuest();
 		//qm.forceStartQuest(2324, "1");
 		qm.gainExp(11000);
-		qm.sendOk("Good job navigating through the area.");
+		qm.sendOk("你在那片区域穿行得很好。");
 		qm.forceCompleteQuest();
 		qm.dispose();
 	}
@@ -49,10 +49,10 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("Hmmm I see... so they have completely shut off the entrance and everything.");
+		qm.sendOk("嗯，我明白了……所以他们完全封锁了入口和一切。");
 	if (status == 1){
 		qm.gainExp(11000);
-		qm.sendOk("Good job navigating through the area.");
+		qm.sendOk("你在那片区域穿行得很好。");
 		qm.forceCompleteQuest();
 		qm.dispose();
 	}

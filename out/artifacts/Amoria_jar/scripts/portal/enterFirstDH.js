@@ -14,9 +14,9 @@ function enter(pi) {
 	    mapp.respawn(true);
 	    pi.warp(map, 0);
 	} else {
-	    pi.playerMessage("Someone is already in this map.");
+	    pi.playerMessage("已经有人在这个地图里了。");
 	}
     } else {
-	pi.playerMessage("Hall #1 can only be entered if you're engaged in Kiku's Acclimation Training.");
+	pi.playerMessage("大厅#1只有参加菊花的适应训练才能进入。");
     }
 }

@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNextS("Did you notice the red-haired boy icon on the left side of your screen?\r\n\r\n#v3800475# This is Tot's Know How, a helper that will guide you through #e#rlevels 1 to 60#n#k. He will even #e#rhelp you level up instantly#n#k when you complete quests!\r\nPress the button on the left or hotkey #e#r' - '#n#k to check it out!",5,9010000);
+	    cm.sendNextS("你注意到屏幕左侧那个红发男孩的图标了吗？\r\n\r\n#v3800475#这是Tot的小贴士，一个帮助你完成#e#r1级到60级#n#k的向导。完成任务后他甚至会#e#r帮助你直接升级#n#k！\r\n按下左侧的按钮或快捷键#e#r'-'#n#k来查看！",5,9010000);
         cm.dispose();
     }
 }

@@ -18,7 +18,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("Well, hello! Welcome to the Ludibrium Plastic Surgery! Would you like to transform your face into something new? With a #b#t5152007##k, you can let us take care of the rest and have the face you've always wanted~!");
+	cm.sendNext("你好！欢迎来到玩具城整形医院！你想把脸变成全新的样子吗？有了#b#t5152007##k，让我们来帮你实现，拥有你一直想要的脸庞！");
     } else if (status == 1) {
 	var face = cm.getPlayerStat("FACE");
 
@@ -30,12 +30,12 @@ function action(mode, type, selection) {
 	for (var i = 0; i < facetype.length; i++) {
 	    facetype[i] = facetype[i] + face % 1000 - (face % 100);
 	}
-	cm.askAvatar("Let's see... I can totally transform your face into something new. Don't you want to try it? For #b#t5152007##k, you can get the face of your liking. Take your time in choosing the face of your preference.", facetype);
+	cm.askAvatar("让我看看……我可以彻底改变你的面容。不想试试吗？凭#b#t5152007##k，你可以选择你喜欢的面容。慢慢选择你喜欢的脸型吧。", facetype);
     } else if (status == 2){
 	if (cm.setAvatar(5152007, facetype[selection]) == 1) {
-	    cm.sendOk("Enjoy your new and improved face!");
+	    cm.sendOk("好好享受你的新面容吧！");
 	} else {
-	    cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+	    cm.sendOk("嗯……看来你没有专门用于此地的优惠券。很抱歉，没有优惠券的话，是无法进行整容的……");
 	}
 	cm.dispose();
     }

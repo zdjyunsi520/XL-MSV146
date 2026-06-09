@@ -12,13 +12,13 @@ function action(mode, type, selection) {
 	} else {
 		status++;
 		if (status == 0) {
-			cm.sendSimple("Man... It is cold!!!~ How can I help you?\r\n#L0#Leave the event game.#l\r\n#L1#Buy the weapon (Wooden Club 1 meso)#l");
+			cm.sendSimple("天...好冷啊！！！~ 我能帮你什么？\r\n#L0#离开活动游戏。#l\r\n#L1#购买武器（木棒 1枫币）#l");
 		} else if (status == 1) {
 			if (selection == 0) {
-				cm.sendYesNo("If you leave now, you can't participate in this event for the next 24 hours. Are you sure you want to leave?");
+				cm.sendYesNo("如果你现在离开，接下来24小时内将无法再次参加此活动。你确定要离开吗？");
 			} else if (selection == 1) {
 				if (cm.getPlayer().getMeso() < 1 || !cm.canHold(1322005)) {
-					cm.sendOk("You don't have enough mesos or you don't have any space in your inventory.");
+					cm.sendOk("你的枫币不够或者背包没有空间。");
 				} else {
 					cm.gainItem(1322005, 1);
 					cm.gainMeso(-1); //lool

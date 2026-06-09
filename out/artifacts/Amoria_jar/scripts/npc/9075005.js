@@ -16,21 +16,21 @@ function action(mode, type, selection) {
     }
     mode == 1 ? chat++ : chat--;
     if (chat == 0)
-	    cm.sendNextS("Gelimer! Why did you move Lotus here without my authorization?",1);
+	    cm.sendNextS("兰、兰花大人。您来……早了……",1);
 	else if (chat == 1)
-	    cm.sendNextPrevS("M-madame Orchid. You are... early...", 1,0,9075004);
+	    cm.sendNextPrevS("闭嘴，你这个油腔滑调的老书呆子！没有得到我的命令，你不能动我哥哥！我的小莲花需要待在我身边，不然他会害怕的！", 1,0,9075004);
 	else if (chat == 2)
-	    cm.sendNextPrevS("Shut your trap, you greasy old nerd! You don't move my brother unless I tell you to move my brother! My little Lotus needs to be near me or he'll get scared!",1);
+	    cm.sendNextPrevS("请小声点，亲爱的。出了一些新的状况……",1);
 	else if (chat == 3)
-	    cm.sendNextPrevS("Please lower your voice, dear. There have been some developments...", 1,0,9075004);
+	    cm.sendNextPrevS("我正想放火烧了你的胡子呢，杰利麦。你觉得你还能拖延这些实验多久？莲花几个月前就该醒了。你知道如果你不成功我会怎么对你吧？", 1,0,9075004);
 	else if (chat == 4)
-	    cm.sendNextPrevS("I'm developing a need to set your mustache on fire, Gelimer. How long do you think you can keep delaying these experiments? Lotus should have been awake months ago. You know what I'm going to do to you if you don't succeed, don't you?",1);
+	    cm.sendNextPrevS("莲花很快就会醒来的，我保证。他很快就会醒来的，非常快……",1);
 	else if (chat == 5)
-	    cm.sendNextPrevS("Lotus will awaken soon, I assure you. He will wake up, very soon...", 1,0,9075004);
+	    cm.sendNextPrevS("你想要更多时间？那就去买块新表！我现在就要我哥哥醒过来！", 1,0,9075004);
 	else if (chat == 6)
-	    cm.sendNextPrevS("You want more time? Then buy a new watch! I want my brother awake now!",1);
+	    cm.sendNextPrevS("也许他只需要听到你的声音……来，看看吧。",1);
 	else if (chat == 7) {
-	     cm.sendNextPrevS("Perhaps he only needs to hear your voice... Come, take a look.", 1,0,9075004);
+	     cm.sendNextPrevS("也许他只需要听到你的声音……来，看看吧。", 1,0,9075004);
    } else if (chat == 8) {
 	    cm.warp(957020002);
         cm.dispose();

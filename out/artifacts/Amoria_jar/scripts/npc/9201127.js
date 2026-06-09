@@ -13,29 +13,29 @@ function action(mode, type, selection) {
     } 
     if (status == 0) { 
     if (cm.getPlayer().getJob() == 0) { 
-        cm.sendNext("Welcome, Beginning Explorer! In Maple Story,you can\r\nchoose a #rjob#k when you reach #rLv 10#k (Lv 8 for Magicians).\r\n\r\nIn other words, you'll be choosing your own future path!\r\nWhen you get a job,you get to use various skills and magic nwhice will make your experience in Maple Story more enjoyable.So,work hard to carve your own destiny"); 
+        cm.sendNext("看起来你已经转职了！\r\n传送服务只能由新手使用"); 
     } else { 
-        cm.sendOk("It looks like you've already made a job advancement!\r\nTransportation can only be used by beginners"); 
+        cm.sendOk("我的职责是帮助你成为#r海盗#k。\r\n\r\n海盗利用敏捷和力量精准射击，同时运用物理攻击技能瞬间压倒敌人。敏捷对于使用枪支远程攻击的枪手非常重要，而使用强大近距离物理攻击的格斗家则更需要提升力量。"); 
         cm.dispose(); 
     } 
     } else if (status == 1) { 
-        cm.sendNextPrev("My role is to help you become a #rPriate.#k\r\n\r\nPirates use their quickness and strength to shoot with bull's-eye accuracy, while employing their physical attack skills to overpower enemies in an instant Quickness is important for Gunslingers who use guns to attack from far distances, while Brawlers who use powerful physical attacks from short range would benefit from increases to their Strength."); 
+        cm.sendNextPrev("使用的武器包括#b枪#k和#k拳甲#k\r\n\r\n所需等级：#r10级以上#k\r\n地点：#b鹦鹉螺号#k的#r航行室#k\r\n转职教官：#r卡伊琳#k"); 
     } else if (status == 2) { 
-        cm.sendNextPrev("Weapons used include the #bGuns#k and #bKnuckles#k\r\n\r\nRequired Level: #rOver Lv 10#k\r\nLocation: #rNavigation Room#k in #bNautilus#k\r\nJob Instructor: #rKyrin#k"); 
+        cm.sendNextPrev("你想成为#r海盗#k吗？\r\n#b#L0#是的#l\r\n#L1#不#l#k"); 
     } else if (status == 3) { 
-        cm.sendSimple("Would you like to become a #rPirate?#k\r\n#b#L0#Yes#l\r\n#L1#No#l#k"); 
+        cm.sendSimple("要转职的话，你必须前往#b鹦鹉螺号#k的#r航行室#k找#r卡伊琳#k。要我现在送你过去吗？-转职后无法再使用传送服务-\r\n\r\n#b#L0#是的#l\r\n#L1#不#l#k"); 
     } else if (status == 4) { 
       if (selection == 0) { 
-        cm.sendSimple("In order to make the job advancement, you must visit #rKyrin#k at the #rNavigation Room#k in #bNautilus#k.Would you like to be trasported there now?-The transportation service cannot be used once you make the job advancement-\r\n\r\n#b#L0#Yes#l\r\n#L1#No#l#k"); 
+        cm.sendSimple("如果你有任何问题，请再来和我交谈。"); 
     } else if (selection == 1) { 
-        cm.sendNext("Please talk to me again if you have any questions."); 
+        cm.sendNext("好的。我现在就送你去#b鹦鹉螺号#k的#r航行室#k。"); 
         cm.dispose(); 
     } 
     } else if (status == 5) { 
       if (selection == 0) { 
-        cm.sendNext("Alright.I will now take you to the #rNavigation Room#k in #bNautilus.#k"); 
+        cm.sendNext("好的。我现在就送你去#b鹦鹉螺号#k的#r航行室#k。"); 
     } else if (selection == 1) { 
-        cm.sendNext("Please talk to me again if you have any questions."); 
+        cm.sendNext("好的。我现在就送你去#b鹦鹉螺号#k的#r航行室#k。"); 
         cm.dispose(); 
     } 
   } else if (status == 6) { 

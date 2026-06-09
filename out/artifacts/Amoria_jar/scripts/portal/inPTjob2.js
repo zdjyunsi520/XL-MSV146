@@ -10,7 +10,7 @@ function enter(pi) {
         }
         pi.warp(915010000, "out00");
     } else {
-        pi.playerMessage("I have nothing to look there.");
+        pi.playerMessage("我在那里没什么可看的。");
     }
     return true;
 }

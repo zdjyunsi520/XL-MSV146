@@ -11,13 +11,13 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("(*chirp, chirp*)");
+	  qm.sendNext("(*叽叽，喳喳*)");
 	 } else if (status == 1) {
-	  qm.sendNextPrevS("Look! It's a bird! Is it talking to me?");
+	  qm.sendNextPrevS("看！是一只鸟！它在跟我说话吗？");
 	 } else if (status == 2) {
-	 qm.sendNext("*chirp, chirp, chirp*");
+	 qm.sendNext("*叽叽，喳喳，喳喳*");
 	 } else if (status == 3) {
-	  qm.sendNextPrevS("OMGOODNESS! I can understand birds! I must be some sort of superhero. It... wants me to follow it. I'm sure Kizan won't mind.");
+	  qm.sendNextPrevS("天哪！我能听懂鸟语了！我一定是什么超级英雄。它...想让我跟着它。我相信基赞不会介意的。");
 	 } else if (status == 4) {
 	  qm.forceStartQuest();
 	  qm.removeNpc(130030105,1102113);

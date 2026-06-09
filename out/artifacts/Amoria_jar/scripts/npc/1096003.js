@@ -8,7 +8,7 @@ function action(mode, type, selection) {
 		return;
 	}
 	if (status == 0) {
-		cm.sendNextNoESC("Ook! Ook!");
+		cm.sendNextNoESC("哦克！哦克！");
 	} else if (status == 1) {
 		cm.EnableUI(0);
 		cm.DisableUI(false);

@@ -10,17 +10,17 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendNextS("I'm here! It's finally time to play with me!",5,9390463);
+	    qm.sendNextS("我来了！终于轮到和我一起玩了！",5,9390463);
 	} else if (status == 1) {
-	    qm.sendNextPrevS("Press #b[down]#k when you change modes to activate me.",5,9390463);
+	    qm.sendNextPrevS("切换模式时按#b[下]#k来激活我。",5,9390463);
 	} else if (status == 2) {
-	    qm.sendNextPrevS("Since I'm so adorable, you and your party are going to LOVE me!",5,9390463);
+	    qm.sendNextPrevS("既然我这么可爱，你和你队友一定会爱死我的！",5,9390463);
 	} else if (status == 3) {
-	    qm.sendNextPrevS("You can only use my skills when you activate my mode, so remember to #bhotkey my cat skills#k for #bmy mode!#k",5,9390463);
+	    qm.sendNextPrevS("你只有在激活我的模式时才能使用我的技能，所以记得把#b我的猫技能#k设置在#b我的模式#k的快捷键上！",5,9390463);
 	} else if (status == 4) {
-	    qm.sendNextPrevS("This is my last gift!\r\nTake this #i1142675:##b#t1142675:##k",5,9390463);
+	    qm.sendNextPrevS("这是我最后的礼物！\r\n收下这个#i1142675:##b#t1142675:##k",5,9390463);
 	} else if (status == 5) {
-	    qm.sendNextPrevS("That's it for now! I'll see you around! Buh-bye!",5,9390463);
+	    qm.sendNextPrevS("暂时就这么多了！我们以后再见！拜拜！",5,9390463);
 	} else if (status == 6) {
 	    qm.forceStartQuest();
 		qm.forceCompleteQuest();

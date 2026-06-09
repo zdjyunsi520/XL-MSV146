@@ -18,7 +18,7 @@ function enter(pi) {
         		return true;
 		//just in case, we aren't giving gp (:
 	}
-        pi.playerMessage("This way forward is not open yet.");
+        pi.playerMessage("此路前方尚未开启。");
         return false;
     }
 }

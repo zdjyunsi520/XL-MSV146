@@ -19,7 +19,7 @@ function action(mode, type, selection) {
     }
     else {
         if (status >= 3 && mode == 0) {
-            cm.sendOk("See you next time!.");
+            cm.sendOk("嘿，我是#rWizStory#k的一站式NPC！");
             cm.dispose();
             return;    
         }
@@ -30,9 +30,9 @@ function action(mode, type, selection) {
             status--;
         }
         if (status == 0) {
-            cm.sendNext("Hey, Im the All in One NPC of #rWizStory#k!");
+            cm.sendNext("#fUI/UIWindow.img/QuestIcon/3/0# #b\r\n#L1#职业转职#l\r\n#L2#世界旅行#l\r\n#L3#综合商店#l\r\n#L4#男性发型设计#l\r\n#L5#女性发型设计#l\r\n#L6#金币兑换Wiz币#l\r\n#L7#自定义地图传送#l#k");
         } else if (status == 1) {
-            cm.sendSimple("#fUI/UIWindow.img/QuestIcon/3/0# #b\r\n#L1#Job Advancer#l\r\n#L2#World Tour#l\r\n#L3#All in One Shop#l\r\n#L4#Male Hair Styler#l\r\n#L5#Female Hair Styler#l\r\n#L6#Trade Mesos for Wiz Coins#l\r\n#L7#Custom Map Warper#l#k");
+            cm.sendSimple("货币兑换功能正在开发中。");
         } else if (status == 2) {
             if (selection == 1) {
                 cm.dispose();
@@ -50,7 +50,7 @@ function action(mode, type, selection) {
 				cm.dispose();
                 cm.openNpc(9900001);
             } else if (selection == 6) {
-				cm.sendOk("Currency converters are in-progress.");
+				cm.sendOk("货币兑换功能正在开发中。");
 				cm.dispose();
                 //cm.openNpc();
             } else if (selection == 7) {

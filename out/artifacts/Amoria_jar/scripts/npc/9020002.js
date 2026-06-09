@@ -27,9 +27,9 @@ function action(mode, type, selection){
 	} else {
 	    var outText;
 	    if (mapId == 910340600) {
-		outText = "Are you ready to leave this map?";
+		outText = "你准备好离开此地图了吗？";
 	    } else {
-		outText = "Once you leave the map, you'll have to restart the whole quest if you want to try it again.  Do you still want to leave this map?";
+		outText = "一旦你离开地图，如果你想再次尝试，就必须重新开始整个任务。你仍然想离开吗？";
 	    }
 	    if (status == 0) {
 		cm.sendYesNo(outText);

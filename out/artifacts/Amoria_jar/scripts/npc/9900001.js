@@ -7,7 +7,7 @@ importPackage(java.lang);
 
 var status = 0;
 var slot = Array();
-var stats = Array("Strength", "Dexterity", "Intellect", "Luck", "HP", "MP", "Weapon Attack", "Magic Attack", "Weapon Defense", "Magic Defense", "Accuracy", "Avoidability", "Hands", "Speed", "Jump", "Slots", "Vicious Hammer", "Used slot", "Enhancements", "Potential stat 1", "Potential stat 2", "Potential stat 3", "Potential stat 4", "Potential stat 5", "Owner");
+var stats = Array("Strength", "Dexterity", "Intellect", "Luck", "HP", "MP", "魔法攻击", "物理防御", "魔法防御", "黄金锤", "Accuracy", "Avoidability", "Hands", "Speed", "Jump", "Slots", "已用卷轴位", "潜能属性1", "Enhancements", "潜能属性2", "潜能属性3", "潜能属性4", "潜能属性5", "你想让我做什么？#b\r\n#L0#属性最大化！#l\r\n#L1#技能最大化！#l\r\n#L2#修改装备属性！#l\r\n#L3#查看潜能数值#l\r\n#L4#将AP/SP归零#l\r\n#L5#清除技能#l\r\n#L6#按职业满技能#l\r\n#L7#清除我的属性！#l\r\n#L8#重置我的荣誉#l\r\n#L9#测试方向#l", "Owner");
 var selected;
 var statsSel;
 
@@ -28,9 +28,9 @@ function action(mode, type, selection) {
 
     if (status == 0) {
 	if (cm.getPlayerStat("ADMIN") == 1) {
-		cm.sendSimple("What do you want from me?#b\r\n#L0#Max my stats!#l\r\n#L1#Max my skills!#l\r\n#L2#Modify my equip's stats!#l\r\n#L3#Look at potential values#l\r\n#L4#Set AP/SP to 0#l\r\n#L5#Clear Skills#l\r\n#L6#Max Skills by Job#l\r\n#L7#Clear my stats!#l\r\n#L8#Reset my Honor#l\r\n#L9#Test Direction#l");
+		cm.sendSimple("你想让我做什么？#b\r\n#L0#属性最大化！#l\r\n#L1#技能最大化！#l\r\n#L4#将AP/SP归零#l\r\n#L7#清除我的属性！#k");
 	} else if (cm.getPlayerStat("GM") == 1) {
-		cm.sendSimple("What do you want from me?#b\r\n#L0#Max my stats!#l\r\n#L1#Max my skills!#l\r\n#L4#Set AP/SP to 0#l\r\n#L7#Clear my stats!#k");
+		cm.sendSimple("我已经将你的属性最大化了。祝你在枫之谷冒险愉快！");
 	} else {
 	    cm.dispose();
 	}
@@ -38,13 +38,13 @@ function action(mode, type, selection) {
 	if (selection == 0) {
 	    if (cm.getPlayerStat("GM") == 1) {
 		cm.maxStats();
-		cm.sendOk("I have maxed your stats. Happy Mapling!");
+		cm.sendOk("我已经清除了你的属性。祝你在枫之谷冒险愉快！");
 	    }
 	    cm.dispose();
 	} else if (selection == 7) {
 	    if (cm.getPlayerStat("GM") == 1) {
 		cm.getPlayer().resetStats(4, 4, 4, 4);
-		cm.sendOk("I have cleared your stats. Happy Mapling!");
+		cm.sendOk("你想修改哪件装备？\r\n#b");
 	    }
 	    cm.dispose();
 	} else if (selection == 1) {
@@ -61,14 +61,14 @@ function action(mode, type, selection) {
 		}
 		slot.push(i);
 	    }
-	    cm.sendSimple("Which one of your equips would you like to modify?\r\n#b" + avail);
+	    cm.sendSimple("#L0#搜索潜能物品#l\r\n" + avail);
 	} else if (selection == 3 && cm.getPlayerStat("ADMIN") == 1) {
 		var eek = cm.getAllPotentialInfo();
-		var avail = "#L0#Search for potential item#l\r\n";
+		var avail = "#潜能ID";
 		for (var ii = 0; ii < eek.size(); ii++) {
-			avail += "#L" + eek.get(ii) + "#Potential ID " + eek.get(ii) + "#l\r\n";
+			avail += "#L" + eek.get(ii) + "你想了解什么？\r\n#b " + eek.get(ii) + "#l\r\n";
 		}
-		cm.sendSimple("What would you like to learn about?\r\n#b"+ avail);
+		cm.sendSimple("你已决定修改你的 #b#t"+ avail);
 		status = 9;
 	} else if (selection == 4) {
 		cm.getPlayer().resetAPSP();
@@ -94,21 +94,21 @@ function action(mode, type, selection) {
 	for (var i = 0; i < stats.length; i++) {
 	    text += "#L" + i + "#" + stats[i] + "#l\r\n";
 	}
-	cm.sendSimple("You have decided to modify your #b#t" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k.\r\nWhich stat would you like to modify?\r\n#b" + text);
+	cm.sendSimple("##k。\r\n你想修改哪个属性？\r\n#b" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "你想将你的 #b#t" + text);
 	} else if (status == 3 && cm.getPlayerStat("ADMIN") == 1) {
 	statsSel = selection;
 	if (selection == 24) {
-		cm.sendGetText("What would you like to set your #b#t" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + " to?");
+		cm.sendGetText(" 设置为多少？" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + "你的 #b#t");
 	} else {
-		cm.sendGetNumber("What would you like to set your #b#t" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + " to?", 0, 0, 60004);
+		cm.sendGetNumber(" 设置为多少？" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + "你的 #b#t", 0, 0, 60004);
 	}
     } else if (status == 4 && cm.getPlayerStat("ADMIN") == 1) {
 	cm.changeStat(slot[selected], statsSel, selection);
-	cm.sendOk("Your #b#t" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + " has been set to " + selection + ".");
+	cm.sendOk(" 已被设置为" + cm.getInventory(-1).getItem(slot[selected]).getItemId() + "##k's " + stats[statsSel] + "你想搜索什么？(例如 STR %) " + selection + ".");
 	cm.dispose();
 	} else if (status == 10 && cm.getPlayerStat("ADMIN") == 1) {
 		if (selection == 0) {
-			cm.sendGetText("What would you like to search for? (e.g. STR %)");
+			cm.sendGetText("你想搜索什么？(例如 STR %)");
 			return;
 		}
 		cm.sendSimple("#L3#" + cm.getPotentialInfo(selection) + "#l");
@@ -116,9 +116,9 @@ function action(mode, type, selection) {
 	} else if (status == 11 && cm.getPlayerStat("ADMIN") == 1) {
 		var eek = cm.getAllPotentialInfoSearch(cm.getText());
 		for (var ii = 0; ii < eek.size(); ii++) {
-			avail += "#L" + eek.get(ii) + "#Potential ID " + eek.get(ii) + "#l\r\n";
+			avail += "#L" + eek.get(ii) + "你想了解什么？\r\n#b " + eek.get(ii) + "#l\r\n";
 		}
-		cm.sendSimple("What would you like to learn about?\r\n#b"+ avail);
+		cm.sendSimple("你已决定修改你的 #b#t"+ avail);
 		status = 9;
 	} else {
 		cm.dispose();

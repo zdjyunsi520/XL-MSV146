@@ -11,7 +11,7 @@ var cubeSelection;
 var state = 0;
 var bagIndex;
 var desiredStatNumber = 0;
-var statList = ["None", "Att %", "Matt %", "Drop Rate %", "Luk %", "Dex %", "Int %", "Str %", "All Stat %"]
+var statList = ["None", "魔法攻击力%", "掉落率%", "运气%", "敏捷%", "智力%", "力量%", "全属性%", "这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n"]
 var proceedSelection = statList.length + 1;
 var cubeNormally = proceedSelection + 1;
 var statSelected = 0;
@@ -42,7 +42,7 @@ function action(mode, type, selection)
 
     if (status == 0) {
 
-		var itemSel = "This is the #rFree Cubing NPC#k, please select the item you'd like to cube.\r\n#b\r\n"
+		var itemSel = "你想使用哪种方块？\r\n#r消耗：1个方块\r\n#k"
 		cm.sendSimple(itemSel + cm.EquipListVertical(cm.getChar().getClient()));
 
 	}
@@ -51,10 +51,10 @@ function action(mode, type, selection)
 		bagIndex = selection;
 		equipment = cm.getEquipInventory(cm.getChar()).getItem(bagIndex);
 
-		var cubeSelDiag = "Which cube would you like to use?\r\n#rCOST: 1 Cube\r\n#k";
-		cubeSelDiag += "#L500" + "##v" + redCube + " #Red Cube\r\n";
-		cubeSelDiag += "#L1000" + "##v" + bonusCube + " #Bonus Potential Cube\r\n\r\n";
-		cubeSelDiag += "#L2000##bAuto Cube Lines Selection#l"
+		var cubeSelDiag = "#红色方块\r\n";
+		cubeSelDiag += "#L500" + "##v" + redCube + "#附加潜能方块\r\n\r\n";
+		cubeSelDiag += "#L1000" + "##v" + bonusCube + "#L2000##b自动洗潜能选项#l";
+		cubeSelDiag += "你的物品没有潜能。"
 		cm.sendSimple(cubeSelDiag);
 	}
 	else if (status == 2)
@@ -64,42 +64,42 @@ function action(mode, type, selection)
 			cubeSelection = 1;
 			if(equipment.getPotential1() == 0 && equipment.getPotential2() == 0)
 			{
-				cm.sendOk("Your item does not have a potential.");
+				cm.sendOk("你没有红色方块了。");
 				return cm.dispose();
 			}
 			else if(cm.getQuantityOfItem(redCube) <= 0)
 			{
-				cm.sendOk("You do not have any red cubes.");
+				cm.sendOk("这些是你的潜能，你想使用方块吗？\r\n#v");
 				return cm.dispose();
 			}
 			else
 			{
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "#L1\r\n\r\n";
+				var cubingDiag = "\r\nDP：" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "#L1\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -122,42 +122,42 @@ function action(mode, type, selection)
 			cubeSelection = 2;
 			if(equipment.getBonusPotential1() == 0 && equipment.getBonusPotential2() == 0)
 			{
-				cm.sendOk("Your item does not have a potential.");
+				cm.sendOk("你没有红色方块了。");
 				return cm.dispose();
 			}
 			else if(cm.getQuantityOfItem(bonusCube) <= 0)
 			{
-				cm.sendOk("You do not have any bonus potential cubes.");
+				cm.sendOk("这些是你的附加潜能，你想使用方块吗？\r\n#v");
 				return cm.dispose();
 			}
 			else
 			{
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "#L2\r\n\r\n";
+				var cubingDiag = "#r组合：" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "#L2\r\n\r\n";
 				var bonusPot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < bonusPot.length; i++)
 				{
 					if(bonusPot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(bonusPot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -178,15 +178,15 @@ function action(mode, type, selection)
 		}
 		else if(selection == 2000) // Auto Cube Selection
 		{
-			combination = "#rCOMBINATION: " + desiredStatNumber + " " + statList[statSelected]
+			combination = "请选择你想自动洗的属性。\r\n#r消耗：\r\n每个红色方块5,000 NX\r\n每个附加方块5,000 NX\r\n\r\n " + desiredStatNumber + " " + statList[statSelected]
 			cubeSelection = 3;
-			autoCubeDiag = "Please select the stat you would like to automatically cube for.\r\n#rCOST: \r\n5,000 NX per Red Cube\r\n5,000 NX per Bonus Cube\r\n\r\n";
+			autoCubeDiag = "普通洗潜能。";
 
 			for(var i = 1; i < statList.length; i++)
 			{
 				autoCubeDiag += "#L" + i + "##b" + statList[i] + "\r\n";
 			}
-			autoCubeDiag += "\r\n#L" + cubeNormally + "##b" + "Cube Normally.";
+			autoCubeDiag += "\r\n#L" + cubeNormally + "##b" + "按下一步使用方块洗#i";
 			cm.sendNext(autoCubeDiag);
 		}
 	}
@@ -195,54 +195,54 @@ function action(mode, type, selection)
 		if(selection == cubeNormally)
 		{
 			cubeSelection = 1;
-			cm.sendNext("Press next to use a cube on #i" + equipment.getItemId() + "#\r\n#rCOMBINATION: NONE");
+			cm.sendNext("#\r\n#r组合：无" + equipment.getItemId() + "#\r\n请选择你想自动洗的属性。\r\n#r消耗：\r\n每个红色方块5,000 NX\r\n每个附加方块5,000 NX\r\n\r\n NONE");
 			status--;
 		}
 		else if(selection == 1) // Att
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Att would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的魔法攻击力？", 1, 1, 36);
 		}
 		else if(selection == 2) // Matt
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Matt would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的掉落率？", 1, 1, 36);
 		}
 		else if(selection == 3) // Drop Rate
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Drop Rate would you like to cube for?", 1, 1, 60);
+			cm.sendGetNumber("你想洗出百分之多少的运气？", 1, 1, 60);
 		}
 		else if(selection == 4) // Luk
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Luk would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的敏捷？", 1, 1, 36);
 		}
 		else if(selection == 5) // Dex
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Dex would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的智力？", 1, 1, 36);
 		}
 		else if(selection == 6) // Int
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Int would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的力量？", 1, 1, 36);
 		}
 		else if(selection == 7) // Str
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent Str would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想洗出百分之多少的全属性？", 1, 1, 36);
 		}
 		else if(selection == 8) // All Stat
 		{
 			statSelected = selection;
-			cm.sendGetNumber("How much percent All Stat would you like to cube for?", 1, 1, 36);
+			cm.sendGetNumber("你想至少洗出#r", 1, 1, 36);
 		}
 	}
 	else if(status == 4 && cubeSelection == 3)
 	{
 		desiredStatNumber = selection;
-		cm.sendNext("Do you want to cube for atleast #r" + statList[statSelected] + desiredStatNumber + "?\r\n#k#L2000##bYes(#rRed Cube#k 5,000 NX#b)\r\n#L5000#Yes(#gBonus Potential Cube#k 5,000 NX#b)\r\n#L4000#No");
+		cm.sendNext("？\r\n#k#L2000##b是（#r红色方块#k 5,000 NX#b）\r\n#L5000#是（#g附加潜能方块#k 5,000 NX#b）\r\n#L4000#否" + statList[statSelected] + desiredStatNumber + "你没有足够的红色方块。");
 	}
 	else if(status == 5) // Auto Cubing Section
 	{
@@ -250,17 +250,17 @@ function action(mode, type, selection)
 		{
 			if(cm.getQuantityOfItem(redCube) == 0)
 				{
-					cm.sendOk("You do not have enough red cubes.");
+					cm.sendOk("你的物品不是传说级或者没有潜能。");
 					return cm.dispose();
 				}
 				else if(equipment.getPotential1() < 40000)
 				{
-					cm.sendOk("Your item is not Legendary or does not have a potential.");
+					cm.sendOk("你没有足够的金币来洗潜能。");
 					return cm.dispose();
 				}
 				else if(cm.getChar().getCSPoints(2) < autoCubePriceRed)
 				{
-					cm.sendOk("You do not have enough mesos to cube.");
+					cm.sendOk("你消耗了1个红色方块");
 					return cm.dispose();
 				}
 				else if(cm.isWeapon(equipment.getItemId()) || cm.isSecondaryWeapon(equipment.getItemId()) || cm.isEmblem(equipment.getItemId())) // Weapon, 2ndry, Emblem
@@ -275,33 +275,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceRed);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r匹配成功！\r\n" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -324,37 +324,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else{
 				cm.sendNext(cubingDiag + "#l");
@@ -374,37 +374,37 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceRed);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r匹配成功！\r\n" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					if(basePot[i] == 40056 || basePot[i] == 40057)
 					{
-						cubingDiag += "#g(Legendary)#k Critical Damage 8%";
+						cubingDiag += "如果你看到了这条消息，请联系Brandon。";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -427,37 +427,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else
 				{
@@ -478,33 +478,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceRed);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r匹配成功！\r\n" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -527,37 +527,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else
 				{
@@ -578,33 +578,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceRed);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r匹配成功！\r\n" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -628,37 +628,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else
 				{
@@ -668,7 +668,7 @@ function action(mode, type, selection)
 			}
 			else
 			{
-				cm.sendOk("Please message Brandon if you got to this message.");
+				cm.sendOk("你没有足够的附加潜能方块。");
 				return cm.dispose();
 			}
 		}
@@ -677,17 +677,17 @@ function action(mode, type, selection)
 			isBpot = true;
 			if(cm.getQuantityOfItem(bonusCube) == 0)
 				{
-					cm.sendOk("You do not have enough bonus potential cubes.");
+					cm.sendOk("你没有足够的金币来自动洗潜能。");
 					return cm.dispose();
 				}
 				else if(equipment.getBonusPotential1() < 40000)
 				{
-					cm.sendOk("Your item is not Legendary or does not have a potential.");
+					cm.sendOk("你没有足够的金币来洗潜能。");
 					return cm.dispose();
 				}
 				else if(cm.getChar().getCSPoints(2) < autoCubePriceBonus)
 				{
-					cm.sendOk("You do not have enough mesos to Auto Cube.");
+					cm.sendOk("你消耗了1个附加方块");
 					return cm.dispose();
 				}
 				else if(cm.isWeapon(equipment.getItemId()) || cm.isSecondaryWeapon(equipment.getItemId()) || cm.isEmblem(equipment.getItemId()))
@@ -702,33 +702,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceBonus);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -751,37 +751,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else{
 				cm.sendNext(cubingDiag + "#l");
@@ -801,37 +801,37 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceBonus);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					if(basePot[i] == 40056 || basePot[i] == 40057)
 					{
-						cubingDiag += "#g(Legendary)#k Critical Damage 8%";
+						cubingDiag += "如果你看到了这条消息，请联系Brandon。";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -854,37 +854,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else{
 				cm.sendNext(cubingDiag + "#l");
@@ -904,33 +904,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceBonus);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -953,37 +953,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else{
 				cm.sendNext(cubingDiag + "#l");
@@ -1003,33 +1003,33 @@ function action(mode, type, selection)
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
 				cm.getChar().gainMaplePoints(-autoCubePriceBonus);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#rAUTO CUBING: ON#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1052,37 +1052,37 @@ function action(mode, type, selection)
 				var totalMattPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incMADr + cm.getPotentialInfoById(basePot[1]).get(19).incMADr + cm.getPotentialInfoById(basePot[2]).get(19).incMADr : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incMADr;
 				var totalDropPercent = (cm.getReqLevel(equipment.getItemId()) >= 200) ? cm.getPotentialInfoById(basePot[0]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(19).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(19).incRewardProp : cm.getPotentialInfoById(basePot[0]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[1]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp + cm.getPotentialInfoById(basePot[2]).get(cm.getReqLevel(equipment.getItemId()) / 10).incRewardProp;
 
-				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // Luk %
+				if(statSelected == 4 && totalLukPercent >= desiredStatNumber) // 敏捷%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // Att %
+				else if(statSelected == 1 && totalAttPercent >= desiredStatNumber) // 魔法攻击力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // Matt %
+				else if(statSelected == 2 && totalMattPercent >= desiredStatNumber) // 掉落率%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // Drop Rate %
+				else if(statSelected == 3 && totalDropPercent >= desiredStatNumber) // 运气%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // Dex %
+				else if(statSelected == 5 && totalDexPercent >= desiredStatNumber) // 智力%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // Int %
+				else if(statSelected == 6 && totalIntPercent >= desiredStatNumber) // 力量%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // Str %
+				else if(statSelected == 7 && totalStrPercent >= desiredStatNumber) // 全属性%
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
-				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // All Stat %
+				else if(statSelected == 8 && totalStrPercent >= desiredStatNumber && totalIntPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber && totalDexPercent >= desiredStatNumber) // 这是#r免费洗潜能NPC#k，请选择你想洗潜能的物品。\r\n#b\r\n
 				{
-					cm.sendYesNo("#rMATCH FOUND!\r\n" + cubingDiag + "#l");
+					cm.sendYesNo("#g（传说）#k暴击伤害8%" + cubingDiag + "#l");
 				}
 				else{
 				cm.sendNext(cubingDiag + "#l");
@@ -1091,7 +1091,7 @@ function action(mode, type, selection)
 			}
 			else
 			{
-				cm.sendOk("Please message Brandon if you got to this message.");
+				cm.sendOk("你没有足够的附加潜能方块。");
 				return cm.dispose();
 			}
 		}
@@ -1105,7 +1105,7 @@ function action(mode, type, selection)
 
 				if(cm.getQuantityOfItem(redCube) == 0)
 				{
-					cm.sendOk("You do not have enough red cubes.");
+					cm.sendOk("你的物品不是传说级或者没有潜能。");
 					return cm.dispose();
 				}
 				else if(cm.isWeapon(equipment.getItemId()) || cm.isSecondaryWeapon(equipment.getItemId()) || cm.isEmblem(equipment.getItemId())) // Weapon, 2ndry, Emblem
@@ -1119,33 +1119,33 @@ function action(mode, type, selection)
 				equipment.setPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "#L1\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "\r\nDP：" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "#L1\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1175,37 +1175,37 @@ function action(mode, type, selection)
 				equipment.setPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "#L1\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "\r\nDP：" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "#L1\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					if(basePot[i] == 40056 || basePot[i] == 40057)
 					{
-						cubingDiag += "#g(Legendary)#k Critical Damage 8%";
+						cubingDiag += "如果你看到了这条消息，请联系Brandon。";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1235,33 +1235,33 @@ function action(mode, type, selection)
 				equipment.setPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "#L1\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "\r\nDP：" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "#L1\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1291,33 +1291,33 @@ function action(mode, type, selection)
 				equipment.setPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(redCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 red cube");
-				var cubingDiag = "These are your potentials, would you like to use a cube?\r\n#v" + redCube +": #" + cm.getQuantityOfItem(redCube) + "\r\nDP: " + "#L1\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "\r\nDP：" + redCube +": #" + cm.getQuantityOfItem(redCube) + "（无） " + "#L1\r\n\r\n";
 				var basePot = [equipment.getPotential1(), equipment.getPotential2(),equipment.getPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1337,7 +1337,7 @@ function action(mode, type, selection)
 			}
 			else
 			{
-				cm.sendOk("Please message Brandon if you got to this message.");
+				cm.sendOk("你没有足够的附加潜能方块。");
 				return cm.dispose();
 			}
 
@@ -1347,7 +1347,7 @@ function action(mode, type, selection)
 
 				if(cm.getQuantityOfItem(bonusCube) == 0)
 				{
-					cm.sendOk("You do not have enough bonus potential cubes.");
+					cm.sendOk("你没有足够的金币来自动洗潜能。");
 					return cm.dispose();
 				}
 				else if(cm.isWeapon(equipment.getItemId()) || cm.isSecondaryWeapon(equipment.getItemId()) || cm.isEmblem(equipment.getItemId()))
@@ -1361,33 +1361,33 @@ function action(mode, type, selection)
 				equipment.setBonusPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "#L2\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r组合：" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "#L2\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1417,37 +1417,37 @@ function action(mode, type, selection)
 				equipment.setBonusPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "#L2\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r组合：" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "#L2\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					if(basePot[i] == 40056 || basePot[i] == 40057)
 					{
-						cubingDiag += "#g(Legendary)#k Critical Damage 8%";
+						cubingDiag += "如果你看到了这条消息，请联系Brandon。";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1477,33 +1477,33 @@ function action(mode, type, selection)
 				equipment.setBonusPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "#L2\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r组合：" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "#L2\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1533,33 +1533,33 @@ function action(mode, type, selection)
 				equipment.setBonusPotential3(randomPot3);
 				cm.updateEquipSlot(equipment);
 				cm.gainItem(bonusCube, -1);
-				cm.getChar().dropMessage(5,"You lost 1 bonus cube");
-				var cubingDiag = "These are your bonus potentials, would you like to use a cube?\r\n#v" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "\r\nDP: " + "#L2\r\n\r\n";
+				cm.getChar().dropMessage(5,"这些是你的附加潜能，你想使用方块吗？\r\n#r自动洗潜能：开启#k\r\n#v");
+				var cubingDiag = "#r组合：" + bonusCube +": #" + cm.getQuantityOfItem(bonusCube) + "（无） " + "#L2\r\n\r\n";
 				var basePot = [equipment.getBonusPotential1(), equipment.getBonusPotential2(),equipment.getBonusPotential3()];
 				for(var i = 0; i < basePot.length; i++)
 				{
 					if(basePot[i] == 0)
 					{
-							cubingDiag += "(None) ";
+							cubingDiag += "#b（稀有）#k ";
 					}
 					else
 					{
 						var tier = Math.floor(basePot[i] / 10000)
 							if(tier <= 1)
 							{
-								cubingDiag += "#b(Rare) #k";
+								cubingDiag += "#d（史诗）#k";
 							}
 							else if(tier == 2)
 							{
-								cubingDiag += "#d(Epic) #k";
+								cubingDiag += "#r（独特）#k";
 							}
 							else if(tier == 3)
 							{
-								cubingDiag += "#r(Unique) #k";
+								cubingDiag += "#g（传说）#k";
 							}
 							else
 							{
-								cubingDiag += "#g(Legendary) #k";
+								cubingDiag += "你没有附加潜能方块了。";
 							}
 						if(cm.getReqLevel(equipment.getItemId()) >= 200)
 						{
@@ -1579,7 +1579,7 @@ function action(mode, type, selection)
 			}
 			else
 			{
-				cm.sendOk("Please message Brandon if you got to this message.");
+				cm.sendOk("你没有足够的附加潜能方块。");
 				return cm.dispose();
 			}
 	}

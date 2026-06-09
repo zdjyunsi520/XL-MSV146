@@ -17,7 +17,7 @@ function enter(pi) {
         pi.getPlayer().setKeyValue2("2ndJobTrialCompleteTime2", ((System.currentTimeMillis() / 1000) - startTime)+"");
         return true;
     } else {
-        pi.getPlayer().message(5, "You have not collected all the Black Marbles yet !");
+        pi.getPlayer().message(5, "你还没有收集到所有的黑色弹珠！");
         return false;
     }
 }

@@ -19,7 +19,7 @@ function action(mode, type, selection) {
 
 function startChat() {
     if (chat == 0)
-        cm.sendNext("Where is this? Maple Island? But something feels wrong....");
+        cm.sendNext("这里是哪里？枫之岛？但感觉有些不对劲...");
     else
         cm.dispose();
 }

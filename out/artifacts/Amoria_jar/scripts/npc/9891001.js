@@ -12,9 +12,9 @@ function action(mode, type, selection) {
 	  else 
 	 status--;
 	   if (status == 0) {
-	     cm.sendNext("I'm sure you noticed the #e4 statues#n on your way here... #eAlpha#n, #eToon#n, #eTenshi#n and #eAkuma#n. These are the so called #rChampions#k of their civilisations, born and raised on each of the respective #bWiz moons#k. Some to be revered, Some to be feared.");
+	     cm.sendNext("如果你有幸一睹他们的风采...你应该表示尊重而不是蔑视。\r\n\r\n传说归传说，现在让我向你展示这个世界的机制。来吧，继续...");
 	   } else if (status == 1) {
-	     cm.sendOk("If you somehow managed to catch a glimpse of them... You should show your respect and not your disdain towards them.\r\n\r\nAnyway legends aside, it's time to show you the mechanics of this world. Come now, let's continue...");
+	     cm.sendOk("如果你有幸一睹他们的风采...你应该表示尊重而不是蔑视。\r\n\r\n传说归传说，现在让我向你展示这个世界的机制。来吧，继续...");
 	   } else if (status == 2) {
 	     cm.warp(mapid, 0);
 		 cm.dispose();

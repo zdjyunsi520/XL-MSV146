@@ -4,7 +4,7 @@ function action(mode, type, selection) {
     if (cm.isQuestActive(3900)) {
 	cm.forceCompleteQuest(3900);
 	cm.gainExp(300);
-	cm.playerMessage(5, "You drank from the oasis.");
+	cm.playerMessage(5, "你喝了泉水。");
     }
     cm.dispose();
 }

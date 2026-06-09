@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else 
 	status--;
     if (status == 0) {
-    	cm.sendOkS("Please eliminate that gross old mole!\r\n#b(Defeat the Mole king.)",4);
+    	cm.sendOkS("请消灭那只恶心的老鼹鼠！\r\n#b（击败鼹鼠王。）",4);
     	cm.dispose();
     }
 }

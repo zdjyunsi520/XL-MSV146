@@ -9,7 +9,7 @@ function enter(pi) {
 	pi.warp(990000800, 0);
 	return true;
     } else {
-	pi.playerMessage("This way forward is not open yet.");
+	pi.playerMessage("此路前方尚未开启。");
 	return false;
     }
 }

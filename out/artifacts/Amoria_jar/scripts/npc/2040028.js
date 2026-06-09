@@ -28,7 +28,7 @@ function action(mode, type, selection) {
 	cm.dispose();
 	return;
     } else if(mode == 0 && status == 1) {
-	cm.sendNext("I knew you'd stay. It's important that you finish what you've started! Now please go locate the different-looking dollhouse, break it, and bring #b#t4031094##k to me!");
+	cm.sendNext("我就知道你会留下。完成你已经开始的事情很重要！现在请去找到那个看起来不一样的洋娃娃屋，打破它，然后把#b#t4031094##k带给我！");
 	cm.dispose();
 	return;
     }
@@ -40,17 +40,17 @@ function action(mode, type, selection) {
     if(inQuest == true) {
 	if(status == 0) {
 	    if(cm.haveItem(4031094)) {
-		cm.sendNext("Oh wow, you did locate the different-looking dollhouse and find #b#t4031094##k! That was just incredible!! With this, the Ludibrium Clocktower will be running again! Thank you for your work and here's a little reward for your effort. Before that, through, please check your inventory and see if it's full or not.");
+		cm.sendNext("哇，你真的找到了那个不同的洋娃娃屋，并且拿到了#b#t4031094##k！太厉害了！有了这个，玩具城钟塔又可以运转了！感谢你的努力，这里有一些小奖励。不过在那之前，请检查一下你的背包是否已满。");
 		havePendulum = true;
 	    } else {
-		cm.sendSimple("Hello, there. I'm #b#p2040028##k, in charge of protecting this room. Inside, you'll see a bunch of dollhouses, and you may find one that looks a little bit different from the others. Your job is to locate it, breaks it's door, and find the #b#t4031094##k, which is an integral part of the Ludibrium Clocktower. You'll have a time limit on this, and if you break the wrong dollhouse, you'll be forced back outside, so please be careful.\r\n#L0##bI want to get out of here.#k#l");
+		cm.sendSimple("你好。我是#b#p2040028##k，负责守护这个房间。在里面你会看到许多洋娃娃屋，其中有一个看起来会和其他的略有不同。你的任务是找到它，打破它的门，找到#b#t4031094##k，这是玩具城钟塔的重要组成部分。你有时间限制，如果打破了错误的洋娃娃屋，你将被强制送出，所以请小心。\r\n#L0##b我想离开这里。#k#l");
 	    }
 	} else if(status == 1) {
 	    if(havePendulum == true) {
 		if(!cm.canHold(2000010)) {
-		    cm.sendNext("YOU CANNOT HOLD THE ITEM???");
+		    cm.sendNext("你无法持有该物品？？？");
 		}
-		cm.sendNextPrev("What do you think? Do you like the #b100 #t2000010#s#k that I gave you? Thank you so much for helping us out. The clocktower will be running again thanks to your heroic effort, and the monsters from the other dimension seems to have disappeared, too. I'll let you out now. I'll see you around!");
+		cm.sendNextPrev("怎么样？你喜欢我给你的#b100个#t2000010##k吗？非常感谢你的帮助。多亏了你的英勇行为，钟塔又可以运转了，来自异次元的怪物似乎也消失了。我现在放你出去。再见！");
 		if(complete == false) {
 		    cm.completeQuest(3230);
 		    cm.gainExp(2400);
@@ -59,7 +59,7 @@ function action(mode, type, selection) {
 		    complete = true;
 		}
 	    } else {
-		cm.sendYesNo("Are you sure you want to give up now? Alright then... but please remember that the next time you visit this place, the dollhouses will switch places, and you'll have to look through each and every one of them carefully again. What do you think? Would you still like to leave this place?");
+		cm.sendYesNo("你确定现在要放弃吗？好的……但请记住，下次你再来这里时，洋娃娃屋的位置会改变，你必须重新仔细检查每一个。你觉得呢？你仍然想离开这里吗？");
 	    }
 	} else if(status == 2) {
 	    cm.getPlayer().getEventInstance().removePlayer(cm.getChar());
@@ -67,7 +67,7 @@ function action(mode, type, selection) {
 	}
     } else {
 	if(status == 0) {
-	    cm.sendNext("What the... we have been forbidding people from entering this room due to the fact that a monster from another dimension is hiding out here. I don't know how you got in here, but I'll have to ask you to leave immediately, for it's dangerous to be inside this room.");
+	    cm.sendNext("什么……我们一直禁止人们进入这个房间，因为有一只来自异次元的怪物藏在这里。我不知道你是怎么进来的，但我必须请你立即离开，因为待在这个房间里很危险。");
 	} else if(status == 1) {
 	    cm.warp(221023200, 4);
 	    cm.dispose();

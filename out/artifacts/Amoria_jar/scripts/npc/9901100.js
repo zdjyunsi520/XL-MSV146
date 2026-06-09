@@ -14,11 +14,11 @@ function action(mode, type, selection) {
 	}
 	status++;
 	if (status == 0) {
-		cm.sendSimple("#b#L0#Normal Mode#l#k\r\n#r#L1#Chaos Mode#l#k");
+		cm.sendSimple("还没有任何速通记录。");
 	} else if (status == 1) {
 		sr = cm.getSpeedRun(selection == 0 ? "Horntail" : "ChaosHT");
 		if (sr.getLeft().equals("")) {
-			cm.sendOk("No speedruns have been done yet.");
+			cm.sendOk("还没有任何速通记录。");
 			cm.dispose();
 		} else {
 			cm.sendSimple(sr.getLeft());

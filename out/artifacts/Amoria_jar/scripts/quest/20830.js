@@ -8,7 +8,7 @@ var status = -1;
 function start(mode, type, selection) {
 	status++;
 	if (status == 0) {
-		qm.sendYesNo("Okay! You've earned a 30 second re-hydration break! Drink this, and don't faint on me!");
+		qm.sendYesNo("好了！你赢得了30秒的补水休息！喝了这个，别在我面前晕倒！");
 	} else if (status == 1) {
 	    qm.forceStartQuest();
 		qm.AranTutInstructionalBubble("Effect/OnUserEff.img/guideEffect/cygnusTutorial/2");

@@ -9,18 +9,18 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 1) {
-		    qm.sendNext("I knew it! You've been talking to Bluffing Tom, haven't you?");
+		    qm.sendNext("我就知道！你一直在和吹牛汤姆说话，对吧？");
             qm.dispose();
         status--;
     }
 	if (status == 0) {
-	    qm.sendNext("These claws you got me will be the perfect finishing touch for my living room decor.");
+	    qm.sendNext("你给我弄来的这些爪子将是我客厅装饰的完美点缀。");
 	} else if (status == 1) {
-	    qm.sendYesNo("Can you get me some more?");
+	    qm.sendYesNo("你能再多给我弄一些吗？");
 	} else if (status == 2) {
-	    qm.sendNext("I'm counting on you!");	
+	    qm.sendNext("我靠你了！");	
 	} else if (status == 3) {
-	    qm.sendNextPrevS("(Things still haven't been cleared up. Better get 15 more #b#t4034001##k.)",14);	
+	    qm.sendNextPrevS("（事情还没有搞清楚。最好再弄15个#b#t4034001##k。）",14);	
 	} else if (status == 4) {
 	    qm.forceStartQuest();
 	    qm.dispose();	

@@ -27,7 +27,7 @@
 */
 
 function act(){
-	rm.playerMessage(5,"You have found a secret factory!");
+	rm.playerMessage(5,"你发现了一个秘密工厂！");
 	if (Math.random() < .5)
 		rm.warp(922000020);
 	else

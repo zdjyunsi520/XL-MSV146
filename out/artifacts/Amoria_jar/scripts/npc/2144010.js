@@ -1,7 +1,7 @@
 var status = -1;
 
 function start() {
-    cm.askAcceptDecline("You face me directly, after ruining all I've worked for.\r\n\r\n#rI suppose I should thank you. If you hadn't gone to the trouble of destroying my life's work, I would feel a slight pang of guilt at making you suffer before I demolish you.#k");
+    cm.askAcceptDecline("你毁掉了我所有的心血，现在居然直接面对我。\r\n\r\n#r我倒应该感谢你。如果不是你费尽心机毁掉了我毕生的杰作，我在毁灭你之前可能还会感到一丝愧疚。#k");
 }
 
 function action(mode, type, selection) {

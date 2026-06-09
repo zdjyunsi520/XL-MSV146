@@ -21,7 +21,7 @@ function action(mode, type, selection) {
 	cm.dispose();
 	return;
     } else if (status >= 2 && mode == 0) {
-	cm.sendNext("There's a lot to see in this town, too. Come back and find us when you need to go to a different town.");
+	cm.sendNext("这个城镇还有很多值得一看的地方。需要去其他城镇时再来找我们吧。");
 	cm.dispose();
 	return;
     }
@@ -30,18 +30,18 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Hello, I drive the Regular Cab. If you want to go from town to town safely and fast, then ride our cab. We'll gladly take you to your destination with an affordable price.");
+	cm.sendNext("你好，我是普通出租车司机。如果你想安全快捷地在城镇之间旅行，那就乘坐我们的出租车吧。我们会以实惠的价格把你送到目的地。");
     } else if (status == 1) {
 	var job = cm.getJob();
 	if (job == 0 || job == 1000 || job == 2000) {
-	    var selStr = "We have a special 90% discount for beginners. Choose your destination, for fees will change from place to place.#b";
+	    var selStr = "我们对新手有特别9折优惠。请选择你的目的地，费用因地点而异。#b";
 	    for (var i = 0; i < maps.length; i++) {
-		selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + costBeginner[i] + " mesos)#l";
+		selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + costBeginner[i] + " 金币）#l";
 	    }
 	} else {
-	    var selStr = "Choose your destination, for fees will change from place to place.#b";
+	    var selStr = "请选择你的目的地，费用因地点而异。#b";
 	    for (var i = 0; i < maps.length; i++) {
-		selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + cost[i] + " mesos)#l";
+		selStr += "\r\n#L" + i + "##m" + maps[i] + "# (" + cost[i] + " 金币）#l";
 	    }
 	}
 	cm.sendSimple(selStr);
@@ -54,11 +54,11 @@ function action(mode, type, selection) {
 	    sCost = cost[selection];
 	    show = cost[selection];
 	}
-	cm.sendYesNo("You don't have anything else to do here, huh? Do you really want to go to #b#m" + maps[selection] + "##k? It'll cost you #b" + show + " mesos#k.");
+	cm.sendYesNo("你在这里没有其他事要做了吧？你确定要去#b#m" + maps[selection] + "##k吗？需要花费#b" + show + " 金币#k。");
 	selectedMap = selection;
     } else if (status == 3) {
 	if (cm.getMeso() < sCost) {
-	    cm.sendNext("You don't have enough mesos. Sorry to say this, but without them, you won't be able to ride the cab.");
+	    cm.sendNext("你没有足够的金币。很抱歉，没有金币的话，你无法乘坐出租车。");
 	} else {
 	    cm.gainMeso(-sCost);
 	    cm.warp(maps[selectedMap]);

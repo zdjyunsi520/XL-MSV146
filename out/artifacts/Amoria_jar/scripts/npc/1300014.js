@@ -24,11 +24,11 @@ function action(mode, type, selection) {
 		}
 	if(status == 0){
 		if(cm.isQuestActive(2314))
-			cm.PlayerToNpc("This... is a powerful magical barrier that converted #bmushroom spores#k into a powerful form of magic. This cannot be penetrated with brute force. I better report this to #bMinister of Home Affairs#k.");
+			cm.PlayerToNpc("这是一个强大的魔法结界，将#b蘑菇孢子#k转化为了一种强大的魔法形态。这无法用蛮力突破。我最好将此事报告给#b内政大臣#k。");
 		else if(cm.isQuestActive(2322))
-			cm.PlayerToNpc("Right on the surface of the colossal castle wall is a daunting scene of spine vines tangled up on the wall. How in the world am I going to enter the castle? Oh well, I better report this to #b#p1300003##k first.");
+			cm.PlayerToNpc("巨大的城堡墙壁表面缠绕着令人胆寒的荆棘藤蔓。我到底该怎么进入城堡呢？算了，我还是先向#b#p1300003##k报告吧。");
 		else {
-			cm.PlayerToNpc("I think I may be able to break the barrier using #t2430014#.");
+			cm.PlayerToNpc("我想我可以用#t2430014#来打破结界。");
 			cm.dispose();
 		}
 	}if(status == 1){
@@ -37,7 +37,7 @@ function action(mode, type, selection) {
 			cm.forceCompleteQuest(2314);
 			cm.dispose();
 		} else {
-			cm.playerMessage("Please return to the Minister of Home Affairs and report results.");
+			cm.playerMessage("请回到内政大臣那里报告结果。");
 		}
 	}
 }

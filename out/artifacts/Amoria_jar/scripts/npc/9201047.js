@@ -23,10 +23,10 @@ function action(mode, type, selection) {
     if (em.getProperty("apq1").equals("0")) {
 	if (cm.getMap().getAllMonstersThreadsafe().size() == 0) {
 	    em.setProperty("apq1", "1");
-	    cm.mapMessage(5, "The Magik Fiarry has been spawned somewhere in the map.");
+	    cm.mapMessage(5, "帮我一个忙，消灭所有的怪物，好吗？");
 	    cm.spawnMonster(9400518,1);
 	} else {
-	    cm.sendOk("Do me a favour and eliminate all the monsters, would you?");
+	    cm.sendOk("使用从精灵那里获得的翼之锤打破镜子，然后把证明拿给我看。");
 	}
     } else if (em.getProperty("apq1").equals("1")) {
 	if (cm.haveItem(4031595)) {
@@ -35,7 +35,7 @@ function action(mode, type, selection) {
     	    cm.playSound(true, "Party1/Clear");
 	    em.setProperty("apq1", "2");
 	} else {
-	    cm.sendOk("Use the Wing Hammer from the Fiarry to break the Mirror, and show me proof.");
+	    cm.sendOk("使用从精灵那里获得的翼之锤打破镜子，然后把证明拿给我看。");
 	}
     }
     cm.dispose();

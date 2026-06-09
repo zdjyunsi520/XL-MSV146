@@ -2,7 +2,7 @@ var status = -1;
 
 function action(mode, type, selection) {
 	    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-		cm.playerMessage("The leader of the party must be here.");
+		cm.playerMessage("队伍队长必须在这里。");
 	    } else {
 		var party = cm.getPlayer().getParty().getMembers();
 		var mapId = cm.getPlayer().getMapId();
@@ -26,9 +26,9 @@ function action(mode, type, selection) {
 		    		return;
 			}
 	    	    }
-			cm.playerMessage("Another party quest has already entered this channel.");
+			cm.playerMessage("另一个队伍已经进入了此频道。");
 		} else {
-			cm.playerMessage("All 2+ members of your party must be here.");
+			cm.playerMessage("你的队伍必须有2名以上成员在场。");
 		}
 	    }
 	cm.dispose();

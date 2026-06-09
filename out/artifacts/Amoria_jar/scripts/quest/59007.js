@@ -10,27 +10,27 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("Now that that's take care of, let me introduce myself one more time. I'm #bArby#k, a proud member of the Critter Champs!");
+	  qm.sendNext("现在事情处理好了，让我再自我介绍一下。我是#b阿比#k，动物冠军团骄傲的成员！");
 	} else if (status == 1) {
-	  qm.sendNextPrevS("I'm #b#h0##k. Never heard of the Critter Champs, except the five billion times you've mentioned them already.",14);
+	  qm.sendNextPrevS("我是#b#h0##k。没听说过动物冠军团，除了你已经提过的那五亿次之外。",14);
 	} else if  (status == 2)  {
-	  qm.sendNextPrev("We're the bravest of the brave! The champiest of the champs! We're #bfour stupendous critters#k on a crazy adventure, destined to become great heroes!");
+	  qm.sendNextPrev("我们是最勇敢中最勇敢的！冠军中的冠军！我们是踏上疯狂冒险之旅的#b四只超级动物#k，注定要成为伟大的英雄！");
 	} else if  (status == 3)  {
-	  qm.sendNextPrevS("You guys and me both! I'm going to be great, just like the five Maple Heroes!",14);
+	  qm.sendNextPrevS("你们和我一样！我要成为像五位冒险岛英雄一样伟大的人！",14);
 	} else if  (status == 4)  {
-	  qm.sendNextPrev("Ohmigosh, I'm the five Maple Heroes biggest fan-cat! HEY! Brain bulb! #bWhy don't you join us?#k Then there'll be five Critter Champs, just like the five Maple Heroes!");
+	  qm.sendNextPrev("天哪，我是五位冒险岛英雄的头号猫咪粉丝！嘿！灵光一闪！#b你要不要加入我们？#k这样就有五名动物冠军了，就像五位冒险岛英雄一样！");
 	} else if  (status == 5)  {
-	  qm.sendNextPrevS("But I'm not a critter!",14);
+	  qm.sendNextPrevS("但我不是动物！",14);
 	} else if  (status == 6)  {
-	  qm.sendNextPrev("You aren't? You look like a critter, just with a human face and body.");
+	  qm.sendNextPrev("你不是吗？你看起来像动物，只是长了一张人类的脸和身体。");
 	} else if  (status == 7)  {
-	  qm.sendNextPrevS("I'm a human! With animal ears and an animal tail. Huge difference!",14);
+	  qm.sendNextPrevS("我是人类！只是长了动物耳朵和动物尾巴。天壤之别！",14);
 	} else if  (status == 8)  {
-	  qm.sendAcceptDecline("You keep telling yourself that. Anyway, wanna join us or what?");
+	  qm.sendAcceptDecline("你就继续这么自我安慰吧。总之，你想不想加入我们？");
 	} else if  (status == 9)  {
-	  qm.sendNextS("Um... Sure! Aspiring heroes oughtta stick together!",14);
+	  qm.sendNextS("嗯……当然！有志英雄应该团结在一起！",14);
 	} else if  (status == 10)  {
-	  qm.sendNext("Kitty dance! Woohoo! Let me know when you're ready!");
+	  qm.sendNext("猫咪舞！耶！准备好了就告诉我！");
 	} else if  (status == 11)  {
 	  qm.forceStartQuest();
 	  qm.dispose();

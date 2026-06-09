@@ -20,24 +20,24 @@ function action(mode, type, selection) {
     }
     if (status == 0) {
 	if (cm.getQuestStatus(100001) == 2) {
-	    cm.sendOk("You're truly a hero!");
+	    cm.sendOk("你真是个英雄！");
 	    cm.dispose();
 	} else if (cm.getQuestStatus(100000) >= 1) {
 	    cm.completeQuest(100000);
 	    if (cm.getQuestStatus(100000) == 2) {
-		cm.sendNext("Oh, isn't this a letter from #bAthena#k?");
+		cm.sendNext("哦，这不是#b雅典娜#k的信吗？");
 	    }
 	} else {
-	    cm.sendOk("I can show you the way once your ready for it.");
+	    cm.sendOk("你准备好了我就给你指路。");
 	    cm.dispose();
 	}
     } else if (status == 1) {
-	cm.sendNextPrev("So you want to prove your skills? Very well...")
+	cm.sendNextPrev("你想证明你的实力？很好……")
     } else if (status == 2) {
-	cm.askAcceptDecline("I will give you a chance if you're ready.");
+	cm.askAcceptDecline("如果你准备好了，我会给你一个机会。");
     } else if (status == 3) {
 	cm.startQuest(100001);
-	cm.sendOk("You will have to collect me #b30 #t4031013##k. Good luck.")
+	cm.sendOk("你需要收集#b30个#t4031013##k给我。祝你好运。")
     } else if (status == 4) {
 	// cm.gainItem(4031010, -1);
 	cm.warp(910070000);

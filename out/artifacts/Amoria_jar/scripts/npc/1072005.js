@@ -19,9 +19,9 @@ function action(mode, type, selection) {
 	    cm.removeAll(4031013);
 	    cm.completeQuest(100007);
 	    cm.startQuest(100008);
-	    cm.sendOk("You're a true hero! Take this and Grendel the Really Old will acknowledge you.");
+	    cm.sendOk("你是个真正的英雄！拿着这个，古老的格伦德尔会认可你的。");
 	} else {
-	    cm.sendOk("You will have to collect me #b30 #t4031013##k. Good luck.")
+	    cm.sendOk("你需要收集#b30个#t4031013##k给我。祝你好运。")
 	    cm.dispose();
 	}
     } else if (status == 1) {

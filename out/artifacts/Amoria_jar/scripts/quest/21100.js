@@ -5,31 +5,31 @@ function start(mode, type, selection) {
 	status++;
     } else {
 	if (status == 6) {
-	    qm.sendNext("Oh, is 5 not enough? If you feel the need to train further, please feel free to slay more than that. If you slay all of them, I''ll just have to look the other way even if it breaks my heart, since they will have been sacrificed for a good cause...");
+	    qm.sendNext("哦，5只不够吗？如果你觉得需要更多训练，请随意多打一些。如果你把它们全部打完了，我也只能视而不见，即使我很心疼，因为它们将是为了正义的事业而牺牲...");
 	    qm.dispose();
 	    return;
 	}
 	status--;
     }
     if (status == 0) {
-	qm.sendNextS("There isn't much record left of the heores that fought against the Black Mage. Even in the Book of Prophecy, the only information available is that there were five of them. There is nothing about who they were or what they looked like. Is there anything you remember? Anything at all?", 8);
+	qm.sendNextS("关于对抗黑魔法师的英雄们留下的记录已经不多了。即使在预言书中，唯一的信息也只有五位英雄。没有关于他们是谁或长什么样的记载。你记得什么吗？任何事情都行？", 8);
     } else if (status == 1) {
-	qm.sendNextPrevS("I don't remember a thing...", 2);
+	qm.sendNextPrevS("我什么都不记得了...", 2);
     } else if (status == 2) {
-	qm.sendNextPrevS("As I expected. Of course, the curse of the Black Mage was strong enough to wipe out all of your memory. But even if that''s the case, there has got to be a point where the past will uncover, especially now that we are certain you are one of the heroes. I know you've lost your armor and weapon during the battle but... Oh, yes, yes. I almost forgot! Your #bweapon#k!", 8);
+	qm.sendNextPrevS("果然如此。当然，黑魔法师的诅咒强大到足以抹去你所有的记忆。但即使如此，你的过去一定会有某个时刻被揭开，特别是现在我们确定你就是英雄之一。我知道你在战斗中失去了你的盔甲和武器，但是...哦，对了对了。我差点忘了！你的#b武器#k！", 8);
     } else if (status == 3) {
-	qm.sendNextPrevS("My weapon?", 2);
+	qm.sendNextPrevS("我的武器？", 2);
     } else if (status == 4) {
-	qm.sendNextPrevS("I found an incredible weapon while digging through blocks of ice a while back. I figured the weapon belonged to a hero, so I brought it to town and placed it somewhere in the center of the town. Haven't you seen it? #bThe #p1201001##k... \r\r#i4032372#\r\rIt looks like this...", 8);
+	qm.sendNextPrevS("我之前在挖掘冰块时发现了一把不可思议的武器。我认为这把武器属于一位英雄，所以我把它带到了镇上，放在了镇中心。你没见过吗？#b那把#p1201001##k...\r\r#i4032372#\r\r它看起来像这样...", 8);
     } else if (status == 5) {
-	qm.sendNextPrevS("Come to think of it, I did see a #p1201001# in town.", 2);
+	qm.sendNextPrevS("说起来，我确实在镇上见过一把#p1201001#。", 2);
     } else if (status == 6) {
-	qm.askAcceptDecline("Yes, that's it. According to what's been recorded, the weapon of a hero will recognize its rightful owner, and if you''re the hero that used the #p1201001#, the #p1201001# will react when you grab the #p1201001#. Please go find the #b#p1201001# and click on it.#k");
+	qm.askAcceptDecline("是的，就是那个。根据记载，英雄的武器会认出它真正的主人，如果你是使用#p1201001#的英雄，当你握住#p1201001#时，它会做出反应。请去找那把#b#p1201001#并点击它。#k");
     } else if (status == 7) {
 	if (qm.getQuestStatus(21100) == 0) {
 	    qm.forceCompleteQuest();
 	}
-	qm.sendOkS("If the #p1201001# reacts to you, then we'll know that you're #bAran#k, the hero that wielded a #p1201001#.", 8);
+	qm.sendOkS("如果#p1201001#对你做出了反应，我们就知道你是#b阿然#k，使用#p1201001#的英雄。", 8);
 	qm.showWZEffect("Effect/Direction1.img/aranTutorial/ClickPoleArm");
 	qm.dispose();
     }

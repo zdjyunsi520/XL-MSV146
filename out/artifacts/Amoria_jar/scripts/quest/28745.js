@@ -8,11 +8,11 @@ function start(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	qm.sendAcceptDecline("This place is going bananas! #b#m600000000##k got hit with some CRAZY earthquakes! I'm talking buildings falling over, fields disappearing into the ground, I don't even recognize the city I made! I'd hire a seismologist, but the budget's all tied up in expansion right now. You're pretty seimologically inclined. Think you could help me?");
+	qm.sendAcceptDecline("这个地方疯了！#b#m600000000##k遭受了疯狂的地震！我说的是楼房倒塌，田地消失在地下，我甚至认不出我建造的城市了！我想雇一个地震学家，但预算全花在扩张上了。你看起来挺懂地震学的。你能帮我吗？");
     } else if (status == 1) {
-	qm.sendAcceptDecline("That's what I like to hear! Meet me at #e#b#m600000000##k#n. If you need a ride, I can send my special Invisible Mayoral Hover Limo, no charge. What do you say?");
+	qm.sendAcceptDecline("我就想听这个！在#e#b#m600000000##k#n见我。如果你需要搭车，我可以派我的特别隐形市长豪华轿车来接你，免费。怎么样？");
     } else if (status == 2) {
-	qm.sendNext("All right! I knew you liked to ride in style. You won't actually see the limo. Just stand still.");
+	qm.sendNext("好了！我就知道你喜欢坐豪华车。你不会真的看到轿车的。只要站着别动。");
 	qm.forceStartQuest(28745);
 	qm.dispose();
     }

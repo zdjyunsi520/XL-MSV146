@@ -3,7 +3,7 @@ function enter(pi) {
     pi.playPortalSE();
     if (pi.isQuestActive(22557)) {
 	pi.forceCompleteQuest(22557);
-	pi.playerMessage(5, "Camilla rescued!");
+	pi.playerMessage(5, "卡米拉已获救！");
 	pi.getPlayer().gainSP(1);
     }
 }

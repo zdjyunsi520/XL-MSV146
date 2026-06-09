@@ -12,7 +12,7 @@ function action(mode, type, selection) {
     else
         cm.dispose();
     if (status == 0 && mode == 1) {
-        var selStr = "Sign up for Monster Carnival!\r\n#L100#Trade Maple Coin.#l";
+        var selStr = "报名参加怪物嘉年华！\r\n#L100#兑换枫叶金币。#l";
 	var found = false;
         for (var i = 0; i < 9; i++){
             if (getCPQField(i+1) != "") {
@@ -21,44 +21,44 @@ function action(mode, type, selection) {
             }
         }
         if (cm.getParty() == null) {
-            cm.sendSimple("You are not in a party.\r\n#L100#Trade Maple Coin.#l");
+            cm.sendSimple("你还没有组队。\r\n#L100#兑换枫叶金币。#l");
         } else {
             if (cm.isLeader()) {
 		if (found) {
                     cm.sendSimple(selStr);
 		} else {
-		    cm.sendSimple("There are no rooms at the moment.\r\n#L100#Trade Maple Coin.#l");
+		    cm.sendSimple("目前没有空闲的房间。\r\n#L100#兑换枫叶金币。#l");
 		}
             } else {
-                cm.sendSimple("Please tell your party leader to speak with me.\r\n#L100#Trade Maple Coin.#l");
+                cm.sendSimple("请让你们的队长来和我说话。\r\n#L100#兑换枫叶金币。#l");
             }
         }
     } else if (status == 1) {
 	if (selection == 100) {
-	    cm.sendSimple("#b#L0#50 Maple Coin = Spiegelmann Necklace#l\r\n#L1#30 Maple Coin = Spiegelmann Marble#l\r\n#L2#50 Sparkling Maple Coin = Spiegelmann Necklace of Chaos#l#k");
+	    cm.sendSimple("#b#L0#50个枫叶金币 = 施皮格尔曼项链#l\r\n#L1#30个枫叶金币 = 施皮格尔曼弹珠#l\r\n#L2#50个闪耀枫叶金币 = 混沌施皮格尔曼项链#l#k");
 	} else if (selection >= 0 && selection < 9) {
 	    var mapid = 980000000+((selection+1)*100);
             if (cm.getEventManager("cpq").getInstance("cpq"+mapid) == null) {
                 if ((cm.getParty() != null && 1 < cm.getParty().getMembers().size() && cm.getParty().getMembers().size() < (selection == 4 || selection == 5 || selection == 8 ? 4 : 3)) || cm.getPlayer().isGM()) {
                     if (checkLevelsAndMap(30, 255) == 1) {
-                        cm.sendOk("A player in your party is not the appropriate level.");
+                        cm.sendOk("你的队伍中有玩家等级不符合要求。");
                         cm.dispose();
                     } else if (checkLevelsAndMap(30, 255) == 2) {
-                        cm.sendOk("Everyone in your party isnt in this map.");
+                        cm.sendOk("你的队伍中有人不在当前地图。");
                         cm.dispose();
                     } else {
                         cm.getEventManager("cpq").startInstance(""+mapid, cm.getPlayer());
                         cm.dispose();
                     }
                 } else {
-                    cm.sendOk("Your party is not the appropriate size.");
+                    cm.sendOk("你的队伍人数不符合要求。");
                 }
             } else if (cm.getParty() != null && cm.getEventManager("cpq").getInstance("cpq"+mapid).getPlayerCount() == cm.getParty().getMembers().size()) {
                 if (checkLevelsAndMap(30, 255) == 1) {
-                    cm.sendOk("A player in your party is not the appropriate level.");
+                    cm.sendOk("你的队伍中有玩家等级不符合要求。");
                     cm.dispose();
                 } else if (checkLevelsAndMap(30, 255) == 2) {
-                    cm.sendOk("Everyone in your party isnt in this map.");
+                    cm.sendOk("你的队伍中有人不在当前地图。");
                     cm.dispose();
                 } else {
                     //Send challenge packet here
@@ -67,11 +67,11 @@ function action(mode, type, selection) {
                     //if (owner.getConversation() != 1) {
                         cm.openNpc(owner.getClient(), 2042001);
                     //}
-                    cm.sendOk("Your challenge has been sent.");
+                    cm.sendOk("你的挑战已发送。");
                     cm.dispose();
                 }
             } else {
-                cm.sendOk("The two parties participating in Monster Carnival must have an equal number of party member");
+                cm.sendOk("参加怪物嘉年华的两支队伍必须有相同数量的队员");
                 cm.dispose();
             }
 	} else {
@@ -80,9 +80,9 @@ function action(mode, type, selection) {
 	} else if (status == 2) {
 	    if (selection == 0) {
 		if (!cm.haveItem(4001129,50)) {
-		    cm.sendOk("You have no items.");
+		    cm.sendOk("你没有任何物品。");
 		} else if (!cm.canHold(1122007,1)) {
-		    cm.sendOk("Please make room");
+		    cm.sendOk("请腾出空间");
 		} else {
 		    cm.gainItem(1122007,1);
 		    cm.gainItem(4001129,-50);
@@ -90,9 +90,9 @@ function action(mode, type, selection) {
 		cm.dispose();
 	    } else if (selection == 1) {
 		if (!cm.haveItem(4001129,30)) {
-		    cm.sendOk("You have no items.");
+		    cm.sendOk("你没有任何物品。");
 		} else if (!cm.canHold(2041211,1)) {
-		    cm.sendOk("Please make room");
+		    cm.sendOk("请腾出空间");
 		} else {
 		    cm.gainItem(2041211,1);
 		    cm.gainItem(4001129,-30);
@@ -100,9 +100,9 @@ function action(mode, type, selection) {
 		cm.dispose();
 	    } else if (selection == 2) {
 		if (!cm.haveItem(4001254,50)) {
-		    cm.sendOk("You have no items.");
+		    cm.sendOk("你没有任何物品。");
 		} else if (!cm.canHold(1122058,1)) {
-		    cm.sendOk("Please make room");
+		    cm.sendOk("请腾出空间");
 		} else {
 		    cm.gainItem(1122058,1);
 		    cm.gainItem(4001254,-50);
@@ -137,16 +137,16 @@ function getCPQField(fieldnumber) {
     if (event1 != null) {
         var event = event1.getInstance("cpq"+(980000000+(fieldnumber*100)));
         if (event == null && fieldnumber != 5 && fieldnumber != 6 && fieldnumber != 9) {
-            status = "Carnival Field "+fieldnumber+"(2v2)";
+            status = "嘉年华场地 "+fieldnumber+"(2v2)";
         } else if (event == null) {
-            status = "Carnival Field "+fieldnumber+"(3v3)";
+            status = "嘉年华场地 "+fieldnumber+"(3v3)";
         } else if (event != null && (event.getProperty("started").equals("false"))) {
             var averagelevel = 0;
             for (i = 0; i < event.getPlayerCount(); i++) {
                 averagelevel += event.getPlayers().get(i).getLevel();
             }
             averagelevel /= event.getPlayerCount();
-            status = event.getPlayers().get(0).getParty().getLeader().getName()+"/"+event.getPlayerCount()+"users/Avg. Level "+averagelevel;
+            status = event.getPlayers().get(0).getParty().getLeader().getName()+"/"+event.getPlayerCount()+"玩家数/平均等级 "+averagelevel;
         }
     }
     return status;

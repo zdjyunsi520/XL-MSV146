@@ -10,7 +10,7 @@ function action(mode, type, selection) {
     else 
 	status--;
     if (status == 0) {
-    	cm.sendNext("It's not time to leave yet. You should go find more things to do in the town.");
+    	cm.sendNext("现在还不是离开的时候。你应该回城里找更多事情做。");
     	cm.dispose();
     }
 }

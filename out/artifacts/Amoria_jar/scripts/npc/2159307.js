@@ -10,48 +10,48 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendNextNoESC("Commander! Where were you? I thought maybe Arkarium had actually made a move against you...");
+		cm.sendNextNoESC("指挥官！你去哪了？我还以为阿卡伊农真的对你下手了...");
     } else if (status == 1) {
-		cm.sendNextNoESC("Things are strange these days. Arkarium has it for you, since you were the one who managed to catch the Goddess of the Temple of Time. He only managed to blind her, but he still thinks he deserves all the credit...Fool.");
+		cm.sendNextNoESC("最近事情很奇怪。阿卡伊农对你心怀不满，因为你是成功抓住时间神殿女神的人。他只弄瞎了她，但他仍然觉得所有的功劳都该归他...蠢货。");
     } else if (status == 2) {
 		cm.sendDirectionStatus(3, 2);
-		cm.sendNextNoESC("...Are you okay? You seem different... Yeah, you are. You used to scold me when I asked you such things, but now... Hey, you don't look so good. Did something happen? Are you hurt?");
+		cm.sendNextNoESC("...你还好吗？你看起来不太一样...是的，你变了。以前我问你这种问题的时候你总是训我，但现在...嘿，你看起来不太好。发生什么事了？你受伤了吗？");
 	} else if (status == 3) {
-		cm.sendPlayerToNpc("...Tell me, Mastema, Who do you serve? Is it me, or the Black Mage?");
+		cm.sendPlayerToNpc("...告诉我，玛斯特玛，你效忠的是谁？是我，还是黑魔法师？");
 	} else if (status == 4) {
-		cm.sendNextNoESC("W-wha?");
+		cm.sendNextNoESC("什-什么？");
 	} else if (status == 5) {
-		cm.sendPlayerToNpc("Answer me!");
+		cm.sendPlayerToNpc("回答我！");
 	} else if (status == 6) {
-		cm.sendNextNoESC("Well, I'm loyal to the Black Mage, of course. But we pledged our lives for each other. I go where you go.");
+		cm.sendNextNoESC("嗯，我当然忠于黑魔法师。但我们曾以性命互相宣誓。你去哪我就去哪。");
 	} else if (status == 7) {
-		cm.sendPlayerToNpc("I have a favor to ask of you then... Give this letter to the #rHeroes#k.");
+		cm.sendPlayerToNpc("那么我有一件事要拜托你...把这封信交给#r英雄们#k。");
 	} else if (status == 8) {
-		cm.sendNextNoESC("Do what?! Why? What are you thinking? Are you trying to make things worse? You're finished as a Commander once anyone finds out you're trying to communicate with the Heroes!");
+		cm.sendNextNoESC("什么？！为什么？你在想什么？你是想让事情变得更糟吗？一旦有人发现你在试图与英雄们联系，你作为指挥官就完了！");
 	} else if (status == 9) {
-		cm.sendPlayerToNpc("I am already finished as a Commander.");
+		cm.sendPlayerToNpc("我作为指挥官已经完了。");
 	} else if (status == 10) {
-		cm.sendNextNoESC("What? Are you betraying the Black Mage? Why are you doing this?");
+		cm.sendNextNoESC("什么？你要背叛黑魔法师？你为什么要这样做？");
 	} else if (status == 11) {
-		cm.sendPlayerToNpc("There's no time to explain. Please do as I say. If not...");
+		cm.sendPlayerToNpc("没有时间解释了。请按我说的做。如果不...");
 	} else if (status == 12) {
-		cm.sendNextNoESC("No, I'll do it. I'm just worried. What about your family? Wont' they be in dang-");
+		cm.sendNextNoESC("不，我会做的。我只是担心。那你的家人呢？他们不会有危-");
 	} else if (status == 13) {
-		cm.sendPlayerToNpc("Not another word about my family!");
+		cm.sendPlayerToNpc("别再提我的家人！");
 	} else if (status == 14) {
-		cm.sendNextNoESC("What? Did something happen to them already?");
+		cm.sendNextNoESC("什么？他们已经出事了吗？");
 	} else if (status == 15) {
 		cm.sendPlayerToNpc("....");
 	} else if (status == 16) {
-		cm.sendNextNoESC("I see... You've always been the quiet type, but sometimes silence speaks for itself. Very well. I'll give this letter to the Heroes.");
+		cm.sendNextNoESC("我明白了...你一直是沉默寡言的类型，但有时候沉默胜过千言。好吧。我会把这封信交给英雄们。");
 	} else if (status == 17) {
-		cm.sendPlayerToNpc("Thank you. Sorry for asking such a task of you.");
+		cm.sendPlayerToNpc("谢谢你。抱歉让你做这样的事。");
 	} else if (status == 18) {
-		cm.sendNextNoESC("Don't be sorry. I owe you my life, after all. Alright, I'm going. Good luck.");
+		cm.sendNextNoESC("别道歉。毕竟我欠你一条命。好了，我出发了。祝你好运。");
 	} else if (status == 19) {
 		cm.removeNpc(2159307);
 		cm.sendDirectionStatus(1, 720);
-		cm.sendPlayerToNpc("...Your loyalty means so much to me. Thank you.");
+		cm.sendPlayerToNpc("...你的忠诚对我来说意义重大。谢谢你。");
 	} else if (status == 20) {
 		cm.sendDirectionStatus(3, 2);
 		cm.sendDirectionStatus(4, 0);

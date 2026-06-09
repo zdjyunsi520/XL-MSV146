@@ -18,7 +18,7 @@ function action(mode, type, selection) {
     }
 
     if (status == 0) {
-	cm.sendNext("I am ready to test the video for Phantom.", 1);
+	cm.sendNext("我准备好测试幻影侠的视频了。", 1);
     } else if (status == 1) {
 	cm.MovieClipIntroUI(true);
 

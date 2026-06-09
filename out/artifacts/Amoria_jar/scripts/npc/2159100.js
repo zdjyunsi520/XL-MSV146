@@ -4,7 +4,7 @@
  */
 
 function start() {
-    cm.sendNext("Oh... Did I just found something? Then there's only one way out! Let's fight like a #rBlack Wing#k should!");
+    cm.sendNext("哦...我刚才发现了什么吗？那就只有一条路了！像个#r黑色之翼#k成员一样战斗吧！");
 }
 
 function action(mode, type, selection) {

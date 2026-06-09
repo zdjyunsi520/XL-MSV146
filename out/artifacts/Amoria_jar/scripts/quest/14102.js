@@ -9,22 +9,22 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendOk("Let me know when you change your mind!");
+		    qm.sendOk("等你改变主意再告诉我吧！");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendAcceptDecline("#r[Maple Mayhem Bingo]#k is a three player bingo game. Want to hear the rules?");
+	    qm.sendAcceptDecline("#r[枫之谷疯狂宾果]#k是一个三人宾果游戏。想听听规则吗？");
 	} else if (status == 1) {
-	    qm.sendNextS("You can participate in this game #rup to 10 times a day#k per account.",1);
+	    qm.sendNextS("每个账号每天可以参加这个游戏#r最多10次#k。",1);
     } else if (status == 2) {    
-	    qm.sendNextPrevS("Once you're in-game and it's your turn, you can click on any of the numbers on your bingo board to select them. If your opponent has the same number on his or her bingo board, that number will also be marked.",1);
+	    qm.sendNextPrevS("一旦进入游戏轮到你时，你可以点击宾果板上的任何数字来选择它们。如果你的对手在宾果板上也有相同的数字，那个数字也会被标记。",1);
     } else if (status == 3) {
-	    qm.sendNextPrevS("The game ends if anyone completes 5 rows within the time limit. If nobody completes 5 rows within the time limit, whoever has the highest points will win the game.",1);
+	    qm.sendNextPrevS("如果有人在时间限制内完成5行，游戏就结束。如果没人完成5行，得分最高的人将赢得游戏。",1);
 	} else if (status == 4) {
-	    qm.sendNextPrevS("You get 100 points for checking off one number, and 200 points for checking off the mission number (shown in yellow). You will get 500 bonus points by completing any one bingo row. Lastly, you'll get 1000 points for completing one bingo row by checking off the mission number (shown in yellow).",1);
+	    qm.sendNextPrevS("你勾选一个数字获得100分，勾选任务数字（黄色显示）获得200分。完成任意一行宾果将获得500分额外奖励。最后，通过勾选任务数字（黄色显示）完成一行宾果将获得1000分。",1);
 	} else if (status == 5) {
-	    qm.sendNextPrevS("Rewards are given out based on the final rankings. However, you won't get anything if you leave in the middle, or if you don't participate in the game!",1);
+	    qm.sendNextPrevS("奖励根据最终排名发放。但是，如果你中途离开或不参与游戏，你将什么都得不到！",1);
 	} else if (status == 6) {
 	    qm.forceStartQuest();
 	    qm.forceCompleteQuest();

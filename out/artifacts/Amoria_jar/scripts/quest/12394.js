@@ -10,12 +10,12 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("Hello, #b#h0##k. You have already reached Lv. 30! When you reach #bLv. 30#k, you can receive a special power called #bAbility#k. I shall release that power for you right now.");
+	    qm.sendNext("你好，#b#h0##k。你已经达到30级了！当你达到#b30级#k时，你可以获得一种叫做#b特性#k的特殊力量。我现在就为你释放那股力量。");
 	} else if (status == 1) {
         qm.forceStartQuest();
 	    qm.forceCompleteQuest();
 		qm.UnlockHonor();
-		qm.sendPrev("Well, then! I have released the new power, the Ability, for you. Check it out in your character stat window!");
+		qm.sendPrev("那么，我已经为你释放了新的力量——特性。在角色属性窗口中查看一下吧！");
 	    qm.dispose();
 	}
 }

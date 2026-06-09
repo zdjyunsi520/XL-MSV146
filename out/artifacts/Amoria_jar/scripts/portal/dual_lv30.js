@@ -3,6 +3,6 @@ function enter(pi) {
 	pi.warp(103050370,0);
 	pi.playPortalSE();
     } else {
-	pi.playerMessage(5, "You must be level 30.");
+	pi.playerMessage(5, "你的等级必须达到30级。");
     }
 }

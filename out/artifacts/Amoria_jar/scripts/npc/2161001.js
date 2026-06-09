@@ -10,7 +10,7 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-	cm.sendYesNo("Would you like to go to the Audience Room?");
+	cm.sendYesNo("你想前往觐见厅吗？");
     } else if (status == 1) {
 	cm.warp(211070000, 1);
 	cm.dispose();

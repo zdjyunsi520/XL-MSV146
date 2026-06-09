@@ -2,13 +2,13 @@ function act() {
 try {
 	var em = rm.getEventManager("Pirate");
 	if (em != null) {
-		rm.mapMessage(6, "One of the doors have been activated.");
+		rm.mapMessage(6, "其中一扇门已被激活。");
 		em.setProperty("stage4", parseInt(em.getProperty("stage4")) + 1);
 		if (em.getProperty("stage4").equals("4")) { //all 5 done
-			rm.mapMessage(6, "Proceed!");
+			rm.mapMessage(6, "前进！");
 		}
 	}
 }catch (e) {
-	rm.playerMessage(5, "Error: " + e);
+	rm.playerMessage(5, "错误： " + e);
 }
 }

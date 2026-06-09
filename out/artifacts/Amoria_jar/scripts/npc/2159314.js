@@ -10,65 +10,65 @@ function action(mode, type, selection) {
 	status--;
     }
     if (status == 0) {
-		cm.sendNextNoESC("You r-r-really have wings...");
+		cm.sendNextNoESC("你真-真的有翅膀...");
     } else if (status == 1) {
-		cm.sendNextNoESC("Who are you? Are you part of the Black Wings? A spy? Actually, wait, no. That doesn't make sense...", 2159312);
+		cm.sendNextNoESC("你是谁？你是黑色之翼的人吗？间谍？等等，不对。那说不通...", 2159312);
     } else if (status == 2) {
-		cm.sendNextNoESC("Keep your guard up. We are still clueless...", 2159313);
+		cm.sendNextNoESC("保持警惕。我们仍然一无所知...", 2159313);
 	} else if (status == 3) {
-		cm.sendNextNoESC("Who are you? What is your relationship with the Black Wings?", 2159315);
+		cm.sendNextNoESC("你是谁？你和黑色之翼是什么关系？", 2159315);
 	} else if (status == 4) {
-		cm.sendPlayerToNpc("I have no idea who these Black Wings are. What do you want to know about me? I'm not even sure where to start.");
+		cm.sendPlayerToNpc("我不知道这些黑色之翼是谁。你想了解我什么？我甚至不知道从哪里说起。");
 	} else if (status == 5) {
-		cm.sendNextNoESC("Let's start with your name, organization, background... and those wings on your back.", 2159342);
+		cm.sendNextNoESC("那就从你的名字、组织、背景开始吧...还有你背上的那些翅膀。", 2159342);
 	} else if (status == 6) {
-		cm.sendPlayerToNpc("My name is #h0#. I am not currently part of any organization, though I was once one of the Black Mage's Commanders. I rebelled against him, and we fought, but he defeated me. When I awoke, I saw the Black Wings. Oh, and I was born with these wings. I am a demon.");
+		cm.sendPlayerToNpc("我的名字叫#h0#。我目前不属于任何组织，虽然我曾经是黑魔法师的指挥官之一。我反叛了他，我们交了手，但他打败了我。当我醒来时，我看到了黑色之翼。哦，我的翅膀是天生的。我是一个恶魔。");
 	} else if (status == 7) {
-		cm.sendNextNoESC("You were a commander under the Black Mage? How? He's been sealed for hundreds of years!", 2159315);
+		cm.sendNextNoESC("你曾是黑魔法师手下的指挥官？怎么可能？他已经被封印数百年了！", 2159315);
 	} else if (status == 8) {
 		cm.sendDirectionStatus(1, 2000);
 		cm.sendDirectionInfo("Effect/Direction6.img/effect/tuto/balloonMsg1/3");
-		cm.sendNextNoESC("Hmm.. he might be delusional.");
+		cm.sendNextNoESC("嗯..他可能神志不清。");
 	} else if (status == 9) {
-		cm.sendPlayerToNpc("(Hundreds of years ago? But, this place is so strange. How long have I been asleep? Could the Heroes have sealed the Black Mage?)");
+		cm.sendPlayerToNpc("（数百年前？但是，这个地方如此陌生。我沉睡了多久？难道英雄们已经封印了黑魔法师？）");
 	} else if (status == 10) {
-		cm.sendNextNoESC("This makes no sense. Are you lying?");
+		cm.sendNextNoESC("这说不通。你在撒谎吗？");
 	} else if (status == 11) {
-		cm.sendNextNoESC("No. He may be crazy, but he's no liar.", 2159345);
+		cm.sendNextNoESC("不。他可能疯了，但他不是骗子。", 2159345);
 	} else if (status == 12) {
-		cm.sendNextNoESC("So... He's either crazy or telling the truth. Black Jack is never wrong.", 2159316);
+		cm.sendNextNoESC("那么...他要么疯了，要么说的是实话。Black Jack从不会判断错误。", 2159316);
 	} else if (status == 13) {
-		cm.sendNextNoESC("He's somehow from the past, before the Black Mage was sealed. Why did you rebel, if you were a Commander?", 2159315);
+		cm.sendNextNoESC("他不知怎么来自过去，在黑魔法师被封印之前。如果你是指挥官，为什么要叛变？", 2159315);
 	} else if (status == 14) {
-		cm.sendPlayerToNpc("That's personal. Now, you answer my questions. Who are you people? Who are the Black Wings?");
+		cm.sendPlayerToNpc("那是私事。现在，你回答我的问题。你们是什么人？黑色之翼是什么？");
 	} else if (status == 15) {
-		cm.sendNextNoESC("We're the resistance, a group formed in secret to protect our home, Edelstein, from the Black Wings. Those nasty folks stealing your energy were the Black Wings. They have been draining energy from the city since a while back, and they work for the Black Mage.", 2159342);
+		cm.sendNextNoESC("我们是反抗军，一个秘密成立的组织，旨在保护我们的家园埃德尔斯坦免受黑色之翼的侵害。那些偷取你能量的家伙就是黑色之翼。他们一段时间以来一直在从城市中抽取能量，他们为黑魔法师效力。", 2159342);
 	} else if (status == 16) {
-		cm.sendPlayerToNpc("They follow the Black Mage? Isn't he sealed?");
+		cm.sendPlayerToNpc("他们追随黑魔法师？他不是被封印了吗？");
 	} else if (status == 17) {
-		cm.sendNextNoESC("He is, but they're trying to release him again.", 2159342);
+		cm.sendNextNoESC("是的，但他们正试图再次释放他。", 2159342);
 	} else if (status == 18) {
-		cm.sendPlayerToNpc("The Black Mage is returning? That's excellent news... That means I can still have my revenge.");
+		cm.sendPlayerToNpc("黑魔法师要回来了？那是个好消息...这意味着我仍然可以复仇。");
 	} else if (status == 19) {
-		cm.sendNextNoESC("You're kinda crazy, but we're on the same side. Why don't you join us?", 2159342);
+		cm.sendNextNoESC("你有点疯狂，但我们是站在同一边的。要不要加入我们？", 2159342);
 	} else if (status == 20) {
-		cm.sendNextNoESC("What are you saying?! You really believe him? Even if he was telling the truth, he was a Commander!", 2159315);
+		cm.sendNextNoESC("你在说什么？！你真的相信他？即使他说的是实话，他曾是指挥官！", 2159315);
 	} else if (status == 21) {
-		cm.sendNextNoESC("He seems to hate the Black Mage as much as we do, if not more. Even if he #bused to be#k a Commander, he is not one any more. We can always use more members, as long as our goals are the same. We can work together.", 2159342);
+		cm.sendNextNoESC("他似乎和我们一样痛恨黑魔法师，甚至更甚。即使他#b曾经是#k指挥官，他现在已经不是了。只要我们的目标一致，我们总是需要更多成员的。我们可以合作。", 2159342);
 	} else if (status == 22) {
-		cm.sendPlayerToNpc("Wait, what's going on?");
+		cm.sendPlayerToNpc("等等，怎么回事？");
 	} else if (status == 23) {
-		cm.sendNextNoESC("There's no need to catch up. The decision has been made. If you want to fight the Black Mage, you have to go through the Black Wings. Let's work together to bring them down.");
+		cm.sendNextNoESC("不需要想太多。决定已经做出了。如果你想对抗黑魔法师，就必须通过黑色之翼。让我们一起将他们摧毁。");
 	} else if (status == 24) {
-		cm.sendNextNoESC("I don't expect you to fully trust us yet, but we can work on that, piece by piece, as we take the Black Wings apart.", 2159342);
+		cm.sendNextNoESC("我不指望你完全信任我们，但我们可以一点一点地建立信任，同时瓦解黑色之翼。", 2159342);
 	} else if (status == 25) {
-		cm.sendPlayerToNpc("True. I will join you, for now... Allow me to thank you for saving me, as well.");
+		cm.sendPlayerToNpc("确实。暂时我会加入你们...同时，请允许我感谢你们救了我。");
 	} else if (status == 26) {
-		cm.sendNextNoESC("Hearing that is a relief. You're welcome.", 2159342);
+		cm.sendNextNoESC("听到你这么说我就放心了。不客气。", 2159342);
 	} else if (status == 27) {
-		cm.sendPlayerToNpc("I am loyal to those loyal to me.");
+		cm.sendPlayerToNpc("我忠于忠于我的人。");
 	} else if (status == 28) {
-		cm.sendNextNoESC("Works for me. All right, please make yourself at home.", 2159315);
+		cm.sendNextNoESC("对我来说没问题。好了，请把这里当成自己的家。", 2159315);
 	} else if (status == 29) {
 		cm.EnableUI(0);
 		cm.DisableUI(false);

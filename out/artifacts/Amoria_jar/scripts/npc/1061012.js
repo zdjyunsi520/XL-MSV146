@@ -8,19 +8,19 @@ function start() {
     if (cm.getQuestStatus(6108) == 1) {
 	var ret = checkJob();
 	if (ret == -1) {
-	    cm.sendOk("Please form a party and talk to me again.");
+	    cm.sendOk("请先组建队伍再和我对话。");
 	} else if (ret == 0) {
-	    cm.sendOk("Please make sure that your party is a size of 2.");
+	    cm.sendOk("请确保你的队伍人数为2人。");
 	} else if (ret == 1) {
-	    cm.sendOk("One of your party member's job is not eligible for entering the other world.");
+	    cm.sendOk("你的队伍中有成员的职业不符合进入异世界的条件。");
 	} else if (ret == 2) {
-	    cm.sendOk("One of your party member's level is not eligible for entering the other world.");
+	    cm.sendOk("你的队伍中有成员的等级不符合进入异世界的条件。");
 	} else {
 	    var em = cm.getEventManager("s4aWorld");
 	    if (em == null) {
-		cm.sendOk("You're not allowed to enter with unknown reason. Try again." );
+		cm.sendOk("由于未知原因，你无法进入。请重试。" );
 	    } else if (em.getProperty("started").equals("true")) {
-		cm.sendOk("Someone else is already attempting to defeat the Jr.Balrog in another world." );
+		cm.sendOk("已经有人在另一个世界中尝试击败小巴洛古了。" );
 	    } else {
 		em.startInstance(cm.getParty(), cm.getMap());
 	    }

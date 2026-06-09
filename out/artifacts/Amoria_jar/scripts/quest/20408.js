@@ -12,7 +12,7 @@ function start(mode, type, selection) {
 function end(mode, type, selection) {
     if (mode == 0) {
 	if (status == 0) {
-	    qm.sendNext("I guess you are not ready to tackle on the responsibilities of an official knight.");
+	    qm.sendNext("我猜你还没准备好承担正式骑士的责任。");
 	    qm.dispose();
 	    return;
 	} else if (status >= 2) {
@@ -25,10 +25,10 @@ function end(mode, type, selection) {
 	status++;
     }
     if (status == 0) {
-		qm.sendYesNo("You've saved Erev. Do you want to become a Captain Knight?");
+		qm.sendYesNo("你拯救了埃雷布。你想成为上尉骑士吗？");
     } else if (status == 1) {
 	if (!qm.canHold(1142069,1)) {
-	    qm.sendOk("Please make space.");
+	    qm.sendOk("请腾出空间。");
 	    qm.dispose();
 	    return;
 	}
@@ -46,9 +46,9 @@ function end(mode, type, selection) {
 	    }
 	    qm.teachSkill(10001005,1,0); //Echo
 	    qm.gainItem(1142069,1);
-	    qm.sendNext("You are now an official knight of the Knights of Cygnus.");
+	    qm.sendNext("你现在是骑士团的正式骑士了。");
     } else if (status == 3) {
-	qm.sendPrev("Now that you are officially a Knight of cygnus, act like one so you will keep Goodness's name up high.");
+	qm.sendPrev("既然你已经是骑士团的正式骑士了，就好好表现吧，维护骑士团的荣耀。");
 	qm.dispose();
     }
 }

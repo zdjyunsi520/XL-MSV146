@@ -9,7 +9,7 @@ try {
 				pi.showEffect(false, "aswan/stageEff/stage");
 				pi.showEffect(false, "aswan/stageEff/number/2");
 			 } else {
-				pi.playerMessage(5, "You shall not pass! Do not dare continue until you've eliminated all the monsters!");
+				pi.playerMessage(5, "你不能通过！在消灭所有怪物之前不得继续前进！");
 			}
 			break;
 		case 955000200:
@@ -18,7 +18,7 @@ try {
 				pi.warp(955000300,0);
 				pi.showEffect(false, "aswan/stageEff/final");
 			} else {
-				pi.playerMessage(5, "You shall not pass! Do not dare continue until you've eliminated all the monsters!");
+				pi.playerMessage(5, "你不能通过！在消灭所有怪物之前不得继续前进！");
 			}
 			break;
 }

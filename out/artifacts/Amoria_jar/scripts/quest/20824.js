@@ -8,7 +8,7 @@ var status = -1;
 function start(mode, type, selection) {
 	status++;
 	if (status == 0) {
-	  qm.sendNext("I like to give all the new recruits a little gift when they come to Ereve. It's important that the recruits look up to snuff, you know? Hit the#e#b I key#k#n to open up your inventory when we're done talking. Double click on that hat I gave you!");
+	  qm.sendNext("我喜欢在所有新兵来到埃雷布时给他们一个小礼物。新兵看起来要体面，你知道吧？等我们说完话后，按#e#b I键#k#n打开你的背包。双击我给你的那顶帽子！");
 	} else if (status == 1) {
 	  qm.forceStartQuest();
 	  qm.AranTutInstructionalBubble("Effect/OnUserEff.img/guideEffect/cygnusTutorial/5");
@@ -27,7 +27,7 @@ function end(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-		qm.sendOk("I found Kinu in a pile of books. He'll tell you what you need to know, or possibly just put you to sleep. Or both.");
+		qm.sendOk("我在一堆书中找到了基努。他会告诉你你需要知道的，或者可能只是让你昏昏欲睡。或者两者都有。");
 	    qm.dispose();
 	} else if (status == 1) {
 	    qm.dispose();

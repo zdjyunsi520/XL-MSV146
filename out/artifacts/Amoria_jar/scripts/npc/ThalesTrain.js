@@ -11,7 +11,7 @@ function action(mode, type, selection) {
 	} else {
 		status++;
     if (status == 0) {
-	    cm.sendSimple("#bPlease choose the map where you want to train in:#k#e\r\n#L0#Level 1 - 50#l\r\n#L1#Level 50 - 100#l\r\n#L2#Level 100 - 150#l\r\n#L3#Level 150 - 200#l\r\n#L4#Level 200 - 230#l\r\n#L5#Level 230 - 250#l");
+	    cm.sendSimple("#b请选择你想训练的地图：#k#e\r\n#L0#等级 1 - 50#l\r\n#L1#等级 50 - 100#l\r\n#L2#等级 100 - 150#l\r\n#L3#等级 150 - 200#l\r\n#L4#等级 200 - 230#l\r\n#L5#等级 230 - 250#l");
 	} else if (status == 1) {
 	if (selection == 0) {		
 	    cm.warp(862000000,0);

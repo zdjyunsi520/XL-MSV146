@@ -23,9 +23,9 @@ var status = -1;
 
 function start() {
     if (cm.haveItem(4031508, 5) && cm.haveItem(4031507,5)) {
-        cm.sendNext("Wow~ You have succeeded in collecting 5 of each #b#t4031508##k and #b#t4031507##k. Okay then, I will send you to Zoo. Please talk to me again when you get there.");
+        cm.sendNext("你还没有完成要求。你确定要离开吗？");
     } else {
-        cm.sendYesNo("You haven't completed the requirements. Are you sure you want to leave?");
+        cm.sendYesNo("好吧，我送你回去。");
     }
 }
 
@@ -42,7 +42,7 @@ function action(mode, type, selection){
             cm.warp(230000003);
             cm.dispose();
         } else {
-            cm.sendOk("Well okay, I will send you back.");
+            cm.sendOk("好吧，我送你回去。");
             cm.warp(230000003);
             cm.dispose();
         }

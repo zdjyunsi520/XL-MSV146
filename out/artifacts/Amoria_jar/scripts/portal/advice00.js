@@ -1,3 +1,3 @@
 function enter(pi) {
-    pi.showInstruction("Press #e#b[Left] or [Right] arrow key#k#n to move.", 250, 5);
+    pi.showInstruction("按#e#b[左]或[右]方向键#k#n移动。", 250, 5);
 }

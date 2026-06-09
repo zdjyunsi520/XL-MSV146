@@ -11,7 +11,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	    cm.sendNextS("#e#rYou must complete the Beast Tamer tutorial to unlock.#k\r\nDid you notice the icon with the red-headed boy on the left side of you screen?\r\n#v3800475# This is Tot's Know How, a helper that will guide you through #e#rlevels 1 to 60#n#k. He will even #e#rhelp you level up instantly#n#k when you complete quests!\r\nPress the button on the left or hotkey #e#r' - '#n#k to check it out!",4,9010000);
+	    cm.sendNextS("#e#r你必须完成野兽驯兽师教程才能解锁。#k\r\n你注意到屏幕左侧那个红发男孩图标了吗？\r\n#v3800475# 这是托特的指南，一个帮助你度过 #e#r1到60级#n#k 的向导。完成任务时他甚至会 #e#r帮你直接升级#n#k！\r\n按下左侧的按钮或快捷键 #e#r' - '#n#k 来查看吧！",4,9010000);
 	} else if (status == 1) {	
         cm.dispose();
     }

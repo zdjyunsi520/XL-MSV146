@@ -15,19 +15,19 @@ function action(mode, type, selection) {
 
 	if (eim.getProperty("crackLeaderPreamble") == null) {
 	    eim.setProperty("crackLeaderPreamble", "done");
-	    cm.sendNext("This is the final stage; it'll be a final test of your strength. Give the #rKey of Dimension#k that he drops to me, and you will have succeeded. Good luck!");
+	    cm.sendNext("这是最终阶段，将是对你实力的最终考验。把他掉落的#r次元钥匙#k交给我，你就成功了。祝你好运！");
 	    cm.dispose();
 	} else {
 	    if (cm.haveItem(4001023)) {
 		status = 0;
-		cm.sendNext("Congratulations! You have defeated the boss, #bAlishar#k. Would you like to go to the reward stage now?");
+		cm.sendNext("恭喜！你已击败了BOSS#b阿丽莎尔#k。你现在要进入奖励阶段吗？");
 	    } else {
-		cm.sendNext("Please bring me the #bKeys of Dimension#k by defeating #bAlishar#k.");
+		cm.sendNext("请通过击败#b阿丽莎尔#k来获得#b次元钥匙#k。");
 		cm.dispose();
 	    }
 	}
     } else if (status == -1 && !cm.isLeader()) {
-	cm.sendNext("Get the leader of your party to hand the #rKey of Dimension#k that #bAlishar#k drops to me, and you will have succeeded. Good luck!");
+	cm.sendNext("让你们的队长将#b阿丽莎尔#k掉落的#r次元钥匙#k交给我，你们就成功了。祝你好运！");
 	cm.dispose();
     } else if (status == 0 && cm.isLeader()) {
 	var eim = cm.getEventInstance();

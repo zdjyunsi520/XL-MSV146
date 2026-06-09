@@ -13,7 +13,7 @@ function action(mode, type, selection) {
     switch(cm.getPlayer().getMapId()) {
 	case 889100100: //event map
     	if (status == 0) {
-	        cm.sendSimple("Hello~I am Snow Spirit.#b\r\n\r\n#L0#Go to Protect Snowman - Easy (Level 10)#l\r\n#L1#Go to Protect Snowman - Medium (Level 30)#l\r\n#L2#Go to Protect Snowman - Hard (Level 70)#l");
+	        cm.sendSimple("你好~我是雪精灵！#b\r\n\r\n#L0#前往保卫雪人#l");
     	} else if (status == 1) {
 	        if (selection == 0) {
 		    cm.warp(889100000,0); //exit map lobby
@@ -31,17 +31,17 @@ function action(mode, type, selection) {
 	case 889100010:
 	case 889100020:
     	    if (status == 0) {
-	        cm.sendSimple("Hello~I am Snow Spirit!#b\r\n\r\n#L0#Go to Protect Snowman#l");
+	        cm.sendSimple("请稍后再试。");
     	    } else if (status == 1) {
 			var s = ((cm.getMapId() % 100) / 10) | 0;
    		    var em = cm.getEventManager("Christmas");
     		    if (em == null) {
-			cm.sendOk("Please try again later.");
+			cm.sendOk("队伍的队长必须在这里。");
 			cm.dispose();
 			return;
     		    }
 		    if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-			cm.sendOk("The leader of the party must be here.");
+			cm.sendOk("另一个队伍已经进入该频道了。");
 		    } else {
 			var party = cm.getPlayer().getParty().getMembers();
 			var mapId = cm.getPlayer().getMapId();
@@ -61,10 +61,10 @@ function action(mode, type, selection) {
 		    		if (em.getInstance("Christmas" + s) == null) {
 					em.startInstance_Party("" + s, cm.getPlayer());
 		    		} else {
-					cm.sendOk("Another party quest has already entered this channel.");
+					cm.sendOk("你的所有队员必须在这里。");
 		    		}
 			} else {
-				cm.sendOk("All members of your party must be here.");
+				cm.sendOk("抱歉，我需要你们的队长。");
 			}
 		    }
 	        cm.dispose();
@@ -74,12 +74,12 @@ function action(mode, type, selection) {
 	case 889100011:
 	case 889100021:
 		if (cm.getPlayer().getEventInstance() == null || !cm.isLeader()) {
-			cm.sendOk("Please, I need your leader.");
+			cm.sendOk("请在时间结束前保护好雪人！");
 		} else {
 			if (!cm.getPlayer().getEventInstance().getProperty("stage").equals("1")) {
-				cm.sendOk("Please protect the Snowman until the time runs out!");
+				cm.sendOk("请击败十字架！");
 			} else if (cm.getPlayer().getMap().countMonsterById(9400319) > 0 || cm.getPlayer().getMap().countMonsterById(9400320) > 0 || cm.getPlayer().getMap().countMonsterById(9400321) > 0) {
-				cm.sendOk("Please defeat the Cross!");
+				cm.sendOk("请击败十字架！");
 			} else {
 				var s = ((cm.getMapId() % 100) / 10) | 0;
 				cm.givePartyExp((s == 0 ? 2500 : (s == 1 ? 7500 : 20000)));

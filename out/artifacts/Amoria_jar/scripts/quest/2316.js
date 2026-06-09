@@ -18,16 +18,16 @@ function start(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendOk("Why did you even ask if you were going to say no to this?#");
+			qm.sendOk("你既然要拒绝，当初为什么要问？#");
 			qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendAcceptDecline("I think i've heard of a potion that breaks these kinds of barriers. I think it's called #bKiller Mushroom Spores#k? Hmmm... outside, you'll find the Mushroom Scholar #bScarrs#k waiting outside. #bScarrs#k is an expert on mushrooms, so go talk to him.");
+		qm.sendAcceptDecline("我想我听说过一种可以打破这种屏障的药水。我想它叫#b杀手蘑菇孢子#k？嗯……外面有一位蘑菇学者#b斯卡斯#k在外面等着。#b斯卡斯#k是蘑菇方面的专家，去和他谈谈。");
 	if (status == 1){
 		qm.forceStartQuest();
-		qm.sendOk("I am confident #kScarrs#k will do everything to help you.");
+		qm.sendOk("我相信#k斯卡斯#k一定会竭尽全力帮助你的。");
 		qm.dispose();
 	}
 }
@@ -43,10 +43,10 @@ function end(mode, type, selection) {
 		}
 	}
 	if (status == 0)
-		qm.sendOk("Ah, so you're the explorer people were talking about. I'm #bScarrs, the Royal Mushroom Scholar#k representing the Kingdom of Mushroom. So you need some #kKiller Mushroom Spores#k?");
+		qm.sendOk("啊，你就是大家都在说的那个冒险者。我是代表蘑菇王国的#b皇家蘑菇学者斯卡斯#k。所以你需要一些#k杀手蘑菇孢子#k？");
 	if (status == 1){
 		qm.gainExp(4200);
-		qm.sendOk("#kKiller Mushroom Spores#k... I think i've heard of them before...");
+		qm.sendOk("#k杀手蘑菇孢子#k……我想我以前听说过……");
 		qm.forceCompleteQuest(); 
 		qm.dispose();
 	}

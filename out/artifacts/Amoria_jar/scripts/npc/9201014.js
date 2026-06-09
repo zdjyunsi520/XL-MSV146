@@ -8,12 +8,12 @@ function action(mode, type, selection) {
 	return;
     }
     if (status == 0) {
-	cm.sendSimple("Congratulations!\r\n#b#L0#I wish to get an annulment.#l\r\n#L1#I wish to remove my ring from my inventory.#l#k");
+	cm.sendSimple("离婚？你确定吗？你真的要离婚？这是不可逆转的！");
     } else if (status == 1) {
 	if (selection == 0) {
-	    cm.sendYesNo("A divorce? ARE YOU SURE? You want to get divorced? This is irreversible!");
+	    cm.sendYesNo("移除戒指？你有哪些戒指...");
 	} else {
-	    var selStr = "Remove a ring? What do you have...";
+	    var selStr = "你没有任何戒指。";
 	    var found = false;
 	    for (var i = 1112300; i < 1112312; i++) {
 		if (cm.haveItem(i)) {
@@ -28,7 +28,7 @@ function action(mode, type, selection) {
 		}
 	    }
 	    if (!found) {
-		cm.sendOk("You do not have any rings.");
+		cm.sendOk("你的装备戒指已被移除。");
 		cm.dispose();
 	    } else {
 		cm.sendSimple(selStr);
@@ -41,10 +41,10 @@ function action(mode, type, selection) {
 	} else {
 	    if (selection >= 1112300 && selection < 1112312) {
 		cm.gainItem(selection, -1);
-		cm.sendOk("Your equip ring has been removed.");
+		cm.sendOk("你的订婚戒指已被移除。");
 	    } else if (selection >= 2240004 && selection < 2240016) {
 		cm.gainItem(selection, -1);
-		cm.sendOk("Your engagement ring has been removed.");
+		cm.sendOk("你的订婚戒指已被移除。");
 	    }
 	}		
 	cm.dispose();

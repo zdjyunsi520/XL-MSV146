@@ -25,22 +25,22 @@ function action(mode, type, selection) {
     }
     status++;
     if (status == 0) {
-        //cm.sendSimple("Hello there, I am trading Cash for items. It seems that you have #r#e" + cm.getPlayer().getCSPoints(1) + "#n#k #rCash#k. You could sure waste some...\r\n\r\n#b#L0#Give me #rCash#b and I'll give you an item.#l#k");
-        cm.sendSimple("Hi, I like #rCash#k. Maybe you could trade me some of your #r" + cm.getPlayer().getMaplePoints() + " Cash#k? I have lots of great items for you...#b\r\n\r\n#L0#Cubes#l\r\n#L1#Scrolls#l\r\n#L2#Scrolling Tools#l\r\n#L3#Game-enhancing#l\r\n#L4#Hired Merchant#l\r\n#L5#ETC#l\r\n#L6#Mastery Books#l");
+        //cm.sendSimple("你好，我用点券兑换物品。看来你有 #r#e" + cm.getPlayer().getCSPoints(1) + "#n#k #r点券#k。你可以花一些...\r\n\r\n#b#L0#给我 #r点券#b 我给你物品。#l#k");
+        cm.sendSimple("你好，我喜欢 #r点券#k。也许你可以用一些你的 #r" + cm.getPlayer().getMaplePoints() + " 点券#k 和我交易？我有很多好东西给你...#b\r\n\r\n#L0#方块#l\r\n#L1#卷轴#l\r\n#L2#卷轴工具#l\r\n#L3#游戏增益#l\r\n#L4#雇佣商人#l\r\n#L5#其他#l\r\n#L6#技能书#l");
     } else if (status == 1) {
         select = selection;
-        var selStr = "Which item would you like?\r\n#b";
+        var selStr = "你想要哪个物品？\r\n#b";
         for (var i = 0; i < items[selection].length; i++) {
-            selStr += "#L" + i + "##v" + items[selection][i][0] + "##t" + items[selection][i][0] + "# #r(" + items[selection][i][1] / 2 + " Cash)" + (items[select][selection][2] > 0 ? " (Lasts for " + items[select][selection][2] + "days)" : "") + "#b#l\r\n";
+            selStr += "#L" + i + "##v" + items[selection][i][0] + "##t" + items[selection][i][0] + "# #r(" + items[selection][i][1] / 2 + " 点券）" + (items[select][selection][2] > 0 ? "（持续 " + items[select][selection][2] + "days)" : "") + "#b#l\r\n";
         }
         cm.sendSimple(selStr + "#k");
     } else if (status == 2) {
         select2 = selection;
         if (items[select][selection][0] / 1000000 == 1) {
             if (cm.getPlayer().getMaplePoints() < items[select2][i][1] / 2) {
-                cm.sendOk("It seems that you don't have enough #rCash#k.");
+                cm.sendOk("看来你的 #r点券#k 不够。");
             } else if (!cm.canHold(items[select][select2][0], 1)) {
-                cm.sendOk("You don't have the inventory space to hold it. I must be legit and make this a fair trade... so hurry up and free your inventory.");
+                cm.sendOk("你的背包空间不够放。我必须保证这是一次公平交易...所以请赶紧腾出你的背包空间。");
             } else {
                 cm.getPlayer().gainMaplePoints(-(items[select][select2][i][1] / 2));
                 if (items[select][select2][2] > 0) {
@@ -48,21 +48,21 @@ function action(mode, type, selection) {
                 } else {
                     cm.gainItem(items[select][select2][0], 1);
                 }
-                cm.sendOk("You have gained " + selection + "and lost " + items[select][select2][i][1] / 2 * selection + " Cash");
+                cm.sendOk("你获得了 " + selection + "并失去了 " + items[select][select2][i][1] / 2 * selection + " 点券");
             }
             cm.dispose();
         } else {
-            cm.sendGetNumber("How many would you like? (1#v" + items[select][selection][0] + "##t" + items[select][selection][0] + "# = " + items[select][selection][1] / 2 + " Cash) (Current Cash: " + cm.getPlayer().getMaplePoints() + ")", 1, 1, cm.getPlayer().getMaplePoints() / (items[select][selection][1] / 2));
+            cm.sendGetNumber("你想要多少个？（1个 #v" + items[select][selection][0] + "##t" + items[select][selection][0] + "# = " + items[select][selection][1] / 2 + " 点券） (Current 点券: " + cm.getPlayer().getMaplePoints() + ")", 1, 1, cm.getPlayer().getMaplePoints() / (items[select][selection][1] / 2));
         }
     } else if (status == 3) {
         if ((items[select][select2][0] == 2340000 || items[select][select2][0] == 5610000 || items[select][select2][0] == 5610001 || items[select][select2][0] == 5062001 || items[select][select2][0] == 5640000) && cm.getPlayer().getLevel() < 70) {
-            cm.sendOk("Sorry but you must be level 70 or above to get this item.");
+            cm.sendOk("抱歉，你必须达到70级以上才能获得此物品。");
         } else if (items[select][select2][0] == 2022179 && cm.getPlayer().getLevel() < 50) {
-            cm.sendOk("Sorry but you must be level 50 or above to get this item.");
+            cm.sendOk("抱歉，你必须达到50级以上才能获得此物品。");
         } else if (cm.getPlayer().getMaplePoints() < items[select][select2][1] / 2) {
-            cm.sendOk("It seems that you don't have enough #rCash#k.");
+            cm.sendOk("看来你的 #r点券#k 不够。");
         } else if (!cm.canHold(items[select][select2][0], selection)) {
-            cm.sendOk("You don't have the inventory space to hold it. I must be legit and make this a fair trade... so hurry up and free your inventory.");
+            cm.sendOk("你的背包空间不够放。我必须保证这是一次公平交易...所以请赶紧腾出你的背包空间。");
         } else {
             cm.getPlayer().gainMaplePoints(-(items[select][select2][1] / 2 * selection));
             if (items[select][select2][2] > 0) {
@@ -70,9 +70,9 @@ function action(mode, type, selection) {
             } else {
                 cm.gainItem(items[select][select2][0], selection);
             }
-			cm.playerMessage("You have lost " + (items[select][select2][1] / 2 * selection) + " Cash.");
-        //cm.showMessage(7, "You have lost " + (items[select][select2][1] / 2 * selection) + " Cash.");
-            cm.sendOk("You have gained " + selection + " and lost " + items[select][select2][1] / 2 * selection + " Cash");
+			cm.playerMessage("你失去了 " + (items[select][select2][1] / 2 * selection) + " 点券.");
+        //cm.showMessage(7, "你失去了 " + (items[select][select2][1] / 2 * selection) + " 点券.");
+            cm.sendOk("你获得了 " + selection + " 并失去了 " + items[select][select2][1] / 2 * selection + " 点券");
         }
         cm.dispose();
     }

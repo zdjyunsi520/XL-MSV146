@@ -12,10 +12,10 @@ function enter(pi) {
 		map.spawnNpc(1104103, new java.awt.Point(-1766, 88));
 		pi.warp(913002300, 0);
 	    } else {
-		pi.playerMessage("You do not have the Erev Search Warrent to do so, please get it from Nineheart.");
+		pi.playerMessage("你没有艾利温搜查令，请从奈因哈特那里获取。");
 	    }
 	} else {
-	    pi.playerMessage("The forest is already being searched by someone else. Better come back later.");
+	    pi.playerMessage("这片森林已经有其他人在搜索了，请稍后再来。");
 	}
     } else {
 	pi.warp(130010120, "out00");

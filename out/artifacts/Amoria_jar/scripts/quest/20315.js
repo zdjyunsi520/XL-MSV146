@@ -6,7 +6,7 @@ var status = -1;
 
 function start(mode, type, selection) {
     if (mode == 0 && status == 1) {
-	qm.sendNext("You are not ready yet.");
+	qm.sendNext("你还没有准备好。");
 	qm.dispose();
 	return;
     } else if (mode == 0) {
@@ -16,19 +16,19 @@ function start(mode, type, selection) {
     }
 
     if (status == 0) {
-	qm.sendNext("The jewel you brought back from the Transformer is the tear of the Divine Bird. It's the crystal of it's power. If the Black Wizard has his hands on this, then spells doom for all of us.");
+	qm.sendNext("你从变形者那里带回来的宝石是神鸟的眼泪。它是神鸟力量的结晶。如果黑魔法师得到了它，那对我们所有人来说都意味着灾难。");
     } else if (status == 1) {
-	qm.sendYesNo("For your effort in preventing a potentially serious disaster, the Godess has bestowed upon a new title for you. Are you ready to accept it?");
+	qm.sendYesNo("为表彰你阻止了一场潜在的严重灾难，女神授予了你一个新的称号。你准备好接受了吗？");
     } else if (status == 2) {
 	if (qm.getPlayerStat("RSP") > (qm.getPlayerStat("LVL") - 70) * 3) {
-	    qm.sendNext("You still have way too much #bSP#k with you. You can't earn a new title like that. I strongly urge you to use more SP on your 1st and second level skills.");
+	    qm.sendNext("你身上还有太多的#bSP#k。你不能就这样获得新称号。我强烈建议你把更多的SP用在一级和二级技能上。");
 	} else {
 	    if (qm.canHold(1142068)) {
 		qm.gainItem(1142068, 1);
 		qm.changeJob(1511);
-		qm.sendOk(", as of this moment, you are now the Knight Sergeant. From this moment on, you shall carry yourself with dignity and respect befitting your new title The Knight Sergeant of Knights of cygnus. May your glory shines as bright as it is right now.");
+		qm.sendOk("，从这一刻起，你现在是骑士军士了。从这一刻起，你将以符合你新称号——骑士团骑士军士的尊严和尊重来行事。愿你的荣耀永远如此闪耀。");
 	    } else {
-		qm.sendOk("Please make space in your inventory.");
+		qm.sendOk("请清理你的背包空间。");
 	    }
 	}
 	qm.dispose();

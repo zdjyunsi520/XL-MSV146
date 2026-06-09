@@ -13,7 +13,7 @@ function enter(pi) {
 	    pi.warp(541020800, "sp");
 	    return true;
 	} else {
-	    pi.playerMessage(5, "The battle against the boss has already begun, so you may not enter this place.");
+	    pi.playerMessage(5, "与BOSS的战斗已经开始，你不能进入此地。");
 	    return false;
 	}
     }

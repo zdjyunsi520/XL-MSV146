@@ -26,6 +26,6 @@
 
 
 function start() {
-	cm.sendNext("I miss my sister... she's always working at the palace as their servant and I only get to see her on Sundays. The King and Queen are so selfish.");
+	cm.sendNext("我想念我的姐姐……她总是在王宫当仆人，我只有星期天才能见到她。国王和王后真是太自私了。");
 	cm.dispose();
 }

@@ -2,7 +2,7 @@ function enter(pi) {
     var em = pi.getEventManager("CWKPQ");
     if (em != null) {
 	if (!em.getProperty("glpq5").equals("5")){
-	    pi.playerMessage("The portal is not opened yet.");
+	    pi.playerMessage("传送门还没有开启。");
 	} else {
 	pi.removeAll(4001256);
 	pi.removeAll(4001257);

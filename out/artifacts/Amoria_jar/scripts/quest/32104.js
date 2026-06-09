@@ -28,9 +28,9 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNext("Did you bring the #b Starlight Crystal#k?");
+	    qm.sendNext("你带来#b星光水晶#k了吗？");
 	} else if (status == 1) {
-	    qm.sendNextPrev("Not bad, not bad. I'll start the incantation.");
+	    qm.sendNextPrev("不错不错。我要开始念咒语了。");
 	} else if (status == 2) {
 		qm.removeAll(4033824);
 		qm.removeAll(4033825);

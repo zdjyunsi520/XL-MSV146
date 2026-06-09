@@ -1,7 +1,7 @@
 var status = -1;
 //this quest is JOINING ORGANIZATION
 function start(mode, type, selection) {
-	qm.sendNext("Please kill 150 Curse Eye.");
+	qm.sendNext("请消灭150只诅咒之眼。");
 	qm.forceStartQuest();
 	qm.dispose();
 }

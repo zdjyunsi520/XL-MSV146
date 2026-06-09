@@ -16,24 +16,24 @@ function start(mode, type, selection) {
 		    status -= 2;
 		else{
 			if(status == 0){
-				qm.sendOk("Really? It's an urgent matter, so if you have some time, please see me.");
+				qm.sendOk("真的吗？这件事很紧急，如果你有时间的话，请来找我。");
 				qm.dispose();
 				return;
 			} else if(status == 3){
-				qm.sendNext("Okay. In that case, I'll just give you the routes to the Kingdom of Mushroom. #bNear the west entrance of Henesys,#k you'll find an #bempty house#k. Enter the house, and turn left to enter#b<Themed Dungeon : Mushroom Castle>#k. That's the entrance to the Kingdom of Mushroom. There's not much time!");
+				qm.sendNext("好的。那我就把前往蘑菇王国的路线告诉你。在#b射手村西入口附近#k，你会找到一栋#b空房子#k。进入房子，然后左转进入#b<主题副本：蘑菇城堡>#k。那就是蘑菇王国的入口。时间不多了！");
 				qm.forceStartQuest();
 				return;
 			}
 		}
 	}
 	if(status == 0) 
-		qm.sendAcceptDecline("Now that you have made the job advancement, you look like you're ready for this. I have something I'd like to ask you for help. Are you willing to listen?");
+		qm.sendAcceptDecline("既然你已经完成了转职，看起来你已经准备好了。我有件事想请你帮忙。你愿意听听吗？");
 	if(status == 1)
-		qm.sendNext("What happened is that the #bKingdom of Mushroom#k is currently in disarray. Kingdom of Mushroom is located near Henesys, featuring the peace-loving, intelligent King Mush. Recently, he began to feel ill, so he decided to appoint his only daughter #bPrincess Violetta#k. Something must have happened since then for the kingdom to be in its current state.");
+		qm.sendNext("事情是这样的，#b蘑菇王国#k目前正处于混乱之中。蘑菇王国位于射手村附近，以热爱和平、聪慧的蘑菇国王而闻名。最近，他开始感到身体不适，所以他决定任命他唯一的女儿#b紫罗兰公主#k。从那以后一定发生了什么事，才导致王国陷入目前的状态。");
 	if(status == 2)
-		qm.sendNext("I am not aware of the exact details, but it's obvious something terrible had taken place, so I think it'll be better if you go there and assess the damage yourself. An explorer like you seem more than capable of saving Kingdom of Mushroom. I have just written you a #brecommendation letter#k, so I suggest you head over to Kingdom of Mushroom immediately and look for the #bHead Patrol Officer#k.\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#v4032375# #t4032375#");
+		qm.sendNext("我不清楚具体的细节，但显然发生了什么可怕的事情，所以我觉得你亲自去那里评估一下情况会更好。像你这样的冒险者完全有能力拯救蘑菇王国。我刚给你写了一封#b推荐信#k，所以我建议你立即前往蘑菇王国寻找#b巡逻队长#k。\r\n\r\n#fUI/UIWindow.img/QuestIcon/4/0#\r\n#v4032375# #t4032375#");
 	if(status == 3)
-		qm.sendYesNo("By the way, do you know where Kingdom of Mushroom is located? It'll be okay if you can find your way there, but if you don't mind, I can take you straight to the entrance.");
+		qm.sendYesNo("对了，你知道蘑菇王国在哪里吗？如果你能找到路那当然好，但如果你不介意的话，我可以直接把你送到入口。");
 	if(status == 4){
 		qm.gainItem(4032375, 1);
 		qm.forceStartQuest();
@@ -52,9 +52,9 @@ function end(mode, type, selection) {
 		}
 	}
 	if(status == 0)
-		qm.sendNext("Hmmm? Is that a #brecommendation letter from the job instructor#k??! What is this, are you the one that came to save us, the Kingdom of Mushroom?");
+		qm.sendNext("嗯？那是一封#b来自职业教官的推荐信#k？？！这是什么，你就是来拯救我们蘑菇王国的那个人吗？");
 	if(status == 1)
-		qm.sendNextPrev("Hmmm... okay. Since the letter is from the job instructor, I suppose you are really the one. I apologize for not introducing myself to you earlier. I'm the #bHead Security Officer#k in charge of protecting King Mush. As you can see, this temporary hideout is protected by the team of security and soldiers. Our situation may be dire, but nevertheless, welcome to Kingdom of Mushroom.");
+		qm.sendNextPrev("嗯……好吧。既然这封信是职业教官写的，我想你确实是那个人。很抱歉没有早点向你自我介绍。我是负责保护蘑菇国王的#b安全队长#k。如你所见，这个临时避难所由安全队和士兵们保护着。我们的情况可能很危急，但无论如何，欢迎来到蘑菇王国。");
 	if(status == 2){
 		qm.gainItem(4032375, -1);
 		qm.forceCompleteQuest();

@@ -5,6 +5,6 @@
 var status = -1;
 
 function action(mode, type, selection) {
-	cm.sendOk("You can't read the words on the slate. You have no idea where to use it.");
+	cm.sendOk("你无法读取石板上的文字。你不知道它该在哪里使用。");
 	cm.safeDispose();
 }

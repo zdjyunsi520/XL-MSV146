@@ -11,13 +11,13 @@ function start(mode, type, selection) {
                 status--;
 
             if (status == 0) {
-                qm.sendNext("Phantom! La nguoi sao!");
+                qm.sendNext("幻影！是你吗！");
             } else if (status == 1) {
-                qm.sendNextPrev("Trong nguoi co ve kha manh day.");
+                qm.sendNextPrev("你看起来相当强大。");
             } else if (status == 2) {
-                qm.sendNextPrev("Nhung muon vao trong hay buoc qua xac ta truoc da");
+                qm.sendNextPrev("但想要进去，先踏过我的尸体再说");
             } else if (status == 3) {
-                qm.sendSimple("Come here baby. hahahahaha");
+                qm.sendSimple("过来吧，宝贝。哈哈哈哈哈");
             } else if (status == 4) {
                 qm.forceStartQuest();
                 qm.dispose();

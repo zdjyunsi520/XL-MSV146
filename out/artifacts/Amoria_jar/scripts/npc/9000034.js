@@ -28,85 +28,85 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-	cm.sendSimple ("#e[Sexy System]#bSelect something bro I don't have all day." +
-                 "#k\r\n#L88##rBuy NX Cash ");
+	cm.sendSimple ("#e[性感系统]#b选点什么吧兄弟，我可没那么多时间。" +
+                 "#k\r\n#L88##r购买NX现金 ");
 	  } else if (selection == 80) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L0##rMagican Shoes" +
-			"#k\r\n#L1##rMagican Overalls" +
-			"#k\r\n#L2##rMagican Gloves" +
-			"#k\r\n#L3##rMagican Hats" +
-			"#k\r\n#L4##rMagican Shields" +
-			"#k\r\n#L5##rMagican and Common Wands" +
-			"#k\r\n#L6##rMagican and Common Staffs");
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L0##r法师鞋子" +
+			"#k\r\n#L1##r法师套装" +
+			"#k\r\n#L2##r法师手套" +
+			"#k\r\n#L3##r法师帽子" +
+			"#k\r\n#L4##r法师盾牌" +
+			"#k\r\n#L5##r法师和通用短杖" +
+			"#k\r\n#L6##r法师和通用长杖");
 	  } else if (selection == 81) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L7##bThief Shoes" +
-			"#k\r\n#L8##bThief Bottoms" +
-			"#k\r\n#L9##bThief Tops" +
-			"#k\r\n#L10##bThief Overalls" +
-			"#l\r\n#L11##bThief Gloves" +
-			"#l\r\n#L12##bThief Hats" +
-			"#l\r\n#L13##bThief Shields" +
-			"#l\r\n#L14##bThief and Common Daggers" +
-			"#k\r\n#L15##bThief and Common Claws" +
-			"#k\r\n#L16##bThief Throwing Stars");
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L7##b飞侠鞋子" +
+			"#k\r\n#L8##b飞侠下衣" +
+			"#k\r\n#L9##b飞侠上衣" +
+			"#k\r\n#L10##b飞侠套服" +
+			"#l\r\n#L11##b飞侠手套" +
+			"#l\r\n#L12##b飞侠帽子" +
+			"#l\r\n#L13##b飞侠盾牌" +
+			"#l\r\n#L14##b飞侠和通用短刀" +
+			"#k\r\n#L15##b飞侠和通用拳套" +
+			"#k\r\n#L16##b飞侠飞镖");
 	  } else if (selection == 82) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L17##dWarrior Shoes" +
-			"#k\r\n#L18##dWarrior Bottom" +
-			"#k\r\n#L19##dWarrior Top" +
-			"#k\r\n#L20##dWarrior Overalls" +
-			"#k\r\n#L21##dWarrior Gloves" +
-			"#k\r\n#L22##dWarrior Hats" +
-			"#k\r\n#L23##dWarrior Shields" +
-			"#k\r\n#L24##dWarrior and Common One-Handed Axes" +
-			"#k\r\n#L25##dWarrior and Common Two-Handed Axes" +
-			"#k\r\n#L26##dWarrior and Common One-Handed BWs" +
-			"#k\r\n#L27##dWarrior and Common Two-Handed BWs" +
-			"#k\r\n#L28##dWarrior and Common One-Handed Swords" +
-			"#k\r\n#L29##dWarrior and Common Two-Handed Swords" +
-			"#k\r\n#L30##dWarrior and Common Spears" +
-			"#k\r\n#L31##dWarrior and Common Pole Arms");
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L17##d战士鞋子" +
+			"#k\r\n#L18##d战士下衣" +
+			"#k\r\n#L19##d战士上衣" +
+			"#k\r\n#L20##d战士套服" +
+			"#k\r\n#L21##d战士手套" +
+			"#k\r\n#L22##d战士帽子" +
+			"#k\r\n#L23##d战士盾牌" +
+			"#k\r\n#L24##d战士和通用单手斧" +
+			"#k\r\n#L25##d战士和通用双手斧" +
+			"#k\r\n#L26##d战士和通用单手钝器" +
+			"#k\r\n#L27##d战士和通用双手钝器" +
+			"#k\r\n#L28##d战士和通用单手剑" +
+			"#k\r\n#L29##d战士和通用双手剑" +
+			"#k\r\n#L30##d战士和通用枪" +
+			"#k\r\n#L31##d战士和通用矛");
 	  } else if (selection == 83) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L32##gArcher Shoes" +
-			"#k\r\n#L33##gArcher Overalls" +
-			"#k\r\n#L34##gArcher Gloves" +
-			"#k\r\n#L35##gArcher Hats" +
-			"#k\r\n#L36##gArcher and Common Bows" +
-			"#k\r\n#L37##gArcher and Common Crossbows" +
-			"#k\r\n#L38##gArcher Arrows");
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L32##g弓箭手鞋子" +
+			"#k\r\n#L33##g弓箭手套服" +
+			"#k\r\n#L34##g弓箭手手套" +
+			"#k\r\n#L35##g弓箭手帽子" +
+			"#k\r\n#L36##g弓箭手和通用弓" +
+			"#k\r\n#L37##g弓箭手和通用弩" +
+			"#k\r\n#L38##g弓箭手箭矢");
 	  } else if (selection == 84) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L76##bPirate Hats" +
-			"#k\r\n#L71##bPirate Weapons" +
-			"#k\r\n#L72##bPirate Bullets and Capsules" +
-			"#k\r\n#L73##bPirate Overalls" +
-			"#k\r\n#L74##bPirate Gloves" +
-			"#k\r\n#L75##bPirate Shoes");
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L76##b海盗帽子" +
+			"#k\r\n#L71##b海盗武器" +
+			"#k\r\n#L72##b海盗子弹和胶囊" +
+			"#k\r\n#L73##b海盗套服" +
+			"#k\r\n#L74##b海盗手套" +
+			"#k\r\n#L75##b海盗鞋子");
 	  } else if (selection == 85) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"#k\r\n#L39#Maple Weapons" +
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"#k\r\n#L39#枫之谷武器" +
 			"\r\n#L40#Earrings" +
-			"\r\n#L41#Necklaces and Face Accessories" +
+			"\r\n#L41#项链和脸饰" +
 			"\r\n#L42#Capes" +
-			"\r\n#L43#Common Shoes" +
+			"\r\n#L43#通用鞋子" +
 			"" +
-			"\r\n#L45#Common Gloves" +
-			"\r\n#L46#Common Overalls" +
-			"\r\n#L47#Common Shields" +
-			"\r\n#L48#Level 0 Weapons");
+			"\r\n#L45#通用手套" +
+			"\r\n#L46#通用套服" +
+			"\r\n#L47#通用盾牌" +
+			"\r\n#L48#0级武器");
 	  } else if (selection == 86) {
-               cm.sendSimple ("Pick a Category #e#d" +
-			"\r\n#L50#Super Megaphones, Gachapon Tickets, Rocks, and Morphs" +
-			"\r\n#L51#Buffs and Potions" +
-			"\r\n#L52#Boss Pieces" +
+               cm.sendSimple ("选择一个分类 #e#d" +
+			"\r\n#L50#超级广播喇叭、转蛋券、岩石和变身道具" +
+			"\r\n#L51#增益道具和药水" +
+			"\r\n#L52#Boss碎片" +
 			"\r\n#L57#Chairs" +
 			"\r\n#L53#Mounts" +
-			"\r\n#L54#All scrolls!");
+			"\r\n#L54#所有卷轴！");
 	  } else if (selection == 87) {
-               cm.sendOk ("This feature has been disabled. Please buy NX Cash instead and use the Cash Shop. Thank You");
+               cm.sendOk ("此功能已被禁用。请购买NX点数并使用商城。谢谢。");
 	  } else if (selection == 0) {
 		cm.openShop (10000);
 		cm.dispose();
@@ -340,13 +340,13 @@ function action(mode, type, selection) {
 		cm.openShop (13005);
 		cm.dispose();
 	  } else if (selection == 88) {
-                cm.sendSimple ("#eYou Currently have(#r" + cm.getPlayer().getVotePoints() + "#k) Vote Points."+
-		 "#k\r\n#eHow much would you like?" +
-                 "#k\r\n#L89##r5k NX Cash for 1 Vote Point" +
-                 "#k\r\n#L90##r10k NX Cash for 2 Vote Point" +
-                 "#k\r\n#L91##r20k NX Cash for 3 Vote Point" +
-                 "#k\r\n#L92##r30k NX Cash for 4 Vote Point" +
-                 "#k\r\n#L93##r45k NX Cash for 5 Vote Point");
+                cm.sendSimple ("#e你目前拥有(#r" + cm.getPlayer().getVotePoints() + "#k)投票点数。"+
+		 "#k\r\n#e你想要多少？" +
+                 "#k\r\n#L89##r5000 NX点数 需要1投票点" +
+                 "#k\r\n#L90##r10000 NX点数 需要2投票点" +
+                 "#k\r\n#L91##r20000 NX点数 需要3投票点" +
+                 "#k\r\n#L92##r30000 NX点数 需要4投票点" +
+                 "#k\r\n#L93##r45000 NX点数 需要5投票点");
                 } else if (selection == 89) {
                 var price = 5000000;
                 if (cm.getPlayer().getVotePoints() > 0) {      
@@ -354,7 +354,7 @@ function action(mode, type, selection) {
                    cm.gainNX(10000);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 90) {
@@ -364,7 +364,7 @@ function action(mode, type, selection) {
                     cm.gainNX(20000);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 91) {
@@ -374,7 +374,7 @@ function action(mode, type, selection) {
                    cm.gainNX(40000);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 92) {
@@ -384,7 +384,7 @@ function action(mode, type, selection) {
                   cm.gainNX(60000);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 93) {
@@ -393,17 +393,17 @@ function action(mode, type, selection) {
                    cm.gainNX(90000);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
 				} else if (selection = 94) {
-			cm.sendSimple ("#eYou Currently have(#r" + cm.getPlayer().getVotePoints() + "#k) Vote Points."+
-		 "#k\r\n#eWhat cube would you want?" +
-                 "#k\r\n#L95##r1 Super Miracle Cube for 1 Vote Point" +
-                 "#k\r\n#L96##r2 Super Miracle Cubes for 2 Vote Point" +
-                 "#k\r\n#L97##r4 Super miracle Cubes for 3 Vote Point" +
-                 "#k\r\n#L98##r6 Super Miracle Cubes for 4 Vote Point" +
-                 "#k\r\n#L99##r8 Super Miracle Cubes for 5 Vote Points");
+			cm.sendSimple ("#e你目前拥有(#r" + cm.getPlayer().getVotePoints() + "#k)投票点数。"+
+		 "#k\r\n#e你想要哪种方块？" +
+                 "#k\r\n#L95##r1个超级奇迹方块 需要1投票点" +
+                 "#k\r\n#L96##r2个超级奇迹方块 需要2投票点" +
+                 "#k\r\n#L97##r4个超级奇迹方块 需要3投票点" +
+                 "#k\r\n#L98##r6个超级奇迹方块 需要4投票点" +
+                 "#k\r\n#L99##r8个超级奇迹方块 需要5投票点");
 				 } else if (selection == 95) {
                 //var price = 5000000;
                 if (cm.getPlayer().getVotePoints() > 0) {      
@@ -412,7 +412,7 @@ function action(mode, type, selection) {
 				   cm.gainItem(2001502, 1);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 96) {
@@ -423,7 +423,7 @@ function action(mode, type, selection) {
 					cm.gainItem(5062002, 2);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 97) {
@@ -434,7 +434,7 @@ function action(mode, type, selection) {
 				    cm.getPlayer().gainItem(5062002, 1);
                   
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 98) {
@@ -445,7 +445,7 @@ function action(mode, type, selection) {
 				  cm.gainItem(5062002, 6);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
                 } else if (selection == 99) {
@@ -455,7 +455,7 @@ function action(mode, type, selection) {
 				   cm.gainItem(5062002, 8);
                    cm.dispose();
                      } else {
-                   cm.sendOk ("#eYou do not have enough vote points!");
+                   cm.sendOk ("#e你的投票点数不够！");
                    cm.dispose();
                    }
 				   }

@@ -34,10 +34,10 @@ function action(mode, type, selection) {
     }
 	var time = parseInt(data);
 		if(cm.getEvoEntry() <= 0) {
-			cm.sendOk("You have already gone into the Evolution Lab 5 times in the past 12 Hours!");
+			cm.sendOk("#d欢迎来到进化系统，你可以独自进入或与组队一起进入#k\r\n\r\n#b#L100#进化实验室 #r-单人#k\r\n#b#L101#进化实验室 #r-组队#k#l\r\n\r\n #r你还剩#k #b");
 			cm.dispose();
 		} else {
-        cm.sendSimple("#dWelcome to the Evolution System you may enter by yourself or with a party#k\r\n\r\n#b#L100#Evolution Lab #r-Solo#k\r\n#b#L101#Evolution Lab #r-Party#k#l\r\n\r\n #rYou have#k #b" + cm.getEvoEntry() + "#k#r Entries left");
+        cm.sendSimple("#k#r 次进入机会" + cm.getEvoEntry() + "发生了未知错误。");
 		}
     }else if (status == 1) {
         if (mode == 1) {
@@ -53,7 +53,7 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("EvolutionLab");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("所有玩家必须在地图中且等级达到150级以上。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getPlayer(), cm.getMap());
@@ -62,15 +62,15 @@ function action(mode, type, selection) {
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("你不是队伍的队长，请让你们的队长来和我对话。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("请先组建一支队伍。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("已经有人在里面了。");
                         cm.dispose();
                     }
                     break;
@@ -94,7 +94,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		    if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("已经有人在里面了。");
             cm.dispose();
             return;
 			}
@@ -108,7 +108,7 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("MagnusBattle");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("所有玩家必须在地图中且等级达到150级以上。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
@@ -116,15 +116,15 @@ function action(mode, type, selection) {
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("你不是队伍的队长，请让你们的队长来和我对话。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("请先组建一支队伍。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("已经有人在里面了。");
                         cm.dispose();
                     }
                     break;

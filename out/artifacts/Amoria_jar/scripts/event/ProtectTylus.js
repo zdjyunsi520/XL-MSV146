@@ -38,7 +38,7 @@ function playerEntry(eim, player) {
 }
 
 function finish(eim) {
-	eim.broadcastPlayerMsg(6, "You have almost reached the destination. Please exit by the portal within the time left.");
+	eim.broadcastPlayerMsg(6, "您已接近目的地。请在剩余时间内通过传送门离开。");
 	if (em.getProperty("finished").equals("0")) {
 		em.setProperty("finished", "1");
 	}

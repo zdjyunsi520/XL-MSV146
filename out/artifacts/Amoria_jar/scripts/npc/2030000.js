@@ -16,7 +16,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status == 1 && mode == 0 && cm.getPlayerStat("LVL") >= 50) {
-	cm.sendNext("Even if your level's high it's hard to actually go in there, but if you ever change your mind, please find me. After all, my job is to protect this place.");
+	cm.sendNext("即使你等级很高，也很难进入那里，但如果你改变主意了，请来找我。毕竟我的工作就是守护这个地方。");
 	cm.dispose();
 	return;
     }
@@ -25,12 +25,12 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendNext("Hey, you look like you want to go farther and deeper past this place. Over there, though, you'll find yourself surrounded by aggressive, dangerous monsters, so even if you feel that you're ready to go, please be careful. Long ago, a few brave men from our town went in wanting to eliminate anyone threatening the town, but never came back out...");
+	cm.sendNext("嘿，你看起来想往更深处走。不过那边到处都是凶猛危险的怪物，所以即使你觉得准备好了，也请小心。很久以前，镇上有几个勇敢的人进去想要消灭威胁小镇的敌人，但再也没有出来过……");
     } else if (status == 1) {
 	if (cm.getPlayerStat("LVL") >= 50) {
-	    cm.sendYesNo("If you are thinking of going in, I suggest you change your mind. But if you really want to go in... I'm only letting in the ones that are strong enough to stay alive in there. I do not wish to see anyone else die. Let's see... Hmmm...! You look pretty strong. All right, do you want to go in?");
+	    cm.sendYesNo("如果你想进去，我建议你改变主意。但如果你真的想进去……我只让那些足够强大、能在里面存活的人进去。我不希望再看到任何人死去。让我看看……嗯……！你看起来挺强的。好的，你想进去吗？");
 	} else {
-	    cm.sendPrev("If you are thinking of going in, I suggest you change your mind. But if you really want to go in... I'm only letting in the ones that are strong enough to stay alive in there. I do not wish to see anyone else die. Let's see... Hmmm... You haven't reached Level 50 yet. I can't let you in, then, so forget it.");
+	    cm.sendPrev("如果你想进去，我建议你改变主意。但如果你真的想进去……我只让那些足够强大、能在里面存活的人进去。我不希望再看到任何人死去。让我看看……嗯……你还没达到50级。那我不能让你进去，算了吧。");
 	}
     } else if (status == 2) {
 	if (cm.getPlayerStat("LVL") >= 50) {

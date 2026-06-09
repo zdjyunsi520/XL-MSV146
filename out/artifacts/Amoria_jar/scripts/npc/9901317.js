@@ -23,13 +23,13 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
- 			cm.sendAcceptDecline("Hey there! And welcome to #rMaple Blade#k Max-Stat-Item NPC!#k\r\n#r Please Meet these Requirements: \r\n\r\n#b32,767 Stats in all#k\r\n#b1 #i4001085#,1 #i4001084#,1 #i4001083#,1 #i4032013#,5 #i4000138#\r\n#b200 #i4004004#, #b200 #i4004002#, #b200 #i4004000#, #b200 #i4004003#, #b200 #i4004001#,\r\n#b2 #i2049100#, #b1 #i2340000# ");
+ 			cm.sendAcceptDecline("请选择你想要作为满属物品的装备或NX物品。请确认你的背包有足够的空间，因为我们不接受退款。祝你好运！\r\n\r\n ");
 		} else if (status == 1) {
 				if (cm.getPlayer().getStr() > 32766 && cm.getPlayer().getDex() > 32766 && cm.getPlayer().getInt() > 32766 && cm.getPlayer().getLuk() > 32766 && cm.haveItem(4001085, 1) && cm.haveItem(4001084, 1) && cm.haveItem(4001083, 1) && cm.haveItem(4032013, 2) && cm.haveItem(4000138, 5) && cm.haveItem(4004004, 200) && cm.haveItem(4004002, 200) && cm.haveItem(4004000, 200) && cm.haveItem(4004003, 200) && cm.haveItem(4004001, 200) && cm.haveItem(2049100, 2) && cm.haveItem(2340000, 1)){
-				            var String = "Please choose your desired item or NX item you want as your new Max-Stat-Item. Please check your inventory to make sure you have enough room, because we don't do refunds. Enjoy!\r\n\r\n";
+				            var String = "抱歉，你不满足所需条件。";
                             cm.sendSimple(String+cm.EquipList(cm.getClient()));
 				} else  {
-					cm.sendOk ("Sorry but you don't meet the requirements to do this.");
+					cm.sendOk ("下次再见！");
 					cm.dispose(); 
 				}
 		} else if (status == 2) { 
@@ -52,7 +52,7 @@ function action(mode, type, selection) {
 			  cm.dispose();	
          }			
         if (selection == 1) {
-				cm.sendOk("See you next time!");
+				cm.sendOk("下次再见！");
 				cm.dispose();
 			}
 		}

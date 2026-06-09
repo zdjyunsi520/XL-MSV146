@@ -103,7 +103,7 @@ function action(mode, type, selection) {
         
         } else if (selection == 11) {
                 cm.dispose();
-                cm.openShop(9010038);
+                cm.openShop(7400);
        }
        else if(selection == 12){
             cm.dispose();

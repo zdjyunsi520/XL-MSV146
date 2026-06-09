@@ -9,7 +9,7 @@ function enter(pi) {
 		switch(pi.getMapId()) {
 			case 926110000:
 				if (pi.getPlayer().isGM())
-					pi.getPlayer().dropMessage(5, "[Debug]: Portal Entered on MapID: " + pi.getMapId());
+					pi.getPlayer().dropMessage(5, "[调试]：进入地图ID的传送门： " + pi.getMapId());
 				break;
 		}
 	} catch (e) {

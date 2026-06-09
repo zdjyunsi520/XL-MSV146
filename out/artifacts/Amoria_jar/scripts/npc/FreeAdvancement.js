@@ -15,17 +15,17 @@ state_unavailable = 1;
 function start() {
     loadAvailableJobs();
     cm.sendYesNo(
-        "Using the Free Advancement system, you can choose to switch to a different job within your class." +
-        "\r\nTo do so, there are a few requirements you need to follow." +
-        "\r\n- You must be a 4th job Adventurer." +
-        "\r\n- You must have " + price + " mesos." +
-        "\r\n- You can only change jobs once per day." +
-        "\r\nThe following will be applied once you use the Free Advancement system." +
-        "\r\n- All your SP and mastery levels will be reset." +
-        "\r\n- If the job you are switching to uses a different main stat, your AP will be switched." +
-        "\r\n- If the job you are switching to has a Link Skill, you will gain that Link Skill." +
-        "\r\n- After switching, you will get a level 100 weapon of the job you switched to." +
-        "\r\n\r\nWould you like to use the Free Advancement system?\r\n"
+        "\r\n为此，你需要满足一些条件。" +
+        "\r\n- 你必须是四转冒险家。" +
+        "\r\n- 你必须有" +
+        "枫币。 " + price + "\r\n- 你每天只能转职一次。" +
+        "\r\n使用免费转职系统后，以下规则将适用。" +
+        "\r\n- 你所有的SP和技能熟练度将被重置。" +
+        "\r\n- 如果你转到的职业使用不同的主属性，你的AP将被切换。" +
+        "\r\n- 如果你转到的职业拥有链接技能，你将获得该链接技能。" +
+        "\r\n- 转职后，你将获得转职职业的100级武器。" +
+        "\r\n\r\n你想使用免费转职系统吗？\r\n" +
+        "你今天不能再使用免费转职系统了。"
         );
 }
 
@@ -36,34 +36,34 @@ function action(mode, type, selection) {
     }
     if (!chose) {
         if (getState() == state_unavailable) {
-            cm.sendOk("You may not use the Free Advancement system anymore today.");
+            cm.sendOk("发生了一个问题，请重试。");
             cm.dispose();
             return;
         }
         if (getState() != state_available) {
-            cm.sendOk("A problem has occured, please try again.");
+            cm.sendOk("你必须是一名四转冒险家。");
             cm.dispose();
             return;
         }
         if (cm.getPlayer().getJob() > 1000 || cm.getPlayer().getJob() % 100 != 12) {
-            cm.sendOk("You must be a 4th job advanturer.");
+            cm.sendOk("你必须有");
             cm.dispose();
             return;
         }
         if (cm.getPlayer().getMeso() < price) {
-            cm.sendOk("You must have " + price + " mesos.");
+            cm.sendOk("你想转成什么职业？\r\n " + price + "\r\n- 你每天只能转职一次。");
             cm.dispose();
             return;
         }
-        cm.sendSimple("What job do you want to change to?\r\n" + 
-            "#L999#I don't want to use the Free Advancement system.\r\n" + getJobSelection());
+        cm.sendSimple("#L999#我不想使用免费转职系统。\r\n" + 
+            "黑骑士" + getJobSelection());
     } else {
         if (selection == 999) {
             cm.dispose();
             return;
         }
         if (jobs[selection] == null) {
-            cm.sendOk("A problem has occured, please try again.");
+            cm.sendOk("你必须是一名四转冒险家。");
             cm.dispose();
             return;
         }
@@ -82,22 +82,22 @@ function loadAvailableJobs() {
     var job = cm.getPlayer().getJob();
     switch (job) {
         case 112:
-            jobs = [[122, "Paladin"], [132, "Dark Knight"]];
+            jobs = [[122, "Paladin"], [132, "冰雷大魔导士"]];
             break;
         case 122:
-            jobs = [[112, "Hero"], [132, "Dark Knight"]];
+            jobs = [[112, "Hero"], [132, "冰雷大魔导士"]];
             break;
         case 132:
             jobs = [[112, "Hero"], [122, "Paladin"]];
             break;
         case 212:
-            jobs = [[222, "I/L Arch Mage"], [232, "Bishop"]];
+            jobs = [[222, "火毒大魔导士"], [232, "Bishop"]];
             break;
         case 222:
-            jobs = [[212, "F/P Arch Mage"], [232, "Bishop"]];
+            jobs = [[212, "双刀"], [232, "Bishop"]];
             break;
         case 232:
-            jobs = [[212, "F/P Arch Mage"], [222, "I/L Arch Mage"]];
+            jobs = [[212, "双刀"], [222, "火毒大魔导士"]];
             break;
         case 312:
             jobs = [[322, "Marksman"]];
@@ -106,13 +106,13 @@ function loadAvailableJobs() {
             jobs = [[312, "Bowmaster"]];
             break;
         case 412:
-            jobs = [[422, "Shadower"], [432, "Dual Blade"]];
+            jobs = [[422, "Shadower"], [432, "暗影飞侠"]];
             break;
         case 422:
-            jobs = [[412, "Night Lord"], [432, "Dual Blade"]];
+            jobs = [[412, "暗影飞侠"], [432, "暗影飞侠"]];
             break;
         case 432:
-            jobs = [[412, "Night Lord"], [422, "Shadower"]];
+            jobs = [[412, "暗影飞侠"], [422, "Shadower"]];
             break;
         case 512:
             jobs = [[522, "Corsair"], [532, "Cannoneer"]];

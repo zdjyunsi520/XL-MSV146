@@ -53,17 +53,17 @@ function scheduledTimeout(eim) {
     if (em.getProperty("state").equals("0")) {
 	em.setProperty("state", "1");
 
-	if (!disposePlayerBelow(eim, 5, 990001100, "You need at least 6 people to begin the Guild Quest.")) {
+	if (!disposePlayerBelow(eim, 5, 990001100, "您需要至少6人才能开始公会任务。")) {
 	    var iter = players(eim).iterator();
 	    while (iter.hasNext()) {
-		iter.next().dropMessage(5, "The Guild Quest has begun.");
+		iter.next().dropMessage(5, "公会任务已开始。");
 	    }
     	em.setProperty("started", "true");
 	eim.setProperty("canEnter", "true");
 	    eim.restartEventTimer(3600000);
 	}
     } else if (em.getProperty("state").equals("1")) {
-	disposePlayerBelow(eim, 100, 990001100, "The time has run out, guild PQ will end.");
+	disposePlayerBelow(eim, 100, 990001100, "时间已用完，公会任务将结束。");
 	} else if (em.getProperty("state").equals("2")) {
 		finish(eim);
     }
@@ -124,7 +124,7 @@ function changedMap(eim, player, mapid) {
     if (mapid < 990000000 || mapid > 990002000) {
 	eim.unregisterPlayer(player);
 	if (player.getName().equals(eim.getProperty("leader"))) { //check for party leader
-		disposePlayerBelow(eim, 100, 990001100, "The leader of the Guild Quest has left, resulting in the remaining players being warped out.");
+		disposePlayerBelow(eim, 100, 990001100, "公会任务的队长已离开，剩余玩家将被传送出去。");
 	} else {
 		if (disposePlayerBelow(eim, 0, 0, "")) {
 			em.setProperty("started", "false");
@@ -137,10 +137,10 @@ function playerDisconnected(eim, player) {
 	eim.unregisterPlayer(player);
     if (player.getName().equals(eim.getProperty("leader"))) { //check for party leader
 	//boot all players and end
-	disposePlayerBelow(eim, 100, 990001100, "The leader of the Guild Quest has disconnected, resulting in the remaining players being warped out.");
+	disposePlayerBelow(eim, 100, 990001100, "公会任务的队长已断开连接，剩余玩家将被传送出去。");
     } else {
 	if (!em.getProperty("state").equals("0")) {
-		disposePlayerBelow(eim, 5, 990001100, "There are no longer enough players to continue the Guild Quest, meaning the remaining players shall be warped out.");
+		disposePlayerBelow(eim, 5, 990001100, "没有足够的玩家继续公会任务，剩余玩家将被传送出去。");
     }
 	}
 }
@@ -154,7 +154,7 @@ function disbandParty(eim) { //ignore for GQ
 function playerExit(eim, player) {
 	eim.unregisterPlayer(player);
 	if (!em.getProperty("state").equals("0")) {
-	disposePlayerBelow(eim, 5, 990001100, "There are no longer enough players to continue the Guild Quest, meaning the remaining players shall be warped out.");
+	disposePlayerBelow(eim, 5, 990001100, "没有足够的玩家继续公会任务，剩余玩家将被传送出去。");
 	}
 }
 

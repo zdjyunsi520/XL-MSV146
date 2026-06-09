@@ -10,11 +10,11 @@ function start(mode, type, selection) {
 	 else
 	    status--;
 	if (status == 0) {
-	  qm.sendNext("I lost my bell up that tree!\r\nSmack the tree with #b[Ctrl]#k and pick it up with #b[Z]#k when it drops.");
+	  qm.sendNext("我的铃铛掉到那棵树上了！\r\n用#b[Ctrl]#k敲打树，铃铛掉下来时用#b[Z]#k捡起来。");
 	} else if (status == 1) {
-	  qm.sendAcceptDecline("Hurry up, please! I feel naked! Plus, I hid some kitty snacks in that bell...");
+	  qm.sendAcceptDecline("快点，拜托！我觉得自己像没穿衣服一样！而且我在铃铛里藏了猫零食……");
 	} else if  (status == 2)  {
-	  qm.sendNextS("Just like before, press #e#b[Ctrl]#k#n to attack the tree and #e#b[Z]#k#n to pick up the bell.",14);
+	  qm.sendNextS("和之前一样，按#e#b[Ctrl]#k#n攻击树，按#e#b[Z]#k#n捡起铃铛。",14);
 	} else if  (status == 3)  {
 	  qm.forceStartQuest();
 	  qm.gainItem(4034005,1);
@@ -32,13 +32,13 @@ function end(mode, type, selection) {
 	else
 	    status--;
 	if (status == 0) {
-	  qm.sendNextS("Here you go, kitty cat!",14);
+	  qm.sendNextS("给你，小猫咪！",14);
 	} else if (status == 1) {
-	  qm.sendNextPrev("Turn around. I can't let you see where I hid my snack...");
+	  qm.sendNextPrev("转过去。我不能让你看到我把零食藏在哪里……");
 	} else if  (status == 2)  {
-	  qm.sendNextPrevS("Done yet?",14);
+	  qm.sendNextPrevS("好了没？",14);
 	} else if  (status == 3)  {
-	  qm.sendNextPrev("Just a second... *scarf, scarf, scarf, burp*");
+	  qm.sendNextPrev("等一下……*大口大口吃，大口大口吃，嗝*");
 	} else if  (status == 4)  {
 	  qm.forceCompleteQuest();
 	  qm.gainItem(4034005, -1);

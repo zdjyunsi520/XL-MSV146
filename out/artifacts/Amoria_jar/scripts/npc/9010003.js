@@ -15,23 +15,23 @@ function action(mode, type, selection) {
 	return;
     }
     if (mode == 0) {
-	cm.sendOk("Alright, see you next time.");
+	cm.sendOk("好的，下次见。");
 	cm.dispose();
 	return;
     }
     status++;
     if (status == 0) {
-	cm.sendNext("I am Ria. For a small fee of #b1000000 meso#k I can send you to the #rField of Judgement#k.");
+	cm.sendNext("我是莉亚。只需支付 #b1000000枫币#k 的小额费用，我就能送你去 #r审判之地#k。");
     } else if (status == 1) {
-	cm.sendYesNo("Do you wish to enter #rField of Judgement#k now?");
+	cm.sendYesNo("你想现在进入 #r审判之地#k 吗？");
     } else if (status == 2) {
 	var em = cm.getEventManager("lolcastle");
 	if (em == null || !em.getProperty("entryPossible").equals("true")) {
-	    cm.sendOk("Sorry, but #rField of Judgement#k is currently closed.");
+	    cm.sendOk("抱歉，#r审判之地#k 目前已关闭。");
 	} else if (cm.getMeso() < 1000000) {
-	    cm.sendOk("You do not have enough meso.");
+	    cm.sendOk("你的枫币不够。");
 	} else if (cm.getPlayerStat("LVL") < 21) {
-	    cm.sendOk("You have to be at least level 21 to enter #rField of Judgement.#k");
+	    cm.sendOk("你必须达到21级以上才能进入 #r审判之地。#k");
 	} else if (cm.getPlayerStat("LVL") >= 21 && cm.getPlayerStat("LVL") < 31) {
 	    cm.gainMeso(-1000000);
 	    em.getInstance("lolcastle1").registerPlayer(cm.getChar());

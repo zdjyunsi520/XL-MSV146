@@ -8,7 +8,7 @@ function enter(pi) {
 		pi.gainItem(3994656,5);
         return;
    } else {
-	    pi.topMsg("You can't enter the Party Hall now.");
+	    pi.topMsg("你现在不能进入派对厅。");
 	}
     if (pi.getQuestStatus(13107)==1 && pi.itemQuantity(3994660) < 1){
         pi.warp(910028330,1);

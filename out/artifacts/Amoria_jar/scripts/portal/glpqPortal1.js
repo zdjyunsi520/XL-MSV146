@@ -4,7 +4,7 @@ function enter(pi) {
 	if (em.getProperty("glpq2").equals("5")){
 	    pi.warp(610030300, 0);
 	} else {
-	    pi.playerMessage(5, "The portal has not been activated!");
+	    pi.playerMessage(5, "传送门尚未激活！");
 	}
     }
 }

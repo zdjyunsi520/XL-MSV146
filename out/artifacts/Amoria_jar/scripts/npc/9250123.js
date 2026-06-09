@@ -12,7 +12,7 @@ function start() {
 
 function action(mode, type, selection) {
     if (status >= 0 && mode == 0) {
-	cm.sendOk("Please don't follow me.");
+	cm.sendOk("你要去地下通道吗？");
 	cm.dispose();
 	return;
     }
@@ -21,9 +21,9 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendYesNo("Are you going to the underground passage?.");
+	cm.sendYesNo("快点！");
     } else if (status == 1) {
-	cm.sendNext("Quickly!.");
+	cm.sendNext("快点！");
     } else if (status == 2) {
 	cm.warp(502010010, 0);
 	cm.dispose();

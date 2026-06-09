@@ -10,12 +10,12 @@ function action(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    cm.sendNext("Let me know when you're ready to fight those monsters. They're ruining everything!");
+		    cm.sendNext("让你上船吧。去击败那些在我船上肆虐的怪物！");
             cm.dispose();
         status--;
     }
     if (status == 0) {
-	    cm.sendYesNo("I'll let you on board. Go defeat the monsters rampaging my ship!");
+	    cm.sendYesNo("让你上船吧。去击败那些在我船上肆虐的怪物！");
 	} else if (status == 1) {
         cm.warp(4000033,0);
         cm.dispose();

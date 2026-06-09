@@ -22,7 +22,7 @@ function setup() {
 }
 
 function startMonsterRush() {
-    em.getChannelServer().yellowWorldMessage("[Monster Rush] Monsters have been summoned in Ariant, Amoria, El Nath, New Leaf City, and Nautilus Harbor. Go rape!");
+    em.getChannelServer().yellowWorldMessage("[怪物突袭] 怪物已在阿里亚特、阿莫利亚、埃尔纳斯、新叶城和鹦鹉号港出现。快去狩猎！");
     var i = 0;
 	for( m in maps ) {	
 		var map = em.getChannelServer().getMapFactory().getMap(maps[m]);   

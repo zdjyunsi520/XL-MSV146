@@ -18,71 +18,71 @@ function action(mode, type, selection) {
 		else
 			status--;
 		if (status == 0) {
-			cm.sendSimple ("Hey wassup?!#r#h#k I am the Wish Tickets System of MapleBlade! I can be used as bank too! What do you wanna do? \r\n#L0#Trade 500MIL for a #i4031545#\r\n#L1#Trade 1BIL for a #i4031544# \r\n#L2#Trade 1.5BIL for a #i4031543#\r\n#L3#Trade #i4031545# for 500MIL\r\n#L4#Trade #i4031544# for 1BIL\r\n#L5#Trade #i4031543# for 1.5BIL");
+			cm.sendSimple ("这是你的蓝色许愿票！");
 				  } else if (selection == 0) {
                                   if(cm.getMeso() >= 500000000) {
                                   cm.gainMeso(-500000000);
 				  cm.gainItem(4031545, 1);
-                                  cm.sendOk("Here's your Blue Wish Ticket!");
+                                  cm.sendOk("你的金币不够。");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have enough mesos.");
+        cm.sendOk("这是你的绿色许愿票！");
         cm.dispose();
         }
  				  } else if (selection == 1) {
                                   if(cm.getMeso() >= 1000000000) {
                                   cm.gainMeso(-1000000000);
 				  cm.gainItem(4031544, 1);
-                                  cm.sendOk("Here's your Green Wish Ticket!");
+                                  cm.sendOk("这是你的黄色许愿票！");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have enough mesos.");
+        cm.sendOk("这是你的绿色许愿票！");
         cm.dispose();
         }
 				  } else if (selection == 2) {
                                   if(cm.getMeso() >= 1500000000) {
                                   cm.gainMeso(-1500000000);
 				  cm.gainItem(4031543, 1);
-                                  cm.sendOk("Here's your Yellow Wish Ticket!");
+                                  cm.sendOk("这是你的500,000,000(5亿)金币！");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have enough mesos.");
+        cm.sendOk("这是你的绿色许愿票！");
         cm.dispose();
         }
 				  } else if (selection == 3) {
                                   if(cm.getMeso() < 1600000000 && cm.haveItem(4031545, 1)) {
                                   cm.gainMeso(500000000);
 				  cm.gainItem(4031545, -1);
-                                  cm.sendOk("Here's your 500,000,000 (500MIL) mesos!");
+                                  cm.sendOk("你没有蓝色许愿票，或者你的金币太多了(如果强行给你金币，你的金币会变成负数！)。");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have any Blue wish Tickets or you have too much mesos in your inventory (if we gave the mesos to you anyway, it would make your mesos go negative!).");
+        cm.sendOk("这是你的1,000,000,000(10亿)金币！");
         cm.dispose();
         }
 				  } else if (selection == 4) {
                                   if(cm.getMeso() < 1100000000 && cm.haveItem(4031544, 1)) {
                                   cm.gainMeso(1000000000);
 				  cm.gainItem(4031544, -1);
-                                  cm.sendOk("Here's your 1,000,000,000 (1BIL) mesos!");
+                                  cm.sendOk("这是你的1,500,000,000(15亿)金币！");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have any Blue wish Tickets or you have too much mesos in your inventory (if we gave the mesos to you anyway, it would make your mesos go negative!).");
+        cm.sendOk("这是你的1,000,000,000(10亿)金币！");
         cm.dispose();
         }
 				  } else if (selection == 5) {
                                   if(cm.getMeso() < 600000000 && cm.haveItem(4031543, 1)) {
                                   cm.gainMeso(1500000000);
 				  cm.gainItem(4031543, -1);
-                                  cm.sendOk("Here's your 1,500,000,000 (1.5BIL) mesos!");
+                                  cm.sendOk("这是你的1,500,000,000(15亿)金币！");
 				  cm.dispose();
         }
         else {
-        cm.sendOk("You don't have any Blue wish Tickets or you have too much mesos in your inventory (if we gave the mesos to you anyway, it would make your mesos go negative!).");
+        cm.sendOk("这是你的1,000,000,000(10亿)金币！");
         cm.dispose();
         }
 				} else if (selection == 6) {

@@ -24,7 +24,7 @@ function action(mode, type, selection) {
     else
 	status--;
     if (status == 0) {
-	cm.sendSimple("If you use this regular coupon, your face may transform into a random new look...do you still want to do it using #b#t5152037##k, I will do it anyways for you. But don't forget, it will be random!\r\n\#L2#OK!#l");
+	cm.sendSimple("如果你使用普通券，你的脸可能会变成随机的新样子...你还要用#b#t5152037##k来做吗？");
     } else if (status == 1) {
 	cm.dispose();
     } else if (selection == 2) {
@@ -39,12 +39,12 @@ function action(mode, type, selection) {
 		facenew.push(fface[i] + cm.getChar().getFace() % 1000 - (cm.getChar().getFace() % 100));
 	    }
 	}
-	cm.sendYesNo("If you use the regular coupon, your face may transform into a random new look...do you still want to do it using #b#t5152037##k?");
+	cm.sendYesNo("享受你全新改进的脸型吧！");
     } else if (status == 2) {
 	if (cm.setAvatar(5152037, facenew[Math.floor(Math.random() * facenew.length)]) == 1){
-	    cm.sendOk("Enjoy your new and improved face!");
+	    cm.sendOk("嗯...看起来你没有这个地方专用的券。很抱歉这么说，但没有券的话，没办法给你做整形...");
 	} else {
-	    cm.sendOk("Hmm ... it looks like you don't have the coupon specifically for this place. Sorry to say this, but without the coupon, there's no plastic surgery for you...");
+	    cm.sendOk("嗯...看起来你没有这个地方专用的券。很抱歉这么说，但没有券的话，没办法给你做整形...");
 	}
     }
 }

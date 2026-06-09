@@ -11,7 +11,7 @@ try {
 					return;
 				}
 			} else {
-				pi.playerMessage(5, "You are not the leader of the party.");
+				pi.playerMessage(5, "你不是队伍的队长。");
 			}
 		} else {
 			if (pi.getPlayerCount(dungeonid) == 0) {
@@ -19,7 +19,7 @@ try {
 				return;
 			}
 		}
-		pi.playerMessage(5, "All of the Mini-Dungeons are in use right now, please try again later.");
+		pi.playerMessage(5, "所有迷你地下城目前都在使用中，请稍后再试。");
     } else {
 		pi.playPortalSE();
 		pi.warp(baseid, "MD00");

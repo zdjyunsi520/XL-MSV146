@@ -1,7 +1,7 @@
 var status = -1;
 
 function start(mode, type, selection) {
-	qm.sendNext("Royal Guard Ani comes out every hour, but right now he's not feeling like fighting.");
+	qm.sendNext("皇家卫士阿尼每小时出现一次，不过他现在不想战斗。");
 	qm.forceStartQuest();
 	qm.dispose();
 }

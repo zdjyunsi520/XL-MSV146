@@ -15,7 +15,7 @@ function action(mode, type, selection) {
 	var em = cm.getEventManager("Juliet");
 	if (status == 0) {
 		if (cm.getPlayer().getMapId() == 261000021) {
-			cm.sendSimple("#eParty Quest: Romeo and Juliet>#n\r\nMagatia faces a grave threat. We need brave adventurers to answer our call.#b\r\n#L0#Listen to Juliet's story.\r\n#L1#Start the quest.\r\n#L2#Find a party.\r\n#L3#Make a necklace with Alcando Marbles.\r\n#L4#Combine two necklaces into one.#k"); //#L5#Check the number of tries left for today.
+			cm.sendSimple("#e组队任务：罗密欧与朱丽叶>#n\r\n玛加提亚面临着严重的威胁。我们需要勇敢的冒险者来响应我们的号召。#b\r\n#L0#听朱丽叶的故事。\r\n#L1#开始任务。\r\n#L2#寻找队伍。\r\n#L3#用阿尔卡德诺弹珠制作项链。\r\n#L4#将两条项链合并为一条。#k"); //#L5#Check the number of tries left for today.
 		} else {
 		switch(cm.getPlayer().getMapId()) {
 			case 926110000:
@@ -24,32 +24,32 @@ function action(mode, type, selection) {
 			case 926110300:
 			case 926110400:
 				status = 16;
-				cm.sendSimple("How can I help you?#b\r\n#L0#Where am I?\r\n#L1#I want to get out of here!");
+				cm.sendSimple("有什么可以帮你的吗？#b\r\n#L0#我在哪里？\r\n#L1#我想离开这里！");
 				break;
 			case 926110200:
 				if (cm.haveItem(4001131,1)) {
-					cm.sendOk("Oh, the Letter I wrote! Thank you!"); // TODO.. :(
+					cm.sendOk("哦，我写的信！谢谢你！"); // TODO.. :(
 					cm.gainItem(4001131,-1);
 					em.setProperty("stage", "1");
 					cm.dispose();
 				} else if (cm.haveItem(4001134, 1)) {
 					status = 19;
-					cm.sendSimple("Hey, isn't that #bAlcando's Experiment Files?#k This should prove that the Zenumists are not responsible for stealing Alcando's source of energy! Please give me that right now!\r\n\r\n#b#L0#Give the Alcando's Experiment Files to Juliet.#l");
+					cm.sendSimple("嘿，那不是#b阿尔卡德诺的实验文件#k吗？这可以证明泽尼密斯特没有偷窃阿尔卡德诺的能源！请立刻把它给我！\r\n\r\n#b#L0#将阿尔卡德诺的实验文件交给朱丽叶。#l");
 				} else if (cm.haveItem(4001135, 1) && em.getProperty("stage4").equals("1")) {
 					status = 19;
-					cm.sendSimple("Hey, isn't that #bAlcando's Experiment Files?#k This should prove that the Zenumists are not responsible for stealing Alcando's source of energy! Please give me that right now!\r\n\r\n#b#L1#Give the Alcando's Experiment Files to Juliet.#l");
+					cm.sendSimple("嘿，那不是#b阿尔卡德诺的实验文件#k吗？这可以证明泽尼密斯特没有偷窃阿尔卡德诺的能源！请立刻把它给我！\r\n\r\n#b#L1#将阿尔卡德诺的实验文件交给朱丽叶。#l");
 				} else {
 					status = 16;
-					cm.sendSimple("How can I help you?#b\r\n#L0#Where am I?\r\n#L1#I want to get out of here!");
+					cm.sendSimple("有什么可以帮你的吗？#b\r\n#L0#我在哪里？\r\n#L1#我想离开这里！");
 				}
 				break;
 			case 926110401:
 				status = 24;
-				cm.sendNext("Thank you so much for your help in saving Romeo. Thank you so, so much.");
+				cm.sendNext("非常感谢你帮忙救出了罗密欧。真的非常、非常感谢。");
 				break;
 			case 926110600:
 				status = 29;
-				cm.sendNext("Again, thank you so much for helping us out. Magatia may still be on the threat of danger, but I think this is enough to snuff out the big fire for now.");
+				cm.sendNext("再次感谢你的帮助。玛加提亚可能仍然面临威胁，但我想这足以暂时扑灭这场大火了。");
 				// cm.openNpc(2112018);
 				break;
 		}
@@ -57,19 +57,19 @@ function action(mode, type, selection) {
 	} else if (status == 1) {
 		if (selection == 0) {
 			status = 10;
-			cm.sendNext("I, Juliet, am deeply in love with Romeo, and I know he loves me too. The problem is, I am in Alcando Society, and Romeo is under Zenumist Society, so we are not meant to be together...");
+			cm.sendNext("我，朱丽叶，深爱着罗密欧，我知道他也爱我。问题是，我在阿尔卡德诺协会，而罗密欧属于泽尼密斯特协会，所以我们注定不能在一起……");
 		} else if (selection == 1) {
 			var items = [4001130, 4001131, 4001132, 4001133, 4001134, 4001135];
 			for (var i = 0; i < items.length; i++) {
 				cm.removeAll(items[i]);
 			}
 			if (em == null || !cm.getPlayer().isGM()) {
-				cm.sendOk("Please try again later.");
+				cm.sendOk("请稍后再试。");
 				cm.dispose();
 				return;
 			}
 			if (cm.getPlayer().getParty() == null || !cm.isLeader()) {
-				cm.sendOk("The leader of the party must be here.");
+				cm.sendOk("队伍队长必须在这里。");
 			} else {
 				var party = cm.getPlayer().getParty().getMembers();
 				var mapId = cm.getPlayer().getMapId();
@@ -89,54 +89,54 @@ function action(mode, type, selection) {
 				var prop = em.getProperty("state");
 				if (prop.equals("0") || prop == null) {
 					em.startInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap(), 200);
-					cm.sendOk("This is the lab where rumors are abound that a suspicious noise can be heard from here every night. If there's anything hidden in here, it has to be in this place. Please look thoroughly into this lab.");
+					cm.sendOk("这是那个每晚都能听到可疑声响的传闻实验室。如果这里藏着什么秘密，一定就在这个地方。请仔细搜查这个实验室。");
 				} else {
-					cm.sendOk("Another party quest has already entered on this channel.");
+					cm.sendOk("此频道已有另一个队伍任务正在进行。");
 				}
 			} else {
-				cm.sendOk("All 4 members of your party must be here and above level 70.");
+				cm.sendOk("你队伍中的所有4名成员都必须在这里，且等级达到70级以上。");
 			}
 			}
 		} else if (selection == 2) {
 			cm.findParty();
 			cm.dispose();
 		} else if (selection == 3) {
-			cm.sendOk("Eric is working on scripting the #eexact#n #bRomeo and Juliet PQ#k from #rGlobal MapleStory#k.\r\nBecause this script has not been translated to GMS-like, it is unfunctional.\r\n\r\nIf you have a screenshot or text that this window uses, please report this to our forums.");
+			cm.sendOk("Eric正在编写来自#r全球枫之谷#k的#e完整#n #b罗密欧与朱丽叶组队任务#k。\r\n由于此脚本尚未翻译为GMS风格，目前无法使用。\r\n\r\r\n如果你有此窗口使用的截图或文字，请在我们的论坛上报告。");
 			cm.dispose();
 		} else if (selection == 4) {
-			cm.sendOk("Eric is working on scripting the #eexact#n #bRomeo and Juliet PQ#k from #rGlobal MapleStory#k.\r\nBecause this script has not been translated to GMS-like, it is unfunctional.\r\n\r\nIf you have a screenshot or text that this window uses, please report this to our forums.");
+			cm.sendOk("Eric正在编写来自#r全球枫之谷#k的#e完整#n #b罗密欧与朱丽叶组队任务#k。\r\n由于此脚本尚未翻译为GMS风格，目前无法使用。\r\n\r\r\n如果你有此窗口使用的截图或文字，请在我们的论坛上报告。");
 			cm.dispose();
 		}
 	} else if (status == 11) {
-		cm.sendNextPrev("What you should know is that is wasn't always like this. That is why we would like nothing more than to serve as a bridge between Zenumist and Alcando and contribute towards peace between these two societies.");
+		cm.sendNextPrev("你应该知道的是，事情并不一直是这样。这就是为什么我们最大的愿望就是成为泽尼密斯特和阿尔卡德诺之间的桥梁，为这两个协会之间的和平做出贡献。");
 	} else if (status == 12) {
-		cm.sendNextPrev("We have tried our best, but unfortunately, Magatia is currently #bon the verge of a full-fledged war.#k That is because a while ago, the #bpower source of both Zenumist and Alcando went missing.#k Both societies are now blaming one another for this incidient, and it is getting worse by the day.");
+		cm.sendNextPrev("我们已经尽了最大努力，但不幸的是，玛加提亚目前#b正处于全面战争的边缘。#k那是因为不久前，#b泽尼密斯特和阿尔卡德诺的能源都失踪了。#k两个协会现在互相指责，情况日益恶化。");
 	} else if (status == 13) {
-		cm.sendNextPrev("I recently received a tip from an anonymous source that it is actually a deed of a #b3rd personal,#k totally unrelated to this. In order to prevent this civil war of Magatia and have my love for Romeo fully blossom, we must find that #b3rd person#k and stop that person from destroying this great town.");
+		cm.sendNextPrev("我最近收到了一个匿名消息，说这实际上是一个与此事无关的#b第三方#k所为。为了阻止玛加提亚的内战，并让我和罗密欧的爱情完全绽放，我们必须找到那个#b第三方#k，阻止那个人摧毁这座伟大的城镇。");
 	} else if (status == 14) {
-		cm.sendNextPrev("Show your bravery, and help defend the peace in Magatia!\r\n#e - Level:#n 70 or higher #r(Recommended Level: 70-119)#k\r\n#e - Time Limit:#n 20 min\r\n#e - Number of Players:#n 4\r\n#e - Reward:#n\r\n#i1122117# Juliet's Pendant\r\n(Can be obtained from #bJuliet#k once you collect #r20#k #bAlcando Marbles.#k)\r\n#i1122118# Symbol of Eternal Love\r\n(Can be traded for 1 #bRomeo's Pendant#k and 1 #bJuliet's Pendant#k)");
+		cm.sendNextPrev("展现你的勇气，帮助保卫玛加提亚的和平！\r\n#e - 等级要求：#n 70级及以上 #r（推荐等级：70-119）#k\r\n#e - 时间限制：#n 20分钟\r\n#e - 玩家人数：#n 4人\r\n#e - 奖励：#n\r\n#i1122117# 朱丽叶吊坠\r\n（收集#r20#个#b阿尔卡德诺弹珠#k后可从#b朱丽叶#k处获得。）\r\n#i1122118# 永恒之爱象征\r\n（可用1个#b罗密欧吊坠#k和1个#b朱丽叶吊坠#k交换获得）");
 	} else if (status == 15) {
 		cm.dispose();
 	} else if (status == 17) {
 		if (selection == 0) {
 			switch(cm.getPlayer().getMapId()) { // TODO: Script ALL of these.. :/
 				case 926110000:
-					cm.sendOk("This is the lab where rumors are abound that a suspicious noise can be heard from here every night. If there's anything hidden in here, it has to be in this place. Please look thoroughly into this lab.");
+					cm.sendOk("这是那个每晚都能听到可疑声响的传闻实验室。如果这里藏着什么秘密，一定就在这个地方。请仔细搜查这个实验室。");
 					break;
 				case 926110001:
-					cm.sendOk("Please, eliminate all the monsters! I'll be right behind you.");
+					cm.sendOk("请消灭所有怪物！我就在你身后。");
 					break;
 				case 926110100:
-					cm.sendOk("These beakers have leaks in them. We must pour the Suspicious Liquid to the beakers' brims so we can continue.");
+					cm.sendOk("这些烧杯有泄漏。我们必须将可疑液体倒入烧杯至满，才能继续前进。");
 					break;
 				case 926110200:
-					cm.sendOk("We must stop the conflict between Alcadno and Zenumist! Find me Alcadno files first, then Zenumist!");
+					cm.sendOk("我们必须阻止阿尔卡德诺和泽尼密斯特之间的冲突！先找到阿尔卡德诺文件，再找泽尼密斯特文件！");
 					break;
 				case 926110300:
-					cm.sendOk("We must get to the top of the Lab, each of your members.");
+					cm.sendOk("我们必须到达实验室的顶层，每个队员都要到达。");
 					break;
 				case 926110400:
-					cm.sendOk("Whenever you are ready, we shall go and save my love.");
+					cm.sendOk("当你准备好时，我们就去救我的爱人。");
 					break;
 			}
 			cm.dispose();
@@ -146,7 +146,7 @@ function action(mode, type, selection) {
 		}
 	} else if (status == 20) {
 		if (selection == 0) {
-			cm.sendOk("In order to stop the war, we still need to find a hard evidence that convinces the Zenumists that it's not Alcando's fault. I'll leave the door open so please find a concrete evidence for us!");
+			cm.sendOk("为了阻止战争，我们仍然需要找到确凿的证据来让泽尼密斯特相信这不是阿尔卡德诺的错。我会把门打开，请为我们找到具体的证据！");
 			cm.gainItem(4001134, -1);
 			em.setProperty("stage4", "1");
 			cm.dispose();
@@ -155,21 +155,21 @@ function action(mode, type, selection) {
 			cm.showEffect(false, "quest/party/clear"); // client
 			cm.playSound(true, "Party1/Clear"); // map
 			cm.playSound(false, "Party1/Clear"); // client
-			cm.sendOk("Now that it's proven that neither Zenumist nor Alcando are responsible for stealing each other's source of energy, the war can finally be prevented. Thank you so much for your hard work. I have opened the door that'll lead you to the next stage, so please find out who is responsible for this mess in the first place!!");
+			cm.sendOk("既然已经证明泽尼密斯特和阿尔卡德诺都没有偷窃对方的能源，战争终于可以被阻止了。非常感谢你的辛勤工作。我已经打开了通往下一阶段的门，请找出到底是谁在幕后操纵这一切！！");
 			cm.gainItem(4001135, -1);
 			em.setProperty("stage4", "2");
 			cm.getMap().getReactorByName("jnr3_out3").hitReactor(cm.getClient());
 			cm.dispose();
 		}
 	} else if (status == 25) {
-		cm.sendNextPrev("Unfortunately, Yulete got away from us, so this is not over yet. I doubt he is too far from here, so please find him right now!!");
+		cm.sendNextPrev("不幸的是，尤莱特从我们手中逃脱了，所以事情还没有结束。我猜他不会离这里太远，请立刻找到他！！");
 	} else if (status == 26) {
 		cm.warpParty(926110500);
 		cm.dispose();
 	} else if (status == 30) {
-		cm.sendNextPrev("Eventhough our love is still littered with obstacles, I can promise you that I will not give up in my quest to be with Romeo until the end.");
+		cm.sendNextPrev("尽管我们的爱情仍然障碍重重，但我可以向你保证，我不会放弃追求与罗密欧在一起，直到最后。");
 	} else if (status == 31) {
-		cm.sendNextPrev("Here's the Alcando Marble that I have had for the longest time. Please take it. I have also given you some rewards for the job well done. I will now lead your way out of here.");
+		cm.sendNextPrev("这是我珍藏已久的阿尔卡德诺弹珠。请收下。我也给了你一些奖励，以表彰你出色的工作。现在我将引导你离开这里。");
 	} else if (status == 32) {
 		var items = [4001130, 4001131, 4001132, 4001133, 4001134, 4001135];
 		for (var i = 0; i < items.length; i++) {
@@ -179,7 +179,7 @@ function action(mode, type, selection) {
 		if (em != null) {
 			var itemid = cm.getMapId() == 926100600 ? 4001160 : 4001159;
 			if (!cm.canHold(itemid, 1)) {
-				cm.sendOk("Please make some space in your ETC inventory.");
+				cm.sendOk("请腾出你的其他栏背包空间。");
 				cm.dispose();
 				return;
 			}

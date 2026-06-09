@@ -34,7 +34,7 @@ function action(mode, type, selection) {
     }
 	var time = parseInt(data);
 		        if (time + (12 * 3600000) >= cm.getCurrentTime() && !cm.getPlayer()) {
-                cm.sendOk("You have already went to Cygnus in the past 12 hours. Time left: " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
+                cm.sendOk("你在过去12小时内已经挑战过女皇了。剩余时间： " + cm.getReadableMillis(cm.getCurrentTime(), time + (12 * 3600000)));
                 cm.dispose();
                 return;
             } else {
@@ -63,7 +63,7 @@ function action(mode, type, selection) {
 				full = false;
         }
 		        if (full) {
-            cm.sendOk("Someone is already inside.");
+            cm.sendOk("已经有人在里面了。");
             cm.dispose();
             return;
 			}
@@ -77,7 +77,7 @@ function action(mode, type, selection) {
                             if (next) {
                                 var q = cm.getEventManager("MagnusBattle");
                                 if (q == null) {
-                                    cm.sendOk("Unknown error occured");
+                                    cm.sendOk("发生了未知错误。");
 									cm.dispose();
                                 } else {
                                     q.startInstance(cm.getParty(), cm.getMap());
@@ -85,15 +85,15 @@ function action(mode, type, selection) {
 									cm.dispose();
                                 }
                             } else {
-                                cm.sendOk("All players must be in map and above level 150.");
+                                cm.sendOk("所有玩家必须在地图中且等级达到150以上。");
                                 cm.dispose();
                             }
                         } else {
-                            cm.sendOk("You are not the leader of the party, please ask your leader to talk to me.");
+                            cm.sendOk("你不是队长，请让你的队长来和我交谈。");
                             cm.dispose();
                         }
                     } else {
-                        cm.sendOk("Please form a party first.");
+                        cm.sendOk("请先组建一个队伍。");
                         cm.dispose();
                     }
                     break;

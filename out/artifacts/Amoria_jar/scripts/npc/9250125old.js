@@ -14,7 +14,7 @@ function action(mode, type, selection) {
     if (status == -1) {
             cm.dispose();
     } else if (status == 0) {
-        cm.sendSimple("Hi, I'm the #rJQ warper#k of #bRoyalMS#k! Wich JQ would you like to try? \r\n#L0#Breath of Lava \r\n#L1#Toy Factory \r\n#L2#Forest of Patience \r\n#L3#B1: Area 1 \r\n#L4#B2: Area 1 \r\n#L5#B3: Area 1");
+        cm.sendSimple("嗨，我是#bRoyalMS#k的#rJQ传送员#k！你想尝试哪个JQ？\r\n#L0#熔岩之息 \r\n#L1#玩具工厂 \r\n#L2#忍耐之森 \r\n#L3#B1: 区域1 \r\n#L4#B2: 区域1 \r\n#L5#B3: 区域1");
     } else if (status == 1) {
     if (selection == 0) {
         cm.warp(280020000);

@@ -19,16 +19,16 @@ function action(mode, type, selection) {
 			status--;
 		}
 		if (status == 0) {
-			cm.sendSimple("I'm Bo! I'm the world's greatest expert on Blacksmithing. I'm also the world's greatest expert on alien technology. I'm ALSO the world's ONLY expert on alien blacksmithing technology! I tell you what, I'm going to be RICH with this new discovery! I call them Sockets! I invented the Alien Socket Creator that adds a socket on normal everyday things. and then I infuse them with these pieces of Nebulite and...\r\n\r\n#b#L0#Sockets? What are you talking about?#l\r\n#L1#What the heck is a Nebulite?#l");
+			cm.sendSimple("用我改装的这件疯狂的外星设备，任何物品都可以安装插槽！它基本上就是一个小凹槽，你可以把叫做\"星云石\"的特殊外星石头插进去。外星人把它们当作能量来源，但你可以用它们来给装备增加特殊属性！它们放在口袋里没有任何效果，但插入装备插槽后，你就能 harness 太空的力量了！");
 		} else if (status == 1) {
 			if (selection == 0) {
-				cm.sendNext("Using this crazy piece of alien hardware I rigged up, any item can have a socket installed! It's basically just a little slot where you can stick special alien stones called 'Nebulite'. The aliens use them for power, but you can use them to give special stats to your gear! They don't do anything if they're just sitting in your pocket, but stick them into an equipment socket and you'll harness the power of space!");
+				cm.sendNext("星云石是外星人入侵枫之谷世界时掉落的微小石头。他们似乎把星云石当作某种能量来源。各地的怪物不知为何也在携带它们。我想它们喜欢闪亮的东西吧！\r\n\r\n#b#m600000000##k附近有我发现的最好的星云石矿。我觉得那里的#b#p9201050##k有一些极品货，但他不是那种白送的人。");
 			} else {
-				cm.sendNext("Nebulites are tiny stones the aliens dropped when they invaded Maple World. They seem to use them as a sort of power source. Monsters all over have been carrying them around for some reason. I guess they like shiny things! \r\n\r\nThe area around #b#m600000000##k has some of the best Nebulite chunks I've found so far. I think #b#p9201050##k there has some really primo pieces, but he's not the kind of guy to give handouts.");
+				cm.sendNext("不幸的是，我们的普通装备不太适合利用外星能量。这就是我的外星插槽扳手派上用场的地方！我安装一个插槽，你就能获得那种美妙的星际力量。目前我只研究出如何在一件装备上安装一个插槽，但我正在努力在不弄坏扳手的情况下安装第二个。研究快完成了，我保证！");
 				cm.dispose();
 			}			
 		} else if (status == 2) {
-			cm.sendNextPrev("Unfortunately, our normal equipment isn't really made to utilize alien power. That's where my Alien Socket Wrench comes in! I install a socket. You get that sweet intergalactic power. Now I've only figured out how to make one socket on a piece of equipment so far, but I'm working hard to fit a second without breaking my wrench. The research is nearly complete, I promise!");
+			cm.sendNextPrev("不幸的是，我们的普通装备不太适合利用外星能量。这就是我的外星插槽扳手派上用场的地方！我安装一个插槽，你就能获得那种美妙的星际力量。目前我只研究出如何在一件装备上安装一个插槽，但我正在努力在不弄坏扳手的情况下安装第二个。研究快完成了，我保证！");
 		} else if (status == 3) {
 			cm.dispose();
 		}

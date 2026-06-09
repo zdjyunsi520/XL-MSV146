@@ -9,14 +9,14 @@ function start(mode, type, selection) {
         status++;
     } else 
         if (status == 0) {
-		    qm.sendOk("I see. It's good to know your limits, but I think you're ready to move on...");
+		    qm.sendOk("我明白了。了解自己的极限是好事，但我觉得你已经准备好继续前进了...");
             qm.dispose();
         status--;
     }
     if (status == 0) {
-	    qm.sendAcceptDecline("#h0#, you have done surprisingly well. Do you wish to take the #bKnighthood Exam#k? If you pass, you will become a full-fledged knight.");
+	    qm.sendAcceptDecline("#h0#，你做得出奇地好。你想参加#b骑士考试#k吗？如果通过，你将成为一名真正的骑士。");
 	} else if (status == 1) {
-	    qm.sendOk("Come to Ereve when you are ready for the exam. Your Chief Knight will test your abilities.");
+	    qm.sendOk("准备好考试时来埃雷布吧。你的首席骑士会测试你的能力。");
 	    qm.forceStartQuest();
 	    qm.dispose();
 	}
@@ -31,7 +31,7 @@ if (mode == -1) {
 	else
 	    status--;
 	if (status == 0) {
-	    qm.sendNextPrev("You have completed the Knighthood Exam. You are no longer a Knight-in-Training, but a full-fledged official knight. May your raucous adventures serve the Cygnus Knights in some way.");
+	    qm.sendNextPrev("你已经完成了骑士考试。你不再是见习骑士，而是一名真正的正式骑士。愿你的冒险生涯以某种方式为骑士团效力。");
 	} else if (status == 1) {
 	  qm.forceCompleteQuest();
           qm.changeJob(1510);

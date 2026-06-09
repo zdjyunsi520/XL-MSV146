@@ -48,7 +48,7 @@ function playerDisconnected(eim, player) {
 
 function monsterValue(eim, mobId) {
     if (mobId == 9400748) { //MV
-		eim.broadcastPlayerMsg(6, "Congratulations, you've defeated MV!! Stick here for another minute and get warped to the BONUS!");
+		eim.broadcastPlayerMsg(6, "恭喜，你击败了MV!! 在这里等待一分钟后将被传送到奖励地图！");
 		eim.restartEventTimer(60000); //1 mins
 		eim.schedule("warpWinnersOut", 55000);
     }

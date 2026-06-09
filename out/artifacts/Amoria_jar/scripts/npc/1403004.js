@@ -31,21 +31,21 @@ function action(mode, type, selection) {
             status--;
         if (status == 0) {
             if (cm.getPlayer().getGMLevel() > 2) {
-                cm.sendGetText("#eHey #h #! I can check a player's inventory for you. \r\n\r\n#rPlease type in a players' name");
+                cm.sendGetText("#e嘿 #h #！我可以帮你查看玩家的物品栏。 \r\n\r\n#r请输入玩家的名字");
             } else {
-                cm.sendOk("#e GTFO NON-GM");
+                cm.sendOk("#e非管理员请离开");
                 cm.dispose();
             }
         } else if (status == 1) {
             name = cm.getText(); 
             p = cm.getCharByName(name);
             if (p != null) {
-                cm.sendSimple("#eChoose an inventory#b\r\n#L0#Equip#l\r\n#L1#Use#l\r\n#L2#Set-up#l\r\n#L3#ETC#l\r\n#L4#Cash#l");
+                cm.sendSimple("#e选择一个物品栏#b\r\n#L0#装备#l\r\n#L1#消耗#l\r\n#L2#设置#l\r\n#L3#其他#l\r\n#L4#现金#l");
             } else {
-                cm.sendOk("#e#rThe player you are trying to choose either is offline or not in your channel.");
+                cm.sendOk("#e#r你选择的玩家可能已离线或不在你的频道。");
             }
         } else if (status == 2) {
-            string = "#eClick on an item to remove #rall#k of it.\r\n#n";
+            string = "#e点击物品以删除#r所有#k该物品。\r\n#n";
             thing = selection;
             if (selection == 0) {                
                 cm.sendSimple(string+cm.EquipList(p.getClient()));
@@ -60,8 +60,8 @@ function action(mode, type, selection) {
             }
         } else if (status == 3) {
             slot = selection;
-            send = "#eThe user has#r ";
-            send2 = "#k of the item #i";
+            send = "#e该用户拥有#r ";
+            send2 = "#k 个物品 #i";
             if (thing == 0) {
                 send += p.getItemQuantity(p.getEquipId(selection), true);
                 send2 += p.getEquipId(selection);
@@ -78,7 +78,7 @@ function action(mode, type, selection) {
                 send += p.getItemQuantity(p.getCashId(selection), true);
                 send2 += p.getCashId(selection);
             }
-            var send3 = send + send2 + "# are you sure you want to delete #rall#k of that item?";
+            var send3 = send + send2 + "# 你确定要删除#r所有#k该物品吗？";
             cm.sendYesNo(send3);
         } else if (status == 4) {
             if (thing == 0) { 
@@ -92,7 +92,7 @@ function action(mode, type, selection) {
             } else if (thing == 4) {
                 p.deleteAll(p.getCashId(slot));
             }
-            cm.sendOk("#eSuccessfully deleted " +  name + "'s item");
+            cm.sendOk("#e成功删除了 " +  name + "的物品");
             cm.dispose();
         }
     }

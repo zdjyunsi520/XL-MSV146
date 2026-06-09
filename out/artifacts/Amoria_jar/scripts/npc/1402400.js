@@ -22,17 +22,17 @@ function action(mode, type, selection) {
 
 function Tutorial4(selection) {
     if (chat == 0)
-        cm.sendSimple("You! Who are you, and what are you doing here?\r\n#L0#I'm just... another ghost#l\r\n#L1#I'm Guard #hh# And I've caught Rhinne, Goddess of Time#l\r\n#L2#I will defeat you!");
+        cm.sendSimple("你！你是谁，你在这里做什么？\r\n#L0#我只是……又一个幽灵#l\r\n#L1#我是守卫 #hh#，我抓到了时间女神莉茵#l\r\n#L2#我要打败你！");
     else if (chat == 1) {
         switch (selection) {
             case 0:
-                cm.sendNextS("I'm just... another ghost.", 3);
+                cm.sendNextS("我只是……又一个幽灵。", 3);
                 break;
             case 1:
-                cm.sendNextS("I'm Guard #hh# And I've caught Rhinne, Goddess of Time.", 3);
+                cm.sendNextS("我是守卫 #hh#，我抓到了时间女神莉茵。", 3);
                 break;
             case 2:
-                cm.sendNextS("I will defeat you!", 3);
+                cm.sendNextS("我要打败你！", 3);
                 break;
         }
         select = selection;
@@ -40,17 +40,17 @@ function Tutorial4(selection) {
         switch (select) {
             case 0:
             case 2:
-                cm.sendOk("Qucikly, talk to her again! I've made her think you never met.", 2144020);
+                cm.sendOk("快！再和她说话！我已经让她以为你们从未见过面。", 2144020);
                 cm.dispose();
                 break;
             case 1:
-                cm.sendNext("Oh, really? I'm very proud of you! Bring her to me!");
+                cm.sendNext("哦，真的吗？我真为你骄傲！把她带到我这里来！");
                 break;
         }
     } else if (chat == 3)
-        cm.sendNext("Ugh! By the powers of time!", 2144020);
+        cm.sendNext("啊！以时间之力！", 2144020);
     else if (chat == 4)
-        cm.sendNext("Fast! She's about to cast a spell! Lets get out of here!\r\nI will send you to henesys and I'll try to catch her!");
+        cm.sendNext("快！她要施法了！我们快离开这里！\r\n我会把你送到射手村，我去试着抓住她！");
     else if (chat == 5) {
         cm.removeNpc(300000012, 1402400);
         cm.removeNpc(300000012, 1402401);

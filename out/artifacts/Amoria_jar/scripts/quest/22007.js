@@ -30,15 +30,15 @@ function end(mode, type, selection) {
 	    if(type == 1 && mode == 0)
 		    status -= 2;
 		else{
-			qm.sendNext("Hm? That's strange. The Incubator wasn't installed properly. Try again.");
+			qm.sendNext("嗯？好奇怪。孵化器没有正确安装。再试一次。");
 		    qm.dispose();
 			return;
 		}
 	}
 	if (status == 0)
-		qm.sendNext("Oh, did you bring the #t4032451#? Here, give it to me. I'll give you the Incubator then.");
+		qm.sendNext("哦，你把#t4032451#带来了吗？来，给我吧。然后我把孵化器给你。");
 	if (status == 1)
-		qm.sendYesNo("Alright, here you go. I have no idea how you use it, but it's yours... \r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 360 exp");
+		qm.sendYesNo("好了，给你。我不知道你怎么使用它，但它是你的了……\r\n\r\n#fUI/UIWindow.img/QuestIcon/8/0# 360 经验");
 	if (status == 2){
 		qm.forceCompleteQuest();
 		qm.gainExp(360);
